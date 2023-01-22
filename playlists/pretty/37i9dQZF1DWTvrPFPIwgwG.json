@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Eliane Fernandes",
-  "num_followers": 57931,
+  "num_followers": 57975,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MjE3OSwwMDAwMDAwMGMyN2NjOTlhZDY1OWRjYzliMGE3ZTkxNDY2ZDM1OGUz",
+  "snapshot_id": "MTY3MzU4MjE3OSwwMDAwMDAwMGE1MzQ3NTY1ZGEwZjNjMmI0ZmVjNGZmZDYxZjViY2Rl",
   "tracks": [
     {
       "added_at": "2023-01-13 03:56:19",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
-      },
-      "artists": [
-        {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
-        },
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Dependente (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 244285,
       "name": "Forma de Cuidado (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK"
+      },
+      "artists": [
+        {
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+        },
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Dependente (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Profetiza",
-        "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 294475,
-      "name": "Profetiza",
-      "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
         "name": "Que Tal",
         "url": "https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 309001,
       "name": "Que Tal",
       "url": "https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
+        "name": "Profetiza",
+        "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 294475,
+      "name": "Profetiza",
+      "url": "https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
+        "name": "Eu Cheguei",
+        "url": "https://open.spotify.com/album/1hDhqOXfARkJ2v0ExAlgMW"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "duration_ms": 236572,
+      "name": "Eu Cheguei",
+      "url": "https://open.spotify.com/track/2gKqsfw4nveTulCldaIcVZ"
+    },
+    {
+      "added_at": "2023-01-13 03:56:19",
+      "album": {
         "name": "Eu Te Toquei (Ao Vivo)",
         "url": "https://open.spotify.com/album/1y157yrC9IY6bVjkkJrrDn"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 248143,
       "name": "Vai Se Cumprir",
       "url": "https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9"
-    },
-    {
-      "added_at": "2023-01-13 03:56:19",
-      "album": {
-        "name": "Eu Cheguei",
-        "url": "https://open.spotify.com/album/1hDhqOXfARkJ2v0ExAlgMW"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        }
-      ],
-      "duration_ms": 236572,
-      "name": "Eu Cheguei",
-      "url": "https://open.spotify.com/track/2gKqsfw4nveTulCldaIcVZ"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Maior Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd"
+        "name": "Deus \u00c9, Deus Est\u00e1, Deus Faz",
+        "url": "https://open.spotify.com/album/21oORJhHSY6MvEJQtQPAwO"
       },
       "artists": [
         {
-          "name": "Alugiana",
-          "url": "https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV"
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
         }
       ],
-      "duration_ms": 383955,
-      "name": "Maior Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO"
+      "duration_ms": 310504,
+      "name": "Deus \u00c9, Deus Est\u00e1, Deus Faz",
+      "url": "https://open.spotify.com/track/0TA4FLhn9MlpNprmvZll4q"
     },
     {
       "added_at": "2023-01-13 03:56:19",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-01-13 03:56:19",
       "album": {
-        "name": "Deus \u00c9, Deus Est\u00e1, Deus Faz",
-        "url": "https://open.spotify.com/album/21oORJhHSY6MvEJQtQPAwO"
+        "name": "Maior Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd"
       },
       "artists": [
         {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+          "name": "Alugiana",
+          "url": "https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV"
         }
       ],
-      "duration_ms": 310504,
-      "name": "Deus \u00c9, Deus Est\u00e1, Deus Faz",
-      "url": "https://open.spotify.com/track/0TA4FLhn9MlpNprmvZll4q"
+      "duration_ms": 383955,
+      "name": "Maior Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO"
     },
     {
       "added_at": "2023-01-13 03:56:19",

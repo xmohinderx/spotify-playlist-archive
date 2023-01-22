@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vedha
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,735 likes - 143 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,782 likes - 143 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 5 | [Ghost Theme Music](https://open.spotify.com/track/2Z4NzOBH9myKArrhWnGxtp) | [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy) | [Ghost](https://open.spotify.com/album/1KjaMLaFgkWhSpt87g07xX) | 0:52 |
 | 6 | [Ninnanu Nodida](https://open.spotify.com/track/1nmAuxcjll2bz13MSvKClR) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Baanadariyalli](https://open.spotify.com/album/2BAU7DUrMb3gtkUhMvF3YW) | 4:16 |
 | 7 | [Mallika Mallika \(From “Shaakuntalam”\)](https://open.spotify.com/track/1NH8OPuWfymlmtna2IM8Ew) | [Ramya Behra](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Mallika Mallika \(From “Shaakuntalam”\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0NIYdS8lI5Qc2Afr4EPiJA) | 5:09 |
-| 8 | [Bucket song \- From "Dove Master"](https://open.spotify.com/track/4n5mBQbMK3zoMu3nB3uJsf) | [Shameer Mudipu](https://open.spotify.com/artist/7ey1yG4zjWT6QvVl6PiMHN), [Yogish AN](https://open.spotify.com/artist/4r2MDzHXqy5vMjSFjRnPwp) | [Bucket song \(From "Dove Master"\)](https://open.spotify.com/album/4v5ygNCVafP3RWHNbQfISR) | 3:57 |
+| 8 | [Bucket song \- From "Dove Master"](https://open.spotify.com/track/4n5mBQbMK3zoMu3nB3uJsf) | [Shakeel Ahmad](https://open.spotify.com/artist/2WwQXiC4kHB16DykZHjVOp) | [Bucket song \(From "Dove Master"\)](https://open.spotify.com/album/4v5ygNCVafP3RWHNbQfISR) | 3:57 |
 | 9 | [Pushpavati \(From "Kranti"\)](https://open.spotify.com/track/4N9kWGZh8QGjsXK2q79EHF) | [V\. Hari Krishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Yogaraj Bhat](https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1) | [Pushpavati \(From "Kranti"\)](https://open.spotify.com/album/6SxEMY4PKpgNMXNsBsh8Si) | 4:04 |
 | 10 | [Sattu Bidale \- From "I am Pregnant"](https://open.spotify.com/track/4u2cWQzzfSCCw0K7VWVHiE) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [S\. Pradeep Varma](https://open.spotify.com/artist/2uutftgiWJixzeOj5zS10G), [Manjunath Shigli](https://open.spotify.com/artist/2o2wPmmdcpsbSmcabcdmb8) | [Sattu Bidale \(From "I am Pregnant"\)](https://open.spotify.com/album/7IQ1VUPdLNrkY0hM5kWCcR) | 3:08 |
 | 11 | [Ra Ra Rai \(From "Baby Missing"\)](https://open.spotify.com/track/2UllA9Yp6d8oCytt7aLexh) | [Sparsh Arther](https://open.spotify.com/artist/4FaHRt1uJNf8imZo85dre4), [Darshan](https://open.spotify.com/artist/6uWHYCLn74ApUKkWLPXTX9), [Shri Sastha](https://open.spotify.com/artist/48o6CxQdWZwIagBSllp2hu), [V Nagendra Prasad](https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU) | [Ra Ra Rai \(From "Baby Missing"\)](https://open.spotify.com/album/2ec7Z3fP3BnWTQt6MBObnA) | 3:08 |

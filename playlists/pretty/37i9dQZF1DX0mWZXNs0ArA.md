@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,510 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,647 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 22 | [I Can't \- Sped Up](https://open.spotify.com/track/62jwQiRfhqGR6GcbahCDWq) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't \- Sped Up](https://open.spotify.com/album/3AzbVwgBNAE49TZ86U4MoG) | 2:01 |
 | 23 | [Those Eyes \- Sped Up](https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes Alternate Versions](https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB) | 2:47 |
 | 24 | [Until I Found You \(Sped Up\) \- Heaven When I Held You Again How Could We Ever Just Be Friends](https://open.spotify.com/track/2w5aTimRJjWefNoXaoCpd4) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [Until I Found You \(Sped Up\) \- Heaven When I Held You Again How Could We Ever Just Be Friends](https://open.spotify.com/album/13JS9rH3cjTaWAjhrAxrpx) | 2:03 |
-| 25 | [I WANNA BE SAVED](https://open.spotify.com/track/5kRgiWvIozTZn9thKMsrHf) | [Nightocore Songs](https://open.spotify.com/artist/2nz194eBkvIzwRfdps1VPe) | [I WANNA BE SAVED](https://open.spotify.com/album/605ztgNljQNUeUeG835IQS) | 4:02 |
+| 25 | [I WANNA BE SAVED](https://open.spotify.com/track/5kCo9LVZrux26h9rGPSumc) | [Tkasi](https://open.spotify.com/artist/0vFylVX8JZ2m5BQULazlzY) | [I WANNA BE SAVED](https://open.spotify.com/album/0TI01an4MBa4111Mc70ag6) | 4:02 |
 | 26 | [Them Changes \- Sped Up](https://open.spotify.com/track/6pod2VRHVTven17Da0uZHi) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Them Changes \(Sped Up\)](https://open.spotify.com/album/6BxctollBKIGGFZ8zAYLxw) | 2:15 |
 | 27 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
 | 28 | [Not OK \- Sped Up](https://open.spotify.com/track/1UBErDGHs9OSGYiMXxhXgl) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Not OK \- Alt versions](https://open.spotify.com/album/0pJ4FQw91Jqceokv6lHtZw) | 1:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [IN THE AIR \(SPED UP\)](https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IN THE AIR/BILL$ \(SPED UP\)](https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58) | 1:42 |
 | 100 | [HMU](https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [HMU](https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT) | 1:58 |
 
-Snapshot ID: `MTY3NDE1NTY0MiwwMDAwMDAwMDc4NjA2MTZhMWFiODNmNGIwOTIxZGNiZDA4MTdiMjZi`
+Snapshot ID: `MTY3NDE1NTY0MiwwMDAwMDAwMDM0YmNmYjM4OTBjZDExODllMjY2MzM2ZGQwYTIyMTNi`

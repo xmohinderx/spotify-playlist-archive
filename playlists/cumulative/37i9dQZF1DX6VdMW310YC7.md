@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,429 songs - 4 day 2 hr 46 min
+1,431 songs - 4 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [As If It Was You \- Beach House Mix](https://open.spotify.com/track/2h6pldBTUGLH1JxYCZhYzM) | [Schwarz & Funk](https://open.spotify.com/artist/5tOiT7pdFoQN3hf2OWj2fv) | [As If It Was You](https://open.spotify.com/album/6n705GWuhf7HIhzw2nTa1J) | 5:14 | 2020-03-16 | 2022-04-20 |
 | [As You Were \(Original Mix\)](https://open.spotify.com/track/3dow7u5Ike0PlBi9FHwd0p) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [As You Were \(Original Mix\)](https://open.spotify.com/album/1uGA0fISwcTLmOrs0Gn1at) | 3:52 | 2020-05-18 | 2020-07-03 |
 | [Ascend](https://open.spotify.com/track/3hjQojGfx3VRcNQ6TbxyUU) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Ascend](https://open.spotify.com/album/2JmffBnfePm3uUMx3zdTBQ) | 4:41 | 2022-05-20 | 2022-07-29 |
-| [Assassin](https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Assassin](https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz) | 5:26 | 2021-01-30 |  |
+| [Assassin](https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Assassin](https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz) | 5:26 | 2021-01-30 | 2023-01-22 |
 | [Astronaut \- Something About Your Love](https://open.spotify.com/track/4sG6J4S2FCuMr3oooYAwFS) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Astronaut \(Something About Your Love\)](https://open.spotify.com/album/7gXdTAAzBuXqTV2kxSIPAk) | 3:22 | 2020-05-18 | 2020-08-20 |
 | [Atlas \- Adriatique Remix](https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Atlas \(Remixes\)](https://open.spotify.com/album/2UlxGTSIM484mcJef3iYEc) | 6:17 | 2020-02-29\* | 2020-03-16 |
 | [Attila](https://open.spotify.com/track/2i2luf6v6y7J0jI3UPltIt) | [Mono:Massive](https://open.spotify.com/artist/2M3T0t1HvVr5Lz3MtdygpS) | [Chillhop Essentials Spring 2017](https://open.spotify.com/album/1qINrjw5JR8Y2cV6yxd9na) | 2:27 | 2020-05-19 | 2021-01-11 |
@@ -783,6 +783,7 @@
 | [Make Sense](https://open.spotify.com/track/3k5qpizh47tL2CmTsxjs8L) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC), [Anna\-Maria Marjamäki](https://open.spotify.com/artist/3jLyfJjicxYfifKU3dXfLJ) | [Descent](https://open.spotify.com/album/2rowpF97jKbr5ZwqBnMJVk) | 4:37 | 2020-03-17 | 2022-04-21 |
 | [Maker](https://open.spotify.com/track/4DP7DimT3KRKbsvjfIrcoX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 4:11 | 2022-07-01 | 2022-09-24 |
 | [Maker](https://open.spotify.com/track/6w32mXhIaosDV03bo216QI) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Joypunks / Maker](https://open.spotify.com/album/4nr116yOgerXCvvisMjZfa) | 4:11 | 2020-03-20 | 2022-04-20 |
+| [Making Time](https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time](https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6) | 4:31 | 2023-01-13 |  |
 | [Mala](https://open.spotify.com/track/5Fv4EVQN6GEYYnMZ3L6NOl) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:01 | 2020-03-19 | 2022-06-30 |
 | [Mana](https://open.spotify.com/track/6BO5kq5A7XCntn2SoQws0v) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Mana](https://open.spotify.com/album/16rmHSa9CPjFFrWH3zFG74) | 3:32 | 2020-03-21 | 2022-08-25 |
 | [Manila Palm](https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:33 | 2021-07-16 |  |
@@ -1048,7 +1049,8 @@
 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 | 2022-01-21 | 2022-02-12 |
 | [Rudeboy Lovesong \(feat\. Sweetie Irie & Cara Delevingne\)](https://open.spotify.com/track/4cZRjRwTZ8fhKmpJ6xFFhH) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b), [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Rudeboy Lovesong \(feat\. Sweetie Irie & Cara Delevingne\)](https://open.spotify.com/album/4z0ADEl2XhhCtDB1lpSDvy) | 3:37 | 2020-05-18 | 2020-10-09 |
 | [Run](https://open.spotify.com/track/6r0Qbwh8LySYwjbMm1LXzb) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Run](https://open.spotify.com/album/2jtCQJ5O8eQZWFrdOOjFVk) | 3:48 | 2021-07-16 | 2022-07-29 |
-| [Run](https://open.spotify.com/track/0VLaaS481wSlMnf6UEQnJM) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7) | [Run](https://open.spotify.com/album/4LnDWolNUZJEqZdwVjRHKc) | 3:11 | 2022-09-23 |  |
+| [Run](https://open.spotify.com/track/0VLaaS481wSlMnf6UEQnJM) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7) | [Run](https://open.spotify.com/album/4LnDWolNUZJEqZdwVjRHKc) | 3:11 | 2022-09-23 | 2023-01-22 |
+| [Run](https://open.spotify.com/track/32cwP8NCIBrDj0mTcqZfYv) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7) | [Run](https://open.spotify.com/album/5P78sT6zk4x44BiOHDuhzW) | 3:11 | 2023-01-06 |  |
 | [Run Away](https://open.spotify.com/track/57silVtrWHoiTZzfic9yt3) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Run Away](https://open.spotify.com/album/0rxsmh2gQI2VwJuuvGLiGN) | 3:08 | 2020-03-16 | 2020-07-18 |
 | [Run For Your Life \(Interlude\)](https://open.spotify.com/track/3X5cgqoizZxxohjeNqoL2k) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 2:22 | 2020-05-18 | 2022-04-21 |
 | [Runaway \- CS Remix](https://open.spotify.com/track/7L1N3v6DULT0wEh8JUVLpI) | [Henry Land](https://open.spotify.com/artist/04m6PNXckfHHQqDHK92NKh), [ODA](https://open.spotify.com/artist/0YwZx5vGf17WMCi6KdOt4U), [CS](https://open.spotify.com/artist/0jMeMO3jOeDhJsWbzyi0BX) | [Runaway \(Remixes\)](https://open.spotify.com/album/0o6h3NFMcYv1WWDKgXPcbu) | 3:47 | 2020-05-19 | 2020-07-03 |

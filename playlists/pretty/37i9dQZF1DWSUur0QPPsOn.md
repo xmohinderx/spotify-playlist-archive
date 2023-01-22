@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nnekaenergy/">Nneka Onuorah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,214 likes - 48 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,319 likes - 48 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 28 | [EveryGirl In The World](https://open.spotify.com/track/1EjzkhMFJgl08Qkn2uDV1d) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP) | [We Are Young Money](https://open.spotify.com/album/0hDy52fqKwb2ZIjyNXGxan) | 5:13 |
 | 29 | [More Than A Woman](https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 3:49 |
 | 30 | [Breathe](https://open.spotify.com/track/7fuoqve1SOEBmhc2PoQTF0) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Real Talk \(123\)](https://open.spotify.com/album/0852dsZQyLOGmvotlvOvoA) | 4:28 |
-| 31 | [I Want To Thank You](https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf) | [Alicia Myers](https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG) | [Back To Back](https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn) | 3:49 |
+| 31 | [How's It Goin' Down](https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc) | 4:42 |
 | 32 | [Me, Myself and I](https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 5:01 |
-| 33 | [How's It Goin' Down](https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc) | 4:42 |
+| 33 | [I Want To Thank You](https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf) | [Alicia Myers](https://open.spotify.com/artist/7v4FV3DzSUOvaZyMwTxKIG) | [Back To Back](https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn) | 3:49 |
 | 34 | [Why You Wanna](https://open.spotify.com/track/1g0oI97rPdYuWDIpkbtQdv) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [King](https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo) | 3:35 |
 | 35 | [I'm A Hustla \- Street Mix/ Dirty Version](https://open.spotify.com/track/41D6aNNTmUUd7fWlVNWMN8) | [Cassidy](https://open.spotify.com/artist/3WilJWdCNLSU7fpYjiKb7v) | [I'm A Hustla](https://open.spotify.com/album/0bHhBV1joQxtUYcN5LPdq8) | 4:19 |
 | 36 | [Top of the World \(feat\. Mase\)](https://open.spotify.com/track/6BxiFSFVzviEqe2eIaruLV) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:41 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 47 | [Watch Out for the Big Girl](https://open.spotify.com/track/71C1N1mwADuLlSpVkIWgXq) | [Jimmy Jones](https://open.spotify.com/artist/3Jl6zZey7n9sVPK6vcZhtT) | [Watch Out for the Big Girl](https://open.spotify.com/album/7FoJmYkMDrOvRVQA0wtYnY) | 3:33 |
 | 48 | [Body and Soul](https://open.spotify.com/track/69aOeHaVpr4dxUWBW6F4Rb) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Jazz Ballads Classics](https://open.spotify.com/album/4OcFF1pGg0qK5xBIJXgQmP) | 5:42 |
 
-Snapshot ID: `MTY3MjU0OTIwMCwwMDAwMDAwMGZjMWQwMDllOTlmODJmYTFmODgxOWU0MGM2ZTQ1Njhi`
+Snapshot ID: `MTY3MjU0OTIwMCwwMDAwMDAwMGIwNDk0ZWQyMzUwYmM5MjQyMzk2OGRkOTBiZTAzYzUz`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,387 likes - 124 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,501 likes - 124 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remixes\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 |
+| 1 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remix\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 |
 | 2 | [Keitai](https://open.spotify.com/track/590dohozCjn1gqD468XJDO) | [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Keitai](https://open.spotify.com/album/650rbAcWf2dIuFCi6yWRAS) | 3:08 |
 | 3 | [mercury](https://open.spotify.com/track/5zTrqjF1urDiREDv5f2v4z) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [mercury](https://open.spotify.com/album/0cqL0MNCHJeYzSdYhrfk3k) | 1:58 |
 | 4 | [4get](https://open.spotify.com/track/2mlgFhBe2shVc1ITY0ri9B) | [Delto](https://open.spotify.com/artist/1WlSGhncfBqk79KNYuTicp), [Canna](https://open.spotify.com/artist/3UQddXFBR9NoYWpcxwAYkh) | [4get](https://open.spotify.com/album/6fDcYde0k1VUiSaK5hTCc6) | 2:19 |

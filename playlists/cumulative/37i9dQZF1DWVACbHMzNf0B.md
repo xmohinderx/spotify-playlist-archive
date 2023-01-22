@@ -4,7 +4,7 @@
 
 > Somos una fusión que nunca termina..\. MEXCLA somos\. Junior H & Oscar Maydon en portada.
 
-172 songs - 9 hr 36 min
+173 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Dos Mundos](https://open.spotify.com/track/5bcwDKs6i2A4FQWRlPTvDA) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Dos Mundos](https://open.spotify.com/album/0fK7EQycUMyl2lCiIaxltA) | 3:16 | 2021-12-08 | 2022-10-08 |
 | [Drill Tumbado](https://open.spotify.com/track/6lpnklpEptsXrNvzsmmOug) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Retumban2](https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy) | 1:51 | 2021-12-08 | 2022-06-04 |
 | [Efecto Mariposa](https://open.spotify.com/track/6sErJfiVH5dhb6W6prhPZW) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Efecto Mariposa](https://open.spotify.com/album/33OHQsMub2C0AUTJtswuRg) | 2:20 | 2022-12-16 |  |
-| [El Black](https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El Black](https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ) | 3:26 | 2022-10-07 |  |
+| [El Black](https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Les Cerre La Boca](https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU) | 3:26 | 2022-10-07 |  |
+| [El Black](https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El Black](https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ) | 3:26 | 2022-10-07 | 2023-01-22 |
 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 | 2022-12-16 |  |
 | [El Chivo \(feat\. T3r Elemento\)](https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [El Chivo](https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP) | 4:35 | 2021-12-08 | 2022-10-08 |
 | [El Día Que Te Fuiste](https://open.spotify.com/track/5ckWeqMScCK2BUrZZlBjZt) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [El Día Que Te Fuiste](https://open.spotify.com/album/4jNZTWsgOpv4rejGsqn0jy) | 2:52 | 2022-09-02 | 2022-12-17 |

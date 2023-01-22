@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 123551,
+  "num_followers": 123578,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDFlNDkzNDBmZDY1MTM5NzkwMDdiMTFkMzNhZDEzMzdj",
+  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDM4NjRiOGU2MjE0ZWQwNTYxZTIxNjc2MjAwYjVmNzZl",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Echo to Echo",
+        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
+      },
+      "artists": [
+        {
+          "name": "Magnus International",
+          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
+        }
+      ],
+      "duration_ms": 255909,
+      "name": "A Man Called Anthony",
+      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Games (Prins Thomas Diskomiks)",
         "url": "https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 493597,
       "name": "Games (Prins Thomas Diskomiks)",
       "url": "https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Echo to Echo",
-        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
-      },
-      "artists": [
-        {
-          "name": "Magnus International",
-          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
-        }
-      ],
-      "duration_ms": 255909,
-      "name": "A Man Called Anthony",
-      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "The Walk",
-        "url": "https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG"
-      },
-      "artists": [
-        {
-          "name": "Frede",
-          "url": "https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56"
-        }
-      ],
-      "duration_ms": 264269,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Closing Shot",
         "url": "https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 503648,
       "name": "Closing Shot",
       "url": "https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "The Walk",
+        "url": "https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG"
+      },
+      "artists": [
+        {
+          "name": "Frede",
+          "url": "https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56"
+        }
+      ],
+      "duration_ms": 264269,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Curse of the Cancelled",
-        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
-      },
-      "artists": [
-        {
-          "name": "Ugress",
-          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
-        }
-      ],
-      "duration_ms": 142227,
-      "name": "Curse Of The Cancelled",
-      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Baby Can't Stop",
         "url": "https://open.spotify.com/album/5VLSsw5p70usZesWIq4UwG"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 371333,
       "name": "Baby Can't Stop",
       "url": "https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Curse of the Cancelled",
+        "url": "https://open.spotify.com/album/1BXZScQgEnUdK7ewTC2noW"
+      },
+      "artists": [
+        {
+          "name": "Ugress",
+          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
+        }
+      ],
+      "duration_ms": 142227,
+      "name": "Curse Of The Cancelled",
+      "url": "https://open.spotify.com/track/3xaHQv9WYKJdJhdXdstB4J"
     },
     {
       "added_at": "2023-01-19 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: MD Chefe, BIN",
-  "num_followers": 81060,
+  "num_followers": 81292,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MzY2MCwwMDAwMDAwMGM5NTg3YjFjMDg2NGJkMDEzMWNhZjQ2ZGQxNmEzNjJh",
+  "snapshot_id": "MTY3NDE4MzY2MCwwMDAwMDAwMGY3OGFkOTk1YjZjZGUwYWYzZTQzOGU1MWEyMjliYWQ0",
   "tracks": [
     {
       "added_at": "2023-01-20 03:01:00",
@@ -547,34 +547,6 @@
     {
       "added_at": "2023-01-20 03:01:00",
       "album": {
-        "name": "Dos Pr\u00e9dios",
-        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "A Jolly Child",
-          "url": "https://open.spotify.com/artist/1OJliXxNuEF6RlPefYFz1D"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Luxo No Morro",
-      "url": "https://open.spotify.com/track/7cAPIqPqmxtcBVvfW6BZkm"
-    },
-    {
-      "added_at": "2023-01-20 03:01:00",
-      "album": {
         "name": "Vit\u00f3ria Dobrada",
         "url": "https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f"
       },
@@ -603,6 +575,34 @@
       "duration_ms": 154838,
       "name": "Vit\u00f3ria Dobrada",
       "url": "https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL"
+    },
+    {
+      "added_at": "2023-01-20 03:01:00",
+      "album": {
+        "name": "Dos Pr\u00e9dios",
+        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "A Jolly Child",
+          "url": "https://open.spotify.com/artist/1OJliXxNuEF6RlPefYFz1D"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Luxo No Morro",
+      "url": "https://open.spotify.com/track/7cAPIqPqmxtcBVvfW6BZkm"
     },
     {
       "added_at": "2023-01-20 03:01:00",

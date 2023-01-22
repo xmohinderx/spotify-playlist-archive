@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408 likes - 248 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 409 likes - 248 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 55 | [Start + Stop](https://open.spotify.com/track/5ozWJgj7c1kfRUbox5yI8h) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 2:59 |
 | 56 | [Secrets](https://open.spotify.com/track/2yCmXmtL8dwzn5R1ULHWDP) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 3:05 |
 | 57 | [Coyote](https://open.spotify.com/track/7Cvt76QFV6pqSuDw1e1iKO) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 3:14 |
-| 58 | [Baby Let's Pretend](https://open.spotify.com/track/5hu33JrzI9xBnjNwoGCV0o) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/4ij4VMWlPhY62tfGIjeqEZ) | 2:31 |
-| 59 | [TE TE TE](https://open.spotify.com/track/3X7EnBcbQhAjzZdTmVvGiO) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [TE TE TE](https://open.spotify.com/album/1o5jiQoMJZdY2kUDqGYBIg) | 2:56 |
+| 58 | [TE TE TE](https://open.spotify.com/track/3X7EnBcbQhAjzZdTmVvGiO) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [TE TE TE](https://open.spotify.com/album/1o5jiQoMJZdY2kUDqGYBIg) | 2:56 |
+| 59 | [Baby Let's Pretend](https://open.spotify.com/track/5hu33JrzI9xBnjNwoGCV0o) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/4ij4VMWlPhY62tfGIjeqEZ) | 2:31 |
 | 60 | [Two By Two](https://open.spotify.com/track/6TW8uIeb9paXpqNUrIrlUJ) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [An Unwavering Band of Light](https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N) | 4:02 |
 | 61 | [Living Room](https://open.spotify.com/track/1bybP9hRFNSewsw6lDc1J6) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:39 |
 | 62 | [Transmitter Failure](https://open.spotify.com/track/42whL9pTeZ66DV0zGDfAAA) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 4:46 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 136 | [Hideaway](https://open.spotify.com/track/0qZobvkRMAqrGyjjNVvL2D) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Hideaway](https://open.spotify.com/album/6AQJsRagE26OAfMcqNoo11) | 3:29 |
 | 137 | [The Prom](https://open.spotify.com/track/7fDI3J0JdSiE2STKsqDXXr) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 0:54 |
 | 138 | [Who Are You?](https://open.spotify.com/track/7nhzjNZr46j236n0twEZYV) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:30 |
-| 139 | [The Yoko Factor](https://open.spotify.com/track/6UNxSB3EF2qaymwB5nRjMh) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:10 |
-| 140 | [West Keys](https://open.spotify.com/track/4AimNpf5WAQkedUUcCyhHw) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/4ij4VMWlPhY62tfGIjeqEZ) | 3:04 |
+| 139 | [West Keys](https://open.spotify.com/track/4AimNpf5WAQkedUUcCyhHw) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/4ij4VMWlPhY62tfGIjeqEZ) | 3:04 |
+| 140 | [The Yoko Factor](https://open.spotify.com/track/6UNxSB3EF2qaymwB5nRjMh) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:10 |
 | 141 | [King Size Bed](https://open.spotify.com/track/078pXymemqeV5DH00w6cBa) | [Katie Wighton](https://open.spotify.com/artist/41CNj1cWdeOjG7M5m8bTut) | [King Size Bed](https://open.spotify.com/album/0Dwo0yFwvBovZSJvQGGkbt) | 2:58 |
 | 142 | [Fear, Itself](https://open.spotify.com/track/0TKkGyAPQGczu3QCgjGTRd) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 4:02 |
 | 143 | [Problematic Fave](https://open.spotify.com/track/7EuV5uuPeTjFMIRt2h3ez5) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Joanna Robinson](https://open.spotify.com/artist/0JNSTXiDN0flYXAHdlFLF1), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Kristin Russo](https://open.spotify.com/artist/7MVfPHErObQ0she3vUTg6N) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 2:16 |
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 247 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 248 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Mjc5MDQzODcsMDAwMDAwMDAyZWU2MTg3N2ZmNTdhNjJiMTM0OGYxZmE4NDAyMDJkMg==`
+Snapshot ID: `Mjc5MDU4MjcsMDAwMDAwMDAzY2VkNWVhYWQwNmZkZDNkMTE4ZDM3MmI5MWE1NGY5NA==`

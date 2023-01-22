@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Asiwaju",
       "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 178000,
       "name": "Big Boys",
       "url": "https://open.spotify.com/track/1b5y9c6KdLcLWzKX1dCFhU"
@@ -6824,7 +6824,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 227013,
       "name": "Gato de Noche",
       "url": "https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC"
@@ -15302,7 +15302,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 169418,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
@@ -15466,7 +15466,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 98440,
       "name": "Renaissance (Main Title Theme) - from \"The White Lotus: Season 2\"",
       "url": "https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt"
@@ -16582,7 +16582,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 165428,
       "name": "She's A 10 But...",
       "url": "https://open.spotify.com/track/2DfRgLfkNb8nU1wMcMK0fD"
@@ -18326,6 +18326,24 @@
       "duration_ms": 119233,
       "name": "Tell 'Em",
       "url": "https://open.spotify.com/track/6IuN5rqcAeHmzK5d5r0RWL"
+    },
+    {
+      "album": {
+        "name": "The Wonder Years",
+        "url": "https://open.spotify.com/album/0UNkEtrX0bVpMqzvclY0oD"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Tell me (Sampling From `Two Of Hearts`)",
+      "url": "https://open.spotify.com/track/0m1L7kXouYgNJYtlJnncCl"
     },
     {
       "album": {
@@ -20910,7 +20928,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-16",
+      "date_removed": null,
       "duration_ms": 196470,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW"

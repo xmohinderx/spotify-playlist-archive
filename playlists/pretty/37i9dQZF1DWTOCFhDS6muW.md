@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,738 likes - 38 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,757 likes - 38 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 22 | [Puntas Garifunas Criollas](https://open.spotify.com/track/1dIQDYKOOoE4GuUXO5ReV9) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 4](https://open.spotify.com/album/1vEUcr8MsYafqKDkSF4ptW) | 7:23 |
 | 23 | [Oye Este Canto Aka Levantando las Manos](https://open.spotify.com/track/6VHH8EZHnvE2QcL0pipwhY) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Alegria](https://open.spotify.com/album/05bmKOrqr3sL0fDM3pOXQW) | 5:09 |
 | 24 | [Laluda Belly](https://open.spotify.com/track/3IpmaBjOYg4SRJHS7HXnSa) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [Puro Éxitos: Las Chicas Rolands](https://open.spotify.com/album/6Y2FqU0PxqvjQkYeACquud) | 3:33 |
-| 25 | [Nafagua](https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Lándini](https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs) | 3:25 |
-| 26 | [Baila Baila](https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl) | [Garifuna Kids](https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo) | [Baila Baila](https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W) | 6:36 |
+| 25 | [Baila Baila](https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl) | [Garifuna Kids](https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo) | [Baila Baila](https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W) | 6:36 |
+| 26 | [Nafagua](https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Lándini](https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs) | 3:25 |
 | 27 | [El Encarguito](https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Encarguitos Del Caribe](https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR) | 3:43 |
 | 28 | [Si Pudiera Yo](https://open.spotify.com/track/6hOVsyMdpk2aZK6zcKnXMK) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 4:15 |
 | 29 | [Imagenes](https://open.spotify.com/track/563dJNGXjnh8SPRmC5plaH) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:15 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 37 | [La Ametralladora](https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [La Ametralladora](https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv) | 2:34 |
 | 38 | [Balabaa](https://open.spotify.com/track/2R5RYvwBKgNubDJf6gQ59S) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions](https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4) | [Puros Éxitos](https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7) | 2:40 |
 
-Snapshot ID: `MTU5MDUwODM5MywwMDAwMDAwMDZlY2Y5Mjk0NmEwZDU5ZDNhODVkZjkzNDBmYjI3NzA0`
+Snapshot ID: `MTU5MDUwODM5MywwMDAwMDAwMGU3ZmIwODJiOTdhZGFkMzJmNjBlOGRiOWY2OGNmODQ4`

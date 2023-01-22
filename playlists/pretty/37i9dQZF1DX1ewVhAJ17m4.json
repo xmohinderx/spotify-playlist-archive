@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: All Time Low",
-  "num_followers": 541213,
+  "num_followers": 541310,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE3MjgwMCwwMDAwMDAwMDc3OTUyMmY0NTdmMDJlNzMzNWM3NzIxZjAxZjgxYjU4",
+  "snapshot_id": "MTY3NDE3MjgwMCwwMDAwMDAwMDRmMTYyZGM0MzVmMDJiYzYyNTE5ZjFiNjk1MjFlNzZh",
   "tracks": [
     {
       "added_at": "2023-01-13 00:00:00",
@@ -59,26 +59,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "I\u2019m a Mess (with YUNGBLUD)",
-        "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 187793,
-      "name": "I\u2019m a Mess (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -95,6 +75,26 @@
       "duration_ms": 159096,
       "name": "emo girl (feat. WILLOW)",
       "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "I\u2019m a Mess (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 187793,
+      "name": "I\u2019m a Mess (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -159,18 +159,18 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
         }
       ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+      "duration_ms": 179707,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -187,22 +187,6 @@
       "duration_ms": 187140,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 179707,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -255,6 +239,22 @@
       "duration_ms": 159308,
       "name": "Say It (To My Face)",
       "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Dream Born Again",
-        "url": "https://open.spotify.com/album/680aZyr4pHGgUGXvgGLwlG"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 261058,
-      "name": "Dream Born Again",
-      "url": "https://open.spotify.com/track/3nTZKdlQJaKsMXmr6gGDeo"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "Happy Never After",
         "url": "https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
+        "name": "Dream Born Again",
+        "url": "https://open.spotify.com/album/680aZyr4pHGgUGXvgGLwlG"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 261058,
+      "name": "Dream Born Again",
+      "url": "https://open.spotify.com/track/3nTZKdlQJaKsMXmr6gGDeo"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
         "name": "Sand on the Beach",
         "url": "https://open.spotify.com/album/3vcKqp5Pque6sqEXiZvMtU"
       },
@@ -751,6 +751,30 @@
       "duration_ms": 136510,
       "name": "Sand on the Beach",
       "url": "https://open.spotify.com/track/45WduJCqST7pBJPvxZ6ZgU"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "Juice",
+        "url": "https://open.spotify.com/album/0BZ62pEv3lsqAAl8Cx1WsA"
+      },
+      "artists": [
+        {
+          "name": "Dear Youth",
+          "url": "https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG"
+        },
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        },
+        {
+          "name": "Oliver Baxxter",
+          "url": "https://open.spotify.com/artist/1C3ukvfqNRUyRVi8Vvrz1b"
+        }
+      ],
+      "duration_ms": 191871,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/4EAEKqmrkfA7WFfeBAvDZi"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -787,30 +811,6 @@
       "duration_ms": 199093,
       "name": "Addison Rae",
       "url": "https://open.spotify.com/track/5G7JTfXmgI7BXiT8ijEhn7"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "Juice",
-        "url": "https://open.spotify.com/album/0BZ62pEv3lsqAAl8Cx1WsA"
-      },
-      "artists": [
-        {
-          "name": "Dear Youth",
-          "url": "https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG"
-        },
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        },
-        {
-          "name": "Oliver Baxxter",
-          "url": "https://open.spotify.com/artist/1C3ukvfqNRUyRVi8Vvrz1b"
-        }
-      ],
-      "duration_ms": 191871,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/4EAEKqmrkfA7WFfeBAvDZi"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 185294,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
         "name": "Armageddon",
         "url": "https://open.spotify.com/album/0shZOs5RGfa93z5RYxUHvw"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 186869,
       "name": "If You Have My Voodoo Doll, Give Me a Hug",
       "url": "https://open.spotify.com/track/2I2fsIg0aSPmstuuaBcEIW"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "Carousel",
-        "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 185294,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1021,6 +1021,38 @@
       "url": "https://open.spotify.com/track/3h8L8qrK6GzE5JoHjOU9Oz"
     },
     {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "cherry cigarettes",
+        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "cherry cigarettes",
+      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 195688,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
+    },
+    {
       "added_at": "2023-01-13 00:00:00",
       "album": {
         "name": "GENRELESS",
@@ -1055,22 +1087,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 195688,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "SiCK ABOuT U",
         "url": "https://open.spotify.com/album/2ycxmpyCma1VJLKs1O8Sp4"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 188387,
       "name": "SiCK ABOuT U",
       "url": "https://open.spotify.com/track/4kktxKYY6MQK6rNlEvNl2o"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/3XLKkItEzGdJI4w4fC2VCV"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 217094,
-      "name": "Low Tide",
-      "url": "https://open.spotify.com/track/3DOxjr9bzKOfWZS59phJ0p"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1119,6 +1119,22 @@
       "duration_ms": 141671,
       "name": "Tom in 03",
       "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/3XLKkItEzGdJI4w4fC2VCV"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 217094,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/3DOxjr9bzKOfWZS59phJ0p"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1155,6 +1171,22 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
+        "name": "WE'RE NOT STRANGERS",
+        "url": "https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 138720,
+      "name": "WE'RE NOT STRANGERS",
+      "url": "https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/2wJWPmjFjIAu4z8SlQkHjt"
       },
@@ -1187,22 +1219,6 @@
       "duration_ms": 193960,
       "name": "Promise",
       "url": "https://open.spotify.com/track/4hyMz2XnHVcms6Tb6hKmOo"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "WE'RE NOT STRANGERS",
-        "url": "https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z"
-      },
-      "artists": [
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
-        }
-      ],
-      "duration_ms": 138720,
-      "name": "WE'RE NOT STRANGERS",
-      "url": "https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Cavalier",
-        "url": "https://open.spotify.com/album/4MAxgehGTojMbNagyFBIpL"
-      },
-      "artists": [
-        {
-          "name": "Four Year Strong",
-          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
-        }
-      ],
-      "duration_ms": 175306,
-      "name": "Cavalier",
-      "url": "https://open.spotify.com/track/4N9LPYE07fGLDK2EfCpVpn"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "Blossom",
         "url": "https://open.spotify.com/album/5R1zQFTTBHkxuUXFxUPCwk"
       },
@@ -1303,6 +1303,22 @@
       "duration_ms": 173998,
       "name": "Famous",
       "url": "https://open.spotify.com/track/01lDsXPyoXUV9cAGIHskzs"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "Cavalier",
+        "url": "https://open.spotify.com/album/4MAxgehGTojMbNagyFBIpL"
+      },
+      "artists": [
+        {
+          "name": "Four Year Strong",
+          "url": "https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn"
+        }
+      ],
+      "duration_ms": 175306,
+      "name": "Cavalier",
+      "url": "https://open.spotify.com/track/4N9LPYE07fGLDK2EfCpVpn"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1339,6 +1355,22 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
+        "name": "Cool Blue",
+        "url": "https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ"
+      },
+      "artists": [
+        {
+          "name": "happydaze",
+          "url": "https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR"
+        }
+      ],
+      "duration_ms": 189072,
+      "name": "Cool Blue",
+      "url": "https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
         "name": "ATTENTION!",
         "url": "https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh"
       },
@@ -1367,46 +1399,6 @@
       "duration_ms": 185371,
       "name": "Birthright",
       "url": "https://open.spotify.com/track/5cWcCvwwONGBqzTSaFqUri"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "Six Feet Under",
-        "url": "https://open.spotify.com/album/4C8d8WgzPnrxZyJdlNgzHo"
-      },
-      "artists": [
-        {
-          "name": "Ty Arena$",
-          "url": "https://open.spotify.com/artist/08oF6bUJ3xPBr6XQsJdxpI"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 133124,
-      "name": "Six Feet Under",
-      "url": "https://open.spotify.com/track/54BhHvjtrz2eqGomjZK9mg"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "DOUBTS",
-        "url": "https://open.spotify.com/album/0pcdbVMc06CZpJOoPpB55Z"
-      },
-      "artists": [
-        {
-          "name": "Fran Roz",
-          "url": "https://open.spotify.com/artist/5CEBgPIQYvgECBicrmdsSY"
-        },
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
-        }
-      ],
-      "duration_ms": 174657,
-      "name": "DOUBTS (feat. Ryan Oakes)",
-      "url": "https://open.spotify.com/track/4Oqkl7HhomsKtZ0uLmN1H7"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

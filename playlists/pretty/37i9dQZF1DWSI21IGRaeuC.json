@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 14085,
+  "num_followers": 14140,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDlhZmJhMjdhMWUzZDJmZDA3OGJmODdjMTI2ZjIxNjI0",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDY5ZGNlYmJmMDdjYTY5MTg5Mzg3ZDUyNGM3NzU3YzQ4",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -857,6 +857,22 @@
       "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Welcome EP",
+        "url": "https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "DJ Lover - Original Mix",
+      "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
+    },
+    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Stutter EP",
@@ -877,22 +893,6 @@
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Welcome EP",
-        "url": "https://open.spotify.com/album/1dpQcHaazDFmLzLzz0VsEh"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "DJ Lover - Original Mix",
-      "url": "https://open.spotify.com/track/186UsZ2lMmYMwDA9UzQEfA"
-    },
-    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Tonight EP",
@@ -909,20 +909,20 @@
       "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2022-06-03 18:11:27",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6UCnUv9fK4XoTGaeSVxuHz"
+        "name": "LOL",
+        "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
       },
       "artists": [
         {
-          "name": "The Archer",
-          "url": "https://open.spotify.com/artist/2e9kCl7laD7bkZLLAnkKTU"
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
         }
       ],
-      "duration_ms": 243809,
-      "name": "All I Want - Original Mix",
-      "url": "https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M"
+      "duration_ms": 321818,
+      "name": "LOL",
+      "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
     }
   ],
   "unique_name": "Minimal Tech",

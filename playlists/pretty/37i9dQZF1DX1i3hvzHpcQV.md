@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Varisu
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,771 likes - 59 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,876 likes - 59 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Thee Thalapathy \(From "Varisu"\)](https://open.spotify.com/album/3ZcY45jXNx9jTGjpNv3GbL) | 4:18 |
 | 2 | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Chilla Chilla \(From "Thunivu"\)](https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje) | 3:42 |
-| 3 | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W) | 4:47 |
+| 3 | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Ranjithame \(From "Varisu"\)](https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W) | 4:47 |
 | 4 | [Kasethan Kadavulada \(From "Thunivu"\)](https://open.spotify.com/track/1DmCs9mXUP9wnaTQcsT5aH) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Manju Warrier](https://open.spotify.com/artist/4IXYF3FJmeKQFqT7pAjf3h), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Kasethan Kadavulada \(From "Thunivu"\)](https://open.spotify.com/album/4wbatnzqMwHfR7SOGzkJyi) | 3:08 |
 | 5 | [Dippam Dappam \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/2vkNA9I029dTwX0y6d59Sc) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Dippam Dappam \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/2ONwgvLKEYR7wn8dfoX9yE) | 3:29 |
 | 6 | [Jimikki Ponnu](https://open.spotify.com/track/7fRIo7WyDxXn3r233GCcdL) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Varisu](https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy) | 3:44 |

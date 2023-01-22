@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Conexión Divina en portada.
 
-232 songs - 12 hr 7 min
+234 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [DOS MORRITAS](https://open.spotify.com/track/2gpaJPUWNx2xmOwy2NNLu8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:58 | 2022-05-13 | 2022-09-03 |
 | [Déjenme Hacer Dinero](https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Déjenme Hacer Dinero](https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo) | 3:13 | 2022-08-05 | 2022-10-08 |
 | [El Beso De Judas](https://open.spotify.com/track/3ikFRM3ekAaqnoe9JwW0fP) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [El Beso De Judas](https://open.spotify.com/album/0CAIxZqRA8Gs6UfzZSrlhc) | 3:06 | 2022-11-11 |  |
-| [El Black](https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El Black](https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ) | 3:26 | 2022-12-02 |  |
+| [El Black](https://open.spotify.com/track/4kKREdsRm1CMhxbJT0xs6X) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Les Cerre La Boca](https://open.spotify.com/album/2E54TvL90EkOYk7YmhmvHU) | 3:26 | 2022-12-02 |  |
+| [El Black](https://open.spotify.com/track/3QjGwE4y7QyF5xYEHfcYtU) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El Black](https://open.spotify.com/album/5y7iiFh7t47TaaKYKU8pNQ) | 3:26 | 2022-12-02 | 2023-01-22 |
 | [El Boom](https://open.spotify.com/track/1SQe4UUgUSRvY2SD10Ft3o) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [El Boom](https://open.spotify.com/album/1yKupzUivdMwcsplXhaLDR) | 4:21 | 2022-12-02 |  |
 | [El Canelo](https://open.spotify.com/track/7Dz034bA0pM21kTDqTW1jM) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [El Canelo](https://open.spotify.com/album/4GvvGYS3KFaNqwh9UXnaP7) | 3:16 | 2022-06-24 | 2022-08-06 |
 | [El Chaman](https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [El Padrinito Toys](https://open.spotify.com/artist/19I7n3fJWbecNWpRUSuIjf) | [El Chaman](https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE) | 4:41 | 2022-04-01 | 2022-09-24 |
@@ -235,7 +236,8 @@
 | [Ya No](https://open.spotify.com/track/2ioxOvyD2OAB1FvuE6Whef) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Ya No](https://open.spotify.com/album/5lsYMgRDUN8OJ2kOtnt8XD) | 3:19 | 2022-09-23 |  |
 | [Ya No Me Vuelvo a Enamorar](https://open.spotify.com/track/1AEvAdtH4tOzVElQF88FDO) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Ya No Me Vuelvo a Enamorar](https://open.spotify.com/album/7ro1zMzIZl2Od9nVl1kOYk) | 3:48 | 2022-07-08 | 2022-10-15 |
 | [Yo No Me Rajo](https://open.spotify.com/track/4yGw2GFi5MohpMKTDq7qhz) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Yo No Me Rajo](https://open.spotify.com/album/6KvRJthG8uP4lYGsMjZEzU) | 2:30 | 2022-09-30 | 2022-11-19 |
-| [Yo Soy el Bueno](https://open.spotify.com/track/5NL3YoLsgiiPlMK6xEmVoI) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Yo Soy el Bueno](https://open.spotify.com/album/3LHlJuJwxCFYKn70czmxbW) | 2:56 | 2022-09-23 |  |
+| [Yo Soy el Bueno](https://open.spotify.com/track/5NL3YoLsgiiPlMK6xEmVoI) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Yo Soy el Bueno](https://open.spotify.com/album/3LHlJuJwxCFYKn70czmxbW) | 2:56 | 2022-09-23 | 2023-01-22 |
+| [Yo Soy El Bueno \- En Vivo](https://open.spotify.com/track/7DNJkRM915Hm6B7i1Blhrp) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Yo Soy El Bueno \(En Vivo\)](https://open.spotify.com/album/3aDn1xUk7p7Ec9CCgl1NtY) | 2:56 | 2022-09-23 |  |
 | [Yo Soy El Pirata](https://open.spotify.com/track/6syuatoW05nFiHFcT0uoKJ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Yo Soy El Pirata](https://open.spotify.com/album/1sSKz7PYco6qblWi8cIZoM) | 2:48 | 2022-08-05 |  |
 | [Yo Te Amaré](https://open.spotify.com/track/7jPO9umUSUsyoaFwTwM5Ey) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Yo Te Amaré](https://open.spotify.com/album/0WdDQcrUytQdVggWjEkXtm) | 2:50 | 2022-04-29 | 2022-08-06 |
 | [Yo Vengo de Abajo](https://open.spotify.com/track/4p353XbLuVSgXlwjhpKjzp) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Locura Terminal](https://open.spotify.com/artist/6TgsrbRVzTvaXifgu46mjr) | [Yo Vengo de Abajo](https://open.spotify.com/album/1kFr4XGBfsRPrtoNVxnL8m) | 3:21 | 2022-08-05 | 2022-10-01 |

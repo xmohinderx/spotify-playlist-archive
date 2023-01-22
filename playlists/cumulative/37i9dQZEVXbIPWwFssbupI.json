@@ -1195,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "Vingt-deux",
+        "url": "https://open.spotify.com/album/3fmOPx6xuF1RA9yPunOwis"
+      },
+      "artists": [
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Anthracite",
+      "url": "https://open.spotify.com/track/2AoDYFB8sKWZunF2hS6Nxh"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -1778,7 +1800,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 239060,
       "name": "AZNVR - une minute de musique",
       "url": "https://open.spotify.com/track/5bt380zWDlGAd3NmhOeZ3H"
@@ -4288,7 +4310,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
+      "date_removed": null,
       "duration_ms": 164120,
       "name": "Coco",
       "url": "https://open.spotify.com/track/6hfkqvPACVG4l4qtY7xDgG"
@@ -4306,7 +4328,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 180760,
       "name": "Coeur De Pirate",
       "url": "https://open.spotify.com/track/2q2tG7xR37PNyqrXqooemZ"
@@ -5042,7 +5064,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -5606,7 +5628,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 218586,
       "name": "Decrescendo",
       "url": "https://open.spotify.com/track/4otT81iBBpaf36roGtzT4a"
@@ -6998,7 +7020,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 219187,
       "name": "FADE UP",
       "url": "https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB"
@@ -8110,7 +8132,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 183053,
       "name": "Gasolina (feat. Rsko)",
       "url": "https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr"
@@ -8902,6 +8924,24 @@
       "duration_ms": 214214,
       "name": "How Do I Make You Love Me?",
       "url": "https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ"
+    },
+    {
+      "album": {
+        "name": "HRTBRK #6",
+        "url": "https://open.spotify.com/album/4XYz0YM0cZjGhzgqyj2glP"
+      },
+      "artists": [
+        {
+          "name": "Kaza",
+          "url": "https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "HRTBRK #6",
+      "url": "https://open.spotify.com/track/4oujvmTUXlPr6jWTWuzfAK"
     },
     {
       "album": {
@@ -14811,6 +14851,24 @@
     },
     {
       "album": {
+        "name": "M\u00eame pas un grincement",
+        "url": "https://open.spotify.com/album/3HRJy5fGgdgrCp8g6tEN8O"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225413,
+      "name": "M\u00eame pas un grincement",
+      "url": "https://open.spotify.com/track/7wNHu6h06KBh20KVYmnRKa"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -16352,6 +16410,28 @@
       "duration_ms": 190213,
       "name": "Peur (feat. Ziak)",
       "url": "https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z"
+    },
+    {
+      "album": {
+        "name": "Cam\u00e9l\u00e9on",
+        "url": "https://open.spotify.com/album/7EaqOhhGvKoy71f32ZuH1h"
+      },
+      "artists": [
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228575,
+      "name": "Philly",
+      "url": "https://open.spotify.com/track/5fsoZ0OX0ITJblETbi0o1e"
     },
     {
       "album": {
@@ -20478,10 +20558,28 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP"
     },
     {
       "album": {
@@ -22368,7 +22466,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 204760,
       "name": "\u00c0 peu pr\u00e8s",
       "url": "https://open.spotify.com/track/4VpmtsVKIRfNlmrtaEnrQi"

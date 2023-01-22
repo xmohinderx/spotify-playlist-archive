@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 86449,
+  "num_followers": 86521,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MzY2MCwwMDAwMDAwMDRjNDhlOWU1YTY2NGE3YTFlYTNmYmVkOWNlNjY4MWJh",
+  "snapshot_id": "MTY3NDE4MzY2MCwwMDAwMDAwMDVmMDk3NWZkNjc1N2Y4MjQ5MDdjZDc5NzIxNmJhMzVk",
   "tracks": [
     {
       "added_at": "2023-01-20 03:01:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-01-20 03:01:00",
       "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134279,
+      "name": "Letter To Ur N(ex)t",
+      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
+    },
+    {
+      "added_at": "2023-01-20 03:01:00",
+      "album": {
         "name": "Most Wanted (Deluxe)",
         "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
-    },
-    {
-      "added_at": "2023-01-20 03:01:00",
-      "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 134279,
-      "name": "Letter To Ur N(ex)t",
-      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
     },
     {
       "added_at": "2023-01-20 03:01:00",
@@ -815,6 +815,30 @@
     {
       "added_at": "2023-01-20 03:01:00",
       "album": {
+        "name": "Empathy",
+        "url": "https://open.spotify.com/album/7bVTqWD27L2VhdudJ46Dpm"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "ROMderful",
+          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
+        }
+      ],
+      "duration_ms": 256310,
+      "name": "Anytime (feat. Kehlani & ROMderful)",
+      "url": "https://open.spotify.com/track/465Yx9rm9mNmzTFlojTIRs"
+    },
+    {
+      "added_at": "2023-01-20 03:01:00",
+      "album": {
         "name": "Whatever Simon Says",
         "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
       },
@@ -843,30 +867,6 @@
       "duration_ms": 222089,
       "name": "A Muse",
       "url": "https://open.spotify.com/track/7HdUnaN512R9oB2QyL8Brl"
-    },
-    {
-      "added_at": "2023-01-20 03:01:00",
-      "album": {
-        "name": "Empathy",
-        "url": "https://open.spotify.com/album/7bVTqWD27L2VhdudJ46Dpm"
-      },
-      "artists": [
-        {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "ROMderful",
-          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
-        }
-      ],
-      "duration_ms": 256310,
-      "name": "Anytime (feat. Kehlani & ROMderful)",
-      "url": "https://open.spotify.com/track/465Yx9rm9mNmzTFlojTIRs"
     },
     {
       "added_at": "2023-01-20 03:01:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-01-20 03:01:00",
       "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 162188,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
+    },
+    {
+      "added_at": "2023-01-20 03:01:00",
+      "album": {
         "name": "Hoodie",
         "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
       },
@@ -1043,26 +1059,6 @@
     {
       "added_at": "2023-01-20 03:01:00",
       "album": {
-        "name": "Right Time (feat. Reggie Becton)",
-        "url": "https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi"
-      },
-      "artists": [
-        {
-          "name": "Ye Ali",
-          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
-        },
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 177371,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T"
-    },
-    {
-      "added_at": "2023-01-20 03:01:00",
-      "album": {
         "name": "GODDESS REIGN",
         "url": "https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1"
       },
@@ -1079,6 +1075,26 @@
       "duration_ms": 209773,
       "name": "GODDESS REIGN",
       "url": "https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys"
+    },
+    {
+      "added_at": "2023-01-20 03:01:00",
+      "album": {
+        "name": "Right Time (feat. Reggie Becton)",
+        "url": "https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi"
+      },
+      "artists": [
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        },
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 177371,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T"
     },
     {
       "added_at": "2023-01-20 03:01:00",
@@ -1267,6 +1283,22 @@
     {
       "added_at": "2023-01-20 03:01:00",
       "album": {
+        "name": "Devil In A Dress (RHEAMIX)",
+        "url": "https://open.spotify.com/album/5nYbtOgKv3csvwdXvE8dad"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "duration_ms": 117191,
+      "name": "Devil In A Dress - RHEAMIX",
+      "url": "https://open.spotify.com/track/3NUs3ZwYy4GFGNE6wvEG5P"
+    },
+    {
+      "added_at": "2023-01-20 03:01:00",
+      "album": {
         "name": "Juslisen (Special Edition)",
         "url": "https://open.spotify.com/album/4qPIDLGtEYMRV10MbtKWbQ"
       },
@@ -1279,22 +1311,6 @@
       "duration_ms": 237240,
       "name": "Previouscats",
       "url": "https://open.spotify.com/track/7JmTY2JCt484HEgCuMOSA4"
-    },
-    {
-      "added_at": "2023-01-20 03:01:00",
-      "album": {
-        "name": "Challenge",
-        "url": "https://open.spotify.com/album/2wDwoSW9Hbjwv9gwtFJpT9"
-      },
-      "artists": [
-        {
-          "name": "AMARNI",
-          "url": "https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco"
-        }
-      ],
-      "duration_ms": 130121,
-      "name": "Challenge",
-      "url": "https://open.spotify.com/track/5YGIelVjaUHgDEWqFzz1Vd"
     },
     {
       "added_at": "2023-01-20 03:01:00",
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2023-01-20 03:01:00",
       "album": {
-        "name": "Devil In A Dress (RHEAMIX)",
-        "url": "https://open.spotify.com/album/5nYbtOgKv3csvwdXvE8dad"
-      },
-      "artists": [
-        {
-          "name": "Rhea Raj",
-          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
-        }
-      ],
-      "duration_ms": 117191,
-      "name": "Devil In A Dress - RHEAMIX",
-      "url": "https://open.spotify.com/track/3NUs3ZwYy4GFGNE6wvEG5P"
-    },
-    {
-      "added_at": "2023-01-20 03:01:00",
-      "album": {
         "name": "Chocolate Covered Strawberries",
         "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 250241,
       "name": "Chocolate Covered Strawberries",
       "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
+    },
+    {
+      "added_at": "2023-01-20 03:01:00",
+      "album": {
+        "name": "Challenge",
+        "url": "https://open.spotify.com/album/2wDwoSW9Hbjwv9gwtFJpT9"
+      },
+      "artists": [
+        {
+          "name": "AMARNI",
+          "url": "https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco"
+        }
+      ],
+      "duration_ms": 130121,
+      "name": "Challenge",
+      "url": "https://open.spotify.com/track/5YGIelVjaUHgDEWqFzz1Vd"
     },
     {
       "added_at": "2023-01-20 03:01:00",
@@ -1523,38 +1539,6 @@
     {
       "added_at": "2023-01-20 03:01:00",
       "album": {
-        "name": "Organic",
-        "url": "https://open.spotify.com/album/5Zv9WcJcbem7uU7RhNQRiY"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Organic",
-      "url": "https://open.spotify.com/track/5DyvKrRpUufwtWTHcJ5fb8"
-    },
-    {
-      "added_at": "2023-01-20 03:01:00",
-      "album": {
-        "name": "Eventually Pt. 1",
-        "url": "https://open.spotify.com/album/2lF9k8tmdXYRj36Qwrn3tQ"
-      },
-      "artists": [
-        {
-          "name": "MAAD",
-          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "ILM",
-      "url": "https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip"
-    },
-    {
-      "added_at": "2023-01-20 03:01:00",
-      "album": {
         "name": "chuu",
         "url": "https://open.spotify.com/album/2DiDH1MgKKSS6NhEPLrVuU"
       },
@@ -1571,6 +1555,54 @@
       "duration_ms": 253346,
       "name": "chuu",
       "url": "https://open.spotify.com/track/6KBafFD2vzzXjMLSBISNNw"
+    },
+    {
+      "added_at": "2023-01-20 03:01:00",
+      "album": {
+        "name": "Organic",
+        "url": "https://open.spotify.com/album/5Zv9WcJcbem7uU7RhNQRiY"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Organic",
+      "url": "https://open.spotify.com/track/5DyvKrRpUufwtWTHcJ5fb8"
+    },
+    {
+      "added_at": "2023-01-20 03:01:00",
+      "album": {
+        "name": "The Beauty Created",
+        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 271453,
+      "name": "Come To My Room",
+      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
+    },
+    {
+      "added_at": "2023-01-20 03:01:00",
+      "album": {
+        "name": "Eventually Pt. 1",
+        "url": "https://open.spotify.com/album/2lF9k8tmdXYRj36Qwrn3tQ"
+      },
+      "artists": [
+        {
+          "name": "MAAD",
+          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "ILM",
+      "url": "https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip"
     },
     {
       "added_at": "2023-01-20 03:01:00",
@@ -1595,22 +1627,6 @@
       "duration_ms": 149406,
       "name": "never enough",
       "url": "https://open.spotify.com/track/7bBX8D2NdrHgukqsi1BbRV"
-    },
-    {
-      "added_at": "2023-01-20 03:01:00",
-      "album": {
-        "name": "The Beauty Created",
-        "url": "https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 271453,
-      "name": "Come To My Room",
-      "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
     },
     {
       "added_at": "2023-01-20 03:01:00",
@@ -1779,22 +1795,6 @@
       "duration_ms": 165962,
       "name": "Look At You",
       "url": "https://open.spotify.com/track/2OzMvSU0CuklnI7tsoMUDO"
-    },
-    {
-      "added_at": "2023-01-20 03:01:00",
-      "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 162188,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
     }
   ],
   "unique_name": "dengo",

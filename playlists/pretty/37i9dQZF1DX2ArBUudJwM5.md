@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Escuchá a Mora Navarro y a más mujeres a todo volumen\. <br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,766 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,777 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 9 | [Besos Que Nos Dimos](https://open.spotify.com/track/7u5ubiYPA1a1tACQrZicY7) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Besos Que Nos Dimos](https://open.spotify.com/album/0gOurSKwd8MBVE7DANvFKX) | 3:07 |
 | 10 | [El Próximo Verano](https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [El Próximo Verano](https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv) | 4:29 |
 | 11 | [Estamos Bajo el Agua](https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Estamos Bajo el Agua](https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv) | 2:31 |
-| 12 | [Solomias](https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Solomias](https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf) | 2:05 |
-| 13 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 |
+| 12 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 |
+| 13 | [Solomias](https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Solomias](https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf) | 2:05 |
 | 14 | [No quería venir](https://open.spotify.com/track/6FsVhGbphT7UNIylFhgbwt) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [No quería venir](https://open.spotify.com/album/3qHx3Gmu3Yez34wkzKCwSb) | 3:33 |
 | 15 | [Pisteando](https://open.spotify.com/track/0kRDY2gDmv3aCKd7AuLNnt) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [OSADÍA](https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa) | 2:13 |
 | 16 | [Hoy Dejé De Llorar](https://open.spotify.com/track/7mQyrhiwZf5xOIr0klasjZ) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Hoy Dejé De Llorar](https://open.spotify.com/album/4PM1GeOZpI3cP8329Plp1D) | 2:31 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 37 | [Los Viernes](https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Los Viernes](https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN) | 3:19 |
 | 38 | [Culpable](https://open.spotify.com/track/7gCYnJTLrgYgfO6qU7gHIt) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT), [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [ARDE](https://open.spotify.com/album/3XlbISNBUWfa7dPO9rZoDm) | 3:07 |
 | 39 | [CHACA](https://open.spotify.com/track/1EFdnT0s36u2f7FvhYS2SH) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [R Chop](https://open.spotify.com/album/5ckfeykmE4MxADAQxGQVJZ) | 3:28 |
-| 40 | [Rota](https://open.spotify.com/track/5flqJsQDTDxJ2i2269Be2P) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Rota](https://open.spotify.com/album/1TTZVw7gOyWXzJ1yIttZTS) | 4:15 |
-| 41 | [Preaviso](https://open.spotify.com/track/3HPuuER7tq2rNrrYVqqhGr) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Preaviso](https://open.spotify.com/album/4nqfhEaphI34zhr1mDbJRq) | 4:24 |
+| 40 | [Preaviso](https://open.spotify.com/track/3HPuuER7tq2rNrrYVqqhGr) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Preaviso](https://open.spotify.com/album/4nqfhEaphI34zhr1mDbJRq) | 4:24 |
+| 41 | [Rota](https://open.spotify.com/track/5flqJsQDTDxJ2i2269Be2P) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Rota](https://open.spotify.com/album/1TTZVw7gOyWXzJ1yIttZTS) | 4:15 |
 | 42 | [Desandar](https://open.spotify.com/track/6l0JOFfh2NcvMIeOYsvtul) | [Delfina Mancardo](https://open.spotify.com/artist/7aCKt3m8guXnz3VYRgNO1q) | [OCTANTE](https://open.spotify.com/album/1Cw8dcoeDHs9TVrGsxQGRJ) | 3:46 |
 | 43 | [duele](https://open.spotify.com/track/2AbO6Q9JMnCvEtXVKauXUN) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [EL RUIDO DEL SILENCIO](https://open.spotify.com/album/3qGBBO5yibQFzZMqOmWuZ5) | 2:12 |
 | 44 | [Miedos](https://open.spotify.com/track/1OMxMlloAua2ILotDdh6Bp) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Pendeja](https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe) | 3:02 |
-| 45 | [Piedra Libre](https://open.spotify.com/track/6FQ9S8MWXD1QwD9efri79z) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Piedra Libre](https://open.spotify.com/album/36TzB5H81zUh5Bz9JJlupk) | 3:33 |
-| 46 | [Ir al Cielo](https://open.spotify.com/track/3M32rJC44XivZBYqrA6QLe) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Ir al Cielo](https://open.spotify.com/album/1CeEByiGtu4Vk3JmZPOnHB) | 3:23 |
+| 45 | [Ir al Cielo](https://open.spotify.com/track/3M32rJC44XivZBYqrA6QLe) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Ir al Cielo](https://open.spotify.com/album/1CeEByiGtu4Vk3JmZPOnHB) | 3:23 |
+| 46 | [Piedra Libre](https://open.spotify.com/track/6FQ9S8MWXD1QwD9efri79z) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Piedra Libre](https://open.spotify.com/album/36TzB5H81zUh5Bz9JJlupk) | 3:33 |
 | 47 | [Bruma](https://open.spotify.com/track/37A1t6zLsxWtqZfb5nE9hf) | [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Santa Basura \[1\]](https://open.spotify.com/album/5JD5doGcCXgJMZiIYdFTk9) | 1:19 |
 | 48 | [A Medio Paso de Tu Amor](https://open.spotify.com/track/5L2hNfn0j0siDROBUSwI7P) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Spm \(Se Pronuncia Maguaier\)](https://open.spotify.com/album/6yDOQhDAnwt9Bh2KN5Volt) | 3:45 |
 | 49 | [envoltorio](https://open.spotify.com/track/0SQFTTsewLJj7wtCVj3R86) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 3:18 |
 | 50 | [Te Veo](https://open.spotify.com/track/7bCKA92OWo7QSJ0SUe0CRz) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [MAJA](https://open.spotify.com/artist/1vt66Aetdj6e4TpfaXpmhx) | [Hex](https://open.spotify.com/album/0VhDbHjdwQkAJFBe8FwLKY) | 3:14 |
 
-Snapshot ID: `MTY3MjgwMTIwMCwwMDAwMDAwMGY1MzI3NDBmYzM3YjdlYTk2NGE3OTRiNDY3Nzg2Njg2`
+Snapshot ID: `MTY3MjgwMTIwMCwwMDAwMDAwMDdkOTgzZGM1YmQ0NTczM2EwNmVjYmU0NGU4YTdiNTJi`

@@ -6051,6 +6051,24 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/4XqiYJLPxRFWfO0thNCgLl"
+      },
+      "artists": [
+        {
+          "name": "Ctill",
+          "url": "https://open.spotify.com/artist/47diE7gubS7rniBjkHsQPY"
+        }
+      ],
+      "date_added": "2023-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182961,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5WtdIBUOGNdslIPwPAjHUW"
+    },
+    {
+      "album": {
         "name": "Love Shots",
         "url": "https://open.spotify.com/album/7KMp5uAH2B3dupZySwFdlD"
       },
@@ -6786,24 +6804,6 @@
       "duration_ms": 182961,
       "name": "My Love",
       "url": "https://open.spotify.com/track/1z3WPf2k1yRyWtZLjVvRzV"
-    },
-    {
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/4XqiYJLPxRFWfO0thNCgLl"
-      },
-      "artists": [
-        {
-          "name": "Ctill",
-          "url": "https://open.spotify.com/artist/47diE7gubS7rniBjkHsQPY"
-        }
-      ],
-      "date_added": "2023-01-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182961,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/5WtdIBUOGNdslIPwPAjHUW"
     },
     {
       "album": {

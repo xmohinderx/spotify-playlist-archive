@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 246819,
+  "num_followers": 246892,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMGM5Y2MzYTM5NGI3M2EwYmQyODNlOTRhMjJkNzg0NDg0",
+  "snapshot_id": "MTU2ODY0ODY2NSwwMDAwMDAwMDJlMzgxMzM2NDI3ZjYyYzE5YjM5ZDM2NDliMGY1NjRh",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -267,18 +267,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Aromanticism",
-        "url": "https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1"
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
       },
       "artists": [
         {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
         }
       ],
-      "duration_ms": 188557,
-      "name": "Plastic",
-      "url": "https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1"
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -299,18 +299,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+        "name": "Aromanticism",
+        "url": "https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1"
       },
       "artists": [
         {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
         }
       ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+      "duration_ms": 188557,
+      "name": "Plastic",
+      "url": "https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/5IOAXuRLWNGAuOXL2YVwf8"
     },
     {
-      "added_at": "2019-09-16 15:44:25",
-      "album": {
-        "name": "Baby You Can Free Your Mind",
-        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
-      },
-      "artists": [
-        {
-          "name": "Mind Bath",
-          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
-        }
-      ],
-      "duration_ms": 335180,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Someone\u2019s EP I",
@@ -547,6 +531,22 @@
       "duration_ms": 87037,
       "name": "INT.",
       "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
+    },
+    {
+      "added_at": "2019-09-16 15:44:25",
+      "album": {
+        "name": "Baby You Can Free Your Mind",
+        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        }
+      ],
+      "duration_ms": 335180,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
     },
     {
       "added_at": "2019-05-24 08:01:00",

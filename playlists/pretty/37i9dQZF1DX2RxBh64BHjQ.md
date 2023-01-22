@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3LZZPxNDGDFVSIPqf4JuEf">Ice Spice</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,724,316 likes - 99 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,724,544 likes - 99 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

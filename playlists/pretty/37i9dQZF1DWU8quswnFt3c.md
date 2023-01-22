@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to the women of the world at full volume\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,178 likes - 69 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,153 likes - 69 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,22 +54,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 44 | [Mapa de Estrelas](https://open.spotify.com/track/3oJCVmWrO80dFUYMp9df6Z) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Mapa de Estrelas](https://open.spotify.com/album/3mzMJkaC9OoaEeuE5YAxxS) | 3:11 |
 | 45 | [¿Y Cómo?](https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 3:32 |
 | 46 | [Lagi](https://open.spotify.com/track/1RUwljx07hisFStd1WSS3Q) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Feel Good](https://open.spotify.com/album/2JFAmLbybI6ExZ5l1DTuQI) | 4:16 |
-| 47 | [عارفه قيمتي](https://open.spotify.com/track/0k1pF4SI4m4xYHRw8M022J) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عارفه قيمتي](https://open.spotify.com/album/0csj4uie2SFphm4M2aPrJh) | 3:50 |
-| 48 | [Baddie](https://open.spotify.com/track/2Zw2XPLkBPGGN9uZpZT2r0) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [African Baddie](https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413) | 2:45 |
+| 47 | [Baddie](https://open.spotify.com/track/2Zw2XPLkBPGGN9uZpZT2r0) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [African Baddie](https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413) | 2:45 |
+| 48 | [عارفه قيمتي](https://open.spotify.com/track/0k1pF4SI4m4xYHRw8M022J) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عارفه قيمتي](https://open.spotify.com/album/0csj4uie2SFphm4M2aPrJh) | 3:50 |
 | 49 | [W pełni](https://open.spotify.com/track/3GGXj9c5D5JlxFEls441Co) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [W pełni](https://open.spotify.com/album/10JDesyKB1eLBIvYQQiTvr) | 4:00 |
 | 50 | [Ti prego portami dei fiori](https://open.spotify.com/track/13O2T5HvpN5WFRqvtrRkKg) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Ti prego portami dei fiori](https://open.spotify.com/album/1kCIHaZqJkRMuIQX4iSytx) | 2:38 |
 | 51 | [criminal](https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [criminal](https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5) | 2:37 |
-| 52 | [przestrzeń](https://open.spotify.com/track/7ljRVro7Gqa99RIb1c9J4A) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [kocham i tęsknię](https://open.spotify.com/album/33fyS7gwoG2qo3dOkSzmZ2) | 3:16 |
-| 53 | [Infinity Song](https://open.spotify.com/track/6HePNi3QS42SD9eTqEGkSG) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Infinity Song](https://open.spotify.com/album/0U9wGkVQjr3elUMi95GYsh) | 3:52 |
+| 52 | [Infinity Song](https://open.spotify.com/track/6HePNi3QS42SD9eTqEGkSG) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Infinity Song](https://open.spotify.com/album/0U9wGkVQjr3elUMi95GYsh) | 3:52 |
+| 53 | [przestrzeń](https://open.spotify.com/track/7ljRVro7Gqa99RIb1c9J4A) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [kocham i tęsknię](https://open.spotify.com/album/33fyS7gwoG2qo3dOkSzmZ2) | 3:16 |
 | 54 | [Visión Nocturna](https://open.spotify.com/track/6qHDY0nxwj0E9oHX9i9XMS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Claroscuro](https://open.spotify.com/album/0BJVfmQhzjNLJuupXUzRQ5) | 3:27 |
 | 55 | [Những Chàng Trai Em Từng Yêu](https://open.spotify.com/track/4w2iqC203m2IPEBAlNjHQJ) | [Luna Đào](https://open.spotify.com/artist/77P1juitmNJV2mOz0oMmkB) | [Những Chàng Trai Em Từng Yêu](https://open.spotify.com/album/4dn9Aw2j0TZT81L51B1zha) | 5:50 |
 | 56 | [Đừng nhấc máy em](https://open.spotify.com/track/3r2WGH6ZoVPZbXcxIUVxrr) | [Kimmese](https://open.spotify.com/artist/4w5vfLTFKwpd16ZzmYwcXA), [Minh Tốc](https://open.spotify.com/artist/6041bp1WneyjycRVNFIdrW), [Pablo Yang](https://open.spotify.com/artist/0ecx7ZulYP1M6roRRmYUNF) | [Đừng nhấc máy em](https://open.spotify.com/album/1WP2iVNer8qW04hHid80Vn) | 3:56 |
 | 57 | [i'd probably die in my bed](https://open.spotify.com/track/0Tc3VFHylUypUKv8xksgzM) | [wadfah](https://open.spotify.com/artist/4VLJF0kk8HDMK7VPDctSzo) | [i'd probably die in my bed](https://open.spotify.com/album/0pLSKAQGMVVCsz6rYW9XH2) | 2:50 |
-| 58 | [Brújula](https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Brújula](https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr) | 3:10 |
-| 59 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 |
-| 60 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 |
-| 61 | [Gigi](https://open.spotify.com/track/2iIk4RyJRWVa4l0t0fiQWs) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Gigi](https://open.spotify.com/album/0WnVwquHKlCPWJbZO9upzd) | 4:10 |
-| 62 | [Takin’ Over](https://open.spotify.com/track/66bTmTRn2llF84aCPPbtt6) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Takin’ Over](https://open.spotify.com/album/34AT0v7uNXQAFNubd6Brk5) | 3:40 |
+| 58 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 |
+| 59 | [Brújula](https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Brújula](https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr) | 3:10 |
+| 60 | [Right Person, Wrong Time](https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Right Person, Wrong Time](https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa) | 3:58 |
+| 61 | [Takin’ Over](https://open.spotify.com/track/66bTmTRn2llF84aCPPbtt6) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Takin’ Over](https://open.spotify.com/album/34AT0v7uNXQAFNubd6Brk5) | 3:40 |
+| 62 | [Gigi](https://open.spotify.com/track/2iIk4RyJRWVa4l0t0fiQWs) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Gigi](https://open.spotify.com/album/0WnVwquHKlCPWJbZO9upzd) | 4:10 |
 | 63 | [red balloon](https://open.spotify.com/track/1PDZgF0gL4AXpZWNORdP7X) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [red balloon](https://open.spotify.com/album/2ChHnNtWgYv8XUGeHYqqE4) | 3:05 |
 | 64 | [Loco](https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Loco](https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt) | 2:58 |
 | 65 | [Now You See Me](https://open.spotify.com/track/3heiV6V4Hyb3KPlC30Zazj) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4) | 2:54 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 68 | [MEDUSA](https://open.spotify.com/track/6DNVpkxyipnNdZG3cssL4t) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [R Chop](https://open.spotify.com/album/5ckfeykmE4MxADAQxGQVJZ) | 4:07 |
 | 69 | [O Menino e a Cidade](https://open.spotify.com/track/4JejocjvgZdqS4xIBbeojq) | [Carminho](https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR) | [Maria](https://open.spotify.com/album/0IIrr6l1DIezFyEthY2svL) | 3:47 |
 
-Snapshot ID: `MTY3MzUzMzk1NywwMDAwMDAwMDhmMjJiM2IxY2M0ODUxMWRjNzY4NjQ4NWY0ODhjNDdh`
+Snapshot ID: `MTY3MzUzMzk1NywwMDAwMDAwMDcyNGZmMjRmNzE3MThiOTliMmFjZmQ2OTI0NDE0ZWFj`

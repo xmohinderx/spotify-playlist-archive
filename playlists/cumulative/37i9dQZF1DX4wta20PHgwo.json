@@ -3914,7 +3914,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 386053,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/02REZiJgy4dVwbNwuDtDLI"
@@ -4196,7 +4196,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 141360,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/3nt2gUt7V9Z01aAljXZip2"
@@ -5621,6 +5621,32 @@
     },
     {
       "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/2lTLo4fPtvKX8RVUTSrcou"
+      },
+      "artists": [
+        {
+          "name": "\u0141ukasz Borowicki",
+          "url": "https://open.spotify.com/artist/6CQ2Tz7zmnD0aibHMs3TFl"
+        },
+        {
+          "name": "Mariusz Pra\u015bniewski",
+          "url": "https://open.spotify.com/artist/3TAGTar9h3XhX7H2xhOurj"
+        },
+        {
+          "name": "Karol Doma\u0144ski",
+          "url": "https://open.spotify.com/artist/2y3FvjLfLQFfnagWWj0F31"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282013,
+      "name": "The World We Knew",
+      "url": "https://open.spotify.com/track/5qyLYGMHTACVqf7qjGvhUx"
+    },
+    {
+      "album": {
         "name": "Theme for Ernie",
         "url": "https://open.spotify.com/album/5nIGkpHjEIoZwoZkWbOOAh"
       },
@@ -5822,7 +5848,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 209333,
       "name": "They Didn't Believe Me",
       "url": "https://open.spotify.com/track/34oMi39G5RYgaCPwRNJ7OU"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Diskoria, Laleilmanino, Bunga Citra Lestari
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,350 likes - 87 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,372 likes - 87 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

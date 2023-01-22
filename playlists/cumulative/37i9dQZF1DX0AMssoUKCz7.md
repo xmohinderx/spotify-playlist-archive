@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-569 songs - 1 day 5 hr 24 min
+570 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Jubel \- Nora En Pure Remix](https://open.spotify.com/track/1SC2baSJpW1wSy09LEU9aT) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Remixes\)](https://open.spotify.com/album/18ecyDssonw23eqZ690WUM) | 6:18 | 2022-01-14 | 2022-05-07 |
 | [just like this](https://open.spotify.com/track/2BpYaI9sstZ8MDqqp1iu0I) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [just like this](https://open.spotify.com/album/3S7D4HBTZuskrHi2LJJ4Zs) | 2:14 | 2022-08-12 |  |
 | [Karibu \- Radio Edit](https://open.spotify.com/track/5ZTPowK41qACT8FFuorbXW) | [Lago](https://open.spotify.com/artist/6dJi7tkU0GjHJtB2A586kj) | [Karibu](https://open.spotify.com/album/2MTl3uV62fuLLTer8eC0kZ) | 3:30 | 2022-01-14 | 2022-04-21 |
+| [Kiss Me](https://open.spotify.com/track/6kYkyeZHXPOj4s5swBEgvu) | [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Kiss Me](https://open.spotify.com/album/2k3nAAi31nOvj3wcuNwMYr) | 2:27 | 2023-01-20 |  |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/4zWbO2jh3xzgylLksw37Fu) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Knockin' On Heaven's Door](https://open.spotify.com/album/3Zhg5HmHcCJea6KvPBf5uu) | 2:29 | 2022-09-09 |  |
 | [Kuala Lumpur](https://open.spotify.com/track/2gK4qTOtzYQiiOW6I2bXj8) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Kuala Lumpur](https://open.spotify.com/album/4suO8UXZWFxmqEPtabQrCK) | 3:02 | 2022-05-20 | 2022-11-12 |
 | [Kyoto](https://open.spotify.com/track/6Uk70qpuVpIbJYfpgp7FOv) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Huaraz](https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf) | 5:31 | 2022-04-01 | 2022-07-02 |
@@ -322,7 +323,7 @@
 | [Mine](https://open.spotify.com/track/5H1jO8SyOdNeueauLa6oHn) | [Noile](https://open.spotify.com/artist/0KjXAq0C0q9edx9triuYi9), [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [LIZ LUNE](https://open.spotify.com/artist/5xRUsKg8Fo7klXjR63y894) | [Mine](https://open.spotify.com/album/4EwmRTYYPddZVwoKedu6zs) | 1:51 | 2022-04-22 |  |
 | [Miracle In The Middle Of My Heart](https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8) | [BCX](https://open.spotify.com/artist/0g8dyAYXMj72hIsb8ttK32) | [Miracle In The Middle Of My Heart](https://open.spotify.com/album/0JqOjZEbmUwV4k7QIHnOPG) | 2:54 | 2022-01-14 |  |
 | [Mirrors](https://open.spotify.com/track/6SEqz6adzlLPDzNrf8mCCf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Mirrors](https://open.spotify.com/album/2rHruBFK7lCidKa4HrEqYB) | 3:40 | 2022-01-21 |  |
-| [Moment](https://open.spotify.com/track/2RsL9DuIs7zAgvay9dDB8E) | [le moon](https://open.spotify.com/artist/7pAX1Z7RQzZzTzKJFFgBhU), [Tenjo](https://open.spotify.com/artist/6CKt4tMB1YYkB2CtnnCG9f) | [Moment](https://open.spotify.com/album/2KMBR0nA5USBKm5HuD54zy) | 2:36 | 2022-08-05 |  |
+| [Moment](https://open.spotify.com/track/2RsL9DuIs7zAgvay9dDB8E) | [le moon](https://open.spotify.com/artist/7pAX1Z7RQzZzTzKJFFgBhU), [Tenjo](https://open.spotify.com/artist/6CKt4tMB1YYkB2CtnnCG9f) | [Moment](https://open.spotify.com/album/2KMBR0nA5USBKm5HuD54zy) | 2:36 | 2022-08-05 | 2023-01-22 |
 | [Moment](https://open.spotify.com/track/5TL60rdO2ruxtVb3dCTtUJ) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Alex Brandt](https://open.spotify.com/artist/07EOa5tn34Eh7VuTfnYMjk), [Chris George](https://open.spotify.com/artist/6eAtG9o64WaAOHPQgCoJCJ) | [Moment](https://open.spotify.com/album/4WbjKC8lxP7F3xTLFRCkW9) | 3:10 | 2022-01-14 | 2023-01-21 |
 | [Moments](https://open.spotify.com/track/0e4xfVTScciruWRTHG3Myh) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Netzwerk \(Deluxe\)](https://open.spotify.com/album/4j9mSsoan95YCTzgxORbvK) | 5:02 | 2022-01-14 | 2022-07-04 |
 | [Money](https://open.spotify.com/track/43XjZ7NUKfht6cv1hGdXKW) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Money](https://open.spotify.com/album/73mea9eTMTIvs9EVuQGKz7) | 2:58 | 2022-05-20 |  |

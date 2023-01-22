@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-160 songs - 10 hr 5 min
+162 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,8 @@
 | [Particle Emission](https://open.spotify.com/track/7svM6oRnsecnQd30A6prDc) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Residuum](https://open.spotify.com/album/1KcRjaSyfxRWSV8vjJvgIR) | 2:43 | 2022-07-25 |  |
 | [Particle Emission](https://open.spotify.com/track/7Gkse5oUgdsjBeVQn980ce) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Residuum](https://open.spotify.com/album/27HGND1rcDXj1Yrjywg2Lf) | 2:43 | 2021-12-08 | 2022-07-29 |
 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 | 2021-12-08 |  |
+| [Patience Is A Virtue](https://open.spotify.com/track/2KJkKZ6u3QRm9Xpu5I2CPB) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [Rest](https://open.spotify.com/album/0zR6lyMZuofipT1Mh4Glrn) | 1:59 | 2023-01-21 |  |
+| [Precipice](https://open.spotify.com/track/4CHIJuqR1jLfzA72THSzUm) | [The Flashbulb](https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH) | [Piety of Ashes](https://open.spotify.com/album/6Nap8Im1EOFrqTVdoD8fAf) | 2:10 | 2023-01-21 |  |
 | [Red Gold Yesterday](https://open.spotify.com/track/5q4HX5dFrepBt1T4Kjuw6p) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/3xdGge4Qff3JuWeGpIElmZ) | 2:18 | 2021-12-08 |  |
 | [Relief](https://open.spotify.com/track/6zEj2eiPUquOGLvpEVcJw0) | [Prashanth Srinivas](https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu) | [Ambient Introspection](https://open.spotify.com/album/3lWuCWKOZ5Wghrq02zlsqd) | 2:06 | 2021-12-08 |  |
 | [Remembering](https://open.spotify.com/track/15BXZpDEzGSoKRdqvEieXQ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Remembering](https://open.spotify.com/album/3rWELleGIOoXEnW0eSHBjG) | 2:01 | 2021-12-08 |  |

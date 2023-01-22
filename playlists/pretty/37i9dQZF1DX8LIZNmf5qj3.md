@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Giveon
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,861 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,865 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 12 | [Call Me](https://open.spotify.com/track/3wPNXRgvJI35uIXxlPriv2) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [La Lune](https://open.spotify.com/album/3Mp4ACnaRCKzMy8XmaT2iI) | 4:23 |
 | 13 | [Hide & Seek \- FLO Remix](https://open.spotify.com/track/6jAdi1dYM3CqKaPnaGu03H) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Hide & Seek \(FLO Remix\)](https://open.spotify.com/album/7sFeHL1xwkJEZzQarMXsDv) | 3:29 |
 | 14 | [On the Run](https://open.spotify.com/track/3IlfKc2D6TxTkWTX3xWsLt) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [On The Run](https://open.spotify.com/album/48fMFnwmGaqqt3iWtsoeH0) | 4:52 |
-| 15 | [I Hate the Drunk You](https://open.spotify.com/track/1iquQtCPDBJvkCL67VBdtR) | [Joe Trufant](https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5) | [I Hate the Drunk You](https://open.spotify.com/album/0Jb8Ge54mIv6kJzVtMOREG) | 2:48 |
+| 15 | [i hate the drunk you](https://open.spotify.com/track/1iquQtCPDBJvkCL67VBdtR) | [Joe Trufant](https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5) | [i hate the drunk you](https://open.spotify.com/album/0Jb8Ge54mIv6kJzVtMOREG) | 2:48 |
 | 16 | [Haunt Me](https://open.spotify.com/track/1hIdLtIrQoVuI9TZ9DcRWB) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Haunt Me](https://open.spotify.com/album/5HrFx3KXVsAijFKPUoCOwH) | 3:02 |
 | 17 | [Heartbreak Anniversary](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Heartbreak Anniversary](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 3:16 |
 | 18 | [Multiply](https://open.spotify.com/track/3rrClpW2TfOj6VY6nLtqBS) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Multiply](https://open.spotify.com/album/7kqge5g8SnPqZtRoQyRMPz) | 3:56 |

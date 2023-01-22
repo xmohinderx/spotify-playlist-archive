@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Mula en portada.",
-  "num_followers": 28443,
+  "num_followers": 28473,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc5NjU2NiwwMDAwMDAwMGI1Y2RlNWMxMzI4MDM4ODgwNGY3OTVhNGE2MjBiZGVk",
+  "snapshot_id": "MTY3Mjc5NjU2NiwwMDAwMDAwMDgzNWRmOWZjNTk4MWJmNjI4NjIzMmZmZjliMDVhMmM5",
   "tracks": [
     {
       "added_at": "2022-09-16 04:50:01",
@@ -253,6 +253,38 @@
       "url": "https://open.spotify.com/track/2MVutCS0ZGcu2HbmYIhF3i"
     },
     {
+      "added_at": "2022-07-13 15:48:37",
+      "album": {
+        "name": "Siempre Sim\u00f3n y Nunca Nel",
+        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 241616,
+      "name": "Siempre Sim\u00f3n y Nunca Nel",
+      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
+    },
+    {
+      "added_at": "2023-01-04 01:42:46",
+      "album": {
+        "name": "12:21",
+        "url": "https://open.spotify.com/album/2cIv8xNIPWnD5WMogm6HMs"
+      },
+      "artists": [
+        {
+          "name": "Cruz Del Monte",
+          "url": "https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs"
+        }
+      ],
+      "duration_ms": 213344,
+      "name": "12:21",
+      "url": "https://open.spotify.com/track/1mSqoJ7bLK8sj3yMMQg9Kr"
+    },
+    {
       "added_at": "2022-11-03 18:26:02",
       "album": {
         "name": "Mientras Tanto",
@@ -275,38 +307,6 @@
       "duration_ms": 135000,
       "name": "Mientras Tanto",
       "url": "https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF"
-    },
-    {
-      "added_at": "2023-01-04 01:42:46",
-      "album": {
-        "name": "12:21",
-        "url": "https://open.spotify.com/album/2cIv8xNIPWnD5WMogm6HMs"
-      },
-      "artists": [
-        {
-          "name": "Cruz Del Monte",
-          "url": "https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs"
-        }
-      ],
-      "duration_ms": 213344,
-      "name": "12:21",
-      "url": "https://open.spotify.com/track/1mSqoJ7bLK8sj3yMMQg9Kr"
-    },
-    {
-      "added_at": "2022-07-13 15:48:37",
-      "album": {
-        "name": "Siempre Sim\u00f3n y Nunca Nel",
-        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 241616,
-      "name": "Siempre Sim\u00f3n y Nunca Nel",
-      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
     },
     {
       "added_at": "2022-09-02 05:58:38",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
     },
     {
-      "added_at": "2022-09-02 05:54:39",
-      "album": {
-        "name": "Sal de Mar",
-        "url": "https://open.spotify.com/album/7A24Cw1BI1a7mjhTWGxLxn"
-      },
-      "artists": [
-        {
-          "name": "Gabacho",
-          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
-        }
-      ],
-      "duration_ms": 267775,
-      "name": "Sal de Mar",
-      "url": "https://open.spotify.com/track/3b8WAuWj0MCKig7e5KV0YL"
-    },
-    {
       "added_at": "2021-11-12 02:37:14",
       "album": {
         "name": "Aguaepanela Fant\u00e1stica",
@@ -443,6 +427,22 @@
       "duration_ms": 255227,
       "name": "Aguaepanela Fant\u00e1stica",
       "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
+    },
+    {
+      "added_at": "2022-09-02 05:54:39",
+      "album": {
+        "name": "Sal de Mar",
+        "url": "https://open.spotify.com/album/7A24Cw1BI1a7mjhTWGxLxn"
+      },
+      "artists": [
+        {
+          "name": "Gabacho",
+          "url": "https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu"
+        }
+      ],
+      "duration_ms": 267775,
+      "name": "Sal de Mar",
+      "url": "https://open.spotify.com/track/3b8WAuWj0MCKig7e5KV0YL"
     },
     {
       "added_at": "2022-08-16 00:06:15",
@@ -545,26 +545,6 @@
       "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
     },
     {
-      "added_at": "2022-11-17 22:53:43",
-      "album": {
-        "name": "Starry Nights",
-        "url": "https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "Neal Francis",
-          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
-        }
-      ],
-      "duration_ms": 205067,
-      "name": "Starry Nights",
-      "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
-    },
-    {
       "added_at": "2022-01-17 15:56:36",
       "album": {
         "name": "Sal de Mar",
@@ -587,6 +567,26 @@
       "duration_ms": 206590,
       "name": "Sal de Mar",
       "url": "https://open.spotify.com/track/3Go0i4zhTnL8CkfyTrSkez"
+    },
+    {
+      "added_at": "2022-11-17 22:53:43",
+      "album": {
+        "name": "Starry Nights",
+        "url": "https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "Neal Francis",
+          "url": "https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3"
+        }
+      ],
+      "duration_ms": 205067,
+      "name": "Starry Nights",
+      "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
     },
     {
       "added_at": "2022-01-11 00:19:39",
@@ -697,20 +697,20 @@
       "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
     },
     {
-      "added_at": "2022-10-27 22:16:41",
+      "added_at": "2022-09-02 05:18:03",
       "album": {
-        "name": "Se Ve Desde Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
+        "name": "la noche de ayer",
+        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
       },
       "artists": [
         {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
         }
       ],
-      "duration_ms": 408057,
-      "name": "Desde el Cielo",
-      "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
+      "duration_ms": 255591,
+      "name": "la noche de ayer",
+      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
     },
     {
       "added_at": "2022-09-07 01:11:32",
@@ -729,20 +729,20 @@
       "url": "https://open.spotify.com/track/3tz4X9gO0l6lOoh4ZvK7xg"
     },
     {
-      "added_at": "2022-09-02 05:18:03",
+      "added_at": "2022-10-27 22:16:41",
       "album": {
-        "name": "la noche de ayer",
-        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
+        "name": "Se Ve Desde Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
       },
       "artists": [
         {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
         }
       ],
-      "duration_ms": 255591,
-      "name": "la noche de ayer",
-      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
+      "duration_ms": 408057,
+      "name": "Desde el Cielo",
+      "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
     },
     {
       "added_at": "2022-07-25 03:37:28",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
     },
     {
-      "added_at": "2022-09-26 21:49:32",
-      "album": {
-        "name": "Ven Vamos",
-        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "Ven Vamos",
-      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
-    },
-    {
       "added_at": "2022-02-25 03:53:48",
       "album": {
         "name": "Canoas",
@@ -795,6 +779,22 @@
       "duration_ms": 297000,
       "name": "Canoas",
       "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
+    },
+    {
+      "added_at": "2022-09-26 21:49:32",
+      "album": {
+        "name": "Ven Vamos",
+        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "Ven Vamos",
+      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -881,6 +881,22 @@
       "url": "https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY"
     },
     {
+      "added_at": "2022-01-14 01:12:21",
+      "album": {
+        "name": "Rainfalls",
+        "url": "https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y"
+      },
+      "artists": [
+        {
+          "name": "Mandale Mecha",
+          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
+        }
+      ],
+      "duration_ms": 216379,
+      "name": "Rainfalls",
+      "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
+    },
+    {
       "added_at": "2022-09-12 20:24:34",
       "album": {
         "name": "Last Spa on Earth",
@@ -899,26 +915,6 @@
       "duration_ms": 179949,
       "name": "Papelito",
       "url": "https://open.spotify.com/track/6MHN9H0xjXlBNqBu9vuYOt"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "El Sol",
-        "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
-      },
-      "artists": [
-        {
-          "name": "Mandale Mecha",
-          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
-        },
-        {
-          "name": "MULAMBA",
-          "url": "https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN"
-        }
-      ],
-      "duration_ms": 189778,
-      "name": "El Sol",
-      "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
     },
     {
       "added_at": "2022-03-30 03:05:40",
@@ -1013,22 +1009,6 @@
       "url": "https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j"
     },
     {
-      "added_at": "2022-01-14 01:12:21",
-      "album": {
-        "name": "Rainfalls",
-        "url": "https://open.spotify.com/album/0LPbgUDgVTriQISLJGTj5Y"
-      },
-      "artists": [
-        {
-          "name": "Mandale Mecha",
-          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
-        }
-      ],
-      "duration_ms": 216379,
-      "name": "Rainfalls",
-      "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
-    },
-    {
       "added_at": "2022-09-19 13:48:08",
       "album": {
         "name": "Amanecer",
@@ -1043,6 +1023,42 @@
       "duration_ms": 245187,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "El Sol",
+        "url": "https://open.spotify.com/album/7w2VOEKla6DNnWjDsIkaQf"
+      },
+      "artists": [
+        {
+          "name": "Mandale Mecha",
+          "url": "https://open.spotify.com/artist/483XO10ZYxnxAqMkuOTJ2m"
+        },
+        {
+          "name": "MULAMBA",
+          "url": "https://open.spotify.com/artist/6wd8OZcCaRQNDIMz6SPNGN"
+        }
+      ],
+      "duration_ms": 189778,
+      "name": "El Sol",
+      "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
+    },
+    {
+      "added_at": "2022-03-17 00:23:15",
+      "album": {
+        "name": "Vesica Piscis",
+        "url": "https://open.spotify.com/album/1wLQVoxpUOdcCymwnCyH7e"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 312661,
+      "name": "Tierra",
+      "url": "https://open.spotify.com/track/4JnUNSoH5576ZKA9CPLQhD"
     },
     {
       "added_at": "2022-04-12 02:37:18",
@@ -1063,22 +1079,6 @@
       "duration_ms": 434406,
       "name": "Kiss the Frog",
       "url": "https://open.spotify.com/track/60eVoxEcP76xEUAnriUpB0"
-    },
-    {
-      "added_at": "2022-03-17 00:23:15",
-      "album": {
-        "name": "Vesica Piscis",
-        "url": "https://open.spotify.com/album/1wLQVoxpUOdcCymwnCyH7e"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        }
-      ],
-      "duration_ms": 312661,
-      "name": "Tierra",
-      "url": "https://open.spotify.com/track/4JnUNSoH5576ZKA9CPLQhD"
     },
     {
       "added_at": "2022-07-13 15:48:37",
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/3BeAo71NSk2xAFlNAganPw"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Ild\u00e9 Pa\u2019 Beberte",
-        "url": "https://open.spotify.com/album/1QX928uCKilM7KCE9G0xhO"
-      },
-      "artists": [
-        {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        }
-      ],
-      "duration_ms": 208064,
-      "name": "Ild\u00e9 Pa\u2019 Beberte",
-      "url": "https://open.spotify.com/track/5oKi2idPWZmWbpmIkYgvDc"
-    },
-    {
       "added_at": "2022-09-30 04:06:25",
       "album": {
         "name": "Arde",
@@ -1285,20 +1269,20 @@
       "url": "https://open.spotify.com/track/083pInG64kGBpky2B6Vlfy"
     },
     {
-      "added_at": "2021-10-22 05:00:00",
+      "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "Loco Playa",
-        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
+        "name": "Ild\u00e9 Pa\u2019 Beberte",
+        "url": "https://open.spotify.com/album/1QX928uCKilM7KCE9G0xhO"
       },
       "artists": [
         {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
         }
       ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
+      "duration_ms": 208064,
+      "name": "Ild\u00e9 Pa\u2019 Beberte",
+      "url": "https://open.spotify.com/track/5oKi2idPWZmWbpmIkYgvDc"
     },
     {
       "added_at": "2022-09-07 01:11:32",
@@ -1319,6 +1303,22 @@
       "duration_ms": 216346,
       "name": "En el Temblor (feat. Chico Mann)",
       "url": "https://open.spotify.com/track/35dti3qmFz9CoPueVni1iW"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Loco Playa",
+        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
       "added_at": "2022-07-25 03:37:28",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms"
     },
     {
-      "added_at": "2022-09-15 12:46:11",
-      "album": {
-        "name": "Joyas",
-        "url": "https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN"
-      },
-      "artists": [
-        {
-          "name": "Valgur",
-          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
-        }
-      ],
-      "duration_ms": 172402,
-      "name": "Joyas",
-      "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "El Cabr\u00f3n",
@@ -1427,6 +1411,22 @@
       "duration_ms": 200750,
       "name": "Calle Brasil",
       "url": "https://open.spotify.com/track/5Yp11ERdglGeV2akmFrhtU"
+    },
+    {
+      "added_at": "2022-09-15 12:46:11",
+      "album": {
+        "name": "Joyas",
+        "url": "https://open.spotify.com/album/7aNoysMFjBa4Nxy4XQcoqN"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "duration_ms": 172402,
+      "name": "Joyas",
+      "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
+        "name": "El Vacile Del T\u00edo",
+        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 146496,
+      "name": "El Vacile Del T\u00edo",
+      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
         "name": "Corazon en Asteroides",
         "url": "https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 238421,
       "name": "Corazon en Asteroides",
       "url": "https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "El Vacile Del T\u00edo",
-        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 146496,
-      "name": "El Vacile Del T\u00edo",
-      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1665,22 +1665,6 @@
       "url": "https://open.spotify.com/track/1jBwdd7dkhx9nVUx2gWc25"
     },
     {
-      "added_at": "2022-09-30 04:06:25",
-      "album": {
-        "name": "Valkenburg",
-        "url": "https://open.spotify.com/album/6DAcewxTM6M7oFpYpaK7h1"
-      },
-      "artists": [
-        {
-          "name": "La Villana",
-          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
-        }
-      ],
-      "duration_ms": 234338,
-      "name": "La Peregrina",
-      "url": "https://open.spotify.com/track/0cbwnTw4LllpOZC5GMpxKL"
-    },
-    {
       "added_at": "2022-01-13 00:41:05",
       "album": {
         "name": "Miel de Aguacate",
@@ -1695,6 +1679,22 @@
       "duration_ms": 237745,
       "name": "Miel de Aguacate",
       "url": "https://open.spotify.com/track/0G2lWPAEC9FQcd7qe8RLHi"
+    },
+    {
+      "added_at": "2022-09-30 04:06:25",
+      "album": {
+        "name": "Valkenburg",
+        "url": "https://open.spotify.com/album/6DAcewxTM6M7oFpYpaK7h1"
+      },
+      "artists": [
+        {
+          "name": "La Villana",
+          "url": "https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq"
+        }
+      ],
+      "duration_ms": 234338,
+      "name": "La Peregrina",
+      "url": "https://open.spotify.com/track/0cbwnTw4LllpOZC5GMpxKL"
     },
     {
       "added_at": "2022-07-15 04:48:04",

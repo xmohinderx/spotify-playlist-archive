@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-248 songs - 14 hr 2 min
+249 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Havana](https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb) | [LHITNEY](https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog) | [Havana](https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp) | 3:05 | 2021-07-16 |  |
 | [Hearts](https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno) | [Nari](https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl) | [Hearts](https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt) | 2:50 | 2021-07-16 |  |
 | [Heather \- Acoustic](https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Heather](https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6) | 3:18 | 2021-07-16 |  |
-| [Hell Or High Water](https://open.spotify.com/track/723ZdKcJ6aqovM1MqOfU2m) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Runaway \(Deluxe\)](https://open.spotify.com/album/0Pvw8yEWsf4LlI8JWMIwC6) | 3:40 | 2021-07-16 |  |
+| [Hell Or High Water](https://open.spotify.com/track/723ZdKcJ6aqovM1MqOfU2m) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Runaway \(Deluxe\)](https://open.spotify.com/album/0Pvw8yEWsf4LlI8JWMIwC6) | 3:40 | 2021-07-16 | 2023-01-22 |
 | [Here Comes Your Man](https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l) | [Zoe](https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn) | [Here Comes Your Man](https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi) | 2:24 | 2021-07-16 |  |
 | [Hermanos](https://open.spotify.com/track/7MUzu20kwvA0aY82nYVKtl) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Hermanos](https://open.spotify.com/album/3Ym20zSH4IO3ts16Fbl4iK) | 2:30 | 2021-07-16 |  |
 | [Hoy](https://open.spotify.com/track/7Kn7TYpJT0fjv5he98acyq) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Hoy](https://open.spotify.com/album/5W7UsE6bg6hx9ygRaebphc) | 2:23 | 2021-07-16 |  |
@@ -188,6 +188,7 @@
 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 | 2021-07-16 |  |
 | [Señorita](https://open.spotify.com/track/5ZgRacc91ygr4eJpNyRAjl) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Señorita](https://open.spotify.com/album/075nJ6mnxkRQBDuVH5Bk80) | 3:30 | 2021-07-16 | 2022-11-13 |
 | [Shadow Bloom](https://open.spotify.com/track/1Dkzb965hsHKP8iTDqq0AT) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX) | 3:40 | 2021-07-16 |  |
+| [Shadow Captain](https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 4:34 | 2023-01-03 |  |
 | [Shape Of My Heart \- Acoustic Version](https://open.spotify.com/track/7xAxfKxTaCQ5pz41x2zitm) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Summer Haze](https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj) | [Shape Of My Heart \(Acoustic Version\)](https://open.spotify.com/album/2zyRGzbxaf70u5c2R6vnB7) | 3:03 | 2021-07-16 |  |
 | [Sleeping Sound](https://open.spotify.com/track/2DMgHkEVC6h2SeOEQqsNBY) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Behind the Backs of Houses](https://open.spotify.com/album/0tl6ZLzmWGtaJ1aa3KAqld) | 4:41 | 2021-07-16 | 2022-07-29 |
 | [Sleepless](https://open.spotify.com/track/720kcKRMGl2rJh6jsfu8Z5) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:22 | 2021-07-16 |  |
@@ -212,7 +213,7 @@
 | [Take a Bow](https://open.spotify.com/track/36CEKFj615FPeNYyGWcmuI) | [Chimdrop](https://open.spotify.com/artist/0oXV2JEgqbIkieZf3f1GgZ) | [Take a Bow](https://open.spotify.com/album/3T1pXluHHXJluVmcHc4BWM) | 3:40 | 2021-07-16 | 2022-07-29 |
 | [Tattoo](https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP) | [Natalie 2V](https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x) | [Tattoo](https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr) | 2:56 | 2021-07-16 | 2023-01-19 |
 | [Tenderness](https://open.spotify.com/track/0l4C0NqebeMcpVJkduRuUK) | [Laura Gibson](https://open.spotify.com/artist/396L5wXlifF7nfSLhP3tTH) | [Tenderness](https://open.spotify.com/album/0QciEURoa6fZUkITRIUOQM) | 3:36 | 2021-07-16 | 2022-07-26 |
-| [Terrace Rain](https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Terrace Rain/Grid Search](https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI) | 2:56 | 2023-01-03 |  |
+| [Terrace Rain](https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Terrace Rain/Grid Search](https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI) | 2:56 | 2023-01-03 |  |
 | [The Day I Left Hanoi](https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y) | [Jokai](https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz) | [The Day I Left Hanoi](https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh) | 3:49 | 2021-07-16 | 2023-01-03 |
 | [The Day That We First Met](https://open.spotify.com/track/17ekhUz8G2Pmeupx9YYmQk) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [The Day That We First Met](https://open.spotify.com/album/6iw7Nwas2Qw3ByoVCh3g6r) | 3:40 | 2021-07-16 | 2022-07-29 |
 | [The Moons Detriment](https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [The Moons Detriment](https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m) | 2:35 | 2021-07-16 |  |

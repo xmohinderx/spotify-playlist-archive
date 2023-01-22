@@ -1,12 +1,12 @@
 {
   "description": "Trendy & Chill \ud55c\uad6d R&B. Be laid-back with groovy K-R&B. (Cover: oceanfromtheblue)",
-  "num_followers": 824333,
+  "num_followers": 824547,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDEwMTczMywwMDAwMDAwMDUwY2UwZmJiZDI5NDE0OGI0MGNmYmU2YmRlODViMWI1",
+  "snapshot_id": "MTY3NDEwMTczMywwMDAwMDAwMGVhZTkyNDJiY2Y3Y2YxNGEwMjM0NDg2MWI0ZTZjNDk2",
   "tracks": [
     {
       "added_at": "2023-01-19 04:15:33",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-01-19 04:15:33",
       "album": {
-        "name": "Birthday - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
-      },
-      "artists": [
-        {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
-    },
-    {
-      "added_at": "2023-01-19 04:15:33",
-      "album": {
         "name": "Bittersweet (feat. LeeHi)",
         "url": "https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 174773,
       "name": "Bittersweet (feat. LeeHi)",
       "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3"
+    },
+    {
+      "added_at": "2023-01-19 04:15:33",
+      "album": {
+        "name": "Birthday - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
     },
     {
       "added_at": "2023-01-19 04:15:33",
@@ -471,18 +471,22 @@
     {
       "added_at": "2023-01-19 04:15:33",
       "album": {
-        "name": "Animal Farm",
-        "url": "https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt"
+        "name": "Head In The Clouds Forever",
+        "url": "https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv"
       },
       "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
         {
           "name": "BIBI",
           "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 203945,
-      "name": "Animal Farm",
-      "url": "https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ"
+      "duration_ms": 152910,
+      "name": "Best Lover",
+      "url": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq"
     },
     {
       "added_at": "2023-01-19 04:15:33",
@@ -519,22 +523,18 @@
     {
       "added_at": "2023-01-19 04:15:33",
       "album": {
-        "name": "Head In The Clouds Forever",
-        "url": "https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv"
+        "name": "Animal Farm",
+        "url": "https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt"
       },
       "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
         {
           "name": "BIBI",
           "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 152910,
-      "name": "Best Lover",
-      "url": "https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq"
+      "duration_ms": 203945,
+      "name": "Animal Farm",
+      "url": "https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ"
     },
     {
       "added_at": "2023-01-19 04:15:33",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-01-19 04:15:33",
       "album": {
-        "name": "Forever Only - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8"
+        "name": "Twenty-Five Twenty-One OST Part 4",
+        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
       },
       "artists": [
         {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 196120,
-      "name": "Forever Only",
-      "url": "https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz"
+      "duration_ms": 204229,
+      "name": "Your Existence",
+      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
     },
     {
       "added_at": "2023-01-19 04:15:33",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-01-19 04:15:33",
       "album": {
-        "name": "Twenty-Five Twenty-One OST Part 4",
-        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
+        "name": "Forever Only - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8"
       },
       "artists": [
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
         }
       ],
-      "duration_ms": 204229,
-      "name": "Your Existence",
-      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
+      "duration_ms": 196120,
+      "name": "Forever Only",
+      "url": "https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz"
     },
     {
       "added_at": "2023-01-19 04:15:33",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-01-19 04:15:33",
       "album": {
-        "name": "B",
-        "url": "https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7"
-      },
-      "artists": [
-        {
-          "name": "BamBam",
-          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "Slow Mo",
-      "url": "https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF"
-    },
-    {
-      "added_at": "2023-01-19 04:15:33",
-      "album": {
         "name": "Bambi - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 210893,
       "name": "Cry For Love",
       "url": "https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw"
+    },
+    {
+      "added_at": "2023-01-19 04:15:33",
+      "album": {
+        "name": "B",
+        "url": "https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "Slow Mo",
+      "url": "https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF"
     },
     {
       "added_at": "2023-01-19 04:15:33",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-01-19 04:15:33",
       "album": {
-        "name": "you won't be there for me",
-        "url": "https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 182645,
-      "name": "you won't be there for me",
-      "url": "https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR"
-    },
-    {
-      "added_at": "2023-01-19 04:15:33",
-      "album": {
         "name": "Delight - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 183146,
       "name": "MOVIE",
       "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
+    },
+    {
+      "added_at": "2023-01-19 04:15:33",
+      "album": {
+        "name": "you won't be there for me",
+        "url": "https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 182645,
+      "name": "you won't be there for me",
+      "url": "https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR"
     },
     {
       "added_at": "2023-01-19 04:15:33",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-01-19 04:15:33",
       "album": {
-        "name": "Going",
-        "url": "https://open.spotify.com/album/0JXdR9FB4e1Bb6eCPcC3rd"
-      },
-      "artists": [
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        }
-      ],
-      "duration_ms": 173240,
-      "name": "Broken Love",
-      "url": "https://open.spotify.com/track/6GehOJs060WzAi78QArj7p"
-    },
-    {
-      "added_at": "2023-01-19 04:15:33",
-      "album": {
         "name": "Darling (feat. dress)",
         "url": "https://open.spotify.com/album/1nDGEzBI75Dan159KrtNAj"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 254955,
       "name": "Darling (feat. dress)",
       "url": "https://open.spotify.com/track/0vVVMt1bmd7K87IstridSS"
+    },
+    {
+      "added_at": "2023-01-19 04:15:33",
+      "album": {
+        "name": "Going",
+        "url": "https://open.spotify.com/album/0JXdR9FB4e1Bb6eCPcC3rd"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "duration_ms": 173240,
+      "name": "Broken Love",
+      "url": "https://open.spotify.com/track/6GehOJs060WzAi78QArj7p"
     },
     {
       "added_at": "2023-01-19 04:15:33",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-01-19 04:15:33",
       "album": {
-        "name": "typical story",
-        "url": "https://open.spotify.com/album/09itvchYjsX9XfvCJ7ihyU"
-      },
-      "artists": [
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 126614,
-      "name": "typical story",
-      "url": "https://open.spotify.com/track/3fyGfzTIepF4iz3hgVqgGO"
-    },
-    {
-      "added_at": "2023-01-19 04:15:33",
-      "album": {
         "name": "WHEE",
         "url": "https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 151211,
       "name": "camellia",
       "url": "https://open.spotify.com/track/7kpe2K0hdSssLj4G4YjxdU"
+    },
+    {
+      "added_at": "2023-01-19 04:15:33",
+      "album": {
+        "name": "typical story",
+        "url": "https://open.spotify.com/album/09itvchYjsX9XfvCJ7ihyU"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 126614,
+      "name": "typical story",
+      "url": "https://open.spotify.com/track/3fyGfzTIepF4iz3hgVqgGO"
     },
     {
       "added_at": "2023-01-19 04:15:33",

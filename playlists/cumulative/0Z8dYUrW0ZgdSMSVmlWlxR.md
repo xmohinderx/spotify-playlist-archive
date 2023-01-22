@@ -4,7 +4,7 @@
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-286 songs - 13 hr 51 min
+287 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Rising Sun](https://open.spotify.com/track/5C1FYwcy85HmSOsHdxjVhL) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k) | [Rising Sun](https://open.spotify.com/album/71gnoKRnDB33CACSjIBzT8) | 3:19 | 2022-02-24 | 2023-01-17 |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2022-02-02 |  |
 | [Samurai](https://open.spotify.com/track/1uIybDOAoTSiTquV3aQjwY) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi), [Big Boss Mulaa](https://open.spotify.com/artist/1psB4RmBYaifiXZUyW2Tcv) | [Tales of a Sad Boy](https://open.spotify.com/album/2nLNaNERF12jqdaUX73FeQ) | 3:13 | 2023-01-14 |  |
-| [Sanemi Shinazugawa](https://open.spotify.com/track/329pprHVEBKU706gwR1Nmb) | [KinovariSquad](https://open.spotify.com/artist/2uW8Pzer75F784OcilgGIx) | [Hashira](https://open.spotify.com/album/5iy0wwlV67LhWfepTvOzvz) | 2:09 | 2022-08-30 |  |
+| [Sanemi Shinazugawa](https://open.spotify.com/track/329pprHVEBKU706gwR1Nmb) | [KinovariSquad](https://open.spotify.com/artist/2uW8Pzer75F784OcilgGIx) | [Hashira](https://open.spotify.com/album/5iy0wwlV67LhWfepTvOzvz) | 2:09 | 2022-08-30 | 2023-01-22 |
 | [sasuke uchiha.exe](https://open.spotify.com/track/0tMZiTEmeHj5uaTVEQwW9b) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq) | [sasuke uchiha.exe](https://open.spotify.com/album/2P8iJlrnyiHgn8CxbTKgkm) | 2:05 | 2022-08-20 |  |
 | [Secret Of Life](https://open.spotify.com/track/2xWkq8lw57YIPHb55jpPZs) | [Araysen](https://open.spotify.com/artist/35C5llip6ED8ovG6EutX6d), [Chavetas](https://open.spotify.com/artist/4DA6LpZ4yL3Z9TR8wNi5qj), [Scantraxx](https://open.spotify.com/artist/52lKMhQlx5f7tM11qGkhKs) | [Secret Of Life](https://open.spotify.com/album/0csrYOkCDK4q2nWPrVtHlC) | 3:04 | 2022-02-21 |  |
 | [Shabaka](https://open.spotify.com/track/7aRrutFDl2GoKfza5lKdWn) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c), [Sickddellz](https://open.spotify.com/artist/7wbCwmaAe2U6NoBrWBfeTz) | [Shabaka](https://open.spotify.com/album/4XXN6IT7ZXInO3jA3nFhSL) | 3:33 | 2022-04-06 |  |
@@ -229,6 +229,7 @@
 | [TAKE IT ALL](https://open.spotify.com/track/56STfx1pltVL8E0RfCQXOX) | [CURSEDEVIL](https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt), [NORTMIRAGE](https://open.spotify.com/artist/6UKFiJTIiMnkfIlPJ5XOfp) | [TAKE IT ALL](https://open.spotify.com/album/0IbRc1zUJbd27Vqq0kKxui) | 3:17 | 2022-07-07 |  |
 | [Take Me Home](https://open.spotify.com/track/0KFK1UkZkYO5uv9MmAN4t1) | [Maikubi](https://open.spotify.com/artist/3UZVRPW86Nc2DemMsNtESB), [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [Take Me Home](https://open.spotify.com/album/74hmoEvrQchYpQFdmhmXcE) | 2:12 | 2023-01-15 |  |
 | [TECHNO KILLA](https://open.spotify.com/track/5kr9HU28PSpkmQZ6z9Z1Mx) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [TECHNO KILLA](https://open.spotify.com/album/5SLohcmYkWYidTWBEY2XmW) | 2:10 | 2022-07-01 | 2023-01-16 |
+| [Tengen Uzui](https://open.spotify.com/track/7AoXO6wmtCIJjpchJPIr5c) | [KinovariSquad](https://open.spotify.com/artist/2uW8Pzer75F784OcilgGIx), [CASH GROWE](https://open.spotify.com/artist/7eejBhyXLSFgUMq7DFQO3V) | [Hashira](https://open.spotify.com/album/5iy0wwlV67LhWfepTvOzvz) | 2:12 | 2023-01-21 |  |
 | [The Abyss \(feat\. Ryo Kinoshita\)](https://open.spotify.com/track/3rKp6OHE3anWeC6zSaT205) | [Esprit D'Air](https://open.spotify.com/artist/41R42bjR4KaZCo7T4NvDLD), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Oceans](https://open.spotify.com/album/066RpUMirkDRbBWvcyB3QT) | 3:22 | 2022-09-27 |  |
 | [The After](https://open.spotify.com/track/0GsSqjirRBquQP6q36HchK) | [rider](https://open.spotify.com/artist/5yupl8lnBJSsPJ9Jmujexl) | [Never Forget Vacation 5](https://open.spotify.com/album/6HgCusDZYtsY9ubOGAl3a3) | 3:58 | 2022-02-24 |  |
 | [The Other Side of the Sea](https://open.spotify.com/track/6lpuacrTTu38mGNdjOfqmI) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4) | [Attack on Titan The Final Season Original Soundtrack](https://open.spotify.com/album/6hpEJjz25G99vP0DgMgqqi) | 4:57 | 2022-03-26 |  |

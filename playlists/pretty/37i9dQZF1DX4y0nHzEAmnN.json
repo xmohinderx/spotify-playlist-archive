@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1281,
+  "num_followers": 1284,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMDFlZmRjNDNmZGRkMTc0NWRiMDIyOGEyNTU1M2UwN2E5",
+  "snapshot_id": "MTY0NzI3Njg2OSwwMDAwMDAwMGUyNjliYjI5NjhiZjg4NWU3YjFkMDJjMDQ3MDQ4Zjky",
   "tracks": [
     {
       "added_at": "2020-04-22 19:35:42",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Salta Sin Parar",
-        "url": "https://open.spotify.com/album/6ZHDbA5xHesrQC8IvKQhrg"
-      },
-      "artists": [
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "No Me Quiero Ba\u00f1ar",
-      "url": "https://open.spotify.com/track/1q1kUQzASshxcEb5jcMWeO"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "20 \u00c9xitos 20 Aniversario",
         "url": "https://open.spotify.com/album/5yMrbHsMkW16azJB96x3tB"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 67120,
       "name": "Tres Pecesitos",
       "url": "https://open.spotify.com/track/7depgXySK1EO7lIjnbFPav"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Salta Sin Parar",
+        "url": "https://open.spotify.com/album/6ZHDbA5xHesrQC8IvKQhrg"
+      },
+      "artists": [
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "No Me Quiero Ba\u00f1ar",
+      "url": "https://open.spotify.com/track/1q1kUQzASshxcEb5jcMWeO"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Las 4 Estaciones, vol. 11",
-        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 58644,
-      "name": "Sonidos al Comer",
-      "url": "https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh"
-    },
-    {
-      "added_at": "2020-04-22 19:35:42",
-      "album": {
         "name": "Adelante",
         "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2020-04-22 19:35:42",
       "album": {
-        "name": "Canciones Para Chicos",
-        "url": "https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn"
+        "name": "Las 4 Estaciones, vol. 11",
+        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Elena Walsh",
-          "url": "https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk"
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
         }
       ],
-      "duration_ms": 110960,
-      "name": "Canci\u00f3n De Tomar El T\u00e9",
-      "url": "https://open.spotify.com/track/19VEw5WbEyxIkmyZWgen9x"
+      "duration_ms": 58644,
+      "name": "Sonidos al Comer",
+      "url": "https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh"
     },
     {
       "added_at": "2020-04-22 19:35:42",
@@ -723,6 +707,22 @@
       "duration_ms": 112400,
       "name": "Ba\u00f1o de Burbujas",
       "url": "https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW"
+    },
+    {
+      "added_at": "2020-04-22 19:35:42",
+      "album": {
+        "name": "Canciones Para Chicos",
+        "url": "https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Elena Walsh",
+          "url": "https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk"
+        }
+      ],
+      "duration_ms": 110960,
+      "name": "Canci\u00f3n De Tomar El T\u00e9",
+      "url": "https://open.spotify.com/track/19VEw5WbEyxIkmyZWgen9x"
     },
     {
       "added_at": "2020-04-22 19:35:42",

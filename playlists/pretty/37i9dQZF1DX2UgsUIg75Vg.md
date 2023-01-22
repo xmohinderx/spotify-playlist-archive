@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,300,693 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,301,002 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 9 | [Super](https://open.spotify.com/track/0uy7gpsoHJvXBU7EI1c80W) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Super](https://open.spotify.com/album/1hmpZwKow6UgeZalIw7qq6) | 3:01 |
 | 10 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 11 | [Still Alone](https://open.spotify.com/track/5Zq85MoLZHIKdJVS3xSqkb) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Still Alone](https://open.spotify.com/album/7bGOIEzcoVe35mCvlGu52h) | 4:24 |
-| 12 | [Endless No More](https://open.spotify.com/track/1lOtWsnPUdnXn2bcplT02z) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No More](https://open.spotify.com/album/0WScYTZpMayaB5X0VjXtdX) | 3:12 |
+| 12 | [Endless No Mores](https://open.spotify.com/track/1lOtWsnPUdnXn2bcplT02z) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores](https://open.spotify.com/album/0WScYTZpMayaB5X0VjXtdX) | 3:12 |
 | 13 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 |
 | 14 | [Nowhere](https://open.spotify.com/track/6yAnK8YECaJVnFRydwcG5s) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET) | [Nowhere](https://open.spotify.com/album/0z2WCYayeU6t4gYMnaHcVZ) | 3:00 |
 | 15 | [Layin Next to Me](https://open.spotify.com/track/11BHnIy9pbdihg8PeqiCgt) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Layin Next to Me](https://open.spotify.com/album/1jhFza8pUS6acLiZXNYdJx) | 3:37 |

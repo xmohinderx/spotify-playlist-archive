@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
-  "num_followers": 36006,
+  "num_followers": 36031,
   "original_name": "Sopa y Seco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzA1MzkwNywwMDAwMDAwMGUwNjcwYWRiOGQ5ZGQ2MGM0OWY0YTdmMTkwYzllMmM1",
+  "snapshot_id": "MTY0MzA1MzkwNywwMDAwMDAwMGRhZWIxMGY5N2RhNGM4ZTVjNTdiZjA4YmZkNjhmODAz",
   "tracks": [
     {
       "added_at": "2022-01-24 19:51:47",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-01-24 19:51:47",
       "album": {
-        "name": "Exito",
-        "url": "https://open.spotify.com/album/47KNauaaXrTkZ6GcR1ggRF"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 213865,
-      "name": "Golpe Con Golpe",
-      "url": "https://open.spotify.com/track/0uy25GJVvIL2qhCYoR676k"
-    },
-    {
-      "added_at": "2022-01-24 19:51:47",
-      "album": {
         "name": "The Reventon: 30 Pegaditas",
         "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
       },
@@ -719,22 +703,18 @@
     {
       "added_at": "2022-01-24 19:51:47",
       "album": {
-        "name": "La Hora de la Verdad",
-        "url": "https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA"
+        "name": "Exito",
+        "url": "https://open.spotify.com/album/47KNauaaXrTkZ6GcR1ggRF"
       },
       "artists": [
         {
-          "name": "Kaleth Morales",
-          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
-        },
-        {
-          "name": "Andres Herrera",
-          "url": "https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU"
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
         }
       ],
-      "duration_ms": 376533,
-      "name": "Vivo en el limbo",
-      "url": "https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz"
+      "duration_ms": 213865,
+      "name": "Golpe Con Golpe",
+      "url": "https://open.spotify.com/track/0uy25GJVvIL2qhCYoR676k"
     },
     {
       "added_at": "2022-01-24 19:51:47",
@@ -751,6 +731,26 @@
       "duration_ms": 211000,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
+    },
+    {
+      "added_at": "2022-01-24 19:51:47",
+      "album": {
+        "name": "La Hora de la Verdad",
+        "url": "https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA"
+      },
+      "artists": [
+        {
+          "name": "Kaleth Morales",
+          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
+        },
+        {
+          "name": "Andres Herrera",
+          "url": "https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU"
+        }
+      ],
+      "duration_ms": 376533,
+      "name": "Vivo en el limbo",
+      "url": "https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz"
     },
     {
       "added_at": "2022-01-24 19:51:47",

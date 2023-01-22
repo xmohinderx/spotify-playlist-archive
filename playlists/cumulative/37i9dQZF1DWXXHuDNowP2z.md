@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-231 songs - 13 hr 10 min
+232 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Gotas de Agua Dulce](https://open.spotify.com/track/1cbWi2Lgu18XkyAnMed4oY) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Gotas de Agua Dulce](https://open.spotify.com/album/0372SHDiyVvWYrx3rOv0tt) | 2:55 | 2022-12-09 |  |
 | [Hola Que Tal](https://open.spotify.com/track/7AwSauhkpTlnDh9Ap9ESKl) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives, Vol\. 1](https://open.spotify.com/album/4TZDqkxobju0CAUYy3NbuT) | 3:12 | 2022-04-08 |  |
 | [Huapango Amor Ranchero](https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND) | 3:19 | 2022-04-27 | 2023-01-21 |
+| [Huapango Amor Ranchero](https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl) | 3:19 | 2022-04-27 |  |
 | [Huapango el Pluma Blanca](https://open.spotify.com/track/3SZ0MQwKjnQFgZqiucOqap) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Durmiendo en el Lugar Equivocado](https://open.spotify.com/album/7Jlm01Xrt1D0d1mzOJmpwj) | 2:52 | 2022-04-08 | 2022-07-26 |
 | [Huapango el Pluma Blanca](https://open.spotify.com/track/5Oxd5qRiNAUFhXHHVrf0ly) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Durmiendo en el Lugar Equivocado](https://open.spotify.com/album/50F2Qk3NJDPsqXGP4SL3xQ) | 2:52 | 2022-04-08 | 2022-12-10 |
 | [Huapango el Tenebroso](https://open.spotify.com/track/6mraZk1UIOzbj8a2h3Nkrd) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/4PDZDbLCOpmhn7n47Qulko) | 4:48 | 2022-04-08 | 2022-07-29 |
@@ -223,7 +224,7 @@
 | [Te Vez Buena](https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh) | 4:12 | 2022-04-08 |  |
 | [Todas Son Bonitas \( En Vivo \)](https://open.spotify.com/track/224vKp4BSlWWcO49BQsFLV) | [Grupo Zenzio](https://open.spotify.com/artist/0phhTEgdg0vxSb5G3dPVsC), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [En Vivo Desde El Valle](https://open.spotify.com/album/4uyoaM5Cw7jerrCZNzFAs9) | 3:17 | 2022-08-01 |  |
 | [Tongoneaito](https://open.spotify.com/track/13nitMCnQQCcpvcI03KQrE) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:44 | 2022-04-08 |  |
-| [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 | 2022-04-08 |  |
+| [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 | 2022-04-08 | 2023-01-22 |
 | [Un Cariño Como Tu \- En Vivo](https://open.spotify.com/track/0UGhhvOcXBlHMXftIkT8X2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Martin Ramos](https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:45 | 2022-12-16 |  |
 | [Un Cariño Como Tú](https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño, Vol\. 2](https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R) | 2:47 | 2022-04-08 |  |
 | [Vanidosa](https://open.spotify.com/track/1BMYzxO9iuPGmi5jeR6HS3) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Cuarentena](https://open.spotify.com/album/2LT6UCYbbOx7KbXgxG73rV) | 3:43 | 2022-04-08 |  |

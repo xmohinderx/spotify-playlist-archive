@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sacky, Rose Villain, Geolier, Guè, Speranza e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,560 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,594 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 12 | [IO & TE](https://open.spotify.com/track/7eQAIZegKgrQwLV19233C2) | [Voga](https://open.spotify.com/artist/6adzJ1E1UUrcSid2CsDZ6i) | [IO & TE](https://open.spotify.com/album/4algHWRy4jfllA3wVikzjR) | 3:32 |
 | 13 | [Radici](https://open.spotify.com/track/2DO1FtemtQJHMeIF98Zfi8) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Xela Baby](https://open.spotify.com/artist/2lSvy0qRlHqyWxkHmflU7M) | [Radici](https://open.spotify.com/album/2n5GxzWWDD1WWysgJCKIxr) | 3:32 |
 | 14 | [Girasoli](https://open.spotify.com/track/0R3mKyXfjBEhuDd4kve9XY) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Girasoli](https://open.spotify.com/album/0MTzddCkOU8eNKBZ3DOOg9) | 2:43 |
-| 15 | [LA STREET 2](https://open.spotify.com/track/0p568GV6tejNE5EDJKbtgg) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN), [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Dadinho](https://open.spotify.com/artist/0zw74GbIgk0thLlMGeQV2H), [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Dika](https://open.spotify.com/artist/1rBnd8KxDndiiiIyjOsFtw), [Demo](https://open.spotify.com/artist/0c9qC8OVZhP8Puh3TwaNWV) | [LA STREET 2](https://open.spotify.com/album/4oONBmO9AX2nGNqe9GMRU5) | 4:24 |
+| 15 | [LA STREET 2](https://open.spotify.com/track/0p568GV6tejNE5EDJKbtgg) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN), [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1), [Dadinho](https://open.spotify.com/artist/0zw74GbIgk0thLlMGeQV2H), [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Dika](https://open.spotify.com/artist/1rBnd8KxDndiiiIyjOsFtw), [Demo](https://open.spotify.com/artist/0c9qC8OVZhP8Puh3TwaNWV) | [LA STREET 2](https://open.spotify.com/album/4oONBmO9AX2nGNqe9GMRU5) | 4:24 |
 | 16 | [Globo](https://open.spotify.com/track/00MY44klAVxIdtmUZrlwK7) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Globo](https://open.spotify.com/album/7muqqx18joxBwnxAwHthXF) | 2:58 |
 | 17 | [Underrated](https://open.spotify.com/track/2Pt94XBTq6m3Je95DBaJZu) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [Underrated](https://open.spotify.com/album/3eQ3j9NdRjAr8yeZbLAbLb) | 3:05 |
 | 18 | [DON'T LIE](https://open.spotify.com/track/4SxUEEjbrozKRKVwUAJAHY) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2) | [DON'T LIE](https://open.spotify.com/album/3LBrDHJJRGWY4Ik4aJOoBk) | 3:29 |

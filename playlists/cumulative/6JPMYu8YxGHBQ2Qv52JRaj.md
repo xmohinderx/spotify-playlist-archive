@@ -4,7 +4,7 @@
 
 > Updated at least once a month..\. cover image \- https:&\#x2F;&\#x2F;bit.ly&\#x2F;3uiJD6B
 
-176 songs - 10 hr 17 min
+179 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Disco Tool \(OOTORO Remix\)](https://open.spotify.com/track/3PRDDXSbPUZ1qTa0JkXvgt) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [Disco Tool \(Remixes\)](https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG) | 3:08 | 2022-07-19 | 2022-07-30 |
 | [Dizzy Riddim](https://open.spotify.com/track/3lgypgTV7ZhfPAlokdWUJp) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Top Boy / Dizzy Riddim](https://open.spotify.com/album/6AfugETSwLMYHA7v4gr2hY) | 3:39 | 2022-12-25 | 2023-01-20 |
 | [DNA \- Radio Edit](https://open.spotify.com/track/0Mi76WDwxBL0IoHvkFovRP) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Stereohype Rising, Vol\. 1](https://open.spotify.com/album/2Sed8MSB9soQRUhIcLWhk2) | 2:58 | 2023-01-07 | 2023-01-20 |
+| [Don't Wanna Be](https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Don't Wanna Be](https://open.spotify.com/album/6BFJ3bHMNMVxLxYmvi3mwh) | 3:23 | 2023-01-21 |  |
 | [Doors](https://open.spotify.com/track/6NUtbDKNmRZW275v3GNxnK) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Doors](https://open.spotify.com/album/33mTKfAbfNJhM40DpIAS3p) | 3:04 | 2023-01-19 |  |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-07-29 | 2022-08-13 |
 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 | 2023-01-19 |  |
@@ -60,6 +61,7 @@
 | [Fool](https://open.spotify.com/track/5DPkzkBSFFMY7u0QKSMIBC) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Fool](https://open.spotify.com/album/7srxSNnTWeirw0haBqUQey) | 3:15 | 2022-07-29 | 2022-08-13 |
 | [Furious!](https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Hooders](https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS) | [Furious!](https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49) | 3:18 | 2022-07-19 | 2022-07-30 |
 | [Fuse](https://open.spotify.com/track/5OaizvsSInYguBNQCBJMRe) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK), [Hooders](https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS) | [Fuse](https://open.spotify.com/album/2KPBaj8lPVtLh7Hq2xFvok) | 4:34 | 2022-10-21 | 2022-11-25 |
+| [Fusion](https://open.spotify.com/track/3XwGxyHEJcv7BO1lOvgjU7) | [Koos](https://open.spotify.com/artist/3A8Fbum6y0H2ijJSRaDNtB) | [Fusion](https://open.spotify.com/album/6GMmIPh4zXXtMazClwjFlS) | 3:33 | 2023-01-21 |  |
 | [G Spot](https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Algo](https://open.spotify.com/artist/3b7KMI96oGOeQEoXhe4iBK) | [Licked](https://open.spotify.com/album/3I549AvPzDfWUItpvHSid4) | 5:18 | 2022-08-26 | 2022-09-20 |
 | [Gimme Some Keys \- Cave Studio Remix](https://open.spotify.com/track/4kFt0wCEMo1eYKltXr9jIt) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Gimme Some Keys \(Remixes\)](https://open.spotify.com/album/0DCYwEDewo2R9GbzwueiN6) | 2:53 | 2022-12-25 | 2023-01-20 |
 | [go \- goddard\. Remix](https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [go \(goddard\. Remix\)](https://open.spotify.com/album/7K8W66c9ZMtVVYDLGOlffv) | 3:12 | 2022-08-12 | 2022-08-27 |
@@ -88,6 +90,7 @@
 | [La Pasion](https://open.spotify.com/track/5xRKvc3MJfOYh9M1E9Fnid) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [La Pasion](https://open.spotify.com/album/7t00C3OJQH7o8H4LOzseCb) | 3:07 | 2022-07-01 | 2022-07-20 |
 | [Lay It Down \(feat\. Bricc Baby\)](https://open.spotify.com/track/5brF58DyR90gbHuMJqD5of) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC), [Bricc Baby](https://open.spotify.com/artist/6WtTLIl6HLw0JI15Z3Ia8q) | [Lay It Down \(feat\. Bricc Baby\)](https://open.spotify.com/album/2YMkA9lt4ehtS8BeoZ6ClX) | 3:35 | 2022-10-02 | 2022-10-22 |
 | [Leave Me Like This](https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bobby Raps](https://open.spotify.com/artist/22g86cix6LCeLMbu3m91Wo) | [Leave Me Like This](https://open.spotify.com/album/2U5XHV8AMBojtjxB6AWP6U) | 3:08 | 2023-01-19 |  |
+| [Let Go](https://open.spotify.com/track/6TtKgnMlm2HhDPT1oHglfW) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Let Go](https://open.spotify.com/album/4fMO4OlnCis4oiu2UxADOI) | 3:33 | 2023-01-21 |  |
 | [Let It Go](https://open.spotify.com/track/66jyxeUNCimmukQVOwAS4m) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Illegal Mixtape Vol\. 3](https://open.spotify.com/album/5z3RaPxMpFo2mEc4dTpQEV) | 4:05 | 2022-09-18 | 2022-10-03 |
 | [Let Me](https://open.spotify.com/track/2QWF5091N3go4P54nO1faZ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Let Me](https://open.spotify.com/album/0CgiHbDExqV0Gk7YZzRCm3) | 2:58 | 2022-08-26 | 2023-01-20 |
 | [Let Me Know](https://open.spotify.com/track/40AcnUP7vyh0cz1ygaf35b) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Let Me Know](https://open.spotify.com/album/47aaOLBGVw1eaI9lHzSo35) | 3:39 | 2023-01-19 |  |

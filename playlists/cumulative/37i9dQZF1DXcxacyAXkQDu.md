@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-835 songs - 2 day 1 hr 38 min
+836 songs - 2 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [I Don't Think I'm Doing This Right](https://open.spotify.com/track/6VsuywIFkNthRBk6fqDexy) | [TY Falcoa](https://open.spotify.com/artist/6SXpF6cSSqv7pNmDcoFaBY), [Nikita Afonso](https://open.spotify.com/artist/2C8TRvpR3834esUbCEHkqe) | [I Don't Think I'm Doing This Right](https://open.spotify.com/album/30BgnnfGHvztcP4jjEpumT) | 2:54 | 2022-01-07 | 2022-02-03 |
 | [I Don't Wanna Love You Anymore](https://open.spotify.com/track/1NEV2pt7AJSHWadhfCZ48t) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Thru These Tears / I Don’t Wanna Love You Anymore](https://open.spotify.com/album/00lk0dGMhyu40RBQGKiTr0) | 3:21 | 2022-03-24 | 2022-04-19 |
 | [I Don't Wanna Love You Anymore](https://open.spotify.com/track/7ArrTJ1LwcGAlEO65LUQ7i) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:21 | 2022-07-08 |  |
-| [I Don't Want To Know](https://open.spotify.com/track/75H1nPsyaOk8gToEtUk8gt) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Raw](https://open.spotify.com/album/6lM1n2S9ywnvyKZpLeXVPP) | 3:05 | 2022-01-05 |  |
+| [I Don't Want To Know](https://open.spotify.com/track/75H1nPsyaOk8gToEtUk8gt) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Raw](https://open.spotify.com/album/6lM1n2S9ywnvyKZpLeXVPP) | 3:05 | 2022-01-05 | 2023-01-22 |
 | [I Found You / Nilda’s Story \(with Calvin Harris & Miguel\)](https://open.spotify.com/track/3eVuglKxN2sjoIGHAsFAge) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [I Found You / Nilda’s Story \(with Calvin Harris & Miguel\)](https://open.spotify.com/album/1LQCzEUoXIGLH9qLfsV7Ur) | 3:11 | 2022-03-24 | 2022-03-31 |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-07-08 |  |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/1HNywa8Bk0TmzRwQrzhtPo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [I Guess I Just Feel Like](https://open.spotify.com/album/35Kv9CZURVdrejZ5jsL8Xn) | 4:46 | 2021-12-21 | 2022-07-29 |
@@ -485,6 +485,7 @@
 | [Needles & Pins](https://open.spotify.com/track/1mdTP7WLslCd9TuQMeK9lo) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Midnight Waves](https://open.spotify.com/album/6ZpIBoOCALDVIzJFFASZLP) | 3:50 | 2022-10-07 | 2023-01-17 |
 | [Needles & Pins](https://open.spotify.com/track/6YsIOlnBb3JnF68QWAhWhe) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Midnight Waves](https://open.spotify.com/album/1enXA6aO8SpkOjkSEsTyeP) | 3:50 | 2022-02-24 | 2022-07-28 |
 | [Nervous](https://open.spotify.com/track/1bpAGufvAgqEIob4V1k7mP) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Bitter Pill \(Deluxe\)](https://open.spotify.com/album/5R6OQpNKov9PdX3dxbpxtp) | 3:36 | 2021-12-21 | 2022-07-29 |
+| [Never Change](https://open.spotify.com/track/4DBYy2nBww42YBH13NRquK) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 3:20 | 2023-01-22 |  |
 | [Never Knew](https://open.spotify.com/track/1T0g6ac7Q28IfWAeWGN7I4) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [Mexico](https://open.spotify.com/album/7heBUz2kwgoidiFcaplSqF) | 3:40 | 2021-12-21 | 2022-11-13 |
 | [Never Not](https://open.spotify.com/track/4fFfyouye6vrX9o9z4PVMu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:28 | 2022-05-13 | 2022-05-15 |
 | [New Eyes](https://open.spotify.com/track/7cyjVwpuFhjY2ZN3ckfo2C) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:35 | 2022-03-24 | 2022-11-13 |

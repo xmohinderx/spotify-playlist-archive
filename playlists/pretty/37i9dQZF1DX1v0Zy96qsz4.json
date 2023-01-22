@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/skylardigginssmith/\">Skylar Diggins-Smith</a>",
-  "num_followers": 2438,
+  "num_followers": 2456,
   "original_name": "Skylar Diggins' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY3NjMxOSwwMDAwMDAwMGQ5NDQ0ZjZhMWU1MThkNGRmYWIyMmZiYjBjMmJjMjcw",
+  "snapshot_id": "MTY2NDY3NjMxOSwwMDAwMDAwMDViZDg2NzA3MTFhNmFkNmZkMmM3YjBjMGExMjhhMTlh",
   "tracks": [
     {
       "added_at": "2022-10-02 02:05:19",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
-        "name": "Demon High",
-        "url": "https://open.spotify.com/album/5DGjYVxEuz3T1xqzqK9gTq"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 197417,
-      "name": "Demon High",
-      "url": "https://open.spotify.com/track/5MAnH0CFbD13INQBsnKI9y"
-    },
-    {
-      "added_at": "2022-10-02 02:05:19",
-      "album": {
         "name": "Based On A T.R.U. Story (Deluxe)",
         "url": "https://open.spotify.com/album/1wBFRaacNYmqfkidUZ0NtM"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 207040,
       "name": "I'm Different",
       "url": "https://open.spotify.com/track/6J5sxraPPZ4b0CVOGAgpXj"
+    },
+    {
+      "added_at": "2022-10-02 02:05:19",
+      "album": {
+        "name": "Demon High",
+        "url": "https://open.spotify.com/album/5DGjYVxEuz3T1xqzqK9gTq"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 197417,
+      "name": "Demon High",
+      "url": "https://open.spotify.com/track/5MAnH0CFbD13INQBsnKI9y"
     },
     {
       "added_at": "2022-10-02 02:05:19",
@@ -767,26 +767,6 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 275162,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
-    },
-    {
-      "added_at": "2022-10-02 02:05:19",
-      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -815,18 +795,22 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
-        "name": "Best of Old School Hip-Hop, Vol. 1",
-        "url": "https://open.spotify.com/album/1BfzKtCK9WVOl1Isxl4DL9"
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 263095,
-      "name": "Who Am I (What's My Name)",
-      "url": "https://open.spotify.com/track/1csGNtAIZYcLxhA68Y5jTc"
+      "duration_ms": 275162,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/7iNGwN4yuxATUtv0qYXJ8Q"
     },
     {
       "added_at": "2022-10-02 02:05:19",
@@ -843,6 +827,22 @@
       "duration_ms": 232000,
       "name": "Ting-A-Ling",
       "url": "https://open.spotify.com/track/7hqAdo1Wig886zA2jPDupG"
+    },
+    {
+      "added_at": "2022-10-02 02:05:19",
+      "album": {
+        "name": "Best of Old School Hip-Hop, Vol. 1",
+        "url": "https://open.spotify.com/album/1BfzKtCK9WVOl1Isxl4DL9"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 263095,
+      "name": "Who Am I (What's My Name)",
+      "url": "https://open.spotify.com/track/1csGNtAIZYcLxhA68Y5jTc"
     },
     {
       "added_at": "2022-10-02 02:05:19",

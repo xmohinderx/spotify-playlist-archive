@@ -1,15 +1,15 @@
 {
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
-  "num_followers": 21475,
+  "num_followers": 21556,
   "original_name": "S\u00f3lo Para Amarte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4ODA0NywwMDAwMDAwMGNjMjBiNjNmYjUzNjA1YmMwY2EyMzJhMWQ5ZDJmZDk1",
+  "snapshot_id": "MTY3NDE4ODA0NywwMDAwMDAwMDkxOTBkODBjZDY3YWJlMDk3OTU2MmI0MTQ0YTUyZmIw",
   "tracks": [
     {
-      "added_at": "2023-01-21 01:04:54",
+      "added_at": "2023-01-22 01:40:22",
       "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
-      "added_at": "2023-01-21 01:04:54",
+      "added_at": "2023-01-22 01:40:22",
       "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-01-09 05:58:04",
       "album": {
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 177249,
+      "name": "Como Que Me Enamoro - En Vivo",
+      "url": "https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn"
+    },
+    {
+      "added_at": "2023-01-09 05:58:04",
+      "album": {
         "name": "Que Bendici\u00f3n",
         "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 278073,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
-    },
-    {
-      "added_at": "2023-01-09 05:58:04",
-      "album": {
-        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177249,
-      "name": "Como Que Me Enamoro - En Vivo",
-      "url": "https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn"
     },
     {
       "added_at": "2023-01-09 05:58:04",
@@ -471,6 +471,26 @@
     {
       "added_at": "2023-01-09 05:58:04",
       "album": {
+        "name": "Summer School Mixtape, Vol. 1",
+        "url": "https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 194002,
+      "name": "Mi Vicio",
+      "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
+    },
+    {
+      "added_at": "2023-01-09 05:58:04",
+      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
@@ -535,26 +555,6 @@
     {
       "added_at": "2023-01-09 05:58:04",
       "album": {
-        "name": "Summer School Mixtape, Vol. 1",
-        "url": "https://open.spotify.com/album/46QtDfvUWf9AZqaoUQA9GU"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 194002,
-      "name": "Mi Vicio",
-      "url": "https://open.spotify.com/track/6sGYPF1Ud3pYSyh28XOUp2"
-    },
-    {
-      "added_at": "2023-01-09 05:58:04",
-      "album": {
         "name": "MMXX's",
         "url": "https://open.spotify.com/album/7GukTesEXhrBTQNjorHbKv"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 179583,
       "name": "MMXX's",
       "url": "https://open.spotify.com/track/30CpVIIuDEXt56rm6WTkM6"
+    },
+    {
+      "added_at": "2023-01-09 05:58:04",
+      "album": {
+        "name": "Vibras de Noche",
+        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 270668,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"
     },
     {
       "added_at": "2023-01-09 05:58:04",
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 270668,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ"
+      "duration_ms": 245911,
+      "name": "Dame Tu Calor",
+      "url": "https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz"
     },
     {
       "added_at": "2023-01-09 05:58:04",
@@ -783,22 +799,6 @@
       "duration_ms": 145277,
       "name": "Jalo",
       "url": "https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz"
-    },
-    {
-      "added_at": "2023-01-09 05:58:04",
-      "album": {
-        "name": "Vibras de Noche",
-        "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 245911,
-      "name": "Dame Tu Calor",
-      "url": "https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz"
     },
     {
       "added_at": "2023-01-09 05:58:04",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-01-09 05:58:04",
       "album": {
+        "name": "Que Bonito",
+        "url": "https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 160409,
+      "name": "Que Bonito",
+      "url": "https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff"
+    },
+    {
+      "added_at": "2023-01-09 05:58:04",
+      "album": {
         "name": "Adicto",
         "url": "https://open.spotify.com/album/2NUfhyZ1jMj2YUAFo753c4"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2023-01-09 05:58:04",
       "album": {
-        "name": "Que Bonito",
-        "url": "https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr"
+        "name": "PDE",
+        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
       },
       "artists": [
         {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 160409,
-      "name": "Que Bonito",
-      "url": "https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff"
+      "duration_ms": 209583,
+      "name": "Quiero Ser",
+      "url": "https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V"
     },
     {
       "added_at": "2023-01-09 05:58:04",
@@ -1127,22 +1143,6 @@
       "duration_ms": 201001,
       "name": "Un Loco Enamorado",
       "url": "https://open.spotify.com/track/7xSnRDIfclnEVMcz6KGuo4"
-    },
-    {
-      "added_at": "2023-01-09 05:58:04",
-      "album": {
-        "name": "PDE",
-        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 209583,
-      "name": "Quiero Ser",
-      "url": "https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V"
     },
     {
       "added_at": "2023-01-09 05:58:04",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-01-09 05:58:04",
       "album": {
+        "name": "Soy El Nata",
+        "url": "https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 179899,
+      "name": "Noches De Desvelo",
+      "url": "https://open.spotify.com/track/7aYP7DH23pb0cAZBQQK6uz"
+    },
+    {
+      "added_at": "2023-01-09 05:58:04",
+      "album": {
         "name": "La Nueva R",
         "url": "https://open.spotify.com/album/6ZZzbA0U5oUaLbSC3Xl0H6"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 130909,
       "name": "Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/0wi7Cq9aRlNz8kaHd4UD9u"
-    },
-    {
-      "added_at": "2023-01-09 05:58:04",
-      "album": {
-        "name": "Soy El Nata",
-        "url": "https://open.spotify.com/album/7AGkmNOYEjPDNAeoL9K4PN"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 179899,
-      "name": "Noches De Desvelo",
-      "url": "https://open.spotify.com/track/7aYP7DH23pb0cAZBQQK6uz"
     },
     {
       "added_at": "2023-01-09 05:58:04",

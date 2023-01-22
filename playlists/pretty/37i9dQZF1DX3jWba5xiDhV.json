@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 81386,
+  "num_followers": 81737,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMGM3M2NlY2FkN2Q5OTE1ZGI2ZDg3YzllZWFiMDk2ZmNk",
+  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMDI5Y2VhODY0OTBkMTY2NmMzNzIzYTE3YzI4M2E0YWE1",
   "tracks": [
     {
       "added_at": "2022-10-07 08:10:31",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Another Life (LP)",
-        "url": "https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw"
-      },
-      "artists": [
-        {
-          "name": "Kano",
-          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
-        }
-      ],
-      "duration_ms": 432080,
-      "name": "Another Life - Original",
-      "url": "https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Color My Love",
         "url": "https://open.spotify.com/album/0chLkxta1tCRN2lF0vIYqH"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 246106,
       "name": "Color My Love",
       "url": "https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Another Life (LP)",
+        "url": "https://open.spotify.com/album/6l4UUXmkTxaVmZtUxkl9xw"
+      },
+      "artists": [
+        {
+          "name": "Kano",
+          "url": "https://open.spotify.com/artist/24DinDXSaOyHPz3JhdL9Qb"
+        }
+      ],
+      "duration_ms": 432080,
+      "name": "Another Life - Original",
+      "url": "https://open.spotify.com/track/6Yo813UNQqb04YoU1wYz5e"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Dirty Talk",
-        "url": "https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP"
-      },
-      "artists": [
-        {
-          "name": "Klein & M.B.O.",
-          "url": "https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f"
-        }
-      ],
-      "duration_ms": 335333,
-      "name": "Dirty Talk",
-      "url": "https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Destiny (Original) - Single",
         "url": "https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 279746,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Dirty Talk",
+        "url": "https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP"
+      },
+      "artists": [
+        {
+          "name": "Klein & M.B.O.",
+          "url": "https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f"
+        }
+      ],
+      "duration_ms": 335333,
+      "name": "Dirty Talk",
+      "url": "https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "Automatic Dub 2",
+        "url": "https://open.spotify.com/album/2gALEQAxbisVObFd0dfwwG"
+      },
+      "artists": [
+        {
+          "name": "Wolfram",
+          "url": "https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24"
+        }
+      ],
+      "duration_ms": 396511,
+      "name": "Automatic Dub",
+      "url": "https://open.spotify.com/track/1vu5RVntahCOW5bdwdJRTV"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "Future Disco: Visions of Love",
         "url": "https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 447775,
       "name": "Italo Amore (Musumeci Edit)",
       "url": "https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
-        "name": "Automatic Dub 2",
-        "url": "https://open.spotify.com/album/2gALEQAxbisVObFd0dfwwG"
-      },
-      "artists": [
-        {
-          "name": "Wolfram",
-          "url": "https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24"
-        }
-      ],
-      "duration_ms": 396511,
-      "name": "Automatic Dub",
-      "url": "https://open.spotify.com/track/1vu5RVntahCOW5bdwdJRTV"
     },
     {
       "added_at": "2022-10-07 08:10:31",

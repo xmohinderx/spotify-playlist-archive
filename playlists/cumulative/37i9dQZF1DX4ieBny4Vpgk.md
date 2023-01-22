@@ -4,7 +4,7 @@
 
 > Vocal jazz favorites from 2022\. Cover: Samara Joy \#SpotifyWrapped
 
-113 songs - 7 hr 37 min
+114 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Bloodline](https://open.spotify.com/track/0uEkDFrfTS24kzANpkfPLk) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 3:49 | 2021-12-01 | 2022-12-01 |
 | [Bloodline](https://open.spotify.com/track/6E2xSghivZVmTTy3m0NNHS) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/0sw9A3w2cRMHywBMmMUD3h) | 3:49 | 2021-12-01 | 2022-07-29 |
 | [Blossom's Blues](https://open.spotify.com/track/50nxVCNnflGSKECsf4IN6V) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn) | 3:28 | 2022-11-30 |  |
-| [Bonita \- Special Edition](https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:12 | 2022-11-30 |  |
+| [Bonita](https://open.spotify.com/track/2jSNZUNgyRArdjjSoqlCPH) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:12 | 2022-11-30 |  |
+| [Bonita \- Special Edition](https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:12 | 2022-11-30 | 2023-01-22 |
 | [Born In The Dark](https://open.spotify.com/track/1BqN5U71j779zCZlPRpWpk) | [Eric Hutchinson](https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4) | [Before & After Life](https://open.spotify.com/album/0gbO5q0USgCkccD7CpCiwE) | 5:17 | 2021-12-01 | 2022-12-01 |
 | [But Beautiful](https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:55 | 2021-12-01 | 2022-12-01 |
 | [Can't Get Out Of This Mood](https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Can't Get Out Of This Mood](https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy) | 3:42 | 2022-11-30 |  |

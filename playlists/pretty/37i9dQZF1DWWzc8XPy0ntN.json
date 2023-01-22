@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 121597,
+  "num_followers": 121608,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA2MjgzMSwwMDAwMDAwMDQ3M2VmNjAwMzI5YjhlZjA1YmQ2NzliNjMxMDhmNGQ2",
+  "snapshot_id": "MTY3MzA2MjgzMSwwMDAwMDAwMGUyNDhiNWJhZDQ5YzVmYzEyYWFiOTVmZWY4NDMxMTA5",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Collateral",
-        "url": "https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV"
-      },
-      "artists": [
-        {
-          "name": "Dr Honey",
-          "url": "https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr"
-        }
-      ],
-      "duration_ms": 271878,
-      "name": "Collateral",
-      "url": "https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Nz\u00fambi",
         "url": "https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0"
       },
@@ -911,18 +895,42 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Mala Hierba",
-        "url": "https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy"
+        "name": "Collateral",
+        "url": "https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV"
       },
       "artists": [
         {
-          "name": "Mar\u00eda y Jos\u00e9",
-          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
+          "name": "Dr Honey",
+          "url": "https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr"
         }
       ],
-      "duration_ms": 215111,
-      "name": "Mala Hierba",
-      "url": "https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr"
+      "duration_ms": 271878,
+      "name": "Collateral",
+      "url": "https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Pebbles Mind Horrors",
+        "url": "https://open.spotify.com/album/2IwGCkhGFRnn0ojOZRyESl"
+      },
+      "artists": [
+        {
+          "name": "Theus Mago",
+          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
+        },
+        {
+          "name": "Mijo",
+          "url": "https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl"
+        },
+        {
+          "name": "Rocco Desentis",
+          "url": "https://open.spotify.com/artist/6VhNyPvKFaJAzTe5sqPz89"
+        }
+      ],
+      "duration_ms": 370886,
+      "name": "Pebbles Mind Horrors",
+      "url": "https://open.spotify.com/track/3FJQL59dUXL0Xq6dJTMXXL"
     }
   ],
   "unique_name": "Escena Electr\u00f3nica Experimental",

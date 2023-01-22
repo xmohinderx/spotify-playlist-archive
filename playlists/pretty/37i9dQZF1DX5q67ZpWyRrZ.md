@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > The best Indie tracks from the scene\. Cover \- Rito Riba
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,814 likes - 77 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,293 likes - 77 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

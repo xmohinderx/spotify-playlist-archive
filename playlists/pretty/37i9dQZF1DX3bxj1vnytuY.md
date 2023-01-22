@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,259 likes - 120 songs - 12 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,338 likes - 120 songs - 12 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 34 | [L'ame](https://open.spotify.com/track/39NtjGMLdLBqrzJUgxpPAU) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Ghouroub](https://open.spotify.com/album/0lgaPIausGrjLHeuY6Dz8V) | 7:03 |
 | 35 | [Ode Ireti \- Nitefreak Remix](https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [El\-Jay](https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Nitefreak Remix\)](https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE) | 3:59 |
 | 36 | [Sunsets in Marrakech](https://open.spotify.com/track/3C1Dn6K7TGnSmPYhmqh5x3) | [BluePaper](https://open.spotify.com/artist/6nlIMudcLyn65DpF3jsUOB) | [Sunsets in Marrakech](https://open.spotify.com/album/4FYCKpFao26D6pirX7A5Nk) | 6:18 |
-| 37 | [Into Your Tribe \- Bedouin Remix](https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV) | [Soul Of Zoo](https://open.spotify.com/artist/3DvB5GFonG1pGu4bQctj9g), [Guy Laliberté](https://open.spotify.com/artist/48KmpWID5Ox5HtKIHT94Wn), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Into Your Tribe \(Bedouin Remix\)](https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR) | 7:34 |
+| 37 | [Into Your Tribe \- Bedouin Remix](https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV) | [Soul Of Zoo](https://open.spotify.com/artist/3DvB5GFonG1pGu4bQctj9g), [Guy Laliberté](https://open.spotify.com/artist/48KmpWID5Ox5HtKIHT94Wn), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC), [Snow Owl](https://open.spotify.com/artist/2DE3TjmIcqLDsyLJ9DdmLq), [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Into Your Tribe \(Bedouin Remix\)](https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR) | 7:34 |
 | 38 | [Eternal Roots](https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg) | [Safar \(FR\)](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:05 |
 | 39 | [Ya Albi](https://open.spotify.com/track/28H69jrYqYi7uTY0xr9Jjj) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Your Destiny Ep](https://open.spotify.com/album/1gJn7kasUhDdy6HJ8pg0uv) | 6:12 |
 | 40 | [Sidi](https://open.spotify.com/track/1I5CUoUVsoFD33CXsUM91Z) | [Herrer](https://open.spotify.com/artist/4GBv8rfeHjPDvklx9mvYuz) | [Sidi](https://open.spotify.com/album/3Jki9ZN510lqYxRrvw9eDp) | 5:00 |

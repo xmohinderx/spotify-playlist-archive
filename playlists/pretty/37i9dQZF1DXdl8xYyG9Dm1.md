@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX?si=nyBVVSAgQ6ir7o2rnvWgRg"> AKA </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,009 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,087 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 40 | [Best I Ever Had](https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Best I Ever Had](https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs) | 2:38 |
 | 41 | [Winning](https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Winning](https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N) | 3:14 |
 | 42 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 |
-| 43 | [CATALYST](https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:44 |
-| 44 | [LiFT ME UP](https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR) | [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [ANXIETY+](https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ) | 5:32 |
+| 43 | [LiFT ME UP](https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR) | [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [ANXIETY+](https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ) | 5:32 |
+| 44 | [CATALYST](https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:44 |
 | 45 | [Ye x4](https://open.spotify.com/track/488crYdGxAi7RdJxKjEWGb) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Ye x4](https://open.spotify.com/album/5K6ozqiCW4tCuU9SxzEx0a) | 2:45 |
 | 46 | [Okwaraji \(feat\. Bella Shmurda\) \[Remix\]](https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:48 |
 | 47 | [Royaume Kunga \(Kingdom\)](https://open.spotify.com/track/3cJyHbIs3JW0MBgnUKcxS9) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Dynastie](https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg) | 3:01 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 64 | [Hmm \- Remix](https://open.spotify.com/track/62slPHVX1XEFfdoxaUtosU) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/1ti1eoBDoZtKJVZSkCUY8h) | [Hmm \(Remix\)](https://open.spotify.com/album/7w1vWwOOr64HhVRTGIscTb) | 3:30 |
 | 65 | [Animalistic](https://open.spotify.com/track/7Hvn6MDsWBj3aOVvJRu9Np) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Animalistic](https://open.spotify.com/album/1lyaP0XZFR1nF4XjjQo4ds) | 2:46 |
 | 66 | [Romantic Rivals](https://open.spotify.com/track/3icpxCljEDRZ0OgMs5wXIY) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7), [Domani Mkadinali](https://open.spotify.com/artist/5JAiIzH0jXCzYZe0nRbol2), [Sewersydaa](https://open.spotify.com/artist/4Fpbih3XlDuUndqbIOh1Vm) | [Romantic Rivals](https://open.spotify.com/album/32EU7qQmOukGB0S3x7C7cE) | 4:15 |
-| 67 | [Long Way from Home](https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [YP & Azanti, Vol\. 1](https://open.spotify.com/album/3jGDqC1uXfkg4hKyfGzzoK) | 3:01 |
-| 68 | [Vibration](https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Vibration](https://open.spotify.com/album/6Sv2Wno4AXhR7Xar3ZP5NV) | 3:28 |
+| 67 | [Vibration](https://open.spotify.com/track/7p1h63u5ATBUVnpQKP9Qzh) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Vibration](https://open.spotify.com/album/6Sv2Wno4AXhR7Xar3ZP5NV) | 3:28 |
+| 68 | [Long Way from Home](https://open.spotify.com/track/5LKZgS3FWI3WHDZFiOEHvA) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [YP & Azanti, Vol\. 1](https://open.spotify.com/album/3jGDqC1uXfkg4hKyfGzzoK) | 3:01 |
 | 69 | [Midf \(Money I Dey Find\)](https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Quarantunes](https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV) | 3:40 |
 | 70 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
 
-Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMDM5ODVlMTg2ZmEwZGJkNjgyNWVmM2ViNTc3ZWVmMWYz`
+Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMGM1ZGY2YWU0ZWQ5Nzc1N2ZmZDYxZDI3N2MxMmI2YTJl`

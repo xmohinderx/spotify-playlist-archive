@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels, Cover: CIL\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,733 likes - 58 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,865 likes - 58 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 23 | [Wasted Youth](https://open.spotify.com/track/4vz2uEorUwEV5MwuALnrav) | [Zia Victoria](https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE) | [Wasted Youth](https://open.spotify.com/album/6VzNOBRZswuVSFO08wSpK0) | 3:33 |
 | 24 | [In the Music](https://open.spotify.com/track/5TQiZXRf45cJthdjbsmlYy) | [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa), [Shqzu](https://open.spotify.com/artist/1aIKyRiP9H0H2IQ0RaWjbk), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [In the Music](https://open.spotify.com/album/5IjEWqasrST65LtDSo0gEJ) | 2:50 |
 | 25 | [Upbeat](https://open.spotify.com/track/3DPQ7D8LQah2ZtAKYcmmai) | [Inude](https://open.spotify.com/artist/4s5z8d8cm6QVv4YaiyphG3) | [PRIMAVERA](https://open.spotify.com/album/2QXsDkays8uJhTHdXIpriO) | 3:10 |
-| 26 | [Pears](https://open.spotify.com/track/3jETj9f1MNRF1Dsna9qfXj) | [Mission to the moon](https://open.spotify.com/artist/6eS0ZnTk0HjEBDMMs6Ioda) | [Pears](https://open.spotify.com/album/7mYWOIIQ1n4Jzj5PRzno6x) | 3:36 |
+| 26 | [Pears](https://open.spotify.com/track/3jETj9f1MNRF1Dsna9qfXj) | [Mission To The Moon](https://open.spotify.com/artist/6mPXYU5tU46bVYpiXYdxM7) | [Pears](https://open.spotify.com/album/7mYWOIIQ1n4Jzj5PRzno6x) | 3:36 |
 | 27 | [Naismith](https://open.spotify.com/track/1DEh40qd7f1Mx9Itg3lmZ5) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Naismith](https://open.spotify.com/album/4hIhzH5FTBPYEwowBSWaMw) | 3:01 |
 | 28 | [Show You Something](https://open.spotify.com/track/08wClhWVHbWrBl0PczdHQa) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [Show You Something](https://open.spotify.com/album/3BEo0WutAbCSvJML2oy3zD) | 3:54 |
 | 29 | [Little Twirl](https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Carvings](https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln) | 2:22 |

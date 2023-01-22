@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora do ver\u00e3o.",
-  "num_followers": 85886,
+  "num_followers": 85898,
   "original_name": "Ver\u00e3o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMGU3ODcxMTM0OWM2ODQ1ZWIyYTEwNDdjNjA3ZDFiMzkw",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMGYzZjM2NzExZGE4MTA3MzJhZGQ3MDEyMGJiOTg1NGJm",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Afro Tropical",
-        "url": "https://open.spotify.com/album/5oSieYXT6iUxhTzoT2Iv4n"
-      },
-      "artists": [
-        {
-          "name": "IVANN",
-          "url": "https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm"
-        }
-      ],
-      "duration_ms": 151708,
-      "name": "Afro Tropical",
-      "url": "https://open.spotify.com/track/6HNe2fozm5lvsmmV2tPwTQ"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Borboletas",
         "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 204281,
       "name": "Borboletas",
       "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Afro Tropical",
+        "url": "https://open.spotify.com/album/5oSieYXT6iUxhTzoT2Iv4n"
+      },
+      "artists": [
+        {
+          "name": "IVANN",
+          "url": "https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm"
+        }
+      ],
+      "duration_ms": 151708,
+      "name": "Afro Tropical",
+      "url": "https://open.spotify.com/track/6HNe2fozm5lvsmmV2tPwTQ"
     },
     {
       "added_at": "2022-10-13 23:00:00",

@@ -1,15 +1,15 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 112156,
+  "num_followers": 112252,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU3MDY3MSwwMDAwMDAwMGUwYzMwYjI5MTM1NGYxMTUwNWMyZjdhNDQ0NDI4NWZj",
+  "snapshot_id": "MTY3MzU3MDY3MSwwMDAwMDAwMDkzMDJjYjdjZTU3YTAzNDMwYTYyM2RlMTE3ZDlmMjQw",
   "tracks": [
     {
-      "added_at": "2023-01-21 01:15:25",
+      "added_at": "2023-01-22 01:18:33",
       "album": {
         "name": "Oh My (feat. Moby)",
         "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You (Edit)",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
         "name": "World Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 178304,
       "name": "World Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Won't Forget You (Edit)",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -199,18 +199,22 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+        "name": "Love Tonight (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
+      "duration_ms": 184783,
+      "name": "Love Tonight (Robin Schulz Remix)",
+      "url": "https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -239,22 +243,18 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Love Tonight (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/5sg93cUz5Z77nR6n0FMHvS"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 184783,
-      "name": "Love Tonight (Robin Schulz Remix)",
-      "url": "https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ"
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "On My Knees",
-        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
+        "name": "Burn Dem Bridges",
+        "url": "https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
         }
       ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
+      "duration_ms": 175676,
+      "name": "Burn Dem Bridges",
+      "url": "https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Burn Dem Bridges",
-        "url": "https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4"
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
       },
       "artists": [
         {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 175676,
-      "name": "Burn Dem Bridges",
-      "url": "https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG"
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -449,43 +449,7 @@
       "url": "https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3"
     },
     {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
-        "name": "ADOLESCENCE",
-        "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 192138,
-      "name": "Esther",
-      "url": "https://open.spotify.com/track/7JIFyFT89CwNK7EmhG2eqn"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
-        "name": "Atlas (Light / Dark Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3HZKPiOGyFqmLvehf77H47"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 275493,
-      "name": "Sundream",
-      "url": "https://open.spotify.com/track/0PHWXLXOQXGlyUGq7woVFZ"
-    },
-    {
-      "added_at": "2023-01-21 01:15:25",
+      "added_at": "2023-01-22 01:18:33",
       "album": {
         "name": "The Last Goodbye (Hayden James Remix)",
         "url": "https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E"
@@ -511,6 +475,26 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
+        "name": "ADOLESCENCE",
+        "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 192138,
+      "name": "Esther",
+      "url": "https://open.spotify.com/track/7JIFyFT89CwNK7EmhG2eqn"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
         "name": "LIFTED",
         "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 183460,
       "name": "Lights Go Down (with SIDEPIECE)",
       "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "Atlas (Light / Dark Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3HZKPiOGyFqmLvehf77H47"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 275493,
+      "name": "Sundream",
+      "url": "https://open.spotify.com/track/0PHWXLXOQXGlyUGq7woVFZ"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28"
     },
     {
-      "added_at": "2023-01-21 01:15:25",
+      "added_at": "2023-01-22 01:18:33",
       "album": {
         "name": "RUSH (Blush)",
         "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
@@ -599,6 +599,22 @@
       "duration_ms": 197018,
       "name": "MACHINE",
       "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 269480,
+      "name": "I Don't Wanna Leave",
+      "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -635,22 +651,6 @@
       "duration_ms": 198961,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 269480,
-      "name": "I Don't Wanna Leave",
-      "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp"
     },
     {
-      "added_at": "2023-01-21 01:15:25",
+      "added_at": "2023-01-22 01:18:33",
       "album": {
         "name": "Too Much Fun",
         "url": "https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM"
@@ -707,6 +707,22 @@
       "duration_ms": 212492,
       "name": "Where The Angels Go To Die",
       "url": "https://open.spotify.com/track/0zwJUJgcZrcdAKfATMYhcq"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -727,22 +743,6 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Oceanside Girl",
-        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
-      },
-      "artists": [
-        {
-          "name": "Holo",
-          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
-        }
-      ],
-      "duration_ms": 319551,
-      "name": "Oceanside Girl",
-      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
         "name": "Vigil",
         "url": "https://open.spotify.com/album/4gOJ1TNUxWRxjtBOAMnI3M"
       },
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+        "name": "Oceanside Girl",
+        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
         }
       ],
-      "duration_ms": 334754,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
+      "duration_ms": 319551,
+      "name": "Oceanside Girl",
+      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
-      },
-      "artists": [
-        {
-          "name": "Tom Budin",
-          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
-        },
-        {
-          "name": "Dave Winnel",
-          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
-        }
-      ],
-      "duration_ms": 169658,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
         "name": "Love Is Real",
         "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 197727,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
+      },
+      "artists": [
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "duration_ms": 169658,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
+        "name": "Skin & Bones",
+        "url": "https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 150266,
+      "name": "Skin & Bones (feat. Winona Oak)",
+      "url": "https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
         "name": "Disappear (feat. Hayley Trinca) [ShockOne Remix]",
         "url": "https://open.spotify.com/album/5fWBWimlRmaLgyQ20zlzH0"
       },
@@ -1059,22 +1079,18 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Waiting for Nothing (feat. Yaeger)",
-        "url": "https://open.spotify.com/album/5cZopeO3e9cyeXAOPVCgLK"
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz"
       },
       "artists": [
         {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
         }
       ],
-      "duration_ms": 248169,
-      "name": "Waiting for Nothing (feat. Yaeger)",
-      "url": "https://open.spotify.com/track/4vnPji7QI3Bt3XDZxfDAXr"
+      "duration_ms": 293775,
+      "name": "Feel It Too",
+      "url": "https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -1095,38 +1111,22 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz"
+        "name": "Waiting for Nothing (feat. Yaeger)",
+        "url": "https://open.spotify.com/album/5cZopeO3e9cyeXAOPVCgLK"
       },
       "artists": [
         {
-          "name": "RONA.",
-          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
-        }
-      ],
-      "duration_ms": 293775,
-      "name": "Feel It Too",
-      "url": "https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
-        "name": "Skin & Bones",
-        "url": "https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
         },
         {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
         }
       ],
-      "duration_ms": 150266,
-      "name": "Skin & Bones (feat. Winona Oak)",
-      "url": "https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ"
+      "duration_ms": 248169,
+      "name": "Waiting for Nothing (feat. Yaeger)",
+      "url": "https://open.spotify.com/track/4vnPji7QI3Bt3XDZxfDAXr"
     },
     {
       "added_at": "2022-12-15 13:00:00",

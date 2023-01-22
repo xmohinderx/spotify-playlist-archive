@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-464 songs - 1 day 4 hr 49 min
+465 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [My Love Is Your Love](https://open.spotify.com/track/4xzhlulgIL4yFEAR9EjHkR) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/2jiDaTcE7WmJr384lZJvgw) | 4:21 | 2022-01-27 | 2022-07-29 |
 | [Mystery](https://open.spotify.com/track/1JbdTua3gjnCt9A7w5ZP6v) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/5NCPAKo6oqLESbnCaVePKV) | 3:42 | 2022-01-27 | 2022-07-29 |
 | [Mystery](https://open.spotify.com/track/3XDiVIBvsHPIAxWoBfPt42) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe) | 3:42 | 2022-07-08 |  |
+| [Never Change](https://open.spotify.com/track/4DBYy2nBww42YBH13NRquK) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 3:20 | 2023-01-20 |  |
 | [Night And Day](https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:38 | 2022-01-27 |  |
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2022-08-05 | 2022-08-12 |
 | [Nikita](https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:43 | 2022-07-08 |  |
@@ -333,7 +334,7 @@
 | [Runaway \(feat\. Khalid\)](https://open.spotify.com/track/6mXMILvElYiWu4fa9oaJXe) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Runaway \(feat\. Khalid\)](https://open.spotify.com/album/6Xrspi637ex7NEio0geFO4) | 3:58 | 2022-07-08 | 2023-01-13 |
 | [Rush Rush](https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC) | [Paula Abdul](https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j) | [Spellbound](https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH) | 4:52 | 2022-01-27 |  |
 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 | 2022-01-27 |  |
-| [Sailor's Heart](https://open.spotify.com/track/2PvZNsVhnHvhXQG2SAYDTp) | [Zyke](https://open.spotify.com/artist/7AjlqcvPUY0YNKTkhtzVeF) | [Sailor's Heart](https://open.spotify.com/album/0onhz96ZjCqSainuMn8456) | 3:03 | 2022-01-27 |  |
+| [Sailor's Heart](https://open.spotify.com/track/2PvZNsVhnHvhXQG2SAYDTp) | [Zyke](https://open.spotify.com/artist/7AjlqcvPUY0YNKTkhtzVeF) | [Sailor's Heart](https://open.spotify.com/album/0onhz96ZjCqSainuMn8456) | 3:03 | 2022-01-27 | 2023-01-22 |
 | [Save Me](https://open.spotify.com/track/0EqtsCvcDjEz6svFsaV5HN) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Magnolia \(Music from the Motion Picture\)](https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV) | 4:34 | 2022-01-27 |  |
 | [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 | 2022-07-08 |  |
 | [Say You Love Me](https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Tough Love](https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP) | 4:17 | 2022-07-08 |  |

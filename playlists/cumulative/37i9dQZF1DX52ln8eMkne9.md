@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-244 songs - 18 hr 19 min
+245 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Dedicated To You](https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:32 | 2022-07-28 |  |
 | [Dedicated to You](https://open.spotify.com/track/7jViEpEn0BrHdqqlPtZcxr) | [John Coltrane & Johnny Hartman](https://open.spotify.com/artist/5k3CkxpaPwsFdjlW6A4LOS) | [John Coltrane and Johnny Hartman](https://open.spotify.com/album/6Yx0HNpoOnhtSvyuBnytZf) | 5:31 | 2021-12-17 | 2022-07-29 |
 | [Didn't Know About You](https://open.spotify.com/track/1UjcfBPJt8mMvJ5QyfaWuq) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Blues\-A\-Plenty](https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps) | 3:32 | 2021-12-17 |  |
-| [Discord](https://open.spotify.com/track/2lWUPIPZmGJPaqiPFsmHqy) | [Javier Nero](https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m), [Lauren Desberg](https://open.spotify.com/artist/3TfaPPKGoRgvEHpsAM7f5J), [Kyle Athayde](https://open.spotify.com/artist/0RzZX668EqWmLhtULOwDph), [Shelly Berg](https://open.spotify.com/artist/4U9TSTlbklvLVHcwbSH7FP) | [Discord](https://open.spotify.com/album/3bZaezUZTlv8LXIFmqA4u7) | 7:05 | 2021-12-17 |  |
+| [Discord](https://open.spotify.com/track/2lWUPIPZmGJPaqiPFsmHqy) | [Javier Nero](https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m), [Lauren Desberg](https://open.spotify.com/artist/3TfaPPKGoRgvEHpsAM7f5J), [Kyle Athayde](https://open.spotify.com/artist/0RzZX668EqWmLhtULOwDph), [Shelly Berg](https://open.spotify.com/artist/4U9TSTlbklvLVHcwbSH7FP) | [Discord](https://open.spotify.com/album/3bZaezUZTlv8LXIFmqA4u7) | 7:05 | 2021-12-17 | 2023-01-22 |
 | [Don't Explain](https://open.spotify.com/track/2JncPNDwT04u0FhWxfJbi5) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:14 | 2021-12-17 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/6cRsRBzSaGwfnMMqNSjtFY) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:48 | 2021-12-17 |  |
 | [Don't Misunderstand](https://open.spotify.com/track/4vVxrc4FqD6FdolnLw3hlD) | [Jimmy Heath](https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Love Letter](https://open.spotify.com/album/03bWBECzM4shXQqXk0Beu4) | 5:32 | 2022-08-26 |  |
@@ -66,6 +66,7 @@
 | [Emily](https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI) | [Ben Besiakov](https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4) | [The Art of Jazz with Ben Besiakov](https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3) | 5:19 | 2021-12-17 |  |
 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/4lvVJeZqInEZ0YwsX55w4N) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [More Than You Know](https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa) | 4:00 | 2022-04-28 |  |
 | [Even If It Breaks My Heart](https://open.spotify.com/track/1rwoZHIH9rcUmgzn6Y8l30) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Blue Moon](https://open.spotify.com/album/5K2vLgwzjuVSe07sDQjTbX) | 2:32 | 2021-12-17 | 2022-07-29 |
+| [Even in the Evenin'](https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:47 | 2023-01-19 |  |
 | [Everybody Knows](https://open.spotify.com/track/0Jfz8rtw11v3Mixr4yTorQ) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Everybody Knows](https://open.spotify.com/album/3VBajOBgjfC2BSlonO8KwT) | 2:48 | 2021-12-17 |  |
 | [Everybody's Talkin'](https://open.spotify.com/track/4yjJYX9BZrkbUoF82cYJ9T) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/3KniUiE1O3h7CWWJ6eByiY) | 5:09 | 2021-12-17 | 2022-07-21 |
 | [Everybody's Talkin'](https://open.spotify.com/track/0sIzgvwRYgOwAJIKIQ35mo) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 5:10 | 2022-08-11 | 2022-08-31 |

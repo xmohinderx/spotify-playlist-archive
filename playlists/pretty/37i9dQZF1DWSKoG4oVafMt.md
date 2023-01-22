@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,842 likes - 165 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,029 likes - 165 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

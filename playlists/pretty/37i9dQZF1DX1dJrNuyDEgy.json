@@ -1,12 +1,12 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 196867,
+  "num_followers": 196938,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjM2MzI4NiwwMDAwMDAwMDZiMWQ0NGU0YzAyMmNhMDJkYTZiNTMyNzBiYmUyNzNk",
+  "snapshot_id": "MTY3MjM2MzI4NiwwMDAwMDAwMDM3OGQxYWFiZTE3YzM5MTVhYmU0MTY3MzI1ZGViODE5",
   "tracks": [
     {
       "added_at": "2022-11-19 17:26:23",
@@ -299,18 +299,22 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "De Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/76fRflWFFHxPUIc0qKnmDo"
+        "name": "Veracruz Son y Huapango",
+        "url": "https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD"
       },
       "artists": [
         {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+          "name": "Tlen Huicani",
+          "url": "https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8"
+        },
+        {
+          "name": "Lino Chavez",
+          "url": "https://open.spotify.com/artist/0mE18DYrJBKMJdDBSUc3Jn"
         }
       ],
-      "duration_ms": 601480,
-      "name": "La Bala",
-      "url": "https://open.spotify.com/track/2Z5fIjiXs9mewTPp2hvVTR"
+      "duration_ms": 193453,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/51EcnaX9uGBFYdBpMThgEs"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -363,22 +367,18 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Veracruz Son y Huapango",
-        "url": "https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD"
+        "name": "De Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/76fRflWFFHxPUIc0qKnmDo"
       },
       "artists": [
         {
-          "name": "Tlen Huicani",
-          "url": "https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8"
-        },
-        {
-          "name": "Lino Chavez",
-          "url": "https://open.spotify.com/artist/0mE18DYrJBKMJdDBSUc3Jn"
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
         }
       ],
-      "duration_ms": 193453,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/51EcnaX9uGBFYdBpMThgEs"
+      "duration_ms": 601480,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/2Z5fIjiXs9mewTPp2hvVTR"
     },
     {
       "added_at": "2022-11-19 17:26:23",

@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists. Cover: <a href=\u201cspotify:artist:39i5B6umzWzkfMe12JrMwW\u201d>TiaCorine</a>  ",
-  "num_followers": 33591,
+  "num_followers": 33607,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwODQwMCwwMDAwMDAwMDMyMzY4MjAxMDg5ZmQ3Y2YwODRmNjg3NDI1NmU1ZWNl",
+  "snapshot_id": "MTY3MjgwODQwMCwwMDAwMDAwMDViZjc5NzVkY2EwZDg2N2JjYjE3ZjBlYjEzNjk5ZGEy",
   "tracks": [
     {
       "added_at": "2023-01-04 05:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
+        "name": "Remnants of the Vessel",
+        "url": "https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD"
+      },
+      "artists": [
+        {
+          "name": "Faetooth",
+          "url": "https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt"
+        }
+      ],
+      "duration_ms": 306782,
+      "name": "Echolalia",
+      "url": "https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
         "name": "P.O.S.",
         "url": "https://open.spotify.com/album/1iHrfEVH8aHvM2l1Kpecdm"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 152727,
       "name": "Smoke Signal",
       "url": "https://open.spotify.com/track/76S2bH0qzaMnxgx9GCJlo4"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
-        "name": "Remnants of the Vessel",
-        "url": "https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD"
-      },
-      "artists": [
-        {
-          "name": "Faetooth",
-          "url": "https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt"
-        }
-      ],
-      "duration_ms": 306782,
-      "name": "Echolalia",
-      "url": "https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo"
     },
     {
       "added_at": "2023-01-04 05:00:00",

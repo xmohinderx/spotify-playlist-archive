@@ -4,7 +4,7 @@
 
 > 150%
 
-143 songs - 6 hr 2 min
+144 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [HUSH \(Speed\)](https://open.spotify.com/track/49JmcVegBY2IN3W8GbC2kH) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Fallen Angel \(Speed\)](https://open.spotify.com/album/6dTmErMYMBPJsC6GUUqOxq) | 2:35 | 2022-11-18 | 2022-12-14 |
 | [I Can't \- Sped Up](https://open.spotify.com/track/1V0RXIXbvghnccC1eiKG4w) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't](https://open.spotify.com/album/4UDnadI0O48uey6S8dunV3) | 2:01 | 2022-12-13 | 2022-12-22 |
 | [I Can't \- Sped Up](https://open.spotify.com/track/62jwQiRfhqGR6GcbahCDWq) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't \- Sped Up](https://open.spotify.com/album/3AzbVwgBNAE49TZ86U4MoG) | 2:01 | 2022-12-13 |  |
-| [I WANNA BE SAVED](https://open.spotify.com/track/5kRgiWvIozTZn9thKMsrHf) | [Nightocore Songs](https://open.spotify.com/artist/2nz194eBkvIzwRfdps1VPe) | [I WANNA BE SAVED](https://open.spotify.com/album/605ztgNljQNUeUeG835IQS) | 4:02 | 2023-01-03 |  |
+| [I WANNA BE SAVED](https://open.spotify.com/track/5kRgiWvIozTZn9thKMsrHf) | [Nightocore Songs](https://open.spotify.com/artist/2nz194eBkvIzwRfdps1VPe) | [I WANNA BE SAVED](https://open.spotify.com/album/605ztgNljQNUeUeG835IQS) | 4:02 | 2023-01-03 | 2023-01-22 |
+| [I WANNA BE SAVED](https://open.spotify.com/track/5kCo9LVZrux26h9rGPSumc) | [Tkasi](https://open.spotify.com/artist/0vFylVX8JZ2m5BQULazlzY) | [I WANNA BE SAVED](https://open.spotify.com/album/0TI01an4MBa4111Mc70ag6) | 4:02 | 2023-01-18 |  |
 | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c) | 2:45 | 2022-06-09 |  |
 | [I'm Not The Only One \- Sped Up](https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [I’m Not The Only One \(Sped Up\)](https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM) | 3:27 | 2022-09-09 |  |
 | [I'm so crazy for youuu </3](https://open.spotify.com/track/6coeqSdD7VvHELbvs6tPZX) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/4XRmjNQKaVj8iozVnubrip) | 1:50 | 2022-06-09 | 2022-07-29 |

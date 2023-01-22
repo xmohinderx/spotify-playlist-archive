@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 6019,
+  "num_followers": 6042,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MjQ0MSwwMDAwMDAwMGE4YzY5YzcyNTdjN2UwYTFhYzNkODI1ZWIzOTZlOTc1",
+  "snapshot_id": "MTY3MzU4MjQ0MSwwMDAwMDAwMDU1YWVmZTk0NTcwNDJkZTA3NzBhMWZjOTEyNTBjMDNh",
   "tracks": [
     {
       "added_at": "2023-01-13 04:00:41",
@@ -539,6 +539,26 @@
     {
       "added_at": "2023-01-13 04:00:41",
       "album": {
+        "name": "Again & Again",
+        "url": "https://open.spotify.com/album/0oJIfKWMMa5hTsPRwSbv8r"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/6KutX9uKzjgR3A2xoJjfPf"
+        },
+        {
+          "name": "KOYO",
+          "url": "https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Again & Again (Feat. KOYO)",
+      "url": "https://open.spotify.com/track/3pOCftI6A1ZceurvICxvR5"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
         "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 227506,
       "name": "HONEY (Feat. Crucial Star)",
       "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
-    },
-    {
-      "added_at": "2023-01-13 04:00:41",
-      "album": {
-        "name": "Again & Again",
-        "url": "https://open.spotify.com/album/0oJIfKWMMa5hTsPRwSbv8r"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/6KutX9uKzjgR3A2xoJjfPf"
-        },
-        {
-          "name": "KOYO",
-          "url": "https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Again & Again (Feat. KOYO)",
-      "url": "https://open.spotify.com/track/3pOCftI6A1ZceurvICxvR5"
     },
     {
       "added_at": "2023-01-13 04:00:41",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-01-13 04:00:41",
       "album": {
+        "name": "Love Catcher in Bali, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4"
+      },
+      "artists": [
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "My Destiny",
+      "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
+    },
+    {
+      "added_at": "2023-01-13 04:00:41",
+      "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 178600,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2"
-    },
-    {
-      "added_at": "2023-01-13 04:00:41",
-      "album": {
-        "name": "Love Catcher in Bali, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4"
-      },
-      "artists": [
-        {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "My Destiny",
-      "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
     },
     {
       "added_at": "2023-01-13 04:00:41",

@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances.",
-  "num_followers": 22472,
+  "num_followers": 22494,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI2OTc4NCwwMDAwMDAwMGQ1YjAyYjE1OWZmNGQyZTRiMWU3ZjdlYjA2N2FmODc3",
+  "snapshot_id": "MTY3MzI2OTc4NCwwMDAwMDAwMDRkYzA3MjRkYmJhM2ZjMjE1YzQxY2QxMGNmMmYyMDQ2",
   "tracks": [
     {
       "added_at": "2023-01-09 13:08:27",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Super Duper Love",
-        "url": "https://open.spotify.com/album/3CD5F4fRZgD89j8Vb9OR4v"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 215715,
-      "name": "It's A Man's Man's Man's World - Live",
-      "url": "https://open.spotify.com/track/0Jv7rhNYIFk46JZNdCNbIp"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/1izqfeako1qgYLviORVoDT"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 513875,
       "name": "Love & Hate - Live From Spotify London",
       "url": "https://open.spotify.com/track/2TWG1zX5vzOD2aJxfJ5W5U"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Super Duper Love",
+        "url": "https://open.spotify.com/album/3CD5F4fRZgD89j8Vb9OR4v"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 215715,
+      "name": "It's A Man's Man's Man's World - Live",
+      "url": "https://open.spotify.com/track/0Jv7rhNYIFk46JZNdCNbIp"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Aretha Live at Fillmore West",
-        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 261533,
-      "name": "Love the One You're With - Live at Fillmore West, San Francisco, February 5, 1971",
-      "url": "https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Bill Withers Live At Carnegie Hall",
         "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 374236,
       "name": "Ain't Nobody - Live",
       "url": "https://open.spotify.com/track/0oPvVcpAOWtr5IVDyVflfT"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Aretha Live at Fillmore West",
+        "url": "https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 261533,
+      "name": "Love the One You're With - Live at Fillmore West, San Francisco, February 5, 1971",
+      "url": "https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Ex-Factor (BBC 1Xtra Live Lounge Recording)",
-        "url": "https://open.spotify.com/album/1rBjxPuibrLyILDyfIQUiu"
+        "name": "Natural Wonder",
+        "url": "https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl"
       },
       "artists": [
         {
-          "name": "Jarrod Lawson",
-          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 253183,
-      "name": "Ex-Factor - BBC 1Xtra Live Lounge Recording",
-      "url": "https://open.spotify.com/track/1Dhl63qchF6ZJ2BKIFvW3L"
+      "duration_ms": 246866,
+      "name": "I Wish - Live/1995",
+      "url": "https://open.spotify.com/track/4hBflEfqEBbZyEqR0RKFiT"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Natural Wonder",
-        "url": "https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl"
+        "name": "Ex-Factor (BBC 1Xtra Live Lounge Recording)",
+        "url": "https://open.spotify.com/album/1rBjxPuibrLyILDyfIQUiu"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Jarrod Lawson",
+          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
         }
       ],
-      "duration_ms": 246866,
-      "name": "I Wish - Live/1995",
-      "url": "https://open.spotify.com/track/4hBflEfqEBbZyEqR0RKFiT"
+      "duration_ms": 253183,
+      "name": "Ex-Factor - BBC 1Xtra Live Lounge Recording",
+      "url": "https://open.spotify.com/track/1Dhl63qchF6ZJ2BKIFvW3L"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Live At Montreux 2006 (Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006)",
-        "url": "https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 135253,
-      "name": "(Sitting On) The Dock Of The Bay - Live",
-      "url": "https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+        "name": "Live At Montreux 2006 (Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006)",
+        "url": "https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
         }
       ],
-      "duration_ms": 539920,
-      "name": "Lady - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB"
+      "duration_ms": 135253,
+      "name": "(Sitting On) The Dock Of The Bay - Live",
+      "url": "https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "I Wish I Knew How It Would Feel to Be Free (Live \u2013 Montreux Jazz Festival 1976)",
-        "url": "https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm"
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 367186,
-      "name": "I Wish I Knew How It Would Feel to Be Free - Live \u2013 Montreux Jazz Festival 1976",
-      "url": "https://open.spotify.com/track/0z2qqpfYy8Mgn1SSYXOF4H"
+      "duration_ms": 539920,
+      "name": "Lady - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/3r9ImE86a6Fl6O8jCQDxuB"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1275,6 +1259,22 @@
       "duration_ms": 295306,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "I Wish I Knew How It Would Feel to Be Free (Live \u2013 Montreux Jazz Festival 1976)",
+        "url": "https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 367186,
+      "name": "I Wish I Knew How It Would Feel to Be Free - Live \u2013 Montreux Jazz Festival 1976",
+      "url": "https://open.spotify.com/track/0z2qqpfYy8Mgn1SSYXOF4H"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 398986,
-      "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "One Nite Alone... The Aftershow: It Ain't Over! (Up Late with Prince & The NPG) [Live]",
         "url": "https://open.spotify.com/album/4cnxxYwMvBQN4LGEq2nKVq"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 197200,
       "name": "Don't Play That Song - Live at Fillmore West, San Francisco, February 5, 1971",
       "url": "https://open.spotify.com/track/2DV4YjrsrhB7u7waXAKsS9"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 398986,
+      "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 645040,
-      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "In Performance",
         "url": "https://open.spotify.com/album/5GKpUSUujdodLbsrJPu4FW"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 348240,
       "name": "A Song for You - Live at the Troubador, Los Angeles, CA",
       "url": "https://open.spotify.com/track/5oGeWBSshB56q9dXNLZpdN"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 296809,
+      "name": "Nakamarra - Live from Spotify Sydney",
+      "url": "https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 296809,
-      "name": "Nakamarra - Live from Spotify Sydney",
-      "url": "https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV"
+      "duration_ms": 645040,
+      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
     },
     {
       "added_at": "2023-01-09 13:08:27",

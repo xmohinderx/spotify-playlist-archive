@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Chloe Kibble Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,008 likes - 61 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,089 likes - 61 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

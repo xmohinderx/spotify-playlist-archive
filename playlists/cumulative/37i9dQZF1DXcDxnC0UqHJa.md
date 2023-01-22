@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Madison Cunningham
 
-229 songs - 14 hr 46 min
+230 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Billie Jean](https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between the Bars](https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe) | 4:20 | 2022-06-03 |  |
 | [Black Eyed Dog](https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Black Eyed Dog](https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj) | 2:48 | 2021-12-13 |  |
 | [Black Star](https://open.spotify.com/track/2SSBZMg2XdTC7vXBi0Ewkp) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Black Star](https://open.spotify.com/album/7hAXiMrqFN4LbEWD3hNE3Z) | 5:18 | 2021-12-13 | 2022-07-29 |
-| [Bluebird Wine \- 2003 Remaster](https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:17 | 2021-12-13 |  |
+| [Bluebird Wine \- 2003 Remaster](https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:17 | 2021-12-13 | 2023-01-22 |
 | [Boots Of Spanish Leather](https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Boots Of Spanish Leather](https://open.spotify.com/album/1cXHPkqqjAPgjV19nLXvUT) | 4:42 | 2021-12-13 |  |
 | [Boots of Spanish Leather](https://open.spotify.com/track/3DVYN9Dzo7Kfu3fbKMx3Ex) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX), [Diana DeMuth](https://open.spotify.com/artist/1EGJoRmXcYb7biwtm8r0ln) | [Vignettes](https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ) | 4:53 | 2021-12-13 | 2022-07-29 |
 | [Both Sides Now](https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Both Sides Now](https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N) | 4:17 | 2021-12-13 |  |
@@ -141,6 +141,7 @@
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2021-12-13 | 2022-07-29 |
 | [Leaving on a Jet Plane](https://open.spotify.com/track/0FhpvcAsWaL8QzofNDe6JN) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Music Is You: A Tribute to John Denver](https://open.spotify.com/album/03akO5CcP0sd6PWkL1BcU2) | 3:56 | 2022-10-14 | 2022-11-13 |
 | [Leaving On A Jet Plane](https://open.spotify.com/track/1iCCjJPh0rxvmI1rbElYN4) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [The Music Is You: A Tribute To John Denver](https://open.spotify.com/album/1DaPfLzGwKVRhqtE4uxpQ5) | 3:56 | 2021-12-13 | 2022-07-29 |
+| [Let Down](https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY), [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Let Down](https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP) | 3:57 | 2023-01-20 |  |
 | [Let's Dance](https://open.spotify.com/track/2ww6vlXkh2Ntw3pZwtqnHj) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/3I1zi5eB3rHCYye20JoG2U) | 5:00 | 2021-12-13 | 2022-07-29 |
 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 | 2022-06-03 |  |
 | [Light of a Clear Blue Morning](https://open.spotify.com/track/5slPetmTwOHfqpEFFDMzyn) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 4:38 | 2021-12-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 15947,
+  "num_followers": 15969,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMGNlNmZiMDMzODEwNGJjNmI4ZjU3MTY1ZDY1NjRkMjA0",
+  "snapshot_id": "MTY2ODc0NzY2MCwwMDAwMDAwMDllYTVhNDAwZTc3YjlhMWFmODgyODllZGM3YzdlYzNk",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -143,22 +143,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Have You Lost Your Mind yet?",
-        "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 295839,
-      "name": "Chocolate Samurai",
-      "url": "https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "Spirit Rising",
         "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 208974,
       "name": "Burning Out",
       "url": "https://open.spotify.com/track/5abyTR9t1SuyS8YAQZd6xA"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Have You Lost Your Mind yet?",
+        "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 295839,
+      "name": "Chocolate Samurai",
+      "url": "https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -287,6 +287,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Spirit Rising",
+        "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "duration_ms": 218088,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Kill Or Be Kind",
         "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 325638,
       "name": "Love Ain't My Favorite Word",
       "url": "https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Spirit Rising",
-        "url": "https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H"
-      },
-      "artists": [
-        {
-          "name": "Philip Sayce",
-          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
-        }
-      ],
-      "duration_ms": 218088,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -383,6 +383,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Watch It Die",
+      "url": "https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Ashes & Dust",
         "url": "https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 446346,
       "name": "Coal Tattoo",
       "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Boarding House Reach",
-        "url": "https://open.spotify.com/album/6btUx9G2BPajQ7P6mpTxId"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Corporation",
-      "url": "https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -439,6 +439,22 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
+        "name": "Boarding House Reach",
+        "url": "https://open.spotify.com/album/6btUx9G2BPajQ7P6mpTxId"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Corporation",
+      "url": "https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 250182,
       "name": "Brown Gatton",
       "url": "https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "Watch It Die",
-      "url": "https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq"
     },
     {
       "added_at": "2020-10-21 17:37:12",

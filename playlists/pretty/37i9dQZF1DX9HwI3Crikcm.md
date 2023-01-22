@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,761 likes - 86 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,906 likes - 86 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 35 | [Lady Montgomery: Lady Montgomery / Mutts Favourite / Up Da Stroods Da Sailor Goes](https://open.spotify.com/track/4c3SxYBZhankLRE0Z5GJwQ) | [Session A9](https://open.spotify.com/artist/4Ct4nuuRWcidF89g3fihxa) | [Live at Celtic Connections](https://open.spotify.com/album/0QJNK2vCzSjCjzRWrciTH7) | 4:18 |
 | 36 | [My Love Is In America](https://open.spotify.com/track/6AIa3GdTUb2TsCj5SuGnS7) | [Martin Hayes & Dennis Cahill](https://open.spotify.com/artist/1IQBZU3rKOAaZaI9b3tFto) | [The Lonesome Touch](https://open.spotify.com/album/608ZQ0B9bYpnfIMmgbIN7w) | 3:39 |
 | 37 | [Echo](https://open.spotify.com/track/7ltSWDRkYI2DoFJiv77XUz) | [Talisk](https://open.spotify.com/artist/1khU7sW2d95qMTDnyDfzBT) | [Abyss](https://open.spotify.com/album/4u7B3DAWWTgROfynsq9Fnf) | 4:55 |
-| 38 | [Tuttle's Reel](https://open.spotify.com/track/55T8dngArgGkHMA5a46jK6) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Heaven Depends](https://open.spotify.com/album/3TZjNSWnlMnNiQGJtwoGp5) | 1:18 |
+| 38 | [Tuttle's Reel](https://open.spotify.com/track/4hBnSQbRDTOO85HI6FYqva) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Heaven Depends](https://open.spotify.com/album/4t8VG3SpiS22Ugs3bu4CUf) | 1:18 |
 | 39 | [Sligo Reel](https://open.spotify.com/track/1h6g7YxBOxPXFBSusn3wW4) | [Flook](https://open.spotify.com/artist/3AtiX3mgmF2cKIeigOGyf6) | [Flatfish](https://open.spotify.com/album/4gi9TgEOQmCRpG6Q0amyvD) | 4:13 |
 | 40 | [Wee Michael's March / Frank's Reel \- Live](https://open.spotify.com/track/4GWJ2YTQHE0KbNDgls2pAi) | [Michael McGoldrick](https://open.spotify.com/artist/6XLzyxxr88YdGmrCKrFI74), [John Doyle](https://open.spotify.com/artist/3a1QidCLKC1IuMfGKY58kC), [John McCusker](https://open.spotify.com/artist/48TAnd5kMPfKUdzFjRMITI) | [The Mark Radcliffe Folk Sessions: Mcgoldrick Mccusker Doyle](https://open.spotify.com/album/6L04gkgSxKGZD90iZrA9hi) | 4:54 |
 | 41 | [The Fairy Reel / The Old Torn Petticoat / Our House at Home](https://open.spotify.com/track/0aw7GoN4XeQsxguXiDxmdk) | [Danú](https://open.spotify.com/artist/0Mm3mSg0GPDZwSI1fdznTV) | [The Road Less Traveled](https://open.spotify.com/album/0PTsZuI7tIuwXlRUrUx6SR) | 3:42 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 85 | [Reels: Kylebrack Ramblers / Graf Spee](https://open.spotify.com/track/6tWVMFlSwTPVOgeWBQMapG) | [The Shaskeen Ceili Band](https://open.spotify.com/artist/6mgGW54iUPDPt07UwID5Kn) | [Pure Irish Céilí](https://open.spotify.com/album/0lVaM9oQ9SvE6K0P39vsNI) | 3:29 |
 | 86 | [Last Night's Fun / The Chattering Magpie / The Black Haired Lass / The Commodore](https://open.spotify.com/track/3FnKOidmaJJzdP52XBWZ5f) | [Billy McComiskey](https://open.spotify.com/artist/0NPDkWpnQnjowxXozNrWeR) | [The Girls Won't Leave The Boys Alone](https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn) | 4:53 |
 
-Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMGZlNDdiZjQ1NmJiZTIyY2ZhNjAxMDk5YTk3M2VkZjA5`
+Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMDg3YjI1MTI4ODhjMWVhM2I3MzA2MDAzOWYxNTliMTVj`

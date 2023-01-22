@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Blessing Offor
 
-276 songs - 16 hr 15 min
+277 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Downsize](https://open.spotify.com/track/3SvYs68Wn1Z4U845Cdi0jg) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Final Thoughts](https://open.spotify.com/album/0PHkrjK9UIgFRM186LuR1q) | 3:01 | 2021-12-03 | 2022-07-28 |
 | [Drifting Apart](https://open.spotify.com/track/5Pr6R1aGN7tk18HslPUrSW) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Chapter 2](https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1) | 3:29 | 2021-12-03 | 2022-12-24 |
 | [Drippin' In Love](https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z) | [Frankie Zulferino](https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC) | [Drippin' In Love](https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K) | 4:05 | 2022-08-26 | 2022-11-22 |
+| [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-20 |  |
 | [Dry Bones](https://open.spotify.com/track/6XbYqxCWmzo5stjfaKgXEi) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Troy Miller](https://open.spotify.com/artist/5JM4WCkJO9f1jZK3ZdxovQ) | [Dry Bones](https://open.spotify.com/album/4fbOSnKV77GDqa54vORMym) | 3:09 | 2021-12-03 |  |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 |  |
 | [Everybody](https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Everybody](https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ) | 3:17 | 2022-07-22 |  |
@@ -191,7 +192,7 @@
 | [OUT OF CONTEXT](https://open.spotify.com/track/55J44VDY99ZUSRHVitgyiv) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [OUT OF CONTEXT](https://open.spotify.com/album/4SmNIL3Rryj0yJEhPo0Mwd) | 2:42 | 2022-09-09 | 2022-09-24 |
 | [Out of Time](https://open.spotify.com/track/5U18fsaWoMtJHR3pqgOkrt) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Out of Time](https://open.spotify.com/album/2kiWC4fHtpbdu4SpEryLql) | 3:56 | 2021-12-03 | 2022-06-22 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-05-02 |  |
-| [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 | 2022-06-17 |  |
+| [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 | 2022-06-17 | 2023-01-22 |
 | [Pantone 17 13 30](https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y1](https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM) | 3:06 | 2022-03-11 |  |
 | [Part Time Lover](https://open.spotify.com/track/5b4dscOsCEGDwXOjsEscj3) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Part Time Lover](https://open.spotify.com/album/1JLQH9Df1Gmxu7hXZtfGLO) | 2:57 | 2022-04-01 | 2022-07-29 |
 | [Party City](https://open.spotify.com/track/3F2DMy1Q25ajQ7EkHrjBtO) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Party City](https://open.spotify.com/album/0hq6WSFI9HsvTffEY5uKjo) | 4:20 | 2022-04-22 | 2022-07-29 |

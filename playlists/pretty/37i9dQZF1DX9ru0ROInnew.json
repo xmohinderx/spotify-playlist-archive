@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 78488,
+  "num_followers": 78607,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDg1MywwMDAwMDAwMDA5NGQwMmExNjUyNzZiZGExNDY3NWRhNTdiZjRmNzkx",
+  "snapshot_id": "MTY3MzI0NDg1MywwMDAwMDAwMGIxYzhlOTJmMDBlMmU1NzI4MjJiY2Y4MTQxMTg1MDNj",
   "tracks": [
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "Michael Myers",
+        "url": "https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Michael Myers",
+      "url": "https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/1ySViVTiU5OmwkJdqXGiug"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 284626,
       "name": "Dime",
       "url": "https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "Michael Myers",
-        "url": "https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Michael Myers",
-      "url": "https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -1987,6 +1987,30 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "Costear (Remix)",
+        "url": "https://open.spotify.com/album/4PnEQJUbXRvFhgZSu7c8qO"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Eq",
+          "url": "https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Costear - Remix",
+      "url": "https://open.spotify.com/track/5K1gNVbNJXqpADn4wAc2JY"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "Huracheee",
         "url": "https://open.spotify.com/album/1vlgEBezFraFDhkFPcUSbo"
       },
@@ -2015,30 +2039,6 @@
       "duration_ms": 244649,
       "name": "Huracheee",
       "url": "https://open.spotify.com/track/5PAZQuUFI4JwQGJJ4dYjZS"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "Costear (Remix)",
-        "url": "https://open.spotify.com/album/4PnEQJUbXRvFhgZSu7c8qO"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        },
-        {
-          "name": "Eq",
-          "url": "https://open.spotify.com/artist/2PKri8qrwMoXCsm3D9Zpzh"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Costear - Remix",
-      "url": "https://open.spotify.com/track/5K1gNVbNJXqpADn4wAc2JY"
     },
     {
       "added_at": "2023-01-09 06:14:13",

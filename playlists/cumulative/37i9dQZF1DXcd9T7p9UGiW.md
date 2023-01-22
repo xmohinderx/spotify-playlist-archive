@@ -4,7 +4,7 @@
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD?si=QNcFpJs8TzufWSO\_O23CTg" > Bob Marley </a>  and <a href="https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=c8FUtYCvSY2bCeN6w3wXRg" > Sarkodie </a>
 
-274 songs - 14 hr 59 min
+275 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,5 +282,6 @@
 | [you know.](https://open.spotify.com/track/0GYpa6GYpJAOvC1ySnNRGE) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [you know.](https://open.spotify.com/album/1URgQgR5u5Fvt4lSf7VuKK) | 3:55 | 2022-07-14 | 2022-09-03 |
 | [Ziya Khala](https://open.spotify.com/track/2rmAdvW1snyycYiCgSKsrp) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [Ziya Khala](https://open.spotify.com/album/5SJD74L6baR4ROiiVFMVYf) | 5:44 | 2022-08-12 | 2022-09-24 |
 | [Zulu Screams \(feat\. Maleek Berry & Bibi Bourelly\)](https://open.spotify.com/track/2YRDTr0reanrGZOTsWXdek) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Diaspora](https://open.spotify.com/album/790qROmQ1y4aPEYLcSkScH) | 2:57 | 2021-10-08 | 2022-01-28 |
+| [힙합 \(HIPHOP\) Remastered](https://open.spotify.com/track/39YFiyHIUaFeL1u8sY1A90) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Illson](https://open.spotify.com/artist/3tky4Wd4sPBqtiHVdAr9R8) | [힙합 \(HIPHOP\) Remastered](https://open.spotify.com/album/5QZwHwHDkUVTBm0vZuAqSX) | 3:14 | 2023-01-19 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

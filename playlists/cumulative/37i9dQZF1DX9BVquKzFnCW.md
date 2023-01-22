@@ -4,7 +4,7 @@
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-185 songs - 16 hr 38 min
+186 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Now!](https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG) | 4:15 | 2022-02-23 |  |
 | [I'm Just A Lucky So And So](https://open.spotify.com/track/0ELeaBGn9P1cddgiyz6tEi) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Soul Call](https://open.spotify.com/album/15ccY5H0H0HAVSLRuZwo1S) | 5:12 | 2022-02-23 |  |
 | [I've Grown Accustomed To Your Face](https://open.spotify.com/track/48VD2hFqAloMuDn9fLRp43) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Rollins Plays For Bird](https://open.spotify.com/album/7xdC42wA0bImc44aPgC6GW) | 4:52 | 2022-09-22 |  |
-| [If I Were A Bell](https://open.spotify.com/track/6cp5rZOUVR0DWMf97J1VLy) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Bond: The Paris Sessions](https://open.spotify.com/album/7Gz8HtQfjCxFNNFD67MuI2) | 7:46 | 2022-02-23 |  |
+| [If I Were A Bell](https://open.spotify.com/track/6cp5rZOUVR0DWMf97J1VLy) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Bond: The Paris Sessions](https://open.spotify.com/album/7Gz8HtQfjCxFNNFD67MuI2) | 7:46 | 2022-02-23 | 2023-01-22 |
 | [If I Were A Bell](https://open.spotify.com/track/5lGq5kSDArh2UVqXAbHVng) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 6:38 | 2022-09-15 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/3glQOWRCAQIrCnQhWBEFSL) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Sonny Rollins With The Modern Jazz Quartet](https://open.spotify.com/album/1Vnn90iSXyOn5jCh0l9Usl) | 3:17 | 2022-02-23 | 2022-10-07 |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/4c9u4ruTL1xWv2YcnS8AjN) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 5:39 | 2022-02-23 | 2022-09-09 |
@@ -189,6 +189,7 @@
 | [Working the Night Shift](https://open.spotify.com/track/3Z20hsq9GRuI2AP5Rx5gwW) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Working the Night Shift](https://open.spotify.com/album/5qnAFOL2HK4Ly20bk5ixYi) | 3:55 | 2022-12-22 | 2023-01-20 |
 | [Wrapped Tight](https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 3:28 | 2022-02-23 |  |
 | [Yardbird Suite](https://open.spotify.com/track/4Fzc7Z3S4PRU85oWKnhIM1) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Return Of Art Pepper](https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT) | 5:44 | 2022-02-23 |  |
+| [You Stepped Out Of A Dream \- Remastered](https://open.spotify.com/track/1PiW5cq6ReVpNbSGMw2x1o) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:34 | 2023-01-19 |  |
 | [You'd Be So Nice To Come Home To](https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 3:36 | 2022-12-02 |  |
 | [You're My Everything](https://open.spotify.com/track/2if6fg81tcHazUisCKkXbU) | [Tim Lin](https://open.spotify.com/artist/5bBXTNFET9gZwjonZi8Srt) | [You're My Everything](https://open.spotify.com/album/3CEpJdAUBq5tj9sgeMVWMq) | 6:01 | 2022-04-22 | 2022-08-30 |
 | [Your Mind Is on Vacation](https://open.spotify.com/track/1GEf45ad9tT9njeDYw9WPx) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [I Don't Worry About A Thing](https://open.spotify.com/album/58vFtbiyFPwDKwdhRI5D4V) | 2:37 | 2022-05-13 | 2022-08-18 |

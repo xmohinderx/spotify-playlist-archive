@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2010s. Cover: Keane",
-  "num_followers": 74120,
+  "num_followers": 74248,
   "original_name": "10s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ2MDEzNCwwMDAwMDAwMDFhMmMzZWYxZGUyZGRlZGNhMDA2MzkzNDY5MzVjNDNj",
+  "snapshot_id": "MTY3MzQ2MDEzNCwwMDAwMDAwMDhkNTQ0ZmNkMTkxNDRhMzNkMmY0NGUzM2VjYzQxY2Q1",
   "tracks": [
     {
       "added_at": "2023-01-11 18:02:14",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 283528,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "The Strange Case of... (Deluxe)",
         "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 177546,
       "name": "Here's to Us",
       "url": "https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 283528,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin"
     },
     {
       "added_at": "2023-01-11 18:02:14",

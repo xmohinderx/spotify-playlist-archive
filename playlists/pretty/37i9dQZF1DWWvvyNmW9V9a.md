@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Wednesday Addams has put her paws up
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,953,407 likes - 103 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,956,986 likes - 103 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

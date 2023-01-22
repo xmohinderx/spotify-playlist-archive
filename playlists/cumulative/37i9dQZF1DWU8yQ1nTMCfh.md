@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del Rock en Español\. Cover: Wiplash
 
-144 songs - 8 hr 9 min
+145 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [No Es Para Todos](https://open.spotify.com/track/5vsZ9Uunj2VFGW4YnX71t3) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [No es para todos](https://open.spotify.com/album/3Q1V5xmb2EvSob6xKKO2DU) | 1:33 | 2022-04-15 | 2022-12-10 |
 | [No Estoy Roto](https://open.spotify.com/track/4jT6v8PugBI98OFU1I9SJs) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [No Estoy Roto](https://open.spotify.com/album/47GSu9M63q84E8iNFeXu6A) | 4:13 | 2022-04-15 | 2022-12-13 |
 | [No Hay Santos](https://open.spotify.com/track/7DKQCK4zNtLFy2qy0AopOB) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [Nuevos Silencios](https://open.spotify.com/album/0HsZpQ6L8DJgSUFNSazZoG) | 2:44 | 2022-04-15 | 2022-12-10 |
+| [No me preguntes por qué](https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [No me preguntes por qué](https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu) | 2:53 | 2023-01-20 |  |
 | [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 | 2022-07-19 |  |
 | [No Te Imaginás](https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:31 | 2022-04-15 |  |
 | [NO VUELVAS](https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e) | [NO VUELVAS](https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg) | 2:58 | 2022-08-08 | 2022-12-17 |
@@ -122,7 +123,7 @@
 | [REMORDIMIENTO](https://open.spotify.com/track/2LzcBK5hfCP5sRKpGQmWpX) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [REMORDIMIENTO](https://open.spotify.com/album/5j7qcWBm36z31n2E6woUhZ) | 3:07 | 2022-12-16 | 2023-01-06 |
 | [Rorschach](https://open.spotify.com/track/6rR46xoz4xucXXnIn5wWNi) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Rorschach](https://open.spotify.com/album/2tv9tKzFcJC4h1hfbLgo0c) | 3:57 | 2023-01-13 | 2023-01-19 |
 | [Sandwich de Monda](https://open.spotify.com/track/7egAAtDHS0QIaEdqYHhvjC) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Sandwich de Monda](https://open.spotify.com/album/77T0wIqtqyCTzQiLNYywOU) | 1:37 | 2022-04-15 | 2022-12-10 |
-| [Señales \- Acústico](https://open.spotify.com/track/0dQv32aSIEcqwKZeBfO0bH) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Poniente \(Acústico\)](https://open.spotify.com/album/7IZUILLpY4ho94148ai5QI) | 3:14 | 2022-12-30 |  |
+| [Señales \- Acústico](https://open.spotify.com/track/0dQv32aSIEcqwKZeBfO0bH) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Poniente \(Acústico\)](https://open.spotify.com/album/7IZUILLpY4ho94148ai5QI) | 3:14 | 2022-12-30 | 2023-01-22 |
 | [Si En Tu Mente Estuve](https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ROY](https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh) | 3:11 | 2022-12-09 |  |
 | [Si Te Pierdes, Nos Perdemos Juntos \| Ui](https://open.spotify.com/track/07Y5e1JIb0SktfRaCmKgpD) | [De Osos](https://open.spotify.com/artist/6QYqaSY7KhpQjMqIbqEh8K), [Throne For A Coward](https://open.spotify.com/artist/03emA0Aj3p5X2HLWjpJ2NK) | [Modificaciones del Modelo Original](https://open.spotify.com/album/6gnmos5liRTIAotnBdDjJL) | 5:13 | 2022-04-15 | 2022-12-10 |
 | [Sintonízate](https://open.spotify.com/track/44664P6a23SRPxG3RzJwVs) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [Sintonízate](https://open.spotify.com/album/4INjnB6dE6HFMh6fPQmXB3) | 2:38 | 2022-04-15 | 2022-12-10 |

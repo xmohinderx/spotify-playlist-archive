@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Nostalgix",
-  "num_followers": 411375,
+  "num_followers": 411559,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDI0NTE1OCwwMDAwMDAwMDY3OWVkZGFjYTdiZDRjMzEzZTQ4OTg2ODNhNDlmNzI1",
+  "snapshot_id": "MTY3NDI0NTE1OCwwMDAwMDAwMDYyOWVhMGM4M2RhOWQ3OTk5MTJjOGZmOGZlYmY3ZDIy",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -311,26 +311,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr"
-      },
-      "artists": [
-        {
-          "name": "Holy Goof",
-          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
-        },
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        }
-      ],
-      "duration_ms": 187423,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/7qm3YjedUCXH2p58VLwUHi"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Banga",
         "url": "https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 141897,
       "name": "Banga",
       "url": "https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/2CGESyjnHOzZiisdclbMLr"
+      },
+      "artists": [
+        {
+          "name": "Holy Goof",
+          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
+        },
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "duration_ms": 187423,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/7qm3YjedUCXH2p58VLwUHi"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Bump Bump Bump (Bom Bom)",
-        "url": "https://open.spotify.com/album/72UksATBqIoaadFYwn0Dqh"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Bump Bump Bump (Bom Bom)",
-      "url": "https://open.spotify.com/track/0Kh1JKeJMAvFxv91HZ8uYU"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "WTF",
         "url": "https://open.spotify.com/album/2eXlq1OrbNgBMHITjxIV9E"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 138537,
       "name": "WTF",
       "url": "https://open.spotify.com/track/7is2hGbIe9yPQnc9L0vjHc"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Bump Bump Bump (Bom Bom)",
+        "url": "https://open.spotify.com/album/72UksATBqIoaadFYwn0Dqh"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Bump Bump Bump (Bom Bom)",
+      "url": "https://open.spotify.com/track/0Kh1JKeJMAvFxv91HZ8uYU"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -619,22 +619,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
+        "name": "Bassline Rumble",
+        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
       },
       "artists": [
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         }
       ],
-      "duration_ms": 171076,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
+      "duration_ms": 175969,
+      "name": "Bassline Rumble",
+      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -675,18 +671,38 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Bassline Rumble",
-        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
       },
       "artists": [
         {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
         }
       ],
-      "duration_ms": 175969,
-      "name": "Bassline Rumble",
-      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
+      "duration_ms": 171076,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Deep In LA",
+        "url": "https://open.spotify.com/album/4yI5ry3atQU0uekSqIS9Q1"
+      },
+      "artists": [
+        {
+          "name": "Dirty Audio",
+          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Deep In LA",
+      "url": "https://open.spotify.com/track/36FAlEL4gmVTdUpPjnPtRV"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -707,6 +723,26 @@
       "duration_ms": 157741,
       "name": "MIRRORS",
       "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Front To Back (feat. DLMT)",
+        "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
+      },
+      "artists": [
+        {
+          "name": "FOMO",
+          "url": "https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "Front To Back (feat. DLMT)",
+      "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -743,42 +779,6 @@
       "duration_ms": 155520,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Deep In LA",
-        "url": "https://open.spotify.com/album/4yI5ry3atQU0uekSqIS9Q1"
-      },
-      "artists": [
-        {
-          "name": "Dirty Audio",
-          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Deep In LA",
-      "url": "https://open.spotify.com/track/36FAlEL4gmVTdUpPjnPtRV"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Front To Back (feat. DLMT)",
-        "url": "https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR"
-      },
-      "artists": [
-        {
-          "name": "FOMO",
-          "url": "https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "Front To Back (feat. DLMT)",
-      "url": "https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Grimestar",
-        "url": "https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt"
+        "name": "Work It",
+        "url": "https://open.spotify.com/album/4BNzkfb073vw9TvdtvGZRK"
       },
       "artists": [
         {
-          "name": "Starjunk 95",
-          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
         }
       ],
-      "duration_ms": 168857,
-      "name": "Grimestar",
-      "url": "https://open.spotify.com/track/2dJbz9Q2X33c7l9uCRxoy5"
+      "duration_ms": 154285,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/2jC6oAT2P3w9HQBrRcQqFl"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Work It",
-        "url": "https://open.spotify.com/album/4BNzkfb073vw9TvdtvGZRK"
+        "name": "Grimestar",
+        "url": "https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt"
       },
       "artists": [
         {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+          "name": "Starjunk 95",
+          "url": "https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/2jC6oAT2P3w9HQBrRcQqFl"
+      "duration_ms": 168857,
+      "name": "Grimestar",
+      "url": "https://open.spotify.com/track/2dJbz9Q2X33c7l9uCRxoy5"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "High Vaultage EP",
-        "url": "https://open.spotify.com/album/3FYAvx8nplQwbciVpHe7y5"
-      },
-      "artists": [
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        },
-        {
-          "name": "Watch",
-          "url": "https://open.spotify.com/artist/036bvTwDThpn1xsB38mBX3"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "Not Bees",
-      "url": "https://open.spotify.com/track/6XQoXvZzIIOsUVobKDwPtg"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/2eZsDmAcZj27p3B73kbcYp"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 232727,
       "name": "Rush",
       "url": "https://open.spotify.com/track/2a9hp6HbEtzUQBLv5C81mw"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "High Vaultage EP",
+        "url": "https://open.spotify.com/album/3FYAvx8nplQwbciVpHe7y5"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        },
+        {
+          "name": "Watch",
+          "url": "https://open.spotify.com/artist/036bvTwDThpn1xsB38mBX3"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "Not Bees",
+      "url": "https://open.spotify.com/track/6XQoXvZzIIOsUVobKDwPtg"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Grit",
-        "url": "https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU"
-      },
-      "artists": [
-        {
-          "name": "Bossfight",
-          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
-        }
-      ],
-      "duration_ms": 283125,
-      "name": "Grit",
-      "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "HYPE HOP 001",
         "url": "https://open.spotify.com/album/6lrNWW4lkSLyFg64ajFjWk"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 160066,
       "name": "BOP - Hype Hop Edit (feat. DillanPonders, Kris the $pirit)",
       "url": "https://open.spotify.com/track/4pbekeVfUyyCNrBXgLBahS"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Grit",
+        "url": "https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "duration_ms": 283125,
+      "name": "Grit",
+      "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Funky Sound",
+        "url": "https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "HINA",
+          "url": "https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K"
+        }
+      ],
+      "duration_ms": 139921,
+      "name": "Funky Sound",
+      "url": "https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Who U With",
         "url": "https://open.spotify.com/album/1waUr0RXjEInyT5ogwL7no"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 161574,
       "name": "Who U With",
       "url": "https://open.spotify.com/track/5HT38iBHCUQTowmql1g8Bm"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Funky Sound",
-        "url": "https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR"
-      },
-      "artists": [
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "HINA",
-          "url": "https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K"
-        }
-      ],
-      "duration_ms": 139921,
-      "name": "Funky Sound",
-      "url": "https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1491,6 +1491,30 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Tune",
+        "url": "https://open.spotify.com/album/0wN5zaRkX38Eh8U8myFobq"
+      },
+      "artists": [
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "DJ Q",
+          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
+        },
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Tune",
+      "url": "https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Respect",
         "url": "https://open.spotify.com/album/6Z798WbpiEx18P6b7R0yRe"
       },
@@ -1515,26 +1539,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Tune",
-        "url": "https://open.spotify.com/album/0wN5zaRkX38Eh8U8myFobq"
+        "name": "The One",
+        "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
       },
       "artists": [
         {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+          "name": "DEVOWR.",
+          "url": "https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X"
         },
         {
-          "name": "DJ Q",
-          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
-        },
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Tune",
-      "url": "https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS"
+      "duration_ms": 215238,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1571,26 +1591,6 @@
       "duration_ms": 222580,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/2aYs0Kg0Mt9XbmzPml3pND"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO"
-      },
-      "artists": [
-        {
-          "name": "DEVOWR.",
-          "url": "https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X"
-        },
-        {
-          "name": "AK RENNY",
-          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1999,26 +1999,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Another Level",
-        "url": "https://open.spotify.com/album/4DM2CQxwKHr0JngDDJHPbs"
-      },
-      "artists": [
-        {
-          "name": "NO SIGNE",
-          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
-        },
-        {
-          "name": "Maroox",
-          "url": "https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU"
-        }
-      ],
-      "duration_ms": 188287,
-      "name": "Another Level",
-      "url": "https://open.spotify.com/track/5fYnx6xU6bThE37aN1F4vH"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/4ffsuX1oMvA5cbSgAyMmIv"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 167459,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/2yBTcEYoW6jD1I1xosjcHd"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/4DM2CQxwKHr0JngDDJHPbs"
+      },
+      "artists": [
+        {
+          "name": "NO SIGNE",
+          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
+        },
+        {
+          "name": "Maroox",
+          "url": "https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU"
+        }
+      ],
+      "duration_ms": 188287,
+      "name": "Another Level",
+      "url": "https://open.spotify.com/track/5fYnx6xU6bThE37aN1F4vH"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Rock Like This",
+        "url": "https://open.spotify.com/album/4YOlaEvz0Ttj6jYZa2EPHQ"
+      },
+      "artists": [
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+        }
+      ],
+      "duration_ms": 157862,
+      "name": "Rock Like This",
+      "url": "https://open.spotify.com/track/18RDXgNcOosDmIxB2Bk8ke"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Licked",
         "url": "https://open.spotify.com/album/3I549AvPzDfWUItpvHSid4"
       },
@@ -2211,22 +2227,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Rock Like This",
-        "url": "https://open.spotify.com/album/4YOlaEvz0Ttj6jYZa2EPHQ"
-      },
-      "artists": [
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
-        }
-      ],
-      "duration_ms": 157862,
-      "name": "Rock Like This",
-      "url": "https://open.spotify.com/track/18RDXgNcOosDmIxB2Bk8ke"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Doubt",
         "url": "https://open.spotify.com/album/0xHugNF1NjxuxzQ9ZBoST5"
       },
@@ -2239,34 +2239,6 @@
       "duration_ms": 204772,
       "name": "Doubt",
       "url": "https://open.spotify.com/track/19fbSSCnqvo0rmqCCsSHnN"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Giving Up On Love",
-        "url": "https://open.spotify.com/album/0ZVqV79CTkqSGhGBXdUbO5"
-      },
-      "artists": [
-        {
-          "name": "4Korners",
-          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
-        },
-        {
-          "name": "Ashton Adams",
-          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
-        },
-        {
-          "name": "Michael Malcolm",
-          "url": "https://open.spotify.com/artist/2YHDC8kXCYzRA7DSJjNH8U"
-        },
-        {
-          "name": "401 WST",
-          "url": "https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Giving Up On Love",
-      "url": "https://open.spotify.com/track/3WhW8hmR8tFQjpZBIFNLw6"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -2311,6 +2283,34 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Giving Up On Love",
+        "url": "https://open.spotify.com/album/0ZVqV79CTkqSGhGBXdUbO5"
+      },
+      "artists": [
+        {
+          "name": "4Korners",
+          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+        },
+        {
+          "name": "Ashton Adams",
+          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
+        },
+        {
+          "name": "Michael Malcolm",
+          "url": "https://open.spotify.com/artist/2YHDC8kXCYzRA7DSJjNH8U"
+        },
+        {
+          "name": "401 WST",
+          "url": "https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Giving Up On Love",
+      "url": "https://open.spotify.com/track/3WhW8hmR8tFQjpZBIFNLw6"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/152sZrZc6xAtqSE0Y9fqv9"
       },
@@ -2347,18 +2347,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "City Of Lights",
-        "url": "https://open.spotify.com/album/0lhKewAQzYzvNyONpUKhjE"
+        "name": "Westcoaster (AC Slater Remix)",
+        "url": "https://open.spotify.com/album/2tflgDhdqeFcODUF7SfbBf"
       },
       "artists": [
         {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+          "name": "Phlegmatic Dogs",
+          "url": "https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe"
+        },
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         }
       ],
-      "duration_ms": 197746,
-      "name": "City Of Lights",
-      "url": "https://open.spotify.com/track/0g9y5TxBEyAyGmY3O2ZKAH"
+      "duration_ms": 230000,
+      "name": "Westcoaster - AC Slater Remix",
+      "url": "https://open.spotify.com/track/3rcqrxKzMgfmJGUCDRYrgO"
     },
     {
       "added_at": "2023-01-13 05:00:00",

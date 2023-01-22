@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,824 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,872 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [Okay Yeah!](https://open.spotify.com/track/2MyBXnGc9dK06pceZaNIul) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Okay Yeah!](https://open.spotify.com/album/5hOKJshWZ2bLaVg0qdnVaA) | 1:40 |
 | 50 | [Boss Bitch \(feat\. Coi Leray\)](https://open.spotify.com/track/2UtlqGUjgniHzwawSJhvdh) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Boss Bitch \(feat\. Coi Leray\)](https://open.spotify.com/album/7wdF4AvgD0sDdslF9l5FgP) | 2:31 |
 
-Snapshot ID: `Mjc5MDM3NTksMDAwMDAwMDA3YzQwMTA2ODIwNWRhZWNhZTk5YjkyZmZmNDc2YWNhZg==`
+Snapshot ID: `Mjc5MDUxMjEsMDAwMDAwMDBjOTE5YTA0NjVjNGY0ODUzNGYzYTlkMjE3YjMwNTU5Nw==`

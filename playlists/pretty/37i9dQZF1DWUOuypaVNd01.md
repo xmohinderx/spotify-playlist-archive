@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Malcolm VL, Jotapê
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,297 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,307 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 41 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
 | 42 | [Serenata](https://open.spotify.com/track/0i3tVVp12fqp55ZediozgQ) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [O Peso das Barra](https://open.spotify.com/album/1NQxhguiFlOyNnshi7qpkL) | 2:38 |
 | 43 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V), [Moraez](https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
-| 44 | [Vilão / Kmila Cdd](https://open.spotify.com/track/59axndxpWFGRG6Hee9isUL) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD), [MC Martina](https://open.spotify.com/artist/5Zdd7OXYYhoqgGlF6dKxde) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:16 |
-| 45 | [Eu Ainda](https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Eu Ainda](https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd) | 3:08 |
+| 44 | [Eu Ainda](https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Eu Ainda](https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd) | 3:08 |
+| 45 | [Vilão / Kmila Cdd](https://open.spotify.com/track/59axndxpWFGRG6Hee9isUL) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD), [MC Martina](https://open.spotify.com/artist/5Zdd7OXYYhoqgGlF6dKxde) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:16 |
 | 46 | [BlackNoir](https://open.spotify.com/track/1EKQ1TYU3Ddo5MxY4PMeHp) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [BlackNoir](https://open.spotify.com/album/1rHWvpXpE01SNUECV3YusE) | 2:44 |
 | 47 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 48 | [Joga e Descontrai](https://open.spotify.com/track/2shKQJp8LXNDlD7N79MLRC) | [M4ridão 70](https://open.spotify.com/artist/38ITayRnrKrR0A7RpqILI4), [Bragadok](https://open.spotify.com/artist/4rVt7hTJTBUspoIHMoGpHu) | [Joga e Descontrai](https://open.spotify.com/album/1GkAILVDeTqdESnKt6kKr9) | 2:52 |
 | 49 | [Falcon](https://open.spotify.com/track/6w1q6fG07BBKzCbJ0z7CDk) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Mundo Invertido](https://open.spotify.com/album/5FYBIbs8Lyc2g469Lmot0J) | 3:29 |
 | 50 | [Revolver](https://open.spotify.com/track/69YjloyYsj7FaOAGNeuFNd) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd) | [Revolver](https://open.spotify.com/album/0JVnfJptZI4eLmQmoJjmMb) | 3:40 |
 
-Snapshot ID: `MTY3NDE4MzY2MCwwMDAwMDAwMGQ4NjRkY2MxOWQ3ZTJlNTRjNjk3ZDM2NDk0OTZiNmRj`
+Snapshot ID: `MTY3NDE4MzY2MCwwMDAwMDAwMGViYTZlNWI3MTU4ZDkwMmVjZDc4ZmM1OWY4MDdhOTNl`

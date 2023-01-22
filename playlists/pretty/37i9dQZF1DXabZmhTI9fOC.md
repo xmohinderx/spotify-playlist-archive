@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,243 likes - 262 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,247 likes - 262 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 177 | [Always Been U](https://open.spotify.com/track/35jQAfJWI7FlOo0MP1CV0W) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi), [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Get in My Arms](https://open.spotify.com/album/2RAeZ4l4q0phX0OLz8bb85) | 3:03 |
 | 178 | [Sunkissed Dreamland](https://open.spotify.com/track/6N88pJJzx22yxYqrQOQlkM) | [Friends At The Falls](https://open.spotify.com/artist/5RASv130lmR8GyP0EcQLjJ) | [Sunkissed Dreamland](https://open.spotify.com/album/6fLwCSUrPtRa5nog1X5HR4) | 3:38 |
 | 179 | [Next to Me](https://open.spotify.com/track/6NAFSxL8yGctNgHqxfQEF5) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/7oVcfv2fbyY1Z3xfqwbSPp) | 5:14 |
-| 180 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 |
+| 180 | [WITHOUT YOU](https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:41 |
 | 181 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 |
 | 182 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 |
 | 183 | [Taste Of Your Love \(feat\. KOOLKID\)](https://open.spotify.com/track/3MYCQktaoMWhtaP2Uq7mhn) | [Voost](https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Taste Of Your Love \(feat\. KOOLKID\)](https://open.spotify.com/album/6lSZJnyi5M15n0FrATvHZn) | 2:25 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 261 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 |
 | 262 | [Everybody Get Up](https://open.spotify.com/track/1N33YOi540BN6xXXiP0WjL) | [Yes Yes No Maybe](https://open.spotify.com/artist/125Kdt1Do4mnDhFALzs0LT) | [Start the Fire](https://open.spotify.com/album/4c3ehhboJ1XlgNSvpFKNh1) | 3:32 |
 
-Snapshot ID: `MTY2MTczNzU4MywwMDAwMDAwMDliNjNkYjEyMzI0YTJhMTBjMDk1ZDlkMjdlMzQwY2Y2`
+Snapshot ID: `MTY2MTczNzU4MywwMDAwMDAwMGU4YTA1MTg0YWM1NGMyZDQxMzc5YjdjMDdhOWU2YmU0`

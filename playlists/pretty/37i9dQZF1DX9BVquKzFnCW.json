@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
-  "num_followers": 11825,
+  "num_followers": 11873,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDExMzYxMywwMDAwMDAwMDAyYTNjOWNlZTk5MDdiYzY3NGJiOTdmYTQ2MDNlNWRh",
+  "snapshot_id": "MTY3NDExMzYxMywwMDAwMDAwMDQ1NzE4NzQyNDBmOTMyMTRiM2QzYmRiZmJjNjFhZjc2",
   "tracks": [
     {
       "added_at": "2023-01-19 07:33:33",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
-        "name": "Brass Shout",
-        "url": "https://open.spotify.com/album/4J45qykVYkRLFMQGdQEJGn"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        }
-      ],
-      "duration_ms": 310480,
-      "name": "Autumn Leaves - Remastered 2007",
-      "url": "https://open.spotify.com/track/0SHa5TRydRy8RCEova7OkA"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
         "name": "Everybody Digs Bill Evans",
         "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 214440,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
+        "name": "Brass Shout",
+        "url": "https://open.spotify.com/album/4J45qykVYkRLFMQGdQEJGn"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "duration_ms": 310480,
+      "name": "Autumn Leaves - Remastered 2007",
+      "url": "https://open.spotify.com/track/0SHa5TRydRy8RCEova7OkA"
     },
     {
       "added_at": "2023-01-19 07:33:33",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 304373,
-      "name": "Stompin' At The Savoy",
-      "url": "https://open.spotify.com/track/6uoJ2NJAwM4ypScoRbGZyR"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
         "name": "Duke Ellington Meets Coleman Hawkins",
         "url": "https://open.spotify.com/album/0Kggi4r3OcApji9xJI3olG"
       },
@@ -395,22 +379,6 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 198360,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/0f2HoOAhmbJdO26eZGLqIV"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -423,6 +391,38 @@
       "duration_ms": 185800,
       "name": "Don't Get Around Much Any More",
       "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 304373,
+      "name": "Stompin' At The Savoy",
+      "url": "https://open.spotify.com/track/6uoJ2NJAwM4ypScoRbGZyR"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 198360,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/0f2HoOAhmbJdO26eZGLqIV"
     },
     {
       "added_at": "2023-01-19 07:33:33",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Pick up Sticks",
+      "url": "https://open.spotify.com/track/0XugQpP1aeQwpdGKHpjcci"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
         "name": "Oscar Peterson Trio Plus One",
         "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 315893,
       "name": "Mack The Knife",
       "url": "https://open.spotify.com/track/4tJb85eDxIIm2frcwb8PAG"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 256466,
-      "name": "Pick up Sticks",
-      "url": "https://open.spotify.com/track/0XugQpP1aeQwpdGKHpjcci"
     },
     {
       "added_at": "2023-01-19 07:33:33",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
-        "name": "Music For Lovers",
-        "url": "https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 462773,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
         "name": "The Steamer (Expanded Edition)",
         "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 390666,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
+        "name": "Music For Lovers",
+        "url": "https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 462773,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK"
     },
     {
       "added_at": "2023-01-19 07:33:33",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
-        "name": "Cannonball Adderley Quintet In Chicago",
-        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
-      },
-      "artists": [
-        {
-          "name": "The Cannonball Adderley Quintet",
-          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
-        }
-      ],
-      "duration_ms": 374840,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/4nslzINuZ9ZU5jhIj2xSNO"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 216693,
       "name": "You'd Be So Nice To Come Home To",
       "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
+        "name": "Cannonball Adderley Quintet In Chicago",
+        "url": "https://open.spotify.com/album/5XrBfIAn0HPSmeOvcmkNpk"
+      },
+      "artists": [
+        {
+          "name": "The Cannonball Adderley Quintet",
+          "url": "https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7"
+        }
+      ],
+      "duration_ms": 374840,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/4nslzINuZ9ZU5jhIj2xSNO"
     },
     {
       "added_at": "2023-01-19 07:33:33",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
-        "name": "Gettin' Around",
-        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 467626,
-      "name": "Heartaches",
-      "url": "https://open.spotify.com/track/6JtGvHxC6mW8aVy6ZEnWIA"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
         "name": "Soul Call",
         "url": "https://open.spotify.com/album/15ccY5H0H0HAVSLRuZwo1S"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 304333,
       "name": "Star Eyes",
       "url": "https://open.spotify.com/track/4KNkkhjjYXyJMzq5fRi1gm"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
+        "name": "Gettin' Around",
+        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 467626,
+      "name": "Heartaches",
+      "url": "https://open.spotify.com/track/6JtGvHxC6mW8aVy6ZEnWIA"
     },
     {
       "added_at": "2023-01-19 07:33:33",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
+        "name": "Buddy And Sweets",
+        "url": "https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich",
+          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
+        },
+        {
+          "name": "Harry \"Sweets\" Edison",
+          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "Nice Work If You Can Get It",
+      "url": "https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
         "name": "Rollins Plays For Bird",
         "url": "https://open.spotify.com/album/7xdC42wA0bImc44aPgC6GW"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 292426,
       "name": "I've Grown Accustomed To Your Face",
       "url": "https://open.spotify.com/track/48VD2hFqAloMuDn9fLRp43"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
-        "name": "Buddy And Sweets",
-        "url": "https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc"
-      },
-      "artists": [
-        {
-          "name": "Buddy Rich",
-          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
-        },
-        {
-          "name": "Harry \"Sweets\" Edison",
-          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
-        }
-      ],
-      "duration_ms": 244706,
-      "name": "Nice Work If You Can Get It",
-      "url": "https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU"
     },
     {
       "added_at": "2023-01-19 07:33:33",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/3V2IgdbFSyoAYBwTujQ7GL"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
         "name": "Lee Konitz Meets Jimmy Giuffre",
         "url": "https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 235266,
       "name": "Uncharted",
       "url": "https://open.spotify.com/track/3Jp9JcePzezvMPoXvAduHt"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 204200,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/3V2IgdbFSyoAYBwTujQ7GL"
     },
     {
       "added_at": "2023-01-19 07:33:33",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/3JKnr1nLxocKNQMpmpAhpt"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
         "name": "The Deep",
         "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
       },
@@ -1259,38 +1275,6 @@
       "duration_ms": 217993,
       "name": "Freedom Jazz Dance",
       "url": "https://open.spotify.com/track/2Y3LodqaNIgE1MwTaX7C6o"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 457186,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
-        "name": "How My Heart Sings! [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/03DYlPuBuICW1aTbvwbDjl"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 299960,
-      "name": "How My Heart Sings",
-      "url": "https://open.spotify.com/track/6wXyHw8n3mmrcqYJHimRPe"
     },
     {
       "added_at": "2023-01-19 07:33:33",
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
+        "name": "How My Heart Sings! [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/03DYlPuBuICW1aTbvwbDjl"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/3JKnr1nLxocKNQMpmpAhpt"
+      "duration_ms": 299960,
+      "name": "How My Heart Sings",
+      "url": "https://open.spotify.com/track/6wXyHw8n3mmrcqYJHimRPe"
     },
     {
       "added_at": "2023-01-19 07:33:33",
@@ -1339,6 +1323,22 @@
       "duration_ms": 494440,
       "name": "Interplay",
       "url": "https://open.spotify.com/track/49AFmEeq9Ulx4YXA24yNKJ"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 457186,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
     },
     {
       "added_at": "2023-01-19 07:33:33",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
-        "name": "Modern Art",
-        "url": "https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        }
-      ],
-      "duration_ms": 294973,
-      "name": "The Touch Of Your Lips - Remastered",
-      "url": "https://open.spotify.com/track/3ZTityDuOCHIM7ow7twjmX"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
         "name": "Bird Feathers (Remastered)",
         "url": "https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 352440,
       "name": "Solar",
       "url": "https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
+        "name": "Modern Art",
+        "url": "https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "duration_ms": 294973,
+      "name": "The Touch Of Your Lips - Remastered",
+      "url": "https://open.spotify.com/track/3ZTityDuOCHIM7ow7twjmX"
     },
     {
       "added_at": "2023-01-19 07:33:33",
@@ -1527,38 +1527,6 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
-        "name": "Laughin' to Keep From Cryin'",
-        "url": "https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 512266,
-      "name": "Salute To Benny",
-      "url": "https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
-        "name": "The Return Of Art Pepper",
-        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 344373,
-      "name": "Yardbird Suite",
-      "url": "https://open.spotify.com/track/4Fzc7Z3S4PRU85oWKnhIM1"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
         "name": "Ben And \"Sweets\"",
         "url": "https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk"
       },
@@ -1579,18 +1547,34 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
-        "name": "First Place Again",
-        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
+        "name": "The Return Of Art Pepper",
+        "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 518733,
-      "name": "I Get a Kick out of You",
-      "url": "https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV"
+      "duration_ms": 344373,
+      "name": "Yardbird Suite",
+      "url": "https://open.spotify.com/track/4Fzc7Z3S4PRU85oWKnhIM1"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
+        "name": "Laughin' to Keep From Cryin'",
+        "url": "https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 512266,
+      "name": "Salute To Benny",
+      "url": "https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu"
     },
     {
       "added_at": "2023-01-19 07:33:33",
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
+        "name": "First Place Again",
+        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 518733,
+      "name": "I Get a Kick out of You",
+      "url": "https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
         "name": "The Golden Flute",
         "url": "https://open.spotify.com/album/4BmWdFMdpfZgKpspsAdqZZ"
       },
@@ -1639,22 +1639,6 @@
       "duration_ms": 231706,
       "name": "Rosetta",
       "url": "https://open.spotify.com/track/5OtACP7f32kZgVEXCgVsjs"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
-        "name": "JuJu",
-        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
     },
     {
       "added_at": "2023-01-19 07:33:33",
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
+        "name": "JuJu",
+        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
         "name": "Back East",
         "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
       },
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-01-19 07:33:33",
       "album": {
+        "name": "A Swingin' Affair",
+        "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 394080,
+      "name": "You Stepped Out Of A Dream - Remastered",
+      "url": "https://open.spotify.com/track/1PiW5cq6ReVpNbSGMw2x1o"
+    },
+    {
+      "added_at": "2023-01-19 07:33:33",
+      "album": {
         "name": "The Procrastinator",
         "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 361973,
       "name": "Party Time",
       "url": "https://open.spotify.com/track/0uNoGfQIO8Jtx5vVhlhHg9"
-    },
-    {
-      "added_at": "2023-01-19 07:33:33",
-      "album": {
-        "name": "Bond: The Paris Sessions",
-        "url": "https://open.spotify.com/album/7Gz8HtQfjCxFNNFD67MuI2"
-      },
-      "artists": [
-        {
-          "name": "Gerald Clayton",
-          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
-        }
-      ],
-      "duration_ms": 466026,
-      "name": "If I Were A Bell",
-      "url": "https://open.spotify.com/track/6cp5rZOUVR0DWMf97J1VLy"
     }
   ],
   "unique_name": "Brunch Jazz",

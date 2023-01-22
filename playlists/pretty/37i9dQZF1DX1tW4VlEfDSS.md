@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,395 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,455 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 32 | [Bourgie Bourgie](https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Bourgie Bourgie](https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga) | 6:32 |
 | 33 | [Trouble’s Coming \- Purple Disco Machine Remix](https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Trouble’s Coming \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ) | 4:25 |
 | 34 | [Forever Man \(How Many Times\) \- Earth n Days Remix](https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii) | [Beatchuggers](https://open.spotify.com/artist/036bcSagihiHvS91LAxiAR), [Earth n Days](https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj) | [Forever Man \(How Many Times\) \[Earth n Days Remix\]](https://open.spotify.com/album/3yyp1dD6yJWpGdekqpIcC9) | 3:01 |
-| 35 | [Voodoo? \- Lazywax Remix](https://open.spotify.com/track/2wHeYDrniYngp3did3McYD) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Voodoo? \(Lazywax Remix\)](https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9) | 6:26 |
-| 36 | [Voodoo Babe](https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Voodoo Babe](https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL) | 4:09 |
+| 35 | [Voodoo Babe](https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO) | [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Voodoo Babe](https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL) | 4:09 |
+| 36 | [Voodoo? \- Lazywax Remix](https://open.spotify.com/track/2wHeYDrniYngp3did3McYD) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Voodoo? \(Lazywax Remix\)](https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9) | 6:26 |
 | 37 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
 | 38 | [Rescue Me](https://open.spotify.com/track/4KwWLMzhw4tA3hFCiMfhlB) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Rescue Me](https://open.spotify.com/album/22GaT6kKhz98n3GRieuXte) | 2:27 |
 | 39 | [In My Arms](https://open.spotify.com/track/7f6a2LWROn1HQlG97hDIg6) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [In My Arms](https://open.spotify.com/album/3WALyLgFg8b8r4y31MQRZ0) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [As The Night Moves In](https://open.spotify.com/track/66RBjymDyZBEwXeD4JpY65) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [As The Night Moves In](https://open.spotify.com/album/5OQOHoGN23J7aa1axV6gNv) | 5:40 |
 | 60 | [My Love](https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Charles J](https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS) | [My Love](https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF) | 2:45 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDk2YjZiMDRmOGJiZGI3NmQyYzI4NzQxMGFiOTBjMDk5`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMGQ2MGYzYWE3MTU1MzYwMjgyMjFmZTRhMzMwNWFjYmQz`

@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Ulices Chaidez en portada.
 
-189 songs - 10 hr 9 min
+190 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Marcando La Diferencia](https://open.spotify.com/track/1EUPd55xAcY49hU59aJD5N) | [Victor Eme](https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6) | [Marcando La Diferencia](https://open.spotify.com/album/2AFLpxDXYur6ODyh5eSGHa) | 2:59 | 2022-04-18 |  |
 | [Me Acostumbre A Lo Bueno](https://open.spotify.com/track/1hHnCReCPe1FUkGLTeuCaC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:20 | 2022-02-01 |  |
 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 | 2022-07-01 |  |
+| [Mi Dolor](https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Mi Dolor](https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC) | 3:38 | 2023-01-13 |  |
 | [Mi Morenita](https://open.spotify.com/track/1ZvVinhAqHiK8YdjXu1Cnr) | [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6) | [Mi Morenita](https://open.spotify.com/album/29LGs55jLEj5WjFDB7DdrH) | 3:13 | 2022-04-22 | 2022-07-28 |
 | [Mi Todo](https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Mi Todo](https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9) | 4:01 | 2022-02-22 | 2023-01-21 |
 | [Miedo](https://open.spotify.com/track/5GEnSZnHLmhqulhSseeBNQ) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Renacer](https://open.spotify.com/album/6DlpxVdn2Pzyu0UISlJDDs) | 3:22 | 2022-07-01 | 2022-09-24 |
@@ -194,7 +195,7 @@
 | [Ya Te Supere \- En Vivo](https://open.spotify.com/track/788e0doWXCkDlnufoDndcy) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Peda en la Banqueta](https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS) | 3:05 | 2021-12-27 |  |
 | [Ya Viví El Desamor](https://open.spotify.com/track/5SZcsfj451HOgs3GYxOHgj) | [La Martita](https://open.spotify.com/artist/0v94jdfLfhW6v2zKE6uEJz) | [Ya Viví El Desamor](https://open.spotify.com/album/54rgpyfRluG3hRXR7CQdPi) | 1:41 | 2022-04-01 | 2022-07-28 |
 | [Yo Estaba Solo \- En Vivo](https://open.spotify.com/track/0FJ4mVBV1D1TvXV4UFP12H) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Yo Estaba Solo \(En Vivo\)](https://open.spotify.com/album/0YVpggI6DRcIMGclrWWDYp) | 3:57 | 2022-08-05 | 2022-10-05 |
-| [Yo Te Amaré](https://open.spotify.com/track/7jPO9umUSUsyoaFwTwM5Ey) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Yo Te Amaré](https://open.spotify.com/album/0WdDQcrUytQdVggWjEkXtm) | 2:50 | 2022-04-22 |  |
+| [Yo Te Amaré](https://open.spotify.com/track/7jPO9umUSUsyoaFwTwM5Ey) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Yo Te Amaré](https://open.spotify.com/album/0WdDQcrUytQdVggWjEkXtm) | 2:50 | 2022-04-22 | 2023-01-22 |
 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 | 2021-12-27 |  |
 | [¿Qué Le Pasó Al Niño?](https://open.spotify.com/track/37R5l0oHzlaqTqMgNTL5VR) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [¿Qué Le Pasó Al Niño?](https://open.spotify.com/album/5jVd5hzHCWDJOPO3vi2Xch) | 2:50 | 2023-01-21 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,110 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,166 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 34 | [Pajarito](https://open.spotify.com/track/1wHsoB9av8PlZnw9IlaFov) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Pajarito](https://open.spotify.com/album/6pEChmeml1KjVZ51hH6CMK) | 2:44 |
 | 35 | [Cuando Llegue el Alba](https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI) | [Yamila Cafrune](https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV) | [Herencia](https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ) | 3:57 |
 | 36 | [En Tu Pelo](https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [La Madrugada](https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B) | 4:05 |
-| 37 | [Florcita de Cardón](https://open.spotify.com/track/1U915FEbsFzXgJc048OQC6) | [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Jallalla](https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt) | 3:51 |
-| 38 | [Cuando Me Abandone el Alma](https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 3:24 |
+| 37 | [Cuando Me Abandone el Alma](https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 3:24 |
+| 38 | [Florcita de Cardón](https://open.spotify.com/track/1U915FEbsFzXgJc048OQC6) | [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Jallalla](https://open.spotify.com/album/01SdCRVuXrG61V4nWyHGSt) | 3:51 |
 | 39 | [Para Cantar He Nacido](https://open.spotify.com/track/15CwQprmPxIVMNAz3c1HzM) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Escondido En Mi País](https://open.spotify.com/album/4l7DS6SbiK2ZXaUFJhxegj) | 3:10 |
 | 40 | [De Los Dias, Los Mas Lindos](https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Remedio Pal Alma](https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi) | 3:38 |
 | 41 | [Viene Clareando](https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7) | [Leda Valladares](https://open.spotify.com/artist/32frwpljz9gxJhNZRfkZ34), [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Entre Valles y Quebradas](https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A) | 3:31 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 57 | [La Jardinera](https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz) | [Silvia Iriondo](https://open.spotify.com/artist/6RlNuHRDeVSq9y9VBzgkw7), [Carlos Aguirre & Quinteto de Guitarras](https://open.spotify.com/artist/5M7XdBf3l3PRDNzwPsGvJ5) | [Pasionarias](https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m) | 3:55 |
 | 58 | [Amiga Tierra Querida](https://open.spotify.com/track/2ajI1Zeed4VA6l8h5bXQkD) | [Las Cullen](https://open.spotify.com/artist/3aqZ7IEX7kdnBfr08TvMHf) | [Ruta 9](https://open.spotify.com/album/6PmRqkGtEiJEoGgvrboqgy) | 3:18 |
 | 59 | [Mba e Pa Doña Froilana](https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup) | [Luna Monti y Juan Quintero](https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB) | [Después de Usted](https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF) | 2:33 |
-| 60 | [A la Mañanita](https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be), [Matias Betti](https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc) | [Verdeado Dulzor](https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI) | 2:31 |
-| 61 | [Zamba del Laurel](https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d) | [Lorena Astudillo](https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y) | [El Cuchi de Camara](https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB) | 5:20 |
+| 60 | [Zamba del Laurel](https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d) | [Lorena Astudillo](https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y) | [El Cuchi de Camara](https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB) | 5:20 |
+| 61 | [A la Mañanita](https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be), [Matias Betti](https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc) | [Verdeado Dulzor](https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI) | 2:31 |
 | 62 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 |
 | 63 | [Morenito](https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:34 |
 | 64 | [Mate Con Cedrón](https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG) | [Marité Berbel](https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU) | [Sigo Soñando](https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 74 | [El Tímido \(feat\. Nahuel Pennisi\)](https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h) | [Maria Paula Godoy](https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Ambas \- Maria Paula Godoy](https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH) | 1:50 |
 | 75 | [Chacarera del Santiagueño](https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn) | [Hilda Herrera](https://open.spotify.com/artist/0qzpjA8ZRuHJnJJN6OsePI) | [La Diablera](https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS) | 2:11 |
 
-Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMDMxOTAwZDAyOTVlMjE5MDVhNWI4ZWNmZjkxMTZhMThh`
+Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMDk3ZjkzZTE4YjVlNWIzZjA1Y2I4MmFjOGQxZmVhYjQy`

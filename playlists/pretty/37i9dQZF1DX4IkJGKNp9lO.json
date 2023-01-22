@@ -1,12 +1,12 @@
 {
   "description": "Svensk punk fr\u00e5n f\u00f6rr och nu. \n",
-  "num_followers": 27334,
+  "num_followers": 27338,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk1OTYwMCwwMDAwMDAwMDgzMzhlOGYwOTQwMGJkYmJmMDQzNGYzYTJlN2I3ZTIx",
+  "snapshot_id": "MTY3Mjk1OTYwMCwwMDAwMDAwMDQ2MDc3ZmJkNjZjYTY3YzE0YWY0MmI2MjJiYTEyY2Vh",
   "tracks": [
     {
       "added_at": "2023-01-05 23:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-01-05 23:00:00",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY"
-      },
-      "artists": [
-        {
-          "name": "Barbaras Grannar",
-          "url": "https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u"
-        }
-      ],
-      "duration_ms": 251353,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83"
-    },
-    {
-      "added_at": "2023-01-05 23:00:00",
-      "album": {
         "name": "Le Som En Fotomodell",
         "url": "https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 130360,
       "name": "Troll Och H\u00e4xor",
       "url": "https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ"
+    },
+    {
+      "added_at": "2023-01-05 23:00:00",
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY"
+      },
+      "artists": [
+        {
+          "name": "Barbaras Grannar",
+          "url": "https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u"
+        }
+      ],
+      "duration_ms": 251353,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83"
     },
     {
       "added_at": "2023-01-05 23:00:00",

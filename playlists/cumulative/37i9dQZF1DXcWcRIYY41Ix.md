@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Zoe Gotusso.
 
-336 songs - 20 hr 41 min
+337 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Limoneros](https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Limoneros](https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb) | 2:55 | 2021-12-24 |  |
 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 | 2021-12-24 |  |
 | [Lo que hay afuera](https://open.spotify.com/track/2bwGFuDKsVxfIV1nIWadcP) | [Volver al Mar](https://open.spotify.com/artist/29VStMD9gyW6PxNqpZAd2M) | [Lo que hay afuera](https://open.spotify.com/album/7xmlhbWss64Cozcucei7Ys) | 5:20 | 2022-04-01 | 2022-04-21 |
+| [lo que siento](https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [lo que siento](https://open.spotify.com/album/6DtlwcQChlzCGwjErEk8et) | 3:11 | 2023-01-20 |  |
 | [Los Andes](https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Los Andes](https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j) | 2:35 | 2022-07-22 | 2022-08-03 |
 | [Los Fugaces](https://open.spotify.com/track/1pmz5PiqPyhAWbRN5sSwpg) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Los Fugaces](https://open.spotify.com/album/25rWkoEU6iw4EBuvH7BrBr) | 3:28 | 2021-12-24 | 2022-05-24 |
 | [Los Pájaros de Ciudad](https://open.spotify.com/track/07IHpkOUmcE2wlNbWYnxQ9) | [Laura Murcia](https://open.spotify.com/artist/6d19qaYWDQRN687o4TRK3K) | [Los Pájaros de Ciudad](https://open.spotify.com/album/5ZFzN977yU8AAMkUmZwVfQ) | 3:19 | 2021-12-24 | 2022-04-29 |
@@ -235,7 +236,7 @@
 | [Para Vencer](https://open.spotify.com/track/3ttxFaEM3dB1Et9QNpxCnA) | [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Basta de Música](https://open.spotify.com/album/5gLwEInVNphcUsjYQzoTRQ) | 2:55 | 2021-12-24 | 2022-04-24 |
 | [Parque Chas](https://open.spotify.com/track/2gFl3pREsXYOsmXLbSD6Yl) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Parque Chas](https://open.spotify.com/album/3aPje43iWN45wTwm7h5X3b) | 3:54 | 2022-03-04 | 2022-04-21 |
 | [Pasajeros](https://open.spotify.com/track/0VcIILzAJwz4Psl1qFvJcS) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/0r2Xdzbp9DrRhlOQsPYMp8) | 3:30 | 2021-12-24 | 2022-07-24 |
-| [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 | 2022-09-09 |  |
+| [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 | 2022-09-09 | 2023-01-22 |
 | [Pedres blanques](https://open.spotify.com/track/2SWP92PW7S0uFZZKCxIrci) | [Magalí Datzira](https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4) | [Pedres blanques](https://open.spotify.com/album/0BEz51ZYMtM7TFA0BJMnvy) | 2:38 | 2022-10-10 | 2022-11-26 |
 | [Peligrosamente Dark \(feat\. Silvana Estrada\)](https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 2:53 | 2021-12-24 |  |
 | [Pequeñito](https://open.spotify.com/track/1d73Yo9pEc4mfaZG7Z1zCZ) | [Maritune](https://open.spotify.com/artist/5pZKCvKqPprJ96bKy7jjUY) | [Pequeñito](https://open.spotify.com/album/0zfPmtmMrsV2qVGtoA0Pse) | 3:37 | 2022-04-01 | 2022-04-21 |

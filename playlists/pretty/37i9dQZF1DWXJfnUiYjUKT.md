@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,341 likes - 97 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,495 likes - 97 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 56 | [The Weakness](https://open.spotify.com/track/3HQYZhbq8hhVxof8H5nqVF) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/5hzXqk2ukjTaPxX9R3Taj6) | 3:28 |
 | 57 | [Fairytale \(feat\. Rachel Chinouriri\)](https://open.spotify.com/track/0R4MlESQkltkYcFP5XyGPp) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Fairytale \(feat\. Rachel Chinouriri\)](https://open.spotify.com/album/5ve8QzX3p45KF77SiZjrCn) | 2:45 |
 | 58 | [Suzuki](https://open.spotify.com/track/4HzgLpnh5U2Id1uBHbPuQ0) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Suzuki](https://open.spotify.com/album/7yyp5pGRqPaXmfg1vaxnt9) | 2:39 |
-| 59 | [Endless No More](https://open.spotify.com/track/1lOtWsnPUdnXn2bcplT02z) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No More](https://open.spotify.com/album/0WScYTZpMayaB5X0VjXtdX) | 3:12 |
+| 59 | [Endless No Mores](https://open.spotify.com/track/1lOtWsnPUdnXn2bcplT02z) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores](https://open.spotify.com/album/0WScYTZpMayaB5X0VjXtdX) | 3:12 |
 | 60 | [Gangsta](https://open.spotify.com/track/4ytxpbnZGX43rcMW1esxnx) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Gangsta](https://open.spotify.com/album/2P89EHG7ewK38lrxqEUh27) | 3:01 |
 | 61 | [Ask \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/4hMugsbwjPBoyYwCIsqnoD) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ask \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2gMtZrMgZ3SIDETUbApfwj) | 2:36 |
 | 62 | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 |

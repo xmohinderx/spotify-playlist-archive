@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Gabry Ponte x Alessandra
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,783 likes - 32 songs - 1 hr 25 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,775 likes - 32 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,6 +39,6 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 29 | [Alice in Wonderland](https://open.spotify.com/track/3OCbl3FgXS96Vhbf0Dnd24) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Hard Lights](https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy), [DJ SODA](https://open.spotify.com/artist/6wcoqJ63l11D2yV9ViqIZA) | [Alice in Wonderland](https://open.spotify.com/album/5Kc07WZPMZ7bzruagu1Oxg) | 2:15 |
 | 30 | [Wanna See You Dance](https://open.spotify.com/track/5Y84GJmmmL23VCvWuSYZKv) | [2Awake](https://open.spotify.com/artist/0eUzuZ1U6Ofl82Gwotjka3), [Krimsonn](https://open.spotify.com/artist/5AmxhPl99r1cBm9WqrIuyU) | [Wanna See You Dance](https://open.spotify.com/album/06FXrpvyxsssP2qH358cxh) | 2:44 |
 | 31 | [Aturdido](https://open.spotify.com/track/3eVlbKvvYfEhQsF1KbUGoN) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Aturdido](https://open.spotify.com/album/62BBpy5McvVoYGndLEuT7V) | 3:10 |
-| 32 | [Everybody Be Somebody](https://open.spotify.com/track/1QK4v0raL0NZqkMnzgRFE1) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Kiras](https://open.spotify.com/artist/2tbnWyLn8F0szfZGRqOuks) | [Everybody Be Somebody \(Radio Edit\)](https://open.spotify.com/album/2WZR8804C8aaQgIE94qNZv) | 2:11 |
+| 32 | [Everybody Be Somebody](https://open.spotify.com/track/1QK4v0raL0NZqkMnzgRFE1) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Kiras \(IT\)](https://open.spotify.com/artist/60aVScHd4dvq5mQJUHq8nf) | [Everybody Be Somebody \(Radio Edit\)](https://open.spotify.com/album/2WZR8804C8aaQgIE94qNZv) | 2:11 |
 
 Snapshot ID: `NjM5MSw2MWNlZTVlOTU1NjY2OWViZGVjNjJjZGJmN2I4NTAwZGJiNjBiNWQ3`

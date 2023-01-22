@@ -1,12 +1,12 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Javiera Mena",
-  "num_followers": 144603,
+  "num_followers": 144608,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMDVjMGRjY2VjM2E2ODljNGEwMTFlM2Q4NTQxZWE4NTk3",
+  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMDU2NDQ1NGM2YThmYWEwM2ZjN2Q5NmZhMjM2ZDFhYzU2",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Pensar en Ti",
-        "url": "https://open.spotify.com/album/4JqpGaYWAdPnQJiBqnSzeF"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        },
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Pensar en Ti",
-      "url": "https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 237456,
       "name": "Otro Lado",
       "url": "https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Pensar en Ti",
+        "url": "https://open.spotify.com/album/4JqpGaYWAdPnQJiBqnSzeF"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        },
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Pensar en Ti",
+      "url": "https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Ay, Amor",
         "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 213041,
       "name": "Ay, Amor \u2665\ufe0e",
       "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Gallo Pinto",
-        "url": "https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Gallo Pinto",
-      "url": "https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Te Quiero Olvidar",
         "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Gallo Pinto",
+        "url": "https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Gallo Pinto",
+      "url": "https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Te Pense un Monton",
-        "url": "https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE"
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
         }
       ],
-      "duration_ms": 144179,
-      "name": "Te Pense un Monton",
-      "url": "https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5"
+      "duration_ms": 233680,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1067,34 +1067,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
+        "name": "Te Pense un Monton",
+        "url": "https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE"
       },
       "artists": [
         {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
         }
       ],
-      "duration_ms": 233680,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 271639,
-      "name": "Contenida",
-      "url": "https://open.spotify.com/track/0SFFoFz2bvkTQmLkw2Z58G"
+      "duration_ms": 144179,
+      "name": "Te Pense un Monton",
+      "url": "https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1111,6 +1095,22 @@
       "duration_ms": 157394,
       "name": "qu\u00e9 bueno!",
       "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 271639,
+      "name": "Contenida",
+      "url": "https://open.spotify.com/track/0SFFoFz2bvkTQmLkw2Z58G"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Alcoh\u00f3lica Funcional",
-        "url": "https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 161953,
-      "name": "Alcoh\u00f3lica Funcional",
-      "url": "https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Garden of Lucid",
         "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 190462,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Alcoh\u00f3lica Funcional",
+        "url": "https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 161953,
+      "name": "Alcoh\u00f3lica Funcional",
+      "url": "https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
+        "name": "tdbn (Deluxe)",
+        "url": "https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH"
       },
       "artists": [
         {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 147808,
-      "name": "Fuckgurl",
-      "url": "https://open.spotify.com/track/4ju0wieDNcKjTdPMYCnye2"
+      "duration_ms": 231400,
+      "name": "tiempo",
+      "url": "https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn"
     },
     {
       "added_at": "2023-01-20 03:00:00",

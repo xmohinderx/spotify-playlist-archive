@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Cover: Foo Fighters
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,214,431 likes - 201 songs - 14 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,218,508 likes - 201 songs - 14 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

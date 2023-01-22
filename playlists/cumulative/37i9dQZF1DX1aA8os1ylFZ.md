@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-269 songs - 14 hr 16 min
+270 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [FOREVER](https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [FOREVER](https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1) | 4:00 | 2023-01-12 |  |
 | [Forgot How To Love Me](https://open.spotify.com/track/484aU8wGt1mHA8ymmDGtPQ) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/7rID19h03gYHYAwUMsuKWh) | 3:41 | 2021-12-16 | 2023-01-13 |
 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 | 2023-01-18 |  |
-| [FTU](https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [FTU](https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu) | 2:24 | 2023-01-12 |  |
+| [FTU](https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [FTU](https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu) | 2:24 | 2023-01-12 | 2023-01-22 |
 | [Gameboy Color](https://open.spotify.com/track/0arsX94THobgECcVUCOq31) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Gameboy Color](https://open.spotify.com/album/6OGauTBfMUpc4gbAro8c3r) | 2:34 | 2023-01-12 |  |
 | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gimme \(feat\. Koffee & Jessie Reyez\)](https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6) | 2:52 | 2023-01-12 | 2023-01-19 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-09 | 2023-01-13 |
@@ -275,6 +275,7 @@
 | [With You](https://open.spotify.com/track/5rIG2y6JHX8Xxy023ZiEml) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Satellites](https://open.spotify.com/album/0bX49paIIrFiHe3ajPKWk0) | 3:44 | 2022-10-27 | 2023-01-13 |
 | [With You](https://open.spotify.com/track/7F4tdzXomvS7biLOJojIjs) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Satellites](https://open.spotify.com/album/0MXooTq2cGzeGgbg0WDLFm) | 3:44 | 2021-12-16 | 2022-07-29 |
 | [With You](https://open.spotify.com/track/0Ew7NkseJTFtiFselBmFg1) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [With You](https://open.spotify.com/album/4y8kGaY6DtdPQ6xWVbzKh4) | 3:39 | 2021-12-16 | 2023-01-13 |
+| [Word For Word](https://open.spotify.com/track/6YRe3sTiUR0ACtSQTejxCt) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Word For Word](https://open.spotify.com/album/2cEJ2GHIoUgI9nrEZGTONk) | 3:03 | 2023-01-19 |  |
 | [YOU got what i need](https://open.spotify.com/track/12rGDE4wphOzVLLeWzBWJr) | [The Cool Quest](https://open.spotify.com/artist/7eW7XlHPEaGBY5JION7Vw9) | [YOU got what i need](https://open.spotify.com/album/6O8CA5GZVKn3WopaOmKXEm) | 3:02 | 2021-12-16 | 2022-03-25 |
 | [—˚✦ ඔබ + මම ♬ !!! ❀˚](https://open.spotify.com/track/3JxC5UZmAOsmQuyFR0ZMlr) | [Sim Fane](https://open.spotify.com/artist/2kSYc7wBDmCcqXkG0J8oa2), [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [closure](https://open.spotify.com/album/17JyDBTfjqukxO3VViUy89) | 2:33 | 2021-12-16 | 2023-01-13 |
 

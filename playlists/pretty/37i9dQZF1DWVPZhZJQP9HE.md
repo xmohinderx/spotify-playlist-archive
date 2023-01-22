@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,724 likes - 152 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,778 likes - 152 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 91 | [Peekaboo Icecream](https://open.spotify.com/track/6ZrPtBgS6uLRdKLUEFtTdY) | [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O), [Abhijith Ramaswami](https://open.spotify.com/artist/71Rq1l3001C96Z3xNwKChs) | [Peekaboo Icecream](https://open.spotify.com/album/69zE6o2BBgDUkUT6rpUssI) | 3:04 |
 | 92 | [Manase](https://open.spotify.com/track/34jtyX2BPoKqQZ4bSAE0bZ) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm) | [Manase](https://open.spotify.com/album/4MRB2WTVMGk4aa3yCwzEvZ) | 3:04 |
 | 93 | [KuKuLaLa](https://open.spotify.com/track/3l9oVezOaCNCAVqQN1xi79) | [Mr.5K](https://open.spotify.com/artist/3GGIEIL34jlfQ8ACSX0KLm), [Prem Jr.](https://open.spotify.com/artist/2xTuEvMZ4BPpMUj57089LV), [DK Dinesh Kumar](https://open.spotify.com/artist/0oOdOPbeOZovoN5TheQL1t) | [KuKuLaLa](https://open.spotify.com/album/7s0VJTlnVh4qiXBEq85me8) | 3:33 |
-| 94 | [Ora Siricha](https://open.spotify.com/track/0k9rkC1fR6K1pPPdfxFQMG) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Ora Siricha](https://open.spotify.com/album/1kzyTFgtKfNk99opfrBFe7) | 3:58 |
+| 94 | [Ora Siricha](https://open.spotify.com/track/0k9rkC1fR6K1pPPdfxFQMG) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [M.M.Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Ora Siricha](https://open.spotify.com/album/1kzyTFgtKfNk99opfrBFe7) | 3:58 |
 | 95 | [Flow la Povom](https://open.spotify.com/track/7eLPUz0OoBkfywudbcNJMY) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [Santhosh Arumugam](https://open.spotify.com/artist/3arPP9VYEaY6BV2Ekw3McO) | [Flow la Povom](https://open.spotify.com/album/4A2ejRsabVIsL9HnQUIkpL) | 3:56 |
 | 96 | [Ninaivellam \- From "Think Indie"](https://open.spotify.com/track/7HHQ2z0rd1sNMDPdpur1Yl) | [Josh Vivian](https://open.spotify.com/artist/0C48t0nOfxy7ZymGQVpEP8) | [Ninaivellam \(From "Think Indie"\)](https://open.spotify.com/album/5mc2Z5wU2fOylFVuJW372j) | 2:57 |
-| 97 | [Ithuvum Kadanthu Pogum](https://open.spotify.com/track/1XEQvmPd3hMEq83oy5WQrX) | [Vidusan](https://open.spotify.com/artist/4HWnGaT10cviOt7T531O54), [Hi\-Polar](https://open.spotify.com/artist/5r1MeyZN01dQ963hBaTChW) | [Ithuvum Kadanthu Pogum](https://open.spotify.com/album/5eEdQNAnstFiNkmWmAXgaM) | 3:00 |
+| 97 | [](https://open.spotify.com/track/1XEQvmPd3hMEq83oy5WQrX) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Ithuvum Kadanthu Pogum](https://open.spotify.com/album/5eEdQNAnstFiNkmWmAXgaM) | 0:00 |
 | 98 | [Manase](https://open.spotify.com/track/3XOj34b2q9npPGV75Kqsxc) | [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Ujwal Gupta](https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS) | [Manase](https://open.spotify.com/album/1ICG76ZLCkL5CSDCq5QDzt) | 4:20 |
 | 99 | [Colours of Kadhal \- Neethaney](https://open.spotify.com/track/7faMz2abVdPra4LyJbzLbA) | [Cheran](https://open.spotify.com/artist/12DO0YTSF7rvb0StUlUTU4) | [Colours of Kadhal \- Neethaney \- Single](https://open.spotify.com/album/3jehA3DXsmtPah42eDg1Ym) | 3:04 |
 | 100 | [Chinna Paiyan](https://open.spotify.com/track/1s9tOQi4m09oUYrFe4NHq7) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Chinna Paiyan](https://open.spotify.com/album/2qM9ehonwr9k0gp3P9pd1N) | 3:22 |

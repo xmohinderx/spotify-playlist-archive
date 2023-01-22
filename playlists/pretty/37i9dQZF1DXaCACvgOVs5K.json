@@ -1,12 +1,12 @@
 {
   "description": "Ibiza season is back for 2022. Let's dance!",
-  "num_followers": 82052,
+  "num_followers": 82212,
   "original_name": "Ibiza 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTUzNzc2MCwwMDAwMDAwMDVmODk1MWUwNGVhYjVkMTgwOGVkNmIwOGY4NGZlMGMx",
+  "snapshot_id": "MTY2MTUzNzc2MCwwMDAwMDAwMGU5ZDU2YmNjOTgzNDNiZjk3MWIxOTE2MTBhZTY3MWY1",
   "tracks": [
     {
       "added_at": "2022-08-26 18:16:00",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2022-08-26 18:16:00",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
-    },
-    {
-      "added_at": "2022-08-26 18:16:00",
-      "album": {
         "name": "O Retha",
         "url": "https://open.spotify.com/album/3zu1awuyss9dK1e4dQKdIJ"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 228407,
       "name": "O Retha",
       "url": "https://open.spotify.com/track/132fXaozCi3EKmNgTnWmiW"
+    },
+    {
+      "added_at": "2022-08-26 18:16:00",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT"
     },
     {
       "added_at": "2022-08-26 18:16:00",

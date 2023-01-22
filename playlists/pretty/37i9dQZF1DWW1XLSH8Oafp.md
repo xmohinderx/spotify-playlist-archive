@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring panteros666 & chippy nonstop
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,852 likes - 101 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,001 likes - 101 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 6 | [stay](https://open.spotify.com/track/5CkrwMZvgBO068EhQyiTZt) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [stay](https://open.spotify.com/album/4ptRVYNs2KBa74ED3MvKmK) | 2:42 |
 | 7 | [Femme Fatale](https://open.spotify.com/track/0nya7xFhh5Or0cfsc3wVCU) | [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Femme Fatale](https://open.spotify.com/album/0P51UJkEdyLwnlcmdsZQiK) | 4:11 |
 | 8 | [Phonky Tribu \- DJ HEARTSTRING Remix](https://open.spotify.com/track/7w8qT1UcnJIZafNiLu2C7h) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Phonky Tribu \(DJ HEARTSTRING Remix\)](https://open.spotify.com/album/3SbtjONVN9BIpVxpks7A2g) | 4:10 |
-| 9 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remixes\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 |
+| 9 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remix\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 |
 | 10 | [So Beautiful So Lonely](https://open.spotify.com/track/3zdLeOuOhJn5M3dLETL4ZU) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y) | [So Beautiful So Lonely](https://open.spotify.com/album/5zJEROFkoiYL21bgLsz2cK) | 2:08 |
 | 11 | [In The Balance](https://open.spotify.com/track/1QCCuMxbBgvcAR9KuN4n1q) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [In The Balance](https://open.spotify.com/album/7vL0WlFxuztuXUl0hTcMFG) | 3:06 |
 | 12 | [Feel It](https://open.spotify.com/track/00B3cITDbSBY9GeKZvxw9M) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Feel It](https://open.spotify.com/album/5ozui0519aka32Jj8vFp8D) | 3:12 |

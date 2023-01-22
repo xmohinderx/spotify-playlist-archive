@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\)\. abby sage on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,466 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,717 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 15 | [Break My Fall](https://open.spotify.com/track/3vWAeJGKEQGrvCKut2uMzy) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Break My Fall](https://open.spotify.com/album/1at7bad2VMRKWewCs9yBgt) | 3:28 |
 | 16 | [Graffiti](https://open.spotify.com/track/1nbf58hrmgDkfathd8NwTD) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Violet](https://open.spotify.com/album/4tW1prOUVuxwZqBJ9kQEaB) | 3:08 |
 | 17 | [gimme all ur luv](https://open.spotify.com/track/7bKMO3og5pWUJV5g6VtZwp) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gimme all ur luv](https://open.spotify.com/album/16pAkASl0bdyOQrVyTvuBF) | 2:53 |
-| 18 | [Not Ideal](https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Not Ideal](https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc) | 3:23 |
+| 18 | [Not Ideal](https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Not Ideal](https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc) | 3:23 |
 | 19 | [You're in the Way](https://open.spotify.com/track/3DVhLbfqydZoui3oL8kfti) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [You're in the Way](https://open.spotify.com/album/3M5T4rxlIzbGvlQfToUkKJ) | 2:47 |
 | 20 | [Peachy World](https://open.spotify.com/track/5FEiAtuQ8ZKTAu9tr6zVcA) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Peachy World](https://open.spotify.com/album/2trCjaC8Q7UP4hfMlGbniC) | 2:31 |
 | 21 | [the long way](https://open.spotify.com/track/7hWVFjQbe5rrUIJnOmtd7l) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [the long way](https://open.spotify.com/album/43XdP2pprox39yfz1t1Ons) | 3:22 |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 2606,
+  "num_followers": 2624,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjI3MSwwMDAwMDAwMDI2ZjI3MjAyY2U3ZjVjMDUwNzRhMmQwYzA3Zjc1NWVl",
+  "snapshot_id": "MTY2NDY1NjI3MSwwMDAwMDAwMGI3OWVkYjQ0YzgwMzdiNzA1MWY0MTk5MjhkNWM3M2Ix",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -351,26 +351,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Period",
-        "url": "https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS"
-      },
-      "artists": [
-        {
-          "name": "Boosie Badazz",
-          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Period",
-      "url": "https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Blessed, I Guess",
         "url": "https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 123122,
       "name": "A.M. Flights (feat. Toosii)",
       "url": "https://open.spotify.com/track/37mxyK3wdiHlv6MDuQJnAp"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Period",
+        "url": "https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS"
+      },
+      "artists": [
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "Period",
+      "url": "https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa"
-      },
-      "artists": [
-        {
-          "name": "Fatboy SSE",
-          "url": "https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh"
-        }
-      ],
-      "duration_ms": 148330,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Blessed, I Guess",
         "url": "https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 124767,
       "name": "Boys To Men",
       "url": "https://open.spotify.com/track/5EBrAbr17vTY143Fo1Cwop"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa"
+      },
+      "artists": [
+        {
+          "name": "Fatboy SSE",
+          "url": "https://open.spotify.com/artist/3z2IySIVkUy23tiLxLy4Wh"
+        }
+      ],
+      "duration_ms": 148330,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en"
     },
     {
       "added_at": "2022-10-01 20:31:11",

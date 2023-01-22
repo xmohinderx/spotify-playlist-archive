@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Valdes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,249 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,256 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 8 | [Todo me sabe a poco](https://open.spotify.com/track/1QwPlQPqx4CiYdGJSTi1EV) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Tiene que haber algo más](https://open.spotify.com/album/5ZqvS6ksJXcWljAPsp9Slt) | 2:52 |
 | 9 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 |
 | 10 | [Ser De Ti](https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:27 |
-| 11 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 |
+| 11 | [Mensajes en el Mar](https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre) | 4:07 |
 | 12 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 |
-| 13 | [Mensajes en el Mar](https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Mensajes en el Mar](https://open.spotify.com/album/0cIaMMo2FAhe1AfpKUyUre) | 4:07 |
+| 13 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 |
 | 14 | [El Momento Perfecto](https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [El Momento Perfecto](https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS) | 3:21 |
 | 15 | [No Te Puedo Decir Que No](https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [No Te Puedo Decir Que No](https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp) | 3:03 |
 | 16 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 77 | [Noss de tempo](https://open.spotify.com/track/2aW8bmykoLKUbeYAFYGFVv) | [CATALINA](https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2), [PADAWVN](https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE), [Dumelefant](https://open.spotify.com/artist/6Yaka3hMhE4DvmtSgxVgA2) | [Noss de tempo](https://open.spotify.com/album/2FSEx60QIuOYXWsSZGBf3A) | 3:10 |
 | 78 | [Tu Nombre](https://open.spotify.com/track/6nTACiUMLcPh7mjfGXCFjA) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Tu Nombre](https://open.spotify.com/album/0NvNtFrr5XEUUDSt5hytL0) | 3:01 |
 | 79 | [Ni Modo](https://open.spotify.com/track/07bx4AFTgpteGlUGl08BhM) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Ni Modo](https://open.spotify.com/album/0KUDLBqDg0mtDAeNFgq203) | 2:15 |
-| 80 | [Mira Niñita](https://open.spotify.com/track/51Z1KXDWd1wwLZBuvrWtNQ) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Mira Niñita](https://open.spotify.com/album/5ZcXrGAPkENcUhuyuqPUau) | 4:28 |
-| 81 | [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 |
+| 80 | [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 |
+| 81 | [Mira Niñita](https://open.spotify.com/track/51Z1KXDWd1wwLZBuvrWtNQ) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Mira Niñita](https://open.spotify.com/album/5ZcXrGAPkENcUhuyuqPUau) | 4:28 |
 | 82 | [Paredes Finas](https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona a Guitarra y Voz \(Lado A\)](https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC) | 4:07 |
 | 83 | [Un Nuevo Ritmo](https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Un Nuevo Ritmo](https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2) | 3:33 |
 | 84 | [Hoy Es Hoy](https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hoy Es Hoy](https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF) | 2:54 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 86 | [A Medio Paso de Tu Amor](https://open.spotify.com/track/4XoEfF1PhCxCU5D8QG3cU7) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [A Medio Paso de Tu Amor](https://open.spotify.com/album/1To4WsAqHV6ULE3Ax9fxtl) | 3:45 |
 | 87 | [Vaivén](https://open.spotify.com/track/7sYPv6R2PrUICT4CUv05hN) | [Laura Mb](https://open.spotify.com/artist/4xJsi1cJsyhCBF0xXFYIWh), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Ciclo](https://open.spotify.com/album/4D2vFTNVmpXDj4nvBGgOGJ) | 2:44 |
 | 88 | [Caminito](https://open.spotify.com/track/0P0psuP8ipaedwxBDDyFvY) | [Coco Green](https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Caminito](https://open.spotify.com/album/2ZWbPWg6bXrDojfU04sciq) | 2:46 |
-| 89 | [Frontera](https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [El Poder del Mar](https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL) | 4:36 |
-| 90 | [Cartas a Walter Xenón](https://open.spotify.com/track/0c4Irfn4lxeyOdjZNY3wDv) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Amiga](https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59) | 2:25 |
+| 89 | [Cartas a Walter Xenón](https://open.spotify.com/track/0c4Irfn4lxeyOdjZNY3wDv) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Amiga](https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59) | 2:25 |
+| 90 | [Frontera](https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [El Poder del Mar](https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL) | 4:36 |
 | 91 | [La Guarida](https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i) | [Julian Mourin](https://open.spotify.com/artist/5jHALTUJMAFsdqdbxzXWEw), [Mei demayo](https://open.spotify.com/artist/57AQD7JCcN3jkv53aBCouV), [Juan ortiz](https://open.spotify.com/artist/0EByszn3Svvfw9xbDodioB), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [La Guarida](https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV) | 3:10 |
 | 92 | [Isla](https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Isla](https://open.spotify.com/album/4vT2DYTDbxcsY6uHohDshb) | 3:42 |
 | 93 | [Todo el Día Loca](https://open.spotify.com/track/6nJrZQb9Dti8Y3DpiSupev) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [Puro](https://open.spotify.com/album/1tU0V696ITlDOgDtljYvle) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [Un Café](https://open.spotify.com/track/3b1Hvw1zcIKPMtO8hw2Cpc) | [Mila Magal](https://open.spotify.com/artist/6aVKvI8vXjzhp9FICkwRWV) | [Un Café](https://open.spotify.com/album/0WkFkZMYw79SJMLPzoL3AG) | 3:35 |
 | 100 | [Quiero Seguir Durmiendo](https://open.spotify.com/track/6vo21NT3rATjoi1ZWtc6sU) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Quiero Seguir Durmiendo](https://open.spotify.com/album/5UJhwNUlF8F9Y4WbRD7MDu) | 2:49 |
 
-Snapshot ID: `MTY2ODIwMjg5NCwwMDAwMDAwMGQ3ZTA3ZDE0NThmZGFmNjEwMGNlZGY2ZjA3ZGM4MDJl`
+Snapshot ID: `MTY2ODIwMjg5NCwwMDAwMDAwMGU3YTljMzAwOWY1ZDg1ZjRiYTI0ZjMzMDJiM2Q1NGYw`

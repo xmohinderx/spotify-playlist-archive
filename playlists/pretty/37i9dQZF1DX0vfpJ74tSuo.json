@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 50239,
+  "num_followers": 50365,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIyNjczOCwwMDAwMDAwMDY4ZTgxMmM0MTIxZDViZjM1Zjc1ZmJhODJlM2ZjNjll",
+  "snapshot_id": "MTY3NDIyNjczOCwwMDAwMDAwMGExNDRiMmEwZTYxOGExZDQzOTcxOWZlYjlmZTllZDAw",
   "tracks": [
     {
       "added_at": "2023-01-20 14:58:58",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
-        "name": "Freedom Flight",
-        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Sweet Thang",
-      "url": "https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW"
-    },
-    {
-      "added_at": "2023-01-20 14:58:58",
-      "album": {
         "name": "Tornillo",
         "url": "https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 265506,
       "name": "Heart of Stone",
       "url": "https://open.spotify.com/track/6lPmuDm7kvUcdK2omu6B38"
+    },
+    {
+      "added_at": "2023-01-20 14:58:58",
+      "album": {
+        "name": "Freedom Flight",
+        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Sweet Thang",
+      "url": "https://open.spotify.com/track/2u3HmBPHrk3ooSdVikignW"
     },
     {
       "added_at": "2023-01-20 14:58:58",
@@ -475,26 +475,6 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
-        "name": "Discover",
-        "url": "https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        },
-        {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
-        }
-      ],
-      "duration_ms": 247496,
-      "name": "Natural Blues",
-      "url": "https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29"
-    },
-    {
-      "added_at": "2023-01-20 14:58:58",
-      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 241493,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
+    },
+    {
+      "added_at": "2023-01-20 14:58:58",
+      "album": {
+        "name": "Discover",
+        "url": "https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        }
+      ],
+      "duration_ms": 247496,
+      "name": "Natural Blues",
+      "url": "https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29"
     },
     {
       "added_at": "2023-01-20 14:58:58",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
-        "name": "Giant Steps/De Old Folks At Home",
-        "url": "https://open.spotify.com/album/2K4jHu8XV4HrgWlmOGwJty"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Fishin' Blues",
-      "url": "https://open.spotify.com/track/4jh6QSj0uHqxTEU1o0DmB6"
-    },
-    {
-      "added_at": "2023-01-20 14:58:58",
-      "album": {
         "name": "Extraordinary Times (The Duo Sessions)",
         "url": "https://open.spotify.com/album/6hnHx3h7NFAkWE7EbseSHk"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 206606,
       "name": "Sweet Goddess Blues",
       "url": "https://open.spotify.com/track/3XMPpennPuz3oZnOZx193p"
+    },
+    {
+      "added_at": "2023-01-20 14:58:58",
+      "album": {
+        "name": "Giant Steps/De Old Folks At Home",
+        "url": "https://open.spotify.com/album/2K4jHu8XV4HrgWlmOGwJty"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Fishin' Blues",
+      "url": "https://open.spotify.com/track/4jh6QSj0uHqxTEU1o0DmB6"
     },
     {
       "added_at": "2023-01-20 14:58:58",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
-        "name": "Blues Kingpins",
-        "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
+        "name": "Preachin' Blues",
+        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
         }
       ],
-      "duration_ms": 179813,
-      "name": "Rock Me Baby",
-      "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
+      "duration_ms": 316360,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
     },
     {
       "added_at": "2023-01-20 14:58:58",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
-        "name": "Preachin' Blues",
-        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
+        "name": "Blues Kingpins",
+        "url": "https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p"
       },
       "artists": [
         {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 316360,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
+      "duration_ms": 179813,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
     },
     {
       "added_at": "2023-01-20 14:58:58",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
+        "name": "Throw That Stone",
+        "url": "https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 178668,
+      "name": "Throw That Stone",
+      "url": "https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx"
+    },
+    {
+      "added_at": "2023-01-20 14:58:58",
+      "album": {
         "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
-        "name": "Forever On My Mind",
-        "url": "https://open.spotify.com/album/4wZsN1DR2EUgMwDW5IEf4a"
-      },
-      "artists": [
-        {
-          "name": "Son House",
-          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
-        }
-      ],
-      "duration_ms": 336280,
-      "name": "Forever On My Mind",
-      "url": "https://open.spotify.com/track/7HOXfx0rEgpQFufREOKFvD"
-    },
-    {
-      "added_at": "2023-01-20 14:58:58",
-      "album": {
         "name": "Complete Studio Recordings",
         "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 261000,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/29Q6NQ4WsPYTsZ8nhdAhfo"
+    },
+    {
+      "added_at": "2023-01-20 14:58:58",
+      "album": {
+        "name": "Forever On My Mind",
+        "url": "https://open.spotify.com/album/4wZsN1DR2EUgMwDW5IEf4a"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "duration_ms": 336280,
+      "name": "Forever On My Mind",
+      "url": "https://open.spotify.com/track/7HOXfx0rEgpQFufREOKFvD"
     },
     {
       "added_at": "2023-01-20 14:58:58",
@@ -1523,6 +1539,22 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 267512,
+      "name": "Only Porter at the Station",
+      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
+    },
+    {
+      "added_at": "2023-01-20 14:58:58",
+      "album": {
         "name": "Newbury",
         "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
       },
@@ -1543,18 +1575,18 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
       },
       "artists": [
         {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
         }
       ],
-      "duration_ms": 267512,
-      "name": "Only Porter at the Station",
-      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
+      "duration_ms": 180066,
+      "name": "Fussin' and Fightin' (Blues)",
+      "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
     },
     {
       "added_at": "2023-01-20 14:58:58",
@@ -1575,18 +1607,18 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+        "name": "Complete Studio Recordings",
+        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
       },
       "artists": [
         {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
         }
       ],
-      "duration_ms": 180066,
-      "name": "Fussin' and Fightin' (Blues)",
-      "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
+      "duration_ms": 175933,
+      "name": "I'm Satisfied",
+      "url": "https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN"
     },
     {
       "added_at": "2023-01-20 14:58:58",
@@ -1603,22 +1635,6 @@
       "duration_ms": 164213,
       "name": "The Moon Is Rising",
       "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
-    },
-    {
-      "added_at": "2023-01-20 14:58:58",
-      "album": {
-        "name": "Complete Studio Recordings",
-        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "I'm Satisfied",
-      "url": "https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN"
     },
     {
       "added_at": "2023-01-20 14:58:58",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
-        "name": "Country Blues",
-        "url": "https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "See See Rider",
-      "url": "https://open.spotify.com/track/1kVI9Kp3dLmt7cYezcj5Rf"
-    },
-    {
-      "added_at": "2023-01-20 14:58:58",
-      "album": {
         "name": "I Like It When It Rains",
         "url": "https://open.spotify.com/album/3ByQx4sjHeotnf7aOoKdGD"
       },
@@ -1703,6 +1703,22 @@
       "duration_ms": 293000,
       "name": "Sittin on Top of the World",
       "url": "https://open.spotify.com/track/7G234VgTRaXpiX9GnsZvdK"
+    },
+    {
+      "added_at": "2023-01-20 14:58:58",
+      "album": {
+        "name": "Country Blues",
+        "url": "https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "See See Rider",
+      "url": "https://open.spotify.com/track/1kVI9Kp3dLmt7cYezcj5Rf"
     },
     {
       "added_at": "2023-01-20 14:58:58",
@@ -1807,22 +1823,6 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
-      },
-      "artists": [
-        {
-          "name": "Mud Morganfield",
-          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Good Morning Little School Girl",
-      "url": "https://open.spotify.com/track/7d5qgjlsPTd1T2iSIALs4V"
-    },
-    {
-      "added_at": "2023-01-20 14:58:58",
-      "album": {
         "name": "Isolation Blues",
         "url": "https://open.spotify.com/album/3aPnXFSkP9NVggOjdsH9Ho"
       },
@@ -1835,6 +1835,22 @@
       "duration_ms": 192360,
       "name": "Isolation Blues",
       "url": "https://open.spotify.com/track/1YXtxPB2Q0ol5L4nIE3HJE"
+    },
+    {
+      "added_at": "2023-01-20 14:58:58",
+      "album": {
+        "name": "Portrait",
+        "url": "https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV"
+      },
+      "artists": [
+        {
+          "name": "Mud Morganfield",
+          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Good Morning Little School Girl",
+      "url": "https://open.spotify.com/track/7d5qgjlsPTd1T2iSIALs4V"
     },
     {
       "added_at": "2023-01-20 14:58:58",
@@ -1875,22 +1891,6 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
-        "name": "Raging Moon",
-        "url": "https://open.spotify.com/album/27iF9Y0FuYVLCWJyU3Srqy"
-      },
-      "artists": [
-        {
-          "name": "The Jujubes",
-          "url": "https://open.spotify.com/artist/4h1fDtmuVsWtruoqF3E0kN"
-        }
-      ],
-      "duration_ms": 339394,
-      "name": "High Fever Blues",
-      "url": "https://open.spotify.com/track/2lHlfG7kAhkIlG6eQmAKgH"
-    },
-    {
-      "added_at": "2023-01-20 14:58:58",
-      "album": {
         "name": "The Tumbler",
         "url": "https://open.spotify.com/album/0MFLGuQwM22kc38Gt5XVAV"
       },
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
+        "name": "Raging Moon",
+        "url": "https://open.spotify.com/album/27iF9Y0FuYVLCWJyU3Srqy"
+      },
+      "artists": [
+        {
+          "name": "The Jujubes",
+          "url": "https://open.spotify.com/artist/4h1fDtmuVsWtruoqF3E0kN"
+        }
+      ],
+      "duration_ms": 339394,
+      "name": "High Fever Blues",
+      "url": "https://open.spotify.com/track/2lHlfG7kAhkIlG6eQmAKgH"
+    },
+    {
+      "added_at": "2023-01-20 14:58:58",
+      "album": {
         "name": "Keep On Walkin'",
         "url": "https://open.spotify.com/album/1Yov4hqxOqmb4r3KxlElWu"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 299867,
       "name": "North Carolina Bound (Acoustic Duo)",
       "url": "https://open.spotify.com/track/1WDDdDwtw1THRG9CjFDAJm"
-    },
-    {
-      "added_at": "2023-01-20 14:58:58",
-      "album": {
-        "name": "Agnes Water Blues",
-        "url": "https://open.spotify.com/album/54JCp9ubDGQMF6LBIt3yAd"
-      },
-      "artists": [
-        {
-          "name": "Maynard Heap",
-          "url": "https://open.spotify.com/artist/1nmAtilssSpG1QoyPUb3f9"
-        }
-      ],
-      "duration_ms": 236655,
-      "name": "Agnes Water Blues",
-      "url": "https://open.spotify.com/track/3KHch8x9xtStE9pbw0Bvni"
     },
     {
       "added_at": "2023-01-20 14:58:58",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2023-01-20 14:58:58",
       "album": {
+        "name": "Agnes Water Blues",
+        "url": "https://open.spotify.com/album/54JCp9ubDGQMF6LBIt3yAd"
+      },
+      "artists": [
+        {
+          "name": "Maynard Heap",
+          "url": "https://open.spotify.com/artist/1nmAtilssSpG1QoyPUb3f9"
+        }
+      ],
+      "duration_ms": 236655,
+      "name": "Agnes Water Blues",
+      "url": "https://open.spotify.com/track/3KHch8x9xtStE9pbw0Bvni"
+    },
+    {
+      "added_at": "2023-01-20 14:58:58",
+      "album": {
         "name": "New Orleans Street Singer",
         "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 232133,
       "name": "Everyday I Have the Blues",
       "url": "https://open.spotify.com/track/5Qizcr47Esrf54Pu1eF30E"
-    },
-    {
-      "added_at": "2023-01-20 14:58:58",
-      "album": {
-        "name": "Folk Songs for Old Times' Sake",
-        "url": "https://open.spotify.com/album/1aer0tW0fu6Zv2XPpDQWBv"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Edward Williams",
-          "url": "https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Railroad Bill",
-      "url": "https://open.spotify.com/track/3mxfxxfDxftkdvZIpLKtHk"
     }
   ],
   "unique_name": "Morning Blues",

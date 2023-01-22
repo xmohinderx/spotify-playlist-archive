@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 
 > Miami me lo confirmó featuring Romeo Santos & Chris Lebron
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,450 likes - 88 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,525 likes - 88 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,16 +85,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 75 | [Probadita](https://open.spotify.com/track/43XGVPv2cXGIoVxXMDbvRL) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:50 |
 | 76 | [El Vecino](https://open.spotify.com/track/0DYn7KksyoJzCBKqRb2Zos) | [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Payaso x Ley](https://open.spotify.com/artist/0ZbitUHy4wYrvbCiRPS1qA) | [El Vecino](https://open.spotify.com/album/44OIaXOjATppNlZco0tFZT) | 3:30 |
 | 77 | [2seater](https://open.spotify.com/track/79I3HVYg5wXqlB9jjRCrWF) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [2seater](https://open.spotify.com/album/4AwJRkBFfYW4gtR4hD00A0) | 2:41 |
-| 78 | [Mujeriego](https://open.spotify.com/track/1JIJHCWUgSOZS3YKyuyM5r) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [The Hits Kings](https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH) | 3:15 |
-| 79 | [Veneno](https://open.spotify.com/track/0XuU7zwsQmeOOpLpFKJQJY) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/3KaFtzUOQvjPAZDlPNL86r) | 3:06 |
+| 78 | [Veneno](https://open.spotify.com/track/0XuU7zwsQmeOOpLpFKJQJY) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Veneno](https://open.spotify.com/album/3KaFtzUOQvjPAZDlPNL86r) | 3:06 |
+| 79 | [Mujeriego](https://open.spotify.com/track/1JIJHCWUgSOZS3YKyuyM5r) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [The Hits Kings](https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH) | 3:15 |
 | 80 | [BRUTAL \- Spotify Singles](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL \- Spotify Singles](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 |
 | 81 | [Castigada](https://open.spotify.com/track/3j6Ad8n9AYj2YjMXvDkZOk) | [Catalyna](https://open.spotify.com/artist/7bwjYGg7DOoLpV3AFK2Jmz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Cory](https://open.spotify.com/artist/7o7FisMfKqVaysG1CSIWrr) | [Castigada](https://open.spotify.com/album/2xVbGAL132T4yXoJDS8TuL) | 3:16 |
 | 82 | [1 Millon](https://open.spotify.com/track/4uAzAGxZSIQ9yASLH4zo3R) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [1 Millon](https://open.spotify.com/album/28wVEWil46hss81yatWiDR) | 3:18 |
-| 83 | [La Pinga Es Mia](https://open.spotify.com/track/7tCnOEuORozZfMNJJXwaUL) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv), [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe) | [La Pinga Es Mia](https://open.spotify.com/album/4CZGUXrTKIjzaj5UvpIUwQ) | 3:01 |
-| 84 | [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 |
+| 83 | [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 |
+| 84 | [La Pinga Es Mia](https://open.spotify.com/track/7tCnOEuORozZfMNJJXwaUL) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv), [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe) | [La Pinga Es Mia](https://open.spotify.com/album/4CZGUXrTKIjzaj5UvpIUwQ) | 3:01 |
 | 85 | [Piensas En Mi](https://open.spotify.com/track/4aZXV9vBzJlwAd54GGZdGY) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Piensas En Mi](https://open.spotify.com/album/48bOYyl6R4Osu0luA0RWoS) | 3:02 |
 | 86 | [CTRL](https://open.spotify.com/track/4QIQmXC0OI5ZEQPvwCXbdI) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [CTRL](https://open.spotify.com/album/6494FU89k0o3Kfgz9LqH9H) | 2:18 |
 | 87 | [Tu Dolor](https://open.spotify.com/track/0Ay6jbPwNcmCrDTXOcqIo9) | [Alex Duvall](https://open.spotify.com/artist/3slclAGfrwhEidYb97ut8I), [Kelvis Ochoa](https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Tu Dolor](https://open.spotify.com/album/6AAMS1zEW5h2kGCOwYloCE) | 3:12 |
 | 88 | [Principe del 305](https://open.spotify.com/track/414tv41gxCF9CKSKv21gNb) | [Wolf MIA](https://open.spotify.com/artist/3004nWNr1vK7anBcB3lFkb), [Dayme Beats](https://open.spotify.com/artist/0cARZSRkYfYAk37T5yFTHW) | [Principe del 305](https://open.spotify.com/album/4i4u6gNcS3kykJ4Ncg7SAy) | 2:22 |
 
-Snapshot ID: `MTY3MzI0NTQwMCwwMDAwMDAwMDgxM2U1MjBhNjFlMDMyYmQyM2NkZmVkMDU0NGIzZjM4`
+Snapshot ID: `MTY3MzI0NTQwMCwwMDAwMDAwMGZhMzcwZTM0N2E5ZTBjNTIyMTQ5OGI0OGNkNGFhNGZi`

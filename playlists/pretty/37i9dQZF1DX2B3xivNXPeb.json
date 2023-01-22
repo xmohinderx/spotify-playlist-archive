@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 24651,
+  "num_followers": 24866,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM2OTA0OSwwMDAwMDAwMDgyZmIwZGU4ZDhjZTY2MjQ1ZGFjNGUyNmY3MzYxZTI5",
+  "snapshot_id": "MTY3MzM2OTA0OSwwMDAwMDAwMDExNzU4YmJjNjQ3ZTA2N2Q2ZGJkNjMzZTUxNDRiYmYx",
   "tracks": [
     {
       "added_at": "2023-01-10 16:44:09",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hebb",
-          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
-        }
-      ],
-      "duration_ms": 165066,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "Ain't That Good News",
         "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 191160,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hebb",
+          "url": "https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5"
+        }
+      ],
+      "duration_ms": 165066,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Spooky (Single Version)",
-      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 204026,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Spooky (Single Version)",
+      "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 245290,
-      "name": "Defection",
-      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "'Justments",
         "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 204706,
       "name": "The Same Love That Made Me Laugh",
       "url": "https://open.spotify.com/track/6GETCaMrDCu3uFe2TMkyGA"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 245290,
+      "name": "Defection",
+      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Giving It In",
-        "url": "https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1"
-      },
-      "artists": [
-        {
-          "name": "Faye Meana",
-          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Giving It In",
-      "url": "https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "Please Love Me Again",
         "url": "https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
+        "name": "Giving It In",
+        "url": "https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1"
       },
       "artists": [
         {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+          "name": "Faye Meana",
+          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
         }
       ],
-      "duration_ms": 187660,
-      "name": "Joe",
-      "url": "https://open.spotify.com/track/3s5wyiMCUfnLDYVX4xSRUX"
+      "duration_ms": 200347,
+      "name": "Giving It In",
+      "url": "https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -1427,6 +1411,22 @@
       "duration_ms": 200066,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 187660,
+      "name": "Joe",
+      "url": "https://open.spotify.com/track/3s5wyiMCUfnLDYVX4xSRUX"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Girlhood",
-        "url": "https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb"
-      },
-      "artists": [
-        {
-          "name": "Girlhood",
-          "url": "https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA"
-        }
-      ],
-      "duration_ms": 203985,
-      "name": "The Love I Need",
-      "url": "https://open.spotify.com/track/7mpvFrRwA6eg1C3Gr22v8q"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/5hBs54fSWzHghnJYobTNLS"
+        "name": "Girlhood",
+        "url": "https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb"
       },
       "artists": [
         {
-          "name": "Alfie Sharp",
-          "url": "https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P"
+          "name": "Girlhood",
+          "url": "https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA"
         }
       ],
-      "duration_ms": 265240,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/37C4hvdsHygqpA4Xzo8eAW"
+      "duration_ms": 203985,
+      "name": "The Love I Need",
+      "url": "https://open.spotify.com/track/7mpvFrRwA6eg1C3Gr22v8q"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2023-01-10 16:44:09",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/5hBs54fSWzHghnJYobTNLS"
+      },
+      "artists": [
+        {
+          "name": "Alfie Sharp",
+          "url": "https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P"
+        }
+      ],
+      "duration_ms": 265240,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/37C4hvdsHygqpA4Xzo8eAW"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
         "name": "Caustic Love",
         "url": "https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO"
       },
@@ -1583,6 +1583,22 @@
       "duration_ms": 189566,
       "name": "Scream (Funk My Life Up)",
       "url": "https://open.spotify.com/track/56oQl8ABVlcZlJN43wooTd"
+    },
+    {
+      "added_at": "2023-01-10 16:44:09",
+      "album": {
+        "name": "Food",
+        "url": "https://open.spotify.com/album/7rOLlR197BcHUxYOfvi1BC"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 252813,
+      "name": "Jerk Ribs",
+      "url": "https://open.spotify.com/track/1E0Cw35L2iRgCn0aB2tc8z"
     },
     {
       "added_at": "2023-01-10 16:44:09",
@@ -1603,22 +1619,6 @@
       "duration_ms": 348000,
       "name": "Siesta (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/200mXRutkz0x5MSQWyipxS"
-    },
-    {
-      "added_at": "2023-01-10 16:44:09",
-      "album": {
-        "name": "Food",
-        "url": "https://open.spotify.com/album/7rOLlR197BcHUxYOfvi1BC"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 252813,
-      "name": "Jerk Ribs",
-      "url": "https://open.spotify.com/track/1E0Cw35L2iRgCn0aB2tc8z"
     },
     {
       "added_at": "2023-01-10 16:44:09",

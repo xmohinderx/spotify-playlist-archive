@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 93716,
+  "num_followers": 93801,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMGU5YzU5MTFiYjI1NmZmNDgxODM4ZjgwMjM0YTZmZmI2",
+  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMGExYmZjZmY5N2QzYmZmOTU0ZTZiNTg2YzZlYmRjZmYx",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -623,8 +623,8 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "La Danza del Espacio Tiempo",
-        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
+        "name": "Cada Letra Que Escribo",
+        "url": "https://open.spotify.com/album/0aoLxPrjSF2e0BOxRFTS6G"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 128981,
-      "name": "La Danza del Espacio Tiempo",
-      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
+      "duration_ms": 202804,
+      "name": "Cada Letra Que Escribo",
+      "url": "https://open.spotify.com/track/06cYrvLQxg2YngN0sx8zXS"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -731,8 +731,8 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Cada Letra Que Escribo",
-        "url": "https://open.spotify.com/album/0aoLxPrjSF2e0BOxRFTS6G"
+        "name": "La Danza del Espacio Tiempo",
+        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 202804,
-      "name": "Cada Letra Que Escribo",
-      "url": "https://open.spotify.com/track/06cYrvLQxg2YngN0sx8zXS"
+      "duration_ms": 128981,
+      "name": "La Danza del Espacio Tiempo",
+      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 214161,
-      "name": "Zoe",
-      "url": "https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Otros Colores",
         "url": "https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 351813,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 214161,
+      "name": "Zoe",
+      "url": "https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Dame",
-        "url": "https://open.spotify.com/album/3QSi2Fj1FUjE3Uu2K5Gfh4"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Dame",
-      "url": "https://open.spotify.com/track/297Vr1chPCF0607I0g80IJ"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Modo Avi\u00f3n",
         "url": "https://open.spotify.com/album/2AhJpW85a5KzalPxVJLvTp"
       },
@@ -1391,22 +1371,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Conf\u00eda",
-        "url": "https://open.spotify.com/album/6OBErs3AYUFKYyZYDDavCU"
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/3QSi2Fj1FUjE3Uu2K5Gfh4"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
         },
         {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
         }
       ],
-      "duration_ms": 184395,
-      "name": "Conf\u00eda",
-      "url": "https://open.spotify.com/track/1SXPlj3wH0Luz40LmBFjso"
+      "duration_ms": 244500,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/297Vr1chPCF0607I0g80IJ"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1423,6 +1403,26 @@
       "duration_ms": 218117,
       "name": "Entra En Mi Vida",
       "url": "https://open.spotify.com/track/6kpB9L4r25GM9i6a8YF8hC"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Conf\u00eda",
+        "url": "https://open.spotify.com/album/6OBErs3AYUFKYyZYDDavCU"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 184395,
+      "name": "Conf\u00eda",
+      "url": "https://open.spotify.com/track/1SXPlj3wH0Luz40LmBFjso"
     },
     {
       "added_at": "2023-01-20 03:00:00",

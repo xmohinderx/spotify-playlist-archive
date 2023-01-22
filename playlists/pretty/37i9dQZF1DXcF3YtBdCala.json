@@ -1,15 +1,15 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. El Bebeto en portada. ",
-  "num_followers": 124585,
+  "num_followers": 124613,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5NDQwMCwwMDAwMDAwMDk5ZDkyMmEyNmE1ZGY5NGNiOGNmYTE5ZGUxOWRkOGE0",
+  "snapshot_id": "MTY3NDE5NDQwMCwwMDAwMDAwMDBlYjA0NjFiMzYwMjE0M2Y3NmNhM2ZhMDA3NDkxNGFm",
   "tracks": [
     {
-      "added_at": "2023-01-21 01:37:49",
+      "added_at": "2023-01-22 01:37:56",
       "album": {
         "name": "Vali\u00f3 La Pena Con Mariachi",
         "url": "https://open.spotify.com/album/1E0UDUTKwV8g8dH6hkyPAW"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
     },
     {
-      "added_at": "2023-01-21 01:37:49",
+      "added_at": "2023-01-22 01:37:56",
       "album": {
         "name": "Deb\u00ed Suponerlo (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
     },
     {
-      "added_at": "2023-01-21 01:37:49",
+      "added_at": "2023-01-22 01:37:56",
       "album": {
         "name": "Ser\u00e9",
         "url": "https://open.spotify.com/album/65YVP3CV11KakZLZBagWOL"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
     },
     {
-      "added_at": "2023-01-21 01:37:49",
+      "added_at": "2023-01-22 01:37:56",
       "album": {
         "name": "La Despedida",
         "url": "https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk"
@@ -191,18 +191,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x"
+        "name": "Con Un Botecito A Pecho",
+        "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
       },
       "artists": [
         {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 185460,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL"
+      "duration_ms": 176133,
+      "name": "Con Un Botecito A Pecho",
+      "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
     },
     {
       "added_at": "2022-12-09 06:00:00",
@@ -227,22 +231,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Con Un Botecito A Pecho",
-        "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
         }
       ],
-      "duration_ms": 176133,
-      "name": "Con Un Botecito A Pecho",
-      "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
+      "duration_ms": 185460,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/5AOEudcsj9BbSfDbRjxkpO"
     },
     {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Se Disfraz\u00f3",
-        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 206383,
-      "name": "Se Disfraz\u00f3",
-      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
-    },
-    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "Fumo Y Bebo",
@@ -719,6 +703,22 @@
       "duration_ms": 148911,
       "name": "Fumo Y Bebo",
       "url": "https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Se Disfraz\u00f3",
+        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 206383,
+      "name": "Se Disfraz\u00f3",
+      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -757,26 +757,6 @@
       "url": "https://open.spotify.com/track/1GdDYZX7Woh8hxkNVGe6vQ"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "Todo Me Recuerda A Ti",
-        "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Todo Me Recuerda A Ti",
-      "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
-    },
-    {
       "added_at": "2022-09-23 05:00:00",
       "album": {
         "name": "Ya Lo Super\u00e9",
@@ -795,6 +775,26 @@
       "duration_ms": 204546,
       "name": "Ya Lo Super\u00e9",
       "url": "https://open.spotify.com/track/0jfcucJLdHPXgjOCjSeFXM"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "Todo Me Recuerda A Ti",
+        "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Todo Me Recuerda A Ti",
+      "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -819,22 +819,18 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
+        "name": "Peca de Bonita",
+        "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
       },
       "artists": [
         {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
+      "duration_ms": 147093,
+      "name": "Peca de Bonita",
+      "url": "https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -855,18 +851,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Peca de Bonita",
-        "url": "https://open.spotify.com/album/7bHrAZIx7NRTAh2dLmEPqW"
+        "name": "Pa' Los Dolidos",
+        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
       "artists": [
         {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 147093,
-      "name": "Peca de Bonita",
-      "url": "https://open.spotify.com/track/1ZcGy0Rdj6boMmWAUoqed9"
+      "duration_ms": 161927,
+      "name": "Desaires",
+      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
     },
     {
       "added_at": "2022-09-23 05:00:00",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/4VUt0lvEPcNk9bZ3sDwROc"
     },
     {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 175306,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
+    },
+    {
       "added_at": "2022-12-09 06:00:00",
       "album": {
         "name": "Ya Es Suficiente",
@@ -935,22 +951,6 @@
       "duration_ms": 182044,
       "name": "Ya Es Suficiente",
       "url": "https://open.spotify.com/track/1XF09h15mtS3nvgDniNZN5"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "En Tu Sonrisa",
-        "url": "https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "En Tu Sonrisa",
-      "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
     },
     {
       "added_at": "2022-10-14 05:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "En Tu Sonrisa",
+        "url": "https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "En Tu Sonrisa",
+      "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "Los Besos Jam\u00e1s",
         "url": "https://open.spotify.com/album/1ZvZDdo2wp8MnzLUkocjgM"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 195140,
       "name": "Los Besos Jam\u00e1s",
       "url": "https://open.spotify.com/track/7pj6fB6ohdQBAsI4fVUUUd"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 175306,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1069,20 +1069,20 @@
       "url": "https://open.spotify.com/track/20QNDtc0S5p4CracDvoG94"
     },
     {
-      "added_at": "2022-10-28 05:00:00",
+      "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Me lo vas a agradecer",
-        "url": "https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a"
+        "name": "Buscando el Olvido",
+        "url": "https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ"
       },
       "artists": [
         {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
         }
       ],
-      "duration_ms": 190659,
-      "name": "Me lo vas a agradecer",
-      "url": "https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq"
+      "duration_ms": 152487,
+      "name": "Buscando el Olvido",
+      "url": "https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Buscando el Olvido",
-        "url": "https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 152487,
-      "name": "Buscando el Olvido",
-      "url": "https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Yo Quiero Ser",
         "url": "https://open.spotify.com/album/6IQASp9gvLbyMzzVB1FD9v"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 197640,
       "name": "Yo Quiero Ser",
       "url": "https://open.spotify.com/track/7zXyVTdASO4dzlKkvA26uj"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Me lo vas a agradecer",
+        "url": "https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a"
+      },
+      "artists": [
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 190659,
+      "name": "Me lo vas a agradecer",
+      "url": "https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq"
     },
     {
       "added_at": "2022-10-14 05:00:00",

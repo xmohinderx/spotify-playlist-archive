@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-308 songs - 1 day 5 hr 11 min
+309 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Love Song](https://open.spotify.com/track/6MWIaTPMTBItxX83g2RukN) | [Marcus Worgull](https://open.spotify.com/artist/4N2PiVgTuh2rxhc3HGVKAG) | [Love Song](https://open.spotify.com/album/6MrtOgbJZNXYfifA8bKrfo) | 6:27 | 2022-04-04 | 2022-08-13 |
 | [Love You Or Don't](https://open.spotify.com/track/2ihfWFRqpsebImMvBlzc84) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [Love You Or Don't](https://open.spotify.com/album/3eJumUNTRkDHN3WpHCCTt7) | 3:18 | 2021-11-26 | 2022-05-19 |
 | [Lunaire](https://open.spotify.com/track/72nMF220X1qe9OBskVHD71) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Lunaire](https://open.spotify.com/album/1o5rn6aA1xYmeH1iycw4gN) | 3:34 | 2021-11-26 | 2023-01-21 |
-| [Magenta](https://open.spotify.com/track/7dfmRPjeclzvCQaIVnlgpH) | [AIKON](https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp) | [Spektrum 4, pt\. I](https://open.spotify.com/album/3uq8sQrLGEyNZfzRGuo6zF) | 6:26 | 2022-11-25 |  |
+| [Magenta](https://open.spotify.com/track/7dfmRPjeclzvCQaIVnlgpH) | [AIKON](https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp) | [Spektrum 4, pt\. I](https://open.spotify.com/album/3uq8sQrLGEyNZfzRGuo6zF) | 6:26 | 2022-11-25 | 2023-01-22 |
 | [Matangi](https://open.spotify.com/track/07nVOOusinceXoUPH4ko89) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Matangi](https://open.spotify.com/album/45Q1bss7wlmJI3rxVXgXS4) | 7:45 | 2022-01-14 | 2022-04-16 |
 | [megapunk \- TSHA Remix](https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [megapunk \(remixes\)](https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs) | 4:40 | 2021-11-26 | 2022-10-01 |
 | [Message](https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Perspective EP](https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh) | 5:04 | 2021-11-26 | 2022-06-18 |
@@ -208,6 +208,7 @@
 | [Osama \- Edit](https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Osama \(Edit\)](https://open.spotify.com/album/5q1Iq5mxmYODLmwTlmDw6u) | 3:43 | 2022-02-04 |  |
 | [Oudara \- Club Mix](https://open.spotify.com/track/0QX9AiK3RhrJuJEHBlpYVd) | [Daniel Rateuke](https://open.spotify.com/artist/27NerKeEGofbhhDMEhagyq) | [Oudara](https://open.spotify.com/album/7rdSwrZvfnJZfSl8Cmi3Mk) | 5:45 | 2022-04-15 | 2022-04-21 |
 | [Owl Adventure](https://open.spotify.com/track/51uhOO3zvddkGfZHkRxbJc) | [Katrin Souza](https://open.spotify.com/artist/6MIjBHPbfQsN2BP72arjSf) | [Owl Adventure](https://open.spotify.com/album/47UqjyThELPKDNQ0kH32TV) | 8:03 | 2022-01-14 | 2022-07-29 |
+| [Oxygen \- Klangkarussell Remix](https://open.spotify.com/track/5L917TMJ8sIhEsuxQGjwH8) | [SIN](https://open.spotify.com/artist/2i5iThI7dEkgZVYAksSIFJ), [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Oxygen \(Klangkarussell Remix\)](https://open.spotify.com/album/5d8WXhJiQak8tEXBSC2HWX) | 12:19 | 2022-11-25 |  |
 | [Oxygen \- Klangkarussell Remix](https://open.spotify.com/track/6EukA3G83UulqI7NzpEEtG) | [SIN](https://open.spotify.com/artist/2i5iThI7dEkgZVYAksSIFJ), [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Oxygen \(Klangkarussell Remix\)](https://open.spotify.com/album/23cEdoCOAqdRGdLoQZsTR5) | 12:19 | 2021-11-26 | 2022-11-09 |
 | [Palm Trees](https://open.spotify.com/track/63j8rf1Qtn8UG1PZlvsWf2) | [Adam Stacks](https://open.spotify.com/artist/2L6tFQkfIxssirVgyNtVaL) | [Palm Trees](https://open.spotify.com/album/5PWueW2Xlt87sSDhdpFObd) | 5:20 | 2022-05-03 | 2022-07-29 |
 | [Pandora](https://open.spotify.com/track/2ymuOTZRriPFRyihMuiXwd) | [LEYZEN](https://open.spotify.com/artist/1Gdv7ddbuz4aqxDMYWIXnt) | [Pandora](https://open.spotify.com/album/60cRGlAzSKXoCQNQoDP6Du) | 7:04 | 2022-04-04 | 2022-07-22 |

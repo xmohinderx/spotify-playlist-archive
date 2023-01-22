@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,450 songs - 3 day 4 hr 19 min
+1,451 songs - 3 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [BULLYING BOYS](https://open.spotify.com/track/7GGrpWD9evnHjnk2oCeRZk) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [BULLYING BOYS](https://open.spotify.com/album/0pu1qrkfI32iz5MrVaxV4n) | 3:45 | 2020-10-20 | 2021-05-27 |
 | [Bummerland](https://open.spotify.com/track/3QCMUnmMaqokrfNZes4D6S) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Bummerland](https://open.spotify.com/album/5XIgmuIwLIkDr5mO4tEFpP) | 3:09 | 2020-10-13\* | 2021-05-24 |
 | [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 | 2021-11-12 | 2022-06-30 |
-| [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 | 2022-09-30 |  |
+| [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 | 2022-09-30 | 2023-01-22 |
 | [Busy](https://open.spotify.com/track/1ZOvGngH4YojNtbhtzJCZs) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Busy](https://open.spotify.com/album/3bvUadr6ldYuCapGdpOjC9) | 2:23 | 2020-11-20 | 2021-01-15 |
 | [Busy Boy](https://open.spotify.com/track/3YvF7itMxKrlezMRKpkfdD) | [Mark Johns](https://open.spotify.com/artist/6zMEGo7y1noMoUEcQfIRCT) | [Busy Boy](https://open.spotify.com/album/3z9eUWFyWVUsrvHZ6GphpI) | 2:28 | 2021-02-23 | 2021-03-06 |
 | [but i love you](https://open.spotify.com/track/43W2o7HEEYpj56vrkV7SpY) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [but i love you](https://open.spotify.com/album/0oTvl2dWcSOaToatvwkmQi) | 2:39 | 2021-02-23 | 2021-05-27 |
@@ -1157,6 +1157,7 @@
 | [smile](https://open.spotify.com/track/19H6OuZyJ9iFpxVvQveTJP) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 2:35 | 2022-12-07 | 2023-01-19 |
 | [Smoke and Mirrors](https://open.spotify.com/track/6fKpX8Zm3BR8SaZ4p20TA6) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Smoke and Mirrors](https://open.spotify.com/album/2HuDC40v2paafEQvIvkM41) | 3:11 | 2021-02-24 | 2021-05-27 |
 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 | 2022-10-21 |  |
+| [so easily \(with skaiwater\)](https://open.spotify.com/track/1rPW3G9rlPk4etgNPwR3nu) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [so easily \(with skaiwater\)](https://open.spotify.com/album/44KLAGMawWtI08ASBB8Ok6) | 3:39 | 2023-01-18 |  |
 | [So Far Away](https://open.spotify.com/track/6cjrJbXoA0VscOXEPgLdYv) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [So Far Away](https://open.spotify.com/album/0TnwHpwza2o3cMyklfOmCJ) | 3:27 | 2021-06-04 | 2022-04-05 |
 | [SO GOOD](https://open.spotify.com/track/4IFKZkPlmMEcNRwic25J9C) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [The Love Umbrella](https://open.spotify.com/album/1ZjpptSpeinLfTA8cmPNeK) | 2:10 | 2021-10-22 | 2022-04-15 |
 | [So Good](https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [So Good](https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2) | 2:26 | 2022-06-24 |  |

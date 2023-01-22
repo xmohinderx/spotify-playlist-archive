@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: toigo, GONEISBACK, NSW yoon, Roh Yunha, XINSAYNE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,039 likes - 97 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,086 likes - 97 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 11 | [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/track/1RjTor3VLx8OIfFtzXHJQ6) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/album/6s6t2HM03fSSmxpv2JBLQm) | 4:08 |
 | 12 | [Martin's Sofa](https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Martin's Sofa](https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O) | 4:00 |
 | 13 | [Pull Up](https://open.spotify.com/track/5MTsBHyJhjh93zDREvJTG1) | [SpydeeMatter](https://open.spotify.com/artist/3jxYkyQGbwZxY8SS2kiXoY), [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL), [Spydee](https://open.spotify.com/artist/6IO0OvEilNS5PLll5vAz3h) | [Pull Up](https://open.spotify.com/album/0JqveWRurLKCXQtHMEYjr7) | 2:03 |
-| 14 | [DONT@ME](https://open.spotify.com/track/4gcsdGh9WoSW41YXXv4Pzi) | [Nathan Elias](https://open.spotify.com/artist/7h3We9c7mAtQNoTLIejioj), [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [HYPERMNESIA PART I](https://open.spotify.com/album/6OMy1baTgJx8bfiOlJHGqf) | 3:12 |
+| 14 | [DONT@ME](https://open.spotify.com/track/4gcsdGh9WoSW41YXXv4Pzi) | [Nathan Elias](https://open.spotify.com/artist/7h3We9c7mAtQNoTLIejioj), [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [Hypermnesia Part I](https://open.spotify.com/album/6OMy1baTgJx8bfiOlJHGqf) | 3:12 |
 | 15 | [Party With Nari](https://open.spotify.com/track/2kek3tGBJy2nPkiVekYFtn) | [Tsunari](https://open.spotify.com/artist/1jiktv8es5sE3GMGO4Ago6) | [Party With Nari](https://open.spotify.com/album/19HdeXgedDZ3P8a8dkVzsL) | 2:41 |
 | 16 | [Kook BBong](https://open.spotify.com/track/4anp2uUmBhPXvaXJAttfVw) | [MeLoveMeAlot](https://open.spotify.com/artist/0usoeAOGoNP4O1Jmqj1x4f) | [Kook BBong](https://open.spotify.com/album/29RERh1QBxWOqf5kpl8G5b) | 2:37 |
 | 17 | [Jiga](https://open.spotify.com/track/5QrWk9AASs5BL65xYGlUhH) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY) | [Jiga](https://open.spotify.com/album/6Lep1pUvwGR0SNhYRuE23m) | 4:03 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 29 | [By accident \(Feat\. Mesani, Nucksal\)](https://open.spotify.com/track/0AJ42CWDhQyyVDA5DWHCVx) | [Conda](https://open.spotify.com/artist/5JmsoI6wkkNkgJDsMheitH), [Mesani](https://open.spotify.com/artist/7pua8I58KTTR311ZD8fagJ), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Where is my Invitation?](https://open.spotify.com/album/6jzwFZGiLUsT6rSI9tZLtW) | 3:02 |
 | 30 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 |
 | 31 | [The Magic Number](https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [The Magic Number](https://open.spotify.com/album/71GRtpoT3yDfZyvTc3Wk31) | 3:15 |
-| 32 | [All You Need to Know](https://open.spotify.com/track/53SKcEwwivMCDdGurTViwU) | [Malik Baptiste](https://open.spotify.com/artist/2suyXlUeCrOaFiNxKYIafV), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [All You Need to Know](https://open.spotify.com/album/0szj6bF0YFrRsMaoMmq8wb) | 3:05 |
+| 32 | [All You Need to Know](https://open.spotify.com/track/53SKcEwwivMCDdGurTViwU) | [Malik Baptiste](https://open.spotify.com/artist/3kOQ7t9MH5gt289CcfWZUW), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [All You Need to Know](https://open.spotify.com/album/0szj6bF0YFrRsMaoMmq8wb) | 3:05 |
 | 33 | [No Difference](https://open.spotify.com/track/5LtruwKEsXHdOareYrBklX) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [No Difference](https://open.spotify.com/album/1aYRvV3ymnKsWaZKlBaXU2) | 3:32 |
 | 34 | [Unavailable](https://open.spotify.com/track/6eK8zC4iPZ8cUfvEpUsBUC) | [Sappy Chill](https://open.spotify.com/artist/71gi5I6xsgPqS9KOFRBdKx), [Mars B](https://open.spotify.com/artist/3WmvQooo0fKwYMFuCpa7yo), [Fariz Jabba](https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh) | [Unavailable](https://open.spotify.com/album/7DnyOAloyHsCXONGGo7bYJ) | 2:57 |
 | 35 | [Models](https://open.spotify.com/track/2JsEgOHKxDPNyybV0roWYn) | [4L JAVI](https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a) | [Models](https://open.spotify.com/album/4nxEkS0v7QqboJ3to45x0B) | 1:44 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-652 songs - 1 day 14 hr 30 min
+653 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Em Day Chang Phai Thuy Kieu](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 | 2022-01-20 | 2022-01-26 |
 | [Em Gái Quê](https://open.spotify.com/track/1MNEQ0PDQUzmstnzfL9Q02) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq) | [Em Gái Quê](https://open.spotify.com/album/3oAOJhcqgDgsmnjS6rdp1Y) | 4:08 | 2021-12-21 | 2021-12-24 |
 | [Em Hát Ai Nghe](https://open.spotify.com/track/1SzlLbTE7hTs75M2R1a1Tg) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Em Hát Ai Nghe](https://open.spotify.com/album/484MnMltSafY73ocrCoKgv) | 4:39 | 2021-08-21 | 2021-09-19 |
-| [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 | 2021-07-09 | 2023-01-21 |
+| [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 | 2021-07-09 |  |
 | [Em Là](https://open.spotify.com/track/6A1IbMKwjvXibcrU1sdqKH) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A), [Onionn.](https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c) | [22](https://open.spotify.com/album/3lZ0sW4znNieFHxGdyWXCj) | 3:17 | 2022-09-18 |  |
 | [Em Trang Trí](https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Em Trang Trí](https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3) | 2:45 | 2021-12-21 | 2021-12-27 |
 | [Em Đã Có Người Mới \(feat\. Người cũ\)](https://open.spotify.com/track/2BqQ5ZM73pNugfd6NteCPe) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Người cũ](https://open.spotify.com/artist/17tMDCxssUUhEVWExf8y8N) | [Em Đã Có Người Mới \(feat\. Người cũ\)](https://open.spotify.com/album/5HvdagjBVavfnbMK4s1729) | 3:20 | 2021-12-12 | 2022-01-26 |
@@ -379,6 +379,7 @@
 | [Moon](https://open.spotify.com/track/6KhAXXgDtEEahVzATvFNcn) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:28 | 2021-12-27 | 2022-06-13 |
 | [moonchild](https://open.spotify.com/track/4fwYALz7GwmXgS8QTRjDEJ) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 3:25 | 2021-12-27 | 2022-09-18 |
 | [Moonlight](https://open.spotify.com/track/057xGYST5exVyNevufrioZ) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-2](https://open.spotify.com/album/1Pp8t7yn2E3rz3R7ZqPn1O) | 2:43 | 2021-12-27 | 2021-12-29 |
+| [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-21 |  |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-02 | 2022-07-17 |
 | [MORE](https://open.spotify.com/track/7GARzfC1mwhDuk4t9WOACq) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 3:00 | 2022-07-16 | 2022-11-12 |
 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/2CYVETnhM9aytqrazYYwrK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:37 | 2021-04-11 | 2021-04-13 |
@@ -398,7 +399,7 @@
 | [Một Khi Đã Yêu](https://open.spotify.com/track/0bTmdKwQ8xb0Xbvizt2GMy) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq), [RYO](https://open.spotify.com/artist/4U3Ylwb4E4lcUQ1DdPPCrq) | [Một Khi Đã Yêu](https://open.spotify.com/album/29QPcwXjUJOnNRxcPfcidQ) | 4:43 | 2022-02-11 | 2022-03-23 |
 | [Một Mình Có Buồn Không](https://open.spotify.com/track/6qojhjr9LHJOvLDzK5yBHP) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [Một Mình Có Buồn Không](https://open.spotify.com/album/2QDSFMA1EylK5Qm1AB0nHh) | 4:26 | 2021-03-31 | 2021-04-20 |
 | [Một Mình Có Buồn Không](https://open.spotify.com/track/7ne0bfecn1o29bXC0Xblj2) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [Một Mình Có Buồn Không](https://open.spotify.com/album/5Qhr6HOeRelMxCFk04Rxtb) | 4:26 | 2021-03-27\* | 2021-03-31 |
-| [Một Ngàn Nỗi Đau](https://open.spotify.com/track/05X3a0YGmS1rbH50aL8lGF) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Một Ngàn Nỗi Đau](https://open.spotify.com/album/3STAYL3gX9aQx2oi3yslIz) | 5:21 | 2022-06-25 |  |
+| [Một Ngàn Nỗi Đau](https://open.spotify.com/track/05X3a0YGmS1rbH50aL8lGF) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Một Ngàn Nỗi Đau](https://open.spotify.com/album/3STAYL3gX9aQx2oi3yslIz) | 5:21 | 2022-06-25 | 2023-01-22 |
 | [Một Năm Mới Bình An](https://open.spotify.com/track/5sV1co5LRGscLaMibfdD1Y) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [m\-tp M\-TP](https://open.spotify.com/album/5hxm3ulOLVvjFdZNFO3n4M) | 4:08 | 2022-02-01 | 2022-02-04 |
 | [N.O](https://open.spotify.com/track/47zs6e5M9Tsr7HhK45Gh6a) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:32 | 2022-06-11 | 2022-06-13 |
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-07-17 |
@@ -543,7 +544,7 @@
 | [Tally](https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 3:04 | 2022-09-17 | 2022-10-06 |
 | [Tam Giác](https://open.spotify.com/track/1rh2FhrUQ7YIPkbUePmBvw) | [Anh Phan](https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [Tam Giác](https://open.spotify.com/album/0TPPU8kjPXJ7TEULO8uOUy) | 2:02 | 2022-03-02 | 2022-03-07 |
 | [Telepathy](https://open.spotify.com/track/2FVpOsjT1iquZ3SpCjZ9Ne) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:22 | 2021-05-23 | 2021-11-23 |
-| [Thanh Xuan](https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thanh Xuan](https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw) | 3:40 | 2021-03-27\* |  |
+| [Thanh Xuan](https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thanh Xuan](https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw) | 3:40 | 2021-03-27\* | 2023-01-22 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-04-30 | 2022-06-11 |
 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 | 2022-04-14 | 2022-06-06 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2021-10-02 |

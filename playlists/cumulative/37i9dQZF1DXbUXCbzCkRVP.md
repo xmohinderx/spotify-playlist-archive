@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-98 songs - 6 hr 23 min
+99 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Spann's Stomp](https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Chicago/The Blues/Today!](https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T) | 2:21 | 2022-05-25 |  |
 | [Stop](https://open.spotify.com/track/4aWZIBCBMQEgMna9JpgW90) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH), [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Super Session \(with Al Kooper & Stephen Stills\)](https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj) | 4:18 | 2022-05-25 |  |
 | [Strollin' With Bones](https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings, 1950\-1954](https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX) | 2:30 | 2022-05-25 |  |
+| [Sunfall Blues](https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s) | [Sarah Rogo](https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6) | [Sunfall](https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5) | 4:00 | 2023-01-13 |  |
 | [Sunflower River Blues \- Re\-Recorded Version](https://open.spotify.com/track/6CePeHbXmgwna8B5dC6xKV) | [John Fahey](https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7) | [Death Chants, Breakdowns And Military Waltzes](https://open.spotify.com/album/05HGeZ7JSfwJiOpaToYzUu) | 3:20 | 2022-05-25 |  |
 | [Sweet Ginny](https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Screamin' the Blues](https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY) | 3:08 | 2022-05-25 |  |
 | [Thank You Mr\. Poobah](https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 4:05 | 2022-05-25 |  |
@@ -96,7 +97,7 @@
 | [The Creeper Returns](https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 4:13 | 2022-05-25 |  |
 | [The Grind](https://open.spotify.com/track/32yCGwnha9K0pIOCQTvnRL) | [Gus Cleese](https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2) | [The Grind](https://open.spotify.com/album/1igvzvQaDFctwsblVqQjxC) | 1:16 | 2022-11-24 |  |
 | [The Messiah Will Come](https://open.spotify.com/track/5Wz5FAR8rtzahwqPDIifRj) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ), [D\. Rivers](https://open.spotify.com/artist/2hFRqFw8t3n8L0oxSzJIhY) | [True Stories](https://open.spotify.com/album/18MxC4z6K39xkMOd2FWzBf) | 9:24 | 2022-06-29 | 2022-07-26 |
-| [The Messiah Will Come](https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu) | [Jimmy Thackery And The Drivers](https://open.spotify.com/artist/00f9rh6qgLy3a4eYqugUyg) | [True Stories](https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9) | 9:24 | 2022-11-24 |  |
+| [The Messiah Will Come](https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu) | [Jimmy Thackery And The Drivers](https://open.spotify.com/artist/00f9rh6qgLy3a4eYqugUyg) | [True Stories](https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9) | 9:24 | 2022-11-24 | 2023-01-22 |
 | [The Screwdriver](https://open.spotify.com/track/2qB2d4QdB5CpbQVAlbeM0A) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 3:08 | 2022-05-25 |  |
 | [The Stumble](https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 3:14 | 2022-05-25 |  |
 | [The Supernatural](https://open.spotify.com/track/4r4fq97cNvnRw7TmN6AaPr) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Truly English Blues Rock Band](https://open.spotify.com/album/4G5jNn7Xlh9eOC1ZyCJYDS) | 2:53 | 2022-05-25 | 2023-01-10 |

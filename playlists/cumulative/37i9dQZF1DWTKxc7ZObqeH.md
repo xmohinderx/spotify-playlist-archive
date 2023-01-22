@@ -4,7 +4,7 @@
 
 > Relaxing Jazz on a warm summer day.
 
-188 songs - 12 hr 16 min
+189 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Rockin' In Rhythm](https://open.spotify.com/track/6D6qDh4t6ThF1kQENHwvK5) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The Duke Ellington Song Book](https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc) | 2:15 | 2022-02-16 | 2022-06-01 |
 | [Samba Dees Days](https://open.spotify.com/track/68ELKUCl9CkRx3gXpMfjzL) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 3:32 | 2022-02-16 |  |
 | [Schnitz n´Schniggles](https://open.spotify.com/track/3BoKHF4H6OG9lSWKa1Scq3) | [Jack Rosenbaum](https://open.spotify.com/artist/4FJ62CBNJrKWADUOl6pqnb) | [Schnitz n´Schniggles](https://open.spotify.com/album/1ObA1O7H3uDG6kV6CROeVw) | 3:39 | 2022-02-16 |  |
-| [Shady Side](https://open.spotify.com/track/5j85Y5lPqHqvww4Q2H3pY1) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 7:04 | 2022-02-16 |  |
+| [Shady Side](https://open.spotify.com/track/5itvtJeCeqI7nh7257Eo8j) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Summer Music Fest](https://open.spotify.com/album/6CcGXTRjHgRj0DAqvgZg2K) | 7:04 | 2022-12-07 |  |
+| [Shady Side](https://open.spotify.com/track/5j85Y5lPqHqvww4Q2H3pY1) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 7:04 | 2022-02-16 | 2023-01-22 |
 | [She Said Yes](https://open.spotify.com/track/5xsMDruQqVmgxPhhZ7t1vR) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [She Said Yes](https://open.spotify.com/album/74eLy4GmusuE3foGgVKDc0) | 4:03 | 2022-02-16 | 2022-04-27 |
 | [Shiny Stockings](https://open.spotify.com/track/069buST4Z84x0O5TOtW48H) | [Rachel Silver](https://open.spotify.com/artist/6IwOxOuT7cPH3iF4jfjf2a) | [Oh, What a Beautiful Mornin'](https://open.spotify.com/album/02VmGGZVwEVQIv1gUJsYZx) | 4:17 | 2022-02-16 |  |
 | [Sidewalking](https://open.spotify.com/track/2DotXnuPKoxT5K2yjKvhn8) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Sidewalking](https://open.spotify.com/album/5EAwH1SGs0hvPxn27vzM1n) | 3:13 | 2022-02-16 |  |

@@ -4,7 +4,7 @@
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-230 songs - 14 hr 1 min
+231 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/5OzQJGSICWovSJI3OFydQ9) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:02 | 2022-09-08 | 2022-11-13 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-04-01 | 2022-07-28 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:02 | 2022-07-21 |  |
-| [Cicciolina](https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Amore Hardcore](https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw) | 4:37 | 2022-04-01 |  |
+| [Cicciolina](https://open.spotify.com/track/0QrJOSjSNTJf7ciphvUF90) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Amore Hardcore](https://open.spotify.com/album/0pZhpMVJHsDKcNsZL98Ptw) | 4:37 | 2022-04-01 | 2023-01-22 |
 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 | 2022-06-12 | 2022-06-27 |
 | [Classic](https://open.spotify.com/track/1UdcmVABuyQ4ZHiXpzoUZt) | [Oberdan](https://open.spotify.com/artist/4w5pfoZRqRiaPZkqkyYwVw) | [Classic](https://open.spotify.com/album/4FDY8KTqhxoSZ3b3zXfTuv) | 3:30 | 2022-07-04 | 2022-07-28 |
 | [Cloud 9](https://open.spotify.com/track/7s7ZfCgFo4j27xix023Vna) | [The Illustrious Blacks](https://open.spotify.com/artist/1ZZthpcsHPWbkTUw7HNTu1) | [Cloud 9](https://open.spotify.com/album/2RD5x06s2OZhPzNyvOMUyS) | 5:46 | 2022-06-26 | 2022-07-24 |
@@ -126,6 +126,7 @@
 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 | 2022-06-12 | 2022-06-27 |
 | [Lolita](https://open.spotify.com/track/3izyPpgjYjbKEFtng3IEcS) | [PRISTINE BABE](https://open.spotify.com/artist/0X8u1C9pKwm2tdvMKMVc31) | [Lolita](https://open.spotify.com/album/5CcDEtm147K0SuKsALChfM) | 3:49 | 2021-11-19 | 2022-02-01 |
 | [Lose You](https://open.spotify.com/track/2xKJ1lp7QG8E9VqpXSu1i6) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [I Feel Cream](https://open.spotify.com/album/6kceeYJdBMthVBI7VLKpoQ) | 3:31 | 2022-06-26 | 2022-07-16 |
+| [Lose You](https://open.spotify.com/track/7zKh8PCaBAtPaKmYxTVlAG) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [I Feel Cream](https://open.spotify.com/album/7DiMBetpYNLaLbmcpcorGl) | 3:31 | 2022-09-08 |  |
 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 | 2022-06-26 |  |
 | [LURIDONA](https://open.spotify.com/track/5jk0Jko1G8b9ZtiN7rOBhM) | [ASOKO](https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y) | [LURIDONA](https://open.spotify.com/album/1HKWCTcbfRowpc9N6r2sSc) | 1:45 | 2021-11-19 | 2022-07-29 |
 | [Magari Vivi](https://open.spotify.com/track/0yPWp3eBcoREfTTU4U1QwC) | [Romina Falconi](https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K) | [Magari Vivi](https://open.spotify.com/album/6oTqwvC6XLtQCcGqpqhdKK) | 2:49 | 2021-11-19 | 2022-07-29 |

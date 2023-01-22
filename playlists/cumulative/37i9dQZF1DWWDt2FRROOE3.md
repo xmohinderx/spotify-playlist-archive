@@ -4,7 +4,7 @@
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-71 songs - 4 hr 7 min
+72 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,8 +38,9 @@
 | [Firework](https://open.spotify.com/track/6HFlSRjB6k4uOU1tNJ2Wc9) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexipop](https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF) | 3:51 | 2021-07-28 |  |
 | [Gerudo Valley \(from "The Legend of Zelda: Ocarina of Time"\)](https://open.spotify.com/track/1Tj2GsPM4kfI5FXU1ODvTk) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 2:33 | 2021-07-28 |  |
 | [Get Lucky](https://open.spotify.com/track/2bDhqkRWUpEVXHFJzJ780i) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 4:01 | 2021-07-28 |  |
+| [Ghostbusters](https://open.spotify.com/track/0fTjEZcrP2Bya3DzJMsNry) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 3:40 | 2021-07-28 |  |
 | [Guardia Millenial Fair \(from "Chrono Trigger"\)](https://open.spotify.com/track/1YIYF9bKptGXXMKvJ6SrQx) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX) | [Mariachi Entertainment System](https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi) | 3:12 | 2021-07-28 |  |
-| [Happy](https://open.spotify.com/track/7oJceYpwUTWEpWWuR88G9z) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 3:57 | 2021-07-28 |  |
+| [Happy](https://open.spotify.com/track/7oJceYpwUTWEpWWuR88G9z) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 3:57 | 2021-07-28 | 2023-01-22 |
 | [Have You Ever Seen the Rain](https://open.spotify.com/track/0OMpwg10761Hr1EvwzTGbl) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 2:45 | 2021-07-28 |  |
 | [Here I Go Again](https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Dos](https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb) | 4:25 | 2021-07-28 | 2022-12-22 |
 | [Hotel California](https://open.spotify.com/track/7nfvquB7FYL5LSfaBqf7nd) | [Mariachi Espiritus](https://open.spotify.com/artist/7vAwj7m4gZrNW6QFt1MUO7) | [Hotel California](https://open.spotify.com/album/7Hl79MeDqq31oPTcUl1A6K) | 5:21 | 2021-07-28 |  |

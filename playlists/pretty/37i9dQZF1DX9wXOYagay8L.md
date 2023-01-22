@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=PU9vhObaRAGMe5mYoFDnXQ">Lwah Ndlunkulu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,220 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,391 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 6 | [Alusafani](https://open.spotify.com/track/1BXfrEUZFDhrVahuVT3PMK) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Alusafani](https://open.spotify.com/album/4u56tBvuMwxuyvgE4VsnXn) | 3:44 |
 | 7 | [Gibela](https://open.spotify.com/track/7h7Ygv9SuMXcuYZYNaghvj) | [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Gibela](https://open.spotify.com/album/1PJlGUGa58yCaE83Kt8zYJ) | 3:37 |
 | 8 | [Ithuba](https://open.spotify.com/track/2DTnuVhrGnLcmgutAW4vb1) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc) | [Ithuba](https://open.spotify.com/album/1pYMs6qogXnmKzGoGlBwWQ) | 4:23 |
-| 9 | [Uzoma](https://open.spotify.com/track/2CAqtVOt19JLoSvcx66kZL) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Uzoma](https://open.spotify.com/album/5uKp2O0nl9TwCxfe1iCsxv) | 4:13 |
+| 9 | [Uzoma](https://open.spotify.com/track/2CAqtVOt19JLoSvcx66kZL) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [Uzoma](https://open.spotify.com/album/5uKp2O0nl9TwCxfe1iCsxv) | 4:13 |
 | 10 | [Qoma](https://open.spotify.com/track/7tJRECMBZbgGUh83C48NB0) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc) | [Qoma](https://open.spotify.com/album/7bL1zIGv1QtVCBU2kEwIr6) | 4:30 |
 | 11 | [Sobonana](https://open.spotify.com/track/2rkUVpUm885ZdY06e3Ub0v) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J) | [Words of Hope](https://open.spotify.com/album/78D6xzkUvdpGiVSMvckSOM) | 5:14 |
 | 12 | [Emakhaya](https://open.spotify.com/track/3M8QUN5XraDwiIM2YlpqVN) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM) | [Indlela](https://open.spotify.com/album/69bzQJaAvMR92psMY098UI) | 3:32 |

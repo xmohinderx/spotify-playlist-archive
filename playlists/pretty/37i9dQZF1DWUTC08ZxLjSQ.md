@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: LAÏ , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,978 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,006 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 6 | [Ouli Liya](https://open.spotify.com/track/5sk6R2149eT82gPVQI5vSY) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Ouli Liya](https://open.spotify.com/album/2sqrTDtjVrLRG2qradXlHQ) | 3:21 |
 | 7 | [Khayal](https://open.spotify.com/track/7JujukqNH3ouQYr2JM9TIq) | [Zatara](https://open.spotify.com/artist/5WOif35LUAZ7VfSmpELcQF) | [Khayal](https://open.spotify.com/album/3JM7yXIZdI6CH5gNIezXtZ) | 3:52 |
 | 8 | [Lola](https://open.spotify.com/track/7h3MyaF9PwcTRsoTugynP6) | [Albaitil Ashwai](https://open.spotify.com/artist/6Xb2llJHXVw4OBdXGcAfX7) | [Lola](https://open.spotify.com/album/3gjyvRAkNSf8u4eSBfCLmM) | 3:16 |
-| 9 | [Pears](https://open.spotify.com/track/3jETj9f1MNRF1Dsna9qfXj) | [Mission to the moon](https://open.spotify.com/artist/6eS0ZnTk0HjEBDMMs6Ioda) | [Pears](https://open.spotify.com/album/7mYWOIIQ1n4Jzj5PRzno6x) | 3:36 |
+| 9 | [Pears](https://open.spotify.com/track/3jETj9f1MNRF1Dsna9qfXj) | [Mission To The Moon](https://open.spotify.com/artist/6mPXYU5tU46bVYpiXYdxM7) | [Pears](https://open.spotify.com/album/7mYWOIIQ1n4Jzj5PRzno6x) | 3:36 |
 | 10 | [103](https://open.spotify.com/track/5zqSgg5YkPUdzE5BpZV4x1) | [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [103](https://open.spotify.com/album/0UmHC2jX7B5oIb64bDkPh0) | 1:46 |
 | 11 | [QAAR A](https://open.spotify.com/track/0ipud6EnSxKYX27PDU9lXM) | [Muskila](https://open.spotify.com/artist/1iBiS6r5HvyEALDYfkWAQm) | [QAAR A](https://open.spotify.com/album/0r0oe1UN516mz9vAh3uu5m) | 4:00 |
 | 12 | [Banda](https://open.spotify.com/track/1MPM80AcWKknvhIJL8nZON) | [DADO](https://open.spotify.com/artist/3JZEJB0wz9iw5yJGqfgKsg) | [Banda](https://open.spotify.com/album/2357p5LMBTSEQYjFdXshIn) | 2:15 |

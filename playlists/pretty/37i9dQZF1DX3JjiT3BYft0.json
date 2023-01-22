@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 50662,
+  "num_followers": 50689,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDk0MjM1MywwMDAwMDAwMDVmNzE4YjQ1NTg4MWQwZTAyYTcxYTk2N2M4YmY3MDQw",
+  "snapshot_id": "MTY3MDk0MjM1MywwMDAwMDAwMDA0YzU5MTI3NGRhNGI0ODgwZGQ5NjY4ZTQxYmJlMTVj",
   "tracks": [
     {
       "added_at": "2022-12-13 14:39:13",
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
         }
       ],
-      "duration_ms": 282335,
-      "name": "HELL! or HELL?",
-      "url": "https://open.spotify.com/track/4BLkz8cHw7DRsJMgYVWbBI"
+      "duration_ms": 301500,
+      "name": "R\u00b7I\u00b7O\u00b7T",
+      "url": "https://open.spotify.com/track/5SY9BO5RF5ecqQYtDYyCB5"
     },
     {
       "added_at": "2022-12-13 14:39:13",
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
         }
       ],
-      "duration_ms": 301500,
-      "name": "R\u00b7I\u00b7O\u00b7T",
-      "url": "https://open.spotify.com/track/5SY9BO5RF5ecqQYtDYyCB5"
+      "duration_ms": 282335,
+      "name": "HELL! or HELL?",
+      "url": "https://open.spotify.com/track/4BLkz8cHw7DRsJMgYVWbBI"
     },
     {
       "added_at": "2022-12-13 14:39:13",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-12-13 14:39:13",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~\u300d",
+        "url": "https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
+        }
+      ],
+      "duration_ms": 243156,
+      "name": "\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~",
+      "url": "https://open.spotify.com/track/1m7rkEyTtteRmWbMQlDK4W"
+    },
+    {
+      "added_at": "2022-12-13 14:39:13",
+      "album": {
         "name": "\u30af\u30a4\u30f3\u30c6\u30a3\u30d7\u30eb\u2606\u3059\u307e\u3044\u308b",
         "url": "https://open.spotify.com/album/7jSTcMdYALUXD6hZWdsw5J"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 243835,
       "name": "\u30af\u30a4\u30f3\u30c6\u30a3\u30d7\u30eb\u2606\u3059\u307e\u3044\u308b",
       "url": "https://open.spotify.com/track/38h0Hs77kE2C1nRN9KgZqp"
-    },
-    {
-      "added_at": "2022-12-13 14:39:13",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~\u300d",
-        "url": "https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK"
-      },
-      "artists": [
-        {
-          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
-          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
-        }
-      ],
-      "duration_ms": 243156,
-      "name": "\u9060\u3044\u97f3\u697d ~\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8~",
-      "url": "https://open.spotify.com/track/1m7rkEyTtteRmWbMQlDK4W"
     },
     {
       "added_at": "2022-12-13 14:39:13",

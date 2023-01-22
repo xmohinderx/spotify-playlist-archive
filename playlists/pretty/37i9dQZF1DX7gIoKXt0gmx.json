@@ -1,12 +1,12 @@
 {
   "description": "All the vibes. All the feels. \ud83e\udee0",
-  "num_followers": 2505459,
+  "num_followers": 2506525,
   "original_name": "All The Feels",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzY3ODI5NSwwMDAwMDAwMDU5ZjgxNmI4MDVhMmE3M2Q3MjkwYmY1ZTkxOWYyZTdi",
+  "snapshot_id": "MTY3MzY3ODI5NSwwMDAwMDAwMDlmODVlYjRlYjc0NWIyOWE5OTQ2ZGY0ODljOTI1ODk3",
   "tracks": [
     {
       "added_at": "2023-01-14 06:38:15",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-01-14 06:38:15",
       "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 265120,
-      "name": "Doing It Wrong",
-      "url": "https://open.spotify.com/track/4eSGSqP2TZvvX0kadZZttM"
-    },
-    {
-      "added_at": "2023-01-14 06:38:15",
-      "album": {
         "name": "TAKE TIME",
         "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 172907,
       "name": "Favorite Mistake",
       "url": "https://open.spotify.com/track/4rHIfYRQw6ittRQXAlurk0"
+    },
+    {
+      "added_at": "2023-01-14 06:38:15",
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 265120,
+      "name": "Doing It Wrong",
+      "url": "https://open.spotify.com/track/4eSGSqP2TZvvX0kadZZttM"
     },
     {
       "added_at": "2023-01-14 06:38:15",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-01-14 06:38:15",
       "album": {
-        "name": "Give Me Time",
-        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 154702,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
-    },
-    {
-      "added_at": "2023-01-14 06:38:15",
-      "album": {
         "name": "YESSIE",
         "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 206728,
       "name": "MUTUAL FRIEND",
       "url": "https://open.spotify.com/track/6PFyd6Gmp2LZHI1IpkZGgy"
+    },
+    {
+      "added_at": "2023-01-14 06:38:15",
+      "album": {
+        "name": "Give Me Time",
+        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 154702,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
     },
     {
       "added_at": "2023-01-14 06:38:15",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-01-14 06:38:15",
       "album": {
-        "name": "ONCE UPON A TIME",
-        "url": "https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu"
-      },
-      "artists": [
-        {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
-        }
-      ],
-      "duration_ms": 130882,
-      "name": "CINDERELLA, Pt. 2",
-      "url": "https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby"
-    },
-    {
-      "added_at": "2023-01-14 06:38:15",
-      "album": {
         "name": "Wake Up Love",
         "url": "https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 215329,
       "name": "Wake Up Love",
       "url": "https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin"
+    },
+    {
+      "added_at": "2023-01-14 06:38:15",
+      "album": {
+        "name": "ONCE UPON A TIME",
+        "url": "https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu"
+      },
+      "artists": [
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "duration_ms": 130882,
+      "name": "CINDERELLA, Pt. 2",
+      "url": "https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby"
     },
     {
       "added_at": "2023-01-14 06:38:15",

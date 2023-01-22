@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-145 songs - 13 hr 34 min
+146 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Change With Me](https://open.spotify.com/track/1ySN6MUzUh37rKzKsrLX8O) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Change With Me](https://open.spotify.com/album/09xbN5iMMIuelffXYAKEbS) | 6:41 | 2022-12-02 | 2023-01-21 |
 | [Close Your Eyes](https://open.spotify.com/track/2ykio2Gv8ZiyRMtTNBhB8r) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Close Your Eyes](https://open.spotify.com/album/0LcmOI4mgsVS545GrAcYE4) | 3:24 | 2023-01-06 |  |
 | [Closed Doors](https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Closed Doors](https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A) | 5:43 | 2022-12-28 | 2023-01-06 |
+| [Concorde](https://open.spotify.com/track/1QWj9NYh8ZcSugtyBhSIea) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Concorde](https://open.spotify.com/album/5tDbwaajccd1lTumbnB0kK) | 3:56 | 2023-01-20 |  |
 | [Consciousness \- Eric Prydz Remix](https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu) | 4:04 | 2022-11-23 |  |
 | [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 | 2022-11-23 |  |
 | [Cycles](https://open.spotify.com/track/3EtEfnPhlRPuM6ShLIcd33) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Mardraüs](https://open.spotify.com/artist/3q5A1HlL3MuhN1DKH4UHSm) | [Cycles](https://open.spotify.com/album/4jpO0xkA40y6zJUPp2yMUm) | 5:00 | 2022-12-06 |  |
@@ -105,7 +106,7 @@
 | [Renaissance](https://open.spotify.com/track/7oUPAECJUeHNDVaQ7tmE6r) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Renaissance](https://open.spotify.com/album/41niRA6vCMTukxuQrhVHCf) | 5:04 | 2022-11-23 | 2022-12-13 |
 | [Resonate](https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn) | 3:41 | 2022-11-23 |  |
 | [Restore](https://open.spotify.com/track/0YlaTJMGeSkSocg77wPpJu) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Restore](https://open.spotify.com/album/0KUTLvMNkFGeyMQ0WmGUJp) | 7:13 | 2022-12-09 |  |
-| [Return to Forever](https://open.spotify.com/track/7l4p4jwpwtXgbJVZTjbU8s) | [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ) | [Return to Forever](https://open.spotify.com/album/47I45xg9PGxwy3k8kCeWUr) | 8:08 | 2022-11-23 |  |
+| [Return to Forever](https://open.spotify.com/track/7l4p4jwpwtXgbJVZTjbU8s) | [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ) | [Return to Forever](https://open.spotify.com/album/47I45xg9PGxwy3k8kCeWUr) | 8:08 | 2022-11-23 | 2023-01-22 |
 | [Revision](https://open.spotify.com/track/6Sx4f9KKwMl2YRguEqiL0A) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Revision](https://open.spotify.com/album/5zfHOeT9bFwQQm8H95crzB) | 7:13 | 2022-12-16 |  |
 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 | 2022-12-28 | 2023-01-06 |
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2022-12-28 | 2023-01-06 |

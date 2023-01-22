@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Mauro Henrique",
-  "num_followers": 111805,
+  "num_followers": 111852,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMGI1Y2JiMmRjZTZhZGM1NTk1MzRlN2IzNmUyZDNkZjdm",
+  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMGFkNGQ2NWMyYmFlNjA0YmMyMmJlNDNiOGZhNDA4YmYz",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Glorificar Cristo, Edificar a Igreja",
+        "url": "https://open.spotify.com/album/0M76j8Ya0ivRnkRvTHR0GE"
+      },
+      "artists": [
+        {
+          "name": "Projeto Sola",
+          "url": "https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K"
+        }
+      ],
+      "duration_ms": 324617,
+      "name": "Glorificar",
+      "url": "https://open.spotify.com/track/01BOsTs8gmz5XYl7vafIlj"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Me Fez Vivo (feat. Fernandinho)",
         "url": "https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 241088,
       "name": "Me Fez Vivo (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Glorificar Cristo, Edificar a Igreja",
-        "url": "https://open.spotify.com/album/0M76j8Ya0ivRnkRvTHR0GE"
-      },
-      "artists": [
-        {
-          "name": "Projeto Sola",
-          "url": "https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K"
-        }
-      ],
-      "duration_ms": 324617,
-      "name": "Glorificar",
-      "url": "https://open.spotify.com/track/01BOsTs8gmz5XYl7vafIlj"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Meu Valor",
-        "url": "https://open.spotify.com/album/4geKNbzhHEZ8oCgBOvmLXu"
-      },
-      "artists": [
-        {
-          "name": "A Trilha",
-          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Meu Valor",
-      "url": "https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Quarantine Session",
         "url": "https://open.spotify.com/album/6m8Wrjp6evIkYI0fLlH6Uw"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
+        "name": "Meu Valor",
+        "url": "https://open.spotify.com/album/4geKNbzhHEZ8oCgBOvmLXu"
       },
       "artists": [
         {
-          "name": "ID2",
-          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
+      "duration_ms": 173026,
+      "name": "Meu Valor",
+      "url": "https://open.spotify.com/track/4FnjAbTNsfIk1C0Byu1WGq"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -907,8 +891,24 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Caminho Sem Volta",
-        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
+      },
+      "artists": [
+        {
+          "name": "ID2",
+          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Agora Eu Vivo Teu Amor",
+        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
         }
       ],
-      "duration_ms": 215064,
-      "name": "Caminho Sem Volta",
-      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
+      "duration_ms": 190519,
+      "name": "Agora Eu Vivo Teu Amor",
+      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Lado a Lado",
+        "url": "https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Lado a Lado",
+      "url": "https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "N\u00e3o H\u00e1 Varia\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6PQJLYmuBIdE9z3tzWBVZr"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Lado a Lado",
-        "url": "https://open.spotify.com/album/3YjjJX4higvdh2gqKxHs9O"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Lado a Lado",
-      "url": "https://open.spotify.com/track/0GTm4VBJFD2UXrgirOvAtE"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Trindade",
         "url": "https://open.spotify.com/album/7KRAib9LMy9keCV4YHT3aK"
       },
@@ -1079,8 +1079,8 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Agora Eu Vivo Teu Amor",
-        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
+        "name": "Caminho Sem Volta",
+        "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
       "artists": [
         {
@@ -1088,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
         }
       ],
-      "duration_ms": 190519,
-      "name": "Agora Eu Vivo Teu Amor",
-      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
+      "duration_ms": 215064,
+      "name": "Caminho Sem Volta",
+      "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
     },
     {
       "added_at": "2023-01-20 03:00:00",

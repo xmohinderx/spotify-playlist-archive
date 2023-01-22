@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,051 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,020 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 18 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5e0ZoBIiEcB883wyjRDD8g) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 5:18 |
 | 19 | [Try A Little Tenderness](https://open.spotify.com/track/34sxylPJvXX86OD4mtvGcl) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 6:13 |
 | 20 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
-| 21 | [Joy to the World \(with Georgia Mass Choir\)](https://open.spotify.com/track/2HwaTkbNED2nZfSijP9TLF) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [The Georgia Mass Choir](https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN) | [One Wish / The Holiday Album](https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU) | 4:41 |
-| 22 | [Now Behold the Lamb](https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 6:58 |
+| 21 | [Now Behold the Lamb](https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 6:58 |
+| 22 | [Joy to the World \(with Georgia Mass Choir\)](https://open.spotify.com/track/2HwaTkbNED2nZfSijP9TLF) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [The Georgia Mass Choir](https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN) | [One Wish / The Holiday Album](https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU) | 4:41 |
 | 23 | [Every Year, Every Christmas](https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Classic Christmas Album](https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5) | 5:05 |
 | 24 | [Sleigh Ride](https://open.spotify.com/track/3KHCV3XwRnNQrcM1jXHl1g) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Sleigh Ride \(Remixes\)](https://open.spotify.com/album/1PmqStRSXXG1rC7SotPbK1) | 3:44 |
 | 25 | [Someday at Christmas](https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 3:02 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 31 | [Christmas Time Again](https://open.spotify.com/track/0xBnJDbPobgPwj7SUKfNbS) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti's Christmas](https://open.spotify.com/album/2cCgsczHC4dG2TSSPSxzL5) | 4:04 |
 | 32 | [This Christmas](https://open.spotify.com/track/1s8KCi8neCwrRSyhREKmcA) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [This Christmas](https://open.spotify.com/album/3bBMugmgG1UUMP8ez5V5Xj) | 3:01 |
 | 33 | [Jingle Bells](https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:23 |
-| 34 | [Deck the Halls / Silent Night](https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [One Wish / The Holiday Album](https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU) | 4:29 |
-| 35 | [Joyful, Joyful](https://open.spotify.com/track/671bbzZZlT7tjVUR8CQ5p8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Joyful, Joyful](https://open.spotify.com/album/208bCz548yflYMALLMh1kN) | 3:54 |
+| 34 | [Joyful, Joyful](https://open.spotify.com/track/671bbzZZlT7tjVUR8CQ5p8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Joyful, Joyful](https://open.spotify.com/album/208bCz548yflYMALLMh1kN) | 3:54 |
+| 35 | [Deck the Halls / Silent Night](https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [One Wish / The Holiday Album](https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU) | 4:29 |
 | 36 | [Soul Holidays](https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml) | [Sounds Of Blackness](https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9) | [The Very Best Of Sounds Of Blackness & Ann Nesby](https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM) | 6:00 |
 | 37 | [Hark the Herald Angels Sing](https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [A Mary Mary Christmas](https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73) | 3:35 |
 | 38 | [This Christmas](https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [This Christmas](https://open.spotify.com/album/23jUzlbMdbzQEEUyJgQbl8) | 4:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [Chimney \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 4:35 |
 | 75 | [Home On Christmas](https://open.spotify.com/track/0TmMJK8wPVDdP8HcQhbnSm) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Home On Christmas](https://open.spotify.com/album/4vuJvR0EOuGKC2PnUojAuv) | 2:32 |
 
-Snapshot ID: `MTY3MTE2OTg0MywwMDAwMDAwMGVmNTZlYWI3NDNiOWFjYjY4OTM4Y2JiNjljYWJmNzk4`
+Snapshot ID: `MTY3MTE2OTg0MywwMDAwMDAwMGM1OTIzZTk1YzIwMmE5NDQ5NTMxOTllMWEyOTFiMDIx`

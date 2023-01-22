@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-363 songs - 1 day 2 hr 35 min
+364 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Labels](https://open.spotify.com/track/42MNRpMr4bwE5zIMzvcO3s) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Labels](https://open.spotify.com/album/1VmqCxNn7t42zRx566zVe7) | 5:21 | 2022-03-24 | 2022-07-26 |
 | [Lady \(Ezra Collective Version\)](https://open.spotify.com/track/7qxfxicaAE5DLMxXx0IvoG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Lady \(Ezra Collective Version\)](https://open.spotify.com/album/4yw5JJgvqt2Lv8aT24tqK3) | 5:47 | 2023-01-13 |  |
 | [Last 100](https://open.spotify.com/track/39WFZVKifA8Fl2TZI2kp0S) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/6iOCv7oGL5sGi2aVnRz2BI) | 4:00 | 2021-12-17 | 2022-05-27 |
+| [Late Night People](https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Late Night People](https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo) | 5:34 | 2023-01-20 |  |
 | [Leader](https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Leader](https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm) | 3:35 | 2022-07-28 |  |
 | [Lemon Squeezy](https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Lemon Squeezy / Afrique](https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp) | 3:32 | 2022-03-31 |  |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 3:23 | 2022-11-11 |  |
@@ -259,7 +260,7 @@
 | [Safe, Pt\. 1](https://open.spotify.com/track/0t1GpwQNOhyngRVjO4vbt1) | [Daniel Casimir](https://open.spotify.com/artist/3J4HhohiA3sFTwyHTBqKs1), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Rosie Turton](https://open.spotify.com/artist/5XhOg4JXERUGJbf6DQTPdT), [Al MacSween](https://open.spotify.com/artist/2zEEuFzo9LepOkkCtGnCbu), [James Copus](https://open.spotify.com/artist/3QKktO8tdBUJq3qhZ3Iqrg) | [Safe, Pt\. 1](https://open.spotify.com/album/3FBvtyYY3Gmv1BnLTMyPcm) | 7:07 | 2021-12-17 | 2022-07-29 |
 | [Sage Secrets](https://open.spotify.com/track/3cqKNfyrHyhrBdciF0wj92) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Sage Secrets](https://open.spotify.com/album/5u8PXxCMPYOWB52Uwz227q) | 3:42 | 2022-01-28 | 2022-02-03 |
 | [Say Something](https://open.spotify.com/track/0GCc41cTes6Tb0Webhq1VR) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Say Something](https://open.spotify.com/album/6peTH7gnZLB9adBPSjCcph) | 3:49 | 2021-12-17 | 2022-07-29 |
-| [Say Something](https://open.spotify.com/track/3dAVMvD7oPW9HtaoQG680C) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9) | 3:49 | 2022-03-08 |  |
+| [Say Something](https://open.spotify.com/track/3dAVMvD7oPW9HtaoQG680C) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9) | 3:49 | 2022-03-08 | 2023-01-22 |
 | [Searching](https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC) | [Ugolino](https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7) | [Searching](https://open.spotify.com/album/3DjTtuhKc7GYtHJ1xcJQ7w) | 3:41 | 2022-07-14 |  |
 | [See You](https://open.spotify.com/track/0zYHvLLjzBbMYsk2dHY2gY) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Smile](https://open.spotify.com/album/7xQ7j0RjNCkkkAeJfFhdaX) | 3:04 | 2022-07-28 |  |
 | [See You](https://open.spotify.com/track/5GZFPLrGgPH0cG2R12aaVM) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Smile](https://open.spotify.com/album/0IG2QS1gTNj7bb3SsCrwp4) | 3:04 | 2021-12-17 | 2022-07-29 |

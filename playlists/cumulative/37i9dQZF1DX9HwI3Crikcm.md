@@ -4,7 +4,7 @@
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-129 songs - 8 hr 44 min
+130 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [The Track for the Craic](https://open.spotify.com/track/2eT2QheRFkPxf4yElE0vQV) | [Socks in the Frying Pan](https://open.spotify.com/artist/2T1zXgma5xEKe7xyd08npf) | [Socks in the Frying Pan](https://open.spotify.com/album/2OH2E5ZrceCAjq32c1d6zp) | 4:36 | 2020-11-11 |  |
 | [The Walls of Liscarroll \(Jig\)](https://open.spotify.com/track/7uTMMxIG7S6CtNlSShD9Qb) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [The Chieftains 1](https://open.spotify.com/album/7id2ew7OGhTvm1YIZHlu14) | 2:43 | 2020-11-11 |  |
 | [The Walls of Liscarroll Jig](https://open.spotify.com/track/1tzAzy6DtJiS0gP7szseoA) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [The Chieftains 1](https://open.spotify.com/album/5kwAsNK7ha3AK5dCAyyjEs) | 2:43 | 2020-11-11 | 2022-07-29 |
-| [Tuttle's Reel](https://open.spotify.com/track/55T8dngArgGkHMA5a46jK6) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Heaven Depends](https://open.spotify.com/album/3TZjNSWnlMnNiQGJtwoGp5) | 1:18 | 2020-11-11 |  |
+| [Tuttle's Reel](https://open.spotify.com/track/4hBnSQbRDTOO85HI6FYqva) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Heaven Depends](https://open.spotify.com/album/4t8VG3SpiS22Ugs3bu4CUf) | 1:18 | 2020-11-11 |  |
+| [Tuttle's Reel](https://open.spotify.com/track/55T8dngArgGkHMA5a46jK6) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Heaven Depends](https://open.spotify.com/album/3TZjNSWnlMnNiQGJtwoGp5) | 1:18 | 2020-11-11 | 2023-01-22 |
 | [Wee Michael's March / Frank's Reel \- Live](https://open.spotify.com/track/4GWJ2YTQHE0KbNDgls2pAi) | [Michael McGoldrick](https://open.spotify.com/artist/6XLzyxxr88YdGmrCKrFI74), [John Doyle](https://open.spotify.com/artist/3a1QidCLKC1IuMfGKY58kC), [John McCusker](https://open.spotify.com/artist/48TAnd5kMPfKUdzFjRMITI) | [The Mark Radcliffe Folk Sessions: Mcgoldrick Mccusker Doyle](https://open.spotify.com/album/6L04gkgSxKGZD90iZrA9hi) | 4:54 | 2020-11-11 |  |
 | [Wee Michael's March / Frank's Reel \- Live](https://open.spotify.com/track/6l82Qy6UP49Z7NBh6UAMkf) | [mike mcgoldrick](https://open.spotify.com/artist/4hw3LX0y6gXNTwW6yYb2y4), [John Doyle](https://open.spotify.com/artist/3a1QidCLKC1IuMfGKY58kC), [John McCusker](https://open.spotify.com/artist/48TAnd5kMPfKUdzFjRMITI) | [The Mark Radcliffe Folk Sessions: McGoldrick McCusker Doyle](https://open.spotify.com/album/4KJi4YO8zhHtu3fjkdSmlL) | 4:54 | 2020-11-11 | 2022-07-29 |
 | [Young Tom Ennis](https://open.spotify.com/track/1xFkHZexkiOKuldYGAX7eu) | [Noel Hill](https://open.spotify.com/artist/3mOxdrvnnFAGKWE29vW7qx), [Tony MacMahon](https://open.spotify.com/artist/1suQ05WMwsctRnmYZrh9CG) | [I gCnoc Na Graí](https://open.spotify.com/album/0nddrCTEQOWTXKaaRBDAHr) | 3:17 | 2020-11-11 | 2022-07-29 |

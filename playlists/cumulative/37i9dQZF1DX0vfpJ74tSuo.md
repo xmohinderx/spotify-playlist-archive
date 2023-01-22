@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-153 songs - 9 hr 27 min
+154 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Pick a Bale of Cotton](https://open.spotify.com/track/1ykJT3sdoMmPzGpy9MjpR4) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Pick a Bale of Cotton](https://open.spotify.com/album/1mZYq4U5sZgmdpjLup46FC) | 3:02 | 2022-05-25 | 2022-07-29 |
 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 | 2022-05-25 |  |
 | [Queen Bee](https://open.spotify.com/track/6kqXaZrIDOmA177KL9LHHf) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Señor Blues](https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA) | 4:40 | 2022-05-25 |  |
-| [Railroad Bill](https://open.spotify.com/track/3mxfxxfDxftkdvZIpLKtHk) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Folk Songs for Old Times' Sake](https://open.spotify.com/album/1aer0tW0fu6Zv2XPpDQWBv) | 2:25 | 2023-01-20 |  |
+| [Railroad Bill](https://open.spotify.com/track/3mxfxxfDxftkdvZIpLKtHk) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Folk Songs for Old Times' Sake](https://open.spotify.com/album/1aer0tW0fu6Zv2XPpDQWBv) | 2:25 | 2023-01-20 | 2023-01-22 |
 | [Rank Strangers](https://open.spotify.com/track/75E8SwuE43G0bj3kHZlIts) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 2:27 | 2022-09-20 |  |
 | [Rock Me Baby](https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues Kingpins](https://open.spotify.com/album/7Lxd3Sj8L3Wwx4Hctxjx3p) | 2:59 | 2022-09-20 |  |
 | [Rock Me Baby](https://open.spotify.com/track/68joAgewDdtHYPwIyOFhIX) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Best of the Blues Guitar King 1951\-1966](https://open.spotify.com/album/1vI1KwsnWokzvNeXoNtlYZ) | 2:59 | 2022-05-25 | 2022-07-29 |
@@ -148,6 +148,7 @@
 | [The World Can Be So Cold](https://open.spotify.com/track/1lUN4eNRlpuf3hHJjXf7KG) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [The World Can Be So Cold](https://open.spotify.com/album/7kE0bDyvEtUN1HLK6aHRwC) | 3:26 | 2022-05-25 | 2022-07-29 |
 | [The World Keep On Turning](https://open.spotify.com/track/6QTPOQnpaBcqNmYmKr07TR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/45i41n53udGyswkJ9uR8pB) | 2:27 | 2022-05-27 | 2022-06-26 |
 | [The World Keep on Turning](https://open.spotify.com/track/4hcMB6cObt073jy7IJME51) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:29 | 2023-01-20 |  |
+| [Throw That Stone](https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Throw That Stone](https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV) | 2:58 | 2023-01-20 |  |
 | [Till the Real Thing Comes Along](https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 3:07 | 2022-05-27 |  |
 | [Two Step Too](https://open.spotify.com/track/3qFPfJOLQanNyGcvduvG6p) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 3:06 | 2022-10-10 |  |
 | [Walkin Man](https://open.spotify.com/track/3lw5QiH1GDqRFVtpQpOd4g) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [I Started Out With Nothin And I Still Got Most Of It Left](https://open.spotify.com/album/39xS8gFSSGE8iyMGICg5Yr) | 2:42 | 2022-05-25 |  |

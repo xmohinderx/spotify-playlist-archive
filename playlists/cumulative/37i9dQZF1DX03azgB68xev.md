@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-322 songs - 18 hr 3 min
+323 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,10 +218,11 @@
 | [One Step](https://open.spotify.com/track/0gMTFWuIFPt2rc0ghbAQeV) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason \(Deluxe\)](https://open.spotify.com/album/3CPKcXAyDtYYcYlVjS17wG) | 2:52 | 2021-10-31 | 2022-07-24 |
 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 | 2023-01-13 |  |
 | [ONLY U \(feat\. Terrian\)](https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Only U Forever](https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL) | 3:22 | 2021-10-31 | 2022-07-26 |
-| [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 | 2023-01-13 |  |
+| [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 | 2023-01-13 | 2023-01-22 |
 | [Ordinary](https://open.spotify.com/track/27SD1IBImjwmcNhsMzae4z) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/7yZ0ymYQisTt8oB2f5kseg) | 3:02 | 2021-10-31 | 2022-07-29 |
 | [Other Side](https://open.spotify.com/track/3rxboiP5cvTiaI7aUtRTVl) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Other Side](https://open.spotify.com/album/1JYuc5a6gwcEKBxed4NXaE) | 3:16 | 2021-10-31 | 2022-06-15 |
 | [OTHERSIDE](https://open.spotify.com/track/7jj8WmWbs7yQ6d9qvR7A9u) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [OTHERSIDE](https://open.spotify.com/album/6LYdb9nK82LJEwa9Zrr4YP) | 3:14 | 2021-10-31 | 2023-01-14 |
+| [Palaces](https://open.spotify.com/track/2INYwScE60yVgmyYsX00LH) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Palaces](https://open.spotify.com/album/0jkYniPLdIYSCl6feoIVMJ) | 4:13 | 2023-01-13 |  |
 | [Patient](https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Nothing is Ordinary\. Everything is Beautiful.](https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P) | 3:34 | 2021-10-31 | 2023-01-14 |
 | [Patient](https://open.spotify.com/track/5qDHU1U5XlX6X0KBsAWoL9) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Patient](https://open.spotify.com/album/05qd0bhPJrFj3jUa5yXze5) | 3:34 | 2021-10-31 | 2022-07-29 |
 | [perfection](https://open.spotify.com/track/5TyYCoAhxi9Tm8vIG4wUwJ) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part I \- EP](https://open.spotify.com/album/3Aj9bidByX8DqwLddzbbQb) | 3:33 | 2021-10-31 | 2023-01-14 |

@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 24587,
+  "num_followers": 24608,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDRhM2QzNDFlODA2ZTdmMmI1MTdkYmFmZjZlZGRjNzlj",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDMzZGFjNTgxMDE1MWYwZmI1NjMzNDQ5YTM1YWIyMzQz",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Rivers Of The Red Planet",
-        "url": "https://open.spotify.com/album/11c0YSZe2AXCX2s5r0KFP7"
-      },
-      "artists": [
-        {
-          "name": "Max Graef",
-          "url": "https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55"
-        }
-      ],
-      "duration_ms": 67943,
-      "name": "Jazz 104",
-      "url": "https://open.spotify.com/track/32rOcuTIZZTNWdsrUWGCJ6"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Soweto Blues",
         "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 298997,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Rivers Of The Red Planet",
+        "url": "https://open.spotify.com/album/11c0YSZe2AXCX2s5r0KFP7"
+      },
+      "artists": [
+        {
+          "name": "Max Graef",
+          "url": "https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55"
+        }
+      ],
+      "duration_ms": 67943,
+      "name": "Jazz 104",
+      "url": "https://open.spotify.com/track/32rOcuTIZZTNWdsrUWGCJ6"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -371,6 +371,30 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Boro",
+        "url": "https://open.spotify.com/album/3PZz5CUq6iaaSReo5O7Yko"
+      },
+      "artists": [
+        {
+          "name": "Yarni",
+          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
+        },
+        {
+          "name": "Jonoa",
+          "url": "https://open.spotify.com/artist/6br5gZuWFULycPE9ePuqk1"
+        },
+        {
+          "name": "Rachel Shirley",
+          "url": "https://open.spotify.com/artist/6B8GzjIukc5DrGu32pabAI"
+        }
+      ],
+      "duration_ms": 352909,
+      "name": "Golden Gai",
+      "url": "https://open.spotify.com/track/57U4RtkzOsK0vIVc6lu8ez"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
       },
@@ -407,30 +431,6 @@
       "duration_ms": 440341,
       "name": "Ho Chi Min",
       "url": "https://open.spotify.com/track/2vykok21C0IyTjpvUOcBWi"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Boro",
-        "url": "https://open.spotify.com/album/3PZz5CUq6iaaSReo5O7Yko"
-      },
-      "artists": [
-        {
-          "name": "Yarni",
-          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
-        },
-        {
-          "name": "Jonoa",
-          "url": "https://open.spotify.com/artist/6br5gZuWFULycPE9ePuqk1"
-        },
-        {
-          "name": "Rachel Shirley",
-          "url": "https://open.spotify.com/artist/6B8GzjIukc5DrGu32pabAI"
-        }
-      ],
-      "duration_ms": 352909,
-      "name": "Golden Gai",
-      "url": "https://open.spotify.com/track/57U4RtkzOsK0vIVc6lu8ez"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Moodymann",
-        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 708706,
-      "name": "Sloppy Cosmic",
-      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Rye Lane Vol. 1",
         "url": "https://open.spotify.com/album/5rjE3dz41m5JeNhDtq7Ahh"
       },
@@ -683,22 +667,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "See-Line Woman",
-        "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
+        "name": "Moodymann",
+        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
       },
       "artists": [
         {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
         }
       ],
-      "duration_ms": 226000,
-      "name": "See-Line Woman - Main Mix",
-      "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
+      "duration_ms": 708706,
+      "name": "Sloppy Cosmic",
+      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -715,6 +695,26 @@
       "duration_ms": 246855,
       "name": "Another Story",
       "url": "https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "See-Line Woman",
+        "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "See-Line Woman - Main Mix",
+      "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "The Return",
-        "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
-      },
-      "artists": [
-        {
-          "name": "Kamaal Williams",
-          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
-        }
-      ],
-      "duration_ms": 513226,
-      "name": "Salaam",
-      "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Tanto Tiempo",
         "url": "https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK"
       },
@@ -823,6 +807,38 @@
       "duration_ms": 295606,
       "name": "Tanto Tiempo - Village Cuts Remix",
       "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N"
+      },
+      "artists": [
+        {
+          "name": "Kamaal Williams",
+          "url": "https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS"
+        }
+      ],
+      "duration_ms": 513226,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 416871,
+      "name": "Night Of Desirable Objects",
+      "url": "https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -855,22 +871,6 @@
       "duration_ms": 307360,
       "name": "Youth Jazz",
       "url": "https://open.spotify.com/track/7AhZqOQ976CkrBYXCDdsyU"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Umami",
-        "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 416871,
-      "name": "Night Of Desirable Objects",
-      "url": "https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB"
     },
     {
       "added_at": "2021-10-08 17:36:35",

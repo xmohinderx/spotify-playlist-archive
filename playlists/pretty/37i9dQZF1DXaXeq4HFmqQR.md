@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Escucha a Nicole y a más mujeres a todo volumen\. Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,882 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,886 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 10 | [La Única](https://open.spotify.com/track/6BziPWYAG689dziudR6lRl) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [La Única](https://open.spotify.com/album/0hVF3mo33JcCsECB4dM7Ay) | 2:24 |
 | 11 | [Cm no me va a doler?](https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Crónicas de un cora roto](https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2) | 3:32 |
 | 12 | [Buena Suerte Muchacha](https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Buena Suerte Muchacha](https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0) | 3:13 |
-| 13 | [COPACABANA](https://open.spotify.com/track/0hPHlk4amnX3CgVhoeEF9K) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [COPACABANA](https://open.spotify.com/album/2aMzComZzJaqrmcEoHKoaZ) | 3:01 |
-| 14 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
+| 13 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
+| 14 | [COPACABANA](https://open.spotify.com/track/0hPHlk4amnX3CgVhoeEF9K) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [COPACABANA](https://open.spotify.com/album/2aMzComZzJaqrmcEoHKoaZ) | 3:01 |
 | 15 | [Bendiciones](https://open.spotify.com/track/2xvN8q1au8NoWMCgoS94PY) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Bendiciones](https://open.spotify.com/album/3KyYw5VuRgf8q7kHWrqS8p) | 2:53 |
 | 16 | [MÍRAME A LA CARA](https://open.spotify.com/track/5sewBnhP4xBE2eIoQuhCs1) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Brujerías de Cantina](https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy) | 2:35 |
 | 17 | [Nunca haría lo que me hiciste](https://open.spotify.com/track/5dgtZ2R2MIZWxKnOqYrSAD) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Nunca haría lo que me hiciste](https://open.spotify.com/album/6r8vU81BXvmSWe009wQS5p) | 3:11 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 37 | [No más me dio](https://open.spotify.com/track/2EjZ0hlW8Pk4VE0adAgckR) | [Celeste Shaw](https://open.spotify.com/artist/6rqnfwOhPniuJF1OxvMdYj), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [No más me dio](https://open.spotify.com/album/69K23XEPiqueK7o88Kdgdk) | 3:13 |
 | 38 | [Madre Santa](https://open.spotify.com/track/0X7sHKrJQzOUpnYXCM7vv8) | [Sarazul](https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0) | [Madre Santa](https://open.spotify.com/album/6quvoCZrrQZ5UMOI8a708G) | 3:28 |
 | 39 | [La Montaña](https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8) | [Fakuta](https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD) | [La Montaña](https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL) | 3:55 |
-| 40 | [Flow Violento](https://open.spotify.com/track/4T3F91nQLaWL8yPahQHIGi) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [La Batalla](https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW) | 3:01 |
-| 41 | [La Pócima](https://open.spotify.com/track/3478RKENZliWK21KgkqCxs) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [La Pócima](https://open.spotify.com/album/6jbhQEgpHEG63QkiTio1Oq) | 2:59 |
+| 40 | [La Pócima](https://open.spotify.com/track/3478RKENZliWK21KgkqCxs) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [La Pócima](https://open.spotify.com/album/6jbhQEgpHEG63QkiTio1Oq) | 2:59 |
+| 41 | [Flow Violento](https://open.spotify.com/track/4T3F91nQLaWL8yPahQHIGi) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [La Batalla](https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW) | 3:01 |
 | 42 | [N.D.N](https://open.spotify.com/track/1QA7twQReH7kc3rusYjeWx) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML) | [À PLUS](https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr) | 2:39 |
 | 43 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 |
 | 44 | [Olvídame](https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy) | [Cromantis](https://open.spotify.com/artist/1ZVAn9h0YHW0KoakWnx0X1) | [Olvídame](https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [Amores](https://open.spotify.com/track/6izw3BxH0D0KUKIe9G0B4z) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Amores](https://open.spotify.com/album/4zDQqmPh28oZqmgdcl1BUF) | 3:56 |
 | 50 | [Si No Vas a Venir](https://open.spotify.com/track/3hidaSrCNgyYYYIWqk0EMh) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Alex June](https://open.spotify.com/artist/6AMK4ZuqWtlKaHuFdOtddO) | [Si No Vas a Venir](https://open.spotify.com/album/4vL3R4Uk9K9ufB0AgTfBly) | 3:11 |
 
-Snapshot ID: `MTY3MjgwMTIwMCwwMDAwMDAwMDYwN2E4MTdiMTc0ZWU2MDg2NGQzOWJmNzZlNTc4OTQ0`
+Snapshot ID: `MTY3MjgwMTIwMCwwMDAwMDAwMGE0NTFmOTFjMTRiMjc0NjczYzRjMDgzNjZlMGFmM2Jl`

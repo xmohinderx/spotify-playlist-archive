@@ -4,7 +4,7 @@
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 41 min
+56 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Twerkulator](https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Twerkulator](https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB) | 2:18 | 2022-10-28 |  |
 | [What We Doin'](https://open.spotify.com/track/11TOnapSFVWBUSByMzf1u1) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:23 | 2022-10-28 |  |
 | [Where The Bag At](https://open.spotify.com/track/7GlZhPkCA259c3ICFU0eaG) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 3:20 | 2022-10-28 |  |
-| [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/track/3aFJuEqwuvZRjWULDr0rEx) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [MONTANA](https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa) | 2:42 | 2022-10-28 |  |
+| [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/track/3aFJuEqwuvZRjWULDr0rEx) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [MONTANA](https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa) | 2:42 | 2022-10-28 | 2023-01-22 |
+| [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0) | 2:52 | 2023-01-21 |  |
 | [You Tried It](https://open.spotify.com/track/7q8BhxU2ZpUlXqmEy6nKFb) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [You Tried It](https://open.spotify.com/album/5whQ0P8HBzpQHmvKioxbkz) | 2:06 | 2022-10-28 |  |
 | [Yung and Bhad \(feat\. City Girls\)](https://open.spotify.com/track/4vHf3mf0iZgEmkdHyLTSE9) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 2:50 | 2022-10-28 |  |
 

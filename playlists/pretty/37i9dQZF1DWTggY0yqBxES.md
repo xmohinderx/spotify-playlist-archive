@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Duckwrth
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,836 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 913,199 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 44 | [I Dream of Chrome](https://open.spotify.com/track/3QQXpvZd9qmzHZ02wDf2im) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 2:25 |
 | 45 | [Suicide](https://open.spotify.com/track/3WYuIKvTLWbv8IwFNakmo5) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Suicide](https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs) | 3:44 |
 | 46 | [LOLSMH II](https://open.spotify.com/track/4yg2dkVMQX7HIqiM7c0iEZ) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 2:24 |
-| 47 | [Slide Den](https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Slide Den](https://open.spotify.com/album/7tM2KPXbuOii71TzAPdTCT) | 2:55 |
-| 48 | [Good Wine](https://open.spotify.com/track/16QxSt81FZSUynjfopa8pv) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Good Wine](https://open.spotify.com/album/6898YVDudEoCou54LQrbrd) | 2:06 |
+| 47 | [Good Wine](https://open.spotify.com/track/16QxSt81FZSUynjfopa8pv) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Good Wine](https://open.spotify.com/album/6898YVDudEoCou54LQrbrd) | 2:06 |
+| 48 | [Slide Den](https://open.spotify.com/track/5ELj1d1b4T9Fr67b8X8mkR) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Slide Den](https://open.spotify.com/album/7tM2KPXbuOii71TzAPdTCT) | 2:55 |
 | 49 | [DELIVER!](https://open.spotify.com/track/6jhTj4vy4vD7n5EIFbuqJv) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DELIVER!](https://open.spotify.com/album/2qHsiqMMKZAHysnRzYfmOn) | 1:49 |
 | 50 | [Moonshooter](https://open.spotify.com/track/4Js5w5HGoSdv7O79RmmEXr) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Moonshooter](https://open.spotify.com/album/0e59aDltSERCndLyQwiBlb) | 3:02 |
 
-Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDU4MDFkMDBiOWE3OGJjZjZjMmQ3MTk3NjIzYWVkNzRk`
+Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDBlYTVlNmI4YTAxMDdlYmIzN2Q2YjYzZTRmOWFmZmUz`

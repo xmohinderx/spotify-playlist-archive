@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La crème de la crème of Montréal's music scene\. Photo: Mayfly
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,579 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,617 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 17 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 |
 | 18 | [Pas toi encore](https://open.spotify.com/track/1orTvHCML20Heg9tqVxkQN) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0), [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Pas toi encore](https://open.spotify.com/album/6UJNUpKI93lDjE3eOHFWaM) | 3:29 |
 | 19 | [Alma](https://open.spotify.com/track/5wf1TXbl9KVasQjIbdDB39) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG), [Karelle Tremblay](https://open.spotify.com/artist/5DPtq2vA56WITNtLe8dCp6) | [BLUE](https://open.spotify.com/album/56CovnRrY1xrrMSWLkk0L6) | 3:44 |
-| 20 | [Not Ideal](https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Not Ideal](https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc) | 3:23 |
+| 20 | [Not Ideal](https://open.spotify.com/track/6WclB5qGbvCgcFH0MZ1EQy) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Not Ideal](https://open.spotify.com/album/11P1h67I1jUbh3ZXUy6uJc) | 3:23 |
 | 21 | [NYE](https://open.spotify.com/track/5zy9hlTvSUCn6rFPclSquQ) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [NYE](https://open.spotify.com/album/6hH18kplTXZclpj5apCio9) | 2:55 |
 | 22 | [OCTEMBRE](https://open.spotify.com/track/0ClSzOZrQAkJmmvRJY0oVV) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN) | 3:32 |
 | 23 | [Breathe](https://open.spotify.com/track/4N0usfFMf97wkIGUF9rlKx) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Breathe](https://open.spotify.com/album/0AMhjMwYoE9K7VHpZM04UL) | 3:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,900 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,992 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 45 | [Celebration](https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celebration](https://open.spotify.com/album/69TDYss3NTUG1MlHq1AkvK) | 2:39 |
 | 46 | [Emotion](https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 3:04 |
 | 47 | [Life Is A Dancefloor \(feat\. Kimberly Davis\)](https://open.spotify.com/track/3hrN93f0xTIsejwDB3avn6) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Life Is A Dancefloor \(feat\. Kimberly Davis\)](https://open.spotify.com/album/2UzDkeFYB2PkXUDq192KbP) | 3:59 |
-| 48 | [I Take What's Mine](https://open.spotify.com/track/5m7frLaca4N7yAJ1VZ8Wnz) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [I Take What's Mine](https://open.spotify.com/album/2uMmLp3ifgs0nJslnPecdU) | 3:31 |
-| 49 | [Your Good Times Are Here](https://open.spotify.com/track/7tAGnxLiQTU0EjezyOjUj2) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Your Good Times Are Here](https://open.spotify.com/album/6nEU8r105q0illnVY0ypDh) | 4:45 |
+| 48 | [Your Good Times Are Here](https://open.spotify.com/track/7tAGnxLiQTU0EjezyOjUj2) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Your Good Times Are Here](https://open.spotify.com/album/6nEU8r105q0illnVY0ypDh) | 4:45 |
+| 49 | [I Take What's Mine](https://open.spotify.com/track/5m7frLaca4N7yAJ1VZ8Wnz) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [I Take What's Mine](https://open.spotify.com/album/2uMmLp3ifgs0nJslnPecdU) | 3:31 |
 | 50 | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/track/6seDjSbkqKkOUsHjhhHMJw) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ) | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/album/37hBfo5a5MO72OgX37K3KC) | 3:57 |
 
-Snapshot ID: `MTY3MzYxMzk4NSwwMDAwMDAwMDgzMjY1YTVkY2UxODc4MTQzMThhNDUxM2U5YzBkOWQ0`
+Snapshot ID: `MTY3MzYxMzk4NSwwMDAwMDAwMDg3YzlhNGMyNGE2MWYwYjAyNTBiNTgxODFlNmU2NzQ1`

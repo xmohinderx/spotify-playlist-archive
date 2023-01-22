@@ -1,12 +1,12 @@
 {
   "description": "Always come in 1st.",
-  "num_followers": 137028,
+  "num_followers": 137459,
   "original_name": "Nitroboost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYwNTc0MCwwMDAwMDAwMGRiNWFhZjcwMDcxMWFkMmZlOWJmNzkwOWE0MzU1OGFi",
+  "snapshot_id": "MTY3MDYwNTc0MCwwMDAwMDAwMDA2YjNmZDQzNmZkZjk3MjNlNWM5ZTM3ZTYwYzg1MDVk",
   "tracks": [
     {
       "added_at": "2022-12-09 17:09:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-12-09 17:09:00",
       "album": {
-        "name": "Vex",
-        "url": "https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML"
-      },
-      "artists": [
-        {
-          "name": "Bensley",
-          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
-        }
-      ],
-      "duration_ms": 235172,
-      "name": "Vex",
-      "url": "https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1"
-    },
-    {
-      "added_at": "2022-12-09 17:09:00",
-      "album": {
         "name": "Close To Hell",
         "url": "https://open.spotify.com/album/5L0lzeDFIl1qMSO4T0sZBC"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 198193,
       "name": "Close To Hell",
       "url": "https://open.spotify.com/track/6tSa72Ivd9ltEV9qJsQTfw"
+    },
+    {
+      "added_at": "2022-12-09 17:09:00",
+      "album": {
+        "name": "Vex",
+        "url": "https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML"
+      },
+      "artists": [
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        }
+      ],
+      "duration_ms": 235172,
+      "name": "Vex",
+      "url": "https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1"
     },
     {
       "added_at": "2022-12-09 17:09:00",

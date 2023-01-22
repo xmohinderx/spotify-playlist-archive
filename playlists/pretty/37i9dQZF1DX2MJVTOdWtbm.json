@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Junior H ",
-  "num_followers": 103484,
+  "num_followers": 103516,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE3OTcyNywwMDAwMDAwMGQ5ZDg1ZDkzYWU3MDRmZDY0Njg2MmNkYTAyOWVkOTRk",
+  "snapshot_id": "MTY3NDE3OTcyNywwMDAwMDAwMGJjMjc2Mzk5NWI0MzVjODRjYTMxMDU1Y2ZmYmZmNWI4",
   "tracks": [
     {
       "added_at": "2023-01-20 01:55:27",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Ruido",
-      "url": "https://open.spotify.com/track/0rQv29gK4jSBbU9pcmfODP"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "B-Day",
         "url": "https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Ruido",
+      "url": "https://open.spotify.com/track/0rQv29gK4jSBbU9pcmfODP"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Chimbita",
-        "url": "https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit"
-      },
-      "artists": [
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 165508,
-      "name": "Chimbita",
-      "url": "https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 178626,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Chimbita",
+        "url": "https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "duration_ms": 165508,
+      "name": "Chimbita",
+      "url": "https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
+        "name": "Truth Is",
+        "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Truth Is (Spanish Version)",
+      "url": "https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
         "name": "Quiz\u00e1s",
         "url": "https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy"
       },
@@ -647,18 +663,18 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Truth Is",
-        "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
+        "name": "Limo",
+        "url": "https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni"
       },
       "artists": [
         {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 225733,
-      "name": "Truth Is (Spanish Version)",
-      "url": "https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ"
+      "duration_ms": 174853,
+      "name": "Limo",
+      "url": "https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Limo",
-        "url": "https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Limo",
-      "url": "https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Roxanne",
         "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 213993,
       "name": "A la Mitad (Suceso 1)",
       "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
-        "name": "Cabr\u00f3n",
-        "url": "https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 179813,
-      "name": "Cabr\u00f3n",
-      "url": "https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -747,18 +731,18 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Para Ti No",
-        "url": "https://open.spotify.com/album/2xGJoSFiRndCEdIMd815j9"
+        "name": "Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf"
       },
       "artists": [
         {
-          "name": "ANGEL22",
-          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
         }
       ],
-      "duration_ms": 199046,
-      "name": "Para Ti No",
-      "url": "https://open.spotify.com/track/4pD2EDopSOZl4ojChPFddV"
+      "duration_ms": 179813,
+      "name": "Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -775,6 +759,22 @@
       "duration_ms": 125166,
       "name": "De Na'",
       "url": "https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Para Ti No",
+        "url": "https://open.spotify.com/album/2xGJoSFiRndCEdIMd815j9"
+      },
+      "artists": [
+        {
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+        }
+      ],
+      "duration_ms": 199046,
+      "name": "Para Ti No",
+      "url": "https://open.spotify.com/track/4pD2EDopSOZl4ojChPFddV"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 204490,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Trebol",
         "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 226393,
       "name": "Trebol",
       "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/5uwGva3r6hhKZgfX14eI4w"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 204490,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0GBcdV6ebwVmOXijWZK3U2"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
+        "name": "CU\u00c1NTO",
+        "url": "https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm"
+      },
+      "artists": [
+        {
+          "name": "CIAN",
+          "url": "https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60"
+        }
+      ],
+      "duration_ms": 172430,
+      "name": "CU\u00c1NTO",
+      "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
         "name": "Del Amor Al Odio",
         "url": "https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 137794,
       "name": "Luces",
       "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
-        "name": "CU\u00c1NTO",
-        "url": "https://open.spotify.com/album/3976s0MRDufho2qPSBuYSm"
-      },
-      "artists": [
-        {
-          "name": "CIAN",
-          "url": "https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60"
-        }
-      ],
-      "duration_ms": 172430,
-      "name": "CU\u00c1NTO",
-      "url": "https://open.spotify.com/track/5cYJyMuwDz81r4mEHLVbw1"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/14xtsQzZuSzzAz1D3Xf5vz"
-      },
-      "artists": [
-        {
-          "name": "Yari M",
-          "url": "https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/4TYakgFojzdHA9usOQS3ap"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "Flavors 3",
         "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 149458,
       "name": "What More",
       "url": "https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/14xtsQzZuSzzAz1D3Xf5vz"
+      },
+      "artists": [
+        {
+          "name": "Yari M",
+          "url": "https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/4TYakgFojzdHA9usOQS3ap"
     },
     {
       "added_at": "2023-01-20 01:55:27",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-01-20 01:55:27",
       "album": {
-        "name": "DUCATI",
-        "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
-      },
-      "artists": [
-        {
-          "name": "Le Coco",
-          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
-        }
-      ],
-      "duration_ms": 169161,
-      "name": "DUCATI",
-      "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
-    },
-    {
-      "added_at": "2023-01-20 01:55:27",
-      "album": {
         "name": "La Patrona",
         "url": "https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 211688,
       "name": "MIA",
       "url": "https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k"
+    },
+    {
+      "added_at": "2023-01-20 01:55:27",
+      "album": {
+        "name": "DUCATI",
+        "url": "https://open.spotify.com/album/1j0h6KGTofqV39fVaHsg6X"
+      },
+      "artists": [
+        {
+          "name": "Le Coco",
+          "url": "https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v"
+        }
+      ],
+      "duration_ms": 169161,
+      "name": "DUCATI",
+      "url": "https://open.spotify.com/track/0zwxKc6lECZ3pgBXPkVdGX"
     },
     {
       "added_at": "2023-01-20 01:55:27",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM2NDk1NywwMDAwMDAwMDM2Yzk3N2Q4YzE3NDFhNTdlMGFkMjRiYzY5NzIwMGRi",
+  "snapshot_id": "MTY3MzM2NDk1NywwMDAwMDAwMDQ4MWQxN2RmYWUyNjc1ZTFiOWNmZDAwMGZkMzA2Mjkz",
   "tracks": [
     {
       "added_at": "2023-01-10 15:35:57",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-01-10 15:35:57",
       "album": {
+        "name": "Unlock My Boss, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/03W3tRDeTtIvAvHFX598NR"
+      },
+      "artists": [
+        {
+          "name": "Mckdaddy",
+          "url": "https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA"
+        }
+      ],
+      "duration_ms": 176130,
+      "name": "Nobody is perfect (Prod. Song Yoodam)",
+      "url": "https://open.spotify.com/track/0rmepzrZX9JO9Rnvx07fvr"
+    },
+    {
+      "added_at": "2023-01-10 15:35:57",
+      "album": {
         "name": "School Rapper 2 Final",
         "url": "https://open.spotify.com/album/6oX7tP4ac99NLogEHFn0WE"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 151948,
       "name": "Only Late at Night (feat. Jay Park) (prod. Vangdale)",
       "url": "https://open.spotify.com/track/2PY3kiM41wd6gjkPt4JD9p"
-    },
-    {
-      "added_at": "2023-01-10 15:35:57",
-      "album": {
-        "name": "Unlock My Boss, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/03W3tRDeTtIvAvHFX598NR"
-      },
-      "artists": [
-        {
-          "name": "Mckdaddy",
-          "url": "https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA"
-        }
-      ],
-      "duration_ms": 176130,
-      "name": "Nobody is perfect (Prod. Song Yoodam)",
-      "url": "https://open.spotify.com/track/0rmepzrZX9JO9Rnvx07fvr"
     },
     {
       "added_at": "2023-01-10 15:35:57",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-01-10 15:35:57",
       "album": {
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        }
+      ],
+      "duration_ms": 123287,
+      "name": "MIRACLE(Album version)",
+      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
+    },
+    {
+      "added_at": "2023-01-10 15:35:57",
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/6p3oAwCl0uDTqxzTxDFMgb"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 242970,
       "name": "My Side (feat. oceanfromtheblue, ASH ISLAND, BRADYSTREET, Wonstein)",
       "url": "https://open.spotify.com/track/0Xo1PD12y7qZ13S3UAENqN"
-    },
-    {
-      "added_at": "2023-01-10 15:35:57",
-      "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        }
-      ],
-      "duration_ms": 123287,
-      "name": "MIRACLE(Album version)",
-      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
     },
     {
       "added_at": "2023-01-10 15:35:57",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-01-10 15:35:57",
       "album": {
+        "name": "The Anecdote",
+        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 218526,
+      "name": "Writer's Block",
+      "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
+    },
+    {
+      "added_at": "2023-01-10 15:35:57",
+      "album": {
         "name": "HIGH RISK HIGH RETURN",
         "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 231182,
       "name": "COMPASS (Feat. Chin)",
       "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
-    },
-    {
-      "added_at": "2023-01-10 15:35:57",
-      "album": {
-        "name": "The Anecdote",
-        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 218526,
-      "name": "Writer's Block",
-      "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
     },
     {
       "added_at": "2023-01-10 15:35:57",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-01-10 15:35:57",
       "album": {
-        "name": "SKANDALOUZ",
-        "url": "https://open.spotify.com/album/3UvvXvP68TK09ZaAkQhOQn"
-      },
-      "artists": [
-        {
-          "name": "Los",
-          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Smile Now Cry Later",
-      "url": "https://open.spotify.com/track/3PXbhVma3mPrhkysAichZi"
-    },
-    {
-      "added_at": "2023-01-10 15:35:57",
-      "album": {
         "name": "UNDERGROUND ROCKSTAR",
         "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 222014,
       "name": "Supernova (Feat. Dut2)",
       "url": "https://open.spotify.com/track/5by16CeSkrzyrSOrv1rdFx"
+    },
+    {
+      "added_at": "2023-01-10 15:35:57",
+      "album": {
+        "name": "SKANDALOUZ",
+        "url": "https://open.spotify.com/album/3UvvXvP68TK09ZaAkQhOQn"
+      },
+      "artists": [
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Smile Now Cry Later",
+      "url": "https://open.spotify.com/track/3PXbhVma3mPrhkysAichZi"
     },
     {
       "added_at": "2023-01-10 15:35:57",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-01-10 15:35:57",
       "album": {
-        "name": "P.O.E.M. II",
-        "url": "https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
-        }
-      ],
-      "duration_ms": 241777,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
-    },
-    {
-      "added_at": "2023-01-10 15:35:57",
-      "album": {
         "name": "Waves Like",
         "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 240542,
       "name": "Cross The Street",
       "url": "https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA"
+    },
+    {
+      "added_at": "2023-01-10 15:35:57",
+      "album": {
+        "name": "P.O.E.M. II",
+        "url": "https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        }
+      ],
+      "duration_ms": 241777,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
     },
     {
       "added_at": "2023-01-10 15:35:57",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-01-10 15:35:57",
       "album": {
-        "name": "Beautiful Struggles",
-        "url": "https://open.spotify.com/album/4BgxqlGNChjQb4MQzfjXEg"
-      },
-      "artists": [
-        {
-          "name": "\uc804\ud604\uc7ac",
-          "url": "https://open.spotify.com/artist/10el24MGnx27TEXY6kM7Qv"
-        }
-      ],
-      "duration_ms": 188750,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/7pXb7Ho5ahUdcJWdAWdnC9"
-    },
-    {
-      "added_at": "2023-01-10 15:35:57",
-      "album": {
         "name": "Show Me the Money 5 Episode 3",
         "url": "https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 218333,
       "name": "RAPSTAR - Remix",
       "url": "https://open.spotify.com/track/159MUi6v0n2o4f5PfzQ7Rn"
+    },
+    {
+      "added_at": "2023-01-10 15:35:57",
+      "album": {
+        "name": "Beautiful Struggles",
+        "url": "https://open.spotify.com/album/4BgxqlGNChjQb4MQzfjXEg"
+      },
+      "artists": [
+        {
+          "name": "\uc804\ud604\uc7ac",
+          "url": "https://open.spotify.com/artist/10el24MGnx27TEXY6kM7Qv"
+        }
+      ],
+      "duration_ms": 188750,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/7pXb7Ho5ahUdcJWdAWdnC9"
     },
     {
       "added_at": "2023-01-10 15:35:57",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2023-01-10 15:35:57",
       "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 220868,
+      "name": "Brighten your night",
+      "url": "https://open.spotify.com/track/2fFgcNHLbKtmFooCY7vaLP"
+    },
+    {
+      "added_at": "2023-01-10 15:35:57",
+      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 189834,
       "name": "Double Up (Feat. skinny brown, CK)",
       "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
-    },
-    {
-      "added_at": "2023-01-10 15:35:57",
-      "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 220868,
-      "name": "Brighten your night",
-      "url": "https://open.spotify.com/track/2fFgcNHLbKtmFooCY7vaLP"
     }
   ],
   "unique_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",

@@ -1,12 +1,12 @@
 {
   "description": "Cruise to the smooth grooves of these yacht rock tunes",
-  "num_followers": 1317041,
+  "num_followers": 1317574,
   "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI0NTc2MiwwMDAwMDAwMGYyNThkYzNjZTlhYmNjNzcyYTFiOTY4MGZlZDk0NWI3",
+  "snapshot_id": "MTY2OTI0NTc2MiwwMDAwMDAwMGZkODFiOGFiMGU4ZWU1MTU1YWZjYzQxZTg2NDViOTE3",
   "tracks": [
     {
       "added_at": "2022-07-28 19:01:39",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4hKBS94EEP9PaYxuK5tisQ"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Lovin', Touchin', Squeezin'",
-      "url": "https://open.spotify.com/track/0VQ0n5gMgJLNixG8BfWBT5"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 246040,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4hKBS94EEP9PaYxuK5tisQ"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Lovin', Touchin', Squeezin'",
+      "url": "https://open.spotify.com/track/0VQ0n5gMgJLNixG8BfWBT5"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -819,6 +819,26 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 222333,
+      "name": "The Girl Is Mine (with Paul McCartney)",
+      "url": "https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
         "name": "Dance With Me: The Best Of Orleans",
         "url": "https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl"
       },
@@ -831,22 +851,6 @@
       "duration_ms": 180479,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
-        "name": "The Essential Daryl Hall & John Oates",
-        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -867,22 +871,18 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+        "name": "The Essential Daryl Hall & John Oates",
+        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 222333,
-      "name": "The Girl Is Mine (with Paul McCartney)",
-      "url": "https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V"
+      "duration_ms": 190706,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
-        "name": "Special Things (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5AnJr2Axqy5aIhcvaVKGEB"
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
       },
       "artists": [
         {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 218320,
-      "name": "He's so Shy",
-      "url": "https://open.spotify.com/track/6R9NqD0WX9sJYs6PbA5onu"
+      "duration_ms": 275506,
+      "name": "Ride Like the Wind",
+      "url": "https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+        "name": "Special Things (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5AnJr2Axqy5aIhcvaVKGEB"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
         }
       ],
-      "duration_ms": 275506,
-      "name": "Ride Like the Wind",
-      "url": "https://open.spotify.com/track/6Rd36fAvK6klQPYgx3534I"
+      "duration_ms": 218320,
+      "name": "He's so Shy",
+      "url": "https://open.spotify.com/track/6R9NqD0WX9sJYs6PbA5onu"
     },
     {
       "added_at": "2022-07-28 19:01:39",

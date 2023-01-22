@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Lilly Palmer",
-  "num_followers": 23306,
+  "num_followers": 23304,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc4NjgwMCwwMDAwMDAwMDM4MDBjODc5MzY0Yzc0MzA4YTY5YmYzMDlmYjE1NjNi",
+  "snapshot_id": "MTY3Mjc4NjgwMCwwMDAwMDAwMGQ5ZDgxZWNjYmE5ZjVmMDE0ZDk2NjNjNmZjOGE0NDI2",
   "tracks": [
     {
       "added_at": "2023-01-03 23:00:00",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Bitterkalt",
-        "url": "https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX"
-      },
-      "artists": [
-        {
-          "name": "C\u00c9LINE",
-          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
-        }
-      ],
-      "duration_ms": 145195,
-      "name": "Bitterkalt",
-      "url": "https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
         "name": "Bessere Version",
         "url": "https://open.spotify.com/album/0shWOBCKRlvERwwkMaCP0J"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 152156,
       "name": "Bessere Version",
       "url": "https://open.spotify.com/track/1z6c3dSrs6moawTgJ37gIT"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "Bitterkalt",
+        "url": "https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "duration_ms": 145195,
+      "name": "Bitterkalt",
+      "url": "https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
+        "name": "Das Boot (Edit)",
+        "url": "https://open.spotify.com/album/4pCoSZ7zRvJEtZc2FoHuir"
+      },
+      "artists": [
+        {
+          "name": "Stella Bossi",
+          "url": "https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz"
+        }
+      ],
+      "duration_ms": 364800,
+      "name": "Das Boot",
+      "url": "https://open.spotify.com/track/2YP18lfXcEXfG5njrDPkCb"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
         "name": "Instabil",
         "url": "https://open.spotify.com/album/5YxLiyzWTuYXy5xrVMXLSl"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 159040,
       "name": "Wach",
       "url": "https://open.spotify.com/track/43q02504nIBL7FUvMjMTlm"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
-        "name": "Das Boot (Edit)",
-        "url": "https://open.spotify.com/album/4pCoSZ7zRvJEtZc2FoHuir"
-      },
-      "artists": [
-        {
-          "name": "Stella Bossi",
-          "url": "https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz"
-        }
-      ],
-      "duration_ms": 364800,
-      "name": "Das Boot",
-      "url": "https://open.spotify.com/track/2YP18lfXcEXfG5njrDPkCb"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Not The Right Time For Us",
-        "url": "https://open.spotify.com/album/3Mzq3kobahQ8a51Xlxg5Pd"
-      },
-      "artists": [
-        {
-          "name": "metty",
-          "url": "https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW"
-        }
-      ],
-      "duration_ms": 122200,
-      "name": "Unlove You",
-      "url": "https://open.spotify.com/track/3VT0uoVyIkrcRrWmc4joe6"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
         "name": "Headed Home",
         "url": "https://open.spotify.com/album/5pNCBxmKPZIIFlbRGHRLCU"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Everyone Is Getting Old",
-        "url": "https://open.spotify.com/album/3Xwqx2pcOau4AG8Z2p9LGR"
+        "name": "Not The Right Time For Us",
+        "url": "https://open.spotify.com/album/3Mzq3kobahQ8a51Xlxg5Pd"
       },
       "artists": [
         {
-          "name": "Lener",
-          "url": "https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS"
+          "name": "metty",
+          "url": "https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW"
         }
       ],
-      "duration_ms": 177973,
-      "name": "Everyone Is Getting Old",
-      "url": "https://open.spotify.com/track/4nR4CvWevA2NnmfpXL5D24"
+      "duration_ms": 122200,
+      "name": "Unlove You",
+      "url": "https://open.spotify.com/track/3VT0uoVyIkrcRrWmc4joe6"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -751,6 +735,22 @@
       "duration_ms": 167000,
       "name": "QUEEN",
       "url": "https://open.spotify.com/track/5hr39FQi0R8NHeg8pSmFCQ"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "Everyone Is Getting Old",
+        "url": "https://open.spotify.com/album/3Xwqx2pcOau4AG8Z2p9LGR"
+      },
+      "artists": [
+        {
+          "name": "Lener",
+          "url": "https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS"
+        }
+      ],
+      "duration_ms": 177973,
+      "name": "Everyone Is Getting Old",
+      "url": "https://open.spotify.com/track/4nR4CvWevA2NnmfpXL5D24"
     },
     {
       "added_at": "2023-01-03 23:00:00",

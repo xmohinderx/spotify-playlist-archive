@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Big Thief
 
-288 songs - 18 hr 22 min
+289 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Blouse](https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:15 | 2022-12-16 |  |
 | [Blue](https://open.spotify.com/track/4Kh8MmGnvZqBHZbhiE2rpT) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Blue](https://open.spotify.com/album/0ZNXAy99guu3JVPMjaOARW) | 5:55 | 2022-04-29 | 2022-12-08 |
 | [Blue](https://open.spotify.com/track/60u8U5A6th7e2QcQ1A1Vrh) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Blue](https://open.spotify.com/album/2K8sX4ajUJNTie21tdfDyi) | 5:55 | 2022-04-13 | 2022-07-29 |
-| [By Myself](https://open.spotify.com/track/369SUEQN8ghsXx46OfRITf) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [By Myself](https://open.spotify.com/album/5qU1thgxuqz31SYLlNvULO) | 2:26 | 2022-01-21 |  |
+| [By Myself](https://open.spotify.com/track/369SUEQN8ghsXx46OfRITf) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [By Myself](https://open.spotify.com/album/5qU1thgxuqz31SYLlNvULO) | 2:26 | 2022-01-21 | 2023-01-22 |
 | [Cady Road](https://open.spotify.com/track/1ANTgkucU94X8WNLWtzAyq) | [Routine](https://open.spotify.com/artist/0u2fToDTRacRkAYleHznQS), [Annie Truscott](https://open.spotify.com/artist/0trxEg1if3MeWAt66UNfGo), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Cady Road](https://open.spotify.com/album/7ncOxJlRQGqWHcTeXXe3mz) | 3:10 | 2022-04-29 | 2022-12-06 |
 | [Cady Road](https://open.spotify.com/track/4wPihuMELRDRJIHUBOp9HW) | [Routine](https://open.spotify.com/artist/0u2fToDTRacRkAYleHznQS), [Annie Truscott](https://open.spotify.com/artist/0trxEg1if3MeWAt66UNfGo), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Cady Road](https://open.spotify.com/album/6zBwMl6GARPzqmZtv0YK8Z) | 3:10 | 2022-04-13 | 2022-07-28 |
 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 | 2022-04-13 | 2022-12-17 |
@@ -250,6 +250,7 @@
 | [Swimming](https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:12 | 2022-04-29 | 2022-12-17 |
 | [Swimming](https://open.spotify.com/track/7dJR6TWnJns4w9OVYeMY2P) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Swimming](https://open.spotify.com/album/7DarjMHpMdUo3ForHknW9t) | 4:12 | 2022-01-21 | 2022-07-28 |
 | [tap](https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [tap](https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np) | 4:31 | 2022-04-13 |  |
+| [Telephone](https://open.spotify.com/track/0Y9QZo9l948hcvBIt9TQSO) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Telephone](https://open.spotify.com/album/4Qp1PN0SHjCjm8KGzh5qGu) | 3:42 | 2023-01-20 |  |
 | [That's Life Honey](https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ) | [Boy Scouts](https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V) | [Wayfinder](https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN) | 3:02 | 2022-01-21 |  |
 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 | 2022-01-21 |  |
 | [The Great Escape](https://open.spotify.com/track/079es0IsQ1vqH7c1OfWuiN) | [Diane Coffee](https://open.spotify.com/artist/3NTbCfTrDL2WFob27hdLTe) | [The Great Escape](https://open.spotify.com/album/5p1OZmrKDDhpZKInZGal8q) | 2:50 | 2022-04-13 | 2022-07-17 |

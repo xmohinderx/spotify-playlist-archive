@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Rocco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,023 likes - 105 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,092 likes - 105 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

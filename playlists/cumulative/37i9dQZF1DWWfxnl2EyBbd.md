@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-395 songs - 1 day 7 hr 42 min
+396 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-17 |  |
 | [Flight \(Slow\)](https://open.spotify.com/track/6Nw6PMW4vKujeHj3Q2wZck) | [Roberta Piket](https://open.spotify.com/artist/7bpPpC3Sr6XbvmWvJXusEO), [Harvie S](https://open.spotify.com/artist/4VUN8x6ggBQmQOiO9Ui1fe), [Billy Mintz](https://open.spotify.com/artist/0x93sQfixNNuX3utx7cU25) | [You've Been Warned](https://open.spotify.com/album/44uZLWz6KGCIYN9kHNgIuO) | 2:41 | 2022-08-17 | 2022-11-12 |
 | [Fools Rush In](https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Fools Rush In](https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7) | 4:33 | 2022-12-01 |  |
+| [For a While](https://open.spotify.com/track/4sNhuHtjf2TYXIzOMUQgWX) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [For a While](https://open.spotify.com/album/53p46AYlwyeYi7MRgf5GM6) | 2:54 | 2023-01-19 |  |
 | [For All We Know](https://open.spotify.com/track/6Inq57v3xTl6U361EgpXJZ) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 8:02 | 2022-02-10 | 2022-11-12 |
 | [For All We Know](https://open.spotify.com/track/6GE5NlqY4yH8IRNR9lI713) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [For All We Know](https://open.spotify.com/album/5a4E0wrOuPoGYqTSDEktLQ) | 4:24 | 2022-11-12 |  |
 | [For Heavens Sake](https://open.spotify.com/track/0RhYQmwfGzHDBV3K8MaMDq) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 3:47 | 2022-11-12 | 2022-12-28 |
@@ -190,7 +191,7 @@
 | [Laura](https://open.spotify.com/track/0lBCnUEZ54x5O4YiZQCjcR) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM) | [TRIO](https://open.spotify.com/album/08wqEgpg6llw85TKA3OLAj) | 3:30 | 2022-02-10 | 2022-11-09 |
 | [Let It Be](https://open.spotify.com/track/4UpSPiCAeE8Wjzs71LiXnK) | [Lynne Arriale Trio](https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jasper Van Hulten](https://open.spotify.com/artist/4fd2c95arvB2uh6V4PFydQ) | [Give Us These Days](https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3) | 6:01 | 2022-02-10 | 2022-11-12 |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-11-12 |  |
-| [Life In Paradise](https://open.spotify.com/track/7DhwU4DOhVLPI30Rj2X6e4) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [Life In Paradise](https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W) | 4:34 | 2022-11-12 |  |
+| [Life In Paradise](https://open.spotify.com/track/7DhwU4DOhVLPI30Rj2X6e4) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [Life In Paradise](https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W) | 4:34 | 2022-11-12 | 2023-01-22 |
 | [Life is a Beautiful Thing](https://open.spotify.com/track/5E2naT4wvGkEhYj9US26GQ) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN) | [The Artist](https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn) | 5:24 | 2022-05-13 | 2022-11-12 |
 | [Light Wave](https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Light Wave](https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9) | 3:45 | 2022-11-12 |  |
 | [Links](https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Links](https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn) | 3:52 | 2022-07-07 | 2022-11-12 |

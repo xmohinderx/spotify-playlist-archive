@@ -1,12 +1,12 @@
 {
   "description": "Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes. Cover: <a href=\"spotify:artist:5l8VQNuIg0turYE1VtM9zV\">Leonard Cohen</a>",
-  "num_followers": 8093,
+  "num_followers": 8102,
   "original_name": "Leonard Cohen: Covered",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGZkZjc3ZjMyOTE0ZDhiMDI0ODc3YmM5MjFmZjAyYjZj",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDNhZDI2NTE2MmRjMGI5NjQ4OWY0YzNhNGViYjNkMjc0",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -179,6 +179,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "Illuminations",
+        "url": "https://open.spotify.com/album/2tvwygeYPGjkOaIBQCwqHh"
+      },
+      "artists": [
+        {
+          "name": "Buffy Sainte-Marie",
+          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "God Is Alive Magic Is Afoot",
+      "url": "https://open.spotify.com/track/4K3glAui6GSMQfYWxC0qy9"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Songs III: Bird on the Water",
         "url": "https://open.spotify.com/album/5Hij7PrKCR3aqxyhuYjFAI"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 225213,
       "name": "Chelsea Hotel No. 2",
       "url": "https://open.spotify.com/track/7nlbvD4fO9D3aocMGkiYxq"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Illuminations",
-        "url": "https://open.spotify.com/album/2tvwygeYPGjkOaIBQCwqHh"
-      },
-      "artists": [
-        {
-          "name": "Buffy Sainte-Marie",
-          "url": "https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "God Is Alive Magic Is Afoot",
-      "url": "https://open.spotify.com/track/4K3glAui6GSMQfYWxC0qy9"
     },
     {
       "added_at": "2022-10-07 04:00:00",

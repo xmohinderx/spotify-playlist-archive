@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 120305,
+  "num_followers": 120389,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMDdiYWVkNjlkMGQ3NzM4ODIzYWIzNmQ0M2U5OGU1YjMx",
+  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMGI3MjkwOWY5YzRiMzJkOWU3NjUxYTJiZGMxODM4MjYz",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -199,6 +199,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Doug's Party Mix",
+        "url": "https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3"
+      },
+      "artists": [
+        {
+          "name": "Doug Johns",
+          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
+        }
+      ],
+      "duration_ms": 89333,
+      "name": "Just Play",
+      "url": "https://open.spotify.com/track/4rYhksNrzm7mjsP0IqAvAw"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Ostinato Bass",
         "url": "https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 253400,
       "name": "Inside My Memory",
       "url": "https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "Doug's Party Mix",
-        "url": "https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3"
-      },
-      "artists": [
-        {
-          "name": "Doug Johns",
-          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
-        }
-      ],
-      "duration_ms": 89333,
-      "name": "Just Play",
-      "url": "https://open.spotify.com/track/4rYhksNrzm7mjsP0IqAvAw"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -823,26 +823,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Trust and Faith",
-        "url": "https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq"
-      },
-      "artists": [
-        {
-          "name": "Barry Likumahuwa",
-          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
-        },
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 258312,
-      "name": "Trust and Faith",
-      "url": "https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Letter for Paul (feat. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato)",
         "url": "https://open.spotify.com/album/4oz7MSG5MJrIlxDLW7fF75"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 330969,
       "name": "Letter for Paul (feat. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato)",
       "url": "https://open.spotify.com/track/3stEH9HPia2bpfoZ6LhOaR"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Trust and Faith",
+        "url": "https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq"
+      },
+      "artists": [
+        {
+          "name": "Barry Likumahuwa",
+          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
+        },
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 258312,
+      "name": "Trust and Faith",
+      "url": "https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3"
     },
     {
       "added_at": "2021-05-06 21:09:12",

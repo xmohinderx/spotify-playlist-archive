@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-659 songs - 1 day 19 hr 55 min
+660 songs - 1 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Better Apart](https://open.spotify.com/track/3MRHPazKdgLvqjWmxVyaBo) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Pink Skies](https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV) | [Better Apart](https://open.spotify.com/album/0A5gXZPfmA4G0jpGjQv42o) | 2:47 | 2021-09-17 | 2022-04-20 |
 | [Better For Me](https://open.spotify.com/track/1fPgAlasrmolLvq1vDtkq3) | [Fake Laugh](https://open.spotify.com/artist/0T9yyggayix1EKjiq3hW2m) | [Better For Me](https://open.spotify.com/album/4zbPfW4Riu2mVCRAXFOwaD) | 4:15 | 2021-04-02 | 2022-04-21 |
 | [Black Iris](https://open.spotify.com/track/03O3mBPounvOKETKr1aS3s) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Eastern Flowers \(Doğu Çiçekleri\)](https://open.spotify.com/album/1Z821RvawUQZ5ExkogGKCU) | 2:52 | 2022-04-20 | 2022-07-25 |
-| [Blacklight Shine](https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Blacklight Shine](https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T) | 2:55 | 2022-07-11 |  |
+| [Blacklight Shine](https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Blacklight Shine](https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T) | 2:55 | 2022-07-11 | 2023-01-22 |
 | [Blue Beam Baby](https://open.spotify.com/track/1EHjjrAWfCitHRAcfKVrrh) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Deep States](https://open.spotify.com/album/7uPrpLvtLEl1R57GLpDvoW) | 5:08 | 2021-08-20 | 2022-02-01 |
 | [Blue Blood](https://open.spotify.com/track/2SawSPvB0js6IATRqf69qs) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Blue Blood](https://open.spotify.com/album/1S6KvzowYkJZbGXwt05xiu) | 3:50 | 2021-04-02 | 2022-04-19 |
 | [Borderline](https://open.spotify.com/track/3O8X1DE9btbzy4UH9cSX9a) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Borderline](https://open.spotify.com/album/5zGidcaAvNahQrYhyQwAQn) | 4:34 | 2021-04-02 | 2022-07-09 |
@@ -522,6 +522,7 @@
 | [Soho](https://open.spotify.com/track/0F8pXTREcgEAD31Y1xrJ4T) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [Soho](https://open.spotify.com/album/6j7FlfwDzC9CUDMVpqoiuo) | 4:02 | 2021-06-04 | 2022-07-29 |
 | [Some Sunsick Day](https://open.spotify.com/track/2mClGHSyhd6C0VILl231ox) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Some Sunsick Day](https://open.spotify.com/album/38TkmpWzWag1nLP11JWV2p) | 5:11 | 2021-04-02 | 2022-04-21 |
 | [Something You Can't See](https://open.spotify.com/track/6K0nWwBoUYSi5SkmrMM7X2) | [Desert Sessions](https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT) | [Vols\. 11 & 12](https://open.spotify.com/album/7xSi5UDcfXAzR7NWSpFJiL) | 3:26 | 2021-04-02 | 2022-04-21 |
+| [Soul Smile](https://open.spotify.com/track/2OjiYv6QfrMqQ8uQWrRknk) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Soul Smile](https://open.spotify.com/album/0sRQ2kEsxMeeJ5v9cNUn2N) | 4:09 | 2023-01-20 |  |
 | [Soundtrack for Your Backseat](https://open.spotify.com/track/06CUyVD4i6YQ8X9dXC7mI6) | [sundiver ca](https://open.spotify.com/artist/2xDxryix4opVzsPKelCZwi) | [Superstar Baby](https://open.spotify.com/album/4BqgQ4TDBmwJTLYr0YLECX) | 2:42 | 2022-04-20 | 2022-05-08 |
 | [Sow Down](https://open.spotify.com/track/3TwvrI5KmWg82jy87PCWFt) | [Matthew Dear](https://open.spotify.com/artist/2GLf7iaOOujAem5R87xwto) | [Preacher's Sigh & Potion: Lost Album](https://open.spotify.com/album/6UcymrHI2XaNdzIMeesL4Z) | 3:25 | 2021-06-25 | 2022-04-18 |
 | [Space Camel](https://open.spotify.com/track/432hUaMgylN4s4aqwn9KY5) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Space Camel](https://open.spotify.com/album/6LrxA6OjDfJt7sGXvtyaFB) | 6:37 | 2021-04-02 | 2022-04-21 |

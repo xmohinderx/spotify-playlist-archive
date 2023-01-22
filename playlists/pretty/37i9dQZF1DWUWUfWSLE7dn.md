@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,754 likes - 51 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,291 likes - 51 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 44 | [Geralt Of Rivia](https://open.spotify.com/track/5tmhUzJuP7XwqCHglyqnt8) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn) | 2:21 |
 | 45 | [Winterfell](https://open.spotify.com/track/0y1Bay4UAdzWvpDJinzGz1) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6) | 2:43 |
 | 46 | [Declaration of Independence](https://open.spotify.com/track/7Cb44iSpT0L3oOd1bpLb2c) | [Trevor Rabin](https://open.spotify.com/artist/23ukNzhMiRiYgORi3n3RJq) | [National Treasure](https://open.spotify.com/album/0SZ3Wv4wxAbDnkFGJUXYBq) | 1:43 |
-| 47 | [Crossroad at Dawn](https://open.spotify.com/track/0THdfQgMIwHSJ0zlowjpLP) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Lineage 2 \- Chaotic Chronicle](https://open.spotify.com/album/0BawDoh2xMnec8hK6XkQ2L) | 2:00 |
+| 47 | [Crossroad at Dawn](https://open.spotify.com/track/5rQx4Rhe1gey7FJSO5F4aV) | [Bill Brown](https://open.spotify.com/artist/0hpjPGgPQW9o5veEihASNJ) | [Chaotic Chronicle \(Lineage2 Original Game Soundtrack\)](https://open.spotify.com/album/04wngi30Qap95fjcdn7SbC) | 2:00 |
 | 48 | [Ella and Kit](https://open.spotify.com/track/1lMaFGcFzfESerHh28aMLA) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:11 |
 | 49 | [Home](https://open.spotify.com/track/0PmH79CmZR3HCvTukh4Nge) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:30 |
 | 50 | [Bathsheba and Oak Unite](https://open.spotify.com/track/5EdYF3AG4xOETuvBHukWZn) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 1:35 |
 | 51 | [The Grey Havens](https://open.spotify.com/track/2Slmu6R8mf90wskb1xk6aB) | [Chance Thomas](https://open.spotify.com/artist/1VPqJ10EqqXOQNDw1ppYeh) | [The Lord of the Rings Online \(10th Anniversary Commemorative Soundtrack\)](https://open.spotify.com/album/1lkI0MpnnccE364waiYGOY) | 2:18 |
 
-Snapshot ID: `MTY3MzI3OTM1NywwMDAwMDAwMGEzZDQ5ODUxYWFmMWU1YmE2ZmQyM2QyMGFiZGRmMjU3`
+Snapshot ID: `MTY3MzI3OTM1NywwMDAwMDAwMDFiNGM2ZDJhM2E5NmNkNzEyMTA3YjdjODQyZWUxNTM2`

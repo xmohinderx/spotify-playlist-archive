@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 61433,
+  "num_followers": 61542,
   "original_name": "Soulful House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU0OTAzNiwwMDAwMDAwMGM4ZjJkY2RiN2MyMzM1YzUxYTVkMzNjOTRmMmUwNjcx",
+  "snapshot_id": "MTY3MzU0OTAzNiwwMDAwMDAwMGY1MzM5M2NkNDkwNzRjZDc3NDlkY2M0NzY5YTIwYjcz",
   "tracks": [
     {
       "added_at": "2022-09-13 16:30:28",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
-        "name": "Atmosfear",
-        "url": "https://open.spotify.com/album/6l6VDvfN2xbSz6sFDXWJxz"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "Colouration",
-      "url": "https://open.spotify.com/track/5R0O1izXn9jy0PQn1Ki2Lt"
-    },
-    {
-      "added_at": "2022-09-13 16:30:28",
-      "album": {
         "name": "Let Me See You (Clap Your Hands) EP",
         "url": "https://open.spotify.com/album/1GOW3vMJfYO4pTXxtcmqMO"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 493440,
       "name": "Let Me See You (Clap Your Hands)",
       "url": "https://open.spotify.com/track/1Rji2sKlCxwfyxuk8N8FlX"
+    },
+    {
+      "added_at": "2022-09-13 16:30:28",
+      "album": {
+        "name": "Atmosfear",
+        "url": "https://open.spotify.com/album/6l6VDvfN2xbSz6sFDXWJxz"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "Colouration",
+      "url": "https://open.spotify.com/track/5R0O1izXn9jy0PQn1Ki2Lt"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -799,6 +799,26 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
+      },
+      "artists": [
+        {
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+        },
+        {
+          "name": "Hayze",
+          "url": "https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Changes (feat. Haze)",
+      "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
+    },
+    {
+      "added_at": "2022-09-13 16:30:28",
+      "album": {
         "name": "1996 - 2006 The House Album",
         "url": "https://open.spotify.com/album/42JvpUZuj716xD5fIwa5uO"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 600546,
       "name": "Let the Drums Speak - Phil Asher Mix",
       "url": "https://open.spotify.com/track/3ta8AmSMy4a8DmrYrWDFrU"
-    },
-    {
-      "added_at": "2022-09-13 16:30:28",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
-      },
-      "artists": [
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
-        },
-        {
-          "name": "Hayze",
-          "url": "https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "Changes (feat. Haze)",
-      "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
+        "name": "Welcome Aboard",
+        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
+      },
+      "artists": [
+        {
+          "name": "Liquideep",
+          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+        }
+      ],
+      "duration_ms": 455800,
+      "name": "Welcome Aboard",
+      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
+    },
+    {
+      "added_at": "2022-09-13 16:30:28",
+      "album": {
         "name": "Backfired",
         "url": "https://open.spotify.com/album/6ny1UzeTKJ9iR4e7t6SHVz"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 519039,
       "name": "Backfired - Dave Lee Club Mix",
       "url": "https://open.spotify.com/track/2RsSPUTNQ147dUCQyC4toz"
-    },
-    {
-      "added_at": "2022-09-13 16:30:28",
-      "album": {
-        "name": "Welcome Aboard",
-        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
-      },
-      "artists": [
-        {
-          "name": "Liquideep",
-          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
-        }
-      ],
-      "duration_ms": 455800,
-      "name": "Welcome Aboard",
-      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
+        "name": "Basic Blaze",
+        "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
+      },
+      "artists": [
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        },
+        {
+          "name": "Palmer Brown",
+          "url": "https://open.spotify.com/artist/5MfFoEw9nTa4pyTUvG3kdb"
+        }
+      ],
+      "duration_ms": 319760,
+      "name": "My Beat - feat. Palmer Brown",
+      "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
+    },
+    {
+      "added_at": "2022-09-13 16:30:28",
+      "album": {
         "name": "Love It",
         "url": "https://open.spotify.com/album/0KneyKV5tME1HoDFtEMUDS"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 554268,
       "name": "Love It - Phil Asher's Restless Soul Vocal Mix",
       "url": "https://open.spotify.com/track/108xPfHyjfwRv4ZJrDJdHL"
-    },
-    {
-      "added_at": "2022-09-13 16:30:28",
-      "album": {
-        "name": "Basic Blaze",
-        "url": "https://open.spotify.com/album/2AlcOxSXgsBk7DjM8DKOxW"
-      },
-      "artists": [
-        {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        },
-        {
-          "name": "Palmer Brown",
-          "url": "https://open.spotify.com/artist/5MfFoEw9nTa4pyTUvG3kdb"
-        }
-      ],
-      "duration_ms": 319760,
-      "name": "My Beat - feat. Palmer Brown",
-      "url": "https://open.spotify.com/track/21G4nOpobUUb6czFyxLSBx"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
-        "name": "Find A Friend",
-        "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
-      },
-      "artists": [
-        {
-          "name": "DJ John \u201cJulius\u201d Knight",
-          "url": "https://open.spotify.com/artist/2PXoD4LZuPCdy1R05cpM1u"
-        }
-      ],
-      "duration_ms": 409238,
-      "name": "Find A Friend",
-      "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
-    },
-    {
-      "added_at": "2022-09-13 16:30:28",
-      "album": {
         "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
         "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 642782,
       "name": "Swimming Places",
       "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
+    },
+    {
+      "added_at": "2022-09-13 16:30:28",
+      "album": {
+        "name": "Find A Friend",
+        "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
+      },
+      "artists": [
+        {
+          "name": "DJ John \u201cJulius\u201d Knight",
+          "url": "https://open.spotify.com/artist/2PXoD4LZuPCdy1R05cpM1u"
+        }
+      ],
+      "duration_ms": 409238,
+      "name": "Find A Friend",
+      "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
+        "name": "When The Morning Comes",
+        "url": "https://open.spotify.com/album/5C44djamaXUXQI1U1NzdS2"
+      },
+      "artists": [
+        {
+          "name": "Alton Miller",
+          "url": "https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs"
+        },
+        {
+          "name": "Amp Fiddler",
+          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+        }
+      ],
+      "duration_ms": 475262,
+      "name": "When The Morning Comes - Main Vocal Mix",
+      "url": "https://open.spotify.com/track/0sZmHiIFlz2RfXzrZCGiIu"
+    },
+    {
+      "added_at": "2022-09-13 16:30:28",
+      "album": {
         "name": "Never Saw You Coming",
         "url": "https://open.spotify.com/album/1BjYQDXDpH4oo5BUIWzHBT"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 508266,
       "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
       "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
-    },
-    {
-      "added_at": "2022-09-13 16:30:28",
-      "album": {
-        "name": "When The Morning Comes",
-        "url": "https://open.spotify.com/album/5C44djamaXUXQI1U1NzdS2"
-      },
-      "artists": [
-        {
-          "name": "Alton Miller",
-          "url": "https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs"
-        },
-        {
-          "name": "Amp Fiddler",
-          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
-        }
-      ],
-      "duration_ms": 475262,
-      "name": "When The Morning Comes - Main Vocal Mix",
-      "url": "https://open.spotify.com/track/0sZmHiIFlz2RfXzrZCGiIu"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -1859,30 +1859,6 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
-        "name": "Mercyless (Atjazz Unreleased Astro Remixes)",
-        "url": "https://open.spotify.com/album/1as93MXHLXN6Vhrpt2ABQO"
-      },
-      "artists": [
-        {
-          "name": "Fred Everything",
-          "url": "https://open.spotify.com/artist/1lKf0Z2bKT57EzmCr8ZlkS"
-        },
-        {
-          "name": "Wayne Tennant",
-          "url": "https://open.spotify.com/artist/3fCXkoZo2oEfNSgJZqUihI"
-        },
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        }
-      ],
-      "duration_ms": 416509,
-      "name": "Mercyless - Atjazz Unreleased Astro Remix",
-      "url": "https://open.spotify.com/track/2Uhl0LNSb2sQIWK5sO2RXQ"
-    },
-    {
-      "added_at": "2022-09-13 16:30:28",
-      "album": {
         "name": "Virgin Ubiquity: Remixed",
         "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
       },
@@ -1903,6 +1879,30 @@
       "duration_ms": 526800,
       "name": "Holiday - Kenny Dope Main Pass",
       "url": "https://open.spotify.com/track/5sNqQYKPuIUvipXRKWzOc8"
+    },
+    {
+      "added_at": "2022-09-13 16:30:28",
+      "album": {
+        "name": "Mercyless (Atjazz Unreleased Astro Remixes)",
+        "url": "https://open.spotify.com/album/1as93MXHLXN6Vhrpt2ABQO"
+      },
+      "artists": [
+        {
+          "name": "Fred Everything",
+          "url": "https://open.spotify.com/artist/1lKf0Z2bKT57EzmCr8ZlkS"
+        },
+        {
+          "name": "Wayne Tennant",
+          "url": "https://open.spotify.com/artist/3fCXkoZo2oEfNSgJZqUihI"
+        },
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        }
+      ],
+      "duration_ms": 416509,
+      "name": "Mercyless - Atjazz Unreleased Astro Remix",
+      "url": "https://open.spotify.com/track/2Uhl0LNSb2sQIWK5sO2RXQ"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -1943,22 +1943,26 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
-        "name": "Good Morning EP",
-        "url": "https://open.spotify.com/album/4OceKEsE23D5MJbgWCoL7r"
+        "name": "More Than a Remix",
+        "url": "https://open.spotify.com/album/02ikEBjQhYGRO8VCW2LlXA"
       },
       "artists": [
         {
-          "name": "Karizma",
-          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
         },
         {
-          "name": "Kaytronik",
-          "url": "https://open.spotify.com/artist/4E3Ym06uZ8vSiMfd9L19Se"
+          "name": "E-Man",
+          "url": "https://open.spotify.com/artist/7pJ2OuS57Yaj77slBPquK8"
+        },
+        {
+          "name": "Rainy Payne",
+          "url": "https://open.spotify.com/artist/3ir0UwJPYaz4OWSvf0F5pc"
         }
       ],
-      "duration_ms": 373664,
-      "name": "Good Morning - Kaytronik Remix",
-      "url": "https://open.spotify.com/track/5XFwHSECR0Iy4bhdT0hSvP"
+      "duration_ms": 455346,
+      "name": "For Real - Atjazz Remix",
+      "url": "https://open.spotify.com/track/1AHF21soOfMpMTZ4mjIXsa"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -1987,26 +1991,22 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
-        "name": "More Than a Remix",
-        "url": "https://open.spotify.com/album/02ikEBjQhYGRO8VCW2LlXA"
+        "name": "Good Morning EP",
+        "url": "https://open.spotify.com/album/4OceKEsE23D5MJbgWCoL7r"
       },
       "artists": [
         {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
         },
         {
-          "name": "E-Man",
-          "url": "https://open.spotify.com/artist/7pJ2OuS57Yaj77slBPquK8"
-        },
-        {
-          "name": "Rainy Payne",
-          "url": "https://open.spotify.com/artist/3ir0UwJPYaz4OWSvf0F5pc"
+          "name": "Kaytronik",
+          "url": "https://open.spotify.com/artist/4E3Ym06uZ8vSiMfd9L19Se"
         }
       ],
-      "duration_ms": 455346,
-      "name": "For Real - Atjazz Remix",
-      "url": "https://open.spotify.com/track/1AHF21soOfMpMTZ4mjIXsa"
+      "duration_ms": 373664,
+      "name": "Good Morning - Kaytronik Remix",
+      "url": "https://open.spotify.com/track/5XFwHSECR0Iy4bhdT0hSvP"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -2067,6 +2067,26 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
+        "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
+        "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
+      },
+      "artists": [
+        {
+          "name": "DJ Le Roi",
+          "url": "https://open.spotify.com/artist/5OXUEzrde6XK7zpfcxmybW"
+        },
+        {
+          "name": "Chappell",
+          "url": "https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5"
+        }
+      ],
+      "duration_ms": 446026,
+      "name": "Get Ready - Halo City Deep Vocal Dub Mix",
+      "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
+    },
+    {
+      "added_at": "2022-09-13 16:30:28",
+      "album": {
         "name": "Virgin Ubiquity: Remixed",
         "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
       },
@@ -2095,22 +2115,26 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
-        "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
-        "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/3yuKDNV15fE0ttSmT2riCj"
       },
       "artists": [
         {
-          "name": "DJ Le Roi",
-          "url": "https://open.spotify.com/artist/5OXUEzrde6XK7zpfcxmybW"
+          "name": "Halo",
+          "url": "https://open.spotify.com/artist/7Lj6k89X6P1R61Fcjmhewd"
         },
         {
-          "name": "Chappell",
-          "url": "https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5"
+          "name": "Maiya",
+          "url": "https://open.spotify.com/artist/4XkeOIxSQA33jrPbWXpijb"
+        },
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
         }
       ],
-      "duration_ms": 446026,
-      "name": "Get Ready - Halo City Deep Vocal Dub Mix",
-      "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
+      "duration_ms": 487531,
+      "name": "Glory - Atjazz Remix",
+      "url": "https://open.spotify.com/track/7gFX0LEM6Ty0yojsBcsEXz"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -2171,30 +2195,6 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/3yuKDNV15fE0ttSmT2riCj"
-      },
-      "artists": [
-        {
-          "name": "Halo",
-          "url": "https://open.spotify.com/artist/7Lj6k89X6P1R61Fcjmhewd"
-        },
-        {
-          "name": "Maiya",
-          "url": "https://open.spotify.com/artist/4XkeOIxSQA33jrPbWXpijb"
-        },
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        }
-      ],
-      "duration_ms": 487531,
-      "name": "Glory - Atjazz Remix",
-      "url": "https://open.spotify.com/track/7gFX0LEM6Ty0yojsBcsEXz"
-    },
-    {
-      "added_at": "2022-09-13 16:30:28",
-      "album": {
         "name": "Lifestyle2 - Dance Grooves Vol 1 (Budget Version)",
         "url": "https://open.spotify.com/album/6Y9kELm8endQXLmFnwHiBH"
       },
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
-        "name": "Avery*Sunshine Summer EP",
-        "url": "https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 441600,
-      "name": "Ugly Part of Me - Terry Hunter Mix",
-      "url": "https://open.spotify.com/track/0N0lb2ExXb6eCRwLVrpBRJ"
-    },
-    {
-      "added_at": "2022-09-13 16:30:28",
-      "album": {
         "name": "To The Sky",
         "url": "https://open.spotify.com/album/5kCKjJkkDvxDPOr3JCxvaO"
       },
@@ -2283,38 +2267,6 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
-      },
-      "artists": [
-        {
-          "name": "DJ Gregory",
-          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
-        }
-      ],
-      "duration_ms": 722920,
-      "name": "Elle (Main Version)",
-      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
-    },
-    {
-      "added_at": "2022-09-13 16:30:28",
-      "album": {
-        "name": "Love and Devotion",
-        "url": "https://open.spotify.com/album/4FRzsqXyeqlFjB6azOBOuF"
-      },
-      "artists": [
-        {
-          "name": "Joi Cardwell",
-          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
-        }
-      ],
-      "duration_ms": 313893,
-      "name": "Love and Devotion-Porgy and Bess Mix",
-      "url": "https://open.spotify.com/track/3L5nmAeO0DhM04Wju6geCh"
-    },
-    {
-      "added_at": "2022-09-13 16:30:28",
-      "album": {
         "name": "Jellybean Soul Presents: Feel the Spirit, Vol. 1",
         "url": "https://open.spotify.com/album/4cHdkMOIVkTEK3NbTpYICk"
       },
@@ -2331,18 +2283,34 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
-        "name": "You Give Good Love",
-        "url": "https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe"
+        "name": "Avery*Sunshine Summer EP",
+        "url": "https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM"
       },
       "artists": [
         {
-          "name": "Kathy Brown",
-          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
         }
       ],
-      "duration_ms": 397240,
-      "name": "You Give Good Love (Jay-J's Mouton Studios Dub)",
-      "url": "https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a"
+      "duration_ms": 441600,
+      "name": "Ugly Part of Me - Terry Hunter Mix",
+      "url": "https://open.spotify.com/track/0N0lb2ExXb6eCRwLVrpBRJ"
+    },
+    {
+      "added_at": "2022-09-13 16:30:28",
+      "album": {
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
+      },
+      "artists": [
+        {
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+        }
+      ],
+      "duration_ms": 722920,
+      "name": "Elle (Main Version)",
+      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -2363,22 +2331,50 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
-        "name": "Spinning Inside Your Love (DJ Spinna Remix - 2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/7cZjXwMrwHS8Df6a5TMHDr"
+        "name": "You Give Good Love",
+        "url": "https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe"
       },
       "artists": [
         {
-          "name": "Robert Strauss",
-          "url": "https://open.spotify.com/artist/3GWkz1BXFgGQxJCrVfqJaG"
-        },
-        {
-          "name": "Dj Spinna",
-          "url": "https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2"
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
         }
       ],
-      "duration_ms": 421506,
-      "name": "Spinning Inside Your Love - DJ Spinna Remix - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/3JOKodchSwl2hIdsrcJ8XB"
+      "duration_ms": 397240,
+      "name": "You Give Good Love (Jay-J's Mouton Studios Dub)",
+      "url": "https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a"
+    },
+    {
+      "added_at": "2022-09-13 16:30:28",
+      "album": {
+        "name": "Love and Devotion",
+        "url": "https://open.spotify.com/album/4FRzsqXyeqlFjB6azOBOuF"
+      },
+      "artists": [
+        {
+          "name": "Joi Cardwell",
+          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
+        }
+      ],
+      "duration_ms": 313893,
+      "name": "Love and Devotion-Porgy and Bess Mix",
+      "url": "https://open.spotify.com/track/3L5nmAeO0DhM04Wju6geCh"
+    },
+    {
+      "added_at": "2022-09-13 16:30:28",
+      "album": {
+        "name": "The Kerri Chandler Collection",
+        "url": "https://open.spotify.com/album/0VIowp3nc3KpEdwiMEQ3Gg"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 444153,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/70EOnXNxRilUCb7OrTvOqw"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -2403,18 +2399,22 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
-        "name": "The Kerri Chandler Collection",
-        "url": "https://open.spotify.com/album/0VIowp3nc3KpEdwiMEQ3Gg"
+        "name": "Spinning Inside Your Love (DJ Spinna Remix - 2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/7cZjXwMrwHS8Df6a5TMHDr"
       },
       "artists": [
         {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+          "name": "Robert Strauss",
+          "url": "https://open.spotify.com/artist/3GWkz1BXFgGQxJCrVfqJaG"
+        },
+        {
+          "name": "Dj Spinna",
+          "url": "https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2"
         }
       ],
-      "duration_ms": 444153,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/70EOnXNxRilUCb7OrTvOqw"
+      "duration_ms": 421506,
+      "name": "Spinning Inside Your Love - DJ Spinna Remix - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/3JOKodchSwl2hIdsrcJ8XB"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -2439,26 +2439,6 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/7r5EEZrmQ9VTbKHpJ3WC1l"
-      },
-      "artists": [
-        {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
-        },
-        {
-          "name": "Tkumah Sadeek",
-          "url": "https://open.spotify.com/artist/7dtp0FfcaR3gVdMtZvooYH"
-        }
-      ],
-      "duration_ms": 530459,
-      "name": "Crossroads - Vocal Mix",
-      "url": "https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x"
-    },
-    {
-      "added_at": "2022-09-13 16:30:28",
-      "album": {
         "name": "There Is Soul in My House",
         "url": "https://open.spotify.com/album/0mtSczfPaltwZlDzGEwD0M"
       },
@@ -2479,6 +2459,26 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/7r5EEZrmQ9VTbKHpJ3WC1l"
+      },
+      "artists": [
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        },
+        {
+          "name": "Tkumah Sadeek",
+          "url": "https://open.spotify.com/artist/7dtp0FfcaR3gVdMtZvooYH"
+        }
+      ],
+      "duration_ms": 530459,
+      "name": "Crossroads - Vocal Mix",
+      "url": "https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x"
+    },
+    {
+      "added_at": "2022-09-13 16:30:28",
+      "album": {
         "name": "The Best of Blaze, Vol. 3 - Natural Blaze",
         "url": "https://open.spotify.com/album/5kPN9cXKLxoTvJYlx9Akg0"
       },
@@ -2491,26 +2491,6 @@
       "duration_ms": 383160,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/2AOZ9fi8iUZdvoPpjODjIX"
-    },
-    {
-      "added_at": "2022-09-13 16:30:28",
-      "album": {
-        "name": "Voices & Visions",
-        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
-      },
-      "artists": [
-        {
-          "name": "Copyright",
-          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
-        },
-        {
-          "name": "Imaani",
-          "url": "https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi"
-        }
-      ],
-      "duration_ms": 419400,
-      "name": "Wizeman (feat. Imaani)",
-      "url": "https://open.spotify.com/track/0EsWTCXnAOjeVGDx7Rky7N"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -2531,6 +2511,26 @@
       "duration_ms": 392640,
       "name": "I'm Gonna Miss You (feat. K.T. Brooks)",
       "url": "https://open.spotify.com/track/0vuDLKz7yeNhmIpSDJ1Gz4"
+    },
+    {
+      "added_at": "2022-09-13 16:30:28",
+      "album": {
+        "name": "Voices & Visions",
+        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
+      },
+      "artists": [
+        {
+          "name": "Copyright",
+          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
+        },
+        {
+          "name": "Imaani",
+          "url": "https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi"
+        }
+      ],
+      "duration_ms": 419400,
+      "name": "Wizeman (feat. Imaani)",
+      "url": "https://open.spotify.com/track/0EsWTCXnAOjeVGDx7Rky7N"
     },
     {
       "added_at": "2022-09-13 16:30:28",
@@ -2579,30 +2579,6 @@
     {
       "added_at": "2022-09-13 16:30:28",
       "album": {
-        "name": "Sermon One EP (feat. Ron Carroll)",
-        "url": "https://open.spotify.com/album/1PenNFTRyle8MGmDlTBTE5"
-      },
-      "artists": [
-        {
-          "name": "Mike Dunn",
-          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
-        },
-        {
-          "name": "Tha RC Groove Project",
-          "url": "https://open.spotify.com/artist/1xyYynMWmXR4BQxOcuNMYb"
-        },
-        {
-          "name": "Ron Carroll",
-          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
-        }
-      ],
-      "duration_ms": 488209,
-      "name": "He's Gonna Make It Alright (feat. Ron Carroll) - MD'z Original Recipe Vocal Mixx",
-      "url": "https://open.spotify.com/track/6RZV9eMP6MAF72urSAME56"
-    },
-    {
-      "added_at": "2022-09-13 16:30:28",
-      "album": {
         "name": "T. Williams - EP",
         "url": "https://open.spotify.com/album/18jM8fMBY5MX7uS9toKDFj"
       },
@@ -2631,6 +2607,30 @@
       "duration_ms": 369946,
       "name": "Elements",
       "url": "https://open.spotify.com/track/2pcBpS2hW2sxgFA61D3OVC"
+    },
+    {
+      "added_at": "2022-09-13 16:30:28",
+      "album": {
+        "name": "Sermon One EP (feat. Ron Carroll)",
+        "url": "https://open.spotify.com/album/1PenNFTRyle8MGmDlTBTE5"
+      },
+      "artists": [
+        {
+          "name": "Mike Dunn",
+          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
+        },
+        {
+          "name": "Tha RC Groove Project",
+          "url": "https://open.spotify.com/artist/1xyYynMWmXR4BQxOcuNMYb"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "duration_ms": 488209,
+      "name": "He's Gonna Make It Alright (feat. Ron Carroll) - MD'z Original Recipe Vocal Mixx",
+      "url": "https://open.spotify.com/track/6RZV9eMP6MAF72urSAME56"
     },
     {
       "added_at": "2022-09-13 16:30:28",

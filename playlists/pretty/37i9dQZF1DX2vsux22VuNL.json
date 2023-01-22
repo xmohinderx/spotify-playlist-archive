@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: MC Cabelinho",
-  "num_followers": 248938,
+  "num_followers": 249100,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIwOTUzNiwwMDAwMDAwMGNkZjZmMGNiMjhiZTdhZDEyMDk4NzE0YjdiOTg5YTg2",
+  "snapshot_id": "MTY3NDIwOTUzNiwwMDAwMDAwMDQwNmFhNjQ5YzgyN2IwMTA5ODJmZGVhM2VhOTRmZWM2",
   "tracks": [
     {
       "added_at": "2023-01-20 10:12:16",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2023-01-20 10:12:16",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
+    },
+    {
+      "added_at": "2023-01-20 10:12:16",
+      "album": {
         "name": "n\u00e3o te amo mais",
         "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 133921,
       "name": "n\u00e3o te amo mais",
       "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
-    },
-    {
-      "added_at": "2023-01-20 10:12:16",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2023-01-20 10:12:16",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2023-01-20 10:12:16",
       "album": {
-        "name": "Lembro de Voc\u00ea",
-        "url": "https://open.spotify.com/album/35xIi09rhNWA4FQS8xY1ko"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "MC Estudante",
-          "url": "https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6"
-        }
-      ],
-      "duration_ms": 185777,
-      "name": "Lembro de Voc\u00ea",
-      "url": "https://open.spotify.com/track/2EN7WVaJgRV2tOYzIZM3s7"
-    },
-    {
-      "added_at": "2023-01-20 10:12:16",
-      "album": {
         "name": "Livro Aberto",
         "url": "https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 147040,
       "name": "N\u00f3s Dois",
       "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
+    },
+    {
+      "added_at": "2023-01-20 10:12:16",
+      "album": {
+        "name": "Lembro de Voc\u00ea",
+        "url": "https://open.spotify.com/album/35xIi09rhNWA4FQS8xY1ko"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "MC Estudante",
+          "url": "https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6"
+        }
+      ],
+      "duration_ms": 185777,
+      "name": "Lembro de Voc\u00ea",
+      "url": "https://open.spotify.com/track/2EN7WVaJgRV2tOYzIZM3s7"
     },
     {
       "added_at": "2023-01-20 10:12:16",

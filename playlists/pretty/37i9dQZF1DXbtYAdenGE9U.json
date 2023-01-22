@@ -1,12 +1,12 @@
 {
   "description": "All your favorite trance anthems curated by Above & Beyond! ",
-  "num_followers": 361416,
+  "num_followers": 361708,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA1MzQ4MiwwMDAwMDAwMDY1YmEzMDgxMjFmODQ3YmFiZTY0MDZkNGE5NzUyZjM4",
+  "snapshot_id": "MTY3NDA1MzQ4MiwwMDAwMDAwMGRiMjNlZGExNTUzZmVlOGE5MmY5M2ZmODc0NTQxMTlk",
   "tracks": [
     {
       "added_at": "2022-12-28 00:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-12-28 00:00:00",
       "album": {
+        "name": "Everyday (2002)",
+        "url": "https://open.spotify.com/album/5opOhL8ULQtnF8aXInXU0I"
+      },
+      "artists": [
+        {
+          "name": "Agnelli & Nelson",
+          "url": "https://open.spotify.com/artist/25fXoLpROrtnNtQ1ifr8oN"
+        }
+      ],
+      "duration_ms": 405866,
+      "name": "Everyday 2002",
+      "url": "https://open.spotify.com/track/2CzT7ifcQsNo8X9ZgjQdNb"
+    },
+    {
+      "added_at": "2022-12-28 00:00:00",
+      "album": {
         "name": "Fallen Tides",
         "url": "https://open.spotify.com/album/4Bjn8mJZt7hW31LActtMyg"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 525760,
       "name": "Fallen Tides - Mat Zo Vocal Remix",
       "url": "https://open.spotify.com/track/2QvmQX9GOmqfqOO8mSzYWk"
-    },
-    {
-      "added_at": "2022-12-28 00:00:00",
-      "album": {
-        "name": "Everyday (2002)",
-        "url": "https://open.spotify.com/album/5opOhL8ULQtnF8aXInXU0I"
-      },
-      "artists": [
-        {
-          "name": "Agnelli & Nelson",
-          "url": "https://open.spotify.com/artist/25fXoLpROrtnNtQ1ifr8oN"
-        }
-      ],
-      "duration_ms": 405866,
-      "name": "Everyday 2002",
-      "url": "https://open.spotify.com/track/2CzT7ifcQsNo8X9ZgjQdNb"
     },
     {
       "added_at": "2022-12-28 00:00:00",

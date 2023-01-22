@@ -1,15 +1,15 @@
 {
   "description": "\u00a1Presentamos a nuestros artista Radar M\u00e9xico 2022!",
-  "num_followers": 66602,
+  "num_followers": 66668,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQxNjgwMCwwMDAwMDAwMDdlYTE3ZTM4YzU5MTliYTk5ODYzNzc0ZDQ4OGI5NTky",
+  "snapshot_id": "MTY3MzQxNjgwMCwwMDAwMDAwMDZiZTJlOWExNGI1N2Y2OTYzNTZiNmIyNDE2MjllOTU2",
   "tracks": [
     {
-      "added_at": "2023-01-21 01:36:40",
+      "added_at": "2023-01-22 01:37:37",
       "album": {
         "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
         "url": "https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6"
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
-      "added_at": "2022-08-01 05:00:00",
-      "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
-    },
-    {
       "added_at": "2022-12-29 18:02:02",
       "album": {
         "name": "El Chamaquito",
@@ -75,6 +59,22 @@
       "duration_ms": 139863,
       "name": "El Chamaquito",
       "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
+    },
+    {
+      "added_at": "2022-08-01 05:00:00",
+      "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -181,20 +181,20 @@
       "url": "https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48"
     },
     {
-      "added_at": "2022-08-01 05:00:00",
+      "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+        "name": "No Lo Pod\u00eda Hacer Mejor",
+        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
+      "duration_ms": 178980,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -229,20 +229,20 @@
       "url": "https://open.spotify.com/track/6kf9m7QlacUGYQstQBkCZ6"
     },
     {
-      "added_at": "2022-05-13 21:33:14",
+      "added_at": "2022-08-01 05:00:00",
       "album": {
-        "name": "No Lo Pod\u00eda Hacer Mejor",
-        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
       },
       "artists": [
         {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 178980,
-      "name": "No Lo Pod\u00eda Hacer Mejor",
-      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -353,22 +353,6 @@
       "url": "https://open.spotify.com/track/3cTmJcHYrOKRadRRuD4TGp"
     },
     {
-      "added_at": "2022-08-01 05:00:00",
-      "album": {
-        "name": "como me encanta",
-        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 321662,
-      "name": "como me encanta",
-      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
-    },
-    {
       "added_at": "2022-05-13 21:33:14",
       "album": {
         "name": "911",
@@ -387,6 +371,22 @@
       "duration_ms": 166173,
       "name": "R9 Aleteo",
       "url": "https://open.spotify.com/track/037VJbDruLmBcxzlEks9oa"
+    },
+    {
+      "added_at": "2022-08-01 05:00:00",
+      "album": {
+        "name": "como me encanta",
+        "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 321662,
+      "name": "como me encanta",
+      "url": "https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj"
     },
     {
       "added_at": "2022-06-20 16:54:02",
@@ -477,6 +477,22 @@
       "url": "https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW"
     },
     {
+      "added_at": "2022-11-08 20:55:16",
+      "album": {
+        "name": "Prenda del Alma - Spotify Singles",
+        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 258579,
+      "name": "Prenda del Alma - Spotify Singles",
+      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
+    },
+    {
       "added_at": "2022-05-13 21:33:14",
       "album": {
         "name": "Soy de Sinaloa",
@@ -523,22 +539,6 @@
       "duration_ms": 154115,
       "name": "Dinero, Fama y Poder",
       "url": "https://open.spotify.com/track/6DVZzhCzexaB2Bs73c7CM3"
-    },
-    {
-      "added_at": "2022-11-08 20:55:16",
-      "album": {
-        "name": "Prenda del Alma - Spotify Singles",
-        "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 258579,
-      "name": "Prenda del Alma - Spotify Singles",
-      "url": "https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Un Viaje Diferente",
-        "url": "https://open.spotify.com/album/0xNHJgl1s8jYp2AB4fjOSP"
-      },
-      "artists": [
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Todo Porque Te Amo",
-      "url": "https://open.spotify.com/track/42xGhi8vZ7cowI55hWgYzP"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/3VlJVBVcyprRfIf21M7fVk"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Un Viaje Diferente",
+        "url": "https://open.spotify.com/album/0xNHJgl1s8jYp2AB4fjOSP"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "Todo Porque Te Amo",
+      "url": "https://open.spotify.com/track/42xGhi8vZ7cowI55hWgYzP"
     },
     {
       "added_at": "2022-06-07 05:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Mamixhula",
-        "url": "https://open.spotify.com/album/0NXREpZBXGM2YSfntjRZg8"
+        "name": "Uh La La",
+        "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
       },
       "artists": [
         {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         }
       ],
-      "duration_ms": 150615,
-      "name": "Mamixhula",
-      "url": "https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL"
+      "duration_ms": 210857,
+      "name": "Uh La La",
+      "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -795,6 +795,22 @@
       "duration_ms": 183956,
       "name": "Dm",
       "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Confirmo (En Vivo)",
+        "url": "https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Confirmo - En Vivo",
+      "url": "https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt"
     },
     {
       "added_at": "2022-06-07 05:00:00",
@@ -819,8 +835,24 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Uh La La",
-        "url": "https://open.spotify.com/album/37E856Cum11u0LJognB6Xp"
+        "name": "Mamixhula",
+        "url": "https://open.spotify.com/album/0NXREpZBXGM2YSfntjRZg8"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 150615,
+      "name": "Mamixhula",
+      "url": "https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Tumbando Avi\u00f3n",
+        "url": "https://open.spotify.com/album/0EFOk4KGhVB8zIozX6wW2m"
       },
       "artists": [
         {
@@ -828,45 +860,9 @@
           "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         }
       ],
-      "duration_ms": 210857,
-      "name": "Uh La La",
-      "url": "https://open.spotify.com/track/238haksMvqT5hcKtznBLop"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Confirmo (En Vivo)",
-        "url": "https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Confirmo - En Vivo",
-      "url": "https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        },
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 183997,
-      "name": "Se\u00f1ales",
-      "url": "https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY"
+      "duration_ms": 180000,
+      "name": "Tumbando Avi\u00f3n",
+      "url": "https://open.spotify.com/track/3twvxdFxeR1VCWkoR60gKW"
     },
     {
       "added_at": "2022-05-13 21:33:14",

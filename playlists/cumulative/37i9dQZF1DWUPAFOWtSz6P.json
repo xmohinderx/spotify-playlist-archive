@@ -1286,6 +1286,24 @@
     {
       "album": {
         "name": "Twist",
+        "url": "https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL"
+      },
+      "artists": [
+        {
+          "name": "Lorkin O'Reilly",
+          "url": "https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186157,
+      "name": "Twist",
+      "url": "https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj"
+    },
+    {
+      "album": {
+        "name": "Twist",
         "url": "https://open.spotify.com/album/0b2nNS8Gbjojn314hxDzVL"
       },
       "artists": [
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 186157,
       "name": "Twist",
       "url": "https://open.spotify.com/track/7rbVQAeKbC37aU45N5GOVC"

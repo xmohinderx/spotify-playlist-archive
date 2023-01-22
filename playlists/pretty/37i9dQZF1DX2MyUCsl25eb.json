@@ -1,12 +1,12 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 974699,
+  "num_followers": 974751,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDA3YWFhYjRhMjc4MmFhYzk4MTYwNmY0MDEwNjgyYzg2",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDc2MTU3YzZlOGRjNDQ2ZjFjMWFkYjE2MDhhZTg4MDBj",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe"
     },
     {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Block me out",
+        "url": "https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 249494,
+      "name": "Block me out",
+      "url": "https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr"
+    },
+    {
       "added_at": "2022-07-15 04:01:00",
       "album": {
         "name": "Sunshine (feat. Foushe\u00e9)",
@@ -621,20 +637,20 @@
       "url": "https://open.spotify.com/track/2k28LZ2gQAwpNn3c4i5XQb"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Block me out",
-        "url": "https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN"
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 249494,
-      "name": "Block me out",
-      "url": "https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr"
+      "duration_ms": 263253,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -651,22 +667,6 @@
       "duration_ms": 204967,
       "name": "Yours",
       "url": "https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Believer",
-        "url": "https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 219020,
-      "name": "Just Another Thing We Don't Talk About",
-      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
-    },
-    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "When You Think Of Me",
@@ -755,6 +739,22 @@
       "duration_ms": 210133,
       "name": "When You Think Of Me",
       "url": "https://open.spotify.com/track/7t99DAaOhydc0GoqkiqfEi"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -901,20 +901,24 @@
       "url": "https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8"
+        "name": "Home Movies",
+        "url": "https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        },
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
         }
       ],
-      "duration_ms": 205066,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG"
+      "duration_ms": 196000,
+      "name": "Home Movies",
+      "url": "https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -931,6 +935,22 @@
       "duration_ms": 193973,
       "name": "Mr. Percocet",
       "url": "https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -969,24 +989,20 @@
       "url": "https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2022-02-11 05:02:00",
       "album": {
-        "name": "Home Movies",
-        "url": "https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt"
+        "name": "The Joy of Music",
+        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
       },
       "artists": [
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        },
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Home Movies",
-      "url": "https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY"
+      "duration_ms": 224333,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
     },
     {
       "added_at": "2022-09-02 04:02:00",
@@ -1003,22 +1019,6 @@
       "duration_ms": 173213,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE"
-    },
-    {
-      "added_at": "2022-02-11 05:02:00",
-      "album": {
-        "name": "The Joy of Music",
-        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Steady Love",
-      "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1053,20 +1053,20 @@
       "url": "https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "All The Way Over",
-        "url": "https://open.spotify.com/album/4zzRDfFoxSdriNk7cBAE20"
+        "name": "How Are You?",
+        "url": "https://open.spotify.com/album/7vbuUTprIXVeJEXtEPOn69"
       },
       "artists": [
         {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
         }
       ],
-      "duration_ms": 188426,
-      "name": "All The Way Over",
-      "url": "https://open.spotify.com/track/0AGAaQYL0QtGqQCEvHnqZx"
+      "duration_ms": 169499,
+      "name": "How Are You?",
+      "url": "https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ"
     },
     {
       "added_at": "2022-12-02 05:01:00",
@@ -1083,6 +1083,22 @@
       "duration_ms": 248284,
       "name": "Set For Life",
       "url": "https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "All The Way Over",
+        "url": "https://open.spotify.com/album/4zzRDfFoxSdriNk7cBAE20"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "All The Way Over",
+      "url": "https://open.spotify.com/track/0AGAaQYL0QtGqQCEvHnqZx"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -1117,38 +1133,6 @@
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
     },
     {
-      "added_at": "2022-12-02 05:01:00",
-      "album": {
-        "name": "georgia got colder",
-        "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "georgia",
-      "url": "https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "How Are You?",
-        "url": "https://open.spotify.com/album/7vbuUTprIXVeJEXtEPOn69"
-      },
-      "artists": [
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
-        }
-      ],
-      "duration_ms": 169499,
-      "name": "How Are You?",
-      "url": "https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ"
-    },
-    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "Green Eyes",
@@ -1163,6 +1147,22 @@
       "duration_ms": 150180,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY"
+    },
+    {
+      "added_at": "2022-12-02 05:01:00",
+      "album": {
+        "name": "georgia got colder",
+        "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "georgia",
+      "url": "https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -1213,20 +1213,20 @@
       "url": "https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
+      "added_at": "2022-06-24 04:02:00",
       "album": {
-        "name": "Always Almost",
-        "url": "https://open.spotify.com/album/5wNsHPJAH2NmuGg8IQ3REM"
+        "name": "Survive My Own Mind",
+        "url": "https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN"
       },
       "artists": [
         {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
         }
       ],
-      "duration_ms": 202053,
-      "name": "Always Almost",
-      "url": "https://open.spotify.com/track/35FwQrg7thq6kjrHL01QiJ"
+      "duration_ms": 136480,
+      "name": "Emotionless",
+      "url": "https://open.spotify.com/track/4mJ0rQth1WbwdVl4zgnFqs"
     },
     {
       "added_at": "2022-12-16 05:00:00",

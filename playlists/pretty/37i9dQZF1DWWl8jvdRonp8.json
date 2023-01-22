@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 146837,
+  "num_followers": 147043,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyMzcyNywwMDAwMDAwMDcyOGJkNzdhNjRkZGEwMjBlZjgzYmZiYTY4MTZlMDlk",
+  "snapshot_id": "MTY3MjQyMzcyNywwMDAwMDAwMDc5OGQ4YzY3ZTgzNDk1ZDY5NzMyOTcyZDZkZTkwMzUz",
   "tracks": [
     {
       "added_at": "2021-11-12 06:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "15 \u00c9xitos de Marisela Vol. 1",
-        "url": "https://open.spotify.com/album/6YLiyX7kvfDkKu1AGhQj6z"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 213506,
-      "name": "La Pareja Ideal",
-      "url": "https://open.spotify.com/track/6HTBhdYFWi1wIGbm7dV7iV"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "Como Tu Mujer",
         "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 262706,
       "name": "Como Tu Mujer",
       "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "15 \u00c9xitos de Marisela Vol. 1",
+        "url": "https://open.spotify.com/album/6YLiyX7kvfDkKu1AGhQj6z"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 213506,
+      "name": "La Pareja Ideal",
+      "url": "https://open.spotify.com/track/6HTBhdYFWi1wIGbm7dV7iV"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "15 \u00c9xitos de Marisela Vol. 2",
-        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/4vwNVm3Jrdj7G9w5XJX4x3"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -403,6 +387,22 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
+        "name": "Como Tu Mujer",
+        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/7fYr68C6tRUsGIym4poraT"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
         "name": "Tu Amor O Tu Desprecio",
         "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
@@ -419,18 +419,18 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Como Tu Mujer",
-        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
+        "name": "15 \u00c9xitos de Marisela Vol. 2",
+        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
         }
       ],
-      "duration_ms": 178426,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/7fYr68C6tRUsGIym4poraT"
+      "duration_ms": 215626,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/4vwNVm3Jrdj7G9w5XJX4x3"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Navidad Con La Regida",
-        "url": "https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 267250,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/1TXfox4cwT9ubQJXwAnouX"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 279333,
       "name": "Olv\u00eddame t\u00fa (with Marco Antonio Sol\u00eds) - MTV Unplugged",
       "url": "https://open.spotify.com/track/7gyYCmhtVoEgqiErO3iVn1"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Navidad Con La Regida",
+        "url": "https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 267250,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/1TXfox4cwT9ubQJXwAnouX"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
+        "name": "La Mejor Interprete de Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/2KNFsV9QcoYYSZKIfCMTK7"
+      },
+      "artists": [
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Vete Con Ella",
+      "url": "https://open.spotify.com/track/0qyvsjsNuMWQVAm2JK8n2W"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
         "name": "M\u00e1s Capaces Que Nunca",
         "url": "https://open.spotify.com/album/3nfwzm26fjNgYKHHUBcdAM"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 191360,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/3xLurRYVT2h298sWgCQSGZ"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
-        "name": "La Mejor Interprete de Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/2KNFsV9QcoYYSZKIfCMTK7"
-      },
-      "artists": [
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Vete Con Ella",
-      "url": "https://open.spotify.com/track/0qyvsjsNuMWQVAm2JK8n2W"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/6pgeDuCc02j6JhZi9dYyEv"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 236093,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/7EMsb3h7OaPZ44lwqRCgaq"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
     },
     {
       "added_at": "2021-11-12 06:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2021-11-12 06:00:00",
       "album": {
-        "name": "Homenaje A Los Bukis",
-        "url": "https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Figueroa",
-          "url": "https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya"
-        }
-      ],
-      "duration_ms": 619382,
-      "name": "Homenaje A Los Bukis",
-      "url": "https://open.spotify.com/track/2uIA8ma0GIFyvJqCUhjlLv"
-    },
-    {
-      "added_at": "2021-11-12 06:00:00",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 234920,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/3r0FRf0nVEpKA3OcMVjZiO"
+    },
+    {
+      "added_at": "2021-11-12 06:00:00",
+      "album": {
+        "name": "Homenaje A Los Bukis",
+        "url": "https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Figueroa",
+          "url": "https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya"
+        }
+      ],
+      "duration_ms": 619382,
+      "name": "Homenaje A Los Bukis",
+      "url": "https://open.spotify.com/track/2uIA8ma0GIFyvJqCUhjlLv"
     },
     {
       "added_at": "2021-11-12 06:00:00",

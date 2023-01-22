@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 542157,
+  "num_followers": 542233,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDhiYjc5ZDgxMDc1YTNkODcwZGI1NDEwYWE5ODEyZmJi",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDkyZjdmMGY3ODQwOWJlOWI1MmU5YzEzYmNjZWQzNGVh",
   "tracks": [
     {
       "added_at": "2023-01-20 05:01:00",
@@ -341,6 +341,22 @@
       "url": "https://open.spotify.com/track/1Im7xmfGDJo1WpnSdJNHbr"
     },
     {
+      "added_at": "2021-10-08 04:02:00",
+      "album": {
+        "name": "Bonzai View",
+        "url": "https://open.spotify.com/album/4WAq1BnkxlC0GOhdkU7w0j"
+      },
+      "artists": [
+        {
+          "name": "Potatohead People",
+          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
+        }
+      ],
+      "duration_ms": 212527,
+      "name": "Bonzai View",
+      "url": "https://open.spotify.com/track/6fQByeRUNdzB9g1dU5RvcK"
+    },
+    {
       "added_at": "2021-05-07 04:01:00",
       "album": {
         "name": "On the Fly",
@@ -365,22 +381,6 @@
       "url": "https://open.spotify.com/track/6x0b0IJW47OZPkEr166zib"
     },
     {
-      "added_at": "2021-10-08 04:02:00",
-      "album": {
-        "name": "Bonzai View",
-        "url": "https://open.spotify.com/album/4WAq1BnkxlC0GOhdkU7w0j"
-      },
-      "artists": [
-        {
-          "name": "Potatohead People",
-          "url": "https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m"
-        }
-      ],
-      "duration_ms": 212527,
-      "name": "Bonzai View",
-      "url": "https://open.spotify.com/track/6fQByeRUNdzB9g1dU5RvcK"
-    },
-    {
       "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Clap Clap",
@@ -397,24 +397,24 @@
       "url": "https://open.spotify.com/track/31IXUhiPiTtdkxw5mRWsMW"
     },
     {
-      "added_at": "2022-07-05 15:03:47",
+      "added_at": "2022-02-11 19:55:21",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/2EBRJxHs4JLRM2iWovRTmX"
+        "name": "Imani",
+        "url": "https://open.spotify.com/album/02qRkE8eImCiExxf2r2bJB"
       },
       "artists": [
         {
-          "name": "Ryan James Carr",
-          "url": "https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1"
+          "name": "E-SWERVE",
+          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
         },
         {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
         }
       ],
-      "duration_ms": 170336,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/1k075G4HKQ8oE1ybx4kzt0"
+      "duration_ms": 117987,
+      "name": "Imani",
+      "url": "https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -441,6 +441,26 @@
       "url": "https://open.spotify.com/track/0pMI9nxYUcV1GEjNbS5GEA"
     },
     {
+      "added_at": "2022-07-05 15:03:47",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/2EBRJxHs4JLRM2iWovRTmX"
+      },
+      "artists": [
+        {
+          "name": "Ryan James Carr",
+          "url": "https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        }
+      ],
+      "duration_ms": 170336,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/1k075G4HKQ8oE1ybx4kzt0"
+    },
+    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "The edbl x Kazuki Sessions",
@@ -463,26 +483,6 @@
       "duration_ms": 223390,
       "name": "Worldwide",
       "url": "https://open.spotify.com/track/4m8DQjgh5aQF0mxCw171Dn"
-    },
-    {
-      "added_at": "2022-02-11 19:55:21",
-      "album": {
-        "name": "Imani",
-        "url": "https://open.spotify.com/album/02qRkE8eImCiExxf2r2bJB"
-      },
-      "artists": [
-        {
-          "name": "E-SWERVE",
-          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
-        },
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        }
-      ],
-      "duration_ms": 117987,
-      "name": "Imani",
-      "url": "https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -577,6 +577,26 @@
       "url": "https://open.spotify.com/track/1swgntnR8aAPm23U1bBcM0"
     },
     {
+      "added_at": "2022-07-05 15:03:47",
+      "album": {
+        "name": "Moons of Jupiter",
+        "url": "https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr"
+      },
+      "artists": [
+        {
+          "name": "Daylight Robbery!",
+          "url": "https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O"
+        },
+        {
+          "name": "Benjamin Furman",
+          "url": "https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH"
+        }
+      ],
+      "duration_ms": 242506,
+      "name": "Galilean Moons",
+      "url": "https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Cloud Bounce",
@@ -637,22 +657,6 @@
       "url": "https://open.spotify.com/track/64jaRzgaubbHXplhfauxYz"
     },
     {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "Monument",
-        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 312333,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt"
-    },
-    {
       "added_at": "2022-11-18 05:01:00",
       "album": {
         "name": "Endless Thoughts",
@@ -667,6 +671,22 @@
       "duration_ms": 237077,
       "name": "Endless Thoughts",
       "url": "https://open.spotify.com/track/3UM6sEwROZUeq9fDvc3Pmd"
+    },
+    {
+      "added_at": "2021-10-15 04:01:00",
+      "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 312333,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -699,26 +719,6 @@
       "duration_ms": 164571,
       "name": "Nu Jump",
       "url": "https://open.spotify.com/track/6dzqA3xfQFZtq6bluHR0dK"
-    },
-    {
-      "added_at": "2022-07-05 15:03:47",
-      "album": {
-        "name": "Moons of Jupiter",
-        "url": "https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr"
-      },
-      "artists": [
-        {
-          "name": "Daylight Robbery!",
-          "url": "https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O"
-        },
-        {
-          "name": "Benjamin Furman",
-          "url": "https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH"
-        }
-      ],
-      "duration_ms": 242506,
-      "name": "Galilean Moons",
-      "url": "https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -833,6 +833,38 @@
       "url": "https://open.spotify.com/track/7eSZ01vwRY59uAzGt5V3lP"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Mind Racing",
+        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
+      },
+      "artists": [
+        {
+          "name": "Noah Rosen",
+          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
+        }
+      ],
+      "duration_ms": 347368,
+      "name": "Carlyle Clyde",
+      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
+    },
+    {
+      "added_at": "2021-07-23 04:01:00",
+      "album": {
+        "name": "Turkish Delight",
+        "url": "https://open.spotify.com/album/0Ywe3TYOzHLCKpkhQkkNYm"
+      },
+      "artists": [
+        {
+          "name": "Carsten Rubeling",
+          "url": "https://open.spotify.com/artist/3QmUu8ApUCQAaGrc0Riv6Y"
+        }
+      ],
+      "duration_ms": 240540,
+      "name": "Turkish Delight",
+      "url": "https://open.spotify.com/track/2REjRtNDCn61o7cafbTCaA"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Tin Tin Deo (NerdStar Remix)",
@@ -853,22 +885,6 @@
       "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Mind Racing",
-        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
-      },
-      "artists": [
-        {
-          "name": "Noah Rosen",
-          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
-        }
-      ],
-      "duration_ms": 347368,
-      "name": "Carlyle Clyde",
-      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
-    },
-    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "lamplighting",
@@ -885,20 +901,28 @@
       "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
     },
     {
-      "added_at": "2021-07-23 04:01:00",
+      "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Turkish Delight",
-        "url": "https://open.spotify.com/album/0Ywe3TYOzHLCKpkhQkkNYm"
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/4hm57vdkhtsFjYqcuUYcH4"
       },
       "artists": [
         {
-          "name": "Carsten Rubeling",
-          "url": "https://open.spotify.com/artist/3QmUu8ApUCQAaGrc0Riv6Y"
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Howard B Thy Name 7",
+          "url": "https://open.spotify.com/artist/6trXIx9xRq4iR7Oho2wdIy"
+        },
+        {
+          "name": "elmo",
+          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
         }
       ],
-      "duration_ms": 240540,
-      "name": "Turkish Delight",
-      "url": "https://open.spotify.com/track/2REjRtNDCn61o7cafbTCaA"
+      "duration_ms": 209501,
+      "name": "Pathways",
+      "url": "https://open.spotify.com/track/65tWLAZnxG5UqOw0M07Pfs"
     },
     {
       "added_at": "2021-09-24 04:02:00",
@@ -957,6 +981,26 @@
       "url": "https://open.spotify.com/track/1L7dfBB7v2rAegNsxlawEv"
     },
     {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Close Distance",
+        "url": "https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Skybox",
+      "url": "https://open.spotify.com/track/4gdyc5TGWtKD0N7OUtddzp"
+    },
+    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Deep in the Pocket",
@@ -973,28 +1017,36 @@
       "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
+      "added_at": "2022-09-02 04:02:00",
       "album": {
-        "name": "Pathways",
-        "url": "https://open.spotify.com/album/4hm57vdkhtsFjYqcuUYcH4"
+        "name": "Seventh Wonder",
+        "url": "https://open.spotify.com/album/4qZk3KeMtoXrduTt7tViiZ"
       },
       "artists": [
         {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
-        },
-        {
-          "name": "Howard B Thy Name 7",
-          "url": "https://open.spotify.com/artist/6trXIx9xRq4iR7Oho2wdIy"
-        },
-        {
-          "name": "elmo",
-          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
         }
       ],
-      "duration_ms": 209501,
-      "name": "Pathways",
-      "url": "https://open.spotify.com/track/65tWLAZnxG5UqOw0M07Pfs"
+      "duration_ms": 207707,
+      "name": "Seventh Wonder",
+      "url": "https://open.spotify.com/track/1KOyjvNp5zE6Pv7W4qqJfI"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Kosmological Glitches",
+        "url": "https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "duration_ms": 89898,
+      "name": "In Touch With The Kosmos",
+      "url": "https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1015,42 +1067,6 @@
       "duration_ms": 159354,
       "name": "Aesthetics",
       "url": "https://open.spotify.com/track/6NFK9JpsD1M2YauNoEIdFG"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Seventh Wonder",
-        "url": "https://open.spotify.com/album/4qZk3KeMtoXrduTt7tViiZ"
-      },
-      "artists": [
-        {
-          "name": "Tenderlonious",
-          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
-        }
-      ],
-      "duration_ms": 207707,
-      "name": "Seventh Wonder",
-      "url": "https://open.spotify.com/track/1KOyjvNp5zE6Pv7W4qqJfI"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Close Distance",
-        "url": "https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Skybox",
-      "url": "https://open.spotify.com/track/4gdyc5TGWtKD0N7OUtddzp"
     },
     {
       "added_at": "2021-01-29 05:01:00",
@@ -1085,70 +1101,6 @@
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Tiger's Den (Radio Edit)",
-        "url": "https://open.spotify.com/album/2sEVJZfiIUrwkC7ejA3KpP"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 271375,
-      "name": "Tiger's Den - Radio Edit",
-      "url": "https://open.spotify.com/track/0CWG5wltokNkZkrgS38bxE"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Kosmological Glitches",
-        "url": "https://open.spotify.com/album/07PMUINr7gclUOOk1NLZw5"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        }
-      ],
-      "duration_ms": 89898,
-      "name": "In Touch With The Kosmos",
-      "url": "https://open.spotify.com/track/0oSTB0VWnqK9w6RskAwPe0"
-    },
-    {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Between Days",
-        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
-    },
-    {
-      "added_at": "2021-02-26 00:47:37",
-      "album": {
-        "name": "Coral Jazz",
-        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Coral Jazz",
-      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
-    },
-    {
       "added_at": "2022-08-08 13:44:11",
       "album": {
         "name": "Cruiserweight",
@@ -1167,6 +1119,54 @@
       "duration_ms": 131006,
       "name": "Lift Off For AJ",
       "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
+    },
+    {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Between Days",
+        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Tiger's Den (Radio Edit)",
+        "url": "https://open.spotify.com/album/2sEVJZfiIUrwkC7ejA3KpP"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 271375,
+      "name": "Tiger's Den - Radio Edit",
+      "url": "https://open.spotify.com/track/0CWG5wltokNkZkrgS38bxE"
+    },
+    {
+      "added_at": "2021-02-26 00:47:37",
+      "album": {
+        "name": "Coral Jazz",
+        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Coral Jazz",
+      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/7rGhZMJO80BnSgeCsYdP9B"
     },
     {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
-      },
-      "artists": [
-        {
-          "name": "BlackLight",
-          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
-        }
-      ],
-      "duration_ms": 466627,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
-    },
-    {
       "added_at": "2022-04-15 04:01:00",
       "album": {
         "name": "PRNDL.wav",
@@ -1287,6 +1271,22 @@
       "duration_ms": 387514,
       "name": "Black Space Jazz",
       "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
+    },
+    {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49"
+      },
+      "artists": [
+        {
+          "name": "BlackLight",
+          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
+        }
+      ],
+      "duration_ms": 466627,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -1361,6 +1361,26 @@
       "url": "https://open.spotify.com/track/12oArgqvzZ2la4EzrhyooN"
     },
     {
+      "added_at": "2021-07-09 04:02:00",
+      "album": {
+        "name": "Northbound",
+        "url": "https://open.spotify.com/album/6apB9H9CL3iL6L7qQw3Hrz"
+      },
+      "artists": [
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Jonny Tobin",
+          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
+        }
+      ],
+      "duration_ms": 135999,
+      "name": "Northbound",
+      "url": "https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN"
+    },
+    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "Grapefruit",
@@ -1403,26 +1423,6 @@
       "duration_ms": 223302,
       "name": "Typhoon",
       "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"
-    },
-    {
-      "added_at": "2021-07-09 04:02:00",
-      "album": {
-        "name": "Northbound",
-        "url": "https://open.spotify.com/album/6apB9H9CL3iL6L7qQw3Hrz"
-      },
-      "artists": [
-        {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
-        },
-        {
-          "name": "Jonny Tobin",
-          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
-        }
-      ],
-      "duration_ms": 135999,
-      "name": "Northbound",
-      "url": "https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN"
     },
     {
       "added_at": "2022-04-11 13:55:08",

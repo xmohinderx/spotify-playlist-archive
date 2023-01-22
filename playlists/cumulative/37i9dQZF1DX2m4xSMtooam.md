@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-192 songs - 12 hr 21 min
+193 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Dindi](https://open.spotify.com/track/0v2LWjMTUcwl49SLxflj9n) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [Dindi](https://open.spotify.com/album/77UUjAXL27yMKkyWzam0xL) | 2:41 | 2022-12-08 |  |
 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh) | 4:40 | 2022-05-13 |  |
 | [Drivers License \- Bossa Nova](https://open.spotify.com/track/3CcGoFaDVUnbaZ4TeDEe4n) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [Drivers License \(Bossa Nova\)](https://open.spotify.com/album/4sG6ndx69BwxgqkKHaF1JQ) | 4:08 | 2022-05-13 |  |
-| [Easy To Love](https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [The Cole Porter Mix](https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I) | 3:36 | 2022-05-13 |  |
+| [Easy To Love](https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [The Cole Porter Mix](https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I) | 3:36 | 2022-05-13 | 2023-01-22 |
 | [Embarcadero](https://open.spotify.com/track/3zDRToKAQvpvyIbb06b4RD) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Greatest Hits Series\-\-Paul Desmond](https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b) | 4:00 | 2022-05-13 | 2022-11-12 |
 | [Enjoy Your Cigar](https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [Sunset Martini](https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb) | 3:42 | 2022-11-11 |  |
 | [Essa é Pro João](https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 3:01 | 2022-05-13 |  |
@@ -89,6 +89,7 @@
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO) | 3:25 | 2022-12-22 |  |
 | [I Wish I Knew How It Would Feel to be Free \- Studio Rio Version](https://open.spotify.com/track/3k1t0MMGMXf0C3I5YSyMwu) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Studio Rio](https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3) | [Studio Rio Presents: The Brazil Connection](https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw) | 4:53 | 2022-05-13 |  |
 | [I'm Glad There Is You](https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 5:01 | 2022-05-13 |  |
+| [I've Never Been in Love Before](https://open.spotify.com/track/3zxJSADabzOeoABoE7O7Jz) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I've Never Been in Love Before](https://open.spotify.com/album/2JS1LQHGLJ4ZmwM2LTFoW1) | 3:56 | 2023-01-19 |  |
 | [In a mellow tone](https://open.spotify.com/track/5ifsDssC2Yv86cHLg2g8rg) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Jazz + Bossa](https://open.spotify.com/album/5jkc9bfTpFlbK5rIzKeWdj) | 3:07 | 2022-05-13 |  |
 | [Insensatez](https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [O Melhor da Parceria](https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz) | 2:40 | 2022-05-13 |  |
 | [Isto Aqui O Que É \(Silver Sandal\)](https://open.spotify.com/track/1bNi8WeHJM2qk4PolPHTVV) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Light My Fire](https://open.spotify.com/album/2x0rWBfqrEcmNhVKfAKMXG) | 4:00 | 2022-05-13 | 2022-07-29 |

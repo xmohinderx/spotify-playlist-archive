@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Tássia Reis
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,583 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,634 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 26 | [Potranca](https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9) | [slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:36 |
 | 27 | [Ashley Banks](https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Ashley Banks](https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY) | 3:28 |
 | 28 | [Pimenta](https://open.spotify.com/track/12LpEgxl7XLiuvv0PXj1DT) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Pimenta](https://open.spotify.com/album/4uNMPFLGmrvLhMWGgT8fT7) | 2:44 |
-| 29 | [Novinha da Lancha](https://open.spotify.com/track/234hlFlKjMokIVGIMakFAN) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Novinha da Lancha](https://open.spotify.com/album/0iRAfyQVKFLQO8ti290R9u) | 2:48 |
-| 30 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
+| 29 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
+| 30 | [Novinha da Lancha](https://open.spotify.com/track/234hlFlKjMokIVGIMakFAN) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Novinha da Lancha](https://open.spotify.com/album/0iRAfyQVKFLQO8ti290R9u) | 2:48 |
 | 31 | [T SHIRT \(feat\. Jé Santiago\)](https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Jé Santiago](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI) | [ONNiKA](https://open.spotify.com/album/6KTGjKqOhXcHTUKb1EqeLd) | 2:19 |
 | 32 | [De Fé](https://open.spotify.com/track/73LpUA3H3L6kZuUzWE4j72) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ikinya](https://open.spotify.com/artist/3P9UYzQwlhR3HczWdbtcmU) | [De Fé](https://open.spotify.com/album/7yvEzXsMNAIGBQtd0luLDZ) | 2:24 |
 | 33 | [Melhor do Ano](https://open.spotify.com/track/3t8ABVwTR0nTDb5wdHmoQl) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [Visão Periférica](https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx) | 2:33 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 45 | [Oi, Prazer](https://open.spotify.com/track/4pCTXorg7BKc6SmjtQaEbG) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [WHITE NO BEAT](https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu) | [Oi, Prazer](https://open.spotify.com/album/3NhhBBKyHZNfILXQs5WwDQ) | 2:38 |
 | 46 | [Difere](https://open.spotify.com/track/6AgGeM4gmmSxWJeIblSa5G) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Marreta](https://open.spotify.com/artist/0glk5tMutCR844wvAoFJ8J) | [Difere](https://open.spotify.com/album/1CqyxG4xsl7HoqBPGwWVhQ) | 2:12 |
 | 47 | [Mob](https://open.spotify.com/track/4Lj7Jipbh9Z4QqGJvcIpuN) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Púrpura](https://open.spotify.com/album/0cdIIZgZt1izXSmjPL045h) | 3:39 |
-| 48 | [Respeita \- Ao Vivo](https://open.spotify.com/track/1byuWMcip5l2NzFLcdtuhL) | [Yas Werneck](https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2) | [Respeita \(Ao Vivo\)](https://open.spotify.com/album/3hS2GHhiCwX0XVwETTD5uX) | 2:38 |
-| 49 | [Fogo](https://open.spotify.com/track/0z8LtG7fiK0EHwtNVudl8d) | [Tícia](https://open.spotify.com/artist/32sKApT6WxIehmBNyGLsXN), [BATEKOO](https://open.spotify.com/artist/59HfwvJUsywrWQZNGnoY9B) | [Fogo](https://open.spotify.com/album/30bN41Kha9wBELEX60Nvel) | 2:25 |
+| 48 | [Fogo](https://open.spotify.com/track/0z8LtG7fiK0EHwtNVudl8d) | [Tícia](https://open.spotify.com/artist/32sKApT6WxIehmBNyGLsXN), [BATEKOO](https://open.spotify.com/artist/59HfwvJUsywrWQZNGnoY9B) | [Fogo](https://open.spotify.com/album/30bN41Kha9wBELEX60Nvel) | 2:25 |
+| 49 | [Respeita \- Ao Vivo](https://open.spotify.com/track/1byuWMcip5l2NzFLcdtuhL) | [Yas Werneck](https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2) | [Respeita \(Ao Vivo\)](https://open.spotify.com/album/3hS2GHhiCwX0XVwETTD5uX) | 2:38 |
 | 50 | [Apostas e Contratos \- Ao Vivo](https://open.spotify.com/track/79mrh2ByWxSh24uV8I6pIc) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Ashira No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/6nxV2RXjblA8wg4ZZs6Mea) | 3:32 |
 
-Snapshot ID: `MTY3NDE4MzY2MCwwMDAwMDAwMDEwM2FlZWQ3MmM2MGZmZWU1M2U0ZGYxMTg4YzNjM2I2`
+Snapshot ID: `MTY3NDE4MzY2MCwwMDAwMDAwMDI4MGZmN2JkYmM1OTJkZDhhMjI1MzIyN2Y3MGVjYzU0`

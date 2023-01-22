@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,757 likes - 477 songs - 1 day 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,767 likes - 477 songs - 1 day 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 125 | [2 Man Show](https://open.spotify.com/track/29Rk4VhqUZXkSDLqVEnLJP) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Shock Value](https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z) | 4:25 |
 | 126 | [Social Disease \- Remastered 2014](https://open.spotify.com/track/0Gvc5Ii3duAifGy2QaFDVt) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 3:42 |
 | 127 | [Club At The End Of The Street](https://open.spotify.com/track/3spWfMlB39jSkstIslYnvG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:52 |
-| 128 | [Wonderful Life \(feat\. Akon\)](https://open.spotify.com/track/5RUxRkxdY9bKNXDNPIRixP) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 5:21 |
-| 129 | [Country Comfort](https://open.spotify.com/track/5p9MpS0JdzVfbdJuHwhvqI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 5:06 |
+| 128 | [Country Comfort](https://open.spotify.com/track/5p9MpS0JdzVfbdJuHwhvqI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 5:06 |
+| 129 | [Wonderful Life \(feat\. Akon\)](https://open.spotify.com/track/5RUxRkxdY9bKNXDNPIRixP) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 5:21 |
 | 130 | [The Letter](https://open.spotify.com/track/35Hw3YY1l6NuAPwbN998P5) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 3:47 |
 | 131 | [Razor Face](https://open.spotify.com/track/3NeqB4bScYh4qHYuAhxYo3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 4:42 |
 | 132 | [Solidarity](https://open.spotify.com/track/6bWAHvrIvwHOitll6ATRfO) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 8:54 |
@@ -379,8 +379,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 369 | [Too Young](https://open.spotify.com/track/0qhvN2SrAlcYSROyiwVnqZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:12 |
 | 370 | [16th Century Man \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/3P35Ia0w6dgi5uamfjo0jw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 3:39 |
 | 371 | [Thank You Mama \- Piano Demo](https://open.spotify.com/track/4YnVgdm9lKeXOEGuPQLW0D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:19 |
-| 372 | [They Call Her The Cat](https://open.spotify.com/track/6jOCw3rPbxQTG3nuxaaX3A) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:27 |
-| 373 | [Michelle's Song \- From “Friends” Soundtrack](https://open.spotify.com/track/2e2tuKera7JpdOArm6sDcl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 4:20 |
+| 372 | [Michelle's Song \- From “Friends” Soundtrack](https://open.spotify.com/track/2e2tuKera7JpdOArm6sDcl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 4:20 |
+| 373 | [They Call Her The Cat](https://open.spotify.com/track/6jOCw3rPbxQTG3nuxaaX3A) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:27 |
 | 374 | [Mansfield](https://open.spotify.com/track/3I0Cw8Qy3vB1gy1W76GPyv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:53 |
 | 375 | [Shoot Down The Moon](https://open.spotify.com/track/2gVzJjqGAJZZpEbGzHSssf) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:09 |
 | 376 | [Keep It A Mystery](https://open.spotify.com/track/1AARvQLoXfnQstTo6eHJ8a) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:15 |
@@ -457,8 +457,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 447 | [Ball & Chain \- Remastered 2003](https://open.spotify.com/track/78KPKXdYxbt2pSu2WdXSjS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:28 |
 | 448 | [Dear God](https://open.spotify.com/track/4i6r30m0T4qoCjjCYwvJ1c) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 3:46 |
 | 449 | [Japanese Hands](https://open.spotify.com/track/7vZaVgqgDC5GTolnvX0Bzz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:40 |
-| 450 | [Legal Boys \- Remastered 2003](https://open.spotify.com/track/0Ttvx1AbYYFRl7tIDwuPfR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:08 |
-| 451 | [Rock Me When He's Gone](https://open.spotify.com/track/5THQ8j1P1XZ2TMQLTkha6n) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 5:00 |
+| 450 | [Rock Me When He's Gone](https://open.spotify.com/track/5THQ8j1P1XZ2TMQLTkha6n) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 5:00 |
+| 451 | [Legal Boys \- Remastered 2003](https://open.spotify.com/track/0Ttvx1AbYYFRl7tIDwuPfR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:08 |
 | 452 | [Spiteful Child \- Remastered 2003](https://open.spotify.com/track/6JthALIr8UuPMqw8COEHOh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:15 |
 | 453 | [Queen Of Cities \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/72O82V1EopNTdV2X7kRsHb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 3:54 |
 | 454 | [Breaking Down Barriers \- Remastered 2003](https://open.spotify.com/track/0cao7zXiY3a5BTRzsO5R0Q) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 4:41 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 476 | [Planes](https://open.spotify.com/track/1Fm7IY67rMkXDi7UR4TjIO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 4:31 |
 | 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `Mjc5MDQ0MDIsMDAwMDAwMDBiMmFlMTMxODIzNDhjY2U0ODQzNWE5YzQ3Yzg0Y2RiMg==`
+Snapshot ID: `Mjc5MDU4NDIsMDAwMDAwMDA0YjY4M2U4MmEwMmQyN2QwMjE0ZTU0N2I1MGE2MWQwMA==`

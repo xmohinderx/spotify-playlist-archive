@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW?si=5WeMSXULTGyTnsELZudR7g"> Ajebutter22</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,271 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,311 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hear My Sound](https://open.spotify.com/track/71XAmXQ1HlKfzkMR52b4Hh) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Not3s.](https://open.spotify.com/artist/6uQK3GfXZP6v7vyixKeLBh) | [Soundtrack To The Good Life](https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY) | 2:56 |
+| 1 | [Hear My Sound](https://open.spotify.com/track/71XAmXQ1HlKfzkMR52b4Hh) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Soundtrack To The Good Life](https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY) | 2:56 |
 | 2 | [Get Down \(feat\. Azanti & Chrystel\)](https://open.spotify.com/track/6pvDq4tfrVMHpN1oYl6B6M) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [Get Down](https://open.spotify.com/album/2LjsqVupASnDrP4ShBBotE) | 2:43 |
 | 3 | [EDMP \(E Dey Move Person with Cruel Santino\)](https://open.spotify.com/track/2vf1v4p98qn3nS85BMPcgy) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [NATIVEWORLD](https://open.spotify.com/album/66qZw3xUgH56lpOlDvXyPO) | 1:27 |
 | 4 | [SLIDE](https://open.spotify.com/track/2weIRaWE3Wvi5Z21yw6CnW) | [DOZ](https://open.spotify.com/artist/6Fkfi6lZmhzNzeT19O9hiV), [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [SLIDE](https://open.spotify.com/album/49HHmNM7qGqk5svKQtm5aL) | 3:00 |

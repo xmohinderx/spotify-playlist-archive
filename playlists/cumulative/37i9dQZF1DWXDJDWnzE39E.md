@@ -4,7 +4,7 @@
 
 > A salute to all of the women that like it loud & heavy\. Cover: BABYMETAL
 
-247 songs - 16 hr 15 min
+248 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Mayhem](https://open.spotify.com/track/2LIuGi4rz0chV1yu5m0Exh) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Mayhem](https://open.spotify.com/album/5aa348jl2kEQVqxAgzcURH) | 2:40 | 2022-03-11 |  |
 | [Memoriam](https://open.spotify.com/track/0Le2T1wm78Ycrtj7vdrCwG) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Memoriam](https://open.spotify.com/album/61dUMU9JXCrHEHhXgu3yFC) | 6:15 | 2020-12-07\* | 2022-07-29 |
 | [Mere Shadow](https://open.spotify.com/track/76VG6yEGc6asJWoyYoMakJ) | [Semblant](https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO) | [Mere Shadow](https://open.spotify.com/album/5unM9KhVkZwr7oMlRsLo2P) | 5:03 | 2020-12-07\* | 2022-07-29 |
+| [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 | 2023-01-20 |  |
 | [Mine](https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Mine](https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG) | 4:19 | 2022-10-28 |  |
 | [molotov \[OK\]](https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:16 | 2022-03-11 |  |
 | [molotov \[OK\]](https://open.spotify.com/track/6m0vqKogDYkJwwwpvNjyJT) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [molotov \[OK\]](https://open.spotify.com/album/1zV1jnwaCLWeXw8JiuaPSQ) | 2:16 | 2022-03-11 | 2022-07-20 |
@@ -183,7 +184,7 @@
 | [Sacred Heart](https://open.spotify.com/track/2P4dNMfeMn2bzxg8Li2CPB) | [Sister Shotgun](https://open.spotify.com/artist/3pgaM7gbm0CFmtpGnXDlMe) | [Fragments](https://open.spotify.com/album/36iutCzxSJ78n1wTITP0vA) | 3:55 | 2020-12-07\* | 2021-04-10 |
 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 | 2021-08-24 |  |
 | [Sanctuary](https://open.spotify.com/track/121A7emtDzvnIiXZWlAP3S) | [Leah](https://open.spotify.com/artist/5JrVokmullzV1zq8M8iP69) | [Sanctuary](https://open.spotify.com/album/4YIWJJcTcA7dyjTNMu1hO2) | 4:44 | 2020-12-07\* | 2022-07-20 |
-| [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 | 2020-12-07\* |  |
+| [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 | 2020-12-07\* | 2023-01-22 |
 | [Secret Garden](https://open.spotify.com/track/2SKbTx3bPi2aPu5GRz59Dz) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Secret Garden](https://open.spotify.com/album/1tWbfY8SUwLBt8g5VuvatE) | 3:39 | 2021-05-29 | 2022-07-29 |
 | [Secret Garden](https://open.spotify.com/track/39sAePHCDbaZlpLow8lRp4) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:39 | 2022-03-11 |  |
 | [See You in Hell](https://open.spotify.com/track/48hnT1MKDCeRiufK6uCToc) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [See You in Hell](https://open.spotify.com/album/20QqdzCbXmdDXgtSerBEgD) | 3:49 | 2020-12-07\* | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Vintage soul gems from the archives.
 
-181 songs - 10 hr 5 min
+182 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,9 @@
 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/3FrbrJRS7holohrfzLVX1E) | [Chris Clark](https://open.spotify.com/artist/6dDUzy5UdYWJ9tbeZeuuJm) | [The Complete Motown Singles, Vol\. 6: 1966](https://open.spotify.com/album/3mQO3RmWVxI7U4y0HxUeh1) | 2:28 | 2022-05-11 | 2022-11-13 |
 | [Do I Love You \(Indeed I Do\) \- Alternate Mix](https://open.spotify.com/track/16alVF2EqOAlAW9vxx3PNf) | [Chris Clark](https://open.spotify.com/artist/6dDUzy5UdYWJ9tbeZeuuJm) | [A Cellarful Of Motown!](https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks) | 2:30 | 2022-05-11 |  |
 | [Do I Love You \(Indeed I Do\) \- Alternate Mix](https://open.spotify.com/track/7foUedbDl6HKO0V4D1WcRq) | [Chris Clark](https://open.spotify.com/artist/6dDUzy5UdYWJ9tbeZeuuJm) | [A Cellarful Of Motown](https://open.spotify.com/album/6HOyslEDqav46anMdGvPF2) | 2:30 | 2021-04-23 | 2022-07-29 |
-| [Do Right Man](https://open.spotify.com/track/3KY2qXOmrVbsRWZueVvpwK) | [Little Beaver & the Rocketeers](https://open.spotify.com/artist/50AdSiBu7Vrlbh5RelgYJm) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei) | 2:54 | 2022-05-11 |  |
+| [Do Right Man](https://open.spotify.com/track/3KY2qXOmrVbsRWZueVvpwK) | [Little Beaver & the Rocketeers](https://open.spotify.com/artist/50AdSiBu7Vrlbh5RelgYJm) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei) | 2:54 | 2022-05-11 | 2023-01-22 |
 | [Do Right Man](https://open.spotify.com/track/57ey598LjotK7zyN1ZthzA) | [Little Beaver & the Rocketeers](https://open.spotify.com/artist/50AdSiBu7Vrlbh5RelgYJm) | [Eccentric Soul: The Saadia Label](https://open.spotify.com/album/4wuivK7CmmM39477VRbkF4) | 2:54 | 2021-04-23 | 2022-07-29 |
+| [Do Right Man](https://open.spotify.com/track/7m4dpcQOvdwOLOezBms3Ar) | [Sam Baker](https://open.spotify.com/artist/42uyOyZCm8gj8y3Rxgbm0a) | [Florida Funk](https://open.spotify.com/album/4vvWtsOMbwns1dUZjTol3d) | 2:50 | 2022-05-11 |  |
 | [Don't Let It Go to Your Head \- 12" Version](https://open.spotify.com/track/4nRiCBgh4dvI1fqv3f7rpw) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Happy To Be With You](https://open.spotify.com/album/36gLFOM5E6PELPukiJ4I0d) | 4:51 | 2021-07-20 |  |
 | [Don't Let Love Get You Down](https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Where Will You Go When The Party's Over](https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ) | 4:19 | 2021-07-20 |  |
 | [Even Though You're Gone](https://open.spotify.com/track/3xpa77sO4lKGadIRCwXK5I) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Goin' Places](https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3) | 4:33 | 2021-07-20 |  |

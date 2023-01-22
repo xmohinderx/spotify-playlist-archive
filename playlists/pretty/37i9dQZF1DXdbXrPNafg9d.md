@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,258,142 likes - 175 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,258,297 likes - 175 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 67 | [Rakıya Su Katamam](https://open.spotify.com/track/53YrFJD6mDPGKq8e0SK5LC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Rakiya Su Katamam b/w Leylim Ley](https://open.spotify.com/album/2fr4NMJF6laNA85zchtlX2) | 3:40 |
 | 68 | [Aselestine](https://open.spotify.com/track/2M7TQ7SQVGxLhIV43yTN8I) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Aselestine](https://open.spotify.com/album/3YO4xzqS7a56VCkqxgsoy2) | 3:50 |
 | 69 | [Really Really Light](https://open.spotify.com/track/3mddquq4qcQ7hWhybpBVQn) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Really Really Light](https://open.spotify.com/album/3hO9WobttuOQ0HMx6z68cv) | 3:21 |
-| 70 | [Nothing In Particular](https://open.spotify.com/track/6IAN7qpuVuvnA9T0S7yM2u) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Nothing In Particular](https://open.spotify.com/album/5SP2mGvUdoMwgTit6Nd3wY) | 3:27 |
+| 70 | [Nothing In Particular](https://open.spotify.com/track/6IAN7qpuVuvnA9T0S7yM2u) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Nothing In Particular](https://open.spotify.com/album/5SP2mGvUdoMwgTit6Nd3wY) | 3:27 |
 | 71 | [Moment](https://open.spotify.com/track/3gX2v5AUWXsWloNP4w94LU) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:32 |
 | 72 | [Tell Me](https://open.spotify.com/track/4kjL7Ursg2FrAdibLmCdyD) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Tell Me](https://open.spotify.com/album/6jgUjBarubbVPkGANXchac) | 3:21 |
 | 73 | [J'aime les filles](https://open.spotify.com/track/6GiwLIxSRc3bEBaLj2RPjK) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [J'aime les filles](https://open.spotify.com/album/6dPvgLmDxBa52kR1MPJoQ0) | 3:16 |

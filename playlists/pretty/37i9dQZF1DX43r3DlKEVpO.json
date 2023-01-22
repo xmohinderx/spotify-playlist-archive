@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 61034,
+  "num_followers": 61051,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDE2MjQxOTg0MTc2YjQ4MzdiYjViYjY1OWFjOTUwYzg1",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDcyMWM3MTg3MjJlODE0ODQxZDA5NmY2NTk1NjNhN2U5",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1119,8 +1119,8 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Yellow Submarine Songtrack",
-        "url": "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE"
+        "name": "Abbey Road (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c"
       },
       "artists": [
         {
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 226666,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/5zqJlEJcn0EfnvAScH8swK"
+      "duration_ms": 185706,
+      "name": "Here Comes The Sun - 2019 Mix",
+      "url": "https://open.spotify.com/track/3CPFHaVEHkkH26hAEPgMMp"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+        "name": "Rio Revisited",
+        "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
       },
       "artists": [
         {
           "name": "Gal Costa",
           "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 260133,
-      "name": "Divino Maravilhoso",
-      "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
+      "duration_ms": 203226,
+      "name": "Samba Do Aviao - Live",
+      "url": "https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1347,22 +1351,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Rio Revisited",
-        "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
       "artists": [
         {
           "name": "Gal Costa",
           "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 203226,
-      "name": "Samba Do Aviao - Live",
-      "url": "https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF"
+      "duration_ms": 260133,
+      "name": "Divino Maravilhoso",
+      "url": "https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u"
     },
     {
       "added_at": "2021-08-18 22:14:03",

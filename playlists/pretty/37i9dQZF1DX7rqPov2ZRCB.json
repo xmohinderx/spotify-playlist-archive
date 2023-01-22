@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 58340,
+  "num_followers": 58403,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDM2MjI1NDk2ZDUwNjkyNTRmYTYyNmZiZGQwMmQ2ZjRk",
+  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDY1ODhlODgwYThmMTcwMThmOGQ0NmZhZDVhMjVhMzM4",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -251,22 +251,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "A Otro Nivel",
-        "url": "https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h"
-      },
-      "artists": [
-        {
-          "name": "Rikar2nes",
-          "url": "https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt"
-        }
-      ],
-      "duration_ms": 279474,
-      "name": "Ya No Creo en Ti",
-      "url": "https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Cuento Triste",
         "url": "https://open.spotify.com/album/7Kdz2QVeTDGuBXZ0hXLrpj"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 283067,
       "name": "La Foto",
       "url": "https://open.spotify.com/track/3lGNaVyWdIzOe2aFQymR5F"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "A Otro Nivel",
+        "url": "https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h"
+      },
+      "artists": [
+        {
+          "name": "Rikar2nes",
+          "url": "https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt"
+        }
+      ],
+      "duration_ms": 279474,
+      "name": "Ya No Creo en Ti",
+      "url": "https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl"
     },
     {
       "added_at": "2019-09-09 17:49:24",

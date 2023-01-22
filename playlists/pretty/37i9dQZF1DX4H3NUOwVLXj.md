@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H3NUOwVLXj.md) - [plain]
 
 > Favorites, hits and deep cuts: this is Francis Albert Sinatra, one of the most popular and influential musical artists of the 20th century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,065,824 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,066,126 likes - 54 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H3NUOwVLXj.md) - [plain]
 | 7 | [Strangers In The Night](https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) | 2:37 |
 | 8 | [Somethin' Stupid](https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO) | 2:42 |
 | 9 | [Come Fly With Me \- Remastered 1998](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Remastered\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 3:19 |
-| 10 | [Goodbye \(She Quietly Says\) \- 2022 Mix](https://open.spotify.com/track/2RZDNXFAMWrbdS62KTAggO) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Goodbye \(She Quietly Says\) / Watertown \[2022 Mix\]](https://open.spotify.com/album/3dU31hUC2CEI1yKSNaH0f1) | 3:12 |
+| 10 | [Goodbye \(She Quietly Says\) \- 2022 Mix](https://open.spotify.com/track/0oGkLDCHNcKnNffFkkfh13) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Watertown \(Deluxe Edition / 2022 Mix\)](https://open.spotify.com/album/1r6CYUhkI07HNT5ONg6AqL) | 3:12 |
 | 11 | [Witchcraft](https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:53 |
 | 12 | [Luck Be A Lady](https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Kind Of Broadway](https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh) | 5:14 |
 | 13 | [In The Wee Small Hours Of The Morning \- Remastered 1998](https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 3:00 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H3NUOwVLXj.md) - [plain]
 | 44 | [My Kind Of Town](https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra ’65](https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA) | 3:08 |
 | 45 | [The Best Is Yet To Come](https://open.spotify.com/track/3HXdy2r9RzawSwqQCwkjnP) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:53 |
 | 46 | [Angel Eyes \- Live At The Sands Hotel And Casino/1966](https://open.spotify.com/track/25lUUKmQZgYv9hHMO9ysr5) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra At The Sands](https://open.spotify.com/album/2m0W0n7zBYmRNs1QAgoa6Z) | 3:26 |
-| 47 | [Watertown \- 2022 Mix](https://open.spotify.com/track/0k4yvoJxWxJzQe6JpJZ07l) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Goodbye \(She Quietly Says\) / Watertown \[2022 Mix\]](https://open.spotify.com/album/3dU31hUC2CEI1yKSNaH0f1) | 3:36 |
+| 47 | [Watertown \- 2022 Mix](https://open.spotify.com/track/15AD0dVRa56knhKRVJrhtY) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Watertown \(Deluxe Edition / 2022 Mix\)](https://open.spotify.com/album/1r6CYUhkI07HNT5ONg6AqL) | 3:36 |
 | 48 | [Ring\-A\-Ding\-Ding](https://open.spotify.com/track/3mYKVGjd2OYEOdL3j8PZ5Q) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ring\-A\-Ding\-Ding! \(50th Anniversary Edition\)](https://open.spotify.com/album/1SQS7CS79nPTPosf9cgCb0) | 2:44 |
 | 49 | [All I Need Is The Girl](https://open.spotify.com/track/0y7Nk5lVh2Qpxp2nlON7Ml) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Francis A\. & Edward K.](https://open.spotify.com/album/5GFkm37IrMR9a4rc6JABkw) | 4:59 |
 | 50 | [Drinking Again](https://open.spotify.com/track/6aLmYwLuSOA9WowYrwgfcK) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The World We Knew](https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO) | 3:10 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H3NUOwVLXj.md) - [plain]
 | 53 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 |
 | 54 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 |
 
-Snapshot ID: `MTY3MjIxMjQ4MiwwMDAwMDAwMDJlZDE0OGQ0ZDkyZDRlOTA0MTIyMDNlMDk3MGE2N2Rk`
+Snapshot ID: `MTY3MjIxMjQ4MiwwMDAwMDAwMGVkM2Q2MTY3YTNjNTU0MTc2ZTcyMGVmMTkyNGJmZTI2`

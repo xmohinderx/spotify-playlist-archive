@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 31375,
+  "num_followers": 31469,
   "original_name": "Hardcore Rage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMDc4YmNiNGYwZWE4NWM3ZGYxZDk2MWZjNmFmZDNlMWE2",
+  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMGVhODEzYjU0NGYyYjcwNmI4ODI2ZGM1YjljOWY3NjBl",
   "tracks": [
     {
       "added_at": "2023-01-19 23:01:00",
@@ -68,8 +68,8 @@
           "url": "https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K"
         },
         {
-          "name": "Army Of Two",
-          "url": "https://open.spotify.com/artist/5SgfXYzH3I0bJseSLV0nIN"
+          "name": "Army of Two",
+          "url": "https://open.spotify.com/artist/4F4OTdgGVbo2Bw9wJ3nnmH"
         }
       ],
       "duration_ms": 237115,
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "M.D.E.",
-        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
-      },
-      "artists": [
-        {
-          "name": "The Straikerz",
-          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
-        }
-      ],
-      "duration_ms": 152253,
-      "name": "M.D.E.",
-      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "STRUGGLE TO SURVIVE",
         "url": "https://open.spotify.com/album/3xjbDfiuJmTrLOgwkrotM4"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 227022,
       "name": "STRUGGLE TO SURVIVE",
       "url": "https://open.spotify.com/track/5ppcwNlHYEMQOHYbo0y2Jf"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "M.D.E.",
+        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
+      },
+      "artists": [
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "duration_ms": 152253,
+      "name": "M.D.E.",
+      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 254075,
-      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
-      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Beat My Drum",
         "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 202124,
       "name": "Beat My Drum",
       "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+        "url": "https://open.spotify.com/album/0s4LZijzRcP42pi2QuqJaC"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 254075,
+      "name": "The Resurrection (Official Toxicator 2022 Anthem)",
+      "url": "https://open.spotify.com/track/1A86wZUo1CsjqycCQ8glen"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Battle Tonight",
-        "url": "https://open.spotify.com/album/2X4Jg0NyQ8TVXQybcX7pQJ"
-      },
-      "artists": [
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 248052,
-      "name": "Battle Tonight",
-      "url": "https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Kingdom (Sefa Remix)",
         "url": "https://open.spotify.com/album/3GbFuORrdFyrE0vw7ewNDv"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 302739,
       "name": "Kingdom - Sefa Remix",
       "url": "https://open.spotify.com/track/5u0bW6H3Yv8xkhgz4XaPK3"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Battle Tonight",
+        "url": "https://open.spotify.com/album/2X4Jg0NyQ8TVXQybcX7pQJ"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 248052,
+      "name": "Battle Tonight",
+      "url": "https://open.spotify.com/track/29Mp8a1JKqeSv5Oz52vXJv"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Demolition Hardcore",
-        "url": "https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8"
-      },
-      "artists": [
-        {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
-        },
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Demolition Hardcore",
-      "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "The Sound Flow",
         "url": "https://open.spotify.com/album/3iqIKphcsHVZa5B0Soy0cH"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 265945,
       "name": "The Sound Flow",
       "url": "https://open.spotify.com/track/2lH3W71iBNQGiQRLeHqPQF"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Demolition Hardcore",
+        "url": "https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8"
+      },
+      "artists": [
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Demolition Hardcore",
+      "url": "https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "JAMMER!",
-        "url": "https://open.spotify.com/album/3ZiBL68zxCdy77InVMSEmt"
-      },
-      "artists": [
-        {
-          "name": "Parkineos",
-          "url": "https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf"
-        }
-      ],
-      "duration_ms": 208238,
-      "name": "Jammer!",
-      "url": "https://open.spotify.com/track/6EGcJr9fS0fXAKxWgxJOUU"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Story of My Life",
         "url": "https://open.spotify.com/album/7x5NUFsIIJ3A2tzyoexj8c"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 245373,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/59X0xMrPXXexh70B8unJpc"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "JAMMER!",
+        "url": "https://open.spotify.com/album/3ZiBL68zxCdy77InVMSEmt"
+      },
+      "artists": [
+        {
+          "name": "Parkineos",
+          "url": "https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf"
+        }
+      ],
+      "duration_ms": 208238,
+      "name": "Jammer!",
+      "url": "https://open.spotify.com/track/6EGcJr9fS0fXAKxWgxJOUU"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/6V4xEfSA1XCEwQOQke5qPG"
+      },
+      "artists": [
+        {
+          "name": "Dither",
+          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
+        }
+      ],
+      "duration_ms": 177166,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/5Cx5e2e7BgWchPqHBHfTT1"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
         "name": "Locked Up",
         "url": "https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 233806,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Addiction",
-        "url": "https://open.spotify.com/album/6V4xEfSA1XCEwQOQke5qPG"
-      },
-      "artists": [
-        {
-          "name": "Dither",
-          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
-        }
-      ],
-      "duration_ms": 177166,
-      "name": "Addiction",
-      "url": "https://open.spotify.com/track/5Cx5e2e7BgWchPqHBHfTT1"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1867,30 +1867,22 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Halleluya - The F*cked Up Remixes",
-        "url": "https://open.spotify.com/album/6IkBZ3mhWBNlkI5V0m1mYC"
+        "name": "Syndicate Of Rave (Official Syndicate 2021 Anthem)",
+        "url": "https://open.spotify.com/album/40KpN0B8gZGe7YXRO1ZtPv"
       },
       "artists": [
         {
-          "name": "LSD",
-          "url": "https://open.spotify.com/artist/29UCoWXa1AR4xrtymc82l4"
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
         },
         {
-          "name": "D-Element",
-          "url": "https://open.spotify.com/artist/7G0VfvskohR6COYMHwPizU"
-        },
-        {
-          "name": "The Dark Horror",
-          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
-        },
-        {
-          "name": "Tears Of Fury",
-          "url": "https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX"
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
         }
       ],
-      "duration_ms": 188031,
-      "name": "Halleluya - The Dark Horror Remix",
-      "url": "https://open.spotify.com/track/2tj9NUX4h6TmVoR7N5b5Qp"
+      "duration_ms": 222317,
+      "name": "Syndicate Of Rave - Official Syndicate 2021 Anthem",
+      "url": "https://open.spotify.com/track/2O4jRluPaWopM90WioFwHK"
     }
   ],
   "unique_name": "Hardcore Rage",

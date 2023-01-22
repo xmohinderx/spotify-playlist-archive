@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Anthracite",
+        "url": "https://open.spotify.com/album/1XfQIpBAJPDqT2tWPfCIss"
+      },
+      "artists": [
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Anthracite",
+      "url": "https://open.spotify.com/track/5gPLFBWGzFwOa3uxioiaxk"
+    },
+    {
+      "album": {
         "name": "BACK2BACK",
         "url": "https://open.spotify.com/album/7sR7hCcYnipqImKWJICUTI"
       },

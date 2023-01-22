@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,338 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,362 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 96 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
 | 97 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 | 98 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |
-| 99 | [人生への古代のステップ](https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5) | [Takare Tadame](https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0) | [人生への古代のステップ](https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU) | 2:10 |
-| 100 | [Bye for now,](https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:50 |
+| 99 | [Bye for now,](https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:50 |
+| 100 | [人生への古代のステップ](https://open.spotify.com/track/6NEZlv8KhZ7D625Ry6g5s5) | [Takare Tadame](https://open.spotify.com/artist/5VG5uEB9NnUhEpzFFnSjV0) | [人生への古代のステップ](https://open.spotify.com/album/1e8KX6qBNn9P69POODHoiU) | 2:10 |
 
-Snapshot ID: `MTY3NDE0MDQwMCwwMDAwMDAwMGJlYjcwNzM2ZTBhZTQ5MjYzOTA4NzFkOGVkOWI4MjZl`
+Snapshot ID: `MTY3NDE0MDQwMCwwMDAwMDAwMDJhN2RhMmFhYzllMTY4Mzk5ZjIxN2IxZDUwNTQzYzJh`

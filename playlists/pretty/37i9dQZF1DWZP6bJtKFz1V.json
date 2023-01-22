@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: Bea Miller",
-  "num_followers": 84224,
+  "num_followers": 84259,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDQxZjYyZmE4MjA0Njg0NGYzMWJlOGFjMWIyZDk3MWRi",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGUzOWFjOGU5ZWM2ZmNmMTFlY2U2MGI3YWQ2N2I2Y2M5",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Did I Make You Up?",
-        "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 149773,
-      "name": "Did I Make You Up?",
-      "url": "https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Did I Make You Up?",
+        "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 149773,
+      "name": "Did I Make You Up?",
+      "url": "https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l"
       },
@@ -727,38 +727,6 @@
       "duration_ms": 192134,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "curious/furious",
-        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 184905,
-      "name": "curious/furious",
-      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Stereo Driver",
-        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Stereo Driver",
-      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -779,6 +747,38 @@
       "duration_ms": 241877,
       "name": "Good For Now (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "curious/furious",
+        "url": "https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 184905,
+      "name": "curious/furious",
+      "url": "https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "STEREO DRIVER",
+        "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "STEREO DRIVER",
+      "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Fuck Tha World",
+        "url": "https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 141538,
+      "name": "Fuck Tha World",
+      "url": "https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "girls just wanna have sex",
         "url": "https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Fuck Tha World",
-        "url": "https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 141538,
-      "name": "Fuck Tha World",
-      "url": "https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
         "url": "https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 135529,
       "name": "CR\u00c8ME BR\u00dbL\u00c9E!",
       "url": "https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Trouble With This Bed",
-        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 226884,
-      "name": "Trouble With This Bed",
-      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -923,6 +907,22 @@
       "duration_ms": 164466,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Trouble With This Bed",
+        "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 226884,
+      "name": "Trouble With This Bed",
+      "url": "https://open.spotify.com/track/5wLhOIYBr7i5k8MPaXJYjh"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "worm food",
-        "url": "https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "heart attack",
-      "url": "https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "OTT",
         "url": "https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 157817,
       "name": "OTT",
       "url": "https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "worm food",
+        "url": "https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "heart attack",
+      "url": "https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Fog Machine",
-        "url": "https://open.spotify.com/album/4G37xdusxvyZqLXUDpeUs7"
-      },
-      "artists": [
-        {
-          "name": "White Reaper",
-          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
-        }
-      ],
-      "duration_ms": 193549,
-      "name": "Fog Machine",
-      "url": "https://open.spotify.com/track/2oLMRpIzmWXJAI1oEuSqsc"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Your Internet Sucks",
         "url": "https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 169386,
       "name": "Your Internet Sucks",
       "url": "https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Fog Machine",
+        "url": "https://open.spotify.com/album/4G37xdusxvyZqLXUDpeUs7"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "duration_ms": 193549,
+      "name": "Fog Machine",
+      "url": "https://open.spotify.com/track/2oLMRpIzmWXJAI1oEuSqsc"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Further Joy (Deluxe)",
-        "url": "https://open.spotify.com/album/3c5DNRo3UUU3DBGd96BgoW"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Dummy",
-      "url": "https://open.spotify.com/track/2Bc4O6c1kI99Ug2Xnv4RAI"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Wonderful Life",
         "url": "https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Angry Woman",
-        "url": "https://open.spotify.com/album/3hHui1DLg3l29i1oUlJdyZ"
+        "name": "Further Joy (Deluxe)",
+        "url": "https://open.spotify.com/album/3c5DNRo3UUU3DBGd96BgoW"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
         }
       ],
-      "duration_ms": 153002,
-      "name": "Angry Woman",
-      "url": "https://open.spotify.com/track/02u8fWfWsiT2oML2jTICzs"
+      "duration_ms": 196466,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/2Bc4O6c1kI99Ug2Xnv4RAI"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 189946,
       "name": "down bad - fanclubwallet, preloved Remix",
       "url": "https://open.spotify.com/track/3XDT0FTfVGBK9Y48h09QJy"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Angry Woman",
+        "url": "https://open.spotify.com/album/3hHui1DLg3l29i1oUlJdyZ"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 153002,
+      "name": "Angry Woman",
+      "url": "https://open.spotify.com/track/02u8fWfWsiT2oML2jTICzs"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "i wish you loved me",
-        "url": "https://open.spotify.com/album/6MG2hzpDZauvVJRVqB9tYi"
-      },
-      "artists": [
-        {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
-        }
-      ],
-      "duration_ms": 200409,
-      "name": "i wish you loved me",
-      "url": "https://open.spotify.com/track/1azXAzGWeQvgzwlkwmOlo7"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Bumblebee",
         "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 200000,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "i wish you loved me",
+        "url": "https://open.spotify.com/album/6MG2hzpDZauvVJRVqB9tYi"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "duration_ms": 200409,
+      "name": "i wish you loved me",
+      "url": "https://open.spotify.com/track/1azXAzGWeQvgzwlkwmOlo7"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "Speeding 72",
+      "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "fmk (with blackbear)",
         "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
       },
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Household Name",
-        "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
+        "name": "Would Ya Could Ya",
+        "url": "https://open.spotify.com/album/2x7LOKpKzlPL9vvvnqONBG"
       },
       "artists": [
         {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
         }
       ],
-      "duration_ms": 238360,
-      "name": "Speeding 72",
-      "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
+      "duration_ms": 169000,
+      "name": "Would Ya Could Ya",
+      "url": "https://open.spotify.com/track/7Fh24Qm2fng2eJLveOw3AL"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1667,22 +1683,6 @@
       "duration_ms": 173202,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/53ATHsuT0gcejL7QvnDmWi"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Jealousy",
-        "url": "https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 192878,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3"
     }
   ],
   "unique_name": "Et Alt",

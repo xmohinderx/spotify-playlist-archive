@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres mexicanas a todo volumen\. Bratty en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,400 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,415 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 4 | [Constelaciones](https://open.spotify.com/track/1kBuKmsiJT96y4wpS1jsqj) | [Lezlie](https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg) | [Cueva de Secretos](https://open.spotify.com/album/2sGNUy7XVBfWWt12KSQw0i) | 3:07 |
 | 5 | [¿Y Cómo?](https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 3:32 |
 | 6 | [Bolsita de Té](https://open.spotify.com/track/0HBJDer8dheYaovDdpTU1X) | [Caro Valenzuela](https://open.spotify.com/artist/1FnofQUJuuKmigKaan0XT3) | [MILKSHAKE](https://open.spotify.com/album/0S6rN3MSTBxpnmYKPXsm0b) | 3:17 |
-| 7 | [Capuccino](https://open.spotify.com/track/4Q2KoZZ39QEtV1kzOD21W7) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Capuccino](https://open.spotify.com/album/73YaaHI0nNTzkD49Kjo3dI) | 3:46 |
+| 7 | [Capuccino](https://open.spotify.com/track/6nuLwhZNQt6k0HxYoM1nET) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Capuccino](https://open.spotify.com/album/2TQcTnuyLD0RyVqMItP2bj) | 3:49 |
 | 8 | [BOMBAY](https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:06 |
 | 9 | [Particular](https://open.spotify.com/track/4eylnUNVTEDfJBjaYZfOY0) | [Tutute](https://open.spotify.com/artist/2RfPdsNKTM3NFPjUiZvtmV) | [Particular](https://open.spotify.com/album/7Dj1liDpVKUw7ZI4a6mJFd) | 2:40 |
 | 10 | [nu love](https://open.spotify.com/track/0wNcVSZaQVTqSnx8i9FiZy) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 49 | [Venus](https://open.spotify.com/track/7Iu37tjFzMoCzFeVjjwSw4) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Orbitando](https://open.spotify.com/album/2WX8hAKuu55kXM3xxYAbPL) | 3:40 |
 | 50 | [Olvidarte](https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Y Te Lo Digo Yo](https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg) | 2:17 |
 
-Snapshot ID: `MTY3MzAyNTUxNSwwMDAwMDAwMDc2YmE3MTBjYTU5ODE4YjQxZjIyZjMxMTA3YzY0MDMx`
+Snapshot ID: `MTY3MzAyNTUxNSwwMDAwMDAwMGJmYjFjZTEzYTczMmY4NmRiMWI4YjY0M2VmMjUzMzg2`

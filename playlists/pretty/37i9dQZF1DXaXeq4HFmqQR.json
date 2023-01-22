@@ -1,12 +1,12 @@
 {
   "description": "Escucha a Nicole y a m\u00e1s mujeres a todo volumen. Dales PLAY, dales POWER.",
-  "num_followers": 10882,
+  "num_followers": 10886,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMDYwN2E4MTdiMTc0ZWU2MDg2NGQzOWJmNzZlNTc4OTQ0",
+  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMGE0NTFmOTFjMTRiMjc0NjczYzRjMDgzNjZlMGFmM2Jl",
   "tracks": [
     {
       "added_at": "2023-01-04 03:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "COPACABANA",
-        "url": "https://open.spotify.com/album/2aMzComZzJaqrmcEoHKoaZ"
-      },
-      "artists": [
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        }
-      ],
-      "duration_ms": 181013,
-      "name": "COPACABANA",
-      "url": "https://open.spotify.com/track/0hPHlk4amnX3CgVhoeEF9K"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "Amante",
         "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 231154,
       "name": "Amante",
       "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "COPACABANA",
+        "url": "https://open.spotify.com/album/2aMzComZzJaqrmcEoHKoaZ"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "COPACABANA",
+      "url": "https://open.spotify.com/track/0hPHlk4amnX3CgVhoeEF9K"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
+        "name": "La P\u00f3cima",
+        "url": "https://open.spotify.com/album/6jbhQEgpHEG63QkiTio1Oq"
+      },
+      "artists": [
+        {
+          "name": "Antonia Navarro",
+          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
+        }
+      ],
+      "duration_ms": 179247,
+      "name": "La P\u00f3cima",
+      "url": "https://open.spotify.com/track/3478RKENZliWK21KgkqCxs"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 181951,
       "name": "Flow Violento",
       "url": "https://open.spotify.com/track/4T3F91nQLaWL8yPahQHIGi"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "La P\u00f3cima",
-        "url": "https://open.spotify.com/album/6jbhQEgpHEG63QkiTio1Oq"
-      },
-      "artists": [
-        {
-          "name": "Antonia Navarro",
-          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
-        }
-      ],
-      "duration_ms": 179247,
-      "name": "La P\u00f3cima",
-      "url": "https://open.spotify.com/track/3478RKENZliWK21KgkqCxs"
     },
     {
       "added_at": "2023-01-04 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 336395,
+  "num_followers": 336455,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDk2YjZiMDRmOGJiZGI3NmQyYzI4NzQxMGFiOTBjMDk5",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMGQ2MGYzYWE3MTU1MzYwMjgyMjFmZTRhMzMwNWFjYmQz",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
+        "name": "Voodoo Babe",
+        "url": "https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 249002,
+      "name": "Voodoo Babe",
+      "url": "https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
         "name": "Voodoo? (Lazywax Remix)",
         "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 386443,
       "name": "Voodoo? - Lazywax Remix",
       "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "Voodoo Babe",
-        "url": "https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 249002,
-      "name": "Voodoo Babe",
-      "url": "https://open.spotify.com/track/2q4IaFpqebD6pMLvRrclvO"
     },
     {
       "added_at": "2022-03-11 16:22:05",

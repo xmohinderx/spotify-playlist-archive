@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ">INZO </a>.
 
-639 songs - 1 day 10 hr 42 min
+641 songs - 1 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [COLORBLIND](https://open.spotify.com/track/249wj5aUxf4mGwPnvE956x) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [1093](https://open.spotify.com/album/7tX0LuJuHqNFx9ucD9889K) | 3:28 | 2022-01-14 | 2022-09-15 |
 | [Colours](https://open.spotify.com/track/6Ueq9hIlEaFwNwKniVryEF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Colours](https://open.spotify.com/album/7Gfyxo6Lza5N9UbnW1CVn4) | 3:23 | 2022-01-14 | 2022-07-02 |
 | [Colours \- Sublab Remix](https://open.spotify.com/track/2PRt6lN51AU82RORtjC0pm) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Colours \(Sublab Remix\)](https://open.spotify.com/album/5pzwKqAhA94uPq9nHZ27tA) | 3:21 | 2022-04-08 | 2022-09-15 |
+| [CONFLICT](https://open.spotify.com/track/36i3VDSBSrn5m3VqIA5tgR) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [CONFLICT](https://open.spotify.com/album/2dtIwb6Qv3oeuzl04SjiW0) | 3:26 | 2023-01-21 |  |
 | [Conversations](https://open.spotify.com/track/2Nshfrn35tC9Brncf8W3G3) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Moria](https://open.spotify.com/album/2cWxHrXLktYn2jh0dptnut) | 3:06 | 2022-01-14 | 2022-09-15 |
 | [Crash](https://open.spotify.com/track/49csxWyhQc92RHjUO8iVGa) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crash](https://open.spotify.com/album/5gUU4HEV4bJrITXZNYgvTE) | 2:13 | 2022-06-03 |  |
 | [Crash & Burn](https://open.spotify.com/track/5bv92Php1ppJc4GL58KBbq) | [Too Martian](https://open.spotify.com/artist/23UmQoccnr8zWXAmVdO4Lq), [Fane](https://open.spotify.com/artist/4mVmOuiAaHkNp5A0a8bvBx) | [Crash & Burn](https://open.spotify.com/album/1REvPNymW3eMvdF6zpo8Ft) | 3:12 | 2022-02-14 | 2022-03-19 |
@@ -607,6 +608,7 @@
 | [Walk Me Home \- Effin Remix](https://open.spotify.com/track/7q6WPPeZP3lU8Xb9YPRFBV) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:51 | 2022-07-29 |  |
 | [Walk On Water \(with Danni Carra\)](https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Walk On Water \(with Danni Carra\)](https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1) | 3:02 | 2022-11-17 |  |
 | [Walked Through Fire](https://open.spotify.com/track/5GjxlgXBgCMbp0zHLFUaug) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [Isaac Warburton](https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk) | [Walked Through Fire](https://open.spotify.com/album/3K1a93RS9IWlIulb8Tkqhn) | 3:34 | 2022-08-26 | 2022-10-08 |
+| [Want It](https://open.spotify.com/track/3oImOUmlh3VnTc0saqOqVG) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Want It \(Remixes\)](https://open.spotify.com/album/4Vz1Xbx9XetfeKtBpqSRTC) | 3:36 | 2023-01-21 |  |
 | [Want To](https://open.spotify.com/track/4eRKLoekIhUlkwkszb928L) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [On The Coast!](https://open.spotify.com/album/2PjCRugBN4ew86DC17hT0g) | 4:25 | 2022-10-14 |  |
 | [Want to Know](https://open.spotify.com/track/4ZFhZGMxxt5nF3S8NtYkFN) | [Synchronice](https://open.spotify.com/artist/1pOmjpg4X03jcvS2R0FY53) | [Want to Know](https://open.spotify.com/album/1lBWKizQH5gBD4ZLTyVtE6) | 3:04 | 2022-01-14 | 2022-04-08 |
 | [War \(Juche Remix\)](https://open.spotify.com/track/49PORQleZkPwh2x1YnUqbq) | [Tee Dee Dees](https://open.spotify.com/artist/160nTkcydjOsxWWFJautCZ), [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [War \(Juche Remix\)](https://open.spotify.com/album/3oaXo0aMOWC1HozKgninhJ) | 3:04 | 2022-01-25 | 2022-02-26 |

@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-147 songs - 9 hr 9 min
+148 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 | 2022-05-25 |  |
 | [Keep on Lovin You \(feat\. Billy Branch\)](https://open.spotify.com/track/0bFC7aJVSuRY26OVco4hdJ) | [Lil' Red & the Rooster](https://open.spotify.com/artist/2pm8z0Ff2sSRehZetUntu6), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [Keep on Lovin You \(feat\. Billy Branch\)](https://open.spotify.com/album/0ZxrwdpdMoPhIrlYfsXMJu) | 5:15 | 2022-10-14 |  |
 | [Keep Sinking](https://open.spotify.com/track/5AV3XZkfvXHHPFLiQ7BIif) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 3:53 | 2022-05-25 |  |
+| [Lee’s Blues](https://open.spotify.com/track/5JgTwbPuqCCKV6wfTeNT2L) | [Oliver Darling](https://open.spotify.com/artist/5wU74VdLtnvreTbydFZg6f) | [Lee's Blues](https://open.spotify.com/album/1nGxSeKWJlbUgOERip9lIA) | 2:54 | 2023-01-20 |  |
 | [Lone Star Blues](https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Lone Star Blues](https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE) | 3:57 | 2022-05-25 | 2022-07-29 |
 | [Lone Star Blues](https://open.spotify.com/track/6RQBEr8vjgHlRIANySsjbm) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 3:57 | 2022-07-08 |  |
 | [Long Way Home](https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:38 | 2022-07-08 |  |
@@ -122,7 +123,7 @@
 | [Rollin' and Tumblin'](https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ) | [Buddy Guy & Junior Wells](https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t) | [Guitar Blues 101](https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr) | 4:33 | 2022-05-25 |  |
 | [Shake Sugaree](https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Shake Sugaree](https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W) | 3:29 | 2022-05-25 |  |
 | [Small Town Nashville Blues](https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei) | [Cristina Vane](https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD) | [Make Myself Me Again](https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre) | 2:49 | 2022-07-08 |  |
-| [Smoke In Heaven](https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ) | [Jhett Black](https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2) | [Roots](https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd) | 3:42 | 2022-05-25 |  |
+| [Smoke In Heaven](https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ) | [Jhett Black](https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2) | [Roots](https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd) | 3:42 | 2022-05-25 | 2023-01-22 |
 | [Somebody Was Watching](https://open.spotify.com/track/4SmbQt4iFY5GTJQXGxz5Is) | [Pops Staples](https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3) | [Don't Lose This](https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1) | 4:07 | 2022-05-25 |  |
 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 | 2022-05-25 |  |
 | [Stagolee](https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Vanguard Visionaries](https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8) | 5:35 | 2022-05-25 |  |

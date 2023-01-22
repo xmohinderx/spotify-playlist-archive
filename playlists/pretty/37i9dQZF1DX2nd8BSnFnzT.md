@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Pitty, Nando Reis
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,204 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,221 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 5 | [Por que a gente é assim?](https://open.spotify.com/track/6r5MJTD9mUworfbzTS1Riz) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj), [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Barão 40 \(Clássicos\)](https://open.spotify.com/album/1Q1yWO18Uc16tYa9jNd3la) | 3:41 |
 | 6 | [Conflitos](https://open.spotify.com/track/0W1i5vb0qmCgUwd3RPH6VX) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [Conflitos](https://open.spotify.com/album/3swynHE8l786dCRToj5OwS) | 3:09 |
 | 7 | [A Mesma Coisa](https://open.spotify.com/track/6Fg4d58rbY4br0kACB2yWY) | [Fuze](https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq) | [A Mesma Coisa](https://open.spotify.com/album/6RaKLp5NgcVnqAyGr58iAW) | 3:03 |
-| 8 | [A Solução](https://open.spotify.com/track/78EuaQdCpwNwSvxqmQ3NnH) | [ocaradometal](https://open.spotify.com/artist/0t6psNf8w3CrGV64hyLjtK) | [A Solução](https://open.spotify.com/album/54C2e0EDNrsO6hAnUfVM45) | 6:00 |
+| 8 | [A Solução](https://open.spotify.com/track/78EuaQdCpwNwSvxqmQ3NnH) | [ocaradometal](https://open.spotify.com/artist/0t6psNf8w3CrGV64hyLjtK), [HeavyFuture](https://open.spotify.com/artist/4G217StpHjdclmtzE4Jxzw) | [A Solução](https://open.spotify.com/album/54C2e0EDNrsO6hAnUfVM45) | 6:00 |
 | 9 | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/track/3Pa5IoNR5UdlVAV9jXP1kM) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz) | [Tudo O Que Eu Sempre Quis](https://open.spotify.com/album/4lBsuqZrMDmgTgZwQaqLMd) | 3:14 |
 | 10 | [O Ano da Volta](https://open.spotify.com/track/4UsusnNmpxB6ZIkH41bx0L) | [Sound Bullet](https://open.spotify.com/artist/1kuKxQ9KYJkBXeA5uMxjiz) | [O Ano da Volta](https://open.spotify.com/album/1EtII3g0la4SW2fxXlC9De) | 4:43 |
 | 11 | [Musica Urbana](https://open.spotify.com/track/3IBGVjbsGYQxkpY9oNNpyG) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Capital Inicial 4.0 \(Deluxe\)](https://open.spotify.com/album/2Hd7jdiY7jTatb7DGiQZuv) | 6:10 |

@@ -1,15 +1,15 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4124244,
+  "num_followers": 4125483,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQzNzI2NSwwMDAwMDAwMGExYmZhMDI1M2Q3YTE5NzQ5NWQyYjYzNzNjYzE0MTgz",
+  "snapshot_id": "MTY2ODQzNzI2NSwwMDAwMDAwMDE5MTliNjBmMTgzYWNhY2JlMTExY2VhOTYzMDQwY2Fk",
   "tracks": [
     {
-      "added_at": "2023-01-21 01:01:14",
+      "added_at": "2023-01-22 01:06:56",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
     },
     {
-      "added_at": "2023-01-21 01:01:14",
+      "added_at": "2023-01-22 01:06:56",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
     },
     {
-      "added_at": "2023-01-21 01:01:14",
+      "added_at": "2023-01-22 01:06:56",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-11-14 14:46:57",
       "album": {
-        "name": "Still Sleep?",
-        "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        }
-      ],
-      "duration_ms": 123986,
-      "name": "2055",
-      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
-    },
-    {
-      "added_at": "2022-11-14 14:46:57",
-      "album": {
         "name": "TESTING",
         "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 205040,
       "name": "Praise The Lord (Da Shine) (feat. Skepta)",
       "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
+    },
+    {
+      "added_at": "2022-11-14 14:46:57",
+      "album": {
+        "name": "Still Sleep?",
+        "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "duration_ms": 123986,
+      "name": "2055",
+      "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
     },
     {
       "added_at": "2022-11-14 14:46:57",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 29802,
+  "num_followers": 29836,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMDhmMzYxOWI1MDBkZGJmNzdhMzI5MTE1NjkzNTQwNDFj",
+  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMGIzMGJhZDJlZDkwZmRiMDA1OTlhOTIwYWEwNjAxMGVh",
   "tracks": [
     {
       "added_at": "2020-06-16 21:18:22",
@@ -527,26 +527,6 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "Az\u00facar! Caliente",
-        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Yerbero Moderno",
-      "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
         "name": "La Perfecta Combinaci\u00f3n",
         "url": "https://open.spotify.com/album/4iaNq48hB9AJQiZ0x3phc0"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 246720,
       "name": "La Esencia Del Guaguanc\u00f3",
       "url": "https://open.spotify.com/track/5NTB60qZtpRwFtDlNANKCt"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "Az\u00facar! Caliente",
+        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Yerbero Moderno",
+      "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
     },
     {
       "added_at": "2020-06-16 21:18:22",

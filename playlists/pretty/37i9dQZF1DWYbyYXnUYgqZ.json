@@ -1,12 +1,12 @@
 {
   "description": "Enjoy fantastic gameplay with k-pop music!",
-  "num_followers": 17011,
+  "num_followers": 17315,
   "original_name": "K-Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MjY5NiwwMDAwMDAwMDRlNjNmYjYxOTc3MzczZWMzY2Y0MTk0NjZlZWJmODI2",
+  "snapshot_id": "MTY3MzU4MjY5NiwwMDAwMDAwMGYyY2JmOWFiYmNkM2M3NzViZjQyMWUzZDRhMDA5ZTg0",
   "tracks": [
     {
       "added_at": "2022-12-21 09:14:18",
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
-      "added_at": "2023-01-21 01:10:05",
+      "added_at": "2023-01-22 00:46:47",
       "album": {
         "name": "NewJeans 'OMG'",
         "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
     },
     {
-      "added_at": "2023-01-21 01:10:05",
+      "added_at": "2023-01-22 00:46:47",
       "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc"
@@ -779,26 +779,18 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "BTBT",
-        "url": "https://open.spotify.com/album/6z2Ij8op0iB16BnmrCy0vH"
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
       "artists": [
         {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        },
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 219549,
-      "name": "BTBT",
-      "url": "https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V"
+      "duration_ms": 199026,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -851,22 +843,6 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
-      },
-      "artists": [
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
-    },
-    {
-      "added_at": "2022-12-21 09:14:18",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -883,18 +859,26 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "FOREVER 1 - The 7th Album",
-        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+        "name": "BTBT",
+        "url": "https://open.spotify.com/album/6z2Ij8op0iB16BnmrCy0vH"
       },
       "artists": [
         {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
         }
       ],
-      "duration_ms": 202533,
-      "name": "FOREVER 1",
-      "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
+      "duration_ms": 219549,
+      "name": "BTBT",
+      "url": "https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -911,6 +895,22 @@
       "duration_ms": 228613,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
+    },
+    {
+      "added_at": "2022-12-21 09:14:18",
+      "album": {
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "FOREVER 1",
+      "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "THE 3rd MINI ALBUM NATURE WORLD : CODE W",
-        "url": "https://open.spotify.com/album/60LRJDOb3EM7svCFxA07mt"
-      },
-      "artists": [
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi"
-        }
-      ],
-      "duration_ms": 196333,
-      "name": "LIMBO!",
-      "url": "https://open.spotify.com/track/0I9SiHgJ8DTwAIoJPLn81c"
-    },
-    {
-      "added_at": "2022-12-21 09:14:18",
-      "album": {
         "name": "\u56de:Walpurgis Night",
         "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 199133,
       "name": "MAGO",
       "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
+    },
+    {
+      "added_at": "2022-12-21 09:14:18",
+      "album": {
+        "name": "THE 3rd MINI ALBUM NATURE WORLD : CODE W",
+        "url": "https://open.spotify.com/album/60LRJDOb3EM7svCFxA07mt"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "LIMBO!",
+      "url": "https://open.spotify.com/track/0I9SiHgJ8DTwAIoJPLn81c"
     },
     {
       "added_at": "2022-12-21 09:14:18",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-12-21 09:14:18",
       "album": {
-        "name": "DOUBLAST",
-        "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
-      },
-      "artists": [
-        {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Up!",
-      "url": "https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1"
-    },
-    {
-      "added_at": "2022-12-21 09:14:18",
-      "album": {
         "name": "SUNMI SPECIAL EDITION [Gashina]",
         "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 180000,
       "name": "Gashina",
       "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
+    },
+    {
+      "added_at": "2022-12-21 09:14:18",
+      "album": {
+        "name": "DOUBLAST",
+        "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Up!",
+      "url": "https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1"
     },
     {
       "added_at": "2022-12-21 09:14:18",

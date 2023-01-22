@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Mecánico
 
-301 songs - 18 hr 23 min
+302 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Quisiera Estar en Tu Lugar](https://open.spotify.com/track/3uHnLozqOnPoYumF7Qhp3K) | [Quinal](https://open.spotify.com/artist/5dxqPUdOChFnQ4VbZjGymp) | [Quisiera Estar en Tu Lugar](https://open.spotify.com/album/0FsIho6nfb5OGDBaaUZ1OM) | 3:39 | 2022-04-15 | 2022-07-29 |
 | [Quitapena](https://open.spotify.com/track/0jEt1GNSNyxrx86DrLdlF7) | [Gael](https://open.spotify.com/artist/7rms6jz7l3NGmiR0T5lRve) | [Quitapena](https://open.spotify.com/album/4DuTv5kQOIfV2aAKsn2LTF) | 3:03 | 2022-04-15 | 2022-07-28 |
 | [Reclame](https://open.spotify.com/track/28otbmrZCYNiRcoKnzesac) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Reclame](https://open.spotify.com/album/36Yzr88w2cyYr4dVP0DQNN) | 3:27 | 2022-04-15 | 2022-07-28 |
+| [Remember](https://open.spotify.com/track/17WypwnCUAFWDFIkyoBlmu) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Remember](https://open.spotify.com/album/1qihx2rcmCRKx5EsL8gvX3) | 3:27 | 2023-01-20 |  |
 | [Retazos de Diciembre](https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Retazos de Diciembre](https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5) | 3:00 | 2022-08-19 |  |
 | [Robot \(de Juguete\)](https://open.spotify.com/track/5ldcu2e1u50xIwUXgEYGLk) | [Jurel Sónico & Los Impuros](https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN) | [Flores Plásticas](https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4) | 2:00 | 2022-07-01 |  |
 | [Rosas](https://open.spotify.com/track/7wZFCm0qLOAWN1AHVdxzKP) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Rosas](https://open.spotify.com/album/6QPTZhDk3GZnAR0Xwmrff2) | 4:37 | 2022-04-15 | 2022-09-03 |
@@ -262,7 +263,7 @@
 | [Tapado en las sábanas](https://open.spotify.com/track/7GVcCKFyaKW21mlEfUPDtG) | [Matías Ávila](https://open.spotify.com/artist/29yxbIzxVyIPcCENpwzSQ5), [Nicolás Carmesí](https://open.spotify.com/artist/3UENNyaKZ4S5pK62GGEfF5) | [Tapado En Las Sábanas](https://open.spotify.com/album/07VEna7M5ugzXRl0h6KSeN) | 4:06 | 2022-04-15 | 2022-07-28 |
 | [Te lo pido por favor](https://open.spotify.com/track/6g3VvDH5AX42fx2KfcCsmb) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Herida](https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq) | 3:50 | 2022-04-15 |  |
 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 | 2022-04-15 | 2022-12-10 |
-| [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 | 2022-04-15 |  |
+| [Te Vas](https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [Te Vas](https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna) | 4:11 | 2022-04-15 | 2023-01-22 |
 | [Te Vi](https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo) | [Agata Prisma](https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2) | [Te Vi](https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm) | 3:27 | 2022-04-15 |  |
 | [Temores](https://open.spotify.com/track/2qYgmcH5WIBX2RMcGIrVNb) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Temores](https://open.spotify.com/album/4G9dNp2lUbU0jiAmDdVN3e) | 4:14 | 2022-04-15 | 2022-07-22 |
 | [Tenemos que cocinar](https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Casinaranja](https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK) | 3:39 | 2022-11-11 |  |

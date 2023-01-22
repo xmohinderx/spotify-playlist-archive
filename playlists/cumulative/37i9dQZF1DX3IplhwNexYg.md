@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: boygenius
 
-353 songs - 19 hr 55 min
+356 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [GIRLFRIEND SONG](https://open.spotify.com/track/2QVs38RF95zCnylGTeYsAk) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [GIRLFRIEND SONG](https://open.spotify.com/album/0bXvu05qQvg89TY89kYDVH) | 3:44 | 2022-08-18 | 2022-10-16 |
 | [GIRLFRIEND SONG](https://open.spotify.com/track/3Ozd3VhAsIMrPFP13nmtAl) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [SOMEWHERE IN NOWHERELAND](https://open.spotify.com/album/25KP5rdvSlUzdZixsNBVva) | 3:44 | 2022-10-13 | 2023-01-20 |
 | [Given Up](https://open.spotify.com/track/6U6SE6TIi5dkBtbeTpttuE) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Given Up](https://open.spotify.com/album/4rgx764wUVuOBIydzikMEe) | 3:15 | 2021-03-09 | 2022-01-17 |
-| [Glow In The Dark](https://open.spotify.com/track/6PCJsEOd9rq2mTs6cOuhj2) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Glow In The Dark](https://open.spotify.com/album/7ARlhnl5Swf292DJ4IwEV5) | 3:56 | 2023-01-13 |  |
+| [Glow In The Dark](https://open.spotify.com/track/6PCJsEOd9rq2mTs6cOuhj2) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Glow In The Dark](https://open.spotify.com/album/7ARlhnl5Swf292DJ4IwEV5) | 3:56 | 2023-01-13 | 2023-01-22 |
 | [Goodtime Girl](https://open.spotify.com/track/6UJjG07pInpl76t5sfbuoZ) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Goodtime Girl](https://open.spotify.com/album/6Ibu14uF72Paww9euwpsT3) | 4:10 | 2021-06-21 | 2022-08-19 |
 | [Gr8 Timing!](https://open.spotify.com/track/0R5RnMzKGJLLwlS8FAnDp3) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Gr8 Timing!](https://open.spotify.com/album/3WVOknczJMFhzYahdBbbAd) | 2:37 | 2022-08-18 | 2022-10-13 |
 | [Gr8 Timing!](https://open.spotify.com/track/2jGNWnhAg5G7GbjJB6jQ3I) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/3KKsv36GD6Nsmr2KrgQEA0) | 2:37 | 2022-10-06 | 2023-01-16 |
@@ -165,7 +165,7 @@
 | [how would you know](https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [how would you know](https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr) | 2:57 | 2022-11-25 |  |
 | [Hurt You](https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Hurt You](https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t) | 3:55 | 2022-10-06 |  |
 | [I Feel So Cold But It's Warm Outside](https://open.spotify.com/track/7jAQxWVBVAuKmVjlERODpc) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [World Below](https://open.spotify.com/album/0rxXVzueM7PnAjecoPYg2i) | 2:54 | 2022-08-18 | 2023-01-13 |
-| [I Know You Care](https://open.spotify.com/track/4ziLKM9jCpEwoJLX7BYwJ1) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [I Know You Care](https://open.spotify.com/album/6NgYnPGDqniGXCXTnAbJ3t) | 3:08 | 2022-11-25 |  |
+| [I Know You Care](https://open.spotify.com/track/4ziLKM9jCpEwoJLX7BYwJ1) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [I Know You Care](https://open.spotify.com/album/6NgYnPGDqniGXCXTnAbJ3t) | 3:08 | 2022-11-25 | 2023-01-22 |
 | [I Love You](https://open.spotify.com/track/2rDaHAwvDFpSR6hta7re5l) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [I Love You](https://open.spotify.com/album/1ysn1KuQSSRBK96J17wGyD) | 5:05 | 2022-02-18 | 2022-07-29 |
 | [I Love You](https://open.spotify.com/track/4mKn6gwhP3HYuo11aNqI2y) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 5:05 | 2022-04-01 | 2022-08-19 |
 | [I Shimmer](https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [I Shimmer](https://open.spotify.com/album/6RglJDuv1mPMAe0honLo8A) | 4:25 | 2022-10-06 |  |
@@ -182,7 +182,7 @@
 | [ILY2](https://open.spotify.com/track/7tgteKiRkLq30c9qG4mWQr) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [ILY2](https://open.spotify.com/album/5Z465xB0bAwR9qyhWEtE7k) | 3:45 | 2022-10-06 |  |
 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 | 2022-09-29 |  |
 | [Iron Lung](https://open.spotify.com/track/2XpOjMiHSOCfEPfvtZoqW9) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Wrong Girl, Honey](https://open.spotify.com/album/5TZUx1zHRakzdtq7kPY7oJ) | 3:01 | 2021-03-09 | 2022-01-17 |
-| [It Was Nothing](https://open.spotify.com/track/00ZdIwUmuiJSWmgrsy5u1S) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [It Was Nothing](https://open.spotify.com/album/4uWLMdBNWqt1kZU1nkZtv5) | 3:29 | 2022-08-18 |  |
+| [It Was Nothing](https://open.spotify.com/track/00ZdIwUmuiJSWmgrsy5u1S) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [It Was Nothing](https://open.spotify.com/album/4uWLMdBNWqt1kZU1nkZtv5) | 3:29 | 2022-08-18 | 2023-01-22 |
 | [It's My Birthday](https://open.spotify.com/track/6tw9U0hTxMl6q7IMRkyeMJ) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [It's My Birthday](https://open.spotify.com/album/1V3nahHw2dEpUrHv6Ce9cI) | 2:50 | 2022-11-25 | 2023-01-15 |
 | [It's Permanent](https://open.spotify.com/track/5ytqjKYVYjVcA03MTBArnY) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [It's Permanent](https://open.spotify.com/album/5aCdRpmrMXr901O3WGFnKM) | 3:32 | 2021-10-29 | 2022-07-29 |
 | [It's Permanent](https://open.spotify.com/track/7xb85Q1Wy969N6nkcJRWqX) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [It's Permanent](https://open.spotify.com/album/1SUPtafQuEviIXihO8mQmt) | 3:32 | 2022-04-01 | 2022-08-19 |
@@ -222,6 +222,7 @@
 | [midnight sun](https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 4:42 | 2022-04-01 | 2022-08-19 |
 | [Mood Hoover](https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Mood Hoover](https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1) | 3:14 | 2022-09-01 | 2022-10-07 |
 | [Ms\. California](https://open.spotify.com/track/0WxZEci23tWn1YzikUljEt) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Ms\. California](https://open.spotify.com/album/69vZJh3B8Dvjl7yUU0Eb5v) | 2:52 | 2021-03-09 | 2022-01-17 |
+| [My Very Best](https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [My Very Best](https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6) | 3:17 | 2023-01-20 |  |
 | [Narration of a Lost Millennial](https://open.spotify.com/track/7iQfH9grc0jwbbPOuUZSSw) | [Rad Horror](https://open.spotify.com/artist/3AqJEHlSivoMSqsVYQ595n) | [Anti Teenage Sensation \(The Part Where Julia Dies\)](https://open.spotify.com/album/1jZfZrwSmI6TnXrxY5lnk2) | 3:05 | 2021-03-09 | 2022-01-17 |
 | [Neighbours](https://open.spotify.com/track/6PpGAVANQ6CZ5OSIwA3oBj) | [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [Neighbours](https://open.spotify.com/album/3udbFrx4tlFGwZEh4CK3HX) | 2:51 | 2023-01-13 |  |
 | [Nervous](https://open.spotify.com/track/3JaI7w5XQuJni4fX03MZIb) | [HUSHPUPPY](https://open.spotify.com/artist/40OzWU8bIYirFgmNSy6qct) | [Nervous](https://open.spotify.com/album/3qLRGWTOndzbYgUDi2kd85) | 1:30 | 2022-03-10 | 2022-09-02 |
@@ -341,6 +342,7 @@
 | [Veronica](https://open.spotify.com/track/7uAlf2KtylpPbXCqaB38EJ) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Veronica](https://open.spotify.com/album/2n1i0zYQTMmmj8b8nJpVPA) | 2:15 | 2023-01-13 |  |
 | [Wake Up](https://open.spotify.com/track/50EaTSirqX6hZS1W2Ja75H) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [World I Understand](https://open.spotify.com/album/3M7gwBCWbgPuHdLPazTJd9) | 3:22 | 2022-01-21 | 2022-08-19 |
 | [Want What You Got](https://open.spotify.com/track/7wBWg3hTj2MUFe02GhMBkA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [The Professional](https://open.spotify.com/album/4pQU5z5Y0CT1aR0AW6QDDL) | 4:28 | 2021-03-09 | 2022-01-17 |
+| [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 | 2023-01-20 |  |
 | [Watching Strangers Smile](https://open.spotify.com/track/2fZ2u0nLos8nBjS4n3IDKl) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Watching Strangers Smile](https://open.spotify.com/album/2FbdRiyp61bzj01wQmtiDA) | 3:34 | 2022-01-24 | 2022-08-19 |
 | [Wayfinding](https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wayfinding](https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl) | 3:09 | 2022-09-22 |  |
 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 | 2022-08-18 |  |
@@ -352,6 +354,7 @@
 | [who cares](https://open.spotify.com/track/7hoqbmmpY9eO5qKBnHSZZE) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [who cares](https://open.spotify.com/album/3D14NekjVfBIsn7tRNshAv) | 3:04 | 2022-01-24 | 2022-08-19 |
 | [Why](https://open.spotify.com/track/1F4uLKgpFcHSNGYdoG3946) | [Krush Puppies](https://open.spotify.com/artist/55chtDaw410l2H31kc8PHF) | [Why](https://open.spotify.com/album/238DqpkeDaIYGATfOeVo1D) | 3:33 | 2022-04-01 | 2022-08-19 |
 | [Wide Eyes](https://open.spotify.com/track/0cguXUW2GmwBkM89xidIEI) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Wide Eyes](https://open.spotify.com/album/2gB44jsv1d6nmYRTRVzBuS) | 3:30 | 2022-08-18 | 2022-09-09 |
+| [Wiggy](https://open.spotify.com/track/6rydH51WZy57dxUBdHyUU1) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Wiggy](https://open.spotify.com/album/7I2nm8uXW9PjIW4EICNb22) | 3:35 | 2023-01-20 |  |
 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-04-01 | 2022-09-23 |
 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-10 | 2022-08-18 |
 | [Win](https://open.spotify.com/track/0Z2d1Wv9VaHFxNxdgdKeBE) | [Nasty Cherry](https://open.spotify.com/artist/3a4OHGZwsqHc3eRChiDkS9) | [Win](https://open.spotify.com/album/3riT2ROhv1aQ7zZYut5cmQ) | 2:44 | 2021-03-09 | 2022-01-17 |

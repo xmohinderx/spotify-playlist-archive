@@ -1,15 +1,15 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 14211,
+  "num_followers": 14241,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTcyNTA2NiwwMDAwMDAwMDJlMWZlNGQxOGQ4MTg3ODI1ZGVhNTM2NWVlMmU1YjNm",
+  "snapshot_id": "MTY2OTcyNTA2NiwwMDAwMDAwMDJlZmY5OWY4Y2Q1MGZlYjIwODc2MDk2YjZmZWZkZmJi",
   "tracks": [
     {
-      "added_at": "2023-01-21 01:22:51",
+      "added_at": "2023-01-22 01:06:30",
       "album": {
         "name": "Psychedelic Jungle",
         "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 270986,
-      "name": "My Body's a Zombie For You",
-      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 270986,
+      "name": "My Body's a Zombie For You",
+      "url": "https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW"
     },
     {
       "added_at": "2022-11-02 21:44:11",

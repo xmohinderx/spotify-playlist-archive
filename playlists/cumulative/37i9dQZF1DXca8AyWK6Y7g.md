@@ -4,7 +4,7 @@
 
 > I think my life might be better if I lived in Colorado? Cover: Reneé Rapp
 
-1,475 songs - 3 day 3 hr 23 min
+1,476 songs - 3 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Aftermath of You](https://open.spotify.com/track/3Wj01X92SlOLgahw1OvC5c) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [Aftermath of You](https://open.spotify.com/album/2y6nghXRk9cnDstVXqobZf) | 2:38 | 2022-02-25 | 2022-03-26 |
 | [AFU](https://open.spotify.com/track/47vYzNOJlCGynCNvfsOG7R) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [The Identity Crisis: Side A](https://open.spotify.com/album/5JfMAZvLNeAx7DY2t5yvtS) | 3:07 | 2019-12-20 | 2020-03-19 |
 | [Again & Again](https://open.spotify.com/track/6WpmLYjucvN7nijrRJiiWZ) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Again & Again](https://open.spotify.com/album/5ctwJQS6cTwdb7y5QPWoQU) | 2:49 | 2021-10-29 | 2022-03-26 |
+| [AHORA QUÉ](https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:51 | 2023-01-20 |  |
 | [Airplanes \(feat\. Letdown.\)](https://open.spotify.com/track/2SkyMtc6If7sC7dd5HEjOy) | [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5), [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Airplanes \(feat\. Letdown.\)](https://open.spotify.com/album/0JVzrxVtxte65oUlGtCtst) | 3:14 | 2022-02-25 | 2022-03-26 |
 | [Airport](https://open.spotify.com/track/3tHScpIYBH11aMCbizU2E4) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Airport](https://open.spotify.com/album/10TsupQlJqTcOSAh4xdNIw) | 2:35 | 2020-05-04 | 2021-11-10 |
 | [Al Lau](https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Al Lau](https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st) | 2:44 | 2021-10-14 | 2021-10-16 |
@@ -489,7 +490,7 @@
 | [Give a Little](https://open.spotify.com/track/4Olmtbo092fUn6jxcJnirS) | [Joseph Tilley](https://open.spotify.com/artist/12knc5DPOIJKd0qEeYaDVm) | [Give a Little](https://open.spotify.com/album/23LpH8EZfbM6xt7jsZvr73) | 2:04 | 2021-11-19 | 2022-01-15 |
 | [Give A Little](https://open.spotify.com/track/4za2QYGfHlYml23pChrpXO) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Give A Little](https://open.spotify.com/album/6ZjnIplQKKNGlbGX589VG6) | 3:45 | 2019-06-15 | 2020-02-20 |
 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 | 2021-01-25 | 2022-07-02 |
-| [Glitter](https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Glitter](https://open.spotify.com/album/7lgPMiz220ZdI9hachYEvG) | 3:01 | 2021-12-03 |  |
+| [Glitter](https://open.spotify.com/track/6afganegJBNs44tGwIOgYQ) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Glitter](https://open.spotify.com/album/7lgPMiz220ZdI9hachYEvG) | 3:01 | 2021-12-03 | 2023-01-22 |
 | [glitter](https://open.spotify.com/track/5Oc9SrrW1BICBePI1MF4OB) | [Zac Greer](https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz) | [glitter](https://open.spotify.com/album/6JAFdHAdf99vu5WGOsPjJM) | 2:45 | 2019-07-27 | 2021-04-09 |
 | [Go The Distance](https://open.spotify.com/track/4HFi9NP66qdNOsgPGLqrm7) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance](https://open.spotify.com/album/4n0O2srPjbdjU4i1EEqkcu) | 2:47 | 2022-04-08 | 2022-11-07 |
 | [Go The Distance](https://open.spotify.com/track/5vFn0vKhnaDLk1gmj7ZA0i) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance \(Extended\)](https://open.spotify.com/album/2zxKTNd1Zj6y7E8JoyS7Le) | 2:47 | 2022-10-28 | 2022-11-12 |

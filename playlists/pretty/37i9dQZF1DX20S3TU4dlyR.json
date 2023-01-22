@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Los Pericos.",
-  "num_followers": 50117,
+  "num_followers": 50134,
   "original_name": "Reggae Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDYzMTZiZDY2ZmJhMGQyYWZjMGUwYWI0M2U3OTQ1Mzc4",
+  "snapshot_id": "MTY3MTc2NDQwMCwwMDAwMDAwMDE5OTFiOTZlNTRjZTFmMjhjOGQ0NmM1OTYzZjEzMjA3",
   "tracks": [
     {
       "added_at": "2022-12-23 03:00:00",
@@ -415,6 +415,34 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
+        "name": "The King Is Back",
+        "url": "https://open.spotify.com/album/5NfRSBalg4W9v2E01yHRzF"
+      },
+      "artists": [
+        {
+          "name": "Bubaseta",
+          "url": "https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik"
+        },
+        {
+          "name": "Subwoffer",
+          "url": "https://open.spotify.com/artist/0Qsv4mPm5fOiJ6nOFxtZLm"
+        },
+        {
+          "name": "King Kong Click",
+          "url": "https://open.spotify.com/artist/0lTSSQrxOMu4Keh48GrIkX"
+        },
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "duration_ms": 246659,
+      "name": "La Movie",
+      "url": "https://open.spotify.com/track/5u1rcgkyH4ewqTaVUI6Ekk"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
         "name": "La B\u00fasqueda",
         "url": "https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ"
       },
@@ -443,34 +471,6 @@
       "duration_ms": 188933,
       "name": "Oyelo",
       "url": "https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "The King Is Back",
-        "url": "https://open.spotify.com/album/5NfRSBalg4W9v2E01yHRzF"
-      },
-      "artists": [
-        {
-          "name": "Bubaseta",
-          "url": "https://open.spotify.com/artist/7AiFAkvE8VYLDdsmLC78ik"
-        },
-        {
-          "name": "Subwoffer",
-          "url": "https://open.spotify.com/artist/0Qsv4mPm5fOiJ6nOFxtZLm"
-        },
-        {
-          "name": "King Kong Click",
-          "url": "https://open.spotify.com/artist/0lTSSQrxOMu4Keh48GrIkX"
-        },
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        }
-      ],
-      "duration_ms": 246659,
-      "name": "La Movie",
-      "url": "https://open.spotify.com/track/5u1rcgkyH4ewqTaVUI6Ekk"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "D\u00e9jalo Fluir",
-      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 267983,
       "name": "Normal",
       "url": "https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "D\u00e9jalo Fluir",
+      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1435,18 +1435,22 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "On the Good Road (En Vivo En Sala Siranush)",
-        "url": "https://open.spotify.com/album/2eVwZkKc0oWJa9r85EsrAt"
+        "name": "Que Bonita Vecindad",
+        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
       },
       "artists": [
         {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
         }
       ],
-      "duration_ms": 228510,
-      "name": "On the Good Road - En Vivo En Sala Siranush",
-      "url": "https://open.spotify.com/track/42X9GlneXJkyRShuDLPvNc"
+      "duration_ms": 223405,
+      "name": "Nadie Sabe",
+      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1471,58 +1475,18 @@
     {
       "added_at": "2022-12-23 03:00:00",
       "album": {
-        "name": "Sig Ragga",
-        "url": "https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r"
+        "name": "On the Good Road (En Vivo En Sala Siranush)",
+        "url": "https://open.spotify.com/album/2eVwZkKc0oWJa9r85EsrAt"
       },
       "artists": [
         {
-          "name": "Sig Ragga",
-          "url": "https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J"
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
         }
       ],
-      "duration_ms": 343880,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2LsIPIq9oe9sCt5oKwGnpt"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "Que Bonita Vecindad",
-        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
-        }
-      ],
-      "duration_ms": 223405,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
-    },
-    {
-      "added_at": "2022-12-23 03:00:00",
-      "album": {
-        "name": "No Insistas",
-        "url": "https://open.spotify.com/album/5QElG8KePpyHtSvjzo2hpq"
-      },
-      "artists": [
-        {
-          "name": "Lion Reggae",
-          "url": "https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko"
-        },
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 206677,
-      "name": "No Insistas",
-      "url": "https://open.spotify.com/track/4PvvhS8ntwMJEzXMlzGqcA"
+      "duration_ms": 228510,
+      "name": "On the Good Road - En Vivo En Sala Siranush",
+      "url": "https://open.spotify.com/track/42X9GlneXJkyRShuDLPvNc"
     },
     {
       "added_at": "2022-12-23 03:00:00",
@@ -1543,6 +1507,42 @@
       "duration_ms": 194526,
       "name": "Ruptura",
       "url": "https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "Sig Ragga",
+        "url": "https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r"
+      },
+      "artists": [
+        {
+          "name": "Sig Ragga",
+          "url": "https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J"
+        }
+      ],
+      "duration_ms": 343880,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2LsIPIq9oe9sCt5oKwGnpt"
+    },
+    {
+      "added_at": "2022-12-23 03:00:00",
+      "album": {
+        "name": "No Insistas",
+        "url": "https://open.spotify.com/album/5QElG8KePpyHtSvjzo2hpq"
+      },
+      "artists": [
+        {
+          "name": "Lion Reggae",
+          "url": "https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko"
+        },
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 206677,
+      "name": "No Insistas",
+      "url": "https://open.spotify.com/track/4PvvhS8ntwMJEzXMlzGqcA"
     },
     {
       "added_at": "2022-12-23 03:00:00",

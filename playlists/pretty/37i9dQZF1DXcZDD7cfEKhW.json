@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Sam Smith & Kim Petras",
-  "num_followers": 3358969,
+  "num_followers": 3359377,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDIyZjg1YWY4ZjI3NWM3ZTUwMDMxOGQ5ZjM4NmY0YWVk",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDMxN2QzOGUzZjY0YjIwZTU4NzQyZDMyMWJlMjMyOTMw",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Shivers (Dillon Francis Remix)",
-        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 127766,
-      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
-      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Believe (feat. Goodboys) [Galantis Remix]",
         "url": "https://open.spotify.com/album/0xe6QNeyXktGipggjECGK7"
       },
@@ -715,6 +695,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Shivers (Dillon Francis Remix)",
+        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 127766,
+      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
+      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
         "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
       },
@@ -731,26 +731,6 @@
       "duration_ms": 271240,
       "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
       "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Don't Cry For Me",
-        "url": "https://open.spotify.com/album/3Dxx5keo6wkJXBwRXdqZUb"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 199515,
-      "name": "Don't Cry For Me",
-      "url": "https://open.spotify.com/track/2OUJj5upivZyb4mUCEoQp7"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -795,6 +775,26 @@
       "duration_ms": 162540,
       "name": "Rise (Sam Feldt Remix)",
       "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Don't Cry For Me",
+        "url": "https://open.spotify.com/album/3Dxx5keo6wkJXBwRXdqZUb"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 199515,
+      "name": "Don't Cry For Me",
+      "url": "https://open.spotify.com/track/2OUJj5upivZyb4mUCEoQp7"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -915,22 +915,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Bones (twocolors Remix)",
-        "url": "https://open.spotify.com/album/6idPk4yzvCbpdkpNVJU1AE"
+        "name": "Easy Lover (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/1DoFMDyPXjAyfELfxzx0gx"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         },
         {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         }
       ],
-      "duration_ms": 256092,
-      "name": "Bones - twocolors Remix",
-      "url": "https://open.spotify.com/track/2czjUxrgctplH7SDrJLGGb"
+      "duration_ms": 120660,
+      "name": "Easy Lover - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/20m2F7vi3SjKXtq3FyT6qS"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -951,6 +951,26 @@
       "duration_ms": 182450,
       "name": "My Head & My Heart - Claptone Remix",
       "url": "https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Bones (twocolors Remix)",
+        "url": "https://open.spotify.com/album/6idPk4yzvCbpdkpNVJU1AE"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 256092,
+      "name": "Bones - twocolors Remix",
+      "url": "https://open.spotify.com/track/2czjUxrgctplH7SDrJLGGb"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -995,26 +1015,6 @@
       "duration_ms": 238032,
       "name": "Sacrifice (Remix) (feat. Swedish House Mafia)",
       "url": "https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Easy Lover (Jax Jones Remix)",
-        "url": "https://open.spotify.com/album/1DoFMDyPXjAyfELfxzx0gx"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 120660,
-      "name": "Easy Lover - Jax Jones Remix",
-      "url": "https://open.spotify.com/track/20m2F7vi3SjKXtq3FyT6qS"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1167,8 +1167,8 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Sinnerman (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
+        "name": "Feeling Good (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
       },
       "artists": [
         {
@@ -1176,13 +1176,13 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         },
         {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
         }
       ],
-      "duration_ms": 232632,
-      "name": "Sinnerman - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
+      "duration_ms": 150789,
+      "name": "Feeling Good - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Summertime Sadness (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 265997,
+      "name": "Summertime - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "How Do I Make You Love Me? (Sebastian Ingrosso & Salvatore Ganacci Remix)",
         "url": "https://open.spotify.com/album/181WKxuhHzTyjMcYdI7UUe"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 217766,
       "name": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
       "url": "https://open.spotify.com/track/1DQGIcihPgi4kDCdx1fEn0"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Summertime Sadness (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 265997,
-      "name": "Summertime - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Feeling Good (Austin Millz Remix)",
-        "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
+        "name": "Sinnerman (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
       },
       "artists": [
         {
@@ -1308,13 +1308,13 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         },
         {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 150789,
-      "name": "Feeling Good - Austin Millz Remix",
-      "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
+      "duration_ms": 232632,
+      "name": "Sinnerman - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1847,30 +1847,6 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Why Can't You Wait (3LAU Remix)",
-        "url": "https://open.spotify.com/album/1nUpGyJyMaqU9fL5qEG3eI"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        }
-      ],
-      "duration_ms": 221612,
-      "name": "Why Can't You Wait - 3LAU Remix",
-      "url": "https://open.spotify.com/track/6KXmKsgyW8EtRHlMk1ehKi"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
         "name": "Diplo (Deluxe)",
         "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
@@ -1891,6 +1867,30 @@
       "duration_ms": 210000,
       "name": "Don't Forget My Love - John Summit Remix",
       "url": "https://open.spotify.com/track/1iKiLPkFnYhbCm5uvaDwjS"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Why Can't You Wait (3LAU Remix)",
+        "url": "https://open.spotify.com/album/1nUpGyJyMaqU9fL5qEG3eI"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        }
+      ],
+      "duration_ms": 221612,
+      "name": "Why Can't You Wait - 3LAU Remix",
+      "url": "https://open.spotify.com/track/6KXmKsgyW8EtRHlMk1ehKi"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -2039,6 +2039,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "High (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/7prx1EAmK2zsdvABzohj6p"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 241904,
+      "name": "High - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/6c2NgGHj1PxDhpkbx4d5nO"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Follow Me (Sick Individuals Remix)",
         "url": "https://open.spotify.com/album/2DmvFfaBJeA9hy0yDQGuhf"
       },
@@ -2083,26 +2103,6 @@
       "duration_ms": 220593,
       "name": "Turn Up The Sunshine - PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/3wR5OccDugBm5Od2NYcMaO"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "High (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/7prx1EAmK2zsdvABzohj6p"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 241904,
-      "name": "High - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/6c2NgGHj1PxDhpkbx4d5nO"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -2195,30 +2195,26 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
-        "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] [Edit]",
-        "url": "https://open.spotify.com/album/2U79odiDvxYEO4pFl8sa8w"
+        "name": "Hate Me (The Him Remix)",
+        "url": "https://open.spotify.com/album/3ESz5DuNMNkaXkY189CBlS"
       },
       "artists": [
         {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "Suli Breaks",
-          "url": "https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck"
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
         },
         {
-          "name": "Jazzie B.",
-          "url": "https://open.spotify.com/artist/2Bohv14bNCQi67Ft5pWI0g"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
         }
       ],
-      "duration_ms": 191612,
-      "name": "Innadadance (feat. Suli Breaks & Jazzie B) [Meduza Remix] - Edit",
-      "url": "https://open.spotify.com/track/5TvEN16rGvvXUGrdg4BxUC"
+      "duration_ms": 153600,
+      "name": "Hate Me - The Him Remix",
+      "url": "https://open.spotify.com/track/51m8154fLfxtL9Fhlb40ZQ"
     }
   ],
   "unique_name": "Pop Remix",

@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee",
-  "num_followers": 116192,
+  "num_followers": 116209,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMGY0ZmQ3OTVmM2FmMjI5MTRhNTJhOTFlNTFjNDY2MGFm",
+  "snapshot_id": "MTY3MTc1MDAwMCwwMDAwMDAwMDUwMmU1YWUzYzFhODc1NTFlZmY4OWQ0MzMwYjgxMmMy",
   "tracks": [
     {
       "added_at": "2022-12-22 23:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
-      },
-      "artists": [
-        {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
-        }
-      ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Eladio",
         "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 138100,
       "name": "Eladio",
       "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+      },
+      "artists": [
+        {
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+        }
+      ],
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -443,6 +443,30 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Fidelity Radio Club",
+        "url": "https://open.spotify.com/album/7eu46qXLNv9FAagjqNhFZb"
+      },
+      "artists": [
+        {
+          "name": "S. Fidelity",
+          "url": "https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW"
+        },
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        },
+        {
+          "name": "Melodiesinfonie",
+          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+        }
+      ],
+      "duration_ms": 236671,
+      "name": "Love International Inc.",
+      "url": "https://open.spotify.com/track/7AA6xlsekFaLLbSX92aeyK"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
       },
@@ -455,26 +479,6 @@
       "duration_ms": 176000,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/0WE4sAFEeNxm1y3E6iTwVL"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Forms / Objects",
-        "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
-      },
-      "artists": [
-        {
-          "name": "End of Time",
-          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
-        },
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
-        }
-      ],
-      "duration_ms": 386508,
-      "name": "Objects",
-      "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -519,26 +523,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Fidelity Radio Club",
-        "url": "https://open.spotify.com/album/7eu46qXLNv9FAagjqNhFZb"
+        "name": "Forms / Objects",
+        "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
       },
       "artists": [
         {
-          "name": "S. Fidelity",
-          "url": "https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW"
+          "name": "End of Time",
+          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
         },
         {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
-        },
-        {
-          "name": "Melodiesinfonie",
-          "url": "https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd"
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
         }
       ],
-      "duration_ms": 236671,
-      "name": "Love International Inc.",
-      "url": "https://open.spotify.com/track/7AA6xlsekFaLLbSX92aeyK"
+      "duration_ms": 386508,
+      "name": "Objects",
+      "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 197796,
       "name": "Gotta Dance",
       "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
-      },
-      "artists": [
-        {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
-        }
-      ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/0eiuT3ShAERLEGuZEGy1OU"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Funk",
-          "url": "https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF"
-        }
-      ],
-      "duration_ms": 211071,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/1ZRRqPM3o0sfsjlzrB3VcH"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Such It Goes",
         "url": "https://open.spotify.com/album/4u2ZlIFMiHYmrAqF4QLEvn"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 482595,
       "name": "Such It Goes",
       "url": "https://open.spotify.com/track/4wrGyMDAvCNoLSxqUZnrsl"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/0eiuT3ShAERLEGuZEGy1OU"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Funk",
+          "url": "https://open.spotify.com/artist/32RSzgTDqApMWHr6tLNLBF"
+        }
+      ],
+      "duration_ms": 211071,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1ZRRqPM3o0sfsjlzrB3VcH"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1263,22 +1263,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "Infinity (The Remixes)",
-        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
+        "name": "You Just Danced",
+        "url": "https://open.spotify.com/album/17d0PBIogEhv6lGBTgYXKV"
       },
       "artists": [
         {
-          "name": "Bluma Petersen",
-          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
         },
         {
-          "name": "SLCT",
-          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
         }
       ],
-      "duration_ms": 176356,
-      "name": "Infinity (SLCT Remix) (Instrumental Version)",
-      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
+      "duration_ms": 452611,
+      "name": "You Just Danced",
+      "url": "https://open.spotify.com/track/0deFjGhPrCgPUqsgZxU8i5"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1319,22 +1319,22 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "You Just Danced",
-        "url": "https://open.spotify.com/album/17d0PBIogEhv6lGBTgYXKV"
+        "name": "Infinity (The Remixes)",
+        "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
       },
       "artists": [
         {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+          "name": "Bluma Petersen",
+          "url": "https://open.spotify.com/artist/1I7A8xBGgo3BLIWoG8B91h"
         },
         {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+          "name": "SLCT",
+          "url": "https://open.spotify.com/artist/1WblOSbQMKczLhoK041oOM"
         }
       ],
-      "duration_ms": 452611,
-      "name": "You Just Danced",
-      "url": "https://open.spotify.com/track/0deFjGhPrCgPUqsgZxU8i5"
+      "duration_ms": 176356,
+      "name": "Infinity (SLCT Remix) (Instrumental Version)",
+      "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "small talk",
-        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 325680,
-      "name": "small talk",
-      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
-    },
-    {
-      "added_at": "2022-12-22 23:00:00",
-      "album": {
         "name": "Falling Upwards",
         "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2022-12-22 23:00:00",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
       },
       "artists": [
         {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
         }
       ],
-      "duration_ms": 284205,
-      "name": "009A1",
-      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
+      "duration_ms": 325680,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
     },
     {
       "added_at": "2022-12-22 23:00:00",
@@ -1451,6 +1435,22 @@
       "duration_ms": 319743,
       "name": "Ballo Da Solo",
       "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
+    },
+    {
+      "added_at": "2022-12-22 23:00:00",
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "duration_ms": 284205,
+      "name": "009A1",
+      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
     },
     {
       "added_at": "2022-12-22 23:00:00",

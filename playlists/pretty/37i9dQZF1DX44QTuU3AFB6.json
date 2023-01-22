@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rolas pa' sacar las chelas y el tequila!",
-  "num_followers": 154601,
+  "num_followers": 154655,
   "original_name": "Puras Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MDQ5MSwwMDAwMDAwMGJkMWQ1ZTljNGNiNjE2NTg4NDQ1M2QzYWUxMzFjZGRh",
+  "snapshot_id": "MTY3NDE4MDQ5MSwwMDAwMDAwMDEzMTU4OWJiMWU4Y2JiZWM5NjMwMDkzMzQ1OGE0M2Nm",
   "tracks": [
     {
       "added_at": "2023-01-20 02:08:11",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 135611,
       "name": "Los Botones Azules",
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "El Hijo Mayor",
-        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "El Hijo Mayor",
-      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 122096,
       "name": "Como Quieras Quiero",
       "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "El Hijo Mayor",
+        "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "El Hijo Mayor",
+      "url": "https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 167893,
-      "name": "As\u00ed Nac\u00ed",
-      "url": "https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "El Rayo",
         "url": "https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 218058,
       "name": "El Rayo",
       "url": "https://open.spotify.com/track/0ev44APmsOEmBdbmQqzafj"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 167893,
+      "name": "As\u00ed Nac\u00ed",
+      "url": "https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
         "name": "El Precio De La Soledad",
         "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
       },
@@ -1407,22 +1427,6 @@
       "duration_ms": 166143,
       "name": "El Precio De La Soledad",
       "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
-        "name": "La Borrachera",
-        "url": "https://open.spotify.com/album/7vWcwj2KErotDLAn5NJIhN"
-      },
-      "artists": [
-        {
-          "name": "Los Inquietos Del Norte",
-          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
-        }
-      ],
-      "duration_ms": 127320,
-      "name": "La Borrachera",
-      "url": "https://open.spotify.com/track/4BdYvtV6Qg461Vdcyr3j8X"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -1459,6 +1463,22 @@
       "duration_ms": 179130,
       "name": "Hay Que Hacer Dinero",
       "url": "https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "La Borrachera",
+        "url": "https://open.spotify.com/album/7vWcwj2KErotDLAn5NJIhN"
+      },
+      "artists": [
+        {
+          "name": "Los Inquietos Del Norte",
+          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
+        }
+      ],
+      "duration_ms": 127320,
+      "name": "La Borrachera",
+      "url": "https://open.spotify.com/track/4BdYvtV6Qg461Vdcyr3j8X"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -1563,22 +1583,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 159613,
-      "name": "Dolor y Amor",
-      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "Pistear, Pistear",
         "url": "https://open.spotify.com/album/3Vi5kjZrUvp4vJmUg6dMR0"
       },
@@ -1627,18 +1631,18 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Modo Crudo",
-        "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 128513,
-      "name": "Modo Crudo",
-      "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
+      "duration_ms": 159613,
+      "name": "Dolor y Amor",
+      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -1655,6 +1659,22 @@
       "duration_ms": 207186,
       "name": "\u00bfQu\u00e9 Me Vas a Dar?",
       "url": "https://open.spotify.com/track/6noag39xc1z1VuHLm9CSA5"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "Modo Crudo",
+        "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 128513,
+      "name": "Modo Crudo",
+      "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -2051,6 +2071,22 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
+        "name": "Corridos A Quema Ropa",
+        "url": "https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "El Borrego",
+      "url": "https://open.spotify.com/track/2ypDwYTfpbAgj4ocOWvgwZ"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
         "name": "Atraves de la Luna",
         "url": "https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2"
       },
@@ -2107,18 +2143,18 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Corridos A Quema Ropa",
-        "url": "https://open.spotify.com/album/6roTGjh0yLNKpZil7EZCVK"
+        "name": "Top Norte\u00f1o",
+        "url": "https://open.spotify.com/album/4JpBTtb53GAHXQVu96NSqZ"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 198533,
-      "name": "El Borrego",
-      "url": "https://open.spotify.com/track/2ypDwYTfpbAgj4ocOWvgwZ"
+      "duration_ms": 163026,
+      "name": "El Clavo",
+      "url": "https://open.spotify.com/track/2Wmx7DLFLY934h23dCDfxu"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -2135,22 +2171,6 @@
       "duration_ms": 145444,
       "name": "La Peda",
       "url": "https://open.spotify.com/track/07VdDPdVATetvjl5wfhvC3"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
-        "name": "Top Norte\u00f1o",
-        "url": "https://open.spotify.com/album/4JpBTtb53GAHXQVu96NSqZ"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "El Clavo",
-      "url": "https://open.spotify.com/track/2Wmx7DLFLY934h23dCDfxu"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -2319,22 +2339,6 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "AYAYAY! (S\u00faper Deluxe)",
-        "url": "https://open.spotify.com/album/6aUbcanpJvwQqa7hs2mxoL"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 158746,
-      "name": "Se Me Olvid\u00f3",
-      "url": "https://open.spotify.com/track/44kCjKg7BV3AnqF2brVIME"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
         "name": "En El Tiempo",
         "url": "https://open.spotify.com/album/5lUF7dc1FSAWTL1hEAD4uA"
       },
@@ -2363,6 +2367,22 @@
       "duration_ms": 155706,
       "name": "Estas Ganas de Tomar",
       "url": "https://open.spotify.com/track/7bEvMxjakpTmanjdG4B64e"
+    },
+    {
+      "added_at": "2023-01-20 02:08:11",
+      "album": {
+        "name": "AYAYAY! (S\u00faper Deluxe)",
+        "url": "https://open.spotify.com/album/6aUbcanpJvwQqa7hs2mxoL"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 158746,
+      "name": "Se Me Olvid\u00f3",
+      "url": "https://open.spotify.com/track/44kCjKg7BV3AnqF2brVIME"
     },
     {
       "added_at": "2023-01-20 02:08:11",
@@ -2539,38 +2559,18 @@
     {
       "added_at": "2023-01-20 02:08:11",
       "album": {
-        "name": "Exitos De Los Invasores De Nuevo Leon",
-        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
+        "name": "12 Favoritas",
+        "url": "https://open.spotify.com/album/3lpQ1HPhAhbwDpn5JC675B"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 135653,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6Ty1gDf8oUZfqf9TotnSSe"
-    },
-    {
-      "added_at": "2023-01-20 02:08:11",
-      "album": {
-        "name": "Siempre Pendientes",
-        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 186828,
-      "name": "Siempre Pendientes",
-      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
+      "duration_ms": 183546,
+      "name": "Ya Es Muy Tarde",
+      "url": "https://open.spotify.com/track/4MpLRbtH4BuM9b3Vf28s7O"
     }
   ],
   "unique_name": "Puras Pa' Pistear",

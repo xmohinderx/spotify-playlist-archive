@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Tutu e Fafá e os funks mais 🔑 do Brasil\. Foto: MC Ryan SP, MC Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,272,617 likes - 51 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,278,064 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

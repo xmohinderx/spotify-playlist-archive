@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there.
 
-199 songs - 15 hr 38 min
+200 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Feel \- Live at Live 8, Hyde Park, London, 2nd July 2005](https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 4:27 | 2022-04-14 | 2022-07-29 |
 | [Fields Of Gold \- Live In Berlin/2010](https://open.spotify.com/track/4jvjN7ew31DR6VazusgnyJ) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Royal Philharmonic Concert Orchestra](https://open.spotify.com/artist/0KF6aZe84u9WE8JaLdvLLY), [Steven Mercurio](https://open.spotify.com/artist/1tVeyHElHwol59M1EPwQHD) | [Live In Berlin](https://open.spotify.com/album/7wYJQZ8VVCQoMQxjrvurnL) | 3:35 | 2022-04-14 | 2022-07-29 |
 | [Fields Of Gold \- Live In Berlin/2010](https://open.spotify.com/track/6zaIkr8o1DVxBIr4rgrvXC) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Royal Philharmonic Concert Orchestra](https://open.spotify.com/artist/0KF6aZe84u9WE8JaLdvLLY), [Steven Mercurio](https://open.spotify.com/artist/1tVeyHElHwol59M1EPwQHD) | [Live In Berlin](https://open.spotify.com/album/6adPwMLvUlBuL6WfExnCUu) | 3:35 | 2022-04-29 |  |
-| [Footloose \- Live at John F\. Kennedy Stadium, 13th July 1985](https://open.spotify.com/track/1wM7Y8fdOTJD9ZaHHfi1MS) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(Live at John F\. Kennedy Stadium, 13th July 1985\)](https://open.spotify.com/album/3YjGruzbQxfOVRre3ZaFFZ) | 4:14 | 2022-04-29 |  |
+| [Footloose \- Live at John F\. Kennedy Stadium, 13th July 1985](https://open.spotify.com/track/1wM7Y8fdOTJD9ZaHHfi1MS) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(Live at John F\. Kennedy Stadium, 13th July 1985\)](https://open.spotify.com/album/3YjGruzbQxfOVRre3ZaFFZ) | 4:14 | 2022-04-29 | 2023-01-22 |
 | [Footloose \- Live at Live Aid, John F\. Kennedy Stadium, 13th July 1985](https://open.spotify.com/track/4Y5QFo0iMJ7j1zpzVjGt9D) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Live Aid \(Live, 13th July 1985\)](https://open.spotify.com/album/5Ke7S3qdSjC6on0xfVkAss) | 4:14 | 2022-04-14 | 2022-07-29 |
 | [For the First Time \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/4llNwotltjRfm312AvF7vn) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 5:04 | 2022-04-14 |  |
 | [Forever Young](https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Stark Naked and Absolutely Live](https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43) | 5:43 | 2022-04-14 |  |
@@ -205,6 +205,7 @@
 | [You're Beautiful \- Live in Ireland](https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Chasing Time: The Bedlam Sessions](https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF) | 3:38 | 2022-04-14 |  |
 | [You're Still The One \- Live](https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 3:35 | 2022-04-14 |  |
 | [You're The One That I Want \- Live](https://open.spotify.com/track/7vCqjFCrn2070QxxM8G7V4) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Olivia's Live Hits](https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON) | 3:51 | 2022-08-09 | 2023-01-09 |
+| [You're The One That I Want \- Live](https://open.spotify.com/track/5FWlmanf50i18yCshnNuF9) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 3:51 | 2022-08-09 |  |
 | [Your Love Is King \- Live at Live Aid, Wembley Stadium, 13th July 1985](https://open.spotify.com/track/0jkicPAjQnmOb9kKH9rmzP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Live Aid \(Live, 13th July 1985\)](https://open.spotify.com/album/5Ke7S3qdSjC6on0xfVkAss) | 4:40 | 2022-04-14 | 2022-07-28 |
 | [Your Song \- Live At Madison Square Garden](https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton 60 \- Live At Madison Square Garden](https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68) | 4:09 | 2022-04-14 |  |
 

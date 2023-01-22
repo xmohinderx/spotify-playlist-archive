@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Ica Frias, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,502 likes - 73 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,515 likes - 73 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 2 | [Lawan](https://open.spotify.com/track/4DqVXqUyfaile8iPDyklQv) | [Kheed Mendoza](https://open.spotify.com/artist/2tTrLR2zP9657x2hPiGU6Q) | [Lawan](https://open.spotify.com/album/14Z0giUdJX8UqkI8Dj24b9) | 3:05 |
 | 3 | [Pagkawala](https://open.spotify.com/track/1aB2oLBLZst99ctao7ul9x) | [Mary, The 9 Ideas](https://open.spotify.com/artist/2rLK4lRZOyqJjbEJQmyi5t) | [Mary, The 9 Ideas](https://open.spotify.com/album/2BLO0iQJICAhMgFHScqO6h) | 3:01 |
 | 4 | [In My Head](https://open.spotify.com/track/6WeKau1VmqiuqTBMxGWk4q) | [Here+Now](https://open.spotify.com/artist/0af4cnTm3y78ahi9lVVrRS) | [In My Head](https://open.spotify.com/album/3KyYyXpZ91aKMahmX8C6o6) | 3:38 |
-| 5 | [Dekada](https://open.spotify.com/track/5riQUYoIZ5jDXZD0kqN66W) | [Justin Taller](https://open.spotify.com/artist/3ND4W7UN4ZFsrF5x4LhTAg) | [Dekada](https://open.spotify.com/album/1G3JgZMBSqp2mUtfIp8eEr) | 3:40 |
+| 5 | [Dekada](https://open.spotify.com/track/5riQUYoIZ5jDXZD0kqN66W) | [Justin Taller](https://open.spotify.com/artist/6EWxRnepcr37PGDIara8gI) | [Dekada](https://open.spotify.com/album/1G3JgZMBSqp2mUtfIp8eEr) | 3:40 |
 | 6 | [Bite \- B\-Side](https://open.spotify.com/track/1kI1E4RcKNuWorLvzga6Hq) | [Seonna](https://open.spotify.com/artist/0joIRp90jblIA0s5GWwmBw), [knōwmaad](https://open.spotify.com/artist/1fLR67iN8Rm9atDIhgMbAU) | [Bite \(B\-side\)](https://open.spotify.com/album/6pea1H1y5G09LF0MCHwMUc) | 3:11 |
 | 7 | [Won't Stop](https://open.spotify.com/track/18clc0q7L2NmQCaW0Jgfhy) | [Zach x Zeph](https://open.spotify.com/artist/4CYeHT9n7RrHjp3SGS455I) | [Won't Stop](https://open.spotify.com/album/16hzbzlEkhY0G4qrHIZVF5) | 3:43 |
 | 8 | [Susuka Pero Di Susuko](https://open.spotify.com/track/6oyE0g9YMWRkHcjlKnSAPk) | [Denin Sy](https://open.spotify.com/artist/42gcHqku5AvQyAEkIj27Jt) | [Susuka Pero Di Susuko](https://open.spotify.com/album/6yjEXos2M6KnAmkMMaF2l4) | 3:53 |

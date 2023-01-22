@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 
 > Vocal jazz favorites from 2022\. Cover: Samara Joy \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,813 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,823 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 32 | [Make It Last](https://open.spotify.com/track/4dSfTtZjVirCPoH45u2G9R) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Send For Me](https://open.spotify.com/album/4Ey2JHKRLc0Qy03MvBuPiZ) | 4:41 |
 | 33 | [Next to Me](https://open.spotify.com/track/7zhVCBnlJu0HSpULPSoOpB) | [Flo Blue](https://open.spotify.com/artist/26xMgiYGCqdjCitorf1MoF) | [Next to Me](https://open.spotify.com/album/3MIbD4YIed4Yt1hrHq5zqU) | 4:12 |
 | 34 | [I Must Have That Man](https://open.spotify.com/track/3mbdUnczHqdFQ0PSui94o3) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [I Must Have That Man](https://open.spotify.com/album/64vyKhXh4mnerSTAuEPsl4) | 5:12 |
-| 35 | [Bonita \- Special Edition](https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:12 |
+| 35 | [Bonita](https://open.spotify.com/track/2jSNZUNgyRArdjjSoqlCPH) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:12 |
 | 36 | [Makin' Whoopee](https://open.spotify.com/track/04rcEAa4UW7Wn8fRwIEWZt) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Meshuga Baby](https://open.spotify.com/album/5z86H0ClvGTNehrhbmqiDx) | 4:24 |
 | 37 | [I'll Follow the Sun](https://open.spotify.com/track/1bktB5CagQYfxL5YO3OctN) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d) | [I'll Follow The Sun](https://open.spotify.com/album/0UolljxEJxx4l5cDvEoqNE) | 2:19 |
 | 38 | [Angel](https://open.spotify.com/track/4Kei4g4sr9fUWy7nhPN6hx) | [Dasha Beets](https://open.spotify.com/artist/5c74V4G4hH40lxp93rE9Xh) | [Bach…because](https://open.spotify.com/album/0d7q0bfcEDPcyk3NegqNsN) | 4:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 49 | [I Can't Help It](https://open.spotify.com/track/1gVJYBIGO5zEKPa40MA1WK) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [I Can't Help It](https://open.spotify.com/album/334Lx9ZWSuv3zc0YHyQ0db) | 4:26 |
 | 50 | [If I Had You](https://open.spotify.com/track/6htL8eAdOScorA0ooaoL5k) | [Lara Luppi](https://open.spotify.com/artist/0TMpMNYlHlLT6Ey6BjcklA), [Luca Filastro](https://open.spotify.com/artist/7bRZhdSt3rftBwfmQRe5zR), [Aldo Zunino](https://open.spotify.com/artist/2ZQKolsIe5WgidiDRxLsCr), [Emanuele Zappia](https://open.spotify.com/artist/0yx2tQrSKPmyeVV1D82i6D) | [Day Dream](https://open.spotify.com/album/0IGv0S7wFk9QnyvMA0bIK2) | 5:28 |
 
-Snapshot ID: `MTY2OTgxNjAyMCwwMDAwMDAwMGZkZDkyY2FiMDEzYWZjMDRkNWI2NTE0NTIyZTczMGY3`
+Snapshot ID: `MTY2OTgxNjAyMCwwMDAwMDAwMGY2YzU5ZjY0MDU3ODUwNzg5ZDRiMGFkNjIxNmVkMmIz`

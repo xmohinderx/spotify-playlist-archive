@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-143 songs - 10 hr 16 min
+145 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Barefoot In Heaven](https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:30 | 2022-10-03 |  |
 | [Behind The Rain](https://open.spotify.com/track/3EvlnCWBHQlJZI0Iu2iAwx) | [Grace Theisen](https://open.spotify.com/artist/2OiP1wtWnUxo4c7h5uFfxf) | [Behind The Rain](https://open.spotify.com/album/5ktC5H8hQ2G5tNOoDER8FE) | 3:34 | 2022-05-25 | 2022-06-06 |
 | [Believe These Blues](https://open.spotify.com/track/1atDSd7gy75YurFKnV7ykE) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 4:24 | 2022-07-08 |  |
+| [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd) | 4:03 | 2023-01-22 |  |
 | [Better This Way](https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Jigsaw Heart](https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI) | 4:10 | 2022-05-25 |  |
 | [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 | 2022-07-08 |  |
 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 | 2022-07-08 |  |
@@ -34,7 +35,7 @@
 | [Corinna \- From "The Natch'l Blues"](https://open.spotify.com/track/1NoIZ1658UHpicKQ9rcWYh) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Natch'l Blues](https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2) | 3:02 | 2022-07-29 |  |
 | [Country Boy](https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 5:44 | 2022-05-25 |  |
 | [Country Girl](https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 4:24 | 2022-05-25 |  |
-| [Destiny](https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 5:17 | 2022-10-03 |  |
+| [Destiny](https://open.spotify.com/track/1DCEVuEd08YnKNeuN5dfDF) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Ride](https://open.spotify.com/album/2HVpYOgAdiEYK3yEUkBcDI) | 5:17 | 2022-10-03 | 2023-01-22 |
 | [Does Anybody Know](https://open.spotify.com/track/7HpL4czETBCPqzQhr97eR1) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 3:28 | 2022-10-03 |  |
 | [Don't Ever Let Nobody Drag Your Spirit Down](https://open.spotify.com/track/1RMmxSQGG9Xd4OLwnCWEvY) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT), [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Sisters & Brothers](https://open.spotify.com/album/37ISHphkeOt1OZXVr5WK2r) | 3:24 | 2022-05-25 | 2022-07-29 |
 | [Don't Ever Let Nobody Drag Your Spirit Down](https://open.spotify.com/track/3zXfuTPCPrPfHSLiH3uMJe) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Sisters & Brothers](https://open.spotify.com/album/7221Of24Dk9qZYXfXHQjrz) | 3:24 | 2022-07-29 |  |
@@ -45,7 +46,7 @@
 | [Driving Wheel](https://open.spotify.com/track/5oLY2gz4HnKTcXxKkaGrsa) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:40 | 2022-06-14 |  |
 | [Dry Run](https://open.spotify.com/track/419eddgUScgFJRyqwUV8mZ) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Dry Run](https://open.spotify.com/album/5612RXP6x13O9iP94Sx0YH) | 3:16 | 2022-09-12 | 2022-09-17 |
 | [Dry Run](https://open.spotify.com/track/4MGsxGqk5RSuwItODtVsEE) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 3:16 | 2022-10-03 |  |
-| [Ex's House Party](https://open.spotify.com/track/0eTbwl7KzaUDsMwbQCcAcp) | [Elizabeth Moen](https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N) | [Wherever You Aren't](https://open.spotify.com/album/4KwhVr9nLyGgJT2qf54fDc) | 4:39 | 2022-11-17 |  |
+| [Ex's House Party](https://open.spotify.com/track/0eTbwl7KzaUDsMwbQCcAcp) | [Elizabeth Moen](https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N) | [Wherever You Aren't](https://open.spotify.com/album/4KwhVr9nLyGgJT2qf54fDc) | 4:39 | 2022-11-17 | 2023-01-22 |
 | [Eyes on You](https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V) | [Garrett Lebeau](https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj) | [Rise to the Grind](https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9) | 4:50 | 2022-10-03 |  |
 | [Falling](https://open.spotify.com/track/30h268bCKmGWxFleXGYATy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha) | 5:03 | 2022-05-25 |  |
 | [Feels Like Rain \(feat\. Bonnie Raitt\)](https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 4:35 | 2022-05-25 |  |
@@ -80,6 +81,7 @@
 | [I Know \- 2008 Remaster](https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:47 | 2022-05-25 |  |
 | [I Love Your Rock 'n' Roll](https://open.spotify.com/track/6rBwdTO9YwLm8xzgvdyHIt) | [Jack Broadbent](https://open.spotify.com/artist/2yk5jg6yi5fV6xmUZoBPHU) | [Ride](https://open.spotify.com/album/274mSeGv906bj4ylimeKiW) | 4:14 | 2022-10-03 |  |
 | [I Put a Spell on You \(feat\. Joss Stone\)](https://open.spotify.com/track/3Be7vJDOFNOVv3iYQgIQpu) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Emotion & Commotion](https://open.spotify.com/album/2uZCLo1QvLgjAb74Q8kv53) | 3:02 | 2022-05-25 |  |
+| [I Shouldn't Care \- Bonus Track](https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [I Shouldn’t Care \(Bonus Track\)](https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng) | 3:39 | 2023-01-13 |  |
 | [I'd Rather Go Blind](https://open.spotify.com/track/3etdnXxhAQcaZGh9wYr8ub) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/7HkdGOPmc7rmzbDXFR8Khb) | 4:56 | 2022-05-25 | 2022-07-29 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [From The Heart Of A Woman](https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h) | 5:00 | 2022-07-08 |  |
 | [I'll Take Care Of You](https://open.spotify.com/track/644oQEcMNmA3ABAOrfY7k3) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 5:13 | 2022-05-25 |  |

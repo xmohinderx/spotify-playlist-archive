@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: REO Speedwagon",
-  "num_followers": 204835,
+  "num_followers": 205156,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4MDMyNCwwMDAwMDAwMDFhOTAzYmNmMDVhZmFhMmM3Mjc0ZjNmZTQ4Y2QwMDJj",
+  "snapshot_id": "MTY3NDA4MDMyNCwwMDAwMDAwMDNiNTJkNTZhNWE4MmI3MmRlYjU2ZWQxNzhmMGEzZWNm",
   "tracks": [
     {
       "added_at": "2023-01-18 22:18:44",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Escape (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Open Arms",
-      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Eye In The Sky (Expanded Edition)",
         "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 276280,
       "name": "Eye In The Sky",
       "url": "https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -411,7 +411,7 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Double Fantasy Stripped Down",
+        "name": "Double Fantasy: Stripped Down",
         "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
       },
       "artists": [
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
+        "name": "Daylight Again (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Southern Cross - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
         "name": "Gaucho",
         "url": "https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 315306,
       "name": "The End Of The Innocence",
       "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
-        "name": "Daylight Again (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7mepsTLhRL4ghKLZ4oB31u"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Southern Cross - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5AoZknxgY6F25gAcVahO41"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 395400,
-      "name": "New York Minute",
-      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 313706,
       "name": "Wrapped Around Your Finger",
       "url": "https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Knee Deep In The Hoopla",
+        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Knee Deep In The Hoopla",
-        "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
       },
       "artists": [
         {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
         }
       ],
-      "duration_ms": 292800,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
+      "duration_ms": 395400,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "The Essential Playlist",
-        "url": "https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq"
-      },
-      "artists": [
-        {
-          "name": "Bertie Higgins",
-          "url": "https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Key Largo",
-      "url": "https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Welcome To The Real World",
         "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 265840,
       "name": "Kyrie",
       "url": "https://open.spotify.com/track/5K3Q1gue9nWLLwh6bYQFoB"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "The Essential Playlist",
+        "url": "https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq"
+      },
+      "artists": [
+        {
+          "name": "Bertie Higgins",
+          "url": "https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Key Largo",
+      "url": "https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/0uaavZx8ako3Kb6GFpb1G1"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 295053,
-      "name": "Shame On The Moon",
-      "url": "https://open.spotify.com/track/1Gxaks4MTbjMCAQ20rx4Iy"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Bella Donna (2016 Remastered)",
         "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/0uaavZx8ako3Kb6GFpb1G1"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 295053,
+      "name": "Shame On The Moon",
+      "url": "https://open.spotify.com/track/1Gxaks4MTbjMCAQ20rx4Iy"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
         "name": "Above The Clouds - The Collection (Deluxe)",
         "url": "https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "A Face In The Crowd",
-      "url": "https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Chicago 18 (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 253280,
       "name": "Will You Still Love Me? - Alternate",
       "url": "https://open.spotify.com/track/0Wv3aY6gApoT3oKBYIqvXb"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "A Face In The Crowd",
+      "url": "https://open.spotify.com/track/4tSZr210OTY6upjNYfEYUI"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "Like A Rock",
-        "url": "https://open.spotify.com/album/5zkrBl6rudGLk8YhscRbjl"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 355798,
-      "name": "Like A Rock",
-      "url": "https://open.spotify.com/track/5Jno63iv0mzu5OZ28asYbE"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Time's Makin' Changes: The Best Of Tesla",
         "url": "https://open.spotify.com/album/2FJ0CYfIvogvi1gV6dH8Gl"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 300066,
       "name": "Sister Christian",
       "url": "https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "Like A Rock",
+        "url": "https://open.spotify.com/album/5zkrBl6rudGLk8YhscRbjl"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 355798,
+      "name": "Like A Rock",
+      "url": "https://open.spotify.com/track/5Jno63iv0mzu5OZ28asYbE"
     },
     {
       "added_at": "2023-01-18 22:18:44",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-01-18 22:18:44",
       "album": {
-        "name": "The Principle of Moments",
-        "url": "https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        }
-      ],
-      "duration_ms": 322960,
-      "name": "In the Mood - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1fOrdq5lDitklPno27DeHV"
-    },
-    {
-      "added_at": "2023-01-18 22:18:44",
-      "album": {
         "name": "Mike + The Mechanics",
         "url": "https://open.spotify.com/album/7pXUIU9n8JXEbQS95sodGr"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 252426,
       "name": "All I Need Is a Miracle",
       "url": "https://open.spotify.com/track/1VKXBgsRK7lWDSVbfANlf3"
+    },
+    {
+      "added_at": "2023-01-18 22:18:44",
+      "album": {
+        "name": "The Principle of Moments",
+        "url": "https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        }
+      ],
+      "duration_ms": 322960,
+      "name": "In the Mood - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1fOrdq5lDitklPno27DeHV"
     },
     {
       "added_at": "2023-01-18 22:18:44",

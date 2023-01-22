@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,961 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,987 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 34 | [Outta Love](https://open.spotify.com/track/2mgxfEz7wo9TiwBjCr4GMH) | [Fast Romantics](https://open.spotify.com/artist/2A0s0vRWHl5XyWpdzM36RT) | [Outta Love](https://open.spotify.com/album/26FExqNSZPG4lOGm8ccGZt) | 4:18 |
 | 35 | [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 |
 | 36 | [All That’s Left of Me Is You](https://open.spotify.com/track/54Aa3U7MwohGZz56LMi0Ng) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Theo Katzman](https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:52 |
-| 37 | [Nothing In Particular](https://open.spotify.com/track/6IAN7qpuVuvnA9T0S7yM2u) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Nothing In Particular](https://open.spotify.com/album/5SP2mGvUdoMwgTit6Nd3wY) | 3:27 |
+| 37 | [Nothing In Particular](https://open.spotify.com/track/6IAN7qpuVuvnA9T0S7yM2u) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Nothing In Particular](https://open.spotify.com/album/5SP2mGvUdoMwgTit6Nd3wY) | 3:27 |
 | 38 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 |
 | 39 | [Sunshine](https://open.spotify.com/track/1ancHfc1kN39DB5iqnCmax) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Sunshine](https://open.spotify.com/album/3sjAsmZhY1zywVwQcGQ8o7) | 2:56 |
 | 40 | [Married by Elvis](https://open.spotify.com/track/1UUdrZHrSFr6w9gGtam7hZ) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Married by Elvis](https://open.spotify.com/album/7h8BaLFmmkzQ3i4mikNuh9) | 3:06 |

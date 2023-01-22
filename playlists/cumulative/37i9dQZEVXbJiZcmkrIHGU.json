@@ -849,6 +849,28 @@
     },
     {
       "album": {
+        "name": "6561",
+        "url": "https://open.spotify.com/album/4SAKE4LkUVFMNuSpnWcqjD"
+      },
+      "artists": [
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        },
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151440,
+      "name": "6561",
+      "url": "https://open.spotify.com/track/1NVl1sqBbWleKcOFnphxxr"
+    },
+    {
+      "album": {
         "name": "90er Berlin",
         "url": "https://open.spotify.com/album/5bwgOUZdynA5mQ7eBx5kiv"
       },
@@ -1970,7 +1992,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -2666,7 +2688,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 129677,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/6rCnJGzjbgyYyhILDcpJmc"
@@ -3334,7 +3356,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
@@ -4120,7 +4142,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
@@ -4534,6 +4556,28 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+    },
+    {
+      "album": {
+        "name": "BRODIES",
+        "url": "https://open.spotify.com/album/5xSam2UgSOM6sXR7C6SuVc"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150593,
+      "name": "BRODIES",
+      "url": "https://open.spotify.com/track/1pGxSl5VmzBtejKSmuAKKU"
     },
     {
       "album": {
@@ -7682,7 +7726,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 178546,
       "name": "Du tust mir nie mehr weh",
       "url": "https://open.spotify.com/track/6HNyXYZijMzIdykDQRLC9N"
@@ -8612,7 +8656,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 239888,
       "name": "Escapism. - Sped Up",
       "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
@@ -9244,10 +9288,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "album": {
+        "name": "Feuer",
+        "url": "https://open.spotify.com/album/5GKOSXH5BBu19sCRMeeRVg"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147763,
+      "name": "Feuer",
+      "url": "https://open.spotify.com/track/2tRuKhq3axshHFV5GnwiAd"
     },
     {
       "album": {
@@ -12316,7 +12378,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
@@ -15079,6 +15141,28 @@
     },
     {
       "album": {
+        "name": "Komet",
+        "url": "https://open.spotify.com/album/2XWoQ5VUcmGYL1025mZ5dO"
+      },
+      "artists": [
+        {
+          "name": "Udo Lindenberg",
+          "url": "https://open.spotify.com/artist/7iWcRnQMinCoV2u5ICgsW0"
+        },
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167356,
+      "name": "Komet",
+      "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"
+    },
+    {
+      "album": {
         "name": "Konum Gizli (feat. Murda)",
         "url": "https://open.spotify.com/album/0BmtUyUSG5Qg1DY9Vw8hw8"
       },
@@ -16220,7 +16304,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 177123,
       "name": "Liebst du mich",
       "url": "https://open.spotify.com/track/2e8Y9puNglsJIEQbZIHA0t"
@@ -16948,7 +17032,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 172107,
       "name": "Luftballon",
       "url": "https://open.spotify.com/track/5w1KF2w0e8W1EEHsCJYYCf"
@@ -19057,6 +19141,24 @@
     },
     {
       "album": {
+        "name": "Montparnasse",
+        "url": "https://open.spotify.com/album/2QMUgDVyjyTJc7ineTQa4l"
+      },
+      "artists": [
+        {
+          "name": "Kolja Goldstein",
+          "url": "https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Montparnasse",
+      "url": "https://open.spotify.com/track/6jiJUAreoPdiUz6lQLRijY"
+    },
+    {
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA"
       },
@@ -20457,6 +20559,24 @@
     },
     {
       "album": {
+        "name": "Normal zu lieben",
+        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176680,
+      "name": "Normal zu lieben",
+      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
+    },
+    {
+      "album": {
         "name": "ASOZIALER MAROKKANER",
         "url": "https://open.spotify.com/album/6wlJpOBHQvpOB5eywEXvEh"
       },
@@ -20560,6 +20680,28 @@
       "duration_ms": 161533,
       "name": "Nur ein Song (I Need Some Sleep)",
       "url": "https://open.spotify.com/track/6bfxmohPVmEuHveaFfzmjA"
+    },
+    {
+      "album": {
+        "name": "Nur ein Trost",
+        "url": "https://open.spotify.com/album/5jApFyWNcmyrBg7kQipm9U"
+      },
+      "artists": [
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164253,
+      "name": "Nur ein Trost",
+      "url": "https://open.spotify.com/track/2xIHVoglz5mLrNf145RieQ"
     },
     {
       "album": {
@@ -22199,6 +22341,24 @@
     },
     {
       "album": {
+        "name": "Power Ranger",
+        "url": "https://open.spotify.com/album/45JUiVN0SLNlC0EtwWM3Zd"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138400,
+      "name": "Power Ranger",
+      "url": "https://open.spotify.com/track/2HEPWGriMpXtjoXdWLXbzH"
+    },
+    {
+      "album": {
         "name": "In Liebe, Ion",
         "url": "https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE"
       },
@@ -23200,6 +23360,24 @@
       "duration_ms": 182000,
       "name": "Rise Up (feat. Vamero)",
       "url": "https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx"
+    },
+    {
+      "album": {
+        "name": "Risiko",
+        "url": "https://open.spotify.com/album/1RJIMW6dbRNDyHqwtxEVx4"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "Risiko",
+      "url": "https://open.spotify.com/track/2yhLCh7CMoRPhY9XpiX2wJ"
     },
     {
       "album": {
@@ -24761,6 +24939,24 @@
     },
     {
       "album": {
+        "name": "Shocks",
+        "url": "https://open.spotify.com/album/1WtMdGDqLSBB9UqDWeeNvT"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129039,
+      "name": "Shocks",
+      "url": "https://open.spotify.com/track/5m7BsARIFys2x156cs13xE"
+    },
+    {
+      "album": {
         "name": "SHOTS",
         "url": "https://open.spotify.com/album/5tLNnxTUAD5DzIMrnHb90Q"
       },
@@ -25518,7 +25714,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -25692,7 +25888,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
@@ -29555,6 +29751,24 @@
     },
     {
       "album": {
+        "name": "Weisse Orchideen",
+        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177208,
+      "name": "Weisse Orchideen",
+      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
+    },
+    {
+      "album": {
         "name": "Bratan",
         "url": "https://open.spotify.com/album/2EjjHBr4ERnS6mPAlgTEoR"
       },
@@ -30896,6 +31110,28 @@
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "album": {
+        "name": "YumYum",
+        "url": "https://open.spotify.com/album/65anFsSusiOfpdIZdKAIlg"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131948,
+      "name": "YumYum",
+      "url": "https://open.spotify.com/track/4lkLzhx8zsVIdNd1WANxuA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Cristina Valentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,828 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,873 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 33 | [Hola Lola](https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Hola Lola](https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge) | 3:57 |
 | 34 | [Mamá Tv Gluten Free](https://open.spotify.com/track/1IKf8n2wPv84zlcjwB5BIJ) | [Mamá TV](https://open.spotify.com/artist/1qRKPPMScqqPJsptg9FffI) | [Gluten Free](https://open.spotify.com/album/5V8uYhhJGiUkZM05Awt65U) | 2:35 |
 | 35 | [El Hilo Roto](https://open.spotify.com/track/5Tb2nWNIoOknlkHkrkKCJt) | [Quemarlo Todo Por Error](https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG) | [El Hilo Roto](https://open.spotify.com/album/2gAnEG4DgWeLX3fGiI4iDL) | 3:47 |
-| 36 | [Me Empiezo Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
+| 36 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
 | 37 | [qué voy a hacer](https://open.spotify.com/track/0t7Sn2HbOk7inow65D6na5) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [qué voy a hacer](https://open.spotify.com/album/5AXWainYQGafkbtRpzqz1L) | 3:05 |
 | 38 | [30 de Febrero](https://open.spotify.com/track/0wOwmzIfUBzrbI3ooWC5kf) | [Azul Aimé](https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY), [Emilia Vega](https://open.spotify.com/artist/6nB44LUFpUSgZ7sjnoUJfV) | [30 de Febrero](https://open.spotify.com/album/442Wnb4RgTfPDDPY24ajBC) | 2:44 |
 | 39 | [Espresso](https://open.spotify.com/track/2D7Mm6iS2CKnI8uRGvmdbi) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Espresso](https://open.spotify.com/album/2CDiUmUqK5PKkYjzpa1qgf) | 4:04 |

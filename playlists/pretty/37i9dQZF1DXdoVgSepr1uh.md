@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Argentina en la casa! Foto: Albere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,910 likes - 99 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,934 likes - 99 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

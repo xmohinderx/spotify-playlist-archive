@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 110311,
+  "num_followers": 110490,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2MDkxOSwwMDAwMDAwMDlkMDRjYTI2MmY3NTg4M2NhYTMyMWY3ZjM3ODE2MmFm",
+  "snapshot_id": "MTY2Njk2MDkxOSwwMDAwMDAwMGE0MDUyODc2ZmU1YjllMGZlMTJmYTk1YzE1OGI2ZjVj",
   "tracks": [
     {
       "added_at": "2022-09-30 16:58:23",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb"
     },
     {
-      "added_at": "2023-01-21 01:23:05",
+      "added_at": "2023-01-22 01:25:17",
       "album": {
         "name": "messy in heaven",
         "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo"
     },
     {
-      "added_at": "2023-01-21 01:23:05",
+      "added_at": "2023-01-22 01:25:17",
       "album": {
         "name": "Renegade",
         "url": "https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8"
@@ -1017,6 +1017,26 @@
       "url": "https://open.spotify.com/track/2KbYcnZQmfwe8RrCMSMwym"
     },
     {
+      "added_at": "2023-01-22 01:25:17",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "duration_ms": 215268,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz"
+    },
+    {
       "added_at": "2022-09-30 16:58:23",
       "album": {
         "name": "Freak",
@@ -1035,26 +1055,6 @@
       "duration_ms": 189849,
       "name": "Freak",
       "url": "https://open.spotify.com/track/1BKOmg5DzDud3mjDvsdGfQ"
-    },
-    {
-      "added_at": "2023-01-21 01:23:05",
-      "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        },
-        {
-          "name": "Gracie Van Brunt",
-          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
-        }
-      ],
-      "duration_ms": 215268,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz"
     },
     {
       "added_at": "2022-09-30 16:58:23",
@@ -1147,6 +1147,38 @@
     {
       "added_at": "2022-09-30 16:58:23",
       "album": {
+        "name": "Sequence",
+        "url": "https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX"
+      },
+      "artists": [
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        }
+      ],
+      "duration_ms": 209549,
+      "name": "Renaissance (Edit)",
+      "url": "https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96"
+    },
+    {
+      "added_at": "2023-01-22 01:25:17",
+      "album": {
+        "name": "Cancelled",
+        "url": "https://open.spotify.com/album/38uvsLnhGvWVV0p02GZyQT"
+      },
+      "artists": [
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        }
+      ],
+      "duration_ms": 213369,
+      "name": "Cancelled",
+      "url": "https://open.spotify.com/track/7mxDzIP1U1Yss9orJpM0KS"
+    },
+    {
+      "added_at": "2022-09-30 16:58:23",
+      "album": {
         "name": "Ghost (feat. DJ Rae)",
         "url": "https://open.spotify.com/album/0R7Q4f6wA3u1Zl50wdT3gH"
       },
@@ -1163,22 +1195,6 @@
       "duration_ms": 166103,
       "name": "Ghost (feat. DJ Rae)",
       "url": "https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E"
-    },
-    {
-      "added_at": "2023-01-21 01:23:05",
-      "album": {
-        "name": "Cancelled",
-        "url": "https://open.spotify.com/album/38uvsLnhGvWVV0p02GZyQT"
-      },
-      "artists": [
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        }
-      ],
-      "duration_ms": 213369,
-      "name": "Cancelled",
-      "url": "https://open.spotify.com/track/7mxDzIP1U1Yss9orJpM0KS"
     },
     {
       "added_at": "2022-09-30 16:58:23",
@@ -1199,22 +1215,6 @@
       "duration_ms": 299796,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/3IWy6MPyWKPFAQ5x6YAkrc"
-    },
-    {
-      "added_at": "2022-09-30 16:58:23",
-      "album": {
-        "name": "Sequence",
-        "url": "https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX"
-      },
-      "artists": [
-        {
-          "name": "Culture Shock",
-          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
-        }
-      ],
-      "duration_ms": 209549,
-      "name": "Renaissance (Edit)",
-      "url": "https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96"
     },
     {
       "added_at": "2022-09-30 16:58:23",

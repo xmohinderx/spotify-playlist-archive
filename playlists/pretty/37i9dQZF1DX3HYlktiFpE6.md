@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,882 likes - 57 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,900 likes - 57 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 25 | [Stacey's Mom](https://open.spotify.com/track/2REesWs353uf4aQz09I2HG) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Full Coverage](https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ) | 3:21 |
 | 26 | [Teenage Dream \(feat\. Darren Criss\)](https://open.spotify.com/track/0nzvwCXs0X3SGPhyGdb7Cp) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm), [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv) | [Glee: The Music, Volume 4](https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI) | 3:40 |
 | 27 | [Rhythm of Love / Can't Help Falling in Love \- EP Version](https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack: Volume 2](https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6) | 3:33 |
-| 28 | [I Just Called To Say I Love You](https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [I Just Called To Say I Love You](https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw) | 3:26 |
+| 28 | [Somebody That I Used to Know](https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 1](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) | 3:19 |
 | 29 | [Back To Basics \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/44xQqtGgjixgB0gnomttKX) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 1:30 |
 | 30 | [Sweet Caroline](https://open.spotify.com/track/6d9F2YMOblua0s4DHc6h5X) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Right Round / Sweet Caroline \- Single](https://open.spotify.com/album/4AH2qX9iAUGb0baGXSozaE) | 1:52 |
 | 31 | [Game of Thrones \(Main Title\)](https://open.spotify.com/track/5DUvVCB64zoCHRRCJWnF98) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Covers, Vol\. III](https://open.spotify.com/album/3zEKL1CNwJGP0ajJg7OrnQ) | 2:48 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 33 | [We Belong \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg) | [Rebel Wilson](https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq), [Adam Devine](https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 3:34 |
 | 34 | [Best Days \(feat\. Pentatonix\)](https://open.spotify.com/track/4njogTgUkTuKHWBiY9qUsB) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Best Days](https://open.spotify.com/album/5YlPDNMn5nCCBaI3YroCZN) | 3:34 |
 | 35 | [Kennedy Center Performance \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/379pQhTWVBdSEe8cfUmlHy) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 2:26 |
-| 36 | [Somebody That I Used to Know](https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 1](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) | 3:19 |
+| 36 | [I Just Called To Say I Love You](https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [I Just Called To Say I Love You](https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw) | 3:26 |
 | 37 | [Shut up and Dance](https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:47 |
 | 38 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/3YlqY0ICO5DZj2ay8vRjJ1) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg) | [Send My Love \(To Your New Lover\)](https://open.spotify.com/album/0dAsLsV88EZovxVFjbSZHa) | 3:30 |
 | 39 | [I Knew You Were Trouble \(feat\. KRNFX\)](https://open.spotify.com/track/44l4cnTTo3BgrPtqePhJFu) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [KRNFX](https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S) | [I Knew You Were Trouble \(feat\. KRNFX\)](https://open.spotify.com/album/5lnK6yv9zcn1TYbZtTZxYS) | 3:35 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 56 | [Kiss the Girl](https://open.spotify.com/track/24DJLMAHzk6F6jlLSllZxY) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Kiss the Girl](https://open.spotify.com/album/1NVjz8MczI5g9k4o302d7V) | 2:11 |
 | 57 | [Halo](https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Voices Only 2011 College A Cappella \(Volume 1\)](https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe) | 4:38 |
 
-Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDJmOWIwMGQ1N2VhODU4ZDZhNjVmYmQ2YTZkNWNlNDI3`
+Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDIxMWQxMGQ1MWFjYzU1OTJlNTBhZGU2OGY1YThmYmQ1`

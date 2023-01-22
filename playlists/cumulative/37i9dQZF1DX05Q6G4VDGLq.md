@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-423 songs - 1 day 2 hr 22 min
+424 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Don't Know Why](https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe) | [Stephen Rogerson](https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk) | [Moon Over Brooklyn](https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM) | 2:20 | 2022-06-28 | 2023-01-10 |
 | [Don't Open Your Eyes](https://open.spotify.com/track/7df0Uedn5GeMUWObiYxqFe) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu), [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Johan Tengholm](https://open.spotify.com/artist/43zscbPDZ5M7eJTRs0Uuz0), [Henrik Jäderberg](https://open.spotify.com/artist/1wwJ6VEXQBeKg50pBqn6sJ) | [Don't Open Your Eyes](https://open.spotify.com/album/1ejv2hUVUyou505zdv37pB) | 2:55 | 2022-06-28 | 2022-10-23 |
 | [Down the Pawn Shop](https://open.spotify.com/track/1WmMwuEQqOM3VU7aQghrFI) | [Louie Hobbs Trio](https://open.spotify.com/artist/5tAr3Ha3HSyUQfRp4vVa1U) | [Down the Pawn Shop](https://open.spotify.com/album/5pG51SPfHyYTAalrIYkzSb) | 3:26 | 2022-06-28 |  |
-| [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2022-06-28 |  |
+| [Downtrodden](https://open.spotify.com/track/08oIyomJzeb3f79sWVT24b) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Downtrodden](https://open.spotify.com/album/2VWoktWJQb1VQyzjjdC8vU) | 3:08 | 2023-01-19 |  |
+| [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2022-06-28 | 2023-01-22 |
 | [Duchesse](https://open.spotify.com/track/7qwMwFHW4JBRXiKRBpFE13) | [The Wallraff Group](https://open.spotify.com/artist/7gDYcXocmhQcTiVy1z9AyO) | [Duchesse](https://open.spotify.com/album/330hDxHxMjD4AOt5ZfWrud) | 3:30 | 2022-06-28 | 2022-10-05 |
 | [Déjà vu](https://open.spotify.com/track/4LJuCbx2qKSBOK3xpuZ2Pq) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Déjà vu](https://open.spotify.com/album/4gIfw2WilJEWpAZLoDqosk) | 3:48 | 2022-09-21 |  |
 | [Early Morning Thoughts](https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 6:44 | 2022-09-13 |  |

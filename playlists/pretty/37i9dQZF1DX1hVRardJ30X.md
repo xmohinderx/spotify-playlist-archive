@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Nio Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,290 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,447 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 14 | [No Pinto Pajaritos](https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [No Pinto Pajaritos](https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh) | 2:25 |
 | 15 | [Los Celos Se Te Notan](https://open.spotify.com/track/66YC8rcYpImTugAA2m2yUb) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Los Celos Se Te Notan](https://open.spotify.com/album/2zg7DDi8vJ2gYy4wq2n1TG) | 3:10 |
 | 16 | [GALAXIA](https://open.spotify.com/track/2l5nYp9Mb7I0jikQF1df5N) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [GALAXIA](https://open.spotify.com/album/7zLvUlkM9z9ZoQEyyb9gv4) | 3:48 |
-| 17 | [Hoy](https://open.spotify.com/track/2Rq1HMitTCyDarpNbtJ5b9) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Hoy](https://open.spotify.com/album/5NpLWVbpJ0q1iFRDkPaOjK) | 2:55 |
-| 18 | [Mi Gata \- Remix](https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mi Gata \(Remix\)](https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE) | 3:46 |
+| 17 | [Hoy](https://open.spotify.com/track/2Rq1HMitTCyDarpNbtJ5b9) | [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Hoy](https://open.spotify.com/album/5NpLWVbpJ0q1iFRDkPaOjK) | 2:55 |
+| 18 | [Mi Gata \- Remix](https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mi Gata \(Remix\)](https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE) | 4:06 |
 | 19 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 |
 | 20 | [ODISEA](https://open.spotify.com/track/6xf7EMkgOnsdkwtLj524Gr) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [ODISEA](https://open.spotify.com/album/6VrCQZOumRGIfk3EsjyfZN) | 4:02 |
 | 21 | [Como Tú](https://open.spotify.com/track/6yWpPKvt3aJ22i2cpB2QTG) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [Como Tú](https://open.spotify.com/album/1uGYD7JyIY9FwNc0pFCB4b) | 2:59 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 48 | [Déjalo Ir \- Live](https://open.spotify.com/track/0GG5sGn9OC4fiazlZgatXY) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4), [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Déjalo Ir \(Live\)](https://open.spotify.com/album/1WGPvdz3m5do4yKAtcAVyp) | 4:17 |
 | 49 | [NADA ES SEGURO](https://open.spotify.com/track/6cVQ48CDvEtjE6iYS579as) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [NADA ES SEGURO](https://open.spotify.com/album/0ARWP2duNEOvDQdJzsI76R) | 3:24 |
 | 50 | [HOOKEADO](https://open.spotify.com/track/2JT7nhBeq8MmXA2eXw8PVI) | [M4gna](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Zaucy](https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv) | [HOOKEADO](https://open.spotify.com/album/5tYlkPSdhU14V6LZlvP1Ka) | 3:17 |
-| 51 | [Me Empiezo Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
+| 51 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 |
 | 52 | [Lazzy](https://open.spotify.com/track/00m9LoUzwRcB3itLWc8bmw) | [Blasini](https://open.spotify.com/artist/0Yn9E3YIAq6V0Ug4YTzUP7) | [Lazzy](https://open.spotify.com/album/3ADCHdaqwaSXNgIQv6qAMF) | 3:06 |
 | 53 | [157](https://open.spotify.com/track/5egIs8tlifQ6vdOfK89Td5) | [Maggic](https://open.spotify.com/artist/1ItNVcT1VXX8JcgBtS6C54), [Mike Marino](https://open.spotify.com/artist/4oqS2lS8atL3RlsMe66lol) | [157](https://open.spotify.com/album/0phYTK3N3RZrrxmhe50kiy) | 3:12 |
 | 54 | [Alejandra](https://open.spotify.com/track/4DD51WsiZ85WdiJ8W6JbPx) | [ItsNotElena](https://open.spotify.com/artist/4aHzMxnGCpBxycjFNhSSqG) | [Alejandra](https://open.spotify.com/album/2tHi2Xu8tuUpoEHJFNJzAj) | 2:47 |

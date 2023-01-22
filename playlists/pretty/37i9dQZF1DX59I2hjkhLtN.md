@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Lil Mapz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,754 likes - 111 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,759 likes - 111 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 8 | [DISPARA](https://open.spotify.com/track/6CXtClKJQvhErH0tLkY1S3) | [Pta](https://open.spotify.com/artist/3VIQzyoHE4thDQjYkR0AEA), [Bully Firmaloko](https://open.spotify.com/artist/3h2hZep6OzgSSo5Km4iWH9) | [DISPARA](https://open.spotify.com/album/5cvlEKE5tzK35WoF6DIqba) | 2:51 |
 | 9 | [Lama](https://open.spotify.com/track/1O9Fy1FR7w2v6L0mfxZHYn) | [TILHON](https://open.spotify.com/artist/6s6mY5Dhbh9Qrg118P3qcO), [Domini](https://open.spotify.com/artist/4NVf3BfOVAKKEHFeAWH47C) | [Lama](https://open.spotify.com/album/1cPjuidozpszzqbvMoEISQ) | 3:51 |
 | 10 | [Tudo Certo \[C'est Carré\]](https://open.spotify.com/track/5qKPHuqZjPZRKBV0uPzrl5) | [Chav](https://open.spotify.com/artist/1otM9dcrZZ5Tsquh17qzkS), [Rassos](https://open.spotify.com/artist/4nfXuz7uLaOiLRZOcyHmmt) | [Tudo Certo \[C'est Carré\]](https://open.spotify.com/album/25m7KC01FYWq4DykpGGasZ) | 2:32 |
-| 11 | [Don't Take Me Back](https://open.spotify.com/track/5ZrWoWMmeFQATS6rzacagW) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE), [Sylver YK](https://open.spotify.com/artist/3TFxFSl7NMgHupaMiz0fyt) | [Don't Take Me Back](https://open.spotify.com/album/106L59syTiMLUQEGTlXuM6) | 3:01 |
+| 11 | [Don't Take Me Back](https://open.spotify.com/track/5ZrWoWMmeFQATS6rzacagW) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE), [Silver YK](https://open.spotify.com/artist/3D7gt1ZX2aR7k0OvmdYeBc) | [Don't Take Me Back](https://open.spotify.com/album/106L59syTiMLUQEGTlXuM6) | 3:01 |
 | 12 | [Baby Cê é Gata](https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Baby Cê é Gata](https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De) | 1:58 |
 | 13 | [Fina](https://open.spotify.com/track/5nEWejRvxVZy0YAa6ttt2i) | [Jxl](https://open.spotify.com/artist/56RRj6l8qlke1ynxqZQgiX) | [Fina](https://open.spotify.com/album/2BYQS9P4D31N6noQBzQwc2) | 2:45 |
 | 14 | [Ghetto Superstars](https://open.spotify.com/track/1KVCbIvSAbLM7BOF3BjUO6) | [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla), [Dstar](https://open.spotify.com/artist/3DdlhtzIfv8fBhO7kHgU1P) | [Ghetto Superstars](https://open.spotify.com/album/4lMmnsh3W2lCxnV9tm33nf) | 3:18 |

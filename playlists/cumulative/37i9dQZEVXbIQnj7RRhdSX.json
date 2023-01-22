@@ -600,7 +600,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-16",
+      "date_removed": null,
       "duration_ms": 202191,
       "name": "ABISSALE",
       "url": "https://open.spotify.com/track/5z7JlQ74N2M57PRIEI9oE6"
@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-16",
+      "date_removed": null,
       "duration_ms": 174103,
       "name": "BELLA FREGATURA",
       "url": "https://open.spotify.com/track/11H6R8nu1QxB1yGWHgzKl7"
@@ -3990,7 +3990,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 182153,
       "name": "Chiudi Gli Occhi",
       "url": "https://open.spotify.com/track/7Iq93UBQAA4zSYVkbKDJBO"
@@ -6517,6 +6517,28 @@
     },
     {
       "album": {
+        "name": "Radio Gotham",
+        "url": "https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154186,
+      "name": "Due facce (feat. Tedua)",
+      "url": "https://open.spotify.com/track/7p61OgG8P2p0zdH2lNLUU3"
+    },
+    {
+      "album": {
         "name": "Duecentomila ore",
         "url": "https://open.spotify.com/album/7DZEFakK4SfIg3IbnVNta5"
       },
@@ -7324,6 +7346,28 @@
       "duration_ms": 199413,
       "name": "FANTASMI (feat. Geolier & Marracash)",
       "url": "https://open.spotify.com/track/3uNEz1wYbu8s34jKDVVhMs"
+    },
+    {
+      "album": {
+        "name": "Radio Gotham",
+        "url": "https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133266,
+      "name": "Fantasmi (feat. Geolier)",
+      "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
     },
     {
       "album": {
@@ -8684,6 +8728,28 @@
       "duration_ms": 216426,
       "name": "GoodFellas",
       "url": "https://open.spotify.com/track/2PWAIzTuEfbxyob6rpwhss"
+    },
+    {
+      "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168280,
+      "name": "GOSSIP (feat. Tom Morello)",
+      "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
     },
     {
       "album": {
@@ -11421,6 +11487,28 @@
     },
     {
       "album": {
+        "name": "Radio Gotham",
+        "url": "https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149493,
+      "name": "Lamette (feat. Salmo)",
+      "url": "https://open.spotify.com/track/1NCyzQwhhBc2muaA3bjRvH"
+    },
+    {
+      "album": {
         "name": "Lamette (feat. Salmo)",
         "url": "https://open.spotify.com/album/0Q0o2IRC1cRIbyEHMCU7Qq"
       },
@@ -11436,7 +11524,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 149493,
       "name": "Lamette (feat. Salmo)",
       "url": "https://open.spotify.com/track/2Nr4PguvvtFORJfUWNrBRD"
@@ -12198,7 +12286,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 220813,
       "name": "Lontano Dai Guai (feat. Mahmood)",
       "url": "https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf"
@@ -13284,7 +13372,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 173495,
       "name": "ME VULEV FA RUOSS",
       "url": "https://open.spotify.com/track/5ZBIeRCyYvb0nGEtsvuth8"
@@ -15644,7 +15732,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 158666,
       "name": "NUN SE VER (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/2Buy0H2VxXZ8bmTp1fH5UA"
@@ -18056,7 +18144,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 184000,
       "name": "RICCHEZZA",
       "url": "https://open.spotify.com/track/1ZtubpenKBRE4ACrynt0MA"
@@ -20834,10 +20922,28 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP"
     },
     {
       "album": {

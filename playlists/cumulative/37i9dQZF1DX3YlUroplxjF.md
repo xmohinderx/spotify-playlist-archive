@@ -4,7 +4,7 @@
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Turnstile
 
-378 songs - 21 hr 55 min
+379 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Heart\-Shaped Box](https://open.spotify.com/track/0nv8LBkWyWSO5tFSYh2Kb1) | [Living in Fiction](https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET) | [Heart\-Shaped Box](https://open.spotify.com/album/2jIJI9Bdb5U9N59ZsAo3v5) | 4:40 | 2021-11-30 | 2022-07-28 |
 | [Heavy Hearts](https://open.spotify.com/track/74W1MT74Vr6Z3FIE49DMWf) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Distance](https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA) | 3:33 | 2021-11-30 | 2022-07-17 |
 | [Heel](https://open.spotify.com/track/0bOkJLKU60EJ3Z6Kcl1ogk) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [The Longest Lonesome](https://open.spotify.com/album/1K937ul4FkJiKufynQWtF4) | 3:03 | 2021-11-30 | 2022-07-27 |
-| [Hell Is Where The Heart Is](https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [The Dead Days](https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn) | 3:32 | 2021-11-30 |  |
+| [Hell Is Where The Heart Is](https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [The Dead Days](https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn) | 3:32 | 2021-11-30 | 2023-01-22 |
 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 | 2022-04-01 |  |
 | [Hereafter](https://open.spotify.com/track/6u2qyJK7Zw5T5ZYgNtfVdM) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Hereafter](https://open.spotify.com/album/21hp02VbDwdcfgJWQdZMTP) | 4:15 | 2021-11-30 | 2022-07-27 |
 | [High Horse](https://open.spotify.com/track/4fox41rQRgYVthMdjnuJNO) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [High Horse](https://open.spotify.com/album/2IiZSD6WAXIwd9EiQ0KxL3) | 2:47 | 2021-11-30 | 2022-07-29 |
@@ -371,6 +371,7 @@
 | [Useless Hands](https://open.spotify.com/track/4RaO6AytPosGrVFMKLZznb) | [Rival Town](https://open.spotify.com/artist/49KEHU4tamf9YVgxUvVKUM) | [Useless Hands](https://open.spotify.com/album/6b8Vk2RmN89BMFCqVSfaaz) | 3:42 | 2022-04-01 | 2022-04-21 |
 | [Velvet Dreams](https://open.spotify.com/track/6EX9kqSPHt2oJKnWiiYADD) | [A Boy Named John](https://open.spotify.com/artist/7fYxDRNZREuC9Dht93kX5G) | [Velvet Dreams](https://open.spotify.com/album/5FuYsZlepb3G4NxazH0HlP) | 4:06 | 2021-11-30 | 2022-07-07 |
 | [Walk On](https://open.spotify.com/track/4vUWzxdmtVqMonTp97JIOf) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Walk On](https://open.spotify.com/album/5854MVXCfaOOY1GHuZJEjg) | 3:34 | 2021-11-30 | 2022-07-28 |
+| [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 | 2023-01-22 |  |
 | [Were You Nervous?](https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0) | [Speech Patterns](https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e) | [Were You Nervous?](https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q) | 3:28 | 2021-11-30 | 2022-11-13 |
 | [We’ll Always Have Paris](https://open.spotify.com/track/4sYQbdudBHfgKDXhrVmycI) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [We'll Always Have Paris](https://open.spotify.com/album/3iKYHiyK0w7wo72SzKOv9l) | 3:47 | 2021-11-30 | 2022-07-27 |
 | [We’ll Always Have Paris](https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Restless Heart, Keep Running](https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ) | 3:47 | 2022-04-01 |  |

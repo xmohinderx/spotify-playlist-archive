@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 183043,
+  "num_followers": 183040,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDc5OGFlMTU2NzhhZmM0MWYzZTQwMDZkYWNjMGM1N2Q2",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDIwMmY1ZTk1NTdmY2FmYTgwZTQ1MTc4ZDhjY2JmZTc0",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -253,22 +253,6 @@
       "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
     },
     {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "madhouse",
-        "url": "https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 211075,
-      "name": "madhouse",
-      "url": "https://open.spotify.com/track/36fC4xtAucJ7KH6sdSDDo7"
-    },
-    {
       "added_at": "2021-09-22 10:11:59",
       "album": {
         "name": "When You Were Mine",
@@ -283,6 +267,22 @@
       "duration_ms": 203483,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "madhouse",
+        "url": "https://open.spotify.com/album/3C7TLQLW8cXiDoogT7Hrlj"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 211075,
+      "name": "madhouse",
+      "url": "https://open.spotify.com/track/36fC4xtAucJ7KH6sdSDDo7"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -459,6 +459,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Undecided (with Marie Dahlstrom)",
         "url": "https://open.spotify.com/album/3JfLwZQDIGfCtsUXJpiFcG"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 176373,
       "name": "Undecided (with Marie Dahlstrom)",
       "url": "https://open.spotify.com/track/1TyStc858QNwSpXtDdxSly"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -835,6 +835,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Little Oblivions",
+        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Faith Healer",
+      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Little Oblivions",
-        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Faith Healer",
-      "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Slow Reveal: Chapter One",
-        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 195954,
-      "name": "Tethered, Wrapped Around",
-      "url": "https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "color theory",
         "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 337426,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Slow Reveal: Chapter One",
+        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 195954,
+      "name": "Tethered, Wrapped Around",
+      "url": "https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 256639,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/7sSEGFxjJTaT1amaNYOmWD"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 256639,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/5kuSneVOTmvanncpK3RZcl"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Magical Thinking",
-        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/77GXioLcswmFLd6wAqN2Eo"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
         "url": "https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 279613,
       "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
       "url": "https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/77GXioLcswmFLd6wAqN2Eo"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Pure Shores",
-        "url": "https://open.spotify.com/album/2NX9yKfOrF7F9BJEfv9K3P"
-      },
-      "artists": [
-        {
-          "name": "Eliza Shaddad",
-          "url": "https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E"
-        }
-      ],
-      "duration_ms": 232130,
-      "name": "Pure Shores",
-      "url": "https://open.spotify.com/track/6kfhbpmXRL9Cs5b47Ri3Qw"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Through Water",
         "url": "https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 234453,
       "name": "Womxn",
       "url": "https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/2NX9yKfOrF7F9BJEfv9K3P"
+      },
+      "artists": [
+        {
+          "name": "Eliza Shaddad",
+          "url": "https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E"
+        }
+      ],
+      "duration_ms": 232130,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/6kfhbpmXRL9Cs5b47Ri3Qw"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Wake UP!",
-        "url": "https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ"
-      },
-      "artists": [
-        {
-          "name": "Hazel English",
-          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
-        }
-      ],
-      "duration_ms": 173211,
-      "name": "Five and Dime",
-      "url": "https://open.spotify.com/track/3HgwWsgkhXJ2LsEFWywrHj"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "BREACH",
         "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 194973,
       "name": "Alapathy",
       "url": "https://open.spotify.com/track/3qJwMD0TRsejb73xbaT43o"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Wake UP!",
+        "url": "https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ"
+      },
+      "artists": [
+        {
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+        }
+      ],
+      "duration_ms": 173211,
+      "name": "Five and Dime",
+      "url": "https://open.spotify.com/track/3HgwWsgkhXJ2LsEFWywrHj"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1655,18 +1655,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "obsessed",
-        "url": "https://open.spotify.com/album/2RgYgVbpfItLr4jj3exBqF"
+        "name": "Lonely Dancer",
+        "url": "https://open.spotify.com/album/6w0ZfpZWsrqip4YoZ0bsTJ"
       },
       "artists": [
         {
-          "name": "IDER",
-          "url": "https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0"
+          "name": "Tricky",
+          "url": "https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO"
+        },
+        {
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5"
         }
       ],
-      "duration_ms": 296500,
-      "name": "obsessed",
-      "url": "https://open.spotify.com/track/2rFPYcUV0lUORTDvGymr5n"
+      "duration_ms": 187492,
+      "name": "Lonely Dancer",
+      "url": "https://open.spotify.com/track/5EDiJyIO6wvTms3qK2E4mk"
     }
   ],
   "unique_name": "Your Office Stereo",

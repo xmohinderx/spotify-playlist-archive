@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Trippie Redd & Juice WRLD, The Kid LAROI, boygenius, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,042,212 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,043,014 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 56 | [This Is How We Move](https://open.spotify.com/track/0EPvfQyCSDzywcFOF9H6Gt) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [This Is How We Move](https://open.spotify.com/album/2RaeZMQcqgAxuGEhVdSstZ) | 3:06 |
 | 57 | [In the Dark](https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Bubblegum](https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb) | 2:19 |
 | 58 | [Fairytale \(feat\. Rachel Chinouriri\)](https://open.spotify.com/track/0R4MlESQkltkYcFP5XyGPp) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Fairytale \(feat\. Rachel Chinouriri\)](https://open.spotify.com/album/5ve8QzX3p45KF77SiZjrCn) | 2:45 |
-| 59 | [Endless No More](https://open.spotify.com/track/1lOtWsnPUdnXn2bcplT02z) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No More](https://open.spotify.com/album/0WScYTZpMayaB5X0VjXtdX) | 3:12 |
+| 59 | [Endless No Mores](https://open.spotify.com/track/1lOtWsnPUdnXn2bcplT02z) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Endless No Mores](https://open.spotify.com/album/0WScYTZpMayaB5X0VjXtdX) | 3:12 |
 | 60 | [KILLERS AND ROBBERS \(feat\. Denzel Curry, midwxst & Matt Ox\)](https://open.spotify.com/track/2XXFajkaWMZ2ukPNPKgLWa) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Matt Ox](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [KILLERS AND ROBBERS \(feat\. Denzel Curry, midwxst & Matt Ox\)](https://open.spotify.com/album/7lmOXBynobuVCEBgVwPEOC) | 3:19 |
 | 61 | [Mood Swings](https://open.spotify.com/track/3bAmJS0k2yQsNLEouw4B9d) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [Mood Swings](https://open.spotify.com/album/5aA0oTJqtEEDFo4oQxmoKv) | 2:25 |
 | 62 | [Can't Leave](https://open.spotify.com/track/2vLhhodRmyz4YmwbXSNNeb) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Can't Leave](https://open.spotify.com/album/16teSPlsvin30vK4t8DgK9) | 2:54 |

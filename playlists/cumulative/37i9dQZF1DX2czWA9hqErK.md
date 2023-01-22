@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-440 songs - 1 day 0 hr 47 min
+441 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Magazines](https://open.spotify.com/track/7gT71c6WzCkifRtSQbggGz) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Magazines](https://open.spotify.com/album/4hL7bPlgURwziybd5zBuEo) | 3:40 | 2021-12-16 | 2021-12-27 |
 | [Make Believe](https://open.spotify.com/track/01zA432f5V0ssx6YbMgk18) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/3NT1Gm0ikf2rUNlUT1bpL4) | 3:53 | 2021-12-16 | 2022-04-27 |
 | [Mama Said](https://open.spotify.com/track/4ZwB14yES6W9CvmnCtV437) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Mama Said](https://open.spotify.com/album/3f1baSN725q4v2aDdJZtoh) | 3:45 | 2022-05-31 | 2022-10-22 |
-| [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 | 2022-08-02 |  |
+| [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 | 2022-08-02 | 2023-01-22 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-09-13 |  |
 | [Maybe I Know You](https://open.spotify.com/track/4mzKMjm4GLzhYhc5V7edRr) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Maybe I Know You](https://open.spotify.com/album/7MrgHjMvUPHkNRDsTJd4Su) | 3:26 | 2022-03-25 | 2022-07-23 |
 | [Me & God](https://open.spotify.com/track/1WD6aPY8CH9ymhKFrySD5K) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Me & God](https://open.spotify.com/album/22q4KL4mUJzuUaUAPYM5Hv) | 2:55 | 2022-02-21 | 2023-01-07 |
@@ -422,6 +422,7 @@
 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 | 2022-03-25 | 2022-10-01 |
 | [We Cry](https://open.spotify.com/track/2gXbtADykoLc8IiA3NBLt3) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [We Cry](https://open.spotify.com/album/69q3Au1hkKj9eQB7eA7rD0) | 3:47 | 2021-12-16 | 2022-03-28 |
 | [we were younger then](https://open.spotify.com/track/25PMrVEHB19u2R0ySwyzfT) | [Super French](https://open.spotify.com/artist/0Rar2pZaoZtcZqEjf5H4ri) | [we were younger then](https://open.spotify.com/album/5n7lZzTawcGiKWEcEXXIaQ) | 3:56 | 2022-02-21 | 2022-07-19 |
+| [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-01-20 |  |
 | [welcome to the sidelines](https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [is that all there is?](https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK) | 2:57 | 2022-03-29 | 2022-04-20 |
 | [What Happened To Us](https://open.spotify.com/track/0JRI1BFQeXr9Psp5giqOcA) | [Leah Moran](https://open.spotify.com/artist/5fSNN8Okh5RzKnYyBFBsFe) | [What Happened To Us](https://open.spotify.com/album/2DncM1htN6lXqxhQXT0K7k) | 4:18 | 2022-03-25 | 2022-04-20 |
 | [What Next](https://open.spotify.com/track/65VklTwNc5HoOH46Y8dN5g) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [What Next](https://open.spotify.com/album/2XoMPeRE5MuVrVrp5tptqu) | 3:31 | 2021-12-16 | 2022-04-27 |

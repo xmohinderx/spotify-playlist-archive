@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 73259,
+  "num_followers": 73353,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMGI1YzUzYmE1ZDA0NDBiODA2Yzc2OTk3NjQ2ZDlkYzg3",
+  "snapshot_id": "MTY1MDkxNjQ0NCwwMDAwMDAwMGQ4N2ViNTY2MmJiOGU0Y2Y1YTgxMjlhZDMwOTk5ZTBl",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "ActorCaster",
-        "url": "https://open.spotify.com/album/6E431m4hnKJomE4EhddGtB"
-      },
-      "artists": [
-        {
-          "name": "Generationals",
-          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "TenTwentyTen",
-      "url": "https://open.spotify.com/track/5v6fwkgHeF0N32LmEoQyQB"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 216604,
       "name": "Montezuma",
       "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "ActorCaster",
+        "url": "https://open.spotify.com/album/6E431m4hnKJomE4EhddGtB"
+      },
+      "artists": [
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "TenTwentyTen",
+      "url": "https://open.spotify.com/track/5v6fwkgHeF0N32LmEoQyQB"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Within and Without",
-        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
       "artists": [
         {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 265866,
-      "name": "Amor Fati",
-      "url": "https://open.spotify.com/track/2zCm8GoOtiDbUoKbjHEGg1"
+      "duration_ms": 235374,
+      "name": "Reunion",
+      "url": "https://open.spotify.com/track/7zZkPiqHnL7icGGb4Almf6"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+        "name": "Within and Without",
+        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
       },
       "artists": [
         {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 235374,
-      "name": "Reunion",
-      "url": "https://open.spotify.com/track/7zZkPiqHnL7icGGb4Almf6"
+      "duration_ms": 265866,
+      "name": "Amor Fati",
+      "url": "https://open.spotify.com/track/2zCm8GoOtiDbUoKbjHEGg1"
     },
     {
       "added_at": "2021-09-02 08:15:11",

@@ -4,7 +4,7 @@
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-128 songs - 9 hr 33 min
+129 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Help Me](https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Best Of The Vanguard Years](https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3) | 3:30 | 2022-05-25 |  |
 | [Help Me](https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [More Real Folk Blues](https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV) | 3:08 | 2022-05-25 |  |
 | [Hiding Place](https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Hiding Place](https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D) | 7:23 | 2022-05-25 |  |
-| [Honey Bee](https://open.spotify.com/track/0dYOgkn38HzlbfPixiobYA) | [Oliver Darling](https://open.spotify.com/artist/5wU74VdLtnvreTbydFZg6f) | [Lee's Blues](https://open.spotify.com/album/1nGxSeKWJlbUgOERip9lIA) | 1:46 | 2022-11-18 |  |
+| [Honey Bee](https://open.spotify.com/track/0dYOgkn38HzlbfPixiobYA) | [Oliver Darling](https://open.spotify.com/artist/5wU74VdLtnvreTbydFZg6f) | [Lee's Blues](https://open.spotify.com/album/1nGxSeKWJlbUgOERip9lIA) | 1:46 | 2022-11-18 | 2023-01-22 |
 | [How Blue Can You Get](https://open.spotify.com/track/1quawSUUeGvIaVcClgEjJH) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [How Blue Can You Get](https://open.spotify.com/album/3BPCyNp90t5O2e1kjWVrGR) | 7:16 | 2022-05-25 | 2022-07-29 |
 | [How Blue Can You Get](https://open.spotify.com/track/2P5nxLbWpdpFrrt03R7fU0) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [How Blue Can You Get](https://open.spotify.com/album/0ZpuZkMjlRYETgOAjVAaZp) | 7:16 | 2022-07-08 |  |
 | [How Unlucky Can One Man Be](https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [Nick Holt](https://open.spotify.com/artist/33vrw08zWB0fcGP8sGFWCo), [The Teardrops](https://open.spotify.com/artist/4sCjplymm6JRWbieiNWhto) | [You Can't Lose What You Ain't Never Had](https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ) | 7:13 | 2022-07-08 |  |
@@ -86,6 +86,7 @@
 | [Mean Blues](https://open.spotify.com/track/1Q57HueU3dO9hZB5ALMlPh) | [Floyd Lee Band](https://open.spotify.com/artist/4jSXw5yTDrfBBjnlwBMVud) | [Mean Blues](https://open.spotify.com/album/3rmhmQt2WqS7rhwalTlGBS) | 4:57 | 2022-07-08 | 2022-10-02 |
 | [Midnight Healing](https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn) | [Gene Deer](https://open.spotify.com/artist/2eIkIIArGbSEVLzC0rHxGV) | [Soul Tender](https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn) | 7:39 | 2022-05-25 |  |
 | [Midnight in Mississippi '22](https://open.spotify.com/track/31rHw7L2PnXw53oNzH1FgI) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Midnight in Mississippi '22](https://open.spotify.com/album/78vmcDjMM4wIn6CppzngNt) | 3:58 | 2022-11-18 |  |
+| [Mississippi \- Version 2](https://open.spotify.com/track/4T7zdEt6EPBYPINynERjCN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Mississippi \(Version 2\)](https://open.spotify.com/album/4mAnAlXFfFIlnzNRV8cCfR) | 5:12 | 2023-01-20 |  |
 | [Need Her So Bad](https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 7:00 | 2022-05-25 |  |
 | [Nothing But Love](https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [Contemporary](https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7) | 3:02 | 2022-11-18 |  |
 | [Old Time Used to Be](https://open.spotify.com/track/5qORQA2LGzwmmCjLgHtHS6) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Blues Comin' On](https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa) | 5:17 | 2022-05-25 |  |

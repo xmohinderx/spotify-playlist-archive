@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 130822,
+  "num_followers": 130991,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGE0YTRmYjMxZGQ2NGZjMmFhNjg0MDdiNjU4NTZhZmZh",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMGY0Mjk5MzBiNGZjYTk0NTIzOTQ4MTBlZDg2ZTExMDFh",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Christian Dior",
+      "url": "https://open.spotify.com/track/11hBaUK4uHt1KPkwfPoTwN"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "La Mentira (Remix)",
         "url": "https://open.spotify.com/album/1wFqv2q07zfETMmB1NMDyC"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 388800,
       "name": "La Mentira - Remix",
       "url": "https://open.spotify.com/track/4jBpZsZ9qx3cZhoEfuKElF"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Christian Dior",
-      "url": "https://open.spotify.com/track/11hBaUK4uHt1KPkwfPoTwN"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1351,6 +1351,38 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Pirueta (with Arcangel, Chencho Corleone, feat. Wisin & Yandel, Myke Towers)",
+        "url": "https://open.spotify.com/album/0kWQUKdi65F4BGLS5MErWu"
+      },
+      "artists": [
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 275241,
+      "name": "Pirueta (with Arcangel, Chencho Corleone, feat. Wisin & Yandel, Myke Towers)",
+      "url": "https://open.spotify.com/track/5tx7TTJEcrV5642l0Sn2sD"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "INMORTALES",
         "url": "https://open.spotify.com/album/1BgFh3hB11NofWQ2ok6sN3"
       },
@@ -1387,38 +1419,6 @@
       "duration_ms": 175258,
       "name": "Las Naik",
       "url": "https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Pirueta (with Arcangel, Chencho Corleone, feat. Wisin & Yandel, Myke Towers)",
-        "url": "https://open.spotify.com/album/0kWQUKdi65F4BGLS5MErWu"
-      },
-      "artists": [
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 275241,
-      "name": "Pirueta (with Arcangel, Chencho Corleone, feat. Wisin & Yandel, Myke Towers)",
-      "url": "https://open.spotify.com/track/5tx7TTJEcrV5642l0Sn2sD"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1731,30 +1731,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Maripilili",
-        "url": "https://open.spotify.com/album/2MZrJsF1esve4XOPwzo2HB"
-      },
-      "artists": [
-        {
-          "name": "Bayron Fire",
-          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
-        },
-        {
-          "name": "Betoven",
-          "url": "https://open.spotify.com/artist/3cvPEXfyczjHNpK65vu7pM"
-        },
-        {
-          "name": "Hebreo",
-          "url": "https://open.spotify.com/artist/3AHbiOgxmUv4eB0XMm5KIc"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Maripilili",
-      "url": "https://open.spotify.com/track/49yDQnnHEJWRscoRYQrroF"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Pa\u00b4 Mi Casa",
         "url": "https://open.spotify.com/album/2YzcyoOMf38T98oHrSosU2"
       },
@@ -1775,6 +1751,30 @@
       "duration_ms": 241693,
       "name": "Pa\u00b4 Mi Casa",
       "url": "https://open.spotify.com/track/0JT2Dre9yTRQmetBwpKuvG"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Maripilili",
+        "url": "https://open.spotify.com/album/2MZrJsF1esve4XOPwzo2HB"
+      },
+      "artists": [
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        },
+        {
+          "name": "Betoven",
+          "url": "https://open.spotify.com/artist/3cvPEXfyczjHNpK65vu7pM"
+        },
+        {
+          "name": "Hebreo",
+          "url": "https://open.spotify.com/artist/3AHbiOgxmUv4eB0XMm5KIc"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Maripilili",
+      "url": "https://open.spotify.com/track/49yDQnnHEJWRscoRYQrroF"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1859,6 +1859,30 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Baby Drip",
+        "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Baby Drip",
+      "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "ANHMATSV",
         "url": "https://open.spotify.com/album/5cpUiATf6r2KWEBb9aGPqz"
       },
@@ -1887,6 +1911,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Dime a Ver",
+        "url": "https://open.spotify.com/album/07pNV2FTFF3reWYPGJZUnm"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 164078,
+      "name": "Dime a Ver",
+      "url": "https://open.spotify.com/track/5FjzRMC47xFaNAxGyN5iVr"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Como Si Nah (feat. KEVVO)",
         "url": "https://open.spotify.com/album/4OhsVQMAJ94vPXS4KCOn0M"
       },
@@ -1911,46 +1951,6 @@
       "duration_ms": 196261,
       "name": "Como Si Nah (feat. KEVVO)",
       "url": "https://open.spotify.com/track/5yUW86tRavTvP8OTfVChtL"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Dime a Ver",
-        "url": "https://open.spotify.com/album/07pNV2FTFF3reWYPGJZUnm"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 164078,
-      "name": "Dime a Ver",
-      "url": "https://open.spotify.com/track/5FjzRMC47xFaNAxGyN5iVr"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Baby Drip",
-        "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
-        },
-        {
-          "name": "Nahuel The Coach",
-          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Baby Drip",
-      "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
     },
     {
       "added_at": "2022-11-18 03:00:00",

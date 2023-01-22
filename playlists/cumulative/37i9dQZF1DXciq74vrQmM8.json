@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "EAT IT UP SPIT IT OUT",
+        "url": "https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM"
+      },
+      "artists": [
+        {
+          "name": "Holy Wars",
+          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165282,
+      "name": "21ST CENTURY BITCH",
+      "url": "https://open.spotify.com/track/2car32KMDF9AbUTbRYq5q4"
+    },
+    {
+      "album": {
         "name": "2much",
         "url": "https://open.spotify.com/album/5OJZzfiSO8qZ7KM5A7U3F6"
       },
@@ -128,7 +146,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 142820,
       "name": "all my friends",
       "url": "https://open.spotify.com/track/1iOfDDaBNgV2qJhNBRe33l"
@@ -146,7 +164,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 149026,
       "name": "ALLIGATOR",
       "url": "https://open.spotify.com/track/6ncPi3mb947i4CrummFrGF"
@@ -334,7 +352,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 150866,
       "name": "arsonists",
       "url": "https://open.spotify.com/track/0UgaULuxHpywl4Sgjk25g7"
@@ -594,7 +612,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-18",
+      "date_removed": null,
       "duration_ms": 183016,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/24A9gRCWE4Jza8DDhnur6C"
@@ -982,6 +1000,24 @@
       "duration_ms": 110310,
       "name": "Breakhearts",
       "url": "https://open.spotify.com/track/1c1Vw5n3oNvUk4AhsohBqC"
+    },
+    {
+      "album": {
+        "name": "never goes down like that (ft. Ezekiel)",
+        "url": "https://open.spotify.com/album/603LFBRrrCMiwfQlBaQNwl"
+      },
+      "artists": [
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135713,
+      "name": "brkdwn",
+      "url": "https://open.spotify.com/track/17Ag5tNS39vOxvygMVlnJU"
     },
     {
       "album": {
@@ -1446,7 +1482,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 195496,
       "name": "Crying In Nightclub Bathrooms",
       "url": "https://open.spotify.com/track/6WMsGpTydHmOtmgtkygmHH"
@@ -2538,7 +2574,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 135470,
       "name": "for a reason",
       "url": "https://open.spotify.com/track/10pjqdHFr1ZjO5nrU6Crwz"
@@ -3152,7 +3188,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 169353,
       "name": "Heart Of Stone",
       "url": "https://open.spotify.com/track/2kxIhwthbIgiTVBEdqGaoF"
@@ -3304,6 +3340,28 @@
       "duration_ms": 227533,
       "name": "Holier",
       "url": "https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox"
+    },
+    {
+      "album": {
+        "name": "Horror Scene (feat. aldn)",
+        "url": "https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX"
+      },
+      "artists": [
+        {
+          "name": "Xowie Jones",
+          "url": "https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij"
+        },
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119396,
+      "name": "Horror Scene (feat. aldn)",
+      "url": "https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR"
     },
     {
       "album": {
@@ -4394,6 +4452,24 @@
       "duration_ms": 237649,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/1nXKFCz88CcR0ACWmyHrDS"
+    },
+    {
+      "album": {
+        "name": "My Agenda",
+        "url": "https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87672,
+      "name": "M'Lady",
+      "url": "https://open.spotify.com/track/2i9yWmgHVqWW1vmXtxUaN9"
     },
     {
       "album": {
@@ -5643,6 +5719,24 @@
     },
     {
       "album": {
+        "name": "GFOTYBUCKS",
+        "url": "https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH"
+      },
+      "artists": [
+        {
+          "name": "GFOTY",
+          "url": "https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166188,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/3Ruv9GEcztgqxDvbOL3ccT"
+    },
+    {
+      "album": {
         "name": "PORN ACTING*",
         "url": "https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk"
       },
@@ -6298,7 +6392,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 104000,
       "name": "SHAME ON ME",
       "url": "https://open.spotify.com/track/79KWjMj9Q3qDylVbCXmSzk"
@@ -6638,7 +6732,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 118343,
       "name": "stay alone",
       "url": "https://open.spotify.com/track/4oGe4nBE3pxLq1oO31qtux"
@@ -6840,7 +6934,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 132474,
       "name": "Talking To Myself",
       "url": "https://open.spotify.com/track/770scgQUE3GaT1HeemGdtp"
@@ -7719,6 +7813,28 @@
     },
     {
       "album": {
+        "name": "Witch Hunt",
+        "url": "https://open.spotify.com/album/0lKuTAQI0YyQ7wUghrnX1z"
+      },
+      "artists": [
+        {
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
+        },
+        {
+          "name": "DEZI",
+          "url": "https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159821,
+      "name": "Witch Hunt",
+      "url": "https://open.spotify.com/track/4TFXmB2WOm1G5CnVcejVQb"
+    },
+    {
+      "album": {
         "name": "Wokeup!",
         "url": "https://open.spotify.com/album/53OYdcHlqKCw1qvzDAWTZY"
       },
@@ -7878,6 +7994,24 @@
       "duration_ms": 158924,
       "name": "You've Created a Monster",
       "url": "https://open.spotify.com/track/6TeKpZbqRo3QEIPKUUzNQj"
+    },
+    {
+      "album": {
+        "name": "yum yum",
+        "url": "https://open.spotify.com/album/45sBDcxCcI8MFFwHmZsNVI"
+      },
+      "artists": [
+        {
+          "name": "Halo Boy",
+          "url": "https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "yum yum",
+      "url": "https://open.spotify.com/track/2SSg7q4KmjPAy3QV50X2Qe"
     },
     {
       "album": {

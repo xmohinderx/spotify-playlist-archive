@@ -2205,6 +2205,42 @@
     },
     {
       "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/0zR6lyMZuofipT1Mh4Glrn"
+      },
+      "artists": [
+        {
+          "name": "Clem Leek",
+          "url": "https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119063,
+      "name": "Patience Is A Virtue",
+      "url": "https://open.spotify.com/track/2KJkKZ6u3QRm9Xpu5I2CPB"
+    },
+    {
+      "album": {
+        "name": "Piety of Ashes",
+        "url": "https://open.spotify.com/album/6Nap8Im1EOFrqTVdoD8fAf"
+      },
+      "artists": [
+        {
+          "name": "The Flashbulb",
+          "url": "https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130720,
+      "name": "Precipice",
+      "url": "https://open.spotify.com/track/4CHIJuqR1jLfzA72THSzUm"
+    },
+    {
+      "album": {
         "name": "Dawning",
         "url": "https://open.spotify.com/album/3xdGge4Qff3JuWeGpIElmZ"
       },

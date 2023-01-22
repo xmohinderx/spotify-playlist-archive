@@ -4,7 +4,7 @@
 
 > Mujeres mexicanas a todo volumen\. Bratty en portada.
 
-487 songs - 1 day 3 hr 35 min
+488 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 | 2022-07-06 | 2022-08-04 |
 | [Canción Sin Miedo](https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ) | 3:33 | 2022-10-05 | 2022-11-03 |
 | [Capricho](https://open.spotify.com/track/514FAjdvx5C6w3X9YV1P5Q) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Capricho](https://open.spotify.com/album/5YANYVqUlxVKl1SzCu8quh) | 2:40 | 2022-07-06 | 2022-08-04 |
-| [Capuccino](https://open.spotify.com/track/4Q2KoZZ39QEtV1kzOD21W7) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Capuccino](https://open.spotify.com/album/73YaaHI0nNTzkD49Kjo3dI) | 3:46 | 2023-01-04 |  |
+| [Capuccino](https://open.spotify.com/track/4Q2KoZZ39QEtV1kzOD21W7) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Capuccino](https://open.spotify.com/album/73YaaHI0nNTzkD49Kjo3dI) | 3:46 | 2023-01-04 | 2023-01-22 |
+| [Capuccino](https://open.spotify.com/track/6nuLwhZNQt6k0HxYoM1nET) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Capuccino](https://open.spotify.com/album/2TQcTnuyLD0RyVqMItP2bj) | 3:49 | 2023-01-04 |  |
 | [Cariñito](https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cariñito](https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ) | 3:41 | 2022-07-06 | 2022-08-04 |
 | [Cariñito](https://open.spotify.com/track/26FBz04mrErn56k9I0iSxT) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [RUZZICOVERS](https://open.spotify.com/album/3nvMGeYALoHZ49WrNN3QL1) | 3:41 | 2022-09-07 | 2023-01-05 |
 | [Carpe Diem](https://open.spotify.com/track/0IvtIcfo55vpv0OuG3akRm) | [Mark Cast](https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1), [Barbie Mur](https://open.spotify.com/artist/0siqZtk7F1d20wjkwtpovx) | [Carpe Diem](https://open.spotify.com/album/2Nav67UyvI40ZgAveR8k2O) | 3:04 | 2022-04-06 | 2022-05-05 |

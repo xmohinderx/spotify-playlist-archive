@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5481\)
+## Playlists \(5482\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -1825,6 +1825,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Grandes Unplugged](/playlists/pretty/37i9dQZF1DWWFNSpryCCH5.md)
 - [Grandma's Home](/playlists/pretty/37i9dQZF1DXc2jw7z4RD7k.md)
 - [Grass Roots](/playlists/pretty/37i9dQZF1DXa2HpTqP3clz.md)
+- [Gray Area: Gene Farris' DJ Mix](/playlists/pretty/37i9dQZF1DX72mH039I3kb.md)
 - [Grazia Daily: Summer 2013](/playlists/pretty/2UwTnYkh7zZjMY6NEQdP95.md)
 - [Grazia Daily: The Best of Primavera](/playlists/pretty/2ns4wV7T6X3vlCnzxYwagu.md)
 - [Great Female Voices](/playlists/pretty/37i9dQZF1DX9loJQLuEvap.md)

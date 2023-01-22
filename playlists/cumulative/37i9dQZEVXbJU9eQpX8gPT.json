@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Alo Aleky",
+        "url": "https://open.spotify.com/album/0PpvOrpEHnxaxmzdrrpm26"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178885,
+      "name": "Alo Aleky",
+      "url": "https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp"
+    },
+    {
+      "album": {
         "name": "Cam\u00e9l\u00e9on",
         "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
       },
@@ -3106,7 +3124,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 157737,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/2aXOlru76awkfk3RgqGNRs"
@@ -5118,7 +5136,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
@@ -7208,7 +7226,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 140189,
       "name": "Icon",
       "url": "https://open.spotify.com/track/7rEuRZMcAq6XqLq8yaWOU4"
@@ -10011,6 +10029,28 @@
     },
     {
       "album": {
+        "name": "Vingt-deux",
+        "url": "https://open.spotify.com/album/3fmOPx6xuF1RA9yPunOwis"
+      },
+      "artists": [
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/0YVb75bOkTVz23irkQxPR7"
+    },
+    {
+      "album": {
         "name": "LV COCO",
         "url": "https://open.spotify.com/album/15MDWkpeViZTZrsRRM0BTP"
       },
@@ -10968,7 +11008,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 217103,
       "name": "Mentalit\u00e9",
       "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
@@ -15844,7 +15884,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-16",
+      "date_removed": null,
       "duration_ms": 140649,
       "name": "Sucr\u00e9 Sal\u00e9",
       "url": "https://open.spotify.com/track/357H2ZL3Ml7OH0MCrp4mwi"
@@ -15954,7 +15994,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-12",
+      "date_removed": null,
       "duration_ms": 214258,
       "name": "Sweet Night",
       "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
@@ -17146,7 +17186,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
@@ -17370,7 +17410,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-22",
       "duration_ms": 87768,
       "name": "Vision",
       "url": "https://open.spotify.com/track/73lpHC7wOGRQELNOTgxSNj"

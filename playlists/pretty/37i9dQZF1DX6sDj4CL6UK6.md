@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Best of Indian English tracks\. Cover\- Kamakshi Khanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,883 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,910 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 31 | [Bloom](https://open.spotify.com/track/39lOHITmszIVH9WF4Jpbum) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:39 |
 | 32 | [Remember](https://open.spotify.com/track/3cqeFHqx2y05J7skmbc743) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo) | 4:11 |
 | 33 | [Ashes](https://open.spotify.com/track/23il79F7rw8gQmcCNYFQsD) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Ashes](https://open.spotify.com/album/2Zws1XUEWAueEOFJX4jHPA) | 4:04 |
-| 34 | [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 |
-| 35 | [Mayflower](https://open.spotify.com/track/4uU5ALeQE7LN8rsv5IdVCW) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:09 |
+| 34 | [Mayflower](https://open.spotify.com/track/4uU5ALeQE7LN8rsv5IdVCW) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:09 |
+| 35 | [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 |
 | 36 | [Just A Word](https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just A Word](https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v) | 3:00 |
 | 37 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 |
 | 38 | [If I Tried](https://open.spotify.com/track/1GBzKGW8kLGhL6eMPZRly8) | [Sheil Sagar](https://open.spotify.com/artist/2PEzZphNZ2CtfL7V8j9AWy) | [If I Tried](https://open.spotify.com/album/7tAEmbfsN6V6fwnULj3rrd) | 4:18 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 55 | [Run to the Ocean](https://open.spotify.com/track/5LNCjqlDfOb8Pki1j1UWx5) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Run to the Ocean](https://open.spotify.com/album/7g114toMJHLl21XaZfh81e) | 4:10 |
 | 56 | [People](https://open.spotify.com/track/0lygeGFALYsTrHXi6yThOK) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [People \- Single](https://open.spotify.com/album/3ltUujzRKci71C5quo9TNS) | 3:08 |
 | 57 | [Maybe Tomorrow](https://open.spotify.com/track/2AuCCfMVTPtMS023qXYGlB) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [The Hills Know Of You](https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn) | 2:50 |
-| 58 | [Built to Fall Apart](https://open.spotify.com/track/1JnbUSdKSEuVSrQtpVHbW0) | [Sera Sanyal](https://open.spotify.com/artist/0ortRu9VeGzI3W1hrhFRM3) | [Built to Fall Apart](https://open.spotify.com/album/2VxmF9cxdv2gp1xS01lbk0) | 3:59 |
-| 59 | [Quietly](https://open.spotify.com/track/3aJDhov9eiYdUHCVaikyT9) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Quietly](https://open.spotify.com/album/4bkS3W1Ytu01CF01e8ZBFn) | 2:16 |
-| 60 | [Fooling Myself](https://open.spotify.com/track/6Lq5hNjil6j9xWwXqXfHv7) | [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6), [Emily Coupe](https://open.spotify.com/artist/0RJ6bq5MxjA0D8uAG6GHJb) | [Fooling Myself](https://open.spotify.com/album/1vHKyM6FTrN1r74juua4kq) | 3:24 |
-| 61 | [Start Over](https://open.spotify.com/track/00o6tjjeGukLZiL6E42Oki) | [Utope](https://open.spotify.com/artist/7vv9ZatuDKlxihVvSbLHbN), [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Start Over](https://open.spotify.com/album/4uAIRF3atS9Oy6xxmVoFdC) | 2:38 |
+| 58 | [Quietly](https://open.spotify.com/track/3aJDhov9eiYdUHCVaikyT9) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Quietly](https://open.spotify.com/album/4bkS3W1Ytu01CF01e8ZBFn) | 2:16 |
+| 59 | [Built to Fall Apart](https://open.spotify.com/track/1JnbUSdKSEuVSrQtpVHbW0) | [Sera Sanyal](https://open.spotify.com/artist/0ortRu9VeGzI3W1hrhFRM3) | [Built to Fall Apart](https://open.spotify.com/album/2VxmF9cxdv2gp1xS01lbk0) | 3:59 |
+| 60 | [Start Over](https://open.spotify.com/track/00o6tjjeGukLZiL6E42Oki) | [Utope](https://open.spotify.com/artist/7vv9ZatuDKlxihVvSbLHbN), [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Start Over](https://open.spotify.com/album/4uAIRF3atS9Oy6xxmVoFdC) | 2:38 |
+| 61 | [Fooling Myself](https://open.spotify.com/track/6Lq5hNjil6j9xWwXqXfHv7) | [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6), [Emily Coupe](https://open.spotify.com/artist/0RJ6bq5MxjA0D8uAG6GHJb) | [Fooling Myself](https://open.spotify.com/album/1vHKyM6FTrN1r74juua4kq) | 3:24 |
 | 62 | [As I'm Getting Older](https://open.spotify.com/track/1BwO9XLe7M3Qc4wrZ69wk9) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [As I'm Getting Older](https://open.spotify.com/album/4KzZtZPmRN1YfdIWczXFb7) | 3:33 |
-| 63 | [WORK](https://open.spotify.com/track/6VedreXPhq62y2Rrl8tuvU) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [WORK](https://open.spotify.com/album/10zQvCUAMF0mF2DIU2gT8Z) | 2:29 |
-| 64 | [Should I Ghost You...](https://open.spotify.com/track/2A15Ljc9Eu1wxwtmLtBpTY) | [Zodiac Wave](https://open.spotify.com/artist/3onhR4FeK0vglwIn5t2Xsy) | [Should I Ghost You...](https://open.spotify.com/album/3CFeHZxJgEC0AshQlK98BT) | 2:14 |
+| 63 | [Should I Ghost You...](https://open.spotify.com/track/2A15Ljc9Eu1wxwtmLtBpTY) | [Zodiac Wave](https://open.spotify.com/artist/3onhR4FeK0vglwIn5t2Xsy) | [Should I Ghost You...](https://open.spotify.com/album/3CFeHZxJgEC0AshQlK98BT) | 2:14 |
+| 64 | [WORK](https://open.spotify.com/track/6VedreXPhq62y2Rrl8tuvU) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [WORK](https://open.spotify.com/album/10zQvCUAMF0mF2DIU2gT8Z) | 2:29 |
 | 65 | [That Guy](https://open.spotify.com/track/2RC78RMiwvHtZV2OP8CK2h) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [That Guy](https://open.spotify.com/album/2mIp846Cag0BsUsUVQEH1N) | 3:54 |
 | 66 | [Through These Years](https://open.spotify.com/track/34OnHRNEwBUIzICP1FulTO) | [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq), [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Through These Years](https://open.spotify.com/album/2i4UWMCrYHyvV1pSllSDpu) | 3:43 |
 | 67 | [Faking Concern](https://open.spotify.com/track/479UQ7H4E9LFs7pJwDsJF6) | [Ishita Parakh](https://open.spotify.com/artist/0Fb1hND25pyPt3JSQAjIIV) | [Faking Concern](https://open.spotify.com/album/2rxkw4WM0iQ2kPIBx1AZ0I) | 2:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 74 | [Silent Prayer](https://open.spotify.com/track/5lKBXAO6zCWyh4FAWrrUpM) | [The Coconut Milk Project](https://open.spotify.com/artist/7ME0Ae7qHNi4yPx7362ZF2) | [Silent Prayer](https://open.spotify.com/album/5tHYe6Y8ppgg0S4hFOlccW) | 3:30 |
 | 75 | [Restless](https://open.spotify.com/track/0UH9PHiyuPQoxSPweocyRc) | [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Tintin](https://open.spotify.com/artist/4UqI6vZZIuZAT4d2yzVnYA), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Restless](https://open.spotify.com/album/5C2ibL4qlER3W5xgdogFZT) | 2:40 |
 
-Snapshot ID: `MTY3NDIwNjc2NCwwMDAwMDAwMGE1ODMxYTlmMzU1MjEwNmI2ZjFkNGI2MmQ2MmJkNDQ3`
+Snapshot ID: `MTY3NDIwNjc2NCwwMDAwMDAwMDNlZGVlZTM3MWNlMGYxNjdlMzc1YjgyY2NhYWQwMGYw`

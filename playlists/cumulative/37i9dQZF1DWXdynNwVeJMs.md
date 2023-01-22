@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-139 songs - 11 hr 45 min
+140 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Opalescent](https://open.spotify.com/track/5eKJw3rt8AteMAdixjvpjf) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Sub Surface](https://open.spotify.com/album/6SXiI193XZMG5LY7MoAmvQ) | 5:58 | 2022-09-08 |  |
 | [Opening 1.1.1](https://open.spotify.com/track/18nEqw47WXcG05rKgWnXzy) | [Aka Moon](https://open.spotify.com/artist/4t60EdEbfPZnelA5Qtxulk) | [Opus 111](https://open.spotify.com/album/0sTzPzqVcV9bDtST1BTcRq) | 4:24 | 2022-09-08 | 2022-12-07 |
 | [Orlando](https://open.spotify.com/track/7i09pfaygJs6QkxWYfHc2q) | [Toine Thys](https://open.spotify.com/artist/3zxSolAZlT84wysneC7GUU), [Maxime Sanchez](https://open.spotify.com/artist/68FIFAeVw14qZKFwYoVZVz), [Florent Nisse](https://open.spotify.com/artist/2Lc2XJPebxG3cwCltevhOA), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [Orlando](https://open.spotify.com/album/08JLLkOjNuMwgbRGFfMK4V) | 6:41 | 2022-09-08 |  |
-| [Out The Light](https://open.spotify.com/track/0RLbMwI4Yxl9HPe42lxRd7) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Out The Light](https://open.spotify.com/album/4bpokh1FHd4HtG6sHYQM7w) | 3:52 | 2022-12-16 |  |
+| [Out The Light](https://open.spotify.com/track/0RLbMwI4Yxl9HPe42lxRd7) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Out The Light](https://open.spotify.com/album/4bpokh1FHd4HtG6sHYQM7w) | 3:52 | 2022-12-16 | 2023-01-22 |
+| [Out The Light](https://open.spotify.com/track/2nDj8UEv9AIzVU2YjirnyV) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Candy](https://open.spotify.com/album/3KQlNjPSPVSl9QlwMlDpAs) | 3:52 | 2023-01-19 |  |
 | [Palm](https://open.spotify.com/track/38ziPejDZl6scCf5FpX5pt) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [6](https://open.spotify.com/album/1blPxSk5fILBbLVUdaXu53) | 7:35 | 2022-09-29 |  |
 | [Pathetic Sounds](https://open.spotify.com/track/38WUEUXFXHOcCX0tjfESAW) | [Bram Weijters' Crazy Men](https://open.spotify.com/artist/3b0K5U2c1dUoMGwEAiQoBN) | [The Return](https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd) | 3:59 | 2022-09-08 |  |
 | [Photonic](https://open.spotify.com/track/5R0GSuk5hmDMm7Nqqq6eoP) | [H A S T](https://open.spotify.com/artist/6Yfns5pZJVZxf6hn1gM3AZ) | [Photonic](https://open.spotify.com/album/2CWuZRmCPkN33i2dVZcb7M) | 3:33 | 2022-09-08 |  |
