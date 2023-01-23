@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 
 > Sounds from the touring circuit that gave Black performers refuge and birthed a new generation of superstars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,776 likes - 44 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,845 likes - 44 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 6 | [Shake, Rattle and Roll](https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:59 |
 | 7 | [Upstairs Boogie](https://open.spotify.com/track/3ls73k7OYdZByqr065gZS9) | [Lil Son Jackson](https://open.spotify.com/artist/4KfB5Ki4g9PuVqwFuckn0L) | [The Complete Imperial Recordings Of Lil' Son Jackson](https://open.spotify.com/album/3ZOXOkucWOW0uoqrjU9tJu) | 2:16 |
 | 8 | [Kansas City](https://open.spotify.com/track/4GvyP7CnBJEV2t7L7vOkjw) | [Wilbert Harrison](https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6) | [An Introduction to Wilbert Harrison](https://open.spotify.com/album/1Y1TBAbgOzreTno3UasaQX) | 2:30 |
-| 9 | [Castle Rock](https://open.spotify.com/track/3ziYOWYJfaJ6slSK9sVxjq) | [Al Sears](https://open.spotify.com/artist/59UXaFl5TP0boyuFGFPk6x) | [It Don't Mean a Thing](https://open.spotify.com/album/2oVb0f3YkvScqdO14wD9g1) | 2:52 |
+| 9 | [Castle Rock](https://open.spotify.com/track/1fiVhiSdp7mCu4RKwjPrcN) | [Johnny Hodges & His Orchestra](https://open.spotify.com/artist/586u2f7H540oCefUIazflT) | [Castle Rock](https://open.spotify.com/album/4hMfnrM2BPDK9SHSUAcK3Q) | 2:49 |
 | 10 | [The Storm \(01\-16\-52\)](https://open.spotify.com/track/5ulCLAV5XwfdzrQj53xDyT) | [Esther Phillips](https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7) | [1951\-1952](https://open.spotify.com/album/6AaRMC4imsC881iTr1DCX2) | 3:07 |
 | 11 | [I Don't Hurt Anymore](https://open.spotify.com/track/46bCPNzRmwxbdcyv8YYauN) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Hal Mooney And His Orchestra](https://open.spotify.com/artist/47ybDT1ZbixVpHfk1CWGzA) | [Late Late Show](https://open.spotify.com/album/2tGHaMOCIXDlyoyBXHv87o) | 3:13 |
 | 12 | [Thinking and Drinking](https://open.spotify.com/track/6L5RA7cLhoDF5Gx7HjTJJ4) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Thinking and Drinking](https://open.spotify.com/album/4Zp4CAXhvAQiHDj4JkiYlW) | 2:23 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 43 | [Booted](https://open.spotify.com/track/3mKwsHWqKv7mzVpZZwPsPH) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 3:04 |
 | 44 | [I Want You \- Remastered](https://open.spotify.com/track/4DJHfD8qXvko3yGNCAOH9A) | [The Cadets](https://open.spotify.com/artist/6kGIQDvdaEyZBA3aUyRHIO) | [Giving You Do\-Wop! \(Remastered\)](https://open.spotify.com/album/4Bs215DPmboswx7jMnuaDm) | 2:49 |
 
-Snapshot ID: `MTYzOTAwMDgwNSwwMDAwMDAwMDBhYWMyOTQ3OTRlYTQzNWM2MGQyYjIzNTNhZDJkMDg3`
+Snapshot ID: `MTYzOTAwMDgwNSwwMDAwMDAwMGE1M2NjNTA0OWUxZDAzODgzNzdkYWQwYzA5NGQ1MDIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Didik Budi
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,596 likes - 78 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,679 likes - 78 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

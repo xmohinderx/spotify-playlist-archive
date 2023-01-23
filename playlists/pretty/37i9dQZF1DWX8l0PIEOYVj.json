@@ -1,12 +1,12 @@
 {
   "description": "Future & melodic bass. Cover: Tsu Nami.",
-  "num_followers": 82376,
+  "num_followers": 82547,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYyMDc1NCwwMDAwMDAwMGM5NGE1M2I3YWQzYjE2ZmU5MWViOWQyNzczYTNlZDM3",
+  "snapshot_id": "MTY3MzYyMDc1NCwwMDAwMDAwMDFkMzZkMDAzZjNmZmZmMWViMTllMDFjMmI3MjdjYzc1",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -501,30 +501,6 @@
       "url": "https://open.spotify.com/track/3brpA4wjNrlW1xwqmfm72E"
     },
     {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Graduated (Sunset City Remix)",
-        "url": "https://open.spotify.com/album/7ByFQvISxuhyVwS8VeWNse"
-      },
-      "artists": [
-        {
-          "name": "Two Friends",
-          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
-        },
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        },
-        {
-          "name": "Sunset City",
-          "url": "https://open.spotify.com/artist/0YMeoEFy7Pjoa1xceWrsgc"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "Graduated - Sunset City Remix",
-      "url": "https://open.spotify.com/track/2ZmHIdYlFSA3QtrlnCVoHQ"
-    },
-    {
       "added_at": "2022-07-29 21:28:54",
       "album": {
         "name": "Alive",
@@ -547,6 +523,30 @@
       "duration_ms": 231832,
       "name": "Colors (with Eyelar)",
       "url": "https://open.spotify.com/track/6ur4bHIfXz7v38Ug4c7sb9"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Graduated (Sunset City Remix)",
+        "url": "https://open.spotify.com/album/7ByFQvISxuhyVwS8VeWNse"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        },
+        {
+          "name": "Sunset City",
+          "url": "https://open.spotify.com/artist/0YMeoEFy7Pjoa1xceWrsgc"
+        }
+      ],
+      "duration_ms": 211636,
+      "name": "Graduated - Sunset City Remix",
+      "url": "https://open.spotify.com/track/2ZmHIdYlFSA3QtrlnCVoHQ"
     },
     {
       "added_at": "2022-08-26 04:01:00",
@@ -1113,6 +1113,54 @@
       "url": "https://open.spotify.com/track/7JWF6zMQnBlbLUNApXcGip"
     },
     {
+      "added_at": "2023-01-23 00:47:23",
+      "album": {
+        "name": "Moments (feat. Rynn)",
+        "url": "https://open.spotify.com/album/35vCTBiGCxmTih3qQCwoQ8"
+      },
+      "artists": [
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        },
+        {
+          "name": "MVSE",
+          "url": "https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb"
+        },
+        {
+          "name": "Rynn",
+          "url": "https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl"
+        }
+      ],
+      "duration_ms": 182069,
+      "name": "Moments (feat. Rynn)",
+      "url": "https://open.spotify.com/track/4zQiv23zrHU1iaplSdKffx"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "Lucky Ones",
+        "url": "https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Leslie Powell",
+          "url": "https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU"
+        }
+      ],
+      "duration_ms": 205281,
+      "name": "Lucky Ones",
+      "url": "https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Oh My",
@@ -1141,30 +1189,6 @@
       "url": "https://open.spotify.com/track/4raQPHDejveEM7pt1Vbm0q"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Lucky Ones",
-        "url": "https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD"
-      },
-      "artists": [
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "Leslie Powell",
-          "url": "https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU"
-        }
-      ],
-      "duration_ms": 205281,
-      "name": "Lucky Ones",
-      "url": "https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0"
-    },
-    {
       "added_at": "2022-07-29 21:28:54",
       "album": {
         "name": "Drive You Crazy",
@@ -1183,30 +1207,6 @@
       "duration_ms": 178285,
       "name": "Drive You Crazy",
       "url": "https://open.spotify.com/track/5XY6DN8SXjHtj55e7CkZpH"
-    },
-    {
-      "added_at": "2023-01-22 00:21:12",
-      "album": {
-        "name": "Moments (feat. Rynn)",
-        "url": "https://open.spotify.com/album/35vCTBiGCxmTih3qQCwoQ8"
-      },
-      "artists": [
-        {
-          "name": "Hoang",
-          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
-        },
-        {
-          "name": "MVSE",
-          "url": "https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb"
-        },
-        {
-          "name": "Rynn",
-          "url": "https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl"
-        }
-      ],
-      "duration_ms": 182069,
-      "name": "Moments (feat. Rynn)",
-      "url": "https://open.spotify.com/track/4zQiv23zrHU1iaplSdKffx"
     },
     {
       "added_at": "2022-07-29 21:28:54",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2022-07-29 21:28:54",
       "album": {
+        "name": "Heart of Stone (feat. Nevve)",
+        "url": "https://open.spotify.com/album/39KdcGfRCK7nzvqpJvczVX"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 208095,
+      "name": "Heart of Stone (feat. Nevve)",
+      "url": "https://open.spotify.com/track/5myN5N3sDQaRvMMVOTKtY9"
+    },
+    {
+      "added_at": "2022-07-29 21:28:54",
+      "album": {
         "name": "Melting (feat. EASAE)",
         "url": "https://open.spotify.com/album/2E5tSqBeQnfrMGS4UsFZx5"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 232000,
       "name": "Think Of Me (feat. SOUNDR)",
       "url": "https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk"
-    },
-    {
-      "added_at": "2022-07-29 21:28:54",
-      "album": {
-        "name": "Heart of Stone (feat. Nevve)",
-        "url": "https://open.spotify.com/album/39KdcGfRCK7nzvqpJvczVX"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 208095,
-      "name": "Heart of Stone (feat. Nevve)",
-      "url": "https://open.spotify.com/track/5myN5N3sDQaRvMMVOTKtY9"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2022-07-29 21:28:54",
       "album": {
-        "name": "Waiting For Love",
-        "url": "https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "neverwaves",
-          "url": "https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o"
-        }
-      ],
-      "duration_ms": 262702,
-      "name": "Waiting For Love",
-      "url": "https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x"
-    },
-    {
-      "added_at": "2022-07-29 21:28:54",
-      "album": {
         "name": "Crazy (feat. Casey Cook)",
         "url": "https://open.spotify.com/album/65oyOZzt4GYuAPNz7ckr27"
       },
@@ -1783,6 +1763,46 @@
       "duration_ms": 212800,
       "name": "Crazy (feat. Casey Cook)",
       "url": "https://open.spotify.com/track/61ilfNBj7SUVn3YYQlWy04"
+    },
+    {
+      "added_at": "2022-07-29 21:28:54",
+      "album": {
+        "name": "Waiting For Love",
+        "url": "https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "neverwaves",
+          "url": "https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o"
+        }
+      ],
+      "duration_ms": 262702,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x"
+    },
+    {
+      "added_at": "2022-07-29 21:28:54",
+      "album": {
+        "name": "UNIVERSE",
+        "url": "https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "Courtney Paige Nelson",
+          "url": "https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r"
+        }
+      ],
+      "duration_ms": 245828,
+      "name": "See You Go",
+      "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -1807,26 +1827,6 @@
       "duration_ms": 195949,
       "name": "Damaged",
       "url": "https://open.spotify.com/track/4PMc7HFiQfdGycjWzwwkIb"
-    },
-    {
-      "added_at": "2022-07-29 21:28:54",
-      "album": {
-        "name": "UNIVERSE",
-        "url": "https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        },
-        {
-          "name": "Courtney Paige Nelson",
-          "url": "https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r"
-        }
-      ],
-      "duration_ms": 245828,
-      "name": "See You Go",
-      "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
     },
     {
       "added_at": "2022-07-29 21:28:54",
@@ -1921,6 +1921,26 @@
       "url": "https://open.spotify.com/track/0h6bm47GyD7bArUBTGEkp9"
     },
     {
+      "added_at": "2023-01-23 00:47:23",
+      "album": {
+        "name": "Back to Me",
+        "url": "https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Back to Me",
+      "url": "https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt"
+    },
+    {
       "added_at": "2022-08-05 04:01:00",
       "album": {
         "name": "Atlas",
@@ -1971,6 +1991,26 @@
     {
       "added_at": "2022-07-29 21:28:54",
       "album": {
+        "name": "Glow In The Dark",
+        "url": "https://open.spotify.com/album/3AMkR5uLWftipdTryaZz85"
+      },
+      "artists": [
+        {
+          "name": "Friendzone",
+          "url": "https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Glow In The Dark",
+      "url": "https://open.spotify.com/track/1VDglOP1aicFIAQUolynFU"
+    },
+    {
+      "added_at": "2022-07-29 21:28:54",
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/6F39Vxaf4xtK02FL8DQ2Vj"
       },
@@ -1991,26 +2031,6 @@
       "duration_ms": 267433,
       "name": "Tides",
       "url": "https://open.spotify.com/track/50YSCNyYuyZpgQ0QFmsqln"
-    },
-    {
-      "added_at": "2022-07-29 21:28:54",
-      "album": {
-        "name": "Glow In The Dark",
-        "url": "https://open.spotify.com/album/3AMkR5uLWftipdTryaZz85"
-      },
-      "artists": [
-        {
-          "name": "Friendzone",
-          "url": "https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Glow In The Dark",
-      "url": "https://open.spotify.com/track/1VDglOP1aicFIAQUolynFU"
     },
     {
       "added_at": "2022-11-28 19:38:58",
@@ -2069,26 +2089,6 @@
       "url": "https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ"
     },
     {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Endless (Best of Me)",
-        "url": "https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Endless (Best of Me)",
-      "url": "https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0"
-    },
-    {
       "added_at": "2022-08-26 04:01:00",
       "album": {
         "name": "Anomaly",
@@ -2137,6 +2137,26 @@
       "url": "https://open.spotify.com/track/4rGJKqbPpn5HUhMKeZMFhe"
     },
     {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Endless (Best of Me)",
+        "url": "https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Endless (Best of Me)",
+      "url": "https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Happy Tears",
@@ -2159,6 +2179,26 @@
       "duration_ms": 206065,
       "name": "Happy Tears",
       "url": "https://open.spotify.com/track/75yiYJ0pJqVTga43SY6V8T"
+    },
+    {
+      "added_at": "2022-07-29 21:28:54",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/1K9qhtSCTuNF4weATzFxZT"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "duration_ms": 233925,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo"
     },
     {
       "added_at": "2022-07-29 21:28:54",
@@ -2203,26 +2243,6 @@
       "duration_ms": 202403,
       "name": "Parallel Heartbreak",
       "url": "https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx"
-    },
-    {
-      "added_at": "2022-07-29 21:28:54",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/1K9qhtSCTuNF4weATzFxZT"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 233925,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo"
     },
     {
       "added_at": "2022-07-29 21:28:54",
@@ -2273,26 +2293,6 @@
       "url": "https://open.spotify.com/track/2J2Xa0oz357yF1rOBwz2qQ"
     },
     {
-      "added_at": "2023-01-22 00:21:12",
-      "album": {
-        "name": "Back to Me",
-        "url": "https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Back to Me",
-      "url": "https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt"
-    },
-    {
       "added_at": "2022-07-29 21:28:54",
       "album": {
         "name": "Almost Home (The Remixes)",
@@ -2337,7 +2337,7 @@
       "url": "https://open.spotify.com/track/0p1cSoBK2iGy3NRCUDCgYs"
     },
     {
-      "added_at": "2023-01-22 00:21:12",
+      "added_at": "2023-01-23 00:47:23",
       "album": {
         "name": "Reach Across the Sky (Crystal Skies Remix)",
         "url": "https://open.spotify.com/album/6779vm0VGvO5ml9E53dF3h"
@@ -2419,26 +2419,6 @@
     {
       "added_at": "2022-07-29 21:28:54",
       "album": {
-        "name": "Fight Or Flight",
-        "url": "https://open.spotify.com/album/6i4ZtLtwQZj3BW4DIRIabC"
-      },
-      "artists": [
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        },
-        {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Fight Or Flight",
-      "url": "https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2"
-    },
-    {
-      "added_at": "2022-07-29 21:28:54",
-      "album": {
         "name": "Survive (with Luma)",
         "url": "https://open.spotify.com/album/6tNXNRyY93e2m0jQMlRQ2g"
       },
@@ -2455,6 +2435,26 @@
       "duration_ms": 227441,
       "name": "Survive (with Luma)",
       "url": "https://open.spotify.com/track/1MhdaEmBlc71o9ID1eP9Io"
+    },
+    {
+      "added_at": "2022-07-29 21:28:54",
+      "album": {
+        "name": "Fight Or Flight",
+        "url": "https://open.spotify.com/album/6i4ZtLtwQZj3BW4DIRIabC"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Fight Or Flight",
+      "url": "https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2"
     },
     {
       "added_at": "2022-07-29 21:28:54",
@@ -2719,18 +2719,22 @@
     {
       "added_at": "2022-07-29 21:28:54",
       "album": {
-        "name": "Out of Love",
-        "url": "https://open.spotify.com/album/1ucsmQ2EYTjnFdf5B9dzU2"
+        "name": "Here & Now",
+        "url": "https://open.spotify.com/album/6QRUf7H4GVlTNT42e8SWKG"
       },
       "artists": [
         {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/4dj24SyTs5oxqWmTuQE8hn"
+          "name": "Vanic",
+          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+        },
+        {
+          "name": "Francis Skyes",
+          "url": "https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5"
         }
       ],
-      "duration_ms": 226285,
-      "name": "Out of Love",
-      "url": "https://open.spotify.com/track/6w2qrr2ir08VtisKOh8n4P"
+      "duration_ms": 215000,
+      "name": "Here & Now (Holding On)",
+      "url": "https://open.spotify.com/track/6CixeFGuC6v6scnGWFvIiD"
     },
     {
       "added_at": "2022-07-29 21:28:54",
@@ -2755,22 +2759,18 @@
     {
       "added_at": "2022-07-29 21:28:54",
       "album": {
-        "name": "Here & Now",
-        "url": "https://open.spotify.com/album/6QRUf7H4GVlTNT42e8SWKG"
+        "name": "Out of Love",
+        "url": "https://open.spotify.com/album/1ucsmQ2EYTjnFdf5B9dzU2"
       },
       "artists": [
         {
-          "name": "Vanic",
-          "url": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
-        },
-        {
-          "name": "Francis Skyes",
-          "url": "https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5"
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/4dj24SyTs5oxqWmTuQE8hn"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Here & Now (Holding On)",
-      "url": "https://open.spotify.com/track/6CixeFGuC6v6scnGWFvIiD"
+      "duration_ms": 226285,
+      "name": "Out of Love",
+      "url": "https://open.spotify.com/track/6w2qrr2ir08VtisKOh8n4P"
     },
     {
       "added_at": "2022-07-29 21:28:54",

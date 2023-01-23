@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 548976,
+  "num_followers": 549181,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYxMzAwMCwwMDAwMDAwMDI3OWYxODJkMjhiY2ViYTExN2M1NTdkNDFiMGY5ODE1",
+  "snapshot_id": "MTY3MzYxMzAwMCwwMDAwMDAwMGMxNWVkMGJlY2NiOGRjYjdlOWUyOGM0MzYxZTY0MDM0",
   "tracks": [
     {
       "added_at": "2022-11-25 13:06:12",
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6"
     },
     {
-      "added_at": "2023-01-22 01:03:57",
+      "added_at": "2023-01-23 01:22:17",
       "album": {
         "name": "Don\u2019t You Know",
         "url": "https://open.spotify.com/album/30BCvZmqpyfE3oOyqvTYcd"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/4fI461wHCNlAX7pNIhnSys"
     },
     {
-      "added_at": "2023-01-22 01:03:57",
+      "added_at": "2023-01-23 01:22:17",
       "album": {
         "name": "Pamoja / Can Soleil / Nestor",
         "url": "https://open.spotify.com/album/6i3CuCxz4PclCexBllSMWG"
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
+        "name": "Fact & Fiction / Can't Get Enough",
+        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 379356,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
         "name": "Trojan Love (Original Club Mix)",
         "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Fact & Fiction / Can't Get Enough",
-        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 379356,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Body Language, Vol. 24",
         "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
       },
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "So Us Vol. 1",
-        "url": "https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb"
-      },
-      "artists": [
-        {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
-        }
-      ],
-      "duration_ms": 372335,
-      "name": "Deep Gone Far",
-      "url": "https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Petit Matin",
         "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 447066,
       "name": "Petit Matin",
       "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "So Us Vol. 1",
+        "url": "https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "duration_ms": 372335,
+      "name": "Deep Gone Far",
+      "url": "https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
-      },
-      "artists": [
-        {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
-        }
-      ],
-      "duration_ms": 479075,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Nefertari",
         "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 241160,
       "name": "Nefertari",
       "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "duration_ms": 479075,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -971,26 +971,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Far Behind",
-        "url": "https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 234685,
-      "name": "Far Behind",
-      "url": "https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "To Be Written",
         "url": "https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 393442,
       "name": "To Be Written - Lunar Plane Remix",
       "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Far Behind",
+        "url": "https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 234685,
+      "name": "Far Behind",
+      "url": "https://open.spotify.com/track/03nv4DOcmJMYdlJuKEO2x8"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Stars Wrapped In Skin EP",
-        "url": "https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr"
-      },
-      "artists": [
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        },
-        {
-          "name": "Aparde",
-          "url": "https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS"
-        }
-      ],
-      "duration_ms": 387887,
-      "name": "Neverland - Aparde Remix",
-      "url": "https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/0AzztMsrs61QyBF9b1IaJh"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 241010,
       "name": "Sway",
       "url": "https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Stars Wrapped In Skin EP",
+        "url": "https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        },
+        {
+          "name": "Aparde",
+          "url": "https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS"
+        }
+      ],
+      "duration_ms": 387887,
+      "name": "Neverland - Aparde Remix",
+      "url": "https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Heavy Tangled",
-        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
-      },
-      "artists": [
-        {
-          "name": "Etur Usheo",
-          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
-        }
-      ],
-      "duration_ms": 460800,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Sun Salutations EP",
         "url": "https://open.spotify.com/album/5mhCg9ohnm2214WyLoFXss"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 484645,
       "name": "Sun Salutations",
       "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
+        "name": "Heavy Tangled",
+        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
+      },
+      "artists": [
+        {
+          "name": "Etur Usheo",
+          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
+        }
+      ],
+      "duration_ms": 460800,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
     },
     {
       "added_at": "2022-11-25 13:06:12",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
+        "name": "Diving Into Minds",
+        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
+      },
+      "artists": [
+        {
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        },
+        {
+          "name": "Masalo",
+          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+        }
+      ],
+      "duration_ms": 387302,
+      "name": "Diving Into Minds - Club Mix",
+      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
+    },
+    {
+      "added_at": "2022-11-25 13:06:12",
+      "album": {
         "name": "10 Years From Now / Collide",
         "url": "https://open.spotify.com/album/3QiV7hRMnpXoGHiFLHr8x5"
       },
@@ -1459,26 +1479,6 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Diving Into Minds",
-        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
-      },
-      "artists": [
-        {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
-        },
-        {
-          "name": "Masalo",
-          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
-        }
-      ],
-      "duration_ms": 387302,
-      "name": "Diving Into Minds - Club Mix",
-      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
-    },
-    {
-      "added_at": "2022-11-25 13:06:12",
-      "album": {
         "name": "Studio A Pt.1",
         "url": "https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO"
       },
@@ -1495,22 +1495,26 @@
     {
       "added_at": "2022-11-25 13:06:12",
       "album": {
-        "name": "Oxygen (Klangkarussell Remix)",
-        "url": "https://open.spotify.com/album/5d8WXhJiQak8tEXBSC2HWX"
+        "name": "Downtown EP",
+        "url": "https://open.spotify.com/album/5bZGoM751YhCKPibQpUCrl"
       },
       "artists": [
         {
-          "name": "SIN",
-          "url": "https://open.spotify.com/artist/2i5iThI7dEkgZVYAksSIFJ"
+          "name": "Literatura",
+          "url": "https://open.spotify.com/artist/50Nc8VBlHSdkoUyzJtDmnc"
         },
         {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+          "name": "Stereo MC's",
+          "url": "https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8"
+        },
+        {
+          "name": "Junket",
+          "url": "https://open.spotify.com/artist/1bQ7x7BvGHp7450Mqb239d"
         }
       ],
-      "duration_ms": 739700,
-      "name": "Oxygen - Klangkarussell Remix",
-      "url": "https://open.spotify.com/track/5L917TMJ8sIhEsuxQGjwH8"
+      "duration_ms": 464628,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/6BiXzWCVJwTUT4fFLuDNeM"
     }
   ],
   "unique_name": "Deep House Blend",

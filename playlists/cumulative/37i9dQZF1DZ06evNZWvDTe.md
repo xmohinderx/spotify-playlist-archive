@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-128 songs - 7 hr 50 min
+129 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Kojo](https://open.spotify.com/track/5GS5agViHaTwYRom1T6ckD) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Bad Songz](https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS) | 3:24 | 2022-11-25 | 2022-12-22 |
 | [La Familia](https://open.spotify.com/track/6rjkvAGpEeyf67CAM9Lb09) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [La Familia](https://open.spotify.com/album/2OASYXR3lBYmnNKIT26hdq) | 3:21 | 2021-12-28 | 2022-06-10 |
 | [Labadi \(feat\. King Promise\)](https://open.spotify.com/track/25SWsMxuKg62xEMx7zb4iO) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Labadi \(feat\. King Promise\)](https://open.spotify.com/album/2JoRJuNZhren1c4hi5L8a4) | 3:18 | 2022-09-25 | 2022-11-29 |
+| [Labadi \(feat\. King Promise\)](https://open.spotify.com/track/4hlm377PiUfxf6kZ1lINWQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:18 | 2023-01-22 |  |
 | [Landlord](https://open.spotify.com/track/4MhUaa1qw60tPhurSEe75b) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Landlord](https://open.spotify.com/album/2WQE1JGp2OwNlMyO4QB9LT) | 2:43 | 2023-01-18 |  |
 | [Legend](https://open.spotify.com/track/1pnHv6UjLso4U09tZQBxXw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Alpha](https://open.spotify.com/album/3vB23UtiQmUqwsw9Ge8xcr) | 3:44 | 2022-01-03 | 2022-09-06 |
 | [Light It Up](https://open.spotify.com/track/4zB6pw3SOjK3Gkz5ESssgd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 4:57 | 2022-03-26 | 2022-03-30 |
@@ -102,7 +103,7 @@
 | [Onyame eyhira\(produced By Kaywa\) \(feat\. Castro\)](https://open.spotify.com/track/4Q33HiVThLk7DDDAfyu8S2) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 4:24 | 2021-12-28 | 2022-10-13 |
 | [Oofeets](https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y) | 3:46 | 2021-12-28 |  |
 | [Original](https://open.spotify.com/track/3RI4zqzeqTBAXFe2q2HPe5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 4:07 | 2022-07-19 | 2022-10-12 |
-| [Over Me \(feat\. Cina Soul\)](https://open.spotify.com/track/5WK9VS79hdiLz4UYwr6KTF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:18 | 2022-11-12 |  |
+| [Over Me \(feat\. Cina Soul\)](https://open.spotify.com/track/5WK9VS79hdiLz4UYwr6KTF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:18 | 2022-11-12 | 2023-01-23 |
 | [Overdose](https://open.spotify.com/track/2JEaKCe6NDnP2f5mPmk88W) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Jesse Jagz](https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:24 | 2022-01-16 | 2022-10-13 |
 | [Overload 2](https://open.spotify.com/track/38tyJTQNH3CX0TBaSL6Nph) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Overload 2](https://open.spotify.com/album/0FUMpRiaQSexzpDp2XKDDO) | 3:38 | 2022-02-21 | 2022-02-23 |
 | [Pain Killer](https://open.spotify.com/track/6mh4mOVMWIHyBXWW3C2qiF) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:30 | 2021-12-28 |  |

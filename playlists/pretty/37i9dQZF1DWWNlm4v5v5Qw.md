@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: Shy Glizzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,494 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,495 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 12 | [Slow Things Down](https://open.spotify.com/track/195ZUcGZme10t5qhepxDcW) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [Slow Things Down](https://open.spotify.com/album/22GdWUXbKSGafghkdOKQ0y) | 3:04 |
 | 13 | [FINALLY SOBER \(ANGELS CALLING\)](https://open.spotify.com/track/2PzygCxvCYzsIyc50VStxD) | [Benjamin Carter](https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn) | [FINALLY SOBER \(ANGELS CALLING\)](https://open.spotify.com/album/6E0GwKl75NuFkeh6WoFI03) | 3:07 |
 | 14 | [POETRY JAM \(feat\. Foggieraw\)](https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW) | [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [POETRY JAM \(feat\. Foggieraw\)](https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z) | 3:18 |
-| 15 | [Pure Intentions](https://open.spotify.com/track/2tsFaqspHzjlEjs7mGX9qK) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [L3GION](https://open.spotify.com/artist/2CGaMJdUQ5ArTPKYli1Lf4) | [Love At All Cost](https://open.spotify.com/album/6s5JgjXWbY3cFlx6DkbzAP) | 1:51 |
+| 15 | [Pure Intentions](https://open.spotify.com/track/2tsFaqspHzjlEjs7mGX9qK) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Love At All Cost](https://open.spotify.com/album/6s5JgjXWbY3cFlx6DkbzAP) | 1:51 |
 | 16 | [Socials](https://open.spotify.com/track/3J8OuGohVDXiPzkeLEc2JS) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Ernest Third](https://open.spotify.com/artist/1hISYBYZizLjUwbo3i2cK1) | [A Good Year](https://open.spotify.com/album/3WEO4HoLqELQYPE5FHLBNA) | 2:39 |
 | 17 | [Bird Call](https://open.spotify.com/track/5svOmCDXlHxVA4dQzeFJ9W) | [Q Da Fool](https://open.spotify.com/artist/17kq4sCvn1nVcVvWV9Ribi) | [I'll Be Back](https://open.spotify.com/album/4ZWDx5sAc0PqGs70uNUe8z) | 2:05 |
 | 18 | [Let's Go](https://open.spotify.com/track/28TCQK8ZbAt9w9EAkoCB0J) | [Bandhunta Izzy](https://open.spotify.com/artist/5nnmjpedVxTOH8KwpDdSZ2), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [Let's Go](https://open.spotify.com/album/41l5GOFiS51w7ulHuPzODA) | 2:24 |

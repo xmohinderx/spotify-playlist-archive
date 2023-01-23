@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 49 | [Dynamite \(TNT\)](https://open.spotify.com/track/6hJNSbwK0M1yuTJvBXpMNL) | [Demi Kanon](https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ), [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Dynamite \(TNT\)](https://open.spotify.com/album/0eqZ2gpCg63LLg0cqQnaQD) | 3:02 |
 | 50 | [Euphoria](https://open.spotify.com/track/1MZQzrlsp8Lg4Zo8fBdJJ9) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [Stef Classens](https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac) | [Euphoria](https://open.spotify.com/album/49tzGjcmL5kKOTJWloKggq) | 4:00 |
 | 51 | [Louder](https://open.spotify.com/track/6uSAxOIExC9itwJEU6AWYt) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [Noubya](https://open.spotify.com/artist/7mE37XRULrIzHfg9OWmIud) | [Louder](https://open.spotify.com/album/7yDXbUxMwTIbuQACpzABJw) | 2:57 |
-| 52 | [Oxygen](https://open.spotify.com/track/4Zv3k5y4zJoxHGigSBH9wD) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Oxygen](https://open.spotify.com/album/2aphQrkNiXchNi9ian7Fj2) | 3:39 |
-| 53 | [What You Heard](https://open.spotify.com/track/6n6xZkucdDYETMuqOmZ8OI) | [Phrantic](https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [What You Heard](https://open.spotify.com/album/5cUjfZQV7IaaYi89yzz3L4) | 2:42 |
+| 52 | [What You Heard](https://open.spotify.com/track/6n6xZkucdDYETMuqOmZ8OI) | [Phrantic](https://open.spotify.com/artist/2Bg6vhG3aY7ixxqEGZeos6), [LXCPR](https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0) | [What You Heard](https://open.spotify.com/album/5cUjfZQV7IaaYi89yzz3L4) | 2:42 |
+| 53 | [Oxygen](https://open.spotify.com/track/4Zv3k5y4zJoxHGigSBH9wD) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Oxygen](https://open.spotify.com/album/2aphQrkNiXchNi9ian7Fj2) | 3:39 |
 | 54 | [Get Psycho](https://open.spotify.com/track/2qSbdjBKV4Ooa0yxZtA0px) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA), [Alter Ego](https://open.spotify.com/artist/455mf4vICIi2dYQrH59xh8) | [Get Psycho](https://open.spotify.com/album/4eqnUJrLMljVfSbomWiVgG) | 2:15 |
 | 55 | [The Ruling](https://open.spotify.com/track/0Z1y6vZ41GJOr59KFKfmuM) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [The Ruling](https://open.spotify.com/album/55RIZIkca0grTJTbB8WWVj) | 3:50 |
 | 56 | [TOUCH IT \(Don't Stop\)](https://open.spotify.com/track/2G5hIhJ61ENNcqUW1n1oTn) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Dynamite](https://open.spotify.com/artist/4yCk57xvx6iOnHerejzV9c), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [TOUCH IT \(Don't Stop\)](https://open.spotify.com/album/0736rP0PqNdxlnJ9khJ55P) | 2:56 |
 | 57 | [In the Light](https://open.spotify.com/track/1MpQKl4T6Po9Kywj98Ccuu) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Marc Blou](https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19) | [In the Light](https://open.spotify.com/album/2ZBNBiQhtSr1GtigDbrKPk) | 2:35 |
-| 58 | [Unstoppable](https://open.spotify.com/track/06n5WZmsvdDLMgNGjP0nmk) | [Frequencerz](https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Unstoppable](https://open.spotify.com/album/3MYfHQWGZgHTtF4IG4XRGz) | 3:51 |
-| 59 | [The Gambling Zone](https://open.spotify.com/track/3CdD2Hqu1JrwonhkYr8fiv) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [The Gambling Zone](https://open.spotify.com/album/3jWZ3na0qjuAGh54DK809V) | 4:12 |
+| 58 | [The Gambling Zone](https://open.spotify.com/track/3CdD2Hqu1JrwonhkYr8fiv) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [The Gambling Zone](https://open.spotify.com/album/3jWZ3na0qjuAGh54DK809V) | 4:12 |
+| 59 | [Unstoppable](https://open.spotify.com/track/06n5WZmsvdDLMgNGjP0nmk) | [Frequencerz](https://open.spotify.com/artist/5cPNMq5lKAoAKyv5kdpz9s), [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Unstoppable](https://open.spotify.com/album/3MYfHQWGZgHTtF4IG4XRGz) | 3:51 |
 | 60 | [The Limelight](https://open.spotify.com/track/5Q1GQOVxIYkz3UwoPIBtcY) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [The Limelight](https://open.spotify.com/album/4yKbI3bQM6YR4TGvAdnE5j) | 4:32 |
 
-Snapshot ID: `MTY3MzUzODc1MSwwMDAwMDAwMGZiMGY3NDYwZjQ5ZmZhMDBmODMyMmU3ZTY3MGYwMGE3`
+Snapshot ID: `MTY3MzUzODc1MSwwMDAwMDAwMDU2YWM5ZjZjNjM1ZDkzOTU2NTI3NGVjYWZjNjI5MzQ1`

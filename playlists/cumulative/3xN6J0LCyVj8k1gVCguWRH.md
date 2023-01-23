@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,955 songs - 4 day 16 hr 35 min
+1,958 songs - 4 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Company](https://open.spotify.com/track/1W8Ip7MHOwAg0nCMQ4tQos) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Company](https://open.spotify.com/album/16HYUeWDdsIYunousi5lG1) | 2:08 | 2023-01-09 |  |
 | [Complicated](https://open.spotify.com/track/4QlN2nd2u01skmi98F2FQp) | [Ellaye](https://open.spotify.com/artist/4p3cSdFxcnjZmQQ9tJJxGa) | [Complicated](https://open.spotify.com/album/7oUxVanOh84e9vHX5nHzjd) | 2:57 | 2021-03-14 | 2021-03-27 |
 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 | 2019-09-29\* | 2021-11-19 |
+| [Condemnation](https://open.spotify.com/track/7yhCMSiap6HUBi7wO3w5zL) | [Michael McCain](https://open.spotify.com/artist/0M9j5RFaFYUx01V87R4vxp), [Agnetha Ivers](https://open.spotify.com/artist/6y7tBBl5vLMEm7HwHs40hH), [Julie Riet](https://open.spotify.com/artist/6KdS02mf91SkjVDjwTGDrO), [Black Menue](https://open.spotify.com/artist/4c2iYT41nwuIhwYqT3OTWa) | [Condemnation](https://open.spotify.com/album/28s1C9MQlARTms41lTf12I) | 3:53 | 2023-01-23 |  |
 | [Confetti](https://open.spotify.com/track/5yQ3r7YV573w0mpGtNpoAl) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Confetti](https://open.spotify.com/album/433yeUccrhJPYJTqgOkxCv) | 3:04 | 2019-10-12 | 2019-11-16 |
 | [Confía](https://open.spotify.com/track/2wn8ysepi1ENxTUDIJZnP3) | [Reyna Judí](https://open.spotify.com/artist/6KG9dU6v690H2sz4lTqXss) | [Confía](https://open.spotify.com/album/2fh8UsIYfAqQV9kDxynfc6) | 2:35 | 2022-02-20 | 2022-03-09 |
 | [Conjuring](https://open.spotify.com/track/3iQQOVczbOsYyj078B5Ksd) | [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Conjuring](https://open.spotify.com/album/5nuVWiQeTqVEcaBiCNs3gh) | 5:35 | 2022-12-23 | 2023-01-14 |
@@ -1113,6 +1114,7 @@
 | [Mercury](https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Mercury](https://open.spotify.com/album/3pc9LMhg8lyfpPTyywABMd) | 4:58 | 2022-07-01 | 2022-07-27 |
 | [Merlot](https://open.spotify.com/track/7Lxm6B9EJkMAQIRbUuR9J6) | [B\. Weaver](https://open.spotify.com/artist/59RuXTKHrXQN6smNr5stVk) | [Merlot](https://open.spotify.com/album/4wCyt6Qt7ID7f6m6HLxOeO) | 3:50 | 2021-09-12 | 2021-09-28 |
 | [Meteors](https://open.spotify.com/track/0CBaaXYtRTHpmzmg8DCiew) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [What I've Found](https://open.spotify.com/album/2QWfWlbGrrNtT3LR03hYys) | 2:38 | 2020-08-03 | 2020-08-20 |
+| [Mhmm](https://open.spotify.com/track/6eoNgEqrrszt5ctKLU6Isc) | [Toak](https://open.spotify.com/artist/0wipVeeTuOwzVpl2RgSa2z) | [Tears of a Poet](https://open.spotify.com/album/6XmRyDUGMU3De1f6sJRkjb) | 2:47 | 2023-01-23 |  |
 | [Miami](https://open.spotify.com/track/4gilCVXzumEV2KupA2qb3b) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Miami](https://open.spotify.com/album/6evDUjijB4kgR6z5G8vb9C) | 2:51 | 2020-03-30 | 2020-04-09 |
 | [Middle](https://open.spotify.com/track/0hsptlEJJdntKqFC8BgUEK) | [Austin Prince](https://open.spotify.com/artist/0uCrWwXEcpuM1JSxpu1Qmn), [tuftyhead](https://open.spotify.com/artist/0XdAZm6bPa9e2r1hN9PXit), [Ambrose Prince](https://open.spotify.com/artist/3SpRLw0qGYJotN4YoIBPjh) | [Middle](https://open.spotify.com/album/1yakrJ9QB554EF1HRJq1PV) | 2:34 | 2021-03-31 | 2021-04-06 |
 | [Midnight Hymn Blues](https://open.spotify.com/track/4MHplEc7fP6ymDb24JyJ8L) | [Jordan Merrick](https://open.spotify.com/artist/0ahcACj3s9GCO561Tja3Mj) | [Waiting Blues](https://open.spotify.com/album/42q7gmr0J6wJGIKHWo3rAN) | 4:13 | 2021-11-05 | 2021-11-21 |
@@ -1942,6 +1944,7 @@
 | [You Are](https://open.spotify.com/track/6eMHZ5sZ649EZ8fDzdlEJZ) | [Fare](https://open.spotify.com/artist/1zg4OV4mAjexgjWEtBAd72) | [You Don't Get Me / You Are](https://open.spotify.com/album/4Qs4oBcpnfkq7lJMqPmngh) | 3:33 | 2019-09-29\* | 2019-10-09 |
 | [You Deserve It](https://open.spotify.com/track/5bzACALvZHOEuRDGmqNApg) | [Lola Ladae'](https://open.spotify.com/artist/4lIVqdSUMFaCnndK70oVvy) | [You Deserve It](https://open.spotify.com/album/1rJn9CywRwcylvTFYtLLnP) | 2:57 | 2022-04-09 | 2022-04-14 |
 | [You Deserve It](https://open.spotify.com/track/1h6uDw5tEKF0S4A458zNb7) | [Lola Ladae'](https://open.spotify.com/artist/4lIVqdSUMFaCnndK70oVvy) | [You Deserve It](https://open.spotify.com/album/4RnGEF0kh1GQ5WYunvaViY) | 2:58 | 2022-04-05 | 2022-05-10 |
+| [You Did It Again](https://open.spotify.com/track/3sjSBkwC6zzizzozoXCYH1) | [cristian](https://open.spotify.com/artist/75U23aX5AfwDwalmCZHnjQ) | [You Did It Again](https://open.spotify.com/album/4OmNQonXV4KD7F0GkJweqr) | 3:20 | 2023-01-22 |  |
 | [You Got Me \- Jonny Jukebox Remix](https://open.spotify.com/track/2eGBaMm9nJa7OSyXRi1uKu) | [Kady Rain](https://open.spotify.com/artist/3YF3JuP8XYLsZHsUFYC1Gg), [Jonny Jukebox](https://open.spotify.com/artist/2cG2HgkfyeAXZLlVaMCEF8) | [You Got Me \(Jonny Jukebox Remix\)](https://open.spotify.com/album/757Md6FetgnzIHLCTIiwHa) | 3:25 | 2021-05-28 | 2021-06-13 |
 | [You Know It's Right](https://open.spotify.com/track/3nIYAdueLM2QCaftvDfDYw) | [Steve Yanek](https://open.spotify.com/artist/0zoMMFw2wdVKjJxVDoui5e) | [You Know It's Right](https://open.spotify.com/album/6WpW2lCm2RMUuFT2DRHFOl) | 3:48 | 2022-04-15 | 2022-04-30 |
 | [You Like to Play with Fire](https://open.spotify.com/track/464m8uPkWScmviDsDwHQcg) | [Tea Janee](https://open.spotify.com/artist/2y8YKDHxaZvnrVXFDClXnt) | [You Like to Play with Fire](https://open.spotify.com/album/5AnrmlVlBpOeDUm5hgyffn) | 2:53 | 2022-12-09 | 2022-12-31 |

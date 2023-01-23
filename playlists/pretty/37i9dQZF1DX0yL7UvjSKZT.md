@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Aoife O'Donovan & Allison Russell
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,081 likes - 121 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,118 likes - 121 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -126,7 +126,7 @@
     {
       "album": {
         "name": "Al Estilo GTA",
-        "url": "https://open.spotify.com/album/4GaZxMACCSJNnKHCp1rQFU"
+        "url": "https://open.spotify.com/album/1ctMPPjX7lB5HcsxjTBIdK"
       },
       "artists": [
         {
@@ -141,6 +141,28 @@
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 146720,
+      "name": "Al Estilo GTA",
+      "url": "https://open.spotify.com/track/2CS9Kn5YLi5rfrR7MFXIfz"
+    },
+    {
+      "album": {
+        "name": "Al Estilo GTA",
+        "url": "https://open.spotify.com/album/4GaZxMACCSJNnKHCp1rQFU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Rocket",
+          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
+        },
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
       "duration_ms": 147075,
       "name": "Al Estilo GTA",
       "url": "https://open.spotify.com/track/0IAqjS7Crv5VOKBBKAllYt"

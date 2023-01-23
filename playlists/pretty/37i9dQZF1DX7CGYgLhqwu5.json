@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 334413,
+  "num_followers": 334641,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDc3YTE4NjRmZTRmMzVlN2IzZThhYTk2MTg3ZDkzNWUx",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDFmY2Y4NTNlNTQ1Mjc0MGRhYjExYzNkNzY2NzYwYzE5",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -791,22 +791,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Keep On the Sunny Side - June Carter Cash: Her Life In Music",
-        "url": "https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN"
+        "name": "The Country Way",
+        "url": "https://open.spotify.com/album/0mMQCBMVvGhDx5Kfu3Fwta"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "June Carter Cash",
-          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
         }
       ],
-      "duration_ms": 166266,
-      "name": "Jackson (with June Carter Cash)",
-      "url": "https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R"
+      "duration_ms": 137120,
+      "name": "Does My Ring Hurt Your Finger",
+      "url": "https://open.spotify.com/track/6VUXsWN3aNqEhaPawlFjep"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -827,18 +823,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Country Way",
-        "url": "https://open.spotify.com/album/0mMQCBMVvGhDx5Kfu3Fwta"
+        "name": "Keep On the Sunny Side - June Carter Cash: Her Life In Music",
+        "url": "https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN"
       },
       "artists": [
         {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "June Carter Cash",
+          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
         }
       ],
-      "duration_ms": 137120,
-      "name": "Does My Ring Hurt Your Finger",
-      "url": "https://open.spotify.com/track/6VUXsWN3aNqEhaPawlFjep"
+      "duration_ms": 166266,
+      "name": "Jackson (with June Carter Cash)",
+      "url": "https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Don't Let Me Cross Over",
-        "url": "https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8"
-      },
-      "artists": [
-        {
-          "name": "Carl Butler",
-          "url": "https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Don't Let Me Cross Over",
-      "url": "https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
         "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 197293,
       "name": "Homecoming - Single Version",
       "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Don't Let Me Cross Over",
+        "url": "https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8"
+      },
+      "artists": [
+        {
+          "name": "Carl Butler",
+          "url": "https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Don't Let Me Cross Over",
+      "url": "https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
-        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
+        "name": "Right Or Wrong",
+        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
       },
       "artists": [
         {
-          "name": "Dave Dudley",
-          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
         }
       ],
-      "duration_ms": 134706,
-      "name": "Six Days On The Road",
-      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
+      "duration_ms": 136293,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Right Or Wrong",
-        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
+        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
       },
       "artists": [
         {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+          "name": "Dave Dudley",
+          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
         }
       ],
-      "duration_ms": 136293,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
+      "duration_ms": 134706,
+      "name": "Six Days On The Road",
+      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "It Keeps Right On A-Hurtin'",
-        "url": "https://open.spotify.com/album/3xZM8nFWsJ8KMEwhZkHAPH"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Send Me The Pillow You Dream On",
-      "url": "https://open.spotify.com/track/0fabZNPJqBJBfwzDxuKQTi"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "The Cold Hard Facts of Life",
         "url": "https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 192946,
       "name": "The Cold Hard Facts of Life",
       "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "It Keeps Right On A-Hurtin'",
+        "url": "https://open.spotify.com/album/3xZM8nFWsJ8KMEwhZkHAPH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Send Me The Pillow You Dream On",
+      "url": "https://open.spotify.com/track/0fabZNPJqBJBfwzDxuKQTi"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Best Of Hank Williams, Jr. 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/3UEsMApmagWq63RApvoAER"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 189573,
-      "name": "Standing In The Shadows",
-      "url": "https://open.spotify.com/track/5NTDu48JtNkuXzs2Zbc1X1"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Saginaw, Michigan",
         "url": "https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 182573,
       "name": "Saginaw, Michigan",
       "url": "https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "The Best Of Hank Williams, Jr. 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/3UEsMApmagWq63RApvoAER"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 189573,
+      "name": "Standing In The Shadows",
+      "url": "https://open.spotify.com/track/5NTDu48JtNkuXzs2Zbc1X1"
     },
     {
       "added_at": "2022-07-29 04:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 58403,
+  "num_followers": 58461,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDY1ODhlODgwYThmMTcwMThmOGQ0NmZhZDVhMjVhMzM4",
+  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDM2MjIyMzFmYjIzYzM2YWZiMmIwMzFiZWY1MjY2NjBm",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -219,22 +219,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "El Prodigio Vs. Geovanny Polanco: La Batalla del Tipico - Round 3",
-        "url": "https://open.spotify.com/album/716GiAM5y7ZXcfotDUNb13"
-      },
-      "artists": [
-        {
-          "name": "Fefita La Grande",
-          "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "Vamos hablar ingles",
-      "url": "https://open.spotify.com/track/0sCPSj1zmc6utsy0czb54e"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Te Fuiste De Aqui",
         "url": "https://open.spotify.com/album/0u9rhbXI7lqSii2p1sGYUF"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 280079,
       "name": "Te Fuiste De Aqui",
       "url": "https://open.spotify.com/track/180f3afex3Rm9rGNIdvLn1"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "El Prodigio Vs. Geovanny Polanco: La Batalla del Tipico - Round 3",
+        "url": "https://open.spotify.com/album/716GiAM5y7ZXcfotDUNb13"
+      },
+      "artists": [
+        {
+          "name": "Fefita La Grande",
+          "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "Vamos hablar ingles",
+      "url": "https://open.spotify.com/track/0sCPSj1zmc6utsy0czb54e"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -603,18 +603,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "\"El Cacique\" - Todo Exitos",
-        "url": "https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB"
+        "name": "Maria Diaz y Luis Vargas",
+        "url": "https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj"
       },
       "artists": [
         {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+          "name": "Maria Diaz",
+          "url": "https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj"
+        },
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
         }
       ],
-      "duration_ms": 268373,
-      "name": "Por Esa Mujer",
-      "url": "https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy"
+      "duration_ms": 267493,
+      "name": "La Torera",
+      "url": "https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -635,22 +639,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Maria Diaz y Luis Vargas",
-        "url": "https://open.spotify.com/album/5I3Rd9BvQr71HQu6KOXqlj"
+        "name": "\"El Cacique\" - Todo Exitos",
+        "url": "https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB"
       },
       "artists": [
         {
-          "name": "Maria Diaz",
-          "url": "https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj"
-        },
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 267493,
-      "name": "La Torera",
-      "url": "https://open.spotify.com/track/047vEHkucPrNMqcuB3NXcq"
+      "duration_ms": 268373,
+      "name": "Por Esa Mujer",
+      "url": "https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -763,38 +763,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "La Cuesti\u00f3n",
-        "url": "https://open.spotify.com/album/4UBjoC0P9jWZ5CndQhPFVD"
-      },
-      "artists": [
-        {
-          "name": "Tatico Henr\u00edquez",
-          "url": "https://open.spotify.com/artist/1nEsnDQcktK5SB4ZKAezYM"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Ad\u00e1n y Eva",
-      "url": "https://open.spotify.com/track/4HLRak2Wxe2X2HndXYQ7pS"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
-        "name": "Merengues Tipicos los Numero 1",
-        "url": "https://open.spotify.com/album/7ddzfJF2k9P2rbg2oiaP3c"
-      },
-      "artists": [
-        {
-          "name": "Chiqui Rodriguez",
-          "url": "https://open.spotify.com/artist/0uf9GZiXpX0zAv9RGSNVgl"
-        }
-      ],
-      "duration_ms": 343093,
-      "name": "El Trafico",
-      "url": "https://open.spotify.com/track/4ecoSAaeXWE2C1KfSX5hFU"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
       },
@@ -823,6 +791,38 @@
       "duration_ms": 169000,
       "name": "La Correa",
       "url": "https://open.spotify.com/track/7KFwD8joQhDszOXDAddttv"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "Merengues Tipicos los Numero 1",
+        "url": "https://open.spotify.com/album/7ddzfJF2k9P2rbg2oiaP3c"
+      },
+      "artists": [
+        {
+          "name": "Chiqui Rodriguez",
+          "url": "https://open.spotify.com/artist/0uf9GZiXpX0zAv9RGSNVgl"
+        }
+      ],
+      "duration_ms": 343093,
+      "name": "El Trafico",
+      "url": "https://open.spotify.com/track/4ecoSAaeXWE2C1KfSX5hFU"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "La Cuesti\u00f3n",
+        "url": "https://open.spotify.com/album/4UBjoC0P9jWZ5CndQhPFVD"
+      },
+      "artists": [
+        {
+          "name": "Tatico Henr\u00edquez",
+          "url": "https://open.spotify.com/artist/1nEsnDQcktK5SB4ZKAezYM"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Ad\u00e1n y Eva",
+      "url": "https://open.spotify.com/track/4HLRak2Wxe2X2HndXYQ7pS"
     },
     {
       "added_at": "2019-09-09 17:49:24",

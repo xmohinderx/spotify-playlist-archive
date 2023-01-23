@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Joel DELEÓN
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,607 likes - 392 songs - 21 hr 21 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,606 likes - 392 songs - 21 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

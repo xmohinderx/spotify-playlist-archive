@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde\. / From the Congo, to the world\. 🌍 Photo: Moonshine
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,858 likes - 90 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,908 likes - 90 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 47 | [Baby Wine](https://open.spotify.com/track/0Dqj6jP9aqvSYqK3zj4kWR) | [Meydo](https://open.spotify.com/artist/0uc8QPX8AsA5EklYdQIB1u) | [Baby Wine](https://open.spotify.com/album/4DN0TGscxdGGbU6wQlYxKX) | 3:16 |
 | 48 | [Yolele](https://open.spotify.com/track/4pkk2GgNZIWhqQpz39439P) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Emotion \(Real World Gold\)](https://open.spotify.com/album/7CHL3hxXPT9sTnQv3hZe39) | 3:23 |
 | 49 | [Papa Wemba](https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Papa Wemba](https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V) | 3:50 |
-| 50 | [Diemba \(Balançoire\) \- Générique](https://open.spotify.com/track/423bpv5RaWC3xEm2j2iAjv) | [Werrason](https://open.spotify.com/artist/5QnSd8nC7fUp47pEma0sqU) | [7 jours de la semaine](https://open.spotify.com/album/2rmeu6hYfpX84iyOKLjzsy) | 5:31 |
+| 50 | [Diemba \(Balançoire\) \- Générique](https://open.spotify.com/track/423bpv5RaWC3xEm2j2iAjv) | [Werrason](https://open.spotify.com/artist/3aU2pbMucMTW4NYF3ISuVO) | [7 jours de la semaine](https://open.spotify.com/album/2rmeu6hYfpX84iyOKLjzsy) | 5:31 |
 | 51 | [Bayuma Bavida Kala \(feat\. Innoss B\)](https://open.spotify.com/track/7ns8gWGNO1vbNF2r7wDPEH) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Dynastie](https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg) | 4:13 |
 | 52 | [Olandi](https://open.spotify.com/track/5n2wtoHsSbah40D22SrHc5) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Olandi](https://open.spotify.com/album/7v6OQO2tJ2RgYlVb9uzPVX) | 4:40 |
 | 53 | [Nalingi ye](https://open.spotify.com/track/5mEnRGML6tztiuKBigJIQQ) | [Stone Warley](https://open.spotify.com/artist/4PYXE76LmEnTLqqkeoxc01), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Nalingi ye](https://open.spotify.com/album/6FM6rbjMIjVaxH5cQ6g5S9) | 3:02 |

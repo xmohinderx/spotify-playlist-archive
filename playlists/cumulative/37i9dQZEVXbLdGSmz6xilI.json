@@ -270,7 +270,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 240000,
       "name": "3107 3",
       "url": "https://open.spotify.com/track/1EmMFSLRVkOszCa4ul9z0F"
@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 257647,
       "name": "B\u01b0\u1edbc Qua Nhau",
       "url": "https://open.spotify.com/track/38rjRVqEHSlDRrDWDvjkqW"
@@ -3616,7 +3616,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 237419,
       "name": "Em Kh\u00f4ng Hi\u1ec3u",
       "url": "https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY"
@@ -4796,7 +4796,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 263693,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX"
@@ -7216,6 +7216,24 @@
     {
       "album": {
         "name": "MOONLIGHT SUNRISE",
+        "url": "https://open.spotify.com/album/5RB4SBhMgWr2S48npenObP"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180320,
+      "name": "MOONLIGHT SUNRISE",
+      "url": "https://open.spotify.com/track/38DlSDrx9tgc5Gfq6y3aBa"
+    },
+    {
+      "album": {
+        "name": "MOONLIGHT SUNRISE",
         "url": "https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL"
       },
       "artists": [
@@ -7226,7 +7244,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 180320,
       "name": "MOONLIGHT SUNRISE",
       "url": "https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w"
@@ -7644,7 +7662,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 248736,
       "name": "M\u1ed9t N\u0103m M\u1edbi B\u00ecnh An",
       "url": "https://open.spotify.com/track/5sV1co5LRGscLaMibfdD1Y"
@@ -8000,6 +8018,24 @@
       "duration_ms": 236253,
       "name": "N\u00e9m C\u00e2u Y\u00eau V\u00e0o Kh\u00f4ng Trung",
       "url": "https://open.spotify.com/track/4RwQ5UUOgphhjBM8zF62RQ"
+    },
+    {
+      "album": {
+        "name": "Gala Nh\u1ea1c Vi\u1ec7t 15 - N\u0103m M\u1edbi B\u00ecnh An",
+        "url": "https://open.spotify.com/album/37EcXFEyVloL7CK79dEVmF"
+      },
+      "artists": [
+        {
+          "name": "Noo Ph\u01b0\u1edbc Th\u1ecbnh",
+          "url": "https://open.spotify.com/artist/3mibIJiduF0MVLLAvHZAxw"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236975,
+      "name": "N\u0103m Qua \u0110\u00e3 L\u00e0m G\u00ec",
+      "url": "https://open.spotify.com/track/3c8uiVApPGVchcLqP2vlwf"
     },
     {
       "album": {
@@ -10200,7 +10236,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 247058,
       "name": "S\u00e0i G\u00f2n H\u00f4m Nay M\u01b0a",
       "url": "https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz"
@@ -11240,7 +11276,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 215172,
       "name": "T\u00ecnh \u0110\u1eafng Nh\u01b0 Ly C\u00e0 Ph\u00ea",
       "url": "https://open.spotify.com/track/2WOpp4vm16unl0N3i3BNNv"
@@ -11280,6 +11316,24 @@
       "duration_ms": 196555,
       "name": "T\u1ebft N\u00e0y Con S\u1ebd V\u1ec1",
       "url": "https://open.spotify.com/track/5RTTbvS4VIZDou6ueFGHyg"
+    },
+    {
+      "album": {
+        "name": "T\u1ebft \u0110ong \u0110\u1ea7y",
+        "url": "https://open.spotify.com/album/12kZMr9c91J9fsjSZvLsX2"
+      },
+      "artists": [
+        {
+          "name": "KHOA",
+          "url": "https://open.spotify.com/artist/4mVk10ulshxfn0yRO491IE"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "T\u1ebft \u0110ong \u0110\u1ea7y",
+      "url": "https://open.spotify.com/track/7iEFuVbCdZNcnFuMyYBYXb"
     },
     {
       "album": {
@@ -12356,13 +12410,13 @@
       },
       "artists": [
         {
-          "name": "Soobin Hoang Son",
+          "name": "SOOBIN",
           "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
         }
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 202084,
       "name": "\u0110i \u0110\u1ec3 Tr\u1edf V\u1ec1",
       "url": "https://open.spotify.com/track/2qc4FFBylFT5YhvMJMX50R"

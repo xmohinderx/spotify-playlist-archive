@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Tokischa & Natanael Cano",
-  "num_followers": 18486,
+  "num_followers": 18496,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDQyMCwwMDAwMDAwMDk3OGM5YTA5Y2RlN2M0OGZkODk0MGM1YzZhNWZlYTY1",
+  "snapshot_id": "MTY3MzI0NDQyMCwwMDAwMDAwMGVmMWEyODVjYzY0Yjk2N2MwYTdlZGJkNjk5NDQwODc0",
   "tracks": [
     {
       "added_at": "2023-01-09 06:07:00",
@@ -479,22 +479,22 @@
     {
       "added_at": "2023-01-09 06:07:00",
       "album": {
-        "name": "Kilos de Amor",
-        "url": "https://open.spotify.com/album/3fQBllTfCCkwBN1WupQfRp"
+        "name": "El Chivo",
+        "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
       },
       "artists": [
         {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
         },
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 236267,
-      "name": "Kilos de Amor",
-      "url": "https://open.spotify.com/track/6sChylyoQyLrKKQ9S3sYjD"
+      "duration_ms": 275400,
+      "name": "El Chivo (feat. T3r Elemento)",
+      "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
     },
     {
       "added_at": "2023-01-09 06:07:00",
@@ -539,22 +539,22 @@
     {
       "added_at": "2023-01-09 06:07:00",
       "album": {
-        "name": "El Chivo",
-        "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
+        "name": "Kilos de Amor",
+        "url": "https://open.spotify.com/album/3fQBllTfCCkwBN1WupQfRp"
       },
       "artists": [
         {
-          "name": "Berner",
-          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         },
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 275400,
-      "name": "El Chivo (feat. T3r Elemento)",
-      "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
+      "duration_ms": 236267,
+      "name": "Kilos de Amor",
+      "url": "https://open.spotify.com/track/6sChylyoQyLrKKQ9S3sYjD"
     },
     {
       "added_at": "2023-01-09 06:07:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2023-01-09 06:07:00",
       "album": {
-        "name": "Los Dioses",
-        "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 175880,
-      "name": "Municiones",
-      "url": "https://open.spotify.com/track/2nVOSrxGjCqblT9CKqEMHi"
-    },
-    {
-      "added_at": "2023-01-09 06:07:00",
-      "album": {
         "name": "De A De Veras",
         "url": "https://open.spotify.com/album/3NgALGjGhMc27JBclVPTBV"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 222732,
       "name": "De A De Veras",
       "url": "https://open.spotify.com/track/21aZ4e4lJiFmqRzNiPXqhP"
+    },
+    {
+      "added_at": "2023-01-09 06:07:00",
+      "album": {
+        "name": "Los Dioses",
+        "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 175880,
+      "name": "Municiones",
+      "url": "https://open.spotify.com/track/2nVOSrxGjCqblT9CKqEMHi"
     },
     {
       "added_at": "2023-01-09 06:07:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-01-09 06:07:00",
       "album": {
-        "name": "Conozco La Calle",
-        "url": "https://open.spotify.com/album/4iciGlmDQeaior7njVNFwH"
-      },
-      "artists": [
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 140312,
-      "name": "Conozco La Calle",
-      "url": "https://open.spotify.com/track/5ImiC67NzaBXSUXZjN1CSX"
-    },
-    {
-      "added_at": "2023-01-09 06:07:00",
-      "album": {
         "name": "Apolonio",
         "url": "https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7"
       },
@@ -835,26 +819,18 @@
     {
       "added_at": "2023-01-09 06:07:00",
       "album": {
-        "name": "Las 3 Torres",
-        "url": "https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI"
+        "name": "Conozco La Calle",
+        "url": "https://open.spotify.com/album/4iciGlmDQeaior7njVNFwH"
       },
       "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
         {
           "name": "\u00d1engo Flow",
           "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 202090,
-      "name": "Cr\u00f3nicas de un Gallo",
-      "url": "https://open.spotify.com/track/6YPczk6I8RRCjIcJ9I7p8y"
+      "duration_ms": 140312,
+      "name": "Conozco La Calle",
+      "url": "https://open.spotify.com/track/5ImiC67NzaBXSUXZjN1CSX"
     },
     {
       "added_at": "2023-01-09 06:07:00",
@@ -943,6 +919,30 @@
       "duration_ms": 208361,
       "name": "Billetes de 100",
       "url": "https://open.spotify.com/track/7wUFaxBGcFTME9OJKJqvLu"
+    },
+    {
+      "added_at": "2023-01-09 06:07:00",
+      "album": {
+        "name": "Las 3 Torres",
+        "url": "https://open.spotify.com/album/2JC96lAWIMYId0no3JwmxI"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 202090,
+      "name": "Cr\u00f3nicas de un Gallo",
+      "url": "https://open.spotify.com/track/6YPczk6I8RRCjIcJ9I7p8y"
     },
     {
       "added_at": "2023-01-09 06:07:00",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2023-01-09 06:07:00",
       "album": {
+        "name": "Retumban2",
+        "url": "https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "La Maxima Banda de Mazatlan Sinaloa",
+          "url": "https://open.spotify.com/artist/1jrlmT3OMCawrjyH20uoHf"
+        }
+      ],
+      "duration_ms": 193672,
+      "name": "Para Todos Mis Paisanos",
+      "url": "https://open.spotify.com/track/2R1GwRkfF4lYvc1IbnxsQX"
+    },
+    {
+      "added_at": "2023-01-09 06:07:00",
+      "album": {
         "name": "Eres la Persona Correcta en el Momento Equivocado (feat. Luis Coronel & Espinoza Paz)",
         "url": "https://open.spotify.com/album/64Cku1ubYVNse8ZPaKuDM6"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 239480,
       "name": "Eres la Persona Correcta en el Momento Equivocado (feat. Luis Coronel & Espinoza Paz)",
       "url": "https://open.spotify.com/track/0MKRo7E8MaLketrDrtIqnE"
-    },
-    {
-      "added_at": "2023-01-09 06:07:00",
-      "album": {
-        "name": "Retumban2",
-        "url": "https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "La Maxima Banda de Mazatlan Sinaloa",
-          "url": "https://open.spotify.com/artist/1jrlmT3OMCawrjyH20uoHf"
-        }
-      ],
-      "duration_ms": 193672,
-      "name": "Para Todos Mis Paisanos",
-      "url": "https://open.spotify.com/track/2R1GwRkfF4lYvc1IbnxsQX"
     }
   ],
   "unique_name": "Internacional Mexicano",

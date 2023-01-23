@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,914 likes - 664 songs - 1 day 20 hr 44 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,915 likes - 665 songs - 1 day 20 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -672,5 +672,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 662 | [The Mole From The Ministry \- 2001 Mix](https://open.spotify.com/track/2RHt1SrW1M4yBG3cUBjBz2) | [The Dukes Of Stratosphear](https://open.spotify.com/artist/1ilhXoWIlGxz3fM4B24mNo) | [Chips From The Chocolate Fireball](https://open.spotify.com/album/46ZRujqytRXcbgloCKA9Q7) | 5:58 |
 | 663 | [Runaways \- 2001 Remaster](https://open.spotify.com/track/6Z4O4Ugbk9jpDrXyrpFG8g) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [English Settlement](https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM) | 4:34 |
 | 664 | [Keep On Dreamin'](https://open.spotify.com/track/39ANGjy2wj0FpdL9jn670l) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Sunshine](https://open.spotify.com/album/3sjAsmZhY1zywVwQcGQ8o7) | 4:26 |
+| 665 | [Third Stone From The Sun](https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol) | 6:34 |
 
-Snapshot ID: `MTY4NyxhYjNmYzU0NzEyYWE5NDA1ZWZkYjFkZjg5OGYyNjUyYmY1ZjJjNjgz`
+Snapshot ID: `MTY4OCwzNDc5NWEwNWY1YmJmMDk2YTY3YWJkYzkzZTgyMjA1MmUxYTQ0MDhk`

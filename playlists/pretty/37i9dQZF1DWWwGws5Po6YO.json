@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 26779,
+  "num_followers": 26802,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMGI1ODA0NTg4ODdjYWNmMmIwNTVhMTI5Mzk2N2YxMGZl",
+  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMGYwZDFiMjQ5OGUxZjQ1Njk5MWE4OGJlYjA0ZTA3MmJl",
   "tracks": [
     {
       "added_at": "2022-10-04 14:45:00",
@@ -715,22 +715,18 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
+        "name": "Rushes Recede",
+        "url": "https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq"
       },
       "artists": [
         {
-          "name": "HVAD",
-          "url": "https://open.spotify.com/artist/1QXjEEDCHutVkOzAD6g13J"
-        },
-        {
-          "name": "Pan Daijing",
-          "url": "https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 406706,
-      "name": "Zhao Hua",
-      "url": "https://open.spotify.com/track/2Om39rrFtoMg6Rse1N7YWE"
+      "duration_ms": 394863,
+      "name": "Rushes Recede",
+      "url": "https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc"
     },
     {
       "added_at": "2022-10-04 14:45:00",
@@ -751,18 +747,22 @@
     {
       "added_at": "2022-10-04 14:45:00",
       "album": {
-        "name": "Rushes Recede",
-        "url": "https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq"
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
       },
       "artists": [
         {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+          "name": "HVAD",
+          "url": "https://open.spotify.com/artist/1QXjEEDCHutVkOzAD6g13J"
+        },
+        {
+          "name": "Pan Daijing",
+          "url": "https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR"
         }
       ],
-      "duration_ms": 394863,
-      "name": "Rushes Recede",
-      "url": "https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc"
+      "duration_ms": 406706,
+      "name": "Zhao Hua",
+      "url": "https://open.spotify.com/track/2Om39rrFtoMg6Rse1N7YWE"
     },
     {
       "added_at": "2022-10-04 14:45:00",

@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos que no sab\u00edas que eran covers para disfrutar con pap\u00e1.",
-  "num_followers": 59615,
+  "num_followers": 59639,
   "original_name": "Covers Padres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTUyNTA3NiwwMDAwMDAwMDQwZWNlMjAyYzQwMzcyZmVkZThiMzA1YzI4MTFiZTUz",
+  "snapshot_id": "MTYzNTUyNTA3NiwwMDAwMDAwMGE0ODczZmVmNGNiMWI3NDIwMGY2OGU3NTM5NGEwZTY1",
   "tracks": [
     {
       "added_at": "2021-10-29 16:31:16",
@@ -343,6 +343,22 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
+        "name": "Creedence Clearwater Revival (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 271786,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
         "name": "The Best Of Roxy Music",
         "url": "https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Creedence Clearwater Revival (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 271786,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP"
+      "duration_ms": 309306,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -403,22 +419,6 @@
       "duration_ms": 152613,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -551,22 +551,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Fix You (Live)",
-        "url": "https://open.spotify.com/album/6VnppEx0PoQpbnfTOutyaQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 257650,
-      "name": "Fix You - Live",
-      "url": "https://open.spotify.com/track/0Hbn9DrKJiXgoQdVSwBn7B"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "Don't Worry About Me",
         "url": "https://open.spotify.com/album/4QkB5FT0hN3KWQeeF5Bih5"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 143360,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/04cdEVbQPb8BJb7593e5fO"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Fix You (Live)",
+        "url": "https://open.spotify.com/album/6VnppEx0PoQpbnfTOutyaQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 257650,
+      "name": "Fix You - Live",
+      "url": "https://open.spotify.com/track/0Hbn9DrKJiXgoQdVSwBn7B"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "You Only Live Once/Mercy Mercy Me",
-        "url": "https://open.spotify.com/album/7jbQIpfQZTVBn8J7FzMyaF"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 157920,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/49jMdoagrgo0PUc6DkVaZV"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "Never Tear Us Apart",
         "url": "https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 198653,
       "name": "Never Tear Us Apart",
       "url": "https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "You Only Live Once/Mercy Mercy Me",
+        "url": "https://open.spotify.com/album/7jbQIpfQZTVBn8J7FzMyaF"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 157920,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/49jMdoagrgo0PUc6DkVaZV"
     },
     {
       "added_at": "2021-10-29 16:31:16",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-10-29 16:31:16",
       "album": {
-        "name": "Aladdin Sane (2013 Remaster)",
-        "url": "https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 190751,
-      "name": "Let's Spend the Night Together - 2013 Remaster",
-      "url": "https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO"
-    },
-    {
-      "added_at": "2021-10-29 16:31:16",
-      "album": {
         "name": "Nu Funk",
         "url": "https://open.spotify.com/album/4m0tTmOODI4Is44HefPOYk"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 200000,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/33JtNLiczBlcVTAzxRqXEv"
+    },
+    {
+      "added_at": "2021-10-29 16:31:16",
+      "album": {
+        "name": "Aladdin Sane (2013 Remaster)",
+        "url": "https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 190751,
+      "name": "Let's Spend the Night Together - 2013 Remaster",
+      "url": "https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO"
     },
     {
       "added_at": "2021-10-29 16:31:16",

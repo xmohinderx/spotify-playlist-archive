@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,004 likes - 200 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,483 likes - 200 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 142 | [Butterfly Effect](https://open.spotify.com/track/0ROikBVoB0U7TvrZzrHqmo) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Romanticizing the Ordinary / Butterfly Effect](https://open.spotify.com/album/10u1BfdNizSelcrXTc4p8B) | 1:49 |
 | 143 | [Only Memories](https://open.spotify.com/track/087DXuWYOFFXpslcEpD3mY) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Only Memories](https://open.spotify.com/album/6J9Coi8rv4rv7l27AoiSIv) | 2:14 |
 | 144 | [Firmament](https://open.spotify.com/track/4ePUa7w2UzjrWlFm48Hlr9) | [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6), [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0) | [Firmament](https://open.spotify.com/album/6MVUsy0dXIWU07vWBrYAr7) | 2:49 |
-| 145 | [Strategy Call](https://open.spotify.com/track/0uPhNTP92sjVXmhcJ919Fx) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh) | [Strategy Call](https://open.spotify.com/album/4dsG4E7x9I0MHKaioAIYZf) | 2:10 |
+| 145 | [Strategy Call](https://open.spotify.com/track/0uPhNTP92sjVXmhcJ919Fx) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Strategy Call](https://open.spotify.com/album/4dsG4E7x9I0MHKaioAIYZf) | 2:10 |
 | 146 | [Djose Temple](https://open.spotify.com/track/6oodVsFSFtse1GGfpC5t9F) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Djose Temple](https://open.spotify.com/album/1L7yStm4UnbcxnFpjDLDxW) | 1:48 |
 | 147 | [Let Yourself Go](https://open.spotify.com/track/6laaoorH4dMBzxbHwOjqYi) | [Chuttersnap](https://open.spotify.com/artist/3AMiRynEiWSUzZ5yNkV4ku) | [Let Yourself Go](https://open.spotify.com/album/3E0tKMbK7kdetOap91qaY1) | 2:08 |
 | 148 | [lounge](https://open.spotify.com/track/74Yjue0Njz5ugViwT7WWWH) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [lounge](https://open.spotify.com/album/5SbzI4rdywVSoJKHFuhTxH) | 1:55 |

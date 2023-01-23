@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 129858,
+  "num_followers": 130036,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGFkOTQ5ODFlOTIyN2JjNTNlYmE3OWM3ZTBiNmNjZjA4",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDBmYmY0ZmI4ZmU5MTQ2YTlkMjllZmQxY2JlZjEyMjdl",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 164245,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "The Atlantic Ocean",
         "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 258799,
       "name": "Lady Luck",
       "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Pearls to Swine",
-        "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
-      },
-      "artists": [
-        {
-          "name": "Adam Torres",
-          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
-        }
-      ],
-      "duration_ms": 360946,
-      "name": "Juniper Arms",
-      "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Banshee",
         "url": "https://open.spotify.com/album/31UJBB7T1tlLwqEXSjrUCt"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 253316,
       "name": "That's Why",
       "url": "https://open.spotify.com/track/11U2oE7JtimG9mtqSb4bNk"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Pearls to Swine",
+        "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
+      },
+      "artists": [
+        {
+          "name": "Adam Torres",
+          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
+        }
+      ],
+      "duration_ms": 360946,
+      "name": "Juniper Arms",
+      "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/4MKMt6xC0PXKlFHnQqZurJ"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 234346,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/4e6RmWaibb8xQgda9JcWRf"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Fanfare",
         "url": "https://open.spotify.com/album/0oFgCWCbCPdLcDBVblR65z"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 390666,
       "name": "Cecil Taylor",
       "url": "https://open.spotify.com/track/0dTKg7gQzxuBRNRy0e1IVX"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/4MKMt6xC0PXKlFHnQqZurJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "duration_ms": 234346,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/4e6RmWaibb8xQgda9JcWRf"
     },
     {
       "added_at": "2022-07-22 04:00:00",

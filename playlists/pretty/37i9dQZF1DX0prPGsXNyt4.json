@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 46411,
+  "num_followers": 46510,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMDMxNjNhOTJlNTA4M2ViY2Y0ODU2YmZhYTY1ZWU3Mzhm",
+  "snapshot_id": "MTY2NTcxNjQ2MCwwMDAwMDAwMDYxNjVlOWU3ZjM2OWEwYmI5OWFiMGVjNzI0MWMwZDJi",
   "tracks": [
     {
       "added_at": "2022-10-14 03:01:00",
@@ -847,30 +847,6 @@
     {
       "added_at": "2022-10-14 03:01:00",
       "album": {
-        "name": "N\u00e3o Era pra Ficar",
-        "url": "https://open.spotify.com/album/5uC2FTc7S7Q2S3bb69Uaml"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
-        },
-        {
-          "name": "Mc Marcela GC",
-          "url": "https://open.spotify.com/artist/4H9FxcmPgz79NR6FLxGBND"
-        }
-      ],
-      "duration_ms": 177235,
-      "name": "N\u00e3o Era pra Ficar",
-      "url": "https://open.spotify.com/track/1nUlMrFnHfRl3oJ4ZMt5Xg"
-    },
-    {
-      "added_at": "2022-10-14 03:01:00",
-      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -915,6 +891,30 @@
       "duration_ms": 472615,
       "name": "GR6 Convoca #01 (Relacionamentos)",
       "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
+    },
+    {
+      "added_at": "2022-10-14 03:01:00",
+      "album": {
+        "name": "N\u00e3o Era pra Ficar",
+        "url": "https://open.spotify.com/album/5uC2FTc7S7Q2S3bb69Uaml"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        },
+        {
+          "name": "Mc Marcela GC",
+          "url": "https://open.spotify.com/artist/4H9FxcmPgz79NR6FLxGBND"
+        }
+      ],
+      "duration_ms": 177235,
+      "name": "N\u00e3o Era pra Ficar",
+      "url": "https://open.spotify.com/track/1nUlMrFnHfRl3oJ4ZMt5Xg"
     },
     {
       "added_at": "2022-10-14 03:01:00",

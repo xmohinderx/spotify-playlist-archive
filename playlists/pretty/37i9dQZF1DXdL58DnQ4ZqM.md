@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,001 likes - 153 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,019 likes - 153 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 35 | [boom!!!](https://open.spotify.com/track/4S0bOkyqlnnRvnuzVJE3mP) | [swedish beatballs](https://open.spotify.com/artist/2eJN1cNXLWA4On1BUH5QUl) | [boom!!!](https://open.spotify.com/album/2tofbzHkP5c933se96KuSX) | 2:02 |
 | 36 | [White Heart Sand](https://open.spotify.com/track/0L0A2JQesE17iqjuEQDfiW) | [Togo Bao](https://open.spotify.com/artist/6iLiH4i8sPHd7x1RvS5Fqn) | [White Heart Sand](https://open.spotify.com/album/5yX6p6KpVVS9iPjWAKFrxd) | 3:48 |
 | 37 | [Eyt](https://open.spotify.com/track/4FCcNwjvhRD0qzkSiYRduX) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Xixx](https://open.spotify.com/album/7B65TpqAzloYOfarFy4EpS) | 3:22 |
-| 38 | [Low Rake](https://open.spotify.com/track/3uxcX73X3YZlaGVeKzECjE) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh) | [Low Rake](https://open.spotify.com/album/2xEGZfG8okr9tQKmQLBuJx) | 1:56 |
+| 38 | [Low Rake](https://open.spotify.com/track/3uxcX73X3YZlaGVeKzECjE) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Low Rake](https://open.spotify.com/album/2xEGZfG8okr9tQKmQLBuJx) | 1:56 |
 | 39 | [Cloudy Sunday](https://open.spotify.com/track/6xrcjP1NKtqUnzYvyRGNeH) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Cloudy Sunday](https://open.spotify.com/album/4RnWnpEKIfNDTsVqNJWgfY) | 2:20 |
 | 40 | [smthnjzzyfrthclcts](https://open.spotify.com/track/4kacnRjObcQrLrABPZrt0W) | [flat.moon.society](https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb) | [smthnjzzyfrthclcts](https://open.spotify.com/album/2G179deb0xzgRTz4pvjon1) | 1:57 |
 | 41 | [Lust](https://open.spotify.com/track/7plHet0z5H3suL0neig2an) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Lust](https://open.spotify.com/album/4STXwZAd1SqiaAIc9yG5IT) | 2:29 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$ and Germ
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,432 likes - 89 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,233 likes - 89 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KNIGHT CRAWLER \(feat\. Juice WRLD\)](https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:57 |
 | 2 | [KILLERS AND ROBBERS \(feat\. Denzel Curry, midwxst & Matt Ox\)](https://open.spotify.com/track/2XXFajkaWMZ2ukPNPKgLWa) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Matt Ox](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [KILLERS AND ROBBERS \(feat\. Denzel Curry, midwxst & Matt Ox\)](https://open.spotify.com/album/7lmOXBynobuVCEBgVwPEOC) | 3:19 |
 | 3 | [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 |
-| 4 | [TOXIC](https://open.spotify.com/track/7DfX6Bou8XXAxkWSUt18LD) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [TOXIC](https://open.spotify.com/album/1JDRqkMuIapYrNN8nYOiTh) | 1:24 |
+| 4 | [TOXIC](https://open.spotify.com/track/7mlagGXcvSapZdWesGpmdS) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [TOXIC](https://open.spotify.com/album/7l72jwIz37QsEP1RzSNG5O) | 1:24 |
 | 5 | [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 |
 | 6 | [I Dream of Chrome](https://open.spotify.com/track/3QQXpvZd9qmzHZ02wDf2im) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [DIRTIESTNASTIEST$UICIDE](https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz) | 2:25 |
 | 7 | [GOD MODE!](https://open.spotify.com/track/61ONKytCePkZCWzfipmPhy) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [GOD MODE!](https://open.spotify.com/album/5xqiMjCLUJBOtEM2hsCLaP) | 2:43 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 88 | [WICKED RITUALS](https://open.spotify.com/track/38l1bPo0NG2i5ABgNyeqT4) | [TUNDRAMANE](https://open.spotify.com/artist/3ucTA7IrKCwHk3EvnfRVOu) | [WICKED RITUALS](https://open.spotify.com/album/2khD8vCEaCE0nX2NGz24wq) | 1:58 |
 | 89 | [Bungee Gum](https://open.spotify.com/track/2UboK4rDkzSDhoBkox2vxR) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [Bungee Gum](https://open.spotify.com/album/0uS1LbaINYPzsp9EQBRpUd) | 1:46 |
 
-Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDBjMzM5YjAxZDFjYjA5ODM1YzE5ZGNmM2M4YzJkOGI4`
+Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDNlYzhmODEwMGViM2E3MTk5ZmM0NTViNTRmYzVhOTJj`

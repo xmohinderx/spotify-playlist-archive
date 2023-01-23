@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 28590,
+  "num_followers": 28622,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMDE0ZmU4MmYzNWFkNjg4YmM3MGVhYjUxNmVkYzczZTU2",
+  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMGNiMDhiMjJiYmUwOGUzODNlYjg0NWVkMzM5YzI0YTlm",
   "tracks": [
     {
       "added_at": "2023-01-19 23:01:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "What You Do to Me",
-        "url": "https://open.spotify.com/album/2XtqLhPvm9V8V8l7U399Z1"
-      },
-      "artists": [
-        {
-          "name": "fwd/slash",
-          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
-        }
-      ],
-      "duration_ms": 164388,
-      "name": "What You Do to Me",
-      "url": "https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "The Beach",
         "url": "https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 217377,
       "name": "The Beach",
       "url": "https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "What You Do to Me",
+        "url": "https://open.spotify.com/album/2XtqLhPvm9V8V8l7U399Z1"
+      },
+      "artists": [
+        {
+          "name": "fwd/slash",
+          "url": "https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw"
+        }
+      ],
+      "duration_ms": 164388,
+      "name": "What You Do to Me",
+      "url": "https://open.spotify.com/track/1LXP8KNXO6PYx9HePA1JQW"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -659,30 +659,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Who's Holding You",
-        "url": "https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Dario Rodriguez",
-          "url": "https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv"
-        },
-        {
-          "name": "Lagique",
-          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
-        }
-      ],
-      "duration_ms": 161478,
-      "name": "Who's Holding You",
-      "url": "https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
@@ -703,6 +679,30 @@
       "duration_ms": 178909,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Who's Holding You",
+        "url": "https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Dario Rodriguez",
+          "url": "https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv"
+        },
+        {
+          "name": "Lagique",
+          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+        }
+      ],
+      "duration_ms": 161478,
+      "name": "Who's Holding You",
+      "url": "https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Live In The Moment",
-        "url": "https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Live In The Moment",
-      "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 169048,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Live In The Moment",
+        "url": "https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Live In The Moment",
+      "url": "https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1195,30 +1195,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Feelings After Dark (feat. NISHA)",
-        "url": "https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd"
-      },
-      "artists": [
-        {
-          "name": "Michael Calfan",
-          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
-        },
-        {
-          "name": "HARBER",
-          "url": "https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd"
-        },
-        {
-          "name": "NISHA",
-          "url": "https://open.spotify.com/artist/0zY8LOMvTmcromP2vV0nBv"
-        }
-      ],
-      "duration_ms": 164531,
-      "name": "Feelings After Dark (feat. NISHA)",
-      "url": "https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu"
       },
@@ -1243,18 +1219,26 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "All The Highs (Alternate Versions)",
-        "url": "https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc"
+        "name": "Feelings After Dark (feat. NISHA)",
+        "url": "https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "Michael Calfan",
+          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
+        },
+        {
+          "name": "HARBER",
+          "url": "https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd"
+        },
+        {
+          "name": "NISHA",
+          "url": "https://open.spotify.com/artist/0zY8LOMvTmcromP2vV0nBv"
         }
       ],
-      "duration_ms": 231543,
-      "name": "All The Highs - Slowed",
-      "url": "https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9"
+      "duration_ms": 164531,
+      "name": "Feelings After Dark (feat. NISHA)",
+      "url": "https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1275,6 +1259,22 @@
       "duration_ms": 147599,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/706QfMn0WUC3rtGXuPs1RV"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "All The Highs (Alternate Versions)",
+        "url": "https://open.spotify.com/album/7rXOKHtcUTnv07wQ15ryAc"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 231543,
+      "name": "All The Highs - Slowed",
+      "url": "https://open.spotify.com/track/5aiGF3goUtkx6c5vObwEY9"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Like Home",
-        "url": "https://open.spotify.com/album/0lCkWOdc6EZQKrsswelBXP"
-      },
-      "artists": [
-        {
-          "name": "Robby East",
-          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Like Home",
-      "url": "https://open.spotify.com/track/056o22JVIosLPAF9ZTPVqV"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Put Your Lips On Mine",
         "url": "https://open.spotify.com/album/5OQhMEDQ5iKAZ5mUXtJCf8"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 164453,
       "name": "Put Your Lips On Mine",
       "url": "https://open.spotify.com/track/3SN5Y2nOIyX8oY6HiFYsSm"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Like Home",
+        "url": "https://open.spotify.com/album/0lCkWOdc6EZQKrsswelBXP"
+      },
+      "artists": [
+        {
+          "name": "Robby East",
+          "url": "https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Like Home",
+      "url": "https://open.spotify.com/track/056o22JVIosLPAF9ZTPVqV"
     },
     {
       "added_at": "2023-01-19 23:01:00",

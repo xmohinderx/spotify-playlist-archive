@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-467 songs - 1 day 2 hr 46 min
+468 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,8 +378,9 @@
 | [Street Corner](https://open.spotify.com/track/1lUhuX9dXk4U1xSsx4p74z) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond](https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU) | 3:03 | 2022-09-22 |  |
 | [Strong Me Strong](https://open.spotify.com/track/0fiF1vXtD1sAB0JZFLkYtX) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [King Yellowman](https://open.spotify.com/album/0FSlfd7DXMtjq5L6EGDg0T) | 3:48 | 2022-09-22 | 2022-11-28 |
 | [Strong Me Strong](https://open.spotify.com/track/4xJqi0uHh629XvW7WlKRxZ) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 3:48 | 2022-09-22 |  |
+| [Sun Moon and Star](https://open.spotify.com/track/40VWRV2m76Ra1nMwOPxSBZ) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Essential Artist Collection: The Maytals](https://open.spotify.com/album/2oT90evBv9AnvDXcIXaq5o) | 3:12 | 2022-09-22 |  |
 | [Sun Moon and Star](https://open.spotify.com/track/2FzdFjiwYvKsRLDmrgKUE0) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Monkey Man](https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP) | 3:14 | 2021-03-02 | 2022-07-29 |
-| [Sun Moon and Star](https://open.spotify.com/track/3PEOj1PQDgS9bArJqBy53g) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [The Best of The Maytals](https://open.spotify.com/album/1B30XX0WLRtky9va3mGmiE) | 3:14 | 2022-09-22 |  |
+| [Sun Moon and Star](https://open.spotify.com/track/3PEOj1PQDgS9bArJqBy53g) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [The Best of The Maytals](https://open.spotify.com/album/1B30XX0WLRtky9va3mGmiE) | 3:14 | 2022-09-22 | 2023-01-23 |
 | [Sunshine Reggae](https://open.spotify.com/track/3VXtRTAn8RyKM5qTa5Tazi) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:14 | 2022-09-22 |  |
 | [Sunshine Reggae](https://open.spotify.com/track/0z0JSkE5Nw3i3nin3BBSuG) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 4:17 | 2021-03-02 | 2022-12-24 |
 | [Superman](https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Contagious](https://open.spotify.com/album/46fXrRFxFf1L5LycVoOetx) | 4:22 | 2022-08-18 | 2022-09-23 |

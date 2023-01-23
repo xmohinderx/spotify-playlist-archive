@@ -4,7 +4,7 @@
 
 > 
 
-664 songs - 1 day 20 hr 44 min
+665 songs - 1 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | [The Youth](https://open.spotify.com/track/5nv854ey1k43KaZ0kHmE4Z) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:48 | 2019-05-26 |  |
 | [Theme From Shaft \- Remastered](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 | 2019-05-30 |  |
 | [There, There](https://open.spotify.com/track/77SPrxY5gn6VPrKPGrfLnM) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail To the Thief](https://open.spotify.com/album/1oW3v5Har9mvXnGk0x4fHm) | 5:23 | 2019-10-16 |  |
+| [Third Stone From The Sun](https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol) | 6:34 | 2023-01-22 |  |
 | [Third Stone From The Sun](https://open.spotify.com/track/34jAhU99TNRvYwwOEoINl3) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 6:44 | 2020-09-28 |  |
 | [This Heaven](https://open.spotify.com/track/0QsvUI1yA1sZYc7Pxiqbwg) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [On An Island](https://open.spotify.com/album/3hhRkf54AIQsdKLMWTxVLg) | 4:24 | 2019-03-15 |  |
 | [This Is a Call](https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:53 | 2020-01-24 |  |

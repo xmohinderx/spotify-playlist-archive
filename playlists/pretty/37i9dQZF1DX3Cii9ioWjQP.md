@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Jade\(쟈드\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,266 likes - 78 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,280 likes - 78 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

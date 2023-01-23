@@ -1,12 +1,12 @@
 {
   "description": "Escucha a Nicole y a m\u00e1s mujeres a todo volumen. Dales PLAY, dales POWER.",
-  "num_followers": 10886,
+  "num_followers": 10884,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMGE0NTFmOTFjMTRiMjc0NjczYzRjMDgzNjZlMGFmM2Jl",
+  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMGQxNjljYWE3NzBjZTljZjg4ZjQyMjFiZWUyMjgxOTQ3",
   "tracks": [
     {
       "added_at": "2023-01-04 03:00:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "duration_ms": 193452,
+      "name": "Romper Platos",
+      "url": "https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
         "name": "Stefany",
         "url": "https://open.spotify.com/album/74vpSPUywXW5tWyCz7WWYx"
       },
@@ -319,18 +335,18 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1"
+        "name": "No Se Quemar\u00e1",
+        "url": "https://open.spotify.com/album/6zI7XS07dE4mlh5c7OX7uO"
       },
       "artists": [
         {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+          "name": "Mikaela",
+          "url": "https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew"
         }
       ],
-      "duration_ms": 193452,
-      "name": "Romper Platos",
-      "url": "https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw"
+      "duration_ms": 175000,
+      "name": "No Se Quemar\u00e1",
+      "url": "https://open.spotify.com/track/2OcchFUAOGEsWbMiP6cUgU"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -347,22 +363,6 @@
       "duration_ms": 195593,
       "name": "Yo quiero bailar",
       "url": "https://open.spotify.com/track/4fQN9E5fyg7q8FF5fRx8z6"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "No Se Quemar\u00e1",
-        "url": "https://open.spotify.com/album/6zI7XS07dE4mlh5c7OX7uO"
-      },
-      "artists": [
-        {
-          "name": "Mikaela",
-          "url": "https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "No Se Quemar\u00e1",
-      "url": "https://open.spotify.com/track/2OcchFUAOGEsWbMiP6cUgU"
     },
     {
       "added_at": "2023-01-04 03:00:00",

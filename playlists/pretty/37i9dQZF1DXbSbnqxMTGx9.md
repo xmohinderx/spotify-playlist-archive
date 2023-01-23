@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,729,070 likes - 250 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,729,524 likes - 250 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 64 | [Come We Go Moonwalk](https://open.spotify.com/track/7KGxXt2w2MPLZmcfAQrGKq) | [The Kingstonians](https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C) | [Sufferer \(Expanded Edition\)](https://open.spotify.com/album/0MfTzGSkU8lLNotQZ2Z4IA) | 2:52 |
 | 65 | [Working On a Groovy Thing](https://open.spotify.com/track/2ndv4sCWLXakWkpagG2CqH) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Be True to Yourself: The Godfather of Lover's Rock \(Anthology 1965\-1973\)](https://open.spotify.com/album/2MocD24NCoqCSmf1EaaaQ0) | 4:12 |
 | 66 | [Peace in Your Mind \(Peace of Mind\)](https://open.spotify.com/track/0Dqao6FoNVAv0UOllI0b0d) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4) | [Young, Gifted & Black](https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG) | 2:26 |
-| 67 | [Sun Moon and Star](https://open.spotify.com/track/3PEOj1PQDgS9bArJqBy53g) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [The Best of The Maytals](https://open.spotify.com/album/1B30XX0WLRtky9va3mGmiE) | 3:14 |
+| 67 | [Sun Moon and Star](https://open.spotify.com/track/40VWRV2m76Ra1nMwOPxSBZ) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Essential Artist Collection: The Maytals](https://open.spotify.com/album/2oT90evBv9AnvDXcIXaq5o) | 3:12 |
 | 68 | [Artibella](https://open.spotify.com/track/3txMcReRByvnyTr8HTirMI) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own \- The Definitive Collection](https://open.spotify.com/album/0fkvv6IpX8t20FO0dlIHY3) | 2:14 |
 | 69 | [Blackbird Singing](https://open.spotify.com/track/6jNKJ3tW2MOApL3cYMSj4L) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG), [Roslyn Sweat](https://open.spotify.com/artist/6MDVBylrBgKdEBxOd211v1) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:34 |
 | 70 | [Shocks of Mighty](https://open.spotify.com/track/00F7KL6HIWNJNfQwszn7uI) | [Dave Barker](https://open.spotify.com/artist/4fDdr1gRqAzOSP8jVR6CEs), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [Prisoner of Love \(Bonus Track Edition\)](https://open.spotify.com/album/0i63dNBqSVyqhyPTDum0Rg) | 2:51 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/4g4BE9VeeQwPOvQ5sJTpj2) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:46 |
 | 250 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 
-Snapshot ID: `MTY2Mzg1NDU3MCwwMDAwMDAwMDlkZGQyMTk3YzIxMzk5ODI2ZGJkYWQ3ZGZhNTExMzEy`
+Snapshot ID: `MTY2Mzg1NDU3MCwwMDAwMDAwMDdkNmRkMzY3ZmZjOTY2ZTEzMDVjMzU2YTI2NGEyNDEw`

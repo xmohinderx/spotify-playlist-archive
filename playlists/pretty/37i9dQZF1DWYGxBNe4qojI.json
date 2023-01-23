@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: Mase",
-  "num_followers": 259367,
+  "num_followers": 259641,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDBkYjRkODc4ZmM5OGRhOTAyMTM5NzA0MWFmMWM0NGUw",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGYwY2UwZjc4YTJhZjQzOGFlMzhkN2U3ZTU5ZjFmY2Vj",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Legal Drug Money",
-        "url": "https://open.spotify.com/album/6DciMZgZkLpqsjJUd5XgpF"
-      },
-      "artists": [
-        {
-          "name": "Lost Boyz",
-          "url": "https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5"
-        }
-      ],
-      "duration_ms": 293866,
-      "name": "Renee",
-      "url": "https://open.spotify.com/track/71mNLAZsr1frFhpCa3JI8G"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "KRS-One",
         "url": "https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 295933,
       "name": "MC's Act Like They Don't Know",
       "url": "https://open.spotify.com/track/0snDRsjNRMJhm7SVja8l6J"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Legal Drug Money",
+        "url": "https://open.spotify.com/album/6DciMZgZkLpqsjJUd5XgpF"
+      },
+      "artists": [
+        {
+          "name": "Lost Boyz",
+          "url": "https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5"
+        }
+      ],
+      "duration_ms": 293866,
+      "name": "Renee",
+      "url": "https://open.spotify.com/track/71mNLAZsr1frFhpCa3JI8G"
     }
   ],
   "unique_name": "I Love My East Coast Classics",

@@ -4,7 +4,7 @@
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-74 songs - 5 hr 0 min
+75 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Me Provocas](https://open.spotify.com/track/5l87fY6KL8809t1t9vWBWP) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Cien Años Después](https://open.spotify.com/album/0jaM0Dp6sNGkVodQrfcwnY) | 3:53 | 2020-12-01 |  |
 | [Me provocas](https://open.spotify.com/track/6SrmWqfmQ228VyRf75pFQa) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Cien años después](https://open.spotify.com/album/6GZAhK5VjNoohxpo2fFOlC) | 3:53 | 2020-12-01 | 2022-07-29 |
 | [Mugre](https://open.spotify.com/track/4Mk77IqLicfMJdTFW8CBPi) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0), [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Días de Blues: Sancocho Stereo, Capítulo 4](https://open.spotify.com/album/3ZXAdzavg6qaTWsjF4xC4D) | 4:12 | 2021-08-20 | 2022-07-29 |
-| [Mugre](https://open.spotify.com/track/4JiQitejySZpFVqtXDGsW9) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0), [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Sancocho Stereo](https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB) | 4:13 | 2021-08-20 |  |
+| [Mugre](https://open.spotify.com/track/35PSnAtNhWDrsHaik2Re8y) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0), [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Sancocho Stereo](https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq) | 4:13 | 2021-08-20 |  |
+| [Mugre](https://open.spotify.com/track/4JiQitejySZpFVqtXDGsW9) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0), [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [Sancocho Stereo](https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB) | 4:13 | 2021-08-20 | 2023-01-23 |
 | [Nunca Antes](https://open.spotify.com/track/3MQb8IGVwWrtPk3D4yX7wC) | [David Tanganelli](https://open.spotify.com/artist/6vYA1nveYtnaxieU1WE3K3), [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Up](https://open.spotify.com/album/7ax8UzSvJb3T2toKKAue6g) | 3:48 | 2020-12-01 |  |
 | [Nunca antes](https://open.spotify.com/track/0eXeArP9RpkSyA0nOvsXSF) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j), [\- David Tanganelli Armónica y Voz](https://open.spotify.com/artist/0aFgtAZt9YFN0tqOBvw5Wn) | [Tributo al Blues Vol.1](https://open.spotify.com/album/1rqoFxfb6ErWQ8xYtnKqTg) | 3:48 | 2020-12-01 | 2022-07-29 |
 | [Nunca Antes](https://open.spotify.com/track/48crkUV9uPpCy8xzHDGExr) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j), [David Tanganelli](https://open.spotify.com/artist/6vYA1nveYtnaxieU1WE3K3) | [Tributo al Blues, Vol\. 1](https://open.spotify.com/album/3xFO6qK7NxlU6XDHU9mRiX) | 3:48 | 2020-12-01 | 2022-11-13 |

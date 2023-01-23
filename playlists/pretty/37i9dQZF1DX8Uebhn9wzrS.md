@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099,944 likes - 500 songs - 18 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,101,453 likes - 500 songs - 18 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 56 | [Perfect Tonight](https://open.spotify.com/track/524rHs2pC8DmYZar2qJD7v) | [Rapido\_](https://open.spotify.com/artist/6lOeB8MEOAX0dqRJEFrQV6) | [Perfect Tonight](https://open.spotify.com/album/0qP01fvaJRELe91ZVoxgJR) | 1:32 |
 | 57 | [Sundets](https://open.spotify.com/track/1s8KFO2b6qhK94kzCc375G) | [Kanbina Mind](https://open.spotify.com/artist/6sPgHyYKS3VMneq1yoflgm) | [Kanbina](https://open.spotify.com/album/6HZiWLomAqbJbt56oOiK34) | 2:02 |
 | 58 | [Grass and River](https://open.spotify.com/track/6K0Pw82tPWRDMBfJfsbLte) | [Speezhead](https://open.spotify.com/artist/7Bg8y3H9sNWsbm2tnThkpA) | [Grass and River](https://open.spotify.com/album/0BCjyDpUUvRTPUGbLHWaF7) | 2:46 |
-| 59 | [lo degradation](https://open.spotify.com/track/3OTuIBudl8FkUGeCUuUMyv) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd) | [lo degradation](https://open.spotify.com/album/21AMrDO2AsMF3kjrk5v068) | 2:26 |
+| 59 | [lo degradation](https://open.spotify.com/track/3OTuIBudl8FkUGeCUuUMyv) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [lo degradation](https://open.spotify.com/album/21AMrDO2AsMF3kjrk5v068) | 2:26 |
 | 60 | [We Are Love](https://open.spotify.com/track/5wZetUDyN1GQypcfUyxPqo) | [Lucavietski](https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR) | [Amont](https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV) | 1:57 |
 | 61 | [The Careforce](https://open.spotify.com/track/1VkY2mmufR03gKcIhLRk0L) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [The Careforce](https://open.spotify.com/album/4U4PKpvDXVZznXfJo8YCk9) | 2:16 |
 | 62 | [Sunset](https://open.spotify.com/track/3NNhwmJ4W2hsb3ZGMulWb5) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Sunset](https://open.spotify.com/album/5Ep6e5SHxyTXCox49BHJ8X) | 2:17 |

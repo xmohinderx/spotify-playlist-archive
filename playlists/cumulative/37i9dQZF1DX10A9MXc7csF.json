@@ -3110,6 +3110,24 @@
     {
       "album": {
         "name": "Me Dicen El Flako",
+        "url": "https://open.spotify.com/album/4JAJmMPczQ3BtKudlmsiEt"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Me Dicen El Flako",
+      "url": "https://open.spotify.com/track/6KPr4RTyw2lOmgJ6RmisGX"
+    },
+    {
+      "album": {
+        "name": "Me Dicen El Flako",
         "url": "https://open.spotify.com/album/38QIc89fCIfpoO54hRTk7U"
       },
       "artists": [
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 206112,
       "name": "Me Dicen El Flako",
       "url": "https://open.spotify.com/track/5hDF2fwSXqYs6IHn0AfDbr"

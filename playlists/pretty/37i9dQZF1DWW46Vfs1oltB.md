@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: toigo, GONEISBACK, NSW yoon, Roh Yunha, XINSAYNE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,814 likes - 114 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,886 likes - 114 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

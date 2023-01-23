@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: El Bebeto",
-  "num_followers": 63738,
+  "num_followers": 63762,
   "original_name": "Mariachi 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGIyYzYyNTI5NzU3NGVkYzgzN2ViOTM0MGY5MGY2MzY2",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDI4ZjU2MGU2OTFhZTdkZjgyN2YyZmM4ZjFmMzFiN2Qw",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Con Tu Recuerdo",
-        "url": "https://open.spotify.com/album/2HvSOHRTPK1HBUMgA5eUUc"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "Con Tu Recuerdo",
-      "url": "https://open.spotify.com/track/4VUt0lvEPcNk9bZ3sDwROc"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 231040,
       "name": "Mentiroso - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/6n1eCxU7vkkK0BeUc2fKlG"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Con Tu Recuerdo",
+        "url": "https://open.spotify.com/album/2HvSOHRTPK1HBUMgA5eUUc"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "Con Tu Recuerdo",
+      "url": "https://open.spotify.com/track/4VUt0lvEPcNk9bZ3sDwROc"
     },
     {
       "added_at": "2023-01-20 05:00:00",

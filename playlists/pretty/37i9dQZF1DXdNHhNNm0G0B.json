@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 68268,
+  "num_followers": 68304,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMDdiYmNkNWIxNjg3ZWNmNTE3NzQ5NTAwMjhmYzBhMmNh",
+  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMDNhZDkwZjY3NzA4ZDY2MmU1OWUxMGUyZTFjYjc4ZDIw",
   "tracks": [
     {
       "added_at": "2023-01-06 17:11:17",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
+        "name": "Guitar Music",
+        "url": "https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj"
+      },
+      "artists": [
+        {
+          "name": "Leo Kottke",
+          "url": "https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Tumbling Tumbleweeds",
+      "url": "https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
         "name": "Shapes of the Fall",
         "url": "https://open.spotify.com/album/4DWP3Ck7TsDJQH8OP2uiUU"
       },
@@ -183,22 +199,6 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Guitar Music",
-        "url": "https://open.spotify.com/album/45GOwuG1VZqnLfdvPuZ2oj"
-      },
-      "artists": [
-        {
-          "name": "Leo Kottke",
-          "url": "https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Tumbling Tumbleweeds",
-      "url": "https://open.spotify.com/track/6nHsZuDMPSyRQ90gBhaXoS"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
         "name": "Days of Being Wild",
         "url": "https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0"
       },
@@ -247,38 +247,6 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Axis Mundi",
-        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
-      },
-      "artists": [
-        {
-          "name": "Brown Bird",
-          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "Shadrach",
-      "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
-      },
-      "artists": [
-        {
-          "name": "Marisa Anderson",
-          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Deep Gap",
-      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
         "name": "The Slide Guitar: Bottles, Knives & Steel",
         "url": "https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf"
       },
@@ -291,6 +259,22 @@
       "duration_ms": 178333,
       "name": "Guitar Rag",
       "url": "https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
+      },
+      "artists": [
+        {
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "Shadrach",
+      "url": "https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -323,6 +307,22 @@
       "duration_ms": 150733,
       "name": "Well Well Well",
       "url": "https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv"
+      },
+      "artists": [
+        {
+          "name": "Marisa Anderson",
+          "url": "https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Deep Gap",
+      "url": "https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Live in Forl\u00ec, Italy 1982",
-        "url": "https://open.spotify.com/album/6jJ64hMG1uwafIGiltuNNZ"
-      },
-      "artists": [
-        {
-          "name": "Robbie Basho",
-          "url": "https://open.spotify.com/artist/1bB0hKohfWkczaTMQLQdlR"
-        }
-      ],
-      "duration_ms": 282981,
-      "name": "Clair de lune (For Twelve-String) [Live]",
-      "url": "https://open.spotify.com/track/18ul6LoGQ7Fg9yOKLxxWZx"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
         "name": "Covered Tracks: Vol. 2",
         "url": "https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 263999,
       "name": "Death Letter",
       "url": "https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "Live in Forl\u00ec, Italy 1982",
+        "url": "https://open.spotify.com/album/6jJ64hMG1uwafIGiltuNNZ"
+      },
+      "artists": [
+        {
+          "name": "Robbie Basho",
+          "url": "https://open.spotify.com/artist/1bB0hKohfWkczaTMQLQdlR"
+        }
+      ],
+      "duration_ms": 282981,
+      "name": "Clair de lune (For Twelve-String) [Live]",
+      "url": "https://open.spotify.com/track/18ul6LoGQ7Fg9yOKLxxWZx"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Imaginational Anthem Vol. 5",
-        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
-      },
-      "artists": [
-        {
-          "name": "Will Stratton",
-          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "Hemet Pine Singer",
-      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
         "name": "Willow Witchin' (Hot Take)",
         "url": "https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 150941,
       "name": "Willow Witchin' (Hot Take)",
       "url": "https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "Imaginational Anthem Vol. 5",
+        "url": "https://open.spotify.com/album/7Fitd8mCCAxXbbE5d6jfoE"
+      },
+      "artists": [
+        {
+          "name": "Will Stratton",
+          "url": "https://open.spotify.com/artist/7vy0OevOpPswNjEUxXPhaR"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "Hemet Pine Singer",
+      "url": "https://open.spotify.com/track/0aNyZsNQZykSvoiwrjhBFB"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
+      },
+      "artists": [
+        {
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "Lonely Days",
+      "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
         "name": "Alaska Blue",
         "url": "https://open.spotify.com/album/06Kzl9ecftxWgV62vO4ufq"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 173688,
       "name": "Alaska Blue",
       "url": "https://open.spotify.com/track/4O1R9qRPlfmuOlBMsWtrIZ"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Lonely Days",
-      "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Jesus I'm a Sinner",
-        "url": "https://open.spotify.com/album/398IZHABZSTKg102AxTtTO"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 412581,
-      "name": "Sarah Anne",
-      "url": "https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
         "name": "Detroit Blues",
         "url": "https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 169039,
       "name": "Detroit Blues",
       "url": "https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "Jesus I'm a Sinner",
+        "url": "https://open.spotify.com/album/398IZHABZSTKg102AxTtTO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 412581,
+      "name": "Sarah Anne",
+      "url": "https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "The Birdcage Sessions",
-        "url": "https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S"
-      },
-      "artists": [
-        {
-          "name": "Eddie Martin",
-          "url": "https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU"
-        }
-      ],
-      "duration_ms": 256310,
-      "name": "Lazy Sunday",
-      "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
-    },
-    {
-      "added_at": "2023-01-06 17:11:17",
-      "album": {
         "name": "Seasonal Hire",
         "url": "https://open.spotify.com/album/2QsROTjpIZO0bBYmHZ3tqz"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 983850,
       "name": "Seasonal Hire",
       "url": "https://open.spotify.com/track/7sL1LTuyprfH7uR2sdCagh"
+    },
+    {
+      "added_at": "2023-01-06 17:11:17",
+      "album": {
+        "name": "The Birdcage Sessions",
+        "url": "https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S"
+      },
+      "artists": [
+        {
+          "name": "Eddie Martin",
+          "url": "https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU"
+        }
+      ],
+      "duration_ms": 256310,
+      "name": "Lazy Sunday",
+      "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Brother Johnny",
-        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
+        "name": "The Blues Never End",
+        "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
       },
       "artists": [
         {
-          "name": "Edgar Winter",
-          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
-        },
-        {
-          "name": "Doyle Bramhall II",
-          "url": "https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV"
+          "name": "Elly Wininger",
+          "url": "https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ"
         }
       ],
-      "duration_ms": 232426,
-      "name": "When You Got a Good Friend",
-      "url": "https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc"
+      "duration_ms": 261333,
+      "name": "Right Kind of Trouble",
+      "url": "https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "The Blues Never End",
-        "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
+        "name": "Brother Johnny",
+        "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
       "artists": [
         {
-          "name": "Elly Wininger",
-          "url": "https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ"
+          "name": "Edgar Winter",
+          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
+        },
+        {
+          "name": "Doyle Bramhall II",
+          "url": "https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Right Kind of Trouble",
-      "url": "https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp"
+      "duration_ms": 232426,
+      "name": "When You Got a Good Friend",
+      "url": "https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "A Savage Life",
-        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
       "artists": [
         {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
         }
       ],
-      "duration_ms": 186591,
-      "name": "The Man From Nowhere",
-      "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
+      "duration_ms": 174093,
+      "name": "Friar's Point Blues",
+      "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
     },
     {
       "added_at": "2023-01-06 17:11:17",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-01-06 17:11:17",
       "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+        "name": "A Savage Life",
+        "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
       "artists": [
         {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
         }
       ],
-      "duration_ms": 174093,
-      "name": "Friar's Point Blues",
-      "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
+      "duration_ms": 186591,
+      "name": "The Man From Nowhere",
+      "url": "https://open.spotify.com/track/6LAiCNbCebsCf5M8w8A2Ws"
     },
     {
       "added_at": "2023-01-06 17:11:17",

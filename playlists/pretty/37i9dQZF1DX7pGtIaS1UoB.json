@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 87573,
+  "num_followers": 87593,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg0MjgyOCwwMDAwMDAwMGE3OGFjZmRmMzllNDUxYTM0OTUwMzg3ZGY0ODkzNzdl",
+  "snapshot_id": "MTY3Mzg0MjgyOCwwMDAwMDAwMDM5NDQxM2FmMzk5NDEzYWZkNWFlMzUyMzQ0NzU0MDQ2",
   "tracks": [
     {
       "added_at": "2023-01-09 02:55:27",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-01-09 02:55:27",
       "album": {
-        "name": "SHERO",
-        "url": "https://open.spotify.com/album/2Ct96tdzvZzNwsC6shl9tG"
-      },
-      "artists": [
-        {
-          "name": "S.H.E",
-          "url": "https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "\u7231\u4e0a\u4f60",
-      "url": "https://open.spotify.com/track/4hcNpo1rtbzyNswsM5byTf"
-    },
-    {
-      "added_at": "2023-01-09 02:55:27",
-      "album": {
         "name": "\u60f3\u8aaa",
         "url": "https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 166693,
       "name": "\u4f60\u662f\u6211\u5fc3\u5185\u7684\u4e00\u9996\u6b4c",
       "url": "https://open.spotify.com/track/17N5sJg46rDPKCGj0pKhGl"
+    },
+    {
+      "added_at": "2023-01-09 02:55:27",
+      "album": {
+        "name": "SHERO",
+        "url": "https://open.spotify.com/album/2Ct96tdzvZzNwsC6shl9tG"
+      },
+      "artists": [
+        {
+          "name": "S.H.E",
+          "url": "https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "\u7231\u4e0a\u4f60",
+      "url": "https://open.spotify.com/track/4hcNpo1rtbzyNswsM5byTf"
     },
     {
       "added_at": "2023-01-09 02:55:27",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-01-09 02:55:27",
       "album": {
+        "name": "Till We Fall in Love",
+        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "duration_ms": 240283,
+      "name": "Till We Fall in Love",
+      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
+    },
+    {
+      "added_at": "2023-01-09 02:55:27",
+      "album": {
         "name": "\u5f88\u60f3\u5f88\u60f3\u4f60 (\u96fb\u8996\u5287\u300a\u6708\u88e1\u9752\u5c71\u6de1\u5982\u756b\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/5WSMqB9fHeEDZ3jQbtHkkG"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 203331,
       "name": "\u5fc3\u52a8\u51b3\u5b9a",
       "url": "https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r"
-    },
-    {
-      "added_at": "2023-01-09 02:55:27",
-      "album": {
-        "name": "Till We Fall in Love",
-        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
-      },
-      "artists": [
-        {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
-        }
-      ],
-      "duration_ms": 240283,
-      "name": "Till We Fall in Love",
-      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
     },
     {
       "added_at": "2023-01-09 02:55:27",
@@ -1163,42 +1163,6 @@
     {
       "added_at": "2023-01-09 02:55:27",
       "album": {
-        "name": "\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u9047\u89c1\u4f60,\u771f\u9999!\u300b\u7535\u89c6\u5267\u539f\u58f0\u5e26",
-        "url": "https://open.spotify.com/album/1K8czXXHMQeE57rqeifxPE"
-      },
-      "artists": [
-        {
-          "name": "Xu Bin",
-          "url": "https://open.spotify.com/artist/3FFFFJDwvzCq6gcHa9WkLs"
-        },
-        {
-          "name": "Chantalle Ng",
-          "url": "https://open.spotify.com/artist/0XRTIDpqja8U3RNVM7CxEK"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "\u548c\u4f60\u7684\u5929\u6c14\u603b\u662f\u90a3\u4e48\u597d (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u9047\u89c1\u4f60,\u771f\u9999!\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/45c6g3bSGtCTmVzZkwc4s9"
-    },
-    {
-      "added_at": "2023-01-09 02:55:27",
-      "album": {
-        "name": "Little Present",
-        "url": "https://open.spotify.com/album/5n1aatMPEnYrX3KDFcORjE"
-      },
-      "artists": [
-        {
-          "name": "Zooey Wonder",
-          "url": "https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD"
-        }
-      ],
-      "duration_ms": 225029,
-      "name": "Little Present",
-      "url": "https://open.spotify.com/track/0YWDf9aiF23GCGCmZXteZ3"
-    },
-    {
-      "added_at": "2023-01-09 02:55:27",
-      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/1KGzv9nQNAJBEBmmljDIbC"
       },
@@ -1219,6 +1183,26 @@
     {
       "added_at": "2023-01-09 02:55:27",
       "album": {
+        "name": "\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u9047\u89c1\u4f60,\u771f\u9999!\u300b\u7535\u89c6\u5267\u539f\u58f0\u5e26",
+        "url": "https://open.spotify.com/album/1K8czXXHMQeE57rqeifxPE"
+      },
+      "artists": [
+        {
+          "name": "Xu Bin",
+          "url": "https://open.spotify.com/artist/3FFFFJDwvzCq6gcHa9WkLs"
+        },
+        {
+          "name": "Chantalle Ng",
+          "url": "https://open.spotify.com/artist/0XRTIDpqja8U3RNVM7CxEK"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "\u548c\u4f60\u7684\u5929\u6c14\u603b\u662f\u90a3\u4e48\u597d (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u9047\u89c1\u4f60,\u771f\u9999!\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/45c6g3bSGtCTmVzZkwc4s9"
+    },
+    {
+      "added_at": "2023-01-09 02:55:27",
+      "album": {
         "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 (HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2)",
         "url": "https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 204291,
       "name": "\u8acb\u4f60\u5ac1\u7d66\u6211 - HBO Asia\u539f\u5275\u5f71\u96c6\u300a\u6212\u6307\u6d41\u6d6a\u8a18\u300b\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y"
+    },
+    {
+      "added_at": "2023-01-09 02:55:27",
+      "album": {
+        "name": "Little Present",
+        "url": "https://open.spotify.com/album/5n1aatMPEnYrX3KDFcORjE"
+      },
+      "artists": [
+        {
+          "name": "Zooey Wonder",
+          "url": "https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD"
+        }
+      ],
+      "duration_ms": 225029,
+      "name": "Little Present",
+      "url": "https://open.spotify.com/track/0YWDf9aiF23GCGCmZXteZ3"
     },
     {
       "added_at": "2023-01-09 02:55:27",

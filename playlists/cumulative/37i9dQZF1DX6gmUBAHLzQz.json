@@ -400,7 +400,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 229826,
       "name": "Hey! little girl",
       "url": "https://open.spotify.com/track/3Y6L6qT9sQ3ZTBN4WKqqnS"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 225320,
       "name": "Sweet Sp!ce",
       "url": "https://open.spotify.com/track/7rmJRLhAoH6J10Nont5GBl"
@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 241515,
       "name": "\u3072\u3068\u308a\u3057\u3099\u3083\u306a\u3044! - \u3042\u3044\u306d & \u307f\u304a ver.",
       "url": "https://open.spotify.com/track/66ITNhiFXDfXRZh33dWO7p"
@@ -1794,6 +1794,24 @@
       "duration_ms": 279840,
       "name": "\u30cf\u30c3\u30d4\u30a3\u30af\u30ec\u30c3\u30b7\u30a7\u30f3\u30c9",
       "url": "https://open.spotify.com/track/31ksLd0NZHIKf4DLvLzinq"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u30ab\u30c4!\u30b7\u30ea\u30fc\u30ba 10th Anniversary Album Vol.09\u300cVERY MANY SEASONING\u300d",
+        "url": "https://open.spotify.com/album/3WsUPfnZwzMUrzAsajiI80"
+      },
+      "artists": [
+        {
+          "name": "\u304b\u306a",
+          "url": "https://open.spotify.com/artist/4HIVwOUi8jK9bSOQ8gq9dp"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340159,
+      "name": "\u30cf\u30ed\u30fc\u30cb\u30e5\u30fc\u30ef\u30fc\u30eb\u30c9",
+      "url": "https://open.spotify.com/track/5nuldFZAyHXer6geSeR8gL"
     },
     {
       "album": {

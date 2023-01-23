@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Yaeji
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,017 likes - 72 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,031 likes - 72 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Lo nuevo de la Música Mexicana\. Cover: Adriel Favela
 
-1,873 songs - 4 day 2 hr 35 min
+1,873 songs - 4 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [Distantes](https://open.spotify.com/track/0o3DbryDgbWANJNZJo8x9R) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Distantes](https://open.spotify.com/album/2bLiF7ZGHwIHco3WGb9vsM) | 3:33 | 2022-06-24 | 2022-07-02 |
 | [Diva por Siempre](https://open.spotify.com/track/65UKuxz4QPUKOKsxFRhwJW) | [Banda Elemental de Mazatlán Sinaloa](https://open.spotify.com/artist/0amZxQw9VoE1GcLXsqPnjz) | [Diva por Siempre](https://open.spotify.com/album/20nWo1bGvS5HwfmNKdszCW) | 2:41 | 2022-12-09 | 2022-12-17 |
 | [Diviertete](https://open.spotify.com/track/211zWlnWWhycTO5T30Dxgu) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Diviertete](https://open.spotify.com/album/7fNa6l9OLAL1dj68Nr8mu4) | 3:43 | 2022-08-19 | 2022-08-27 |
-| [Dobel Dosis](https://open.spotify.com/track/0F5jIKqse7Z5MC3hV2CVO6) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [Doble Dosis](https://open.spotify.com/album/6zLtj0ekbIIMUGdwLkckMC) | 3:13 | 2023-01-20 |  |
+| [Dobel Dosis](https://open.spotify.com/track/0F5jIKqse7Z5MC3hV2CVO6) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [Doble Dosis](https://open.spotify.com/album/6zLtj0ekbIIMUGdwLkckMC) | 4:11 | 2023-01-20 |  |
 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [DOCTOR DEL BARRIO](https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf) | 2:21 | 2022-09-02 | 2022-09-10 |
 | [Dolerá](https://open.spotify.com/track/18hHM8kKKL6AUFtWYogA4X) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Dolerá](https://open.spotify.com/album/3zBgO51TuNj2zbfeBqqAph) | 3:10 | 2022-06-03 | 2022-06-11 |
 | [DOLOR](https://open.spotify.com/track/1S4Xk3LEaXrmvQye3viFFa) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [DOLOR](https://open.spotify.com/album/2SiOMpq82Qv1svVMt35sP1) | 3:35 | 2022-11-25 | 2022-12-03 |

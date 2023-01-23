@@ -1,15 +1,15 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 112252,
+  "num_followers": 112398,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU3MDY3MSwwMDAwMDAwMDkzMDJjYjdjZTU3YTAzNDMwYTYyM2RlMTE3ZDlmMjQw",
+  "snapshot_id": "MTY3MzU3MDY3MSwwMDAwMDAwMGM1YTlhZTc1NDQyMGJlZDAzY2U0NzZhMDgyODllODEw",
   "tracks": [
     {
-      "added_at": "2023-01-22 01:18:33",
+      "added_at": "2023-01-23 01:08:32",
       "album": {
         "name": "Oh My (feat. Moby)",
         "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
@@ -433,23 +433,7 @@
       "url": "https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK"
     },
     {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
-        "name": "Slugger 1.4 [2014 Export.WAV]",
-        "url": "https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 248811,
-      "name": "Slugger 1.4 [2014 Export.WAV]",
-      "url": "https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3"
-    },
-    {
-      "added_at": "2023-01-22 01:18:33",
+      "added_at": "2023-01-23 01:08:32",
       "album": {
         "name": "The Last Goodbye (Hayden James Remix)",
         "url": "https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E"
@@ -471,6 +455,22 @@
       "duration_ms": 224908,
       "name": "The Last Goodbye (feat. Bettye LaVette) - Hayden James Remix",
       "url": "https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "Slugger 1.4 [2014 Export.WAV]",
+        "url": "https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 248811,
+      "name": "Slugger 1.4 [2014 Export.WAV]",
+      "url": "https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/6M0cy8N7KQhaYbJ7088D28"
     },
     {
-      "added_at": "2023-01-22 01:18:33",
+      "added_at": "2023-01-23 01:08:32",
       "album": {
         "name": "RUSH (Blush)",
         "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp"
     },
     {
-      "added_at": "2023-01-22 01:18:33",
+      "added_at": "2023-01-23 01:08:32",
       "album": {
         "name": "Too Much Fun",
         "url": "https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM"
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
         "name": "OoooH",
         "url": "https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 202017,
       "name": "OoooH",
       "url": "https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/0eeBjfwq7PNalu0RBtYKeA"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/7o8VEpWXIvvnDIQaXDHI8S"
     },
     {
       "added_at": "2022-12-15 13:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-12-15 13:00:00",
       "album": {
-        "name": "Sun Phase",
-        "url": "https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 316454,
-      "name": "Sun Phase",
-      "url": "https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk"
-    },
-    {
-      "added_at": "2022-12-15 13:00:00",
-      "album": {
         "name": "Waiting for Nothing (feat. Yaeger)",
         "url": "https://open.spotify.com/album/5cZopeO3e9cyeXAOPVCgLK"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 248169,
       "name": "Waiting for Nothing (feat. Yaeger)",
       "url": "https://open.spotify.com/track/4vnPji7QI3Bt3XDZxfDAXr"
+    },
+    {
+      "added_at": "2022-12-15 13:00:00",
+      "album": {
+        "name": "Sun Phase",
+        "url": "https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 316454,
+      "name": "Sun Phase",
+      "url": "https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk"
     },
     {
       "added_at": "2022-12-15 13:00:00",

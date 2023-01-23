@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 102570,
+  "num_followers": 102656,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMGE4ZjM2YTU5NWE2M2U1MTQ2MmEyNWY4MTE1YzVkZjZh",
+  "snapshot_id": "MTYwMDQwNTMyMCwwMDAwMDAwMGUxMjJmNmE5MDE3ODc5ZjQ3MjE5NzQ3OWY5YmYxYTc3",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Ante Tus Pies",
-        "url": "https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3"
-      },
-      "artists": [
-        {
-          "name": "Pablo Caldarelli",
-          "url": "https://open.spotify.com/artist/3UNQgVdq9T2fM1FGjEVQyT"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
-        }
-      ],
-      "duration_ms": 212968,
-      "name": "Ante Tus Pies",
-      "url": "https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Fragmentos Do C\u00e9u",
         "url": "https://open.spotify.com/album/6TSkaLuTf3krKOP6G9MQ0e"
       },
@@ -559,6 +539,26 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Ante Tus Pies",
+        "url": "https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3"
+      },
+      "artists": [
+        {
+          "name": "Pablo Caldarelli",
+          "url": "https://open.spotify.com/artist/3UNQgVdq9T2fM1FGjEVQyT"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "duration_ms": 212968,
+      "name": "Ante Tus Pies",
+      "url": "https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Soy Sonero",
         "url": "https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS"
       },
@@ -575,8 +575,8 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Traigo Alabanza",
-        "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
+        "name": "Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
         }
       ],
-      "duration_ms": 251453,
-      "name": "Estoy Contento",
-      "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
+      "duration_ms": 244426,
+      "name": "Digan Lo Que Diga",
+      "url": "https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -687,8 +687,8 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+        "name": "Traigo Alabanza",
+        "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
         }
       ],
-      "duration_ms": 244426,
-      "name": "Digan Lo Que Diga",
-      "url": "https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3"
+      "duration_ms": 251453,
+      "name": "Estoy Contento",
+      "url": "https://open.spotify.com/track/6jRFsF1AnnVWmJRzlX0a9s"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "En Accion",
+        "url": "https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0"
+      },
+      "artists": [
+        {
+          "name": "Alex D' Castro",
+          "url": "https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm"
+        }
+      ],
+      "duration_ms": 282760,
+      "name": "En Tu Presencia",
+      "url": "https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Party Love",
         "url": "https://open.spotify.com/album/29wQaEDDwOEyghp030mgtm"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 196800,
       "name": "Party Love",
       "url": "https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "En Accion",
-        "url": "https://open.spotify.com/album/40dMA08JGPjNQjKkUdmnl0"
-      },
-      "artists": [
-        {
-          "name": "Alex D' Castro",
-          "url": "https://open.spotify.com/artist/74O8Fdu8PKT7LWjjnfCbpm"
-        }
-      ],
-      "duration_ms": 282760,
-      "name": "En Tu Presencia",
-      "url": "https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW"
     },
     {
       "added_at": "2020-09-18 05:02:00",

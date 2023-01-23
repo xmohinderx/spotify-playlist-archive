@@ -4,7 +4,7 @@
 
 > dark & dreamy for night creatures
 
-124 songs - 7 hr 42 min
+125 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Blank](https://open.spotify.com/track/2gpkmR9oX3Jk6rDI6KUwHj) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Into You](https://open.spotify.com/album/5qRlgp12Yv5ZPSdq2jmiz2) | 3:36 | 2023-01-19 |  |
 | [Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 3:18 | 2022-11-10 |  |
 | [Catch The Waves](https://open.spotify.com/track/4i3zTyBJaFV6AosZzzL0cj) | [T\. Rexico](https://open.spotify.com/artist/6Trc447dn0TAUcOfVWdex4) | [Catch The Waves](https://open.spotify.com/album/3nUOd3hYpLCDfgLLRI69oS) | 3:10 | 2022-10-07 | 2022-10-29 |
-| [Caught In Time, So Far Away](https://open.spotify.com/track/1dj44gqRjWmPtoj495glKe) | [You'll Never Get to Heaven](https://open.spotify.com/artist/1tHzhv6nGl2i5ZaSSFiwK7) | [Adorn](https://open.spotify.com/album/47TWRNJhxMuIBOOc9RJ5LQ) | 3:48 | 2022-09-02 |  |
+| [Caught In Time, So Far Away](https://open.spotify.com/track/1dj44gqRjWmPtoj495glKe) | [You'll Never Get to Heaven](https://open.spotify.com/artist/1tHzhv6nGl2i5ZaSSFiwK7) | [Adorn](https://open.spotify.com/album/47TWRNJhxMuIBOOc9RJ5LQ) | 3:48 | 2022-09-02 | 2023-01-23 |
+| [Caught In Time, So Far Away](https://open.spotify.com/track/4D60K4ihRiUeS9u7fq7QGV) | [You'll Never Get to Heaven](https://open.spotify.com/artist/1tHzhv6nGl2i5ZaSSFiwK7) | [Adorn](https://open.spotify.com/album/0olVkojSwGHBomfzv5zgTi) | 3:48 | 2023-01-19 |  |
 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 | 2022-09-09 | 2022-10-29 |
 | [Choking on Flowers](https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Elsie](https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X) | 3:28 | 2022-09-02 |  |
 | [Clouds](https://open.spotify.com/track/5fr0ocIee7TpDCRWaK0002) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 4:07 | 2022-09-02 |  |

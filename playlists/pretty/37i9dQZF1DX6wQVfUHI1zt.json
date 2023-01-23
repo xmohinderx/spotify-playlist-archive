@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 183899,
+  "num_followers": 183986,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NjIwMiwwMDAwMDAwMGRlN2Q4OTAzOTJkYTk1Y2UzOWI5OTM4ZGUyNDYwYTU4",
+  "snapshot_id": "MTY3MzI0NjIwMiwwMDAwMDAwMDQ1NmFkNWNiNTlhYmIwOTE1ZTAwYmY1Yjg5YmE3MGNj",
   "tracks": [
     {
       "added_at": "2022-12-07 23:44:58",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-12-07 23:44:58",
       "album": {
-        "name": "Lo Mejor De\u2026",
-        "url": "https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 167040,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/6XFduBZIOMyOV8sCcHuYzb"
-    },
-    {
-      "added_at": "2022-12-07 23:44:58",
-      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 184920,
       "name": "La Rosa",
       "url": "https://open.spotify.com/track/0HiDvAV1NFSt1rLXvrTO49"
+    },
+    {
+      "added_at": "2022-12-07 23:44:58",
+      "album": {
+        "name": "Lo Mejor De\u2026",
+        "url": "https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 167040,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/6XFduBZIOMyOV8sCcHuYzb"
     },
     {
       "added_at": "2022-12-07 23:44:58",

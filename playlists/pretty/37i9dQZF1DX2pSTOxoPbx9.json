@@ -1,12 +1,12 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 701645,
+  "num_followers": 702163,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc2MzI1NywwMDAwMDAwMDM4ZWE2MjZiOWY3NjY3NTA3NjUyNjgwY2VjZjQwYzg3",
+  "snapshot_id": "MTY3Mjc2MzI1NywwMDAwMDAwMDI1NWZlNDRjOWJiZDU3Njk3NGI5ODRiOTZhNWMwNTU2",
   "tracks": [
     {
       "added_at": "2022-07-11 21:24:30",
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
     },
     {
-      "added_at": "2023-01-22 01:22:20",
+      "added_at": "2023-01-23 00:34:31",
       "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Sausalito",
-        "url": "https://open.spotify.com/album/3AYWgbF5x1Op6yY4MGYDgj"
-      },
-      "artists": [
-        {
-          "name": "Lydia Luce",
-          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
-        }
-      ],
-      "duration_ms": 222859,
-      "name": "Sausalito",
-      "url": "https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Turn Out the Lights",
         "url": "https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 273466,
       "name": "Appointments",
       "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Sausalito",
+        "url": "https://open.spotify.com/album/3AYWgbF5x1Op6yY4MGYDgj"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        }
+      ],
+      "duration_ms": 222859,
+      "name": "Sausalito",
+      "url": "https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Hold to the Light",
-        "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
-      },
-      "artists": [
-        {
-          "name": "Brooke Annibale",
-          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "When You're Ready",
         "url": "https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 162673,
       "name": "Take The Journey",
       "url": "https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Hold to the Light",
+        "url": "https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST"
+      },
+      "artists": [
+        {
+          "name": "Brooke Annibale",
+          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3aHHQ2pQrVCThJCEowJMuP"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Philharmonics",
-        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 228546,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Somebody Desperate (From ''Cyrano'' Soundtrack)",
         "url": "https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 235053,
       "name": "Somebody Desperate - From ''Cyrano'' Soundtrack",
       "url": "https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Philharmonics",
+        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "In Darkened Rooms",
-        "url": "https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7"
-      },
-      "artists": [
-        {
-          "name": "Sam Airey",
-          "url": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
-        }
-      ],
-      "duration_ms": 322680,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Fire of Love",
         "url": "https://open.spotify.com/album/2FXiYzdQcU5btMt1BfK9UL"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 280497,
       "name": "Fire of Love",
       "url": "https://open.spotify.com/track/4lnAR9AH0WZoRUNsOgwHXd"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "In Darkened Rooms",
+        "url": "https://open.spotify.com/album/0FBUrWKF7V022FRI1RkfW7"
+      },
+      "artists": [
+        {
+          "name": "Sam Airey",
+          "url": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
+        }
+      ],
+      "duration_ms": 322680,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
+        "name": "No Burden",
+        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Dream State...",
+      "url": "https://open.spotify.com/track/3gTK6H0XBeViYvo9TGJ5V5"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
         "name": "The Devil's Walk",
         "url": "https://open.spotify.com/album/5EHvg6pPmS7wBzcCjXZIs3"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 269490,
       "name": "Goodbye (with Soap & Skin)",
       "url": "https://open.spotify.com/track/6BJXuY0lY0EUtSDCgkYnqE"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
-        "name": "No Burden",
-        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Dream State...",
-      "url": "https://open.spotify.com/track/3gTK6H0XBeViYvo9TGJ5V5"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 212258,
-      "name": "Big Sky",
-      "url": "https://open.spotify.com/track/6CoVyYMT1M7S9DBRYp8HJL"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Absolute Zero",
         "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 300960,
       "name": "My Love Took Me Down To the River To Silence Me",
       "url": "https://open.spotify.com/track/1Me1LN4tpFc3rCRkmHAu0q"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 212258,
+      "name": "Big Sky",
+      "url": "https://open.spotify.com/track/6CoVyYMT1M7S9DBRYp8HJL"
     },
     {
       "added_at": "2022-07-11 21:24:30",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-07-11 21:24:30",
       "album": {
-        "name": "Farm b/w Lift",
-        "url": "https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 283096,
-      "name": "Farm",
-      "url": "https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6"
-    },
-    {
-      "added_at": "2022-07-11 21:24:30",
-      "album": {
         "name": "Stretch Your Eyes (Radio Edit)",
         "url": "https://open.spotify.com/album/7zjJtvfDH72QlMgAfBeuhc"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 247379,
       "name": "Stretch Your Eyes - Radio Edit",
       "url": "https://open.spotify.com/track/2As5LUjQxNyXAcQWBUimY2"
+    },
+    {
+      "added_at": "2022-07-11 21:24:30",
+      "album": {
+        "name": "Farm b/w Lift",
+        "url": "https://open.spotify.com/album/7L0CdrL4wrljsZvpIB3yVK"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 283096,
+      "name": "Farm",
+      "url": "https://open.spotify.com/track/2C4ESQIc6lROCWKMwffsU6"
     },
     {
       "added_at": "2022-07-11 21:24:30",

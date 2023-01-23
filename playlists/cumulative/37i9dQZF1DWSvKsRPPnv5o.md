@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: G Perico
 
-352 songs - 16 hr 53 min
+353 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,8 @@
 | [Nasty](https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nasty](https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO) | 3:28 | 2022-12-16 |  |
 | [Need Love](https://open.spotify.com/track/1Pr1PSWRXycRomdCGCvUU3) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Need Love](https://open.spotify.com/album/7mcTO6enAPyVjPZgjzehKj) | 2:29 | 2022-10-28 |  |
 | [NEO](https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:03 | 2021-11-05 | 2022-02-19 |
-| [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/track/5LMk48NX7yjNfN30PP4OQ6) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/album/04owA5C5mh4CyXzpHgFchJ) | 3:59 | 2022-09-16 |  |
+| [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/track/028z6THhAbIyaAhfDVDRIQ) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Results Take Time](https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9) | 3:59 | 2023-01-20 |  |
+| [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/track/5LMk48NX7yjNfN30PP4OQ6) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Never Change \(feat\. Roddy Ricch\)](https://open.spotify.com/album/04owA5C5mh4CyXzpHgFchJ) | 3:59 | 2022-09-16 | 2023-01-23 |
 | [Never End Up Broke](https://open.spotify.com/track/05DZcUyOZDX4OR2mc1RIrg) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Never End Up Broke](https://open.spotify.com/album/540ZUOz3g4xw4mokGA0R4K) | 2:42 | 2022-07-01 | 2022-07-16 |
 | [Never End Up Broke Pt\. 2 \(feat\. Pusha T\)](https://open.spotify.com/track/3pPpHxBDoEqEcP4NyPp1iT) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Never End Up Broke Pt\. 2 \(feat\. Pusha T\)](https://open.spotify.com/album/6gVgQxn4oG3WXmcLhK4sBX) | 2:42 | 2022-08-12 | 2022-09-10 |
 | [Next Weekend](https://open.spotify.com/track/7et2onH9uPFS3JSlMOwaqb) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [Next Weekend](https://open.spotify.com/album/42Xdb6VkU7kRBt4HbeJrrA) | 3:12 | 2022-06-17 | 2022-07-09 |

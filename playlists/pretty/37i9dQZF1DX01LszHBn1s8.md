@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > I CAN BUY MYSELF FLOWERS
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,874 likes - 595 songs - 1 day 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,311 likes - 595 songs - 1 day 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

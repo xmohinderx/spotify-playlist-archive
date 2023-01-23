@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 141247,
+  "num_followers": 141253,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0Mzg2NSwwMDAwMDAwMGFkYTRiN2I4Y2QyM2I5OGQ0MDI5ZjFkMzg5YmMwODJi",
+  "snapshot_id": "MTY3MzI0Mzg2NSwwMDAwMDAwMDlmNTcyZWJhODA2NTJjZGU4ODBjZGU1YzcyM2UwMzQz",
   "tracks": [
     {
       "added_at": "2023-01-09 05:57:45",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
-        "name": "Ni Un Beso",
-        "url": "https://open.spotify.com/album/0XLIIlnNmBnwOnZgvjePLp"
-      },
-      "artists": [
-        {
-          "name": "Adassa",
-          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Ni Un Beso",
-      "url": "https://open.spotify.com/track/2y14VU6cH3CrwW4dK38rlR"
-    },
-    {
-      "added_at": "2023-01-09 05:57:45",
-      "album": {
         "name": "Nunca Voy A Olvidarte (Radio Mix)",
         "url": "https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 198216,
       "name": "Nunca Voy A Olvidarte - Radio Mix",
       "url": "https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW"
+    },
+    {
+      "added_at": "2023-01-09 05:57:45",
+      "album": {
+        "name": "Ni Un Beso",
+        "url": "https://open.spotify.com/album/0XLIIlnNmBnwOnZgvjePLp"
+      },
+      "artists": [
+        {
+          "name": "Adassa",
+          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Ni Un Beso",
+      "url": "https://open.spotify.com/track/2y14VU6cH3CrwW4dK38rlR"
     },
     {
       "added_at": "2023-01-09 05:57:45",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
-        "name": "Por Fin Decid\u00ed",
-        "url": "https://open.spotify.com/album/1kgbKExAs7N14nY4nkLyMl"
-      },
-      "artists": [
-        {
-          "name": "South TX Homies",
-          "url": "https://open.spotify.com/artist/7yMp1Rpn2cWmZxvK4B95xq"
-        }
-      ],
-      "duration_ms": 194599,
-      "name": "Por Fin Decid\u00ed",
-      "url": "https://open.spotify.com/track/3IqyM1UkxCobbGc3uUN0XL"
-    },
-    {
-      "added_at": "2023-01-09 05:57:45",
-      "album": {
         "name": "Quedate",
         "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 179063,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
+    },
+    {
+      "added_at": "2023-01-09 05:57:45",
+      "album": {
+        "name": "Por Fin Decid\u00ed",
+        "url": "https://open.spotify.com/album/1kgbKExAs7N14nY4nkLyMl"
+      },
+      "artists": [
+        {
+          "name": "South TX Homies",
+          "url": "https://open.spotify.com/artist/7yMp1Rpn2cWmZxvK4B95xq"
+        }
+      ],
+      "duration_ms": 194599,
+      "name": "Por Fin Decid\u00ed",
+      "url": "https://open.spotify.com/track/3IqyM1UkxCobbGc3uUN0XL"
     },
     {
       "added_at": "2023-01-09 05:57:45",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6"
+      },
+      "artists": [
+        {
+          "name": "Rene Ramirez Y Maduro",
+          "url": "https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH"
+        }
+      ],
+      "duration_ms": 200159,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
+    },
+    {
+      "added_at": "2023-01-09 05:57:45",
+      "album": {
         "name": "Escapate",
         "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
       },
@@ -539,18 +555,22 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6"
+        "name": "Vac\u00eda",
+        "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
       },
       "artists": [
         {
-          "name": "Rene Ramirez Y Maduro",
-          "url": "https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH"
+          "name": "Destiny Navaira",
+          "url": "https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e"
+        },
+        {
+          "name": "Myrza Maldonado",
+          "url": "https://open.spotify.com/artist/4lDrc1fp7FQT0wYguA1cmk"
         }
       ],
-      "duration_ms": 200159,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD"
+      "duration_ms": 180462,
+      "name": "Vac\u00eda",
+      "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
     },
     {
       "added_at": "2023-01-09 05:57:45",
@@ -587,26 +607,6 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
-        "name": "Vac\u00eda",
-        "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
-      },
-      "artists": [
-        {
-          "name": "Destiny Navaira",
-          "url": "https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e"
-        },
-        {
-          "name": "Myrza Maldonado",
-          "url": "https://open.spotify.com/artist/4lDrc1fp7FQT0wYguA1cmk"
-        }
-      ],
-      "duration_ms": 180462,
-      "name": "Vac\u00eda",
-      "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
-    },
-    {
-      "added_at": "2023-01-09 05:57:45",
-      "album": {
         "name": "Me Enamor\u00e9 de un \u00c1ngel",
         "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
       },
@@ -619,26 +619,6 @@
       "duration_ms": 251239,
       "name": "Me Enamor\u00e9 de un \u00c1ngel",
       "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
-    },
-    {
-      "added_at": "2023-01-09 05:57:45",
-      "album": {
-        "name": "Baby Luna",
-        "url": "https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO"
-      },
-      "artists": [
-        {
-          "name": "D",
-          "url": "https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb"
-        },
-        {
-          "name": "Chelo",
-          "url": "https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw"
-        }
-      ],
-      "duration_ms": 177748,
-      "name": "Baby Luna",
-      "url": "https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo"
     },
     {
       "added_at": "2023-01-09 05:57:45",
@@ -687,6 +667,26 @@
       "duration_ms": 224344,
       "name": "No Soy La Misma",
       "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
+    },
+    {
+      "added_at": "2023-01-09 05:57:45",
+      "album": {
+        "name": "Baby Luna",
+        "url": "https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO"
+      },
+      "artists": [
+        {
+          "name": "D",
+          "url": "https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb"
+        },
+        {
+          "name": "Chelo",
+          "url": "https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw"
+        }
+      ],
+      "duration_ms": 177748,
+      "name": "Baby Luna",
+      "url": "https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo"
     },
     {
       "added_at": "2023-01-09 05:57:45",

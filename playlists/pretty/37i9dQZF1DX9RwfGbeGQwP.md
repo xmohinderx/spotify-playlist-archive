@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,588 likes - 500 songs - 18 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,868 likes - 500 songs - 18 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 92 | [Glass](https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Glass](https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ) | 3:22 |
 | 93 | [So Be It](https://open.spotify.com/track/0W0nUfbrPMHfjx2W1rtmQR) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [So Be It](https://open.spotify.com/album/4hVT7AuO0urPieBLyJiZ9y) | 2:40 |
 | 94 | [Old School Love](https://open.spotify.com/track/6eNdKA73IIJr2SU4AbFzDf) | [Lonely Joyman](https://open.spotify.com/artist/4UZYBPHjHcnzMuyBFMFaWn) | [Cinematic Lofi](https://open.spotify.com/album/6ckc7Vooz6ZBurIesj3G2V) | 2:46 |
-| 95 | [Low Rake](https://open.spotify.com/track/3uxcX73X3YZlaGVeKzECjE) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh) | [Low Rake](https://open.spotify.com/album/2xEGZfG8okr9tQKmQLBuJx) | 1:56 |
+| 95 | [Low Rake](https://open.spotify.com/track/3uxcX73X3YZlaGVeKzECjE) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Low Rake](https://open.spotify.com/album/2xEGZfG8okr9tQKmQLBuJx) | 1:56 |
 | 96 | [After Surf Sandwich](https://open.spotify.com/track/0PMlGvzeLrQ27h8oGyfGMV) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Post It Beats Pt.1](https://open.spotify.com/album/7ajrWkAMXtm6aosZeWiSe4) | 2:32 |
 | 97 | [Dreamz](https://open.spotify.com/track/2mooZdBPN5CMd9sLLqn7rl) | [August Sky](https://open.spotify.com/artist/6hm8yEY43m6Q5aq1O8oLwI) | [Dreamz](https://open.spotify.com/album/0nsR1tVzZZ1uFOKgXqswau) | 3:49 |
 | 98 | [Out Of Order](https://open.spotify.com/track/5UgCKTRv3o4HrS5gOLUN4b) | [Tzeri](https://open.spotify.com/artist/52hl0yuSTaDyn0cJxxCMaK) | [Out Of Order](https://open.spotify.com/album/6IeQxgTkyOgmyo26GKWCNl) | 2:21 |
@@ -272,7 +272,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 262 | [Crispy](https://open.spotify.com/track/5jMGBHLA0scjcWYNbPpAg7) | [Rivizion](https://open.spotify.com/artist/1esGPYEd8HVgZnwtDicKoJ), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Crispy](https://open.spotify.com/album/7wPqOEwUuxvDedWMVeP3fl) | 2:09 |
 | 263 | [Freeine](https://open.spotify.com/track/7ufMGmS5G5wUdv3mWm4spT) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [Freeine](https://open.spotify.com/album/0eQZlYZlcrlhUAGQInejz4) | 2:20 |
 | 264 | [sluggish](https://open.spotify.com/track/1rdqpGkERZwwITr76nRsfX) | [Too Blue](https://open.spotify.com/artist/64dFA30C8QUhkgcTjAlZ4b) | [sluggish](https://open.spotify.com/album/3G6zHEOb8Itizqw7aL6DT2) | 2:03 |
-| 265 | [Sandbaggin'](https://open.spotify.com/track/1MmAvvKSQmx033XMJfzyBC) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd) | [Sandbaggin'](https://open.spotify.com/album/76yhrUTsBumHr0CRvrJLnY) | 1:40 |
+| 265 | [Sandbaggin'](https://open.spotify.com/track/1MmAvvKSQmx033XMJfzyBC) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Sandbaggin'](https://open.spotify.com/album/76yhrUTsBumHr0CRvrJLnY) | 1:40 |
 | 266 | [Magic Mind](https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Magic Mind](https://open.spotify.com/album/2sqn4T8rIqQkc0WHBabWIC) | 2:35 |
 | 267 | [Ice Mountain](https://open.spotify.com/track/3NKrot2fwnmwbNL8MUsWZw) | [Shogi Boy](https://open.spotify.com/artist/6Ye1lnToliYlxUujEDXip1) | [Ice Mountain](https://open.spotify.com/album/6uccgGz13yQU6L2bGKzsiq) | 1:48 |
 | 268 | [Lots of lofi in one tone](https://open.spotify.com/track/7MZgOMd6nDWR4HHJM8NStG) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Lots of lofi in one tone](https://open.spotify.com/album/4ADuZR1RptULzYraMIvgPO) | 2:03 |
@@ -301,7 +301,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 291 | [El Puerto](https://open.spotify.com/track/7BHfkCu0u6HbbDRtF2M4df) | [Los Piratas Azul](https://open.spotify.com/artist/0GT0SBqBCpQsb9pQpdhGiL) | [El Puerto](https://open.spotify.com/album/191zsQ0jLQ3wu4Ne2AcKHM) | 1:51 |
 | 292 | [Drive Thru](https://open.spotify.com/track/6dmo8FpWhleJYdiPwpKo4E) | [Loose Cannonz](https://open.spotify.com/artist/1PICAJuUPRwLbI77aAAtOV) | [Sea Breeze](https://open.spotify.com/album/700wmoRRp6z56TUym4tUPL) | 3:27 |
 | 293 | [Speed Of Tomorrow](https://open.spotify.com/track/7wIr7S0dD59uhCsspA2y7K) | [Inovalin Trem](https://open.spotify.com/artist/7EflRmV80Cnj9PmQZvpiUg) | [Speed Of Tomorrow](https://open.spotify.com/album/0OO47hC9O9Y9OkuK9y95d6) | 2:04 |
-| 294 | [gravel trap](https://open.spotify.com/track/66yzKiMDLw08z8Oa9JlgrS) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd) | [gravel trap](https://open.spotify.com/album/3W8lioV1UYFdp7x5ioe82s) | 1:33 |
+| 294 | [gravel trap](https://open.spotify.com/track/66yzKiMDLw08z8Oa9JlgrS) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [gravel trap](https://open.spotify.com/album/3W8lioV1UYFdp7x5ioe82s) | 1:33 |
 | 295 | [sugar n' spice](https://open.spotify.com/track/1OMlffcymhMMXX2jYft3Ox) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [grind house](https://open.spotify.com/album/2P5wpnFllJIwWKfdA2Aywa) | 3:00 |
 | 296 | [My Time](https://open.spotify.com/track/7tsdmsTis9koDeF4l0eZZ5) | [Rachelle Pertu](https://open.spotify.com/artist/4BtIZRedZ2qqlF6jBuwMIx) | [My Time](https://open.spotify.com/album/5H7f4wXCsSwqN6AhwZDBJL) | 1:39 |
 | 297 | [Stewart brunch](https://open.spotify.com/track/73O4hg0NPZUAShQOmzb1aT) | [Euphoric](https://open.spotify.com/artist/1bwMazAmHtSVXFislONO1i) | [Stewart Brunch](https://open.spotify.com/album/6GxYAimSYBqW9wzWA4BF1f) | 1:44 |
@@ -409,7 +409,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 399 | [ripple](https://open.spotify.com/track/3mkpwKRUX0u1GDQhrR8vQp) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [ripple](https://open.spotify.com/album/18H8HGviqtnArP662rcExG) | 2:34 |
 | 400 | [Simple Life](https://open.spotify.com/track/6LRmCgTbzVORakDfTfP8CW) | [yengotti](https://open.spotify.com/artist/1RaEktJWhxIrpYnj1LmXHU) | [Simple Life](https://open.spotify.com/album/3gf6zbNCUl3Aur6g7R1WMW) | 2:28 |
 | 401 | [California Trumpet](https://open.spotify.com/track/5o5A9VWshzCc7sJMhLN5AF) | [Tobinio Armstrong](https://open.spotify.com/artist/3GsD3Oqvr0S0LC9dWmaFQm) | [California Trumpet](https://open.spotify.com/album/60ITFn41Yjr6XzOHxlzl1b) | 2:04 |
-| 402 | [In Your Slipstream](https://open.spotify.com/track/1wxcBv3bOUfwttkauONOb6) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd) | [Slipstreamin'](https://open.spotify.com/album/2zbCqsUvKvnZde2Ak9KXQK) | 2:08 |
+| 402 | [In Your Slipstream](https://open.spotify.com/track/1wxcBv3bOUfwttkauONOb6) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Slipstreamin'](https://open.spotify.com/album/2zbCqsUvKvnZde2Ak9KXQK) | 2:08 |
 | 403 | [New Day Coming](https://open.spotify.com/track/6WCjNK192Wl9xDtwe5yMP7) | [Lvnt](https://open.spotify.com/artist/0lJBgFBswR7nf4TrKtwZQt) | [New Day Coming](https://open.spotify.com/album/4BNTLPkgMihGja5aBAkk89) | 2:37 |
 | 404 | [Clouds](https://open.spotify.com/track/6Lopj4mt4Zj0hPpMItJvxr) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Clouds](https://open.spotify.com/album/74BWuvFhtNKyHevyTbV3OB) | 1:45 |
 | 405 | [speakeasy](https://open.spotify.com/track/0UROH815rGAihfICtdgk2r) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [speakeasy](https://open.spotify.com/album/5ZrgqlxNkLV8l0o6PaVNzu) | 1:24 |

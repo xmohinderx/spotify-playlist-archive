@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 12634,
+  "num_followers": 12692,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjYzODgyMSwwMDAwMDAwMDk3ZDZkZDRiYzVlN2JlNTkzOWJhNmVhZTIzZjMyZThi",
+  "snapshot_id": "MTY3MjYzODgyMSwwMDAwMDAwMDk4YzVmZWZjYmQzMWM4MDc1ZTdkNGFjZTgyNjA1YzQ0",
   "tracks": [
     {
       "added_at": "2023-01-02 05:53:41",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-01-02 05:53:41",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 0",
-        "url": "https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 121266,
-      "name": "RECEIPTS (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/2uApb0K8SrbiHBU2NuefKl"
-    },
-    {
-      "added_at": "2023-01-02 05:53:41",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 224951,
       "name": "2nd THOTS",
       "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
+    },
+    {
+      "added_at": "2023-01-02 05:53:41",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 0",
+        "url": "https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 121266,
+      "name": "RECEIPTS (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/2uApb0K8SrbiHBU2NuefKl"
     },
     {
       "added_at": "2023-01-02 05:53:41",
@@ -2131,30 +2131,6 @@
     {
       "added_at": "2023-01-02 05:53:41",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 362314,
-      "name": "WORLDWIDE",
-      "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
-    },
-    {
-      "added_at": "2023-01-02 05:53:41",
-      "album": {
         "name": "Ask Bout Me",
         "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
       },
@@ -2175,6 +2151,30 @@
       "duration_ms": 231360,
       "name": "FSU (feat. GASHI & Rich The Kid)",
       "url": "https://open.spotify.com/track/0nJnzVlIJV3vqckZ06PeaM"
+    },
+    {
+      "added_at": "2023-01-02 05:53:41",
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 362314,
+      "name": "WORLDWIDE",
+      "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
     },
     {
       "added_at": "2023-01-02 05:53:41",

@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-102 songs - 4 hr 41 min
+103 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Pathways](https://open.spotify.com/track/65tWLAZnxG5UqOw0M07Pfs) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Howard B Thy Name 7](https://open.spotify.com/artist/6trXIx9xRq4iR7Oho2wdIy), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Pathways](https://open.spotify.com/album/4hm57vdkhtsFjYqcuUYcH4) | 3:29 | 2023-01-12 |  |
 | [Peach Rings](https://open.spotify.com/track/3nt0tWlN3r4JPCqWBulqYS) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx), [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [Daybreak](https://open.spotify.com/album/4JBCzFSYDYV4tP0Ty07jOj) | 2:41 | 2023-01-12 |  |
 | [Pivot](https://open.spotify.com/track/70eLlZeUn31MKzLaVlSlbP) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Every Story / Pivot](https://open.spotify.com/album/4D9eXpTDXXLDO8OUyj2VZi) | 3:18 | 2023-01-12 |  |
+| [Pouring Margarita](https://open.spotify.com/track/0ibru2bNyCrClfqznOVXFI) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Pouring Margarita](https://open.spotify.com/album/0dhtfQ82luu5zclu117YwH) | 1:30 | 2023-01-19 |  |
 | [Reflection](https://open.spotify.com/track/20rDMAV7nHVWN0ih5vLdLc) | [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M), [yujeongcokr](https://open.spotify.com/artist/3mspVlD1WihY46b7keRPyf) | [Reflection](https://open.spotify.com/album/168btAQtCTUue1WU0bpJz7) | 2:56 | 2023-01-12 |  |
 | [Reflections](https://open.spotify.com/track/2zgbN6Db0WvF2pyVuSisnt) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:20 | 2023-01-12 |  |
 | [Refractions](https://open.spotify.com/track/5T78R7NpMs9DJVSaxEowuM) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [mishingo](https://open.spotify.com/artist/4h3GbEbbDBcyrICmI4QUAK) | [Refractions](https://open.spotify.com/album/03KrQZCLUNTSaqnx1GHBsT) | 2:16 | 2023-01-12 |  |
@@ -102,7 +103,7 @@
 | [Too Much](https://open.spotify.com/track/36X8j52PvjhJztIGopCjIJ) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Thursday](https://open.spotify.com/album/5L829kuzY7EhGHEimMUDeF) | 2:17 | 2023-01-12 |  |
 | [Train Tales](https://open.spotify.com/track/5PVWIBum4skGcuHkI8bWKB) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Train Tales](https://open.spotify.com/album/65VJznRcsus1IxGEyFNzft) | 1:37 | 2023-01-12 |  |
 | [Truly Another Classic](https://open.spotify.com/track/4Cesp17kIKOhUwQnqzdbG6) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 2:33 | 2023-01-12 |  |
-| [Up the Block \(Live\)](https://open.spotify.com/track/3PVuA7US6N5rOmTpy0tjyv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Undertones \(Live\)](https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw) | 2:48 | 2023-01-12 |  |
+| [Up the Block \(Live\)](https://open.spotify.com/track/3PVuA7US6N5rOmTpy0tjyv) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Undertones \(Live\)](https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw) | 2:48 | 2023-01-12 | 2023-01-23 |
 | [VA Noir](https://open.spotify.com/track/3qa5y1yALHkSU3i698pici) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 1:45 | 2023-01-12 |  |
 | [Volpaia](https://open.spotify.com/track/4Xp91oprIAo7n9tMYvK1f4) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Volpaia](https://open.spotify.com/album/0mR6D7VJMDdUNL7LPo4DEw) | 2:13 | 2023-01-12 |  |
 | [Warm Light](https://open.spotify.com/track/4t983wHwJcdqPGjCq6SA3V) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Lost Travelers](https://open.spotify.com/album/6SdTEzCdDtiWCSSnwzE2jb) | 2:36 | 2023-01-12 |  |

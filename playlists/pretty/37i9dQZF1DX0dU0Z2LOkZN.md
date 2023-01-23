@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,706 likes - 207 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,865 likes - 207 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 40 | [In the Cypher](https://open.spotify.com/track/5W6BcU0JP8ArJF4HKxiwNW) | [Bonkers Beat Club](https://open.spotify.com/artist/4iOBGfQcQnaCbchbsOdEQx) | [Big Big Man](https://open.spotify.com/album/28EtX6paSslPKDaEbzCSWd) | 2:28 |
 | 41 | [Big Big Man](https://open.spotify.com/track/5LvWYD21qJLV4m5PpGuznD) | [Bonkers Beat Club](https://open.spotify.com/artist/4iOBGfQcQnaCbchbsOdEQx) | [Big Big Man](https://open.spotify.com/album/28EtX6paSslPKDaEbzCSWd) | 2:06 |
 | 42 | [Holes in the Sky](https://open.spotify.com/track/3aNwsJSJaWGRD8caYro1hW) | [Toronto 7s](https://open.spotify.com/artist/6uunQvg4RiF0lBnTst3ylB) | [Holes in the Sky](https://open.spotify.com/album/4s0HmyMcLDszh7RI03zpsW) | 2:36 |
-| 43 | [lo degradation](https://open.spotify.com/track/3OTuIBudl8FkUGeCUuUMyv) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd) | [lo degradation](https://open.spotify.com/album/21AMrDO2AsMF3kjrk5v068) | 2:26 |
+| 43 | [lo degradation](https://open.spotify.com/track/3OTuIBudl8FkUGeCUuUMyv) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [lo degradation](https://open.spotify.com/album/21AMrDO2AsMF3kjrk5v068) | 2:26 |
 | 44 | [Ivory Vinyl](https://open.spotify.com/track/7JSvQD2fp3CyTwaC2jdTgy) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Ivory Vinyl](https://open.spotify.com/album/3okEINtVxKEVOA7pyKg3Xp) | 2:00 |
 | 45 | [Ode to Dilla](https://open.spotify.com/track/407DlHtPfntr7TncxmKkIf) | [Fdluxx](https://open.spotify.com/artist/4J6llszQj5aasQouHnuC1k) | [Ode to Dilla](https://open.spotify.com/album/5fhEDn25e8AtU1ShoBfGzo) | 2:03 |
 | 46 | [VANDALISMO](https://open.spotify.com/track/2Q9pvLsu0ausL3ewYyFWIi) | [RAIDEN KILLAH](https://open.spotify.com/artist/62gxNPMK6gH8ygTbi51ojU), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [VANDALISMO](https://open.spotify.com/album/533GKyglIbEENAwVlDSXd6) | 1:49 |

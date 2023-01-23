@@ -4,7 +4,7 @@
 
 > The best indie covers\. Cover: Remi Wolf
 
-367 songs - 22 hr 40 min
+368 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Blinding Lights](https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0) | [Ouvindo](https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid) | [Blinding Lights](https://open.spotify.com/album/7K77V3y6amFewbD01gZhby) | 3:37 | 2021-03-12 |  |
 | [Blinding Lights](https://open.spotify.com/track/1JlQqsAXDTwBCW4eMSRWZB) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Blinding Lights](https://open.spotify.com/album/57J0EidVGPE6zvDrgbPg86) | 3:07 | 2022-11-11 | 2023-01-21 |
 | [Blinding Lights](https://open.spotify.com/track/5sKN6nGLcbfveIVEoejeoC) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Blinding Lights](https://open.spotify.com/album/7I4aB73LOtDFQhJQE6HmQc) | 3:07 | 2021-03-12 | 2022-08-31 |
+| [Blinding Lights](https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Blinding Lights](https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w) | 2:52 | 2023-01-20 |  |
 | [Bloodbuzz Ohio](https://open.spotify.com/track/2pfkaHd8arhESSxyJAou6g) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Bloodbuzz Ohio](https://open.spotify.com/album/6SSiMdf8Hsgojfo8MvjIPq) | 4:39 | 2021-03-12 | 2022-07-03 |
 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 | 2021-03-12 |  |
 | [Born to Die \- piano](https://open.spotify.com/track/1wxgqctPgzOjJtQWVKlTfV) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Piano Salt EP](https://open.spotify.com/album/715OP1HtF5iNmF7yCVvPgk) | 4:25 | 2021-03-12 | 2022-07-29 |
@@ -136,7 +137,7 @@
 | [Happy Together](https://open.spotify.com/track/3BYY6EvwqAIBnRZVHi1XMG) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Happy Together](https://open.spotify.com/album/2AvUpNIbOC4UwiCpdJMDxf) | 3:06 | 2021-03-12 | 2022-04-20 |
 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 | 2021-03-12 | 2022-08-10 |
 | [Head Over Heels](https://open.spotify.com/track/3O7ISGCHZ59cCALecLfUEm) | [Merival](https://open.spotify.com/artist/1kCQYFPjvDy6ARPdGi3dby) | [Head Over Heels](https://open.spotify.com/album/3iLtKKmKRLGU10euWEYzFk) | 3:37 | 2021-07-21 | 2022-07-29 |
-| [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 | 2021-03-12 |  |
+| [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 | 2021-03-12 | 2023-01-23 |
 | [Heart\-Shaped Box](https://open.spotify.com/track/2UrSdFSG1rTuzCwAkeP0ou) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Quarantine Covers](https://open.spotify.com/album/1PoNxdvXr6C4XM4cr6Fr6u) | 3:03 | 2021-03-12 | 2023-01-14 |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2021-03-12 | 2022-08-10 |
 | [high and dry](https://open.spotify.com/track/6B9bHLVreCYkEgMs3SnQnY) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [high and dry](https://open.spotify.com/album/3QF88Oi8ah5VqZZD7cgfF2) | 4:05 | 2021-03-12 | 2022-04-08 |

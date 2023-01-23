@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-323 songs - 17 hr 40 min
+324 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Better Off Alone](https://open.spotify.com/track/3LoyPU4kSmEw1T9pwCT9BV) | [Grant](https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus) | [Better Off Alone](https://open.spotify.com/album/0Jayd4lB5OIbttveLGCxeU) | 4:09 | 2022-05-06 | 2022-07-29 |
 | [Blame Myself \- Moore Kismet Remix](https://open.spotify.com/track/4NsTmmpejm6S7TgrPNPLtB) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Fallen Embers \(Remixes\)](https://open.spotify.com/album/1Yk31OUIHxpPlZVq4MNF4w) | 4:38 | 2022-06-24 | 2022-07-06 |
 | [Blank](https://open.spotify.com/track/2EjSewEKEZShOUBwFXUrK5) | [Disfigure](https://open.spotify.com/artist/6qS98hCc0GWwq1AShPNl2w) | [Blank](https://open.spotify.com/album/4i190iBPlyKHfri4i20Ow4) | 3:28 | 2022-06-24 | 2022-07-05 |
-| [Blank](https://open.spotify.com/track/7ucAyhKPjKsLrP14q4mcyo) | [Disfigure](https://open.spotify.com/artist/6qS98hCc0GWwq1AShPNl2w) | [Blank](https://open.spotify.com/album/6ASew3RZGJJ5igghbU9lX2) | 3:28 | 2022-07-14 |  |
+| [Blank](https://open.spotify.com/track/7ucAyhKPjKsLrP14q4mcyo) | [Disfigure](https://open.spotify.com/artist/6qS98hCc0GWwq1AShPNl2w) | [Blank](https://open.spotify.com/album/6ASew3RZGJJ5igghbU9lX2) | 3:28 | 2022-07-14 | 2023-01-23 |
 | [Blinding Me](https://open.spotify.com/track/6V9qqUOyk3czAHwT9aGhRS) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [Blinding Me](https://open.spotify.com/album/05YpcC2jPBp7RVG4wsnPrj) | 1:52 | 2022-12-09 | 2023-01-14 |
 | [BLOOD](https://open.spotify.com/track/2odJRoZ0Bx3aHvNa8hpNrD) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [AUTONOMY](https://open.spotify.com/album/5faGNZdFI0tMkcjw40yODR) | 3:14 | 2022-05-06 | 2022-12-08 |
 | [Blood // Water](https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:34 | 2022-07-14 |  |
@@ -317,6 +317,7 @@
 | [Welcome to the Club](https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Welcome to the Club](https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe) | 4:02 | 2022-07-04 | 2022-07-24 |
 | [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Wellerman \(Sea Shanty / 220 KID x Billen Ted Remix\)](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 | 2022-06-24 |  |
 | [What If](https://open.spotify.com/track/0yPVQddK8S6ocwHyZv43Nf) | [Approaching Nirvana](https://open.spotify.com/artist/3sS2Q1UZuUXL7TZSbQumDI), [Alex Holmes](https://open.spotify.com/artist/3z8cJXANYZnhvGg80JKBSN) | [What If](https://open.spotify.com/album/0JSHFQVMb802gVX5lG7K1x) | 3:14 | 2022-05-06 | 2022-07-04 |
+| [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-01-13 |  |
 | [When A Champion Falls](https://open.spotify.com/track/4kDZlKBNDgUCMKXui3ZGhL) | [Animadrop](https://open.spotify.com/artist/1AUZ4SxTPTZL7wDE80tPcR) | [When A Champion Falls](https://open.spotify.com/album/7bZGff0Ak3WYpInUoD4LbW) | 4:05 | 2022-05-06 | 2022-07-29 |
 | [When I'm Gone](https://open.spotify.com/track/6rhZZuD7lVsJTOkqxLepTj) | [Tetrix Bass](https://open.spotify.com/artist/7wqWpJmkmXr5e8dcXdbrC6), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Ellen Louise](https://open.spotify.com/artist/67yangDHSVlDpDS4U4UWKe) | [When I'm Gone](https://open.spotify.com/album/1BlfvPW5eXF2tyyL6OkDaY) | 3:37 | 2022-06-24 | 2022-07-25 |
 | [When The Summer Dies](https://open.spotify.com/track/0mjGSve5fXuesAutgeN9OI) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [When The Summer Dies](https://open.spotify.com/album/1u7CRR2ketwfxA3FKGzEPK) | 5:29 | 2022-07-14 | 2022-10-13 |

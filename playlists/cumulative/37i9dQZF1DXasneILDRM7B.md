@@ -2,7 +2,7 @@
 
 ### [Pure Pop Punk](https://open.spotify.com/playlist/37i9dQZF1DXasneILDRM7B)
 
-> Please stand for your personal anthems\. Cover: Sum 41
+> Please stand for your personal anthems\. Cover: Fall Out Boy
 
 345 songs - 19 hr 3 min
 

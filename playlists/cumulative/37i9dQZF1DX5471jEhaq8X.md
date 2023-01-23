@@ -4,7 +4,7 @@
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: Tito Torbellino Jr, Natanael Cano, Gabito Ballesteros.
 
-405 songs - 20 hr 42 min
+406 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,8 @@
 | [Guerra Sin Cuartel](https://open.spotify.com/track/1gcmEv26KMm3zzJIBFq2XQ) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Guerra Sin Cuartel](https://open.spotify.com/album/7tGjK4C7DkQwmViEtev57v) | 2:48 | 2022-07-15 | 2023-01-14 |
 | [Hace Falta Alfredo \- En Vivo](https://open.spotify.com/track/17mMtevvz5ueyKAcRkY6UQ) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hace Falta Alfredo \(En Vivo\)](https://open.spotify.com/album/0ZdqcORRpgy7TohYvU8WUc) | 2:59 | 2022-07-15 | 2023-01-14 |
 | [Hasta El Más Amigo Es Traidor](https://open.spotify.com/track/1mQUybJiwnZjmvwIyLlMb5) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [Hasta El Más Amigo Es Traidor](https://open.spotify.com/album/61z6g6a2z7SGXwbfZQpEvo) | 2:51 | 2022-09-09 | 2022-09-24 |
-| [Hay Les Encargo](https://open.spotify.com/track/7c5TvrRGKpFlXCyDAiy2WV) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Hay Les Encargo](https://open.spotify.com/album/2pth52UsiIBDwqhuP9UHNS) | 2:42 | 2022-12-23 |  |
+| [Hay Les Encargo](https://open.spotify.com/track/7c5TvrRGKpFlXCyDAiy2WV) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Hay Les Encargo](https://open.spotify.com/album/2pth52UsiIBDwqhuP9UHNS) | 2:42 | 2022-12-23 | 2023-01-23 |
+| [Hay Les Encargo](https://open.spotify.com/track/2oU624ui3RVaSNpMqA4Gd3) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Hay Les Encargo](https://open.spotify.com/album/6rAmk14u7dDPQ0W10ogTwa) | 2:42 | 2023-01-13 |  |
 | [Hay Que Disfrutar](https://open.spotify.com/track/4lddujOxgHNcfmCvj9ajzy) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92), [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Hay Que Disfrutar](https://open.spotify.com/album/71u20Cjtd4giAmYqL1a58D) | 2:47 | 2022-07-22 | 2022-09-10 |
 | [Hay Que Hacer Dinero](https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Hay Que Hacer Dinero](https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN) | 2:59 | 2022-05-13 | 2023-01-14 |
 | [Hierba Mala Nunca Muere \(Música Original de la Serie el Señor de los Cielos 8\)](https://open.spotify.com/track/5v6jSoZb9VVYeJaiUQ8xxF) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Hierba Mala Nunca Muere \(Música Original de la Serie el Señor de los Cielos 8\)](https://open.spotify.com/album/6gLvcZQeELJuG9Xsy30A6u) | 3:18 | 2023-01-20 |  |

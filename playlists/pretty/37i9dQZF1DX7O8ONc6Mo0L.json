@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Kleber Lucas, Caetano Veloso",
-  "num_followers": 232466,
+  "num_followers": 232518,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMGRkZTZjNTk3NDJjNzllZmQ0YmRjNTY1ZDc1ZmJhMjZm",
+  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMGJhNTUwZGI3MDgyYTliOTQwN2ZmMGE4ZWU3MzdiZTFl",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Vendavais (Em Casa Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Vendavais - Em Casa Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "O Lugar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3b5JIWeAc983PvpFjscVjb"
       },
@@ -935,22 +919,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Minha Ess\u00eancia",
-        "url": "https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG"
+        "name": "Vendavais (Em Casa Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
       },
       "artists": [
         {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Jay Santana",
-          "url": "https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do"
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 269354,
-      "name": "Descansa",
-      "url": "https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7"
+      "duration_ms": 281142,
+      "name": "Vendavais - Em Casa Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -979,6 +959,26 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Minha Ess\u00eancia",
+        "url": "https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Jay Santana",
+          "url": "https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do"
+        }
+      ],
+      "duration_ms": 269354,
+      "name": "Descansa",
+      "url": "https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Ac\u00fastico, Vol. 2",
         "url": "https://open.spotify.com/album/0OcToYPbbdIO4d6p7SJZ2n"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
-        "url": "https://open.spotify.com/album/1Rz6o5OcmhO1YevBCg8bvw"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 252874,
-      "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Valeu a Pena",
         "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 237510,
       "name": "Valeu a Pena",
       "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
+        "url": "https://open.spotify.com/album/1Rz6o5OcmhO1YevBCg8bvw"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 252874,
+      "name": "Melhor Lugar: Sess\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7fpvwvVR2zhNaWUAUDXznF"
     },
     {
       "added_at": "2023-01-20 03:00:00",

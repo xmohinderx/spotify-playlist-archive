@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Adriel Favela
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,622 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,694 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 28 | [La Despedida](https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Despedida](https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk) | 2:21 |
 | 29 | [amorlove](https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ) | 2:29 |
 | 30 | [Nadie En Este Mundo](https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 3:52 |
-| 31 | [Dobel Dosis](https://open.spotify.com/track/0F5jIKqse7Z5MC3hV2CVO6) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [Doble Dosis](https://open.spotify.com/album/6zLtj0ekbIIMUGdwLkckMC) | 3:13 |
+| 31 | [Dobel Dosis](https://open.spotify.com/track/0F5jIKqse7Z5MC3hV2CVO6) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [Doble Dosis](https://open.spotify.com/album/6zLtj0ekbIIMUGdwLkckMC) | 4:11 |
 | 32 | [Soñando En Grande \(En Vivo\)](https://open.spotify.com/track/77gKW32LiSERIzfYf9rhcJ) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Soñando En Grande \(En Vivo\)](https://open.spotify.com/album/0uP057B5TXlvmeTzaAViQs) | 3:32 |
 | 33 | [Por Fin](https://open.spotify.com/track/4jcFwcnHDVSB97MLQtmeAl) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0), [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N) | [Por Fin](https://open.spotify.com/album/5PQmIJIX3dVagSqS9LwTVF) | 2:01 |
 | 34 | [Se Regala un Corazòn](https://open.spotify.com/track/2MQQt2jC5wDyKVvyU1NeMP) | [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [Se Regala un Corazón](https://open.spotify.com/album/6g4dHvq6fgNtlYnJNs2KK1) | 2:58 |

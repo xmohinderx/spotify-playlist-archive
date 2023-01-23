@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 24772,
+  "num_followers": 24787,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDljNGE2NzY0NTU4ZGZlMWIyNWJhZTU1ZDlhMGU0YmNl",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDEyNjMwYmIwYmI1YTUxMTA2NmQ0M2I2OTlhMDJmMWJl",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -147,22 +147,26 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "KESI (Remix)",
-        "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         },
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 176575,
-      "name": "KESI - Remix",
-      "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
+      "duration_ms": 231603,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -203,26 +207,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
+        "name": "KESI (Remix)",
+        "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         },
         {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 231603,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
+      "duration_ms": 176575,
+      "name": "KESI - Remix",
+      "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 258640,
+      "name": "Un Amor Eterno",
+      "url": "https://open.spotify.com/track/3Wx05XUK4VGLYWTChk572f"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 258640,
-      "name": "Un Amor Eterno",
-      "url": "https://open.spotify.com/track/3Wx05XUK4VGLYWTChk572f"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "No Pienso Caer",
+        "url": "https://open.spotify.com/album/1JoQ2JCFjyol7rwn82BbvN"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "No Pienso Caer",
+      "url": "https://open.spotify.com/track/1lVHiMaB3bHEjOtuAX0hMm"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Sin Pijama (Kumbia Remix)",
         "url": "https://open.spotify.com/album/6LQGBxCPTWM1dkF7lle6c7"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 204288,
       "name": "Sin Pijama - Kumbia Remix",
       "url": "https://open.spotify.com/track/6eUkC9LXvTpmQMfhyJpoNu"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "No Pienso Caer",
-        "url": "https://open.spotify.com/album/1JoQ2JCFjyol7rwn82BbvN"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "No Pienso Caer",
-      "url": "https://open.spotify.com/track/1lVHiMaB3bHEjOtuAX0hMm"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "El Fen\u00f3meno del Mambo",
+        "url": "https://open.spotify.com/album/25Vl33c9fDERhuJ7mSzEdJ"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "El Fen\u00f3meno del Mambo",
+      "url": "https://open.spotify.com/track/2J6tJINnAI7Oqh0hYyQPLd"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Otra Botella",
         "url": "https://open.spotify.com/album/1x1l4HTXeFzxKcRovL23h3"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 166037,
       "name": "Otra Botella",
       "url": "https://open.spotify.com/track/7B6aEwgsjVLGrXn11mbyRe"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "El Fen\u00f3meno del Mambo",
-        "url": "https://open.spotify.com/album/25Vl33c9fDERhuJ7mSzEdJ"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "El Fen\u00f3meno del Mambo",
-      "url": "https://open.spotify.com/track/2J6tJINnAI7Oqh0hYyQPLd"
     },
     {
       "added_at": "2022-08-31 07:37:37",

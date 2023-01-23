@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 170189,
+  "num_followers": 170253,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDBlZjVmNzU3OGY1OWY5MWU4YWExZTZkYjJlMjlmNzkx",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDRkNzIzN2YyOGY4NzRmMTYxOTM1Y2RkNTZhOWMyY2Yy",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "We got it from Here... Thank You 4 Your service",
         "url": "https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 172013,
       "name": "We The People....",
       "url": "https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Us and Them (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/3mwLIWu6drN0n6t9e5bwjG"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
         "name": "RTJ4",
         "url": "https://open.spotify.com/album/6cx4GVNs03Pu4ZczRnWiLd"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 205160,
       "name": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
       "url": "https://open.spotify.com/track/10vS4ZLi4XWlIsNXSQXgqh"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Us and Them (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/3mwLIWu6drN0n6t9e5bwjG"
     },
     {
       "added_at": "2022-11-04 04:00:00",

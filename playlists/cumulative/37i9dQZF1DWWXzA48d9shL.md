@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$ and Germ
 
-365 songs - 14 hr 25 min
+366 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,8 @@
 | [Told Ya](https://open.spotify.com/track/0O9azTQB2JhJJ0JtI6upoQ) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [WHO IS WHIPPED CREAM?](https://open.spotify.com/album/0UbawIfwVpyhGTb1YA55dp) | 1:43 | 2021-09-17 | 2022-04-18 |
 | [Torches](https://open.spotify.com/track/4OcOqImlsHL73c8Zn1VUu2) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [Torches](https://open.spotify.com/album/7ffXmVaFkjizO3LvVdRnz3) | 2:26 | 2022-04-15 | 2022-05-21 |
 | [TOXIC](https://open.spotify.com/track/6ppHVhbg1b9HS0iggioYtt) | [NERONUS](https://open.spotify.com/artist/2J5FeaNi5K4F9xml5lWD0L) | [TOXIC](https://open.spotify.com/album/1ZG1rFrQimhJAIMZL84PKs) | 3:05 | 2022-02-11 | 2022-04-21 |
-| [TOXIC](https://open.spotify.com/track/7DfX6Bou8XXAxkWSUt18LD) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [TOXIC](https://open.spotify.com/album/1JDRqkMuIapYrNN8nYOiTh) | 1:24 | 2023-01-05 |  |
+| [TOXIC](https://open.spotify.com/track/7DfX6Bou8XXAxkWSUt18LD) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [TOXIC](https://open.spotify.com/album/1JDRqkMuIapYrNN8nYOiTh) | 1:24 | 2023-01-05 | 2023-01-23 |
+| [TOXIC](https://open.spotify.com/track/7mlagGXcvSapZdWesGpmdS) | [YOUNGX777](https://open.spotify.com/artist/6JFaTYyfO9VRWnlC3ypYJh) | [TOXIC](https://open.spotify.com/album/7l72jwIz37QsEP1RzSNG5O) | 1:24 | 2023-01-05 |  |
 | [Trumpets](https://open.spotify.com/track/18wVzwlJ2zkBxzwV6SKNQs) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [Trumpets](https://open.spotify.com/album/2911GWsISHeF45SK8iy3NY) | 1:34 | 2021-09-17 | 2022-10-29 |
 | [UBER EATS](https://open.spotify.com/track/5Uv2YYRGuqQ9sjIJq7WZZU) | [Northside Hollow](https://open.spotify.com/artist/7CTwgcHGx4eMeP4YeW1lC5), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [UBER EATS](https://open.spotify.com/album/08WdgJ9VIl80uCj9LFmwaz) | 2:25 | 2022-07-01 | 2022-07-08 |
 | [Ugliest](https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:58 | 2022-04-05 | 2022-05-17 |

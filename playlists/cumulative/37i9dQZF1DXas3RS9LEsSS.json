@@ -922,7 +922,7 @@
     {
       "album": {
         "name": "Sancocho Stereo",
-        "url": "https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB"
+        "url": "https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq"
       },
       "artists": [
         {
@@ -937,6 +937,28 @@
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 253657,
+      "name": "Mugre",
+      "url": "https://open.spotify.com/track/35PSnAtNhWDrsHaik2Re8y"
+    },
+    {
+      "album": {
+        "name": "Sancocho Stereo",
+        "url": "https://open.spotify.com/album/6C5oBZMtcSchAu9TuTSrKB"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        },
+        {
+          "name": "Carca",
+          "url": "https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
       "duration_ms": 253657,
       "name": "Mugre",
       "url": "https://open.spotify.com/track/4JiQitejySZpFVqtXDGsW9"

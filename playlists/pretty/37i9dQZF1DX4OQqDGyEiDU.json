@@ -1,12 +1,12 @@
 {
   "description": "\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002\n",
-  "num_followers": 56192,
+  "num_followers": 56268,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE0MDQwMCwwMDAwMDAwMDEyNDU1Y2YxMWJhNWVkNThkMDhiN2MwMzkzOWMxOTI4",
+  "snapshot_id": "MTY3NDE0MDQwMCwwMDAwMDAwMGQxZjdlOWIyMmQ2YmNjNTk5MjUwYWVmNjkyZmQzOWU5",
   "tracks": [
     {
       "added_at": "2023-01-19 15:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-01-19 15:00:00",
       "album": {
-        "name": "The Deluge",
-        "url": "https://open.spotify.com/album/0XVzhmnx7nQ1TYxUGKBmXx"
-      },
-      "artists": [
-        {
-          "name": "Chinozo",
-          "url": "https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx"
-        }
-      ],
-      "duration_ms": 172790,
-      "name": "good-bye declaration",
-      "url": "https://open.spotify.com/track/6SYj9vjjVTwKn08iKZR11m"
-    },
-    {
-      "added_at": "2023-01-19 15:00:00",
-      "album": {
         "name": "plotoplan",
         "url": "https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 247111,
       "name": "\u30d5\u30a3\u30af\u30b5\u30fc",
       "url": "https://open.spotify.com/track/2DYupgAcdomatly7Lhw8zv"
+    },
+    {
+      "added_at": "2023-01-19 15:00:00",
+      "album": {
+        "name": "The Deluge",
+        "url": "https://open.spotify.com/album/0XVzhmnx7nQ1TYxUGKBmXx"
+      },
+      "artists": [
+        {
+          "name": "Chinozo",
+          "url": "https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx"
+        }
+      ],
+      "duration_ms": 172790,
+      "name": "good-bye declaration",
+      "url": "https://open.spotify.com/track/6SYj9vjjVTwKn08iKZR11m"
     }
   ],
   "unique_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",

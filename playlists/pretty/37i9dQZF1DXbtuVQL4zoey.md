@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,071 likes - 309 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,142 likes - 309 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -238,7 +238,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 228 | [Dripht](https://open.spotify.com/track/0OGA7zBgWPrd0FW6au6TVN) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Dripht](https://open.spotify.com/album/27565GcAZufKzkN8Vk89WR) | 3:07 |
 | 229 | [Spraytan](https://open.spotify.com/track/73fwCt5oobtmrRsUgGESNk) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [Spraytan](https://open.spotify.com/album/2f5Su2fNCqu1gzHH4YK61J) | 2:00 |
 | 230 | [wolfram wonders](https://open.spotify.com/track/2SEnMRBzVNrfraOxbFKI2Q) | [ideal form](https://open.spotify.com/artist/2YhLgIJkYQpdzQqUoLE79a) | [lightbulb](https://open.spotify.com/album/7tlUo25yvN8n0JErn7ytSw) | 1:48 |
-| 231 | [Strat Mode 5](https://open.spotify.com/track/4XrZjM1DPZryBRSAMlBHvI) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh) | [Strat Mode 5](https://open.spotify.com/album/59GnZTLTRuvBjQ64wqLyPS) | 1:57 |
+| 231 | [Strat Mode 5](https://open.spotify.com/track/4XrZjM1DPZryBRSAMlBHvI) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Strat Mode 5](https://open.spotify.com/album/59GnZTLTRuvBjQ64wqLyPS) | 1:57 |
 | 232 | [The New Day](https://open.spotify.com/track/1y2zDUWWkG4P97pDjWGrDi) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [The New Day](https://open.spotify.com/album/2d6zNXCP512uLmfEsI10xA) | 2:44 |
 | 233 | [Caribbean Latte](https://open.spotify.com/track/5X9jS1tU1Hv2yPh4dGC1HH) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Caribbean Latte](https://open.spotify.com/album/1C1yDFumSDLh71qZzyxtac) | 2:18 |
 | 234 | [Afternoon Wind](https://open.spotify.com/track/2eMu2au8FVOaHemQfi7Sah) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Afternoon Wind](https://open.spotify.com/album/0t3OwwDp5vnzPig21TJsH8) | 2:04 |

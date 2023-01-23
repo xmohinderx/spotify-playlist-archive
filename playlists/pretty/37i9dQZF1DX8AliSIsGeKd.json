@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic music from Electronica to Techno. Cover: Cosmic Boys",
-  "num_followers": 568945,
+  "num_followers": 569039,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMGU2MzM2Y2FhMWM4Y2YzNDY2NmYzMmI1N2Q1ZjI1Y2M1",
+  "snapshot_id": "MTY3NDM4Mzc1MCwwMDAwMDAwMDRmNGJiNzdmMGRiM2RjMzRkNTRmYmM1M2YwZTg2YjY1",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -583,6 +583,34 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Dreams (Mollono.Bass Remix)",
+        "url": "https://open.spotify.com/album/0XrNzUubEbGkSbsavkBgs9"
+      },
+      "artists": [
+        {
+          "name": "Prismode",
+          "url": "https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH"
+        },
+        {
+          "name": "Solvane",
+          "url": "https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0"
+        },
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        },
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 457000,
+      "name": "Dreams - Mollono.Bass Remix",
+      "url": "https://open.spotify.com/track/3qjPAAubTannD16Fslz1he"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Beta Ride",
         "url": "https://open.spotify.com/album/12V1BsRT4CKWOpBgEcckKE"
       },
@@ -679,34 +707,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Dreams (Mollono.Bass Remix)",
-        "url": "https://open.spotify.com/album/0XrNzUubEbGkSbsavkBgs9"
-      },
-      "artists": [
-        {
-          "name": "Prismode",
-          "url": "https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH"
-        },
-        {
-          "name": "Solvane",
-          "url": "https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0"
-        },
-        {
-          "name": "Eleonora",
-          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
-        },
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        }
-      ],
-      "duration_ms": 457000,
-      "name": "Dreams - Mollono.Bass Remix",
-      "url": "https://open.spotify.com/track/3qjPAAubTannD16Fslz1he"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Sentinel",
         "url": "https://open.spotify.com/album/1500Ei7yFgO3lZVaOe0A6b"
       },
@@ -759,30 +759,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/1i4orCDlDc6YZuDV0bPI01"
-      },
-      "artists": [
-        {
-          "name": "Prismode",
-          "url": "https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH"
-        },
-        {
-          "name": "Solvane",
-          "url": "https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0"
-        },
-        {
-          "name": "Eleonora",
-          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
-        }
-      ],
-      "duration_ms": 236384,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/77gF0BLgluTGZKDsHbpxUZ"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/3PgY7nfeE0Bn9Z3yeM0fca"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 334838,
       "name": "Don't Know",
       "url": "https://open.spotify.com/track/0Nffk1VRqRlNJXRG47yJNJ"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/1i4orCDlDc6YZuDV0bPI01"
+      },
+      "artists": [
+        {
+          "name": "Prismode",
+          "url": "https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH"
+        },
+        {
+          "name": "Solvane",
+          "url": "https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0"
+        },
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        }
+      ],
+      "duration_ms": 236384,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/77gF0BLgluTGZKDsHbpxUZ"
     },
     {
       "added_at": "2023-01-19 23:00:00",

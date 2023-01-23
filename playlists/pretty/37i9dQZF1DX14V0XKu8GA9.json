@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 20118,
+  "num_followers": 20175,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDU3MywwMDAwMDAwMDg5YzViZGEwMzRhZGNlNGY0Zjg3NmYwMjZmZjE4YjFh",
+  "snapshot_id": "MTY3MzI0NDU3MywwMDAwMDAwMGQxNjU0OTE1YTg5ZTRhZDRkZDI3YmEyOTEzNzQyZjM2",
   "tracks": [
     {
       "added_at": "2022-11-03 19:39:49",
@@ -271,6 +271,22 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
+        "name": "Ghetto Birds & Thugs",
+        "url": "https://open.spotify.com/album/3b3FoQ8WMEt3Dw0E4bS9GL"
+      },
+      "artists": [
+        {
+          "name": "Lil Weirdo",
+          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+        }
+      ],
+      "duration_ms": 170676,
+      "name": "Ghetto Birds & Thugs",
+      "url": "https://open.spotify.com/track/4IiXLK78ssJpAj3VZLC9uY"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
         "name": "Bag Talk",
         "url": "https://open.spotify.com/album/39Js0SBbu12ZEUFaHDGI2v"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 141824,
       "name": "Bag Talk",
       "url": "https://open.spotify.com/track/7zcFDW8HxWlL7abAPMko1d"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
-        "name": "Ghetto Birds & Thugs",
-        "url": "https://open.spotify.com/album/3b3FoQ8WMEt3Dw0E4bS9GL"
-      },
-      "artists": [
-        {
-          "name": "Lil Weirdo",
-          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
-        }
-      ],
-      "duration_ms": 170676,
-      "name": "Ghetto Birds & Thugs",
-      "url": "https://open.spotify.com/track/4IiXLK78ssJpAj3VZLC9uY"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
+        "name": "Stay Dangerous",
+        "url": "https://open.spotify.com/album/7HJMrm4FfZYZSQP3f5FSNO"
+      },
+      "artists": [
+        {
+          "name": "Lil Weirdo",
+          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+        }
+      ],
+      "duration_ms": 161982,
+      "name": "Stay Dangerous",
+      "url": "https://open.spotify.com/track/7sBijv0T7CStp6K7LZN5XO"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
         "name": "Down Bad",
         "url": "https://open.spotify.com/album/64SQ4vk2JrvMd3fL62gPtf"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 153750,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/1OFNP3NY13l8r0VK1eRY1w"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
-        "name": "Revenue",
-        "url": "https://open.spotify.com/album/7qWBqY6lTHtwOR2jsUrvG4"
-      },
-      "artists": [
-        {
-          "name": "Bravo the Bagchaser",
-          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
-        }
-      ],
-      "duration_ms": 133908,
-      "name": "Revenue",
-      "url": "https://open.spotify.com/track/55pjulGzefju2u0esp6Ec6"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -451,18 +451,18 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Stay Dangerous",
-        "url": "https://open.spotify.com/album/7HJMrm4FfZYZSQP3f5FSNO"
+        "name": "Revenue",
+        "url": "https://open.spotify.com/album/7qWBqY6lTHtwOR2jsUrvG4"
       },
       "artists": [
         {
-          "name": "Lil Weirdo",
-          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+          "name": "Bravo the Bagchaser",
+          "url": "https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY"
         }
       ],
-      "duration_ms": 161982,
-      "name": "Stay Dangerous",
-      "url": "https://open.spotify.com/track/7sBijv0T7CStp6K7LZN5XO"
+      "duration_ms": 133908,
+      "name": "Revenue",
+      "url": "https://open.spotify.com/track/55pjulGzefju2u0esp6Ec6"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Millions",
-        "url": "https://open.spotify.com/album/6cBp4U7HfSCtDNsI6pKYEL"
-      },
-      "artists": [
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Millions",
-      "url": "https://open.spotify.com/track/01TeqS09tyiJpwnvBzBzX2"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM"
       },
@@ -591,6 +575,46 @@
       "duration_ms": 213861,
       "name": "Phases",
       "url": "https://open.spotify.com/track/26RyrFyZ7G63xX3SFHFnLB"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/3ORNsOzHhyeoCuYoT0lJrr"
+      },
+      "artists": [
+        {
+          "name": "Lil Weirdo",
+          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+        },
+        {
+          "name": "Lil Maru",
+          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
+        },
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "duration_ms": 184488,
+      "name": "3D",
+      "url": "https://open.spotify.com/track/6LiyOWO4jQa7NoRbn6QjkU"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
+        "name": "Millions",
+        "url": "https://open.spotify.com/album/6cBp4U7HfSCtDNsI6pKYEL"
+      },
+      "artists": [
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Millions",
+      "url": "https://open.spotify.com/track/01TeqS09tyiJpwnvBzBzX2"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -631,30 +655,6 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/3ORNsOzHhyeoCuYoT0lJrr"
-      },
-      "artists": [
-        {
-          "name": "Lil Weirdo",
-          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
-        },
-        {
-          "name": "Lil Maru",
-          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
-        },
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        }
-      ],
-      "duration_ms": 184488,
-      "name": "3D",
-      "url": "https://open.spotify.com/track/6LiyOWO4jQa7NoRbn6QjkU"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
         "name": "Tonta",
         "url": "https://open.spotify.com/album/4l7qWzkUUbs0u2394k8U3a"
       },
@@ -675,6 +675,26 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
+        "name": "Club Banger (feat. Peysoh)",
+        "url": "https://open.spotify.com/album/40T7UEIyM87Aw6r7EcRhwc"
+      },
+      "artists": [
+        {
+          "name": "Lil Weirdo",
+          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "duration_ms": 146160,
+      "name": "Club Banger (feat. Peysoh)",
+      "url": "https://open.spotify.com/track/3ROrEXzBDWsA6XtXcIs6Ot"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
         "name": "Free Smoke",
         "url": "https://open.spotify.com/album/2vV9pj9ofjpHuJe4EW8DIF"
       },
@@ -691,22 +711,6 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "She Gon Choose (feat. Lil Weirdo)",
-        "url": "https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz"
-      },
-      "artists": [
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        }
-      ],
-      "duration_ms": 117833,
-      "name": "I\u2019m Back",
-      "url": "https://open.spotify.com/track/0UKblI4ZDkfbTwKxrBsGPS"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
         "name": "pocket watching",
         "url": "https://open.spotify.com/album/1fdwSBQQYwXjjZBUa1snw7"
       },
@@ -719,6 +723,22 @@
       "duration_ms": 118800,
       "name": "pocket watching",
       "url": "https://open.spotify.com/track/0Pb9BSoIDsASOaNSgUdd8F"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
+        "name": "She Gon Choose (feat. Lil Weirdo)",
+        "url": "https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz"
+      },
+      "artists": [
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "duration_ms": 117833,
+      "name": "I\u2019m Back",
+      "url": "https://open.spotify.com/track/0UKblI4ZDkfbTwKxrBsGPS"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -799,42 +819,26 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Club Banger (feat. Peysoh)",
-        "url": "https://open.spotify.com/album/40T7UEIyM87Aw6r7EcRhwc"
+        "name": "Palm Trees",
+        "url": "https://open.spotify.com/album/11JcbcyWhiZ3x8y31cYeun"
       },
       "artists": [
         {
-          "name": "Lil Weirdo",
-          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+          "name": "Sadboy Loko",
+          "url": "https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD"
         },
         {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
-        }
-      ],
-      "duration_ms": 146160,
-      "name": "Club Banger (feat. Peysoh)",
-      "url": "https://open.spotify.com/track/3ROrEXzBDWsA6XtXcIs6Ot"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
-        "name": "Gahdamn",
-        "url": "https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0"
-      },
-      "artists": [
-        {
-          "name": "Alexcis",
-          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
         },
         {
-          "name": "Rucci",
-          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+          "name": "Ybe",
+          "url": "https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz"
         }
       ],
-      "duration_ms": 153372,
-      "name": "Gahdamn",
-      "url": "https://open.spotify.com/track/3y1zka5AZI6PWmuSdfr681"
+      "duration_ms": 250000,
+      "name": "Palm Trees",
+      "url": "https://open.spotify.com/track/0MQlHtQUOHzof3mDZJ7ApA"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -875,26 +879,22 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Palm Trees",
-        "url": "https://open.spotify.com/album/11JcbcyWhiZ3x8y31cYeun"
+        "name": "Gahdamn",
+        "url": "https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0"
       },
       "artists": [
         {
-          "name": "Sadboy Loko",
-          "url": "https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD"
+          "name": "Alexcis",
+          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
         },
         {
-          "name": "Kap G",
-          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
-        },
-        {
-          "name": "Ybe",
-          "url": "https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz"
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Palm Trees",
-      "url": "https://open.spotify.com/track/0MQlHtQUOHzof3mDZJ7ApA"
+      "duration_ms": 153372,
+      "name": "Gahdamn",
+      "url": "https://open.spotify.com/track/3y1zka5AZI6PWmuSdfr681"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -983,22 +983,18 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Street Lights",
-        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
+        "name": "SPIDERCAT",
+        "url": "https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer"
       },
       "artists": [
         {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+          "name": "Speak",
+          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
         }
       ],
-      "duration_ms": 153934,
-      "name": "Street Lights",
-      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
+      "duration_ms": 102857,
+      "name": "SPIDERCAT",
+      "url": "https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1023,18 +1019,22 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "SPIDERCAT",
-        "url": "https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer"
+        "name": "Street Lights",
+        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
       },
       "artists": [
         {
-          "name": "Speak",
-          "url": "https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ"
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
         }
       ],
-      "duration_ms": 102857,
-      "name": "SPIDERCAT",
-      "url": "https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9"
+      "duration_ms": 153934,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1111,22 +1111,18 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Preguntas (feat. D Smoke)",
-        "url": "https://open.spotify.com/album/7tzB7azJJSUd3xlvad2EFn"
+        "name": "SAUCE ME UP PESO",
+        "url": "https://open.spotify.com/album/7wPk7RKVEyu1bz0LlmwwVp"
       },
       "artists": [
         {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
         }
       ],
-      "duration_ms": 181224,
-      "name": "Preguntas (feat. D Smoke)",
-      "url": "https://open.spotify.com/track/6hxCLo1NKmkjGQ1KWekm14"
+      "duration_ms": 193028,
+      "name": "SAUCE ME UP",
+      "url": "https://open.spotify.com/track/2V444I4cSmVo8IQZkOP5cs"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1147,18 +1143,22 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "SAUCE ME UP PESO",
-        "url": "https://open.spotify.com/album/7wPk7RKVEyu1bz0LlmwwVp"
+        "name": "Still Cried",
+        "url": "https://open.spotify.com/album/2UXZsZFHF2NaPN3csCFfEd"
       },
       "artists": [
         {
-          "name": "Peso Peso",
-          "url": "https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj"
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Young KB",
+          "url": "https://open.spotify.com/artist/63yoDocflvqmwUtC72RQ7G"
         }
       ],
-      "duration_ms": 193028,
-      "name": "SAUCE ME UP",
-      "url": "https://open.spotify.com/track/2V444I4cSmVo8IQZkOP5cs"
+      "duration_ms": 151322,
+      "name": "Still Cried",
+      "url": "https://open.spotify.com/track/1UE784i65b9PaYr9jY9AwY"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1195,22 +1195,18 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "SLIDIN",
-        "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
+        "name": "Gang Coast",
+        "url": "https://open.spotify.com/album/23HhYyOQQFZfP9Kn8a5YJS"
       },
       "artists": [
         {
-          "name": "Omar Cruz",
-          "url": "https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28"
-        },
-        {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
         }
       ],
-      "duration_ms": 158007,
-      "name": "SLIDIN",
-      "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
+      "duration_ms": 171462,
+      "name": "Smile Now",
+      "url": "https://open.spotify.com/track/7IYyYttteg7N0Ok6LwxEnb"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1235,6 +1231,26 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
+        "name": "SLIDIN",
+        "url": "https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk"
+      },
+      "artists": [
+        {
+          "name": "Omar Cruz",
+          "url": "https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28"
+        },
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        }
+      ],
+      "duration_ms": 158007,
+      "name": "SLIDIN",
+      "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
         "name": "Broke Bitch",
         "url": "https://open.spotify.com/album/32pb7GbOHcoFllJFTLPZi4"
       },
@@ -1251,18 +1267,22 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Gang Coast",
-        "url": "https://open.spotify.com/album/23HhYyOQQFZfP9Kn8a5YJS"
+        "name": "Preguntas (feat. D Smoke)",
+        "url": "https://open.spotify.com/album/7tzB7azJJSUd3xlvad2EFn"
       },
       "artists": [
         {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
         }
       ],
-      "duration_ms": 171462,
-      "name": "Smile Now",
-      "url": "https://open.spotify.com/track/7IYyYttteg7N0Ok6LwxEnb"
+      "duration_ms": 181224,
+      "name": "Preguntas (feat. D Smoke)",
+      "url": "https://open.spotify.com/track/6hxCLo1NKmkjGQ1KWekm14"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1287,42 +1307,6 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Still Cried",
-        "url": "https://open.spotify.com/album/2UXZsZFHF2NaPN3csCFfEd"
-      },
-      "artists": [
-        {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "Young KB",
-          "url": "https://open.spotify.com/artist/63yoDocflvqmwUtC72RQ7G"
-        }
-      ],
-      "duration_ms": 151322,
-      "name": "Still Cried",
-      "url": "https://open.spotify.com/track/1UE784i65b9PaYr9jY9AwY"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/3CarmDZA2wnrjIUUJLq0B7"
-      },
-      "artists": [
-        {
-          "name": "Trap Baby",
-          "url": "https://open.spotify.com/artist/0WCPeSs3xF97qN4rUFZrBZ"
-        }
-      ],
-      "duration_ms": 89500,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/6X4oGvSNRjPlYTUGEW5RqE"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
         "name": "V\u00e1monos",
         "url": "https://open.spotify.com/album/59CAbE0DUQ5arPot1kIopV"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 231338,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/0fK7iPZioWaRem2Mo0XQTy"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/3CarmDZA2wnrjIUUJLq0B7"
+      },
+      "artists": [
+        {
+          "name": "Trap Baby",
+          "url": "https://open.spotify.com/artist/0WCPeSs3xF97qN4rUFZrBZ"
+        }
+      ],
+      "duration_ms": 89500,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/6X4oGvSNRjPlYTUGEW5RqE"
     },
     {
       "added_at": "2022-11-03 19:39:49",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2022-11-03 19:39:49",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j"
-      },
-      "artists": [
-        {
-          "name": "Aj Hernz",
-          "url": "https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm"
-        },
-        {
-          "name": "Alexcis",
-          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
-        }
-      ],
-      "duration_ms": 143622,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw"
-    },
-    {
-      "added_at": "2022-11-03 19:39:49",
-      "album": {
         "name": "Badabing",
         "url": "https://open.spotify.com/album/5no7RSOP6ijBzUQ0F4q2ha"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 185648,
       "name": "Badabing",
       "url": "https://open.spotify.com/track/3qBOFluQ2JvErrNHO8X8fr"
+    },
+    {
+      "added_at": "2022-11-03 19:39:49",
+      "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/1tQHY2Lypwqhhfgp1lxA6j"
+      },
+      "artists": [
+        {
+          "name": "Aj Hernz",
+          "url": "https://open.spotify.com/artist/6OkLZPqXXpKNEAGxE2bupm"
+        },
+        {
+          "name": "Alexcis",
+          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
+        }
+      ],
+      "duration_ms": 143622,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/5gKqjYmPYaXn7ebiWBGRDw"
     },
     {
       "added_at": "2022-11-03 19:39:49",

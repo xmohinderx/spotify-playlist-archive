@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 13817,
+  "num_followers": 13850,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDExNDQ0NiwwMDAwMDAwMDk4MmRjNTllNWIxMDUwOGVkNzBlY2ZkZmEyNTQzZDBl",
+  "snapshot_id": "MTY3NDExNDQ0NiwwMDAwMDAwMDJhY2I1M2I1ZDFhMTBiZTg5NDEyMjRhODIyZjRlZmMw",
   "tracks": [
     {
       "added_at": "2023-01-04 14:07:28",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-01-04 14:07:28",
       "album": {
+        "name": "Chico Hamilton Quintet In Hi-Fi",
+        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
+      },
+      "artists": [
+        {
+          "name": "Chico Hamilton Quintet",
+          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "The Wind",
+      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
+    },
+    {
+      "added_at": "2023-01-04 14:07:28",
+      "album": {
         "name": "Jimmy Raney Featuring Bob Brookmeyer",
         "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 246466,
       "name": "Isn't It Romantic",
       "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
-    },
-    {
-      "added_at": "2023-01-04 14:07:28",
-      "album": {
-        "name": "Chico Hamilton Quintet In Hi-Fi",
-        "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
-      },
-      "artists": [
-        {
-          "name": "Chico Hamilton Quintet",
-          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "The Wind",
-      "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
     },
     {
       "added_at": "2023-01-04 14:07:28",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-01-04 14:07:28",
       "album": {
-        "name": "Monterey Concerts",
-        "url": "https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 605400,
-      "name": "Walkin' With Wally - live",
-      "url": "https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ"
-    },
-    {
-      "added_at": "2023-01-04 14:07:28",
-      "album": {
         "name": "Gettin' Together!",
         "url": "https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2023-01-04 14:07:28",
       "album": {
-        "name": "Jazz Loves Paris",
-        "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
+        "name": "Monterey Concerts",
+        "url": "https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t"
       },
       "artists": [
         {
-          "name": "Buddy Collette",
-          "url": "https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR"
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
         }
       ],
-      "duration_ms": 146306,
-      "name": "Pigalle",
-      "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
+      "duration_ms": 605400,
+      "name": "Walkin' With Wally - live",
+      "url": "https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ"
     },
     {
       "added_at": "2023-01-04 14:07:28",
@@ -831,6 +815,22 @@
       "duration_ms": 195546,
       "name": "Ahmoore",
       "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
+    },
+    {
+      "added_at": "2023-01-04 14:07:28",
+      "album": {
+        "name": "Jazz Loves Paris",
+        "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
+      },
+      "artists": [
+        {
+          "name": "Buddy Collette",
+          "url": "https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR"
+        }
+      ],
+      "duration_ms": 146306,
+      "name": "Pigalle",
+      "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
     },
     {
       "added_at": "2023-01-04 14:07:28",

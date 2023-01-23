@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Miksu / Macloud, t\-low
 
-607 songs - 1 day 5 hr 18 min
+608 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [Lola rennt](https://open.spotify.com/track/4rNlJBQ0elqgGU1XD3RQ01) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [Boys Do Cry](https://open.spotify.com/album/1lIjKOmyguCKZFuPyDZp6h) | 2:56 | 2022-07-25 | 2022-08-05 |
 | [lonely bitch](https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [lonely bitch](https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze) | 2:55 | 2023-01-12 |  |
 | [LOS](https://open.spotify.com/track/4RN73rrQqwQuBKjKoJXMrH) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [LOS](https://open.spotify.com/album/38gQNy7vEgrwsMn9SLRXjo) | 3:25 | 2022-06-16 | 2022-06-24 |
-| [Love](https://open.spotify.com/track/5WtdIBUOGNdslIPwPAjHUW) | [Ctill](https://open.spotify.com/artist/47diE7gubS7rniBjkHsQPY) | [Love](https://open.spotify.com/album/4XqiYJLPxRFWfO0thNCgLl) | 3:02 | 2023-01-16 |  |
+| [Love](https://open.spotify.com/track/5WtdIBUOGNdslIPwPAjHUW) | [Ctill](https://open.spotify.com/artist/47diE7gubS7rniBjkHsQPY) | [Love](https://open.spotify.com/album/4XqiYJLPxRFWfO0thNCgLl) | 3:02 | 2023-01-16 | 2023-01-23 |
 | [Love Shots](https://open.spotify.com/track/6aYB6syCRnnTXJ8jechWZc) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Love Shots](https://open.spotify.com/album/7KMp5uAH2B3dupZySwFdlD) | 1:50 | 2022-09-01 | 2022-12-02 |
 | [Lucky Luke](https://open.spotify.com/track/4ej3FXhGM9CVjvS4tJ2gtk) | [OTPendia](https://open.spotify.com/artist/0xUNWefnIKxk31Qhg634BY), [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi), [Cany75](https://open.spotify.com/artist/25J0KcLLMB0IucsDJ4LocD), [OT](https://open.spotify.com/artist/122hwG9HcBJitZseVPce5T) | [Lucky Luke](https://open.spotify.com/album/5wcAF1i1PpvDvcauhMWUUg) | 2:44 | 2023-01-06 |  |
 | [Luftballon](https://open.spotify.com/track/5w1KF2w0e8W1EEHsCJYYCf) | [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Noah](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL) | [Luftballon](https://open.spotify.com/album/1kofnvzxmIRyNCqWVA5Kkh) | 2:52 | 2023-01-05 |  |
@@ -615,5 +615,6 @@
 | [Zuhause](https://open.spotify.com/track/0jPrdybe6ZbQXHzSVfILxy) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Zuhause](https://open.spotify.com/album/2HSHbNpe5eQW7hgWOHWN2E) | 2:57 | 2022-10-07 | 2022-10-21 |
 | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D) | 3:50 | 2022-11-01 | 2022-12-24 |
 | [ZWANNIS](https://open.spotify.com/track/3f2n0M2s1DovBN8DPoR0n5) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [ZWANNIS](https://open.spotify.com/album/5s9axapj8W2cHyTpdgHuMa) | 2:25 | 2022-12-15 | 2023-01-06 |
+| [Ты И Я](https://open.spotify.com/track/2SyHAnMkA9xME32P3Cpw1f) | [SDM Nation](https://open.spotify.com/artist/6K1saPnrT3Gz5vo8WeKTWo) | [Ты И Я](https://open.spotify.com/album/3DT4qPUBlBxEXkJanCRhAB) | 3:02 | 2023-01-19 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

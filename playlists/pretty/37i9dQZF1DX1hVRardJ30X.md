@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Nio Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,447 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,546 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 29 | [Trending](https://open.spotify.com/track/5UBSlwB4Qm7TBzxdyyHr2p) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Trending](https://open.spotify.com/album/6eMP8CwxDJVxPJ9GjjQGbQ) | 2:38 |
 | 30 | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/track/59ze8lLaqAIamVOBx46RcQ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/album/0FijhrXIqeHShfcww5Smb0) | 2:41 |
 | 31 | [Hey Shorty](https://open.spotify.com/track/6wypFud9yFrGL7ruaWXSiO) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Hey Shorty](https://open.spotify.com/album/0bL0aTf0YG4HlJZ1C9s11l) | 3:14 |
-| 32 | [Flight 0008](https://open.spotify.com/track/57wTi5tNWiIpSJhZTxUpUe) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Flight 0008](https://open.spotify.com/album/4jVLUwOIKjTZKk0OvZYPvL) | 2:15 |
+| 32 | [Flight 0008](https://open.spotify.com/track/57wTi5tNWiIpSJhZTxUpUe) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Flight 0008](https://open.spotify.com/album/4jVLUwOIKjTZKk0OvZYPvL) | 2:21 |
 | 33 | [Vivo Pensando](https://open.spotify.com/track/5igAQ7s5emp51QHNOoMPvB) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Loui Santana](https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh) | [Vivo Pensando](https://open.spotify.com/album/7leWQMBdHCsYhzt8qV0NJZ) | 2:36 |
 | 34 | [Primera Cita](https://open.spotify.com/track/61TIqrpTJ6ZlEaQpneVboa) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Primera Cita](https://open.spotify.com/album/12zL0QO90BC88QJTYeso5d) | 2:44 |
 | 35 | [la ultima noche](https://open.spotify.com/track/7v29kSNtnrOTf0pAqP4Lvx) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [la ultima noche](https://open.spotify.com/album/1sAzIppqYMYtaJ8Dit8zsw) | 3:17 |

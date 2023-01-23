@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 1697,
+  "num_followers": 1713,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDNhNDViZTU0OTI5ZWY2OTM3YzgyMzczMDY1Njk1ODJj",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGE1NGYxMzc3NWU1Y2JjZWNjZjhkNThjNTY2ODMyYWUw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Gal Policy",
-        "url": "https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 136826,
-      "name": "Gal Policy",
-      "url": "https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "FIXTAPE",
         "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Gal Policy",
+        "url": "https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 136826,
+      "name": "Gal Policy",
+      "url": "https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/2px81nLEeDMKqaHeyMuYyz"
-      },
-      "artists": [
-        {
-          "name": "Munga Honorable",
-          "url": "https://open.spotify.com/artist/4N6urvy01I1p3ZgWLDjmKU"
-        }
-      ],
-      "duration_ms": 140617,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/4u4YhCbM8W7bK4mXrKgzO3"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Living the Dream",
         "url": "https://open.spotify.com/album/2PQOmBbpyV0hBm6P8HcBFE"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 168510,
       "name": "Living the Dream",
       "url": "https://open.spotify.com/track/3UAYoYYAgyg7ZHpV59qZY5"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/2px81nLEeDMKqaHeyMuYyz"
+      },
+      "artists": [
+        {
+          "name": "Munga Honorable",
+          "url": "https://open.spotify.com/artist/4N6urvy01I1p3ZgWLDjmKU"
+        }
+      ],
+      "duration_ms": 140617,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/4u4YhCbM8W7bK4mXrKgzO3"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Usain Bolt Presents: Immortal Riddim, Vol. 2",
-        "url": "https://open.spotify.com/album/4Pp36Kk5mWXwQQwndpOp4Y"
-      },
-      "artists": [
-        {
-          "name": "Demarco",
-          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
-        }
-      ],
-      "duration_ms": 156525,
-      "name": "Artificial",
-      "url": "https://open.spotify.com/track/0im9PGSu7iT5JlLAFqfM4C"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Usain Bolt Presents: Clockwork Riddim",
         "url": "https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 189473,
       "name": "Timing",
       "url": "https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Usain Bolt Presents: Immortal Riddim, Vol. 2",
+        "url": "https://open.spotify.com/album/4Pp36Kk5mWXwQQwndpOp4Y"
+      },
+      "artists": [
+        {
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+        }
+      ],
+      "duration_ms": 156525,
+      "name": "Artificial",
+      "url": "https://open.spotify.com/track/0im9PGSu7iT5JlLAFqfM4C"
     },
     {
       "added_at": "2022-10-01 16:00:00",

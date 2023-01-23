@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Gary Clark Jr.",
-  "num_followers": 139542,
+  "num_followers": 139610,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDFhMGMxMDMwM2M3OWU4OGU4NmMxMzNhOGU5NDhkZTY4",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDUyM2Q4MmI5ODI4YTRhYzVhNDlmMDYzYTY2M2RhNGJh",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -393,24 +393,20 @@
       "url": "https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
+      "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "Wicked Girl",
-        "url": "https://open.spotify.com/album/02wlom1pEz40ngTampIPeU"
+        "name": "Black Holes",
+        "url": "https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc"
       },
       "artists": [
         {
-          "name": "Tyler Boone",
-          "url": "https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz"
-        },
-        {
-          "name": "Peter Keys",
-          "url": "https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7"
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Wicked Girl",
-      "url": "https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN"
+      "duration_ms": 219586,
+      "name": "The Drop",
+      "url": "https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -429,20 +425,24 @@
       "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
+      "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Black Holes",
-        "url": "https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc"
+        "name": "Wicked Girl",
+        "url": "https://open.spotify.com/album/02wlom1pEz40ngTampIPeU"
       },
       "artists": [
         {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+          "name": "Tyler Boone",
+          "url": "https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz"
+        },
+        {
+          "name": "Peter Keys",
+          "url": "https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7"
         }
       ],
-      "duration_ms": 219586,
-      "name": "The Drop",
-      "url": "https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY"
+      "duration_ms": 208000,
+      "name": "Wicked Girl",
+      "url": "https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN"
     },
     {
       "added_at": "2020-10-16 04:02:00",

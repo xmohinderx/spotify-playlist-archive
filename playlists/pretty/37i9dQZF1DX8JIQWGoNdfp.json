@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 9540,
+  "num_followers": 9625,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY3NTQ4MywwMDAwMDAwMDM4ZDkwYmViM2U4NTM0Y2ZhOWZjOGY1ZWU3Zjk4ZWRj",
+  "snapshot_id": "MTY2NDY3NTQ4MywwMDAwMDAwMDU2NGE2YjdjM2QyODBhNjBiZDdiNDdmYzhjZTBiZDNi",
   "tracks": [
     {
       "added_at": "2022-10-02 01:51:23",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "If I Ever Fall In Love",
-        "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
-      },
-      "artists": [
-        {
-          "name": "Shai",
-          "url": "https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "If I Ever Fall In Love",
-      "url": "https://open.spotify.com/track/1jCsCYgzQQHk3bDJDuFbNi"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "Comin' From Where I'm From",
         "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 246773,
       "name": "Charlene",
       "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "If I Ever Fall In Love",
+        "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
+      },
+      "artists": [
+        {
+          "name": "Shai",
+          "url": "https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "If I Ever Fall In Love",
+      "url": "https://open.spotify.com/track/1jCsCYgzQQHk3bDJDuFbNi"
     },
     {
       "added_at": "2022-10-02 01:51:23",

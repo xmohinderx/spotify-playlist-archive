@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 78959,
+  "num_followers": 79083,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM2NDY0MiwwMDAwMDAwMDdkMjdmMjM4MmJhYjkwYjc3MDM0NmQxNjVlYjE1YTYx",
+  "snapshot_id": "MTY3MzM2NDY0MiwwMDAwMDAwMDgwZjM5YjU0YzdjZTNiNzMxYzViMjhmMjU0MmZlMTEy",
   "tracks": [
     {
       "added_at": "2023-01-10 15:30:42",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-01-10 15:30:42",
       "album": {
+        "name": "Mondegreen",
+        "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Blanche",
+      "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
+    },
+    {
+      "added_at": "2023-01-10 15:30:42",
+      "album": {
         "name": "EASY (feat. ELO)",
         "url": "https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 165106,
       "name": "EASY (feat. ELO)",
       "url": "https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD"
-    },
-    {
-      "added_at": "2023-01-10 15:30:42",
-      "album": {
-        "name": "Mondegreen",
-        "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
-      },
-      "artists": [
-        {
-          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
-          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Blanche",
-      "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
     },
     {
       "added_at": "2023-01-10 15:30:42",

@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 18076,
+  "num_followers": 18104,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIyNjgwMCwwMDAwMDAwMDE5Mzg5YzI1Nzc4Mjk5OTVhYWQzYzk3YjA2NGUyODlk",
+  "snapshot_id": "MTY3NDIyNjgwMCwwMDAwMDAwMDY2MmE5ZmQ5MTA5M2JhNDJiZGUyMDE0MzRjMzc0MGY4",
   "tracks": [
     {
       "added_at": "2023-01-20 15:00:00",
@@ -823,38 +823,6 @@
     {
       "added_at": "2023-01-20 15:00:00",
       "album": {
-        "name": "THE IDOLM@STER SideM ST@RTING LINE-07 \u5f69",
-        "url": "https://open.spotify.com/album/0s7spotLMmTvQPSl4IykMd"
-      },
-      "artists": [
-        {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve"
-        }
-      ],
-      "duration_ms": 290586,
-      "name": "\u559d\u5f69!~\u82b1\u9ce5\u98a8\u6708~",
-      "url": "https://open.spotify.com/track/3cWO8AHohiOhPvBLYtyrYd"
-    },
-    {
-      "added_at": "2023-01-20 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE:04 Caf\u00e9 Parade",
-        "url": "https://open.spotify.com/album/7roHIRpK6NNCZLly8TfzjA"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Parade",
-          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
-        }
-      ],
-      "duration_ms": 247573,
-      "name": "Delicious Delivery",
-      "url": "https://open.spotify.com/track/11IbasM6IQLTIBqt95iEjO"
-    },
-    {
-      "added_at": "2023-01-20 15:00:00",
-      "album": {
         "name": "THE IDOLM@STER SideM WORLD TRE@SURE 03",
         "url": "https://open.spotify.com/album/2600B026iZThRT78I7Xjlk"
       },
@@ -875,6 +843,22 @@
       "duration_ms": 248333,
       "name": "Baile Apasionado",
       "url": "https://open.spotify.com/track/2OTdGu4Ar0sX2OhbSlevlq"
+    },
+    {
+      "added_at": "2023-01-20 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE:04 Caf\u00e9 Parade",
+        "url": "https://open.spotify.com/album/7roHIRpK6NNCZLly8TfzjA"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Parade",
+          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
+        }
+      ],
+      "duration_ms": 247573,
+      "name": "Delicious Delivery",
+      "url": "https://open.spotify.com/track/11IbasM6IQLTIBqt95iEjO"
     },
     {
       "added_at": "2023-01-20 15:00:00",
@@ -935,6 +919,22 @@
       "duration_ms": 295400,
       "name": "LIVE in your SMILE",
       "url": "https://open.spotify.com/track/5xb0pajvByQuLCiksFCcrE"
+    },
+    {
+      "added_at": "2023-01-20 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER SideM ST@RTING LINE-07 \u5f69",
+        "url": "https://open.spotify.com/album/0s7spotLMmTvQPSl4IykMd"
+      },
+      "artists": [
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve"
+        }
+      ],
+      "duration_ms": 290586,
+      "name": "\u559d\u5f69!~\u82b1\u9ce5\u98a8\u6708~",
+      "url": "https://open.spotify.com/track/3cWO8AHohiOhPvBLYtyrYd"
     },
     {
       "added_at": "2023-01-20 15:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-01-20 15:00:00",
       "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 05",
+        "url": "https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J"
+      },
+      "artists": [
+        {
+          "name": "Altessimo",
+          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
+        }
+      ],
+      "duration_ms": 286266,
+      "name": "mermaid fermata",
+      "url": "https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD"
+    },
+    {
+      "added_at": "2023-01-20 15:00:00",
+      "album": {
         "name": "THE IDOLM@STER SideM WORLD TRE@SURE 12",
         "url": "https://open.spotify.com/album/44oPjnMG6Kb3ly0IWB7R1C"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 220013,
       "name": "\u5343\u5ba2\u4e07\u6765\u30cb\u30fc\u30cf\u30aa\u30b5\u30a1\u30ab\u30b9!",
       "url": "https://open.spotify.com/track/6xzS3JfLsFuXDeTsMStW6W"
-    },
-    {
-      "added_at": "2023-01-20 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 05",
-        "url": "https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J"
-      },
-      "artists": [
-        {
-          "name": "Altessimo",
-          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
-        }
-      ],
-      "duration_ms": 286266,
-      "name": "mermaid fermata",
-      "url": "https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD"
     },
     {
       "added_at": "2023-01-20 15:00:00",
@@ -1175,46 +1175,6 @@
     {
       "added_at": "2023-01-20 15:00:00",
       "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
-        "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
-      },
-      "artists": [
-        {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve"
-        },
-        {
-          "name": "\u795e\u901f\u4e00\u9b42",
-          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
-        },
-        {
-          "name": "THE \u864e\u7259\u9053",
-          "url": "https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4"
-        }
-      ],
-      "duration_ms": 296440,
-      "name": "\u7b11\u9854\u306e\u796d\u308a\u306b\u3083\u3001\u798f\u6765\u308b",
-      "url": "https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9"
-    },
-    {
-      "added_at": "2023-01-20 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 03",
-        "url": "https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX"
-      },
-      "artists": [
-        {
-          "name": "\u3082\u3075\u3082\u3075\u3048\u3093",
-          "url": "https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS"
-        }
-      ],
-      "duration_ms": 251386,
-      "name": "\u306f\u3093\u3069\u3081\u3044\u3069\u30fb\u304d\u307f\u306f\u30fc\u3068!",
-      "url": "https://open.spotify.com/track/2hLA2UCmK6hS3yMDUzqXsx"
-    },
-    {
-      "added_at": "2023-01-20 15:00:00",
-      "album": {
         "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 02",
         "url": "https://open.spotify.com/album/2NSsTgEgV6pCRYqLBCgJoS"
       },
@@ -1235,6 +1195,46 @@
       "duration_ms": 237360,
       "name": "Compass Gripper!!!",
       "url": "https://open.spotify.com/track/3YLPg6OPm8I6fDSGuBtb80"
+    },
+    {
+      "added_at": "2023-01-20 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 03",
+        "url": "https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX"
+      },
+      "artists": [
+        {
+          "name": "\u3082\u3075\u3082\u3075\u3048\u3093",
+          "url": "https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS"
+        }
+      ],
+      "duration_ms": 251386,
+      "name": "\u306f\u3093\u3069\u3081\u3044\u3069\u30fb\u304d\u307f\u306f\u30fc\u3068!",
+      "url": "https://open.spotify.com/track/2hLA2UCmK6hS3yMDUzqXsx"
+    },
+    {
+      "added_at": "2023-01-20 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
+        "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
+      },
+      "artists": [
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve"
+        },
+        {
+          "name": "\u795e\u901f\u4e00\u9b42",
+          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
+        },
+        {
+          "name": "THE \u864e\u7259\u9053",
+          "url": "https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4"
+        }
+      ],
+      "duration_ms": 296440,
+      "name": "\u7b11\u9854\u306e\u796d\u308a\u306b\u3083\u3001\u798f\u6765\u308b",
+      "url": "https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9"
     },
     {
       "added_at": "2023-01-20 15:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-01-20 15:00:00",
       "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 01",
-        "url": "https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC"
-      },
-      "artists": [
-        {
-          "name": "\u5c71\u4e0b\u6b21\u90ce (CV.\u4e2d\u5cf6\u30e8\u30b7\u30ad)",
-          "url": "https://open.spotify.com/artist/3td7wBhA42i9AzLcbIzd0k"
-        }
-      ],
-      "duration_ms": 262680,
-      "name": "GOLD ~No.79~",
-      "url": "https://open.spotify.com/track/7Iiphl7su3tJcxtby6XZoN"
-    },
-    {
-      "added_at": "2023-01-20 15:00:00",
-      "album": {
         "name": "THE IDOLM@STER SideM NEW STAGE EPISODE:02 THE \u864e\u7259\u9053",
         "url": "https://open.spotify.com/album/0JvkledARWRgZDOvqEzVHx"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 221400,
       "name": "Hungry?",
       "url": "https://open.spotify.com/track/2tbKrlz5rUmjZKBzT4A4lu"
+    },
+    {
+      "added_at": "2023-01-20 15:00:00",
+      "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 01",
+        "url": "https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u4e0b\u6b21\u90ce (CV.\u4e2d\u5cf6\u30e8\u30b7\u30ad)",
+          "url": "https://open.spotify.com/artist/3td7wBhA42i9AzLcbIzd0k"
+        }
+      ],
+      "duration_ms": 262680,
+      "name": "GOLD ~No.79~",
+      "url": "https://open.spotify.com/track/7Iiphl7su3tJcxtby6XZoN"
     },
     {
       "added_at": "2023-01-20 15:00:00",

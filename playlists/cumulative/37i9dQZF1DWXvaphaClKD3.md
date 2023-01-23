@@ -4,7 +4,7 @@
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Calibre 50 en portada.
 
-1,117 songs - 2 day 11 hr 55 min
+1,117 songs - 2 day 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Disfruto](https://open.spotify.com/track/0htrqb7HRnPxXB7fWXDR5c) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Conquistando Tu Corazon](https://open.spotify.com/album/3nsgZwGfyP2XsDHf0y7BeR) | 2:45 | 2022-12-09 | 2022-12-17 |
 | [Diva por Siempre](https://open.spotify.com/track/65UKuxz4QPUKOKsxFRhwJW) | [Banda Elemental de Mazatlán Sinaloa](https://open.spotify.com/artist/0amZxQw9VoE1GcLXsqPnjz) | [Diva por Siempre](https://open.spotify.com/album/20nWo1bGvS5HwfmNKdszCW) | 2:41 | 2022-12-09 | 2022-12-17 |
 | [Diviertete](https://open.spotify.com/track/211zWlnWWhycTO5T30Dxgu) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Diviertete](https://open.spotify.com/album/7fNa6l9OLAL1dj68Nr8mu4) | 3:43 | 2022-08-19 | 2022-09-03 |
-| [Dobel Dosis](https://open.spotify.com/track/0F5jIKqse7Z5MC3hV2CVO6) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [Doble Dosis](https://open.spotify.com/album/6zLtj0ekbIIMUGdwLkckMC) | 3:13 | 2023-01-20 |  |
+| [Dobel Dosis](https://open.spotify.com/track/0F5jIKqse7Z5MC3hV2CVO6) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [Doble Dosis](https://open.spotify.com/album/6zLtj0ekbIIMUGdwLkckMC) | 4:11 | 2023-01-20 |  |
 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/4qYYPkAWSwCnOEvvRrNaWj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [DOCTOR DEL BARRIO](https://open.spotify.com/album/655hE0RKEAe5CkBJ2USxwf) | 2:21 | 2022-09-02 | 2022-09-10 |
 | [Dos Botellas](https://open.spotify.com/track/1BYJUQib7hGpWjJu4VmiM6) | [Lucas Arnau](https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Dos Botellas](https://open.spotify.com/album/0QusQFkYfRnPt2leEkHVlI) | 2:44 | 2022-07-29 | 2022-08-06 |
 | [Dos Botellas \(Live\)](https://open.spotify.com/track/2hdXJnhuKlBaVL0kurZuF2) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [Dos Botellas \(Live\)](https://open.spotify.com/album/1nuN8oHTRYnhzvcxEiQO2Q) | 3:00 | 2022-07-29 | 2022-08-06 |

@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: Cuatro De Oro
 
-286 songs - 14 hr 58 min
+287 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,8 @@
 | [Me Apodan El Chino](https://open.spotify.com/track/7mB6DFA5JwPcOs9kc25e5r) | [Christian Ramos Jr](https://open.spotify.com/artist/4yDvNHPlq1b6ZyQfvbeIRE) | [Me Apodan El Chino](https://open.spotify.com/album/3ScsygF0ldBn0v1GzpZWV1) | 3:40 | 2022-05-14 | 2022-09-09 |
 | [Me Cansé](https://open.spotify.com/track/3H5l8J3Jqxjz17l5T3r1hI) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Me Cansé](https://open.spotify.com/album/7nVUBzcGrEISaNM2iHGwr7) | 5:01 | 2022-05-14 | 2022-09-09 |
 | [Me Dejaste en Cero](https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Dejaste en Cero](https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv) | 3:20 | 2022-11-11 |  |
-| [Me Dicen El Flako](https://open.spotify.com/track/5hDF2fwSXqYs6IHn0AfDbr) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Me Dicen El Flako](https://open.spotify.com/album/38QIc89fCIfpoO54hRTk7U) | 3:26 | 2022-09-09 |  |
+| [Me Dicen El Flako](https://open.spotify.com/track/6KPr4RTyw2lOmgJ6RmisGX) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Me Dicen El Flako](https://open.spotify.com/album/4JAJmMPczQ3BtKudlmsiEt) | 3:24 | 2023-01-20 |  |
+| [Me Dicen El Flako](https://open.spotify.com/track/5hDF2fwSXqYs6IHn0AfDbr) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Me Dicen El Flako](https://open.spotify.com/album/38QIc89fCIfpoO54hRTk7U) | 3:26 | 2022-09-09 | 2023-01-23 |
 | [me olvidaste](https://open.spotify.com/track/72nuzO5wkGs5S7qq6dddtH) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [me olvidaste](https://open.spotify.com/album/4qoeo1Oc7rWrHxpUoIhpke) | 2:15 | 2022-06-03 | 2023-01-14 |
 | [Me Saliste Regular](https://open.spotify.com/track/1ZMn6X1evKqK0oYyyYf7Ul) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Saliste Regular](https://open.spotify.com/album/79dk6KkeC4SNEobig0hmCy) | 3:46 | 2023-01-13 |  |
 | [Me Siento Loco](https://open.spotify.com/track/35r1E5YvHbESFBjFcWamf6) | [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M) | [Luv </3](https://open.spotify.com/album/0MkWhjSNki4PXtKYH26T5L) | 3:56 | 2022-11-03 |  |

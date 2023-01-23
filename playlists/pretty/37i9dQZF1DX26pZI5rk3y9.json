@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 3378,
+  "num_followers": 3393,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk5MTI4OCwwMDAwMDAwMDY5NjBkMWYwOTM2YjE4NDJhZGMwOGQ3NGIxNmZkZjhk",
+  "snapshot_id": "MTY2OTk5MTI4OCwwMDAwMDAwMDZjYWU1OTE0ZjIwN2Y0ZDI1ZjI4YWM5NWRjMGEyY2Q3",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The \"Killer\" Rocks On",
-        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "C.C. Rider",
-      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Too Bad Jim",
         "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 178853,
       "name": "They're Red Hot - SA.2627-1",
       "url": "https://open.spotify.com/track/4vrPulRxzgljqsYtgGQrpk"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "The \"Killer\" Rocks On",
+        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "C.C. Rider",
+      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
-        "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 153759,
-      "name": "Little By Little (I'm Losing You)",
-      "url": "https://open.spotify.com/track/25vYkkypWmtzS88Podza8X"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 163666,
       "name": "The Sun Is Shining",
       "url": "https://open.spotify.com/track/2oVoSWx4NLAJ6xulHAGYJx"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
+        "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 153759,
+      "name": "Little By Little (I'm Losing You)",
+      "url": "https://open.spotify.com/track/25vYkkypWmtzS88Podza8X"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
         }
       ],
-      "duration_ms": 163760,
-      "name": "Atomic Cocktail",
-      "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
+      "duration_ms": 167600,
+      "name": "Scotchin' with Soda",
+      "url": "https://open.spotify.com/track/2Yvble8xC3hchiHbUo7k8q"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Presenting Smiley Lewis",
-        "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
+        "name": "I Was a Mod Before You Were a Mod Vol. 2",
+        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
       },
       "artists": [
         {
-          "name": "Smiley Lewis",
-          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
+          "name": "Jesse Stone",
+          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Gumbo Blues",
-      "url": "https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG"
+      "duration_ms": 137534,
+      "name": "Crawfish",
+      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "Presenting Smiley Lewis",
+        "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
+      },
+      "artists": [
+        {
+          "name": "Smiley Lewis",
+          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Gumbo Blues",
+      "url": "https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "Porch Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 200186,
       "name": "Honey Bee (feat. Willie Buck)",
       "url": "https://open.spotify.com/track/2T857BosTppifCEGyKjkNz"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "I Was a Mod Before You Were a Mod Vol. 2",
-        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
-      },
-      "artists": [
-        {
-          "name": "Jesse Stone",
-          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
-        }
-      ],
-      "duration_ms": 137534,
-      "name": "Crawfish",
-      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1068,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
         }
       ],
-      "duration_ms": 167600,
-      "name": "Scotchin' with Soda",
-      "url": "https://open.spotify.com/track/2Yvble8xC3hchiHbUo7k8q"
+      "duration_ms": 163760,
+      "name": "Atomic Cocktail",
+      "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "Bacon Fat / Pass the Biscuits Please",
+        "url": "https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE"
+      },
+      "artists": [
+        {
+          "name": "Andre Williams",
+          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
+        }
+      ],
+      "duration_ms": 198149,
+      "name": "Pass the Biscuits Please - Remastered",
+      "url": "https://open.spotify.com/track/6pgoB5EHpLO7SU8uuQM7hd"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "Nail Jumping",
         "url": "https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 155000,
       "name": "Appetite Blues",
       "url": "https://open.spotify.com/track/3AKevGgNMWWhA88SAsaQDL"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "Bacon Fat / Pass the Biscuits Please",
-        "url": "https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE"
-      },
-      "artists": [
-        {
-          "name": "Andre Williams",
-          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
-        }
-      ],
-      "duration_ms": 184575,
-      "name": "Bacon Fat - Remastered",
-      "url": "https://open.spotify.com/track/7sDtdfJeneSVNyx8Gm1N6M"
     },
     {
       "added_at": "2022-12-02 14:28:08",

@@ -3581,6 +3581,24 @@
     },
     {
       "album": {
+        "name": "Beatless EP",
+        "url": "https://open.spotify.com/album/6ojWTPCROs4UBqmKKc9K7B"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241881,
+      "name": "The Beach - Beatless",
+      "url": "https://open.spotify.com/track/3vM7pu2T1rSdUyFM7qyULV"
+    },
+    {
+      "album": {
         "name": "The Beach (Beatless)",
         "url": "https://open.spotify.com/album/55uT0xyvRnHEO4EtfbccVk"
       },
@@ -4006,7 +4024,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-23",
       "duration_ms": 192000,
       "name": "way of form",
       "url": "https://open.spotify.com/track/6GYmiaM2r76K3k0sdp6gFL"

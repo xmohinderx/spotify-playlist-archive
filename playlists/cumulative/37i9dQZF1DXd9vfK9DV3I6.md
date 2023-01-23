@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-231 songs - 17 hr 10 min
+232 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Conmigo](https://open.spotify.com/track/7vdihCV62kwUQq56ogHK1Q) | [Max Oazo](https://open.spotify.com/artist/5uNCgXcFgj0OyipmIk8ZUi), [Bonzana](https://open.spotify.com/artist/5q3YP2wg8w3Oydv2uOAWLS) | [Conmigo](https://open.spotify.com/album/4uw61lolt65J501aWdt4Fr) | 3:21 | 2021-10-10 |  |
 | [Count on You \- Anthony Keyrouz Remix \- Radio Edit](https://open.spotify.com/track/7hoFU5qbPe3oruw1Px7JA0) | [Deepforever](https://open.spotify.com/artist/1JiQCV3XfG5ri2sH07QTdx), [Iarina](https://open.spotify.com/artist/0qCN2evCqb8R0GBCuCwlr7), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Count on You \(Anthony Keyrouz Remix\)](https://open.spotify.com/album/5R64opDkn7VheuaIpSF4t2) | 3:21 | 2020-12-13 | 2022-08-19 |
 | [Cry](https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I), [Dj Iljano](https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd), [Kristian Gusho](https://open.spotify.com/artist/1hRo9TcIsOlGXKZ7O9pAJL) | [Cry](https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2) | 3:20 | 2020-12-18 |  |
-| [Cry](https://open.spotify.com/track/3unxpgWFIPcYAgr9Jmhz9p) | [Iarina](https://open.spotify.com/artist/0qCN2evCqb8R0GBCuCwlr7) | [Cry](https://open.spotify.com/album/3fWzFPiEAXLSIlCgqNs1wS) | 2:39 | 2020-12-13 |  |
+| [Cry](https://open.spotify.com/track/3unxpgWFIPcYAgr9Jmhz9p) | [Iarina](https://open.spotify.com/artist/0qCN2evCqb8R0GBCuCwlr7) | [Cry](https://open.spotify.com/album/3fWzFPiEAXLSIlCgqNs1wS) | 2:39 | 2020-12-13 | 2023-01-23 |
 | [Dahlia Girl](https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [Dahlia Girl](https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv) | 3:17 | 2022-05-19 |  |
 | [Dar Gnawa \- Original Mix](https://open.spotify.com/track/3y5HE8dQl42d0fzyfrIdU5) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Dar Gnawa Ep](https://open.spotify.com/album/3ZwlXB4sw91PjNlsLSmBxJ) | 6:59 | 2020-10-18\* | 2022-07-29 |
 | [DayBreak Ft\. Behrooz Shiri \- Original mix](https://open.spotify.com/track/47ds21UWcwcRAb2grmY23u) | [DJ Phellix](https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV), [Adeia](https://open.spotify.com/artist/2HXkY2E4L4r1U4Lz2zlf5Q) | [DayBreak Ft\. Behrooz Shiri](https://open.spotify.com/album/2RBZ8NbEoccZBVr2arOrU4) | 4:00 | 2021-01-08 |  |
@@ -233,6 +233,7 @@
 | [You Know](https://open.spotify.com/track/0zsXASMXwtoioPle5zqVom) | [Onuray Bal](https://open.spotify.com/artist/0dJUQORvGmT346KQhlmCBa), [Kartal Ufuk Olkan](https://open.spotify.com/artist/0O0Ov3wcy4X9v5nr0qxmAi) | [You Know](https://open.spotify.com/album/0gISNnmjRhkH4lZPa4poUY) | 3:08 | 2021-08-06 | 2022-09-13 |
 | [Youm Wara Youm \(Remix\)](https://open.spotify.com/track/0Nwjfrhdu6s4fG20fzNs7V) | [Hijazi](https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL) | [Youm Wara Youm \(Remix\)](https://open.spotify.com/album/5ymwbdQyEx0e5ZPxa4ogWF) | 2:51 | 2022-01-27 | 2022-06-09 |
 | [Your Love \- Anthony Keyrouz Remix](https://open.spotify.com/track/1mAUF7W9YkFUZec9cMJG5Z) | [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY) | [Your Love \(Anthony Keyrouz Remix\)](https://open.spotify.com/album/3riktT549Qi3VPtvd7fsdo) | 3:16 | 2020-10-18\* |  |
+| [Yâr \- Ezgi Sağlık Vocal Edit](https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [fidanson](https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh), [Ezgi Sağlık](https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9) | [Yâr](https://open.spotify.com/album/770XPLwAlImTgzG070HEvX) | 1:37 | 2023-01-19 |  |
 | [Zagora](https://open.spotify.com/track/4SNEe0K9EmOa1zXBrjjoHM) | [So Dubbed](https://open.spotify.com/artist/7iIpChHfPHBIC5Yzt32xse), [Ravin](https://open.spotify.com/artist/3HCPQCRWBlwDmunTTzn3bb) | [Zagora](https://open.spotify.com/album/2m3l8T67d9WqovM8yLfaeJ) | 5:25 | 2020-10-18\* | 2022-07-29 |
 | [Zagora](https://open.spotify.com/track/4ePH0udOkmmaS6CEASnj7N) | [So Dubbed](https://open.spotify.com/artist/7iIpChHfPHBIC5Yzt32xse), [Ravin](https://open.spotify.com/artist/3HCPQCRWBlwDmunTTzn3bb) | [Zagora](https://open.spotify.com/album/4zNoZkafLXtBaFAHG8i5u4) | 5:25 | 2022-06-27 | 2022-12-13 |
 | [Zamen \- Amine K Remix](https://open.spotify.com/track/3z9c90mEZypec8OYZGCAdr) | [Mario Bazouri](https://open.spotify.com/artist/1PW4Ka7Ui6PzpbWtxUI2k5), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Sultan \(Inc\. Derun & Amine K Remix\)](https://open.spotify.com/album/13z2xBt6SaIvrkWtnOrp0G) | 6:51 | 2020-10-18\* | 2022-11-13 |

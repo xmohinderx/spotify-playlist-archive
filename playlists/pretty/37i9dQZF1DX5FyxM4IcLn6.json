@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 121128,
+  "num_followers": 121138,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTExNjU1OSwwMDAwMDAwMDQ4YzU0OWEzMzg0ODVhMDhiNGNiZDhhNDdlZDMyYWEz",
+  "snapshot_id": "MTY3MTExNjU1OSwwMDAwMDAwMGNhMjg2MjViNGZkYzQzYmRmZDVjYmNhMDQyZjFlYTIw",
   "tracks": [
     {
       "added_at": "2022-12-15 15:02:39",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2022-12-15 15:02:39",
       "album": {
-        "name": "Silver Moon - Single",
-        "url": "https://open.spotify.com/album/1TNA7yr79Ogm5cM3NOdcI0"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/0pzNooasslThzBqmdVlqR4"
       },
       "artists": [
         {
-          "name": "Eric Alexandrakis",
-          "url": "https://open.spotify.com/artist/1ElXColOn7LPXIFKxLvGOc"
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
         }
       ],
-      "duration_ms": 237239,
-      "name": "Silver Moon",
-      "url": "https://open.spotify.com/track/5h166TVT3jk77HgfqCCIFi"
+      "duration_ms": 191621,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/5FFRJRkI4aJ63CxI2KCoeN"
     }
   ],
   "unique_name": "The GRAMMYs Official Playlist",

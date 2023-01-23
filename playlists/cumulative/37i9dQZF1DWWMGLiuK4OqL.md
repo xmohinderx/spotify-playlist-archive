@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-285 songs - 19 hr 27 min
+286 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Angel](https://open.spotify.com/track/3aNQimKCvTw7Ag3vHei2NX) | [Dasha Beets](https://open.spotify.com/artist/5c74V4G4hH40lxp93rE9Xh) | [Angel](https://open.spotify.com/album/6uQ7ls8RWxnZ2wbe7rJr8G) | 4:47 | 2022-03-17 | 2022-12-02 |
 | [Anna's Dollhouse \- Single Edit](https://open.spotify.com/track/3QV9E7sy4OXUbS8wHG72yl) | [Benjamin Koppel](https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY), [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H), [Kenny Werner](https://open.spotify.com/artist/0ppaiYSgRlCaCQ028u4k5f), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [Anna's Dollhouse](https://open.spotify.com/album/1DyNXXxTo3eTY13yXKHv8z) | 5:00 | 2022-05-26 | 2022-07-29 |
 | [Another Kind of Blue](https://open.spotify.com/track/2W4zY2eoFj7zrH3N05W9PW) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Eternal Beauty](https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx) | 3:21 | 2022-01-20 | 2022-10-08 |
+| [Any Little Time](https://open.spotify.com/track/1sqn0LWWNkKM8XYaIyaw10) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:31 | 2023-01-20 |  |
 | [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 | 2022-01-20 |  |
 | [At Long Last Love \- Live](https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Barry Stephenson](https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5) | [At Long Last Love \(Live\)](https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1) | 2:51 | 2022-02-03 |  |
 | [Autumn In New York](https://open.spotify.com/track/0f2489MzoisF9pKduawvce) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 5:56 | 2022-01-20 | 2023-01-12 |
@@ -53,7 +54,7 @@
 | [Blue Moon](https://open.spotify.com/track/55A5X28Hd8AvSAYKx6kcND) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Moon Lover](https://open.spotify.com/album/7bZM4rQXsuEDdEEjeHEVlj) | 3:00 | 2022-07-14 |  |
 | [Breaking up Is Hard to Do](https://open.spotify.com/track/4fnMcxme0xLpT5jFhKz7vz) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 4:11 | 2022-01-20 |  |
 | [But Beautiful](https://open.spotify.com/track/2QJTjKjGH9JUHRwXKUrLFI) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 4:50 | 2022-01-20 |  |
-| [But Beautiful](https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:55 | 2022-01-20 |  |
+| [But Beautiful](https://open.spotify.com/track/7mOnmZ2OWGfNMXEBIf3aUS) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 3:55 | 2022-01-20 | 2023-01-23 |
 | [But For Now](https://open.spotify.com/track/1oSmMZfuhctJjbrn3joJKc) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething \(Special Edition\)](https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh) | 3:55 | 2022-01-20 |  |
 | [California Dreamin'](https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:17 | 2022-01-20 | 2022-05-25 |
 | [Can't Get Out Of This Mood](https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Can't Get Out Of This Mood](https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy) | 3:42 | 2022-08-11 |  |

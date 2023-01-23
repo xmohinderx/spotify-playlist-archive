@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 
 > Cool beats for homework time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,107 likes - 148 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,140 likes - 148 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHS0n2OcMjx.md) - [plain]
 | 132 | [mello](https://open.spotify.com/track/41E6swWhglkp7zSr1L65t0) | [tides.](https://open.spotify.com/artist/138GsDz0pX5leXnKi7ay7G) | [oldsoul.](https://open.spotify.com/album/40crGJnaetiAhiqKjHueky) | 1:08 |
 | 133 | [Do Some Real](https://open.spotify.com/track/4xx8doH9tVSvTd7i8s5tKi) | [Mono:Massive](https://open.spotify.com/artist/2M3T0t1HvVr5Lz3MtdygpS), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Monothrope](https://open.spotify.com/album/5EyUxvviTCMStig7V4pnvw) | 2:56 |
 | 134 | [Snake Plant](https://open.spotify.com/track/4c62KxdplU5lFoc90cieVl) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [English Breakfast](https://open.spotify.com/album/6bqFWuCzfQjP3pvL5LtsP1) | 2:11 |
-| 135 | [The Ceremony](https://open.spotify.com/track/3oQ8b6m5S531gvqZV9wEOY) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Masters of the Lodge](https://open.spotify.com/album/1bx6nmknADHJvaxcvlO4go) | 1:35 |
+| 135 | [The Ceremony](https://open.spotify.com/track/3oQ8b6m5S531gvqZV9wEOY) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Dontcry](https://open.spotify.com/artist/6oVU5zCfJAyX49KhaKaPRS) | [Masters of the Lodge](https://open.spotify.com/album/1bx6nmknADHJvaxcvlO4go) | 1:35 |
 | 136 | [Sunny.](https://open.spotify.com/track/7cKh8PHBwZJwY5JsmLGhSQ) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Sunny.](https://open.spotify.com/album/384a8GfDuhJ7Tu91qjz10C) | 1:41 |
 | 137 | [Morning Sweetness](https://open.spotify.com/track/5XaohMu79GaUzXEKVLJdrE) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Morning Sweetness](https://open.spotify.com/album/12GXoeM9z30czVZyWtkoag) | 2:54 |
 | 138 | [Marbles](https://open.spotify.com/track/5Gc0CM7a83XeqbrW5O5a6S) | [tusken.](https://open.spotify.com/artist/43P02sF00xAIa3d9mp1n24), [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Complex Channel Collective Tapes Vol\. 3](https://open.spotify.com/album/3I51mayU1aBAzUdTFQ3SrR) | 1:50 |

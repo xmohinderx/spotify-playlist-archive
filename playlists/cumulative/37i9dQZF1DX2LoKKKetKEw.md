@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Marizu
 
-94 songs - 4 hr 42 min
+95 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,9 +21,10 @@
 | [Count Your Blessings](https://open.spotify.com/track/2SWBD2z2Hmh0VLirGrM7vM) | [Lamboginny](https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF) | [Count Your Blessings](https://open.spotify.com/album/5EJsDFoL9jqVOsCS2UnXil) | 2:12 | 2022-07-30 | 2022-12-17 |
 | [Covered](https://open.spotify.com/track/55BLK36N4ebg6am14GvZ1I) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Covered](https://open.spotify.com/album/6GajkGd1VC4cqCIspEJrT5) | 2:41 | 2022-09-11 | 2022-09-19 |
 | [Desire](https://open.spotify.com/track/38hOrmc7D0YqWZ2QYdxgK2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Desire](https://open.spotify.com/album/2QPzJrnYkpPBU4kCD15Hcw) | 3:24 | 2022-09-11 |  |
+| [Drunk](https://open.spotify.com/track/2rnvrDQFl4EkoK9ySEJFKG) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Drunk](https://open.spotify.com/album/6DESTJsBybhYK4ZQL82C7G) | 5:21 | 2023-01-23 |  |
 | [Easy!](https://open.spotify.com/track/3rNxrZ0TjoWsPrEZW4kONj) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Easy!](https://open.spotify.com/album/1gT3Q7Av72uP0WSRaS8RlU) | 2:45 | 2022-07-30 |  |
 | [Efficient](https://open.spotify.com/track/2RFl6yLQk6qZNJ1if9LW7o) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Efficient](https://open.spotify.com/album/18HwWXrgptkhI2krmkHav2) | 2:44 | 2022-07-30 |  |
-| [Favor](https://open.spotify.com/track/62SfxrGZChnlj7JMgUj7X8) | [Soltune](https://open.spotify.com/artist/1PFwvjnnz3gPAAJvmhY9fq), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Favor](https://open.spotify.com/album/6X2gMqX3ExUhv24Z9v8X7D) | 3:14 | 2023-01-05 |  |
+| [Favor](https://open.spotify.com/track/62SfxrGZChnlj7JMgUj7X8) | [Soltune](https://open.spotify.com/artist/1PFwvjnnz3gPAAJvmhY9fq), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Favor](https://open.spotify.com/album/6X2gMqX3ExUhv24Z9v8X7D) | 3:14 | 2023-01-05 | 2023-01-23 |
 | [Feeling Good](https://open.spotify.com/track/1hjfRY5lZd5XYAVRgCg1g8) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Greg Cox](https://open.spotify.com/artist/0sSaM0P7mPCUyS7QE0HANt) | [Feeling Good](https://open.spotify.com/album/6sYCJnsF6Io91R5GOVlvFs) | 3:26 | 2022-12-17 |  |
 | [Give Him Praise](https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Give Him Praise](https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy) | 2:00 | 2022-12-17 |  |
 | [GOD'S LOVE](https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [GOD'S LOVE](https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP) | 2:17 | 2022-07-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,407 likes - 199 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,537 likes - 199 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 2 | [Increment Incline](https://open.spotify.com/track/0uUfB7ntFR7lPofeqayndv) | [qopoqop](https://open.spotify.com/artist/0dmhEkMTtLrKsd1Wfv2jhr), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Increment Incline](https://open.spotify.com/album/2JrDDnIyNBN5l0QBu85g1E) | 1:46 |
 | 3 | [Optimistic](https://open.spotify.com/track/2cq5LlQMpHDFbRLjmMopph) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII) | [Optimistic](https://open.spotify.com/album/3kFPAvkGQ5aXABohDuJvqs) | 1:35 |
 | 4 | [Goiaba](https://open.spotify.com/track/6nE6Gdm1JlMSS3mFfW2158) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Goiaba](https://open.spotify.com/album/7AeffHlBxwhazA5z5WikxD) | 2:19 |
-| 5 | [Low Rake](https://open.spotify.com/track/3uxcX73X3YZlaGVeKzECjE) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh) | [Low Rake](https://open.spotify.com/album/2xEGZfG8okr9tQKmQLBuJx) | 1:56 |
+| 5 | [Low Rake](https://open.spotify.com/track/3uxcX73X3YZlaGVeKzECjE) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Low Rake](https://open.spotify.com/album/2xEGZfG8okr9tQKmQLBuJx) | 1:56 |
 | 6 | [BEACH WAVES](https://open.spotify.com/track/5kh6cDKfut5E1J8mP8dX0Y) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [BEACH WAVES](https://open.spotify.com/album/3fmQEMS8WJ928ksqzceZF0) | 2:08 |
 | 7 | [Cruising Avenues](https://open.spotify.com/track/3pb6lOqe10g5OXtTyZA3Vb) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Thousand Islands](https://open.spotify.com/album/1xYOX8UICuZXSwo1e7vLVy) | 3:04 |
 | 8 | [Faster](https://open.spotify.com/track/74HsEuxWpgnH0osQ3LT7UP) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [Youth](https://open.spotify.com/album/6EsM3MnrEP0kcCf73zoHlF) | 2:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,714 likes - 500 songs - 19 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,871 likes - 500 songs - 19 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 122 | [fresh baguettes](https://open.spotify.com/track/3TUIKRVjmKUsRgGr83epTn) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [fresh baguettes](https://open.spotify.com/album/3Ji9bYV8Pg2fjcXYCJiFgj) | 1:41 |
 | 123 | [Midnight Coffee](https://open.spotify.com/track/4ezxA4ICGNFjYHc81McwHH) | [Mount Dreamer](https://open.spotify.com/artist/2pPuDXt6uSj2gGllSLRjnO) | [Midnight Coffee](https://open.spotify.com/album/5PNoSA2H4zFJxcbqLQwcWQ) | 2:33 |
 | 124 | [Bundle Up](https://open.spotify.com/track/1f7KyBindCWLpGzRxoQETw) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Bundle Up](https://open.spotify.com/album/58gwIKgrNtHC50Oe7oryL7) | 1:45 |
-| 125 | [tainted titles](https://open.spotify.com/track/4gKXB2JuhurzGDdwNIQIZ9) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh) | [tainted titles](https://open.spotify.com/album/4xCeU2rUS51yjVVR6iYiNf) | 2:23 |
+| 125 | [tainted titles](https://open.spotify.com/track/4gKXB2JuhurzGDdwNIQIZ9) | [trak\-side](https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh), [ChillFarm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [tainted titles](https://open.spotify.com/album/4xCeU2rUS51yjVVR6iYiNf) | 2:23 |
 | 126 | [Night Time](https://open.spotify.com/track/5U8iVlXYzTqdKPSTVNYW7K) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [Night Time](https://open.spotify.com/album/3zwK2AxQFgbvz2nE94tjP1) | 2:27 |
 | 127 | [CarniBeat](https://open.spotify.com/track/40VHq1fyWREaNYcoFEYxih) | [Missta Wu](https://open.spotify.com/artist/6pgGx9VGAe6QAD0moJPXGM) | [CarniBeat](https://open.spotify.com/album/3ufwlvt6aBH34L7czcacRx) | 2:15 |
 | 128 | [Lotus Tattoo](https://open.spotify.com/track/1yDOMeEbEnvmxrfOIiOdKz) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Lotus Tattoo & Queen's Oak](https://open.spotify.com/album/5E2W2oF70zLFopx7WlgXpU) | 2:50 |

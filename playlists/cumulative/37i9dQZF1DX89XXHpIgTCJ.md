@@ -2,7 +2,7 @@
 
 ### [Rap 'n' Roll](https://open.spotify.com/playlist/37i9dQZF1DX89XXHpIgTCJ)
 
-> When Rock meets Rap: covers, collabs, mashups and everything that rhymes\. Cover: Jonathan Davis & Ice Cube
+> When Rock meets Rap: covers, collabs, mashups and everything that rhymes\. Cover: JAY\-Z & Linkin Park
 
 107 songs - 6 hr 54 min
 

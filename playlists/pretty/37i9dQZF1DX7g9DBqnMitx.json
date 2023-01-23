@@ -1,12 +1,12 @@
 {
   "description": "Le cin\u00e9ma \u00e7a s'\u00e9coute aussi.",
-  "num_followers": 50648,
+  "num_followers": 50694,
   "original_name": "Bandes Originales & Pop Corn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMGIxNTkyZThjOWY3NzczYjEzZTJjYTViN2FkZDhiYjdj",
+  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMGIyNjgzODA4NmRiNzg0MzJmOTdmMWE3ZDhhNDlhNzQ3",
   "tracks": [
     {
       "added_at": "2022-09-07 09:54:53",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
-      "added_at": "2023-01-22 01:30:19",
+      "added_at": "2023-01-23 00:34:24",
       "album": {
         "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
@@ -95,26 +95,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
-        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
-      },
-      "artists": [
-        {
-          "name": "Mykola Dmytrovych Leontovych",
-          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 85266,
-      "name": "Carol of the Bells",
-      "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+      },
+      "artists": [
+        {
+          "name": "Mykola Dmytrovych Leontovych",
+          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 85266,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Le Fabuleux destin d'Am\u00e9lie Poulain (Bande originale du film)",
-        "url": "https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0"
-      },
-      "artists": [
-        {
-          "name": "Yann Tiersen",
-          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
-        }
-      ],
-      "duration_ms": 140733,
-      "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
-      "url": "https://open.spotify.com/track/14rZjW3RioG7WesZhYESso"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
         "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
       },
@@ -307,18 +291,18 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Watercolor Eyes (From \u201cEuphoria\u201d An HBO Original Series)",
-        "url": "https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF"
+        "name": "Le Fabuleux destin d'Am\u00e9lie Poulain (Bande originale du film)",
+        "url": "https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
         }
       ],
-      "duration_ms": 211613,
-      "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
-      "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
+      "duration_ms": 140733,
+      "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
+      "url": "https://open.spotify.com/track/14rZjW3RioG7WesZhYESso"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -335,6 +319,22 @@
       "duration_ms": 185413,
       "name": "The Sound of Silence - Acoustic Version",
       "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Watercolor Eyes (From \u201cEuphoria\u201d An HBO Original Series)",
+        "url": "https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
+      "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
     },
     {
-      "added_at": "2023-01-22 01:30:19",
+      "added_at": "2023-01-23 00:34:24",
       "album": {
         "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
         "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Fame (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 316066,
-      "name": "Fame",
-      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Reservoir Dogs (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF"
       },
@@ -523,18 +507,18 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Dr. Seuss' The Grinch (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ"
+        "name": "Fame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dmq3geiHxPk20sTt8sXxy"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
         }
       ],
-      "duration_ms": 108986,
-      "name": "You're A Mean One, Mr. Grinch",
-      "url": "https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL"
+      "duration_ms": 316066,
+      "name": "Fame",
+      "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -555,6 +539,22 @@
       "duration_ms": 149706,
       "name": "City Of Stars - From \"La La Land\" Soundtrack",
       "url": "https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Dr. Seuss' The Grinch (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 108986,
+      "name": "You're A Mean One, Mr. Grinch",
+      "url": "https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
     },
     {
-      "added_at": "2023-01-22 01:30:19",
+      "added_at": "2023-01-23 00:34:24",
       "album": {
         "name": "Red Rose Speedway (Archive Collection)",
         "url": "https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy"
@@ -675,26 +675,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
-      },
-      "artists": [
-        {
-          "name": "Joseph Trapanese",
-          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
-        },
-        {
-          "name": "Joey Batey",
-          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
-        }
-      ],
-      "duration_ms": 159430,
-      "name": "Burn Butcher Burn - from \"The Witcher: Season 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Joey Batey",
+          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
+        }
+      ],
+      "duration_ms": 159430,
+      "name": "Burn Butcher Burn - from \"The Witcher: Season 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN"
     },
     {
-      "added_at": "2023-01-22 01:30:19",
+      "added_at": "2023-01-23 00:34:24",
       "album": {
         "name": "The Spy Who Loved Me",
         "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "The Mission: Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/2fOlcWrSR032MxwMCQe9LA"
-      },
-      "artists": [
-        {
-          "name": "Ennio Morricone",
-          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
-        }
-      ],
-      "duration_ms": 134133,
-      "name": "Gabriel's Oboe",
-      "url": "https://open.spotify.com/track/6opPrJUpq4Pl5c84eCwLmo"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "A Monster Calls (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1cQHbrCsJXugmk5Ki8Ub0B"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 204222,
       "name": "Pass The Dutchie",
       "url": "https://open.spotify.com/track/4qsHN0A1uiS4stUbDjlUbe"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "The Mission: Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/2fOlcWrSR032MxwMCQe9LA"
+      },
+      "artists": [
+        {
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+        }
+      ],
+      "duration_ms": 134133,
+      "name": "Gabriel's Oboe",
+      "url": "https://open.spotify.com/track/6opPrJUpq4Pl5c84eCwLmo"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "Amore mio aiutami (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF"
+      },
+      "artists": [
+        {
+          "name": "Piero Piccioni",
+          "url": "https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Amore mio aiutami - Main Theme",
+      "url": "https://open.spotify.com/track/29KwH2LEjfWEtiC2jCrLVw"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "The Imitation Game (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2CsfKW5tze2DZKq49iARk1"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 157026,
       "name": "The Imitation Game",
       "url": "https://open.spotify.com/track/0o9ivTBX7mjTnaUYF4Gk6t"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Amore mio aiutami (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF"
-      },
-      "artists": [
-        {
-          "name": "Piero Piccioni",
-          "url": "https://open.spotify.com/artist/2WPn0emjr8XPmMOT0bBcPe"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Amore mio aiutami - Main Theme",
-      "url": "https://open.spotify.com/track/29KwH2LEjfWEtiC2jCrLVw"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Soundtrack From Twin Peaks",
-        "url": "https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX"
-      },
-      "artists": [
-        {
-          "name": "Angelo Badalamenti",
-          "url": "https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl"
-        }
-      ],
-      "duration_ms": 310013,
-      "name": "Twin Peaks Theme - Instrumental",
-      "url": "https://open.spotify.com/track/7FO7BolIZsl1o8DDSjeOph"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Profumo di donna (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1RyXyJsE1zj3ijEai61Vff"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 217186,
       "name": "Che Vuole Questa Musica Stasera",
       "url": "https://open.spotify.com/track/6wrptu9SlLfq8bE6C86kEX"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Soundtrack From Twin Peaks",
+        "url": "https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX"
+      },
+      "artists": [
+        {
+          "name": "Angelo Badalamenti",
+          "url": "https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl"
+        }
+      ],
+      "duration_ms": 310013,
+      "name": "Twin Peaks Theme - Instrumental",
+      "url": "https://open.spotify.com/track/7FO7BolIZsl1o8DDSjeOph"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1309,7 +1309,7 @@
       "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
     },
     {
-      "added_at": "2023-01-22 01:30:19",
+      "added_at": "2023-01-23 00:34:24",
       "album": {
         "name": "Let Me Sing and I'm Happy",
         "url": "https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5"
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Music for the Motion Picture Victoria",
-        "url": "https://open.spotify.com/album/5Bd46K8hcylV7O7xz2YqEX"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 239769,
-      "name": "Them",
-      "url": "https://open.spotify.com/track/2tr4oclswJ6v3dfDlI01HD"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Joker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 128280,
       "name": "Bathroom Dance",
       "url": "https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Music for the Motion Picture Victoria",
+        "url": "https://open.spotify.com/album/5Bd46K8hcylV7O7xz2YqEX"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 239769,
+      "name": "Them",
+      "url": "https://open.spotify.com/track/2tr4oclswJ6v3dfDlI01HD"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner",
-        "url": "https://open.spotify.com/album/1H81jGoWeLI8ufq42GfDPn"
-      },
-      "artists": [
-        {
-          "name": "James Horner",
-          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
-        }
-      ],
-      "duration_ms": 198080,
-      "name": "Climbing up \"Iknimaya - The Path to Heaven\"",
-      "url": "https://open.spotify.com/track/15KqdThHtueKDitVDzKNkF"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "TRON: Legacy",
         "url": "https://open.spotify.com/album/4US3nmuLIKELhVZdBPiKxx"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 156480,
       "name": "End of Line - From \"TRON: Legacy\"/Score",
       "url": "https://open.spotify.com/track/72MoCPAnz0UljAVmwHHw3Y"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner",
+        "url": "https://open.spotify.com/album/1H81jGoWeLI8ufq42GfDPn"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        }
+      ],
+      "duration_ms": 198080,
+      "name": "Climbing up \"Iknimaya - The Path to Heaven\"",
+      "url": "https://open.spotify.com/track/15KqdThHtueKDitVDzKNkF"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "First Man (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4NFpOHIv0hJa9of0IQsgKw"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 135106,
-      "name": "Quarantine",
-      "url": "https://open.spotify.com/track/3c1nWxMzw76sU66l3VN9rL"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Amarcord (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OeChQ1Mo9fFrcIu2pMmGy"
       },
@@ -1557,20 +1541,20 @@
       "url": "https://open.spotify.com/track/7wjJIZiFfH8o2nBANoz4IG"
     },
     {
-      "added_at": "2023-01-22 01:30:19",
+      "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Volume 1",
-        "url": "https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth"
+        "name": "First Man (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4NFpOHIv0hJa9of0IQsgKw"
       },
       "artists": [
         {
-          "name": "Fabrizio De Andr\u00e9",
-          "url": "https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm"
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
         }
       ],
-      "duration_ms": 154493,
-      "name": "Spiritual",
-      "url": "https://open.spotify.com/track/7bUsesodBH1tITKTFXWK9k"
+      "duration_ms": 135106,
+      "name": "Quarantine",
+      "url": "https://open.spotify.com/track/3c1nWxMzw76sU66l3VN9rL"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1587,6 +1571,22 @@
       "duration_ms": 161500,
       "name": "Highschool Lover",
       "url": "https://open.spotify.com/track/366QpkppDb9f5TVamPSpgH"
+    },
+    {
+      "added_at": "2023-01-23 00:34:24",
+      "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio De Andr\u00e9",
+          "url": "https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/7bUsesodBH1tITKTFXWK9k"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "The Truman Show (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2uMsRKnaZ0Iy9wVI4F0X8a"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        }
-      ],
-      "duration_ms": 114826,
-      "name": "Dreaming of Fiji",
-      "url": "https://open.spotify.com/track/3lPGx5rQVWSnCPtf8QBmsn"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Drive (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3fKas0iq7DWAylIQxGEIQW"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 123533,
       "name": "I Drive",
       "url": "https://open.spotify.com/track/1ptBH8MFuEgtEcjcU6t5t1"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "The Truman Show (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2uMsRKnaZ0Iy9wVI4F0X8a"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "duration_ms": 114826,
+      "name": "Dreaming of Fiji",
+      "url": "https://open.spotify.com/track/3lPGx5rQVWSnCPtf8QBmsn"
     },
     {
       "added_at": "2022-09-07 09:54:53",

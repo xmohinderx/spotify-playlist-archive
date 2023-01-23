@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,594 likes - 18 songs - 1 hr 1 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,593 likes - 18 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 17 | [20:22 \- DJEAU Remix](https://open.spotify.com/track/7wDtMtlr1H5fYQiweW8hrz) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Willemijn May](https://open.spotify.com/artist/3HqQXlVVvoBiSiYRmyi1qV), [DJEAU](https://open.spotify.com/artist/6lgOrCkQMcx7hEW0FxZ2rA) | [20:22 \(DJEAU Remix\)](https://open.spotify.com/album/1RwJ6qNM3nAYiLGc2qvIO0) | 3:21 |
 | 18 | [KLK](https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [KLK](https://open.spotify.com/album/2tPFlCPO1HxQ8DJFc5QLw3) | 3:10 |
 
-Snapshot ID: `NjQ5NyxmNzRjMTkwOGI3MzYyMzU1NTI5NDZiMTdiNTk5OWQ5YzQ4MTEwZTA1`
+Snapshot ID: `NjQ5OCw0YzVjMzRlYjViZTI5NWIzYWRjNjBmOTU0N2IzYTMwY2VjOTEzZjY2`
