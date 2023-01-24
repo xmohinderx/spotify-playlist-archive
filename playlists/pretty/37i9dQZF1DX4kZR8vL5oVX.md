@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,380 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,389 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 11 | [La bohème](https://open.spotify.com/track/22AqCxA8ratERaDPoBmZAO) | [L.E.J](https://open.spotify.com/artist/7kKKMBmEtyQcPb9idicNr7) | [La bohème](https://open.spotify.com/album/4CZ7eszyvir5bCCO1FcQyJ) | 3:29 |
 | 12 | [Que je devienne...](https://open.spotify.com/track/7hEWsWajkW0qb2oYHMmPzj) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [L'Emprise](https://open.spotify.com/album/5yhGlmRE3hu5glzQEBD13U) | 4:14 |
 | 13 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 |
-| 14 | [So Long](https://open.spotify.com/track/34np7qi7qKvOsvqptdBUnq) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [So Long](https://open.spotify.com/album/74ERRFXX47XBkVarTGWixm) | 3:01 |
+| 14 | [So Long](https://open.spotify.com/track/0wjNy6Y2S0tZkykclifcRE) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:01 |
 | 15 | [I Killed a Bird Today](https://open.spotify.com/track/50BAO1bOJ68EUCqZi5FIsz) | [Nili Hadida](https://open.spotify.com/artist/6WEbJueFZyzOeg2O6oNPE9) | [I Killed a Bird Today](https://open.spotify.com/album/5xKeS7XH4WxbZZdL5f8yCe) | 3:45 |
 | 16 | [Vos regards](https://open.spotify.com/track/6Q5zrEyK6J1M0NtKAbjLGJ) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Vos regards](https://open.spotify.com/album/1HBzsUdxo3pg4Dk8U3CWUz) | 2:56 |
 | 17 | [Monstres](https://open.spotify.com/track/3YKiwttaOxs8As0Ttp8yzs) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Monstres](https://open.spotify.com/album/1YwDFgQZtPg2lmFY1bfvEq) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [À mon piano](https://open.spotify.com/track/7DeQDEEvkoLmxLCD2ViR0w) | [Turquoise M](https://open.spotify.com/artist/3MbVetgAiX77R6xRxd8D1V) | [À mon piano](https://open.spotify.com/album/5CyFBycuoCeJIaYLpaXOiw) | 4:04 |
 | 50 | [L'océan](https://open.spotify.com/track/4WutcheedbzII83QtSUu67) | [Luxie](https://open.spotify.com/artist/46vs9UZGRcEdKbS8jTTP9k) | [Les Flots](https://open.spotify.com/album/1K8LYXCo7bMT5vHd40AiFV) | 3:21 |
 
-Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMDNhMWQwNzUzYzJiODA1MGI0MDY0YjIxMWFlMmEzZmY4`
+Snapshot ID: `MTY3Mjc4NjgwMCwwMDAwMDAwMDk1Y2FmODY5NjE3M2I3YjY4NjI0NzM0ZDliZDI2Zjlk`

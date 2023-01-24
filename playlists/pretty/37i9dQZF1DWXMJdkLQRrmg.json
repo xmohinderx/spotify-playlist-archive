@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 296505,
+  "num_followers": 296636,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMDkxZjI4NzIzNmQ4YjY0MjFiY2EzZTliMjE1NTI2ZDM5",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGU1MzQ0ZGQ1NmUwNGM0MzEwNDlkMDM5YTFmM2QzOGI0",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 189720,
       "name": "Cut Deep \u2013 Stripped",
       "url": "https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Golden Dandelions (Acoustic)",
-        "url": "https://open.spotify.com/album/5W6WwaQUG7ZwgmpXIWcUFL"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 202576,
-      "name": "Golden Dandelions - Acoustic",
-      "url": "https://open.spotify.com/track/5H7Z2DdWYT9ctLSuKzqkSb"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Kill The Noise (Acoustic)",
         "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "abcdefu (chill)",
-        "url": "https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0"
+        "name": "Golden Dandelions (Acoustic)",
+        "url": "https://open.spotify.com/album/5W6WwaQUG7ZwgmpXIWcUFL"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
         }
       ],
-      "duration_ms": 176765,
-      "name": "abcdefu (chill)",
-      "url": "https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT"
+      "duration_ms": 202576,
+      "name": "Golden Dandelions - Acoustic",
+      "url": "https://open.spotify.com/track/5H7Z2DdWYT9ctLSuKzqkSb"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -751,6 +735,22 @@
       "duration_ms": 198573,
       "name": "Stay With Me - Acoustic Version",
       "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "abcdefu (chill)",
+        "url": "https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 176765,
+      "name": "abcdefu (chill)",
+      "url": "https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT"
     },
     {
       "added_at": "2023-01-13 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 141253,
+  "num_followers": 141262,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0Mzg2NSwwMDAwMDAwMDlmNTcyZWJhODA2NTJjZGU4ODBjZGU1YzcyM2UwMzQz",
+  "snapshot_id": "MTY3MzI0Mzg2NSwwMDAwMDAwMDMxZjMxNWQ4ODQwNTlhYzdmMzdjNjQyYThjMDc5Yjhj",
   "tracks": [
     {
       "added_at": "2023-01-09 05:57:45",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
-        "name": "Estamos Unidos",
-        "url": "https://open.spotify.com/album/7bNQ2cpz0PmfR7lQLskJrE"
-      },
-      "artists": [
-        {
-          "name": "Stevie D",
-          "url": "https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc"
-        }
-      ],
-      "duration_ms": 192424,
-      "name": "El Amuleto",
-      "url": "https://open.spotify.com/track/686Fy8OcDeIuLSrojeDRdB"
-    },
-    {
-      "added_at": "2023-01-09 05:57:45",
-      "album": {
         "name": "Quinto",
         "url": "https://open.spotify.com/album/5JYkTglD3KHRoBM3y42tCW"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 165520,
       "name": "El Tirador",
       "url": "https://open.spotify.com/track/72jjeE9Vil9td0fRYrYVtf"
+    },
+    {
+      "added_at": "2023-01-09 05:57:45",
+      "album": {
+        "name": "Estamos Unidos",
+        "url": "https://open.spotify.com/album/7bNQ2cpz0PmfR7lQLskJrE"
+      },
+      "artists": [
+        {
+          "name": "Stevie D",
+          "url": "https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc"
+        }
+      ],
+      "duration_ms": 192424,
+      "name": "El Amuleto",
+      "url": "https://open.spotify.com/track/686Fy8OcDeIuLSrojeDRdB"
     },
     {
       "added_at": "2023-01-09 05:57:45",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
-        "name": "Sweet City Style",
-        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
-      },
-      "artists": [
-        {
-          "name": "Anjelique",
-          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
-    },
-    {
-      "added_at": "2023-01-09 05:57:45",
-      "album": {
         "name": "Quedate",
         "url": "https://open.spotify.com/album/2tcNInfjOxe4iJ4tq0V6bb"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 179063,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
+    },
+    {
+      "added_at": "2023-01-09 05:57:45",
+      "album": {
+        "name": "Sweet City Style",
+        "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
+      },
+      "artists": [
+        {
+          "name": "Anjelique",
+          "url": "https://open.spotify.com/artist/5rUYI9AFsyUjwAYbQgl6Ww"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/3NxxwK9L9Rxa8jTnRsh1OP"
     },
     {
       "added_at": "2023-01-09 05:57:45",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
-        "name": "Escapate",
-        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
-      },
-      "artists": [
-        {
-          "name": "Mia",
-          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
-        }
-      ],
-      "duration_ms": 185232,
-      "name": "Escapate",
-      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
-    },
-    {
-      "added_at": "2023-01-09 05:57:45",
-      "album": {
         "name": "N\u00famero Dos",
         "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 192000,
       "name": "No Quiero Nada",
       "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
+    },
+    {
+      "added_at": "2023-01-09 05:57:45",
+      "album": {
+        "name": "Escapate",
+        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
+      },
+      "artists": [
+        {
+          "name": "Mia",
+          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
+        }
+      ],
+      "duration_ms": 185232,
+      "name": "Escapate",
+      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
     },
     {
       "added_at": "2023-01-09 05:57:45",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
-        "name": "Girls Night",
-        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
-      },
-      "artists": [
-        {
-          "name": "ANGELICA",
-          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
-        }
-      ],
-      "duration_ms": 208979,
-      "name": "Nunca Fuiste Mio",
-      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
-    },
-    {
-      "added_at": "2023-01-09 05:57:45",
-      "album": {
         "name": "Me Enamor\u00e9 de un \u00c1ngel",
         "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 251239,
       "name": "Me Enamor\u00e9 de un \u00c1ngel",
       "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
+    },
+    {
+      "added_at": "2023-01-09 05:57:45",
+      "album": {
+        "name": "Girls Night",
+        "url": "https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM"
+      },
+      "artists": [
+        {
+          "name": "ANGELICA",
+          "url": "https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50"
+        }
+      ],
+      "duration_ms": 208979,
+      "name": "Nunca Fuiste Mio",
+      "url": "https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB"
     },
     {
       "added_at": "2023-01-09 05:57:45",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
-        "name": "Acu\u00e9rdate",
-        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
-      },
-      "artists": [
-        {
-          "name": "Miguel Hernandez",
-          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
-        }
-      ],
-      "duration_ms": 182080,
-      "name": "Acu\u00e9rdate - Radio Edit",
-      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
-    },
-    {
-      "added_at": "2023-01-09 05:57:45",
-      "album": {
         "name": "No Soy La Misma",
         "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 224344,
       "name": "No Soy La Misma",
       "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
+    },
+    {
+      "added_at": "2023-01-09 05:57:45",
+      "album": {
+        "name": "Acu\u00e9rdate",
+        "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
+      },
+      "artists": [
+        {
+          "name": "Miguel Hernandez",
+          "url": "https://open.spotify.com/artist/7BMCqnzzxaHokaimfVVzBF"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Acu\u00e9rdate - Radio Edit",
+      "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
     },
     {
       "added_at": "2023-01-09 05:57:45",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-09 05:57:45",
       "album": {
-        "name": "Porque Sera",
-        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
-      },
-      "artists": [
-        {
-          "name": "Madison Pulido",
-          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
-        }
-      ],
-      "duration_ms": 227186,
-      "name": "Porque Sera",
-      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
-    },
-    {
-      "added_at": "2023-01-09 05:57:45",
-      "album": {
         "name": "Desastre Natural",
         "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 188874,
       "name": "Desastre Natural",
       "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
+    },
+    {
+      "added_at": "2023-01-09 05:57:45",
+      "album": {
+        "name": "Porque Sera",
+        "url": "https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L"
+      },
+      "artists": [
+        {
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
+        }
+      ],
+      "duration_ms": 227186,
+      "name": "Porque Sera",
+      "url": "https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB"
     },
     {
       "added_at": "2023-01-09 05:57:45",

@@ -1,12 +1,12 @@
 {
   "description": "You can practically taste the desert dirt in your mouth while listening to these riff-heavy, fuzzed out numbers. Cover: Queens of the Stone Age",
-  "num_followers": 476563,
+  "num_followers": 476882,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDYwOTA2MSwwMDAwMDAwMGZkMTVjOTk2OTliYjhiZjZmZTViYzc0ZWJkZGU3ODBj",
+  "snapshot_id": "MTY3MDYwOTA2MSwwMDAwMDAwMDY1OTQwMTdhZWRmY2MwYTNkZmM1M2I4NTBlNjk1ZmI5",
   "tracks": [
     {
       "added_at": "2022-10-14 07:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "The Lost Art Of Keeping A Secret",
-      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Black Sabbath (2014 Remaster)",
         "url": "https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj"
       },
@@ -219,6 +203,38 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "The Lost Art Of Keeping A Secret",
+      "url": "https://open.spotify.com/track/6FlAJtf8aSZOpEj9ITSfYh"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+      },
+      "artists": [
+        {
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+        }
+      ],
+      "duration_ms": 311906,
+      "name": "Demon Cleaner",
+      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Age of Winters",
         "url": "https://open.spotify.com/album/3s4TEYpm0Nl7csTO3NCQ1I"
       },
@@ -263,38 +279,6 @@
       "duration_ms": 320333,
       "name": "Albatross",
       "url": "https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Queens of the Stone Age",
-        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 277808,
-      "name": "Regular John",
-      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 311906,
-      "name": "Demon Cleaner",
-      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -379,6 +363,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Queens of the Stone Age",
+        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 277808,
+      "name": "Regular John",
+      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Welcome to Sky Valley",
         "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
       },
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Rated R - Deluxe Edition",
-        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Witchcraft",
+          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
         }
       ],
-      "duration_ms": 163266,
-      "name": "Feel Good Hit Of The Summer",
-      "url": "https://open.spotify.com/track/3DaXIGJm0BCEB9X7zHTRfI"
+      "duration_ms": 309986,
+      "name": "Deconstruction",
+      "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
-      },
-      "artists": [
-        {
-          "name": "Witchcraft",
-          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
-        }
-      ],
-      "duration_ms": 309986,
-      "name": "Deconstruction",
-      "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Tame Impala",
         "url": "https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ"
       },
@@ -471,22 +455,6 @@
       "duration_ms": 266920,
       "name": "Half Full Glass Of Wine",
       "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 352440,
-      "name": "Song For The Dead",
-      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -535,6 +503,22 @@
       "duration_ms": 209643,
       "name": "Enemy of My Enemy",
       "url": "https://open.spotify.com/track/7c9HLjnEAbNOwiwBR8qujq"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Rated R - Deluxe Edition",
+        "url": "https://open.spotify.com/album/10UBEkRjqtl0iT2BRAwcto"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "Feel Good Hit Of The Summer",
+      "url": "https://open.spotify.com/track/3DaXIGJm0BCEB9X7zHTRfI"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -601,7 +585,7 @@
       "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
     },
     {
-      "added_at": "2023-01-23 00:45:50",
+      "added_at": "2023-01-24 01:39:21",
       "album": {
         "name": "Myriad",
         "url": "https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC"
@@ -619,18 +603,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Mars Red Sky",
-        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
       "artists": [
         {
-          "name": "Mars Red Sky",
-          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 329626,
-      "name": "Strong Reflection",
-      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
+      "duration_ms": 352440,
+      "name": "Song For The Dead",
+      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -647,6 +631,22 @@
       "duration_ms": 961942,
       "name": "I'm the Mountain",
       "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Mars Red Sky",
+        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
+      },
+      "artists": [
+        {
+          "name": "Mars Red Sky",
+          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
+        }
+      ],
+      "duration_ms": 329626,
+      "name": "Strong Reflection",
+      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Psychic Warfare",
+        "url": "https://open.spotify.com/album/6lcvofLOkuwd6pxQxCE5iB"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 222134,
+      "name": "X-Ray Visions",
+      "url": "https://open.spotify.com/track/3MWjHnS7hpzrtRqNhT4DsS"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Welcome to Sky Valley",
         "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 447680,
       "name": "Febersvan",
       "url": "https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Psychic Warfare",
-        "url": "https://open.spotify.com/album/6lcvofLOkuwd6pxQxCE5iB"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 222134,
-      "name": "X-Ray Visions",
-      "url": "https://open.spotify.com/track/3MWjHnS7hpzrtRqNhT4DsS"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/6WchxcxHQkc9DnwYc3WEC0"
+      },
+      "artists": [
+        {
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+        }
+      ],
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/7cShikd4rLNwAlHrHo0AFt"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Repeater",
         "url": "https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok"
       },
@@ -1019,34 +1035,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Witch",
-        "url": "https://open.spotify.com/album/6WchxcxHQkc9DnwYc3WEC0"
+        "name": "In The Future",
+        "url": "https://open.spotify.com/album/6bFa0guTmFUo2DKGiVts6R"
       },
       "artists": [
         {
-          "name": "Witch",
-          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+          "name": "Black Mountain",
+          "url": "https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4"
         }
       ],
-      "duration_ms": 477920,
-      "name": "Seer",
-      "url": "https://open.spotify.com/track/7cShikd4rLNwAlHrHo0AFt"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
-        "name": "Elephant Tree",
-        "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
-      },
-      "artists": [
-        {
-          "name": "Elephant Tree",
-          "url": "https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm"
-        }
-      ],
-      "duration_ms": 367879,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
+      "duration_ms": 362960,
+      "name": "Wucan",
+      "url": "https://open.spotify.com/track/4T74vnnnEEVZbgxgiIwSpV"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "In The Future",
-        "url": "https://open.spotify.com/album/6bFa0guTmFUo2DKGiVts6R"
+        "name": "Elephant Tree",
+        "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
       },
       "artists": [
         {
-          "name": "Black Mountain",
-          "url": "https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4"
+          "name": "Elephant Tree",
+          "url": "https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm"
         }
       ],
-      "duration_ms": 362960,
-      "name": "Wucan",
-      "url": "https://open.spotify.com/track/4T74vnnnEEVZbgxgiIwSpV"
+      "duration_ms": 367879,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Love Like Machines",
-        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Eyes",
-          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 339000,
       "name": "Rust",
       "url": "https://open.spotify.com/track/6lFJiZ4aiGxobbu3ronF9O"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Arch Stanton",
-        "url": "https://open.spotify.com/album/6lMTeRjXuXSVGePMeAz9Uv"
-      },
-      "artists": [
-        {
-          "name": "Karma To Burn",
-          "url": "https://open.spotify.com/artist/1tMtHqVsdmW0Yj9f4YnnHq"
-        }
-      ],
-      "duration_ms": 266124,
-      "name": "Fifty Seven",
-      "url": "https://open.spotify.com/track/6miHjSsOJ7fw2jft8Ldiir"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Trails & Passes",
         "url": "https://open.spotify.com/album/4nrv5D1bFcXVe8Bv7Ra0tr"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "No Comfort",
-        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
+        "name": "Arch Stanton",
+        "url": "https://open.spotify.com/album/6lMTeRjXuXSVGePMeAz9Uv"
       },
       "artists": [
         {
-          "name": "Monolord",
-          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+          "name": "Karma To Burn",
+          "url": "https://open.spotify.com/artist/1tMtHqVsdmW0Yj9f4YnnHq"
         }
       ],
-      "duration_ms": 314656,
-      "name": "The Last Leaf",
-      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
+      "duration_ms": 266124,
+      "name": "Fifty Seven",
+      "url": "https://open.spotify.com/track/6miHjSsOJ7fw2jft8Ldiir"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Back From The Abyss",
-        "url": "https://open.spotify.com/album/6m0jOMIvEAtNOau0nUnpI3"
+        "name": "No Comfort",
+        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
       },
       "artists": [
         {
-          "name": "Orange Goblin",
-          "url": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
         }
       ],
-      "duration_ms": 378920,
-      "name": "Heavy Lies The Crown",
-      "url": "https://open.spotify.com/track/5FAO8M86HZX9TFfBMR2isb"
+      "duration_ms": 314656,
+      "name": "The Last Leaf",
+      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
     },
     {
       "added_at": "2022-10-14 07:00:00",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
+        "name": "Back From The Abyss",
+        "url": "https://open.spotify.com/album/6m0jOMIvEAtNOau0nUnpI3"
+      },
+      "artists": [
+        {
+          "name": "Orange Goblin",
+          "url": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
+        }
+      ],
+      "duration_ms": 378920,
+      "name": "Heavy Lies The Crown",
+      "url": "https://open.spotify.com/track/5FAO8M86HZX9TFfBMR2isb"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
         "name": "Woodland Rites",
         "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-10-14 07:00:00",
       "album": {
-        "name": "Sagor",
-        "url": "https://open.spotify.com/album/01iXYjSbjTWy8vNjoN7wmp"
-      },
-      "artists": [
-        {
-          "name": "Skraeckoedlan",
-          "url": "https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb"
-        }
-      ],
-      "duration_ms": 393040,
-      "name": "El Monstro",
-      "url": "https://open.spotify.com/track/4NWhOcJUUYesYsHNHrGDrS"
-    },
-    {
-      "added_at": "2022-10-14 07:00:00",
-      "album": {
         "name": "Samsara",
         "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 331468,
       "name": "Mortal Bones",
       "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
+    },
+    {
+      "added_at": "2022-10-14 07:00:00",
+      "album": {
+        "name": "Sagor",
+        "url": "https://open.spotify.com/album/01iXYjSbjTWy8vNjoN7wmp"
+      },
+      "artists": [
+        {
+          "name": "Skraeckoedlan",
+          "url": "https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb"
+        }
+      ],
+      "duration_ms": 393040,
+      "name": "El Monstro",
+      "url": "https://open.spotify.com/track/4NWhOcJUUYesYsHNHrGDrS"
     }
   ],
   "unique_name": "Stoner Rock",

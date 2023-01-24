@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-385 songs - 1 day 3 hr 33 min
+386 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Levitate](https://open.spotify.com/track/1xp4lcRDfFI60eOl1t4C0r) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Restore](https://open.spotify.com/album/0YIlGbKwJN5E8xRrSKtmRz) | 3:55 | 2022-02-04 | 2022-05-25 |
 | [Lifted](https://open.spotify.com/track/7rRjeLkK6gXyjIG0oeVhzz) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:38 | 2022-09-23 |  |
 | [Light](https://open.spotify.com/track/20IXNFE419YM3vu7mEuM6M) | [CHVRN](https://open.spotify.com/artist/7rSykIe3Og1NMbIV6LOeVx) | [Light](https://open.spotify.com/album/45fOiBfPzjuymF8Pgu2s89) | 3:27 | 2021-10-15 | 2022-03-18 |
+| [Light Curve](https://open.spotify.com/track/2lQ2w0vLaWRbmN0exN2pNU) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb), [Forhill](https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze) | [Light Curve](https://open.spotify.com/album/5fcSV3jBQoPZ4GpPmjAlbJ) | 4:16 | 2023-01-13 |  |
 | [Light Curve](https://open.spotify.com/track/6lwUcTSQzaxO0MeIINxlo9) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb), [Forhill](https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze) | [Light Curve](https://open.spotify.com/album/0zplYzUEbaHyBQqD430Wkz) | 4:16 | 2022-04-01 | 2022-12-31 |
 | [Light Years](https://open.spotify.com/track/41QTliytEPoX2vkuMT0fKd) | [Droid Bishop](https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe) | [Light Years](https://open.spotify.com/album/0tWGMqpI0DBEWFwmqcQrjg) | 4:16 | 2022-07-22 |  |
 | [Light Years](https://open.spotify.com/track/5E2MwDLWs222toDOFmO09j) | [Droid Bishop](https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe) | [Retrowave](https://open.spotify.com/album/3zKj0Uhic2uNL84tPvmIXu) | 4:16 | 2021-10-15 | 2022-07-29 |
@@ -301,7 +302,7 @@
 | [Shame](https://open.spotify.com/track/4Wq5R3kHnopsgI8MR5B5j6) | [Older Future](https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa) | [Shame](https://open.spotify.com/album/34tSHiY21DAWRoPwkn1xNe) | 5:07 | 2021-10-15 | 2022-07-26 |
 | [Shape Of Your Heart](https://open.spotify.com/track/0imHx7hSqyhe4IuMR9QYc5) | [JODA](https://open.spotify.com/artist/5KS3RbR9m98HkNQzJy7dZJ), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Darren Tate](https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI) | [Shape Of Your Heart](https://open.spotify.com/album/0tCTCy2HRhWKY3uKC31A2u) | 4:55 | 2022-07-01 | 2022-08-27 |
 | [She Is Young, She Is Beautiful, She Is Next](https://open.spotify.com/track/2MBJZgztmtwcIsKXXwLxZI) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [Dangerous Days](https://open.spotify.com/album/0GzBfwarPFhAdfLNHfgaRT) | 5:04 | 2022-02-25 | 2022-04-02 |
-| [Shift](https://open.spotify.com/track/0aBLmDTJtueByhtIZGBQWs) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Shift](https://open.spotify.com/album/6GmUprnsv6t2ASxGndTjJ0) | 3:38 | 2022-10-14 |  |
+| [Shift](https://open.spotify.com/track/0aBLmDTJtueByhtIZGBQWs) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Shift](https://open.spotify.com/album/6GmUprnsv6t2ASxGndTjJ0) | 3:38 | 2022-10-14 | 2023-01-24 |
 | [Shimmer Isle](https://open.spotify.com/track/4MaEEuFFPYgOQQ2ibvcCsY) | [Shikimo](https://open.spotify.com/artist/322yxVmKeH1lKYRKEAXGhe), [Richard Alfaro](https://open.spotify.com/artist/4fQSVfiu7jVEHsMTdAPols) | [Shimmer Isle](https://open.spotify.com/album/3JHqSgeaDvreMmVXz5ajjU) | 4:00 | 2021-10-15 | 2022-11-06 |
 | [Shoulder of Orion](https://open.spotify.com/track/7AkQVlVzkZMCCHLtIzUT9d) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Visitors](https://open.spotify.com/album/0cG3hLxNXIBC4NX64AnoJK) | 5:02 | 2022-04-01 |  |
 | [Shout \- The Forgotten Remix](https://open.spotify.com/track/5aa8TV2mnOYHhHl0t9ymMu) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [The Forgotten](https://open.spotify.com/artist/7lXEr5KUTTaln112daJv5t) | [Shout \(The Forgotten Remix\)](https://open.spotify.com/album/5Uo5qoMvjUBeLQflHk2u7w) | 3:41 | 2022-04-22 |  |

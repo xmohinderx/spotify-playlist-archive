@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-222 songs - 11 hr 31 min
+223 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Grains of Sand](https://open.spotify.com/track/4jwpV7Rgg6a2lYDNGXnKnx) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Dune Sketchbook \(Music from the Soundtrack\)](https://open.spotify.com/album/78uSUydG2FbcVDDFWGMQjT) | 5:12 | 2021-12-20 |  |
 | [Grigor And Georgina Leave](https://open.spotify.com/track/7ooJkW9aPrXVv9LQj045mC) | [Nathan Barr](https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC) | [The Great: Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/5nEgfqLL3w8Xts6Hk9BI48) | 2:17 | 2022-01-28 |  |
 | [Gun Barrel \- From ''No Time To Die'' Soundtrack](https://open.spotify.com/track/2ycHXNy1oD6Syz0pGZzVq7) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Gun Barrel \(From ''No Time To Die'' Soundtrack\)](https://open.spotify.com/album/535DREkoMfHdM80zjUJnWL) | 0:55 | 2021-12-20 |  |
+| [Hafið Syngur](https://open.spotify.com/track/0YlVDvuitCxLRUlVVSOF5u) | [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH), [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [First Love 初恋 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4Bj0rkPhXtDYpcB7yaqLzI) | 3:40 | 2023-01-23 |  |
 | [Hansu Sees Sunja](https://open.spotify.com/track/36U06R699jzn3RBSwVVwvb) | [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc) | [Pachinko: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/0IEUf0XBgZGcWJwkwn2i6d) | 1:45 | 2022-04-01 |  |
 | [Hawkeye's Theme](https://open.spotify.com/track/31YHdtc3RN5X8JYIaNm1Lp) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Hawkeye: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/6kEKPX5fzADIWcFc33qawM) | 1:48 | 2021-12-20 |  |
 | [I Was in the Fire](https://open.spotify.com/track/5RzuscEAO9AjlyNC9GXmDp) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Stowaway \(Music from the Netflix Film\)](https://open.spotify.com/album/3DCXB1BcqnaRnvJLEiAlBs) | 2:35 | 2021-12-20 |  |

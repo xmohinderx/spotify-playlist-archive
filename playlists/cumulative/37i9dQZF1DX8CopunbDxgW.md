@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Yaeji.
 
-680 songs - 1 day 20 hr 36 min
+681 songs - 1 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Fire](https://open.spotify.com/track/1XTzKHCFNpATrGfOrWDDDn) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [The Arrival](https://open.spotify.com/album/1OTee7Y96zHrodzEmflRVe) | 2:28 | 2021-08-06 | 2021-12-28 |
 | [FIRE](https://open.spotify.com/track/1Wiz0mYngPvhWwbsONffc0) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [FIRE](https://open.spotify.com/album/6xLYQHVJMo3MGyP9ebU115) | 2:34 | 2022-04-15 | 2022-04-17 |
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-09-17 | 2022-10-06 |
-| [Firepit](https://open.spotify.com/track/598YYFar90QPnyGE3jmgGo) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Firepit](https://open.spotify.com/album/7tc649AUN4dKzigGFICXR9) | 4:03 | 2022-03-18 |  |
+| [Firepit](https://open.spotify.com/track/598YYFar90QPnyGE3jmgGo) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Firepit](https://open.spotify.com/album/7tc649AUN4dKzigGFICXR9) | 4:03 | 2022-03-18 | 2023-01-24 |
 | [Fittipaldi](https://open.spotify.com/track/2SYqvFbaan8hg0M7wcRkRq) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Fittipaldi](https://open.spotify.com/album/109jPSDNZdNrE9GqnQketK) | 4:15 | 2022-03-25 | 2022-04-11 |
 | [Flipside](https://open.spotify.com/track/4DYIIRoupTZOVlup3L4VDc) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Flipside](https://open.spotify.com/album/3BcVsFBvtL4d7isNtOWHYU) | 3:18 | 2021-09-17 | 2022-02-12 |
 | [Flush with Love](https://open.spotify.com/track/5pbpePKq40EPcbfQSlFHD3) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Mirror Mountain](https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K) | 4:55 | 2022-05-06 | 2022-07-23 |
@@ -338,6 +338,7 @@
 | [Licence to Dream](https://open.spotify.com/track/3zjAlrb0f1zHibNueUU0Vr) | [D.K.](https://open.spotify.com/artist/6JGGS3JOcMIxa0QF6pFnzN) | [Love on Delivery](https://open.spotify.com/album/2RP10hzbFeDqFjxEmCUvtW) | 4:43 | 2022-01-28 | 2022-02-12 |
 | [Life In A Mind](https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:03 | 2021-10-22 | 2022-04-20 |
 | [Life's So Good \(feat\. Cherry Surf\)](https://open.spotify.com/track/6wpYutp0e5dtaV2kCDv12O) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb), [Cherry Surf](https://open.spotify.com/artist/35j9UeFevD5ajbybRznTPx) | [Life's So Good \(feat\. Cherry Surf\)](https://open.spotify.com/album/6jJDDnkqqtxbWIqap2SNxL) | 3:36 | 2021-09-10 | 2022-04-20 |
+| [Lifeline](https://open.spotify.com/track/78dm8zrEiJ1d0G6IBuiN7m) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Lifeline](https://open.spotify.com/album/0iAfdMQLxhqNyO2bZ7aTLL) | 3:22 | 2023-01-20 |  |
 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3zQpGaH50HeMjxurMZVF6q) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Lifetime](https://open.spotify.com/album/4jFxIzyBN7JD5rwLT0chjg) | 3:06 | 2021-07-30 | 2021-12-22 |
 | [Lightning](https://open.spotify.com/track/4aguR8nLIlmF6WCOlCArhT) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:57 | 2022-09-17 | 2022-10-06 |
 | [Lights Out](https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lights Out](https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE) | 4:48 | 2022-01-21 | 2022-02-07 |

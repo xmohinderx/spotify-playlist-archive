@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: Pardyalone
 
-762 songs - 1 day 10 hr 39 min
+763 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [I'm Dead](https://open.spotify.com/track/52LqX8qgdJ5hKPvFOWAADe) | [kyeaintdead](https://open.spotify.com/artist/7Guax0U5Sla4txS1loKYUB) | [I'm Dead](https://open.spotify.com/album/0p51edjHUjInQAJPiyIltP) | 2:41 | 2022-03-22 | 2022-04-20 |
 | [I'm falling apart fast feels like I'm flying](https://open.spotify.com/track/16ZHjPPoTEJ5TXPydW3zLR) | [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [I'm falling apart fast feels like I'm flying](https://open.spotify.com/album/5JNoIeBuh2Ikeoj7z5Cx9h) | 2:48 | 2021-01-15 | 2021-03-14 |
 | [i'm just your problem](https://open.spotify.com/track/4q94AsjlAnkieoAGR14XWQ) | [MEANFACE EARL](https://open.spotify.com/artist/6gcq7vcaMDasUfiPojyhSA), [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [i’m not suicidal, just sad](https://open.spotify.com/album/3WLTzOBwa0FFK2D0z2bkPR) | 2:10 | 2021-02-28 | 2021-03-01 |
-| [i'm sorry](https://open.spotify.com/track/5zbaVaJgphpr6ZiIzoYilC) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [i'm sorry](https://open.spotify.com/album/63y7aQhALoZ1L9Z3EQzLvI) | 3:12 | 2022-12-09 |  |
+| [i'm sorry](https://open.spotify.com/track/5zbaVaJgphpr6ZiIzoYilC) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [i'm sorry](https://open.spotify.com/album/63y7aQhALoZ1L9Z3EQzLvI) | 3:12 | 2022-12-09 | 2023-01-24 |
 | [I\. Married](https://open.spotify.com/track/3ZJT9YonkUgHO0wUFKgTKu) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [I\. Married](https://open.spotify.com/album/0o8JzGLMnjrnO0w34Kq5bu) | 3:25 | 2021-12-17 | 2022-04-18 |
 | [Ice Water \(feat\. Trippie Redd\)](https://open.spotify.com/track/2RTkEYOLYDQtjWFGNZtvpT) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Unbothered \(Deluxe\)](https://open.spotify.com/album/66GLiXR40lPbFF3vPc8YXX) | 3:00 | 2021-05-15 | 2022-01-06 |
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-03-31 | 2022-06-25 |
@@ -582,6 +582,7 @@
 | [Seasons](https://open.spotify.com/track/4C4HQvKybvDoqg57TH4Ewk) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Seasons](https://open.spotify.com/album/1aHG0SOirWKX3R2mUNXfrt) | 2:51 | 2020-12-13\* | 2021-05-08 |
 | [Secrets](https://open.spotify.com/track/0N3vRbzHnTJrOh7K6zz79a) | [Two:22](https://open.spotify.com/artist/7pdO2N04Ggcu8tC3BqWUDc), [yung van](https://open.spotify.com/artist/3gat7IO3Dlae8AFZZrQX5b) | [Secrets](https://open.spotify.com/album/2Kg2Xdc5ifPJUBi44h8w6Q) | 3:45 | 2021-10-08 | 2022-07-28 |
 | [See You in Hell](https://open.spotify.com/track/1IJ89Z6qV7orhSc3YecV6p) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Marauding in Paradise](https://open.spotify.com/album/6pdYEjMFLIEcgmNiEp8h0f) | 5:51 | 2021-10-23 | 2021-10-30 |
+| [Seen It All Before](https://open.spotify.com/track/7wQbjBKlkfy4Cf1kq2fHVn) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Delmar](https://open.spotify.com/artist/1S5SNkPc86rs4WDDY7YKTA) | [Seen It All Before](https://open.spotify.com/album/6b9dWBhr65JAlegeoRgoK9) | 3:07 | 2023-01-20 |  |
 | [Selfish](https://open.spotify.com/track/2eKWkJFSs7JDrXY9U6XbLB) | [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [Selfish](https://open.spotify.com/album/1ooguDpJj3jUaqnr9yExtZ) | 2:19 | 2021-06-05 | 2022-05-07 |
 | [Shattered Dreams](https://open.spotify.com/track/2LQb3iYBzoxbxct2IexjBc) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Some Rap Songs](https://open.spotify.com/album/66at85wgO2pu5CccvqUF6i) | 2:21 | 2021-10-23 | 2021-10-30 |
 | [She](https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:13 | 2021-10-23 | 2021-10-30 |

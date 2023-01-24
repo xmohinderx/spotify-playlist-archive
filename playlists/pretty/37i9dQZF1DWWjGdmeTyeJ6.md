@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels, Cover: CIL\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,956 likes - 58 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,982 likes - 58 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 51 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 |
 | 52 | [Love!](https://open.spotify.com/track/21nLUVmQSUVd6qsFZRB416) | [Hallie](https://open.spotify.com/artist/0I0VahDFplPkGInkRvoXPW) | [Love!](https://open.spotify.com/album/0fTcODKOu5ujhJDJ2XltDN) | 3:19 |
 | 53 | [When the Wind is Blowing](https://open.spotify.com/track/42RR7rRGGEMfpP1qGmPwFL) | [Nighttime](https://open.spotify.com/artist/6s5kIMaWT9z9oj1Ku4IpV2) | [When the Wind is Blowing](https://open.spotify.com/album/2pcsoSmxF4wWESQDRe3s8T) | 3:16 |
-| 54 | [Living in a Story](https://open.spotify.com/track/2GcSGT0N04Ny468cIH3onE) | [JUKO](https://open.spotify.com/artist/3lVblCbubTDS9LpQnqBWuR), [ROBY](https://open.spotify.com/artist/3HQu8KsELYVztBTEZU7k9y) | [Living in a Story](https://open.spotify.com/album/7zbtD8YOUoGrw9yRHrFenl) | 3:08 |
+| 54 | [Living in a Story](https://open.spotify.com/track/12GBUVtSJUt0pJXE8GB0fi) | [JUKO](https://open.spotify.com/artist/3lVblCbubTDS9LpQnqBWuR), [ROBY](https://open.spotify.com/artist/3HQu8KsELYVztBTEZU7k9y) | [Living in a Story](https://open.spotify.com/album/2R7E9yQt1vihRU620Oi05V) | 3:08 |
 | 55 | [Models](https://open.spotify.com/track/2JsEgOHKxDPNyybV0roWYn) | [4L JAVI](https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a) | [Models](https://open.spotify.com/album/4nxEkS0v7QqboJ3to45x0B) | 1:44 |
 | 56 | [Summer Ghost](https://open.spotify.com/track/5JgMjiJyXPFYL8EWWSGYxq) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Summer Ghost](https://open.spotify.com/album/0F1GxhsuQCQUjNNGu12hSe) | 5:10 |
 | 57 | [Motion Man](https://open.spotify.com/track/3k0FSuoQjeivsadIwthYDF) | [Lil Stamp](https://open.spotify.com/artist/0thLKTCGsAi1zuwNddkyDB) | [Motion Man](https://open.spotify.com/album/6JVl7vf5aBSQIiFr8mDYMd) | 1:57 |
 | 58 | [Don't Matter](https://open.spotify.com/track/6HjgcxvCqzOp4K3ObnwBgP) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [Don't Matter](https://open.spotify.com/album/2wwnqGRytuff6IRQcpFuEQ) | 2:06 |
 
-Snapshot ID: `MTY3NDE0NDAxOSwwMDAwMDAwMGU5NjNiOWE0NDA2MjgwYmFiNDMxOTJiMzE5M2ZhZTc5`
+Snapshot ID: `MTY3NDE0NDAxOSwwMDAwMDAwMDhkM2E4ZTUwNzhkZWNlY2FmZmU5Y2NmNGZhNzA1ODkz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,191 likes - 109 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,580 likes - 109 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 40 | [Anyone](https://open.spotify.com/track/0O8dFusnakV9rVLA2S16De) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Anyone](https://open.spotify.com/album/5HaWtTikAqMSJGgaVljsKl) | 3:11 |
 | 41 | [Stay with Me \- Piano Version](https://open.spotify.com/track/2pR4qxDdRpHfQduAg1NDS1) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [Stay with Me \(Piano Version\)](https://open.spotify.com/album/2MnSnUp1uwPOJTarD1hZoW) | 2:51 |
 | 42 | [Total Eclipse of the Heart \(feat\. Simply Three\)](https://open.spotify.com/track/19L0jgD9mr8QOy9kxr7LZS) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Total Eclipse of the Heart \(feat\. Simply Three\)](https://open.spotify.com/album/0sZwPaM40mIDElKRmnYvAb) | 4:33 |
-| 43 | [Thinking Out Loud](https://open.spotify.com/track/3QZGwiUYq1X8hJKwY5kxMP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Thinking Out Loud](https://open.spotify.com/album/21XWenQjwMhNKalE2gLxZE) | 3:52 |
+| 43 | [Thinking Out Loud](https://open.spotify.com/track/55Kunp4OMnygqTnW7jgua4) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [10](https://open.spotify.com/album/1Zky97zfugw0DZQzKPkWFB) | 3:52 |
 | 44 | [Firework](https://open.spotify.com/track/6Pk7XpaiMsXAM6dXN3kQEo) | [Jeremy Green](https://open.spotify.com/artist/32jiRxDN9Nb9QbXh88uo42) | [Firework](https://open.spotify.com/album/7wBmPhdZlYiDa4h6rGDSbG) | 3:54 |
 | 45 | [Wellerman \(arr\. piano\)](https://open.spotify.com/track/0zOI6bMCkjd10vCrDy3voc) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Wellerman \(arr\. piano\)](https://open.spotify.com/album/1f9nDMa1wlNsPxDtygkg4B) | 2:01 |
 | 46 | [Song 2 \(Woo Hoo\)](https://open.spotify.com/track/1AftiFHwqBqCwlVinYwPmK) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Song 2 \(Woo Hoo\)](https://open.spotify.com/album/6Hb2alu2sB62badqv0pC1F) | 1:55 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 108 | [Such Great Heights](https://open.spotify.com/track/7A4dZr5uXjb8qggBoAJttJ) | [The Section Quartet](https://open.spotify.com/artist/4XBvsNUbZyZT9eynxBQutr) | [Fuzzbox](https://open.spotify.com/album/6obah2tloYKurr25coxtTm) | 4:38 |
 | 109 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 |
 
-Snapshot ID: `MTY3MzI2MTg3OCwwMDAwMDAwMGRkYjNkYmJlMWVhM2MyZjczYmI1MDRiNzM1NjM0Yzcx`
+Snapshot ID: `MTY3MzI2MTg3OCwwMDAwMDAwMDZlYzUzNjA3YjBiOTk0Njk0OWIzNDhmYTdhYmJiNDY4`

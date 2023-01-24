@@ -1,13 +1,65 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127163,
+  "num_followers": 127162,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzkxNixkMjc3YTNhN2E3MDE3N2QwNjllYjU2Y2FmMDllMmIzNjQ1NTgwOTA5",
+  "snapshot_id": "MzkyNixkNTg3YWZjOWMwNDA2NTc4NDliMzE2NmZiYjM5ZDFjN2NhMjI1NWVh",
   "tracks": [
+    {
+      "added_at": "2023-01-23 08:32:53",
+      "album": {
+        "name": "Get Through",
+        "url": "https://open.spotify.com/album/5iDeNESrto46Zim2KP4bfX"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 204482,
+      "name": "Get Through",
+      "url": "https://open.spotify.com/track/1aByvbcFFDPTCEA4mTVJhW"
+    },
+    {
+      "added_at": "2023-01-23 08:32:18",
+      "album": {
+        "name": "Marea Turquesa",
+        "url": "https://open.spotify.com/album/2z7jQZ0dnfYMErTg4CVnp4"
+      },
+      "artists": [
+        {
+          "name": "Flexible Fire",
+          "url": "https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Marea Turquesa",
+      "url": "https://open.spotify.com/track/4S0GJba78XTTYMDChLvTjc"
+    },
+    {
+      "added_at": "2023-01-23 08:30:10",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/1myyev9Wiv4I4noEcrkycM"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        },
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/0ERuTf3ipLWdRfemvFmIrZ"
+    },
     {
       "added_at": "2023-01-18 21:30:16",
       "album": {
@@ -1079,62 +1131,6 @@
       "duration_ms": 163304,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/2YQq8vFPzvA7seaAKNJkdt"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Madara",
-        "url": "https://open.spotify.com/album/17JIU9E1un5GmXxEGBjjEl"
-      },
-      "artists": [
-        {
-          "name": "IVORY",
-          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
-        },
-        {
-          "name": "Dr. Ush\u016bu",
-          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Madara",
-      "url": "https://open.spotify.com/track/5j5AySWYSMSsBD4nmz6z1D"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/2AOQq9d3D4CL1rngPMYxBy"
-      },
-      "artists": [
-        {
-          "name": "WILL K",
-          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
-        },
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        }
-      ],
-      "duration_ms": 183927,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6nRh4WwS6Xf8j87U8YFWnh"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Sky",
-        "url": "https://open.spotify.com/album/4SHvglDiEuw5FKPshkQ9Hi"
-      },
-      "artists": [
-        {
-          "name": "Sol Rising",
-          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
-        }
-      ],
-      "duration_ms": 216046,
-      "name": "Sky",
-      "url": "https://open.spotify.com/track/3W6vWG13TkIE12QTdCSfUT"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

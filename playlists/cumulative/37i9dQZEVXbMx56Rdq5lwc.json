@@ -804,7 +804,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-22",
+      "date_removed": null,
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -5418,7 +5418,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 221062,
       "name": "GASOLINE",
       "url": "https://open.spotify.com/track/5jWcNM7uHhsAj9yuypurdP"
@@ -9006,7 +9006,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -14952,7 +14952,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-22",
+      "date_removed": null,
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
@@ -15587,6 +15587,24 @@
     },
     {
       "album": {
+        "name": "Prime Time",
+        "url": "https://open.spotify.com/album/3TuXCb29LrLVxiAuz5iqLH"
+      },
+      "artists": [
+        {
+          "name": "Ruta MUR",
+          "url": "https://open.spotify.com/artist/2QfgVqH2rFOPF8dLsyXRWW"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202537,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/1lTojUQcDfI4nBkc80Xc8q"
+    },
+    {
+      "album": {
         "name": "Comfortable Essences",
         "url": "https://open.spotify.com/album/40fjHpk14OzL34ubENjGNp"
       },
@@ -15906,7 +15924,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 194754,
       "name": "Stadionai",
       "url": "https://open.spotify.com/track/2JtsIAfAu4PFyjlk17Hg3M"
@@ -15968,7 +15986,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 111626,
       "name": "Stargirl Interlude",
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
@@ -19584,6 +19602,24 @@
       "duration_ms": 219984,
       "name": "\u0160ampanas (bul bul bul)",
       "url": "https://open.spotify.com/track/6fd5kDvxREHQVUOtreViXO"
+    },
+    {
+      "album": {
+        "name": "\u0160auksmas",
+        "url": "https://open.spotify.com/album/4wzuYeXrI7Z2t3CThd0eiU"
+      },
+      "artists": [
+        {
+          "name": "Gabrielius Vagelis",
+          "url": "https://open.spotify.com/artist/0dJJpF4ULA7xCU5xwHbCB3"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180080,
+      "name": "\u0160auksmas",
+      "url": "https://open.spotify.com/track/6nuXB67lyPip9QahGEWPV5"
     },
     {
       "album": {

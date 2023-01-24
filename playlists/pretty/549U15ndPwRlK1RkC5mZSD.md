@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/549U15ndPwRlK1RkC5mZSD.md) - [plain]
 
 > bossa vibes and a romantic daydream
 
-[Talia](https://open.spotify.com/user/karinski) - 37 likes - 51 songs - 2 hr 34 min
+[Talia](https://open.spotify.com/user/karinski) - 40 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

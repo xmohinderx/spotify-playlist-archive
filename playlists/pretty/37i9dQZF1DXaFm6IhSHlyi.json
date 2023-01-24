@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 135876,
+  "num_followers": 135930,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjAxODgwMCwwMDAwMDAwMGJkZjA3NjhlMjViOTU3YjE5M2I3OTBjOTk5MDVlNWE4",
+  "snapshot_id": "MTY2NjAxODgwMCwwMDAwMDAwMDRhYzAyZTJhZGNhNzYwYjU0NjNiY2Q0NDMzZTkxOGZm",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
-      },
-      "artists": [
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Moral of the Story",
         "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 201083,
       "name": "Moral of the Story",
       "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u56a3\u5f20",
-        "url": "https://open.spotify.com/album/5mW7p3W0I2ZG5pEPdUsfMM"
-      },
-      "artists": [
-        {
-          "name": "En",
-          "url": "https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET"
-        }
-      ],
-      "duration_ms": 253994,
-      "name": "\u56a3\u5f20",
-      "url": "https://open.spotify.com/track/78mWZg7F2XRlOr50Z2rKyv"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq"
       },
@@ -707,22 +691,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "My Only One (No Hay Nadie M\u00e1s)",
-        "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
+        "name": "\u56a3\u5f20",
+        "url": "https://open.spotify.com/album/5mW7p3W0I2ZG5pEPdUsfMM"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Isabela Merced",
-          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
+          "name": "En",
+          "url": "https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET"
         }
       ],
-      "duration_ms": 198280,
-      "name": "My Only One (No Hay Nadie M\u00e1s)",
-      "url": "https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo"
+      "duration_ms": 253994,
+      "name": "\u56a3\u5f20",
+      "url": "https://open.spotify.com/track/78mWZg7F2XRlOr50Z2rKyv"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -751,6 +731,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "My Only One (No Hay Nadie M\u00e1s)",
+        "url": "https://open.spotify.com/album/26VuZb8071jOTFmIayEgEe"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Isabela Merced",
+          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "My Only One (No Hay Nadie M\u00e1s)",
+      "url": "https://open.spotify.com/track/1gJA27xiMdENwoAVN7kMlo"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Mi Persona Favorita",
         "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
       },
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "Here I Am Again",
+      "url": "https://open.spotify.com/track/1uZ5Ulb2qfle3HbqB12vNQ"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
         "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 220693,
       "name": "\u8aaa\u597d\u4e0d\u54ed",
       "url": "https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "Here I Am Again",
-      "url": "https://open.spotify.com/track/1uZ5Ulb2qfle3HbqB12vNQ"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ocean (Remix)",
-        "url": "https://open.spotify.com/album/1KWBHlgE8m1dEI6XW3PV50"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Ocean - Remix",
-      "url": "https://open.spotify.com/track/3Z5fGV8tIdwx3W0CgR9JTx"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 132000,
       "name": "tere bina - Acoustic",
       "url": "https://open.spotify.com/track/0wr1v0WSbEnmOm0B22yYHz"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Ocean (Remix)",
+        "url": "https://open.spotify.com/album/1KWBHlgE8m1dEI6XW3PV50"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Ocean - Remix",
+      "url": "https://open.spotify.com/track/3Z5fGV8tIdwx3W0CgR9JTx"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/11mioDjgfPQDIAXUV47ZJl"
-      },
-      "artists": [
-        {
-          "name": "April 2nd",
-          "url": "https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "The Hill of Yearning",
-      "url": "https://open.spotify.com/track/7wx0FTZNpicjRvEQwYzxZm"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Malay Mo, Tayo",
         "url": "https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 274291,
       "name": "Malay Mo",
       "url": "https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/11mioDjgfPQDIAXUV47ZJl"
+      },
+      "artists": [
+        {
+          "name": "April 2nd",
+          "url": "https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "The Hill of Yearning",
+      "url": "https://open.spotify.com/track/7wx0FTZNpicjRvEQwYzxZm"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "From Midnight To Sunrise",
-        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 264666,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Sajni",
         "url": "https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 298000,
       "name": "Sajni",
       "url": "https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 264666,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sorry (Live)",
-        "url": "https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 204052,
-      "name": "Sorry - Live",
-      "url": "https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Ll Abad",
         "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 212476,
       "name": "Ll Abad",
       "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sorry (Live)",
+        "url": "https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 204052,
+      "name": "Sorry - Live",
+      "url": "https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2183,6 +2183,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "How Is This Love ?",
+        "url": "https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Dylan Longworth",
+          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
+        }
+      ],
+      "duration_ms": 194951,
+      "name": "How Is This Love ?",
+      "url": "https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Forever & Always",
         "url": "https://open.spotify.com/album/0oSL02PWnFYXRDY9ShDCH1"
       },
@@ -2243,26 +2263,6 @@
       "duration_ms": 193047,
       "name": "Don't forget me (Prod. ROCOBERRY)",
       "url": "https://open.spotify.com/track/3Plg6ZQZeVSBUSp11zBXL5"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "How Is This Love ?",
-        "url": "https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l"
-      },
-      "artists": [
-        {
-          "name": "Djouher",
-          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
-        },
-        {
-          "name": "Dylan Longworth",
-          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
-        }
-      ],
-      "duration_ms": 194951,
-      "name": "How Is This Love ?",
-      "url": "https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2503,22 +2503,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
-      },
-      "artists": [
-        {
-          "name": "Calby",
-          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
-        }
-      ],
-      "duration_ms": 187535,
-      "name": "The Everyday Bit",
-      "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kyle",
         "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 255000,
       "name": "Something",
       "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
+      },
+      "artists": [
+        {
+          "name": "Calby",
+          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
+        }
+      ],
+      "duration_ms": 187535,
+      "name": "The Everyday Bit",
+      "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
     },
     {
       "added_at": "2022-10-17 15:00:00",

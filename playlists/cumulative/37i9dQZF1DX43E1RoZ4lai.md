@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-389 songs - 1 day 10 hr 39 min
+390 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [All Things Are](https://open.spotify.com/track/5QZQp59h4rFScQWWfKeLPG) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [All Things Are](https://open.spotify.com/album/1W923x7J8MGjYj0xTdoHuJ) | 9:35 | 2022-02-10 |  |
 | [Along Too Long](https://open.spotify.com/track/26ekvT7x2kUaj94gXv5DB1) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Claudio Chiara](https://open.spotify.com/artist/4iPKMm0rxAbqEUrbYgbVgw), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [Drumless](https://open.spotify.com/album/53WDDbvjTrIFdqItSPII5z) | 3:33 | 2022-04-01 |  |
 | [Ana Maria](https://open.spotify.com/track/0J77Bn0nBHgttG27Hab2L7) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [Ana Maria](https://open.spotify.com/album/0keaEB8bKZgfg61N8qsDD0) | 5:46 | 2022-06-24 |  |
-| [Aquello](https://open.spotify.com/track/4KAvEGHDIo0bWO6fk9lKQr) | [Hugo Fattoruso](https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9) | [Aquello](https://open.spotify.com/album/1UKFaf4A41MDSjTLSugTWH) | 3:03 | 2022-09-23 |  |
+| [Aquello](https://open.spotify.com/track/4KAvEGHDIo0bWO6fk9lKQr) | [Hugo Fattoruso](https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9) | [Aquello](https://open.spotify.com/album/1UKFaf4A41MDSjTLSugTWH) | 3:03 | 2022-09-23 | 2023-01-24 |
 | [At The 5 Spot](https://open.spotify.com/track/2FZem5RglrV8dnPkhFF6FQ) | [Peter Calandra](https://open.spotify.com/artist/3PtLe7U5nAWhiPJ8jKp6VB) | [At The 5 Spot](https://open.spotify.com/album/5anvlQTK44VC5IuQPb7o9j) | 5:23 | 2022-02-23 |  |
 | [Auf den glückseligen Inseln](https://open.spotify.com/track/6cOK9fHTBsoaL1P6JicMqM) | [Kilian Kemmer Trio](https://open.spotify.com/artist/6zmCAuOs8ughM18ryScvdm) | [Und Zarathustra Tanzte](https://open.spotify.com/album/0ZlritXzGMoiRAlFE9hU7i) | 3:58 | 2022-02-10 | 2022-11-17 |
 | [Avail](https://open.spotify.com/track/3EWX16gyPWqh2HB1MmND36) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [Activate Infinity](https://open.spotify.com/album/4di70TuVf9J97NAGO4lKMc) | 3:15 | 2022-02-10 | 2022-09-03 |
@@ -339,6 +339,7 @@
 | [The Sequel](https://open.spotify.com/track/0FVm8vElt7BC7ud7M5nM8Y) | [Bram de Looze](https://open.spotify.com/artist/32c6i6INQivcOe8y7zyKmG) | [Vice Versa](https://open.spotify.com/album/3pKE0gqAfHN0oDaGKWe6mM) | 10:23 | 2022-02-10 | 2022-07-27 |
 | [The Stones of Brodgar](https://open.spotify.com/track/2eeADyYvXxQ7slZmncfwJ6) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Cairn](https://open.spotify.com/album/0HXPCr4FfrgbkvdDZSopCe) | 5:30 | 2022-02-10 |  |
 | [The Surrey with the Fringe on Top](https://open.spotify.com/track/31kqJ1U1ndR3YXtiRstUDe) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [The Surrey with the Fringe on Top](https://open.spotify.com/album/5g81gECYSs3sISDvag3OBj) | 7:17 | 2022-02-10 | 2023-01-12 |
+| [The Surrey with the Fringe on Top](https://open.spotify.com/track/7uchWB96YFsa2UEGkqb0Vr) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 7:17 | 2022-02-10 |  |
 | [The Unfurrowed Field](https://open.spotify.com/track/7BadBCxPenYfw8nNkuFBq5) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [The Unfurrowed Field](https://open.spotify.com/album/0mXbXPjl67ZtWG5nlLcw8N) | 8:36 | 2022-03-25 |  |
 | [The Unidentifiable](https://open.spotify.com/track/6dO9SCydkLhqwSz2ayKiEH) | [Matthew Shipp Trio](https://open.spotify.com/artist/1TgqnAbUXzmLHEW0YFbROK) | [The Unidentifiable](https://open.spotify.com/album/1AM7DvvpZtwnfl7qZ1gwM0) | 7:10 | 2022-02-10 | 2022-07-10 |
 | [The Wind In The Night](https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ) | 5:02 | 2022-02-10 | 2022-09-03 |

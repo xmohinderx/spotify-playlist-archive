@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-148 songs - 8 hr 49 min
+149 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Take Me to Church](https://open.spotify.com/track/5xEBEZi40MdHruE01O3ws6) | [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Volume 2](https://open.spotify.com/album/1OruJmAvXK5Pa3BawvswSJ) | 4:10 | 2021-11-19 | 2022-07-29 |
 | [Telephone](https://open.spotify.com/track/7dGI1Zix46a22EPZggjoic) | [Aston](https://open.spotify.com/artist/7sl2Pn0eUTlijsuzJEt2HV) | [Telephone](https://open.spotify.com/album/3tO7eCXXvz3gN9Mkilrf17) | 3:45 | 2021-11-19 |  |
 | [thank u, next](https://open.spotify.com/track/66iP3U2QOKgevrnrbWk53S) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:26 | 2021-11-19 |  |
-| [Thinking Out Loud](https://open.spotify.com/track/3QZGwiUYq1X8hJKwY5kxMP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Thinking Out Loud](https://open.spotify.com/album/21XWenQjwMhNKalE2gLxZE) | 3:52 | 2021-11-19 |  |
+| [Thinking Out Loud](https://open.spotify.com/track/3QZGwiUYq1X8hJKwY5kxMP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Thinking Out Loud](https://open.spotify.com/album/21XWenQjwMhNKalE2gLxZE) | 3:52 | 2021-11-19 | 2023-01-24 |
+| [Thinking Out Loud](https://open.spotify.com/track/55Kunp4OMnygqTnW7jgua4) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [10](https://open.spotify.com/album/1Zky97zfugw0DZQzKPkWFB) | 3:52 | 2023-01-09 |  |
 | [Titanium](https://open.spotify.com/track/0upg8RVqoy93lgnKweJIgL) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [Electric Air](https://open.spotify.com/album/1NclbYhtOpfC89I4tGhme2) | 3:46 | 2021-11-19 | 2022-07-29 |
 | [Titanium \- David Guetta](https://open.spotify.com/track/4X54FzF8cMJVMdMTpg79zE) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [Electric Air](https://open.spotify.com/album/6G1BNEaFS6wJ1dPB5qMY4h) | 3:46 | 2022-07-08 |  |
 | [Total Eclipse of the Heart \(feat\. Simply Three\)](https://open.spotify.com/track/19L0jgD9mr8QOy9kxr7LZS) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Total Eclipse of the Heart \(feat\. Simply Three\)](https://open.spotify.com/album/0sZwPaM40mIDElKRmnYvAb) | 4:33 | 2021-11-19 |  |

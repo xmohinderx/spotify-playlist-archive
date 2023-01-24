@@ -1,12 +1,12 @@
 {
   "description": "Chill under the stars with this instrumental playlist. Cover: Sami Yusuf.",
-  "num_followers": 63315,
+  "num_followers": 63353,
   "original_name": "Stargazer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDgzMTU4NCwwMDAwMDAwMDg1MzBjMmFkYWIxZDQxZjliNzBlM2I1OGRiMDY0Njk4",
+  "snapshot_id": "MTY3MDgzMTU4NCwwMDAwMDAwMDk3OTZjNWZmNjIzMjlkOWEyNjdiZDU0MmMzODRjZjRl",
   "tracks": [
     {
       "added_at": "2021-02-15 11:04:36",
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd"
     },
     {
-      "added_at": "2023-01-23 00:57:27",
+      "added_at": "2023-01-24 01:14:03",
       "album": {
         "name": "\u0646\u0645\u0631\u0629 \u0644\u0627\u0648\u0646\u062c",
         "url": "https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2"
@@ -149,38 +149,6 @@
       "url": "https://open.spotify.com/track/1LTQewXIUPvVXGNTekUvcT"
     },
     {
-      "added_at": "2023-01-23 00:57:27",
-      "album": {
-        "name": "\u0646\u0645\u0631\u0629 \u0644\u0627\u0648\u0646\u062c",
-        "url": "https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2"
-      },
-      "artists": [
-        {
-          "name": "Hamza Namira",
-          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
-        }
-      ],
-      "duration_ms": 249655,
-      "name": "\u0641\u0627\u0636\u064a \u0634\u0648\u064a\u0629",
-      "url": "https://open.spotify.com/track/1fHh30pe4YAacqOI3vKQWW"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Sounds of Mirrors",
-        "url": "https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg"
-      },
-      "artists": [
-        {
-          "name": "Dhafer Youssef",
-          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
-        }
-      ],
-      "duration_ms": 276679,
-      "name": "Dance Layan Dance",
-      "url": "https://open.spotify.com/track/2YMpjElPsH8VfYhTLtCauC"
-    },
-    {
       "added_at": "2021-02-15 11:04:36",
       "album": {
         "name": "Silt",
@@ -195,38 +163,6 @@
       "duration_ms": 155371,
       "name": "Oud Solo",
       "url": "https://open.spotify.com/track/1VznWczEVtpXeVHXSjaWO2"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Healing Keys of Light",
-        "url": "https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Healing Keys of Light",
-      "url": "https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Breeze (Live at the Heydar Aliyev Center)",
-        "url": "https://open.spotify.com/album/52OnlMGe9oqZ8i7RvuwzRr"
-      },
-      "artists": [
-        {
-          "name": "Sami Yusuf",
-          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
-        }
-      ],
-      "duration_ms": 295189,
-      "name": "Breeze - Live at the Heydar Aliyev Center",
-      "url": "https://open.spotify.com/track/6nwo9EXJ2mz67Ktl5tQTZh"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -259,6 +195,70 @@
       "duration_ms": 359213,
       "name": "Love",
       "url": "https://open.spotify.com/track/2haduuaSMHdj6UE39Fbwb6"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Healing Keys of Light",
+        "url": "https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Healing Keys of Light",
+      "url": "https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Sounds of Mirrors",
+        "url": "https://open.spotify.com/album/5yDZtkCkxXQafMjQgNWFQg"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        }
+      ],
+      "duration_ms": 276679,
+      "name": "Dance Layan Dance",
+      "url": "https://open.spotify.com/track/2YMpjElPsH8VfYhTLtCauC"
+    },
+    {
+      "added_at": "2023-01-24 01:14:03",
+      "album": {
+        "name": "\u0646\u0645\u0631\u0629 \u0644\u0627\u0648\u0646\u062c",
+        "url": "https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2"
+      },
+      "artists": [
+        {
+          "name": "Hamza Namira",
+          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
+        }
+      ],
+      "duration_ms": 249655,
+      "name": "\u0641\u0627\u0636\u064a \u0634\u0648\u064a\u0629",
+      "url": "https://open.spotify.com/track/1fHh30pe4YAacqOI3vKQWW"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Breeze (Live at the Heydar Aliyev Center)",
+        "url": "https://open.spotify.com/album/52OnlMGe9oqZ8i7RvuwzRr"
+      },
+      "artists": [
+        {
+          "name": "Sami Yusuf",
+          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
+        }
+      ],
+      "duration_ms": 295189,
+      "name": "Breeze - Live at the Heydar Aliyev Center",
+      "url": "https://open.spotify.com/track/6nwo9EXJ2mz67Ktl5tQTZh"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Abu Nawas Rhapsody",
-        "url": "https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl"
-      },
-      "artists": [
-        {
-          "name": "Dhafer Youssef",
-          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
-        }
-      ],
-      "duration_ms": 549546,
-      "name": "Les ondes orientales",
-      "url": "https://open.spotify.com/track/7qJ3fjjufJ4VYvUguGne0y"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "Iraq - Irak : The Art of the '\u00fbd",
         "url": "https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 575333,
       "name": "Taqs\u00eem en maq\u00e2m : Nahawand-kab\u00eer",
       "url": "https://open.spotify.com/track/6UWZUL60UVWXE2CwbntY7B"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Abu Nawas Rhapsody",
+        "url": "https://open.spotify.com/album/21B3ckDMGBE7WzorsseUkl"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        }
+      ],
+      "duration_ms": 549546,
+      "name": "Les ondes orientales",
+      "url": "https://open.spotify.com/track/7qJ3fjjufJ4VYvUguGne0y"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "A Dancing Heart",
-        "url": "https://open.spotify.com/album/6JCj95B37ypKWD6R39bRGD"
-      },
-      "artists": [
-        {
-          "name": "Sami Yusuf",
-          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
-        }
-      ],
-      "duration_ms": 296117,
-      "name": "A Dancing Heart",
-      "url": "https://open.spotify.com/track/1yJLIpzDhDzWM5irYR3trF"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "Trio Chemirani invite",
         "url": "https://open.spotify.com/album/3vIdoN9E1poCa1HAX6s9lX"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 359586,
       "name": "Azadeh",
       "url": "https://open.spotify.com/track/1PaOePJA18cEZjIZanXv6X"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "A Dancing Heart",
+        "url": "https://open.spotify.com/album/6JCj95B37ypKWD6R39bRGD"
+      },
+      "artists": [
+        {
+          "name": "Sami Yusuf",
+          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
+        }
+      ],
+      "duration_ms": 296117,
+      "name": "A Dancing Heart",
+      "url": "https://open.spotify.com/track/1yJLIpzDhDzWM5irYR3trF"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Solo Passage (Gozar)",
-        "url": "https://open.spotify.com/album/4lNLgHmSdqKeK85MoPYLdZ"
-      },
-      "artists": [
-        {
-          "name": "Hamed Nikpay",
-          "url": "https://open.spotify.com/artist/6zu1JcNYULXTVw509cemBy"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "Gypsy (Kouli), Oud",
-      "url": "https://open.spotify.com/track/726DmxUPgXO14R8DxWadxi"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "The Long March",
         "url": "https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5"
       },
@@ -567,6 +551,38 @@
       "duration_ms": 270986,
       "name": "The Hanging Moon",
       "url": "https://open.spotify.com/track/6znb1dls6rehKz9MB7L8Hk"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Deeper Sun",
+        "url": "https://open.spotify.com/album/1IXO9DNXjDs7DCWfIZlQSZ"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Deeper Sun",
+      "url": "https://open.spotify.com/track/72U3GaKjHnwdfKNWoeciA5"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Solo Passage (Gozar)",
+        "url": "https://open.spotify.com/album/4lNLgHmSdqKeK85MoPYLdZ"
+      },
+      "artists": [
+        {
+          "name": "Hamed Nikpay",
+          "url": "https://open.spotify.com/artist/6zu1JcNYULXTVw509cemBy"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "Gypsy (Kouli), Oud",
+      "url": "https://open.spotify.com/track/726DmxUPgXO14R8DxWadxi"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -587,22 +603,6 @@
       "duration_ms": 208466,
       "name": "Kupia",
       "url": "https://open.spotify.com/track/78shHmYJjbCNxY69yfWo6l"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Deeper Sun",
-        "url": "https://open.spotify.com/album/1IXO9DNXjDs7DCWfIZlQSZ"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Deeper Sun",
-      "url": "https://open.spotify.com/track/72U3GaKjHnwdfKNWoeciA5"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -675,6 +675,22 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
+        "name": "432hz Healing Sounds from the Middle East",
+        "url": "https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "432hz Desert Pulse",
+      "url": "https://open.spotify.com/track/0KQVSvwDuD7tWGbIqh9BGl"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/3VzmfQJ0iuFxHC1T3AJ35N"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "432hz Healing Sounds from the Middle East",
-        "url": "https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "432hz Desert Pulse",
-      "url": "https://open.spotify.com/track/0KQVSvwDuD7tWGbIqh9BGl"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "Dorouj",
         "url": "https://open.spotify.com/album/60II2iJkFzrfi5E5b2Mfrj"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 224000,
       "name": "Lucent Path",
       "url": "https://open.spotify.com/track/2eo0m22NuhN7gif3jpVW7U"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Persian Oud, Dirine Delkhah",
+        "url": "https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4"
+      },
+      "artists": [
+        {
+          "name": "Shahram Gholami",
+          "url": "https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Raghsan",
+      "url": "https://open.spotify.com/track/0yWWPxQTJWHfQmcRta04tE"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -791,22 +807,6 @@
       "duration_ms": 301240,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0qOmbTmCOZNVo3QqifYcZf"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "Persian Oud, Dirine Delkhah",
-        "url": "https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4"
-      },
-      "artists": [
-        {
-          "name": "Shahram Gholami",
-          "url": "https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Raghsan",
-      "url": "https://open.spotify.com/track/0yWWPxQTJWHfQmcRta04tE"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -943,38 +943,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "The Passage",
-        "url": "https://open.spotify.com/album/6KWEVIS0zIhxXWxwoyWHdF"
-      },
-      "artists": [
-        {
-          "name": "Siavash Roshan",
-          "url": "https://open.spotify.com/artist/5WNkSYgDchsThuSE3kFhgS"
-        }
-      ],
-      "duration_ms": 303386,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/2KbgjT7Ol48ezArqvwBF46"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "G\u0101h\u0101n",
-        "url": "https://open.spotify.com/album/1dQrbLuCi32Zg6IxURIOrY"
-      },
-      "artists": [
-        {
-          "name": "Yasamin Shahhosseini",
-          "url": "https://open.spotify.com/artist/5zflvLbYdud5Isb6hFLFWl"
-        }
-      ],
-      "duration_ms": 480626,
-      "name": "First G\u0101h",
-      "url": "https://open.spotify.com/track/2v6wZhaijSRK8fRpBhVfHa"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "And",
         "url": "https://open.spotify.com/album/0ijz7hzViGMvTYgz1YMR9s"
       },
@@ -995,6 +963,22 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
+        "name": "The Passage",
+        "url": "https://open.spotify.com/album/6KWEVIS0zIhxXWxwoyWHdF"
+      },
+      "artists": [
+        {
+          "name": "Siavash Roshan",
+          "url": "https://open.spotify.com/artist/5WNkSYgDchsThuSE3kFhgS"
+        }
+      ],
+      "duration_ms": 303386,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/2KbgjT7Ol48ezArqvwBF46"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
         "name": "In Turn",
         "url": "https://open.spotify.com/album/6mxR9rdf3iF7HzTF6tsrPe"
       },
@@ -1011,30 +995,18 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "First Of July",
-        "url": "https://open.spotify.com/album/1Qf7zshPNYsgJmTOcJzT7v"
+        "name": "G\u0101h\u0101n",
+        "url": "https://open.spotify.com/album/1dQrbLuCi32Zg6IxURIOrY"
       },
       "artists": [
         {
-          "name": "Golnoosh salehi",
-          "url": "https://open.spotify.com/artist/7gi9wcNqidI9zivuE4IEXF"
-        },
-        {
-          "name": "Soheil Mokhberi",
-          "url": "https://open.spotify.com/artist/0tBKnYaIeoRQWpEPZs0eYm"
-        },
-        {
-          "name": "Sattar Khatabi",
-          "url": "https://open.spotify.com/artist/34wwisNKAfgq1WV7viNxwF"
-        },
-        {
-          "name": "Harutyun Chkolyan",
-          "url": "https://open.spotify.com/artist/2dH83EIglzV1rQ20DrbEEq"
+          "name": "Yasamin Shahhosseini",
+          "url": "https://open.spotify.com/artist/5zflvLbYdud5Isb6hFLFWl"
         }
       ],
-      "duration_ms": 328000,
-      "name": "Bovad Aya",
-      "url": "https://open.spotify.com/track/3ejtsUvCZzSNAusYt476lM"
+      "duration_ms": 480626,
+      "name": "First G\u0101h",
+      "url": "https://open.spotify.com/track/2v6wZhaijSRK8fRpBhVfHa"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -1067,6 +1039,34 @@
       "duration_ms": 414651,
       "name": "Kawkab Abad - Live",
       "url": "https://open.spotify.com/track/46qO8r10VMl72reCQgaqwo"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "First Of July",
+        "url": "https://open.spotify.com/album/1Qf7zshPNYsgJmTOcJzT7v"
+      },
+      "artists": [
+        {
+          "name": "Golnoosh salehi",
+          "url": "https://open.spotify.com/artist/7gi9wcNqidI9zivuE4IEXF"
+        },
+        {
+          "name": "Soheil Mokhberi",
+          "url": "https://open.spotify.com/artist/0tBKnYaIeoRQWpEPZs0eYm"
+        },
+        {
+          "name": "Sattar Khatabi",
+          "url": "https://open.spotify.com/artist/34wwisNKAfgq1WV7viNxwF"
+        },
+        {
+          "name": "Harutyun Chkolyan",
+          "url": "https://open.spotify.com/artist/2dH83EIglzV1rQ20DrbEEq"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Bovad Aya",
+      "url": "https://open.spotify.com/track/3ejtsUvCZzSNAusYt476lM"
     }
   ],
   "unique_name": "Stargazer",

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring The Bromigos. Updates every Wednesday.",
-  "num_followers": 168581,
+  "num_followers": 168572,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4MzA5NiwwMDAwMDAwMDBkMjBlN2QxZmEwNWZhMTE0MWE1OTc5YTFjYWI4MTRi",
+  "snapshot_id": "MTY3NDA4MzA5NiwwMDAwMDAwMDMxZWFhZjRiMWU1N2NmNjVhZGZlOTc5YTY4MjBkZThm",
   "tracks": [
     {
       "added_at": "2023-01-18 23:04:56",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
+        "name": "Yo No Te Creo",
+        "url": "https://open.spotify.com/album/1pfm8mTVJkv9gDmjRAIrNp"
+      },
+      "artists": [
+        {
+          "name": "Melissa Ciani",
+          "url": "https://open.spotify.com/artist/2lmbF86akqBPOWQGUwGG1u"
+        }
+      ],
+      "duration_ms": 188309,
+      "name": "Yo No Te Creo",
+      "url": "https://open.spotify.com/track/7b1zAM1mrXd2OqB4wz6dwL"
+    },
+    {
+      "added_at": "2023-01-18 23:04:56",
+      "album": {
         "name": "D\u00e1tiles",
         "url": "https://open.spotify.com/album/2LRjMUKmcrdmWIJbXTXhva"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 213698,
       "name": "\u00bfsi me muero?",
       "url": "https://open.spotify.com/track/4Wqh2FhohZowBY2VpvZHrq"
-    },
-    {
-      "added_at": "2023-01-18 23:04:56",
-      "album": {
-        "name": "Yo No Te Creo",
-        "url": "https://open.spotify.com/album/1pfm8mTVJkv9gDmjRAIrNp"
-      },
-      "artists": [
-        {
-          "name": "Melissa Ciani",
-          "url": "https://open.spotify.com/artist/2lmbF86akqBPOWQGUwGG1u"
-        }
-      ],
-      "duration_ms": 188309,
-      "name": "Yo No Te Creo",
-      "url": "https://open.spotify.com/track/7b1zAM1mrXd2OqB4wz6dwL"
     },
     {
       "added_at": "2023-01-18 23:04:56",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
-        "name": "Qu\u00e9date Aqu\u00ed",
-        "url": "https://open.spotify.com/album/6xTbo6pgEB8YKExx8mOGG6"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Sardaneta",
-          "url": "https://open.spotify.com/artist/1x29wDLnv8Gdf25MaJn1v4"
-        }
-      ],
-      "duration_ms": 204088,
-      "name": "Qu\u00e9date Aqu\u00ed",
-      "url": "https://open.spotify.com/track/1zm530Ob5yye9Nio6owc3X"
-    },
-    {
-      "added_at": "2023-01-18 23:04:56",
-      "album": {
         "name": "Viajera",
         "url": "https://open.spotify.com/album/1cFDaUs40HclfnkzH0GJkf"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 171405,
       "name": "Viajera",
       "url": "https://open.spotify.com/track/5Bf4ceZ6ybEx448ZFF5Hhl"
+    },
+    {
+      "added_at": "2023-01-18 23:04:56",
+      "album": {
+        "name": "Qu\u00e9date Aqu\u00ed",
+        "url": "https://open.spotify.com/album/6xTbo6pgEB8YKExx8mOGG6"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Sardaneta",
+          "url": "https://open.spotify.com/artist/1x29wDLnv8Gdf25MaJn1v4"
+        }
+      ],
+      "duration_ms": 204088,
+      "name": "Qu\u00e9date Aqu\u00ed",
+      "url": "https://open.spotify.com/track/1zm530Ob5yye9Nio6owc3X"
     },
     {
       "added_at": "2023-01-18 23:04:56",

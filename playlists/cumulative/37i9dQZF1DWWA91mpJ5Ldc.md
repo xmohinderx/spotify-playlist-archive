@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-220 songs - 13 hr 30 min
+221 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Beatriz \- Acústico](https://open.spotify.com/track/04pdJOK2kixNEr5mATTCJh) | [Vítor Guima](https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe) | [Beatriz \(Acústico\)](https://open.spotify.com/album/4r2rfGSKsoBziLl976ahHk) | 3:04 | 2022-04-01 | 2022-04-20 |
 | [Bem Bom](https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Goela Abaixo](https://open.spotify.com/album/6u9KVK2R84AIC5tR75SLAo) | 3:50 | 2022-02-04 |  |
 | [Besteira](https://open.spotify.com/track/01DihPKWcCgJazoqZPfq0s) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Besteira](https://open.spotify.com/album/3hOEphZEIj8V8UyrIMDLn6) | 3:33 | 2022-02-04 | 2023-01-11 |
+| [Besteira](https://open.spotify.com/track/5JEC6CnLu9Vejy8257rCgd) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Besteira](https://open.spotify.com/album/15TrSIrWfvxqi2VGcnauKC) | 3:33 | 2023-01-13 |  |
 | [Boa Noite](https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Coisa de Acender](https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F) | 5:47 | 2022-02-04 |  |
 | [Boca Cheia](https://open.spotify.com/track/3F02D31yVHSs5OoOkSvirT) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Indee](https://open.spotify.com/artist/6F8T5BrVPsND7NOzCBLZu5) | [Boca](https://open.spotify.com/album/5W174N4vOGoC6GEsILKWZn) | 3:35 | 2022-03-22 | 2022-04-20 |
 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 | 2022-02-04 |  |
@@ -53,7 +54,7 @@
 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 | 2022-02-04 |  |
 | [Cansar De Dançar](https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Cansar De Dançar](https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK) | 2:37 | 2022-05-06 |  |
 | [Cara de Segunda](https://open.spotify.com/track/5fdn8MrzRBFVjTYuuC8YIh) | [Ina Magdala](https://open.spotify.com/artist/77b9EH7qYCrmbjrwBNaM5r) | [Cara de Segunda](https://open.spotify.com/album/4sxsQqJmmHJZApi0l6Dsw0) | 3:00 | 2022-06-03 | 2022-07-29 |
-| [Carinhoso](https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Carinhoso](https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE) | 4:25 | 2022-02-04 |  |
+| [Carinhoso](https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Carinhoso](https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE) | 4:25 | 2022-02-04 | 2023-01-24 |
 | [Cariocas](https://open.spotify.com/track/2ZOzy9aFCI8Yic2DP8n7xB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Cariocas / Por Que Você Faz Cinema?](https://open.spotify.com/album/61KGsa3fDakjCMTDlOK1rA) | 3:43 | 2022-02-04 | 2022-07-25 |
 | [Carne dos Deuses](https://open.spotify.com/track/1Cu4k15CyHaUNEMETkRRXZ) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Ubunto](https://open.spotify.com/artist/5jCuYiMEooO3wIxXhzCquh) | [Carne dos Deuses](https://open.spotify.com/album/5Y0aw7qyAfbQK3CRp3kWJk) | 2:47 | 2022-02-04 | 2022-07-28 |
 | [Carne Dos Meus Versos](https://open.spotify.com/track/2mPTW4iRG0f7IBaQcaCnsD) | [As Baías](https://open.spotify.com/artist/7MKatfaGFrdd4jTZiwZW2K) | [Tarântula](https://open.spotify.com/album/6d6PpOHDJIzHwsy97cL0bG) | 3:58 | 2022-03-22 | 2022-06-26 |

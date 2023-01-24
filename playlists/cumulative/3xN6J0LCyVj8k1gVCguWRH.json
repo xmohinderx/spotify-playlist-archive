@@ -32155,6 +32155,24 @@
     },
     {
       "album": {
+        "name": "The Last Word",
+        "url": "https://open.spotify.com/album/5dLDguHx5T0EiedBxwJhs3"
+      },
+      "artists": [
+        {
+          "name": "Olivia Burnette",
+          "url": "https://open.spotify.com/artist/2B5P0MxeVJINZAnyEueoCJ"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196595,
+      "name": "The Last Word",
+      "url": "https://open.spotify.com/track/7zFaOiJj5igKMWoZw0Rh33"
+    },
+    {
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/40yksFSu3zk5H4LKqv2ZUn"
       },

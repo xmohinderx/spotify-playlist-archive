@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 115901,
+  "num_followers": 115910,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMGEzMGM1ZjU2OTdlN2ZhNTU3NWI1MjcxYjU5ZmRkOTRi",
+  "snapshot_id": "MTY0ODQ5NTUwNCwwMDAwMDAwMDRlZWE5Y2YxYzFmYjM4YmI1ZmZjZGVjOGI5MWYwZWYw",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -529,10 +529,10 @@
       "url": "https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam"
     },
     {
-      "added_at": "2022-03-28 19:25:04",
+      "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Psychedelic Lollipop",
-        "url": "https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX"
+        "name": "Psychedelic Resurrection",
+        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
         }
       ],
-      "duration_ms": 250960,
-      "name": "Sometimes I Think About",
-      "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
+      "duration_ms": 137346,
+      "name": "We Ain't Got Nothin' yet",
+      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
     },
     {
       "added_at": "2018-02-28 19:55:41",
@@ -611,22 +611,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Psychedelic Resurrection",
-        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
-      },
-      "artists": [
-        {
-          "name": "The Blues Magoos",
-          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
-        }
-      ],
-      "duration_ms": 137346,
-      "name": "We Ain't Got Nothin' yet",
-      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Cauldron",
         "url": "https://open.spotify.com/album/7aDnFNJkraWwSxMNtPLcfz"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 202304,
       "name": "Don't Call Us, We'll Call You (Re-Recorded / Remastered)",
       "url": "https://open.spotify.com/track/6Hrik94vQpSpxSjMfFKGfC"
+    },
+    {
+      "added_at": "2022-03-28 19:25:04",
+      "album": {
+        "name": "Psychedelic Lollipop",
+        "url": "https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX"
+      },
+      "artists": [
+        {
+          "name": "The Blues Magoos",
+          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
+        }
+      ],
+      "duration_ms": 250960,
+      "name": "Sometimes I Think About",
+      "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
     },
     {
       "added_at": "2018-02-28 19:55:41",

@@ -4,7 +4,7 @@
 
 > cool tunes for walking, driving, running, flying, etc
 
-213 songs - 11 hr 46 min
+214 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 | 2022-12-15 |  |
 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 | 2022-02-04 | 2022-07-16 |
 | [Chemicals](https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Chemicals](https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB) | 4:14 | 2021-08-05 |  |
-| [Clorox Wipe](https://open.spotify.com/track/3SkDCAsph6e4ExoUQ1dVW0) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Quarantine Casanova](https://open.spotify.com/album/5mdkqTHEmp4RvBVU8hZZCy) | 4:31 | 2021-08-05 |  |
+| [Clorox Wipe](https://open.spotify.com/track/3SkDCAsph6e4ExoUQ1dVW0) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Quarantine Casanova](https://open.spotify.com/album/5mdkqTHEmp4RvBVU8hZZCy) | 4:31 | 2021-08-05 | 2023-01-24 |
 | [CLOSER](https://open.spotify.com/track/7JYK47yZqheR1DeJCeygWX) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux) | [HIDDEN TAPE](https://open.spotify.com/album/5DQfDBKfuL4l8f46X4AGbO) | 3:17 | 2022-04-14 | 2022-05-08 |
 | [Closer](https://open.spotify.com/track/3o1zrW0DOGDIM7Inw28TyR) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Closer](https://open.spotify.com/album/45SzO3Sw87Hqma1EQJ3kFn) | 3:28 | 2021-08-05 |  |
 | [Cold Blood](https://open.spotify.com/track/1ah7QJ4UsxhGedu7QhmX44) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Cold Blood](https://open.spotify.com/album/7lUc1rvCShf2ydND7z6Glk) | 2:44 | 2021-08-05 | 2022-12-16 |
@@ -108,6 +108,7 @@
 | [I'm Thru](https://open.spotify.com/track/4ufWGDUgfZ0IHuDQsqAVMd) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [Cover art by Hasworld](https://open.spotify.com/artist/4HaqOBtirZ4ArjpCAMCRGB) | [I'm Thru](https://open.spotify.com/album/2vhF7msOOZ8QcwXReET5YP) | 3:11 | 2022-10-06 |  |
 | [Immortalized](https://open.spotify.com/track/6Y2mmfzPHzI7DekT5iviyT) | [Glom](https://open.spotify.com/artist/0OY528sf5HGsPB2xi8BJ4H) | [Immortalized](https://open.spotify.com/album/73UHcgkxUNQNCW8PBZrX5K) | 3:03 | 2021-12-16 | 2022-07-26 |
 | [In My Head](https://open.spotify.com/track/65TiEAGo8U7RFXQwlsjjxh) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [Closure & Campari: After Hours](https://open.spotify.com/album/5dkGwwTDSKTiAq8Qp4yWn8) | 2:36 | 2022-05-03 | 2022-07-29 |
+| [Inside Out](https://open.spotify.com/track/3cMLrXYpBxjnQBYBSHxMXD) | [Kwajo](https://open.spotify.com/artist/7yPxEd332R2RPIbaexg5Y6), [SH1NOB1](https://open.spotify.com/artist/6UGDJ6kEcwYnpgTZJWPPJ0) | [Inside Out](https://open.spotify.com/album/0FGvSdEWHbi1krtDPf9K4D) | 3:01 | 2022-12-15 |  |
 | [Inside Out](https://open.spotify.com/track/6knSS9IpIjq4RLMcAcuS8g) | [Kwajo](https://open.spotify.com/artist/7yPxEd332R2RPIbaexg5Y6), [SH1NOB1](https://open.spotify.com/artist/6UGDJ6kEcwYnpgTZJWPPJ0) | [Inside Out](https://open.spotify.com/album/6PiOphZVJXwygC6QbfDYiT) | 3:01 | 2022-07-07 | 2023-01-14 |
 | [Ischia](https://open.spotify.com/track/0LhXkyXcPf2bdRKJFkd2FK) | [Isola](https://open.spotify.com/artist/2K9NaV3uzFi6NAZCRHeZvh) | [EP1](https://open.spotify.com/album/07RlgKHzytA0mw92KaK2xX) | 6:01 | 2021-08-05 | 2022-07-21 |
 | [Ischia](https://open.spotify.com/track/4lzfwCNtSBGqRG5jl5Pp6K) | [Isola](https://open.spotify.com/artist/2K9NaV3uzFi6NAZCRHeZvh) | [EP1](https://open.spotify.com/album/46taxnLPMHr38wRSHJHxic) | 6:01 | 2022-08-26 | 2022-12-16 |

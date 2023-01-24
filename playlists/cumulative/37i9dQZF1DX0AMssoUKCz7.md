@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-570 songs - 1 day 5 hr 27 min
+571 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 | 2022-04-01 | 2022-09-24 |
 | [If You're Hearing This](https://open.spotify.com/track/1aJ1xeEQ1ivKGnTeuYolJk) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [If You're Hearing This](https://open.spotify.com/album/2yOjy8vG8Tp7bVByZSLNcJ) | 2:53 | 2022-01-14 | 2022-04-21 |
 | [Illuminate](https://open.spotify.com/track/25xMfbsrHq7gZFtiGenVm9) | [AINT](https://open.spotify.com/artist/5uCTOJnOeOAjPPRr5TnICA) | [Illuminate](https://open.spotify.com/album/3760l58qXnk6n5p7dcSSIa) | 2:20 | 2022-01-14 | 2022-07-29 |
-| [Illuminate](https://open.spotify.com/track/7golrrC213i0pLwckqcQ9S) | [AINT](https://open.spotify.com/artist/5uCTOJnOeOAjPPRr5TnICA) | [Illuminate](https://open.spotify.com/album/26kwSfWMnu2W5GVQ4n7obD) | 2:20 | 2022-07-22 |  |
+| [Illuminate](https://open.spotify.com/track/7golrrC213i0pLwckqcQ9S) | [AINT](https://open.spotify.com/artist/5uCTOJnOeOAjPPRr5TnICA) | [Illuminate](https://open.spotify.com/album/26kwSfWMnu2W5GVQ4n7obD) | 2:20 | 2022-07-22 | 2023-01-24 |
 | [Imagine](https://open.spotify.com/track/08Wzb4yEK5GVmZ8fn7gJgz) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf), [NBLM](https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc) | [Imagine](https://open.spotify.com/album/0Mi6vGTl4fxBJxGYRIdzFG) | 2:50 | 2022-02-18 | 2022-04-02 |
 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 | 2022-04-01 |  |
 | [In My Heart](https://open.spotify.com/track/1lMyHtWUEPgu6dElVp4H66) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [Jeiang](https://open.spotify.com/artist/0trSpa9GRQN4ruMiPXxCK8) | [In My Heart](https://open.spotify.com/album/3Tb1LRZJuvzlPav12WKCOz) | 3:04 | 2022-01-14 | 2022-07-29 |
@@ -264,6 +264,7 @@
 | [Jubel \- Nora En Pure Remix](https://open.spotify.com/track/1SC2baSJpW1wSy09LEU9aT) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Remixes\)](https://open.spotify.com/album/18ecyDssonw23eqZ690WUM) | 6:18 | 2022-01-14 | 2022-05-07 |
 | [just like this](https://open.spotify.com/track/2BpYaI9sstZ8MDqqp1iu0I) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [just like this](https://open.spotify.com/album/3S7D4HBTZuskrHi2LJJ4Zs) | 2:14 | 2022-08-12 |  |
 | [Karibu \- Radio Edit](https://open.spotify.com/track/5ZTPowK41qACT8FFuorbXW) | [Lago](https://open.spotify.com/artist/6dJi7tkU0GjHJtB2A586kj) | [Karibu](https://open.spotify.com/album/2MTl3uV62fuLLTer8eC0kZ) | 3:30 | 2022-01-14 | 2022-04-21 |
+| [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 | 2023-01-20 |  |
 | [Kiss Me](https://open.spotify.com/track/6kYkyeZHXPOj4s5swBEgvu) | [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Kiss Me](https://open.spotify.com/album/2k3nAAi31nOvj3wcuNwMYr) | 2:27 | 2023-01-20 |  |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/4zWbO2jh3xzgylLksw37Fu) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Knockin' On Heaven's Door](https://open.spotify.com/album/3Zhg5HmHcCJea6KvPBf5uu) | 2:29 | 2022-09-09 |  |
 | [Kuala Lumpur](https://open.spotify.com/track/2gK4qTOtzYQiiOW6I2bXj8) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [Kuala Lumpur](https://open.spotify.com/album/4suO8UXZWFxmqEPtabQrCK) | 3:02 | 2022-05-20 | 2022-11-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring The Bromigos\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,581 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,572 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 39 | [Mosca](https://open.spotify.com/track/5lSnbAo7GD1wdvez82WQAo) | [Sasha Wrist](https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD) | [Mosca](https://open.spotify.com/album/6WzbbHdyk1mh4HKlbQc5H3) | 2:43 |
 | 40 | [Obsesion](https://open.spotify.com/track/61NIeyT1nNZgbXB0OHzXjp) | [Aaron G.J](https://open.spotify.com/artist/1VMqFuW8oVOMgfK89wgfBy) | [M E D T](https://open.spotify.com/album/3vZwYX7AYq5NIpbEpWXU5g) | 3:15 |
 | 41 | [PERDEDOR](https://open.spotify.com/track/07pDSqLfNTRcdw8evYuXHY) | [Ferrante](https://open.spotify.com/artist/7m1bGGPbNJSegEliGuHbHt) | [PERDEDOR](https://open.spotify.com/album/6sljmJ6fEmqiQFe6EhA10t) | 2:45 |
-| 42 | [Dátiles](https://open.spotify.com/track/3q6YPWJZiDcxGrrGcIoLZI) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Dátiles](https://open.spotify.com/album/2LRjMUKmcrdmWIJbXTXhva) | 3:13 |
-| 43 | [¿si me muero?](https://open.spotify.com/track/4Wqh2FhohZowBY2VpvZHrq) | [Ariel & The Culture](https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4) | [¿si me muero?](https://open.spotify.com/album/5vXMfP320B8sv51RpcFFI9) | 3:33 |
-| 44 | [Yo No Te Creo](https://open.spotify.com/track/7b1zAM1mrXd2OqB4wz6dwL) | [Melissa Ciani](https://open.spotify.com/artist/2lmbF86akqBPOWQGUwGG1u) | [Yo No Te Creo](https://open.spotify.com/album/1pfm8mTVJkv9gDmjRAIrNp) | 3:08 |
+| 42 | [Yo No Te Creo](https://open.spotify.com/track/7b1zAM1mrXd2OqB4wz6dwL) | [Melissa Ciani](https://open.spotify.com/artist/2lmbF86akqBPOWQGUwGG1u) | [Yo No Te Creo](https://open.spotify.com/album/1pfm8mTVJkv9gDmjRAIrNp) | 3:08 |
+| 43 | [Dátiles](https://open.spotify.com/track/3q6YPWJZiDcxGrrGcIoLZI) | [ERRE TRES](https://open.spotify.com/artist/001VIQ8fbjmLj8vYm9AAsb) | [Dátiles](https://open.spotify.com/album/2LRjMUKmcrdmWIJbXTXhva) | 3:13 |
+| 44 | [¿si me muero?](https://open.spotify.com/track/4Wqh2FhohZowBY2VpvZHrq) | [Ariel & The Culture](https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4) | [¿si me muero?](https://open.spotify.com/album/5vXMfP320B8sv51RpcFFI9) | 3:33 |
 | 45 | [Luna Llena](https://open.spotify.com/track/4GoUK8z8lKY9V6bfuOvyyk) | [J Arias](https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym) | [Luna Llena](https://open.spotify.com/album/1qIVHrzSRxCEEfFw5UJcFo) | 2:48 |
 | 46 | [Por Que Me Haces Llorar](https://open.spotify.com/track/10j0KlhbXSzx9pKkjncSPr) | [Leyo](https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO) | [Por Que Me Haces Llorar](https://open.spotify.com/album/4jUYC5iMpTot1bEUGopgoW) | 3:10 |
-| 47 | [Quédate Aquí](https://open.spotify.com/track/1zm530Ob5yye9Nio6owc3X) | [Fernanda Sardaneta](https://open.spotify.com/artist/1x29wDLnv8Gdf25MaJn1v4) | [Quédate Aquí](https://open.spotify.com/album/6xTbo6pgEB8YKExx8mOGG6) | 3:24 |
-| 48 | [Viajera](https://open.spotify.com/track/5Bf4ceZ6ybEx448ZFF5Hhl) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Viajera](https://open.spotify.com/album/1cFDaUs40HclfnkzH0GJkf) | 2:51 |
+| 47 | [Viajera](https://open.spotify.com/track/5Bf4ceZ6ybEx448ZFF5Hhl) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp) | [Viajera](https://open.spotify.com/album/1cFDaUs40HclfnkzH0GJkf) | 2:51 |
+| 48 | [Quédate Aquí](https://open.spotify.com/track/1zm530Ob5yye9Nio6owc3X) | [Fernanda Sardaneta](https://open.spotify.com/artist/1x29wDLnv8Gdf25MaJn1v4) | [Quédate Aquí](https://open.spotify.com/album/6xTbo6pgEB8YKExx8mOGG6) | 3:24 |
 | 49 | [Rs5](https://open.spotify.com/track/76lq8oJbdWxbczUAlqC2pJ) | [EL NAGO](https://open.spotify.com/artist/2ZOvUFl38SrMZ4H2pzO5lg) | [Rs5](https://open.spotify.com/album/3QE3LdwskDdy1v8BMiCT12) | 2:25 |
 | 50 | [AUCH](https://open.spotify.com/track/3BY01BUINZFNvYJFWPwROg) | [Marco Gordiano](https://open.spotify.com/artist/0C2DioA7LLMoIpWwdnlOMY), [Mane Zavala](https://open.spotify.com/artist/2oAjxTmKnRKNwyq6FvjtdY), [Guiza](https://open.spotify.com/artist/5WWOCNWvqOYLTreVl1esP4) | [AUCH](https://open.spotify.com/album/3W5CRzl0Cp9j3cnWt4Ya8q) | 3:06 |
 
-Snapshot ID: `MTY3NDA4MzA5NiwwMDAwMDAwMDBkMjBlN2QxZmEwNWZhMTE0MWE1OTc5YTFjYWI4MTRi`
+Snapshot ID: `MTY3NDA4MzA5NiwwMDAwMDAwMDMxZWFhZjRiMWU1N2NmNjVhZGZlOTc5YTY4MjBkZThm`

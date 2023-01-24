@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,510 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,536 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 55 | [Someday \- Harris & Hurr Remix](https://open.spotify.com/track/0ad5utq7FrurJIMujXWBwy) | [Just Us](https://open.spotify.com/artist/6gZBuGRyiyGkAVFCJAWdMk), [Eddy](https://open.spotify.com/artist/0sbQ1fc2ccUXTTHCAhAo8I), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa), [Harris & Hurr](https://open.spotify.com/artist/2aNn60ycgLbQIyhyxMQrNb) | [Someday \(Harris & Hurr Remix\)](https://open.spotify.com/album/0WIYfupY0GUkK0fdoDw89S) | 3:40 |
 | 56 | [Closer](https://open.spotify.com/track/5s3UTdgdjBnkRKmPeBEnyk) | [Aevion](https://open.spotify.com/artist/6y5Fs04MNlsUCyAgvXkSxg) | [Closer](https://open.spotify.com/album/2wONkDvCwXWSIw4SGz36pZ) | 4:10 |
 | 57 | [All Along](https://open.spotify.com/track/3RPHlHhb6g0rqcMVwwfxcF) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [All Along](https://open.spotify.com/album/7m3BQyRSefzOAxElf6SCnt) | 3:23 |
-| 58 | [You Are the Sun \- Sun Up Mix](https://open.spotify.com/track/4PoTuDwU3SXGsxdxG0fpCO) | [TEE MANGO](https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH) | [You Are the Sun](https://open.spotify.com/album/2uR2gF9PubnLliDouxJ25j) | 6:48 |
-| 59 | [As The Night Moves In](https://open.spotify.com/track/66RBjymDyZBEwXeD4JpY65) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [As The Night Moves In](https://open.spotify.com/album/5OQOHoGN23J7aa1axV6gNv) | 5:40 |
+| 58 | [As The Night Moves In](https://open.spotify.com/track/66RBjymDyZBEwXeD4JpY65) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [As The Night Moves In](https://open.spotify.com/album/5OQOHoGN23J7aa1axV6gNv) | 5:40 |
+| 59 | [You Are the Sun \- Sun Up Mix](https://open.spotify.com/track/4PoTuDwU3SXGsxdxG0fpCO) | [TEE MANGO](https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH) | [You Are the Sun](https://open.spotify.com/album/2uR2gF9PubnLliDouxJ25j) | 6:48 |
 | 60 | [My Love](https://open.spotify.com/track/3G5oXaBG274gRp1aHjnMvu) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Charles J](https://open.spotify.com/artist/7lmPlDYovClFuOyfyzbDYS) | [My Love](https://open.spotify.com/album/6MierPcAi3tuJ4MKd74vKF) | 2:45 |
 
-Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDVlNmQ3ZGYwNTI0NTE4ZmYzMzNiZDRmNDk4MDJjM2Qy`
+Snapshot ID: `MTY0NzAxNTcyNSwwMDAwMDAwMDQ4NzVjMmRhZDRlY2ZlODFjZTE4ZDVlNTEyM2JhZDVk`

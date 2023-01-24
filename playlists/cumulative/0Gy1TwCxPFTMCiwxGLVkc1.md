@@ -4,7 +4,7 @@
 
 > Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!
 
-85 songs - 3 hr 46 min
+86 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2022-10-25 |  |
 | [The Aquathawn](https://open.spotify.com/track/1HPcXGieyMTYa1ZSbpHEWy) | [Star Trek Prodigy](https://open.spotify.com/artist/5xBSDl8pzdxe3qTNxXrez7), [Nami Melumad](https://open.spotify.com/artist/7icx86YKqzAozjY6xf0KNF) | [Star Trek Prodigy \(Original Music from the Series\)](https://open.spotify.com/album/3LMZkP2NFjVzNVqpIr9DlD) | 2:26 | 2022-11-07 | 2022-12-06 |
 | [The Doc Is 10 \- From "Disney Junior Music: Doc McStuffins"](https://open.spotify.com/track/3Zkd1E3PjnmanBzwygRG5w) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [The Doc Is 10 \(From "Disney Junior Music: Doc McStuffins"\)](https://open.spotify.com/album/3fvHg1d4KnYjg6723pPada) | 2:09 | 2022-10-25 |  |
+| [The Fairly Odd Parents Theme Song](https://open.spotify.com/track/4yghJ7WGLIOMFbV70QRYKE) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65) | [The Fairly Odd Parents](https://open.spotify.com/album/0TNzN5F4lsxUfnvFBcjI2E) | 0:46 | 2023-01-23 |  |
 | [The Family Madrigal](https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp) | [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Olga Merediz](https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 4:17 | 2022-10-25 |  |
 | [The Farmer in the Dell](https://open.spotify.com/track/776gkH5xsUdC50JA0FzdUM) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG), [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC) | [Blue's Clues & You Nursery Rhymes Vol\. 2](https://open.spotify.com/album/24G6yniJsLLHSoYQvE2BmU) | 3:23 | 2022-10-25 |  |
 | [The Jellyfish Song](https://open.spotify.com/track/4xLq11ByjTEy4i2cwELqbp) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Moose Tube](https://open.spotify.com/artist/1OPaMKFqNqlj4VKjPPMIOa) | [The Jellyfish Song](https://open.spotify.com/album/55Xgv4QxEO7WlwYrzbcTum) | 3:11 | 2022-10-25 |  |

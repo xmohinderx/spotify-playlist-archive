@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-917 songs - 2 day 2 hr 17 min
+918 songs - 2 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Dancing In The Moonlight \(feat\. NEIMY\) \- Tiësto Remix](https://open.spotify.com/track/5XNNskkpE46QcgyWjPHUZd) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Dancing In The Moonlight \(feat\. NEIMY\) \[Tiësto Remix\]](https://open.spotify.com/album/0WXq2ORygMmthZWHiJsfGA) | 2:27 | 2022-03-11 | 2022-07-29 |
 | [Dandelion Rain](https://open.spotify.com/track/57LQyJ1u2UFbZ9Frzh9HbH) | [Tomas Heredia](https://open.spotify.com/artist/0MxxbjQyul7WXUFy0O6qiu) | [Dandelion Rain](https://open.spotify.com/album/5Y1UE0o5VHwlgqEf61SlIX) | 3:18 | 2020-09-21\* | 2021-01-23 |
 | [Day N' Night](https://open.spotify.com/track/66LNyfDQyuCVgczVJEdbRl) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Day N' Night](https://open.spotify.com/album/5z2Gcbr6lv7UPmGmB2mcl3) | 2:41 | 2020-09-21\* | 2021-02-06 |
+| [Days Like This](https://open.spotify.com/track/7ekGdD9l1YWFUngF9jVKcf) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Days Like This](https://open.spotify.com/album/6WV1Mmy9a5kmJkbDBicdLx) | 2:26 | 2023-01-13 |  |
 | [Deals with the Devil](https://open.spotify.com/track/0jFc39se7POaOfpb1601om) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w) | [Deals with the Devil](https://open.spotify.com/album/0pTo4DQyQe0pLZM7htnd9M) | 2:53 | 2022-01-28 | 2022-04-02 |
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-07-01 |  |
 | [Deep Sea \(with R3HAB\)](https://open.spotify.com/track/1txEi16dxuNGSU3VokEtOb) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Deep Sea \(with R3HAB\)](https://open.spotify.com/album/0HB8Rsf0bLnuXmDflKcLFc) | 2:35 | 2022-07-29 |  |
@@ -226,7 +227,7 @@
 | [Electric](https://open.spotify.com/track/2ihfEczzOpZXd8krs60UDx) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Electric](https://open.spotify.com/album/2fQuZaDb22dR9Q6oFUIWAS) | 3:01 | 2020-09-21\* | 2021-02-06 |
 | [Electricity](https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Electricity](https://open.spotify.com/album/1ofN1B9x8lwUSbb2eS65fV) | 2:34 | 2022-10-14 |  |
 | [Electricity](https://open.spotify.com/track/36SwDeUUDdqF2Wn2jySipw) | [Sian](https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y) | [Electricity](https://open.spotify.com/album/3lKvQpxYFgvwrr1AkGu5LB) | 5:54 | 2020-09-21\* | 2020-10-10 |
-| [Element](https://open.spotify.com/track/4fr0TUNlNMjORHGnZX9DQs) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Element](https://open.spotify.com/album/0UA86CES1HFsAwEY5AXlLK) | 2:00 | 2022-10-28 |  |
+| [Element](https://open.spotify.com/track/4fr0TUNlNMjORHGnZX9DQs) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Element](https://open.spotify.com/album/0UA86CES1HFsAwEY5AXlLK) | 2:00 | 2022-10-28 | 2023-01-24 |
 | [Emancipation](https://open.spotify.com/track/4Dosclv6nmoBWiuAqozPLC) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [Emancipation](https://open.spotify.com/album/72TsSpZ4OZrlzL6GesxuVH) | 3:45 | 2020-12-18 | 2021-07-07 |
 | [ENERGY](https://open.spotify.com/track/6aIu2OsmzRP4PbHbelXgfp) | [EC Twins](https://open.spotify.com/artist/6QACkIioo2Na2EKEwJzCKK) | [Disco's Not Dead](https://open.spotify.com/album/2PvAFZBRCVqnkt5NEPbnBX) | 3:08 | 2020-09-21\* | 2021-02-06 |
 | [Energy](https://open.spotify.com/track/5CWGRrNRxRo0KXhMJuMm1S) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Energy](https://open.spotify.com/album/3UB0GAweplve4pzvsGooLf) | 3:28 | 2020-10-10 | 2021-09-11 |

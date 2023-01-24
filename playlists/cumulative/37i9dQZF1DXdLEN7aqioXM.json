@@ -3562,6 +3562,28 @@
     {
       "album": {
         "name": "Light Curve",
+        "url": "https://open.spotify.com/album/5fcSV3jBQoPZ4GpPmjAlbJ"
+      },
+      "artists": [
+        {
+          "name": "Krosia",
+          "url": "https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb"
+        },
+        {
+          "name": "Forhill",
+          "url": "https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256842,
+      "name": "Light Curve",
+      "url": "https://open.spotify.com/track/2lQ2w0vLaWRbmN0exN2pNU"
+    },
+    {
+      "album": {
+        "name": "Light Curve",
         "url": "https://open.spotify.com/album/0zplYzUEbaHyBQqD430Wkz"
       },
       "artists": [
@@ -5614,7 +5636,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 218666,
       "name": "Shift",
       "url": "https://open.spotify.com/track/0aBLmDTJtueByhtIZGBQWs"

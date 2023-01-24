@@ -6952,7 +6952,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 191293,
       "name": "Love Station",
       "url": "https://open.spotify.com/track/2D1xAiDD33nqcxtSMH30hO"
@@ -8018,7 +8018,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 230813,
       "name": "My Starry Love",
       "url": "https://open.spotify.com/track/0NPR33dSDeDdlWS4aaN3dc"
@@ -11688,7 +11688,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 378040,
       "name": "Tralalala",
       "url": "https://open.spotify.com/track/4p46qIOHJXGNpgNtL75Tvz"
@@ -14816,6 +14816,24 @@
       "duration_ms": 254172,
       "name": "\uc6b0\ub9ac \uc815\ub9d0 \ub098\uc058\ub2e4",
       "url": "https://open.spotify.com/track/1850Ev8SJo3mtNFVEkFf2e"
+    },
+    {
+      "album": {
+        "name": "\uc6b0\ub9ac\u5bb6",
+        "url": "https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w"
+      },
+      "artists": [
+        {
+          "name": "Kim Ho Joong",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239600,
+      "name": "\uc6b0\uc0b0\uc774 \uc5c6\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/4q5pT0SRWuu8EbXNjhwu94"
     },
     {
       "album": {

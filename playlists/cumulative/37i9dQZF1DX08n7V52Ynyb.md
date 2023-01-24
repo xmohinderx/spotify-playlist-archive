@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-157 songs - 11 hr 43 min
+158 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [I'll Be Seeing You](https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 3:19 | 2022-04-13 |  |
 | [I'm a Fool to Want You](https://open.spotify.com/track/7LVIhJkFdSrhFbD7qo0OOq) | [Laverne Butler](https://open.spotify.com/artist/2iE4tV40WH7VZKH9pfdnMi) | [Blues in the City](https://open.spotify.com/album/67s8dczNzhEOzVYKM23LNw) | 5:03 | 2022-04-13 |  |
 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/5Ihx6oOsUBYF0Zp6zUC7fk) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 5:04 | 2022-09-28 |  |
-| [If I Had You](https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [The Art of Jazz with Miriam Netti](https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2) | 5:20 | 2022-04-13 |  |
+| [If I Had You](https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [The Art of Jazz with Miriam Netti](https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2) | 5:20 | 2022-04-13 | 2023-01-24 |
 | [If You Could See Me Now](https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH) | [Vanessa Rubin](https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ) | [The Dream Is You: Vanessa Rubin Sings Tadd Dameron](https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO) | 7:10 | 2022-04-13 |  |
 | [If You Love Me](https://open.spotify.com/track/7i9RIEuPvpQ8NtfI0dSJeK) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:34 | 2022-04-13 | 2022-06-01 |
 | [In A Sentimental Mood](https://open.spotify.com/track/0goyk1vNnbD2GKXG96Fz0N) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [London/Paris](https://open.spotify.com/album/6rKUMTAyDdl3ynkCm29BwW) | 6:50 | 2022-04-13 | 2022-11-13 |
@@ -107,6 +107,7 @@
 | [My Future Just Passed \- From "Safety In Numbers"](https://open.spotify.com/track/0cSlVyagvzpWEFmhOqJS2P) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 2:41 | 2022-04-13 | 2022-10-12 |
 | [My Mood Is You](https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE) | [Freddy Cole](https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK) | [My Mood Is You](https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY) | 5:45 | 2022-04-13 |  |
 | [My Ship](https://open.spotify.com/track/0rxCbuvEGu9Bk7t1UOO2iu) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places](https://open.spotify.com/album/7lIpEhDFt06b3HdY1oGhIP) | 4:09 | 2022-04-13 | 2022-07-29 |
+| [My Ship](https://open.spotify.com/track/2CW9ojLmE3GM7h7xdfCXXb) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:09 | 2023-01-19 |  |
 | [My Ship \- Special Edition](https://open.spotify.com/track/4CAfKmZlIn6TPczUUhv2CM) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:09 | 2022-07-21 | 2023-01-13 |
 | [Nice Work If You Can Get It](https://open.spotify.com/track/3ZVNxTUtCAZLZ9crzmeKiM) | [Kristina Ray](https://open.spotify.com/artist/19kiwdKOPTvmocMNLHwcyh) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WgyFRut3JtYjSRdFbxgYU) | 3:25 | 2022-04-13 |  |
 | [Night and Day](https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Daniel Karlsson](https://open.spotify.com/artist/133ujfci80J2umYb3Oas89) | [The Night and the Music](https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k) | 4:09 | 2022-04-13 |  |

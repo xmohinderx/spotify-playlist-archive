@@ -527,6 +527,32 @@
     },
     {
       "album": {
+        "name": "Valhalla",
+        "url": "https://open.spotify.com/album/2mtXhQ7aX1uL8BJIhwyIce"
+      },
+      "artists": [
+        {
+          "name": "Dillin Hoox",
+          "url": "https://open.spotify.com/artist/5MGKryqtJfI7dlfJMTBQM0"
+        },
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Sir Jax",
+          "url": "https://open.spotify.com/artist/0QhGyoIiXPdih6B4K6lKNC"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211807,
+      "name": "Unbroken",
+      "url": "https://open.spotify.com/track/4NhpxU9W1NtpKTjjvhPvCw"
+    },
+    {
+      "album": {
         "name": "Vim",
         "url": "https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z"
       },

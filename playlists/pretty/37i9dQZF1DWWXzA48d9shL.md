@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$ and Germ
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,233 likes - 89 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,118 likes - 89 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

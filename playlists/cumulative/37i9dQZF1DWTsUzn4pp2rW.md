@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-259 songs - 16 hr 44 min
+260 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [At Last](https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [At Last](https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR) | 2:44 | 2021-11-19 | 2022-11-25 |
 | [At the End of the Day](https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [At the End of the Day](https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O) | 3:36 | 2021-11-19 | 2022-11-25 |
 | [Autumn Breeze](https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Autumn Breeze](https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj) | 4:01 | 2022-12-08 |  |
+| [Baby](https://open.spotify.com/track/7Lo9xvnSEyh1dodL2QS79u) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Gabi Hartmann](https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv) | 3:37 | 2023-01-19 |  |
 | [Baby, It's Cold Outside](https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe) | [JP Maurice](https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt), [Pyper Geddes](https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ) | [Baby, It's Cold Outside](https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg) | 3:08 | 2021-11-19 | 2022-10-08 |
 | [Back to the Start](https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2) | [Gordon Robertson](https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5) | [Back to the Start](https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6) | 3:16 | 2021-11-19 | 2022-10-20 |
 | [Back to the Start](https://open.spotify.com/track/7agNYU4Fce4a529KY5JH4n) | [Gordon Robertson](https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5) | [Back to the Start](https://open.spotify.com/album/0vjT6cQ1x6LoMXidziBoJm) | 3:16 | 2022-10-13 | 2022-10-27 |
@@ -233,7 +234,7 @@
 | [The Christmas Sweater](https://open.spotify.com/track/30QRKfHBopZn6UNqqSJQ9O) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:43 | 2021-11-19 | 2022-01-19 |
 | [The Light](https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N) | [A Blue Flame](https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo) | [Love Rushes Past](https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0) | 2:40 | 2021-11-19 | 2022-10-27 |
 | [the road is narrow](https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD) | [Jecca](https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg) | [The Road Is Narrow](https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b) | 3:14 | 2021-11-19 | 2022-10-27 |
-| [The Sorrow It Shows](https://open.spotify.com/track/7cZenJ6XodfUnnZ0wwbFih) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [The Sorrow It Shows](https://open.spotify.com/album/5gjE4MoGl4w4voVWUZxGW5) | 5:49 | 2023-01-12 |  |
+| [The Sorrow It Shows](https://open.spotify.com/track/7cZenJ6XodfUnnZ0wwbFih) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [The Sorrow It Shows](https://open.spotify.com/album/5gjE4MoGl4w4voVWUZxGW5) | 5:49 | 2023-01-12 | 2023-01-24 |
 | [The Very Thought of You](https://open.spotify.com/track/2VCVI7kOR2LnRB4I3urO1i) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [The Very Thought of You](https://open.spotify.com/album/4DqgZIfkIxAxOkERNB1Fuh) | 4:43 | 2021-11-19 | 2022-07-29 |
 | [The Very Thought Of You](https://open.spotify.com/track/5cEDAmOy6U1AF9CAU7FvAk) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [This Is Not Jazz](https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM) | 4:43 | 2022-07-14 | 2022-10-08 |
 | [There is a place](https://open.spotify.com/track/4PMRpsHIVyQz7m1e6bt7YG) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/0BdvVRQ0vqLlhKQHakjf2E) | 4:07 | 2022-11-09 |  |

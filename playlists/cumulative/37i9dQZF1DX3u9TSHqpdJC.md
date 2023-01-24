@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Florence Arman
 
-2,698 songs - 5 day 17 hr 49 min
+2,699 songs - 5 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1401,7 +1401,8 @@
 | [Live A Lie](https://open.spotify.com/track/3MhU4XAnNLoRgnXUQTKhJv) | [Daniel Ness](https://open.spotify.com/artist/07debvUg9VR3YtHwQpiWQI), [Mikey Enwright](https://open.spotify.com/artist/0ZDYUmvfOj3XAHSIkeepyn) | [Live A Lie](https://open.spotify.com/album/0pV03l7tUcyoqxqtmoZoFC) | 3:34 | 2021-05-13 | 2021-05-27 |
 | [Live in the Moment](https://open.spotify.com/track/7MIjodQhfdru2t4KLVLVew) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Live in the Moment](https://open.spotify.com/album/1LbxR6AHogmbqc7nf5H9p7) | 2:44 | 2022-03-02 | 2022-03-24 |
 | [Livin' Without](https://open.spotify.com/track/58MDVLRaB2lvXCjb2uKnf2) | [Alice L](https://open.spotify.com/artist/1nW8DYd8F1blpOdlAWtlq8) | [Livin' Without](https://open.spotify.com/album/0RtjJUKs3Wg873NHAjVf9L) | 3:11 | 2021-02-25 | 2021-03-25 |
-| [Living in a Story](https://open.spotify.com/track/2GcSGT0N04Ny468cIH3onE) | [JUKO](https://open.spotify.com/artist/3lVblCbubTDS9LpQnqBWuR), [ROBY](https://open.spotify.com/artist/3HQu8KsELYVztBTEZU7k9y) | [Living in a Story](https://open.spotify.com/album/7zbtD8YOUoGrw9yRHrFenl) | 3:08 | 2023-01-18 |  |
+| [Living in a Story](https://open.spotify.com/track/12GBUVtSJUt0pJXE8GB0fi) | [JUKO](https://open.spotify.com/artist/3lVblCbubTDS9LpQnqBWuR), [ROBY](https://open.spotify.com/artist/3HQu8KsELYVztBTEZU7k9y) | [Living in a Story](https://open.spotify.com/album/2R7E9yQt1vihRU620Oi05V) | 3:08 | 2023-01-18 |  |
+| [Living in a Story](https://open.spotify.com/track/2GcSGT0N04Ny468cIH3onE) | [JUKO](https://open.spotify.com/artist/3lVblCbubTDS9LpQnqBWuR), [ROBY](https://open.spotify.com/artist/3HQu8KsELYVztBTEZU7k9y) | [Living in a Story](https://open.spotify.com/album/7zbtD8YOUoGrw9yRHrFenl) | 3:08 | 2023-01-18 | 2023-01-24 |
 | [LMITE](https://open.spotify.com/track/016KRWD0xLWWZiM4rOaBkV) | [Liya Bombardier](https://open.spotify.com/artist/5Mpu0Q3NtAKnagP9pUJrxk) | [LMITE](https://open.spotify.com/album/2elu8ENx8EpK8K5RrJDHMP) | 2:31 | 2022-10-12 | 2022-12-01 |
 | [lmk \(if you wanna see me\)](https://open.spotify.com/track/02uX1KBHVg0tlsg7qWUoFF) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [lmk \(if you wanna see me\)](https://open.spotify.com/album/6pCzO9GHk5BwemP3eyAX2b) | 3:45 | 2021-06-18 | 2021-08-05 |
 | [LMLY](https://open.spotify.com/track/5CZOYT9fcPlchymimqMpXt) | [Jared Minnix](https://open.spotify.com/artist/2GXNpaddQJ98IyslS7fB5S), [With Løve](https://open.spotify.com/artist/0x0UI85q7lIdGMEZsNH5fm) | [LMLY](https://open.spotify.com/album/2KdpvKmI1PKsuhq2HpMVat) | 3:02 | 2020-10-13\* | 2020-10-29 |

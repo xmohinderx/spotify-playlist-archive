@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer!  Foto: THAIS / Arte: Isu Kim",
-  "num_followers": 14637,
+  "num_followers": 14663,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4Mzc4MCwwMDAwMDAwMDc5OGQ5NGM5YTZiYzM0NjllZmM5NGI2OTkwZGE2ZDY1",
+  "snapshot_id": "MTY3NDE4Mzc4MCwwMDAwMDAwMDc2NTZhMjcyNGE3NmY3ZDNhMTlmMjkxYTY4MjlhNzYx",
   "tracks": [
     {
       "added_at": "2023-01-13 03:03:00",
@@ -265,6 +265,26 @@
       "url": "https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa"
     },
     {
+      "added_at": "2023-01-24 01:12:50",
+      "album": {
+        "name": "Rubi",
+        "url": "https://open.spotify.com/album/4mPPWXKxDCobEMiOBtxNE1"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 209577,
+      "name": "Absurda",
+      "url": "https://open.spotify.com/track/4jhTigzWPItapKZ9RP3CWC"
+    },
+    {
       "added_at": "2023-01-13 03:03:00",
       "album": {
         "name": "Castigo",
@@ -295,26 +315,6 @@
       "duration_ms": 206484,
       "name": "A Vida \u00e9 Uma Granada",
       "url": "https://open.spotify.com/track/6MCrJunzD53N8RzvbuzkXm"
-    },
-    {
-      "added_at": "2023-01-23 01:24:27",
-      "album": {
-        "name": "Rubi",
-        "url": "https://open.spotify.com/album/4mPPWXKxDCobEMiOBtxNE1"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 209577,
-      "name": "Absurda",
-      "url": "https://open.spotify.com/track/4jhTigzWPItapKZ9RP3CWC"
     },
     {
       "added_at": "2023-01-13 03:03:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-01-13 03:03:00",
       "album": {
-        "name": "Voc\u00ea Sabe",
-        "url": "https://open.spotify.com/album/0a7kpNIwzEw2tSJYKLdpgF"
-      },
-      "artists": [
-        {
-          "name": "TEG\u00ca",
-          "url": "https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "Voc\u00ea Sabe",
-      "url": "https://open.spotify.com/track/0q87XSebhb3julIjgYtFwf"
-    },
-    {
-      "added_at": "2023-01-13 03:03:00",
-      "album": {
         "name": "Estou Aqui",
         "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 227234,
       "name": "Del\u00edrio",
       "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
+    },
+    {
+      "added_at": "2023-01-13 03:03:00",
+      "album": {
+        "name": "Voc\u00ea Sabe",
+        "url": "https://open.spotify.com/album/0a7kpNIwzEw2tSJYKLdpgF"
+      },
+      "artists": [
+        {
+          "name": "TEG\u00ca",
+          "url": "https://open.spotify.com/artist/18nE4hjHEiTKeE5kNerL0F"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "Voc\u00ea Sabe",
+      "url": "https://open.spotify.com/track/0q87XSebhb3julIjgYtFwf"
     },
     {
       "added_at": "2023-01-13 03:03:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-13 03:03:00",
       "album": {
-        "name": "N\u00e3o Complica",
-        "url": "https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ"
-      },
-      "artists": [
-        {
-          "name": "Mavi",
-          "url": "https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f"
-        }
-      ],
-      "duration_ms": 161668,
-      "name": "N\u00e3o Complica",
-      "url": "https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A"
-    },
-    {
-      "added_at": "2023-01-13 03:03:00",
-      "album": {
         "name": "Do Meu Lado",
         "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 151187,
       "name": "Do Meu Lado",
       "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
+    },
+    {
+      "added_at": "2023-01-13 03:03:00",
+      "album": {
+        "name": "N\u00e3o Complica",
+        "url": "https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ"
+      },
+      "artists": [
+        {
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f"
+        }
+      ],
+      "duration_ms": 161668,
+      "name": "N\u00e3o Complica",
+      "url": "https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A"
     },
     {
       "added_at": "2023-01-13 03:03:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-01-13 03:03:00",
       "album": {
-        "name": "vc \u00e9 uma bagun\u00e7a",
-        "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
+        "name": "Poema Suspenso",
+        "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
       },
       "artists": [
         {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+          "name": "Rizzih",
+          "url": "https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64"
         }
       ],
-      "duration_ms": 171084,
-      "name": "vc \u00e9 uma bagun\u00e7a",
-      "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
+      "duration_ms": 178935,
+      "name": "(((V\u00eanus)))",
+      "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
     },
     {
       "added_at": "2023-01-13 03:03:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-01-13 03:03:00",
       "album": {
-        "name": "Poema Suspenso",
-        "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
+        "name": "vc \u00e9 uma bagun\u00e7a",
+        "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
       },
       "artists": [
         {
-          "name": "Rizzih",
-          "url": "https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64"
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
         }
       ],
-      "duration_ms": 178935,
-      "name": "(((V\u00eanus)))",
-      "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
+      "duration_ms": 171084,
+      "name": "vc \u00e9 uma bagun\u00e7a",
+      "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
     },
     {
       "added_at": "2023-01-13 03:03:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-01-13 03:03:00",
       "album": {
+        "name": "Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
+      },
+      "artists": [
+        {
+          "name": "Malu Azevedo",
+          "url": "https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R"
+        }
+      ],
+      "duration_ms": 201734,
+      "name": "Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
+    },
+    {
+      "added_at": "2023-01-13 03:03:00",
+      "album": {
         "name": "V\u00edcio Que C\u00ea Tem Em Mim",
         "url": "https://open.spotify.com/album/6lLhGUbpGSVUuGhlp1BHrg"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 162045,
       "name": "V\u00edcio Que C\u00ea Tem Em Mim",
       "url": "https://open.spotify.com/track/7uSJeb5UvlZlPD0eTPaz9a"
-    },
-    {
-      "added_at": "2023-01-13 03:03:00",
-      "album": {
-        "name": "Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
-      },
-      "artists": [
-        {
-          "name": "Malu Azevedo",
-          "url": "https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R"
-        }
-      ],
-      "duration_ms": 201734,
-      "name": "Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
     },
     {
       "added_at": "2023-01-13 03:03:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-01-13 03:03:00",
       "album": {
-        "name": "P\u00f4r do Sol",
-        "url": "https://open.spotify.com/album/5tgyf2RZII4PP9Lwr7vBwA"
-      },
-      "artists": [
-        {
-          "name": "Agriff",
-          "url": "https://open.spotify.com/artist/6Ul0pkOz1OTOLnvI5et5nn"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "P\u00f4r do Sol",
-      "url": "https://open.spotify.com/track/27UVEuLVKW5POr1SzoSL9I"
-    },
-    {
-      "added_at": "2023-01-13 03:03:00",
-      "album": {
         "name": "Ma\u00e7\u00e3 do Amor",
         "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 275882,
       "name": "Se Eu Te Ver de Novo",
       "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
+    },
+    {
+      "added_at": "2023-01-13 03:03:00",
+      "album": {
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5tgyf2RZII4PP9Lwr7vBwA"
+      },
+      "artists": [
+        {
+          "name": "Agriff",
+          "url": "https://open.spotify.com/artist/6Ul0pkOz1OTOLnvI5et5nn"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/27UVEuLVKW5POr1SzoSL9I"
     },
     {
       "added_at": "2023-01-13 03:03:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-01-13 03:03:00",
       "album": {
-        "name": "Deixa Pra L\u00e1",
-        "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
-      },
-      "artists": [
-        {
-          "name": "Verdan",
-          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Deixa Pra L\u00e1",
-      "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
-    },
-    {
-      "added_at": "2023-01-13 03:03:00",
-      "album": {
         "name": "Ilumina\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0ylkFXM9W3rU9KdYKCcxhz"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 182812,
       "name": "Ilumina\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5sp58UU6H0Nt64JyW2AteE"
+    },
+    {
+      "added_at": "2023-01-13 03:03:00",
+      "album": {
+        "name": "Deixa Pra L\u00e1",
+        "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
+      },
+      "artists": [
+        {
+          "name": "Verdan",
+          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Deixa Pra L\u00e1",
+      "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
     },
     {
       "added_at": "2023-01-13 03:03:00",
@@ -1317,7 +1317,7 @@
       "url": "https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1"
     },
     {
-      "added_at": "2023-01-23 01:24:27",
+      "added_at": "2023-01-24 01:12:50",
       "album": {
         "name": "Gali Gal\u00f3",
         "url": "https://open.spotify.com/album/2CUJ9wMHidLaX2UI2K3JQ9"

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,958 songs - 4 day 16 hr 45 min
+1,959 songs - 4 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1687,6 +1687,7 @@
 | [The Guns of Shiloh](https://open.spotify.com/track/6YE3338iJZL6MeaeDoSmx9) | [The Uninvited](https://open.spotify.com/artist/4Brr0ghVfmQZblFH40zIOB) | [The Guns of Shiloh](https://open.spotify.com/album/3RIyq6frD12oYUnuLWyG8O) | 6:02 | 2022-11-11 | 2022-12-03 |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-09 | 2022-05-10 |
 | [The Last Night \(Dancing With You\)](https://open.spotify.com/track/76ZAq6niFYnyC3ZawAeIR5) | [Niki Kennedy](https://open.spotify.com/artist/56anbQyF2Qn6STCHu9wC2m) | [The Last Night \(Dancing With You\)](https://open.spotify.com/album/3mB5vvRnoJFXhaRDIIzwfu) | 3:13 | 2021-06-26 | 2021-07-11 |
+| [The Last Word](https://open.spotify.com/track/7zFaOiJj5igKMWoZw0Rh33) | [Olivia Burnette](https://open.spotify.com/artist/2B5P0MxeVJINZAnyEueoCJ) | [The Last Word](https://open.spotify.com/album/5dLDguHx5T0EiedBxwJhs3) | 3:16 | 2023-01-23 |  |
 | [The Middle](https://open.spotify.com/track/1LhNYIwU73AoGtQqR0Na4u) | [Stone Jets](https://open.spotify.com/artist/1RqKaZtnoko0n8YpgLNZkx) | [The Middle](https://open.spotify.com/album/40yksFSu3zk5H4LKqv2ZUn) | 3:12 | 2022-01-28 | 2022-02-13 |
 | [The Night is Young \- Remix](https://open.spotify.com/track/2u2RyJu64geXfFL0YMXXPM) | [Daemon](https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt), [Zech Biship](https://open.spotify.com/artist/0rPAd3q71tIiLr8iS2ZHIx) | [With the Gang b/w The Night is Young \(Remix\)](https://open.spotify.com/album/46rZzXplrgOyPR0c8KNMqX) | 2:55 | 2022-01-14 | 2022-01-30 |
 | [The One](https://open.spotify.com/track/3UDeCMBXvqomGF7I0W2jLf) | [Brownsuede](https://open.spotify.com/artist/2cGslndmeHnGFbe1S2ESGQ) | [The One](https://open.spotify.com/album/0eMQV9QNcSYcxc5egJQ7Cj) | 3:51 | 2021-01-15 | 2021-02-04 |

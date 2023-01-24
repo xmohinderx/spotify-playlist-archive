@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,687 likes - 124 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,767 likes - 124 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

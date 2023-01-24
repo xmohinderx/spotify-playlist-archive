@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 672117,
+  "num_followers": 673324,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NTczMiwwMDAwMDAwMDY5YjhjNWY5MjMxMjczMzIyMjEzZDgzNmIxZjcxN2Vm",
+  "snapshot_id": "MTY3MzU1NTczMiwwMDAwMDAwMGNkYWU1ZmM5NWQ2NGRlNzlmNDQ1NTM1NzIxZjllYzgy",
   "tracks": [
     {
       "added_at": "2023-01-12 20:35:32",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
+        "name": "green to blue (slowed + reverbed)",
+        "url": "https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "duration_ms": 187068,
+      "name": "green to blue - slowed + reverbed",
+      "url": "https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ"
+    },
+    {
+      "added_at": "2023-01-12 20:35:32",
+      "album": {
         "name": "Married In Vegas (Matoma Remix)",
         "url": "https://open.spotify.com/album/4YqfRZEKP1rDqKK1LNBjbU"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 244797,
       "name": "All Night - Slowed N Reverb",
       "url": "https://open.spotify.com/track/1gk5o5yEXAsHeXMJoavmh3"
-    },
-    {
-      "added_at": "2023-01-12 20:35:32",
-      "album": {
-        "name": "green to blue (slowed + reverbed)",
-        "url": "https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s"
-      },
-      "artists": [
-        {
-          "name": "daniel.mp3",
-          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
-        }
-      ],
-      "duration_ms": 187068,
-      "name": "green to blue - slowed + reverbed",
-      "url": "https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ"
     },
     {
       "added_at": "2023-01-12 20:35:32",
@@ -483,26 +483,6 @@
     {
       "added_at": "2023-01-12 20:35:32",
       "album": {
-        "name": "Banakula @ Meh (Original)",
-        "url": "https://open.spotify.com/album/6ZnmsjIq9ZSe9MXwaZ6QQs"
-      },
-      "artists": [
-        {
-          "name": "LLusion",
-          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
-        },
-        {
-          "name": "Hal Walker",
-          "url": "https://open.spotify.com/artist/6GD3EDNcRB99xxR6g7Fnrw"
-        }
-      ],
-      "duration_ms": 106867,
-      "name": "Meh (Banakula) - Slowed",
-      "url": "https://open.spotify.com/track/0aswWa6WvtPPCNSDTneSay"
-    },
-    {
-      "added_at": "2023-01-12 20:35:32",
-      "album": {
         "name": "Escapism. (Slowed Down)",
         "url": "https://open.spotify.com/album/3JHBuPAYgG72bLORrTFSTU"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 287135,
       "name": "Escapism. - Slowed Down",
       "url": "https://open.spotify.com/track/4D8h7lEUY0tVRGuX17tz3f"
+    },
+    {
+      "added_at": "2023-01-12 20:35:32",
+      "album": {
+        "name": "Banakula @ Meh (Original)",
+        "url": "https://open.spotify.com/album/6ZnmsjIq9ZSe9MXwaZ6QQs"
+      },
+      "artists": [
+        {
+          "name": "LLusion",
+          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
+        },
+        {
+          "name": "Hal Walker",
+          "url": "https://open.spotify.com/artist/6GD3EDNcRB99xxR6g7Fnrw"
+        }
+      ],
+      "duration_ms": 106867,
+      "name": "Meh (Banakula) - Slowed",
+      "url": "https://open.spotify.com/track/0aswWa6WvtPPCNSDTneSay"
     },
     {
       "added_at": "2023-01-12 20:35:32",

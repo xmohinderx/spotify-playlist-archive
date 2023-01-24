@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Against The Current
 
-871 songs - 1 day 22 hr 27 min
+872 songs - 1 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Kalifornia](https://open.spotify.com/track/7scG1vQTiKiSFV8PtZLXno) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Change the Waters Complete Collection: Burn Your Past & Show Your Scars](https://open.spotify.com/album/61qnsIwiPOAFOvHfRpgpHW) | 4:11 | 2022-02-04 | 2022-05-05 |
 | [Karma](https://open.spotify.com/track/78gke8uqCWgeqeQm6I9CGi) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Karma](https://open.spotify.com/album/6sAj0SGGvTWstC9pDDQhJX) | 2:39 | 2021-12-10 | 2022-05-20 |
 | [Keep Me Up All Night](https://open.spotify.com/track/0mFiMf9DFfiIzAi2E5nk1d) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Keep Me Up All Night](https://open.spotify.com/album/5UGljbXNsZiZ8tDmMIaWdB) | 3:37 | 2021-12-10 | 2022-07-28 |
+| [Keep Me Up All Night](https://open.spotify.com/track/5sgFUQAbvYZCujpbZfgD0w) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 3:37 | 2022-12-02 |  |
 | [Kicked in the Face](https://open.spotify.com/track/2uY7tWaCdu0W1QRwdKP2bw) | [A Step Ahead](https://open.spotify.com/artist/7LgMETw5wUxCOnKwxkN3l6) | [Kicked in the Face](https://open.spotify.com/album/2nYzPItI9vjFLbb9T3boUo) | 2:58 | 2021-12-10 | 2022-07-29 |
 | [Kill Me Better \(feat\. Imanbek & Trevor Daniel\) \- Travis Barker Alt Version](https://open.spotify.com/track/5XASykUa4APCYgGSa1JIVH) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Kill Me Better \(feat\. Imanbek & Trevor Daniel\) \[Travis Barker Alt Version\]](https://open.spotify.com/album/4cqbRGS61Uvql3MQHXEuRD) | 3:15 | 2021-12-10 | 2022-07-27 |
 | [Kill The Girl](https://open.spotify.com/track/1Wuz7gQuVAj3BI3Bf53jeh) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [Kill The Girl](https://open.spotify.com/album/4UTqbTCZIvxPBnA5hRUgLk) | 2:50 | 2022-03-25 | 2022-05-05 |
@@ -735,7 +736,7 @@
 | [The Antidote](https://open.spotify.com/track/2LnsEYFfPwk6ueO2OCBNLA) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Antidote](https://open.spotify.com/album/5Hv9wT0F9Mq2HPcA3Ce1Rl) | 3:15 | 2021-12-10 | 2022-07-29 |
 | [The Antidote](https://open.spotify.com/track/79Cr40AJWWnmUNTxyi2nhp) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:15 | 2022-07-08 |  |
 | [The Awful Truth](https://open.spotify.com/track/1FAlry81kFuC6ihhhpVAtM) | [Catholic Guilt](https://open.spotify.com/artist/5PCZtucj9Akr6zuVUqXYQZ) | [The Awful Truth](https://open.spotify.com/album/0q8RzansKF3z4GvL13MxmW) | 4:15 | 2022-01-14 | 2022-04-14 |
-| [The Baby Panda](https://open.spotify.com/track/4kRS2jPnDN9f0mDpCnYai5) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl), [Laura Stevenson](https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg) | [The Baby Panda](https://open.spotify.com/album/3PZCUu3tPDTU0NamSdSwXr) | 1:49 | 2022-12-02 |  |
+| [The Baby Panda](https://open.spotify.com/track/4kRS2jPnDN9f0mDpCnYai5) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl), [Laura Stevenson](https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg) | [The Baby Panda](https://open.spotify.com/album/3PZCUu3tPDTU0NamSdSwXr) | 1:49 | 2022-12-02 | 2023-01-24 |
 | [The Best Part](https://open.spotify.com/track/7vc29Fq0rzgpG8RGe8aoKM) | [Cadet Carter](https://open.spotify.com/artist/1JpisZfiasQzthtFyBC2Jf) | [The Best Part](https://open.spotify.com/album/2FZCDJArJeuFFJqrEfJrWy) | 3:32 | 2022-02-04 | 2022-05-03 |
 | [The Earth Will Swallow Me Whole](https://open.spotify.com/track/7BE5fMou61X6PH4xY0nvXY) | [Overgrow](https://open.spotify.com/artist/0JF3phIHeUwu0WwMBGvegA) | [The Name We Share](https://open.spotify.com/album/6vW7iTJmX0pWVusTt7bOMk) | 3:00 | 2021-12-10 | 2022-07-09 |
 | [The Emperor](https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Emperor](https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt) | 2:55 | 2022-08-05 |  |

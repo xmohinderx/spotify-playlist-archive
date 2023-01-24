@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Eyshila, Gabriel Guedes de Almeida",
-  "num_followers": 888462,
+  "num_followers": 888696,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMGMxMDQwYjQzYmNkYTU4Yzc0ZjkzODNhZTEzMjAzYzZl",
+  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMGRlMDJkZmE5YzZmZjU2YTgwZjAzN2MyNzU5ODQ5MTFi",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -155,26 +155,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 454133,
-      "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us - Ao Vivo",
-      "url": "https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Ele \u00c9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 357160,
       "name": "A B\u00ean\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1evlfCwP69atq9ahcTggiu"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 454133,
+      "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us - Ao Vivo",
+      "url": "https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "Volte a Sonhar",
-      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "O Amor Tem Um Nome (Ao Vivo)",
         "url": "https://open.spotify.com/album/1pYPXvssuXozUQKxQu5xt2"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 427444,
       "name": "O Amor Tem Um Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/6iNLDkJjEGaqguwPWwfrXx"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "Volte a Sonhar",
+      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Seu Amor / Diante da Cruz",
-        "url": "https://open.spotify.com/album/416qFfcOtOGNzeWaCARGMS"
+        "name": "Quero Voltar Pra Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
       },
       "artists": [
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
         }
       ],
-      "duration_ms": 497600,
-      "name": "Seu Amor / Diante da Cruz",
-      "url": "https://open.spotify.com/track/2OmZjKpXjbDWXEsw1JEy1x"
+      "duration_ms": 365080,
+      "name": "Quero Voltar Pra Casa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -859,34 +855,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Eu Vou Construir",
-        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
+        "name": "Seu Amor / Diante da Cruz",
+        "url": "https://open.spotify.com/album/416qFfcOtOGNzeWaCARGMS"
       },
       "artists": [
         {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 409459,
-      "name": "Eu Vou Construir",
-      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Quero Voltar Pra Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
-      },
-      "artists": [
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
         {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
         }
       ],
-      "duration_ms": 365080,
-      "name": "Quero Voltar Pra Casa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
+      "duration_ms": 497600,
+      "name": "Seu Amor / Diante da Cruz",
+      "url": "https://open.spotify.com/track/2OmZjKpXjbDWXEsw1JEy1x"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -907,6 +891,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Eu Vou Construir",
+        "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 409459,
+      "name": "Eu Vou Construir",
+      "url": "https://open.spotify.com/track/4DVIA9RLre5v407SeMerY3"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "O Que Meu Deus Vai Fazer",
         "url": "https://open.spotify.com/album/4ehTfzNv75xtNa7t080T8I"
       },
@@ -923,22 +923,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Eu Amo a Tua Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vdMe0H5bGJDKJVqbuheca"
+        "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft"
       },
       "artists": [
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
         }
       ],
-      "duration_ms": 538613,
-      "name": "Eu Amo a Tua Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/6bA5Bt4d2drlsBOYAghABi"
+      "duration_ms": 378000,
+      "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -963,22 +959,6 @@
       "duration_ms": 342905,
       "name": "LE\u00c3O (LION) (feat. Chris Brown & Thalles Roberto)",
       "url": "https://open.spotify.com/track/2UnJa5chfcRDI60rLvpZKD"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 378000,
-      "name": "Eu N\u00e3o Perdi o Controle (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1015,6 +995,26 @@
       "duration_ms": 229759,
       "name": "Espera S\u00f3 Mais um Pouquinho",
       "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Eu Amo a Tua Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vdMe0H5bGJDKJVqbuheca"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        }
+      ],
+      "duration_ms": 538613,
+      "name": "Eu Amo a Tua Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bA5Bt4d2drlsBOYAghABi"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Deus Poderoso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZXmwYHyVQYQPjRJ4MU5Za"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 326666,
+      "name": "Deus Poderoso - Ao Vivo",
+      "url": "https://open.spotify.com/track/4gFiMeIv6jYYYvsFT06j2u"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Oferta Agrad\u00e1vel a Ti (Ao Vivo)",
         "url": "https://open.spotify.com/album/7vEFU7qP9JvE468fXZyKqi"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 280520,
       "name": "Primeira Ess\u00eancia",
       "url": "https://open.spotify.com/track/2E5vUmPIQLIuqV0gE67bWy"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Deus Poderoso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZXmwYHyVQYQPjRJ4MU5Za"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 326666,
-      "name": "Deus Poderoso - Ao Vivo",
-      "url": "https://open.spotify.com/track/4gFiMeIv6jYYYvsFT06j2u"
     },
     {
       "added_at": "2023-01-20 03:00:00",

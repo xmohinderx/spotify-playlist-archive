@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos del pop y el rock interpretados con mariachi!",
-  "num_followers": 4998,
+  "num_followers": 5010,
   "original_name": "Mariachi Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMGMzNTk2YTZlOTdkNDc0YzNjY2M0MDk1ZWFjNTYzYmJm",
+  "snapshot_id": "MTY0MjE3ODg0OSwwMDAwMDAwMGMzODRkMjJhNjEzOTJlYmU0NTY1NjMwMTgzNGYzNjQz",
   "tracks": [
     {
       "added_at": "2021-07-28 19:40:38",
@@ -139,18 +139,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Exitos De Los Chicos De London (Instrumental)",
-        "url": "https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D"
       },
       "artists": [
         {
-          "name": "Los Mariachis",
-          "url": "https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk"
+          "name": "Mariachi Arco Iris",
+          "url": "https://open.spotify.com/artist/5TxkKchbD0Joui6g9sUwna"
         }
       ],
-      "duration_ms": 235146,
-      "name": "Killer Queen - Instrumental",
-      "url": "https://open.spotify.com/track/3L9bPBxPhitnEzTZI0YeU0"
+      "duration_ms": 202849,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -171,18 +171,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D"
+        "name": "Surfin' U.S.A.",
+        "url": "https://open.spotify.com/album/4o7MiBZ4O9X6FCRigl8mq9"
       },
       "artists": [
         {
-          "name": "Mariachi Arco Iris",
-          "url": "https://open.spotify.com/artist/5TxkKchbD0Joui6g9sUwna"
+          "name": "Mariachi La Playa",
+          "url": "https://open.spotify.com/artist/63QiMM7xCSzwYUvDuIcBHP"
         }
       ],
-      "duration_ms": 202849,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/167gl31uOXmVYazZz5TDhx"
+      "duration_ms": 137421,
+      "name": "Surfin' U.S.A.",
+      "url": "https://open.spotify.com/track/03Fwph4h6NoEBM2TXykIqQ"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -199,22 +199,6 @@
       "duration_ms": 198533,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/2LKet8MxLq0FY6PWvBIJFh"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
-        "name": "Sonidos de Jalisco, Vol. 3",
-        "url": "https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Rock-O",
-          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
-        }
-      ],
-      "duration_ms": 281133,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/6gJdDsFkT70iWUxgCsLId7"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -237,6 +221,22 @@
       "url": "https://open.spotify.com/track/2UEnNkf7ZHIY57yC1eOPOV"
     },
     {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Exitos De Los Chicos De London (Instrumental)",
+        "url": "https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21"
+      },
+      "artists": [
+        {
+          "name": "Los Mariachis",
+          "url": "https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk"
+        }
+      ],
+      "duration_ms": 235146,
+      "name": "Killer Queen - Instrumental",
+      "url": "https://open.spotify.com/track/3L9bPBxPhitnEzTZI0YeU0"
+    },
+    {
       "added_at": "2022-01-14 16:47:29",
       "album": {
         "name": "De M\u00fasica Ligera",
@@ -255,34 +255,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Exitos De Los Chicos De London (Instrumental)",
-        "url": "https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21"
+        "name": "Sonidos de Jalisco, Vol. 3",
+        "url": "https://open.spotify.com/album/2NsLXfknDB4MX0gumLdn5m"
       },
       "artists": [
         {
-          "name": "Los Mariachis",
-          "url": "https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk"
+          "name": "Mariachi Rock-O",
+          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
         }
       ],
-      "duration_ms": 117186,
-      "name": "We Will Rock You - Instrumental",
-      "url": "https://open.spotify.com/track/40qLT0EWRDmmC6inQjcpag"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
-        "name": "Mexipop",
-        "url": "https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF"
-      },
-      "artists": [
-        {
-          "name": "The Mariachis",
-          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
-        }
-      ],
-      "duration_ms": 203021,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/3SsKXdUXlrXy4A83TcUZYS"
+      "duration_ms": 281133,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/6gJdDsFkT70iWUxgCsLId7"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -303,34 +287,18 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Surfin' U.S.A.",
-        "url": "https://open.spotify.com/album/4o7MiBZ4O9X6FCRigl8mq9"
+        "name": "Hotel California",
+        "url": "https://open.spotify.com/album/7Hl79MeDqq31oPTcUl1A6K"
       },
       "artists": [
         {
-          "name": "Mariachi La Playa",
-          "url": "https://open.spotify.com/artist/63QiMM7xCSzwYUvDuIcBHP"
+          "name": "Mariachi Espiritus",
+          "url": "https://open.spotify.com/artist/7vAwj7m4gZrNW6QFt1MUO7"
         }
       ],
-      "duration_ms": 137421,
-      "name": "Surfin' U.S.A.",
-      "url": "https://open.spotify.com/track/03Fwph4h6NoEBM2TXykIqQ"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
-        "name": "Sonidos De Jalisco, Vol. 2",
-        "url": "https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Rock-O",
-          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "Close to Me",
-      "url": "https://open.spotify.com/track/23hc5fmduszPzhAzxS8zD0"
+      "duration_ms": 321000,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/7nfvquB7FYL5LSfaBqf7nd"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -351,6 +319,22 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
+        "name": "Mexipop",
+        "url": "https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF"
+      },
+      "artists": [
+        {
+          "name": "The Mariachis",
+          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
+        }
+      ],
+      "duration_ms": 203021,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/3SsKXdUXlrXy4A83TcUZYS"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
         "name": "Mariachi Entertainment System",
         "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
       },
@@ -367,18 +351,50 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Hotel California",
-        "url": "https://open.spotify.com/album/7Hl79MeDqq31oPTcUl1A6K"
+        "name": "Don't Stop Believin'",
+        "url": "https://open.spotify.com/album/4RT4RzWWHrZvmvenGRXH1s"
       },
       "artists": [
         {
-          "name": "Mariachi Espiritus",
-          "url": "https://open.spotify.com/artist/7vAwj7m4gZrNW6QFt1MUO7"
+          "name": "Mariachi Tierras Caliente",
+          "url": "https://open.spotify.com/artist/7LJyVXr5dlwxoGs9MMuBEC"
         }
       ],
-      "duration_ms": 321000,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/7nfvquB7FYL5LSfaBqf7nd"
+      "duration_ms": 223436,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/2CfLK1vKlBUZBrVmOeC4cJ"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Exitos De Los Chicos De London (Instrumental)",
+        "url": "https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21"
+      },
+      "artists": [
+        {
+          "name": "Los Mariachis",
+          "url": "https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk"
+        }
+      ],
+      "duration_ms": 117186,
+      "name": "We Will Rock You - Instrumental",
+      "url": "https://open.spotify.com/track/40qLT0EWRDmmC6inQjcpag"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Sonidos De Jalisco, Vol. 2",
+        "url": "https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Rock-O",
+          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
+        }
+      ],
+      "duration_ms": 214040,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/23hc5fmduszPzhAzxS8zD0"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -415,70 +431,6 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Exitos De Los Chicos De Liverpool (Instrumental)",
-        "url": "https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu"
-      },
-      "artists": [
-        {
-          "name": "Los Mariachis",
-          "url": "https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk"
-        }
-      ],
-      "duration_ms": 147120,
-      "name": "Eleanor Rigby - Instrumental",
-      "url": "https://open.spotify.com/track/7ME99GPDI0U0nGIGqzaJ1t"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
-        "name": "Ni\u00fc Mariachi Rock-Pop",
-        "url": "https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD"
-      },
-      "artists": [
-        {
-          "name": "Niu Mariachi",
-          "url": "https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb"
-        }
-      ],
-      "duration_ms": 165581,
-      "name": "Have You Ever Seen the Rain",
-      "url": "https://open.spotify.com/track/0OMpwg10761Hr1EvwzTGbl"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
-        "name": "Don't Stop Believin'",
-        "url": "https://open.spotify.com/album/4RT4RzWWHrZvmvenGRXH1s"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Tierras Caliente",
-          "url": "https://open.spotify.com/artist/7LJyVXr5dlwxoGs9MMuBEC"
-        }
-      ],
-      "duration_ms": 223436,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/2CfLK1vKlBUZBrVmOeC4cJ"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
-        "name": "Sonidos De Jalisco, Vol. 2",
-        "url": "https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Rock-O",
-          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
-        }
-      ],
-      "duration_ms": 282013,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/6CY37aBltN0vfdi1SNAkfk"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
         "name": "The Book of Life (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0"
       },
@@ -507,6 +459,38 @@
       "duration_ms": 20720,
       "name": "Do Ya Think I'm Sexy",
       "url": "https://open.spotify.com/track/1wp54f6s6QA7RnqrUySUOb"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Ni\u00fc Mariachi Rock-Pop",
+        "url": "https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD"
+      },
+      "artists": [
+        {
+          "name": "Niu Mariachi",
+          "url": "https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb"
+        }
+      ],
+      "duration_ms": 165581,
+      "name": "Have You Ever Seen the Rain",
+      "url": "https://open.spotify.com/track/0OMpwg10761Hr1EvwzTGbl"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Sonidos De Jalisco, Vol. 2",
+        "url": "https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Rock-O",
+          "url": "https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98"
+        }
+      ],
+      "duration_ms": 282013,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/6CY37aBltN0vfdi1SNAkfk"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -559,22 +543,6 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
-        "name": "Mariachi Entertainment System",
-        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Entertainment System",
-          "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Polka Medley: Gourmet Race (from \"Kirby Super Star\") / Music A [from \"Tetris\"] /Ending [from \"Super Mario World\"]",
-      "url": "https://open.spotify.com/track/1fjSZMDvDHe4T4uuoxRGOP"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
         "name": "Tres",
         "url": "https://open.spotify.com/album/7gn4wimMjqxFD4Qd6JuKCw"
       },
@@ -607,6 +575,22 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
+        "name": "Mariachi Entertainment System",
+        "url": "https://open.spotify.com/album/4zWoXcRFJvf1xAFa92pMYi"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Entertainment System",
+          "url": "https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Polka Medley: Gourmet Race (from \"Kirby Super Star\") / Music A [from \"Tetris\"] /Ending [from \"Super Mario World\"]",
+      "url": "https://open.spotify.com/track/1fjSZMDvDHe4T4uuoxRGOP"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
         "name": "Ni\u00fc Mariachi Rock-Pop",
         "url": "https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 241382,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/2bDhqkRWUpEVXHFJzJ780i"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
+        "name": "Exitos De Los Chicos De Liverpool (Instrumental)",
+        "url": "https://open.spotify.com/album/0O9zaZlb91ZFgm9Ken6YEu"
+      },
+      "artists": [
+        {
+          "name": "Los Mariachis",
+          "url": "https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk"
+        }
+      ],
+      "duration_ms": 147120,
+      "name": "Eleanor Rigby - Instrumental",
+      "url": "https://open.spotify.com/track/7ME99GPDI0U0nGIGqzaJ1t"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -703,6 +703,22 @@
     {
       "added_at": "2021-07-28 19:40:38",
       "album": {
+        "name": "Mexipop",
+        "url": "https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF"
+      },
+      "artists": [
+        {
+          "name": "The Mariachis",
+          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
+        }
+      ],
+      "duration_ms": 280053,
+      "name": "I'm Gonna Be (500 Miles)",
+      "url": "https://open.spotify.com/track/6qoY00hSrlzLUhxSbGo81U"
+    },
+    {
+      "added_at": "2021-07-28 19:40:38",
+      "album": {
         "name": "Mexican Party",
         "url": "https://open.spotify.com/album/45yT4fgq16M51hpnsSt5Qm"
       },
@@ -728,9 +744,9 @@
           "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
         }
       ],
-      "duration_ms": 280053,
-      "name": "I'm Gonna Be (500 Miles)",
-      "url": "https://open.spotify.com/track/6qoY00hSrlzLUhxSbGo81U"
+      "duration_ms": 198243,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/0BVCTEbIWzGCF75ByZzVBB"
     },
     {
       "added_at": "2021-07-28 19:40:38",
@@ -747,22 +763,6 @@
       "duration_ms": 235766,
       "name": "Livin' On a Prayer",
       "url": "https://open.spotify.com/track/3cw9u6r6bXd56btS5X4d6p"
-    },
-    {
-      "added_at": "2021-07-28 19:40:38",
-      "album": {
-        "name": "Mexipop",
-        "url": "https://open.spotify.com/album/46NfWVX2hjWS3GNP2pG3xF"
-      },
-      "artists": [
-        {
-          "name": "The Mariachis",
-          "url": "https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb"
-        }
-      ],
-      "duration_ms": 198243,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/0BVCTEbIWzGCF75ByZzVBB"
     },
     {
       "added_at": "2021-07-28 19:40:38",

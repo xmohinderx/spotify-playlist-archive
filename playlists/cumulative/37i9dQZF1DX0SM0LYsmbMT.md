@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,319 songs - 5 day 7 hr 59 min
+3,320 songs - 5 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,7 +460,7 @@
 | [Carefree](https://open.spotify.com/track/2JoldRgAmfsIyCU6UxvtPT) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Carefree](https://open.spotify.com/album/44WqHprpyduzvItokpHTRM) | 2:07 | 2021-12-17 | 2022-07-01 |
 | [Careful](https://open.spotify.com/track/21JzIbHNQOpIrsLqve9M3X) | [Zen Park](https://open.spotify.com/artist/3XSqByZe2kuUAquw8seGD6) | [Careful](https://open.spotify.com/album/6Y7kZO9Q5XHpA71BKp0uKM) | 2:07 | 2021-02-07 | 2021-05-28 |
 | [Carla](https://open.spotify.com/track/36ZfivTaEGVH1W2VfziDf5) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [The Potion of Creativity](https://open.spotify.com/album/5EWwx31Z70eV3TDlFxfEB4) | 2:38 | 2021-07-31 | 2021-09-17 |
-| [Carnaval](https://open.spotify.com/track/23JZKgmJ20wAIKxijJlJBb) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Carnaval](https://open.spotify.com/album/6kNHBxP6rCv3DNpKc6rEFO) | 1:53 | 2022-08-01 |  |
+| [Carnaval](https://open.spotify.com/track/23JZKgmJ20wAIKxijJlJBb) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Carnaval](https://open.spotify.com/album/6kNHBxP6rCv3DNpKc6rEFO) | 1:53 | 2022-08-01 | 2023-01-24 |
 | [Carombola](https://open.spotify.com/track/0YYp2tR5zcSvj4Xng6fAhx) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Carombola](https://open.spotify.com/album/1c1FzYnyzhVO4rYzHnfLE8) | 2:32 | 2022-08-18 | 2022-11-21 |
 | [Carombola](https://open.spotify.com/track/3KSfR7RFxDzpXXgVZTpvB2) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Mesame](https://open.spotify.com/album/0KAVgCqz8YH4FcpRY5v2mH) | 2:32 | 2022-11-17 |  |
 | [Carpe Diem](https://open.spotify.com/track/3i1cfiDvK3Yg34l7GESQfE) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Carpe Diem](https://open.spotify.com/album/2cSiEfiPKKAbAsCTFYgwH0) | 2:02 | 2021-07-24 | 2021-09-03 |
@@ -2365,6 +2365,7 @@
 | [Rise & Fall](https://open.spotify.com/track/2i3Xn4fn3EmNJPCOooTV5l) | [Fab Beat](https://open.spotify.com/artist/4J9EaXhlfJgEEVaN4hPkE6), [Supreme.Frost](https://open.spotify.com/artist/31MX58GvqNdpjzAqZQ3nVp), [Jones Beats](https://open.spotify.com/artist/3pX7OHufpXWjBted6oRuUF) | [Rise & Fall](https://open.spotify.com/album/5LWjshuPxmaZp7rkfwFaXH) | 2:45 | 2021-09-21 | 2021-10-08 |
 | [Rising above](https://open.spotify.com/track/0ODoxQRBEKfiC9JEheGBbz) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [S\-Ilo](https://open.spotify.com/artist/04zvEg1lhzzyN1rLgfO8hG), [Milan Beats](https://open.spotify.com/artist/6vlBN0oKCy0H1Ji0isYxO8) | [Rising above](https://open.spotify.com/album/2abct3LjUyEvlzLmYS99xC) | 2:20 | 2022-06-30 | 2023-01-23 |
 | [Rising Moon](https://open.spotify.com/track/5IbwF6bzr5wlNFyK3UJpdT) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4) | [Rising Moon](https://open.spotify.com/album/7i3gwD1h2DOXwl2Q2gPiR5) | 2:57 | 2022-10-26 | 2022-12-24 |
+| [Ritual](https://open.spotify.com/track/2aHus7YxSJEVYHlNBD2kTY) | [Dentist](https://open.spotify.com/artist/53z9A5LmoNT72JhgxsMCLb) | [Ritual](https://open.spotify.com/album/2K6V5Es5jOm7Y1ciiu11pN) | 3:12 | 2023-01-20 |  |
 | [Rituals](https://open.spotify.com/track/2Kj4ySw4J6OYBnKEMtIV52) | [anbuu](https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q), [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Rituals](https://open.spotify.com/album/4P0B0Vg4vmaAjcGqsOq3qE) | 2:51 | 2021-09-17 | 2021-10-22 |
 | [Rivers](https://open.spotify.com/track/2n89leLHpks1bl9f0v998L) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [The Puzzle EP](https://open.spotify.com/album/4RKP7grsXRYZ4wqyZPGmqF) | 1:58 | 2022-09-22 | 2022-11-04 |
 | [Riverside](https://open.spotify.com/track/3RW7SqiMivZaOqpRCPtBoH) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Riverside](https://open.spotify.com/album/6MFnPWqA9QsKGcemskp71H) | 2:14 | 2022-02-17 | 2022-11-20 |

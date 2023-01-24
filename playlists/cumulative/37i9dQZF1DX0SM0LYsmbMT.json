@@ -8988,7 +8988,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 113855,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/23JZKgmJ20wAIKxijJlJBb"
@@ -47400,6 +47400,24 @@
       "duration_ms": 177937,
       "name": "Rising Moon",
       "url": "https://open.spotify.com/track/5IbwF6bzr5wlNFyK3UJpdT"
+    },
+    {
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/2K6V5Es5jOm7Y1ciiu11pN"
+      },
+      "artists": [
+        {
+          "name": "Dentist",
+          "url": "https://open.spotify.com/artist/53z9A5LmoNT72JhgxsMCLb"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/2aHus7YxSJEVYHlNBD2kTY"
     },
     {
       "album": {

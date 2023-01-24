@@ -2,7 +2,7 @@
 
 ### [Top Trending: Hip\-Hop](https://open.spotify.com/playlist/6PPav6OOdBg3kTIyyCqeDw)
 
-> A collection of Hip Hop hits and viral trends feat Lil Baby, Migos, GloRilla &amp; more\. Updated weekly!  Cover: Ice Spice
+> A collection of Hip Hop hits &amp; viral trends feat Drake, Metro Boomin &amp; more\. Updated weekly!  \(Cover: Ice Spice\)
 
 117 songs - 6 hr 28 min
 

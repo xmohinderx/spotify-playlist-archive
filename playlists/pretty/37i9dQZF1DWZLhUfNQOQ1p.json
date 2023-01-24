@@ -1,12 +1,12 @@
 {
   "description": "Goditi l'aperitivo in compagnia e con la colonna sonora ideale!",
-  "num_followers": 230756,
+  "num_followers": 230743,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDcyNzgwNWYzZDcxODQ2MmI1ZjA1NDJmNmE3MWEzMThi",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMDhhN2JiNDBlOWQ0OGRhZTdkMzkxYTE4YjZhNTk0ZWI0",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -163,26 +163,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Feel It Still",
-        "url": "https://open.spotify.com/album/2DeswM9o7EwLJFlaVXQi6t"
-      },
-      "artists": [
-        {
-          "name": "Revelries",
-          "url": "https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ"
-        },
-        {
-          "name": "Henri Purnell",
-          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
-        }
-      ],
-      "duration_ms": 222590,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/4J0KBaH6ZJh0dVqc7XlYT6"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Wicked Hearts",
         "url": "https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 189136,
       "name": "Wicked Hearts",
       "url": "https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Feel It Still",
+        "url": "https://open.spotify.com/album/2DeswM9o7EwLJFlaVXQi6t"
+      },
+      "artists": [
+        {
+          "name": "Revelries",
+          "url": "https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ"
+        },
+        {
+          "name": "Henri Purnell",
+          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
+        }
+      ],
+      "duration_ms": 222590,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/4J0KBaH6ZJh0dVqc7XlYT6"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Lost in Music",
-        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 208150,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "A Little Bit Closer",
         "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 155294,
       "name": "A Little Bit Closer",
       "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Voyages",
+        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 216104,
+      "name": "Voyages",
+      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -619,18 +619,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Voyages",
-        "url": "https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG"
+        "name": "Lost in Music",
+        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
       },
       "artists": [
         {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
         }
       ],
-      "duration_ms": 216104,
-      "name": "Voyages",
-      "url": "https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG"
+      "duration_ms": 208150,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Surf The Orange Water",
-        "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
-      },
-      "artists": [
-        {
-          "name": "Giants' Nest",
-          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Violet Breeze",
-      "url": "https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Never Gonna Give You Up",
         "url": "https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 212910,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Surf The Orange Water",
+        "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
+      },
+      "artists": [
+        {
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Violet Breeze",
+      "url": "https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Stranded",
-        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
-      },
-      "artists": [
-        {
-          "name": "Art of November",
-          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
-        }
-      ],
-      "duration_ms": 229581,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Don't Speak",
         "url": "https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 222838,
       "name": "I Need My Girl",
       "url": "https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Stranded",
+        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
+      },
+      "artists": [
+        {
+          "name": "Art of November",
+          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+        }
+      ],
+      "duration_ms": 229581,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
-      },
-      "artists": [
-        {
-          "name": "Tab\u00fa",
-          "url": "https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3"
-        }
-      ],
-      "duration_ms": 220038,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
         "name": "Surf The Orange Water",
         "url": "https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Follow the Sun",
-        "url": "https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt"
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
       },
       "artists": [
         {
-          "name": "Gnarly Gibbs",
-          "url": "https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ"
+          "name": "Tab\u00fa",
+          "url": "https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3"
         }
       ],
-      "duration_ms": 243624,
-      "name": "Follow the Sun",
-      "url": "https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS"
+      "duration_ms": 220038,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -1019,6 +1003,22 @@
       "duration_ms": 186610,
       "name": "Wishing Well (feat. Olivia Sebastianelli)",
       "url": "https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
+      },
+      "artists": [
+        {
+          "name": "Samba Twins",
+          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
+        }
+      ],
+      "duration_ms": 234510,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
     }
   ],
   "unique_name": "Aperitivo Time",

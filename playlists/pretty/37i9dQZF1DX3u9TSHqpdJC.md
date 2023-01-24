@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Florence Arman
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,607 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,628 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 4 | [Brutally Honest](https://open.spotify.com/track/1Z7KyQlHGhgz71cnvaX5oP) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [Brutally Honest](https://open.spotify.com/album/2SERc5tC1fgTV1y43BmS6l) | 2:39 |
 | 5 | [Ghost](https://open.spotify.com/track/5MsIX8vwTUsvGeQ4WlDe0l) | [L.i.E](https://open.spotify.com/artist/41RMo17zfOjfWRB2wIh6FE) | [Ghost](https://open.spotify.com/album/2fe2RrxJMnOq2tkCMweizx) | 2:48 |
 | 6 | [Lights Out](https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lights Out](https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt) | 2:23 |
-| 7 | [Living in a Story](https://open.spotify.com/track/2GcSGT0N04Ny468cIH3onE) | [JUKO](https://open.spotify.com/artist/3lVblCbubTDS9LpQnqBWuR), [ROBY](https://open.spotify.com/artist/3HQu8KsELYVztBTEZU7k9y) | [Living in a Story](https://open.spotify.com/album/7zbtD8YOUoGrw9yRHrFenl) | 3:08 |
+| 7 | [Living in a Story](https://open.spotify.com/track/12GBUVtSJUt0pJXE8GB0fi) | [JUKO](https://open.spotify.com/artist/3lVblCbubTDS9LpQnqBWuR), [ROBY](https://open.spotify.com/artist/3HQu8KsELYVztBTEZU7k9y) | [Living in a Story](https://open.spotify.com/album/2R7E9yQt1vihRU620Oi05V) | 3:08 |
 | 8 | [Wasted Youth](https://open.spotify.com/track/4vz2uEorUwEV5MwuALnrav) | [Zia Victoria](https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE) | [Wasted Youth](https://open.spotify.com/album/6VzNOBRZswuVSFO08wSpK0) | 3:33 |
 | 9 | [crying during sex](https://open.spotify.com/track/3qLY81vOR6BTB2hI2nMnvR) | [Amanda Frances](https://open.spotify.com/artist/6V82eQJQpNG2w6e5Hsg8PK) | [attachment theory](https://open.spotify.com/album/467J0lJjukT73a5eVMnOWD) | 2:21 |
 | 10 | [Love!](https://open.spotify.com/track/21nLUVmQSUVd6qsFZRB416) | [Hallie](https://open.spotify.com/artist/0I0VahDFplPkGInkRvoXPW) | [Love!](https://open.spotify.com/album/0fTcODKOu5ujhJDJ2XltDN) | 3:19 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 47 | [Way Out](https://open.spotify.com/track/7Mne5Z9Xi6olZCkveX8KWn) | [CALI JEWLS](https://open.spotify.com/artist/0iDbrXm29WpIVqxhWaVzlH) | [Way Out](https://open.spotify.com/album/2gJEPcCWkTEUp3jX4HiTX1) | 3:36 |
 | 48 | [Grow Up](https://open.spotify.com/track/24AZWPudcIHC5p12MQXimM) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [Grow Up](https://open.spotify.com/album/3Ymydr1bIqkC6E1sgUEAwg) | 3:05 |
 
-Snapshot ID: `MTY3NDA1NTk4NiwwMDAwMDAwMGQ2ZjM2ODI1ZjU0ZWY4MzZjNzgwZTdlZjQ4NzRmN2Rm`
+Snapshot ID: `MTY3NDA1NTk4NiwwMDAwMDAwMGYyMzUxYTJkMThlMTI1ODBlNmFmMzU1ODhlNGRiYmQ0`

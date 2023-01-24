@@ -4,7 +4,7 @@
 
 > We hear you.
 
-534 songs - 1 day 2 hr 25 min
+535 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Falling Asleep in Your Arms, Dreading the Sunrise](https://open.spotify.com/track/7m18m0pH4WEFqOeUKrxZkw) | [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Forever Misunderstood](https://open.spotify.com/album/0FYHgjUYWthtF0hpsgDqg3) | 2:34 | 2021-04-02 | 2022-07-28 |
 | [far away from here](https://open.spotify.com/track/7nnpU2iHbi2k23GNPJMKUM) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [far away from here](https://open.spotify.com/album/40XB91INBVWZ5v9CwYE5Xw) | 2:12 | 2021-04-02 | 2022-07-20 |
 | [FAREWELL](https://open.spotify.com/track/3ysswgOqjjlASeCuRbuKgW) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 4:22 | 2021-04-02 | 2022-04-24 |
-| [Feel Again \(Feat\. Au/Ra\)](https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Things I Wanted To Tell You](https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0) | 2:19 | 2021-04-02 |  |
+| [Feel Again \(Feat\. Au/Ra\)](https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Things I Wanted To Tell You](https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0) | 2:19 | 2021-04-02 | 2023-01-24 |
 | [Feeling Whitney](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:17 | 2021-04-02 |  |
 | [Feelings](https://open.spotify.com/track/0MHHr2RhELZjSaMQiMF0d9) | [badly](https://open.spotify.com/artist/2REKndUsYi3335RA5rxbTT) | [Feelings](https://open.spotify.com/album/4UzuKBUSCR8CRbFPwSg53i) | 3:05 | 2021-04-02 | 2022-07-12 |
 | [figure it out](https://open.spotify.com/track/6BvqlzOwpuPA3894IUXaBI) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [figure it out](https://open.spotify.com/album/6TGvxQgYwGUKn889LlqHLp) | 2:54 | 2021-04-02 | 2022-04-16 |
@@ -499,6 +499,7 @@
 | [WANT U BAD](https://open.spotify.com/track/1w9yRUuQjZSG5rONZjJE6z) | [Valera](https://open.spotify.com/artist/5408YTsXEeDoU6JMfu6S1p) | [WANT U BAD](https://open.spotify.com/album/61AeZB6PSoVpj4WmzJIKUg) | 2:13 | 2022-03-29 | 2022-04-20 |
 | [Warm Light](https://open.spotify.com/track/2TDglznSYnR0YB0WmpZme5) | [Julia Wallace](https://open.spotify.com/artist/2bFY7vDLp0o5Kt6FHiwkAp) | [Warm Light](https://open.spotify.com/album/26eRrmNS44l6kXfWwHxq4e) | 2:57 | 2021-04-02 | 2022-06-29 |
 | [Was I Not Good Enough?](https://open.spotify.com/track/2TJs37x1zLNpRpFSHiMeVr) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb), [Mia Smith](https://open.spotify.com/artist/6qZ3QAYU67N9H7IJc6rBvz) | [Lonely](https://open.spotify.com/album/67EMbDYf4FYVEyKgshPtKU) | 2:25 | 2021-04-02 | 2022-07-20 |
+| [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2023-01-23 |  |
 | [Wasted](https://open.spotify.com/track/5182uhTVVUb0Lk9o8OWu0E) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO) | [Wasted](https://open.spotify.com/album/0Y1adZ6EInH99Ta295RH6M) | 2:37 | 2022-03-23 | 2022-07-23 |
 | [watch me bleed](https://open.spotify.com/track/5h7CTZmFFuApY6jJWW4RTj) | [badly](https://open.spotify.com/artist/2REKndUsYi3335RA5rxbTT) | [watch me bleed](https://open.spotify.com/album/2FoWGvxgTnUO95EJhEUUkA) | 1:33 | 2022-01-21 | 2022-06-17 |
 | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ) | 2:36 | 2022-10-07 | 2022-11-09 |

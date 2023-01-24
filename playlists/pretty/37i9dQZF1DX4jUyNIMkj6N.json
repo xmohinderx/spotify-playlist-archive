@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 171463,
+  "num_followers": 171577,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDVlNWVkOWEzNmI2MDY1NjBmOTMzOWZlOTA3ZTg5ZTk0",
+  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDc3YzI2MjIwYmIyOTBmYThkOTJkNmZkNDY1NmU1NzFk",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Can Summer Love Last Forever?",
         "url": "https://open.spotify.com/album/409EdmKQVMvhRHpJSHBnJ3"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Something Good",
-        "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 225939,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Tell Me About It",
         "url": "https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 184320,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 225939,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/2Fy0aW2a5YWnHVdZQDGIOC"
-      },
-      "artists": [
-        {
-          "name": "Real Ones",
-          "url": "https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym"
-        }
-      ],
-      "duration_ms": 238574,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/210qO1uNPiBhwNThR8MYW7"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "The Women in Me",
         "url": "https://open.spotify.com/album/6iixNCrjwoAe2MfDuONaLu"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2Fy0aW2a5YWnHVdZQDGIOC"
+      },
+      "artists": [
+        {
+          "name": "Real Ones",
+          "url": "https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym"
+        }
+      ],
+      "duration_ms": 238574,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/210qO1uNPiBhwNThR8MYW7"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/4yJnsynVnA85f4GcZkZaKg"
       },
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "One Day at a Time",
+        "url": "https://open.spotify.com/album/5X4jirryDmU1Jg0MgTqP8c"
+      },
+      "artists": [
+        {
+          "name": "Benedikt",
+          "url": "https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y"
+        }
+      ],
+      "duration_ms": 152120,
+      "name": "One Day at a Time",
+      "url": "https://open.spotify.com/track/32QJXzwGjE3ok7NVcgz9yq"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Classic Objects",
         "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
       },
@@ -831,6 +847,22 @@
       "duration_ms": 136960,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4nPhLPoZrUxSQHEUwtZ6n9"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Tran\u00f8y fyr",
+        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Tran\u00f8y fyr",
+      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -851,38 +883,6 @@
       "duration_ms": 216328,
       "name": "Zeven",
       "url": "https://open.spotify.com/track/1fW3S0ANHrRLxOGd1MbhTP"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "One Day at a Time",
-        "url": "https://open.spotify.com/album/5X4jirryDmU1Jg0MgTqP8c"
-      },
-      "artists": [
-        {
-          "name": "Benedikt",
-          "url": "https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y"
-        }
-      ],
-      "duration_ms": 152120,
-      "name": "One Day at a Time",
-      "url": "https://open.spotify.com/track/32QJXzwGjE3ok7NVcgz9yq"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Tran\u00f8y fyr",
-        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Tran\u00f8y fyr",
-      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Dad Told Me",
+        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
+      },
+      "artists": [
+        {
+          "name": "Hello Saferide",
+          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
+        }
+      ],
+      "duration_ms": 155213,
+      "name": "Oh God",
+      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Gardening, Pt. 1",
         "url": "https://open.spotify.com/album/33f0npYRcXfQpXMwgrwh6v"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 211426,
       "name": "I Was Just Thinking",
       "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Dad Told Me",
-        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
-      },
-      "artists": [
-        {
-          "name": "Hello Saferide",
-          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
-        }
-      ],
-      "duration_ms": 155213,
-      "name": "Oh God",
-      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
     },
     {
       "added_at": "2023-01-19 23:00:00",

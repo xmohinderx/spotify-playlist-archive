@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, Cover: CIL\. Artwork by Isu Kim\. Updates every Wednesday.
 
-2,854 songs - 6 day 13 hr 12 min
+2,855 songs - 6 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1475,7 +1475,8 @@
 | [Little Twirl](https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Carvings](https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln) | 2:22 | 2023-01-18 |  |
 | [LIVE IN PEACE](https://open.spotify.com/track/5akqedZnI6PLnLaPx7XpRc) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [LIVE IN PEACE](https://open.spotify.com/album/2i7Fy1BWP7ChblX0lSCpQf) | 2:41 | 2022-02-16 | 2022-02-24 |
 | [Live In The Club](https://open.spotify.com/track/3fifRghVV69cm9LDf4QLRt) | [Bmb Spacekid](https://open.spotify.com/artist/6ZlLGjV1Ml9JfAtesdWKxu) | [Taste Booster](https://open.spotify.com/album/7tTa8VqgfSw31Lm6zOC5m1) | 5:13 | 2022-04-06 | 2022-04-14 |
-| [Living in a Story](https://open.spotify.com/track/2GcSGT0N04Ny468cIH3onE) | [JUKO](https://open.spotify.com/artist/3lVblCbubTDS9LpQnqBWuR), [ROBY](https://open.spotify.com/artist/3HQu8KsELYVztBTEZU7k9y) | [Living in a Story](https://open.spotify.com/album/7zbtD8YOUoGrw9yRHrFenl) | 3:08 | 2023-01-18 |  |
+| [Living in a Story](https://open.spotify.com/track/12GBUVtSJUt0pJXE8GB0fi) | [JUKO](https://open.spotify.com/artist/3lVblCbubTDS9LpQnqBWuR), [ROBY](https://open.spotify.com/artist/3HQu8KsELYVztBTEZU7k9y) | [Living in a Story](https://open.spotify.com/album/2R7E9yQt1vihRU620Oi05V) | 3:08 | 2023-01-18 |  |
+| [Living in a Story](https://open.spotify.com/track/2GcSGT0N04Ny468cIH3onE) | [JUKO](https://open.spotify.com/artist/3lVblCbubTDS9LpQnqBWuR), [ROBY](https://open.spotify.com/artist/3HQu8KsELYVztBTEZU7k9y) | [Living in a Story](https://open.spotify.com/album/7zbtD8YOUoGrw9yRHrFenl) | 3:08 | 2023-01-18 | 2023-01-24 |
 | [Living Sound](https://open.spotify.com/track/3huADBAOUAnBxwsA16DlZd) | [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3) | [Living Sound EP](https://open.spotify.com/album/7tKYVPMhmegMuFiwYJLP86) | 4:00 | 2022-04-27 | 2022-05-05 |
 | [Living with Passion](https://open.spotify.com/track/4g6wkPxpmgBlC6rAtHyaWM) | [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [Soda & Syrup](https://open.spotify.com/album/1XTk34A8ouLWhEWZ71EIig) | 2:10 | 2022-05-25 | 2022-06-09 |
 | [Lloro](https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Lloro](https://open.spotify.com/album/2I3XUFeagyBtNOsqVR0rxj) | 3:24 | 2022-04-27 | 2022-05-05 |

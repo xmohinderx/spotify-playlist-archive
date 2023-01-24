@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Aya Nakamura
 
-597 songs - 1 day 7 hr 8 min
+598 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,7 +506,8 @@
 | [SMS](https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [SMS](https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ) | 2:33 | 2023-01-03 |  |
 | [Snake](https://open.spotify.com/track/2btl8sJ35sBFSH4sMik5tq) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Source](https://open.spotify.com/album/3LSV8Trerwu3kaqc2dcZGS) | 2:41 | 2022-05-31 | 2022-07-06 |
 | [So Hard](https://open.spotify.com/track/3RyfepEEQNqzCSd7h7Mdzs) | [Bonnie Li](https://open.spotify.com/artist/1mswgtBZE0xMQkJU4NhWpH), [Cœur](https://open.spotify.com/artist/0Rw13w5C5V7lxvBaJiDhFd) | [So Hard](https://open.spotify.com/album/1wQNehJ01REb0TknPeRv3R) | 2:57 | 2022-01-05 | 2022-02-02 |
-| [So Long](https://open.spotify.com/track/34np7qi7qKvOsvqptdBUnq) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [So Long](https://open.spotify.com/album/74ERRFXX47XBkVarTGWixm) | 3:01 | 2023-01-03 |  |
+| [So Long](https://open.spotify.com/track/0wjNy6Y2S0tZkykclifcRE) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:01 | 2023-01-03 |  |
+| [So Long](https://open.spotify.com/track/34np7qi7qKvOsvqptdBUnq) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [So Long](https://open.spotify.com/album/74ERRFXX47XBkVarTGWixm) | 3:01 | 2023-01-03 | 2023-01-24 |
 | [Soleil](https://open.spotify.com/track/5VtPuwaNoq7gxHYcCWgQtZ) | [Anabel](https://open.spotify.com/artist/50L9hhqxqvBX5FjcBV5t8P) | [Soleil](https://open.spotify.com/album/452Q4zRAxyQrXqsdVkTOYb) | 2:28 | 2022-05-03 | 2022-06-01 |
 | [Soleil Mort](https://open.spotify.com/track/7ziSNSAMNDvWBHuSqbGy08) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Pyrale](https://open.spotify.com/album/3fiBUejWxczE7f8ITf4ad1) | 3:15 | 2022-05-31 | 2022-07-06 |
 | [Solo](https://open.spotify.com/track/3VFvo73siTyfeWd6ptwcuc) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Solo](https://open.spotify.com/album/1HZhkCDK3MNbD8x71EMTpi) | 3:15 | 2022-03-07 | 2022-04-06 |

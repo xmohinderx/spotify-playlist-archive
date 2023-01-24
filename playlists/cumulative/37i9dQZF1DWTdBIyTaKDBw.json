@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 205002,
       "name": "Leave like this",
       "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
@@ -3060,6 +3060,24 @@
       "duration_ms": 267051,
       "name": "We are all Muse (Feat. Yerin Baek)",
       "url": "https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn"
+    },
+    {
+      "album": {
+        "name": "When I see you",
+        "url": "https://open.spotify.com/album/64PaZnR3MjSalwK0Y6CDg2"
+      },
+      "artists": [
+        {
+          "name": "Herz Analog",
+          "url": "https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296799,
+      "name": "When I see you",
+      "url": "https://open.spotify.com/track/3reYD1dbHpy1G7BpKyBzTK"
     },
     {
       "album": {

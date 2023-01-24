@@ -1,12 +1,12 @@
 {
   "description": "In the trap with Bad Bunny \ud83d\udc30 \ud83d\udd25",
-  "num_followers": 7257,
+  "num_followers": 7292,
   "original_name": "Trap Bunny",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NTk5MiwwMDAwMDAwMDA1NTI5MjEwMmE1NDYzZjI5MjY4YzY2ZjIzM2VkMDlh",
+  "snapshot_id": "MTY3MzI0NTk5MiwwMDAwMDAwMGRiMjM0ZGFjZmEyMTQxMGY3YWI3YTRjODBiYTlhN2Jk",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -219,6 +219,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Un Ratito Mas",
+        "url": "https://open.spotify.com/album/0AIoxEYCgmfD856498j2dq"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 283120,
+      "name": "Un Ratito Mas",
+      "url": "https://open.spotify.com/track/2SzgK8i6si6ETtu57nTdSn"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "47 (Remix)",
         "url": "https://open.spotify.com/album/0uwIB5LyXa2riRyWUwKiJA"
       },
@@ -319,26 +339,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/7CUZQVHLggh7X0za629It0"
-      },
-      "artists": [
-        {
-          "name": "Kevin Roldan",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 215593,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/4PE7pAJ3DDmJdxWzpsXrlS"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -355,22 +355,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Un Ratito Mas",
-        "url": "https://open.spotify.com/album/0AIoxEYCgmfD856498j2dq"
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/7CUZQVHLggh7X0za629It0"
       },
       "artists": [
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
         },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 283120,
-      "name": "Un Ratito Mas",
-      "url": "https://open.spotify.com/track/2SzgK8i6si6ETtu57nTdSn"
+      "duration_ms": 215593,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/4PE7pAJ3DDmJdxWzpsXrlS"
     },
     {
       "added_at": "2022-11-30 13:46:00",

@@ -1,12 +1,12 @@
 {
   "description": "Le cin\u00e9ma \u00e7a s'\u00e9coute aussi.",
-  "num_followers": 50694,
+  "num_followers": 50717,
   "original_name": "Bandes Originales & Pop Corn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMGIyNjgzODA4NmRiNzg0MzJmOTdmMWE3ZDhhNDlhNzQ3",
+  "snapshot_id": "MTY3MjIzNjE1OSwwMDAwMDAwMDc4OTkwNjRiZDM0YjI0OGY5ZmYxMjBiYTY4OTMyODFj",
   "tracks": [
     {
       "added_at": "2022-09-07 09:54:53",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
-      "added_at": "2023-01-23 00:34:24",
+      "added_at": "2023-01-24 01:05:20",
       "album": {
         "name": "Avatar: The Way of Water (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA"
@@ -135,26 +135,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
-        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
-      },
-      "artists": [
-        {
-          "name": "Mykola Dmytrovych Leontovych",
-          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 85266,
-      "name": "Carol of the Bells",
-      "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 244706,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+      },
+      "artists": [
+        {
+          "name": "Mykola Dmytrovych Leontovych",
+          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 85266,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
     },
     {
-      "added_at": "2023-01-23 00:34:24",
+      "added_at": "2023-01-24 01:05:20",
       "album": {
         "name": "The White Lotus: Season 2 (Soundtrack from the HBO\u00ae Original Series)",
         "url": "https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ"
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Dr. Seuss' The Grinch (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 108986,
-      "name": "You're A Mean One, Mr. Grinch",
-      "url": "https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Tuyo (Narcos Theme) [A Netflix Original Series Soundtrack]",
         "url": "https://open.spotify.com/album/3GelLDk6XCrXCT4ok0jjGU"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 89293,
       "name": "Tuyo (Narcos Theme) - A Netflix Original Series Soundtrack",
       "url": "https://open.spotify.com/track/6Dc2tCivms1s2X9myWe4ni"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Dr. Seuss' The Grinch (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 108986,
+      "name": "You're A Mean One, Mr. Grinch",
+      "url": "https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
     },
     {
-      "added_at": "2023-01-23 00:34:24",
+      "added_at": "2023-01-24 01:05:20",
       "album": {
         "name": "Red Rose Speedway (Archive Collection)",
         "url": "https://open.spotify.com/album/1RzrSgWinUzgsnw3oQDXOy"
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "The Blues Brothers Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH"
-      },
-      "artists": [
-        {
-          "name": "The Blues Brothers",
-          "url": "https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Everybody Needs Somebody to Love",
-      "url": "https://open.spotify.com/track/1CtKHwDqsH3ctcCCI18N0g"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Jurassic Park",
         "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
       },
@@ -745,7 +729,23 @@
       "url": "https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN"
     },
     {
-      "added_at": "2023-01-23 00:34:24",
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "The Blues Brothers Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH"
+      },
+      "artists": [
+        {
+          "name": "The Blues Brothers",
+          "url": "https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "Everybody Needs Somebody to Love",
+      "url": "https://open.spotify.com/track/1CtKHwDqsH3ctcCCI18N0g"
+    },
+    {
+      "added_at": "2023-01-24 01:05:20",
       "album": {
         "name": "The Spy Who Loved Me",
         "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
@@ -763,6 +763,22 @@
       "duration_ms": 212666,
       "name": "Nobody Does It Better",
       "url": "https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -819,22 +835,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
         "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
       },
@@ -867,6 +867,30 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
+        "name": "Schindler's List",
+        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        }
+      ],
+      "duration_ms": 255693,
+      "name": "Theme From Schindler's List",
+      "url": "https://open.spotify.com/track/42gZM6AQ9BDMaTyTmMDVlN"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
         "name": "The Youth Of Today",
         "url": "https://open.spotify.com/album/2fzSaL01wmGVH2W1moTcCs"
       },
@@ -895,30 +919,6 @@
       "duration_ms": 134133,
       "name": "Gabriel's Oboe",
       "url": "https://open.spotify.com/track/6opPrJUpq4Pl5c84eCwLmo"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Schindler's List",
-        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "Theme From Schindler's List",
-      "url": "https://open.spotify.com/track/42gZM6AQ9BDMaTyTmMDVlN"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 309093,
-      "name": "Hedwig's Theme",
-      "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Amore mio aiutami (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 157026,
       "name": "The Imitation Game",
       "url": "https://open.spotify.com/track/0o9ivTBX7mjTnaUYF4Gk6t"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 309093,
+      "name": "Hedwig's Theme",
+      "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "Juno - Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG"
-      },
-      "artists": [
-        {
-          "name": "Barry Louis Polisar",
-          "url": "https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "All I Want Is You",
-      "url": "https://open.spotify.com/track/5sIBOrRLBI6ypREdEPj2wQ"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "The Theory of Everything (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 101572,
       "name": "Cambridge, 1963",
       "url": "https://open.spotify.com/track/7iLVpb0WAgeVRn2wSdmdrd"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Juno - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG"
+      },
+      "artists": [
+        {
+          "name": "Barry Louis Polisar",
+          "url": "https://open.spotify.com/artist/6MUxF4ehonXZ8Q6YMFI2xb"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "All I Want Is You",
+      "url": "https://open.spotify.com/track/5sIBOrRLBI6ypREdEPj2wQ"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1309,7 +1309,7 @@
       "url": "https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2"
     },
     {
-      "added_at": "2023-01-23 00:34:24",
+      "added_at": "2023-01-24 01:05:20",
       "album": {
         "name": "Let Me Sing and I'm Happy",
         "url": "https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5"
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-09-07 09:54:53",
       "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 244573,
-      "name": "Can't Fight City Halloween",
-      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 288000,
       "name": "Rachel's Song",
       "url": "https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Can't Fight City Halloween",
+      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1573,7 +1573,7 @@
       "url": "https://open.spotify.com/track/366QpkppDb9f5TVamPSpgH"
     },
     {
-      "added_at": "2023-01-23 00:34:24",
+      "added_at": "2023-01-24 01:05:20",
       "album": {
         "name": "Volume 1",
         "url": "https://open.spotify.com/album/7GmZv2K4fIf5uuqz4qIOth"
@@ -1587,6 +1587,30 @@
       "duration_ms": 154493,
       "name": "Spiritual",
       "url": "https://open.spotify.com/track/7bUsesodBH1tITKTFXWK9k"
+    },
+    {
+      "added_at": "2022-09-07 09:54:53",
+      "album": {
+        "name": "Pirates of the Caribbean: At World's End",
+        "url": "https://open.spotify.com/album/241F2pNbl6OIJPixynRuiu"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Ted Elliot",
+          "url": "https://open.spotify.com/artist/4pZ8EP690jiCFKLnvOALtT"
+        },
+        {
+          "name": "Terry Rossio",
+          "url": "https://open.spotify.com/artist/0q7f4nYw5mlNeCNB9pDrNR"
+        }
+      ],
+      "duration_ms": 91080,
+      "name": "Hoist the Colours - From \"Pirates of the Caribbean: At World's End\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1xvtgNKtzZwOeLDkxgMzav"
     },
     {
       "added_at": "2022-09-07 09:54:53",
@@ -1619,30 +1643,6 @@
       "duration_ms": 130933,
       "name": "The Danish Girl",
       "url": "https://open.spotify.com/track/02gNzeeffcCXtx9qL39qHj"
-    },
-    {
-      "added_at": "2022-09-07 09:54:53",
-      "album": {
-        "name": "Pirates of the Caribbean: At World's End",
-        "url": "https://open.spotify.com/album/241F2pNbl6OIJPixynRuiu"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Ted Elliot",
-          "url": "https://open.spotify.com/artist/4pZ8EP690jiCFKLnvOALtT"
-        },
-        {
-          "name": "Terry Rossio",
-          "url": "https://open.spotify.com/artist/0q7f4nYw5mlNeCNB9pDrNR"
-        }
-      ],
-      "duration_ms": 91080,
-      "name": "Hoist the Colours - From \"Pirates of the Caribbean: At World's End\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/1xvtgNKtzZwOeLDkxgMzav"
     },
     {
       "added_at": "2022-09-07 09:54:53",

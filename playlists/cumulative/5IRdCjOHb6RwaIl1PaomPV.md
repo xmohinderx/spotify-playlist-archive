@@ -4,7 +4,7 @@
 
 > The latest tracks from Mad Decent and friends\. Eartheater Trinity \(Deluxe\), plus the latest cuts from Aluna, X\-Coast, Nia Archives and more.
 
-297 songs - 17 hr 53 min
+298 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [city](https://open.spotify.com/track/0RzM3rAfGGNOJAx0UwAuDY) | [Cali Cartier](https://open.spotify.com/artist/2kg5UE6FjFJbfgmJbnpNqp) | [city](https://open.spotify.com/album/4IjW76ZpH2uvkIGV5hzGzq) | 2:46 | 2022-06-03 | 2022-08-06 |
 | [Club Thanz \- Dub](https://open.spotify.com/track/6aNpuvprwmlDKe11EfXaTl) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3) | [Classical Club Mixes](https://open.spotify.com/album/6hm2GEVTZmbsKN63VVmqEi) | 4:03 | 2022-11-12 |  |
 | [Conclusions](https://open.spotify.com/track/4LdZcxskqmlGwNuljaXii0) | [Haiku Hands](https://open.spotify.com/artist/3QX8CTn1znpY0HF3hbnNye), [Suburban Dark](https://open.spotify.com/artist/2Ii7q1isSb4wBsT7V93ffC) | [Conclusions](https://open.spotify.com/album/0zZG0jsDvQVT8pgNPYX050) | 4:44 | 2022-06-03 | 2022-08-06 |
+| [CONFLICT](https://open.spotify.com/track/36i3VDSBSrn5m3VqIA5tgR) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [CONFLICT](https://open.spotify.com/album/2dtIwb6Qv3oeuzl04SjiW0) | 3:26 | 2023-01-24 |  |
 | [Crazy Beat Music Umeme 2](https://open.spotify.com/track/7qztylpL1DySdrerCNFM9w) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Mr Mixondo](https://open.spotify.com/album/0xrUheYqInXx39HHCw4Uc7) | 3:00 | 2022-06-03 | 2022-08-06 |
 | [Cry \(with Aluna\)](https://open.spotify.com/track/2HdEtRBwROKFsTiX2VTLCq) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Cry](https://open.spotify.com/album/0lmj4wnLLdvmwlAi2RrfWo) | 2:49 | 2022-06-03 | 2022-08-06 |
 | [Cuerpo Que Flota](https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Desire Path](https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V) | 3:35 | 2022-06-03 | 2022-08-06 |

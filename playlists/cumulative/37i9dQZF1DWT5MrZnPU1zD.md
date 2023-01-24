@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-603 songs - 1 day 5 hr 5 min
+604 songs - 1 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1995](https://open.spotify.com/track/5KFqBLIITjlM6fhYhBnBzC) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [THE HUSTLE CONTINUES](https://open.spotify.com/album/6zFqKeygTGAmLEF2AXCfZO) | 2:49 | 2021-09-03 | 2022-04-29 |
 | [2 AM](https://open.spotify.com/track/3g3RCV5ImXwzHpKwM2iunc) | [Swavay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [Pure Infinity](https://open.spotify.com/album/4fJwg97iKoiaVQrljDyBJf) | 3:18 | 2021-09-03 | 2022-03-10 |
 | [2 Cents](https://open.spotify.com/track/444UIyq10heFY8SPc3CCD9) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [2 Cents](https://open.spotify.com/album/0AlXpXOyD8yFwGMbPqaSSp) | 2:08 | 2021-09-03 | 2022-04-29 |
+| [2 LIVE](https://open.spotify.com/track/1pbSwjVmaoVgHIU2bQeuxI) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [2 LIVE](https://open.spotify.com/album/67xulMesSVTsFmOwpO4gaw) | 2:29 | 2023-01-13 |  |
 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 | 2022-10-07 |  |
 | [2 Million Up \(feat\. Rob49\)](https://open.spotify.com/track/5iY0Mx5x4XMUL8PKIFns4n) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [2 Million Up \(feat\. Rob49\)](https://open.spotify.com/album/74iSqd4ZViyQG8MXFfbDci) | 3:18 | 2022-11-18 | 2022-12-03 |
 | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/album/43AaQNHNlJlf8F2iQkivyx) | 2:16 | 2022-09-16 |  |
@@ -438,7 +439,7 @@
 | [Rain](https://open.spotify.com/track/5R6Q2E0wC10LDfrLLcKtwD) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP) | [Backward Books 2](https://open.spotify.com/album/5ED0GoysTq0UklFRc3HQYa) | 2:59 | 2022-03-25 | 2022-04-21 |
 | [Rain On You!](https://open.spotify.com/track/5rzaSeBImoESArwGFuugU7) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [Rain On You!](https://open.spotify.com/album/7i2jiNB2URgMaiZ7gOI91A) | 1:24 | 2022-04-01 | 2022-04-21 |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-09-03 | 2022-03-18 |
-| [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 | 2022-06-24 |  |
+| [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 | 2022-06-24 | 2023-01-24 |
 | [Red](https://open.spotify.com/track/1xkjDgAeD0aNxGrS36W0Fn) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Red](https://open.spotify.com/album/676VcdOBUSv6CcS9SHYhrb) | 2:09 | 2021-09-03 | 2022-03-18 |
 | [Red Light Green Light](https://open.spotify.com/track/1YDebgap5OFwXEBG18NJvy) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Red Light Green Light](https://open.spotify.com/album/2u1Wc12FWm7X2ueUHCHxJC) | 2:39 | 2021-09-03 | 2022-03-18 |
 | [Rich And Famous](https://open.spotify.com/track/5J2iRyi0EpKwiU5NeQQRZ5) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Restoration: The Deluxe Album](https://open.spotify.com/album/5Sskfr26AzgFTIeEYrQ4CP) | 3:25 | 2022-03-11 | 2022-04-21 |

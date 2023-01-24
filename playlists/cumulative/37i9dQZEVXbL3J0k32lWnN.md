@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-951 songs - 2 day 1 hr 54 min
+952 songs - 2 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,7 +496,7 @@
 | [Keep My Spirit Alive](https://open.spotify.com/track/4IlOyxGATYUp7YVy5zrSW8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:41 | 2021-08-31 | 2021-09-04 |
 | [Kender Ik' I Morgen](https://open.spotify.com/track/6e7KGsngU13kguy5hTvSxe) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Carnival](https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx) | 2:27 | 2022-01-15 | 2023-01-18 |
 | [KENTI HAYATI](https://open.spotify.com/track/5OqfKkwpkuqCM4B0LaMxIy) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [KENTI HAYATI](https://open.spotify.com/album/1zgj6HIpFLgkP478RjUhOE) | 2:35 | 2022-08-05 | 2022-08-29 |
-| [Kig Forbi](https://open.spotify.com/track/3CEbwmnQCXKLwem4bsIU2I) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Johnson](https://open.spotify.com/artist/4w1fUgGXRGXhhnTAxjtxfS) | [Kig Forbi](https://open.spotify.com/album/02PZAR5tZq60s9sTDuwCgM) | 2:25 | 2022-12-31 |  |
+| [Kig Forbi](https://open.spotify.com/track/3CEbwmnQCXKLwem4bsIU2I) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Johnson](https://open.spotify.com/artist/4w1fUgGXRGXhhnTAxjtxfS) | [Kig Forbi](https://open.spotify.com/album/02PZAR5tZq60s9sTDuwCgM) | 2:25 | 2022-12-31 | 2023-01-24 |
 | [Kig Min Vej \(feat\. NODE\)](https://open.spotify.com/track/2UjIxGLvpVnMV4PEpdhVAp) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Monolog](https://open.spotify.com/album/1zFKjPWDOVJWO8AnOOnNF5) | 2:52 | 2021-03-27 | 2021-05-03 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-20 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2022-01-08 |
@@ -664,6 +664,7 @@
 | [No Return \(with The Kid LAROI & Lil Durk\)](https://open.spotify.com/track/23OYT3SFtoJqhiAUqktbc1) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:48 | 2021-06-13 | 2021-06-14 |
 | [No Warning](https://open.spotify.com/track/65oYD99ubM8bIUIRPY9nXc) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [No Warning](https://open.spotify.com/album/2IINZtpxZYmuaS2H3CDYH3) | 2:29 | 2021-06-20 | 2021-09-25 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-28 | 2023-01-01 |
+| [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-01-23 |  |
 | [NOT SOBER \(feat\. Polo G & Stunna Gambino\)](https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 3:36 | 2021-07-25 | 2021-08-09 |
 | [Nothing But Love](https://open.spotify.com/track/6Sd9zsq9PKO9iNYBhweUbB) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 3:45 | 2022-01-08 | 2022-01-15 |
 | [Nu & Her](https://open.spotify.com/track/3aO7mDhieREXwY0sLBj3JU) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [30 Somre](https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS) | 3:11 | 2022-06-18 | 2022-06-20 |

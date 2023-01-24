@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 35980,
+  "num_followers": 36006,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMGFhMGEzNzlkMDVlOGE1ZjYxOWRhOTdmMDA4YmIyN2Fi",
+  "snapshot_id": "MTYxMTkyNDgwNywwMDAwMDAwMDhlNjZlMTQ0Y2NhYjg2MjQ3ZDAwYjYyODUwZTczOGVh",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -107,6 +107,34 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
+        },
+        {
+          "name": "Jeremy Harding",
+          "url": "https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0"
+        },
+        {
+          "name": "Murray Elias",
+          "url": "https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL"
+        }
+      ],
+      "duration_ms": 273360,
+      "name": "I'm Still in Love with You (feat. Sasha)",
+      "url": "https://open.spotify.com/track/5lJx5eiSahFfsqkMJVlkDN"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Freddie McGregor: The Anthology",
         "url": "https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf"
       },
@@ -167,34 +195,6 @@
       "duration_ms": 228360,
       "name": "Everyone Falls in Love",
       "url": "https://open.spotify.com/track/6nGwWIh0ATJqK9cXbLqDw8"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Dutty Rock (20th Anniversary)",
-        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY"
-        },
-        {
-          "name": "Jeremy Harding",
-          "url": "https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0"
-        },
-        {
-          "name": "Murray Elias",
-          "url": "https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL"
-        }
-      ],
-      "duration_ms": 273360,
-      "name": "I'm Still in Love with You (feat. Sasha)",
-      "url": "https://open.spotify.com/track/5lJx5eiSahFfsqkMJVlkDN"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -299,22 +299,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/7cwpEL5QNoTQXJ5Htzt0ls"
-      },
-      "artists": [
-        {
-          "name": "Dennis Brown",
-          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/14uaxEtvwwTR2WnnvAfaj9"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Mr. Brooks...A Better Tomorrow",
         "url": "https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 178840,
       "name": "So Special",
       "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/7cwpEL5QNoTQXJ5Htzt0ls"
+      },
+      "artists": [
+        {
+          "name": "Dennis Brown",
+          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/14uaxEtvwwTR2WnnvAfaj9"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -379,22 +379,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Reggae Anthology: Joe Gibbs - Scorchers From The Mighty Two",
         "url": "https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 209813,
       "name": "Rasta Should Be Deeper",
       "url": "https://open.spotify.com/track/77DMJWGzzpLk8Fzd2jpqTI"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Lifted",
-        "url": "https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg"
-      },
-      "artists": [
-        {
-          "name": "Romain Virgo",
-          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Stop That Train",
         "url": "https://open.spotify.com/album/2GkHD2HdhKoY4B5yigF66J"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 213080,
       "name": "Solid As A Rock",
       "url": "https://open.spotify.com/track/0jgyTx1QHB5dvsylTJhcvK"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg"
+      },
+      "artists": [
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -739,6 +739,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0"
+      },
+      "artists": [
+        {
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Sycamore Tree",
+      "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "The Strong One",
         "url": "https://open.spotify.com/album/0Ypu0QySaX7HxWhzRBBjGZ"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 240226,
       "name": "I Am Not Afraid",
       "url": "https://open.spotify.com/track/0EhMnGX0ayyKkwBiHCzfQy"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Big Big",
-        "url": "https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH"
-      },
-      "artists": [
-        {
-          "name": "Christopher Martin",
-          "url": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
-        }
-      ],
-      "duration_ms": 182828,
-      "name": "Big Big",
-      "url": "https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -787,18 +787,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0"
+        "name": "Big Big",
+        "url": "https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH"
       },
       "artists": [
         {
-          "name": "Lady Saw",
-          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
+          "name": "Christopher Martin",
+          "url": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
         }
       ],
-      "duration_ms": 211960,
-      "name": "Sycamore Tree",
-      "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
+      "duration_ms": 182828,
+      "name": "Big Big",
+      "url": "https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y"
     },
     {
       "added_at": "2020-10-19 09:02:25",

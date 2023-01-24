@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,321 likes - 71 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,355 likes - 71 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

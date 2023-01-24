@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 
 ### [Top Trending: Hip\-Hop](https://open.spotify.com/playlist/6PPav6OOdBg3kTIyyCqeDw)
 
-> A collection of Hip Hop hits and viral trends feat Lil Baby, Migos, GloRilla &amp; more\. Updated weekly!  Cover: Ice Spice
+> A collection of Hip Hop hits &amp; viral trends feat Drake, Metro Boomin &amp; more\. Updated weekly!  \(Cover: Ice Spice\)
 
-[Digster](https://open.spotify.com/user/digster.fm) - 12,024 likes - 58 songs - 3 hr 5 min
+[Digster](https://open.spotify.com/user/digster.fm) - 12,023 likes - 58 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 | 57 | [Don’t Play \(with Lil Baby\)](https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:36 |
 | 58 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 |
 
-Snapshot ID: `MjMzMCwwNGQwZmQzMDc1YzJlMzU3NDYxYThhMDZiNGE0MTJiNzlkZTBkODU0`
+Snapshot ID: `MjMzMywzZjQwOTEyMGZlZTU5NjQyZGIwMDMxNWYzODRjMTJkNTA1MzRmODMx`

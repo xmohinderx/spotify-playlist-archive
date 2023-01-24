@@ -1,12 +1,12 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover : Akshath",
-  "num_followers": 97941,
+  "num_followers": 98025,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIwNzQzNywwMDAwMDAwMDIyYTBhODRhYTkwNDI0NTczNDk4ZDA4ZWI5MDM5OWVl",
+  "snapshot_id": "MTY3NDQ3MDg0OCwwMDAwMDAwMDNkZTIxZDZmYmIwOTZhMTM1MWFiNzVlNjlhMWM5NzZm",
   "tracks": [
     {
       "added_at": "2023-01-20 07:26:20",
@@ -77,22 +77,6 @@
       "url": "https://open.spotify.com/track/09FfppwkzTccGQFWcglxGD"
     },
     {
-      "added_at": "2023-01-20 09:37:17",
-      "album": {
-        "name": "Paar Laaye",
-        "url": "https://open.spotify.com/album/07JJWCjfs4UDGYGCamuncp"
-      },
-      "artists": [
-        {
-          "name": "Rajan Batra",
-          "url": "https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c"
-        }
-      ],
-      "duration_ms": 180624,
-      "name": "Paar Laaye",
-      "url": "https://open.spotify.com/track/3MSWGzFm8N3wJvOloRovR6"
-    },
-    {
       "added_at": "2023-01-20 07:26:20",
       "album": {
         "name": "Hazir Main Rahun",
@@ -107,6 +91,22 @@
       "duration_ms": 247680,
       "name": "Hazir Main Rahun",
       "url": "https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW"
+    },
+    {
+      "added_at": "2023-01-20 09:37:17",
+      "album": {
+        "name": "Paar Laaye",
+        "url": "https://open.spotify.com/album/07JJWCjfs4UDGYGCamuncp"
+      },
+      "artists": [
+        {
+          "name": "Rajan Batra",
+          "url": "https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c"
+        }
+      ],
+      "duration_ms": 180624,
+      "name": "Paar Laaye",
+      "url": "https://open.spotify.com/track/3MSWGzFm8N3wJvOloRovR6"
     },
     {
       "added_at": "2023-01-20 07:26:20",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-01-20 07:26:20",
       "album": {
+        "name": "Mera Safar",
+        "url": "https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "duration_ms": 190549,
+      "name": "Mera Safar",
+      "url": "https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ"
+    },
+    {
+      "added_at": "2023-01-20 07:26:20",
+      "album": {
         "name": "Khoya",
         "url": "https://open.spotify.com/album/2D8X4Z53wmX6LNs0SpBFV1"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 196233,
       "name": "Betahasha",
       "url": "https://open.spotify.com/track/7D5x7oRRK279Tx3SzJ95it"
-    },
-    {
-      "added_at": "2023-01-20 07:26:20",
-      "album": {
-        "name": "Mera Safar",
-        "url": "https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q"
-      },
-      "artists": [
-        {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
-        }
-      ],
-      "duration_ms": 190549,
-      "name": "Mera Safar",
-      "url": "https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ"
     },
     {
       "added_at": "2023-01-20 07:26:20",
@@ -575,6 +575,38 @@
     {
       "added_at": "2023-01-20 07:26:20",
       "album": {
+        "name": "Khwaab",
+        "url": "https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4"
+      },
+      "artists": [
+        {
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+        }
+      ],
+      "duration_ms": 178421,
+      "name": "Khwaab",
+      "url": "https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj"
+    },
+    {
+      "added_at": "2023-01-20 07:26:20",
+      "album": {
+        "name": "Tu Chodiyon Na",
+        "url": "https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe"
+      },
+      "artists": [
+        {
+          "name": "Ronit Vinta",
+          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
+        }
+      ],
+      "duration_ms": 212922,
+      "name": "Tu Chodiyon Na",
+      "url": "https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA"
+    },
+    {
+      "added_at": "2023-01-20 07:26:20",
+      "album": {
         "name": "Baaton Baaton Main",
         "url": "https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY"
       },
@@ -591,6 +623,26 @@
       "duration_ms": 234374,
       "name": "Baaton Baaton Main",
       "url": "https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB"
+    },
+    {
+      "added_at": "2023-01-20 07:26:20",
+      "album": {
+        "name": "Woh Raat",
+        "url": "https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX"
+      },
+      "artists": [
+        {
+          "name": "Shivoryx",
+          "url": "https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo"
+        },
+        {
+          "name": "Ronit Vinta",
+          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
+        }
+      ],
+      "duration_ms": 191460,
+      "name": "Woh Raat",
+      "url": "https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC"
     },
     {
       "added_at": "2023-01-20 07:26:20",
@@ -619,22 +671,6 @@
     {
       "added_at": "2023-01-20 07:26:20",
       "album": {
-        "name": "Tu Chodiyon Na",
-        "url": "https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe"
-      },
-      "artists": [
-        {
-          "name": "Ronit Vinta",
-          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
-        }
-      ],
-      "duration_ms": 212922,
-      "name": "Tu Chodiyon Na",
-      "url": "https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA"
-    },
-    {
-      "added_at": "2023-01-20 07:26:20",
-      "album": {
         "name": "Ek Din",
         "url": "https://open.spotify.com/album/61VF8aptPP2fs4Idcakhr1"
       },
@@ -647,6 +683,38 @@
       "duration_ms": 300202,
       "name": "Ek Din",
       "url": "https://open.spotify.com/track/6hFeEa1XPaw2bbHi8eFt4x"
+    },
+    {
+      "added_at": "2023-01-20 07:26:20",
+      "album": {
+        "name": "Aankhon Se Batana",
+        "url": "https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws"
+      },
+      "artists": [
+        {
+          "name": "Dikshant",
+          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
+        }
+      ],
+      "duration_ms": 221271,
+      "name": "Aankhon Se Batana",
+      "url": "https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH"
+    },
+    {
+      "added_at": "2023-01-20 07:26:20",
+      "album": {
+        "name": "Karwaan",
+        "url": "https://open.spotify.com/album/4sXJC1aQtXFGeqSBfpIuTz"
+      },
+      "artists": [
+        {
+          "name": "Samarth Swarup",
+          "url": "https://open.spotify.com/artist/4aJYDGgfPkCmnWOLQqskNK"
+        }
+      ],
+      "duration_ms": 240507,
+      "name": "Karwaan",
+      "url": "https://open.spotify.com/track/78APpAdpP2eZ5uvTrI6Awx"
     },
     {
       "added_at": "2023-01-20 07:26:20",
@@ -683,6 +751,22 @@
     {
       "added_at": "2023-01-20 07:26:20",
       "album": {
+        "name": "Barsatein",
+        "url": "https://open.spotify.com/album/5JNgoPSzkWxkT1W2EMqgR7"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "duration_ms": 222331,
+      "name": "Barsatein",
+      "url": "https://open.spotify.com/track/3RgqESJgY3KhxvonPhZ9Gp"
+    },
+    {
+      "added_at": "2023-01-20 07:26:20",
+      "album": {
         "name": "Makhmal",
         "url": "https://open.spotify.com/album/1vyIwvbXKGfu9AoLNg6WGx"
       },
@@ -707,42 +791,6 @@
     {
       "added_at": "2023-01-20 07:26:20",
       "album": {
-        "name": "Barsatein",
-        "url": "https://open.spotify.com/album/5JNgoPSzkWxkT1W2EMqgR7"
-      },
-      "artists": [
-        {
-          "name": "Mitraz",
-          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
-        }
-      ],
-      "duration_ms": 222331,
-      "name": "Barsatein",
-      "url": "https://open.spotify.com/track/3RgqESJgY3KhxvonPhZ9Gp"
-    },
-    {
-      "added_at": "2023-01-20 07:26:20",
-      "album": {
-        "name": "Woh Raat",
-        "url": "https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX"
-      },
-      "artists": [
-        {
-          "name": "Shivoryx",
-          "url": "https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo"
-        },
-        {
-          "name": "Ronit Vinta",
-          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
-        }
-      ],
-      "duration_ms": 191460,
-      "name": "Woh Raat",
-      "url": "https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC"
-    },
-    {
-      "added_at": "2023-01-20 07:26:20",
-      "album": {
         "name": "Rahguzar",
         "url": "https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3"
       },
@@ -755,54 +803,6 @@
       "duration_ms": 208166,
       "name": "Rahguzar",
       "url": "https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL"
-    },
-    {
-      "added_at": "2023-01-20 07:26:20",
-      "album": {
-        "name": "Aankhon Se Batana",
-        "url": "https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws"
-      },
-      "artists": [
-        {
-          "name": "Dikshant",
-          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
-        }
-      ],
-      "duration_ms": 221271,
-      "name": "Aankhon Se Batana",
-      "url": "https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH"
-    },
-    {
-      "added_at": "2023-01-20 07:26:20",
-      "album": {
-        "name": "Khwaab",
-        "url": "https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4"
-      },
-      "artists": [
-        {
-          "name": "Anumita Nadesan",
-          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
-        }
-      ],
-      "duration_ms": 178421,
-      "name": "Khwaab",
-      "url": "https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj"
-    },
-    {
-      "added_at": "2023-01-20 07:26:20",
-      "album": {
-        "name": "Karwaan",
-        "url": "https://open.spotify.com/album/4sXJC1aQtXFGeqSBfpIuTz"
-      },
-      "artists": [
-        {
-          "name": "Samarth Swarup",
-          "url": "https://open.spotify.com/artist/4aJYDGgfPkCmnWOLQqskNK"
-        }
-      ],
-      "duration_ms": 240507,
-      "name": "Karwaan",
-      "url": "https://open.spotify.com/track/78APpAdpP2eZ5uvTrI6Awx"
     },
     {
       "added_at": "2023-01-20 07:26:20",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-01-20 07:26:20",
       "album": {
-        "name": "Badra Bahara",
-        "url": "https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl"
-      },
-      "artists": [
-        {
-          "name": "Vismay Patel",
-          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
-        }
-      ],
-      "duration_ms": 156107,
-      "name": "Badra Bahara",
-      "url": "https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed"
-    },
-    {
-      "added_at": "2023-01-20 07:26:20",
-      "album": {
         "name": "Kahaani",
         "url": "https://open.spotify.com/album/1MnbaNHLBduuqDZwU0uWTU"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 188200,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/0lbe1bIqb5rR1czdQP6fTK"
+    },
+    {
+      "added_at": "2023-01-20 07:26:20",
+      "album": {
+        "name": "Badra Bahara",
+        "url": "https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl"
+      },
+      "artists": [
+        {
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
+        }
+      ],
+      "duration_ms": 156107,
+      "name": "Badra Bahara",
+      "url": "https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed"
     },
     {
       "added_at": "2023-01-20 07:26:20",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-01-20 07:26:20",
       "album": {
-        "name": "Dil",
-        "url": "https://open.spotify.com/album/0cbPgz6gaYyUp2eCn8WpS4"
-      },
-      "artists": [
-        {
-          "name": "Dream Note",
-          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Dil",
-      "url": "https://open.spotify.com/track/0AcjYkz8h6XhmASAoaHgBY"
-    },
-    {
-      "added_at": "2023-01-20 07:26:20",
-      "album": {
         "name": "Saanjh",
         "url": "https://open.spotify.com/album/6lzFKrN8dJifMdpDBNuOw8"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 282391,
       "name": "Saanjh",
       "url": "https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs"
+    },
+    {
+      "added_at": "2023-01-20 07:26:20",
+      "album": {
+        "name": "Dil",
+        "url": "https://open.spotify.com/album/0cbPgz6gaYyUp2eCn8WpS4"
+      },
+      "artists": [
+        {
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Dil",
+      "url": "https://open.spotify.com/track/0AcjYkz8h6XhmASAoaHgBY"
     },
     {
       "added_at": "2023-01-20 07:26:20",

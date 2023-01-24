@@ -2,7 +2,7 @@
 
 ### [Synthpop Classics ](https://open.spotify.com/playlist/37i9dQZF1DWU1f2CQHNexG)
 
-> Dancing to electro\-pop like a robot from 1984\. Cover: The Psychedelic Furs.
+> Dancing to electro\-pop like a robot from 1984\. Cover: Depeche Mode.
 
 113 songs - 7 hr 59 min
 
@@ -35,7 +35,7 @@
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/40dJCw4xU6Bd5ie9rfagNo) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/4yaypP8ytl2ghM2kiNSD8a) | 4:11 | 2022-03-10 | 2022-07-29 |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2022-03-10 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/7FjO6tymaNxO9Jr4xqmvZh) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Cinematic Reflections](https://open.spotify.com/album/4ozY3aWk7ip0JxqDRcpBG5) | 4:13 | 2022-09-18 | 2022-11-13 |
-| [Everything Counts](https://open.spotify.com/track/31xOx8PgBKBdXk5gfUvr0p) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Everything Counts](https://open.spotify.com/album/1pXjpgob9bE4OFxCUSSVjQ) | 3:59 | 2022-03-10 |  |
+| [Everything Counts](https://open.spotify.com/track/31xOx8PgBKBdXk5gfUvr0p) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Everything Counts](https://open.spotify.com/album/1pXjpgob9bE4OFxCUSSVjQ) | 3:59 | 2022-03-10 | 2023-01-24 |
 | [Everything Counts](https://open.spotify.com/track/1mb5bblw96UieIjCPlWyEw) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Construction Time Again](https://open.spotify.com/album/4PACSjpgl1unuvybxtiZqo) | 4:21 | 2022-03-10 | 2022-07-29 |
 | [Everything Counts \- 2006 Digital Remaster](https://open.spotify.com/track/5TQnwwwx5na4rCj6EVcdvV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best Of Depeche Mode \- Volume One](https://open.spotify.com/album/6gHRLG5Gbjk3vwtgmadx1g) | 4:01 | 2022-03-10 | 2022-07-29 |
 | [Everything Counts \- 2006 Remaster](https://open.spotify.com/track/6JN0k3R65B7T47lsHwgBjQ) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 3:58 | 2022-09-18 | 2022-11-14 |

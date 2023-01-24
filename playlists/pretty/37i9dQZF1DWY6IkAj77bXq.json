@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 45329,
+  "num_followers": 45404,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYyNzAzNywwMDAwMDAwMDJiZjBmZjRjOWFkM2Y1NzBkYmU1YzRjNjJlMjVkZmRk",
+  "snapshot_id": "MTY3MzYyNzAzNywwMDAwMDAwMDc2YTZhZGQ2YWMxMDI0ZDgzMGM2MjlhNTBhMjgzNmJh",
   "tracks": [
     {
       "added_at": "2023-01-10 09:52:16",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/5CHoemwnNzdSTwtNhimg3N"
     },
     {
+      "added_at": "2023-01-24 01:12:16",
+      "album": {
+        "name": "Osceola",
+        "url": "https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE"
+      },
+      "artists": [
+        {
+          "name": "Eyelydia",
+          "url": "https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27"
+        }
+      ],
+      "duration_ms": 150250,
+      "name": "Let Hold",
+      "url": "https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz"
+    },
+    {
       "added_at": "2023-01-10 09:52:16",
       "album": {
         "name": "Simple Soul",
@@ -555,22 +571,6 @@
     {
       "added_at": "2023-01-10 09:52:16",
       "album": {
-        "name": "Hills Of Clarity",
-        "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
-      },
-      "artists": [
-        {
-          "name": "Elevated Minds",
-          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
-        }
-      ],
-      "duration_ms": 255792,
-      "name": "Hills Of Clarity",
-      "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
-    },
-    {
-      "added_at": "2023-01-10 09:52:16",
-      "album": {
         "name": "Bortgjemt",
         "url": "https://open.spotify.com/album/4j6C8rGpkGhSeAekuBdHiM"
       },
@@ -585,20 +585,20 @@
       "url": "https://open.spotify.com/track/3cEeIEPEocUTo3U4gD7MDG"
     },
     {
-      "added_at": "2023-01-23 00:47:07",
+      "added_at": "2023-01-10 09:52:16",
       "album": {
-        "name": "Osceola",
-        "url": "https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE"
+        "name": "Hills Of Clarity",
+        "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
       },
       "artists": [
         {
-          "name": "Eyelydia",
-          "url": "https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27"
+          "name": "Elevated Minds",
+          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
         }
       ],
-      "duration_ms": 150250,
-      "name": "Let Hold",
-      "url": "https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz"
+      "duration_ms": 255792,
+      "name": "Hills Of Clarity",
+      "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
     },
     {
       "added_at": "2023-01-10 09:52:16",
@@ -681,6 +681,22 @@
       "url": "https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf"
     },
     {
+      "added_at": "2023-01-24 01:12:16",
+      "album": {
+        "name": "Free Of Hesitation",
+        "url": "https://open.spotify.com/album/6Qckgdp2NNvXFw6vKLRMXr"
+      },
+      "artists": [
+        {
+          "name": "Abigail Dorsey",
+          "url": "https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR"
+        }
+      ],
+      "duration_ms": 160427,
+      "name": "Free Of Hesitation",
+      "url": "https://open.spotify.com/track/2rqRLfEDVwbH67LanM8FCc"
+    },
+    {
       "added_at": "2023-01-10 09:52:16",
       "album": {
         "name": "Love",
@@ -711,22 +727,6 @@
       "duration_ms": 229333,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes"
-    },
-    {
-      "added_at": "2023-01-23 00:47:07",
-      "album": {
-        "name": "Free Of Hesitation",
-        "url": "https://open.spotify.com/album/6Qckgdp2NNvXFw6vKLRMXr"
-      },
-      "artists": [
-        {
-          "name": "Abigail Dorsey",
-          "url": "https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR"
-        }
-      ],
-      "duration_ms": 160427,
-      "name": "Free Of Hesitation",
-      "url": "https://open.spotify.com/track/2rqRLfEDVwbH67LanM8FCc"
     },
     {
       "added_at": "2023-01-10 09:52:16",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-01-10 09:52:16",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9"
-      },
-      "artists": [
-        {
-          "name": "Yorokobi",
-          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
-        }
-      ],
-      "duration_ms": 143013,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/4JFZbbKcC9HtTgL7NEnbA0"
-    },
-    {
-      "added_at": "2023-01-10 09:52:16",
-      "album": {
         "name": "Solfeggio Frequencies & Meditation Music",
         "url": "https://open.spotify.com/album/2g5UiicNoSaurcZu4oIwgS"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2023-01-10 09:52:16",
       "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/5MtwNMAmnLtfobUTnJm1O9"
+      },
+      "artists": [
+        {
+          "name": "Yorokobi",
+          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
+        }
+      ],
+      "duration_ms": 143013,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/4JFZbbKcC9HtTgL7NEnbA0"
+    },
+    {
+      "added_at": "2023-01-10 09:52:16",
+      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/52V9mKrjrDameJBbXroPua"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-01-10 09:52:16",
       "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/4aquErMoJ6lr67HTcTMPPB"
+        "name": "Sammram",
+        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
       },
       "artists": [
         {
-          "name": "xerLK",
-          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
         }
       ],
-      "duration_ms": 178928,
-      "name": "Heavenly",
-      "url": "https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ"
+      "duration_ms": 206624,
+      "name": "Sammram",
+      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
     },
     {
       "added_at": "2023-01-10 09:52:16",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-01-10 09:52:16",
       "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/4aquErMoJ6lr67HTcTMPPB"
+      },
+      "artists": [
+        {
+          "name": "xerLK",
+          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
+        }
+      ],
+      "duration_ms": 178928,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/4TYAkHr7OjLZrERXYmvkAQ"
+    },
+    {
+      "added_at": "2023-01-10 09:52:16",
+      "album": {
         "name": "Floating Without Gravity",
         "url": "https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 162400,
       "name": "Floating Without Gravity",
       "url": "https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU"
-    },
-    {
-      "added_at": "2023-01-10 09:52:16",
-      "album": {
-        "name": "Sammram",
-        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
-      },
-      "artists": [
-        {
-          "name": "Ikupu Ume",
-          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
-        }
-      ],
-      "duration_ms": 206624,
-      "name": "Sammram",
-      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
     },
     {
       "added_at": "2023-01-10 09:52:16",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-01-10 09:52:16",
       "album": {
-        "name": "Calming Water",
-        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
-      },
-      "artists": [
-        {
-          "name": "Divine Retreat",
-          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
-        }
-      ],
-      "duration_ms": 239353,
-      "name": "Cleansing Raindrops",
-      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
-    },
-    {
-      "added_at": "2023-01-10 09:52:16",
-      "album": {
         "name": "Air in the Morning",
         "url": "https://open.spotify.com/album/6g2GVf0zN2aESjaVDsI9hF"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2023-01-10 09:52:16",
       "album": {
-        "name": "Quiet Hours",
-        "url": "https://open.spotify.com/album/45anDTXW4ebJ5bkVNxEh7v"
+        "name": "Calming Water",
+        "url": "https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70"
       },
       "artists": [
         {
-          "name": "Scandinavian Nights",
-          "url": "https://open.spotify.com/artist/4UrhClOtVbcbsiCZYDMoWL"
+          "name": "Divine Retreat",
+          "url": "https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG"
         }
       ],
-      "duration_ms": 187118,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/4PW8tiBzQcEutmPndIZagA"
+      "duration_ms": 239353,
+      "name": "Cleansing Raindrops",
+      "url": "https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e"
     },
     {
       "added_at": "2023-01-10 09:52:16",
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2023-01-10 09:52:16",
       "album": {
+        "name": "Quiet Hours",
+        "url": "https://open.spotify.com/album/45anDTXW4ebJ5bkVNxEh7v"
+      },
+      "artists": [
+        {
+          "name": "Scandinavian Nights",
+          "url": "https://open.spotify.com/artist/4UrhClOtVbcbsiCZYDMoWL"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/4PW8tiBzQcEutmPndIZagA"
+    },
+    {
+      "added_at": "2023-01-10 09:52:16",
+      "album": {
         "name": "Capella",
         "url": "https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-01-10 09:52:16",
       "album": {
-        "name": "Psybient (Psychedelic Ambient Music)",
-        "url": "https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM"
-      },
-      "artists": [
-        {
-          "name": "Heaven on Earth Instrumental Universe",
-          "url": "https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt"
-        }
-      ],
-      "duration_ms": 196777,
-      "name": "Vivid Imagination",
-      "url": "https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG"
-    },
-    {
-      "added_at": "2023-01-10 09:52:16",
-      "album": {
         "name": "Dream Away",
         "url": "https://open.spotify.com/album/4mDtIUHurk4JseJecvovSx"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 124615,
       "name": "Dream Away",
       "url": "https://open.spotify.com/track/7G9mgszDgcXRn8BlShb2kE"
+    },
+    {
+      "added_at": "2023-01-10 09:52:16",
+      "album": {
+        "name": "Psybient (Psychedelic Ambient Music)",
+        "url": "https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM"
+      },
+      "artists": [
+        {
+          "name": "Heaven on Earth Instrumental Universe",
+          "url": "https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt"
+        }
+      ],
+      "duration_ms": 196777,
+      "name": "Vivid Imagination",
+      "url": "https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG"
     },
     {
       "added_at": "2023-01-10 09:52:16",

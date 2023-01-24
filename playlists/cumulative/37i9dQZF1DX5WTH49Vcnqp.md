@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Arlo Parks
 
-711 songs - 1 day 16 hr 23 min
+712 songs - 1 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [Real Nice \(H.C.T.F.\) \(feat\. Nerve\)](https://open.spotify.com/track/7IcfiG6VRJYZMvRxRYlYGp) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Real Nice \(H.C.T.F.\)](https://open.spotify.com/album/1J8pqICACP8NoLgHxUPUMR) | 2:40 | 2021-12-28 | 2022-01-17 |
 | [Red Earth Dirt](https://open.spotify.com/track/3Ymvh9FUXL6sjDG3A1R1NP) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Red Earth Dirt](https://open.spotify.com/album/6hpjwCa1aIihRixuYzQOC2) | 3:50 | 2022-02-14 | 2022-03-25 |
 | [reel](https://open.spotify.com/track/6Z53T7w8pY8MM8HxKMOvLO) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [reel](https://open.spotify.com/album/2kpAgM8bcOmEy61adSUmm9) | 2:56 | 2022-03-30 | 2022-06-08 |
+| [Reelin'](https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C) | 3:28 | 2023-01-24 |  |
 | [Replay](https://open.spotify.com/track/65PBk5Sinl37TnGFCHhZ5W) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Replay](https://open.spotify.com/album/5B7YUe51m5YSss72USkQoE) | 3:23 | 2022-11-17 |  |
 | [Rerun](https://open.spotify.com/track/4tZ1Orj5XbdeVEh0oXR3MA) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Rerun](https://open.spotify.com/album/48rLNLXpIHGFxVxf3Hrn2I) | 3:21 | 2022-04-04 | 2022-06-17 |
 | [Retro](https://open.spotify.com/track/0wi4gkHVHSARtzyqnMZNno) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A), [Taebz](https://open.spotify.com/artist/5L6UHAq53G5zTorqTxO9Pk) | [Retro](https://open.spotify.com/album/2fY15GrZqMNBWhluqG9kIo) | 2:35 | 2021-12-28 | 2022-01-21 |
@@ -678,7 +679,7 @@
 | [Voodoo](https://open.spotify.com/track/0XEdjeDM3U9bFCDppETpev) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Barely Speaking English](https://open.spotify.com/album/3hmHNG7LbHgQngJOsi3A19) | 2:25 | 2021-12-28 | 2022-01-14 |
 | [Waiting for Nothing \(feat\. Yaeger\)](https://open.spotify.com/track/4vnPji7QI3Bt3XDZxfDAXr) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Waiting for Nothing \(feat\. Yaeger\)](https://open.spotify.com/album/5cZopeO3e9cyeXAOPVCgLK) | 4:08 | 2021-12-28 | 2022-03-11 |
 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 | 2022-06-06 | 2022-07-29 |
-| [Wanted More](https://open.spotify.com/track/0ooVZc9MsUtiHKy9QtnbH3) | [XANU](https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN) | [Wanted More](https://open.spotify.com/album/1grxrDJUvkQgAY7PZMXWZj) | 2:55 | 2022-12-22 |  |
+| [Wanted More](https://open.spotify.com/track/0ooVZc9MsUtiHKy9QtnbH3) | [XANU](https://open.spotify.com/artist/3R51EM0ysdhs3FRbaw8mvN) | [Wanted More](https://open.spotify.com/album/1grxrDJUvkQgAY7PZMXWZj) | 2:55 | 2022-12-22 | 2023-01-24 |
 | [Wash My Sorrows Away](https://open.spotify.com/track/2h56k28DnkktEjeL5MOtld) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Wash My Sorrows Away](https://open.spotify.com/album/4BKYhAOgJ756TrZPXpv1q5) | 3:49 | 2021-12-28 | 2022-02-04 |
 | [Waste A Day](https://open.spotify.com/track/2vbtq2lAHfYDUFHYEHlZw5) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Waste A Day](https://open.spotify.com/album/0Bjf8YgyKSn4B4WmnRfM9r) | 3:30 | 2021-12-28 | 2022-02-04 |
 | [Waste Of Space](https://open.spotify.com/track/0BDqmjPsTGs5Lwazq3Evay) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Waste Of Space](https://open.spotify.com/album/3J1NykEkJU34GlEPPPWLuZ) | 3:11 | 2022-07-20 | 2022-09-09 |

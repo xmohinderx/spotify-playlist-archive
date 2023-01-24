@@ -1361,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "The Fairly Odd Parents",
+        "url": "https://open.spotify.com/album/0TNzN5F4lsxUfnvFBcjI2E"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46114,
+      "name": "The Fairly Odd Parents Theme Song",
+      "url": "https://open.spotify.com/track/4yghJ7WGLIOMFbV70QRYKE"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },

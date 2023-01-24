@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del Rock en Espa\u00f1ol. Cover: Wiplash",
-  "num_followers": 277866,
+  "num_followers": 277908,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDA5MDhhZGVkYWFjYWJjZDdhMDZlMTIyOTdmOThmNGI3",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDAxODI0ZTEyOGQ4NjFlMjk2ZmZiMGIxMDhhMTU2YTBm",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
+        "name": "Ramona Flowers",
+        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "Ramona Flowers",
+      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -183,18 +199,18 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Ramona Flowers",
-        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
+        "name": "Mi Mejor Versi\u00f3n",
+        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
         }
       ],
-      "duration_ms": 181240,
-      "name": "Ramona Flowers",
-      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
+      "duration_ms": 201833,
+      "name": "Mi Mejor Versi\u00f3n",
+      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -231,22 +247,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Mi Mejor Versi\u00f3n",
-        "url": "https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 201833,
-      "name": "Mi Mejor Versi\u00f3n",
-      "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "La Petite Mort",
         "url": "https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd"
       },
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 211204,
-      "name": "No Te Imagin\u00e1s",
-      "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Multiverso",
         "url": "https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 181340,
       "name": "Multiverso",
       "url": "https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 211204,
+      "name": "No Te Imagin\u00e1s",
+      "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
+        "name": "Desp\u00eddete Bien",
+        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "Desp\u00eddete Bien",
+      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
         "name": "S\u00f3lo Eres T\u00fa",
         "url": "https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg"
       },
@@ -443,6 +459,26 @@
       "duration_ms": 251177,
       "name": "Ha Sido",
       "url": "https://open.spotify.com/track/5rF9YXAcAAOPzdaCe1fFhj"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "No me preguntes por qu\u00e9",
+        "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
+      },
+      "artists": [
+        {
+          "name": "Rouss",
+          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
+        },
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "duration_ms": 173436,
+      "name": "No me preguntes por qu\u00e9",
+      "url": "https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -495,22 +531,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Desp\u00eddete Bien",
-        "url": "https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 192124,
-      "name": "Desp\u00eddete Bien",
-      "url": "https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "\u00bfY C\u00f3mo?",
         "url": "https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 144155,
       "name": "FBI",
       "url": "https://open.spotify.com/track/5gxQpTNE0oQb7Orf2QbnFX"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "No me preguntes por qu\u00e9",
-        "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
-      },
-      "artists": [
-        {
-          "name": "Rouss",
-          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
-        },
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 173436,
-      "name": "No me preguntes por qu\u00e9",
-      "url": "https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
+        "name": "El mundo no se hizo en dos d\u00edas",
+        "url": "https://open.spotify.com/album/0fgFACvyGw95nnSQbr7mtP"
+      },
+      "artists": [
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 245706,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/09PAG3Co1FvI01BkpTU37G"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
         "name": "Tratar\u00e9",
         "url": "https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI"
       },
@@ -619,18 +635,38 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "El mundo no se hizo en dos d\u00edas",
-        "url": "https://open.spotify.com/album/0fgFACvyGw95nnSQbr7mtP"
+        "name": "Los Cobardes Viven Siempre",
+        "url": "https://open.spotify.com/album/0Icc3ELm9tbfwoCoYeSHLx"
       },
       "artists": [
         {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
         }
       ],
-      "duration_ms": 245706,
-      "name": "Diamante",
-      "url": "https://open.spotify.com/track/09PAG3Co1FvI01BkpTU37G"
+      "duration_ms": 214402,
+      "name": "Los Cobardes Viven Siempre",
+      "url": "https://open.spotify.com/track/3rwcoBT2HRRoCWYVpcAZOW"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "No Me Lo Creo Ni Yo",
+        "url": "https://open.spotify.com/album/35uAGAZg9bWa5JCkXjSKWv"
+      },
+      "artists": [
+        {
+          "name": "Lemot",
+          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
+        },
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "duration_ms": 170535,
+      "name": "No Me Lo Creo Ni Yo",
+      "url": "https://open.spotify.com/track/1YGwkzw6RVFsO2h9RkDB47"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -671,26 +707,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "No Me Lo Creo Ni Yo",
-        "url": "https://open.spotify.com/album/35uAGAZg9bWa5JCkXjSKWv"
-      },
-      "artists": [
-        {
-          "name": "Lemot",
-          "url": "https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A"
-        },
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 170535,
-      "name": "No Me Lo Creo Ni Yo",
-      "url": "https://open.spotify.com/track/1YGwkzw6RVFsO2h9RkDB47"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Disco de Oro",
         "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 224736,
       "name": "Tentempi\u00e9",
       "url": "https://open.spotify.com/track/5eCKnzn95RO30yOJbzdE04"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Los Cobardes Viven Siempre",
-        "url": "https://open.spotify.com/album/0Icc3ELm9tbfwoCoYeSHLx"
-      },
-      "artists": [
-        {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
-        }
-      ],
-      "duration_ms": 214402,
-      "name": "Los Cobardes Viven Siempre",
-      "url": "https://open.spotify.com/track/3rwcoBT2HRRoCWYVpcAZOW"
     },
     {
       "added_at": "2023-01-20 05:00:00",

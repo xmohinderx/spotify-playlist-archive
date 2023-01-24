@@ -1741,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Ambient Cabin Sessions",
+        "url": "https://open.spotify.com/album/6SvVbc2gGHiC9a4XmkojAZ"
+      },
+      "artists": [
+        {
+          "name": "The Wong Janice",
+          "url": "https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Marrakesh with a Hint of the Sea (Ambient Cello)",
+      "url": "https://open.spotify.com/track/4SbM9lxA56daZ23t1f0mJ5"
+    },
+    {
+      "album": {
         "name": "Oumuamua",
         "url": "https://open.spotify.com/album/7bfDO9ymlhD1LaTxShxHwJ"
       },
@@ -2950,7 +2968,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-24",
       "duration_ms": 216000,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h"
