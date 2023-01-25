@@ -1,12 +1,12 @@
 {
   "description": "A playlist for your Arab hipster starter kit.",
-  "num_followers": 80201,
+  "num_followers": 80259,
   "original_name": "Funk & Disco Zamaan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNTIwNDkwMSwwMDAwMDAwMDcxNTM1ZDBmNGI1ZDc4NDA5OTVkM2Q1ZmU1NWNmZThh",
+  "snapshot_id": "MTYwNTIwNDkwMSwwMDAwMDAwMGU0NWFjN2E1YzA0ODIwNjJkYmQwOGI1OTc5YjI0Y2Vi",
   "tracks": [
     {
       "added_at": "2020-05-01 20:42:05",
@@ -223,6 +223,22 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Mafatshi Leh",
+      "url": "https://open.spotify.com/track/6XZx1hYWTccsszDqraXHSX"
+    },
+    {
+      "added_at": "2020-05-01 20:42:05",
+      "album": {
         "name": "Egyptian Jazz",
         "url": "https://open.spotify.com/album/2qCSIYhyOQ8LJ8Dwc8Cmu0"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 295040,
       "name": "Egypt Strut",
       "url": "https://open.spotify.com/track/7IRDObySzzj0nd5ZyufbVm"
-    },
-    {
-      "added_at": "2020-05-01 20:42:05",
-      "album": {
-        "name": "Modern Music (Habibi Funk 006)",
-        "url": "https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd"
-      },
-      "artists": [
-        {
-          "name": "Al Massrieen",
-          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Mafatshi Leh",
-      "url": "https://open.spotify.com/track/6XZx1hYWTccsszDqraXHSX"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -327,22 +327,6 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Compilation",
-        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Fakroun",
-          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
-        }
-      ],
-      "duration_ms": 239752,
-      "name": "Soleil Soleil",
-      "url": "https://open.spotify.com/track/0VRaAGkuevKrmX4pBFyW1u"
-    },
-    {
-      "added_at": "2020-05-01 20:42:05",
-      "album": {
         "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
         "url": "https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 320000,
       "name": "Al Asafir",
       "url": "https://open.spotify.com/track/0R6cTcF0S4XQWSlegJC4Dg"
+    },
+    {
+      "added_at": "2020-05-01 20:42:05",
+      "album": {
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Fakroun",
+          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
+        }
+      ],
+      "duration_ms": 239752,
+      "name": "Soleil Soleil",
+      "url": "https://open.spotify.com/track/0VRaAGkuevKrmX4pBFyW1u"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -507,22 +507,22 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "El Donia Risha F Hawa",
-        "url": "https://open.spotify.com/album/6OT8AOdsKR9O7dLzaF6St5"
+        "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ"
       },
       "artists": [
         {
-          "name": "Disco Misr",
-          "url": "https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi"
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
         },
         {
-          "name": "Sherine Abdo",
-          "url": "https://open.spotify.com/artist/4iDYjt667N6FZQVkT4WSZf"
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
         }
       ],
-      "duration_ms": 185570,
-      "name": "El Donia Risha F Hawa",
-      "url": "https://open.spotify.com/track/5zPaNHm3D7H4k6CnMM1EUD"
+      "duration_ms": 415000,
+      "name": "Forssa Saeeda",
+      "url": "https://open.spotify.com/track/1KXgQYlW0U2z8k3bP6Kqyh"
     },
     {
       "added_at": "2020-05-01 20:42:05",
@@ -563,22 +563,22 @@
     {
       "added_at": "2020-05-01 20:42:05",
       "album": {
-        "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
-        "url": "https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ"
+        "name": "El Donia Risha F Hawa",
+        "url": "https://open.spotify.com/album/6OT8AOdsKR9O7dLzaF6St5"
       },
       "artists": [
         {
-          "name": "The Scorpions",
-          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+          "name": "Disco Misr",
+          "url": "https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi"
         },
         {
-          "name": "Saif Abu Bakr",
-          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+          "name": "Sherine Abdo",
+          "url": "https://open.spotify.com/artist/4iDYjt667N6FZQVkT4WSZf"
         }
       ],
-      "duration_ms": 415000,
-      "name": "Forssa Saeeda",
-      "url": "https://open.spotify.com/track/1KXgQYlW0U2z8k3bP6Kqyh"
+      "duration_ms": 185570,
+      "name": "El Donia Risha F Hawa",
+      "url": "https://open.spotify.com/track/5zPaNHm3D7H4k6CnMM1EUD"
     },
     {
       "added_at": "2020-05-01 20:42:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Feid & Yandel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,785,874 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,786,248 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 2 | [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 |
 | 3 | [DEBI LLEVARTE FLORES](https://open.spotify.com/track/2sgRUvRB8dCGpqxmbOrsMO) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [THE LIFE OF XULO](https://open.spotify.com/album/1UOrzS8OYpnI6I1GYr9ICX) | 3:20 |
 | 4 | [LOKOTRON REMIX](https://open.spotify.com/track/5uq1p5tvZhSTRpZZTwuQPj) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Tom fomt](https://open.spotify.com/artist/7GuMDzwhKre9vE0894eNRj) | [LOKOTRON REMIX](https://open.spotify.com/album/20AWnC24OYqJyZfmzcEc9N) | 6:10 |
-| 5 | [Como Tu Ninguna \- Remix](https://open.spotify.com/track/19sodmNrtcRrRHVTnzhtsZ) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Welcome To My World](https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f) | 3:39 |
+| 5 | [Como Tu Ninguna \- Remix](https://open.spotify.com/track/19sodmNrtcRrRHVTnzhtsZ) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Welcome To My World](https://open.spotify.com/album/6JUTj8yO1favP3Qfma0G3f) | 3:31 |
 | 6 | [Ese Corte](https://open.spotify.com/track/7iBFkn9NTeNW9jfwiCzF39) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Ese Corte](https://open.spotify.com/album/5w1Dc758WHXknbwunFxAZU) | 3:39 |
 | 7 | [NOPALATELE](https://open.spotify.com/track/0gytcfGU4mtSfckMajYQS9) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [NOPALATELE](https://open.spotify.com/album/1snuYixt90LiQwCVQtUwOC) | 4:17 |
 | 8 | [Muñeca](https://open.spotify.com/track/5MxnvIBS4UMUpbZUKQsuNA) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Muñeca](https://open.spotify.com/album/3cBboEvTyis7wuw6viGmaH) | 3:02 |

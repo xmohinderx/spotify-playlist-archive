@@ -4,7 +4,7 @@
 
 > It's Hits – bästa och största hitsen just nu.
 
-356 songs - 17 hr 53 min
+358 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,8 @@
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-01-20 | 2022-02-02 |
 | [Ut med allt](https://open.spotify.com/track/7Ek3bY3DecGbIaRKo7aQVQ) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ut med allt](https://open.spotify.com/album/3j4hIguJ9ftVQI6J4ZUGSE) | 2:21 | 2022-04-11 | 2022-07-08 |
 | [VAD E DE HÄR?](https://open.spotify.com/track/30wWZkgDfUCugZlBiaDCax) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [VAD E DE HÄR?](https://open.spotify.com/album/7c5UGlBUaND72lQ8lMesHv) | 2:41 | 2022-07-14 | 2022-08-17 |
-| [Vandraren](https://open.spotify.com/track/208L6npsyAKCgydKH9IX3k) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Vandraren](https://open.spotify.com/album/6gNxWsQvqHR1M98lOdRMqz) | 3:29 | 2022-12-09 |  |
+| [Vandraren](https://open.spotify.com/track/208L6npsyAKCgydKH9IX3k) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Vandraren](https://open.spotify.com/album/6gNxWsQvqHR1M98lOdRMqz) | 3:29 | 2022-12-09 | 2023-01-25 |
+| [Vandraren](https://open.spotify.com/track/6RM3nkmx7A6BRUpNkA6SCM) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Så mycket bättre 2022 \- Tolkningarna](https://open.spotify.com/album/20TlyZgpi1xGo3C4ECtG7h) | 3:29 | 2023-01-19 |  |
 | [Varsomhelst/Närsomhelst \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/6CodyRtMuUIe8F7OvV7US9) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Varsomhelst/Närsomhelst \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/0ROZR11tK42lCB4dByJwU5) | 2:59 | 2021-12-16 | 2022-01-08 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-05-06 | 2022-05-14 |
 | [Vi ska aldrig gå hem](https://open.spotify.com/track/3blcSPHFksw5iawgH4b9aV) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Vi ska aldrig gå hem](https://open.spotify.com/album/18g5CdLyYBmUSVaTFYfxvs) | 3:15 | 2021-12-16 | 2022-04-29 |
@@ -363,6 +364,7 @@
 | [X](https://open.spotify.com/track/3Tp6XRivI85TAfpgja9ILh) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [X](https://open.spotify.com/album/7EH7nvTbjaBd79TeW08awR) | 2:41 | 2022-03-18 | 2022-09-30 |
 | [you were there for me](https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [you were there for me](https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV) | 3:15 | 2022-09-01 | 2023-01-20 |
 | [ZUTTLUKTEN](https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [ZUTTLUKTEN](https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw) | 1:54 | 2022-08-16 | 2022-11-04 |
-| [Återvändsgränd](https://open.spotify.com/track/3y6qyXYv3C0BaYehuAQTLv) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Återvändsgränd](https://open.spotify.com/album/0HcXNRFN67R6c7uFKLSQxA) | 3:15 | 2022-11-24 |  |
+| [Återvändsgränd](https://open.spotify.com/track/2glvJpNPCnuhAKLq1lIdWz) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Så mycket bättre 2022 \- Tolkningarna](https://open.spotify.com/album/20TlyZgpi1xGo3C4ECtG7h) | 3:15 | 2023-01-19 |  |
+| [Återvändsgränd](https://open.spotify.com/track/3y6qyXYv3C0BaYehuAQTLv) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Återvändsgränd](https://open.spotify.com/album/0HcXNRFN67R6c7uFKLSQxA) | 3:15 | 2022-11-24 | 2023-01-25 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

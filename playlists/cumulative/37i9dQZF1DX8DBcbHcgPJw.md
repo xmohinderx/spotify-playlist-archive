@@ -2,7 +2,7 @@
 
 ### [Dame Más Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw)
 
-> ¡Lo mejor de la Cumbia Pop! <br/>Foto: FMK & Rei.
+> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Migrantes, Nico Valdi & LiL CaKe.
 
 339 songs - 16 hr 55 min
 
@@ -325,9 +325,9 @@
 | [Una y Otra Vez](https://open.spotify.com/track/3VSt7R9LHTomKGP1RhkvuT) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Una y Otra Vez](https://open.spotify.com/album/71mlOj56vndSW8GcB5Edfv) | 3:19 | 2022-03-25 | 2022-04-19 |
 | [Universo Paralelo](https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Universo Paralelo](https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP) | 2:36 | 2022-03-25 |  |
 | [Universo Paralelo \- DJ Alex Remix](https://open.spotify.com/track/2GaBEJHDEo7752Ggvq1Z6j) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI) | [Universo Paralelo \(DJ Alex Remix\)](https://open.spotify.com/album/56cmp0jNbl5esgSyOV4Y0l) | 2:16 | 2022-06-17 | 2022-09-05 |
-| [Vamo A Tomar Una](https://open.spotify.com/track/3sfGiBLYZMgepk2kaS8Zyx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Vamo A Tomar Una](https://open.spotify.com/album/69k6xwyz8YkBgOPjrRpfl0) | 2:09 | 2022-05-06 | 2022-11-27 |
+| [Vamo A Tomar Una](https://open.spotify.com/track/3sfGiBLYZMgepk2kaS8Zyx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Vamo A Tomar Una](https://open.spotify.com/album/69k6xwyz8YkBgOPjrRpfl0) | 2:09 | 2022-05-06 |  |
 | [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 | 2021-12-23 |  |
-| [Verano 2015](https://open.spotify.com/track/0qznQrLfR6rEMTms35VIQl) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Verano 2015](https://open.spotify.com/album/4LJviqH6Iy8rKo2fJF0qXh) | 2:46 | 2022-12-09 |  |
+| [Verano 2015](https://open.spotify.com/track/0qznQrLfR6rEMTms35VIQl) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Verano 2015](https://open.spotify.com/album/4LJviqH6Iy8rKo2fJF0qXh) | 2:46 | 2022-12-09 | 2023-01-25 |
 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 | 2021-12-23 |  |
 | [Vivir Asi Es Morir de Amor](https://open.spotify.com/track/0ywBGfsIHLkTxZcv6jCGha) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu), [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Vivir Asi Es Morir de Amor](https://open.spotify.com/album/6HLaUd8u4FScMX7yzU8p4p) | 3:31 | 2022-04-22 | 2022-07-20 |
 | [Voy a Tomar](https://open.spotify.com/track/5nMuA51GB5tb5kr4vx6S5E) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [Voy a Tomar](https://open.spotify.com/album/73o1CXsTOfDdYOvjiHbeDB) | 3:39 | 2023-01-20 | 2023-01-24 |

@@ -1,12 +1,12 @@
 {
   "description": "New England music breaking waves. Cover, Luke Bar$",
-  "num_followers": 1243,
+  "num_followers": 1242,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU5MTg4NiwwMDAwMDAwMDY4MjY2ZjEwOTQ0NzdhZmExMmI5ZGU3ZTNhYmNkNDk0",
+  "snapshot_id": "MTY3NDU0MjAwMCwwMDAwMDAwMGY5OWMxMzYxN2QzZjJiYzIxMjkyYWJiNGIzNWU1N2M2",
   "tracks": [
     {
       "added_at": "2023-01-13 06:38:06",
@@ -77,6 +77,26 @@
       "url": "https://open.spotify.com/track/4tFF4rUola2OtZbesM6PFo"
     },
     {
+      "added_at": "2023-01-24 06:33:20",
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/1qSJjGmMRzlCnEmayz2Q5w"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "DJ Saige",
+          "url": "https://open.spotify.com/artist/273pGYx0ijPUXWDeHtBB7j"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Players - DJ Saige Remix",
+      "url": "https://open.spotify.com/track/2KJJQeibWq6HbY0GfPYE3x"
+    },
+    {
       "added_at": "2023-01-13 06:38:06",
       "album": {
         "name": "Tables Turn",
@@ -127,6 +147,22 @@
       "duration_ms": 85677,
       "name": "End of Discussion",
       "url": "https://open.spotify.com/track/6uiXDPUMlKQjsUOZVVco8g"
+    },
+    {
+      "added_at": "2023-01-24 06:33:20",
+      "album": {
+        "name": "PISSED OFF",
+        "url": "https://open.spotify.com/album/5ktBAjPkD0FTvWoDMWV6kT"
+      },
+      "artists": [
+        {
+          "name": "Clark D",
+          "url": "https://open.spotify.com/artist/7DruDtmm0jIP34WP7PeuF4"
+        }
+      ],
+      "duration_ms": 152658,
+      "name": "PISSED OFF",
+      "url": "https://open.spotify.com/track/6ZivcaQAhE7jxwObzte6Uk"
     },
     {
       "added_at": "2022-12-02 21:40:57",
@@ -207,22 +243,6 @@
       "duration_ms": 128054,
       "name": "Tangerine (feat. Brooklyn Nicole)",
       "url": "https://open.spotify.com/track/3Gwzt4riQagh0mKz1j5ERq"
-    },
-    {
-      "added_at": "2022-12-30 14:03:25",
-      "album": {
-        "name": "Players",
-        "url": "https://open.spotify.com/album/3OLd7wJp5pxxggJQBDu72k"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/10RmUrJ28kkj7XgekcfZpc"
     },
     {
       "added_at": "2022-12-02 21:40:57",
@@ -313,54 +333,6 @@
       "url": "https://open.spotify.com/track/5BwGvMLx9eTDR9XFNZ9tiQ"
     },
     {
-      "added_at": "2022-12-02 21:40:57",
-      "album": {
-        "name": "Ready 4 Anything",
-        "url": "https://open.spotify.com/album/31LNac4ernnooIrg87YCxA"
-      },
-      "artists": [
-        {
-          "name": "Mo Bangaz",
-          "url": "https://open.spotify.com/artist/7lIiOcOBI059zW6PY5Ghqg"
-        }
-      ],
-      "duration_ms": 135211,
-      "name": "Ready 4 Anything",
-      "url": "https://open.spotify.com/track/2Ydl5VPrkqqFHMzYRO7EuM"
-    },
-    {
-      "added_at": "2022-10-25 18:05:16",
-      "album": {
-        "name": "4LIFERS",
-        "url": "https://open.spotify.com/album/04KLHLLHNJUnkZzyeMqwiT"
-      },
-      "artists": [
-        {
-          "name": "Clark D",
-          "url": "https://open.spotify.com/artist/7DruDtmm0jIP34WP7PeuF4"
-        }
-      ],
-      "duration_ms": 150422,
-      "name": "4LIFERS",
-      "url": "https://open.spotify.com/track/60flkro3V81oYYSo6uceUo"
-    },
-    {
-      "added_at": "2022-12-30 14:03:25",
-      "album": {
-        "name": "AND SOON",
-        "url": "https://open.spotify.com/album/4fIRYkHAwXFuBu4jhdUPwW"
-      },
-      "artists": [
-        {
-          "name": "Luke Bar$",
-          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "AND SOON",
-      "url": "https://open.spotify.com/track/2MG6HlcjrozHZgnNC0ic2i"
-    },
-    {
       "added_at": "2022-09-30 22:42:10",
       "album": {
         "name": "Lord Flow",
@@ -395,22 +367,6 @@
       "duration_ms": 176469,
       "name": "sex! money! violence!",
       "url": "https://open.spotify.com/track/7JwV5GYsVIRW5wrJw3lvAI"
-    },
-    {
-      "added_at": "2022-09-24 04:26:52",
-      "album": {
-        "name": "DELIVER!",
-        "url": "https://open.spotify.com/album/2qHsiqMMKZAHysnRzYfmOn"
-      },
-      "artists": [
-        {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        }
-      ],
-      "duration_ms": 109766,
-      "name": "DELIVER!",
-      "url": "https://open.spotify.com/track/6jhTj4vy4vD7n5EIFbuqJv"
     },
     {
       "added_at": "2022-08-19 19:55:05",
@@ -467,6 +423,26 @@
       "duration_ms": 171764,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1YWISuNcZgLHivxlvhPIs1"
+    },
+    {
+      "added_at": "2023-01-24 06:33:20",
+      "album": {
+        "name": "Princesa de la Kalle",
+        "url": "https://open.spotify.com/album/6tMPhg27HgqChp4PHnlRo9"
+      },
+      "artists": [
+        {
+          "name": "Aura",
+          "url": "https://open.spotify.com/artist/5bfbqVepB9jL5gBANS74iU"
+        },
+        {
+          "name": "Tompsy",
+          "url": "https://open.spotify.com/artist/6QO0RCaZVcaWJQnw5REibO"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Princesa de la Kalle",
+      "url": "https://open.spotify.com/track/1DNjw76kM33AS8HQgHDyaE"
     },
     {
       "added_at": "2022-10-25 18:05:16",
@@ -539,30 +515,6 @@
     {
       "added_at": "2022-12-02 21:40:57",
       "album": {
-        "name": "Punish It (with Kenzo Balla & Zazu Babii)",
-        "url": "https://open.spotify.com/album/1ZFkT51n7Y6QwFOkzlcloP"
-      },
-      "artists": [
-        {
-          "name": "Jae Lynx",
-          "url": "https://open.spotify.com/artist/03lamRtaO7ZuCSn2qFfmMN"
-        },
-        {
-          "name": "Kenzo Balla",
-          "url": "https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp"
-        },
-        {
-          "name": "Zazu Babii",
-          "url": "https://open.spotify.com/artist/3qZp7nxbIEtI8jArPhsJq1"
-        }
-      ],
-      "duration_ms": 175572,
-      "name": "Punish It (with Kenzo Balla & Zazu Babii)",
-      "url": "https://open.spotify.com/track/3Q92WXFhCkzGBBgJfobh7z"
-    },
-    {
-      "added_at": "2022-12-02 21:40:57",
-      "album": {
         "name": "Won't Work",
         "url": "https://open.spotify.com/album/1b7jokgImdvyDld7j1Ruzk"
       },
@@ -629,6 +581,26 @@
       "url": "https://open.spotify.com/track/2DAWd9getY6cG4mpUOBdt4"
     },
     {
+      "added_at": "2023-01-24 06:33:20",
+      "album": {
+        "name": "90 Days",
+        "url": "https://open.spotify.com/album/0VmCsZHgshK3brx9tKATKv"
+      },
+      "artists": [
+        {
+          "name": "7981 Kal",
+          "url": "https://open.spotify.com/artist/5EvNVMCFlrCfEk0VoWDNme"
+        },
+        {
+          "name": "OT7 Quanny",
+          "url": "https://open.spotify.com/artist/4l1ovhN5c3t3b7G6KQcXHE"
+        }
+      ],
+      "duration_ms": 113266,
+      "name": "90 Days",
+      "url": "https://open.spotify.com/track/68pFNYuC4dTfafNGypyGVZ"
+    },
+    {
       "added_at": "2022-10-25 18:05:16",
       "album": {
         "name": "GLOCK WALK",
@@ -643,6 +615,22 @@
       "duration_ms": 138039,
       "name": "GLOCK WALK",
       "url": "https://open.spotify.com/track/4bM2rImmM5cM34Ibzv11cS"
+    },
+    {
+      "added_at": "2023-01-24 06:33:20",
+      "album": {
+        "name": "ASYLUM",
+        "url": "https://open.spotify.com/album/3RDpCNLGM6NvAAa61zB3gS"
+      },
+      "artists": [
+        {
+          "name": "Mo Bangaz",
+          "url": "https://open.spotify.com/artist/7lIiOcOBI059zW6PY5Ghqg"
+        }
+      ],
+      "duration_ms": 131285,
+      "name": "FINER THINGS",
+      "url": "https://open.spotify.com/track/2ifGjIXn7elSfKdkyfiQCS"
     },
     {
       "added_at": "2022-12-30 14:03:25",
@@ -721,6 +709,26 @@
       "url": "https://open.spotify.com/track/1pn2A373ZsEUyX1FtEccOZ"
     },
     {
+      "added_at": "2023-01-24 06:33:20",
+      "album": {
+        "name": "no handouts",
+        "url": "https://open.spotify.com/album/6i24ljFSQenI2LyE1BuxoK"
+      },
+      "artists": [
+        {
+          "name": "kei",
+          "url": "https://open.spotify.com/artist/4zCj68j0fYRCrgBaDqknoP"
+        },
+        {
+          "name": "BoriRock",
+          "url": "https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL"
+        }
+      ],
+      "duration_ms": 154566,
+      "name": "no handouts",
+      "url": "https://open.spotify.com/track/5LCvqLTWzSibMtSqXuxQY4"
+    },
+    {
       "added_at": "2022-12-02 21:40:57",
       "album": {
         "name": "Offsides",
@@ -743,26 +751,6 @@
       "duration_ms": 201312,
       "name": "Offsides",
       "url": "https://open.spotify.com/track/5AxqdQDciWmbklClPebKp1"
-    },
-    {
-      "added_at": "2022-12-02 21:40:57",
-      "album": {
-        "name": "On Dogz",
-        "url": "https://open.spotify.com/album/2PqHquZ65ntIiPL0kPntnp"
-      },
-      "artists": [
-        {
-          "name": "BoriRock",
-          "url": "https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL"
-        },
-        {
-          "name": "Michaelangelo",
-          "url": "https://open.spotify.com/artist/3aYQXcymMDktzapDd73jeE"
-        }
-      ],
-      "duration_ms": 149181,
-      "name": "Unwavy Creatures",
-      "url": "https://open.spotify.com/track/7CL7eL9XeEXV7lLN2NkvIJ"
     },
     {
       "added_at": "2023-01-13 06:38:06",
@@ -915,22 +903,6 @@
       "duration_ms": 172166,
       "name": "What Else",
       "url": "https://open.spotify.com/track/6qEgF5pb5JzVewRtTaVUKp"
-    },
-    {
-      "added_at": "2022-04-29 17:40:05",
-      "album": {
-        "name": "Shopping Spree",
-        "url": "https://open.spotify.com/album/0R0ynonS1lOBtOik0EHeFv"
-      },
-      "artists": [
-        {
-          "name": "Vintage Lee",
-          "url": "https://open.spotify.com/artist/197t0dYfJx5S2mxxEHApdf"
-        }
-      ],
-      "duration_ms": 224297,
-      "name": "Shopping Spree",
-      "url": "https://open.spotify.com/track/36aRN8cZQOsNCzflng8p4u"
     },
     {
       "added_at": "2022-12-02 21:40:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Luke Bar$
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,855 likes - 36 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,913 likes - 36 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

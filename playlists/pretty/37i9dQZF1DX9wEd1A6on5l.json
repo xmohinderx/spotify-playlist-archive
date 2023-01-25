@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 23786,
+  "num_followers": 23831,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5NjA2MywwMDAwMDAwMDRiNDFlYjFlNTkzZWM2MzU5ZDgwMGVjYWEyYzc2ZjE2",
+  "snapshot_id": "MTY3NDE5NjA2MywwMDAwMDAwMDZkMDZiY2RmZTExNDVhZmEzM2U5OWNkNTMxNjNiODM0",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1043,6 +1043,30 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        }
+      ],
+      "duration_ms": 182073,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
         "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
       },
@@ -1091,30 +1115,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY"
-      },
-      "artists": [
-        {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        }
-      ],
-      "duration_ms": 182073,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/7zhLSGUbneW7Tm3wpp3HjY"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Dada",
         "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 161538,
       "name": "Dada",
       "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Come My Way",
+        "url": "https://open.spotify.com/album/7lZcirSAHyRdywp6VqN3EV"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 208718,
+      "name": "Come My Way",
+      "url": "https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1147,22 +1163,6 @@
       "duration_ms": 147326,
       "name": "Knee Down",
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Come My Way",
-        "url": "https://open.spotify.com/album/7lZcirSAHyRdywp6VqN3EV"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 208718,
-      "name": "Come My Way",
-      "url": "https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Machala",
         "url": "https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 154565,
       "name": "Machala",
       "url": "https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Lie",
-        "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Call of Duty",
-        "url": "https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 144758,
-      "name": "Call of Duty",
-      "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Try",
         "url": "https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 133773,
       "name": "Try",
       "url": "https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Call of Duty",
+        "url": "https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 144758,
+      "name": "Call of Duty",
+      "url": "https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO"
     },
     {
       "added_at": "2023-01-19 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Thaiane Seghetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,374 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,469 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 42 | [Leve](https://open.spotify.com/track/6NEBjm4QrmQB4chfVfQLdj) | [Lagoinha Music](https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG), [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7) | [Leve](https://open.spotify.com/album/6aTANRPCMqRssjccxkYExE) | 3:24 |
 | 43 | [Pra Sempre](https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Pra Sempre](https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN) | 3:39 |
 | 44 | [Asas](https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Asas](https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC) | 3:37 |
-| 45 | [Te Vejo Lá](https://open.spotify.com/track/1J3AyZHElKl8EDeXXdreJO) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Por Completo](https://open.spotify.com/album/0foeg5VyoAQBSmWf3JNCHx) | 3:32 |
+| 45 | [Sabe Tudo](https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Sabe Tudo](https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt) | 3:13 |
 | 46 | [Plano B](https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Acoustic Sessions, Vol\. 6](https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n) | 2:45 |
 | 47 | [Nasce o Sol \- Remix](https://open.spotify.com/track/5vBvc4fmVUv1iW2pP5XJQs) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE) | [Nasce o Sol \(Remix\)](https://open.spotify.com/album/5LFRbQXT2XnXbYForHwLTT) | 2:53 |
 | 48 | [A Voz do Brasil \- Acústico](https://open.spotify.com/track/6dFtxQYgNWqbSapneyMVn1) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [A Voz do Brasil \(Acústico\)](https://open.spotify.com/album/59AQfJCPFSvEje7t1ocCaO) | 3:00 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 51 | [A Chave](https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 3:27 |
 | 52 | [Pai Nosso \- Our Father](https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [Pai Nosso](https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl) | 4:21 |
 | 53 | [Casulo](https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Casulo](https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva) | 3:39 |
-| 54 | [Sabe Tudo](https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Sabe Tudo](https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt) | 3:13 |
+| 54 | [Te Vejo Lá](https://open.spotify.com/track/1J3AyZHElKl8EDeXXdreJO) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Por Completo](https://open.spotify.com/album/0foeg5VyoAQBSmWf3JNCHx) | 3:32 |
 | 55 | [Crescer](https://open.spotify.com/track/2rzHjYk44JJAeg0qiWx5us) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Crescer](https://open.spotify.com/album/7eodR01E7NwsvSRIm0JY9T) | 3:57 |
 | 56 | [Neste Lugar](https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Isaac Felix](https://open.spotify.com/artist/6MoY74shUPUJY1HukGaO1a) | [Neste Lugar](https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0) | 5:14 |
 | 57 | [Azul do Céu](https://open.spotify.com/track/3v2bkyjuqCsb8RuHMXuLpI) | [Débora Ulhoa](https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz), [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Azul do Céu](https://open.spotify.com/album/68akHXeQKYnjTELPGdV2JI) | 3:02 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 72 | [Contigo](https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Contigo](https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0) | 3:19 |
 | 73 | [Me Chamar de Filho](https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0) | [Ana Canhoto](https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y) | [Me Chamar de Filho](https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM) | 3:07 |
 | 74 | [Manuscrito](https://open.spotify.com/track/2ramZL8iUXXFgSbgZZ3Tiu) | [JARDENYA](https://open.spotify.com/artist/7qpTv7VDYeg2EwHrDjln66) | [Manuscrito](https://open.spotify.com/album/4sQnOzkB97HBeG2AmYMGLB) | 3:43 |
-| 75 | [Amor de Pai](https://open.spotify.com/track/2zvuGj62W1rYAmotN7H8nE) | [Jessé Lucas](https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL) | [Amor de Pai](https://open.spotify.com/album/7zFp6VVBpVZyGWatYgtwE2) | 3:49 |
+| 75 | [Teu Calor \- Acústico](https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor \(Acústico\)](https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY) | 3:44 |
 | 76 | [Planos Melhores](https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL) | [Andressa Cordeiro](https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF) | [Planos Melhores](https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul) | 3:04 |
-| 77 | [Teu Calor \- Acústico](https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor \(Acústico\)](https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY) | 3:44 |
+| 77 | [Amor de Pai](https://open.spotify.com/track/2zvuGj62W1rYAmotN7H8nE) | [Jessé Lucas](https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL) | [Amor de Pai](https://open.spotify.com/album/7zFp6VVBpVZyGWatYgtwE2) | 3:49 |
 | 78 | [Tua Graça](https://open.spotify.com/track/0CzdBHBIMdChN40eKy9fbP) | [Carol Aguiar](https://open.spotify.com/artist/6UWc0mUbFhZyW5VZbY2w4m) | [Tua Graça](https://open.spotify.com/album/3HrKiqGRAM85QQNtH81ywu) | 3:55 |
 | 79 | [Amado](https://open.spotify.com/track/6fGwm1Qb7MkW9PEy5v4SEV) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Amado](https://open.spotify.com/album/373Qpp1O7HijqwAIMNO8VE) | 4:10 |
 | 80 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 |
 
-Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMDE3NjQ0MTk4ZWExMjcxZTc5YzgyOGM4MjQxODQ0M2Fh`
+Snapshot ID: `MTY3NDE4MzYwMCwwMDAwMDAwMGVhNmFkMDA3OTEyOGQ3MDg2NGY1MTI0NDc3ZDYzOTU0`

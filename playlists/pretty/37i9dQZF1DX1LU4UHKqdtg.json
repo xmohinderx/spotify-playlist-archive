@@ -1,31 +1,31 @@
 {
-  "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: IVE",
-  "num_followers": 275560,
+  "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: LE SSERAFIM",
+  "num_followers": 275882,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDE1MzgzYWJjODA3MWRkODY0MTNlYmU2Y2MzYTkxOTli",
+  "snapshot_id": "MTY3NDU3MjQwMCwwMDAwMDAwMDM4NDk3ODZlOWViNjFkMjk5ZjJlYzY3MzhjODg0ODhl",
   "tracks": [
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "LOVE DIVE -Japanese version-",
-        "url": "https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX"
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4db6bVyZTtbpZjsCQGyZpl"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 177200,
-      "name": "LOVE DIVE -Japanese version-",
-      "url": "https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz"
+      "duration_ms": 201280,
+      "name": "Blue Flame - Japanese ver.",
+      "url": "https://open.spotify.com/track/6FnZShD1O17bZa9emuXLXh"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "MOONLIGHT SUNRISE",
         "url": "https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
+      "album": {
+        "name": "LOVE DIVE -Japanese version-",
+        "url": "https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "LOVE DIVE -Japanese version-",
+      "url": "https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz"
+    },
+    {
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "NewJeans 'OMG'",
         "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
@@ -57,7 +73,47 @@
       "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
+      "album": {
+        "name": "SHOOTING STAR",
+        "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 203556,
+      "name": "SHOOTING STAR",
+      "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
+    },
+    {
+      "added_at": "2023-01-24 15:00:00",
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd"
+      },
+      "artists": [
+        {
+          "name": "MOMO",
+          "url": "https://open.spotify.com/artist/201LkKsQx7d0xFVRWOV4gQ"
+        },
+        {
+          "name": "SANA",
+          "url": "https://open.spotify.com/artist/4a4zvpQq5Phxr12Pu8Akmm"
+        },
+        {
+          "name": "MINA",
+          "url": "https://open.spotify.com/artist/2zymPkWVcSMIDZbecBNwqB"
+        }
+      ],
+      "duration_ms": 264389,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ"
+    },
+    {
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "VIBE (feat. Jimin of BTS)",
         "url": "https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ"
@@ -77,7 +133,7 @@
       "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Stamp On It - The 1st Mini Album",
         "url": "https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7"
@@ -93,7 +149,7 @@
       "url": "https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Love War",
         "url": "https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten"
@@ -113,7 +169,7 @@
       "url": "https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Choices",
         "url": "https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI"
@@ -129,7 +185,7 @@
       "url": "https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Ditto",
         "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
@@ -145,7 +201,7 @@
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "BETTING",
         "url": "https://open.spotify.com/album/5tVF9innz1XK3xj72Phi7e"
@@ -165,7 +221,7 @@
       "url": "https://open.spotify.com/track/2D4FPjRVAWPGZUnO3Qzz8d"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Here is",
         "url": "https://open.spotify.com/album/2BzzAAFfBy5vrZHtGQscpb"
@@ -181,7 +237,7 @@
       "url": "https://open.spotify.com/track/2x9XtAG7TS09EhGSOcCKEC"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "REASON",
         "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
@@ -197,7 +253,7 @@
       "url": "https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "MOONLIGHT",
         "url": "https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch"
@@ -213,7 +269,7 @@
       "url": "https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "RED MOON",
         "url": "https://open.spotify.com/album/44bwRjSjY6otPdQDMNWTey"
@@ -229,7 +285,23 @@
       "url": "https://open.spotify.com/track/75uoSZNM8jX7p1Uyj4m3zT"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
+      "album": {
+        "name": "chrOme arts",
+        "url": "https://open.spotify.com/album/6nYQ1nUIKWEhxW7fn4JMiI"
+      },
+      "artists": [
+        {
+          "name": "OnlyOneOf",
+          "url": "https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "chrOme arts",
+      "url": "https://open.spotify.com/track/3xcCp9Q4YTiCqynB9ws6Ei"
+    },
+    {
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "[REASON]",
         "url": "https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ"
@@ -245,7 +317,7 @@
       "url": "https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "SPIN OFF : FROM THE WITNESS",
         "url": "https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm"
@@ -261,7 +333,7 @@
       "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Chapter 0: WITH",
         "url": "https://open.spotify.com/album/30vQSjAJPOlFj0otYyvYki"
@@ -277,7 +349,7 @@
       "url": "https://open.spotify.com/track/4DxEb2Pk4KAAFqqD241whz"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "A Dream Of ILY:1",
         "url": "https://open.spotify.com/album/142c1ICdvzVtOftdswYEaG"
@@ -293,7 +365,7 @@
       "url": "https://open.spotify.com/track/5RonLpKNWLO6lXmt7R07W8"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "SKZ-REPLAY",
         "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
@@ -309,7 +381,7 @@
       "url": "https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "2022 Winter SMTOWN : SMCU PALACE",
         "url": "https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw"
@@ -349,7 +421,7 @@
       "url": "https://open.spotify.com/track/7F0KfW5f4rWm503sbAuVeW"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Candy - Winter Special Mini Album",
         "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
@@ -365,7 +437,7 @@
       "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "CHESHIRE",
         "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
@@ -381,7 +453,7 @@
       "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Nxde (Steve Aoki Remix)",
         "url": "https://open.spotify.com/album/6khD0lw8LFHvPWoRfhAfym"
@@ -401,7 +473,7 @@
       "url": "https://open.spotify.com/track/6HXVUmiqWSg3OW6yr5mJCJ"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "CASE 143 -Japanese ver.-",
         "url": "https://open.spotify.com/album/2vC7q4Mem0uH1c7U6bTEeZ"
@@ -417,7 +489,7 @@
       "url": "https://open.spotify.com/track/3IjsvJc4SK3PT0SjhHKuvB"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "FEARLESS (Japanese ver.)",
         "url": "https://open.spotify.com/album/3lkxVHwSi9lcHPWzYZ8eSu"
@@ -433,7 +505,7 @@
       "url": "https://open.spotify.com/track/3ovYlDqMHyuTssHN6XkM1C"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "THE SECOND STEP : CHAPTER TWO (JP EDITION)",
         "url": "https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E"
@@ -449,7 +521,7 @@
       "url": "https://open.spotify.com/track/4QiD4Qkiq1Gw2v2FkKIgqe"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
@@ -469,7 +541,7 @@
       "url": "https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Black Eye",
         "url": "https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9"
@@ -485,7 +557,7 @@
       "url": "https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Lowlife Princess: Noir",
         "url": "https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0"
@@ -501,7 +573,7 @@
       "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Beautiful Christmas",
         "url": "https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG"
@@ -521,7 +593,7 @@
       "url": "https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "THE BOYZ Special Single [All About You]",
         "url": "https://open.spotify.com/album/16VQsGjUDQ11VCfAJjFKYs"
@@ -537,7 +609,7 @@
       "url": "https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "The Road : Celebration - The 11th Album Vol.2",
         "url": "https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny"
@@ -553,7 +625,7 @@
       "url": "https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "THE WORLD EP.PARADIGM",
         "url": "https://open.spotify.com/album/2f1QQQD15aeu9e5EWO3XrA"
@@ -569,7 +641,7 @@
       "url": "https://open.spotify.com/track/2YeteVB8F8UkB5gmRPevLm"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "THE SECOND STEP : CHAPTER TWO (JP EDITION)",
         "url": "https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E"
@@ -585,7 +657,7 @@
       "url": "https://open.spotify.com/track/16Dklj36BXIa9bY1ZgP7DK"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "MOVE AGAIN (Japan Edition)",
         "url": "https://open.spotify.com/album/0ltOqWTjaKRCkoQ53dDHmy"
@@ -601,7 +673,7 @@
       "url": "https://open.spotify.com/track/2dOk0o89ue9pQoNut1ArWm"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "CHASE - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
@@ -617,7 +689,7 @@
       "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
         "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
@@ -633,7 +705,7 @@
       "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
         "url": "https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE"
@@ -657,7 +729,7 @@
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Phantom - The 4th Mini Album",
         "url": "https://open.spotify.com/album/2CEDCFgac8o2GUAkXOmg1G"
@@ -673,7 +745,7 @@
       "url": "https://open.spotify.com/track/1jGfbcAuQepTZhvRT3Sy4s"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "MOVE AGAIN",
         "url": "https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk"
@@ -689,7 +761,7 @@
       "url": "https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "ANTIFRAGILE",
         "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
@@ -705,7 +777,7 @@
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "DREAM",
         "url": "https://open.spotify.com/album/2cXtPWMSKgf55ERnDrzZQb"
@@ -721,7 +793,7 @@
       "url": "https://open.spotify.com/track/0PwknbaUVwXJSmRh7qSfyi"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "\u5b9a\u3081",
         "url": "https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv"
@@ -737,7 +809,7 @@
       "url": "https://open.spotify.com/track/3lwif0ky1b6llUB5p4uulL"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk"
@@ -753,7 +825,7 @@
       "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "ON and ON",
         "url": "https://open.spotify.com/album/6ZQ6oaMujx039E41fzWdnX"
@@ -769,7 +841,7 @@
       "url": "https://open.spotify.com/track/1xDxGsPZmiicqIHXcfbMHk"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "POPPY (Japanese Ver.)",
         "url": "https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4"
@@ -785,7 +857,7 @@
       "url": "https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "ELEVEN -Japanese version-",
         "url": "https://open.spotify.com/album/3T3STfBHgL2LRv4CGlJTAN"
@@ -801,7 +873,7 @@
       "url": "https://open.spotify.com/track/4tG2c8LP7J0EsfQ8gKLm7q"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Acid Angel from Asia <ACCESS>",
         "url": "https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y"
@@ -817,7 +889,7 @@
       "url": "https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
@@ -833,23 +905,7 @@
       "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Summer Strike, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "Summer Night",
-      "url": "https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Forgive Me - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7"
@@ -865,7 +921,7 @@
       "url": "https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "The Astronaut",
         "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
@@ -881,7 +937,7 @@
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Fire To The Fuse",
         "url": "https://open.spotify.com/album/3DvhVqD9ypcJoq8oLy3iOL"
@@ -905,7 +961,7 @@
       "url": "https://open.spotify.com/track/6yK2AGL6oamq6FP8iqmOBw"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "MAXIDENT",
         "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
@@ -921,31 +977,7 @@
       "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "The Story : RETOLD",
-        "url": "https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9"
-      },
-      "artists": [
-        {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "WDBZ",
-          "url": "https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh"
-        }
-      ],
-      "duration_ms": 219293,
-      "name": "Nirvana (feat. pH-1 & WDBZ)",
-      "url": "https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "TROUBLESHOOTER",
         "url": "https://open.spotify.com/album/2PbytQbw3uuEMECdw46ya7"
@@ -961,7 +993,7 @@
       "url": "https://open.spotify.com/track/7tMN3tczfA8zwcD4jlCsRh"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Groove Missing",
         "url": "https://open.spotify.com/album/4GLHfJaztzxV9FVsL5yef0"
@@ -981,35 +1013,7 @@
       "url": "https://open.spotify.com/track/6ee02p5ioFpkeKDdDGOhkJ"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Redlight",
-        "url": "https://open.spotify.com/album/7jermIBGjkYPdB94Pi9uCn"
-      },
-      "artists": [
-        {
-          "name": "Fudasca",
-          "url": "https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T"
-        },
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        },
-        {
-          "name": "Ted Park",
-          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
-        }
-      ],
-      "duration_ms": 202981,
-      "name": "Redlight",
-      "url": "https://open.spotify.com/track/1YUQeCQyj8sNKNkFjxweTo"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Day&Night",
         "url": "https://open.spotify.com/album/6tsh5bEFhDVuWVaNCGVhjc"
@@ -1025,27 +1029,7 @@
       "url": "https://open.spotify.com/track/19WBBlTBTcgNGYBbY6HZB6"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "iScreaM Vol.18 : Girls Remixes",
-        "url": "https://open.spotify.com/album/2jK7H4A5Y2xJaoOyzBedaS"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "BRLLNT",
-          "url": "https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt"
-        }
-      ],
-      "duration_ms": 175116,
-      "name": "Girls - BRLLNT Remix",
-      "url": "https://open.spotify.com/track/5dkjKoFSjCeGmR1P7wGlxF"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
         "url": "https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm"
@@ -1069,7 +1053,7 @@
       "url": "https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
@@ -1085,7 +1069,7 @@
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
@@ -1101,7 +1085,7 @@
       "url": "https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "SELFISH",
         "url": "https://open.spotify.com/album/3vjPlBK3ASSMLfQwuiHspd"
@@ -1117,7 +1101,7 @@
       "url": "https://open.spotify.com/track/4NQ2EqWimM05dRSdHrmkdf"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "As It Was - Spotify Singles",
         "url": "https://open.spotify.com/album/53TYhJdqLF6eU5GbYZezTB"
@@ -1133,7 +1117,7 @@
       "url": "https://open.spotify.com/track/1lUNlmwyhsJy6kXmmrO11t"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Blah Blah Blah",
         "url": "https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B"
@@ -1149,7 +1133,7 @@
       "url": "https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "MASCARA",
         "url": "https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG"
@@ -1165,7 +1149,7 @@
       "url": "https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
@@ -1181,7 +1165,7 @@
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -1197,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F"
@@ -1213,7 +1197,7 @@
       "url": "https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm"
     },
     {
-      "added_at": "2023-01-20 05:00:00",
+      "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Tippy Toes",
         "url": "https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w"

@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 31346,
+  "num_followers": 31380,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMGZhZGU0YjFiZjJhMDJlMGIwNWEyOWRjZGRkYWMwZjYx",
+  "snapshot_id": "MTU3NDIzNDkwMCwwMDAwMDAwMGQ0NWMwNTllNzEwOTJmYTE1MmI2MjZmNWFjZWVmYmI2",
   "tracks": [
     {
       "added_at": "2019-11-20 07:28:20",
@@ -979,6 +979,22 @@
     {
       "added_at": "2019-11-20 07:28:20",
       "album": {
+        "name": "Ready to Fly",
+        "url": "https://open.spotify.com/album/3diCugOQoocNtu1ToEARHb"
+      },
+      "artists": [
+        {
+          "name": "Jamie Grace",
+          "url": "https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/5CpLuLmPq50KMIHoUA4L8Z"
+    },
+    {
+      "added_at": "2019-11-20 07:28:20",
+      "album": {
         "name": "God Only Knows (Timbaland Remix)",
         "url": "https://open.spotify.com/album/1EVzer4Sth6dDaSXxZRuR0"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 215020,
       "name": "God Only Knows (Timbaland Remix)",
       "url": "https://open.spotify.com/track/0XMQuzgUJu7AjruBHzTg4Z"
-    },
-    {
-      "added_at": "2019-11-20 07:28:20",
-      "album": {
-        "name": "Ready to Fly",
-        "url": "https://open.spotify.com/album/3diCugOQoocNtu1ToEARHb"
-      },
-      "artists": [
-        {
-          "name": "Jamie Grace",
-          "url": "https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/5CpLuLmPq50KMIHoUA4L8Z"
     },
     {
       "added_at": "2019-11-20 07:28:20",

@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 93674,
+  "num_followers": 93785,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMDIwZjhjMmUyZjIxZTZmYTk3MTlkNTYzNjI3ZTdkOGRk",
+  "snapshot_id": "MTY2MTc4MzY2MSwwMDAwMDAwMGI5YzY5MzI2MThiYmQwNmZlYTc5ZDQ3MzY5ZWI0ZWU1",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -363,18 +363,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Full Stride",
-        "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/0yvNScghENCQibvnM0FiRT"
       },
       "artists": [
         {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+          "name": "Warren Hill",
+          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
         }
       ],
-      "duration_ms": 260706,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
+      "duration_ms": 314333,
+      "name": "Do You Feel What I'm Feeling?",
+      "url": "https://open.spotify.com/track/4xb8Y0Zxg1nc2bo4Can9yv"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -395,18 +395,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/0yvNScghENCQibvnM0FiRT"
+        "name": "Full Stride",
+        "url": "https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj"
       },
       "artists": [
         {
-          "name": "Warren Hill",
-          "url": "https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS"
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
         }
       ],
-      "duration_ms": 314333,
-      "name": "Do You Feel What I'm Feeling?",
-      "url": "https://open.spotify.com/track/4xb8Y0Zxg1nc2bo4Can9yv"
+      "duration_ms": 260706,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -667,6 +667,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Long Night Out",
+        "url": "https://open.spotify.com/album/2ULPLDQxClCxnuuQ9xPmjC"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 334160,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/6R0QJQ6DSFoOrK4wsd37dW"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 207000,
       "name": "Glass Dolphins",
       "url": "https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Long Night Out",
-        "url": "https://open.spotify.com/album/2ULPLDQxClCxnuuQ9xPmjC"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 334160,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/6R0QJQ6DSFoOrK4wsd37dW"
     },
     {
       "added_at": "2020-08-19 00:00:21",

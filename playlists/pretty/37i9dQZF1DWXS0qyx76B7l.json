@@ -1,12 +1,12 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple!",
-  "num_followers": 112656,
+  "num_followers": 112659,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc3MzgxNCwwMDAwMDAwMGFjM2NiODI3YzA4OGZmNWM2NDU1YWU5OTMyMjA1YmEx",
+  "snapshot_id": "MTY3Mjc3MzgxNCwwMDAwMDAwMGZjNzZmMjIzMTk2NTk5ZTA4OTYwODU1ZmQ1OGMyMWUx",
   "tracks": [
     {
       "added_at": "2022-01-24 23:45:18",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
+        "name": "Brooklyn In The Summer",
+        "url": "https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 208214,
+      "name": "Brooklyn In The Summer",
+      "url": "https://open.spotify.com/track/5bTysxqGHXdSGiZVgljzCY"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
         "name": "Reasonable Doubt",
         "url": "https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 275640,
       "name": "Brooklyn's Finest",
       "url": "https://open.spotify.com/track/68WCiBa9dfDU5PBhTl6MYe"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
-        "name": "Brooklyn In The Summer",
-        "url": "https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 208214,
-      "name": "Brooklyn In The Summer",
-      "url": "https://open.spotify.com/track/5bTysxqGHXdSGiZVgljzCY"
     },
     {
       "added_at": "2022-01-24 23:45:18",

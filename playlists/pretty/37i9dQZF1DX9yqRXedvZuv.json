@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
-  "num_followers": 1235,
+  "num_followers": 1258,
   "original_name": "Zack Bia's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0NTg3NywwMDAwMDAwMDNiYTFmNGY0Mzc2MTJjMDk1ZTRlN2I1NjU0OGMwZDI0",
+  "snapshot_id": "MTY2NDY0NTg3NywwMDAwMDAwMDgwNzA4ODdjN2RlN2ZjMzllZGUxZTY5NGZlOGU3NzZi",
   "tracks": [
     {
       "added_at": "2022-10-01 17:37:57",
@@ -83,22 +83,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "My Dear Melancholy,",
-        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Wasted Times",
-      "url": "https://open.spotify.com/track/7DKS0rX27cCEPsK0R6tFWS"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "If You're Reading This It's Too Late",
         "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 320400,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "My Dear Melancholy,",
+        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Wasted Times",
+      "url": "https://open.spotify.com/track/7DKS0rX27cCEPsK0R6tFWS"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 205721,
-      "name": "Pipe Down",
-      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
         "name": "K.T.S.E.",
         "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 185979,
       "name": "Issues/Hold On",
       "url": "https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 205721,
+      "name": "Pipe Down",
+      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
     },
     {
       "added_at": "2022-10-01 17:37:57",

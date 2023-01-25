@@ -1,12 +1,12 @@
 {
   "description": "Our editorial picks for the best gaming tracks of the year. Cover: Lil Nas X #SpotifyWrapped ",
-  "num_followers": 6134,
+  "num_followers": 6144,
   "original_name": "Top Gaming Tracks of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDk5ZDU5ZThjNzdmMmM5MDY3ZTA2NDViNjcwZDgwOGFm",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDgwZmRhZmMyMDY3ZTJkNjI5MmI3NTFlOGNjOWYxNTM5",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -475,6 +475,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Everything Goes On",
+        "url": "https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 202821,
+      "name": "Everything Goes On",
+      "url": "https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Fire To The Fuse",
         "url": "https://open.spotify.com/album/3DvhVqD9ypcJoq8oLy3iOL"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 224169,
       "name": "Fire To The Fuse",
       "url": "https://open.spotify.com/track/6yK2AGL6oamq6FP8iqmOBw"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Everything Goes On",
-        "url": "https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 202821,
-      "name": "Everything Goes On",
-      "url": "https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Before U",
-        "url": "https://open.spotify.com/album/3dRIkRoJIbmfi1Hh9IKrjC"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Before U",
-      "url": "https://open.spotify.com/track/1iyXU0LHY9Irw7oohGf7hb"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "All Eyes On Me",
         "url": "https://open.spotify.com/album/0wgepIc4n4gKNgccZk0b0i"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 160500,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/7DRDufzLV8vbLRPdkJIqWq"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Before U",
+        "url": "https://open.spotify.com/album/3dRIkRoJIbmfi1Hh9IKrjC"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Before U",
+      "url": "https://open.spotify.com/track/1iyXU0LHY9Irw7oohGf7hb"
     },
     {
       "added_at": "2022-11-30 13:46:00",

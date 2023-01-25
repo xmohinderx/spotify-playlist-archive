@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 73643,
+  "num_followers": 73663,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI5NDk5MSwwMDAwMDAwMDRiY2Q1YmMyZmI1NTU1M2I4N2MwOTRmN2RiM2Y3YzBk",
+  "snapshot_id": "MTY3MzI5NDk5MSwwMDAwMDAwMGE3NDhmNzc2YzAwZGVkNjI2Njc5OGRjYzNmMzBjM2Iz",
   "tracks": [
     {
       "added_at": "2023-01-09 20:09:51",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-01-09 20:09:51",
       "album": {
+        "name": "goodnight moon (demos)",
+        "url": "https://open.spotify.com/album/1nClgygrTl1OYhaPssJsgz"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 107344,
+      "name": "i'll never fall in love with myself (demo)",
+      "url": "https://open.spotify.com/track/1LwwYjfoClXVx4lJAngPpp"
+    },
+    {
+      "added_at": "2023-01-09 20:09:51",
+      "album": {
         "name": "I'm Every Woman (From \u201cBlack History Always / Music For the Movement Vol. 2\")",
         "url": "https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 219348,
       "name": "I'm Every Woman - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
       "url": "https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo"
-    },
-    {
-      "added_at": "2023-01-09 20:09:51",
-      "album": {
-        "name": "goodnight moon (demos)",
-        "url": "https://open.spotify.com/album/1nClgygrTl1OYhaPssJsgz"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 107344,
-      "name": "i'll never fall in love with myself (demo)",
-      "url": "https://open.spotify.com/track/1LwwYjfoClXVx4lJAngPpp"
     },
     {
       "added_at": "2023-01-09 20:09:51",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-01-09 20:09:51",
       "album": {
-        "name": "Dance Like Nobody's Watching",
-        "url": "https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU"
+        "name": "Moxie (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
         }
       ],
-      "duration_ms": 225267,
-      "name": "Dance Like Nobody's Watching",
-      "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
+      "duration_ms": 161424,
+      "name": "Rebel Girl",
+      "url": "https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D"
     },
     {
       "added_at": "2023-01-09 20:09:51",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-01-09 20:09:51",
       "album": {
-        "name": "Moxie (Music from the Netflix Film)",
-        "url": "https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq"
+        "name": "Dance Like Nobody's Watching",
+        "url": "https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU"
       },
       "artists": [
         {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 161424,
-      "name": "Rebel Girl",
-      "url": "https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D"
+      "duration_ms": 225267,
+      "name": "Dance Like Nobody's Watching",
+      "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
     },
     {
       "added_at": "2023-01-09 20:09:51",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-01-09 20:09:51",
       "album": {
-        "name": "Seoul",
-        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kay",
-          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
-        }
-      ],
-      "duration_ms": 213076,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
-    },
-    {
-      "added_at": "2023-01-09 20:09:51",
-      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 193396,
       "name": "Space",
       "url": "https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3"
+    },
+    {
+      "added_at": "2023-01-09 20:09:51",
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kay",
+          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
+        }
+      ],
+      "duration_ms": 213076,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
     },
     {
       "added_at": "2023-01-09 20:09:51",
@@ -1383,22 +1383,18 @@
     {
       "added_at": "2023-01-09 20:09:51",
       "album": {
-        "name": "Phenomenon",
-        "url": "https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y"
+        "name": "Hope In Chaos",
+        "url": "https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt"
       },
       "artists": [
         {
           "name": "JVNA",
           "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
-        },
-        {
-          "name": "LICK",
-          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Phenomenon",
-      "url": "https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn"
+      "duration_ms": 193457,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K"
     },
     {
       "added_at": "2023-01-09 20:09:51",
@@ -1419,22 +1415,6 @@
     {
       "added_at": "2023-01-09 20:09:51",
       "album": {
-        "name": "Want U 2 Love Me",
-        "url": "https://open.spotify.com/album/3vyvUCu3QyxfxMYTCyhKUv"
-      },
-      "artists": [
-        {
-          "name": "SOHMI",
-          "url": "https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK"
-        }
-      ],
-      "duration_ms": 197777,
-      "name": "Want U 2 Love Me",
-      "url": "https://open.spotify.com/track/10HcnRxq2OmMoFhkZ5Tuza"
-    },
-    {
-      "added_at": "2023-01-09 20:09:51",
-      "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
         "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
@@ -1451,18 +1431,18 @@
     {
       "added_at": "2023-01-09 20:09:51",
       "album": {
-        "name": "Nobody Knows We Are Fun",
-        "url": "https://open.spotify.com/album/2OCnfYbcMDebH1TPworZVG"
+        "name": "Want U 2 Love Me",
+        "url": "https://open.spotify.com/album/3vyvUCu3QyxfxMYTCyhKUv"
       },
       "artists": [
         {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+          "name": "SOHMI",
+          "url": "https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK"
         }
       ],
-      "duration_ms": 181040,
-      "name": "Nobody Knows We Are Fun",
-      "url": "https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2"
+      "duration_ms": 197777,
+      "name": "Want U 2 Love Me",
+      "url": "https://open.spotify.com/track/10HcnRxq2OmMoFhkZ5Tuza"
     },
     {
       "added_at": "2023-01-09 20:09:51",
@@ -1483,6 +1463,22 @@
       "duration_ms": 132826,
       "name": "sardines",
       "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
+    },
+    {
+      "added_at": "2023-01-09 20:09:51",
+      "album": {
+        "name": "Nobody Knows We Are Fun",
+        "url": "https://open.spotify.com/album/2OCnfYbcMDebH1TPworZVG"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Nobody Knows We Are Fun",
+      "url": "https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2"
     },
     {
       "added_at": "2023-01-09 20:09:51",
@@ -1519,18 +1515,22 @@
     {
       "added_at": "2023-01-09 20:09:51",
       "album": {
-        "name": "Hope In Chaos",
-        "url": "https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt"
+        "name": "Phenomenon",
+        "url": "https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y"
       },
       "artists": [
         {
           "name": "JVNA",
           "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        },
+        {
+          "name": "LICK",
+          "url": "https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs"
         }
       ],
-      "duration_ms": 193457,
-      "name": "Dystopia",
-      "url": "https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K"
+      "duration_ms": 218400,
+      "name": "Phenomenon",
+      "url": "https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn"
     }
   ],
   "unique_name": "Dope AF",

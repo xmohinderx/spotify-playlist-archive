@@ -4,7 +4,7 @@
 
 > ¡Pop\-punk por siempre!
 
-101 songs - 5 hr 38 min
+102 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Para Ti](https://open.spotify.com/track/0IZc78H7Ep677OS5Lns3oh) | [Masappan](https://open.spotify.com/artist/2GMWjBQeVApcZ9to2NP1QC) | [Masappan](https://open.spotify.com/album/2VuK8VnMfILaKRNqDoMR0e) | 2:44 | 2021-11-26 |  |
 | [Pastillas](https://open.spotify.com/track/04WsXewfMeazNHxIsU1Jzq) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ), [Fear Allison](https://open.spotify.com/artist/75t1ar10ekAij353mysCMK), [Trekk](https://open.spotify.com/artist/4CC108kvf7H1gTwWiXkduw) | [Pastillas](https://open.spotify.com/album/55RvlSO4xnbPur0msvC1qW) | 3:06 | 2021-11-26 | 2022-07-28 |
 | [Perdedor](https://open.spotify.com/track/1HGA3ugVfWra42sVKd0anu) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Al infierno y de regreso](https://open.spotify.com/album/3L9vvpiSnXOiCk58lKBBUp) | 3:15 | 2021-11-26 | 2022-07-21 |
-| [Primer Lugar](https://open.spotify.com/track/0meCAzWjALDb070H6L9DsS) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Primer Lugar](https://open.spotify.com/album/5SqvbU9C4x09HtKMmTRB3D) | 3:32 | 2021-11-26 |  |
+| [Primer Lugar](https://open.spotify.com/track/0meCAzWjALDb070H6L9DsS) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Primer Lugar](https://open.spotify.com/album/5SqvbU9C4x09HtKMmTRB3D) | 3:32 | 2021-11-26 | 2023-01-25 |
 | [Quemando Cartas](https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Entre La Guerra Y El Amor](https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV) | 3:05 | 2021-11-26 |  |
 | [ReiniciaR](https://open.spotify.com/track/4fERNkRLeLdy2EqPxHzBiu) | [May Sunday](https://open.spotify.com/artist/08SkBrVjxq80ivZKnGh1LE) | [ReiniciaR](https://open.spotify.com/album/4HuFfpp2wVLhh1LdyPRfn6) | 3:18 | 2022-07-22 | 2022-07-25 |
 | [Rolleando Fuerte](https://open.spotify.com/track/5eicvn7A3NuAGduvU6a68t) | [2contra1](https://open.spotify.com/artist/07QNsyKFdUIrz9DdQj1Df6) | [2 contra 1](https://open.spotify.com/album/4sEtbJkhpBn6S3NgotSMFa) | 2:35 | 2021-11-26 | 2022-07-19 |
@@ -103,6 +103,7 @@
 | [Tennessecito](https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Mejores Tiempos](https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE) | 4:12 | 2021-11-26 |  |
 | [Todo Lo Que Soy](https://open.spotify.com/track/4IrGRRICVrIntPZyRzE0av) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Todo Lo Que Soy](https://open.spotify.com/album/3C8MzBlq6nOZ0TeTFLhXxu) | 3:18 | 2021-11-26 | 2022-10-21 |
 | [tú + yo](https://open.spotify.com/track/4lPCAX8wRQKNzHTiXnZUjb) | [Marc!](https://open.spotify.com/artist/2sOEwHFWDipyXd0EgSHIMF) | [tú + yo](https://open.spotify.com/album/4lNSJb1LqQ85MPDX0NV4Us) | 3:32 | 2022-10-01 |  |
+| [Un Año](https://open.spotify.com/track/1NvuUQSActakCpCg071n2x) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Un Año](https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6) | 2:46 | 2022-10-01 |  |
 | [Un Año](https://open.spotify.com/track/1qayc8TXkZ54CfBPK4SWd9) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Un Año](https://open.spotify.com/album/68enzjVhVN7GNbtkGl5hl2) | 2:46 | 2021-11-26 | 2022-07-29 |
 | [Un Año](https://open.spotify.com/track/3cxNffyduQfuB5W9w9bbv9) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Un Año](https://open.spotify.com/album/57zOfuG9zThe5GfGKx97IT) | 2:46 | 2022-07-22 | 2023-01-14 |
 | [Vamos Otra Vez](https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [120 Km/Hr.](https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM) | 3:41 | 2021-11-26 |  |

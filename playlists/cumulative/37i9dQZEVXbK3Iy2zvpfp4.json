@@ -202,7 +202,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 245406,
       "name": "4R\u00c1NO",
       "url": "https://open.spotify.com/track/2vnyyABepsx3CDh9fxQHqV"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 159338,
       "name": "AVA",
       "url": "https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT"
@@ -1593,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "Bloody Mary",
+        "url": "https://open.spotify.com/album/4seVM4HKphKWbuVPL0q8k9"
+      },
+      "artists": [
+        {
+          "name": "Lockdown",
+          "url": "https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/00NbtCjGk8CqdB8ukjxCT4"
+    },
+    {
+      "album": {
         "name": "Bloody Mary (Sped Up TikTok Remix) [from \"Wednesday Addams\"]",
         "url": "https://open.spotify.com/album/5O87dPVVPnoqoG3VD0E8gG"
       },
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-23",
+      "date_removed": null,
       "duration_ms": 195363,
       "name": "Bloody Mary (Sped Up TikTok Remix) [from \"Wednesday Addams\"]",
       "url": "https://open.spotify.com/track/1GuhLLCyVhVSfbNZ0581LW"
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 200495,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
@@ -4190,7 +4208,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 171791,
       "name": "Give It To Me - remix",
       "url": "https://open.spotify.com/track/5HXUqBIOCZVl5ZOlovtTfx"
@@ -6793,6 +6811,28 @@
     },
     {
       "album": {
+        "name": "Merci les bleus",
+        "url": "https://open.spotify.com/album/3ifVPOJBoE2k6Y93l9Hb3b"
+      },
+      "artists": [
+        {
+          "name": "KABONGO-DJ",
+          "url": "https://open.spotify.com/artist/3hMFSJWyvWxr5XvsCTikVP"
+        },
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242222,
+      "name": "Merci les bleus",
+      "url": "https://open.spotify.com/track/0tFY357QKe2GKvjcWA1kxK"
+    },
+    {
+      "album": {
         "name": "Bulib\u00e1r\u00f3",
         "url": "https://open.spotify.com/album/0ppmIqPRyJzuwoJzlrx0J9"
       },
@@ -7202,7 +7242,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 111281,
       "name": "Moj\u00ed Fra",
       "url": "https://open.spotify.com/track/2ypYMSej4Lv2Zu1xr6db2K"
@@ -7390,6 +7430,24 @@
       "duration_ms": 115200,
       "name": "Murder In My Mind - Sped Up",
       "url": "https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx"
+    },
+    {
+      "album": {
+        "name": "Sigil South Side",
+        "url": "https://open.spotify.com/album/4HA59n57cR95IPPUDg8zdm"
+      },
+      "artists": [
+        {
+          "name": "Lord Lorenz",
+          "url": "https://open.spotify.com/artist/3qVag8oPA3Nu6CyqwoScn2"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "MurderCaust",
+      "url": "https://open.spotify.com/track/7hwaNrW5KuXylBBf891eqU"
     },
     {
       "album": {
@@ -9208,7 +9266,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 133798,
       "name": "Pri hviezdach",
       "url": "https://open.spotify.com/track/2MISp5VBmPm2jUDi5ssZHu"
@@ -11359,6 +11417,24 @@
     },
     {
       "album": {
+        "name": "The Hills X Creepin X the Color Violet",
+        "url": "https://open.spotify.com/album/7kyCNswLRuOJQ4xQRxZMl4"
+      },
+      "artists": [
+        {
+          "name": "LonelyEve",
+          "url": "https://open.spotify.com/artist/1PVih0Ygfa7Kk2Y2jrf1kZ"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197665,
+      "name": "The Hills X Creepin X the Color Violet",
+      "url": "https://open.spotify.com/track/1QzwMKkw7GfCY9CM9znmtF"
+    },
+    {
+      "album": {
         "name": "THE LONELIEST",
         "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
       },
@@ -11684,7 +11760,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 143865,
       "name": "TOTALITARIANISM II",
       "url": "https://open.spotify.com/track/5Z8h5Uh2f7KI35PT88fUuw"
@@ -12882,7 +12958,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 164629,
       "name": "WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1",
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
@@ -13252,7 +13328,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 129836,
       "name": "\u041a\u0410\u041a MOMMY",
       "url": "https://open.spotify.com/track/0R848ny5sEpVuR1tMXZNFr"

@@ -199,6 +199,24 @@
     },
     {
       "album": {
+        "name": "Mission Majnu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/13qVm7FwkSKg3R3r4Ubupv"
+      },
+      "artists": [
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291913,
+      "name": "Channa Ve Assi Marjawange - Reprise",
+      "url": "https://open.spotify.com/track/3MTWlilqiK53C76seZdL72"
+    },
+    {
+      "album": {
         "name": "Dariyaganj (From \"Jai Mummy Di\")",
         "url": "https://open.spotify.com/album/4DZ60bDwcEJBoB04qP5puc"
       },
@@ -218,7 +236,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 211591,
       "name": "Dariyaganj (From \"Jai Mummy Di\")",
       "url": "https://open.spotify.com/track/3c8SjGyaf03Czq1eaa8xNs"

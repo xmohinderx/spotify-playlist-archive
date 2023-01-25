@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: tonari no Hanako
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,797 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,821 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 60 | [Summer Lost 2023 \- ft\. butaji](https://open.spotify.com/track/0UbO2ZCgpNlPRGWGiWQCeP) | [am8](https://open.spotify.com/artist/5GtEx6JS3XBlOL4J7Xhh1r), [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [Summer Lost 2023 \(ft\. butaji\)](https://open.spotify.com/album/1M4kqTNWIdKFIOUvh173uy) | 5:31 |
 | 61 | [メタモルフォーゼプール](https://open.spotify.com/track/7GBcyqkDWLI93D1GRxU73s) | [Sommeil Sommeil](https://open.spotify.com/artist/6HK15dcp6cE6r1XHo07Ldw) | [メタモルフォーゼプール](https://open.spotify.com/album/5i7qUlUWZisZUTnirhgA5a) | 3:48 |
 | 62 | [Remember The Day](https://open.spotify.com/track/1MgY8UGlEph0KdiRZpb3kY) | [長瀬有花](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [Remember The Day](https://open.spotify.com/album/6EfQIqKinvqUspuPjpit1A) | 4:06 |
-| 63 | [Iden Teitei Meltdown](https://open.spotify.com/track/3ChPJQvs0HvyNy7j3AbBzK) | [Enako](https://open.spotify.com/artist/0oC1SMfDzyyr7Tlzu2s63i), [Pmarusama](https://open.spotify.com/artist/7G6CzEvibsxpjfOIktMQEO) | [Iden Teitei Meltdown](https://open.spotify.com/album/2tCVHP4OBLBnz3bT7fz0G7) | 4:03 |
+| 63 | [Iden Teitei Meltdown](https://open.spotify.com/track/3ChPJQvs0HvyNy7j3AbBzK) | [Enako](https://open.spotify.com/artist/23Sh4LxrCSK3Or7uEjZ9Vy), [Pmarusama](https://open.spotify.com/artist/7G6CzEvibsxpjfOIktMQEO) | [Iden Teitei Meltdown](https://open.spotify.com/album/2tCVHP4OBLBnz3bT7fz0G7) | 4:03 |
 | 64 | [you're not a boyfriend](https://open.spotify.com/track/0lxjewJIsZROFsX5XT2r76) | [HOSHIMI RIKA](https://open.spotify.com/artist/20eGFcXmCEjVPVJUbTa7Oz) | [you're not a boyfriend](https://open.spotify.com/album/5N10YQP1CwxbShT1zBu2v8) | 2:52 |
 | 65 | [LOVE CRAZY](https://open.spotify.com/track/4RjxJlyjU6cMrv4dJH5XtP) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [LOVE CRAZY](https://open.spotify.com/album/59K14Vh4mIaPjRHsCuP9B8) | 4:04 |
 | 66 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 |

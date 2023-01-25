@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: YE\u0418DRY",
-  "num_followers": 748950,
+  "num_followers": 748935,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4NzM1NCwwMDAwMDAwMDU2NDYwNzQ1NTNjYmUzZTliOTYwOGYwZWI5YWUxYjc3",
+  "snapshot_id": "MTY3NDA4NzM1NCwwMDAwMDAwMGM0ODZlODUxMjk0MDNkMWYwOWFiNGFkNWIxMWIwMWNi",
   "tracks": [
     {
       "added_at": "2023-01-19 00:15:54",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 307151,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
         "name": "Dandelions (slowed + reverb)",
         "url": "https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 268717,
       "name": "Dandelions - slowed + reverb",
       "url": "https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 307151,
-      "name": "Nights",
-      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/4fx1cV8otauzkVrC91SpP3"
-      },
-      "artists": [
-        {
-          "name": "f. fin",
-          "url": "https://open.spotify.com/artist/44GRwsM3LDG7zZqTUVbp60"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "you are, you are - demo",
-      "url": "https://open.spotify.com/track/58Tdz2gduIKxLT9852hQxc"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 198594,
       "name": "Sola",
       "url": "https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/4fx1cV8otauzkVrC91SpP3"
+      },
+      "artists": [
+        {
+          "name": "f. fin",
+          "url": "https://open.spotify.com/artist/44GRwsM3LDG7zZqTUVbp60"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "you are, you are - demo",
+      "url": "https://open.spotify.com/track/58Tdz2gduIKxLT9852hQxc"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
+        "name": "diamantes y espinas",
+        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "algo as\u00ed",
+      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "diamantes y espinas",
-        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "algo as\u00ed",
-      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 193429,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 218803,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1163,22 +1179,6 @@
       "duration_ms": 168260,
       "name": "22/2/22 (feat. Paula Cendejas)",
       "url": "https://open.spotify.com/track/6VH9vAqhTig0SaS5mI5yw8"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 218803,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "La Cumbia Del Cucuy",
-        "url": "https://open.spotify.com/album/5QjrzT90PTonA3ZdYGQTB1"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 135370,
-      "name": "La Cumbia Del Cucuy",
-      "url": "https://open.spotify.com/track/2h8gDfMuXDxvJy5R0MGR5L"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 181894,
       "name": "Ambar Bossa Nova - Spotify Singles",
       "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "La Cumbia Del Cucuy",
+        "url": "https://open.spotify.com/album/5QjrzT90PTonA3ZdYGQTB1"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 135370,
+      "name": "La Cumbia Del Cucuy",
+      "url": "https://open.spotify.com/track/2h8gDfMuXDxvJy5R0MGR5L"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Mosaicos",
-        "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Ella y Yo",
-      "url": "https://open.spotify.com/track/1NnfVCcWRT2rVlCS0x44cZ"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Algo Mejor",
         "url": "https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT"
       },
@@ -1591,6 +1575,38 @@
       "duration_ms": 153746,
       "name": "Algo Mejor",
       "url": "https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Last Spa on Earth",
+        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        }
+      ],
+      "duration_ms": 185350,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Mosaicos",
+        "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Ella y Yo",
+      "url": "https://open.spotify.com/track/1NnfVCcWRT2rVlCS0x44cZ"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1623,22 +1639,6 @@
       "duration_ms": 120106,
       "name": "Focus",
       "url": "https://open.spotify.com/track/25ivNqkoHQ3zv4LWRe1oef"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
-        "name": "Last Spa on Earth",
-        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
-      },
-      "artists": [
-        {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
-        }
-      ],
-      "duration_ms": 185350,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
     },
     {
       "added_at": "2023-01-19 00:15:54",

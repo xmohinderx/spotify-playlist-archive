@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Randall King
 
-399 songs - 23 hr 47 min
+400 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Dust](https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw) | 3:06 | 2022-02-04 |  |
 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2022-07-22 |  |
 | [Easy on the Eyes](https://open.spotify.com/track/0xMz97Xa2QhmY6mAZqGTf5) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg) | 3:35 | 2022-05-27 | 2023-01-20 |
+| [Easy on the Eyes](https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq) | 3:35 | 2023-01-20 |  |
 | [El Paso](https://open.spotify.com/track/20UUqgUjpiEZWKW0wujOVP) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [El Paso](https://open.spotify.com/album/5MKHbKywea52kWXdbB78PD) | 3:21 | 2022-05-06 | 2022-07-29 |
 | [Empty Rooms](https://open.spotify.com/track/0QNV9mVU06bMQKiD38Nc1I) | [Justin Clyde Williams](https://open.spotify.com/artist/2os6M8Uk9phzs6NOxQrNnc) | [Empty Rooms](https://open.spotify.com/album/4OPidLkgqBWApKYlr0LV0w) | 4:08 | 2021-12-17 | 2022-03-19 |
 | [Even If My Wheels Fall Off](https://open.spotify.com/track/6346eATna5w8XOQy6dJSfJ) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI), [Randy Rogers](https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk), [Cody Canada](https://open.spotify.com/artist/1vNm2xtFGI4KsxnDgAl4iO) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 3:36 | 2022-03-18 | 2022-07-21 |
@@ -302,7 +303,7 @@
 | [Shoreline](https://open.spotify.com/track/36KCNp4FIpu4Ath4a8Bkeu) | [The Band Laredo](https://open.spotify.com/artist/7m5r7YRaDJ3hdvw7hYRPF0) | [Shoreline](https://open.spotify.com/album/0JTjqvIWY2SIWf6DbZMLIE) | 3:18 | 2021-12-17 | 2022-01-22 |
 | [Shot from the Heart](https://open.spotify.com/track/3uvw2lZIL6tuaCQWUP2Syp) | [Bart Crow](https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1) | [Shot from the Heart](https://open.spotify.com/album/5EUxYBJyHStLsVJMRipLX8) | 3:03 | 2022-10-01 | 2023-01-06 |
 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 | 2021-12-17 | 2023-01-22 |
-| [Sick and Tired](https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok) | 4:28 | 2022-10-01 |  |
+| [Sick and Tired](https://open.spotify.com/track/2w4KilW4FZQeIyH33R2KxW) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/34cv4GGLrJbYA2u6di1Pok) | 4:28 | 2022-10-01 | 2023-01-25 |
 | [Singer's Blues \- Live](https://open.spotify.com/track/30ehnjO6uAZrGz11SYGsi2) | [Cash Byers & Big Valley](https://open.spotify.com/artist/5f8NDIzQmtTHDYJgaUYYVE) | [Singer's Blues \(Live\)](https://open.spotify.com/album/6iyWt1cm2l4ehHcotR5qro) | 3:09 | 2021-12-17 | 2022-07-09 |
 | [Smallest Town on Earth](https://open.spotify.com/track/4egTrlLLvpNiQgHSdZJdyf) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Smallest Town on Earth](https://open.spotify.com/album/6VKsi3I0YtRJQtwPHWZBTh) | 3:20 | 2022-07-08 | 2022-07-12 |
 | [So Far Away](https://open.spotify.com/track/10k8BwsoXOVeZlpBPQOiO7) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [So Far Away](https://open.spotify.com/album/3fPvRPHW31CtoD2ZBYoMlp) | 4:03 | 2022-02-25 | 2022-05-28 |
@@ -310,7 +311,7 @@
 | [Somewhere in the Sun](https://open.spotify.com/track/7bcOIHdpOCJo3tzhdZmBQ8) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Somewhere in the Sun](https://open.spotify.com/album/4VyXe0br7H7CWt4QU3AOfS) | 3:01 | 2022-03-11 | 2022-07-23 |
 | [Sound of Rain](https://open.spotify.com/track/1i63IAjJXD2HsFozWGfU8e) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Sound of Rain](https://open.spotify.com/album/26lISXeKn8Lh59mPRQ2wDY) | 3:17 | 2022-10-21 | 2023-01-09 |
 | [South of Forever](https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [South of Forever](https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9) | 4:07 | 2022-03-18 |  |
-| [Southern Land](https://open.spotify.com/track/1gw7UEQMT2kM1H1zOSV4MJ) | [Trent Willmon](https://open.spotify.com/artist/42mKjKqNCSgHbxaBFcotDi) | [Southern Land](https://open.spotify.com/album/1mS6CmS6mZbQyM1orsTb2M) | 4:03 | 2023-01-21 |  |
+| [Southern Land](https://open.spotify.com/track/1gw7UEQMT2kM1H1zOSV4MJ) | [Trent Willmon](https://open.spotify.com/artist/42mKjKqNCSgHbxaBFcotDi) | [Southern Land](https://open.spotify.com/album/1mS6CmS6mZbQyM1orsTb2M) | 4:03 | 2023-01-20 |  |
 | [Stay Tuned](https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Stay Tuned](https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6) | 3:20 | 2022-04-01 |  |
 | [Steady](https://open.spotify.com/track/3o0MDTv8SNnkbX09k7Ae8R) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Steady](https://open.spotify.com/album/2usrETNCWm7wx56mNkQ168) | 3:47 | 2022-06-03 | 2022-07-29 |
 | [Sticks and Stones](https://open.spotify.com/track/1yzLtMC3H04rentkZiHU5v) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Sticks and Stones](https://open.spotify.com/album/5ZkeHDmi5q2FBdQfcsZClF) | 3:30 | 2021-12-17 | 2022-01-08 |

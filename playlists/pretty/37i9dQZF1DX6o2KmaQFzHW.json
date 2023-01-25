@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 155607,
+  "num_followers": 155686,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMGUwM2EwNmYzNDUwZmZjMDU0ZGQ1MDkxM2MyYmY3NzNl",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDU5ZWM5ODVkMTVlYTc3YWVmY2NmNWQ3ZTA1ZjBjMjM2",
   "tracks": [
     {
       "added_at": "2022-02-21 19:44:42",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Este Destino Cantor",
-        "url": "https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3"
-      },
-      "artists": [
-        {
-          "name": "Jorge Cafrune",
-          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
-        }
-      ],
-      "duration_ms": 214386,
-      "name": "Mi Luna Cautiva",
-      "url": "https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Nocheros",
         "url": "https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 212933,
       "name": "D\u00e9jame Que Me Vaya",
       "url": "https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Este Destino Cantor",
+        "url": "https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+        }
+      ],
+      "duration_ms": 214386,
+      "name": "Mi Luna Cautiva",
+      "url": "https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Chango",
-        "url": "https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV"
-      },
-      "artists": [
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Zamba de Abril",
-      "url": "https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Zambas Inolvidables Y Una Canci\u00f3n Al Vino",
         "url": "https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 177720,
       "name": "Cuando Ya Nadie Te Nombre",
       "url": "https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "Chango",
+        "url": "https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV"
+      },
+      "artists": [
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Zamba de Abril",
+      "url": "https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Horacio Guarany",
-        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
+        "name": "From Argentina To The World",
+        "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
       },
       "artists": [
         {
-          "name": "Horacio Guarany",
-          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
         }
       ],
-      "duration_ms": 131066,
-      "name": "Caballo Que No Galopa",
-      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
+      "duration_ms": 210400,
+      "name": "El Arriero",
+      "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "From Argentina To The World",
-        "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
+        "name": "Horacio Guarany",
+        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
       },
       "artists": [
         {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
         }
       ],
-      "duration_ms": 210400,
-      "name": "El Arriero",
-      "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
+      "duration_ms": 131066,
+      "name": "Caballo Que No Galopa",
+      "url": "https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1307,18 +1307,26 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "El Nombrador",
-        "url": "https://open.spotify.com/album/3QTLPn3zMOv7Kic7mRifym"
+        "name": "Primavera",
+        "url": "https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG"
       },
       "artists": [
         {
-          "name": "Daniel Toro",
-          "url": "https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu"
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        },
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        },
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
         }
       ],
-      "duration_ms": 207826,
-      "name": "El Seclante\u00f1o",
-      "url": "https://open.spotify.com/track/1A0DWfpjBNBGNFj74DdwsN"
+      "duration_ms": 236813,
+      "name": "Viejo Pescador del Paran\u00e1 (with Teresa Parodi & Chango Spasiuk)",
+      "url": "https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1371,30 +1379,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "Primavera",
-        "url": "https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG"
-      },
-      "artists": [
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        },
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        },
-        {
-          "name": "Chango Spasiuk",
-          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
-        }
-      ],
-      "duration_ms": 236813,
-      "name": "Viejo Pescador del Paran\u00e1 (with Teresa Parodi & Chango Spasiuk)",
-      "url": "https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Aqui Cosquin",
         "url": "https://open.spotify.com/album/4Rd6qMYofVnpuan16xcp7Q"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 181386,
       "name": "Romance de Plumas Verdes",
       "url": "https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "El Nombrador",
+        "url": "https://open.spotify.com/album/3QTLPn3zMOv7Kic7mRifym"
+      },
+      "artists": [
+        {
+          "name": "Daniel Toro",
+          "url": "https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "El Seclante\u00f1o",
+      "url": "https://open.spotify.com/track/1A0DWfpjBNBGNFj74DdwsN"
     },
     {
       "added_at": "2022-02-21 19:44:42",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-02-21 19:44:42",
       "album": {
-        "name": "El Estilo Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2"
-      },
-      "artists": [
-        {
-          "name": "Los Del Suqu\u00eda",
-          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Y Va Pasando la Vida",
-      "url": "https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0"
-    },
-    {
-      "added_at": "2022-02-21 19:44:42",
-      "album": {
         "name": "Para Cantar He Nacido",
         "url": "https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 206853,
       "name": "Para Cantar He Nacido",
       "url": "https://open.spotify.com/track/447ORDEfYxu77edFodcfr6"
+    },
+    {
+      "added_at": "2022-02-21 19:44:42",
+      "album": {
+        "name": "El Estilo Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2"
+      },
+      "artists": [
+        {
+          "name": "Los Del Suqu\u00eda",
+          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "Y Va Pasando la Vida",
+      "url": "https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0"
     },
     {
       "added_at": "2022-02-21 19:44:42",

@@ -93,7 +93,7 @@
 | [The Semuta Jig](https://open.spotify.com/track/4VoptqwF5p1nF5jRaLQH9m) | [Nava](https://open.spotify.com/artist/15QJPcEqdD3lc6zDhMOljR) | [Tapestry](https://open.spotify.com/album/3VzmfQJ0iuFxHC1T3AJ35N) | 5:13 | 2021-02-15 |  |
 | [The Trees We Wear](https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:45 | 2021-02-15 |  |
 | [Yekeshish](https://open.spotify.com/track/2LSfFO6kZSGP6JxsPoQjrF) | [Hossein Alizadeh](https://open.spotify.com/artist/129o0b0q8hAgjrd7jDrbhP), [Ali Jafari Pouyan](https://open.spotify.com/artist/682NaUT4NTC5vkaFhZAZRq), [Behnood Yakhchali](https://open.spotify.com/artist/4yILBBJa570shWHY2IZ2Du) | [Yekeshish](https://open.spotify.com/album/1DuTPc3UotnGJ8M8q1fRsA) | 7:23 | 2021-02-15 |  |
-| [داري يا قلبي](https://open.spotify.com/track/65vhIvTrRSN26oas09rNtJ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [نمرة لاونج](https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2) | 4:54 | 2022-12-13 |  |
-| [فاضي شوية](https://open.spotify.com/track/1fHh30pe4YAacqOI3vKQWW) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [نمرة لاونج](https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2) | 4:09 | 2022-12-13 |  |
+| [داري يا قلبي](https://open.spotify.com/track/65vhIvTrRSN26oas09rNtJ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [نمرة لاونج](https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2) | 4:54 | 2022-12-12 |  |
+| [فاضي شوية](https://open.spotify.com/track/1fHh30pe4YAacqOI3vKQWW) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [نمرة لاونج](https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2) | 4:09 | 2022-12-12 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

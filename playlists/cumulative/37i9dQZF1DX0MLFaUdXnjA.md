@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Lizzy McAlpine
 
-1,149 songs - 2 day 13 hr 15 min
+1,150 songs - 2 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Cold](https://open.spotify.com/track/5rdhDMfiwWNnrEQpjUVpDu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Cold](https://open.spotify.com/album/0j6cURTL2HYMxsNKdyJCM7) | 2:53 | 2020-04-26\* | 2020-07-24 |
 | [Cold Feet](https://open.spotify.com/track/0gpDp7GWxBOTt9Fhqdrxfn) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Cold Feet](https://open.spotify.com/album/15b5euyUrITCRDl4Du4M9y) | 3:14 | 2020-11-21 | 2021-01-15 |
 | [Colorado](https://open.spotify.com/track/41WtQo9j7WR72VuAgN0LNb) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [The Longest Year: Part One](https://open.spotify.com/album/386y4A9x4YzDEUODlsNix9) | 1:58 | 2020-09-25 | 2021-01-15 |
-| [Colorblind](https://open.spotify.com/track/1jzGN7iqjlcSLEHrSJBTQ3) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Colorblind](https://open.spotify.com/album/3zdkYaid2hs38fk7Y5P6kK) | 2:35 | 2023-01-06 |  |
+| [Colorblind](https://open.spotify.com/track/1jzGN7iqjlcSLEHrSJBTQ3) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Colorblind](https://open.spotify.com/album/3zdkYaid2hs38fk7Y5P6kK) | 2:35 | 2023-01-06 | 2023-01-25 |
 | [Colors](https://open.spotify.com/track/54FLoJOBXpKe9fULTucRNh) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Colors](https://open.spotify.com/album/69Vsy8d9xTebQRt2i7z9qy) | 2:34 | 2021-10-09 | 2021-11-20 |
 | [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 | 2022-04-29 | 2022-05-20 |
 | [Colours Of You \- Nick And Charlie Version](https://open.spotify.com/track/4WkcqpMX3f697pJqwRYbAQ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You \(Nick And Charlie Version\)](https://open.spotify.com/album/7nmEwM693CffFr1jMY1GXq) | 2:43 | 2022-05-20 | 2022-06-25 |
@@ -509,6 +509,7 @@
 | [I Used to Care](https://open.spotify.com/track/2z9tQz4ygexOYb2SnCPCnP) | [Louyah](https://open.spotify.com/artist/4FH6xGueB6CRmiEdtPnu41) | [6FEET](https://open.spotify.com/album/3flM0bHFO3t22RzsciSBFn) | 3:36 | 2021-07-17 | 2021-08-14 |
 | [I want you](https://open.spotify.com/track/6m13V1xtRrdsWBnCSaoqJC) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [I want you](https://open.spotify.com/album/4Sh7d7YsQQ6sYrPkSmYjNs) | 2:23 | 2021-09-18 | 2021-12-04 |
 | [I Wish I Never Met You](https://open.spotify.com/track/3RbeiGmI8ASmg9cIAhjr3E) | [Emmi Elliott](https://open.spotify.com/artist/62oCSE7lShkspceh6yof92) | [Pre\-Spring 2021](https://open.spotify.com/album/50yOmTrjy2AuIXP3iRcFZi) | 2:30 | 2021-02-19 | 2021-04-30 |
+| [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-24 |  |
 | [I'm Fine](https://open.spotify.com/track/27gRd0sbdd8cJdI6yx6dt8) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [I'm Fine](https://open.spotify.com/album/6NSFKf3tZ1bwV02jSJxGAg) | 2:16 | 2021-04-10 | 2021-06-26 |
 | [i'm lonely](https://open.spotify.com/track/65tCdopbRv73fYFOL40ViN) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [i'm lonely](https://open.spotify.com/album/2UXohnFJdRqL9sX3smMJAy) | 3:01 | 2020-05-01 | 2020-07-18 |
 | [I'm Not Here Rn](https://open.spotify.com/track/1jgdPCPdnRmTdJ7cwX1GI0) | [Alice Gray](https://open.spotify.com/artist/6bSM7pvpb0bMWHl9ZuCIs1) | [I'm Not Here Rn](https://open.spotify.com/album/1idUOu9zbmQLtID4BSzZyt) | 3:15 | 2022-07-22 | 2022-08-27 |

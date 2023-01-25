@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcItj8Rw7Oqd.md) - [plain]
 
 > Pop x Rock\. Cover: Sam Smith & Kim Petras ft Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,063 likes - 62 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,062 likes - 62 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

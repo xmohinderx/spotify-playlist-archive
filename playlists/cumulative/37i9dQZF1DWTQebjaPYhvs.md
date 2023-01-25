@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-201 songs - 12 hr 32 min
+203 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Caroline](https://open.spotify.com/track/7rwKNqgVO0OfdOLNSKfYR4) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx), [Belle Plaine](https://open.spotify.com/artist/5bCjjNx0wXytkKko9jlaLl) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 2:53 | 2020-06-22 |  |
 | [Chess](https://open.spotify.com/track/4QEX5xovdi7LpxPucf99aX) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Chess](https://open.spotify.com/album/1Hsjz9l68sZbrKuZP8Ofq9) | 2:32 | 2021-12-28 | 2022-12-08 |
 | [Chess](https://open.spotify.com/track/7AYbl1Auq495a2BUcc5Xf5) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Chess](https://open.spotify.com/album/37WoevP8269NwUSQ370NVV) | 2:32 | 2022-12-07 |  |
-| [Cigarette](https://open.spotify.com/track/1MC0zx1YAB2OZrqaA9eRZ9) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Cigarette](https://open.spotify.com/album/0IpzRCBFjho1olTGa7haHu) | 3:34 | 2020-06-22 |  |
+| [Cigarette](https://open.spotify.com/track/1MC0zx1YAB2OZrqaA9eRZ9) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Cigarette](https://open.spotify.com/album/0IpzRCBFjho1olTGa7haHu) | 3:34 | 2020-06-22 | 2023-01-25 |
+| [Cigarette](https://open.spotify.com/track/2U3DpE3tZk504wqtUs9jbA) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Cigarette](https://open.spotify.com/album/7sbNpqAePuSfznP3AMCpdc) | 3:34 | 2020-06-22 |  |
 | [Claudia's Theme \- Version Eight](https://open.spotify.com/track/42KZ8Ico4auwb8jSijJtI1) | [Lennie Niehaus](https://open.spotify.com/artist/574GaJ6fESbIpMNPvL61Af), [Clint Eastwood](https://open.spotify.com/artist/5NfaORyb548xmt85LGHYFV) | [Unforgiven \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ae3Z1g2G35RSOFkHL3SBt) | 5:41 | 2019-06-27 |  |
 | [Conquer](https://open.spotify.com/track/6ZMnmTmhfIKMQAD7crAQfJ) | [KiND](https://open.spotify.com/artist/5FtxRQV23bl8eKmKdxtxbv) | [Conquer](https://open.spotify.com/album/7pvY4eXxlxci8gIvi7zFoc) | 4:18 | 2019-06-27 |  |
 | [Cover Me Up](https://open.spotify.com/track/5qW6ZYct54PhKliCntyxRX) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Southeastern](https://open.spotify.com/album/1bg476ZQn7hmcXaU05SHV4) | 4:53 | 2021-12-20 |  |
@@ -100,7 +101,8 @@
 | [Long Hot Summer Day](https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:12 | 2019-06-27 |  |
 | [Long White Line](https://open.spotify.com/track/40Xg69oisdpuP4C7xl3RkK) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 4:01 | 2020-07-20 |  |
 | [Lord Knows I Tried](https://open.spotify.com/track/7zKcfMgSincnabBwLLNsEH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [I Said a Prayer Twice for Both My Faces](https://open.spotify.com/album/6RtPOOl6JCef0oAp4MzSij) | 3:00 | 2019-06-27 |  |
-| [Love Someone](https://open.spotify.com/track/3drvPv9MzHO2QhbUgTi5T3) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Love Someone](https://open.spotify.com/album/3RLZXZluEVBUzt92OLKsm2) | 3:14 | 2019-08-23 |  |
+| [Love Someone](https://open.spotify.com/track/3drvPv9MzHO2QhbUgTi5T3) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Love Someone](https://open.spotify.com/album/3RLZXZluEVBUzt92OLKsm2) | 3:14 | 2019-08-23 | 2023-01-25 |
+| [Love Someone](https://open.spotify.com/track/6VsI7EZPBKskkkUPT6mrOT) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Love Someone](https://open.spotify.com/album/4tJ4uQSqHlYSLUXQq0BJaE) | 3:14 | 2019-08-23 |  |
 | [Lucky Seven](https://open.spotify.com/track/6WBo2nRguJNWTpq36GFNQv) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Whippoorwill](https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi) | 4:17 | 2019-08-08 |  |
 | [Mamma Song](https://open.spotify.com/track/0FHr4lDNfkrOd0oOAiJS1H) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/0XwvWmuegqeWhDpg2FZaXW) | 4:19 | 2020-06-22 |  |
 | [Mamma Song](https://open.spotify.com/track/5EUXRdukDwEkNays7HQ3AB) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/5wSwd9cxD1Ii8yvgxUnyr3) | 4:19 | 2020-06-22 | 2023-01-09 |

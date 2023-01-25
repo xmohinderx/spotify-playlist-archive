@@ -1,13 +1,121 @@
 {
-  "description": "Pacific Northwest music breaking waves. Cover, Umi",
-  "num_followers": 1697,
+  "description": "Pacific Northwest music breaking waves. Cover, Taylar Elizza Beth ",
+  "num_followers": 1701,
   "original_name": "Ripple Effect: PNW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU5MTk2MiwwMDAwMDAwMDhlY2JmZjYyMTEyM2JkOTRjYmQ4NDJjMjczYTVmMmY2",
+  "snapshot_id": "MTY3NDU0MjAzMiwwMDAwMDAwMDg5NDIzM2ZmMGNlMDRhYmUwOWY3MDBhZWEyYzRiNGRl",
   "tracks": [
+    {
+      "added_at": "2023-01-24 06:33:52",
+      "album": {
+        "name": "UNDERCOVER LOVERGIRL",
+        "url": "https://open.spotify.com/album/5ftcgh6Hixp42GIOlB1Fsq"
+      },
+      "artists": [
+        {
+          "name": "Taylar Elizza Beth",
+          "url": "https://open.spotify.com/artist/0XE4mkNAnSI2molchwNfGQ"
+        },
+        {
+          "name": "WD4D",
+          "url": "https://open.spotify.com/artist/53QqYQtqceXhifEin57aM3"
+        }
+      ],
+      "duration_ms": 154576,
+      "name": "MONEY MANTRA ($$$)",
+      "url": "https://open.spotify.com/track/0AoVzLAfAUGHNE8FMxaWXA"
+    },
+    {
+      "added_at": "2023-01-13 06:39:21",
+      "album": {
+        "name": "The Return Of The Jedi",
+        "url": "https://open.spotify.com/album/5FP4vK7ADFEbK77rghjGoF"
+      },
+      "artists": [
+        {
+          "name": "Jarv Dee",
+          "url": "https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u"
+        }
+      ],
+      "duration_ms": 165879,
+      "name": "On Time",
+      "url": "https://open.spotify.com/track/3ToDN9fnVh1lg8WYifWYEE"
+    },
+    {
+      "added_at": "2023-01-24 06:33:52",
+      "album": {
+        "name": "Fallin 4 U",
+        "url": "https://open.spotify.com/album/1YJ8tY6VZVWPmpedVPDvsa"
+      },
+      "artists": [
+        {
+          "name": "Mazde",
+          "url": "https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx"
+        },
+        {
+          "name": "Dave B.",
+          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+        }
+      ],
+      "duration_ms": 125397,
+      "name": "Fallin 4 U",
+      "url": "https://open.spotify.com/track/6508S7RrqNgFaGkNlcnppp"
+    },
+    {
+      "added_at": "2023-01-13 06:39:21",
+      "album": {
+        "name": "soonish (remix)",
+        "url": "https://open.spotify.com/album/1x46A3F9ux4XLNoPdIjOsp"
+      },
+      "artists": [
+        {
+          "name": "Blimes",
+          "url": "https://open.spotify.com/artist/0vgKrXg0mdruX9v5DQkjQM"
+        },
+        {
+          "name": "Gifted Gab",
+          "url": "https://open.spotify.com/artist/0qSaAqfR0p0oPm7Mv9Q1XT"
+        },
+        {
+          "name": "Gavlyn",
+          "url": "https://open.spotify.com/artist/58ASRfojjs1J8bhyuUh1tI"
+        },
+        {
+          "name": "Kissflame",
+          "url": "https://open.spotify.com/artist/12kJEyTzBlHn4TChb6nqRC"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "soonish - remix",
+      "url": "https://open.spotify.com/track/0MFUEgA86y8cTDG23qZIO5"
+    },
+    {
+      "added_at": "2023-01-24 06:33:52",
+      "album": {
+        "name": "To Rico",
+        "url": "https://open.spotify.com/album/19V5nHozRe1Nf98cZiDFP4"
+      },
+      "artists": [
+        {
+          "name": "Julimar",
+          "url": "https://open.spotify.com/artist/3hTpXvRBbAKYNQCQrQJS5j"
+        },
+        {
+          "name": "Karma Rivera",
+          "url": "https://open.spotify.com/artist/79rSn0FneG7zsUb6LItVLs"
+        },
+        {
+          "name": "Lapaushi",
+          "url": "https://open.spotify.com/artist/24blHTBtdpGgD93XzjrOL1"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "To Rico",
+      "url": "https://open.spotify.com/track/0ZtJiImDOswMTzeIFX3i0X"
+    },
     {
       "added_at": "2023-01-13 06:39:21",
       "album": {
@@ -43,74 +151,6 @@
       "duration_ms": 154250,
       "name": "NOT YOUR BODY",
       "url": "https://open.spotify.com/track/2nRSMc8KspRama6r5AfbEP"
-    },
-    {
-      "added_at": "2023-01-13 06:39:21",
-      "album": {
-        "name": "soonish (remix)",
-        "url": "https://open.spotify.com/album/1x46A3F9ux4XLNoPdIjOsp"
-      },
-      "artists": [
-        {
-          "name": "Blimes",
-          "url": "https://open.spotify.com/artist/0vgKrXg0mdruX9v5DQkjQM"
-        },
-        {
-          "name": "Gifted Gab",
-          "url": "https://open.spotify.com/artist/0qSaAqfR0p0oPm7Mv9Q1XT"
-        },
-        {
-          "name": "Gavlyn",
-          "url": "https://open.spotify.com/artist/58ASRfojjs1J8bhyuUh1tI"
-        },
-        {
-          "name": "Kissflame",
-          "url": "https://open.spotify.com/artist/12kJEyTzBlHn4TChb6nqRC"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "soonish - remix",
-      "url": "https://open.spotify.com/track/0MFUEgA86y8cTDG23qZIO5"
-    },
-    {
-      "added_at": "2023-01-13 06:39:21",
-      "album": {
-        "name": "The Return Of The Jedi",
-        "url": "https://open.spotify.com/album/5FP4vK7ADFEbK77rghjGoF"
-      },
-      "artists": [
-        {
-          "name": "Jarv Dee",
-          "url": "https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u"
-        }
-      ],
-      "duration_ms": 165879,
-      "name": "On Time",
-      "url": "https://open.spotify.com/track/3ToDN9fnVh1lg8WYifWYEE"
-    },
-    {
-      "added_at": "2023-01-13 06:39:21",
-      "album": {
-        "name": "You So Nasty (Latin Remix)",
-        "url": "https://open.spotify.com/album/3l7tjEGjShjlqMVmQtISTN"
-      },
-      "artists": [
-        {
-          "name": "Karma Rivera",
-          "url": "https://open.spotify.com/artist/79rSn0FneG7zsUb6LItVLs"
-        },
-        {
-          "name": "Julimar",
-          "url": "https://open.spotify.com/artist/3hTpXvRBbAKYNQCQrQJS5j"
-        },
-        {
-          "name": "Hendrick Valera",
-          "url": "https://open.spotify.com/artist/376E8lUt0XFd73aLvttfEl"
-        }
-      ],
-      "duration_ms": 107058,
-      "name": "You So Nasty (Latin Remix)",
-      "url": "https://open.spotify.com/track/17XuRhuwtCxuRBtZAOyESW"
     },
     {
       "added_at": "2023-01-13 06:39:21",
@@ -217,26 +257,6 @@
       "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
     },
     {
-      "added_at": "2022-12-02 22:44:20",
-      "album": {
-        "name": "say im ur luv (Jumbo Sounds Remix)",
-        "url": "https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        },
-        {
-          "name": "Jumbo Sounds",
-          "url": "https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq"
-        }
-      ],
-      "duration_ms": 137032,
-      "name": "say im ur luv - Jumbo Sounds Remix",
-      "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
-    },
-    {
       "added_at": "2023-01-13 06:39:21",
       "album": {
         "name": "Petty (Geemix)",
@@ -315,26 +335,6 @@
       "duration_ms": 124514,
       "name": "SOURCE OF FAITH",
       "url": "https://open.spotify.com/track/5f3VPKQNxmVbLjx6dAeN3O"
-    },
-    {
-      "added_at": "2023-01-13 06:39:21",
-      "album": {
-        "name": "GEMINI MOON",
-        "url": "https://open.spotify.com/album/03Uqs0xeKrnJd36jmCK6tL"
-      },
-      "artists": [
-        {
-          "name": "Taylar Elizza Beth",
-          "url": "https://open.spotify.com/artist/0XE4mkNAnSI2molchwNfGQ"
-        },
-        {
-          "name": "WD4D",
-          "url": "https://open.spotify.com/artist/53QqYQtqceXhifEin57aM3"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "GEMINI MOON",
-      "url": "https://open.spotify.com/track/4bDtMVt6x8KmqVLzQhIy8X"
     },
     {
       "added_at": "2023-01-13 06:39:21",
@@ -425,40 +425,36 @@
       "url": "https://open.spotify.com/track/38j4eOl8We9zTwE0OTNCaW"
     },
     {
-      "added_at": "2023-01-13 06:39:21",
+      "added_at": "2023-01-24 06:33:52",
       "album": {
-        "name": "Are We?",
-        "url": "https://open.spotify.com/album/4nf8fA5p8Cwr5lwMrYp4Kl"
+        "name": "Intoxicating",
+        "url": "https://open.spotify.com/album/0KbBtyKFsKnAS429HkOick"
       },
       "artists": [
         {
-          "name": "Connect Zero",
-          "url": "https://open.spotify.com/artist/3k8lBDenIm90lWaSpAYQeH"
+          "name": "SafePlace",
+          "url": "https://open.spotify.com/artist/63Oic7JkPpYf93akZbXclN"
         }
       ],
-      "duration_ms": 177711,
-      "name": "2017",
-      "url": "https://open.spotify.com/track/1yleq5lgmI42zeU1WOtWXX"
+      "duration_ms": 195843,
+      "name": "Intoxicating",
+      "url": "https://open.spotify.com/track/5CIaHRZPcYpgJwz95eBCIB"
     },
     {
-      "added_at": "2023-01-13 06:39:21",
+      "added_at": "2023-01-24 06:33:52",
       "album": {
-        "name": "Kool Aid (with Dave B.)",
-        "url": "https://open.spotify.com/album/0X9qmf9HWtI4PRMNYGByjR"
+        "name": "New Balance",
+        "url": "https://open.spotify.com/album/6e6NZFitDZPHUJ0K8v3l81"
       },
       "artists": [
         {
-          "name": "KingTrey",
-          "url": "https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv"
-        },
-        {
-          "name": "Dave B.",
-          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+          "name": "James Lite",
+          "url": "https://open.spotify.com/artist/7e2dIr2GwZgilIk9CrtUUU"
         }
       ],
-      "duration_ms": 153369,
-      "name": "Kool Aid (with Dave B.)",
-      "url": "https://open.spotify.com/track/1spizWhedqBEs55T7UQghA"
+      "duration_ms": 177331,
+      "name": "New Balance",
+      "url": "https://open.spotify.com/track/0Yf1Ik5IMY94Lfi6bwXIfK"
     },
     {
       "added_at": "2023-01-13 06:39:21",
@@ -493,10 +489,10 @@
       "url": "https://open.spotify.com/track/1zD0Go66xEy2FDpstlvd2s"
     },
     {
-      "added_at": "2022-10-25 18:09:55",
+      "added_at": "2023-01-24 06:33:52",
       "album": {
-        "name": "Grave Mistake",
-        "url": "https://open.spotify.com/album/4oJ5LoPjOBCPgpqYDTPSok"
+        "name": "Silk Sheets",
+        "url": "https://open.spotify.com/album/16v5yqOyihzRxqYlEJ2Td7"
       },
       "artists": [
         {
@@ -504,9 +500,25 @@
           "url": "https://open.spotify.com/artist/3Rrg3qxCFC6sXCT8yIPjn6"
         }
       ],
-      "duration_ms": 169090,
-      "name": "Grave Mistake",
-      "url": "https://open.spotify.com/track/0vDkjQK1lnX61QM8OFfqDm"
+      "duration_ms": 200000,
+      "name": "Silk Sheets",
+      "url": "https://open.spotify.com/track/5b9h3qSZj7TOm2TSRSFsXD"
+    },
+    {
+      "added_at": "2023-01-24 06:33:52",
+      "album": {
+        "name": "Last Word",
+        "url": "https://open.spotify.com/album/6XpLWtdsR3LmLKTDfsRtOK"
+      },
+      "artists": [
+        {
+          "name": "Mytintie",
+          "url": "https://open.spotify.com/artist/4fQj0YeIp39WhILu69EQb2"
+        }
+      ],
+      "duration_ms": 153298,
+      "name": "Last Word",
+      "url": "https://open.spotify.com/track/1KuXgevnlo7Ym7EzsXNGnY"
     },
     {
       "added_at": "2023-01-13 06:39:21",
@@ -563,6 +575,22 @@
       "duration_ms": 173500,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/36kzQRUHQZbfRKNbGRegpv"
+    },
+    {
+      "added_at": "2023-01-24 06:33:52",
+      "album": {
+        "name": "Dying?",
+        "url": "https://open.spotify.com/album/4yDsdjKwIfkHSWlLONDhda"
+      },
+      "artists": [
+        {
+          "name": "Connect Zero",
+          "url": "https://open.spotify.com/artist/3k8lBDenIm90lWaSpAYQeH"
+        }
+      ],
+      "duration_ms": 200986,
+      "name": "Dying?",
+      "url": "https://open.spotify.com/track/3VObauMtVihbUBlYrIO2Ee"
     },
     {
       "added_at": "2023-01-13 06:39:21",
@@ -759,22 +787,6 @@
     {
       "added_at": "2023-01-13 06:39:21",
       "album": {
-        "name": "VER",
-        "url": "https://open.spotify.com/album/42z63pz06b9oyygHj4qajG"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        }
-      ],
-      "duration_ms": 200597,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/7ueKWTuprdY9DLMgkOynPx"
-    },
-    {
-      "added_at": "2023-01-13 06:39:21",
-      "album": {
         "name": "Heat 1",
         "url": "https://open.spotify.com/album/1zgVPlpiEfgHEThuvPRRRt"
       },
@@ -849,36 +861,44 @@
       "url": "https://open.spotify.com/track/5aipGRTCmbrqo0iaBxE1vF"
     },
     {
-      "added_at": "2023-01-13 06:39:21",
+      "added_at": "2023-01-24 06:33:52",
       "album": {
-        "name": "G.A.M.E TOO",
-        "url": "https://open.spotify.com/album/0CATsELhNBFxtJYWfrf3R3"
+        "name": "Un-Thinkable",
+        "url": "https://open.spotify.com/album/62anmaJ3nvZYhj6vgLM1nJ"
       },
       "artists": [
         {
-          "name": "Royce The Choice",
-          "url": "https://open.spotify.com/artist/0IUBTnweyOMhLh7dcNbJ0g"
+          "name": "Pink50",
+          "url": "https://open.spotify.com/artist/6yLc3NcLLuzg1BW06BgCeQ"
+        },
+        {
+          "name": "Mafi D",
+          "url": "https://open.spotify.com/artist/0TboE335UT8BpAg6aSpoAm"
         }
       ],
-      "duration_ms": 115426,
-      "name": "CPN NAME",
-      "url": "https://open.spotify.com/track/0hcDLml8hn4cEY4w25lEVw"
+      "duration_ms": 151463,
+      "name": "Un-Thinkable",
+      "url": "https://open.spotify.com/track/1XJz3d2MqgDBFVgiQ1KdOJ"
     },
     {
-      "added_at": "2022-12-02 22:44:20",
+      "added_at": "2023-01-24 06:33:52",
       "album": {
-        "name": "Rent Due",
-        "url": "https://open.spotify.com/album/6Notz7PmmDIpEyQffYP3Wb"
+        "name": "BACK",
+        "url": "https://open.spotify.com/album/1whKX00YhmaN20o3KxKUtB"
       },
       "artists": [
         {
           "name": "Keezy Kay",
           "url": "https://open.spotify.com/artist/0BxreeuwIADVriLOyYSxBK"
+        },
+        {
+          "name": "Keysean Devin",
+          "url": "https://open.spotify.com/artist/18ZY2bXFIBENyzmHF6Phxv"
         }
       ],
-      "duration_ms": 123585,
-      "name": "Rent Due",
-      "url": "https://open.spotify.com/track/0NyEfNChHkSJGTiQD0GDuj"
+      "duration_ms": 166187,
+      "name": "BACK",
+      "url": "https://open.spotify.com/track/71wgKh5575p381tV48Xfu3"
     },
     {
       "added_at": "2023-01-13 06:39:21",
@@ -911,34 +931,6 @@
       "duration_ms": 108553,
       "name": "Crackhead Move",
       "url": "https://open.spotify.com/track/1mZscNOtihFjC0uhpis7oV"
-    },
-    {
-      "added_at": "2023-01-13 06:39:21",
-      "album": {
-        "name": "Keep Up",
-        "url": "https://open.spotify.com/album/3h2XGrcpHRFO83X9lsutob"
-      },
-      "artists": [
-        {
-          "name": "Pink50",
-          "url": "https://open.spotify.com/artist/6yLc3NcLLuzg1BW06BgCeQ"
-        },
-        {
-          "name": "Maika Million",
-          "url": "https://open.spotify.com/artist/550nfGDwq7E0lxtarPhp2j"
-        },
-        {
-          "name": "JiggaCity",
-          "url": "https://open.spotify.com/artist/3H9yeV21BotwaV9tmw9S3w"
-        },
-        {
-          "name": "Prod. Bryce",
-          "url": "https://open.spotify.com/artist/4aukJj4YAzHs68S4Es7bRS"
-        }
-      ],
-      "duration_ms": 157596,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/2yavBS1Ufb7AHY29lS5Akk"
     }
   ],
   "unique_name": "Ripple Effect: PNW",

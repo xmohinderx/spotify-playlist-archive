@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Nocheros
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,034 likes - 98 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,066 likes - 98 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 76 | [El Antigal](https://open.spotify.com/track/32CIU2BQzqyWAChePiMiu1) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Alma Andina](https://open.spotify.com/album/78b7ydPgTanHedDDZ4pqIZ) | 4:18 |
 | 77 | [Mi Regreso](https://open.spotify.com/track/1CfwzL2EwovUSJk12fhNva) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Mi Regreso](https://open.spotify.com/album/6IQdh1uIQiHyUuqfoCFtP4) | 2:59 |
 | 78 | [Calle Soledad](https://open.spotify.com/track/6masuUU9NkkiVIbWTYjRU6) | [Grupo Quorum](https://open.spotify.com/artist/1dKVEJXnyHdXOkaHelPLiE) | [Encuentro](https://open.spotify.com/album/5yOpiLXAck9Zxa0TNCMskB) | 3:18 |
-| 79 | [Juglar Chuncano](https://open.spotify.com/track/5FTwYtNlI7G5fWSGjaPVWU) | [Chechelos](https://open.spotify.com/artist/6a24LyJKiILo37aDxHVDL6), [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [Juglar Chuncano](https://open.spotify.com/album/13Mj1uBTzv5Pp2JwPLBFla) | 2:32 |
+| 79 | [Juglar Chuncano](https://open.spotify.com/track/5FTwYtNlI7G5fWSGjaPVWU) | [Chechelos](https://open.spotify.com/artist/6a24LyJKiILo37aDxHVDL6), [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [Juglar Chuncano](https://open.spotify.com/album/13Mj1uBTzv5Pp2JwPLBFla) | 2:33 |
 | 80 | [Vuelve La Llama](https://open.spotify.com/track/5ji0BDOEcT5ITZHsrWfMGX) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Vuelve La Llama](https://open.spotify.com/album/79mwd2rHekN02U2DuS4tJ0) | 1:59 |
 | 81 | [Tan Tristes](https://open.spotify.com/track/2APdoYXRww4qRJMxCpy6As) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [Dos](https://open.spotify.com/album/5IV37ig5dBAwPKGkvbx6iX) | 3:05 |
 | 82 | [Alma](https://open.spotify.com/track/73fh5PP1DDxJLrjzuR0K93) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Alma](https://open.spotify.com/album/3bR7NG06VsznfRW6qvMdwy) | 3:16 |

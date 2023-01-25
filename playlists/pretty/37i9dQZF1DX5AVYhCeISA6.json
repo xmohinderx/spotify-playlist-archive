@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran. Kickback and listen to these amazing women. Cover: Villano Antillano",
-  "num_followers": 606041,
+  "num_followers": 606191,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA0MDA1MywwMDAwMDAwMGExYjVmYjkwNmY4MTMzZjBhYWNjYjVjMWU1OGYxMDZm",
+  "snapshot_id": "MTY3MzA0MDA1MywwMDAwMDAwMGZmMGQ5ZjdlMThkNDAwNzEyZTMwMmViNmExZTlkMmU0",
   "tracks": [
     {
       "added_at": "2023-01-06 21:20:53",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-01-06 21:20:53",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 151988,
+      "name": "LA NENA DE ARGENTINA",
+      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
+    },
+    {
+      "added_at": "2023-01-06 21:20:53",
+      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2023-01-06 21:20:53",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 151988,
-      "name": "LA NENA DE ARGENTINA",
-      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
     },
     {
       "added_at": "2023-01-06 21:20:53",
@@ -167,26 +167,18 @@
     {
       "added_at": "2023-01-06 21:20:53",
       "album": {
-        "name": "Mayor Que Usted",
-        "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
       },
       "artists": [
         {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 233519,
-      "name": "Mayor Que Usted",
-      "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "added_at": "2023-01-06 21:20:53",
@@ -231,18 +223,26 @@
     {
       "added_at": "2023-01-06 21:20:53",
       "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+        "name": "Mayor Que Usted",
+        "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+      "duration_ms": 233519,
+      "name": "Mayor Que Usted",
+      "url": "https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23"
     },
     {
       "added_at": "2023-01-06 21:20:53",
@@ -371,26 +371,6 @@
     {
       "added_at": "2023-01-06 21:20:53",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 232549,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
-    },
-    {
-      "added_at": "2023-01-06 21:20:53",
-      "album": {
         "name": "OJAL\u00c1",
         "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 144018,
       "name": "Linda",
       "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
+    },
+    {
+      "added_at": "2023-01-06 21:20:53",
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 232549,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
     },
     {
       "added_at": "2023-01-06 21:20:53",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-01-06 21:20:53",
       "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/4n8cY8SZgldxSbq9uJ05Tq"
+    },
+    {
+      "added_at": "2023-01-06 21:20:53",
+      "album": {
         "name": "Pa Mis Muchachas (feat. Nathy Peluso)",
         "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 216737,
       "name": "Pa Mis Muchachas (feat. Nathy Peluso)",
       "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
-    },
-    {
-      "added_at": "2023-01-06 21:20:53",
-      "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/4n8cY8SZgldxSbq9uJ05Tq"
     },
     {
       "added_at": "2023-01-06 21:20:53",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-01-06 21:20:53",
       "album": {
-        "name": "Al Lau",
-        "url": "https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st"
-      },
-      "artists": [
-        {
-          "name": "Lele Pons",
-          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
-        }
-      ],
-      "duration_ms": 164184,
-      "name": "Al Lau",
-      "url": "https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0"
-    },
-    {
-      "added_at": "2023-01-06 21:20:53",
-      "album": {
         "name": "Estoy Soltera",
         "url": "https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 172653,
       "name": "Estoy Soltera",
       "url": "https://open.spotify.com/track/597HxeFN4prkOZml250ZhR"
+    },
+    {
+      "added_at": "2023-01-06 21:20:53",
+      "album": {
+        "name": "Al Lau",
+        "url": "https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st"
+      },
+      "artists": [
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        }
+      ],
+      "duration_ms": 164184,
+      "name": "Al Lau",
+      "url": "https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0"
     },
     {
       "added_at": "2023-01-06 21:20:53",
@@ -1631,22 +1631,18 @@
     {
       "added_at": "2023-01-06 21:20:53",
       "album": {
-        "name": "Chanteito Pa' un Ex",
-        "url": "https://open.spotify.com/album/1kmys6i9MjDcH2loOM1ZVB"
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
       },
       "artists": [
         {
-          "name": "Beatriz Luengo",
-          "url": "https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
         }
       ],
-      "duration_ms": 216632,
-      "name": "Chanteito Pa' un Ex",
-      "url": "https://open.spotify.com/track/4mK5PG0R3ch1hJoOW9pFe2"
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
     },
     {
       "added_at": "2023-01-06 21:20:53",
@@ -1667,18 +1663,22 @@
     {
       "added_at": "2023-01-06 21:20:53",
       "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
+        "name": "Chanteito Pa' un Ex",
+        "url": "https://open.spotify.com/album/1kmys6i9MjDcH2loOM1ZVB"
       },
       "artists": [
         {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+          "name": "Beatriz Luengo",
+          "url": "https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         }
       ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
+      "duration_ms": 216632,
+      "name": "Chanteito Pa' un Ex",
+      "url": "https://open.spotify.com/track/4mK5PG0R3ch1hJoOW9pFe2"
     },
     {
       "added_at": "2023-01-06 21:20:53",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-01-06 21:20:53",
       "album": {
-        "name": "Superpoderes",
-        "url": "https://open.spotify.com/album/435xDsvEpsNmSjQtYgEY7Y"
-      },
-      "artists": [
-        {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
-        }
-      ],
-      "duration_ms": 195366,
-      "name": "Superpoderes",
-      "url": "https://open.spotify.com/track/3UiKij7gnwxLoywPzvOMaP"
-    },
-    {
-      "added_at": "2023-01-06 21:20:53",
-      "album": {
         "name": "En Letra de Otro",
         "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 185494,
       "name": "Antolog\u00eda",
       "url": "https://open.spotify.com/track/72DDaeAB5lMu5H3AqeaIbe"
+    },
+    {
+      "added_at": "2023-01-06 21:20:53",
+      "album": {
+        "name": "Superpoderes",
+        "url": "https://open.spotify.com/album/435xDsvEpsNmSjQtYgEY7Y"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        }
+      ],
+      "duration_ms": 195366,
+      "name": "Superpoderes",
+      "url": "https://open.spotify.com/track/3UiKij7gnwxLoywPzvOMaP"
     },
     {
       "added_at": "2023-01-06 21:20:53",

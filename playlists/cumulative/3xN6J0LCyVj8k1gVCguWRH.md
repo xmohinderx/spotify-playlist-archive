@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,959 songs - 4 day 16 hr 48 min
+1,960 songs - 4 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [2my Depression](https://open.spotify.com/track/2CPZjGln96P7gM1kwM5gu1) | [BIGLER](https://open.spotify.com/artist/7pIt5II3N96Xl5SCwSr745) | [2my Depression](https://open.spotify.com/album/1cmqWcTgNn9bAOVQ4bmdQP) | 3:19 | 2022-02-18 | 2022-04-30 |
 | [2nd Grade \(feat\. Prodéje & Mya M\)](https://open.spotify.com/track/19ZuNIf1vAm60zAhTNKKkQ) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Mya M](https://open.spotify.com/artist/2cSY8Z9CCGFqTuWOBW6dJ6), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [2nd Grade](https://open.spotify.com/album/7woye7dZFDo9ClrMa8Uprg) | 2:40 | 2020-08-05 | 2020-08-20 |
 | [3 A.M.](https://open.spotify.com/track/6kUT8WGttXOPrEq6p4nlEF) | [Chloe & Nash](https://open.spotify.com/artist/3EPGq4jileGQtOHZmzrk3g) | [3 A.M.](https://open.spotify.com/album/0TDhZHUyVinsmb3LpfJWlv) | 4:26 | 2020-02-04 | 2020-02-11 |
+| [3\-2\-1](https://open.spotify.com/track/0cW2evybdzaNIPuGkVMWmN) | [Lauren Waller](https://open.spotify.com/artist/1dfsoRdxexXO4hVr8XY6Y8) | [3\-2\-1](https://open.spotify.com/album/2eK7qlR22npYe9kG0GUijm) | 2:37 | 2023-01-24 |  |
 | [4 All I Love](https://open.spotify.com/track/1CwVBXSa5sxB1pQQszHIe3) | [Eli Anderson](https://open.spotify.com/artist/1z29pSlefggVpHPre3jw7L) | [4 All I Love](https://open.spotify.com/album/5pnOpUlywIubS3GGLWNQKg) | 3:31 | 2021-05-14 | 2021-05-30 |
 | [4 More](https://open.spotify.com/track/68SS9WH6kOOFZBWVONjlaS) | [JAAK](https://open.spotify.com/artist/7rVFGjBnR7bWwXzfNdtwCE) | [4 More](https://open.spotify.com/album/00MAeMmYS3al6jr7MOKRRC) | 2:57 | 2022-08-12 | 2022-08-28 |
 | [4 My Ppl](https://open.spotify.com/track/1O24Mm4Azaoh75FBR5evW0) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Survival Kit](https://open.spotify.com/album/1ZuTnRjArZ0GNhpXkNiZaI) | 4:25 | 2021-07-12 | 2021-11-19 |

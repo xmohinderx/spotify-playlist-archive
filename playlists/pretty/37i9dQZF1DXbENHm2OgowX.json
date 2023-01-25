@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 27242,
+  "num_followers": 27333,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIyNzA5OSwwMDAwMDAwMDNlYTg0NGNkYWYzYWM3ODk2OGFlMzZlNDYwMTA2YTJk",
+  "snapshot_id": "MTY3NDIyNzA5OSwwMDAwMDAwMDRjNzUwYTg3YjMzZDM2MjU3MTdhZDQ0MTZjN2E0M2I1",
   "tracks": [
     {
       "added_at": "2023-01-20 15:04:59",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-01-20 15:04:59",
       "album": {
-        "name": "Permanently Midnight",
-        "url": "https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b"
-      },
-      "artists": [
-        {
-          "name": "The Gentleman Losers",
-          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
-        }
-      ],
-      "duration_ms": 315284,
-      "name": "As I Came Through the Desert Thus It Was",
-      "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
-    },
-    {
-      "added_at": "2023-01-20 15:04:59",
-      "album": {
         "name": "Slow Bloom",
         "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 285312,
       "name": "Slow Bloom",
       "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
+    },
+    {
+      "added_at": "2023-01-20 15:04:59",
+      "album": {
+        "name": "Permanently Midnight",
+        "url": "https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b"
+      },
+      "artists": [
+        {
+          "name": "The Gentleman Losers",
+          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
+        }
+      ],
+      "duration_ms": 315284,
+      "name": "As I Came Through the Desert Thus It Was",
+      "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
     },
     {
       "added_at": "2023-01-20 15:04:59",

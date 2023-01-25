@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-102 songs - 6 hr 12 min
+103 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Coming Home](https://open.spotify.com/track/0b3MO0oAXgxpUUh1idkBcW) | [PAUA](https://open.spotify.com/artist/0qmDXiQHxN2ErIEJ0ShYoD) | [Paua](https://open.spotify.com/album/4M6mGR7ZhUu6y7zTgjTWs2) | 5:31 | 2021-08-24 |  |
 | [Conquerors](https://open.spotify.com/track/5ctEm5ahuGt6Gj2F57Hop0) | [Average Steve](https://open.spotify.com/artist/07VCUOwm8lucjfgwh5JkR9) | [Conquerors](https://open.spotify.com/album/004AkT7rv1VF77LiFrwgqi) | 2:49 | 2021-08-24 |  |
 | [Cool Down](https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [This Is The Life](https://open.spotify.com/album/3m89meycBx0T7hYBhj2kkq) | 3:31 | 2021-08-24 |  |
-| [Corona and Lime](https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Corona and Lime](https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH) | 3:19 | 2021-08-24 | 2022-07-29 |
+| [Corona and Lime](https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Corona and Lime](https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH) | 3:19 | 2021-08-24 |  |
 | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW) | 3:34 | 2021-08-24 |  |
 | [DJs](https://open.spotify.com/track/05u6c3jCVNewXt0rFUw7p4) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [The House That Bradley Built \(Deluxe Edition\)](https://open.spotify.com/album/0N5WXAYHV9oq1Xk2YJUYvg) | 3:24 | 2022-06-09 | 2022-08-07 |
 | [DJs](https://open.spotify.com/track/53jbCI3T7Enf0ts76ySNYn) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [DJs](https://open.spotify.com/album/7xMJkHig1DBtwA6um5ltM1) | 3:24 | 2021-08-24 | 2022-07-29 |
@@ -84,7 +84,8 @@
 | [Proppa](https://open.spotify.com/track/2wrYYK6oe9Dt8og9BbvE3w) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Proppa](https://open.spotify.com/album/1uc3mBwthg0sbR11HwFQaS) | 3:30 | 2021-08-24 |  |
 | [Rhythm In My Soul](https://open.spotify.com/track/0gnncXckqtWNoyq77cz0mL) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into The Dread](https://open.spotify.com/album/3v7H49k44hIvj8jKdMt07z) | 6:16 | 2021-08-24 | 2022-07-29 |
 | [Rhythm in My Soul](https://open.spotify.com/track/1U9GsSNJ2gypyLCRbbvNa1) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/0XUxsYbbxTmkhzMAA9YeTe) | 6:16 | 2022-06-09 |  |
-| [Road Trip](https://open.spotify.com/track/7eC3ll1MUIMrZxYREU7uc0) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Road Trip](https://open.spotify.com/album/6mbJNoKiwm5OP4M8s4jJYl) | 3:09 | 2021-08-24 |  |
+| [Road Trip](https://open.spotify.com/track/6qNg20sM8sdhIiZTo1tstW) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [First XV](https://open.spotify.com/album/7iiz1chr32IjT3FLiC0dpt) | 3:09 | 2022-08-07 |  |
+| [Road Trip](https://open.spotify.com/track/7eC3ll1MUIMrZxYREU7uc0) | [Sons Of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Road Trip](https://open.spotify.com/album/6mbJNoKiwm5OP4M8s4jJYl) | 3:09 | 2021-08-24 | 2023-01-25 |
 | [Roll Up](https://open.spotify.com/track/0PwduRPZZQeIyVojm5Bjtp) | [Onetox](https://open.spotify.com/artist/2q1DoxOtgpacwQwrKzJKXN) | [Roll Up](https://open.spotify.com/album/67ZFI5vuV7ToLaTMli2B3J) | 3:58 | 2021-08-24 |  |
 | [Rua Kenana](https://open.spotify.com/track/6TSOEqBlEZUdKpcNyvatne) | [David Grace & Injustice](https://open.spotify.com/artist/7bo4jTNuH0w9rlQXsrXnho) | [Rebelling](https://open.spotify.com/album/4TTD9CsTxSqBxNaLvPMRs8) | 4:53 | 2021-08-24 |  |
 | [Shady \- Edit](https://open.spotify.com/track/5lJLXjhooAXIjgPF339skN) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Shady](https://open.spotify.com/album/5iUXFPSiWHb2UT2tz036UQ) | 5:18 | 2021-08-24 |  |

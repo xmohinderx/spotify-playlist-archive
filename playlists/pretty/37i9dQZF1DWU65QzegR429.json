@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. Cover: Jenn Morel",
-  "num_followers": 5638,
+  "num_followers": 5644,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDk1OSwwMDAwMDAwMDYwNzRhMjhhNWE1ZTUxMDczNzUyZjYxNjQxMTNhYzU4",
+  "snapshot_id": "MTY3MzI0NDk1OSwwMDAwMDAwMGZhN2E4NDBlYjg1ZjI5N2U1MTI1N2IzMjJjNjQ2MzEy",
   "tracks": [
     {
       "added_at": "2023-01-09 06:15:59",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-01-09 06:15:59",
       "album": {
-        "name": "Gimme Light",
-        "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
-      },
-      "artists": [
-        {
-          "name": "Cyn Santana",
-          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Gimme Light",
-      "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
-    },
-    {
-      "added_at": "2023-01-09 06:15:59",
-      "album": {
         "name": "EnVy",
         "url": "https://open.spotify.com/album/7MEiQRRyWflSsXeenUGIsl"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2023-01-09 06:15:59",
       "album": {
-        "name": "HUGITO",
-        "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
+        "name": "Gimme Light",
+        "url": "https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr"
       },
       "artists": [
         {
-          "name": "Hugo D Almonte",
-          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
+          "name": "Cyn Santana",
+          "url": "https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf"
         }
       ],
-      "duration_ms": 147692,
-      "name": "VA HABLAR",
-      "url": "https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF"
+      "duration_ms": 149000,
+      "name": "Gimme Light",
+      "url": "https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m"
     },
     {
       "added_at": "2023-01-09 06:15:59",
@@ -623,6 +607,22 @@
       "duration_ms": 217411,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX"
+    },
+    {
+      "added_at": "2023-01-09 06:15:59",
+      "album": {
+        "name": "HUGITO",
+        "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
+      },
+      "artists": [
+        {
+          "name": "Hugo D Almonte",
+          "url": "https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "VA HABLAR",
+      "url": "https://open.spotify.com/track/1D9JQx1HkH3VFfBlsJCckF"
     },
     {
       "added_at": "2023-01-09 06:15:59",

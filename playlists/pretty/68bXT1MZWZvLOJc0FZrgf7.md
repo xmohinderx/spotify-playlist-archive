@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Frank Walker &amp; Ella Henderson
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,188 likes - 145 songs - 7 hr 49 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,184 likes - 145 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

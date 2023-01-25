@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Astronom\u00eda Interior en portada.",
-  "num_followers": 139299,
+  "num_followers": 139358,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA1NDk1NSwwMDAwMDAwMGU5ZjhiNTIzZTJlNTkzYTFkY2Q2NDIxMzNlZjI3NzRm",
+  "snapshot_id": "MTY3MzA1NDk1NSwwMDAwMDAwMGMzOTRjYTkzNDllZjliMzg1NDM5NTc2YWFmYWE1OTNl",
   "tracks": [
     {
       "added_at": "2022-07-22 17:47:39",
@@ -1209,6 +1209,22 @@
       "url": "https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw"
     },
     {
+      "added_at": "2022-11-25 06:00:00",
+      "album": {
+        "name": "1990",
+        "url": "https://open.spotify.com/album/6y8BQ6Ba9N4FArTZOY1Kcq"
+      },
+      "artists": [
+        {
+          "name": "Los Dynamite",
+          "url": "https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/2U3iVgnEYikbslI2pZEEHp"
+    },
+    {
       "added_at": "2022-07-22 17:47:39",
       "album": {
         "name": "Polvo C\u00f3smico",
@@ -1239,22 +1255,6 @@
       "duration_ms": 192416,
       "name": "Dejarte Ir",
       "url": "https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu"
-    },
-    {
-      "added_at": "2022-11-25 06:00:00",
-      "album": {
-        "name": "1990",
-        "url": "https://open.spotify.com/album/6y8BQ6Ba9N4FArTZOY1Kcq"
-      },
-      "artists": [
-        {
-          "name": "Los Dynamite",
-          "url": "https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "1990",
-      "url": "https://open.spotify.com/track/2U3iVgnEYikbslI2pZEEHp"
     }
   ],
   "unique_name": "EL ROCK NO HA MUERTO",

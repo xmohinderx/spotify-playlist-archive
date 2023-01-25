@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-620 songs - 1 day 8 hr 54 min
+621 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [CHAMPION](https://open.spotify.com/track/2kd7MZ2LjqgEFWhtrLYKxC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [CHAMPION](https://open.spotify.com/album/4WEHQE9E7Mit4xhiDVelnC) | 3:01 | 2022-01-13 | 2022-04-02 |
 | [Champion](https://open.spotify.com/track/2XvvNyH2WkQjfpdkc8Lf5B) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Champion](https://open.spotify.com/album/6yZ6emVn0iq4PG0pKKymVk) | 3:30 | 2022-11-04 |  |
 | [Change](https://open.spotify.com/track/6CK581mr24h7z7bFpwhHmm) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Change](https://open.spotify.com/album/2hxKPuoKlnH6ZMInQ3Xg9x) | 3:42 | 2021-12-16 | 2022-03-11 |
+| [Chasing \(feat\. NEIMY\)](https://open.spotify.com/track/4EdlKtTxltiqGEdiOd2AUE) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Chasing \(feat\. NEIMY\)](https://open.spotify.com/album/2x2wq5Et0dUu1lLnYv07vc) | 2:28 | 2023-01-19 |  |
 | [Circles](https://open.spotify.com/track/2mYTINvwFoJYySe9XQsHkN) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Circles](https://open.spotify.com/album/0fq0sVhYUlFzRCrt2T9AU1) | 2:41 | 2022-12-22 |  |
 | [Closer](https://open.spotify.com/track/6qC839XTjnK0oKUoCDcnkL) | [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke), [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Closer](https://open.spotify.com/album/0Dt2mixDqlbO4xO5QNwTZv) | 3:28 | 2022-09-22 | 2022-10-13 |
 | [Coast \(feat\. Cherrie\)](https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 3:50 | 2021-12-16 | 2022-03-10 |
@@ -383,7 +384,7 @@
 | [Nu stannar vi på marken](https://open.spotify.com/track/6AmXtz8CoUpH0AXvRSucLx) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Nu stannar vi på marken](https://open.spotify.com/album/7BtDGXxR0eVKXJb7t3jdfr) | 3:57 | 2021-12-16 | 2022-03-11 |
 | [Nytt opium](https://open.spotify.com/track/24ZQxBTSz22uh3DdnKLUTG) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [Nytt opium](https://open.spotify.com/album/17y3qSADqECIpSUSqo6cZT) | 4:09 | 2022-06-09 | 2022-06-11 |
 | [När jag blundar](https://open.spotify.com/track/0rdA602uLSpPZpwuc5Zujx) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [När jag blundar](https://open.spotify.com/album/2UGIBJF3nSMbJMNRoyMdRj) | 3:34 | 2022-06-23 |  |
-| [När vinden blåser kallt](https://open.spotify.com/track/6YWDey7OfpF1UE6FD9aywI) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [William Segerdahl](https://open.spotify.com/artist/7h3jPDAAlfXOhid0q360Hh) | [När vinden blåser kallt](https://open.spotify.com/album/7gyuvekH6RECOct1BH4PKM) | 2:37 | 2022-05-20 |  |
+| [När vinden blåser kallt](https://open.spotify.com/track/6YWDey7OfpF1UE6FD9aywI) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [William Segerdahl](https://open.spotify.com/artist/7h3jPDAAlfXOhid0q360Hh) | [När vinden blåser kallt](https://open.spotify.com/album/7gyuvekH6RECOct1BH4PKM) | 2:37 | 2022-05-20 | 2023-01-25 |
 | [Nätterna](https://open.spotify.com/track/0sO9OAIoecb2YxmCQohWGq) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Nätterna](https://open.spotify.com/album/30F33A6kVzeBE6qKcBLTz7) | 2:58 | 2021-12-16 | 2022-03-11 |
 | [Nätterna i Göteborg](https://open.spotify.com/track/1Yn8nh3NeSEfA7Oo9dqCvR) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Nätterna i Göteborg](https://open.spotify.com/album/2MKfycYePF6VAf9jg2ToaZ) | 2:51 | 2023-01-05 |  |
 | [Någon annan](https://open.spotify.com/track/4U4MUPj7cOrLnB5UntZHJ4) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Någon annan](https://open.spotify.com/album/3llaSsqHtdwCAHogwaDcNW) | 3:15 | 2021-12-16 | 2022-03-08 |

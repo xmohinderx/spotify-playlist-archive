@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,830 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,010 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 41 | [Back to Beginning](https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n), [Talking Dirty](https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA) | [Back to Beginning](https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y) | 3:15 |
 | 42 | [Infinito Particular \- Bhaskar Remix](https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Infinito Particular \(Bhaskar Remix\)](https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp) | 2:40 |
 | 43 | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc) | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO) | 5:42 |
-| 44 | [Um Dia Inteiro](https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw) | [DUX](https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6), [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Um Dia Inteiro](https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo) | 3:04 |
-| 45 | [Home](https://open.spotify.com/track/4EWdGKmUbO3bCTrVfXMzZB) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Home](https://open.spotify.com/album/59xzmS5W9coddqJlDiYUEa) | 3:44 |
+| 44 | [Home](https://open.spotify.com/track/4EWdGKmUbO3bCTrVfXMzZB) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Home](https://open.spotify.com/album/59xzmS5W9coddqJlDiYUEa) | 3:44 |
+| 45 | [Um Dia Inteiro](https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw) | [DUX](https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6), [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Um Dia Inteiro](https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo) | 3:04 |
 | 46 | [Melhores Bailes Do Mundo](https://open.spotify.com/track/2TS8C1dUfL61wQVr8NgDrW) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [WATILA GYN](https://open.spotify.com/artist/5IfPngxE3IRk9PjoZlVv5l), [DANNTZ!](https://open.spotify.com/artist/4MxOyYxbnV9jnoL6FxAy16) | [Melhores Bailes Do Mundo](https://open.spotify.com/album/7kac11XDCz4yjuQbBo2AC4) | 2:01 |
 | 47 | [Me Cura](https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Me Cura](https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8) | 3:03 |
 | 48 | [All The Lies \(with Felix Jaehn & The Vamps\)](https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [All The Lies \(with Felix Jaehn & The Vamps\)](https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL) | 2:59 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 65 | [Hoje Caminhei \- Remix](https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO) | [Cazt](https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg), [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6), [ØNEhead](https://open.spotify.com/artist/0PGwcXveTYchEcTzdQHchT) | [Hoje Caminhei \(Remix\)](https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap) | 2:20 |
 | 66 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
 | 67 | [Aurora](https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Aurora](https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA) | 2:30 |
-| 68 | [Mais um Dia](https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Mais um Dia](https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR) | 2:18 |
-| 69 | [Blind](https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Blind](https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl) | 3:00 |
+| 68 | [Blind](https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Blind](https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl) | 3:00 |
+| 69 | [Mais um Dia](https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Mais um Dia](https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR) | 2:18 |
 | 70 | [A Tal Canção Pra Lua \- Madism Remix](https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [A Tal Canção Pra Lua \(Madism Remix\)](https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0) | 3:26 |
 
-Snapshot ID: `MTY3MzkxODQ1OSwwMDAwMDAwMDdlZWNkYjI3NTE0M2QxYzQzYjMxZDNkZTlmMGE3MjQ2`
+Snapshot ID: `MTY3MzkxODQ1OSwwMDAwMDAwMDczZDFmMjNjYjU3MTcyZjc4Yjk5MTE0ZmQ5YjJjMDc3`

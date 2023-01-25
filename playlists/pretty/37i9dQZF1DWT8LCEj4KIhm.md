@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,950 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,947 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 52 | [Woosh](https://open.spotify.com/track/1yjxDosub6RIHotGYZBWuR) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [ZayZay](https://open.spotify.com/album/7x3LCLU2w00wLSHOUbTcRB) | 2:57 |
 | 53 | [G\-code](https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Cash Out](https://open.spotify.com/album/0IylneHtusMBsWufSs54aE) | 2:51 |
 | 54 | [Sexy](https://open.spotify.com/track/7rB1GMCXdmSvPTgzPAjJtz) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Kosha Dillz](https://open.spotify.com/artist/64ea3gojfUUFJSJiyZbVK7) | [Sexy](https://open.spotify.com/album/7cnjwAHHRlwL1QZGv25an6) | 2:46 |
-| 55 | [Wait For Me \(feat\. Goody Grace & Tory Lanez\)](https://open.spotify.com/track/7oEll6CiWAejF2oFXH4j9e) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Wait For Me \(feat\. Goody Grace & Tory Lanez\)](https://open.spotify.com/album/5am29BcW1mSfkZkH0pG9t3) | 2:41 |
-| 56 | [Wrong About You](https://open.spotify.com/track/6ApMOK4YBFt2eIo4YSAFDO) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Wrong About You](https://open.spotify.com/album/42hc0SqJxcG4nxepWi6pfq) | 3:15 |
+| 55 | [Wrong About You](https://open.spotify.com/track/6ApMOK4YBFt2eIo4YSAFDO) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Wrong About You](https://open.spotify.com/album/42hc0SqJxcG4nxepWi6pfq) | 3:15 |
+| 56 | [Wait For Me \(feat\. Goody Grace & Tory Lanez\)](https://open.spotify.com/track/7oEll6CiWAejF2oFXH4j9e) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Wait For Me \(feat\. Goody Grace & Tory Lanez\)](https://open.spotify.com/album/5am29BcW1mSfkZkH0pG9t3) | 2:41 |
 | 57 | [Dans la peau \(Anxiety\)](https://open.spotify.com/track/4thpnFUoYU4QYeQuhANS1j) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Dans la peau \(Anxiety\)](https://open.spotify.com/album/6exA47nOA3FEkMkiwZCFSq) | 3:03 |
 | 58 | [Fuego](https://open.spotify.com/track/3fioUBORpFuvNIL8RIwuGU) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Irréversible](https://open.spotify.com/album/5AHWRtchHWxLyQcCD6hflC) | 4:17 |
 | 59 | [Run Run](https://open.spotify.com/track/5EdRhj2IJk4ksPznbraFh4) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [Morgan Bosman](https://open.spotify.com/artist/6XhtzO9007cwYPNcxd8Br2) | [Run Run](https://open.spotify.com/album/2EbF2TU0jbwrWtX7oLj4Wb) | 3:43 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 72 | [Girl Code](https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh) | [Mikalya](https://open.spotify.com/artist/7jv66bdVdkdIlPvEizxV1f), [Odreii](https://open.spotify.com/artist/7an95q1yJtdFUi57D6Emrn), [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Girl Code](https://open.spotify.com/album/5uB4Q0FuEmGPweQ1pT83nr) | 2:23 |
 | 73 | [Faire la fête](https://open.spotify.com/track/3IgiHFixYUbhXSWpEWlW0D) | [Jacobus](https://open.spotify.com/artist/1nNrgL7FuM2jY8DI5GdyZ7), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Faire la fête](https://open.spotify.com/album/1auuOciKDCZF7BVNXLRugS) | 3:19 |
 | 74 | [L’orage](https://open.spotify.com/track/3t65ml1XmFNg4OmFr7v2ps) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [L'orage](https://open.spotify.com/album/28WSPAryhYDtCL8526dp2j) | 3:14 |
-| 75 | [Première ministre](https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Première ministre](https://open.spotify.com/album/12ROayPFNHCQowWjJvdr6Q) | 2:45 |
+| 75 | [Oser aimer \- Dave Audé Pride Remix](https://open.spotify.com/track/38S02R6YsFzcinhk74QLyh) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Oser aimer \(Dave Audé Pride Remix\)](https://open.spotify.com/album/1m6POTZfzOnPRD6L7KLy6K) | 6:09 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMGYxZWJhYzk2MjZiYTM4MDAzN2JhMDRhZDM4YzU2ZGM2`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMGJlMzRhNWEzN2NhODUwMmE0ZjE2MmMxMTg5MDMwZmMz`

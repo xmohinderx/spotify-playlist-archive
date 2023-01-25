@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-316 songs - 18 hr 46 min
+317 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Kaatrodu](https://open.spotify.com/track/5yIC1ldpXfRyVL7LpjrZLp) | [KiAM](https://open.spotify.com/artist/4A2DY9zCCEKzombAIsbhOo), [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Kaatrodu](https://open.spotify.com/album/5EUmFeHta6LpGNhgqj6Med) | 5:44 | 2022-09-23 |  |
 | [Kadan \- Naatpadu Theral \- 2](https://open.spotify.com/track/7GcvJKhW4fnVLDd4xo5nUo) | [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Ramesh Vinayakam](https://open.spotify.com/artist/6inHsxIYCalnwN5AcdWtjL) | [Kadan \(Naatpadu Theral \- 2\)](https://open.spotify.com/album/3XNd7WczhkD3LZ0A1sp1aB) | 5:59 | 2022-05-31 | 2022-06-16 |
 | [Kadavul Thandha Azhagiyae](https://open.spotify.com/track/0iXBFNZwScIvOg1RRrpaoF) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 3:22 | 2022-07-27 | 2022-11-22 |
+| [Kadha Sollava](https://open.spotify.com/track/1zAobZROnbDbk2MMAWawlv) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Kadha Sollava](https://open.spotify.com/album/3HwA1iOHHKW55oDd6ns9Qt) | 2:48 | 2023-01-24 |  |
 | [Kadhal Alaiye](https://open.spotify.com/track/3zVaTgEzpYZnYUrYT5TGPC) | [Guru Prasath](https://open.spotify.com/artist/6N0b4qpUvm8OcghNE1OtSd), [Prasanna Adhisesha](https://open.spotify.com/artist/2RI0JvkmtOl5Se3SVrWYfn), [Christopher Stanley](https://open.spotify.com/artist/21U7OdOREja3hRaxem7U4X), [Sowmya](https://open.spotify.com/artist/4TgdGWqMfO5fl1GE89uD4K) | [Kadhal Alaiye](https://open.spotify.com/album/1ilP7gB9SYitSuKnbcl7Du) | 3:19 | 2023-01-13 |  |
 | [Kadhal Chedi](https://open.spotify.com/track/2RkzxdwBSOWo5fKTkIDghj) | [Siva Suriya Prakash](https://open.spotify.com/artist/1KfAw91V43kU6vHZBPGaHJ), [Darloo](https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7) | [Kadhal Chedi](https://open.spotify.com/album/6OAeOR3T8QJMhmISwGv6Mr) | 3:29 | 2022-07-26 |  |
 | [Kadhal Kandraavi](https://open.spotify.com/track/7w4IGTgcxIpKKkynF7EPv6) | [inFuze](https://open.spotify.com/artist/11tX2vQnkSxUNwy15fIL6U), [Steve Cliff](https://open.spotify.com/artist/3E0yr1MsO4kPFbvq9PHBMd) | [Kadhal Kandraavi](https://open.spotify.com/album/4W12O1istsodXAi9WgbAno) | 3:38 | 2022-02-14 | 2022-07-08 |

@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Sleaford Mods",
-  "num_followers": 47622,
+  "num_followers": 47658,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE3MjgwMCwwMDAwMDAwMDdiMjEyN2M1NTIwMzlkMDI5NjUwMDEyY2Y3MTllMTU3",
+  "snapshot_id": "MTY3NDE3MjgwMCwwMDAwMDAwMDdiYjQ2ZTE3OGQ2ZTdkZGViZDg5MTk2ZjQ4OTU1ZTdl",
   "tracks": [
     {
       "added_at": "2023-01-18 13:53:08",
@@ -225,6 +225,22 @@
       "url": "https://open.spotify.com/track/4Vt4vfcqBtOT9MT9GtWiXP"
     },
     {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "cherry cigarettes",
+        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "cherry cigarettes",
+      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
+    },
+    {
       "added_at": "2023-01-18 13:53:08",
       "album": {
         "name": "catastrophe",
@@ -243,22 +259,6 @@
       "duration_ms": 156430,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
-    },
-    {
-      "added_at": "2023-01-20 00:00:00",
-      "album": {
-        "name": "cherry cigarettes",
-        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
-      },
-      "artists": [
-        {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "cherry cigarettes",
-      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 179809,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "The King and Queen of Gasoline",
         "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 179175,
       "name": "Teenage Runaways",
       "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 179809,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -375,6 +375,22 @@
       "duration_ms": 215986,
       "name": "TAKE THIS CROWN (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
+    },
+    {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
+      },
+      "artists": [
+        {
+          "name": "Phoneboy",
+          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -427,22 +443,6 @@
       "duration_ms": 218400,
       "name": "New England",
       "url": "https://open.spotify.com/track/5zbKXMod7hqor3gJH72enV"
-    },
-    {
-      "added_at": "2023-01-20 00:00:00",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
-      },
-      "artists": [
-        {
-          "name": "Phoneboy",
-          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -511,50 +511,18 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
+        "name": "Hell of Mine",
+        "url": "https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T"
       },
       "artists": [
         {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+          "name": "joe unknown",
+          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
         }
       ],
-      "duration_ms": 195688,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
-        "name": "I.N.V.U.",
-        "url": "https://open.spotify.com/album/27oTauaixYNCxN2LYHcz9v"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "I.N.V.U.",
-      "url": "https://open.spotify.com/track/6qTagiSQjEcfpVm1NHJJEU"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
-        "name": "THE UNRAVELING OF PUPTHEBAND",
-        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "Totally Fine",
-      "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
+      "duration_ms": 125484,
+      "name": "Hell of Mine",
+      "url": "https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -575,18 +543,34 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Hell of Mine",
-        "url": "https://open.spotify.com/album/7pVKbnAFrVQ4wzJ6RsVq4T"
+        "name": "THE UNRAVELING OF PUPTHEBAND",
+        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
       },
       "artists": [
         {
-          "name": "joe unknown",
-          "url": "https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ"
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
         }
       ],
-      "duration_ms": 125484,
-      "name": "Hell of Mine",
-      "url": "https://open.spotify.com/track/1ONqS8Dgb14MMpst9VCJoN"
+      "duration_ms": 223986,
+      "name": "Totally Fine",
+      "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 195688,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -607,6 +591,22 @@
       "duration_ms": 141671,
       "name": "Tom in 03",
       "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "I.N.V.U.",
+        "url": "https://open.spotify.com/album/27oTauaixYNCxN2LYHcz9v"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "I.N.V.U.",
+      "url": "https://open.spotify.com/track/6qTagiSQjEcfpVm1NHJJEU"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -647,6 +647,22 @@
       "duration_ms": 141352,
       "name": "AFTER THERAPY (feat. Hot Mulligan)",
       "url": "https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN"
+    },
+    {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "me vs me vs all of y'all",
+        "url": "https://open.spotify.com/album/5wJmMACyVn4r4Eb3AXqM1u"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "me vs me vs all of y'all",
+      "url": "https://open.spotify.com/track/0t7VlVRdaVBqH1p1UIPcrV"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -695,22 +711,6 @@
       "duration_ms": 150143,
       "name": "Wicked & Bad",
       "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
-    },
-    {
-      "added_at": "2023-01-20 00:00:00",
-      "album": {
-        "name": "me vs me vs all of y'all",
-        "url": "https://open.spotify.com/album/5wJmMACyVn4r4Eb3AXqM1u"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "me vs me vs all of y'all",
-      "url": "https://open.spotify.com/track/0t7VlVRdaVBqH1p1UIPcrV"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Ghost Brigade",
-        "url": "https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn"
-      },
-      "artists": [
-        {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
-        }
-      ],
-      "duration_ms": 224687,
-      "name": "Ghost Brigade",
-      "url": "https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
       },
@@ -795,34 +779,18 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Taste the Money",
-        "url": "https://open.spotify.com/album/3bwDKAW6IgigIg1cfUBMQX"
+        "name": "Ghost Brigade",
+        "url": "https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn"
       },
       "artists": [
         {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
         }
       ],
-      "duration_ms": 155978,
-      "name": "Taste the Money",
-      "url": "https://open.spotify.com/track/44x9fOlJM1CNDIBpOOEJIq"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "BURN THE WITCH",
-      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
+      "duration_ms": 224687,
+      "name": "Ghost Brigade",
+      "url": "https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -859,6 +827,38 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
+        "name": "Taste the Money",
+        "url": "https://open.spotify.com/album/3bwDKAW6IgigIg1cfUBMQX"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 155978,
+      "name": "Taste the Money",
+      "url": "https://open.spotify.com/track/44x9fOlJM1CNDIBpOOEJIq"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "BURN THE WITCH",
+      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
         "name": "Choose Your Fighter",
         "url": "https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s"
       },
@@ -887,46 +887,6 @@
       "duration_ms": 230857,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6m4BBz6Ui5oQKXNmiy1QOg"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
-        "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
-        "url": "https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Shane Told",
-          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
-      "url": "https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
-        "name": "It's good to be back",
-        "url": "https://open.spotify.com/album/7jOycXVNmMBrsJHjjxBhEr"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Panic Shack",
-          "url": "https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc"
-        }
-      ],
-      "duration_ms": 195542,
-      "name": "It's good to be back - Metronomy x Panic Shack",
-      "url": "https://open.spotify.com/track/7cmv2VrzPsqGopOhAWseUq"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -975,6 +935,46 @@
       "duration_ms": 161697,
       "name": "ATTENTION!",
       "url": "https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
+        "url": "https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Shane Told",
+          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
+      "url": "https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "It's good to be back",
+        "url": "https://open.spotify.com/album/7jOycXVNmMBrsJHjjxBhEr"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Panic Shack",
+          "url": "https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc"
+        }
+      ],
+      "duration_ms": 195542,
+      "name": "It's good to be back - Metronomy x Panic Shack",
+      "url": "https://open.spotify.com/track/7cmv2VrzPsqGopOhAWseUq"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Ain't No Thief",
-        "url": "https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 239349,
-      "name": "Ain\u2019t No Thief",
-      "url": "https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "Little Fix",
         "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 196000,
       "name": "Little Fix",
       "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Ain't No Thief",
+        "url": "https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 239349,
+      "name": "Ain\u2019t No Thief",
+      "url": "https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Bullet Farm",
-        "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
-      },
-      "artists": [
-        {
-          "name": "Dead Pony",
-          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
-        }
-      ],
-      "duration_ms": 190614,
-      "name": "Bullet Farm",
-      "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "serotonin",
         "url": "https://open.spotify.com/album/3VuJ9cyJWBvjQ8TxbJGrge"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 183537,
       "name": "serotonin",
       "url": "https://open.spotify.com/track/7j1nFsNOimv0aj6CcLIsTj"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Bullet Farm",
+        "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "duration_ms": 190614,
+      "name": "Bullet Farm",
+      "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Friendzone",
-        "url": "https://open.spotify.com/album/7umNabuZvQNXFIgB2CkKKQ"
-      },
-      "artists": [
-        {
-          "name": "Bronnie",
-          "url": "https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6"
-        }
-      ],
-      "duration_ms": 190786,
-      "name": "Friendzone",
-      "url": "https://open.spotify.com/track/2TIsg3maE0ssdgjsc8qh8O"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "Troglodyte",
         "url": "https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 199732,
       "name": "Troglodyte",
       "url": "https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Friendzone",
+        "url": "https://open.spotify.com/album/7umNabuZvQNXFIgB2CkKKQ"
+      },
+      "artists": [
+        {
+          "name": "Bronnie",
+          "url": "https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6"
+        }
+      ],
+      "duration_ms": 190786,
+      "name": "Friendzone",
+      "url": "https://open.spotify.com/track/2TIsg3maE0ssdgjsc8qh8O"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Empathy My Ass",
-        "url": "https://open.spotify.com/album/3ib6m6kJEhcwUsJC2sE7EQ"
-      },
-      "artists": [
-        {
-          "name": "BEX",
-          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
-        }
-      ],
-      "duration_ms": 182583,
-      "name": "Empathy My Ass",
-      "url": "https://open.spotify.com/track/4uuyKzULwc4cmXJDHGzF29"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "Deadzone",
         "url": "https://open.spotify.com/album/1tixQpiCa1jCbXmiEjNAM0"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 170716,
       "name": "Deadzone",
       "url": "https://open.spotify.com/track/3wnVGG4XF8VbhdfvY8hd1F"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Empathy My Ass",
+        "url": "https://open.spotify.com/album/3ib6m6kJEhcwUsJC2sE7EQ"
+      },
+      "artists": [
+        {
+          "name": "BEX",
+          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+        }
+      ],
+      "duration_ms": 182583,
+      "name": "Empathy My Ass",
+      "url": "https://open.spotify.com/track/4uuyKzULwc4cmXJDHGzF29"
     },
     {
       "added_at": "2023-01-18 13:53:08",

@@ -1,12 +1,12 @@
 {
   "description": "wiu vetin criminal",
-  "num_followers": 1049026,
+  "num_followers": 1050171,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDQ5MjM2MSwwMDAwMDAwMDNhYjA5ZmEwYjI3Y2Q3YjE1YmMyMTdjM2M4YmQyZWI5",
+  "snapshot_id": "MTY3NDQ5MjM2MSwwMDAwMDAwMDM0YWNlODgxMWNhNjk4ZTNkYmU4Mzc2NDU3ZTZkZjgx",
   "tracks": [
     {
       "added_at": "2023-01-23 16:46:00",
@@ -411,6 +411,26 @@
     {
       "added_at": "2023-01-23 16:46:00",
       "album": {
+        "name": "Luz do Luar",
+        "url": "https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4"
+      },
+      "artists": [
+        {
+          "name": "Mc Tato",
+          "url": "https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq"
+        },
+        {
+          "name": "DJ Ak beats",
+          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Luz do Luar",
+      "url": "https://open.spotify.com/track/6eNRGL6Nkdg7RhJtmbcl0j"
+    },
+    {
+      "added_at": "2023-01-23 16:46:00",
+      "album": {
         "name": "Poesia Ac\u00fastica 13",
         "url": "https://open.spotify.com/album/1tJQLPkG5qc9BXqklDInry"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 628124,
       "name": "Poesia Ac\u00fastica 13",
       "url": "https://open.spotify.com/track/7qoIhutxU269Zqo9PG5IOj"
-    },
-    {
-      "added_at": "2023-01-23 16:46:00",
-      "album": {
-        "name": "Luz do Luar",
-        "url": "https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4"
-      },
-      "artists": [
-        {
-          "name": "Mc Tato",
-          "url": "https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq"
-        },
-        {
-          "name": "DJ Ak beats",
-          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Luz do Luar",
-      "url": "https://open.spotify.com/track/6eNRGL6Nkdg7RhJtmbcl0j"
     },
     {
       "added_at": "2023-01-23 16:46:00",
@@ -1051,30 +1051,6 @@
     {
       "added_at": "2023-01-23 16:46:00",
       "album": {
-        "name": "1 Beat 1 Letra",
-        "url": "https://open.spotify.com/album/2GjSmvspkIe32HTVw8rpOS"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Mc Kitinho",
-          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        }
-      ],
-      "duration_ms": 204461,
-      "name": "Luz Apagada",
-      "url": "https://open.spotify.com/track/7vT7jEmtlRnKNThbgRxug6"
-    },
-    {
-      "added_at": "2023-01-23 16:46:00",
-      "album": {
         "name": "Pagodeiro",
         "url": "https://open.spotify.com/album/2SMhhX9Z0TUVdpON3nyrBR"
       },
@@ -1107,6 +1083,30 @@
       "duration_ms": 458666,
       "name": "Pagodeiro",
       "url": "https://open.spotify.com/track/3smtwkthoDwPYDtxS3UrIk"
+    },
+    {
+      "added_at": "2023-01-23 16:46:00",
+      "album": {
+        "name": "1 Beat 1 Letra",
+        "url": "https://open.spotify.com/album/2GjSmvspkIe32HTVw8rpOS"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Mc Kitinho",
+          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "duration_ms": 204461,
+      "name": "Luz Apagada",
+      "url": "https://open.spotify.com/track/7vT7jEmtlRnKNThbgRxug6"
     },
     {
       "added_at": "2023-01-23 16:46:00",

@@ -5387,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "The People Say",
+        "url": "https://open.spotify.com/album/0vWRvfBYsFjZZ3dxCmoGMf"
+      },
+      "artists": [
+        {
+          "name": "Steve Mason",
+          "url": "https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265471,
+      "name": "The People Say",
+      "url": "https://open.spotify.com/track/51Xf6j7GapMJDWO0NXLS7T"
+    },
+    {
+      "album": {
         "name": "The Rain Came Down",
         "url": "https://open.spotify.com/album/70iJQrk26iJClhGjvjSVFv"
       },

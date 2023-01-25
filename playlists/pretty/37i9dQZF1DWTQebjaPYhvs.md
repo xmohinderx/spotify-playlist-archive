@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,872 likes - 197 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,300 likes - 197 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,13 +103,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 93 | [Lady May](https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:03 |
 | 94 | [Dark Thoughts Ride](https://open.spotify.com/track/3lJgfrGHujVhRmU28KwQNa) | [Kevin Costner & Modern West](https://open.spotify.com/artist/3UKhW4CbRv9wZvfT5oodNH) | [Tales from Yellowstone](https://open.spotify.com/album/5vnnXCMIdQFJ2818PxJAt5) | 1:47 |
 | 95 | [Mamma Song](https://open.spotify.com/track/0FHr4lDNfkrOd0oOAiJS1H) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/0XwvWmuegqeWhDpg2FZaXW) | 4:19 |
-| 96 | [Cigarette](https://open.spotify.com/track/1MC0zx1YAB2OZrqaA9eRZ9) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Cigarette](https://open.spotify.com/album/0IpzRCBFjho1olTGa7haHu) | 3:34 |
+| 96 | [Cigarette](https://open.spotify.com/track/2U3DpE3tZk504wqtUs9jbA) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Cigarette](https://open.spotify.com/album/7sbNpqAePuSfznP3AMCpdc) | 3:34 |
 | 97 | [Good Corn Liquor](https://open.spotify.com/track/35tzV4obq7W6oOWjpDmbAG) | [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [Reckless](https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z) | 3:39 |
 | 98 | [Caroline](https://open.spotify.com/track/7rwKNqgVO0OfdOLNSKfYR4) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx), [Belle Plaine](https://open.spotify.com/artist/5bCjjNx0wXytkKko9jlaLl) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 2:53 |
 | 99 | [Daddy Doesn't Pray Anymore](https://open.spotify.com/track/21aD24K6JOf0F0qx6HJ0dy) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:09 |
 | 100 | [The Weary Kind](https://open.spotify.com/track/5uqQQtXsY2HJLbPVPwcz6C) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Junky Star](https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x) | 4:18 |
 | 101 | [Orange Bus](https://open.spotify.com/track/61u88CKSEw98wssFk8kexC) | [Brock Tyler](https://open.spotify.com/artist/4T0Qlfv0mPuMiX9PBaRkeb) | [Unclosing](https://open.spotify.com/album/6Wnbm2suEM9WbHqNcWptiJ) | 1:21 |
-| 102 | [Love Someone](https://open.spotify.com/track/3drvPv9MzHO2QhbUgTi5T3) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Love Someone](https://open.spotify.com/album/3RLZXZluEVBUzt92OLKsm2) | 3:14 |
+| 102 | [Love Someone](https://open.spotify.com/track/6VsI7EZPBKskkkUPT6mrOT) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Love Someone](https://open.spotify.com/album/4tJ4uQSqHlYSLUXQq0BJaE) | 3:14 |
 | 103 | [Under Your Influence](https://open.spotify.com/track/7LLpt1hGZHIrSKt9zoDogD) | [Honey County](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Under Your Influence](https://open.spotify.com/album/4B6hfEUdXTkCfK9vLHegXi) | 3:35 |
 | 104 | [That Would Be Alright](https://open.spotify.com/track/6Jee1gQ5P42GHckmnGleL2) | [Lincoln Grounds](https://open.spotify.com/artist/3IvMomEciLsUnn0Kd6jtDJ), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Start Right Here](https://open.spotify.com/album/78RCzBIDEJymGU98erPOzG) | 3:22 |
 | 105 | [Dreams and Gasoline](https://open.spotify.com/track/3eng6pOVl3hVdnHrvWbeJj) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [I Swear It's the Truth](https://open.spotify.com/album/5j5erAxcsHEfXVMpnZjPky) | 4:41 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 196 | [Yellowstone Main Titles](https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 1:09 |
 | 197 | [Yellowstone Theme](https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:28 |
 
-Snapshot ID: `MTY3Mjc5NDAwMCwwMDAwMDAwMDU4Mzg2NmFkOTc4OThhYjRhNDIzYzliMzgxMzA1MDAx`
+Snapshot ID: `MTY3Mjc5NDAwMCwwMDAwMDAwMDY1YTljMzZiODg5NGZlNGViOTY0MjA3MDJlYzg3NTA2`

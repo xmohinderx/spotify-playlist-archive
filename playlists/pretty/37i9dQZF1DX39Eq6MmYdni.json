@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Esteban Gabriel",
-  "num_followers": 65,
+  "num_followers": 172,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDI1ODI4MSwwMDAwMDAwMDg4ZmRjNGVmYjhlZjQyNjFkM2Y5OGQzNDk5OTk1ODFl",
+  "snapshot_id": "MTY3NDI1ODI4MSwwMDAwMDAwMDk0ZmEyNDNkY2U0YzkwMjE1YTFkMWM5OWYzZGE5NjRj",
   "tracks": [
     {
       "added_at": "2023-01-20 23:44:41",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-01-20 23:44:41",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
+      "duration_ms": 175471,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
     },
     {
       "added_at": "2023-01-20 23:44:41",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-01-20 23:44:41",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 175471,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
     },
     {
       "added_at": "2023-01-20 23:44:41",
@@ -875,6 +875,26 @@
     {
       "added_at": "2023-01-20 23:44:41",
       "album": {
+        "name": "Nivelado",
+        "url": "https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF"
+      },
+      "artists": [
+        {
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        },
+        {
+          "name": "Jos\u00e9 Mej\u00eda",
+          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
+        }
+      ],
+      "duration_ms": 185906,
+      "name": "Que Vas a Hacer",
+      "url": "https://open.spotify.com/track/2OAKNQl1xx7STmVS1QeUP4"
+    },
+    {
+      "added_at": "2023-01-20 23:44:41",
+      "album": {
         "name": "Que nos Pas\u00f3?",
         "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 170600,
       "name": "Lo Dice El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/45WKHzA7KeJtQFLkDHxcCS"
-    },
-    {
-      "added_at": "2023-01-20 23:44:41",
-      "album": {
-        "name": "Nivelado",
-        "url": "https://open.spotify.com/album/7wet6Vo8IdfH2gMzp19HBF"
-      },
-      "artists": [
-        {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        },
-        {
-          "name": "Jos\u00e9 Mej\u00eda",
-          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
-        }
-      ],
-      "duration_ms": 185906,
-      "name": "Que Vas a Hacer",
-      "url": "https://open.spotify.com/track/2OAKNQl1xx7STmVS1QeUP4"
     }
   ],
   "unique_name": "Rompiendo: Texas",

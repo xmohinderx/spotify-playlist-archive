@@ -4,7 +4,7 @@
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Lal İlhan  Çizim: Isu Kim
 
-312 songs - 18 hr 41 min
+313 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Kara Bela](https://open.spotify.com/track/64OY87yaafFBETCw1m66aw) | [Özge Ürer](https://open.spotify.com/artist/6mjeHIMr7MLnXYsrGAwLns) | [Kara Bela](https://open.spotify.com/album/1JsImKXt36LzWlgDvfdqxq) | 3:36 | 2021-12-03 | 2022-01-14 |
 | [Karanlık Felsefe](https://open.spotify.com/track/5yaEGQHTyr589gxkpxEn62) | [Özgen](https://open.spotify.com/artist/6Yn48YLL8D6ia39zIUtPGE) | [Karanlık Felsefe](https://open.spotify.com/album/27zepuu8O1XRQAzXcOEXs0) | 2:26 | 2023-01-10 |  |
 | [Karşılıksız Bir Aşk İçin](https://open.spotify.com/track/0KAxqemJfQcnjtUGj87EIw) | [Murat Güçlü](https://open.spotify.com/artist/5QsmVJGtN2PL7eRR6XlxHP) | [Karşılıksız Bir Aşk İçin](https://open.spotify.com/album/0MTCaINA1wbiDPwMltfUqa) | 4:18 | 2022-04-07 | 2022-12-01 |
+| [Kasırgalar](https://open.spotify.com/track/43fBpH05DhiCjE39wRijll) | [Furkan Karaca](https://open.spotify.com/artist/154sxvjuoeibGo8PClKou4) | [Kasırgalar](https://open.spotify.com/album/4DybPip64tieTJCy7iCSuM) | 4:17 | 2023-01-24 |  |
 | [Kayboldum](https://open.spotify.com/track/1X4GNJ0aUviuVXKJlB5CWw) | [Monokrom](https://open.spotify.com/artist/2OVhnZ8BjobPncG96UGBpm) | [Kayboldum](https://open.spotify.com/album/6LYgKJ74TN9PYG4Cw0u0uE) | 3:15 | 2022-08-16 | 2022-09-21 |
 | [Kayboluyorum](https://open.spotify.com/track/0sg8Plr493H0yTVPyaYYPv) | [bodes](https://open.spotify.com/artist/6TfzPXVRRzCJq0euMymU3I) | [Kayboluyorum](https://open.spotify.com/album/3KJ1YH9ubvD3Vn9v73dUZA) | 3:40 | 2022-11-30 | 2023-01-11 |
 | [Kaygılarım Var](https://open.spotify.com/track/1qDagkeuD2ThY35Cpus3gH) | [Asilhan](https://open.spotify.com/artist/26lzyrYKubDT6N8yjM8fkA) | [Kaygılarım Var](https://open.spotify.com/album/2NKkwT32E5TEUQ2El4T8IS) | 4:15 | 2022-01-19 | 2022-07-20 |
@@ -176,7 +177,7 @@
 | [Kum Saati](https://open.spotify.com/track/5LXJGqxiDY4xDFiRoE3BVJ) | [Portre](https://open.spotify.com/artist/6Y9MGDMTkn35iTnJihRjVa) | [Kum Saati](https://open.spotify.com/album/0eeVFIhsYpJoWmB4GP79K9) | 3:49 | 2022-04-15 | 2022-07-20 |
 | [Kurtar Beni](https://open.spotify.com/track/1oZ6w6YzxtaBah3ggwi2Hv) | [Billur Battal](https://open.spotify.com/artist/3mWHQa3vlJRkvIyw87YFTu) | [Kurtar Beni](https://open.spotify.com/album/2jMbXrCDMP3kirzUVVHOAC) | 2:39 | 2022-05-03 | 2023-01-11 |
 | [Kusursuz Fırtına](https://open.spotify.com/track/46Hf7NLeDwn6ITtt7g1vmv) | [berkcavdar](https://open.spotify.com/artist/1M5YnAuFsXEu654X69d9YK) | [Kusursuz Fırtına](https://open.spotify.com/album/27AwTEtFC6b0q85Kmzj1CX) | 4:00 | 2022-08-16 | 2022-12-01 |
-| [Kusuruma Bakmayın](https://open.spotify.com/track/4ocZlrzsR6tKwRLDXNhGyH) | [NVZ](https://open.spotify.com/artist/2vCYRlkvCav0wybYUBTpsW) | [Kusuruma Bakmayın](https://open.spotify.com/album/6ZzguIyGLsPOSSw4OtqA8f) | 2:14 | 2023-01-10 |  |
+| [Kusuruma Bakmayın](https://open.spotify.com/track/4ocZlrzsR6tKwRLDXNhGyH) | [NVZ](https://open.spotify.com/artist/2vCYRlkvCav0wybYUBTpsW) | [Kusuruma Bakmayın](https://open.spotify.com/album/6ZzguIyGLsPOSSw4OtqA8f) | 2:14 | 2023-01-10 | 2023-01-25 |
 | [Kuşat İçimi](https://open.spotify.com/track/3A5Rfhp00HX4r4RiMgkhCp) | [Gökhan Bayındır](https://open.spotify.com/artist/0JKjrjf9BmI7a5hI1ckUg0) | [Kuşat İçimi](https://open.spotify.com/album/6rVsYZmaZ6yOarutpHaTTw) | 4:18 | 2023-01-10 |  |
 | [Kör Bi' Aşık](https://open.spotify.com/track/0UGfjw2WXymuvJJrzWv9Od) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Kör Bi' Aşık](https://open.spotify.com/album/7jZbH6fZdCTLZWnwn4u8zy) | 2:39 | 2023-01-10 |  |
 | [Kör Vakitler](https://open.spotify.com/track/2COPrl0Ya3YUu5qKC8S6aY) | [Nicelatte](https://open.spotify.com/artist/5QFWw9YCsZzcVF4FXRPpHu) | [Kör Vakitler](https://open.spotify.com/album/6arh8EeBo8qUi9S8i6oJlP) | 4:50 | 2021-12-03 | 2022-02-05 |

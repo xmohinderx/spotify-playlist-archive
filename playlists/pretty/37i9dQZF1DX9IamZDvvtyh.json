@@ -1,12 +1,12 @@
 {
   "description": "80s workout jams. ",
-  "num_followers": 339,
+  "num_followers": 442,
   "original_name": "Training Montage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIzMDA2MywwMDAwMDAwMDQ1OGJjOWI4NDEzY2ViNGEyZTA2Y2MxZTJiNWY0NzMz",
+  "snapshot_id": "MTY3NDU2ODQxMSwwMDAwMDAwMDZiYjdkODNhMDIzMzlkMTA2ODRiMzE4MDVjMjE5NWJl",
   "tracks": [
     {
       "added_at": "2023-01-20 15:54:23",
@@ -48,13 +48,13 @@
       },
       "artists": [
         {
-          "name": "Robert Tepper",
-          "url": "https://open.spotify.com/artist/5T1bhiyED6hokaKTechcKI"
+          "name": "John Cafferty",
+          "url": "https://open.spotify.com/artist/0fPK3TAseRcy6sAS8U8pEw"
         }
       ],
-      "duration_ms": 262026,
-      "name": "No Easy Way Out - From \"Rocky IV\" Soundtrack",
-      "url": "https://open.spotify.com/track/5bnMKUXkMfYVXW8FjvFTuV"
+      "duration_ms": 252920,
+      "name": "Hearts On Fire - From \"Rocky IV\" Soundtrack",
+      "url": "https://open.spotify.com/track/5vI0C3TDTxySR6Oq8NWjE0"
     },
     {
       "added_at": "2023-01-20 15:54:23",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-01-20 15:54:23",
       "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
+    },
+    {
+      "added_at": "2023-01-20 15:54:23",
+      "album": {
         "name": "In Rock We Trust",
         "url": "https://open.spotify.com/album/6hHdV5X9hTkpsny9xaDD1p"
       },
@@ -103,6 +119,38 @@
       "duration_ms": 261773,
       "name": "Don't Stop Runnin'",
       "url": "https://open.spotify.com/track/6ZZ2ddUz2ZuQpkFeJm3FlK"
+    },
+    {
+      "added_at": "2023-01-20 15:54:23",
+      "album": {
+        "name": "Rocky IV",
+        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
+      },
+      "artists": [
+        {
+          "name": "Robert Tepper",
+          "url": "https://open.spotify.com/artist/5T1bhiyED6hokaKTechcKI"
+        }
+      ],
+      "duration_ms": 262026,
+      "name": "No Easy Way Out - From \"Rocky IV\" Soundtrack",
+      "url": "https://open.spotify.com/track/5bnMKUXkMfYVXW8FjvFTuV"
+    },
+    {
+      "added_at": "2023-01-20 15:54:23",
+      "album": {
+        "name": "Scarface (Expanded Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ccQdoDqZsqWlflxEIg0F3"
+      },
+      "artists": [
+        {
+          "name": "Paul Engemann",
+          "url": "https://open.spotify.com/artist/3Rfb8wuY9YHVntDXJqPW6r"
+        }
+      ],
+      "duration_ms": 178480,
+      "name": "Scarface (Push It To The Limit)",
+      "url": "https://open.spotify.com/track/0H6rpW1xnJ8qRQwSrIADPE"
     },
     {
       "added_at": "2023-01-20 15:54:23",
@@ -155,6 +203,22 @@
     {
       "added_at": "2023-01-20 15:54:23",
       "album": {
+        "name": "Head Games",
+        "url": "https://open.spotify.com/album/05Z3MG7G3Vl5ThsFQkWjiJ"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 217706,
+      "name": "Head Games",
+      "url": "https://open.spotify.com/track/5nk6wxUSFUBxUKxjz0fKD6"
+    },
+    {
+      "added_at": "2023-01-20 15:54:23",
+      "album": {
         "name": "Winger",
         "url": "https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo"
       },
@@ -183,22 +247,6 @@
       "duration_ms": 241240,
       "name": "Dare",
       "url": "https://open.spotify.com/track/7DZcrMqgQiO4kotOGucIM7"
-    },
-    {
-      "added_at": "2023-01-20 15:54:23",
-      "album": {
-        "name": "Scarface (Expanded Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6ccQdoDqZsqWlflxEIg0F3"
-      },
-      "artists": [
-        {
-          "name": "Paul Engemann",
-          "url": "https://open.spotify.com/artist/3Rfb8wuY9YHVntDXJqPW6r"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "Scarface (Push It To The Limit)",
-      "url": "https://open.spotify.com/track/0H6rpW1xnJ8qRQwSrIADPE"
     },
     {
       "added_at": "2023-01-20 15:54:23",
@@ -299,22 +347,6 @@
     {
       "added_at": "2023-01-20 15:54:23",
       "album": {
-        "name": "Head Games",
-        "url": "https://open.spotify.com/album/05Z3MG7G3Vl5ThsFQkWjiJ"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 217706,
-      "name": "Head Games",
-      "url": "https://open.spotify.com/track/5nk6wxUSFUBxUKxjz0fKD6"
-    },
-    {
-      "added_at": "2023-01-20 15:54:23",
-      "album": {
         "name": "Van Halen (Remastered)",
         "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
@@ -359,22 +391,6 @@
       "duration_ms": 266749,
       "name": "Lightning Strikes",
       "url": "https://open.spotify.com/track/2ervbJ7zh4Ry2hggiNeT3q"
-    },
-    {
-      "added_at": "2023-01-20 15:54:23",
-      "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2023-01-20 15:54:23",
@@ -583,22 +599,6 @@
       "duration_ms": 369933,
       "name": "Slow an' Easy",
       "url": "https://open.spotify.com/track/1NH0Zs7WkQg8h8mm3jS5yn"
-    },
-    {
-      "added_at": "2023-01-20 15:54:23",
-      "album": {
-        "name": "Rocky IV",
-        "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
-      },
-      "artists": [
-        {
-          "name": "John Cafferty",
-          "url": "https://open.spotify.com/artist/0fPK3TAseRcy6sAS8U8pEw"
-        }
-      ],
-      "duration_ms": 252920,
-      "name": "Hearts On Fire - From \"Rocky IV\" Soundtrack",
-      "url": "https://open.spotify.com/track/5vI0C3TDTxySR6Oq8NWjE0"
     },
     {
       "added_at": "2023-01-20 15:54:23",

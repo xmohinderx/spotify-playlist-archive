@@ -938,7 +938,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 172790,
       "name": "good-bye declaration",
       "url": "https://open.spotify.com/track/6SYj9vjjVTwKn08iKZR11m"
@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 196235,
       "name": "\u3057\u3063\u304f\u304a\u3075\u3099\u306f\u3046\u3059! (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/6DLqDDyOYOxSDb93nzhH7R"
@@ -3903,6 +3903,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30af\u30e9\u30c3\u30d7\u30d5\u30a1\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/0bZArgPTashV6pnRll442P"
+      },
+      "artists": [
+        {
+          "name": "\u67ca\u30ad\u30e9\u30a4",
+          "url": "https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149818,
+      "name": "\u30b0\u30ea\u30fc\u30c7\u30a3\u30f3",
+      "url": "https://open.spotify.com/track/6AW3u5Mspcvh2yHl0LSEed"
+    },
+    {
+      "album": {
         "name": "\u30db\u3099\u30fc\u30ca\u30b9\\(^o^)/",
         "url": "https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb"
       },
@@ -5035,6 +5053,24 @@
     },
     {
       "album": {
+        "name": "\u30d0\u30fc\u30d0\u30e4\u30fc\u30ac",
+        "url": "https://open.spotify.com/album/5Nl8lf5gxYn86AOvig2ZBx"
+      },
+      "artists": [
+        {
+          "name": "\u716e\u30eb\u679c\u5b9f",
+          "url": "https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163720,
+      "name": "\u30d0\u30fc\u30d0\u30e4\u30fc\u30ac",
+      "url": "https://open.spotify.com/track/7mhmDtQbUC5eXkWrsDpb6Q"
+    },
+    {
+      "album": {
         "name": "MIKU/TOA",
         "url": "https://open.spotify.com/album/3JmsMqb8TqftbCTAQXAexJ"
       },
@@ -5284,7 +5320,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 247111,
       "name": "\u30d5\u30a3\u30af\u30b5\u30fc",
       "url": "https://open.spotify.com/track/2DYupgAcdomatly7Lhw8zv"
@@ -6894,6 +6930,24 @@
       "duration_ms": 220165,
       "name": "\u5728\u6765\u30d2\u30fc\u30ed\u30fc\u30ba",
       "url": "https://open.spotify.com/track/0h7KEmlFDw4XlcuvLR88s1"
+    },
+    {
+      "album": {
+        "name": "\u5730\u7344\u306b\u751f\u304d\u308b",
+        "url": "https://open.spotify.com/album/7tZV35BzKteBtpmErTww4A"
+      },
+      "artists": [
+        {
+          "name": "\u96e8\u66c7",
+          "url": "https://open.spotify.com/artist/040kifXngKOCmBJC2ZRffX"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "\u5730\u7344\u306b\u751f\u304d\u308b",
+      "url": "https://open.spotify.com/track/2RdHPxmWHxLU6BndkCPu9Y"
     },
     {
       "album": {

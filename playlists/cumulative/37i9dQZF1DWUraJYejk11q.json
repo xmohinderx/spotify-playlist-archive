@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "Arcadian Daze",
+        "url": "https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196222,
+      "name": "Arcadian Daze",
+      "url": "https://open.spotify.com/track/4JGozkruuZZRH9I5RZYFuc"
+    },
+    {
+      "album": {
         "name": "Offworld",
         "url": "https://open.spotify.com/album/63mZzuEVYSZcf3aR0y1x9L"
       },
@@ -2272,7 +2290,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 181366,
       "name": "Oneness",
       "url": "https://open.spotify.com/track/1VSXAJlQt9KZsJcW1hkvNE"

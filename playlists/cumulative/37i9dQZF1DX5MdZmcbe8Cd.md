@@ -2,7 +2,7 @@
 
 ### [Fuego Mixtape \#032](https://open.spotify.com/playlist/37i9dQZF1DX5MdZmcbe8Cd)
 
-> Featuring KAROL G, Feid, Quevedo & more.
+> Featuring KAROL G, Feid, Quevedo & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
 25 songs - 1 hr 25 min
 

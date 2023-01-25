@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joan Manuel Serrat.",
-  "num_followers": 272754,
+  "num_followers": 272888,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDhmNmM0ZTRiN2Q3YmQxYWFjNjIzMWYwODcyMWEzODAx",
+  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDk5MzQ3MWQzODg4YTIxMzIyODE3MTkwZjNiYWY4MGNj",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "26 Grandes Canciones Y Una Nube Blanca",
-        "url": "https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7"
-      },
-      "artists": [
-        {
-          "name": "Ana Bel\u00e9n",
-          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
-        }
-      ],
-      "duration_ms": 317733,
-      "name": "El Hombre del Piano",
-      "url": "https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "\u00bfQui\u00e9n Puso M\u00e1s?",
         "url": "https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 185826,
       "name": "Quiero Abrazarte Tanto",
       "url": "https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "26 Grandes Canciones Y Una Nube Blanca",
+        "url": "https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7"
+      },
+      "artists": [
+        {
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+        }
+      ],
+      "duration_ms": 317733,
+      "name": "El Hombre del Piano",
+      "url": "https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1567,18 +1567,26 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "No se dice suerte",
-        "url": "https://open.spotify.com/album/0mus4ElrKxyWO3b4nZzdtb"
+        "name": "Solo para Ti",
+        "url": "https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq"
       },
       "artists": [
         {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Mar\u00eda Ruiz",
+          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
+        },
+        {
+          "name": "Eva Sierra",
+          "url": "https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V"
         }
       ],
-      "duration_ms": 263866,
-      "name": "No se dice suerte",
-      "url": "https://open.spotify.com/track/5mscPr5RK0ivJGDfIjFnvL"
+      "duration_ms": 215343,
+      "name": "Solo para Ti",
+      "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1595,6 +1603,22 @@
       "duration_ms": 365986,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "No se dice suerte",
+        "url": "https://open.spotify.com/album/0mus4ElrKxyWO3b4nZzdtb"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "No se dice suerte",
+      "url": "https://open.spotify.com/track/5mscPr5RK0ivJGDfIjFnvL"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -1671,30 +1695,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Solo para Ti",
-        "url": "https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Mar\u00eda Ruiz",
-          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
-        },
-        {
-          "name": "Eva Sierra",
-          "url": "https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V"
-        }
-      ],
-      "duration_ms": 215343,
-      "name": "Solo para Ti",
-      "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Deseos de cosas imposibles",
         "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
       },
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
-        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Solo Pienso en Ti",
-      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Conviene Saber (feat. Rozal\u00e9n)",
         "url": "https://open.spotify.com/album/3Ip09RVhwrMrf6oIzhZTiU"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 250302,
       "name": "Conviene Saber (feat. Rozal\u00e9n)",
       "url": "https://open.spotify.com/track/0c3pK1QgN3Lv1o1P4GMNPU"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
+        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Solo Pienso en Ti",
+      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
     }
   ],
   "unique_name": "Cantautores",

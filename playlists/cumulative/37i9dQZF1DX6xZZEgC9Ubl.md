@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: Pardyalone
 
-763 songs - 1 day 10 hr 42 min
+764 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Can You Help Me](https://open.spotify.com/track/72D79mMBu1fs0DbnUU7Ecq) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Can You Help Me](https://open.spotify.com/album/0SkVwoOczCEidtYJomzX8m) | 2:53 | 2021-01-15 | 2021-06-19 |
 | [Can't Be Love](https://open.spotify.com/track/5FMnEM2HhI6OqyXeRt1o0U) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Can't Be Love](https://open.spotify.com/album/0j896bKYQQ6tMcNkJvSvk1) | 2:26 | 2021-07-17 | 2022-07-29 |
 | [Can't Compare](https://open.spotify.com/track/50KRLdhLfusFkAP5rxxJpb) | [Ricky James](https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC) | [Can't Compare](https://open.spotify.com/album/4dFCj85FXWzNqOdXEgE2Zf) | 3:16 | 2021-03-26 | 2021-04-24 |
-| [Can't Love Myself](https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Can't Love Myself](https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be) | 2:02 | 2022-07-22 |  |
+| [Can't Love Myself](https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Can't Love Myself](https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be) | 2:02 | 2022-07-22 | 2023-01-25 |
 | [Can't Trust A Soul](https://open.spotify.com/track/3u2GQm2KSZzgpQb6QF1GNK) | [7ru7h](https://open.spotify.com/artist/5WnlPOcTodnSWDtjnrjmzv) | [Can't Trust A Soul](https://open.spotify.com/album/4KwpLoodcKvW87oWyIjhY4) | 2:45 | 2021-04-03 | 2022-07-16 |
 | [candy](https://open.spotify.com/track/5IrC1UAnYw3SyfV9ER03ON) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [candy](https://open.spotify.com/album/1pjwcBuODo2cE3KkHGuRRB) | 2:36 | 2021-01-15 | 2021-02-27 |
 | [Careful What You Wish For](https://open.spotify.com/track/7zdSVlcsOIgfEwJarOJewH) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Careful What You Wish For](https://open.spotify.com/album/05td9OY237SR43R2vkHgzu) | 3:01 | 2021-04-17 | 2021-05-29 |
@@ -469,6 +469,7 @@
 | [Not Around](https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa) | [Nova](https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF) | [Not Around](https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P) | 3:03 | 2021-12-17 | 2022-01-19 |
 | [Not Enough](https://open.spotify.com/track/22INV92iL1i9gg0pJOoMCN) | [bloom](https://open.spotify.com/artist/3cXtMPyjj49G5dfZiO7W7Q) | [Not Enough](https://open.spotify.com/album/0HLNHMVOgOwzuugopyVP7Z) | 3:46 | 2020-12-13\* | 2021-05-08 |
 | [NOT SOBER \(feat\. Polo G & Stunna Gambino\)](https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 3:36 | 2021-07-24 | 2023-01-22 |
+| [NOT SOBER \(feat\. Polo G & Stunna Gambino\)](https://open.spotify.com/track/29t9XYOV65fFXiVzFFJgHH) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 3:36 | 2022-10-07 |  |
 | [Not Worth It](https://open.spotify.com/track/49eyKGPy5hw2kdKzUqQgfb) | [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [Not Worth It](https://open.spotify.com/album/14c0A2m9ROV76Vfowcga43) | 1:46 | 2021-10-09 | 2021-10-16 |
 | [Nothing Lasts](https://open.spotify.com/track/67JJ8d7yauduDhEGJGIRLf) | [Razegod](https://open.spotify.com/artist/0sBbpqhrb9FInmsDSjpCau), [Burgos](https://open.spotify.com/artist/3chqU15yLP7B3XRQpILQY2) | [Nothing Lasts](https://open.spotify.com/album/0PhltjVTfgrHb9FeOXF1pW) | 3:34 | 2022-06-24 | 2022-07-28 |
 | [Nothing to Work Out](https://open.spotify.com/track/7KzIHJu1KFh4D8VhhmvTro) | [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [Nothing to Work Out](https://open.spotify.com/album/6zNmJCDfUj9LZFTrAHc9Vc) | 2:39 | 2020-12-13\* | 2021-02-18 |

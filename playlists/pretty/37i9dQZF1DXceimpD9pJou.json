@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Miel San Marcos con Ingrid Rosario, Marcos Witt, y Daniel Calveti",
-  "num_followers": 116046,
+  "num_followers": 116134,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIwMjI3OSwwMDAwMDAwMDVmYjJhMzAwYWEwYmQ3Mzk2OGI3MjZmMzNlOTFmZTY0",
+  "snapshot_id": "MTY3NDIwMjI3OSwwMDAwMDAwMGRlZThjNDEyYmE4YjU4NDVlNjRkY2UzNWU5YjIwMGEx",
   "tracks": [
     {
       "added_at": "2023-01-20 08:11:19",
@@ -287,26 +287,6 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
-        "name": "Lo Primero",
-        "url": "https://open.spotify.com/album/0YwyzylHIlcBAbyv6k2RJG"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 199700,
-      "name": "Lo Primero",
-      "url": "https://open.spotify.com/track/2E54WDKyVtjTSwDGPMJSo6"
-    },
-    {
-      "added_at": "2023-01-20 08:11:19",
-      "album": {
         "name": "So Good (Cu\u00e1n Bueno) (feat. Lilly Goodman)",
         "url": "https://open.spotify.com/album/1v9gXaZpngKHdplKNOuc9j"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 191620,
       "name": "So Good (Cu\u00e1n Bueno) (feat. Lilly Goodman)",
       "url": "https://open.spotify.com/track/5AsamzwJavvredvmI3dqk1"
+    },
+    {
+      "added_at": "2023-01-20 08:11:19",
+      "album": {
+        "name": "Lo Primero",
+        "url": "https://open.spotify.com/album/0YwyzylHIlcBAbyv6k2RJG"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 199700,
+      "name": "Lo Primero",
+      "url": "https://open.spotify.com/track/2E54WDKyVtjTSwDGPMJSo6"
     },
     {
       "added_at": "2023-01-20 08:11:19",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
-        "name": "Darme",
-        "url": "https://open.spotify.com/album/695um4H2Si43vzZWDwA4Fr"
-      },
-      "artists": [
-        {
-          "name": "Pablo Martinez",
-          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
-        }
-      ],
-      "duration_ms": 222595,
-      "name": "Darme",
-      "url": "https://open.spotify.com/track/2KWikIPxp0z7wD6NIOlNvD"
-    },
-    {
-      "added_at": "2023-01-20 08:11:19",
-      "album": {
         "name": "Te seguir\u00e9",
         "url": "https://open.spotify.com/album/41et6v4ubF04EyYMd1OkkC"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 302149,
       "name": "Te seguir\u00e9",
       "url": "https://open.spotify.com/track/5uT8vJgTmzCwc7X3kGrEfD"
+    },
+    {
+      "added_at": "2023-01-20 08:11:19",
+      "album": {
+        "name": "Darme",
+        "url": "https://open.spotify.com/album/695um4H2Si43vzZWDwA4Fr"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        }
+      ],
+      "duration_ms": 222595,
+      "name": "Darme",
+      "url": "https://open.spotify.com/track/2KWikIPxp0z7wD6NIOlNvD"
     },
     {
       "added_at": "2023-01-20 08:11:19",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
+        "name": "ETERNOS",
+        "url": "https://open.spotify.com/album/5QGzUZWzw2ozqN3G5UQNvw"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 159508,
+      "name": "ETERNOS",
+      "url": "https://open.spotify.com/track/4vV0X2mXpAzJtQYSReDhsO"
+    },
+    {
+      "added_at": "2023-01-20 08:11:19",
+      "album": {
         "name": "No Es Raro (Remix)",
         "url": "https://open.spotify.com/album/7H2Gc0GOv7NOHSTyE5IO8n"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 315276,
       "name": "No Es Raro - Remix",
       "url": "https://open.spotify.com/track/3JUvJbSPgumrRUIduwYuSQ"
-    },
-    {
-      "added_at": "2023-01-20 08:11:19",
-      "album": {
-        "name": "ETERNOS",
-        "url": "https://open.spotify.com/album/5QGzUZWzw2ozqN3G5UQNvw"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 159508,
-      "name": "ETERNOS",
-      "url": "https://open.spotify.com/track/4vV0X2mXpAzJtQYSReDhsO"
     },
     {
       "added_at": "2023-01-20 08:11:19",
@@ -807,6 +807,26 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
+        "name": "Confesi\u00f3n",
+        "url": "https://open.spotify.com/album/2joym5tICWNDru7PqP4Zbs"
+      },
+      "artists": [
+        {
+          "name": "Luz y Vida Music",
+          "url": "https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v"
+        },
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        }
+      ],
+      "duration_ms": 209269,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/4UZ1ZDZQcERimjHSJIuayR"
+    },
+    {
+      "added_at": "2023-01-20 08:11:19",
+      "album": {
         "name": "Presumirte",
         "url": "https://open.spotify.com/album/6iaJpgtQnim19rS0IT8grv"
       },
@@ -887,22 +907,58 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
-        "name": "Confesi\u00f3n",
-        "url": "https://open.spotify.com/album/2joym5tICWNDru7PqP4Zbs"
+        "name": "Una Canci\u00f3n para la Comuni\u00f3n",
+        "url": "https://open.spotify.com/album/3VOrfVCb5qd9ZRMBM3dBSk"
       },
       "artists": [
         {
-          "name": "Luz y Vida Music",
-          "url": "https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v"
+          "name": "KDuran",
+          "url": "https://open.spotify.com/artist/7iXV6sobfDYQC7GDn294Cx"
         },
         {
-          "name": "MR. Yeison",
-          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+          "name": "Jonatan Narv\u00e1ez",
+          "url": "https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY"
         }
       ],
-      "duration_ms": 209269,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/4UZ1ZDZQcERimjHSJIuayR"
+      "duration_ms": 234811,
+      "name": "Una Canci\u00f3n para la Comuni\u00f3n",
+      "url": "https://open.spotify.com/track/4gXNHUdnGkdrm2RakoJvr4"
+    },
+    {
+      "added_at": "2023-01-20 08:11:19",
+      "album": {
+        "name": "Sublime (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/7EkuHD09hqQ1R7NFCaYTwY"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coronel",
+          "url": "https://open.spotify.com/artist/4fojRH9JDZwRN8EzZItv4q"
+        },
+        {
+          "name": "Primera Fe",
+          "url": "https://open.spotify.com/artist/0nKPBGMIpJlCtmIdnh6Wpw"
+        },
+        {
+          "name": "CONPAZ COMPUESTO",
+          "url": "https://open.spotify.com/artist/2Qdgccu3u2ifmfip9rO6xL"
+        },
+        {
+          "name": "D\u00fao Zimrah",
+          "url": "https://open.spotify.com/artist/0FP4H8u7zqFaM6dDcluXgJ"
+        },
+        {
+          "name": "Rodolfo Vasquez",
+          "url": "https://open.spotify.com/artist/6moFaXXkhW8hnktVB0ZpkW"
+        },
+        {
+          "name": "D\u00fao AdorArte",
+          "url": "https://open.spotify.com/artist/2s3pLKo6PzvKWJSGMFzqkV"
+        }
+      ],
+      "duration_ms": 311296,
+      "name": "Sublime (Versi\u00f3n Deluxe)",
+      "url": "https://open.spotify.com/track/1VCnvQdxhf9uYwRraCP8nv"
     },
     {
       "added_at": "2023-01-20 08:11:19",
@@ -943,26 +999,6 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
-        "name": "Una Canci\u00f3n para la Comuni\u00f3n",
-        "url": "https://open.spotify.com/album/3VOrfVCb5qd9ZRMBM3dBSk"
-      },
-      "artists": [
-        {
-          "name": "KDuran",
-          "url": "https://open.spotify.com/artist/7iXV6sobfDYQC7GDn294Cx"
-        },
-        {
-          "name": "Jonatan Narv\u00e1ez",
-          "url": "https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY"
-        }
-      ],
-      "duration_ms": 234811,
-      "name": "Una Canci\u00f3n para la Comuni\u00f3n",
-      "url": "https://open.spotify.com/track/4gXNHUdnGkdrm2RakoJvr4"
-    },
-    {
-      "added_at": "2023-01-20 08:11:19",
-      "album": {
         "name": "Maranatha",
         "url": "https://open.spotify.com/album/2qTdqR3GAZHBIVMhzn6rxj"
       },
@@ -991,42 +1027,6 @@
       "duration_ms": 201734,
       "name": "Disfruta La Vida",
       "url": "https://open.spotify.com/track/4xwvgKoDNkhXhmKpPJWru0"
-    },
-    {
-      "added_at": "2023-01-20 08:11:19",
-      "album": {
-        "name": "Sublime (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/7EkuHD09hqQ1R7NFCaYTwY"
-      },
-      "artists": [
-        {
-          "name": "Mariana Coronel",
-          "url": "https://open.spotify.com/artist/4fojRH9JDZwRN8EzZItv4q"
-        },
-        {
-          "name": "Primera Fe",
-          "url": "https://open.spotify.com/artist/0nKPBGMIpJlCtmIdnh6Wpw"
-        },
-        {
-          "name": "CONPAZ COMPUESTO",
-          "url": "https://open.spotify.com/artist/2Qdgccu3u2ifmfip9rO6xL"
-        },
-        {
-          "name": "D\u00fao Zimrah",
-          "url": "https://open.spotify.com/artist/0FP4H8u7zqFaM6dDcluXgJ"
-        },
-        {
-          "name": "Rodolfo Vasquez",
-          "url": "https://open.spotify.com/artist/6moFaXXkhW8hnktVB0ZpkW"
-        },
-        {
-          "name": "D\u00fao AdorArte",
-          "url": "https://open.spotify.com/artist/2s3pLKo6PzvKWJSGMFzqkV"
-        }
-      ],
-      "duration_ms": 311296,
-      "name": "Sublime (Versi\u00f3n Deluxe)",
-      "url": "https://open.spotify.com/track/1VCnvQdxhf9uYwRraCP8nv"
     },
     {
       "added_at": "2023-01-20 08:11:19",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
+        "name": "M\u00e1s Que Suficiente (En Vivo)",
+        "url": "https://open.spotify.com/album/0qEshKTYaXtAACKK1KRon7"
+      },
+      "artists": [
+        {
+          "name": "Revoluci\u00f3n Total",
+          "url": "https://open.spotify.com/artist/5PVYGpWaupI69Tqby8MQg5"
+        }
+      ],
+      "duration_ms": 338077,
+      "name": "M\u00e1s Que Suficiente (En Vivo)",
+      "url": "https://open.spotify.com/track/3N6MtEFJudnxVCGFoRKicl"
+    },
+    {
+      "added_at": "2023-01-20 08:11:19",
+      "album": {
         "name": "From Chile",
         "url": "https://open.spotify.com/album/22gfyGnwH3b6FThS6EwUf1"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 229241,
       "name": "El Reino",
       "url": "https://open.spotify.com/track/5h453k9HQzYqC3MG4iJWxl"
-    },
-    {
-      "added_at": "2023-01-20 08:11:19",
-      "album": {
-        "name": "M\u00e1s Que Suficiente (En Vivo)",
-        "url": "https://open.spotify.com/album/0qEshKTYaXtAACKK1KRon7"
-      },
-      "artists": [
-        {
-          "name": "Revoluci\u00f3n Total",
-          "url": "https://open.spotify.com/artist/5PVYGpWaupI69Tqby8MQg5"
-        }
-      ],
-      "duration_ms": 338077,
-      "name": "M\u00e1s Que Suficiente (En Vivo)",
-      "url": "https://open.spotify.com/track/3N6MtEFJudnxVCGFoRKicl"
     },
     {
       "added_at": "2023-01-20 08:11:19",

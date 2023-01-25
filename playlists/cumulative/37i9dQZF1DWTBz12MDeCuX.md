@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Miksu / Macloud, t\-low
 
-612 songs - 1 day 5 hr 31 min
+613 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2022-07-07 | 2022-08-05 |
 | [arschloch](https://open.spotify.com/track/0DNAisWcJwei0pu3t8TyMM) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [verlierer](https://open.spotify.com/album/0q8XIgIhKo2O2oukgDsy2s) | 3:07 | 2022-08-25 | 2022-11-04 |
 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2022-08-18 | 2022-09-02 |
-| [Atlantis \- Extra Sped Up Version](https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Atlantis](https://open.spotify.com/album/16Q4jVtBWq9UNO78ZLOvwk) | 3:10 | 2022-09-01 |  |
+| [Atlantis \- Extra Sped Up Version](https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Atlantis](https://open.spotify.com/album/16Q4jVtBWq9UNO78ZLOvwk) | 3:10 | 2022-09-01 |  |
 | [AUS MEIN KOPF \(SLOWED\)](https://open.spotify.com/track/6CLKlJ1sCnH2J7A9XISMAU) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx) | [AUS MEIN KOPF \(SLOWED\)](https://open.spotify.com/album/3pa8NpXZkR9nqPpKakdRjm) | 2:17 | 2022-11-24 | 2022-12-24 |
 | [AUSMACHT](https://open.spotify.com/track/5EqNQy5SQgXIRQ86oYvUlf) | [Emilio](https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF) | [AUSMACHT](https://open.spotify.com/album/1l35wpORDxzKGwnsfWQnWv) | 2:28 | 2022-06-09 | 2022-06-24 |
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2022-11-21 | 2022-11-25 |
@@ -242,6 +242,7 @@
 | [Heartless](https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:31 | 2022-10-27 |  |
 | [HEAVEN](https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm watching you](https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa) | 2:19 | 2022-07-25 | 2023-01-06 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-11-17 | 2023-01-20 |
+| [HERZURÜCK](https://open.spotify.com/track/1oCtKjTLNIyowDiKvkcydO) | [absent](https://open.spotify.com/artist/5jdx9iK9rdclHYrd80tPna) | [PANIC MOTEL](https://open.spotify.com/album/2e8OKkHsD0az8l9toegEG4) | 1:53 | 2023-01-24 |  |
 | [Hex](https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Hex](https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ) | 2:02 | 2023-01-16 |  |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 | 2022-10-21 |
 | [Hide and Seek](https://open.spotify.com/track/121so7t3AeX6nLMvxy9ZP9) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak For Yourself](https://open.spotify.com/album/5bxeKufn9YmJ3WNBQpBXlx) | 4:28 | 2022-07-14 | 2022-07-22 |
@@ -607,7 +608,7 @@
 | [Without You](https://open.spotify.com/track/70iMhwrs7qZg64GiW8sMew) | [Kidd Azzurra](https://open.spotify.com/artist/78l0gyXe9ppP4zLZDsgfcj) | [Without You](https://open.spotify.com/album/6RXrLreUG2FzqOSy1CHzy8) | 1:53 | 2022-06-09 | 2022-07-01 |
 | [World War 3](https://open.spotify.com/track/6UEsGMsL6vD77jqvjsmCOh) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:55 | 2022-08-11 | 2022-12-24 |
 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-12-08 |  |
-| [Yeah Hoe](https://open.spotify.com/track/6AH6xjU0eeQBD6v7ERqY7V) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Yeah Hoe](https://open.spotify.com/album/5KZ9tODFrHk8rKKj5sYpCt) | 2:44 | 2023-01-05 |  |
+| [Yeah Hoe](https://open.spotify.com/track/6AH6xjU0eeQBD6v7ERqY7V) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Yeah Hoe](https://open.spotify.com/album/5KZ9tODFrHk8rKKj5sYpCt) | 2:44 | 2023-01-05 | 2023-01-25 |
 | [You Ruined Nirvana](https://open.spotify.com/track/6HdZ8l3sHVYgrcAAXTugKK) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [You Ruined Nirvana](https://open.spotify.com/album/0AvEawbGpZQ1Nv2BqaNvJT) | 2:53 | 2022-07-14 | 2022-07-26 |
 | [you were there for me](https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [you were there for me](https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV) | 3:15 | 2022-09-01 | 2022-12-09 |
 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 | 2022-07-25 | 2022-08-26 |

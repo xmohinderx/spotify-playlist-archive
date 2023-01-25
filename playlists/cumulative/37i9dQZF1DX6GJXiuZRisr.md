@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-332 songs - 1 day 1 hr 4 min
+333 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-05-07 |  |
 | [Future](https://open.spotify.com/track/4Gvh60vRr6cKdB3RVtBiOg) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Future](https://open.spotify.com/album/1FmCbkv8Sr05gSWeRq0T4G) | 3:24 | 2021-05-07 | 2022-06-18 |
 | [Galahad](https://open.spotify.com/track/65KIaxjBVPTsEsfdIcaJGb) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Only You](https://open.spotify.com/album/7JobxIfMxmbEvbbcuYMniN) | 3:29 | 2021-05-07 | 2022-06-17 |
-| [Gamma](https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Gamma](https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C) | 6:21 | 2022-07-22 |  |
+| [Gamma](https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Gamma](https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C) | 6:21 | 2022-07-22 | 2023-01-25 |
 | [Gazer \(Through the Night\)](https://open.spotify.com/track/1LsSPm7nkGgUbukmxS8DUa) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Dark Woods](https://open.spotify.com/album/064SqNWBOnEHRMyg8wj6HC) | 3:27 | 2022-02-25 | 2022-07-29 |
 | [Gemini Bridges](https://open.spotify.com/track/21DZqG3jg7YQexOzd6vqig) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Gemini Bridges / Room 4242](https://open.spotify.com/album/6kPzVQCpntz3pvsS5pIyHu) | 4:45 | 2021-05-07 | 2022-07-29 |
 | [Give Into You](https://open.spotify.com/track/5GvdWteb7cK1tKP1GsNWZI) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [A New Day EP](https://open.spotify.com/album/6RTewADm1CSSTMzp3MnpfD) | 3:13 | 2021-05-07 | 2022-07-21 |
@@ -165,6 +165,7 @@
 | [Lac de Soi](https://open.spotify.com/track/4CDThn846W8Jp8Xqznv5B8) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Lac de Soi](https://open.spotify.com/album/59FbwgMdBY4gC50lCcKThZ) | 4:59 | 2021-05-07 | 2022-04-19 |
 | [Latenza](https://open.spotify.com/track/1HfOHJB7S9kErWUfzKpOHI) | [ASCO](https://open.spotify.com/artist/0FpEluMjDj6Lvn1yHpMGIe) | [Latenza](https://open.spotify.com/album/3j4A1xUXk2ltz2bp36cWTy) | 4:10 | 2021-05-07 | 2022-04-19 |
 | [Lavirra \- Edit](https://open.spotify.com/track/4P0LVOqZiKdHObiWi2HhND) | [Leossa](https://open.spotify.com/artist/1DxrLM2jS3lshF3s8BPHQs) | [Bound By Time](https://open.spotify.com/album/3sifGWnEOsOcRu5d6NazlE) | 4:41 | 2021-07-02 | 2022-07-28 |
+| [Let You Go](https://open.spotify.com/track/3KD6IJoaBg3i7efqistOnh) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [SØNIN](https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC), [AunA](https://open.spotify.com/artist/3WKwSfbeWEtLBUENdbdJ2A) | [Let You Go](https://open.spotify.com/album/2NjwadjbSBDELXLElNoBaV) | 4:46 | 2023-01-20 |  |
 | [Liberation](https://open.spotify.com/track/41UGzRpR0CRT56XF7GRwbq) | [Kydus](https://open.spotify.com/artist/6YycIIoEl49FGVdmgsABea) | [Liberation](https://open.spotify.com/album/4VbQUD0I1oHtwVbmcIx6rr) | 8:15 | 2021-05-07 | 2022-04-20 |
 | [Light On](https://open.spotify.com/track/3HVSuotnZrZu7dYaUptxwv) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Light On](https://open.spotify.com/album/1xmZAdsCwSmgTPdFdvY71Q) | 4:29 | 2021-05-07 | 2022-04-19 |
 | [Lightning](https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Lightning](https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz) | 3:54 | 2022-06-03 |  |

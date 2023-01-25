@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-287 songs - 19 hr 35 min
+288 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Our Love Will Always Be There](https://open.spotify.com/track/7aX4JxBER6j1OaMMOOfW1m) | [Diane Schuur](https://open.spotify.com/artist/3YowTUlFJJA6E5Yd67GZNv) | [Midnight](https://open.spotify.com/album/1h6FCpMolvagTQpoj9hlO9) | 3:30 | 2022-09-08 |  |
 | [Over the Rainbow](https://open.spotify.com/track/62PwrwqemhBCzMU5lDOnuq) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Isn't it Romantic: The Standards Album](https://open.spotify.com/album/6cq5jK4AJC91XA0UbqU1wt) | 4:52 | 2022-01-20 |  |
 | [Pearls](https://open.spotify.com/track/6ys3DgHClE8mCa4sRx8yDQ) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O), [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG) | [The Women Who Raised Me](https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF) | 4:44 | 2022-01-20 |  |
+| [People Tell Me / Les gens me disent \(feat\. Julian Lage\)](https://open.spotify.com/track/6VpSE1x8TpJ1uVyUbPDoeJ) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Gabi Hartmann](https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv) | 2:36 | 2023-01-20 |  |
 | [Petite fleur](https://open.spotify.com/track/7ApzpAfIlpozCxv8bA1O0U) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Frenchy](https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o) | 4:12 | 2022-01-20 |  |
 | [Pick Yourself Up](https://open.spotify.com/track/4v6UlOv5BNgXeVA44DYAbC) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD) | 3:01 | 2022-06-14 | 2022-10-12 |
 | [Prisoner of Love](https://open.spotify.com/track/1z0mMUQ42n0iqwhkoe1VYi) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Prisoner of Love](https://open.spotify.com/album/7zfYly2CEtkKne6EukRXjw) | 4:16 | 2022-01-20 | 2022-07-29 |
@@ -254,7 +255,7 @@
 | [The Nearness of You](https://open.spotify.com/track/1XF80YjwjuzuIfLzIfbqkt) | [Camille Harris](https://open.spotify.com/artist/245uCozaIRf8nxTWhQ09rL), [David Linard](https://open.spotify.com/artist/3dcJT8sUQjH1UPor3vDh6l) | [The Nearness of You](https://open.spotify.com/album/1m52IEUS08ohNLcVyxdyqu) | 5:03 | 2022-01-20 |  |
 | [The Nearness Of You](https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [The Nearness Of You](https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR) | 2:15 | 2022-02-18 |  |
 | [The Streets of Berlin](https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Stations](https://open.spotify.com/album/1d21jnvVSGyjHtvKBKJZH6) | 4:53 | 2022-01-20 | 2022-10-08 |
-| [The Sweetest Moments](https://open.spotify.com/track/0RiaJTqHbBt9gSuhos3pla) | [Alex Bird](https://open.spotify.com/artist/04XcbzbHKo5WWvGYkbzMAB), [The Jazz Mavericks](https://open.spotify.com/artist/4h5LEfrmdlpbNxjUbvnkBt), [Ewen Farncombe](https://open.spotify.com/artist/5I0lkxLp3AL3ERBA6ftDNH) | [The Sweetest Moments](https://open.spotify.com/album/5noyugUFfGlDodgODRAoIF) | 4:38 | 2022-10-11 |  |
+| [The Sweetest Moments](https://open.spotify.com/track/0RiaJTqHbBt9gSuhos3pla) | [Alex Bird](https://open.spotify.com/artist/04XcbzbHKo5WWvGYkbzMAB), [The Jazz Mavericks](https://open.spotify.com/artist/4h5LEfrmdlpbNxjUbvnkBt), [Ewen Farncombe](https://open.spotify.com/artist/5I0lkxLp3AL3ERBA6ftDNH) | [The Sweetest Moments](https://open.spotify.com/album/5noyugUFfGlDodgODRAoIF) | 4:38 | 2022-10-11 | 2023-01-25 |
 | [The Thrill Is Gone](https://open.spotify.com/track/1W0we35aHpMp7AkOYyh76Q) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Cande y Paulo](https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg) | 4:54 | 2022-01-20 |  |
 | [The Very Thought of You](https://open.spotify.com/track/7kzjAhj3kJadhAhQbApApZ) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:19 | 2022-01-20 | 2022-10-08 |
 | [The Way You Look Tonight](https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [Coming Forth by Day](https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU) | 3:50 | 2022-02-18 |  |

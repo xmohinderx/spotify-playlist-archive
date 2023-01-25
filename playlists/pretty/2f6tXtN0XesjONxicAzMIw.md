@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain](/playlists/plain/2f6tXtN0XesjONxicAzMIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2f6tXtN0XesjONxicAzMIw)
 
-### [2000s Hits Throwbacks \| Love Songs](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
+### [2000s Hits Throwbacks \| Top 100 Songs](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
 
 > The best of the 2000s from Shakira, Usher, The White Stripes, Beyonce, Outkast, Wheatus, The Fray, Avril Lavigne + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 1,614,478 likes - 94 songs - 6 hr 11 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 1,614,412 likes - 94 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/2f6tXtN0XesjONxicAzMIw.md) - [plain]
 | 93 | [It's Gonna Be Me](https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:12 |
 | 94 | [Show Me How to Live](https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:37 |
 
-Snapshot ID: `MTU5OSw2MmI5YTVlNTY3NmM1YTdkNjEwM2Y1ZDE5ZWM2ZDQ1MjAyM2NjYTM4`
+Snapshot ID: `MTYwMSw4ZTYwNzZjMTgzNmEwMTA2ODhlMWUzZDMxOTY3MTJjOWZmZTVlNDQz`

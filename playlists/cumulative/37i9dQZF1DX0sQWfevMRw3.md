@@ -2,9 +2,9 @@
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> Raggare, ja de är alltid bäst!!
+> Trodde aldrig jag skulle gilla EPA RAPAPAPA!
 
-491 songs - 21 hr 45 min
+492 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Fylla på fjället](https://open.spotify.com/track/3jkMUudtktfS8uEXZWpdll) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Fylla på fjället](https://open.spotify.com/album/66OVGhMeiP7JPwkygu3PVg) | 2:00 | 2022-09-29 | 2022-10-07 |
 | [FYLLESVIN](https://open.spotify.com/track/4JAqii8SqeTXZzI5WsxWl4) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [FYLLESVIN](https://open.spotify.com/album/5qiUUXpGj5O5BPmxePMoBn) | 2:03 | 2022-12-01 |  |
 | [För Alla Gånger \- Greta Tuborg Remix](https://open.spotify.com/track/79zn3PsF63Gh48h996i1c9) | [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ) | [För Alla Gånger \(Greta Tuborg Remix\)](https://open.spotify.com/album/42mn2pqWoJ1dGdI1fNOIw5) | 1:49 | 2022-12-22 |  |
+| [Första Gången I En EPA](https://open.spotify.com/track/7I2nD5Z74Ein0fa1P20Zfz) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Första Gången I En EPA](https://open.spotify.com/album/0DjX2jGILQdifC55byMol6) | 2:35 | 2023-01-24 |  |
 | [Gasen i botten](https://open.spotify.com/track/4oDtrm4m6Op3krgnZmgg6c) | [Eddie Meduza](https://open.spotify.com/artist/3cMEiDsx9VpGvF71hUGswS) | [En jävla massa hits](https://open.spotify.com/album/61YtIcx4S60zeiYe45rqgG) | 3:20 | 2022-09-29 | 2022-10-21 |
 | [Gaz](https://open.spotify.com/track/0Lg5AjgoXg3HchcYypa86h) | [Filip Dikmen](https://open.spotify.com/artist/7qSCidF75d5rOsImAFid1z), [Lilla Al\-Fadji](https://open.spotify.com/artist/2R4c3b62zoVN4269pxHJWU) | [Gaz](https://open.spotify.com/album/2BHNIahI6BbaDblKM71cNZ) | 3:06 | 2021-12-16 | 2022-07-12 |
 | [GE MIG BIRA](https://open.spotify.com/track/4Pxdfycx6QyWRX97hKYnJu) | [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow), [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj) | [GE MIG BIRA](https://open.spotify.com/album/1psP0VyLaEig25E8lSTRl8) | 2:20 | 2023-01-12 |  |
@@ -372,7 +373,7 @@
 | [Sideways](https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [Nurko](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4) | [Sideways](https://open.spotify.com/album/06eiw663CL0vHSY7jvtZ3p) | 4:11 | 2022-03-24 | 2022-05-26 |
 | [SIMPER ALLTID FÖR DIG](https://open.spotify.com/track/2FQpk0L3AUMuT53j5x3GDC) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [SIMPER ALLTID FÖR DIG](https://open.spotify.com/album/2JSWHC20tUR5CJSOULphHI) | 1:57 | 2022-11-17 |  |
 | [Sistematic](https://open.spotify.com/track/0DWzI4UbUIOBXuTpKmvkWM) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [JAMASTER A](https://open.spotify.com/artist/2nl2YNznEcnLUdT7MeZxEI), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Sistematic](https://open.spotify.com/album/1jY9iaiVxDFVmm22QVKyHD) | 1:51 | 2022-01-06 | 2022-07-13 |
-| [SKA VI GITT?](https://open.spotify.com/track/63He8JZuiBf7Pu8piBEteR) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [SKA VI GITT?](https://open.spotify.com/album/626WW6nUtRcPAB10YLLGeI) | 2:09 | 2022-11-17 |  |
+| [SKA VI GITT?](https://open.spotify.com/track/63He8JZuiBf7Pu8piBEteR) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [SKA VI GITT?](https://open.spotify.com/album/626WW6nUtRcPAB10YLLGeI) | 2:09 | 2022-11-17 | 2023-01-25 |
 | [Skavlan](https://open.spotify.com/track/0151EmrxYjXr8efKgGCfWU) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Skavlan](https://open.spotify.com/album/4xryg6PtDFQdS1AoNG8G8b) | 1:55 | 2022-11-17 |  |
 | [SKJØNTE DU](https://open.spotify.com/track/3tDU9jyoHosO3qlE5ryc0Y) | [Papa Toni](https://open.spotify.com/artist/3hCKRy1sws1Uqxqz4jnPpd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [SKJØNTE DU](https://open.spotify.com/album/7gczPtj7KrwWk3Bm1PluNX) | 1:44 | 2023-01-12 |  |
 | [SKOGSREJV](https://open.spotify.com/track/3DJKeDQuJirUgKfKPNWZIQ) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [SKOGSREJV](https://open.spotify.com/album/3sOvmL3RfcyZPgqbGg8oIi) | 3:00 | 2022-05-26 | 2022-08-26 |

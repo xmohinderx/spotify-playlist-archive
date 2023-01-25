@@ -4,7 +4,7 @@
 
 > canzoni da gridare ❤️‍🩹 in cover kaneki, e nuovi brani di still charles, sally cruz, still charles
 
-372 songs - 17 hr 8 min
+373 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Diverso](https://open.spotify.com/track/1ii7KHvn46DhqR2ucG0AOt) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [Bart Forever](https://open.spotify.com/album/3ev1xSnhoKNPS45C7LL1pc) | 3:00 | 2022-11-24 | 2022-12-16 |
 | [DIVERSO \(feat\. Steven Moses\)](https://open.spotify.com/track/48lwy3TzwHortdUm4n3WIg) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze), [Steven Moses](https://open.spotify.com/artist/0nYqn5H46JHtn3reTfo67I), [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY) | [STO NELLA SAD DELUXE](https://open.spotify.com/album/2AaGTApQp7KVUYCfzlfl4S) | 2:34 | 2022-12-15 |  |
 | [Dolcenera](https://open.spotify.com/track/4D7axaCfgqurmoT96BiXOs) | [Nanni](https://open.spotify.com/artist/6WeAmtj2IWvUmgV5b9Sqln), [Laso](https://open.spotify.com/artist/3FKugTSCRpQW38ZOQ6g3TF), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Dolcenera](https://open.spotify.com/album/5Bep1pqSUJwQOecYyGoR9N) | 2:55 | 2022-05-06 | 2022-06-03 |
-| [Domani](https://open.spotify.com/track/1Wrj8oZiTW3d0qj4jyVIbY) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [The American Boyfriends](https://open.spotify.com/artist/3jmCi2B1XY7vTC1fRtbEzS) | [Domani](https://open.spotify.com/album/59Sc3hCH9p1PueN4Iawvfl) | 3:08 | 2023-01-19 |  |
+| [Domani](https://open.spotify.com/track/1Wrj8oZiTW3d0qj4jyVIbY) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [The American Boyfriends](https://open.spotify.com/artist/3jmCi2B1XY7vTC1fRtbEzS) | [Domani](https://open.spotify.com/album/59Sc3hCH9p1PueN4Iawvfl) | 3:08 | 2023-01-19 | 2023-01-25 |
+| [Domani \(feat\. VillaBanks\)](https://open.spotify.com/track/0T18BhknzhoFoIrnOdU5FP) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [The American Boyfriends](https://open.spotify.com/artist/3jmCi2B1XY7vTC1fRtbEzS) | [Domani \(feat\. VillaBanks\)](https://open.spotify.com/album/3xl2U7FpFY9jBQ09409s66) | 3:08 | 2023-01-24 |  |
 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-05-26 | 2022-08-05 |
 | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/track/3EzNhsh3hCy559XDI44f4g) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Don't Feel Like Feeling Sad Today](https://open.spotify.com/album/2xI6WQRXM36V5B7PSzghFW) | 1:56 | 2022-06-30 | 2022-10-14 |
 | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/track/6mWCikZXHCCnEwkwyJ2L8G) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Don’t Trip \(with GAYLE\)](https://open.spotify.com/album/3R59vyW9DWkchzNHN4XehZ) | 2:27 | 2022-05-06 | 2022-05-20 |

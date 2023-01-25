@@ -1,12 +1,12 @@
 {
   "description": "Face-melters only. Cover: Jeff Beck",
-  "num_followers": 1302758,
+  "num_followers": 1303223,
   "original_name": "Legendary Guitar Solos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3OTQ2NywwMDAwMDAwMDIyOWQ4N2Q1MjU3ZTM3MTc1ZGI0MDFkNmU3ZTgzYTRm",
+  "snapshot_id": "MTY3MzQ3OTQ2NywwMDAwMDAwMDI1ZmNmYWQ3YzU0ZjRhOWUwNDY2ZTVlOGQwOTU3ODdk",
   "tracks": [
     {
       "added_at": "2021-12-13 15:23:11",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Chicago II",
-        "url": "https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 289800,
-      "name": "25 or 6 to 4 - 2002 Remaster",
-      "url": "https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "The Rolling Stones Singles Collection: The London Years",
         "url": "https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 376800,
       "name": "Sympathy For The Devil",
       "url": "https://open.spotify.com/track/75zMKn5euxQdlkZgu4P42J"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Chicago II",
+        "url": "https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 289800,
+      "name": "25 or 6 to 4 - 2002 Remaster",
+      "url": "https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "Hitch a Ride",
-      "url": "https://open.spotify.com/track/0870QNicMawQH2cnzBVZ3P"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Axis: Bold As Love",
         "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 251013,
       "name": "Bold as Love",
       "url": "https://open.spotify.com/track/0uco0wQkB909zpPlHvu5Cc"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "Hitch a Ride",
+      "url": "https://open.spotify.com/track/0870QNicMawQH2cnzBVZ3P"
     },
     {
       "added_at": "2021-12-13 15:23:11",

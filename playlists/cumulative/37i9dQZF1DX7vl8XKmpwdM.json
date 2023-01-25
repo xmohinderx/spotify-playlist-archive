@@ -973,6 +973,32 @@
     },
     {
       "album": {
+        "name": "Kirutu Kirutu (From \"DADA\")",
+        "url": "https://open.spotify.com/album/4kNJDIMb6URhxl4ZuIDrKM"
+      },
+      "artists": [
+        {
+          "name": "Jen Martin",
+          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209323,
+      "name": "Kirutu Kirutu - From \"DADA\"",
+      "url": "https://open.spotify.com/track/40ZJkA8wezwoU0qiwuiBCU"
+    },
+    {
+      "album": {
         "name": "Kutty Pattas",
         "url": "https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs"
       },

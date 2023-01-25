@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 873855,
+  "num_followers": 873888,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGFlY2QyMzM0YTM1OTQ2NTU3ODk4YjIwMDdhODFiNzUw",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDE1ZjVjODliODIwYmUwNjNmOWY1ZDU2NDQyODY4NmVl",
   "tracks": [
     {
       "added_at": "2022-12-02 15:49:35",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
+        "name": "Fresh Outta Japan",
+        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
+      },
+      "artists": [
+        {
+          "name": "Yasko",
+          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
+        }
+      ],
+      "duration_ms": 116050,
+      "name": "Fresh Outta Japan",
+      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/4CoLHunP23dUcORSP1Nfzb"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 192941,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
-        "name": "Fresh Outta Japan",
-        "url": "https://open.spotify.com/album/5rMlc1LrPHNxXH9VzlMw1i"
-      },
-      "artists": [
-        {
-          "name": "Yasko",
-          "url": "https://open.spotify.com/artist/3rwCnThUOxkAUtru94z9NS"
-        }
-      ],
-      "duration_ms": 116050,
-      "name": "Fresh Outta Japan",
-      "url": "https://open.spotify.com/track/0eGiT6tI2kdeAuYEUpA57a"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -607,26 +607,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Radical Dude!",
-        "url": "https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz"
-      },
-      "artists": [
-        {
-          "name": "Getter",
-          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
-        },
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 212631,
-      "name": "Forget It (feat. Oliver Tree)",
-      "url": "https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 121849,
       "name": "Spirits Pt. 2",
       "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Radical Dude!",
+        "url": "https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz"
+      },
+      "artists": [
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        },
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 212631,
+      "name": "Forget It (feat. Oliver Tree)",
+      "url": "https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -727,26 +727,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
-      },
-      "artists": [
-        {
-          "name": "Champagne Drip",
-          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
-        },
-        {
-          "name": "Luci",
-          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "6 FEET UNDER",
         "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 154616,
       "name": "WARDOGZ",
       "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
+      },
+      "artists": [
+        {
+          "name": "Champagne Drip",
+          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "I Admit It (feat. 24kGoldn)",
-        "url": "https://open.spotify.com/album/2pHkZymG4rqjYfIP5GfeDO"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 173950,
-      "name": "I Admit It (feat. 24kGoldn)",
-      "url": "https://open.spotify.com/track/5QUbOFOkbDlt4ZY7bdL4Am"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Kid Calamity",
         "url": "https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 233600,
       "name": "Go My Way",
       "url": "https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "I Admit It (feat. 24kGoldn)",
+        "url": "https://open.spotify.com/album/2pHkZymG4rqjYfIP5GfeDO"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 173950,
+      "name": "I Admit It (feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/5QUbOFOkbDlt4ZY7bdL4Am"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Blow the Roof",
-        "url": "https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 245090,
-      "name": "Do or Die (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Braincase",
         "url": "https://open.spotify.com/album/2yTltxoHOTg3reSa6Hll3r"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 192000,
       "name": "Braincase",
       "url": "https://open.spotify.com/track/3AawFHorBGEDdM9ngI8ofa"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Blow the Roof",
+        "url": "https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 245090,
+      "name": "Do or Die (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "Wobble",
-        "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Wobble",
-      "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Good Times Ahead",
         "url": "https://open.spotify.com/album/7D7gToSUwjOPdnpNdQHCKd"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 214714,
       "name": "Feel It (feat. Tunji Ige)",
       "url": "https://open.spotify.com/track/3Vad9kkHv0DZZ0ioJdRrYV"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "Wobble",
+        "url": "https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Wobble",
+      "url": "https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "NO TOMORROW",
-        "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
-      },
-      "artists": [
-        {
-          "name": "bear bear & friends",
-          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
-        },
-        {
-          "name": "Gill Chang",
-          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
-        }
-      ],
-      "duration_ms": 174334,
-      "name": "NO TOMORROW",
-      "url": "https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "Matangi",
         "url": "https://open.spotify.com/album/4fX5bMmqyLK0q71CbTKvPz"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 198000,
       "name": "Matangi",
       "url": "https://open.spotify.com/track/6tNgb8wC2bRSUDkb3biccy"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "NO TOMORROW",
+        "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
+      },
+      "artists": [
+        {
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+        },
+        {
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+        }
+      ],
+      "duration_ms": 174334,
+      "name": "NO TOMORROW",
+      "url": "https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob"
     },
     {
       "added_at": "2022-12-02 15:49:35",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2022-12-02 15:49:35",
       "album": {
-        "name": "STAY STRONG",
-        "url": "https://open.spotify.com/album/7vJgxUNPVdsN2dRSkJNhbD"
-      },
-      "artists": [
-        {
-          "name": "bear bear & friends",
-          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
-        },
-        {
-          "name": "Gill Chang",
-          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
-        }
-      ],
-      "duration_ms": 183816,
-      "name": "STAY STRONG",
-      "url": "https://open.spotify.com/track/0zQEGtey6NFC8f8rKUAAf9"
-    },
-    {
-      "added_at": "2022-12-02 15:49:35",
-      "album": {
         "name": "HOMETOWN HEROES",
         "url": "https://open.spotify.com/album/370OsF7iXElQn5eBK7R6B4"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 270422,
       "name": "GOD (MUSIC)",
       "url": "https://open.spotify.com/track/0JwXTGM7R2KGSfck5EZ9xm"
+    },
+    {
+      "added_at": "2022-12-02 15:49:35",
+      "album": {
+        "name": "STAY STRONG",
+        "url": "https://open.spotify.com/album/7vJgxUNPVdsN2dRSkJNhbD"
+      },
+      "artists": [
+        {
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+        },
+        {
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+        }
+      ],
+      "duration_ms": 183816,
+      "name": "STAY STRONG",
+      "url": "https://open.spotify.com/track/0zQEGtey6NFC8f8rKUAAf9"
     },
     {
       "added_at": "2022-12-02 15:49:35",

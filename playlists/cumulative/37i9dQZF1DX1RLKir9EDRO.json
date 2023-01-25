@@ -2755,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "Kas\u0131rgalar",
+        "url": "https://open.spotify.com/album/4DybPip64tieTJCy7iCSuM"
+      },
+      "artists": [
+        {
+          "name": "Furkan Karaca",
+          "url": "https://open.spotify.com/artist/154sxvjuoeibGo8PClKou4"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257716,
+      "name": "Kas\u0131rgalar",
+      "url": "https://open.spotify.com/track/43fBpH05DhiCjE39wRijll"
+    },
+    {
+      "album": {
         "name": "Kayboldum",
         "url": "https://open.spotify.com/album/6LYgKJ74TN9PYG4Cw0u0uE"
       },
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 134399,
       "name": "Kusuruma Bakmay\u0131n",
       "url": "https://open.spotify.com/track/4ocZlrzsR6tKwRLDXNhGyH"

@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 504792,
+  "num_followers": 505197,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDAxNTQ4MSwwMDAwMDAwMGExM2Q0NGE0YTcwMDc5YWNjYzMxMzVkMzkyMDlkOGU2",
+  "snapshot_id": "MTY3NDAxNTQ4MSwwMDAwMDAwMGVmNGFiOGFiZTg5Y2JiY2I1MDg0MzhhYWY5NTNlYWUx",
   "tracks": [
     {
       "added_at": "2023-01-18 04:18:01",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-01-18 04:18:01",
       "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
-    },
-    {
-      "added_at": "2023-01-18 04:18:01",
-      "album": {
         "name": "echo",
         "url": "https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 198750,
       "name": "echo",
       "url": "https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz"
+    },
+    {
+      "added_at": "2023-01-18 04:18:01",
+      "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD"
     },
     {
       "added_at": "2023-01-18 04:18:01",

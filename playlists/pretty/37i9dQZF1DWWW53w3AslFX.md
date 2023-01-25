@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,439 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,442 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 79 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 |
 | 80 | [Julian](https://open.spotify.com/track/14OaHFutbeEsrZHKFU6u5J) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Julian](https://open.spotify.com/album/1nWnYpb5kID77uEc1OViP0) | 3:45 |
 | 81 | [Under Stars](https://open.spotify.com/track/2OBQu3ZS3vRHuXWzC4jZFB) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Under Stars](https://open.spotify.com/album/74T0gk8jtHXIKF2mbe3gXA) | 3:19 |
-| 82 | [Back to Reality](https://open.spotify.com/track/1hOBDeJAnRyR6rfVXgNQtd) | [Hey Elbow](https://open.spotify.com/artist/75P1YhfXqy9x3OUjJZjZIk) | [C0C0C0](https://open.spotify.com/album/5iTRb9dJLLhSeCuEQ7XRfk) | 3:39 |
+| 82 | [Back to Reality](https://open.spotify.com/track/6hT6eYOuH1NFPEKAGgNUJ8) | [Hey Elbow](https://open.spotify.com/artist/75P1YhfXqy9x3OUjJZjZIk) | [C0C0C0](https://open.spotify.com/album/6MRdDW0R4LkjiHINuq9sMA) | 3:39 |
 | 83 | [Döda mig](https://open.spotify.com/track/5SbeOc3hiLtjSdUCCHtAKW) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY), [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Döda mig](https://open.spotify.com/album/7mgF19LOCuYQ5EE8Bti0yv) | 3:33 |
 | 84 | [Girls](https://open.spotify.com/track/0MxBQqV3C815arNjQneuPp) | [Beatrice Eli](https://open.spotify.com/artist/1lzoEy8yiIBiHOuaO4h5Wj) | [Die Another Day](https://open.spotify.com/album/0iRoxFYM88dGcdc1zVWo60) | 3:03 |
 | 85 | [Årstavikens strand](https://open.spotify.com/track/56d4NuZxjcm3gNyByWCImM) | [Iiris Viljanen](https://open.spotify.com/artist/1IYVBUvVz1UbdQboARe43I) | [Mercedes](https://open.spotify.com/album/28HijYE8kCeXeQY7DXwRUS) | 4:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWW53w3AslFX.md) - [plain]
 | 89 | [Old Beauty/Du Kan Nu Dö](https://open.spotify.com/track/4FJJq6FyEkdk6WZqQSKfMF) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Singing from the Grave](https://open.spotify.com/album/7sKxyjSSUkjq95jIR4oSiw) | 6:22 |
 | 90 | [play](https://open.spotify.com/track/3RHN3asE9XLDwRNGbFFqYM) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [kin](https://open.spotify.com/album/2CZP23w1EQKmz69Vte3OrL) | 5:14 |
 
-Snapshot ID: `MTYyMzc0OTM4NCwwMDAwMDAwMGY2YmU2YzY1NGNlNjM2NGI5MTNjZWQxZmNhZmQ2ZGVj`
+Snapshot ID: `MTYyMzc0OTM4NCwwMDAwMDAwMDA2MWJkYjExZWIwMjQ5MGY5OGM5NzY0YTViYjhiMjc4`

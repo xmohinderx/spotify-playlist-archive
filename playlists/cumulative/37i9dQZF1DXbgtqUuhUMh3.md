@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Angham
 
-371 songs - 21 hr 44 min
+372 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Hoba La Ma Khali](https://open.spotify.com/track/6xNB566zvUDyMdSfU3Pw5M) | [Eman Al Amer](https://open.spotify.com/artist/1snAPnlh86ySyIdF73ASLI) | [Hoba La Ma Khali](https://open.spotify.com/album/2mnpMrOUa4Kx1SB7ul6og9) | 2:58 | 2021-12-23 | 2022-03-02 |
 | [Hobbak Me'zi](https://open.spotify.com/track/2YmifrQSCaXqlRoH7MlgQu) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Hobbak Me'zi](https://open.spotify.com/album/4dyjBU7cvyqXNmxaY62U6r) | 4:15 | 2023-01-19 |  |
 | [Home](https://open.spotify.com/track/1PG7PL0NxjALbxYquTBdif) | [Earlybird](https://open.spotify.com/artist/5IQBLu7IU3OB7HXQxpXC7r) | [Soft Colors](https://open.spotify.com/album/53cO9i0zAECACpepwOsz1q) | 3:16 | 2021-12-30 | 2022-02-28 |
-| [Houwa](https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0) | 3:31 | 2022-05-31 |  |
+| [Houwa](https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0) | 3:31 | 2022-05-31 | 2023-01-25 |
 | [How Is This Love ?](https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l) | 3:14 | 2021-12-23 | 2022-03-02 |
 | [Hyati Ana](https://open.spotify.com/track/0UvW5kLHvjzN4YsHGM0oai) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Hyati Ana](https://open.spotify.com/album/3ATnydBE42x10NtDiXe4mt) | 2:51 | 2022-03-01 |  |
 | [Hype](https://open.spotify.com/track/67IceM9kpf1kDFPES728Qw) | [Lilly Crea](https://open.spotify.com/artist/18BzsjxMIuxVw7zC01vn7k) | [Hype](https://open.spotify.com/album/1gmQJEQHPv5A0FHQLVkDW4) | 2:51 | 2021-12-23 | 2022-03-01 |
@@ -347,6 +347,7 @@
 | [طول ما احنا سوا](https://open.spotify.com/track/20zdj7iohWAOpi9dgGSXtO) | [Asala Maleh](https://open.spotify.com/artist/34h9cqQWoQI9E6UesG2dWz) | [طول ما احنا سوا](https://open.spotify.com/album/2sGwKJhW8C18a4I4ZYMZzp) | 3:03 | 2021-12-23 | 2022-03-01 |
 | [عاد بديت](https://open.spotify.com/track/1i7JBHJ9iegLR2Uu4r9gtJ) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [عاد بديت](https://open.spotify.com/album/5XWFdvgaY88TgiHSrQvEAj) | 2:53 | 2021-12-23 | 2022-03-02 |
 | [عارفه قيمتي](https://open.spotify.com/track/0k1pF4SI4m4xYHRw8M022J) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عارفه قيمتي](https://open.spotify.com/album/0csj4uie2SFphm4M2aPrJh) | 3:50 | 2022-11-15 |  |
+| [عشان ارضيك](https://open.spotify.com/track/6XVMwb57cf90rjTPaWqd94) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عشان ارضيك](https://open.spotify.com/album/37OnRbBYRcEvKcJBOeZRpG) | 4:27 | 2023-01-24 |  |
 | [علبة بقلب علبة](https://open.spotify.com/track/1o2AaN71DP2xeqFPRVlwqw) | [Sabine Salamé](https://open.spotify.com/artist/4EZoX50L10Sv6zqfwzGQoQ) | [علبة بقلب علبة](https://open.spotify.com/album/0Wi6dh6Pn20EH5GBgfAeQr) | 3:18 | 2022-01-27 | 2022-03-02 |
 | [غشيت نفسك](https://open.spotify.com/track/6TTxFFhwTGnNBWGsjLSjzg) | [همسة](https://open.spotify.com/artist/5j7tYqNOYplQDIYFm6P4HH) | [غشيت نفسك \- Single](https://open.spotify.com/album/06NDFV71YhMwWtZDcr8cWH) | 3:56 | 2021-12-23 | 2022-03-02 |
 | [قرصة ودن](https://open.spotify.com/track/2jSZqQ4kLYprLVt2e4Ibx9) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [قرصة ودن](https://open.spotify.com/album/4AGl3NBl7wcgJJZAHd9dNr) | 4:08 | 2022-11-10 |  |

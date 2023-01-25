@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Udo Lindenberg, Apache 207
 
-4,951 songs - 10 day 12 hr 15 min
+4,952 songs - 10 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [6 Kugeln](https://open.spotify.com/track/2FrwyEtnp3UrX9iFNlk6Si) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF) | [Brot](https://open.spotify.com/album/2p5AQt3jJeo5gZpqPOf53C) | 3:43 | 2022-10-27 | 2022-11-04 |
 | [6 Minuten](https://open.spotify.com/track/2yCA2pTaO6RaU8r9o8CpnI) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [6 Minuten](https://open.spotify.com/album/28KN9ZvJ3YMKhMKqht0wZ0) | 2:54 | 2022-11-10 | 2022-11-18 |
 | [600km](https://open.spotify.com/track/5uRAgYKq2KE3jIZLa862Mk) | [LARYSSA](https://open.spotify.com/artist/6PDF2Plzpbcd21czXbH6pa) | [600km](https://open.spotify.com/album/0OqEsgbbitnD4hnMDF4tX3) | 2:42 | 2022-03-18 | 2022-03-25 |
-| [6561](https://open.spotify.com/track/1NVl1sqBbWleKcOFnphxxr) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [6561](https://open.spotify.com/album/4SAKE4LkUVFMNuSpnWcqjD) | 2:31 | 2023-01-19 |  |
+| [6561](https://open.spotify.com/track/1NVl1sqBbWleKcOFnphxxr) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [6561](https://open.spotify.com/album/4SAKE4LkUVFMNuSpnWcqjD) | 2:31 | 2023-01-19 | 2023-01-25 |
+| [6561](https://open.spotify.com/track/6e180XtptMddkCejgq7o8K) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [6561](https://open.spotify.com/album/0QPQNmN5izrSFXX3VHpF2Z) | 2:31 | 2023-01-19 |  |
 | [69](https://open.spotify.com/track/5QFGvLQFzsoxXbhvxTvq7H) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h) | [69](https://open.spotify.com/album/5YWGJ6YjwaE00DXQRcaGwc) | 2:41 | 2022-08-18 | 2022-08-26 |
 | [6abotage](https://open.spotify.com/track/3xVmO4pLs5iDdrtXxiWznw) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [6abotage](https://open.spotify.com/album/0mQOcbMxdRmLbonLkJob9O) | 2:49 | 2022-10-13 | 2022-10-21 |
 | [6AM](https://open.spotify.com/track/71ywdfz0txggn6i6hiFST3) | [AJÉ](https://open.spotify.com/artist/6kihpsUFibXNX1Wky3yvtI), [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [O.G.](https://open.spotify.com/artist/5QZJttrSLq4WJL9Vb1MgFq) | [6AM](https://open.spotify.com/album/2CIY8tGea9yMOtfF88DOjY) | 2:24 | 2022-09-29 | 2022-10-07 |
@@ -1272,7 +1273,7 @@
 | [du wirst es nie verstehen.](https://open.spotify.com/track/6R4rMppvG1kkbz3thlXUXC) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [du wirst es nie verstehen.](https://open.spotify.com/album/5Khwjf8lPZmLLDSFLS8X7V) | 2:39 | 2022-02-24 | 2022-03-04 |
 | [Du wolltest mich zerstören, aber...](https://open.spotify.com/track/6eTGMAEJzkFcvkH29E3zRc) | [LuCia](https://open.spotify.com/artist/03qSE1KpQzm4q4MOgRQk37) | [Du wolltest mich zerstören, aber...](https://open.spotify.com/album/2PtBFBrva4pDxS75qYaGke) | 2:27 | 2022-02-11 | 2022-02-18 |
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-05 | 2022-05-13 |
-| [Due facce \(feat\. Tedua\)](https://open.spotify.com/track/7p61OgG8P2p0zdH2lNLUU3) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:34 | 2023-01-19 |  |
+| [Due Facce \(feat\. Tedua\)](https://open.spotify.com/track/7p61OgG8P2p0zdH2lNLUU3) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:34 | 2023-01-19 |  |
 | [DUMMY](https://open.spotify.com/track/0P8d3zrqoHgSjCYEoJKVyV) | [DAWY](https://open.spotify.com/artist/3v8vi3lmV320mhSk5tjTOv), [Yevad Ki$](https://open.spotify.com/artist/5Xw73VnRvvy22Xbi92O8q2) | [DUMMY](https://open.spotify.com/album/4uC6kSmQZfnj8Q9QPS07me) | 3:05 | 2022-12-01 | 2022-12-09 |
 | [Dunkelblau](https://open.spotify.com/track/018xarXmBSWkxODkNHf78I) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Dunkelblau](https://open.spotify.com/album/5icoOM6Pwcny1jn2aoLBXf) | 3:47 | 2022-06-16 | 2022-06-24 |
 | [DUNYA](https://open.spotify.com/track/2D1hGSFBSTcKccY1FI3blA) | [IAM](https://open.spotify.com/artist/3c1lMwxxFOWKz9Dl7HFhtf), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [DUNYA](https://open.spotify.com/album/6fC9qBDhj1WG0HxdftK61X) | 3:20 | 2022-03-31 | 2022-04-08 |

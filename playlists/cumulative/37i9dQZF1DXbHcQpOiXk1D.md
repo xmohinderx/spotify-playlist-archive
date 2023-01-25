@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-364 songs - 1 day 2 hr 40 min
+365 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Lonely](https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3) | [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Lonely](https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3) | 5:02 | 2022-06-23 |  |
 | [Long Term Memory](https://open.spotify.com/track/0wTLhxqwM8hLGDfHJIPFdQ) | [Jamie Leeming](https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD), [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz) | [Long Term Memory](https://open.spotify.com/album/1E6SfG3SRiPxcYsaAFDCNl) | 3:25 | 2022-04-21 | 2022-07-27 |
 | [looking out](https://open.spotify.com/track/2IUTis1rj33tVvTYtsVdEx) | [Peru Eizagirre](https://open.spotify.com/artist/2jPW0sgVtqS4np7tNze6ZG) | [looking out](https://open.spotify.com/album/1uiGqENIfsmcFRFMBlwqe5) | 7:31 | 2022-03-24 | 2022-03-30 |
-| [Lost in Thought](https://open.spotify.com/track/1UVjC46kICqTceu7wCi8zK) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Between Two Waves](https://open.spotify.com/album/3K20Qp773ImY8pBQ1vUt93) | 3:12 | 2022-07-28 |  |
+| [Lost in Thought](https://open.spotify.com/track/1UVjC46kICqTceu7wCi8zK) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Between Two Waves](https://open.spotify.com/album/3K20Qp773ImY8pBQ1vUt93) | 3:12 | 2022-07-28 | 2023-01-25 |
 | [love + war \(ft\. Ophie\)](https://open.spotify.com/track/1w0RoKKuDAVUL8Xq5exKOk) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [love + war](https://open.spotify.com/album/3XWMDQNFu7M1QwSCLIkx7h) | 3:25 | 2022-10-12 | 2022-12-06 |
 | [Love In Outer Space \(feat\. Nao\)](https://open.spotify.com/track/0PiP7roaErZrFZwE91bHlG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 5:41 | 2022-11-04 | 2022-11-12 |
 | [Love In Outer Space \(feat\. Nao\)](https://open.spotify.com/track/5VhmL0AjrVrsOHqz5RqUZD) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Where I'm Meant To Be](https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux) | 5:41 | 2022-11-04 | 2022-11-05 |
@@ -363,6 +363,7 @@
 | [White Rabbit](https://open.spotify.com/track/52y9HSI3f2ajMYMCfGFS27) | [Simon Jefferis](https://open.spotify.com/artist/3pqAGIw1dthOiaFvDERi74), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [White Rabbit](https://open.spotify.com/album/1ZK8Qp67wMuKrZOWMSzM0V) | 4:33 | 2022-03-24 | 2022-04-17 |
 | [Who Am I \(eh\-eh\)](https://open.spotify.com/track/08PElxQZ8xfd8Ex3aH0zsI) | [Isatta Sheriff](https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Eat The Kiwi Skin \(Deluxe\)](https://open.spotify.com/album/4cosFoJnRiCtUDe8I6iojz) | 3:10 | 2022-12-02 |  |
 | [Who Am I \(eh\-eh\)](https://open.spotify.com/track/3DBGRXEiGyQOxdkV6JltUY) | [Isatta Sheriff](https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Who Am I \(eh\-eh\)](https://open.spotify.com/album/0CGNWI2meh3fOhLpagrkDm) | 3:10 | 2022-08-04 | 2022-11-21 |
+| [Winter Sun](https://open.spotify.com/track/74dCXyyOhSZf3dKuNRSv5J) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [Winter Sun](https://open.spotify.com/album/45wJuUPm0dFSoLnSP7ILGv) | 3:59 | 2023-01-20 |  |
 | [Withered](https://open.spotify.com/track/1QDpEhAMGzBtFq5uYyKCk4) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Withered](https://open.spotify.com/album/6qkntCbKpkzXc4JdwZb8J0) | 4:05 | 2021-12-17 | 2022-04-16 |
 | [Words Left Unspoken](https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Horizons](https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe) | 6:40 | 2022-07-14 |  |
 | [Wrong Tree](https://open.spotify.com/track/4UGMSoA1nHKpdpMeWLF20w) | [Ellie Harris](https://open.spotify.com/artist/6BeXJVRF7Qv5KWuzlu77rU), [Sam Ellwood](https://open.spotify.com/artist/4wUAogYCoypUYMcLI4Q7yC) | [Wrong Tree](https://open.spotify.com/album/4gPrpWUTDbIoIqIDmKjOAD) | 2:29 | 2022-03-08 | 2022-04-21 |

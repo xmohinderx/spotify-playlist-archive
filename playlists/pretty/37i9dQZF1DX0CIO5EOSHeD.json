@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 407609,
+  "num_followers": 407733,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDkzNTkwNywwMDAwMDAwMDhiNDVhYmQ5YmU5ZmVhYzBlNDcwZWQ2ZTZlOWQ0ZTU5",
+  "snapshot_id": "MTY3MDkzNTkwNywwMDAwMDAwMDY0ZmM3ODAwMDMwN2FjYzg5Njg2OTI4MGRmY2RkMGI1",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Big Day",
-        "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "High",
-      "url": "https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "It's All In Your Head",
         "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 167126,
       "name": "I Like You",
       "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Big Day",
+        "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/79n6LMR1b5Puu9FxWzxtDA"
     },
     {
-      "added_at": "2022-12-13 12:51:47",
-      "album": {
-        "name": "Let It Pass",
-        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Priest",
-          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
-        }
-      ],
-      "duration_ms": 268909,
-      "name": "Let It Pass",
-      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
-    },
-    {
       "added_at": "2022-09-13 23:04:24",
       "album": {
         "name": "PAINLESS",
@@ -867,6 +851,22 @@
       "duration_ms": 171261,
       "name": "My Heart Goes Bum Bum Bum",
       "url": "https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE"
+    },
+    {
+      "added_at": "2022-12-13 12:51:47",
+      "album": {
+        "name": "Let It Pass",
+        "url": "https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "duration_ms": 268909,
+      "name": "Let It Pass",
+      "url": "https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Body Jumper",
+        "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 118521,
+      "name": "Blue Sheen",
+      "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "FULL TIME LOVER",
         "url": "https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 102500,
       "name": "IN THE DOG HOUSE",
       "url": "https://open.spotify.com/track/0WFalqmpdkBXkD1RLet7hz"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Body Jumper",
-        "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 118521,
-      "name": "Blue Sheen",
-      "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "i wish things were different",
-        "url": "https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB"
-      },
-      "artists": [
-        {
-          "name": "lentra",
-          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
-        }
-      ],
-      "duration_ms": 122925,
-      "name": "upside down",
-      "url": "https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Makeup",
         "url": "https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 208101,
       "name": "Makeup",
       "url": "https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "i wish things were different",
+        "url": "https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB"
+      },
+      "artists": [
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "duration_ms": 122925,
+      "name": "upside down",
+      "url": "https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Anti-glory",
-        "url": "https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk"
-      },
-      "artists": [
-        {
-          "name": "Horsegirl",
-          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Anti-glory",
-      "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "wish i could see you again",
         "url": "https://open.spotify.com/album/6ub14KPnedemkpxkj0KNfB"
       },
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Anti-glory",
+        "url": "https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Anti-glory",
+      "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Dreams of Losing Teeth",
         "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
       },
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Fun Times",
-        "url": "https://open.spotify.com/album/0lD6GKaZayk6uyAQVQbQHi"
+        "name": "blood on the pavement",
+        "url": "https://open.spotify.com/album/6DOi6n9hQ6mSDLd1iJfIVz"
       },
       "artists": [
         {
-          "name": "Josh Fudge",
-          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+          "name": "chemical club",
+          "url": "https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN"
         }
       ],
-      "duration_ms": 194634,
-      "name": "Summer Something",
-      "url": "https://open.spotify.com/track/3NtrvMkHEiGjPk3B18rsop"
+      "duration_ms": 221333,
+      "name": "blood on the pavement",
+      "url": "https://open.spotify.com/track/7wZ3k0Ii8P1j0MOi595RMf"
     }
   ],
   "unique_name": "Lo-fi Indie",

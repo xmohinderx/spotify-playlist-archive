@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-405 songs - 1 day 0 hr 1 min
+406 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [Más O Menos Bien](https://open.spotify.com/track/0W6BJElrcM7ZXXiq8VtvSg) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastia Scorpio](https://open.spotify.com/album/0kKonx1ECQcHDDGoAfYveS) | 4:13 | 2022-07-15 | 2022-08-13 |
 | [Música bailando](https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Música bailando](https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq) | 2:18 | 2022-09-30 |  |
 | [Nadie Quiere Hablar](https://open.spotify.com/track/3GHt0v7k5YhCPRbNOSwPzj) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [Nadie Quiere Hablar](https://open.spotify.com/album/6bSTUMI6pYCAXnw3mXcAiy) | 2:20 | 2022-07-01 | 2022-07-22 |
-| [Navidad](https://open.spotify.com/track/1Qx7QXzj65bVEj441otHze) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Navidad](https://open.spotify.com/album/5oRyoHMAenPjVL2PqtaCJj) | 3:08 | 2022-12-23 |  |
+| [Navidad](https://open.spotify.com/track/1Qx7QXzj65bVEj441otHze) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Navidad](https://open.spotify.com/album/5oRyoHMAenPjVL2PqtaCJj) | 3:08 | 2022-12-23 | 2023-01-25 |
 | [Nevada](https://open.spotify.com/track/28I7nwBGoXFmV5AxaHhBTM) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Nevada](https://open.spotify.com/album/6lxOY4q9aKzlvB9wLbySpA) | 3:24 | 2022-06-03 | 2022-07-27 |
 | [No](https://open.spotify.com/track/14GNkRPgoi6EQlfr3CsuXu) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU), [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Amalgama](https://open.spotify.com/album/3Wm4UI67R1RrWGe8C8OrRr) | 3:24 | 2022-06-03 | 2022-07-25 |
 | [No Es Conveniente](https://open.spotify.com/track/7rZWAnx3FHYlJqicefewhM) | [Sué Mon Mont](https://open.spotify.com/artist/1D0ySGoUXYWdUNDZWs2vKl) | [Contratiempo](https://open.spotify.com/album/6ADCYLJRvLJPc1xxgaDNOv) | 3:17 | 2022-07-01 | 2022-07-28 |
@@ -286,6 +286,7 @@
 | [Otoño](https://open.spotify.com/track/5682y6zWXiNg0TocWPCnRN) | [Unisono](https://open.spotify.com/artist/7eZiPJ8lMhvAlvdqxGY7aS) | [Otoño](https://open.spotify.com/album/6MSOXs9G4BcYGwFnQ0BcfI) | 2:33 | 2022-07-01 | 2022-07-09 |
 | [Otra forma](https://open.spotify.com/track/06W9ONsbAAHO1RTs88kfMs) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get) | [Otra forma](https://open.spotify.com/album/37LU9PVNtRRrKAlN46XqMu) | 3:41 | 2022-06-03 | 2022-07-28 |
 | [Otra Temporada](https://open.spotify.com/track/6QLWfSMC5xy7l3RN02IkdF) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Santiago Palacios](https://open.spotify.com/artist/5qMJSUGULtqZMQ1nTXNB2I) | [Otra Temporada](https://open.spotify.com/album/7rhPutrEYnhtontH4puTpJ) | 4:01 | 2022-07-15 | 2022-09-03 |
+| [Otro Vals](https://open.spotify.com/track/3RhdFQClD67rNdX3MbqpRA) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Otro Vals](https://open.spotify.com/album/4VT3sDnEGPUFkgsy3k5kTm) | 3:42 | 2023-01-20 |  |
 | [Ovbio](https://open.spotify.com/track/7w1oeRk6mx4SnvYH6GpPEK) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU) | [Ovbio](https://open.spotify.com/album/2zSH51juxxucmg3HuoUDyD) | 4:04 | 2022-07-01 | 2022-07-20 |
 | [Pajarito](https://open.spotify.com/track/1ZmIvjlrjPBFJnWd8y0iTo) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [FRANCHI](https://open.spotify.com/artist/77xtGvM91PQToxdNiBFxom) | [Pajarito](https://open.spotify.com/album/1CMxNtkxsF3JS5KmOBVGrU) | 3:42 | 2022-06-03 | 2022-08-03 |
 | [Pana](https://open.spotify.com/track/2DKrHjjGpq9mWY6iYRsbCW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j), [Tom Tom](https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP) | [Remixes II](https://open.spotify.com/album/29UXysLuX1kpykutqConIc) | 3:48 | 2022-06-03 | 2022-07-29 |

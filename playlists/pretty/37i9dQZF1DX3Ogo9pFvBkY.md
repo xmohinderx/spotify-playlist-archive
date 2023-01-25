@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,441 likes - 300 songs - 15 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,509 likes - 300 songs - 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 10 | [Shining Through](https://open.spotify.com/track/0ATtl243oiUgDuc75sKfY9) | [Solis Occasum](https://open.spotify.com/artist/6bKBTQOaODtyaHOJCnXMSd) | [Shining Through](https://open.spotify.com/album/1W9RT2Yf2hJmXy08MQ7BcG) | 2:16 |
 | 11 | [peace to be well 432 Hz](https://open.spotify.com/track/2O9c1JQvmr6iFEfF84MvQj) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:12 |
 | 12 | [renew \- Instrumental](https://open.spotify.com/track/0zj9voOg55wXK4Yyx5Sgnu) | [draw close](https://open.spotify.com/artist/6lQTc8ch7seamP33kWxxqT) | [Ambient Peace](https://open.spotify.com/album/4Ywp2WnMfHMiODsoTUtY9P) | 2:00 |
-| 13 | [At Dawn](https://open.spotify.com/track/3sXpdvzLk3dsop4otSaeJV) | [Emelie Kindh](https://open.spotify.com/artist/0ETSxbDRiOKTTDyzlFMzmp) | [At Dawn](https://open.spotify.com/album/2cFSXGvptNABPXffNEm7yY) | 1:54 |
-| 14 | [Avori](https://open.spotify.com/track/2Fq3ZwxleE9ahYEAvcZSji) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Avori](https://open.spotify.com/album/4pWrxItDLygNwhM6pHIgeO) | 2:51 |
-| 15 | [Into The Infinite](https://open.spotify.com/track/5eiWXtGTtACH4JGkGB8gFb) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [Stratosphere](https://open.spotify.com/album/2xshTZEMF4Wi3DQ7wmMDTE) | 2:48 |
-| 16 | [Northern Skies](https://open.spotify.com/track/4Fvo7mI8FM8valAzylNV9t) | [Miraes Seyara](https://open.spotify.com/artist/0juHoHX14lVxCoaDjjUf7h) | [Northern Skies](https://open.spotify.com/album/6nWOtt0ioFrr1F6SHJ1HhJ) | 3:26 |
-| 17 | [Rebalancing in 528 Hz](https://open.spotify.com/track/0NPCFnX2TkQSYrOi5v9xhQ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Rebalancing in 528 Hz](https://open.spotify.com/album/2yinRx0UEk2X5OgCOBSXhI) | 3:11 |
-| 18 | [Fjord](https://open.spotify.com/track/5ALoEjfgwvqgJfyK1mP3xR) | [unwaxed lemons](https://open.spotify.com/artist/7qlTuB8r2bqN5mjBUeDSCG) | [Fjord](https://open.spotify.com/album/7tl5IYMXNFAxoNuyFgBMsm) | 2:40 |
-| 19 | [Fleeting](https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Illusive](https://open.spotify.com/album/13oIzXa4Zd1CI8YqEKgR71) | 3:01 |
-| 20 | [In The Distance](https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [In The Distance](https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk) | 2:31 |
-| 21 | [Last Light](https://open.spotify.com/track/5Z6Xn3H7uoleoSAQZcWCGb) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Last Light](https://open.spotify.com/album/40UnoqubetMWqJwC0OQ0Fu) | 2:50 |
-| 22 | [Ethereal](https://open.spotify.com/track/1E8X81mDNXxPlzIWGdwFmg) | [Joanna Neriah](https://open.spotify.com/artist/2GKwdKtX1WZUQxSnYa41wm) | [Ethereal](https://open.spotify.com/album/523R7wBcTOKZrtqyLrAxm0) | 3:46 |
+| 13 | [Coincide](https://open.spotify.com/track/1ASkdoA6zf0tqfKfnXoZWO) | [Edwin Maled](https://open.spotify.com/artist/3TVebThECevy6ru8naj4h6) | [Coincide](https://open.spotify.com/album/1BkkNmbNMhHUoZBwugCKMp) | 2:14 |
+| 14 | [At Dawn](https://open.spotify.com/track/3sXpdvzLk3dsop4otSaeJV) | [Emelie Kindh](https://open.spotify.com/artist/0ETSxbDRiOKTTDyzlFMzmp) | [At Dawn](https://open.spotify.com/album/2cFSXGvptNABPXffNEm7yY) | 1:54 |
+| 15 | [Avori](https://open.spotify.com/track/2Fq3ZwxleE9ahYEAvcZSji) | [Mirova](https://open.spotify.com/artist/3sD5yaSCD2OZCQGFvIGPDL) | [Avori](https://open.spotify.com/album/4pWrxItDLygNwhM6pHIgeO) | 2:51 |
+| 16 | [Into The Infinite](https://open.spotify.com/track/5eiWXtGTtACH4JGkGB8gFb) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [Stratosphere](https://open.spotify.com/album/2xshTZEMF4Wi3DQ7wmMDTE) | 2:48 |
+| 17 | [Northern Skies](https://open.spotify.com/track/4Fvo7mI8FM8valAzylNV9t) | [Miraes Seyara](https://open.spotify.com/artist/0juHoHX14lVxCoaDjjUf7h) | [Northern Skies](https://open.spotify.com/album/6nWOtt0ioFrr1F6SHJ1HhJ) | 3:26 |
+| 18 | [Rebalancing in 528 Hz](https://open.spotify.com/track/0NPCFnX2TkQSYrOi5v9xhQ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Rebalancing in 528 Hz](https://open.spotify.com/album/2yinRx0UEk2X5OgCOBSXhI) | 3:11 |
+| 19 | [Fjord](https://open.spotify.com/track/5ALoEjfgwvqgJfyK1mP3xR) | [unwaxed lemons](https://open.spotify.com/artist/7qlTuB8r2bqN5mjBUeDSCG) | [Fjord](https://open.spotify.com/album/7tl5IYMXNFAxoNuyFgBMsm) | 2:40 |
+| 20 | [Fleeting](https://open.spotify.com/track/0AyqTD2FRAUQxTCLP0X886) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Illusive](https://open.spotify.com/album/13oIzXa4Zd1CI8YqEKgR71) | 3:01 |
+| 21 | [In The Distance](https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [In The Distance](https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk) | 2:31 |
+| 22 | [Last Light](https://open.spotify.com/track/5Z6Xn3H7uoleoSAQZcWCGb) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Last Light](https://open.spotify.com/album/40UnoqubetMWqJwC0OQ0Fu) | 2:50 |
 | 23 | [Neblinoso](https://open.spotify.com/track/6uZF7xC32ewhpsm36IaM5T) | [Cameron Sinosa](https://open.spotify.com/artist/68NVLorVbyDWrMwmGpwyGP) | [Neblinoso](https://open.spotify.com/album/0G3hLYFllRHfZHgFUj2MFS) | 3:54 |
 | 24 | [Dreaminess](https://open.spotify.com/track/6FTI1GirXye67U41XkzR2h) | [Miesha Berens](https://open.spotify.com/artist/59UumpxzWdl3DRy6muL6Ln) | [Dreaminess](https://open.spotify.com/album/3KglVMFuTixkC48muX1fox) | 3:17 |
 | 25 | [Center Of Attention](https://open.spotify.com/track/1ngTQ4T37HeS0NplRUTX24) | [John Sentinela](https://open.spotify.com/artist/2581KWVAoJJZ1KGKU3sqhm) | [Center Of Attention](https://open.spotify.com/album/6LEvCwkPUC19BEbS0ZvBCf) | 2:44 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 299 | [Reaching](https://open.spotify.com/track/0KvgYjNjdjpgjanBhUnSfO) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Reaching](https://open.spotify.com/album/1coFYbyXU2dxO3lrUsbdIy) | 2:56 |
 | 300 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
 
-Snapshot ID: `MTY3MzYyODE4NCwwMDAwMDAwMDRmYTc1OTE0ZjY3NDJhODVmMTM1MWIxMWI5YTZlYTAx`
+Snapshot ID: `MTY3NDU2MTgwMCwwMDAwMDAwMGZkMGI5NTI3ZDQwMTQ4ZjcwN2IxNDJkYmMxZDc4ZTcw`

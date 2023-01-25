@@ -2,7 +2,7 @@
 
 ### [Queer As Folk](https://open.spotify.com/playlist/37i9dQZF1DX5TMFhaZc9ov)
 
-> Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Adeem the Artist
+> Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Adeem the Artist
 
 147 songs - 9 hr 15 min
 

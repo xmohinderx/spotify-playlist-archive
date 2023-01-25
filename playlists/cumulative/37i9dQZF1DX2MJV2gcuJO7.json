@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "\u307e\u305f\u306d",
+        "url": "https://open.spotify.com/album/6cWyNSjyVH0Miq8FZ9ltEJ"
+      },
+      "artists": [
+        {
+          "name": "Humbreaders",
+          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239533,
+      "name": "\u307e\u305f\u306d",
+      "url": "https://open.spotify.com/track/4f8MEWsOIymj4AIZs9VasU"
+    },
+    {
+      "album": {
         "name": "\u30ad\u30df\u304c\u3044\u305f\u3057\u308b\u3057",
         "url": "https://open.spotify.com/album/7yJeoO13KSi7srzbdXWlnb"
       },

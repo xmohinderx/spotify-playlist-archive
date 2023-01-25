@@ -1048,7 +1048,7 @@
           "url": "https://open.spotify.com/artist/490O7wKhdxCPXCpZyklL9R"
         }
       ],
-      "date_added": "2023-01-21",
+      "date_added": "2023-01-20",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 136071,
@@ -3874,7 +3874,7 @@
           "url": "https://open.spotify.com/artist/6QUKLJTU9DWDhcIifnrJjN"
         }
       ],
-      "date_added": "2023-01-23",
+      "date_added": "2023-01-20",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 129000,
@@ -4186,6 +4186,24 @@
       "duration_ms": 154500,
       "name": "La maison de l'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/0yQC370X6nqaUvfZEuAF5D"
+    },
+    {
+      "album": {
+        "name": "La rue de montmartre",
+        "url": "https://open.spotify.com/album/3z86dneZ2m3ZtoUNQBOtCB"
+      },
+      "artists": [
+        {
+          "name": "Aleron Lapointe",
+          "url": "https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123441,
+      "name": "La rue de montmartre",
+      "url": "https://open.spotify.com/track/4m6OniLUajvVowVSOtyi5J"
     },
     {
       "album": {
@@ -6360,7 +6378,7 @@
           "url": "https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN"
         }
       ],
-      "date_added": "2023-01-21",
+      "date_added": "2023-01-20",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203978,
@@ -7838,7 +7856,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 131750,
       "name": "Tanken f\u00f6r oss vidare",
       "url": "https://open.spotify.com/track/3C4ZKKPtMbexPnb09lPB6n"

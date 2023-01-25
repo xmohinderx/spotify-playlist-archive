@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Udo Lindenberg, Apache 207
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,539 likes - 103 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,551 likes - 103 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 23 | [LEISER KRIEG](https://open.spotify.com/track/1wRgQcfS0CSXSGPm8jwZ2v) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [LEISER KRIEG](https://open.spotify.com/album/0IDQ4tZGsB85QWsxf7THBw) | 2:41 |
 | 24 | [On s'fait du mal \(feat\. Dadju\)](https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:02 |
 | 25 | [No Regrets](https://open.spotify.com/track/1WDyLlB5BfbWbTTYRX7baO) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [No Regrets](https://open.spotify.com/album/3bzV6kPiPyqa1y6k3mTDsU) | 2:29 |
-| 26 | [6561](https://open.spotify.com/track/1NVl1sqBbWleKcOFnphxxr) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [6561](https://open.spotify.com/album/4SAKE4LkUVFMNuSpnWcqjD) | 2:31 |
+| 26 | [6561](https://open.spotify.com/track/6e180XtptMddkCejgq7o8K) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [6561](https://open.spotify.com/album/0QPQNmN5izrSFXX3VHpF2Z) | 2:31 |
 | 27 | [Toy a Mil](https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Toy a Mil](https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k) | 2:28 |
 | 28 | [Weekend](https://open.spotify.com/track/2OUDuS00X3uIdcklQB1Ylv) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [All the Colors of the Sky](https://open.spotify.com/album/19P0yRLN8TbnBVk8qUAYgZ) | 3:32 |
 | 29 | [Feuer](https://open.spotify.com/track/2tRuKhq3axshHFV5GnwiAd) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Feuer](https://open.spotify.com/album/5GKOSXH5BBu19sCRMeeRVg) | 2:27 |
 | 30 | [Never Change](https://open.spotify.com/track/4DBYy2nBww42YBH13NRquK) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 3:20 |
-| 31 | [Due facce \(feat\. Tedua\)](https://open.spotify.com/track/7p61OgG8P2p0zdH2lNLUU3) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:34 |
+| 31 | [Due Facce \(feat\. Tedua\)](https://open.spotify.com/track/7p61OgG8P2p0zdH2lNLUU3) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:34 |
 | 32 | [Paradies](https://open.spotify.com/track/12cUrqvuiDOPWiHaEl6Ao0) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Paradies](https://open.spotify.com/album/0TVfcTOcm74TMCRLZEDAqn) | 3:57 |
 | 33 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 |
 | 34 | [Part Of Me](https://open.spotify.com/track/7CGnSYgkoklhrIGneToxha) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [Max Lean](https://open.spotify.com/artist/4sOc3KgWiki8GMnvxYH8sh), [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Part Of Me](https://open.spotify.com/album/59TXhN3WFl8QxgjJhkFSEK) | 2:43 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 102 | [My Radio](https://open.spotify.com/track/4vdFjNRT82GDyclhl2m1kZ) | [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez), [Roger Taylor](https://open.spotify.com/artist/2PZEd7yktruWruOqORRChA), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [My Radio](https://open.spotify.com/album/1y4xzHozevF6gHMZTmRy32) | 3:04 |
 | 103 | [FIDDLE LEAF](https://open.spotify.com/track/6iaeHs0FXbwHIFpOa9QZ03) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 4](https://open.spotify.com/album/0E6Fb92KU7h8jRdHfZxNm3) | 1:47 |
 
-Snapshot ID: `MTY3NDE2OTI2MCwwMDAwMDAwMGZiZWY5MmY0MmQ4MjVkMGY5NGMzNTU2NDk3ZjMxMDA0`
+Snapshot ID: `MTY3NDE2OTI2MCwwMDAwMDAwMDViYjlmYmYxODA5OWY0MzFkYzZkYjM0NTc4Y2MxOTNl`

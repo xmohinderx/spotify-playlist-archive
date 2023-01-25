@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Nio Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,659 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,754 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 20 | [ODISEA](https://open.spotify.com/track/6xf7EMkgOnsdkwtLj524Gr) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [ODISEA](https://open.spotify.com/album/6VrCQZOumRGIfk3EsjyfZN) | 4:02 |
 | 21 | [Como Tú](https://open.spotify.com/track/6yWpPKvt3aJ22i2cpB2QTG) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [Como Tú](https://open.spotify.com/album/1uGYD7JyIY9FwNc0pFCB4b) | 2:59 |
 | 22 | [Otra ronda](https://open.spotify.com/track/0mi76onyTsXVjxFzHoJ2oa) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Marvel Lucha Libre \(Banda Sonora Original\)](https://open.spotify.com/album/6QqUjggID2giQHn4qjYj0v) | 1:31 |
-| 23 | [Cochinae \(Remix\)](https://open.spotify.com/track/2M5E0vbB12alQ32iV8LKJI) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Cochinae \(Remix\)](https://open.spotify.com/album/5122t04hS9yII3cII2nJ1M) | 5:03 |
+| 23 | [Cochinae \(Remix\)](https://open.spotify.com/track/2M5E0vbB12alQ32iV8LKJI) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Cochinae \(Remix\)](https://open.spotify.com/album/5122t04hS9yII3cII2nJ1M) | 5:03 |
 | 24 | [NO LO SÉ](https://open.spotify.com/track/5WlFKlTHjg3x8G8icmQjzP) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [NO LO SÉ](https://open.spotify.com/album/1Br5WXUWmSDjUL6eoMnMXc) | 3:59 |
 | 25 | [¿Qué Le Pasó Al Niño?](https://open.spotify.com/track/37R5l0oHzlaqTqMgNTL5VR) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [¿Qué Le Pasó Al Niño?](https://open.spotify.com/album/5jVd5hzHCWDJOPO3vi2Xch) | 2:50 |
 | 26 | [Un Poquito Más](https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Un Poquito Más](https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL) | 2:59 |

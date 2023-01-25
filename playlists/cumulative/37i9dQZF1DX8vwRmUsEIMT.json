@@ -2653,6 +2653,24 @@
     },
     {
       "album": {
+        "name": "Cold As Ice",
+        "url": "https://open.spotify.com/album/6vS9lBQXdGIDIeQ67ibnzJ"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143975,
+      "name": "Cold As Ice",
+      "url": "https://open.spotify.com/track/6sKJJShsRJpt7e3u4BmrkL"
+    },
+    {
+      "album": {
         "name": "Cold Heart",
         "url": "https://open.spotify.com/album/1dRUZa28DglRjudS4GQ9Zz"
       },
@@ -6687,6 +6705,24 @@
     },
     {
       "album": {
+        "name": "Is U",
+        "url": "https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228514,
+      "name": "Is U",
+      "url": "https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX"
+    },
+    {
+      "album": {
         "name": "It's All Love",
         "url": "https://open.spotify.com/album/5Ice6CemgzmMEz9xPvwDA5"
       },
@@ -7226,7 +7262,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 200588,
       "name": "LA FINE",
       "url": "https://open.spotify.com/track/6DPE8tGV9lzKALNnvuY9dS"
@@ -9784,7 +9820,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 187317,
       "name": "Prague",
       "url": "https://open.spotify.com/track/5wv5S85hL6ZWSglUvBESMJ"

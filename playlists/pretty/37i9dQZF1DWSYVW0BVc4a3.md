@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The home of rave worthy melodic techno and house\. Cover: ATRIP
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,216 likes - 191 songs - 15 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,368 likes - 191 songs - 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

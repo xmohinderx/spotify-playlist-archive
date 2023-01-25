@@ -4,7 +4,7 @@
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-287 songs - 15 hr 4 min
+289 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Lonely](https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 | 2022-05-25 | 2022-08-26 |
 | [Losin Control](https://open.spotify.com/track/4cxMGhkinTocPSVVKWIw0d) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [There's Really A Wolf](https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC) | 3:57 | 2022-05-25 | 2022-07-29 |
 | [Lost in the Fire \(feat\. The Weeknd\)](https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:22 | 2022-05-25 | 2022-09-22 |
+| [Love Gostosinho \- Ao Vivo](https://open.spotify.com/track/2BlFIe0712LBUtTHxbqjme) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 2:43 | 2023-01-24 |  |
 | [Luz do Luar](https://open.spotify.com/track/6eNRGL6Nkdg7RhJtmbcl0j) | [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea) | [Luz do Luar](https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4) | 3:04 | 2022-12-19 |  |
 | [Lá Ele](https://open.spotify.com/track/08XvRS5EH8FfD6urhgaPD2) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Manoel Gomes](https://open.spotify.com/artist/2TjH3yhwPkVDvc6U5GWwQ8) | [Lá Ele](https://open.spotify.com/album/5aQRKwO38FFqtQz4vtcTfJ) | 2:37 | 2023-01-11 |  |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-12-06 | 2023-01-11 |
@@ -208,6 +209,7 @@
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2022-05-25 | 2022-09-22 |
 | [Privê](https://open.spotify.com/track/3KUQN385nghhy1Aey1H58h) | [Junior Villa](https://open.spotify.com/artist/4SEKohpPMBHAPiEaxiJDwP) | [Privê](https://open.spotify.com/album/2tvx8ctdXE03gR4SaysPOH) | 2:25 | 2022-09-26 | 2022-10-12 |
 | [Pro Nosso Bem \- Ao Vivo](https://open.spotify.com/track/73u22uLsakf8W12suab1QO) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Pro Nosso Bem \(Ao Vivo\)](https://open.spotify.com/album/1XFfWQRZRRgvyapnWUHPFg) | 3:14 | 2022-08-29 | 2023-01-10 |
+| [Pura Adrenalina](https://open.spotify.com/track/6KgPTk8J2i1DOTSGvwhLPM) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [dvrkness13](https://open.spotify.com/artist/2Pel0jsoeCdLst2bxzykQJ) | [Pura Adrenalina](https://open.spotify.com/album/4mf1WTCpicIS2WNsd0DHJO) | 2:18 | 2023-01-24 |  |
 | [Put0 & Cheiroso](https://open.spotify.com/track/71bp9kW2tipFFKy4EiQMLR) | [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [Jv045](https://open.spotify.com/artist/7DUxpqSJderzchDZHoqZZS), [Denzelthreal](https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850), [Oficialtalim](https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM), [ProdbySnow](https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe) | [Put0 & Cheiroso](https://open.spotify.com/album/1lpHrSd1HburI64wruD7gp) | 3:23 | 2022-07-22 | 2023-01-10 |
 | [Puta Mexicana](https://open.spotify.com/track/4mD9hjoTckjeL1CrJCx0MT) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Mc Pelé](https://open.spotify.com/artist/5kfgervAs5bJUOC0vbYB12) | [Som das Regiões](https://open.spotify.com/album/6DD55XfooWMQ3T2wT43dKF) | 2:42 | 2023-01-10 |  |
 | [Pé Na Areia](https://open.spotify.com/track/1b0qrz3GCfvlpo05Dso8Re) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Pé Na Areia \(Ao Vivo\)](https://open.spotify.com/album/6j0eevSzWWuNeN9tkY5AZt) | 3:40 | 2023-01-03 |  |

@@ -4,7 +4,7 @@
 
 > Scopri il documentario speciale dedicato a Rhove e la playlist con alcune delle top promesse della musica italiana!
 
-83 songs - 4 hr 6 min
+84 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Mama \(feat\. Davinhor\)](https://open.spotify.com/track/2Q1FMfXs5tOT9Y5JzTwyBW) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [DAVINHOR](https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT) | [Mama \(feat\. Davinhor\)](https://open.spotify.com/album/5DaFcleIdZFZDsvx4C4ftg) | 2:26 | 2022-11-24 |  |
 | [MANI STRETTE](https://open.spotify.com/track/5Qo4lrFwepxf9bofOradCv) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:29 | 2022-08-31 |  |
 | [Mayday](https://open.spotify.com/track/6BfywUJ9tXjFNVvLZU1wNW) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Lester Nowhere](https://open.spotify.com/artist/0wolj0IKnhhYnBFynfNaQn) | [Mayday](https://open.spotify.com/album/5AwOXRsX7ZO4Q9n4g0C9N0) | 2:43 | 2022-08-31 |  |
+| [Merchants](https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Merchants](https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN) | 4:08 | 2023-01-24 |  |
 | [Metaverso](https://open.spotify.com/track/4dCMB4V9Zyncd8oFAzWRSZ) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Post Nostalgia](https://open.spotify.com/album/0ULpaUUm6A6JluH0fnHWiv) | 3:05 | 2022-08-31 |  |
 | [Mezzanotte](https://open.spotify.com/track/652Qiud4KveJC4uUDFDXNw) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Mezzanotte](https://open.spotify.com/album/1pNTOh7L7lDbZGelqCpEKo) | 2:04 | 2022-08-31 |  |
 | [Millemila](https://open.spotify.com/track/21Z6MRumkQbvgyfXPrrMrW) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Millemila](https://open.spotify.com/album/5TdbB1CB4H90cDWSHlBFNC) | 2:48 | 2022-08-31 |  |

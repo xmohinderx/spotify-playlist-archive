@@ -2,7 +2,7 @@
 
 ### [Prom Night](https://open.spotify.com/playlist/37i9dQZF1DXe9YJxYnhkr3)
 
-> The best tracks for Prom night 2022.
+> The best tracks for Prom night 2023.
 
 164 songs - 9 hr 20 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 307,933 likes - 31 songs - 2 hr 1 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 307,916 likes - 31 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 25 | [Fever Dreamer \(feat\. Charlotte Day Wilson & Channel Tres\) \- Edit](https://open.spotify.com/track/1z4DaH1IndcOGdX8pjdMj7) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Fever Dreamer \(feat\. Charlotte Day Wilson & Channel Tres\) \[Edit\]](https://open.spotify.com/album/3TA2RrpZX0SRnss7A62dKn) | 3:24 |
 | 26 | [The Last Goodbye \(feat\. Bettye LaVette\) \- Hayden James Remix](https://open.spotify.com/track/78M9wiuBmRktLeDvgvsk3s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(Hayden James Remix\)](https://open.spotify.com/album/6I8qUd7EE0xPGpY0H4jh5E) | 3:44 |
 | 27 | [Could Heaven Ever Be Like This \- Walker & Royce and Chris Lorenzo Extended Mix](https://open.spotify.com/track/6KNPvi68u8FT44s1hZT02j) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Could Heaven Ever Be Like This \(Walker & Royce and Chris Lorenzo Remix\)](https://open.spotify.com/album/7pPOIeKfV4bsVWO8zDyRfV) | 6:03 |
-| 28 | [Danielle \(smile on my face\)](https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 3:20 |
+| 28 | [Danielle \(smile on my face\)](https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 3:21 |
 | 29 | [Hardest Part](https://open.spotify.com/track/3dblzR3JP6O8iXUr5S2Nj2) | [Badflite](https://open.spotify.com/artist/3AEEmo3VYEBbQBUUEY2fUS) | [Places](https://open.spotify.com/album/1VlD9aSLiWcHHbzshEobBT) | 2:34 |
 | 30 | [Greenarp \- Terracassette Remix](https://open.spotify.com/track/4TCHOa09sT0XFWCmWIlhru) | [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Terracassette](https://open.spotify.com/artist/7BuDnnqu7As4TwoETMn8FZ) | [Forest City Remixes](https://open.spotify.com/album/4PRV0HmhLbkUUkyHH20EDF) | 7:06 |
 | 31 | [Numb](https://open.spotify.com/track/7rF8qrVzCGu9gVHO1Q9RdJ) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Numb](https://open.spotify.com/album/2reFtZBLjA2S5mO0mgFhv8) | 2:59 |

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: Red Velvet, aespa)",
-  "num_followers": 101176,
+  "num_followers": 101087,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM2NDI1MywwMDAwMDAwMDgwY2IwYWIwMjE2OGVjM2U2NzQ0M2Y5ZmM1YzA0MWNi",
+  "snapshot_id": "MTY3MzM2NDI1MywwMDAwMDAwMDcyZDM0YmRiMTQxZTQ3NjI5MmY1OGU4NGUxODU4MDA5",
   "tracks": [
     {
       "added_at": "2023-01-10 15:24:13",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
+        "name": "Amusement Park",
+        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 256693,
+      "name": "Amusement Park",
+      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 234839,
       "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
-        "name": "Amusement Park",
-        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "Amusement Park",
-      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "For Life",
-        "url": "https://open.spotify.com/album/3bMotSQLWVaBRY8VpBI3eM"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "What I Want For Christmas",
-      "url": "https://open.spotify.com/track/6LYw9XyG9AQSQF178FKjIO"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "gr8",
         "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 158468,
       "name": "gr8",
       "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "For Life",
+        "url": "https://open.spotify.com/album/3bMotSQLWVaBRY8VpBI3eM"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "What I Want For Christmas",
+      "url": "https://open.spotify.com/track/6LYw9XyG9AQSQF178FKjIO"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "Santa For You",
-        "url": "https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI"
-      },
-      "artists": [
-        {
-          "name": "TRI.BE",
-          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "Santa For You",
-      "url": "https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "5.1",
         "url": "https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 232893,
       "name": "Winter Breath",
       "url": "https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "Santa For You",
+        "url": "https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI"
+      },
+      "artists": [
+        {
+          "name": "TRI.BE",
+          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "Santa For You",
+      "url": "https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "Mr. Santa",
-        "url": "https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5"
-      },
-      "artists": [
-        {
-          "name": "LUNCH",
-          "url": "https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Mr. Santa",
-      "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "My Favorite Winter",
         "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 229386,
       "name": "My Favorite Winter",
       "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "Mr. Santa",
+        "url": "https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5"
+      },
+      "artists": [
+        {
+          "name": "LUNCH",
+          "url": "https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Mr. Santa",
+      "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "It's Christmas time",
-        "url": "https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p"
-      },
-      "artists": [
-        {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
-        }
-      ],
-      "duration_ms": 230161,
-      "name": "It's Christmas time",
-      "url": "https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "5.1",
         "url": "https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
+        "name": "It's Christmas time",
+        "url": "https://open.spotify.com/album/0QFzaemkqT2OTuveEFyQ2p"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "duration_ms": 230161,
+      "name": "It's Christmas time",
+      "url": "https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 206493,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
-        "name": "Sweater (Orchestral Version)",
-        "url": "https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 237161,
-      "name": "Sweater - Orchestral Version",
-      "url": "https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1311,6 +1295,22 @@
       "duration_ms": 186533,
       "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
       "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "Sweater (Orchestral Version)",
+        "url": "https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 237161,
+      "name": "Sweater - Orchestral Version",
+      "url": "https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "This Christmas - Single",
-        "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
-      },
-      "artists": [
-        {
-          "name": "Jyp Nation",
-          "url": "https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO"
-        }
-      ],
-      "duration_ms": 227825,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "First Snow",
         "url": "https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 187653,
       "name": "First Snow",
       "url": "https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "This Christmas - Single",
+        "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
+      },
+      "artists": [
+        {
+          "name": "Jyp Nation",
+          "url": "https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO"
+        }
+      ],
+      "duration_ms": 227825,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "HITMAN PROJECT #1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER",
-        "url": "https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 289384,
-      "name": "MY GROWN UP CHRISTMAS LIST",
-      "url": "https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 269012,
       "name": "Save Our Christmas",
       "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "HITMAN PROJECT #1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER",
+        "url": "https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 289384,
+      "name": "MY GROWN UP CHRISTMAS LIST",
+      "url": "https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "Silent Night",
-        "url": "https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 205782,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/1yVqUIoimqzLXYALDLYpOt"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "APRIL 3rd Mini Album 'Prelude'",
         "url": "https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 185354,
       "name": "Snowman (Special Ver.)",
       "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 205782,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1yVqUIoimqzLXYALDLYpOt"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/08HS95j5F5FTAVBBFXZ603"
+        "name": "Christmas Again",
+        "url": "https://open.spotify.com/album/5svceOWCU5WtrzUWxS9xHu"
       },
       "artists": [
         {
-          "name": "Kim Areum",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+          "name": "1set",
+          "url": "https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl"
         }
       ],
-      "duration_ms": 237062,
-      "name": "Merry solo Christmas",
-      "url": "https://open.spotify.com/track/0TlhUx5h1eNsBng4dmIl44"
+      "duration_ms": 226493,
+      "name": "Christmas Again",
+      "url": "https://open.spotify.com/track/5ILo7uxYAwyLoWazhHxGnD"
     }
   ],
   "unique_name": "Christmas K-Pop",

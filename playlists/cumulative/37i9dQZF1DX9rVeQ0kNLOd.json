@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "All night",
+        "url": "https://open.spotify.com/album/23omW2nOAt0jOBcHXo9sYb"
+      },
+      "artists": [
+        {
+          "name": "TOGITO",
+          "url": "https://open.spotify.com/artist/102etpERD7ol169sTsFdQK"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177262,
+      "name": "All night",
+      "url": "https://open.spotify.com/track/5JlJuloP4IgM88EZ3IjCxe"
+    },
+    {
+      "album": {
         "name": "Amber (DJ Mitsu the Beats Remix)",
         "url": "https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR"
       },
@@ -753,6 +771,28 @@
     },
     {
       "album": {
+        "name": "Love (feat. Skaai)",
+        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258920,
+      "name": "Love (feat. Skaai)",
+      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+    },
+    {
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/4O4LEkNJwNQhXOojYRNJcM"
       },
@@ -958,7 +998,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 197694,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2APtffxTwkZAde3re7lPwT"
@@ -984,7 +1024,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 278181,
       "name": "my own life",
       "url": "https://open.spotify.com/track/0T5YzUfgtUKXeDHE7dz4LB"
@@ -1068,7 +1108,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 216111,
       "name": "September",
       "url": "https://open.spotify.com/track/7MfwIBaD6I4CsahHSqygDp"
@@ -1108,6 +1148,28 @@
       "duration_ms": 230500,
       "name": "set me free",
       "url": "https://open.spotify.com/track/3CXll77W7YrXHo0jTQfm4t"
+    },
+    {
+      "album": {
+        "name": "Sixteen, Fifteen",
+        "url": "https://open.spotify.com/album/37ETovdRL3wZRNAxcEywzS"
+      },
+      "artists": [
+        {
+          "name": "Sincere",
+          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
+        },
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220719,
+      "name": "Sixteen, Fifteen",
+      "url": "https://open.spotify.com/track/6PjUPRfDLbzXqjU5CdiMtV"
     },
     {
       "album": {

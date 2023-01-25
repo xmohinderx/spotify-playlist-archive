@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253453,
+      "name": "Life's a Bitch",
+      "url": "https://open.spotify.com/track/08qd7KzrvVKwEU5mfBnU8j"
+    },
+    {
+      "album": {
         "name": "Overkill (Expanded Bonus Track Edition)",
         "url": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
       },
@@ -964,7 +982,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 229499,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7"

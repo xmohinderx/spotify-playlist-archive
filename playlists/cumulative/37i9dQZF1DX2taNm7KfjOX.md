@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: boygenius
 
-453 songs - 1 day 4 hr 23 min
+454 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-10-22 |  |
 | [Better Now](https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance \(Deluxe Version\)](https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr) | 2:53 | 2021-10-22 | 2022-07-29 |
 | [Better Season](https://open.spotify.com/track/7Fjtuz80dLhrjfYQvzHSNG) | [Robin Bacior](https://open.spotify.com/artist/7tvVGAoU9N2dQ75KOpqZW8) | [Better Season](https://open.spotify.com/album/5ljow99fQV9t4m5TpFnqhT) | 3:15 | 2022-01-14 | 2022-01-17 |
+| [Bird's Eye View](https://open.spotify.com/track/2gJBqHbjSuyjP1LAHU93eU) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Bird's Eye View](https://open.spotify.com/album/6qaYS8r1JJ33nK9rAB59ie) | 3:29 | 2023-01-20 |  |
 | [Birds and Stars](https://open.spotify.com/track/4CLKEJJfs8qwUAC3FF36Oc) | [Elephant Revival](https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs) | [These Changing Skies](https://open.spotify.com/album/4ABBrfxm6w93fE9yqlOgny) | 3:11 | 2022-06-24 |  |
 | [Birds and Stars](https://open.spotify.com/track/50pmnragHfe7a6EuggcKVI) | [Elephant Revival](https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs) | [These Changing Skies](https://open.spotify.com/album/1QkDU6RTGKept4bTNwN6za) | 3:11 | 2022-04-13 | 2022-07-19 |
 | [Black Flowers](https://open.spotify.com/track/4q9itBfSlTvqZLGVIdjKuk) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Singing Saw](https://open.spotify.com/album/1s8RmcZjTuvDt9eQ4MAKLI) | 5:47 | 2022-04-13 | 2022-07-18 |
@@ -116,7 +117,7 @@
 | [Don’t Slow Me Down \(feat\. Bonnie Prince Billy\)](https://open.spotify.com/track/21dLiJG5xpbs4CBkV9RZiI) | [Ashley Shadow](https://open.spotify.com/artist/5RdjQlRaM2PIjLE2tfgHxY), [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Don't Slow Me Down \(feat\. Bonnie Prince Billy\)](https://open.spotify.com/album/7HVul4K3F0FWQbM6VIvRau) | 4:29 | 2021-10-22 | 2022-07-25 |
 | [Down by the Water](https://open.spotify.com/track/4c5npp9gnwBHHyKnaqK2mD) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Getaway](https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV) | 2:55 | 2022-04-13 |  |
 | [Drinking Song](https://open.spotify.com/track/0QrxeCKmq1qHJSqysK5rdD) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Fish Eyes EP](https://open.spotify.com/album/0AJs8uGiBASbgSV5t34yhp) | 3:14 | 2022-02-25 | 2022-04-17 |
-| [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 | 2021-10-22 |  |
+| [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 | 2021-10-22 | 2023-01-25 |
 | [Dyan](https://open.spotify.com/track/0wsvEdXACQfdZDrDr7ZUWR) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/3sZSRQklzPHi3IY6fPi6FK) | 2:38 | 2022-06-24 | 2022-10-15 |
 | [Dyan](https://open.spotify.com/track/1cCHgtg8lfmjL4nQhqlRb1) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Leftovers](https://open.spotify.com/album/2MTKjNpZDTNTjn3FRbuAfx) | 2:38 | 2021-10-22 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/6e4E1UzuXQMVChJ6TgIOv5) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Easy](https://open.spotify.com/album/4zPlrT0LVP56XnNdpNYV7T) | 4:01 | 2022-01-14 | 2022-07-29 |

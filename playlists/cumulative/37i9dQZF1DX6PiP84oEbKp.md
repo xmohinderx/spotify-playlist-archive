@@ -2,7 +2,7 @@
 
 ### [ROY G BIV](https://open.spotify.com/playlist/37i9dQZF1DX6PiP84oEbKp)
 
-> A pride playlist for the whole family.
+> A pride playlist for the whole family\. Cover: JoJo Siwa
 
 46 songs - 2 hr 3 min
 

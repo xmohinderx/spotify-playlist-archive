@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,782 likes - 67 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,837 likes - 67 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 23 | [Hasta Mañana](https://open.spotify.com/track/1mLUyF6HVVFRDUYNHzAfCi) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Hasta Mañana](https://open.spotify.com/album/7ASD8dO9804lAIzIMuKjjn) | 2:24 |
 | 24 | [Rápido](https://open.spotify.com/track/0v8w8V48lEUeNNMpxZvBR9) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Asimétrico](https://open.spotify.com/album/10hlN57i39PIdyhXuhMbjn) | 2:24 |
 | 25 | [Candela](https://open.spotify.com/track/0YomXbPk6o0NTwJgBHcbKQ) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Jc La Nevula](https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Candela](https://open.spotify.com/album/1iCxYrfvqf2ZxaDdFZIAqX) | 3:04 |
-| 26 | [A Beber](https://open.spotify.com/track/1JuVdA20hFGqSs07owrgMb) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7) | [A Beber](https://open.spotify.com/album/1arATNDRDAB3WwJnw4sElw) | 3:54 |
+| 26 | [A Beber \- Remix](https://open.spotify.com/track/1JuVdA20hFGqSs07owrgMb) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7) | [A BEBER \(Remix\)](https://open.spotify.com/album/1arATNDRDAB3WwJnw4sElw) | 3:54 |
 | 27 | [n la disco](https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 |
 | 28 | [Dejanos Pasar](https://open.spotify.com/track/0hDILCoN7SBSMHc5qwZ73E) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Dejanos Pasar](https://open.spotify.com/album/0sROwf7qAxdlMEGGQu85xN) | 2:55 |
 | 29 | [El Pesero](https://open.spotify.com/track/05KHhBPrEYhSVnmrWfFXVk) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [El Pesero](https://open.spotify.com/album/1hA3LlcZ0EvtHfLoruHI2z) | 3:28 |

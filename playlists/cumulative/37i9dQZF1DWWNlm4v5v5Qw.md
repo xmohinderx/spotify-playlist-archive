@@ -2,9 +2,9 @@
 
 ### [Ripple Effect: DMV](https://open.spotify.com/playlist/37i9dQZF1DWWNlm4v5v5Qw)
 
-> DMV music breaking waves\. Cover: Shy Glizzy
+> DMV music breaking waves\. Cover: Joony
 
-326 songs - 15 hr 6 min
+327 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [One Man Woman](https://open.spotify.com/track/5kPvNnodG7lDpM5K0iyI5Y) | [Godiva](https://open.spotify.com/artist/6IGFNGtI94N8h6oHp9Tk3j) | [One Man Woman](https://open.spotify.com/album/7wj0WCgCgJJV9aDhduzIvn) | 2:40 | 2022-04-15 | 2022-05-21 |
 | [One Shot](https://open.spotify.com/track/4QyzA8igZqb7qVz3BxiQXB) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [I'm Dru!](https://open.spotify.com/artist/1jA55fnyE6LzDgY6XG1Akp) | [One Shot](https://open.spotify.com/album/6KSKRekZKhjkgmkq7vlDkm) | 2:38 | 2022-09-23 | 2023-01-14 |
 | [One Shot](https://open.spotify.com/track/4WbeXP51v5f8qvVY0awjkY) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [I'm Dru!](https://open.spotify.com/artist/1jA55fnyE6LzDgY6XG1Akp) | [One Shot](https://open.spotify.com/album/1k6gsqQXyHoFjGQO2l7xuC) | 2:38 | 2022-09-23 | 2022-12-10 |
+| [One Track Minded](https://open.spotify.com/track/7IA8ksXrY276otudaP7knL) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [One Track Minded](https://open.spotify.com/album/0JOrjRfvBbK6ybLhbea7zr) | 2:19 | 2023-01-24 |  |
 | [One Two \(feat\. YungManny\)](https://open.spotify.com/track/0YLKjMNe2YtC5pzCyRoypZ) | [FNF Chop](https://open.spotify.com/artist/2jg1MyFUxojR6GG4wfByU3), [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [One Two \(feat\. YungManny\)](https://open.spotify.com/album/5wRaQ7AhuwZhIwXOm1znT9) | 3:45 | 2022-04-22 | 2022-08-13 |
 | [One Way](https://open.spotify.com/track/52PelT5dGIh78ePzFXrLwG) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [One Way](https://open.spotify.com/album/7ubSbdpfkZOIJ1G7p7uKUO) | 1:59 | 2022-10-07 |  |
 | [Out My Body](https://open.spotify.com/track/3sjX3mGo9JuBqX5I4lLaK6) | [OTR CHAZ](https://open.spotify.com/artist/213MrGzuo2Y7Pt3foSroEx) | [Out My Body](https://open.spotify.com/album/1KhsHDhhRRlXFJUNWTrEpN) | 1:36 | 2022-02-25 | 2022-05-21 |

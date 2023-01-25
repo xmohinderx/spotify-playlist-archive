@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "DMV music breaking waves. Cover: Shy Glizzy",
+  "description": "DMV music breaking waves. Cover: Joony",
   "name": "Ripple Effect: DMV",
   "tracks": [
     {
@@ -4118,6 +4118,28 @@
       "duration_ms": 158087,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/4WbeXP51v5f8qvVY0awjkY"
+    },
+    {
+      "album": {
+        "name": "One Track Minded",
+        "url": "https://open.spotify.com/album/0JOrjRfvBbK6ybLhbea7zr"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        },
+        {
+          "name": "Kelz",
+          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "One Track Minded",
+      "url": "https://open.spotify.com/track/7IA8ksXrY276otudaP7knL"
     },
     {
       "album": {

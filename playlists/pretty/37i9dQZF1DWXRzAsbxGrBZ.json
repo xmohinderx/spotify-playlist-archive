@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 5718,
+  "num_followers": 5764,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDUyMTk4MGM0Y2U0ZTVmYmQ2MjU5Zjg4NmZkMzAzNzAw",
+  "snapshot_id": "MTY2ODcyMjM0MCwwMDAwMDAwMDgyNzRmY2JlMzM2NGRjMzRhMWVjODVlZDQyYTBkMWQ5",
   "tracks": [
     {
       "added_at": "2022-09-14 09:57:38",
@@ -81,6 +81,26 @@
       "url": "https://open.spotify.com/track/1n2LjzjCZPYx78wdxLHvH9"
     },
     {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Back 2 Basics",
+        "url": "https://open.spotify.com/album/54A8PyTjNlFchRt3KBjEa9"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "CocoSA",
+          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
+        }
+      ],
+      "duration_ms": 439646,
+      "name": "Do 4 Love",
+      "url": "https://open.spotify.com/track/59NwccvTdS0bjuQ0akCojn"
+    },
+    {
       "added_at": "2022-11-17 00:58:03",
       "album": {
         "name": "Welcome To The Party",
@@ -103,26 +123,6 @@
       "duration_ms": 382300,
       "name": "Ngaphakathi",
       "url": "https://open.spotify.com/track/6VDV7qSg8oBsdiBkHnYoug"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Back 2 Basics",
-        "url": "https://open.spotify.com/album/54A8PyTjNlFchRt3KBjEa9"
-      },
-      "artists": [
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        },
-        {
-          "name": "CocoSA",
-          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
-        }
-      ],
-      "duration_ms": 439646,
-      "name": "Do 4 Love",
-      "url": "https://open.spotify.com/track/59NwccvTdS0bjuQ0akCojn"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -221,30 +221,6 @@
       "url": "https://open.spotify.com/track/7Dr9J9lZA4NVrfGs36llbG"
     },
     {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Woza Moya",
-        "url": "https://open.spotify.com/album/6Id3huB80C8qnSWSSiCJPU"
-      },
-      "artists": [
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        },
-        {
-          "name": "CocoSA",
-          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
-        },
-        {
-          "name": "Russell Zuma",
-          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
-        }
-      ],
-      "duration_ms": 407142,
-      "name": "Woza Moya",
-      "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
-    },
-    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "This Must Be Deep",
@@ -313,6 +289,30 @@
       "url": "https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8"
     },
     {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Woza Moya",
+        "url": "https://open.spotify.com/album/6Id3huB80C8qnSWSSiCJPU"
+      },
+      "artists": [
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        },
+        {
+          "name": "CocoSA",
+          "url": "https://open.spotify.com/artist/0bLlqsMSB60BBRtsqcap0j"
+        },
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        }
+      ],
+      "duration_ms": 407142,
+      "name": "Woza Moya",
+      "url": "https://open.spotify.com/track/4bh1dLRnsawmxnKxalZuey"
+    },
+    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Day Dream",
@@ -327,6 +327,26 @@
       "duration_ms": 373592,
       "name": "HER",
       "url": "https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "We Beg Your Pardon",
+        "url": "https://open.spotify.com/album/71GAU64nNB4ypY4hoXGTyu"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        },
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "duration_ms": 431984,
+      "name": "We Beg Your Pardon",
+      "url": "https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra"
     },
     {
       "added_at": "2022-09-29 21:59:00",
@@ -357,26 +377,6 @@
       "url": "https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "We Beg Your Pardon",
-        "url": "https://open.spotify.com/album/71GAU64nNB4ypY4hoXGTyu"
-      },
-      "artists": [
-        {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
-        },
-        {
-          "name": "Gil Scott-Heron",
-          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
-        }
-      ],
-      "duration_ms": 431984,
-      "name": "We Beg Your Pardon",
-      "url": "https://open.spotify.com/track/77jJBJRwxE2SwFDrZ5gvra"
-    },
-    {
       "added_at": "2022-11-17 21:59:00",
       "album": {
         "name": "Amplified Zone",
@@ -391,6 +391,22 @@
       "duration_ms": 468979,
       "name": "Amplified Zone",
       "url": "https://open.spotify.com/track/4nfY8k8nVypCCVSVMnui86"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -453,22 +469,6 @@
       "url": "https://open.spotify.com/track/2FzeNOgDgJvmfZS0dREVNA"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
-    },
-    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Ed-Ward, Intr0beatz & Jonny Miller Remixes",
@@ -529,6 +529,42 @@
       "url": "https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg"
     },
     {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "NEO",
+        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
+      },
+      "artists": [
+        {
+          "name": "Jazzuelle",
+          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
+        },
+        {
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
+        }
+      ],
+      "duration_ms": 436551,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "OVGSREPUBLIC",
+        "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
+      },
+      "artists": [
+        {
+          "name": "SGVO",
+          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
+        }
+      ],
+      "duration_ms": 453711,
+      "name": "Octave",
+      "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
+    },
+    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
         "name": "Passage of Time",
@@ -551,22 +587,6 @@
       "duration_ms": 456430,
       "name": "I Don't Wanna Feel This",
       "url": "https://open.spotify.com/track/6BlBVZ4OfkGogpvknlLXNE"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "OVGSREPUBLIC",
-        "url": "https://open.spotify.com/album/68iZB3kblhvJPNwRztRQLE"
-      },
-      "artists": [
-        {
-          "name": "SGVO",
-          "url": "https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s"
-        }
-      ],
-      "duration_ms": 453711,
-      "name": "Octave",
-      "url": "https://open.spotify.com/track/5mtFv7U7lOVrlsdod5mvw5"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -607,26 +627,6 @@
       "duration_ms": 400103,
       "name": "Winter Nights - BlaQ Afro-Kay Remix",
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "NEO",
-        "url": "https://open.spotify.com/album/5rW8PA2FAgoeOHOsO07986"
-      },
-      "artists": [
-        {
-          "name": "Jazzuelle",
-          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
-        },
-        {
-          "name": "Buddynice",
-          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
-        }
-      ],
-      "duration_ms": 436551,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/2ilBcYA2BTCaEz4a26h683"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -689,6 +689,46 @@
       "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
     },
     {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "OOO: AFRO",
+        "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
+      },
+      "artists": [
+        {
+          "name": "OUT OF ORDER",
+          "url": "https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC"
+        },
+        {
+          "name": "C-Blak",
+          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
+        }
+      ],
+      "duration_ms": 466467,
+      "name": "Don't 4get To Call Me",
+      "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Necessary",
+        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
+      },
+      "artists": [
+        {
+          "name": "Dearson",
+          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
+        },
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        }
+      ],
+      "duration_ms": 395709,
+      "name": "Love I Know",
+      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
+    },
+    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
         "name": "To The World",
@@ -723,46 +763,6 @@
       "duration_ms": 402782,
       "name": "Gotsom",
       "url": "https://open.spotify.com/track/0cKE9DCM1q6Z2izaDTDRee"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Necessary",
-        "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
-      },
-      "artists": [
-        {
-          "name": "Dearson",
-          "url": "https://open.spotify.com/artist/1JpxwCQgCrnVtjJfifRnY2"
-        },
-        {
-          "name": "Artwork Sounds",
-          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
-        }
-      ],
-      "duration_ms": 395709,
-      "name": "Love I Know",
-      "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "OOO: AFRO",
-        "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
-      },
-      "artists": [
-        {
-          "name": "OUT OF ORDER",
-          "url": "https://open.spotify.com/artist/0EahDneISdyQpDqNzU9XZC"
-        },
-        {
-          "name": "C-Blak",
-          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
-        }
-      ],
-      "duration_ms": 466467,
-      "name": "Don't 4get To Call Me",
-      "url": "https://open.spotify.com/track/289Qw6pCjcz8FnaPNGLuvP"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -885,42 +885,6 @@
       "url": "https://open.spotify.com/track/7LCVp1LIS1aYHlfvMUdJuD"
     },
     {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Thinking 'bout you",
-        "url": "https://open.spotify.com/album/0YPe7RdoxqfrtfExs73nRk"
-      },
-      "artists": [
-        {
-          "name": "Thabang Phaleng",
-          "url": "https://open.spotify.com/artist/5AO6CbpKmGPMLYn5pS7Lp5"
-        },
-        {
-          "name": "Trust SA",
-          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
-        }
-      ],
-      "duration_ms": 377873,
-      "name": "thinking 'bout you",
-      "url": "https://open.spotify.com/track/3rpMcYjuP9GZ1Ijoau4iUS"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "We Gonna Fight For Music",
-        "url": "https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb"
-      },
-      "artists": [
-        {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
-        }
-      ],
-      "duration_ms": 521744,
-      "name": "We Gonna Fight For Music",
-      "url": "https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp"
-    },
-    {
       "added_at": "2022-09-19 09:57:52",
       "album": {
         "name": "Out Out",
@@ -945,20 +909,40 @@
       "url": "https://open.spotify.com/track/01GL8puSkU5QHyf8pLdiyj"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
+      "added_at": "2022-11-10 21:59:00",
       "album": {
-        "name": "Dafrotone",
-        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
+        "name": "We Gonna Fight For Music",
+        "url": "https://open.spotify.com/album/5iB4ERgOJHSxDyhLUKIKCb"
       },
       "artists": [
         {
-          "name": "Dafro",
-          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
         }
       ],
-      "duration_ms": 453453,
-      "name": "Four Lessons",
-      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+      "duration_ms": 521744,
+      "name": "We Gonna Fight For Music",
+      "url": "https://open.spotify.com/track/0b59ktQ0M328llm4xZlnsp"
+    },
+    {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "Thinking 'bout you",
+        "url": "https://open.spotify.com/album/0YPe7RdoxqfrtfExs73nRk"
+      },
+      "artists": [
+        {
+          "name": "Thabang Phaleng",
+          "url": "https://open.spotify.com/artist/5AO6CbpKmGPMLYn5pS7Lp5"
+        },
+        {
+          "name": "Trust SA",
+          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
+        }
+      ],
+      "duration_ms": 377873,
+      "name": "thinking 'bout you",
+      "url": "https://open.spotify.com/track/3rpMcYjuP9GZ1Ijoau4iUS"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -979,18 +963,38 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Artform",
-        "url": "https://open.spotify.com/album/0rLy843gi8BhO75dqJvIq5"
+        "name": "Dafrotone",
+        "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
       },
       "artists": [
         {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+          "name": "Dafro",
+          "url": "https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL"
         }
       ],
-      "duration_ms": 459731,
-      "name": "Flute Activation - Original Mix",
-      "url": "https://open.spotify.com/track/1NZPhhTvwYalEzospkigPU"
+      "duration_ms": 453453,
+      "name": "Four Lessons",
+      "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Next Generation",
+        "url": "https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb"
+      },
+      "artists": [
+        {
+          "name": "Alexsir",
+          "url": "https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV"
+        },
+        {
+          "name": "Trust SA",
+          "url": "https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I"
+        }
+      ],
+      "duration_ms": 342887,
+      "name": "Monomotapa",
+      "url": "https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL"
     }
   ],
   "unique_name": "Deep House Session",

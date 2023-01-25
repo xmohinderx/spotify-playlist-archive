@@ -1041,6 +1041,28 @@
     },
     {
       "album": {
+        "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
+        "url": "https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00e1o",
+          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
+        },
+        {
+          "name": "Sterry",
+          "url": "https://open.spotify.com/artist/6AMzKN0Dxof4b3rdjwvXT9"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164266,
+      "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
+      "url": "https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY"
+    },
+    {
+      "album": {
         "name": "Let's Talk About Love",
         "url": "https://open.spotify.com/album/0JJbK3juFfG3bMetKGDQ7W"
       },
@@ -1778,7 +1800,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 276480,
       "name": "Sau Nay, Hay Gap Lai Nhau Khi Hoa No",
       "url": "https://open.spotify.com/track/6F61DTypUBPZiZqgd76Sjn"

@@ -2,9 +2,9 @@
 
 ### [Louvores Pentecostais](https://open.spotify.com/playlist/37i9dQZF1DWTvrPFPIwgwG)
 
-> Ouça as novidades e grandes louvores Pentecostais\. Foto: Eliane Fernandes
+> Ouça as novidades e grandes louvores Pentecostais\. Foto: Nathália Braga
 
-104 songs - 8 hr 34 min
+107 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/track/0TA4FLhn9MlpNprmvZll4q) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus É, Deus Está, Deus Faz](https://open.spotify.com/album/21oORJhHSY6MvEJQtQPAwO) | 5:10 | 2022-09-09 |  |
 | [Dias de Guerra](https://open.spotify.com/track/3p82xqXALhgwEc7Jt84nE1) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Dias de Guerra](https://open.spotify.com/album/2wqbreN7kz4c9tgI6ERntq) | 4:54 | 2022-09-09 |  |
 | [Ele Não Mudou](https://open.spotify.com/track/6ECXghsnWoGD85eOcuPWUX) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Ele Não Mudou](https://open.spotify.com/album/2DtfDyMjQFsnkAfT7yj2b4) | 4:29 | 2022-09-09 |  |
-| [Ele Te Escolheu](https://open.spotify.com/track/0ht6st5Jxh3s6GAaFTdM8b) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu](https://open.spotify.com/album/4U8TNmrXVreBkDM1VSBaIn) | 4:00 | 2022-09-09 |  |
+| [Ele Te Escolheu](https://open.spotify.com/track/0ht6st5Jxh3s6GAaFTdM8b) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Ele Te Escolheu](https://open.spotify.com/album/4U8TNmrXVreBkDM1VSBaIn) | 4:00 | 2022-09-09 | 2023-01-25 |
 | [Ele É](https://open.spotify.com/track/6cgDuihbqggLhQ7P7IqP8J) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Ele É](https://open.spotify.com/album/6qEYPG5MpIFzDKnFHj6ZZZ) | 6:35 | 2022-10-28 |  |
 | [Esconderijo do Altíssimo](https://open.spotify.com/track/5mwTKuWkJs9ZzrwioLbCyO) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Esconderijo do Altíssimo](https://open.spotify.com/album/2P6IvWGRjWLuP6rk5We0pL) | 4:45 | 2022-09-09 | 2022-12-24 |
 | [Escritor](https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Escritor](https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd) | 4:49 | 2022-09-09 |  |
@@ -64,6 +64,7 @@
 | [Nada Vai Te Faltar](https://open.spotify.com/track/7jS1AMXD2KtK0kmVqyOowj) | [Neide Martins](https://open.spotify.com/artist/18qBREWpIZMKWohtvnOMKq) | [Nada Vai Te Faltar](https://open.spotify.com/album/12xibWqBSa4cJDWZDfVU3d) | 5:19 | 2022-09-09 |  |
 | [No Silêncio \- Ao vivo](https://open.spotify.com/track/0NgRrEnBuuUyfBptNRyxdP) | [Jefferson & Suellen](https://open.spotify.com/artist/4Cp8MAVITZ6a8qjTVvhV28) | [No Silêncio \(Ao vivo\)](https://open.spotify.com/album/7bPcheoTQfzLaVqO8Iw3GK) | 4:25 | 2022-09-09 |  |
 | [No Tempo Certo](https://open.spotify.com/track/3pq7EX35ipQzIneMCTt8MZ) | [Eliane Silva](https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs) | [No Tempo Certo](https://open.spotify.com/album/5jh4nKyFyQmuLcYjwpfOBT) | 5:36 | 2022-09-09 | 2023-01-14 |
+| [Nunca Foi Sorte \(Ao Vivo\)](https://open.spotify.com/track/0SuCzPj1jCFS2Sp6MKWbML) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Nunca Foi Sorte \(Ao Vivo\)](https://open.spotify.com/album/5o0Foz8gmXqmP0xS2yx6uC) | 5:44 | 2023-01-24 |  |
 | [Não Pare Agora](https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Não Pare Agora](https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp) | 4:29 | 2022-09-09 |  |
 | [Não Vai Se Repetir](https://open.spotify.com/track/6TOpwzPKVZzXkb1DPbIIlv) | [Suellen Brum](https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX) | [Não Vai Se Repetir](https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3) | 4:35 | 2022-09-09 |  |
 | [O Céu Tem Mais](https://open.spotify.com/track/4yNZ4iN6Cinc2leaCnIqhA) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [O Céu Tem Mais](https://open.spotify.com/album/1g1bympJzlFfIie5LZo8qz) | 7:32 | 2022-09-09 |  |
@@ -88,7 +89,7 @@
 | [Quero\-Quero](https://open.spotify.com/track/3qPQ2dkC5GQDAd2QoMHDTj) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Quero\-Quero](https://open.spotify.com/album/3sILMSaEy2PrXPhwAwizTf) | 5:37 | 2022-09-09 | 2022-10-08 |
 | [Recursos](https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Recursos](https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z) | 5:46 | 2022-11-26 |  |
 | [Respire Fundo](https://open.spotify.com/track/1tWh1QYyjOE1du04qRuM4n) | [Rose Nascimento](https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL) | [Respire Fundo](https://open.spotify.com/album/7LXBZsXpFrJVEzeLfMFYmW) | 5:04 | 2022-09-09 | 2022-11-26 |
-| [Senhor do Tempo](https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Senhor do Tempo](https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE) | 4:34 | 2022-10-28 |  |
+| [Senhor do Tempo](https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Senhor do Tempo](https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE) | 4:34 | 2022-10-28 | 2023-01-25 |
 | [Soldado Ferido \(Ao Vivo\)](https://open.spotify.com/track/0mkAD3baAfUUFDfsUXIOlX) | [Isaque Marins](https://open.spotify.com/artist/6zbfUJ0PG8dHDjwHJEqE70), [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Soldado Ferido \(Ao Vivo\)](https://open.spotify.com/album/3Y446NueL5hkuNN41Nvtu7) | 4:27 | 2022-09-09 |  |
 | [Sou Deus](https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Sou Deus](https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb) | 4:15 | 2022-10-15 |  |
 | [Sou Eu](https://open.spotify.com/track/6PNsCb1JZdLEP6iMzHj485) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Sou Eu](https://open.spotify.com/album/0l28uzspNaUlumLdGBDJ6L) | 5:12 | 2022-09-09 |  |
@@ -106,9 +107,11 @@
 | [Um Vencedor](https://open.spotify.com/track/6pRqkptX0mR2nenNo31ENX) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Um Vencedor](https://open.spotify.com/album/3rLP9GSQlADHlNt7dIKCOo) | 4:27 | 2022-09-09 | 2022-11-05 |
 | [Vai Se Cumprir](https://open.spotify.com/track/550RtH8cLuEu2IIL6pJXG9) | [Camilly Vitória](https://open.spotify.com/artist/4rUGVlkSvIQX76x3P54ObH), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Vai Se Cumprir](https://open.spotify.com/album/5x3DpJwDkKrcfnp6SV6cEg) | 4:08 | 2022-09-09 |  |
 | [Vem Senhor](https://open.spotify.com/track/5mh0WKzHIKBtU3Pl24wdFT) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Vem Senhor](https://open.spotify.com/album/3RivMqWy4p3erM2Ydgcv2u) | 5:12 | 2022-09-09 |  |
-| [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 | 2022-09-09 |  |
+| [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 | 2022-09-09 | 2023-01-25 |
 | [Vivendo pela Graça](https://open.spotify.com/track/5esJW5MuLVYLCtEm0Vi8lj) | [Miriam dos Passos](https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt), [Trio Melodia](https://open.spotify.com/artist/5K0ZOq4qBXap184w0M4CRp) | [Vivendo pela Graça](https://open.spotify.com/album/7FgukpDG6gKCjbJO4HP1sJ) | 4:44 | 2022-09-09 | 2022-10-08 |
 | [Você Disse](https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Você Disse](https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8) | 4:37 | 2022-09-09 |  |
+| [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 | 2023-01-24 |  |
+| [Volte a Sonhar](https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 3:53 | 2023-01-24 |  |
 | [Vou Deixar na Cruz](https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Vou Deixar na Cruz](https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC) | 5:34 | 2022-09-09 |  |
 | [Vou Marcar Tua História](https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vou Marcar Tua História](https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9) | 4:09 | 2022-09-09 |  |
 | [É Só Você Tentar](https://open.spotify.com/track/2eX2w6YtlIOYsz5GZ5R3Ro) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [É Só Você Tentar](https://open.spotify.com/album/3hS9Dcqu6NLcu1e6mqIpy7) | 4:49 | 2022-09-09 | 2022-10-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 146363,
+  "num_followers": 146371,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGJlYjIyODQ0YzJmNGI0YzE3YjRhYTQ3NDkyOWE2OWZk",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDYxYzQ5NGI4OWI4NjNjNmI5M2M3ZjIyZTgzMmFkYWE1",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "STOMP YOUR BOOTS",
+        "url": "https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ"
+      },
+      "artists": [
+        {
+          "name": "YA'BOYZ",
+          "url": "https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I"
+        }
+      ],
+      "duration_ms": 151651,
+      "name": "STOMP YOUR BOOTS",
+      "url": "https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Boondocks",
         "url": "https://open.spotify.com/album/3qxlU28Y4DlH3IVzq3CVbR"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 263706,
       "name": "Field Party",
       "url": "https://open.spotify.com/track/2DI1SvvgzhIybzuM0AjyvR"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "STOMP YOUR BOOTS",
-        "url": "https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ"
-      },
-      "artists": [
-        {
-          "name": "YA'BOYZ",
-          "url": "https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I"
-        }
-      ],
-      "duration_ms": 151651,
-      "name": "STOMP YOUR BOOTS",
-      "url": "https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-01-06 05:00:00",
       "album": {
+        "name": "Redneck for Life",
+        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
+      },
+      "artists": [
+        {
+          "name": "The Lacs",
+          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
+        }
+      ],
+      "duration_ms": 172848,
+      "name": "Redneck for Life",
+      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
         "name": "Mustang on Mud Tires",
         "url": "https://open.spotify.com/album/1wS58BaXXAfljI25qgTR4D"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 282462,
       "name": "Redneck Rich",
       "url": "https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi"
-    },
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Redneck for Life",
-        "url": "https://open.spotify.com/album/1ypzyztupNqTNsUiEOKyML"
-      },
-      "artists": [
-        {
-          "name": "The Lacs",
-          "url": "https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU"
-        }
-      ],
-      "duration_ms": 172848,
-      "name": "Redneck for Life",
-      "url": "https://open.spotify.com/track/2NB5htgkwRdIau2l2wQXEf"
     },
     {
       "added_at": "2023-01-06 05:00:00",

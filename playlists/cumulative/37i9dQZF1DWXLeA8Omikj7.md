@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-778 songs - 2 day 7 hr 41 min
+779 songs - 2 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Home Pt\. 1](https://open.spotify.com/track/6saPrg6S00jIed8tGj6DpW) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ) | [Home](https://open.spotify.com/album/3EmYKkH9IcPWIc3OoFz0Sl) | 2:19 | 2019-06-19\* | 2022-04-20 |
 | [Home Sweet Home](https://open.spotify.com/track/5stDMB1rZHPNWqzEdSgGEN) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF) | [Home Sweet Home](https://open.spotify.com/album/36nEPsZ64nsLxE9KM91spY) | 2:50 | 2021-11-19 | 2022-07-29 |
 | [Homecoming](https://open.spotify.com/track/2DcJgbkcus5G7TrJZZwsuh) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 1:38 | 2019-07-25 | 2020-10-22 |
+| [Homesick](https://open.spotify.com/track/0sb4TomAMz09w1ofDC8nUr) | [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7), [Izzy](https://open.spotify.com/artist/7ltHfFCUf9RjFzDuYOz118) | [Cherry](https://open.spotify.com/album/34hcfZrsKEC8Xvn0Qddig3) | 3:54 | 2022-09-09 |  |
 | [Homesick](https://open.spotify.com/track/4CFqL2BS4R4FZka8cibIMc) | [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7), [Izzy](https://open.spotify.com/artist/7ltHfFCUf9RjFzDuYOz118) | [Cherry](https://open.spotify.com/album/2n0aZMksvAjApZZzeH52l9) | 3:54 | 2021-10-01 | 2022-07-29 |
 | [Hope](https://open.spotify.com/track/5B83lmCIpUZbp3llYUN3Mg) | [Nall](https://open.spotify.com/artist/1TTP6vJbLEjFnjflpE4ahI) | [Hope](https://open.spotify.com/album/3XukZxrnN93zd1LCIHztVc) | 3:40 | 2019-06-19\* | 2022-04-17 |
 | [Horizon](https://open.spotify.com/track/07OBgEQb7HY6ENSqLvO2RW) | [Speo](https://open.spotify.com/artist/0rMH177vw5TAY2Gd1uLLgY) | [Horizon](https://open.spotify.com/album/6ekrtKzBfy0TRcjbK6cY7g) | 4:13 | 2019-05-26\* | 2020-08-26 |
@@ -686,7 +687,7 @@
 | [The Departure](https://open.spotify.com/track/70a2Em6lDF6zowPLHWjWTA) | [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum) | [The Departure](https://open.spotify.com/album/04hOO4j9BcyvVAy2s5rCW1) | 3:30 | 2019-06-19\* | 2020-08-26 |
 | [The Frequency of the Universe](https://open.spotify.com/track/33xzOMLKWD1QdYYKETCkY5) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Breathing Tides](https://open.spotify.com/album/0AWWSwlrkbHqGUKDLil3vo) | 3:45 | 2021-02-22 | 2022-07-24 |
 | [The Frontier \(High Desert Synthapella\)](https://open.spotify.com/track/2YHCMi1Jh6jeI5Y8jl4FZp) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Whities 006](https://open.spotify.com/album/65lnxFX6QyjxKTuBmnGP7P) | 2:21 | 2019-05-26\* | 2022-04-20 |
-| [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 | 2022-01-14 |  |
+| [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 | 2022-01-14 | 2023-01-25 |
 | [The Last Dance \- Synthapella](https://open.spotify.com/track/5aK6dgeUUB12XBgOryteAa) | [Eagles & Butterflies](https://open.spotify.com/artist/7lzrNOBAdfH8f4nVAWbRfk) | [Art Imitating Life Vol\. 3](https://open.spotify.com/album/5VCPysx5j3ZDlfUBwcfAja) | 2:41 | 2019-06-19\* | 2022-04-19 |
 | [The Last Transmission](https://open.spotify.com/track/3CcSeZN4cDf9OExYqk4jNE) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Self Assemble](https://open.spotify.com/album/3VTsUSpxRioGRjfsRtBVI2) | 1:36 | 2019-06-23 | 2020-10-22 |
 | [The Letter](https://open.spotify.com/track/6Drks6dbqYCZ303NPH4c6T) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Letter EP](https://open.spotify.com/album/5eYaBLIloQrnSXeJsv0nms) | 3:55 | 2020-11-07 |  |

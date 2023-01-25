@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 8188,
+  "num_followers": 8194,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDcwMTgzNGM5MDAxMGU1ZjYwZTllMTlkOTJiZmU3NTE0",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDVjMDNkODA1NDdjNjViNWJhZTdlM2YzNTBjNDMxZjJi",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/0BCVkygu0IIKP864Y8A8Gv"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "T-Bone Shuffle",
+      "url": "https://open.spotify.com/track/6bl7UHHcx1OY9tbvvnSssc"
+    },
+    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Promised Land",
@@ -299,22 +315,6 @@
       "duration_ms": 181939,
       "name": "Going to the Party",
       "url": "https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "T-Bone Shuffle",
-      "url": "https://open.spotify.com/track/6bl7UHHcx1OY9tbvvnSssc"
     },
     {
       "added_at": "2020-12-01 05:01:00",

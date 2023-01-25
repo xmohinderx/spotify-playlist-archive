@@ -1,12 +1,12 @@
 {
   "description": "Feel-good tunes for your Cinco de Mayo. \u00a1Salud!",
-  "num_followers": 36798,
+  "num_followers": 36795,
   "original_name": "Cinco de Mayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NTkzNywwMDAwMDAwMGI4ZDFjNGJiYTIyYzBiZjQ0NDE3Mjc3ZGJkMzBhNTdl",
+  "snapshot_id": "MTY3MzI0NTkzNywwMDAwMDAwMGIwNmMxODFjMTA5Y2JkMjllMjI4ZTA5ZGM1ZmZmM2Uy",
   "tracks": [
     {
       "added_at": "2023-01-09 06:32:17",
@@ -751,22 +751,18 @@
     {
       "added_at": "2023-01-09 06:32:17",
       "album": {
-        "name": "Ticket De Salida",
-        "url": "https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr"
+        "name": "Entre Amigos y Enemigos",
+        "url": "https://open.spotify.com/album/1hQIcRYED9BUiPqxtFGoeO"
       },
       "artists": [
         {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
         }
       ],
-      "duration_ms": 184520,
-      "name": "Ticket De Salida",
-      "url": "https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH"
+      "duration_ms": 160986,
+      "name": "El Shot",
+      "url": "https://open.spotify.com/track/7Ay1aNyumjdw2fRWmy0xBx"
     }
   ],
   "unique_name": "Cinco de Mayo",

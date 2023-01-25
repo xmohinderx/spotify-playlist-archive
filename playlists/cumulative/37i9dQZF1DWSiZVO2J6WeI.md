@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-225 songs - 11 hr 56 min
+226 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,10 +179,11 @@
 | [Resonatic](https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj) | [Inverse Gradient](https://open.spotify.com/artist/3DMGcwt4nmTJ3vmCgyvtFl) | [Resonatic](https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy) | 2:40 | 2022-01-12 |  |
 | [Rest Now](https://open.spotify.com/track/30l9Arlh15ewEk4KxmSlSp) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Rest Now](https://open.spotify.com/album/3uOInfWGtt8LoCC9AcPSW7) | 2:42 | 2022-01-12 |  |
 | [Revolve](https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Revolve](https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2) | 3:07 | 2022-01-12 |  |
-| [Saint](https://open.spotify.com/track/2aqrU3psl80GT2YMExm50Z) | [Lamb & Mountain](https://open.spotify.com/artist/2WMPnzmwca8VGFhFIDmXSJ) | [The Ambient Mind](https://open.spotify.com/album/3lltLkrl9MR1sdeDaR4OSv) | 2:48 | 2022-04-13 |  |
+| [Saint](https://open.spotify.com/track/2aqrU3psl80GT2YMExm50Z) | [Lamb & Mountain](https://open.spotify.com/artist/2WMPnzmwca8VGFhFIDmXSJ) | [The Ambient Mind](https://open.spotify.com/album/3lltLkrl9MR1sdeDaR4OSv) | 2:48 | 2022-04-13 | 2023-01-25 |
 | [Saturno](https://open.spotify.com/track/0REl0m4yaSf1YJFFU5M3Q7) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Constelaciones](https://open.spotify.com/album/0f3JsS5uJrWYW8gINPLSe1) | 3:40 | 2022-01-19 |  |
 | [Sea Angel](https://open.spotify.com/track/2ZC9pIlwUXquQDWRcsCtKp) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Sea Angel](https://open.spotify.com/album/4q4aGzy6knPh2apjwaFDQY) | 3:28 | 2022-01-19 |  |
 | [Sedang Tidur](https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze) | [La\-Mu](https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc) | [Sedang Tidur](https://open.spotify.com/album/2wTEY1E7AiUq8lRfkSOI0t) | 2:04 | 2022-02-01 |  |
+| [Serene Clarity](https://open.spotify.com/track/0eZzQlr30pDYx9us8zfVx5) | [Lulu Ray](https://open.spotify.com/artist/31JkhPiJvenq0fyg2UzdWJ) | [Serene Clarity](https://open.spotify.com/album/4mWj1SQTEpfWSPK93thFE8) | 2:19 | 2023-01-20 |  |
 | [Serenitivity](https://open.spotify.com/track/41hD0lo1wIP9GX25JE4Kfu) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Serenitivity](https://open.spotify.com/album/6Vz2CBGS1UcQ1GDTopeXbF) | 3:33 | 2022-02-01 | 2022-04-20 |
 | [Shapeless](https://open.spotify.com/track/4vJz9yMS7APKcXLtTVEJDE) | [Delawares](https://open.spotify.com/artist/3gvjsh2EulaYf5hIlS7Lk1) | [Shapeless](https://open.spotify.com/album/4rXz811jiNhlyTQKJRi5kE) | 2:43 | 2022-01-12 |  |
 | [Shapes of Solitude](https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Peaceful Illusions](https://open.spotify.com/album/56A3q7RrXnTuljybi6L14X) | 2:57 | 2022-06-16 |  |

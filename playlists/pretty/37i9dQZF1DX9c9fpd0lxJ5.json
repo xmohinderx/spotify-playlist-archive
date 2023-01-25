@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby:)",
-  "num_followers": 447572,
+  "num_followers": 447587,
   "original_name": "Radiante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2ODYxMywwMDAwMDAwMDBmM2I2OGEyZGUxMWZjZmE0ZTkzYzY3MWFkNGExYjVi",
+  "snapshot_id": "MTY3MzU2ODYxMywwMDAwMDAwMGExN2Q4ZTJmMTcxNGE5Mjc5OGUwNjdiZmRhMDQ5NmEz",
   "tracks": [
     {
       "added_at": "2023-01-13 00:10:13",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-01-13 00:10:13",
       "album": {
-        "name": "Una Noche M\u00e1s",
-        "url": "https://open.spotify.com/album/1uzsloGLr9bFGr6SguBgZZ"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/6h5Y9eJqzgiunuQICVkQb6"
-    },
-    {
-      "added_at": "2023-01-13 00:10:13",
-      "album": {
         "name": "Todo Is Gonna Be Alright, Mi Amor",
         "url": "https://open.spotify.com/album/544UD49q01Pe3ItnRi0tRw"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 125849,
       "name": "haciendo discos",
       "url": "https://open.spotify.com/track/5ezQlaBRGmaFzYB9FtMiOd"
+    },
+    {
+      "added_at": "2023-01-13 00:10:13",
+      "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/1uzsloGLr9bFGr6SguBgZZ"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/6h5Y9eJqzgiunuQICVkQb6"
     },
     {
       "added_at": "2023-01-13 00:10:13",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-01-13 00:10:13",
       "album": {
-        "name": "Reconciliados",
-        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
-      },
-      "artists": [
-        {
-          "name": "Samantha S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Reconciliados",
-      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
-    },
-    {
-      "added_at": "2023-01-13 00:10:13",
-      "album": {
         "name": "Get Lost In The Music",
         "url": "https://open.spotify.com/album/4r7qQ7yTsRuVghSurlagxs"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 181910,
       "name": "Un Animal (Divina Existencia)",
       "url": "https://open.spotify.com/track/23ietpawDh7f4PVAGBJ690"
+    },
+    {
+      "added_at": "2023-01-13 00:10:13",
+      "album": {
+        "name": "Reconciliados",
+        "url": "https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3"
+      },
+      "artists": [
+        {
+          "name": "Samantha S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Reconciliados",
+      "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
     },
     {
       "added_at": "2023-01-13 00:10:13",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-13 00:10:13",
       "album": {
-        "name": "Multicolor",
-        "url": "https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC"
-      },
-      "artists": [
-        {
-          "name": "Solo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
-        }
-      ],
-      "duration_ms": 332546,
-      "name": "Rompecabezas",
-      "url": "https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p"
-    },
-    {
-      "added_at": "2023-01-13 00:10:13",
-      "album": {
         "name": "Estereomance",
         "url": "https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 255597,
       "name": "Dung Ding Dang",
       "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
+    },
+    {
+      "added_at": "2023-01-13 00:10:13",
+      "album": {
+        "name": "Multicolor",
+        "url": "https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC"
+      },
+      "artists": [
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "duration_ms": 332546,
+      "name": "Rompecabezas",
+      "url": "https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p"
     },
     {
       "added_at": "2023-01-13 00:10:13",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-01-13 00:10:13",
       "album": {
+        "name": "inigualable",
+        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Aloisio",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 178645,
+      "name": "inigualable",
+      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
+    },
+    {
+      "added_at": "2023-01-13 00:10:13",
+      "album": {
         "name": "Flower Moon",
         "url": "https://open.spotify.com/album/4McPKoA8FJkn283QeWctx7"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 182760,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2023-01-13 00:10:13",
-      "album": {
-        "name": "inigualable",
-        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
-      },
-      "artists": [
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        },
-        {
-          "name": "Aloisio",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
-        }
-      ],
-      "duration_ms": 178645,
-      "name": "inigualable",
-      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
     },
     {
       "added_at": "2023-01-13 00:10:13",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-01-13 00:10:13",
       "album": {
+        "name": "Todo Pasa",
+        "url": "https://open.spotify.com/album/7hahBXkyUgf3A3JwBYU1CR"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 158211,
+      "name": "Todo Pasa",
+      "url": "https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu"
+    },
+    {
+      "added_at": "2023-01-13 00:10:13",
+      "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 166333,
       "name": "Margaritas",
       "url": "https://open.spotify.com/track/3XfFsjkdXHFk1O4OMXIcfa"
-    },
-    {
-      "added_at": "2023-01-13 00:10:13",
-      "album": {
-        "name": "Todo Pasa",
-        "url": "https://open.spotify.com/album/7hahBXkyUgf3A3JwBYU1CR"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 158211,
-      "name": "Todo Pasa",
-      "url": "https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu"
     },
     {
       "added_at": "2023-01-13 00:10:13",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-01-13 00:10:13",
       "album": {
-        "name": "Mundos",
-        "url": "https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Agua Que Quema",
-      "url": "https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9"
-    },
-    {
-      "added_at": "2023-01-13 00:10:13",
-      "album": {
         "name": "BLUE 2000",
         "url": "https://open.spotify.com/album/1gxSmrTvkuz4mUyJF7rDq2"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 143893,
       "name": "LUV",
       "url": "https://open.spotify.com/track/31sce1AdJvGnkJajAalv8F"
+    },
+    {
+      "added_at": "2023-01-13 00:10:13",
+      "album": {
+        "name": "Mundos",
+        "url": "https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Agua Que Quema",
+      "url": "https://open.spotify.com/track/5mJ7IcsK2WzXRaIKW5XgY9"
     },
     {
       "added_at": "2023-01-13 00:10:13",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-01-13 00:10:13",
       "album": {
-        "name": "La Sombra",
-        "url": "https://open.spotify.com/album/1byXfg4uGQecfZKo9AjziF"
-      },
-      "artists": [
-        {
-          "name": "Chesdana",
-          "url": "https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY"
-        }
-      ],
-      "duration_ms": 226833,
-      "name": "La Sombra",
-      "url": "https://open.spotify.com/track/3monG9SQApxiOwivspTANk"
-    },
-    {
-      "added_at": "2023-01-13 00:10:13",
-      "album": {
         "name": "Alej\u00e9monos",
         "url": "https://open.spotify.com/album/3ptNF4zl1sec0fViprKxCK"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 165458,
       "name": "Alej\u00e9monos",
       "url": "https://open.spotify.com/track/51UK26oZlN0iHGDFz9Idkp"
+    },
+    {
+      "added_at": "2023-01-13 00:10:13",
+      "album": {
+        "name": "La Sombra",
+        "url": "https://open.spotify.com/album/1byXfg4uGQecfZKo9AjziF"
+      },
+      "artists": [
+        {
+          "name": "Chesdana",
+          "url": "https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY"
+        }
+      ],
+      "duration_ms": 226833,
+      "name": "La Sombra",
+      "url": "https://open.spotify.com/track/3monG9SQApxiOwivspTANk"
     },
     {
       "added_at": "2023-01-13 00:10:13",
@@ -1671,18 +1671,22 @@
     {
       "added_at": "2023-01-13 00:10:13",
       "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/4w9m7etPUcQyjE7Seax7G9"
       },
       "artists": [
         {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 181786,
-      "name": "CAVIAR",
-      "url": "https://open.spotify.com/track/7jQ0ac6EcFNXxm0obXOFWb"
+      "duration_ms": 208240,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/20htY6OJxsHAsWDMzpm4xC"
     }
   ],
   "unique_name": "Radiante",

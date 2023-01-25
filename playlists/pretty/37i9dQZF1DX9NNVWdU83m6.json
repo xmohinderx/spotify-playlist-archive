@@ -1,15 +1,15 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 34240,
+  "num_followers": 34292,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMGFkNzI3MDEwY2U1MDVlODRhZGZlZGJjYzYwZjc1YzQy",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDY2N2U0Y2FjYjI5ZDZiYWI2NzM0YWJlMWU5OWVjMzQ5",
   "tracks": [
     {
-      "added_at": "2023-01-24 01:10:43",
+      "added_at": "2023-01-20 05:01:00",
       "album": {
         "name": "Vortex",
         "url": "https://open.spotify.com/album/3IiQIr12IWEmMEGHNxvvzg"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2y0w6lpY8SGTuY8LglChi6"
     },
     {
-      "added_at": "2023-01-24 01:10:43",
+      "added_at": "2023-01-20 05:01:00",
       "album": {
         "name": "Eight",
         "url": "https://open.spotify.com/album/16Nud8qE9ed5FsaT53mo7k"
@@ -221,20 +221,20 @@
       "url": "https://open.spotify.com/track/0LtzIAlp7ImcMcLHXxOb7n"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "In These Times",
-        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+        "name": "Bundles (Remastered And Expanded Edition)",
+        "url": "https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN"
       },
       "artists": [
         {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+          "name": "Soft Machine",
+          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
         }
       ],
-      "duration_ms": 267635,
-      "name": "The Knew Untitled",
-      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
+      "duration_ms": 557933,
+      "name": "Hazard Profile, Pt. 1 - 2022 Remaster",
+      "url": "https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -255,18 +255,34 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Bundles (Remastered And Expanded Edition)",
-        "url": "https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN"
+        "name": "Bookshelf",
+        "url": "https://open.spotify.com/album/70v7OcDOYpKVOVxSYXQXjm"
       },
       "artists": [
         {
-          "name": "Soft Machine",
-          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
+          "name": "jizue",
+          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
         }
       ],
-      "duration_ms": 557933,
-      "name": "Hazard Profile, Pt. 1 - 2022 Remaster",
-      "url": "https://open.spotify.com/track/71E5jV5AfPrZAkSTyqd6zb"
+      "duration_ms": 260866,
+      "name": "Rain Dog",
+      "url": "https://open.spotify.com/track/5n1VJ7dpMT3G3Q83wo3tKr"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "In These Times",
+        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 267635,
+      "name": "The Knew Untitled",
+      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -295,18 +311,18 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Bookshelf",
-        "url": "https://open.spotify.com/album/70v7OcDOYpKVOVxSYXQXjm"
+        "name": "XD [Experience Design]",
+        "url": "https://open.spotify.com/album/4W77ety4g4G6bW9HlaE1Rr"
       },
       "artists": [
         {
-          "name": "jizue",
-          "url": "https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw"
+          "name": "Immortal Onion",
+          "url": "https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz"
         }
       ],
-      "duration_ms": 260866,
-      "name": "Rain Dog",
-      "url": "https://open.spotify.com/track/5n1VJ7dpMT3G3Q83wo3tKr"
+      "duration_ms": 347797,
+      "name": "Triggers",
+      "url": "https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -323,22 +339,6 @@
       "duration_ms": 374652,
       "name": "Lymaks",
       "url": "https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "XD [Experience Design]",
-        "url": "https://open.spotify.com/album/4W77ety4g4G6bW9HlaE1Rr"
-      },
-      "artists": [
-        {
-          "name": "Immortal Onion",
-          "url": "https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz"
-        }
-      ],
-      "duration_ms": 347797,
-      "name": "Triggers",
-      "url": "https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -633,6 +633,34 @@
       "url": "https://open.spotify.com/track/2u4TriIit5b2lO5S96Tenf"
     },
     {
+      "added_at": "2022-08-19 04:02:00",
+      "album": {
+        "name": "Caliber",
+        "url": "https://open.spotify.com/album/1Gr1MnBQE43JRmeccpu8La"
+      },
+      "artists": [
+        {
+          "name": "Evan Marien",
+          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
+        },
+        {
+          "name": "Dana Hawkins",
+          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
+        },
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        },
+        {
+          "name": "Fredrik Thordendal",
+          "url": "https://open.spotify.com/artist/5I0eQC4oxRaW8DRe4XithF"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Caliber",
+      "url": "https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp"
+    },
+    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "The Line",
@@ -647,30 +675,6 @@
       "duration_ms": 280666,
       "name": "Lowell",
       "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Ultima",
-        "url": "https://open.spotify.com/album/20BlG8qWwhDJWBxnNJIrPZ"
-      },
-      "artists": [
-        {
-          "name": "Evan Marien",
-          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
-        },
-        {
-          "name": "Dana Hawkins",
-          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
-        },
-        {
-          "name": "Plini",
-          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Ultima",
-      "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
     },
     {
       "added_at": "2021-03-26 04:01:00",
@@ -721,6 +725,62 @@
       "url": "https://open.spotify.com/track/3QW4GhqgR5hJPwFssyJsvV"
     },
     {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Ultima",
+        "url": "https://open.spotify.com/album/20BlG8qWwhDJWBxnNJIrPZ"
+      },
+      "artists": [
+        {
+          "name": "Evan Marien",
+          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
+        },
+        {
+          "name": "Dana Hawkins",
+          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
+        },
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Ultima",
+      "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
+    },
+    {
+      "added_at": "2021-04-16 05:00:00",
+      "album": {
+        "name": "Meteor Stream",
+        "url": "https://open.spotify.com/album/0JLhkI3D3ZRtr3swzVqNqb"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 345281,
+      "name": "Meteor Stream",
+      "url": "https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Two Drink Minimum",
+        "url": "https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP"
+      },
+      "artists": [
+        {
+          "name": "Wayne Krantz",
+          "url": "https://open.spotify.com/artist/2jT3Zlaqv3r8hxHdWE8Xig"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "Whippersnapper",
+      "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"
+    },
+    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "Chaos Companion",
@@ -739,22 +799,6 @@
       "duration_ms": 300739,
       "name": "Dormammu (Featuring the Shady Horns)",
       "url": "https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw"
-    },
-    {
-      "added_at": "2021-04-16 05:00:00",
-      "album": {
-        "name": "Meteor Stream",
-        "url": "https://open.spotify.com/album/0JLhkI3D3ZRtr3swzVqNqb"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 345281,
-      "name": "Meteor Stream",
-      "url": "https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -783,50 +827,6 @@
       "duration_ms": 411453,
       "name": "Swarna Jingga",
       "url": "https://open.spotify.com/track/3PfgXEKgkEP1pAcFvOP4oy"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Two Drink Minimum",
-        "url": "https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP"
-      },
-      "artists": [
-        {
-          "name": "Wayne Krantz",
-          "url": "https://open.spotify.com/artist/2jT3Zlaqv3r8hxHdWE8Xig"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "Whippersnapper",
-      "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"
-    },
-    {
-      "added_at": "2022-08-19 04:02:00",
-      "album": {
-        "name": "Caliber",
-        "url": "https://open.spotify.com/album/1Gr1MnBQE43JRmeccpu8La"
-      },
-      "artists": [
-        {
-          "name": "Evan Marien",
-          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
-        },
-        {
-          "name": "Dana Hawkins",
-          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
-        },
-        {
-          "name": "Tigran Hamasyan",
-          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
-        },
-        {
-          "name": "Fredrik Thordendal",
-          "url": "https://open.spotify.com/artist/5I0eQC4oxRaW8DRe4XithF"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Caliber",
-      "url": "https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp"
     },
     {
       "added_at": "2021-01-27 19:39:49",

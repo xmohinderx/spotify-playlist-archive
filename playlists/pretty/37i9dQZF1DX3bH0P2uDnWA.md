@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,245 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,427 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 15 | [Delight](https://open.spotify.com/track/36kaImsnzRzsU6L4cvWP6s) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Octavia Rose](https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9) | [Delight](https://open.spotify.com/album/61jQJZcSYFp8Qm6zNJoy6m) | 5:44 |
 | 16 | [The Little Man Who Wasn't There](https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [The Little Man Who Wasn't There](https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX) | 3:26 |
 | 17 | [Say What \- Pisk Electro Swing Remix](https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk) | [Cut Capers](https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb), [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc) | [Say What \(2019\)](https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL) | 3:13 |
-| 18 | [Laisse\-Toi Tomber](https://open.spotify.com/track/6zzTxCsQinojaVUniC8T3B) | [The Soulmate Project](https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a), [Vero Nouk](https://open.spotify.com/artist/2v0uFs8azjBPPdwtOd2fiE) | [Laisse\-Toi Tomber](https://open.spotify.com/album/1POU4xKcEeBw39qtp6fRk1) | 2:58 |
-| 19 | [Black Betty](https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX) | 3:09 |
+| 18 | [Black Betty](https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX) | 3:09 |
+| 19 | [Laisse\-Toi Tomber](https://open.spotify.com/track/6zzTxCsQinojaVUniC8T3B) | [The Soulmate Project](https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a), [Vero Nouk](https://open.spotify.com/artist/2v0uFs8azjBPPdwtOd2fiE) | [Laisse\-Toi Tomber](https://open.spotify.com/album/1POU4xKcEeBw39qtp6fRk1) | 2:58 |
 | 20 | [Gringos Revenge](https://open.spotify.com/track/2e95sPCpdWlgswXFvRscC8) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Gringos Revenge](https://open.spotify.com/album/6knc7d475whjNMAg2K9EAF) | 3:58 |
 | 21 | [Light up the Night](https://open.spotify.com/track/0XNJwK6IhwfqvsNEZ2Q6q8) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Robert Edwards](https://open.spotify.com/artist/7zXWnYi4ciLWNWSxkuUb4d), [Andrew Griffiths](https://open.spotify.com/artist/46lNBEk84eMi1hXP3lXPHZ), [Octavia Rose](https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9) | [Light up the Night](https://open.spotify.com/album/5GaoXt4qjX5tgjq8QbwbXf) | 3:53 |
 | 22 | [Swing It Like Roger](https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [Bend the Rules](https://open.spotify.com/album/3LsbDHcIw87U53Ir0pvrNK) | 3:16 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 38 | [Back in Time](https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Karina Kappel](https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH) | [Back in Time](https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw) | 3:18 |
 | 39 | [Boring 20s](https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01) | [Tamela D'Amico](https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Boring 20s](https://open.spotify.com/album/2AqxV8iRa5sCwT1DHNpcDg) | 2:50 |
 | 40 | [Mambo Rap](https://open.spotify.com/track/14RrzxMs07EhE8bUso5Pso) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Mambo Rap](https://open.spotify.com/album/1WqRiGdw8QFI9yMVqDCEQF) | 3:23 |
-| 41 | [Love Us a Ruckus](https://open.spotify.com/track/2u40x64LDY2RSyW1ewdhgR) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Love Us a Ruckus](https://open.spotify.com/album/2QvwbMHN0TvpgH91oWgqB7) | 4:04 |
-| 42 | [No Swinggity](https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m) | [Minimatic](https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV) | [No Swinggity](https://open.spotify.com/album/4UpqjUupRuSTu27F4YZoio) | 3:31 |
+| 41 | [No Swinggity](https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m) | [Minimatic](https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV) | [No Swinggity](https://open.spotify.com/album/4UpqjUupRuSTu27F4YZoio) | 3:31 |
+| 42 | [Love Us a Ruckus](https://open.spotify.com/track/2u40x64LDY2RSyW1ewdhgR) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a) | [Love Us a Ruckus](https://open.spotify.com/album/2QvwbMHN0TvpgH91oWgqB7) | 4:04 |
 | 43 | [Extra Fries](https://open.spotify.com/track/556y7EL1trkqGtevzn8684) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Merry\-Go\-Round\-And\-Round](https://open.spotify.com/album/3yXw16nAl3qa0f4egmHdXd) | 2:00 |
 | 44 | [Trouble](https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf) | [Trouble](https://open.spotify.com/album/065YosCANMb3iddT5Dv53h) | 3:15 |
 | 45 | [Brass Devil](https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Brass Devil](https://open.spotify.com/album/4uV6i7Odkg83F6muILQnFO) | 3:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 74 | [Dizzy Street](https://open.spotify.com/track/3OPqj5jqd5hkOU0rvZDXCl) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b) | [Dizzy Street](https://open.spotify.com/album/6kmaz5dSu6zmn7DQHXCIgP) | 3:25 |
 | 75 | [You Rascal You](https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Both Sides of the Moon](https://open.spotify.com/album/3nE3aRcSztx4bLkk5DwtJK) | 2:45 |
 
-Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMGQ0ZTZmN2U5MmFlYTljZmMwZWNjNmIwNGQ3YTMyZTg2`
+Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMDk1Y2EwMWIzYTJlY2M3Mjg1MDY4MTVlOWEwOTViZWI1`

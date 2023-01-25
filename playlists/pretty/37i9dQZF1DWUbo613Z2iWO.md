@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Destin Conrad
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,129 likes - 77 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,181 likes - 77 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

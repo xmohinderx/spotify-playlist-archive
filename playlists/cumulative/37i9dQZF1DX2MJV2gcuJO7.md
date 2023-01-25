@@ -4,7 +4,7 @@
 
 > Enjoy music from "BORUTO"! / 音楽で辿る「BORUTO\-ボルト\- NARUTO NEXT GENERATIONS」の世界。 ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-92 songs - 4 hr 13 min
+93 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Wish on](https://open.spotify.com/track/1ArUd4v4xfXbCbcJG6kuRy) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Wish on](https://open.spotify.com/album/0Psh6aWhxCMZEho0B0z8Kq) | 4:00 | 2022-07-12 |  |
 | [きらりらり](https://open.spotify.com/track/4GQjav2jvs9tmbC0KkYtCj) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [きらりらり](https://open.spotify.com/album/7iXTH7HUVN26FCK1RoBiG4) | 3:42 | 2022-08-25 |  |
 | [はじまっていく たかまっていく](https://open.spotify.com/track/0YNCH9g8CqoCZ71lN49FKB) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [はじまっていく たかまっていく](https://open.spotify.com/album/6uPo4jZ8Sd08sw98VG5sP7) | 4:09 | 2022-07-12 |  |
+| [またね](https://open.spotify.com/track/4f8MEWsOIymj4AIZs9VasU) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [またね](https://open.spotify.com/album/6cWyNSjyVH0Miq8FZ9ltEJ) | 3:59 | 2023-01-24 |  |
 | [キミがいたしるし](https://open.spotify.com/track/0Fml1C5sidfN0tEYcQQ6L8) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [キミがいたしるし](https://open.spotify.com/album/7yJeoO13KSi7srzbdXWlnb) | 3:53 | 2022-07-12 |  |
 | [ゴールデンタイム](https://open.spotify.com/track/3LHMKncuCBFhHZTN306bgt) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [ゴールデンタイム](https://open.spotify.com/album/3q35n4SSD3aZ47kOVs7V3f) | 3:12 | 2022-07-12 |  |
 | [サヨナラムーンタウン](https://open.spotify.com/track/5s9jpxDi4VHtGiCxr33tdx) | [Scenarioart](https://open.spotify.com/artist/4yHLkC0Z5EYVyinSP2AHvV) | [サヨナラムーンタウン](https://open.spotify.com/album/3BH9AGsHoe2NAlCkzon700) | 3:50 | 2022-07-12 |  |

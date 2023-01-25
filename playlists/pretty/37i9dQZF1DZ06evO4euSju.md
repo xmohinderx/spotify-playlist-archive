@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 20 | [Squeeze \(Intro\)](https://open.spotify.com/track/1p6itvwkWknExSlH98R8fa) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 1:22 |
 | 21 | [Black Flamingo](https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:58 |
 
-Snapshot ID: `Mjc5MDgwNDYsMDAwMDAwMDBlZTk2MDQyODY5ZTJhNjJlNWRkMjA3YWVhMDRlOGM4OQ==`
+Snapshot ID: `Mjc5MDk3MTQsMDAwMDAwMDBkNDMzNmM2YTgzOTg4ZTZmYTRmMjBiMTVkYzQ4YmZhNg==`

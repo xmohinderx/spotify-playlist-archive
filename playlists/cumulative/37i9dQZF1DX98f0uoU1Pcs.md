@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: shame
 
-372 songs - 19 hr 53 min
+373 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [I'm Your President](https://open.spotify.com/track/0DabkRkFD74ltGae3xc2Qi) | [Mother's Cake](https://open.spotify.com/artist/4tXtAqJV0KS75ndQsYh1GG) | [Cyberfunk!](https://open.spotify.com/album/3xY4LXoc9298yS7bAUMYeZ) | 2:30 | 2021-10-07 | 2022-06-11 |
 | [I've Been Drunk in Every Pub in Brisbane](https://open.spotify.com/track/59R1XgGV0zcbHjzBEKCsn3) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [I've Been Drunk in Every Pub in Brisbane](https://open.spotify.com/album/4h4MqqLKI89Mv1Ezvbu2Rx) | 1:29 | 2022-08-05 | 2022-09-24 |
 | [Impermanency](https://open.spotify.com/track/4Kd7lRXOO8jfvG9RpGvthk) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [Impermanency](https://open.spotify.com/album/3MlXwaIdVPDOmtN7rpSRYV) | 3:07 | 2022-04-29 |  |
+| [Impersonator](https://open.spotify.com/track/2odisK3KJX3mtLtilbWVt1) | [The C.I.A.](https://open.spotify.com/artist/45ihy5mszA5zmv7GchLZib) | [Surgery Channel](https://open.spotify.com/album/1H1ef6bHZQAWggvVWlufLf) | 3:18 | 2023-01-24 |  |
 | [In The Blood](https://open.spotify.com/track/4ogMXaW5JVBAxCDPgXTh28) | [The Beefs](https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX) | [In The Blood](https://open.spotify.com/album/4Kn57eDhYst8I1zKrDJQbn) | 3:57 | 2022-08-26 | 2022-10-08 |
 | [In the Stone](https://open.spotify.com/track/0rCH70n5wGsFO51mQDbZc2) | [The Goon Sax](https://open.spotify.com/artist/7qtF58vGfOhD4z3yzrD9PD) | [Mirror II](https://open.spotify.com/album/06swqSES9WCGwO1LRhXrxw) | 4:07 | 2022-01-07 |  |
 | [insomniac](https://open.spotify.com/track/7ErCpZ3lV1Hb4VulM0yc6R) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/46B1KESuQU3KveXeKzMCPE) | 3:04 | 2022-08-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Prince Royce",
-  "num_followers": 1879918,
+  "num_followers": 1880182,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGM4NzU4NGQyZTIxMmYyYjM4ZGRjOGMyYzdhZmMzOWY3",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDI3YjNiMjdmZDIzMTNiYzdiZmZhNDdlZTE3Mjg2NWI5",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
+        "name": "KITSUNE",
+        "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 169418,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "KITSUNE",
-        "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 169418,
-      "name": "AMNESIA",
-      "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Quien Dijo",
-        "url": "https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 241346,
-      "name": "Quien Dijo",
-      "url": "https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/11lLUZQgWDj6Vy1s765yBy"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 184746,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/03sVjqRZTzKbCDjroICASq"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Quien Dijo",
+        "url": "https://open.spotify.com/album/4INTFlZm9BIHHeDXwu0K7U"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 241346,
+      "name": "Quien Dijo",
+      "url": "https://open.spotify.com/track/23EalGl7ADnaoAKrNExMFn"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1159,6 +1159,30 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        },
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 174222,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
         "name": "A World Tour",
         "url": "https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U"
       },
@@ -1203,30 +1227,6 @@
       "duration_ms": 220903,
       "name": "Religi\u00f3n",
       "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        },
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 174222,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1283,42 +1283,18 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Just As I Am (feat. Prince Royce & Chris Brown)",
-        "url": "https://open.spotify.com/album/38khkjfE0TzKuweRce2PCl"
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
       },
       "artists": [
         {
-          "name": "Spiff TV",
-          "url": "https://open.spotify.com/artist/1PruL3P8slDEQAjSuOjuPd"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 224413,
-      "name": "Just As I Am (feat. Prince Royce & Chris Brown)",
-      "url": "https://open.spotify.com/track/1iKMpywaaihrz8gqaRqzp1"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Johnny Sky",
-        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
-      },
-      "artists": [
-        {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
-        }
-      ],
-      "duration_ms": 229032,
-      "name": "En Todo Fuiste la Mejor",
-      "url": "https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA"
+      "duration_ms": 207200,
+      "name": "HASTA QUE LA MUERTE NOS SEPARE",
+      "url": "https://open.spotify.com/track/0t40u904M4HGa3vCcrttUP"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1339,18 +1315,26 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+        "name": "Just As I Am (feat. Prince Royce & Chris Brown)",
+        "url": "https://open.spotify.com/album/38khkjfE0TzKuweRce2PCl"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Spiff TV",
+          "url": "https://open.spotify.com/artist/1PruL3P8slDEQAjSuOjuPd"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 207200,
-      "name": "HASTA QUE LA MUERTE NOS SEPARE",
-      "url": "https://open.spotify.com/track/0t40u904M4HGa3vCcrttUP"
+      "duration_ms": 224413,
+      "name": "Just As I Am (feat. Prince Royce & Chris Brown)",
+      "url": "https://open.spotify.com/track/1iKMpywaaihrz8gqaRqzp1"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1383,6 +1367,22 @@
       "duration_ms": 161906,
       "name": "Los Recuerdos",
       "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Johnny Sky",
+        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 229032,
+      "name": "En Todo Fuiste la Mejor",
+      "url": "https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Tu Mundo Cambi\u00f3",
-        "url": "https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D"
-      },
-      "artists": [
-        {
-          "name": "Milly Quezada",
-          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
-        }
-      ],
-      "duration_ms": 205220,
-      "name": "Tu Mundo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Lost in the Music",
         "url": "https://open.spotify.com/album/0DelqlcfTa9sEm4BL5Jjtf"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 231080,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/5XROtPy6KF9m2y4yX3dHmF"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Tu Mundo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D"
+      },
+      "artists": [
+        {
+          "name": "Milly Quezada",
+          "url": "https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ"
+        }
+      ],
+      "duration_ms": 205220,
+      "name": "Tu Mundo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Cuentale",
-        "url": "https://open.spotify.com/album/0jEBcvahgdKM8FVzRZhiXM"
-      },
-      "artists": [
-        {
-          "name": "Bachata Heightz",
-          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
-        },
-        {
-          "name": "Manny Manz",
-          "url": "https://open.spotify.com/artist/6IWrWGkjGZAy2uquDetqdY"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Cuentale",
-      "url": "https://open.spotify.com/track/6DPdMLNGI66ALjWGhYgfRs"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Que Vuelva (La Historia de Mi Vida: El Final)",
         "url": "https://open.spotify.com/album/4BSEZwGi23mD6RVpcUnFpv"
       },
@@ -1635,6 +1615,22 @@
       "duration_ms": 228000,
       "name": "Que Vuelva (La Historia de Mi Vida: El Final)",
       "url": "https://open.spotify.com/track/4UbENhZK6FCYwsw71LjQKt"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/41JLu56v6ScBksOzUhSHmg"
+      },
+      "artists": [
+        {
+          "name": "24 Horas",
+          "url": "https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY"
+        }
+      ],
+      "duration_ms": 220421,
+      "name": "Nunca Me Amaste",
+      "url": "https://open.spotify.com/track/5bLm1scT0Gnn9ehOkqFNUt"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1655,18 +1651,22 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Por Tu Culpa",
-        "url": "https://open.spotify.com/album/0YDxzNrXmAHkOMR4K23Fe7"
+        "name": "Cuentale",
+        "url": "https://open.spotify.com/album/0jEBcvahgdKM8FVzRZhiXM"
       },
       "artists": [
         {
-          "name": "24 Horas",
-          "url": "https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY"
+          "name": "Bachata Heightz",
+          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
+        },
+        {
+          "name": "Manny Manz",
+          "url": "https://open.spotify.com/artist/6IWrWGkjGZAy2uquDetqdY"
         }
       ],
-      "duration_ms": 201906,
-      "name": "Por Tu Culpa",
-      "url": "https://open.spotify.com/track/5yrCbCPTgYS1rPt7GMRCJi"
+      "duration_ms": 220500,
+      "name": "Cuentale",
+      "url": "https://open.spotify.com/track/6DPdMLNGI66ALjWGhYgfRs"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Me Provocas",
-        "url": "https://open.spotify.com/album/7bnfanPjPlW2BeBqq6aFUQ"
+        "name": "Este Soy Yo",
+        "url": "https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ"
       },
       "artists": [
         {
-          "name": "Jay Ramirez",
-          "url": "https://open.spotify.com/artist/1DdkaTtHfuRmJr0FRD8NGB"
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
         }
       ],
-      "duration_ms": 203320,
-      "name": "Me Provocas",
-      "url": "https://open.spotify.com/track/0Sn3X6TZI6NK73DX6hMnhD"
+      "duration_ms": 222573,
+      "name": "Antes del Lunes",
+      "url": "https://open.spotify.com/track/6yVGk00COgjDJbHELkO109"
     }
   ],
   "unique_name": "Bachata Lovers",

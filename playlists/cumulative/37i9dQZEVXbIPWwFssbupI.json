@@ -3155,6 +3155,28 @@
     },
     {
       "album": {
+        "name": "Voltaire",
+        "url": "https://open.spotify.com/album/3RpTSDBWkDbgl6bJEG6s1b"
+      },
+      "artists": [
+        {
+          "name": "Fresh La Douille",
+          "url": "https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174733,
+      "name": "B\u00e9n\u00e9fice",
+      "url": "https://open.spotify.com/track/6V5p28BkOfLRblaSQIDLHz"
+    },
+    {
+      "album": {
         "name": "No crari",
         "url": "https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5"
       },
@@ -4310,7 +4332,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 164120,
       "name": "Coco",
       "url": "https://open.spotify.com/track/6hfkqvPACVG4l4qtY7xDgG"
@@ -5064,7 +5086,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -8132,7 +8154,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 183053,
       "name": "Gasolina (feat. Rsko)",
       "url": "https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr"
@@ -9474,7 +9496,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-23",
+      "date_removed": null,
       "duration_ms": 94253,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/5w3GRfKybnACxA4vTuIDAi"
@@ -16068,7 +16090,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 143525,
       "name": "Pas b\u00eate",
       "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"

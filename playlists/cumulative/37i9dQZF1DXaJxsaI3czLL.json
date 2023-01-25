@@ -355,6 +355,42 @@
     },
     {
       "album": {
+        "name": "Days",
+        "url": "https://open.spotify.com/album/6y6EKuZFTF27DVWz2CckWK"
+      },
+      "artists": [
+        {
+          "name": "Asilo",
+          "url": "https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199167,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/26o4oI2sYBD4r0Oq0sV5GY"
+    },
+    {
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/0WcB8yWpupgALCIrjfBEJG"
+      },
+      "artists": [
+        {
+          "name": "Somewhere",
+          "url": "https://open.spotify.com/artist/1nDq6lPB8DMpBpnxLFqXO2"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224249,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/5t7TDtxEROR35WDMrUioBu"
+    },
+    {
+      "album": {
         "name": "Earth: my Home Planet",
         "url": "https://open.spotify.com/album/367AxTys5leFcc98kZP0Nr"
       },
@@ -486,7 +522,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
@@ -540,7 +576,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 156800,
       "name": "hario island",
       "url": "https://open.spotify.com/track/4pwrnZ6t6KwUgUoQiBe70M"
@@ -794,6 +830,50 @@
       "duration_ms": 153652,
       "name": "last wave",
       "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+    },
+    {
+      "album": {
+        "name": "Love (feat. Skaai)",
+        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
+      },
+      "artists": [
+        {
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258920,
+      "name": "Love (feat. Skaai)",
+      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+    },
+    {
+      "album": {
+        "name": "Love Birds",
+        "url": "https://open.spotify.com/album/4aHwdSC9EOrqJ6OzW7fkbP"
+      },
+      "artists": [
+        {
+          "name": "Evan Call",
+          "url": "https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ"
+        },
+        {
+          "name": "\u7434\u97f3",
+          "url": "https://open.spotify.com/artist/0vmDmyY6q6ALXjlONSf7kO"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153133,
+      "name": "Love Birds",
+      "url": "https://open.spotify.com/track/2nORh3ReQzKn8Pg51JaaN5"
     },
     {
       "album": {
@@ -1274,7 +1354,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 283500,
       "name": "Yakan Hikou",
       "url": "https://open.spotify.com/track/7Djn2PQhFI1YGojIQUZGwC"
@@ -1609,6 +1689,46 @@
     },
     {
       "album": {
+        "name": "Where is \u201cLAGHEADS\u201d?",
+        "url": "https://open.spotify.com/album/29hUw40qYCdiUKb5ry9Fjp"
+      },
+      "artists": [
+        {
+          "name": "LAGHEADS",
+          "url": "https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN"
+        },
+        {
+          "name": "HIMI",
+          "url": "https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327098,
+      "name": "\u307e\u305f\u306d",
+      "url": "https://open.spotify.com/track/1nGRhES32vNvNMoLHSCY1m"
+    },
+    {
+      "album": {
+        "name": "\u3082\u3057\u3082\u661f\u304c\u964d\u308b\u306e\u306a\u3089",
+        "url": "https://open.spotify.com/album/4gKZhjEqcVqzwAYF23BsJr"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30ba\u30ad\u30b1\u30f3\u30c8",
+          "url": "https://open.spotify.com/artist/4LjPOp1UJAb7EKUkW2MLnX"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286652,
+      "name": "\u3082\u3057\u3082\u661f\u304c\u964d\u308b\u306e\u306a\u3089",
+      "url": "https://open.spotify.com/track/0Ydlj1Y8r8xnncUIjUAQD6"
+    },
+    {
+      "album": {
         "name": "Organic Plastic Music",
         "url": "https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP"
       },
@@ -1692,7 +1812,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 331984,
       "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
       "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
@@ -2064,7 +2184,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 155600,
       "name": "\u60b2\u3057\u307f\u306e\u30e9\u30c3\u30ad\u30fc\u30b9\u30bf\u30fc - Vu Ja De ver.",
       "url": "https://open.spotify.com/track/3khaT0OsIq3yAgf95zQG9E"
@@ -2418,7 +2538,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 457613,
       "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"

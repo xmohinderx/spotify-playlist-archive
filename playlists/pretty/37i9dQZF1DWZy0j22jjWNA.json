@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 74518,
+  "num_followers": 74554,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGQyNTIzZjYwMzUxMmFkNzNiOGI0MDkyN2UzMDQ2OWIy",
+  "snapshot_id": "MTU5OTE5MjEyMCwwMDAwMDAwMGQ3YzRhZmQ1ODVjZGNkMWE5NjE1MDhiNjFlZTljM2I0",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "It Would Be You",
-        "url": "https://open.spotify.com/album/58xzcDEz0sn7F36ZEnfYHV"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 219066,
-      "name": "It Would Be You",
-      "url": "https://open.spotify.com/track/0roPf0bwAsBDZv1bR15m15"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Wilder Woods",
         "url": "https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 263294,
       "name": "Someday Soon",
       "url": "https://open.spotify.com/track/5xv9Shs68bVmUd9tiJSK8r"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "It Would Be You",
+        "url": "https://open.spotify.com/album/58xzcDEz0sn7F36ZEnfYHV"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 219066,
+      "name": "It Would Be You",
+      "url": "https://open.spotify.com/track/0roPf0bwAsBDZv1bR15m15"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "THRESHOLDS",
-        "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
-      },
-      "artists": [
-        {
-          "name": "Mike Edel",
-          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Go with You",
-      "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Like Myself",
         "url": "https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 233918,
       "name": "Giants",
       "url": "https://open.spotify.com/track/0Q7ike4sNrjLSZx8r26C9s"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "THRESHOLDS",
+        "url": "https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs"
+      },
+      "artists": [
+        {
+          "name": "Mike Edel",
+          "url": "https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Go with You",
+      "url": "https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV"
     },
     {
       "added_at": "2020-09-04 04:02:00",

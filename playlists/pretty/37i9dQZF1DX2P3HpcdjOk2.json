@@ -1,15 +1,31 @@
 {
   "description": "The best of 70s Glam Rock. Cover: David Bowie.",
-  "num_followers": 61404,
+  "num_followers": 61529,
   "original_name": "Glam Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMDg3OCwwMDAwMDAwMDM1MTU2NDA1Mzg4YWVkYzc5YWZhNzY0MzY4YTQ1ZTBh",
+  "snapshot_id": "MTY2ODcwMDg3OCwwMDAwMDAwMDMzODZlNGQ3NTZlZTZhZTc4NDE1ZjljYTkwNjMxNjZk",
   "tracks": [
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Bang a Gong (Get It On) - 2003 Remaster",
+      "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Honky Chateau",
         "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
         "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
@@ -36,12 +52,12 @@
           "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Starman - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+      "duration_ms": 193880,
+      "name": "Ziggy Stardust - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5IyL3XOaRPpTgxVjRIAxXU"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Dressed To Kill",
         "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Jazz (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Ooh La La",
         "url": "https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
@@ -105,7 +121,23 @@
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Starman - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Transformer",
         "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
@@ -121,7 +153,23 @@
       "url": "https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 354320,
+      "name": "Bohemian Rhapsody - Remastered 2011",
+      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
@@ -137,7 +185,23 @@
       "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 322548,
+      "name": "Bennie And The Jets - Remastered 2014",
+      "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "The Best Years of Our Lives (Deluxe Version)",
         "url": "https://open.spotify.com/album/4D1oAjj0nxeAlsAJWAJn8g"
@@ -157,71 +221,7 @@
       "url": "https://open.spotify.com/track/2dpO3NteNWUDL2S9e0t0Mi"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 322548,
-      "name": "Bennie And The Jets - Remastered 2014",
-      "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
-        "name": "A Night At The Opera (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 354320,
-      "name": "Bohemian Rhapsody - Remastered 2011",
-      "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
-        "name": "Diamond Dogs (2016 Remaster)",
-        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 274746,
-      "name": "Rebel Rebel - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
-        "name": "A Nod Is as Good as a Wink... to a Blind Horse",
-        "url": "https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 279360,
-      "name": "Stay with Me",
-      "url": "https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/0UCg6lnG2MXpuEpf8Pk1MV"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "All The Young Dudes (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LdlOZcV0dp7ePBXe2KAGa"
@@ -253,26 +253,26 @@
       "url": "https://open.spotify.com/track/0WNGPpmWqzPnk0psUhJ3SX"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
-        "name": "Electric Warrior [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+        "name": "A Nod Is as Good as a Wink... to a Blind Horse",
+        "url": "https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK"
       },
       "artists": [
         {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Bang a Gong (Get It On) - 2003 Remaster",
-      "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
+      "duration_ms": 279360,
+      "name": "Stay with Me",
+      "url": "https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+        "name": "Diamond Dogs (2016 Remaster)",
+        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
       },
       "artists": [
         {
@@ -280,28 +280,12 @@
           "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 217746,
-      "name": "Changes - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t"
+      "duration_ms": 274746,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
-        "name": "Sheer Heart Attack (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Killer Queen - Remastered 2011",
-      "url": "https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Kiss: Ace Frehley",
         "url": "https://open.spotify.com/album/1NbNjch8MgBHxmRwm0OFhg"
@@ -317,7 +301,23 @@
       "url": "https://open.spotify.com/track/1BvpeiApX8qhof8Pmi3YlH"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "Sheer Heart Attack (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Killer Queen - Remastered 2011",
+      "url": "https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Desolation Boulevard",
         "url": "https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Midnight Caf\u00e9 (New Extended Version)",
         "url": "https://open.spotify.com/album/48zxNvHBPIFmeFweMGalgL"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/57TaM8GozkJBz90xvQ1xME"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Transformer",
         "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Caribou",
         "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Sladest (Expanded)",
         "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/1agVrzicFWExgEiAtk8lmr"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Desolation Boulevard",
         "url": "https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/4uip0lLkMKl1nwchsdXs1r"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
@@ -429,10 +429,10 @@
       "url": "https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
-        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
       },
       "artists": [
         {
@@ -440,12 +440,12 @@
           "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 279693,
-      "name": "Moonage Daydream - 2012 Remaster",
-      "url": "https://open.spotify.com/track/6mib3N4E8PZHAGQ3xy7bho"
+      "duration_ms": 217746,
+      "name": "Changes - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Kimono My House",
         "url": "https://open.spotify.com/album/7KOmuu3cbJQEQYGt3XmLmY"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/2rgHxOarlO4W35mg0IZ5u8"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Slade in Flame",
         "url": "https://open.spotify.com/album/0LmjoS42wberY6QHYm6k5E"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/1QMmLeAxi9MDLXjboKOpc7"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Transformer",
         "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/4A48NL57P16zSRaq3yoYry"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Rock On",
         "url": "https://open.spotify.com/album/4yMLfb3f5fo7lPgHAUqx8P"
@@ -509,23 +509,7 @@
       "url": "https://open.spotify.com/track/0uPIwcT6OdJ5BAJdYkxVp9"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
-        "name": "Smash and Grab",
-        "url": "https://open.spotify.com/album/2UntsTXsuN0LidA4xgSgnX"
-      },
-      "artists": [
-        {
-          "name": "Racey",
-          "url": "https://open.spotify.com/artist/1W4SfNO5hb1tdX0wQ87zxl"
-        }
-      ],
-      "duration_ms": 207480,
-      "name": "Some Girls",
-      "url": "https://open.spotify.com/track/6U7yae1KRTEJJe0WSr4OdX"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "A's & B's",
         "url": "https://open.spotify.com/album/6CzzK91Y1KngXnXK3tTfVn"
@@ -541,7 +525,23 @@
       "url": "https://open.spotify.com/track/34LMQb9wE70d6KhZhzHUo1"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "Smash and Grab",
+        "url": "https://open.spotify.com/album/2UntsTXsuN0LidA4xgSgnX"
+      },
+      "artists": [
+        {
+          "name": "Racey",
+          "url": "https://open.spotify.com/artist/1W4SfNO5hb1tdX0wQ87zxl"
+        }
+      ],
+      "duration_ms": 207480,
+      "name": "Some Girls",
+      "url": "https://open.spotify.com/track/6U7yae1KRTEJJe0WSr4OdX"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Quatro",
         "url": "https://open.spotify.com/album/0PVSnckBznSfzQai0cR3Kh"
@@ -557,39 +557,7 @@
       "url": "https://open.spotify.com/track/05fBPztfk8kjaRXXx58fvm"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
-        "name": "New York Dolls",
-        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
-      },
-      "artists": [
-        {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
-        }
-      ],
-      "duration_ms": 188306,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
-        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Ziggy Stardust - 2012 Remaster",
-      "url": "https://open.spotify.com/track/5IyL3XOaRPpTgxVjRIAxXU"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "For Your Pleasure",
         "url": "https://open.spotify.com/album/6gKMWnGptVs6yT2MgCxw29"
@@ -605,7 +573,39 @@
       "url": "https://open.spotify.com/track/3Wkho6tesTh4aF80T6evqH"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 279693,
+      "name": "Moonage Daydream - 2012 Remaster",
+      "url": "https://open.spotify.com/track/6mib3N4E8PZHAGQ3xy7bho"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "The Amazing Kamikaze Syndrome (Expanded)",
         "url": "https://open.spotify.com/album/14DvsG0HgGAdHGJQRtMFmv"
@@ -621,103 +621,7 @@
       "url": "https://open.spotify.com/track/5e0ozDjIRDuitUuekiF6ns"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
-        "name": "Electric Warrior [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Cosmic Dancer - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5N4vVbNotNwWGG8KcCdstR"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
-        "name": "Caribou",
-        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 309106,
-      "name": "Pinball Wizard",
-      "url": "https://open.spotify.com/track/6CJCCb9ookMMDQNz1Rrtii"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
-        "name": "Adolescent Sex",
-        "url": "https://open.spotify.com/album/2k8fOUWgxRHtzhN1sgOrMz"
-      },
-      "artists": [
-        {
-          "name": "Japan",
-          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "Adolescent Sex",
-      "url": "https://open.spotify.com/track/0IlsQYGSobFtgrW3JZbKJX"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
-        "name": "Smash and Grab",
-        "url": "https://open.spotify.com/album/2UntsTXsuN0LidA4xgSgnX"
-      },
-      "artists": [
-        {
-          "name": "Racey",
-          "url": "https://open.spotify.com/artist/1W4SfNO5hb1tdX0wQ87zxl"
-        }
-      ],
-      "duration_ms": 197906,
-      "name": "Lay Your Love on Me",
-      "url": "https://open.spotify.com/track/4ZGzLnjAm5K8fpJca76rvu"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
-        "name": "Slayed? (Expanded)",
-        "url": "https://open.spotify.com/album/3fnE8RruCbRZJCcUgV0OMt"
-      },
-      "artists": [
-        {
-          "name": "Slade",
-          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Mama Weer All Crazee Now",
-      "url": "https://open.spotify.com/track/2Gp23sr178DBntGtqKnJez"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
-      "album": {
-        "name": "Suzi Quatro",
-        "url": "https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4"
-      },
-      "artists": [
-        {
-          "name": "Suzi Quatro",
-          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Can the Can",
-      "url": "https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn"
-    },
-    {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Electric Warrior [Expanded & Remastered]",
         "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
@@ -733,7 +637,39 @@
       "url": "https://open.spotify.com/track/0v1wsyUb3UplLdgcdTbUEd"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 309106,
+      "name": "Pinball Wizard",
+      "url": "https://open.spotify.com/track/6CJCCb9ookMMDQNz1Rrtii"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "Adolescent Sex",
+        "url": "https://open.spotify.com/album/2k8fOUWgxRHtzhN1sgOrMz"
+      },
+      "artists": [
+        {
+          "name": "Japan",
+          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "Adolescent Sex",
+      "url": "https://open.spotify.com/track/0IlsQYGSobFtgrW3JZbKJX"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Stranded",
         "url": "https://open.spotify.com/album/46lN88zXwgNHAQnN9wWjiC"
@@ -749,7 +685,71 @@
       "url": "https://open.spotify.com/track/4yDPUrGef0gWT4LSS13lwy"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "Smash and Grab",
+        "url": "https://open.spotify.com/album/2UntsTXsuN0LidA4xgSgnX"
+      },
+      "artists": [
+        {
+          "name": "Racey",
+          "url": "https://open.spotify.com/artist/1W4SfNO5hb1tdX0wQ87zxl"
+        }
+      ],
+      "duration_ms": 197906,
+      "name": "Lay Your Love on Me",
+      "url": "https://open.spotify.com/track/4ZGzLnjAm5K8fpJca76rvu"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "Suzi Quatro",
+        "url": "https://open.spotify.com/album/63KpMsxh6E1WJPcDeT2GH4"
+      },
+      "artists": [
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Can the Can",
+      "url": "https://open.spotify.com/track/1zaiZAuhPkQfhhY9X2mTnn"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Cosmic Dancer - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5N4vVbNotNwWGG8KcCdstR"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
+      "album": {
+        "name": "Slayed? (Expanded)",
+        "url": "https://open.spotify.com/album/3fnE8RruCbRZJCcUgV0OMt"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Mama Weer All Crazee Now",
+      "url": "https://open.spotify.com/track/2Gp23sr178DBntGtqKnJez"
+    },
+    {
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "Mott (Expanded Edition)",
         "url": "https://open.spotify.com/album/3ApRy4edE6ZYi081aFpq4s"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/5lP2EYWk8LFUkM0grPWUFT"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "The Untouchable",
         "url": "https://open.spotify.com/album/7vdGNd7La8onpnF4k6EUR9"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/4LDjgf7egcQGxeGRjEfrSk"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "A's, B's And Rarities",
         "url": "https://open.spotify.com/album/3S9t2MD1HLBshrczST9ULW"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/25ONd5KLodHeHOvALtWG1T"
     },
     {
-      "added_at": "2022-09-12 19:23:02",
+      "added_at": "2022-11-17 16:01:17",
       "album": {
         "name": "New York Dolls",
         "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"

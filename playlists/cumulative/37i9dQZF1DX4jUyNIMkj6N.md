@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-185 songs - 11 hr 31 min
+186 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 | 2022-07-14 | 2023-01-13 |
 | [Bluebelle mountain](https://open.spotify.com/track/7dCjkIv4HK8V8QxfTVQWCa) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni was right pt\. II](https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK) | 3:20 | 2021-12-02 | 2022-07-29 |
 | [Boy from the North](https://open.spotify.com/track/517ubeor9CZCN27nif3Bev) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 4:44 | 2021-12-02 | 2022-07-29 |
-| [Breathe](https://open.spotify.com/track/38Mg9q2em0bT8pJaguYh3i) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [Breathe](https://open.spotify.com/album/1MWU1W7jPAvasm97wTowWO) | 4:13 | 2022-12-08 |  |
+| [Breathe](https://open.spotify.com/track/38Mg9q2em0bT8pJaguYh3i) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [Breathe](https://open.spotify.com/album/1MWU1W7jPAvasm97wTowWO) | 4:13 | 2022-12-08 | 2023-01-25 |
 | [Bright Lights](https://open.spotify.com/track/2HbDSISON7nWNdnUhaRPDA) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [Love EP](https://open.spotify.com/album/483bq5roSleMjKuPlIxEcp) | 3:19 | 2021-12-02 | 2022-07-28 |
 | [Brother](https://open.spotify.com/track/210qO1uNPiBhwNThR8MYW7) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [Brother](https://open.spotify.com/album/2Fy0aW2a5YWnHVdZQDGIOC) | 3:58 | 2022-10-06 |  |
 | [Bråtebrann](https://open.spotify.com/track/2dzVpK8VpDFO9icFxoOMBr) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/6DMFNBhXpJOPFpa6KqT6CF) | 2:28 | 2021-12-02 | 2022-07-29 |
@@ -97,6 +97,7 @@
 | [Kom heim](https://open.spotify.com/track/4GVZR9TdLp9D0ToG68ZxNh) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kom heim](https://open.spotify.com/album/445fT2wa4stnwaF4SNlJuF) | 3:22 | 2022-03-03 | 2022-07-29 |
 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 | 2022-07-14 |  |
 | [Line of Fire](https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm) | 3:08 | 2021-12-02 | 2022-07-29 |
+| [Little Twirl](https://open.spotify.com/track/7vmWRYyUn4N70WFWigpMwc) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Carvings](https://open.spotify.com/album/0g5Hk7IoMATmXQKDwdM9ln) | 2:22 | 2023-01-19 |  |
 | [Look At The Light](https://open.spotify.com/track/56aazenLnCcpAzCEgsCyYV) | [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU) | [Flowers](https://open.spotify.com/album/4LzplREyxz4OBGBYjkLCaW) | 3:40 | 2021-12-02 |  |
 | [Lost](https://open.spotify.com/track/3y30CMKgom7ymwPVnDuoQ4) | [Sonic Løland](https://open.spotify.com/artist/3g4SAPEqsPhWUsAzRqnu8o) | [Lost](https://open.spotify.com/album/5KGvjHsl3He6zOSszh8uFH) | 3:45 | 2022-11-10 | 2022-11-26 |
 | [Lou Lou](https://open.spotify.com/track/7fdPcyE4xzQlm0Fkf0JERy) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Lou Lou](https://open.spotify.com/album/39Tx9lVSciEVoYmCCdpkXH) | 2:04 | 2021-12-02 | 2022-07-28 |

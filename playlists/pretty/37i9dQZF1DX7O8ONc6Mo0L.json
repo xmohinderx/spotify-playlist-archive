@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Kleber Lucas, Caetano Veloso",
-  "num_followers": 232531,
+  "num_followers": 232542,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMDE3YWM3ZDM2ODk1MmEzNDI1N2QyMGQ2ZTA3MzIyY2Jm",
+  "snapshot_id": "MTY3NDE4MzYwMCwwMDAwMDAwMGNkMjhhMzRhYmY0MjZjMzg0NWIwMmMzNjllZjRiMDI2",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -775,18 +775,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Seu Amor: YOUnique (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA"
+        "name": "Primeira Ess\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
       },
       "artists": [
         {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
+        },
+        {
+          "name": "Paola Carla",
+          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
         }
       ],
-      "duration_ms": 444976,
-      "name": "Seu Amor: YOUnique - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
+      "duration_ms": 296000,
+      "name": "Primeira Ess\u00eancia (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -807,22 +811,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Primeira Ess\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
+        "name": "Seu Amor: YOUnique (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA"
       },
       "artists": [
         {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        },
-        {
-          "name": "Paola Carla",
-          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
         }
       ],
-      "duration_ms": 296000,
-      "name": "Primeira Ess\u00eancia (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE"
+      "duration_ms": 444976,
+      "name": "Seu Amor: YOUnique - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Aprender Com a Vida (Piano e Voz)",
-        "url": "https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 258044,
-      "name": "Aprender Com a Vida - Piano e Voz",
-      "url": "https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Aprender Com a Vida (Piano e Voz)",
+        "url": "https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 258044,
+      "name": "Aprender Com a Vida - Piano e Voz",
+      "url": "https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Muda os Planos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
-      },
-      "artists": [
-        {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
-        }
-      ],
-      "duration_ms": 437014,
-      "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Nunca Te Deixarei (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6wL4XGAa6V2EVJdE08ol55"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 201000,
       "name": "Nunca Te Deixarei - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4GnEfHMHLZaoQU2UiWI3Ku"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
+      },
+      "artists": [
+        {
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+        }
+      ],
+      "duration_ms": 437014,
+      "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
     },
     {
       "added_at": "2023-01-20 03:00:00",

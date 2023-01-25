@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,169 likes - 56 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,205 likes - 56 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 31 | [Asiye](https://open.spotify.com/track/3Y5OkzfSejM3jq7Cxz6OIO) | [Dj Sergee](https://open.spotify.com/artist/2N8naij4UgcpTIBNmA9zOl), [Gamze Yilmaz Ates](https://open.spotify.com/artist/5jkFnIWcwWNtK1oW8zw2nY), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Asiye](https://open.spotify.com/album/56KA60J5UwXFlGZBYGlpEG) | 7:22 |
 | 32 | [Marimbora \- Original](https://open.spotify.com/track/2qpb6nlep47oTvt9J9Ql7f) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Matanza](https://open.spotify.com/artist/1uwIzl6et4DJg5lbmyMW0g) | [Summer Sol](https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn) | 7:28 |
 | 33 | [Anlar](https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Anlar](https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c) | 7:10 |
-| 34 | [Roc](https://open.spotify.com/track/5e063bYxq533JpgRCHBpt5) | [Rimbu\(CH\)](https://open.spotify.com/artist/5X1mbOzivdPgJ8SVEDRFtF), [Gana Congas](https://open.spotify.com/artist/4AEwlGEW0QOEk7QxhyLCff) | [Anka](https://open.spotify.com/album/6lfcXtau5zMyV2jpqD0cfH) | 7:57 |
+| 34 | [Roc](https://open.spotify.com/track/5e063bYxq533JpgRCHBpt5) | [Rimbu\(CH\)](https://open.spotify.com/artist/5X1mbOzivdPgJ8SVEDRFtF), [Gana Congas](https://open.spotify.com/artist/4AEwlGEW0QOEk7QxhyLCff), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Anka](https://open.spotify.com/album/6lfcXtau5zMyV2jpqD0cfH) | 7:57 |
 | 35 | [Rouhi](https://open.spotify.com/track/55LgHMrNjkPR4GH2JrNo6A) | [Dennis Allen](https://open.spotify.com/artist/6DZmEIUpqFHuWWgytDvnF3), [Jerry Spoon](https://open.spotify.com/artist/0m6eNLtH4LgmXWq9Sz5d0j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Rouhi](https://open.spotify.com/album/6DvjdqPz3PSSCePEeuDOBl) | 5:51 |
 | 36 | [Silence & Secrets \(Black Coffee Remix\) \[Mixed\]](https://open.spotify.com/track/7yr19oQ20Uo2Zq4eOzn2F6) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Angelos Rebirth Mix](https://open.spotify.com/album/2KvL2S5zjJpn72vYEouq6B) | 6:35 |
 | 37 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 |

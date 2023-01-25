@@ -2,7 +2,7 @@
 
 ### [Fuego Mixtape \#031](https://open.spotify.com/playlist/37i9dQZF1DXaMDlfRzIU3h)
 
-> Featuring Bizarrap, Anuel AA, Rauw Alejandro & more.
+> Featuring Rauw Alejandro, Bizarrap, Anuel AA & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
 25 songs - 1 hr 22 min
 

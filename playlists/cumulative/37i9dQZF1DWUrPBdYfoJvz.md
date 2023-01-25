@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-149 songs - 17 hr 13 min
+152 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Le Jardin De Barbican](https://open.spotify.com/track/1G1VzFavmUG2CPoIymIWKA) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [3 Commissions](https://open.spotify.com/album/3GdkaScNw9laSshDku9grB) | 11:39 | 2022-03-29 |  |
 | [Lights On Water](https://open.spotify.com/track/7JcGySsJWYeAxESN63zowD) | [Pan\-American](https://open.spotify.com/artist/7idm1Z2kk9ffIobkLlZ2Ds) | [Quiet City](https://open.spotify.com/album/7od2sOXMLGzUefHW9lrDyG) | 3:50 | 2021-12-22 |  |
 | [Lizard Point \- Remastered 2004](https://open.spotify.com/track/3an5DoMqoNpJEQwfA48A4c) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 4:34 | 2021-12-22 |  |
+| [Look At My Snowman](https://open.spotify.com/track/4vHHYqYkDDuf8SZnraMjXV) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Crossloads](https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9) | 4:24 | 2023-01-24 |  |
 | [Moments In Love](https://open.spotify.com/track/2CxBaNFCjYVi0Iv2PpeZDG) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Late Night Tales: Floating Points](https://open.spotify.com/album/1K1xmrnPvQaHAoPrS8GV5t) | 9:23 | 2021-12-22 |  |
 | [Moon Is Sharp](https://open.spotify.com/track/16CMp2RKshLATGZnpjPPgB) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 6:48 | 2021-12-22 |  |
 | [Movements / The Ascent](https://open.spotify.com/track/473LOUVfW0SnEmg7aXktga) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Low Distance](https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0) | 6:19 | 2022-07-01 |  |
@@ -114,6 +115,8 @@
 | [Sad Ocean](https://open.spotify.com/track/1yC5ZxdbyrwZrcPaBPtm4Y) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirage](https://open.spotify.com/album/5S8GmGhxXvI9WTcVP61ecF) | 3:48 | 2021-12-22 |  |
 | [Saku](https://open.spotify.com/track/78WANNBMEK80nVGTWFGXyg) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 5:45 | 2021-12-22 |  |
 | [Searchlight](https://open.spotify.com/track/49kvnb6nQUzwbIzearLbSr) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Contact Note](https://open.spotify.com/album/582EKMkWdR5wmroAm9NqfE) | 2:16 | 2022-07-11 |  |
+| [Seis \- Daigo Hanada Rework](https://open.spotify.com/track/6mqZsDccxymJpBFX5OAuR8) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13) | [Seis \(Daigo Hanada Rework\)](https://open.spotify.com/album/2XZm1qudmuRBlupOM82pvo) | 3:45 | 2023-01-24 |  |
+| [Small Hours](https://open.spotify.com/track/79T8Mwqagb44Amwk7xgNW4) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [At Day's End/Small Hours](https://open.spotify.com/album/1lfOwDCvWL6rorNWNbtfoY) | 3:27 | 2023-01-24 |  |
 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 | 2022-01-12 |  |
 | [Space 11 \(Invisible Pages Over\)](https://open.spotify.com/track/2UO73ZuO6vOsF5BY3cYUxn) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [Sleep \- Songs to Fall Asleep To](https://open.spotify.com/album/0xFJxJjuJuv4uN1JKPRZT2) | 5:15 | 2022-10-14 | 2022-11-13 |
 | [Space 11 \(Invisible Pages Over\)](https://open.spotify.com/track/786FgaRDsjLgvViIu30sam) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Caleb Burhans](https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF), [Brian Snow](https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [From Sleep](https://open.spotify.com/album/0NRiFdiO6WfhUnHiev18x3) | 5:15 | 2021-12-22 | 2022-07-29 |

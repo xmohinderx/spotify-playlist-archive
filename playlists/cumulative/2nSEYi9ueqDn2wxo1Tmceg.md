@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-322 songs - 21 hr 21 min
+323 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [The Individual](https://open.spotify.com/track/0Exh17FiF1Nqklg5TSZArt) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [BLUSH](https://open.spotify.com/album/2RmsiWEPNkqtfjbFDi1zqe) | 3:50 | 2022-10-20 | 2022-12-01 |
 | [The Lazer](https://open.spotify.com/track/62r9v0y9TE0UAMhcb9Mlwd) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Big Love Blanket](https://open.spotify.com/album/2Ocda6SiIopqmd5rzT4SNl) | 3:51 | 2022-11-09 | 2022-12-15 |
 | [The Musical](https://open.spotify.com/track/5x5aqkqUDMdaFEEzuOTt7X) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [The Musical / Hey Bog](https://open.spotify.com/album/2NH3n58J1Zvabciudok71a) | 5:54 | 2023-01-10 |  |
+| [The People Say](https://open.spotify.com/track/51Xf6j7GapMJDWO0NXLS7T) | [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU) | [The People Say](https://open.spotify.com/album/0vWRvfBYsFjZZ3dxCmoGMf) | 4:25 | 2023-01-24 |  |
 | [The Rain Came Down](https://open.spotify.com/track/3wHZmrmckEdz2es3w0YKYN) | [The Weather Boys](https://open.spotify.com/artist/21BmZUrTd0aS0kDS0NJftY) | [The Rain Came Down](https://open.spotify.com/album/70iJQrk26iJClhGjvjSVFv) | 3:26 | 2022-06-08 | 2022-06-17 |
 | [The Room](https://open.spotify.com/track/4Kw7gITsDMkuyeZdxa6VKC) | [The Orielles](https://open.spotify.com/artist/5JWEBEt8VxHHxYKFmpzjwD) | [The Room](https://open.spotify.com/album/1kF8zDN1w0yMyMqDeBcHL8) | 4:17 | 2022-09-28 | 2022-11-10 |
 | [The Signs](https://open.spotify.com/track/7Mv0LtBlIFHYF8wTGzn69d) | [Medicine Cabinet](https://open.spotify.com/artist/11SWPw9bCw0O51KV6LSwij) | [The Signs](https://open.spotify.com/album/46tbaMQdEVzZVvgCQvIv1O) | 2:42 | 2022-06-08 | 2022-07-07 |

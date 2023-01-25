@@ -1,13 +1,29 @@
 {
   "description": "Favorites, hits and deep cuts: this is Francis Albert Sinatra, one of the most popular and influential musical artists of the 20th century.",
-  "num_followers": 1066634,
+  "num_followers": 1066873,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjIxMjQ4MiwwMDAwMDAwMGVkM2Q2MTY3YTNjNTU0MTc2ZTcyMGVmMTkyNGJmZTI2",
+  "snapshot_id": "MTY3NDU2MDI4NCwwMDAwMDAwMDZjNjNiNWU3MTNhMWRhYWM3NWNkNGYzZjgwYjMwNjBk",
   "tracks": [
+    {
+      "added_at": "2018-01-19 12:22:56",
+      "album": {
+        "name": "Trilogy: Past, Present & Future",
+        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Theme From New York, New York",
+      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
+    },
     {
       "added_at": "2018-01-19 12:22:56",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 149640,
       "name": "Fly Me To The Moon (In Other Words)",
       "url": "https://open.spotify.com/track/1iZgzgmsFsi0deffe0rleB"
-    },
-    {
-      "added_at": "2018-01-19 12:22:56",
-      "album": {
-        "name": "Trilogy: Past, Present & Future",
-        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Theme From New York, New York",
-      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
     },
     {
       "added_at": "2018-01-19 12:22:56",

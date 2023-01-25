@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Alpha & Beta Wave States",
+        "url": "https://open.spotify.com/album/3veIsz6h0EcYZZ0qhpRqEa"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Alpha Waves 150 Hz - 158 Hz",
+      "url": "https://open.spotify.com/track/27FiGK9QF0vCkJeXNhQZUr"
+    },
+    {
+      "album": {
         "name": "Binaural Zones",
         "url": "https://open.spotify.com/album/25HMKjzXf5IpFE1Zfw9Kba"
       },
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 147784,
       "name": "Binaural Alpha Sinus 110Hz - 121Hz",
       "url": "https://open.spotify.com/track/2Qme02owJbj1RXzZd7fiWM"
@@ -2673,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Connection Alpha 10Hz",
+        "url": "https://open.spotify.com/album/2o33M5zBgQWCniGBpU2jbb"
+      },
+      "artists": [
+        {
+          "name": "Restful SInus",
+          "url": "https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Connection Alpha 10Hz",
+      "url": "https://open.spotify.com/track/4D32XPyh0L8GX07mUDwaoe"
+    },
+    {
+      "album": {
         "name": "Binaural Dreams",
         "url": "https://open.spotify.com/album/3ElQwXi7IKxq7r0mrwd1QR"
       },
@@ -4002,7 +4038,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 235894,
       "name": "Mystical - Alpha Sinus 54,8hz - 57,3 hz",
       "url": "https://open.spotify.com/track/7zO8xgWtAGQpAKEG9n48Yb"

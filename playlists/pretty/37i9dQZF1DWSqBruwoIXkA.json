@@ -1,12 +1,12 @@
 {
   "description": "Somehow heartbreak feels good in a place like this. Cover: Gracie Abrams",
-  "num_followers": 1383924,
+  "num_followers": 1385802,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDEzZjJiZTZiYTBhMGRmMGFkY2NkYzkxOGQ4MmQ4Y2Rm",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGE5ZDRkOWU0OTExNmU3Y2ZkMzdlZmEzMTM5YjIxNDBj",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
     },
     {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 203384,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
-    },
-    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Sigan Hablando",
@@ -671,6 +655,22 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 203384,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -1153,20 +1153,20 @@
       "url": "https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A"
     },
     {
-      "added_at": "2023-01-04 16:45:50",
+      "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Visiting Hours",
-        "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
+        "name": "One More Shot",
+        "url": "https://open.spotify.com/album/0E4WDS5jvqo0AlRtUAeSyM"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "CIL",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Visiting Hours",
-      "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
+      "duration_ms": 141184,
+      "name": "One More Shot",
+      "url": "https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
+        "name": "Visiting Hours",
+        "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Visiting Hours",
+      "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
         "name": "Astronomy",
         "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 243907,
       "name": "Astronomy",
       "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "One More Shot",
-        "url": "https://open.spotify.com/album/0E4WDS5jvqo0AlRtUAeSyM"
-      },
-      "artists": [
-        {
-          "name": "CIL",
-          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
-        }
-      ],
-      "duration_ms": 141184,
-      "name": "One More Shot",
-      "url": "https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "If I Don't Laugh, I'll Cry",
-        "url": "https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb"
-      },
-      "artists": [
-        {
-          "name": "Frawley",
-          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
-        }
-      ],
-      "duration_ms": 198009,
-      "name": "If I Don't Laugh, I'll Cry",
-      "url": "https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "MEAN!",
         "url": "https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 143960,
       "name": "MEAN!",
       "url": "https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "If I Don't Laugh, I'll Cry",
+        "url": "https://open.spotify.com/album/14pYW9pwzrE4t6Z6p8NLCb"
+      },
+      "artists": [
+        {
+          "name": "Frawley",
+          "url": "https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh"
+        }
+      ],
+      "duration_ms": 198009,
+      "name": "If I Don't Laugh, I'll Cry",
+      "url": "https://open.spotify.com/track/7a4YwlUER1m7rkWJjYJRAD"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 158536,
-      "name": "People Watching",
-      "url": "https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -1367,22 +1351,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "chaotic",
-        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "chaotic",
-      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "One Eighty",
         "url": "https://open.spotify.com/album/6rdVcCcUOkf0UbuEm7i5Tu"
       },
@@ -1395,6 +1363,38 @@
       "duration_ms": 204000,
       "name": "Love You From a Distance",
       "url": "https://open.spotify.com/track/4bpyaPa1xruVgE2GtsYbIW"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/03HTFr18vhLwCLFq6kWHIw"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 158536,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/4JeOesjcWWlprTAvucDSJX"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "chaotic",
+        "url": "https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -1429,6 +1429,22 @@
       "url": "https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "LET EM GO",
+        "url": "https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 181159,
+      "name": "LET EM GO",
+      "url": "https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe"
+    },
+    {
       "added_at": "2023-01-04 16:45:50",
       "album": {
         "name": "Difficult",
@@ -1443,6 +1459,22 @@
       "duration_ms": 257881,
       "name": "Difficult",
       "url": "https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 189287,
+      "name": "Don't Tell My Mom",
+      "url": "https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -1463,38 +1495,6 @@
       "duration_ms": 173893,
       "name": "Better Version (feat. Kelsea Ballerini)",
       "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 189287,
-      "name": "Don't Tell My Mom",
-      "url": "https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "LET EM GO",
-        "url": "https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 181159,
-      "name": "LET EM GO",
-      "url": "https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "Broken Memories",
-        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 201306,
-      "name": "I Lost Myself In Loving You",
-      "url": "https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "A Little Bit Yours",
         "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 225680,
       "name": "A Little Bit Yours",
       "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "Broken Memories",
+        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 201306,
+      "name": "I Lost Myself In Loving You",
+      "url": "https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
+        "name": "almost happy",
+        "url": "https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "duration_ms": 137897,
+      "name": "almost happy",
+      "url": "https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
         "name": "these words are all for you too",
         "url": "https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M"
       },
@@ -2111,22 +2127,6 @@
       "duration_ms": 266219,
       "name": "london",
       "url": "https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
-        "name": "almost happy",
-        "url": "https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K"
-      },
-      "artists": [
-        {
-          "name": "elijah woods",
-          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
-        }
-      ],
-      "duration_ms": 137897,
-      "name": "almost happy",
-      "url": "https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -2229,22 +2229,6 @@
       "url": "https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt"
     },
     {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
-        "name": "aurora",
-        "url": "https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 213986,
-      "name": "i can't breathe",
-      "url": "https://open.spotify.com/track/1qFMIjTe9esCDiytqUY19t"
-    },
-    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "paper",
@@ -2263,18 +2247,18 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "Used To It",
-        "url": "https://open.spotify.com/album/4QKovzPdcYflzE9Ooe2z8C"
+        "name": "aurora",
+        "url": "https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU"
       },
       "artists": [
         {
-          "name": "Michal Leah",
-          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
         }
       ],
-      "duration_ms": 162873,
-      "name": "Used To It",
-      "url": "https://open.spotify.com/track/4s2wGb58RztbSvjqUK8w0a"
+      "duration_ms": 213986,
+      "name": "i can't breathe",
+      "url": "https://open.spotify.com/track/1qFMIjTe9esCDiytqUY19t"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -2311,6 +2295,22 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
+        "name": "Used To It",
+        "url": "https://open.spotify.com/album/4QKovzPdcYflzE9Ooe2z8C"
+      },
+      "artists": [
+        {
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        }
+      ],
+      "duration_ms": 162873,
+      "name": "Used To It",
+      "url": "https://open.spotify.com/track/4s2wGb58RztbSvjqUK8w0a"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
         "name": "Aftershock",
         "url": "https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw"
       },
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
-        "name": "started in college (mixtape)",
-        "url": "https://open.spotify.com/album/3HfPgsV9182o2KraJHNQ83"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 242488,
-      "name": "hurt so bad",
-      "url": "https://open.spotify.com/track/4DLgDYAX6lsGXlrUmKJex8"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
         "name": "Survive My Own Mind",
         "url": "https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN"
       },
@@ -2375,6 +2359,22 @@
     {
       "added_at": "2023-01-04 16:45:50",
       "album": {
+        "name": "started in college (mixtape)",
+        "url": "https://open.spotify.com/album/3HfPgsV9182o2KraJHNQ83"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 242488,
+      "name": "hurt so bad",
+      "url": "https://open.spotify.com/track/4DLgDYAX6lsGXlrUmKJex8"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
         "name": "georgia got colder",
         "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
       },
@@ -2387,22 +2387,6 @@
       "duration_ms": 210186,
       "name": "georgia",
       "url": "https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc"
-    },
-    {
-      "added_at": "2023-01-04 16:45:50",
-      "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/1UlArx9Z3TTgNGwOQ2yubC"
-      },
-      "artists": [
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "What A Convincing Illusion",
-      "url": "https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV"
     },
     {
       "added_at": "2023-01-04 16:45:50",
@@ -2439,6 +2423,22 @@
       "duration_ms": 210232,
       "name": "Seeing Other People",
       "url": "https://open.spotify.com/track/3LpbQsIPCrp4nKqmCbx7xi"
+    },
+    {
+      "added_at": "2023-01-04 16:45:50",
+      "album": {
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/1UlArx9Z3TTgNGwOQ2yubC"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "What A Convincing Illusion",
+      "url": "https://open.spotify.com/track/0xErGPogrWKGjWI1bEMLaV"
     },
     {
       "added_at": "2023-01-04 16:45:50",

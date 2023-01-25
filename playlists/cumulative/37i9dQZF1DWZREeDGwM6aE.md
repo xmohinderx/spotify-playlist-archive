@@ -2,7 +2,7 @@
 
 ### [Pioneers](https://open.spotify.com/playlist/37i9dQZF1DWZREeDGwM6aE)
 
-> These LGBTQQIA+ trailblazers knocked doors wide open with their music\. Cover: George Michael
+> These LGBTQIA+ trailblazers knocked doors wide open with their music\. Cover: George Michael
 
 59 songs - 3 hr 49 min
 

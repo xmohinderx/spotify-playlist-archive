@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Thunivu",
+  "description": "New Music from Kollywood.\nCover : Vaathi",
   "name": "Latest Tamil",
   "tracks": [
     {
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 205360,
       "name": "Boologame (From \"Complex\")",
       "url": "https://open.spotify.com/track/5vzzTXcVVyyi5gqC4DzzQa"
@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 193993,
       "name": "Enga Dha Pogudu - From \"Vindhya Victim Verdict\"",
       "url": "https://open.spotify.com/track/6eA10WsIk6UHOyoSCaWWXD"
@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 232553,
       "name": "ENNEDA KOOTHACHU",
       "url": "https://open.spotify.com/track/6jnRqHVzSVuDgeco3uOxuj"
@@ -2526,7 +2526,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 198800,
       "name": "Enta Maatatha (From \"Raid\")",
       "url": "https://open.spotify.com/track/07R9SQOqX8gnRckfg8IorP"
@@ -3016,7 +3016,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 206400,
       "name": "Inky Pinky Ponky",
       "url": "https://open.spotify.com/track/6o7G7zxI9TkcXVk6fi1yOm"
@@ -3160,7 +3160,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 242866,
       "name": "Jambulingame (From \"Kasethan Kadavulada\")",
       "url": "https://open.spotify.com/track/6Q6gFFyJnsZj5YFaXKqN4a"
@@ -3440,7 +3440,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 202221,
       "name": "Kaathama - From \"Bakasuran\"",
       "url": "https://open.spotify.com/track/3vBAhgligTnWQH8fHAhSKK"
@@ -3754,7 +3754,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 255000,
       "name": "Kanala Pakatha - From \"Kaarottiyin Kaadhali\"",
       "url": "https://open.spotify.com/track/6Zdt0dLfguxnCvyIVqcwqo"
@@ -3776,7 +3776,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 247068,
       "name": "Kanamae",
       "url": "https://open.spotify.com/track/3mVUCktOTdWzrvCmy381GL"
@@ -3996,7 +3996,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 232513,
       "name": "Kannukkulle",
       "url": "https://open.spotify.com/track/2neYlVaQCfZfhbMPSmJjp1"
@@ -4156,7 +4156,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 266727,
       "name": "Keechan (Original Soundtrack From \"Om Vellimalai\")",
       "url": "https://open.spotify.com/track/6BCDQfMf1SBC60hWuyUo3l"
@@ -4208,6 +4208,32 @@
       "duration_ms": 216075,
       "name": "Kinguda",
       "url": "https://open.spotify.com/track/1KjrVinctql9AY8mgq30fP"
+    },
+    {
+      "album": {
+        "name": "Kirutu Kirutu (From \"DADA\")",
+        "url": "https://open.spotify.com/album/4kNJDIMb6URhxl4ZuIDrKM"
+      },
+      "artists": [
+        {
+          "name": "Jen Martin",
+          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209323,
+      "name": "Kirutu Kirutu - From \"DADA\"",
+      "url": "https://open.spotify.com/track/40ZJkA8wezwoU0qiwuiBCU"
     },
     {
       "album": {
@@ -4352,7 +4378,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 218400,
       "name": "Koyililea - From \"Kattil\"",
       "url": "https://open.spotify.com/track/0GjNO7x53rO6rINcllgKWO"
@@ -4712,7 +4738,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 229500,
       "name": "Madura Veeran",
       "url": "https://open.spotify.com/track/3eFoAIpRrhGCEISQxnoNFI"
@@ -6032,7 +6058,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 209587,
       "name": "Neeladho",
       "url": "https://open.spotify.com/track/0ZcMqsN9Xa2osfnz0S49dD"
@@ -6224,7 +6250,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 175980,
       "name": "No Soodu No Soranai",
       "url": "https://open.spotify.com/track/1MKYvi7rBs0ZOFtEJiTeHz"
@@ -6672,7 +6698,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 235273,
       "name": "Panakkaran - From \"Naai Sekar Returns\"",
       "url": "https://open.spotify.com/track/0428xNOrMUgPNsIBcCa47m"
@@ -6694,7 +6720,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 246000,
       "name": "Paniththuli",
       "url": "https://open.spotify.com/track/4kAPPLHQaAzKBjhgURUYKL"
@@ -7210,7 +7236,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 232447,
       "name": "Poraare Enna Vittu",
       "url": "https://open.spotify.com/track/28zbdXi2kmdtwM2DLeCqsN"
@@ -7236,7 +7262,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 122175,
       "name": "Porattam - From \"Vendhu Thanindhathu Kaadu\"",
       "url": "https://open.spotify.com/track/7CcxIeSvx9NE2X8EumKGJL"
@@ -7946,7 +7972,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 252923,
       "name": "Saturday is Cominguu (From \"Kick\")",
       "url": "https://open.spotify.com/track/4foDIl6z2Xgf2MbU1SXBk7"
@@ -8180,7 +8206,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 289043,
       "name": "Siva Sivayam - From \"Bakasuran\"",
       "url": "https://open.spotify.com/track/3qpvHAe7Znz0ZmmzhrDloA"
@@ -8636,7 +8662,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 192444,
       "name": "Thanimayilae",
       "url": "https://open.spotify.com/track/7DRkg0g7sooXbjNceq9SQi"
@@ -8702,7 +8728,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 110155,
       "name": "Tharattu (From \"Kumari\")",
       "url": "https://open.spotify.com/track/7k87s5AhF97wRn3PCbxOQ4"
@@ -8720,7 +8746,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 146680,
       "name": "The Arabic Lullaby (Theme Song) - From \"Agent Kannayiram\"",
       "url": "https://open.spotify.com/track/265KETeCFmNcZDuzXdzK3T"
@@ -9000,7 +9026,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 238857,
       "name": "Thoga Mayil Thoga",
       "url": "https://open.spotify.com/track/17hRXL5OLrwXH7AFLkcG5u"
@@ -9283,6 +9309,24 @@
     },
     {
       "album": {
+        "name": "Thalaikoothal",
+        "url": "https://open.spotify.com/album/5trfAcI2hrOQHxlnzKQ3Qu"
+      },
+      "artists": [
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245332,
+      "name": "Uchathula Vennilavu",
+      "url": "https://open.spotify.com/track/1RPx8lDrkQndt3wCnJuMxb"
+    },
+    {
+      "album": {
         "name": "Uchimalai Kaathavaraayan - Single",
         "url": "https://open.spotify.com/album/7ucvGf2TFlZYE0x98CgtIR"
       },
@@ -9508,7 +9552,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 236955,
       "name": "Unna Nenachadhum",
       "url": "https://open.spotify.com/track/43BSpcCWtZKt6HUZujyY6O"
@@ -9570,7 +9614,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 171250,
       "name": "Uraiyum Theeyil",
       "url": "https://open.spotify.com/track/0ByGRiFZIqo2EDQhpa7k5D"
@@ -10454,7 +10498,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 217043,
       "name": "Yaaro Yaaro Iva - From \"Pattathu Arasan\"",
       "url": "https://open.spotify.com/track/2PLN6smipRqWw3gzKtqoTx"
@@ -10752,7 +10796,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 224252,
       "name": "Zara - From \"Farhana\"",
       "url": "https://open.spotify.com/track/4cRf7EgyYqXTavx4ZrisCB"

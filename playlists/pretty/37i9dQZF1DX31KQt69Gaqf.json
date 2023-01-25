@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 183058,
+  "num_followers": 183077,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMGI2YzI1ZWMwOTllMTVjYWUxN2Q1NjZiNGEyNDQ5ZTRi",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDA2NjI3ODFkYTNlYzVmZTRmYzE2YWYzNTkwZWU5ODA4",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "homebody",
-        "url": "https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f"
-      },
-      "artists": [
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "homebody",
-      "url": "https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Can You Afford To Lose Me?",
         "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 221933,
       "name": "The Walls Are Way Too Thin",
       "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "homebody",
+        "url": "https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f"
+      },
+      "artists": [
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "homebody",
+      "url": "https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -527,26 +527,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Like I Used To",
-        "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        },
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 263754,
-      "name": "Like I Used To",
-      "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 187364,
       "name": "Control",
       "url": "https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        },
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 263754,
+      "name": "Like I Used To",
+      "url": "https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Don't Turn Around",
-        "url": "https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 171699,
-      "name": "Don't Turn Around",
-      "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "dusk",
         "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 196440,
       "name": "bon iver",
       "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Don't Turn Around",
+        "url": "https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 171699,
+      "name": "Don't Turn Around",
+      "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Through Water",
-        "url": "https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za"
+        "name": "Gladstone",
+        "url": "https://open.spotify.com/album/5XWJvBc60xAv1WSn3EIPPw"
       },
       "artists": [
         {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+          "name": "Blair Lee",
+          "url": "https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc"
         }
       ],
-      "duration_ms": 234453,
-      "name": "Womxn",
-      "url": "https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr"
+      "duration_ms": 174166,
+      "name": "Gladstone",
+      "url": "https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1315,34 +1315,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Gladstone",
-        "url": "https://open.spotify.com/album/5XWJvBc60xAv1WSn3EIPPw"
+        "name": "Through Water",
+        "url": "https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za"
       },
       "artists": [
         {
-          "name": "Blair Lee",
-          "url": "https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc"
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
         }
       ],
-      "duration_ms": 174166,
-      "name": "Gladstone",
-      "url": "https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "California Screaming",
-        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
-      },
-      "artists": [
-        {
-          "name": "Liz Lawrence",
-          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "California Screaming",
-      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+      "duration_ms": 234453,
+      "name": "Womxn",
+      "url": "https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1363,6 +1347,22 @@
       "duration_ms": 241026,
       "name": "Goodbye Blue",
       "url": "https://open.spotify.com/track/1Hl4xRC4328EyH1cgmpacP"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "California Screaming",
+        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
+      },
+      "artists": [
+        {
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "California Screaming",
+      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Goodnights & Goodbyes",
-        "url": "https://open.spotify.com/album/4N5NLp77oC120qnYEH6a9w"
-      },
-      "artists": [
-        {
-          "name": "Qhairo",
-          "url": "https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk"
-        }
-      ],
-      "duration_ms": 175890,
-      "name": "Goodnights & Goodbyes",
-      "url": "https://open.spotify.com/track/2vZEBUgUkvI8unkULuM5fA"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/3TQO2baR2XJJi6ljcuv47y"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 184483,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/4GEm1plrloLKfg2T4HxCiI"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Goodnights & Goodbyes",
+        "url": "https://open.spotify.com/album/4N5NLp77oC120qnYEH6a9w"
+      },
+      "artists": [
+        {
+          "name": "Qhairo",
+          "url": "https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk"
+        }
+      ],
+      "duration_ms": 175890,
+      "name": "Goodnights & Goodbyes",
+      "url": "https://open.spotify.com/track/2vZEBUgUkvI8unkULuM5fA"
     },
     {
       "added_at": "2021-08-12 14:57:38",

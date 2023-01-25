@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > Bienvenidxs al mundo del bellaqueo, con Uzielito Mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,333 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,354 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 37 | [MODO CHAKALON](https://open.spotify.com/track/5YZfSRxRixDOVR2O5AQL1F) | [Flacco Lapresion](https://open.spotify.com/artist/0vOkRmt817dkOS5As5CBlm), [Charly whest](https://open.spotify.com/artist/5EZZZ6q2iwiuxkTE0DK3os), [Riko mix](https://open.spotify.com/artist/7xI6d9mjFghcnsmZc3Gfv5) | [MODO CHAKALON](https://open.spotify.com/album/4nsCbDdqTlSIIuHxE4KctY) | 2:39 |
 | 38 | [PÉGATE](https://open.spotify.com/track/6OwKm3AXpkr6nO8Rid5e75) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [PÉGATE](https://open.spotify.com/album/4JP9WAcqSyTOaA0DVpMh03) | 2:49 |
 | 39 | [De Tin Marin](https://open.spotify.com/track/5S4pezCIx9zIz1xRVcdOOP) | [DJ Antena](https://open.spotify.com/artist/3x4HzYxQSgtmomxVVlCEiW), [El Habano](https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya) | [De Tin Marin](https://open.spotify.com/album/236aS4CdWzVT1aP9247gf4) | 2:33 |
-| 40 | [Rompe La Discoteca](https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR) | [Dj Bekman](https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F), [Kale “La Evolución”](https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz) | [Rompe La Discoteca](https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi) | 3:36 |
-| 41 | [El Goloso](https://open.spotify.com/track/68QtlyBrzD98s4phcL1fx2) | [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4) | [Flow Pesao](https://open.spotify.com/album/6DL7KLWzBh9VSX0Zaf4LM3) | 2:57 |
+| 40 | [El Goloso](https://open.spotify.com/track/68QtlyBrzD98s4phcL1fx2) | [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4) | [Flow Pesao](https://open.spotify.com/album/6DL7KLWzBh9VSX0Zaf4LM3) | 2:57 |
+| 41 | [Rompe La Discoteca](https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR) | [Dj Bekman](https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F), [Kale “La Evolución”](https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz) | [Rompe La Discoteca](https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi) | 3:36 |
 | 42 | [Sueltate el Dembow](https://open.spotify.com/track/6lW3Zxh9wBch3cNrTMicSq) | [DJ Cobra Monterrey](https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p) | [Sueltate el Dembow](https://open.spotify.com/album/19REskE6qmcBnveMqcIQx7) | 3:03 |
 | 43 | [Flow Soltera](https://open.spotify.com/track/1TEqM0Fg2wGewCRRkOTjRC) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4), [El Betta](https://open.spotify.com/artist/3FhhcDWeH2qAaHg8Xx4h34), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [Flow Soltera](https://open.spotify.com/album/1i8qCWW4j4DuS60X8VyAqy) | 2:53 |
-| 44 | [Mexicana \(feat\. El Malilla\)](https://open.spotify.com/track/73APnBn08CSe4ygy3L3Be8) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [El Futurro](https://open.spotify.com/album/2Cm2aPq6Q9pLWjXvrtBEw4) | 3:03 |
+| 44 | [La Mano \(feat\. Tavo Rayo\)](https://open.spotify.com/track/3YFt3sGjTaCL0kj3YfV4VG) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Tavo Rayo](https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp) | [La Mano \(feat\. Tavo Rayo\)](https://open.spotify.com/album/2sFm2ViF2986w7ljTNKBoR) | 3:07 |
 | 45 | [Goldi Buena](https://open.spotify.com/track/0yKV1lGKbIOmWUDOoEu7PE) | [B.OG](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Goldi Buena](https://open.spotify.com/album/7mCziNGhAO2XFa0HwgZNSq) | 3:14 |
 | 46 | [Melocoton](https://open.spotify.com/track/0Ix9XHG0Zkydd6zTJwQvwF) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Melocoton](https://open.spotify.com/album/0S2Xg135JIHyQuPudBAAQ6) | 3:15 |
 | 47 | [Más Tarde \(Remix\)](https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Más Tarde \(Remix\)](https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 49 | [Oxxo estás ahí?](https://open.spotify.com/track/12QZtyonVLker8V95gYTGB) | [Alexito Mix](https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4) | [Oxxo estás ahí?](https://open.spotify.com/album/1H4Hnnwor3aM8Ceeby2c6N) | 2:54 |
 | 50 | [Que Le Den](https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j) | [DJ Yelkrab](https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9) | [Que Le Den](https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr) | 3:13 |
 
-Snapshot ID: `MTY3NDE5NDQwMCwwMDAwMDAwMGM4ZWRmM2Y3NTYwZjZhYWY2Y2FiOTkxY2EwNjE2NzRh`
+Snapshot ID: `MTY3NDE5NDQwMCwwMDAwMDAwMGQ0MjNhOTI2OGE4ZWU1YjUxMDRlMzViZDYxYzFjNGNl`

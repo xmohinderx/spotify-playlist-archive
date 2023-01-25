@@ -8376,7 +8376,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 246956,
       "name": "Seasons Will Change",
       "url": "https://open.spotify.com/track/5Hu4zGdnLQ3sFyqmS1jDq1"
@@ -10015,6 +10015,24 @@
     },
     {
       "album": {
+        "name": "Together We Rise",
+        "url": "https://open.spotify.com/album/78ib4pW80u75tuZBLCiQ17"
+      },
+      "artists": [
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Together We Rise",
+      "url": "https://open.spotify.com/track/2Rqh32KeH2fB7RaKmXcVWL"
+    },
+    {
+      "album": {
         "name": "Torture",
         "url": "https://open.spotify.com/album/5QY3N522X0F33GXdGnMAoo"
       },
@@ -10800,7 +10818,7 @@
           "url": "https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI"
         },
         {
-          "name": "HANNAH BRINE",
+          "name": "Hannah Brine",
           "url": "https://open.spotify.com/artist/32nQsdJgowPlzIKq9W4WCg"
         }
       ],

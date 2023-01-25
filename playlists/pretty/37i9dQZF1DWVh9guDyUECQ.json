@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 157106,
+  "num_followers": 157190,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMDc0NmViYjMxNWYxNWE2YTNiNzIxODM3NDg5ZWY2NzE0",
+  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMGUyNWYzYjBjNDZlNWExMWU0ZmMxZjEwMzBlOTE3Mzk1",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -931,6 +931,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Entre Nubes",
+        "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "Influencer",
+      "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Por un Momento",
         "url": "https://open.spotify.com/album/0TWGfGBpb1Wf4yPho7QfJs"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 211600,
       "name": "Por un Momento",
       "url": "https://open.spotify.com/track/67qiKkYxt1IAZnWpofkNpJ"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Entre Nubes",
-        "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
-      },
-      "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "Influencer",
-      "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Futuro Contigo",
+        "url": "https://open.spotify.com/album/4F1jlzvEXok5uEPkjorsCe"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 213033,
+      "name": "Futuro Contigo",
+      "url": "https://open.spotify.com/track/6AfHQ4B8pUmIVCBrGAyJTO"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
         "url": "https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 185361,
       "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
       "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Futuro Contigo",
-        "url": "https://open.spotify.com/album/4F1jlzvEXok5uEPkjorsCe"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 213033,
-      "name": "Futuro Contigo",
-      "url": "https://open.spotify.com/track/6AfHQ4B8pUmIVCBrGAyJTO"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Somos Las Voces",
+        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "duration_ms": 242497,
+      "name": "Somos Las Voces",
+      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Yo Te Mir\u00e9",
         "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 178466,
       "name": "Mi Entrenador",
       "url": "https://open.spotify.com/track/3fBRK9zXvruN6etffZMP31"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Somos Las Voces",
-        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
-      },
-      "artists": [
-        {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
-        }
-      ],
-      "duration_ms": 242497,
-      "name": "Somos Las Voces",
-      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Incapaz",
+        "url": "https://open.spotify.com/album/3FusjACa0j3W8boYCkemHs"
+      },
+      "artists": [
+        {
+          "name": "Rosa Karina",
+          "url": "https://open.spotify.com/artist/1KzJGm3pCl6STUWvCVg5sx"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "Incapaz",
+      "url": "https://open.spotify.com/track/61YCTayGinpVgiQa3w4POa"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Mi Entrenador (Remix)",
         "url": "https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 216000,
       "name": "Mi Entrenador - Remix",
       "url": "https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Incapaz",
-        "url": "https://open.spotify.com/album/3FusjACa0j3W8boYCkemHs"
-      },
-      "artists": [
-        {
-          "name": "Rosa Karina",
-          "url": "https://open.spotify.com/artist/1KzJGm3pCl6STUWvCVg5sx"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Incapaz",
-      "url": "https://open.spotify.com/track/61YCTayGinpVgiQa3w4POa"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1831,26 +1831,6 @@
       "duration_ms": 186602,
       "name": "Medicina",
       "url": "https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "A Tu Manera",
-        "url": "https://open.spotify.com/album/2f96IzR5mHpjwIgMKOafuP"
-      },
-      "artists": [
-        {
-          "name": "Mr Eduard",
-          "url": "https://open.spotify.com/artist/0B4bg6OcwQeBmsyQANbobd"
-        },
-        {
-          "name": "KEFFA",
-          "url": "https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9"
-        }
-      ],
-      "duration_ms": 191509,
-      "name": "A Tu Manera",
-      "url": "https://open.spotify.com/track/7B2CuqBGNI1m7lf8ES6dVf"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1915,22 +1895,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt"
+        "name": "A Tu Manera",
+        "url": "https://open.spotify.com/album/2f96IzR5mHpjwIgMKOafuP"
       },
       "artists": [
         {
-          "name": "Rubinsky Rbk",
-          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+          "name": "Mr Eduard",
+          "url": "https://open.spotify.com/artist/0B4bg6OcwQeBmsyQANbobd"
         },
         {
-          "name": "MC Ari",
-          "url": "https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW"
+          "name": "KEFFA",
+          "url": "https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9"
         }
       ],
-      "duration_ms": 217695,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X"
+      "duration_ms": 191509,
+      "name": "A Tu Manera",
+      "url": "https://open.spotify.com/track/7B2CuqBGNI1m7lf8ES6dVf"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1951,6 +1931,26 @@
       "duration_ms": 210266,
       "name": "TBT",
       "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        },
+        {
+          "name": "MC Ari",
+          "url": "https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW"
+        }
+      ],
+      "duration_ms": 217695,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X"
     }
   ],
   "unique_name": "Flow Cristiano",

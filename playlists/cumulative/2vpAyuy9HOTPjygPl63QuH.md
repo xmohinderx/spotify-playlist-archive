@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-701 songs - 1 day 16 hr 29 min
+702 songs - 1 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,6 +444,7 @@
 | [NY to LA](https://open.spotify.com/track/0XZrLV8OiyMLUCsrXNcUGY) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [NY to LA](https://open.spotify.com/album/2dEumeqVokgmhe1yvJCkvl) | 2:53 | 2022-11-18 | 2022-11-29 |
 | [Off](https://open.spotify.com/track/06blT8c7DTeObxSvZB4s64) | [Hooders](https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS), [NAØ](https://open.spotify.com/artist/4WPTQlsGkmMFfBgmLBZUPA) | [Off](https://open.spotify.com/album/6aM363O4XMXHBpFH5WHTQL) | 2:30 | 2022-08-05 | 2022-09-03 |
 | [Old Dogs Groove](https://open.spotify.com/track/2DFDqK6DZgboonzKhGjhdr) | [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo) | [Old Dogs Groove / Pure NRG](https://open.spotify.com/album/2UphPjQMbhOQ4QaLSTdb5s) | 5:06 | 2022-07-29 | 2022-08-06 |
+| [On The Beach \- Eli Brown Remix](https://open.spotify.com/track/2mHsfuHrY40djfLRFVxCm2) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [On The Beach \(Eli Brown Remix\)](https://open.spotify.com/album/1LCjO7MbI7HFAdce5VxnCN) | 3:29 | 2023-01-24 |  |
 | [On The Mind](https://open.spotify.com/track/5hWH3qZjiEkuAdy4wjnN7n) | [Pirate Snake](https://open.spotify.com/artist/6GC33IJFo0PDw5bsazEzpj), [Rettake](https://open.spotify.com/artist/2sa3ArlnMSXJNuJDf84THa) | [On The Mind](https://open.spotify.com/album/1bI5Fq35DbaD8d7NGIfx2l) | 2:53 | 2022-05-13 | 2022-05-30 |
 | [Once Again](https://open.spotify.com/track/5kaatP5lWXawzDDSTvRWGE) | [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [Once Again](https://open.spotify.com/album/5MNMuP8EQZzh5zVBPgjHFK) | 3:24 | 2022-07-29 | 2022-08-06 |
 | [Once Again](https://open.spotify.com/track/7oJ2XhNFQvF4vjJA9BR4i2) | [LALZIN](https://open.spotify.com/artist/0j4hdmNGBCznlyeFs618eM), [APIX](https://open.spotify.com/artist/0LwYeiqMBiWwxeSwnwmZwt) | [Once Again](https://open.spotify.com/album/77HAIMrwzEVPIsKdYQvDtT) | 3:35 | 2022-10-07 | 2022-10-15 |

@@ -8266,7 +8266,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 201733,
       "name": "Griffith Park",
       "url": "https://open.spotify.com/track/2QyOjjcHa5OY31zBlZOF2z"
@@ -10494,7 +10494,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 170310,
       "name": "ihy",
       "url": "https://open.spotify.com/track/40zIP85t03fk8iHAlmzmtt"
@@ -19086,7 +19086,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -21706,7 +21706,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": "2020-11-03",
+      "date_removed": null,
       "duration_ms": 147764,
       "name": "trix",
       "url": "https://open.spotify.com/track/1CwkW8d3LxrMdz99PfN8SQ"
@@ -22023,6 +22023,24 @@
     },
     {
       "album": {
+        "name": "Under Tongues",
+        "url": "https://open.spotify.com/album/3papMg5gqRS5qpPg7wje4G"
+      },
+      "artists": [
+        {
+          "name": "James Ivy",
+          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170735,
+      "name": "Under Tongues",
+      "url": "https://open.spotify.com/track/00UvGIak7DDF3HsLZX43ml"
+    },
+    {
+      "album": {
         "name": "Unimpressed",
         "url": "https://open.spotify.com/album/0PeNDGDKTdFwwdOmKMFrio"
       },
@@ -22114,6 +22132,28 @@
       "duration_ms": 187273,
       "name": "upside down",
       "url": "https://open.spotify.com/track/6bfZzQWM6AJU8ER00jY2rx"
+    },
+    {
+      "album": {
+        "name": "ur the devil and i\u2019ve seen the truth (feat. Verzache)",
+        "url": "https://open.spotify.com/album/1j1VISKM5ayELFLFUPu0nn"
+      },
+      "artists": [
+        {
+          "name": "remy",
+          "url": "https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw"
+        },
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158173,
+      "name": "ur the devil and i\u2019ve seen the truth (feat. Verzache)",
+      "url": "https://open.spotify.com/track/3k1IuNcDLXsB191yDLmoDm"
     },
     {
       "album": {

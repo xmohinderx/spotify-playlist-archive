@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. yves tumor
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,401 likes - 85 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,562 likes - 85 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 7 | [DEATHWISH](https://open.spotify.com/track/3yaX8Vf44B5Ou63LMPjTdw) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [DEATHWISH](https://open.spotify.com/album/3UYh3uBNQeQ5nagIafCnZy) | 2:47 |
 | 8 | [KILL ALL PREDATORS](https://open.spotify.com/track/116m1FqbddR1KEFTw7ZItH) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [KILL ALL PREDATORS](https://open.spotify.com/album/33OtJjrHXYS7cHY7O6NDXn) | 2:05 |
 | 9 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 |
-| 10 | [I Really Fucked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 |
+| 10 | [I Really F\*\*ked It Up](https://open.spotify.com/track/4MTPjzLzoi4HiR5fRAQ2Hx) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [I Really F\*\*ked It Up](https://open.spotify.com/album/6N1ZdKUo4kw13gQMGQX4iZ) | 2:45 |
 | 11 | [Drown](https://open.spotify.com/track/2jPqRiw1kJvxDKIibCPhHu) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Drown](https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge) | 2:46 |
 | 12 | [Carnage](https://open.spotify.com/track/61nAGjTRLqb8JlBVNt5Wah) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL), [Lucy Loone](https://open.spotify.com/artist/0seIM4z37CkUcsuu7kpzF9) | [Carnage](https://open.spotify.com/album/1V4PSOqCvobqCAZcbLsBc0) | 3:36 |
 | 13 | [SADIST](https://open.spotify.com/track/0x2BBTnwlR3StGFVM7mZmr) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY PHONK](https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj) | 3:19 |

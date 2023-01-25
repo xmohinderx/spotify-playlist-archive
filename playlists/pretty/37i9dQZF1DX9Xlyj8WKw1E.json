@@ -1,13 +1,33 @@
 {
-  "description": "Midwest music breaking waves. Cover, Babyface Ray",
-  "num_followers": 2490,
+  "description": "Midwest music breaking waves. Cover, Trippie Red",
+  "num_followers": 2492,
   "original_name": "Ripple Effect:  Midwest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU5MTI5NywwMDAwMDAwMGE1NDllYTMzMzkyMWE1MjgzZjE4ZWNiNThjNTlkMWY0",
+  "snapshot_id": "MTY3NDU0MTczNiwwMDAwMDAwMDk0ZTU4OWZiZTFkMzgzYTdhNDNiOTdhZTg1ZGNiNDY3",
   "tracks": [
+    {
+      "added_at": "2023-01-24 06:28:56",
+      "album": {
+        "name": "MANSION MUSIK",
+        "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "ATLANTIS (feat. Chief Keef)",
+      "url": "https://open.spotify.com/track/61KJmkiPBcNr5oLzDNTUt2"
+    },
     {
       "added_at": "2022-12-02 05:00:00",
       "album": {
@@ -209,26 +229,6 @@
       "url": "https://open.spotify.com/track/0noJPiJ7nLUrh0oPWhZK2f"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Twin (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 148855,
-      "name": "Twin (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4"
-    },
-    {
       "added_at": "2023-01-13 06:28:17",
       "album": {
         "name": "Play My Hand",
@@ -269,36 +269,24 @@
       "url": "https://open.spotify.com/track/6c1SOrVIqQ7NzdtWUBhlkw"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
+      "added_at": "2023-01-24 06:28:56",
       "album": {
-        "name": "Duffle Bag",
-        "url": "https://open.spotify.com/album/4vzAatBLzFd0h5Q3m5kBKG"
+        "name": "MANSION MUSIK",
+        "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
       },
       "artists": [
         {
-          "name": "Fargo",
-          "url": "https://open.spotify.com/artist/09K3a0notqoP1MFnyBfRAb"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
-          "name": "Peso Da Goon",
-          "url": "https://open.spotify.com/artist/33YOw3idBhwSFkYkktqssV"
-        },
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        },
-        {
-          "name": "Almighty Suspect",
-          "url": "https://open.spotify.com/artist/4y5IK8VBswkl40ltpHI5o9"
-        },
-        {
-          "name": "Frostydasnowmann",
-          "url": "https://open.spotify.com/artist/2Bb57H1EnnHxtpSyOAJF8l"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 160052,
-      "name": "Duffle Bag",
-      "url": "https://open.spotify.com/track/4hXjFFaoPBwCytlb6IAs4d"
+      "duration_ms": 230136,
+      "name": "KRZY TRAIN (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6SroqZFR8fPAcvhteW5y9W"
     },
     {
       "added_at": "2022-10-25 18:09:02",
@@ -431,50 +419,6 @@
       "duration_ms": 168963,
       "name": "PYS (feat. DJ Paul)",
       "url": "https://open.spotify.com/track/7kAyuqFCU2iYqeUao2cO21"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Ain\u2019t Safe (feat. Don Toliver)",
-        "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 166514,
-      "name": "Ain\u2019t Safe (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
-    },
-    {
-      "added_at": "2022-10-25 18:09:02",
-      "album": {
-        "name": "My Friends (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 158167,
-      "name": "My Friends (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV"
     },
     {
       "added_at": "2022-10-25 18:09:02",
@@ -667,6 +611,30 @@
       "duration_ms": 166265,
       "name": "It's All on U",
       "url": "https://open.spotify.com/track/1OuEacOzBBWWPOGb7MgbZ3"
+    },
+    {
+      "added_at": "2023-01-24 06:28:56",
+      "album": {
+        "name": "Hachi-Roku",
+        "url": "https://open.spotify.com/album/0yWMXQE6cdINoVVheDLVlH"
+      },
+      "artists": [
+        {
+          "name": "Moth Circuit",
+          "url": "https://open.spotify.com/artist/6DICHk6Kuiy6Em2aaOJ6i0"
+        },
+        {
+          "name": "Beamon",
+          "url": "https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K"
+        },
+        {
+          "name": "Zenfuse",
+          "url": "https://open.spotify.com/artist/3IZ3bQWAIF1cJuHKCk5DE2"
+        }
+      ],
+      "duration_ms": 242183,
+      "name": "Hachi-Roku",
+      "url": "https://open.spotify.com/track/6VFPeWZx43yK2NbJDvg2Ya"
     },
     {
       "added_at": "2022-09-30 22:50:58",
@@ -1021,20 +989,48 @@
       "url": "https://open.spotify.com/track/2alQSwrYoIRVZyOTNYIFss"
     },
     {
-      "added_at": "2022-09-24 04:23:57",
+      "added_at": "2023-01-24 06:28:56",
       "album": {
-        "name": "Crystal Cadillac",
-        "url": "https://open.spotify.com/album/4pjgoQi1exDicEnUzR9jl2"
+        "name": "Cnt Go Back ( Tell Me )",
+        "url": "https://open.spotify.com/album/19IJl9Ff6Zm225nGWkFEZo"
       },
       "artists": [
         {
-          "name": "Mother Nature",
-          "url": "https://open.spotify.com/artist/26ZWUilLv1qNvIdoBgq990"
+          "name": "B. Cool-Aid",
+          "url": "https://open.spotify.com/artist/2Ng5YIxfFxELV3scQVISlB"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        },
+        {
+          "name": "Ahwlee",
+          "url": "https://open.spotify.com/artist/5vNXUBHObHA5ToiPJjtmxh"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Jimetta Rose",
+          "url": "https://open.spotify.com/artist/7FjGU7aqZcwNk3ICLLmcSX"
+        },
+        {
+          "name": "V.C.R",
+          "url": "https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw"
+        },
+        {
+          "name": "Maurice II",
+          "url": "https://open.spotify.com/artist/6wDtTz98zt1uni7UC0L2Zd"
         }
       ],
-      "duration_ms": 187764,
-      "name": "Crystal Cadillac",
-      "url": "https://open.spotify.com/track/2WSvjuF9EdlvpxHP250vyP"
+      "duration_ms": 311078,
+      "name": "Cnt Go Back ( Tell Me )",
+      "url": "https://open.spotify.com/track/4R46ReBxBXjhEQhY2Gh4Jy"
     },
     {
       "added_at": "2022-12-02 05:00:00",

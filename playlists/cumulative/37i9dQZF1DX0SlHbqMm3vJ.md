@@ -4,7 +4,7 @@
 
 > A collection of old and new R&B cuts from West Africa’s finest artists\. Cover: Omah Lay
 
-296 songs - 15 hr 4 min
+297 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 | 2021-10-14 |  |
 | [Never Let A Man Down](https://open.spotify.com/track/4E5kG2CpwJsW9iAIdSZEaY) | [Defayo](https://open.spotify.com/artist/1orV5Yry14101cKe3l9Vpn), [Elisa M.](https://open.spotify.com/artist/5jKK9Tj16bdt1NnorZ9Lbs) | [Never Let A Man Down](https://open.spotify.com/album/1gKcDUITpQHePNvCqX7SXR) | 3:07 | 2022-03-31 | 2022-09-10 |
 | [Never Love Again](https://open.spotify.com/track/0NLRTMtyvgX4HC9Yyf7fO9) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Never Love Again](https://open.spotify.com/album/0DyQM70GwzJIhxLDHeaULt) | 3:05 | 2021-11-25 | 2022-02-10 |
+| [Never Strong](https://open.spotify.com/track/0LCz6RWJVHZistEi1JQ3S1) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [19](https://open.spotify.com/album/7Dp8pXGvjCbBIfzwhoo8sE) | 3:39 | 2023-01-12 |  |
 | [No Love \(18 Plus\)](https://open.spotify.com/track/79OOvZE5uMhVJE6m2l0mPa) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [No Love \(18 Plus\)](https://open.spotify.com/album/0oyBl0Gt0gQGIjyUGssjX1) | 3:47 | 2022-11-25 | 2022-12-19 |
 | [No Stress](https://open.spotify.com/track/1rXzcrYcx3NKABg3WeCJ6R) | [BemiSoul](https://open.spotify.com/artist/3plhRccR9ys3hl9ctCPRn8) | [No Stress](https://open.spotify.com/album/7BxNfBhoI2rlXYJeoAjlyx) | 3:06 | 2022-02-10 | 2022-02-17 |
 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 | 2022-07-28 | 2022-09-24 |

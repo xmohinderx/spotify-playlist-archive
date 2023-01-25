@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Låpsley
 
-1,245 songs - 3 day 1 hr 53 min
+1,246 songs - 3 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [ANTIFREEZE](https://open.spotify.com/track/6hVwUD1XjVGsX9GBUcoEYc) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [ANTIFREEZE](https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY) | 3:29 | 2022-09-15 | 2022-10-07 |
 | [Anxiety Feels](https://open.spotify.com/track/554YvRjUULlv1JI1hMY6gE) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [On All Fours](https://open.spotify.com/album/6DcAHOjKGAzytkGp7DNrbE) | 3:39 | 2021-01-29 | 2021-03-19 |
 | [Any Dreams?](https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Where I Should End](https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v) | 5:18 | 2021-06-25 | 2021-08-27 |
-| [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 | 2022-10-20 |  |
+| [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 | 2022-10-20 | 2023-01-25 |
 | [Anywhere](https://open.spotify.com/track/3C6zpM5YpQCjnQ1aS6MYT2) | [Frills](https://open.spotify.com/artist/6YY4AQPjE7JqwpkqyPRfid) | [Anywhere](https://open.spotify.com/album/7jMkel9QkSIE00TiXMaPox) | 2:57 | 2021-04-02 | 2021-06-11 |
 | [Apple Crumble](https://open.spotify.com/track/6a3e0ES98H65XIXuJ3Af8A) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Apple Crumble](https://open.spotify.com/album/6NfvwbhWAfoIn88gazTnVB) | 3:09 | 2021-09-24 | 2021-11-05 |
 | [Are You Bored Yet? \(feat\. Clairo\) \- Mura Masa Remix](https://open.spotify.com/track/4jgAfg7f9Wf6p4sIWYeOi3) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Are You Bored Yet? \(feat\. Clairo\) \[Mura Masa Remix\]](https://open.spotify.com/album/6wfbONYZZCJUAdKj2clYla) | 3:16 | 2020-09-29\* | 2020-10-24 |
@@ -455,6 +455,7 @@
 | [Gone \(with Jensen McRae\)](https://open.spotify.com/track/4r2dg3p484bp0XUoB88P3b) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Gone](https://open.spotify.com/album/2BCjIiPpmiElGDN52fLmzI) | 2:54 | 2021-07-15 | 2021-08-06 |
 | [Good For Now \(feat\. Lucky Daye\)](https://open.spotify.com/track/5WPYImh8k1kFyooMlSHUrq) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Good For Now](https://open.spotify.com/album/52BKuBmSjUQ1b5MMGZJhCt) | 4:01 | 2023-01-13 |  |
 | [Good Girls](https://open.spotify.com/track/4HOM1n4aJDBDeMe3llCftS) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Good Girls](https://open.spotify.com/album/5VcvcMtcvaoZ31Fe3gbP3g) | 3:19 | 2021-07-15 | 2021-09-17 |
+| [Good Morning](https://open.spotify.com/track/34mhLI14KFylX1woJYweSL) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Good Morning](https://open.spotify.com/album/3TJm6KCMo2ltFXio5eAawH) | 3:16 | 2023-01-24 |  |
 | [Good Stuff](https://open.spotify.com/track/4azvuhzMvNQjODk5yHFDSx) | [Chi Virgo](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Good Stuff](https://open.spotify.com/album/6y7dP6U0jvz5vvGlywkq9l) | 2:18 | 2022-10-13 | 2022-11-25 |
 | [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 | 2022-06-02 | 2022-09-02 |
 | [Good While It Lasted](https://open.spotify.com/track/4GjzTwHiTbRBGbAzvOTtRu) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 3:02 | 2021-01-15 | 2021-02-12 |

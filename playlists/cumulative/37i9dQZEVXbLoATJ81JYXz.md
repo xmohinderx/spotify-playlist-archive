@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,163 songs - 2 day 12 hr 59 min
+1,164 songs - 2 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-09 | 2022-05-08 |
 | [First Times](https://open.spotify.com/track/5QYnNhTKsN3kE7OaqILA1U) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:05 | 2021-10-31 | 2021-11-03 |
 | [Flaggan i topp \- Sveriges Officiella EM\-låt 2021](https://open.spotify.com/track/7w2sCUWVAop5sTmikAdhCD) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [Flaggan i topp \(Sveriges Officiella EM\-låt 2021\)](https://open.spotify.com/album/4XmjaZgZN8gfp3XtSDYVye) | 3:29 | 2021-05-23 | 2021-08-01 |
-| [FLEX](https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [FLEX](https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf) | 2:14 | 2023-01-07 | 2023-01-24 |
+| [FLEX](https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [FLEX](https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf) | 2:14 | 2023-01-07 |  |
 | [Flickorna i Båstad](https://open.spotify.com/track/1oBnt1oJbdJkD3bl9dBDhq) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Flickorna i Båstad](https://open.spotify.com/album/4z9tC7t9WATSNi3ikxrjE8) | 2:38 | 2021-07-18 | 2021-09-24 |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-16 | 2022-04-30 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-15 |  |
@@ -939,7 +939,7 @@
 | [Som ett minne blott](https://open.spotify.com/track/3WiVbKsEJhierVISxoc07e) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Som ett minne blott](https://open.spotify.com/album/7wmvCiobMOZO4MMgXZCtKE) | 3:11 | 2022-08-20 | 2022-09-20 |
 | [Someone Like You](https://open.spotify.com/track/5lkpeJwmQKgY3bX2zChjxX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 4:45 | 2021-10-19 | 2021-10-23 |
 | [Sommar sommar sol](https://open.spotify.com/track/7g6duGh0B6V4w0orEDAaDO) | [JLC](https://open.spotify.com/artist/1AIEHTv6we8ULBARv1572n) | [Sommar sommar sol](https://open.spotify.com/album/1Xr85aBI8W3D4vRt14NvL7) | 3:25 | 2021-06-27 | 2022-06-27 |
-| [Sommaren](https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Sommaren](https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043) | 2:53 | 2023-01-23 |  |
+| [Sommaren](https://open.spotify.com/track/4icP6ZujBOr7XQ7ghKVyt4) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Sommaren](https://open.spotify.com/album/1hDeGA8SN9NIimQwgEQ043) | 2:53 | 2023-01-23 | 2023-01-25 |
 | [Sommaren i City](https://open.spotify.com/track/4XoOCFKvikhwp0UcpBwJsO) | [Angel](https://open.spotify.com/artist/7FjElQ2FxgAbDGSrcE7K6O) | [Äventyr i natten](https://open.spotify.com/album/3qDZfMENzkFuPmUQC14pf7) | 3:41 | 2021-06-27 | 2022-06-27 |
 | [Sommaren är kort](https://open.spotify.com/track/2W7tzqjAPXG97RthXx6pNR) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Bonus Track Version](https://open.spotify.com/album/6Z2Q0V5dalO2v1geFWi4cp) | 3:03 | 2021-06-27 | 2022-06-29 |
 | [Sommarn är över \(feat\. Eah\)](https://open.spotify.com/track/1XGr0Rdlrtx6QOUjw91lRX) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao), [Eah](https://open.spotify.com/artist/4Uj4hzPZNXOTHGdOsnCcF0) | [Sommarn är över \(feat\. Eah\)](https://open.spotify.com/album/4x6jVOB2d25n5WqHtCe9Mk) | 3:16 | 2021-08-15 | 2021-09-05 |
@@ -1084,7 +1084,8 @@
 | [VAD E DE HÄR?](https://open.spotify.com/track/30wWZkgDfUCugZlBiaDCax) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [VAD E DE HÄR?](https://open.spotify.com/album/7c5UGlBUaND72lQ8lMesHv) | 2:41 | 2022-07-16 | 2022-07-31 |
 | [Valborg](https://open.spotify.com/track/0Hz0ySp6XYrBhEQPU16Hz8) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Det kommer aldrig va över för mig](https://open.spotify.com/album/4y7g9dQcKkmBBNtMYhHxQs) | 3:18 | 2022-05-01 | 2022-08-31 |
 | [Validé](https://open.spotify.com/track/3Af2e2acP6vORYDDFyYD8s) | [Macky](https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk) | [Validé](https://open.spotify.com/album/3FbiSvO5wreUXBL4duU9qJ) | 2:56 | 2021-07-10 | 2021-07-11 |
-| [Vandraren](https://open.spotify.com/track/208L6npsyAKCgydKH9IX3k) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Vandraren](https://open.spotify.com/album/6gNxWsQvqHR1M98lOdRMqz) | 3:29 | 2022-12-05 |  |
+| [Vandraren](https://open.spotify.com/track/208L6npsyAKCgydKH9IX3k) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Vandraren](https://open.spotify.com/album/6gNxWsQvqHR1M98lOdRMqz) | 3:29 | 2022-12-05 | 2023-01-25 |
+| [Vandraren](https://open.spotify.com/track/6RM3nkmx7A6BRUpNkA6SCM) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Så mycket bättre 2022 \- Tolkningarna](https://open.spotify.com/album/20TlyZgpi1xGo3C4ECtG7h) | 3:29 | 2023-01-24 |  |
 | [Var vi kom ifrån](https://open.spotify.com/track/3AQeu8617zqR2i8vYva8Jv) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 3:58 | 2022-05-28 | 2022-05-31 |
 | [Vara jag](https://open.spotify.com/track/4uNqbRT4aZDcVQMfrg6RUP) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Vara jag](https://open.spotify.com/album/2rgcBjdReUbm1x0q219YtJ) | 2:06 | 2022-08-07 | 2022-08-21 |
 | [Varsomhelst/Närsomhelst \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/6CodyRtMuUIe8F7OvV7US9) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Varsomhelst/Närsomhelst \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/0ROZR11tK42lCB4dByJwU5) | 2:59 | 2021-09-05 | 2021-10-05 |

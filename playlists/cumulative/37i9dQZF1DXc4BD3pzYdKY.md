@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  Aaron Cole
 
-729 songs - 1 day 12 hr 43 min
+730 songs - 1 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [In My Head](https://open.spotify.com/track/3AxC396pvo1dPRFB7fw1us) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0qv11cftdlXWujDCJE53EM) | 2:55 | 2022-03-12 | 2022-08-07 |
 | [in my head.](https://open.spotify.com/track/7aGqOgnbBv83EB3zre98FC) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [in my head.](https://open.spotify.com/album/0CyVubSqlA6nLuwwEFEt01) | 3:23 | 2022-11-11 |  |
 | [In the Garden](https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT) | [Vonte Grace](https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [In the Garden](https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf) | 3:40 | 2022-04-29 | 2022-08-07 |
+| [INSTAGRAM ISN'T GOD](https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [INSTAGRAM ISN'T GOD](https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh) | 3:07 | 2022-11-25 |  |
 | [Irresponsible](https://open.spotify.com/track/4ag9fLWCLsiZgj1GvK52GE) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Irresponsible](https://open.spotify.com/album/0L4s7cWKEUFvAthWfWtDtT) | 3:28 | 2021-12-11 | 2022-04-29 |
 | [Is That Okay?](https://open.spotify.com/track/3FhQVWIymc22pRKRc0F53k) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Feared By Hell \(Reanimation\)](https://open.spotify.com/album/3AskOToQ9Ar7gA25H1C7WN) | 4:24 | 2021-12-11 | 2022-04-29 |
 | [IT'S THE VIBE FOR ME](https://open.spotify.com/track/3o4F7hk73cX0kRdKnwa09H) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [IT'S THE VIBE FOR ME](https://open.spotify.com/album/64SKeDQBWCHXY3EPPWAbHk) | 2:08 | 2022-02-04 | 2022-04-29 |
@@ -470,7 +471,7 @@
 | [Out With a Bang](https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa) | [Out With a Bang](https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm) | 2:15 | 2021-12-11 | 2022-05-27 |
 | [OUTSIDE](https://open.spotify.com/track/3im4L4mmgryJoEoLLAhM95) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Mogli the Iceburg](https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy), [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl) | [OUTSIDE](https://open.spotify.com/album/5akUzzLXDVA24Lvj1k48NR) | 3:30 | 2021-12-11 | 2022-02-05 |
 | [Outta Reach](https://open.spotify.com/track/5oImTA2OSoJZYJ9TWhm2bs) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [Outta Reach](https://open.spotify.com/album/68NCbrxH4fyovMaUuTP9hK) | 3:00 | 2021-12-11 | 2022-02-01 |
-| [Outta Your Way](https://open.spotify.com/track/1YaCdYraH4jOOPlTAbusCG) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Outta Your Way](https://open.spotify.com/album/5F0Whx3yIBOSd0lXw8Xj3a) | 2:42 | 2022-11-25 |  |
+| [Outta Your Way](https://open.spotify.com/track/1YaCdYraH4jOOPlTAbusCG) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Outta Your Way](https://open.spotify.com/album/5F0Whx3yIBOSd0lXw8Xj3a) | 2:42 | 2022-11-25 | 2023-01-25 |
 | [Over and Over](https://open.spotify.com/track/1kBvcW28lal4JwmPD6aMQv) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Over and Over](https://open.spotify.com/album/73rZp6L2ltPrj0zevRg7p6) | 3:09 | 2022-02-04 | 2022-07-28 |
 | [Overflow](https://open.spotify.com/track/46D2mvIxmuEL5YhdBHsQ4L) | [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Overflow](https://open.spotify.com/album/2ce9aI6qj6mOQOKT1cHs3P) | 3:25 | 2022-05-28 | 2022-07-28 |
 | [Overthinking II](https://open.spotify.com/track/2g2Y7X3fSVDAwETHClGCKi) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Overthinking II](https://open.spotify.com/album/4HYA9XnVgoBA6tHQd6grzr) | 2:40 | 2022-05-28 | 2022-07-29 |

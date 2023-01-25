@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,914 likes - 62 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,149 likes - 62 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 54 | [Beneath Your Beautiful](https://open.spotify.com/track/2VbY7KIocmOnyESMFJkvnk) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [Floritatura](https://open.spotify.com/album/5XLiLgTWItJ7c7PHr8cpEk) | 3:58 |
 | 55 | [Nothing Compares To You](https://open.spotify.com/track/2tZw7jaxDXM7klb1lEL3u2) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Nothing Compares To You](https://open.spotify.com/album/6pfu6QZu1gPxpzUXr73HzN) | 2:25 |
 | 56 | [Ain't No Sunshine](https://open.spotify.com/track/6yLcsEgiCCn6gxVXtGCWQz) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx) | [Cello Covers](https://open.spotify.com/album/1rhVOuaB488YSTGUl5GuvJ) | 2:06 |
-| 57 | [Papa, Can You Hear Me?](https://open.spotify.com/track/3ZfBUAzlJwJzctLtxykX5b) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Papa, Can You Hear Me?](https://open.spotify.com/album/0s8h7hCUsE7sXp9ZtV4FFK) | 4:41 |
+| 57 | [Papa, Can You Hear Me?](https://open.spotify.com/track/3ZfBUAzlJwJzctLtxykX5b) | [Elliott Jack Sansom](https://open.spotify.com/artist/3umCEdMTP9fjBnfclPxi1Z) | [Papa, Can You Hear Me?](https://open.spotify.com/album/0s8h7hCUsE7sXp9ZtV4FFK) | 4:41 |
 | 58 | [Shape of My Heart](https://open.spotify.com/track/1snRw3CQImnuTq7UaX6Are) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Shape of My Heart](https://open.spotify.com/album/6rpczEJb2gH66izQHWYLNj) | 5:44 |
 | 59 | [All Of Me](https://open.spotify.com/track/1BpGZ5bqIC0F6nbK27G4xP) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/20Et1l6jsJdticffIphZQP) | 3:18 |
 | 60 | [Dance Monkey](https://open.spotify.com/track/2yKwUvawwvock24y5EAl4g) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Dance Monkey](https://open.spotify.com/album/49lYvjArPlTqsn4O10ti44) | 2:52 |

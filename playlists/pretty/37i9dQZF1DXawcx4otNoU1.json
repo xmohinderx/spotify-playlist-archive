@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 463151,
+  "num_followers": 463408,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIxMjQwMCwwMDAwMDAwMGY0ODhlY2ZiMGFiNTc2ZTQ3NDllMjVjOTMxYmYzMDdm",
+  "snapshot_id": "MTY3NDU2MDM2MiwwMDAwMDAwMDMyM2ZlYzlkNGQ4MjU5Y2FjMzZkNTQyZjY1OTEyNWE3",
   "tracks": [
     {
       "added_at": "2023-01-20 11:00:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "No Angel",
         "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Room For Squares",
         "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -519,22 +535,6 @@
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "A Girl Like Me",
-        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 236680,
-      "name": "We Ride",
-      "url": "https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Staying at Tamara's (Acoustic Tracks and Demo Versions)",
         "url": "https://open.spotify.com/album/3a5fhHq6UT9KKSYxl6VviQ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 211715,
       "name": "Hold My Girl (Acoustic Version)",
       "url": "https://open.spotify.com/track/4VjhuvbfM5yW0qDGvY4aJQ"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 236680,
+      "name": "We Ride",
+      "url": "https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "I'll Never Love",
-      "url": "https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Once In a While (Acoustic)",
         "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 231582,
       "name": "Once In a While - Acoustic",
       "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "I'll Never Love",
+      "url": "https://open.spotify.com/track/6GVSdu24y9O1NA6DME7CkV"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1903,6 +1903,26 @@
       "duration_ms": 227252,
       "name": "I'm In Love with You",
       "url": "https://open.spotify.com/track/6CAJfBlMsYUtkI7fBAXE6Y"
+    },
+    {
+      "added_at": "2023-01-24 11:39:22",
+      "album": {
+        "name": "Super",
+        "url": "https://open.spotify.com/album/1hmpZwKow6UgeZalIw7qq6"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        },
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/0uy7gpsoHJvXBU7EI1c80W"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -2207,22 +2227,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
-      },
-      "artists": [
-        {
-          "name": "Elle Eliades",
-          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Rebekah - EP",
         "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
       },
@@ -2235,6 +2239,22 @@
       "duration_ms": 200747,
       "name": "Rebekah",
       "url": "https://open.spotify.com/track/18RQoXcen7pcKhFreuN02y"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
+      },
+      "artists": [
+        {
+          "name": "Elle Eliades",
+          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -2415,22 +2435,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "High Tide",
-        "url": "https://open.spotify.com/album/4Ch60olKAVGKPhHtSPrmKx"
-      },
-      "artists": [
-        {
-          "name": "Nick Yoon",
-          "url": "https://open.spotify.com/artist/0RFlTR5N3zJ9tmEvBn6Af2"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "High Tide",
-      "url": "https://open.spotify.com/track/0eWVJ7gQPP0HcZOAuAzzi4"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Darlin'",
         "url": "https://open.spotify.com/album/3zEx0nbpsh47AsKDlw8ofp"
       },
@@ -2451,6 +2455,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "High Tide",
+        "url": "https://open.spotify.com/album/4Ch60olKAVGKPhHtSPrmKx"
+      },
+      "artists": [
+        {
+          "name": "Nick Yoon",
+          "url": "https://open.spotify.com/artist/0RFlTR5N3zJ9tmEvBn6Af2"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/0eWVJ7gQPP0HcZOAuAzzi4"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "Entwined",
         "url": "https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94"
       },
@@ -2463,22 +2483,6 @@
       "duration_ms": 248895,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6NqWkjJYrl0btI44T9dTjg"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "Sex + Hennessy",
-        "url": "https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK"
-      },
-      "artists": [
-        {
-          "name": "Eimizah",
-          "url": "https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Sex + Hennessy",
-      "url": "https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -2499,22 +2503,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "The More",
-        "url": "https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np"
+        "name": "Sex + Hennessy",
+        "url": "https://open.spotify.com/album/2NaZ8ZcWj5TDeQsgJEicvK"
       },
       "artists": [
         {
-          "name": "Jinan Laetitia",
-          "url": "https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth"
-        },
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "Eimizah",
+          "url": "https://open.spotify.com/artist/3lvD3A9t2jhvnSSLZI4baM"
         }
       ],
-      "duration_ms": 230947,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM"
+      "duration_ms": 155744,
+      "name": "Sex + Hennessy",
+      "url": "https://open.spotify.com/track/4ypLZVbvg7fNhXXSD6QZor"
     }
   ],
   "unique_name": "Spooning",

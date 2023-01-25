@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-264 songs - 13 hr 29 min
+266 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Alpha Texture](https://open.spotify.com/track/1xPhw3ANIfXgmjhP94yyNY) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 3:02 | 2021-08-18 |  |
 | [Alpha Thoughts 107Hz \- 114Hz](https://open.spotify.com/track/3ZQ5luO4yWFWf6GTp7P78b) | [Luna Waterfall](https://open.spotify.com/artist/4egqkDMoLIKSjt8gspCvyU) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 4:35 | 2021-02-24 |  |
 | [Alpha Waves 136Hz \- 143Hz](https://open.spotify.com/track/4ijiUV9s3zXUASLVoTq42I) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [α&β](https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5) | 2:52 | 2020-09-29 | 2020-12-02 |
+| [Alpha Waves 150 Hz \- 158 Hz](https://open.spotify.com/track/27FiGK9QF0vCkJeXNhQZUr) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Alpha & Beta Wave States](https://open.spotify.com/album/3veIsz6h0EcYZZ0qhpRqEa) | 4:48 | 2023-01-24 |  |
 | [Alpha Zone 12 Hz](https://open.spotify.com/track/5pvXmEJq200PuwgHxHJALZ) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Zones](https://open.spotify.com/album/25HMKjzXf5IpFE1Zfw9Kba) | 3:14 | 2022-08-01 |  |
 | [Angel Gamma Choir](https://open.spotify.com/track/3ecLObZD4KDhSTokl9HGOS) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Relaxing Delta](https://open.spotify.com/album/5O8YZFDlUoxesk17FCIECn) | 3:46 | 2020-06-03 | 2021-06-18 |
 | [Basic \- Alpha Sinus 85,2hz \- 89,4 hz](https://open.spotify.com/track/0OHNBGd4rLVAyBO3SufMzM) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:47 | 2021-06-04 |  |
@@ -76,7 +77,7 @@
 | [Binaural Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/1TgKmz3xe3YR39szc6h9mD) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [FoCcus](https://open.spotify.com/album/1YD1tFaelD370A42BWvlqR) | 2:12 | 2020-09-29 |  |
 | [Binaural Alpha Sinus 101Hz \- 108Hz](https://open.spotify.com/track/7aYJz2VkCYykD2VnRM83A9) | [Light Vibrations](https://open.spotify.com/artist/7HGnugtCkahzbqB9tTOUZP) | [Focused Mind](https://open.spotify.com/album/3f1LpLV6ybqLYGNvwwEowt) | 3:43 | 2021-03-25 |  |
 | [Binaural Alpha Sinus 110Hz \- 118Hz](https://open.spotify.com/track/7AY5D9sxUTWBUv4U0Gqe4Q) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [FoCcus](https://open.spotify.com/album/1YD1tFaelD370A42BWvlqR) | 2:29 | 2020-09-29 |  |
-| [Binaural Alpha Sinus 110Hz \- 121Hz](https://open.spotify.com/track/2Qme02owJbj1RXzZd7fiWM) | [Patterns in Light](https://open.spotify.com/artist/67fe8mrqsYjPYYBlvCh1MN) | [The Calm Around Me](https://open.spotify.com/album/5VekNJ7d08dDbJpb5Dj0gu) | 2:27 | 2021-02-24 |  |
+| [Binaural Alpha Sinus 110Hz \- 121Hz](https://open.spotify.com/track/2Qme02owJbj1RXzZd7fiWM) | [Patterns in Light](https://open.spotify.com/artist/67fe8mrqsYjPYYBlvCh1MN) | [The Calm Around Me](https://open.spotify.com/album/5VekNJ7d08dDbJpb5Dj0gu) | 2:27 | 2021-02-24 | 2023-01-25 |
 | [Binaural Alpha Sinus 114Hz \- 121Hz](https://open.spotify.com/track/5Tpj6QisPBZiIrBVtwOvei) | [Jovian Tides](https://open.spotify.com/artist/4uLQlhaWlgG45om0nfCN5u) | [Mind States](https://open.spotify.com/album/2vHTWqcUcGUs9vxzlFXc7c) | 3:45 | 2021-03-25 |  |
 | [Binaural Alpha Sinus 120 Hz \- 128 Hz](https://open.spotify.com/track/5Qqh5UznekrJf6mL1V9Rek) | [Mind Mining](https://open.spotify.com/artist/0JM9LBHZ5S6qQMz33Y6NvK) | [Binaural Alpha Sinus 120 Hz \- 128 Hz](https://open.spotify.com/album/4ocuIleKlk4CzPGrzWVqPd) | 1:42 | 2021-06-18 |  |
 | [Binaural Alpha Sinus 120 Hz \- 128 Hz](https://open.spotify.com/track/1dkEjpn7OcceNXA8TbO6fO) | [Vorssenn](https://open.spotify.com/artist/0V8dBTheanSubEjlU0dlvf) | [Alpha 8\-14 Hz Drones](https://open.spotify.com/album/1xvR00hIQDx1fiAQtoMHfI) | 3:28 | 2019-05-26\* | 2020-05-20 |
@@ -156,6 +157,7 @@
 | [Bûche Creuse](https://open.spotify.com/track/2X6yLNxl3XsH0YZRQ4B1w2) | [Kensa Mitchell](https://open.spotify.com/artist/1Bw5TivstABMbIaMDM4jyX) | [Brainwave Focus](https://open.spotify.com/album/6jc66CwXrBYOVNQvqkQFXz) | 3:38 | 2019-05-26\* | 2021-01-12 |
 | [Chakra Flow Gamma Sinus](https://open.spotify.com/track/2IjmfeOvXo6ha4PxW7WqWk) | [Mindful Entrainment](https://open.spotify.com/artist/3VC3a7EmahK5d9RCPQqNEk) | [Chakra Flow Gamma Sinus](https://open.spotify.com/album/0DL8insWLSxIU96C5AwDmv) | 1:44 | 2021-02-03 | 2021-03-25 |
 | [Circumspect Alpha 10Hz](https://open.spotify.com/track/6xa4tQjf1T53fTB2RfZyGi) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Circumspect Alpha 10Hz](https://open.spotify.com/album/3pe61os5F0RnpPjMCvVbiw) | 3:19 | 2023-01-13 |  |
+| [Connection Alpha 10Hz](https://open.spotify.com/track/4D32XPyh0L8GX07mUDwaoe) | [Restful SInus](https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX) | [Connection Alpha 10Hz](https://open.spotify.com/album/2o33M5zBgQWCniGBpU2jbb) | 2:34 | 2023-01-24 |  |
 | [Creative Alpha Sinus 101Hz \- 109Hz](https://open.spotify.com/track/3H9TQiTijyVfgeTGkFR918) | [Lucy Dreamer](https://open.spotify.com/artist/7xProv7zrnGc1wQX25gy3P) | [Binaural Dreams](https://open.spotify.com/album/3ElQwXi7IKxq7r0mrwd1QR) | 3:16 | 2021-04-22 |  |
 | [Creative State of Mind \- Alpha Sinus 102Hz \- 109Hz](https://open.spotify.com/track/4lJDq74K2vzwSnYGoLvSjJ) | [Letter One](https://open.spotify.com/artist/4SfajLLhVt2uROSEyVBQdx) | [Binaural Alpha](https://open.spotify.com/album/7t3NNSYWStDFMrpdT5UVXV) | 2:47 | 2021-03-25 |  |
 | [Creature](https://open.spotify.com/track/6Vd4pngwOAsq3mDsiW3fKC) | [Synchrophonic](https://open.spotify.com/artist/3TUQC7breUMMUi7bQVZQkP) | [Drones and Beats](https://open.spotify.com/album/4dqxnmrsRlZcjJOkRgP3FD) | 3:40 | 2019-05-26\* | 2021-03-10 |
@@ -229,7 +231,7 @@
 | [Mirrorlake \- Alpha Sinus 100Hz \- 107Hz](https://open.spotify.com/track/4f2GInNlgh8zlg2KDVyYii) | [High Lotion](https://open.spotify.com/artist/1ZqOGxgYcd5cYyak3ryY9Q) | [Binaural Mirror](https://open.spotify.com/album/5Sup9jYgyPcub2p6LXGgmw) | 4:23 | 2021-04-10 |  |
 | [Miyus Alpha Waves 93\-103 Hz](https://open.spotify.com/track/6aWrkNQd64IWVfRZysKArA) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Alfalfa Waves](https://open.spotify.com/album/52NBxGjDDYRb3yVjpw2xgF) | 2:56 | 2022-08-22 |  |
 | [Morgenstille \- Alpha Sinus 86Hz \- 93Hz](https://open.spotify.com/track/2NkwIK3b3tqTcjqmWbUM5M) | [The Sound Around](https://open.spotify.com/artist/27JSYLOZfglXz3hQbeL2Bl) | [Deep Ocean](https://open.spotify.com/album/5FpueKwppPw5WOl7XONwWP) | 4:12 | 2021-02-24 |  |
-| [Mystical \- Alpha Sinus 54,8hz \- 57,3 hz](https://open.spotify.com/track/7zO8xgWtAGQpAKEG9n48Yb) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:55 | 2021-06-04 |  |
+| [Mystical \- Alpha Sinus 54,8hz \- 57,3 hz](https://open.spotify.com/track/7zO8xgWtAGQpAKEG9n48Yb) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:55 | 2021-06-04 | 2023-01-25 |
 | [Nachdenklich \- Alpha Sinus 105Hz \- 114Hz](https://open.spotify.com/track/0csp6tTmau16MXSgybRtmW) | [Sea Turtles](https://open.spotify.com/artist/56IQtGAgwkHrQpBHEaEuiv) | [Soaking in Binaural](https://open.spotify.com/album/3msRxAwJuC451ZywXpNW2L) | 3:21 | 2021-09-02 | 2022-03-19 |
 | [Namaste \- Alpha Sinus 102Hz \- 109Hz](https://open.spotify.com/track/6sdB0fMk2Kcu1mgJ5gQ47Z) | [0neplus0ne](https://open.spotify.com/artist/29iJCpziaRGTqEC7GqLLBI) | [Namaste](https://open.spotify.com/album/44qckyrwtH1TFwC7rUma0o) | 3:16 | 2021-02-24 |  |
 | [Natarajasana \- Alpha Sinus](https://open.spotify.com/track/1phOmHd9mYpXut6FsUXo60) | [Gervais Boudon](https://open.spotify.com/artist/1Omr9uhscWkt8hmlA7pgiy) | [Natarajasana \- Alpha Sinus](https://open.spotify.com/album/3hToHqtwnUlcs2dDVnjAS7) | 1:45 | 2021-02-03 | 2021-11-25 |

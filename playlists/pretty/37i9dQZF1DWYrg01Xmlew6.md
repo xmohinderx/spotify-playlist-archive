@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Napoli e il meglio della scena campana\. Geolier in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,143 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,258 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [RICCHEZZA](https://open.spotify.com/track/1ZtubpenKBRE4ACrynt0MA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:04 |
+| 1 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 |
 | 2 | [Shawty \(feat\. ANNA\)](https://open.spotify.com/track/3VAebI378Ag8dJECkUmT5G) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Shawty \(feat\. ANNA\)](https://open.spotify.com/album/0wspBxNHGHBkPldJLX0Cjd) | 3:04 |
 | 3 | [La Notte di San Lorenzo](https://open.spotify.com/track/3R3S0yqtESkFwJDpscvKfd) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 3:08 |
 | 4 | [MONEY](https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [MONEY](https://open.spotify.com/album/1L3BundfZgLB9db5496I4y) | 2:45 |
 | 5 | [Welcome To Favelas](https://open.spotify.com/track/0m0usigRxg1cvBo0ezr0ts) | [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ) | [Welcome To Favelas](https://open.spotify.com/album/1VPtdhsrRbB0hjfmU7yYHa) | 2:52 |
-| 6 | [BENJAMINS \(feat\. MV Killa, Yung Snapp, Lele Blade\)](https://open.spotify.com/track/5fevLKhPKHtyJOtaL9DF67) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz) | [DJUNGLE UNCHAINED](https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO) | 2:49 |
-| 7 | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI) | 2:22 |
-| 8 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 |
+| 6 | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/track/0aihKoR995mM6IO31vYd3I) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [A' vita senz' e te \(Me fa paura\)](https://open.spotify.com/album/0o862B9nqWJuGpEJwsQIsI) | 2:22 |
+| 7 | [RICCHEZZA](https://open.spotify.com/track/1ZtubpenKBRE4ACrynt0MA) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:04 |
+| 8 | [BENJAMINS \(feat\. MV Killa, Yung Snapp, Lele Blade\)](https://open.spotify.com/track/5fevLKhPKHtyJOtaL9DF67) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz) | [DJUNGLE UNCHAINED](https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO) | 2:49 |
 | 9 | [NO BODYGUARD](https://open.spotify.com/track/6YRgwPft1oLkMnAE42Zsx4) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [NO BODYGUARD](https://open.spotify.com/album/3tXUkUdnsMkOck4lN5ZX6F) | 2:52 |
 | 10 | [SUL IJ E TE \(con O'Tsunami\)](https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [SUL IJ E TE \(con O'Tsunami\)](https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS) | 2:16 |
 | 11 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [Vita Mala](https://open.spotify.com/track/5NxBsDKGOv6ebjuVYoqqkv) | [Ye$hua](https://open.spotify.com/artist/4w6gswqkpl74hoxgvne66c) | [Vita Mala](https://open.spotify.com/album/4pNRTiRNThpQ4gGIfOMsQC) | 3:16 |
 | 50 | [So' modelle](https://open.spotify.com/track/0LkhmgypJYiRMU6NC3lrAl) | [Awhon](https://open.spotify.com/artist/2dftGrrSw0rHzZOizviG0G) | [So' modelle](https://open.spotify.com/album/2UBHfDmK9TKkdeblSJFhYQ) | 2:14 |
 
-Snapshot ID: `MTY3NDE2OTI2MCwwMDAwMDAwMDViYjIyMDg4NTdhZTVjYjU4NjE0OGVjOThjNzUzNzVh`
+Snapshot ID: `MTY3NDU3NDY1MywwMDAwMDAwMDdjODZlZTYxZTRmOGYwMjQ1MDQ5ZmRmYjQwNDliZmM3`

@@ -4,7 +4,7 @@
 
 > أفضل الاغاني العراقية\. الغلاف: ياسر عبدالوهاب و زيد الحبيب
 
-88 songs - 5 hr 29 min
+89 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Ana](https://open.spotify.com/track/4Ws9FemA9s2SzYT5QlNufe) | [Nour Al Zain](https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH) | [Ana](https://open.spotify.com/album/43nlGA78cEBUHG2oGtl1Qh) | 3:28 | 2022-05-06 | 2022-05-26 |
 | [Ana Almumayaz](https://open.spotify.com/track/0IgZOwXy1eHCKEdSnZqeeB) | [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu) | [Ana Almumayaz](https://open.spotify.com/album/5F4UqeZgtGS1hbhr19Y91K) | 3:49 | 2022-05-06 | 2022-05-26 |
 | [Anzleet Kodamo](https://open.spotify.com/track/6Nx2ayAxD0wRuQmOnXIX9a) | [Naser Albhar](https://open.spotify.com/artist/4Ul7ukXkZ7GNTzJIxJ82tu) | [Anzleet Kodamo](https://open.spotify.com/album/0PLj7S8clfY9xuW1YKprae) | 4:14 | 2022-05-06 | 2022-12-03 |
-| [Arahen Bek](https://open.spotify.com/track/2CxAQ1mdOJLcYjriAucuTr) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Ghassan Barsim](https://open.spotify.com/artist/7DotftTLVBmBRACF8K1hK4) | [Arahen Bek](https://open.spotify.com/album/3JHnfBjf3BOkhL8QahUcVE) | 4:00 | 2022-05-06 |  |
+| [Arahen Bek](https://open.spotify.com/track/2CxAQ1mdOJLcYjriAucuTr) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Ghassan Barsim](https://open.spotify.com/artist/7DotftTLVBmBRACF8K1hK4) | [Arahen Bek](https://open.spotify.com/album/3JHnfBjf3BOkhL8QahUcVE) | 4:00 | 2022-05-06 | 2023-01-25 |
 | [Argalak Kama Kont](https://open.spotify.com/track/2zmQqYm3VvOXtpom1g2N2g) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Argalak Kama Kont](https://open.spotify.com/album/5u6ahHa7QC2LmKa3oOwHfE) | 3:02 | 2022-05-06 | 2022-07-20 |
 | [Ashmk](https://open.spotify.com/track/3WFV5o3aY7G14XeS5pUwu6) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Ashmk](https://open.spotify.com/album/0BvZRBSbImRws7aPfVyw07) | 3:47 | 2022-05-06 | 2022-05-26 |
 | [Awel Mara](https://open.spotify.com/track/5PIUdhw0npMzWozHZzC7Dg) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [Awel Mara](https://open.spotify.com/album/2j8kRtxQ6mzA5TsWFMTWj8) | 4:03 | 2022-05-06 | 2023-01-11 |
@@ -92,6 +92,7 @@
 | [أحبك دومي](https://open.spotify.com/track/6ifzqwDP0Fnsz4uhHB8k2c) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [أحبك دومي](https://open.spotify.com/album/0800c1fgGe68F8wHAKU56W) | 3:36 | 2022-08-26 |  |
 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 | 2022-07-25 |  |
 | [الكوكب](https://open.spotify.com/track/2xzL1ELxftoTGXS1LFQv2P) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [الكوكب](https://open.spotify.com/album/6hJTJtENy8pROIGgVT6NQk) | 3:58 | 2022-05-06 |  |
+| [ايامي بدونك](https://open.spotify.com/track/7b6blgIv6cMRAXu8sBnWJf) | [خالد الحنين](https://open.spotify.com/artist/1C55jVVXpHrFZsWJHrDL3B) | [ايامي بدونك](https://open.spotify.com/album/0qJ6tDqMYbsFE72JSsAGJa) | 3:45 | 2023-01-24 |  |
 | [دزلي عطرك 2](https://open.spotify.com/track/6qxY9lXVAqF4jbuabbZLo8) | [Sultan Al Omani](https://open.spotify.com/artist/7praP1ShHWgWbgDR5Kmx2P), [Mustafa Ibrahim](https://open.spotify.com/artist/6JMRT8mRLG6LwEGKQ4trhS) | [دزلي عطرك 2](https://open.spotify.com/album/1IAkMeL7P7TUFvEs4aHl38) | 2:04 | 2022-05-06 | 2022-06-17 |
 | [ماتت بعدكم روح](https://open.spotify.com/track/5mVsxtQWsDZvA2kxmqd9EB) | [Nour Al Zain](https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH) | [ماتت بعدكم روح](https://open.spotify.com/album/7HjApDZg39EjEZN5IWxFDy) | 4:36 | 2022-05-06 |  |
 | [يما الحب](https://open.spotify.com/track/3aXByu4Art7dq12mZxB2RK) | [فرقة تكات](https://open.spotify.com/artist/3bMzXWVBnWOG7PxLRWy19X) | [يما الحب](https://open.spotify.com/album/7FSEVwrfLKelL18sRCsxxe) | 5:17 | 2022-05-06 | 2022-11-02 |

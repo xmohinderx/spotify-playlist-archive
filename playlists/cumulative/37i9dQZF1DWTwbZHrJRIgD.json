@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-30",
-  "description": "Welcome the weekend with these happy hits. Cover- Sidharth Malhotra, Alia Bhatt, and Fawad Khan ",
+  "description": "Let these happy tunes put a smile on your face. Cover - Kapoor & Sons",
   "name": "Happy Vibes ",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 206858,
       "name": "Buddhu Sa Mann",
       "url": "https://open.spotify.com/track/1dxbiVeiV7nQ2V9qXnhJiB"
+    },
+    {
+      "album": {
+        "name": "Mission Majnu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/13qVm7FwkSKg3R3r4Ubupv"
+      },
+      "artists": [
+        {
+          "name": "Raj Barman",
+          "url": "https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293142,
+      "name": "Channa Ve Assi Marjawange",
+      "url": "https://open.spotify.com/track/6jDiCCkQondv5cmXgmudjo"
     },
     {
       "album": {
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 174500,
       "name": "Silly",
       "url": "https://open.spotify.com/track/7eMBQTqYXliAjhIQbPpunA"

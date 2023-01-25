@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,365 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,405 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 57 | [Come Fly With Me](https://open.spotify.com/track/4htOz9gMFZStfcVz1kx3El) | [¡Oye Frank! Sonata Latina Tribute Orchestra](https://open.spotify.com/artist/7zug34wHklQjAqvDHAhqJ3) | [¡Oye Frank! Sonata Latina Tribute Orchestra](https://open.spotify.com/album/1SSdDsip5PL6hBiWrQ1QiI) | 3:00 |
 | 58 | [Deixa A Vida Me Levar](https://open.spotify.com/track/3cVSl7SF1BNnCYUR3WYKd8) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho Em Casa](https://open.spotify.com/album/0ihjlZ6pyIMNly2O2OLIm0) | 4:35 |
 | 59 | [Electric Soul](https://open.spotify.com/track/4YhqlvorKX7kd9pHLLfWz1) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Mettavolution](https://open.spotify.com/album/14PfZxWDjz2M104JSlhV5Q) | 3:58 |
-| 60 | [Tranquilito](https://open.spotify.com/track/18raESmvANegtffrhwSnP4) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda 2](https://open.spotify.com/album/4zbTjGo8oXeLgPSO2PdsWe) | 5:46 |
-| 61 | [Monedita](https://open.spotify.com/track/1dq5ewYIsKa4CgiTmE43by) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Treinta Días](https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB) | 3:09 |
-| 62 | [Cumbia De Los Muertos](https://open.spotify.com/track/6muW3ShcHUFFSfEfw8yqMP) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0) | [Ozomatli](https://open.spotify.com/album/7tz0zZOFIdX7PxMfIeoXS0) | 3:32 |
+| 60 | [Monedita](https://open.spotify.com/track/1dq5ewYIsKa4CgiTmE43by) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Treinta Días](https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB) | 3:09 |
+| 61 | [Cumbia De Los Muertos](https://open.spotify.com/track/6muW3ShcHUFFSfEfw8yqMP) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0) | [Ozomatli](https://open.spotify.com/album/7tz0zZOFIdX7PxMfIeoXS0) | 3:32 |
+| 62 | [Tranquilito](https://open.spotify.com/track/18raESmvANegtffrhwSnP4) | [Pirulo y la Tribu](https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO) | [Calle Linda 2](https://open.spotify.com/album/4zbTjGo8oXeLgPSO2PdsWe) | 5:46 |
 | 63 | [Despues De Almuerzo Parte 3](https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ) | [Bitman & Roban](https://open.spotify.com/artist/5pNASbHJBVikbxzyXziGTe) | [Musica Para Despues De Almuerzo](https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP) | 3:15 |
 | 64 | [Mar Y Cielo](https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE), [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 3:05 |
 | 65 | [El Amor Después Del Amor](https://open.spotify.com/track/5s7y4yEb3TGIqRMjE32MZx) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Origen](https://open.spotify.com/album/1pnliPS7mvHIMlBgwK7kgO) | 3:44 |
@@ -97,11 +97,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 87 | [Pa' Bailar](https://open.spotify.com/track/6CT7lmMAco13bgfBotJweu) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Mar Dulce](https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA) | 3:58 |
 | 88 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
 | 89 | [El hombre que quiso ser canción](https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct) | [Alessio Arena](https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc) | [Atacama!](https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf) | 4:11 |
-| 90 | [El Bombo](https://open.spotify.com/track/6Y8ezCRn008lOajLva47nN) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [El Bombo](https://open.spotify.com/album/2cSlFeJYEyoyrM9AwjtSEc) | 3:20 |
-| 91 | [Por Si las Dudas](https://open.spotify.com/track/1mSZtzrkyjPVHryN28833M) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU), [Lof](https://open.spotify.com/artist/4TrbIX2ppmaAvqO5IYcSH0) | [A MAR](https://open.spotify.com/album/6amcskT3XUBmlayQ1O0Bne) | 3:49 |
+| 90 | [Por Si las Dudas](https://open.spotify.com/track/1mSZtzrkyjPVHryN28833M) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU), [Lof](https://open.spotify.com/artist/4TrbIX2ppmaAvqO5IYcSH0) | [A MAR](https://open.spotify.com/album/6amcskT3XUBmlayQ1O0Bne) | 3:49 |
+| 91 | [El Bombo](https://open.spotify.com/track/6Y8ezCRn008lOajLva47nN) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [El Bombo](https://open.spotify.com/album/2cSlFeJYEyoyrM9AwjtSEc) | 3:20 |
 | 92 | [Jogando Capoiera](https://open.spotify.com/track/7x3s31ac8xceWrYDpmFAUi) | [Beatfanatic](https://open.spotify.com/artist/1FIkyRKs1x2ByTLq6BD6KA) | [Jogando Capoiera / Cookin'](https://open.spotify.com/album/6jJ6faWit8XnOIdQ0WiCAi) | 6:50 |
-| 93 | [Maria Cristina](https://open.spotify.com/track/6RkiGbfRM1Blo3iXVc98uS) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH) | [Companeros De Mi Vida](https://open.spotify.com/album/5syN6MvgMAkQDOpYy8mceC) | 4:22 |
-| 94 | [Perdoa](https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls), [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Meus Momentos: Paulinho Da Viola](https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu) | 4:00 |
+| 93 | [Perdoa](https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls), [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Meus Momentos: Paulinho Da Viola](https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu) | 4:00 |
+| 94 | [Maria Cristina](https://open.spotify.com/track/6RkiGbfRM1Blo3iXVc98uS) | [Eliades Ochoa](https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH) | [Companeros De Mi Vida](https://open.spotify.com/album/5syN6MvgMAkQDOpYy8mceC) | 4:22 |
 | 95 | [El Extranjero](https://open.spotify.com/track/795MWYB06Kuc3w1T26ftys) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Película Muda \(Primera Parte\)](https://open.spotify.com/album/5fiR3WAp6vuCLmxoQ88Vcd) | 5:42 |
 | 96 | [Mambo 1000](https://open.spotify.com/track/1NuSZFERO5CMr0dSrWO3Lu) | [Ursula 1000](https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT) | [The Now Sound of Ursula 1000 \(Deluxe Version\)](https://open.spotify.com/album/7pyqMk8bzqQDIAFT2MdRKK) | 5:40 |
 | 97 | [Lavabo Mi Amor](https://open.spotify.com/track/1lFMWSIu7isKOdn12emfDf) | [French Fuse](https://open.spotify.com/artist/3bZHlENvWWvWYYIsC7vLSi) | [Lavabo Mi Amor](https://open.spotify.com/album/4euUcMhzG6GELGIMfWasPT) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [Pra Manha](https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq) | [Da Lata](https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN) | [Songs From The Tin](https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl) | 6:13 |
 | 100 | [Tiene Sabor, Tiene Sazón](https://open.spotify.com/track/7CPu17eltuCnWj3QZtlI8Z) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/7yjJJnG1eUZRJkwHcjqg8Y) | 4:33 |
 
-Snapshot ID: `MTY2MTkzMDkxOSwwMDAwMDAwMDZlZTM4YTQyNDkyZWJjZWYxOWYyYjU1ZmMzMzQ4OWVj`
+Snapshot ID: `MTY2MTkzMDkxOSwwMDAwMDAwMDg3ZjNjNjg1MmNhMmRiOWY4OWQ3ZjZjMmFjMDY3Mjk5`

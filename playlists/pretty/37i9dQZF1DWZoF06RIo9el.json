@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de enero 2023",
-  "num_followers": 1509884,
+  "num_followers": 1509983,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDQ5MTg1MSwwMDAwMDAwMGEwNTY5YjMwNTdkYWMwYTA0ZWE0OGY1N2ZiM2QzNjcz",
+  "snapshot_id": "MTY3NDQ5MTg1MSwwMDAwMDAwMDBlMDQwYmNlZGNlNDFmZDIxYTM3Yzg4ZTYyNzM0ZjUy",
   "tracks": [
     {
       "added_at": "2023-01-20 18:37:24",
@@ -199,26 +199,6 @@
     {
       "added_at": "2023-01-20 18:37:24",
       "album": {
-        "name": "DESPECH\u00c1 RMX",
-        "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 170827,
-      "name": "DESPECH\u00c1 RMX",
-      "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
-    },
-    {
-      "added_at": "2023-01-20 18:37:24",
-      "album": {
         "name": "CHAO BEBE",
         "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 206499,
       "name": "CHAO BEBE",
       "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
+    },
+    {
+      "added_at": "2023-01-20 18:37:24",
+      "album": {
+        "name": "DESPECH\u00c1 RMX",
+        "url": "https://open.spotify.com/album/4czxiqSwyeZK7y5r9GNWXP"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 170827,
+      "name": "DESPECH\u00c1 RMX",
+      "url": "https://open.spotify.com/track/4CD623yLJVvKJxUyzaTqtC"
     },
     {
       "added_at": "2023-01-20 18:37:24",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-01-20 18:37:24",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 208934,
-      "name": "LEJOS DEL CIELO",
-      "url": "https://open.spotify.com/track/0r5g8mAptDMwHbvRDJYIPW"
-    },
-    {
-      "added_at": "2023-01-20 18:37:24",
-      "album": {
         "name": "I Wish you Roses",
         "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 225947,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "added_at": "2023-01-20 18:37:24",
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 208934,
+      "name": "LEJOS DEL CIELO",
+      "url": "https://open.spotify.com/track/0r5g8mAptDMwHbvRDJYIPW"
     },
     {
       "added_at": "2023-01-20 18:37:24",
@@ -615,74 +615,6 @@
     {
       "added_at": "2023-01-20 18:37:24",
       "album": {
-        "name": "Estrella",
-        "url": "https://open.spotify.com/album/5ZxTdt8ek2Mr5VyxIfhykS"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 209684,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/1qemIcMb4YrHfxtSmnQ4y9"
-    },
-    {
-      "added_at": "2023-01-20 18:37:24",
-      "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/3n36TbiZvwfkOMRT28gmHz"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        }
-      ],
-      "duration_ms": 105022,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/1QlJLYbbNlaJAWOzhKalSz"
-    },
-    {
-      "added_at": "2023-01-20 18:37:24",
-      "album": {
-        "name": "Fondo de Pantalla",
-        "url": "https://open.spotify.com/album/4cvJOfmAspEV4TMihhle73"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Fondo de Pantalla",
-      "url": "https://open.spotify.com/track/4r203GMLp7XHzDXslZMfzE"
-    },
-    {
-      "added_at": "2023-01-20 18:37:24",
-      "album": {
-        "name": "Un Cl\u00e1sico",
-        "url": "https://open.spotify.com/album/5LIYLxHtGfeJkFJjfePMo0"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 172891,
-      "name": "Un Cl\u00e1sico",
-      "url": "https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp"
-    },
-    {
-      "added_at": "2023-01-20 18:37:24",
-      "album": {
         "name": "Ghetto Star",
         "url": "https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4"
       },
@@ -703,6 +635,74 @@
     {
       "added_at": "2023-01-20 18:37:24",
       "album": {
+        "name": "Estrella",
+        "url": "https://open.spotify.com/album/5ZxTdt8ek2Mr5VyxIfhykS"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 209684,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/1qemIcMb4YrHfxtSmnQ4y9"
+    },
+    {
+      "added_at": "2023-01-20 18:37:24",
+      "album": {
+        "name": "Un Cl\u00e1sico",
+        "url": "https://open.spotify.com/album/5LIYLxHtGfeJkFJjfePMo0"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 172891,
+      "name": "Un Cl\u00e1sico",
+      "url": "https://open.spotify.com/track/1U6oVlu9LhCCj7mRfsomDp"
+    },
+    {
+      "added_at": "2023-01-20 18:37:24",
+      "album": {
+        "name": "Fondo de Pantalla",
+        "url": "https://open.spotify.com/album/4cvJOfmAspEV4TMihhle73"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Fondo de Pantalla",
+      "url": "https://open.spotify.com/track/4r203GMLp7XHzDXslZMfzE"
+    },
+    {
+      "added_at": "2023-01-20 18:37:24",
+      "album": {
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/3n36TbiZvwfkOMRT28gmHz"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "duration_ms": 105022,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/1QlJLYbbNlaJAWOzhKalSz"
+    },
+    {
+      "added_at": "2023-01-20 18:37:24",
+      "album": {
         "name": "WAYO",
         "url": "https://open.spotify.com/album/4dFEytjjMaxCOUV7n4ndeD"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 237187,
       "name": "WAYO",
       "url": "https://open.spotify.com/track/5mZndhqE6tE6trjPjNFIk0"
+    },
+    {
+      "added_at": "2023-01-20 18:37:24",
+      "album": {
+        "name": "KITSUNE",
+        "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 169418,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
     },
     {
       "added_at": "2023-01-20 18:37:24",
@@ -739,22 +755,6 @@
       "duration_ms": 194045,
       "name": "Su Nota",
       "url": "https://open.spotify.com/track/4sB1m6oc1EV1qodzcilOyQ"
-    },
-    {
-      "added_at": "2023-01-20 18:37:24",
-      "album": {
-        "name": "KITSUNE",
-        "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 169418,
-      "name": "AMNESIA",
-      "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
     },
     {
       "added_at": "2023-01-20 18:37:24",

@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
@@ -7817,6 +7817,24 @@
     },
     {
       "album": {
+        "name": "Hit My Line",
+        "url": "https://open.spotify.com/album/4jLJVwi3OlJPWzS9stcJZj"
+      },
+      "artists": [
+        {
+          "name": "Minty Burns",
+          "url": "https://open.spotify.com/artist/4pRZYj8zSl5QZkTDBeF4ex"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "Hit My Line",
+      "url": "https://open.spotify.com/track/3Dg20N7HzH8cBZyTu27Klw"
+    },
+    {
+      "album": {
         "name": "T\u00edu \u00edslensk s\u00f6ngl\u00f6g",
         "url": "https://open.spotify.com/album/6HTSPl3aLjmfBZPhcpIMKb"
       },
@@ -13698,7 +13716,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 180853,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
@@ -22108,7 +22126,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 205728,
       "name": "\u00cd lar\u00ed lei",
       "url": "https://open.spotify.com/track/1jCSG0fDPtaMCkFLo1KJnb"

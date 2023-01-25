@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Rachel Chinouriri",
-  "num_followers": 1703205,
+  "num_followers": 1703298,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDUwMzkyNSwwMDAwMDAwMDIwY2QxYjJiNjJhYWVlNjYxMzE1NmMzODE3ZDk2ZGE3",
+  "snapshot_id": "MTY3NDUwMzkyNSwwMDAwMDAwMDJlZThmZWEyODM5ZTRkYWE1Mjk3MmJhNzk4YWRmYmRi",
   "tracks": [
     {
       "added_at": "2023-01-23 19:58:45",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-01-23 19:58:45",
       "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 203061,
-      "name": "Time Bomb",
-      "url": "https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX"
-    },
-    {
-      "added_at": "2023-01-23 19:58:45",
-      "album": {
         "name": "paper",
         "url": "https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 167675,
       "name": "paper",
       "url": "https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ"
+    },
+    {
+      "added_at": "2023-01-23 19:58:45",
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 203061,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX"
     },
     {
       "added_at": "2023-01-23 19:58:45",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-23 19:58:45",
       "album": {
-        "name": "Let U Go",
-        "url": "https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "Let U Go",
-      "url": "https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2"
-    },
-    {
-      "added_at": "2023-01-23 19:58:45",
-      "album": {
         "name": "Think I'm In Love",
         "url": "https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 133000,
       "name": "Think I'm In Love",
       "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
+    },
+    {
+      "added_at": "2023-01-23 19:58:45",
+      "album": {
+        "name": "Let U Go",
+        "url": "https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Let U Go",
+      "url": "https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2"
     },
     {
       "added_at": "2023-01-23 19:58:45",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-01-23 19:58:45",
       "album": {
-        "name": "It's Been So Long",
-        "url": "https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 192541,
-      "name": "It's Been So Long",
-      "url": "https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl"
-    },
-    {
-      "added_at": "2023-01-23 19:58:45",
-      "album": {
         "name": "The Living End",
         "url": "https://open.spotify.com/album/4SklRLhsxx0ZHr9SEkP19B"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 208013,
       "name": "I'm So Bored",
       "url": "https://open.spotify.com/track/4o2W2DAQqBRN9RpSNnEIRw"
+    },
+    {
+      "added_at": "2023-01-23 19:58:45",
+      "album": {
+        "name": "It's Been So Long",
+        "url": "https://open.spotify.com/album/7BUrPV15rWR88qLLqJvP0I"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 192541,
+      "name": "It's Been So Long",
+      "url": "https://open.spotify.com/track/78wkUntddCbvNAzFE8DtCl"
     },
     {
       "added_at": "2023-01-23 19:58:45",
@@ -951,22 +951,18 @@
     {
       "added_at": "2023-01-23 19:58:45",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/3lHMNxJrcA6ldcmnZtaKII"
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
       },
       "artists": [
         {
-          "name": "Isaiah Mendiola",
-          "url": "https://open.spotify.com/artist/3cT5dIuxsmwmgEBqt1DrbO"
-        },
-        {
-          "name": "Ted Fresco",
-          "url": "https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 165793,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/5ORMSCruAlVcLaBfGOQr1i"
+      "duration_ms": 208264,
+      "name": "Go Higher",
+      "url": "https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj"
     },
     {
       "added_at": "2023-01-23 19:58:45",
@@ -987,18 +983,18 @@
     {
       "added_at": "2023-01-23 19:58:45",
       "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+        "name": "liar",
+        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
         }
       ],
-      "duration_ms": 208264,
-      "name": "Go Higher",
-      "url": "https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj"
+      "duration_ms": 134000,
+      "name": "liar",
+      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
     },
     {
       "added_at": "2023-01-23 19:58:45",
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2023-01-23 19:58:45",
       "album": {
-        "name": "liar",
-        "url": "https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE"
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/3lHMNxJrcA6ldcmnZtaKII"
       },
       "artists": [
         {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+          "name": "Isaiah Mendiola",
+          "url": "https://open.spotify.com/artist/3cT5dIuxsmwmgEBqt1DrbO"
+        },
+        {
+          "name": "Ted Fresco",
+          "url": "https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ"
         }
       ],
-      "duration_ms": 134000,
-      "name": "liar",
-      "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
+      "duration_ms": 165793,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/5ORMSCruAlVcLaBfGOQr1i"
     },
     {
       "added_at": "2023-01-23 19:58:45",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-01-23 19:58:45",
       "album": {
-        "name": "Doesn't Matter",
-        "url": "https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 203685,
-      "name": "Doesn't Matter",
-      "url": "https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r"
-    },
-    {
-      "added_at": "2023-01-23 19:58:45",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2023-01-23 19:58:45",
       "album": {
+        "name": "Doesn't Matter",
+        "url": "https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 203685,
+      "name": "Doesn't Matter",
+      "url": "https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r"
+    },
+    {
+      "added_at": "2023-01-23 19:58:45",
+      "album": {
         "name": "Burning Up Slow",
         "url": "https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 124987,
       "name": "Burning Up Slow",
       "url": "https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw"
-    },
-    {
-      "added_at": "2023-01-23 19:58:45",
-      "album": {
-        "name": "Bad Radio",
-        "url": "https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4"
-      },
-      "artists": [
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 185317,
-      "name": "Bad Radio",
-      "url": "https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K"
     },
     {
       "added_at": "2023-01-23 19:58:45",
@@ -1147,6 +1131,38 @@
       "duration_ms": 200000,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
+    },
+    {
+      "added_at": "2023-01-23 19:58:45",
+      "album": {
+        "name": "Bad Radio",
+        "url": "https://open.spotify.com/album/5gBYh1jnNWoFwhG7mOnyO4"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Bad Radio",
+      "url": "https://open.spotify.com/track/7x20NaE8JcByOp09Y4Ir7K"
+    },
+    {
+      "added_at": "2023-01-23 19:58:45",
+      "album": {
+        "name": "Sweat You Out My System",
+        "url": "https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 189858,
+      "name": "Sweat You Out My System",
+      "url": "https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy"
     },
     {
       "added_at": "2023-01-23 19:58:45",
@@ -1203,38 +1219,6 @@
     {
       "added_at": "2023-01-23 19:58:45",
       "album": {
-        "name": "Sweat You Out My System",
-        "url": "https://open.spotify.com/album/7FTGQ7UcBkyxH6c92dDLAi"
-      },
-      "artists": [
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 189858,
-      "name": "Sweat You Out My System",
-      "url": "https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy"
-    },
-    {
-      "added_at": "2023-01-23 19:58:45",
-      "album": {
-        "name": "When the Lights Go",
-        "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 247327,
-      "name": "Be with You",
-      "url": "https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW"
-    },
-    {
-      "added_at": "2023-01-23 19:58:45",
-      "album": {
         "name": "closer to closure",
         "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 220153,
       "name": "self sabotage",
       "url": "https://open.spotify.com/track/1B7WWtKiz2LU85t9tL8x5v"
+    },
+    {
+      "added_at": "2023-01-23 19:58:45",
+      "album": {
+        "name": "BREAK THE CURSE",
+        "url": "https://open.spotify.com/album/0nbH8z2iSYXnFE62X1iwYO"
+      },
+      "artists": [
+        {
+          "name": "Arlie",
+          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "landline",
+      "url": "https://open.spotify.com/track/3OqP3uIygaUiuVzhVyk0X5"
     }
   ],
   "unique_name": "Indie Pop",

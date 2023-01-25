@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Nicole Favre en portada.",
-  "num_followers": 55305,
+  "num_followers": 55309,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NDUyNiwwMDAwMDAwMGNiMTAwNDAzM2UzZjJmM2FiOGY0ODMzZGQ3Yjk2MmYz",
+  "snapshot_id": "MTY3MzU4NDUyNiwwMDAwMDAwMGNlODFhYWNkZDc0ZjhkZDQ2ZGExNzFiMTFhNDNkYjc3",
   "tracks": [
     {
       "added_at": "2023-01-13 04:35:26",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "La Oportunidad - Spotify Singles",
+        "url": "https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 207499,
+      "name": "La Oportunidad - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "Equivocado",
         "url": "https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 246780,
       "name": "Equivocado",
       "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "La Oportunidad - Spotify Singles",
-        "url": "https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 207499,
-      "name": "La Oportunidad - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "SESENTAYNUEVE",
-        "url": "https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET"
-      },
-      "artists": [
-        {
-          "name": "Alan Wittels",
-          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
-        }
-      ],
-      "duration_ms": 122986,
-      "name": "SESENTAYNUEVE",
-      "url": "https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Mal Acompa\u00f1ada",
         "url": "https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G"
       },
@@ -1019,6 +1003,38 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Loco Demente",
+        "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
+      },
+      "artists": [
+        {
+          "name": "E-Lhoy",
+          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Loco Demente",
+      "url": "https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "SESENTAYNUEVE",
+        "url": "https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET"
+      },
+      "artists": [
+        {
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "SESENTAYNUEVE",
+      "url": "https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "LUZ APAG\u00c1",
         "url": "https://open.spotify.com/album/7oKIMAZs7VrRMAKnjKSQZ0"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 177446,
       "name": "LUZ APAG\u00c1",
       "url": "https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Loco Demente",
-        "url": "https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv"
-      },
-      "artists": [
-        {
-          "name": "E-Lhoy",
-          "url": "https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Loco Demente",
-      "url": "https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o"
     },
     {
       "added_at": "2022-09-29 23:31:37",

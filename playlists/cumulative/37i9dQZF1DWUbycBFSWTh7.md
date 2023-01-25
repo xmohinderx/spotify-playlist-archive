@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-142 songs - 13 hr 40 min
+143 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Amazonas Secret Kingdom \- Atjazz Remix](https://open.spotify.com/track/1pdpsWAi3pxzzg1xjbiZhs) | [Juan Laya](https://open.spotify.com/artist/31adPVgHKIKQObfZaJKOYq), [Jorge Montiel](https://open.spotify.com/artist/4QtcMQvGCQSFmqX3eHEYHO), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Electropical: Amazonas Secret Kingdom \(Atjazz Remix\)](https://open.spotify.com/album/7E5N7gF47PmoHZcJFEVM6L) | 6:48 | 2022-09-15 |  |
 | [Another Day](https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Heavy Tangled](https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX) | 7:40 | 2022-10-27 |  |
 | [Aqui Conmigo](https://open.spotify.com/track/26S5zDzwDUN1GKKNvlaZPw) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Aqui Conmigo E.P.](https://open.spotify.com/album/0HX7nQolcrzsoeAXdw99WZ) | 4:24 | 2022-09-15 |  |
+| [Arrow](https://open.spotify.com/track/0ve8tt7o75cUCz2mHCT0zi) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 3:07 | 2023-01-24 |  |
 | [Ave](https://open.spotify.com/track/6oDWwQrIwz0AZQAWOv787F) | [Milio](https://open.spotify.com/artist/3NoWSOGaFNLvKXxho4phMO) | [Ave](https://open.spotify.com/album/3I01ShTuRryxPPJzRW5vht) | 5:04 | 2022-09-15 |  |
 | [Average Party Tool](https://open.spotify.com/track/07UeBq7UkdDgUq5c4U2gZc) | [Herr Krank](https://open.spotify.com/artist/6867qRW4fPy1KtxyeBIKkl), [Deborah Aime La Bagarre](https://open.spotify.com/artist/6jZ18ATjOFUAgDXX3H9x5w) | [Average Party Tool](https://open.spotify.com/album/5Fon2UPFVSQlWGP7Rj8Isw) | 5:56 | 2022-09-15 | 2023-01-13 |
 | [Be Yourself \- Central Remix](https://open.spotify.com/track/0PhB0fgiMfIC649131VRH4) | [Space Ghost](https://open.spotify.com/artist/3YfpfN9dOwJUoeqXoWazgi), [Central](https://open.spotify.com/artist/5WrCFzEOrPR73qYg3psCro) | [Dance Planet Remixes](https://open.spotify.com/album/6ZqMR4wBWbYkZCPM6h0MBH) | 7:57 | 2022-09-15 |  |

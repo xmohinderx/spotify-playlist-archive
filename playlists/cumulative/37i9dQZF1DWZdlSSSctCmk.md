@@ -4,7 +4,7 @@
 
 > A mediterranean sundown soundtrack.
 
-129 songs - 10 hr 43 min
+130 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Paradise \- Remastered Version](https://open.spotify.com/track/0vhyCB8RvI8Ruvy324USy5) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:36 | 2022-09-05 | 2022-11-13 |
 | [Paz](https://open.spotify.com/track/70cxjdNUHzSnk8SSeAHlLs) | [Troubleman](https://open.spotify.com/artist/18ddY9q3TfahyK9dG67fqq), [Nina Miranda](https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln) | [Time out of Mind](https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb) | 3:44 | 2022-09-05 |  |
 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 | 2022-09-05 |  |
-| [Pina Colada \(Jazz Mix\)](https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv) | [Digby Jones](https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU) | [Pina Colada \(And Other Early Tunes\)](https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc) | 6:06 | 2022-09-05 |  |
+| [Pina Colada \(Jazz Mix\)](https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv) | [Digby Jones](https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU) | [Pina Colada \(And Other Early Tunes\)](https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc) | 6:06 | 2022-09-05 | 2023-01-25 |
 | [Quiet Night](https://open.spotify.com/track/37uDjCFbCIj8Doz8NMyiHT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [wielandwieland](https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n) | [Quiet Night](https://open.spotify.com/album/3qrdALmql8njlLqI0Ek4ep) | 3:32 | 2022-09-05 |  |
 | [Quiet Night](https://open.spotify.com/track/5s5c9ZMpC8WyuiM8Sg4R2Z) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [wielandwieland](https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n) | [Quiet Night](https://open.spotify.com/album/0Krte8XWMkSHu5tne7epQF) | 3:32 | 2022-09-05 | 2022-11-20 |
 | [Rebecca's Theme \(Water\)](https://open.spotify.com/track/5JA1wMXh6C072LePIqWTdR) | [A.R.T\. Wilson](https://open.spotify.com/artist/3Ml899ULPFArc5T9GpwgRp) | [Overworld](https://open.spotify.com/album/5I4w85SAzHx1ZApr0ddtzH) | 4:36 | 2022-09-05 | 2022-11-13 |
@@ -126,6 +126,7 @@
 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 | 2022-09-05 |  |
 | [Too Late](https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc) | 4:12 | 2022-09-05 |  |
 | [Tropicololo](https://open.spotify.com/track/3oHpnrupsyl38Q1QL1fc66) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [A Journey to You](https://open.spotify.com/album/6oL8GBIZvqBrzmMm0l5S8O) | 5:32 | 2022-09-05 | 2022-11-19 |
+| [Tropicololo](https://open.spotify.com/track/5hPZISGdMYtdqQJp6eL5oM) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [A Journey to You](https://open.spotify.com/album/4fVoxEQikGnJyffKRjazsm) | 5:32 | 2022-09-05 |  |
 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 3:50 | 2022-09-05 | 2022-12-06 |
 | [Trying to Make it Home](https://open.spotify.com/track/3Hht1URCb1TqwcZAwU4pXK) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Trying to Make it Home](https://open.spotify.com/album/51mdZ0LmdmesB6Tcdk7nJi) | 5:42 | 2022-09-05 | 2023-01-20 |
 | [Tuesday](https://open.spotify.com/track/4fZxYrLJd92r8MJtqgjZjv) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui) | [Gentle EP](https://open.spotify.com/album/45LfyUaK6GsKpNb7uFfcm3) | 5:47 | 2022-09-05 |  |

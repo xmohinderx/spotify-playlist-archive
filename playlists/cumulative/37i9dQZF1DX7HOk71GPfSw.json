@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "ft. 100 gecs ",
+  "description": "ft. Frost Children",
   "name": "hyperpop",
   "tracks": [
     {
@@ -292,7 +292,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": "2021-02-10",
+      "date_removed": null,
       "duration_ms": 130206,
       "name": "1:15",
       "url": "https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 216983,
       "name": "3 Star Reunite",
       "url": "https://open.spotify.com/track/5mC44S74jDK8SDWE2ahtw6"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-02-10",
+      "date_removed": null,
       "duration_ms": 209295,
       "name": "8 now",
       "url": "https://open.spotify.com/track/3lzX0mU3pfXOQRnH0ryZJR"
@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 177132,
       "name": "asshole",
       "url": "https://open.spotify.com/track/0yzgXQkpwP46MdX245tzQ2"
@@ -3094,7 +3094,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 85190,
       "name": "before i go to bed",
       "url": "https://open.spotify.com/track/3vIJMMc5HapTkg4Oxvyjda"
@@ -4966,7 +4966,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 183699,
       "name": "CASPER",
       "url": "https://open.spotify.com/track/2HYoorelMBHn5BwagU2Cka"
@@ -5412,7 +5412,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 130000,
       "name": "CHOKEHOLD",
       "url": "https://open.spotify.com/track/653BxYoFioolwyh66mIdK4"
@@ -6243,6 +6243,24 @@
     },
     {
       "album": {
+        "name": "Count of three (You can eat $#@!)",
+        "url": "https://open.spotify.com/album/5VQi7iQ03yrVsFV3z5DCiq"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159110,
+      "name": "Count of three (You can eat $#@!)",
+      "url": "https://open.spotify.com/track/2NFag2zEx2GC5ySs0d3IaS"
+    },
+    {
+      "album": {
         "name": "cow in the grass",
         "url": "https://open.spotify.com/album/7pr4dR6ngzHTnC3U7ceEWp"
       },
@@ -6386,7 +6404,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 193424,
       "name": "Crumbs",
       "url": "https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz"
@@ -6884,7 +6902,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 211453,
       "name": "Demolished - Frost Children Remix",
       "url": "https://open.spotify.com/track/1VjaYij5lLaHf2LC7FoSZX"
@@ -6902,7 +6920,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 180571,
       "name": "Demon",
       "url": "https://open.spotify.com/track/5I9T8nD2r7GlFEs9p2AeRv"
@@ -7964,7 +7982,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 117394,
       "name": "draugr",
       "url": "https://open.spotify.com/track/1UrZ6imOCcIUuENbqhbTjS"
@@ -8958,7 +8976,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 142639,
       "name": "eyes",
       "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
@@ -9144,7 +9162,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 237747,
       "name": "FALL TIME",
       "url": "https://open.spotify.com/track/1AAZyEtoIfJZhfbQNSRW4W"
@@ -9162,7 +9180,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 146312,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5kF75nYsLqsSSVXrXVQg0u"
@@ -9214,7 +9232,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 223108,
       "name": "falling apart",
       "url": "https://open.spotify.com/track/0wgtdC5fxpFgKd3f3nKshM"
@@ -9791,6 +9809,24 @@
     },
     {
       "album": {
+        "name": "FLATLINE",
+        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225883,
+      "name": "FLATLINE",
+      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
+    },
+    {
+      "album": {
         "name": "N / O / I / S / E",
         "url": "https://open.spotify.com/album/2W5rUof3EANdwzqAMtAWhF"
       },
@@ -9918,7 +9954,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 172291,
       "name": "foolish",
       "url": "https://open.spotify.com/track/2w5Dbp9Y9LDbsMlfArcL9w"
@@ -9958,7 +9994,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 188187,
       "name": "for you",
       "url": "https://open.spotify.com/track/3G1ng26EFxXcpdNoEneKMF"
@@ -10120,6 +10156,24 @@
       "duration_ms": 250370,
       "name": "FORMULA ONE",
       "url": "https://open.spotify.com/track/63cMz7A9RmlkXgWTKmIGpY"
+    },
+    {
+      "album": {
+        "name": "SPIRAL",
+        "url": "https://open.spotify.com/album/10qWPkPkr3hstmzIaVHtRN"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150769,
+      "name": "FOX BOP",
+      "url": "https://open.spotify.com/track/0Nh440aKOuihvPcXaSMiob"
     },
     {
       "album": {
@@ -11212,7 +11266,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 228223,
       "name": "givemetoyou",
       "url": "https://open.spotify.com/track/1N1z5pDT7K5xA4OrZk4g3i"
@@ -11988,7 +12042,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 136557,
       "name": "HAHAH",
       "url": "https://open.spotify.com/track/4esa3tKLyvysJpj70fUCyK"
@@ -14508,7 +14562,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 170310,
       "name": "ihy",
       "url": "https://open.spotify.com/track/40zIP85t03fk8iHAlmzmtt"
@@ -15484,7 +15538,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 138082,
       "name": "Just Another Day - Petal Supply Remix",
       "url": "https://open.spotify.com/track/40DhYNOtlg5vro3eXfp54V"
@@ -20576,7 +20630,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 168955,
       "name": "paper plane",
       "url": "https://open.spotify.com/track/5Nuq71qQlePrI8GErxJsFw"
@@ -22840,7 +22894,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 145786,
       "name": "report back",
       "url": "https://open.spotify.com/track/2rY3hyiGbEc8lDbP6ZGVoR"
@@ -24450,7 +24504,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 234350,
       "name": "She Wanna - version",
       "url": "https://open.spotify.com/track/3HVWlTVhtSj1b94fiRyK7T"
@@ -24668,7 +24722,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 65031,
       "name": "SHOW ME",
       "url": "https://open.spotify.com/track/13TmrYGHFRTbF6aMGahtSN"
@@ -26076,7 +26130,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 229714,
       "name": "stay away - xs edition",
       "url": "https://open.spotify.com/track/4Wx2U1dhzMQBx9LoVSLSXq"
@@ -28480,7 +28534,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 214458,
       "name": "Tommy's Dream - PVA Remix",
       "url": "https://open.spotify.com/track/6Vwgdkgeo1uj51nSKLg76h"
@@ -28870,7 +28924,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 220008,
       "name": "True Love",
       "url": "https://open.spotify.com/track/6GwHYc28I8kh9PwhsGYBbw"
@@ -28914,7 +28968,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 136620,
       "name": "try!",
       "url": "https://open.spotify.com/track/1LCL2KQq5mJwb9rYwidGan"
@@ -29102,7 +29156,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 117624,
       "name": "two",
       "url": "https://open.spotify.com/track/2t6m7AWTXQxA892kcJUcZZ"
@@ -31818,7 +31872,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-25",
       "duration_ms": 100602,
       "name": "zyzz",
       "url": "https://open.spotify.com/track/2zJ00hGWE9O5mZHKptZRlg"

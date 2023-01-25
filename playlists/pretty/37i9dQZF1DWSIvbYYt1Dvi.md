@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > costa, pedrinho e kaxeta slc é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,551 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,760 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 29 | [Aulas e Palestras](https://open.spotify.com/track/0eh5ZxasoT8tJBDEZ6oi6c) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Insane Tracks](https://open.spotify.com/artist/1eEi4Stf9m65EW0JwWodYZ) | [Dr\. Drill](https://open.spotify.com/album/0uc0wcg2BWv4J8NtrzPRK0) | 4:11 |
 | 30 | [A Gente Nasce Assim](https://open.spotify.com/track/6Pu8yzCWAcEHTZPVCXBnX1) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [A Gente Nasce Assim](https://open.spotify.com/album/71WLdNcIWoaufBRpM0kfLT) | 3:40 |
 | 31 | [Facilitei](https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Facilitei](https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC) | 3:32 |
-| 32 | [O Que Eu Não Sei](https://open.spotify.com/track/07Kfl5a8EQdy2nxeQmQ2QZ) | [AZN Studio](https://open.spotify.com/artist/3mmQ2jRf2DDpkI844nTT1h), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Akil](https://open.spotify.com/artist/3BRur6P9nSyn8rG6yB5nqv) | [O Que Eu Não Sei](https://open.spotify.com/album/59vjYc18WBcUKa1wRl5bhH) | 2:20 |
+| 32 | [Retrato \#1 \- O Que Eu Não Sei](https://open.spotify.com/track/07Kfl5a8EQdy2nxeQmQ2QZ) | [AZN Studio](https://open.spotify.com/artist/3mmQ2jRf2DDpkI844nTT1h), [Akil](https://open.spotify.com/artist/3BRur6P9nSyn8rG6yB5nqv) | [Retrato \#1 \- O Que Eu Não Sei](https://open.spotify.com/album/59vjYc18WBcUKa1wRl5bhH) | 2:20 |
 | 33 | [Kim N Kanye](https://open.spotify.com/track/5NJHee8EbpbMv6Mb8ZilZI) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Kim N Kanye](https://open.spotify.com/album/7gQ2aVBOespHG0nqvJGSwu) | 3:06 |
 | 34 | [Fica Até Umas Hora](https://open.spotify.com/track/7xga0gWCTSUpU7Uz5pldQS) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Fica Até Umas Hora](https://open.spotify.com/album/76mwd2KXWLCHumse2wW7Eq) | 3:48 |
 | 35 | [Mensagem 2](https://open.spotify.com/track/3iZEhKaTMWl2W9IPh8mITL) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [DJ Negret](https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna) | [Mensagem 2](https://open.spotify.com/album/1Onvt9GCYQ46aruicT8QLM) | 2:31 |

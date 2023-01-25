@@ -4,7 +4,7 @@
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-78 songs - 5 hr 3 min
+80 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Healing](https://open.spotify.com/track/120juWqk4ShxUDo1AzPAlA) | [The 2 Inversions](https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ) | [Healing](https://open.spotify.com/album/0FDntcyVJxyFwj4Xv13JTk) | 2:02 | 2022-09-06 |  |
 | [In The Distance](https://open.spotify.com/track/5INKoLuvsbws7oBfS2rmEp) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [In The Distance](https://open.spotify.com/album/4FbG1Q7xwrNpq1pfZL3psk) | 2:31 | 2022-12-21 |  |
 | [IRAQ Raqsat albedoi: Raqsat albedoi \(Iraq\)](https://open.spotify.com/track/4Y4GBq0srsSKYB0Nuy4pr8) | [Ahmed Mukhtar](https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa) | [Music of the Middle East \- Iran, Syria, Iraq, Egypt, Turkey, Armenia, Lebanon à](https://open.spotify.com/album/7gH8Q7FboKsxqpfTbXWElF) | 5:27 | 2022-10-24 | 2022-11-13 |
+| [Khufu](https://open.spotify.com/track/5647gFRJvr9e8nxwx16A1W) | [Duduk Tribe](https://open.spotify.com/artist/3dq4MRFFVkVm6MGSnhRW56) | [Khufu](https://open.spotify.com/album/0DmSILtOgDrnW8MDuIks41) | 4:05 | 2023-01-24 |  |
 | [Luminescent](https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Luminescent](https://open.spotify.com/album/64UGm861qokqOZbmpjR6du) | 4:24 | 2022-09-06 |  |
 | [Masal \- Instrumental](https://open.spotify.com/track/0J0f4HTpSzV5szjahBbSmA) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Neval](https://open.spotify.com/artist/3xsWhJ3BXOnSewlzawH8RU) | [Masal](https://open.spotify.com/album/38ODX8TSmkn3iKYjCDxYlh) | 2:52 | 2022-09-06 |  |
 | [Masnavi Bayat Esfahan](https://open.spotify.com/track/294vBP3FeWDwpYwvGsy9Y4) | [Shahram Gholami](https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8) | [Persian Oud, Dirine Delkhah](https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4) | 2:52 | 2022-09-06 |  |
@@ -61,6 +62,7 @@
 | [Regeneration Flow](https://open.spotify.com/track/7sDkUfK1wzqA90Sn3TDl28) | [Healing Oriental Spa Collection](https://open.spotify.com/artist/0LohrwJvGCI9TAxhXIDf2v) | [Arabic Relaxation & Spa \(Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute\)](https://open.spotify.com/album/5RpuWZrVphDGU0ycATwchl) | 3:20 | 2022-09-06 | 2023-01-06 |
 | [Restore Balance](https://open.spotify.com/track/6RI7dZ4M2PAkHtCypMnSoL) | [Oasis of Relaxation and Meditation](https://open.spotify.com/artist/1f9ymt2Hm1RUD18aA7B1bT) | [Middle Eastern Meditation \(Relaxing Arabic Music, Spirituality, Sacred Relaxation, Prophetic Healing\)](https://open.spotify.com/album/4m754WhMXAVWoF7SkWhWc8) | 3:47 | 2022-09-06 |  |
 | [Sand Storm in the Arabian Desert](https://open.spotify.com/track/7BV3p7y8dVC02UVZkvrHGW) | [Deep Meditation & Relaxation Music](https://open.spotify.com/artist/61bD7GGBXUklehjWIkmhnE) | [Deserts Meditation Music](https://open.spotify.com/album/4FjfVqLBmhmJ1MKiVEHWRE) | 10:50 | 2022-09-06 |  |
+| [Saqqara](https://open.spotify.com/track/1vZrg7QCREDWOEAe2ZgaGY) | [Pharaoh's Flute](https://open.spotify.com/artist/1SxH2ytHs9DxIZI7tqDbS6) | [Saqqara](https://open.spotify.com/album/7IXTLMVK68BE6F8bOlFoOy) | 4:06 | 2023-01-24 |  |
 | [Savasana Dream](https://open.spotify.com/track/1UJSTJmCGyVMiF66dlIvLv) | [Wellness Portal](https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs) | [Savasana Dream](https://open.spotify.com/album/6McMuE7IKh65r5Gj8YciCS) | 2:44 | 2022-09-30 |  |
 | [Shining Through](https://open.spotify.com/track/1ZbwflBaFjdfZbdK4C5uK1) | [Hamid Motebassem](https://open.spotify.com/artist/76AfiUNXweLpRzTYqcAFPx) | [The Azeri Project](https://open.spotify.com/album/3qWl7PaIKVOhc4COB6ExP6) | 1:37 | 2022-09-06 |  |
 | [Silent Saunas](https://open.spotify.com/track/2uO03QD9Ftji8n2ZLKglGi) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Silent Saunas](https://open.spotify.com/album/3HByXhtdotcuoB91KHcc1R) | 3:59 | 2022-09-06 |  |
@@ -83,7 +85,7 @@
 | [Yohanan \- Live '21](https://open.spotify.com/track/13kA7Nt2p6Njz8ziYi2w0b) | [Tomas Raae](https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL), [Urban Faint](https://open.spotify.com/artist/2O4LS78mktVWpMilMzy2q1) | [Yohanan \(Live '21\)](https://open.spotify.com/album/4LRYq5AbAytHDhvBenaziu) | 6:01 | 2023-01-09 |  |
 | [Искусство цигун](https://open.spotify.com/track/6kujJnkMNAv8gaQGbTVCRz) | [Духовная медитация академия](https://open.spotify.com/artist/1xhosPIWji99GNfmj5A9uu) | [Китайская медитация беззвучного освещения \(Поиск просветления, Концентрированный ум, Единая душа, Путешествие глубокого пробуждения\)](https://open.spotify.com/album/2aZuABxTR9fF6fPklX7NM8) | 3:50 | 2022-09-06 | 2022-10-01 |
 | [الموسيقى الشرقية](https://open.spotify.com/track/0yjSKEPwxq23mlW5UKgBMI) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [إيقاعات شرقية](https://open.spotify.com/album/36MW3rnu3O3ljTirs4WrJC) | 3:38 | 2022-09-06 |  |
-| [داري يا قلبي](https://open.spotify.com/track/65vhIvTrRSN26oas09rNtJ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [نمرة لاونج](https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2) | 4:54 | 2022-12-21 |  |
+| [داري يا قلبي](https://open.spotify.com/track/65vhIvTrRSN26oas09rNtJ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [نمرة لاونج](https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2) | 4:54 | 2022-12-21 | 2023-01-25 |
 | [दुनिया के सपने](https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [दुनिया के सपने](https://open.spotify.com/album/0ihKyQCEMBXP9OzZLvnppA) | 2:03 | 2022-09-06 |  |
 | [हीलिंग संगीत](https://open.spotify.com/track/42OSQ6hAF9tviEK9IfU0uJ) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [हीलिंग संगीत](https://open.spotify.com/album/3B32SEiXthq0sp3WLuxrKj) | 2:46 | 2022-09-06 |  |
 

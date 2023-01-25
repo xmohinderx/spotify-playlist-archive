@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 131302,
+  "num_followers": 131412,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDk4YWM2ZmFhNGIwMGZiZGI0YjA0NDVkNTBmMzg1NDIx",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDU5NzU0NDU1MGFmNGMyM2ViY2ZlM2JhMGFkODY4ZWYy",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1055,30 +1055,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "BLUNTED 5 (Remix)",
-        "url": "https://open.spotify.com/album/6TkyJYlqu5RNWaIFWC8j9d"
-      },
-      "artists": [
-        {
-          "name": "Bruno LC",
-          "url": "https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR"
-        },
-        {
-          "name": "Blunted Vato",
-          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
-        },
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        }
-      ],
-      "duration_ms": 141075,
-      "name": "BLUNTED 5 - Remix",
-      "url": "https://open.spotify.com/track/6dlW3JOpCjzLBaNLiMfmx9"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Tussi",
         "url": "https://open.spotify.com/album/4PCoivnY82jomNXqvOkEhC"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 189466,
       "name": "Tussi",
       "url": "https://open.spotify.com/track/4vjVdfdBHnUiaFCcUa3gfn"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "BLUNTED 5 (Remix)",
+        "url": "https://open.spotify.com/album/6TkyJYlqu5RNWaIFWC8j9d"
+      },
+      "artists": [
+        {
+          "name": "Bruno LC",
+          "url": "https://open.spotify.com/artist/5XUp43SjeL84EDkWoCG3qR"
+        },
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        },
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 141075,
+      "name": "BLUNTED 5 - Remix",
+      "url": "https://open.spotify.com/track/6dlW3JOpCjzLBaNLiMfmx9"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Rata Tan Tan",
-        "url": "https://open.spotify.com/album/0i7LxLqsHbR0lz6MJQyZt1"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 152731,
-      "name": "Rata Tan Tan",
-      "url": "https://open.spotify.com/track/7wWqLiOmDfjGTwrz95niTD"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 201858,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Rata Tan Tan",
+        "url": "https://open.spotify.com/album/0i7LxLqsHbR0lz6MJQyZt1"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 152731,
+      "name": "Rata Tan Tan",
+      "url": "https://open.spotify.com/track/7wWqLiOmDfjGTwrz95niTD"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/2oLEG1I4AcvA630m0wSuZH"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 173945,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/3ymRYcYHxXMmyvCaKcJ46k"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 275241,
       "name": "Pirueta (with Arcangel, Chencho Corleone, feat. Wisin & Yandel, Myke Towers)",
       "url": "https://open.spotify.com/track/5tx7TTJEcrV5642l0Sn2sD"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/2oLEG1I4AcvA630m0wSuZH"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 173945,
-      "name": "Skyline",
-      "url": "https://open.spotify.com/track/3ymRYcYHxXMmyvCaKcJ46k"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -2019,26 +2019,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Pikete",
-        "url": "https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 153191,
-      "name": "Pikete",
-      "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Deseos",
         "url": "https://open.spotify.com/album/2MXLNh2b4ehnJ2fx3UbO6X"
       },
@@ -2055,6 +2035,26 @@
       "duration_ms": 203070,
       "name": "Deseos",
       "url": "https://open.spotify.com/track/2AxLTHG7lOBmnyB5FmOMwz"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Pikete",
+        "url": "https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 153191,
+      "name": "Pikete",
+      "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
     },
     {
       "added_at": "2022-11-18 03:00:00",

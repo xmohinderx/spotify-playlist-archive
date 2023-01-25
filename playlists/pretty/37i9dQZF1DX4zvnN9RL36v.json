@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 4129,
+  "num_followers": 4134,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MjQ3NywwMDAwMDAwMDEzNDM3Mjg1ZTZkOTNmOWYzYmI1ZjUyNzRkZWI5Yjhl",
+  "snapshot_id": "MTY3MzU4MjQ3NywwMDAwMDAwMDU0NTBhMTY5MTg3YzE5MDdkNTgzNjk4NmNkYWExNzA0",
   "tracks": [
     {
       "added_at": "2023-01-13 04:01:17",
@@ -815,18 +815,22 @@
     {
       "added_at": "2023-01-13 04:01:17",
       "album": {
-        "name": "IGNITION (SPECIAL EDITION)",
-        "url": "https://open.spotify.com/album/2yrJ8f0QF3nBRAmZg0Bsm0"
+        "name": "Seoul Vibes, Pt. 6",
+        "url": "https://open.spotify.com/album/0aQUxppY2FjNgIGJQm8ote"
       },
       "artists": [
         {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+          "name": "KozyPop",
+          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
+        },
+        {
+          "name": "Jehwwn",
+          "url": "https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw"
         }
       ],
-      "duration_ms": 229031,
-      "name": "Unrequited Love",
-      "url": "https://open.spotify.com/track/4qCoekl5BaHK9aYc54C2tX"
+      "duration_ms": 203339,
+      "name": "Eul (feat. Gyeong Je Hwan)",
+      "url": "https://open.spotify.com/track/7d3e2N9vHD1nJc50Q0HAmf"
     }
   ],
   "unique_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",

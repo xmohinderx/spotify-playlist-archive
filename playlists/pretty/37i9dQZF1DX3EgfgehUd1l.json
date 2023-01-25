@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 144259,
+  "num_followers": 144297,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NDIyOTc2OCwwMDAwMDAwMGUwZjA2Nzc3MDIwYjg3YjhkY2VjMjBiNjRkZGI0MmIx",
+  "snapshot_id": "MTU5NDIyOTc2OCwwMDAwMDAwMDFiZTA4ZmU2NTMwMGU3NmYzMWI2NWQwZjkwZThkMGY1",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -487,22 +487,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Four Aces' Greatest Hits",
-        "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
+        "name": "The Ultimate",
+        "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
       },
       "artists": [
         {
-          "name": "The Four Aces",
-          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
-        },
-        {
-          "name": "Al Alberts",
-          "url": "https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq"
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Love Is A Many-Splendored Thing",
-      "url": "https://open.spotify.com/track/5koEBSDfDV8MQVN0tg67z5"
+      "duration_ms": 193666,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -539,18 +535,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Ultimate",
-        "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
+        "name": "The Four Aces' Greatest Hits",
+        "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
       },
       "artists": [
         {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+          "name": "The Four Aces",
+          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
+        },
+        {
+          "name": "Al Alberts",
+          "url": "https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq"
         }
       ],
-      "duration_ms": 193666,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS"
+      "duration_ms": 179466,
+      "name": "Love Is A Many-Splendored Thing",
+      "url": "https://open.spotify.com/track/5koEBSDfDV8MQVN0tg67z5"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
+        "name": "Greatest Hits - Finest Performances",
+        "url": "https://open.spotify.com/album/40IMW6THJLdzfyxx5ngRc7"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 150133,
+      "name": "It's Only Make Believe - Re-recorded",
+      "url": "https://open.spotify.com/track/4VlUF9CigmUOU2gyXDCmP8"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
         "name": "The Essential Frankie Laine",
         "url": "https://open.spotify.com/album/2iKc2szRNAvEvtfQM5vySt"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 140360,
       "name": "A Woman in Love (with Percy Faith & His Orchestra)",
       "url": "https://open.spotify.com/track/428F8FMidC2u1ZHXNaeMuK"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Greatest Hits - Finest Performances",
-        "url": "https://open.spotify.com/album/40IMW6THJLdzfyxx5ngRc7"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 150133,
-      "name": "It's Only Make Believe - Re-recorded",
-      "url": "https://open.spotify.com/track/4VlUF9CigmUOU2gyXDCmP8"
     },
     {
       "added_at": "2020-07-08 17:36:08",

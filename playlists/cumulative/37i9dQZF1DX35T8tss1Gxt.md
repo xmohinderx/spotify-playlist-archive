@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-377 songs - 22 hr 56 min
+379 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Divine Time](https://open.spotify.com/track/7KbbymeevVUF5BCz1WvmxJ) | [Ryan Brockington](https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b) | [Divine Time](https://open.spotify.com/album/2UXsqyyOhaNUJhkiuvoCQb) | 2:32 | 2022-06-25 |  |
 | [Do It](https://open.spotify.com/track/6FckE16VQCnThMBqLbZi3c) | [Sensere](https://open.spotify.com/artist/5zzH3YutCE1JFaMYYte2Fh) | [Do It](https://open.spotify.com/album/32mkshtSeN7GuwuoT9bHfX) | 4:09 | 2022-02-19 | 2022-06-20 |
 | [Do It Again](https://open.spotify.com/track/3yHSoXS8cpzrIyNG4cirr3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [This Is Evvie McKinney](https://open.spotify.com/album/27FOigKMfea4FVW2Kzluza) | 4:50 | 2022-02-19 | 2022-06-26 |
-| [Don't Cry](https://open.spotify.com/track/1nNFLwGgXcwYG94qhkgjr6) | [Samuel Ljungblahd](https://open.spotify.com/artist/7cI6JpPjdbp5dB1cGTxp94) | [Right Now](https://open.spotify.com/album/2CfkoJlHrB9YOif9yWY5T9) | 5:46 | 2022-06-25 |  |
+| [Don't Cry](https://open.spotify.com/track/1nNFLwGgXcwYG94qhkgjr6) | [Samuel Ljungblahd](https://open.spotify.com/artist/7cI6JpPjdbp5dB1cGTxp94) | [Right Now](https://open.spotify.com/album/2CfkoJlHrB9YOif9yWY5T9) | 5:46 | 2022-06-25 | 2023-01-25 |
 | [Don't Leave \- Remix](https://open.spotify.com/track/7n8Fh5KiQB13NgCi8mYrRX) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N) | [Don't Leave \(Remix\)](https://open.spotify.com/album/0TgK23xBYyPFH4wQRSFIEN) | 3:17 | 2022-03-05 | 2022-04-19 |
 | [Down \(Remix\)](https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [Down \(Remix\)](https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD) | 3:05 | 2022-06-25 |  |
 | [Drive](https://open.spotify.com/track/4ScuweLj0tTDZobFXMBEEy) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Drive](https://open.spotify.com/album/31N8Te52jkft4appFKnqzd) | 2:42 | 2022-03-05 | 2022-06-13 |
@@ -134,7 +134,7 @@
 | [good morning](https://open.spotify.com/track/3v0Acj3Y5dbUgw2X3GoBqd) | [Chris Jackson](https://open.spotify.com/artist/2MOdWRBZXXIhDGOd1Fe1c1) | [good morning](https://open.spotify.com/album/7lv8usl4RCBTpk8MjeHGkb) | 2:40 | 2022-04-01 | 2022-07-29 |
 | [Good Now \(Remix\) \(feat\. Wande\)](https://open.spotify.com/track/7lgSu9ocppDwVDOvr8L4cJ) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Good Now \(Remix\) \(feat\. Wande\)](https://open.spotify.com/album/0unGJPuRmYzRbkg43p79Pt) | 3:15 | 2022-02-19 | 2022-06-26 |
 | [Goodness and Mercy](https://open.spotify.com/track/5lnh7ZU2YS7MqFB8FH2IOB) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Quiet Time](https://open.spotify.com/album/17PlNaHTRnxmYLS4l6lU9G) | 3:08 | 2022-02-27 | 2022-06-16 |
-| [Gotta Be God](https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Gotta Be God](https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv) | 2:48 | 2022-07-08 |  |
+| [Gotta Be God](https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Gotta Be God](https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv) | 2:48 | 2022-07-08 | 2023-01-25 |
 | [GRACE](https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [GRACE](https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct) | 4:15 | 2022-02-27 | 2023-01-21 |
 | [Grace](https://open.spotify.com/track/6toqkWDFYdqZo5pTFeCa1E) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Grace](https://open.spotify.com/album/0f4FkJpd9A2b6rGpK1CMnZ) | 3:27 | 2022-02-19 | 2022-02-28 |
 | [Grace](https://open.spotify.com/track/1hCa15BtSKMQGa4iDcnV3S) | [Kevin Downswell](https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4) | [Grace](https://open.spotify.com/album/1PlYeaM005XFc1ggzEjllS) | 4:15 | 2022-06-25 | 2023-01-21 |
@@ -360,10 +360,12 @@
 | [Well Done](https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Well Done](https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35) | 4:52 | 2022-04-01 | 2022-04-20 |
 | [What Would I Gain?](https://open.spotify.com/track/10tkcAcUnlENPwDbnIaD5p) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [What Would I Gain?](https://open.spotify.com/album/1O5hJ19jwKmEjqkQHFgYjD) | 3:54 | 2022-04-01 | 2023-01-21 |
 | [When I Pray](https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [When I Pray](https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl) | 3:41 | 2022-02-19 | 2022-06-26 |
+| [When Tears Fall](https://open.spotify.com/track/6kGPEBbI2Uk7nTsfcd2pmF) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP) | [When Tears Fall](https://open.spotify.com/album/5KIb2TJs6Fz2h1egoxjweO) | 2:48 | 2023-01-20 |  |
 | [When We Get There](https://open.spotify.com/track/20NBUKWjWeWr6P3vNQL6d9) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:19 | 2022-06-25 |  |
 | [WILIN'](https://open.spotify.com/track/7AiB9ggkygd2xLF0x4HVN4) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [CHURCH GIRLS LOVE R&B](https://open.spotify.com/album/44iSFo3yR8NhX8CJUsERmk) | 4:09 | 2022-03-05 | 2022-04-08 |
 | [Win](https://open.spotify.com/track/7JgMB2xjZQ7yXG50DQFcpS) | [CANDIACE](https://open.spotify.com/artist/5JszSvXkRAk75bLoZDOHkP) | [Win](https://open.spotify.com/album/6Wo2MhAA70UrNXhVfI65rn) | 2:36 | 2022-04-01 | 2023-01-15 |
 | [Window Pane](https://open.spotify.com/track/2KYE1Kv1kMpruDPAOW1mw7) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9) | [Window Pane](https://open.spotify.com/album/3QeGq4OruARDU3xLn47uUz) | 4:29 | 2022-03-05 | 2022-06-13 |
+| [Windows](https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows](https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl) | 4:35 | 2023-01-20 |  |
 | [Without You](https://open.spotify.com/track/1FsGBL397lIzp4oYPLht0E) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs) | [Without You](https://open.spotify.com/album/1xl7tDD0FSHIEVAtPh4TyA) | 3:21 | 2022-02-27 | 2022-06-05 |
 | [without you](https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [without you](https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z) | 2:56 | 2023-01-20 |  |
 | [Woah](https://open.spotify.com/track/7qyi54tnHpLmz2kKnu2gzb) | [Erica Mason](https://open.spotify.com/artist/5CH8cf1MmcMAWBpQLiQ3sz) | [Woah](https://open.spotify.com/album/6speY24KPqrdvCmurxTh7T) | 3:01 | 2022-02-19 | 2022-06-19 |

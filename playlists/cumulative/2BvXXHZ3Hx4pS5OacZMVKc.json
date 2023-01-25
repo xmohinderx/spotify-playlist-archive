@@ -2179,6 +2179,32 @@
     },
     {
       "album": {
+        "name": "Kadak",
+        "url": "https://open.spotify.com/album/7jKwzWimhGo5NlJPi9Dsn8"
+      },
+      "artists": [
+        {
+          "name": "Zack Merci",
+          "url": "https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI"
+        },
+        {
+          "name": "Nieko",
+          "url": "https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm"
+        },
+        {
+          "name": "Blxk Trey",
+          "url": "https://open.spotify.com/artist/5Hntq1muZRx5fSiqTRdSjd"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180818,
+      "name": "Kadak",
+      "url": "https://open.spotify.com/track/0BGLi3AIUN1Kk9D0EQo1H2"
+    },
+    {
+      "album": {
         "name": "Left Me Blind",
         "url": "https://open.spotify.com/album/7kwOiP8O8sPf9J9YhZuQOa"
       },

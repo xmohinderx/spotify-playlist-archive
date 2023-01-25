@@ -4,7 +4,7 @@
 
 > Från PJ Harvey via Jenny Wilson till Amanda Bergman och Slowgold\. Här hör du några av alla kvinnor som är med och skriver indiehistoria.
 
-171 songs - 11 hr 1 min
+172 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [Aldrig lugnt](https://open.spotify.com/track/2iR1tqW264exVMo8f9bqR7) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Aldrig samma/Alltid samma](https://open.spotify.com/album/7rSADEoiXHU0dN8Mo0KStQ) | 3:02 | 2021-06-15 |  |
 | [All Is Full of Love](https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Greatest Hits](https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2) | 4:47 | 2021-06-15 |  |
 | [Baby No Name](https://open.spotify.com/track/5oYCY3xAQl7rBWEfqJf2Ly) | [Britta Persson](https://open.spotify.com/artist/1p3J6laThbGvAuz642q1O6) | [If I Was a Band My Name Would Be Forevers](https://open.spotify.com/album/262cPLTeWxmx2PkYJ9XAYu) | 3:17 | 2021-06-15 |  |
-| [Back to Reality](https://open.spotify.com/track/1hOBDeJAnRyR6rfVXgNQtd) | [Hey Elbow](https://open.spotify.com/artist/75P1YhfXqy9x3OUjJZjZIk) | [C0C0C0](https://open.spotify.com/album/5iTRb9dJLLhSeCuEQ7XRfk) | 3:39 | 2021-06-15 |  |
+| [Back to Reality](https://open.spotify.com/track/1hOBDeJAnRyR6rfVXgNQtd) | [Hey Elbow](https://open.spotify.com/artist/75P1YhfXqy9x3OUjJZjZIk) | [C0C0C0](https://open.spotify.com/album/5iTRb9dJLLhSeCuEQ7XRfk) | 3:39 | 2021-06-15 | 2023-01-25 |
 | [Back to Reality](https://open.spotify.com/track/2xHFCRcp1tz3SyemNhKOI0) | [Hey Elbow](https://open.spotify.com/artist/75P1YhfXqy9x3OUjJZjZIk) | [Back to Reality](https://open.spotify.com/album/4oD18cDKonjHW9kcrTHG6G) | 3:39 | 2021-06-15 | 2022-07-29 |
+| [Back to Reality](https://open.spotify.com/track/6hT6eYOuH1NFPEKAGgNUJ8) | [Hey Elbow](https://open.spotify.com/artist/75P1YhfXqy9x3OUjJZjZIk) | [C0C0C0](https://open.spotify.com/album/6MRdDW0R4LkjiHINuq9sMA) | 3:39 | 2021-06-15 |  |
 | [Back to Reality](https://open.spotify.com/track/6mfh1SGc5gzdlVjC14YUAq) | [Hey Elbow](https://open.spotify.com/artist/75P1YhfXqy9x3OUjJZjZIk) | [Back to Reality](https://open.spotify.com/album/41qC5RNYI1aTYq9oi91ib4) | 3:39 | 2021-06-15 | 2022-11-13 |
 | [bodyache](https://open.spotify.com/track/2DopRU3QWz4CWymUUrKvO4) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/4ymjpcGruNuUUUZOeGawLe) | 2:53 | 2021-06-15 | 2022-07-29 |
 | [bodyache](https://open.spotify.com/track/4gWvy90PdAXgY39Z7S8zSe) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn) | 2:53 | 2021-06-15 |  |

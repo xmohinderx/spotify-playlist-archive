@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-223 songs - 11 hr 0 min
+224 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Magneto](https://open.spotify.com/track/6QpUKeuW5YxcQ5m3r9lwBl) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [The Incredible Crocotiger](https://open.spotify.com/album/3j7XTxpkvKB3bkkkLQmP5P) | 2:50 | 2021-09-03 |  |
 | [Mala Influencia](https://open.spotify.com/track/1yzoFk7CkO01YSC3GWi5Z1) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Marcela Viejo](https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx), [Mario Cobo](https://open.spotify.com/artist/4Wq5nHO913AYYjcuHr59ML), [Dani Nel\-lo](https://open.spotify.com/artist/4pYQYbMal0JjX4kwmGgGdd) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:27 | 2021-09-03 |  |
 | [Mar de Caca](https://open.spotify.com/track/5WxA2mR2wBnPXOvpRFkOXk) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [¡Puedes o No Puedes!](https://open.spotify.com/album/2Sdc8wuXkFxcNyZ9jjdqNL) | 3:34 | 2021-09-03 | 2023-01-14 |
+| [Mar De Caca](https://open.spotify.com/track/6EF3LO2JAec99G5OFvrdJK) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [¡Puedes O No Puedes!](https://open.spotify.com/album/3nKCnrYo0hNwudR9vTFRl8) | 3:34 | 2021-09-03 |  |
 | [Maremoto Shake](https://open.spotify.com/track/0mcyq6bCHGF08smeC1B72k) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Maremoto Shake](https://open.spotify.com/album/0bPZLplqluqn69ynqcyye9) | 3:03 | 2022-08-19 |  |
 | [Mavericks](https://open.spotify.com/track/0d2nwq8bTVzvHzx60A0IP7) | [Los Kahunas](https://open.spotify.com/artist/7BaYvs3P41031o3edkXrce) | [El Fantastico Sonido Surf & Hot Rod de los Kahunas](https://open.spotify.com/album/4AR2Ig1ZjyMxfyske9Ohak) | 2:22 | 2021-09-03 | 2022-07-22 |
 | [Metralleta](https://open.spotify.com/track/3L7RYCRoKOnqsgDL9cXdUD) | [Acuario Cosmico](https://open.spotify.com/artist/6Sq1Zu3ALe2ldsnYUS7zYY) | [Metralleta](https://open.spotify.com/album/5nY5psozTUXskeoczm947N) | 2:35 | 2021-09-03 | 2022-07-06 |
@@ -161,7 +162,7 @@
 | [Peyoteando Con Ayahuasca](https://open.spotify.com/track/1dfR1vi6sYqngeVc75nFZW) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 3:06 | 2021-09-03 |  |
 | [Phantom of the Highway](https://open.spotify.com/track/61CMs0MZFO5Arpau5P4l3R) | [Los Twang! Marvels](https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL) | [Prueba de Fuego](https://open.spotify.com/album/4B3X3FXinXFLV1h69mqVUE) | 2:46 | 2021-09-03 | 2022-07-23 |
 | [Piangi Con Me](https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [I Wanna Believe](https://open.spotify.com/album/6EnAmJs0JJSoXNchktGik8) | 3:58 | 2021-09-03 |  |
-| [Pintor](https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad) | [Hawaii Samurai](https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK) | [The Octopus Incident? \(This Was the Day That Engulfed the Space in Terror\)](https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0) | 2:38 | 2021-09-03 |  |
+| [Pintor](https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad) | [Hawaii Samurai](https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK) | [The Octopus Incident? \(This Was the Day That Engulfed the Space in Terror\)](https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0) | 2:38 | 2021-09-03 | 2023-01-25 |
 | [Pipeline](https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 2:59 | 2021-09-03 |  |
 | [Pirakor](https://open.spotify.com/track/28WuMTR0P01MYIlK11uUsE) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Los Elásticos](https://open.spotify.com/album/4U6G03jSc18QPPxkx9ksBD) | 3:13 | 2021-09-03 |  |
 | [Plato Roto](https://open.spotify.com/track/4q735VGiF2shMNXTtRzwtt) | [Los Magnificos](https://open.spotify.com/artist/1Nru8JRh3JqTMkAnIox4RB) | [Los Magníficos](https://open.spotify.com/album/0HlEemp9yRnQraEb94ssUq) | 3:12 | 2021-09-03 | 2022-07-23 |

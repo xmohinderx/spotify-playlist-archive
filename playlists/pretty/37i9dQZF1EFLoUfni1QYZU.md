@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Us5C0HFdmcZ9MjiU11rWa">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501 likes - 82 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 502 likes - 82 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 37 | [Heavenly Light](https://open.spotify.com/track/7m8kjTGYFtjjn4ZnrDLX6B) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:50 |
 | 38 | [Long Way To Go To Die](https://open.spotify.com/track/4tLY4kxlciE804P2NqY9jy) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 4:10 |
 | 39 | [Dreamcatcher](https://open.spotify.com/track/45ES0Xxr4N4YnNvS0yUe4v) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:15 |
-| 40 | [Lolita](https://open.spotify.com/track/5xnogcyfSvaSLu9Ad9CaBH) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Lolita](https://open.spotify.com/album/0dz08Fh4ZEZzZFBApPHLTf) | 3:25 |
-| 41 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 |
+| 40 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 |
+| 41 | [Lolita](https://open.spotify.com/track/5xnogcyfSvaSLu9Ad9CaBH) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Lolita](https://open.spotify.com/album/0dz08Fh4ZEZzZFBApPHLTf) | 3:25 |
 | 42 | [One Night in the Sun](https://open.spotify.com/track/29xUFQ0Zvh5U7vYtlgrTGw) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 4:24 |
 | 43 | [One Last Mistake](https://open.spotify.com/track/0Mo8e9GpOr8dJ2YuOo7jNB) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:35 |
 | 44 | [The Power](https://open.spotify.com/track/7sxj9JzppS5rYayRsvZixD) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 4:38 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 46 | [Day By Day](https://open.spotify.com/track/1AWffsRRRPuqAM6hC5atPX) | [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Day By Day](https://open.spotify.com/album/6VU1gU8DiUTwtBOglFMYGO) | 3:40 |
 | 47 | [Tear It Down](https://open.spotify.com/track/3mBpbLyT9wDg50I0lgmAul) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Hot Thoughts](https://open.spotify.com/album/1OPdyA7ZW7zIZEmSqThRGy) | 4:20 |
 | 48 | [Your Town](https://open.spotify.com/track/3HzpX6bOdxUq9X4cDObkNJ) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:25 |
-| 49 | [Free to Love](https://open.spotify.com/track/7va3JyczUDb1173FZwU5Ol) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:27 |
-| 50 | [Levitator](https://open.spotify.com/track/3zla0UocDoFH1AQdTd4hfC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:55 |
+| 49 | [Levitator](https://open.spotify.com/track/3zla0UocDoFH1AQdTd4hfC) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:55 |
+| 50 | [Free to Love](https://open.spotify.com/track/7va3JyczUDb1173FZwU5Ol) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:27 |
 | 51 | [Salvation](https://open.spotify.com/track/5KMNtw6HVCvXeY3b60JtGR) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:51 |
 | 52 | [Change My Mind](https://open.spotify.com/track/6kU61vxWjXCb8hxJQm16j7) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Courage \(Deluxe Edition\)](https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc) | 3:01 |
 | 53 | [Hey Nice To Know Ya](https://open.spotify.com/track/46oEi1KC1eNDyNdCbGdZ1d) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:24 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 77 | [Sex Ed](https://open.spotify.com/track/2HjBGYAl1Z1OtYsjkqTi1N) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Sex Ed](https://open.spotify.com/album/0w5HxteP4Tqwc1F9Bsido7) | 3:15 |
 | 78 | [Open Arms](https://open.spotify.com/track/32Xcqk0WiUAMmEcwHGHgzM) | [Audra Mae](https://open.spotify.com/artist/21jPcGkRtUofRVCC8cWHPS), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love, Audra Mae](https://open.spotify.com/album/3qAe8oxZEXafgYluYnkEUR) | 4:27 |
 | 79 | [Come On & Get It](https://open.spotify.com/track/5qZZo8XGfe2XPt9ggCV3dA) | [DJ Dan](https://open.spotify.com/artist/4w7PNHWFtN2CNkDNhDL7c3), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [L.P.](https://open.spotify.com/artist/0EiFuHVGo5D7B8JeeOg3bK) | [DJ Dan Presents Future Retro](https://open.spotify.com/album/7rVQG7r5pRfKOVKRV0lX05) | 3:12 |
-| 80 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
-| 81 | [Roller Coaster](https://open.spotify.com/track/6elXVlR9dJliy71mybZP7s) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/0GAtHpvRswlQ1ONVQgz9q5) | 3:30 |
+| 80 | [Roller Coaster](https://open.spotify.com/track/6elXVlR9dJliy71mybZP7s) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/0GAtHpvRswlQ1ONVQgz9q5) | 3:30 |
+| 81 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 82 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `Mjc5MDcyNjEsMDAwMDAwMDBhOTI4ZmY4ZDUxNmVlMzMwODA2MDRmNGEwMTlmOTRhMg==`
+Snapshot ID: `Mjc5MTAwODEsMDAwMDAwMDA3OWI0ZDRiY2U0MThiMDRlMzY2OWZkMDcxNGE0N2MyOQ==`
