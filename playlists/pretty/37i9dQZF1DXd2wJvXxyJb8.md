@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > levanta a cabeça!!!! vc tem sangue de maria bonita!!!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,067 likes - 74 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,839 likes - 74 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

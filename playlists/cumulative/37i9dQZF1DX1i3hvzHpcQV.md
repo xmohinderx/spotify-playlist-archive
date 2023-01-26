@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Varisu
 
-89 songs - 5 hr 31 min
+90 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Tum Tum \(From "Enemy \- Tamil"\)](https://open.spotify.com/track/3H3x4NhR3wJh6IvRHmPvkd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Srivardhini](https://open.spotify.com/artist/6bmhUYiasV6rSORgLmHYZ4), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu), [Roshini JKV](https://open.spotify.com/artist/5e7jC00VGhxRpK5f9ahXhX), [Tejaswini](https://open.spotify.com/artist/22KTsf5b5SeYNOypXpyYBr) | [Tum Tum \(From "Enemy \- Tamil"\)](https://open.spotify.com/album/0sq7cT64heLZfuOJUsm1Ak) | 3:48 | 2021-11-15 |  |
 | [Two Two Two \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/6C8JJFoGC4dkVtAHVK3iif) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ) | [Two Two Two \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/05sVssLlubTOwlcp2pYpio) | 2:56 | 2021-11-15 |  |
 | [Vaa Thalaivaa](https://open.spotify.com/track/4H2ILdDNn6jkE7REM5skJC) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Aravind Srinivas](https://open.spotify.com/artist/4D3Rik34ofGp07ieu9zENY) | [Varisu](https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy) | 4:30 | 2023-01-13 |  |
+| [Vaa Vaathi](https://open.spotify.com/track/0cgwdBXXlPfXJXWf3wMs32) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p) | 3:45 | 2023-01-25 |  |
 | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/track/4dJrjWtAhEkW7VdPYSL1Ip) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/album/0SOw7gw33kUZHgyZpLY1Jh) | 3:48 | 2021-11-15 | 2022-06-07 |
 | [Vaathi Raid](https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:29 | 2021-11-15 | 2022-06-07 |
 | [Vikram \- Title Track](https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:38 | 2022-05-15 |  |

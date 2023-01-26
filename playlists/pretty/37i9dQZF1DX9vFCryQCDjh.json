@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 6233,
+  "num_followers": 6245,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ4MDA5MywwMDAwMDAwMDZkYjBiZThiYWNmNWI1NTAxZDZlYWVmMzBhNmEyN2I1",
+  "snapshot_id": "MTYxNTQ4MDA5MywwMDAwMDAwMGM3YjJjNmZiODNlOWEwZDA5ZWI5NzFiYjdlMTZhMjIz",
   "tracks": [
     {
       "added_at": "2021-03-11 16:28:13",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 234888,
-      "name": "White",
-      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "280KM SPEED",
         "url": "https://open.spotify.com/album/3v28A8eeQlCOnsGZlwsfVI"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 193085,
       "name": "\uac80\uc740 \uace0\uc591\uc774 \ub124\ub85c",
       "url": "https://open.spotify.com/track/6Ykaa9o0JR7j06sk1jfXKJ"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 234888,
+      "name": "White",
+      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -523,6 +523,38 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Once N 4 All",
+        "url": "https://open.spotify.com/album/1ezAh7aCsuTvnb3g2WIprH"
+      },
+      "artists": [
+        {
+          "name": "1TYM",
+          "url": "https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS"
+        }
+      ],
+      "duration_ms": 218333,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/1IkdRtsgZCtWIekX8NrLdN"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "BORN AGAIN",
+        "url": "https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 260832,
+      "name": "December",
+      "url": "https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Remake Romantic 2",
         "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
@@ -539,38 +571,6 @@
       "duration_ms": 213707,
       "name": "\uce75\ud14c\uc77c \uc0ac\ub791",
       "url": "https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "Now",
-      "url": "https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Once N 4 All",
-        "url": "https://open.spotify.com/album/1ezAh7aCsuTvnb3g2WIprH"
-      },
-      "artists": [
-        {
-          "name": "1TYM",
-          "url": "https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/1IkdRtsgZCtWIekX8NrLdN"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -623,24 +623,8 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "BORN AGAIN",
-        "url": "https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 260832,
-      "name": "December",
-      "url": "https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Fine Killing Liberty : Blue Rain",
-        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
+        "name": "Now",
+        "url": "https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO"
       },
       "artists": [
         {
@@ -648,25 +632,9 @@
           "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
         }
       ],
-      "duration_ms": 251973,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Chapter 2",
-        "url": "https://open.spotify.com/album/0HxQ33W72bcEwuJgbMscvK"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
-        }
-      ],
-      "duration_ms": 213838,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/7uTLsCiOqNGDgz6TewUMrM"
+      "duration_ms": 211426,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -699,6 +667,38 @@
       "duration_ms": 271490,
       "name": "\uc5ec\ub984 \uc548\uc5d0\uc11c",
       "url": "https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "PERFECT LOVE",
+        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "White love",
+      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Chapter 2",
+        "url": "https://open.spotify.com/album/0HxQ33W72bcEwuJgbMscvK"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "duration_ms": 213838,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/7uTLsCiOqNGDgz6TewUMrM"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -783,18 +783,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "PERFECT LOVE",
-        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
+        "name": "Fine Killing Liberty : Blue Rain",
+        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
       },
       "artists": [
         {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
         }
       ],
-      "duration_ms": 200097,
-      "name": "White love",
-      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
+      "duration_ms": 251973,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "1\uc9d1-\uc815",
-        "url": "https://open.spotify.com/album/6zYo3j6F026UDXTw6is0kU"
-      },
-      "artists": [
-        {
-          "name": "YTC",
-          "url": "https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7"
-        }
-      ],
-      "duration_ms": 230791,
-      "name": "\uc815",
-      "url": "https://open.spotify.com/track/0WSS3DmpxUIxrbLK6ETXTu"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "HEY, COME ON! - The 4th Album",
         "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 208440,
       "name": "Hey, Come On!",
       "url": "https://open.spotify.com/track/5VOTPW5potAFI9gH3QrjV5"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "1\uc9d1-\uc815",
+        "url": "https://open.spotify.com/album/6zYo3j6F026UDXTw6is0kU"
+      },
+      "artists": [
+        {
+          "name": "YTC",
+          "url": "https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7"
+        }
+      ],
+      "duration_ms": 230791,
+      "name": "\uc815",
+      "url": "https://open.spotify.com/track/0WSS3DmpxUIxrbLK6ETXTu"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Only One - The 3rd Album",
+        "url": "https://open.spotify.com/album/431ofqzymjNOtNAMLRJ92j"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/5TnG4hgREznnqDYe9IYlZc"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "The Reign",
         "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 314933,
       "name": "Anyhow Song",
       "url": "https://open.spotify.com/track/0FGrzqdJWFAzO6JTWttcWM"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Only One - The 3rd Album",
-        "url": "https://open.spotify.com/album/431ofqzymjNOtNAMLRJ92j"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/5TnG4hgREznnqDYe9IYlZc"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Seotaiji and Boys III",
+        "url": "https://open.spotify.com/album/4PeDPVydANLdboKFW69evd"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 259160,
+      "name": "Classroom Idea",
+      "url": "https://open.spotify.com/track/26gRL70VtiBPmsSkd6H0mU"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
         "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 212195,
       "name": "SWEETY",
       "url": "https://open.spotify.com/track/2WOcdPaRHZp20PwaGOk602"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Seotaiji and Boys III",
-        "url": "https://open.spotify.com/album/4PeDPVydANLdboKFW69evd"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 259160,
-      "name": "Classroom Idea",
-      "url": "https://open.spotify.com/track/26gRL70VtiBPmsSkd6H0mU"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\u592a\u56db\u5b50 Taesaja, Vol. 1",
-        "url": "https://open.spotify.com/album/2h2SbpYuU6BY1XiakfuRYz"
-      },
-      "artists": [
-        {
-          "name": "\ud0dc\uc0ac\uc790 Taesaja",
-          "url": "https://open.spotify.com/artist/18rjQLv66TaLhZSVYQu9Jh"
-        }
-      ],
-      "duration_ms": 222250,
-      "name": "\ub3c4 The Way",
-      "url": "https://open.spotify.com/track/7EfwavUg7KW5oTJtzUrMCg"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
         "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 226667,
       "name": "\ud504\ub85c\uc640 \uc544\ub9c8\uce04\uc5b4",
       "url": "https://open.spotify.com/track/4iYW28u7mpxEokJT2zPGmp"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "\u592a\u56db\u5b50 Taesaja, Vol. 1",
+        "url": "https://open.spotify.com/album/2h2SbpYuU6BY1XiakfuRYz"
+      },
+      "artists": [
+        {
+          "name": "\ud0dc\uc0ac\uc790 Taesaja",
+          "url": "https://open.spotify.com/artist/18rjQLv66TaLhZSVYQu9Jh"
+        }
+      ],
+      "duration_ms": 222250,
+      "name": "\ub3c4 The Way",
+      "url": "https://open.spotify.com/track/7EfwavUg7KW5oTJtzUrMCg"
     },
     {
       "added_at": "2021-03-11 16:28:13",

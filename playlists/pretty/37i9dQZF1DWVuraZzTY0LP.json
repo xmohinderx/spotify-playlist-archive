@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 307635,
+  "num_followers": 307790,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIzNjQ0NSwwMDAwMDAwMDU3OWUzZDMyMjZjNGIwOWM0YTg1M2IwNmIwMTk0MjY2",
+  "snapshot_id": "MTY3NDIzNjQ0NSwwMDAwMDAwMGExYzBjYmRlOWZmY2I3NzVhOTk5M2VjMWUzMTljZDBl",
   "tracks": [
     {
       "added_at": "2023-01-20 17:40:45",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-01-20 17:40:45",
       "album": {
+        "name": "Blanco F\u00e1cil",
+        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 263838,
+      "name": "Completamente",
+      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
+    },
+    {
+      "added_at": "2023-01-20 17:40:45",
+      "album": {
         "name": "Kil\u00f3metros",
         "url": "https://open.spotify.com/album/4yitWO4wI8bRLSSIZ74E0L"
       },
@@ -1107,38 +1123,18 @@
     {
       "added_at": "2023-01-20 17:40:45",
       "album": {
-        "name": "Blanco F\u00e1cil",
-        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
+        "name": "Looking Back",
+        "url": "https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z"
       },
       "artists": [
         {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
         }
       ],
-      "duration_ms": 263838,
-      "name": "Completamente",
-      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
-    },
-    {
-      "added_at": "2023-01-20 17:40:45",
-      "album": {
-        "name": "Song Machine Episode 2",
-        "url": "https://open.spotify.com/album/5xbq27ybQPAC8IiLtbHNxN"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 236569,
-      "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara)",
-      "url": "https://open.spotify.com/track/1lPjbmk2TylddPKESSIBfm"
+      "duration_ms": 235667,
+      "name": "It's Got To Be You",
+      "url": "https://open.spotify.com/track/3EytmMZxK0woRgbh2NxenS"
     },
     {
       "added_at": "2023-01-20 17:40:45",
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2023-01-20 17:40:45",
       "album": {
-        "name": "Looking Back",
-        "url": "https://open.spotify.com/album/7dPHUYbBBUfMj6LDD2Ui7Z"
+        "name": "Song Machine Episode 2",
+        "url": "https://open.spotify.com/album/5xbq27ybQPAC8IiLtbHNxN"
       },
       "artists": [
         {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 235667,
-      "name": "It's Got To Be You",
-      "url": "https://open.spotify.com/track/3EytmMZxK0woRgbh2NxenS"
+      "duration_ms": 236569,
+      "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara)",
+      "url": "https://open.spotify.com/track/1lPjbmk2TylddPKESSIBfm"
     },
     {
       "added_at": "2023-01-20 17:40:45",

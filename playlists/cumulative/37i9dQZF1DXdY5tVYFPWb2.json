@@ -2241,6 +2241,28 @@
     },
     {
       "album": {
+        "name": "Koi ha jealousy",
+        "url": "https://open.spotify.com/album/7K2SHuNbsnIZ1EwGjuR2Qf"
+      },
+      "artists": [
+        {
+          "name": "Lisa Halim",
+          "url": "https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9"
+        },
+        {
+          "name": "\u6d41\u7dda\u5f62",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246734,
+      "name": "Koi ha jealousy",
+      "url": "https://open.spotify.com/track/381vdLFYEwBI1JYzIT9GME"
+    },
+    {
+      "album": {
         "name": "KOUKIATSU GIRL (Cover)",
         "url": "https://open.spotify.com/album/1YfgGk0q0Lwvf0L0pybRbH"
       },
@@ -7110,7 +7132,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 246734,
       "name": "\u604b\u306f\u30b8\u30a7\u30e9\u30b7\u30fc",
       "url": "https://open.spotify.com/track/6IXn8HunEvFtT6yihvgkYC"

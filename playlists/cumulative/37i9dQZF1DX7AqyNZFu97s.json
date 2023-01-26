@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Jasmine Jethwa",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Alfie Neale",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -842,7 +842,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 115041,
       "name": "AOT",
       "url": "https://open.spotify.com/track/3Id1GGYvLSSM1E9KbgfHMW"
@@ -2967,6 +2967,24 @@
     },
     {
       "album": {
+        "name": "Cut It",
+        "url": "https://open.spotify.com/album/6VNsH5eNH0HYI6UHJNiGl9"
+      },
+      "artists": [
+        {
+          "name": "VLURE",
+          "url": "https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178730,
+      "name": "Cut It",
+      "url": "https://open.spotify.com/track/380qafcE09hZXE5g5ubju9"
+    },
+    {
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/4rqRIEmsDFgu8eKKg4aEi6"
       },
@@ -3094,6 +3112,28 @@
       "duration_ms": 253661,
       "name": "Days like this",
       "url": "https://open.spotify.com/track/7hPq2Ae66qJeis34qFqbRm"
+    },
+    {
+      "album": {
+        "name": "dead 2 me",
+        "url": "https://open.spotify.com/album/6QXNOUHKwXK9qt8ZaXDbbM"
+      },
+      "artists": [
+        {
+          "name": "MaZz",
+          "url": "https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7"
+        },
+        {
+          "name": "Felicia Buena",
+          "url": "https://open.spotify.com/artist/2edjm4uUeTM4iIa7NvKDPs"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258898,
+      "name": "dead 2 me",
+      "url": "https://open.spotify.com/track/32qU7OJnB1HMdUXAeiqNnv"
     },
     {
       "album": {
@@ -3762,6 +3802,24 @@
       "duration_ms": 193781,
       "name": "Eating",
       "url": "https://open.spotify.com/track/4t3D7cnJSd0geNiVxDgEWa"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/0LBwlH8cZFGRALUzfphhN8"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Chua",
+          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245086,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/6dR3WgS89laha38NshaT1s"
     },
     {
       "album": {
@@ -4584,7 +4642,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 264870,
       "name": "Fragile Eyes",
       "url": "https://open.spotify.com/track/0JTZDtBqZTCQZlVER9Z9E3"
@@ -5191,6 +5249,24 @@
     },
     {
       "album": {
+        "name": "Gone in a Blink",
+        "url": "https://open.spotify.com/album/00rRAl2V9GZ6vWo1hGLxRj"
+      },
+      "artists": [
+        {
+          "name": "Niches",
+          "url": "https://open.spotify.com/artist/2Fe6FWVrpNUMOuOMauNqr7"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209279,
+      "name": "Gone in a Blink",
+      "url": "https://open.spotify.com/track/0mUL3pIDqNeClttzpuNjFz"
+    },
+    {
+      "album": {
         "name": "good boys remember well",
         "url": "https://open.spotify.com/album/1m7ZzHsSp6EqucLAt57O3S"
       },
@@ -5458,6 +5534,24 @@
       "duration_ms": 183980,
       "name": "GUILTY",
       "url": "https://open.spotify.com/track/69uw9OQPqFkzENOVJZIpcq"
+    },
+    {
+      "album": {
+        "name": "Gully Hymns",
+        "url": "https://open.spotify.com/album/0csjcBcEQ7Im8dFcoGphDh"
+      },
+      "artists": [
+        {
+          "name": "Brother May",
+          "url": "https://open.spotify.com/artist/6430UKzU6JjxiUOe3BFNp1"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166124,
+      "name": "Gully Hymns",
+      "url": "https://open.spotify.com/track/1lCnEEm87MHwz2ZvrbDRH9"
     },
     {
       "album": {
@@ -6200,7 +6294,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 185744,
       "name": "I dont want to comedown",
       "url": "https://open.spotify.com/track/2Me5dGytiJiFoPZDlc2qlP"
@@ -6420,7 +6514,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 149345,
       "name": "I Watch The Moon",
       "url": "https://open.spotify.com/track/4RcM5BgE5N5oMU0EDNT8kr"
@@ -6546,7 +6640,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 242998,
       "name": "ihywhfyh",
       "url": "https://open.spotify.com/track/4LmaDIOeAHDgF6GBWVYbWm"
@@ -6568,7 +6662,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 216581,
       "name": "Imperfect",
       "url": "https://open.spotify.com/track/6DmM6pXyd5G8qtDZ7loqJA"
@@ -7157,6 +7251,24 @@
     },
     {
       "album": {
+        "name": "Kimbo",
+        "url": "https://open.spotify.com/album/25x3ck5y5bFbAAQjWe9xIn"
+      },
+      "artists": [
+        {
+          "name": "Post-Party",
+          "url": "https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234133,
+      "name": "Kimbo",
+      "url": "https://open.spotify.com/track/5LOYEyu49C5PSyzVKSiqTM"
+    },
+    {
+      "album": {
         "name": "kinda don't wanna exist",
         "url": "https://open.spotify.com/album/6rSDB1kjY3POLJq7v8iDtX"
       },
@@ -7168,7 +7280,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 109500,
       "name": "kinda don't wanna exist",
       "url": "https://open.spotify.com/track/3dcTkVIkD8oW2Ug351Oq73"
@@ -7226,6 +7338,24 @@
       "duration_ms": 234973,
       "name": "Know Me",
       "url": "https://open.spotify.com/track/4FEeZbbhWug8dtovBPOP5D"
+    },
+    {
+      "album": {
+        "name": "Kulture Klub",
+        "url": "https://open.spotify.com/album/7mEQc1BDlbvZXom31KIEDT"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133888,
+      "name": "Kulture Klub",
+      "url": "https://open.spotify.com/track/1Qd1AhEkO0IoW2kzhmPjSC"
     },
     {
       "album": {
@@ -7592,6 +7722,24 @@
       "duration_ms": 162797,
       "name": "LONG TERM PARKING",
       "url": "https://open.spotify.com/track/1oG8QZlA2QqBHWsen9oM6e"
+    },
+    {
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/6qT2rjKYcO5efhB0CszBut"
+      },
+      "artists": [
+        {
+          "name": "Ellie Soufi",
+          "url": "https://open.spotify.com/artist/6VX8TQGFGfCfNqbl0WVNel"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196406,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/17jkfndQt2O6jPGRp5cg8e"
     },
     {
       "album": {
@@ -8430,6 +8578,24 @@
       "duration_ms": 226874,
       "name": "Mixed Signals",
       "url": "https://open.spotify.com/track/58dsUAdLsJ3LLXuFFFwgh0"
+    },
+    {
+      "album": {
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/0FP823lJ58rnrgmZeM4D0E"
+      },
+      "artists": [
+        {
+          "name": "Sophie Griffiths",
+          "url": "https://open.spotify.com/artist/1ScQHshsghfh1H0r7VXEEe"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144397,
+      "name": "Modern Love",
+      "url": "https://open.spotify.com/track/6f9RSJ9y9DfqdHcuOzg8fI"
     },
     {
       "album": {
@@ -9430,7 +9596,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 230657,
       "name": "nw10",
       "url": "https://open.spotify.com/track/6ECruQCa7cvQhzX8MXDXxb"
@@ -10044,7 +10210,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 195000,
       "name": "Players Part",
       "url": "https://open.spotify.com/track/1kBGylDnYEnURR74H6XqNK"
@@ -10188,7 +10354,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 154488,
       "name": "Problem",
       "url": "https://open.spotify.com/track/35nMWL6Paudf9cvlFNHbA2"
@@ -11203,6 +11369,24 @@
     },
     {
       "album": {
+        "name": "Since We Ain't Together",
+        "url": "https://open.spotify.com/album/49Lod646QQQAiS0pCeHucW"
+      },
+      "artists": [
+        {
+          "name": "Nia Chennai",
+          "url": "https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196411,
+      "name": "Since We Ain't Together",
+      "url": "https://open.spotify.com/track/7eB3zMEk2I77BCMx7a5fXD"
+    },
+    {
+      "album": {
         "name": "Singing to the Sky",
         "url": "https://open.spotify.com/album/5v2gXCJCyFomLIhWU5rZyv"
       },
@@ -11640,7 +11824,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 136235,
       "name": "Stan I",
       "url": "https://open.spotify.com/track/4SvwQBVCMOye0K2dKP1vBF"
@@ -12049,6 +12233,24 @@
     },
     {
       "album": {
+        "name": "Superego",
+        "url": "https://open.spotify.com/album/4MRkYeBtOVL6UjnQbWYGJJ"
+      },
+      "artists": [
+        {
+          "name": "Slowe",
+          "url": "https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225512,
+      "name": "Superego",
+      "url": "https://open.spotify.com/track/3BgJ9tezXd34T2Wo7cu1m1"
+    },
+    {
+      "album": {
         "name": "Sura",
         "url": "https://open.spotify.com/album/3r47uQdiWwA8dHX2EmonY5"
       },
@@ -12406,7 +12608,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 209987,
       "name": "The Centre of Everything",
       "url": "https://open.spotify.com/track/674NESEjDBIx9Xrzlouogc"
@@ -13324,6 +13526,24 @@
       "duration_ms": 144500,
       "name": "warmer on a wednesday",
       "url": "https://open.spotify.com/track/0QSjznhRo9urUmGuJ8SAAN"
+    },
+    {
+      "album": {
+        "name": "Waste of Time",
+        "url": "https://open.spotify.com/album/1NGU5buhW2VyCN061AYpzA"
+      },
+      "artists": [
+        {
+          "name": "Liliana",
+          "url": "https://open.spotify.com/artist/6XChjeaOZ2HqbuVpupd9op"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201898,
+      "name": "Waste Of Time",
+      "url": "https://open.spotify.com/track/0SfTCFDyGrB8ObcxRutVIZ"
     },
     {
       "album": {

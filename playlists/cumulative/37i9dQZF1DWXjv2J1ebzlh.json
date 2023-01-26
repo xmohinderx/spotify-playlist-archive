@@ -33798,6 +33798,32 @@
     {
       "album": {
         "name": "Windy Lady",
+        "url": "https://open.spotify.com/album/2SpsDxp0RjilT31F2AMytS"
+      },
+      "artists": [
+        {
+          "name": "Daniel T.",
+          "url": "https://open.spotify.com/artist/2KV7SeH81I26dNswIYrNeY"
+        },
+        {
+          "name": "Eiko Hara",
+          "url": "https://open.spotify.com/artist/3kXFE55gYRGrhLu6bilTR4"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303824,
+      "name": "Windy Lady - Turbotito Remix",
+      "url": "https://open.spotify.com/track/0KDh5xTrfpODT5p3G4rxm4"
+    },
+    {
+      "album": {
+        "name": "Windy Lady",
         "url": "https://open.spotify.com/album/5ffhihdkfrFSxbk8IGLib5"
       },
       "artists": [
@@ -33816,7 +33842,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 303824,
       "name": "Windy Lady - Turbotito Remix",
       "url": "https://open.spotify.com/track/4WQllP6JUK7i5f6yQSQCqM"

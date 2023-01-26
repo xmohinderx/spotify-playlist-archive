@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,795 likes - 1,168 songs - 3 day 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,858 likes - 1,168 songs - 3 day 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -511,7 +511,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 501 | [People Everywhere \(Still Alive\)](https://open.spotify.com/track/2OQ1V0e2O56AeIo4ywuYKF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 2:39 |
 | 502 | [Não Tem Nada Não](https://open.spotify.com/track/6CsVAleARo2HoNucMrvVaq) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Antologia](https://open.spotify.com/album/0nfIgtFzyh4S9MCEEt28ny) | 4:36 |
 | 503 | [Já Não Há Mais Paz](https://open.spotify.com/track/7MkTozhpbi2j70ad3mbx54) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Catia Werneck](https://open.spotify.com/artist/5r85jcAr00UF8CAEJgERiH) | [Philantropiques](https://open.spotify.com/album/3fsnW79AlDwj2mF8HhnByU) | 6:45 |
-| 504 | [Windy Lady \- Turbotito Remix](https://open.spotify.com/track/4WQllP6JUK7i5f6yQSQCqM) | [Daniel T.](https://open.spotify.com/artist/2KV7SeH81I26dNswIYrNeY), [Eiko Hara](https://open.spotify.com/artist/3kXFE55gYRGrhLu6bilTR4), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [Windy Lady](https://open.spotify.com/album/5ffhihdkfrFSxbk8IGLib5) | 5:03 |
+| 504 | [Windy Lady \- Turbotito Remix](https://open.spotify.com/track/0KDh5xTrfpODT5p3G4rxm4) | [Daniel T.](https://open.spotify.com/artist/2KV7SeH81I26dNswIYrNeY), [Eiko Hara](https://open.spotify.com/artist/3kXFE55gYRGrhLu6bilTR4), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [Windy Lady](https://open.spotify.com/album/2SpsDxp0RjilT31F2AMytS) | 5:03 |
 | 505 | [Sanza tristesse](https://open.spotify.com/track/6UiXdhwWHpUl5gTTTkzXPC) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Psychedelic Sanza \(1982\-1984\)](https://open.spotify.com/album/76JTu51TbKCpDOcjIEXEV3) | 3:45 |
 | 506 | [Highlife](https://open.spotify.com/track/7jAOs2vHIb2b1Qiwy7q3am) | [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Ambolley](https://open.spotify.com/album/0FNazA8xq1EuyCUTYAdCu3) | 4:59 |
 | 507 | [Guitarras, Violinos E Instrumentos De Samba](https://open.spotify.com/track/1L1dsoVRsZ6Q2VvooGezS0) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Na Rua, Na Chuva, Na Fazenda](https://open.spotify.com/album/7B7uQtqEcBWA7g9nwt52Gz) | 3:31 |
@@ -1177,4 +1177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1167 | [Lluvia con Nieve](https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Que Gente Averiguá](https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY) | 2:57 |
 | 1168 | [Bakara](https://open.spotify.com/track/5Sl1RVQbD9PigheYMG7yAP) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle \(Deluxe\)](https://open.spotify.com/album/50ZFAeGxaNWSMjHfQOkzJK) | 7:01 |
 
-Snapshot ID: `MTY3MzQzMTIxMywwMDAwMDAwMDExNmM2NGJhMDNmZjE1YTYyZmU5MzgyYjZlYzFlMmYy`
+Snapshot ID: `MTY3MzQzMTIxMywwMDAwMDAwMDhkY2VmZDY0ZDMwODEzYWFlM2UxMGEzNzg1YjIwZDc3`

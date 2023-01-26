@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$ and Germ
 
-366 songs - 14 hr 26 min
+367 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [UBER EATS](https://open.spotify.com/track/5Uv2YYRGuqQ9sjIJq7WZZU) | [Northside Hollow](https://open.spotify.com/artist/7CTwgcHGx4eMeP4YeW1lC5), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [UBER EATS](https://open.spotify.com/album/08WdgJ9VIl80uCj9LFmwaz) | 2:25 | 2022-07-01 | 2022-07-08 |
 | [Ugliest](https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:58 | 2022-04-05 | 2022-05-17 |
 | [UNDER THE FLOOR](https://open.spotify.com/track/35GDPnipCe8z8worRp3rTS) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [UNDER THE FLOOR](https://open.spotify.com/album/7gCQgabNEjhNucylRYZgix) | 2:04 | 2021-10-20 | 2022-04-21 |
+| [UP LIKE AN INSOMNIAC \- Freestyle](https://open.spotify.com/track/5UJ3N25ukIruG4Do8RDHra) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [A GHETTO CHRISTMAS CAROL](https://open.spotify.com/album/03TZqOGHlyNTdHxsdOXIZX) | 2:31 | 2023-01-25 |  |
 | [Vagabond](https://open.spotify.com/track/48TYKdjkiIN6brcIilEVWB) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 1:54 | 2021-09-17 | 2022-07-02 |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-07-15 |  |
 | [VENOM](https://open.spotify.com/track/0oxgwFjJ0AP5BhRJPIdVjC) | [Broken Flow](https://open.spotify.com/artist/3QGiU4wavNaHjIxxRZVlW4), [Mobbs Radical](https://open.spotify.com/artist/5CMFdQq95rtIg41Vip9wLR), [ChaiN](https://open.spotify.com/artist/2IZOUfwpz4pPxiiwQWdgPX) | [VENOM](https://open.spotify.com/album/22fGL6GIk4K5kvQkkcQfik) | 2:16 | 2022-04-15 | 2022-11-26 |

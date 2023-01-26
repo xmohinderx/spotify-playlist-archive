@@ -2,9 +2,9 @@
 
 ### [Fresh Finds: Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Luke Bar$
+> The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Billacheck
 
-605 songs - 1 day 2 hr 37 min
+610 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Goo Kuu](https://open.spotify.com/track/66d7S0awoQBUZOneJ2ZMjW) | [Twan Staxks](https://open.spotify.com/artist/41DLPnBE1Q11mFnYKrS1C2) | [Goo Kuu](https://open.spotify.com/album/5IFwgRGIMdTgFIztBetI1C) | 2:09 | 2022-05-11 | 2022-07-01 |
 | [Good Vibes](https://open.spotify.com/track/3iKx8cYSRp6neRihu4OPfg) | [Baddnews](https://open.spotify.com/artist/2qh3CVpK01bZtw7uU9PLe9), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Good Vibes](https://open.spotify.com/album/3QkQD1YKI438SMoMujmId6) | 4:09 | 2021-12-01 | 2022-01-14 |
 | [Gravity](https://open.spotify.com/track/4IR1ACM7QnpToR5zCzxrVs) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [For My Own Sake](https://open.spotify.com/album/32qrX9uorcYSQkd8P6iE7M) | 2:38 | 2021-12-01 | 2022-01-14 |
+| [Green Hearts](https://open.spotify.com/track/51UCBlvZizsxw98H5QkNeh) | [Lil 50](https://open.spotify.com/artist/0sHcYErCqRMKuFgW3ITQ7w) | [Green Hearts](https://open.spotify.com/album/01r6VRmGUlX3zr4WFnzSNP) | 2:37 | 2023-01-25 |  |
 | [Grim Reaper](https://open.spotify.com/track/4Q8xz9BbklcXEMh2pqm6E8) | [N1YAH](https://open.spotify.com/artist/6ELQ5765WA0hjpXSriZfU7) | [Grim Reaper](https://open.spotify.com/album/0qBqDIErbDSTUNJ6WYXnlU) | 2:36 | 2022-01-13 | 2022-02-10 |
 | [Grinch](https://open.spotify.com/track/6NkVB8rpTMdz7K3RRlIlif) | [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Grinch](https://open.spotify.com/album/77soxYjbwxHedQOaBNFc4M) | 1:53 | 2022-09-28 | 2022-10-14 |
 | [Grind](https://open.spotify.com/track/5eZaguRENayH27QEcL1LLu) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Grind](https://open.spotify.com/album/7qf8iCeW8pXR0kcMhHG5LV) | 3:21 | 2022-04-27 | 2022-06-09 |
@@ -428,9 +429,11 @@
 | [Piano Riff](https://open.spotify.com/track/3xTNFEFdzWnOHO9lvBSEIv) | [Jacques Laine](https://open.spotify.com/artist/1Qs44ZlT4ULzZS7tFp2uqR) | [Piano Riff](https://open.spotify.com/album/4e0VBRJlR3l7XQloHB0NA6) | 3:03 | 2022-02-24 | 2022-03-24 |
 | [Pippy Long](https://open.spotify.com/track/4gD5SzumVdVNBXQufTMWgG) | [OTM](https://open.spotify.com/artist/2kL4eDtAl8mixMQr6bndD1) | [Off The Mussle](https://open.spotify.com/album/2WyHeyQQ3VwCfsmMd6YZ71) | 4:14 | 2022-02-09 | 2022-03-10 |
 | [Play Dumb](https://open.spotify.com/track/3mUZEL6JHbTzjGheGP6Qz9) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY) | [Play Dumb](https://open.spotify.com/album/7HMgaC6WOyaHmeG4TdEFyZ) | 2:37 | 2022-03-02 | 2022-03-24 |
+| [Playa](https://open.spotify.com/track/22UBZGghdDP2CyGdY7SK0T) | [Yung Brae](https://open.spotify.com/artist/3RaIiLVVG60WwHZ34IDipA) | [Playa](https://open.spotify.com/album/22E9DVFhFLzNChjb1lSU7E) | 2:10 | 2023-01-25 |  |
 | [Playboy](https://open.spotify.com/track/6tgUi4iyPlMmhRtObgPJFc) | [4L JAVI](https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a) | [Playboy](https://open.spotify.com/album/2jDIDTorE20GKuZgnNsVgp) | 2:24 | 2022-09-21 | 2022-09-30 |
 | [Playboy](https://open.spotify.com/track/7tirvvM9yib3Z3BgSXUHOi) | [4L JAVI](https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a) | [Playboy](https://open.spotify.com/album/5ePAyAIXfbLLyJmFRy6gxJ) | 2:24 | 2022-09-21 | 2022-12-01 |
 | [Pogo Stick](https://open.spotify.com/track/1qJQmFwpaW4RQEjw55nUjE) | [GMK](https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj) | [Pogo Stick](https://open.spotify.com/album/3TpiW7u9Ja6qQj2K7znFiW) | 2:26 | 2022-07-27 | 2022-08-25 |
+| [Pop](https://open.spotify.com/track/5t0D1BvTybtk332AG37C8Y) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx) | [Pop](https://open.spotify.com/album/36QsluAElymfIC9vMSGUbQ) | 2:34 | 2023-01-25 |  |
 | [PPA](https://open.spotify.com/track/6hdQpybU08u1k4AJvNtKq8) | [Chelsea Pastel](https://open.spotify.com/artist/1rpz8zkZaj3UKDPk2NxV7F) | [Pastelevision](https://open.spotify.com/album/3Fw3gOj3UVlNJUclaOqLK2) | 2:39 | 2022-01-13 | 2022-01-27 |
 | [Presence Of Color](https://open.spotify.com/track/2iqPogO76WlfJa8RuC9jX0) | [Lukah](https://open.spotify.com/artist/4kXGF3u3kGDHDoLmbdvUzS) | [Presence of Color](https://open.spotify.com/album/2lz0V1eZwDRhNQ1P7AYZEY) | 3:04 | 2022-08-24 | 2022-10-06 |
 | [Pressure](https://open.spotify.com/track/0cQtpYUTFpLX9knYsQAsJf) | [TraviS](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Pressure](https://open.spotify.com/album/0abvZEzTy1FhekP4UYAly1) | 2:44 | 2022-03-09 | 2022-04-07 |
@@ -457,6 +460,7 @@
 | [REROUT3](https://open.spotify.com/track/1TbEswvmJaY2hMhiQY8oYM) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [REROUT3](https://open.spotify.com/album/2z6etTrMyXgEGsCM9wngxc) | 2:57 | 2021-12-01 | 2022-01-14 |
 | [Rich and Raw](https://open.spotify.com/track/7ezc0ttQI1RdEdJXYk2OVg) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Rich and Raw](https://open.spotify.com/album/4IKZietJgrE6tBFwMGjPFf) | 2:12 | 2022-06-30 | 2022-08-11 |
 | [Rich Off Drugs](https://open.spotify.com/track/0Mtuq6nGBTZwRqs7ayDXj5) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [Rich Off Drugs](https://open.spotify.com/album/0E3fNGmQH63xRSADi2CnrV) | 3:39 | 2022-06-30 | 2022-08-25 |
+| [RIDE FOR YOU](https://open.spotify.com/track/0ix9MmR8QyMaDypgh32tkJ) | [FendiAlone](https://open.spotify.com/artist/6SJTZ859a50PtoQ7C9wh8n) | [RIDE FOR YOU](https://open.spotify.com/album/7sIhyzLWZkYBqtZvl5qs1s) | 2:02 | 2023-01-25 |  |
 | [Ride With Me](https://open.spotify.com/track/6gBQo2sLIAq6f4rF3UDIGz) | [Brandon Bill$](https://open.spotify.com/artist/2wBkBSQX5PISkfjecIlH9d) | [Ride With Me](https://open.spotify.com/album/2RfdOlSgkRwpLJ9bpLLvnm) | 2:06 | 2021-12-01 | 2022-01-14 |
 | [Right Now](https://open.spotify.com/track/2oRgMFZeD3hDYbUv4GxKOh) | [Tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm), [Coop](https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP) | [Right Now](https://open.spotify.com/album/3sflmawEsK2WwmNxQRyWBS) | 2:21 | 2022-01-13 | 2022-02-10 |
 | [Risky](https://open.spotify.com/track/0qpoCqUHVw9tqN2apcywmE) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [Risky](https://open.spotify.com/album/4qn8e72Tqpgxi2LLmWgVHn) | 2:44 | 2022-03-09 | 2022-04-14 |
@@ -510,6 +514,7 @@
 | [Spliff Vol.1](https://open.spotify.com/track/0vT5Rulc6WiTo9a1NUIk9g) | [acpxpi](https://open.spotify.com/artist/6Sp12sFljF1Y6m7slTQeuV) | [Spliff Vol.1](https://open.spotify.com/album/2FvYBgeJ79zoMR0iSoIEUn) | 2:10 | 2022-03-02 | 2022-03-31 |
 | [Sponsored](https://open.spotify.com/track/0tBu5gpVcwHkWKvITsIq67) | [Jacques Laine](https://open.spotify.com/artist/1Qs44ZlT4ULzZS7tFp2uqR), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [Sponsored](https://open.spotify.com/album/6I1Cez96GzRBFE4SWL4u7O) | 2:34 | 2022-05-18 | 2022-07-01 |
 | [Standards](https://open.spotify.com/track/1cEHRuuFQW9wBM7RTRQced) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [Happy Birthday FL33 \| TH3 PARTY N3V3R 3NDS](https://open.spotify.com/album/3vmyKABUJa3SLlUReegkTu) | 2:08 | 2022-04-06 | 2022-05-12 |
+| [STAR GIRL](https://open.spotify.com/track/4nxghAmdZbPJfkF6tBIUqR) | [NombreKari](https://open.spotify.com/artist/02qDjHpQqiweSIMa5VKa8t) | [STAR GIRL](https://open.spotify.com/album/0doSsu5ka585zPrsD7iyTS) | 4:40 | 2023-01-25 |  |
 | [Starry Night](https://open.spotify.com/track/3xUKMt4RGN9V3ofnWDbQ1X) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Do Your Worst](https://open.spotify.com/album/2zoKhONaJBKUHsbPZLFubF) | 2:14 | 2022-10-05 | 2022-12-01 |
 | [Starter Jacket](https://open.spotify.com/track/2R6z3v6Kvv4bUKacJFwLqf) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx) | [To a Dark Boy](https://open.spotify.com/album/7niitYX38HE0L1hpBl05Xx) | 2:21 | 2022-03-30 | 2022-04-29 |
 | [Steezy](https://open.spotify.com/track/1DfWcuNN98dFB5m2oLdv0T) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Steezy](https://open.spotify.com/album/0yoIYo1go5qW9BJqQXDxZN) | 2:59 | 2022-09-28 | 2022-12-01 |

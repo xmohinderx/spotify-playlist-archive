@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: ALO",
-  "num_followers": 12874,
+  "num_followers": 12931,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDExYTAwNzBlMGRiMDFkMmYxODkxMGI3NzEwN2Y3YTA4",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMGY3ZmViMWFiOWM5ZTVlYjJhZWE2MzZlM2ZmZmYxMjNi",
   "tracks": [
     {
       "added_at": "2023-01-20 05:01:00",
@@ -317,22 +317,6 @@
       "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "You're a Catman",
-        "url": "https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 342994,
-      "name": "You\u2019re a Catman",
-      "url": "https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Megagem",
@@ -347,6 +331,22 @@
       "duration_ms": 393360,
       "name": "Mucho",
       "url": "https://open.spotify.com/track/6RGXvExPr2zOTSfqqpRqx2"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "You're a Catman",
+        "url": "https://open.spotify.com/album/3S2dpQU9FSmJOOZHy92VjF"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 342994,
+      "name": "You\u2019re a Catman",
+      "url": "https://open.spotify.com/track/69F5ck2LYn5KcxsZFoPTtT"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Microdosio",
-        "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 331570,
-      "name": "Cubensis",
-      "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Phone.Keys.Wallet",
         "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
       },
@@ -445,22 +429,6 @@
       "url": "https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "I Am The Moon: III. The Fall",
-        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 327546,
-      "name": "Take Me As I Am",
-      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Spafford",
@@ -475,6 +443,22 @@
       "duration_ms": 263198,
       "name": "Electric Taco Stand",
       "url": "https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "I Am The Moon: III. The Fall",
+        "url": "https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 327546,
+      "name": "Take Me As I Am",
+      "url": "https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -495,6 +479,22 @@
       "duration_ms": 299479,
       "name": "Curse Lifter (feat. Derek Trucks)",
       "url": "https://open.spotify.com/track/3qhvHN2UFlOouwkEEBWn37"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Microdosio",
+        "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 331570,
+      "name": "Cubensis",
+      "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Zoom Out",
-        "url": "https://open.spotify.com/album/45iOI3SakDgddbyhObA3LC"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 262805,
-      "name": "Zoom Out",
-      "url": "https://open.spotify.com/track/4zVwDHjHraUBJiTuU8SRAv"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Night Lights",
@@ -623,6 +607,22 @@
       "duration_ms": 579373,
       "name": "Kitty Chaser (Explosions)",
       "url": "https://open.spotify.com/track/31prZotiPV46jh06xCTop4"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Zoom Out",
+        "url": "https://open.spotify.com/album/45iOI3SakDgddbyhObA3LC"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 262805,
+      "name": "Zoom Out",
+      "url": "https://open.spotify.com/track/4zVwDHjHraUBJiTuU8SRAv"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/6LHRrdLlJCcJ3sZfjs5mX7"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Not Just a Word",
-        "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 338011,
-      "name": "Not Just a Word",
-      "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "The Werks",
@@ -753,6 +737,22 @@
       "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
     },
     {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Not Just a Word",
+        "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 338011,
+      "name": "Not Just a Word",
+      "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
+    },
+    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Native Sons",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 379640,
-      "name": "Ghost In The Machine",
-      "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Dopapod",
@@ -799,6 +783,22 @@
       "duration_ms": 304826,
       "name": "Nuff",
       "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 379640,
+      "name": "Ghost In The Machine",
+      "url": "https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9"
     },
     {
       "added_at": "2022-09-16 04:01:00",

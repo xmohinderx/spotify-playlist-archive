@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-702 songs - 1 day 16 hr 32 min
+703 songs - 1 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Let Me Take You](https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Let Me Take You](https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F) | 2:34 | 2022-05-13 | 2022-05-30 |
 | [Let You Do This \(with Buy Now\)](https://open.spotify.com/track/5OlgbvkngYf6dibaafcqcO) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Buy Now](https://open.spotify.com/artist/7s2LRZMqnuMufCcNvu8eZJ) | [Let You Do This](https://open.spotify.com/album/4Dq63kA76g29J8viZ448Zg) | 3:22 | 2022-09-17 | 2022-09-24 |
 | [Let You Go](https://open.spotify.com/track/1AzvxnWyk4aGNZpgmECpny) | [ROOSTERJAXX](https://open.spotify.com/artist/5s9BO1SFLuFK7SgVd86h1l) | [Let You Go](https://open.spotify.com/album/08wZSrKAldeJ4FeXz9ys70) | 2:39 | 2022-12-16 | 2023-01-07 |
+| [Let's Get Ill](https://open.spotify.com/track/6RxeXU0rONcjsesp7GPb1r) | [Ape Rebellion](https://open.spotify.com/artist/4PHCU1OygARhYpKqYJNmiq) | [Let's Get Ill](https://open.spotify.com/album/3cuQGNieCQ4wFfijFdN8Ha) | 5:49 | 2023-01-25 |  |
 | [Let's Go Dancing](https://open.spotify.com/track/6Ng1n2tzVpVOe3O5c2HaIf) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Let's Go Dancing](https://open.spotify.com/album/0dC3hdukoHUsgbVVCCLLYR) | 2:54 | 2022-05-29 | 2022-06-04 |
 | [Liar](https://open.spotify.com/track/4ZvZe6oTTBqrTskpT4NTTZ) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw), [Flavour Pepper](https://open.spotify.com/artist/6L5jISGGw9jeSJlG21qZzL) | [Liar](https://open.spotify.com/album/0wBCXcUlUV8ifhzuf7bUOv) | 4:36 | 2022-05-13 | 2022-05-30 |
 | [Lightning To Strike \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/7l0LomcCS4l0VIn34sBhdD) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Lightning To Strike \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/52jinNpRu920inhgYCHMni) | 2:58 | 2022-10-28 | 2022-11-06 |

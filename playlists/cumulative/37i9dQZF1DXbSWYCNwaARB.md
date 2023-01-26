@@ -2,7 +2,7 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. Cover: YENA\(최예나\)
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: MAVE: \(메이브\)
 
 336 songs - 18 hr 8 min
 

@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 151440,
       "name": "6561",
       "url": "https://open.spotify.com/track/6e180XtptMddkCejgq7o8K"
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
@@ -3020,7 +3020,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 223073,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
@@ -5085,6 +5085,24 @@
     },
     {
       "album": {
+        "name": "E45",
+        "url": "https://open.spotify.com/album/7ydZPJ4rPU3jgDkQYEppgq"
+      },
+      "artists": [
+        {
+          "name": "Sultan Den F\u00f8rste",
+          "url": "https://open.spotify.com/artist/1tv6vH2AmEXZUvQ8mqCY3U"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198374,
+      "name": "E45",
+      "url": "https://open.spotify.com/track/4Bl4PdFzrDvmFJvKJrHqGg"
+    },
+    {
+      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
       },
@@ -5440,7 +5458,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 239888,
       "name": "Escapism. - Sped Up",
       "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
@@ -5820,7 +5838,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 210933,
       "name": "FLEURS (feat. Tiakola)",
       "url": "https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2"
@@ -9192,7 +9210,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 207086,
       "name": "Lambo",
       "url": "https://open.spotify.com/track/6vP3zlmiaqGdrToDio4060"
@@ -10744,6 +10762,24 @@
       "duration_ms": 187680,
       "name": "Mauvaise journ\u00e9e",
       "url": "https://open.spotify.com/track/0jbGm0dpPUnr8omDSpLKW6"
+    },
+    {
+      "album": {
+        "name": "Me",
+        "url": "https://open.spotify.com/album/1NVYMeV7u7m6Ei6qSE4RBT"
+      },
+      "artists": [
+        {
+          "name": "Pollo Mac",
+          "url": "https://open.spotify.com/artist/3ELiMvukrqFDL0dE7xoupa"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260650,
+      "name": "Me",
+      "url": "https://open.spotify.com/track/4XrWHCxF4C6aIYVXoifvqU"
     },
     {
       "album": {
@@ -13830,7 +13866,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-22",
+      "date_removed": null,
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
@@ -18310,7 +18346,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 131948,
       "name": "YumYum",
       "url": "https://open.spotify.com/track/4lkLzhx8zsVIdNd1WANxuA"

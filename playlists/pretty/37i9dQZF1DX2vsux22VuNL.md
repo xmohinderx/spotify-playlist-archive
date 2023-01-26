@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: MC Cabelinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,873 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,057 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 58 | [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 |
 | 59 | [Eu vim pra Somar](https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ) | [Eu vim pra Somar](https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku) | 3:43 |
 | 60 | [Ainda É Verão](https://open.spotify.com/track/1JaH1KgP4oYWBdc2I6dYud) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Keviin](https://open.spotify.com/artist/3IMEatbnQs6Sumu77hmtOr), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7) | [Ainda É Verão](https://open.spotify.com/album/4OXmBQKfqClzQD5fG9gxkD) | 3:04 |
-| 61 | [Marrenta](https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Marrenta](https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g) | 2:47 |
-| 62 | [Vamo Pra Praia](https://open.spotify.com/track/0aiQJXRsKCHZKpSlZQDOqd) | [DOM7NICO](https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv) | [O Melhor Da Vida](https://open.spotify.com/album/1kyr3LSz194Gd27mexeF33) | 3:03 |
+| 61 | [Vamo Pra Praia](https://open.spotify.com/track/0aiQJXRsKCHZKpSlZQDOqd) | [DOM7NICO](https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv) | [O Melhor Da Vida](https://open.spotify.com/album/1kyr3LSz194Gd27mexeF33) | 3:03 |
+| 62 | [Marrenta](https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Marrenta](https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g) | 2:47 |
 | 63 | [SEU SOL](https://open.spotify.com/track/1p5qK8NjUybbXdbXfpc0dJ) | [MARTTE](https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d) | [SEU SOL](https://open.spotify.com/album/1n3Ax7otBTeuGxd1ztbrhT) | 1:59 |
 | 64 | [Aleluia, Amém](https://open.spotify.com/track/5K3wfWRRB9s5JAUc3JfT6k) | [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Aleluia, Amém](https://open.spotify.com/album/1o5wtmAJUGvBkQd7zFkhpv) | 3:26 |
 | 65 | [Sunshine](https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS) | [Sunshine](https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh) | 2:54 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 72 | [Livro Aberto](https://open.spotify.com/track/6J70GASPHV0GK7wz0QyfUp) | [Gibi8](https://open.spotify.com/artist/0PzUD5dHBctrkQopnjcHMO), [FREELION](https://open.spotify.com/artist/1Tgb6BnlFB54h9697xbHEX), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Livro Aberto](https://open.spotify.com/album/06gS40nhrJYwq0HAUBoeNr) | 3:16 |
 | 73 | [Beija e Arranha](https://open.spotify.com/track/1Oqz1CXHrofnUs4lL0fhLa) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [Beija e Arranha](https://open.spotify.com/album/2y8gYJ78u7TLa3iZaYxOV3) | 2:52 |
 | 74 | [Te Fazer Vibrar](https://open.spotify.com/track/2ht1UBPNgDM0WMpgxKC7Zy) | [Megabaile Do Areias](https://open.spotify.com/artist/6EHs7rGH4jgLSNezIy9i3F), [MC Igão](https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g) | [Te Fazer Vibrar](https://open.spotify.com/album/21v5Ucht2tu6yF0WmnjcFu) | 3:07 |
-| 75 | [Lembro de Você](https://open.spotify.com/track/2EN7WVaJgRV2tOYzIZM3s7) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6) | [Lembro de Você](https://open.spotify.com/album/35xIi09rhNWA4FQS8xY1ko) | 3:05 |
-| 76 | [Castigo](https://open.spotify.com/track/14PoamgaKsFiwSlZ0Z2vFl) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Castigo](https://open.spotify.com/album/1LSGxSVeEFVwckvVJBjGb0) | 2:19 |
+| 75 | [Castigo](https://open.spotify.com/track/14PoamgaKsFiwSlZ0Z2vFl) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [Castigo](https://open.spotify.com/album/1LSGxSVeEFVwckvVJBjGb0) | 2:19 |
+| 76 | [Lembro de Você](https://open.spotify.com/track/2EN7WVaJgRV2tOYzIZM3s7) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6) | [Lembro de Você](https://open.spotify.com/album/35xIi09rhNWA4FQS8xY1ko) | 3:05 |
 | 77 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 |
 | 78 | [Sem Caô](https://open.spotify.com/track/06fLo9eK0m0OCN6GDS1N8M) | [Liza Lou](https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2), [IssoQueÉSomDeRap](https://open.spotify.com/artist/43DrL9cHm49HEwg85idE2c), [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6) | [Sem Caô](https://open.spotify.com/album/6eeSG3JJ6CIfWLzcjQ53yM) | 3:54 |
 | 79 | [Sem Censura](https://open.spotify.com/track/5mTFwS5ks9xz7VrZDLKm1T) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Sem Censura](https://open.spotify.com/album/3mjKPexmiwy6USeOC4Z0zZ) | 2:16 |
 | 80 | [Contramão](https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT) | [João Zoli](https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Contramão](https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr) | 2:50 |
 
-Snapshot ID: `MTY3NDIwOTUzNiwwMDAwMDAwMDZmNzYwZDIwYmY3NTVjZTYxODc2ZjA5YmNlOWVjNmQx`
+Snapshot ID: `MTY3NDIwOTUzNiwwMDAwMDAwMDVkOTcxMDY3NGU0ZjIxZGJhNjQ2YjdlYmM1NTQ5MWRm`

@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,886 songs - 5 day 6 hr 54 min
+1,887 songs - 5 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1810,7 +1810,8 @@
 | [Will You Promise](https://open.spotify.com/track/6Ted7KB5tLxmuxHMTOjzj9) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [My Love and Music](https://open.spotify.com/album/2gdtgeYm3JCSFzgxuqN1u0) | 3:46 | 2022-06-09 |  |
 | [Win Terram](https://open.spotify.com/track/1LZwshu7gMkmEyQCJa9Opf) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/6wR1PTOSJRYZeo7zdWWWgD) | 4:07 | 2022-07-12 | 2022-11-20 |
 | [Win Terram](https://open.spotify.com/track/21SdDged8mWRNvDnwPzxH1) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/3xFJIj1WvMTDEMEGzFAeuW) | 4:07 | 2022-10-31 | 2022-12-17 |
-| [Windy Lady \- Turbotito Remix](https://open.spotify.com/track/4WQllP6JUK7i5f6yQSQCqM) | [Daniel T.](https://open.spotify.com/artist/2KV7SeH81I26dNswIYrNeY), [Eiko Hara](https://open.spotify.com/artist/3kXFE55gYRGrhLu6bilTR4), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [Windy Lady](https://open.spotify.com/album/5ffhihdkfrFSxbk8IGLib5) | 5:03 | 2022-06-09 |  |
+| [Windy Lady \- Turbotito Remix](https://open.spotify.com/track/0KDh5xTrfpODT5p3G4rxm4) | [Daniel T.](https://open.spotify.com/artist/2KV7SeH81I26dNswIYrNeY), [Eiko Hara](https://open.spotify.com/artist/3kXFE55gYRGrhLu6bilTR4), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [Windy Lady](https://open.spotify.com/album/2SpsDxp0RjilT31F2AMytS) | 5:03 | 2023-01-11 |  |
+| [Windy Lady \- Turbotito Remix](https://open.spotify.com/track/4WQllP6JUK7i5f6yQSQCqM) | [Daniel T.](https://open.spotify.com/artist/2KV7SeH81I26dNswIYrNeY), [Eiko Hara](https://open.spotify.com/artist/3kXFE55gYRGrhLu6bilTR4), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [Windy Lady](https://open.spotify.com/album/5ffhihdkfrFSxbk8IGLib5) | 5:03 | 2022-06-09 | 2023-01-26 |
 | [Wompe Masem](https://open.spotify.com/track/2FEp5G3NaMtJQAdN7GbSMW) | [Nana Kwame Ampadu](https://open.spotify.com/artist/2tne5cj1SZrx1Xm1lNEWzb) | [Evergreen Tunes, Vol\. 3](https://open.spotify.com/album/4sxpzSWpYCk2iXxMLk9Fv1) | 4:17 | 2022-07-27 |  |
 | [Wompe Masem](https://open.spotify.com/track/0JVRu5CnVUYWvDq7pGfSaC) | [The African Brothers International Band](https://open.spotify.com/artist/1pzDMkPdIkb82kBBsRCMMf) | [Soundway presents Ghana Special \(Modern Highlife, Afro Sounds & Ghanaian Blues 1968\-81\)](https://open.spotify.com/album/5DKrMCbixQ2EjIvSBcLM28) | 4:19 | 2022-06-09 | 2022-07-29 |
 | [Worried Over You \(with Trenton Spence & His Group\)](https://open.spotify.com/track/5UdcXxr7d4p0hNKmV0s07F) | [Keith And Enid](https://open.spotify.com/artist/0HpL1XSd64D5E4OxLkoAUD), [Trenton Spence & His Group](https://open.spotify.com/artist/11c31czLCvP86yzPeaLErS) | [Trojan Presents: Mento & R&B](https://open.spotify.com/album/27dfVCvFtf3IXlIL3BltX9) | 3:11 | 2022-06-09 |  |

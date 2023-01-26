@@ -4,7 +4,7 @@
 
 > 2023
 
-768 songs - 1 day 10 hr 4 min
+769 songs - 1 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Chanser](https://open.spotify.com/track/4jNU1qP5ZRLIWTMZ3j2u2E) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Chanser](https://open.spotify.com/album/7tXaanra8ixoRoJkYuwx8j) | 3:03 | 2022-11-24 | 2023-01-20 |
 | [Chiquita](https://open.spotify.com/track/1Xjrr6nyl3Hzs7gZWUqGWG) | [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS) | [Chiquita](https://open.spotify.com/album/6F7B5drT7HbTj1zrbSx4In) | 2:04 | 2022-05-20 | 2022-06-22 |
 | [CHIRAQ](https://open.spotify.com/track/0T4f6dxUx19Ij66XXJlYsP) | [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS) | [CHIRAQ](https://open.spotify.com/album/5Ib80QIraXfyVkBygUfRj2) | 2:12 | 2021-12-16 | 2022-01-05 |
-| [Chit Chat](https://open.spotify.com/track/3HQ2hJIvStlHS8SRWFGdId) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Chit Chat](https://open.spotify.com/album/1JMiRE2UTSrnGIBZT0KNDZ) | 2:52 | 2022-09-29 |  |
+| [Chit Chat](https://open.spotify.com/track/3HQ2hJIvStlHS8SRWFGdId) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Chit Chat](https://open.spotify.com/album/1JMiRE2UTSrnGIBZT0KNDZ) | 2:52 | 2022-09-29 | 2023-01-26 |
 | [Chocolata](https://open.spotify.com/track/27G9K6OFL17tQc14q5EUEA) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Elai](https://open.spotify.com/artist/41qfKbF6qreDxiWBmOX39N) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 2:52 | 2022-12-08 | 2023-01-06 |
 | [Cirkel](https://open.spotify.com/track/7joU4tyNjJr0QUqAXQVkAX) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Cirkel](https://open.spotify.com/album/3X5YvPFQsyFmi6c6JxmQKw) | 2:23 | 2022-01-13 | 2022-02-04 |
 | [City](https://open.spotify.com/track/6fAUEo8PA6XrfZkU0pfnmK) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [City](https://open.spotify.com/album/5lgINLDSMBBIKqrSHDWYYq) | 2:22 | 2022-06-09 | 2022-08-16 |
@@ -207,6 +207,7 @@
 | [Dreams](https://open.spotify.com/track/2e9JCw6tagF1APPHXWy6ff) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT) | 2:08 | 2023-01-05 |  |
 | [Driftiga](https://open.spotify.com/track/09OCtDA2eE8bqeRs0fZZfw) | [Mokke](https://open.spotify.com/artist/1miuiUk8Xya3zRHZzqAYAW), [Biggie Juke](https://open.spotify.com/artist/1iFBAUJba6rHRgFNOJYUDD) | [GRB](https://open.spotify.com/album/0orGUBP7Q6gtmXyijYRB6g) | 2:50 | 2022-05-05 | 2022-06-03 |
 | [Drill](https://open.spotify.com/track/4eZfXYRCM5ZK0jX3vCKPWj) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT) | 2:18 | 2023-01-05 |  |
+| [Du & Jag](https://open.spotify.com/track/1fOZciVVoZ1RqpuO5i2hbU) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Du & Jag](https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK) | 2:12 | 2023-01-25 |  |
 | [Du & jag](https://open.spotify.com/track/1GPWWJOl7bAU4zSjLTeH7e) | [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [Du & jag](https://open.spotify.com/album/68kyp45qkQ0RIS9mFeBaRy) | 3:01 | 2022-10-27 | 2022-11-25 |
 | [Du får mig](https://open.spotify.com/track/6LGjSLD0gcXEi4DzAI7wya) | [Rabih](https://open.spotify.com/artist/7csUmA0B0QLB1n2WRXZzSu), [H.Z](https://open.spotify.com/artist/3ekfbuDGLeHUqN8G2tSE94) | [Du får mig](https://open.spotify.com/album/3gjMCZCPopnqwgtbMHd9fN) | 2:07 | 2022-09-15 | 2022-09-21 |
 | [Du måste veta](https://open.spotify.com/track/17Tszh9t40UEgHXAf8V2VI) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6), [Mona Masrour](https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt), [AIVA](https://open.spotify.com/artist/07ogFFhRxjjGsPHfq4dSQb) | [Du måste veta](https://open.spotify.com/album/7LsEOHQrPXwQfFAyBOrFQT) | 3:01 | 2022-12-31 |  |
@@ -766,7 +767,7 @@
 | [XXX \(Bow Wow Wow\)](https://open.spotify.com/track/4TAyG62NOxropFYKxka0PC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [XXX \(Bow Wow Wow\)](https://open.spotify.com/album/3FJTaFuP5szXBanrrZkANl) | 2:05 | 2022-11-24 |  |
 | [Ya habiba](https://open.spotify.com/track/6TmJczGUH3vjgnwZ78adyb) | [Abbadi](https://open.spotify.com/artist/30evSY1KEZxqkjWB3aphyn) | [Ya habiba](https://open.spotify.com/album/6s3AsuZptEdDEvtWgNP1Ju) | 2:30 | 2021-12-30 | 2022-01-28 |
 | [Ya Habiba](https://open.spotify.com/track/3kYOz5Ohtb7w7peaguUxJl) | [ALAWIE](https://open.spotify.com/artist/6onlMsHiL5KuuYtnwsu8xN), [Ahdam](https://open.spotify.com/artist/7sc53ILf25bAriqrCMgYTt) | [Ya Habiba](https://open.spotify.com/album/4izyBKAufH2hWJR2qPsgjB) | 2:26 | 2022-06-09 | 2022-06-17 |
-| [YA MOULA \(SLOWED\)](https://open.spotify.com/track/0dWVAQoRtVc5XBy7qOrOk3) | [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4) | [YA MOULA \(SLOWED\)](https://open.spotify.com/album/5NHgTVP4aZrgPKRZpPQ1H2) | 2:24 | 2023-01-12 |  |
+| [YA MOULA \(SLOWED\)](https://open.spotify.com/track/0dWVAQoRtVc5XBy7qOrOk3) | [Ceasar DD](https://open.spotify.com/artist/2b9daIUUiOJEbStrT2chg4) | [YA MOULA \(SLOWED\)](https://open.spotify.com/album/5NHgTVP4aZrgPKRZpPQ1H2) | 2:24 | 2023-01-12 | 2023-01-26 |
 | [YOUNG](https://open.spotify.com/track/4tpyNSFM40hJUB8n4IckHG) | [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS) | [YOUNG](https://open.spotify.com/album/4V5ueDsTbneuWj9XiuxLlC) | 2:34 | 2022-11-24 |  |
 | [Young 22](https://open.spotify.com/track/3e5A5YzIZ8RqieoVYkJHbD) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Young 22](https://open.spotify.com/album/6Luyszm1YWHAhptPEynPgt) | 2:30 | 2022-01-20 | 2022-04-15 |
 | [YSL](https://open.spotify.com/track/24eYDhsJKJXf0KS3z2uYkX) | [Ozzy](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [YSL](https://open.spotify.com/album/1fDZ5ZSpl2V4u9vXAfDQGB) | 3:11 | 2022-05-12 | 2022-07-08 |

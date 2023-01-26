@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: Ethan
 
-256 songs - 12 hr 40 min
+257 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [FUOCO \(LA NOTTE\)](https://open.spotify.com/track/53Hycm3y3MMRzXKfr1ZfVU) | [Vespro](https://open.spotify.com/artist/4TvAbp9oKmAALxGmLmXA8L) | [FUOCO \(LA NOTTE\)](https://open.spotify.com/album/3FFJZI70SRGC1M9zk5h5Ub) | 3:13 | 2022-05-19 |  |
 | [Fuori dai guai \(feat\. Gemitaiz\)](https://open.spotify.com/track/1Dd1l5fKJEInJlH8eKWJ0L) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Fuori dai guai \(feat\. Gemitaiz\)](https://open.spotify.com/album/2CA5FxqmGHKOTfR9H4REoF) | 3:20 | 2022-12-15 |  |
 | [FUORI DI TE](https://open.spotify.com/track/1mLlEeGAGfojR6RPks8bFU) | [Dígame](https://open.spotify.com/artist/6duVD4tvbuGfGwK7qJBzMD) | [FUORI DI TE](https://open.spotify.com/album/6CC0tpeNu8MiRVqCP6BFZU) | 2:30 | 2022-12-08 |  |
+| [Futurama](https://open.spotify.com/track/34xLT6m2R7ww0xJZcMRBzK) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [Futurama](https://open.spotify.com/album/5O80iVijdX4uJIF4iTWyp5) | 2:19 | 2023-01-25 |  |
 | [Geisha](https://open.spotify.com/track/3YvBbdZuOmbM2Q39B4lYbm) | [Ombra](https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD) | [TUCANO'S PARTY](https://open.spotify.com/album/5FMbtNZ0q3Z8VYt7eEVh7Z) | 2:55 | 2022-11-24 | 2023-01-13 |
 | [Ghosted](https://open.spotify.com/track/7zmpAz5fdaF2HQFm8OqxUn) | [Isabel Mohr](https://open.spotify.com/artist/54DVheLZCzfAMIu5SAoUc2) | [Ghosted](https://open.spotify.com/album/2G5n7ncP61pKLJeaZttcIg) | 3:12 | 2023-01-19 |  |
 | [Giorni che esplodono](https://open.spotify.com/track/7KoU2DLPJXnKNIu3ikzgIR) | [Mangrovia Twang](https://open.spotify.com/artist/7rLOdLmfwrFQnKitstFDeg), [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Giorni che esplodono](https://open.spotify.com/album/6SVSdsb4X0w73ZnMqQGRHx) | 3:04 | 2022-05-12 | 2022-10-28 |
@@ -239,7 +240,7 @@
 | [Tell Me Why](https://open.spotify.com/track/5JiVlyEvnZj6D3fZEhS9M8) | [Giusi Barone](https://open.spotify.com/artist/7pM35OnnDSSLU6alsc13Tn), [MISSILE](https://open.spotify.com/artist/7Jid1qynsHeXSNftV0jR2Q) | [Tell Me Why](https://open.spotify.com/album/6cUx83dXwKcmjER80iUAWy) | 2:03 | 2022-06-02 | 2022-11-11 |
 | [Terra](https://open.spotify.com/track/60YAdeRQQVjsiQEbrDXpW1) | [Lüzai](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Terra](https://open.spotify.com/album/0mofgrEIJjMuLRjYICvd17) | 2:57 | 2022-12-08 |  |
 | [Tessie](https://open.spotify.com/track/5OTrpx7SZy97ymkPE6fXPS) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Tessie](https://open.spotify.com/album/0s9z3rl3VdBrORlFgrdN9H) | 3:01 | 2022-11-10 |  |
-| [Tra di noi](https://open.spotify.com/track/4sItwBhx0dgj8VtkGK6BGz) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Tra di noi](https://open.spotify.com/album/4iWjvdquhsSVH76bUTOSxO) | 3:26 | 2022-09-22 |  |
+| [Tra di noi](https://open.spotify.com/track/4sItwBhx0dgj8VtkGK6BGz) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Tra di noi](https://open.spotify.com/album/4iWjvdquhsSVH76bUTOSxO) | 3:26 | 2022-09-22 | 2023-01-26 |
 | [Tra Mille](https://open.spotify.com/track/4fS7KNScimKvqgeUeASIW0) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Tra Mille](https://open.spotify.com/album/0byWbGyBA4AV85ULjNVYIC) | 2:35 | 2022-06-23 |  |
 | [Traumi](https://open.spotify.com/track/2LIM6FxHKqRUcz2gP3byUc) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Traumi](https://open.spotify.com/album/6PddgCmogPiR4yyC6X8chF) | 3:04 | 2022-11-03 |  |
 | [tsunami](https://open.spotify.com/track/2Nj2I8V46TI6xIobJ2GWYn) | [Martina Vinci](https://open.spotify.com/artist/0iG27dVYGCX3ggvmijHV5t), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay), [grnd](https://open.spotify.com/artist/2SWF6afQ64WNXGuQrDdTJ0) | [tsunami](https://open.spotify.com/album/4Q8Y8XDkAck0DAvfCiwEbe) | 3:01 | 2023-01-12 |  |

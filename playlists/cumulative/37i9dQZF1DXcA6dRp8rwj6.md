@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: toigo, GONEISBACK, NSW yoon, Roh Yunha, XINSAYNE\)
 
-975 songs - 2 day 1 hr 53 min
+976 songs - 2 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Been a Star](https://open.spotify.com/track/6iq11iEXQpsv6Luq7oNvv9) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [2022 the EP](https://open.spotify.com/album/3tnN1rF99kxjz5UfMUGj0U) | 3:26 | 2022-02-24 | 2022-03-18 |
 | [Before Time](https://open.spotify.com/track/1DnfB5aMcGcJC7cLjy3OXV) | [Mallokay](https://open.spotify.com/artist/1r6bhhy35fKOmTGVmdaUOH), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR), [Keeana](https://open.spotify.com/artist/3MAayxK9jIYpzQ66keLZnK) | [Before Time](https://open.spotify.com/album/53x3AjYwpudQ5vorLcbJ2D) | 3:08 | 2022-03-18 | 2022-04-01 |
 | [Believe](https://open.spotify.com/track/0qCl8lKO7hLPmcNvi2dSbs) | [Amthakid](https://open.spotify.com/artist/0UHSwKw89Vw97oCFIutfg4) | [Believe](https://open.spotify.com/album/1mq5ufHJKhVonTYZrUyEfR) | 2:49 | 2022-09-08 | 2022-10-23 |
+| [Ben10](https://open.spotify.com/track/4fppyITSfCSeyqVqFv5OAk) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Ben10](https://open.spotify.com/album/5UR14pXM7hcP9O0Lt5GBGS) | 2:51 | 2023-01-19 |  |
 | [BENZO](https://open.spotify.com/track/6rhq5U4vBZ90GpzhodA9rz) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [BENZO](https://open.spotify.com/album/0BW5t9qhzscspZ6ozozmOa) | 2:22 | 2022-08-11 | 2022-09-16 |
 | [BET](https://open.spotify.com/track/3TJTvFCoVZaWWTRuaIPkMl) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [BET](https://open.spotify.com/album/3LSep2wdPolkSYoB1QB7IV) | 2:34 | 2022-10-13 | 2022-12-09 |
 | [Big Boi \(All Star Remix\)](https://open.spotify.com/track/6v6Sz8zjizL72erxXsyO00) | [Herbal Candy](https://open.spotify.com/artist/4iS9f9ZV9yAHQ9wUcPtFPi), [Ninjaboi](https://open.spotify.com/artist/4k8Lmq0mgPi7KcE97numIN), [Nakalness](https://open.spotify.com/artist/1loI0RIE3tosoU6YePYuUI), [ChronicalZ](https://open.spotify.com/artist/3OvM4PgW1240WvfbIi9hDh), [F.Rider](https://open.spotify.com/artist/0IAkxUc3IVgyrDLwB3BLkq), [Shelhiel](https://open.spotify.com/artist/1YiJh4CyYHF215ak2CmoaE) | [Big Boi \(All Star Remix\)](https://open.spotify.com/album/4pPNSJGQMmnOJVcPWslC73) | 5:20 | 2022-01-20 | 2022-02-25 |

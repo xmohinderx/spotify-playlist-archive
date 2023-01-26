@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-148 songs - 9 hr 12 min
+149 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,9 +137,10 @@
 | [Take Out Some Insurance](https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Rockin' With Reed](https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ) | 2:23 | 2022-10-14 |  |
 | [Tell Me Baby](https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 2:15 | 2022-05-25 |  |
 | [That's All Right \(Mama\)](https://open.spotify.com/track/2MErQaq2RPHSoxqmyzQrYR) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mean Ole Frisco](https://open.spotify.com/album/7flULFzyNizeGByE4WDgnr) | 2:20 | 2022-07-08 | 2022-07-29 |
-| [That's All Right \(Mama\)](https://open.spotify.com/track/3WXj55GMw8gu6uxLsWVVHC) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:22 | 2023-01-13 |  |
+| [That's All Right \(Mama\)](https://open.spotify.com/track/3WXj55GMw8gu6uxLsWVVHC) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:22 | 2023-01-13 | 2023-01-26 |
 | [The Easy Blues](https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Solid Air](https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp) | 3:21 | 2022-05-25 |  |
 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 | 2022-05-25 |  |
+| [The Moment](https://open.spotify.com/track/5nWSboBwJLJvoLx0VOEVFd) | [Vicky Tafoya](https://open.spotify.com/artist/770Aop5lr0TP4f1cjBWxWu) | [The Moment](https://open.spotify.com/album/4vGUbTrcdm108ZtfZaESjc) | 2:34 | 2023-01-20 |  |
 | [The Sun is Shining](https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:36 | 2022-05-25 |  |
 | [This is Hip \- Remastered](https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Remastered from the Archives](https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn) | 2:25 | 2022-05-25 |  |
 | [Tough Times](https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:59 | 2022-10-14 |  |

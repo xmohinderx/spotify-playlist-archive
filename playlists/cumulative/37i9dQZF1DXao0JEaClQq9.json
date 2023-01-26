@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "A Place To Lie",
+        "url": "https://open.spotify.com/album/4CinlAbdXopU8pbdDjuiqM"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323210,
+      "name": "A Place To Lie",
+      "url": "https://open.spotify.com/track/5KFS9MC8czFqXczPjaOi7R"
+    },
+    {
+      "album": {
         "name": "La Linda",
         "url": "https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O"
       },
@@ -1780,7 +1798,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 224393,
       "name": "Condition",
       "url": "https://open.spotify.com/track/1wQ6S5SPsqwH1tq5KVzTuj"
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 237480,
       "name": "Delete Forever",
       "url": "https://open.spotify.com/track/71J2rawCGulCAyTMtNY3Ej"
@@ -3086,7 +3104,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 204702,
       "name": "Glitter and Tears - Myra Molloy Remix",
       "url": "https://open.spotify.com/track/7Etq2Nj6XJkBdlUr3eKOxg"
@@ -6470,7 +6488,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 240687,
       "name": "River",
       "url": "https://open.spotify.com/track/6GIGtQZq4wKWlDM8wUfS6c"
@@ -8254,7 +8272,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-23",
+      "date_removed": null,
       "duration_ms": 262400,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"

@@ -642,7 +642,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 230720,
       "name": "Bye for now,",
       "url": "https://open.spotify.com/track/4Y9QwoUwo9blH9R9C5DCnk"
@@ -2937,6 +2937,24 @@
     },
     {
       "album": {
+        "name": "Shadow Dancer",
+        "url": "https://open.spotify.com/album/3X94LxNBzncpYZ3SSAr4yc"
+      },
+      "artists": [
+        {
+          "name": "Shizuka Kanata",
+          "url": "https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268366,
+      "name": "Shadow Dancer",
+      "url": "https://open.spotify.com/track/1chRvBbPEbPBhdoINC3wMX"
+    },
+    {
+      "album": {
         "name": "Luna e Sole",
         "url": "https://open.spotify.com/album/2fvASnd0fRoJeGxxVVgQmM"
       },
@@ -3204,7 +3222,7 @@
     {
       "album": {
         "name": "Shadow Dancer",
-        "url": "https://open.spotify.com/album/521YmNGUdx0vpIOP9CtYAI"
+        "url": "https://open.spotify.com/album/3X94LxNBzncpYZ3SSAr4yc"
       },
       "artists": [
         {
@@ -3215,6 +3233,24 @@
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 203186,
+      "name": "TayuTau",
+      "url": "https://open.spotify.com/track/1f4sDC2GlAfI0swFGal7Le"
+    },
+    {
+      "album": {
+        "name": "Shadow Dancer",
+        "url": "https://open.spotify.com/album/521YmNGUdx0vpIOP9CtYAI"
+      },
+      "artists": [
+        {
+          "name": "Shizuka Kanata",
+          "url": "https://open.spotify.com/artist/1b1Iv5ZQQz9VXHOhFe1TCy"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
       "duration_ms": 203186,
       "name": "TayuTau",
       "url": "https://open.spotify.com/track/4ezT4IBR99ikMI0gTSdcSP"

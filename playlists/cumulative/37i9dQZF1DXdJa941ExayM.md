@@ -2,9 +2,9 @@
 
 ### [unleashed](https://open.spotify.com/playlist/37i9dQZF1DXdJa941ExayM)
 
-> maybe it's punk, maybe it's not\. Cover: 100 gecs
+> maybe it's punk, maybe it's not\. Cover: Alice Longyu Gao
 
-194 songs - 10 hr 12 min
+196 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bulls on Parade \- triple j Like A Version](https://open.spotify.com/track/6FCfj69zzQHnrx4fTukhfo) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Bulls on Parade \(triple j Like A Version\)](https://open.spotify.com/album/18pnIaPBNb0DRHCgdoqYOf) | 4:29 | 2022-08-28 |  |
 | [burbank house](https://open.spotify.com/track/3DErMJzUrtfGUjet3xpUml) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [burbank house](https://open.spotify.com/album/4PvJVQQSFCUdEKF1cJrntR) | 1:41 | 2022-08-25 |  |
 | [Busy Waiting](https://open.spotify.com/track/6kQqIdEAoCUKU4EEDmDWZZ) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Busy Waiting](https://open.spotify.com/album/5BVtZ40qHHWmmEB3LOZ5ms) | 2:43 | 2021-12-20 | 2022-08-06 |
-| [Car Crash](https://open.spotify.com/track/5dXIrAUNLOcN2mYkCSeO3k) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Car Crash](https://open.spotify.com/album/2F4bQLWNLz55akGbkwu7BB) | 3:53 | 2021-12-20 |  |
+| [Car Crash](https://open.spotify.com/track/5dXIrAUNLOcN2mYkCSeO3k) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Car Crash](https://open.spotify.com/album/2F4bQLWNLz55akGbkwu7BB) | 3:53 | 2021-12-20 | 2023-01-26 |
 | [Chapped Lips](https://open.spotify.com/track/54LlodRsKUYURluWPLA5tV) | [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [Chapped Lips](https://open.spotify.com/album/3tg1popNIBaseXW4H7XbCP) | 3:05 | 2021-12-20 | 2022-11-18 |
 | [Cheater \(feat\. Tom The Mail Man\)](https://open.spotify.com/track/3n0If8GidXp4KziBDoMe99) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Cheater \(feat\. Tom The Mail Man\)](https://open.spotify.com/album/2de9oXO3uW9iMpVtTknJAy) | 3:04 | 2021-12-20 | 2022-08-26 |
 | [Cherryade](https://open.spotify.com/track/1qlDUbGVlpxKSsCpI9VfsZ) | [The Sukis](https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT) | [Cherryade](https://open.spotify.com/album/4B5zz9fcYTSG3DgMj6lXWf) | 3:10 | 2021-12-20 | 2022-08-26 |
@@ -127,6 +127,7 @@
 | [MINE](https://open.spotify.com/track/1OuUogTZKcuAmLgS6FbDRv) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [MINE](https://open.spotify.com/album/71bI5cpUU3oudowoIkoGwU) | 2:02 | 2022-08-11 |  |
 | [MMMOOOAAAAAYAYA](https://open.spotify.com/track/5OEhwuwzSVnmeJdREOBqqk) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Let Me Do One More](https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f) | 3:04 | 2022-07-07 | 2022-08-29 |
 | [MMMOOOAAAAAYAYA](https://open.spotify.com/track/6wOT4xSBIfD6oxSv7dGE6S) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [MMMOOOAAAAAYAYA](https://open.spotify.com/album/6vLZTDbsUAVSQu5m0Xn9dJ) | 3:04 | 2021-12-20 | 2022-07-29 |
+| [Monk](https://open.spotify.com/track/0T9q3VKvTviNS2Dq874Xda) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Hëłlœ Kįttÿ](https://open.spotify.com/album/688OvyTBMdBL6ckZXeN6Kf) | 2:07 | 2023-01-25 |  |
 | [Monkey Mind](https://open.spotify.com/track/0lM6yxZLvHvxqBdYhgr9uo) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Monkey Mind](https://open.spotify.com/album/2tGMS4nGHxcPvD3DEIeaLW) | 2:18 | 2022-08-05 | 2022-10-09 |
 | [Monkey Mind](https://open.spotify.com/track/7HOoBiQPV0GU6Qw6n6xrJT) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Ma Likes to Drink](https://open.spotify.com/album/1Q5GTbJdgsGyTM7fMes8mB) | 2:18 | 2022-09-29 | 2022-11-13 |
 | [Monkey Mind](https://open.spotify.com/track/7qvwnde6QuoYGd0xUcevIQ) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Bellevue](https://open.spotify.com/album/7nGrRTsbZWCSCOmziwf5Sy) | 2:18 | 2022-09-29 | 2022-12-09 |
@@ -167,6 +168,7 @@
 | [Security](https://open.spotify.com/track/4q52YCaquqmKBqVpwVNSjg) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Security](https://open.spotify.com/album/01cMFHnfw6GGrg8djMAzwN) | 3:47 | 2021-12-20 | 2022-07-29 |
 | [Self\-care 101](https://open.spotify.com/track/0nWXMjeGtC8P0bNBly9oo9) | [Lazy Queen](https://open.spotify.com/artist/1U9zqBUEcScanms647YanK) | [Get Home Or Die Trying](https://open.spotify.com/album/1FsVH5o3NvtOCQDuCyEZgv) | 5:20 | 2021-12-20 | 2022-07-29 |
 | [Self\-care 101](https://open.spotify.com/track/1tFWBZIc8TqcAi15EgMuhi) | [Lazy Queen](https://open.spotify.com/artist/1U9zqBUEcScanms647YanK) | [Get Home Or Die Trying](https://open.spotify.com/album/34r4zqhE5Nt9zAn6lYqHs6) | 5:20 | 2022-07-07 | 2022-08-26 |
+| [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 | 2023-01-25 |  |
 | [Shifting Basslines of the Cornucopians](https://open.spotify.com/track/5OKDRfioiU3wmMERM1RfJq) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Forest of Your Problems](https://open.spotify.com/album/21EXj33nePIyYljFAWtN2Y) | 5:44 | 2021-12-20 | 2022-02-16 |
 | [Show Me How to Live Again](https://open.spotify.com/track/47P6jUCBMMFfwe0evjXADx) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Show Me How to Live Again](https://open.spotify.com/album/4COC6ERKXeFhmuMgyL2xQO) | 3:31 | 2021-12-20 | 2022-11-27 |
 | [Silly Boy](https://open.spotify.com/track/1IWDJT71pjQgy9h3P8UwtG) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Silly Boy](https://open.spotify.com/album/48X1aV5CY95zpcnHiE6WGf) | 3:18 | 2022-02-04 | 2022-07-29 |
@@ -197,7 +199,7 @@
 | [We're All Totally Fucked](https://open.spotify.com/track/6FZk6enwNujep15sIUpZeD) | [Bicurious](https://open.spotify.com/artist/3hg0uAz0P2tHrvqqHU4zzh) | [We're All Totally Fucked](https://open.spotify.com/album/2uBQKNHeZXtrsFh2w58oPy) | 5:17 | 2021-12-20 | 2022-11-18 |
 | [What Do You Stand For](https://open.spotify.com/track/0C2BL4ZwEl2iQmQ55aIhU7) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again](https://open.spotify.com/album/3RSVfuDghNNc8LKgqnw7h2) | 3:45 | 2021-12-20 | 2022-07-29 |
 | [What Do You Stand For](https://open.spotify.com/track/3jR2alPjGORDdwlnRMqa4h) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again \(Extended Edition\)](https://open.spotify.com/album/28NC8KTLC7KsI4ra5bW3kT) | 3:45 | 2022-07-07 | 2022-10-13 |
-| [What Do You Stand For](https://open.spotify.com/track/6AnZvbILflah5oY0yqMiPN) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again \(Extended Edition\)](https://open.spotify.com/album/5VkOPCk6b05wEczaRCnH8y) | 3:45 | 2022-09-29 |  |
+| [What Do You Stand For](https://open.spotify.com/track/6AnZvbILflah5oY0yqMiPN) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again \(Extended Edition\)](https://open.spotify.com/album/5VkOPCk6b05wEczaRCnH8y) | 3:45 | 2022-09-29 | 2023-01-26 |
 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 | 2022-04-25 |  |
 | [Witch Slap \(IOU\)](https://open.spotify.com/track/7LFxhbIwEO84r0QlrlN7wq) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Witch Slap \(IOU\)](https://open.spotify.com/album/5bty0rYDoqIxGohu3ifmuA) | 2:15 | 2021-12-20 | 2022-08-29 |
 | [you can't blame me](https://open.spotify.com/track/25qPKjzyzuWiXGmjLerWhU) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 2:05 | 2022-08-25 |  |

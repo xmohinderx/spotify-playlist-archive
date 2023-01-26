@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-203 songs - 13 hr 1 min
+204 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Love of My Life](https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Johan Norberg](https://open.spotify.com/artist/2awA1B7HXmbpuyMEJQkEyr), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Rasmus Kihlberg](https://open.spotify.com/artist/1HtXGJ1iYUcRZCirb47OmR) | [Eternal Beauty](https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx) | 2:51 | 2022-08-19 |  |
 | [Love You Anymore](https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:02 | 2021-12-21 | 2022-08-30 |
 | [Lovely Day](https://open.spotify.com/track/05sKUAryE5wtWDjEpQanmR) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Lovely Day](https://open.spotify.com/album/4C0onUzIXVg3CLRTr3OrLN) | 3:03 | 2022-05-05 | 2022-07-29 |
+| [Lovely Day](https://open.spotify.com/track/4hPTnzenfZExO1hKV3hVeA) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 3:03 | 2023-01-25 |  |
 | [Lovely Day \- Special Edition](https://open.spotify.com/track/0AdeVqrnbX2SeC9RGVgJWm) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 3:03 | 2022-07-14 | 2023-01-12 |
 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 | 2021-12-21 |  |
 | [Lucky](https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [Lucky](https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy) | 2:40 | 2021-12-21 |  |
@@ -169,7 +170,7 @@
 | [Taxes](https://open.spotify.com/track/1rPUPmUnDTmqUACgMYNkMM) | [Disco Loveless](https://open.spotify.com/artist/4yEqFAKL1RJPURxamKxcFL) | [Taxes](https://open.spotify.com/album/6qJ1nSnYuiDiWCqe4QZkgv) | 3:21 | 2022-04-07 | 2022-12-25 |
 | [Temptation](https://open.spotify.com/track/68FhagAoZr9Ld8oCp9JoYP) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Girl In The Other Room](https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s) | 4:27 | 2021-12-21 |  |
 | [The Age Of Anxiety](https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Age of Anxiety](https://open.spotify.com/album/2P2qPNDdZw930hLCy2ddux) | 5:24 | 2021-12-21 |  |
-| [The Best Is Yet To Come](https://open.spotify.com/track/3SOolXGudRj8IbpmEFPAj1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 3:27 | 2022-08-29 |  |
+| [The Best Is Yet To Come](https://open.spotify.com/track/3SOolXGudRj8IbpmEFPAj1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [The Boy Next Door \(Special Edition\)](https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc) | 3:27 | 2022-08-29 | 2023-01-26 |
 | [The Good Life \(with Billy Joel\)](https://open.spotify.com/track/2cb5IF0FtYPqFujORervcL) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Duets An American Classic](https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX) | 3:20 | 2021-12-21 | 2022-10-08 |
 | [The Lemonade Song](https://open.spotify.com/track/2kby1XWPnTc0fFMrViKbE4) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [The Lemonade Song](https://open.spotify.com/album/0HuI0DCboMnA7impm0IbrP) | 2:34 | 2022-07-14 | 2022-11-14 |
 | [The Lemonade Song](https://open.spotify.com/track/5eAJSGOYirIncdKsFF2m6x) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [The Lemonade Song](https://open.spotify.com/album/0kO0MoMp04oGJzEJDwT7r0) | 2:34 | 2021-12-21 | 2022-07-29 |

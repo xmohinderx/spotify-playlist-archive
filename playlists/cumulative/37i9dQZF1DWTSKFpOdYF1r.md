@@ -2,7 +2,7 @@
 
 ### [Alternative 80s](https://open.spotify.com/playlist/37i9dQZF1DWTSKFpOdYF1r)
 
-> The songs that defined the other side of the 80s\. Cover: The Cramps
+> The songs that defined the other side of the 80s\. Cover: Kate Bush
 
 244 songs - 16 hr 14 min
 

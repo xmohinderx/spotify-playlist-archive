@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Miss Grit",
-  "num_followers": 277908,
+  "num_followers": 277952,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGI2YzA4MTliMzliMjkxZTg0ZWI3ODJiZjdlNDgyZjJj",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDkyNGE4NTgyYmE4ODE3NWM3MWU5ZGVlMzA4M2IwMjhm",
   "tracks": [
     {
       "added_at": "2022-10-21 14:21:02",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/34pOJWcmlxBUDkHaoqG1K2"
     },
     {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "We're Here, My Dear",
-        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Sunshine, I'm Counting on You!",
@@ -607,6 +591,22 @@
       "duration_ms": 255317,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/0OdzC5KFzqugM9XjQF599R"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "We're Here, My Dear",
+        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/7hx7f6U9ul5JVGiRtGwNVU"
     },
     {
-      "added_at": "2022-12-22 06:08:00",
-      "album": {
-        "name": "I'm Not Ok",
-        "url": "https://open.spotify.com/album/00vDBfnMWFibWlxn8tnaBy"
-      },
-      "artists": [
-        {
-          "name": "Elliott Fullam",
-          "url": "https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw"
-        }
-      ],
-      "duration_ms": 292142,
-      "name": "I'm Not Ok",
-      "url": "https://open.spotify.com/track/3IlIMC0YPARZVADNcP2wwn"
-    },
-    {
       "added_at": "2022-10-21 14:21:02",
       "album": {
         "name": "rainbow music",
@@ -671,6 +655,22 @@
       "duration_ms": 146152,
       "name": "rest",
       "url": "https://open.spotify.com/track/4wyaumfJq6SNuV5wUJw2p4"
+    },
+    {
+      "added_at": "2022-12-22 06:08:00",
+      "album": {
+        "name": "I'm Not Ok",
+        "url": "https://open.spotify.com/album/00vDBfnMWFibWlxn8tnaBy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Fullam",
+          "url": "https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw"
+        }
+      ],
+      "duration_ms": 292142,
+      "name": "I'm Not Ok",
+      "url": "https://open.spotify.com/track/3IlIMC0YPARZVADNcP2wwn"
     },
     {
       "added_at": "2022-10-21 14:21:02",
@@ -721,6 +721,42 @@
       "url": "https://open.spotify.com/track/1XzzByAlOg45CFjTKONinS"
     },
     {
+      "added_at": "2023-01-17 19:42:49",
+      "album": {
+        "name": "My Friend Mica",
+        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
+      },
+      "artists": [
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+        }
+      ],
+      "duration_ms": 173905,
+      "name": "Legs",
+      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Thin Air",
+        "url": "https://open.spotify.com/album/6q4SXmm2PWBVqP8oE49bco"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        },
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Thin Air",
+      "url": "https://open.spotify.com/track/1XrcBKoDKpJG76LvhzJbIZ"
+    },
+    {
       "added_at": "2022-11-17 17:47:18",
       "album": {
         "name": "Fallout",
@@ -751,22 +787,6 @@
       "duration_ms": 271600,
       "name": "Hot and Clumsy",
       "url": "https://open.spotify.com/track/50aFetaKwC3pKTLyUWh7UZ"
-    },
-    {
-      "added_at": "2023-01-17 19:42:49",
-      "album": {
-        "name": "My Friend Mica",
-        "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
-      },
-      "artists": [
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
-        }
-      ],
-      "duration_ms": 173905,
-      "name": "Legs",
-      "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
     },
     {
       "added_at": "2023-01-17 19:42:49",
@@ -817,22 +837,6 @@
       "url": "https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2"
     },
     {
-      "added_at": "2023-01-17 19:42:49",
-      "album": {
-        "name": "play it pretty",
-        "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "dirty claws",
-      "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
-    },
-    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "Miss Carolina (feat. Carlie Hanson)",
@@ -851,6 +855,38 @@
       "duration_ms": 156000,
       "name": "Miss Carolina (feat. Carlie Hanson)",
       "url": "https://open.spotify.com/track/0QkPOadK79NBJtlG8R6JMF"
+    },
+    {
+      "added_at": "2023-01-17 19:42:49",
+      "album": {
+        "name": "play it pretty",
+        "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "dirty claws",
+      "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Hayday",
+        "url": "https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "duration_ms": 130606,
+      "name": "Dog Song 2",
+      "url": "https://open.spotify.com/track/38o4QGAJgtqmhQw3SE0gZR"
     },
     {
       "added_at": "2022-12-16 04:00:00",
@@ -885,22 +921,6 @@
       "url": "https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Hayday",
-        "url": "https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt"
-      },
-      "artists": [
-        {
-          "name": "feeble little horse",
-          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
-        }
-      ],
-      "duration_ms": 130606,
-      "name": "Dog Song 2",
-      "url": "https://open.spotify.com/track/38o4QGAJgtqmhQw3SE0gZR"
-    },
-    {
       "added_at": "2022-12-16 04:00:00",
       "album": {
         "name": "Utah",
@@ -915,26 +935,6 @@
       "duration_ms": 169180,
       "name": "Utah",
       "url": "https://open.spotify.com/track/3HEBe9g9vNZ6AaAnRtsjvh"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Thin Air",
-        "url": "https://open.spotify.com/album/6q4SXmm2PWBVqP8oE49bco"
-      },
-      "artists": [
-        {
-          "name": "Tanukichan",
-          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
-        },
-        {
-          "name": "Enumclaw",
-          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Thin Air",
-      "url": "https://open.spotify.com/track/1XrcBKoDKpJG76LvhzJbIZ"
     },
     {
       "added_at": "2023-01-17 19:42:49",
@@ -1017,6 +1017,22 @@
       "url": "https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/42R0x8BUI7OPVA7iN3az1r"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "duration_ms": 255422,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1d9NEfD71ZmPWEVy2AwmHD"
+    },
+    {
       "added_at": "2022-11-17 17:47:18",
       "album": {
         "name": "Air Guitar",
@@ -1049,6 +1065,22 @@
       "url": "https://open.spotify.com/track/2JMB5piiHlzUWqvnPfuVCO"
     },
     {
+      "added_at": "2023-01-17 19:42:49",
+      "album": {
+        "name": "Projector",
+        "url": "https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 254886,
+      "name": "Low Era",
+      "url": "https://open.spotify.com/track/1GKdMtwcB3oi0uwr4M1B5G"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "\u200evacation",
@@ -1063,6 +1095,22 @@
       "duration_ms": 230884,
       "name": "\u200evacation",
       "url": "https://open.spotify.com/track/5r0P7kg0Vxf9DF5IFBpi08"
+    },
+    {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/4XMzbNjifjbUTci7QxtP14"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "WASTELAND",
+      "url": "https://open.spotify.com/track/7BhxJU5NdAnzkSxZEsMucp"
     },
     {
       "added_at": "2022-12-22 06:08:00",
@@ -1097,38 +1145,6 @@
       "url": "https://open.spotify.com/track/6dKxNezVre0MtpWtvrQnLS"
     },
     {
-      "added_at": "2023-01-17 19:42:49",
-      "album": {
-        "name": "Projector",
-        "url": "https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 254886,
-      "name": "Low Era",
-      "url": "https://open.spotify.com/track/1GKdMtwcB3oi0uwr4M1B5G"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/4XMzbNjifjbUTci7QxtP14"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 239986,
-      "name": "WASTELAND",
-      "url": "https://open.spotify.com/track/7BhxJU5NdAnzkSxZEsMucp"
-    },
-    {
       "added_at": "2022-12-16 04:00:00",
       "album": {
         "name": "Bounds",
@@ -1159,22 +1175,6 @@
       "duration_ms": 187120,
       "name": "How It Ends",
       "url": "https://open.spotify.com/track/0A71gr6oummBVekQZfg7tP"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/42R0x8BUI7OPVA7iN3az1r"
-      },
-      "artists": [
-        {
-          "name": "Squirrel Flower",
-          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
-        }
-      ],
-      "duration_ms": 255422,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/1d9NEfD71ZmPWEVy2AwmHD"
     },
     {
       "added_at": "2022-12-16 04:00:00",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/0qp13BxtzgVV821Fx1RFsi"
     },
     {
-      "added_at": "2022-12-22 17:59:11",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/08u1lOOEqeG1CMuL2YDSbf"
-      },
-      "artists": [
-        {
-          "name": "Bunk Buddy",
-          "url": "https://open.spotify.com/artist/2v1a1xAEi5PEzzW1fJerGg"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0ZeeEP48byhbODGptCqhjt"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "how would you know",
@@ -1239,6 +1223,22 @@
       "duration_ms": 177173,
       "name": "how would you know",
       "url": "https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy"
+    },
+    {
+      "added_at": "2022-12-22 17:59:11",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/08u1lOOEqeG1CMuL2YDSbf"
+      },
+      "artists": [
+        {
+          "name": "Bunk Buddy",
+          "url": "https://open.spotify.com/artist/2v1a1xAEi5PEzzW1fJerGg"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0ZeeEP48byhbODGptCqhjt"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1405,6 +1405,22 @@
       "url": "https://open.spotify.com/track/7xcpq3onzGXIeptQwkWgjD"
     },
     {
+      "added_at": "2022-10-21 14:21:02",
+      "album": {
+        "name": "Bucktooth",
+        "url": "https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "duration_ms": 209859,
+      "name": "Bucktooth",
+      "url": "https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u"
+    },
+    {
       "added_at": "2022-12-07 16:54:42",
       "album": {
         "name": "tunnels",
@@ -1435,22 +1451,6 @@
       "duration_ms": 142733,
       "name": "Stephen Hawking's Goldfish Analogy (Demo)",
       "url": "https://open.spotify.com/track/5G1GJu18mEN8c2GlyREUKz"
-    },
-    {
-      "added_at": "2022-10-21 14:21:02",
-      "album": {
-        "name": "Bucktooth",
-        "url": "https://open.spotify.com/album/4bx5GYQvnyDQtav2gpzEIW"
-      },
-      "artists": [
-        {
-          "name": "Lowertown",
-          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
-        }
-      ],
-      "duration_ms": 209859,
-      "name": "Bucktooth",
-      "url": "https://open.spotify.com/track/59ewp9EGD7BYjb0C3Myv3u"
     },
     {
       "added_at": "2023-01-17 19:42:49",
@@ -1593,22 +1593,6 @@
       "url": "https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25"
     },
     {
-      "added_at": "2022-11-17 17:47:18",
-      "album": {
-        "name": "Demons at the Dinner Table",
-        "url": "https://open.spotify.com/album/2QxLfEiN0Uo4TXpTBUVDJI"
-      },
-      "artists": [
-        {
-          "name": "Lucca Dohr",
-          "url": "https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9"
-        }
-      ],
-      "duration_ms": 124532,
-      "name": "Demons at the Dinner Table",
-      "url": "https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Over And Over",
@@ -1633,20 +1617,36 @@
       "url": "https://open.spotify.com/track/2RUeg7yy9DPcgCQFDpesK1"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2022-11-17 17:47:18",
       "album": {
-        "name": "control",
-        "url": "https://open.spotify.com/album/0alWvDgpvmJ8vZ19a7JZru"
+        "name": "Demons at the Dinner Table",
+        "url": "https://open.spotify.com/album/2QxLfEiN0Uo4TXpTBUVDJI"
       },
       "artists": [
         {
-          "name": "Crooks & Nannies",
-          "url": "https://open.spotify.com/artist/2v081HF22KJUbNXmXPKTdk"
+          "name": "Lucca Dohr",
+          "url": "https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9"
         }
       ],
-      "duration_ms": 176243,
-      "name": "control",
-      "url": "https://open.spotify.com/track/6PIt7eaIbQz0ftAipJ9STj"
+      "duration_ms": 124532,
+      "name": "Demons at the Dinner Table",
+      "url": "https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Eventide",
+        "url": "https://open.spotify.com/album/5n4twzXZkAwdZFAJFCI5jj"
+      },
+      "artists": [
+        {
+          "name": "EVNTYD",
+          "url": "https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh"
+        }
+      ],
+      "duration_ms": 272453,
+      "name": "Quotidian",
+      "url": "https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O"
     }
   ],
   "unique_name": "undercurrents",

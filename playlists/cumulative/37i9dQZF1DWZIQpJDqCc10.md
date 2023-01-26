@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZIQpJDqCc10.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZIQpJDqCc10) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZIQpJDqCc10)
 
-### [Alternative Love Songs](https://open.spotify.com/playlist/37i9dQZF1DWZIQpJDqCc10)
+### [Indie Love Songs](https://open.spotify.com/playlist/37i9dQZF1DWZIQpJDqCc10)
 
-> A selection of the greatest alternative love songs of all time.
+> A selection of the greatest indie love songs of all time.
 
 196 songs - 12 hr 24 min
 
@@ -30,9 +30,9 @@
 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 | 2022-02-10 |  |
 | [Bruises](https://open.spotify.com/track/4mdyVTV7Tr5YDFnD2kvSM4) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Does You Inspire You](https://open.spotify.com/album/3JuIBAoHi6gUmS3tgF4CPg) | 4:01 | 2021-01-28 |  |
 | [California Daze](https://open.spotify.com/track/0GsLaBFChyC0vMh7qsFunp) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [In Love \(US\)](https://open.spotify.com/album/1h5rAU1bcpAJezFuMBBbum) | 3:58 | 2022-02-10 | 2022-12-02 |
-| [California Daze](https://open.spotify.com/track/3Oa4HmaT53IzzyZDbqmT2b) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [In Love](https://open.spotify.com/album/2WF9WYqw0z4xs4hJi5eSmU) | 3:58 | 2022-02-10 |  |
+| [California Daze](https://open.spotify.com/track/3Oa4HmaT53IzzyZDbqmT2b) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [In Love](https://open.spotify.com/album/2WF9WYqw0z4xs4hJi5eSmU) | 3:58 | 2022-02-10 | 2023-01-26 |
 | [Can't Do Without You](https://open.spotify.com/track/2f14cB0pXqhgQDeNmQDkXf) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/3JRPfW15UIAdRYuBvNxLkR) | 3:56 | 2021-01-28 | 2022-02-11 |
-| [Candles](https://open.spotify.com/track/0c6z0CQLmIAEOCfhNvh3n3) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j) | 4:53 | 2022-02-10 | 2022-12-26 |
+| [Candles](https://open.spotify.com/track/0c6z0CQLmIAEOCfhNvh3n3) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/7sONOKbe7yLIfXeJPaSt3j) | 4:53 | 2022-02-10 |  |
 | [Candles](https://open.spotify.com/track/5K2qwFxS08aEBjvsisCcQv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:53 | 2021-01-28 | 2022-07-29 |
 | [Change Your Mind](https://open.spotify.com/track/083cgOBzPBFBrqYFJDWPis) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 3:10 | 2022-02-10 | 2022-07-29 |
 | [Change Your Mind](https://open.spotify.com/track/2N7TN76tLuTcdn9UlS8ADT) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:12 | 2022-02-10 |  |

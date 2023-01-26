@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-621 songs - 1 day 8 hr 56 min
+622 songs - 1 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [First aid kit](https://open.spotify.com/track/2yFyfHHGesFqs39fATQzQA) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [ANDRA SIDAN ÄR NI KLARA](https://open.spotify.com/album/2uRRdTqrjo0LdSS5WIrB1M) | 3:16 | 2021-12-16 | 2022-03-11 |
 | [First Place](https://open.spotify.com/track/30OOcKVwvFSOEPOlPUPW8J) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [First Place](https://open.spotify.com/album/40NbNPVyrVG549WUMtVYhQ) | 3:13 | 2021-12-16 | 2022-01-04 |
 | [Flyg Fula Fluga Flyg](https://open.spotify.com/track/01fQ3xuWfYAHmUIiFC1JVP) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Flyg Fula Fluga Flyg \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/5xwu2ZxKFPk1wM1JBEO2Jf) | 2:39 | 2021-12-16 | 2022-09-16 |
-| [Flyga](https://open.spotify.com/track/2NYq3cFJKFtGkxbGLzSXLP) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Flyga](https://open.spotify.com/album/4nZYnOABTSVERld8R67WgW) | 2:53 | 2022-12-01 |  |
+| [Flyga](https://open.spotify.com/track/2NYq3cFJKFtGkxbGLzSXLP) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Flyga](https://open.spotify.com/album/4nZYnOABTSVERld8R67WgW) | 2:53 | 2022-12-01 | 2023-01-26 |
 | [Forever](https://open.spotify.com/track/2kt6eZpklbhOPxAqkcNHYz) | [AMADEUS](https://open.spotify.com/artist/2t7THYoDAV1wXEmsp7HNH1) | [Forever](https://open.spotify.com/album/5nkPAhhUXp9FQlsQSC4fD4) | 2:50 | 2022-04-28 | 2022-07-28 |
 | [Freedom](https://open.spotify.com/track/1h4SQsufLENc6oCAbskc1T) | [Faith Kakembo](https://open.spotify.com/artist/7uyCbr8t8wRzRgPoADaHvl) | [Freedom](https://open.spotify.com/album/1b1fH8cmdB7KNG9A9P4Y85) | 2:54 | 2022-02-26 | 2022-09-03 |
 | [FRIENDS](https://open.spotify.com/track/5nfxIGqARkkvpkVjhnj6BL) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [God Is Lonely Too](https://open.spotify.com/album/63vdcGFlCkEs9h5THcGKnR) | 2:29 | 2021-12-16 | 2022-03-08 |
@@ -342,6 +342,7 @@
 | [LÅTSAS SOM ATT ALLT ÄR BRA](https://open.spotify.com/track/3jUz8mlxuxFe8sZPbg0jrK) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [LÅTSAS SOM ATT ALLT ÄR BRA](https://open.spotify.com/album/3L9f425mm6DIzpIC1LIC8B) | 2:42 | 2022-03-17 | 2022-08-24 |
 | [Magik](https://open.spotify.com/track/6MjSZDtkKMNaFY9CV4oArA) | [DUO](https://open.spotify.com/artist/6FFSeDNJPtdauDFJQt6hZD) | [Magik](https://open.spotify.com/album/6MWKGkxYUhO5zi2y29Ttol) | 4:00 | 2022-01-13 | 2022-04-02 |
 | [Mamma](https://open.spotify.com/track/6GuWgmVACcJo9amMxliQOR) | [Nils\-Pontus](https://open.spotify.com/artist/2dzdtFxXRM7DB1YyDhL7Yr) | [Mamma](https://open.spotify.com/album/4NneLR9nt7OZ2MVKSoOMTl) | 2:57 | 2021-12-16 | 2022-01-12 |
+| [Mamma](https://open.spotify.com/track/4UURbSqkM3F9Arv0yvamIQ) | [Rasmus Hultgren](https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW) | [Mamma](https://open.spotify.com/album/1hiGf2wre6njCrb9SiGbxv) | 2:20 | 2023-01-19 |  |
 | [Mamma är lik sin mamma](https://open.spotify.com/track/4UBKHem0p2HpIAjCnELAjE) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Mamma är lik sin mamma](https://open.spotify.com/album/4zcd1yACKoc6R3fAi8NhCn) | 3:36 | 2021-12-16 | 2022-03-11 |
 | [Mandela](https://open.spotify.com/track/7MiLOZAISUhpe8gQwcgiE2) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Juju Pt.3 Postum](https://open.spotify.com/album/56TkWM7N012kerAgMwz2Ut) | 2:57 | 2022-06-23 | 2022-07-12 |
 | [MANO](https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MANO](https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1) | 2:48 | 2022-02-05 | 2022-07-21 |

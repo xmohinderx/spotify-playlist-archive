@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Feid & DJ Premier",
-  "num_followers": 695756,
+  "num_followers": 695773,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDYxMSwwMDAwMDAwMDU0Yzk5ZGEzNzg3ZWZkOTNjMmMyZGI1OTJhOTE2NTM1",
+  "snapshot_id": "MTY3MzI0NDYxMSwwMDAwMDAwMDAwODFhOTBhYzI4ZDYzMWY0YWQ1ZGJlNWJhMzZmNWJj",
   "tracks": [
     {
       "added_at": "2023-01-09 06:10:11",
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-01-09 06:10:11",
       "album": {
-        "name": "Gatita Gangster",
-        "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Gatita Gangster",
-      "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
-    },
-    {
-      "added_at": "2023-01-09 06:10:11",
-      "album": {
         "name": "Amandita",
         "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 223469,
       "name": "Amandita",
       "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
+    },
+    {
+      "added_at": "2023-01-09 06:10:11",
+      "album": {
+        "name": "Gatita Gangster",
+        "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Gatita Gangster",
+      "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
     },
     {
       "added_at": "2023-01-09 06:10:11",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-01-09 06:10:11",
       "album": {
-        "name": "Una Ni\u00f1a In\u00fatil",
-        "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T"
-    },
-    {
-      "added_at": "2023-01-09 06:10:11",
-      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -555,22 +539,6 @@
     {
       "added_at": "2023-01-09 06:10:11",
       "album": {
-        "name": "mE RecHaZasTe :(",
-        "url": "https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 176590,
-      "name": "mE RecHaZasTe :(",
-      "url": "https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa"
-    },
-    {
-      "added_at": "2023-01-09 06:10:11",
-      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
       },
@@ -583,6 +551,38 @@
       "duration_ms": 151304,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
+    },
+    {
+      "added_at": "2023-01-09 06:10:11",
+      "album": {
+        "name": "Una Ni\u00f1a In\u00fatil",
+        "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T"
+    },
+    {
+      "added_at": "2023-01-09 06:10:11",
+      "album": {
+        "name": "mE RecHaZasTe :(",
+        "url": "https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 176590,
+      "name": "mE RecHaZasTe :(",
+      "url": "https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa"
     },
     {
       "added_at": "2023-01-09 06:10:11",
@@ -875,26 +875,22 @@
     {
       "added_at": "2023-01-09 06:10:11",
       "album": {
-        "name": "En La Disco Revela",
-        "url": "https://open.spotify.com/album/37v6cQ4Ng0iXObwMzBwu5b"
+        "name": "lyu2 (with marcos g)",
+        "url": "https://open.spotify.com/album/3pwWV4Y1XnsZpcpqtjyax3"
       },
       "artists": [
         {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+          "name": "riela",
+          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
         },
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Alejandro Armes",
-          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
+          "name": "marcos g",
+          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
         }
       ],
-      "duration_ms": 183092,
-      "name": "En La Disco Revela",
-      "url": "https://open.spotify.com/track/2aP62YJe28Kclfpx2DBjo7"
+      "duration_ms": 182526,
+      "name": "lyu2 (with marcos g)",
+      "url": "https://open.spotify.com/track/1eKhGmIxCVwXHjxrh3aqT5"
     },
     {
       "added_at": "2023-01-09 06:10:11",
@@ -915,22 +911,26 @@
     {
       "added_at": "2023-01-09 06:10:11",
       "album": {
-        "name": "lyu2 (with marcos g)",
-        "url": "https://open.spotify.com/album/3pwWV4Y1XnsZpcpqtjyax3"
+        "name": "En La Disco Revela",
+        "url": "https://open.spotify.com/album/37v6cQ4Ng0iXObwMzBwu5b"
       },
       "artists": [
         {
-          "name": "riela",
-          "url": "https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A"
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
         },
         {
-          "name": "marcos g",
-          "url": "https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN"
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Alejandro Armes",
+          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
         }
       ],
-      "duration_ms": 182526,
-      "name": "lyu2 (with marcos g)",
-      "url": "https://open.spotify.com/track/1eKhGmIxCVwXHjxrh3aqT5"
+      "duration_ms": 183092,
+      "name": "En La Disco Revela",
+      "url": "https://open.spotify.com/track/2aP62YJe28Kclfpx2DBjo7"
     },
     {
       "added_at": "2023-01-09 06:10:11",

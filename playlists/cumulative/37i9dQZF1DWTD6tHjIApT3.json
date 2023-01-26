@@ -1550,6 +1550,24 @@
     {
       "album": {
         "name": "\u70b9\u63cf",
+        "url": "https://open.spotify.com/album/0l8baO2a0PasmzInWEGVUv"
+      },
+      "artists": [
+        {
+          "name": "Toko Miura",
+          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258146,
+      "name": "blur and flower",
+      "url": "https://open.spotify.com/track/4XXv8XROOit6ZpSDkbpufH"
+    },
+    {
+      "album": {
+        "name": "\u70b9\u63cf",
         "url": "https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf"
       },
       "artists": [
@@ -1560,7 +1578,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 258146,
       "name": "blur and flower",
       "url": "https://open.spotify.com/track/69Za0q72RlvUiwaiZkJbEQ"
@@ -1636,10 +1654,28 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 274266,
       "name": "Butterfly - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/0GTeyD3fKkDzy81I3u32yl"
+    },
+    {
+      "album": {
+        "name": "Butterfly - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/0Xy27LJYDsqky0xkGXeeUt"
+      },
+      "artists": [
+        {
+          "name": "Kaela Kimura",
+          "url": "https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274266,
+      "name": "Butterfly - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/3kxwqpINAbuqo2jlW0MwYs"
     },
     {
       "album": {
@@ -5119,6 +5155,28 @@
     },
     {
       "album": {
+        "name": "Koi ha jealousy",
+        "url": "https://open.spotify.com/album/7K2SHuNbsnIZ1EwGjuR2Qf"
+      },
+      "artists": [
+        {
+          "name": "Lisa Halim",
+          "url": "https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9"
+        },
+        {
+          "name": "\u6d41\u7dda\u5f62",
+          "url": "https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246734,
+      "name": "Koi ha jealousy",
+      "url": "https://open.spotify.com/track/381vdLFYEwBI1JYzIT9GME"
+    },
+    {
+      "album": {
         "name": "Kokoni Aru Kyou",
         "url": "https://open.spotify.com/album/025HIJH29ql3q2hbUSVluf"
       },
@@ -7892,7 +7950,7 @@
     {
       "album": {
         "name": "Runnin'",
-        "url": "https://open.spotify.com/album/2p5uVg4qhGpKRrJHbGrYmz"
+        "url": "https://open.spotify.com/album/3bWapohKNAU2XCDegJ0LCO"
       },
       "artists": [
         {
@@ -7907,6 +7965,28 @@
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/1jXTddZprrt32F0EncQAml"
+    },
+    {
+      "album": {
+        "name": "Runnin'",
+        "url": "https://open.spotify.com/album/2p5uVg4qhGpKRrJHbGrYmz"
+      },
+      "artists": [
+        {
+          "name": "YOSA & TAAR",
+          "url": "https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY"
+        },
+        {
+          "name": "Sagiri S\u00f3l",
+          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
       "duration_ms": 214000,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/2NdsQs90VT8lUUqI84LGef"
@@ -8412,10 +8492,32 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 220719,
       "name": "Sixteen, Fifteen",
       "url": "https://open.spotify.com/track/6PjUPRfDLbzXqjU5CdiMtV"
+    },
+    {
+      "album": {
+        "name": "Sixteen, Fifteen",
+        "url": "https://open.spotify.com/album/3eFaRHP5BiBrp1HfaE6Hf9"
+      },
+      "artists": [
+        {
+          "name": "Sincere",
+          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
+        },
+        {
+          "name": "oceanfromtheblue",
+          "url": "https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220719,
+      "name": "Sixteen, Fifteen",
+      "url": "https://open.spotify.com/track/6engsrggcvwuuuvXOYh6Fw"
     },
     {
       "album": {
@@ -9924,7 +10026,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "TRUMAN",
       "url": "https://open.spotify.com/track/22ddh4soKM3Soz0SMHzlAP"
@@ -16848,7 +16950,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 246734,
       "name": "\u604b\u306f\u30b8\u30a7\u30e9\u30b7\u30fc",
       "url": "https://open.spotify.com/track/6IXn8HunEvFtT6yihvgkYC"
@@ -17118,7 +17220,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 273293,
       "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
       "url": "https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH"

@@ -4,7 +4,7 @@
 
 > One in a million! TWICE! MOONLIGHT SUNRISE is here!
 
-179 songs - 9 hr 54 min
+180 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [BELIEVER](https://open.spotify.com/track/7louodH5FUYuL3yvHQtq3O) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:16 | 2022-07-19 |  |
 | [BETTER](https://open.spotify.com/track/0rSMzlAKNapoat4NdZYmi3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETTER](https://open.spotify.com/album/2jOvgj6NJc1l5SBApgFaZC) | 3:43 | 2022-03-24 |  |
 | [BETTER](https://open.spotify.com/track/1Wrn6btrungVsBjyViLnuY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 3:43 | 2022-03-24 |  |
+| [Bouquet](https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ) | [MOMO](https://open.spotify.com/artist/201LkKsQx7d0xFVRWOV4gQ), [SANA](https://open.spotify.com/artist/4a4zvpQq5Phxr12Pu8Akmm), [MINA](https://open.spotify.com/artist/2zymPkWVcSMIDZbecBNwqB) | [Bouquet](https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd) | 4:24 | 2023-01-25 |  |
 | [Brave](https://open.spotify.com/track/2peoFPokM6eYAIwLm9IQ8E) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 3:09 | 2022-08-26 |  |
 | [Breakthrough](https://open.spotify.com/track/5COO2JgOmHIJ2jsXFwflz8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Breakthrough](https://open.spotify.com/album/7LWfEiSeue9BXPbUOH34q6) | 3:37 | 2022-03-24 |  |
 | [BRING IT BACK](https://open.spotify.com/track/2APCo1hwAaua9CslYXqALD) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:28 | 2022-07-19 |  |

@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-379 songs - 23 hr 3 min
+380 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Hard Times \(feat\. Mali Music\)](https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Hard Times \(feat\. Mali Music\)](https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0) | 3:25 | 2022-06-25 |  |
 | [Has anyone ever left you high and dry?](https://open.spotify.com/track/2F5hDBihY3yLQhoznHGDed) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 2:27 | 2022-04-01 |  |
 | [Heart of the Father](https://open.spotify.com/track/1TmLe4cOUoLjEiON85AOQF) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Heart of the Father](https://open.spotify.com/album/6eg9VkQpbxdVpgh3iwPkxR) | 4:03 | 2022-02-19 | 2022-06-26 |
+| [Hearts in Pain](https://open.spotify.com/track/1dJ603jNcGc6eXdRL9Jv78) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [Hearts in Pain](https://open.spotify.com/album/1aXo94Pxz8t8fGbvaZ81Sj) | 2:52 | 2023-01-20 |  |
 | [Heaven](https://open.spotify.com/track/5b5Pi5oP4FWNcEPVmr8MIa) | [Anthony David](https://open.spotify.com/artist/6ktPQsThz35JwdtDsvi51S), [Algebra Blessett](https://open.spotify.com/artist/0ffXbLm7KIcfu3M1ee0UkP) | [Heaven](https://open.spotify.com/album/36GXbwa9TQmAQ8BfCaU1y5) | 4:15 | 2022-06-25 |  |
 | [Heavy](https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Heavy](https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE) | 3:30 | 2022-04-01 | 2023-01-21 |
 | [Hello God](https://open.spotify.com/track/5vCmQ3GFBY338mNytXxXaB) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Overcomer](https://open.spotify.com/album/6pqXXcSmkHmuODhcFLfNuQ) | 4:19 | 2022-02-19 | 2022-06-26 |
@@ -248,7 +249,7 @@
 | [Not Gon’ Do](https://open.spotify.com/track/0RGuN1UxbbBKimDw9l9AIv) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:16 | 2022-02-19 | 2022-06-26 |
 | [Not Lucky, I'm Loved](https://open.spotify.com/track/4KuFyYtKIizLOjfofjxZT8) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI) | 6:48 | 2022-02-19 | 2022-06-26 |
 | [Not Moved](https://open.spotify.com/track/6bvQPwpiGkvhwXq12f429q) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/11WIHYBbynfg1VwUlmHshG) | 4:33 | 2022-06-25 |  |
-| [Not Ready](https://open.spotify.com/track/6D048RKHsytV9beHsE0A5S) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Not Ready](https://open.spotify.com/album/5fxIWLwV8ugU5hvPkOJHcf) | 3:56 | 2022-06-25 |  |
+| [Not Ready](https://open.spotify.com/track/6D048RKHsytV9beHsE0A5S) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Not Ready](https://open.spotify.com/album/5fxIWLwV8ugU5hvPkOJHcf) | 3:56 | 2022-06-25 | 2023-01-26 |
 | [Nothing Else](https://open.spotify.com/track/0bflIQnvaGK5USahQuvohu) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA) | [Nothing Else](https://open.spotify.com/album/673Mfe5edcp9Syyx7nMtu7) | 3:03 | 2022-03-05 | 2022-04-05 |
 | [Oil & Water \(feat\. Anthony Hamilton\)](https://open.spotify.com/track/6vREtE2UPe78r9FfuoBtJj) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Oil & Water \(feat\. Anthony Hamilton\)](https://open.spotify.com/album/28MXle4STHNFbcx9qwreVY) | 4:13 | 2022-02-19 | 2022-06-26 |
 | [Okay](https://open.spotify.com/track/0PSiRaqS435Yg2EReUCm0p) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Journey](https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ) | 3:55 | 2022-07-08 |  |

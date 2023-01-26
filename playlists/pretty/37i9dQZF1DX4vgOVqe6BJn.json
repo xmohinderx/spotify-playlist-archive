@@ -1,29 +1,13 @@
 {
   "description": "The Official EA Sports FIFA 23 Soundtrack.",
-  "num_followers": 128907,
+  "num_followers": 129274,
   "original_name": "FIFA 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzODgyMiwwMDAwMDAwMGY1MGVkYjdhZWRkMGEzZWMwMzJhMDU4OTQwMzFkNDVh",
+  "snapshot_id": "MTY3NDY2NTc4NCwwMDAwMDAwMGVhZDZhYmU3NzcxYzM2MzQyYTU4MmFjNzZmZTU1NTQ1",
   "tracks": [
-    {
-      "added_at": "2022-11-04 07:00:00",
-      "album": {
-        "name": "Baby Queen",
-        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 220105,
-      "name": "Baby Queen",
-      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
-    },
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
@@ -81,6 +65,22 @@
       "url": "https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx"
     },
     {
+      "added_at": "2023-01-26 00:27:24",
+      "album": {
+        "name": "Rice",
+        "url": "https://open.spotify.com/album/2ZoSfYlgiJWrGs1Uacr8hZ"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/4zvJOqQjIA1KEfH5smPq6K"
+    },
+    {
       "added_at": "2022-09-22 12:56:00",
       "album": {
         "name": "Finesse",
@@ -131,6 +131,22 @@
       "duration_ms": 206385,
       "name": "Nail Tech",
       "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2022-11-04 07:00:00",
+      "album": {
+        "name": "Baby Queen",
+        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 220105,
+      "name": "Baby Queen",
+      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -207,6 +223,22 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
+        "name": "Rx",
+        "url": "https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "forever&more",
+      "url": "https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
         "name": "Voodoo (with J Balvin & Tainy)",
         "url": "https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ"
       },
@@ -227,22 +259,6 @@
       "duration_ms": 198130,
       "name": "Voodoo (with J Balvin & Tainy)",
       "url": "https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
-        "name": "Rx",
-        "url": "https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "forever&more",
-      "url": "https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -575,22 +591,6 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
-        "name": "First Flight To Mars",
-        "url": "https://open.spotify.com/album/450XgNiRqk6pdeKSIY504s"
-      },
-      "artists": [
-        {
-          "name": "Ark Woods",
-          "url": "https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e"
-        }
-      ],
-      "duration_ms": 187689,
-      "name": "First Flight To Mars",
-      "url": "https://open.spotify.com/track/6UKz34hAzN9swLxG4Fz9i4"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
         "name": "Big Talk",
         "url": "https://open.spotify.com/album/2Rt12p1ywQyDf0czEb1nPK"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 197352,
       "name": "Big Talk",
       "url": "https://open.spotify.com/track/39W9pHDCfUcw3zJSYb3HNJ"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
+        "name": "First Flight To Mars",
+        "url": "https://open.spotify.com/album/450XgNiRqk6pdeKSIY504s"
+      },
+      "artists": [
+        {
+          "name": "Ark Woods",
+          "url": "https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e"
+        }
+      ],
+      "duration_ms": 187689,
+      "name": "First Flight To Mars",
+      "url": "https://open.spotify.com/track/6UKz34hAzN9swLxG4Fz9i4"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1079,6 +1095,22 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/5RWjMHB1dicwuZIi8fCdE5"
+      },
+      "artists": [
+        {
+          "name": "moa moa",
+          "url": "https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5OTZXDxcrbRqv6DzI1R2mm"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
         "name": "Skelele (feat. Olamide)",
         "url": "https://open.spotify.com/album/3wQaO7CmLDh4eY6dHNMUNI"
       },
@@ -1095,22 +1127,6 @@
       "duration_ms": 203389,
       "name": "Skelele (feat. Olamide)",
       "url": "https://open.spotify.com/track/1k6OPAYYh1DawiHZ08djuM"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/5RWjMHB1dicwuZIi8fCdE5"
-      },
-      "artists": [
-        {
-          "name": "moa moa",
-          "url": "https://open.spotify.com/artist/1VC1fSNmQ7dzRFMYlEuurc"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5OTZXDxcrbRqv6DzI1R2mm"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1189,22 +1205,6 @@
       "url": "https://open.spotify.com/track/13byK69wHdWtPt0QdgDPfw"
     },
     {
-      "added_at": "2022-09-30 13:27:27",
-      "album": {
-        "name": "Beep",
-        "url": "https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 120626,
-      "name": "Beep",
-      "url": "https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY"
-    },
-    {
       "added_at": "2022-09-22 12:56:00",
       "album": {
         "name": "What I Breathe",
@@ -1227,6 +1227,22 @@
       "duration_ms": 184403,
       "name": "Times Change",
       "url": "https://open.spotify.com/track/0aoEwfCRcCSe4HKgdSGPXp"
+    },
+    {
+      "added_at": "2022-09-30 13:27:27",
+      "album": {
+        "name": "Beep",
+        "url": "https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 120626,
+      "name": "Beep",
+      "url": "https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
-        "name": "Kis\u00e9",
-        "url": "https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1"
-      },
-      "artists": [
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
-        }
-      ],
-      "duration_ms": 130472,
-      "name": "Kis\u00e9",
-      "url": "https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
         "name": "Lifted",
         "url": "https://open.spotify.com/album/31QmA5V5UbFNiiurEKoaCY"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 167500,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/55sYZhDj9Ty9PTSLt3Ul9I"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
+        "name": "Kis\u00e9",
+        "url": "https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "duration_ms": 130472,
+      "name": "Kis\u00e9",
+      "url": "https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1627,26 +1643,6 @@
     {
       "added_at": "2022-09-22 12:56:00",
       "album": {
-        "name": "The Reapers",
-        "url": "https://open.spotify.com/album/4yQVQmxuobeUQWsJC69s9f"
-      },
-      "artists": [
-        {
-          "name": "LYAM",
-          "url": "https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve"
-        },
-        {
-          "name": "Wiki",
-          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "The Reapers",
-      "url": "https://open.spotify.com/track/6nfYpjNjaIIuzzPoY3BEXZ"
-    },
-    {
-      "added_at": "2022-09-22 12:56:00",
-      "album": {
         "name": "Hardware",
         "url": "https://open.spotify.com/album/4934ZfzaB5aofYYJHdxwaX"
       },
@@ -1671,6 +1667,26 @@
       "duration_ms": 229714,
       "name": "Hardware",
       "url": "https://open.spotify.com/track/79pWgbXGSFEFOx2TGufW1b"
+    },
+    {
+      "added_at": "2022-09-22 12:56:00",
+      "album": {
+        "name": "The Reapers",
+        "url": "https://open.spotify.com/album/4yQVQmxuobeUQWsJC69s9f"
+      },
+      "artists": [
+        {
+          "name": "LYAM",
+          "url": "https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve"
+        },
+        {
+          "name": "Wiki",
+          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "The Reapers",
+      "url": "https://open.spotify.com/track/6nfYpjNjaIIuzzPoY3BEXZ"
     },
     {
       "added_at": "2022-09-22 12:56:00",
@@ -1911,22 +1927,6 @@
       "duration_ms": 158709,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/2B4wDjhtKmbSJKwb209zEO"
-    },
-    {
-      "added_at": "2022-09-28 15:35:06",
-      "album": {
-        "name": "Give Thanks",
-        "url": "https://open.spotify.com/album/6Lmkj9HXcuAXpP2hSCVAYC"
-      },
-      "artists": [
-        {
-          "name": "Dapz on the Map",
-          "url": "https://open.spotify.com/artist/46V9DXiq81DtN4dYvMgKtu"
-        }
-      ],
-      "duration_ms": 164075,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/1Et6hUJwEgMp4ibm9Bml23"
     }
   ],
   "unique_name": "FIFA 23 Official Soundtrack",

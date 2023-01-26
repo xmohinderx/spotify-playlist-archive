@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain]
 
 > 축구 시즌이 돌아왔습니다! 시합의 열기가 가득한 노래들과 함께 붉은 악마가 되어보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,077 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,078 likes - 70 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ET7mtaGmRc.md) - [plain]
 | 69 | [Premier League Anthem](https://open.spotify.com/track/2G369PWLsQasfuNwLeDrZw) | [Premier League](https://open.spotify.com/artist/7jdi4Wj9TKBABuJTKsxQKn) | [Premier League Anthem](https://open.spotify.com/album/6gb8ZFqOodTjLpxvBtlpIe) | 3:12 |
 | 70 | [This Is Premier League](https://open.spotify.com/track/49ujze11sPOADic4ssGnrO) | [Premier League Music](https://open.spotify.com/artist/7BO1yFil6IhV5i73zeU9gO) | [This Is Premier League](https://open.spotify.com/album/2YTQepsyrqmSypnw5VKMJr) | 3:24 |
 
-Snapshot ID: `MTY2OTAxMzYyOSwwMDAwMDAwMDQ2ODBlNTlhNjAyMjExYTM5Y2Q3M2M5ZmMxYmNmMjZk`
+Snapshot ID: `MTY2OTAxMzYyOSwwMDAwMDAwMGIwZDQ1ZjEzY2YzMjk3MWRmZTNkMzdjZTgxMzI4NDE2`

@@ -4,7 +4,7 @@
 
 > Home is where the main stage is\. 💗
 
-362 songs - 19 hr 11 min
+363 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Coming Over \- VIP](https://open.spotify.com/track/1p04Tm0c2tnIdgOYIpcioh) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [Very Important Music](https://open.spotify.com/album/1hSyRaCKfMvbiTXXtlHW46) | 3:20 | 2021-06-02 | 2022-07-29 |
 | [Dance on My Own \(feat\. Richard Judge\)](https://open.spotify.com/track/0pMD1V0QbqSD7RhJmxDDJ9) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Dance on My Own \(feat\. Richard Judge\)](https://open.spotify.com/album/5tJbmHZDu4DJwZrcHBB28s) | 3:34 | 2022-09-09 |  |
 | [Dancing Alone](https://open.spotify.com/track/7A9y0ywTGS4iPM5huZAhKf) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dancing Alone](https://open.spotify.com/album/2KlV3JdXb7XIlj78Rdo53i) | 2:52 | 2022-03-18 | 2022-04-21 |
-| [Dancing in the Streets](https://open.spotify.com/track/2RyTblYodC8cnGWFxlnSM5) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Dancing in the Streets](https://open.spotify.com/album/17J0kT98HZNfm5OrKcCmBS) | 2:28 | 2022-11-11 |  |
+| [Dancing in the Streets](https://open.spotify.com/track/2RyTblYodC8cnGWFxlnSM5) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Dancing in the Streets](https://open.spotify.com/album/17J0kT98HZNfm5OrKcCmBS) | 2:28 | 2022-11-11 | 2023-01-26 |
 | [Day & Nite](https://open.spotify.com/track/5fgT3t3IYunBVjKhEzJZv6) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Day & Nite](https://open.spotify.com/album/01rqtg7JizK7VAbzo77Rft) | 2:53 | 2022-05-06 |  |
 | [Distant Memory \(with Timmy Trumpet x W&W\)](https://open.spotify.com/track/50Q24gRvLy128dfU2DDoao) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Distant Memory \(with Timmy Trumpet x W&W\)](https://open.spotify.com/album/4Hx4oAboWyR4hI1UeEHRLR) | 2:30 | 2021-06-02 | 2022-04-20 |
 | [Dive Deep](https://open.spotify.com/track/44tD1vxOZZil91wOnaAxVh) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Dive Deep](https://open.spotify.com/album/3jGFp82DHugpG24SGsQRyq) | 3:01 | 2022-04-08 | 2022-04-21 |
@@ -139,6 +139,7 @@
 | [Human Touch](https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Human Touch](https://open.spotify.com/album/2SY4apBowOVRSG3WtrALWm) | 2:25 | 2022-01-28 | 2022-07-27 |
 | [Hurts Like This](https://open.spotify.com/track/0jitsmziKMI9MpzENnB0Tc) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Fallen Embers \(Deluxe Version\)](https://open.spotify.com/album/0KgcBsDY5uFt4EaG3roI3x) | 3:58 | 2021-10-22 | 2022-07-28 |
 | [I Can't Love](https://open.spotify.com/track/2IZa3hPjcc8fFzWNsHvzoM) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Barefoot](https://open.spotify.com/artist/3WV4dHxZVMz7HtZN3N36mr) | [I Can't Love](https://open.spotify.com/album/1dIapU9QQwxxeFGnb2rdV3) | 2:27 | 2022-05-23 |  |
+| [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [I Go Dancing \(feat\. Ella Henderson\)](https://open.spotify.com/album/2TSrZnrtY7zFQ5HFcKnpG6) | 2:42 | 2023-01-20 |  |
 | [I Knew It Was You](https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [I Knew It Was You](https://open.spotify.com/album/6K8wNN8RtQQPGLIn6QTDbD) | 2:55 | 2022-11-18 |  |
 | [I Should Be Loving You \(feat\. YOU\)](https://open.spotify.com/track/7tVVAfQ4zG2r0WVL5pQjVX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [I Should Be Loving You \(feat\. YOU\)](https://open.spotify.com/album/6zRhfiOCAQ9RLWn7QpKyT2) | 3:28 | 2021-08-13 | 2022-07-28 |
 | [I Want You \- Hardwell Remix](https://open.spotify.com/track/2Q5l502BJ5lvjZFGmnRQ5B) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [I Want You \(Hardwell Remix\)](https://open.spotify.com/album/2LJGzMSAnbMlLWR7MwnFJW) | 3:16 | 2022-10-28 | 2022-12-16 |

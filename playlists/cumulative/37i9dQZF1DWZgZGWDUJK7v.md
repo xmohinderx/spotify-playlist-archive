@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: I Need a Bride\(신부가 필요해\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-105 songs - 6 hr 26 min
+106 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,5 +113,6 @@
 | [동행](https://open.spotify.com/track/26UHIMqrtQsEVvxRNJXYFa) | [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b) | [동행 \(웹툰 '제독의 괴물아내' OST X 정홍일\)](https://open.spotify.com/album/768NZNG8kbhEJxqJBIilaM) | 4:11 | 2022-05-09 |  |
 | [또 한번 찾아올까요](https://open.spotify.com/track/3k9W2HpTJNVaoMAyd9tR4e) | [Woo Yi Kyung](https://open.spotify.com/artist/2cxVq9Bv0QGLHBuk59LpZY) | [바이트미 \(Original Webtoon Soundtrack\) Pt.12](https://open.spotify.com/album/2JS3Y3BUIEyeRb4oTSHUdB) | 3:27 | 2022-11-10 |  |
 | [몫](https://open.spotify.com/track/6lArlDCsWvxFjBK4UyxZi1) | [05](https://open.spotify.com/artist/4vItQUuV7osVvOHUARHBnS) | [바이트미 \(Original Webtoon Soundtrack\) Pt.20](https://open.spotify.com/album/3skFiykxDtnPExs0m25jGi) | 4:02 | 2022-12-22 |  |
+| [바람이 불면](https://open.spotify.com/track/4zq4UL2YHc50NB4KGfwdRF) | [Jo Moon Geun](https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR) | [바이트미 \(Original Webtoon Soundtrack\) Pt.23](https://open.spotify.com/album/3NFXkReFhOYDZdwVsc5tqW) | 3:52 | 2023-01-25 |  |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

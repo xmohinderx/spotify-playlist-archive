@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 235800,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ"
@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Play Hard (feat. Ne-Yo & Akon)",
+      "url": "https://open.spotify.com/track/5YPMEOJ58kfl56VHxTgwx3"
+    },
+    {
+      "album": {
         "name": "Play Hard (feat. Ne-Yo & Akon) [New Edit]",
         "url": "https://open.spotify.com/album/2RjYiccB99aFRJ8C0QxDf7"
       },
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 208845,
       "name": "Play Hard (feat. Ne-Yo & Akon) - New Edit",
       "url": "https://open.spotify.com/track/16Cs9KsHzgunxaEfGrXysG"
@@ -1608,7 +1626,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 237173,
       "name": "Troublemaker",
       "url": "https://open.spotify.com/track/0O3vchDpKl6jbS8hvnd2fD"

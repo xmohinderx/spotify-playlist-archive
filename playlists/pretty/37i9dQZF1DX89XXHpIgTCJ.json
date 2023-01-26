@@ -1,52 +1,28 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes. Cover: JAY-Z & Linkin Park",
-  "num_followers": 163040,
+  "num_followers": 163307,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM2NTgwNiwwMDAwMDAwMDI2MWEyYjk4ZmU0ZTk5YTY2NjE4NTEyYjZkZGRjMTc3",
+  "snapshot_id": "MTY3NDY2NDAwNiwwMDAwMDAwMGJhNjc0YTVlM2JlMTU1Yjg5NTE1YWYxOGNmOGE0Njc5",
   "tracks": [
     {
       "added_at": "2023-01-10 15:50:06",
       "album": {
-        "name": "War & Peace Vol. 1 (The War Disc)",
-        "url": "https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4"
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
       },
       "artists": [
         {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 243506,
-      "name": "Fuck Dying",
-      "url": "https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn"
-    },
-    {
-      "added_at": "2023-01-10 15:50:06",
-      "album": {
-        "name": "Collision Course (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Numb / Encore",
-      "url": "https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW"
+      "duration_ms": 216733,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
     },
     {
       "added_at": "2023-01-10 15:50:06",
@@ -75,18 +51,118 @@
     {
       "added_at": "2023-01-10 15:50:06",
       "album": {
-        "name": "The Gift Of Game",
-        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+        "name": "Collision Course (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
       },
       "artists": [
         {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 216733,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
+      "duration_ms": 205280,
+      "name": "Numb / Encore",
+      "url": "https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW"
+    },
+    {
+      "added_at": "2023-01-26 01:29:00",
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Children of the Korn (feat. Ice Cube)",
+      "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
+    },
+    {
+      "added_at": "2023-01-10 15:50:06",
+      "album": {
+        "name": "Extinction Level Event: The Final World Front",
+        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 275973,
+      "name": "This Means War!! (feat. Ozzy Osbourne)",
+      "url": "https://open.spotify.com/track/2wIujxyI75Z6HQuq0NmJiR"
+    },
+    {
+      "added_at": "2023-01-10 15:50:06",
+      "album": {
+        "name": "Built From Scratch",
+        "url": "https://open.spotify.com/album/5kBmiH0tgepv6N0PROaEXv"
+      },
+      "artists": [
+        {
+          "name": "X-Ecutioners",
+          "url": "https://open.spotify.com/artist/7eVbT3G1ggf2sz6s7ZV0Ap"
+        },
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Mr. Hahn",
+          "url": "https://open.spotify.com/artist/73yonhSeG9UY7shqUfk6cd"
+        }
+      ],
+      "duration_ms": 248266,
+      "name": "It's Goin' Down (feat. Mike Shinoda & Mr. Hahn)",
+      "url": "https://open.spotify.com/track/7qFEFcjmSAtODGtLYqraCq"
+    },
+    {
+      "added_at": "2023-01-10 15:50:06",
+      "album": {
+        "name": "Give The Drummer Some (Deluxe)",
+        "url": "https://open.spotify.com/album/6t4AZ1h46ksEZiKLjh7oes"
+      },
+      "artists": [
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        },
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        },
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/0vJ3WZ0Q6AdntTxQ384JQN"
     },
     {
       "added_at": "2023-01-10 15:50:06",
@@ -311,6 +387,26 @@
     {
       "added_at": "2023-01-10 15:50:06",
       "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "N 2 Gether Now",
+      "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
+    },
+    {
+      "added_at": "2023-01-10 15:50:06",
+      "album": {
         "name": "General Admission (Deluxe)",
         "url": "https://open.spotify.com/album/1HK1WLip5xwWQYixdF3Jsk"
       },
@@ -363,26 +459,6 @@
       "duration_ms": 261173,
       "name": "Hokus Pokus",
       "url": "https://open.spotify.com/track/3ij7wTT8OOy8MhkT6AS5aS"
-    },
-    {
-      "added_at": "2023-01-10 15:50:06",
-      "album": {
-        "name": "Significant Other",
-        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "N 2 Gether Now",
-      "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb"
     },
     {
       "added_at": "2023-01-10 15:50:06",
@@ -547,38 +623,6 @@
     {
       "added_at": "2023-01-10 15:50:06",
       "album": {
-        "name": "Give The Drummer Some (Deluxe)",
-        "url": "https://open.spotify.com/album/6t4AZ1h46ksEZiKLjh7oes"
-      },
-      "artists": [
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        },
-        {
-          "name": "Yelawolf",
-          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
-        },
-        {
-          "name": "Twista",
-          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/0vJ3WZ0Q6AdntTxQ384JQN"
-    },
-    {
-      "added_at": "2023-01-10 15:50:06",
-      "album": {
         "name": "amo",
         "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
       },
@@ -671,30 +715,6 @@
     {
       "added_at": "2023-01-10 15:50:06",
       "album": {
-        "name": "Built From Scratch",
-        "url": "https://open.spotify.com/album/5kBmiH0tgepv6N0PROaEXv"
-      },
-      "artists": [
-        {
-          "name": "X-Ecutioners",
-          "url": "https://open.spotify.com/artist/7eVbT3G1ggf2sz6s7ZV0Ap"
-        },
-        {
-          "name": "Mike Shinoda",
-          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
-        },
-        {
-          "name": "Mr. Hahn",
-          "url": "https://open.spotify.com/artist/73yonhSeG9UY7shqUfk6cd"
-        }
-      ],
-      "duration_ms": 248266,
-      "name": "It's Goin' Down (feat. Mike Shinoda & Mr. Hahn)",
-      "url": "https://open.spotify.com/track/7qFEFcjmSAtODGtLYqraCq"
-    },
-    {
-      "added_at": "2023-01-10 15:50:06",
-      "album": {
         "name": "Meteora (Bonus Edition)",
         "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
       },
@@ -751,6 +771,26 @@
     {
       "added_at": "2023-01-10 15:50:06",
       "album": {
+        "name": "War & Peace Vol. 1 (The War Disc)",
+        "url": "https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "Fuck Dying",
+      "url": "https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn"
+    },
+    {
+      "added_at": "2023-01-10 15:50:06",
+      "album": {
         "name": "Pegasus: Neon Shark vs Pegasus Presented By Travis Barker (Deluxe)",
         "url": "https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl"
       },
@@ -771,6 +811,22 @@
       "duration_ms": 179201,
       "name": "GERONIMO (feat. Chino Moreno)",
       "url": "https://open.spotify.com/track/3VAwH0vRDwvKl8jRVnQU0w"
+    },
+    {
+      "added_at": "2023-01-26 01:29:00",
+      "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 250213,
+      "name": "Unfuck The World",
+      "url": "https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp"
     },
     {
       "added_at": "2023-01-10 15:50:06",
@@ -915,26 +971,6 @@
     {
       "added_at": "2023-01-10 15:50:06",
       "album": {
-        "name": "Extinction Level Event: The Final World Front",
-        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 275973,
-      "name": "This Means War!! (feat. Ozzy Osbourne)",
-      "url": "https://open.spotify.com/track/2wIujxyI75Z6HQuq0NmJiR"
-    },
-    {
-      "added_at": "2023-01-10 15:50:06",
-      "album": {
         "name": "Crooked Teeth (Deluxe)",
         "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
       },
@@ -947,38 +983,6 @@
       "duration_ms": 227749,
       "name": "Sunrise Trailer Park (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/19glo6zeI6mUdELLmCIYq8"
-    },
-    {
-      "added_at": "2023-01-10 15:50:06",
-      "album": {
-        "name": "King Of Rock (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "King of Rock",
-      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
-    },
-    {
-      "added_at": "2023-01-10 15:50:06",
-      "album": {
-        "name": "Skull & Bones",
-        "url": "https://open.spotify.com/album/31XG9UWJIXSXSsPUEsh3D2"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Can't Get the Best of Me",
-      "url": "https://open.spotify.com/track/4cmfwCjNRd7kOGlyM36pMw"
     }
   ],
   "unique_name": "Rap 'n' Roll",

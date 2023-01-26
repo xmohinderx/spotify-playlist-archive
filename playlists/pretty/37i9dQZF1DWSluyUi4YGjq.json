@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. julie on cover!",
-  "num_followers": 24699,
+  "num_followers": 24753,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYzNzE3NywwMDAwMDAwMGMxYWVkMWRhYjQzZTM5MGNmM2MxYjI1OGU2YTRiYjNi",
+  "snapshot_id": "MTY3MzYzNzE3NywwMDAwMDAwMDAwMThjYTYxNTY5Njc3Y2JmMmQyODAxMWM4MDlmN2I5",
   "tracks": [
     {
       "added_at": "2023-01-12 03:03:40",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/6td6C7NuSCqYgrP3XrBC8a"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W"
-      },
-      "artists": [
-        {
-          "name": "Wild Nothing",
-          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
-        }
-      ],
-      "duration_ms": 198842,
-      "name": "Chinatown",
-      "url": "https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz"
-    },
-    {
       "added_at": "2022-12-15 18:01:43",
       "album": {
         "name": "Odes to the Void",
@@ -443,6 +427,22 @@
       "duration_ms": 208450,
       "name": "For the Kill",
       "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W"
+      },
+      "artists": [
+        {
+          "name": "Wild Nothing",
+          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
+        }
+      ],
+      "duration_ms": 198842,
+      "name": "Chinatown",
+      "url": "https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 235565,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
-    },
-    {
       "added_at": "2022-12-15 18:01:43",
       "album": {
         "name": "Urban Twilight (Remaster)",
@@ -747,6 +731,22 @@
       "duration_ms": 230197,
       "name": "Strawberry Cream",
       "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 235565,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -781,20 +781,20 @@
       "url": "https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy"
     },
     {
-      "added_at": "2022-08-03 04:20:04",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Pastel",
-        "url": "https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy"
+        "name": "Colour Trip",
+        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
       },
       "artists": [
         {
-          "name": "Muted Color",
-          "url": "https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD"
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
         }
       ],
-      "duration_ms": 241548,
-      "name": "Daisy Chain",
-      "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
+      "duration_ms": 125333,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
       "added_at": "2023-01-04 01:56:44",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/3MkPh2Smg59XnROkCrIpqu"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-08-03 04:20:04",
       "album": {
-        "name": "Happy Songs for Happy Zombies",
-        "url": "https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX"
+        "name": "Pastel",
+        "url": "https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy"
       },
       "artists": [
         {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+          "name": "Muted Color",
+          "url": "https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD"
         }
       ],
-      "duration_ms": 204202,
-      "name": "Blaster",
-      "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
+      "duration_ms": 241548,
+      "name": "Daisy Chain",
+      "url": "https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -847,18 +847,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Colour Trip",
-        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
+        "name": "Happy Songs for Happy Zombies",
+        "url": "https://open.spotify.com/album/3K08yniIAPIIxhJOWyoBUX"
       },
       "artists": [
         {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
         }
       ],
-      "duration_ms": 125333,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
+      "duration_ms": 204202,
+      "name": "Blaster",
+      "url": "https://open.spotify.com/track/11DryxGvweDB9WRJhdjQe2"
     },
     {
       "added_at": "2022-12-12 18:23:41",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/6OvX3WPe2CeyLRVsy3yFxz"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
-        "name": "Too Wild",
-        "url": "https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ"
-      },
-      "artists": [
-        {
-          "name": "Seasurfer",
-          "url": "https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "Too Wild",
-      "url": "https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4"
-    },
-    {
       "added_at": "2022-09-21 00:37:05",
       "album": {
         "name": "You Will Never Know Why",
@@ -923,6 +907,22 @@
       "duration_ms": 281746,
       "name": "Air Supply",
       "url": "https://open.spotify.com/track/3I7Uqll4wyJmfBSDQWiLWh"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "Too Wild",
+        "url": "https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ"
+      },
+      "artists": [
+        {
+          "name": "Seasurfer",
+          "url": "https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "Too Wild",
+      "url": "https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -959,18 +959,18 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
+        "name": "23",
+        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
       },
       "artists": [
         {
-          "name": "Pinkshinyultrablast",
-          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
         }
       ],
-      "duration_ms": 950210,
-      "name": "Songs",
-      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
+      "duration_ms": 318800,
+      "name": "23",
+      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -987,22 +987,6 @@
       "duration_ms": 202528,
       "name": "Stick",
       "url": "https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "23",
-      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -1023,6 +1007,22 @@
       "duration_ms": 236000,
       "name": "OUTLAW69",
       "url": "https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
+      },
+      "artists": [
+        {
+          "name": "Pinkshinyultrablast",
+          "url": "https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4"
+        }
+      ],
+      "duration_ms": 950210,
+      "name": "Songs",
+      "url": "https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "TRPP",
-        "url": "https://open.spotify.com/album/4MCb03enJHRY5ovHpoHWQT"
-      },
-      "artists": [
-        {
-          "name": "TRPP",
-          "url": "https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D"
-        }
-      ],
-      "duration_ms": 150309,
-      "name": "Yeah",
-      "url": "https://open.spotify.com/track/2mi591KXRdGMQywpDesRlb"
-    },
-    {
-      "added_at": "2022-12-15 18:01:43",
-      "album": {
         "name": "Devour",
         "url": "https://open.spotify.com/album/6xhZzuX1veVEVGCTxsLMaM"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 209000,
       "name": "Last Night's Haze",
       "url": "https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV"
+    },
+    {
+      "added_at": "2022-12-15 18:01:43",
+      "album": {
+        "name": "TRPP",
+        "url": "https://open.spotify.com/album/4MCb03enJHRY5ovHpoHWQT"
+      },
+      "artists": [
+        {
+          "name": "TRPP",
+          "url": "https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D"
+        }
+      ],
+      "duration_ms": 150309,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/2mi591KXRdGMQywpDesRlb"
     },
     {
       "added_at": "2021-10-19 01:47:29",

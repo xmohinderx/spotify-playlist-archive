@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 397344,
+  "num_followers": 397669,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDY1MDFkNDEzOThmNWZjYmQzZDFiOTUwODUzMTNjYjli",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDk5NTJjNjU2N2I1OTA0ODU0NGQ5ZWQ4YzJmNTk0NWM0",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -367,26 +367,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "All We Know",
-        "url": "https://open.spotify.com/album/0xmaV6EtJ4M3ebZUPRnhyb"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Phoebe Ryan",
-          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "All We Know",
-      "url": "https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "AV\u012aCI (01)",
         "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 181812,
       "name": "Lonely Together (feat. Rita Ora)",
       "url": "https://open.spotify.com/track/75NhhYjHO43mvZgYtnXgti"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "All We Know",
+        "url": "https://open.spotify.com/album/0xmaV6EtJ4M3ebZUPRnhyb"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "All We Know",
+      "url": "https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Oh Child",
-        "url": "https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 195261,
-      "name": "Oh Child",
-      "url": "https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Back To You (Joey Pecoraro Remix)",
         "url": "https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 226644,
       "name": "Back To You - Joey Pecoraro Remix",
       "url": "https://open.spotify.com/track/216afVgCJWieLyqPDwziwq"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Oh Child",
+        "url": "https://open.spotify.com/album/0FyKwRPv0vtwLP2rApCyoU"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 195261,
+      "name": "Oh Child",
+      "url": "https://open.spotify.com/track/2xw9PXlt8IaCWZjfpJ2HPL"
     },
     {
       "added_at": "2022-01-18 14:54:04",

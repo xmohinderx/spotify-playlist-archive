@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. Cover: Gloss Up
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,346 likes - 129 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,461 likes - 129 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 128 | [Old Ways](https://open.spotify.com/track/6NJsBm5qO23E3st5BRIsSN) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Old Ways](https://open.spotify.com/album/5Y5cktYjGfw04PnH9LIMFh) | 3:10 |
 | 129 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 |
 
-Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDM4M2JkMzMzYThlNjZhNmRkOTI5MDUxNjhmMDA2MDAz`
+Snapshot ID: `MTY3NDYyOTQ3NCwwMDAwMDAwMGI4OGVjYjlmOWJmZDAzNzgzOThkZWNjYmYxZmI5MzU2`

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,960 songs - 4 day 16 hr 51 min
+1,963 songs - 4 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Astronaut In The Ocean](https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA) | 2:12 | 2021-07-11 |  |
 | [Attitude](https://open.spotify.com/track/5Q1ehXqFNBfWbGDXIGw6Pv) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon) | [Attitude](https://open.spotify.com/album/6b2aFLcRgVfz0vImU7sASa) | 2:01 | 2021-10-12 | 2021-10-28 |
 | [August 12th](https://open.spotify.com/track/45EmPoTxkIXNve1jm7oRTE) | [Night Teacher](https://open.spotify.com/artist/5XboTqSD1RnWR5vkwsHxDt) | [Night Teacher](https://open.spotify.com/album/4EKTpwT5LQlRz4UQ7ULk8v) | 4:44 | 2020-10-08 | 2020-11-03 |
+| [Automatic](https://open.spotify.com/track/3gNQI9R500NNl22I0u91Hb) | [Solobody](https://open.spotify.com/artist/0MQfamWSdzunSS7mKlAgdi) | [Automatic](https://open.spotify.com/album/13iooceqMVCp1VogO2p54W) | 3:47 | 2023-01-26 |  |
 | [Average](https://open.spotify.com/track/0yPDF8se2PZBxNwKHGbMsM) | [Jesse Maxwell](https://open.spotify.com/artist/1DWZyavMIKzxC3zDSG5prd) | [Average](https://open.spotify.com/album/5JlzTmxozjcdWymxen6HFY) | 3:46 | 2020-04-30 | 2020-05-24 |
 | [Average](https://open.spotify.com/track/5oGv0ZLflQyVEWWnZZ8rxf) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb) | [Average](https://open.spotify.com/album/6W8ppczgwXKHeLuJK6xAvg) | 2:10 | 2022-10-07 | 2022-10-29 |
 | [Awake at Night](https://open.spotify.com/track/2ER60vkC8mHQUsGbClc1if) | [Andrea Ward](https://open.spotify.com/artist/6sjgxFt0GBLijQ1OIqP0eh) | [Awake at Night](https://open.spotify.com/album/7fILg3GvodYhc4g4ikR9px) | 2:45 | 2022-12-09 | 2022-12-31 |
@@ -1749,6 +1750,7 @@
 | [Too Good](https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:23 | 2019-09-29\* |  |
 | [Too Good To Be True](https://open.spotify.com/track/6Du8n39SzV59stLwyGLElQ) | [Sunny Cowell](https://open.spotify.com/artist/5Vx8yHZLeIngcgEJH65uGF) | [Anthology of Love](https://open.spotify.com/album/2d43GSz7krsgM31LekX0UB) | 4:12 | 2022-12-12 | 2023-01-03 |
 | [Too Many Times](https://open.spotify.com/track/5YRXVvbzzSGcoPqd7HXE5m) | [Silk Cinema](https://open.spotify.com/artist/6KXhDXDyiG1LSwbLIgX18B) | [Too Many Times](https://open.spotify.com/album/5UYFaHdLwCNhaWxuj22XR5) | 3:30 | 2021-09-11 | 2021-09-27 |
+| [too much](https://open.spotify.com/track/42kLJ2njWE483ncUp6oUzC) | [Scribbles Who](https://open.spotify.com/artist/2MRE0EnE3kUdMOsOGeBSG3) | [too much](https://open.spotify.com/album/3YrhRG44SYnC2MWszqIkeG) | 3:22 | 2023-01-25 |  |
 | [Too Much To Ask For](https://open.spotify.com/track/75mX9iRKSnF9KvdbDpOCYt) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Too Much To Ask For](https://open.spotify.com/album/0V6U8x4DqOlTF9BLgB7Ip8) | 3:25 | 2021-10-30 | 2021-11-14 |
 | [Too Much to Taste](https://open.spotify.com/track/35xTeDQMiFuq6zfWRm9Qp3) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Too Much to Taste](https://open.spotify.com/album/1C1mKA6PiKxqte6gRm7N22) | 2:58 | 2021-10-29 | 2021-11-14 |
 | [Took It Further \(Feelin' Fine\)](https://open.spotify.com/track/1DejjVvJYskVC8htZjdLvT) | [AnnaLina](https://open.spotify.com/artist/2Bs0I1X5LHdBELu52M7EcM) | [Took It Further \(Feelin' Fine\)](https://open.spotify.com/album/4rxPJa5BDm2GV1usR9c9N2) | 2:57 | 2021-11-13 | 2021-12-05 |
@@ -1872,6 +1874,7 @@
 | [What Is Love](https://open.spotify.com/track/5jKjUSRlHerD1UfdWyvKfS) | [Alvin Whitte](https://open.spotify.com/artist/1FC1eTUauFiZrcIawwc6rD) | [What Is Love](https://open.spotify.com/album/3FCDH2leLj9Kdau57aZsSP) | 2:43 | 2020-02-21 | 2020-03-11 |
 | [What Is Love](https://open.spotify.com/track/7HErxkHvSktrG09jtsbG6c) | [Orion and the Melted Crayons](https://open.spotify.com/artist/2z1E9QDGOeaEg6XaUS4eSc) | [The Good Stuff](https://open.spotify.com/album/0vnEfoQOupRZdfj5wdej5U) | 3:38 | 2021-09-18 | 2021-10-03 |
 | [What You Need](https://open.spotify.com/track/5hZMRif9diTeQ1jKr8Gus9) | [Vita Schmidt](https://open.spotify.com/artist/7bkrFxOcOZFC5fw0VpbGEz) | [What You Need](https://open.spotify.com/album/0cq1F6Rr5z016UzQ6ZOwUX) | 3:49 | 2019-12-01 | 2019-12-11 |
+| [Whatever Is Fine](https://open.spotify.com/track/4uPz7YeEI66LsIdlRueC7e) | [Zack Gogginz](https://open.spotify.com/artist/0l7YhbuMJ1EDXR3qmdDTDR) | [Whatever Is Fine](https://open.spotify.com/album/5Ab9fsEQcYRumhYJniC6aq) | 5:43 | 2023-01-25 |  |
 | [Whatever U Tell Me](https://open.spotify.com/track/62q39hLMLokPdXrxwV6Yq6) | [ANGE](https://open.spotify.com/artist/1VSyH0QvgTpqKMhkcmgkyR) | [Whatever U Tell Me](https://open.spotify.com/album/2bGOdIovp3ito7Qw7kkciS) | 3:05 | 2021-10-13 | 2021-10-28 |
 | [When I B On Tha Mic](https://open.spotify.com/track/2p9sprAX27D6U5cuSE9NsM) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [The Master](https://open.spotify.com/album/3mvWfqa4cceoGyA7qECPWH) | 3:42 | 2022-07-26 |  |
 | [When I Came Up \- Radio Edit](https://open.spotify.com/track/20ne3AZUsCWfCxd8SZ5sUo) | [Bon Villan](https://open.spotify.com/artist/5eN1ORrBXWF85nd1Opqq1v) | [When I Came Up \(Remixes\)](https://open.spotify.com/album/0RsClhklIxuG9J0Q4YxxKC) | 2:57 | 2021-01-01 | 2021-01-16 |

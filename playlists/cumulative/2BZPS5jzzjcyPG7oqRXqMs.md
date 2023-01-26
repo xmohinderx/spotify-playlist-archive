@@ -4,11 +4,12 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-171 songs - 10 hr 55 min
+173 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\[close to me\]](https://open.spotify.com/track/74ZyA0thjNZ5CMHaT2qLyI) | [All Creatures](https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon) | [\[close to me\]](https://open.spotify.com/album/4zJOypBETBxz0mt8jOXh1d) | 2:48 | 2022-02-17 | 2022-07-02 |
+| [\[welcome to the garden\]](https://open.spotify.com/track/59DiEYQhcAV7XNp9H8ldHK) | [All Creatures](https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon) | [\[welcome to the garden\]](https://open.spotify.com/album/2vsnx7y7uJ9iXr40qkgQlu) | 3:21 | 2023-01-25 |  |
 | [\[wonder working\]](https://open.spotify.com/track/6KdS6nIKd0YKjukYsnj6IX) | [All Creatures](https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon) | [\[wonder working\]](https://open.spotify.com/album/1CslCV4Trf529mhODsZVRx) | 3:01 | 2022-02-17 | 2022-08-27 |
 | [A BEAUTIFUL LIFE](https://open.spotify.com/track/0YRY2NKNTbq6T1KJ9ngbsu) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [A BEAUTIFUL LIFE](https://open.spotify.com/album/5bY2uh7ACqw1UZYfv0ED9f) | 3:51 | 2022-02-17 | 2022-08-27 |
 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs \(Live\)](https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV) | 5:09 | 2022-02-17 |  |
@@ -52,6 +53,7 @@
 | [For All My Life](https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [For All My Life](https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm) | 3:30 | 2022-03-18 |  |
 | [For The Good](https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [For The Good](https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy) | 3:26 | 2022-02-17 |  |
 | [For The Ones We Love](https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [For The Ones We Love](https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq) | 3:29 | 2022-02-17 | 2022-08-27 |
+| [Friend](https://open.spotify.com/track/44pWTHY3XHh9APCOWQvqpA) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Friend](https://open.spotify.com/album/7acWtsBfuPSWwVizEcVa4D) | 3:48 | 2023-01-25 |  |
 | [Getting Started \- Radio Version](https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Getting Started \(Radio Version\)](https://open.spotify.com/album/3oJ9UZKOQBx1DaAOnCMi9a) | 3:39 | 2022-02-25 |  |
 | [God Is On The Throne](https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [God Is On The Throne](https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ) | 4:44 | 2022-08-26 |  |
 | [God So Loved](https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:25 | 2022-07-01 |  |
@@ -96,7 +98,7 @@
 | [Let The Light In](https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv), [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Let The Light In](https://open.spotify.com/album/5GkRYLm7ju9tfrnYxfqJqL) | 3:24 | 2022-02-17 |  |
 | [Live Up To Your Name](https://open.spotify.com/track/0wTrxg0xcGj7vuxjdmkBBb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Live Up To Your Name](https://open.spotify.com/album/0tkp1dWnazRvLaUMzKFnzk) | 4:24 | 2022-10-14 |  |
 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 | 2022-07-01 |  |
-| [Love Has Come](https://open.spotify.com/track/2st2J3B3PqCPnOrOpIm3BJ) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Love Has Come](https://open.spotify.com/album/4lZ1sKFGdyp3Uu5Ux3uSyC) | 4:34 | 2022-10-31 |  |
+| [Love Has Come](https://open.spotify.com/track/2st2J3B3PqCPnOrOpIm3BJ) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Love Has Come](https://open.spotify.com/album/4lZ1sKFGdyp3Uu5Ux3uSyC) | 4:34 | 2022-10-31 | 2023-01-26 |
 | [Love Is The Reason \- Live](https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Live\)](https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo) | 3:31 | 2022-04-08 |  |
 | [Love Won’t Let Go](https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Love Won’t Let Go](https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ) | 3:18 | 2022-03-18 | 2022-07-02 |
 | [Make The Most Of It](https://open.spotify.com/track/1w9CbJwkgRjhPibilArQAR) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Louder Than The Lies](https://open.spotify.com/album/1O4FlHsnYbsNM9Ct7VZfoH) | 3:11 | 2022-02-17 | 2022-08-27 |

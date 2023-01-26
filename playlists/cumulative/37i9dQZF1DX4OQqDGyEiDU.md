@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-459 songs - 1 day 2 hr 31 min
+461 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,8 @@
 | [キルマー](https://open.spotify.com/track/3HDWYQRlxjNejMg29EOU4x) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [NOMAN](https://open.spotify.com/album/0TvuU4JKAZeEFOGPBCOfOt) | 3:32 | 2022-06-09 | 2022-07-19 |
 | [クィホーティ](https://open.spotify.com/track/3oSxtNK9h1xrhieS9BhGFZ) | [エイハブ](https://open.spotify.com/artist/5m0HwAswhoLei0qFLRk2jf) | [クィホーティ](https://open.spotify.com/album/5DZplmgnotBPdgUuAgoXgU) | 3:10 | 2022-07-14 | 2022-07-16 |
 | [クラブ=マジェスティ](https://open.spotify.com/track/5rFEzVOvPz04EuTIapzx0G) | [nyanyannya](https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv) | [カドワナルカ=シアノタイプ](https://open.spotify.com/album/2FGdJBAjE4hS41DUAiEWeL) | 3:37 | 2022-07-05 | 2022-07-24 |
-| [グリーディン](https://open.spotify.com/track/6AW3u5Mspcvh2yHl0LSEed) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2) | [スクラップファーム](https://open.spotify.com/album/0bZArgPTashV6pnRll442P) | 2:29 | 2023-01-24 |  |
+| [グリーディン](https://open.spotify.com/track/1dPlgtyVMbbG1NnAjSTXKx) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2) | [スクラップファーム](https://open.spotify.com/album/2N5TLJify21UcTKqtUk4Nv) | 2:29 | 2023-01-24 |  |
+| [グリーディン](https://open.spotify.com/track/6AW3u5Mspcvh2yHl0LSEed) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2) | [スクラップファーム](https://open.spotify.com/album/0bZArgPTashV6pnRll442P) | 2:29 | 2023-01-24 | 2023-01-26 |
 | [ゴチャゴチャうるせー!](https://open.spotify.com/track/3ZOjNTwS1sOLyA4qkocF3c) | [Owata\-P](https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP) | [ボーナス\\\(^o^\)/](https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb) | 2:40 | 2022-10-04 | 2022-10-11 |
 | [サマーコア](https://open.spotify.com/track/2jAdO8K08Nb6Qhq5kkrFrt) | [末代雨季。](https://open.spotify.com/artist/23U8gdeRElcdtnq89zVn8x) | [サマーコア](https://open.spotify.com/album/0V9sUDaLGhwG2sVI1iNNtF) | 3:26 | 2022-06-09 | 2022-06-30 |
 | [サラマンダー](https://open.spotify.com/track/64LMCa7fkdfHYLtCm0kGTR) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [サラマンダー](https://open.spotify.com/album/11pU0vz7peTM1JdMZvSg9t) | 2:35 | 2022-06-09 |  |
@@ -376,7 +377,8 @@
 | [嘘も本当も君だから \(feat\. 初音ミク\)](https://open.spotify.com/track/4J0ho54JZfwv2VUZREbGAm) | [真島ゆろ](https://open.spotify.com/artist/460r2Oaa2Sp7EKP0nds0Ow) | [嘘も本当も君だから](https://open.spotify.com/album/4JHIUCsbEzf8S7SpTzwHCj) | 4:27 | 2022-07-14 | 2022-07-16 |
 | [回る空うさぎ](https://open.spotify.com/track/2qEjAi2IIV6BNX7OY3Z2Ma) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [SEASIDE SOLILOQUIES](https://open.spotify.com/album/03GyEUfClHLpRVffentlxz) | 2:55 | 2022-06-14 | 2022-07-29 |
 | [在来ヒーローズ](https://open.spotify.com/track/0h7KEmlFDw4XlcuvLR88s1) | [150P](https://open.spotify.com/artist/6WsrubCQsVoPhsvqZZDwly) | [終焉\-Re:write\-](https://open.spotify.com/album/5mYCQtrl45L8JKshI0Xi9s) | 3:40 | 2022-06-28 | 2022-07-01 |
-| [地獄に生きる](https://open.spotify.com/track/2RdHPxmWHxLU6BndkCPu9Y) | [雨曇](https://open.spotify.com/artist/040kifXngKOCmBJC2ZRffX) | [地獄に生きる](https://open.spotify.com/album/7tZV35BzKteBtpmErTww4A) | 2:42 | 2023-01-24 |  |
+| [地獄に生きる](https://open.spotify.com/track/2RdHPxmWHxLU6BndkCPu9Y) | [雨曇](https://open.spotify.com/artist/040kifXngKOCmBJC2ZRffX) | [地獄に生きる](https://open.spotify.com/album/7tZV35BzKteBtpmErTww4A) | 2:42 | 2023-01-24 | 2023-01-26 |
+| [地獄に生きる](https://open.spotify.com/track/4kipwdVjOfpVQUimvTC8Me) | [雨曇](https://open.spotify.com/artist/040kifXngKOCmBJC2ZRffX) | [地獄に生きる](https://open.spotify.com/album/0YfYZpRj6WodB6ZJnoqOwC) | 2:42 | 2023-01-24 |  |
 | [地球最後の告白を feat.GUMI](https://open.spotify.com/track/1h8wPYHIuhrO1q52ph7VXb) | [Kemu](https://open.spotify.com/artist/1XdtlhxEDsae1fePHTX4bn), [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [EXIT TUNES PRESENTS GUMing from Megpoid](https://open.spotify.com/album/4kacW0BcM6U5PWC4OhJx0u) | 4:25 | 2022-06-09 | 2022-07-23 |
 | [夏をなぞって \(feat\. 初音ミク\)](https://open.spotify.com/track/0WTwl1CjtgWXe9BixCOEvi) | [シロクマ消しゴム](https://open.spotify.com/artist/7CWRzDWFh2yZajpEwvJxPk) | [夏をなぞって](https://open.spotify.com/album/3FSDVlqgftzzBeozesfVft) | 2:49 | 2022-07-10 | 2022-07-13 |
 | [夜になったら耿十八は](https://open.spotify.com/track/2MSy9UNx9xNfOLbTHae4tb) | [Peg](https://open.spotify.com/artist/2nXscFBFNh9ryugWGdW5po) | [Immortal Club](https://open.spotify.com/album/3b4ylZFSqdxu4vUtbgYPav) | 3:37 | 2022-06-09 | 2022-07-21 |

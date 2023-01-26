@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 282770,
+  "num_followers": 282952,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYxMzEzNywwMDAwMDAwMDFmMGM2NWM5M2FhMGE3NGI2N2ViMDQzNTI5OTJlNjAy",
+  "snapshot_id": "MTY3MzYxMzEzNywwMDAwMDAwMDA3OGJjOWUwMTY2ODYwNTJmODdjYjk3NWFlMWE5NjBh",
   "tracks": [
     {
       "added_at": "2023-01-13 12:32:17",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Sunrays",
-        "url": "https://open.spotify.com/album/2KZMHq7JT5R7h4rGN3NvKr"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        }
-      ],
-      "duration_ms": 231120,
-      "name": "Sunrays",
-      "url": "https://open.spotify.com/track/2V2SVDQIt2QgUENzNdVCjI"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
         "name": "MORE D4TA",
         "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 219014,
       "name": "FAST LAND",
       "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "Sunrays",
+        "url": "https://open.spotify.com/album/2KZMHq7JT5R7h4rGN3NvKr"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "duration_ms": 231120,
+      "name": "Sunrays",
+      "url": "https://open.spotify.com/track/2V2SVDQIt2QgUENzNdVCjI"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -391,6 +391,26 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Clara Ward",
+          "url": "https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Clara (the night is dark)",
+      "url": "https://open.spotify.com/track/1halfbhGjFShZwxmnbWE8u"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc"
       },
@@ -403,22 +423,6 @@
       "duration_ms": 350929,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "Forrest Glade",
-        "url": "https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 437188,
-      "name": "Forrest Glade",
-      "url": "https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -439,22 +443,18 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Actual Life 3 (January 1 - September 9 2022)",
-        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
+        "name": "Forrest Glade",
+        "url": "https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Clara Ward",
-          "url": "https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28"
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
         }
       ],
-      "duration_ms": 278400,
-      "name": "Clara (the night is dark)",
-      "url": "https://open.spotify.com/track/1halfbhGjFShZwxmnbWE8u"
+      "duration_ms": 437188,
+      "name": "Forrest Glade",
+      "url": "https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/5P78sT6zk4x44BiOHDuhzW"
+      },
+      "artists": [
+        {
+          "name": "NORRA",
+          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
+        }
+      ],
+      "duration_ms": 191420,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/32cwP8NCIBrDj0mTcqZfYv"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
         "name": "In The Morning",
         "url": "https://open.spotify.com/album/44fze3GhrIHkkvxZ27vnv3"
       },
@@ -811,38 +827,6 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "King Curtis",
-        "url": "https://open.spotify.com/album/57KTDdy43HcX5K1YPLDO9J"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 226848,
-      "name": "King Curtis - Edit",
-      "url": "https://open.spotify.com/track/0SQMLCWkO6gmZPJkTH5n8o"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/5P78sT6zk4x44BiOHDuhzW"
-      },
-      "artists": [
-        {
-          "name": "NORRA",
-          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
-        }
-      ],
-      "duration_ms": 191420,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/32cwP8NCIBrDj0mTcqZfYv"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
         "name": "Cloudline (Parra for Cuva Reimagination)",
         "url": "https://open.spotify.com/album/5oUwhn4vBBNlaAqLNidLXi"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 296981,
       "name": "Cloudline (Parra for Cuva Reimagination)",
       "url": "https://open.spotify.com/track/4zfkAmevNeLU7OmOjHVD4k"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "King Curtis",
+        "url": "https://open.spotify.com/album/57KTDdy43HcX5K1YPLDO9J"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 226848,
+      "name": "King Curtis - Edit",
+      "url": "https://open.spotify.com/track/0SQMLCWkO6gmZPJkTH5n8o"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "The Center Will Not Hold",
-        "url": "https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 230239,
-      "name": "The Center Will Not Hold",
-      "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
         "name": "Bosquemar",
         "url": "https://open.spotify.com/album/6sjXeme4j3kjsQqhniTSp5"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 393428,
       "name": "Bosque",
       "url": "https://open.spotify.com/track/0ZNZu14IJ7gFmWeKo4B7pv"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "The Center Will Not Hold",
+        "url": "https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 230239,
+      "name": "The Center Will Not Hold",
+      "url": "https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 293701,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
         "name": "Madman",
         "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 448000,
       "name": "Madman",
       "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 293701,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
     },
     {
       "added_at": "2023-01-13 12:32:17",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-01-13 12:32:17",
       "album": {
+        "name": "Underyourskin 100",
+        "url": "https://open.spotify.com/album/1mC0vIpZHi9VCPsYB1ciFj"
+      },
+      "artists": [
+        {
+          "name": "Jai Cuzco",
+          "url": "https://open.spotify.com/artist/2qjkEXePHEV3eMJkFil4be"
+        }
+      ],
+      "duration_ms": 307841,
+      "name": "Living Machines",
+      "url": "https://open.spotify.com/track/1cfutc0JBTMA9VW4tYBVq1"
+    },
+    {
+      "added_at": "2023-01-13 12:32:17",
+      "album": {
         "name": "Don't Go Asking",
         "url": "https://open.spotify.com/album/61IwZ9b7ob482lwl6SXuHt"
       },
@@ -1255,30 +1271,6 @@
       "duration_ms": 197796,
       "name": "Don't Go Asking - Radio Edit",
       "url": "https://open.spotify.com/track/1wS7aQmC0S26hONOBL99Qb"
-    },
-    {
-      "added_at": "2023-01-13 12:32:17",
-      "album": {
-        "name": "Need To Feel Loved (Nils Hoffmann Remix)",
-        "url": "https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH"
-      },
-      "artists": [
-        {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
-        },
-        {
-          "name": "LVNDSCAPE",
-          "url": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
-        },
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 224467,
-      "name": "Need To Feel Loved - Nils Hoffmann Remix",
-      "url": "https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ"
     }
   ],
   "unique_name": "Afterhours",

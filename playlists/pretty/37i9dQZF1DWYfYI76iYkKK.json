@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 115678,
+  "num_followers": 115714,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE0NDAwMCwwMDAwMDAwMDVlZjRiNzcyYTAzNDRkN2YzNzdkMTQxZjc5ZjA1NjBl",
+  "snapshot_id": "MTY3NDE0NDAwMCwwMDAwMDAwMDM2NWE1MDQ2NzI2MGIwZDMzZjkwODk1MjBlZGNhNWJl",
   "tracks": [
     {
       "added_at": "2023-01-19 16:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-19 16:00:00",
       "album": {
-        "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe"
-      },
-      "artists": [
-        {
-          "name": "HAOR",
-          "url": "https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx"
-        }
-      ],
-      "duration_ms": 247124,
-      "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8"
-    },
-    {
-      "added_at": "2023-01-19 16:00:00",
-      "album": {
         "name": "\u76f8\u53cd\u7684\u662f",
         "url": "https://open.spotify.com/album/69yaUTVnjoxtsP7vTXqKxw"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 247324,
       "name": "\u597d\u5f37",
       "url": "https://open.spotify.com/track/4JFZsWTrCwk45XbRioOYiC"
+    },
+    {
+      "added_at": "2023-01-19 16:00:00",
+      "album": {
+        "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe"
+      },
+      "artists": [
+        {
+          "name": "HAOR",
+          "url": "https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx"
+        }
+      ],
+      "duration_ms": 247124,
+      "name": "\u5225\u96e2\u958b\u597d\u55ce (\u300a\u7b2c9\u7bc0\u8ab2\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8"
     },
     {
       "added_at": "2023-01-19 16:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-01-19 16:00:00",
       "album": {
-        "name": "\u771f\u7f8e",
-        "url": "https://open.spotify.com/album/57LuWhd9WPHVinoiib12XU"
-      },
-      "artists": [
-        {
-          "name": "Serrini",
-          "url": "https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "8:13 am",
-      "url": "https://open.spotify.com/track/6AIVNYGmj0RTNo1W2zyXyI"
-    },
-    {
-      "added_at": "2023-01-19 16:00:00",
-      "album": {
         "name": "!!!!",
         "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
+    },
+    {
+      "added_at": "2023-01-19 16:00:00",
+      "album": {
+        "name": "\u771f\u7f8e",
+        "url": "https://open.spotify.com/album/57LuWhd9WPHVinoiib12XU"
+      },
+      "artists": [
+        {
+          "name": "Serrini",
+          "url": "https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "8:13 am",
+      "url": "https://open.spotify.com/track/6AIVNYGmj0RTNo1W2zyXyI"
     },
     {
       "added_at": "2023-01-19 16:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-01-19 16:00:00",
       "album": {
-        "name": "T.I.A.",
-        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
-      },
-      "artists": [
-        {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
-        }
-      ],
-      "duration_ms": 234828,
-      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
-      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
-    },
-    {
-      "added_at": "2023-01-19 16:00:00",
-      "album": {
         "name": "\u88dd\u5e40",
         "url": "https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 245000,
       "name": "\u88dd\u5e40",
       "url": "https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa"
+    },
+    {
+      "added_at": "2023-01-19 16:00:00",
+      "album": {
+        "name": "T.I.A.",
+        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
+      },
+      "artists": [
+        {
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+        }
+      ],
+      "duration_ms": 234828,
+      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
+      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
     },
     {
       "added_at": "2023-01-19 16:00:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-01-19 16:00:00",
       "album": {
-        "name": "\u6700\u7f8e\u7684\u554f\u5019-\u5c0fV\u4e4b\u6b4c",
-        "url": "https://open.spotify.com/album/20YZFuK2CKA2HcSw3nZYDu"
-      },
-      "artists": [
-        {
-          "name": "\u54c1\u51a0 feat. Jayden",
-          "url": "https://open.spotify.com/artist/5OT2MWZROTF7BxFIAUeDyt"
-        },
-        {
-          "name": "Jayden Wong",
-          "url": "https://open.spotify.com/artist/2yTm58eD41vWmwkv56AZe9"
-        }
-      ],
-      "duration_ms": 221690,
-      "name": "\u6700\u7f8e\u7684\u554f\u5019-\u5c0fV\u4e4b\u6b4c",
-      "url": "https://open.spotify.com/track/7c9R1ewxKUIMsU5QrWlwPi"
-    },
-    {
-      "added_at": "2023-01-19 16:00:00",
-      "album": {
         "name": "\u70ba\u4ec0\u9ebc\u53ea\u7559\u4e0b\u6211\u4e00\u500b",
         "url": "https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL"
       },
@@ -823,6 +803,22 @@
       "duration_ms": 226702,
       "name": "\u70ba\u4ec0\u9ebc\u53ea\u7559\u4e0b\u6211\u4e00\u500b",
       "url": "https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR"
+    },
+    {
+      "added_at": "2023-01-19 16:00:00",
+      "album": {
+        "name": "\u5409\u4ed6\u624b",
+        "url": "https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR"
+      },
+      "artists": [
+        {
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "\u592a\u8070\u660e",
+      "url": "https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

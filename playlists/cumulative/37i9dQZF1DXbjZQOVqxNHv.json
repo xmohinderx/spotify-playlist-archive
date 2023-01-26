@@ -3440,6 +3440,24 @@
     {
       "album": {
         "name": "Internal Empire",
+        "url": "https://open.spotify.com/album/3BAreUFH92qmT2GzZX7AWN"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202760,
+      "name": "Internal Empire",
+      "url": "https://open.spotify.com/track/3T56ZKh67ocC581FkIo79h"
+    },
+    {
+      "album": {
+        "name": "Internal Empire",
         "url": "https://open.spotify.com/album/1cxnfaTwhRSEVJaEYIrFJc"
       },
       "artists": [
@@ -8110,7 +8128,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 302040,
       "name": "Yoaoshk",
       "url": "https://open.spotify.com/track/17d4Aqj6ZTY7B383vklGxc"

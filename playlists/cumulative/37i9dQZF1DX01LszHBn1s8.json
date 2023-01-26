@@ -6217,6 +6217,24 @@
     },
     {
       "album": {
+        "name": "Her Way (Sped Up)",
+        "url": "https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182164,
+      "name": "Her Way - Sped Up",
+      "url": "https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU"
+    },
+    {
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
       },

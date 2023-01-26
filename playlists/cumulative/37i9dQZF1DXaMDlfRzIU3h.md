@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaMDlfRzIU3h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaMDlfRzIU3h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaMDlfRzIU3h)
 
-### [Fuego Mixtape \#031](https://open.spotify.com/playlist/37i9dQZF1DXaMDlfRzIU3h)
+### [Fuego \#031](https://open.spotify.com/playlist/37i9dQZF1DXaMDlfRzIU3h)
 
 > Featuring Rauw Alejandro, Bizarrap, Anuel AA & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 

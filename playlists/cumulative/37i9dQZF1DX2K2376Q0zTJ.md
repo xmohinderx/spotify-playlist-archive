@@ -4,7 +4,7 @@
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  カネコアヤノ\(Ayano Kaneko\)
 
-650 songs - 1 day 14 hr 55 min
+652 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,7 +624,8 @@
 | [泣いてしまう](https://open.spotify.com/track/3mN9n0L41MFft0A0FvjYuf) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [はためき \- EP](https://open.spotify.com/album/2PxLlQQ5yirERih8GYTy9B) | 2:44 | 2022-01-04 | 2022-12-07 |
 | [泣いてしまう](https://open.spotify.com/track/7xtfp6gCgfEJGeHUFbPubq) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [泣いてしまう](https://open.spotify.com/album/7eDsuBTVzGZSrGLei3w8hB) | 2:44 | 2022-12-06 | 2023-01-04 |
 | [溺れる魚](https://open.spotify.com/track/478GUJPpgncuUrOZCKoFK5) | [埋火](https://open.spotify.com/artist/60UwLyHzwEJm7poQtLdKU9) | [ジオラマ](https://open.spotify.com/album/0aNJas8YcFTDplk2nA19YN) | 3:55 | 2022-05-04 | 2022-06-01 |
-| [漂流](https://open.spotify.com/track/5bwTdH8uTCvqNkt88yJdTg) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点描](https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf) | 3:42 | 2023-01-03 |  |
+| [漂流](https://open.spotify.com/track/2JAi04qVp3gaQmIb3HsH0D) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点描](https://open.spotify.com/album/0l8baO2a0PasmzInWEGVUv) | 3:42 | 2023-01-03 |  |
+| [漂流](https://open.spotify.com/track/5bwTdH8uTCvqNkt88yJdTg) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点描](https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf) | 3:42 | 2023-01-03 | 2023-01-26 |
 | [火をつけて](https://open.spotify.com/track/1b0CUQ3HX7tl4eoLKRUxN3) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 4:39 | 2023-01-03 |  |
 | [灯火](https://open.spotify.com/track/3B08qtYJGxfCeCCdVCg3YU) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [言葉のない夜に](https://open.spotify.com/album/5u8OhRFA6M1eUi9497iQnj) | 3:38 | 2023-01-03 |  |
 | [燐光](https://open.spotify.com/track/0fbS3fpGJkiUruNqXEkzPs) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [燐光](https://open.spotify.com/album/1MHRY1Ahixbh9hJplFn1kX) | 5:29 | 2022-05-31 | 2022-07-06 |
@@ -656,7 +657,8 @@
 | [青草の匂い](https://open.spotify.com/track/6Z6Xoo5SDfMijrMDQuNRaC) | [SaToA](https://open.spotify.com/artist/3G6WF3GvhYoSEowQlsllIr) | [スリーショット](https://open.spotify.com/album/4wCWZLfh9Q0GnZY8o4yeqa) | 4:28 | 2022-10-04 | 2022-11-09 |
 | [青藍遊泳](https://open.spotify.com/track/2197fRE2IBsnja9r18RejV) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:48 | 2022-10-04 | 2022-11-09 |
 | [音楽](https://open.spotify.com/track/2Z6TsvlPvuLi0ZPnHs7sFE) | [TORANOKO RAMMY](https://open.spotify.com/artist/77tcnTtHAaClqBxk5PC0LA) | [激動するヒューマニズム](https://open.spotify.com/album/3Whjq9TxI9RvWGrWzh9I6o) | 4:10 | 2022-05-04 | 2022-06-01 |
-| [風になれ](https://open.spotify.com/track/4i4Pqloeh9hJPn7SuFEUEW) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点描](https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf) | 3:17 | 2023-01-03 |  |
+| [風になれ](https://open.spotify.com/track/4i4Pqloeh9hJPn7SuFEUEW) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点描](https://open.spotify.com/album/4YB963L0XoHhaa6qqOW2Gf) | 3:17 | 2023-01-03 | 2023-01-26 |
+| [風になれ](https://open.spotify.com/track/0UhsOaWMD73pfGS4BrcUad) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [風になれ](https://open.spotify.com/album/3bYOLJiz5t2ZbzOn7HfW42) | 3:18 | 2023-01-03 |  |
 | [魔法を教えて](https://open.spotify.com/track/0zoVNcQs1b6iU738C1XHIj) | [湧](https://open.spotify.com/artist/2WLQEvRcGXbXKqoEgYV3sK) | [魔法を教えて](https://open.spotify.com/album/5SIHgqDGuwYGufUb9IumeE) | 2:14 | 2022-01-04 | 2022-02-02 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

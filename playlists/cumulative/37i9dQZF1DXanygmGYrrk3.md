@@ -2,7 +2,7 @@
 
 ### [Las Favoritas](https://open.spotify.com/playlist/37i9dQZF1DXanygmGYrrk3)
 
-> Tus canciones favoritas de Música Mexicana, all in one place! Cover: Carin Leon y Grupo Frontera.
+> Tus canciones favoritas de Música Mexicana, all in one place! Cover: La Maquinaria Norteña
 
 272 songs - 14 hr 54 min
 

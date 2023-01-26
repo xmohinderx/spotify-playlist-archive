@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover: Lee yejoon\(이예준\)\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover: YESUNG\(예성\)\)\) \(당신의 감성에 발라드, 려요\)
 
-714 songs - 1 day 22 hr 29 min
+715 songs - 1 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 | 2021-12-20 | 2022-07-08 |
 | [Slowly Fall](https://open.spotify.com/track/20iKxZ9WfxHgTB2GVXpQMk) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [A PIECE OF YOUR MIND \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/12I9OaovCrdtLLroBYcnco) | 4:01 | 2021-12-20 | 2022-07-08 |
 | [Small Room \(Feat\. IU\)](https://open.spotify.com/track/4mnfM64nYzPE6h4dM4EMIh) | [SWEET SORROW](https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SWEET SORROW Single](https://open.spotify.com/album/6LPqxbpFtP3yHI9PLrZigs) | 4:44 | 2022-02-17 | 2022-03-28 |
+| [Small Things](https://open.spotify.com/track/4tnz79vOfi6zwq4sWr2MVD) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Sensory Flows \- The 1st Album](https://open.spotify.com/album/1JTBgKjJ7WnUtYvKVBH5fU) | 3:22 | 2023-01-25 |  |
 | [Snow Flower](https://open.spotify.com/track/0t3lRe5onWuDCm5533MRZ1) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Snow Flower](https://open.spotify.com/album/3GeRwFsu0S9PKpbzerXDt5) | 5:43 | 2023-01-20 |  |
 | [Snow on Christmas](https://open.spotify.com/track/1efhs3qNob9LxwIxyGCvdf) | [Baek Juyeon](https://open.spotify.com/artist/4vzgTWeitkDcGSUJwCCYvr) | [Snow on Christmas](https://open.spotify.com/album/4yVwoxry9eozDQ9ca98wTH) | 4:01 | 2022-12-26 |  |
 | [So that my day could end \(feat\. Han Dong Geun\)](https://open.spotify.com/track/2jWT39ijINYfCPgxBveGpa) | [Yeoro](https://open.spotify.com/artist/2H33No6rbjBG2G5bQYcQJo), [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [So that my day could end](https://open.spotify.com/album/2tFzFtdSaVvEptMyR6cSlc) | 3:58 | 2023-01-10 |  |

@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 243846,
       "name": "Apartment",
       "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
@@ -356,7 +356,7 @@
     {
       "album": {
         "name": "Days",
-        "url": "https://open.spotify.com/album/6y6EKuZFTF27DVWz2CckWK"
+        "url": "https://open.spotify.com/album/4N5nEU0I2SW89TXSuvBvbb"
       },
       "artists": [
         {
@@ -367,6 +367,24 @@
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199167,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/0s4yqLuXcjig9VJH6XNMG7"
+    },
+    {
+      "album": {
+        "name": "Days",
+        "url": "https://open.spotify.com/album/6y6EKuZFTF27DVWz2CckWK"
+      },
+      "artists": [
+        {
+          "name": "Asilo",
+          "url": "https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
       "duration_ms": 199167,
       "name": "Days",
       "url": "https://open.spotify.com/track/26o4oI2sYBD4r0Oq0sV5GY"
@@ -659,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Voices Of Love",
+        "url": "https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9"
+      },
+      "artists": [
+        {
+          "name": "Ann Sally",
+          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258346,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
+    },
+    {
+      "album": {
         "name": "Long Voyage",
         "url": "https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi"
       },
@@ -786,7 +822,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 272436,
       "name": "Lamp",
       "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
@@ -855,6 +891,28 @@
     },
     {
       "album": {
+        "name": "[Kin no Kuni Mizu no Kuni] Original Sound Track",
+        "url": "https://open.spotify.com/album/5BWOI876SLfTD2yz4Nom0u"
+      },
+      "artists": [
+        {
+          "name": "Evan Call",
+          "url": "https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ"
+        },
+        {
+          "name": "\u7434\u97f3",
+          "url": "https://open.spotify.com/artist/0vmDmyY6q6ALXjlONSf7kO"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153133,
+      "name": "Love Birds",
+      "url": "https://open.spotify.com/track/2TDtrTlftOMY2GlU8aMtMb"
+    },
+    {
+      "album": {
         "name": "Love Birds",
         "url": "https://open.spotify.com/album/4aHwdSC9EOrqJ6OzW7fkbP"
       },
@@ -870,7 +928,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 153133,
       "name": "Love Birds",
       "url": "https://open.spotify.com/track/2nORh3ReQzKn8Pg51JaaN5"
@@ -1018,6 +1076,42 @@
       "duration_ms": 233666,
       "name": "NEVER FALL IN LOVE AGAIN",
       "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+    },
+    {
+      "album": {
+        "name": "Days With Uncertainty",
+        "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
+      },
+      "artists": [
+        {
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239160,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
+    },
+    {
+      "album": {
+        "name": "Beat Installments",
+        "url": "https://open.spotify.com/album/2UMNx3cmcaMPsMKViw4nS1"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186374,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/6GouUDqhYlz4D8A18osOwd"
     },
     {
       "album": {
@@ -1361,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Roundabout",
+        "url": "https://open.spotify.com/album/07b8jFWroRWTpEWF8SrDLe"
+      },
+      "artists": [
+        {
+          "name": "\u660e\u661f <Akeboshi>",
+          "url": "https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308946,
+      "name": "Yellow Moon",
+      "url": "https://open.spotify.com/track/3nPTeT1tp6GmHjmBFnCSzF"
+    },
+    {
+      "album": {
         "name": "YELLOW DANCER",
         "url": "https://open.spotify.com/album/1vtIqjn25qHypqyoI21q8d"
       },
@@ -1538,7 +1650,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 274066,
       "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
       "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
@@ -1599,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "chouchou",
+        "url": "https://open.spotify.com/album/79YTP5wf0HBO3sihh5cfsN"
+      },
+      "artists": [
+        {
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349920,
+      "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3084 - movie ver.",
+      "url": "https://open.spotify.com/track/59pUIlXjQupbiYwt40uUTi"
+    },
+    {
+      "album": {
         "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
         "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
       },
@@ -1610,7 +1740,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 310520,
       "name": "\u306d\u3080\u308b\u306e\u307e\u3061~Tidur Tidur~",
       "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
@@ -1906,7 +2036,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 280280,
       "name": "\u30e1\u30ed\u30c7\u30a3\u30fc",
       "url": "https://open.spotify.com/track/3WlNXip1Fm13r2YREQvKMR"
@@ -1978,7 +2108,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 161813,
       "name": "\u5728\u5b85\u30ef\u30eb\u30c4",
       "url": "https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e"
@@ -2506,6 +2636,24 @@
       "duration_ms": 176542,
       "name": "\u77e5\u3089\u306a\u3044\u4e16\u754c\u3082\u898b\u98fd\u304d\u305f",
       "url": "https://open.spotify.com/track/1lY1S9iNCw3zj9mBO7lYkt"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224266,
+      "name": "\u7cf8",
+      "url": "https://open.spotify.com/track/1Q3wFTqaH9rmVGdGj85Lsa"
     },
     {
       "album": {

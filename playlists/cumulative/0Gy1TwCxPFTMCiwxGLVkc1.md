@@ -4,7 +4,7 @@
 
 > Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!
 
-86 songs - 3 hr 47 min
+88 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [God Is A Freak](https://open.spotify.com/track/42ApAik1crGHN42WXIHxaa) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/4Dn0TrB9r7UZSMv94EXVct) | 3:07 | 2022-05-27 | 2022-10-26 |
 | [Going To The Beach](https://open.spotify.com/track/1rxOa5yXbJPRDfuOyoHf62) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg) | [Kids Sing Pete The Cat](https://open.spotify.com/album/7v6CHcEdArfur2YNSjBvvd) | 1:56 | 2022-10-25 | 2022-11-01 |
 | [Hacky Smacky \(Brush Your Teeth\)](https://open.spotify.com/track/5rW7P3ZeKvQpJ09tSAfDLQ) | [Hooray Kids Songs](https://open.spotify.com/artist/5tNlF8VeieGuXQzqzCU2Gd) | [Hacky Smacky \(Brush Your Teeth\)](https://open.spotify.com/album/6HOk99up52yxXcBOmi3mgo) | 2:12 | 2022-12-05 |  |
+| [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/5FrKs0gJEathso1k99PiO5) | [Toddler Tunes](https://open.spotify.com/artist/3uGrMgq7tseqZq7FCjMGnW) | [Songs for Kids: Classic Children's Music](https://open.spotify.com/album/6oqSFrJ6Et7ZOkV7VVjthq) | 1:23 | 2023-01-25 |  |
 | [Here Comes Pippi Longstocking](https://open.spotify.com/track/1l7uz7c4VBx97DdlerRmeU) | [Astrid Lindgren](https://open.spotify.com/artist/3MDsnjqnEd5TJaYsuacX1I), [Sophie May](https://open.spotify.com/artist/6QU9VlcQ8TLx2kPLTcStO8) | [Here Comes Pippi Longstocking](https://open.spotify.com/album/6KCRazFgI6ZQKpVx42Lt7K) | 1:10 | 2022-11-07 |  |
 | [Hickory Dickory Dock](https://open.spotify.com/track/5MJaz1QTEavuAgzDf3T5rB) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG) | [Blue's Clues & You Nursery Rhymes Vol\. 3](https://open.spotify.com/album/5XYfTCPyoRNRMBfyRnyQEK) | 3:07 | 2022-12-05 |  |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/116IS04a18L5lKQADerNeb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/3FYzzktY8TFWNCXVGfJZL6) | 3:13 | 2022-05-27 | 2022-10-26 |
@@ -39,6 +40,7 @@
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/1nIO7R7447n8aWH4QmFBHC) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/6UIxVE6PjXZqgjaKWu11Nx) | 2:20 | 2022-05-27 | 2022-10-26 |
 | [If I Were In Your Shoes](https://open.spotify.com/track/1DysowdsvK9Ol0znKuJnFE) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago’s Sea Shanties Vol\. 2](https://open.spotify.com/album/5d3PqzfZPo1peIpvilImVs) | 2:15 | 2022-10-25 |  |
 | [It's A Snow Day](https://open.spotify.com/track/2XO6U3D3h3dnlEMq9jp6zy) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65) | [Snow Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xwyAIxnln2pl0fus9a0tH) | 1:51 | 2022-12-22 |  |
+| [Itsy Bitsy Spider](https://open.spotify.com/track/2t03vqSeWEX0HjtdozYSpr) | [Toddler Tunes](https://open.spotify.com/artist/3uGrMgq7tseqZq7FCjMGnW) | [Songs for Kids: Classic Children's Music](https://open.spotify.com/album/6oqSFrJ6Et7ZOkV7VVjthq) | 2:17 | 2023-01-25 |  |
 | [Just Gotta Be You \(feat\. Bob\)](https://open.spotify.com/track/4XZLWhFiv9gOomdxVsAIDN) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg), [Bob](https://open.spotify.com/artist/2vBJ4hpLhhrIGEBvMHZCp3) | [Pete The Cat \(Expanded Version\)](https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37) | 3:15 | 2022-10-25 |  |
 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 | 2022-10-25 |  |
 | [Let's Go Amigos \- Remix](https://open.spotify.com/track/33qJ5h1VI9g2IbP4gzoPwl) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu), [El Rey](https://open.spotify.com/artist/6QAsWcn4mpE6GysHBUmTNR) | [Nick Jr\. Fun Fiesta!](https://open.spotify.com/album/4gctUTZuUT12hCliqviAa0) | 1:49 | 2022-10-25 |  |

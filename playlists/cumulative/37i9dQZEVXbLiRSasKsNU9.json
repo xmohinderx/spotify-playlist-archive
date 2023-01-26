@@ -2919,6 +2919,24 @@
     },
     {
       "album": {
+        "name": "Big Boy",
+        "url": "https://open.spotify.com/album/5ew2hMJtKClvgyF4PHDMzB"
+      },
+      "artists": [
+        {
+          "name": "lovibes",
+          "url": "https://open.spotify.com/artist/1fWoCmM8Q7BhMIcMgipkR4"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331116,
+      "name": "Big Boy",
+      "url": "https://open.spotify.com/track/3Q5dIrHrQRuTEX0ORroMbQ"
+    },
+    {
+      "album": {
         "name": "Big boys",
         "url": "https://open.spotify.com/album/50yqUyt7aBiffET4A5nsjw"
       },
@@ -14174,7 +14192,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 133873,
       "name": "No Horse To Ride",
       "url": "https://open.spotify.com/track/2NnlmzSeHsqBmgxAJXWeJ3"
@@ -15066,7 +15084,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 141184,
       "name": "One More Shot",
       "url": "https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ"
@@ -19034,7 +19052,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 113053,
       "name": "sure thing (sped up)",
       "url": "https://open.spotify.com/track/6fBiLOkPcQ3iFUpmIv88fQ"
@@ -20042,7 +20060,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 199845,
       "name": "The Songcord",
       "url": "https://open.spotify.com/track/43uFqqDlSL5YhKcPnzJi4b"

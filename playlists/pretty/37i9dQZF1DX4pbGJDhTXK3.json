@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 123635,
+  "num_followers": 123660,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMGNhNzkxNmZmMjgxOTAwNDMyMjhiYTEwZjIzMmQ3MGYx",
+  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMGJiODA3ZmM3NGQzZWViZmJhMzg0OWQyZjFkNzU5MDg5",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Villa Amorini",
+        "url": "https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG"
+      },
+      "artists": [
+        {
+          "name": "Orions Belte",
+          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
+        }
+      ],
+      "duration_ms": 359306,
+      "name": "how long is... cold pizza good for",
+      "url": "https://open.spotify.com/track/4xDLHt2Ss3pYDoLCK2uUPB"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Vegvisir (Nils Olav Remix)",
         "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 372838,
       "name": "Vegvisir (Nils Olav Remix)",
       "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Villa Amorini",
-        "url": "https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG"
-      },
-      "artists": [
-        {
-          "name": "Orions Belte",
-          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
-        }
-      ],
-      "duration_ms": 359306,
-      "name": "how long is... cold pizza good for",
-      "url": "https://open.spotify.com/track/4xDLHt2Ss3pYDoLCK2uUPB"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Staying In",
+        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
+      },
+      "artists": [
+        {
+          "name": "Diskjokke",
+          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "Staying In",
+      "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Games (Prins Thomas Diskomiks)",
         "url": "https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 493597,
       "name": "Games (Prins Thomas Diskomiks)",
       "url": "https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Staying In",
-        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
-      },
-      "artists": [
-        {
-          "name": "Diskjokke",
-          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "Staying In",
-      "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "CDIII",
-        "url": "https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF"
-      },
-      "artists": [
-        {
-          "name": "Skateb\u00e5rd",
-          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
-        }
-      ],
-      "duration_ms": 493705,
-      "name": "Love in the Night",
-      "url": "https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Closing Shot",
         "url": "https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 503648,
       "name": "Closing Shot",
       "url": "https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "CDIII",
+        "url": "https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF"
+      },
+      "artists": [
+        {
+          "name": "Skateb\u00e5rd",
+          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
+        }
+      ],
+      "duration_ms": 493705,
+      "name": "Love in the Night",
+      "url": "https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX"
     },
     {
       "added_at": "2023-01-19 23:00:00",

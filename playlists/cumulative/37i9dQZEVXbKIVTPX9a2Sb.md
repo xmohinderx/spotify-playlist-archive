@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-1,105 songs - 2 day 8 hr 48 min
+1,106 songs - 2 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,7 +359,7 @@
 | [HELL RMX](https://open.spotify.com/track/61cTL7tC1kvVdvGZn2D4fa) | [AstralKid22](https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ), [TVRNFLX](https://open.spotify.com/artist/6TiybP8l7YCH5puHDlXBtA), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Smack](https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7), [Luca Brassi10x](https://open.spotify.com/artist/533p900oXrV93rJupPWvF2) | [HELL RMX](https://open.spotify.com/album/4Y9ZGoOyWYqTgBlXiNkK58) | 4:43 | 2021-07-04 | 2021-07-05 |
 | [Here We Go… Again \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-11 |
 | [Hey G!](https://open.spotify.com/track/1i6Q39TzaIp6EkJL9k51qd) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [Hey G!](https://open.spotify.com/album/0H9fj2sXY25zApEdjbHgX9) | 4:10 | 2021-09-26 | 2022-10-13 |
-| [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-23 |  |
+| [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-23 | 2023-01-26 |
 | [Highway](https://open.spotify.com/track/0fqyDZd8vSCURbfksLbB1Z) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Příběhy a sny](https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4) | 2:19 | 2021-11-20 | 2021-12-06 |
 | [HITLO MA](https://open.spotify.com/track/6T4Gg76FwmU59pyBASvoln) | [Zayo](https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [WASSUP](https://open.spotify.com/album/4mbHfqJ2ke7QiEV1e8Xkty) | 2:29 | 2021-05-23 | 2021-05-26 |
 | [HITMEJKRRR](https://open.spotify.com/track/7MNEBsfygEdOr2tawe32mh) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga) | [BIG BOY FM](https://open.spotify.com/album/5OGnfm44deocrWrNyRREF5) | 2:38 | 2022-06-21 | 2022-07-10 |
@@ -718,6 +718,7 @@
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2022-09-22 |
 | [Pivko](https://open.spotify.com/track/0SkXruhPA5gTI6AS9NR2aN) | [Cico Band](https://open.spotify.com/artist/6nMtwu4CkZncCnnOzoPOyl), [Rene Rendy](https://open.spotify.com/artist/5ZwzbUSPdEEyWKqDr8dcHQ) | [Kelovačky](https://open.spotify.com/album/64tR4ySWUhpXqc6tdF0FvC) | 2:56 | 2022-01-01 | 2023-01-03 |
 | [PKKMP](https://open.spotify.com/track/64CxHd4WMKGXJFTLH0OKhC) | [Ego](https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl), [Coder](https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw) | [PROTOTYPES](https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4) | 2:52 | 2022-07-02 | 2022-07-04 |
+| [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-01-25 |  |
 | [Plán](https://open.spotify.com/track/3Pe7JXyoueAlIgfqKd48dg) | [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL), [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW) | [Chaos, Vtedy A Teraz](https://open.spotify.com/album/58kXwLlWTUCxkKO3OGFs5P) | 4:34 | 2022-12-09 | 2022-12-11 |
 | [Po lete](https://open.spotify.com/track/2YusG1mwWwyasrSCmug41X) | [Gabryell](https://open.spotify.com/artist/1KrcdBG09FBhLlO5B0OQyS) | [PUNK HEART](https://open.spotify.com/album/0OBtf8V3mjXUxraPwteH3B) | 2:26 | 2022-11-30 | 2022-12-04 |
 | [POD DRN](https://open.spotify.com/track/1QJr9gqb6wqumAkLBHcJCq) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [POD DRN](https://open.spotify.com/album/37gj1ub8b6qdv7nICPh7X3) | 3:30 | 2022-08-02 | 2022-10-09 |

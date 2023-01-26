@@ -1083,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/1mwrXnM3nu9NA7Q1OCo0tV"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135026,
+      "name": "Flagship - Instrumental",
+      "url": "https://open.spotify.com/track/7GALtcUgLSmssmh9YVUNyx"
+    },
+    {
+      "album": {
         "name": "After All These Years",
         "url": "https://open.spotify.com/album/6vRQvbqVGceytmZoZLk7NG"
       },
@@ -2702,7 +2720,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 445293,
       "name": "Not Afraid - Live",
       "url": "https://open.spotify.com/track/5GY6JKRXebctv4T8dgEzGq"
@@ -2960,7 +2978,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 340426,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0NWIUe3LhNeILtOv5fWmpA"
@@ -4556,7 +4574,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 599141,
       "name": "You And You Alone - Live",
       "url": "https://open.spotify.com/track/7p3rTldMTSffWhFG3vk1C4"

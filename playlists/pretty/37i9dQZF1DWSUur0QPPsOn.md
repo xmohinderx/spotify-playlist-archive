@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nnekaenergy/">Nneka Onuorah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,625 likes - 48 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,802 likes - 48 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 47 | [So Fly \(feat\. Yung Joc\)](https://open.spotify.com/track/6nqscDOWhTkD1tfpTNrh5A) | [Slim](https://open.spotify.com/artist/33nrND6ODgesoa1Qmr5DbD), [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj) | [So Fly \(feat\. Yung Joc\)](https://open.spotify.com/album/10GMezP4TsViIvzulxCR8b) | 3:36 |
 | 48 | [Watch Out for the Big Girl](https://open.spotify.com/track/71C1N1mwADuLlSpVkIWgXq) | [Jimmy Jones](https://open.spotify.com/artist/3Jl6zZey7n9sVPK6vcZhtT) | [Watch Out for the Big Girl](https://open.spotify.com/album/7FoJmYkMDrOvRVQA0wtYnY) | 3:33 |
 
-Snapshot ID: `MTY3MjU0OTIwMCwwMDAwMDAwMGZkYmM5MmE4NzZjNzIyY2E4MzdiM2I3MTkxOTRmM2Q0`
+Snapshot ID: `MTY3NDYyODc0MiwwMDAwMDAwMDkwNDM4NzM4ODk5MzU5NzhlMDljYTlkZjNmN2NkZjhi`

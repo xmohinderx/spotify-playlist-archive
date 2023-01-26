@@ -1,13 +1,33 @@
 {
   "description": "Lo m\u00e1s fresco de la cosecha 2023. Adriel Favela en portada.",
-  "num_followers": 140182,
+  "num_followers": 140464,
   "original_name": "Corridos Nuevos 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5NDQwMCwwMDAwMDAwMDM2Y2Q0OWMyNzI5YjNlZmY2ZjZiMjgyNDNlY2Y0M2Fl",
+  "snapshot_id": "MTY3NDY2NDE4OCwwMDAwMDAwMGU5OThlOGUwOTJiYjg2NTE4ODViZWM5YjEwNjQwNmU0",
   "tracks": [
+    {
+      "added_at": "2023-01-25 16:29:48",
+      "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
     {
       "added_at": "2023-01-20 06:00:00",
       "album": {
@@ -1323,26 +1343,6 @@
       "duration_ms": 246255,
       "name": "El Chapito Isidro",
       "url": "https://open.spotify.com/track/3nOy3q1NXXEvhIUAoxapVh"
-    },
-    {
-      "added_at": "2023-01-13 06:00:00",
-      "album": {
-        "name": "Mi Meta De Morro",
-        "url": "https://open.spotify.com/album/2YOn5X3AXtIvpGqTEK7DUh"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        },
-        {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 205473,
-      "name": "Mi Meta De Morro",
-      "url": "https://open.spotify.com/track/5fQtJNX9bObOFBE5bcX0Ps"
     },
     {
       "added_at": "2023-01-13 06:00:00",

@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Vang; thiết kế: Isu Kim
 
-724 songs - 1 day 18 hr 15 min
+725 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,6 +510,7 @@
 | [Rót](https://open.spotify.com/track/6uO6qeT2xSNCgVnfPvsicL) | [Híu](https://open.spotify.com/artist/2J5B9kGwZXEaP7Ys4ai9Qz) | [Rót](https://open.spotify.com/album/1NOVGTrmbhlSfW2rUvkYJd) | 3:24 | 2022-02-21 | 2022-03-03 |
 | [Rơi](https://open.spotify.com/track/1ehMzJl5KzgTMwah8xpMmt) | [Trick](https://open.spotify.com/artist/21U7JrcsqEYtWC0SYrJnWO) | [Rơi](https://open.spotify.com/album/4XdCEsiY0ne29O1Cw5CUQK) | 2:41 | 2022-05-18 | 2022-05-23 |
 | [Rối Bời](https://open.spotify.com/track/7I2YexigfFA46Xy0vnu4in) | [CM1X](https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw), [D'CEE](https://open.spotify.com/artist/0oRmS4Q2x8CZdvwbdLRLuM), [Daeron](https://open.spotify.com/artist/7IbLPidLTZVlxZm1EKTwKC), [Lã Hưng](https://open.spotify.com/artist/6quhS2AqdlK9tL4vcuZKSS) | [Rối Bời](https://open.spotify.com/album/06aNQH2LY0b4Oc1zNcmMeB) | 5:02 | 2022-10-12 |  |
+| [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 | 2023-01-25 |  |
 | [Rồi Đông Sẽ Tàn](https://open.spotify.com/track/66tiJFqAGGDsEBxKtRc7FU) | [Híp](https://open.spotify.com/artist/4uSJlxFS5YHM0Sz1hf8bwl) | [Rồi Đông Sẽ Tàn](https://open.spotify.com/album/60LnJlzjHrweePkSjPTvLy) | 4:52 | 2022-01-28 | 2022-02-11 |
 | [SAD BORDER \(feat\. Pajn\)](https://open.spotify.com/track/0AhQIbDf55F8CscT7IDTqG) | [Kixt](https://open.spotify.com/artist/3LrEXAJkU1at8NjvSLm9U3), [Pajn](https://open.spotify.com/artist/4BleJN4feDcg2qIQ60zh4G) | [SAD BORDER \(feat\. Pajn\)](https://open.spotify.com/album/2z470py0BfhR8VBuMNW0a6) | 3:40 | 2022-01-06 | 2022-01-15 |
 | [Sao Anh Lại Đến Đây Giờ Này](https://open.spotify.com/track/0hRqV7Zu0VX8zeKOdtYvnC) | [Keyri Phan](https://open.spotify.com/artist/76ehA4ZmAcKnA2vAfK59Pq), [Violet](https://open.spotify.com/artist/5Dl9QrHY9E8cpzKwSZqOrm) | [Sao Anh Lại Đến Đây Giờ Này](https://open.spotify.com/album/5uLzEC7Aan3GopegYlodx9) | 3:57 | 2022-06-16 | 2022-06-27 |

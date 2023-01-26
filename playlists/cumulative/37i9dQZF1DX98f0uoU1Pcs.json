@@ -4845,6 +4845,24 @@
     },
     {
       "album": {
+        "name": "Ride On",
+        "url": "https://open.spotify.com/album/3X3uvP1QBimhhgz8w7we1Z"
+      },
+      "artists": [
+        {
+          "name": "The Nude Party",
+          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284597,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/1MEhbR2no3zdS1EuvuCE2E"
+    },
+    {
+      "album": {
         "name": "Hungry for Action",
         "url": "https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC"
       },

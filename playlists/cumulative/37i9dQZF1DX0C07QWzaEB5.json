@@ -317,6 +317,28 @@
     },
     {
       "album": {
+        "name": "Pairing",
+        "url": "https://open.spotify.com/album/6A5WZUUzuktHTw1n6M03ya"
+      },
+      "artists": [
+        {
+          "name": "FilmSound",
+          "url": "https://open.spotify.com/artist/0sCvfEmo7OQ1cd2eID60rD"
+        },
+        {
+          "name": "OYEON",
+          "url": "https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/4Umzv0vY5vDuXtYuJQp5Oq"
+    },
+    {
+      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts"
       },
@@ -1292,6 +1314,24 @@
       "duration_ms": 253976,
       "name": "MBTI (with PARKMOONCHI UNIVERSE)",
       "url": "https://open.spotify.com/track/4EDs1R8JOI6nkCbarCsITs"
+    },
+    {
+      "album": {
+        "name": "Michael Jackson",
+        "url": "https://open.spotify.com/album/3XHOJvbNjgu8CFE2kd5hKg"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Michael Jackson (Dance Ver.)",
+      "url": "https://open.spotify.com/track/2g3umQsrOCBk3mSKafF8Sd"
     },
     {
       "album": {

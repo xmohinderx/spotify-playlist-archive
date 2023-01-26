@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-406 songs - 1 day 0 hr 5 min
+407 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Espejo](https://open.spotify.com/track/4PrG4rGGT9QTcs64K7B85m) | [Ñoqui](https://open.spotify.com/artist/1lNd3hH3tHiqrAQl7N1l9h), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Espejo](https://open.spotify.com/album/6oNSvXhEhqeKkWSIcPo9Sg) | 4:06 | 2022-06-03 | 2022-07-24 |
 | [Espejos Dorados \- Live at M100](https://open.spotify.com/track/6rfpQtEtNFDQxEvNSAIgf3) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Espejos Dorados \(Live at M100\)](https://open.spotify.com/album/3Kgab4RGUvsWg93lrDaVl5) | 4:22 | 2022-07-01 | 2022-07-06 |
 | [Espiándote](https://open.spotify.com/track/2SrVBLz24XKfsdTImimNqG) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Espiándote](https://open.spotify.com/album/7vAQv07uWaShAr6fm0y42k) | 3:39 | 2022-07-01 | 2022-07-27 |
-| [Este Debe Ser el Lugar](https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Este Debe Ser el Lugar](https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws) | 2:46 | 2022-06-03 |  |
+| [Este Debe Ser el Lugar](https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Este Debe Ser el Lugar](https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws) | 2:46 | 2022-06-03 | 2023-01-26 |
 | [Estás acá](https://open.spotify.com/track/4q2adyzkct9AlMxrtsVHSK) | [Telepáticos](https://open.spotify.com/artist/0r4Bb4UTFpuFvIvENU6Az0) | [Telepáticos](https://open.spotify.com/album/3RIPF4H67CpBKiXrE1A8WR) | 3:31 | 2022-07-01 | 2022-07-20 |
 | [Fantasma](https://open.spotify.com/track/3pLfxTtaTzmCnvvXIz6w22) | [Las Fuerzas Subterráneas](https://open.spotify.com/artist/4ri5uftf6yMlM0W82JBFfr) | [Fantasma](https://open.spotify.com/album/2R9QAk5UvgDPkdIpK5Wv0d) | 4:04 | 2022-07-01 | 2022-07-25 |
 | [Fantasmas](https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S) | [Los Jardines De Bruselas](https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8) | [Fantasmas](https://open.spotify.com/album/7z8TypbmxIssYjPmB1yDsc) | 3:29 | 2022-07-01 | 2022-07-29 |
@@ -327,6 +327,7 @@
 | [Recuerdos de Ya](https://open.spotify.com/track/4slvAIKvQN5d8jCuzlFHZW) | [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r) | [El Ataque Suave](https://open.spotify.com/album/1mB7emrGc7wKG4YtQJgLBI) | 2:11 | 2022-06-03 | 2023-01-11 |
 | [Refugio](https://open.spotify.com/track/4bQJ17TT3eASeV5C2GezAK) | [Tølva](https://open.spotify.com/artist/3lLKxv9sE05lDe7VnXgUAo) | [Refugio](https://open.spotify.com/album/18OetE9OcCk7uFBDRsTfKA) | 2:50 | 2022-07-01 | 2022-07-24 |
 | [Remanso](https://open.spotify.com/track/7jEFt1fSOHEtoHPOiJYH61) | [Las Luchas](https://open.spotify.com/artist/3su0QV5CGNkE3xwpgEXNVe) | [Remanso](https://open.spotify.com/album/43q2gluh9bHCHDutBMkw11) | 5:12 | 2022-07-01 | 2022-07-17 |
+| [Remember](https://open.spotify.com/track/17WypwnCUAFWDFIkyoBlmu) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Remember](https://open.spotify.com/album/1qihx2rcmCRKx5EsL8gvX3) | 3:27 | 2023-01-20 |  |
 | [Remolinos](https://open.spotify.com/track/0PK1R9RJ4vPE0zEkpe3vTw) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Remolinos](https://open.spotify.com/album/28vyd694kAghyQToA3q1L1) | 4:16 | 2022-06-03 | 2022-07-20 |
 | [Replay](https://open.spotify.com/track/32mmErwdAcLnYNX1vxblqc) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Replay](https://open.spotify.com/album/0lSvk9hzhYSJYsPFMR3qWb) | 2:56 | 2022-07-01 | 2022-07-18 |
 | [Reset](https://open.spotify.com/track/0SmMK1KNTwFuvuJWaxxdPu) | [Anikké](https://open.spotify.com/artist/1Ha7GkctbdVqTwNGlaeJm5), [Pablo Bursztyn](https://open.spotify.com/artist/2GqmyGEyddOPvwak2B3Df1) | [Bienvenida](https://open.spotify.com/album/7f8UJha3JMioCT03FVwQNT) | 4:22 | 2022-07-01 | 2022-07-29 |

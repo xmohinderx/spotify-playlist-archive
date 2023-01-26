@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 140143,
+  "num_followers": 140282,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQzMTUxNiwwMDAwMDAwMGY1OTA3OTkxYzdmYTA2NzkwNjU2ZGU5ZWQ2MGEyNTU1",
+  "snapshot_id": "MTY3MjQzMTUxNiwwMDAwMDAwMGY1N2QwZDA5MDdmYWU4YWI1MjVmMWUwYjc5NjJmNTZl",
   "tracks": [
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1119,8 +1119,8 @@
     {
       "added_at": "2022-12-30 20:18:36",
       "album": {
-        "name": "Serie Sensacional: Marvin Santiago",
-        "url": "https://open.spotify.com/album/12zr5m4jJdGQuRubJNeaGN"
+        "name": "El Sonero Del Pueblo",
+        "url": "https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN"
       },
       "artists": [
         {
@@ -1128,41 +1128,9 @@
           "url": "https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE"
         }
       ],
-      "duration_ms": 331333,
-      "name": "Vasos De Colores",
-      "url": "https://open.spotify.com/track/4Bg55jW2gCF4YOLYVErCOT"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Simplemente... Lalo",
-        "url": "https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 458760,
-      "name": "M\u00e1ximo Chamorro",
-      "url": "https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5"
-    },
-    {
-      "added_at": "2022-12-30 20:18:36",
-      "album": {
-        "name": "Serie 32: Frankie Ruiz",
-        "url": "https://open.spotify.com/album/0c4wf1zsEMYxgMuz9J0gnf"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 322493,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/7zwGJg9R0rjP9ttda4PAaK"
+      "duration_ms": 254360,
+      "name": "El Hombre Increible",
+      "url": "https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0"
     },
     {
       "added_at": "2022-12-30 20:18:36",
@@ -1183,6 +1151,38 @@
       "duration_ms": 310831,
       "name": "El Baile del Suavecito",
       "url": "https://open.spotify.com/track/6LIFpEqZJ9V9p8RmGgcKOv"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Serie 32: Frankie Ruiz",
+        "url": "https://open.spotify.com/album/0c4wf1zsEMYxgMuz9J0gnf"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 322493,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/7zwGJg9R0rjP9ttda4PAaK"
+    },
+    {
+      "added_at": "2022-12-30 20:18:36",
+      "album": {
+        "name": "Simplemente... Lalo",
+        "url": "https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 458760,
+      "name": "M\u00e1ximo Chamorro",
+      "url": "https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5"
     },
     {
       "added_at": "2022-12-30 20:18:36",

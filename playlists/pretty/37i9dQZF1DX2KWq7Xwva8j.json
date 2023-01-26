@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Judeline",
-  "num_followers": 20543,
+  "num_followers": 20550,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYzMDY4MywwMDAwMDAwMDI2OTA5ZTIwNGQ5ZjQ1ZDdlNTFmMzM4OGMzZjkwODJi",
+  "snapshot_id": "MTY3MTYzMDY4MywwMDAwMDAwMGExZDVkNmI5OTJkZjNiNzJhZTU2OWYwY2ZmY2RmMTk4",
   "tracks": [
     {
       "added_at": "2022-12-21 13:51:23",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-12-21 13:51:23",
       "album": {
-        "name": "100tas / Nunca",
-        "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 192136,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt"
-    },
-    {
-      "added_at": "2022-12-21 13:51:23",
-      "album": {
         "name": "Ego\u00edsta",
         "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 199148,
       "name": "Ego\u00edsta",
       "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
+    },
+    {
+      "added_at": "2022-12-21 13:51:23",
+      "album": {
+        "name": "100tas / Nunca",
+        "url": "https://open.spotify.com/album/6sudcxwz43CeEYXrmBvlys"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 192136,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5GX4SBazl8LN2evBukEbQt"
     },
     {
       "added_at": "2022-12-21 13:51:23",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-12-21 13:51:23",
       "album": {
+        "name": "me gustas mas que un bigmac",
+        "url": "https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 199537,
+      "name": "me gustas mas que un bigmac",
+      "url": "https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY"
+    },
+    {
+      "added_at": "2022-12-21 13:51:23",
+      "album": {
         "name": "Mientras Ando",
         "url": "https://open.spotify.com/album/2aUAwTRu9AWdC5SjZUk7bN"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 198000,
       "name": "Me lo kiero imaginar",
       "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
-    },
-    {
-      "added_at": "2022-12-21 13:51:23",
-      "album": {
-        "name": "me gustas mas que un bigmac",
-        "url": "https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 199537,
-      "name": "me gustas mas que un bigmac",
-      "url": "https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY"
     },
     {
       "added_at": "2022-12-21 13:51:23",
@@ -715,26 +715,6 @@
     {
       "added_at": "2022-12-21 13:51:23",
       "album": {
-        "name": "Quiero Bailar",
-        "url": "https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g"
-      },
-      "artists": [
-        {
-          "name": "Elena Torres",
-          "url": "https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV"
-        },
-        {
-          "name": "MPV",
-          "url": "https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0"
-        }
-      ],
-      "duration_ms": 172384,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY"
-    },
-    {
-      "added_at": "2022-12-21 13:51:23",
-      "album": {
         "name": "Nada Mal",
         "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 140952,
       "name": "Nada Mal",
       "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
+    },
+    {
+      "added_at": "2022-12-21 13:51:23",
+      "album": {
+        "name": "Quiero Bailar",
+        "url": "https://open.spotify.com/album/0xCzUa3TOjjWy8aQRNoW8g"
+      },
+      "artists": [
+        {
+          "name": "Elena Torres",
+          "url": "https://open.spotify.com/artist/6qM5MgFldgcKatSFYmB5cV"
+        },
+        {
+          "name": "MPV",
+          "url": "https://open.spotify.com/artist/6B8oVZFbsDWVnWLPnxUFf0"
+        }
+      ],
+      "duration_ms": 172384,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY"
     },
     {
       "added_at": "2022-12-21 13:51:23",

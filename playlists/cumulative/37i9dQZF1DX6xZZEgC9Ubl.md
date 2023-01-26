@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: Pardyalone
 
-764 songs - 1 day 10 hr 46 min
+766 songs - 1 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Already Dead](https://open.spotify.com/track/1hB3M3POeKMLxcEFEvPeqU) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:51 | 2022-08-05 | 2022-12-10 |
 | [altitude](https://open.spotify.com/track/5mzvGPhsCURCR6fAy099mq) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [altitude](https://open.spotify.com/album/0Eyiu4dWiLEN53ZCNICJJI) | 2:09 | 2021-03-14 | 2022-06-28 |
 | [ALWAYS DO](https://open.spotify.com/track/3QCU8BT0zDS9LPVfEhRFEE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:31 | 2020-12-13\* | 2023-01-22 |
+| [ALWAYS DO](https://open.spotify.com/track/7gCe88FGMlkyURLPxglbAo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:31 | 2022-10-07 |  |
 | [angeldust](https://open.spotify.com/track/7IalOMYMAmWx30ptrXRXxK) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [LIVE FOREVER](https://open.spotify.com/album/0xwtJXyI8H5fxIGVPvfYeI) | 1:51 | 2022-12-02 |  |
 | [ANGELS & DEMONS](https://open.spotify.com/track/4GUj9MfPPkjpZskxb45uiX) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [ANGELS & DEMONS](https://open.spotify.com/album/2bik66u6GQAzrLi92oYsBj) | 2:40 | 2021-01-15 | 2022-04-21 |
 | [Angels Don't Fuck](https://open.spotify.com/track/5vKwj4F0gVE8T2Zy4T7mUW) | [Insincere](https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI) | [Angels Don't Fuck](https://open.spotify.com/album/3jaUaD0eo2ao3Bc29EzWiB) | 1:42 | 2022-02-28 | 2022-03-05 |
@@ -106,6 +107,7 @@
 | [CALL!](https://open.spotify.com/track/6nGnG6NsO77qRkXa9eqDna) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [HABITS](https://open.spotify.com/album/1Id0Mj1E6NyiwBmRjFskD9) | 2:50 | 2022-10-07 | 2022-10-15 |
 | [Can You Help Me](https://open.spotify.com/track/72D79mMBu1fs0DbnUU7Ecq) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Can You Help Me](https://open.spotify.com/album/0SkVwoOczCEidtYJomzX8m) | 2:53 | 2021-01-15 | 2021-06-19 |
 | [Can't Be Love](https://open.spotify.com/track/5FMnEM2HhI6OqyXeRt1o0U) | [Boon](https://open.spotify.com/artist/4XbfLvylNCfSXNvV2O8aP7) | [Can't Be Love](https://open.spotify.com/album/0j896bKYQQ6tMcNkJvSvk1) | 2:26 | 2021-07-17 | 2022-07-29 |
+| [Can't Change For You \(feat\. charlieonnafriday & Arden Jones\)](https://open.spotify.com/track/103iTEPJwc4MththlvRakh) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Can't Change For You \(feat\. charlieonnafriday & Arden Jones\)](https://open.spotify.com/album/2oB2P5aH5oQVDxl1JoG3Ub) | 3:04 | 2023-01-20 |  |
 | [Can't Compare](https://open.spotify.com/track/50KRLdhLfusFkAP5rxxJpb) | [Ricky James](https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC) | [Can't Compare](https://open.spotify.com/album/4dFCj85FXWzNqOdXEgE2Zf) | 3:16 | 2021-03-26 | 2021-04-24 |
 | [Can't Love Myself](https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo) | [Monty Datta](https://open.spotify.com/artist/5Hx084y0lkukp4MHLFmj3S), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Can't Love Myself](https://open.spotify.com/album/6nXrZeaXICH9TIPomAT9Be) | 2:02 | 2022-07-22 | 2023-01-25 |
 | [Can't Trust A Soul](https://open.spotify.com/track/3u2GQm2KSZzgpQb6QF1GNK) | [7ru7h](https://open.spotify.com/artist/5WnlPOcTodnSWDtjnrjmzv) | [Can't Trust A Soul](https://open.spotify.com/album/4KwpLoodcKvW87oWyIjhY4) | 2:45 | 2021-04-03 | 2022-07-16 |
@@ -128,7 +130,7 @@
 | [Cocaine & Fireworks](https://open.spotify.com/track/4lfvNi0IvY5hUJE8yotgGD) | [Turbo](https://open.spotify.com/artist/0TYydMAKPBYjZB0jgGCN7h) | [Cocaine & Fireworks](https://open.spotify.com/album/3KTvbJHKlAQmRATXsnc7RJ) | 2:25 | 2021-06-12 | 2022-04-18 |
 | [cocaine shawty](https://open.spotify.com/track/0AeoPi4FxIJudR7GL6wZrX) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Yunggoth✰](https://open.spotify.com/artist/2Wpsydr0xZekaBFNQ0OSKd) | [Friends](https://open.spotify.com/album/1h40XPxsqMxv1guXkyqHOL) | 3:48 | 2021-11-05 | 2022-03-07 |
 | [Coke Nose](https://open.spotify.com/track/6Y9ZB2eeYmbEYm7XifqTcg) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Coke Nose](https://open.spotify.com/album/5oWj59uOrqYDxfChyrlRM6) | 2:44 | 2021-05-22 | 2022-07-26 |
-| [Cold \(feat\. CADE\)](https://open.spotify.com/track/6vW6R25Gp5dbXKShm40gfg) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx), [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Long Days Away EP](https://open.spotify.com/album/613TIKn6gw8IGd1CBQUTa9) | 2:38 | 2021-10-08 |  |
+| [Cold \(feat\. CADE\)](https://open.spotify.com/track/6vW6R25Gp5dbXKShm40gfg) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx), [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Long Days Away EP](https://open.spotify.com/album/613TIKn6gw8IGd1CBQUTa9) | 2:38 | 2021-10-08 | 2023-01-26 |
 | [Cold Nights In Hollywood](https://open.spotify.com/track/1xHliQEIEXwJOhUybyTDuU) | [Buppy.](https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4) | [Cold Nights In Hollywood](https://open.spotify.com/album/7hLlvsnvcqqndz975HEord) | 2:55 | 2022-02-25 | 2022-07-29 |
 | [Colorado](https://open.spotify.com/track/3DbBgbnDUOml329rAp2Tbr) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Colorado](https://open.spotify.com/album/7DWz0zPWRlCDt5H4OoG5mN) | 3:26 | 2021-10-23 | 2021-10-30 |
 | [Colorado](https://open.spotify.com/track/4FGl5XDCrkbS4KcvpTIiKK) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Nosebleed](https://open.spotify.com/album/6HmLXytMJEDHb7lOBHdwpF) | 2:53 | 2020-12-13\* | 2021-01-15 |
@@ -666,7 +668,7 @@
 | [Tell Me](https://open.spotify.com/track/7CNlUOUZbaxcyorkQle8o5) | [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff) | [Ghost With Skin](https://open.spotify.com/album/4fHPtUfTxQLSRSh4JqA4uf) | 3:41 | 2021-11-09 | 2022-07-28 |
 | [tell me that you miss me](https://open.spotify.com/track/1YEwBpbhJ8KCNaQTGAL6mM) | [shattered](https://open.spotify.com/artist/1wH7PMsJxKrvUvsahKbLYr) | [tell me that you miss me](https://open.spotify.com/album/1WS73WK52OlAUhGlXv6Woy) | 3:31 | 2021-02-22 | 2021-03-14 |
 | [TELL ME WHY](https://open.spotify.com/track/27BBfeJZBFlZ60Sgx7iOgL) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [TELL ME WHY](https://open.spotify.com/album/145ZuzHW8T9OdfMcCa7yMA) | 3:15 | 2020-12-13\* | 2022-04-18 |
-| [Tell Me Why I'm Waiting](https://open.spotify.com/track/7gu0zaym9C9Kp1va4ZeYXR) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu) | [Tell Me Why I'm Waiting](https://open.spotify.com/album/3XqC5Id2B3Ak8fGawP8NQt) | 2:19 | 2022-07-22 |  |
+| [Tell Me Why I'm Waiting](https://open.spotify.com/track/7gu0zaym9C9Kp1va4ZeYXR) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu) | [Tell Me Why I'm Waiting](https://open.spotify.com/album/3XqC5Id2B3Ak8fGawP8NQt) | 2:19 | 2022-07-22 | 2023-01-26 |
 | [TEN WAYS](https://open.spotify.com/track/1bcxcEySQ2oJ6YWS3gG1Fl) | [Justin Stone](https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk) | [MAYBE NEXT YEAR](https://open.spotify.com/album/03B9SdeuMbbpS9nIBMGeau) | 2:03 | 2022-06-03 | 2022-07-29 |
 | [Tesla Tesla](https://open.spotify.com/track/29ftMN1DouF5BpRJUmtv7K) | [6 Dogs](https://open.spotify.com/artist/3Ps6le7tj5BdNtdnfNgTU4) | [RONALD.](https://open.spotify.com/album/0ZNJ1Bk6Dj5M62qEdoZsCh) | 2:40 | 2021-03-14 | 2021-04-24 |
 | [Test 11](https://open.spotify.com/track/62YozTRFiYMmqXzk1VAeMh) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Test 11](https://open.spotify.com/album/0QviS2yGO4J9lzSdrdQD0W) | 1:55 | 2022-12-09 | 2023-01-21 |

@@ -293,6 +293,32 @@
     },
     {
       "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/7lH4TKCD5FrzmMu8CS4rzd"
+      },
+      "artists": [
+        {
+          "name": "MOMO",
+          "url": "https://open.spotify.com/artist/201LkKsQx7d0xFVRWOV4gQ"
+        },
+        {
+          "name": "SANA",
+          "url": "https://open.spotify.com/artist/4a4zvpQq5Phxr12Pu8Akmm"
+        },
+        {
+          "name": "MINA",
+          "url": "https://open.spotify.com/artist/2zymPkWVcSMIDZbecBNwqB"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264389,
+      "name": "Bouquet",
+      "url": "https://open.spotify.com/track/2dHHrb7PVObPb4YWxGilXZ"
+    },
+    {
+      "album": {
         "name": "BETWEEN 1&2",
         "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
       },

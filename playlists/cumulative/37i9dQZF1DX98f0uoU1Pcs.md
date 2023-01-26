@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: shame
 
-373 songs - 19 hr 57 min
+374 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Rat Beat](https://open.spotify.com/track/5p3Nvx6dNevmaKup80O7si) | [Beach Rats](https://open.spotify.com/artist/7pX2wNFpBvwP9T0wkhAxJD) | [Rat Beat](https://open.spotify.com/album/7kHSFHYGdE5cG7udR5G2YS) | 1:33 | 2022-08-05 | 2022-08-17 |
 | [Renegade](https://open.spotify.com/track/4XvBuksY1YuiQjYpkZL1Oz) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Renegade](https://open.spotify.com/album/605u6tbMKCQfNCcePgnTxL) | 2:01 | 2022-06-17 | 2022-07-29 |
 | [Renegade](https://open.spotify.com/track/5yoZNdTHwgQ71FJeB21wwP) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Renegade](https://open.spotify.com/album/2htluTfqtMMHugQGCIUCgy) | 2:01 | 2022-07-08 | 2022-08-17 |
+| [Ride On](https://open.spotify.com/track/1MEhbR2no3zdS1EuvuCE2E) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Ride On](https://open.spotify.com/album/3X3uvP1QBimhhgz8w7we1Z) | 4:44 | 2023-01-25 |  |
 | [Rip It Up](https://open.spotify.com/track/6INTk2XZ9uQemi6STedkB6) | [Iron Lizards](https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY) | [Hungry for Action](https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC) | 1:43 | 2021-10-07 | 2022-01-08 |
 | [Road](https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 5:18 | 2022-12-09 |  |
 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 | 2022-08-16 |  |

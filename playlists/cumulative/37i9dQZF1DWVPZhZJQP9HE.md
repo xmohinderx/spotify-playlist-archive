@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-317 songs - 18 hr 49 min
+319 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Adiye Kaantha](https://open.spotify.com/track/1fF4euXpLnQDb0cJx04AVC) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0) | [Adiye Kaantha](https://open.spotify.com/album/4rQ2NDh6anTQNnaYOM72Mq) | 3:30 | 2022-05-13 | 2022-07-15 |
 | [Adiye Kovakaari](https://open.spotify.com/track/1cd6y5tZxAskdOsLHrLMHw) | [Ragu Branavan](https://open.spotify.com/artist/6m1vrQWvtpNlq3pJBvkAiF), [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK), [Aathis AK](https://open.spotify.com/artist/2m7FpQ4Kznt7cGjd9hIH01) | [Adiye Kovakaari](https://open.spotify.com/album/66hUlCpK7XHg15xiLhF8OI) | 3:15 | 2022-11-17 |  |
 | [Adiye Pogathe](https://open.spotify.com/track/0u7kiuKFuTkxcXgQq6zpYR) | [Josh Thomas Mathew](https://open.spotify.com/artist/4erTQzNoRB1c7lXlBOmih0), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Anusha Haneef](https://open.spotify.com/artist/0KJR33DdaLKQq8A3h5P9I8) | [Adiye Pogathe](https://open.spotify.com/album/57XcU9En45cCemIeG76UQb) | 3:40 | 2023-01-13 |  |
+| [Adiye Sonali](https://open.spotify.com/track/1wF5Lmm1YHSbLqR4IQjBzY) | [A\. R\. Ameen](https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE) | [Adiye Sonali](https://open.spotify.com/album/17Y3GJG8q0KW5YAoFfhRbt) | 1:00 | 2023-01-25 |  |
 | [Ailasa](https://open.spotify.com/track/3mJ2SqmXIDbn5XECaqN1jj) | [Aathi](https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp), [Yanchan](https://open.spotify.com/artist/2oCMtxRHVtTsqHbnnRWRWQ) | [Maaran Ambu](https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4) | 3:03 | 2022-05-06 |  |
 | [Alien](https://open.spotify.com/track/2SnHeg55mv1Oc0oit4BkpC) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Alien](https://open.spotify.com/album/6iBQPUhx4Ptzg8w0S2PoaG) | 3:41 | 2023-01-05 |  |
 | [Amma Ponnu Rambha \- 1 Min Music](https://open.spotify.com/track/6G7k6xe58N8JefYH5ORnj7) | [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Amma Ponnu Rambha \- 1 Min Music](https://open.spotify.com/album/2rkjcrUFSFPX4YX2ISUCoz) | 0:59 | 2022-06-30 | 2022-07-15 |
@@ -254,6 +255,7 @@
 | [Saarale](https://open.spotify.com/track/0a3MbqRWc3TlqxzEFERJbu) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1) | [Saarale](https://open.spotify.com/album/5u51REoqz9KBLbqBhDcXd9) | 3:56 | 2022-12-07 | 2023-01-11 |
 | [Saaya\-Tamil](https://open.spotify.com/track/6uizpDr1wwR7xQS4Jkw6mm) | [Mithun Eshwar](https://open.spotify.com/artist/65kwHSDhFp1Umu9Vd1pQVv), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Saaya\-Tamil](https://open.spotify.com/album/0NxKRbraH7cPudwyZy5Ika) | 3:59 | 2022-01-17 | 2022-07-16 |
 | [Saayai](https://open.spotify.com/track/640AcZ81A5sJAO4lFB7Kx0) | [Cheran](https://open.spotify.com/artist/12DO0YTSF7rvb0StUlUTU4) | [Saayai](https://open.spotify.com/album/1rAxjPAKFe0hAnS88KSN22) | 4:09 | 2022-05-11 | 2022-07-16 |
+| [Sadugudu Sadugudu](https://open.spotify.com/track/3udIFY3400VmyKmUWteuM5) | [Krishna Kumar](https://open.spotify.com/artist/5tZcEf1A05HXjuROID5h32), [Ajaey Shravan](https://open.spotify.com/artist/3U1ldHA1sIAPz4WfN3yJDW), [Bamba Bakiya](https://open.spotify.com/artist/4nC62crROohMqhekvn3Uoy) | [Sadugudu Sadugudu](https://open.spotify.com/album/3L9YISokNe5HFlEbQRx77a) | 3:40 | 2023-01-25 |  |
 | [Saree Pop](https://open.spotify.com/track/7BpecExcXrWvvgna0gbuSL) | [Daddy Prince](https://open.spotify.com/artist/10w7hLvjbpcCBEE9OmcSa4), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Saree Pop](https://open.spotify.com/album/4n885BClN8wlrtg4NUylyZ) | 2:33 | 2022-04-22 | 2022-12-20 |
 | [Sathiyama](https://open.spotify.com/track/6t7XOZk8Hv07QJOZVHekFv) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA), [Priyashankari](https://open.spotify.com/artist/2uhjPLTC6bHZYvLXsHgrf8) | [Sathiyama](https://open.spotify.com/album/7MRQnV1a5MvQ7PPhymeGxv) | 4:38 | 2021-12-01 |  |
 | [Scene\-U Singaari](https://open.spotify.com/track/7MUFv0xMRBgA0zqgdMaI7A) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3), [Sridhar Sena](https://open.spotify.com/artist/5YSYUHw3olaxG4SZhtCPET), [Bharath K Rajesh](https://open.spotify.com/artist/13n9V5dYM3IMUSIJQp0i45) | [Scene\-U Singaari](https://open.spotify.com/album/0vuhvk9LTtGNPer0oEQh8G) | 3:40 | 2022-01-06 | 2022-07-08 |

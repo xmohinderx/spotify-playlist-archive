@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas. Foto: Nuevo Elemento\n",
-  "num_followers": 8909,
+  "num_followers": 8910,
   "original_name": "La Posada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDUzMiwwMDAwMDAwMGJmZDRkMTUyOWFkOTBjZWU3M2QzNmJmOWIyM2Y3ODMw",
+  "snapshot_id": "MTY3MTczNDUzMiwwMDAwMDAwMDI4NDk3ZmMwN2I2ZDQ0MTViNzNjYTgzMjY2YTVkNGYz",
   "tracks": [
     {
       "added_at": "2022-12-22 18:42:12",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad Rock",
-        "url": "https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 127373,
-      "name": "Navidad Rock",
-      "url": "https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "A Bailar Sabroso Con La Sonora Explosiva",
         "url": "https://open.spotify.com/album/63MOeFmNIvAuhfV8YGpH4e"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 233493,
       "name": "El Viejo del Sombreron",
       "url": "https://open.spotify.com/track/3SUDA3OTL2sRMyTlRuaI4D"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Navidad Rock",
+        "url": "https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 127373,
+      "name": "Navidad Rock",
+      "url": "https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
-        "name": "Navidad Sin Ti",
-        "url": "https://open.spotify.com/album/0xJijA9NXeLfb13qavbFS2"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 199879,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/6JvXDavDKocEvJXRKLDuIm"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
         "name": "Manantial en la Arena",
         "url": "https://open.spotify.com/album/27hp3mqAlbKkVyV7T4f02U"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 239360,
       "name": "Manantial en la Arena",
       "url": "https://open.spotify.com/track/2MMSi1VHFZJPiAvLdjFLtE"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Navidad Sin Ti",
+        "url": "https://open.spotify.com/album/0xJijA9NXeLfb13qavbFS2"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 199879,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/6JvXDavDKocEvJXRKLDuIm"
     },
     {
       "added_at": "2022-12-22 18:42:12",

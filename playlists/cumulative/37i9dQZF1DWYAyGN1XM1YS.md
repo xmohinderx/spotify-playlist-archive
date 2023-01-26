@@ -2,14 +2,14 @@
 
 ### [mEMOries](https://open.spotify.com/playlist/37i9dQZF1DWYAyGN1XM1YS)
 
-> Back to the golden age of emo\. Cover: Thursday
+> Back to the golden age of emo\. Cover: Weezer
 
-63 songs - 4 hr 9 min
+65 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Life of Possibilities](https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:34 | 2021-06-28 |  |
-| [A Lull In Traffic](https://open.spotify.com/track/2HmdQtNJDraTM9JNQCXC0K) | [The Gloria Record](https://open.spotify.com/artist/0gYSiuHXa3SjZA45d6AU0U) | [A Lull In Traffic](https://open.spotify.com/album/3WqgB3H5z4HaHWz9Fs3wo9) | 4:05 | 2021-06-28 |  |
+| [A Lull In Traffic](https://open.spotify.com/track/2HmdQtNJDraTM9JNQCXC0K) | [The Gloria Record](https://open.spotify.com/artist/0gYSiuHXa3SjZA45d6AU0U) | [A Lull In Traffic](https://open.spotify.com/album/3WqgB3H5z4HaHWz9Fs3wo9) | 4:05 | 2021-06-28 | 2023-01-26 |
 | [Accident Prone](https://open.spotify.com/track/2Dqgj2nE6RwZKocWsWqXcG) | [Jawbreaker](https://open.spotify.com/artist/4bcaz6nXnH8LTRiXALe8XV) | [Dear You](https://open.spotify.com/album/7KyQp50wm9lprjaW6UMAkI) | 6:13 | 2021-06-28 |  |
 | [Action & Action](https://open.spotify.com/track/3rNRmQETcPHauTPFqS7z3T) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8) | 4:05 | 2021-06-28 |  |
 | [All These Things](https://open.spotify.com/track/5bDDMJLKJrQLeMj2FpKTXd) | [Benton Falls](https://open.spotify.com/artist/2Gy32a74uxhKUDGuQL57kl) | [Fighting Starlight](https://open.spotify.com/album/3g2zFcP2exTjpyvOncGB9Z) | 5:03 | 2021-06-28 |  |
@@ -30,9 +30,11 @@
 | [For Me This Is Heaven](https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 4:06 | 2021-06-28 |  |
 | [For Want Of](https://open.spotify.com/track/0Ca6zALpIkO7nwSHpT5hSg) | [Rites of Spring](https://open.spotify.com/artist/1FIzwiROYEiAdCClC6Kvly) | [Rites of Spring](https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg) | 3:10 | 2022-06-09 |  |
 | [For Want of](https://open.spotify.com/track/7mZjpi86XWnEBiu8VMR3GI) | [Rites of Spring](https://open.spotify.com/artist/1FIzwiROYEiAdCClC6Kvly) | [Rites of Spring](https://open.spotify.com/album/2xtDqnjyKOuOd3Y9wl3Thx) | 3:10 | 2021-06-28 | 2022-07-29 |
+| [Getchoo](https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 2:52 | 2023-01-25 |  |
 | [Golden Brown](https://open.spotify.com/track/74qgrn0YAo3cgRcH4xQBsA) | [Drive Like Jehu](https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev) | [Yank Crime](https://open.spotify.com/album/7AHbaRIYnilUwe981nZpmi) | 3:14 | 2021-06-28 |  |
 | [Golf Hill Drive](https://open.spotify.com/track/3qAkXCzLSEHiypXxoLhl8K) | [Boys Life](https://open.spotify.com/artist/6pkUxQmEvLkvQRa75wf7Ta) | [Boys Life](https://open.spotify.com/album/6IiDM5sfirROcIXPRXxaUl) | 2:30 | 2021-06-28 |  |
 | [Grace Kelly With Wings](https://open.spotify.com/track/3LTwneFzQwPFSI1O8QfNXf) | [Piebald](https://open.spotify.com/artist/4rOGGTXaYygtFIHsPgLKJv) | [If It Weren’t for Venetian Blinds, It Would Be Curtains for Us All](https://open.spotify.com/album/0VrUE9XpB5OBnvRewc0Aq0) | 5:25 | 2021-06-28 |  |
+| [Grace, The Snow Is Here](https://open.spotify.com/track/2rUZQAHtHdEczOy4SvCZv4) | [The Gloria Record](https://open.spotify.com/artist/0gYSiuHXa3SjZA45d6AU0U) | [The Gloria Record](https://open.spotify.com/album/4xfddyCrChAJ6weLGd7sih) | 4:30 | 2023-01-25 |  |
 | [Half Of Ninety](https://open.spotify.com/track/38Io4HK6GhMKlkzY3IXxS1) | [Pop Unknown](https://open.spotify.com/artist/4CLc2mcJfxXTAFGVHlonB7) | [If Arsenic Fails, Try Algebra](https://open.spotify.com/album/3oP8OX2XPNsI4uBCcrpYgG) | 4:03 | 2021-06-28 |  |
 | [Hope For Us](https://open.spotify.com/track/2bhMvw4ZILdxeEVt9bXHAq) | [The Jealous Sound](https://open.spotify.com/artist/1ggwkSYO7sCaM9sBV4ldYf) | [Kill Them With Kindness \[Deluxe Reissue\]](https://open.spotify.com/album/2xsahntmompiEH4N7QQrWm) | 4:10 | 2021-06-28 |  |
 | [In Circles \- Remastered](https://open.spotify.com/track/5k7RUvywwUAl7Dq6qEXR8c) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(2009 Edition\)](https://open.spotify.com/album/2BpIgyANTKnyMIIRvXOjm2) | 4:58 | 2021-06-28 | 2022-07-29 |
@@ -66,7 +68,7 @@
 | [The Scars to Prove It](https://open.spotify.com/track/1B6gt0Nvi3XmGvGrrdADkm) | [The Jazz June](https://open.spotify.com/artist/71jiZJ6LUwYWXihX80dZD0) | [The Medicine](https://open.spotify.com/album/4EryTp8PVe5XFM9wrIw26m) | 4:04 | 2021-06-28 |  |
 | [This Afternoons Malady](https://open.spotify.com/track/0wHxHYnNvnhjX4f399sjMz) | [Jejune](https://open.spotify.com/artist/0dH7IS6J0rfzfMCyxG8b4V) | [Extreme Music Sampler](https://open.spotify.com/album/4m0GhiaLelgQ44HRnG14ow) | 4:21 | 2021-06-28 |  |
 | [This Time Next Year](https://open.spotify.com/track/3ZfoS2MfHC8aRldwqlknfS) | [The Movielife](https://open.spotify.com/artist/6WuH3nSjp98OqgwnDqYnRK) | [This Time Next Year](https://open.spotify.com/album/18KiEYIQ5jdFSpRzdNET1A) | 2:50 | 2021-06-28 |  |
-| [Tired Of Sex](https://open.spotify.com/track/42hDrA9GTkuvpxjLtAshct) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 3:01 | 2022-12-11 |  |
+| [Tired Of Sex](https://open.spotify.com/track/42hDrA9GTkuvpxjLtAshct) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 3:01 | 2022-12-11 | 2023-01-26 |
 | [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 | 2021-06-28 | 2022-12-12 |
 | [Venus and Bacchus](https://open.spotify.com/track/10G4c1yAJymTIKTvPYP2Pm) | [Saetia](https://open.spotify.com/artist/5piONaqFh85tIjxSQgZuWA) | [Collected](https://open.spotify.com/album/63tBBmuRFk2tTIF4AeffOU) | 3:19 | 2021-06-28 |  |
 | [Woolworm](https://open.spotify.com/track/0dDXMlIEIV8FQ3pVn46H9K) | [Indian Summer](https://open.spotify.com/artist/1qRC7tQ3VepRoC8q0lB9Rf) | [Giving Birth to Thunder](https://open.spotify.com/album/2KTREthEKwlj4qSywE6AKS) | 7:25 | 2021-06-28 | 2022-07-29 |

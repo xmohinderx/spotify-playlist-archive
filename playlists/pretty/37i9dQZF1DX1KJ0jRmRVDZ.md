@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,721 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,824 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 26 | [ココロ、オドルほうで。](https://open.spotify.com/track/3MKxwNgUa4FgU0cKBQSd9W) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [ココロ、オドルほうで。](https://open.spotify.com/album/5ISBD7UVkovU4Hssok3i82) | 3:11 |
 | 27 | [フォニイ](https://open.spotify.com/track/0oFZFuiwadPDnrNp28YY14) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [フォニイ](https://open.spotify.com/album/41q9K98isxPhK198l44E70) | 3:06 |
 | 28 | [ソワレ](https://open.spotify.com/track/7dbAKZNlWhIdmmINkHeKL7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ソワレ](https://open.spotify.com/album/7mLp1yLUJdrWyHWmvCTUCz) | 3:48 |
-| 29 | [Let's Go](https://open.spotify.com/track/696bLWHXd2Cm0rkQhoBIkQ) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Let's Go](https://open.spotify.com/album/0k1ptoYsgjCzVBFDHpu5OU) | 4:12 |
+| 29 | [Luxury Spoon](https://open.spotify.com/track/7K7QoJtb4WAgEHn8lt9ilJ) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Luxury Spoon](https://open.spotify.com/album/1n88YDIWx9tuAL4mykoAVh) | 3:58 |
 | 30 | [海のまにまに](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [海のまにまに](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) | 4:15 |
 | 31 | [LOVE is](https://open.spotify.com/track/2Xrbmkla4NvUgJoubBGkLl) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [LOVE is](https://open.spotify.com/album/4BLLl09Rqmp3EK8Or5a6vn) | 3:26 |
 | 32 | [In the Back Room](https://open.spotify.com/track/086iznqzaVOAmuYMYyjUpn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [In the Back Room](https://open.spotify.com/album/3lr5rhG5M4hTvwQ5RzGLqw) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 |
 | 50 | [ΔV](https://open.spotify.com/track/1IR8aefj56ogEyt5uAZn2y) | [\*Luna](https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA), [Yuaru](https://open.spotify.com/artist/0MJZFhZQwhlhY7I0fRUKRj) | [ΔV](https://open.spotify.com/album/7eo4bZ3CEoBUqwNdQKhCyk) | 4:03 |
 
-Snapshot ID: `MTY3NDE0MDQwMCwwMDAwMDAwMGJkZGNlZDc5MDJmOTJkYmRhZDMxMmQxM2I3YWI3ZDI4`
+Snapshot ID: `MTY3NDYyMDk4NCwwMDAwMDAwMDgzZjMyZmFiOTM0ZjM5NjA3MmI5MGRiNDY1NjZlNTU3`

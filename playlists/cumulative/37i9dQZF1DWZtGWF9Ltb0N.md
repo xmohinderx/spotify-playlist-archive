@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-427 songs - 1 day 8 hr 23 min
+428 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Crystals](https://open.spotify.com/track/7mmElHLJIXL42Z3FE511xs) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj), [Dank Frank](https://open.spotify.com/artist/3aHIls4WqKcj1qxEjThqd2) | [Crystals / Quiet Violence](https://open.spotify.com/album/5jYkfkbg55RuaKrP9Jzfij) | 3:01 | 2022-07-15 |  |
 | [Cup of Peace](https://open.spotify.com/track/6LVqceIyxq92QRPTEi0Jvr) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6), [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [EP 2](https://open.spotify.com/album/42mEguV4uPSTAPj2ayvvrJ) | 3:39 | 2022-02-17 | 2023-01-14 |
 | [Curve](https://open.spotify.com/track/0p3N23LsSinbVbrq5T772Y) | [Binary & Dillard](https://open.spotify.com/artist/6fyE1I0pJZZ6g40OqqQ7d7) | [Deprivation](https://open.spotify.com/album/3mPK1WN02SwwSgBNDM7Cnn) | 5:42 | 2022-02-17 | 2022-07-28 |
-| [Curve](https://open.spotify.com/track/3x8JW1Jn8Epzsd5cG3GCIg) | [Binary & Dillard](https://open.spotify.com/artist/6fyE1I0pJZZ6g40OqqQ7d7) | [Deprivation](https://open.spotify.com/album/7KVw1cFMfu8IKswhtSBjLH) | 5:42 | 2022-07-08 |  |
+| [Curve](https://open.spotify.com/track/3x8JW1Jn8Epzsd5cG3GCIg) | [Binary & Dillard](https://open.spotify.com/artist/6fyE1I0pJZZ6g40OqqQ7d7) | [Deprivation](https://open.spotify.com/album/7KVw1cFMfu8IKswhtSBjLH) | 5:42 | 2022-07-08 | 2023-01-26 |
 | [Dancehall Saga](https://open.spotify.com/track/6UuwkLkMrN0j9ZEGUUzJlZ) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Blackout JA](https://open.spotify.com/artist/6qedJsffelXBfM43VGYuIb) | [Dancehall Saga](https://open.spotify.com/album/6Q20YX0AdE14uL4Ds3n8CN) | 4:41 | 2022-02-17 | 2022-05-15 |
 | [Dark & Light](https://open.spotify.com/track/2z7LlYhVl7wRQOpofN4Vyl) | [Nomine](https://open.spotify.com/artist/7uQ1qwQMMz3quYPqFsDgGS), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Dark & Light](https://open.spotify.com/album/3SmK51kseMMCOUAynejQ2I) | 4:42 | 2022-02-17 | 2022-05-20 |
 | [Dark Arts](https://open.spotify.com/track/1aRx7H81gB0ttPEL0S5F2l) | [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [Dark Arts](https://open.spotify.com/album/2AgncJ8A2KUv9DPQIsR4xc) | 3:39 | 2022-02-17 | 2022-07-30 |
@@ -117,6 +117,7 @@
 | [Enter The Machine](https://open.spotify.com/track/5R4hGpNiUxoDpKx1RLHvzL) | [Pantyraid](https://open.spotify.com/artist/2mdjjabTCK9Xknzl9hakW7) | [The Sauce](https://open.spotify.com/album/2Nw9bUOlJfxIc0gMKtO1yv) | 5:30 | 2022-02-17 |  |
 | [Envy](https://open.spotify.com/track/5C3Ou5adqCoNtsQ9LoC2cQ) | [Kaiju](https://open.spotify.com/artist/4mbZ3bklPWXRNZs35sYdcR), [Ft Jack Gates](https://open.spotify.com/artist/4AW8ZTIPSuHYOPvvUdkn6a) | [Seven Sins](https://open.spotify.com/album/6txOSgBXe10dhZxj8WNT6z) | 4:20 | 2022-02-17 | 2022-07-29 |
 | [Envy \(feat Ft Jack Gates\)](https://open.spotify.com/track/4fPrMSzViWb0G42wrE00Q7) | [Kaiju](https://open.spotify.com/artist/4mbZ3bklPWXRNZs35sYdcR), [Jack Gates](https://open.spotify.com/artist/2qYOYCIhF2RkyWeecvcenN) | [Seven Sins](https://open.spotify.com/album/1raRRApxXT7BxXvKYBUS89) | 4:20 | 2022-07-08 | 2022-07-30 |
+| [Everything We Stand For](https://open.spotify.com/track/15WWkNz6GxqbgDXeji1pop) | [TRG](https://open.spotify.com/artist/2fSp3m7bV2WoRqwoTGuoY5) | [The Sound of Supercharged](https://open.spotify.com/album/38o0dGnmxWaTLYge0qyDXw) | 5:31 | 2023-01-20 |  |
 | [Exodus](https://open.spotify.com/track/2Cb1haGR3iK22y3sARNdv3) | [Gnischrew](https://open.spotify.com/artist/75DC2mqH1RiOJTvTz5Jdde) | [Certified Organic 2, Pt\. 1](https://open.spotify.com/album/1N8AFS7TgkiFo2W119iTkQ) | 4:40 | 2022-02-17 | 2022-07-22 |
 | [Faded](https://open.spotify.com/track/3mjjqgdFp1GyznPsAhS3Q4) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN), [Hyroglifics](https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0) | [Faded / Spear](https://open.spotify.com/album/5uQiS0pSr2O0hPwtzbMEl1) | 4:54 | 2022-02-17 | 2023-01-14 |
 | [Fever](https://open.spotify.com/track/67adVknti3PYlf3nm6A9RT) | [Bentronix](https://open.spotify.com/artist/1eG7iy8cMeHYE0y9pj9x1H) | [The Haze EP](https://open.spotify.com/album/5HuJ8sZ5IvWePFov2dsVnu) | 3:46 | 2022-02-17 | 2022-07-29 |

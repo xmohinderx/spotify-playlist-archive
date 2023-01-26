@@ -1,13 +1,69 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127163,
+  "num_followers": 127161,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzkyNixkNTg3YWZjOWMwNDA2NTc4NDliMzE2NmZiYjM5ZDFjN2NhMjI1NWVh",
+  "snapshot_id": "MzkzNixlZThkNWYxYTg5MDUzNzM2YTNkZTU2ZjVjOGJhMzdiYTkxM2ZlMjVm",
   "tracks": [
+    {
+      "added_at": "2023-01-25 21:22:55",
+      "album": {
+        "name": "ok",
+        "url": "https://open.spotify.com/album/3beDdopYTPW97ZlnjWhBzm"
+      },
+      "artists": [
+        {
+          "name": "Enjac",
+          "url": "https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "ok",
+      "url": "https://open.spotify.com/track/3yDg9UhdWmFlHsaJaN0GRI"
+    },
+    {
+      "added_at": "2023-01-25 21:18:02",
+      "album": {
+        "name": "Calling Us",
+        "url": "https://open.spotify.com/album/6IDx39By9m2pJ62cAAj019"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        },
+        {
+          "name": "David Feldman",
+          "url": "https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "duration_ms": 250476,
+      "name": "Calling Us",
+      "url": "https://open.spotify.com/track/7maTcRghSDNPyXuP9szRiW"
+    },
+    {
+      "added_at": "2023-01-25 21:08:30",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/4wOJa4z6jAGZb1B5kQqxsX"
+      },
+      "artists": [
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        }
+      ],
+      "duration_ms": 273624,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/00tGSmfgNY6uzLgYny6Zcw"
+    },
     {
       "added_at": "2023-01-23 08:32:53",
       "album": {
@@ -1083,54 +1139,6 @@
       "duration_ms": 151111,
       "name": "CODES",
       "url": "https://open.spotify.com/track/7HNsbDFhZhs2qhEjC2W3om"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Garden's Edge",
-        "url": "https://open.spotify.com/album/495RJ4HV475juBo05YQXBh"
-      },
-      "artists": [
-        {
-          "name": "Odsen",
-          "url": "https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "Garden's Edge",
-      "url": "https://open.spotify.com/track/1uuTI3HJbxIB08RwfIzbir"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Garden's Edge",
-        "url": "https://open.spotify.com/album/495RJ4HV475juBo05YQXBh"
-      },
-      "artists": [
-        {
-          "name": "Odsen",
-          "url": "https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Retrospective",
-      "url": "https://open.spotify.com/track/3zzqGcRJJ4YoegJMnLMYnh"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/5PCIiG3MSNN9umYr2Z4SUi"
-      },
-      "artists": [
-        {
-          "name": "Foxela",
-          "url": "https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu"
-        }
-      ],
-      "duration_ms": 163304,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/2YQq8vFPzvA7seaAKNJkdt"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

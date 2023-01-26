@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 209162,
+  "num_followers": 209194,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMGUzYTRjNTYwNTk4YWU5ZWY2MjI4MjcyNzhlYzk0NDk5",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDBlMGNjNDA0ZWE0MmEwOTM0OWU1Y2ZlMTk4M2M4ZmVk",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -139,22 +139,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
-      },
-      "artists": [
-        {
-          "name": "Bar\u00f3n Rojo",
-          "url": "https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "Los Rockeros Van al Infierno",
-      "url": "https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Subkonzziente",
         "url": "https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 234666,
       "name": "M\u00edstica",
       "url": "https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00f3n Rojo",
+          "url": "https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "Los Rockeros Van al Infierno",
+      "url": "https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX"
     },
     {
       "added_at": "2020-10-24 03:38:51",
@@ -575,22 +575,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Satanico-Dramatico",
-        "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
-      },
-      "artists": [
-        {
-          "name": "Dia De Los Muertos",
-          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
-        }
-      ],
-      "duration_ms": 71000,
-      "name": "Sigo Siendo El Rey",
-      "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Basado en Hechos Reales",
         "url": "https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 254748,
       "name": "Cenizas\u202c",
       "url": "https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Satanico-Dramatico",
+        "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
+      },
+      "artists": [
+        {
+          "name": "Dia De Los Muertos",
+          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
+        }
+      ],
+      "duration_ms": 71000,
+      "name": "Sigo Siendo El Rey",
+      "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
     },
     {
       "added_at": "2020-10-24 03:38:51",

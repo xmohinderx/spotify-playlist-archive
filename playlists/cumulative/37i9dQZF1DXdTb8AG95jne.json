@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Jang Soo Bin(\uc7a5\uc218\ube48)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: KARDI(\uce74\ub514)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 219426,
       "name": "#000000",
       "url": "https://open.spotify.com/track/0u3kHLmxNdplGvVKcQLghr"
@@ -1669,6 +1669,28 @@
     },
     {
       "album": {
+        "name": "Pairing",
+        "url": "https://open.spotify.com/album/6A5WZUUzuktHTw1n6M03ya"
+      },
+      "artists": [
+        {
+          "name": "FilmSound",
+          "url": "https://open.spotify.com/artist/0sCvfEmo7OQ1cd2eID60rD"
+        },
+        {
+          "name": "OYEON",
+          "url": "https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/4Umzv0vY5vDuXtYuJQp5Oq"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/0wuCxwXVDmDh52qiBsGa9I"
       },
@@ -1796,7 +1818,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 200357,
       "name": "Dew",
       "url": "https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y"
@@ -3406,7 +3428,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 248600,
       "name": "Hide into Night",
       "url": "https://open.spotify.com/track/1RoGU1kkQRvZfOR4ByJ5rT"
@@ -5117,6 +5139,24 @@
     },
     {
       "album": {
+        "name": "Loving You is Loving Me",
+        "url": "https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG"
+      },
+      "artists": [
+        {
+          "name": "Han Yeoyoo",
+          "url": "https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223258,
+      "name": "Loving You is Loving Me",
+      "url": "https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd"
+    },
+    {
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/56LUm3jvcWdgNeHKrtEjGl"
       },
@@ -5920,7 +5960,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 222457,
       "name": "Night",
       "url": "https://open.spotify.com/track/3SaxQJgFfFeFekLhN7b0Dz"
@@ -5960,6 +6000,24 @@
       "duration_ms": 192000,
       "name": "night drive",
       "url": "https://open.spotify.com/track/0IlkvSocmPVnaVXxQsLs56"
+    },
+    {
+      "album": {
+        "name": "Night Keeper",
+        "url": "https://open.spotify.com/album/1Y6jdkFgLwyGt1CBuEdbgN"
+      },
+      "artists": [
+        {
+          "name": "KARDI",
+          "url": "https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231481,
+      "name": "Night Keeper",
+      "url": "https://open.spotify.com/track/6hOEtej8q58BgHjvFeYohj"
     },
     {
       "album": {
@@ -6374,6 +6432,24 @@
       "duration_ms": 203776,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/2yMc8rJg9XROTMtfaTgHuw"
+    },
+    {
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/53CquI42D8OFUEyphbbnRK"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213866,
+      "name": "Padding Today Over Yesterday",
+      "url": "https://open.spotify.com/track/6LUgl6OWF68pXUOieX4k1Y"
     },
     {
       "album": {
@@ -7379,6 +7455,24 @@
     },
     {
       "album": {
+        "name": "The Hitchhiker's Guide to Time Travel, Pt.1",
+        "url": "https://open.spotify.com/album/50APc4pcbqNcOfsy8QYyvp"
+      },
+      "artists": [
+        {
+          "name": "\ucc30\ub9ac\ube48\uc6cd\uc2a4",
+          "url": "https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "SHINING!",
+      "url": "https://open.spotify.com/track/5puMsDHMS36xxIeWHGY7nX"
+    },
+    {
+      "album": {
         "name": "showtime",
         "url": "https://open.spotify.com/album/7vdRCKCLy1I5jGxyxFD0vl"
       },
@@ -7928,7 +8022,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 234351,
       "name": "Stain",
       "url": "https://open.spotify.com/track/2G1BW0nYmGv6NasnpVl2Hp"
@@ -7990,6 +8084,24 @@
       "duration_ms": 292439,
       "name": "starlight",
       "url": "https://open.spotify.com/track/6PAitd0U0mvJCVJ11xIx4y"
+    },
+    {
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/1BOy3rPbjmkYMRFLTG2fmb"
+      },
+      "artists": [
+        {
+          "name": "Zitten",
+          "url": "https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246529,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/3Fjk6CiT6vSZsAaujFR8zz"
     },
     {
       "album": {
@@ -8474,7 +8586,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 252000,
       "name": "The last stop of our pain",
       "url": "https://open.spotify.com/track/6RIWij0YRX8zZJ9pv9CTbS"
@@ -8868,7 +8980,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 206773,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/6MrjuOlP7stTrxno2dJGs9"
@@ -8890,6 +9002,24 @@
       "duration_ms": 243321,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
+    },
+    {
+      "album": {
+        "name": "Unhappiness",
+        "url": "https://open.spotify.com/album/3eC4GHAWS2In8EyyNphHus"
+      },
+      "artists": [
+        {
+          "name": "Kwon so jeong",
+          "url": "https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252706,
+      "name": "Unhappiness",
+      "url": "https://open.spotify.com/track/3o1Myd7WTxfeK49bRjRmPh"
     },
     {
       "album": {
@@ -9128,6 +9258,24 @@
       "duration_ms": 252448,
       "name": "We must break up now",
       "url": "https://open.spotify.com/track/0EBUUKjPTaZ5NmlmhssRiw"
+    },
+    {
+      "album": {
+        "name": "We Shine at Night",
+        "url": "https://open.spotify.com/album/5cZ58w2i6LfpgP0HN46ca5"
+      },
+      "artists": [
+        {
+          "name": "Parannoul",
+          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387789,
+      "name": "We Shine at Night",
+      "url": "https://open.spotify.com/track/6pkLcIsn5U6yHUHA1VROcY"
     },
     {
       "album": {
@@ -9597,6 +9745,24 @@
     },
     {
       "album": {
+        "name": "MOIM",
+        "url": "https://open.spotify.com/album/2VlR7hshadizStmHBSmoGR"
+      },
+      "artists": [
+        {
+          "name": "MGFF",
+          "url": "https://open.spotify.com/artist/0gnodTptHI3U140iAE7HDl"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202653,
+      "name": "WYA",
+      "url": "https://open.spotify.com/track/0pZ8Y9fgNWVukHGF441xqA"
+    },
+    {
+      "album": {
         "name": "YA,YA \uc57c,\uc57c",
         "url": "https://open.spotify.com/album/2XfaxkhGc0Bpn6TDUR7Vhu"
       },
@@ -10008,7 +10174,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 220500,
       "name": "\ub9c8\ub124\ud0a8 Mannequin",
       "url": "https://open.spotify.com/track/2jZl3rjxP3BcouBIEd4XS2"
@@ -10048,7 +10214,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 217714,
       "name": "\uc0ac\ub791\ud574 \uc918",
       "url": "https://open.spotify.com/track/2iF3jUkKB2dqmKoimhPbCV"

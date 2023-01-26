@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 100162,
       "name": "Don't Try",
       "url": "https://open.spotify.com/track/2TePq5MmzqGyRfFPAL4CgS"
@@ -1288,6 +1288,24 @@
       "duration_ms": 229426,
       "name": "The Way I Feel",
       "url": "https://open.spotify.com/track/5HlZUTzAsbtQLo4VceKjlT"
+    },
+    {
+      "album": {
+        "name": "Medium Gnarly",
+        "url": "https://open.spotify.com/album/79oAFuiihRnGlHXq7f3LAL"
+      },
+      "artists": [
+        {
+          "name": "Swiss Army Wife",
+          "url": "https://open.spotify.com/artist/6oO6omp7KVcpUx8cHov0uI"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95253,
+      "name": "This # Is No Longer in Service",
+      "url": "https://open.spotify.com/track/4Q88FcWu5xTOACoyCvfGwq"
     },
     {
       "album": {

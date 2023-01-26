@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5MdZmcbe8Cd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5MdZmcbe8Cd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5MdZmcbe8Cd)
 
-### [Fuego Mixtape \#032](https://open.spotify.com/playlist/37i9dQZF1DX5MdZmcbe8Cd)
+### [Fuego \#032](https://open.spotify.com/playlist/37i9dQZF1DX5MdZmcbe8Cd)
 
 > Featuring KAROL G, Feid, Quevedo & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 

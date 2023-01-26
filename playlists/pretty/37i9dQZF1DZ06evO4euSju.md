@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 
 > This is Teenage Wrist\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 780 likes - 21 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 781 likes - 21 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 20 | [Squeeze \(Intro\)](https://open.spotify.com/track/1p6itvwkWknExSlH98R8fa) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 1:22 |
 | 21 | [Black Flamingo](https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:58 |
 
-Snapshot ID: `Mjc5MDk3MTQsMDAwMDAwMDBkNDMzNmM2YTgzOTg4ZTZmYTRmMjBiMTVkYzQ4YmZhNg==`
+Snapshot ID: `Mjc5MTA5NzAsMDAwMDAwMDA5YjQzMTE5NzQ5Y2Q1MGRjOTNhMDkwN2IyYTU1MTRiNQ==`

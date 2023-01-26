@@ -2,7 +2,7 @@
 
 ### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
 
-> Best Bollywood dance songs from last 10 years\. Cover\- Ranveer & Deepika
+> Best Bollywood dance songs from last 10 years\. Cover \- Bhediya
 
 168 songs - 10 hr 1 min
 

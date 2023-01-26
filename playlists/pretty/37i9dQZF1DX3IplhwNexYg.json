@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: boygenius",
-  "num_followers": 110923,
+  "num_followers": 110922,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIzODk2NiwwMDAwMDAwMGFiZTU2YTVkMzc0NDA2N2ZiZDE4NTBjZmFmNDRlNjhj",
+  "snapshot_id": "MTY3NDIzODk2NiwwMDAwMDAwMDc1NTdlMTRkZWMyNTJkODNkZmY4M2UyZmQ5ODViZWY3",
   "tracks": [
     {
       "added_at": "2023-01-20 18:22:46",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-01-20 18:22:46",
       "album": {
+        "name": "Waste My Life",
+        "url": "https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Waste My Life",
+      "url": "https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD"
+    },
+    {
+      "added_at": "2023-01-20 18:22:46",
+      "album": {
         "name": "Borderline Insane",
         "url": "https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB"
       },
@@ -427,18 +443,18 @@
     {
       "added_at": "2023-01-20 18:22:46",
       "album": {
-        "name": "Waste My Life",
-        "url": "https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG"
+        "name": "Six-Pack",
+        "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
       },
       "artists": [
         {
-          "name": "Alice Merton",
-          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 160853,
-      "name": "Waste My Life",
-      "url": "https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD"
+      "duration_ms": 231968,
+      "name": "Six-Pack",
+      "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
     },
     {
       "added_at": "2023-01-20 18:22:46",
@@ -471,22 +487,6 @@
       "duration_ms": 184333,
       "name": "Everybody's Saying Thursday's The Weekend",
       "url": "https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv"
-    },
-    {
-      "added_at": "2023-01-20 18:22:46",
-      "album": {
-        "name": "Six-Pack",
-        "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 231968,
-      "name": "Six-Pack",
-      "url": "https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge"
     },
     {
       "added_at": "2023-01-20 18:22:46",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-01-20 18:22:46",
       "album": {
-        "name": "I Wanna Dance With You",
-        "url": "https://open.spotify.com/album/7f92wNnQO3sQ3SE3ARVZkA"
+        "name": "Fingers of Steel",
+        "url": "https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 174761,
-      "name": "I Wanna Dance With You",
-      "url": "https://open.spotify.com/track/2dqMoMjBQmhm8UWBmTuPbr"
+      "duration_ms": 261384,
+      "name": "Fingers of Steel",
+      "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
     },
     {
       "added_at": "2023-01-20 18:22:46",
@@ -583,6 +583,22 @@
       "duration_ms": 262346,
       "name": "Time",
       "url": "https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1"
+    },
+    {
+      "added_at": "2023-01-20 18:22:46",
+      "album": {
+        "name": "I Wanna Dance With You",
+        "url": "https://open.spotify.com/album/7f92wNnQO3sQ3SE3ARVZkA"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 174761,
+      "name": "I Wanna Dance With You",
+      "url": "https://open.spotify.com/track/2dqMoMjBQmhm8UWBmTuPbr"
     },
     {
       "added_at": "2023-01-20 18:22:46",
@@ -631,22 +647,6 @@
       "duration_ms": 325888,
       "name": "No Rule",
       "url": "https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV"
-    },
-    {
-      "added_at": "2023-01-20 18:22:46",
-      "album": {
-        "name": "Fingers of Steel",
-        "url": "https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 261384,
-      "name": "Fingers of Steel",
-      "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
     },
     {
       "added_at": "2023-01-20 18:22:46",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-01-20 18:22:46",
       "album": {
+        "name": "Dress",
+        "url": "https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 206921,
+      "name": "Dress",
+      "url": "https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP"
+    },
+    {
+      "added_at": "2023-01-20 18:22:46",
+      "album": {
         "name": "PRE PLEASURE",
         "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2023-01-20 18:22:46",
       "album": {
-        "name": "Dress",
-        "url": "https://open.spotify.com/album/1XwMDs9UWnVkPVx4KVuYys"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 206921,
-      "name": "Dress",
-      "url": "https://open.spotify.com/track/1W5VCQ2rBjMBc1ePhXLReP"
-    },
-    {
-      "added_at": "2023-01-20 18:22:46",
-      "album": {
         "name": "Wiggy",
         "url": "https://open.spotify.com/album/7I2nm8uXW9PjIW4EICNb22"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 215526,
       "name": "Wiggy",
       "url": "https://open.spotify.com/track/6rydH51WZy57dxUBdHyUU1"
+    },
+    {
+      "added_at": "2023-01-20 18:22:46",
+      "album": {
+        "name": "My Very Best",
+        "url": "https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6"
+      },
+      "artists": [
+        {
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "My Very Best",
+      "url": "https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN"
     },
     {
       "added_at": "2023-01-20 18:22:46",
@@ -879,22 +895,6 @@
     {
       "added_at": "2023-01-20 18:22:46",
       "album": {
-        "name": "Break!",
-        "url": "https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Thick of the Honey",
-      "url": "https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA"
-    },
-    {
-      "added_at": "2023-01-20 18:22:46",
-      "album": {
         "name": "Say It Now",
         "url": "https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V"
       },
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-01-20 18:22:46",
       "album": {
-        "name": "My Very Best",
-        "url": "https://open.spotify.com/album/7Iwsrk4q7oW0kYXWXwOpK6"
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/1XQrWdT6FRcEUR3Ad4VVyw"
       },
       "artists": [
         {
-          "name": "The Academic",
-          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
         }
       ],
-      "duration_ms": 197333,
-      "name": "My Very Best",
-      "url": "https://open.spotify.com/track/5mKhfuj8pEPFDUwnStFHKN"
+      "duration_ms": 137000,
+      "name": "Thick of the Honey",
+      "url": "https://open.spotify.com/track/4qCRly5SZfgssIRtDoGYnA"
     },
     {
       "added_at": "2023-01-20 18:22:46",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-01-20 18:22:46",
       "album": {
+        "name": "Miss Power",
+        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 137840,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
+    },
+    {
+      "added_at": "2023-01-20 18:22:46",
+      "album": {
         "name": "Young & Naive",
         "url": "https://open.spotify.com/album/1TxGtjJWDD0k1WZPHmnNMJ"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2023-01-20 18:22:46",
       "album": {
-        "name": "Miss Power",
-        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
+        "name": "Nose",
+        "url": "https://open.spotify.com/album/5p4sXCeDxa2UjT7ChfUitJ"
       },
       "artists": [
         {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+          "name": "Sl\u00f8tface",
+          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
         }
       ],
-      "duration_ms": 137840,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
+      "duration_ms": 202000,
+      "name": "Nose",
+      "url": "https://open.spotify.com/track/24pTdId1OUK4ybjDtfp9jO"
     },
     {
       "added_at": "2023-01-20 18:22:46",
@@ -1019,22 +1035,6 @@
       "duration_ms": 269409,
       "name": "Ethel",
       "url": "https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv"
-    },
-    {
-      "added_at": "2023-01-20 18:22:46",
-      "album": {
-        "name": "Nose",
-        "url": "https://open.spotify.com/album/5p4sXCeDxa2UjT7ChfUitJ"
-      },
-      "artists": [
-        {
-          "name": "Sl\u00f8tface",
-          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Nose",
-      "url": "https://open.spotify.com/track/24pTdId1OUK4ybjDtfp9jO"
     },
     {
       "added_at": "2023-01-20 18:22:46",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-01-20 18:22:46",
       "album": {
-        "name": "Guitar Music",
-        "url": "https://open.spotify.com/album/6aYwIBompOG7x0c2BukbgI"
-      },
-      "artists": [
-        {
-          "name": "Courting",
-          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
-        }
-      ],
-      "duration_ms": 199328,
-      "name": "Famous",
-      "url": "https://open.spotify.com/track/5yqJYw5xgVn46fc0IZ55Mz"
-    },
-    {
-      "added_at": "2023-01-20 18:22:46",
-      "album": {
         "name": "Blu Shirt Boy",
         "url": "https://open.spotify.com/album/05VXMRVwjCX9ML4llr0AJa"
       },
@@ -1115,6 +1099,54 @@
       "duration_ms": 223703,
       "name": "Blu Shirt Boy",
       "url": "https://open.spotify.com/track/1BdT5rKfpJtJ2t9hlPsgB3"
+    },
+    {
+      "added_at": "2023-01-20 18:22:46",
+      "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie"
+      },
+      "artists": [
+        {
+          "name": "Sl\u00f8tface",
+          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
+        }
+      ],
+      "duration_ms": 147378,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC"
+    },
+    {
+      "added_at": "2023-01-20 18:22:46",
+      "album": {
+        "name": "Neighbours",
+        "url": "https://open.spotify.com/album/3udbFrx4tlFGwZEh4CK3HX"
+      },
+      "artists": [
+        {
+          "name": "King No-One",
+          "url": "https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB"
+        }
+      ],
+      "duration_ms": 171010,
+      "name": "Neighbours",
+      "url": "https://open.spotify.com/track/6PpGAVANQ6CZ5OSIwA3oBj"
+    },
+    {
+      "added_at": "2023-01-20 18:22:46",
+      "album": {
+        "name": "Guitar Music",
+        "url": "https://open.spotify.com/album/6aYwIBompOG7x0c2BukbgI"
+      },
+      "artists": [
+        {
+          "name": "Courting",
+          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
+        }
+      ],
+      "duration_ms": 199328,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/5yqJYw5xgVn46fc0IZ55Mz"
     },
     {
       "added_at": "2023-01-20 18:22:46",
@@ -1151,22 +1183,6 @@
     {
       "added_at": "2023-01-20 18:22:46",
       "album": {
-        "name": "Neighbours",
-        "url": "https://open.spotify.com/album/3udbFrx4tlFGwZEh4CK3HX"
-      },
-      "artists": [
-        {
-          "name": "King No-One",
-          "url": "https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB"
-        }
-      ],
-      "duration_ms": 171010,
-      "name": "Neighbours",
-      "url": "https://open.spotify.com/track/6PpGAVANQ6CZ5OSIwA3oBj"
-    },
-    {
-      "added_at": "2023-01-20 18:22:46",
-      "album": {
         "name": "Only Good Things",
         "url": "https://open.spotify.com/album/0BpLn2166vvfF8ZTU8igCt"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2023-01-20 18:22:46",
       "album": {
-        "name": "HAPPY",
-        "url": "https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie"
+        "name": "how would you know",
+        "url": "https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr"
       },
       "artists": [
         {
-          "name": "Sl\u00f8tface",
-          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
+          "name": "second thoughts",
+          "url": "https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX"
         }
       ],
-      "duration_ms": 147378,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC"
+      "duration_ms": 177173,
+      "name": "how would you know",
+      "url": "https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy"
     },
     {
       "added_at": "2023-01-20 18:22:46",
@@ -1211,22 +1227,6 @@
       "duration_ms": 143322,
       "name": "Anything",
       "url": "https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq"
-    },
-    {
-      "added_at": "2023-01-20 18:22:46",
-      "album": {
-        "name": "how would you know",
-        "url": "https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr"
-      },
-      "artists": [
-        {
-          "name": "second thoughts",
-          "url": "https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX"
-        }
-      ],
-      "duration_ms": 177173,
-      "name": "how would you know",
-      "url": "https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy"
     },
     {
       "added_at": "2023-01-20 18:22:46",

@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 43757,
+  "num_followers": 43761,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDQ1MjRiNGVmYWZhNzFjZDU3ZGFiMjA4NTlkN2U0OGNh",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDRhMzdiZTc2YTg2Njc4NGUxMzRlZmMyYzE3NjM2YjU0",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -175,6 +175,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "New Song (Psalm 40)",
+        "url": "https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY"
+      },
+      "artists": [
+        {
+          "name": "The Dodds",
+          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
+        }
+      ],
+      "duration_ms": 254787,
+      "name": "New Song (Psalm 40)",
+      "url": "https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Burn Out",
         "url": "https://open.spotify.com/album/2cj6CrCchettlCriBNPSkr"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 263722,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/2GUvFoJipxwxQI6pvpHXDC"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "New Song (Psalm 40)",
-        "url": "https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY"
-      },
-      "artists": [
-        {
-          "name": "The Dodds",
-          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
-        }
-      ],
-      "duration_ms": 254787,
-      "name": "New Song (Psalm 40)",
-      "url": "https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Light & Bloom",
-        "url": "https://open.spotify.com/album/4S7E5dHzSSmm6CUyBDzk8s"
-      },
-      "artists": [
-        {
-          "name": "Holly Ann",
-          "url": "https://open.spotify.com/artist/5EyO92HtVsLJWvGclcp0QK"
-        }
-      ],
-      "duration_ms": 243268,
-      "name": "Lion's Den",
-      "url": "https://open.spotify.com/track/3qj7vqWw7N42NFRzvIBrtY"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Island",
         "url": "https://open.spotify.com/album/6xYY34SDgAPg308e965q0H"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 274293,
       "name": "Island",
       "url": "https://open.spotify.com/track/5NdT1Y1GqV1aNjhbOcomoO"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Light & Bloom",
+        "url": "https://open.spotify.com/album/4S7E5dHzSSmm6CUyBDzk8s"
+      },
+      "artists": [
+        {
+          "name": "Holly Ann",
+          "url": "https://open.spotify.com/artist/5EyO92HtVsLJWvGclcp0QK"
+        }
+      ],
+      "duration_ms": 243268,
+      "name": "Lion's Den",
+      "url": "https://open.spotify.com/track/3qj7vqWw7N42NFRzvIBrtY"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -767,18 +767,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/2Xdjo93noCuAF0Ev1yukt3"
+        "name": "Keeper of Days",
+        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
       },
       "artists": [
         {
-          "name": "Savannah Locke",
-          "url": "https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb"
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 292138,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/6o0LrwkjkSwN2LFxKknOmY"
+      "duration_ms": 244270,
+      "name": "Hiding Lord",
+      "url": "https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -799,18 +799,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Keeper of Days",
-        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/2Xdjo93noCuAF0Ev1yukt3"
       },
       "artists": [
         {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+          "name": "Savannah Locke",
+          "url": "https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb"
         }
       ],
-      "duration_ms": 244270,
-      "name": "Hiding Lord",
-      "url": "https://open.spotify.com/track/742fiVYKoENoZUaGtA8TMw"
+      "duration_ms": 292138,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6o0LrwkjkSwN2LFxKknOmY"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -883,6 +883,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
+      },
+      "artists": [
+        {
+          "name": "Angelique Marketon",
+          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
+        }
+      ],
+      "duration_ms": 312789,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Everything Is Possible",
         "url": "https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ"
-      },
-      "artists": [
-        {
-          "name": "Angelique Marketon",
-          "url": "https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA"
-        }
-      ],
-      "duration_ms": 312789,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Wendigo",
         "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "A New Heart",
-        "url": "https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG"
-      },
-      "artists": [
-        {
-          "name": "Cory Emery",
-          "url": "https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so"
-        }
-      ],
-      "duration_ms": 197462,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Take All of Me",
         "url": "https://open.spotify.com/album/5HQj9QFkG10YJWHU70N2jr"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 232506,
       "name": "Take All of Me",
       "url": "https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "A New Heart",
+        "url": "https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG"
+      },
+      "artists": [
+        {
+          "name": "Cory Emery",
+          "url": "https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so"
+        }
+      ],
+      "duration_ms": 197462,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu"
     },
     {
       "added_at": "2020-12-18 06:02:14",

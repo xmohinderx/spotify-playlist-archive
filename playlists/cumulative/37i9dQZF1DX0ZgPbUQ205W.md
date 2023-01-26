@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-268 songs - 19 hr 50 min
+269 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [E Major](https://open.spotify.com/track/29r9wYypw9RMXhapUNJsN5) | [Trio Ramberget](https://open.spotify.com/artist/6OvGm5sTZ04mRQu9eZ3yOJ) | [E Major](https://open.spotify.com/album/7luqhnYe3D7R544KbvOjaX) | 5:40 | 2022-02-17 | 2022-05-31 |
 | [El Suelo Mio](https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t) | [Jorge Roeder](https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x) | [El Suelo Mio](https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4) | 3:29 | 2021-12-17 | 2022-09-09 |
 | [Eliasong](https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [A Year From Easter](https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0) | 3:24 | 2021-12-17 | 2022-11-11 |
-| [Elisian/Inutil Paisagem](https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX) | [Michel Benita](https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR), [Matthieu Michel](https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r), [Jozef Dumoulin](https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd), [Philippe Garcia](https://open.spotify.com/artist/6PmHbKUXAKXNubgs1MnNbg) | [Elisian/Inutil Paisagem](https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs) | 4:56 | 2021-12-17 |  |
+| [Elisian/Inutil Paisagem](https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX) | [Michel Benita](https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR), [Matthieu Michel](https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r), [Jozef Dumoulin](https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd), [Philippe Garcia](https://open.spotify.com/artist/6PmHbKUXAKXNubgs1MnNbg) | [Elisian/Inutil Paisagem](https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs) | 4:56 | 2021-12-17 | 2023-01-26 |
 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 | 2022-12-01 |  |
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-11-17 |  |
 | [Fear Not, Zechariah](https://open.spotify.com/track/7F2LDxjeZkyyJCog1Fwvx0) | [Tomas Raae](https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL) | [His Name Is John](https://open.spotify.com/album/3UdnxBLoBqAiaZSqtVv0gN) | 9:07 | 2022-06-29 | 2022-11-27 |
@@ -149,6 +149,7 @@
 | [Morning Moon](https://open.spotify.com/track/4b1cZXkFtOdpZnyU0GfZWm) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Morning Moon](https://open.spotify.com/album/3n781Nd8Ff9001PJNWTuUq) | 5:52 | 2022-03-03 | 2022-11-13 |
 | [Morning Song](https://open.spotify.com/track/29GCaqKf8MDuv6FPeLYD6W) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Uma Elmo](https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts) | 6:55 | 2021-12-17 | 2022-12-04 |
 | [motives](https://open.spotify.com/track/5Uexo5FnxDGXPV9v92y00W) | [praam](https://open.spotify.com/artist/6cumWjeQABBu9dCqRV4wOP), [Eric Vloeimans](https://open.spotify.com/artist/0GJnVOotvnAmZvUYL8Kpmx) | [motives](https://open.spotify.com/album/09YRRKJN5WAhr3KgivvcdW) | 2:22 | 2022-03-31 | 2022-11-11 |
+| [Mysterious Stranger](https://open.spotify.com/track/5NBmnHqnUz4fOn3e1hHIaI) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Mysterious Stranger](https://open.spotify.com/album/6R7K535bnjXQy4DYE9VYnI) | 4:00 | 2023-01-19 |  |
 | [Mógrá](https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8) | [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5), [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh) | [Án tillits](https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi) | 2:32 | 2021-12-17 | 2022-12-30 |
 | [Naima](https://open.spotify.com/track/6N1c9EHlOMHdQ55hmHkhDq) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Naima](https://open.spotify.com/album/2sSS9Mxw73wnpilrkA4mdJ) | 3:10 | 2022-11-17 |  |
 | [Never Ending January](https://open.spotify.com/track/4L10SBstHivQvkGiPu4FHX) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [Never Ending January](https://open.spotify.com/album/1VY0hkSejVXZ8VDZkMqmSs) | 4:20 | 2022-09-15 | 2022-11-11 |

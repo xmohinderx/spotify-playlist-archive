@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Gary Clark Jr.",
-  "num_followers": 139726,
+  "num_followers": 139775,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMGZlODA2MjJkYTQyYmUxZTFiNjliNDJiYmE3Y2M3MGQ5",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDIyZTkxNmRjNjdjYjgyMzRjODU4ZTM2Njc2NzE1NTQ0",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "Spirit's Furnace",
-        "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 194331,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
         "name": "Look Alive",
         "url": "https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 225053,
       "name": "Pick Your Poison",
       "url": "https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Spirit's Furnace",
+        "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 194331,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP"
     },
     {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "Bones Owens",
-        "url": "https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG"
-      },
-      "artists": [
-        {
-          "name": "Bones Owens",
-          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
-        }
-      ],
-      "duration_ms": 197782,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "John The Conqueror",
@@ -607,6 +591,22 @@
       "duration_ms": 229720,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
+    },
+    {
+      "added_at": "2021-02-26 05:01:00",
+      "album": {
+        "name": "Bones Owens",
+        "url": "https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG"
+      },
+      "artists": [
+        {
+          "name": "Bones Owens",
+          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
+        }
+      ],
+      "duration_ms": 197782,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf"
     },
     {
       "added_at": "2022-11-18 05:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "Love Like Machines",
-        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Eyes",
-          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
-        }
-      ],
-      "duration_ms": 169781,
-      "name": "God Damn Wolf Man",
-      "url": "https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
         "name": "Truth And Lies",
         "url": "https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 206173,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
+        }
+      ],
+      "duration_ms": 169781,
+      "name": "God Damn Wolf Man",
+      "url": "https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU"
     },
     {
       "added_at": "2021-03-05 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 285306,
+  "num_followers": 285441,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYwNzk0NiwwMDAwMDAwMGNmOTcxYzAzMTk5ODczZTFlZGZjMWZiODIxMmRiYjkw",
+  "snapshot_id": "MTY3MzYwNzk0NiwwMDAwMDAwMGFiMDY4OTU2YjVjOWY1NDlmNzgwMzJhZWI0ZGVmZDU5",
   "tracks": [
     {
       "added_at": "2023-01-13 11:05:46",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-01-13 11:05:46",
       "album": {
+        "name": "Get Up Off The Floor",
+        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
+      },
+      "artists": [
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Get Up Off The Floor",
+      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
+    },
+    {
+      "added_at": "2023-01-13 11:05:46",
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/6fN9aKsrArw37XP4Wdiiw6"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 156000,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2kfZCiSWhAYKdxD7o7WLoa"
-    },
-    {
-      "added_at": "2023-01-13 11:05:46",
-      "album": {
-        "name": "Get Up Off The Floor",
-        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
-      },
-      "artists": [
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Get Up Off The Floor",
-      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
     },
     {
       "added_at": "2023-01-13 11:05:46",
@@ -211,6 +211,26 @@
     {
       "added_at": "2023-01-13 11:05:46",
       "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+        }
+      ],
+      "duration_ms": 160849,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
+    },
+    {
+      "added_at": "2023-01-13 11:05:46",
+      "album": {
         "name": "Slap House Party",
         "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 161000,
       "name": "Boots",
       "url": "https://open.spotify.com/track/0i9adAf1xiL0EbOcog6rEo"
-    },
-    {
-      "added_at": "2023-01-13 11:05:46",
-      "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
-        }
-      ],
-      "duration_ms": 160849,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
     },
     {
       "added_at": "2023-01-13 11:05:46",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-01-13 11:05:46",
       "album": {
-        "name": "I'm Okay",
-        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "OBS",
-          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
-        }
-      ],
-      "duration_ms": 151723,
-      "name": "I'm Okay",
-      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
-    },
-    {
-      "added_at": "2023-01-13 11:05:46",
-      "album": {
         "name": "Party All The Time",
         "url": "https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 134544,
       "name": "Party All The Time",
       "url": "https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK"
+    },
+    {
+      "added_at": "2023-01-13 11:05:46",
+      "album": {
+        "name": "I'm Okay",
+        "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        }
+      ],
+      "duration_ms": 151723,
+      "name": "I'm Okay",
+      "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
     },
     {
       "added_at": "2023-01-13 11:05:46",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-01-13 11:05:46",
       "album": {
-        "name": "Twinkle Twinkle",
-        "url": "https://open.spotify.com/album/06LkBMhuqiHBQKr72PjONc"
-      },
-      "artists": [
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 189543,
-      "name": "Twinkle Twinkle",
-      "url": "https://open.spotify.com/track/7oIN5Dc6kaetarZgBvII8H"
-    },
-    {
-      "added_at": "2023-01-13 11:05:46",
-      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 202333,
       "name": "Poison",
       "url": "https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU"
+    },
+    {
+      "added_at": "2023-01-13 11:05:46",
+      "album": {
+        "name": "Twinkle Twinkle",
+        "url": "https://open.spotify.com/album/06LkBMhuqiHBQKr72PjONc"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 189543,
+      "name": "Twinkle Twinkle",
+      "url": "https://open.spotify.com/track/7oIN5Dc6kaetarZgBvII8H"
     },
     {
       "added_at": "2023-01-13 11:05:46",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2023-01-13 11:05:46",
       "album": {
-        "name": "Little Do You Know",
-        "url": "https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8"
-      },
-      "artists": [
-        {
-          "name": "Mike Gudmann",
-          "url": "https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s"
-        },
-        {
-          "name": "Crystal Rock",
-          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
-        },
-        {
-          "name": "Rotciv & Revilo",
-          "url": "https://open.spotify.com/artist/4aA5K4qnL9Z3hD2rWJrjJW"
-        }
-      ],
-      "duration_ms": 194091,
-      "name": "Little Do You Know",
-      "url": "https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb"
-    },
-    {
-      "added_at": "2023-01-13 11:05:46",
-      "album": {
         "name": "Princess",
         "url": "https://open.spotify.com/album/0uL1LBlgAw2bbOOzkSGyFK"
       },
@@ -1151,6 +1127,30 @@
       "duration_ms": 143266,
       "name": "Princess",
       "url": "https://open.spotify.com/track/74CKJFSNNqnRFtPDzANljK"
+    },
+    {
+      "added_at": "2023-01-13 11:05:46",
+      "album": {
+        "name": "Little Do You Know",
+        "url": "https://open.spotify.com/album/57L2J0YLAxDo0uRYeLPab8"
+      },
+      "artists": [
+        {
+          "name": "Mike Gudmann",
+          "url": "https://open.spotify.com/artist/5tF4j2R7iNOIFdmpmEsn3s"
+        },
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Rotciv & Revilo",
+          "url": "https://open.spotify.com/artist/4aA5K4qnL9Z3hD2rWJrjJW"
+        }
+      ],
+      "duration_ms": 194091,
+      "name": "Little Do You Know",
+      "url": "https://open.spotify.com/track/686AkgCXl1Mteuvdf9snKb"
     },
     {
       "added_at": "2023-01-13 11:05:46",

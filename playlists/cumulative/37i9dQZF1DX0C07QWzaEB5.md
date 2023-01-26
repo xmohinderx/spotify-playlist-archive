@@ -4,7 +4,7 @@
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-161 songs - 9 hr 32 min
+163 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cloud \(Feat\. CHOA\)](https://open.spotify.com/track/04VgNw25TChhONXFvgmU2g) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [ChoA](https://open.spotify.com/artist/4Nw7hgyeIEP5w5ehrMNKpq) | [Boxtape](https://open.spotify.com/album/2YGfI3w6hh0FnjLVd62XAj) | 4:01 | 2021-12-07 |  |
 | [CRAZY HAZY](https://open.spotify.com/track/1sPmQ0sCoM0jUOKX1qkIl0) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [CRAZY HAZY](https://open.spotify.com/album/4xbzcf5etib5p4B6vdJs9G) | 3:28 | 2022-08-19 |  |
 | [Crazy like feather](https://open.spotify.com/track/4ORTthTsQPhRAUFv5AyS0w) | [LAZZI](https://open.spotify.com/artist/0XvN5CmgsUcJFEcKPr1dro) | [Crazy like feather](https://open.spotify.com/album/6LVmGqpEpyliyUqoE1QryK) | 3:25 | 2022-08-09 |  |
+| [Dawn](https://open.spotify.com/track/4Umzv0vY5vDuXtYuJQp5Oq) | [FilmSound](https://open.spotify.com/artist/0sCvfEmo7OQ1cd2eID60rD), [OYEON](https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9) | [Pairing](https://open.spotify.com/album/6A5WZUUzuktHTw1n6M03ya) | 3:22 | 2023-01-25 |  |
 | [Day By Day](https://open.spotify.com/track/4bQZGykn0AYH8DlJGGuSIV) | [Yang Joon Il](https://open.spotify.com/artist/5KGCAzSGrssZtgJ4scOzji) | [Day By Day](https://open.spotify.com/album/5DuujOzUKZmrrlHEFeacts) | 3:57 | 2021-12-07 |  |
 | [Delete](https://open.spotify.com/track/57cb34V8SkdHvKZuwOtQ2W) | [KOYOTE](https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR), [LINDA.G](https://open.spotify.com/artist/0LYQpXDY8mPnFOvyiJGMqh) | [KOYOTE X Linda G](https://open.spotify.com/album/4c7R5QQbHXU9YKBJs88KAb) | 3:21 | 2021-12-07 | 2022-07-29 |
 | [Delete](https://open.spotify.com/track/6bVTOUv9MBe5SzMHJylPIF) | [KOYOTE](https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR), [LINDA.G](https://open.spotify.com/artist/0LYQpXDY8mPnFOvyiJGMqh) | [KOYOTE X Linda G](https://open.spotify.com/album/6pknEhEshVxmrBbm0CB6GF) | 3:21 | 2022-07-04 |  |
@@ -71,6 +72,7 @@
 | [M.S.G](https://open.spotify.com/track/6l0xT6yXKBZlBVgAiZ9ASj) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/0HE72sbB60jNbuteGzaeTv) | 3:05 | 2021-12-07 | 2022-07-29 |
 | [M.S.G](https://open.spotify.com/track/6uhpjOPtVv8kkPtSPeDJqB) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/2GgEeiYUeDvspIUSdi8fdu) | 3:05 | 2022-07-04 |  |
 | [MBTI \(with PARKMOONCHI UNIVERSE\)](https://open.spotify.com/track/4EDs1R8JOI6nkCbarCsITs) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [PARKMOONCHI UNIVERSE](https://open.spotify.com/artist/4MifTc2uigW2QDJODF2Erk) | [We're Cool \(with PARKMOONCHI UNIVERSE\)](https://open.spotify.com/album/6DPxcUrUw0YZ2o25nJ47D7) | 4:13 | 2021-12-07 |  |
+| [Michael Jackson \(Dance Ver.\)](https://open.spotify.com/track/2g3umQsrOCBk3mSKafF8Sd) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Michael Jackson](https://open.spotify.com/album/3XHOJvbNjgu8CFE2kd5hKg) | 2:54 | 2023-01-25 |  |
 | [Midnight \(1988 Remix\)](https://open.spotify.com/track/6zKpynDvNISzYJBCYmOXOw) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:06 | 2021-12-07 |  |
 | [Morning \- Remastered](https://open.spotify.com/track/5aVVQgZ3Xf0uMVj4uqx6p8) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Animation](https://open.spotify.com/album/678QsdsjapDnh9N9iCeFyp) | 4:25 | 2021-12-07 |  |
 | [My Boo](https://open.spotify.com/track/4cB0Thf0cm4IxuvzXOKcgM) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh) | [My Boo](https://open.spotify.com/album/2xBnpqu1Ezb2oOAUCCS4HS) | 3:51 | 2021-12-07 |  |

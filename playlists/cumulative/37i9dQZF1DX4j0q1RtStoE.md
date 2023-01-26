@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4j0q1RtStoE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4j0q1RtStoE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4j0q1RtStoE)
 
-### [Fuego Mixtape \#030](https://open.spotify.com/playlist/37i9dQZF1DX4j0q1RtStoE)
+### [Fuego \#030](https://open.spotify.com/playlist/37i9dQZF1DX4j0q1RtStoE)
 
 > Featuring Arcángel, Alvaro Diaz, KAROL G & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 

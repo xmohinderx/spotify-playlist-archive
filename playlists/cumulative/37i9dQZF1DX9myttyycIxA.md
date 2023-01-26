@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Miss Grit
 
-784 songs - 1 day 20 hr 52 min
+785 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Congratulations](https://open.spotify.com/track/1n9gX9HJTDeCLRCFt2M5Ca) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Congratulations](https://open.spotify.com/album/3WXMPPA3rK0qUqqg8CmUOf) | 2:57 | 2022-03-04 | 2022-03-18 |
 | [Consequences](https://open.spotify.com/track/4ivH644trNJe9wyi0OmHuw) | [Kate Davis](https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco) | [Consequences](https://open.spotify.com/album/11am3mDeSxGDV8rrGpJwVP) | 3:45 | 2022-11-17 | 2022-12-15 |
 | [Contingency Song](https://open.spotify.com/track/1P9hAqqF31tXHr58dwv860) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Contingency Song](https://open.spotify.com/album/2Vlh2FhevwagFT6TICYYmU) | 6:31 | 2022-11-17 |  |
-| [control](https://open.spotify.com/track/6PIt7eaIbQz0ftAipJ9STj) | [Crooks & Nannies](https://open.spotify.com/artist/2v081HF22KJUbNXmXPKTdk) | [control](https://open.spotify.com/album/0alWvDgpvmJ8vZ19a7JZru) | 2:56 | 2023-01-13 |  |
+| [control](https://open.spotify.com/track/6PIt7eaIbQz0ftAipJ9STj) | [Crooks & Nannies](https://open.spotify.com/artist/2v081HF22KJUbNXmXPKTdk) | [control](https://open.spotify.com/album/0alWvDgpvmJ8vZ19a7JZru) | 2:56 | 2023-01-13 | 2023-01-26 |
 | [Control Theory](https://open.spotify.com/track/5Kre0cCwtaS43DCuq7VOd3) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [Control Theory](https://open.spotify.com/album/0pTqApEaeKpZkskygWIXdf) | 1:59 | 2022-12-09 |  |
 | [cool guy](https://open.spotify.com/track/5ifM6wdzeM0hLHhqQFea4P) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [cool guy](https://open.spotify.com/album/0llQ8VXp81FgVxnvnyvLIf) | 3:16 | 2022-04-15 | 2022-06-11 |
 | [Coolest fucking bitch in town](https://open.spotify.com/track/7oF49vbWvNZBSqPRzrqTrr) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Coolest fucking bitch in town](https://open.spotify.com/album/6473Bw0fbg01rEXirczRcs) | 4:56 | 2022-03-26 | 2022-08-27 |
@@ -552,6 +552,7 @@
 | [Prudence & Poise](https://open.spotify.com/track/3RMZ0lEGewSR0CPab6Kv1r) | [Soft Glas](https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0) | [Prudence & Poise](https://open.spotify.com/album/0Z2ZkWyy4ZhCb6CzBVDxI0) | 4:20 | 2021-03-05 | 2022-04-20 |
 | [Quantum Physics](https://open.spotify.com/track/5mI7nxjalLOnhoqeHLOSOX) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Quantum Physics](https://open.spotify.com/album/4rRem8BYu1grDC7PMrlZ62) | 2:38 | 2021-03-05 | 2022-04-21 |
 | [Queen of Ears](https://open.spotify.com/track/2y20szyvKlsK3jnL3LwPK9) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Queen of Ears](https://open.spotify.com/album/5pPAwx1AV9H3aWepcY7DhA) | 3:06 | 2022-10-28 | 2022-12-18 |
+| [Quotidian](https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O) | [EVNTYD](https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh) | [Eventide](https://open.spotify.com/album/5n4twzXZkAwdZFAJFCI5jj) | 4:32 | 2023-01-20 |  |
 | [R Entertainment](https://open.spotify.com/track/1kx7a4BiF5b0KH6pKLpwcJ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [R Entertainment](https://open.spotify.com/album/0AMdg90GRnvy0UFsvurqVI) | 3:09 | 2022-04-01 | 2022-05-18 |
 | [Radial](https://open.spotify.com/track/1pO7WwR4PQUS4aCQRxCG4y) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Radial](https://open.spotify.com/album/4LPazFPUDMRbGHODFirsKg) | 4:27 | 2022-07-22 | 2022-12-15 |
 | [Radiohead](https://open.spotify.com/track/07Br10W8gRXrf0hE3PtJPX) | [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Radiohead](https://open.spotify.com/album/24B22VTnbGYjUh4eIRO2eR) | 3:17 | 2021-12-10 | 2022-04-21 |

@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Hnos Yaipen",
-  "num_followers": 90204,
+  "num_followers": 90267,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDljZTFlNmMwNmUyY2VkMzAzOGE2ZjA4ZGYyODhlMjY3",
+  "snapshot_id": "MTY3MTE2Njg2MCwwMDAwMDAwMDAwMzJmZjZjNmZjMzFkZjBjYTQxNjYxMzRhYzUzNjgw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:01:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "A Llorar a Otra Parte",
-        "url": "https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc"
-      },
-      "artists": [
-        {
-          "name": "Hnos Yaipen",
-          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "L\u00e1rgate",
-      "url": "https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
         "name": "Por Qu\u00e9 Te Fuiste",
         "url": "https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 185505,
       "name": "Por Qu\u00e9 Te Fuiste",
       "url": "https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "A Llorar a Otra Parte",
+        "url": "https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc"
+      },
+      "artists": [
+        {
+          "name": "Hnos Yaipen",
+          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "L\u00e1rgate",
+      "url": "https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR"
     },
     {
       "added_at": "2022-12-16 05:01:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Sonido 2000 de Tarapoto",
-        "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
-      },
-      "artists": [
-        {
-          "name": "Sonido 2000",
-          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
-        }
-      ],
-      "duration_ms": 195696,
-      "name": "Mi Carin\u0303ito",
-      "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
         "name": "Tu Amor Fue una Mentira, Vol. 11",
         "url": "https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 213826,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd"
+    },
+    {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Sonido 2000 de Tarapoto",
+        "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
+      },
+      "artists": [
+        {
+          "name": "Sonido 2000",
+          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+        }
+      ],
+      "duration_ms": 195696,
+      "name": "Mi Carin\u0303ito",
+      "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
     },
     {
       "added_at": "2022-12-16 05:01:00",

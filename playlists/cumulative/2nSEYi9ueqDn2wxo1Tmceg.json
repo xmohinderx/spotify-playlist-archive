@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 232000,
       "name": "A Ghost In The Weed Garden",
       "url": "https://open.spotify.com/track/1fKNZgza6MFW1WbkplcMIg"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 178480,
       "name": "An Upturned Crab",
       "url": "https://open.spotify.com/track/2calYgBpet9NKp97I5usOH"
@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Before We Fell From Grace",
+        "url": "https://open.spotify.com/album/7xoC815gar0ukkCYPJj36q"
+      },
+      "artists": [
+        {
+          "name": "the GOLDEN DREGS",
+          "url": "https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291084,
+      "name": "Before We Fell From Grace",
+      "url": "https://open.spotify.com/track/0Ifom3QrLplQBsCTP5J4qX"
+    },
+    {
+      "album": {
         "name": "Belong To Heaven",
         "url": "https://open.spotify.com/album/6MWLPGQ4kR8z6mFFnxKALE"
       },
@@ -634,7 +652,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 251323,
       "name": "Bend Back - Red Ladder Version",
       "url": "https://open.spotify.com/track/4bSkf6shzJIszUausfM5Eq"
@@ -892,7 +910,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 249949,
       "name": "Broken - Jacques Lu Cont Mix",
       "url": "https://open.spotify.com/track/4Ovys7emm2gWoPUynSKJdS"
@@ -1154,7 +1172,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 267480,
       "name": "Clues Not to Read",
       "url": "https://open.spotify.com/track/3lfC4A8X3cMyoHtj2FZazP"
@@ -1945,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Empty Heavy",
+        "url": "https://open.spotify.com/album/5KyOCe2mY9u322n5DvfJJv"
+      },
+      "artists": [
+        {
+          "name": "deathcrash",
+          "url": "https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219907,
+      "name": "Empty Heavy",
+      "url": "https://open.spotify.com/track/7k7qOmiSsynXcqVNhTrHJK"
+    },
+    {
+      "album": {
         "name": "Nothing Special",
         "url": "https://open.spotify.com/album/07wtrSTxfDBIKBq4eyY0kM"
       },
@@ -1956,7 +1992,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 335846,
       "name": "Estrangement Zone",
       "url": "https://open.spotify.com/track/6z0rIv811kzEidxgGpRvtm"
@@ -2094,7 +2130,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 239016,
       "name": "Feelings Meeting",
       "url": "https://open.spotify.com/track/7yAWOJIWEbyWj9pHu2j9jD"
@@ -2894,10 +2930,32 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 474333,
       "name": "Horse and Rider",
       "url": "https://open.spotify.com/track/3MTAL84biLO6aTXOuSPVvC"
+    },
+    {
+      "album": {
+        "name": "HOUSE OF CARDS (Kevin Shields Rainbow Belts Remix)",
+        "url": "https://open.spotify.com/album/0wxL3up90d20n6m5Tqg0YO"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Kevin Shields",
+          "url": "https://open.spotify.com/artist/6egkD3KNbPuvrNLuWpB0bM"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264422,
+      "name": "HOUSE OF CARDS - Kevin Shields Rainbow Belts Remix",
+      "url": "https://open.spotify.com/track/1342lydTRFUBMIcS0dTdk1"
     },
     {
       "album": {
@@ -2988,6 +3046,24 @@
       "duration_ms": 185400,
       "name": "I Am Not Your Cushion",
       "url": "https://open.spotify.com/track/4tNe1lD0tyU07rqUA6bXdk"
+    },
+    {
+      "album": {
+        "name": "Late Developers",
+        "url": "https://open.spotify.com/album/7LJdM0B6bp0H78AN7cwqHp"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219360,
+      "name": "I Don't Know What You See In Me",
+      "url": "https://open.spotify.com/track/7J5SzaSQNqs07QGps3Lj9z"
     },
     {
       "album": {
@@ -3228,6 +3304,24 @@
       "duration_ms": 200994,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/6Aw4apZtDh41tu3F0obxDt"
+    },
+    {
+      "album": {
+        "name": "Is U",
+        "url": "https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228514,
+      "name": "Is U",
+      "url": "https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX"
     },
     {
       "album": {
@@ -3614,7 +3708,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 241288,
       "name": "Love / Lover / Friend",
       "url": "https://open.spotify.com/track/3GU9knCMGMb7ZaylfVBdKi"
@@ -4838,7 +4932,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 220518,
       "name": "Shake Her Awake",
       "url": "https://open.spotify.com/track/1ybU61YSLAUO78Hbg5ZF8d"
@@ -5031,6 +5125,24 @@
     },
     {
       "album": {
+        "name": "Song About Love",
+        "url": "https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222544,
+      "name": "Song About Love",
+      "url": "https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI"
+    },
+    {
+      "album": {
         "name": "Space Song",
         "url": "https://open.spotify.com/album/1dY1LX7VxNKtYqrC0xP8QE"
       },
@@ -5102,6 +5214,40 @@
       "duration_ms": 202480,
       "name": "Step By Step - Axel Boman\u2019s In The Air Version",
       "url": "https://open.spotify.com/track/4rOUCnPgp5QW9uAkAReJUa"
+    },
+    {
+      "album": {
+        "name": "Step By Step (Axel Boman\u2019s In The Air Version)",
+        "url": "https://open.spotify.com/album/5cOYhU6gw1uoUpLrbp6zE9"
+      },
+      "artists": [
+        {
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
+        },
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Junior Sanchez",
+          "url": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379489,
+      "name": "Step By Step - Junior Sanchez Remix",
+      "url": "https://open.spotify.com/track/2ye32lVeQdG9DcakKSq0qa"
     },
     {
       "album": {
@@ -5282,7 +5428,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 185549,
       "name": "The Flood",
       "url": "https://open.spotify.com/track/5nC0QNvm9GINzYOkDMQ2Uq"
@@ -5578,7 +5724,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 331911,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/2cikFx90qDo38dnfqPMKV5"
@@ -5745,6 +5891,24 @@
     },
     {
       "album": {
+        "name": "Town Crank",
+        "url": "https://open.spotify.com/album/4ucmN2JDOaWFHQ8ApgPaaY"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219308,
+      "name": "Town Crank",
+      "url": "https://open.spotify.com/track/22vvBm5jkauc9gezTFOWxL"
+    },
+    {
+      "album": {
         "name": "0151",
         "url": "https://open.spotify.com/album/2fTfRwcAKBWVCuiKd2aXau"
       },
@@ -5782,6 +5946,24 @@
       "duration_ms": 212671,
       "name": "Tried To Understand",
       "url": "https://open.spotify.com/track/0rswzbHV1zLF37hbwTTBu6"
+    },
+    {
+      "album": {
+        "name": "Tropic Morning News",
+        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
     },
     {
       "album": {

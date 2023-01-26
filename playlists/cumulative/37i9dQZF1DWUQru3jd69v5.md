@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Artie 5ive
 
-386 songs - 16 hr 49 min
+387 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Beautiful Morning \(feat\. Praci\)](https://open.spotify.com/track/4somAVSvBpCTaScdxyCDjn) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [Nevia](https://open.spotify.com/artist/2CcJATfFG50akqpHUVp1be) | [Beautiful Morning \(feat\. Praci\)](https://open.spotify.com/album/1ZhQ81hUEEI3N9oIyIkoNh) | 3:26 | 2022-07-07 | 2022-08-12 |
 | [Bene](https://open.spotify.com/track/1O3Mbb6UhUoOfOHTtdaqV4) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx) | [Bene](https://open.spotify.com/album/31a5ESU6MrP0tkjnFC8IAF) | 2:22 | 2022-06-16 | 2022-07-22 |
 | [Benefit](https://open.spotify.com/track/5llcUAP6bmNBYEb3mssCqA) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Benefit](https://open.spotify.com/album/2QEXRSejARYPvcDfQmXENK) | 2:37 | 2022-07-14 | 2022-09-30 |
-| [Best Life](https://open.spotify.com/track/67Zlg1f5akUasCKntOpkWl) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Best Life](https://open.spotify.com/album/6ZVBD4uIocmIjaMNVZVUKr) | 2:19 | 2022-06-22 |  |
+| [Best Life](https://open.spotify.com/track/67Zlg1f5akUasCKntOpkWl) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Best Life](https://open.spotify.com/album/6ZVBD4uIocmIjaMNVZVUKr) | 2:19 | 2022-06-22 | 2023-01-26 |
 | [BEVERLY](https://open.spotify.com/track/33nyVdbqYNoRymnGv8R0ht) | [LA PLATA](https://open.spotify.com/artist/2Hb9O6tBkCp1zVmq1vR3KQ), [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [BEVERLY](https://open.spotify.com/album/0Pc4M6KqlXzvn18fhgqnzj) | 3:32 | 2022-09-06 | 2022-09-30 |
 | [BG \(Bergamo\)](https://open.spotify.com/track/23AyQz2ZHP12OAJtvKQBJL) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W) | [CHIAVI DI CASA](https://open.spotify.com/album/3Sb5wJXTBRyAxAg6Dk6VU0) | 3:14 | 2022-11-17 | 2022-12-02 |
 | [Big Don Dada](https://open.spotify.com/track/7LRucnNnmFTMSh5ubvTljX) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Achille G](https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1) | [Big Don Dada](https://open.spotify.com/album/00Q0BOTspDIZXFgZ4qHAHG) | 2:24 | 2022-06-23 | 2022-09-02 |
@@ -275,6 +275,7 @@
 | [Papavero](https://open.spotify.com/track/2em60ChXtDHc886blbb98K) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Papavero](https://open.spotify.com/album/3x3uQKwz4xU6zuWzliQvGD) | 2:39 | 2022-07-14 | 2022-07-27 |
 | [Pappone](https://open.spotify.com/track/318VJBfV0eQarH5Bmq0NtV) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Gesù Bambino](https://open.spotify.com/album/73o3cVQvCogUq8jVRJ8DU4) | 2:26 | 2022-10-06 | 2022-10-28 |
 | [Paradiso & Inferno](https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Paradiso & Inferno](https://open.spotify.com/album/5pS1WGsTET4iAXgeueFCM9) | 2:16 | 2022-06-02 | 2022-06-23 |
+| [Pararara](https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Pararara](https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q) | 2:43 | 2023-01-25 |  |
 | [Parenti](https://open.spotify.com/track/5rFDHjPEP1CvNufa70VoUV) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Parenti](https://open.spotify.com/album/5fvdfPY8mllbK4d4vDODmI) | 2:24 | 2022-09-22 | 2022-09-30 |
 | [Peccato](https://open.spotify.com/track/6c0Uy3qCH3PzlY19ONxrv9) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [Peccato](https://open.spotify.com/album/6f9oGh5gPqbMHM9jXrKyJm) | 2:40 | 2022-05-10 | 2022-05-13 |
 | [Pegaso](https://open.spotify.com/track/3ndyS9nSROW6Pvhm9A99k4) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [Pegaso](https://open.spotify.com/album/3pJgSYFqO11OIjaN0DtS55) | 2:08 | 2022-11-17 | 2022-11-22 |

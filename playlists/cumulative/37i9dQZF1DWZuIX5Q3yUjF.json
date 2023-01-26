@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Futurama",
+        "url": "https://open.spotify.com/album/5O80iVijdX4uJIF4iTWyp5"
+      },
+      "artists": [
+        {
+          "name": "Tho\u00e9",
+          "url": "https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139400,
+      "name": "Futurama",
+      "url": "https://open.spotify.com/track/34xLT6m2R7ww0xJZcMRBzK"
+    },
+    {
+      "album": {
         "name": "TUCANO'S PARTY",
         "url": "https://open.spotify.com/album/5FMbtNZ0q3Z8VYt7eEVh7Z"
       },
@@ -4538,7 +4556,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 206511,
       "name": "Tra di noi",
       "url": "https://open.spotify.com/track/4sItwBhx0dgj8VtkGK6BGz"

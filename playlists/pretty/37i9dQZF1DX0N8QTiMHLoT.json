@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 120619,
+  "num_followers": 120706,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMGVlMDYyYTRlODNmNTk1OTZlODA4NGQ3MjhjODk5NDRj",
+  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMGNlYTMyMjUzOTdkY2JlMDQ5Y2ViZjIyODFkOGYzNDU4",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -735,6 +735,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "We Are All You (Extended Edition)",
+        "url": "https://open.spotify.com/album/71E0HQ4rIZfwmA07vxqVUr"
+      },
+      "artists": [
+        {
+          "name": "Evan Marien",
+          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "Aeon",
+      "url": "https://open.spotify.com/track/7437o7VmWq62ibaGLLu4bb"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "That Was Then",
         "url": "https://open.spotify.com/album/70LVEF4Ht6K0bybLJskFA7"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 246692,
       "name": "Sun Chaser",
       "url": "https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "We Are All You (Extended Edition)",
-        "url": "https://open.spotify.com/album/71E0HQ4rIZfwmA07vxqVUr"
-      },
-      "artists": [
-        {
-          "name": "Evan Marien",
-          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
-        }
-      ],
-      "duration_ms": 146750,
-      "name": "Aeon",
-      "url": "https://open.spotify.com/track/7437o7VmWq62ibaGLLu4bb"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -859,18 +859,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "A Ray of Hope",
-        "url": "https://open.spotify.com/album/3XfZzTCgMyKVdeVC1deRR1"
+        "name": "Time 2 Stop Worrying (Bout the Weird Stuff)",
+        "url": "https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ"
       },
       "artists": [
         {
-          "name": "Michael Manson",
-          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+          "name": "Ida Nielsen",
+          "url": "https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3"
         }
       ],
-      "duration_ms": 279480,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/4h7gihBubPqrGCBGZ4kJjL"
+      "duration_ms": 223895,
+      "name": "F.U.NKWHY",
+      "url": "https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J"
     },
     {
       "added_at": "2021-05-06 21:09:12",

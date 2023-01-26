@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Boku no Uta de Kimi ni Eien wo",
+        "url": "https://open.spotify.com/album/1MMlfzh5fLDMyMt72ZwQkY"
+      },
+      "artists": [
+        {
+          "name": "moon drop",
+          "url": "https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257999,
+      "name": "Old Rookie",
+      "url": "https://open.spotify.com/track/0Vx0LcKfmFdhwYES2OZb85"
+    },
+    {
+      "album": {
         "name": "A revolution",
         "url": "https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD"
       },
@@ -698,6 +716,24 @@
       "duration_ms": 183947,
       "name": "Riku no Koto",
       "url": "https://open.spotify.com/track/3q5CCDdQvlw4Ic4jGDdaC3"
+    },
+    {
+      "album": {
+        "name": "Watashi no Nocturne",
+        "url": "https://open.spotify.com/album/7joB2NhzGfyUPa5M71epsi"
+      },
+      "artists": [
+        {
+          "name": "Kaneyorimasaru",
+          "url": "https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232733,
+      "name": "Sakura Iro",
+      "url": "https://open.spotify.com/track/3gJXVq7BuBcZIdiTbPWwU2"
     },
     {
       "album": {
@@ -792,6 +828,24 @@
       "duration_ms": 201525,
       "name": "SPACE OUT !",
       "url": "https://open.spotify.com/track/6SpxOKDdbkMVKJvAwfMhv2"
+    },
+    {
+      "album": {
+        "name": "Sparkle Dancer",
+        "url": "https://open.spotify.com/album/1ClZWnf2R7u3SRkRONNaZH"
+      },
+      "artists": [
+        {
+          "name": "frederic",
+          "url": "https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Sparkle Dancer",
+      "url": "https://open.spotify.com/track/0uBrG0rTvuqcvl2jGFFgHh"
     },
     {
       "album": {
@@ -1148,7 +1202,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 232733,
       "name": "\u3055\u304f\u3089\u8272",
       "url": "https://open.spotify.com/track/5A7ERS6fFumxylYQehLAWS"
@@ -1310,7 +1364,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 257999,
       "name": "\u30aa\u30fc\u30eb\u30c9\u30eb\u30fc\u30ad\u30fc",
       "url": "https://open.spotify.com/track/0umqlfEgW9657chmk74mCq"
@@ -1364,7 +1418,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 208500,
       "name": "\u30b9\u30d1\u30fc\u30af\u30eb\u30c0\u30f3\u30b5\u30fc",
       "url": "https://open.spotify.com/track/4fMj0cYyIkt4y1rkFYAvdg"

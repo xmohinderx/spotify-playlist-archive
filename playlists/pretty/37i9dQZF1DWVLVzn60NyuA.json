@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 223774,
+  "num_followers": 223877,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIzNjU5OSwwMDAwMDAwMDZkNTZiNjc5OGNkMTM1ZWFmNjYxOWViNWEwZTBiZDNh",
+  "snapshot_id": "MTY3NDIzNjU5OSwwMDAwMDAwMDk1NTFhMGVmOGRkNmQ1OGY4MTdlOGQ1MDJhMDk1MjAy",
   "tracks": [
     {
       "added_at": "2023-01-20 17:43:19",
@@ -43,26 +43,6 @@
     {
       "added_at": "2023-01-20 17:43:19",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 159123,
-      "name": "For My Hand (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
-    },
-    {
-      "added_at": "2023-01-20 17:43:19",
-      "album": {
         "name": "We Caa Done (feat. Drake)",
         "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 245240,
       "name": "We Caa Done (feat. Drake)",
       "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
+    },
+    {
+      "added_at": "2023-01-20 17:43:19",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 159123,
+      "name": "For My Hand (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
       "added_at": "2023-01-20 17:43:19",
@@ -627,26 +627,6 @@
     {
       "added_at": "2023-01-20 17:43:19",
       "album": {
-        "name": "Call Me Every Day (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Call Me Every Day (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
-    },
-    {
-      "added_at": "2023-01-20 17:43:19",
-      "album": {
         "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
         "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 135480,
       "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
+    },
+    {
+      "added_at": "2023-01-20 17:43:19",
+      "album": {
+        "name": "Call Me Every Day (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
     },
     {
       "added_at": "2023-01-20 17:43:19",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-01-20 17:43:19",
       "album": {
-        "name": "Likkle Riddim",
-        "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Likkle Riddim",
-      "url": "https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot"
-    },
-    {
-      "added_at": "2023-01-20 17:43:19",
-      "album": {
         "name": "Sounds From The Other Side",
         "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 211293,
       "name": "Come Closer (feat. Drake)",
       "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
+    },
+    {
+      "added_at": "2023-01-20 17:43:19",
+      "album": {
+        "name": "Likkle Riddim",
+        "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Likkle Riddim",
+      "url": "https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot"
     },
     {
       "added_at": "2023-01-20 17:43:19",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-01-20 17:43:19",
       "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2023-01-20 17:43:19",
+      "album": {
         "name": "Tanzania",
         "url": "https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 376078,
       "name": "Tanzania",
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
-    },
-    {
-      "added_at": "2023-01-20 17:43:19",
-      "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
       "added_at": "2023-01-20 17:43:19",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2023-01-20 17:43:19",
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/7HaPTdLL3KcYuQkMcVQfRx"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Lupita",
+      "url": "https://open.spotify.com/track/0ibShYbjMMERrW91r5VyoT"
+    },
+    {
+      "added_at": "2023-01-20 17:43:19",
+      "album": {
         "name": "Real Man",
         "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
       },
@@ -1983,18 +1999,18 @@
     {
       "added_at": "2023-01-20 17:43:19",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/7HaPTdLL3KcYuQkMcVQfRx"
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
       },
       "artists": [
         {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 217733,
-      "name": "Lupita",
-      "url": "https://open.spotify.com/track/0ibShYbjMMERrW91r5VyoT"
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2023-01-20 17:43:19",
@@ -2015,22 +2031,6 @@
       "duration_ms": 179884,
       "name": "D O D O - Adekunle Gold Version",
       "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
-    },
-    {
-      "added_at": "2023-01-20 17:43:19",
-      "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2023-01-20 17:43:19",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2023-01-20 17:43:19",
       "album": {
-        "name": "Meliza",
-        "url": "https://open.spotify.com/album/0sF2YBWi7MTf3VTsKJKWi1"
-      },
-      "artists": [
-        {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
-        }
-      ],
-      "duration_ms": 212006,
-      "name": "Meliza",
-      "url": "https://open.spotify.com/track/6zvFe4L9dXSjpZvmcq7dmT"
-    },
-    {
-      "added_at": "2023-01-20 17:43:19",
-      "album": {
         "name": "When I See You",
         "url": "https://open.spotify.com/album/6uP3M17zzbY0VpvJrlYil0"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 159127,
       "name": "When I See You",
       "url": "https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J"
+    },
+    {
+      "added_at": "2023-01-20 17:43:19",
+      "album": {
+        "name": "Meliza",
+        "url": "https://open.spotify.com/album/0sF2YBWi7MTf3VTsKJKWi1"
+      },
+      "artists": [
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        }
+      ],
+      "duration_ms": 212006,
+      "name": "Meliza",
+      "url": "https://open.spotify.com/track/6zvFe4L9dXSjpZvmcq7dmT"
     },
     {
       "added_at": "2023-01-20 17:43:19",
@@ -2615,6 +2615,26 @@
     {
       "added_at": "2023-01-20 17:43:19",
       "album": {
+        "name": "Alright (feat. Shatta Wale)",
+        "url": "https://open.spotify.com/album/4BLHs4HKOkzO4lofvYlHa4"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 178662,
+      "name": "Alright (feat. Shatta Wale)",
+      "url": "https://open.spotify.com/track/2UTceOEpYfmOud3DVdH5YI"
+    },
+    {
+      "added_at": "2023-01-20 17:43:19",
+      "album": {
         "name": "Jiggle",
         "url": "https://open.spotify.com/album/51rfhvpTi6fhMYpkq3ci4o"
       },
@@ -2635,26 +2655,6 @@
       "duration_ms": 132815,
       "name": "Jiggle",
       "url": "https://open.spotify.com/track/0F245o4yDaGy2leKy2l2Ae"
-    },
-    {
-      "added_at": "2023-01-20 17:43:19",
-      "album": {
-        "name": "Alright (feat. Shatta Wale)",
-        "url": "https://open.spotify.com/album/4BLHs4HKOkzO4lofvYlHa4"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 178662,
-      "name": "Alright (feat. Shatta Wale)",
-      "url": "https://open.spotify.com/track/2UTceOEpYfmOud3DVdH5YI"
     },
     {
       "added_at": "2023-01-20 17:43:19",
@@ -2695,22 +2695,6 @@
     {
       "added_at": "2023-01-20 17:43:19",
       "album": {
-        "name": "Day 2 Day",
-        "url": "https://open.spotify.com/album/5AYFWRViUAg2jE07UQCoDf"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Day 2 Day",
-      "url": "https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv"
-    },
-    {
-      "added_at": "2023-01-20 17:43:19",
-      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5"
       },
@@ -2727,6 +2711,22 @@
       "duration_ms": 214141,
       "name": "Break of Dawn",
       "url": "https://open.spotify.com/track/0fFYQpXcySoP1aTAesmNTO"
+    },
+    {
+      "added_at": "2023-01-20 17:43:19",
+      "album": {
+        "name": "Day 2 Day",
+        "url": "https://open.spotify.com/album/5AYFWRViUAg2jE07UQCoDf"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Day 2 Day",
+      "url": "https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv"
     },
     {
       "added_at": "2023-01-20 17:43:19",
@@ -2771,6 +2771,22 @@
     {
       "added_at": "2023-01-20 17:43:19",
       "album": {
+        "name": "Cofres do C\u00e9u",
+        "url": "https://open.spotify.com/album/6EqnPhF91K2WGLsr0kMUtm"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        }
+      ],
+      "duration_ms": 198590,
+      "name": "Cofres do C\u00e9u",
+      "url": "https://open.spotify.com/track/60onhM6CxZNTqcuFqmZ6Go"
+    },
+    {
+      "added_at": "2023-01-20 17:43:19",
+      "album": {
         "name": "Hybrid",
         "url": "https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS"
       },
@@ -2787,22 +2803,6 @@
       "duration_ms": 188136,
       "name": "Bounce It (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/0H6vpbW0UOtVpm3RgiwSkx"
-    },
-    {
-      "added_at": "2023-01-20 17:43:19",
-      "album": {
-        "name": "Cofres do C\u00e9u",
-        "url": "https://open.spotify.com/album/6EqnPhF91K2WGLsr0kMUtm"
-      },
-      "artists": [
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        }
-      ],
-      "duration_ms": 198590,
-      "name": "Cofres do C\u00e9u",
-      "url": "https://open.spotify.com/track/60onhM6CxZNTqcuFqmZ6Go"
     },
     {
       "added_at": "2023-01-20 17:43:19",
@@ -2839,22 +2839,6 @@
     {
       "added_at": "2023-01-20 17:43:19",
       "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/5Tejq7aVDwDa2doHQNKqjU"
-      },
-      "artists": [
-        {
-          "name": "Were-vana",
-          "url": "https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl"
-        }
-      ],
-      "duration_ms": 172146,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/1De4dxD98pz77aeFx0DOdo"
-    },
-    {
-      "added_at": "2023-01-20 17:43:19",
-      "album": {
         "name": "Pelikula",
         "url": "https://open.spotify.com/album/4uBGxgyGUu0Vf0ZYxCrKDr"
       },
@@ -2871,6 +2855,22 @@
       "duration_ms": 193543,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/7nYG5KBe9rMuZ06Idhi2Rq"
+    },
+    {
+      "added_at": "2023-01-20 17:43:19",
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/5Tejq7aVDwDa2doHQNKqjU"
+      },
+      "artists": [
+        {
+          "name": "Were-vana",
+          "url": "https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl"
+        }
+      ],
+      "duration_ms": 172146,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/1De4dxD98pz77aeFx0DOdo"
     },
     {
       "added_at": "2023-01-20 17:43:19",
@@ -3387,26 +3387,6 @@
     {
       "added_at": "2023-01-20 17:43:19",
       "album": {
-        "name": "Bluffin",
-        "url": "https://open.spotify.com/album/1Sx36U16xq2fCmzUNrO47F"
-      },
-      "artists": [
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 221059,
-      "name": "Bluffin",
-      "url": "https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH"
-    },
-    {
-      "added_at": "2023-01-20 17:43:19",
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC"
       },
@@ -3423,6 +3403,26 @@
       "duration_ms": 174580,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
+    },
+    {
+      "added_at": "2023-01-20 17:43:19",
+      "album": {
+        "name": "Bluffin",
+        "url": "https://open.spotify.com/album/1Sx36U16xq2fCmzUNrO47F"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 221059,
+      "name": "Bluffin",
+      "url": "https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH"
     },
     {
       "added_at": "2023-01-20 17:43:19",

@@ -2452,7 +2452,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 153272,
       "name": "B\u00fai\u00f0 Og Bless",
       "url": "https://open.spotify.com/track/21qZMim0NXV3k5SaLxLWeX"
@@ -4358,6 +4358,24 @@
       "duration_ms": 199120,
       "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
       "url": "https://open.spotify.com/track/5faV3B9PfIOabLD8PPUAxo"
+    },
+    {
+      "album": {
+        "name": "E45",
+        "url": "https://open.spotify.com/album/7ydZPJ4rPU3jgDkQYEppgq"
+      },
+      "artists": [
+        {
+          "name": "Sultan Den F\u00f8rste",
+          "url": "https://open.spotify.com/artist/1tv6vH2AmEXZUvQ8mqCY3U"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198374,
+      "name": "E45",
+      "url": "https://open.spotify.com/track/4Bl4PdFzrDvmFJvKJrHqGg"
     },
     {
       "album": {
@@ -8634,7 +8652,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
@@ -12445,6 +12463,24 @@
     },
     {
       "album": {
+        "name": "Me",
+        "url": "https://open.spotify.com/album/1NVYMeV7u7m6Ei6qSE4RBT"
+      },
+      "artists": [
+        {
+          "name": "Pollo Mac",
+          "url": "https://open.spotify.com/artist/3ELiMvukrqFDL0dE7xoupa"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260650,
+      "name": "Me",
+      "url": "https://open.spotify.com/track/4XrWHCxF4C6aIYVXoifvqU"
+    },
+    {
+      "album": {
         "name": "PREWORKOUT",
         "url": "https://open.spotify.com/album/20AVO0OP4bwoieksad1xLs"
       },
@@ -14872,6 +14908,24 @@
       "duration_ms": 117797,
       "name": "Playa Shii (feat. Birnir)",
       "url": "https://open.spotify.com/track/5hpRJlBRsbSkI8yTS76Hr6"
+    },
+    {
+      "album": {
+        "name": "Players",
+        "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139560,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
       "album": {
@@ -20882,7 +20936,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 213826,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/0B7wvvmu9EISAwZnOpjhNI"

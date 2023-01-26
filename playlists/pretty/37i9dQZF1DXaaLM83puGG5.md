@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going where ever you are w/ Everyday People for Art Basel
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,922 likes - 54 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,025 likes - 54 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 53 | [Get Together](https://open.spotify.com/track/0OI4LOI70j8glVnZ1eTPth) | [J\*DaVeY](https://open.spotify.com/artist/7cL5uodbOiyotC8tOabLbo) | [Boudoir Synema](https://open.spotify.com/album/5JC6B4KHHvPt3RYB46psKD) | 4:31 |
 | 54 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 |
 
-Snapshot ID: `MTY2OTkzOTI0NCwwMDAwMDAwMGE1YjVjNmMzZjc5MjdlMTQwM2ZlYmYwMzc4YzBmNmQ2`
+Snapshot ID: `MTY3NDYyNzY0MywwMDAwMDAwMDI2MDM5YTRjNThmMjQwZTYxNjE1MjMyYTdiOTUxZGMy`

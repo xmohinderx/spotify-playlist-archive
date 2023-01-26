@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Sacky, Rose Villain, Geolier, Guè, Speranza e tanti altri.
 
-1,219 songs - 2 day 7 hr 58 min
+1,220 songs - 2 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [A.A.A\. MNAPL](https://open.spotify.com/track/0uuyBiNFIXFzWT6YcOgYvp) | [IVAN](https://open.spotify.com/artist/4aDeEL0SUzJZBZbNcVIt3l) | [A.A.A\. MNAPL](https://open.spotify.com/album/3Dquvs70dbYqTmOGM8FjGn) | 2:16 | 2022-05-10 | 2022-05-13 |
 | [AA](https://open.spotify.com/track/0Ik7LUkfuWnAk5TJRsZzil) | [Yung Pips](https://open.spotify.com/artist/1M4XDihKHvUJj1Nbp8O7i7), [ALEX MERCY](https://open.spotify.com/artist/4Fz6lrej7gOb85oQhEbF09) | [AA](https://open.spotify.com/album/0DEnVA2uU75vR1v3KwuEEQ) | 2:27 | 2022-09-22 | 2022-10-07 |
 | [AAHORA](https://open.spotify.com/track/5HSGAZ9lgL19zyWwrgWcuw) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [AAHORA](https://open.spotify.com/album/07To5kvlGtnJZshPnUGE7R) | 2:28 | 2022-05-12 | 2022-05-27 |
-| [ABC](https://open.spotify.com/track/3xjRhNob5rFbDxweCrLvio) | [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw) | [ABC](https://open.spotify.com/album/7IlpOV61uPQtUhq2Lqs7gV) | 2:16 | 2023-01-12 |  |
+| [ABC](https://open.spotify.com/track/3xjRhNob5rFbDxweCrLvio) | [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw) | [ABC](https://open.spotify.com/album/7IlpOV61uPQtUhq2Lqs7gV) | 2:16 | 2023-01-12 | 2023-01-26 |
 | [Abitudini](https://open.spotify.com/track/18T9rEvpCDcbpKjH8fIKq3) | [Deleterio](https://open.spotify.com/artist/7b4WvxNQtqlXbprLRUyxt6), [Magyco](https://open.spotify.com/artist/1kzlBdtERb9H6QwIlrizxN) | [Abitudini](https://open.spotify.com/album/5kMyNCMHRAvA8ryN1wPeii) | 4:08 | 2022-10-20 | 2022-10-28 |
 | [Accanna](https://open.spotify.com/track/67elmGR6GKSO60nD9lUyGP) | [Sayanbull](https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Accanna](https://open.spotify.com/album/0kjbtSlbMGxndydgh3nnt5) | 2:32 | 2022-11-04 | 2022-11-25 |
 | [Acqua](https://open.spotify.com/track/2Yw377BxOYkEVxvSq66hLX) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [Tana Libera Tutti](https://open.spotify.com/album/5ZE6ZgRZl1mnKtzhxJClbs) | 2:06 | 2022-05-26 | 2022-06-03 |
@@ -832,6 +832,7 @@
 | [Paradiso & Inferno](https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Paradiso & Inferno](https://open.spotify.com/album/5pS1WGsTET4iAXgeueFCM9) | 2:16 | 2022-06-02 | 2022-06-24 |
 | [Paradiso Zanza](https://open.spotify.com/track/0Pqx6YE3rWThrzbbZtT3pE) | [Pepito Rella](https://open.spotify.com/artist/2eX8GywDmO0LWmhzN1f0Kw) | [Paradiso ZANZA](https://open.spotify.com/album/2mb6bn5ySYIStnSUlW2T6G) | 2:52 | 2022-12-01 | 2022-12-09 |
 | [Paranoia](https://open.spotify.com/track/4ZPmb48JaAysD1OdQEt5LL) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Paranoia](https://open.spotify.com/album/2zj6RUMudqC6Y6le04Axcs) | 3:02 | 2022-05-10 | 2022-05-27 |
+| [Pararara](https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Pararara](https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q) | 2:43 | 2023-01-25 |  |
 | [Parenti](https://open.spotify.com/track/5rFDHjPEP1CvNufa70VoUV) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Parenti](https://open.spotify.com/album/5fvdfPY8mllbK4d4vDODmI) | 2:24 | 2022-09-22 | 2022-09-30 |
 | [Parlami](https://open.spotify.com/track/1s9Hec4NHzwJd9wHxyynzR) | [Tradez](https://open.spotify.com/artist/39oUK0McNh3XvEG5MyU4lm) | [Apatia](https://open.spotify.com/album/4hdgRYb5fIFIaTLdqW40a9) | 3:26 | 2022-11-04 | 2022-11-11 |
 | [PARLARE](https://open.spotify.com/track/6DpmQYLZHyzwgdyNPKwyFT) | [Charles Muda](https://open.spotify.com/artist/3MF5fxi7CZh0UZL5mIyqzX) | [PARLARE](https://open.spotify.com/album/3FPYv7Iab3zm9tUO94VLwn) | 2:46 | 2022-05-10 | 2022-05-18 |

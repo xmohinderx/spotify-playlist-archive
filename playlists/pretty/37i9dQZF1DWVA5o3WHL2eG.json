@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Lilly Palmer",
-  "num_followers": 23277,
+  "num_followers": 23273,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc4NjgwMCwwMDAwMDAwMGQ0NjQ4NmJlZjE2MzRjNTJhYTI5MDNhYTIxZjM4YTI3",
+  "snapshot_id": "MTY3Mjc4NjgwMCwwMDAwMDAwMDAyY2U1NDJjOGYwY2Q1YzdjMWRjZjk5YThhNDdlOGJj",
   "tracks": [
     {
       "added_at": "2023-01-03 23:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "In Flammen",
-        "url": "https://open.spotify.com/album/0WGrduIBH3dToig9eviG6G"
-      },
-      "artists": [
-        {
-          "name": "LEA",
-          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
-        }
-      ],
-      "duration_ms": 142118,
-      "name": "In Flammen",
-      "url": "https://open.spotify.com/track/3l1lIYskIG0FgqwMoVHOfO"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
         "name": "Devil Is A Woman",
         "url": "https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 192491,
       "name": "Devil Is A Woman",
       "url": "https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "In Flammen",
+        "url": "https://open.spotify.com/album/0WGrduIBH3dToig9eviG6G"
+      },
+      "artists": [
+        {
+          "name": "LEA",
+          "url": "https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1"
+        }
+      ],
+      "duration_ms": 142118,
+      "name": "In Flammen",
+      "url": "https://open.spotify.com/track/3l1lIYskIG0FgqwMoVHOfO"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Bitterkalt",
-        "url": "https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX"
-      },
-      "artists": [
-        {
-          "name": "C\u00c9LINE",
-          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
-        }
-      ],
-      "duration_ms": 145195,
-      "name": "Bitterkalt",
-      "url": "https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
         "name": "BLICKE",
         "url": "https://open.spotify.com/album/54mpizfC3tVCgaldgB3G6O"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 131826,
       "name": "BLICKE",
       "url": "https://open.spotify.com/track/1QdlK28KHrGDoCACgaXOB5"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "Bitterkalt",
+        "url": "https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "duration_ms": 145195,
+      "name": "Bitterkalt",
+      "url": "https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Instabil",
-        "url": "https://open.spotify.com/album/5YxLiyzWTuYXy5xrVMXLSl"
-      },
-      "artists": [
-        {
-          "name": "PANTHA",
-          "url": "https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8"
-        }
-      ],
-      "duration_ms": 154976,
-      "name": "Instabil",
-      "url": "https://open.spotify.com/track/287EfmsRlLBJWpdMc0gKVH"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
         "name": "PANIK",
         "url": "https://open.spotify.com/album/6QN8IJaxfKDuMW6Dg7N1uc"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 203360,
       "name": "PANIK",
       "url": "https://open.spotify.com/track/7JDZYzLx19WN1BHbxjLeEZ"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "Instabil",
+        "url": "https://open.spotify.com/album/5YxLiyzWTuYXy5xrVMXLSl"
+      },
+      "artists": [
+        {
+          "name": "PANTHA",
+          "url": "https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8"
+        }
+      ],
+      "duration_ms": 154976,
+      "name": "Instabil",
+      "url": "https://open.spotify.com/track/287EfmsRlLBJWpdMc0gKVH"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "44+2",
-        "url": "https://open.spotify.com/album/3fHqiz6XNIYKHKLsl7KykP"
-      },
-      "artists": [
-        {
-          "name": "ana\u00efs",
-          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
-        }
-      ],
-      "duration_ms": 174215,
-      "name": "ANA\u00cfS",
-      "url": "https://open.spotify.com/track/6LC6M6folYwLqgQdrlHD8m"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
         "name": "Pornos im Bett",
         "url": "https://open.spotify.com/album/2weTrhDqRtdQODZ6z4bDVd"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 227061,
       "name": "Pornos im Bett",
       "url": "https://open.spotify.com/track/178BthjruJHLNQ5CxIrThx"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "44+2",
+        "url": "https://open.spotify.com/album/3fHqiz6XNIYKHKLsl7KykP"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "duration_ms": 174215,
+      "name": "ANA\u00cfS",
+      "url": "https://open.spotify.com/track/6LC6M6folYwLqgQdrlHD8m"
     },
     {
       "added_at": "2023-01-03 23:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-03 23:00:00",
       "album": {
-        "name": "Not The Right Time For Us",
-        "url": "https://open.spotify.com/album/3Mzq3kobahQ8a51Xlxg5Pd"
-      },
-      "artists": [
-        {
-          "name": "metty",
-          "url": "https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW"
-        }
-      ],
-      "duration_ms": 122200,
-      "name": "Unlove You",
-      "url": "https://open.spotify.com/track/3VT0uoVyIkrcRrWmc4joe6"
-    },
-    {
-      "added_at": "2023-01-03 23:00:00",
-      "album": {
         "name": "QUEEN",
         "url": "https://open.spotify.com/album/4dF2UXtndUYmrezTiZhmp6"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 167000,
       "name": "QUEEN",
       "url": "https://open.spotify.com/track/5hr39FQi0R8NHeg8pSmFCQ"
+    },
+    {
+      "added_at": "2023-01-03 23:00:00",
+      "album": {
+        "name": "Not The Right Time For Us",
+        "url": "https://open.spotify.com/album/3Mzq3kobahQ8a51Xlxg5Pd"
+      },
+      "artists": [
+        {
+          "name": "metty",
+          "url": "https://open.spotify.com/artist/7Db5PkiQYNyku1FZdizAVW"
+        }
+      ],
+      "duration_ms": 122200,
+      "name": "Unlove You",
+      "url": "https://open.spotify.com/track/3VT0uoVyIkrcRrWmc4joe6"
     },
     {
       "added_at": "2023-01-03 23:00:00",

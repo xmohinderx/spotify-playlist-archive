@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 43049,
+  "num_followers": 43076,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDMyNjUwNywwMDAwMDAwMGFiMTQ2ZTFjZWVhNWIwNTNlYTc4ZmZjODMyNDgxMDhj",
+  "snapshot_id": "MTY3MDMyNjUwNywwMDAwMDAwMGE2ZmVjOTkwNTRmMzdkOTI4MDNmMTUxNjc3YjkxZTQw",
   "tracks": [
     {
       "added_at": "2022-03-10 07:10:03",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Moroccan Spring (Live)",
-        "url": "https://open.spotify.com/album/29xpcwtYHON3dbSKInrTzl"
-      },
-      "artists": [
-        {
-          "name": "Chalaban",
-          "url": "https://open.spotify.com/artist/7wy6H1DoR6ORojXiehTmbG"
-        }
-      ],
-      "duration_ms": 343840,
-      "name": "Chalaban - Live",
-      "url": "https://open.spotify.com/track/7eBSPitHLvqS4y6Ik7dD8f"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Assala",
         "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 245097,
       "name": "Lalla Mira - Jan Rase Remix",
       "url": "https://open.spotify.com/track/2yXvT1eHZzo5y2fyv6fo3W"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Moroccan Spring (Live)",
+        "url": "https://open.spotify.com/album/29xpcwtYHON3dbSKInrTzl"
+      },
+      "artists": [
+        {
+          "name": "Chalaban",
+          "url": "https://open.spotify.com/artist/7wy6H1DoR6ORojXiehTmbG"
+        }
+      ],
+      "duration_ms": 343840,
+      "name": "Chalaban - Live",
+      "url": "https://open.spotify.com/track/7eBSPitHLvqS4y6Ik7dD8f"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Gnawa - Sahara Desert Music",
-        "url": "https://open.spotify.com/album/0oOMF0xYlNdAgtgOlchO0P"
-      },
-      "artists": [
-        {
-          "name": "Ben Souda Group",
-          "url": "https://open.spotify.com/artist/1cmi0pd20tMWGMJKmaC81l"
-        }
-      ],
-      "duration_ms": 546400,
-      "name": "Moussa bahri",
-      "url": "https://open.spotify.com/track/0ATAbhw6ntNOd1KK5yZ82O"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
         "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 467800,
       "name": "Sentir solo",
       "url": "https://open.spotify.com/track/3RZWkRMU2BsIiTZ9U5ugFL"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Gnawa - Sahara Desert Music",
+        "url": "https://open.spotify.com/album/0oOMF0xYlNdAgtgOlchO0P"
+      },
+      "artists": [
+        {
+          "name": "Ben Souda Group",
+          "url": "https://open.spotify.com/artist/1cmi0pd20tMWGMJKmaC81l"
+        }
+      ],
+      "duration_ms": 546400,
+      "name": "Moussa bahri",
+      "url": "https://open.spotify.com/track/0ATAbhw6ntNOd1KK5yZ82O"
     },
     {
       "added_at": "2022-03-10 07:10:03",

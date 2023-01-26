@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21126,
+  "num_followers": 21125,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAxNTMsMjMwZWU2Y2NjYzk5NmEyMjc0YzllMjVjNTlmOTVmYWJmYTgxNjAyMw==",
+  "snapshot_id": "MTAxNTUsZWQxOGNmMTU0YzA5MTE1ZWZjMGZkYjgzZWIzNTVlMDY3OTY2M2MwMw==",
   "tracks": [
     {
       "added_at": "2023-01-11 20:20:38",
@@ -43,6 +43,22 @@
       "duration_ms": 217600,
       "name": "DON'T SAY",
       "url": "https://open.spotify.com/track/6jQBmXtAN72QaNfZOiHPqr"
+    },
+    {
+      "added_at": "2023-01-25 16:20:05",
+      "album": {
+        "name": "Bury Me in Leather",
+        "url": "https://open.spotify.com/album/3Dvdh7oOswePpcRafceHcj"
+      },
+      "artists": [
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Bury Me in Leather",
+      "url": "https://open.spotify.com/track/1UOKmBLABOg9weXxIYM6oB"
     },
     {
       "added_at": "2023-01-20 22:17:00",

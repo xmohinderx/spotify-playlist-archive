@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Bollywood hits repackaged just for you\. Cover\- Ayushmann Khurrana & Malaika Arora
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,707 likes - 71 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,821 likes - 71 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

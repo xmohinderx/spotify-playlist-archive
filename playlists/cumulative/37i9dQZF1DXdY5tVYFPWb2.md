@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-416 songs - 1 day 3 hr 40 min
+417 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Jubilee](https://open.spotify.com/track/4GvzdbMFTbxMavCVbE9yF2) | [Dortmund Moon Sliders](https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv) | [Life Is Beautiful](https://open.spotify.com/album/6n8QbQQAamira9hPwP1URm) | 3:48 | 2022-06-07 | 2022-06-09 |
 | [Just be Blue](https://open.spotify.com/track/40EILmSfgFpQb5c5LnHAiP) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Just be Blue](https://open.spotify.com/album/778O7vFyhlYuGXeQjpDfhV) | 4:01 | 2022-06-02 | 2022-11-01 |
 | [KISS](https://open.spotify.com/track/3tVxy9ELaFCugIRJZuTZZA) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [KISS](https://open.spotify.com/album/2P0s62siakpuWNAAgkO4Sa) | 4:58 | 2022-06-07 | 2022-06-09 |
+| [Koi ha jealousy](https://open.spotify.com/track/381vdLFYEwBI1JYzIT9GME) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [Koi ha jealousy](https://open.spotify.com/album/7K2SHuNbsnIZ1EwGjuR2Qf) | 4:06 | 2023-01-24 |  |
 | [KOUKIATSU GIRL \- Cover](https://open.spotify.com/track/5QlxHMreTskkE83iRbCcc6) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [KOUKIATSU GIRL \(Cover\)](https://open.spotify.com/album/1YfgGk0q0Lwvf0L0pybRbH) | 4:28 | 2022-11-01 | 2022-11-09 |
 | [Last Summer Whisper](https://open.spotify.com/track/5xAOWLiF60oEmFuqKlQpsK) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [Last Summer Whisper](https://open.spotify.com/album/3cPaTLAt97j6XbmIL3z6Nf) | 4:30 | 2022-08-02 | 2022-08-17 |
 | [Last Train](https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Last Train](https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G) | 3:37 | 2022-07-27 |  |
@@ -377,7 +378,7 @@
 | [強く儚い者たち](https://open.spotify.com/track/2ivtIgteLtEs6Z0UDSVsGU) | [伶](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [強く儚い者たち](https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J) | 3:47 | 2023-01-17 |  |
 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 | 2022-05-28 |  |
 | [恋の後味](https://open.spotify.com/track/5Ps6N8EagDyCIASsX4E8nW) | [Yufu Terashima](https://open.spotify.com/artist/1EprrjlHDT5PD1w2NrHDPJ) | [恋の後味](https://open.spotify.com/album/0n04mNWmzUUWZnfGNyC3oB) | 4:56 | 2022-12-13 | 2023-01-11 |
-| [恋はジェラシー](https://open.spotify.com/track/6IXn8HunEvFtT6yihvgkYC) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [恋はジェラシー](https://open.spotify.com/album/0VzuX0pUtargb2ROyJgWXO) | 4:06 | 2023-01-24 |  |
+| [恋はジェラシー](https://open.spotify.com/track/6IXn8HunEvFtT6yihvgkYC) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [恋はジェラシー](https://open.spotify.com/album/0VzuX0pUtargb2ROyJgWXO) | 4:06 | 2023-01-24 | 2023-01-26 |
 | [恋は流星 Part Ⅱ](https://open.spotify.com/track/7ENEQQY8yvG7zseEkiS9Rg) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [TWILIGHT TIME](https://open.spotify.com/album/0WNOuQ9sN0J3lV3pkzrJMu) | 5:28 | 2022-06-14 | 2022-06-22 |
 | [恋標](https://open.spotify.com/track/1KjHPv0YOx8YgxV8nkChtk) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [恋標](https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3) | 3:32 | 2022-07-27 | 2022-07-29 |
 | [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ) | 4:35 | 2022-05-24 | 2022-12-14 |

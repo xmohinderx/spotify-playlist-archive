@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 120191,
+  "num_followers": 120236,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU3MjQwMCwwMDAwMDAwMDUyYmMyNWU2MGNmMGVlODIyZDRjZWE4ODk4YmYwOGJi",
+  "snapshot_id": "MTY3NDY1MjI5NSwwMDAwMDAwMDkxODlhZTU2ZjA2ODFlODE1NDY2NTAzZGExZWE0ZmVj",
   "tracks": [
     {
       "added_at": "2023-01-24 15:00:00",
@@ -27,18 +27,22 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "Cafe Japan",
-        "url": "https://open.spotify.com/album/69iMkz0yop4xe0MmptbDzb"
+        "name": "Villa Tereze",
+        "url": "https://open.spotify.com/album/4OuUigPkJ1U6fB7k4X5GfV"
       },
       "artists": [
         {
-          "name": "Koji Tamaki",
-          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
+          "name": "Oh Shu",
+          "url": "https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS"
+        },
+        {
+          "name": "Bioman",
+          "url": "https://open.spotify.com/artist/5X9XmfNxSM6lP2QXQyYAWM"
         }
       ],
-      "duration_ms": 280280,
-      "name": "\u30e1\u30ed\u30c7\u30a3\u30fc",
-      "url": "https://open.spotify.com/track/3WlNXip1Fm13r2YREQvKMR"
+      "duration_ms": 78737,
+      "name": "Higashi Yoshino",
+      "url": "https://open.spotify.com/track/5GbFjiN7n8UinsQG27YQVP"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -111,22 +115,18 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "Villa Tereze",
-        "url": "https://open.spotify.com/album/4OuUigPkJ1U6fB7k4X5GfV"
+        "name": "Windswept Adan",
+        "url": "https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA"
       },
       "artists": [
         {
-          "name": "Oh Shu",
-          "url": "https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS"
-        },
-        {
-          "name": "Bioman",
-          "url": "https://open.spotify.com/artist/5X9XmfNxSM6lP2QXQyYAWM"
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 78737,
-      "name": "Higashi Yoshino",
-      "url": "https://open.spotify.com/track/5GbFjiN7n8UinsQG27YQVP"
+      "duration_ms": 285500,
+      "name": "Dawn in the Adan",
+      "url": "https://open.spotify.com/track/03fJjiNTn1gyzbqHl1Hskt"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -280,7 +280,7 @@
       "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "Days",
-        "url": "https://open.spotify.com/album/6y6EKuZFTF27DVWz2CckWK"
+        "url": "https://open.spotify.com/album/4N5nEU0I2SW89TXSuvBvbb"
       },
       "artists": [
         {
@@ -290,7 +290,7 @@
       ],
       "duration_ms": 199167,
       "name": "Days",
-      "url": "https://open.spotify.com/track/26o4oI2sYBD4r0Oq0sV5GY"
+      "url": "https://open.spotify.com/track/0s4yqLuXcjig9VJH6XNMG7"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -311,8 +311,8 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "Love Birds",
-        "url": "https://open.spotify.com/album/4aHwdSC9EOrqJ6OzW7fkbP"
+        "name": "[Kin no Kuni Mizu no Kuni] Original Sound Track",
+        "url": "https://open.spotify.com/album/5BWOI876SLfTD2yz4Nom0u"
       },
       "artists": [
         {
@@ -326,7 +326,7 @@
       ],
       "duration_ms": 153133,
       "name": "Love Birds",
-      "url": "https://open.spotify.com/track/2nORh3ReQzKn8Pg51JaaN5"
+      "url": "https://open.spotify.com/track/2TDtrTlftOMY2GlU8aMtMb"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "Windswept Adan",
-        "url": "https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA"
+        "name": "\u3044\u3064\u3057\u304b",
+        "url": "https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "Daichi Miura",
+          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
         }
       ],
-      "duration_ms": 285500,
-      "name": "Dawn in the Adan",
-      "url": "https://open.spotify.com/track/03fJjiNTn1gyzbqHl1Hskt"
+      "duration_ms": 240532,
+      "name": "\u3044\u3064\u3057\u304b",
+      "url": "https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "\u3044\u3064\u3057\u304b",
-        "url": "https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq"
-      },
-      "artists": [
-        {
-          "name": "Daichi Miura",
-          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
-        }
-      ],
-      "duration_ms": 240532,
-      "name": "\u3044\u3064\u3057\u304b",
-      "url": "https://open.spotify.com/track/7Lw2wccjg0QHvT7T634t6W"
-    },
-    {
-      "added_at": "2023-01-24 15:00:00",
-      "album": {
         "name": "Belle (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
       },
@@ -409,20 +393,36 @@
       "url": "https://open.spotify.com/track/3VXkaNgYFHOxbuOmKejypT"
     },
     {
-      "added_at": "2023-01-24 15:00:00",
+      "added_at": "2023-01-26 01:33:33",
       "album": {
-        "name": "Hikare Inochi",
-        "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
       },
       "artists": [
         {
-          "name": "Kitri",
-          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 210760,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
+      "duration_ms": 224266,
+      "name": "\u7cf8",
+      "url": "https://open.spotify.com/track/1Q3wFTqaH9rmVGdGj85Lsa"
+    },
+    {
+      "added_at": "2023-01-26 01:33:33",
+      "album": {
+        "name": "chouchou",
+        "url": "https://open.spotify.com/album/79YTP5wf0HBO3sihh5cfsN"
+      },
+      "artists": [
+        {
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+        }
+      ],
+      "duration_ms": 349920,
+      "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3084 - movie ver.",
+      "url": "https://open.spotify.com/track/59pUIlXjQupbiYwt40uUTi"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "0",
-        "url": "https://open.spotify.com/album/4yqm0ZLcphXs8M8cVvLKym"
+        "name": "Hikare Inochi",
+        "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "Kitri",
+          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
         }
       ],
-      "duration_ms": 127273,
-      "name": "\u3046\u305f\u306e\u3051\u306f\u3044",
-      "url": "https://open.spotify.com/track/2TNG5NxXZXBsLmhB8RGN2N"
+      "duration_ms": 210760,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "\u3086\u3081",
-        "url": "https://open.spotify.com/album/4d0nnBfxKBJt3evaV4Yssh"
+        "name": "0",
+        "url": "https://open.spotify.com/album/4yqm0ZLcphXs8M8cVvLKym"
       },
       "artists": [
         {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 268331,
-      "name": "\u305f\u3081\u606f\u306e\u884c\u65b9",
-      "url": "https://open.spotify.com/track/6GSVtgBJ2bNRicSqQcXg99"
+      "duration_ms": 127273,
+      "name": "\u3046\u305f\u306e\u3051\u306f\u3044",
+      "url": "https://open.spotify.com/track/2TNG5NxXZXBsLmhB8RGN2N"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "KISS IN THE SKY",
-        "url": "https://open.spotify.com/album/7BMTvf0xLj0pnzG4FCvFUD"
+        "name": "\u3086\u3081",
+        "url": "https://open.spotify.com/album/4d0nnBfxKBJt3evaV4Yssh"
       },
       "artists": [
         {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
         }
       ],
-      "duration_ms": 322666,
-      "name": "\u7720\u308c\u306c\u591c\u306f\u541b\u306e\u305b\u3044",
-      "url": "https://open.spotify.com/track/3pIbaGD2BPo1DTUj8Ujlct"
+      "duration_ms": 268331,
+      "name": "\u305f\u3081\u606f\u306e\u884c\u65b9",
+      "url": "https://open.spotify.com/track/6GSVtgBJ2bNRicSqQcXg99"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "Windswept Adan",
-        "url": "https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA"
+        "name": "KISS IN THE SKY",
+        "url": "https://open.spotify.com/album/7BMTvf0xLj0pnzG4FCvFUD"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
         }
       ],
-      "duration_ms": 269290,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/15Ulu5nGXTW4DQ79pT0YhC"
+      "duration_ms": 322666,
+      "name": "\u7720\u308c\u306c\u591c\u306f\u541b\u306e\u305b\u3044",
+      "url": "https://open.spotify.com/track/3pIbaGD2BPo1DTUj8Ujlct"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -569,20 +569,20 @@
       "url": "https://open.spotify.com/track/2Eot25c6UOeLc4jcN3fEQF"
     },
     {
-      "added_at": "2023-01-24 15:00:00",
+      "added_at": "2023-01-26 01:33:33",
       "album": {
-        "name": "A Rainy Night in NY",
-        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
+        "name": "Voices Of Love",
+        "url": "https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9"
       },
       "artists": [
         {
-          "name": "moeki",
-          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+          "name": "Ann Sally",
+          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
         }
       ],
-      "duration_ms": 178546,
-      "name": "A Rainy Night in NY",
-      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
+      "duration_ms": 258346,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -599,6 +599,38 @@
       "duration_ms": 120799,
       "name": "I Love You More.",
       "url": "https://open.spotify.com/track/5Id0x8wRZVso2GLqzofDAB"
+    },
+    {
+      "added_at": "2023-01-24 15:00:00",
+      "album": {
+        "name": "Windswept Adan",
+        "url": "https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 269290,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/15Ulu5nGXTW4DQ79pT0YhC"
+    },
+    {
+      "added_at": "2023-01-24 15:00:00",
+      "album": {
+        "name": "A Rainy Night in NY",
+        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
+      },
+      "artists": [
+        {
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "A Rainy Night in NY",
+      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -623,38 +655,6 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
-        "url": "https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 344749,
-      "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
-      "url": "https://open.spotify.com/track/4HXShgD3c3dq65CtAqoqzh"
-    },
-    {
-      "added_at": "2023-01-24 15:00:00",
-      "album": {
-        "name": "Acoustic Versions",
-        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
-      },
-      "artists": [
-        {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
-        }
-      ],
-      "duration_ms": 132390,
-      "name": "Midnight Song",
-      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
-    },
-    {
-      "added_at": "2023-01-24 15:00:00",
-      "album": {
         "name": "This is music too",
         "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
       },
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "last wave",
-        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
+        "name": "Acoustic Versions",
+        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
       },
       "artists": [
         {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
         }
       ],
-      "duration_ms": 153652,
-      "name": "last wave",
-      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+      "duration_ms": 132390,
+      "name": "Midnight Song",
+      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -705,52 +705,52 @@
       "url": "https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re"
     },
     {
-      "added_at": "2023-01-24 15:00:00",
+      "added_at": "2023-01-26 01:33:33",
       "album": {
-        "name": "SHINJITERU",
-        "url": "https://open.spotify.com/album/17wK4RXzdKxK13VIyOyQHU"
+        "name": "Roundabout",
+        "url": "https://open.spotify.com/album/07b8jFWroRWTpEWF8SrDLe"
       },
       "artists": [
         {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+          "name": "\u660e\u661f <Akeboshi>",
+          "url": "https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa"
         }
       ],
-      "duration_ms": 213933,
-      "name": "\u6df1\u547c\u5438",
-      "url": "https://open.spotify.com/track/67cJ60aXMxPR2e3cjplRAb"
+      "duration_ms": 308946,
+      "name": "Yellow Moon",
+      "url": "https://open.spotify.com/track/3nPTeT1tp6GmHjmBFnCSzF"
     },
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "POLY LIFE MULTI SOUL",
-        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
+        "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
+        "url": "https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd"
       },
       "artists": [
         {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 128028,
-      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
-      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
+      "duration_ms": 344749,
+      "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
+      "url": "https://open.spotify.com/track/4HXShgD3c3dq65CtAqoqzh"
     },
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
+        "name": "last wave",
+        "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
       },
       "artists": [
         {
-          "name": "KENTA MAENO",
-          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 67203,
-      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
+      "duration_ms": 153652,
+      "name": "last wave",
+      "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "Amiko (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2PsLFEBmhmYIgSMuZ3Gb3w"
+        "name": "SHINJITERU",
+        "url": "https://open.spotify.com/album/17wK4RXzdKxK13VIyOyQHU"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 240886,
-      "name": "hello",
-      "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
+      "duration_ms": 213933,
+      "name": "\u6df1\u547c\u5438",
+      "url": "https://open.spotify.com/track/67cJ60aXMxPR2e3cjplRAb"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -859,6 +859,54 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
+        "name": "Amiko (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2PsLFEBmhmYIgSMuZ3Gb3w"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 240886,
+      "name": "hello",
+      "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
+    },
+    {
+      "added_at": "2023-01-24 15:00:00",
+      "album": {
+        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
+      },
+      "artists": [
+        {
+          "name": "KENTA MAENO",
+          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
+        }
+      ],
+      "duration_ms": 67203,
+      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
+    },
+    {
+      "added_at": "2023-01-24 15:00:00",
+      "album": {
+        "name": "POLY LIFE MULTI SOUL",
+        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "duration_ms": 128028,
+      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
+      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
+    },
+    {
+      "added_at": "2023-01-24 15:00:00",
+      "album": {
         "name": "Karakai",
         "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
       },
@@ -893,6 +941,22 @@
       "url": "https://open.spotify.com/track/6iBvMGKtAhUSyFaZZKIP7F"
     },
     {
+      "added_at": "2023-01-26 01:33:33",
+      "album": {
+        "name": "Days With Uncertainty",
+        "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
+      },
+      "artists": [
+        {
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+        }
+      ],
+      "duration_ms": 239160,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
+    },
+    {
       "added_at": "2023-01-24 15:00:00",
       "album": {
         "name": "\u702c\u3068\u702c",
@@ -907,38 +971,6 @@
       "duration_ms": 283149,
       "name": "\u540c\u3058\u6708\u3092\u898b\u3066\u3044\u308b",
       "url": "https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML"
-    },
-    {
-      "added_at": "2023-01-24 15:00:00",
-      "album": {
-        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0~beautiful sleep~",
-        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
-      },
-      "artists": [
-        {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "Beautiful Sleep",
-      "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
-    },
-    {
-      "added_at": "2023-01-24 15:00:00",
-      "album": {
-        "name": "\u65b0\u3057\u3044\u4eba",
-        "url": "https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8"
-      },
-      "artists": [
-        {
-          "name": "OGRE YOU ASSHOLE",
-          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
-        }
-      ],
-      "duration_ms": 278517,
-      "name": "\u65b0\u3057\u3044\u4eba",
-      "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -959,6 +991,38 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
+        "name": "\u65b0\u3057\u3044\u4eba",
+        "url": "https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8"
+      },
+      "artists": [
+        {
+          "name": "OGRE YOU ASSHOLE",
+          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
+        }
+      ],
+      "duration_ms": 278517,
+      "name": "\u65b0\u3057\u3044\u4eba",
+      "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
+    },
+    {
+      "added_at": "2023-01-24 15:00:00",
+      "album": {
+        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0~beautiful sleep~",
+        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
+      },
+      "artists": [
+        {
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Beautiful Sleep",
+      "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
+    },
+    {
+      "added_at": "2023-01-24 15:00:00",
+      "album": {
         "name": "Sleeping in Waking",
         "url": "https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2"
       },
@@ -971,6 +1035,22 @@
       "duration_ms": 233887,
       "name": "Sleeping in Waking",
       "url": "https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe"
+    },
+    {
+      "added_at": "2023-01-26 01:33:33",
+      "album": {
+        "name": "Beat Installments",
+        "url": "https://open.spotify.com/album/2UMNx3cmcaMPsMKViw4nS1"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 186374,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/6GouUDqhYlz4D8A18osOwd"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -991,38 +1071,6 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
-        "name": "Westbound EP",
-        "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 228005,
-      "name": "Separate Seasons",
-      "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
-    },
-    {
-      "added_at": "2023-01-24 15:00:00",
-      "album": {
-        "name": "Songs of Four Seasons",
-        "url": "https://open.spotify.com/album/1sCFYE7ZW7GhWkaKqiU2CS"
-      },
-      "artists": [
-        {
-          "name": "Marter",
-          "url": "https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1"
-        }
-      ],
-      "duration_ms": 312853,
-      "name": "Mori no kotoba",
-      "url": "https://open.spotify.com/track/6SFm3HdywAFS4wRM4S5izc"
-    },
-    {
-      "added_at": "2023-01-24 15:00:00",
-      "album": {
         "name": "Prescribing The...",
         "url": "https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat"
       },
@@ -1035,6 +1083,22 @@
       "duration_ms": 287169,
       "name": "\u82fa",
       "url": "https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH"
+    },
+    {
+      "added_at": "2023-01-24 15:00:00",
+      "album": {
+        "name": "Westbound EP",
+        "url": "https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 228005,
+      "name": "Separate Seasons",
+      "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
     },
     {
       "added_at": "2023-01-24 15:00:00",
@@ -1071,6 +1135,22 @@
     {
       "added_at": "2023-01-24 15:00:00",
       "album": {
+        "name": "Songs of Four Seasons",
+        "url": "https://open.spotify.com/album/1sCFYE7ZW7GhWkaKqiU2CS"
+      },
+      "artists": [
+        {
+          "name": "Marter",
+          "url": "https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1"
+        }
+      ],
+      "duration_ms": 312853,
+      "name": "Mori no kotoba",
+      "url": "https://open.spotify.com/track/6SFm3HdywAFS4wRM4S5izc"
+    },
+    {
+      "added_at": "2023-01-24 15:00:00",
+      "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
@@ -1083,86 +1163,6 @@
       "duration_ms": 228038,
       "name": "\u30d1\u30ec\u30fc\u30c9",
       "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
-    },
-    {
-      "added_at": "2023-01-24 15:00:00",
-      "album": {
-        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
-        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "\u306d\u3080\u308b\u306e\u307e\u3061~Tidur Tidur~",
-      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
-    },
-    {
-      "added_at": "2023-01-24 15:00:00",
-      "album": {
-        "name": "Lamp",
-        "url": "https://open.spotify.com/album/4xD9RDDnKrG3MHzvuP0GCd"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 272436,
-      "name": "Lamp",
-      "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
-    },
-    {
-      "added_at": "2023-01-24 15:00:00",
-      "album": {
-        "name": "early summer 2022",
-        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
-      },
-      "artists": [
-        {
-          "name": "Kazumasa Oda",
-          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
-        }
-      ],
-      "duration_ms": 274066,
-      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
-    },
-    {
-      "added_at": "2023-01-24 15:00:00",
-      "album": {
-        "name": "Retronym",
-        "url": "https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj"
-      },
-      "artists": [
-        {
-          "name": "NRQ",
-          "url": "https://open.spotify.com/artist/55EEMVysOzhsLWSDzB5zhf"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "\u5728\u5b85\u30ef\u30eb\u30c4",
-      "url": "https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e"
-    },
-    {
-      "added_at": "2023-01-24 15:00:00",
-      "album": {
-        "name": "Apartment",
-        "url": "https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Arata",
-          "url": "https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO"
-        }
-      ],
-      "duration_ms": 243846,
-      "name": "Apartment",
-      "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

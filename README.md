@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5484\)
+## Playlists \(5485\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -415,7 +415,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Alternative 90s](/playlists/pretty/37i9dQZF1DXaLI8a395lse.md)
 - [Alternative Beats](/playlists/pretty/37i9dQZF1DWXMg4uP5o3dm.md)
 - [Alternative Hip\-Hop](/playlists/pretty/37i9dQZF1DWTggY0yqBxES.md)
-- [Alternative Love Songs](/playlists/pretty/37i9dQZF1DWZIQpJDqCc10.md)
 - [Alternative Metal](/playlists/pretty/37i9dQZF1DWY5ai7gxfuaS.md)
 - [Alternative New Year's Eve](/playlists/pretty/214Nwj78JwTfjSeQxbGxeX.md)
 - [Alternative Noise](/playlists/pretty/37i9dQZF1DWTBN71pVn2Ej.md)
@@ -1709,10 +1708,10 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Front Porch](/playlists/pretty/37i9dQZF1DXa2PsvJSPnPf.md)
 - [Fuck Valentine!](/playlists/pretty/5Dn14a8hNIhT3NLLjUUBGL.md)
 - [Fuego](/playlists/pretty/37i9dQZF1DX8sljIJzI0oo.md)
-- [Fuego Mixtape \#029](/playlists/pretty/37i9dQZF1DX43RxlozBphv.md)
-- [Fuego Mixtape \#030](/playlists/pretty/37i9dQZF1DX4j0q1RtStoE.md)
-- [Fuego Mixtape \#031](/playlists/pretty/37i9dQZF1DXaMDlfRzIU3h.md)
-- [Fuego Mixtape \#032](/playlists/pretty/37i9dQZF1DX5MdZmcbe8Cd.md)
+- [Fuego \#029](/playlists/pretty/37i9dQZF1DX43RxlozBphv.md)
+- [Fuego \#030](/playlists/pretty/37i9dQZF1DX4j0q1RtStoE.md)
+- [Fuego \#031](/playlists/pretty/37i9dQZF1DXaMDlfRzIU3h.md)
+- [Fuego \#032](/playlists/pretty/37i9dQZF1DX5MdZmcbe8Cd.md)
 - [Full Volume](/playlists/pretty/37i9dQZF1DWUv0cTKdT8jJ.md)
 - [Fun Run](/playlists/pretty/37i9dQZF1DXadOVCgGhS7j.md)
 - [Funk & Disco Zamaan](/playlists/pretty/37i9dQZF1DX8SE5tIsUWTD.md)
@@ -2093,6 +2092,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Indie Gaming](/playlists/pretty/37i9dQZF1DX4geSlFB9288.md)
 - [Indie Halloween](/playlists/pretty/37i9dQZF1DX4OZgI1RIQZf.md)
 - [Indie India](/playlists/pretty/37i9dQZF1DX5q67ZpWyRrZ.md)
+- [Indie Love Songs](/playlists/pretty/37i9dQZF1DWZIQpJDqCc10.md)
 - [Indie One Stop](/playlists/pretty/6OeIIMFsdtsL9VUyL6PDvX.md)
 - [Indie Party](/playlists/pretty/37i9dQZF1DWTujiC7wfofZ.md)
 - [Indie Pop](/playlists/pretty/37i9dQZF1DWWEcRhUVtL8n.md)
@@ -3929,6 +3929,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Take it Easy](/playlists/pretty/3vnx7BaCl3YmHrg3WGLedp.md)
 - [Take it Slow](/playlists/pretty/37i9dQZF1DXblsWWYXYYVu.md)
 - [Tale Of Us track IDs](/playlists/pretty/37i9dQZF1DWYSp7hjZhav2.md)
+- [Tales of Series 『テイルズ オブ』シリーズ](/playlists/pretty/37i9dQZF1DX8rY0740lkSF.md)
 - [Tall Girl 2 Official Playlist](/playlists/pretty/37i9dQZF1DWSJQ1Sv9Jjrl.md)
 - [Tamil BAE 💕](/playlists/pretty/37i9dQZF1DX09enSktFOuB.md)
 - [Tamil Indie](/playlists/pretty/37i9dQZF1DWVPZhZJQP9HE.md)

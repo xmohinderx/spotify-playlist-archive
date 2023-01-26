@@ -1,12 +1,12 @@
 {
   "description": "drip down",
-  "num_followers": 479734,
+  "num_followers": 480031,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTE3NiwwMDAwMDAwMDk4MzgwMmUyZTZhMjJlMzk2NTIwOGU0NDJhY2I0MTgz",
+  "snapshot_id": "MTY3Mzk4MTE3NiwwMDAwMDAwMGJjOWRiMTE5N2IzMjBlMTA1MjliYzM0ODBjOWNjYTFi",
   "tracks": [
     {
       "added_at": "2022-12-16 18:02:53",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
     },
     {
-      "added_at": "2022-12-16 18:02:53",
-      "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 198107,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
-    },
-    {
       "added_at": "2023-01-17 18:46:16",
       "album": {
         "name": "Mamacita (feat. A$AP Rocky)",
@@ -767,6 +751,22 @@
       "duration_ms": 185749,
       "name": "Mamacita (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/1SlHZ51oGKV56qtPVFyJlR"
+    },
+    {
+      "added_at": "2022-12-16 18:02:53",
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 198107,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
     },
     {
       "added_at": "2022-12-16 18:02:53",

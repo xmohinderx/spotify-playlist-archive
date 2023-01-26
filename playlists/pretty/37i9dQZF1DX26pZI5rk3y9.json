@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 3411,
+  "num_followers": 3422,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk5MTI4OCwwMDAwMDAwMGI2MGExZDc3YWI4NjE0YmVlNjk1ZDcyYmE1ZTc4ZWE4",
+  "snapshot_id": "MTY2OTk5MTI4OCwwMDAwMDAwMDA3NjE2ZDhjZWRhM2Y2ZTM1MzcwNmJjMzA5YWMzNjIz",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Groove Juice: The Norman Granz Recordings + More",
-        "url": "https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc"
-      },
-      "artists": [
-        {
-          "name": "Slim Gaillard",
-          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
-        }
-      ],
-      "duration_ms": 185693,
-      "name": "Potato Chips",
-      "url": "https://open.spotify.com/track/1p0txitWUzsbb9scGmL2wl"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
         "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 139000,
       "name": "Don't Mess With My Man",
       "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Groove Juice: The Norman Granz Recordings + More",
+        "url": "https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc"
+      },
+      "artists": [
+        {
+          "name": "Slim Gaillard",
+          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
+        }
+      ],
+      "duration_ms": 185693,
+      "name": "Potato Chips",
+      "url": "https://open.spotify.com/track/1p0txitWUzsbb9scGmL2wl"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 156533,
-      "name": "Dust My Broom",
-      "url": "https://open.spotify.com/track/3EaFV7yFZiTlaJrxDTVTfh"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 329626,
       "name": "Country Child",
       "url": "https://open.spotify.com/track/30PKqHQREud0qvvSjBi4HU"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 156533,
+      "name": "Dust My Broom",
+      "url": "https://open.spotify.com/track/3EaFV7yFZiTlaJrxDTVTfh"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "The Complete Recordings, Vol. 5: The Final Chapter",
+        "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Gimme a Pigfoot and a Bottle of Beer",
+      "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "Sax Star: Maxwell's Best, Vol. 1",
         "url": "https://open.spotify.com/album/2kT0jx8Xe22NZtnhUzVgYB"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 255893,
       "name": "Two Bugs And A Roach",
       "url": "https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "The Complete Recordings, Vol. 5: The Final Chapter",
-        "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Gimme a Pigfoot and a Bottle of Beer",
-      "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
         }
       ],
-      "duration_ms": 167600,
-      "name": "Scotchin' with Soda",
-      "url": "https://open.spotify.com/track/2Yvble8xC3hchiHbUo7k8q"
+      "duration_ms": 163760,
+      "name": "Atomic Cocktail",
+      "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1020,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
         }
       ],
-      "duration_ms": 163760,
-      "name": "Atomic Cocktail",
-      "url": "https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox"
+      "duration_ms": 167600,
+      "name": "Scotchin' with Soda",
+      "url": "https://open.spotify.com/track/2Yvble8xC3hchiHbUo7k8q"
     },
     {
       "added_at": "2022-12-02 14:28:08",

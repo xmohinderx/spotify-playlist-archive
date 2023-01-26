@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Found",
+        "url": "https://open.spotify.com/album/6ofPGdVjQVbTqvT9x2PlDU"
+      },
+      "artists": [
+        {
+          "name": "Ana Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227027,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/3TdJeWZcITRaSf9Cr1k4Q4"
+    },
+    {
+      "album": {
         "name": "Free?",
         "url": "https://open.spotify.com/album/6yJ2VI1c4Z8sREUJp0jek9"
       },
@@ -2886,7 +2904,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 166186,
       "name": "W O U N D E D H E A R T",
       "url": "https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4"

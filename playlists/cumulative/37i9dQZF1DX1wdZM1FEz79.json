@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 278160,
       "name": "A Common Word",
       "url": "https://open.spotify.com/track/4InyptNd98tGVH9QCP71eB"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 264119,
       "name": "Cape",
       "url": "https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK"
@@ -1407,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "Demo songs",
+        "url": "https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246874,
+      "name": "dear heart",
+      "url": "https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d"
+    },
+    {
+      "album": {
         "name": "Dear My All",
         "url": "https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf"
       },
@@ -1700,7 +1718,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 199413,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6LKKXN9AU570Y88RrQeM1s"
@@ -2700,7 +2718,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 231040,
       "name": "I can feel you",
       "url": "https://open.spotify.com/track/4ObaWDh9Kif34bIucjOnTR"
@@ -3885,6 +3903,24 @@
     },
     {
       "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID"
+      },
+      "artists": [
+        {
+          "name": "JUNGHEUM BAND",
+          "url": "https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155708,
+      "name": "Looking at you",
+      "url": "https://open.spotify.com/track/507ppjVjg1o4N4hHnKnQlZ"
+    },
+    {
+      "album": {
         "name": "Nevertheless, (Original Television Soundtrack, Pt. 6)",
         "url": "https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi"
       },
@@ -4177,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "My",
+        "url": "https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw"
+      },
+      "artists": [
+        {
+          "name": "Baek Sun",
+          "url": "https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166961,
+      "name": "My (Prod. Norwegian Wood)",
+      "url": "https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh"
+    },
+    {
+      "album": {
         "name": "HIDDEN TRACK NO.V Vol.1",
         "url": "https://open.spotify.com/album/06p1MyiQ9pmdEFOTlglNBA"
       },
@@ -4278,7 +4332,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 194786,
       "name": "My Destiny",
       "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
@@ -5309,6 +5363,24 @@
     },
     {
       "album": {
+        "name": "salt",
+        "url": "https://open.spotify.com/album/0fLVOF1PoCGnV5s6qNlU85"
+      },
+      "artists": [
+        {
+          "name": "YOUNG IN",
+          "url": "https://open.spotify.com/artist/4oul845EBgCRnFKfMTZLOl"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "salt",
+      "url": "https://open.spotify.com/track/7uPCZiAnILMxx8F402dmne"
+    },
+    {
+      "album": {
         "name": "Voice beside Guitar",
         "url": "https://open.spotify.com/album/70GhQ25UJGiA9zda20tcW4"
       },
@@ -5440,6 +5512,24 @@
       "duration_ms": 186666,
       "name": "See you - with Noair, Nason",
       "url": "https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo"
+    },
+    {
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
+      },
+      "artists": [
+        {
+          "name": "\uc870\uc740\uc138",
+          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207998,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
     },
     {
       "album": {
@@ -6036,7 +6126,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 172000,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/1Idbih6qYZUXzL5I4Wq6Hn"
@@ -6278,7 +6368,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 279843,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/6FlCuZG1bp05Peno7KzYdK"
@@ -6362,6 +6452,24 @@
       "duration_ms": 231868,
       "name": "The Cat House \uace0\uc591\uc774 \uc9d1",
       "url": "https://open.spotify.com/track/3gOrrjFANav8rcfBiHXFnM"
+    },
+    {
+      "album": {
+        "name": "Be opposite",
+        "url": "https://open.spotify.com/album/7FxTHRGeQdiJSIaERNzWMZ"
+      },
+      "artists": [
+        {
+          "name": "ONL",
+          "url": "https://open.spotify.com/artist/0liJPOMxnzqzSVesgtun1D"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287952,
+      "name": "The end",
+      "url": "https://open.spotify.com/track/1YtcUMj2HBDcD0wgNFGCAW"
     },
     {
       "album": {
@@ -6604,6 +6712,24 @@
       "duration_ms": 253293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
+    },
+    {
+      "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/0mdnc4j51htd1nPCgJs2ao"
+      },
+      "artists": [
+        {
+          "name": "Hajin",
+          "url": "https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226825,
+      "name": "Time\u2019s Up",
+      "url": "https://open.spotify.com/track/68OeJN8El9Yc5EOmVP9MFa"
     },
     {
       "album": {
@@ -6904,6 +7030,24 @@
       "duration_ms": 248768,
       "name": "Wait",
       "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+    },
+    {
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/77bQMLhvHQLnYeaL9zcQQ9"
+      },
+      "artists": [
+        {
+          "name": "HAN HEEJUN",
+          "url": "https://open.spotify.com/artist/3XMcOeSNjiIPC033PUTSbi"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225417,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/0gXraDyOrV1IW6KAC8HEMq"
     },
     {
       "album": {
@@ -7598,7 +7742,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 185016,
       "name": "You have done well",
       "url": "https://open.spotify.com/track/7vzwYlTrQnC7kSaDhn252A"
@@ -7816,7 +7960,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 191200,
       "name": "\uacc4\uc808\uc740 \ud551\uacc4 Season is an excuse",
       "url": "https://open.spotify.com/track/4b3Ts1tvSUNBQ3oThWYduD"
@@ -7990,7 +8134,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 198749,
       "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
       "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"

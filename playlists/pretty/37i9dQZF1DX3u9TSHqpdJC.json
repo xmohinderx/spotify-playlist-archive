@@ -1,28 +1,60 @@
 {
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Florence Arman",
-  "num_followers": 175695,
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: FILLY",
+  "num_followers": 175799,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA1NTk4NiwwMDAwMDAwMGYyMzUxYTJkMThlMTI1ODBlNmFmMzU1ODhlNGRiYmQ0",
+  "snapshot_id": "MTY3NDY1Njc4MSwwMDAwMDAwMGYxNmYyMjUxZDAwNWE4Njk1NTg2OWMyM2FjZTI4MjQ5",
   "tracks": [
     {
-      "added_at": "2023-01-18 15:33:05",
+      "added_at": "2023-01-25 14:26:21",
       "album": {
-        "name": "Hello Florence, How Are You?",
-        "url": "https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc"
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/1brqiOya6F8Lyu9pNQJwCB"
       },
       "artists": [
         {
-          "name": "Florence Arman",
-          "url": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
         }
       ],
-      "duration_ms": 255500,
-      "name": "Hello Florence, How Are You?",
-      "url": "https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo"
+      "duration_ms": 148900,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/6cXiBpoXVCWr9NH9N9wHrw"
+    },
+    {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv"
+      },
+      "artists": [
+        {
+          "name": "Sky Li",
+          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
+        }
+      ],
+      "duration_ms": 198217,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9"
+    },
+    {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "Sun Comes Up",
+        "url": "https://open.spotify.com/album/2GahSUzUH4DzA1K7arrNHK"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Sun Comes Up",
+      "url": "https://open.spotify.com/track/0zT3R25EU3tGDj9aDAfWn8"
     },
     {
       "added_at": "2023-01-18 15:33:05",
@@ -41,6 +73,102 @@
       "url": "https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ"
     },
     {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "Nothing To Me",
+        "url": "https://open.spotify.com/album/4BFZfzQgyvP5HRU8xqpCVs"
+      },
+      "artists": [
+        {
+          "name": "Jamisen",
+          "url": "https://open.spotify.com/artist/1V1kPSjkC2fySepSAgEY2H"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Nothing To Me",
+      "url": "https://open.spotify.com/track/4Cl0IAqrNUW5mRtehI8kmi"
+    },
+    {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "No Business On The Dancefloor",
+        "url": "https://open.spotify.com/album/2PBGkaNBeBpkHedZ9J7eXH"
+      },
+      "artists": [
+        {
+          "name": "Keira",
+          "url": "https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng"
+        }
+      ],
+      "duration_ms": 167574,
+      "name": "No Business On The Dancefloor",
+      "url": "https://open.spotify.com/track/47EttOPfJblOFsztpSseEm"
+    },
+    {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "Stuck on This Feeling",
+        "url": "https://open.spotify.com/album/5n7Asipw0VAjvABxSsoW1T"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Supino",
+          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
+        }
+      ],
+      "duration_ms": 219429,
+      "name": "Stuck on This Feeling",
+      "url": "https://open.spotify.com/track/5s5BEpAPFlizcrs7HfA5cK"
+    },
+    {
+      "added_at": "2023-01-18 15:33:05",
+      "album": {
+        "name": "Hello Florence, How Are You?",
+        "url": "https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc"
+      },
+      "artists": [
+        {
+          "name": "Florence Arman",
+          "url": "https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "Hello Florence, How Are You?",
+      "url": "https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo"
+    },
+    {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "Outta Love",
+        "url": "https://open.spotify.com/album/7r7byZzn7AuyKEA5U9oTd2"
+      },
+      "artists": [
+        {
+          "name": "Andye",
+          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Outta Love",
+      "url": "https://open.spotify.com/track/6X4xZ67oR9dUHD74Yc7XDf"
+    },
+    {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/6dEQBEdT4avjltf11NlwjJ"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "duration_ms": 196198,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/6ucB0hgH5zcJFfjz4ZjHzX"
+    },
+    {
       "added_at": "2023-01-18 15:33:05",
       "album": {
         "name": "leave this party",
@@ -55,6 +183,134 @@
       "duration_ms": 179500,
       "name": "leave this party",
       "url": "https://open.spotify.com/track/3m0Z0qQb4hQhivHx7rrdKB"
+    },
+    {
+      "added_at": "2023-01-11 05:00:00",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 143233,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
+    },
+    {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "I'm Sorry I Killed Your Plant",
+        "url": "https://open.spotify.com/album/6GLTQZIqOPi8XyWZLF6JLR"
+      },
+      "artists": [
+        {
+          "name": "Skofee",
+          "url": "https://open.spotify.com/artist/3WTOG7w0dyNnKAyoqNxzzg"
+        }
+      ],
+      "duration_ms": 176851,
+      "name": "I'm Sorry I Killed Your Plant",
+      "url": "https://open.spotify.com/track/4xg7JHSLE6FDeaR9zqo18G"
+    },
+    {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/1F3OffAbOInLUHAmFYBCNY"
+      },
+      "artists": [
+        {
+          "name": "PRINS",
+          "url": "https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq"
+        }
+      ],
+      "duration_ms": 166275,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/1TWBsQA0pQqV5dPEu83yv9"
+    },
+    {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/0FP823lJ58rnrgmZeM4D0E"
+      },
+      "artists": [
+        {
+          "name": "Sophie Griffiths",
+          "url": "https://open.spotify.com/artist/1ScQHshsghfh1H0r7VXEEe"
+        }
+      ],
+      "duration_ms": 144397,
+      "name": "Modern Love",
+      "url": "https://open.spotify.com/track/6f9RSJ9y9DfqdHcuOzg8fI"
+    },
+    {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/3CK6fX2aALQy0hfi88Hxdw"
+      },
+      "artists": [
+        {
+          "name": "Queen Star",
+          "url": "https://open.spotify.com/artist/7aWcchXaMFsOnIhrHJ29tu"
+        }
+      ],
+      "duration_ms": 225050,
+      "name": "Sweet & Sour",
+      "url": "https://open.spotify.com/track/5dKEjd7OcB0yWo45GJcCvo"
+    },
+    {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "Precious Pressure",
+        "url": "https://open.spotify.com/album/4WwSCGJW82tUfUX434T3Qx"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Gray",
+          "url": "https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b"
+        }
+      ],
+      "duration_ms": 194646,
+      "name": "Precious Pressure",
+      "url": "https://open.spotify.com/track/02ZDVwSe8nFrCmhLaZruIN"
+    },
+    {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "Never Tell",
+        "url": "https://open.spotify.com/album/1ncAiKK9q65xB4mzT7TuZn"
+      },
+      "artists": [
+        {
+          "name": "Raine",
+          "url": "https://open.spotify.com/artist/1hxElSEVvcFYd7lTQaTXYG"
+        }
+      ],
+      "duration_ms": 211612,
+      "name": "Never Tell",
+      "url": "https://open.spotify.com/track/1q0VWU6CndPAdJaUTuJHVV"
+    },
+    {
+      "added_at": "2023-01-25 14:26:21",
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/4lfeSUTHSuB4FF2cN1X5n2"
+      },
+      "artists": [
+        {
+          "name": "Asy Saavedra",
+          "url": "https://open.spotify.com/artist/4Kf8xCePEbDe2ivKca5IsR"
+        }
+      ],
+      "duration_ms": 138153,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/2AysSxJ1DhgHaG490O1bdy"
     },
     {
       "added_at": "2023-01-18 15:33:05",
@@ -87,22 +343,6 @@
       "duration_ms": 168022,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5MsIX8vwTUsvGeQ4WlDe0l"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0EQff5ZxaJGqXNJMZIADyt"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 143233,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/3I7i0kt5EcuVdYWfSu2LSm"
     },
     {
       "added_at": "2023-01-18 15:33:05",
@@ -611,22 +851,6 @@
     {
       "added_at": "2023-01-11 05:00:00",
       "album": {
-        "name": "Watch Me Stand Out",
-        "url": "https://open.spotify.com/album/1EwRJ3HnBWmCC3qUjN3vqA"
-      },
-      "artists": [
-        {
-          "name": "Club Yoko",
-          "url": "https://open.spotify.com/artist/3kcV06zLtzUXC1p43aO5DJ"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Watch Me Stand Out",
-      "url": "https://open.spotify.com/track/0y10Vb0edPNHpZpSNbjsor"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
         "name": "love u in the morning",
         "url": "https://open.spotify.com/album/77LUvtfw3URuvXMDPYLtxZ"
       },
@@ -639,38 +863,6 @@
       "duration_ms": 164848,
       "name": "love u in the morning",
       "url": "https://open.spotify.com/track/2EcW6vI753m0KQOganbQrK"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
-        "name": "lostmymind",
-        "url": "https://open.spotify.com/album/6iRYiB55xu5Xmcuv3QeF40"
-      },
-      "artists": [
-        {
-          "name": "Astrale",
-          "url": "https://open.spotify.com/artist/0xDPU57wNLiQuJJ6h0FedI"
-        }
-      ],
-      "duration_ms": 192158,
-      "name": "lostmymind",
-      "url": "https://open.spotify.com/track/3AimgAVlEHTkShSxBQOsQD"
-    },
-    {
-      "added_at": "2023-01-11 05:00:00",
-      "album": {
-        "name": "xoxo",
-        "url": "https://open.spotify.com/album/2mb5Patti32ZaxozYgopH4"
-      },
-      "artists": [
-        {
-          "name": "judith",
-          "url": "https://open.spotify.com/artist/6ea8jIWef4eoHXp34vCBkz"
-        }
-      ],
-      "duration_ms": 128138,
-      "name": "xoxo",
-      "url": "https://open.spotify.com/track/777rgFbpeiCj5iYaWotSY4"
     },
     {
       "added_at": "2023-01-11 05:00:00",

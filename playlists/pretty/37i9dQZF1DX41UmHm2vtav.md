@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,010 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,176 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 15 | [Banho de Folhas \- HEARTBREAKERS Remix](https://open.spotify.com/track/04f2aQgnc4LkmAABtah7gy) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [HEARTBREAKERS](https://open.spotify.com/artist/67uBj2tf9kY89URy0zDAbT) | [Banho de Folhas \(HEARTBREAKERS Remix\)](https://open.spotify.com/album/5LKP1SEsCYoYgihpdrdoMs) | 3:20 |
 | 16 | [Don't Let It Go](https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Don't Let It Go](https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6) | 3:03 |
 | 17 | [Forever Yours \- Avicii Tribute](https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Forever Yours \(Avicii Tribute\)](https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y) | 3:13 |
-| 18 | [Várias Queixas \- Remix](https://open.spotify.com/track/3Z3hfUZFfY01EnbxhSsPB3) | [Brunetta](https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas \(Remix\)](https://open.spotify.com/album/1KKLrUEv4YvPfBAoBUhOu8) | 2:03 |
-| 19 | [Table For 2](https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Table For 2](https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw) | 2:56 |
+| 18 | [Table For 2](https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Table For 2](https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw) | 2:56 |
+| 19 | [Várias Queixas \- Remix](https://open.spotify.com/track/3Z3hfUZFfY01EnbxhSsPB3) | [Brunetta](https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas \(Remix\)](https://open.spotify.com/album/1KKLrUEv4YvPfBAoBUhOu8) | 2:03 |
 | 20 | [Anunciação \- Jopin Remix](https://open.spotify.com/track/5MU0hFRrFjG0IxKOKa1IPp) | [Jopin](https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz), [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Anunciação \(Jopin Remix\)](https://open.spotify.com/album/5qqCJjqk0FjKmQ5ZiFD2Gs) | 3:25 |
 | 21 | [Água de Coco](https://open.spotify.com/track/1MFanLEhxtE5NULojdFkB3) | [Nu Azeite](https://open.spotify.com/artist/7irioMPN0dD3u5I94D9TFE) | [Vem pro Mar](https://open.spotify.com/album/6KM6hXviSBq4erdXgVPAvX) | 5:05 |
 | 22 | [Aleluia \- Dj Meme Tribute Remix](https://open.spotify.com/track/6ZYMuBRN0BI8vyd90zNS6C) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [DJ Meme](https://open.spotify.com/artist/4dXyuP5DZURgEyaBEas4H9) | [Aleluia / Squash \(DJ Meme Remixes\)](https://open.spotify.com/album/33ZMqwDt6s1IjVhlqBxA14) | 8:08 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 66 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
 | 67 | [Aurora](https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Aurora](https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA) | 2:30 |
 | 68 | [Blind](https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Blind](https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl) | 3:00 |
-| 69 | [Mais um Dia](https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Mais um Dia](https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR) | 2:18 |
-| 70 | [A Tal Canção Pra Lua \- Madism Remix](https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [A Tal Canção Pra Lua \(Madism Remix\)](https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0) | 3:26 |
+| 69 | [A Tal Canção Pra Lua \- Madism Remix](https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [A Tal Canção Pra Lua \(Madism Remix\)](https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0) | 3:26 |
+| 70 | [Mais um Dia](https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Mais um Dia](https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR) | 2:18 |
 
-Snapshot ID: `MTY3MzkxODQ1OSwwMDAwMDAwMDczZDFmMjNjYjU3MTcyZjc4Yjk5MTE0ZmQ5YjJjMDc3`
+Snapshot ID: `MTY3MzkxODQ1OSwwMDAwMDAwMDhhOWFmYTFmZTcyNTcxOGYxMGJiZjgyYTgyYmM0YjU4`

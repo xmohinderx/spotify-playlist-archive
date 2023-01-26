@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Yaeji.
 
-681 songs - 1 day 20 hr 39 min
+682 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2021-05-07 | 2022-07-28 |
 | [All Night](https://open.spotify.com/track/7hpP2b7QO5eh0YjaJFmSvO) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [All Night](https://open.spotify.com/album/4f0YqTq3Akrmy36UjM88ry) | 3:34 | 2023-01-20 |  |
 | [All Of The Time \- DJ Streaks Remix](https://open.spotify.com/track/0ouFThIkQRyW52ELPVjtdQ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [All Of The Time \(DJ Streaks Remix\)](https://open.spotify.com/album/4ufp5tPPk8PPR5XovgiTwM) | 4:46 | 2021-10-08 | 2022-07-29 |
-| [All Of The Time \- DJ Streaks Remix](https://open.spotify.com/track/2gtIOi34KWOtEG21WKT8QN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [All Of The Time \(DJ Streaks Remix\)](https://open.spotify.com/album/6Gl8ivfYXZx9Yp11TMbh1R) | 4:46 | 2022-09-09 |  |
+| [All Of The Time \- DJ Streaks Remix](https://open.spotify.com/track/2gtIOi34KWOtEG21WKT8QN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [All Of The Time \(DJ Streaks Remix\)](https://open.spotify.com/album/6Gl8ivfYXZx9Yp11TMbh1R) | 4:46 | 2022-09-09 | 2023-01-26 |
 | [All or Nothin](https://open.spotify.com/track/7LjHfW0OCBjYx01XkDA8QR) | [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [All or Nothin](https://open.spotify.com/album/4kxGHduVK7ms4hls6JvtYR) | 3:09 | 2021-11-12 | 2022-02-09 |
 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 | 2022-09-09 | 2023-01-22 |
 | [All That Blue](https://open.spotify.com/track/4xWJXxDvKTT5mgjodw01QD) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Open Reduction Internal Fixation](https://open.spotify.com/album/7BfdDn7UsSqkzzica9hdwn) | 5:33 | 2022-01-28 | 2022-02-12 |
@@ -276,6 +276,7 @@
 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 5:29 | 2022-04-01 | 2022-04-29 |
 | [I Go \- Edit](https://open.spotify.com/track/5VCx6BsBizs11OJvSnqDG4) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 3:44 | 2021-07-12 |  |
 | [I Go \- Soulwax Remix](https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 6:50 | 2022-04-29 | 2022-09-10 |
+| [I Just Wanna Dance](https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [I Just Wanna Dance](https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts) | 2:43 | 2023-01-06 |  |
 | [I Keep](https://open.spotify.com/track/1572n5ACOGAwWhBX3Ix9jM) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Space Island](https://open.spotify.com/album/6dWmsPNUlFB8uTsqxrePTI) | 3:46 | 2022-02-18 | 2022-07-28 |
 | [I See You Sometimes](https://open.spotify.com/track/1E9oCoLMhffbcovDHF9bH5) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [I See You Sometimes](https://open.spotify.com/album/6173eST6eRM4yM0Xd7x503) | 3:05 | 2021-12-29 | 2022-04-15 |
 | [I Wanna Help Your Mind](https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [I Wanna Help Your Mind](https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4) | 2:51 | 2021-03-12 | 2022-02-12 |

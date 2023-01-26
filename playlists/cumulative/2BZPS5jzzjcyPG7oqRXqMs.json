@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "[welcome to the garden]",
+        "url": "https://open.spotify.com/album/2vsnx7y7uJ9iXr40qkgQlu"
+      },
+      "artists": [
+        {
+          "name": "All Creatures",
+          "url": "https://open.spotify.com/artist/2YgZPJl3jMabwzd1UZONon"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "[welcome to the garden]",
+      "url": "https://open.spotify.com/track/59DiEYQhcAV7XNp9H8ldHK"
+    },
+    {
+      "album": {
         "name": "[wonder working]",
         "url": "https://open.spotify.com/album/1CslCV4Trf529mhODsZVRx"
       },
@@ -838,6 +856,24 @@
       "duration_ms": 209760,
       "name": "For The Ones We Love",
       "url": "https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J"
+    },
+    {
+      "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/7acWtsBfuPSWwVizEcVa4D"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/44pWTHY3XHh9APCOWQvqpA"
     },
     {
       "album": {
@@ -1712,7 +1748,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 274500,
       "name": "Love Has Come",
       "url": "https://open.spotify.com/track/2st2J3B3PqCPnOrOpIm3BJ"

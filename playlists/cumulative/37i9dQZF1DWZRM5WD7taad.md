@@ -2,7 +2,7 @@
 
 ### [Femcees](https://open.spotify.com/playlist/37i9dQZF1DWZRM5WD7taad)
 
-> Mujeres raperas rompiéndola en toda Latinoamérica\. EMJAY en portada.
+> Mujeres raperas rompiéndola en toda Latinoamérica\. Barbarela en portada.
 
 132 songs - 6 hr 57 min
 

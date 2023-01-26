@@ -4,7 +4,7 @@
 
 > The best indie covers\. Cover: Remi Wolf
 
-369 songs - 22 hr 47 min
+370 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [creep](https://open.spotify.com/track/7aHKcqM6ooNnM122ydEyGq) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg) | 3:30 | 2021-03-19 | 2022-10-13 |
 | [Creep](https://open.spotify.com/track/1ksI21KXzwp3fY5dYPVAM2) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [The Space Between](https://open.spotify.com/album/22uGWZ5R9AZrLDkwudzHMv) | 3:52 | 2021-07-21 | 2022-04-20 |
 | [Dancing In The Dark](https://open.spotify.com/track/6xTB1RZS2BEsXjcMQSeXtu) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Dancing In The Dark](https://open.spotify.com/album/4Q8PbHWnZX8estrSD3Nt8b) | 3:26 | 2021-10-08 | 2022-07-29 |
+| [Dancing On My Own \- triple j Like A Version](https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dancing On My Own \(triple j Like A Version\)](https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf) | 3:50 | 2023-01-25 |  |
 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 | 2022-05-20 | 2022-07-27 |
 | [Dearly Departed](https://open.spotify.com/track/7ciFh1cZjyZE2gVhjvhsmD) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Dearly Departed](https://open.spotify.com/album/1T2kgbzp4R7p4Gm06jjfFh) | 5:11 | 2021-07-21 | 2022-04-20 |
 | [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 | 2022-02-25 | 2022-07-29 |
@@ -185,7 +186,7 @@
 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 | 2022-10-03 |  |
 | [It's You](https://open.spotify.com/track/6SkG8OCuHktTfEPBGB2uHL) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [It's You](https://open.spotify.com/album/0cZjs7bWRgLtzM9rih3Bsw) | 4:16 | 2022-02-25 | 2022-07-29 |
 | [Jesus, Etc.](https://open.spotify.com/track/7yt10HaB4Pg0c7pncxzqIp) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [The Bridge School Concerts 25th Anniversary Edition](https://open.spotify.com/album/48uNfLqdw5qyxMFZy41WlK) | 3:43 | 2021-03-12 | 2022-07-28 |
-| [Just Like Heaven](https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 3:26 | 2021-03-19 |  |
+| [Just Like Heaven](https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3), [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [The Version Suicides, Vol\. 2](https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz) | 3:26 | 2021-03-19 | 2023-01-26 |
 | [Just the Two of Us](https://open.spotify.com/track/0TTPheslWs6uygzQ43rCmW) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Just the Two of Us](https://open.spotify.com/album/0ohwfXiv30f7hoIoH08ZSC) | 2:44 | 2021-03-12 |  |
 | [Kids](https://open.spotify.com/track/41KEwBsz0vFOMaSiujdfci) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Kids](https://open.spotify.com/album/4jyTfc5rR5SdTgGnlAdaCa) | 4:03 | 2022-02-25 | 2022-07-29 |
 | [Kiss](https://open.spotify.com/track/1IZ2RLaTBzvSnMPtLpyUf1) | [Joan As Police Woman](https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj) | [Kiss](https://open.spotify.com/album/0Gj3yIbkS5mFPtU4GwHwxf) | 5:08 | 2021-03-12 | 2022-04-17 |

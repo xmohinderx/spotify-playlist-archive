@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 54088,
+  "num_followers": 54109,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzA1NTgyNywwMDAwMDAwMGExMTU0MDZjNmRlODBlNzI1ZTNhMzE5NzliNGMyYzlm",
+  "snapshot_id": "MTY3MzA1NTgyNywwMDAwMDAwMGY0ZDdhMGIyODE5MWMyZGJiNTliZWViZWNkN2M5MGQx",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -407,6 +407,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Dream Maker (Guitar Smooth Jazz)",
+        "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
+      },
+      "artists": [
+        {
+          "name": "Cristobal Lopez",
+          "url": "https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Susano's Calipso",
+      "url": "https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Nos Toca",
         "url": "https://open.spotify.com/album/4GpJkM3MWkQLGw7zeS5v8d"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 249599,
       "name": "F\u00edjate Que Suave - Remastered 2018",
       "url": "https://open.spotify.com/track/1o597QjfCG2jZRVYUxXUpv"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Dream Maker (Guitar Smooth Jazz)",
-        "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
-      },
-      "artists": [
-        {
-          "name": "Cristobal Lopez",
-          "url": "https://open.spotify.com/artist/5NI5xhoDsyrbcnBYH6UNmI"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Susano's Calipso",
-      "url": "https://open.spotify.com/track/5qAQXLoUQrLpfyst5PNFnB"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -569,6 +569,22 @@
       "url": "https://open.spotify.com/track/21B1SsKnsjcUTkzRAAUJqy"
     },
     {
+      "added_at": "2022-08-16 16:23:25",
+      "album": {
+        "name": "Cronolog\u00edas",
+        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
+      },
+      "artists": [
+        {
+          "name": "Xalapa Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
+        }
+      ],
+      "duration_ms": 335725,
+      "name": "To Chick",
+      "url": "https://open.spotify.com/track/37w8imXF52PoSUZyL2ovo2"
+    },
+    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Paisaje Gris",
@@ -587,22 +603,6 @@
       "duration_ms": 259133,
       "name": "Paisaje Gris",
       "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
-    },
-    {
-      "added_at": "2022-08-16 16:23:25",
-      "album": {
-        "name": "Cronolog\u00edas",
-        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
-      },
-      "artists": [
-        {
-          "name": "Xalapa Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
-        }
-      ],
-      "duration_ms": 335725,
-      "name": "To Chick",
-      "url": "https://open.spotify.com/track/37w8imXF52PoSUZyL2ovo2"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
     },
     {
+      "added_at": "2022-08-16 16:23:25",
+      "album": {
+        "name": "Cronolog\u00edas",
+        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
+      },
+      "artists": [
+        {
+          "name": "Xalapa Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
+        }
+      ],
+      "duration_ms": 485054,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/0IhXOXLvA8B9J91O2BhB2t"
+    },
+    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "So\u00f1e - Jazz Mexicano",
@@ -753,22 +769,6 @@
       "url": "https://open.spotify.com/track/1JFYLc7GyftevczE418CcE"
     },
     {
-      "added_at": "2022-08-16 16:23:25",
-      "album": {
-        "name": "Cronolog\u00edas",
-        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
-      },
-      "artists": [
-        {
-          "name": "Xalapa Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
-        }
-      ],
-      "duration_ms": 485054,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/0IhXOXLvA8B9J91O2BhB2t"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Triology",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Leo Acosta",
-        "url": "https://open.spotify.com/album/2Jw8nBazEtaVJ4B7SS9khX"
-      },
-      "artists": [
-        {
-          "name": "Leo Acosta y Su Orquesta",
-          "url": "https://open.spotify.com/artist/3PyULMR8d0XYqTFjPgREfr"
-        }
-      ],
-      "duration_ms": 153680,
-      "name": "Humanidad",
-      "url": "https://open.spotify.com/track/7hkDMkBoq5w46U9bw4wDDA"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Hilando Lunas",
         "url": "https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J"
       },
@@ -863,18 +847,34 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/5jeIcIob6QVT4W3zvAH7hZ"
+        "name": "Leo Acosta",
+        "url": "https://open.spotify.com/album/2Jw8nBazEtaVJ4B7SS9khX"
       },
       "artists": [
         {
-          "name": "Joaquina Mertz",
-          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+          "name": "Leo Acosta y Su Orquesta",
+          "url": "https://open.spotify.com/artist/3PyULMR8d0XYqTFjPgREfr"
         }
       ],
-      "duration_ms": 220447,
-      "name": "Mama Nature",
-      "url": "https://open.spotify.com/track/30TeIbEyHxzftJeNFZmlWz"
+      "duration_ms": 153680,
+      "name": "Humanidad",
+      "url": "https://open.spotify.com/track/7hkDMkBoq5w46U9bw4wDDA"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Retazos",
+        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
+      },
+      "artists": [
+        {
+          "name": "Donna Pierrot",
+          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
+        }
+      ],
+      "duration_ms": 269080,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

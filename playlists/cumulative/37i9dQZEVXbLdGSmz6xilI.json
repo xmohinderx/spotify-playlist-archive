@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 222314,
       "name": "Bu\u1ed3n Th\u00ec C\u1ee9 Kh\u00f3c \u0110i",
       "url": "https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx"
@@ -3616,7 +3616,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-23",
+      "date_removed": null,
       "duration_ms": 237419,
       "name": "Em Kh\u00f4ng Hi\u1ec3u",
       "url": "https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY"
@@ -6676,7 +6676,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 189296,
       "name": "L\u00e0m G\u00ec Ph\u1ea3i H\u1ed1t",
       "url": "https://open.spotify.com/track/2FWBdovgRvBSzA1JESUe0D"
@@ -6698,7 +6698,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "L\u00e2u L\u00e2u Nh\u1eafc L\u1ea1i",
       "url": "https://open.spotify.com/track/5B66uVtd4X6Tls9I2VQm4N"
@@ -7662,7 +7662,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-26",
       "duration_ms": 248736,
       "name": "M\u1ed9t N\u0103m M\u1edbi B\u00ecnh An",
       "url": "https://open.spotify.com/track/5sV1co5LRGscLaMibfdD1Y"
@@ -7892,6 +7892,28 @@
       "duration_ms": 192000,
       "name": "ng\u1ee7 m\u1ed9t m\u00ecnh (t\u00ecnh r\u1ea5t t\u00ecnh)",
       "url": "https://open.spotify.com/track/76dD9BdSOzsRJSGGBjOcUf"
+    },
+    {
+      "album": {
+        "name": "Nh\u01b0 Anh \u0110\u00e3 Th\u1ea5y Em",
+        "url": "https://open.spotify.com/album/2FwiyoWhDcZlR7Cr6PMHLF"
+      },
+      "artists": [
+        {
+          "name": "PhucXP",
+          "url": "https://open.spotify.com/artist/6fCJf6pkYTHfW1XPc1d4vO"
+        },
+        {
+          "name": "Freak D",
+          "url": "https://open.spotify.com/artist/1yNjtowTJs05S2Xp2g7stg"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Nh\u01b0 Anh \u0110\u00e3 Th\u1ea5y Em",
+      "url": "https://open.spotify.com/track/7h2zqUH4bYyknNUxsYnS5V"
     },
     {
       "album": {

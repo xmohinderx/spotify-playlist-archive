@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,636 songs - 3 day 1 hr 43 min
+1,639 songs - 3 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Aoyama Bochi](https://open.spotify.com/track/6aLLf5UU8GivpvjLxdOog1) | [Saeko Seki](https://open.spotify.com/artist/2g4F9tXkfjvy3BH3CTYBfe) | [Aoyama Bochi](https://open.spotify.com/album/0zhU9dYWdB6AzvShqe2uy2) | 2:03 | 2021-03-06\* | 2021-03-07 |
 | [Approaching Haumea](https://open.spotify.com/track/6mwVh9GJeesKKE0OJWHrMt) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Approaching Haumea](https://open.spotify.com/album/0j6t12qqfzwHpVvKeSwz9k) | 2:51 | 2022-01-26 | 2022-04-01 |
 | [Approaching Storm](https://open.spotify.com/track/02vL85IGFIt1mhLWbdjgHU) | [Pam Caddis](https://open.spotify.com/artist/4NXMKJ8RnRhNjka9Uw3C4a) | [Approaching Storm](https://open.spotify.com/album/3gd7A70I0tacaMtQaJJrOQ) | 3:02 | 2022-03-29 | 2022-04-07 |
+| [Apricity](https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Apricity](https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW) | 2:36 | 2023-01-17 |  |
 | [Après la pluie](https://open.spotify.com/track/4S5eUtV1PLv6hJI8EcWmBU) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Après la pluie](https://open.spotify.com/album/2XfRxzEXWvADnmxNwEBh91) | 2:32 | 2021-03-10 | 2022-04-18 |
 | [Aquatic](https://open.spotify.com/track/2kz1DrWQsJl1k4lWDsPRsC) | [Sigrid Vass](https://open.spotify.com/artist/1vIOObvjDYAiXHCkLOFCOT) | [Aquatic](https://open.spotify.com/album/1Wbx7ISrA2F90ohwHYrJsu) | 2:23 | 2021-05-12 | 2021-05-18 |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2022-02-09 | 2022-12-24 |
@@ -123,6 +124,7 @@
 | [Area](https://open.spotify.com/track/0FiSy8vWE02HjDg5a7nwRO) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Area](https://open.spotify.com/album/0kczgjgirIqpUj3dTkAdRJ) | 2:26 | 2021-03-17 | 2022-04-11 |
 | [Ariadne's thread](https://open.spotify.com/track/5NoI9TSNvv3lLz3KZfwB5i) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Ariadne's thread](https://open.spotify.com/album/6zOs3FQrXCtTija8Z8By9J) | 2:12 | 2022-03-29 | 2022-04-21 |
 | [Arrebol](https://open.spotify.com/track/52AH50uB1sJZBRjGJlcW8m) | [Lionel Scardino](https://open.spotify.com/artist/15rfm6rSfsn4RuQQO6BumY) | [Sinestesia](https://open.spotify.com/album/0doAzw09nCA6aH8KVC20Ai) | 1:22 | 2021-04-28 | 2022-04-18 |
+| [Arthur's Theme](https://open.spotify.com/track/2hvJks7wVAgPubs2ngNOwQ) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Arthur's Theme](https://open.spotify.com/album/4OHQ3btk3IX1rXFzcfoLSo) | 3:04 | 2023-01-17 |  |
 | [As Ballad](https://open.spotify.com/track/42KPF7PhUrDkHc3Zdr3Rd5) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Stay In The Dark](https://open.spotify.com/album/7nGEHv8P2Ys8D7g6Hn1i10) | 4:53 | 2021-03-21 | 2021-07-31 |
 | [As I Dream](https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As I Dream](https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj) | 3:04 | 2022-12-22 |  |
 | [As The Crow Flies](https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Ripples on a Pond](https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX) | 1:36 | 2021-03-16 | 2022-04-21 |
@@ -614,7 +616,7 @@
 | [Horizon](https://open.spotify.com/track/2olHCqvx5Ww94jrUL6gmOp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Horizon](https://open.spotify.com/album/7hmRly9ceFMBZirRQcy8ne) | 2:15 | 2021-10-11 | 2022-07-24 |
 | [Hou je nog van mij?](https://open.spotify.com/track/4CdgsMs3Ryrv5WAxNV1Wdl) | [Bionda van der Ham](https://open.spotify.com/artist/4HAWOfDHlfyn6Iph13v6RQ) | [Hou je nog van mij?](https://open.spotify.com/album/0tEhL1PSdMxO0tkbw1pHU7) | 2:16 | 2021-03-14 | 2021-03-22 |
 | [Hour Glass](https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Hour Glass](https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P) | 2:51 | 2021-04-22 | 2022-04-14 |
-| [Hour of Rest](https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Hour of Rest](https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO) | 1:52 | 2022-12-22 |  |
+| [Hour of Rest](https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Hour of Rest](https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO) | 1:52 | 2022-12-22 | 2023-01-26 |
 | [Hourglass](https://open.spotify.com/track/2UscVwaSo0fbaX5QxVgqH8) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Hourglass](https://open.spotify.com/album/3SvYZuF8XUw8T93PQQkj5P) | 2:02 | 2022-12-22 |  |
 | [How did it Happen](https://open.spotify.com/track/5Ssia1opQ1cpUBiY0hLSUy) | [Tom Holding](https://open.spotify.com/artist/6ricPc7dXpgND8NjKLbHqg) | [How did it Happen](https://open.spotify.com/album/52NgJ1FXRHFcfDYH9EWt07) | 1:53 | 2021-04-23 | 2022-04-10 |
 | [How Did We Wind Up Here?](https://open.spotify.com/track/4HUAT9dBskTeZO4kYXRTKI) | [Jen Brook](https://open.spotify.com/artist/6ChfZgm5bM2WsypdcfCHRb) | [How Did We Wind Up Here?](https://open.spotify.com/album/3xPPZieZavJ0fUH6oYQxyS) | 2:02 | 2021-05-14 | 2022-04-11 |
@@ -1137,7 +1139,7 @@
 | [Respite](https://open.spotify.com/track/2udO9YUSR2cRQNgMyoJEYC) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:20 | 2021-03-10 | 2022-06-01 |
 | [Resplendence](https://open.spotify.com/track/5k9AFzNbx9ODY0VRgz3uWw) | [Léa Corbelin](https://open.spotify.com/artist/3KgeRFcUTiziAZMG1uedIE) | [Resplendence](https://open.spotify.com/album/4Bz9JY3wKoFL6zAAIL5uat) | 2:54 | 2021-12-13 | 2021-12-20 |
 | [Rest Here](https://open.spotify.com/track/6hjpcg3bnsHv8YJJvhSDeB) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [You Are Peace](https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT) | 3:52 | 2021-03-17 | 2022-06-03 |
-| [Rest Peacefully, but I Wish You Were Here](https://open.spotify.com/track/0KaDIuxC0tek01gCKrUNY8) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Rest Peacefully, but I Wish You Were Here](https://open.spotify.com/album/0SpR8nkRhb4XTDumL7MkH1) | 3:47 | 2022-12-22 |  |
+| [Rest Peacefully, but I Wish You Were Here](https://open.spotify.com/track/0KaDIuxC0tek01gCKrUNY8) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Rest Peacefully, but I Wish You Were Here](https://open.spotify.com/album/0SpR8nkRhb4XTDumL7MkH1) | 3:47 | 2022-12-22 | 2023-01-26 |
 | [Rester Dans Les Parages](https://open.spotify.com/track/3NqUYlQxTAWw3Mg3OaOwUE) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Rester Dans Les Parages](https://open.spotify.com/album/2sEefiUsuwEzMN8tXzxXVQ) | 2:28 | 2022-09-29 | 2022-12-24 |
 | [Return of Infinity](https://open.spotify.com/track/2Vrtd9aLbni8sI8RV1lmwh) | [Becca](https://open.spotify.com/artist/3REVD4IKt3lmdKJ3j9HTzz) | [Return of Infinity](https://open.spotify.com/album/0R3x2hhsfXf78GQSOmraRW) | 2:38 | 2021-03-06\* | 2022-04-11 |
 | [Returning](https://open.spotify.com/track/0yccHAlypw9zM9Pf33lLjd) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Returning](https://open.spotify.com/album/3hZ1OaonuWlr1NO4zsTxmj) | 2:20 | 2022-12-22 |  |
@@ -1174,6 +1176,7 @@
 | [Sand](https://open.spotify.com/track/78qaTDD6WW9NnnaFJfP6wa) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Sand](https://open.spotify.com/album/4FxlL6SpqPQDTlBd867kuj) | 2:23 | 2022-12-24 | 2023-01-06 |
 | [Sand Castle](https://open.spotify.com/track/3ExgkwTDs4mymqj09BzIsD) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Moonlight](https://open.spotify.com/album/7KvfRrJ0eVVqLZ2W9CThwK) | 3:11 | 2021-05-18 | 2021-05-19 |
 | [Sand Time](https://open.spotify.com/track/0npBzVrDKbhg6khGMBuFzQ) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Sand Time](https://open.spotify.com/album/28SEqjm9hHXPYpljuQJx5B) | 2:58 | 2022-08-17 |  |
+| [Sans Regrets](https://open.spotify.com/track/4vdzY5DNQGGb3pby9pprKD) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Sans Regrets](https://open.spotify.com/album/1osFMqRTNStUzYe0Ug92je) | 2:21 | 2023-01-17 |  |
 | [Sans Toi](https://open.spotify.com/track/04uVxAxx6QvPQzfuLv5A6P) | [Loane Tellier](https://open.spotify.com/artist/6xKXSveUUJyAIZAOCnnSvS) | [Sans Toi](https://open.spotify.com/album/0avKp2QPHyrlKayO32H0Qa) | 2:07 | 2021-03-08 | 2021-05-28 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/7vTU3jaddNDNycENrbH690) | [Leyton Lake](https://open.spotify.com/artist/6eq5DdF14hc1mW6b1zEtHQ) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/3iu4gkzcCFEY7MPr3uJkaK) | 2:30 | 2021-05-06 | 2021-12-20 |
 | [Santa Cruz](https://open.spotify.com/track/75b0f1695j8tRmXL6cvtmb) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Santa Cruz](https://open.spotify.com/album/49uampA9yQFlptFHMpghab) | 3:57 | 2021-03-22 | 2022-07-24 |
@@ -1343,7 +1346,7 @@
 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 | 2022-04-14 | 2023-01-13 |
 | [Synchronicity](https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Synchronicity](https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck) | 3:09 | 2021-03-20 | 2022-01-09 |
 | [Synesthesia \(Scaled Down Version\)](https://open.spotify.com/track/50030Xdu99SG9krul5IlNL) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/6MLFHwt3qK0OQNEHryutgw) | 1:54 | 2021-03-09 | 2022-04-20 |
-| [Sérénade Pour Glaçons](https://open.spotify.com/track/2PLSyXt3DrKNzjdHwH4hkM) | [Louis Guerrier](https://open.spotify.com/artist/5ZyNh4VzkyY6S95OOg9LEj) | [Sérénade Pour Glaçons](https://open.spotify.com/album/4Kfio1b9SK8nG3avRDzTMc) | 3:01 | 2022-12-22 |  |
+| [Sérénade Pour Glaçons](https://open.spotify.com/track/2PLSyXt3DrKNzjdHwH4hkM) | [Louis Guerrier](https://open.spotify.com/artist/5ZyNh4VzkyY6S95OOg9LEj) | [Sérénade Pour Glaçons](https://open.spotify.com/album/4Kfio1b9SK8nG3avRDzTMc) | 3:01 | 2022-12-22 | 2023-01-26 |
 | [Tail Lights](https://open.spotify.com/track/38Li7bOUatKi99v9U4FqOo) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Tail Lights](https://open.spotify.com/album/0zFgil19diyLhpZJkfWwm3) | 3:26 | 2021-03-09 | 2022-04-16 |
 | [Take Me Back](https://open.spotify.com/track/4u8aNYQTJdyBvpsSwz05I6) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [Take Me Back](https://open.spotify.com/album/69tYSDWT80qmZXsBRaYlhG) | 2:21 | 2021-04-22 | 2021-10-11 |
 | [Take Me Somewhere Else](https://open.spotify.com/track/37EJ2kCLr8RoXDxYE5cHrF) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Take Me Somewhere Else](https://open.spotify.com/album/0PRMKJ747Z8clDXDAEVptv) | 3:52 | 2021-05-06 | 2022-04-21 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-955 songs - 2 day 4 hr 55 min
+956 songs - 2 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Amoriste II](https://open.spotify.com/track/7vDPYQW5yUXJjMly4HKmGa) | [Apollo Music](https://open.spotify.com/artist/4gLpWToFtGkNgZyiynUW29), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Amoriste II](https://open.spotify.com/album/4rrtVOC0QWxgMxBt34Q3KY) | 3:30 | 2021-10-02 | 2021-10-03 |
 | [Amoriste II](https://open.spotify.com/track/1dTSGAZlHvglA94lZiBof0) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Amoriste II](https://open.spotify.com/album/2NFcONPxNjz9Ey4LKcdLGX) | 3:30 | 2021-09-20 | 2021-10-02 |
 | [Amoriste II](https://open.spotify.com/track/7EXNdKEVnEs2UW4aOiI1l7) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:30 | 2022-01-29 | 2022-01-31 |
+| [Ana](https://open.spotify.com/track/1Mbtfx8kfwxKp9IIuGqNqm) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:10 | 2023-01-25 |  |
 | [Ana La Anam](https://open.spotify.com/track/0a1N6GQZL5RmEUQRTOlkHM) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:51 | 2021-05-09 | 2021-05-12 |
 | [Ana Maghrabi](https://open.spotify.com/track/18mcjSl26V7ZVkNRxNypKI) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [My Life](https://open.spotify.com/album/02dJWbarZJpxwasm7fhSyv) | 3:34 | 2022-12-07 | 2022-12-13 |
 | [Another Life](https://open.spotify.com/track/1BVfBuPXpPusKN6YXcYHUE) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 3:18 | 2021-04-18 | 2021-04-19 |
@@ -589,7 +590,7 @@
 | [Moon](https://open.spotify.com/track/1kBDdMMhlNZtfa1CkAvKae) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6yUxkZHB0tE1pNDXKoqiV2) | 3:28 | 2021-12-04 | 2021-12-05 |
 | [Moon](https://open.spotify.com/track/4gc0S7q3fVfBXutIkxuMJx) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Moon](https://open.spotify.com/album/3pZHQ0StXItIOwZyQ23JdB) | 3:10 | 2022-06-12 | 2022-06-26 |
 | [Moon](https://open.spotify.com/track/2Rd4eJ4KwXQQn2sMSToyUM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:36 | 2021-08-31 | 2021-09-02 |
-| [Moonlight](https://open.spotify.com/track/2iG5gbGLprxMcZyQ9Donws) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:44 | 2023-01-07 |  |
+| [Moonlight](https://open.spotify.com/track/2iG5gbGLprxMcZyQ9Donws) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:44 | 2023-01-07 | 2023-01-26 |
 | [Moonlight](https://open.spotify.com/track/5Ui0hqvFETgLpjEcuetRxU) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [OMERTA](https://open.spotify.com/album/1eS2XzJ1XwWNTky6LZJxVX) | 2:44 | 2023-01-08 | 2023-01-10 |
 | [MORAL](https://open.spotify.com/track/7xrIIxFmBpIozEoEHBs3YY) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [MORAL](https://open.spotify.com/album/03p4HxzW5x6yIGAnyhqppm) | 3:22 | 2021-05-07 | 2021-06-23 |
 | [Moral](https://open.spotify.com/track/2yGcGAhdIGiObLOnmsAoFT) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Nouvo](https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:04 | 2021-03-27\* | 2022-03-01 |
@@ -819,7 +820,7 @@
 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/70UV1HmppYUxBI6yCev4d5) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:02 | 2022-12-04 | 2022-12-09 |
 | [Sur la selle](https://open.spotify.com/track/3fTryDJnvpC4K2o8FfCA6r) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 2:48 | 2022-12-10 | 2023-01-07 |
 | [Sweet Love](https://open.spotify.com/track/7uaqadBbf5SF5GUeann9OS) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:09 | 2021-05-09 | 2021-05-15 |
-| [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2021-12-30 |  |
+| [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2021-12-30 | 2023-01-26 |
 | [T\-max 560](https://open.spotify.com/track/3t3ffqI2DxrrAawarNtwGw) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:58 | 2021-11-28 | 2021-11-30 |
 | [Ta7t Jna7i](https://open.spotify.com/track/5aOWc0G39X0CAZejwoD3TQ) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Ta7t Jna7i](https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN) | 3:19 | 2022-11-05 | 2022-11-19 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-10 |
@@ -862,7 +863,7 @@
 | [Traitement](https://open.spotify.com/track/1AEEWYcJzrTHksdQmixnHL) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 3:00 | 2021-09-15 | 2021-09-20 |
 | [Trap Roumi V2](https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Trap Roumi V2](https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly) | 3:25 | 2021-04-21 | 2023-01-16 |
 | [TRAP ROUMI V3](https://open.spotify.com/track/07yjOxOAi1cxhO2FALf861) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TRAP ROUMI V3](https://open.spotify.com/album/4W3m38nSMZmQcjxEopmMss) | 5:30 | 2022-01-04 | 2022-04-18 |
-| [trap roumi v4](https://open.spotify.com/track/7B9t8WX9T38Df93JHlywfk) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [trap roumi v4](https://open.spotify.com/album/2Q5AFjt3zvBLf5TR32oJfm) | 4:26 | 2023-01-02 | 2023-01-24 |
+| [trap roumi v4](https://open.spotify.com/track/7B9t8WX9T38Df93JHlywfk) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [trap roumi v4](https://open.spotify.com/album/2Q5AFjt3zvBLf5TR32oJfm) | 4:26 | 2023-01-02 |  |
 | [Trigue Lycee \- Remix](https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Trigue Lycee \(Remix\)](https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd) | 3:05 | 2022-08-10 | 2022-08-12 |
 | [Trigue Lycee \- Remix](https://open.spotify.com/track/3Zm8UtTT3js1HSaR0ay8mQ) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Cheb Khaled](https://open.spotify.com/album/07qAVChyoX0i1O5L5dv7GJ) | 3:05 | 2022-08-20 | 2022-08-25 |
 | [TRILL](https://open.spotify.com/track/5k9bEY4ISp2U6XNvqx1Yvj) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [TRILL](https://open.spotify.com/album/2zqBYm0eFdJRAPZ36V2vRl) | 2:10 | 2022-03-11 | 2022-03-14 |

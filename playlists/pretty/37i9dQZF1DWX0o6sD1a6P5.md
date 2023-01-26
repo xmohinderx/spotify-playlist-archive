@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Tayc
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,046 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,167 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 27 | [One More Night](https://open.spotify.com/track/6ZZgjRB0CXBsKGxpJIXYFD) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [One More Night](https://open.spotify.com/album/2es5R7Gz861GtXSChRu6JG) | 2:42 |
 | 28 | [C pas normal](https://open.spotify.com/track/01BN8m09yMyhKHJL3PDUzC) | [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [C pas normal](https://open.spotify.com/album/3uUgzic021PoofEn1wD2NK) | 2:44 |
 | 29 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
-| 30 | [RTID \(Rich Till I Die\)](https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [RTID \(Rich Till I Die\)](https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV) | 2:52 |
-| 31 | [Dilemme](https://open.spotify.com/track/1yRXFMwYvvoCG6Q2lDngzD) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Dilemme](https://open.spotify.com/album/0DnzM5Uqhf5i6oKsrgY6DM) | 3:04 |
+| 30 | [Dilemme](https://open.spotify.com/track/1yRXFMwYvvoCG6Q2lDngzD) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Dilemme](https://open.spotify.com/album/0DnzM5Uqhf5i6oKsrgY6DM) | 3:04 |
+| 31 | [RTID \(Rich Till I Die\)](https://open.spotify.com/track/47rtDAZmqRUjba0V1en3XY) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [RTID \(Rich Till I Die\)](https://open.spotify.com/album/1VXKPWoui5j6UsxWrhvSDV) | 2:52 |
 | 32 | [Faut Doser](https://open.spotify.com/track/43jZVC7IotPEq3EVuNwT0g) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU) | [Faut Doser](https://open.spotify.com/album/5Uh5XXs9EyaB54BGseQTiz) | 3:07 |
 | 33 | [Personal](https://open.spotify.com/track/4iL7caaYvGopP9d6hdlMAi) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Grit & Lust](https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ) | 2:23 |
 | 34 | [Madame](https://open.spotify.com/track/20j6b2Jt37Q6nwJh2jVO72) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Madame](https://open.spotify.com/album/1rVfhoBcFdqvtKPL9cIy1G) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Won Da Mo](https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Won Da Mo](https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC) | 4:07 |
 | 50 | [Banga](https://open.spotify.com/track/0c7VczzMgFSomrYVdwVxek) | [Blanche Bailly](https://open.spotify.com/artist/5AarOoNQR7sJVijD42GeFQ), [PhillBill](https://open.spotify.com/artist/0FvaYVqukImgaD8PFHcuHB) | [Banga](https://open.spotify.com/album/0nKs45dKWaLpnZ8xQdGXqI) | 3:49 |
 
-Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMDYwMDAyYzJkMDFhZTk5OGQzZTA4OGU4NGVlNGE0NTc0`
+Snapshot ID: `MTY3NDY0NzkwOCwwMDAwMDAwMDc4MzVhMjQ3YTg1ODQ2ODJhZmZiNmY5NDIyMjA0Y2Zh`

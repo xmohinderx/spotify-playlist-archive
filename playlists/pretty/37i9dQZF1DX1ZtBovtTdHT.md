@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,879 likes - 82 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,974 likes - 82 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 44 | [ALARMA!](https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:25 |
 | 45 | [Protect Your Mind \(Braveheart\) \- Vocal Mix](https://open.spotify.com/track/1vWbaoRAG0INnakzFlHJb8) | [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/0s770IMN5qa5eXKmTKLMRS) | 3:39 |
 | 46 | [Believe](https://open.spotify.com/track/0hHvlq1VgIGd2Y6Zclxd5V) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [At The Rebels Room](https://open.spotify.com/album/153xLyo7yD307pl84VRrFG) | 3:26 |
-| 47 | [Bellissima \- Radio Mix](https://open.spotify.com/track/4W8njwKQsbLFj3dZx82DWT) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [I Have a Dream / Bellissima](https://open.spotify.com/album/1cYUo02UWjPEVvMd6pFuSd) | 3:50 |
-| 48 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 |
+| 47 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 |
+| 48 | [Bellissima \- Radio Mix](https://open.spotify.com/track/4W8njwKQsbLFj3dZx82DWT) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [I Have a Dream / Bellissima](https://open.spotify.com/album/1cYUo02UWjPEVvMd6pFuSd) | 3:50 |
 | 49 | [Carte Blanche \- Original Mix](https://open.spotify.com/track/1Dyvne4MdeiQ75teY5m7jg) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [Carte Blanche](https://open.spotify.com/album/3hJn9OKHO4ab5j9qOZM9UF) | 7:04 |
 | 50 | [Luvstruck \- Radio Edit](https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY) | 3:17 |
 | 51 | [Dr Feelgood \- Radio Edit](https://open.spotify.com/track/2etCol6AqBN1SkenuxzBE2) | [Interphace](https://open.spotify.com/artist/5oADI8beeP63WY4xyHr7nn) | [Injected Movements Radio Versions](https://open.spotify.com/album/43ddVzrwlBtRGrDZUkr4YJ) | 3:46 |
@@ -73,17 +73,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 63 | [Just Be \- Antillas Club Mix](https://open.spotify.com/track/5x2mMDG6AsJbAt1NN6ICGE) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Kirsty Hawkshaw](https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT) | [Just Be \(Remixed\)](https://open.spotify.com/album/1V6aACkY6BiInv0fk4A9Rt) | 9:49 |
 | 64 | [Perfect World \- Richi's Single Version](https://open.spotify.com/track/1QhpilbZHay4zqXmx5TGS1) | [Richi M.](https://open.spotify.com/artist/2ebMpthf4U0DaF5G82G92b) | [Perfect World](https://open.spotify.com/album/7qcPuZtuCMxMwJLKeZZZlc) | 4:09 |
 | 65 | [Xpander](https://open.spotify.com/track/76mh0rcSJpNhoCCqazptWm) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [The Xpander E.P.](https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q) | 11:30 |
-| 66 | [Time Is The Healer \- Armin van Buuren Remix](https://open.spotify.com/track/1AVoSeGyzqbS6qMOw4EFmO) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP) | [A State Of Trance Classics, Vol\. 6 \(Bonus Best Ever Edition\)](https://open.spotify.com/album/6u5Q7kNzIlLo2lwkCwrhWg) | 7:55 |
-| 67 | [Fly Away \- Full Vocal Version](https://open.spotify.com/track/3AdjHhN66vLKskEtKMIMEc) | [Vincent de Moor](https://open.spotify.com/artist/513hutOhfryax7g1N0XHEk) | [Fly Away](https://open.spotify.com/album/49WdVSU2t95TJpsz36TXIl) | 8:21 |
+| 66 | [Fly Away \- Full Vocal Version](https://open.spotify.com/track/3AdjHhN66vLKskEtKMIMEc) | [Vincent de Moor](https://open.spotify.com/artist/513hutOhfryax7g1N0XHEk) | [Fly Away](https://open.spotify.com/album/49WdVSU2t95TJpsz36TXIl) | 8:21 |
+| 67 | [Time Is The Healer \- Armin van Buuren Remix](https://open.spotify.com/track/1AVoSeGyzqbS6qMOw4EFmO) | [Riva](https://open.spotify.com/artist/6iA15qGHQwya65ivTQXDzP) | [A State Of Trance Classics, Vol\. 6 \(Bonus Best Ever Edition\)](https://open.spotify.com/album/6u5Q7kNzIlLo2lwkCwrhWg) | 7:55 |
 | 68 | [Another Chance \(Radio Edit\)](https://open.spotify.com/track/46WVWDw8SubxyzQUXRBWt4) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Another Chance](https://open.spotify.com/album/1KyaCwJ2Hcz1M5g7qQcmue) | 3:30 |
 | 69 | [Alone](https://open.spotify.com/track/5TINskHXiPUY4YEJZVcyuG) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Some Things \(Deluxe\)](https://open.spotify.com/album/5C48YYSKZGy2W2pNxisF8w) | 4:01 |
 | 70 | [The Anthem 2002 \- Radio Edit](https://open.spotify.com/track/24ojHsvYBzAkhcL25yJqY3) | [Sensation](https://open.spotify.com/artist/12JbiAmiTFt8dg0mgzGVJp) | [Anthem 2002](https://open.spotify.com/album/088t7VuRO6VQFSgogK23rk) | 2:53 |
-| 71 | [Désenchantée \- Radio Mix](https://open.spotify.com/track/6SNcx71T1M7CkRCbswPtwj) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Désenchantée/U R \(My Love\)](https://open.spotify.com/album/5XCvIMSKvTNyYq9HevTWa3) | 3:40 |
-| 72 | [In Silence \- Ron van den Beuken Remix](https://open.spotify.com/track/2iWHVKISSU9axCE6sncM0M) | [Randy Katana](https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr) | [In Silence \(Remixes\)](https://open.spotify.com/album/4raE2IqKCFUNF8KJwzhLXa) | 11:15 |
+| 71 | [In Silence \- Ron van den Beuken Remix](https://open.spotify.com/track/2iWHVKISSU9axCE6sncM0M) | [Randy Katana](https://open.spotify.com/artist/6XI9c9lZrduWlG80Kky8yr) | [In Silence \(Remixes\)](https://open.spotify.com/album/4raE2IqKCFUNF8KJwzhLXa) | 11:15 |
+| 72 | [Désenchantée \- Radio Mix](https://open.spotify.com/track/6SNcx71T1M7CkRCbswPtwj) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Désenchantée/U R \(My Love\)](https://open.spotify.com/album/5XCvIMSKvTNyYq9HevTWa3) | 3:40 |
 | 73 | [Freeloader \- Original Mix](https://open.spotify.com/track/62bKZ9fbZFHx5nQ1QXLhGL) | [Driftwood](https://open.spotify.com/artist/17Trjm9YXwbKVDdILNCT9t) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 6:52 |
 | 74 | [Lift Me Up \- Barthezz Uplifting Remix](https://open.spotify.com/track/0twDKQyNGVsQ6uvIauUG2i) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [Lift Me Up](https://open.spotify.com/album/4jXF49oY4Zm486fVk4Dd0U) | 8:44 |
-| 75 | [Good Time \- Original Mix](https://open.spotify.com/track/1wGjJcVAGual9ZkX3wefXV) | [Peran](https://open.spotify.com/artist/118Lw79OE3nCByRVzSGdD9) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 8:18 |
-| 76 | [Proximus \- Radio Edit](https://open.spotify.com/track/3u1MtZDbvPzfwOlXnC7kf0) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Trance Top 1000 \- 2013: The Best Of](https://open.spotify.com/album/1z9voFSLxtgBsvEYrodKWQ) | 3:31 |
+| 75 | [Proximus \- Radio Edit](https://open.spotify.com/track/3u1MtZDbvPzfwOlXnC7kf0) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Trance Top 1000 \- 2013: The Best Of](https://open.spotify.com/album/1z9voFSLxtgBsvEYrodKWQ) | 3:31 |
+| 76 | [Good Time \- Original Mix](https://open.spotify.com/track/1wGjJcVAGual9ZkX3wefXV) | [Peran](https://open.spotify.com/artist/118Lw79OE3nCByRVzSGdD9) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 8:18 |
 | 77 | [4 Elements](https://open.spotify.com/track/6RuojdtUR7zkIuJqMxaij5) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9) | [A State Of Trance Classics, Vol.2](https://open.spotify.com/album/4MZ7o3YmVjt9QaTHJiSf80) | 7:02 |
 | 78 | [Turn the Tide](https://open.spotify.com/track/0LWxvlcuO2SLHOrwRVKdPZ) | [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Summer Hitz: Throwback 4](https://open.spotify.com/album/50pU3YGVDmM9EVfjUG45eC) | 4:06 |
 | 79 | [Barber's Adagio for Strings \- Ferry Corsten Remix](https://open.spotify.com/track/4i5pAqfwUiO4LWhTsMpwzQ) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Classic EDM](https://open.spotify.com/album/0tSRUEtKgnYx0UAWiY8mZw) | 6:35 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 81 | [Resurection \(Radio Edit\)](https://open.spotify.com/track/3ijxShVha6D2BS4biQWfo5) | [PPK](https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z) | [Resurection Legacy](https://open.spotify.com/album/2CvJkjqqEq0iG3yywrokNg) | 3:16 |
 | 82 | [Will I \(Extended Mix\)](https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ) | [Cantaditas De Luxe Vol.2](https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI) | 6:30 |
 
-Snapshot ID: `MTY1NDg2MjUwOCwwMDAwMDAwMDhlNjFjMTZjYmUyOGU4M2FkMGY3NzdjOWNlMTUwNTkw`
+Snapshot ID: `MTY1NDg2MjUwOCwwMDAwMDAwMGM5NjU2ZTI1OWM3MmE3MTg3ZWVjZmE1YTE1YTZjZWI0`

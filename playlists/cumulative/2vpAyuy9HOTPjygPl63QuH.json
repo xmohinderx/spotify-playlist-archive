@@ -6783,6 +6783,24 @@
     },
     {
       "album": {
+        "name": "Let's Get Ill",
+        "url": "https://open.spotify.com/album/3cuQGNieCQ4wFfijFdN8Ha"
+      },
+      "artists": [
+        {
+          "name": "Ape Rebellion",
+          "url": "https://open.spotify.com/artist/4PHCU1OygARhYpKqYJNmiq"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349400,
+      "name": "Let's Get Ill",
+      "url": "https://open.spotify.com/track/6RxeXU0rONcjsesp7GPb1r"
+    },
+    {
+      "album": {
         "name": "Let's Go Dancing",
         "url": "https://open.spotify.com/album/0dC3hdukoHUsgbVVCCLLYR"
       },

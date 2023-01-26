@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists. Cover: <a href=\u201cspotify:artist:39i5B6umzWzkfMe12JrMwW\u201d>TiaCorine</a>  ",
-  "num_followers": 33623,
+  "num_followers": 33645,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwODQwMCwwMDAwMDAwMDQ0MTM4YzljMDIzODJiOGJjZjk2ZTg2Y2FiZDFhMjIz",
+  "snapshot_id": "MTY3MjgwODQwMCwwMDAwMDAwMDQ1NTU1ZGU1NDkxZDBhZjMwMTg3ZjJhMWVmZGQ5MTM4",
   "tracks": [
     {
       "added_at": "2023-01-04 05:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
+        "name": "Out For The Weekend",
+        "url": "https://open.spotify.com/album/5xTD5saqA6XYfi3A7C8nyA"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 207109,
+      "name": "Out For The Weekend",
+      "url": "https://open.spotify.com/track/7rl1Z4u5EEtG03Nv6NohsB"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
         "name": "Roadkill",
         "url": "https://open.spotify.com/album/4I6KtoBDbRNR7R5DvQA7Nv"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 194915,
       "name": "parking lot",
       "url": "https://open.spotify.com/track/1VRthxEwloKl9WDlesQRUc"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
-        "name": "Out For The Weekend",
-        "url": "https://open.spotify.com/album/5xTD5saqA6XYfi3A7C8nyA"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 207109,
-      "name": "Out For The Weekend",
-      "url": "https://open.spotify.com/track/7rl1Z4u5EEtG03Nv6NohsB"
     },
     {
       "added_at": "2023-01-04 05:00:00",

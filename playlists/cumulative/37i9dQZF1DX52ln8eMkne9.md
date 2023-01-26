@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-249 songs - 18 hr 39 min
+250 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Ojos Cariñosos](https://open.spotify.com/track/0MJP086n8wHT0rrMNt9ag8) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 7:44 | 2023-01-17 |  |
 | [Ojos Cariñosos](https://open.spotify.com/track/4Fb1S8u90wKz2GYfrz1xIA) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Ojos Cariñosos](https://open.spotify.com/album/6ktn3I6uQQEkBhs1xQhlk3) | 7:44 | 2021-12-17 | 2023-01-13 |
 | [One For My Baby](https://open.spotify.com/track/3tH1hpTg9fBtuvX1ghzNON) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx) | 5:11 | 2021-12-17 |  |
+| [Only the Lonely](https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Only the Lonely](https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p) | 3:12 | 2023-01-25 |  |
 | [Over The Rainbow](https://open.spotify.com/track/3TotnIhZuLlxAZY22hUw6k) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [So In Love](https://open.spotify.com/album/3XXHWtBulLdFVGD8zW0oO2) | 3:55 | 2021-12-17 | 2022-07-29 |
 | [Perhaps You'll Wonder Why](https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Perhaps You’ll Wonder Why](https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr) | 4:45 | 2022-05-05 |  |
 | [Please Don’t Kiss Me](https://open.spotify.com/track/53BNQYtpEJu1lmOVkYRWTL) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:33 | 2021-12-17 |  |
@@ -211,7 +212,7 @@
 | [The Nearness Of You](https://open.spotify.com/track/03gk2zRwm8uUZDbyZJtPgh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:07 | 2021-12-17 | 2022-07-29 |
 | [The Nearness Of You](https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:07 | 2022-07-28 | 2022-09-15 |
 | [The Summer Wind](https://open.spotify.com/track/6T407MUyMd4d0NZrvUNj3q) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/3KniUiE1O3h7CWWJ6eByiY) | 3:54 | 2021-12-17 | 2022-07-29 |
-| [The Summer Wind](https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 3:55 | 2022-07-28 |  |
+| [The Summer Wind](https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 3:55 | 2022-07-28 | 2023-01-26 |
 | [The Very Thought of You](https://open.spotify.com/track/79ON5cFmJBoDDFdWB9ppOv) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Very Thought of You](https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP) | 6:38 | 2021-12-17 |  |
 | [The Very Thought of You](https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI) | [Naama Gheber](https://open.spotify.com/artist/1KObvUW72IGgUzVi9oe60n) | [The Very Thought of You](https://open.spotify.com/album/3jYDvk2uAOO4nPrY86a08n) | 3:27 | 2022-09-27 | 2022-11-17 |
 | [The Very Thought of You](https://open.spotify.com/track/7HX1x07eay5LlnrQdq7zh2) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 3: The Resolution Of Romance](https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho) | 5:36 | 2021-12-17 |  |

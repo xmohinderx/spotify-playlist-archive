@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-377 songs - 21 hr 6 min
+378 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Breathing](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42) | 3:42 | 2022-01-18 | 2022-02-05 |
 | [Brothers](https://open.spotify.com/track/1lot66VQeVUqsFdy7Lsfbd) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v) | [Black Zebra](https://open.spotify.com/album/5bYDboirUS3rp1FhFSVcqE) | 2:50 | 2021-11-23 | 2022-02-05 |
 | [Burning](https://open.spotify.com/track/3igWrJSeQD4HGqmyoYRnNP) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Burning](https://open.spotify.com/album/2tOVEx5H7eELyXIKs8Eweo) | 2:59 | 2022-01-18 | 2022-02-16 |
+| [Bury Me in Leather](https://open.spotify.com/track/1UOKmBLABOg9weXxIYM6oB) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Bury Me in Leather](https://open.spotify.com/album/3Dvdh7oOswePpcRafceHcj) | 2:46 | 2023-01-25 |  |
 | [Call Me](https://open.spotify.com/track/3MIhKhsLkAqeeZYxGVCvEV) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Call Me](https://open.spotify.com/album/1OJZct2mXQSrB7ZJbs4eVc) | 2:29 | 2021-11-23 | 2022-01-08 |
 | [Calle De Silva 6](https://open.spotify.com/track/4bzvRGIfL83G3RzasLgUH3) | [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Calle De Silva 6](https://open.spotify.com/album/5OpqN5kyrLcxsyJMwwYGP5) | 2:29 | 2022-07-07 | 2022-11-12 |
 | [Can't Say No](https://open.spotify.com/track/1q8w7j7ukxaHGAWsAgotEa) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [BUFFERING...](https://open.spotify.com/album/5p611tPdHx6106delXBiHv) | 2:20 | 2021-12-07 | 2022-01-08 |

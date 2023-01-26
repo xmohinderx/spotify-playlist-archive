@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 865263,
+  "num_followers": 865657,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1NjQwMCwwMDAwMDAwMGFjYTAxODk3YzNlMWVmZWZmYjIxNTgyZmU4ZDY5MjQz",
+  "snapshot_id": "MTY3MzQ1NjQwMCwwMDAwMDAwMDkyNDNmYmE3NjY2ZTM3NmRjZDlhYmI4MmYwZjQ0ZWU5",
   "tracks": [
     {
       "added_at": "2023-01-11 17:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Kill The Noise (Acoustic)",
-        "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 161010,
-      "name": "Kill The Noise - Acoustic",
-      "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "...Like Cologne (Spotify Exclusive)",
         "url": "https://open.spotify.com/album/4emoC6C9fCDkWPdTuxN9an"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 275571,
       "name": "I Sat by the Ocean - Live Acoustic",
       "url": "https://open.spotify.com/track/7mGAH8wfCljwG0tBi9WMGJ"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Kill The Noise (Acoustic)",
+        "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 161010,
+      "name": "Kill The Noise - Acoustic",
+      "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
     },
     {
       "added_at": "2023-01-11 17:00:00",
