@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Jung Dong Won\(정동원\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-783 songs - 1 day 20 hr 43 min
+784 songs - 1 day 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Girls girls girls](https://open.spotify.com/track/4u6ezTi03y6DScGKZovYBo) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART8](https://open.spotify.com/album/69qkW8reqrUoLlLmvKX7oY) | 2:55 | 2022-06-18 | 2022-06-28 |
 | [Glass of Tears](https://open.spotify.com/track/6BvJOVN2kSrC4EUdw9SqPg) | [HONGJA](https://open.spotify.com/artist/49wMsDuLZqbAAthrdX9cLL) | [Glass](https://open.spotify.com/album/7kIf0zFONauuxaqwElNkhk) | 3:38 | 2022-04-07 | 2022-07-24 |
 | [Glue stick](https://open.spotify.com/track/5Uj7VESpHsOCs5BPNARWbt) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 3:49 | 2022-05-03 | 2022-07-27 |
+| [Go to tomorrow](https://open.spotify.com/track/24tHNTYko3kd6FBcGtLdup) | [Ryu Ji Kwang](https://open.spotify.com/artist/7GjsbJgT9M7DpYIKEV9E1W) | [Taepung's Bride \(Original Soundtrack\), Pt.20](https://open.spotify.com/album/7AzzizLooEwnORg1VctocL) | 3:43 | 2023-01-27 |  |
 | [Gombaeryung](https://open.spotify.com/track/4FgouUB2bPqy3gSz0He1yg) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART26](https://open.spotify.com/album/5O3IqGbIkx9JZAbfAXVPnW) | 3:35 | 2022-05-03 | 2022-07-29 |
 | [Gone with the wind](https://open.spotify.com/track/6ti2584f9lgsO34iX4ywsK) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Bongsungah school PART14](https://open.spotify.com/album/3Rmq4pcai47nT6G020fGDw) | 3:52 | 2022-05-03 | 2022-06-13 |
 | [Good Day](https://open.spotify.com/track/1i9DavT2lNkwA3KskjZuG5) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Dream](https://open.spotify.com/album/4QlmckbPKjwvpfDO9DzDpQ) | 3:32 | 2022-04-07 | 2022-07-29 |
@@ -384,7 +385,7 @@
 | [Macho man](https://open.spotify.com/track/4mH9UN981op5GwpPERjJXD) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Na Taeju](https://open.spotify.com/artist/7I9b0wtsZYnGXxGTN92XnP) | [Music source of Mr.Trot LEGEND MISSION BEST](https://open.spotify.com/album/0TCVzamNSSkb47YwavJqfO) | 3:37 | 2022-04-22 | 2022-07-22 |
 | [Magic lily](https://open.spotify.com/track/3t18TYRfPJij3Kbs4ZgFOY) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Music source of Mr.Trot LEGEND MISSION BEST](https://open.spotify.com/album/0TCVzamNSSkb47YwavJqfO) | 3:47 | 2022-05-03 | 2022-07-24 |
 | [Magnifying glass](https://open.spotify.com/track/2KXrBnVEDw53vxbB4OGJc9) | [Byeol Sarang](https://open.spotify.com/artist/3VrazTKgtuVIWAklWap0KT) | [Music source of <MissTrot2> FINAL Songwriter Mission](https://open.spotify.com/album/55myCPZ3HKzK1yXcw7AGG6) | 3:26 | 2022-04-22 |  |
-| [Man of harbor](https://open.spotify.com/track/6k2uEsC4enRSqgf3utAltW) | [Hong Jameon](https://open.spotify.com/artist/3YSBPOvl1LuFvA2BsuQkJP) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 1:48 | 2022-04-22 |  |
+| [Man of harbor](https://open.spotify.com/track/6k2uEsC4enRSqgf3utAltW) | [Hong Jameon](https://open.spotify.com/artist/3YSBPOvl1LuFvA2BsuQkJP) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 1:48 | 2022-04-22 | 2023-01-27 |
 | [Margin](https://open.spotify.com/track/17UMmh0SreHMlUjDlGkQAk) | [Nam Seungmin](https://open.spotify.com/artist/2O51qiz6mXRRkGblIqwyN5) | [Love call center PART32](https://open.spotify.com/album/2ILRXQMJw8fGbuz7vhvShU) | 4:27 | 2022-05-03 | 2022-06-15 |
 | [Maria](https://open.spotify.com/track/3zC2aZKFM0syGLz92BMaeL) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:08 | 2022-04-21 | 2023-01-16 |
 | [Me to you, you to me](https://open.spotify.com/track/7JJpqBgpqNbN0o0Bul9Hzz) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:42 | 2022-05-03 | 2022-07-23 |

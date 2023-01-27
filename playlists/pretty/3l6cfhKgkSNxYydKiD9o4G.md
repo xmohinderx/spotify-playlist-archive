@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/3l6cfhKgkSNxYydKiD9o4G.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Woke Up This Morning \- Official Theme Tune Of 'The Sopranos'](https://open.spotify.com/track/2mcD3BFihnK62bOstqJU7K) | [Alabama 3](https://open.spotify.com/artist/25zUD40u8M2kJmdcabBzrz) | [Woke Up This Morning \(Official Theme Tune Of 'The Sopranos'\)](https://open.spotify.com/album/0YLKxZgqJlHqezXJIGpzSV) | 4:09 |
-| 2 | [It Was a Very Good Year](https://open.spotify.com/track/2qmRKac7Bh9NRfpoIMi200) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra: Best Of The Best](https://open.spotify.com/album/3CyomBjyhtq3xLtMq2Oxi2) | 4:25 |
+| 2 | [It Was a Very Good Year](https://open.spotify.com/track/2qmRKac7Bh9NRfpoIMi200) | [Frank Sinatra](https://open.spotify.com/artist/0RS8JMVolOGoAyH8SNiLWz) | [Sinatra: Best Of The Best](https://open.spotify.com/album/3CyomBjyhtq3xLtMq2Oxi2) | 4:25 |
 | 3 | [You Can't Put Your Arms Round a Memory](https://open.spotify.com/track/2soxUQx6rPfOk0kHNePbhq) | [Johnny Thunders](https://open.spotify.com/artist/421A23lYymEUE6SozCfWbr) | [So Alone](https://open.spotify.com/album/1RUZkUP7Fj7vqbfQaNjBZC) | 3:46 |
 | 4 | [I'm Not Like Everybody Else](https://open.spotify.com/track/5XaUlf424B7tfyjFsmc3CY) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Ultimate Collection](https://open.spotify.com/album/4H5eGKVUhmXiPz1AbxJUmz) | 3:27 |
 | 5 | [One Of These Days \- 2011 Remastered Version](https://open.spotify.com/track/7t6iW9FZVJH7wSH8HKYcC2) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle \(2011 Remastered Version\)](https://open.spotify.com/album/397UShovgBCMVxbnDXMjUN) | 5:54 |

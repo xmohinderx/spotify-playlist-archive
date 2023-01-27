@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: Hit Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,224 likes - 67 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,230 likes - 67 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 13 | [Aaliyah](https://open.spotify.com/track/2r6Iu2bWLGCTvqi0hZLquj) | [Paris Nights](https://open.spotify.com/artist/2t3WTXscRe9jd3Noj7Hk9E) | [Aaliyah](https://open.spotify.com/album/7mDffqnhsU4QveEnAfdtVb) | 2:11 |
 | 14 | [50/50](https://open.spotify.com/track/0tEtaU2hWPVnqU9FkCs6bu) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [50/50](https://open.spotify.com/album/5w5NsFzVYvg2inlvZpuvYt) | 3:28 |
 | 15 | [Camino Muerto](https://open.spotify.com/track/1gbtp4o1syAv0oAsEOvG3f) | [Tyler Reese](https://open.spotify.com/artist/1NVgeY7C8IHk6TqMv5UGIH) | [Camino Muerto](https://open.spotify.com/album/3ALD9uPVzMwvm2LdaJtg75) | 2:58 |
-| 16 | [Energy](https://open.spotify.com/track/72odsKleXPWXOaQCL2rzH6) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Like Girls](https://open.spotify.com/album/7eY7vBlvfXyjbS5Mp4NMcP) | 3:10 |
+| 16 | [Energy](https://open.spotify.com/track/0SbiVLtUK14GofLwErR4vR) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Like Girls](https://open.spotify.com/album/7Ah6FjEDAbEYlms3sh1EXu) | 3:10 |
 | 17 | [BNB](https://open.spotify.com/track/2t9TWyicvzrXqbwdPaBk3c) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [BNB](https://open.spotify.com/album/3hseLB6x5CdTGePQgIc2Sf) | 2:54 |
 | 18 | [Tomorrow](https://open.spotify.com/track/360UUtnLhTotPeik1PMufx) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Tomorrow](https://open.spotify.com/album/0aP0bYoU6j1WKaxVyZZcB9) | 3:27 |
 | 19 | [Wanted](https://open.spotify.com/track/2BwXUgM4qysMrsJXBxD1ru) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Wanted](https://open.spotify.com/album/0L4ia01RGHoUANLSvQfvjP) | 3:00 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 66 | [18 Wheeler \(feat\. E40 & Mitchy Slick\)](https://open.spotify.com/track/2jEoIHs66FW92R14kT9qVR) | [The Mekanix](https://open.spotify.com/artist/0sJOeCMBvIDiHJ9Ct5h7IF), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Mitchy Slick](https://open.spotify.com/artist/3uhJHJFmFtFloOhRCDocit) | [18 Wheeler \(feat\. E40 & Mitchy Slick\)](https://open.spotify.com/album/1J6T6ycRq91IZHdLUiqDCB) | 3:09 |
 | 67 | [Scandalous \(feat\. Tinashe\) \- GUERRO Remix](https://open.spotify.com/track/1wSnGEbGJJ5MtjiFBlYJ9D) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [GUERRO](https://open.spotify.com/artist/6zgXDX1gGCrq6U8RXKGn0h) | [Scandalous \(feat\. Tinashe\) \[Remixes\]](https://open.spotify.com/album/0AILrrwUAttkpst8ABOXNK) | 2:44 |
 
-Snapshot ID: `MTY3NDU0MTIxNCwwMDAwMDAwMDU1ZTI1YTEyMjdkZTVjMmVkZWY1ZjQ2OTQwM2FmZTg1`
+Snapshot ID: `MTY3NDU0MTIxNCwwMDAwMDAwMDI2NzM1NDEyMTljYjJmYTczOWYwMzZkNTZhODhiMDdm`

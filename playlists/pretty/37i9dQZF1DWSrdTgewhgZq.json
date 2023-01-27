@@ -1,12 +1,12 @@
 {
   "description": "Only the best Hip-hop, only non-stop hits. Cover: A$AP ROCKY",
-  "num_followers": 1008933,
+  "num_followers": 1009298,
   "original_name": "DOPE.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYxMTY3MSwwMDAwMDAwMDY0N2U4NDRmOTU3OGE5NzcyZGFkN2JiNTUzYTg3OGI1",
+  "snapshot_id": "MTY3NDY5OTI2NywwMDAwMDAwMDUyOWEzZWIyNTMwZGE2YTMxNzZjOTZlZWNlYTQzNjk3",
   "tracks": [
     {
       "added_at": "2023-01-25 01:54:31",
@@ -23,6 +23,26 @@
       "duration_ms": 262941,
       "name": "Same Problems?",
       "url": "https://open.spotify.com/track/3jpZwYrDbX2lQMhHwXjyUD"
+    },
+    {
+      "added_at": "2023-01-26 02:14:27",
+      "album": {
+        "name": "Two Tens (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 152371,
+      "name": "Two Tens (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
     },
     {
       "added_at": "2023-01-25 01:54:31",

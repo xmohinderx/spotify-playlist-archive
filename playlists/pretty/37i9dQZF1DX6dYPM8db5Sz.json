@@ -1,13 +1,61 @@
 {
-  "description": "The freshest indie music from South African and beyond. Cover: <a href=\"https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=Z6fdR3NXQ52L7r0GSmfAEA\">Msaki</a> and <a href=\"https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=AhnbaA9RSDGCEL4gmSlDhQ\">Tubatsi Mpho Moloi</a>",
-  "num_followers": 5418,
+  "description": "The freshest indie music from South African and beyond. Cover: <a href=\"https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86?si=E4XDVL0qS2WwQFX_ZhuEvg\">Matthew Mole",
+  "num_followers": 5425,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDI1MTUyMCwwMDAwMDAwMDYxNWQ2YWM3NWY2NGUyY2I2MjcxZTk3ZTVlNTgwM2Ni",
+  "snapshot_id": "MTY3NDc3MDM0MCwwMDAwMDAwMGIxNzk1YjEwYTE5YWNmNmRiNDczYTA5ODcwYzUwZTJj",
   "tracks": [
+    {
+      "added_at": "2023-01-26 21:59:00",
+      "album": {
+        "name": "Countryside",
+        "url": "https://open.spotify.com/album/4Z9AQ8SjQybVgcEhdhfvd0"
+      },
+      "artists": [
+        {
+          "name": "Matthew Mole",
+          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+        }
+      ],
+      "duration_ms": 217829,
+      "name": "Countryside",
+      "url": "https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM"
+    },
+    {
+      "added_at": "2022-11-10 21:59:00",
+      "album": {
+        "name": "Shortcuts",
+        "url": "https://open.spotify.com/album/0MuIUbsI2sYNnC7QSIyZsZ"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Shortcuts",
+      "url": "https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg"
+    },
+    {
+      "added_at": "2023-01-26 21:59:00",
+      "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/3ZOixT6OPYmcj1N1SQctmN"
+      },
+      "artists": [
+        {
+          "name": "Anke Richards",
+          "url": "https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF"
+        }
+      ],
+      "duration_ms": 196571,
+      "name": "Fantasies",
+      "url": "https://open.spotify.com/track/7zltIKDQN6TMoERha3MiXo"
+    },
     {
       "added_at": "2023-01-19 21:59:00",
       "album": {
@@ -31,54 +79,6 @@
     {
       "added_at": "2023-01-19 21:59:00",
       "album": {
-        "name": "Chariot",
-        "url": "https://open.spotify.com/album/3R9K985Qq28VqqzeV65bZ0"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 200693,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/1ZHboJHdP97xyCaQWuP9h6"
-    },
-    {
-      "added_at": "2023-01-12 21:59:00",
-      "album": {
-        "name": "Raise Me Up",
-        "url": "https://open.spotify.com/album/4f7DsT5qVrvPvMEcVWhVOp"
-      },
-      "artists": [
-        {
-          "name": "Yorxe",
-          "url": "https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8"
-        }
-      ],
-      "duration_ms": 181631,
-      "name": "Raise Me Up",
-      "url": "https://open.spotify.com/track/4FYldB9dN6Emigix7ppAYO"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "Shortcuts",
-        "url": "https://open.spotify.com/album/0MuIUbsI2sYNnC7QSIyZsZ"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Shortcuts",
-      "url": "https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg"
-    },
-    {
-      "added_at": "2023-01-19 21:59:00",
-      "album": {
         "name": "Somewhere In The Hills",
         "url": "https://open.spotify.com/album/1qszdzWBMFMcnToZ6EcC94"
       },
@@ -95,6 +95,42 @@
       "duration_ms": 173853,
       "name": "Somewhere In The Hills",
       "url": "https://open.spotify.com/track/5PpyIT1WNnOktnE21J2S7t"
+    },
+    {
+      "added_at": "2023-01-26 21:59:00",
+      "album": {
+        "name": "Silent Running (feat. Adeleye Omotayo)",
+        "url": "https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Adeleye Omotayo",
+          "url": "https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT"
+        }
+      ],
+      "duration_ms": 266338,
+      "name": "Silent Running (feat. Adeleye Omotayo)",
+      "url": "https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg"
+    },
+    {
+      "added_at": "2023-01-12 21:59:00",
+      "album": {
+        "name": "Raise Me Up",
+        "url": "https://open.spotify.com/album/4f7DsT5qVrvPvMEcVWhVOp"
+      },
+      "artists": [
+        {
+          "name": "Yorxe",
+          "url": "https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8"
+        }
+      ],
+      "duration_ms": 181631,
+      "name": "Raise Me Up",
+      "url": "https://open.spotify.com/track/4FYldB9dN6Emigix7ppAYO"
     },
     {
       "added_at": "2023-01-19 21:59:00",
@@ -127,6 +163,22 @@
       "duration_ms": 140373,
       "name": "Above Water",
       "url": "https://open.spotify.com/track/2K5VUYjs3a2AKVGuj7VWTr"
+    },
+    {
+      "added_at": "2022-11-17 21:59:00",
+      "album": {
+        "name": "Tell Me How",
+        "url": "https://open.spotify.com/album/57AGDnhGRf9z6tMpK1N5Br"
+      },
+      "artists": [
+        {
+          "name": "The Great Yawn",
+          "url": "https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6"
+        }
+      ],
+      "duration_ms": 293389,
+      "name": "Tell Me How",
+      "url": "https://open.spotify.com/track/0kgAPpUF1oZlzHuMtc5SS9"
     },
     {
       "added_at": "2022-11-24 21:59:00",
@@ -177,22 +229,6 @@
       "url": "https://open.spotify.com/track/3DopZVBcDtQeZkbVF8Odcv"
     },
     {
-      "added_at": "2022-11-17 21:59:00",
-      "album": {
-        "name": "Tell Me How",
-        "url": "https://open.spotify.com/album/57AGDnhGRf9z6tMpK1N5Br"
-      },
-      "artists": [
-        {
-          "name": "The Great Yawn",
-          "url": "https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6"
-        }
-      ],
-      "duration_ms": 293389,
-      "name": "Tell Me How",
-      "url": "https://open.spotify.com/track/0kgAPpUF1oZlzHuMtc5SS9"
-    },
-    {
       "added_at": "2022-12-15 21:59:00",
       "album": {
         "name": "Outside",
@@ -209,6 +245,22 @@
       "url": "https://open.spotify.com/track/4vnWq7kLc1RSUNJzcNDyE1"
     },
     {
+      "added_at": "2023-01-26 21:59:00",
+      "album": {
+        "name": "fa\u00e7ade",
+        "url": "https://open.spotify.com/album/79vl4afRpt6VNGoHRFaUfP"
+      },
+      "artists": [
+        {
+          "name": "gerald kent",
+          "url": "https://open.spotify.com/artist/4deC9GQfMqj9MpuG0jA2un"
+        }
+      ],
+      "duration_ms": 194383,
+      "name": "pink & blue",
+      "url": "https://open.spotify.com/track/0fVfYsnBOunr5mX1mViBQt"
+    },
+    {
       "added_at": "2023-01-12 21:59:00",
       "album": {
         "name": "Alpha Zulu",
@@ -223,6 +275,22 @@
       "duration_ms": 191733,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
+    },
+    {
+      "added_at": "2023-01-26 21:59:00",
+      "album": {
+        "name": "Little Girl",
+        "url": "https://open.spotify.com/album/38OTti2ijv4mARDji7Rx99"
+      },
+      "artists": [
+        {
+          "name": "Ernest Che Guerro",
+          "url": "https://open.spotify.com/artist/31E8QoONQGPHC1j6V4BWmm"
+        }
+      ],
+      "duration_ms": 251998,
+      "name": "Little Girl",
+      "url": "https://open.spotify.com/track/1KK3whamg1HmTETY7tl51g"
     },
     {
       "added_at": "2023-01-19 21:59:00",
@@ -293,22 +361,6 @@
       "url": "https://open.spotify.com/track/3gv47i3eI5YN7vVX1Rax9m"
     },
     {
-      "added_at": "2022-09-09 02:51:20",
-      "album": {
-        "name": "NEARLY ME",
-        "url": "https://open.spotify.com/album/1Jdk7zXVJyDFb7fZQ9sXlu"
-      },
-      "artists": [
-        {
-          "name": "Pat McCay",
-          "url": "https://open.spotify.com/artist/1AMLedm2z14uk2eSDbndxK"
-        }
-      ],
-      "duration_ms": 217506,
-      "name": "Ride The Next One",
-      "url": "https://open.spotify.com/track/4so7v52k8q4Bac3SxHAPOu"
-    },
-    {
       "added_at": "2022-12-15 21:59:00",
       "album": {
         "name": "Madonna",
@@ -363,6 +415,22 @@
       "duration_ms": 366011,
       "name": "Harder",
       "url": "https://open.spotify.com/track/4NzCbEX3oR76un4r4wMdEG"
+    },
+    {
+      "added_at": "2022-09-09 02:51:20",
+      "album": {
+        "name": "NEARLY ME",
+        "url": "https://open.spotify.com/album/1Jdk7zXVJyDFb7fZQ9sXlu"
+      },
+      "artists": [
+        {
+          "name": "Pat McCay",
+          "url": "https://open.spotify.com/artist/1AMLedm2z14uk2eSDbndxK"
+        }
+      ],
+      "duration_ms": 217506,
+      "name": "Ride The Next One",
+      "url": "https://open.spotify.com/track/4so7v52k8q4Bac3SxHAPOu"
     },
     {
       "added_at": "2022-12-08 21:59:00",
@@ -632,41 +700,9 @@
           "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
         }
       ],
-      "duration_ms": 271229,
+      "duration_ms": 278130,
       "name": "cold",
       "url": "https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6"
-    },
-    {
-      "added_at": "2022-12-08 21:59:00",
-      "album": {
-        "name": "Blue Skies Baby",
-        "url": "https://open.spotify.com/album/508gqpQDY4WOLrRiune1oj"
-      },
-      "artists": [
-        {
-          "name": "Painted Flowers",
-          "url": "https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX"
-        }
-      ],
-      "duration_ms": 225391,
-      "name": "Blue Skies Baby",
-      "url": "https://open.spotify.com/track/1hd9094RZE9TAk8IaF7Tdh"
-    },
-    {
-      "added_at": "2023-01-12 21:59:00",
-      "album": {
-        "name": "F.B.A.",
-        "url": "https://open.spotify.com/album/4MObRnQQsWhHcUTzfqRdIz"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Nevis",
-          "url": "https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3"
-        }
-      ],
-      "duration_ms": 193485,
-      "name": "F.B.A.",
-      "url": "https://open.spotify.com/track/58C5kHS2ylQdtiq5RHffsc"
     },
     {
       "added_at": "2022-12-15 21:59:00",
@@ -707,34 +743,50 @@
     {
       "added_at": "2023-01-12 21:59:00",
       "album": {
-        "name": "Stranger in the Alps (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+        "name": "F.B.A.",
+        "url": "https://open.spotify.com/album/4MObRnQQsWhHcUTzfqRdIz"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Jimmy Nevis",
+          "url": "https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3"
         }
       ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq"
+      "duration_ms": 193485,
+      "name": "F.B.A.",
+      "url": "https://open.spotify.com/track/58C5kHS2ylQdtiq5RHffsc"
     },
     {
       "added_at": "2022-11-10 21:59:00",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/27eAjlHZCuJ5LhlTaT29C0"
+        "name": "ghost in the machine",
+        "url": "https://open.spotify.com/album/2HNFlTUUoE4UTfX0gSKlEp"
       },
       "artists": [
         {
-          "name": "Hanukug",
-          "url": "https://open.spotify.com/artist/0mHXobgLsjgAyj32UXRwpj"
+          "name": "emerger",
+          "url": "https://open.spotify.com/artist/6RyGTscMqtqj8eP4mhxoY7"
         }
       ],
-      "duration_ms": 126005,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/2BgpHPF021lgW7igZGGCVa"
+      "duration_ms": 207439,
+      "name": "ghost in the machine",
+      "url": "https://open.spotify.com/track/6g26JrVvHq2JTviCK8Rov2"
+    },
+    {
+      "added_at": "2023-01-12 21:59:00",
+      "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
       "added_at": "2022-11-10 21:59:00",
@@ -783,54 +835,6 @@
       "duration_ms": 178246,
       "name": "How Do I Tell You",
       "url": "https://open.spotify.com/track/0q1oVDXjgMByl8ff7b4h3t"
-    },
-    {
-      "added_at": "2022-11-03 21:59:00",
-      "album": {
-        "name": "HOME",
-        "url": "https://open.spotify.com/album/0iHU2P0uBhtUtAEbOE4wNv"
-      },
-      "artists": [
-        {
-          "name": "James Deacon",
-          "url": "https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/73wKP5eAiTwpB1cjNXUaph"
-    },
-    {
-      "added_at": "2023-01-12 21:59:00",
-      "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2022-11-10 21:59:00",
-      "album": {
-        "name": "ghost in the machine",
-        "url": "https://open.spotify.com/album/2HNFlTUUoE4UTfX0gSKlEp"
-      },
-      "artists": [
-        {
-          "name": "emerger",
-          "url": "https://open.spotify.com/artist/6RyGTscMqtqj8eP4mhxoY7"
-        }
-      ],
-      "duration_ms": 207439,
-      "name": "ghost in the machine",
-      "url": "https://open.spotify.com/track/6g26JrVvHq2JTviCK8Rov2"
     }
   ],
   "unique_name": "SAlt",

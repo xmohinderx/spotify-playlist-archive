@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYlpoS0u7ZOs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYlpoS0u7ZOs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYlpoS0u7ZOs)
 
-### [Shockwave](https://open.spotify.com/playlist/37i9dQZF1DWYlpoS0u7ZOs)
+### [shockwave](https://open.spotify.com/playlist/37i9dQZF1DWYlpoS0u7ZOs)
 
-> Get to know the new wave of rock\. Cover: SNAYX
+> Get to know the new wave of rock\. Cover: Superlove
 
-75 songs - 4 hr 2 min
+81 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,10 @@
 | [For You](https://open.spotify.com/track/0yUymvlfxHWxE62ys8VtbM) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Euphoria, Where Were You?](https://open.spotify.com/album/5F3s345rSD0UJe8IWo3imC) | 4:28 | 2023-01-13 |  |
 | [Freakshow](https://open.spotify.com/track/4qG7VJzZS75eZVv6LFnLbM) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Freakshow](https://open.spotify.com/album/2DzI2RSNz6HxgmHJCzwCK6) | 2:24 | 2023-01-13 |  |
 | [Gaslighter](https://open.spotify.com/track/0CvJWXoFSiPHYpLiQK1PBf) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Commander Trainwreck](https://open.spotify.com/album/3pgkvZHrpEawDd8GKrG1xu) | 3:44 | 2023-01-13 |  |
+| [GO!](https://open.spotify.com/track/7AHYD0DNFagANAVo4mxFGC) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [GO!](https://open.spotify.com/album/6QxSkWL0OqrjfJFtlVX9Dx) | 3:00 | 2023-01-27 |  |
 | [good boys remember well](https://open.spotify.com/track/4syzVAkmE49hs9WjY7j0o7) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [good boys remember well](https://open.spotify.com/album/1m7ZzHsSp6EqucLAt57O3S) | 3:08 | 2023-01-13 |  |
-| [Great Grief](https://open.spotify.com/track/56gsIFy0ZHmmD9aP8oyW8Y) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Great Grief](https://open.spotify.com/album/06tHEFc4lfNhfJaZLEYHD0) | 4:11 | 2023-01-13 |  |
+| [Great Grief](https://open.spotify.com/track/0mzrTxRfEN2jjP9CCHVY5A) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Great Grief / Atone](https://open.spotify.com/album/5Co6smDpKCGRKiBnQ17Acc) | 4:11 | 2023-01-27 |  |
+| [Great Grief](https://open.spotify.com/track/56gsIFy0ZHmmD9aP8oyW8Y) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Great Grief](https://open.spotify.com/album/06tHEFc4lfNhfJaZLEYHD0) | 4:11 | 2023-01-13 | 2023-01-27 |
 | [Hello Alien](https://open.spotify.com/track/4apqIevNZl1POiQccrGWls) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hello Alien](https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5) | 3:25 | 2023-01-13 |  |
 | [Hold On](https://open.spotify.com/track/6iGRB390nCX5QKcu3QQVI4) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Hold On](https://open.spotify.com/album/6oPA6UqARi3sZqg8ysQ73c) | 3:45 | 2023-01-13 |  |
 | [Huge Axeman](https://open.spotify.com/track/68JtByrtk4qcSYCb33Axdg) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [The Magnificent Eleven](https://open.spotify.com/album/6Xb7j7pPxSLgMbne3V9dKs) | 3:04 | 2023-01-13 |  |
@@ -46,6 +48,7 @@
 | [Like You Do](https://open.spotify.com/track/6ZVCjPMf1rHdGrNrdUguIm) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Like You Do](https://open.spotify.com/album/0v16l7GQAeUKZrFIRSKLSz) | 3:05 | 2023-01-13 |  |
 | [Live Laugh Love \- Radio Edit](https://open.spotify.com/track/5NveRq5V6eSyVX7DiYenLW) | [The Hot Damn!](https://open.spotify.com/artist/06o7ZJaBFxeAzRqonqi7w5) | [Live Laugh Love](https://open.spotify.com/album/0QpxeNDCvP58iDeOcJIoVK) | 3:46 | 2023-01-13 |  |
 | [Love Rush](https://open.spotify.com/track/41BpMpEPf3oo81DUoGfw32) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Love Rush](https://open.spotify.com/album/72Q9DnfCrWdrY8A95mXXrr) | 2:53 | 2023-01-13 |  |
+| [Lovedrunk](https://open.spotify.com/track/0oNTXmnhv5NFSScucHbki8) | [The White Lakes](https://open.spotify.com/artist/0NfxIPLSHdoCWNMXbLjehq) | [Lovedrunk](https://open.spotify.com/album/5ubYQGukF6N0djNxage429) | 4:00 | 2023-01-27 |  |
 | [Mayday](https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Mayday](https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo) | 3:15 | 2023-01-13 |  |
 | [Meal Deal](https://open.spotify.com/track/5qKqepzQPaif5QKoZNsiOU) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Meal Deal](https://open.spotify.com/album/1vxQHrNWHlXJsKIsozh2UZ) | 2:23 | 2023-01-13 |  |
 | [My Perfect](https://open.spotify.com/track/4wd0skBSF7oBUOeULBeitG) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [My Perfect](https://open.spotify.com/album/1mcKvwXKx1OIUHBOAuyQl7) | 3:12 | 2023-01-13 |  |
@@ -83,5 +86,8 @@
 | [Whatever Helps You Sleep](https://open.spotify.com/track/54REUcGs6ZgGNe5qV9oiNr) | [KHARTOUM](https://open.spotify.com/artist/4hYvirqM4pHCsklzddaMsM) | [Whatever Helps You Sleep](https://open.spotify.com/album/5mhvUUmhAWAo5niRe6kaAH) | 2:34 | 2023-01-13 |  |
 | [Wish I Was You](https://open.spotify.com/track/1hZ78pAQTniUNnxIes68Jd) | [Gina Birch](https://open.spotify.com/artist/6Uf8GS97rZbMv6vUFKhWft) | [Wish I Was You](https://open.spotify.com/album/3ovvIDsSYjs0Op2SExhzWF) | 3:23 | 2023-01-13 |  |
 | [Wonderview Avenue](https://open.spotify.com/track/4gatVa46M1UTnwTdKaqJRu) | [Psyence](https://open.spotify.com/artist/7chWLK2BeJ5tEH5VMc5l5b) | [L.I.F.E \(Lessons in Forgetting Everything\)](https://open.spotify.com/album/3KLYGJrlF8iRREMfq5Rf7I) | 4:17 | 2023-01-13 |  |
+| [Worthless](https://open.spotify.com/track/7krNN0KhqMixmg6WtW7bJq) | [Artio](https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5) | [Worthless](https://open.spotify.com/album/7xk6a6J8D1lAkbLkPg3WBQ) | 3:11 | 2023-01-27 |  |
+| [Worthy](https://open.spotify.com/track/2WtIhJpUy1p0t1dg6Tq8bZ) | [KIDS](https://open.spotify.com/artist/1KuaHyOmy7OyS3BO6u055P) | [Worthy](https://open.spotify.com/album/3YNhAijuyRViQoHGFNVDyC) | 2:39 | 2023-01-27 |  |
+| [You I Think Of](https://open.spotify.com/track/7tkugKckqls8hBzYWpjyBp) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX), [CHAMELEON](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [You I Think Of](https://open.spotify.com/album/75ddHN5bdFva5O7EyeaRZ1) | 3:08 | 2023-01-27 |  |
 
 \*This playlist was first scraped on 2023-01-15. Prior content cannot be recovered.

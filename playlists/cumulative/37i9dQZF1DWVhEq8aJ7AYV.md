@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-224 songs - 11 hr 4 min
+225 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Blue Bird](https://open.spotify.com/track/5UmVklPcX9d0FmvpwEtC6s) | [Los Oxidados](https://open.spotify.com/artist/3OlKkG7n2HiLZieo4p8AFS) | [Blue Bird](https://open.spotify.com/album/6ygKVPiLKpv8oFvvDU4ON2) | 2:14 | 2021-09-03 | 2022-07-24 |
 | [Blue Demon Jr.](https://open.spotify.com/track/5xMxiKym9ruYX1VkP55IO0) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Dr\. Malicia / 10 Años Elásticos](https://open.spotify.com/album/0JiiIU9cYqCKB821qpySss) | 2:14 | 2021-09-03 | 2022-07-28 |
 | [Bocanegra](https://open.spotify.com/track/57e8weoxM68ESpTZrv1KPX) | [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy), [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk), [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Black is Beltza \(Soinu\-banda\)](https://open.spotify.com/album/55mpYFZNTBOYBy7fiIW3PE) | 4:17 | 2021-09-03 | 2023-01-19 |
+| [Bocanegra](https://open.spotify.com/track/3MX20DuDYfhihzv24OyM3V) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cumbia Salvaje](https://open.spotify.com/album/2EMw3RFVp5okEUKY7yGYIV) | 4:22 | 2021-09-03 |  |
 | [Bocanegra](https://open.spotify.com/track/6tz2mMoLyvbpjZglG1WqYp) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cañonazo Electrocumbiero](https://open.spotify.com/album/0j4xaPrlXNtLIpC9gUILju) | 4:24 | 2021-09-03 | 2022-07-29 |
 | [Bomber Man](https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Bomber Man](https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe) | 2:14 | 2021-09-03 |  |
 | [Boogie Tonight](https://open.spotify.com/track/3o4bLIUTj0R3YIZOVtDWZG) | [Eddie y los Grasosos](https://open.spotify.com/artist/38WzKEi8tjrcKZ7i5CPHkP) | [Rockin' Club](https://open.spotify.com/album/7AAdyyFFslDJ4bAGc4NsWF) | 2:47 | 2021-09-03 | 2022-07-28 |
@@ -117,7 +118,7 @@
 | [Jugo](https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 3:57 | 2021-09-03 |  |
 | [Jugo](https://open.spotify.com/track/7GNjqqUVttsZHrcbJ62e3J) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1U8NdMusp31P2BG59J1CEL) | 3:59 | 2021-09-03 | 2022-07-29 |
 | [Junto a Mi](https://open.spotify.com/track/1hHYV4GmMHkfYbM1EM9cGZ) | [Eddie y los Grasosos](https://open.spotify.com/artist/38WzKEi8tjrcKZ7i5CPHkP) | [Oh! Mi Nena](https://open.spotify.com/album/1wGh6QOj8g36KJHQT3VnfQ) | 2:55 | 2021-09-03 | 2022-07-28 |
-| [La Chica Rockabilly](https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Abulon](https://open.spotify.com/artist/4rliI8lIAng1LA0hxWLjo6) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:55 | 2021-09-03 |  |
+| [La Chica Rockabilly](https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Abulon](https://open.spotify.com/artist/4rliI8lIAng1LA0hxWLjo6) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:55 | 2021-09-03 | 2023-01-27 |
 | [La Dosis Perfecta](https://open.spotify.com/track/3pTHO0Q5QlixCL2eGbx1kl) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL) | [La Dosis Perfecta](https://open.spotify.com/album/6YCHADzZp1iYWHO1fpPjOn) | 3:21 | 2021-09-03 | 2022-07-29 |
 | [La Muerte](https://open.spotify.com/track/4s8gvZcmEgtWcZeYab6OqA) | [Suprahumanos](https://open.spotify.com/artist/5SxWoWsSzLQIjxpZOk8dWn) | [La Muerte](https://open.spotify.com/album/42XyZuqcGW7GiRYnBOYwSj) | 4:56 | 2021-09-03 | 2022-07-25 |
 | [La Resistida](https://open.spotify.com/track/2r4hxZxNQEOuQi4Eg7hLGF) | [Los Santísimos Snorkels](https://open.spotify.com/artist/02IE8Qe5Xg06EYMkIHoDJH) | [Sólo Queda Bailar](https://open.spotify.com/album/6EcCzapauwtF9hc705Poj5) | 2:46 | 2021-09-03 | 2022-07-14 |

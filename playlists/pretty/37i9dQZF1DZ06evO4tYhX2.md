@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,627 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,650 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tYhX2.md) - [plain]
 | 47 | [Tu Habitación](https://open.spotify.com/track/0HwxrfM2sNTlJREqqif50Y) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Tu Habitación](https://open.spotify.com/album/3EOkmxLamBPxPJLeGPXaNd) | 4:38 |
 | 48 | [Mover Tu Corazón](https://open.spotify.com/track/1npfE6XYVD9lQKHobWkLrR) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [UPPEROOM](https://open.spotify.com/artist/0426BYo2LGmXZAUNv5BsMJ), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh), [Nick Gaggero](https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S) | [Dios En Casa](https://open.spotify.com/album/5Zo2mPc7RXI8OgLA63AEDn) | 10:13 |
 | 49 | [Vivo Para Adorarte](https://open.spotify.com/track/7tMF8vNNCch6Fxbxex4ewn) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Avivamiento 1](https://open.spotify.com/album/0To6i9NN8xRIoT1PYDos3p) | 3:45 |
-| 50 | [Júbilo](https://open.spotify.com/track/5Pu8Ug7xIQsm6eRSaYC8IC) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a) | [Júbilo](https://open.spotify.com/album/3NXtSFvCB1tv6cEBt4O9xo) | 10:21 |
+| 50 | [Coritos \(En Vivo\)](https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Coritos \(En Vivo\)](https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k) | 11:27 |
 
-Snapshot ID: `Mjc5MTA5NzAsMDAwMDAwMDA5Mjg5N2ZiYzZjZTVhZDM1NjFkY2VjYTUwZTViNzQ1ZA==`
+Snapshot ID: `Mjc5MTIzNzAsMDAwMDAwMDAxMWEzYWI2NjdjZGI3ZjE5OTZkY2RiMjQyMTM1ZGIyZQ==`

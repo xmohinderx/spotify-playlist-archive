@@ -2,7 +2,7 @@
 
 ### [FINO](https://open.spotify.com/playlist/37i9dQZF1DX963rxJxOMIA)
 
-> Fino y elegante, como los Ninjazz de Aranjuez.
+> Fino y elegante, como Andy Rivera.
 
 132 songs - 7 hr 7 min
 

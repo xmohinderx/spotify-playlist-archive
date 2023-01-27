@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Fall Out Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,679 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,933 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 23 | [Not Runnin' Away](https://open.spotify.com/track/2Ws2l3mn1X4ep8f8iPcrDr) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [Never 2 Late](https://open.spotify.com/album/0HTyF7EZ1x1wbaU6iKiX7O) | 2:29 |
 | 24 | [Aqua Regia](https://open.spotify.com/track/2gfACRgHbLdozzYnY9yGQ0) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Aqua Regia](https://open.spotify.com/album/3fXquvh8Oi42N5V932Z8Xf) | 3:56 |
 | 25 | [Underground](https://open.spotify.com/track/1yjsa9lWFeBPRNJbjGgmfV) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Underground](https://open.spotify.com/album/0I7IPohZdSKzNW3I5wRvcc) | 3:56 |
-| 26 | [Chapparal](https://open.spotify.com/track/4dOgsyS7EqbkK69S08Ns8Q) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia EP](https://open.spotify.com/album/6n5Aulqfqs4TwxuVKp6w18) | 2:46 |
+| 26 | [Chaparral](https://open.spotify.com/track/4dOgsyS7EqbkK69S08Ns8Q) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia EP](https://open.spotify.com/album/6n5Aulqfqs4TwxuVKp6w18) | 2:46 |
 | 27 | [Eyes Ahead](https://open.spotify.com/track/0YuFzBXkyMoZI59Xq2AQPg) | [DICE](https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC) | [Eyes Ahead](https://open.spotify.com/album/3AOFSx3AIef1h5ImGFUccY) | 3:40 |
 | 28 | [AT LEAST I'M DANCING](https://open.spotify.com/track/3q5UqSWWNYgsKhitqh7sUZ) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [AT LEAST I'M DANCING](https://open.spotify.com/album/5TkbMaJuItOC2ZEZfLHpV3) | 2:53 |
 | 29 | [It All Comes Round](https://open.spotify.com/track/7Jh26QjvIgoVpYVP8265Ki) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [It All Comes Round](https://open.spotify.com/album/2nMC4nPlIMTDWmqsVTku5o) | 2:56 |

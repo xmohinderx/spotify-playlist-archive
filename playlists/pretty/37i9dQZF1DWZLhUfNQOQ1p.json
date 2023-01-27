@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGNlZDM3NTZkYTFmZjVmZTI1YTdlM2UzNGNkYmI0Y2Jh",
+  "snapshot_id": "MTY2MTg2MjE5NCwwMDAwMDAwMGI3MjFjOTE5Y2MwOWJmNzA4ZjFmNTBiZDQ4ZTlhMWIw",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -887,6 +887,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Everything Shines",
+        "url": "https://open.spotify.com/album/30bj9NZcR0IteDzn5zvsx7"
+      },
+      "artists": [
+        {
+          "name": "Tomas Skyldeberg",
+          "url": "https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef"
+        }
+      ],
+      "duration_ms": 179889,
+      "name": "Summer Vibe",
+      "url": "https://open.spotify.com/track/1yt8EixTRCkF6TNPpqJ3Dv"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Kindisch Presents: Kindisch Steps VI",
         "url": "https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 198894,
       "name": "Bellevue",
       "url": "https://open.spotify.com/track/7CcJM0gz2YrZUCxOlIzQ8W"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Everything Shines",
-        "url": "https://open.spotify.com/album/30bj9NZcR0IteDzn5zvsx7"
-      },
-      "artists": [
-        {
-          "name": "Tomas Skyldeberg",
-          "url": "https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef"
-        }
-      ],
-      "duration_ms": 179889,
-      "name": "Summer Vibe",
-      "url": "https://open.spotify.com/track/1yt8EixTRCkF6TNPpqJ3Dv"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC"
       },
       "artists": [
         {
-          "name": "Samba Twins",
-          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
+          "name": "Mac Beez",
+          "url": "https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds"
         }
       ],
-      "duration_ms": 234510,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
+      "duration_ms": 224000,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W"
     }
   ],
   "unique_name": "Aperitivo Time",

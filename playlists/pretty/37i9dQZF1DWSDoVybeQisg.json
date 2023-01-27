@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1045191,
+  "num_followers": 1045603,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA1ODg0NywwMDAwMDAwMDM4ZjkxYjY4YmVhNDhmYTU3Mjk2ZTYzOTQwYTA2OThi",
+  "snapshot_id": "MTY3NDA1ODg0NywwMDAwMDAwMDEyNTk2NmY5OTMxMDJhNGZlNDRlZDYwMjZmZWUzMjQ5",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Younger Than Yesterday",
+        "url": "https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "My Back Pages",
+      "url": "https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "The Velvet Underground & Nico 45th Anniversary",
         "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 312253,
       "name": "Venus In Furs",
       "url": "https://open.spotify.com/track/29engDqjmMr3VLqMm0c0WE"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Younger Than Yesterday",
-        "url": "https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "My Back Pages",
-      "url": "https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Five to One",
-      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Axis: Bold As Love",
         "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 221826,
       "name": "One Rainy Wish",
       "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Five to One",
+      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Fifth Dimension",
+        "url": "https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Eight Miles High",
+      "url": "https://open.spotify.com/track/2BGNomqCxEDcXyxf8bg27k"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "The Essentials: Tommy James & The Shondells",
         "url": "https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Fifth Dimension",
-        "url": "https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb"
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
       "artists": [
         {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
         }
       ],
-      "duration_ms": 214640,
-      "name": "Eight Miles High",
-      "url": "https://open.spotify.com/track/2BGNomqCxEDcXyxf8bg27k"
+      "duration_ms": 352906,
+      "name": "The Pusher",
+      "url": "https://open.spotify.com/track/29HbMTL672MugzhklYvStz"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -547,18 +563,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
       "artists": [
         {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 352906,
-      "name": "The Pusher",
-      "url": "https://open.spotify.com/track/29HbMTL672MugzhklYvStz"
+      "duration_ms": 222293,
+      "name": "Manic Depression",
+      "url": "https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -591,22 +607,6 @@
       "duration_ms": 247306,
       "name": "I Can See For Miles - Mono Version",
       "url": "https://open.spotify.com/track/7B9F9nLxe7MZgZ68Jj86Fn"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Manic Depression",
-      "url": "https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
-        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 293040,
       "name": "I Need a Man to Love",
       "url": "https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Shapes of Things (2015 Remaster)",
-        "url": "https://open.spotify.com/album/3meFfjNEebexMTZOqT0Dx5"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        }
-      ],
-      "duration_ms": 145960,
-      "name": "Shapes of Things - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4OjqrdD3QILzxkGwNoMk0c"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Deep Purple in Rock",
         "url": "https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 620373,
       "name": "Child in Time",
       "url": "https://open.spotify.com/track/5TrfusgKC1BYic5LaWCoKm"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Shapes of Things (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3meFfjNEebexMTZOqT0Dx5"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        }
+      ],
+      "duration_ms": 145960,
+      "name": "Shapes of Things - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4OjqrdD3QILzxkGwNoMk0c"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Roger the Engineer",
-        "url": "https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "Lost Women - The Mono Album",
-      "url": "https://open.spotify.com/track/2Ajtl0ro60h3VN3rD3Y1IF"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "The Madcap Laughs",
         "url": "https://open.spotify.com/album/2sKUa8zDgmnn1pHzIou05r"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 302733,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/07QZXkXxtkjlm1GPxfH4gt"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Roger the Engineer",
+        "url": "https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        }
+      ],
+      "duration_ms": 195400,
+      "name": "Lost Women - The Mono Album",
+      "url": "https://open.spotify.com/track/2Ajtl0ro60h3VN3rD3Y1IF"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Fever Tree",
-        "url": "https://open.spotify.com/album/5ra0kPeGkxFlRTY0Lchce6"
-      },
-      "artists": [
-        {
-          "name": "Fever Tree",
-          "url": "https://open.spotify.com/artist/4kC1wUAU4QHotWGD2MwAHc"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "San Francisco Girls (Return Of The Native)",
-      "url": "https://open.spotify.com/track/2Vio9orJlk0fFVeO0CgtA6"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Incense & Peppermints",
         "url": "https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Tangerine Dream",
-        "url": "https://open.spotify.com/album/5fJeHZxuTPxAGyJGQpGt5Z"
+        "name": "Fever Tree",
+        "url": "https://open.spotify.com/album/5ra0kPeGkxFlRTY0Lchce6"
       },
       "artists": [
         {
-          "name": "Kaleidoscope",
-          "url": "https://open.spotify.com/artist/5efZAHycAVv2oTu3D5DNSy"
+          "name": "Fever Tree",
+          "url": "https://open.spotify.com/artist/4kC1wUAU4QHotWGD2MwAHc"
         }
       ],
-      "duration_ms": 480800,
-      "name": "The Sky Children",
-      "url": "https://open.spotify.com/track/2vRdgBjvjF6LHaWVssDeGN"
+      "duration_ms": 242906,
+      "name": "San Francisco Girls (Return Of The Native)",
+      "url": "https://open.spotify.com/track/2Vio9orJlk0fFVeO0CgtA6"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1067,6 +1051,22 @@
       "duration_ms": 196800,
       "name": "Evil - Single Version",
       "url": "https://open.spotify.com/track/1MlsQwhm6MU3PYMHNIc2YS"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Tangerine Dream",
+        "url": "https://open.spotify.com/album/5fJeHZxuTPxAGyJGQpGt5Z"
+      },
+      "artists": [
+        {
+          "name": "Kaleidoscope",
+          "url": "https://open.spotify.com/artist/5efZAHycAVv2oTu3D5DNSy"
+        }
+      ],
+      "duration_ms": 480800,
+      "name": "The Sky Children",
+      "url": "https://open.spotify.com/track/2vRdgBjvjF6LHaWVssDeGN"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Rainbow Chaser: The 60s Recordings (The Island Years)",
-        "url": "https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "Rainbow Chaser",
-      "url": "https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Back To The Story",
         "url": "https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Wake Up...It's Tomorrow",
-        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
+        "name": "Rainbow Chaser: The 60s Recordings (The Island Years)",
+        "url": "https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN"
       },
       "artists": [
         {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Sit With The Guru",
-      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
+      "duration_ms": 158360,
+      "name": "Rainbow Chaser",
+      "url": "https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1179,6 +1163,22 @@
       "duration_ms": 140146,
       "name": "8:05",
       "url": "https://open.spotify.com/track/58divL3uaZBaxs73jVHisg"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Wake Up...It's Tomorrow",
+        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Sit With The Guru",
+      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
     },
     {
       "added_at": "2023-01-18 16:20:47",

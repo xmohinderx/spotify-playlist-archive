@@ -2943,6 +2943,24 @@
     },
     {
       "album": {
+        "name": "Morning Sun EP",
+        "url": "https://open.spotify.com/album/36SkaBEql9AE8tof9cD8bC"
+      },
+      "artists": [
+        {
+          "name": "Bumpy",
+          "url": "https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240320,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/0wwoNSM5DmYtlm2d3SFsv4"
+    },
+    {
+      "album": {
         "name": "Way That We Feel",
         "url": "https://open.spotify.com/album/2EkKiKIRODZp9xfoY29hFG"
       },

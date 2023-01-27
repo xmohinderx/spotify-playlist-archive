@@ -262,6 +262,24 @@
     {
       "album": {
         "name": "TJ Monterde",
+        "url": "https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239480,
+      "name": "Dating Tayo",
+      "url": "https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd"
+    },
+    {
+      "album": {
+        "name": "TJ Monterde",
         "url": "https://open.spotify.com/album/01f1BJjxsFyuX580Fk8Gjk"
       },
       "artists": [
@@ -752,7 +770,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 252969,
       "name": "It Might Be You - Theme from Everyday I Love You",
       "url": "https://open.spotify.com/track/4FdQYoWFym37QDQ2GkEHi1"

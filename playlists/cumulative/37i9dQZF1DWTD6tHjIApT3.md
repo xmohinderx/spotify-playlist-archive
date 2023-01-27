@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 葛谷葉子
 
-1,056 songs - 2 day 21 hr 15 min
+1,059 songs - 2 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Center Of My Heart](https://open.spotify.com/track/144WC5yOvEKMFktSe0ivIp) | [YOSHIKA](https://open.spotify.com/artist/1b5Fb9CuKd1OtGrSVjM9pd) | [Center Of My Heart](https://open.spotify.com/album/38dg1OjYJM7AamTL5uUdor) | 4:42 | 2022-06-16 | 2022-06-19 |
 | [Change](https://open.spotify.com/track/2FM1aNnqVfUsBkyTcxQmVm) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Change](https://open.spotify.com/album/7ybRhDFyFV9bRXMIGW6wbl) | 3:24 | 2022-08-02 | 2022-09-07 |
 | [Change my future \- 『仮面ライダーギーツ×リバイス MOVIEバトルロワイヤル』主題歌](https://open.spotify.com/track/0EqJxTa17RgujcNET5uIvz) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [Change my future \(『仮面ライダーギーツ×リバイス MOVIEバトルロワイヤル』主題歌\)](https://open.spotify.com/album/0denY30U0VQUrwsRuybua0) | 4:13 | 2022-12-22 | 2023-01-04 |
+| [CHERISH](https://open.spotify.com/track/3meFYMFEP0xmCc650Zef5Z) | [Tsukasa Inoue](https://open.spotify.com/artist/3czcDGwX9EJRdAaiYQKwBn), [NEMNE](https://open.spotify.com/artist/5ZUrPx2BfBk7xL3LbdFmFr) | [CHERISH](https://open.spotify.com/album/5DiE9FTagQnBzoOS80repU) | 4:03 | 2023-01-26 |  |
 | [CHERRY PIE](https://open.spotify.com/track/3TmQjOgyKtYqu6wKGZL2GA) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [CHERRY PIE](https://open.spotify.com/album/5bTJO3Nx3Ii8Y23nWgbG0z) | 3:28 | 2023-01-19 | 2023-01-25 |
 | [Chiisana Yume](https://open.spotify.com/track/169bY9djGFRpPcqMMm9hik) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Chiisana Yume](https://open.spotify.com/album/0OWqyw14hYLK0842eXNNLg) | 3:24 | 2022-12-08 | 2022-12-14 |
 | [CHRISTMAS AFTERNOON](https://open.spotify.com/track/62o7GbKYuWcNnEE7rjtnzu) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [With Regard to Christmas](https://open.spotify.com/album/72Ch3T83gNhJV2NEhJ6dkP) | 4:42 | 2022-11-29 | 2022-12-03 |
@@ -731,7 +732,7 @@
 | [ダージリン \- Bousi Studio Remix](https://open.spotify.com/track/64UaJY4n99ZKSHIq82KOtk) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx), [野村帽子](https://open.spotify.com/artist/2QkxK6rPvCNIEM7OxvHJPx) | [ダージリン \(Bousi Studio Remix\)](https://open.spotify.com/album/3xSg3qQZepIoFbBLSRZpug) | 3:26 | 2022-05-31 | 2022-07-23 |
 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-09-06 |  |
 | [チューリップ](https://open.spotify.com/track/13xYQlVr11XuhBwHRbYFmk) | [Kiwokuza](https://open.spotify.com/artist/5RuJsNzn0UhHOu1jvMD3Ii) | [チューリップ](https://open.spotify.com/album/61BECZBJEOOZVas8iFdY30) | 4:27 | 2022-06-07 | 2022-07-14 |
-| [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 | 2022-10-18 |  |
+| [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 | 2022-10-18 | 2023-01-27 |
 | [トワイライト](https://open.spotify.com/track/7LCGgXpw27AK8r7CiPhG0l) | [703goushitsu](https://open.spotify.com/artist/2kgwlK1KWV3bgzT7FsJGoR) | [トワイライト](https://open.spotify.com/album/5r8Bx5ODvdb0URnGQybG8d) | 4:46 | 2022-06-21 | 2022-06-29 |
 | [ナイトドライブ](https://open.spotify.com/track/6ZBFeY13nAPGK3kHWqWQRw) | [yukaDD\(;´∀｀\)](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe), [was@bi shock](https://open.spotify.com/artist/5ztp9ZNHZtl7nWs8h5hQHK) | [ナイトドライブ](https://open.spotify.com/album/3f5hpxx3a324W1t3G8tnUY) | 3:16 | 2022-06-02 | 2022-06-24 |
 | [ニンゲンカンケイ](https://open.spotify.com/track/3gbIiBR3kpDBpKsuCA1uoC) | [Hinako Miura](https://open.spotify.com/artist/4OCKeb3ZY4bVq4tC9Jz2TM) | [ニンゲンカンケイ](https://open.spotify.com/album/3NAJfnQdl0qFW99U7EPo3m) | 3:27 | 2022-06-30 | 2022-07-06 |
@@ -758,7 +759,7 @@
 | [ペルソナの記憶](https://open.spotify.com/track/3RxXuOv8Ek9ugFFRxxNc5J) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:20 | 2022-08-18 | 2022-08-20 |
 | [ペーパードライバー](https://open.spotify.com/track/6YpYRWZCGjdhxKM1txkfmK) | [Aco Kawai](https://open.spotify.com/artist/10xDsE7RRrKil5bVXk2hsJ) | [ペーパードライバー](https://open.spotify.com/album/1xJSe3DIBkewet7dXPSV19) | 2:59 | 2022-10-25 | 2022-12-21 |
 | [ホットチョコレートミュージック](https://open.spotify.com/track/5XotxipU5S6NV3riSldayh) | [ナツノコエ](https://open.spotify.com/artist/6IeQH1Haeo0wYA0klPh5X6) | [hot chocolate music](https://open.spotify.com/album/45KnE5ZCYVrBeK7D2EL2Of) | 3:56 | 2022-06-07 | 2022-06-26 |
-| [ホットミルク](https://open.spotify.com/track/3KbEfn3HkRdKAenSdpzfdj) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ホットミルク](https://open.spotify.com/album/4XuWbqGfKeGBBS1YVeWCxY) | 4:20 | 2022-11-08 |  |
+| [ホットミルク](https://open.spotify.com/track/3KbEfn3HkRdKAenSdpzfdj) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ホットミルク](https://open.spotify.com/album/4XuWbqGfKeGBBS1YVeWCxY) | 4:20 | 2022-11-08 | 2023-01-27 |
 | [ボクとキミを繋ぐモノ](https://open.spotify.com/track/7vWyB6YGbIYru4C6wac97h) | [fumika](https://open.spotify.com/artist/4FPhimiDlyEUsTSMWAUrhG) | [ボクとキミを繋ぐモノ](https://open.spotify.com/album/7bacewGlY9bUzu2Fy94hKG) | 3:38 | 2022-06-07 | 2022-07-25 |
 | [ポッピンラブ!](https://open.spotify.com/track/05rUvwGY3b2zHXwFXf7H4f) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [ポッピンラブ!](https://open.spotify.com/album/0qatIInmTuyCQKhuvzHv56) | 4:19 | 2022-05-29 | 2022-06-01 |
 | [ポポリル \- feat\. 木村千咲](https://open.spotify.com/track/2kJt5wSgLt1LzK6AYaYhjy) | [souzoucity](https://open.spotify.com/artist/0jfrSwW42l9FzT2HDcUXuT), [木村千咲](https://open.spotify.com/artist/2gxCXIHeJ93kR6HhilaJDU) | [ポポリル \(feat\. 木村千咲\)](https://open.spotify.com/album/1usrQa1qEjMcLDSocAGOzC) | 3:38 | 2022-10-18 | 2022-10-26 |
@@ -809,7 +810,9 @@
 | [催眠](https://open.spotify.com/track/1190JawXRFRo3rBpwtbw0d) | [YAYYAY](https://open.spotify.com/artist/7zjcPyxB51lqnmowM6xsKX) | [NO EVIL](https://open.spotify.com/album/2Im66puWUtEb6JUALvCTpT) | 4:11 | 2023-01-17 | 2023-01-25 |
 | [僕は椅子](https://open.spotify.com/track/7eWWFAlEIm1PphClDPplcm) | [Miwa Sasagawa](https://open.spotify.com/artist/4luR2xOhou26Hmooyo2cnd) | [僕は椅子](https://open.spotify.com/album/6CUvHs0m3HyiM8TOds0Iye) | 4:26 | 2022-06-28 | 2022-07-06 |
 | [元の木阿弥](https://open.spotify.com/track/4Aym5kXxDox95aNFLRJ52N) | [こつぶ](https://open.spotify.com/artist/2gt2b26a7zIzTXP1TQJgW7) | [Patchwork](https://open.spotify.com/album/1nyBVvlTyvmkg6zg3bOZ5m) | 2:38 | 2022-10-11 | 2022-10-19 |
+| [光の庭と魚の夢](https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [光の庭と魚の夢](https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj) | 4:28 | 2023-01-26 |  |
 | [光溢れ](https://open.spotify.com/track/1xNVfOwmTPJqCHxrVElyOj) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [光溢れ](https://open.spotify.com/album/4iPHMxjt6o5MnZe32bAHJv) | 3:00 | 2022-05-29 | 2022-07-13 |
+| [再愛](https://open.spotify.com/track/61YMwu4Xg1nH1d5f0YrTBC) | [Rythem](https://open.spotify.com/artist/28Be7eeRSqjriWnRuxhpOA) | [再愛](https://open.spotify.com/album/3BDdXgwJPJTCQTQ4krGpZZ) | 5:00 | 2023-01-26 |  |
 | [凍える指先の温め方を知ってる](https://open.spotify.com/track/2A9t75q0ojqZnRiLrcCNdM) | [林青空](https://open.spotify.com/artist/1kfzM6uJoM7Mw4RtW0FFtO) | [凍える指先の温め方を知ってる](https://open.spotify.com/album/7xqDzVx1ZmV5rk8AgekUpM) | 3:40 | 2022-06-30 | 2022-07-19 |
 | [凸凹 \(tofubeats remix\)](https://open.spotify.com/track/4bbiiQyG3sx7tlhm29sdmh) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [凸凹](https://open.spotify.com/album/1Gs6P24ZBA7GQaO8lcPsaS) | 5:27 | 2022-06-30 | 2022-07-05 |
 | [初恋](https://open.spotify.com/track/58lUfdPHAmMazUqyt1s2Oe) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [初恋 \(2022 Remastering\)](https://open.spotify.com/album/7MQ6EDNZxZnbWWxFjbtbpl) | 4:42 | 2022-12-08 |  |
@@ -905,7 +908,7 @@
 | [惑星](https://open.spotify.com/track/4p1KQXtxQBTbcq9iFYPtG5) | [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [失楽園](https://open.spotify.com/album/5SOsP8jPuEZ7RDGcNl2Nvr) | 4:12 | 2022-06-02 | 2022-07-28 |
 | [愛さ生まり島](https://open.spotify.com/track/30ZrfAG2MkVujIE6xAdoy9) | [Rimi Natsukawa](https://open.spotify.com/artist/2AAMBmrNdim79LRSv1kKFn) | [会いたい \~かなさんどぉ\~](https://open.spotify.com/album/3u6FMj8KMrGbyV4ArlkPSd) | 4:37 | 2022-06-21 | 2022-06-29 |
 | [愛でほっぺ丼](https://open.spotify.com/track/3DmZS7Ua6MGW213lObJPoo) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [愛でほっぺ丼](https://open.spotify.com/album/6z8cwZTM2VfMZcmHNMBZls) | 4:00 | 2022-06-02 | 2022-07-16 |
-| [愛のしるし](https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [愛のしるし](https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh) | 2:50 | 2022-08-09 |  |
+| [愛のしるし](https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [愛のしるし](https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh) | 2:50 | 2022-08-09 | 2023-01-27 |
 | [愛のせい](https://open.spotify.com/track/4XpqvxRQOeV70xEvAlLoiZ) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [愛のせい](https://open.spotify.com/album/53xskTOkeEsc9fDxu5bxNA) | 4:16 | 2022-10-11 | 2022-10-13 |
 | [愛はいつも](https://open.spotify.com/track/3jP8dzUFw0rP3QyE2AdBRC) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [愛はいつも](https://open.spotify.com/album/5pgsBGk0Z5TvzsF5xU4EIp) | 4:39 | 2022-10-25 | 2022-10-27 |
 | [愛はもう](https://open.spotify.com/track/633VJ4gaIGcKrAt5fvZ7Mm) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [愛はもう](https://open.spotify.com/album/5xyPLgqYuuDIuKr5hpB9bi) | 3:08 | 2022-05-29 | 2022-08-18 |

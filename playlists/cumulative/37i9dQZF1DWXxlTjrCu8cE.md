@@ -4,7 +4,7 @@
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2022
 
-144 songs - 7 hr 57 min
+145 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [sad girls always finish first](https://open.spotify.com/track/16mFtGFLstwAxII0hUknUk) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [sad girls always finish first](https://open.spotify.com/album/1FaBznYSUrobcSjQEmERFM) | 3:15 | 2022-05-06 | 2022-05-19 |
 | [Save Room for Us](https://open.spotify.com/track/3TMZVleKFb75oUZpp86KPn) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Songs For You](https://open.spotify.com/album/03mqFnIf0SxlMFVDO4a3YK) | 2:44 | 2021-11-30 | 2022-05-31 |
 | [se essa vida fosse um filme](https://open.spotify.com/track/0hDphSo7vI7gCjEPpD6gu0) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [se essa vida fosse um filme](https://open.spotify.com/album/1Ekb2K13vBO6VkILvBV6LI) | 2:05 | 2021-11-30 | 2022-05-31 |
-| [Sem Vestígios \- Ao Vivo](https://open.spotify.com/track/5MfQgdHlFrSNMCbOJG7SwE) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Resenha Do Mumu \(Ao Vivo\)](https://open.spotify.com/album/2TNzcYmRDzUiM12IBnsB6r) | 2:59 | 2022-11-30 |  |
+| [Sem Vestígios \- Ao Vivo](https://open.spotify.com/track/1nSPAth89EfuveeRHe8ctr) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Resenha Do Mumu \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/4iLtLzfRb7oXYLmAkFU6A2) | 2:59 | 2022-11-30 |  |
+| [Sem Vestígios \- Ao Vivo](https://open.spotify.com/track/5MfQgdHlFrSNMCbOJG7SwE) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Resenha Do Mumu \(Ao Vivo\)](https://open.spotify.com/album/2TNzcYmRDzUiM12IBnsB6r) | 2:59 | 2022-11-30 | 2023-01-27 |
 | [Shifted](https://open.spotify.com/track/29m7O8gJheZBBD0WYAVPQ9) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Sunshine Kitty](https://open.spotify.com/album/5kaCqETtik8oE7M9D8wxrW) | 3:12 | 2021-11-30 | 2022-05-31 |
 | [SHOOT!](https://open.spotify.com/track/2xeaHUnzzT5Kc974OQt1kA) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 2:19 | 2022-05-30 | 2022-11-30 |
 | [Sleepover](https://open.spotify.com/track/0WqqFajBwA3tpRZ66kRomu) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:53 | 2022-05-30 | 2022-11-30 |

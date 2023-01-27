@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: LK
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,579 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,575 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 4 | [Ela Vem Jogando Tudo Pra Mim](https://open.spotify.com/track/7v4fI1akJweXPhNgDIAf0z) | [Stanley Castro](https://open.spotify.com/artist/7LLv5yYIB0JNOIiYBeOGah), [MC Estudante](https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Ela Vem Jogando Tudo Pra Mim](https://open.spotify.com/album/3W6E2zs2Q0hsWRqXkYdZAO) | 2:52 |
 | 5 | [Cozinhando Crack](https://open.spotify.com/track/3Xviv3XgfT5BiraccbclPP) | [NAK Original](https://open.spotify.com/artist/1CsDy9b3kF1h0FqxLaxedB), [JayPluggz](https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M), [Prod Claw](https://open.spotify.com/artist/0LEUDqnKZFLEYPA749Tfpt) | [Cozinhando Crack](https://open.spotify.com/album/0XYmOASyOLZLxt1XiKAldy) | 2:05 |
 | 6 | [Samba pra Ela](https://open.spotify.com/track/7N2TRpu1Yf9Y5Zxy78HA0i) | [MAV](https://open.spotify.com/artist/29X9ETznpo90KEYmabHyqb), [Duda Raposo](https://open.spotify.com/artist/1lzfDKy3AeMGRKPQYQjONS) | [Samba pra Ela](https://open.spotify.com/album/4hkNExTU2gOnW4RZfnrRCa) | 2:59 |
-| 7 | [Amor \(r\) Frontal](https://open.spotify.com/track/5hD0juwLCRiE4MmC4Nlvig) | [jonV](https://open.spotify.com/artist/5AQibAVLyEju1MqDIeVd6E) | [Amo \(r\) Frontal](https://open.spotify.com/album/4LlkREGWuz9sZ4Qitbs0yG) | 2:19 |
+| 7 | [Amo\(r\) Frontal](https://open.spotify.com/track/5hD0juwLCRiE4MmC4Nlvig) | [jonV](https://open.spotify.com/artist/5AQibAVLyEju1MqDIeVd6E) | [Amo\(r\) Frontal](https://open.spotify.com/album/4LlkREGWuz9sZ4Qitbs0yG) | 2:19 |
 | 8 | [Bem Só](https://open.spotify.com/track/0sdkSOf0DMZP7EmKxDsRyB) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Bem Só](https://open.spotify.com/album/75ZI43o9mhUEhv2q0PgCEx) | 2:32 |
 | 9 | [KICKFLIP](https://open.spotify.com/track/6DmCVSSqnJF8k7si1VVHSm) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [KICKFLIP](https://open.spotify.com/album/7k9DosWlMI3OIoRdmTm5fG) | 2:37 |
 | 10 | [PAPITO](https://open.spotify.com/track/5QFTzGy6JABQ7C7bJPxXKk) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [PAPITO](https://open.spotify.com/album/0hQsFPYIuWqz4pfR8UOZyY) | 2:14 |

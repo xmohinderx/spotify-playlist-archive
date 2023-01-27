@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Gabry Ponte x Alessandra",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Lucas &amp; Steve x Yves V",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -147,6 +147,50 @@
     },
     {
       "album": {
+        "name": "After Midnight (feat. Xoro)",
+        "url": "https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Xoro",
+          "url": "https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143526,
+      "name": "After Midnight (feat. Xoro)",
+      "url": "https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1"
+    },
+    {
+      "album": {
+        "name": "Al Perreo",
+        "url": "https://open.spotify.com/album/7ylSGlus6NrY2nnKRY7kNt"
+      },
+      "artists": [
+        {
+          "name": "FNTZY",
+          "url": "https://open.spotify.com/artist/6Tc25h7Kk6DfK9GarjiEd5"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151904,
+      "name": "Al Perreo - Mixed",
+      "url": "https://open.spotify.com/track/0BN9P0UYB4PUWpRrAG9wXt"
+    },
+    {
+      "album": {
         "name": "Alice in Wonderland",
         "url": "https://open.spotify.com/album/5Kc07WZPMZ7bzruagu1Oxg"
       },
@@ -166,7 +210,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 135428,
       "name": "Alice in Wonderland",
       "url": "https://open.spotify.com/track/3OCbl3FgXS96Vhbf0Dnd24"
@@ -236,7 +280,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 163320,
       "name": "Alone Again (feat. Afrojack & Mougleta)",
       "url": "https://open.spotify.com/track/1RwfArdUM01AISnxkpayMc"
@@ -558,7 +602,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 190750,
       "name": "Aturdido",
       "url": "https://open.spotify.com/track/3eVlbKvvYfEhQsF1KbUGoN"
@@ -774,6 +818,28 @@
       "duration_ms": 163587,
       "name": "Bed (with KSHMR)",
       "url": "https://open.spotify.com/track/0pSXNXGW3vgPEaNFgpqV4m"
+    },
+    {
+      "album": {
+        "name": "Behind My Eyes (feat. Heleen)",
+        "url": "https://open.spotify.com/album/1Xhr0ZFXwzFj5BIuZ7dkhZ"
+      },
+      "artists": [
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Heleen",
+          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177096,
+      "name": "Behind My Eyes (feat. Heleen)",
+      "url": "https://open.spotify.com/track/3P4mnGNvg67iOnqs3Y2tm7"
     },
     {
       "album": {
@@ -1687,6 +1753,28 @@
     },
     {
       "album": {
+        "name": "Craving You",
+        "url": "https://open.spotify.com/album/4Jka2nzghsBlw4Sri63Wkc"
+      },
+      "artists": [
+        {
+          "name": "H\u00dcMAN",
+          "url": "https://open.spotify.com/artist/5OSFyC4u32V4PI7YoyuMCc"
+        },
+        {
+          "name": "Tudor",
+          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267217,
+      "name": "Craving You",
+      "url": "https://open.spotify.com/track/5BDXw3ozJ1yXQpM2VKYMDk"
+    },
+    {
+      "album": {
         "name": "Cruel",
         "url": "https://open.spotify.com/album/4hI3kscPtceCObYHJex3gC"
       },
@@ -1742,6 +1830,28 @@
       "duration_ms": 151065,
       "name": "Dance Dance (feat. Alessandra)",
       "url": "https://open.spotify.com/track/2UzWIjVXtv8PLa5JRKPYSb"
+    },
+    {
+      "album": {
+        "name": "Dancing In The Dark (Radio Edit)",
+        "url": "https://open.spotify.com/album/3dh3dgDdlHzkGrFXeYUrL4"
+      },
+      "artists": [
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        },
+        {
+          "name": "ManyFew",
+          "url": "https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Dancing In The Dark - Radio Edit",
+      "url": "https://open.spotify.com/track/3ayN4HDXZ79Nhzl92eAyko"
     },
     {
       "album": {
@@ -1932,7 +2042,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 172013,
       "name": "Dirty Thoughts",
       "url": "https://open.spotify.com/track/52u3W7pKXA6DsN6nkbnCWD"
@@ -2093,6 +2203,28 @@
     },
     {
       "album": {
+        "name": "Don't Speak (Radio Edit)",
+        "url": "https://open.spotify.com/album/3WVq2UQ67fC71KtK1WCS2Q"
+      },
+      "artists": [
+        {
+          "name": "Burak Yeter",
+          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
+        },
+        {
+          "name": "Avalan",
+          "url": "https://open.spotify.com/artist/13v2M5UZ3bbOCGmuvo7uFw"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148203,
+      "name": "Don't Speak - Radio Edit",
+      "url": "https://open.spotify.com/track/4nJmlWaK3lvoglcGfsp1LZ"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Stop",
         "url": "https://open.spotify.com/album/4bpbB90Pa4ysE6HXPRGBmh"
       },
@@ -2170,7 +2302,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 159843,
       "name": "Dreams Come True",
       "url": "https://open.spotify.com/track/6OgK0QV9SlIIrzykt39S49"
@@ -2390,7 +2522,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 131520,
       "name": "Everybody Be Somebody",
       "url": "https://open.spotify.com/track/1QK4v0raL0NZqkMnzgRFE1"
@@ -2604,6 +2736,24 @@
       "duration_ms": 161904,
       "name": "Falling For You (feat. Jordan Grace) - MorganJ Remix",
       "url": "https://open.spotify.com/track/2LyQMu8F2SNE5ZMSGJgsxc"
+    },
+    {
+      "album": {
+        "name": "Falling Into Space",
+        "url": "https://open.spotify.com/album/7HQWSqjJQHVLIipyTdL8Y2"
+      },
+      "artists": [
+        {
+          "name": "Matisso",
+          "url": "https://open.spotify.com/artist/3QbWPIt27dS6iv4RrzTyDV"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Falling Into Space",
+      "url": "https://open.spotify.com/track/6Pw6050rVSbborPpRkxOS0"
     },
     {
       "album": {
@@ -3030,7 +3180,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 152764,
       "name": "Fool (feat. Betty Bloom)",
       "url": "https://open.spotify.com/track/0z1keLvev9EbAXycMboeRt"
@@ -3809,6 +3959,24 @@
     },
     {
       "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/7i5c8kx44asZdicG8xGxx2"
+      },
+      "artists": [
+        {
+          "name": "Insira",
+          "url": "https://open.spotify.com/artist/4uR1CUgsicbwL5Pqw1nUJT"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233258,
+      "name": "Hush - Mixed",
+      "url": "https://open.spotify.com/track/0XxotF2YqnTxJLn5ni4nz2"
+    },
+    {
+      "album": {
         "name": "I Can't Be (Volkan Uca Remix)",
         "url": "https://open.spotify.com/album/13On69kvRM5KvNCC9XdSI5"
       },
@@ -3962,10 +4130,28 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 169920,
       "name": "I Fucking Love Dance Music (feat. GLASGOW KI$$)",
       "url": "https://open.spotify.com/track/4xvPS7JJXlHiIAKJuXHRwW"
+    },
+    {
+      "album": {
+        "name": "I Got Lost In Berlin",
+        "url": "https://open.spotify.com/album/0Vt2P3ghfpMjXLkTGU4DxP"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "I Got Lost In Berlin",
+      "url": "https://open.spotify.com/track/3LpQssJbl7b65Jl4BDDI3d"
     },
     {
       "album": {
@@ -4300,6 +4486,24 @@
       "duration_ms": 147360,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3THwIbFtoroiaFF96X7G1q"
+    },
+    {
+      "album": {
+        "name": "Internal (Slowed Version)",
+        "url": "https://open.spotify.com/album/1PRGmT60gwH74oRplYBKXq"
+      },
+      "artists": [
+        {
+          "name": "Rogue Dave",
+          "url": "https://open.spotify.com/artist/5rfZwd1LcOIodLysmqlXGK"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115955,
+      "name": "Internal - Slowed Version",
+      "url": "https://open.spotify.com/track/2dTct3iu5l5K2ZvlxEt3FS"
     },
     {
       "album": {
@@ -5143,6 +5347,28 @@
     },
     {
       "album": {
+        "name": "Like That!",
+        "url": "https://open.spotify.com/album/7n2uPIxqk2YZoueagzBoqR"
+      },
+      "artists": [
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        },
+        {
+          "name": "KENNY MUSIK",
+          "url": "https://open.spotify.com/artist/5UzwQIj5Z1CfQrsVhpp57z"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156048,
+      "name": "Like That!",
+      "url": "https://open.spotify.com/track/4QGXpDkEZzuZ33oniNjAQ0"
+    },
+    {
+      "album": {
         "name": "Lions Roar (feat. Philip Strand)",
         "url": "https://open.spotify.com/album/44pquiGbX8vB0u7VSizA6V"
       },
@@ -5334,6 +5560,24 @@
       "duration_ms": 151181,
       "name": "Lost In My Feelings",
       "url": "https://open.spotify.com/track/4vanNayphiMxeC45m1h9CU"
+    },
+    {
+      "album": {
+        "name": "Love Finds A Way (Radio Edit)",
+        "url": "https://open.spotify.com/album/1B7YW1Y5VSXDdIIagVOSy7"
+      },
+      "artists": [
+        {
+          "name": "David Herrlich",
+          "url": "https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Love Finds A Way - Radio Edit",
+      "url": "https://open.spotify.com/track/6FLpYaVGuq1CFgU6sd3iuj"
     },
     {
       "album": {
@@ -5550,7 +5794,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 181983,
       "name": "Lulo - Radio Edit",
       "url": "https://open.spotify.com/track/1lpdkcCiyRAK7te9lqNRTW"
@@ -5636,6 +5880,24 @@
       "duration_ms": 184864,
       "name": "Made To Last",
       "url": "https://open.spotify.com/track/4riDndCltnY8f2eEzmxh8A"
+    },
+    {
+      "album": {
+        "name": "Magalenha",
+        "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
     },
     {
       "album": {
@@ -6998,7 +7260,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 166000,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/4URalmRMGfaYo4HdHvZ1Fm"
@@ -7207,6 +7469,24 @@
     },
     {
       "album": {
+        "name": "PARASAH",
+        "url": "https://open.spotify.com/album/4MaSNhO8ABpTgI6LVufLQo"
+      },
+      "artists": [
+        {
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257073,
+      "name": "PARASAH",
+      "url": "https://open.spotify.com/track/66c1ErtM73vGtrTrp9PmK5"
+    },
+    {
+      "album": {
         "name": "Partly Cloudy",
         "url": "https://open.spotify.com/album/2n7CxkctRVMmIQKB9hhDNi"
       },
@@ -7248,6 +7528,24 @@
       "duration_ms": 148412,
       "name": "Party PPL",
       "url": "https://open.spotify.com/track/5XlfRHrrl5kxkm22pxeLjH"
+    },
+    {
+      "album": {
+        "name": "Pedestal",
+        "url": "https://open.spotify.com/album/66C8ND4Wu3iTb23pLz1cxX"
+      },
+      "artists": [
+        {
+          "name": "ANDROZONE",
+          "url": "https://open.spotify.com/artist/2uNZa3sOY18Nf6n3WHKIg6"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Pedestal - Mixed",
+      "url": "https://open.spotify.com/track/2y5o0uRMeAXdoEuBARHbLW"
     },
     {
       "album": {
@@ -7669,6 +7967,24 @@
     },
     {
       "album": {
+        "name": "Red Light, Green Light (Festival Remix)",
+        "url": "https://open.spotify.com/album/38vHZnuuXFL4tu6pU092wZ"
+      },
+      "artists": [
+        {
+          "name": "Squid Kids",
+          "url": "https://open.spotify.com/artist/0xtNG1XuQ9YaW7aRr4Fog8"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147153,
+      "name": "Red Light, Green Light (Festival Remix)",
+      "url": "https://open.spotify.com/track/6hSzmYOwZjY5BiUHPGkJww"
+    },
+    {
+      "album": {
         "name": "Ride Or Die",
         "url": "https://open.spotify.com/album/1oLDHF4F3E3HfdcOAMytuF"
       },
@@ -7964,7 +8280,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 158709,
       "name": "RUN IT UP - Radio Edit",
       "url": "https://open.spotify.com/track/65k04sstcmS7nX2DsbOTgT"
@@ -8232,6 +8548,24 @@
       "duration_ms": 132539,
       "name": "Shake Milk",
       "url": "https://open.spotify.com/track/09Ey0Bc5MIvfKfGPtg7BH6"
+    },
+    {
+      "album": {
+        "name": "Shake Milk (Festival Mix)",
+        "url": "https://open.spotify.com/album/0b9Z0oJhTtFtAQTJwtmfye"
+      },
+      "artists": [
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128437,
+      "name": "Shake Milk (Festival Mix)",
+      "url": "https://open.spotify.com/track/6Qya39WoIJiS1X2T1n9lie"
     },
     {
       "album": {
@@ -9143,6 +9477,32 @@
     },
     {
       "album": {
+        "name": "Take Me Away Again",
+        "url": "https://open.spotify.com/album/3FOqjkgC6qqes6K3Ejly3B"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205217,
+      "name": "Take Me Away Again",
+      "url": "https://open.spotify.com/track/2meQ2wSIBU8OQDKlJcJk5j"
+    },
+    {
+      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/79Z0zvBb7A85NrNZbmyuvn"
       },
@@ -9464,7 +9824,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 139218,
       "name": "The Drill",
       "url": "https://open.spotify.com/track/0vOOiBEAu9rzPW3xVB5TbN"
@@ -9508,7 +9868,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 169500,
       "name": "The Money",
       "url": "https://open.spotify.com/track/3RyMWvyttVsZaUZmR5C1zd"
@@ -10138,7 +10498,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 127680,
       "name": "Trumpz",
       "url": "https://open.spotify.com/track/0fpA44Ez6El7yJHLgln0SU"
@@ -10288,7 +10648,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 164081,
       "name": "Wanna See You Dance",
       "url": "https://open.spotify.com/track/5Y84GJmmmL23VCvWuSYZKv"

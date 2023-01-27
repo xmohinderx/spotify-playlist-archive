@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Blaiz Fayah",
+  "description": "Les hits dancehall du moment. Photo : Popcaan",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -42,6 +42,28 @@
       "duration_ms": 160584,
       "name": "6ex In The Morning",
       "url": "https://open.spotify.com/track/1nwNvEXXoKKmJCpQDtXdkC"
+    },
+    {
+      "album": {
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166801,
+      "name": "Aboboyaa (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
     },
     {
       "album": {
@@ -957,6 +979,24 @@
     },
     {
       "album": {
+        "name": "DBG",
+        "url": "https://open.spotify.com/album/4asYPug3TrWrrl3mRO086k"
+      },
+      "artists": [
+        {
+          "name": "Jahlys",
+          "url": "https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "DBG",
+      "url": "https://open.spotify.com/track/7JA7yknfaa6Tb4PBwMP8fD"
+    },
+    {
+      "album": {
         "name": "Dem Fear We",
         "url": "https://open.spotify.com/album/0Rhqlf4jseRmQqT5neGs9g"
       },
@@ -1534,7 +1574,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 146468,
       "name": "GVNG - Gang",
       "url": "https://open.spotify.com/track/1kc8YZsa1BQ2OgrAKMsPfS"
@@ -2297,6 +2337,28 @@
     },
     {
       "album": {
+        "name": "Manigance",
+        "url": "https://open.spotify.com/album/0eokcMOmQ047TDvODWEiQJ"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO"
+        },
+        {
+          "name": "DJ Chinwax",
+          "url": "https://open.spotify.com/artist/02E9hsI1o5kTbiYlP6Ae8i"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107614,
+      "name": "Manigance",
+      "url": "https://open.spotify.com/track/37Tlkm2Euv26vuwZ1ww8yo"
+    },
+    {
+      "album": {
         "name": "Manslaughter",
         "url": "https://open.spotify.com/album/0Pw1KzR7hPbh1pce9nTlIW"
       },
@@ -2478,7 +2540,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 140253,
       "name": "MISE \u00c0 MORT (feat. Maureen)",
       "url": "https://open.spotify.com/track/7HIMz7nSt3GLAqZKBG0dPT"
@@ -2654,7 +2716,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 236425,
       "name": "Next To Me (feat. Toni-Ann Singh)",
       "url": "https://open.spotify.com/track/3qbORtchROy5DjRoYFsz69"
@@ -2852,7 +2914,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 188571,
       "name": "Phenomenal",
       "url": "https://open.spotify.com/track/4dX9e0P0DckAkjgkaORbqy"
@@ -3252,6 +3314,24 @@
       "duration_ms": 176250,
       "name": "Roulman",
       "url": "https://open.spotify.com/track/6kuEgsXZ5KjidJfsq6hMFV"
+    },
+    {
+      "album": {
+        "name": "R\u00e9fl\u00e9chi",
+        "url": "https://open.spotify.com/album/2jVD8CnnhOfrbRtx7C2RpO"
+      },
+      "artists": [
+        {
+          "name": "Young Chang MC",
+          "url": "https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "R\u00e9fl\u00e9chi",
+      "url": "https://open.spotify.com/track/3dwR9UFLT4Yxm6RQZfYtVU"
     },
     {
       "album": {

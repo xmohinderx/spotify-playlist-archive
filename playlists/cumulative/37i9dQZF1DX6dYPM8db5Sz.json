@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The freshest indie music from South African and beyond. Cover: <a href=\"https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq?si=Z6fdR3NXQ52L7r0GSmfAEA\">Msaki</a> and <a href=\"https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65?si=AhnbaA9RSDGCEL4gmSlDhQ\">Tubatsi Mpho Moloi</a>",
+  "description": "The freshest indie music from South African and beyond. Cover: <a href=\"https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86?si=E4XDVL0qS2WwQFX_ZhuEvg\">Matthew Mole",
   "name": "SAlt",
   "tracks": [
     {
@@ -396,7 +396,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 225391,
       "name": "Blue Skies Baby",
       "url": "https://open.spotify.com/track/1hd9094RZE9TAk8IaF7Tdh"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 200693,
       "name": "Chariot",
       "url": "https://open.spotify.com/track/1ZHboJHdP97xyCaQWuP9h6"
@@ -603,9 +603,27 @@
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 271229,
+      "duration_ms": 278130,
       "name": "cold",
       "url": "https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6"
+    },
+    {
+      "album": {
+        "name": "Countryside",
+        "url": "https://open.spotify.com/album/4Z9AQ8SjQybVgcEhdhfvd0"
+      },
+      "artists": [
+        {
+          "name": "Matthew Mole",
+          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217829,
+      "name": "Countryside",
+      "url": "https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM"
     },
     {
       "album": {
@@ -830,6 +848,24 @@
       "duration_ms": 175862,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/3QuJghCGUmoDxarw1Wa1lJ"
+    },
+    {
+      "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/3ZOixT6OPYmcj1N1SQctmN"
+      },
+      "artists": [
+        {
+          "name": "Anke Richards",
+          "url": "https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196571,
+      "name": "Fantasies",
+      "url": "https://open.spotify.com/track/7zltIKDQN6TMoERha3MiXo"
     },
     {
       "album": {
@@ -1064,7 +1100,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 197647,
       "name": "HOME",
       "url": "https://open.spotify.com/track/73wKP5eAiTwpB1cjNXUaph"
@@ -1385,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Little Girl",
+        "url": "https://open.spotify.com/album/38OTti2ijv4mARDji7Rx99"
+      },
+      "artists": [
+        {
+          "name": "Ernest Che Guerro",
+          "url": "https://open.spotify.com/artist/31E8QoONQGPHC1j6V4BWmm"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251998,
+      "name": "Little Girl",
+      "url": "https://open.spotify.com/track/1KK3whamg1HmTETY7tl51g"
+    },
+    {
+      "album": {
         "name": "loser",
         "url": "https://open.spotify.com/album/6ugUDr9rOoVQqLkrwVSgQX"
       },
@@ -1524,7 +1578,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 229760,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq"
@@ -1730,6 +1784,24 @@
       "duration_ms": 213940,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/1wJsjT1Oo2Kh2H3J9WOmde"
+    },
+    {
+      "album": {
+        "name": "fa\u00e7ade",
+        "url": "https://open.spotify.com/album/79vl4afRpt6VNGoHRFaUfP"
+      },
+      "artists": [
+        {
+          "name": "gerald kent",
+          "url": "https://open.spotify.com/artist/4deC9GQfMqj9MpuG0jA2un"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194383,
+      "name": "pink & blue",
+      "url": "https://open.spotify.com/track/0fVfYsnBOunr5mX1mViBQt"
     },
     {
       "album": {
@@ -1953,6 +2025,28 @@
     },
     {
       "album": {
+        "name": "Silent Running (feat. Adeleye Omotayo)",
+        "url": "https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Adeleye Omotayo",
+          "url": "https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266338,
+      "name": "Silent Running (feat. Adeleye Omotayo)",
+      "url": "https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg"
+    },
+    {
+      "album": {
         "name": "Simple Things (feat. Theo Croker)",
         "url": "https://open.spotify.com/album/2F2e3hezMEppcvVpZ949WR"
       },
@@ -2062,7 +2156,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 126005,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2BgpHPF021lgW7igZGGCVa"

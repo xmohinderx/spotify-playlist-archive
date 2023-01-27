@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/3WmyWjZ6EujeH4iaaKcW9G"
+      },
+      "artists": [
+        {
+          "name": "XL LIFE",
+          "url": "https://open.spotify.com/artist/6ql3PKpzPtJITCzZBebyaV"
+        },
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262541,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/6tdaPu8xDrBsQLV1Jfj1cF"
+    },
+    {
+      "album": {
         "name": "Two of Me",
         "url": "https://open.spotify.com/album/1dP6KuODHn23imSP4lYN4M"
       },
@@ -528,7 +550,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 200493,
       "name": "Hey Heartbreaker",
       "url": "https://open.spotify.com/track/5rHOYjTsgZSt4FTIkVtcVc"
@@ -1058,7 +1080,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 178853,
       "name": "Super Soaker",
       "url": "https://open.spotify.com/track/5aPsS8Erp6FBlFSEunU51j"
@@ -1076,7 +1098,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 200363,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/2XHJ3DLnRp7wfUwrhPcMKH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Katy Nichole
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,532 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,846 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 12 | [In The Garden](https://open.spotify.com/track/6ojE40VhdjfBrssePt6KTY) | [The Dodds](https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl) | [In The Garden](https://open.spotify.com/album/1SpiOq1luzoJGt1QvvewVc) | 3:57 |
 | 13 | [You Are Loved](https://open.spotify.com/track/7anotyCpPq16IayuCAIKaE) | [Kate Gurren](https://open.spotify.com/artist/7laYNlKdWD1hLhA2oxPImL) | [You Are Loved](https://open.spotify.com/album/7sHgq0Ez41NQANJb0ma0w9) | 3:21 |
 | 14 | [Tightrope](https://open.spotify.com/track/71ZUjaaWriVBBNb2ykqDW7) | [Jenna Murray](https://open.spotify.com/artist/1iN0bhjE9zaBQWonXBoNvf) | [Tightrope](https://open.spotify.com/album/5NWtbSgOMaKLyK1IyntSHM) | 4:15 |
-| 15 | [Can't Outrisk](https://open.spotify.com/track/18VMJziJvD5yFoH34QXz3P) | [Ocean & The Ghost](https://open.spotify.com/artist/3ytwqUISAunRjhTvQwNTQg), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Ocean & the Ghost](https://open.spotify.com/album/4g3fG36bNtEGgoSlDLmwO5) | 4:26 |
+| 15 | [Can't Outrisk](https://open.spotify.com/track/1hIOyTNeJllxzg4uZwQWHc) | [Ocean & The Ghost](https://open.spotify.com/artist/3ytwqUISAunRjhTvQwNTQg), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Ocean & the Ghost](https://open.spotify.com/album/5r3QW4PO4aotA00TEEGgoR) | 4:27 |
 | 16 | [You Changed My Name](https://open.spotify.com/track/5DMb7E6IvIs1fdtgvaRqCL) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [You Changed My Name](https://open.spotify.com/album/40vNN016TmNSzdjhl8UvWv) | 3:56 |
 | 17 | [Halfway Empty \- Live](https://open.spotify.com/track/17it5wfXOeMzTiid9xMGye) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Halfway Empty \(Live\)](https://open.spotify.com/album/2zM8xyAjwRPBZCE4nkhlOw) | 3:45 |
 | 18 | [Joy In The Morning](https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning](https://open.spotify.com/album/170FUziX94zYLzcV7arINC) | 8:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Humble](https://open.spotify.com/track/0jOegEvG5crKummCbFk5rm) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Humble](https://open.spotify.com/album/0OGt1dzhFMavsF6bQGCdxg) | 4:20 |
 | 100 | [Palaces](https://open.spotify.com/track/2INYwScE60yVgmyYsX00LH) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Palaces](https://open.spotify.com/album/0jkYniPLdIYSCl6feoIVMJ) | 4:13 |
 
-Snapshot ID: `MTY3NDIwNjc2MCwwMDAwMDAwMGIxNzc0NzM0MTRmOTU2NGQ5MDRhNmU4YmIwNTE3YmU4`
+Snapshot ID: `MTY3NDIwNjc2MCwwMDAwMDAwMGJhM2I5MWZhOGYwZGMwZTdjZGNlZjQ1MzcwZTFmNDJi`

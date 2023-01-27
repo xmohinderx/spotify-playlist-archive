@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-143 songs - 13 hr 43 min
+146 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,12 +31,14 @@
 | [Daughters \- Oliver Schories Remix](https://open.spotify.com/track/3XJRsEt8YMsLPXZNsLBVtU) | [Frivolous](https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [The Tiny House of Delusion \(REMIXES\)](https://open.spotify.com/album/7JNnB7EaDlJC23S6NQN4Fu) | 6:40 | 2022-11-10 |  |
 | [Deep Gone Far](https://open.spotify.com/track/1Ledf8FxJJ7MfFnu3saspW) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [So Us Vol\. 1](https://open.spotify.com/album/69NMXu0vuKRruWEe3XbPyb) | 6:12 | 2022-11-28 |  |
 | [Dem Good Ol' Days \- extended mix](https://open.spotify.com/track/5jXdOuboeHKtWYNBmJIkxy) | [LAZA](https://open.spotify.com/artist/6pdDxUY3ffYATztOUou9lq) | [Reflections EP](https://open.spotify.com/album/2KU6x6XydX45h8tfaPDVff) | 6:47 | 2022-12-05 |  |
+| [Demucha \- Dam Swindle Remix](https://open.spotify.com/track/5D4GI9u8jDFUtQs3PpZ99f) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Demucha \(Dam Swindle Remix\)](https://open.spotify.com/album/1m5vItbZgQhHaG1TvCLDrV) | 6:46 | 2023-01-26 |  |
 | [Descend](https://open.spotify.com/track/5UKeDBuyUvMAbxTgbdohBB) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Dive](https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot) | 4:57 | 2022-09-15 |  |
 | [Desire](https://open.spotify.com/track/7BFEDDCUYqYXnVH5ItVvOo) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Desire](https://open.spotify.com/album/0T9t94ZmiwFdMybdAi213o) | 5:52 | 2022-10-13 |  |
 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 | 2022-09-15 |  |
 | [Do Ya Thing](https://open.spotify.com/track/6p8KTDXZpsdaj8HaLvAoRJ) | [Oby Nine](https://open.spotify.com/artist/5ZILxFOm3W0ElCBd6XNpAt) | [Do Ya Thing](https://open.spotify.com/album/66ZRe9Jv7bXVMl5okoncwO) | 3:18 | 2022-09-15 |  |
 | [Do You Remember](https://open.spotify.com/track/5pBhzfZr8BbdqEYonJqWvL) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [MC Roga](https://open.spotify.com/artist/1PyqNjeHsegT2hgQyX9kid) | [Rebirth](https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n) | 7:35 | 2022-12-05 |  |
 | [Don't Want It \- Fouk Remix](https://open.spotify.com/track/15uutBzggXQsR19xARHl3f) | [Henrik Villard](https://open.spotify.com/artist/6nEESP4x7kZ1zQGSaQ33TG), [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Don't Want It \(Fouk Remix\)](https://open.spotify.com/album/4n4sqDenZwDpJq9skJVTVJ) | 5:51 | 2022-09-15 |  |
+| [Drive](https://open.spotify.com/track/2tjWqC7s6tKPl1nBFuHX0m) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Le Funk](https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec) | 3:59 | 2023-01-26 |  |
 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 | 2022-09-15 |  |
 | [Emancipação \- Ron Trent Remix](https://open.spotify.com/track/66XwUl6vlH5XqGwjHI93OD) | [Diogo Strausz](https://open.spotify.com/artist/58HWl0aH0VFAKnxfiZdVzO), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Emancipação \(Ron Trent Remix\)](https://open.spotify.com/album/2px1kDZ3heXoSR6AFB8DGS) | 9:11 | 2022-09-15 |  |
 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-21 |  |
@@ -49,6 +51,7 @@
 | [For Friends](https://open.spotify.com/track/7KJTx0xHTJwA6kqyLV19E2) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [For Friends](https://open.spotify.com/album/2R2pvXZmY7YFfASEXBmvpS) | 6:36 | 2022-09-15 |  |
 | [For The People](https://open.spotify.com/track/4rHcrEa2KGBka5qLmJQUKX) | [Eddie C](https://open.spotify.com/artist/7fucM325lXZs0cfgV9dpS3) | [For The People](https://open.spotify.com/album/2lZl2dsLURPYeI46Lt9eiu) | 6:11 | 2022-09-15 |  |
 | [Forever Whatever](https://open.spotify.com/track/1XMqiASp1EugE2Vzc7UmuH) | [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK) | [Trembala](https://open.spotify.com/album/3ZqhaGJ43PmogKRdwOX3w2) | 7:50 | 2022-10-13 |  |
+| [Friday Night](https://open.spotify.com/track/0yKrmCbI4WYXetnEajaGw7) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [Le Funk](https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec) | 7:08 | 2023-01-26 |  |
 | [Friki](https://open.spotify.com/track/3ZYOwmTAkBqbVVWkuerrGD) | [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Era E.P.](https://open.spotify.com/album/4Cxzpd11XkfbuA7TPs7cWJ) | 4:21 | 2022-09-15 |  |
 | [Fruitless](https://open.spotify.com/track/78DKBZtIi968rlYrvTAINt) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t), [Kabbina](https://open.spotify.com/artist/09quqGQT73S32UhGAucXAf) | [Fruitless EP](https://open.spotify.com/album/6ROFvm3dAUknf2dy0fWwTA) | 6:19 | 2022-09-15 |  |
 | [Good High](https://open.spotify.com/track/1SxO0Ah8zvoRwxq83RZqWk) | [Deeleegenz](https://open.spotify.com/artist/51Owzst8mz8gEYdXQXyLkq) | [Good High](https://open.spotify.com/album/5OZ677vM7vbNnuKPVgz5rt) | 5:59 | 2022-09-15 |  |

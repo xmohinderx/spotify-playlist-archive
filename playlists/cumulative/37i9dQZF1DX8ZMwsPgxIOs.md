@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Yazzus
 
-169 songs - 14 hr 29 min
+170 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Check Mate](https://open.spotify.com/track/22CE5S0W2mBnuQnIQS6O0N) | [Asquith](https://open.spotify.com/artist/43fmnXKQExCZ0KyHTKwkXv) | [Check Mate](https://open.spotify.com/album/7ChLldwhU48jHZGpMlBb51) | 4:32 | 2022-07-01 | 2023-01-21 |
 | [Consciousness](https://open.spotify.com/track/1DOuZaf52j4O1zlyQpxSQx) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Consciousness](https://open.spotify.com/album/3PXBTfh5elG5YjbNM3QWAP) | 4:34 | 2022-05-26 |  |
 | [Contagion](https://open.spotify.com/track/6FohMf7tim4EKslVqCB4y1) | [quest?onmarq](https://open.spotify.com/artist/6wc03P0FC3KCKciiZVZ6H9) | [Contagion / Spinout](https://open.spotify.com/album/73P8UugCrvjQIFPz4zP7BZ) | 3:57 | 2022-04-15 | 2022-07-15 |
-| [Convergence](https://open.spotify.com/track/43yGlgA7sSLMHyXeu6suv9) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Convergence](https://open.spotify.com/album/02Pkx2GKuvKuPs4wOKq2Zk) | 4:23 | 2022-04-15 |  |
+| [Convergence](https://open.spotify.com/track/2tp8nAI5xgMgWq51GZZ8tW) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Opal](https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl) | 4:23 | 2023-01-20 |  |
+| [Convergence](https://open.spotify.com/track/43yGlgA7sSLMHyXeu6suv9) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Convergence](https://open.spotify.com/album/02Pkx2GKuvKuPs4wOKq2Zk) | 4:23 | 2022-04-15 | 2023-01-27 |
 | [CreM](https://open.spotify.com/track/23kgh3nWUAAikuLRgxNLnk) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [CreM](https://open.spotify.com/album/7tiJtcAnAunUcAwAlhVgLE) | 5:02 | 2022-10-13 |  |
 | [Crimson Arch](https://open.spotify.com/track/6kqLDMdqgbgCsLbsSlWRjo) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Crimson Arch](https://open.spotify.com/album/0BPMNld8mBFvWzuyj48v9y) | 4:48 | 2022-04-15 |  |
 | [Cruising In My Herse](https://open.spotify.com/track/5NoVq4jZJkdVMvRlWFCEMk) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Cruising In My Herse](https://open.spotify.com/album/7pzQwVl5jIciRHLLg9hmeQ) | 5:35 | 2022-09-23 |  |

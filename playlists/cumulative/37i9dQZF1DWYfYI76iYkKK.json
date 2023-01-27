@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 200000,
       "name": "can't get over you",
       "url": "https://open.spotify.com/track/1S1crJ0Ebb2XOrhBCnlNGK"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 131124,
       "name": "Wonder - Radio Edit",
       "url": "https://open.spotify.com/track/0lHzdjaWiKlodjIkjpWNl8"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 270227,
       "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
       "url": "https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-17",
+      "date_removed": null,
       "duration_ms": 232017,
       "name": "\u4f60\u662f\u8aaa\u8b0a\u7684\u4eba",
       "url": "https://open.spotify.com/track/69OyZ8v2TYJDwcdYLYPSI0"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 266085,
       "name": "\u60f3\u5ff5\u64ec\u4eba\u5316",
       "url": "https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7"
@@ -2268,7 +2268,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 274962,
       "name": "\u646f\u53cb",
       "url": "https://open.spotify.com/track/5gKnXAFKXTCBYzJVSBWoDN"
@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 221690,
       "name": "\u6700\u7f8e\u7684\u554f\u5019-\u5c0fV\u4e4b\u6b4c",
       "url": "https://open.spotify.com/track/7c9R1ewxKUIMsU5QrWlwPi"
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 350117,
       "name": "\u6de1\u9ec3\u8272 - Recap",
       "url": "https://open.spotify.com/track/66EtQpP48OLRo1O79XVrzN"
@@ -2914,7 +2914,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 270600,
       "name": "\u7686\u53ef",
       "url": "https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR"
@@ -3152,7 +3152,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 199154,
       "name": "\u85cd\u5929 - Acoustic",
       "url": "https://open.spotify.com/track/3ERjOssT8oJ42WsP42P9n6"
@@ -3376,7 +3376,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 241408,
       "name": "\u9006\u706b",
       "url": "https://open.spotify.com/track/6omo7jncB9I0KaHqf6B4Df"
@@ -3452,6 +3452,32 @@
       "duration_ms": 255891,
       "name": "\u9057\u4e66",
       "url": "https://open.spotify.com/track/3OAus00QiDUhoya5chQ2As"
+    },
+    {
+      "album": {
+        "name": "\u73bb\u7483\u5fc3",
+        "url": "https://open.spotify.com/album/0ats5TgMaZRpgkWcLWYkmd"
+      },
+      "artists": [
+        {
+          "name": "O-Yo",
+          "url": "https://open.spotify.com/artist/3kkkg7eXW2AJOIw3NLwKj8"
+        },
+        {
+          "name": "LEI",
+          "url": "https://open.spotify.com/artist/27iJPTbluZyUyoseyHqd0s"
+        },
+        {
+          "name": "\u4ea6\u6a59",
+          "url": "https://open.spotify.com/artist/5Yy3myg7iKbHAFztv0hUoU"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230869,
+      "name": "\u9072\u7591",
+      "url": "https://open.spotify.com/track/4lEApxeewLQEQVyuZl6F7Z"
     },
     {
       "album": {
@@ -3580,7 +3606,7 @@
       },
       "artists": [
         {
-          "name": "\u83f2\u9053\u5c14",
+          "name": "Firdhaus",
           "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
         }
       ],

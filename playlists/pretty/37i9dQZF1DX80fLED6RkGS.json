@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=6FaHJ3sJRZ-8aikGhceCow\">Boutross </a> ",
-  "num_followers": 16264,
+  "num_followers": 16288,
   "original_name": "Gengetone Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2MTk0MCwwMDAwMDAwMDJhZDhjYTM3N2YwNTQ3NTVkMTcwMjM3NDE3NGEyYzgx",
+  "snapshot_id": "MTY3NDc2Njc0MCwwMDAwMDAwMDdlODk3MWIzYmI0Nzg3OWViZTE0MWRmYjk4ODQ2YzA5",
   "tracks": [
     {
       "added_at": "2022-11-24 20:59:00",
@@ -69,6 +69,26 @@
       "url": "https://open.spotify.com/track/2yfNX50aSgen5BcXbg7zVm"
     },
     {
+      "added_at": "2023-01-19 20:59:00",
+      "album": {
+        "name": "Fukuru",
+        "url": "https://open.spotify.com/album/0SmMmti8sJiW99U9OE4iEp"
+      },
+      "artists": [
+        {
+          "name": "mbogi genje",
+          "url": "https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi"
+        },
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        }
+      ],
+      "duration_ms": 231955,
+      "name": "Fukuru",
+      "url": "https://open.spotify.com/track/0g0EXBEerMRPEGIyRkZihw"
+    },
+    {
       "added_at": "2022-10-06 20:59:00",
       "album": {
         "name": "Kuna Kuna",
@@ -101,26 +121,6 @@
       "url": "https://open.spotify.com/track/53vfuY2r8Eg1jRMkjY62QZ"
     },
     {
-      "added_at": "2023-01-19 20:59:00",
-      "album": {
-        "name": "Fukuru",
-        "url": "https://open.spotify.com/album/0SmMmti8sJiW99U9OE4iEp"
-      },
-      "artists": [
-        {
-          "name": "mbogi genje",
-          "url": "https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi"
-        },
-        {
-          "name": "Kushman",
-          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
-        }
-      ],
-      "duration_ms": 231955,
-      "name": "Fukuru",
-      "url": "https://open.spotify.com/track/0g0EXBEerMRPEGIyRkZihw"
-    },
-    {
       "added_at": "2022-08-18 20:59:00",
       "album": {
         "name": "DANCEHALLING",
@@ -135,26 +135,6 @@
       "duration_ms": 144065,
       "name": "DANCEHALLING",
       "url": "https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi"
-    },
-    {
-      "added_at": "2022-11-17 20:59:00",
-      "album": {
-        "name": "Ni Wetu",
-        "url": "https://open.spotify.com/album/5NXk2vlt6UaURtbY2Gda3o"
-      },
-      "artists": [
-        {
-          "name": "Maandy",
-          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
-        },
-        {
-          "name": "Mejja",
-          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Ni Wetu",
-      "url": "https://open.spotify.com/track/2N8nINhWcu3CPYAXCgaQRF"
     },
     {
       "added_at": "2022-01-27 20:59:00",
@@ -193,6 +173,26 @@
       "url": "https://open.spotify.com/track/4BlBFQR8SjwtHpsuJIMoFu"
     },
     {
+      "added_at": "2022-11-17 20:59:00",
+      "album": {
+        "name": "Ni Wetu",
+        "url": "https://open.spotify.com/album/5NXk2vlt6UaURtbY2Gda3o"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Ni Wetu",
+      "url": "https://open.spotify.com/track/2N8nINhWcu3CPYAXCgaQRF"
+    },
+    {
       "added_at": "2022-08-11 20:59:00",
       "album": {
         "name": "Kanairo Dating",
@@ -207,6 +207,22 @@
       "duration_ms": 221332,
       "name": "Kanairo Dating",
       "url": "https://open.spotify.com/track/61yhVznYvsruXvl71ld3ig"
+    },
+    {
+      "added_at": "2022-06-30 20:59:00",
+      "album": {
+        "name": "WANJAPI 2",
+        "url": "https://open.spotify.com/album/1v9gFHN7jF9Fg4SIImuA40"
+      },
+      "artists": [
+        {
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "WANJAPI 2",
+      "url": "https://open.spotify.com/track/03SNSLtdmdgsLfzz91DAzQ"
     },
     {
       "added_at": "2022-11-24 20:59:00",
@@ -257,22 +273,6 @@
       "url": "https://open.spotify.com/track/3xL6tVIv6YYYjpVD9l2dEI"
     },
     {
-      "added_at": "2022-06-30 20:59:00",
-      "album": {
-        "name": "WANJAPI 2",
-        "url": "https://open.spotify.com/album/1v9gFHN7jF9Fg4SIImuA40"
-      },
-      "artists": [
-        {
-          "name": "Uncojingjong",
-          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "WANJAPI 2",
-      "url": "https://open.spotify.com/track/03SNSLtdmdgsLfzz91DAzQ"
-    },
-    {
       "added_at": "2022-03-10 20:59:00",
       "album": {
         "name": "Kamkora",
@@ -287,30 +287,6 @@
       "duration_ms": 152999,
       "name": "Kamkora",
       "url": "https://open.spotify.com/track/3Dvxpka8fCFTidzANF4Xpm"
-    },
-    {
-      "added_at": "2022-11-10 20:59:00",
-      "album": {
-        "name": "Dala Wa",
-        "url": "https://open.spotify.com/album/5w7xl4ONKgqcsGBXXUcjxd"
-      },
-      "artists": [
-        {
-          "name": "Mejja",
-          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
-        },
-        {
-          "name": "Kamwana",
-          "url": "https://open.spotify.com/artist/4CUMYYAed2LFHyCTLb4caq"
-        },
-        {
-          "name": "Veryl Mkali Wao",
-          "url": "https://open.spotify.com/artist/4htwtJq9AaxSbpVnA9yopl"
-        }
-      ],
-      "duration_ms": 216470,
-      "name": "Dala Wa",
-      "url": "https://open.spotify.com/track/3vwCLR1fyjeMCkPFfnfnHL"
     },
     {
       "added_at": "2022-05-19 20:59:00",
@@ -335,6 +311,30 @@
       "duration_ms": 213288,
       "name": "Nawacha Pombe Remix (Feat Ssaru & Benzema)",
       "url": "https://open.spotify.com/track/4mmCwOqDjsHc60WUSA5hDB"
+    },
+    {
+      "added_at": "2022-11-10 20:59:00",
+      "album": {
+        "name": "Dala Wa",
+        "url": "https://open.spotify.com/album/5w7xl4ONKgqcsGBXXUcjxd"
+      },
+      "artists": [
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        },
+        {
+          "name": "Kamwana",
+          "url": "https://open.spotify.com/artist/4CUMYYAed2LFHyCTLb4caq"
+        },
+        {
+          "name": "Veryl Mkali Wao",
+          "url": "https://open.spotify.com/artist/4htwtJq9AaxSbpVnA9yopl"
+        }
+      ],
+      "duration_ms": 216470,
+      "name": "Dala Wa",
+      "url": "https://open.spotify.com/track/3vwCLR1fyjeMCkPFfnfnHL"
     },
     {
       "added_at": "2022-11-04 07:22:31",
@@ -499,186 +499,6 @@
       "duration_ms": 177600,
       "name": "Waganis",
       "url": "https://open.spotify.com/track/3Ojg6HbWnavMSobVcHx5FI"
-    },
-    {
-      "added_at": "2022-10-06 20:59:00",
-      "album": {
-        "name": "Unajifanya",
-        "url": "https://open.spotify.com/album/0bO8ZhWfpQbEeRN3UK3kPP"
-      },
-      "artists": [
-        {
-          "name": "Mavo On The Beat",
-          "url": "https://open.spotify.com/artist/18FRsej0uytxeNbIbAMkGc"
-        },
-        {
-          "name": "Timmy Tdat",
-          "url": "https://open.spotify.com/artist/0koEwZCEZrRUvVYb5ggPCZ"
-        },
-        {
-          "name": "Rekles",
-          "url": "https://open.spotify.com/artist/4y3qwVKeBqgdlL4Clize3k"
-        }
-      ],
-      "duration_ms": 188041,
-      "name": "Bless Me",
-      "url": "https://open.spotify.com/track/1GuP8lZQ17qasaJTQeI5FP"
-    },
-    {
-      "added_at": "2022-09-09 05:09:23",
-      "album": {
-        "name": "Mmhh Mmhh",
-        "url": "https://open.spotify.com/album/75Zjn6YMCrzr7kwl5BPki9"
-      },
-      "artists": [
-        {
-          "name": "Maandy",
-          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
-        }
-      ],
-      "duration_ms": 146751,
-      "name": "Mmhh Mmhh",
-      "url": "https://open.spotify.com/track/2krD209EXeH4HISpTp3g5S"
-    },
-    {
-      "added_at": "2022-09-29 20:59:00",
-      "album": {
-        "name": "Kamkora",
-        "url": "https://open.spotify.com/album/38gKoE7uMtIGeppBrhHDrW"
-      },
-      "artists": [
-        {
-          "name": "Ssaru",
-          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
-        }
-      ],
-      "duration_ms": 173818,
-      "name": "Kamkora",
-      "url": "https://open.spotify.com/track/6MTKpuVgwGXlTImS6gGYGu"
-    },
-    {
-      "added_at": "2022-09-09 05:09:23",
-      "album": {
-        "name": "Ngoko",
-        "url": "https://open.spotify.com/album/0dR4SF1ZT3phoaK4PhDJ9q"
-      },
-      "artists": [
-        {
-          "name": "Gwaash",
-          "url": "https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7"
-        }
-      ],
-      "duration_ms": 216024,
-      "name": "Ngoko",
-      "url": "https://open.spotify.com/track/5US66dlO0HagPSyQhkFry9"
-    },
-    {
-      "added_at": "2022-08-11 20:59:00",
-      "album": {
-        "name": "Naskia Poa Remix",
-        "url": "https://open.spotify.com/album/6sJIql7TeC3NVJ3Jgb9JTD"
-      },
-      "artists": [
-        {
-          "name": "Dmore",
-          "url": "https://open.spotify.com/artist/01v6UAGxwidjKJkYwX5zcr"
-        },
-        {
-          "name": "Ochungulo Family",
-          "url": "https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b"
-        },
-        {
-          "name": "Bobo Nyosto",
-          "url": "https://open.spotify.com/artist/5520Pd7tpASXN6tyXlWJUc"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "Naskia Poa Remix",
-      "url": "https://open.spotify.com/track/7CHCfjUFyQwUmFncAAmxwB"
-    },
-    {
-      "added_at": "2022-07-01 03:54:45",
-      "album": {
-        "name": "Dweet",
-        "url": "https://open.spotify.com/album/12jVz1pJQCLOXynE9s93rZ"
-      },
-      "artists": [
-        {
-          "name": "Trio Mio",
-          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
-        },
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        },
-        {
-          "name": "Masauti",
-          "url": "https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Dweet",
-      "url": "https://open.spotify.com/track/3dyAWk6B82ImpE2qco0jLi"
-    },
-    {
-      "added_at": "2022-09-22 20:59:00",
-      "album": {
-        "name": "Sugarcane",
-        "url": "https://open.spotify.com/album/0Uf3m96SQ0l1ZejwD17YDD"
-      },
-      "artists": [
-        {
-          "name": "Seska",
-          "url": "https://open.spotify.com/artist/0I1qRE43DtaywX3NxLk8WZ"
-        }
-      ],
-      "duration_ms": 181603,
-      "name": "Apewe Mic",
-      "url": "https://open.spotify.com/track/1ihwva2Geog94pHxDUinYq"
-    },
-    {
-      "added_at": "2021-11-11 20:59:00",
-      "album": {
-        "name": "Sipangwingwi",
-        "url": "https://open.spotify.com/album/0ywMMyiBU8YALzIvDbG2qn"
-      },
-      "artists": [
-        {
-          "name": "Exray Taniua",
-          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
-        },
-        {
-          "name": "Trio Mio",
-          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
-        },
-        {
-          "name": "Ssaru",
-          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Sipangwingwi",
-      "url": "https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1"
-    },
-    {
-      "added_at": "2022-03-18 15:35:25",
-      "album": {
-        "name": "Gin Ama Whiskey",
-        "url": "https://open.spotify.com/album/0IU5Kq4BLwGZRbDq1rIy93"
-      },
-      "artists": [
-        {
-          "name": "Breeder LW",
-          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
-        },
-        {
-          "name": "Mejja",
-          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
-        }
-      ],
-      "duration_ms": 246883,
-      "name": "Gin Ama Whiskey",
-      "url": "https://open.spotify.com/track/6zhNp08Kd10UrhfvOCLu0d"
     },
     {
       "added_at": "2022-08-18 20:59:00",
@@ -859,6 +679,186 @@
       "duration_ms": 160151,
       "name": "Usiniharibie Mood",
       "url": "https://open.spotify.com/track/5OflrN0O5MUtruSRH3KILR"
+    },
+    {
+      "added_at": "2022-10-06 20:59:00",
+      "album": {
+        "name": "Unajifanya",
+        "url": "https://open.spotify.com/album/0bO8ZhWfpQbEeRN3UK3kPP"
+      },
+      "artists": [
+        {
+          "name": "Mavo On The Beat",
+          "url": "https://open.spotify.com/artist/18FRsej0uytxeNbIbAMkGc"
+        },
+        {
+          "name": "Timmy Tdat",
+          "url": "https://open.spotify.com/artist/0koEwZCEZrRUvVYb5ggPCZ"
+        },
+        {
+          "name": "Rekles",
+          "url": "https://open.spotify.com/artist/4y3qwVKeBqgdlL4Clize3k"
+        }
+      ],
+      "duration_ms": 188041,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/1GuP8lZQ17qasaJTQeI5FP"
+    },
+    {
+      "added_at": "2022-09-09 05:09:23",
+      "album": {
+        "name": "Mmhh Mmhh",
+        "url": "https://open.spotify.com/album/75Zjn6YMCrzr7kwl5BPki9"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "duration_ms": 146751,
+      "name": "Mmhh Mmhh",
+      "url": "https://open.spotify.com/track/2krD209EXeH4HISpTp3g5S"
+    },
+    {
+      "added_at": "2022-09-29 20:59:00",
+      "album": {
+        "name": "Kamkora",
+        "url": "https://open.spotify.com/album/38gKoE7uMtIGeppBrhHDrW"
+      },
+      "artists": [
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        }
+      ],
+      "duration_ms": 173818,
+      "name": "Kamkora",
+      "url": "https://open.spotify.com/track/6MTKpuVgwGXlTImS6gGYGu"
+    },
+    {
+      "added_at": "2022-09-09 05:09:23",
+      "album": {
+        "name": "Ngoko",
+        "url": "https://open.spotify.com/album/0dR4SF1ZT3phoaK4PhDJ9q"
+      },
+      "artists": [
+        {
+          "name": "Gwaash",
+          "url": "https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7"
+        }
+      ],
+      "duration_ms": 216024,
+      "name": "Ngoko",
+      "url": "https://open.spotify.com/track/5US66dlO0HagPSyQhkFry9"
+    },
+    {
+      "added_at": "2022-08-11 20:59:00",
+      "album": {
+        "name": "Naskia Poa Remix",
+        "url": "https://open.spotify.com/album/6sJIql7TeC3NVJ3Jgb9JTD"
+      },
+      "artists": [
+        {
+          "name": "Dmore",
+          "url": "https://open.spotify.com/artist/01v6UAGxwidjKJkYwX5zcr"
+        },
+        {
+          "name": "Ochungulo Family",
+          "url": "https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b"
+        },
+        {
+          "name": "Bobo Nyosto",
+          "url": "https://open.spotify.com/artist/5520Pd7tpASXN6tyXlWJUc"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Naskia Poa Remix",
+      "url": "https://open.spotify.com/track/7CHCfjUFyQwUmFncAAmxwB"
+    },
+    {
+      "added_at": "2022-07-01 03:54:45",
+      "album": {
+        "name": "Dweet",
+        "url": "https://open.spotify.com/album/12jVz1pJQCLOXynE9s93rZ"
+      },
+      "artists": [
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        },
+        {
+          "name": "Masauti",
+          "url": "https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Dweet",
+      "url": "https://open.spotify.com/track/3dyAWk6B82ImpE2qco0jLi"
+    },
+    {
+      "added_at": "2022-09-22 20:59:00",
+      "album": {
+        "name": "Sugarcane",
+        "url": "https://open.spotify.com/album/0Uf3m96SQ0l1ZejwD17YDD"
+      },
+      "artists": [
+        {
+          "name": "Seska",
+          "url": "https://open.spotify.com/artist/0I1qRE43DtaywX3NxLk8WZ"
+        }
+      ],
+      "duration_ms": 181603,
+      "name": "Apewe Mic",
+      "url": "https://open.spotify.com/track/1ihwva2Geog94pHxDUinYq"
+    },
+    {
+      "added_at": "2021-11-11 20:59:00",
+      "album": {
+        "name": "Sipangwingwi",
+        "url": "https://open.spotify.com/album/0ywMMyiBU8YALzIvDbG2qn"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Sipangwingwi",
+      "url": "https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1"
+    },
+    {
+      "added_at": "2022-03-18 15:35:25",
+      "album": {
+        "name": "Gin Ama Whiskey",
+        "url": "https://open.spotify.com/album/0IU5Kq4BLwGZRbDq1rIy93"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "duration_ms": 246883,
+      "name": "Gin Ama Whiskey",
+      "url": "https://open.spotify.com/track/6zhNp08Kd10UrhfvOCLu0d"
     },
     {
       "added_at": "2022-05-19 20:59:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-01-27 20:59:00",
       "album": {
-        "name": "Frisky",
-        "url": "https://open.spotify.com/album/6QZ8KKgYXkrz5z8MHd0Kle"
-      },
-      "artists": [
-        {
-          "name": "Maandy",
-          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
-        }
-      ],
-      "duration_ms": 187559,
-      "name": "Hivi Na Hivo",
-      "url": "https://open.spotify.com/track/4qgXVPkYela0Ql8svwNbU6"
-    },
-    {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
         "name": "Sirudi Home (Remix)",
         "url": "https://open.spotify.com/album/6P77L5zVgL0Gz3YnSjTSIa"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 252264,
       "name": "Mbona Depression",
       "url": "https://open.spotify.com/track/30dkiusOfYnXcuw0r7rJYS"
+    },
+    {
+      "added_at": "2022-01-27 20:59:00",
+      "album": {
+        "name": "Frisky",
+        "url": "https://open.spotify.com/album/6QZ8KKgYXkrz5z8MHd0Kle"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "duration_ms": 187559,
+      "name": "Hivi Na Hivo",
+      "url": "https://open.spotify.com/track/4qgXVPkYela0Ql8svwNbU6"
     },
     {
       "added_at": "2022-07-07 20:59:00",

@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros.
+> Fall in love with the sensual sounds of Kizomba! Cover: Cubita.
 
-291 songs - 17 hr 39 min
+292 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Ka Ta Importa](https://open.spotify.com/track/4xt4lAUBCPRYtIIWmm9XPk) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm), [Oliver](https://open.spotify.com/artist/056V8xAmMi81LgOJZhjTob) | [Ka Ta Importa](https://open.spotify.com/album/0j6nUQtgHdtcCdYhgs6eJJ) | 3:50 | 2022-08-25 | 2022-09-30 |
 | [Keruh](https://open.spotify.com/track/6SMgtwBAsC1WreQJzsQ7EL) | [Zaza The Pi](https://open.spotify.com/artist/4DLzljqWfoI4JjMfhydPJM) | [Keruh](https://open.spotify.com/album/04yKYTsbJEU0FIsR7fcmOk) | 3:49 | 2022-01-10 | 2022-01-17 |
 | [Kua Buaru](https://open.spotify.com/track/4CleTVckv87HCeEpj05X52) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Manecas Costa](https://open.spotify.com/artist/4SQUUGQBAKH0w73RjAnozc) | [Kua Buaru](https://open.spotify.com/album/0H4JbF7EeFgoYvLixZpUpS) | 3:01 | 2021-12-10 |  |
-| [Kuyuyu](https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Zolana](https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn) | 3:54 | 2021-12-10 |  |
+| [Kuyuyu](https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Zolana](https://open.spotify.com/album/1QZFUA00SScMMaea5DW1Mn) | 3:54 | 2021-12-10 | 2023-01-27 |
 | [Lambuxa na Bo](https://open.spotify.com/track/4geD496HKKdshBtb5U5Yan) | [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [Lambuxa na Bo](https://open.spotify.com/album/38Awfmyez9FhYQr7gSbf1k) | 3:03 | 2022-09-22 | 2022-12-02 |
 | [Largam](https://open.spotify.com/track/6nWb98Zi1cfP70C5wdNEIk) | [Mister Nino](https://open.spotify.com/artist/5PJgbCjdHH32IKslVSIeJW) | [Largam](https://open.spotify.com/album/6QiEyG8ZZ6U6qSfgsOBEcE) | 4:15 | 2021-12-10 | 2022-07-17 |
 | [Lavender Tulips](https://open.spotify.com/track/4cd3AwGaE7T6Uh4dbhefyU) | [Malcom Beatz](https://open.spotify.com/artist/7zVHCWAKJW7cBHUmn782p2), [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Lavender Tulips](https://open.spotify.com/album/74UuzmDeji6pyS3e0ifZ70) | 4:21 | 2022-01-21 | 2022-02-19 |
@@ -135,6 +135,7 @@
 | [Madrugada](https://open.spotify.com/track/5EJm65BcKaozbl4aabantT) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Madrugada](https://open.spotify.com/album/226EA8JuTzjROUvbVIPECb) | 3:52 | 2022-12-16 |  |
 | [Magia](https://open.spotify.com/track/7ISGcym2XbHCaIMAfN3OSl) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Magia](https://open.spotify.com/album/46hdoSNACICzcXfEOsfFqi) | 3:22 | 2021-12-10 | 2022-02-19 |
 | [Magico](https://open.spotify.com/track/0WP4sAf9JKYvy1neTliv5C) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Sem Limite](https://open.spotify.com/album/6r1xwFSAEE9Y369dtleQLB) | 3:57 | 2021-12-10 |  |
+| [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 | 2023-01-27 |  |
 | [Malembe Malembe](https://open.spotify.com/track/5u2FrLHKEoKjUMguaffQ0t) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Vanda May](https://open.spotify.com/artist/1bNarEsCgTgkC04nAi8I7J), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [African Prince](https://open.spotify.com/album/7K0p3XgUd0ZlcJ7kjMu8Rf) | 4:04 | 2021-12-10 | 2022-02-09 |
 | [Maluco](https://open.spotify.com/track/62MFlcVghmm0TzTNAlYN0j) | [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Do Jeito Que Eu Sou \(Part.2\)](https://open.spotify.com/album/3z89VRMwfVNZebtOrDfao9) | 4:22 | 2021-12-10 | 2022-07-21 |
 | [Maningue Doce](https://open.spotify.com/track/4x2pDgtEyVVjmjHpoEO38H) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Maningue Doce](https://open.spotify.com/album/4ennAV88BGgrf5q13Jovv4) | 3:04 | 2021-12-10 | 2022-07-29 |

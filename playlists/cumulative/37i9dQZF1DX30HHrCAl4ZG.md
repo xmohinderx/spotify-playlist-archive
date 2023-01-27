@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Featuring new music by Mac DeMarco.
 
-782 songs - 1 day 18 hr 31 min
+783 songs - 1 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [hollllllllliday](https://open.spotify.com/track/5ZcPvn9grLZzppQ69iCAxr) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [hollllllllliday](https://open.spotify.com/album/18tFNt03nX0MCBPhEmTSAh) | 2:54 | 2022-10-07 | 2022-11-19 |
 | [Holly Holly](https://open.spotify.com/track/609PjstZKFBH2ryWbJFzev) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Holly Holly](https://open.spotify.com/album/0g7Pwo6QefrUgvPNhJLFR7) | 2:42 | 2021-10-02 | 2022-06-11 |
 | [Home](https://open.spotify.com/track/3tYH04NBLuzodhjHpsBjoh) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:51 | 2022-07-29 | 2022-11-19 |
+| [Homebody](https://open.spotify.com/track/3DopZVBcDtQeZkbVF8Odcv) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Homebody](https://open.spotify.com/album/5QxN2n76RFYhOAO3ebbfCG) | 2:49 | 2023-01-20 |  |
 | [Hometown](https://open.spotify.com/track/0k1lGsi6pL8abra2yzIxeU) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T) | [Hometown](https://open.spotify.com/album/0Zrm8OUvkOisdzvWo9Fhl8) | 2:56 | 2021-07-02 | 2022-02-11 |
 | [Honey](https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Honey](https://open.spotify.com/album/6vkuAUXk0Gm8xizHhtjx0w) | 3:44 | 2021-06-25 | 2022-04-21 |
 | [Hope & Smoke](https://open.spotify.com/track/1rGBiFbVFhGJSBhqPSmyyH) | [King Shelter](https://open.spotify.com/artist/2wzc9c6rclNEtMBAkg3FEN) | [Hope & Smoke](https://open.spotify.com/album/6PdggSTTyMHwwSM5BIkfu0) | 2:48 | 2021-08-06 | 2022-04-20 |
@@ -660,7 +661,7 @@
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2021-06-07 | 2022-06-11 |
 | [Tag Along](https://open.spotify.com/track/0zO2Fu7XExfd3WZYedeCle) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Tag Along](https://open.spotify.com/album/6kPkthpgKSlWtah8pIX28k) | 2:08 | 2022-09-30 | 2022-11-08 |
 | [Take It Back](https://open.spotify.com/track/4DLiXw3uGMe45QwJtPNOVc) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Take It Back](https://open.spotify.com/album/6yk0QeDWJQJ4GGUGJbEWvy) | 2:28 | 2021-06-07 | 2022-06-10 |
-| [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 | 2022-06-17 |  |
+| [take it back \(feat\. Beck\)](https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [take it back \(feat\. Beck\)](https://open.spotify.com/album/6Db4qVah6cM1Pa6aZgcPMl) | 2:25 | 2022-06-17 | 2023-01-27 |
 | [Taking Time to Tell You](https://open.spotify.com/track/2vysdwbUZxT9t7gtUP4HGK) | [Chime School](https://open.spotify.com/artist/4GBgN14vJ7UQYUebQk0hJa) | [Taking Time to Tell You](https://open.spotify.com/album/0ppMm4zRlf1eeKiur4CPtB) | 2:41 | 2022-01-14 | 2022-04-11 |
 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 | 2022-03-25 | 2022-10-01 |
 | [Taunt](https://open.spotify.com/track/0r3QJbwBuR9UL0ai5qDTw7) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR) | 2:13 | 2021-06-07 | 2022-06-10 |

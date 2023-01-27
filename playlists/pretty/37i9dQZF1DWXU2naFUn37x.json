@@ -1,15 +1,15 @@
 {
-  "description": "La casa dello street rap italiano. Cover: Medy",
-  "num_followers": 827352,
+  "description": "La casa dello street rap italiano. Cover: Sacky",
+  "num_followers": 827463,
   "original_name": "Street Culto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMDRlZDk0ZTUxYzBkNDc4MjEzMGE4OGRkOTg3ZjkyZjY4",
+  "snapshot_id": "MTY3NDc3NDA2MCwwMDAwMDAwMDRjNzVhNWY4ZDE5YTVkZjU1NzM1MWMwNzYyYzQ0ZmQy",
   "tracks": [
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Nove Chiamate",
         "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
@@ -29,23 +29,7 @@
       "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 217103,
-      "name": "Mentalit\u00e9",
-      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Bandito",
         "url": "https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh"
@@ -69,7 +53,27 @@
       "url": "https://open.spotify.com/track/04emP3rMNw3yi1E7Q4ZoTI"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "QUELLO VERO",
+        "url": "https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 161462,
+      "name": "GanGa (feat. Baby Gang)",
+      "url": "https://open.spotify.com/track/4lZ87DJUjjAEcOzF6Uhyfj"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
@@ -89,7 +93,39 @@
       "url": "https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "Trafficante",
+        "url": "https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "Trafficante",
+      "url": "https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 217103,
+      "name": "Mentalit\u00e9",
+      "url": "https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
@@ -109,23 +145,7 @@
       "url": "https://open.spotify.com/track/1Pw9JvFxbenEtnGRRcDvzD"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Trafficante",
-        "url": "https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9za",
-          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "Trafficante",
-      "url": "https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Sharm El Sheikh",
         "url": "https://open.spotify.com/album/2nS6UzfcpGjaukHeQOiofW"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/1mmYcbjgplZto84xmMFJA3"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Take 4",
         "url": "https://open.spotify.com/album/1A01OIU8IqWnFPThOxg7Cr"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/627uLUtgdlY5xVEtjJgKy6"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Braquages",
         "url": "https://open.spotify.com/album/0W0T9Tpqc5h82PiBZY27CJ"
@@ -173,7 +193,7 @@
       "url": "https://open.spotify.com/track/5X4mISo6fLNbc2cn6W38A7"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -193,7 +213,7 @@
       "url": "https://open.spotify.com/track/2Buy0H2VxXZ8bmTp1fH5UA"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "X2 DELUXE",
         "url": "https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6"
@@ -217,7 +237,7 @@
       "url": "https://open.spotify.com/track/48yJi1ujkozgmtZIYr2Tev"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Botox",
         "url": "https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/6QjpEvmiZIM9qgTQhg5dzi"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "CANCUN",
         "url": "https://open.spotify.com/album/6dfFlS3ruKbUsuLVpLfzXe"
@@ -273,7 +293,7 @@
       "url": "https://open.spotify.com/track/6OR6CqkAWNK6rr7gmfpJNK"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/5tZLWsGOFHRBxZ96ZRe67z"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "PLAYA",
         "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
@@ -305,7 +325,7 @@
       "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "X2 DELUXE",
         "url": "https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6"
@@ -333,7 +353,7 @@
       "url": "https://open.spotify.com/track/0ZUbfpKnLJrbcySAfFPIcN"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Mari\u00e8 (feat. Kassimi)",
         "url": "https://open.spotify.com/album/47yhTU5uScGBADR14wgyC3"
@@ -353,7 +373,7 @@
       "url": "https://open.spotify.com/track/5MfWyat51dW4EnIAl3HL3j"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/1L3BundfZgLB9db5496I4y"
@@ -369,7 +389,7 @@
       "url": "https://open.spotify.com/track/1EOTrGOcrCwTG1nhUnp0dV"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Nove Chiamate",
         "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
@@ -389,23 +409,7 @@
       "url": "https://open.spotify.com/track/0GInNohJz3OQ3iPNJJob5h"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 195662,
-      "name": "Prefissi",
-      "url": "https://open.spotify.com/track/19ik2WLPpAWJIy3k3Q2a2L"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Probl\u00e8mes",
         "url": "https://open.spotify.com/album/4TgBFy1SSFw7m5lhx2wut6"
@@ -425,7 +429,31 @@
       "url": "https://open.spotify.com/track/6wdpb17i1FDIexi6x1vTke"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "Pochi Pochi",
+        "url": "https://open.spotify.com/album/1TsFStYVqJM83KkGYGfZjc"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Nardi",
+          "url": "https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        }
+      ],
+      "duration_ms": 225566,
+      "name": "Pochi Pochi",
+      "url": "https://open.spotify.com/track/34wBFYmnw1sBcHyrhoYAS0"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Plaquette",
         "url": "https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY"
@@ -441,7 +469,7 @@
       "url": "https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
@@ -465,7 +493,7 @@
       "url": "https://open.spotify.com/track/63udU8F2jbjyys9BpVgPdU"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -481,7 +509,31 @@
       "url": "https://open.spotify.com/track/1Bf3WnU7Y6YGP0k4RbbErB"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "QUELLO VERO",
+        "url": "https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        },
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
+        }
+      ],
+      "duration_ms": 113289,
+      "name": "Incelofanata",
+      "url": "https://open.spotify.com/track/4BTsPU8475oogvce7JnbN7"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "TRENCHES BABY",
         "url": "https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx"
@@ -501,27 +553,7 @@
       "url": "https://open.spotify.com/track/2bhDasGoszlTbf5xdPLK8c"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "PROVINCIALE",
-        "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        },
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        }
-      ],
-      "duration_ms": 194163,
-      "name": "Copacabana (feat. Paky)",
-      "url": "https://open.spotify.com/track/7rjR36OF6ZPXc6bdoNYKBp"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
@@ -545,7 +577,7 @@
       "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Nove Chiamate",
         "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
@@ -569,7 +601,7 @@
       "url": "https://open.spotify.com/track/77FQ6iMaTn7fT9IMdMnpEn"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
@@ -589,7 +621,7 @@
       "url": "https://open.spotify.com/track/6ACIFlukKJSlmOHCypNppR"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
@@ -613,7 +645,7 @@
       "url": "https://open.spotify.com/track/5BpDpH327X9ExEJr4Oa5UY"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "ERROR 442",
         "url": "https://open.spotify.com/album/3cvVjdslZvZ8Ti1BeDXxEU"
@@ -633,23 +665,39 @@
       "url": "https://open.spotify.com/track/7qaLq0r4JWX1JWS3wnxfCH"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
-        "name": "La scelta migliore",
-        "url": "https://open.spotify.com/album/6EShO7rLEYaShAM9Vomj6d"
+        "name": "Pararara",
+        "url": "https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q"
       },
       "artists": [
         {
-          "name": "emanuelino",
-          "url": "https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU"
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
         }
       ],
-      "duration_ms": 136500,
-      "name": "La scelta migliore",
-      "url": "https://open.spotify.com/track/5kcBjDdqmDMKb58wyrkO7D"
+      "duration_ms": 163118,
+      "name": "Pararara",
+      "url": "https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 195662,
+      "name": "Prefissi",
+      "url": "https://open.spotify.com/track/19ik2WLPpAWJIy3k3Q2a2L"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "T\u00e9l\u00e9phone",
         "url": "https://open.spotify.com/album/7Ma1ztWIbhK1vX1Fu24WEt"
@@ -669,7 +717,7 @@
       "url": "https://open.spotify.com/track/76YfUp0DTnERvtZokyU6jm"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "C\u0153ur blanc",
         "url": "https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k"
@@ -689,7 +737,7 @@
       "url": "https://open.spotify.com/track/5SK1G2SAbNA7alM7gWbVdr"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Come Te",
         "url": "https://open.spotify.com/album/0ZyYjmUSP7WTi3Qw2uBjOX"
@@ -709,23 +757,7 @@
       "url": "https://open.spotify.com/track/6GRm5bcmVArMsd0SaUSn1V"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "2 Minuti",
-        "url": "https://open.spotify.com/album/3URcr6a2WSqc6631IzhxDF"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "2 Minuti",
-      "url": "https://open.spotify.com/track/6Pb347IsDVdenArQDkWjAa"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "TE STESSO",
         "url": "https://open.spotify.com/album/5hjiIwxMtHzmJakFskfNdJ"
@@ -741,7 +773,27 @@
       "url": "https://open.spotify.com/track/6ldbvvvkwxZ1Y6TE0hZToS"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "Hobby",
+        "url": "https://open.spotify.com/album/1WF9yeyNbA47SM7hmXuMdP"
+      },
+      "artists": [
+        {
+          "name": "Iltunsi",
+          "url": "https://open.spotify.com/artist/5EKDPmA7YDn5cJfATS9SvJ"
+        },
+        {
+          "name": "Tiasnow",
+          "url": "https://open.spotify.com/artist/4dDSt0CPKbrOP6zL1XcDUe"
+        }
+      ],
+      "duration_ms": 122867,
+      "name": "Hobby",
+      "url": "https://open.spotify.com/track/6qjdgIfEAfN5t5SSn6aFHl"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
@@ -761,7 +813,7 @@
       "url": "https://open.spotify.com/track/2XvuRXS2yd2E8RanepS7SJ"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "TRENCHES BABY",
         "url": "https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx"
@@ -789,23 +841,7 @@
       "url": "https://open.spotify.com/track/2lezD2AMp8JxPCdG4SPxbX"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Ogni 2 Minuti",
-        "url": "https://open.spotify.com/album/0LKW0DkGUMLkZFMhSMuHiA"
-      },
-      "artists": [
-        {
-          "name": "Yunes LaGrintaa",
-          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
-        }
-      ],
-      "duration_ms": 155256,
-      "name": "Ogni 2 Minuti",
-      "url": "https://open.spotify.com/track/7BXVTzqKxMZywSrdIJm9yQ"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
@@ -825,23 +861,31 @@
       "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
-        "name": "Hustle Mixtape",
-        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
+        "name": "TRENCHES BABY",
+        "url": "https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        },
+        {
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
         }
       ],
-      "duration_ms": 167234,
-      "name": "RapStar",
-      "url": "https://open.spotify.com/track/3Emty7Nc9QUIuHRPcwopjA"
+      "duration_ms": 184501,
+      "name": "TONIGHT (feat. Vale Pain)",
+      "url": "https://open.spotify.com/track/71uYj5xxe1m3e8O0LZ8oh9"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -861,7 +905,39 @@
       "url": "https://open.spotify.com/track/7z8jf3dtJPXUxlc9xJCKEh"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "La scelta migliore",
+        "url": "https://open.spotify.com/album/6EShO7rLEYaShAM9Vomj6d"
+      },
+      "artists": [
+        {
+          "name": "emanuelino",
+          "url": "https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "La scelta migliore",
+      "url": "https://open.spotify.com/track/5kcBjDdqmDMKb58wyrkO7D"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "2 Minuti",
+        "url": "https://open.spotify.com/album/3URcr6a2WSqc6631IzhxDF"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "2 Minuti",
+      "url": "https://open.spotify.com/track/6Pb347IsDVdenArQDkWjAa"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "PROVINCIALE",
         "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
@@ -905,7 +981,23 @@
       "url": "https://open.spotify.com/track/3I8BqKLrfzZk1oGRe2pcnV"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
+      "album": {
+        "name": "Ogni 2 Minuti",
+        "url": "https://open.spotify.com/album/0LKW0DkGUMLkZFMhSMuHiA"
+      },
+      "artists": [
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "duration_ms": 155256,
+      "name": "Ogni 2 Minuti",
+      "url": "https://open.spotify.com/track/7BXVTzqKxMZywSrdIJm9yQ"
+    },
+    {
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Welcome To Favelas",
         "url": "https://open.spotify.com/album/1VPtdhsrRbB0hjfmU7yYHa"
@@ -925,47 +1017,7 @@
       "url": "https://open.spotify.com/track/0m0usigRxg1cvBo0ezr0ts"
     },
     {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "21 Freestyle",
-        "url": "https://open.spotify.com/album/58apMhROHuGnRpGbjtJ00u"
-      },
-      "artists": [
-        {
-          "name": "Sacky",
-          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "21 Freestyle",
-      "url": "https://open.spotify.com/track/2WnKNBq12Hf8BzTdrjwEkP"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "TRENCHES BABY",
-        "url": "https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx"
-      },
-      "artists": [
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        },
-        {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
-        },
-        {
-          "name": "Vale pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        }
-      ],
-      "duration_ms": 184501,
-      "name": "TONIGHT (feat. Vale Pain)",
-      "url": "https://open.spotify.com/track/71uYj5xxe1m3e8O0LZ8oh9"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
+      "added_at": "2023-01-26 23:01:00",
       "album": {
         "name": "Impliqu\u00e9",
         "url": "https://open.spotify.com/album/5fgtL0uuUrVb3bdI6UIKhC"
@@ -979,46 +1031,6 @@
       "duration_ms": 148531,
       "name": "Impliqu\u00e9",
       "url": "https://open.spotify.com/track/1w6tgbznwNUxacR6bTAYxY"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "DJUNGLE UNCHAINED",
-        "url": "https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO"
-      },
-      "artists": [
-        {
-          "name": "TY1",
-          "url": "https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        },
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "MONOPOLIO (feat. Kid Yugi, Nerissima Serpe)",
-      "url": "https://open.spotify.com/track/7KTseTI8UdMT4WUIOmjTQC"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "La frappe",
-        "url": "https://open.spotify.com/album/1yzeZKSK0huK56Xa1G5q7T"
-      },
-      "artists": [
-        {
-          "name": "Philip",
-          "url": "https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "La frappe",
-      "url": "https://open.spotify.com/track/1jWcKHWj89EdYllfpVvops"
     }
   ],
   "unique_name": "Street Culto",

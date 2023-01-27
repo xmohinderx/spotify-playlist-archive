@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels, with FiFi Zhang on cover\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,970 likes - 65 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,095 likes - 65 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 34 | [Bocha Bocha](https://open.spotify.com/track/5NSjxBfnO0Kfn4qL1slvbo) | [Tom Zeta](https://open.spotify.com/artist/1KagGHhjHBqLcu6fySzMsy) | [Gonna Get You Real Good EP](https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4) | 5:59 |
 | 35 | [Forgotten Sentiment](https://open.spotify.com/track/0aDeph3nbtNMNvtxyQAJoD) | [HIGHLITE](https://open.spotify.com/artist/5JLz9lhEIydGByUE1BZ5Bl) | [Controlled Demolition EP](https://open.spotify.com/album/56oz7if7WaYBGZcJtV8Hh4) | 6:14 |
 | 36 | [Magnitude](https://open.spotify.com/track/3pbd75U4EQdTsVliPZRrVI) | [Veljko Jovic](https://open.spotify.com/artist/3DGFlQr2WXYD4KFHbRD7j0), [Forniva](https://open.spotify.com/artist/54eegIFdFo0hijRryXN53G) | [Magnitude](https://open.spotify.com/album/69l5ySfPscs0NLMEwqkcH4) | 6:56 |
-| 37 | [Kenja \- Original Mix](https://open.spotify.com/track/120z5rJl6YbN2dWgvfYpoj) | [Kakura](https://open.spotify.com/artist/7xtxaYQdbT8wE2d5ZYoqMz), [M\-Sol DEEP](https://open.spotify.com/artist/2j1S4kLH9gewTyJiGYbDCm) | [Kenja](https://open.spotify.com/album/0NAGnOpKnVcTO1ZwRcdTpQ) | 7:29 |
+| 37 | [Kenja](https://open.spotify.com/track/3BQvBDejWb1on79eeB9jEp) | [Kakura](https://open.spotify.com/artist/7xtxaYQdbT8wE2d5ZYoqMz) | [Kenja](https://open.spotify.com/album/09gPgKnfRzsHEa4FI6rJ4i) | 7:29 |
 | 38 | [Home](https://open.spotify.com/track/3Unshf7Oguqu9kuCXWsIUg) | [Maurice Lessing](https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r) | [Home](https://open.spotify.com/album/7bQ1ECZni7uBx1o44CC3er) | 3:56 |
 | 39 | [La Tarde](https://open.spotify.com/track/1Xj0RrKNhfYpmkIsk3zahq) | [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [AtcG](https://open.spotify.com/artist/3ejR3scp9kP7ywaI0VHXYj) | [La Tarde](https://open.spotify.com/album/45fk1CIi7UXkWKR8wIADtd) | 2:43 |
 | 40 | [Only](https://open.spotify.com/track/4ZFpT2ddtAUS0zhfJVsT8v) | [clÜ](https://open.spotify.com/artist/2atSE7arL9jh7UIA12taEK), [River](https://open.spotify.com/artist/08oedgngPljnWYeet9T9VS) | [We Are Incurzion Vol.3](https://open.spotify.com/album/3K3INPVOMAfR2Y52os5h5D) | 4:46 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 64 | [Super Stroke](https://open.spotify.com/track/7GecLEJ8s2kAmyjpB2cBLX) | [Eden Burns](https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2) | [Big Beat Manifesto Vol\. V](https://open.spotify.com/album/73qqk6hd5Okw6WQxMKaXOo) | 6:21 |
 | 65 | [We'll Maintain](https://open.spotify.com/track/23zt3ZGWNVbSIAIgyn0ZAz) | [Olive T](https://open.spotify.com/artist/0zBBG1zpWWiF5OZYSoD1Ud) | [We'll Maintain](https://open.spotify.com/album/2PA2vTLplYN9RJEVyIdMbD) | 5:07 |
 
-Snapshot ID: `MTY3NDY2MjYxMCwwMDAwMDAwMGZkODczOTIxMzVjNWQxZjgwMmFkZGY5NjFlMTY5Njg2`
+Snapshot ID: `MTY3NDY2MjYxMCwwMDAwMDAwMDM1ZjY5NmIzZTFhM2JlZGRkNGM2OTBmYjhjZWY3MTNl`

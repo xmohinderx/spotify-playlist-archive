@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Idgitaf",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Mezzaluna",
   "name": "RADAR Indonesia",
   "tracks": [
     {
@@ -766,6 +766,24 @@
       "duration_ms": 225416,
       "name": "In Situ",
       "url": "https://open.spotify.com/track/6pNdQ1iQsK2z3nJeWoU7Ba"
+    },
+    {
+      "album": {
+        "name": "In Situ (Remix Version)",
+        "url": "https://open.spotify.com/album/33Wa80qjHTh7UnaxyT0i7N"
+      },
+      "artists": [
+        {
+          "name": "Mezzaluna",
+          "url": "https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180050,
+      "name": "In Situ (Remix Version)",
+      "url": "https://open.spotify.com/track/2BzHGy5g8keLdzk18JWd1n"
     },
     {
       "album": {

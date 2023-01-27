@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Aut\u00e9nticos Decadentes y Andrea Echeverri en portada.",
-  "num_followers": 411325,
+  "num_followers": 411396,
   "original_name": "skad'ak\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1ODE0MywwMDAwMDAwMDNjMTIxMDA2NmQyZDBiNjAyMGZmYWY5MmIzMjhkZGRm",
+  "snapshot_id": "MTY3MTE1ODE0MywwMDAwMDAwMDZlZTk5ODU0MjBiNWIwY2RjYWI5NTc4MGVmYjM0NzRl",
   "tracks": [
     {
       "added_at": "2022-12-16 02:35:42",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Aconcagua (El Gobierno de las Tribus)",
-        "url": "https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Te Sigo",
-      "url": "https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "20 Minutos",
         "url": "https://open.spotify.com/album/2PQBj0ptx0kRiSFO4xrdSq"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 329026,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/0udUVjtkBzlCvZcfcYQzS4"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Aconcagua (El Gobierno de las Tribus)",
+        "url": "https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Te Sigo",
+      "url": "https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Morocha",
-        "url": "https://open.spotify.com/album/09e12okaJoA5p30Cj18XMP"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 156655,
-      "name": "Morocha",
-      "url": "https://open.spotify.com/track/5A7HJmgaZU0buq4hpuqZ4Q"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Flores para los Muertos",
         "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 217133,
       "name": "Nada Que Perder",
       "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Morocha",
+        "url": "https://open.spotify.com/album/09e12okaJoA5p30Cj18XMP"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 156655,
+      "name": "Morocha",
+      "url": "https://open.spotify.com/track/5A7HJmgaZU0buq4hpuqZ4Q"
     },
     {
       "added_at": "2021-12-21 17:00:46",

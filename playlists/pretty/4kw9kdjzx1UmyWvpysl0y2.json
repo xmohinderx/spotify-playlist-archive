@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127161,
+  "num_followers": 127168,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzkzNixlZThkNWYxYTg5MDUzNzM2YTNkZTU2ZjVjOGJhMzdiYTkxM2ZlMjVm",
+  "snapshot_id": "MzkzOSxiYzg3MDc4MzExZjUxNTA0ZThjNTVlNmVkNjMwYjY3OGZjOTFlZjZh",
   "tracks": [
+    {
+      "added_at": "2023-01-26 17:35:20",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/60XUyh545wo0P4HHuVQPsI"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        },
+        {
+          "name": "Crimson Child",
+          "url": "https://open.spotify.com/artist/3HfDytr1a4fQhrC2J29K6v"
+        }
+      ],
+      "duration_ms": 228605,
+      "name": "The Dark",
+      "url": "https://open.spotify.com/track/3mE2sIa33kLQtTcSTWrylq"
+    },
     {
       "added_at": "2023-01-25 21:22:55",
       "album": {
@@ -1119,26 +1143,6 @@
       "duration_ms": 242000,
       "name": "On The Run",
       "url": "https://open.spotify.com/track/0UABxGfYqdlM8ZorINo9Ia"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "CODES",
-        "url": "https://open.spotify.com/album/1VNGWcGNCBkUGFyFiC0Kdj"
-      },
-      "artists": [
-        {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
-        },
-        {
-          "name": "Macntaj",
-          "url": "https://open.spotify.com/artist/0erl2oe9fDqYo37ueBiG8K"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "CODES",
-      "url": "https://open.spotify.com/track/7HNsbDFhZhs2qhEjC2W3om"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

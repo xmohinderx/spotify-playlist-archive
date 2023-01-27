@@ -1361,7 +1361,7 @@
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 244739,
+      "duration_ms": 244877,
       "name": "El 30",
       "url": "https://open.spotify.com/track/69hfiBHL9bNwyh10jI1OGD"
     },
@@ -5214,7 +5214,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 190636,
       "name": "Las Rayas",
       "url": "https://open.spotify.com/track/3NR39Ys3YaqjdckVC5tAhY"
@@ -6522,6 +6522,28 @@
       "duration_ms": 190850,
       "name": "Por Clave el 13",
       "url": "https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z"
+    },
+    {
+      "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
       "album": {

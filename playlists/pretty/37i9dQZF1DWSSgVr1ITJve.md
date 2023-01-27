@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 
 > Afro culture mixed with Arab vibes\. Cover: kouz1
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,028 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,290 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 31 | [Maalich](https://open.spotify.com/track/0jUPTAe0FAHcxnWh90SysJ) | [Mng917](https://open.spotify.com/artist/2PcEZiroZNJhGwc7h2ou0V), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Lwind](https://open.spotify.com/artist/7FKJkQg0IVsjN3r4m60rl9) | [Maalich](https://open.spotify.com/album/5UF4EOwp1LcK3kSx8KxEYX) | 3:25 |
 | 32 | [Africain](https://open.spotify.com/track/2SUjVxW58Oof4jbBt8oe5c) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh) | 3:44 |
 | 33 | [El Madi](https://open.spotify.com/track/2nqE5xiKvAJgfKzDlA7Fk5) | [Yazan Elsaeed](https://open.spotify.com/artist/7a6aLOJH8iBCd0JSH78F4k), [Mr Choco](https://open.spotify.com/artist/6Gm8ZCNMGwbLcM5snYUr5v) | [El Madi](https://open.spotify.com/album/1vBQ92dp5JxEDDlckKfvRk) | 3:33 |
-| 34 | [Machine](https://open.spotify.com/track/0sPSSoP7c0XA2amzNyMGCl) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Machine](https://open.spotify.com/album/3x7jdeopuJuMe3Z8yuiiwg) | 2:18 |
+| 34 | [Machine](https://open.spotify.com/track/4BMmGaUZVOlLIREgZKZh9a) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Machine](https://open.spotify.com/album/1Oy60tLp9CAJ5Vw9ixeLU0) | 2:18 |
 | 35 | [Sabbinaha](https://open.spotify.com/track/4q7MWhLldYu7gyXRoHax5g) | [The C!rcle](https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [A 249 Experience, Vol\. 1](https://open.spotify.com/album/5aPoFtmnkmYctV1f1vlVfI) | 3:02 |
 | 36 | [hasta la vista.](https://open.spotify.com/track/3uwmEuilZP6sA0TLLNxd9x) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [hasta la vista.](https://open.spotify.com/album/6eOrS43L3EuwK6ZmFYRt1W) | 2:48 |
 | 37 | [Allo Mama](https://open.spotify.com/track/0X3j7PKZYinokK4csqWKdZ) | [NEGAPHONE](https://open.spotify.com/artist/3Sfm2ZwC8k4XhMMJpP4hgM) | [Allo Mama](https://open.spotify.com/album/4eInwPKDlzgMU0c9s90UdV) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 49 | [Wouli Liya](https://open.spotify.com/track/1p3pNSpRB88Dn6w0DQGQXr) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [KALY](https://open.spotify.com/artist/0eRtInepLNyuZsho3EonUS), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Poison Ou Antidote](https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k) | 4:01 |
 | 50 | [Daba Dor Lyam](https://open.spotify.com/track/6buWpyhPbG548hIFSLWl6f) | [Imin](https://open.spotify.com/artist/0z8woBkNEdy6w2mCIJBgrM) | [Daba Dor Lyam](https://open.spotify.com/album/4aAxNTyg1941owSY3NCwXk) | 3:42 |
 
-Snapshot ID: `MTY3Mzg2NTkzMSwwMDAwMDAwMDg3MzI4MGRiOGE0MmVjMjNiMmQ1MDg3MjQ1NjA3NmI3`
+Snapshot ID: `MTY3Mzg2NTkzMSwwMDAwMDAwMDYxYTFkNzg3ZTVkY2M3YTdkNDNiZGZhNmJmYTI3ZWFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,269 likes - 300 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,957 likes - 300 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,7 +223,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 213 | [Dreamland](https://open.spotify.com/track/4uibQ1QnVrTyyZhNIQCJNy) | [Kosibeats](https://open.spotify.com/artist/2Yrmz6F0FhNkIVOt2Lfco3) | [Dreamland](https://open.spotify.com/album/4mIclMcVwFvAUVpiLxSWGW) | 2:06 |
 | 214 | [9th dream.](https://open.spotify.com/track/2PPdzCmfoOebVe79eApvCk) | [Gabriel Cavalcanti](https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL), [96 Zeus](https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n) | [9th dream.](https://open.spotify.com/album/2K9hii8ZIhwj9vOlqTGNEl) | 1:55 |
 | 215 | [So Delightful](https://open.spotify.com/track/1gXIL1uhqbYLPvoEaHETed) | [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Crispy](https://open.spotify.com/artist/0FeKA3PTgdvhkEPyuVNJ8g) | [So Delightful](https://open.spotify.com/album/6JN2nu4e3qHtUC7vK9Ouhi) | 2:42 |
-| 216 | [Nautica](https://open.spotify.com/track/5AJzzWNatcCUqTVFWf5nbu) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Stories Of The Night](https://open.spotify.com/album/5CUhyxdz9Vuld9kukeLB5Q) | 1:39 |
+| 216 | [Nautica](https://open.spotify.com/track/5AJzzWNatcCUqTVFWf5nbu) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Stories Of The Night](https://open.spotify.com/album/5CUhyxdz9Vuld9kukeLB5Q) | 1:39 |
 | 217 | [Origami Boats](https://open.spotify.com/track/5ruHQahXOQRyTVIstFZYAl) | [LUQĘT](https://open.spotify.com/artist/2ZSBQcpkzOiygKAT0uRmaH), [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [Origami Boats](https://open.spotify.com/album/23XVI7DBghBnYk2yBmp3px) | 2:17 |
 | 218 | [hygge](https://open.spotify.com/track/5WnkgCt1MxxIBDjBhFuSby) | [Dubinskaya](https://open.spotify.com/artist/1E1Q7PgHTDmEWYSmh1FMwB) | [hygge](https://open.spotify.com/album/5DGPgb1I4zBjwOZlA8wfd3) | 2:18 |
 | 219 | [sacred](https://open.spotify.com/track/7CsZbcZ5flFfyWC9qQkZAU) | [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa), [Hetalia](https://open.spotify.com/artist/5eQGoVSiVVTrKejjwVU9hu) | [Red Embers](https://open.spotify.com/album/3h0wpd1BFnJCyeqohL0fVg) | 2:36 |

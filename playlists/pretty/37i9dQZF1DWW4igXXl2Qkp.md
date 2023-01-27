@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Billacheck
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,117 likes - 41 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,257 likes - 41 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 17 | [Neighborhood Trapstars](https://open.spotify.com/track/7zXZQEkHUclAqRTJXLIip4) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Neighborhood Trapstars](https://open.spotify.com/album/1MiESrjwiTznQNnptHeaDD) | 2:33 |
 | 18 | [STAR GIRL](https://open.spotify.com/track/4nxghAmdZbPJfkF6tBIUqR) | [NombreKari](https://open.spotify.com/artist/02qDjHpQqiweSIMa5VKa8t) | [STAR GIRL](https://open.spotify.com/album/0doSsu5ka585zPrsD7iyTS) | 4:40 |
 | 19 | [RIDE FOR YOU](https://open.spotify.com/track/0ix9MmR8QyMaDypgh32tkJ) | [FendiAlone](https://open.spotify.com/artist/6SJTZ859a50PtoQ7C9wh8n) | [RIDE FOR YOU](https://open.spotify.com/album/7sIhyzLWZkYBqtZvl5qs1s) | 2:02 |
-| 20 | [From the Bottom of My Heart](https://open.spotify.com/track/737VDcUcUmJ8DrZI02o5Hv) | [LEW](https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4) | [From the Bottom of My Heart](https://open.spotify.com/album/746BbdWExqTkxX4ag9LMWX) | 2:04 |
+| 20 | [froM thE bottoM oF mY hearT](https://open.spotify.com/track/737VDcUcUmJ8DrZI02o5Hv) | [LEW](https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4) | [froM thE bottoM oF mY hearT](https://open.spotify.com/album/746BbdWExqTkxX4ag9LMWX) | 2:04 |
 | 21 | [Models](https://open.spotify.com/track/2JsEgOHKxDPNyybV0roWYn) | [4L JAVI](https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a) | [Models](https://open.spotify.com/album/4nxEkS0v7QqboJ3to45x0B) | 1:44 |
 | 22 | [UnderWater](https://open.spotify.com/track/3HW7UGBfsoYS2KIjZN3gwk) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [SHELLS](https://open.spotify.com/album/5uf5Lw6nR3McOPXYOqHU41) | 3:50 |
 | 23 | [Patience \(feat\. NoCap\)](https://open.spotify.com/track/2KUoS9OMlDLszLly6JcJGi) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [State of Emergency](https://open.spotify.com/album/5ieJkFRIUKmwu4ltjL5fC5) | 2:46 |

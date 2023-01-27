@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: tonari no Hanako
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,836 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,854 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 49 | [Baby you](https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Baby you](https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1) | 2:43 |
 | 50 | [TOXIC](https://open.spotify.com/track/3vY8iprF0bxJDGZefsf9ra) | [KESSO](https://open.spotify.com/artist/6DB4aM9HCe0puiLQT1xIWh), [Asa Wu](https://open.spotify.com/artist/7DUqRmQf5vjpuxTUEGGEe8), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq) | [TOXIC](https://open.spotify.com/album/5s6BNl3EouN77xZc6xyptW) | 2:46 |
 | 51 | [Otona ni Naritakunai](https://open.spotify.com/track/0XUe7tUkUwq6S953e4Pqi9) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [Otona ni Naritakunai](https://open.spotify.com/album/6o9LMxYI8hp76Nc8Jsk1Db) | 3:27 |
-| 52 | [Rainy Talk \- Shady Monk Remix](https://open.spotify.com/track/1QEwfkBc0QByf0SGR0Qwww) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv), [Shady Monk](https://open.spotify.com/artist/5oagHUnrrs68cnBmXa3UB8) | [Rainy Talk Remixies](https://open.spotify.com/album/53INaaiMjGDFlTs9S19Xzr) | 3:40 |
+| 52 | [Rainy Talk \- Shady Monk Remix](https://open.spotify.com/track/1QEwfkBc0QByf0SGR0Qwww) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [Rainy Talk Remixies](https://open.spotify.com/album/53INaaiMjGDFlTs9S19Xzr) | 3:40 |
 | 53 | [エソア](https://open.spotify.com/track/6JIIzfPFXofQvU7h4OQqWy) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [エソア](https://open.spotify.com/album/3hZzkUyGJ3s7sngXGLDOo5) | 3:29 |
 | 54 | [ちょうどいい](https://open.spotify.com/track/2RQtBIL9AwbRPg3fRsD2Gh) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [ちょうどいい](https://open.spotify.com/album/2qeEeymaJkft95IGi3p0ii) | 4:01 |
 | 55 | [チリソース](https://open.spotify.com/track/0puXMsnxiQiInzLWsAAdQo) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [チリソース](https://open.spotify.com/album/5dE8yVhNvFYkxVVMux6Kk9) | 3:04 |

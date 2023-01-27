@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vedha
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,916 likes - 146 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,950 likes - 146 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 5 | [Ghost Theme Music](https://open.spotify.com/track/2Z4NzOBH9myKArrhWnGxtp) | [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy) | [Ghost](https://open.spotify.com/album/1KjaMLaFgkWhSpt87g07xX) | 0:52 |
 | 6 | [Neene Dhoretha Mele](https://open.spotify.com/track/5OYCiNZwl6iV408VSZ1U4y) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Indu Nagaraj](https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk) | [Neene Dhoretha Mele \(From "Love Birds"\)](https://open.spotify.com/album/6Hhn7pXxFmjeAGm7WkMJew) | 3:01 |
 | 7 | [Ninnanu Nodida](https://open.spotify.com/track/1nmAuxcjll2bz13MSvKClR) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Baanadariyalli](https://open.spotify.com/album/2BAU7DUrMb3gtkUhMvF3YW) | 4:16 |
-| 8 | [Mallika Mallika \(From “Shaakuntalam”\)](https://open.spotify.com/track/1NH8OPuWfymlmtna2IM8Ew) | [Ramya Behra](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Mallika Mallika \(From “Shaakuntalam”\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0NIYdS8lI5Qc2Afr4EPiJA) | 5:09 |
+| 8 | [Mallika Mallika \(From “Shaakuntalam”\)](https://open.spotify.com/track/1NH8OPuWfymlmtna2IM8Ew) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Mallika Mallika \(From “Shaakuntalam”\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0NIYdS8lI5Qc2Afr4EPiJA) | 5:09 |
 | 9 | [Bucket song \- From "Dove Master"](https://open.spotify.com/track/4n5mBQbMK3zoMu3nB3uJsf) | [Shakeel Ahmad](https://open.spotify.com/artist/2WwQXiC4kHB16DykZHjVOp) | [Bucket song \(From "Dove Master"\)](https://open.spotify.com/album/4v5ygNCVafP3RWHNbQfISR) | 3:57 |
 | 10 | [Yenne Hodiyo Time Alli](https://open.spotify.com/track/4xn4lXQpjrBDjbva2VxWAH) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Siren](https://open.spotify.com/album/2SUuiyRFQZDpW4tbXXPy5M) | 4:58 |
 | 11 | [Pushpavati \(From "Kranti"\)](https://open.spotify.com/track/4N9kWGZh8QGjsXK2q79EHF) | [V\. Hari Krishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Yogaraj Bhat](https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1) | [Pushpavati \(From "Kranti"\)](https://open.spotify.com/album/6SxEMY4PKpgNMXNsBsh8Si) | 4:04 |

@@ -398,7 +398,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 118624,
       "name": "Ana\u00efs",
       "url": "https://open.spotify.com/track/3ypf3tHRl2c8FsJRwAhDew"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 136400,
       "name": "Cascade",
       "url": "https://open.spotify.com/track/17kS1C8S66paes4e3YNYsb"
@@ -1651,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7jZ6NHedqFMgyDYY6tYAR1"
+      },
+      "artists": [
+        {
+          "name": "Gunnel Boek",
+          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96052,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0udVYSGaMFWLUafXmTNbKI"
+    },
+    {
+      "album": {
         "name": "Fluctuation",
         "url": "https://open.spotify.com/album/2EDTrhwBnKEjH9enTvBBzR"
       },
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 187500,
       "name": "Glendale Walk",
       "url": "https://open.spotify.com/track/30bKGGrB4CdUU1FrhDbjE8"
@@ -1864,7 +1882,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 133000,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/05RikarvGDzw4HktIAxxKR"
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 190554,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/0pPoqOUNEIYkxJupkj25vW"
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 156250,
       "name": "Julia",
       "url": "https://open.spotify.com/track/3q5Z6pJSHH8s2ClI7WS45p"
@@ -2494,7 +2512,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 116750,
       "name": "Julien's Sonata",
       "url": "https://open.spotify.com/track/7EYrMGo39r2fqmpItkJiqu"
@@ -2906,7 +2924,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 154680,
       "name": "Lost Nights",
       "url": "https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb"
@@ -2946,6 +2964,24 @@
       "duration_ms": 151761,
       "name": "Lost Words",
       "url": "https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/7luSqY1qpa7KQWiyHMsSVR"
+      },
+      "artists": [
+        {
+          "name": "George Hart",
+          "url": "https://open.spotify.com/artist/6OxbaDDKrLN3DgWrl4JHS6"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125590,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/6kPyPhrxTK85bPB3DuvjME"
     },
     {
       "album": {
@@ -3068,7 +3104,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 176187,
       "name": "Melopedie",
       "url": "https://open.spotify.com/track/7kAf6Xha70vAio4LsIhJqT"
@@ -3126,6 +3162,24 @@
       "duration_ms": 120160,
       "name": "Memories",
       "url": "https://open.spotify.com/track/29oFfCDtNaQF9q7ilyLpz9"
+    },
+    {
+      "album": {
+        "name": "2 6/8's",
+        "url": "https://open.spotify.com/album/1nOBI1Q1nABv8n0LAf7z4b"
+      },
+      "artists": [
+        {
+          "name": "Alfred Mizzi",
+          "url": "https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Mend Fences",
+      "url": "https://open.spotify.com/track/0tORg30nNgobvxNPeS2J5r"
     },
     {
       "album": {
@@ -3428,7 +3482,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 129121,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR"
@@ -4220,7 +4274,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 116000,
       "name": "Rannoch Moor",
       "url": "https://open.spotify.com/track/5M9WoeUS6hg8b1YRWMFx0M"
@@ -4238,7 +4292,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 144698,
       "name": "Ravi",
       "url": "https://open.spotify.com/track/6Im3KsvOIR6E3ZhfAlDJvr"
@@ -4260,6 +4314,32 @@
       "duration_ms": 146000,
       "name": "reflect",
       "url": "https://open.spotify.com/track/5FRKQvwwsBVwHKfG5QuL4h"
+    },
+    {
+      "album": {
+        "name": "Reflection of the Sun",
+        "url": "https://open.spotify.com/album/121MTKnvLvqbEY72mRWzYv"
+      },
+      "artists": [
+        {
+          "name": "Anna Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw"
+        },
+        {
+          "name": "Anna Dager",
+          "url": "https://open.spotify.com/artist/2So39o3NqsjLtwwohABw5B"
+        },
+        {
+          "name": "Hanna Ekstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187158,
+      "name": "Reflection of the Sun",
+      "url": "https://open.spotify.com/track/0n4u4Io2kCV3DzjB0jhsnj"
     },
     {
       "album": {
@@ -4328,7 +4408,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 146750,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/58SnNvrsUOD9Nj1Ox1AOwz"
@@ -4652,7 +4732,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 169578,
       "name": "silbermond",
       "url": "https://open.spotify.com/track/1sWI71ajS4mERuwG2k5vvD"
@@ -4706,7 +4786,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 152812,
       "name": "Sinkadus",
       "url": "https://open.spotify.com/track/0dLptfXupd4zsgppQgrvVO"
@@ -4742,7 +4822,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 164294,
       "name": "Skog",
       "url": "https://open.spotify.com/track/6SO2Oh12IbukgnkeSBOxW9"
@@ -4782,6 +4862,24 @@
       "duration_ms": 124000,
       "name": "Small River",
       "url": "https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln"
+    },
+    {
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/5EUQ58DddJWsBvzcKnjewJ"
+      },
+      "artists": [
+        {
+          "name": "Lucile Colbert",
+          "url": "https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/2XpT1bngtM9pHoYEsfoYuu"
     },
     {
       "album": {
@@ -5074,7 +5172,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 114400,
       "name": "Sweet Redolence",
       "url": "https://open.spotify.com/track/0BXq9t3wTA8HMqFPvGxZYf"
@@ -5114,6 +5212,28 @@
       "duration_ms": 167295,
       "name": "Tagtraum",
       "url": "https://open.spotify.com/track/5bNtJUg1EE3XP1dMM79Xvl"
+    },
+    {
+      "album": {
+        "name": "Petit Voyage",
+        "url": "https://open.spotify.com/album/3hjU7EeqyluWQwZZgpsi2V"
+      },
+      "artists": [
+        {
+          "name": "Franz Bengtsson",
+          "url": "https://open.spotify.com/artist/3COlYosH1Bb7wTq2HRum8I"
+        },
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197472,
+      "name": "Technicolor Dreamscape",
+      "url": "https://open.spotify.com/track/3FCvuX0Q89RnHmGsSkZQ5U"
     },
     {
       "album": {
@@ -5204,7 +5324,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 136500,
       "name": "The Morning After",
       "url": "https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e"
@@ -5420,7 +5540,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 167778,
       "name": "Twin Fifteens",
       "url": "https://open.spotify.com/track/0KLG1xUVWBQHX6JVPW7IoA"
@@ -5564,7 +5684,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 198994,
       "name": "Vaguely Reminiscent",
       "url": "https://open.spotify.com/track/6iK4gKiROE3gw0jfHxgBjU"
@@ -5766,6 +5886,24 @@
       "duration_ms": 164100,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX"
+    },
+    {
+      "album": {
+        "name": "Waltz for Lizzy",
+        "url": "https://open.spotify.com/album/6G7moqFyfKhBbnb5lxvnjF"
+      },
+      "artists": [
+        {
+          "name": "Cove Hollis",
+          "url": "https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109019,
+      "name": "Waltz for Lizzy",
+      "url": "https://open.spotify.com/track/70xS3AcW7idZcUrvFEzMln"
     },
     {
       "album": {

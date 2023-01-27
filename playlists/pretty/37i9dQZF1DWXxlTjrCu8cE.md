@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,112 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,142 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 6 | [A Pagodeira \- Ao Vivo](https://open.spotify.com/track/3DT6PksB7jmHufnbDwgHnu) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Marvvila na Área \(Ao Vivo\)](https://open.spotify.com/album/2g4R36g4rMzR8ST2xLQu39) | 3:35 |
 | 7 | [Me Perdoa](https://open.spotify.com/track/7dH7wklD8mfSt2Iu0jeh32) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Me Perdoa](https://open.spotify.com/album/50p3j1Wu9Cqw5AUL5Wb4xO) | 3:39 |
 | 8 | [Mensagem Apagada](https://open.spotify.com/track/7xoW9ae2eFXgzw2JFkttmq) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Juntos](https://open.spotify.com/album/485t8hL1NImUvBsHgqIyqP) | 2:55 |
-| 9 | [Sem Vestígios \- Ao Vivo](https://open.spotify.com/track/5MfQgdHlFrSNMCbOJG7SwE) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Resenha Do Mumu \(Ao Vivo\)](https://open.spotify.com/album/2TNzcYmRDzUiM12IBnsB6r) | 2:59 |
+| 9 | [Sem Vestígios \- Ao Vivo](https://open.spotify.com/track/1nSPAth89EfuveeRHe8ctr) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Resenha Do Mumu \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/4iLtLzfRb7oXYLmAkFU6A2) | 2:59 |
 | 10 | [Fechado pra Visitação \- Ao Vivo](https://open.spotify.com/track/3A56jDCxEpWn0IkdLh3BEW) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Fechado pra Visitação \(Ao Vivo\)](https://open.spotify.com/album/5qUCiZA9zpzXNOvFJrWVUt) | 3:53 |
 | 11 | [Chama no Privado \- Ao Vivo](https://open.spotify.com/track/6NOo9OLa1TKwdJhMbnwDU1) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Live Mixturadin](https://open.spotify.com/album/2KrDjAWQ4FR4M2QKwAhOCW) | 2:43 |
 | 12 | [O Mundo Dá Voltas](https://open.spotify.com/track/72Dd1GTMVp8EaJof85xICq) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [O Mundo Dá Voltas](https://open.spotify.com/album/6vsf2KnzQqYCk3ZooylJ7o) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 49 | [Metade Vai, Metade Fica \- Ao Vivo](https://open.spotify.com/track/2wjPolk9weQkKhsNtjaTSs) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK) | [Close Friends \(Ao Vivo\)](https://open.spotify.com/album/0JDiWK0YzOeg45K86BLY8S) | 2:43 |
 | 50 | [Não Vai Ter Fim \- Ao Vivo](https://open.spotify.com/track/4Iza3iQfmkWrY1dVEa51Sv) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9) | [Oi, Prazer BG! Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0ev4mqX85Oa3g2TnNYN4LO) | 3:07 |
 
-Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMGU3MzBkOTFhM2M4YTczMzdkOTM3OWZhYWQzMGRkYmZi`
+Snapshot ID: `MTY2OTgxNTkwMCwwMDAwMDAwMDRlMmM4MTgwYjk2NWFiMjhkY2U0MGZmNDUyNjUxNDQ5`

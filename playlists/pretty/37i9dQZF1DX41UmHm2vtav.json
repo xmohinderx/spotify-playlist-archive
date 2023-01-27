@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 379176,
+  "num_followers": 379336,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzkxODQ1OSwwMDAwMDAwMDhhOWFmYTFmZTcyNTcxOGYxMGJiZjgyYTgyYmM0YjU4",
+  "snapshot_id": "MTY3MzkxODQ1OSwwMDAwMDAwMDA0NDUzYzcyYWNkYjg1N2M5NTg3YTJjZWYwYTYwMTBj",
   "tracks": [
     {
       "added_at": "2022-12-23 03:01:00",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2022-12-23 03:01:00",
       "album": {
-        "name": "Melhores Bailes Do Mundo",
-        "url": "https://open.spotify.com/album/7kac11XDCz4yjuQbBo2AC4"
-      },
-      "artists": [
-        {
-          "name": "Almanac",
-          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
-        },
-        {
-          "name": "WATILA GYN",
-          "url": "https://open.spotify.com/artist/5IfPngxE3IRk9PjoZlVv5l"
-        },
-        {
-          "name": "DANNTZ!",
-          "url": "https://open.spotify.com/artist/4MxOyYxbnV9jnoL6FxAy16"
-        }
-      ],
-      "duration_ms": 121904,
-      "name": "Melhores Bailes Do Mundo",
-      "url": "https://open.spotify.com/track/2TS8C1dUfL61wQVr8NgDrW"
-    },
-    {
-      "added_at": "2022-12-23 03:01:00",
-      "album": {
         "name": "Me Cura",
         "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 183652,
       "name": "Me Cura",
       "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
+    },
+    {
+      "added_at": "2022-12-23 03:01:00",
+      "album": {
+        "name": "Melhores Bailes Do Mundo",
+        "url": "https://open.spotify.com/album/7kac11XDCz4yjuQbBo2AC4"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        },
+        {
+          "name": "WATILA GYN",
+          "url": "https://open.spotify.com/artist/5IfPngxE3IRk9PjoZlVv5l"
+        },
+        {
+          "name": "DANNTZ!",
+          "url": "https://open.spotify.com/artist/4MxOyYxbnV9jnoL6FxAy16"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "Melhores Bailes Do Mundo",
+      "url": "https://open.spotify.com/track/2TS8C1dUfL61wQVr8NgDrW"
     },
     {
       "added_at": "2022-12-23 03:01:00",

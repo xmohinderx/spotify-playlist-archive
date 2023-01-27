@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. Cover: Gloss Up
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,461 likes - 129 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,599 likes - 129 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 62 | [Slow Things Down](https://open.spotify.com/track/195ZUcGZme10t5qhepxDcW) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [Slow Things Down](https://open.spotify.com/album/22GdWUXbKSGafghkdOKQ0y) | 3:04 |
 | 63 | [Where Dem Dollas At \(feat\. DJ Paul & Juicy J\)](https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Enquiring Minds](https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp) | 4:29 |
 | 64 | [Black](https://open.spotify.com/track/45k6Qexq0mavylcq1hNl4G) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:08 |
-| 65 | [Bruce lee \(feat\. Xhulooo\)](https://open.spotify.com/track/1gCqbCM6zZG8gapl5yF3bs) | [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [ONLY ONE](https://open.spotify.com/album/5qocotft3C4USMvQA7Jgge) | 2:28 |
+| 65 | [Bruce lee \(feat\. Xhulooo\)](https://open.spotify.com/track/1gCqbCM6zZG8gapl5yF3bs) | [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [ZAYSKII](https://open.spotify.com/artist/6NMF1g2abQPPoLHfOEub0f) | [ONLY ONE](https://open.spotify.com/album/5qocotft3C4USMvQA7Jgge) | 2:28 |
 | 66 | [SHOUTOUT TO GOD](https://open.spotify.com/track/6AkmJXoBXjGiKApUYja2oD) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [SHOUTOUT TO GOD](https://open.spotify.com/album/28EZdK7KBlzLRjmaJ1auwN) | 1:44 |
 | 67 | [Traction](https://open.spotify.com/track/4sVTrHsdIofN3d1xyCECHg) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [LeakOut](https://open.spotify.com/album/78ZIwVQBzYdrUN9dpvr3cn) | 2:19 |
 | 68 | [Wasted](https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Wasted](https://open.spotify.com/album/6L96Vte8baOFYbFB3HIIqZ) | 2:37 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 83 | [Chikita](https://open.spotify.com/track/6Uo1AcQaWeUfsO6r1Jv0kI) | [Ossaiofficial](https://open.spotify.com/artist/2aLiV8RwMwIo9KyfaGCJW5) | [Chikita](https://open.spotify.com/album/0DuX66NXnNUSxSPgI0cBas) | 3:09 |
 | 84 | [tell me wassup](https://open.spotify.com/track/5biqoFARvu6ZPpUUUCFABb) | [MASY.](https://open.spotify.com/artist/0mB5bRJsOsOb9sHlj264yE) | [tell me wassup](https://open.spotify.com/album/6MvobYa06li3eocU7jkVEb) | 3:00 |
 | 85 | [Boma Moto](https://open.spotify.com/track/2B4bBd8tmT7JGmwg2svEct) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Boma Moto](https://open.spotify.com/album/5wsSj9qX534eND5nu6MI7h) | 2:57 |
-| 86 | [From the Bottom of My Heart](https://open.spotify.com/track/737VDcUcUmJ8DrZI02o5Hv) | [LEW](https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4) | [From the Bottom of My Heart](https://open.spotify.com/album/746BbdWExqTkxX4ag9LMWX) | 2:04 |
+| 86 | [froM thE bottoM oF mY hearT](https://open.spotify.com/track/737VDcUcUmJ8DrZI02o5Hv) | [LEW](https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4) | [froM thE bottoM oF mY hearT](https://open.spotify.com/album/746BbdWExqTkxX4ag9LMWX) | 2:04 |
 | 87 | [Southend Baby](https://open.spotify.com/track/1sSRZpBy7XIXip9HyiQwSD) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [Almost Home](https://open.spotify.com/album/0S6XMnrUgP8RsJlmBp0akp) | 2:05 |
 | 88 | [HTAFL](https://open.spotify.com/track/0ezt3b76CRzJcmCMmCVmbw) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Lost Files](https://open.spotify.com/album/5SLvT5S6ZthRj2sOqD649Q) | 2:55 |
 | 89 | [Christmas In Toronto](https://open.spotify.com/track/1SKHJqZR3rvW3JJWswjTbj) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Christmas In Toronto](https://open.spotify.com/album/1Ka9X6JbpWCNKJorDF0E9g) | 3:59 |

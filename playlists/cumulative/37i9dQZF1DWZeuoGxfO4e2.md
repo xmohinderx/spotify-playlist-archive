@@ -4,7 +4,7 @@
 
 > Celebramos a las figuras legendarias del rock en nuestro idioma\. Foto: Soda Stereo.
 
-386 songs - 1 day 2 hr 32 min
+387 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Cuando Pase El Temblor \- Remasterizado 2007](https://open.spotify.com/track/5BgRSqd7xAhEfWgA9opde9) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Me Verás Volver \(Hits & Más\)](https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb) | 3:49 | 2021-07-30 |  |
 | [Cuando Respiro En Tu Boca](https://open.spotify.com/track/5EhButiJbrrRbO3qguSKkg) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht) | [Peces](https://open.spotify.com/album/4pvzTHkfxiiP6cCpePwSPm) | 3:28 | 2021-07-30 | 2022-04-16 |
 | [Cuando seas grande](https://open.spotify.com/track/7s7K8xZfO91PglDD3uZ8m3) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Solos en América](https://open.spotify.com/album/31dqtZzlyjvHxESq85xTZQ) | 4:26 | 2021-07-30 | 2022-07-28 |
+| [Cuando Seas Grande](https://open.spotify.com/track/25NeGSHqObqSJg79oir7pB) | [Miguel Mateos \- Zas](https://open.spotify.com/artist/3YG18nhGaJkR1F6VpcnSG6) | [Solos en América](https://open.spotify.com/album/2xuIhYMc9jjZDUynjd64RM) | 4:25 | 2022-05-20 |  |
 | [Cuando Seas Grande \- En Vivo](https://open.spotify.com/track/593vEZ2DVlQKnEqyf8nuej) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Cóctel](https://open.spotify.com/album/6MejeMIFK2vSxmFawbTlSd) | 6:03 | 2021-07-30 | 2022-06-01 |
 | [Cuervos](https://open.spotify.com/track/6KcrNelaZU4z1nKJCXnovT) | [La Barranca](https://open.spotify.com/artist/0YqvkptJ9UkIVIZNrBogln) | [Lo Eterno](https://open.spotify.com/album/4TDgqEee92BDBZFBPsL583) | 4:05 | 2021-07-30 | 2022-04-19 |
 | [Cuéntame Tu Vida](https://open.spotify.com/track/6P9iLOJ9FwBe6S9xrdp5jK) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 4:23 | 2021-07-30 | 2022-04-19 |
@@ -248,7 +249,7 @@
 | [María](https://open.spotify.com/track/18T2uIJteJ7o1W8XLFRpaN) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:51 | 2021-07-30 | 2022-04-12 |
 | [Mataz](https://open.spotify.com/track/2ir4Ufg38HFRifw3aSJRZS) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht) | [Todos Sus Exitos](https://open.spotify.com/album/1HsH1MLgDYOjHBotDDsxct) | 5:49 | 2021-07-30 | 2022-04-19 |
 | [Mañana campestre](https://open.spotify.com/track/1O15BhPK0r4giiiOSBPaZi) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Tiempo de Resurrección](https://open.spotify.com/album/0xo8Hz2MCVk56MFnFFWbrV) | 2:50 | 2021-07-30 | 2022-04-21 |
-| [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 | 2021-07-30 |  |
+| [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 | 2021-07-30 | 2023-01-27 |
 | [Me Quieres Cotorrear](https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [La Historia](https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH) | 3:17 | 2021-07-30 | 2022-04-21 |
 | [Me Vuelvo Cada Día Más Loca](https://open.spotify.com/track/2k9phP6kKgm5lXjArSGXJC) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Oro](https://open.spotify.com/album/0KctrNDyzGOuwagPkmkq2y) | 3:37 | 2021-07-30 | 2022-04-19 |
 | [Mejor No Hablar de Ciertas Cosas](https://open.spotify.com/track/4FapqmBF1lcrZf98FHfr1O) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Obras Cumbres](https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP) | 4:41 | 2021-07-30 | 2022-04-16 |

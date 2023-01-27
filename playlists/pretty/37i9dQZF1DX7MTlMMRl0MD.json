@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Prince Royce",
-  "num_followers": 1880494,
+  "num_followers": 1880747,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGUyNDE4OTI0OWUyYTBlZjEwZDBhYjU1ZGQ3YjZkNGVh",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDBkMThmYTIyZWQ1YWU4YjY1N2VjMzY5NTY2NjNkNjk4",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1011,6 +1011,30 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        },
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 174222,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
         "name": "Volvio el Dolor",
         "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
       },
@@ -1087,30 +1111,6 @@
       "duration_ms": 261519,
       "name": "Llora Alma M\u00eda",
       "url": "https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        },
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 174222,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Religi\u00f3n",
-        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
       },
       "artists": [
         {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 220903,
-      "name": "Religi\u00f3n",
-      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
+      "duration_ms": 207200,
+      "name": "HASTA QUE LA MUERTE NOS SEPARE",
+      "url": "https://open.spotify.com/track/0t40u904M4HGa3vCcrttUP"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1247,34 +1247,34 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+        "name": "Religi\u00f3n",
+        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
         }
       ],
-      "duration_ms": 207200,
-      "name": "HASTA QUE LA MUERTE NOS SEPARE",
-      "url": "https://open.spotify.com/track/0t40u904M4HGa3vCcrttUP"
+      "duration_ms": 220903,
+      "name": "Religi\u00f3n",
+      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
     },
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "El Duque de la Bachata",
-        "url": "https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx"
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/6WtVPPM7gYHQtH3rTo7MXU"
       },
       "artists": [
         {
-          "name": "Joan Soriano",
-          "url": "https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry"
+          "name": "Jalil Lopez",
+          "url": "https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN"
         }
       ],
-      "duration_ms": 310613,
-      "name": "Vocales de amor",
-      "url": "https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa"
+      "duration_ms": 229369,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/6WtVPPM7gYHQtH3rTo7MXU"
+        "name": "El Duque de la Bachata",
+        "url": "https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx"
       },
       "artists": [
         {
-          "name": "Jalil Lopez",
-          "url": "https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN"
+          "name": "Joan Soriano",
+          "url": "https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry"
         }
       ],
-      "duration_ms": 229369,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0"
+      "duration_ms": 310613,
+      "name": "Vocales de amor",
+      "url": "https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Que Te Vaya Bonito",
-        "url": "https://open.spotify.com/album/6Qf2illWMZl8ZqyfiTtqE5"
-      },
-      "artists": [
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        }
-      ],
-      "duration_ms": 203327,
-      "name": "Me Voy a Quitar de en Medio",
-      "url": "https://open.spotify.com/track/7rimeZ5UeR4R1FUj32U1us"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Episodes",
         "url": "https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 217222,
       "name": "Solo Quise Quererte",
       "url": "https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Que Te Vaya Bonito",
+        "url": "https://open.spotify.com/album/6Qf2illWMZl8ZqyfiTtqE5"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "duration_ms": 203327,
+      "name": "Me Voy a Quitar de en Medio",
+      "url": "https://open.spotify.com/track/7rimeZ5UeR4R1FUj32U1us"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
+        "name": "Bachata De Amor Vol. 1",
+        "url": "https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Que Vuelva",
+      "url": "https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
         "name": "Don Juan & Cupido",
         "url": "https://open.spotify.com/album/4KC31PfZSQ53iKKyexuKUx"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 225500,
       "name": "Don Juan & Cupido",
       "url": "https://open.spotify.com/track/13Dm4KwsIxVVlAYXMR31xp"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Bachata De Amor Vol. 1",
-        "url": "https://open.spotify.com/album/4tA0IDegh1uKvvCxRhiw5v"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Que Vuelva",
-      "url": "https://open.spotify.com/track/02mRXALeZiRPUl1TXhNsno"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Traici\u00f3nalo Conmigo",
-        "url": "https://open.spotify.com/album/4XUP2O5nbnpRD2hhp5vsJJ"
+        "name": "Duos Entre Amigos",
+        "url": "https://open.spotify.com/album/2aZsa1dc6ynwuv3yXjyZDC"
       },
       "artists": [
         {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+          "name": "Alexandra",
+          "url": "https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX"
+        },
+        {
+          "name": "Monchy Capricho",
+          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Traici\u00f3nalo Conmigo",
-      "url": "https://open.spotify.com/track/5NmKNwXMyZiWcPlL6QcXUT"
+      "duration_ms": 245054,
+      "name": "En Cada Aniversario",
+      "url": "https://open.spotify.com/track/5p8f4fXfH83ixykJnIkUMD"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1671,22 +1675,18 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Duos Entre Amigos",
-        "url": "https://open.spotify.com/album/2aZsa1dc6ynwuv3yXjyZDC"
+        "name": "Traici\u00f3nalo Conmigo",
+        "url": "https://open.spotify.com/album/4XUP2O5nbnpRD2hhp5vsJJ"
       },
       "artists": [
         {
-          "name": "Alexandra",
-          "url": "https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX"
-        },
-        {
-          "name": "Monchy Capricho",
-          "url": "https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua"
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
         }
       ],
-      "duration_ms": 245054,
-      "name": "En Cada Aniversario",
-      "url": "https://open.spotify.com/track/5p8f4fXfH83ixykJnIkUMD"
+      "duration_ms": 225000,
+      "name": "Traici\u00f3nalo Conmigo",
+      "url": "https://open.spotify.com/track/5NmKNwXMyZiWcPlL6QcXUT"
     },
     {
       "added_at": "2023-01-20 05:00:00",

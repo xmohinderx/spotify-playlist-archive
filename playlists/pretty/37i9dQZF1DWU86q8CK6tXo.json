@@ -1,12 +1,12 @@
 {
   "description": "New music from female-identifying artists. Cover: <a href=\u201cspotify:artist:39i5B6umzWzkfMe12JrMwW\u201d>TiaCorine</a>  ",
-  "num_followers": 33645,
+  "num_followers": 33668,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwODQwMCwwMDAwMDAwMDQ1NTU1ZGU1NDkxZDBhZjMwMTg3ZjJhMWVmZGQ5MTM4",
+  "snapshot_id": "MTY3MjgwODQwMCwwMDAwMDAwMGIyZmU3MWYxYTI5OGFhNTllM2I4ZmZiZDIwNmExNTkx",
   "tracks": [
     {
       "added_at": "2023-01-04 05:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/2jlVRYddldWw0PvazEfALS"
-      },
-      "artists": [
-        {
-          "name": "Nohemy",
-          "url": "https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P"
-        }
-      ],
-      "duration_ms": 155306,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/29M6pJLcQiCaO15QhPrHFT"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "Amor No Correspondido",
         "url": "https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 163124,
       "name": "Amor No Correspondido",
       "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/2jlVRYddldWw0PvazEfALS"
+      },
+      "artists": [
+        {
+          "name": "Nohemy",
+          "url": "https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/29M6pJLcQiCaO15QhPrHFT"
     },
     {
       "added_at": "2023-01-04 05:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-04 05:00:00",
       "album": {
-        "name": "Roadkill",
-        "url": "https://open.spotify.com/album/4I6KtoBDbRNR7R5DvQA7Nv"
-      },
-      "artists": [
-        {
-          "name": "fanclubwallet",
-          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Roadkill",
-      "url": "https://open.spotify.com/track/4UV8lFpuRuIS3UXJ1AbmTM"
-    },
-    {
-      "added_at": "2023-01-04 05:00:00",
-      "album": {
         "name": "ap vol. I",
         "url": "https://open.spotify.com/album/36BzRzxO8gAWRzbM9M0fMe"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 194915,
       "name": "parking lot",
       "url": "https://open.spotify.com/track/1VRthxEwloKl9WDlesQRUc"
+    },
+    {
+      "added_at": "2023-01-04 05:00:00",
+      "album": {
+        "name": "Roadkill",
+        "url": "https://open.spotify.com/album/4I6KtoBDbRNR7R5DvQA7Nv"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Roadkill",
+      "url": "https://open.spotify.com/track/4UV8lFpuRuIS3UXJ1AbmTM"
     },
     {
       "added_at": "2023-01-04 05:00:00",

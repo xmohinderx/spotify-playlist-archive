@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 424582,
+  "num_followers": 424671,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMGVkMGIxNWQ3Mjk0OWIzZWI1MjdjYmI0MGY1MGZiNTRj",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDkyY2U1YTEzZmVkNzdmYzBiZDI4ZDdlZDFkZWVhYjM2",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Lonesome as a Shadow",
-        "url": "https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "Ain't Gotta Worry Child",
-      "url": "https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Half The City",
@@ -623,6 +607,22 @@
       "duration_ms": 254333,
       "name": "Grass Is Greener",
       "url": "https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Lonesome as a Shadow",
+        "url": "https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "Ain't Gotta Worry Child",
+      "url": "https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 144106,
-      "name": "Love Like There's No Tomorrow",
-      "url": "https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Roll With Me",
         "url": "https://open.spotify.com/album/4kh6j2obPW8dd5SxkCWjf7"
       },
@@ -1161,24 +1145,20 @@
       "url": "https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3"
     },
     {
-      "added_at": "2022-11-11 05:01:00",
+      "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Shake! Shake! Shake!",
-        "url": "https://open.spotify.com/album/6ys0lM4z9JxdSdnpTjBPG8"
+        "name": "Healing Tide",
+        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
       },
       "artists": [
         {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        },
-        {
-          "name": "Liam St. John",
-          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 188869,
-      "name": "Shake! Shake! Shake!",
-      "url": "https://open.spotify.com/track/12hFIo6qXSlxyDluikwc73"
+      "duration_ms": 144106,
+      "name": "Love Like There's No Tomorrow",
+      "url": "https://open.spotify.com/track/0pom84iOS1iE0OCc1vWJBX"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1213,6 +1193,26 @@
       "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
     },
     {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Shake! Shake! Shake!",
+        "url": "https://open.spotify.com/album/6ys0lM4z9JxdSdnpTjBPG8"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        },
+        {
+          "name": "Liam St. John",
+          "url": "https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx"
+        }
+      ],
+      "duration_ms": 188869,
+      "name": "Shake! Shake! Shake!",
+      "url": "https://open.spotify.com/track/12hFIo6qXSlxyDluikwc73"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Undercover Bros.",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/1Q1qs8DABP6SgIyRyadg8s"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        }
-      ],
-      "duration_ms": 209475,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "U kin B the Sun",
@@ -1259,6 +1243,22 @@
       "duration_ms": 289293,
       "name": "The Kids Are Having None Of It",
       "url": "https://open.spotify.com/track/1okc9vBreGSAqixbVaAGUH"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/1Q1qs8DABP6SgIyRyadg8s"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 209475,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R"
     }
   ],
   "unique_name": "Blues Roots",

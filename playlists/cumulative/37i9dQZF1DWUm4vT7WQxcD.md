@@ -4,7 +4,7 @@
 
 > Relax and unwind to the soothing hum of the electric fan.
 
-128 songs - 6 hr 16 min
+130 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Heat pump fan](https://open.spotify.com/track/1iNJRY6ycCPmxllaZN0R77) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Large Fans](https://open.spotify.com/album/17PreSe3pwlu8bwO5fiRP8) | 3:36 | 2022-11-14 |  |
 | [Heater Fan](https://open.spotify.com/track/2gNsmYQYBwYTSHsQF7brkU) | [Binaural Recorders](https://open.spotify.com/artist/7hhDQEEcoLGpUSpCbVgSWE) | [Heater Fan](https://open.spotify.com/album/7yYL1CCF8UsBdFG7vxMDk6) | 3:13 | 2022-11-14 |  |
 | [Hotel Mechanical Room Fans](https://open.spotify.com/track/5hjj03IzLbcJCsTSe0DxYm) | [Elvine](https://open.spotify.com/artist/3udPu5UsIIGPmxUVqhjj2n) | [Hotel Mechanical Room Fans](https://open.spotify.com/album/255M9hOmQP2bKFum6ACX6J) | 3:01 | 2022-11-14 |  |
+| [Hotel Room Ventilation](https://open.spotify.com/track/0zURUnlaUXVXeWUditdl6t) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Ventilation Units](https://open.spotify.com/album/48usbs0Xig94maoMQZaOjE) | 2:56 | 2023-01-26 |  |
 | [Industrial Fan](https://open.spotify.com/track/2tw1OtnzTPN34ClEqmKhwB) | [The Right Noises](https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ) | [ASMR Enviroments](https://open.spotify.com/album/1zwU28wkpBKhCM32okzJ9a) | 1:26 | 2022-07-29 |  |
 | [Instant Sleep Fan \- Seamless](https://open.spotify.com/track/7ujhfEhPrdFZtCoW6NBS0F) | [Drowse Off](https://open.spotify.com/artist/318hciCz2MiTnD1Mgb0BBG) | [Instant Sleep Fan](https://open.spotify.com/album/1EUs7ojZseL1y1nKaDgrFV) | 2:49 | 2022-11-14 |  |
 | [Large boxed cooling fan at low rpm](https://open.spotify.com/track/4r6zEH3u06RSTgUWcln9GW) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Large Fans](https://open.spotify.com/album/17PreSe3pwlu8bwO5fiRP8) | 3:19 | 2022-11-14 |  |
@@ -84,6 +85,7 @@
 | [Light Winds](https://open.spotify.com/track/5Y4merexrMCRJIrZN2VTkz) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Light Winds](https://open.spotify.com/album/7JqK532hRp6n0n7nnOa38c) | 1:52 | 2022-09-23 |  |
 | [Long Fan](https://open.spotify.com/track/5EPT4CyGG4DwIcg4Ojw00g) | [White Noise Sound Relax](https://open.spotify.com/artist/2iUpJ398dkoIlxUanIUV1y) | [Fan Noise](https://open.spotify.com/album/5aVcfTvhO7sS4z0A2SUfNU) | 6:56 | 2022-07-29 | 2022-12-08 |
 | [Low AC Fan Rumble](https://open.spotify.com/track/1N6h47vHFECrzCbuxW5KaL) | [The Sound Project](https://open.spotify.com/artist/7hvpPDMQNBvtA1laewrJQq) | [Low AC Fan Rumble](https://open.spotify.com/album/5QaHQlL87Wbx4xLo5fN2YQ) | 2:50 | 2022-11-14 |  |
+| [Machine Hall](https://open.spotify.com/track/3xhInmpdC67u7AeHpvLaEq) | [ASMR Fan\-Tastic](https://open.spotify.com/artist/40jkzlYRbhcXi5GNug4JCB) | [Workspace Siesta](https://open.spotify.com/album/2YvDKXRG7Sb8qPBlNMdPbV) | 2:54 | 2023-01-26 |  |
 | [Mainframe Room](https://open.spotify.com/track/586PEGpYDmt1hotOlipJGH) | [Audio Hall](https://open.spotify.com/artist/2oE6i58qqic0JnyKf7rqtI) | [Server Room Sleep](https://open.spotify.com/album/0qgd74EN3Yz5wVl5gClMkS) | 2:55 | 2022-11-14 |  |
 | [Moviing Big Fan](https://open.spotify.com/track/1QQzN5ktJlUnnRmqrJQJ3p) | [XLD Library](https://open.spotify.com/artist/3nohoYUaqIOqoYxHnjNK7q) | [Moviing Big Fan](https://open.spotify.com/album/3Yc0zeeWxAFXVNxK5mPaao) | 2:22 | 2022-11-14 |  |
 | [My Fantastic Fan](https://open.spotify.com/track/1CnECvwZu3t8BpTWSZwJLq) | [Doze Off](https://open.spotify.com/artist/4qPfn548UaFRQO5XBJuE4E) | [My Fantastic Fan](https://open.spotify.com/album/2RkgmYjVUP7PS9JjziLj8U) | 3:05 | 2022-11-14 |  |

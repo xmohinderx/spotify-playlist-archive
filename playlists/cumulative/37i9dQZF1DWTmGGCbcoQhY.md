@@ -4,7 +4,7 @@
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-225 songs - 14 hr 57 min
+226 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2022-06-07 |  |
 | [Cumbia Buena](https://open.spotify.com/track/1JcHIgVQUT1HLFzU4GFQoU) | [Rocko Paez](https://open.spotify.com/artist/1zFPc155enhXpQFBxMpxkd), [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Cumbia Buena](https://open.spotify.com/album/2SAwTBkJjpbzSzM0SEzseC) | 3:50 | 2022-12-09 | 2023-01-11 |
 | [Cumbia Cholula](https://open.spotify.com/track/7pY2KAZTR53YbiLtbYLPvI) | [Chucho Ponce Los Daddys de Chinantla](https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im) | [Cumbia Cholula](https://open.spotify.com/album/08jIxZs7LBfg0BvbINxAE1) | 5:08 | 2021-11-30 | 2022-11-13 |
-| [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 | 2021-11-30 |  |
+| [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 | 2021-11-30 | 2023-01-27 |
 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 | 2021-11-30 |  |
 | [Cumbia en el Monte](https://open.spotify.com/track/7HhdWmhwqbGexRdR0nGwTc) | [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Historia Musical de Pedro Laza y Sus Pelayeros](https://open.spotify.com/album/2cTU8fP1nTHpCcrUc7DYdx) | 2:34 | 2022-03-08 | 2022-06-08 |
 | [Cumbia En La Playa](https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 5:24 | 2022-06-07 |  |
@@ -192,6 +192,7 @@
 | [Si Te Hubieras Quedado](https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ) | [Grupo la Ley Siete de Enrike Fortunato](https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI) | [Si Te Hubieras Quedado](https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F) | 4:38 | 2022-03-08 |  |
 | [Sin Censura](https://open.spotify.com/track/1lAqzEHhPQdTPOIPfYOfjc) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq) | [Sin Censura](https://open.spotify.com/album/5ZD8xjHeIxf6EJg3Xp1FkY) | 3:26 | 2022-12-09 | 2023-01-11 |
 | [Solo Tu](https://open.spotify.com/track/3SJfj2pDuRYhNn9fLwMT5g) | [Los Piratas de Tony Mey](https://open.spotify.com/artist/2Ilxa6TGuc2YwL3a1fp0hl) | [Sentimiento de Cumbia](https://open.spotify.com/album/0jroY5Ek16BmPPvwD1pPcB) | 5:07 | 2022-03-08 | 2022-11-13 |
+| [Solo Tu](https://open.spotify.com/track/1PZOhTwLZSMkpXAWi7dUZR) | [Los Piratas de Tony Mey](https://open.spotify.com/artist/2Ilxa6TGuc2YwL3a1fp0hl) | [Solo Tu](https://open.spotify.com/album/22IBF7b0Xvsdzo1VBdDTGG) | 5:07 | 2022-06-07 |  |
 | [Solo una Noche](https://open.spotify.com/track/2UBLFphvbPCnnau4kxBWOU) | [El Grupo De Mayor Impacto Apasionadoz](https://open.spotify.com/artist/3UoG37LDn0i3I43VIeS2J8) | [Y De Nuevo Otra Vez !!!](https://open.spotify.com/album/04h1TCgDD9MFwQ63HZAD2A) | 3:47 | 2022-10-27 |  |
 | [Solo una noche](https://open.spotify.com/track/4xw8WhjE2N4GEbpvuBPXlp) | [Grupo Apasionadoz](https://open.spotify.com/artist/77OaNaVi2ujQNhBVk4jod3) | [Y llegó papá](https://open.spotify.com/album/7AP4rtW2IBFtsKs9rtto6t) | 3:47 | 2022-11-12 | 2022-11-13 |
 | [Soy Maraquero](https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII) | [Kual](https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo) | [Lo Mas Ka\-Bron Sonidero](https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA) | 5:00 | 2021-11-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Oruam e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 177848,
+  "num_followers": 178309,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDQ4MzY3NiwwMDAwMDAwMGQ4NGFiMWNhNzZlMWRhZGFjODU2MmRiZDVmNTVjZGZh",
+  "snapshot_id": "MTY3NDQ4MzY3NiwwMDAwMDAwMDQzOTVlYmJhYWY1MmEzYTc1YzdjNDU5NmIxODQ5OGM0",
   "tracks": [
     {
       "added_at": "2023-01-23 14:21:16",
@@ -939,6 +939,26 @@
     {
       "added_at": "2023-01-23 14:21:16",
       "album": {
+        "name": "Mimos",
+        "url": "https://open.spotify.com/album/59sZdRkWb71F0pU1v8unwF"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Mimos",
+      "url": "https://open.spotify.com/track/5zSJYov8aD46ZzSWI9esQo"
+    },
+    {
+      "added_at": "2023-01-23 14:21:16",
+      "album": {
         "name": "SUV PRATA",
         "url": "https://open.spotify.com/album/6PJMkptGy0mgvP0exF9CUy"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 149647,
       "name": "SUV PRATA",
       "url": "https://open.spotify.com/track/0pMpTL5FukBIuPQiUZJVom"
-    },
-    {
-      "added_at": "2023-01-23 14:21:16",
-      "album": {
-        "name": "Mimos",
-        "url": "https://open.spotify.com/album/59sZdRkWb71F0pU1v8unwF"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "Mimos",
-      "url": "https://open.spotify.com/track/5zSJYov8aD46ZzSWI9esQo"
     },
     {
       "added_at": "2023-01-23 14:21:16",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-01-23 14:21:16",
       "album": {
-        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 141557,
-      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
-    },
-    {
-      "added_at": "2023-01-23 14:21:16",
-      "album": {
         "name": "PIX (feat. 4Genesis & Cax Camp)",
         "url": "https://open.spotify.com/album/34qA1ODM4HJ2pXMMUXDFUx"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 250200,
       "name": "PIX (feat. 4Genesis & Cax Camp)",
       "url": "https://open.spotify.com/track/5aw9n45WzW5VQ7XHyBFHkl"
+    },
+    {
+      "added_at": "2023-01-23 14:21:16",
+      "album": {
+        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 141557,
+      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
     },
     {
       "added_at": "2023-01-23 14:21:16",

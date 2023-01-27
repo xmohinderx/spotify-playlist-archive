@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-821 songs - 1 day 18 hr 44 min
+822 songs - 1 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [i will wait](https://open.spotify.com/track/1YXVMeN337f44L0fQIAqpL) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [i will wait](https://open.spotify.com/album/5DTaoaiBbc6L1OPyA5aSiA) | 2:07 | 2021-10-29 | 2022-05-09 |
 | [i wish](https://open.spotify.com/track/4wHABCED6aRyoB1X3LRnxE) | [Yung Sum](https://open.spotify.com/artist/2kMfOad7vI5MUraDWi8gUS) | [i wish](https://open.spotify.com/album/6Uj1UuExWvdOItgc5Xp97w) | 3:22 | 2021-11-19 | 2022-04-19 |
 | [I Won!](https://open.spotify.com/track/3KQDLIK3HZkPJg7HS0d7jx) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [I Won!](https://open.spotify.com/album/3j3lsfoCPCp93p1eUL1dbq) | 3:20 | 2021-06-25 | 2022-07-24 |
+| [i'd find you](https://open.spotify.com/track/3oxjt9spq7O1WtCYb1SjAW) | [phendste](https://open.spotify.com/artist/2bZ9fMqMY3l3GGzjgJJRyH) | [under the rug](https://open.spotify.com/album/2kzc0zjJvPVyr5640MxGyt) | 2:45 | 2023-01-26 |  |
 | [I'll Be Around](https://open.spotify.com/track/6tlUFZscsKCqGmdTYI8t3E) | [FLOOR CRY](https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx) | [I'll Be Around](https://open.spotify.com/album/7h3aDi8yZufurRMau0m64a) | 2:31 | 2019-07-30\* | 2021-08-27 |
 | [i'll break my heart \(so you don't have to\)](https://open.spotify.com/track/2g53SdqqFWRB1kDNLHmjag) | [sarya](https://open.spotify.com/artist/1jIluixQm1CH6lBpeq46f5) | [i'll break my heart \(so you don't have to\)](https://open.spotify.com/album/4Mf0A0DdeUFs5iOCPY47VW) | 5:00 | 2021-03-19 | 2022-04-12 |
 | [I'm Just Snacking](https://open.spotify.com/track/4q3KkucNQOahEc2e8ZzxWL) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm Just Snacking](https://open.spotify.com/album/4656EeOAPQ2s7wzEr0uFcn) | 3:18 | 2019-07-30\* | 2022-04-20 |
@@ -769,7 +770,7 @@
 | [Vince Vaughn](https://open.spotify.com/track/19FtkEWP32JaJhN79GjBaa) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vince Vaughn](https://open.spotify.com/album/3K7rzPoSfKjl4ZdfdSl5Es) | 2:54 | 2021-08-27 | 2022-04-29 |
 | [Volvernos a Ver](https://open.spotify.com/track/37KNkyB6TDqVYrNl2ZXwK6) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Canciones Que Hice en Mi Habitación](https://open.spotify.com/album/1Gr7WNfsyWx3d3ZYhqd9y5) | 1:04 | 2021-05-15 | 2021-05-27 |
 | [Voyage](https://open.spotify.com/track/7fLKkKXKRMOSx9UMhJkNo9) | [Rheehab](https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu) | [Voyage](https://open.spotify.com/album/6FRJuikLEt3T5aToUFIEva) | 2:39 | 2021-08-27 | 2022-04-16 |
-| [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 | 2021-10-25 |  |
+| [VROOM VROOM](https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [VROOM VROOM](https://open.spotify.com/album/5uhLcex9bi6Z84KsbR3jIc) | 3:06 | 2021-10-25 | 2023-01-27 |
 | [VVS](https://open.spotify.com/track/2V7HUZS37OpOR2TLxWZPC4) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [Freaks and Wild Things](https://open.spotify.com/album/4cxHPZ1YROwurrbsei3h58) | 3:20 | 2022-09-14 | 2022-12-16 |
 | [VVS](https://open.spotify.com/track/7BgsZCBMarOfvTkHQXe1TQ) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [VVS](https://open.spotify.com/album/5LbjS306ZqHJSBM0MiPIQo) | 3:20 | 2021-11-19 | 2022-06-08 |
 | [Waiter](https://open.spotify.com/track/57DgZXPfjOBt5BIAH1H2bg) | [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [You Don't See Me](https://open.spotify.com/album/00FxI3tMsgKkAfNr5TBCLC) | 3:17 | 2019-12-14 | 2021-05-28 |

@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop in the U.S. Cover: MoneySign Suede",
-  "num_followers": 20282,
+  "num_followers": 20326,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NDU3MywwMDAwMDAwMDhkNDBlZmJlZTFhYzdiNDliZDY5NjNkNWViNzUzYTRi",
+  "snapshot_id": "MTY3MzI0NDU3MywwMDAwMDAwMDkxNWQ3ODkwNThiMDZiMzc3OTM4Yzc0NTk1MDcyNjQ4",
   "tracks": [
     {
       "added_at": "2023-01-09 06:09:33",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-01-09 06:09:33",
       "album": {
+        "name": "Ghetto Birds & Thugs",
+        "url": "https://open.spotify.com/album/3b3FoQ8WMEt3Dw0E4bS9GL"
+      },
+      "artists": [
+        {
+          "name": "Lil Weirdo",
+          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+        }
+      ],
+      "duration_ms": 170676,
+      "name": "Ghetto Birds & Thugs",
+      "url": "https://open.spotify.com/track/4IiXLK78ssJpAj3VZLC9uY"
+    },
+    {
+      "added_at": "2023-01-09 06:09:33",
+      "album": {
         "name": "Swap For A Swap (feat. Kodak Black)",
         "url": "https://open.spotify.com/album/6SaGt9q4tJi6HSFRbahDHh"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 230511,
       "name": "Swap For A Swap (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/6zWUG46uJdW4OensV1Oo7B"
-    },
-    {
-      "added_at": "2023-01-09 06:09:33",
-      "album": {
-        "name": "Ghetto Birds & Thugs",
-        "url": "https://open.spotify.com/album/3b3FoQ8WMEt3Dw0E4bS9GL"
-      },
-      "artists": [
-        {
-          "name": "Lil Weirdo",
-          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
-        }
-      ],
-      "duration_ms": 170676,
-      "name": "Ghetto Birds & Thugs",
-      "url": "https://open.spotify.com/track/4IiXLK78ssJpAj3VZLC9uY"
     },
     {
       "added_at": "2023-01-09 06:09:33",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-01-09 06:09:33",
       "album": {
+        "name": "Stay Dangerous",
+        "url": "https://open.spotify.com/album/7HJMrm4FfZYZSQP3f5FSNO"
+      },
+      "artists": [
+        {
+          "name": "Lil Weirdo",
+          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+        }
+      ],
+      "duration_ms": 161982,
+      "name": "Stay Dangerous",
+      "url": "https://open.spotify.com/track/7sBijv0T7CStp6K7LZN5XO"
+    },
+    {
+      "added_at": "2023-01-09 06:09:33",
+      "album": {
         "name": "Rosary",
         "url": "https://open.spotify.com/album/5FkDXNLe2kioCXGj4ZoBp0"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 238723,
       "name": "Rosary",
       "url": "https://open.spotify.com/track/4hdVtvDNdhvsrdiX22gcaN"
-    },
-    {
-      "added_at": "2023-01-09 06:09:33",
-      "album": {
-        "name": "Stay Dangerous",
-        "url": "https://open.spotify.com/album/7HJMrm4FfZYZSQP3f5FSNO"
-      },
-      "artists": [
-        {
-          "name": "Lil Weirdo",
-          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
-        }
-      ],
-      "duration_ms": 161982,
-      "name": "Stay Dangerous",
-      "url": "https://open.spotify.com/track/7sBijv0T7CStp6K7LZN5XO"
     },
     {
       "added_at": "2023-01-09 06:09:33",
@@ -539,22 +539,18 @@
     {
       "added_at": "2023-01-09 06:09:33",
       "album": {
-        "name": "Out the box",
-        "url": "https://open.spotify.com/album/513vPe74h6Yv44fK34CZIy"
+        "name": "Gang Coast",
+        "url": "https://open.spotify.com/album/23HhYyOQQFZfP9Kn8a5YJS"
       },
       "artists": [
         {
-          "name": "Jali$co",
-          "url": "https://open.spotify.com/artist/7Kygh8W8b3jq0rnIQ1Go83"
-        },
-        {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
         }
       ],
-      "duration_ms": 143046,
-      "name": "Out the box",
-      "url": "https://open.spotify.com/track/5CGvEttERyveT4Y2nAbR4m"
+      "duration_ms": 196608,
+      "name": "Am I Wrong",
+      "url": "https://open.spotify.com/track/5yON9SNjj5hajnelP9KoFm"
     },
     {
       "added_at": "2023-01-09 06:09:33",
@@ -639,18 +635,22 @@
     {
       "added_at": "2023-01-09 06:09:33",
       "album": {
-        "name": "Gang Coast",
-        "url": "https://open.spotify.com/album/23HhYyOQQFZfP9Kn8a5YJS"
+        "name": "Out the box",
+        "url": "https://open.spotify.com/album/513vPe74h6Yv44fK34CZIy"
       },
       "artists": [
         {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+          "name": "Jali$co",
+          "url": "https://open.spotify.com/artist/7Kygh8W8b3jq0rnIQ1Go83"
+        },
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
         }
       ],
-      "duration_ms": 196608,
-      "name": "Am I Wrong",
-      "url": "https://open.spotify.com/track/5yON9SNjj5hajnelP9KoFm"
+      "duration_ms": 143046,
+      "name": "Out the box",
+      "url": "https://open.spotify.com/track/5CGvEttERyveT4Y2nAbR4m"
     },
     {
       "added_at": "2023-01-09 06:09:33",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-01-09 06:09:33",
       "album": {
-        "name": "The Man Who Fell To Earth",
-        "url": "https://open.spotify.com/album/7JL67si0UZNoev6kwD4jAY"
-      },
-      "artists": [
-        {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
-        }
-      ],
-      "duration_ms": 137273,
-      "name": "Shattered",
-      "url": "https://open.spotify.com/track/0w2YKaOL31NhORK7fvhUAQ"
-    },
-    {
-      "added_at": "2023-01-09 06:09:33",
-      "album": {
         "name": "64",
         "url": "https://open.spotify.com/album/0d2PsgkIufDXYxeqSZ9Baq"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 137052,
       "name": "64",
       "url": "https://open.spotify.com/track/6qwntdVzuBdG3kGC73bcFl"
+    },
+    {
+      "added_at": "2023-01-09 06:09:33",
+      "album": {
+        "name": "The Man Who Fell To Earth",
+        "url": "https://open.spotify.com/album/7JL67si0UZNoev6kwD4jAY"
+      },
+      "artists": [
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        }
+      ],
+      "duration_ms": 137273,
+      "name": "Shattered",
+      "url": "https://open.spotify.com/track/0w2YKaOL31NhORK7fvhUAQ"
     },
     {
       "added_at": "2023-01-09 06:09:33",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2023-01-09 06:09:33",
       "album": {
-        "name": "Street Lights",
-        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 153934,
-      "name": "Street Lights",
-      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
-    },
-    {
-      "added_at": "2023-01-09 06:09:33",
-      "album": {
         "name": "Hail Mary",
         "url": "https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe"
       },
@@ -1043,6 +1023,22 @@
     {
       "added_at": "2023-01-09 06:09:33",
       "album": {
+        "name": "From The Gravel",
+        "url": "https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo"
+      },
+      "artists": [
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        }
+      ],
+      "duration_ms": 117629,
+      "name": "From The Gravel",
+      "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
+    },
+    {
+      "added_at": "2023-01-09 06:09:33",
+      "album": {
         "name": "SPIDERCAT",
         "url": "https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer"
       },
@@ -1055,6 +1051,26 @@
       "duration_ms": 102857,
       "name": "SPIDERCAT",
       "url": "https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9"
+    },
+    {
+      "added_at": "2023-01-09 06:09:33",
+      "album": {
+        "name": "Street Lights",
+        "url": "https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 153934,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL"
     },
     {
       "added_at": "2023-01-09 06:09:33",
@@ -1075,22 +1091,6 @@
       "duration_ms": 171934,
       "name": "Ain't Done",
       "url": "https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ"
-    },
-    {
-      "added_at": "2023-01-09 06:09:33",
-      "album": {
-        "name": "From The Gravel",
-        "url": "https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo"
-      },
-      "artists": [
-        {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
-        }
-      ],
-      "duration_ms": 117629,
-      "name": "From The Gravel",
-      "url": "https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa"
     },
     {
       "added_at": "2023-01-09 06:09:33",
@@ -1127,8 +1127,24 @@
     {
       "added_at": "2023-01-09 06:09:33",
       "album": {
-        "name": "Still Cried",
-        "url": "https://open.spotify.com/album/2UXZsZFHF2NaPN3csCFfEd"
+        "name": "No Chaser",
+        "url": "https://open.spotify.com/album/5yQQE5vCl9jre6OgS0WTv1"
+      },
+      "artists": [
+        {
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        }
+      ],
+      "duration_ms": 171241,
+      "name": "No Chaser",
+      "url": "https://open.spotify.com/track/0W2WjKSYqPVSeIcuQGdzEA"
+    },
+    {
+      "added_at": "2023-01-09 06:09:33",
+      "album": {
+        "name": "Preguntas (feat. D Smoke)",
+        "url": "https://open.spotify.com/album/7tzB7azJJSUd3xlvad2EFn"
       },
       "artists": [
         {
@@ -1136,13 +1152,13 @@
           "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
         },
         {
-          "name": "Young KB",
-          "url": "https://open.spotify.com/artist/63yoDocflvqmwUtC72RQ7G"
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
         }
       ],
-      "duration_ms": 151322,
-      "name": "Still Cried",
-      "url": "https://open.spotify.com/track/1UE784i65b9PaYr9jY9AwY"
+      "duration_ms": 181224,
+      "name": "Preguntas (feat. D Smoke)",
+      "url": "https://open.spotify.com/track/6hxCLo1NKmkjGQ1KWekm14"
     },
     {
       "added_at": "2023-01-09 06:09:33",
@@ -1175,22 +1191,6 @@
       "duration_ms": 171462,
       "name": "Smile Now",
       "url": "https://open.spotify.com/track/7IYyYttteg7N0Ok6LwxEnb"
-    },
-    {
-      "added_at": "2023-01-09 06:09:33",
-      "album": {
-        "name": "No Chaser",
-        "url": "https://open.spotify.com/album/5yQQE5vCl9jre6OgS0WTv1"
-      },
-      "artists": [
-        {
-          "name": "Reverie",
-          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
-        }
-      ],
-      "duration_ms": 171241,
-      "name": "No Chaser",
-      "url": "https://open.spotify.com/track/0W2WjKSYqPVSeIcuQGdzEA"
     },
     {
       "added_at": "2023-01-09 06:09:33",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-01-09 06:09:33",
       "album": {
-        "name": "Preguntas (feat. D Smoke)",
-        "url": "https://open.spotify.com/album/7tzB7azJJSUd3xlvad2EFn"
-      },
-      "artists": [
-        {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Preguntas (feat. D Smoke)",
-      "url": "https://open.spotify.com/track/6hxCLo1NKmkjGQ1KWekm14"
-    },
-    {
-      "added_at": "2023-01-09 06:09:33",
-      "album": {
         "name": "Broke Bitch",
         "url": "https://open.spotify.com/album/32pb7GbOHcoFllJFTLPZi4"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 209322,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/75kw5VOsxjrl2KheLvYGyw"
+    },
+    {
+      "added_at": "2023-01-09 06:09:33",
+      "album": {
+        "name": "Still Cried",
+        "url": "https://open.spotify.com/album/2UXZsZFHF2NaPN3csCFfEd"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Young KB",
+          "url": "https://open.spotify.com/artist/63yoDocflvqmwUtC72RQ7G"
+        }
+      ],
+      "duration_ms": 151322,
+      "name": "Still Cried",
+      "url": "https://open.spotify.com/track/1UE784i65b9PaYr9jY9AwY"
     },
     {
       "added_at": "2023-01-09 06:09:33",
@@ -1347,6 +1347,30 @@
     {
       "added_at": "2023-01-09 06:09:33",
       "album": {
+        "name": "Benz",
+        "url": "https://open.spotify.com/album/5QlkfeFanlvkObODAtnBFq"
+      },
+      "artists": [
+        {
+          "name": "Street Active",
+          "url": "https://open.spotify.com/artist/5C6FNIcIxaMn3s9HERVnl9"
+        },
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Baby Yungin",
+          "url": "https://open.spotify.com/artist/5uVQsd2EJ67pAlpsvmSZgO"
+        }
+      ],
+      "duration_ms": 155402,
+      "name": "Benz",
+      "url": "https://open.spotify.com/track/5CufI2ZsOR2uWVQMPTGvpP"
+    },
+    {
+      "added_at": "2023-01-09 06:09:33",
+      "album": {
         "name": "La Daisy",
         "url": "https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb"
       },
@@ -1383,30 +1407,6 @@
       "duration_ms": 185648,
       "name": "Badabing",
       "url": "https://open.spotify.com/track/3qBOFluQ2JvErrNHO8X8fr"
-    },
-    {
-      "added_at": "2023-01-09 06:09:33",
-      "album": {
-        "name": "Benz",
-        "url": "https://open.spotify.com/album/5QlkfeFanlvkObODAtnBFq"
-      },
-      "artists": [
-        {
-          "name": "Street Active",
-          "url": "https://open.spotify.com/artist/5C6FNIcIxaMn3s9HERVnl9"
-        },
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Baby Yungin",
-          "url": "https://open.spotify.com/artist/5uVQsd2EJ67pAlpsvmSZgO"
-        }
-      ],
-      "duration_ms": 155402,
-      "name": "Benz",
-      "url": "https://open.spotify.com/track/5CufI2ZsOR2uWVQMPTGvpP"
     },
     {
       "added_at": "2023-01-09 06:09:33",

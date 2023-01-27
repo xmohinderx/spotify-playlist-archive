@@ -3771,6 +3771,28 @@
     },
     {
       "album": {
+        "name": "NOW U KNOW",
+        "url": "https://open.spotify.com/album/2iSUn42TWOutaxagug7Syb"
+      },
+      "artists": [
+        {
+          "name": "BLVK JVCK",
+          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+        },
+        {
+          "name": "VRG",
+          "url": "https://open.spotify.com/artist/56hXYTbEGYdTwI2zjMMcVh"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163862,
+      "name": "NOW U KNOW",
+      "url": "https://open.spotify.com/track/1kfRotqCTlq1ZsSHpd8l7W"
+    },
+    {
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge"
       },
@@ -3844,7 +3866,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 219428,
       "name": "Oldskool",
       "url": "https://open.spotify.com/track/3x34JXZdyZdkfEgkHT3eNC"

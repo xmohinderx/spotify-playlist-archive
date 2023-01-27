@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Peach Luffe (Canada /South Korea)",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: slchld, HBYS (South Korea, Thailand)",
   "name": ".ORG",
   "tracks": [
     {
@@ -230,7 +230,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 238914,
       "name": "A Place to Belong",
       "url": "https://open.spotify.com/track/4lun8QvR4sKXK1undQgIr7"
@@ -1917,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Conformance",
+        "url": "https://open.spotify.com/album/64oj3eIQOds4neNe7x4z49"
+      },
+      "artists": [
+        {
+          "name": "Cal",
+          "url": "https://open.spotify.com/artist/3AYpJp0dag8xfkEZ0qoL1h"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244640,
+      "name": "Conformance",
+      "url": "https://open.spotify.com/track/2JP2UUDmqxhXJ4BHJJhQP5"
+    },
+    {
+      "album": {
         "name": "Cooking For One",
         "url": "https://open.spotify.com/album/1nKLZECJDOD2mgFgaotaNK"
       },
@@ -1950,6 +1968,24 @@
       "duration_ms": 195300,
       "name": "CRAY CRAY",
       "url": "https://open.spotify.com/track/4TWfqCndoNB9iXs9PNZ4qS"
+    },
+    {
+      "album": {
+        "name": "Crystal Sand",
+        "url": "https://open.spotify.com/album/1UNudptTf9hJ0efxxHZtKQ"
+      },
+      "artists": [
+        {
+          "name": "Ali",
+          "url": "https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "Crystal Sand",
+      "url": "https://open.spotify.com/track/044boO65yZsvrJxa8lCWuT"
     },
     {
       "album": {
@@ -2607,6 +2643,24 @@
     },
     {
       "album": {
+        "name": "Pocketwish",
+        "url": "https://open.spotify.com/album/4cjMMqPXq3Y4tFkCgWyDrB"
+      },
+      "artists": [
+        {
+          "name": "Impromptu.",
+          "url": "https://open.spotify.com/artist/2vQ4RWfaZHxPt9tMhEDp3w"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234070,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/5LwX0XuDEG9YmMN5DjP6rX"
+    },
+    {
+      "album": {
         "name": "Wednesday/Eternity As An Instant",
         "url": "https://open.spotify.com/album/0lpsDsYmJ8yzrXNMUuRJSi"
       },
@@ -2636,7 +2690,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 247000,
       "name": "Every Day",
       "url": "https://open.spotify.com/track/3yIw4wffZn9hwPUKLUh25l"
@@ -2912,7 +2966,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 208020,
       "name": "Florida Sunset Motel",
       "url": "https://open.spotify.com/track/5zd7EY6ueuuQ83SAYNJBdo"
@@ -3199,6 +3253,28 @@
     },
     {
       "album": {
+        "name": "Rimpang",
+        "url": "https://open.spotify.com/album/1ooPTrKGBfTcD8iqdIAGy3"
+      },
+      "artists": [
+        {
+          "name": "Efek Rumah Kaca",
+          "url": "https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b"
+        },
+        {
+          "name": "Suraa",
+          "url": "https://open.spotify.com/artist/1VA3wkQ3Ux11Lf6P2k8b5z"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291600,
+      "name": "Fun Kaya Fun",
+      "url": "https://open.spotify.com/track/4BNEjUYMw5eTestrJfHHId"
+    },
+    {
+      "album": {
         "name": "ghost everyday",
         "url": "https://open.spotify.com/album/5F7ub9vl3S0SvfpxALwMjQ"
       },
@@ -3330,6 +3406,32 @@
       "duration_ms": 206363,
       "name": "Gone",
       "url": "https://open.spotify.com/track/6bBAyLgLyvJJcW663wGWmK"
+    },
+    {
+      "album": {
+        "name": "Good Care",
+        "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "asiatic.wav",
+          "url": "https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194550,
+      "name": "Good Care",
+      "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
     },
     {
       "album": {
@@ -3468,7 +3570,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 199077,
       "name": "Has it all",
       "url": "https://open.spotify.com/track/0r7ldyewgd6Rv3pF0L8rSL"
@@ -3698,6 +3800,24 @@
       "duration_ms": 174975,
       "name": "Hold tight",
       "url": "https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP"
+    },
+    {
+      "album": {
+        "name": "Home is Wherever you Are",
+        "url": "https://open.spotify.com/album/1KIwhHoM23KbQF6O8eOrbj"
+      },
+      "artists": [
+        {
+          "name": "Rifan Kalbuadi",
+          "url": "https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241777,
+      "name": "Home is Wherever you Are",
+      "url": "https://open.spotify.com/track/703VBRaail5rJc0nTJcuwq"
     },
     {
       "album": {
@@ -4148,7 +4268,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 183096,
       "name": "I Wanna Be A Kid Again",
       "url": "https://open.spotify.com/track/6KkECwNpkBTq5zSSeSmMyt"
@@ -6610,7 +6730,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 175232,
       "name": "perfect crime",
       "url": "https://open.spotify.com/track/3MXxxR1szyDyGz4tFvjEqi"
@@ -7672,7 +7792,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 171893,
       "name": "sorry it's december",
       "url": "https://open.spotify.com/track/7oReofzcCaync7NIOx4gnA"
@@ -8465,6 +8585,24 @@
     },
     {
       "album": {
+        "name": "The Pursuit of Emptiness",
+        "url": "https://open.spotify.com/album/2a37hZC9CWhSAuFc3KKz9L"
+      },
+      "artists": [
+        {
+          "name": "Alpha Mortal Foxtrot",
+          "url": "https://open.spotify.com/artist/47TRj4rb68FLE1RLa2X4gz"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357813,
+      "name": "The Pursuit of Emptiness",
+      "url": "https://open.spotify.com/track/1kcJuKyN1WfmnUHvnxNQwT"
+    },
+    {
+      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/0OUuOt452BNPn74et9Iqnr"
       },
@@ -8947,6 +9085,28 @@
     },
     {
       "album": {
+        "name": "Vast",
+        "url": "https://open.spotify.com/album/5xcpUoCn6DdkgD2mVxrixQ"
+      },
+      "artists": [
+        {
+          "name": "Sandrayati",
+          "url": "https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "Vast",
+      "url": "https://open.spotify.com/track/3zeMHlSsmxidNhLr11wcUN"
+    },
+    {
+      "album": {
         "name": "Floret",
         "url": "https://open.spotify.com/album/1SWWvEsN8m4cz9ScFOEEn5"
       },
@@ -8962,7 +9122,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 199875,
       "name": "Venture - For Tracy Hyde remix",
       "url": "https://open.spotify.com/track/06OcvQjbKdz7I7Y9LAApsq"

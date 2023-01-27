@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcm1CGW3MuuF.md) - [plain]
 
 > Celebramos a los héroes y heroínas locales que con su talento y osadía nos dan patria musical\. En portada: THE SUPUESTOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,821 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,822 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcm1CGW3MuuF.md) - [plain]
 | 28 | [Llego Tarde](https://open.spotify.com/track/5vYNVKX0uyR2BGrgLGZh7D) | [El Pillin](https://open.spotify.com/artist/1QQm0w9pndQkwtLPy4jklm) | [Llego Tarde](https://open.spotify.com/album/00LBmifb2tKXSmqG0yuinR) | 2:57 |
 | 29 | [Ciudad](https://open.spotify.com/track/4L7hEVnQNnJxk65z9KjYG0) | [Neoplen](https://open.spotify.com/artist/499CktjjIY7x8x0sPyvdvB) | [Ciudad](https://open.spotify.com/album/6nfeE2RTKDs78GfxjehUhu) | 4:03 |
 | 30 | [Solo Siluetas](https://open.spotify.com/track/6Kq41osBL2QLtTtaxU20iZ) | [Rey Casino](https://open.spotify.com/artist/3NvQSyufDituYcmt8u9Udn) | [Solo Siluetas](https://open.spotify.com/album/07dcVe2toJYAvV4c35FwDT) | 4:34 |
-| 31 | [La Auto Confrontación Resulta en la Resurrección del Espíritu](https://open.spotify.com/track/5UdE0dUmajiYbq91prWi96) | [MIXO](https://open.spotify.com/artist/6MD94ISQLOMJs8fXGtzmge) | [La Auto Confrontación Resulta en la Resurrección del Espíritu](https://open.spotify.com/album/52fmNQtXbgAAK9kZixI2Hl) | 3:24 |
+| 31 | [Labios](https://open.spotify.com/track/6TT6BOTP1dqX1x9KqEo8IC) | [Sam y Marx](https://open.spotify.com/artist/5yqYpAt3HLtTue1hjrm0xD) | [Sam y Marx](https://open.spotify.com/album/7K3tDo7ZD3nLHz0oCoCfEv) | 3:14 |
 | 32 | [Adiós](https://open.spotify.com/track/1DfIErX9sNVpEBuEfMqKNi) | [Cruz Del Monte](https://open.spotify.com/artist/00fGt19oAFCOLWrAOPWGVs) | [Adiós](https://open.spotify.com/album/4KgxovsSKAZB6Ydc4VZYXt) | 4:45 |
-| 33 | [De donde vienes tú](https://open.spotify.com/track/4c5Sk1LZnsjmgHLEtJ9r6m) | [LEBO](https://open.spotify.com/artist/0dStLBB8XjTyNVzPIhktpo) | [Conmigo mismo](https://open.spotify.com/album/0hGMem3rfci3OiXup09iDl) | 2:16 |
-| 34 | [Labios](https://open.spotify.com/track/6TT6BOTP1dqX1x9KqEo8IC) | [Sam y Marx](https://open.spotify.com/artist/5yqYpAt3HLtTue1hjrm0xD) | [Sam y Marx](https://open.spotify.com/album/7K3tDo7ZD3nLHz0oCoCfEv) | 3:14 |
+| 33 | [La Auto Confrontación Resulta en la Resurrección del Espíritu](https://open.spotify.com/track/5UdE0dUmajiYbq91prWi96) | [MIXO](https://open.spotify.com/artist/6MD94ISQLOMJs8fXGtzmge) | [La Auto Confrontación Resulta en la Resurrección del Espíritu](https://open.spotify.com/album/52fmNQtXbgAAK9kZixI2Hl) | 3:24 |
+| 34 | [De donde vienes tú](https://open.spotify.com/track/4c5Sk1LZnsjmgHLEtJ9r6m) | [LEBO](https://open.spotify.com/artist/0dStLBB8XjTyNVzPIhktpo) | [Conmigo mismo](https://open.spotify.com/album/0hGMem3rfci3OiXup09iDl) | 2:16 |
 | 35 | [Amor Sin Fin](https://open.spotify.com/track/1usjw4P22wUgTJGDE3ULBu) | [Cardenal](https://open.spotify.com/artist/6xdGYuu56PNTg8yvEwC6AV) | [Amor Sin Fin](https://open.spotify.com/album/5mlstqzIWbIlIKjyuqvYDW) | 3:23 |
 | 36 | [¡Hey, Tú!](https://open.spotify.com/track/5nJpekyYgGG9f5o0gaFoqZ) | [Cooper](https://open.spotify.com/artist/5enC1sejhpx5Ggqn3wYa7t) | [¡Hey, Tú!](https://open.spotify.com/album/4AGurXE3pAo4YQpEN7XvBl) | 3:07 |
 | 37 | [Esos Ojos](https://open.spotify.com/track/5LL1U0U3kAWlZG8LiesgZe) | [Amador Mx](https://open.spotify.com/artist/6YV9B70BhDOqaOznmf32Fq) | [Para Enamorarte](https://open.spotify.com/album/2u6W5NnPI1HFUi3ohaxmY9) | 3:44 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcm1CGW3MuuF.md) - [plain]
 | 46 | [Margins of Prophet](https://open.spotify.com/track/6Af3hf8U3RnNXJXPbpZI1h) | [Foe Spektor](https://open.spotify.com/artist/2gBrQ9JwIMMOMYvJSyfA0q) | [Margins of Prophet](https://open.spotify.com/album/4cY08NbRIoGgaW78UJE2xZ) | 3:35 |
 | 47 | [Se Nos Rompe la Cama \(It's Ok\)](https://open.spotify.com/track/4f9gcmQlm2jjtO0hijPr7t) | [Artero](https://open.spotify.com/artist/46jQfvOF7GzjsMi5huVEWB) | [Se Nos Rompe la Cama \(It's Ok\)](https://open.spotify.com/album/6qPo9BnF5Y1KFayNYCpZlb) | 2:47 |
 | 48 | [Nostalgia Suicida](https://open.spotify.com/track/5wyVUTuQQEdO2AD24RXQ3q) | [Vicios Juveniles](https://open.spotify.com/artist/1K8jL75t7y1BQuFfMb0HbI) | [Vicios Juveniles, Vol\. 2](https://open.spotify.com/album/3v7w3kPoIGuKjX0ddRoTDL) | 1:50 |
-| 49 | [Buenos Días](https://open.spotify.com/track/5x1kkO9o6iLGMW7mVxTicF) | [Rodrigo Pillado](https://open.spotify.com/artist/7vX0MKNBCQnvXmEvpUbhcO) | [Capricho](https://open.spotify.com/album/1cKl7wTmHVifAgM4J6jbbg) | 3:56 |
-| 50 | [Dagas](https://open.spotify.com/track/0zj3w7tcmnAgQpS4bqf41W) | [Homero III](https://open.spotify.com/artist/2uoCxMOphYKMd0dYZf7bcM) | [Dagas](https://open.spotify.com/album/0E2k0aZE7AVrgW5TjMnGtz) | 3:10 |
+| 49 | [Dagas](https://open.spotify.com/track/0zj3w7tcmnAgQpS4bqf41W) | [Homero III](https://open.spotify.com/artist/2uoCxMOphYKMd0dYZf7bcM) | [Dagas](https://open.spotify.com/album/0E2k0aZE7AVrgW5TjMnGtz) | 3:10 |
+| 50 | [Buenos Días](https://open.spotify.com/track/5x1kkO9o6iLGMW7mVxTicF) | [Rodrigo Pillado](https://open.spotify.com/artist/7vX0MKNBCQnvXmEvpUbhcO) | [Capricho](https://open.spotify.com/album/1cKl7wTmHVifAgM4J6jbbg) | 3:56 |
 
-Snapshot ID: `MTYzODI4OTI5OCwwMDAwMDAwMDUyOGRmOWYyYTljOWUxYTFlZmU3NTcyZmRiNzVhZWE4`
+Snapshot ID: `MTYzODI4OTI5OCwwMDAwMDAwMGQ1ZTI1MDJkNTU1MDMwMzAxN2M3M2Y3MWZhMzk2MWFk`

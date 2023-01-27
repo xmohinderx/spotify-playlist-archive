@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 
 > The sound of worship in the U.K\. and Europe\. Cover: Luke + Anna Hellebronth
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,543 likes - 60 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,553 likes - 60 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVia6qTpojp.md) - [plain]
 | 22 | [Ashes](https://open.spotify.com/track/7g9BylLROwXbWmP0xdkp8O) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Son of My Father](https://open.spotify.com/album/4gCHt9tejb6XrEBgoEq3bE) | 4:18 |
 | 23 | [Alive with Worship](https://open.spotify.com/track/5Es0mFnWgZS5vryNnjoa7q) | [Simon Brading](https://open.spotify.com/artist/5lXrZdj3SEDih1rxPeuSIZ) | [Alive with Worship](https://open.spotify.com/album/3lhSoLwQInYzWR9QVOZi6U) | 3:24 |
 | 24 | [Spirit and Truth](https://open.spotify.com/track/4wzlJOsP5hnCaAcVlEcMFo) | [Chris Sayburn](https://open.spotify.com/artist/3YCIiIHJppDleYo4vq4AN9) | [Saved By Grace](https://open.spotify.com/album/5Rzg6slcH2u7Ipl0VqYUY1) | 4:53 |
-| 25 | [Obey \- Acoustic](https://open.spotify.com/track/4K4bFzadyAYVm4UqSQR0dM) | [Tom Smith](https://open.spotify.com/artist/4y7Cnogmk0fX6UXhGznDQk) | [Everyday](https://open.spotify.com/album/4PRcGJ2cZjHTXjEpcraPu7) | 4:18 |
+| 25 | [Obey \- Acoustic](https://open.spotify.com/track/4K4bFzadyAYVm4UqSQR0dM) | [Tom Smith](https://open.spotify.com/artist/3LNOrnpRhzBrcstZ6cwMKN) | [Everyday](https://open.spotify.com/album/4PRcGJ2cZjHTXjEpcraPu7) | 4:18 |
 | 26 | [Dead Things To Life](https://open.spotify.com/track/1N6iHugrcCD36X7Jn5dcCK) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd) | [Lament](https://open.spotify.com/album/6V52ayLRHPyg54r8WTIrQl) | 4:26 |
 | 27 | [Through It All](https://open.spotify.com/track/5tAka5imviCbmtCbg5HPBV) | [King's Village](https://open.spotify.com/artist/5u6qWLDqTeq7QL44pRFIIW) | [Morning Has Broken](https://open.spotify.com/album/2GHtPvnGsgu2rov7zFcwUO) | 4:59 |
 | 28 | [Waterfall \(feat\. Lucy Grimble\)](https://open.spotify.com/track/6nnNPkofokKxTRDwL748CT) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Spring](https://open.spotify.com/album/0aT8MMYx6r4tN1W0ipTgOs) | 3:29 |

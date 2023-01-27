@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 
 > A collection of Hip Hop hits &amp; viral trends feat Drake, Metro Boomin &amp; more\. Updated weekly!  \(Cover: Ice Spice\)
 
-[Digster](https://open.spotify.com/user/digster.fm) - 12,028 likes - 58 songs - 3 hr 5 min
+[Digster](https://open.spotify.com/user/digster.fm) - 12,031 likes - 58 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

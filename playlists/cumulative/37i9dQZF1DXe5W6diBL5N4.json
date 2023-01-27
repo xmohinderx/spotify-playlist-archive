@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: Got The Beat) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
+  "description": "\uc2e0\uace1 \ubc30\ub2ec! The freshest K-Pop releases are here! (Cover: MAVE: (\uba54\uc774\ube0c)) (\uc2e0\uc120\ud55c \uad6d\ub0b4 \ucd5c\uc2e0\uace1\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "New Music K-Pop",
   "tracks": [
     {
@@ -916,6 +916,28 @@
       "duration_ms": 189413,
       "name": "28 Reasons",
       "url": "https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex"
+    },
+    {
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/6bXetcgadQUFOE6YPqknQR"
+      },
+      "artists": [
+        {
+          "name": "LuVan",
+          "url": "https://open.spotify.com/artist/2A26TcRO2eBgrHILiiUH70"
+        },
+        {
+          "name": "Ellui",
+          "url": "https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207743,
+      "name": "2AM (feat. Ellui)",
+      "url": "https://open.spotify.com/track/4iQgx37cUjtQoMIatxa0AP"
     },
     {
       "album": {
@@ -4734,8 +4756,8 @@
           "url": "https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST"
         },
         {
-          "name": "J.yung",
-          "url": "https://open.spotify.com/artist/1Dn3ZtIpJRaMqrr2SsF26k"
+          "name": "J.Yung",
+          "url": "https://open.spotify.com/artist/5vYYWbIoATxAIrCoLoVIkC"
         }
       ],
       "date_added": "2023-01-16",
@@ -7373,6 +7395,36 @@
     },
     {
       "album": {
+        "name": "DTX 1st : Blessed ride",
+        "url": "https://open.spotify.com/album/6qHCN2r5Y8smeXRDhkT5eS"
+      },
+      "artists": [
+        {
+          "name": "D'scoTech-XI",
+          "url": "https://open.spotify.com/artist/3FWym5aKInnu807CBuJhGA"
+        },
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        },
+        {
+          "name": "Rovv",
+          "url": "https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy"
+        },
+        {
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "Blessed (Punk Tech-XI Remix)",
+      "url": "https://open.spotify.com/track/2Waqgry98Xo11k2LdArGL0"
+    },
+    {
+      "album": {
         "name": "BLOCK PARTY",
         "url": "https://open.spotify.com/album/6aTRr3NEC4DY8bNwlkYwmY"
       },
@@ -7730,8 +7782,8 @@
           "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
         },
         {
-          "name": "KOALA",
-          "url": "https://open.spotify.com/artist/5uCLSID6CCHdUDEnMkCtNV"
+          "name": "\ucf54\uc54c\ub77c KOALA",
+          "url": "https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ"
         },
         {
           "name": "JAMBINO",
@@ -15705,6 +15757,24 @@
     },
     {
       "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/1wrsoN7rUsDBzAJqWQwP6e"
+      },
+      "artists": [
+        {
+          "name": "Choi Cello",
+          "url": "https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187083,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/3Gyc6E2qMrHuIEmyJTUApC"
+    },
+    {
+      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/2AyXNozyDPLyBoQKHfTAvP"
       },
@@ -16534,6 +16604,24 @@
       "duration_ms": 194303,
       "name": "Double up (feat. sokodomo)",
       "url": "https://open.spotify.com/track/4q4iyokOR3feB5mQURwz5k"
+    },
+    {
+      "album": {
+        "name": "MY ONLY 1 (Original Soundtrack from the WEBTOON)",
+        "url": "https://open.spotify.com/album/26kWAzpUA7EQyimA0Fxbqx"
+      },
+      "artists": [
+        {
+          "name": "jerd",
+          "url": "https://open.spotify.com/artist/1Hj2c6llUPMtHG1JX8JMFA"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233561,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/7hRhNpXVmoWicHNmgXcF3j"
     },
     {
       "album": {
@@ -22028,6 +22116,24 @@
       "duration_ms": 253053,
       "name": "Forget",
       "url": "https://open.spotify.com/track/3kGYDBjXzFcjPZ5yNrsKno"
+    },
+    {
+      "album": {
+        "name": "Strangers Again, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5YaJJLiT7H68R5i7u169aO"
+      },
+      "artists": [
+        {
+          "name": "Jisun",
+          "url": "https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161226,
+      "name": "Forget Me",
+      "url": "https://open.spotify.com/track/6pPeQvHUjLqWjRYczBz9LN"
     },
     {
       "album": {
@@ -32237,6 +32343,24 @@
     },
     {
       "album": {
+        "name": "It Was All a Mistake (Original Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/5OsYBSHNEPKBL4qDvjVqec"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "In The Novel",
+      "url": "https://open.spotify.com/track/5e7WT8HDdFlHQBO3ZbKvVj"
+    },
+    {
+      "album": {
         "name": "Rain In Tequila",
         "url": "https://open.spotify.com/album/2PN6HKnZfzv1J8x29ApGLW"
       },
@@ -33792,6 +33916,24 @@
       "duration_ms": 205555,
       "name": "just for one day",
       "url": "https://open.spotify.com/track/5Qul2oeY1GWRMxrNTJXtGF"
+    },
+    {
+      "album": {
+        "name": "Like It\u2019s Going To Last",
+        "url": "https://open.spotify.com/album/6DX6UtZY1oWHwA2X045o2b"
+      },
+      "artists": [
+        {
+          "name": "DEFAULT.",
+          "url": "https://open.spotify.com/artist/469xVs93kidKRxcjb2LQe3"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275933,
+      "name": "Just For Today",
+      "url": "https://open.spotify.com/track/033zVZVSRG8hX1nXtdzpIt"
     },
     {
       "album": {
@@ -40611,6 +40753,28 @@
     },
     {
       "album": {
+        "name": "Miracle - SM STATION",
+        "url": "https://open.spotify.com/album/54O0kItm5ej0HThVMIv5hF"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        },
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252213,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/03foRBkthqRkysYT7FxWZV"
+    },
+    {
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/5pqxBArhz0JxBYladoyRz5"
       },
@@ -40854,13 +41018,17 @@
         {
           "name": "Santa Paine",
           "url": "https://open.spotify.com/artist/3m7HmzhfGvYEXPYA8qKkHD"
+        },
+        {
+          "name": "\ube0c\ub9b0 (Bryn)",
+          "url": "https://open.spotify.com/artist/7rv575pRmWT5zrz0hXqxmx"
         }
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178543,
-      "name": "Missed Call",
+      "name": "Missed Call (Feat. Bryn)",
       "url": "https://open.spotify.com/track/0JIXG1NDMNlCOrP5j6jtGE"
     },
     {
@@ -41718,6 +41886,28 @@
       "duration_ms": 219506,
       "name": "more",
       "url": "https://open.spotify.com/track/1sjOf5zjAOuJHHcRzoh37v"
+    },
+    {
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/5fdVNrQ2PoMTyhFXPPWu7L"
+      },
+      "artists": [
+        {
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161124,
+      "name": "More",
+      "url": "https://open.spotify.com/track/6VacU6Uf16RkcQWUv3Z5Vq"
     },
     {
       "album": {
@@ -44227,7 +44417,7 @@
         },
         {
           "name": "MINE",
-          "url": "https://open.spotify.com/artist/2YtRPSrBs1ZSpBRGfSBtJi"
+          "url": "https://open.spotify.com/artist/11RVbK7wyBMH4UzjELv6wq"
         }
       ],
       "date_added": "2023-01-24",
@@ -54337,6 +54527,24 @@
     },
     {
       "album": {
+        "name": "Shelter Of Dreams",
+        "url": "https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272080,
+      "name": "Shelter Of Dreams",
+      "url": "https://open.spotify.com/track/2DauGSCkwdgts3sUkuQu30"
+    },
+    {
+      "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/5KBCqZ94VTGyw9RIKtJD7y"
       },
@@ -59651,6 +59859,24 @@
     },
     {
       "album": {
+        "name": "Swing Slam",
+        "url": "https://open.spotify.com/album/3q6KvvIzC0r1k8bT4DGErv"
+      },
+      "artists": [
+        {
+          "name": "Samuel Seo",
+          "url": "https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228286,
+      "name": "Swing Slam",
+      "url": "https://open.spotify.com/track/5SVbrvelaTW646cg5SvceW"
+    },
+    {
+      "album": {
         "name": "SWISS KNIFE",
         "url": "https://open.spotify.com/album/36JxwKpHMUe3YO8cn4ScpV"
       },
@@ -60624,6 +60850,24 @@
       "duration_ms": 195493,
       "name": "That Night (feat. minZu & Motto)",
       "url": "https://open.spotify.com/track/3FMkl0OXYmpgVRtAoF9qKF"
+    },
+    {
+      "album": {
+        "name": "Poong, the Joseon Psychiatrist2 (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/7eF5uszFk7Fvr2zpmLbxyK"
+      },
+      "artists": [
+        {
+          "name": "Baek Yeseul",
+          "url": "https://open.spotify.com/artist/7GE4KJsseSG0G1848UQpro"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217013,
+      "name": "That one word",
+      "url": "https://open.spotify.com/track/57vX1PhaJaTxpI5dchwY4E"
     },
     {
       "album": {
@@ -64420,6 +64664,24 @@
       "duration_ms": 209067,
       "name": "TRIGGER",
       "url": "https://open.spotify.com/track/2z2HCLcKhmkkiDIeXNdhmz"
+    },
+    {
+      "album": {
+        "name": "IM GOOD",
+        "url": "https://open.spotify.com/album/0o3Y7xtq3Gr17IuKTZz1hX"
+      },
+      "artists": [
+        {
+          "name": "OHSHYTTTT",
+          "url": "https://open.spotify.com/artist/0AhjqxZvcEIEK0qv7wzEpZ"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135962,
+      "name": "TRIP",
+      "url": "https://open.spotify.com/track/3MsAfJBAE8fmEUyuywAv7A"
     },
     {
       "album": {
@@ -74930,6 +75192,28 @@
       "duration_ms": 204089,
       "name": "\uc544\uc9c0\ub791\uc774 (Art. JFLAMINGO)",
       "url": "https://open.spotify.com/track/7DaOiYUd5Umfw6fW1WiP7z"
+    },
+    {
+      "album": {
+        "name": "CAFE TAPE 02",
+        "url": "https://open.spotify.com/album/1Vt7GY3NrITSZ22PPOLBXu"
+      },
+      "artists": [
+        {
+          "name": "Viann",
+          "url": "https://open.spotify.com/artist/7yRs5f61v5AwXwVlUQ7bNE"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201125,
+      "name": "\uc544\uc9c0\ub791\uc774 Tingle",
+      "url": "https://open.spotify.com/track/14HsXw1flWI5glqecG9mSS"
     },
     {
       "album": {

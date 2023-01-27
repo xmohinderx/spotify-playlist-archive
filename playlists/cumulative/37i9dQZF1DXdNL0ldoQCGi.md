@@ -4,7 +4,7 @@
 
 > sabe aquela música que vc ouve pelas redes mas não sabe o nome? pois então
 
-289 songs - 15 hr 9 min
+290 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Parecia Tempestade](https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID) | [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb), [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Parecia Tempestade](https://open.spotify.com/album/3DPPcBAX08PIfFZFsfzVTR) | 2:29 | 2023-01-13 |  |
 | [Parecia Tempestade](https://open.spotify.com/track/4nkhQr9Jp58ts1OncBX6xP) | [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb), [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Parecia Tempestade](https://open.spotify.com/album/6BAy5WlPVBYzeBDDLd32Jk) | 2:29 | 2022-12-19 | 2023-01-14 |
 | [Partition](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:19 | 2022-05-25 | 2022-08-26 |
+| [Pega o Guanabara](https://open.spotify.com/track/57rCopayc4wJL7jQZaRvtn) | [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [Pega o Guanabara](https://open.spotify.com/album/1hpgbFf4Kzomnp0hMHMzrL) | 2:46 | 2023-01-26 |  |
 | [Pega o Guanabara \- Ao Vivo](https://open.spotify.com/track/63q5Qb9ERTpapEmARxKBE6) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [Wesley Safadão Ao Vivo em Fortaleza \- EP.01](https://open.spotify.com/album/3rlBnUvwFdWTdEzlaakPfg) | 2:58 | 2023-01-11 | 2023-01-20 |
 | [Pega o Guanabara \- Ao Vivo](https://open.spotify.com/track/7CIj5SFTB6WPJrYjLZN5bp) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [Wesley Safadão Ao Vivo Em Fortaleza](https://open.spotify.com/album/6FpXbrHwBDgDOpFXvNGn7d) | 2:58 | 2023-01-10 |  |
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-16 |  |

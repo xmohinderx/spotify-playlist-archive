@@ -1271,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Ventilation Units",
+        "url": "https://open.spotify.com/album/48usbs0Xig94maoMQZaOjE"
+      },
+      "artists": [
+        {
+          "name": "Contented",
+          "url": "https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Hotel Room Ventilation",
+      "url": "https://open.spotify.com/track/0zURUnlaUXVXeWUditdl6t"
+    },
+    {
+      "album": {
         "name": "ASMR Enviroments",
         "url": "https://open.spotify.com/album/1zwU28wkpBKhCM32okzJ9a"
       },
@@ -1394,6 +1412,24 @@
       "duration_ms": 170000,
       "name": "Low AC Fan Rumble",
       "url": "https://open.spotify.com/track/1N6h47vHFECrzCbuxW5KaL"
+    },
+    {
+      "album": {
+        "name": "Workspace Siesta",
+        "url": "https://open.spotify.com/album/2YvDKXRG7Sb8qPBlNMdPbV"
+      },
+      "artists": [
+        {
+          "name": "ASMR Fan-Tastic",
+          "url": "https://open.spotify.com/artist/40jkzlYRbhcXi5GNug4JCB"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174041,
+      "name": "Machine Hall",
+      "url": "https://open.spotify.com/track/3xhInmpdC67u7AeHpvLaEq"
     },
     {
       "album": {

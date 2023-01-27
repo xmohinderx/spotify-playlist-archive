@@ -1,12 +1,12 @@
 {
   "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw\">Spoegwolf</a>",
-  "num_followers": 11872,
+  "num_followers": 11881,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2NTYwMCwwMDAwMDAwMDM3YzQzNTMxMzM2ZWM0YjM0N2JhYmY0MzdhZjlkZDA5",
+  "snapshot_id": "MTY3NDc3MDM0MCwwMDAwMDAwMDRlZWE0OWFlMzBmZjA0NmQwODJmN2VmODNlYTQxYzQ5",
   "tracks": [
     {
       "added_at": "2022-12-08 21:59:00",
@@ -29,20 +29,20 @@
       "url": "https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7"
     },
     {
-      "added_at": "2023-01-19 22:00:00",
+      "added_at": "2023-01-26 21:59:00",
       "album": {
-        "name": "9-2-5",
-        "url": "https://open.spotify.com/album/1B3vzwGRP0OZ3pZ4XhsIC5"
+        "name": "Dead Man's Son",
+        "url": "https://open.spotify.com/album/253Z7aBKpm5kgYSKO1fEpI"
       },
       "artists": [
         {
-          "name": "Cindy-Louise",
-          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
+          "name": "Dead Man's Son",
+          "url": "https://open.spotify.com/artist/56BAnDZ3dSkEonH2yShhSx"
         }
       ],
-      "duration_ms": 187925,
-      "name": "9-2-5",
-      "url": "https://open.spotify.com/track/522Xm0H1JrHGCUM0cRtuhx"
+      "duration_ms": 227931,
+      "name": "One Lane Road",
+      "url": "https://open.spotify.com/track/7jsZdatNbVONa1V6tF0Tm3"
     },
     {
       "added_at": "2022-11-21 09:26:29",
@@ -105,6 +105,42 @@
       "url": "https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6"
     },
     {
+      "added_at": "2023-01-26 21:59:00",
+      "album": {
+        "name": "Violent Entertainment",
+        "url": "https://open.spotify.com/album/37QdH3r9th6XplJOBVgt5G"
+      },
+      "artists": [
+        {
+          "name": "Ethyl Ether",
+          "url": "https://open.spotify.com/artist/0SbWug1zk2RZx8WkkwIJpt"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Dead Conversation",
+      "url": "https://open.spotify.com/track/22vgy2SzEAWCrLOP5gXnl3"
+    },
+    {
+      "added_at": "2022-09-02 10:44:20",
+      "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/6rwHalenFvXv3J6H2xj3MQ"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        },
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 207525,
+      "name": "Maksimum Volume",
+      "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
+    },
+    {
       "added_at": "2022-11-24 21:59:00",
       "album": {
         "name": "As Ek Jou Hoor Lag",
@@ -135,6 +171,22 @@
       "duration_ms": 238586,
       "name": "Wasted Time",
       "url": "https://open.spotify.com/track/7EE7O5tuOKrlnhALLnkrW7"
+    },
+    {
+      "added_at": "2023-01-19 22:00:00",
+      "album": {
+        "name": "9-2-5",
+        "url": "https://open.spotify.com/album/1B3vzwGRP0OZ3pZ4XhsIC5"
+      },
+      "artists": [
+        {
+          "name": "Cindy-Louise",
+          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
+        }
+      ],
+      "duration_ms": 187925,
+      "name": "9-2-5",
+      "url": "https://open.spotify.com/track/522Xm0H1JrHGCUM0cRtuhx"
     },
     {
       "added_at": "2022-09-15 21:59:00",
@@ -173,24 +225,20 @@
       "url": "https://open.spotify.com/track/4GCCyU0clhBbGzoylegT0Z"
     },
     {
-      "added_at": "2022-09-02 10:44:20",
+      "added_at": "2023-01-26 21:59:00",
       "album": {
-        "name": "C'est La Vie",
-        "url": "https://open.spotify.com/album/6rwHalenFvXv3J6H2xj3MQ"
+        "name": "adolescent energy",
+        "url": "https://open.spotify.com/album/2qQVNCjh9G8IkR3on20S11"
       },
       "artists": [
         {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        },
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+          "name": "Phrazes",
+          "url": "https://open.spotify.com/artist/2km9MylO5HEhDyKf5SYl2G"
         }
       ],
-      "duration_ms": 207525,
-      "name": "Maksimum Volume",
-      "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
+      "duration_ms": 237599,
+      "name": "adolescent energy",
+      "url": "https://open.spotify.com/track/1y3Jr4FEgwnr0pm9GwIpQQ"
     },
     {
       "added_at": "2022-12-08 21:59:00",
@@ -239,6 +287,22 @@
       "duration_ms": 230186,
       "name": "Leech",
       "url": "https://open.spotify.com/track/213FfJIwavzYZrAXa2nNL5"
+    },
+    {
+      "added_at": "2023-01-26 21:59:00",
+      "album": {
+        "name": "Braambos Radio",
+        "url": "https://open.spotify.com/album/7DUqi6xcyUDNkdCS4gvKal"
+      },
+      "artists": [
+        {
+          "name": "Frans Karoo",
+          "url": "https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "In Die Son",
+      "url": "https://open.spotify.com/track/3FWouV30HIUtD9cs89Aiou"
     },
     {
       "added_at": "2022-12-15 21:59:00",
@@ -319,6 +383,22 @@
       "duration_ms": 207381,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/1PLdMFrVv6cCT9MrQneTMN"
+    },
+    {
+      "added_at": "2023-01-26 21:59:00",
+      "album": {
+        "name": "Remember the Hits Vol. 2",
+        "url": "https://open.spotify.com/album/25y45kTKUv2gmtQnUqzymB"
+      },
+      "artists": [
+        {
+          "name": "Jon Delinger",
+          "url": "https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF"
+        }
+      ],
+      "duration_ms": 249782,
+      "name": "Come Back to Me",
+      "url": "https://open.spotify.com/track/6IaBSKJbUHfH3MgRmLIr5p"
     },
     {
       "added_at": "2022-08-04 21:59:00",
@@ -515,22 +595,6 @@
     {
       "added_at": "2022-11-17 21:59:00",
       "album": {
-        "name": "Towerkop",
-        "url": "https://open.spotify.com/album/2WlM9UWueQZ0beAQSbjRKx"
-      },
-      "artists": [
-        {
-          "name": "Frans Karoo",
-          "url": "https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Towerkop",
-      "url": "https://open.spotify.com/track/0lxm6E9GTyQ8hJXxnR5hZb"
-    },
-    {
-      "added_at": "2022-11-17 21:59:00",
-      "album": {
         "name": "Chapter II",
         "url": "https://open.spotify.com/album/7AkMozqHXDF5OtauzP2ZQI"
       },
@@ -657,26 +721,6 @@
       "url": "https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz"
     },
     {
-      "added_at": "2022-09-22 21:59:00",
-      "album": {
-        "name": "PITY PARTY",
-        "url": "https://open.spotify.com/album/44aRUzG8io87BE9XUIhYy8"
-      },
-      "artists": [
-        {
-          "name": "Yung Beathoven",
-          "url": "https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs"
-        },
-        {
-          "name": "Brogan the band",
-          "url": "https://open.spotify.com/artist/6hyyfSQkg85RaqUiyflfZc"
-        }
-      ],
-      "duration_ms": 147519,
-      "name": "PITY PARTY",
-      "url": "https://open.spotify.com/track/275HPZ0ZqO7aVvP0oNqO5b"
-    },
-    {
       "added_at": "2022-05-26 20:30:37",
       "album": {
         "name": "Get Over Here",
@@ -757,26 +801,6 @@
       "url": "https://open.spotify.com/track/7EsJj7ryKHTThQpDxqP3ND"
     },
     {
-      "added_at": "2022-03-31 21:59:00",
-      "album": {
-        "name": "Fine thanks, and you?",
-        "url": "https://open.spotify.com/album/7w9HwmPatYwQd2MgIUqyM8"
-      },
-      "artists": [
-        {
-          "name": "Shortstraw",
-          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
-        },
-        {
-          "name": "Shane Durrant",
-          "url": "https://open.spotify.com/artist/3rJ8mFZryeXC2n5bMkQVkV"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Too Much (Feat. Shane Durrant)",
-      "url": "https://open.spotify.com/track/5ERIKZDFo9IDQl4dg69fzS"
-    },
-    {
       "added_at": "2022-09-02 10:44:20",
       "album": {
         "name": "Adorn",
@@ -791,38 +815,6 @@
       "duration_ms": 606300,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/41W0utTSMSS6F5yL7QJ5Fw"
-    },
-    {
-      "added_at": "2022-08-04 21:59:00",
-      "album": {
-        "name": "Woman of My Own Damn Mind",
-        "url": "https://open.spotify.com/album/6SMEvTVAfvoQNTnRdJA2Bp"
-      },
-      "artists": [
-        {
-          "name": "Cindy-Louise",
-          "url": "https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD"
-        }
-      ],
-      "duration_ms": 193542,
-      "name": "Woman of My Own Damn Mind",
-      "url": "https://open.spotify.com/track/6F6gMyGT1L3uCEgaIIT8Nl"
-    },
-    {
-      "added_at": "2022-12-08 21:59:00",
-      "album": {
-        "name": "The Kid",
-        "url": "https://open.spotify.com/album/4HQlRenLS3Mu9gvIk3tJzk"
-      },
-      "artists": [
-        {
-          "name": "the klubs",
-          "url": "https://open.spotify.com/artist/6hbEqXIhCdWLuQn3SUgibF"
-        }
-      ],
-      "duration_ms": 173892,
-      "name": "The Kid",
-      "url": "https://open.spotify.com/track/30E5yBOsMJ14qYzBbLY9Xo"
     },
     {
       "added_at": "2022-08-04 21:59:00",

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Abantu",
+        "url": "https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Abantu",
+      "url": "https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa"
+    },
+    {
+      "album": {
         "name": "Afiya",
         "url": "https://open.spotify.com/album/2rx4CkziHMdzRkvUukP33O"
       },
@@ -322,7 +340,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 112566,
       "name": "Body Goals",
       "url": "https://open.spotify.com/track/7pBahgD8wtjGZlM2Rvrs9F"

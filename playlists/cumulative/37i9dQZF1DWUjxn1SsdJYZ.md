@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Hooligan Hefs, Celina Sharma
 
-351 songs - 16 hr 44 min
+352 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [RIDING](https://open.spotify.com/track/46Z99a3wscL05PsmZM4aiD) | [Tmk](https://open.spotify.com/artist/2oFK3R5iz6M9zfKz0YQppP), [YXAN](https://open.spotify.com/artist/1vFU3dBPfEHrZOx9GAm3z9) | [RIDING](https://open.spotify.com/album/4ankxDU4aJ5S4wUgiBXQsF) | 3:14 | 2022-07-04 |  |
 | [Roll Like That](https://open.spotify.com/track/0Euv783XiK456k18nqtsan) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp) | [Roll Like That](https://open.spotify.com/album/6riUfmF6kbbhJlrzFupyYP) | 3:29 | 2022-08-18 |  |
 | [Roll Up](https://open.spotify.com/track/6kAEQBj634Jjk6fHexnQor) | [Jamel](https://open.spotify.com/artist/39N2nBQbJoSC9cRt6jCCaG) | [Roll Up](https://open.spotify.com/album/1qNAoQrShYhTS7iQO9Mlpq) | 3:19 | 2022-06-13 | 2022-10-07 |
+| [Rolling Loud](https://open.spotify.com/track/7hTYdOc41vwhO8EBqRQNJ2) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Rolling Loud](https://open.spotify.com/album/0FudF3AQdTVQXVL2MV6TbP) | 2:55 | 2023-01-26 |  |
 | [Rolls Royce](https://open.spotify.com/track/568p6xW7f55NIJKucvIstH) | [BOY $COUT GATSBY](https://open.spotify.com/artist/5AZH6yzLc1YbNKdB7Db179), [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [Rolls Royce](https://open.spotify.com/album/78OjMSoahcsAUD6Hun8MO4) | 2:46 | 2022-10-13 | 2022-12-16 |
 | [Rowdy](https://open.spotify.com/track/7JmsAPYCojMYyFL8lGGyuc) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc) | [Rowdy](https://open.spotify.com/album/5fyKJGwK7SL5s4LLu35z0x) | 4:05 | 2022-03-21 | 2022-05-13 |
 | [Rude](https://open.spotify.com/track/4tLcwWpyDUkEIY0f5DfFQ7) | [KZ Da Bandit](https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P), [RB](https://open.spotify.com/artist/4glVw8jh5BBgerU9ARDYn4) | [Rude](https://open.spotify.com/album/4J9GlXS82hwkZN7CBEFeVl) | 2:31 | 2022-03-21 | 2022-03-25 |

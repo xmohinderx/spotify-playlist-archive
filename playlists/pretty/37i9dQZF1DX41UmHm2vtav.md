@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,176 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,336 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 43 | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Joy Corporation](https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc) | [Pumped up Kicks \(feat\. Joy Corporation\)](https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO) | 5:42 |
 | 44 | [Home](https://open.spotify.com/track/4EWdGKmUbO3bCTrVfXMzZB) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Home](https://open.spotify.com/album/59xzmS5W9coddqJlDiYUEa) | 3:44 |
 | 45 | [Um Dia Inteiro](https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw) | [DUX](https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6), [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Um Dia Inteiro](https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo) | 3:04 |
-| 46 | [Melhores Bailes Do Mundo](https://open.spotify.com/track/2TS8C1dUfL61wQVr8NgDrW) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [WATILA GYN](https://open.spotify.com/artist/5IfPngxE3IRk9PjoZlVv5l), [DANNTZ!](https://open.spotify.com/artist/4MxOyYxbnV9jnoL6FxAy16) | [Melhores Bailes Do Mundo](https://open.spotify.com/album/7kac11XDCz4yjuQbBo2AC4) | 2:01 |
-| 47 | [Me Cura](https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Me Cura](https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8) | 3:03 |
+| 46 | [Me Cura](https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Me Cura](https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8) | 3:03 |
+| 47 | [Melhores Bailes Do Mundo](https://open.spotify.com/track/2TS8C1dUfL61wQVr8NgDrW) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [WATILA GYN](https://open.spotify.com/artist/5IfPngxE3IRk9PjoZlVv5l), [DANNTZ!](https://open.spotify.com/artist/4MxOyYxbnV9jnoL6FxAy16) | [Melhores Bailes Do Mundo](https://open.spotify.com/album/7kac11XDCz4yjuQbBo2AC4) | 2:01 |
 | 48 | [All The Lies \(with Felix Jaehn & The Vamps\)](https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [All The Lies \(with Felix Jaehn & The Vamps\)](https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL) | 2:59 |
 | 49 | [Youngr](https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Youngr](https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz) | 2:55 |
 | 50 | [In The End \- Remix](https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ) | [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI), [Maffei](https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF), [Bill Sandre](https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC) | [In The End \(Remix\)](https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3) | 2:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [A Tal Canção Pra Lua \- Madism Remix](https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [A Tal Canção Pra Lua \(Madism Remix\)](https://open.spotify.com/album/39lSHTYchhIflEsYUPDKq0) | 3:26 |
 | 70 | [Mais um Dia](https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Mais um Dia](https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR) | 2:18 |
 
-Snapshot ID: `MTY3MzkxODQ1OSwwMDAwMDAwMDhhOWFmYTFmZTcyNTcxOGYxMGJiZjgyYTgyYmM0YjU4`
+Snapshot ID: `MTY3MzkxODQ1OSwwMDAwMDAwMDA0NDUzYzcyYWNkYjg1N2M5NTg3YTJjZWYwYTYwMTBj`

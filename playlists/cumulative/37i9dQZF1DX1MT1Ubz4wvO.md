@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Astronomía Interior en portada.
 
-716 songs - 1 day 19 hr 6 min
+716 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Malos Influencers](https://open.spotify.com/track/0Prg8dI8omlrIlMTQH8i3D) | [Purple Pig](https://open.spotify.com/artist/7Cx2VpYNV4xFURsaPY4FwY) | [Malos Influencers](https://open.spotify.com/album/7zo6oU5v6W1oKBMQgOejZ2) | 3:44 | 2022-09-23 | 2022-10-08 |
 | [MANIQUÍ](https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Buenas Noches Terrícolas](https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD) | 4:07 | 2022-10-07 | 2022-10-15 |
 | [MAPA MUNDI](https://open.spotify.com/track/4o1kpZk5yuFl4INrhYW0Mi) | [Los Chotgun](https://open.spotify.com/artist/4s8cv15mFnD1PClXs7Of5B), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [V Flors](https://open.spotify.com/artist/0lfb7qf0FxcrAt8mbkKimi) | [MAPA MUNDI](https://open.spotify.com/album/3GKJKBsqH4S7GfQmiYKzBu) | 3:41 | 2022-12-02 | 2022-12-10 |
-| [Maquinaria](https://open.spotify.com/track/06h6Nl8Q3iS6JtVYS5Gq8k) | [Havalina](https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2) | [Maquinaria](https://open.spotify.com/album/3bFCwa6Vthya0ywYN6WGtI) | 3:24 | 2023-01-13 |  |
+| [Maquinaria](https://open.spotify.com/track/06h6Nl8Q3iS6JtVYS5Gq8k) | [Havalina](https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2) | [Maquinaria](https://open.spotify.com/album/3bFCwa6Vthya0ywYN6WGtI) | 3:19 | 2023-01-13 |  |
 | [Mar de Fuego](https://open.spotify.com/track/7bXhJhfqdMQMiF0OorggAK) | [Los Tiki Phantoms](https://open.spotify.com/artist/4h2hLlCk6gQXMcrw4Z6ZYt) | [Mar de Fuego](https://open.spotify.com/album/5cRjspSS6U0laa46NUUQFl) | 1:58 | 2022-10-21 | 2022-11-19 |
 | [Marching On](https://open.spotify.com/track/0H8P3xOwv8BbHRI11rJ4lQ) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Marching On](https://open.spotify.com/album/5QJBcKRocUXBop2daYkxoo) | 3:11 | 2022-07-15 | 2022-08-06 |
 | [Maremoto Shake](https://open.spotify.com/track/0mcyq6bCHGF08smeC1B72k) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Maremoto Shake](https://open.spotify.com/album/0bPZLplqluqn69ynqcyye9) | 3:03 | 2022-08-19 | 2022-09-10 |

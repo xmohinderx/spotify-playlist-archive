@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 91708,
+  "num_followers": 92263,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTc1MDA2MCwwMDAwMDAwMDNjMDVjZjY5M2IyMjI3MDc0YTVkMDEzYjAxY2IyOWEw",
+  "snapshot_id": "MTY3MTc1MDA2MCwwMDAwMDAwMGUxNWU5M2JhOWVlYjU2Y2NlZmZmN2MzYTYxMTIzYjFl",
   "tracks": [
     {
       "added_at": "2022-12-22 23:01:00",
@@ -195,26 +195,18 @@
     {
       "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "Flying Octopus",
-        "url": "https://open.spotify.com/album/1QlX9KsPeTDvPdozDwJn1F"
+        "name": "Formula EP",
+        "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
       },
       "artists": [
         {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        },
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
         }
       ],
-      "duration_ms": 211617,
-      "name": "Flying Octopus",
-      "url": "https://open.spotify.com/track/2XWBbVold8LNroIDyeockI"
+      "duration_ms": 433971,
+      "name": "Doppler",
+      "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
     },
     {
       "added_at": "2022-12-22 23:01:00",
@@ -239,18 +231,26 @@
     {
       "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "Formula EP",
-        "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
+        "name": "Flying Octopus",
+        "url": "https://open.spotify.com/album/1QlX9KsPeTDvPdozDwJn1F"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 433971,
-      "name": "Doppler",
-      "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
+      "duration_ms": 211617,
+      "name": "Flying Octopus",
+      "url": "https://open.spotify.com/track/2XWBbVold8LNroIDyeockI"
     },
     {
       "added_at": "2022-12-22 23:01:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-12-22 23:01:00",
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 208759,
-      "name": "Can't Stop the Feeling",
-      "url": "https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE"
-    },
-    {
-      "added_at": "2022-12-22 23:01:00",
-      "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 367846,
       "name": "You Look at Me",
       "url": "https://open.spotify.com/track/05L5ExA33eJEEiuTwXB1up"
+    },
+    {
+      "added_at": "2022-12-22 23:01:00",
+      "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 208759,
+      "name": "Can't Stop the Feeling",
+      "url": "https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE"
     },
     {
       "added_at": "2022-12-22 23:01:00",

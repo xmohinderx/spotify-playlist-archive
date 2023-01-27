@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,546 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,644 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Teri Ore \(Lo\-Fi Flip\)](https://open.spotify.com/track/2KOqnHlrLtl0ZXatUjnTz2) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Teri Ore \(Lo\-Fi Flip\)](https://open.spotify.com/album/4DOaTZd7ucNOhADvgLjfMX) | 4:03 |
 | 2 | [Kesariya \- Lofi Flip](https://open.spotify.com/track/7nsjBUVRQTUEvCReXAtVPi) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Kesariya \(Lofi Flip\)](https://open.spotify.com/album/1b5dv6YOO0glGJLoCBv8Le) | 4:00 |
-| 3 | [Mi amor \- Slowed + Reverb](https://open.spotify.com/track/63ePciJowGDT5SyRTxGAR2) | [Snehit Bansal](https://open.spotify.com/artist/5hUo9HF1M0AtCsJa2MbKWq) | [Mi amor \(Slowed + Reverb\)](https://open.spotify.com/album/008DqRTfhvj8Dodhtqxn0R) | 3:20 |
+| 3 | [Mi amor \- Slowed + Reverb](https://open.spotify.com/track/63ePciJowGDT5SyRTxGAR2) | [Snehit Bansal](https://open.spotify.com/artist/5hUo9HF1M0AtCsJa2MbKWq), [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv) | [Mi amor \(Slowed + Reverb\)](https://open.spotify.com/album/008DqRTfhvj8Dodhtqxn0R) | 3:20 |
 | 4 | [Pee Loon Lofi Mix](https://open.spotify.com/track/5EIFtcs5653Xjgs1gAAB7a) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Kedrock](https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb), [Sd Style](https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X) | [Pee Loon Lofi Mix](https://open.spotify.com/album/3PazOT6VxKjD76BXFOjCak) | 3:14 |
 | 5 | [Samjhawan \- Lofi Flip](https://open.spotify.com/track/1KPAtV3E11Y3pbnzUOtO0d) | [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Samjhawan \(Lofi Flip\)](https://open.spotify.com/album/39AmcXml5CGvhoYnTAhfMc) | 3:47 |
 | 6 | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/track/7oN0Wo7sCVvXPdpxoio3JM) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/album/6pbaTBzAT23yL5xJxJfiFR) | 1:17 |

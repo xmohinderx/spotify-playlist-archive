@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Miel San Marcos con Ingrid Rosario, Marcos Witt, y Daniel Calveti",
-  "num_followers": 116220,
+  "num_followers": 116288,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIwMjI3OSwwMDAwMDAwMGE3MGYwZmYxYTZlNzY2NWRiOTcxMWJhMjU0YTUzMTc4",
+  "snapshot_id": "MTY3NDIwMjI3OSwwMDAwMDAwMDZmMDdkYjdmOTRjOWVmYTE2ZGQ0ZjM0MjRlYzU3Y2Yy",
   "tracks": [
     {
       "added_at": "2023-01-20 08:11:19",
@@ -407,6 +407,30 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
+        "name": "P\u00farpura",
+        "url": "https://open.spotify.com/album/63n3Muw9lQISQScVsrx0i2"
+      },
+      "artists": [
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        },
+        {
+          "name": "Brayan Booz",
+          "url": "https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD"
+        }
+      ],
+      "duration_ms": 180078,
+      "name": "Testimonio",
+      "url": "https://open.spotify.com/track/2JnHvsK86uRzgf8WE4HwKp"
+    },
+    {
+      "added_at": "2023-01-20 08:11:19",
+      "album": {
         "name": "Darme",
         "url": "https://open.spotify.com/album/695um4H2Si43vzZWDwA4Fr"
       },
@@ -439,30 +463,6 @@
       "duration_ms": 208350,
       "name": "Poderoso",
       "url": "https://open.spotify.com/track/7suLotu4fPldWgHbsvvmzz"
-    },
-    {
-      "added_at": "2023-01-20 08:11:19",
-      "album": {
-        "name": "P\u00farpura",
-        "url": "https://open.spotify.com/album/63n3Muw9lQISQScVsrx0i2"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        },
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
-        },
-        {
-          "name": "Brayan Booz",
-          "url": "https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD"
-        }
-      ],
-      "duration_ms": 180078,
-      "name": "Testimonio",
-      "url": "https://open.spotify.com/track/2JnHvsK86uRzgf8WE4HwKp"
     },
     {
       "added_at": "2023-01-20 08:11:19",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
-        "name": "rosa de amor",
-        "url": "https://open.spotify.com/album/2ldKE839o8afQK7gKk7joL"
-      },
-      "artists": [
-        {
-          "name": "Strings And Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 204458,
-      "name": "rosa de amor",
-      "url": "https://open.spotify.com/track/0gNmsJQAUzYulBFCGknFF9"
-    },
-    {
-      "added_at": "2023-01-20 08:11:19",
-      "album": {
         "name": "Le\u00f3n de Jud\u00e1",
         "url": "https://open.spotify.com/album/1ZDes0m61OifCgx2n3C7JC"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 479008,
       "name": "Le\u00f3n de Jud\u00e1",
       "url": "https://open.spotify.com/track/4GZOCkDM55gP41pVmbp6VX"
+    },
+    {
+      "added_at": "2023-01-20 08:11:19",
+      "album": {
+        "name": "rosa de amor",
+        "url": "https://open.spotify.com/album/2ldKE839o8afQK7gKk7joL"
+      },
+      "artists": [
+        {
+          "name": "Strings And Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 204458,
+      "name": "rosa de amor",
+      "url": "https://open.spotify.com/track/0gNmsJQAUzYulBFCGknFF9"
     },
     {
       "added_at": "2023-01-20 08:11:19",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
-        "name": "Amor, Amor, Amor",
-        "url": "https://open.spotify.com/album/46brTenNVzpBIXcJNTlQjk"
-      },
-      "artists": [
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Amor, Amor, Amor - En vivo",
-      "url": "https://open.spotify.com/track/47GvCA8LGKu7oVyPRFpZ39"
-    },
-    {
-      "added_at": "2023-01-20 08:11:19",
-      "album": {
         "name": "Yo Estuve Ah\u00ed",
         "url": "https://open.spotify.com/album/0eprlNkzjreuIsZedYIX0q"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 197498,
       "name": "Yo estuve ah\u00ed",
       "url": "https://open.spotify.com/track/4Ii7OHbeWtFqoCjrGgxnJn"
+    },
+    {
+      "added_at": "2023-01-20 08:11:19",
+      "album": {
+        "name": "Amor, Amor, Amor",
+        "url": "https://open.spotify.com/album/46brTenNVzpBIXcJNTlQjk"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Amor, Amor, Amor - En vivo",
+      "url": "https://open.spotify.com/track/47GvCA8LGKu7oVyPRFpZ39"
     },
     {
       "added_at": "2023-01-20 08:11:19",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
-        "name": "En el estudio con Manny Montes Vol. 4",
-        "url": "https://open.spotify.com/album/7HIGaVBJlUaRxYt8dyXVCP"
-      },
-      "artists": [
-        {
-          "name": "D-One Music",
-          "url": "https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5"
-        },
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "En el estudio con Manny Montes Vol. 4",
-      "url": "https://open.spotify.com/track/2k3zCJ36BmRBINkHV3gWf7"
-    },
-    {
-      "added_at": "2023-01-20 08:11:19",
-      "album": {
         "name": "Confesi\u00f3n",
         "url": "https://open.spotify.com/album/2joym5tICWNDru7PqP4Zbs"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 209269,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/4UZ1ZDZQcERimjHSJIuayR"
+    },
+    {
+      "added_at": "2023-01-20 08:11:19",
+      "album": {
+        "name": "En el estudio con Manny Montes Vol. 4",
+        "url": "https://open.spotify.com/album/7HIGaVBJlUaRxYt8dyXVCP"
+      },
+      "artists": [
+        {
+          "name": "D-One Music",
+          "url": "https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5"
+        },
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "En el estudio con Manny Montes Vol. 4",
+      "url": "https://open.spotify.com/track/2k3zCJ36BmRBINkHV3gWf7"
     },
     {
       "added_at": "2023-01-20 08:11:19",
@@ -807,66 +807,6 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
-        "name": "Hola Jes\u00fas",
-        "url": "https://open.spotify.com/album/0vLrM4pHTB8LPehombeId8"
-      },
-      "artists": [
-        {
-          "name": "Estaci\u00f3n Cero",
-          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
-        },
-        {
-          "name": "Amanda Vernon",
-          "url": "https://open.spotify.com/artist/6U5LavdtWNIZcVmpbOxjWc"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Hola Jes\u00fas",
-      "url": "https://open.spotify.com/track/3swBmzPIbpIiEXWHJ02M2i"
-    },
-    {
-      "added_at": "2023-01-20 08:11:19",
-      "album": {
-        "name": "Presumirte",
-        "url": "https://open.spotify.com/album/6iaJpgtQnim19rS0IT8grv"
-      },
-      "artists": [
-        {
-          "name": "La Sociedad 111",
-          "url": "https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p"
-        }
-      ],
-      "duration_ms": 185494,
-      "name": "Presumirte",
-      "url": "https://open.spotify.com/track/131iByqVfG1L9glVo6JciS"
-    },
-    {
-      "added_at": "2023-01-20 08:11:19",
-      "album": {
-        "name": "Sal y Vive",
-        "url": "https://open.spotify.com/album/63BZaXHHoVRVlvbBjkRPKk"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        },
-        {
-          "name": "Rubiera",
-          "url": "https://open.spotify.com/artist/5RngmQiJGRMuGiPr6H4ad3"
-        },
-        {
-          "name": "Mr. Paradise",
-          "url": "https://open.spotify.com/artist/4se6qBU0M2I86IER53xbYo"
-        }
-      ],
-      "duration_ms": 298012,
-      "name": "Sal y Vive",
-      "url": "https://open.spotify.com/track/05ROv3uLNok7qSb2xE08lB"
-    },
-    {
-      "added_at": "2023-01-20 08:11:19",
-      "album": {
         "name": "Sublime (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/7EkuHD09hqQ1R7NFCaYTwY"
       },
@@ -903,6 +843,42 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
+        "name": "Hola Jes\u00fas",
+        "url": "https://open.spotify.com/album/0vLrM4pHTB8LPehombeId8"
+      },
+      "artists": [
+        {
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+        },
+        {
+          "name": "Amanda Vernon",
+          "url": "https://open.spotify.com/artist/6U5LavdtWNIZcVmpbOxjWc"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Hola Jes\u00fas",
+      "url": "https://open.spotify.com/track/3swBmzPIbpIiEXWHJ02M2i"
+    },
+    {
+      "added_at": "2023-01-20 08:11:19",
+      "album": {
+        "name": "Presumirte",
+        "url": "https://open.spotify.com/album/6iaJpgtQnim19rS0IT8grv"
+      },
+      "artists": [
+        {
+          "name": "La Sociedad 111",
+          "url": "https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p"
+        }
+      ],
+      "duration_ms": 185494,
+      "name": "Presumirte",
+      "url": "https://open.spotify.com/track/131iByqVfG1L9glVo6JciS"
+    },
+    {
+      "added_at": "2023-01-20 08:11:19",
+      "album": {
         "name": "Como fuego",
         "url": "https://open.spotify.com/album/4FGTqRDztDeVermnA0nDod"
       },
@@ -923,22 +899,26 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
-        "name": "Dior",
-        "url": "https://open.spotify.com/album/5D28oJP25nei32y5XBDGZn"
+        "name": "Sal y Vive",
+        "url": "https://open.spotify.com/album/63BZaXHHoVRVlvbBjkRPKk"
       },
       "artists": [
         {
-          "name": "Brayan Booz",
-          "url": "https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD"
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
         },
         {
-          "name": "Borrero",
-          "url": "https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU"
+          "name": "Rubiera",
+          "url": "https://open.spotify.com/artist/5RngmQiJGRMuGiPr6H4ad3"
+        },
+        {
+          "name": "Mr. Paradise",
+          "url": "https://open.spotify.com/artist/4se6qBU0M2I86IER53xbYo"
         }
       ],
-      "duration_ms": 206392,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/6jxPulWx8NSAT7moQeox2D"
+      "duration_ms": 298012,
+      "name": "Sal y Vive",
+      "url": "https://open.spotify.com/track/05ROv3uLNok7qSb2xE08lB"
     },
     {
       "added_at": "2023-01-20 08:11:19",
@@ -959,6 +939,26 @@
       "duration_ms": 234811,
       "name": "Una Canci\u00f3n para la Comuni\u00f3n",
       "url": "https://open.spotify.com/track/4gXNHUdnGkdrm2RakoJvr4"
+    },
+    {
+      "added_at": "2023-01-20 08:11:19",
+      "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/5D28oJP25nei32y5XBDGZn"
+      },
+      "artists": [
+        {
+          "name": "Brayan Booz",
+          "url": "https://open.spotify.com/artist/6c4FK057PXYFZR8mBFgnCD"
+        },
+        {
+          "name": "Borrero",
+          "url": "https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU"
+        }
+      ],
+      "duration_ms": 206392,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/6jxPulWx8NSAT7moQeox2D"
     },
     {
       "added_at": "2023-01-20 08:11:19",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
+        "name": "M\u00e1s Que Suficiente (En Vivo)",
+        "url": "https://open.spotify.com/album/0qEshKTYaXtAACKK1KRon7"
+      },
+      "artists": [
+        {
+          "name": "Revoluci\u00f3n Total",
+          "url": "https://open.spotify.com/artist/5PVYGpWaupI69Tqby8MQg5"
+        }
+      ],
+      "duration_ms": 338077,
+      "name": "M\u00e1s Que Suficiente (En Vivo)",
+      "url": "https://open.spotify.com/track/3N6MtEFJudnxVCGFoRKicl"
+    },
+    {
+      "added_at": "2023-01-20 08:11:19",
+      "album": {
         "name": "X Mi PR",
         "url": "https://open.spotify.com/album/6z3GYgdUiBY6ecCwr5oyiT"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 189158,
       "name": "X Mi PR",
       "url": "https://open.spotify.com/track/7jhNUVZxFDEwsz5ZJc0ZaB"
-    },
-    {
-      "added_at": "2023-01-20 08:11:19",
-      "album": {
-        "name": "Disfruta La Vida",
-        "url": "https://open.spotify.com/album/3ghiRPzWjaVBsRL2xgEluS"
-      },
-      "artists": [
-        {
-          "name": "Jinys",
-          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
-        }
-      ],
-      "duration_ms": 201734,
-      "name": "Disfruta La Vida",
-      "url": "https://open.spotify.com/track/4xwvgKoDNkhXhmKpPJWru0"
     },
     {
       "added_at": "2023-01-20 08:11:19",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-01-20 08:11:19",
       "album": {
-        "name": "M\u00e1s Que Suficiente (En Vivo)",
-        "url": "https://open.spotify.com/album/0qEshKTYaXtAACKK1KRon7"
+        "name": "Disfruta La Vida",
+        "url": "https://open.spotify.com/album/3ghiRPzWjaVBsRL2xgEluS"
       },
       "artists": [
         {
-          "name": "Revoluci\u00f3n Total",
-          "url": "https://open.spotify.com/artist/5PVYGpWaupI69Tqby8MQg5"
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
         }
       ],
-      "duration_ms": 338077,
-      "name": "M\u00e1s Que Suficiente (En Vivo)",
-      "url": "https://open.spotify.com/track/3N6MtEFJudnxVCGFoRKicl"
+      "duration_ms": 201734,
+      "name": "Disfruta La Vida",
+      "url": "https://open.spotify.com/track/4xwvgKoDNkhXhmKpPJWru0"
     },
     {
       "added_at": "2023-01-20 08:11:19",

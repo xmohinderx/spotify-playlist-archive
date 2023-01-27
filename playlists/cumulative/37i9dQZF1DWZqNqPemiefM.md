@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-453 songs - 1 day 12 hr 9 min
+454 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [FEET](https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:13 | 2022-04-07 |  |
 | [FINALE=CALENDAR](https://open.spotify.com/track/3UVeASU3LJnY2PHCgHW3WK) | [YAS\-KAZ](https://open.spotify.com/artist/73PSRB59paCEuzf26Hs6jr) | [縄文頌 YASーKAZ](https://open.spotify.com/album/241Uv6kYG9L9xtR5C7R2yV) | 3:24 | 2022-03-31 | 2022-05-01 |
 | [Floating](https://open.spotify.com/track/4U8YAHXSNUHaqk7dzP6MJA) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Floating](https://open.spotify.com/album/5BdlwTChgmfLbryD73UXOp) | 2:16 | 2022-03-31 | 2022-07-27 |
-| [Floating](https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Floating](https://open.spotify.com/album/6b2Sqwcq4FXgRXLVsbIPdr) | 2:16 | 2023-01-05 |  |
+| [Floating](https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Floating](https://open.spotify.com/album/6b2Sqwcq4FXgRXLVsbIPdr) | 2:16 | 2023-01-05 | 2023-01-27 |
 | [Floating People \(San Francisco\)](https://open.spotify.com/track/5h8l2tGCIzBPAGBV2eHHOs) | [UNKNOWN ME](https://open.spotify.com/artist/5tmYdSKm3f4o6oOFCuxgtR) | [Subtropics](https://open.spotify.com/album/3I0XvrPCUYXiCdEuVcSRH9) | 3:50 | 2022-03-31 | 2022-07-17 |
 | [Flowers](https://open.spotify.com/track/7f69rFN3ec1Qd6bqqgF2qo) | [Makoto Nagata](https://open.spotify.com/artist/5JV3x2QqxVu41zI33U6Bx0) | [Wrapped Death](https://open.spotify.com/album/73umIz3uf1q2OFFIsYm9iR) | 4:24 | 2022-08-18 | 2022-11-18 |
 | [Flowing](https://open.spotify.com/track/3VSye7jZrMaYRpI3EA64Ru) | [evala](https://open.spotify.com/artist/6EewOOOCbXlmonZeSG5bbd) | [Acoustic Bend](https://open.spotify.com/album/5sUHb2FbgLxbpzpDHtgJZg) | 2:20 | 2022-04-07 | 2022-07-10 |
@@ -253,6 +253,7 @@
 | [Nightgulls](https://open.spotify.com/track/2rwpyt225r7zv2Aj2fbyax) | [Ippu\-Do](https://open.spotify.com/artist/6spBI2ueYjGHoTzRJ9fcAR) | [NIGHT MIRAGE +7](https://open.spotify.com/album/531P2A9feRSk86bIiDLhJa) | 5:19 | 2022-03-31 | 2022-05-21 |
 | [NINE](https://open.spotify.com/track/3TVtNYD5Q9sISzZqb0ohlX) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 | 2022-03-31 | 2022-04-21 |
 | [No One Belongs Here More Than You](https://open.spotify.com/track/4ZYnDfJeme2x6lbmhU6leX) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Lunar Maria](https://open.spotify.com/album/56gwSOqLKyYRatpYAtazxs) | 4:40 | 2022-04-07 | 2022-07-08 |
+| [Nobody knows](https://open.spotify.com/track/79qXqVsJ0aaYXeZ6QoeGjx) | [Akiyoshi Yasuda](https://open.spotify.com/artist/3xQF7Pm26nA6eDFxgqKtRW) | [memento \-day3](https://open.spotify.com/album/2XG3vM8CWIpKvY9ychR9ZA) | 3:37 | 2023-01-26 |  |
 | [Nostalgia](https://open.spotify.com/track/1SDCau14XiiaPB67yj9qZ9) | [Ramza](https://open.spotify.com/artist/1Trmp5nqg46a1InSpynV72) | [Whispering Jewels \- ひび割れの鼓動](https://open.spotify.com/album/7ahgNbVn0iLISPEwXU2hJO) | 8:56 | 2022-09-15 | 2022-12-24 |
 | [Nostalgia 2](https://open.spotify.com/track/2v6fUufnDYNvoevK8ILcNy) | [Saito Koji](https://open.spotify.com/artist/0S7H7SA7XfrTqy2gYj4jAS) | [Nostalgia](https://open.spotify.com/album/4c44do7drzjAIJJnOqvZmf) | 5:33 | 2022-04-07 | 2022-04-12 |
 | [Nothing01](https://open.spotify.com/track/5c073vLIWI3dRUSZeGgEkM) | [ass](https://open.spotify.com/artist/1BwcsRjCnhyM3SNZfT4jQy) | [Ymnat](https://open.spotify.com/album/1qs0A3slfbHKdNNtIptkol) | 3:28 | 2022-04-07 | 2022-04-10 |

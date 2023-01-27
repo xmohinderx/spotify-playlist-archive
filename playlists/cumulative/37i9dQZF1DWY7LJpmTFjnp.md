@@ -2,7 +2,7 @@
 
 ### [La + Chingona](https://open.spotify.com/playlist/37i9dQZF1DWY7LJpmTFjnp)
 
-> Una dosis con lo más chingón pa'l gusto mexicano\. Molotov en portada.
+> Una dosis con lo más chingón pa'l gusto mexicano\. Sergio Arau en portada.
 
 105 songs - 6 hr 55 min
 

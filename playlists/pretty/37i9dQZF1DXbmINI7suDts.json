@@ -1,13 +1,29 @@
 {
   "description": "Get your spirits up and manage your mood any time of the day",
-  "num_followers": 3531,
+  "num_followers": 3549,
   "original_name": "Mutima ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIwODMzNSwwMDAwMDAwMDUwMjM3NDBmNzcxOTdmMmUxZjJlZmQ5NjYwN2NkNTdi",
+  "snapshot_id": "MTY3NDc2Njc0MCwwMDAwMDAwMGI2MTMxN2RkYjAxMzRmZWJiNTliMzgyZDUyMTdjYTBh",
   "tracks": [
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
+        "name": "Pity Party",
+        "url": "https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y"
+      },
+      "artists": [
+        {
+          "name": "Kamanzii",
+          "url": "https://open.spotify.com/artist/5Qzz9wRaEZdcWmSvCEn5Hb"
+        }
+      ],
+      "duration_ms": 204140,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA"
+    },
     {
       "added_at": "2022-11-17 20:59:00",
       "album": {
@@ -23,6 +39,50 @@
       "duration_ms": 136818,
       "name": "Your Number",
       "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
+    },
+    {
+      "added_at": "2023-01-26 20:59:00",
+      "album": {
+        "name": "Give Me Your Hand",
+        "url": "https://open.spotify.com/album/25EzvrXbFM5qKNy2qHmZZH"
+      },
+      "artists": [
+        {
+          "name": "Bravo Lion",
+          "url": "https://open.spotify.com/artist/0t8TuUkIVtcfdSzr06o83A"
+        },
+        {
+          "name": "Dvoice",
+          "url": "https://open.spotify.com/artist/5rAc0Q7Vylz98aK0UWJ6Gf"
+        }
+      ],
+      "duration_ms": 239177,
+      "name": "Give Me Your Hand",
+      "url": "https://open.spotify.com/track/6SzIN4egYTNrqE22mcb6WR"
+    },
+    {
+      "added_at": "2022-09-08 20:59:00",
+      "album": {
+        "name": "Leaving Summer",
+        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Leaving Summer",
+      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     },
     {
       "added_at": "2022-12-09 12:05:24",
@@ -49,6 +109,22 @@
       "url": "https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x"
     },
     {
+      "added_at": "2023-01-26 20:59:00",
+      "album": {
+        "name": "Abantu",
+        "url": "https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Abantu",
+      "url": "https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa"
+    },
+    {
       "added_at": "2023-01-12 20:59:00",
       "album": {
         "name": "Sema",
@@ -67,18 +143,18 @@
     {
       "added_at": "2022-06-06 07:52:52",
       "album": {
-        "name": "Pity Party",
-        "url": "https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y"
+        "name": "Mountains of the Moon",
+        "url": "https://open.spotify.com/album/4Yald2Q4kTDKMjiADNkXTs"
       },
       "artists": [
         {
-          "name": "Kamanzii",
-          "url": "https://open.spotify.com/artist/5Qzz9wRaEZdcWmSvCEn5Hb"
+          "name": "Abaasa",
+          "url": "https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc"
         }
       ],
-      "duration_ms": 204140,
-      "name": "Pity Party",
-      "url": "https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA"
+      "duration_ms": 197068,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/3tv6yZvQSk5easUqOh0P1O"
     },
     {
       "added_at": "2022-06-06 07:52:52",
@@ -95,22 +171,6 @@
       "duration_ms": 269386,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
-        "name": "Mountains of the Moon",
-        "url": "https://open.spotify.com/album/4Yald2Q4kTDKMjiADNkXTs"
-      },
-      "artists": [
-        {
-          "name": "Abaasa",
-          "url": "https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc"
-        }
-      ],
-      "duration_ms": 197068,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/3tv6yZvQSk5easUqOh0P1O"
     },
     {
       "added_at": "2023-01-12 20:59:00",
@@ -145,28 +205,20 @@
       "url": "https://open.spotify.com/track/7smBB3wQQe6eGZMMVVF4mv"
     },
     {
-      "added_at": "2022-09-08 20:59:00",
+      "added_at": "2023-01-26 20:59:00",
       "album": {
-        "name": "Leaving Summer",
-        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
+        "name": "Night Skies In Bombo",
+        "url": "https://open.spotify.com/album/7LYDewP8etluBzrQtMpRsH"
       },
       "artists": [
         {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        },
-        {
-          "name": "Akeine",
-          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+          "name": "BunjoVille Ug",
+          "url": "https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Leaving Summer",
-      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
+      "duration_ms": 234437,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/37cNVffAqXl3VRVSnhvB59"
     },
     {
       "added_at": "2022-08-05 10:09:38",
@@ -217,6 +269,22 @@
       "url": "https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O"
     },
     {
+      "added_at": "2022-09-01 20:59:00",
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
+      },
+      "artists": [
+        {
+          "name": "K!MERA",
+          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
+        }
+      ],
+      "duration_ms": 259071,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
+    },
+    {
       "added_at": "2022-11-10 20:59:00",
       "album": {
         "name": "Muunda",
@@ -251,26 +319,6 @@
       "duration_ms": 205766,
       "name": "Fire Deh Deh",
       "url": "https://open.spotify.com/track/3CLcX5MphVX20oqeGDaNT7"
-    },
-    {
-      "added_at": "2022-09-22 20:59:00",
-      "album": {
-        "name": "Part2 (Dinner in Maui)",
-        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
-      },
-      "artists": [
-        {
-          "name": "Hermez",
-          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
-        },
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        }
-      ],
-      "duration_ms": 193896,
-      "name": "Part2 (Dinner in Maui)",
-      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
     },
     {
       "added_at": "2022-06-06 07:52:52",
@@ -385,22 +433,6 @@
       "url": "https://open.spotify.com/track/6aliqk3DjcxVudF7DimupW"
     },
     {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 133537,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
-    },
-    {
       "added_at": "2022-07-25 07:38:54",
       "album": {
         "name": "Blue Detail",
@@ -467,22 +499,6 @@
       "duration_ms": 166897,
       "name": "Naki",
       "url": "https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq"
-    },
-    {
-      "added_at": "2022-09-01 20:59:00",
-      "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x"
-      },
-      "artists": [
-        {
-          "name": "K!MERA",
-          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
-        }
-      ],
-      "duration_ms": 259071,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF"
     },
     {
       "added_at": "2022-06-06 07:52:52",
@@ -631,6 +647,42 @@
     {
       "added_at": "2022-06-06 07:52:52",
       "album": {
+        "name": "The Book of Kirya",
+        "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "The Blue Dress Song",
+      "url": "https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0"
+    },
+    {
+      "added_at": "2022-09-22 20:59:00",
+      "album": {
+        "name": "Part2 (Dinner in Maui)",
+        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
+      },
+      "artists": [
+        {
+          "name": "Hermez",
+          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 193896,
+      "name": "Part2 (Dinner in Maui)",
+      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
         "name": "One Life",
         "url": "https://open.spotify.com/album/49tKHYj8bb3pmUoo2PbnoD"
       },
@@ -695,22 +747,6 @@
       "duration_ms": 213733,
       "name": "Best Thing",
       "url": "https://open.spotify.com/track/7avBilzcSIuGxBRxDAn5Qv"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
-        "name": "The Book of Kirya",
-        "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 192706,
-      "name": "The Blue Dress Song",
-      "url": "https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0"
     },
     {
       "added_at": "2022-06-06 07:52:52",
@@ -839,42 +875,6 @@
     {
       "added_at": "2022-06-06 07:52:52",
       "album": {
-        "name": "Love and Light",
-        "url": "https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ"
-      },
-      "artists": [
-        {
-          "name": "Izabelug",
-          "url": "https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ"
-        },
-        {
-          "name": "Afrie",
-          "url": "https://open.spotify.com/artist/5TfXPuuJjjcEDJjeSbKd2A"
-        }
-      ],
-      "duration_ms": 199760,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/5Uj7Pb5JlONVHEQLKzoiF3"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
-        "name": "Kukaliba",
-        "url": "https://open.spotify.com/album/306oZUKME7u2xQ9eIa5cdD"
-      },
-      "artists": [
-        {
-          "name": "Rema namakula",
-          "url": "https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr"
-        }
-      ],
-      "duration_ms": 202056,
-      "name": "Muchuzi",
-      "url": "https://open.spotify.com/track/4LAHC8YHdw0IEQZNDUagmD"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/4JxJjVcjULbJNQxBPpH324"
       },
@@ -963,42 +963,6 @@
     {
       "added_at": "2022-06-06 07:52:52",
       "album": {
-        "name": "Niko Tayari",
-        "url": "https://open.spotify.com/album/0K34dlSrXSokGh4VG9X2EL"
-      },
-      "artists": [
-        {
-          "name": "Daddy Cabu",
-          "url": "https://open.spotify.com/artist/10RsOjLENonmgQAiBBbFXe"
-        },
-        {
-          "name": "Lamu",
-          "url": "https://open.spotify.com/artist/5ygdLFNJNX7nuQbZKb26lS"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Niko Tayari",
-      "url": "https://open.spotify.com/track/6aGRoz8dTzxypGDVBaoDYH"
-    },
-    {
-      "added_at": "2022-12-09 12:05:24",
-      "album": {
-        "name": "Sing For You (Acoustic version)",
-        "url": "https://open.spotify.com/album/6EfDjpkOMVSaMdjnaS7HD7"
-      },
-      "artists": [
-        {
-          "name": "Jozzi Firebouy",
-          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Sing For You - Acoustic version",
-      "url": "https://open.spotify.com/track/232FrkWVjJkPjqX1P8tstE"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
         "name": "Pick Up",
         "url": "https://open.spotify.com/album/593JM1cjCgPaAIx8fIOFwu"
       },
@@ -1039,6 +1003,26 @@
       "duration_ms": 139750,
       "name": "HERE THEY COME",
       "url": "https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
+        "name": "Love and Light",
+        "url": "https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ"
+      },
+      "artists": [
+        {
+          "name": "Izabelug",
+          "url": "https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ"
+        },
+        {
+          "name": "Afrie",
+          "url": "https://open.spotify.com/artist/5TfXPuuJjjcEDJjeSbKd2A"
+        }
+      ],
+      "duration_ms": 199760,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/5Uj7Pb5JlONVHEQLKzoiF3"
     },
     {
       "added_at": "2022-06-06 07:52:52",
@@ -1091,6 +1075,22 @@
       "duration_ms": 195652,
       "name": "Angel of Mine",
       "url": "https://open.spotify.com/track/0UoH7Il9Ns8puNMo73R4r7"
+    },
+    {
+      "added_at": "2022-12-09 12:05:24",
+      "album": {
+        "name": "Sing For You (Acoustic version)",
+        "url": "https://open.spotify.com/album/6EfDjpkOMVSaMdjnaS7HD7"
+      },
+      "artists": [
+        {
+          "name": "Jozzi Firebouy",
+          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "Sing For You - Acoustic version",
+      "url": "https://open.spotify.com/track/232FrkWVjJkPjqX1P8tstE"
     }
   ],
   "unique_name": "Mutima ",

@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW?si=mDfAGq-yRuWkOsyfCJ10kw\" > Ajebutter22 </a> ",
-  "num_followers": 14961,
+  "num_followers": 14996,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE3MjgwMCwwMDAwMDAwMDZjYzE5MTk4NDA3ODUwZTQ0OWM0M2I1MzBiYWI1MTA5",
+  "snapshot_id": "MTY3NDE3MjgwMCwwMDAwMDAwMDA3MjkyNTQ1ODJiOGE5OTNkYjMzZTdiMTE4ZjBlYmY3",
   "tracks": [
     {
       "added_at": "2023-01-20 00:00:00",
@@ -841,26 +841,6 @@
       "url": "https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD"
     },
     {
-      "added_at": "2022-12-02 04:54:11",
-      "album": {
-        "name": "Naira to Pounds",
-        "url": "https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr"
-      },
-      "artists": [
-        {
-          "name": "Zoro",
-          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
-        },
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 171535,
-      "name": "Naira to Pounds",
-      "url": "https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Bando Diaries",
@@ -879,6 +859,26 @@
       "duration_ms": 158298,
       "name": "Bando Diaries",
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
+    },
+    {
+      "added_at": "2022-12-02 04:54:11",
+      "album": {
+        "name": "Naira to Pounds",
+        "url": "https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr"
+      },
+      "artists": [
+        {
+          "name": "Zoro",
+          "url": "https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 171535,
+      "name": "Naira to Pounds",
+      "url": "https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1"
     },
     {
       "added_at": "2022-08-12 05:06:58",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
-    },
-    {
       "added_at": "2022-12-08 23:00:00",
       "album": {
         "name": "Monica",
@@ -1029,22 +1013,6 @@
       "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
     },
     {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "The Lost Boy (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7MDNR9DbdaUzv03PKMIkrp"
-      },
-      "artists": [
-        {
-          "name": "Erigga",
-          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
-        }
-      ],
-      "duration_ms": 153182,
-      "name": "THE GOAT",
-      "url": "https://open.spotify.com/track/6pLcTVmCUa6cDBAcwi9c3h"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Gbagada Express",
@@ -1069,6 +1037,38 @@
       "url": "https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "The Lost Boy (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7MDNR9DbdaUzv03PKMIkrp"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        }
+      ],
+      "duration_ms": 153182,
+      "name": "THE GOAT",
+      "url": "https://open.spotify.com/track/6pLcTVmCUa6cDBAcwi9c3h"
+    },
+    {
       "added_at": "2022-12-02 04:54:11",
       "album": {
         "name": "Your Waist",
@@ -1091,26 +1091,6 @@
       "duration_ms": 205794,
       "name": "Your Waist",
       "url": "https://open.spotify.com/track/2QKkkwmfTUA71dfLnMES9P"
-    },
-    {
-      "added_at": "2022-10-28 12:56:05",
-      "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1221,6 +1201,46 @@
       "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
     },
     {
+      "added_at": "2022-10-28 12:56:05",
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Omo X 100",
+        "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
+      },
+      "artists": [
+        {
+          "name": "Reminisce",
+          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 126750,
+      "name": "Omo X 100",
+      "url": "https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
@@ -1321,42 +1341,6 @@
       "url": "https://open.spotify.com/track/6v3uGqyVkVIfFfoWHNHH6v"
     },
     {
-      "added_at": "2022-08-05 07:43:47",
-      "album": {
-        "name": "Rap Jesu",
-        "url": "https://open.spotify.com/album/3HZNv2fC4NLUhfev4bES8w"
-      },
-      "artists": [
-        {
-          "name": "MOJO AF",
-          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
-        }
-      ],
-      "duration_ms": 151048,
-      "name": "Rap Jesu",
-      "url": "https://open.spotify.com/track/7j8WXEaW42vHouOocKCiF9"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Omo X 100",
-        "url": "https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi"
-      },
-      "artists": [
-        {
-          "name": "Reminisce",
-          "url": "https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 126750,
-      "name": "Omo X 100",
-      "url": "https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "B A H D",
@@ -1373,28 +1357,36 @@
       "url": "https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-09-12 09:50:28",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8"
+        "name": "Disturb / Pablo Moves",
+        "url": "https://open.spotify.com/album/1NM948f5uEGrjeYXXy5MkM"
       },
       "artists": [
         {
-          "name": "Basketmouth",
-          "url": "https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
         }
       ],
-      "duration_ms": 163507,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw"
+      "duration_ms": 172000,
+      "name": "Disturb",
+      "url": "https://open.spotify.com/track/2R3CNCOX4wqB1goYTh1h0U"
+    },
+    {
+      "added_at": "2022-08-05 07:43:47",
+      "album": {
+        "name": "Rap Jesu",
+        "url": "https://open.spotify.com/album/3HZNv2fC4NLUhfev4bES8w"
+      },
+      "artists": [
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        }
+      ],
+      "duration_ms": 151048,
+      "name": "Rap Jesu",
+      "url": "https://open.spotify.com/track/7j8WXEaW42vHouOocKCiF9"
     }
   ],
   "unique_name": "Naija Bars ",

@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 127474,
+  "num_followers": 127617,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA3NzE5MCwwMDAwMDAwMDE5ZjZkN2UyMGFjMDRmNjE0ZTY2MjU1M2NiMzE3ODlh",
+  "snapshot_id": "MTY3NDA3NzE5MCwwMDAwMDAwMGZkZDc1MTdlNjcxZDIzN2I1MzRlOTJiZThmZWI0ZmVm",
   "tracks": [
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "Learning To Breathe",
+        "url": "https://open.spotify.com/album/4rpXUpnO39yG7ETyugzzIs"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Dare You To Move",
+      "url": "https://open.spotify.com/track/4x3381mYJqptPqT6OKUfmu"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "Ultimate Santana",
         "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 222440,
       "name": "Into the Night (feat. Chad Kroeger)",
       "url": "https://open.spotify.com/track/5Hv1QAbRWrUSUHaT0CmnMS"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "Learning To Breathe",
-        "url": "https://open.spotify.com/album/4rpXUpnO39yG7ETyugzzIs"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Dare You To Move",
-      "url": "https://open.spotify.com/track/4x3381mYJqptPqT6OKUfmu"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "The Invisible Invasion",
-        "url": "https://open.spotify.com/album/1PioHkWD8fyM5UhrzxMQkS"
-      },
-      "artists": [
-        {
-          "name": "The Coral",
-          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
-        }
-      ],
-      "duration_ms": 152520,
-      "name": "In the Morning",
-      "url": "https://open.spotify.com/track/3q7D4kfMcju2alVibiUAcz"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Songs From An American Movie: Learning How To Smile",
         "url": "https://open.spotify.com/album/2GQ3ljlp19JGE7qvE89PqF"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 280813,
       "name": "Wonderful",
       "url": "https://open.spotify.com/track/0WHOPmOuQKuu05k4g3UTvk"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "The Invisible Invasion",
+        "url": "https://open.spotify.com/album/1PioHkWD8fyM5UhrzxMQkS"
+      },
+      "artists": [
+        {
+          "name": "The Coral",
+          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+        }
+      ],
+      "duration_ms": 152520,
+      "name": "In the Morning",
+      "url": "https://open.spotify.com/track/3q7D4kfMcju2alVibiUAcz"
     },
     {
       "added_at": "2023-01-18 21:26:30",

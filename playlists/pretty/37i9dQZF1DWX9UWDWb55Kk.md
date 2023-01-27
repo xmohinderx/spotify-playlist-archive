@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,621 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,693 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -275,7 +275,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 265 | [Strained Are We](https://open.spotify.com/track/5IQynlcf86jvfQYj2UkYXJ) | [UNDERHER](https://open.spotify.com/artist/450wFwmuEK6ytahAaWlhbX) | [Dark Souls EP](https://open.spotify.com/album/7I7HkWDAGmsNIrDpkH3pAI) | 7:04 |
 | 266 | [Move Your Feet](https://open.spotify.com/track/670lqX7FWkegmFz41iUrVY) | [DESTABILIZED](https://open.spotify.com/artist/4nu031RbrdRCeIMN9o6PTP) | [Move Your Feet](https://open.spotify.com/album/2eG5jBTdn3Q5I8ffJNb5Sv) | 3:22 |
 | 267 | [Swipe It Off](https://open.spotify.com/track/6oBm0LyHOSPAHUyaCWkGVQ) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Brazzabelle](https://open.spotify.com/artist/0Vqd4JxqpC1sfl2n0Cn0Zr) | [Swipe It Off](https://open.spotify.com/album/58U88uG7iregTvZAFKIQsZ) | 2:29 |
-| 268 | [Take Me with You](https://open.spotify.com/track/7g4x9Np42hShfS2hxpFxLa) | [Monika](https://open.spotify.com/artist/3pzYLjewZFeM713sUIb8Oq) | [Secret in the Dark](https://open.spotify.com/album/0zNkxFt5g1hJi64XE4Zw67) | 5:06 |
+| 268 | [Take Me with You](https://open.spotify.com/track/7g4x9Np42hShfS2hxpFxLa) | [Monika](https://open.spotify.com/artist/60YJi3abieLZxGxwtBv7Jh) | [Secret in the Dark](https://open.spotify.com/album/0zNkxFt5g1hJi64XE4Zw67) | 5:06 |
 | 269 | [Wild Ones](https://open.spotify.com/track/2Nfwhr89NY1PKY0Cb4If7o) | [The Rassle](https://open.spotify.com/artist/1w7xqTJFKpD7XS03t0KkuU) | [Wild Ones](https://open.spotify.com/album/3HmVyQwJj2ectPIPdP9zHF) | 4:05 |
 | 270 | [Resistiré](https://open.spotify.com/track/2oI6d7XcMz1AMTQhDopV5J) | [Duo Dinamico](https://open.spotify.com/artist/1TiGxAkU8w0xBCVFOP6Ttl) | [En Forma](https://open.spotify.com/album/1o1XBaN4Jinqh1j3MrEzI2) | 4:01 |
 | 271 | [Flerte Revival](https://open.spotify.com/track/2t2HDBOr6qB4BN5R3Pl0bF) | [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke) | [Letrux em Noite de Climão](https://open.spotify.com/album/7fjCl4UUhvatyhujWTaebT) | 3:10 |

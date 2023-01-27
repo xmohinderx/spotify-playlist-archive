@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Gui Brazil",
-  "num_followers": 94118,
+  "num_followers": 94191,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MTk3MiwwMDAwMDAwMDNjZTc5NDY5ZmY3M2RlNTk2MWM4ODk0ODZlODFmOGQz",
+  "snapshot_id": "MTY3MzU4MTk3MiwwMDAwMDAwMGE5OTdlMGE4YWM0ZTRlYTI5M2M0ZGI1MWVkN2E4MzNl",
   "tracks": [
     {
       "added_at": "2023-01-13 03:52:52",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
-        "name": "Tudo Que H\u00e1 em Mim Te Adora (Remix)",
-        "url": "https://open.spotify.com/album/6LkNHdL335Go1hFnhqMJRY"
-      },
-      "artists": [
-        {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
-        },
-        {
-          "name": "Banda Rafah",
-          "url": "https://open.spotify.com/artist/2cHnwFzccVJ7AdQWUmVGXm"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Tudo Que H\u00e1 em Mim Te Adora - Remix",
-      "url": "https://open.spotify.com/track/7njYDKF5FPtyDrqY5MnSUf"
-    },
-    {
-      "added_at": "2023-01-13 03:52:52",
-      "album": {
         "name": "Eu Vou",
         "url": "https://open.spotify.com/album/2l0kfJQDmsBIaomiLBgpN8"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 201600,
       "name": "Eu Vou",
       "url": "https://open.spotify.com/track/2YgeBn80B7K2RGgeVdsJbX"
+    },
+    {
+      "added_at": "2023-01-13 03:52:52",
+      "album": {
+        "name": "Tudo Que H\u00e1 em Mim Te Adora (Remix)",
+        "url": "https://open.spotify.com/album/6LkNHdL335Go1hFnhqMJRY"
+      },
+      "artists": [
+        {
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        },
+        {
+          "name": "Banda Rafah",
+          "url": "https://open.spotify.com/artist/2cHnwFzccVJ7AdQWUmVGXm"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Tudo Que H\u00e1 em Mim Te Adora - Remix",
+      "url": "https://open.spotify.com/track/7njYDKF5FPtyDrqY5MnSUf"
     },
     {
       "added_at": "2023-01-13 03:52:52",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
+        "name": "Caminho Seguro",
+        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caminho Seguro",
+      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
+    },
+    {
+      "added_at": "2023-01-13 03:52:52",
+      "album": {
         "name": "Te Seguirei",
         "url": "https://open.spotify.com/album/3j4H2AabxhI6Fw09Ewd6Pd"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 178863,
       "name": "Te Seguirei",
       "url": "https://open.spotify.com/track/1XkJ57HfgrIQu33KU9zgrf"
-    },
-    {
-      "added_at": "2023-01-13 03:52:52",
-      "album": {
-        "name": "Caminho Seguro",
-        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caminho Seguro",
-      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
     },
     {
       "added_at": "2023-01-13 03:52:52",

@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254.
 
-93 songs - 4 hr 52 min
+95 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Balalu](https://open.spotify.com/track/0ARRlq8N1s8cAQ0ykjAez9) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [NDANI YA COCKPIT 3](https://open.spotify.com/album/3NvCDHqPpNi1y3lVhmAAsy) | 5:33 | 2022-12-09 |  |
 | [Blue Ticks \(feat\. Femi One\)](https://open.spotify.com/track/4idmyddVB7baddyWJWDnEF) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Blue Ticks \(feat\. Femi One\)](https://open.spotify.com/album/2TNxPFOTblCkmnndT4Z3Ki) | 4:55 | 2022-06-16 |  |
 | [Bold](https://open.spotify.com/track/6mOCm8DdxOZkfkpIFpeQXv) | [Asum Garvey](https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [The Asum Cut](https://open.spotify.com/album/1ZCpvmX0lX5oe4VRRJTQfl) | 3:12 | 2022-06-16 | 2022-10-14 |
-| [Borrow](https://open.spotify.com/track/5Fy8z5xuJHsd6Id0DYRxZN) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Borrow](https://open.spotify.com/album/5KPBYQCbDjDW1depOwv61k) | 2:06 | 2022-05-05 |  |
+| [Borrow](https://open.spotify.com/track/5Fy8z5xuJHsd6Id0DYRxZN) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Borrow](https://open.spotify.com/album/5KPBYQCbDjDW1depOwv61k) | 2:06 | 2022-05-05 | 2023-01-27 |
+| [Can't Explain](https://open.spotify.com/track/54JJgbC9WjqEEQukBlCJzh) | [Daney B](https://open.spotify.com/artist/6epD1176qeIbTNiB4Tx3dG) | [Can't Explain](https://open.spotify.com/album/3q3wWQdqqEycnfOowIkiej) | 2:48 | 2023-01-26 |  |
 | [CATALYST](https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:44 | 2022-05-19 |  |
 | [Catalyst](https://open.spotify.com/track/0eYtxjlZfYQEsqCWzzptuO) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 2:47 | 2022-05-19 | 2022-12-09 |
 | [CHECKLIST](https://open.spotify.com/track/4vSPH1x7oYohAUEoYehl2b) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E) | [CHECKLIST](https://open.spotify.com/album/1AtdGKcZ4hjcWTBDGDRpD2) | 3:25 | 2022-08-04 |  |
@@ -55,6 +56,7 @@
 | [Mazza](https://open.spotify.com/track/1kAL4G6ScoiGFB1YWRKtj7) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Kombat](https://open.spotify.com/artist/3lWesKnd7TQsvcI6MpHB6o) | [Mazza](https://open.spotify.com/album/5xk0cKFFkH0cZtSnufyU6a) | 2:54 | 2022-03-17 | 2023-01-20 |
 | [Mbona?](https://open.spotify.com/track/5hJ9UhvS0IFU2docn62NAq) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Mbona?](https://open.spotify.com/album/4VCwHlYHoyBL86bpXbORGh) | 3:53 | 2022-06-23 |  |
 | [Mc Mca](https://open.spotify.com/track/0wAgvKKxVwqJghZtNOa4GY) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Mc Mca](https://open.spotify.com/album/22YRItlDL5DWrGBWRwfiq4) | 3:58 | 2022-10-21 |  |
+| [MOTOWN](https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MOTOWN \(feat\. BabyTron\)](https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm) | 2:44 | 2023-01-26 |  |
 | [Mukta](https://open.spotify.com/track/0oN4a2IN6iaUT3onIIuBYI) | [£g0](https://open.spotify.com/artist/3VfGT695sBZZvATskxjdr0), [LB \(EL PRESIDENTE\)](https://open.spotify.com/artist/19tmkCNT4ZOGkI4cLgSxO3) | [Mukta](https://open.spotify.com/album/71d0dEnWw8vBQ2Ka3MQtKG) | 2:14 | 2022-09-08 |  |
 | [Nairobi Pengz](https://open.spotify.com/track/6vYlSCbecwhbLN7LCReItg) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [CHONJO](https://open.spotify.com/album/7MKDPUsNzh4adGw36ACW9C) | 3:42 | 2022-07-07 |  |
 | [No Likes](https://open.spotify.com/track/25d8CR1991gkMBoGXYPqYC) | [Jodye Faneto](https://open.spotify.com/artist/3v6SQTs83vlDVAIcQgs1r6) | [No Likes](https://open.spotify.com/album/0LQxQUpfkRDBTfykCRXzwr) | 2:20 | 2022-06-23 | 2022-10-07 |
@@ -94,7 +96,7 @@
 | [Usikam Hii Section](https://open.spotify.com/track/5ste4YU4bN6h6MMqwZm8tz) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 3:48 | 2022-05-27 |  |
 | [USIKAM HII SECTION](https://open.spotify.com/track/5XDl1xJSDK5ys6jI9r0p2i) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 3:48 | 2022-05-27 | 2023-01-19 |
 | [W.T.N ?](https://open.spotify.com/track/7dfVmXnGB5OlBHiQum53rL) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN) | [W.T.N ?](https://open.spotify.com/album/2G2k6UrxLNcEGWhZLUNueo) | 2:42 | 2022-10-13 | 2023-01-11 |
-| [W.T.N ?](https://open.spotify.com/track/5pcDfYgjlpoAs9tZvohneD) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [Joshoxy](https://open.spotify.com/artist/0PbQMJK1AKXAbvSakUmtmw) | [IMPRESSING MYSELF](https://open.spotify.com/album/037nljmHSWbT0KlOPiqk0j) | 2:42 | 2022-10-13 |  |
+| [W.T.N ?](https://open.spotify.com/track/5pcDfYgjlpoAs9tZvohneD) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [Joshoxy](https://open.spotify.com/artist/0PbQMJK1AKXAbvSakUmtmw) | [IMPRESSING MYSELF](https://open.spotify.com/album/037nljmHSWbT0KlOPiqk0j) | 2:42 | 2022-10-13 | 2023-01-27 |
 | [Wasp](https://open.spotify.com/track/79fMIVXRCjVDm8iazUhSoP) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [BIGGS](https://open.spotify.com/album/4pxNzFrgUzRCJupYUXjs8y) | 3:20 | 2022-07-07 | 2022-10-12 |
 | [Wasp](https://open.spotify.com/track/76TeUkPnBIKQuj3aNgSvNn) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs](https://open.spotify.com/album/5jSHZN2vS2gvYySlQfUQBD) | 3:22 | 2022-07-07 | 2022-11-14 |
 | [Wasp](https://open.spotify.com/track/79hqcl7Dniw9I7WXxXMnCr) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs \(Deluxe\)](https://open.spotify.com/album/4XCPADLezjGTILjmlgL4Kg) | 3:22 | 2022-07-07 |  |

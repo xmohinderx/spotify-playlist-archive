@@ -4,7 +4,7 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-131 songs - 8 hr 6 min
+132 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Houston TX](https://open.spotify.com/track/6EaQXxdO9diXNDrO2vmMtJ) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/2IsJvOVAVDq7aHN8sRhGni) | 5:16 | 2021-12-01 | 2022-07-29 |
 | [Houston TX](https://open.spotify.com/track/2WHNbtmjL3a2pKc4LfSlxR) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/5mnIrOjFFqM101hK5yqr6W) | 5:17 | 2021-12-01 |  |
 | [I Lied \(with Allison Ponthier\)](https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 3:54 | 2021-12-01 |  |
-| [I Need Some Air](https://open.spotify.com/track/66voRoDoCmx5xBsjOukRWF) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [I Need Some Air](https://open.spotify.com/album/5n0Lw1ejNziuzbjjJUCKkv) | 4:11 | 2021-12-01 |  |
+| [I Need Some Air](https://open.spotify.com/track/66voRoDoCmx5xBsjOukRWF) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [I Need Some Air](https://open.spotify.com/album/5n0Lw1ejNziuzbjjJUCKkv) | 4:11 | 2021-12-01 | 2023-01-27 |
+| [I Need Some Air](https://open.spotify.com/track/6JQIc5mZTWDnmOkuIC51QZ) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [I Need Some Air](https://open.spotify.com/album/0V6Iv7TMSMhkiy4hCAp1nB) | 4:11 | 2021-12-01 |  |
 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 | 2021-12-01 |  |
 | [In The Summertime](https://open.spotify.com/track/3FHJjJV7HzkZUU7XdMV9QB) | [Taletta](https://open.spotify.com/artist/6x1ce1K5GZWggCkYDVTZwP) | [Cruel Joke](https://open.spotify.com/album/3XHPwHimw4VjTMSIdNgPCv) | 3:38 | 2021-12-01 |  |
 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 | 2021-12-01 |  |

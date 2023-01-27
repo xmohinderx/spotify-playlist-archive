@@ -4,11 +4,11 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-195 songs - 11 hr 48 min
+196 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [30 Turkeys](https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex) | [Kid Reverie](https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea) | [30 Turkeys](https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a) | 2:20 | 2022-02-25 |  |
+| [30 Turkeys](https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex) | [Kid Reverie](https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea) | [30 Turkeys](https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a) | 2:20 | 2022-02-25 | 2023-01-27 |
 | [40 West](https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Fork In The Road](https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes) | 4:00 | 2021-12-03 |  |
 | [Aesop Mountain](https://open.spotify.com/track/46rDdtMN5rzMDp6UiIpg4Q) | [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713) | [Aesop Mountain](https://open.spotify.com/album/7DJIYczo0iFkxAuMmsBVDd) | 3:28 | 2022-07-29 | 2022-11-19 |
 | [Aesop Mountain](https://open.spotify.com/track/710oc7jGMREe9vWsYraOck) | [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713) | [Songs of the Sunrise Fox](https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n) | 3:28 | 2022-09-30 |  |
@@ -178,6 +178,7 @@
 | [The Pasture](https://open.spotify.com/track/0NeumLL08TSueFtTiIsD87) | [Elephant Revival](https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs) | [These Changing Skies](https://open.spotify.com/album/1QkDU6RTGKept4bTNwN6za) | 2:33 | 2021-12-03 | 2022-07-29 |
 | [The Pasture](https://open.spotify.com/track/2rcAG0hPOhWHxYmkUFOH6C) | [Elephant Revival](https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs) | [These Changing Skies](https://open.spotify.com/album/4ABBrfxm6w93fE9yqlOgny) | 2:33 | 2022-07-22 |  |
 | [The Road to Malvern](https://open.spotify.com/track/6McZUgikkzu7x5es9FazPA) | [John Reischman](https://open.spotify.com/artist/1ubUHb8iKwJ3LsVJkVvBgt), [Scott Nygaard](https://open.spotify.com/artist/7pegCNQWY8d3F3Rvy9PkXF), [Sharon Gilchrist](https://open.spotify.com/artist/09rxAugrQG94CtwBosZBYx) | [The Harmonic Tone Revealers](https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd) | 3:23 | 2021-12-03 | 2022-07-23 |
+| [The Train](https://open.spotify.com/track/72PHXtULIZTLdHtO5w5PPi) | [Connor Jay Liess](https://open.spotify.com/artist/2sZuJVwjC40tfKKD1Zf0bm) | [Highball Bruiser](https://open.spotify.com/album/3LjIY7tkiQmIXpoUOyZpnH) | 8:06 | 2023-01-20 |  |
 | [Town's End](https://open.spotify.com/track/6fpL9QnornxpYhhWw6aWyM) | [George Jackson](https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7), [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Town's End](https://open.spotify.com/album/3YS90lzcD6JYYdT3wlB8nz) | 3:26 | 2021-12-03 | 2023-01-09 |
 | [Trapper's Attic](https://open.spotify.com/track/7nlLIcbLodcRQvCPtV8vuX) | [Connor Jay Liess](https://open.spotify.com/artist/2sZuJVwjC40tfKKD1Zf0bm) | [Trapper's Attic](https://open.spotify.com/album/1WcNGOJOZqoU1cGoCZo6ME) | 2:55 | 2021-12-03 | 2022-05-25 |
 | [Tree King Creek](https://open.spotify.com/track/2eX598AcoEbR1KxPqVAKTP) | [Psychograss](https://open.spotify.com/artist/67QYlUab4lgbVuCQyqLxsA) | [Like Minds](https://open.spotify.com/album/0ddqowMNMC740PwIqJ50Jl) | 4:11 | 2021-12-03 | 2023-01-12 |

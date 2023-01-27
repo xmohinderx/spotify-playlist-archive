@@ -2213,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "Don't Last / Fall Out",
+        "url": "https://open.spotify.com/album/2XfOwMxIeYqNhBzoHANiqa"
+      },
+      "artists": [
+        {
+          "name": "Spritely",
+          "url": "https://open.spotify.com/artist/2n4ScI2wdD88BSMTt7ZwKf"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248501,
+      "name": "Don't Last",
+      "url": "https://open.spotify.com/track/2XrA7Q2biyqC0OcVLg5Ipk"
+    },
+    {
+      "album": {
         "name": "This is Fiction",
         "url": "https://open.spotify.com/album/3ypgJ2qNUpEGMoKZhMBbKh"
       },
@@ -2242,7 +2260,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 248501,
       "name": "Don't Last",
       "url": "https://open.spotify.com/track/4OL6UL4QaNxupnVX6ngTsB"

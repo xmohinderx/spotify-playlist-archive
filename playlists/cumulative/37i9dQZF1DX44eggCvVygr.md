@@ -4,7 +4,7 @@
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-90 songs - 5 hr 20 min
+91 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,8 +95,9 @@
 | [Way to Fall](https://open.spotify.com/track/40lSBQBZn38ElmRi2lY7zk) | [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Good Souls: The Greatest Hits](https://open.spotify.com/album/6zEdrtxRjVGNkNsY8JyW7o) | 4:29 | 2021-12-03 | 2022-11-13 |
 | [Way to Fall](https://open.spotify.com/track/5CyKO0xcyDqexTfvQLwufF) | [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Love Is Here](https://open.spotify.com/album/4PyGvXTMf0PmsWsDWohFZw) | 4:29 | 2021-12-03 |  |
 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 | 2021-08-26 |  |
-| [Why So Serious](https://open.spotify.com/track/6v48qTk0yzWneiNCS4T8co) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Mint](https://open.spotify.com/album/18KUlnsMtCS3W67CLyk0Fp) | 3:43 | 2021-12-03 |  |
+| [Why So Serious](https://open.spotify.com/track/6v48qTk0yzWneiNCS4T8co) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Mint](https://open.spotify.com/album/18KUlnsMtCS3W67CLyk0Fp) | 3:43 | 2021-12-03 | 2023-01-27 |
 | [Why So Serious](https://open.spotify.com/track/3ouj5nHkyPXG1GV5fJmuiX) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [MINT](https://open.spotify.com/album/2FEGUDyvpMp7KlrVrBN0q7) | 3:47 | 2021-12-03 | 2022-07-29 |
+| [Why So Serious](https://open.spotify.com/track/5X9pmlOsnQBAz90IL7IJYC) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Mint](https://open.spotify.com/album/5j6gsQqT3UZeSghw0Xf3Pi) | 3:47 | 2021-12-03 |  |
 | [You'll Never Walk Alone \- Mono; 2002 Remaster](https://open.spotify.com/track/6catF1lDhNTjjGa2GxRQNN) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [You'll Never Walk Alone \(The EMI Years 1963\-1966\)](https://open.spotify.com/album/2xjQOixp5YLkhVDcAh8MY0) | 2:40 | 2021-08-26 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

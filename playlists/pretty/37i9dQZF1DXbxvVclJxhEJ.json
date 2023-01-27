@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 28691,
+  "num_followers": 28739,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NzEzNywwMDAwMDAwMDVkOTk0NDNkMzBkNTQ4NTBhZDExMjcwM2YwYzJjMTg3",
+  "snapshot_id": "MTY3MzU1NzEzNywwMDAwMDAwMDJhMGIyNGQ2NGM2MGI2YWM4ZTY3NGM5NTlhNjAwOTA0",
   "tracks": [
     {
       "added_at": "2023-01-12 19:24:05",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-01-12 19:24:05",
       "album": {
-        "name": "Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 285400,
-      "name": "Back Water Blues",
-      "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
-    },
-    {
-      "added_at": "2023-01-12 19:24:05",
-      "album": {
         "name": "The Complete Recordings, Vol. 3",
         "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 168626,
       "name": "I Used to Be Your Sweet Mama",
       "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
+    },
+    {
+      "added_at": "2023-01-12 19:24:05",
+      "album": {
+        "name": "Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 285400,
+      "name": "Back Water Blues",
+      "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
     },
     {
       "added_at": "2023-01-12 19:24:05",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-01-12 19:24:05",
       "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Any Woman's Blues",
-      "url": "https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ"
-    },
-    {
-      "added_at": "2023-01-12 19:24:05",
-      "album": {
         "name": "The Complete Okeh Sessions 1952-1955",
         "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 214293,
       "name": "I'm Getting 'Long Alright",
       "url": "https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P"
+    },
+    {
+      "added_at": "2023-01-12 19:24:05",
+      "album": {
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Any Woman's Blues",
+      "url": "https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ"
     },
     {
       "added_at": "2023-01-12 19:24:05",

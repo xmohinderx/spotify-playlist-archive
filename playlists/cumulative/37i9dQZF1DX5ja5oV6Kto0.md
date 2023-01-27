@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW?si=5WeMSXULTGyTnsELZudR7g"> Ajebutter22</a>
 
-315 songs - 15 hr 49 min
+316 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Cocoa Butter](https://open.spotify.com/track/4nJood9eQoAj6T412JfGvx) | [Skillz 8figure](https://open.spotify.com/artist/7gTH9Cv2pAlhscmRsaGqy9) | [Coco Butter](https://open.spotify.com/album/6XbRSuQaukH0Ywp6z019lU) | 2:46 | 2022-03-03 | 2022-03-05 |
 | [code red](https://open.spotify.com/track/5Vd46pXPA18ky9n1t4OOiP) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [code red](https://open.spotify.com/album/6JbZyVHufuyBDRYmG0td7G) | 2:35 | 2021-12-17 | 2022-03-12 |
 | [Cold](https://open.spotify.com/track/10Acd9i7TFQNQzEJKKiv8r) | [J.E.N.N.Y](https://open.spotify.com/artist/4CXFDVOCfxAsJJwvxUR4Vc) | [Cold](https://open.spotify.com/album/6HxACxCvHBmeK1kYKsyVXw) | 3:00 | 2022-11-24 |  |
-| [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/0iMhzMIkv6UQd9j4Y8mTvY) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:24 | 2022-09-23 |  |
+| [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/0iMhzMIkv6UQd9j4Y8mTvY) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:24 | 2022-09-23 | 2023-01-27 |
+| [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:24 | 2023-01-06 |  |
 | [Come Through](https://open.spotify.com/track/6ThtG8gsdgTSMeJ0kOz47B) | [Suhn](https://open.spotify.com/artist/21FjHoi27TUaIuUSYxdOwf) | [Come Through](https://open.spotify.com/album/6AxIJCtJ9AI6MvHotGp47i) | 3:44 | 2022-07-28 | 2022-09-10 |
 | [Company](https://open.spotify.com/track/79ydXWBVWRziknKUc2l4sT) | [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [HVRRY](https://open.spotify.com/artist/0UVg1odbMc16LRZiaXdo0m), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt) | [Company / Issues](https://open.spotify.com/album/0bOwM7CYfw786z0ZWq9Xea) | 2:31 | 2021-02-26 | 2022-05-13 |
 | [Confam](https://open.spotify.com/track/5DBDVCBlR9o20XdEj6RBv7) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Confam](https://open.spotify.com/album/6FKLdfkio3SWvlydR8ohRO) | 3:05 | 2022-08-05 | 2022-09-10 |

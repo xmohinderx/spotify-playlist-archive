@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,573 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,631 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 | 2 | [Make Me Feel Better](https://open.spotify.com/track/48Hxgmy2rW0jT6YZUo18R8) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Make Me Feel Better](https://open.spotify.com/album/0VymrjRtKPZUvHkcJLaqby) | 4:29 |
 | 3 | [SPARKLES](https://open.spotify.com/track/3heytsqAvwcOmpvJvKop80) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [SPARKLES](https://open.spotify.com/album/7DLjM7lmuv7rlhVShdIBXN) | 4:36 |
 | 4 | [浄歌](https://open.spotify.com/track/71cNVDcg9JsFCr0hLi7Pj9) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [浄歌](https://open.spotify.com/album/3hCHq9tpguiwxs3j9N373U) | 4:53 |
-| 5 | [CALL YOUR NAME](https://open.spotify.com/track/074pO3kz9J4Gg6MtreeXQX) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa), [三上 悟 \(CV.寺島拓篤\)](https://open.spotify.com/artist/2pqAw5opAGddnpy3tb5TCw) | [永遠の絆 \(『劇場版 転生したらスライムだった件 紅蓮の絆編』主題歌・挿入歌アルバム\)](https://open.spotify.com/album/1boGPa9j67ZkY8C7u0a9G5) | 4:25 |
+| 5 | [CALL YOUR NAME](https://open.spotify.com/track/074pO3kz9J4Gg6MtreeXQX) | [Rimuru \(CV: Miho Okasaki\)](https://open.spotify.com/artist/7fGxo8dxQ6SdVXPmcTZsHH), [Satoru Mikami \(CV: Takuma Terashima\)](https://open.spotify.com/artist/58gJSLmnWvAAAg0mP132p2) | [永遠の絆 \(『劇場版 転生したらスライムだった件 紅蓮の絆編』主題歌・挿入歌アルバム\)](https://open.spotify.com/album/1boGPa9j67ZkY8C7u0a9G5) | 4:25 |
 | 6 | [VISIONS \(feat\. 寺島拓篤\)](https://open.spotify.com/track/3x3A39JV2eNNqyOrYvWCg1) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb), [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [VISIONS \(feat\. 寺島拓篤\)](https://open.spotify.com/album/0hYzLWKc546vSOTimwWMyY) | 3:35 |
 | 7 | [Nameless Story](https://open.spotify.com/track/0DR2YxEHLwmb3ZLcqHbjN2) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [Nameless Story \(アーティスト盤\)](https://open.spotify.com/album/5ALYVB2B7UAkaeYrukIXGt) | 4:02 |
 | 8 | [Another colony](https://open.spotify.com/track/3pJIBjrTwknFm7orJJM3YH) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Another colony](https://open.spotify.com/album/5xOCxkJEcFfIE0qTXm4CYp) | 4:11 |

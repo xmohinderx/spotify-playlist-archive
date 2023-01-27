@@ -465,6 +465,36 @@
     },
     {
       "album": {
+        "name": "Coming Alive (Jeffrey Sutorius Remix)",
+        "url": "https://open.spotify.com/album/1vzfRQBPtwFuI7IyRmvPXX"
+      },
+      "artists": [
+        {
+          "name": "Sixth Sense",
+          "url": "https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up"
+        },
+        {
+          "name": "Jone Fields",
+          "url": "https://open.spotify.com/artist/1rvAjW0q7tpURqrgvoCtj5"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        },
+        {
+          "name": "Jeffrey Sutorius",
+          "url": "https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233495,
+      "name": "Coming Alive - Jeffrey Sutorius Remix",
+      "url": "https://open.spotify.com/track/1rLIIshEIDTHSXxnUvXHng"
+    },
+    {
+      "album": {
         "name": "Crystal Clear",
         "url": "https://open.spotify.com/album/1m37XnUy8Rv0VKiSa05Xcj"
       },

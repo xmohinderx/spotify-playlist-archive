@@ -669,6 +669,28 @@
     },
     {
       "album": {
+        "name": "Anima",
+        "url": "https://open.spotify.com/album/1wCC2fkdshGlb53pDC9m23"
+      },
+      "artists": [
+        {
+          "name": "STAR SEED",
+          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
+        },
+        {
+          "name": "Shadow Wanderer",
+          "url": "https://open.spotify.com/artist/5BjPPrn52L6Mq0OY2Jsqd6"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "Anima",
+      "url": "https://open.spotify.com/track/2QRPw7J5OBRoToWXhWpFwt"
+    },
+    {
+      "album": {
         "name": "NOWHERE",
         "url": "https://open.spotify.com/album/2Umgb5V6u7umS1BMXq4UXQ"
       },

@@ -4,7 +4,7 @@
 
 > California music breaking waves\. Cover: Hit Boy
 
-642 songs - 1 day 8 hr 4 min
+643 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,8 @@
 | [EEK](https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [EEK](https://open.spotify.com/album/67bRgIiwQuB08M1S0qGYXg) | 4:07 | 2022-03-04 | 2022-04-02 |
 | [either way](https://open.spotify.com/track/13TQobUAsT5SqHxiLZGQN3) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [refresh](https://open.spotify.com/album/6b45ZV5dHPoENrze2EEpVf) | 4:43 | 2022-03-18 | 2022-06-08 |
 | [ELEMENT.](https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:28 | 2022-06-23 | 2022-07-02 |
-| [Energy](https://open.spotify.com/track/72odsKleXPWXOaQCL2rzH6) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Like Girls](https://open.spotify.com/album/7eY7vBlvfXyjbS5Mp4NMcP) | 3:10 | 2023-01-13 |  |
+| [Energy](https://open.spotify.com/track/0SbiVLtUK14GofLwErR4vR) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Like Girls](https://open.spotify.com/album/7Ah6FjEDAbEYlms3sh1EXu) | 3:10 | 2023-01-13 |  |
+| [Energy](https://open.spotify.com/track/72odsKleXPWXOaQCL2rzH6) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Like Girls](https://open.spotify.com/album/7eY7vBlvfXyjbS5Mp4NMcP) | 3:10 | 2023-01-13 | 2023-01-27 |
 | [Energy \(featuring Pink Sweat$\)](https://open.spotify.com/track/2mpcqMEvFFWHaFUprs0wv7) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Energy \(featuring Pink Sweat$\)](https://open.spotify.com/album/36N7aZLCMbUr7MHItTQaqC) | 3:10 | 2022-12-02 | 2023-01-14 |
 | [Every Good Girl](https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:56 | 2022-06-07 | 2022-06-24 |
 | [Every Place Is Last Place](https://open.spotify.com/track/6xys71LhzToyY9W9Hwyf3y) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Hokage Simon](https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R) | [OMAHA](https://open.spotify.com/album/248cM4dOmakKtaBy1z5Czk) | 2:02 | 2023-01-24 |  |

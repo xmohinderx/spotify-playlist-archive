@@ -1,12 +1,12 @@
 {
   "description": "Our editorial picks for the best gaming tracks of the year. Cover: Lil Nas X #SpotifyWrapped ",
-  "num_followers": 6162,
+  "num_followers": 6173,
   "original_name": "Top Gaming Tracks of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDgzYjkwNTk0ZDZjZDQ3ZDc4MjY2NTQ3NTlmOGZlZGE0",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMGRhNmRmMmY3ZTNkNjkyYjkzNmM4NzU0NWRhY2M4ZTNj",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Ounana",
-        "url": "https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH"
-      },
-      "artists": [
-        {
-          "name": "Bianca Costa",
-          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
-        }
-      ],
-      "duration_ms": 151628,
-      "name": "Ounana",
-      "url": "https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Luxury Disease",
         "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 194695,
       "name": "Vandalize",
       "url": "https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Ounana",
+        "url": "https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH"
+      },
+      "artists": [
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        }
+      ],
+      "duration_ms": 151628,
+      "name": "Ounana",
+      "url": "https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP"
     },
     {
       "added_at": "2022-11-30 13:46:00",

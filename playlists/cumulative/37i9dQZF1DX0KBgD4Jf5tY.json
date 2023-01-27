@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente, aggiornata ogni venerd\u00ec. Cover: <a href=\"spotify:artist:72KRmtW8IrP6D8FwG8Boi8\">Barkee Bay</a>",
+  "description": "Solo musica indipendente, aggiornata ogni venerd\u00ec. Cover: <a href=\"spotify:artist:2p8QkcgkfvIcUTpudqcqRM\">Ele A</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 76875,
       "name": "100 GIORNI",
       "url": "https://open.spotify.com/track/1XutSOW3HIb0oBiNwDINxL"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 218000,
       "name": "32 Agosto",
       "url": "https://open.spotify.com/track/5T0uSPBfOY0SRg0nCWaQVE"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 193455,
       "name": "Assaggio",
       "url": "https://open.spotify.com/track/4AUvDIm0oTHqMHUYry1qbL"
@@ -1232,6 +1232,28 @@
       "duration_ms": 195657,
       "name": "Baby stai con me",
       "url": "https://open.spotify.com/track/1YRkrzo34kTUQq8jSfnSoA"
+    },
+    {
+      "album": {
+        "name": "BAD DREAMS",
+        "url": "https://open.spotify.com/album/6Yah9aseZUENWhChoJ5QNI"
+      },
+      "artists": [
+        {
+          "name": "Ga",
+          "url": "https://open.spotify.com/artist/6luz0TrzyU4La1oSQhoxAj"
+        },
+        {
+          "name": "Arts",
+          "url": "https://open.spotify.com/artist/42C6TIlpSUs9jULKO31Kcm"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "BAD DREAMS",
+      "url": "https://open.spotify.com/track/6FRBKBK66QxI5EgAjx4Q5p"
     },
     {
       "album": {
@@ -1864,7 +1886,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 207298,
       "name": "Cena di famiglia",
       "url": "https://open.spotify.com/track/1CwKHSfKqHywOxnuqbkcvA"
@@ -1940,7 +1962,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 195246,
       "name": "Cerimonia",
       "url": "https://open.spotify.com/track/4q2F8Q94gIY3yFwIliTnRZ"
@@ -2216,7 +2238,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 166046,
       "name": "Colore",
       "url": "https://open.spotify.com/track/1xbeIrFUawcq2av8zGTpqX"
@@ -2234,7 +2256,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 125419,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/1ig8ML3HcSIg4TlxkdY6Vp"
@@ -2983,6 +3005,24 @@
     },
     {
       "album": {
+        "name": "ERRORI",
+        "url": "https://open.spotify.com/album/64j02x8T8B3F7d0rs87jMZ"
+      },
+      "artists": [
+        {
+          "name": "PARIDE",
+          "url": "https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182288,
+      "name": "ERRORI",
+      "url": "https://open.spotify.com/track/1tz8tATjdVNvwvkPOl0U4K"
+    },
+    {
+      "album": {
         "name": "ESAGERO EMOZIONI",
         "url": "https://open.spotify.com/album/5PPlMx6qAuRLiIm8IEYpqJ"
       },
@@ -3020,6 +3060,24 @@
       "duration_ms": 225000,
       "name": "Eschimesi",
       "url": "https://open.spotify.com/track/5G3T5ETovffghUBQJPptEr"
+    },
+    {
+      "album": {
+        "name": "Essenza blu",
+        "url": "https://open.spotify.com/album/1NEuRvZyIBEf1A39CDe0GX"
+      },
+      "artists": [
+        {
+          "name": "Giulia Malavasi",
+          "url": "https://open.spotify.com/artist/0Hx96SC5Ez0TKdTJy5WT5L"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "Essenza blu",
+      "url": "https://open.spotify.com/track/0x9XvxqYX6fE9AX7lFLH9J"
     },
     {
       "album": {
@@ -3285,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "fiori ghiacciati",
+        "url": "https://open.spotify.com/album/2Ggf9V2RpHuCy10Vu95zQ7"
+      },
+      "artists": [
+        {
+          "name": "Bordeaux",
+          "url": "https://open.spotify.com/artist/64IcDilEU6X8Caozoixn0V"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "fiori ghiacciati",
+      "url": "https://open.spotify.com/track/1lnhdEvBwLMS3lwfb42jmW"
+    },
+    {
+      "album": {
         "name": "FLORA",
         "url": "https://open.spotify.com/album/7GprOwcFyzbdVp8EvFFR5C"
       },
@@ -3406,6 +3482,24 @@
       "duration_ms": 193680,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/0W0SMEJD7H9ep8Oveg5l1S"
+    },
+    {
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/4T42ONwroSEl63oGcOi6eY"
+      },
+      "artists": [
+        {
+          "name": "Sara Mancini",
+          "url": "https://open.spotify.com/artist/0A8DfrInGzOLf2froFT3rq"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160054,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/3zf8JELDxziuAbpyn8PY51"
     },
     {
       "album": {
@@ -3548,7 +3642,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 152000,
       "name": "fuori grandina",
       "url": "https://open.spotify.com/track/5wMiOUaoMIRamLo6kdz9eA"
@@ -4179,6 +4273,24 @@
     },
     {
       "album": {
+        "name": "INDACO",
+        "url": "https://open.spotify.com/album/7IKHDrf2XEqOrZNol3hW2E"
+      },
+      "artists": [
+        {
+          "name": "FRONTERA",
+          "url": "https://open.spotify.com/artist/0M5qG6HV8ig9MzUYksrqut"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171176,
+      "name": "INDACO",
+      "url": "https://open.spotify.com/track/7KoyaVQpWDETO2WaLcLuxN"
+    },
+    {
+      "album": {
         "name": "Indaco",
         "url": "https://open.spotify.com/album/4KwU9tz2buBWYrXO6RS3rY"
       },
@@ -4190,7 +4302,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 151333,
       "name": "Indaco",
       "url": "https://open.spotify.com/track/1vH4YLkf5C3gK7CiVyhKOs"
@@ -4226,7 +4338,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 332957,
       "name": "Io sono Giorgia",
       "url": "https://open.spotify.com/track/3faVWOXHqRy33c3HD4iGVT"
@@ -4262,7 +4374,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 201783,
       "name": "Jack il pagliaccio",
       "url": "https://open.spotify.com/track/5kWwSSYQx5jbDua5zQvUDe"
@@ -4765,6 +4877,24 @@
     },
     {
       "album": {
+        "name": "luci spente",
+        "url": "https://open.spotify.com/album/20ctKDOE7hyZyWbn4JoSWA"
+      },
+      "artists": [
+        {
+          "name": "gianduia",
+          "url": "https://open.spotify.com/artist/0zE0dgrXZuyiZIbQJCHsfn"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198141,
+      "name": "luci spente",
+      "url": "https://open.spotify.com/track/6CuRUuyLwDSP8hwOgTapyj"
+    },
+    {
+      "album": {
         "name": "Lucido",
         "url": "https://open.spotify.com/album/4Nr8JYO6KoWqJ7ylP1vYIZ"
       },
@@ -4957,6 +5087,24 @@
     },
     {
       "album": {
+        "name": "Ma tu ci tieni a me?",
+        "url": "https://open.spotify.com/album/7xVTEaPyoS67yHalgjQi8u"
+      },
+      "artists": [
+        {
+          "name": "Arssalendo",
+          "url": "https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181052,
+      "name": "Ma tu ci tieni a me?",
+      "url": "https://open.spotify.com/track/0KeF7ceyOpu0Ibo6H0xUD0"
+    },
+    {
+      "album": {
         "name": "MADE IN U.E.",
         "url": "https://open.spotify.com/album/75qg7zzpqzcLaE3KBgRilX"
       },
@@ -5012,6 +5160,24 @@
       "duration_ms": 163404,
       "name": "Mai Fake",
       "url": "https://open.spotify.com/track/5MEsS7xSpVTscYmmtsljUb"
+    },
+    {
+      "album": {
+        "name": "Male Vivere",
+        "url": "https://open.spotify.com/album/2S0CSKXg24XvVHCjmfT58g"
+      },
+      "artists": [
+        {
+          "name": "Generazione Futura",
+          "url": "https://open.spotify.com/artist/2LgyMnfckLJpAv8J4mQqwX"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169937,
+      "name": "Male Vivere",
+      "url": "https://open.spotify.com/track/4dBGBaWYvLxNok0yTfHKoq"
     },
     {
       "album": {
@@ -5148,6 +5314,24 @@
       "duration_ms": 214494,
       "name": "Mare Cristallo",
       "url": "https://open.spotify.com/track/07GUGt0qJl9CwpdT9ER9s6"
+    },
+    {
+      "album": {
+        "name": "MAREA",
+        "url": "https://open.spotify.com/album/3WPEmt23OmvcsrY2qcALKf"
+      },
+      "artists": [
+        {
+          "name": "solomarco",
+          "url": "https://open.spotify.com/artist/36TrrSCgFly6NAvktlI5c9"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142625,
+      "name": "MAREA",
+      "url": "https://open.spotify.com/track/37byGPWlxruY8vVeQlbUWb"
     },
     {
       "album": {
@@ -6567,6 +6751,24 @@
     },
     {
       "album": {
+        "name": "E poi in un momento diverso dagli altri",
+        "url": "https://open.spotify.com/album/6PnDZLGUuSkZMHevZUgXOt"
+      },
+      "artists": [
+        {
+          "name": "Denoise",
+          "url": "https://open.spotify.com/artist/5p8W2If8qwjFGW7peV00Qo"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198547,
+      "name": "Parigi",
+      "url": "https://open.spotify.com/track/1QOX3kqLnL5bDxTULhgfir"
+    },
+    {
+      "album": {
         "name": "Party on My Own",
         "url": "https://open.spotify.com/album/6cipBf6Xsv55Qo8V38CZFb"
       },
@@ -7481,6 +7683,28 @@
     },
     {
       "album": {
+        "name": "Rattattata",
+        "url": "https://open.spotify.com/album/4BpL6KSKYfeTfjPjA1xcLR"
+      },
+      "artists": [
+        {
+          "name": "Fiore di Luna",
+          "url": "https://open.spotify.com/artist/0NtjYZ6DyObNMluKrAk6Sn"
+        },
+        {
+          "name": "Deville",
+          "url": "https://open.spotify.com/artist/6r2soKLzCXh4AePvgi4oSR"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131850,
+      "name": "Rattattata",
+      "url": "https://open.spotify.com/track/6bvNXfiUmdErZYpBjGkyqj"
+    },
+    {
+      "album": {
         "name": "Reale",
         "url": "https://open.spotify.com/album/1Nm8VQob7MibQEAfQVbiKa"
       },
@@ -8224,7 +8448,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 149719,
       "name": "SETTESATANICHE",
       "url": "https://open.spotify.com/track/2p3LzX6cbB8gm6DnUExMYb"
@@ -9111,6 +9335,24 @@
     },
     {
       "album": {
+        "name": "TAGLIA",
+        "url": "https://open.spotify.com/album/1euv4gkkLDZwpAItZHPdSi"
+      },
+      "artists": [
+        {
+          "name": "ANSIAH",
+          "url": "https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137625,
+      "name": "TAGLIA",
+      "url": "https://open.spotify.com/track/2z6SfAnqlt26KUiuxF0LLL"
+    },
+    {
+      "album": {
         "name": "Tapparelle",
         "url": "https://open.spotify.com/album/29Ra0ASs9aqOvJRj4DmiIx"
       },
@@ -9868,7 +10110,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 187086,
       "name": "Vertigine",
       "url": "https://open.spotify.com/track/414rYnSg7ihdTU9gD3mY3b"

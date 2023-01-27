@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Serge Beynaud",
+  "description": "African dance party music from Paris to Abidjan. Photo : Shado Chris",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -354,6 +354,46 @@
       "duration_ms": 202058,
       "name": "Chebaba",
       "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
+    },
+    {
+      "album": {
+        "name": "Commando",
+        "url": "https://open.spotify.com/album/34fhvumHC8dqlDhZBaWSXd"
+      },
+      "artists": [
+        {
+          "name": "Mix Premier",
+          "url": "https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/1FKK9VxAHmqPBXW6WRun5S"
+    },
+    {
+      "album": {
+        "name": "Coup\u00e9 D\u00e9cal\u00e9 SuperSonic",
+        "url": "https://open.spotify.com/album/2zj72TEqodhRAAPb4ngQ0q"
+      },
+      "artists": [
+        {
+          "name": "David Tayorault",
+          "url": "https://open.spotify.com/artist/5fGgmiJ78nMM0AnnbdqBcO"
+        },
+        {
+          "name": "DJ Arafat",
+          "url": "https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206470,
+      "name": "Coup\u00e9 D\u00e9cal\u00e9 SuperSonic",
+      "url": "https://open.spotify.com/track/3WaX1ciQMCAuI9kAD8xpTQ"
     },
     {
       "album": {
@@ -824,7 +864,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 230844,
       "name": "Godokou",
       "url": "https://open.spotify.com/track/6gvANR4MUDjSjETEXRfO08"
@@ -890,6 +930,24 @@
       "duration_ms": 221647,
       "name": "Il est La",
       "url": "https://open.spotify.com/track/6zblCpRhFYqF3yP9HBdMKq"
+    },
+    {
+      "album": {
+        "name": "Ils n'ont pas cru",
+        "url": "https://open.spotify.com/album/5DlZKO83y2BTB7iDCWzuvd"
+      },
+      "artists": [
+        {
+          "name": "Aveiro Djess",
+          "url": "https://open.spotify.com/artist/4lypn4ixPqyT9o2OLDCEsf"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238504,
+      "name": "Ils n'ont pas cru",
+      "url": "https://open.spotify.com/track/4NmG4x6MnVtv1SPDYkYf7b"
     },
     {
       "album": {
@@ -1494,7 +1552,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 248000,
       "name": "Nanakafra",
       "url": "https://open.spotify.com/track/5xeXI8AUH8HOD67jVqAczp"
@@ -1596,7 +1654,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 164028,
       "name": "Piment",
       "url": "https://open.spotify.com/track/7gB92KifQkXumaRUvxMRNN"
@@ -1672,7 +1730,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 233379,
       "name": "Retour \u00e0 l'envoyeur",
       "url": "https://open.spotify.com/track/1TPJuA1nHM2YoVQ1AAEJ4O"
@@ -1770,6 +1828,28 @@
       "duration_ms": 213818,
       "name": "Supporteurs Maso",
       "url": "https://open.spotify.com/track/5AmaKQXErLGa23mtFwI5lj"
+    },
+    {
+      "album": {
+        "name": "Sur le beat",
+        "url": "https://open.spotify.com/album/0vrSnFVV7uZ9AzQXpNi5Zz"
+      },
+      "artists": [
+        {
+          "name": "Roma Chiyaya",
+          "url": "https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0"
+        },
+        {
+          "name": "Debordo Leekunfa",
+          "url": "https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209502,
+      "name": "Sur le beat",
+      "url": "https://open.spotify.com/track/2Mz0CKrmFgbLxfV44EbOcI"
     },
     {
       "album": {

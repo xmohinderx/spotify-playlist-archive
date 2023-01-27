@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > El sonido urbano de RD, pa' lo tígueres de alta gama\. Cover: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,503 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,637 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 10 | [Davirito](https://open.spotify.com/track/5aB65kxjdKGNBTVcZKMNvF) | [El Domi Blanco](https://open.spotify.com/artist/2lYYTh54aFc39yR3J8rcZ0), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Davirito](https://open.spotify.com/album/2ZKxqH2FMNtMEQQGo0tKkP) | 2:27 |
 | 11 | [Guanguan](https://open.spotify.com/track/4qGfvoFPX3DmooDxvM9kTs) | [Crazy Design](https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV) | [Guanguan](https://open.spotify.com/album/0vPaYmSaXflyKSRqcOEwKc) | 2:49 |
 | 12 | [Ma Nigga](https://open.spotify.com/track/6gaYwLlIaRUjFGRXOe4NYP) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [SAGITARIO](https://open.spotify.com/album/10mdLipMzwfbpgJMu69Ln4) | 5:41 |
-| 13 | [Microphone Check \- All Star](https://open.spotify.com/track/6ic9vYTTIMl5vJmIiesaXo) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [EL YALA](https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Maky RD](https://open.spotify.com/artist/3MULKixXskQCyOaAFwaO95), [Breyco En Producidera](https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp) | [Microphone Check \(All Star\)](https://open.spotify.com/album/6AnBQi4dxWUdBDWLpwP7k8) | 4:17 |
+| 13 | [Microphone Check \- All Star](https://open.spotify.com/track/709TwQltBD5C7wA5grutpN) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [EL YALA](https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Maky RD](https://open.spotify.com/artist/3MULKixXskQCyOaAFwaO95), [Breyco En Producidera](https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp) | [Microphone Check \(All Star\)](https://open.spotify.com/album/6XeW9Yb0uOZyPHRaWnm5zS) | 4:17 |
 | 14 | [Molly](https://open.spotify.com/track/24HzEc30Pzu0ioNlyukZhJ) | [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Molly](https://open.spotify.com/album/2FoFaHoCjmLKxuA1bfi9BO) | 2:14 |
 | 15 | [Gass Pure](https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Gass Pure](https://open.spotify.com/album/2cyddcUOevce6Q6jn6VAzW) | 2:17 |
 | 16 | [El Coba](https://open.spotify.com/track/1lh3TDFVCmgOE6szIPwoIK) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Coba](https://open.spotify.com/album/3Ox4ItzjaafKDpKixWNy7O) | 2:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 59 | [En Detone](https://open.spotify.com/track/6ayhb2zGzFKv4cC1kH6XAx) | [Tato el X5](https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8), [Olle Jey](https://open.spotify.com/artist/3cTW4GbKjWqX3Sj4uZEpeH), [Drumz LT](https://open.spotify.com/artist/7LQVujKoQp86vom82YHV14), [Berto Lokera](https://open.spotify.com/artist/4huvJpp8DdgopunvvUy2Xs) | [En Detone](https://open.spotify.com/album/6bDglsSOalMjpNNDrOv3EP) | 2:02 |
 | 60 | [Rulay](https://open.spotify.com/track/3UCGlKuPc94uSRHFRLYDOB) | [Pollito Trapper](https://open.spotify.com/artist/514KE1qfbwbkfeWgU2RmKR) | [Rulay](https://open.spotify.com/album/0uziOnCOQjWDLQGXmwTukk) | 2:31 |
 
-Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMDUzYjJmZDUxMzhlMjkzZDQwZjg2MjZmZDUxNzA4Y2Vl`
+Snapshot ID: `MTY3Mjk4MTIwMCwwMDAwMDAwMGYyZjhlZmNiNTM4Yzk4ZDBmYTA3MDQ4YmQwYmUxN2Ex`

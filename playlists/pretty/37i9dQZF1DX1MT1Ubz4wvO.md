@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Astronomía Interior en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,688 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,705 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 19 | [No Estás](https://open.spotify.com/track/3MQo0VDOb9DsEUTJJrFasR) | [Featherweight](https://open.spotify.com/artist/6rIDB6GEFuVB4BLw1ejL9R) | [No Estás](https://open.spotify.com/album/0ury8Qt1XWRSzHGDwtXZF1) | 3:27 |
 | 20 | [Persiguiendo a Amy](https://open.spotify.com/track/7LExRwf3auIUn0aG6eHwwZ) | [Nadie Patín](https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB) | [Persiguiendo a Amy](https://open.spotify.com/album/4LHwcbNcowiulSVWc1HmK2) | 2:44 |
 | 21 | [Tocada y Fuga](https://open.spotify.com/track/3ib6XT17WcsAJ2Qgp13wc0) | [Sergio Arau](https://open.spotify.com/artist/0jhIKk9XnAbISKcMZX9pl6), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Tocada y Fuga](https://open.spotify.com/album/07pqmLcUHgtnSdIi2aGDDS) | 3:40 |
-| 22 | [Maquinaria](https://open.spotify.com/track/06h6Nl8Q3iS6JtVYS5Gq8k) | [Havalina](https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2) | [Maquinaria](https://open.spotify.com/album/3bFCwa6Vthya0ywYN6WGtI) | 3:24 |
+| 22 | [Maquinaria](https://open.spotify.com/track/06h6Nl8Q3iS6JtVYS5Gq8k) | [Havalina](https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2) | [Maquinaria](https://open.spotify.com/album/3bFCwa6Vthya0ywYN6WGtI) | 3:19 |
 | 23 | [Playa Privada](https://open.spotify.com/track/6IPcqimnlkka4Rwn7MtHGw) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Playa Privada](https://open.spotify.com/album/3S119ByicgC5IxFlhEjkwY) | 3:28 |
 | 24 | [P\*\#% Cantautor](https://open.spotify.com/track/5vEE3mNVCgHvcFH9nI4TgU) | [Se ha perdido un niño](https://open.spotify.com/artist/3hBFtHSUfUl6qa3NdDnUbL) | [P\*\#% Cantautor](https://open.spotify.com/album/27OhREemhxU6SiqOPON0mP) | 3:12 |
 | 25 | [Ahora](https://open.spotify.com/track/3310DSnL0WbAuHGa3RNVpW) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [La Mare](https://open.spotify.com/artist/1Gfli7cnJl5WUShQAG6oja) | [Ahora](https://open.spotify.com/album/7rR9PWMFwaJQMwY61u6YM4) | 3:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 
 > Den perfekta mixade spellistan för träningspasset.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,411 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,392 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 | 84 | [Kids](https://open.spotify.com/track/10A0QRPnDy605pBZ5Lw3pL) | [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Kids](https://open.spotify.com/album/3BkE4Ws2kwc5RPL9qoDQPI) | 2:27 |
 | 85 | [Where You Wanna Be](https://open.spotify.com/track/5xgWCe9Yqdx14PB8Je8SqC) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Elena Temnikova](https://open.spotify.com/artist/6lPJV4RlngIEnb6OzcwMDL) | [Where You Wanna Be](https://open.spotify.com/album/4bsRILidSiFs9ydIqz8XQB) | 2:38 |
 | 86 | [Million Ways \- Steve Void Remix](https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Million Ways \(Remixes\)](https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s) | 2:22 |
-| 87 | [Come Alive](https://open.spotify.com/track/5rbnKSSsith3hIrj9Pi1Yw) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Come Alive](https://open.spotify.com/album/431dPv3igSZocpya96M9Dm) | 3:29 |
-| 88 | [If You're Looking for Trouble](https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd), [TASH](https://open.spotify.com/artist/0HpJaHrAoLTxAeveCl2nhJ) | [Trouble](https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq) | 3:12 |
+| 87 | [If You're Looking for Trouble](https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd), [TASH](https://open.spotify.com/artist/0HpJaHrAoLTxAeveCl2nhJ) | [Trouble](https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq) | 3:12 |
+| 88 | [Come Alive](https://open.spotify.com/track/5rbnKSSsith3hIrj9Pi1Yw) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Come Alive](https://open.spotify.com/album/431dPv3igSZocpya96M9Dm) | 3:29 |
 | 89 | [Something Like That](https://open.spotify.com/track/0VDazr5nn6zpfjyXR7ZWXd) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Something Like That](https://open.spotify.com/album/6ffcpnaUecLcpNj6Nx56jw) | 2:44 |
 | 90 | [Wave \(feat\. Mike Sabath\) \- R3HAB Remix](https://open.spotify.com/track/4owZgn8PCpafrhBzJD7wNj) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Wave \(feat\. Mike Sabath\) \[The Remixes\]](https://open.spotify.com/album/72EUZdCcIBmbtn9uydakvF) | 3:13 |
 | 91 | [Kiss My \(Uh Oh\) \- Billen Ted Remix](https://open.spotify.com/track/1owq4K5HuyCa3aVYv6Hj4k) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Kiss My \(Uh Oh\) \[Billen Ted Remix\]](https://open.spotify.com/album/1usw2Ln7GF9WsAtIwTiZ2w) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXm6C4J2mM.md) - [plain]
 | 99 | [Magic](https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5) | [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC), [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT) | [Magic](https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1) | 3:14 |
 | 100 | [Let’s Go Home Together \- MOTi Remix](https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Let’s Go Home Together \(MOTi Remix\)](https://open.spotify.com/album/29TEQj74Hb0FObdoPXY5IN) | 2:40 |
 
-Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMGRlNzM0NTNlNTFiMzBjYjA4ZTc2MWUxN2VkODk2ZmVh`
+Snapshot ID: `MTY2ODEyMTIwMCwwMDAwMDAwMGUzZTU4OTBjODZkN2Q3NTlhNTk5Nzc0MGIwODExODM1`

@@ -3163,6 +3163,28 @@
     },
     {
       "album": {
+        "name": "Sympathy",
+        "url": "https://open.spotify.com/album/6Sv3Xr0w959DvBg6BhvHsj"
+      },
+      "artists": [
+        {
+          "name": "Jo Cohen",
+          "url": "https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q"
+        },
+        {
+          "name": "Coral Oulu",
+          "url": "https://open.spotify.com/artist/3pPttv2n3nkVlMqPBGYUUk"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153254,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/1N1KPecsoHnrGMWT8kitc7"
+    },
+    {
+      "album": {
         "name": "Take It Easy (DNB Edit)",
         "url": "https://open.spotify.com/album/2U4tG5P74xLImzIen1UFa3"
       },

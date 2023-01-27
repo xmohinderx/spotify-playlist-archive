@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Dino Gala \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,349 likes - 81 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,483 likes - 81 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 25 | [No Coward Soul](https://open.spotify.com/track/6IsBShvcBoi1WiMKWE8WCX) | [J\. Wiegold](https://open.spotify.com/artist/3sZkdu7CiLTXUG5bICgyXk) | [Norfolk Serpent](https://open.spotify.com/album/5u9np0Rm5quchUdhRuSS1L) | 3:21 |
 | 26 | [Chardonnay](https://open.spotify.com/track/35XWfqYojCyXpNEeB5TbId) | [The Namby Pamby](https://open.spotify.com/artist/0bX0QBtGt7PyHCEdZad1Sz) | [Marketplace](https://open.spotify.com/album/4FhY7u29l7rxgK1jUvBwib) | 3:08 |
 | 27 | [Alberta](https://open.spotify.com/track/2i6Nrke5ecntMAHCFHKTuv) | [Alex Teller](https://open.spotify.com/artist/4wLzdJSvYTQUrsNEMasFaq) | [Alex Teller](https://open.spotify.com/album/4tbBEUrbkM4ggXCwJH0b73) | 4:41 |
-| 28 | [Three Wishes](https://open.spotify.com/track/7cv3C3t5PGab3huajFJuur) | [TIM](https://open.spotify.com/artist/2M5EHGvCaKGs1Ntyhl0swn) | [Three Wishes](https://open.spotify.com/album/6GbUNuoi4JwDrkBxCm5tWn) | 2:49 |
+| 28 | [Three Wishes](https://open.spotify.com/track/36Y8jaDhOo0dFiKhmmYS9P) | [Tim Hause](https://open.spotify.com/artist/6eXOOvKAb0K5ef3Snypauc) | [TIM](https://open.spotify.com/album/1CiHHACQMcEGLdIc3NbK2a) | 2:49 |
 | 29 | [Dry Eyes](https://open.spotify.com/track/08oiePkn271VCiyDDFiAfQ) | [Wim Tapley](https://open.spotify.com/artist/0hBKnsxER0S51JUH21uYLi) | [Dry Eyes](https://open.spotify.com/album/2e0jRpAAEWrK4kVQvVWBst) | 4:29 |
 | 30 | [Soup Song](https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Soup Song](https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8) | 2:30 |
 | 31 | [I Wanna Win](https://open.spotify.com/track/6ZqRxeKMNLcB7vln15XTqn) | [Lola Balter](https://open.spotify.com/artist/2jesD34oQL3fEcEtm6jJDs) | [I Wanna Win](https://open.spotify.com/album/4MRAw2nW0ezpWALKce1abo) | 5:32 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 80 | [I Wouldn't Mind](https://open.spotify.com/track/2TwRFKnBx1EjNJ5vDRRvNC) | [Aaron Percy](https://open.spotify.com/artist/1OCGT4W29rXiHvDzMHkJyu) | [I Wouldn't Mind](https://open.spotify.com/album/59poBmSzdEHPoZT4Sk7oYt) | 2:27 |
 | 81 | [Moment in Time](https://open.spotify.com/track/32fIpfTQO2IGcts9W9dY7L) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8) | [Moment in Time](https://open.spotify.com/album/5Gc2yg1wQ5GyY4pSKIqgHR) | 3:46 |
 
-Snapshot ID: `MTY3NDY2NjAwMCwwMDAwMDAwMDkyMDVlNmU5Mzc3YzAwZDE3MzI5MjQ2NGU1YWJiZDc3`
+Snapshot ID: `MTY3NDY2NjAwMCwwMDAwMDAwMDQyZWY2YmI5M2RmODUwYzExNzg3N2FiN2QxYWM3YmQz`

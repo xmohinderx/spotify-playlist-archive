@@ -4,13 +4,14 @@
 
 > Are you ready for the floor? Cover: Jessica Winter
 
-66 songs - 4 hr 33 min
+67 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Percent](https://open.spotify.com/track/7Avn4DOfWIlZwUv1noXJnc) | [Monks](https://open.spotify.com/artist/1EESBfYnqZ9pylHg8n6lBP) | [100 Percent](https://open.spotify.com/album/7yKkTbhXXnpEXCYVAYiBEv) | 4:05 | 2021-10-28 |  |
 | [1000´s](https://open.spotify.com/track/3DElMfmAXdWQqB8AMjvXMV) | [This & That](https://open.spotify.com/artist/66kf3vcvdUC9ew1GSb1VC6), [Tunel](https://open.spotify.com/artist/4uO6d2Bsmguh9jOOuS0QWD) | [1000\`s](https://open.spotify.com/album/2R6u6bIw881N5arKpqDl4y) | 6:36 | 2021-10-28 |  |
-| [2.](https://open.spotify.com/track/3ahMoKvNOADvZ8zD0MNLLC) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq), [Search Party Animal](https://open.spotify.com/artist/2SdChJVcsPBYIrFDsjc72Z) | [2.](https://open.spotify.com/album/2XWc8IIONjuxbTCQXq14Dd) | 3:20 | 2021-10-28 |  |
+| [2.](https://open.spotify.com/track/3ahMoKvNOADvZ8zD0MNLLC) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq), [Search Party Animal](https://open.spotify.com/artist/2SdChJVcsPBYIrFDsjc72Z) | [2.](https://open.spotify.com/album/2XWc8IIONjuxbTCQXq14Dd) | 3:20 | 2021-10-28 | 2023-01-27 |
+| [2\. \(feat\. Search Party Animal\)](https://open.spotify.com/track/3lIGc9ugPh6E9LWnSmPH6Q) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq), [Search Party Animal](https://open.spotify.com/artist/2SdChJVcsPBYIrFDsjc72Z) | [2\. \(feat\. Search Party Animal\)](https://open.spotify.com/album/2llVj3pdMaqG7RJLrka6NX) | 3:20 | 2021-10-28 |  |
 | [20:30 Matlock](https://open.spotify.com/track/2oaJGdFU48klcIlBgy0hu1) | [King Emerald](https://open.spotify.com/artist/3w2bgMhJPzzbHGYXCtBSA1) | [20:30 Matlock](https://open.spotify.com/album/5AZ5WrnrEmXndCQfgU9Uas) | 3:29 | 2021-10-28 |  |
 | [A bite of papaya](https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [A bite of papaya](https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n) | 4:17 | 2021-10-28 |  |
 | [A Dream I have](https://open.spotify.com/track/4zEH0wmtKUm2T4vLmmJnBi) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:33 | 2021-10-28 |  |

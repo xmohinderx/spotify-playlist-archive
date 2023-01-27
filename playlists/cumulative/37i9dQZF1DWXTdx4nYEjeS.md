@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-917 songs - 2 day 8 hr 8 min
+918 songs - 2 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,7 +839,7 @@
 | [Tu Presencia](https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:41 | 2022-03-24 | 2022-04-10 |
 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 | 2021-12-24 |  |
 | [Tú](https://open.spotify.com/track/1m7i1H4AeNZ4OLUKgSzqRy) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Tú](https://open.spotify.com/album/1VWUNv00kcEVsdD5CGGfCZ) | 3:07 | 2022-07-07 | 2022-07-16 |
-| [Tú Me Dejaste De Querer](https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2) | 3:18 | 2022-03-24 |  |
+| [Tú Me Dejaste De Querer](https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2) | 3:18 | 2022-03-24 | 2023-01-27 |
 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/4Y4LIwW0Wu2ofbnaz9qZVN) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Tú Sí Sabes Quererme](https://open.spotify.com/album/3l1VLXgsVJQ2iBLeIkByZn) | 4:28 | 2022-03-11 | 2022-05-17 |
 | [Umbrella \- Acoustic Version](https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Umbrella \(Acoustic Version\)](https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6) | 2:58 | 2022-04-01 | 2022-04-07 |
 | [Un Beso Tuyo](https://open.spotify.com/track/319Gag1zq0amHN4APzdts7) | [Cóndor Sbarbati](https://open.spotify.com/artist/6MR2IdgCSFxDvRvD0SNDZz), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Rabia al Silencio](https://open.spotify.com/album/42NfSPhQ0xfPcxPt3Ie4wR) | 3:36 | 2022-04-13 | 2022-04-17 |
@@ -918,6 +918,7 @@
 | [Ya No Me Siento Solo](https://open.spotify.com/track/7rv7xwuYCQz6LOvmrIJWJW) | [Son De Ahi](https://open.spotify.com/artist/4cNcu87QWS5dHHaRHMXTgE) | [Ya No Me Siento Solo](https://open.spotify.com/album/3wfj6UdOyZjz8c6ZIhv2tR) | 3:24 | 2022-04-01 | 2022-04-19 |
 | [Yo No Te Pido la Luna](https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Yo No Te Pido la Luna](https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW) | 2:51 | 2022-09-23 |  |
 | [Yo Quiero Ver Un Tren \- Live](https://open.spotify.com/track/5r6xyRtNLEXZ5L9cWpzryO) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Obras Cumbres](https://open.spotify.com/album/2jRV6FSPqiJaNSwgVBD4G4) | 4:59 | 2022-03-24 | 2022-04-11 |
+| [Yo Te Diré](https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Yo Te Diré](https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J) | 3:27 | 2023-01-20 |  |
 | [Yo Vengo a Ofrecer Mi Corazón](https://open.spotify.com/track/3RiO4NBbz19Syk0VRCSswm) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7), [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV), [Facundo Guevara](https://open.spotify.com/artist/6964LUCtdUXz5FyLEeTgK4) | [Yo Vengo a Ofrecer Mi Corazón](https://open.spotify.com/album/5HmPgOERsgqZ66AHx26vJD) | 3:42 | 2022-03-28 | 2022-04-14 |
 | [Zoe](https://open.spotify.com/track/4ukRrm8X7wezPgdgdqOaTf) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/1pPs1H9wM7IgDpadTkI5dQ) | 3:34 | 2022-03-24 | 2022-04-16 |
 | [¡Gracias!](https://open.spotify.com/track/0mWxVghJRM3kwzIosQCxY1) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [¡Gracias!](https://open.spotify.com/album/3z654rjwdbqHAU9PdrrZMu) | 3:21 | 2022-04-13 | 2022-04-16 |

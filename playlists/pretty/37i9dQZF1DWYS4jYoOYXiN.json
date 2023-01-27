@@ -1,12 +1,12 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez (Courtesy of Fania)",
-  "num_followers": 64285,
+  "num_followers": 64341,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMGY4NzcwMGU4MmZkYzZlMGU4MjRkY2U5OTliY2Q1YjI1",
+  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMDdkMTFhMTY1MjdlOGVjOTI5NGI5MDNmY2Q3ZjQ0OWM2",
   "tracks": [
     {
       "added_at": "2022-04-09 04:26:32",
@@ -313,24 +313,20 @@
       "url": "https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ"
     },
     {
-      "added_at": "2022-04-09 04:26:32",
+      "added_at": "2021-09-07 18:02:03",
       "album": {
-        "name": "En Fiesta Navide\u00f1a",
-        "url": "https://open.spotify.com/album/7btZsLsMrGMiu6C6tofNAQ"
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
       },
       "artists": [
         {
-          "name": "Ricardo Ray",
-          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
-        },
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
         }
       ],
-      "duration_ms": 170813,
-      "name": "Seis Chorreao",
-      "url": "https://open.spotify.com/track/1GOi0KnWNKAUdedvhHCshA"
+      "duration_ms": 325920,
+      "name": "Micaela - Live",
+      "url": "https://open.spotify.com/track/2FQNKdVthiJDP3OhFQNaP8"
     },
     {
       "added_at": "2022-04-09 04:26:32",
@@ -353,20 +349,24 @@
       "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
     },
     {
-      "added_at": "2021-09-07 18:02:03",
+      "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "I Like It Like That",
-        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
+        "name": "En Fiesta Navide\u00f1a",
+        "url": "https://open.spotify.com/album/7btZsLsMrGMiu6C6tofNAQ"
       },
       "artists": [
         {
-          "name": "Pete Rodriguez",
-          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+          "name": "Ricardo Ray",
+          "url": "https://open.spotify.com/artist/33nZie2hFLgUG9gUfjTRoq"
+        },
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
         }
       ],
-      "duration_ms": 325920,
-      "name": "Micaela - Live",
-      "url": "https://open.spotify.com/track/2FQNKdVthiJDP3OhFQNaP8"
+      "duration_ms": 170813,
+      "name": "Seis Chorreao",
+      "url": "https://open.spotify.com/track/1GOi0KnWNKAUdedvhHCshA"
     },
     {
       "added_at": "2021-09-07 18:02:03",

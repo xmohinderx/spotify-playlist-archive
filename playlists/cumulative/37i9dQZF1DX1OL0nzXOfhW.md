@@ -2,7 +2,7 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: Triple G
+> 發掘世一超新聲，香港RADAR超新聲正式展開！
 
 77 songs - 4 hr 31 min
 

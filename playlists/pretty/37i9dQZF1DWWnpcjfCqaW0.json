@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 247042,
+  "num_followers": 247219,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY5NTEyNywwMDAwMDAwMDNjNmYxNWRmNTVkZWI2YTUxMjFlMGRiOTQxYTliZWU0",
+  "snapshot_id": "MTY3MjY5NTEyNywwMDAwMDAwMGVhYTg4MDY4Y2U3MzVkYTEyMTFmZWMwY2M2Njg4YjQ4",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "22 Early Starday Recordings",
-        "url": "https://open.spotify.com/album/5M4EJHZXWDI2XOaudxpg6G"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 136240,
-      "name": "Why Baby Why",
-      "url": "https://open.spotify.com/track/3vewZQLIjngv5dmPm1ph45"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Essential Don Gibson",
         "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
       },
@@ -915,34 +899,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+        "name": "22 Early Starday Recordings",
+        "url": "https://open.spotify.com/album/5M4EJHZXWDI2XOaudxpg6G"
       },
       "artists": [
         {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
-      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "The Best Of Jean Shepard",
-        "url": "https://open.spotify.com/album/18ClrNCJ8Y3yYbKhde22VB"
-      },
-      "artists": [
-        {
-          "name": "Jean Shepard",
-          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Beautiful Lies",
-      "url": "https://open.spotify.com/track/0TOnG6XkBU2Z9YBCCiRtMW"
+      "duration_ms": 136240,
+      "name": "Why Baby Why",
+      "url": "https://open.spotify.com/track/3vewZQLIjngv5dmPm1ph45"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -967,6 +935,38 @@
       "duration_ms": 181653,
       "name": "Goodnight, Irene",
       "url": "https://open.spotify.com/track/70uBQNPGrjgfvwYhkWZksR"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Best Of Jean Shepard",
+        "url": "https://open.spotify.com/album/18ClrNCJ8Y3yYbKhde22VB"
+      },
+      "artists": [
+        {
+          "name": "Jean Shepard",
+          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/0TOnG6XkBU2Z9YBCCiRtMW"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
+      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "16 All Time Favorite Songs",
-        "url": "https://open.spotify.com/album/49gjtUiOVrN6nQXLbOX4pi"
+        "name": "Good Old Country Music",
+        "url": "https://open.spotify.com/album/4rFH4XdtIsCat15Olnuvkn"
       },
       "artists": [
         {
-          "name": "The Delmore Brothers",
-          "url": "https://open.spotify.com/artist/10XMe12TQkDF6o4QPJlZFJ"
+          "name": "Sons of the Pioneers",
+          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
         }
       ],
-      "duration_ms": 174693,
-      "name": "Blues, Stay Away From Me",
-      "url": "https://open.spotify.com/track/7xVj55oXJ9eesE9f2XVHKe"
+      "duration_ms": 133375,
+      "name": "I'll Sail My Ship Alone",
+      "url": "https://open.spotify.com/track/121wbuV1IKpsfnh4ENf5JB"
     }
   ],
   "unique_name": "50s Country",

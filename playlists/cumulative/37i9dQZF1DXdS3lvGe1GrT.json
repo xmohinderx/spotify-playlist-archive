@@ -6578,10 +6578,28 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 169245,
       "name": "Three Wishes",
       "url": "https://open.spotify.com/track/7cv3C3t5PGab3huajFJuur"
+    },
+    {
+      "album": {
+        "name": "TIM",
+        "url": "https://open.spotify.com/album/1CiHHACQMcEGLdIc3NbK2a"
+      },
+      "artists": [
+        {
+          "name": "Tim Hause",
+          "url": "https://open.spotify.com/artist/6eXOOvKAb0K5ef3Snypauc"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169245,
+      "name": "Three Wishes",
+      "url": "https://open.spotify.com/track/36Y8jaDhOo0dFiKhmmYS9P"
     },
     {
       "album": {

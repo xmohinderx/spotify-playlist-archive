@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYwMjQwMCwwMDAwMDAwMDVjOTA4NjMzZWEyM2E4ODA5OTNmNGY4ODQ1YzA1ZWRi",
+  "snapshot_id": "MTY3MTYwMjQwMCwwMDAwMDAwMDQwYzFjYzczYzU0YmQ2ZTk1ODA0MGQ1YmFhNzI2NGNk",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -589,20 +589,24 @@
       "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
+      "added_at": "2022-01-07 02:01:58",
       "album": {
-        "name": "Coconut Mango",
-        "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
+        "name": "Two",
+        "url": "https://open.spotify.com/album/1XE0ohBl8Wfml1KJUzzNtF"
       },
       "artists": [
         {
-          "name": "Arrangement",
-          "url": "https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e"
+          "name": "Signa",
+          "url": "https://open.spotify.com/artist/0NNkdG1hVjxDA0Viq5cERJ"
+        },
+        {
+          "name": "John Mark Nelson",
+          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
         }
       ],
-      "duration_ms": 325489,
-      "name": "Coconut Mango",
-      "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
+      "duration_ms": 163733,
+      "name": "Natural Bridges",
+      "url": "https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W"
     },
     {
       "added_at": "2021-11-12 19:00:50",
@@ -625,24 +629,20 @@
       "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
     },
     {
-      "added_at": "2022-01-07 02:01:58",
+      "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/1XE0ohBl8Wfml1KJUzzNtF"
+        "name": "Coconut Mango",
+        "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
       },
       "artists": [
         {
-          "name": "Signa",
-          "url": "https://open.spotify.com/artist/0NNkdG1hVjxDA0Viq5cERJ"
-        },
-        {
-          "name": "John Mark Nelson",
-          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
+          "name": "Arrangement",
+          "url": "https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e"
         }
       ],
-      "duration_ms": 163733,
-      "name": "Natural Bridges",
-      "url": "https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W"
+      "duration_ms": 325489,
+      "name": "Coconut Mango",
+      "url": "https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj"
     },
     {
       "added_at": "2021-09-10 04:35:25",

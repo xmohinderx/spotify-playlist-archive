@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. In cover, CASX!",
+  "description": "La playlist che \u00e8 come andare ai concerti. In cover, i Moise!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 209063,
       "name": "B4",
       "url": "https://open.spotify.com/track/471iPDomxfndXNESa4xg7C"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 258613,
       "name": "Canzone 10",
       "url": "https://open.spotify.com/track/4kgotZC0lTFDC9VxshW705"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 233558,
       "name": "Citt\u00e0 foresta",
       "url": "https://open.spotify.com/track/4GPeaXpFwD2ju3fwnfZQ2Z"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 123982,
       "name": "Coldblooded",
       "url": "https://open.spotify.com/track/6ttVgUvfahHGsuyROn3vfB"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 224080,
       "name": "Cpr14",
       "url": "https://open.spotify.com/track/0kNVayFfKaampXjb0fdOCy"
@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 173010,
       "name": "Favole (mi hai rotto il caxxo)",
       "url": "https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX"
@@ -2285,6 +2285,24 @@
     },
     {
       "album": {
+        "name": "IL MIO FUTURO",
+        "url": "https://open.spotify.com/album/0tzqRqCyBdJCpU680TpNdP"
+      },
+      "artists": [
+        {
+          "name": "I Boschi Bruciano",
+          "url": "https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185186,
+      "name": "IL MIO FUTURO",
+      "url": "https://open.spotify.com/track/12Kp5O3H5AdKa6LFXXY3FC"
+    },
+    {
+      "album": {
         "name": "il mondo va veloce",
         "url": "https://open.spotify.com/album/5BNaMQRSia5tod8TxQS4mZ"
       },
@@ -2774,6 +2792,24 @@
       "duration_ms": 205600,
       "name": "looney",
       "url": "https://open.spotify.com/track/5iYyPap3wN9D2W0gCYmaMi"
+    },
+    {
+      "album": {
+        "name": "Lost In Translation",
+        "url": "https://open.spotify.com/album/2nKEOPy3lV9DpUbSPytjt5"
+      },
+      "artists": [
+        {
+          "name": "CASX",
+          "url": "https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170892,
+      "name": "Lost In Translation",
+      "url": "https://open.spotify.com/track/3JbZvgq27J7sHlzGcBUcuE"
     },
     {
       "album": {
@@ -3342,7 +3378,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 353731,
       "name": "Nuvola II",
       "url": "https://open.spotify.com/track/6UobW347K3eotJka699l7a"
@@ -3548,6 +3584,24 @@
       "duration_ms": 254746,
       "name": "Pi\u00f9 mi odi pi\u00f9 mi amo",
       "url": "https://open.spotify.com/track/0EWtLGf9X5zrVSfBDhsymi"
+    },
+    {
+      "album": {
+        "name": "Porci democristiani",
+        "url": "https://open.spotify.com/album/4zeT7erg13vLhYAsnIrZx7"
+      },
+      "artists": [
+        {
+          "name": "Andreotti",
+          "url": "https://open.spotify.com/artist/4A2XLQQao9kRsNKf4YfKxJ"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "Porci democristiani",
+      "url": "https://open.spotify.com/track/4g3jVoInr14fT2myZwsnSe"
     },
     {
       "album": {
@@ -4054,6 +4108,24 @@
       "duration_ms": 149719,
       "name": "SETTESATANICHE",
       "url": "https://open.spotify.com/track/2p3LzX6cbB8gm6DnUExMYb"
+    },
+    {
+      "album": {
+        "name": "Sexy solitudini",
+        "url": "https://open.spotify.com/album/0DJNBmiNV1FbNjvWpL9pVP"
+      },
+      "artists": [
+        {
+          "name": "MIGLIO",
+          "url": "https://open.spotify.com/artist/3hlMj1IgrGj38QOpyDVSj6"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197836,
+      "name": "Sexy solitudini",
+      "url": "https://open.spotify.com/track/34WPnL7WsZfAlTc2CoX9dh"
     },
     {
       "album": {
@@ -4618,7 +4690,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
@@ -4697,6 +4769,24 @@
     },
     {
       "album": {
+        "name": "TRAGEDIA MODERNA",
+        "url": "https://open.spotify.com/album/2syk13vkvcOaq37g60JGGS"
+      },
+      "artists": [
+        {
+          "name": "ROS",
+          "url": "https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159520,
+      "name": "TRAGEDIA MODERNA",
+      "url": "https://open.spotify.com/track/3GpDoprJLVqvoEo7mnBGYu"
+    },
+    {
+      "album": {
         "name": "Trails of Me",
         "url": "https://open.spotify.com/album/6wjDGE6rWctp7CZm69z9C7"
       },
@@ -4730,6 +4820,24 @@
       "duration_ms": 141600,
       "name": "TRANNE LA MIA",
       "url": "https://open.spotify.com/track/3Wpfd2r7ETAC33g4kxcQMm"
+    },
+    {
+      "album": {
+        "name": "Trasloco / Passeggiata",
+        "url": "https://open.spotify.com/album/3xWQOPcp1EVLtHkAeVIf8n"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Fiori",
+          "url": "https://open.spotify.com/artist/2rgu7gEF6GdReKyvdb0qF8"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214812,
+      "name": "Trasloco",
+      "url": "https://open.spotify.com/track/5A920VhoFqzQJE3E3aXxNg"
     },
     {
       "album": {
@@ -5116,6 +5224,24 @@
       "duration_ms": 216480,
       "name": "WHAT\u2019S THE POINT",
       "url": "https://open.spotify.com/track/1vDZJzrFXuRzI0L2iYJr9A"
+    },
+    {
+      "album": {
+        "name": "Songs of Grace and Ruin",
+        "url": "https://open.spotify.com/album/7q0ZQm0aEuVpJWMZLpDZeF"
+      },
+      "artists": [
+        {
+          "name": "K\u00e6ry Ann",
+          "url": "https://open.spotify.com/artist/5fyWgPHjsdMY9xcNciixy2"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227453,
+      "name": "White Cage",
+      "url": "https://open.spotify.com/track/5BilJJWDFub6jR3T7ubM97"
     },
     {
       "album": {

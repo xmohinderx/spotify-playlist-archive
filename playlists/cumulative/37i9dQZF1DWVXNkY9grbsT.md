@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-283 songs - 1 day 0 hr 11 min
+284 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [CORRI](https://open.spotify.com/track/5AFHQZ2mgLhyk8MzY5z4X2) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 4:17 | 2021-12-26 | 2022-07-27 |
 | [Cracks](https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Cracks](https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ) | 8:28 | 2021-12-26 |  |
 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 | 2021-12-26 |  |
-| [Crash](https://open.spotify.com/track/6GuRn7F99EtpF12KKUSRwt) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Crash](https://open.spotify.com/album/4x8zIMFv3t730LgIqBiSkg) | 5:07 | 2022-02-04 | 2022-07-28 |
+| [Crash](https://open.spotify.com/track/6GuRn7F99EtpF12KKUSRwt) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Crash](https://open.spotify.com/album/4x8zIMFv3t730LgIqBiSkg) | 5:07 | 2022-02-04 |  |
 | [Cry Me A Blizzard \- AFRODEUTSCHE I'm Here Remix](https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG), [AFRODEUTSCHE](https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m) | [Cry Me A Blizzard \(AFRODEUTSCHE I'm Here Remix\)](https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3) | 3:29 | 2021-12-26 |  |
 | [Crypt](https://open.spotify.com/track/3aRW4dPpIzTOVoLm9aIT2A) | [Dialect](https://open.spotify.com/artist/22oD5ZYEJPZf9e68jQbQz5) | [Keep Going..\. Under](https://open.spotify.com/album/0V6ZruB2SwjUuN2AaFJG4p) | 5:10 | 2021-12-26 |  |
 | [Cycles](https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Information \- EP](https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw) | 5:30 | 2023-01-16 |  |
@@ -108,6 +108,7 @@
 | [Few Are Chosen](https://open.spotify.com/track/4ELyYxJHrds4szqryojrrb) | [Shackleton](https://open.spotify.com/artist/5Mq3CTRRgLcPkMnUue75a3) | [Departing Like Rivers](https://open.spotify.com/album/3rwFk3UFJlRJtTcsnOnlZa) | 3:15 | 2021-12-26 | 2022-01-09 |
 | [FI3AC2266010](https://open.spotify.com/track/7uKSKoL10ubpCseB5jIPYq) | [Aleksi Perälä](https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx) | [CYCLES 7 宗彝](https://open.spotify.com/album/6Z3bAzBc8D8gT4Okjcec2g) | 8:36 | 2022-03-18 | 2023-01-17 |
 | [Fiction Of A Sea](https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7) | [Acrobatic Thoughts](https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN) | 3:29 | 2022-01-14 |  |
+| [Films That Start with Rain](https://open.spotify.com/track/1yLPif0JrbY8fzGGUoTUlH) | [Hele](https://open.spotify.com/artist/4DZZXFmpCO9HuXxqknSaFc) | [Films That Start with Rain](https://open.spotify.com/album/0I7RaIu3FKZLZWsNoQaNN1) | 3:48 | 2023-01-20 |  |
 | [Fond](https://open.spotify.com/track/5wwmFhVGRTVEfftMcb3HGp) | [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Fond](https://open.spotify.com/album/5PEVqlVVEvvQJgmLmQ7IEh) | 2:40 | 2022-05-06 |  |
 | [Forget](https://open.spotify.com/track/4SLq6OwH9S9u7a6ZvhevAm) | [Endless Melancholy](https://open.spotify.com/artist/7hYVnkmEfs0BP27MvYAFEw) | [Forgive \| Forget](https://open.spotify.com/album/0tdpgomn8HxnjUDYWbeeAH) | 7:15 | 2022-03-25 |  |
 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 | 2022-01-23 |  |
@@ -229,7 +230,7 @@
 | [Simulacrum II \- Roly Porter Remix](https://open.spotify.com/track/0qfAe2NZhRf5y958UrK4HH) | [Aho Ssan](https://open.spotify.com/artist/6DP0aNDMupNmkyK4drCrvC), [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [Simulacrum Remixed](https://open.spotify.com/album/4IkLBRzKXlH5Y90CZRYkuo) | 6:11 | 2021-12-26 | 2022-01-14 |
 | [Sine Waves](https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 4:38 | 2022-09-20 |  |
 | [Singularity](https://open.spotify.com/track/5H7MkToBZTfphmaYyCFNWS) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [My Space](https://open.spotify.com/album/4u1IvjuiRix1rN7ZoVxVzv) | 6:37 | 2022-01-23 | 2022-07-28 |
-| [Solace](https://open.spotify.com/track/36KdtPFaNf5agHpqQqE7ka) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Solace](https://open.spotify.com/album/60xW167qnSy1Uukg6g6Mce) | 2:44 | 2022-04-01 |  |
+| [Solace](https://open.spotify.com/track/36KdtPFaNf5agHpqQqE7ka) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Solace](https://open.spotify.com/album/60xW167qnSy1Uukg6g6Mce) | 2:44 | 2022-04-01 | 2023-01-27 |
 | [Solstice](https://open.spotify.com/track/2A2KhiDjc7NXsqhuMyKXp9) | [SVLBRD](https://open.spotify.com/artist/40SVMdCuPtqI6suYOG3Qk0) | [Solstice](https://open.spotify.com/album/5In0aQDAEJHdrI4oxgzdtX) | 8:00 | 2021-12-26 |  |
 | [Sony 7IV](https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Fighting Modernism EP](https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ) | 3:51 | 2022-05-06 |  |
 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 | 2022-04-01 |  |
@@ -286,7 +287,7 @@
 | [Wild Animal](https://open.spotify.com/track/04mOMGg8C8h8sJMALXhQB4) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o), [Paraorchestra](https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm) | [The Unfolding](https://open.spotify.com/album/7wxd4u4qDhBamLFUUp4J2H) | 3:55 | 2022-04-01 |  |
 | [Windmills \- Salamanda Remix](https://open.spotify.com/track/49w8Me7pwfgdHidun5OXEh) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Windmills \(Salamanda Remix\)](https://open.spotify.com/album/79FJtZq42O1z9ISnqZqMWL) | 3:29 | 2023-01-16 |  |
 | [Wing Pinger 02](https://open.spotify.com/track/1Qlk7bOGlvqtncjCZf8bJE) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 5:01 | 2021-12-26 | 2023-01-16 |
-| [Winter's Melt](https://open.spotify.com/track/3rcSl72boGsikNIlF1mWWZ) | [Carl Lord](https://open.spotify.com/artist/2LmBmuBKjJg3Xqh24WwpoN) | [Winter's Melt](https://open.spotify.com/album/0lzh9y8SDCaHqAipgINFwd) | 6:25 | 2022-03-25 |  |
+| [Winter's Melt](https://open.spotify.com/track/3rcSl72boGsikNIlF1mWWZ) | [Carl Lord](https://open.spotify.com/artist/2LmBmuBKjJg3Xqh24WwpoN) | [Winter's Melt](https://open.spotify.com/album/0lzh9y8SDCaHqAipgINFwd) | 6:25 | 2022-03-25 | 2023-01-27 |
 | [Worlds Collide \- Hannes Kretzer Rework](https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf), [Morten Reppesgård](https://open.spotify.com/artist/5jAzP0mkUinJrV4NdUHjJI), [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [Worlds Collide \(Hannes Kretzer Rework\)](https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc) | 3:51 | 2022-03-11 |  |
 | [XYZ](https://open.spotify.com/track/72oEGguykIkj1PDA8dXTMW) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [XYZ](https://open.spotify.com/album/6TFaNIzSXMAnOLpjIcWOKO) | 3:22 | 2022-01-07 | 2022-07-21 |
 | [You Ain't Down](https://open.spotify.com/track/29sHG2nNKkqOPAlBGiTMn8) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fight! Fight! Fight!](https://open.spotify.com/album/3eVEXomIzqJM9kM8BCqCI2) | 3:23 | 2021-12-26 |  |

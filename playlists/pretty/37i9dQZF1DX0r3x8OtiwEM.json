@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 816355,
+  "num_followers": 816886,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYxNjYwMCwwMDAwMDAwMDc4NDAwZDI1Mjg2NGQwNDdhZjM5NmNiYjVlMDllNjY5",
+  "snapshot_id": "MTY3MzYxNjYwMCwwMDAwMDAwMDQ1ZDFjMTViMGFjODI0YmUwYmQwNzRkYzJlMTRkMzg5",
   "tracks": [
     {
       "added_at": "2023-01-13 13:30:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 219014,
+      "name": "FAST LAND",
+      "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
         "name": "Admit It (u don't want 2)",
         "url": "https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 385074,
       "name": "Admit It (u don't want 2)",
       "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
-        "name": "MORE D4TA",
-        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 219014,
-      "name": "FAST LAND",
-      "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/0j9b4LarSNfTyScEtGwyAF"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 211371,
       "name": "The Future",
       "url": "https://open.spotify.com/track/1e806Bcl0zWAr4Q3YhaMJD"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2023-01-13 13:30:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-01-13 13:30:00",
       "album": {
-        "name": "Plastic (Scheinizzl Remix)",
-        "url": "https://open.spotify.com/album/56x2n57k26tNK4x2RdeiNq"
-      },
-      "artists": [
-        {
-          "name": "Klangkarussell",
-          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
-        },
-        {
-          "name": "Scheinizzl",
-          "url": "https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "Plastic (Scheinizzl Remix)",
-      "url": "https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP"
-    },
-    {
-      "added_at": "2023-01-13 13:30:00",
-      "album": {
         "name": "Untold",
         "url": "https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 402198,
       "name": "Untold",
       "url": "https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap"
+    },
+    {
+      "added_at": "2023-01-13 13:30:00",
+      "album": {
+        "name": "Plastic (Scheinizzl Remix)",
+        "url": "https://open.spotify.com/album/56x2n57k26tNK4x2RdeiNq"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Scheinizzl",
+          "url": "https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "Plastic (Scheinizzl Remix)",
+      "url": "https://open.spotify.com/track/69xVp5nLMHBlD7KWdm3YEP"
     },
     {
       "added_at": "2023-01-13 13:30:00",

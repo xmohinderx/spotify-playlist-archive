@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 33693,
+  "num_followers": 33750,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NzMxNywwMDAwMDAwMDQ2NWFhOGVhZmI4NTY5YTBkYmQyZjRmOTM4ZWJmYzQw",
+  "snapshot_id": "MTY3MzU1NzMxNywwMDAwMDAwMGJiYzgyZTNhMDVhN2I4ZTljNDk2MDhmM2YxMDIzYjBj",
   "tracks": [
     {
       "added_at": "2023-01-10 17:33:42",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-01-10 17:33:42",
       "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 255226,
-      "name": "You Shook Me",
-      "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
-    },
-    {
-      "added_at": "2023-01-10 17:33:42",
-      "album": {
         "name": "Hound Dog Taylor and The Houserockers",
         "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 231000,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/0nsNwksjh20u7q6oQnZm5m"
+    },
+    {
+      "added_at": "2023-01-10 17:33:42",
+      "album": {
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 255226,
+      "name": "You Shook Me",
+      "url": "https://open.spotify.com/track/1xns0tyPRpOrODwND6ELTF"
     },
     {
       "added_at": "2023-01-10 17:33:42",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-01-10 17:33:42",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q"
-      },
-      "artists": [
-        {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
-        }
-      ],
-      "duration_ms": 419306,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
-    },
-    {
-      "added_at": "2023-01-10 17:33:42",
-      "album": {
         "name": "Pickin' the Blues",
         "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 205870,
       "name": "Mistreated so Bad",
       "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
+    },
+    {
+      "added_at": "2023-01-10 17:33:42",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q"
+      },
+      "artists": [
+        {
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
+        }
+      ],
+      "duration_ms": 419306,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP"
     }
   ],
   "unique_name": "Just Me and the Blues",

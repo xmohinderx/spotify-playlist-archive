@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT?si=plY\-6c4iRY\-EbVvV9p\_K6A&nd=1">Yaya Bey.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,752 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,755 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 25 | [Добро Пожаловать Домой](https://open.spotify.com/track/5jU5m2JIl5SKaYH8ctvTaM) | [Mirèle](https://open.spotify.com/artist/62Vu8AC36ARldmNIaJ7f7K) | [Добро Пожаловать Домой](https://open.spotify.com/album/7l6499ddjI6j2CPkrhjxbJ) | 2:41 |
 | 26 | [One Day](https://open.spotify.com/track/5th3rj1nW25bm5iSLiK3i9) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Epic](https://open.spotify.com/album/7mfSdEokzQjI5AxwrRauZv) | 4:43 |
 | 27 | [It's Okay To Cry](https://open.spotify.com/track/7nKiLyUUSbNUwaoMBzBeQO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:50 |
-| 28 | [Don't Last](https://open.spotify.com/track/4OL6UL4QaNxupnVX6ngTsB) | [Spritely](https://open.spotify.com/artist/2n4ScI2wdD88BSMTt7ZwKf) | [Don't Last / Fall Out](https://open.spotify.com/album/1qVTSYJEsreokmstWl1bVw) | 4:08 |
+| 28 | [Don't Last](https://open.spotify.com/track/2XrA7Q2biyqC0OcVLg5Ipk) | [Spritely](https://open.spotify.com/artist/2n4ScI2wdD88BSMTt7ZwKf) | [Don't Last / Fall Out](https://open.spotify.com/album/2XfOwMxIeYqNhBzoHANiqa) | 4:08 |
 | 29 | [Don't Blame It On My Boyfriend](https://open.spotify.com/track/3LDRHmtw1tSMtpnhDKRx91) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Don't Blame It On My Boyfriend](https://open.spotify.com/album/0wDnE9lEviiZt0xv1871U5) | 2:54 |
 | 30 | [Indica](https://open.spotify.com/track/5GSjHH6Sx28gCHK8Z9QjgF) | [Drea](https://open.spotify.com/artist/5y8t1h8bv3Rpj4nRiGkgXz) | [Ocean Avenue](https://open.spotify.com/album/4ZalSBnw2dAE1WVs99U4k5) | 4:57 |
 | 31 | [Hoax](https://open.spotify.com/track/62dLlWjRndXdRnNdHevtT9) | [JORDI UP LATE](https://open.spotify.com/artist/5OSJ6leUukUa7Fk1Xi5zqZ) | [Hoax](https://open.spotify.com/album/7cwUcgrNEvsDwc4jfY6HIR) | 4:02 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [I thought this would be a love song](https://open.spotify.com/track/1fNeZaIvC7qqCjV9UUvCrY) | [Beth Keeping](https://open.spotify.com/artist/4Arf7HqBihxQlOs8wO49l5) | [I thought this would be a love song](https://open.spotify.com/album/0yIofW9DnqPQ55iFsZkqCC) | 2:52 |
 | 40 | [Guilty Conscience](https://open.spotify.com/track/0w1VK63Lh4ZOAzO0rSc0Ni) | [Ella Fae](https://open.spotify.com/artist/78DwvCbaNtQoQTgXmz56jW) | [Guilty Conscience](https://open.spotify.com/album/0dJTCm2MgEOSzB9JPoGRA4) | 3:01 |
 
-Snapshot ID: `MTY3Mjg0OTAxNywwMDAwMDAwMGIwYjRjYTg3NzRjMTc2ZTAxYjM5NmY2NWJmNmMzZDZk`
+Snapshot ID: `MTY3Mjg0OTAxNywwMDAwMDAwMGJmNzA4M2EyM2M0M2ZmZGUzMDhhZGJmZDM5MTZmNDMx`

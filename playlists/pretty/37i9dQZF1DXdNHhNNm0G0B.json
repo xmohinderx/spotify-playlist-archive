@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 68408,
+  "num_followers": 68445,
   "original_name": "Backporch Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMDUwMmNhOGVlZTMxMzdiOWEwZmY2ZDMyYTM5OTA5YTI5",
+  "snapshot_id": "MTY3MzU2ODA2MCwwMDAwMDAwMDEwNGM5Y2M1MjBhMzNkYjQ0ZmFjNDFjYWQ5ODJkMDc1",
   "tracks": [
     {
       "added_at": "2023-01-13 00:01:00",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Black Myself",
-        "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr"
       },
       "artists": [
         {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+          "name": "Julian Lage & Chris Eldridge",
+          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
         }
       ],
-      "duration_ms": 201193,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
+      "duration_ms": 204000,
+      "name": "Butter and Eggs",
+      "url": "https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Black Myself",
+        "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 201193,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "Blues In Mono",
         "url": "https://open.spotify.com/album/2IQagMayRx6kAilOpLcBhs"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 150733,
       "name": "Well Well Well",
       "url": "https://open.spotify.com/track/6Gr0nYfH4DpKYrAggRGGZZ"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage & Chris Eldridge",
-          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Butter and Eggs",
-      "url": "https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "In the Morning Twilight",
-        "url": "https://open.spotify.com/album/2kcdTK4BvfNIpipvvfmIBI"
-      },
-      "artists": [
-        {
-          "name": "Steffen Basho-Junghans",
-          "url": "https://open.spotify.com/artist/2AqJPIURzQPk72FXeh8LJx"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "In the Morning Twilight",
-      "url": "https://open.spotify.com/track/4SnB7omg7hwcvr4tLlRiea"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "A Place at the Table (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 141066,
       "name": "Focus (Rosie's Theme)",
       "url": "https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "In the Morning Twilight",
+        "url": "https://open.spotify.com/album/2kcdTK4BvfNIpipvvfmIBI"
+      },
+      "artists": [
+        {
+          "name": "Steffen Basho-Junghans",
+          "url": "https://open.spotify.com/artist/2AqJPIURzQPk72FXeh8LJx"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "In the Morning Twilight",
+      "url": "https://open.spotify.com/track/4SnB7omg7hwcvr4tLlRiea"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
-        "name": "Cruel Old World",
-        "url": "https://open.spotify.com/album/2b8RXtK0SUI7TELekPYCPB"
-      },
-      "artists": [
-        {
-          "name": "Arthur Terembula",
-          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
-        }
-      ],
-      "duration_ms": 172747,
-      "name": "Cruel Old World",
-      "url": "https://open.spotify.com/track/4kyce8EEMUUIMoPfWVsQwf"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
         "name": "The Country Blues Of John Lee Hooker",
         "url": "https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 134960,
       "name": "How Long Blues",
       "url": "https://open.spotify.com/track/7oqooYaiu59aIVRxWWKQX9"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
+        "name": "Cruel Old World",
+        "url": "https://open.spotify.com/album/2b8RXtK0SUI7TELekPYCPB"
+      },
+      "artists": [
+        {
+          "name": "Arthur Terembula",
+          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
+        }
+      ],
+      "duration_ms": 172747,
+      "name": "Cruel Old World",
+      "url": "https://open.spotify.com/track/4kyce8EEMUUIMoPfWVsQwf"
     },
     {
       "added_at": "2023-01-13 00:01:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-01-13 00:01:00",
       "album": {
+        "name": "Bottom's Up",
+        "url": "https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31"
+      },
+      "artists": [
+        {
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+        }
+      ],
+      "duration_ms": 172383,
+      "name": "Good Timin'",
+      "url": "https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6"
+    },
+    {
+      "added_at": "2023-01-13 00:01:00",
+      "album": {
         "name": "Golden Selection (Remastered)",
         "url": "https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 169214,
       "name": "She Ain't Nowhere - Remastered",
       "url": "https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS"
-    },
-    {
-      "added_at": "2023-01-13 00:01:00",
-      "album": {
-        "name": "The Best Of Cannon's Jug Stompers",
-        "url": "https://open.spotify.com/album/6zMTnsHJb9V8IonCLVav1F"
-      },
-      "artists": [
-        {
-          "name": "Cannon's Jug Stompers",
-          "url": "https://open.spotify.com/artist/65oBffOa88Yjia8B9FTLAS"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Heart Breakin' Blues",
-      "url": "https://open.spotify.com/track/7ct1EY3oM7uKoXGabiM9D9"
     }
   ],
   "unique_name": "Backporch Blues",

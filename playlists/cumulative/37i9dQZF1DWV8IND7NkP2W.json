@@ -5895,6 +5895,28 @@
     },
     {
       "album": {
+        "name": "Morning Glow",
+        "url": "https://open.spotify.com/album/1Y9ezSLdlZIRPgKnpK4pdD"
+      },
+      "artists": [
+        {
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        },
+        {
+          "name": "vuefloor",
+          "url": "https://open.spotify.com/artist/4ut8eVBaW8x99Ibio3pfVe"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175613,
+      "name": "Morning Glow",
+      "url": "https://open.spotify.com/track/5VcPFtpg0lgeU8MQa1q6E4"
+    },
+    {
+      "album": {
         "name": "Morning Steps",
         "url": "https://open.spotify.com/album/75joiSrDFFsnz9tDsXSiDF"
       },
@@ -8114,7 +8136,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 129229,
       "name": "Sliding Doors",
       "url": "https://open.spotify.com/track/3Cxr6JFgfsDlTpFvLjGiEk"
@@ -8194,6 +8216,24 @@
       "duration_ms": 190556,
       "name": "So Long - Instrumental",
       "url": "https://open.spotify.com/track/4UvQOOyT1gGuTqxIw9tteA"
+    },
+    {
+      "album": {
+        "name": "Someone not like you (Instrumental)",
+        "url": "https://open.spotify.com/album/7JwzW6WkGG3II0iKrRPtMQ"
+      },
+      "artists": [
+        {
+          "name": "Tamuraryo",
+          "url": "https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Someone not like you (Instrumental)",
+      "url": "https://open.spotify.com/track/07ZtMuYDF9qmjK2g2waZga"
     },
     {
       "album": {
@@ -8526,7 +8566,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 121411,
       "name": "Stay Around",
       "url": "https://open.spotify.com/track/1UWPpmeIw7jorX4rAII27O"

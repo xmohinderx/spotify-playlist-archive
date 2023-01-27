@@ -4,7 +4,7 @@
 
 > <a href="http://noteable.spotify.com">Noteable</a> highlights songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT?si=plY\-6c4iRY\-EbVvV9p\_K6A&nd=1">Yaya Bey.</a>
 
-477 songs - 1 day 2 hr 36 min
+478 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,8 +128,9 @@
 | [Do You Wanna](https://open.spotify.com/track/57R8c5G1hnjCFNUHgdiFfC) | [Staasia Daniels](https://open.spotify.com/artist/0VLvev050tpAMCM7FeVZ0n) | [Do You Wanna](https://open.spotify.com/album/07qWqYUaNoD3bUqJfd8K9o) | 2:55 | 2022-11-09 | 2022-12-01 |
 | [dominique](https://open.spotify.com/track/4RYeyNZ7ZlMJqVhoJTvMgp) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 3:54 | 2023-01-04 |  |
 | [Don't Blame It On My Boyfriend](https://open.spotify.com/track/3LDRHmtw1tSMtpnhDKRx91) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Don't Blame It On My Boyfriend](https://open.spotify.com/album/0wDnE9lEviiZt0xv1871U5) | 2:54 | 2023-01-04 |  |
+| [Don't Last](https://open.spotify.com/track/2XrA7Q2biyqC0OcVLg5Ipk) | [Spritely](https://open.spotify.com/artist/2n4ScI2wdD88BSMTt7ZwKf) | [Don't Last / Fall Out](https://open.spotify.com/album/2XfOwMxIeYqNhBzoHANiqa) | 4:08 | 2023-01-04 |  |
 | [Don't Last](https://open.spotify.com/track/43SQKbjBdstCpowEhu7cTk) | [Spritely](https://open.spotify.com/artist/2n4ScI2wdD88BSMTt7ZwKf) | [This is Fiction](https://open.spotify.com/album/3ypgJ2qNUpEGMoKZhMBbKh) | 4:08 | 2022-01-05 | 2022-02-03 |
-| [Don't Last](https://open.spotify.com/track/4OL6UL4QaNxupnVX6ngTsB) | [Spritely](https://open.spotify.com/artist/2n4ScI2wdD88BSMTt7ZwKf) | [Don't Last / Fall Out](https://open.spotify.com/album/1qVTSYJEsreokmstWl1bVw) | 4:08 | 2023-01-04 |  |
+| [Don't Last](https://open.spotify.com/track/4OL6UL4QaNxupnVX6ngTsB) | [Spritely](https://open.spotify.com/artist/2n4ScI2wdD88BSMTt7ZwKf) | [Don't Last / Fall Out](https://open.spotify.com/album/1qVTSYJEsreokmstWl1bVw) | 4:08 | 2023-01-04 | 2023-01-27 |
 | [don't SAVE ME](https://open.spotify.com/track/48neGx2SLVv0ohXlEZzRlK) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 1:53 | 2022-07-06 | 2022-11-10 |
 | [Don't Say It](https://open.spotify.com/track/0JMVBINkKr64EzrlH5rqY8) | [Valentina](https://open.spotify.com/artist/0qDEhyfeFBVihHtyPWCDdh) | [Don't Say It](https://open.spotify.com/album/6D6PIav0P0hIoeAHxi9k3O) | 2:55 | 2022-04-06 | 2022-05-05 |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2022-05-04 | 2022-11-10 |

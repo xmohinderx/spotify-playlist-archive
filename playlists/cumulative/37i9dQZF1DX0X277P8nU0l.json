@@ -110,7 +110,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 238755,
       "name": "Big Brown Eyes",
       "url": "https://open.spotify.com/track/4G0yZRknLwk4Ex5K0AlIfk"
@@ -132,6 +132,24 @@
       "duration_ms": 190653,
       "name": "Bird Sing",
       "url": "https://open.spotify.com/track/0T7rZj9aMFzPED9G3J7zSO"
+    },
+    {
+      "album": {
+        "name": "Bird's Eye View",
+        "url": "https://open.spotify.com/album/6qaYS8r1JJ33nK9rAB59ie"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Bird's Eye View",
+      "url": "https://open.spotify.com/track/2gJBqHbjSuyjP1LAHU93eU"
     },
     {
       "album": {
@@ -182,7 +200,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 173286,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce"
@@ -529,6 +547,24 @@
     },
     {
       "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/3tob4xK2ghAVtEgTm7L7MQ"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194200,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/08DHfDUaD0UH7INX02dbYf"
+    },
+    {
+      "album": {
         "name": "Let's Get It On (Flight Facilities Remix)",
         "url": "https://open.spotify.com/album/6dZyWgMFgbt59jwFN3MhZD"
       },
@@ -638,7 +674,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 214777,
       "name": "Monte Carlo",
       "url": "https://open.spotify.com/track/6nPXiWyjlfHfCT4TcMGJAM"
@@ -838,6 +874,28 @@
       "duration_ms": 238500,
       "name": "Sign Out",
       "url": "https://open.spotify.com/track/7xR9nZWkuINxV2jcbCplu9"
+    },
+    {
+      "album": {
+        "name": "Skylight (with Zeeba)",
+        "url": "https://open.spotify.com/album/3PmqmVZehRxWfaNzWfNmdA"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240449,
+      "name": "Skylight (with Zeeba)",
+      "url": "https://open.spotify.com/track/6N2MzhCp2fvu7sJhSaHFnw"
     },
     {
       "album": {

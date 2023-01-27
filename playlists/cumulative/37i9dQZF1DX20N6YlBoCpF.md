@@ -2,9 +2,9 @@
 
 ### [Nuwe Afrikaans](https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF)
 
-> Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq?si=ZiQJBFcvQMSwekMdi68KoA">VAN WEST</a>
+> Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U?si=D5BD3zw4Qmm2cQenRMRPgw">Nádine</a>
 
-206 songs - 11 hr 35 min
+207 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Hierdie Is Nie Liefde Nie](https://open.spotify.com/track/2YNV5GBMYwOI1ZpeSq74Ls) | [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi), [Michelle Mountjoy](https://open.spotify.com/artist/6YOybZbTWxncOU07yDI6mz) | [Hierdie Is Nie Liefde Nie](https://open.spotify.com/album/2oqy6xdyCXRaiMiNqBKNdm) | 2:49 | 2022-11-24 | 2022-12-24 |
 | [Honeymoon\-gevoel](https://open.spotify.com/track/2643ylNVzFIUMxlIaS9g31) | [Khail West](https://open.spotify.com/artist/6WIYP1qpwG4xW3zOMFAUz2) | [Honeymoon\-gevoel](https://open.spotify.com/album/4GEXphU8yCdhXywnsm2zFm) | 3:15 | 2022-09-15 | 2022-11-11 |
 | [Impulsief](https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Impulsief](https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L) | 3:03 | 2022-11-24 |  |
+| [In Die Son](https://open.spotify.com/track/3FWouV30HIUtD9cs89Aiou) | [Frans Karoo](https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO) | [Braambos Radio](https://open.spotify.com/album/7DUqi6xcyUDNkdCS4gvKal) | 3:45 | 2023-01-26 |  |
 | [Insomnia](https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:58 | 2022-08-11 | 2022-11-05 |
 | [Jakkalsdans](https://open.spotify.com/track/002j5hLHQwXzl0g51aiYbb) | [Rita Li](https://open.spotify.com/artist/1K7LgVQOUidDGnDvugQi3V) | [Jakkalsdans](https://open.spotify.com/album/3ual8hMD2UI5zzWjtVFblL) | 3:30 | 2022-11-17 |  |
 | [Jan Ek Kan Nie Dans Nie](https://open.spotify.com/track/2rOiYASLcLXCX8HDhiQa0F) | [Jan Rhaap](https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r) | [Elmboog Na Bo](https://open.spotify.com/album/3IoJEK7GxZfjjB9nUxnsxz) | 2:53 | 2022-12-27 | 2023-01-02 |
@@ -167,7 +168,7 @@
 | [Skuiling](https://open.spotify.com/track/2Zxrvy0wT08SxsVkrlI8As) | [Bouwer Bosch](https://open.spotify.com/artist/5HZFQNs0MnrxxtU7dvi4Te) | [Skuiling](https://open.spotify.com/album/3lsrsVNzUET0EIbUMCIda2) | 3:39 | 2022-10-03 | 2022-10-14 |
 | [Slaap Jy Al](https://open.spotify.com/track/66F6n7idekMz8lu3s5sTwq) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [Van Der Aven](https://open.spotify.com/album/3szF7dfZ2BtD2wr4aHNkN5) | 3:46 | 2022-09-29 | 2022-10-14 |
 | [Slapende Honde](https://open.spotify.com/track/3QQsWr6YFb3ewPwEjFHKrY) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Droombrief](https://open.spotify.com/album/0hLWiLGIlllFAfF4vKpmgf) | 4:06 | 2022-12-27 | 2023-01-02 |
-| [Smooth](https://open.spotify.com/track/7oovNehysT0pyWphC78mnH) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [Smooth](https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq) | 2:49 | 2022-12-01 |  |
+| [Smooth](https://open.spotify.com/track/7oovNehysT0pyWphC78mnH) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [Smooth](https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq) | 2:49 | 2022-12-01 | 2023-01-27 |
 | [Sonskyn](https://open.spotify.com/track/1qCuSf3gbjZ1A7msPrpcMx) | [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [Sonskyn](https://open.spotify.com/album/11xQmc2iXHJMcJ9pL8CPVL) | 2:56 | 2022-10-20 | 2022-12-09 |
 | [Soos Die Reën](https://open.spotify.com/track/1L9ZfKohXeXru4K0qGk5pX) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Soos Die Reën](https://open.spotify.com/album/00PSQBBvSucHGg8H4KdgpF) | 2:44 | 2022-10-27 | 2022-11-18 |
 | [Spicy](https://open.spotify.com/track/7cMWtLwxWs08ckWJFSFpZ0) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Spicy](https://open.spotify.com/album/5L9LZdUqlU9xccbynFA7Vf) | 2:49 | 2022-10-13 | 2022-10-28 |

@@ -4,7 +4,7 @@
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: Tito Torbellino Jr, Natanael Cano, Gabito Ballesteros.
 
-406 songs - 20 hr 45 min
+407 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Las Erres Gemelas](https://open.spotify.com/track/7hwomKLANXZQDHEFzjbgq1) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Las Erres Gemelas](https://open.spotify.com/album/73q7EwOjaITTUQB7ajLmm6) | 4:35 | 2022-11-11 | 2023-01-14 |
 | [Las Guerras de Califas](https://open.spotify.com/track/5YlTqYidHFyL4XEnGtNOog) | [Clave Secreta](https://open.spotify.com/artist/076NZ7vK81Lc1aKv15hGLN) | [Las Guerras de Califas](https://open.spotify.com/album/4m71rRHC0ECTNT3yN1jCu3) | 3:35 | 2022-06-10 | 2022-08-22 |
 | [Las Parrandas Del Gordo \- En Vivo](https://open.spotify.com/track/26Dv27PxgMRMS0kiWhUbEY) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Las Parrandas Del Gordo \(En Vivo\)](https://open.spotify.com/album/6RgjLB7vJ5K3Wb6cnoWqWv) | 2:38 | 2022-10-07 | 2023-01-14 |
-| [Las Rayas](https://open.spotify.com/track/3NR39Ys3YaqjdckVC5tAhY) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0) | [Las Rayas](https://open.spotify.com/album/3UR62vj0iao5rSSTYEEWDD) | 3:10 | 2023-01-13 |  |
+| [Las Rayas](https://open.spotify.com/track/3NR39Ys3YaqjdckVC5tAhY) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0) | [Las Rayas](https://open.spotify.com/album/3UR62vj0iao5rSSTYEEWDD) | 3:10 | 2023-01-13 | 2023-01-27 |
 | [Las Rutas](https://open.spotify.com/track/0KknLdjEQJWyvZoOJDspn3) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Las Rutas](https://open.spotify.com/album/7ewDToFv5C28CgLyDuzuye) | 2:04 | 2022-05-13 | 2022-09-10 |
 | [Lavadichi](https://open.spotify.com/track/1toi8pP6yhA5q4DsEtWCUm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Lavadichi](https://open.spotify.com/album/64Ixc7mGaDYX4fBJhirvnX) | 2:50 | 2023-01-21 |  |
 | [Le Compre Casa A Mi Ama](https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Compre Casa A Mi Ama](https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x) | 3:24 | 2023-01-21 |  |
@@ -336,6 +336,7 @@
 | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Por Apodo Soy Sobrino \(En Vivo\)](https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk) | 3:26 | 2022-07-15 | 2023-01-14 |
 | [Por Clave el 13](https://open.spotify.com/track/61vEls8FiPl53hu6947W27) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Seguimos Irremediables](https://open.spotify.com/album/4LCQCWFTDGmbl93Y9LuXJF) | 3:10 | 2022-07-22 | 2022-07-29 |
 | [Por Clave el 13](https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Seguimos Irremediables](https://open.spotify.com/album/40qsMl66nONy9hHLMHATwO) | 3:10 | 2022-07-22 | 2023-01-14 |
+| [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-01-26 |  |
 | [Presumo Lo Que Tengo](https://open.spotify.com/track/6CwFy3iB0Rtcbuy0Ip4Vhk) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Presumo Lo Que Tengo](https://open.spotify.com/album/3Z4S8Mqj3PSFpuT6Nd9A1R) | 3:18 | 2022-09-09 | 2023-01-14 |
 | [Pura Sombreriza](https://open.spotify.com/track/0obbAYSS1mu1DFat1eJvSX) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pura Sombreriza](https://open.spotify.com/album/2y5pAezJKZJOFKIxDyoOCQ) | 3:59 | 2022-09-09 | 2023-01-14 |
 | [Puro Campeón](https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Puro Campeón](https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm) | 3:16 | 2022-10-14 | 2023-01-14 |

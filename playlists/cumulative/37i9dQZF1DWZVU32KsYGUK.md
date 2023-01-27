@@ -4,7 +4,7 @@
 
 > Restaurant style, elegant music for your fancy dinner
 
-300 songs - 12 hr 57 min
+304 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Allgäuer Winter](https://open.spotify.com/track/2HQlshtd1S9plFIFiexIGN) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Allgäuer Winter](https://open.spotify.com/album/3TteT6GzxNbGON4e6L2D1m) | 3:00 | 2022-11-24 |  |
 | [Alma](https://open.spotify.com/track/7kz2rN1A7TmTxLO5JT9dfd) | [Dawskjar](https://open.spotify.com/artist/1vWB8VeQZCKtz0tp0n8mkB) | [Alma](https://open.spotify.com/album/6TicudJT7W8MDjuSZj2UA4) | 2:18 | 2022-04-27 |  |
 | [Alt jeg tør](https://open.spotify.com/track/6oCUME6tmQJi4LPHogLpUV) | [Elise Lindahl](https://open.spotify.com/artist/7dS19zpb3TVFJCjiedH4oM) | [Alt jeg tør](https://open.spotify.com/album/1EkBSKkkcNQryBtQk0CPna) | 2:22 | 2022-04-27 |  |
+| [Altra paraula](https://open.spotify.com/track/3xjwcASuxHun4dTv14RjfI) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Altra paraula](https://open.spotify.com/album/0SsEDWqBsPewEVWaHGVbyS) | 2:38 | 2023-01-26 |  |
 | [Amore Eterno](https://open.spotify.com/track/7w9HyzWXYGqok3S1y2yKW2) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Amore Eterno](https://open.spotify.com/album/5LCdLCsWE3PHpc6j6908pm) | 1:34 | 2022-05-27 |  |
 | [An Autumn Waltz](https://open.spotify.com/track/0PWS0IcWdSMbQnjvZ1zlIm) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [An Autumn Waltz](https://open.spotify.com/album/53h6w8SlgCw3TpJrNUWdpa) | 2:20 | 2022-09-12 | 2023-01-19 |
 | [An Autumn Waltz](https://open.spotify.com/track/6uvB5f8P0Jdk37Ysem3rZt) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [About Winter](https://open.spotify.com/album/2rahePpMvRhAZrhymPwHPw) | 2:20 | 2023-01-09 |  |
@@ -75,6 +76,7 @@
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2022-04-27 |  |
 | [Emeralds](https://open.spotify.com/track/4cWtWIuQgQF5Tvn7PfqHzA) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Emeralds](https://open.spotify.com/album/6PHgykEEHPYKP67jLJaFWg) | 2:45 | 2022-04-27 |  |
 | [En Lille Drøm](https://open.spotify.com/track/4kKFkTHhUgNz1pAUCmtF7l) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [En Lille Drøm](https://open.spotify.com/album/1qC1Mg1LyYKQVs7cpcniHb) | 2:18 | 2022-10-24 |  |
+| [Espuma de lava](https://open.spotify.com/track/5dKz9zOYjVQ0tVfrUfBIfO) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Espuma de lava](https://open.spotify.com/album/1wimT4It49FQbJkxDzFiHN) | 2:27 | 2023-01-26 |  |
 | [Espérance](https://open.spotify.com/track/6t5EDQ1oQ65TBPNIm05f7a) | [Jeremy Hababou](https://open.spotify.com/artist/3S7Lr7NOUxWimVwXrW8xT4) | [Espérance](https://open.spotify.com/album/1joc3R1staAkFn5mMqwc3K) | 2:31 | 2022-12-05 |  |
 | [Evangeline](https://open.spotify.com/track/3rfsel8gqoDpNVx7DgTyOf) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Evangeline](https://open.spotify.com/album/2GxIEfBPiuGksXQwRQO1Lm) | 2:01 | 2022-04-27 |  |
 | [Evenfall](https://open.spotify.com/track/5EwC7LIoLBhLJjlAgz2pXR) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Evenfall](https://open.spotify.com/album/5nSQeRUNCJrPoy412qtL6i) | 2:26 | 2022-04-27 |  |
@@ -265,6 +267,7 @@
 | [Time](https://open.spotify.com/track/1g0Zj4GZ229O647Tt3RPJ2) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.1](https://open.spotify.com/album/2Nj3e0AhYcqRqUd0AV2MmB) | 2:04 | 2022-04-27 | 2022-05-21 |
 | [Timelapse](https://open.spotify.com/track/1AyZlUfEdW8pBzILc2Zd5D) | [Minnie Scolanti](https://open.spotify.com/artist/6pu5iA6AU2eSYpbyqeOdjr) | [Timelapse](https://open.spotify.com/album/4eobXM7Zc9BmPjpJ5Gg0jf) | 2:02 | 2022-04-27 | 2022-12-06 |
 | [Timeless](https://open.spotify.com/track/2iKJY18ZbvwC6rGIGh1pIE) | [Allister Romans](https://open.spotify.com/artist/2iXh00erHUEAsyIw0s2UGh) | [Timeless](https://open.spotify.com/album/465XayPaIKMC649uN3VNIE) | 2:26 | 2022-04-27 |  |
+| [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 | 2023-01-26 |  |
 | [Tournesols](https://open.spotify.com/track/7lssMgk6U5ikJZ8yxt3xw0) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Tournesols](https://open.spotify.com/album/4jq8FPznCCPIAIkI2hCFzS) | 2:32 | 2022-07-07 |  |
 | [Trapèze](https://open.spotify.com/track/65jKH7EzzFRmtfCM3xTI2V) | [Gaelle Gregoire](https://open.spotify.com/artist/2Lo6AyG7yPXfFRUoI7G2mX) | [Les formes](https://open.spotify.com/album/6w22F75zm6WePNXxjV4QYu) | 1:59 | 2022-09-12 |  |
 | [Tras Salomé](https://open.spotify.com/track/6amOk7q9AqwG40cUZlLyJx) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Tras Salomé](https://open.spotify.com/album/3lX23EVEQen2DEAGjLs6lo) | 2:57 | 2022-04-27 |  |
@@ -295,6 +298,7 @@
 | [What Matters Most](https://open.spotify.com/track/597PVVj8epaZ5L8vmHvNlW) | [Art Bandini](https://open.spotify.com/artist/5qCbYD7FoGfRfi4UpgiVko) | [What Matters Most](https://open.spotify.com/album/5iExwcFIoM0ZNzalpnrOKW) | 2:40 | 2022-04-27 |  |
 | [When the evening falls](https://open.spotify.com/track/7r7lC8lRoomYjKzLXobXKL) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [In Bloom](https://open.spotify.com/album/1LEZyMtpTYmJQ6ueummnGv) | 2:41 | 2022-04-27 | 2022-12-06 |
 | [Whirlwinds](https://open.spotify.com/track/4itNJec1ddbOrS1fBSGEzU) | [Dustin Koller](https://open.spotify.com/artist/62yrCbWafSx5Wsh2nwEjSa) | [Whirlwinds](https://open.spotify.com/album/64MJJa6onYAvqhhi5pE8iw) | 2:43 | 2022-12-21 |  |
+| [Whispers of Sonata I](https://open.spotify.com/track/14U1Qs5ZSBr4SGaDceu4JL) | [Milana Zilnik](https://open.spotify.com/artist/3xkWDJty3mvBD37vL278WG) | [Whispers of Sonata I](https://open.spotify.com/album/0oerIEAlKapISkiXUD6pUn) | 4:11 | 2023-01-26 |  |
 | [Who I Was](https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Who I Was](https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo) | 2:05 | 2022-04-27 |  |
 | [Who You Are](https://open.spotify.com/track/2IInKjGL3tht91GL2ZCRsN) | [Levi Meyer](https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Who You Are](https://open.spotify.com/album/6QASqs23q3trkXhljIUw1f) | 1:44 | 2022-08-09 |  |
 | [Wings](https://open.spotify.com/track/1TMwDvcIQpZKiio3glvpq7) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Wings](https://open.spotify.com/album/1hTQa53r74R97QMZZ8t8b9) | 2:33 | 2022-04-27 |  |

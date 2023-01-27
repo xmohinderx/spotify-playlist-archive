@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 156411,
+  "num_followers": 156392,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGRlNzM0NTNlNTFiMzBjYjA4ZTc2MWUxN2VkODk2ZmVh",
+  "snapshot_id": "MTY2ODEyMTIwMCwwMDAwMDAwMGUzZTU4OTBjODZkN2Q3NTlhNTk5Nzc0MGIwODExODM1",
   "tracks": [
     {
       "added_at": "2022-11-10 23:00:00",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2022-11-10 23:00:00",
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/431dPv3igSZocpya96M9Dm"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        }
-      ],
-      "duration_ms": 209663,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/5rbnKSSsith3hIrj9Pi1Yw"
-    },
-    {
-      "added_at": "2022-11-10 23:00:00",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4MvCkpCGff4pYf7VcfCetq"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 192397,
       "name": "If You're Looking for Trouble",
       "url": "https://open.spotify.com/track/7hmY7jkHkoOOmzHkvVyBUK"
+    },
+    {
+      "added_at": "2022-11-10 23:00:00",
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/431dPv3igSZocpya96M9Dm"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "duration_ms": 209663,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/5rbnKSSsith3hIrj9Pi1Yw"
     },
     {
       "added_at": "2022-11-10 23:00:00",

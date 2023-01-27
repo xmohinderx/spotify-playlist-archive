@@ -1,15 +1,15 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 65819,
+  "num_followers": 65854,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDA5N2JiNWQ3MDJkZGNjNjY5NGU5NjI3Y2Q3YjY3MDcw",
+  "snapshot_id": "MTY3NDc3NDAwMCwwMDAwMDAwMGYyODQ4NWE4ODMwZmM3MmRhZjM3ZTJkYTUzOGJjNjQ4",
   "tracks": [
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Fordi eg elskar deg",
         "url": "https://open.spotify.com/album/53dmlzt7IY86gQU3sObaPC"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2MkdeB9TXLBZpYHpXJECXe"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Evig kvile",
         "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Jovial",
         "url": "https://open.spotify.com/album/55G0O9SlnAKfWtbG6l2w8A"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/79A8w2MEID8RIM6rzgtrtR"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Mosaikk (16 Biter)",
         "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "CoolTur",
         "url": "https://open.spotify.com/album/0S2qo4ezoborqQTJnzdsc6"
@@ -101,27 +101,7 @@
       "url": "https://open.spotify.com/track/3NQDZSM47zCMao3GFkcqaV"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Skyfri Himmel",
-        "url": "https://open.spotify.com/album/5PQ9N6hXeex2FTf2Gdt9vK"
-      },
-      "artists": [
-        {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 212914,
-      "name": "Skyfri Himmel",
-      "url": "https://open.spotify.com/track/6j6cVfhfaLYJMN25lpBqqS"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Bror",
         "url": "https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI"
@@ -141,7 +121,27 @@
       "url": "https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
+        "name": "Skyfri Himmel",
+        "url": "https://open.spotify.com/album/5PQ9N6hXeex2FTf2Gdt9vK"
+      },
+      "artists": [
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 212914,
+      "name": "Skyfri Himmel",
+      "url": "https://open.spotify.com/track/6j6cVfhfaLYJMN25lpBqqS"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Og s\u00e5 kom resten av livet",
         "url": "https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Godmorgen, s\u00f8ster",
         "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Bestevenn (Bonus Version)",
         "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "M\u00e5nesinn",
         "url": "https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7"
@@ -209,31 +209,7 @@
       "url": "https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Eg Glemmer Deg Aldri",
-        "url": "https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ"
-      },
-      "artists": [
-        {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
-        },
-        {
-          "name": "Aslag Haugen",
-          "url": "https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 178116,
-      "name": "Eg glemmer deg aldri",
-      "url": "https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
         "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
@@ -249,7 +225,23 @@
       "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        }
+      ],
+      "duration_ms": 253946,
+      "name": "Gressholmen",
+      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Sol\u00f8ye",
         "url": "https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW"
@@ -273,7 +265,7 @@
       "url": "https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "S\u00f8vnlaus",
         "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
@@ -289,7 +281,31 @@
       "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
+        "name": "Eg Glemmer Deg Aldri",
+        "url": "https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ"
+      },
+      "artists": [
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Aslag Haugen",
+          "url": "https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 178116,
+      "name": "Eg glemmer deg aldri",
+      "url": "https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Liten fuggel (Med kommentarer)",
         "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
@@ -305,23 +321,7 @@
       "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
-      },
-      "artists": [
-        {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
-        }
-      ],
-      "duration_ms": 253946,
-      "name": "Gressholmen",
-      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Han er ikkje deg",
         "url": "https://open.spotify.com/album/5AAbIbS9ob9hXok5nOZ1Qw"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/7cRsdtV7gS336CqQwgRM4M"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Bestevenn (Bonus Version)",
         "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Kamilla Og Tyven",
         "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Jippi",
         "url": "https://open.spotify.com/album/4oofUdb8zptFJzi5AlhQ6u"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/6xndjhJtBSxxL7bcZdAiEJ"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Spindelvevriff",
         "url": "https://open.spotify.com/album/1GRdz7YDT3ozghg5VWlSY9"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/1Wpp1RuDRTeZxpwHFDhWiI"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Varme Ut Av Is",
         "url": "https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Bru over m\u00f8rke b\u00f8lger",
         "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "De N\u00e6re Ting",
         "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Underlig Frihet",
         "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Pusterom",
         "url": "https://open.spotify.com/album/1bCimO52g5O7Ahqp9fVO6d"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Til deg (Single Version)",
         "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Duell",
         "url": "https://open.spotify.com/album/14wYWC5D0e7HuJI9oDjsuF"
@@ -525,23 +525,7 @@
       "url": "https://open.spotify.com/track/5V6QuMxE9efXTyUQYZWy38"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
-      },
-      "artists": [
-        {
-          "name": "Henning Kvitnes",
-          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
-        }
-      ],
-      "duration_ms": 253100,
-      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Linedans",
         "url": "https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU"
@@ -561,7 +545,23 @@
       "url": "https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
+      "album": {
+        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
+      },
+      "artists": [
+        {
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+        }
+      ],
+      "duration_ms": 253100,
+      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
+    },
+    {
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "P\u00e5 vei",
         "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Hilsen Halvdan",
         "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Alle Snakker Sant",
         "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Gressholmen",
         "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Ta Meg Med",
         "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Det jeg vil ha (fra deg)",
         "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "1988 EP",
         "url": "https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Henda i v\u00e6ret",
         "url": "https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/1v3Npr2wwGA3k9402ueIVH"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Imellom to Evigheter",
         "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Hjarteskjell",
         "url": "https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Har det no \u00e5 si",
         "url": "https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Gutta P\u00e5 By`n",
         "url": "https://open.spotify.com/album/45mwIOTPBgzMo0UW5EXrZF"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/0JqKsXLWxANEsih1Vsszgr"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Alle Snakker Sant",
         "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Hilsen Halvdan",
         "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Original Nilsen",
         "url": "https://open.spotify.com/album/60ho1oZFKQpCjkNqQigoSz"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/39cEoZCXgx4SFYxnxp3ECu"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Under deg",
         "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Fra 4 Til 70",
         "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "Kr\u00e5keviks Songbok",
         "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
     },
     {
-      "added_at": "2023-01-19 23:00:00",
+      "added_at": "2023-01-26 23:00:00",
       "album": {
         "name": "K\u00e6m va du?",
         "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"

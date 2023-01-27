@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU?si=hfF2Vou4RiqRc6btCSPfrg"> Pawzz </a>\. Artwork: Isu Kim.
 
-199 songs - 10 hr 23 min
+200 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Patient](https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Patient](https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb) | 2:59 | 2023-01-25 |  |
 | [Peace](https://open.spotify.com/track/3VlXQmPEbNLm4RFK8ngUuk) | [blaq2unez](https://open.spotify.com/artist/3oEYei3Z43PEiyBUS9NR6T) | [Peace](https://open.spotify.com/album/4CP9ExNId4ldzbRasb6uPT) | 2:51 | 2023-01-25 |  |
 | [Plenty Talk](https://open.spotify.com/track/5Gejf8nwh5kBpAtWBZo809) | [Luddy Dave](https://open.spotify.com/artist/6cu9c86Oj2HaHYvkcjFwrL), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Plenty Talk](https://open.spotify.com/album/3GDu6DIhcHhO53U5QBXhJn) | 2:17 | 2022-09-30 | 2023-01-26 |
+| [Polé](https://open.spotify.com/track/0vEv0US0Q190QiMSqnXLg2) | [Sophie Elongo](https://open.spotify.com/artist/1YFhiwfCMccFTYuWx2LMgU) | [Polé](https://open.spotify.com/album/7zHaRkPEF5iHxUMeEu7ESe) | 2:58 | 2023-01-25 |  |
 | [Pretty](https://open.spotify.com/track/6WdVWpAVtE7CSKophvVSKa) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Pretty](https://open.spotify.com/album/0XvhZJjWZiuvE8tTcsyjnB) | 2:31 | 2022-10-28 | 2023-01-26 |
 | [Promises](https://open.spotify.com/track/4HP4bjD1xurss7xiOKd4MR) | [Ehu](https://open.spotify.com/artist/7sv6kMhWDM83MtvcWfmTEW) | [Promises](https://open.spotify.com/album/0OqEqi1qjnybOsNkSrnFDD) | 3:12 | 2022-09-02 | 2022-10-01 |
 | [Père](https://open.spotify.com/track/4yRZ3SAszB7vbemF24sZgM) | [Mo'Believe](https://open.spotify.com/artist/2JZT6fRSlCQFOnSvkwJ8PW) | [Père](https://open.spotify.com/album/4dgdV8g7x1fAhCO4Iax0yo) | 2:47 | 2022-09-02 | 2022-10-01 |

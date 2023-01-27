@@ -1,12 +1,12 @@
 {
   "description": "Celebramos a los h\u00e9roes y hero\u00ednas locales que con su talento y osad\u00eda nos dan patria musical. En portada: THE SUPUESTOS",
-  "num_followers": 2821,
+  "num_followers": 2822,
   "original_name": "NI\u00d1XS H\u00c9ROES",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODI4OTI5OCwwMDAwMDAwMDUyOGRmOWYyYTljOWUxYTFlZmU3NTcyZmRiNzVhZWE4",
+  "snapshot_id": "MTYzODI4OTI5OCwwMDAwMDAwMGQ1ZTI1MDJkNTU1MDMwMzAxN2M3M2Y3MWZhMzk2MWFk",
   "tracks": [
     {
       "added_at": "2021-11-26 19:28:42",
@@ -491,18 +491,18 @@
     {
       "added_at": "2021-11-26 19:28:42",
       "album": {
-        "name": "La Auto Confrontaci\u00f3n Resulta en la Resurrecci\u00f3n del Esp\u00edritu",
-        "url": "https://open.spotify.com/album/52fmNQtXbgAAK9kZixI2Hl"
+        "name": "Sam y Marx",
+        "url": "https://open.spotify.com/album/7K3tDo7ZD3nLHz0oCoCfEv"
       },
       "artists": [
         {
-          "name": "MIXO",
-          "url": "https://open.spotify.com/artist/6MD94ISQLOMJs8fXGtzmge"
+          "name": "Sam y Marx",
+          "url": "https://open.spotify.com/artist/5yqYpAt3HLtTue1hjrm0xD"
         }
       ],
-      "duration_ms": 204376,
-      "name": "La Auto Confrontaci\u00f3n Resulta en la Resurrecci\u00f3n del Esp\u00edritu",
-      "url": "https://open.spotify.com/track/5UdE0dUmajiYbq91prWi96"
+      "duration_ms": 194624,
+      "name": "Labios",
+      "url": "https://open.spotify.com/track/6TT6BOTP1dqX1x9KqEo8IC"
     },
     {
       "added_at": "2021-11-26 19:28:42",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-11-26 19:28:42",
       "album": {
+        "name": "La Auto Confrontaci\u00f3n Resulta en la Resurrecci\u00f3n del Esp\u00edritu",
+        "url": "https://open.spotify.com/album/52fmNQtXbgAAK9kZixI2Hl"
+      },
+      "artists": [
+        {
+          "name": "MIXO",
+          "url": "https://open.spotify.com/artist/6MD94ISQLOMJs8fXGtzmge"
+        }
+      ],
+      "duration_ms": 204376,
+      "name": "La Auto Confrontaci\u00f3n Resulta en la Resurrecci\u00f3n del Esp\u00edritu",
+      "url": "https://open.spotify.com/track/5UdE0dUmajiYbq91prWi96"
+    },
+    {
+      "added_at": "2021-11-26 19:28:42",
+      "album": {
         "name": "Conmigo mismo",
         "url": "https://open.spotify.com/album/0hGMem3rfci3OiXup09iDl"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 136000,
       "name": "De donde vienes t\u00fa",
       "url": "https://open.spotify.com/track/4c5Sk1LZnsjmgHLEtJ9r6m"
-    },
-    {
-      "added_at": "2021-11-26 19:28:42",
-      "album": {
-        "name": "Sam y Marx",
-        "url": "https://open.spotify.com/album/7K3tDo7ZD3nLHz0oCoCfEv"
-      },
-      "artists": [
-        {
-          "name": "Sam y Marx",
-          "url": "https://open.spotify.com/artist/5yqYpAt3HLtTue1hjrm0xD"
-        }
-      ],
-      "duration_ms": 194624,
-      "name": "Labios",
-      "url": "https://open.spotify.com/track/6TT6BOTP1dqX1x9KqEo8IC"
     },
     {
       "added_at": "2021-11-26 19:28:42",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-11-26 19:28:42",
       "album": {
-        "name": "Capricho",
-        "url": "https://open.spotify.com/album/1cKl7wTmHVifAgM4J6jbbg"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Pillado",
-          "url": "https://open.spotify.com/artist/7vX0MKNBCQnvXmEvpUbhcO"
-        }
-      ],
-      "duration_ms": 236397,
-      "name": "Buenos D\u00edas",
-      "url": "https://open.spotify.com/track/5x1kkO9o6iLGMW7mVxTicF"
-    },
-    {
-      "added_at": "2021-11-26 19:28:42",
-      "album": {
         "name": "Dagas",
         "url": "https://open.spotify.com/album/0E2k0aZE7AVrgW5TjMnGtz"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 190706,
       "name": "Dagas",
       "url": "https://open.spotify.com/track/0zj3w7tcmnAgQpS4bqf41W"
+    },
+    {
+      "added_at": "2021-11-26 19:28:42",
+      "album": {
+        "name": "Capricho",
+        "url": "https://open.spotify.com/album/1cKl7wTmHVifAgM4J6jbbg"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Pillado",
+          "url": "https://open.spotify.com/artist/7vX0MKNBCQnvXmEvpUbhcO"
+        }
+      ],
+      "duration_ms": 236397,
+      "name": "Buenos D\u00edas",
+      "url": "https://open.spotify.com/track/5x1kkO9o6iLGMW7mVxTicF"
     }
   ],
   "unique_name": "NI\u00d1XS H\u00c9ROES",

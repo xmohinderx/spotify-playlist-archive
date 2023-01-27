@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: slipmami
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,825 likes - 73 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,860 likes - 73 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

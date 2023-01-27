@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 243531,
       "name": "HOWL",
       "url": "https://open.spotify.com/track/2eallREIVzmmZHdHhoRWGb"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 229680,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/5MOsAXKTErIjTAo5BeMiQP"
@@ -982,6 +982,24 @@
       "duration_ms": 318464,
       "name": "Road",
       "url": "https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2"
+    },
+    {
+      "album": {
+        "name": "sad but dancing, happy but crying",
+        "url": "https://open.spotify.com/album/7c9sGteLmRaOZuzMVPKeVR"
+      },
+      "artists": [
+        {
+          "name": "Bearwear",
+          "url": "https://open.spotify.com/artist/1vs4LphTDQKsiFwVnDGFKf"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "sad but dancing, happy but crying",
+      "url": "https://open.spotify.com/track/5GGw2ve0iVKmzSbjOghU5T"
     },
     {
       "album": {
@@ -1375,7 +1393,7 @@
     },
     {
       "album": {
-        "name": "works.ep",
+        "name": "Works.ep",
         "url": "https://open.spotify.com/album/7Dt2tewXcLRyDHteQ660DM"
       },
       "artists": [
@@ -1941,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "\u5149\u306e\u5ead\u3068\u9b5a\u306e\u5922",
+        "url": "https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj"
+      },
+      "artists": [
+        {
+          "name": "Homecomings",
+          "url": "https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268315,
+      "name": "\u5149\u306e\u5ead\u3068\u9b5a\u306e\u5922",
+      "url": "https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi"
+    },
+    {
+      "album": {
         "name": "Inner Ocean",
         "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
@@ -1988,7 +2024,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 208311,
       "name": "\u5e7d\u970a",
       "url": "https://open.spotify.com/track/5aJwduSF9XWNHxBBEImSNc"
@@ -2136,6 +2172,24 @@
       "duration_ms": 412813,
       "name": "\u88c5\u7f6e",
       "url": "https://open.spotify.com/track/3qcFmvkjpqZnB4feONa3Wy"
+    },
+    {
+      "album": {
+        "name": "\u9060\u3056\u304b\u308b\u72ac",
+        "url": "https://open.spotify.com/album/0Lcw3UBEpNKe0XAwOaC5Rd"
+      },
+      "artists": [
+        {
+          "name": "\u6d66\u4e0a\u60f3\u8d77",
+          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259594,
+      "name": "\u9060\u3056\u304b\u308b\u72ac",
+      "url": "https://open.spotify.com/track/1cKHVRusQeLaOAbUjYwQeI"
     },
     {
       "album": {

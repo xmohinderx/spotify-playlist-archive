@@ -246,10 +246,28 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 126730,
       "name": "Borrow",
       "url": "https://open.spotify.com/track/5Fy8z5xuJHsd6Id0DYRxZN"
+    },
+    {
+      "album": {
+        "name": "Can't Explain",
+        "url": "https://open.spotify.com/album/3q3wWQdqqEycnfOowIkiej"
+      },
+      "artists": [
+        {
+          "name": "Daney B",
+          "url": "https://open.spotify.com/artist/6epD1176qeIbTNiB4Tx3dG"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168203,
+      "name": "Can't Explain",
+      "url": "https://open.spotify.com/track/54JJgbC9WjqEEQukBlCJzh"
     },
     {
       "album": {
@@ -1016,6 +1034,28 @@
       "duration_ms": 238889,
       "name": "Mc Mca",
       "url": "https://open.spotify.com/track/0wAgvKKxVwqJghZtNOa4GY"
+    },
+    {
+      "album": {
+        "name": "MOTOWN (feat. BabyTron)",
+        "url": "https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164861,
+      "name": "MOTOWN",
+      "url": "https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ"
     },
     {
       "album": {
@@ -1892,7 +1932,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 162951,
       "name": "W.T.N ?",
       "url": "https://open.spotify.com/track/5pcDfYgjlpoAs9tZvohneD"

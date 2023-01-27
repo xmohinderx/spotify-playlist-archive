@@ -4,7 +4,7 @@
 
 > Sway your way through the evening.
 
-212 songs - 13 hr 0 min
+213 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [Slow Dancing](https://open.spotify.com/track/7FHRcUmD0px839rKIOi5JS) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun \(deluxe\)](https://open.spotify.com/album/0c5zzk0XARH2uDuAEECSzT) | 4:27 | 2022-01-21 | 2022-11-13 |
 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:02 | 2021-10-01 |  |
 | [slow summer](https://open.spotify.com/track/4JEGeqPF0RH7oi1lHdtbK6) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [slow summer](https://open.spotify.com/album/5h57maDhvtnrVnJa7ihR7D) | 2:48 | 2021-10-01 |  |
-| [Solar Flare](https://open.spotify.com/track/0hcHi1RoWCayxRSbq2f3CI) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Solar Flare](https://open.spotify.com/album/7qL5oIG6MPdd2NfgjOmQXp) | 3:22 | 2021-10-01 |  |
+| [Solar Flare](https://open.spotify.com/track/0hcHi1RoWCayxRSbq2f3CI) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Solar Flare](https://open.spotify.com/album/7qL5oIG6MPdd2NfgjOmQXp) | 3:22 | 2021-10-01 | 2023-01-27 |
+| [Solar Flare](https://open.spotify.com/track/7EkeF9ke5wVAerr9z1yVJD) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Solar Flare](https://open.spotify.com/album/4E1zqQHT3Qff7ulKGj6d6t) | 3:22 | 2022-01-21 |  |
 | [Something Simple](https://open.spotify.com/track/4a1HMAk6ABM11NPJvBkkeT) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Something Simple](https://open.spotify.com/album/21Fj4477nfc4wOV6UZjL0u) | 3:50 | 2021-10-01 |  |
 | [Stay](https://open.spotify.com/track/0Ghaex7YilwIGGCVzFeyYm) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/2mkNZarVOH90LJSpG9whzL) | 3:49 | 2022-01-21 |  |
 | [Stay](https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv) | 3:49 | 2021-10-01 | 2022-12-25 |

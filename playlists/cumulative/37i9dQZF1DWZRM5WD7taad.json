@@ -2127,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "Simulaci\u00f3n",
+        "url": "https://open.spotify.com/album/1WYsLijpXeD1aTIb1L0433"
+      },
+      "artists": [
+        {
+          "name": "Astrid Cruz",
+          "url": "https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Simulaci\u00f3n",
+      "url": "https://open.spotify.com/track/0TQq1pjlkRQqesydJ5xbof"
+    },
+    {
+      "album": {
         "name": "Si\u00e9ntelo",
         "url": "https://open.spotify.com/album/5RyjVm7MbDW2wBAj7MZCnk"
       },

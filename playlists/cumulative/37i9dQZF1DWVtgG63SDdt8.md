@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  Katy Nichole
 
-2,434 songs - 6 day 22 hr 12 min
+2,435 songs - 6 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,8 @@
 | [Can I Get An Amen? \- Live](https://open.spotify.com/track/40LrGeDjrYeVQalkobH8jn) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK) | [Can I Get An Amen? \(Live\)](https://open.spotify.com/album/3AyuLV2cV9xwDTFwSmro5Y) | 4:37 | 2022-08-05 | 2022-08-20 |
 | [Can You Hear It \- Live](https://open.spotify.com/track/038mTXvtIXmNKUkdaGbjmr) | [Life Church Music](https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2) | [Can You Hear It \(Live\)](https://open.spotify.com/album/2uBLyrMzhP3IpCJ1hPYHQA) | 3:14 | 2023-01-13 |  |
 | [Can't Lose](https://open.spotify.com/track/7qA50FpI5cdD4WB8JHdUof) | [RIYL](https://open.spotify.com/artist/0b6wDAeyxmC3Xzpl7JaxfB), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Can't Lose](https://open.spotify.com/album/5XxCt6XqhaKtiYgJA5L3Yk) | 2:22 | 2022-02-25 | 2022-03-05 |
-| [Can't Outrisk](https://open.spotify.com/track/18VMJziJvD5yFoH34QXz3P) | [Ocean & The Ghost](https://open.spotify.com/artist/3ytwqUISAunRjhTvQwNTQg), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Ocean & the Ghost](https://open.spotify.com/album/4g3fG36bNtEGgoSlDLmwO5) | 4:26 | 2023-01-20 |  |
+| [Can't Outrisk](https://open.spotify.com/track/18VMJziJvD5yFoH34QXz3P) | [Ocean & The Ghost](https://open.spotify.com/artist/3ytwqUISAunRjhTvQwNTQg), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Ocean & the Ghost](https://open.spotify.com/album/4g3fG36bNtEGgoSlDLmwO5) | 4:26 | 2023-01-20 | 2023-01-27 |
+| [Can't Outrisk](https://open.spotify.com/track/1hIOyTNeJllxzg4uZwQWHc) | [Ocean & The Ghost](https://open.spotify.com/artist/3ytwqUISAunRjhTvQwNTQg), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Ocean & the Ghost](https://open.spotify.com/album/5r3QW4PO4aotA00TEEGgoR) | 4:27 | 2023-01-20 |  |
 | [Can't See It Yet](https://open.spotify.com/track/7pv7vBTHB6awV4SReeYU0j) | [Billy Ballenger](https://open.spotify.com/artist/3MWi1gukTtaCmUQyvjSmIN) | [Can't See It Yet](https://open.spotify.com/album/13Yp7JyCKvaPSFqB6V9EKV) | 4:11 | 2022-06-03 | 2022-06-11 |
 | [Can't Stop My Heart From Singing](https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek) | [Mountaintops](https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW), [Beau and Mercy Perkins](https://open.spotify.com/artist/2aj3O6Rf4Kwm3AvAkVrIuE) | [Can't Stop My Heart From Singing](https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG) | 3:54 | 2022-07-01 | 2022-07-09 |
 | [Cantarei \(Meu Salvador\) / Risen Savior \(Sing My Soul\)](https://open.spotify.com/track/2drrh4wKrCrZfTqn3SRKaZ) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ), [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Cantarei \(Meu Salvador\) / Risen Savior \(Sing My Soul\)](https://open.spotify.com/album/1YnzLpr6pmmOTuMyZuxrcu) | 9:14 | 2022-09-30 | 2022-10-15 |

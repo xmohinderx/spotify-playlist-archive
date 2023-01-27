@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Niall Horan
 
-372 songs - 21 hr 23 min
+373 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,8 @@
 | [That's Just The Way It Is \(Changes\)](https://open.spotify.com/track/7b2ZGVLH01Cw4MU9LuSGDq) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [That's Just The Way It Is \(Changes\)](https://open.spotify.com/album/1SCIK63b2bCbC5yhcyKmV6) | 2:46 | 2021-12-17 | 2022-05-02 |
 | [the 1 \(acoustic\)](https://open.spotify.com/track/2L1rmY3reJAgy0SbGnJWL2) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [the 1 \(acoustic\)](https://open.spotify.com/album/0a4DaF6bmBrrJrMg7rtG5u) | 3:00 | 2021-12-17 | 2022-10-29 |
 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 | 2021-12-17 |  |
-| [The Middle](https://open.spotify.com/track/5eutF3oggNdbWix4qCvHne) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [The Middle](https://open.spotify.com/album/1sYANjZE2z9Ta9Ag56LFpv) | 3:12 | 2022-01-21 |  |
+| [The Middle](https://open.spotify.com/track/0QkZwn3aLQDSqZ130CxvEe) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [The Middle](https://open.spotify.com/album/2ePzBY8wNV0LsUx5GM6Z44) | 3:12 | 2023-01-12 |  |
+| [The Middle](https://open.spotify.com/track/5eutF3oggNdbWix4qCvHne) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [The Middle](https://open.spotify.com/album/1sYANjZE2z9Ta9Ag56LFpv) | 3:12 | 2022-01-21 | 2023-01-27 |
 | [the older you get, the less you cry \- acoustic version](https://open.spotify.com/track/2dC4Ptc2agZA07tw4yr495) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [the older you get, the less you cry \(acoustic version\)](https://open.spotify.com/album/2Sk04lsMRrG8Wl8atdgj3R) | 3:18 | 2021-12-24 | 2022-01-22 |
 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5v4Yr3jEypWwq139f92zoP) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52) | [The One That Got Away \(Acoustic\)](https://open.spotify.com/album/7HktipfMyjwIXMRCy5mCd3) | 3:37 | 2022-01-21 | 2022-12-30 |
 | [The Only Exception](https://open.spotify.com/track/6E1RZSFubdubakeTubBwtq) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [The Only Exception](https://open.spotify.com/album/25Gq8GQj2uYdWWRwfvuqbW) | 3:52 | 2021-12-17 |  |

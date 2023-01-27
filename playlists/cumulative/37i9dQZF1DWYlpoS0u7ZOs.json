@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Get to know the new wave of rock. Cover: SNAYX",
-  "name": "Shockwave",
+  "description": "Get to know the new wave of rock. Cover: Superlove",
+  "name": "shockwave",
   "tracks": [
     {
       "album": {
@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "GO!",
+        "url": "https://open.spotify.com/album/6QxSkWL0OqrjfJFtlVX9Dx"
+      },
+      "artists": [
+        {
+          "name": "Superlove",
+          "url": "https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180088,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/7AHYD0DNFagANAVo4mxFGC"
+    },
+    {
+      "album": {
         "name": "good boys remember well",
         "url": "https://open.spotify.com/album/1m7ZzHsSp6EqucLAt57O3S"
       },
@@ -347,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Great Grief / Atone",
+        "url": "https://open.spotify.com/album/5Co6smDpKCGRKiBnQ17Acc"
+      },
+      "artists": [
+        {
+          "name": "Casey",
+          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Great Grief",
+      "url": "https://open.spotify.com/track/0mzrTxRfEN2jjP9CCHVY5A"
+    },
+    {
+      "album": {
         "name": "Great Grief",
         "url": "https://open.spotify.com/album/06tHEFc4lfNhfJaZLEYHD0"
       },
@@ -358,7 +394,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-27",
       "duration_ms": 251000,
       "name": "Great Grief",
       "url": "https://open.spotify.com/track/56gsIFy0ZHmmD9aP8oyW8Y"
@@ -686,6 +722,24 @@
       "duration_ms": 173936,
       "name": "Love Rush",
       "url": "https://open.spotify.com/track/41BpMpEPf3oo81DUoGfw32"
+    },
+    {
+      "album": {
+        "name": "Lovedrunk",
+        "url": "https://open.spotify.com/album/5ubYQGukF6N0djNxage429"
+      },
+      "artists": [
+        {
+          "name": "The White Lakes",
+          "url": "https://open.spotify.com/artist/0NfxIPLSHdoCWNMXbLjehq"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240744,
+      "name": "Lovedrunk",
+      "url": "https://open.spotify.com/track/0oNTXmnhv5NFSScucHbki8"
     },
     {
       "album": {
@@ -1356,6 +1410,64 @@
       "duration_ms": 257000,
       "name": "Wonderview Avenue",
       "url": "https://open.spotify.com/track/4gatVa46M1UTnwTdKaqJRu"
+    },
+    {
+      "album": {
+        "name": "Worthless",
+        "url": "https://open.spotify.com/album/7xk6a6J8D1lAkbLkPg3WBQ"
+      },
+      "artists": [
+        {
+          "name": "Artio",
+          "url": "https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Worthless",
+      "url": "https://open.spotify.com/track/7krNN0KhqMixmg6WtW7bJq"
+    },
+    {
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/3YNhAijuyRViQoHGFNVDyC"
+      },
+      "artists": [
+        {
+          "name": "KIDS",
+          "url": "https://open.spotify.com/artist/1KuaHyOmy7OyS3BO6u055P"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159111,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/2WtIhJpUy1p0t1dg6Tq8bZ"
+    },
+    {
+      "album": {
+        "name": "You I Think Of",
+        "url": "https://open.spotify.com/album/75ddHN5bdFva5O7EyeaRZ1"
+      },
+      "artists": [
+        {
+          "name": "Levi Evans",
+          "url": "https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX"
+        },
+        {
+          "name": "CHAMELEON",
+          "url": "https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188706,
+      "name": "You I Think Of",
+      "url": "https://open.spotify.com/track/7tkugKckqls8hBzYWpjyBp"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYlpoS0u7ZOs"

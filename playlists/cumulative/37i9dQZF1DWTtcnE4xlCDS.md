@@ -4,7 +4,7 @@
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-107 songs - 6 hr 44 min
+108 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Petrichor Wo Watatte Prod\. Aiobahn](https://open.spotify.com/track/2jVIHedC4DqIApC2NWNCNt) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5) | [Petrichor Wo Watatte Prod\. Aiobahn](https://open.spotify.com/album/6BFgYdI4Piiez8XWPaDipP) | 4:02 | 2022-10-13 | 2022-11-13 |
 | [Platinum White](https://open.spotify.com/track/2A4lO6hSjSznM03D4WIsnl) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [白金 煌 \(CV: 小宮有紗\)](https://open.spotify.com/artist/2xJeAewClnCHglceTI3gIw) | [Platinum White](https://open.spotify.com/album/155Z9tcdBwlpYj3IiEjbsX) | 6:03 | 2022-08-24 |  |
 | [pop enemy](https://open.spotify.com/track/1M6yK92r4sN3A50o53PNtX) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Shinpei Nasuno](https://open.spotify.com/artist/5PR2yqnZM0wldX5hvDKtSO), [日高零奈\(CV:蔀 祐佳\)](https://open.spotify.com/artist/2T5vYihahEyo8aNKP2JXOz), [東雲和音\(CV:天音みほ\)](https://open.spotify.com/artist/66nXwB0bML5ETI8cGQxoNr), [茅野ふたば\(CV:堀越せな\)](https://open.spotify.com/artist/5TuaJT25cXZwLgj8Z5znIz) | [pop enemy](https://open.spotify.com/album/2BddqBb6t1Vcuv8x9bn7jk) | 3:48 | 2022-08-24 |  |
+| [Prayer](https://open.spotify.com/track/0e3J9w5XeUq7zLICM7VKjY) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [犬吠埼紫杏 \(CV: 長谷川玲奈\)](https://open.spotify.com/artist/0JqX5C4CiNps3qRGvlMLcf) | [Prayer](https://open.spotify.com/album/4RkyRGUSz9b3Biwl0fNjZB) | 3:58 | 2023-01-26 |  |
 | [PRECIOUS NIGHT](https://open.spotify.com/track/70E8iQmFwLKzYDdaGlyyrO) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [ハレトキドキ](https://open.spotify.com/artist/6nU3k3VQREJ4fiUafZzmwH), [黒鉄たま \(CV: 秋奈\)](https://open.spotify.com/artist/0JQ292eFZdsbZbYUfNWpph) | [PRECIOUS NIGHT](https://open.spotify.com/album/7tIumwmVAVf6PilLZ1s7sX) | 4:32 | 2022-12-08 |  |
 | [Princess Memeism](https://open.spotify.com/track/1rLB3WgbThVEA1OFx20ciE) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk) | [DENONBU BEST ALBUM \-season.0\-](https://open.spotify.com/album/5y2plpAX8NtK3q1Klatast) | 3:26 | 2022-08-24 |  |
 | [REIGN](https://open.spotify.com/track/2vpTEOs2PdL8Tx0IjTK3C6) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5), [大賀ルキア \(CV: 星川サラ\)](https://open.spotify.com/artist/3IFOQg0N8gQooK5duWNRq4), [AZK](https://open.spotify.com/artist/2sLu25h7FN3IoNikCXI6Py), [Toki](https://open.spotify.com/artist/4IzocsmuSeLgAfPWf0EkwH) | [REIGN](https://open.spotify.com/album/3DeKeE8hyDJ9zEcaY9uAVS) | 4:27 | 2022-08-24 |  |

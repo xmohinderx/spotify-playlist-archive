@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Dino Gala \| Visual Artist: Bailey Elder
 
-390 songs - 23 hr 47 min
+391 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,8 @@
 | [These Things](https://open.spotify.com/track/3JOgtCIX1mBxwPe4rNPHCD) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 2:59 | 2022-11-30 | 2023-01-12 |
 | [This Body of Mine](https://open.spotify.com/track/0Eem9ujZYyGOG4J2W2LH5w) | [Franci](https://open.spotify.com/artist/0xzqAXgBTxPtPrKbMZEzjG) | [This Body of Mine](https://open.spotify.com/album/3jCfqpYEjxznVBcPaF5TF5) | 2:14 | 2023-01-18 |  |
 | [This One](https://open.spotify.com/track/4fSiniHj00kpr1ZCFsUUYe) | [M Ross Perkins](https://open.spotify.com/artist/4zo4TmNq5dxoBOCJLzkjtF) | [E Pluribus M Ross](https://open.spotify.com/album/2moDxyCYDwhyhmbiYepitc) | 4:15 | 2022-05-25 | 2022-08-04 |
-| [Three Wishes](https://open.spotify.com/track/7cv3C3t5PGab3huajFJuur) | [TIM](https://open.spotify.com/artist/2M5EHGvCaKGs1Ntyhl0swn) | [Three Wishes](https://open.spotify.com/album/6GbUNuoi4JwDrkBxCm5tWn) | 2:49 | 2023-01-18 |  |
+| [Three Wishes](https://open.spotify.com/track/7cv3C3t5PGab3huajFJuur) | [TIM](https://open.spotify.com/artist/2M5EHGvCaKGs1Ntyhl0swn) | [Three Wishes](https://open.spotify.com/album/6GbUNuoi4JwDrkBxCm5tWn) | 2:49 | 2023-01-18 | 2023-01-27 |
+| [Three Wishes](https://open.spotify.com/track/36Y8jaDhOo0dFiKhmmYS9P) | [Tim Hause](https://open.spotify.com/artist/6eXOOvKAb0K5ef3Snypauc) | [TIM](https://open.spotify.com/album/1CiHHACQMcEGLdIc3NbK2a) | 2:49 | 2023-01-25 |  |
 | [TLC Cagematch](https://open.spotify.com/track/0CHcpZYNvl8dWVcCvlAtxN) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [TLC Cagematch](https://open.spotify.com/album/1CrJt9bDnR6uqLgVL5fuJ9) | 3:52 | 2022-05-25 | 2022-08-11 |
 | [Travelling Clothes](https://open.spotify.com/track/5dKO0VRCqIxA4HZUYe92wg) | [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Travelling Clothes](https://open.spotify.com/album/1UeGD7d7oGQJKe5drDB3Bh) | 3:12 | 2022-11-09 | 2022-12-01 |
 | [Trying To Get Home \(when you're under the influence\)](https://open.spotify.com/track/1O81oFIbvVy7xVPtx317TB) | [Samantha McKaige](https://open.spotify.com/artist/12dxi4TKBNa3LmxLWDNA3r) | [After You Left Me](https://open.spotify.com/album/1J5dR2A0lw5lC1khx9a5u9) | 3:49 | 2022-11-09 | 2022-12-01 |

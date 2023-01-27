@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist \- cover featuring  <a href="https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ">INZO </a>.
 
-641 songs - 1 day 10 hr 49 min
+642 songs - 1 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Angels Landing](https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [Angels Landing](https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn) | 3:53 | 2022-09-02 | 2022-11-24 |
 | [Angst](https://open.spotify.com/track/3NivHilTTTs8SQwp51yG0X) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Angst](https://open.spotify.com/album/34yT8o727Ynu63TeOVZcIY) | 3:22 | 2022-01-14 | 2022-09-15 |
 | [Angst](https://open.spotify.com/track/501czsZhsXGZKJXB6Qxq1t) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Angst](https://open.spotify.com/album/3t5YVwlN9sBZO8U6RNYUmY) | 3:22 | 2022-12-02 |  |
+| [Anima](https://open.spotify.com/track/2QRPw7J5OBRoToWXhWpFwt) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Shadow Wanderer](https://open.spotify.com/artist/5BjPPrn52L6Mq0OY2Jsqd6) | [Anima](https://open.spotify.com/album/1wCC2fkdshGlb53pDC9m23) | 3:40 | 2023-01-26 |  |
 | [Another Level](https://open.spotify.com/track/6QgMM1Y9w6PsSTRUWc97b5) | [Stereotype](https://open.spotify.com/artist/0binTLIlGbXSMuzhRykbRq), [Bad Luck Boy](https://open.spotify.com/artist/2OrJJy9wTNBkOfS5hCwTSk) | [NOWHERE](https://open.spotify.com/album/2Umgb5V6u7umS1BMXq4UXQ) | 2:55 | 2022-01-14 | 2022-02-17 |
 | [Another Way](https://open.spotify.com/track/6sm1OQ89659UUpGctNTXvv) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Another Way](https://open.spotify.com/album/2k8sl8eCdvZGmLT2udUJLe) | 4:51 | 2022-10-07 | 2022-11-11 |
 | [Anthem](https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Anthem](https://open.spotify.com/album/1daFOzo9pAJi0nDoR03roY) | 2:15 | 2022-01-14 | 2022-03-05 |

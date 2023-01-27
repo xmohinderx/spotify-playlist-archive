@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-608 songs - 1 day 10 hr 54 min
+609 songs - 1 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [ANSWER](https://open.spotify.com/track/4tVdEeAPlAwFiGmONQ5hzR) | [フレデリック×須田景凪](https://open.spotify.com/artist/6eSGajYonAUblKtPGKTj1S), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW), [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ANSWER](https://open.spotify.com/album/37gEuZYvOKOSwXQslCOecY) | 3:42 | 2022-06-23 | 2022-07-17 |
 | [Anti\-Love Club \(tentative\) \(feat\. sakana\)](https://open.spotify.com/track/1P0F7HRKeHLPmOM2WKDBI7) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [sakana](https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9) | [Anti\-Love Club \(tentative\) \(feat\. sakana\)](https://open.spotify.com/album/0GZLa2ceAPzh3Xnl4307Q5) | 2:52 | 2022-09-20 | 2022-09-28 |
 | [Anti\-Love Club \(tentative\) REMIX \(feat\. sakana\)](https://open.spotify.com/track/1BJkswUzqciMiHbMC4Wbhm) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [sakana](https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9) | [Anti\-Love Club \(tentative\) REMIX \(feat\. sakana\)](https://open.spotify.com/album/48DoKisq4sGOtKMf2vlPc7) | 3:01 | 2022-10-04 | 2022-10-12 |
+| [ANTIHERO](https://open.spotify.com/track/3tf7tPUTdNHML02jErRhrd) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [ANTIHERO](https://open.spotify.com/album/6kCdfNHQz0crpB0xZ0XP7n) | 2:44 | 2023-01-26 |  |
 | [Antithesis Kisama \-kai\-](https://open.spotify.com/track/0OmfaGcA7apk49uVlzmWwC) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Antithesis Kisama \-kai\-](https://open.spotify.com/album/7Fe8AR257yKmXZfM7osje4) | 3:13 | 2022-09-27 | 2022-10-05 |
 | [Aoiharu](https://open.spotify.com/track/3VSNqUnc1KhmPmlZXsbN40) | [Misekai](https://open.spotify.com/artist/3D3rPrHQXf7RGhWPNtVNHk) | [Aoiharu](https://open.spotify.com/album/3iKkkzM6MXkAYSvYLWTVxN) | 2:58 | 2022-09-20 | 2022-10-05 |
 | [Aoku Aoku Hikaru feat\. ACANE, nulut](https://open.spotify.com/track/0UGnaxImsUffoaSkND3ueq) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [ACANE](https://open.spotify.com/artist/57G0EZUE9b480atssSdR9D), [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [ULTRAPANIC](https://open.spotify.com/album/6AZiQVTRwnR9UQmUfmMIJz) | 3:47 | 2022-12-06 | 2023-01-06 |
@@ -138,7 +139,7 @@
 | [Overcast Skies](https://open.spotify.com/track/6IFs3VTvLLiQict4tAt7Ct) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Overcast Skies](https://open.spotify.com/album/4SqUTGadZjUKgnYtFrPFkH) | 2:42 | 2022-09-27 | 2022-10-05 |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2022-09-15 |  |
 | [oxygen](https://open.spotify.com/track/1RYbwTKMI4JR86drI4IDIt) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [oxygen](https://open.spotify.com/album/7n5DPNlVjeFaFkTNJyro7o) | 2:48 | 2022-06-21 | 2022-06-29 |
-| [Oz.](https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz.](https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ) | 3:14 | 2022-06-09 |  |
+| [Oz.](https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz.](https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ) | 3:14 | 2022-06-09 | 2023-01-27 |
 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 | 2022-06-13 | 2022-12-27 |
 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 | 2022-07-28 | 2022-12-13 |
 | [Paradise Lost](https://open.spotify.com/track/6pdi51BIJZMFolAjocMeFd) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Paradise Lost](https://open.spotify.com/album/0vnIfdckK1V6rAbhZDlHvp) | 3:35 | 2022-10-13 | 2022-10-19 |
@@ -189,7 +190,7 @@
 | [Untouchable](https://open.spotify.com/track/060Xp31LRG4Ob8yy700GMG) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Untouchable](https://open.spotify.com/album/1UDryR2OAvsKnKmD15Nfcv) | 3:15 | 2022-06-28 | 2022-07-08 |
 | [Villain](https://open.spotify.com/track/1fQMilh0Zj2cPUjvBpVmWm) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [Villain](https://open.spotify.com/album/6DpOA8kkxXT7a2HgXPrzHH) | 4:03 | 2022-07-12 | 2022-07-27 |
 | [Virtual Castle](https://open.spotify.com/track/2iz30S6Pm83GnazDzniSYR) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [Virtual Castle](https://open.spotify.com/album/6hs0jB18KMTOQ3P7OcNb3T) | 3:36 | 2022-06-21 | 2022-07-27 |
-| [Virtualistic Summer](https://open.spotify.com/track/3Z2MCc9s2fDxNYqvhOKqXk) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [Virtualistic Summer](https://open.spotify.com/album/3CjZiAFiGUvZWI0ZhWQ2Ew) | 4:20 | 2023-01-17 |  |
+| [Virtualistic Summer](https://open.spotify.com/track/3Z2MCc9s2fDxNYqvhOKqXk) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [Virtualistic Summer](https://open.spotify.com/album/3CjZiAFiGUvZWI0ZhWQ2Ew) | 4:20 | 2023-01-17 | 2023-01-27 |
 | [Virtualistic Summer](https://open.spotify.com/track/75hbXnneq2ySdPKWT32m2x) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [Virtualistic Summer](https://open.spotify.com/album/5bROdBeD24ujgnbbZTAQ93) | 4:20 | 2023-01-17 | 2023-01-19 |
 | [Volcano](https://open.spotify.com/track/20KIYq6fCX39NvcZeIFr7o) | [獅子志司](https://open.spotify.com/artist/6WuH4EcRO2y8v6z3lVsA4v) | [Volcano](https://open.spotify.com/album/2EAlgzQTAd35KDAZuhN8cD) | 2:38 | 2022-10-04 | 2022-10-19 |
 | [Wanted, Wasted](https://open.spotify.com/track/7aDrJbO2oxuEKG9HMehSON) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [SINDERELLA](https://open.spotify.com/album/4rDKCCOutbqoVQhNzQYJdD) | 3:03 | 2022-12-15 |  |
@@ -518,7 +519,7 @@
 | [漂泊者](https://open.spotify.com/track/5eisYTV3P9IltJsKBuHasM) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [Hypnotize](https://open.spotify.com/album/4ZN7YVrRO7uGeAchbVMmBm) | 3:42 | 2022-08-25 | 2022-08-31 |
 | [火焔](https://open.spotify.com/track/1DKR0lI9ACwoqAkQbDR5aP) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [自白](https://open.spotify.com/album/6vIxDmZrN7tYrp3BtgyRGl) | 2:58 | 2022-06-23 | 2022-07-26 |
 | [灯りと夜明け](https://open.spotify.com/track/2j8I0EJUie6CJoOGqWHhee) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [灯りと夜明け](https://open.spotify.com/album/7xCaP7Q8VIGDPdccQ73VQ1) | 3:16 | 2022-06-28 | 2022-06-30 |
-| [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI) | 3:48 | 2023-01-05 | 2023-01-18 |
+| [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/track/2gAWJTuZ7W4MBzGX1E7pH7) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [灼熱にて純情\(wii\-wii\-woo\)](https://open.spotify.com/album/3DP29QEp7AtJJJsGgne8HI) | 3:48 | 2023-01-05 |  |
 | [無垢](https://open.spotify.com/track/2dPZBWfkcz98Dc8d5YzVog) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [無垢](https://open.spotify.com/album/5JcP6jHvvl5Bv0rB51lNZN) | 3:44 | 2022-06-13 | 2022-07-28 |
 | [無為を抱く](https://open.spotify.com/track/2f1O9xNSk8p6Tyj28Ky0d2) | [遼遼](https://open.spotify.com/artist/2fPF5WFB2T6upW7xgTJpTb) | [無為を抱く](https://open.spotify.com/album/1lLPNuhwezJ793o2vboFoC) | 5:48 | 2022-08-25 | 2022-09-15 |
 | [煙](https://open.spotify.com/track/2Ii4k2hGZjmp4DfrRE0Shu) | [matsudamiki](https://open.spotify.com/artist/6RNWjXFIgFxkyqzx4xf9xk) | [DAWN](https://open.spotify.com/album/75SSJrLRG75MzG8xsMJ9VS) | 3:19 | 2022-06-14 | 2022-06-17 |

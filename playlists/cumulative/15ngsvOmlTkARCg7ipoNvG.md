@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-861 songs - 20 hr 8 min
+862 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Doves](https://open.spotify.com/track/1V1XmnRJBDg0zX88ZqLHRG) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:53 | 2022-01-12 |  |
 | [Dreaming In Color](https://open.spotify.com/track/2iu4AUVDOtM0We0x66fEs3) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Atmospheric Strings](https://open.spotify.com/album/5QVVcAmb2omYcc4V93rtjY) | 1:02 | 2022-03-11 |  |
 | [Dreaming In Color \- Cello And Harp Version](https://open.spotify.com/track/1OA77iYgYO0Hpqht3W85nc) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Dreaming In Color \(Cello And Harp Version\)](https://open.spotify.com/album/26gkUOsCf5fypbRgZqbGGB) | 1:00 | 2023-01-25 |  |
+| [Dreaming In Color \- Violin And Harp Version](https://open.spotify.com/track/7nExqrT9Kqc8KletVfypp2) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Dreaming In Color \(Violin And Harp Version\)](https://open.spotify.com/album/0UDytjSXS0d5VGcW3AvnSy) | 1:01 | 2023-01-26 |  |
 | [Dreaming Of Spring](https://open.spotify.com/track/1f7tweDAoR2CYvHSiC6Guq) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Wishful](https://open.spotify.com/album/4jicqkJQwogoGfVMKcMU5l) | 1:02 | 2022-01-14 |  |
 | [Dreams Of Hope](https://open.spotify.com/track/1Z42wNHEyLHfJBfjP2PvtT) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Gentle Flow](https://open.spotify.com/album/2xnFA2PQopVi0ZGeOi9g9I) | 1:02 | 2022-05-25 |  |
 | [Drift Away](https://open.spotify.com/track/14coKZQjm8tPbisRbE2UOq) | [A Slower Tempo](https://open.spotify.com/artist/6OixRRPHDKFH9nFQd6xJOs) | [A Slower Tempo](https://open.spotify.com/album/5t3YgMenuyoRN20YFtlJ6H) | 2:43 | 2022-01-12 |  |

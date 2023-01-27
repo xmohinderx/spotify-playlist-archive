@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,947 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,941 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 51 | [Walk On Water](https://open.spotify.com/track/1gb1bIRb1iNuJRnZB2XxS5) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Kat Nestel](https://open.spotify.com/artist/2S5DXnDpQlpDXFUcvqAb4E) | [Walk On Water](https://open.spotify.com/album/5KeZpqMjrFxCoba637xQEh) | 3:32 |
 | 52 | [Woosh](https://open.spotify.com/track/1yjxDosub6RIHotGYZBWuR) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [ZayZay](https://open.spotify.com/album/7x3LCLU2w00wLSHOUbTcRB) | 2:57 |
 | 53 | [G\-code](https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Cash Out](https://open.spotify.com/album/0IylneHtusMBsWufSs54aE) | 2:51 |
-| 54 | [Sexy](https://open.spotify.com/track/7rB1GMCXdmSvPTgzPAjJtz) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Kosha Dillz](https://open.spotify.com/artist/64ea3gojfUUFJSJiyZbVK7) | [Sexy](https://open.spotify.com/album/7cnjwAHHRlwL1QZGv25an6) | 2:46 |
+| 54 | [Chains \(with Project 46\)](https://open.spotify.com/track/7IcfnHpe6bvwdUmBIFpKSU) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Chains \(with Project 46\)](https://open.spotify.com/album/6kkx5LkX5fb4C1Jr3Vo6iO) | 3:43 |
 | 55 | [Wrong About You](https://open.spotify.com/track/6ApMOK4YBFt2eIo4YSAFDO) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Wrong About You](https://open.spotify.com/album/42hc0SqJxcG4nxepWi6pfq) | 3:15 |
 | 56 | [Wait For Me \(feat\. Goody Grace & Tory Lanez\)](https://open.spotify.com/track/7oEll6CiWAejF2oFXH4j9e) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Wait For Me \(feat\. Goody Grace & Tory Lanez\)](https://open.spotify.com/album/5am29BcW1mSfkZkH0pG9t3) | 2:41 |
 | 57 | [Dans la peau \(Anxiety\)](https://open.spotify.com/track/4thpnFUoYU4QYeQuhANS1j) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Dans la peau \(Anxiety\)](https://open.spotify.com/album/6exA47nOA3FEkMkiwZCFSq) | 3:03 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 60 | [P6](https://open.spotify.com/track/3jVJeAslQXRX5FEnOu0NEP) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [P6](https://open.spotify.com/album/3w6GFeovX4Maso1xtfWFRv) | 3:38 |
 | 61 | [Kankan](https://open.spotify.com/track/1PZpmt3Hlih8ZSi0L7lKb3) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [VNCE CARTER](https://open.spotify.com/artist/11zy6I3LeMtIrIztaTl5rO) | [La Zayté](https://open.spotify.com/album/58camSsA9OmW7xvRGZcxy4) | 3:07 |
 | 62 | [Sweat](https://open.spotify.com/track/0drXYOymxrIl2lzhVnsiMH) | [DJ Assad](https://open.spotify.com/artist/1PpMfsOyfZ3nmcSoiIohpC), [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Sweat](https://open.spotify.com/album/0r5iMvc6l6oJDyHgQLMxaT) | 3:24 |
-| 63 | [Chains \(with Project 46\)](https://open.spotify.com/track/7IcfnHpe6bvwdUmBIFpKSU) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Chains \(with Project 46\)](https://open.spotify.com/album/6kkx5LkX5fb4C1Jr3Vo6iO) | 3:43 |
+| 63 | [Sexy](https://open.spotify.com/track/7rB1GMCXdmSvPTgzPAjJtz) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Kosha Dillz](https://open.spotify.com/artist/64ea3gojfUUFJSJiyZbVK7) | [Sexy](https://open.spotify.com/album/7cnjwAHHRlwL1QZGv25an6) | 2:46 |
 | 64 | [Higher](https://open.spotify.com/track/02rpa9omMkxHb1wrA5dNyR) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY) | [Higher](https://open.spotify.com/album/4vsPp7l8q37wmtnSAJkfmb) | 2:22 |
 | 65 | [Fantasy](https://open.spotify.com/track/6O7c7tf1FQsrb3gjJX3oZk) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Vannah](https://open.spotify.com/artist/4jwv3a7juNAOTSjZrkuz0P) | [Fantasy](https://open.spotify.com/album/5gcFASqSTMjuLNhcrrcs5L) | 3:20 |
 | 66 | [Le monde est à nous](https://open.spotify.com/track/4QYpXezeMH6SkpIqT8nFM2) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Le monde est à nous](https://open.spotify.com/album/2GO68pEg33eudiyr8GuxH6) | 3:12 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 72 | [Girl Code](https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh) | [Mikalya](https://open.spotify.com/artist/7jv66bdVdkdIlPvEizxV1f), [Odreii](https://open.spotify.com/artist/7an95q1yJtdFUi57D6Emrn), [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Girl Code](https://open.spotify.com/album/5uB4Q0FuEmGPweQ1pT83nr) | 2:23 |
 | 73 | [Faire la fête](https://open.spotify.com/track/3IgiHFixYUbhXSWpEWlW0D) | [Jacobus](https://open.spotify.com/artist/1nNrgL7FuM2jY8DI5GdyZ7), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Faire la fête](https://open.spotify.com/album/1auuOciKDCZF7BVNXLRugS) | 3:19 |
 | 74 | [L’orage](https://open.spotify.com/track/3t65ml1XmFNg4OmFr7v2ps) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [L'orage](https://open.spotify.com/album/28WSPAryhYDtCL8526dp2j) | 3:14 |
-| 75 | [Première ministre](https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Première ministre](https://open.spotify.com/album/12ROayPFNHCQowWjJvdr6Q) | 2:45 |
+| 75 | [Oser aimer \- Dave Audé Pride Remix](https://open.spotify.com/track/38S02R6YsFzcinhk74QLyh) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Oser aimer \(Dave Audé Pride Remix\)](https://open.spotify.com/album/1m6POTZfzOnPRD6L7KLy6K) | 6:09 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDY3YzlmNGUwODg0ZDcyMmNiY2QwNWNlOGJiNmFmMjBh`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMGVjNzE4NWI3MTJlYTYxZGM3ODI3NjIwZjM5NTVhMTEx`
