@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,442 likes - 236 songs - 12 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,958 likes - 236 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 | 121 | [Pink Steady Flowing Noise](https://open.spotify.com/track/5ZvyTGWWdNdXF6lnhpWGQp) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Pink Noise Sounds for Focus and Relaxation](https://open.spotify.com/album/1f6H56oC6fIHVMlJ1SnHRT) | 2:52 |
 | 122 | [Pinksomnia](https://open.spotify.com/track/2DxIUzwqnZA4JEfJJrKcvH) | [Panoramia](https://open.spotify.com/artist/7j68r0RRJ2pdn6lh6Xhxn9) | [Pinksomnia](https://open.spotify.com/album/5ogQBNAiBaVC2zNRgDgdL4) | 3:15 |
 | 123 | [Mellow Pink Noise](https://open.spotify.com/track/6YLBN7n0S1XNSsOW7BIXvr) | [Static Harmony](https://open.spotify.com/artist/18D9GiQa6S4cFsu6ntLy3N) | [Pink Waves](https://open.spotify.com/album/7yK8nCQfMmQ2q43zjATosa) | 2:55 |
-| 124 | [Pink Noise for the Mind](https://open.spotify.com/track/6buETKVKKfBlCDE8Nov0SO) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Pink Noise for the Mind](https://open.spotify.com/album/3obQ62KjC0sPlbRl1tCh2V) | 3:12 |
+| 124 | [Pink Noise for the Mind](https://open.spotify.com/track/6buETKVKKfBlCDE8Nov0SO) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Pink Noise for the Mind](https://open.spotify.com/album/3obQ62KjC0sPlbRl1tCh2V) | 3:12 |
 | 125 | [Peaceful Pink](https://open.spotify.com/track/1KGox4fYCoM7YwVng8fuqK) | [Zendium](https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV) | [Pink Haze](https://open.spotify.com/album/5oGOYT98EUpoINrGHPh5pG) | 3:13 |
 | 126 | [Waves Of Pink](https://open.spotify.com/track/1ewjGcOHVpjLr2P74Lv3wE) | [Astromatic](https://open.spotify.com/artist/4ivxZDv4eSnS5Cvjp6Yl61) | [Waves Of Pink](https://open.spotify.com/album/26R5ylVnPeOU0Z3TDuRZ95) | 3:09 |
 | 127 | [Pink Sonos](https://open.spotify.com/track/1jEhXzSSIMjzrlFjWBYlNV) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Pink Stellar](https://open.spotify.com/album/7BTSIrVrwjP4T9HOFbw2Ym) | 2:52 |
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 | 154 | [Pink Noise 4](https://open.spotify.com/track/2UIlaLTq5A214V7f4zz458) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Pink Noise Stimulus](https://open.spotify.com/album/2cjw0tyRT0ZVhzkNJtwTp4) | 2:30 |
 | 155 | [Pink Noise 9](https://open.spotify.com/track/3Z2kra513cPg8pcIxEtwF2) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [Pink Noise Stimulus](https://open.spotify.com/album/2cjw0tyRT0ZVhzkNJtwTp4) | 2:25 |
 | 156 | [500 Hz Filtered Loop](https://open.spotify.com/track/1Tg6UegfRNOt4WEdlVwehu) | [Ecstatix](https://open.spotify.com/artist/4Z2EaSwZpqDleK7b7qYSvx) | [Pink Vibe](https://open.spotify.com/album/4uTMcl47GxYwjOeMHqdEaI) | 3:20 |
-| 157 | [Candy Sky \(Pink Noise\)](https://open.spotify.com/track/4ZyEceyE8ra9qwM3B8wzEn) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Pink Noise for the Mind](https://open.spotify.com/album/3obQ62KjC0sPlbRl1tCh2V) | 3:12 |
+| 157 | [Candy Sky \(Pink Noise\)](https://open.spotify.com/track/4ZyEceyE8ra9qwM3B8wzEn) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Pink Noise for the Mind](https://open.spotify.com/album/3obQ62KjC0sPlbRl1tCh2V) | 3:12 |
 | 158 | [Pink Noise Snooze](https://open.spotify.com/track/50hS0dWV7RBfxwbF4kJARb) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Pink Sleep Noise](https://open.spotify.com/album/1xcAIZNUlN7xvUnb5v4cht) | 1:59 |
 | 159 | [Pink Noise Underwater](https://open.spotify.com/track/7fW6XPctm8135TwAdpiEPY) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Pink Noise \- Find your inner peace](https://open.spotify.com/album/3kc8lPIS29Kk95PyjXIZTh) | 2:27 |
 | 160 | [Pink Noise Baby](https://open.spotify.com/track/3MI108wJFsEDisc5niohYO) | [The BD Noise Maker](https://open.spotify.com/artist/5WPKIg5kP6Ov7DrSGCqj2H) | [Ambient Pink Noise](https://open.spotify.com/album/44ENOthyvj5V5GGLIdGsWx) | 2:08 |

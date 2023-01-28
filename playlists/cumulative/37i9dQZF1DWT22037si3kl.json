@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: MD Chefe, BIN",
+  "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Oruam, Borges, Chefin",
   "name": "O Drip",
   "tracks": [
     {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 176814,
       "name": "Abusad\u00e3o",
       "url": "https://open.spotify.com/track/63jalJVpyyGPYvDuTEaFi9"
@@ -356,6 +356,24 @@
       "duration_ms": 168764,
       "name": "Black Money",
       "url": "https://open.spotify.com/track/2wacfAitU4g6zbwQoeszk4"
+    },
+    {
+      "album": {
+        "name": "BMW Vermelha",
+        "url": "https://open.spotify.com/album/1ftu93zHnHFH1EZEKcgzoG"
+      },
+      "artists": [
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142930,
+      "name": "BMW Vermelha",
+      "url": "https://open.spotify.com/track/5O8DTy7Av0gZJNInrxCBa1"
     },
     {
       "album": {
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 136889,
       "name": "G19",
       "url": "https://open.spotify.com/track/7leBjfWI2ofnMeEWLqVSer"
@@ -1350,6 +1368,36 @@
       "duration_ms": 198620,
       "name": "Grife",
       "url": "https://open.spotify.com/track/0mtxZdz5ISNK7X2T0slm8d"
+    },
+    {
+      "album": {
+        "name": "Gucci, Prada",
+        "url": "https://open.spotify.com/album/2bEgdwaosXzPsnvfKKIYTb"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "Gucci, Prada",
+      "url": "https://open.spotify.com/track/6iKT8x1sTotyl1ye0lgD5I"
     },
     {
       "album": {

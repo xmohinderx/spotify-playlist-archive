@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-189 songs - 11 hr 58 min
+191 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,11 +70,12 @@
 | [Elevate](https://open.spotify.com/track/1SNipdzMky2C2LwvoVRzsv) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Elevate](https://open.spotify.com/album/4C84G5bSOE7zK9m9eXMxkW) | 3:11 | 2021-08-20 |  |
 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 | 2021-11-16 |  |
 | [Evil World Machine](https://open.spotify.com/track/3CYDh4mjfg7I0hHHCNEt1S) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 4:27 | 2022-09-21 | 2023-01-04 |
+| [Evil World Machine \- Extended](https://open.spotify.com/track/2p5Ky0BG9HqB3PoVrxoP5l) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd) | [Evil World Machine \(Extended\)](https://open.spotify.com/album/6ok2I9TtRAY9gaHJNUIQpI) | 6:10 | 2023-01-27 |  |
 | [Eyeless](https://open.spotify.com/track/7MEHTWzEi3z7P2jEWAcdHZ) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 3:56 | 2022-03-08 | 2023-01-04 |
 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/3S4fzPT48VfDTjeqVrGuv4) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 3:05 | 2022-09-21 |  |
 | [Feed the Wolf](https://open.spotify.com/track/2GGhdqZ8yJwgici7ko5sdg) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Feed the Wolf](https://open.spotify.com/album/624ZRha8Ur3PQGCedJ5Iss) | 3:18 | 2021-08-20 |  |
 | [Fight \(feat\. Chad Gray of Hellyeah\)](https://open.spotify.com/track/6HmVuaY05lCHoDccqFrHEo) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Fight \(feat\. Chad Gray of Hellyeah\)](https://open.spotify.com/album/2yjz22VEJg8GYzYLHdU1p2) | 3:27 | 2021-08-20 |  |
-| [Flying](https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [I Rise](https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ) | 3:09 | 2022-11-11 | 2023-01-04 |
+| [Flying](https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [I Rise](https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ) | 3:09 | 2022-11-11 |  |
 | [Football Season is Over](https://open.spotify.com/track/3nAmNBPglbB7vPqjxYqBDj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/1prhMiPHHEEzK5ueEx2vWB) | 1:55 | 2022-03-08 |  |
 | [For The Glory \(feat\. Hollywood Undead\)](https://open.spotify.com/track/4iyoHJe8kA4ZmDhHxwVdz7) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1), [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [For The Glory \(feat\. Hollywood Undead\)](https://open.spotify.com/album/2ZWveWbeFhlWv7O0TEC8eI) | 4:41 | 2021-08-20 |  |
 | [For The Glory \(feat\. Hollywood Undead\)](https://open.spotify.com/track/4oLzeTsQpM0sW6TXXxlyfw) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1), [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 4:41 | 2022-09-21 | 2023-01-04 |
@@ -182,6 +183,7 @@
 | [Warrior \(feat\. Travis Barker\)](https://open.spotify.com/track/11zEEKMORg4bIyGZ9HpkKz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Warrior / Underrated](https://open.spotify.com/album/1hBDgB1L6iCtV8i5p1Mhq4) | 2:45 | 2021-08-20 | 2023-01-04 |
 | [We Believe \(feat\. David Draiman\)](https://open.spotify.com/track/4II6MQP9Cv9PwwCoXBJevq) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [We Believe \(feat\. David Draiman\)](https://open.spotify.com/album/3fbzfcUd9ejrFDChKFGSBP) | 3:18 | 2021-08-20 |  |
 | [We Will Not Go Quietly](https://open.spotify.com/track/5XE0S3m7Qgh40sjaT4g2VU) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [We Will Not Go Quietly](https://open.spotify.com/album/2chkVD6tHlcZKBrMBlHcs3) | 4:20 | 2021-08-20 |  |
+| [We Will Rock You](https://open.spotify.com/track/0dXqdq1aF0SgZamXvUAp57) | [TEMPT](https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk) | [We Will Rock You](https://open.spotify.com/album/5jPBB8d3UAb8TFwqgVgeGW) | 2:36 | 2023-01-27 |  |
 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 | 2022-06-10 |  |
 | [What Do You Gotta Lose?](https://open.spotify.com/track/3t3rnRd26jLl1SajTgPkSY) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w) | [What Do You Gotta Lose?](https://open.spotify.com/album/0hryjAJGUKTJib7l3CICra) | 3:41 | 2021-08-20 | 2023-01-04 |
 | [What I Get](https://open.spotify.com/track/1Nn22xpPsiHHHJlq6duP6d) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [What I Get](https://open.spotify.com/album/0ol6vmNYt6XACmBiCyUI5l) | 3:03 | 2021-08-20 | 2023-01-04 |

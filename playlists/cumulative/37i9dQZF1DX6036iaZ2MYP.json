@@ -1733,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "NO PLASTIC",
+        "url": "https://open.spotify.com/album/0N9BQ259WqvW6ZX0aEY9q3"
+      },
+      "artists": [
+        {
+          "name": "Yacn",
+          "url": "https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "NO PLASTIC",
+      "url": "https://open.spotify.com/track/6EogXiW8jsO38lWb7fZLF1"
+    },
+    {
+      "album": {
         "name": "No Wahala (Remix)",
         "url": "https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG"
       },

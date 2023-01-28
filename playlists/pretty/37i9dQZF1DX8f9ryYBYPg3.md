@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,083 likes - 145 songs - 23 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,104 likes - 145 songs - 23 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 | 144 | [Drama Track 「Fling Posse Inc.」](https://open.spotify.com/track/1cvBkFJBVWKOsLRiVeFtp7) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99) | [キズアトがキズナとなる](https://open.spotify.com/album/4OUkSxmENUJXnvqtyrsMkB) | 14:51 |
 | 145 | [Drama Track 「Mixed Up」](https://open.spotify.com/track/27XLH8ZrFhqwV1x3cdMztM) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [CROSS A LINE](https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV) | 45:38 |
 
-Snapshot ID: `MTY3NDE5ODU3MywwMDAwMDAwMGU1YzRjZjQ0ODMwNjg0ZGZkMGUzNGVmNzYwYTM1YzMy`
+Snapshot ID: `MTY3NDc4OTU5MywwMDAwMDAwMGNhNDgyM2Y2MzIwYjY5ZWVmYzU4NGRjODQ5MDgwNmFl`

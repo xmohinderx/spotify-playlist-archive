@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1721480,
+  "num_followers": 1721757,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDQ5NTk2OCwwMDAwMDAwMDE4MTBkZmVjZmQ2YWI1MGJjOGM2ZmY3NDNhY2Y3YWM3",
+  "snapshot_id": "MTY3NDQ5NTk2OCwwMDAwMDAwMDYxYzAwYjFhZGRlZWU4NmYzZTA2N2UxMjI5NWMyZTg4",
   "tracks": [
     {
       "added_at": "2023-01-23 17:46:08",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-01-23 17:46:08",
       "album": {
-        "name": "Tomar Distancia",
-        "url": "https://open.spotify.com/album/6jJ1AQcqFL1Dz9P6t3QIgT"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 150094,
-      "name": "Tomar Distancia",
-      "url": "https://open.spotify.com/track/1gd4OWaul0LVm0xsGswjaD"
-    },
-    {
-      "added_at": "2023-01-23 17:46:08",
-      "album": {
         "name": "Amar Sin Mentiras",
         "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2023-01-23 17:46:08",
       "album": {
+        "name": "Tomar Distancia",
+        "url": "https://open.spotify.com/album/6jJ1AQcqFL1Dz9P6t3QIgT"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 150094,
+      "name": "Tomar Distancia",
+      "url": "https://open.spotify.com/track/1gd4OWaul0LVm0xsGswjaD"
+    },
+    {
+      "added_at": "2023-01-23 17:46:08",
+      "album": {
         "name": "Rabia",
         "url": "https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf"
       },
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2023-01-23 17:46:08",
       "album": {
-        "name": "Tiempo Pa Olvidar",
-        "url": "https://open.spotify.com/album/1odX16Hd8maqVuVuiFlGBd"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 199521,
-      "name": "Tiempo Pa Olvidar",
-      "url": "https://open.spotify.com/track/69dNigIQhkCnL6pr7iRJPA"
-    },
-    {
-      "added_at": "2023-01-23 17:46:08",
-      "album": {
         "name": "Cuerno",
         "url": "https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 178199,
       "name": "Cuerno",
       "url": "https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD"
+    },
+    {
+      "added_at": "2023-01-23 17:46:08",
+      "album": {
+        "name": "Tiempo Pa Olvidar",
+        "url": "https://open.spotify.com/album/1odX16Hd8maqVuVuiFlGBd"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 199521,
+      "name": "Tiempo Pa Olvidar",
+      "url": "https://open.spotify.com/track/69dNigIQhkCnL6pr7iRJPA"
     },
     {
       "added_at": "2023-01-23 17:46:08",

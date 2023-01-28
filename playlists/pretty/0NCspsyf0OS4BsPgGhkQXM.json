@@ -1,12 +1,12 @@
 {
   "description": "The official Trap Nation playlist - cover featuring  <a href=\"https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ\">INZO </a>.",
-  "num_followers": 2033792,
+  "num_followers": 2033769,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTI4NTAsOTU5ZTBjOTAzMDcyZDUyMDczYjgwZWIzMzk1ZTI0OTVkNDQ5MWUxNA==",
+  "snapshot_id": "MTI4NjYsNjQxZDY1MjkwMjNjMjIyMWFiNzNlYmFhY2NkMWU3ZTljODliNDUwOA==",
   "tracks": [
     {
       "added_at": "2023-01-20 10:24:24",
@@ -155,22 +155,6 @@
       "duration_ms": 129600,
       "name": "Midnight Sadness",
       "url": "https://open.spotify.com/track/33K5gIHX0vvTbO4A2VV2TP"
-    },
-    {
-      "added_at": "2022-12-27 14:22:10",
-      "album": {
-        "name": "Day One",
-        "url": "https://open.spotify.com/album/7iFsrrfHiePDh8GK5T2upj"
-      },
-      "artists": [
-        {
-          "name": "Arman Cekin",
-          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Day One",
-      "url": "https://open.spotify.com/track/6ODjTpDpJo1vpW4UAJkmJZ"
     },
     {
       "added_at": "2022-12-26 16:16:21",
@@ -397,30 +381,6 @@
       "url": "https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI"
     },
     {
-      "added_at": "2023-01-13 14:52:13",
-      "album": {
-        "name": "Perseus",
-        "url": "https://open.spotify.com/album/4qjZotHAONV7lhvYsaSXGm"
-      },
-      "artists": [
-        {
-          "name": "The FifthGuys",
-          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
-        },
-        {
-          "name": "Marin Hoxha",
-          "url": "https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd"
-        },
-        {
-          "name": "Vinsmoker",
-          "url": "https://open.spotify.com/artist/2huUeOXso2qC3L0JdJJz7u"
-        }
-      ],
-      "duration_ms": 125848,
-      "name": "Perseus",
-      "url": "https://open.spotify.com/track/3dS4nCiyJMx8miVcnmXv6A"
-    },
-    {
       "added_at": "2022-12-26 16:16:21",
       "album": {
         "name": "I'm Dreaming",
@@ -499,6 +459,26 @@
       "duration_ms": 215010,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/4DgfI5iFjc4gvYdfVM5cMb"
+    },
+    {
+      "added_at": "2023-01-27 18:10:03",
+      "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/0b36iO6gCrtXYJWHI2erGW"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Justin J. Moore",
+          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
+        }
+      ],
+      "duration_ms": 175135,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1l8YwXvnbnWBoPvnEpj17C"
     },
     {
       "added_at": "2022-12-26 16:16:21",
@@ -615,22 +595,6 @@
     {
       "added_at": "2022-12-26 16:16:21",
       "album": {
-        "name": "GOD MODE",
-        "url": "https://open.spotify.com/album/2fGV380xMDnEvY1WHH9tSy"
-      },
-      "artists": [
-        {
-          "name": "6SIXSIX",
-          "url": "https://open.spotify.com/artist/1mMnunVIw4ejNRFNBEqRC2"
-        }
-      ],
-      "duration_ms": 188740,
-      "name": "GOD MODE",
-      "url": "https://open.spotify.com/track/7LMsQq4Y3quAQlY5NBOH3E"
-    },
-    {
-      "added_at": "2022-12-26 16:16:21",
-      "album": {
         "name": "Hislerim",
         "url": "https://open.spotify.com/album/6xEqzdQRxuioh1onPW2mT9"
       },
@@ -647,22 +611,6 @@
       "duration_ms": 214204,
       "name": "Hislerim",
       "url": "https://open.spotify.com/track/32Mh7kOCWmNTZgre0cGvCV"
-    },
-    {
-      "added_at": "2022-12-26 16:16:21",
-      "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/1lgRPhvyHG092PPPN6b9V1"
-      },
-      "artists": [
-        {
-          "name": "Ahee",
-          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/3tacyVZsROkiT12vHRbllJ"
     },
     {
       "added_at": "2022-12-26 16:16:21",
@@ -827,30 +775,6 @@
     {
       "added_at": "2022-12-26 16:16:21",
       "album": {
-        "name": "Zeus",
-        "url": "https://open.spotify.com/album/1vjqn2gidi3DECbymVbKrW"
-      },
-      "artists": [
-        {
-          "name": "The FifthGuys",
-          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
-        },
-        {
-          "name": "Marin Hoxha",
-          "url": "https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd"
-        },
-        {
-          "name": "Vinsmoker",
-          "url": "https://open.spotify.com/artist/2huUeOXso2qC3L0JdJJz7u"
-        }
-      ],
-      "duration_ms": 134545,
-      "name": "Zeus",
-      "url": "https://open.spotify.com/track/3uHjfqPvS5eQFP7GXwx6Ax"
-    },
-    {
-      "added_at": "2022-12-26 16:16:21",
-      "album": {
         "name": "Love Your Name",
         "url": "https://open.spotify.com/album/6ZZOP6uHpoV19Js16x6ujo"
       },
@@ -923,6 +847,26 @@
       "duration_ms": 224210,
       "name": "GUD VIBRATIONS",
       "url": "https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp"
+    },
+    {
+      "added_at": "2023-01-27 21:50:19",
+      "album": {
+        "name": "Fall Into Deep",
+        "url": "https://open.spotify.com/album/0KlY7jCOReNFq9jD7zyNLs"
+      },
+      "artists": [
+        {
+          "name": "Kaisemotions",
+          "url": "https://open.spotify.com/artist/2vwenSBX1ef8mpayYn4uv4"
+        },
+        {
+          "name": "Mblue",
+          "url": "https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Fall Into Deep",
+      "url": "https://open.spotify.com/track/2CuyzoJAs6SoqapNQUhJvY"
     },
     {
       "added_at": "2022-12-26 16:16:21",
@@ -1319,26 +1263,6 @@
     {
       "added_at": "2022-12-26 16:16:21",
       "album": {
-        "name": "LOGOS",
-        "url": "https://open.spotify.com/album/6JHtjrlVhzMjXtP5ZLjPDP"
-      },
-      "artists": [
-        {
-          "name": "capshun",
-          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 245580,
-      "name": "Orbit",
-      "url": "https://open.spotify.com/track/0gfV3qREGokBnd3DeK9xjj"
-    },
-    {
-      "added_at": "2022-12-26 16:16:21",
-      "album": {
         "name": "The Blueprint",
         "url": "https://open.spotify.com/album/11vbM8Rflk8ZqMRJDrr8VZ"
       },
@@ -1403,22 +1327,6 @@
       "duration_ms": 158478,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/5suBTMaVFuSmXUdhoXSCnL"
-    },
-    {
-      "added_at": "2022-12-26 16:16:21",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/1JYsLiWmHiukJClldteW7q"
-      },
-      "artists": [
-        {
-          "name": "capshun",
-          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
-        }
-      ],
-      "duration_ms": 208616,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/1BMve5dCKHJ8ARC2fkRpW2"
     },
     {
       "added_at": "2022-12-26 16:16:21",
@@ -1567,26 +1475,6 @@
       "duration_ms": 248828,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/1ER0IImVOV3g6qJAC2F9GE"
-    },
-    {
-      "added_at": "2022-12-26 16:16:21",
-      "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/2SuXUgAWLnSF89bHq7cLJN"
-      },
-      "artists": [
-        {
-          "name": "Biometrix",
-          "url": "https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2"
-        },
-        {
-          "name": "Hex & Solstice",
-          "url": "https://open.spotify.com/artist/09IVjJm54cApXuwVwmG04B"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/3inG72xPY9bCmAn1cBihMZ"
     },
     {
       "added_at": "2022-12-26 16:16:21",
@@ -1979,30 +1867,6 @@
       "duration_ms": 153600,
       "name": "WITHOUT U",
       "url": "https://open.spotify.com/track/0zDWtTrHkB0hC8PaCSk0Lx"
-    },
-    {
-      "added_at": "2022-12-26 16:16:21",
-      "album": {
-        "name": "Dime A Dozen",
-        "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
-      },
-      "artists": [
-        {
-          "name": "capshun",
-          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
-        },
-        {
-          "name": "Pryzms",
-          "url": "https://open.spotify.com/artist/6HNMTkdyksPiM9gdBKLkYf"
-        },
-        {
-          "name": "broke",
-          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
-        }
-      ],
-      "duration_ms": 166821,
-      "name": "Sense",
-      "url": "https://open.spotify.com/track/6oGDyyUzQzTa1JtInKONav"
     },
     {
       "added_at": "2022-12-26 16:16:21",

@@ -4,7 +4,7 @@
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-271 songs - 15 hr 19 min
+272 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [And She Came Home \- Mary Lattimore Rework](https://open.spotify.com/track/6lvBZ7cylUHrZzgJCSl0hw) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [And She Came Home \(Mary Lattimore Rework\)](https://open.spotify.com/album/3nr4ZmLW5VK3DrNQM3BUSX) | 3:34 | 2022-06-29 | 2022-07-29 |
 | [Angelical](https://open.spotify.com/track/6ESl6rt4YenKE7XJuv4LTN) | [Arlen Ness](https://open.spotify.com/artist/45OB7boHqRPhkwMEsPPiT0) | [Know Yourself](https://open.spotify.com/album/0Xhp6naFew0khbul6bzuNt) | 2:30 | 2022-06-29 |  |
 | [Another Forest](https://open.spotify.com/track/7fVDQRwi4mJ0kPnvG9I7qW) | [Chaxti](https://open.spotify.com/artist/12Ip37wPd8ddVsBrrbcFZH) | [Not Even In Dreams](https://open.spotify.com/album/02VME3JiyaS0bVBPVh2WuM) | 3:53 | 2022-06-29 |  |
+| [As Skydivers Prepare to Jump](https://open.spotify.com/track/2tRpGigCGfTlS8M9OC8sN9) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [As Skydivers Prepare to Jump](https://open.spotify.com/album/4OEQEW47OIajXHCf3OeOua) | 3:03 | 2023-01-13 |  |
 | [Aura](https://open.spotify.com/track/04zmw3VLwbZjsICoFGEjmv) | [Paul Martinson](https://open.spotify.com/artist/3bRs4tOeVr1K0EVWi1BKkj) | [Aura](https://open.spotify.com/album/2Kot6ahBfFBvdWy58CZiXU) | 3:13 | 2022-06-29 |  |
 | [Autosuggestion](https://open.spotify.com/track/37BKMGpfNWMjdFbcqPc4wW) | [London Pavilion](https://open.spotify.com/artist/5VJzruQsgylyykWVnsA22t) | [Autosuggestion](https://open.spotify.com/album/7vqqhdG1W0WOnoVYuItNWu) | 3:28 | 2022-07-19 | 2023-01-05 |
 | [Avalon](https://open.spotify.com/track/6dy23Jk4fxlwTLxB9o4olF) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Violin Chant](https://open.spotify.com/album/3MyMoLStXeNHxBtjn1xO6v) | 3:29 | 2022-06-29 |  |
@@ -46,7 +47,7 @@
 | [Birds in Song](https://open.spotify.com/track/6AP5tmPtYpz14bX1Iut1mG) | [Mind Shores](https://open.spotify.com/artist/5rMYtkq4BVMFCtgXOsIyxK) | [Sounds](https://open.spotify.com/album/6NMpDeOYccREmbSyeMbCoy) | 3:30 | 2022-06-29 |  |
 | [Birds Sounds](https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 2:45 | 2022-07-19 |  |
 | [Bittern](https://open.spotify.com/track/0izz2Wwg9OSjX0LRNivaTw) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake up Calls](https://open.spotify.com/album/6zZr0Y6Z6khPwf2LuZTK4K) | 1:21 | 2022-07-19 | 2022-07-23 |
-| [Bittern](https://open.spotify.com/track/64qOH2bUXO1Lfl1Lr5fnC5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 1:21 | 2022-10-21 |  |
+| [Bittern](https://open.spotify.com/track/64qOH2bUXO1Lfl1Lr5fnC5) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 1:21 | 2022-10-21 | 2023-01-28 |
 | [Blue Mountains](https://open.spotify.com/track/4M2CGqXKaGNVd3KmjnHMrO) | [Mindland](https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg) | [Angelic](https://open.spotify.com/album/5s37hBeeGnPiSdKumJX0pd) | 3:15 | 2022-06-29 | 2022-07-29 |
 | [Bluebirds](https://open.spotify.com/track/4zmCiLP5fkveffqyvrnOzP) | [The Highest Clouds](https://open.spotify.com/artist/5GxdjXV91L1AoL0i0J85uH) | [Bluebirds](https://open.spotify.com/album/3OAIYbvnrfrec6LiOETHNw) | 2:07 | 2022-06-29 |  |
 | [Brain Imaging](https://open.spotify.com/track/0y970SMstSYeB4fErHwjGY) | [Neural Oscillations](https://open.spotify.com/artist/2g4Tp9jhqwF2Z6mC008fBb) | [Alpha Activity](https://open.spotify.com/album/1S7gmkPo26PWlGiotf5RWy) | 2:43 | 2022-06-29 | 2022-07-29 |
@@ -164,7 +165,7 @@
 | [Midmorning in the Forest](https://open.spotify.com/track/1NURmoJ05vd6p3oGgwkG3D) | [The Relaxing Sounds of Swedish Nature](https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu) | [Forest Creeks](https://open.spotify.com/album/5EWRtulbrK9YidzqNYctjQ) | 2:35 | 2022-06-29 | 2022-07-29 |
 | [Midmorning in the Forest](https://open.spotify.com/track/49kxZ12f0I1RYCZBCKlCMK) | [The Relaxing Sounds of Swedish Nature](https://open.spotify.com/artist/3yQUKaHkSwdGxlk8LxN5iu) | [Forest Creeks](https://open.spotify.com/album/0v6HrufgzVstSVfet7u6Nf) | 2:35 | 2022-09-13 |  |
 | [Mist](https://open.spotify.com/track/3KfAvtNhKv10mmB1wxnUPg) | [Memory Bliss](https://open.spotify.com/artist/40y6ITSyELhZmpIrCTwcP5) | [Daydream](https://open.spotify.com/album/5UswlOAxw3EgvhjueVkYT1) | 2:34 | 2022-06-29 | 2022-07-29 |
-| [Mist](https://open.spotify.com/track/762jOXMpUQpiJ5pj4JMjuf) | [Memory Bliss](https://open.spotify.com/artist/40y6ITSyELhZmpIrCTwcP5) | [Daydream](https://open.spotify.com/album/3I5cQE29v5dMWbzxw2JwIb) | 2:34 | 2022-07-19 |  |
+| [Mist](https://open.spotify.com/track/762jOXMpUQpiJ5pj4JMjuf) | [Memory Bliss](https://open.spotify.com/artist/40y6ITSyELhZmpIrCTwcP5) | [Daydream](https://open.spotify.com/album/3I5cQE29v5dMWbzxw2JwIb) | 2:34 | 2022-07-19 | 2023-01-28 |
 | [Molecular Beauty](https://open.spotify.com/track/2AorwcM25R5qsP3MLeOJcA) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Our Living Universe](https://open.spotify.com/album/41UjWVgWP1Se9Pbov22EvX) | 4:38 | 2022-06-29 |  |
 | [Momentum](https://open.spotify.com/track/52eF332JJTszfJWVRmk2oQ) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [Momentum](https://open.spotify.com/album/3U2sFx75PQra911Z3pNlck) | 2:27 | 2022-06-29 | 2022-07-29 |
 | [Momentum](https://open.spotify.com/track/7DZzB8uRRpeGE9eHpnNUXs) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [Momentum](https://open.spotify.com/album/68YLbrQkvw2hUEYJGg33bm) | 2:27 | 2022-07-19 |  |
@@ -271,7 +272,7 @@
 | [Water Flowing](https://open.spotify.com/track/6yuUNwzKsytnqKjFU3oNrS) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [In the Ocean](https://open.spotify.com/album/74Q6lC88iLKTQb5jblUMjs) | 3:22 | 2022-06-29 |  |
 | [Weightless](https://open.spotify.com/track/1xkcIa7Tt71W9Fof1rN7wW) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [The Stairway](https://open.spotify.com/album/46YFAKEcnAGRPoaPUKXnfz) | 3:17 | 2022-07-19 | 2022-07-29 |
 | [Where Mountains Reign](https://open.spotify.com/track/2ud8PfizwtkZ0IKrCyhZkC) | [In Finitum](https://open.spotify.com/artist/4yKvWCRx5sts8aLi0fAM9c) | [Where Mountains Reign](https://open.spotify.com/album/3W3yJKdm6CS0DeBSZ315gD) | 2:47 | 2022-10-21 |  |
-| [Windchimes](https://open.spotify.com/track/3Hacu11Jx7fH5m8BYVrhkP) | [Jordan Jessep](https://open.spotify.com/artist/1d81uMtUrIgduWEZLJhpyv) | [Ambient Worlds](https://open.spotify.com/album/3nonQQWkITlLRmZwH4ZNSU) | 7:09 | 2022-06-29 | 2023-01-23 |
+| [Windchimes](https://open.spotify.com/track/3Hacu11Jx7fH5m8BYVrhkP) | [Jordan Jessep](https://open.spotify.com/artist/1d81uMtUrIgduWEZLJhpyv) | [Ambient Worlds](https://open.spotify.com/album/3nonQQWkITlLRmZwH4ZNSU) | 7:09 | 2022-06-29 |  |
 | [Wonders](https://open.spotify.com/track/3hUO3O0H2XnZ6QCpHSPRWb) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Wonders](https://open.spotify.com/album/78wbhGunanw1Mh5GEAV5tw) | 2:53 | 2022-06-29 | 2022-07-29 |
 | [Wonders](https://open.spotify.com/track/5DJ8bf7jqxzS5tTE1PAavw) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Wonders](https://open.spotify.com/album/1nnJ6oJQTDDP9kDvUV8fOE) | 2:53 | 2022-07-19 | 2023-01-18 |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-06-29 |  |

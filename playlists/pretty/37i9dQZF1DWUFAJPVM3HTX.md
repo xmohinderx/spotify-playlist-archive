@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Mannywellz\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,661 likes - 90 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,779 likes - 90 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 29 | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/track/556CRBT1Baizm5cRhHY2MK) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [THEO SAYS \(feat\. Ego Ella May & D'LEAU\)](https://open.spotify.com/album/4oOD8I1ZoGU3UZJhcrrnq3) | 4:19 |
 | 30 | [Multiply](https://open.spotify.com/track/3rrClpW2TfOj6VY6nLtqBS) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Multiply](https://open.spotify.com/album/7kqge5g8SnPqZtRoQyRMPz) | 3:56 |
 | 31 | [Silk Sheets](https://open.spotify.com/track/5b9h3qSZj7TOm2TSRSFsXD) | [Daizha](https://open.spotify.com/artist/3Rrg3qxCFC6sXCT8yIPjn6) | [Silk Sheets](https://open.spotify.com/album/16v5yqOyihzRxqYlEJ2Td7) | 3:20 |
-| 32 | [Nostalgia](https://open.spotify.com/track/3lQwxQ0LcQ2wXKUytW9SK7) | [J\-Felix](https://open.spotify.com/artist/4C0wCCOXzZcOvdwdg4x8I4), [Chloe Bodur](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [The Mint Experiment Volume 1](https://open.spotify.com/album/3xisuEQkOGPRIj5ldxkg7p) | 3:04 |
+| 32 | [Nostalgia](https://open.spotify.com/track/3lQwxQ0LcQ2wXKUytW9SK7) | [J\-Felix](https://open.spotify.com/artist/4C0wCCOXzZcOvdwdg4x8I4), [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [The Mint Experiment Volume 1](https://open.spotify.com/album/3xisuEQkOGPRIj5ldxkg7p) | 3:04 |
 | 33 | [Overthinking](https://open.spotify.com/track/7I2jfv26obp38wvuJG9enL) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Overthinking](https://open.spotify.com/album/7juT5Xm5izAEVtHZiRIluA) | 3:01 |
 | 34 | [Theirs13](https://open.spotify.com/track/63kj5bCib1ovmtty6OllEt) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Theirs13](https://open.spotify.com/album/2YfQ9ABijhtKRI9GuuxOlF) | 2:04 |
 | 35 | [Naughty Tingz](https://open.spotify.com/track/325suJbPndRb3ERaQ7HiWG) | [Diamond Johnson](https://open.spotify.com/artist/6zoPHoMFX03lEWzgc3KOpv) | [Naughty Tingz](https://open.spotify.com/album/4aNcQyFNX0CmAgTYCggazG) | 2:46 |

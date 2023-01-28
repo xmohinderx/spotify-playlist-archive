@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
-  "num_followers": 12071,
+  "num_followers": 12077,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGQ2NjJhZWE5OThlNTc0MWY0ZDI5NDEzNmRjMWNkYmNk",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGUzZDMyYzUxNWYzNmYyMzAyZTZlMTkyY2ZiYjhlNDBl",
   "tracks": [
     {
       "added_at": "2022-12-08 23:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Moral",
+        "url": "https://open.spotify.com/album/2L2ncr9AyJlL3hE6TWenlb"
+      },
+      "artists": [
+        {
+          "name": "Sofie Winterson",
+          "url": "https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg"
+        }
+      ],
+      "duration_ms": 154986,
+      "name": "Be Bad",
+      "url": "https://open.spotify.com/track/0aWLSxNvttlmRayiJMXZy1"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Moral",
-        "url": "https://open.spotify.com/album/2L2ncr9AyJlL3hE6TWenlb"
-      },
-      "artists": [
-        {
-          "name": "Sofie Winterson",
-          "url": "https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg"
-        }
-      ],
-      "duration_ms": 154986,
-      "name": "Be Bad",
-      "url": "https://open.spotify.com/track/0aWLSxNvttlmRayiJMXZy1"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4"
       },
@@ -639,26 +639,6 @@
       "duration_ms": 279638,
       "name": "Life Isn't",
       "url": "https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Crazy Good",
-        "url": "https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        },
-        {
-          "name": "Roxanne",
-          "url": "https://open.spotify.com/artist/5mGFb7wCIvqKWya2ePJQ7c"
-        }
-      ],
-      "duration_ms": 231976,
-      "name": "Crazy Good",
-      "url": "https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -683,6 +663,26 @@
       "duration_ms": 291715,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Crazy Good",
+        "url": "https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        },
+        {
+          "name": "Roxanne",
+          "url": "https://open.spotify.com/artist/5mGFb7wCIvqKWya2ePJQ7c"
+        }
+      ],
+      "duration_ms": 231976,
+      "name": "Crazy Good",
+      "url": "https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 316360,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Summer Moon",
         "url": "https://open.spotify.com/album/3EIMnvmiotPTh3glLLnUm0"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 201343,
       "name": "Summer Moon",
       "url": "https://open.spotify.com/track/5z0q7N7cFB1YCI6LiZLajl"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 316360,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Adi Oasis",
-        "url": "https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 271054,
-      "name": "9",
-      "url": "https://open.spotify.com/track/2Lel4FPH7lwvWZv24c9Gj6"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 184000,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/3I8IVGwQSv055Ue5OrI6Qf"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Adi Oasis",
+        "url": "https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 271054,
+      "name": "9",
+      "url": "https://open.spotify.com/track/2Lel4FPH7lwvWZv24c9Gj6"
     },
     {
       "added_at": "2022-12-08 23:00:00",

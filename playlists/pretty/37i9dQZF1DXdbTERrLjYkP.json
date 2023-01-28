@@ -1,13 +1,141 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Meg Smith",
-  "num_followers": 78362,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Rowan Drake",
+  "num_followers": 78398,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGQwY2I2Njk3OTdlNThmY2YzMjIxMmQyYTIwZjUxZmVk",
+  "snapshot_id": "MTY3NDg1NjIxOSwwMDAwMDAwMDlkZjZkMDhhZDI2YTM4NjlhZDFlZDljNTc2OGRjNDU4",
   "tracks": [
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Elephant In The Room",
+        "url": "https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "duration_ms": 161210,
+      "name": "Elephant In The Room",
+      "url": "https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Us and Pigs",
+        "url": "https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt"
+      },
+      "artists": [
+        {
+          "name": "Sofia Isella",
+          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
+        }
+      ],
+      "duration_ms": 174118,
+      "name": "Us and Pigs",
+      "url": "https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt"
+    },
+    {
+      "added_at": "2023-01-27 21:50:19",
+      "album": {
+        "name": "Spam Calls",
+        "url": "https://open.spotify.com/album/4T7PakYjXie0JjTC6JqfSh"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pless",
+          "url": "https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b"
+        }
+      ],
+      "duration_ms": 179689,
+      "name": "Spam Calls",
+      "url": "https://open.spotify.com/track/34jEr8NupQF9PVS31Tyfff"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Play Dumb",
+        "url": "https://open.spotify.com/album/7IPvJl6u4V0LbDVmq5eBVo"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Play Dumb",
+      "url": "https://open.spotify.com/track/7oko8U6MOLDuMNEGyJ5sht"
+    },
+    {
+      "added_at": "2023-01-27 06:15:06",
+      "album": {
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/3zFIcNN4VJ4W4UzWiaqxpV"
+      },
+      "artists": [
+        {
+          "name": "Syd Franklin",
+          "url": "https://open.spotify.com/artist/0FVBV0tOAo6AWz8ecbKjY7"
+        }
+      ],
+      "duration_ms": 271579,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/0xx9SsVOjvYD31g5quYWdN"
+    },
+    {
+      "added_at": "2022-12-23 05:00:00",
+      "album": {
+        "name": "healing hurts",
+        "url": "https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 185321,
+      "name": "you'd never know",
+      "url": "https://open.spotify.com/track/3Ujbw4fK37Nx8XOSJkWa0e"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Broken English",
+        "url": "https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 182296,
+      "name": "Broken English",
+      "url": "https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Grow Out Of It",
+        "url": "https://open.spotify.com/album/6IWfby0SmSyiU2SSktO7E7"
+      },
+      "artists": [
+        {
+          "name": "Charlie Oriain",
+          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
+        }
+      ],
+      "duration_ms": 151105,
+      "name": "Grow Out Of It",
+      "url": "https://open.spotify.com/track/58CUtwjF3a0YrYR5Akh3cn"
+    },
     {
       "added_at": "2022-12-30 05:00:00",
       "album": {
@@ -25,20 +153,36 @@
       "url": "https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2"
     },
     {
-      "added_at": "2022-12-23 05:00:00",
+      "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "healing hurts",
-        "url": "https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl"
+        "name": "First Time Around",
+        "url": "https://open.spotify.com/album/6rypi6Trg8qZLNbimsZuYb"
       },
       "artists": [
         {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+          "name": "Sophia James",
+          "url": "https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN"
         }
       ],
-      "duration_ms": 185321,
-      "name": "you'd never know",
-      "url": "https://open.spotify.com/track/3Ujbw4fK37Nx8XOSJkWa0e"
+      "duration_ms": 285440,
+      "name": "First Time Around",
+      "url": "https://open.spotify.com/track/23psMZPlDbapkhRYmJsjlv"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "In a Few Months",
+        "url": "https://open.spotify.com/album/2tGxcCJyqcipZtervTeD77"
+      },
+      "artists": [
+        {
+          "name": "Savannah Sgro",
+          "url": "https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp"
+        }
+      ],
+      "duration_ms": 172163,
+      "name": "In a Few Months",
+      "url": "https://open.spotify.com/track/6FAMGlXpqVkgCpTgA5iEYs"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -335,22 +479,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Difficult",
-        "url": "https://open.spotify.com/album/5ut6gnxZsNlq5ZjiW06Ht8"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 257881,
-      "name": "Difficult",
-      "url": "https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Deny Me",
         "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
       },
@@ -447,22 +575,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Same People",
-        "url": "https://open.spotify.com/album/4oMlqE0MvhO3yYFHqIvDv6"
-      },
-      "artists": [
-        {
-          "name": "Liv Miraldi",
-          "url": "https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY"
-        }
-      ],
-      "duration_ms": 187986,
-      "name": "Same People",
-      "url": "https://open.spotify.com/track/3EOEvnYl2v0E899Ov9j0gE"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "You Might Not Like Her",
         "url": "https://open.spotify.com/album/3HQwoxEe5p7RNoOagQ57q4"
       },
@@ -475,22 +587,6 @@
       "duration_ms": 202066,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/4HFPqbaVJIc0uTB1QhCY8z"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Delilah (pull me out of this) [Acoustic]",
-        "url": "https://open.spotify.com/album/2xI8iuRhLXiWTu7YE2N5gE"
-      },
-      "artists": [
-        {
-          "name": "Delilah Montagu",
-          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
-        }
-      ],
-      "duration_ms": 198990,
-      "name": "Delilah (pull me out of this) - Acoustic",
-      "url": "https://open.spotify.com/track/2cvxgzEDS9JJlSzchrUzxf"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -575,38 +671,6 @@
     {
       "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "if you ask me to",
-        "url": "https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR"
-      },
-      "artists": [
-        {
-          "name": "charli d'amelio",
-          "url": "https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "if you ask me to",
-      "url": "https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "HAUNTED",
-        "url": "https://open.spotify.com/album/7LIhIdxDpoVeEgFvYWhC0G"
-      },
-      "artists": [
-        {
-          "name": "Britton",
-          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "HAUNTED",
-      "url": "https://open.spotify.com/track/66mdyICh5dlCRwji650pcp"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
         "name": "Looking for Trouble",
         "url": "https://open.spotify.com/album/1SXRmp8DSW8ewbGB1DRnAO"
       },
@@ -669,22 +733,6 @@
       "url": "https://open.spotify.com/track/1EFfOdupn1DbhX9WLP5efs"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "scared to go to sleep",
-        "url": "https://open.spotify.com/album/4QKam9OIXo9igvbnq5r5O2"
-      },
-      "artists": [
-        {
-          "name": "carobae",
-          "url": "https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd"
-        }
-      ],
-      "duration_ms": 165165,
-      "name": "eat ur heart out",
-      "url": "https://open.spotify.com/track/53QT3zKgxfkMPyJ6rUjwLz"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "I Wanna Be In Love Again",
@@ -699,22 +747,6 @@
       "duration_ms": 277498,
       "name": "I Wanna Be In Love Again",
       "url": "https://open.spotify.com/track/3SoskoFsarFxM4xiGN2VvQ"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "realistic",
-        "url": "https://open.spotify.com/album/6AT3vx5geFUXbuo89ZJcfW"
-      },
-      "artists": [
-        {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "realistic",
-      "url": "https://open.spotify.com/track/4jSQEWDlHLrYEs8iDPb7qc"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -779,38 +811,6 @@
       "duration_ms": 218218,
       "name": "Haunted by Potential",
       "url": "https://open.spotify.com/track/4gnDGcNhLlQUEWIw76RnRc"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Good For Me",
-        "url": "https://open.spotify.com/album/3x7E0B0uw3dDz3XOKYdtoX"
-      },
-      "artists": [
-        {
-          "name": "ROSIE",
-          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Good For Me",
-      "url": "https://open.spotify.com/track/0Yf0jgTPenhgWIYgbOh4EL"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Things That Are Bad for Me",
-        "url": "https://open.spotify.com/album/3MMxyF2JgR2pUD7qwvOnrg"
-      },
-      "artists": [
-        {
-          "name": "Addison Grace",
-          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
-        }
-      ],
-      "duration_ms": 202193,
-      "name": "Everybody Seems to Love You",
-      "url": "https://open.spotify.com/track/7glM6QKiCgb0w88hNf0USx"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

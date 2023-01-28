@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Gui Brazil",
-  "num_followers": 94191,
+  "num_followers": 94282,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MTk3MiwwMDAwMDAwMGE5OTdlMGE4YWM0ZTRlYTI5M2M0ZGI1MWVkN2E4MzNl",
+  "snapshot_id": "MTY3MzU4MTk3MiwwMDAwMDAwMGY0OTJkZDE2Zjk3YTg4MmE0YTYxMzhlMzllOTFiNWI5",
   "tracks": [
     {
       "added_at": "2023-01-13 03:52:52",
@@ -907,6 +907,26 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
+        "name": "Tudo Que H\u00e1 em Mim Te Adora (Remix)",
+        "url": "https://open.spotify.com/album/6LkNHdL335Go1hFnhqMJRY"
+      },
+      "artists": [
+        {
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        },
+        {
+          "name": "Banda Rafah",
+          "url": "https://open.spotify.com/artist/2cHnwFzccVJ7AdQWUmVGXm"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Tudo Que H\u00e1 em Mim Te Adora - Remix",
+      "url": "https://open.spotify.com/track/7njYDKF5FPtyDrqY5MnSUf"
+    },
+    {
+      "added_at": "2023-01-13 03:52:52",
+      "album": {
         "name": "Eu Vou",
         "url": "https://open.spotify.com/album/2l0kfJQDmsBIaomiLBgpN8"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 201600,
       "name": "Eu Vou",
       "url": "https://open.spotify.com/track/2YgeBn80B7K2RGgeVdsJbX"
-    },
-    {
-      "added_at": "2023-01-13 03:52:52",
-      "album": {
-        "name": "Tudo Que H\u00e1 em Mim Te Adora (Remix)",
-        "url": "https://open.spotify.com/album/6LkNHdL335Go1hFnhqMJRY"
-      },
-      "artists": [
-        {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
-        },
-        {
-          "name": "Banda Rafah",
-          "url": "https://open.spotify.com/artist/2cHnwFzccVJ7AdQWUmVGXm"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Tudo Que H\u00e1 em Mim Te Adora - Remix",
-      "url": "https://open.spotify.com/track/7njYDKF5FPtyDrqY5MnSUf"
     },
     {
       "added_at": "2023-01-13 03:52:52",

@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: カネヨリマサル \(Kaneyorimasaru\)
 
-761 songs - 2 day 0 hr 50 min
+762 songs - 2 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [morninglow](https://open.spotify.com/track/2aZXjw0geMCzrTBv9Z9WvB) | [AFTER SQUALL](https://open.spotify.com/artist/6NmGshcGuIkxttVAsEu8Ns) | [morninglow](https://open.spotify.com/album/50geS4DtoWu5fhI8lpkHar) | 3:50 | 2022-07-14 | 2022-07-19 |
 | [mune ga itai](https://open.spotify.com/track/536FZx9JlrbYDDbGNbLkUp) | [superuwan](https://open.spotify.com/artist/3kWDQ2gwxECBuLi7cSyQTH) | [PEEK\-A\-BOO](https://open.spotify.com/album/60y1SCzUqmL0Mbwh9UQcmi) | 4:10 | 2022-10-04 | 2022-10-12 |
 | [music](https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [music](https://open.spotify.com/album/74f2abiQasJUuM0HlRTjM8) | 3:41 | 2022-05-31 | 2022-09-16 |
+| [Musica](https://open.spotify.com/track/1uZxnjv20GKkbDQwIrMgzM) | [Brandy Senki](https://open.spotify.com/artist/2Y1i6bxyYpz8SaVBfWZHeT) | [Musica](https://open.spotify.com/album/3o7n3y9NOLPvIY2GmzZDOC) | 3:03 | 2023-01-28 |  |
 | [My Christmas](https://open.spotify.com/track/7DgCQCALmT9lrG0lqHzX67) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [My Christmas / Dear My Dependence](https://open.spotify.com/album/4lg2LC4SYjgk5IqbUKXGEB) | 3:15 | 2022-12-07 | 2022-12-30 |
 | [My Vision](https://open.spotify.com/track/7y7RZol3cLs85hO9GtCo9P) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Bump & Grind](https://open.spotify.com/album/5Xo7luQI6DCmzvzJYs3jWj) | 3:56 | 2022-11-01 |  |
 | [Myself](https://open.spotify.com/track/6goPRfxzG4tcPXOf0xcp9w) | [POLTA](https://open.spotify.com/artist/7AcpgsXKOWvTvlYmEJlw6X) | [Myself](https://open.spotify.com/album/7jAjFZgPDcFSvibxfCTSGp) | 3:21 | 2022-06-07 | 2022-07-15 |
@@ -399,7 +400,7 @@
 | [まちのなか](https://open.spotify.com/track/7ujwXfDarMYApUCFYpyNwd) | [Riho Nishikata](https://open.spotify.com/artist/4xU4KNUaARwgoW0LYDYwq8) | [まどろみのひかり](https://open.spotify.com/album/6FaU5u4o1YqeqgNObEMB4I) | 2:23 | 2022-06-07 | 2022-07-06 |
 | [まぼろし](https://open.spotify.com/track/1cAullkJ0hxb6oGmBwywoA) | [Nyanzonu Deshi](https://open.spotify.com/artist/1SvVh1zDPdsm49YyhmsqTX) | [まぼろし](https://open.spotify.com/album/6x3dcUijP9smui7faeOLLE) | 4:30 | 2022-05-26 | 2022-07-08 |
 | [みんなおなじ](https://open.spotify.com/track/7HVfRqzsoiwpQ20rrkaLw8) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [みんなおなじ](https://open.spotify.com/album/6kdiQ4aRSv01HPXsGttVBK) | 4:23 | 2022-06-02 | 2022-07-04 |
-| [むてきのふたり](https://open.spotify.com/track/0hFOqosdZMOwyD4djEXRRg) | [the pullovers](https://open.spotify.com/artist/4DD2vjKX6FOZPgE0WbedXu) | [むてきのふたり](https://open.spotify.com/album/5ViSPjtzh45sdQsyC6Q03C) | 4:27 | 2023-01-17 |  |
+| [むてきのふたり](https://open.spotify.com/track/0hFOqosdZMOwyD4djEXRRg) | [the pullovers](https://open.spotify.com/artist/4DD2vjKX6FOZPgE0WbedXu) | [むてきのふたり](https://open.spotify.com/album/5ViSPjtzh45sdQsyC6Q03C) | 4:27 | 2023-01-17 | 2023-01-28 |
 | [め](https://open.spotify.com/track/0i5XBuAgDeGOH69pStboEW) | [ニューヤナセ](https://open.spotify.com/artist/4JyYJ2F9QIGXEE0j8bWepn) | [め](https://open.spotify.com/album/155FtxCoW6Go9Dl3NywQ6L) | 4:12 | 2022-06-07 | 2022-07-12 |
 | [めちゃポップ](https://open.spotify.com/track/52PMjLS9Em5sHsqklGPyzs) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [めちゃポップ](https://open.spotify.com/album/7p84GlLOFRtbcK3kxL4t4C) | 3:03 | 2022-05-26 | 2022-07-21 |
 | [もしも](https://open.spotify.com/track/6xjv5IO0w8RI0WxuyLgXTT) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [かけがえなくなりたい](https://open.spotify.com/album/3CXoNGReKnWAudiXJwKALd) | 5:40 | 2022-06-14 | 2022-07-12 |

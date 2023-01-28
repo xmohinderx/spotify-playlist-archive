@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 33046,
+  "num_followers": 33058,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDEwMDk2NywwMDAwMDAwMGFmN2NjNDM5MzNjM2JhYjY5ZWY4ZmZjNDc4ZmU4MDYz",
+  "snapshot_id": "MTY3NDEwMDk2NywwMDAwMDAwMDhhOTI1ZTNhY2VjMTBjN2Y0ODBiNTQzZDhmMjZmODE5",
   "tracks": [
     {
       "added_at": "2023-01-19 04:02:47",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-01-19 04:02:47",
       "album": {
-        "name": "M\u1ea5y D\u1eb7m S\u01a1n Kh\u00ea",
-        "url": "https://open.spotify.com/album/7xR4LqmPZ3KCi8cldhYEh3"
-      },
-      "artists": [
-        {
-          "name": "Kh\u1ea3i \u0110\u0103ng",
-          "url": "https://open.spotify.com/artist/5lRuI7jZMno275jJphvRjg"
-        }
-      ],
-      "duration_ms": 286812,
-      "name": "Phie\u0302n Ga\u0301c \u0110e\u0302m Xua\u0302n",
-      "url": "https://open.spotify.com/track/35Qhuhehq4bUIvphGdj6sC"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
         "name": "Ph\u1eadn t\u01a1 t\u1eb1m",
         "url": "https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 251480,
       "name": "Qua c\u01a1n m\u00ea",
       "url": "https://open.spotify.com/track/1NVYZCxEwpfniJ8Pi3zuZH"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
+        "name": "M\u1ea5y D\u1eb7m S\u01a1n Kh\u00ea",
+        "url": "https://open.spotify.com/album/7xR4LqmPZ3KCi8cldhYEh3"
+      },
+      "artists": [
+        {
+          "name": "Kh\u1ea3i \u0110\u0103ng",
+          "url": "https://open.spotify.com/artist/5lRuI7jZMno275jJphvRjg"
+        }
+      ],
+      "duration_ms": 286812,
+      "name": "Phie\u0302n Ga\u0301c \u0110e\u0302m Xua\u0302n",
+      "url": "https://open.spotify.com/track/35Qhuhehq4bUIvphGdj6sC"
     },
     {
       "added_at": "2023-01-19 04:02:47",

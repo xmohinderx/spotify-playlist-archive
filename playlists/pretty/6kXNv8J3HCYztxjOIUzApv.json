@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 56704,
+  "num_followers": 56698,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MTkwMCxiZjE1NjkxYmIzYzQxMGU4MTQzODE1MjUzZjViM2Q2MGQ4MjkxYmQ1",
+  "snapshot_id": "MTkwNCxhNjA0NTA2NDM1ZTdlMTM2NGRiMGNkN2ZkMDE5YTFkNDM2MmE1NjRk",
   "tracks": [
     {
       "added_at": "2022-06-10 10:45:36",
@@ -23,6 +23,22 @@
       "duration_ms": 256741,
       "name": "Welcome To The Circus",
       "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
+    },
+    {
+      "added_at": "2023-01-27 16:07:55",
+      "album": {
+        "name": "We Will Rock You",
+        "url": "https://open.spotify.com/album/5jPBB8d3UAb8TFwqgVgeGW"
+      },
+      "artists": [
+        {
+          "name": "TEMPT",
+          "url": "https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk"
+        }
+      ],
+      "duration_ms": 156283,
+      "name": "We Will Rock You",
+      "url": "https://open.spotify.com/track/0dXqdq1aF0SgZamXvUAp57"
     },
     {
       "added_at": "2022-09-21 14:25:50",
@@ -1931,6 +1947,38 @@
       "duration_ms": 231480,
       "name": "I Hate Everything About You",
       "url": "https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"
+    },
+    {
+      "added_at": "2023-01-27 16:08:20",
+      "album": {
+        "name": "Evil World Machine (Extended)",
+        "url": "https://open.spotify.com/album/6ok2I9TtRAY9gaHJNUIQpI"
+      },
+      "artists": [
+        {
+          "name": "Crossbone Skully",
+          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+        }
+      ],
+      "duration_ms": 370607,
+      "name": "Evil World Machine - Extended",
+      "url": "https://open.spotify.com/track/2p5Ky0BG9HqB3PoVrxoP5l"
+    },
+    {
+      "added_at": "2023-01-27 16:08:51",
+      "album": {
+        "name": "I Rise",
+        "url": "https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        }
+      ],
+      "duration_ms": 189928,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN"
     }
   ],
   "unique_name": "Hard Rock Workout",

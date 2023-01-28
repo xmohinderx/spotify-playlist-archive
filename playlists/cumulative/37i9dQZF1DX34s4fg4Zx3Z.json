@@ -1965,6 +1965,28 @@
     },
     {
       "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/2p2JmgNL6HGwEhc1ETKYYm"
+      },
+      "artists": [
+        {
+          "name": "MINOUI",
+          "url": "https://open.spotify.com/artist/3FIbYm0qNAn5qyNio58v9F"
+        },
+        {
+          "name": "TIFFI",
+          "url": "https://open.spotify.com/artist/4qaIaZk0BoKpSXdhHBWcpp"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264444,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/24uq1AAOUJpajFPWJNJlcX"
+    },
+    {
+      "album": {
         "name": "Chia Tay Gi\u1ed1ng Nh\u01b0 L\u00e0 (feat. OD)",
         "url": "https://open.spotify.com/album/756vpzygA2YDjzXlFhw3mu"
       },

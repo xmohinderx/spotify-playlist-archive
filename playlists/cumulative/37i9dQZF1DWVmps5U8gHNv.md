@@ -4,7 +4,7 @@
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-173 songs - 10 hr 55 min
+174 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Lullaby](https://open.spotify.com/track/6oVt9GBbquoFDz3VTPFe1e) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Attempted Mustache](https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM) | 2:57 | 2021-08-18 |  |
 | [Lungs](https://open.spotify.com/track/1p3ZBdx6XCXZEu7OoO0zW2) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter](https://open.spotify.com/album/2drUynocyGveMTFheprmJy) | 2:34 | 2021-08-18 | 2022-07-29 |
 | [Lungs \- Live](https://open.spotify.com/track/0gctFhy7ZomaBNuUrFnjrU) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter, Houston, Texas](https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC) | 2:34 | 2022-03-11 |  |
+| [Make You Feel My Love \- Take 1](https://open.spotify.com/track/78fE6GJay1PbThXWGXOnM9) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17 \(Deluxe Edition\)](https://open.spotify.com/album/0qfFt0ItzdJngdYWWxRkub) | 4:10 | 2023-01-27 |  |
 | [Matty Groves](https://open.spotify.com/track/1RU9IjayNNnMibiXKp5Hxs) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [Liege And Lief](https://open.spotify.com/album/1FrW2Bbq6IXkyPM5wznMPD) | 8:08 | 2021-08-18 | 2022-07-29 |
 | [Matty Groves](https://open.spotify.com/track/6PANXCHzEANzajOgtwLMnN) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [Liege And Lief](https://open.spotify.com/album/505zw4fKgpk8HXqyw3BMFq) | 8:09 | 2022-03-11 |  |
 | [Matty Groves](https://open.spotify.com/track/2k512lGXvUnWUvKz9jIlPO) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [Folk Music](https://open.spotify.com/album/7GDONoah42N8bVPTY8G9tK) | 8:10 | 2022-03-11 | 2022-11-13 |

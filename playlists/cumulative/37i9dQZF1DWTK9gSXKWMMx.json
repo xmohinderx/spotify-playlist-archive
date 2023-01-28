@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Blues for Bess",
+        "url": "https://open.spotify.com/album/45yeznjSg2byHkZ5ibBP98"
+      },
+      "artists": [
+        {
+          "name": "Simon Armitage",
+          "url": "https://open.spotify.com/artist/25D5tU7Ij8L6xJZLKf8dL8"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106013,
+      "name": "Blues for Bess",
+      "url": "https://open.spotify.com/track/5bthPT5YTO4dwGN7ED7P4n"
+    },
+    {
+      "album": {
         "name": "Blue-eyed Devil: Solo Blues Piano",
         "url": "https://open.spotify.com/album/6I0OPUCGyx4Y79a93CY5E9"
       },

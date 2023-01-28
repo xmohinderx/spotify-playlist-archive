@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Karina.
 
-279 songs - 16 hr 1 min
+280 songs - 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 | 2022-01-14 |  |
 | [Se me va la voz](https://open.spotify.com/track/59HiyR19EwTWqVfK7owiKj) | [La Silver Chance](https://open.spotify.com/artist/3pt4SBQDDGMWhR1YNakp9Q) | [Se me va la voz](https://open.spotify.com/album/74NsVqIGsWmyRrniZItUFF) | 2:49 | 2022-01-21 | 2022-06-19 |
 | [Se Que Llorarás](https://open.spotify.com/track/1BK2BOFeuMd6RTTn38xzUE) | [Aclamado Amistad](https://open.spotify.com/artist/5kmcANJ07GntkrPxTW8PnW) | [30 Años](https://open.spotify.com/album/4rvvkfhubGwH3mQ3ZHL9S1) | 4:08 | 2022-01-21 | 2022-07-17 |
-| [Se Quedo Sola](https://open.spotify.com/track/5TkS7rZGZockjx4qMW3Y1Q) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Se Quedo Sola](https://open.spotify.com/album/05twB7gDsvKAmCdY5AKJ3a) | 3:15 | 2023-01-20 |  |
+| [Se Quedo Sola](https://open.spotify.com/track/5TkS7rZGZockjx4qMW3Y1Q) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Se Quedo Sola](https://open.spotify.com/album/05twB7gDsvKAmCdY5AKJ3a) | 3:15 | 2023-01-20 | 2023-01-28 |
 | [Será Porque Te Amo](https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Comboloco](https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0) | 3:26 | 2022-01-14 |  |
 | [Session 2: Como Extraño Mi Santiago / al Final del Anden / El Precio de Tu Engaño / Como Le Explico a Mi Corazon](https://open.spotify.com/track/5d1iBPrrCikEU4RQvUxR2z) | [El Suppe'r De Oro](https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya) | [Session 2: Como Extraño Mi Santiago / al Final del Anden / El Precio de Tu Engaño / Como Le Explico a Mi Corazon](https://open.spotify.com/album/3GYz8MHM8lJ7W50fJmdYBm) | 8:02 | 2022-10-06 | 2022-10-29 |
 | [Señora](https://open.spotify.com/track/6n3Cv9PsZ4d12Pz6IXnvPz) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Señora](https://open.spotify.com/album/4hQ4VYg0smShJl3iEY42tI) | 3:38 | 2022-01-21 | 2022-07-17 |
@@ -266,6 +266,7 @@
 | [Vienes y Te Vas](https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Cumbia Sabrosa](https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm) | 4:15 | 2022-01-14 | 2022-07-29 |
 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 | 2022-07-22 |  |
 | [Volver a Vernos](https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Volver a Vernos](https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn) | 2:51 | 2022-01-21 |  |
+| [Voy a Olvidarme de Mi / Y Tu Te Vas](https://open.spotify.com/track/5ZeRjDwpf9WdXl4X66O3Zd) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Voy a Olvidarme de Mi / Y Tu Te Vas](https://open.spotify.com/album/7cjqZBRTDGGwSzZWtybH87) | 4:03 | 2023-01-27 |  |
 | [Ya Fue](https://open.spotify.com/track/4ZG6OIlBkKrSGTUgXyp0l7) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Ya Fue](https://open.spotify.com/album/1qg4HdLx0TOOeQjwFGNfwn) | 2:23 | 2022-03-11 | 2022-04-16 |
 | [Ya Llegó el Sabor](https://open.spotify.com/track/6L7yows5K4HrSZnz3yppeC) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor!!!](https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp) | 3:37 | 2022-01-14 |  |
 | [Ya Me Entere](https://open.spotify.com/track/7IqU3VnEGCta6yVb7peofO) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [Grupo Oxigeno](https://open.spotify.com/artist/6w5pguQ6jVMJJ9f5JkNpUp) | [Ya Me Enteré](https://open.spotify.com/album/2gFnDWTl31Zr4jfQ5qIR12) | 3:33 | 2022-01-14 | 2022-07-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,483 likes - 71 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,515 likes - 71 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 3 | [FDP](https://open.spotify.com/track/3LbPOVdMrVm8yBMDcb5s2F) | [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [FDP](https://open.spotify.com/album/1iLSwd1HT54A9EDI3w2F5F) | 2:15 |
 | 4 | [Na Onda](https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Na Onda](https://open.spotify.com/album/3Vj7xdxkZg832MNCRvongO) | 3:19 |
 | 5 | [Goxtosa](https://open.spotify.com/track/03LFmw80ANXNLZrWQr3pV7) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL) | [Goxtosa](https://open.spotify.com/album/1s9NNte7IjxyTd3p0AYPNo) | 3:02 |
-| 6 | [O Tempo](https://open.spotify.com/track/31oOBluQP0TkfUprY5V1Pg) | [Viped](https://open.spotify.com/artist/6lL3PBXaqTkAznwSvfySSi), [BlackMura](https://open.spotify.com/artist/1CENG2Rr3cDIP6HKNGe7Nd), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [O Tempo](https://open.spotify.com/album/6XhdOkOS1GRBKVwaD5Oxsw) | 2:45 |
+| 6 | [Pirata](https://open.spotify.com/track/3JiiLcWGHzXCkbw8syxFMa) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Donatto](https://open.spotify.com/artist/1bkJTVT0Ar3WmJr3tyUoQs) | [Pirata](https://open.spotify.com/album/4NmljZyRzVZtXSRM3As0M9) | 1:53 |
 | 7 | [Meu Lado da História](https://open.spotify.com/track/08LiZsFrLkWYtd20jeqWLh) | [Nandx710](https://open.spotify.com/artist/6Kk3DH8cxWFrTq9ajqck22), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [David Gomes](https://open.spotify.com/artist/16hlg6k7mG0fnOOWxVBmuV) | [Meu Lado da História](https://open.spotify.com/album/5mWCIurXAUfxn3e0K9WX4T) | 2:31 |
 | 8 | [Chá Na Manhã](https://open.spotify.com/track/6V7RkFPhutCifuczPssKls) | [Saint Rnb](https://open.spotify.com/artist/47ah2Gtvo0KX6Ce0H9EuX0) | [Chá Na Manhã](https://open.spotify.com/album/6MFbhRUqBUHqzzKdVPFsPQ) | 2:51 |
 | 9 | [Geme Bem Baixinho](https://open.spotify.com/track/1h6wqa0AMxKa6PV2ThkLTB) | [Dj Cabide](https://open.spotify.com/artist/6liy2XyeKhIfj6dfSG1gCu), [PVHITS](https://open.spotify.com/artist/3HokfPZXqlOaKtLrCWz0gb), [Dj Loss do Beats](https://open.spotify.com/artist/3oS0fqfhdaLVQQOTD3h4QM), [Maluquinho MC](https://open.spotify.com/artist/0tYzpCJctHZkPgERNrtsTU), [Jot47](https://open.spotify.com/artist/07B30fHpngAiyRth22iJ9L) | [Geme Bem Baixinho](https://open.spotify.com/album/3PiRz1OXROF3gIBOQCYpHi) | 3:12 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 70 | [Linda e Solitária](https://open.spotify.com/track/4GzKyE021uEcLuklCSUzEA) | [Camaradas Camarão](https://open.spotify.com/artist/5tDe323KtgqFfze1MzLR7z), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h), [Gabriel Sten](https://open.spotify.com/artist/5voSO4poDCRjQzKgMuCTWM), [Córtex Cam Cam](https://open.spotify.com/artist/7wqJ4b9MuDGAIVQjzAsiIe) | [Linda e Solitária](https://open.spotify.com/album/2C32Ywnk9I74RFHPKSK6z1) | 2:50 |
 | 71 | [Sereia](https://open.spotify.com/track/2SNYcKYSuKoQLvdLPvWJgQ) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Sereia](https://open.spotify.com/album/1xm2lmJXFM3DPiOOqJYozn) | 3:36 |
 
-Snapshot ID: `MTY3MjQ1NTY2MCwwMDAwMDAwMDExNGU0M2U2MGQ2ODA2ZGFhMGMwZmQ1YzdmYjhjNzAx`
+Snapshot ID: `MTY3NDc4ODQ2MCwwMDAwMDAwMGVmYmVjNmVjYWQ4MDQ4MDRmNTNmYTM2NzRiZWM1Y2Zj`

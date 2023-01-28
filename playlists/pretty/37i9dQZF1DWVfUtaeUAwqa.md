@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 
 > Dixieland, Chicago Style and upbeat traditional jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,810 likes - 55 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,813 likes - 55 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 15 | [Walkin' The Dog](https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL) | [Edmond Hall](https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc) | [Jazz Foundations Vol\. 25](https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn) | 4:34 |
 | 16 | [Frankie & Johnny](https://open.spotify.com/track/7iYvxt7QPOdaH4TQ0IIVx2) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [That's A Plenty](https://open.spotify.com/album/2QNvebWOK7Zie6rKYoEeEx) | 3:47 |
 | 17 | [Struttin' with Some Barbecue \- 78 rpm Version](https://open.spotify.com/track/43QRJNdGe4GaO0ucHHQnmS) | [Louis Armstrong & His Hot Five](https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S) | [The Complete Hot Five And Hot Seven Recordings Volume 2](https://open.spotify.com/album/4Z1EQzuuYPnPR9yWjKA13v) | 3:03 |
-| 18 | [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/7Mk3l9pfGuMdEe0joNtAMH) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [New Orleans Preservation, Vol\. 1](https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd) | 4:26 |
+| 18 | [Maple Leaf Rag](https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf) | [Sidney Bechet and his New Orleans Feetwarmers](https://open.spotify.com/artist/4j5ECARHCq8ahpuWM97KS5) | [The Essential Sidney Bechet](https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA) | 2:53 |
 | 19 | [When My Sugar Walks Down The Street](https://open.spotify.com/track/778SCkNfo4MyNQyB4H0fXb) | [Turk Murphy](https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM) | [Favorites](https://open.spotify.com/album/5lfNvNliTVmnEAexxSRrES) | 2:44 |
-| 20 | [Maple Leaf Rag](https://open.spotify.com/track/5PvZnmisDEydYlU9x3bcsf) | [Sidney Bechet and his New Orleans Feetwarmers](https://open.spotify.com/artist/4j5ECARHCq8ahpuWM97KS5) | [The Essential Sidney Bechet](https://open.spotify.com/album/7mmPRVlBSFQDyNVQ5B5ZZA) | 2:53 |
+| 20 | [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/7Mk3l9pfGuMdEe0joNtAMH) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [New Orleans Preservation, Vol\. 1](https://open.spotify.com/album/7z3Dd0P3mcGlbzTXDtfznd) | 4:26 |
 | 21 | [Livery Stable Blues \(Barnyard Blues\)](https://open.spotify.com/track/6xoBzYhLzG3yBgDbmD0rwn) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 3:01 |
 | 22 | [Ballin' The Jack](https://open.spotify.com/track/0OIXJIZoivHSpq4jx3tnyc) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [The Fabulous Sidney Bechet](https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS) | 3:52 |
 | 23 | [Weary Blues](https://open.spotify.com/track/5JIgEWZSaNihYemgrgahUQ) | [Sidney Bechet's Blue Note Jazzmen](https://open.spotify.com/artist/2XouUSO0EAJ9gMMoHiXqMt) | [Triple Best Of](https://open.spotify.com/album/4iS0EsQTDJlfVGf34DWKSY) | 2:53 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfUtaeUAwqa.md) - [plain]
 | 54 | [Washington Post March](https://open.spotify.com/track/0HAyFITVG4G4X5RBhAxw2Q) | [Pete Fountain and The Kings Of Dixieland](https://open.spotify.com/artist/4DiuBrdftGJabfEaPk45So) | [The Best Of Dixieland Volume 1](https://open.spotify.com/album/4uuTStbaZ9PvYt5wHphSb4) | 3:12 |
 | 55 | [Dixie](https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP) | [Billy Randolph](https://open.spotify.com/artist/4IvbXrHdpe72uSWCiSNmwF), [The High Hatters](https://open.spotify.com/artist/5hN2J1W9B0ivOUjdUl656u) | [Roaring' 20's](https://open.spotify.com/album/6yGyFKhtYmeatToldl421e) | 3:02 |
 
-Snapshot ID: `MTU5NzkyNzAwMiwwMDAwMDAwMDJkNzRlYzAzMTg1ZjQ1ZDliZWY3MWNjYWNkMmVmMDFl`
+Snapshot ID: `MTU5NzkyNzAwMiwwMDAwMDAwMGY2Mzg1ZDExNDRmNmMzMmUxZjc3ODAwZmI1MTJjMmNj`

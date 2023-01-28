@@ -1,12 +1,12 @@
 {
   "description": "Listen to the women of the world at full volume. Cover: NewJeans",
-  "num_followers": 859963,
+  "num_followers": 859931,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzUzMzk1NywwMDAwMDAwMDJhYTI0OGRhMjVjNjRmZmE1NmYyMDIyZGQ4Njg0YTEz",
+  "snapshot_id": "MTY3MzUzMzk1NywwMDAwMDAwMDg2M2FiY2VmMmI0NDJhMjc5OTM0ZGNhM2RjMzE1Zjk0",
   "tracks": [
     {
       "added_at": "2023-01-12 14:32:37",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-01-12 14:32:37",
       "album": {
+        "name": "criminal",
+        "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 157186,
+      "name": "criminal",
+      "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
+    },
+    {
+      "added_at": "2023-01-12 14:32:37",
+      "album": {
         "name": "W pe\u0142ni",
         "url": "https://open.spotify.com/album/10JDesyKB1eLBIvYQQiTvr"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 240000,
       "name": "W pe\u0142ni",
       "url": "https://open.spotify.com/track/3GGXj9c5D5JlxFEls441Co"
-    },
-    {
-      "added_at": "2023-01-12 14:32:37",
-      "album": {
-        "name": "criminal",
-        "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "criminal",
-      "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
     },
     {
       "added_at": "2023-01-12 14:32:37",

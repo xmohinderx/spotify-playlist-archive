@@ -4,7 +4,7 @@
 
 > welcome to the Golden State.
 
-143 songs - 9 hr 11 min
+144 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,8 @@
 | [City Of Angels](https://open.spotify.com/track/1dUU2RYiMZ9HCk6CB9Akup) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [LOVE LUST FAITH + DREAMS](https://open.spotify.com/album/4JbJCZWuB0iuCZZt8ZISih) | 5:02 | 2022-02-04 | 2022-12-15 |
 | [City Of Angels](https://open.spotify.com/track/5X3idhF42DgoGVn7zgCNQi) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [LOVE LUST FAITH + DREAMS](https://open.spotify.com/album/6sLmmgVGbD9F77ullf692G) | 5:02 | 2018-09-09 | 2022-07-29 |
 | [City Of Angels](https://open.spotify.com/track/7aJSHjkKtBZ17nzBHxW8aS) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Love Lust Faith + Dreams](https://open.spotify.com/album/4LPQ70q8ZU6RxDauc4ZPzC) | 5:02 | 2022-02-04 | 2022-11-13 |
-| [Dani California](https://open.spotify.com/track/6vODhpvfWwdsO0i9MBWnEq) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Dani California](https://open.spotify.com/album/3rrvHWzZCF8TvqT9oJtfVZ) | 4:42 | 2018-09-09 | 2022-12-15 |
-| [Doesn't Remind Me](https://open.spotify.com/track/0o995gJCGebaza0LWybToU) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU) | 4:15 | 2022-02-04 |  |
+| [Dani California](https://open.spotify.com/track/6vODhpvfWwdsO0i9MBWnEq) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Dani California](https://open.spotify.com/album/3rrvHWzZCF8TvqT9oJtfVZ) | 4:42 | 2018-09-09 |  |
+| [Doesn't Remind Me](https://open.spotify.com/track/0o995gJCGebaza0LWybToU) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU) | 4:15 | 2022-02-04 | 2023-01-28 |
 | [Doesn't Remind Me](https://open.spotify.com/track/2xVTJylqgOdEX7auZ0xLn9) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/7hmAnyHf8NAnqb7cqLT04t) | 4:15 | 2018-09-09 | 2022-07-29 |
 | [Doesn't Remind Me](https://open.spotify.com/track/5zwqYAwdWnkGkK4q5gqF13) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Chris Cornell \(Deluxe Edition\)](https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe) | 4:15 | 2022-02-04 | 2022-11-13 |
 | [Don't Speak](https://open.spotify.com/track/2PjtdDyljTiFgbkeZzbDgk) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Summertime Rock Hits 2022](https://open.spotify.com/album/7tM9PjqbU8lTZq6hVBszRc) | 4:22 | 2022-02-04 | 2022-11-13 |
@@ -112,6 +112,7 @@
 | [Pretty Fly \(For A White Guy\)](https://open.spotify.com/track/5GfODWz3koqE1fZBY1pz00) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Esenciales Rock Alternativo](https://open.spotify.com/album/6lWNLZsZZD8BQA8LkOMnfj) | 3:08 | 2022-02-04 | 2022-11-13 |
 | [Pretty Fly \(For A White Guy\)](https://open.spotify.com/track/3SFXsFpeGmBTtQvKiwYMDA) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:08 | 2022-02-04 |  |
 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 | 2018-09-09 |  |
+| [Regret Me](https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Regret Me](https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA) | 3:16 | 2023-01-27 |  |
 | [Saints of Los Angeles](https://open.spotify.com/track/3X9dVZIEva7gODLCk3csnc) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Saints of Los Angeles](https://open.spotify.com/album/10fAGbgRYyt8gMk5QyPPXn) | 3:22 | 2022-02-04 | 2022-12-15 |
 | [Saints of Los Angeles](https://open.spotify.com/track/4pruGLEd2plhfOmusGTGdq) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Saints of Los Angeles](https://open.spotify.com/album/1szPcdrUkYLmzFAtzt671u) | 3:22 | 2018-09-09 | 2022-07-29 |
 | [Santeria](https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 3:02 | 2022-02-04 |  |
@@ -137,7 +138,7 @@
 | [The Reason](https://open.spotify.com/track/74djJ3HPL69yVpZY6OZ4ex) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Deja Vu Songs](https://open.spotify.com/album/4Jc7aKFaAmBZ6ju7YFUjwI) | 3:52 | 2022-02-04 | 2022-11-13 |
 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 | 2022-02-04 |  |
 | [The Reason](https://open.spotify.com/track/7afSN5zhUhkbpRFpYKYztK) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason](https://open.spotify.com/album/7vTkGDm4harI3j80FSvr2p) | 3:52 | 2018-09-09 | 2022-07-29 |
-| [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 | 2022-12-14 |  |
+| [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 | 2022-12-14 | 2023-01-28 |
 | [Walkin' On The Sun](https://open.spotify.com/track/1m2EwoCsZlX5JauNr9O4zk) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Smash Mouth \(International Version\)](https://open.spotify.com/album/54E5K2EKljAOlJosBJsuUH) | 3:25 | 2018-09-09 | 2022-07-29 |
 | [Walkin' On The Sun](https://open.spotify.com/track/3P3NBf262SIiz6fU9bKWFY) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Hiturile verii](https://open.spotify.com/album/1mnlBQ3d1FZthvaapUlx72) | 3:27 | 2022-02-04 | 2022-11-13 |
 | [Walkin' On The Sun](https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Fush Yu Mang \(20th Anniversary Edition\)](https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt) | 3:27 | 2022-02-04 |  |

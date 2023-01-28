@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Discover the newest Hardstyle tracks\. Cover: D\-Sturb & Act of Rage & Nolz
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,652 likes - 110 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,833 likes - 110 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

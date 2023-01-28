@@ -355,6 +355,28 @@
     },
     {
       "album": {
+        "name": "\u0627\u0631\u062d\u0628\u0648\u0627 \u0641\u064a \u0645\u062d\u0627\u0641\u0644\u0646\u0627",
+        "url": "https://open.spotify.com/album/1aWnu4kphrgnc6VCmk9Mqc"
+      },
+      "artists": [
+        {
+          "name": "\u063a\u0631\u064a\u0628 \u0627\u0644 \u0645\u062e\u0644\u0635",
+          "url": "https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep"
+        },
+        {
+          "name": "Abdullah Al Mukhles",
+          "url": "https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294841,
+      "name": "\u0627\u0631\u062d\u0628\u0648\u0627 \u0641\u064a \u0645\u062d\u0627\u0641\u0644\u0646\u0627",
+      "url": "https://open.spotify.com/track/2a1pjwjBwXjRKtbcxB43t0"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u0627 \u064a\u0627\u0643\u0628\u0631 \u062d\u0638\u064a",
         "url": "https://open.spotify.com/album/18lBGe0MHzFRISPPSUkGr8"
       },

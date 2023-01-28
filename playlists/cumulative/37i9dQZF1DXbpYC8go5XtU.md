@@ -4,10 +4,11 @@
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-184 songs - 14 hr 56 min
+187 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Delightful Music Textures For Sleeping\)](https://open.spotify.com/track/3n0zXFGAE9WY3fVdVX4gX0) | [Medicine Music](https://open.spotify.com/artist/5t7xC9DNiemIbOpo1GP10J) | [TWILIGHT \(Delightful Music Textures For Sleeping\)](https://open.spotify.com/album/3PvNMCFPpwBhgCgKRk0IB2) | 1:11 | 2023-01-27 |  |
 | [396 Hz \(Es tu cuerpo el que sana\)](https://open.spotify.com/track/7ALzj3tv8cflVcn9qmvkmR) | [Ezequiel Calvo](https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K) | [396 Hz \(Es tu cuerpo el que sana\)](https://open.spotify.com/album/2oT4L9Cq2n1sXtOR2VmLV2) | 3:44 | 2022-09-30 |  |
 | [A Green Awakening](https://open.spotify.com/track/6cCUbHnO3d48zNbJBlPOMY) | [Gallery Six](https://open.spotify.com/artist/1rbPYgBG7xEiwzLzg009Y3) | [Wind Colors](https://open.spotify.com/album/5NKep1P7MmurjX0HbfuRZ0) | 5:44 | 2022-08-17 |  |
 | [Amayadori](https://open.spotify.com/track/22FIQx73AmjHLpUhkgdswZ) | [Atelier Pink Noise](https://open.spotify.com/artist/5h2W45T8yqbr65AL273Ikp) | [Fragmentary](https://open.spotify.com/album/77dDhKqacxTQBz9womkmbY) | 8:20 | 2021-12-22 |  |
@@ -15,6 +16,7 @@
 | [Aru](https://open.spotify.com/track/3imnDatPTaEg1Y1SuBlvEs) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Hibi](https://open.spotify.com/album/2ilbAhaYpdlFGe5e3FzRhS) | 2:46 | 2021-12-22 |  |
 | [Ashore](https://open.spotify.com/track/7okAPL9Qoj88byNDbuIjiV) | [Ebauche](https://open.spotify.com/artist/5n0eez6NwUmuLTn2AwA0i3) | [Adrift](https://open.spotify.com/album/19jaJ8g4HUynwp0fREHFe4) | 9:20 | 2021-12-22 |  |
 | [Assured](https://open.spotify.com/track/2yUD0XuUPhhM3l3M6if6Jh) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Headwaters](https://open.spotify.com/album/4zw3XeZ8dDXuUDcd1flLtl) | 7:23 | 2022-11-11 |  |
+| [Awake \(Delightful Music Textures For Sleeping\)](https://open.spotify.com/track/5e62DsPlpwc649qy7yOvhd) | [Medicine Music](https://open.spotify.com/artist/5t7xC9DNiemIbOpo1GP10J) | [ODYSSEY \(Delightful Music Textures For Sleeping\)](https://open.spotify.com/album/6TmyNcxtcISn5tne5TDh2Q) | 1:25 | 2023-01-27 |  |
 | [Ballad of a Sleepless Traveler](https://open.spotify.com/track/1o5IIGHsAPrOcehvvfmP7K) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Ballad of a Sleepless Traveler](https://open.spotify.com/album/0lk0cAw5RSaFwEbEJrnxoT) | 3:37 | 2022-05-25 |  |
 | [beautiful soundscape \- Spa Edit](https://open.spotify.com/track/6w9GkQiwwzCv9N1LXeyBds) | [RELAX WORLD](https://open.spotify.com/artist/4lqbWKnNx21gjvmC7k3NSx) | [beautiful soundscape \(Spa Edit\)](https://open.spotify.com/album/0vr9IDaXieLwJeEmn1RQxV) | 3:24 | 2021-12-22 |  |
 | [Bee](https://open.spotify.com/track/0G36xXARmnPKGTAbEsaliO) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [The Garden](https://open.spotify.com/album/2bJ0Z7NdzjwXnTAEMtsZy4) | 7:04 | 2021-12-22 | 2022-07-09 |
@@ -56,6 +58,7 @@
 | [Ganymede](https://open.spotify.com/track/2snq413hKWoZCGibTNYIEj) | [Science Of Sleeping](https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Ganymede](https://open.spotify.com/album/3LeVCs4kXif1GeXCG5n2g9) | 5:15 | 2022-12-20 |  |
 | [Genesis](https://open.spotify.com/track/6rFpQZLHq1fpJniWSTPlTz) | [Robert Bearns](https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM), [Ron Dexter](https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN) | [The Best of the Golden Voyage](https://open.spotify.com/album/7Au1hECfa7KYdNQwbVQENf) | 5:16 | 2021-12-22 |  |
 | [Giant Kingfisher of Paradise \- Ocean Moon Mix](https://open.spotify.com/track/32aMjeKuW4OG4I0njiw0GA) | [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O), [Ocean Moon](https://open.spotify.com/artist/7l4JMi6fmKNBeaZ6jQTgge) | [Spaciousness 2](https://open.spotify.com/album/3WWmQhssf94uOJ1Kb2ntFw) | 5:17 | 2022-09-20 |  |
+| [Gratitude](https://open.spotify.com/track/4c2dCtOeRP65beV5AVvtNN) | [Foli](https://open.spotify.com/artist/2HdDpDCP2RQVHQhG5Kc09Q) | [Gratitude](https://open.spotify.com/album/2p6sMCS5Z627insj7jRDcH) | 2:11 | 2023-01-27 |  |
 | [H2O FRM Faucet](https://open.spotify.com/track/0j9EP5hsbpkPqLAmJc3nG5) | [夕方の犬\(U ・ェ・\)](https://open.spotify.com/artist/6GkFLYRT7Q2qU4kEnNsytR) | [mb\_s\_4\_ch](https://open.spotify.com/album/4lHznF2gzbSmLxQCf511SY) | 4:39 | 2022-07-08 | 2022-08-13 |
 | [H2O FRM Faucet](https://open.spotify.com/track/7xug23Y2R1XliELQ5a8jv6) | [夕方の犬\(U ・ェ・\)](https://open.spotify.com/artist/6GkFLYRT7Q2qU4kEnNsytR) | [mb\_s\_4\_ch](https://open.spotify.com/album/0redlBmPu1BWruATZuidTV) | 4:39 | 2021-12-22 | 2022-07-29 |
 | [Hayama Ambient 034](https://open.spotify.com/track/6ucVMSqO3QHvvBNMPOnCch) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Hayama Ambient 034](https://open.spotify.com/album/3BYHi87dcmiYFiCMbaDcoj) | 2:19 | 2021-12-22 |  |
@@ -111,7 +114,7 @@
 | [Praying For Mother / Earth, Pt\. 1](https://open.spotify.com/track/34AmO1eE0L5aOdAVRFhv1G) | [Akira Ito](https://open.spotify.com/artist/6AuRHPIlYDhz1UA0GOkhjm) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:13 | 2021-12-22 |  |
 | [Primitive Associations/Great Mass Above](https://open.spotify.com/track/106ijoJLCBU8fhosegfx1x) | [Growing](https://open.spotify.com/artist/57SlFijfkLdoiN09FSueTI) | [The Soul of the Rainbow and the Harmony of Light](https://open.spotify.com/album/2JSUhFkv27CejriQWOzF88) | 12:35 | 2021-12-22 |  |
 | [Puddle](https://open.spotify.com/track/6n2mvV2UE8yfIGl5TlqOF5) | [Yuichiro Fujimoto](https://open.spotify.com/artist/2P0IReI87eMGenUXZjnnAP) | [Speaks Melodies](https://open.spotify.com/album/4SmlzePYPZdnOgDnVnk3P8) | 3:19 | 2021-12-22 |  |
-| [Quiet Planigale](https://open.spotify.com/track/0tiTaaVv7xUVMR8W9NtwZl) | [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [2 \| Favourite Places](https://open.spotify.com/album/0fTqNmy4y8aS2a0EatQN8x) | 7:24 | 2021-12-22 |  |
+| [Quiet Planigale](https://open.spotify.com/track/0tiTaaVv7xUVMR8W9NtwZl) | [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [2 \| Favourite Places](https://open.spotify.com/album/0fTqNmy4y8aS2a0EatQN8x) | 7:24 | 2021-12-22 | 2023-01-28 |
 | [Quiet Stream](https://open.spotify.com/track/2Rv0fVIawPogTWGxovvvlq) | [Adam Bokesch](https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI), [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Quiet Stream](https://open.spotify.com/album/7uv0Z9Er9ZKdCtPYQ6xRP4) | 4:24 | 2021-12-22 |  |
 | [Rain](https://open.spotify.com/track/2rqSKSAEVthsDyuZObnQY4) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Music for Living Spaces](https://open.spotify.com/album/1wO5nsIQP1vDzJShd7BLgk) | 5:15 | 2021-12-22 |  |
 | [Rain on Ancient Quays](https://open.spotify.com/track/0Z3P1D74QwnOiAqGA9Rh9m) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/5DHqPXz2CqfjzynPDQACSw) | 7:23 | 2021-12-22 | 2022-07-29 |

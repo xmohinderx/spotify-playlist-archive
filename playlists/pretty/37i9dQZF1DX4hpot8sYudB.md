@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,639 likes - 243 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,951 likes - 243 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 | 102 | [Brown Noise \- 500 Hz \- Cutoff](https://open.spotify.com/track/1a1FejtHrHiz2b3DY6mwCn) | [Ambient Sample Library](https://open.spotify.com/artist/6PNnYUWwNZssn13ObbsqrC) | [Ambient Brown Noise](https://open.spotify.com/album/2eX4QLxSoYBh4ODULeluhE) | 2:17 |
 | 103 | [Focus Waves](https://open.spotify.com/track/5IC2VShFePhSPFwZGjAfkj) | [Amelia Grey](https://open.spotify.com/artist/7wHdo2ARw22e933IOeebSY) | [System of the Brown](https://open.spotify.com/album/0vyY0jEYilQXGR4Et3EcAc) | 3:07 |
 | 104 | [Brrrrrrown Noise](https://open.spotify.com/track/3tDpRViGFroXtUMxOD3bQe) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Brrrrrrown Noise](https://open.spotify.com/album/69tf7jLwu76vZVmVCSja2B) | 3:55 |
-| 105 | [Lo\-Air 200 Hz](https://open.spotify.com/track/0ugO16i5v9dKCO5g5S5itQ) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
+| 105 | [Lo\-Air 200 Hz](https://open.spotify.com/track/0ugO16i5v9dKCO5g5S5itQ) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
 | 106 | [Brown Noise Calm](https://open.spotify.com/track/2qs40c5Ja7KKp6KTXeSvXo) | [ULXI](https://open.spotify.com/artist/4BEynIaDkgnXy4tS0v0DQU) | [Brown Noise Calm](https://open.spotify.com/album/5Oab92us7Xu7CeVxkwGKPt) | 3:40 |
 | 107 | [Brown Noise Hush](https://open.spotify.com/track/05lEyUhKBZ8xzRR4o0KeBo) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Brown Noise Sounds of Space](https://open.spotify.com/album/1qVlq3BIklC1Ej0V9xuvHq) | 2:40 |
 | 108 | [Calm and Steady Brown Noise](https://open.spotify.com/track/0yeaaO4hzuiufuGIeuVCVK) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Steady Brown Noise Sounds](https://open.spotify.com/album/10TlukHJ5eYF7eftTzFi4D) | 3:16 |
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 | 120 | [Calm Sleep Brown Noise](https://open.spotify.com/track/0hAusEhNHzVaJGM6V42YQO) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Dozy Sleepy Brown Noise](https://open.spotify.com/album/3yG3Q1PkA0htvE9eUergkh) | 3:24 |
 | 121 | [Dark Brown Noise 165 Hz F](https://open.spotify.com/track/00gU2jShkz0Eb2TyYDNHc1) | [Trambiendo](https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV) | [Ocean Dark](https://open.spotify.com/album/7qyRUKT0JWlQaYPiyU0Iad) | 2:54 |
 | 122 | [Brown Serene Noise](https://open.spotify.com/track/2dInowJMBWTf85Et1NRyvZ) | [Luke Andersson](https://open.spotify.com/artist/5aFhL9biVJqgXPKDvQyTFc) | [Brown Serene Noise](https://open.spotify.com/album/1JUDFLZrPlt4H3k70nuFTR) | 3:09 |
-| 123 | [Flowing Brown Noise](https://open.spotify.com/track/5ag378877iTMpPf8W4c2WC) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
+| 123 | [Flowing Brown Noise](https://open.spotify.com/track/5ag378877iTMpPf8W4c2WC) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
 | 124 | [Brown Bliss 190 Hz](https://open.spotify.com/track/1ziJYQN5A3QNvkAhWw31Do) | [Ambient Newton](https://open.spotify.com/artist/6TalusfpNttE4ezxrf9VeF) | [Brown Bliss](https://open.spotify.com/album/1SO6AHP2ZWkkfvxuEoDT78) | 3:01 |
 | 125 | [First Class Seat](https://open.spotify.com/track/6l6SGS4smW8UPk2KHAgUCB) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Brown Noise Relaxation](https://open.spotify.com/album/4ojM7wSFWCJPwlu52CTzLc) | 2:30 |
 | 126 | [Brown Noise Baby Crib](https://open.spotify.com/track/0U6KGlGtsX76wAUrLAklvO) | [The Frequency Shifters](https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ) | [Brown Noise in the Moonlight](https://open.spotify.com/album/2LQ5f41UEezACirWRwVDxQ) | 3:41 |

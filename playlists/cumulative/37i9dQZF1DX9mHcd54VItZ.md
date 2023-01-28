@@ -4,7 +4,7 @@
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn?si=WI34bLehT3a9D6VNTzXWCw">Spoegwolf</a>
 
-179 songs - 10 hr 39 min
+180 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Fight Song for a Funeral](https://open.spotify.com/track/1RDxGpz9HVRfhc966hUCa2) | [Jake Bennett](https://open.spotify.com/artist/3chSPsmCBrOXJXD4o86p5Y) | [Fight Songs for a Funeral](https://open.spotify.com/album/7z250E9LHwElD5B7DmbZNN) | 2:41 | 2021-11-25 | 2022-05-27 |
 | [Flashlight](https://open.spotify.com/track/4Wyp39FezkRqfmm1m862ve) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Flashlight](https://open.spotify.com/album/6GfNLxzDAHsoYuVBylzslj) | 2:37 | 2021-07-01 | 2022-11-18 |
 | [For You](https://open.spotify.com/track/4MVv8yUbBY2ISaZnCXSp1c) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [For You](https://open.spotify.com/album/3gsHYTOr6ItG0LhHhj6S4J) | 3:34 | 2021-06-10 | 2022-03-04 |
-| [Get Over Here](https://open.spotify.com/track/6DuZOFGc4LBr0HSbbd03q3) | [Aimee deBeer](https://open.spotify.com/artist/3c3FUUJYZOv8Le1htg2Gl6) | [Get Over Here](https://open.spotify.com/album/23aiLlsImhhiuCfYGcBpfC) | 3:16 | 2022-05-26 |  |
+| [Get Over Here](https://open.spotify.com/track/4hOMIOJ0aQCFDv14JMFNva) | [Aimee deBeer](https://open.spotify.com/artist/3c3FUUJYZOv8Le1htg2Gl6) | [Get Over Here](https://open.spotify.com/album/26wwYmk7xmAl7YaTNZjhQ8) | 3:16 | 2022-05-26 |  |
+| [Get Over Here](https://open.spotify.com/track/6DuZOFGc4LBr0HSbbd03q3) | [Aimee deBeer](https://open.spotify.com/artist/3c3FUUJYZOv8Le1htg2Gl6) | [Get Over Here](https://open.spotify.com/album/23aiLlsImhhiuCfYGcBpfC) | 3:16 | 2022-05-26 | 2023-01-28 |
 | [Gimme Love](https://open.spotify.com/track/4LSR4g2XMq2jbZtYUxhbUo) | [Kahn Morbee](https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF) | [A World at Suicide](https://open.spotify.com/album/1qxiiW0tmFS9RtARMdxXXe) | 3:33 | 2021-10-07 | 2022-08-05 |
 | [Gods Gift](https://open.spotify.com/track/5APaebgO8j2iv9948t0s4N) | [Beyond Rebellion](https://open.spotify.com/artist/4Xl49RTIZKi3DYvoC1AkXe) | [Gods Gift](https://open.spotify.com/album/2gQmIomnl7SgDVZyvqxMBi) | 3:16 | 2022-11-17 |  |
 | [Hartseer Freaks](https://open.spotify.com/track/0QkQXlKStGokMoWhngW99p) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Hunter Kennedy](https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 3:25 | 2022-12-01 | 2022-12-09 |

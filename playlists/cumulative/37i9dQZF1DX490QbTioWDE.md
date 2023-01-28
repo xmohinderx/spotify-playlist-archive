@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Ke Personajes & La K'onga.
 
-291 songs - 19 hr 11 min
+292 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Olvídala](https://open.spotify.com/track/0oKnBeVWVaopXk9YZgrd2T) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Únicos](https://open.spotify.com/album/3703IuXxRRdEYSgBUeBljK) | 4:39 | 2021-12-24 | 2022-07-29 |
 | [Olvídala](https://open.spotify.com/track/6XYPVrlhjJOTL1w2fHUwbF) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Olvídala](https://open.spotify.com/album/4YKhwSpRVhd9WpK60HjIoa) | 3:27 | 2022-03-25 | 2022-05-21 |
 | [Olvídate \(Remix\)](https://open.spotify.com/track/13MMOQ8Z8nAasSKchrfVJA) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Olvídate \(Remix\)](https://open.spotify.com/album/3I41vJoi2TDLxfGFfHLmFJ) | 3:19 | 2022-09-09 | 2022-12-08 |
-| [Olvídate \- Cuarteto](https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Olvídate \(Cuarteto\)](https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt) | 4:26 | 2022-12-02 |  |
+| [Olvídate \- Cuarteto](https://open.spotify.com/track/1864fBWaqndH7DsyVSoy4Z) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Olvídate \(Cuarteto\)](https://open.spotify.com/album/05jHCZbu7vdaO6QX1nLqQt) | 4:26 | 2022-12-02 | 2023-01-28 |
 | [Otra Noche en LA](https://open.spotify.com/track/5qKJOAB9DEq4GrdFjyi4Cq) | [La Groza](https://open.spotify.com/artist/54yxNOqC1kt6hM34wpNKtL) | [Otra Noche en LA](https://open.spotify.com/album/2MzORjyPqWHy5jjNcepwsv) | 4:09 | 2022-02-18 | 2022-07-12 |
 | [Paloma loca](https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 3:13 | 2021-12-24 |  |
 | [Payaso \- En Vivo](https://open.spotify.com/track/6Fr3387z9p0IP08Fw1yxtV) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Payaso \(En Vivo\)](https://open.spotify.com/album/2oMloTN3HaUffg1o2VzyyV) | 3:29 | 2022-04-29 | 2022-07-11 |
@@ -255,6 +255,7 @@
 | [Te Pido Perdon](https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 3:06 | 2022-07-22 |  |
 | [Te pido que la dejes](https://open.spotify.com/track/0cH2nR2ISmkLVW7e7ogTYw) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Inigualable](https://open.spotify.com/album/1Yq5RNlCkTE1sygpnEstl9) | 4:43 | 2021-12-24 |  |
 | [Tengo que calmarme](https://open.spotify.com/track/6WAwZasg23YWWloNJ24e2S) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Universo Paralelo](https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2) | 2:57 | 2021-12-24 | 2022-07-29 |
+| [Tiburona](https://open.spotify.com/track/5vvVGXpdev0tp8fFP5uCj1) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Tiburona](https://open.spotify.com/album/7EKTg91qlDQ6kctAx4vRVw) | 3:33 | 2023-01-27 |  |
 | [Tinta China \- En Vivo](https://open.spotify.com/track/3ykGF7ztZ1Ij37QQluEwb5) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [La Magia de La Mona \(En Vivo '92\)](https://open.spotify.com/album/0ZfDwnnPHU8GHUZ7GhVcY2) | 3:20 | 2021-12-24 | 2022-07-24 |
 | [Tiroteo](https://open.spotify.com/track/1tBVgpPIp4JzLwsQwefgn9) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Tiroteo](https://open.spotify.com/album/1PUQVzxwTvCy6nk1fhCSEi) | 3:04 | 2022-08-12 | 2022-08-27 |
 | [Todo de Ti](https://open.spotify.com/track/5lB6Mw0tzPPuMSNW4ugVtV) | [Pablo David Ortíz](https://open.spotify.com/artist/3EC3hWUFF9Z9aLweuY5Zrm), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Todo de Ti](https://open.spotify.com/album/49msWjpNAw9RtfCuh6nBnB) | 2:52 | 2022-02-18 | 2022-07-12 |

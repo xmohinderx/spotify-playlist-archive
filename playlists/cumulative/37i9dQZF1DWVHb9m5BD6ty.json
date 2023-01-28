@@ -1128,10 +1128,28 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 221615,
       "name": "Need Nobody",
       "url": "https://open.spotify.com/track/1fbFNdqWWftOcG7X55Ywxa"
+    },
+    {
+      "album": {
+        "name": "Need Nobody",
+        "url": "https://open.spotify.com/album/5MI7Q5CoTcCRQmRKbrqlFb"
+      },
+      "artists": [
+        {
+          "name": "BoyW1DR",
+          "url": "https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221615,
+      "name": "Need Nobody",
+      "url": "https://open.spotify.com/track/7kUDVLWuiEjQuFLAkPKDs8"
     },
     {
       "album": {

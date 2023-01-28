@@ -2,7 +2,7 @@
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Izykite \(이지카이트\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Sion \(시온\)\)
 
 160 songs - 9 hr 9 min
 

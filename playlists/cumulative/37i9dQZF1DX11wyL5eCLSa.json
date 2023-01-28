@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Cuchillos",
+        "url": "https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162719,
+      "name": "Cuchillos",
+      "url": "https://open.spotify.com/track/4vEutziRAYewCT97ziq48J"
+    },
+    {
+      "album": {
         "name": "Estar Bien",
         "url": "https://open.spotify.com/album/2wiOiXYM1X9FxDIm2SG0bz"
       },
@@ -664,7 +682,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 192416,
       "name": "Dejarte Ir",
       "url": "https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu"
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 237633,
       "name": "La Insoportable Levedad del Final",
       "url": "https://open.spotify.com/track/1LMFuo0XbZS3xQHIKtwTle"
@@ -2618,6 +2636,24 @@
       "duration_ms": 209440,
       "name": "Quisiera Saber (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg"
+    },
+    {
+      "album": {
+        "name": "Recovered Files",
+        "url": "https://open.spotify.com/album/4JuXQGRqNVORHmI968HBkv"
+      },
+      "artists": [
+        {
+          "name": "Neuman",
+          "url": "https://open.spotify.com/artist/2ApGJ6o1AkNPjkFrnJQLKM"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432914,
+      "name": "Recovered Files",
+      "url": "https://open.spotify.com/track/2iheT0GXVpykVzVsPWjaVn"
     },
     {
       "album": {

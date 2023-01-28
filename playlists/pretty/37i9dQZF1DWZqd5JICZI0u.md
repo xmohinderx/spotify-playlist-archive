@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,569,266 likes - 242 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,569,712 likes - 240 songs - 11 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,33 +222,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 212 | [Assonnato](https://open.spotify.com/track/4SO82a7foP5oVqb9cspxd5) | [Rebekah Bolton](https://open.spotify.com/artist/0W3cyXPYApFajrsJKSAcHQ) | [Assonnato](https://open.spotify.com/album/6mjmPm2enQLom4hwJg3B3G) | 3:04 |
 | 213 | [Abditory](https://open.spotify.com/track/0sHAK04QYBqPdPL5BUP4aS) | [Natalie Carlton](https://open.spotify.com/artist/5tskj9vtZkM605QJsLW9AH) | [Abditory](https://open.spotify.com/album/1g8cPZhYVIx3srH6kEduj4) | 2:27 |
 | 214 | [Appreciation](https://open.spotify.com/track/70w16KjhO0HQz6eqllKYJo) | [Vishal Casey](https://open.spotify.com/artist/4gaEPQ8r7KJfK9QE9nV0Wa) | [Appreciation](https://open.spotify.com/album/1YZf74mUBjZqIhNEeymUw9) | 2:49 |
-| 215 | [Out of time](https://open.spotify.com/track/0JJCzXYsTdoGIKjEadzwke) | [Stray Winds](https://open.spotify.com/artist/3I8Am5MnggH1JDfyPydw4Z) | [Out of time](https://open.spotify.com/album/4kCzBYF9rlJpKi1TEP0W2L) | 3:29 |
-| 216 | [Lenitivo](https://open.spotify.com/track/6PEwEkL4lzRbGMGH7j7kBB) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Lenitivo](https://open.spotify.com/album/0aKQ6hDtXLG2FbFiDqfiEi) | 3:00 |
-| 217 | [Breathe](https://open.spotify.com/track/6o9CIioJ5lDlz9fmgILo3q) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Breathe](https://open.spotify.com/album/5Cz7f35QQnktMlWhmKopX1) | 3:02 |
-| 218 | [Easy Mind](https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Easy Mind](https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl) | 2:40 |
-| 219 | [Stream Of Somnolence](https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Stream Of Somnolence](https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ) | 3:05 |
-| 220 | [Waiting](https://open.spotify.com/track/5C82nGiLNRRgAjfMH1pNC3) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Waiting](https://open.spotify.com/album/3l1NYuGrUb9wpnXFDZM8IG) | 3:01 |
-| 221 | [Possibilities](https://open.spotify.com/track/0hlIjPXb7edJXEa9DwErNc) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Possibilities](https://open.spotify.com/album/0xkAcfWOhme0Z1RPQx1tLB) | 3:18 |
-| 222 | [Convince Me](https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Convince Me](https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1) | 3:35 |
-| 223 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 |
-| 224 | [This Space](https://open.spotify.com/track/6127NAkQKvpHxsQ7QS3bsm) | [Rubicon Fray](https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z) | [This Space](https://open.spotify.com/album/6fwQ6CKuVG15epkMRXNP3o) | 2:52 |
-| 225 | [Supernova](https://open.spotify.com/track/5KBswDWzbvbe6o0cyQA788) | [Adrian Coly](https://open.spotify.com/artist/2XnemPdUKzthyhXV9k8rpF) | [Supernova](https://open.spotify.com/album/0sXoCL4yCSEwhfCBym7xnS) | 2:20 |
-| 226 | [Compassion](https://open.spotify.com/track/6nnm67RIWF9sSl0mGY3PHM) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [Compassion](https://open.spotify.com/album/1IfpD8bKAkrP3nSuvzz0uV) | 2:35 |
-| 227 | [Volare](https://open.spotify.com/track/0eLjghxjAToU8mKhUqx4LX) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Volare](https://open.spotify.com/album/2VxTB9hSRKD4tCZbTbePvi) | 2:52 |
-| 228 | [My Horizon](https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [One Sense](https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT) | 3:05 |
-| 229 | [The Other Side](https://open.spotify.com/track/7MRwNia7W4TCMUq1X8JbAU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [The Other Side](https://open.spotify.com/album/5LUfRAw3B31LKzv9ZXT1tz) | 2:50 |
-| 230 | [Víðsýni](https://open.spotify.com/track/00Q952UnckMdqLHYn7duKD) | [Traum Fanger](https://open.spotify.com/artist/0yyAswmbegMXrWvdxTEIkF) | [Víðsýni](https://open.spotify.com/album/5XSm8RCqT1LqvbcYubwIfT) | 2:49 |
-| 231 | [Versuchen](https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Versuchen](https://open.spotify.com/album/6n04Dj1nhdwLCmm3421TC0) | 2:16 |
-| 232 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 |
-| 233 | [Stillness](https://open.spotify.com/track/6cn3ydXeMViI9FKbvU5yC6) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Stillness](https://open.spotify.com/album/1tFhGEgEpA4bkmdYp2zYQ3) | 2:30 |
-| 234 | [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 |
-| 235 | [Glowing Aura](https://open.spotify.com/track/54JHkuhxp9S1DRxPpsmzfc) | [Moonlight River](https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu) | [Glowing Aura](https://open.spotify.com/album/0hxddVL6RtkujMPjGvegn0) | 2:15 |
-| 236 | [Rivers](https://open.spotify.com/track/5ymF1YOLVmBCuu4sl7lgNF) | [Howling Winds](https://open.spotify.com/artist/3oRIhCYM75fKWEx2IQUPB0) | [Into The Unknown](https://open.spotify.com/album/11mE08XW63xZM1ZI7nEkxQ) | 3:22 |
-| 237 | [Trust the Universe](https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Trust the Universe](https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme) | 2:49 |
-| 238 | [Deep Down](https://open.spotify.com/track/0reoP6d2gauomTnn8eEF3H) | [Aurora Blue](https://open.spotify.com/artist/7mGqBs7GKrbPVzHZmw637f) | [Deep Down](https://open.spotify.com/album/2rnC5NylKztR1CFSStORe2) | 2:37 |
-| 239 | [Dark Blue](https://open.spotify.com/track/2BTJLOrqvYeLLeEub0IDJx) | [Palace Flower](https://open.spotify.com/artist/1uU27K4D96Hn0ws2lULjHp) | [Dark Blue](https://open.spotify.com/album/4RlbWH1eu5h1ICu4zeA35n) | 2:54 |
-| 240 | [Beneath Your Beauty](https://open.spotify.com/track/3FzzyU60e8a8TZrRn7fv6X) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Beneath Your Beauty](https://open.spotify.com/album/1iRbiW6eu5QTluTrHKsRwp) | 2:22 |
-| 241 | [Axis Of Action](https://open.spotify.com/track/45vbUbBDk6o9nNsx7QtoV3) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Axis Of Action](https://open.spotify.com/album/21cvDZIlumM4tLkN3sBHPR) | 2:34 |
-| 242 | [On Quiet Feet](https://open.spotify.com/track/2F1P6vX0GjpWQztCwkoR9Z) | [Ria Mackenzie](https://open.spotify.com/artist/5bwSqSzPLBLTyy8G5dOK49) | [On Quiet Feet](https://open.spotify.com/album/398T3ZFWN5HJ2BxtRTyNRg) | 3:00 |
+| 215 | [Lenitivo](https://open.spotify.com/track/6PEwEkL4lzRbGMGH7j7kBB) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Lenitivo](https://open.spotify.com/album/0aKQ6hDtXLG2FbFiDqfiEi) | 3:00 |
+| 216 | [Breathe](https://open.spotify.com/track/6o9CIioJ5lDlz9fmgILo3q) | [Sophie Emitt](https://open.spotify.com/artist/2eoLmo76ASA6kgdyZ5QRSN) | [Breathe](https://open.spotify.com/album/5Cz7f35QQnktMlWhmKopX1) | 3:02 |
+| 217 | [Easy Mind](https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Easy Mind](https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl) | 2:40 |
+| 218 | [Stream Of Somnolence](https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Stream Of Somnolence](https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ) | 3:05 |
+| 219 | [Waiting](https://open.spotify.com/track/5C82nGiLNRRgAjfMH1pNC3) | [Juno Reed](https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln) | [Waiting](https://open.spotify.com/album/3l1NYuGrUb9wpnXFDZM8IG) | 3:01 |
+| 220 | [Possibilities](https://open.spotify.com/track/0hlIjPXb7edJXEa9DwErNc) | [Jonas Sandberg](https://open.spotify.com/artist/5JkM7qUhOcmY5SqK3SnU3O) | [Possibilities](https://open.spotify.com/album/0xkAcfWOhme0Z1RPQx1tLB) | 3:18 |
+| 221 | [Convince Me](https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Convince Me](https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1) | 3:35 |
+| 222 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 |
+| 223 | [This Space](https://open.spotify.com/track/6127NAkQKvpHxsQ7QS3bsm) | [Rubicon Fray](https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z) | [This Space](https://open.spotify.com/album/6fwQ6CKuVG15epkMRXNP3o) | 2:52 |
+| 224 | [Supernova](https://open.spotify.com/track/5KBswDWzbvbe6o0cyQA788) | [Adrian Coly](https://open.spotify.com/artist/2XnemPdUKzthyhXV9k8rpF) | [Supernova](https://open.spotify.com/album/0sXoCL4yCSEwhfCBym7xnS) | 2:20 |
+| 225 | [Compassion](https://open.spotify.com/track/6nnm67RIWF9sSl0mGY3PHM) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [Compassion](https://open.spotify.com/album/1IfpD8bKAkrP3nSuvzz0uV) | 2:35 |
+| 226 | [Volare](https://open.spotify.com/track/0eLjghxjAToU8mKhUqx4LX) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Volare](https://open.spotify.com/album/2VxTB9hSRKD4tCZbTbePvi) | 2:52 |
+| 227 | [My Horizon](https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [One Sense](https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT) | 3:05 |
+| 228 | [The Other Side](https://open.spotify.com/track/7MRwNia7W4TCMUq1X8JbAU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [The Other Side](https://open.spotify.com/album/5LUfRAw3B31LKzv9ZXT1tz) | 2:50 |
+| 229 | [Víðsýni](https://open.spotify.com/track/00Q952UnckMdqLHYn7duKD) | [Traum Fanger](https://open.spotify.com/artist/0yyAswmbegMXrWvdxTEIkF) | [Víðsýni](https://open.spotify.com/album/5XSm8RCqT1LqvbcYubwIfT) | 2:49 |
+| 230 | [Versuchen](https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Versuchen](https://open.spotify.com/album/6n04Dj1nhdwLCmm3421TC0) | 2:16 |
+| 231 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 |
+| 232 | [Stillness](https://open.spotify.com/track/6cn3ydXeMViI9FKbvU5yC6) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Stillness](https://open.spotify.com/album/1tFhGEgEpA4bkmdYp2zYQ3) | 2:30 |
+| 233 | [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 |
+| 234 | [Glowing Aura](https://open.spotify.com/track/54JHkuhxp9S1DRxPpsmzfc) | [Moonlight River](https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu) | [Glowing Aura](https://open.spotify.com/album/0hxddVL6RtkujMPjGvegn0) | 2:15 |
+| 235 | [Trust the Universe](https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Trust the Universe](https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme) | 2:49 |
+| 236 | [Deep Down](https://open.spotify.com/track/0reoP6d2gauomTnn8eEF3H) | [Aurora Blue](https://open.spotify.com/artist/7mGqBs7GKrbPVzHZmw637f) | [Deep Down](https://open.spotify.com/album/2rnC5NylKztR1CFSStORe2) | 2:37 |
+| 237 | [Dark Blue](https://open.spotify.com/track/2BTJLOrqvYeLLeEub0IDJx) | [Palace Flower](https://open.spotify.com/artist/1uU27K4D96Hn0ws2lULjHp) | [Dark Blue](https://open.spotify.com/album/4RlbWH1eu5h1ICu4zeA35n) | 2:54 |
+| 238 | [Beneath Your Beauty](https://open.spotify.com/track/3FzzyU60e8a8TZrRn7fv6X) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Beneath Your Beauty](https://open.spotify.com/album/1iRbiW6eu5QTluTrHKsRwp) | 2:22 |
+| 239 | [Axis Of Action](https://open.spotify.com/track/45vbUbBDk6o9nNsx7QtoV3) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Axis Of Action](https://open.spotify.com/album/21cvDZIlumM4tLkN3sBHPR) | 2:34 |
+| 240 | [On Quiet Feet](https://open.spotify.com/track/2F1P6vX0GjpWQztCwkoR9Z) | [Ria Mackenzie](https://open.spotify.com/artist/5bwSqSzPLBLTyy8G5dOK49) | [On Quiet Feet](https://open.spotify.com/album/398T3ZFWN5HJ2BxtRTyNRg) | 3:00 |
 
-Snapshot ID: `MTY3NDIyNzM1OCwwMDAwMDAwMDgxMzI3NGFjMzBhODJhYmQyMTJjYzQzMTRiNDRjMWEz`
+Snapshot ID: `MTY3NDgzNTkxMSwwMDAwMDAwMDQ0YzVjOWI3NDMwZTVkNGEyMTllOTE5MjM3ZDcwYzM3`

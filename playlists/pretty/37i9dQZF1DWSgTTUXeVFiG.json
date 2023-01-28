@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 12628,
+  "num_followers": 12661,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDlkY2Y2YmNhNWNlZDM0YjNjNmE3MDUyMmRjZWIwOTE1",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDYyNzdkZmE4YjM5M2NlYjk0NWNkZDcwZjMzOWFlYmI4",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "15 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/0UbdOBtZ1w4PoXEoLUAyMs"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 440864,
+      "name": "Medley: Amiga/Mi Media Mitad/Luna Negra - En Vivo",
+      "url": "https://open.spotify.com/track/0HIPtOZKPk6796txUKwD0D"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Lo Mejor De Celia Cruz & Oscar D\u00b4Le\u00f3n En Concierto",
         "url": "https://open.spotify.com/album/7bLj1JszeG6xZ2iLmc9vpX"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 273053,
       "name": "Llorar\u00e1s - Live",
       "url": "https://open.spotify.com/track/4WlDisUidB4F0KxxoIjODp"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "15 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/0UbdOBtZ1w4PoXEoLUAyMs"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 440864,
-      "name": "Medley: Amiga/Mi Media Mitad/Luna Negra - En Vivo",
-      "url": "https://open.spotify.com/track/0HIPtOZKPk6796txUKwD0D"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "A Night Of Salsa",
-        "url": "https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h"
+        "name": "Ismael Miranda (En Vivo)",
+        "url": "https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
         }
       ],
-      "duration_ms": 401466,
-      "name": "La Vida Es Un Carnaval - En Vivo Desde Hartford, Connecticut/1999",
-      "url": "https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT"
+      "duration_ms": 330426,
+      "name": "Se\u00f1or Sereno - En Vivo",
+      "url": "https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4"
     }
   ],
   "unique_name": "Vivo de Salsa",

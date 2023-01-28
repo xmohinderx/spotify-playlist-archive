@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Lil Mapz.
 
-316 songs - 15 hr 56 min
+317 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A cidade e as serras](https://open.spotify.com/track/49ysYtESPG5TA4t8IvUiEl) | [Vileiro](https://open.spotify.com/artist/1pYXI1pkQgJceBl4rqf2sQ), [Zi](https://open.spotify.com/artist/2w2sJNSGbGQysLUCATWMup) | [A cidade e as serras](https://open.spotify.com/album/3Vs19BgOzhuL2xVvPi3FUo) | 2:50 | 2023-01-16 |  |
 | [A Peça](https://open.spotify.com/track/2zga0OUlGtaZZqbMMQ83JP) | [Malta](https://open.spotify.com/artist/6D3YG918J8Ee3nyRHELsCC) | [Equilíbrio](https://open.spotify.com/album/7jqkqkTH4gHbQpAFhQE0XI) | 2:38 | 2022-09-08 | 2022-11-18 |
 | [A Tua Prima](https://open.spotify.com/track/7uWECm0QhLA96rT6xd4TQP) | [Nameless](https://open.spotify.com/artist/6piBXicdcbEJFJAdhvamMD) | [A Tua Prima](https://open.spotify.com/album/67BdsbFY2P6klujO5a55Gr) | 2:11 | 2022-10-27 | 2022-12-02 |
+| [A+](https://open.spotify.com/track/2gGsuFVySFk1lMI2QNRHl1) | [Mary Jane](https://open.spotify.com/artist/7De3aXysEvuHh3pEGZqBau) | [A+](https://open.spotify.com/album/057KMRdPqQAKKZkwbkylzh) | 2:52 | 2023-01-27 |  |
 | [ADA](https://open.spotify.com/track/5wMbHVkIKNLOaXrZvS97dw) | [LOUIS DVART](https://open.spotify.com/artist/1TL1qQoaFtWUt2D85hCOIl) | [ADA](https://open.spotify.com/album/2pWlkKORlGzpB4YTzvPp2N) | 2:18 | 2022-09-01 | 2022-09-23 |
 | [Affaire](https://open.spotify.com/track/2jwAom7XMWKifWOHK89I6T) | [Karma](https://open.spotify.com/artist/4dy4hTb8rfqlxr4s2m6YJq) | [Affaire](https://open.spotify.com/album/4Jh4GBieaE8tFEGgmLRzF5) | 3:05 | 2022-09-22 | 2022-10-21 |
 | [Agradeço](https://open.spotify.com/track/1eWINvz1NEVXyskFINj5nT) | [Mary Jane](https://open.spotify.com/artist/7De3aXysEvuHh3pEGZqBau), [Uest](https://open.spotify.com/artist/08jDGXzqrspw6c1r73rTh5) | [Agradeço](https://open.spotify.com/album/5vbXuxtOKdySOWQ3kYWy7g) | 2:58 | 2022-07-07 | 2022-08-05 |

@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "meadows",
+        "url": "https://open.spotify.com/album/2Iwq8ywHPSK7Y04kV1IozT"
+      },
+      "artists": [
+        {
+          "name": "Golden Horses",
+          "url": "https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178648,
+      "name": "numb burn",
+      "url": "https://open.spotify.com/track/2iWlzsg7MoN9nKIwxlJWPc"
+    },
+    {
+      "album": {
         "name": "Nuraghe",
         "url": "https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4"
       },
@@ -1483,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Reconnection",
+        "url": "https://open.spotify.com/album/6fqlzVb31jQJUJgdoLXsvc"
+      },
+      "artists": [
+        {
+          "name": "Enchanted Feel",
+          "url": "https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114512,
+      "name": "Reconnection",
+      "url": "https://open.spotify.com/track/2pAZtBeTf2wd97g709xOXx"
+    },
+    {
+      "album": {
         "name": "Rectifier",
         "url": "https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP"
       },
@@ -1632,6 +1668,28 @@
       "duration_ms": 201110,
       "name": "Sam the Record Man",
       "url": "https://open.spotify.com/track/2VhwPhvVI2KWqPA8bpfiiQ"
+    },
+    {
+      "album": {
+        "name": "Craters",
+        "url": "https://open.spotify.com/album/4OaftzM6C7I9OjBtu6xD5J"
+      },
+      "artists": [
+        {
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "Light of Woods",
+          "url": "https://open.spotify.com/artist/50GdmfflR0mWUQpStEKuPZ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Sands",
+      "url": "https://open.spotify.com/track/57sMTer5cdcMyQuEZgNvlT"
     },
     {
       "album": {
@@ -1978,10 +2036,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 383365,
       "name": "The C In Certain",
       "url": "https://open.spotify.com/track/1rNqvHHH5PTpX2E7guUwbj"
+    },
+    {
+      "album": {
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/3QuRI71gWqj1HxTmQdBMhF"
+      },
+      "artists": [
+        {
+          "name": "Spaced Out Dreams",
+          "url": "https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130078,
+      "name": "The Gathering",
+      "url": "https://open.spotify.com/track/6Wgkn09AhQjIzFK1qx4xvY"
     },
     {
       "album": {
@@ -2270,6 +2346,24 @@
       "duration_ms": 158174,
       "name": "Undo and Redo",
       "url": "https://open.spotify.com/track/4YLWN1S48u5m8xpxWlk3tY"
+    },
+    {
+      "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/3b67T3JG33Y2fiOv1uHLf4"
+      },
+      "artists": [
+        {
+          "name": "Polar Limit",
+          "url": "https://open.spotify.com/artist/1dFspa71geptAfzlSL73eK"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Unity",
+      "url": "https://open.spotify.com/track/2RpAmVKOwP601ultZ5PxEQ"
     },
     {
       "album": {

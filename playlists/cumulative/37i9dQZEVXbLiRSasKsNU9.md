@@ -4,10 +4,11 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,154 songs - 2 day 14 hr 16 min
+1,154 songs - 2 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/2Xwyq4AyKumjXIVV7uk1Z9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Big boys](https://open.spotify.com/album/50yqUyt7aBiffET4A5nsjw) | 0:00 | 2023-01-15 |  |
 | [](https://open.spotify.com/track/2la7g9bMqsgsWPC9WcQg56) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2Ul6Xcx8ghlQE20DVs3B0d) | 0:00 | 2022-10-01 | 2022-10-07 |
 | [](https://open.spotify.com/track/6wJavOotAd4bEeB9QusGcE) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6OEHTTAAZowKU7LLZmvj2D) | 0:00 | 2022-07-08 | 2022-07-15 |
 | [\#doyalike](https://open.spotify.com/track/28wSGs5ktiBQeeArATV8VX) | [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL) | [\#doyalike](https://open.spotify.com/album/0nnDPfom0EYbRYphovv0hu) | 3:03 | 2022-05-24 | 2022-06-01 |
@@ -156,7 +157,6 @@
 | [Bi' Tek Ben Anlarım](https://open.spotify.com/track/7toL7Re9rApzIuIFDaLQSe) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Bi' Tek Ben Anlarım](https://open.spotify.com/album/0cQbLrbLcdnLnyvYGlLEBV) | 3:16 | 2022-04-17 | 2022-08-30 |
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-12-13 | 2023-01-04 |
 | [Big Boy](https://open.spotify.com/track/3Q5dIrHrQRuTEX0ORroMbQ) | [lovibes](https://open.spotify.com/artist/1fWoCmM8Q7BhMIcMgipkR4) | [Big Boy](https://open.spotify.com/album/5ew2hMJtKClvgyF4PHDMzB) | 5:31 | 2023-01-25 |  |
-| [Big Boy \- \(Sped up\)](https://open.spotify.com/track/2Xwyq4AyKumjXIVV7uk1Z9) | [season boys](https://open.spotify.com/artist/6bPU0nTcu8pvyB9D855cWP) | [Big boys](https://open.spotify.com/album/50yqUyt7aBiffET4A5nsjw) | 2:29 | 2023-01-15 |  |
 | [Big Boys](https://open.spotify.com/track/1b5y9c6KdLcLWzKX1dCFhU) | [cshsznxo!](https://open.spotify.com/artist/4ZSPh3z0AyE5XKFQqEH2YU) | [Big Boys](https://open.spotify.com/album/3fnpQVhNFfwH5BJyO1SZMl) | 2:58 | 2023-01-10 | 2023-01-24 |
 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Big Energy \(feat\. DJ Khaled\) \[Remix\]](https://open.spotify.com/album/7yQ3QGLWN0YvBuImU7bVc3) | 3:01 | 2022-04-19 | 2022-04-27 |
 | [Bilir O Beni](https://open.spotify.com/track/0szRcHR9IsUO2Xj8uAKPM6) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Bilir O Beni](https://open.spotify.com/album/01waXdENwB18KCgTHw89Rb) | 3:48 | 2022-06-29 | 2022-08-08 |

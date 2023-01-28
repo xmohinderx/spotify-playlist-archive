@@ -4,7 +4,7 @@
 
 > Restorative piano and ambient music.
 
-252 songs - 12 hr 21 min
+253 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Soledad natural](https://open.spotify.com/track/6rNvJRr2yErh0cRjMq7scQ) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Soledad natural \(Ambient version\)](https://open.spotify.com/album/0uWYghjpGDOUZ5kw9jUIZN) | 2:35 | 2021-12-23 |  |
 | [Solmization \- 528Hz](https://open.spotify.com/track/0PBeh1YEfaYyZEk0CvqZdl) | [Jonathan Dorjee](https://open.spotify.com/artist/1yxN1A5zsJCnmAvXM41959) | [Solmization \- 528Hz](https://open.spotify.com/album/3HCsnYDEk62epUuxXjOlHs) | 2:44 | 2022-09-30 |  |
 | [Soluma](https://open.spotify.com/track/1pfYu9JKsojWVnmb5J9Xc0) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Soluma](https://open.spotify.com/album/1qoutOhGSCzeCZSp3Is4Ps) | 3:44 | 2021-12-23 |  |
-| [Somnium Meum](https://open.spotify.com/track/1B1Bij1l3uGEtDPRp8ICAb) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Somnium Meum](https://open.spotify.com/album/2gCJWL5eLURzFwTR0ZQhfB) | 3:07 | 2021-12-23 |  |
+| [Somnium Meum](https://open.spotify.com/track/1B1Bij1l3uGEtDPRp8ICAb) | [Nikolaj Geisler](https://open.spotify.com/artist/0HjTpoXjsJ7cGcy5JcYCzc) | [Somnium Meum](https://open.spotify.com/album/2gCJWL5eLURzFwTR0ZQhfB) | 3:07 | 2021-12-23 | 2023-01-28 |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2021-12-23 |  |
 | [Soothing Me](https://open.spotify.com/track/0sM8esXY30pzv68Bwtoq3d) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Soothing Me](https://open.spotify.com/album/6ds0odJgRkazJMLj74z5du) | 3:27 | 2021-12-23 |  |
 | [St Albans](https://open.spotify.com/track/5GBUaaYqPzsuqSQvwvD46g) | [Upsilon](https://open.spotify.com/artist/32zqABCKhd2sbF6HGT0pW2) | [St Albans](https://open.spotify.com/album/3GnvX2yoV5wEj9E670lPAs) | 2:47 | 2021-12-23 |  |
@@ -245,6 +245,7 @@
 | [Unbound](https://open.spotify.com/track/5X17M78aHKmdcB0iDCe3BT) | [Nordesía](https://open.spotify.com/artist/6sbqijgtC98MAYaPcH3cuu) | [Unbound](https://open.spotify.com/album/2pkZ4r4io3uCgrdFo8h7wT) | 3:12 | 2021-12-23 | 2022-06-17 |
 | [Unclouded](https://open.spotify.com/track/2NqwxOKlF2jtWvAnmWDIpu) | [Thalia Mathis](https://open.spotify.com/artist/3qwAV5INzjLjEyls7XyA9F) | [Unclouded](https://open.spotify.com/album/5qaBWXUQR3bXsyzZ8kuzTP) | 3:08 | 2022-05-19 |  |
 | [Under Samma Himmel](https://open.spotify.com/track/620GB7wI2P5ltdAy4hJVHZ) | [Sanja Göransson](https://open.spotify.com/artist/1bMBJo82A2IeRahsh3JsQn) | [Under Samma Himmel](https://open.spotify.com/album/5N7pzonxBqijE8ZX3pIUT6) | 2:51 | 2022-07-22 |  |
+| [Ur Intet](https://open.spotify.com/track/3j9lwtdDw7ITWVY0eEuznt) | [Vera Mejer](https://open.spotify.com/artist/2aMUpj4kSFl3XEdA3UCEIi) | [Ur Intet](https://open.spotify.com/album/10GmTICjKdSuH5BGgYK4Br) | 3:07 | 2023-01-27 |  |
 | [Vaggvisa](https://open.spotify.com/track/2swOksshgCYLGAypm1fh1v) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [Vaggvisa](https://open.spotify.com/album/2q2I0k4FPubYO3EfyaN0zO) | 1:58 | 2021-12-23 |  |
 | [Vakna](https://open.spotify.com/track/6GFBrLr4HbsKqra7MSiluq) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Andrum](https://open.spotify.com/album/3DEAYz5dCigP164kUJU53M) | 2:24 | 2022-11-11 |  |
 | [Valentinios Pier](https://open.spotify.com/track/4bUkrtLWyZRbG9jit1vgdY) | [Mia Bovind](https://open.spotify.com/artist/4pnDGbpRLEb0cIu7UFrswl) | [Valentinios Pier](https://open.spotify.com/album/3R42U1cgzk5F2jCz2cYd6p) | 3:02 | 2021-12-23 | 2022-09-03 |

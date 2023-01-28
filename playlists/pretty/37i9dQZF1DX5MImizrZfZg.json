@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 44589,
+  "num_followers": 44639,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDk3NDU0MjE4ZTVlZTM4MWVmMzk1OWUzODc0ODgzNjQ1",
+  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDE4ZWJlMzkwMTdmNGVhNTNhZGRlMmQwYmJkMDg3Y2M4",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -535,22 +535,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Revolving Door",
-        "url": "https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cooling",
-          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
-        }
-      ],
-      "duration_ms": 345040,
-      "name": "Mildred's Attraction",
-      "url": "https://open.spotify.com/track/6LOA1tEyiS6oHdwZiJ9rkA"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Radiant",
         "url": "https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 299493,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Revolving Door",
+        "url": "https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cooling",
+          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
+        }
+      ],
+      "duration_ms": 345040,
+      "name": "Mildred's Attraction",
+      "url": "https://open.spotify.com/track/6LOA1tEyiS6oHdwZiJ9rkA"
     },
     {
       "added_at": "2020-08-19 19:15:51",

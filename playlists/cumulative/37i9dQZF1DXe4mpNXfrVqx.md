@@ -2,9 +2,9 @@
 
 ### [Só as Minas](https://open.spotify.com/playlist/37i9dQZF1DXe4mpNXfrVqx)
 
-> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: slipmami
+> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Hyperanhas, Tammy
 
-117 songs - 5 hr 15 min
+119 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Da Minha Janela](https://open.spotify.com/track/2iB7aFaUqa9lQbsNMYYSoS) | [Alana Pires](https://open.spotify.com/artist/5jmnFNMoHnnc2YU9emT4ce) | [Da Minha Janela](https://open.spotify.com/album/2ubQ78WGsyH3v3Uc97k4Sk) | 2:12 | 2022-03-18 |  |
 | [Dama da Noite](https://open.spotify.com/track/0wOYCvsXQvHXYghnIzXiP4) | [Charlotte](https://open.spotify.com/artist/0KY3H0d4zc4Pwi7d7Onmn8), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Dama da Noite](https://open.spotify.com/album/4vbJPuDV02FML2XNieJxei) | 1:58 | 2022-03-18 | 2022-05-28 |
 | [DE CRIA PRA CRIA / MC Marcelly](https://open.spotify.com/track/6ytgQdqiWF2QDH9lA24knH) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:20 | 2022-11-11 |  |
+| [Desamor](https://open.spotify.com/track/77ylP1AFdw0i0T435Sm20F) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Desamor](https://open.spotify.com/album/2AATRFcL1HPWlx4P6bT9kr) | 1:58 | 2023-01-27 |  |
 | [Drinks e Safiras](https://open.spotify.com/track/56uwvZ7zUko1jBrD14nAOz) | [Mestra](https://open.spotify.com/artist/0DzMVY6htcmrpdC3f3J3Jm), [Yanna Mc](https://open.spotify.com/artist/3luf43YaYclVRwVfYLRKnF), [Rualogia Lab](https://open.spotify.com/artist/0CnQ6hl5qaXYfrYAy50u6k) | [Drinks e Safiras](https://open.spotify.com/album/7pwGE901unwGsjW8b728eh) | 1:57 | 2022-03-18 |  |
 | [Embrazando](https://open.spotify.com/track/5CfabusnRCoAHPYUheMg3u) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Embrazando](https://open.spotify.com/album/1ne6MMagaIhU433qxJOwts) | 2:41 | 2022-05-27 | 2022-10-15 |
 | [Então Senta](https://open.spotify.com/track/7enMVhTKpt0cIrkZpZ1Qlo) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [AninhaMc](https://open.spotify.com/artist/40d9fryIizWS435RsqdRQ5) | [Então Senta](https://open.spotify.com/album/6xDqfzWWeGXPRdGm7OtHB5) | 2:26 | 2022-03-18 | 2022-07-30 |
@@ -42,6 +43,7 @@
 | [Fail](https://open.spotify.com/track/0GCWTSB5Wj04ZMQGswxkuU) | [Enibel](https://open.spotify.com/artist/7r0XN2WkKpDRqDu0wqzhrB) | [Fail](https://open.spotify.com/album/6Qt8h0qjPC3zK3yBXatORq) | 2:27 | 2022-03-18 |  |
 | [Faísca](https://open.spotify.com/track/4AUy9gxaNejktNYIFNJWRW) | [Jaquelivre](https://open.spotify.com/artist/6oglA3VW3IUQhRtFvE6oyD), [Cabes](https://open.spotify.com/artist/00RYM1fJO6kr6Z2jOuD9BW) | [Faísca](https://open.spotify.com/album/4ORKX07HIdDEbFoV4BaGZU) | 2:25 | 2022-03-18 |  |
 | [FDP EU TE AMO](https://open.spotify.com/track/7oRU2MX5XxLVe53Zh5uZN5) | [NATH](https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx), [AKhali](https://open.spotify.com/artist/0ldnjk0MOqCCqu7RkMb3Ku) | [BRAZA](https://open.spotify.com/album/0hNutyZHAMMxDZqTskpIOZ) | 2:38 | 2022-03-18 |  |
+| [Filhas do Improvável](https://open.spotify.com/track/1PRtKlhyg4iHT3827dGHvd) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Filhas do Improvável](https://open.spotify.com/album/10VElbFY3stDclLObB9NZ1) | 3:37 | 2023-01-27 |  |
 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 | 2022-03-18 |  |
 | [Florescer](https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F) | [Mayarah Magalhães](https://open.spotify.com/artist/2FmV8Y424XsncsEO9ztY3p), [Blood Beatz](https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc) | [Florescer](https://open.spotify.com/album/1NJsjzZ2AZBFCPCOeVyb7x) | 4:48 | 2022-08-26 |  |
 | [Flow Tinashe](https://open.spotify.com/track/3aPYt5NlSKHQ1QoJ8rgfHi) | [Bruna Liz](https://open.spotify.com/artist/1Y4WZDXADQZRLwOopgt37V) | [Flow Tinashe](https://open.spotify.com/album/1EDMseF4GmY9exe5iZU14o) | 2:37 | 2022-03-18 | 2022-10-01 |

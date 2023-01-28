@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-376 songs - 18 hr 41 min
+378 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,12 +132,14 @@
 | [Engel Stemme](https://open.spotify.com/track/1lwYE92fXWS6nebOLO5yTR) | [Velpo Sonols](https://open.spotify.com/artist/27eOFbWsw1qOMgSaMqR1MM) | [Engel Stemme](https://open.spotify.com/album/6YEYVd0UNdA0JNFoc02YWx) | 3:50 | 2021-11-10 |  |
 | [Enlightened](https://open.spotify.com/track/2rDUD1OjekGLpJIQTaAGAE) | [Theatantrical](https://open.spotify.com/artist/3NfPyQcxlNd7Avfcgn13Sh) | [Seduction](https://open.spotify.com/album/7KSDplAurK6FocNB7MkCyx) | 3:29 | 2021-11-10 |  |
 | [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 | 2022-10-14 |  |
+| [Equality](https://open.spotify.com/track/4dayrfoJdkbYc4DrfOhXga) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Equality](https://open.spotify.com/album/6WuhDd7iPJ8vgkO5YVVMJQ) | 3:34 | 2023-01-27 |  |
 | [Erlaxatu](https://open.spotify.com/track/3ROErV7ENsyuiM8CYd4uNP) | [Aingeni](https://open.spotify.com/artist/0cUxB8x7iRbqVCgZmdBtk8) | [Erlaxatu](https://open.spotify.com/album/7CfQJT2XMbcy52URkSYap1) | 2:38 | 2022-10-21 |  |
 | [Eternal Drift](https://open.spotify.com/track/3F8dD3bpSN4MiQtZJ4TRS1) | [Koen Parker](https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB) | [Eternal Drift](https://open.spotify.com/album/59Yown2MHetdJBLUXqGdeq) | 1:33 | 2021-11-10 |  |
 | [Eternal Glow](https://open.spotify.com/track/6utIEcZZHk4AbF3fBVIlNM) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Eternal Glow](https://open.spotify.com/album/2sKXwQiIpJjRiUYnKF2OqV) | 2:47 | 2021-11-10 |  |
 | [Eternal Spaces](https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Spaces](https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8) | 2:48 | 2022-12-20 |  |
 | [Ethereal](https://open.spotify.com/track/0e3Pzob0dTYuUoZTs4iwpr) | [Threedust](https://open.spotify.com/artist/6340hzyqmfpcSbPZLFC1Gf), [Concept15](https://open.spotify.com/artist/4wZuWc5z66z9KM6Idhgpa3) | [Ethereal](https://open.spotify.com/album/4hEYjwAULY6jI7LoNkfRxI) | 2:32 | 2021-11-10 |  |
 | [Europa](https://open.spotify.com/track/5A3kw1qZP3UQwzfALXmVFd) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Europa](https://open.spotify.com/album/0tvUIHd5KOv2cRnKPkzq5t) | 3:13 | 2022-05-05 |  |
+| [Evanescenza](https://open.spotify.com/track/28WP5mwpfzMw4oVSBXkWgu) | [André Calmaz](https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht) | [Evanescenza](https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK) | 3:55 | 2023-01-27 |  |
 | [Fate](https://open.spotify.com/track/1Pxoyavrxw7aElGkMwWHVj) | [Reuben Hensley](https://open.spotify.com/artist/0mz4d5jY4R7Xby9AUlpViB) | [Fate](https://open.spotify.com/album/04QvfbZwhaFKDtp1Qou7vO) | 2:53 | 2021-11-10 |  |
 | [Fear To Overcome](https://open.spotify.com/track/7GfmMlse4JgozDkVl3NUdO) | [Howling Winds](https://open.spotify.com/artist/3oRIhCYM75fKWEx2IQUPB0) | [Calling For Peace](https://open.spotify.com/album/2WyTNACtWdye48z1BF1gru) | 3:06 | 2021-11-10 |  |
 | [Fekerayo](https://open.spotify.com/track/1MyNYs0OhpaT6ZAfuKY9Ds) | [Cleantha](https://open.spotify.com/artist/2SMuzSMGO396SBRMXGZjE5) | [Fekerayo](https://open.spotify.com/album/3TGjDr4vsdollMDaPQ904m) | 3:23 | 2021-11-10 |  |

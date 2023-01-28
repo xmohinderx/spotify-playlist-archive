@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-178 songs - 8 hr 29 min
+181 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [I\-M\-a\-G\-I\-n\-a\-T\-I\-O\-n \(feat\. Kat Edmonson\)](https://open.spotify.com/track/6xKr3ZNPYxW4oHhRwPX3un) | [Walter Martin](https://open.spotify.com/artist/1HvCWUrKX1xKeT3yQXjPeI), [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [We're All Young Together](https://open.spotify.com/album/0eUVVjxzoiLSq9LH979pcH) | 3:42 | 2022-04-15 | 2022-07-29 |
 | [If You Want a Song](https://open.spotify.com/track/3bBfxubsXAAuBGZBUpVijm) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [If You Want a Song](https://open.spotify.com/album/3zTVV2mDRYt3QZYx7TVZ3i) | 2:01 | 2022-04-15 | 2022-07-29 |
 | [If You Want a Song](https://open.spotify.com/track/58sw5NvBcQsvxOCtjXuq6N) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Songs for Singin'](https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB) | 2:01 | 2022-04-15 |  |
+| [Imaginary Dinosaur](https://open.spotify.com/track/5D6aRG57qibWTzMRZZKU90) | [Bee Parks and the Hornets](https://open.spotify.com/artist/5Hf2069PYDJgRE6ag9MsiP), [Mélissa Smith](https://open.spotify.com/artist/57Hpqe0sVSUJs0Wq9AbQiv) | [Imaginary Dinosaur](https://open.spotify.com/album/2JVLVEhf8zq7fXHfhthO1Y) | 3:03 | 2023-01-27 |  |
 | [Imagination](https://open.spotify.com/track/3z75zlzzrxbv9oXR2moCUn) | [Play Date](https://open.spotify.com/artist/2jnLzsmJxgYGysb1f6vhyJ) | [Imagination](https://open.spotify.com/album/0i49Gsui4XTbcIar3hjUsz) | 4:32 | 2022-04-15 | 2022-07-29 |
 | [Imagination](https://open.spotify.com/track/6oQmruhl9g5Czip42rNQo2) | [Play Date](https://open.spotify.com/artist/2jnLzsmJxgYGysb1f6vhyJ) | [Imagination](https://open.spotify.com/album/0ypYiksVxmmqdSGMLZB6HP) | 4:32 | 2022-04-15 |  |
 | [Invisible Friend](https://open.spotify.com/track/6FbPohJ6qtIBDktcfq20Z8) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez) | [Invisible Friend](https://open.spotify.com/album/3jt9rKBW3mskNcDgVR7NbV) | 1:59 | 2022-04-15 |  |
@@ -104,6 +105,7 @@
 | [Little Bitta You](https://open.spotify.com/track/0MAmaesEcenot1iKsV08S1) | [Andrew & Polly](https://open.spotify.com/artist/49jFRUETZfd3qMb92TcWda) | [Odds & Ends](https://open.spotify.com/album/7z0GxmcXQ2pxwN3fEKC4N2) | 2:20 | 2022-04-15 |  |
 | [Little Grey Cloud \(It's OK to Cry\)](https://open.spotify.com/track/53nTk9BFCViL3FJgfbjPKW) | [Benny Time](https://open.spotify.com/artist/0SP4cps3hSDgkfhHhJHEqU), [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN), [Eastcoast inspirational Singers](https://open.spotify.com/artist/6XcbtC6qmgQZ9FJNcixuqC) | [Little Grey Cloud \(It's OK to Cry\)](https://open.spotify.com/album/5xgjSD4LXKUEZJH37ZS5jV) | 3:12 | 2022-04-15 |  |
 | [Long as I Got You](https://open.spotify.com/track/5mk8u1etFH79BfcNVuCPOx) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Lemonade](https://open.spotify.com/album/6JrSmqY6OEERxikQHUQ2vf) | 2:23 | 2022-04-15 |  |
+| [Made For Feelings](https://open.spotify.com/track/6d4xmldjjcZrvd9juUVMwK) | [Hot Toast Music Company](https://open.spotify.com/artist/4RD7ZKkKA4xqv87XSUvkXX) | [All The Feels](https://open.spotify.com/album/2d5veNMk0bW0m82HftXxKc) | 3:50 | 2023-01-27 |  |
 | [Magnolia Tree](https://open.spotify.com/track/3JFY8pm1zVpC3DlA6yB6FG) | [Suzi Shelton](https://open.spotify.com/artist/6KVBsjr33qLBA2CnlnRYEf) | [Magnolia Tree](https://open.spotify.com/album/05L03Xp2wSBc4jRbbYj0gc) | 2:53 | 2022-04-15 |  |
 | [Marshmallow Man](https://open.spotify.com/track/4flkzWTDmvtUzoVxC1ESI5) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb), [Suzi Shelton](https://open.spotify.com/artist/3d96ULtRFWtch9ulNHFnpo) | [28 Days](https://open.spotify.com/album/2p5QfPVnqGhJDtrntQpX7Z) | 2:36 | 2022-04-15 |  |
 | [Marshmallow Man](https://open.spotify.com/track/38fIUDIRJ3C5V82BJhg74t) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb), [Suzi Shelton](https://open.spotify.com/artist/3d96ULtRFWtch9ulNHFnpo) | [Marshmallow Man](https://open.spotify.com/album/0fY7fzuEW14bZgbu4FVupp) | 2:36 | 2022-04-15 | 2022-07-29 |
@@ -159,6 +161,7 @@
 | [The Happy Song](https://open.spotify.com/track/4Gff2OwBKosT5PXywhKY7y) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [The Happy Song](https://open.spotify.com/album/2YwBgrSHhQuPN9aXW6QpBA) | 2:37 | 2022-04-15 | 2022-07-29 |
 | [The Happy Song](https://open.spotify.com/track/6snoOAATGyud5oaIT9gwws) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [The Happy Song](https://open.spotify.com/album/4JmrIJbpHWHZxOJg4awGh4) | 2:37 | 2022-04-15 |  |
 | [The Kazoo Song](https://open.spotify.com/track/2uNIzuuNDm3oxPskZpMruK) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/0K1YZBKZRNAPBuTeghnPeO) | 3:48 | 2022-04-15 |  |
+| [The Leader in You](https://open.spotify.com/track/3B97oNjqSAiuI8jz3WFIzC) | [Esther Crow](https://open.spotify.com/artist/1ToMAIY060vU2Fi0MCq9ph), [Father Goose Music](https://open.spotify.com/artist/4QiBm9o4KgZFBypg4K6zDZ) | [The Leader in You](https://open.spotify.com/album/6CURB2I8LQ5XaBGsmUiPPn) | 3:19 | 2023-01-27 |  |
 | [The One & Only You](https://open.spotify.com/track/4Lo1eKuauvApkJWuFu0asM) | [The Juicebox Jukebox](https://open.spotify.com/artist/5E97AmvYFM4aGWCOtJkzYH) | [Now Hear This!](https://open.spotify.com/album/2cYNQhLqOi3bjGUqhfu34q) | 3:41 | 2022-04-15 |  |
 | [The Quilt](https://open.spotify.com/track/6ZAxA6ynOJJqspvuv0gsFv) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu), [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Be the Change](https://open.spotify.com/album/1i8Y0fVUR0UyUQAsxkmQ42) | 1:53 | 2022-04-15 |  |
 | [The Sharing Song](https://open.spotify.com/track/0CfjYjURpMhOP0WCcRTxia) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 2:45 | 2022-04-15 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Derin Falana",
+  "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: AR Paisley",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 199700,
       "name": "100 Degrees - Remix",
       "url": "https://open.spotify.com/track/1LFIM4jVBBS58eGPAGFOH2"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 130192,
       "name": "Be Honest'",
       "url": "https://open.spotify.com/track/0YQ1b1ySD9cDPnqpDVB7SQ"
@@ -2788,7 +2788,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 236795,
       "name": "Circo Loco",
       "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
@@ -3526,7 +3526,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 156395,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/76jKCvmLfkVJtKKU044aPG"
@@ -6073,6 +6073,24 @@
     },
     {
       "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/0mnJgPhx4X97oiGuSd1Krs"
+      },
+      "artists": [
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139020,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/6HzyriT7Cg9jY2CfOKCQQg"
+    },
+    {
+      "album": {
         "name": "Honey Bun",
         "url": "https://open.spotify.com/album/4JYcG0gR8kCJ6rd3mKB3hm"
       },
@@ -6465,6 +6483,28 @@
     },
     {
       "album": {
+        "name": "I'm Kind of a Big Deal",
+        "url": "https://open.spotify.com/album/0cckveqtO5DOaixyH9W8K7"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "BVB",
+          "url": "https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130582,
+      "name": "I'm Kind of a Big Deal",
+      "url": "https://open.spotify.com/track/5GVuVoKCCaaVZJyq0gbOk3"
+    },
+    {
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
       },
@@ -6854,7 +6894,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 156471,
       "name": "Jackpot",
       "url": "https://open.spotify.com/track/6h0gzMcwHkfv1TgBmJoMSY"
@@ -6974,6 +7014,24 @@
       "duration_ms": 150040,
       "name": "Juice",
       "url": "https://open.spotify.com/track/7F0vG9Iygq00mmlzsDltM5"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137151,
+      "name": "Jumbotron Shit Poppin",
+      "url": "https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ"
     },
     {
       "album": {
@@ -7232,6 +7290,24 @@
       "duration_ms": 192891,
       "name": "Know",
       "url": "https://open.spotify.com/track/0DC4dhfW0BhEy7HKMFeiJf"
+    },
+    {
+      "album": {
+        "name": "Know Me Pt. 2",
+        "url": "https://open.spotify.com/album/4VhW6hu5GaHQc4dMJP89sk"
+      },
+      "artists": [
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161097,
+      "name": "Know Me Pt. 2",
+      "url": "https://open.spotify.com/track/4kAa2IXI8Wg065T43rhang"
     },
     {
       "album": {
@@ -7518,6 +7594,24 @@
       "duration_ms": 189361,
       "name": "Lion",
       "url": "https://open.spotify.com/track/6NSt0fTesiSOlAueU3OIKL"
+    },
+    {
+      "album": {
+        "name": "Lion Hearted Pt.3",
+        "url": "https://open.spotify.com/album/3eckQKhSaRHV3Dph5EpsIt"
+      },
+      "artists": [
+        {
+          "name": "Lu-Kusa Woe",
+          "url": "https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176724,
+      "name": "Lion Hearted Pt.3",
+      "url": "https://open.spotify.com/track/0oTvHZvqHbvBTZuUjtXPL3"
     },
     {
       "album": {
@@ -8534,7 +8628,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 162476,
       "name": "My Way (feat. Flokkstarr)",
       "url": "https://open.spotify.com/track/47bMWhRYaLhcQIz70xdsVS"
@@ -8600,7 +8694,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 198620,
       "name": "Neck To Neck",
       "url": "https://open.spotify.com/track/5dphpkJtIubgJ99RNWt8ZX"
@@ -8856,6 +8950,24 @@
       "duration_ms": 152571,
       "name": "No Hoes In The Studio",
       "url": "https://open.spotify.com/track/7oU61H8xuLxHM5stgny9iz"
+    },
+    {
+      "album": {
+        "name": "No Id",
+        "url": "https://open.spotify.com/album/7a1Dm0qbkP4lQWwmoqrvsi"
+      },
+      "artists": [
+        {
+          "name": "K Money",
+          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105648,
+      "name": "No Id",
+      "url": "https://open.spotify.com/track/76BNJ7QOTjG8Ka4H5qQr5j"
     },
     {
       "album": {
@@ -10832,7 +10944,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 118622,
       "name": "RockStar",
       "url": "https://open.spotify.com/track/6ncKbzURoZg50Aks9D0JDz"
@@ -11284,6 +11396,68 @@
       "duration_ms": 187346,
       "name": "Shake It (feat. Aim\u00e9e)",
       "url": "https://open.spotify.com/track/5FEvHdEOL3obIZmy0ATN6y"
+    },
+    {
+      "album": {
+        "name": "SHE SMOKES",
+        "url": "https://open.spotify.com/album/5Ozyab3djDesGeFRpc8bae"
+      },
+      "artists": [
+        {
+          "name": "deepend.",
+          "url": "https://open.spotify.com/artist/4D1ew8qqEKlXtDPSOMdwr5"
+        },
+        {
+          "name": "Nue",
+          "url": "https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125901,
+      "name": "SHE SMOKES",
+      "url": "https://open.spotify.com/track/6nmptKsLN5U6yQnbFxRt1t"
+    },
+    {
+      "album": {
+        "name": "She Thought",
+        "url": "https://open.spotify.com/album/6nSV7FSd6oJnoZte9rzSIs"
+      },
+      "artists": [
+        {
+          "name": "Terrell Morris",
+          "url": "https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "She Thought",
+      "url": "https://open.spotify.com/track/2IXFxtFJIyGotqxKjhozX6"
+    },
+    {
+      "album": {
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/3SluEWtJ93kVaBcmd4JfFd"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        },
+        {
+          "name": "Jaegen",
+          "url": "https://open.spotify.com/artist/175rsyRzKsoKcbEDaqDuC6"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103537,
+      "name": "Shinigami Flow",
+      "url": "https://open.spotify.com/track/7nqXeFOVEc7rJQSSpFzVH9"
     },
     {
       "album": {
@@ -13931,6 +14105,24 @@
     },
     {
       "album": {
+        "name": "HOOD AVANT-GARDE (Deluxe)",
+        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
+      },
+      "artists": [
+        {
+          "name": "Charmaine",
+          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168426,
+      "name": "WOO!",
+      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
+    },
+    {
+      "album": {
         "name": "Worry",
         "url": "https://open.spotify.com/album/7zVdOFXgE82qs94mSX2v6y"
       },
@@ -14014,7 +14206,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 112888,
       "name": "Wya Bae?",
       "url": "https://open.spotify.com/track/0W7CJpqHpFj5j7lqQXtT4M"
@@ -14072,7 +14264,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 143880,
       "name": "Y?",
       "url": "https://open.spotify.com/track/2Mytg2OcqnK15ZfmGx9PqB"

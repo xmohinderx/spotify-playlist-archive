@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Carrot Blues",
+        "url": "https://open.spotify.com/album/3smwLdvA2PWj7VYTsA9W8J"
+      },
+      "artists": [
+        {
+          "name": "Elson Complex",
+          "url": "https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139921,
+      "name": "Carrot Blues",
+      "url": "https://open.spotify.com/track/258O8WGN7xeiaID4eNESGi"
+    },
+    {
+      "album": {
         "name": "Spread The Love",
         "url": "https://open.spotify.com/album/4RFvY4SxDOjOhoOOrKu2Nz"
       },
@@ -1796,6 +1814,24 @@
       "duration_ms": 141973,
       "name": "Take Five (Solo Guitar)",
       "url": "https://open.spotify.com/track/1MRivhXSuW5lICmMxVuIES"
+    },
+    {
+      "album": {
+        "name": "Take Root",
+        "url": "https://open.spotify.com/album/4PjXnjdZzHoJwShZVmsJTM"
+      },
+      "artists": [
+        {
+          "name": "James Saunder",
+          "url": "https://open.spotify.com/artist/7lJYI82LVMMO0MrbXo1SPB"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102564,
+      "name": "Take Root",
+      "url": "https://open.spotify.com/track/2Q6jRwPtPBLeeDZgZBl0b6"
     },
     {
       "album": {

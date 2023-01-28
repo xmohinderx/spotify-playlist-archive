@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-528 songs - 1 day 5 hr 45 min
+530 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Northern Lights](https://open.spotify.com/track/5rUolow9z3wyCtbohQr6Ot) | [Chasing Noise](https://open.spotify.com/artist/1edlG0Xhw8xJS37c96WS1I) | [Wonderland](https://open.spotify.com/album/7icAjJqNlqrBiGPhii6QW1) | 3:36 | 2019-06-19\* | 2021-09-14 |
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2019-05-26\* | 2020-08-07 |
 | [Now It's Over\. Now I'm Awake.](https://open.spotify.com/track/1Ho9GnoEXLcl60ZmdOfxzQ) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe) | [Dawning](https://open.spotify.com/album/1AXGMY5gO4VvCefch2R8oh) | 2:20 | 2019-05-26\* | 2020-08-07 |
+| [Nowhere](https://open.spotify.com/track/07niZTYNkvPcw61OX0YSR6) | [Nomad Spector](https://open.spotify.com/artist/5UEm6zWB2OYaYE1y168uEV) | [Nowhere](https://open.spotify.com/album/5o0llJnOIAB6zitBrxrcA6) | 3:25 | 2023-01-27 |  |
 | [Numb](https://open.spotify.com/track/1UxbOJn4xayygB84FgRDLS) | [Lacy Magic](https://open.spotify.com/artist/2otMr0SVaBIHvh5sDBkk0k) | [Numb](https://open.spotify.com/album/3Xb4DfU9NUNCwyBhIwrmrv) | 3:23 | 2019-06-19\* | 2019-06-27 |
 | [Number Games](https://open.spotify.com/track/2ZSCtZBMhLuINrMNF23v2e) | [Haltura Arnadottir](https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e) | [Number Games](https://open.spotify.com/album/6WVqQLIjA7GvydiFmLnwDF) | 2:47 | 2023-01-20 |  |
 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 | 2022-05-19 |  |
@@ -512,6 +513,7 @@
 | [We Are Forever](https://open.spotify.com/track/0u7ghYOO8OSamsX8yakIVw) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Limbo](https://open.spotify.com/album/2oL51NXTh3XyG4ZQBYo5qd) | 2:13 | 2019-05-26\* | 2020-08-07 |
 | [What We Call Home](https://open.spotify.com/track/6uddOaYobZ26MA4lXmPtR9) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [What We Call Home](https://open.spotify.com/album/43i5sM7kRQsjoyo1gm7fGB) | 3:49 | 2019-06-19\* | 2019-06-27 |
 | [What You Love You Must Love Now](https://open.spotify.com/track/3L0fPX8biELkH57fF3Exkd) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/3tpwV2Th7Q7sS7TzeE4viK) | 5:22 | 2019-05-26\* | 2021-05-18 |
+| [Wheel of Zodiac](https://open.spotify.com/track/5Uj3rUYghH7vcKl5IiitWC) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [The Gathering](https://open.spotify.com/album/3QuRI71gWqj1HxTmQdBMhF) | 2:15 | 2023-01-27 |  |
 | [When They Come](https://open.spotify.com/track/100jBpD7nuiMriR7ErXQ9S) | [Threading Hair](https://open.spotify.com/artist/7KIgyuskfqOG0gHsnnHPPA) | [When They Come](https://open.spotify.com/album/2RBZ6bC1VSBugVSV3GXiEY) | 4:22 | 2019-12-31 | 2021-03-14 |
 | [When You Left](https://open.spotify.com/track/1uu52K2fxY7Hl4LQ8AtTyY) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [When You Left](https://open.spotify.com/album/2xgM5u3ZY5wNvMF4hZGEn9) | 2:57 | 2020-06-19 |  |
 | [White Waves](https://open.spotify.com/track/2IqOZtwGjYV9sko1NCzbKI) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [White Waves](https://open.spotify.com/album/1Pe5dUn4lNyyrnqcPPbzOk) | 3:51 | 2019-06-19\* | 2023-01-12 |

@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-248 songs - 14 hr 36 min
+250 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Big Blue Swing](https://open.spotify.com/track/1jbN3Eslcy8gec7nLuTs9P) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko) | [Big Blue Swing](https://open.spotify.com/album/5sPHyKWQb7IbNFNTc6oVl7) | 3:47 | 2022-02-11 |  |
 | [Black Betty](https://open.spotify.com/track/2erfXuZOAQ8T6FjJPDFpBC) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/3byyWn1AUHzGOjPSxh8uBN) | 3:09 | 2020-10-30 | 2022-07-29 |
 | [Black Betty](https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX) | 3:09 | 2020-10-30 |  |
+| [Black Swing](https://open.spotify.com/track/1A2CIDh8zIqey6CRfYY6Oo) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Black Swing](https://open.spotify.com/album/3Clc9pQvWIMdFAe6k9vbwP) | 3:18 | 2023-01-20 |  |
 | [Booty Swing](https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Princess, Pt\. Two](https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T) | 3:17 | 2020-10-30 |  |
 | [Boring 20s](https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01) | [Tamela D'Amico](https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Boring 20s](https://open.spotify.com/album/2AqxV8iRa5sCwT1DHNpcDg) | 2:50 | 2022-05-13 |  |
 | [Brass Devil](https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Brass Devil](https://open.spotify.com/album/4uV6i7Odkg83F6muILQnFO) | 3:52 | 2020-10-30 |  |
@@ -185,7 +186,7 @@
 | [Sleep Rider](https://open.spotify.com/track/0IkBsej5dNXm8NXwcenZYO) | [K.D.S](https://open.spotify.com/artist/5QscINCpyJkmsKEH5GBl88), [Stabfinger](https://open.spotify.com/artist/3neJn3rp5j5QGQqMxeK2Be) | [Black Mama](https://open.spotify.com/album/3POfECojKl0LdOOVKe4UQO) | 4:46 | 2020-10-30 | 2022-07-29 |
 | [Smoking Room](https://open.spotify.com/track/2AljeKmM4Moi21lYEzOHU8) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Smoking Room](https://open.spotify.com/album/3SxNifroyuI7xfbq8tdZIn) | 4:18 | 2020-10-30 | 2022-07-28 |
 | [So Good](https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP) | [Klischée](https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB) | [So Good](https://open.spotify.com/album/4j5hKLe8PcSammSkht2CHD) | 3:16 | 2021-05-21 |  |
-| [Someone New](https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Sonia Elisheva](https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7) | [Someone New](https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy) | 2:56 | 2022-06-10 |  |
+| [Someone New](https://open.spotify.com/track/4wFb2lT44QhdnJLA40C3eR) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Sonia Elisheva](https://open.spotify.com/artist/6xEZnusCKQZ2egFqej09i7) | [Someone New](https://open.spotify.com/album/2F3q5N3VhVL3tOYT8uLVzy) | 2:56 | 2022-06-10 | 2023-01-28 |
 | [Something Serious](https://open.spotify.com/track/6MZ4epg1RvpQCsMq0f5R1t) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Reinwald Kranner](https://open.spotify.com/artist/5QcpYyN9rZK1f6X7Z1JBid), [Melinda Stoika](https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE) | [Something Serious](https://open.spotify.com/album/1IqEauUVodVfkZDadKJ4mg) | 3:10 | 2022-07-15 | 2023-01-09 |
 | [Speed Dating An Arsonist](https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK) | [Diablo Swing Orchestra](https://open.spotify.com/artist/2cbWJP4X5b9sKEDW80uc5r) | [Speed Dating An Arsonist](https://open.spotify.com/album/6FMYspLefkY6vs9I1OHnF9) | 5:30 | 2021-10-22 | 2022-10-13 |
 | [Spook](https://open.spotify.com/track/2B93XfJsX1F2wnisPmtHhF) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Spooktober: Halloween Electro Swing](https://open.spotify.com/album/40m7XojB60MxvDnpsUtoj7) | 4:17 | 2022-10-12 | 2022-11-08 |
@@ -218,6 +219,7 @@
 | [The Good Old Days](https://open.spotify.com/track/5Rt5BHMHFhGko7v8JObIID) | [Moonlight Breakfast](https://open.spotify.com/artist/1lfKZ5QsMaOjo5UbVmNaqp) | [The Good Old Days](https://open.spotify.com/album/0g4RooAJphJMSLPVHcD4BY) | 3:12 | 2022-10-07 |  |
 | [The Illusionist \- Glenn Gatsby Remix](https://open.spotify.com/track/16FCFtwDtgv4OamXVZrqim) | [Valerie Giglio](https://open.spotify.com/artist/0guWLUbzGbZYZ7Abbxuxiw), [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Samuel Cerra](https://open.spotify.com/artist/7EbiisDqIWQRvAFZtJ9Tiu) | [The Illusionist \(Glenn Gatsby Remix\)](https://open.spotify.com/album/2pRtHMttKm9OFOfof33xvQ) | 2:51 | 2022-11-07 | 2022-12-19 |
 | [The Jungle Jive](https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd) | [Minimatic](https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV) | [Bongo Chic](https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052) | 3:51 | 2021-02-19 |  |
+| [The Junker](https://open.spotify.com/track/1EmHeOAiZpHgLMbAXUQENm) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [The Junker](https://open.spotify.com/album/5HEBeoM8fE1Sj6xidb5an9) | 2:58 | 2023-01-27 |  |
 | [The Little Man Who Wasn't There](https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [The Little Man Who Wasn't There](https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX) | 3:26 | 2020-10-30 |  |
 | [The Munsters \- Electro Swing Mix](https://open.spotify.com/track/6KSx750dE2LN3iRgKsbnkO) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i) | [The Munsters \(Electro Swing Mix\)](https://open.spotify.com/album/67drYtHDl9aU68cP8X5ezb) | 2:08 | 2022-10-12 | 2022-11-08 |
 | [To the Bat Cave](https://open.spotify.com/track/5QQrPVZv6mlJ7rB3UEoZck) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [To the Bat Cave](https://open.spotify.com/album/1XmrRxz3esoXTEzIoWVp79) | 3:46 | 2020-10-30 | 2022-07-29 |
@@ -255,6 +257,6 @@
 | [Wochenend Und Sonnenschein \(Electro Swing\)](https://open.spotify.com/track/6oFrnNtYCU1oswN3sz5cP4) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Hans Wachsmann](https://open.spotify.com/artist/4FNI6ZBXPuSt2HghuTeZmT) | [Wochenend Und Sonnenschein \(Electro Swing\)](https://open.spotify.com/album/7nkCekFLGh5JbCB3VWHXcU) | 3:02 | 2020-10-30 | 2022-08-06 |
 | [Worldwide](https://open.spotify.com/track/5sjmBbBBXMo5g8GyMTvGm0) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Worldwide](https://open.spotify.com/album/7MzUsDka8FtsPLFn941toY) | 3:03 | 2020-10-30 | 2022-07-01 |
 | [You Meet the Nicest People \(In Your Dreams\) \(Electro Swing\)](https://open.spotify.com/track/0xLdR1lvZfsyXepQwDY9Jf) | [Swing City](https://open.spotify.com/artist/3APMjlZOb1eQ3yX5jUz6GR) | [You Meet the Nicest People \(In Your Dreams\) \(Electro Swing\)](https://open.spotify.com/album/4eo0MYjW0dziEPmKb6t2fh) | 3:07 | 2022-12-09 | 2023-01-24 |
-| [You Rascal You](https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Both Sides of the Moon](https://open.spotify.com/album/3nE3aRcSztx4bLkk5DwtJK) | 2:45 | 2022-07-05 |  |
+| [You Rascal You](https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Both Sides of the Moon](https://open.spotify.com/album/3nE3aRcSztx4bLkk5DwtJK) | 2:45 | 2022-07-05 | 2023-01-28 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

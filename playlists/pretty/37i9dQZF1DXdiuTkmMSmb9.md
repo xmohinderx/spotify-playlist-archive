@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Craig Isto
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,398 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,447 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 77 | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl) | 3:08 |
 | 78 | [understand](https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:54 |
 | 79 | [Higher \(feat\. JKING & Billymaree\)](https://open.spotify.com/track/577o8dF3FtOvCMiN56ilmz) | [DJ Discretion](https://open.spotify.com/artist/08CmTveAFjDqu36A2pKe1A), [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp), [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [Higher \(feat\. JKING & Billymaree\)](https://open.spotify.com/album/1PrLMFlEKDhPXANZVOYn45) | 3:47 |
-| 80 | [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 |
+| 80 | [emiliana](https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:46 |
 
-Snapshot ID: `MTY3NDc0MDg1NywwMDAwMDAwMDY2MWIzODE0M2EyNWJkZGJiYjgxOTY5NTRhNjgxNTdh`
+Snapshot ID: `MTY3NDc0MDg1NywwMDAwMDAwMDM2ODQ0MjM2NmFhMDZhNjdkM2JmYTEwNzk2ZDcwYzll`

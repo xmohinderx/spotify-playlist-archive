@@ -1,15 +1,15 @@
 {
   "description": "The best new music by independent artists and labels, featuring Selines. Updates every Wednesday.",
-  "num_followers": 168646,
+  "num_followers": 168655,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY2OTYwMCwwMDAwMDAwMDlkMjE0ODI4Yzk4ZmNiMzY3OTE0MGYwMWM5NmM1YTFm",
+  "snapshot_id": "MTY3NDY2OTYwMCwwMDAwMDAwMDE1MjA5MDA5NWRmZjJhOGE5MDczNjk1MWU2ZDQ2NmMw",
   "tracks": [
     {
-      "added_at": "2023-01-27 01:37:10",
+      "added_at": "2023-01-28 01:36:31",
       "album": {
         "name": "Me Empiezo a Enamorar",
         "url": "https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp"
     },
     {
-      "added_at": "2023-01-27 01:37:10",
+      "added_at": "2023-01-28 01:36:31",
       "album": {
         "name": "no me gusta eso",
         "url": "https://open.spotify.com/album/3I4Zau33AWgPNJzit17Iz7"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1RSCXKXHzyO0okaJH093RZ"
     },
     {
-      "added_at": "2023-01-27 01:37:10",
+      "added_at": "2023-01-28 01:36:31",
       "album": {
         "name": "Parcerita",
         "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
-      "added_at": "2023-01-27 01:37:10",
+      "added_at": "2023-01-28 01:36:31",
       "album": {
         "name": "Make it Norte\u00f1o Vol. 1",
         "url": "https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8"
     },
     {
-      "added_at": "2023-01-27 01:37:10",
+      "added_at": "2023-01-28 01:36:31",
       "album": {
         "name": "Caminos Diferentes",
         "url": "https://open.spotify.com/album/3ccrmjkBbnWyZe9VJrfeWk"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/2bVN9n3bKHkm9Qcwdokk9H"
     },
     {
-      "added_at": "2023-01-27 01:37:10",
+      "added_at": "2023-01-28 01:36:31",
       "album": {
         "name": "\u00bfPara qu\u00e9?",
         "url": "https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS"
     },
     {
-      "added_at": "2023-01-27 01:37:10",
+      "added_at": "2023-01-28 01:36:31",
       "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK"
     },
     {
-      "added_at": "2023-01-27 01:37:10",
+      "added_at": "2023-01-28 01:36:31",
       "album": {
         "name": "Neverita",
         "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
+        "name": "Te Fuiste",
+        "url": "https://open.spotify.com/album/6iki406BxDxrFOXfaLVxHC"
+      },
+      "artists": [
+        {
+          "name": "Rou C",
+          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
+        }
+      ],
+      "duration_ms": 196624,
+      "name": "Te Fuiste",
+      "url": "https://open.spotify.com/track/7lfZPghEhMddjiKmUUzjGf"
+    },
+    {
+      "added_at": "2023-01-18 23:04:56",
+      "album": {
         "name": "Amor Tumbado (Bachata RMX)",
         "url": "https://open.spotify.com/album/289L8dvLXkv0dVKeOPTnkd"
       },
@@ -451,18 +467,22 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
-        "name": "Te Fuiste",
-        "url": "https://open.spotify.com/album/6iki406BxDxrFOXfaLVxHC"
+        "name": "Tonight we Dance",
+        "url": "https://open.spotify.com/album/04UdS3vpsoPQSJtTHZrsDx"
       },
       "artists": [
         {
-          "name": "Rou C",
-          "url": "https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9"
+          "name": "Jon Clasic",
+          "url": "https://open.spotify.com/artist/4drGuebMZkmA89fIRyv6pv"
+        },
+        {
+          "name": "Dj Limbo Latino",
+          "url": "https://open.spotify.com/artist/6KjB8HCNZ9QUCcEV1uq2bb"
         }
       ],
-      "duration_ms": 196624,
-      "name": "Te Fuiste",
-      "url": "https://open.spotify.com/track/7lfZPghEhMddjiKmUUzjGf"
+      "duration_ms": 217288,
+      "name": "Tonight we Dance",
+      "url": "https://open.spotify.com/track/6NNMbe7wXdWqkef2djOddx"
     },
     {
       "added_at": "2023-01-18 23:04:56",
@@ -511,26 +531,6 @@
       "duration_ms": 101117,
       "name": "No Me Queda Mas",
       "url": "https://open.spotify.com/track/7FbUkXL2ROCsxg8P3hRCNH"
-    },
-    {
-      "added_at": "2023-01-18 23:04:56",
-      "album": {
-        "name": "Tonight we Dance",
-        "url": "https://open.spotify.com/album/04UdS3vpsoPQSJtTHZrsDx"
-      },
-      "artists": [
-        {
-          "name": "Jon Clasic",
-          "url": "https://open.spotify.com/artist/4drGuebMZkmA89fIRyv6pv"
-        },
-        {
-          "name": "Dj Limbo Latino",
-          "url": "https://open.spotify.com/artist/6KjB8HCNZ9QUCcEV1uq2bb"
-        }
-      ],
-      "duration_ms": 217288,
-      "name": "Tonight we Dance",
-      "url": "https://open.spotify.com/track/6NNMbe7wXdWqkef2djOddx"
     },
     {
       "added_at": "2023-01-18 23:04:56",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
-        "name": "Mosca",
-        "url": "https://open.spotify.com/album/6WzbbHdyk1mh4HKlbQc5H3"
-      },
-      "artists": [
-        {
-          "name": "Sasha Wrist",
-          "url": "https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD"
-        }
-      ],
-      "duration_ms": 163034,
-      "name": "Mosca",
-      "url": "https://open.spotify.com/track/5lSnbAo7GD1wdvez82WQAo"
-    },
-    {
-      "added_at": "2023-01-18 23:04:56",
-      "album": {
         "name": "Yo No Te Creo",
         "url": "https://open.spotify.com/album/1pfm8mTVJkv9gDmjRAIrNp"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 188309,
       "name": "Yo No Te Creo",
       "url": "https://open.spotify.com/track/7b1zAM1mrXd2OqB4wz6dwL"
+    },
+    {
+      "added_at": "2023-01-18 23:04:56",
+      "album": {
+        "name": "Mosca",
+        "url": "https://open.spotify.com/album/6WzbbHdyk1mh4HKlbQc5H3"
+      },
+      "artists": [
+        {
+          "name": "Sasha Wrist",
+          "url": "https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD"
+        }
+      ],
+      "duration_ms": 163034,
+      "name": "Mosca",
+      "url": "https://open.spotify.com/track/5lSnbAo7GD1wdvez82WQAo"
     },
     {
       "added_at": "2023-01-18 23:04:56",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-01-18 23:04:56",
       "album": {
+        "name": "Rs5",
+        "url": "https://open.spotify.com/album/3QE3LdwskDdy1v8BMiCT12"
+      },
+      "artists": [
+        {
+          "name": "EL NAGO",
+          "url": "https://open.spotify.com/artist/2ZOvUFl38SrMZ4H2pzO5lg"
+        }
+      ],
+      "duration_ms": 145401,
+      "name": "Rs5",
+      "url": "https://open.spotify.com/track/76lq8oJbdWxbczUAlqC2pJ"
+    },
+    {
+      "added_at": "2023-01-18 23:04:56",
+      "album": {
         "name": "AUCH",
         "url": "https://open.spotify.com/album/3W5CRzl0Cp9j3cnWt4Ya8q"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 186032,
       "name": "AUCH",
       "url": "https://open.spotify.com/track/3BY01BUINZFNvYJFWPwROg"
-    },
-    {
-      "added_at": "2023-01-18 23:04:56",
-      "album": {
-        "name": "Rs5",
-        "url": "https://open.spotify.com/album/3QE3LdwskDdy1v8BMiCT12"
-      },
-      "artists": [
-        {
-          "name": "EL NAGO",
-          "url": "https://open.spotify.com/artist/2ZOvUFl38SrMZ4H2pzO5lg"
-        }
-      ],
-      "duration_ms": 145401,
-      "name": "Rs5",
-      "url": "https://open.spotify.com/track/76lq8oJbdWxbczUAlqC2pJ"
     }
   ],
   "unique_name": "Fresh Finds Latin",

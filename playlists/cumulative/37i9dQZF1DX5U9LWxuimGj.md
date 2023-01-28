@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Kat & Alex
 
-107 songs - 5 hr 55 min
+111 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Anybody Else \- Latin Remix](https://open.spotify.com/track/0HvfTzdXOpyoUtayGyvLyn) | [Mira Goto](https://open.spotify.com/artist/4QsATL0ozR4un64TltaF7o), [Pamela Velez](https://open.spotify.com/artist/3nxx6KxCTRLcdlW4vFRy4U), [Nia Skyfer](https://open.spotify.com/artist/3eZUOEIFA3hTKWNs6UbZwN) | [Anybody Else \(Latin Remix\)](https://open.spotify.com/album/4XidZG19fylj92RfMH3fl0) | 2:00 | 2021-12-10 |  |
 | [Ashes](https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 4:34 | 2022-07-08 |  |
 | [Ashes](https://open.spotify.com/track/6dben05JiKn09x31h1JgOW) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 4:34 | 2021-12-10 | 2022-07-29 |
+| [Before The Next Teardrop Falls](https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:42 | 2023-01-27 |  |
 | [Botas Viejas](https://open.spotify.com/track/37zaEv7xyMujZ8pPLwJ0YS) | [Forasteros Country Band](https://open.spotify.com/artist/5e8fguiEHhhAF6Z5b7bSg0) | [Perder o Ganar](https://open.spotify.com/album/6nhXLyWpfRblMBerEkXitK) | 2:51 | 2021-12-10 |  |
 | [Caminando](https://open.spotify.com/track/4A2WUGWWhMomNd3SshZK2E) | [Alamo Country Band](https://open.spotify.com/artist/2IAjHCBYs2aB1I5KQf5G7p) | [Alamo Country Band](https://open.spotify.com/album/5rIcbhlN8jUeXVAPZYWaTv) | 3:50 | 2021-12-10 |  |
 | [Chero en la Gran Ciudad](https://open.spotify.com/track/6Xc7SksAQwy2sbX1dAbT45) | [Los Vikingos Del Norte](https://open.spotify.com/artist/1M4xkleBO7JywHJ9oPw3qM), [Alamo Country Band](https://open.spotify.com/artist/2IAjHCBYs2aB1I5KQf5G7p) | [Chero en la Gran Ciudad](https://open.spotify.com/album/5lhxb1lo9wPEKi0CdCNehw) | 2:32 | 2021-12-10 |  |
@@ -26,6 +27,7 @@
 | [Cowboy Cumbia \(Bilingual\)](https://open.spotify.com/track/3j9R13BrWuygVOgOeIu2qe) | [Javier Molina](https://open.spotify.com/artist/2vSsnnmsA8tgIKAR13k8ZO) | [Cowboy Cumbia \(20th Anniversary Edition\)](https://open.spotify.com/album/6PJa8XuD1rafZnJR5PnFRq) | 4:22 | 2021-12-10 |  |
 | [Crying \(Bilingual Version\)](https://open.spotify.com/track/0CYzZDqEq4O7ArwvMqzQ7B) | [Veronique Medrano](https://open.spotify.com/artist/4fN7gCSTewGjaMJnuk8K2h) | [Crying](https://open.spotify.com/album/4vkqPJ5odJpdDKBOPV338B) | 3:17 | 2021-12-10 |  |
 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 | 2021-12-10 |  |
+| [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 | 2023-01-27 |  |
 | [Day Drinking \- Party Mix](https://open.spotify.com/track/4zVwASFqCT6XUmpBrnuIJK) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Day Drinking \(Party Mix\)](https://open.spotify.com/album/221DPZOZH1TDYisXjLeC81) | 3:35 | 2021-12-10 |  |
 | [Dos Copas de Más \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/6SJHD4x5Utx7lnBJCtOpML) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/7swLFakFeCrD0XeazxzJd1) | 3:42 | 2021-12-10 |  |
 | [Down The Road](https://open.spotify.com/track/5kdajqHHMPDsFEQEY7YstN) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [The Buckleys](https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p) | [Down The Road](https://open.spotify.com/album/6TmzDsVkEq3j3xNdkDahCM) | 2:58 | 2022-06-03 | 2022-12-08 |
@@ -42,6 +44,7 @@
 | [Gracias A La Vida](https://open.spotify.com/track/5bHSXxczMdoPWVg3RemYHq) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Liberty: Piano Songbook](https://open.spotify.com/album/5osw6hJrMHsAFfKuJUlHMW) | 2:46 | 2021-12-10 | 2022-09-03 |
 | [Hell in a Handbag](https://open.spotify.com/track/3AU9pWnplEeKOQP55P66kr) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Hell in a Handbag](https://open.spotify.com/album/7El9JLvuISfaC9EZACDzX7) | 3:23 | 2021-12-10 |  |
 | [Hey Baby Que Pasó \- Live from Texas](https://open.spotify.com/track/6w7T58kAjQNfp0jG9UheoJ) | [The Last Bandoleros](https://open.spotify.com/artist/3Zk03qhmFLepNYW2atWkmE) | [Hey Baby Que Pasó \(Live from Texas\)](https://open.spotify.com/album/7sSnNlqb9e8qqLwpkNlAfD) | 3:13 | 2021-12-10 |  |
+| [Hey There Delilah](https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8) | [EZ Band](https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847) | [Make it Norteño Vol\. 1](https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs) | 3:52 | 2023-01-27 |  |
 | [Homesick](https://open.spotify.com/track/7esySixzBv7n9uM259kLeP) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Homesick](https://open.spotify.com/album/7BZblgdX1lrGf0sdu0MG3P) | 3:24 | 2021-12-10 |  |
 | [Honky Tonk Education](https://open.spotify.com/track/2e0heBxxDYvsw8MMPhg88z) | [Michael Salgado](https://open.spotify.com/artist/3KIX7sAMvFDFFPYubKRZ5w) | [Honky Tonk Education](https://open.spotify.com/album/3q9oBglyQUUUmzva0mvU5Y) | 3:26 | 2021-12-10 |  |
 | [Honkytonk Bar](https://open.spotify.com/track/5uWUZQEP1TxZM2YYgDe3bu) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Honkytonk Bar](https://open.spotify.com/album/5ZyERoLUgfH0NzVEkzZsvH) | 2:55 | 2022-02-18 | 2022-09-03 |
@@ -107,6 +110,7 @@
 | [Timeless \(Spanish Version\)](https://open.spotify.com/track/5tddHCci9vyQVnNWVSJs4G) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Timeless](https://open.spotify.com/album/6pKXgkrBT3Gz7jixcrBCJ6) | 3:17 | 2021-12-10 |  |
 | [Tomemos Un Trago \- Let's Find A Bar \- Spanish Version](https://open.spotify.com/track/38sGy3JpSD3oT6NyFhUtPc) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Tomemos Un Trago \(Let's Find A Bar \- Spanish Version\)](https://open.spotify.com/album/3fThkG75KkFTnCjG4sss5N) | 2:58 | 2022-06-10 |  |
 | [Tonto](https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP) | [Country Pop Latino](https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm) | 3:00 | 2021-12-10 |  |
+| [Touring Tx](https://open.spotify.com/track/3QUhAIRAiWTAZXPPWsDinU) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:39 | 2023-01-27 |  |
 | [True Love](https://open.spotify.com/track/2T4FEAOUdzffXKzeyjrhPJ) | [Vince Mira](https://open.spotify.com/artist/6TnRQbaMql4s7JjzN0gup9) | [El Radio](https://open.spotify.com/album/1Ou8ELAdRfOzuJeKuARs9v) | 3:04 | 2021-12-10 |  |
 | [USA](https://open.spotify.com/track/1Od5RPOmHmDoZ2HYct1IDg) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [USA](https://open.spotify.com/album/3c4FhI6rs61ojVXezxTrRn) | 2:55 | 2022-07-01 |  |
 | [Vaquera and the Cowboy](https://open.spotify.com/track/1S05YF8kpBxDLq9TCc2kIG) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Vaquera and the Cowboy](https://open.spotify.com/album/1uSY1zzeup2XbOZUNctQ3I) | 2:50 | 2021-12-10 |  |

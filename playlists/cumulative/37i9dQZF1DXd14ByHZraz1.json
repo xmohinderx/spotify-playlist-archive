@@ -152,7 +152,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 176612,
       "name": "Anybody Else",
       "url": "https://open.spotify.com/track/4NbmxDHT22uG720SQjjJKf"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 201428,
       "name": "Clap Your Hands",
       "url": "https://open.spotify.com/track/1OoSh6HU59Am9V7uZkt9xc"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 174683,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/0VWprMxFrfVyzC2w3oZ2cE"
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 189047,
       "name": "Funkatron",
       "url": "https://open.spotify.com/track/5JohYODxZkqfPFC3UWSrMj"
@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 221904,
       "name": "I Want Love - Cat Dealers Remix",
       "url": "https://open.spotify.com/track/1EHntR301ugg07W2JBUZhK"
@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 271935,
       "name": "The Way",
       "url": "https://open.spotify.com/track/2W63BnQnUwe6pp9lctTfBo"
@@ -2448,6 +2448,28 @@
       "duration_ms": 253658,
       "name": "With You",
       "url": "https://open.spotify.com/track/3hx2GGk4lwbOislq85AE0q"
+    },
+    {
+      "album": {
+        "name": "Work With My Love",
+        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150483,
+      "name": "Work With My Love",
+      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > ...and find your focus.
 
-187 songs - 14 hr 50 min
+188 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Elaenia](https://open.spotify.com/track/6jOuX9gIkhcS2ibdoWDaCb) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/4kPdKvrSCTEEcJTqCNkGc8) | 7:14 | 2020-10-20\* | 2021-08-21 |
 | [Escaping Time](https://open.spotify.com/track/7JrSIPcfkWhDzxWII8Jz7V) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Floating](https://open.spotify.com/album/3ppEryBS6RaQDTrwmqB8n8) | 3:20 | 2021-02-04 |  |
 | [Eve \(Anwummerɛ\)](https://open.spotify.com/track/6iKSnT1iFPYaTcTDZhAPqP) | [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Conduit](https://open.spotify.com/album/5ywCFs1YQJIlDkyYVY6Rsy) | 6:00 | 2022-09-29 |  |
-| [Faded Afternoon Heat](https://open.spotify.com/track/4zS89MxcM3GDjpN8uF1F97) | [never forget you/re a terrifying freak](https://open.spotify.com/artist/4lPrIzWpohl195VDVJZxwk) | [Faded Afternoon Heat](https://open.spotify.com/album/485dcPfgaNP39dSSnD8BVx) | 4:22 | 2021-04-09 |  |
+| [Faded Afternoon Heat](https://open.spotify.com/track/0qZKYqNo2M3MhjCObQoNHH) | [never forget you/re a terrifying freak](https://open.spotify.com/artist/4lPrIzWpohl195VDVJZxwk) | [Faded Afternoon Heat](https://open.spotify.com/album/08cz1zgqFQTbClYyYzpupf) | 4:22 | 2023-01-26 |  |
+| [Faded Afternoon Heat](https://open.spotify.com/track/4zS89MxcM3GDjpN8uF1F97) | [never forget you/re a terrifying freak](https://open.spotify.com/artist/4lPrIzWpohl195VDVJZxwk) | [Faded Afternoon Heat](https://open.spotify.com/album/485dcPfgaNP39dSSnD8BVx) | 4:22 | 2021-04-09 | 2023-01-28 |
 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 | 2022-06-16 |  |
 | [Falling4you](https://open.spotify.com/track/39m1Q9E6pwmSZMeVqy4rxw) | [Himalia](https://open.spotify.com/artist/45ryIcdZBFNpZvmBGuRMwM) | [Falling4you](https://open.spotify.com/album/01BqfH6W45cut4ioyEytJU) | 2:48 | 2020-10-20\* | 2021-09-04 |
 | [Farben Dub](https://open.spotify.com/track/6v1mluUChk5zyPudNNoexf) | [Anton Kubikov](https://open.spotify.com/artist/6EFW97xZ8UyegVYNJ2fJtg) | [WAITNESS](https://open.spotify.com/album/73QzStPqJ259qJNhQ9uVkH) | 6:31 | 2021-02-04 | 2022-09-30 |

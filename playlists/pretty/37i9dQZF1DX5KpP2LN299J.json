@@ -1,13 +1,29 @@
 {
   "description": "The essential tracks, all in one playlist.",
-  "num_followers": 3681907,
+  "num_followers": 3685129,
   "original_name": "This Is Taylor Swift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYwNTM3MCwwMDAwMDAwMDE0YmE2NmI5MDgyZjIwZDI4NGU0MjUzZjJkNTQ4YTZm",
+  "snapshot_id": "MTY3NDgyNjA1NiwwMDAwMDAwMDg0YWVkMzZjMWNmMDNjZTFmNGMwN2RlZDEyMWU4MjAz",
   "tracks": [
+    {
+      "added_at": "2023-01-25 00:09:30",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 202395,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
+    },
     {
       "added_at": "2023-01-25 00:09:30",
       "album": {
@@ -71,22 +87,6 @@
       "duration_ms": 174782,
       "name": "Midnight Rain",
       "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
-    },
-    {
-      "added_at": "2023-01-25 00:09:30",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 202395,
-      "name": "Lavender Haze",
-      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
     },
     {
       "added_at": "2023-01-25 00:09:30",

@@ -5493,6 +5493,24 @@
     },
     {
       "album": {
+        "name": "Forgotten Realms",
+        "url": "https://open.spotify.com/album/1qyyPZ18vww4s9OMInF1X3"
+      },
+      "artists": [
+        {
+          "name": "E_DEATH",
+          "url": "https://open.spotify.com/artist/2wSwy8bHoCzFngrIrDCFDd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224400,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/7qzDNq0CqZZhPWJUDibj9F"
+    },
+    {
+      "album": {
         "name": "New To You",
         "url": "https://open.spotify.com/album/3UvCSSP3ee0lKm9JLGZJVr"
       },
@@ -16598,6 +16616,24 @@
       "duration_ms": 173255,
       "name": "Spring's Return",
       "url": "https://open.spotify.com/track/3BLgN0lIEtXLKRgvcRPAs7"
+    },
+    {
+      "album": {
+        "name": "Sprinkler Song",
+        "url": "https://open.spotify.com/album/2uzdT65t9cTJeekpeI3nHy"
+      },
+      "artists": [
+        {
+          "name": "Charlie Havenick",
+          "url": "https://open.spotify.com/artist/3pKBOpNvBfoytn7fNArMHi"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Sprinkler Song",
+      "url": "https://open.spotify.com/track/5AjnU8UASsUymoryckJ8Ak"
     },
     {
       "album": {

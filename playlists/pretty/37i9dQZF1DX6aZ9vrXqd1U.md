@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,148 likes - 123 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,257 likes - 123 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 14 | [コガネゾラ](https://open.spotify.com/track/5IOg7tk7Kx7PXDvdoEwTmR) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [コガネゾラ](https://open.spotify.com/album/4CINcYYU40D6bmu0Pyfxgy) | 3:23 |
 | 15 | [RedZone](https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN) | 3:47 |
 | 16 | [Raise your flag](https://open.spotify.com/track/0zz23sDNfQ0onyVh80GwqF) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [The World's On Fire](https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy) | 4:07 |
-| 17 | [オルフェンズの涙](https://open.spotify.com/track/3vvdRYBwFbDjsb8IaK0Pgs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [オルフェンズの涙](https://open.spotify.com/album/0WmvnavzuVxzVM4x8yHR0Q) | 5:06 |
+| 17 | [オルフェンズの涙](https://open.spotify.com/track/7uJLIW51cR6Vp5edmquXZU) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA THE GREAT HOPE BEST](https://open.spotify.com/album/7pUZqSUfhCkV2MegF30rve) | 5:05 |
 | 18 | [Survivor](https://open.spotify.com/track/76X16LOhkwkDXPEMQzkLFV) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [THE END](https://open.spotify.com/album/6woCFdjeO1ayr14tKGL1vI) | 3:40 |
 | 19 | [STEEL \-鉄血の絆\-](https://open.spotify.com/track/20VdkamdRMOeJWJygL2bHh) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Around the TRUE](https://open.spotify.com/album/15uHffJGg720NSYqceFyMG) | 5:21 |
 | 20 | [RAGE OF DUST](https://open.spotify.com/track/3HAVLN7wg1sLZlsFKsA7q0) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:22 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 122 | [ビギニング](https://open.spotify.com/track/515LLsIoa7eetaTiFEJSa6) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [ビギニング](https://open.spotify.com/album/4oel0lHGTN643V87ohpAL1) | 3:24 |
 | 123 | [A Red Ray](https://open.spotify.com/track/2KCOmmGptlVGAvFAVzAx7H) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [A Red Ray](https://open.spotify.com/album/3LRl7ohuRCj6RIDTEhcx3r) | 4:51 |
 
-Snapshot ID: `MTY3MDM0NTg1MywwMDAwMDAwMDYyNzJiNzJmZTYwZjQ3MjZmMmFkOTU5NmU1MGQ4MTE2`
+Snapshot ID: `MTY3MDM0NTg1MywwMDAwMDAwMGZhNGZjMWM0MWEwMzMzNDQyODg3OTQ5ZTJhYTE2ZDMx`

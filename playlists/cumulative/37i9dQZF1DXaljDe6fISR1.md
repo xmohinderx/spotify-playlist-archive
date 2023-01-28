@@ -4,7 +4,7 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: ADL, Facção Central
 
-96 songs - 7 hr 28 min
+98 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Eu Viajei no Meu Rádio](https://open.spotify.com/track/6qhjV2yZ19mggPeaT4s4TN) | [Radiola Santa Rosa](https://open.spotify.com/artist/54X71c7GFBwZBjs9Vpn3kT), [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Eu Viajei no Meu Rádio](https://open.spotify.com/album/5NQI21j6fPi10arbKZ0BO5) | 3:29 | 2022-03-11 |  |
 | [Favela Sinistra](https://open.spotify.com/track/3G8gF1ClzlQBV66fz6S6JB) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [Us Fracu Num Tem Veiz](https://open.spotify.com/album/0biw33bgZqGqmrxjGp0e3b) | 3:35 | 2022-03-11 |  |
 | [Homem Sem Face](https://open.spotify.com/track/69B8oPbHQ0ivRKzUktV3MH) | [Sombra](https://open.spotify.com/artist/54cBoDN5Z8F9chRzmQz7V3) | [Fantástico Mundo Popular](https://open.spotify.com/album/37i4UwzDnVpEJQZT4URjZg) | 4:10 | 2022-03-11 |  |
+| [Inté Sermos 1 \- Tudo Que Queria](https://open.spotify.com/track/6S2LWMJDF3YaWgsFS2m2h4) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv), [Ester Mello](https://open.spotify.com/artist/30DjiOaSbDvlqJQGkJAQZo), [jonatas nascimento](https://open.spotify.com/artist/7GrNVXnQ800k7EqwBIEPoI), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Inté Sermos 1 \- Tudo Que Queria](https://open.spotify.com/album/5KNYe1St9t07vUwpkktQn5) | 9:54 | 2023-01-27 |  |
 | [Invicto](https://open.spotify.com/track/4LMEQblquC72wJXvuQsX9F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Revel](https://open.spotify.com/album/5hFdInpTsPMTbRwxXuB2j8) | 4:16 | 2022-03-11 | 2022-07-29 |
 | [Invicto](https://open.spotify.com/track/3ecQ7EFhQCJbPfM8fQ5JaD) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf) | 4:16 | 2022-04-22 |  |
 | [Jovens Soldados](https://open.spotify.com/track/18e5o5nAbRrIhy5dHcRUtM) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [Jovens Soldados](https://open.spotify.com/album/3YD8VRaMjyxETnJ0ekHmVs) | 5:06 | 2022-03-11 |  |
@@ -50,6 +51,7 @@
 | [Levanta e Anda](https://open.spotify.com/track/0JSux25Te5HYMSr2D64d02) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 2:30 | 2022-03-11 |  |
 | [Lágrimas do Palhaço](https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | ["...Entre..."](https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX) | 3:54 | 2022-03-11 |  |
 | [Mantenha o Respeito](https://open.spotify.com/track/5scK80Nrz12oGUnQGcPgg1) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU) | [Usuário](https://open.spotify.com/album/6IprXLAWCQtujK6LHFt9bn) | 3:16 | 2022-03-11 |  |
+| [Minha Cota](https://open.spotify.com/track/34ttcDOpcaiEfj4PRn3LfB) | [Atitude Consciente](https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr) | [Anunak](https://open.spotify.com/album/21YMupsMicZtl262PUTIE0) | 1:18 | 2023-01-27 |  |
 | [Mulher Elétrica](https://open.spotify.com/track/7FuwhCYus3htyXClROmiFZ) | [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [William Magalhães](https://open.spotify.com/artist/4MJN4aIU640fw6oayplA0n) | [Boogie Naipe](https://open.spotify.com/album/6HsKHQGO3oineHD04cm17X) | 3:33 | 2022-03-11 |  |
 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 | 2022-03-11 |  |
 | [Nunca Foi Fácil](https://open.spotify.com/track/5XGM1g11ltC9TTiR7uDLUm) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe) | [Nunca Foi Fácil](https://open.spotify.com/album/5Q3s6Jkihallz8BmVh30TP) | 3:49 | 2022-03-11 | 2022-04-23 |

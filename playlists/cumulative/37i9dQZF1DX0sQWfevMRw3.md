@@ -4,7 +4,7 @@
 
 > Trodde aldrig jag skulle gilla EPA RAPAPAPA!
 
-498 songs - 22 hr 1 min
+499 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Paradise \- Topic Remix](https://open.spotify.com/track/4PZW5GQCtmdHAocDXLdU4j) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Paradise \(Topic Remix\)](https://open.spotify.com/album/7AzUBs2mUyC8CX9yPJkr2F) | 2:53 | 2021-12-16 | 2022-08-23 |
 | [Party To Survive](https://open.spotify.com/track/4WJhrzxISwyXPCozZTWsrI) | [TADROS](https://open.spotify.com/artist/1hMVsPngYpyuvTdACJLdFN) | [Party To Survive](https://open.spotify.com/album/0JEYg8YC63DbGeK7KtUEsH) | 2:24 | 2022-06-02 | 2022-07-29 |
 | [Party Trick \(Burp Song\)](https://open.spotify.com/track/1pNEqaiH3SESSKbkmtpytA) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Party Trick \(Burp Song\)](https://open.spotify.com/album/4lQXhmqL41qE9YYFJwmpTT) | 2:21 | 2022-09-08 | 2022-12-02 |
-| [Pass me the rum](https://open.spotify.com/track/1bFBNbZHpR4CRjUJuRKaq3) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Jungle Jonsson](https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z) | [Pass me the rum](https://open.spotify.com/album/1QKsB8aNfNIYbRtSjoehmY) | 2:32 | 2022-10-10 |  |
+| [Pass me the rum](https://open.spotify.com/track/1bFBNbZHpR4CRjUJuRKaq3) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Jungle Jonsson](https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z) | [Pass me the rum](https://open.spotify.com/album/1QKsB8aNfNIYbRtSjoehmY) | 2:32 | 2022-10-10 | 2023-01-28 |
 | [Pasta & Vin](https://open.spotify.com/track/6M2cedsUtEFPAY2vIdy6H0) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Stånkarna](https://open.spotify.com/artist/5eIcN17Kbrk8PGWvuPd21J) | [Pasta & Vin](https://open.spotify.com/album/4weklnGZlBMCg9wlyiZgM0) | 2:22 | 2021-12-16 | 2022-04-22 |
 | [Patience \(feat\. Kayla Rose\)](https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Kayla Rose](https://open.spotify.com/artist/36xsrPKnUIN1ZCSlO5Xnqk) | [Patience \(feat\. Kayla Rose\)](https://open.spotify.com/album/53ai1YrajGquql1qDvB6d7) | 3:40 | 2021-12-16 | 2022-07-27 |
 | [PCP](https://open.spotify.com/track/72H8hxvjqEzfsb3uB4gzvo) | [Essa](https://open.spotify.com/artist/7hBhO7vg4hjrYu9l6LccsZ) | [PCP](https://open.spotify.com/album/0w6mlrPJXCHdwSrOHvRhTj) | 3:39 | 2021-12-16 | 2022-04-22 |
@@ -384,6 +384,7 @@
 | [SKÅL](https://open.spotify.com/track/0H7EEBVrmoupdLzj22cXDp) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [JeppsoN](https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx) | [SKÅL](https://open.spotify.com/album/1I0pYY5YxW5EYSBv4UYeD2) | 2:29 | 2022-06-02 | 2022-10-11 |
 | [Skål & Tack](https://open.spotify.com/track/07JH4yIXnLNxh1Zy1E5Dj2) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC) | [Skål & Tack](https://open.spotify.com/album/6cT3Df9U57WnYIs5p48StR) | 3:14 | 2022-11-17 | 2023-01-27 |
 | [Skål då!](https://open.spotify.com/track/0Q3MqvGBtkI8YaDb7GzlWS) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [Skål då!](https://open.spotify.com/album/6lZERp4Vt0fs99if7Jx6zS) | 2:06 | 2021-12-16 | 2022-04-22 |
+| [Småstadsbarn](https://open.spotify.com/track/2Yb05z9QdEQnlSxcuMcWfC) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Småstadsbarn](https://open.spotify.com/album/02KeH86FYjuw8Td8c1vhb5) | 3:00 | 2023-01-27 |  |
 | [SNABB](https://open.spotify.com/track/23Aq54DbkbK2Bo1PicKxF2) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr), [Julia Kedhammar](https://open.spotify.com/artist/24JKr8xzxciKUmpx8fu8AY) | [SNABB](https://open.spotify.com/album/3Of7CxWmAnTswawayj6X6I) | 2:24 | 2022-08-25 | 2022-12-24 |
 | [SNE](https://open.spotify.com/track/7pgbgIwcoKAzp5n7NXxAUw) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [SNE](https://open.spotify.com/album/4btDGRubgdOiHAjjvDl4PA) | 2:19 | 2022-01-06 | 2022-07-29 |
 | [SNURRAR SOM ETT HJUL](https://open.spotify.com/track/08TmjaKrRDvnRfuMWccWsN) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [SNURRAR SOM ETT HJUL](https://open.spotify.com/album/5NcBV2Wruziy3gkKjny9Yh) | 2:05 | 2022-11-24 |  |

@@ -2,7 +2,7 @@
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: I Need a Bride\(신부가 필요해\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: The Heavenly Idol \(성스러운 아이돌\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
 112 songs - 6 hr 51 min
 

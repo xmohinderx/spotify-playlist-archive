@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=PU9vhObaRAGMe5mYoFDnXQ">Lwah Ndlunkulu</a>
+> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn?si=DGIHR7TETBCGgLMRJ381hQ">Sjava</a>
 
-320 songs - 23 hr 0 min
+322 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Emkhathini](https://open.spotify.com/track/3P2UIfvIjW50aUICUjjPvA) | [Maraza](https://open.spotify.com/artist/4JCwr8GdTrhXmCvecM7Nkl) | [Emkhathini](https://open.spotify.com/album/3vncYWPSaZx3t6Mi7q5YvR) | 3:50 | 2022-04-08 | 2022-07-01 |
 | [Emsebenzini](https://open.spotify.com/track/6goYtFau1jzp7GZAwDQPcu) | [Umzulu Phaqa](https://open.spotify.com/artist/6nStNfo8Gzsff8NcJl4mND) | [Emisebenzini](https://open.spotify.com/album/1FVuYbmGri113ZZDUJRLEb) | 3:40 | 2022-08-18 | 2022-09-23 |
 | [Esfubeni](https://open.spotify.com/track/7eIGgeSfeC3FHd2xiZ6cks) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J) | [Words of Hope](https://open.spotify.com/album/78D6xzkUvdpGiVSMvckSOM) | 4:40 | 2022-11-17 |  |
+| [Ewallet](https://open.spotify.com/track/3dnalT0K3cynUUcxLGT6gZ) | [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [AB Crazy](https://open.spotify.com/artist/2AV7bayWSUDsA3Iwb7b7UN), [Nhlonipho](https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW) | [Ewallet](https://open.spotify.com/album/5waXBwSbwwRqd4s0eJZmPy) | 2:55 | 2023-01-27 |  |
 | [Eyedwa](https://open.spotify.com/track/0AjOI7TUV7HjQe7IHUwqNZ) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Zamoh Cofi](https://open.spotify.com/artist/31BGgielHC0uRLARr7eymC) | [Amalobolo \- EP](https://open.spotify.com/album/0IYVqNYLnX0KDHi1Z2Gf3W) | 3:30 | 2021-11-25 | 2022-02-18 |
 | [Ezangakini](https://open.spotify.com/track/1DjHmwyqCVOU9H0tXKnmF0) | [Professor](https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt), [Shwi](https://open.spotify.com/artist/39f59tZug1iMKKkxic9tQ7), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Ezangakini](https://open.spotify.com/album/1789VFrln5SlSS6XCxA06j) | 7:00 | 2022-03-24 | 2022-07-29 |
 | [Ezeyeza](https://open.spotify.com/track/5hBD67zSFjTMFNYKeT93S7) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Ezeyeza](https://open.spotify.com/album/0wqRzLuTbx8Kz6FBENyxIu) | 6:20 | 2022-05-26 | 2022-06-24 |
@@ -112,6 +113,7 @@
 | [Iphupho](https://open.spotify.com/track/6U5sKbNuUwJlY9VPCiOt4N) | [Vesta Lav](https://open.spotify.com/artist/0qdmOEC3BASFvz6IQ62aWI), [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Iphupho](https://open.spotify.com/album/0QZVAD6wGw66UnFOqI3bBJ) | 3:41 | 2022-04-14 | 2022-09-16 |
 | [Iphupho Lam](https://open.spotify.com/track/15OYu5BpZyMARsGX8e2wM0) | [Mpumi Mzobe](https://open.spotify.com/artist/28HsboP2nvlkVyNemAvs3l) | [Iphupho Lam](https://open.spotify.com/album/4zVYDKih46cQX46o0gzro7) | 5:35 | 2022-06-16 | 2022-09-10 |
 | [Isfiso Sami 2.0](https://open.spotify.com/track/4koipqu90tLaHEzvexTp2p) | [Sabby Slvvane](https://open.spotify.com/artist/5huHn3JyLqwcxpGM2Qfal6) | [Isfiso Sami 2.0](https://open.spotify.com/album/2cUTI1qzsRnOEkFQJCfpJ1) | 1:58 | 2022-02-28 | 2022-03-10 |
+| [Isoka](https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:38 | 2023-01-27 |  |
 | [Isono Esimnandi](https://open.spotify.com/track/5F52TSrx13bOeMfHslxTNO) | [Linda Gcwensa](https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv) | [Isono Esimnandi](https://open.spotify.com/album/1SEYzxV4a8YdGRxLA39L0s) | 3:39 | 2022-06-16 | 2022-06-24 |
 | [It's You](https://open.spotify.com/track/7b4Doq0i5Qqy9UDHvZFuOG) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [It's You](https://open.spotify.com/album/4iTsTEEU7KTVk2eUZ3hArx) | 3:00 | 2022-01-20 | 2022-02-18 |
 | [iThemba](https://open.spotify.com/track/0WdqO8jayFChUOpVX7cdyT) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [iThemba](https://open.spotify.com/album/4knBNOApXFNi2uQ4olPGuv) | 4:10 | 2021-10-28 | 2022-05-20 |
@@ -153,7 +155,7 @@
 | [Lotto \(feat\. Ami Faku\)](https://open.spotify.com/track/3e8K6g0QtTZ1Go4suzaK5c) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Lindokuhle](https://open.spotify.com/album/4sq8XzfN0wJOyI35ou9M8j) | 3:38 | 2022-07-25 | 2022-09-23 |
 | [Lyf Styl \- Live](https://open.spotify.com/track/6xRcLQ9MHuR6XLK8bX4xzs) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8) | [Yimi Lo Live](https://open.spotify.com/album/3kOSJO0cPX3xNIkKq4Ruyj) | 5:05 | 2022-04-08 | 2022-10-14 |
 | [Madlamini](https://open.spotify.com/track/7xL81mAMW6zMBy9cj5Yzoh) | [Volume](https://open.spotify.com/artist/6oYSngKte6LsILQs3XddKi), [Laliboi](https://open.spotify.com/artist/7LgOsk5bA3mGavMffSjPOZ) | [Xam Deluxe](https://open.spotify.com/album/3B0fhhjBs3WFi8WFC0hp84) | 3:42 | 2021-12-02 | 2022-01-14 |
-| [Madonna](https://open.spotify.com/track/152r40YkplZWECHc392lTa) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Madonna](https://open.spotify.com/album/1RxQeHE8nnHn4pZJxUfwvv) | 3:07 | 2022-12-15 |  |
+| [Madonna](https://open.spotify.com/track/152r40YkplZWECHc392lTa) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Madonna](https://open.spotify.com/album/1RxQeHE8nnHn4pZJxUfwvv) | 3:07 | 2022-12-15 | 2023-01-28 |
 | [MaGear](https://open.spotify.com/track/2ZrY5oRNMOLbmOKNGS9Ypo) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Mr Brown](https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr) | [MaGear](https://open.spotify.com/album/2vN1f32aIIHTRtJ44dQ4Ll) | 4:50 | 2022-06-23 |  |
 | [Magic In The Water](https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Magic In The Water](https://open.spotify.com/album/0yIhILQZBRPEWanrSaOK6g) | 4:14 | 2022-02-24 | 2022-04-09 |
 | [MajikaJika](https://open.spotify.com/track/0dfahpHWTG567q6ZaMe1dw) | [Lumka](https://open.spotify.com/artist/2nGmkqAkKcmq9UuJH0rH2v) | [MajikaJika](https://open.spotify.com/album/5G5GQ9fU9fPQOaH4qsoNQv) | 3:52 | 2022-05-19 | 2022-06-28 |
@@ -325,7 +327,7 @@
 | [Xolele](https://open.spotify.com/track/7hbpdfF24QSKHlRDaLE1HS) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96), [Zama Khumalo](https://open.spotify.com/artist/3qdj0tbSHsPoZVvftfSgFG) | [Xolele](https://open.spotify.com/album/77ZMPaD41XDBxolBY0aiVB) | 5:08 | 2022-05-26 | 2022-09-02 |
 | [Yelele](https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Yelele](https://open.spotify.com/album/2R6tuyZ91QkYAJJuvfyEWA) | 3:42 | 2021-06-24 | 2022-07-01 |
 | [Zalabantu](https://open.spotify.com/track/3FCn8KMTSUkcxG7WGiu49r) | [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5) | [Zalabantu](https://open.spotify.com/album/7c1cpXqDVvvqdRHeefOiLH) | 4:00 | 2022-11-17 | 2022-12-02 |
-| [Zibonakalise \- Radio Edit](https://open.spotify.com/track/2gT7Xwkd5S5xkbLfGAvMuA) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Zibonakalise \(Radio Edit\)](https://open.spotify.com/album/5BeJuk03PJJtVgFuM2Yday) | 3:04 | 2023-01-19 |  |
+| [Zibonakalise \- Radio Edit](https://open.spotify.com/track/2gT7Xwkd5S5xkbLfGAvMuA) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Zibonakalise \(Radio Edit\)](https://open.spotify.com/album/5BeJuk03PJJtVgFuM2Yday) | 3:04 | 2023-01-19 | 2023-01-28 |
 | [Zwafhela Zwofhela](https://open.spotify.com/track/6xAOVKfp6ffBwWRUtpKSlL) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Zwafhela Zwofhela](https://open.spotify.com/album/5odoFEselKhI5OXfKPouaZ) | 4:51 | 2022-11-14 |  |
 | [Zwivhuya](https://open.spotify.com/track/3YTPfXzK9TQOEODJD05cCj) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Jon Delinger](https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF) | [African Queen](https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s) | 4:35 | 2022-02-03 | 2022-10-29 |
 

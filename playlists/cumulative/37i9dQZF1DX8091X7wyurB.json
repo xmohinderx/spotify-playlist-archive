@@ -261,6 +261,28 @@
     },
     {
       "album": {
+        "name": "Endure",
+        "url": "https://open.spotify.com/album/4aoSdYgt7hia1vht8sysVP"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6htaqouwVH0LnEY2gU0KKI"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168012,
+      "name": "Curry",
+      "url": "https://open.spotify.com/track/2S6JR0CGGHCtVwjuNoBRza"
+    },
+    {
+      "album": {
         "name": "Faaji Friday 4.0",
         "url": "https://open.spotify.com/album/4FYxjlNN5ScDJjQnlq15WX"
       },
@@ -510,10 +532,28 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 850671,
       "name": "Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day",
       "url": "https://open.spotify.com/track/1h0prCASS9tSr8JHAUvCBx"
+    },
+    {
+      "album": {
+        "name": "Grateful Hearts",
+        "url": "https://open.spotify.com/album/2FgtNPBfKJVBq4nc4qjCxq"
+      },
+      "artists": [
+        {
+          "name": "Joyful Way Incorporated",
+          "url": "https://open.spotify.com/artist/5DdIfWrYhLhQCi2jusXZnM"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 850671,
+      "name": "Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day",
+      "url": "https://open.spotify.com/track/42nQ9vfTQsw4JCG2UOSnl5"
     },
     {
       "album": {
@@ -1990,7 +2030,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 309705,
       "name": "Yes, Lord!",
       "url": "https://open.spotify.com/track/6qBObB4fdVeswPpu1tJFGg"

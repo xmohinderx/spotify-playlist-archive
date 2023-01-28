@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Duquesa
 
-87 songs - 4 hr 29 min
+88 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Fala, Fala](https://open.spotify.com/track/1OCTC8kofWuBp07FZIlUIX) | [Abayomi](https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Fala, Fala](https://open.spotify.com/album/3VcWCaee9yKQEvioedeEYn) | 2:55 | 2023-01-13 |  |
 | [Garota Nota 100](https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Garota Nota 100](https://open.spotify.com/album/40x6HLtvlgqwUmp9O4mzKi) | 3:15 | 2023-01-20 |  |
 | [Gosto de Você](https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Gosto de Você](https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw) | 2:50 | 2022-11-18 |  |
+| [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 | 2023-01-27 |  |
 | [incomum](https://open.spotify.com/track/70zl4IbecZee4V3YubNt4J) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [incomum](https://open.spotify.com/album/2jpFAKZ13KRb8EqChWMBON) | 3:37 | 2022-11-18 |  |
 | [intenção](https://open.spotify.com/track/0skj9KDlD6sFf7RB8SgWB4) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Vício](https://open.spotify.com/album/1Xc3wQDbAv60BjFIcUoy59) | 2:13 | 2022-11-18 |  |
 | [Intenção](https://open.spotify.com/track/40rijjvXbyX6alCMtM2r3Z) | [Wallace Lopes](https://open.spotify.com/artist/3SCWQkVBlN3uvNQoXSHCAN), [Damiana Sadili](https://open.spotify.com/artist/3hbg9yKFggp4UmquEPpgd5) | [Intenção](https://open.spotify.com/album/3GtRC63GLxKHEq2o7j95A8) | 3:19 | 2022-11-18 |  |
@@ -61,7 +62,7 @@
 | [Noite em Febre](https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ) | [Sarah Soul](https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv), [Carol Terra](https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp) | [Correria](https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ) | 2:26 | 2022-11-18 |  |
 | [Nosso Futuro](https://open.spotify.com/track/3s4ao4kuMbya51WvYQzMn6) | [Isis Orbelli](https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY) | [Nosso Futuro](https://open.spotify.com/album/7uqpzYwoY5m2x9lQJVkCvF) | 2:03 | 2022-12-16 |  |
 | [Não Quero Te Perder](https://open.spotify.com/track/5m2DgR3ZWv1GYwF9NPh4mP) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Não Quero Te Perder](https://open.spotify.com/album/5ndAdf9telWSbdHoy8IYh0) | 2:49 | 2022-11-18 |  |
-| [Não quis enxergar](https://open.spotify.com/track/6QxqoEinReEb5KuWIQhQB8) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Não quis enxergar](https://open.spotify.com/album/2J73R8Jzjx5ILRLBxuMo9A) | 3:02 | 2022-11-18 |  |
+| [Não quis enxergar](https://open.spotify.com/track/6QxqoEinReEb5KuWIQhQB8) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Não quis enxergar](https://open.spotify.com/album/2J73R8Jzjx5ILRLBxuMo9A) | 3:02 | 2022-11-18 | 2023-01-28 |
 | [Não Vou Negar](https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY), [papi](https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu) | [Não Vou Negar](https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb) | 2:43 | 2022-11-18 |  |
 | [Nós Dois](https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne) | [NALAH](https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8) | [Nós Dois](https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY) | 2:27 | 2022-11-18 |  |
 | [O Que Eu Soul \- Acústico](https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [U.GOT](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [O Que Eu Soul \(Acústico\)](https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC) | 3:19 | 2022-11-18 |  |

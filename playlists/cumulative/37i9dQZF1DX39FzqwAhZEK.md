@@ -4,7 +4,7 @@
 
 > Relájate y toma un profundo respiro de serenidad auditiva.
 
-323 songs - 16 hr 13 min
+324 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Objective](https://open.spotify.com/track/5uxhwtFzJw9Uf2k3uBNXqT) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Objective](https://open.spotify.com/album/05szv55Mry9be4jhA2zs0D) | 1:43 | 2022-07-05 |  |
 | [Old Faro](https://open.spotify.com/track/5pmzx6GPMdYemqSxu3OSzi) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [Old Faro](https://open.spotify.com/album/2dQXdC3Npo8WFidjSikHpH) | 3:09 | 2022-12-20 |  |
 | [One And The Same](https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [One And The Same](https://open.spotify.com/album/1XE0fJg07FtFY562bz76w2) | 2:37 | 2022-08-15 |  |
+| [Orbit](https://open.spotify.com/track/0n8IZnobhLxdjk02TtAnQj) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Orbit](https://open.spotify.com/album/0eRqxc2mha7D43HwvqgLDs) | 2:36 | 2023-01-27 |  |
 | [Over the Mediterranean](https://open.spotify.com/track/0p2nXjOZnxh8opbaeBYSLa) | [Lake Orchard](https://open.spotify.com/artist/0inbyfgIo5EiXGJOuY44Qm) | [Over the Mediterranean](https://open.spotify.com/album/1sZV2b0Aob9GurOCUr14Fd) | 3:11 | 2022-07-05 |  |
 | [Over the Mediterranean](https://open.spotify.com/track/7swVudxGbAVwchQ7BrGeix) | [Lake Orchard](https://open.spotify.com/artist/0inbyfgIo5EiXGJOuY44Qm) | [Over the Mediterranean](https://open.spotify.com/album/2pNxncWOxy71ewltzhYDVh) | 3:11 | 2022-07-05 | 2022-07-29 |
 | [Paradise](https://open.spotify.com/track/0iZTYCYfk5UEfm8AEWyEb4) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [Floating](https://open.spotify.com/album/3wffRTt5HgYmfdJV3gLFPM) | 3:16 | 2022-07-05 |  |
@@ -291,7 +292,7 @@
 | [Supine](https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS) | [Sandra Prime](https://open.spotify.com/artist/2iKoQTuF9oRjVWo6l3BPRc) | [Elucidate](https://open.spotify.com/album/6xKgXH4qCDgMn0IWb8aBI6) | 2:47 | 2022-11-11 |  |
 | [Ta chaleur](https://open.spotify.com/track/1svn4a7lSTz623VTmqZKSi) | [Cara Bergé](https://open.spotify.com/artist/0Fgwr7BVpbWeMTLwV973mw) | [Ta chaleur](https://open.spotify.com/album/4ubcU6RHfY7adsUB4xED4O) | 3:00 | 2022-07-05 |  |
 | [Take Me Home](https://open.spotify.com/track/0ZGteveKS9XMCxDtjehnG3) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Take Me Home](https://open.spotify.com/album/6t5ja4OhtMyp49oY9FjN4f) | 3:29 | 2022-07-05 |  |
-| [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 | 2022-07-05 |  |
+| [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 | 2022-07-05 | 2023-01-28 |
 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |
 | [The Calm](https://open.spotify.com/track/1nqq9YCuHGnk9YabcqH1bp) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Voices of the Forest](https://open.spotify.com/album/10xjwZtSIcQbvo2VgyOlSN) | 2:37 | 2022-07-05 |  |
 | [The Depth](https://open.spotify.com/track/6iWozdaDCYuKdu7OvSnsL6) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [The Depth](https://open.spotify.com/album/242I0FRujQ0a53T6kKeX3L) | 2:30 | 2023-01-20 |  |

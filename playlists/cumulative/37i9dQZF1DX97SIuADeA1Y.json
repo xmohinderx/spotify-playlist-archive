@@ -1541,6 +1541,36 @@
     },
     {
       "album": {
+        "name": "Fury and the Thunder",
+        "url": "https://open.spotify.com/album/6uGE9mt5WS0niNHEVBXLWE"
+      },
+      "artists": [
+        {
+          "name": "Pule",
+          "url": "https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R"
+        },
+        {
+          "name": "Hr. Troels",
+          "url": "https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC"
+        },
+        {
+          "name": "Jungle Jonsson",
+          "url": "https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z"
+        },
+        {
+          "name": "Jessica Chertock",
+          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123319,
+      "name": "Fury and the Thunder",
+      "url": "https://open.spotify.com/track/5zuMbR7aGaJbdVcKZ0cS4f"
+    },
+    {
+      "album": {
         "name": "Game",
         "url": "https://open.spotify.com/album/342PchmYtj0oN0SZ9oV7ix"
       },
@@ -2364,7 +2394,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 139322,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/0BFpkLojqCwHXr6TjdtLIF"
@@ -2634,7 +2664,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 120863,
       "name": "Lucky Me",
       "url": "https://open.spotify.com/track/52Jxh5ZzrNiyxDYl5pvGoB"
@@ -2840,6 +2870,32 @@
       "duration_ms": 125183,
       "name": "Monster",
       "url": "https://open.spotify.com/track/2aCyUbuwYU706L8JOVtSBe"
+    },
+    {
+      "album": {
+        "name": "Moonlight Shadow",
+        "url": "https://open.spotify.com/album/6lzT6YsquWyRwQlooAOWGM"
+      },
+      "artists": [
+        {
+          "name": "stay:us",
+          "url": "https://open.spotify.com/artist/698f11Z5HHN4S9VHdNV4is"
+        },
+        {
+          "name": "WhiteCapMusic",
+          "url": "https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151777,
+      "name": "Moonlight Shadow",
+      "url": "https://open.spotify.com/track/1rGFJSczQrjMYHi62OR8vH"
     },
     {
       "album": {
@@ -3240,7 +3296,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 137427,
       "name": "Overnight",
       "url": "https://open.spotify.com/track/4qJl0AMuND4V7574HH1Fet"
@@ -3664,7 +3720,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 133724,
       "name": "Say It Right - ILURO Remix",
       "url": "https://open.spotify.com/track/5ofHoV0ywhsZUOArK1Oa1h"
@@ -4271,6 +4327,32 @@
     },
     {
       "album": {
+        "name": "The Riddle",
+        "url": "https://open.spotify.com/album/1Oypf1hT1igGaSZKEoOv9J"
+      },
+      "artists": [
+        {
+          "name": "Ampris",
+          "url": "https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2"
+        },
+        {
+          "name": "Amfree",
+          "url": "https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE"
+        },
+        {
+          "name": "Chris Gallery",
+          "url": "https://open.spotify.com/artist/4PTPTcok71K1ZInDWQFL53"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176920,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/0ZLhf4nmiS3bGvsq8kW90W"
+    },
+    {
+      "album": {
         "name": "The Sound (feat. JUSTN X)",
         "url": "https://open.spotify.com/album/2yXP0KBNYnEKQTqZIcvVJu"
       },
@@ -4462,7 +4544,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "T\u00f3xica",
       "url": "https://open.spotify.com/track/2xXgN2GQLSQcZ4Bzad0NaM"

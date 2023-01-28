@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: PL Quest, L7NNON",
+  "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Bielzin",
   "name": "Cop\u00e3o na m\u00e3o",
   "tracks": [
     {
@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "Atura ou Surta",
+        "url": "https://open.spotify.com/album/3HPD0wbbc0dbYBOWVYGjKo"
+      },
+      "artists": [
+        {
+          "name": "Fabin",
+          "url": "https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131924,
+      "name": "Atura ou Surta",
+      "url": "https://open.spotify.com/track/5wQ29R7nJNy3g3DfLCuxNl"
+    },
+    {
+      "album": {
         "name": "Avisa L\u00e1, Pt.3",
         "url": "https://open.spotify.com/album/3O8mbhZhxw1iSTuAB5ICof"
       },
@@ -596,7 +614,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 248189,
       "name": "Camarote 7",
       "url": "https://open.spotify.com/track/5oKcpuszlyGFFIfvMiyHwL"
@@ -918,7 +936,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 282285,
       "name": "Copo Roxo",
       "url": "https://open.spotify.com/track/6VOO6VZBedOTaESAmlow1K"
@@ -1034,6 +1052,28 @@
       "duration_ms": 201600,
       "name": "Debochando da M\u00eddia",
       "url": "https://open.spotify.com/track/24cOHkrtGGQmKvA8R9BNin"
+    },
+    {
+      "album": {
+        "name": "Desce Mais",
+        "url": "https://open.spotify.com/album/7rXCjzZY0maUWooN6sQsfY"
+      },
+      "artists": [
+        {
+          "name": "Dalua",
+          "url": "https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym"
+        },
+        {
+          "name": "Kelvin Beatz",
+          "url": "https://open.spotify.com/artist/5Gz8hDrCVmy6jaConCCKCG"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136325,
+      "name": "Desce Mais",
+      "url": "https://open.spotify.com/track/1aMil9QPaKjAxVTIYbC46x"
     },
     {
       "album": {
@@ -1524,7 +1564,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 142080,
       "name": "Foco no Plano",
       "url": "https://open.spotify.com/track/4Zh3MeqQ15GDx8hAKlykde"
@@ -3126,6 +3166,28 @@
       "duration_ms": 342857,
       "name": "Proibido Celular",
       "url": "https://open.spotify.com/track/1cbldhFuXiqB8nH9SOBkCq"
+    },
+    {
+      "album": {
+        "name": "PSG",
+        "url": "https://open.spotify.com/album/7CXRExkP237yg0IcXS5IHl"
+      },
+      "artists": [
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "DJ Nemo NTR",
+          "url": "https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139598,
+      "name": "PSG",
+      "url": "https://open.spotify.com/track/0tqO1MBpRPPk6oF9VuHtIs"
     },
     {
       "album": {

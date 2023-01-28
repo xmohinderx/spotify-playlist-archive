@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Fuzzy Ride",
+        "url": "https://open.spotify.com/album/4JJYkBEnl3bt2unZyICxHe"
+      },
+      "artists": [
+        {
+          "name": "David Henriksson & Daze Delight",
+          "url": "https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288648,
+      "name": "Fuzzy Ride",
+      "url": "https://open.spotify.com/track/1IdkicizxTzNbZsMsriuPd"
+    },
+    {
+      "album": {
         "name": "The Werks",
         "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
       },
@@ -795,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Madman's Eyes",
+        "url": "https://open.spotify.com/album/1Y8TRP3ChXq8q45QT65ecf"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288711,
+      "name": "Madman's Eyes",
+      "url": "https://open.spotify.com/track/3f9SxWf7WYKaYywYYejfk1"
+    },
+    {
+      "album": {
         "name": "Jazz Cabbage Soiree",
         "url": "https://open.spotify.com/album/1eBGpVUNZptUK32L7YG2XO"
       },
@@ -932,7 +968,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 304826,
       "name": "Nuff",
       "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
@@ -1398,7 +1434,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 408773,
       "name": "Trouble Overnight",
       "url": "https://open.spotify.com/track/6QOm9noD8jybvD4dKGrHM4"

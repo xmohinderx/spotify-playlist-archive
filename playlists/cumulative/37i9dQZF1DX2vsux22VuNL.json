@@ -376,7 +376,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 179656,
       "name": "Ano Que Vem",
       "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 139480,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/14PoamgaKsFiwSlZ0Z2vFl"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 115545,
       "name": "Ca\u00f3tico",
       "url": "https://open.spotify.com/track/4fxeVtur2DaXvvHOk5hUh0"
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 288400,
       "name": "F\u00e9 Imensa",
       "url": "https://open.spotify.com/track/7Ay3bqPd31lSVCN73EJvJe"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 137931,
       "name": "Meu Desejo",
       "url": "https://open.spotify.com/track/4UqKWGj0prhKqRrLd4NsL2"
@@ -3318,7 +3318,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 140624,
       "name": "PRIMEIRA VISTA",
       "url": "https://open.spotify.com/track/46qcIwcdt2NSuiH8hHJVob"
@@ -3900,7 +3900,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 119189,
       "name": "SEU SOL",
       "url": "https://open.spotify.com/track/1p5qK8NjUybbXdbXfpc0dJ"
@@ -4148,6 +4148,24 @@
       "duration_ms": 188226,
       "name": "Tarde D+",
       "url": "https://open.spotify.com/track/1oUEVYaAihtqWsWFJjuitL"
+    },
+    {
+      "album": {
+        "name": "Te Amar Demais",
+        "url": "https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR"
+      },
+      "artists": [
+        {
+          "name": "Sodr\u00e9",
+          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131970,
+      "name": "Te Amar Demais",
+      "url": "https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  カネコアヤノ\(Ayano Kaneko\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,545 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,556 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 16 | [Seed](https://open.spotify.com/track/57oVY3KrjM7DNiMwMcPCDl) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi) | 4:08 |
 | 17 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 |
 | 18 | [君が大人になって](https://open.spotify.com/track/77DDFdBya4JiXfMEQstxm7) | [Kaede](https://open.spotify.com/artist/0KZ83Y1bF24W54rmvP2qxr), [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [秋の惑星、ハートはナイトブルー。](https://open.spotify.com/album/2zlqGmvK44juWNX1LaJ0US) | 3:08 |
-| 19 | [風になれ](https://open.spotify.com/track/0UhsOaWMD73pfGS4BrcUad) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [風になれ](https://open.spotify.com/album/3bYOLJiz5t2ZbzOn7HfW42) | 3:18 |
+| 19 | [風になれ](https://open.spotify.com/track/0jUqdmrbNQvcYwATq8Bga8) | [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [点描](https://open.spotify.com/album/0l8baO2a0PasmzInWEGVUv) | 3:17 |
 | 20 | [ゆらぎ](https://open.spotify.com/track/5AbIvNLDrz3zA82dVhngQ3) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [言葉のない夜に](https://open.spotify.com/album/5u8OhRFA6M1eUi9497iQnj) | 2:56 |
 | 21 | [Good end](https://open.spotify.com/track/1Zs0ZOrWk7QhEIC7JMAnTr) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [Someone's melody](https://open.spotify.com/album/0mUMRgmYGOEfDvbDM4IOHt) | 3:59 |
 | 22 | [凪](https://open.spotify.com/track/18D76lleVg0eyVfuP1styD) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [凪](https://open.spotify.com/album/5m425yR3FcXokC05E1QNRH) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [おなじ話](https://open.spotify.com/track/48nK8ZOd4mXSQ5fTbhTK80) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [FOLK](https://open.spotify.com/album/3Z3UnbHZHihhpVWARv5z1M) | 4:30 |
 | 50 | [みずうみ](https://open.spotify.com/track/1wHRkUuSMcYV3DCRk8389h) | [白と枝](https://open.spotify.com/artist/4yOmzWTz4U1sGN0eHPSOT4) | [さみどりの眠り](https://open.spotify.com/album/3NSOVk1xDbjgeSseaAk4n0) | 3:38 |
 
-Snapshot ID: `MTY3Mjc1ODAwMCwwMDAwMDAwMGZjZGQwMmEzYTQwNzcwNGYyYTdjY2M5NjdkNzI1MTAx`
+Snapshot ID: `MTY3Mjc1ODAwMCwwMDAwMDAwMDAzZTc1OTVkOGJlNTAwNWM1NDI3M2Q3ZDUxYjM1NDg1`

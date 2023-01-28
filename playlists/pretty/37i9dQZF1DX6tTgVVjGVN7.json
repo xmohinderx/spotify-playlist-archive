@@ -1,12 +1,12 @@
 {
   "description": "Bandas legendarias y canciones que hicieron historia. Foto: Los Prisioneros.",
-  "num_followers": 99246,
+  "num_followers": 99298,
   "original_name": "Cl\u00e1sicos del Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMGQzNWZkMzgyOTdlMzUwNTM1YmExNzlkNTQ3YjRkNDc1",
+  "snapshot_id": "MTY3MTE1OTYwMCwwMDAwMDAwMGI3ZGEyNGMwZDc3ZGVlM2JhODMyYjkwYjY5MWU3NTFk",
   "tracks": [
     {
       "added_at": "2022-12-16 03:00:00",
@@ -673,7 +673,7 @@
       "artists": [
         {
           "name": "Elefante",
-          "url": "https://open.spotify.com/artist/0tKo9uTafDbOnQ8JkPd1ZF"
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
         }
       ],
       "duration_ms": 310146,
@@ -753,7 +753,7 @@
       "artists": [
         {
           "name": "Elefante",
-          "url": "https://open.spotify.com/artist/0tKo9uTafDbOnQ8JkPd1ZF"
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
         }
       ],
       "duration_ms": 231800,
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-12-16 03:00:00",
       "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "added_at": "2022-12-16 03:00:00",
+      "album": {
         "name": "Commercial",
         "url": "https://open.spotify.com/album/2LjbDdADARNuV39Dxz9ISb"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 201400,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/5CLKcBDWf6lTTLMfPDBEeC"
-    },
-    {
-      "added_at": "2022-12-16 03:00:00",
-      "album": {
-        "name": "El Le\u00f3n",
-        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 291973,
-      "name": "Siguiendo la Luna - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/1orgfjGJoycODSItcGVatE"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Rock",

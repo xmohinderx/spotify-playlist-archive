@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-198 songs - 14 hr 15 min
+199 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Journey To Love](https://open.spotify.com/track/4RBYqegYxDPp6J7hPC70oS) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Journey To Love](https://open.spotify.com/album/6Aiv4objMa8nWGJxf83ht8) | 4:40 | 2022-07-15 | 2022-08-18 |
 | [Juicy](https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Juicy](https://open.spotify.com/album/6WQeyUJsoPwFgZMRRmenOp) | 3:26 | 2022-09-09 |  |
 | [Just a Taste](https://open.spotify.com/track/7JGBzcii3TqDSv1JQOtui6) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf), [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [HERO](https://open.spotify.com/album/3ZRYpCfUbMbwHPA39R2CJ1) | 4:00 | 2021-07-12 | 2022-12-01 |
-| [Just Like Heaven](https://open.spotify.com/track/1OhVVFCQ7jRfgHC89GA0cy) | [Antonio Jackson](https://open.spotify.com/artist/3Bo6RdhCfAL72XyuTw4Bx5) | [Just Like Heaven](https://open.spotify.com/album/27QgcbudLKhaNn7L2J4Ii6) | 5:47 | 2021-07-12 |  |
+| [Just Like Heaven](https://open.spotify.com/track/1OhVVFCQ7jRfgHC89GA0cy) | [Antonio Jackson](https://open.spotify.com/artist/3Bo6RdhCfAL72XyuTw4Bx5) | [Just Like Heaven](https://open.spotify.com/album/27QgcbudLKhaNn7L2J4Ii6) | 5:47 | 2021-07-12 | 2023-01-28 |
 | [Just Once \(Radio Edit\)](https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [Just Once \(Radio Edit\)](https://open.spotify.com/album/5Or7bdT4M623kfAR3Lvp6t) | 4:04 | 2021-07-12 |  |
 | [Kiss and Tell](https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Shades](https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7) | 4:08 | 2021-07-12 |  |
 | [L.I.T.](https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs) | [Riley Richard](https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4) | [L.I.T.](https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN) | 4:18 | 2021-07-12 |  |
@@ -100,6 +100,7 @@
 | [Lasting Impression](https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4) | [James Vargas](https://open.spotify.com/artist/75zhICFfHLHabeEW0ZTlnC) | [James Vargas](https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh) | 5:12 | 2021-07-12 |  |
 | [Laws of Attraction](https://open.spotify.com/track/12J2Q2Cikcn4H6SAhD5dKL) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Laws of Attraction](https://open.spotify.com/album/1pKCXExlSgh6Dq1wH6jgzm) | 3:31 | 2021-07-12 | 2022-04-21 |
 | [Laws Of Attraction](https://open.spotify.com/track/5yNJqzRzeZvrG5bEyb2u7Z) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Laws Of Attraction](https://open.spotify.com/album/5ldhBNgkkdUs9st5IPvofn) | 3:31 | 2021-07-12 | 2022-10-03 |
+| [Lean Into It](https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE) | [Andrew Neu](https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF) | [Lean Into It](https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN) | 4:24 | 2023-01-27 |  |
 | [Leap of Faith](https://open.spotify.com/track/0IguWIOThNrFN7fL1ZPTjF) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5) | [Leap of Faith](https://open.spotify.com/album/7miTDlNB5Wb6zhh0VJh9Es) | 3:15 | 2021-07-12 | 2022-07-28 |
 | [Leave It to the Gods](https://open.spotify.com/track/3DvdHFeQ3AeZNzxHy61Gcu) | [D.S\. Wilson](https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO) | [Leave It to the Gods](https://open.spotify.com/album/6VEDP9KD6ndDnNnBene1aX) | 4:26 | 2022-07-15 |  |
 | [Lift Every Voice And Sing](https://open.spotify.com/track/1lC7uRdflKjT17PVHEXgYb) | [Mike Phillips](https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb) | [Lift Every Voice And Sing](https://open.spotify.com/album/5SRZT5eHIG2aHHcHC9AXHI) | 2:02 | 2022-06-17 | 2022-07-26 |

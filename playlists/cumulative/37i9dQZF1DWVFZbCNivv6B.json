@@ -591,6 +591,28 @@
     },
     {
       "album": {
+        "name": "As\u00ed Es Como Es",
+        "url": "https://open.spotify.com/album/5cNd3JTnVB3cRY5WkSv3m9"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Royal Religion",
+          "url": "https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "As\u00ed Es Como Es",
+      "url": "https://open.spotify.com/track/7AHcgO9JWCA8cwyQ9gPOBH"
+    },
+    {
+      "album": {
         "name": "Bajo Control",
         "url": "https://open.spotify.com/album/1HQMWaliLeQVUpiq5MVcfr"
       },
@@ -889,6 +911,28 @@
     },
     {
       "album": {
+        "name": "Callado",
+        "url": "https://open.spotify.com/album/11vahujXutY6IwNaT9gq8e"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "Callado",
+      "url": "https://open.spotify.com/track/29YWIcThcfrlEzquQ6kxzN"
+    },
+    {
+      "album": {
         "name": "Camino Cholo",
         "url": "https://open.spotify.com/album/2mrN5AN39FDB0tqd5ltmgw"
       },
@@ -951,6 +995,32 @@
     },
     {
       "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/0F3fEUFRSIGRCEVsyAjfBJ"
+      },
+      "artists": [
+        {
+          "name": "Zoop One",
+          "url": "https://open.spotify.com/artist/22MvD3agFn8juQKDizmZWZ"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "alyona alyona",
+          "url": "https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/2noBdQ7C3V9BTbNlXtQGyc"
+    },
+    {
+      "album": {
         "name": "Colocados",
         "url": "https://open.spotify.com/album/4taNe2QMypVpxlTmikrLmz"
       },
@@ -992,7 +1062,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 239306,
       "name": "Complicado",
       "url": "https://open.spotify.com/track/3eGpyKNSwZH2E738CjK9w1"
@@ -1432,7 +1502,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 203600,
       "name": "Diecis\u00e9is por Cuatro",
       "url": "https://open.spotify.com/track/1IImnpTzv5VGDYhNHqxWuv"
@@ -1592,7 +1662,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 186000,
       "name": "El M\u00e1s Bravo",
       "url": "https://open.spotify.com/track/1QQ6K5mb0giE4PrY9t46Rm"
@@ -2010,6 +2080,24 @@
       "duration_ms": 190843,
       "name": "Fuma Fuma",
       "url": "https://open.spotify.com/track/0zvzpiY7OJFRrkAIYfoOLJ"
+    },
+    {
+      "album": {
+        "name": "Fumo",
+        "url": "https://open.spotify.com/album/5uJ4IJlz3DLfXmnuFEaYcH"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Fumo",
+      "url": "https://open.spotify.com/track/24C2MOLBkeRL8Ew6EEgLXi"
     },
     {
       "album": {
@@ -2926,7 +3014,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 192168,
       "name": "Me Cuido",
       "url": "https://open.spotify.com/track/4EYCvN8KZn1iZ0sOBJ4hmw"
@@ -3156,6 +3244,24 @@
       "duration_ms": 260874,
       "name": "Na' de Na'",
       "url": "https://open.spotify.com/track/6FITNlNL1WhOxdLKomRn1P"
+    },
+    {
+      "album": {
+        "name": "Nac\u00ed Pa' Ganar",
+        "url": "https://open.spotify.com/album/1b6jdcCZrvxfGSGbzDK7lC"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278115,
+      "name": "Nac\u00ed Pa' Ganar",
+      "url": "https://open.spotify.com/track/4ZhmkmypLDoBYffpsGdQoO"
     },
     {
       "album": {
@@ -3391,6 +3497,28 @@
     },
     {
       "album": {
+        "name": "One Up",
+        "url": "https://open.spotify.com/album/4btSo932VPP3gRu1lgico6"
+      },
+      "artists": [
+        {
+          "name": "Chata Flores",
+          "url": "https://open.spotify.com/artist/1NwGy4jqZV9nr8HC5LdbMn"
+        },
+        {
+          "name": "Necrojocker",
+          "url": "https://open.spotify.com/artist/1kZRe2EGMf2w9616umnci4"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228490,
+      "name": "One Up",
+      "url": "https://open.spotify.com/track/0tyJozHd8Soy5iUbHRojsE"
+    },
+    {
+      "album": {
         "name": "Orgullo Caf\u00e9",
         "url": "https://open.spotify.com/album/3pTN4HzDOG1tBzHWKSnvDC"
       },
@@ -3428,6 +3556,32 @@
       "duration_ms": 186067,
       "name": "Pa Mis Enemigos",
       "url": "https://open.spotify.com/track/40O3MSJLqJDCULnvRM1Rfh"
+    },
+    {
+      "album": {
+        "name": "Pa' Que Mami No Llore",
+        "url": "https://open.spotify.com/album/3ijLbYP8u0c4R2Vgjlziap"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231068,
+      "name": "Pa' Que Mami No Llore",
+      "url": "https://open.spotify.com/track/3l4ir792nfcHySkiAbKd3U"
     },
     {
       "album": {
@@ -4128,7 +4282,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 220273,
       "name": "Realidad",
       "url": "https://open.spotify.com/track/5c7dc6KwvdAsKijIPvCUlD"
@@ -4176,7 +4330,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 184000,
       "name": "Rick y Morty",
       "url": "https://open.spotify.com/track/72UCFt7VPQolM1Pcul5Beo"
@@ -4580,7 +4734,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 241655,
       "name": "Sin Drama",
       "url": "https://open.spotify.com/track/6yi3uBliwfNqJUqnilf3d6"
@@ -4908,7 +5062,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 215064,
       "name": "Suficiente",
       "url": "https://open.spotify.com/track/7uSIBQ7w0a9uCsqojVASVL"
@@ -5122,7 +5276,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 233064,
       "name": "Tocame",
       "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
@@ -5144,7 +5298,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 108266,
       "name": "Tocando Tierra",
       "url": "https://open.spotify.com/track/4TIZmJGQj5dfeLvmt06ycT"
@@ -5214,6 +5368,32 @@
       "duration_ms": 214094,
       "name": "Too Much Flow",
       "url": "https://open.spotify.com/track/2ZBlDOQlq043eg34LwW54c"
+    },
+    {
+      "album": {
+        "name": "Traicionero",
+        "url": "https://open.spotify.com/album/7FszHUAmLlersoAxteScJP"
+      },
+      "artists": [
+        {
+          "name": "Shino Amb",
+          "url": "https://open.spotify.com/artist/5POETuwoYsELLuimWVzQYC"
+        },
+        {
+          "name": "Chikano Jcr",
+          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
+        },
+        {
+          "name": "Alvin Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7ipu46kBcsrewN7ngPJWFp"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "Traicionero",
+      "url": "https://open.spotify.com/track/3ro7U72y8MOT3047ioOCiV"
     },
     {
       "album": {
@@ -5390,6 +5570,32 @@
       "duration_ms": 195000,
       "name": "Uva",
       "url": "https://open.spotify.com/track/191erWRt5RwsJBbFMNjRrw"
+    },
+    {
+      "album": {
+        "name": "Vasos Llenos",
+        "url": "https://open.spotify.com/album/6aZN8b5h5POQC9rrPXpQIC"
+      },
+      "artists": [
+        {
+          "name": "Mike Diaz",
+          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
+        },
+        {
+          "name": "Phyzh Eye",
+          "url": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
+        },
+        {
+          "name": "ILUMINATIK BUFFON",
+          "url": "https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254210,
+      "name": "Vasos Llenos",
+      "url": "https://open.spotify.com/track/5Qe6UqKkCumprVxBsDgeB9"
     },
     {
       "album": {

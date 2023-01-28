@@ -701,6 +701,28 @@
     },
     {
       "album": {
+        "name": "Georgia Dreamin'",
+        "url": "https://open.spotify.com/album/1BA9KEdF7nurksYJY1Lc3N"
+      },
+      "artists": [
+        {
+          "name": "Ben Chapman & Co.",
+          "url": "https://open.spotify.com/artist/6caurkAUTAiE68wavYKUN8"
+        },
+        {
+          "name": "Ben Chapman",
+          "url": "https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Georgia Dreamin'",
+      "url": "https://open.spotify.com/track/2N3C3SQ1T7VNoYKOUWKWsT"
+    },
+    {
+      "album": {
         "name": "Get It Right",
         "url": "https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ"
       },
@@ -1108,7 +1130,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 161733,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7"

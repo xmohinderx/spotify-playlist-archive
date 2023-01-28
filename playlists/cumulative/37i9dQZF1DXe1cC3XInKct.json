@@ -834,6 +834,24 @@
     {
       "album": {
         "name": "Faded Afternoon Heat",
+        "url": "https://open.spotify.com/album/08cz1zgqFQTbClYyYzpupf"
+      },
+      "artists": [
+        {
+          "name": "never forget you/re a terrifying freak",
+          "url": "https://open.spotify.com/artist/4lPrIzWpohl195VDVJZxwk"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262458,
+      "name": "Faded Afternoon Heat",
+      "url": "https://open.spotify.com/track/0qZKYqNo2M3MhjCObQoNHH"
+    },
+    {
+      "album": {
+        "name": "Faded Afternoon Heat",
         "url": "https://open.spotify.com/album/485dcPfgaNP39dSSnD8BVx"
       },
       "artists": [
@@ -844,7 +862,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 262458,
       "name": "Faded Afternoon Heat",
       "url": "https://open.spotify.com/track/4zS89MxcM3GDjpN8uF1F97"

@@ -4,7 +4,7 @@
 
 > 🧈 Smooth joints\. Cover: Little Simz
 
-779 songs - 1 day 22 hr 6 min
+780 songs - 1 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | [Moving](https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 5:15 | 2022-07-22 |  |
 | [Moving](https://open.spotify.com/track/41BPaKM3OVc8gs3VXbAAu6) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/4iWfNxkqoDI2E1FOhnQnvg) | 5:15 | 2020-11-13 | 2022-07-29 |
 | [Moving Forward](https://open.spotify.com/track/0awxfMcESmYucafK7d6CjL) | [Madsius Ovanda](https://open.spotify.com/artist/0koqqJSNJvFB0qooO7q11J) | [Talking Underwater](https://open.spotify.com/album/0NtpFQ7fru7LqjZERGyRpN) | 2:58 | 2020-03-20 | 2020-04-18 |
-| [Moving On](https://open.spotify.com/track/0P2tSwbjoQIzAg101A23Db) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober EP](https://open.spotify.com/album/1iDjqu3yelX85OlGArQlfo) | 3:14 | 2022-11-11 |  |
+| [Moving On](https://open.spotify.com/track/0P2tSwbjoQIzAg101A23Db) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober EP](https://open.spotify.com/album/1iDjqu3yelX85OlGArQlfo) | 3:14 | 2022-11-11 | 2023-01-28 |
 | [Moving On](https://open.spotify.com/track/3OiBUTN46KTEHAGr1bfoQU) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober EP](https://open.spotify.com/album/637BqG5QCMGQArqYDelpbV) | 3:14 | 2020-07-10 | 2022-10-13 |
 | [Moving On](https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Liquid Portraits](https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS) | 4:09 | 2022-09-09 | 2022-10-15 |
 | [Moving On](https://open.spotify.com/track/7xeAzyhW9sfqoIIm7685mL) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Moving On](https://open.spotify.com/album/3gmhzb6Ltr0znZeIYfgr4n) | 4:09 | 2020-05-29 | 2022-04-23 |
@@ -641,6 +641,7 @@
 | [Still](https://open.spotify.com/track/7lBNPNIewZf6d1DJjRtlj8) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 4:07 | 2022-07-15 |  |
 | [Still](https://open.spotify.com/track/0jOmwtghz3wbYlT3EggDGX) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Still](https://open.spotify.com/album/4bBvRVHzXRCenaJvcKZ8BK) | 3:07 | 2019-09-29\* | 2019-11-08 |
 | [Still Strange \(feat\. Priya Ragu & Sainte Ezekiel\)](https://open.spotify.com/track/2913TPvqgDIeFsQvG34SQu) | [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Sainte Ezekiel](https://open.spotify.com/artist/59z8uNNCL2wMUXNWR3BpAJ) | [Odd Cure](https://open.spotify.com/album/1zup2oq7FzE7h5KnhhoC4a) | 4:24 | 2020-07-18 | 2022-07-25 |
+| [Story Of A Scar](https://open.spotify.com/track/72U5bK1MjcKZWyayuaBdDy) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Story Of A Scar](https://open.spotify.com/album/5T3YqCIARgLeYWtWyyOf2s) | 5:06 | 2023-01-27 |  |
 | [Stranger \(feat\. Saba & Jarreau Vandal\)](https://open.spotify.com/track/1b7TYKwABkacRzPqSErH9u) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Stranger \(feat\. Saba & Jarreau Vandal\)](https://open.spotify.com/album/5gEWaVbQBsHwZGt1vBUWBV) | 3:39 | 2020-07-24 | 2020-12-01 |
 | [Stranger \(feat\. Saba & Jarreau Vandal\)](https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:39 | 2022-07-08 | 2022-09-10 |
 | [Stranger Than Fiction \- Edit](https://open.spotify.com/track/3aWkW4XXfZ9k5sGFms2cJq) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Stranger Than Fiction](https://open.spotify.com/album/2SAeHbiGcZ14ojxM1uCTVn) | 3:42 | 2019-10-25 | 2019-11-20 |

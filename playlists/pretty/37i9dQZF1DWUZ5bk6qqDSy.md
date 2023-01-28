@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 
 > Welcome to the soothing hum...
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,266 likes - 248 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,208 likes - 248 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 | 34 | [White Noise \- Augen Zu](https://open.spotify.com/track/2bHFzB6CUQSQ6hX9URt9bX) | [Ozeanus](https://open.spotify.com/artist/6F1PK9RhhsAJbkt9g0VnYB) | [Augen Zu](https://open.spotify.com/album/4LAA1o3SJAUuE0szFNmhB2) | 3:19 |
 | 35 | [White Noise Vibrations](https://open.spotify.com/track/7kqyhhEzhkR4aULBDV80dI) | [Scientists of Noise](https://open.spotify.com/artist/14XJ27kUY0HXLJFApJBHRA) | [White Noise Vibrations](https://open.spotify.com/album/4oaLIkI9VTLCZeHhhwu8F0) | 4:12 |
 | 36 | [Noises At Night](https://open.spotify.com/track/1V7yECM1CBuWSMJqqj9RPG) | [Sleep Sound Factory](https://open.spotify.com/artist/0TNR9PuUgbrCPci3tolmNT) | [Noises At Night](https://open.spotify.com/album/5mGK1d7pOHtMaVlY2o6ngO) | 2:11 |
-| 37 | [White Noise Dreaming](https://open.spotify.com/track/3XQcmUXD9q6RcF6CHCoYXc) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
+| 37 | [White Noise Dreaming](https://open.spotify.com/track/3XQcmUXD9q6RcF6CHCoYXc) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
 | 38 | [I Wake Up With Noise](https://open.spotify.com/track/4LGg8tvQxix9thK83jjhm1) | [Hz Catchers](https://open.spotify.com/artist/6Bea98kSgFYBJdaRDgAnG5) | [Peaceful Noise](https://open.spotify.com/album/0TzsBKtyXENx8IOpE0Qa1Z) | 2:24 |
 | 39 | [Space Out Noise](https://open.spotify.com/track/1HuGfsAKC57Rn93ZwyVsWq) | [Enhanced Audio](https://open.spotify.com/artist/25y0vgD4fPJCkjynE2K02m) | [Noiseosphere](https://open.spotify.com/album/2svgGn5ga86l9QNLWiSVOH) | 1:50 |
 | 40 | [Rumore Bianco](https://open.spotify.com/track/6FrJELq39kHa0lllsUgyS4) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Rumore Bianco](https://open.spotify.com/album/4jY7LaVziSQk1t9oYXxuD2) | 2:16 |
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 | 42 | [Mellow Forest Noise](https://open.spotify.com/track/3mwvAQMWc3Hb1Rmcl7iyyx) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Embracing Subsets](https://open.spotify.com/album/3a8Z1k1oeMZC7GksmbubGa) | 2:26 |
 | 43 | [Noise Enclosure \(White Noise\)](https://open.spotify.com/track/4EtZ3hraFrVStln3OtkN2V) | [Zero Oto](https://open.spotify.com/artist/4iYTkNx9MkmIxDMESbIbio) | [Noise Enclosure](https://open.spotify.com/album/2No56B85IcRqoUN3Oc4ADp) | 3:04 |
 | 44 | [White Noise Waterfall](https://open.spotify.com/track/5WkRINJDHP7zdAo45F1bJb) | [Three Peels](https://open.spotify.com/artist/550PiaxNneb0AaqPp7sWWS) | [White Noise](https://open.spotify.com/album/7zV4TOfILpmyaArpIZqzkO) | 2:43 |
-| 45 | [Fading Lights White Noise](https://open.spotify.com/track/39Rv7yVz09paUBeX8VvEQy) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:40 |
+| 45 | [Fading Lights White Noise](https://open.spotify.com/track/39Rv7yVz09paUBeX8VvEQy) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:40 |
 | 46 | [Breathe Easy](https://open.spotify.com/track/7LnDKGTwMoLv3XSgxOnj83) | [High Res Lo Fi](https://open.spotify.com/artist/2EHYuRVxkX0f9VsvoOSCI1) | [Weekly White Noise](https://open.spotify.com/album/1HMBbQKH4GveqLBuITbvWf) | 2:35 |
 | 47 | [White Noise for Baby Sleep](https://open.spotify.com/track/16Vewnjl60wKkzZb8bz0Hp) | [Sleep Alphabet](https://open.spotify.com/artist/07zWNtOjC3QzF79jiFKYjm) | [White Noise](https://open.spotify.com/album/5kgvsV5ETpdVf3PTQcTZmm) | 2:44 |
 | 48 | [Interstellar Cabin](https://open.spotify.com/track/5WQyF7t0tNomzABIYzxxSD) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Interstellar Cabin](https://open.spotify.com/album/5dVZjOztN4gijHKnxCIqvm) | 2:20 |
 | 49 | [Ruido Blanco Por La Mañana](https://open.spotify.com/track/3fzhpLNMFSey1z987S7F15) | [Vizzionz](https://open.spotify.com/artist/3VU6EADz81WPaKVs9mP30w) | [Ruido Blanco Por La Manana](https://open.spotify.com/album/0zCv1FyCb2wliOS71nydNd) | 2:20 |
-| 50 | [White Noise for Relaxation](https://open.spotify.com/track/6C1WVY1WE6wXNXVAAZsb0x) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
+| 50 | [White Noise for Relaxation](https://open.spotify.com/track/6C1WVY1WE6wXNXVAAZsb0x) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:44 |
 | 51 | [White Noise in der Grotte](https://open.spotify.com/track/2Qh0vgdqdOr0g5C1ysGMzg) | [Xiskko](https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg) | [White Noise](https://open.spotify.com/album/6egMS7eEwQPiYz2LjZVeUt) | 2:05 |
 | 52 | [Wrapped in Soothing White Noise](https://open.spotify.com/track/7ciuALfxne17Z0YjGPwaBN) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [White Noise Cave](https://open.spotify.com/album/248nKykgiNq8NA0bxsgKAM) | 4:47 |
 | 53 | [White Noise Low Frequency](https://open.spotify.com/track/0M8XcBsYL0Gm8ewxTPYXzQ) | [Chrome Details Noise](https://open.spotify.com/artist/3nVd3Up7f9uluILXNuLWis) | [Chrome White Noise](https://open.spotify.com/album/5TCxCXEbETUARRPkn2tj4Q) | 2:15 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 | 67 | [Sleepy Whites](https://open.spotify.com/track/730Nt9NnPQ5tComIwFCVOw) | [Trap Of Sounds](https://open.spotify.com/artist/64RIcJtRLemOOUbQTx00OW) | [Soothing Noise](https://open.spotify.com/album/3s15z0dSmFwCnTeLXrjjtV) | 2:16 |
 | 68 | [Tunnel Noise](https://open.spotify.com/track/0KNJrBUU6A93gsBlPo9F7Q) | [Ecstatix](https://open.spotify.com/artist/4Z2EaSwZpqDleK7b7qYSvx) | [Tunnel Noise](https://open.spotify.com/album/3yRleiOvW3vcp3gubkr7gk) | 2:58 |
 | 69 | [White Noise Ocean](https://open.spotify.com/track/2cgsR4hdhuphEBStF0Kwno) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Noises from Nature](https://open.spotify.com/album/5rROruH8RwMNORjLo3iNwn) | 2:37 |
-| 70 | [Velara \(White Noise\)](https://open.spotify.com/track/3LdVk4lYL4OgNINqmHSbJp) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:36 |
+| 70 | [Velara \(White Noise\)](https://open.spotify.com/track/3LdVk4lYL4OgNINqmHSbJp) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Velara \(Ambient Noise\)](https://open.spotify.com/album/2lRl9BdFLHc3jtZzAEteCX) | 3:36 |
 | 71 | [Rumore Pesante Del Sonno](https://open.spotify.com/track/3jBtGFrRvQDDSrwtQsWZHD) | [Lettere a Sleepnes](https://open.spotify.com/artist/2GQVGJZ6yDlEpa2ClxVgQg) | [Suoni Rumorosi](https://open.spotify.com/album/3TLWgb3JPo553zbZ87lVHC) | 2:28 |
 | 72 | [White Noise Soul](https://open.spotify.com/track/6rN42ucxz8KE5aTEpfeIOY) | [Indika](https://open.spotify.com/artist/6vl0jfkfF6pKuUQPJhWshU) | [Noisy Element](https://open.spotify.com/album/1CrQyQYY5MXE1A6T0LAu1O) | 2:42 |
 | 73 | [Smooth White Noise](https://open.spotify.com/track/7DqTiksMnzXDEb3WPh2VVC) | [Focus Finders](https://open.spotify.com/artist/46PyhxzOXadyGA2297Fp68) | [Smooth White Noise](https://open.spotify.com/album/7oXC4G3sDmIDpNeXogPBGa) | 2:23 |

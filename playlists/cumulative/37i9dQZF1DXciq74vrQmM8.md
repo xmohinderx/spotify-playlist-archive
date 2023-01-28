@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. slowthai
 
-435 songs - 20 hr 31 min
+436 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [PARADE](https://open.spotify.com/track/2TSu26aUupiIfzv5OE1hjr) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [PARADE](https://open.spotify.com/album/04xTZdEbwVCV3TO2GDXq3o) | 2:03 | 2022-10-13 | 2023-01-27 |
 | [PARASITE](https://open.spotify.com/track/0HWoUIrMqJeXA73ktjHt8a) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [PARASITE](https://open.spotify.com/album/2QMV8D4rvXM0zEWzPNYpP9) | 1:40 | 2022-04-19 | 2022-04-29 |
 | [perfume](https://open.spotify.com/track/4gCUtwksS3BTHgzzzWjBl6) | [verbo](https://open.spotify.com/artist/3NXZ4YPBqXkBcwWQnqCkcS), [kkypr](https://open.spotify.com/artist/2qmldm3WLc4yv0Ps18Enoo) | [perfume](https://open.spotify.com/album/7i9w7F0QJ07CfUYI0RSfP4) | 1:58 | 2022-04-19 | 2022-04-29 |
+| [Pigs](https://open.spotify.com/track/2UYVot6c9cJzSQU9iQ9xoV) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz) | [Pigs](https://open.spotify.com/album/2Sjr6kWxFoLV7FwjbGJ0DC) | 3:53 | 2023-01-27 |  |
 | [Pink Bubblegum](https://open.spotify.com/track/4jxg7aD2s4ehpjyVP0qisg) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Bubblegum](https://open.spotify.com/album/70bWJ4nB1AGuDh5hqfZ3pf) | 2:22 | 2021-12-27 | 2022-02-18 |
 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 | 2022-04-19 | 2022-04-29 |
 | [Pink G\-String](https://open.spotify.com/track/1uAXWqVuVOSDqE4lJvY4Ae) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink G\-String](https://open.spotify.com/album/5Y4VHqeyqlnPIHlK0zfso3) | 2:07 | 2022-07-14 | 2022-08-26 |

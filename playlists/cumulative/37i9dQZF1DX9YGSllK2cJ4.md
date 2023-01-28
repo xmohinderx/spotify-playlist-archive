@@ -4,7 +4,7 @@
 
 > Give yourself a break, cry it out, take comfort in these sad piano songs.
 
-251 songs - 11 hr 26 min
+257 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Afterthought](https://open.spotify.com/track/6V3EqKAHRMDKUYYPtD0lVQ) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Afterthought](https://open.spotify.com/album/4AFxPojfD0MLU03FMCtDmg) | 2:29 | 2022-08-25 |  |
 | [All At Once](https://open.spotify.com/track/0jtwO60GVhFIF2HGeIGLkr) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [All At Once](https://open.spotify.com/album/4HsiN8xlJfsyh6iUTeBwA6) | 2:57 | 2022-08-01 |  |
 | [All Numbers End](https://open.spotify.com/track/1QGlEQJkixOXsbijKqNTDB) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 1:35 | 2022-08-01 | 2022-11-15 |
+| [Anda](https://open.spotify.com/track/6OOCHxYAV8SpXTiY6SzThW) | [Sarah Jacoby](https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V) | [Ros](https://open.spotify.com/album/5HhDwfAzAAR7NlMRtpsQ7k) | 1:59 | 2023-01-27 |  |
 | [Andante](https://open.spotify.com/track/0fNGCAEPZdUC54hT9lq3vm) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Andante](https://open.spotify.com/album/1dVKEClXUepZ5CSQJRChUd) | 2:55 | 2022-11-14 |  |
 | [Another Love](https://open.spotify.com/track/6OfT72cZN67HsBTDbnqsMo) | [Ryan Tenner](https://open.spotify.com/artist/29i15whXYvAclIabh8MwFb) | [Pop Piano Covers](https://open.spotify.com/album/5VsC6hpWCfb3N9GhlPqWIn) | 4:12 | 2022-08-05 | 2022-08-10 |
 | [As We Dance](https://open.spotify.com/track/01i2Pwd1th9J7T1zHBVPJQ) | [Joseph Vidal](https://open.spotify.com/artist/0xPExAs5AtfPcauYdhWqfi) | [As We Dance](https://open.spotify.com/album/0YYG9E8nuHaUXpgbwhV6nM) | 2:40 | 2022-10-24 |  |
@@ -85,6 +86,7 @@
 | [Hallelujah](https://open.spotify.com/track/4YZwWfva9YsKx2Xoo5eCBK) | [Brian Crain](https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb) | [Piano and Light](https://open.spotify.com/album/0X03bt3jajm7DMCZ2L2SAl) | 4:11 | 2022-08-01 | 2022-11-15 |
 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 | 2022-08-01 |  |
 | [Heartsease](https://open.spotify.com/track/2VqdRIXLDBYtDHLBvWw0p4) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Heartsease](https://open.spotify.com/album/2jVOyTHvkQHSQ0Y19arpqE) | 2:25 | 2022-09-12 |  |
+| [helplessly hoping](https://open.spotify.com/track/5kxs43PqoQOhW9HNVh7vW4) | [dybiński](https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP) | [helplessly hoping](https://open.spotify.com/album/5osnm3nOxSsnQ8ih7Xdpyb) | 3:46 | 2023-01-27 |  |
 | [How it Used to Be](https://open.spotify.com/track/75erFAUKLzeaRHhaIOrTGM) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [How it Used to Be](https://open.spotify.com/album/7mSlDiBarb6ZuUScqXK9nz) | 2:06 | 2023-01-19 |  |
 | [I Can Sail Without Wind](https://open.spotify.com/track/4t5vrwOH5r0aF9LxIXYC1y) | [Joakim Holgersson](https://open.spotify.com/artist/58iWubOtAjZXxTSSza46Kk) | [I Can Sail Without Wind](https://open.spotify.com/album/0TmcxX4WRWJDcRfgt3HJyn) | 2:26 | 2022-12-20 |  |
 | [Il Vicolo](https://open.spotify.com/track/72hmCwuZXRBt5kRDqVWr8C) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [Il Vicolo](https://open.spotify.com/album/4CbfYWMk84Su8dv2SfQWzf) | 3:20 | 2022-08-01 | 2022-09-13 |
@@ -92,6 +94,7 @@
 | [Impermanence](https://open.spotify.com/track/6Kt3bzYXSLKXBa2nRMabOi) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Impermanence](https://open.spotify.com/album/5623NsetcNnDzzZf4xr9Oh) | 2:20 | 2022-08-25 |  |
 | [Impromptu](https://open.spotify.com/track/1oKOIu35J9znIA7JbtVlTK) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Impromptu](https://open.spotify.com/album/3FLWbNwSwVSII9yOJV8NjL) | 2:24 | 2023-01-19 |  |
 | [In questo momento](https://open.spotify.com/track/0otUJIiSxqBCw2TQGfrIE3) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [In questo momento](https://open.spotify.com/album/5URiTefnul03fUwxzDS7Jo) | 2:40 | 2022-08-01 |  |
+| [Indicible](https://open.spotify.com/track/1loCM4kodY3ONbpki4lNm7) | [Bon Coeur](https://open.spotify.com/artist/3uvirEQnNIIz4wsyCPEper) | [Indicible](https://open.spotify.com/album/1l96DiMz09XiRfMZR6lW4I) | 3:06 | 2023-01-27 |  |
 | [Insomnia](https://open.spotify.com/track/5jKUoCq3PWz3bpB1X5dIon) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Insomnia](https://open.spotify.com/album/03L0T3H6lTrd3upsTHFUPG) | 2:40 | 2022-08-01 |  |
 | [Is This Really All That's Left](https://open.spotify.com/track/0WeedLPbEE8GGziUucNj1k) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Is This Really All That's Left](https://open.spotify.com/album/5B3YNyzs038xqqJ22CfZlK) | 2:26 | 2022-09-12 | 2022-11-15 |
 | [Island II](https://open.spotify.com/track/2vUY8WL94C9ortPW7AwwEE) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Sol Novo](https://open.spotify.com/album/3JWpVOW9aj9y5eoMaUFbFN) | 2:23 | 2022-08-01 |  |
@@ -110,6 +113,7 @@
 | [Larissa](https://open.spotify.com/track/1GsXfbpjrnAr8G4LcnhlPt) | [Little Marions](https://open.spotify.com/artist/74F0qlRdpVmcJWhCqUN8cy) | [Larissa](https://open.spotify.com/album/7yIOkTmGYFxv0GYLwoAHE4) | 2:38 | 2022-08-01 |  |
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2022-08-01 |  |
 | [Lavandula](https://open.spotify.com/track/79TCHEeIxQmvo1Y40jgf7Z) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Lavandula](https://open.spotify.com/album/7DohO27xmIQwXhO6mp0ZyB) | 2:50 | 2022-08-01 |  |
+| [Leaving Home](https://open.spotify.com/track/7v0rYS2J9c423DLgLFdnFI) | [Tales of Vibrations](https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG) | [Leaving Home](https://open.spotify.com/album/4xCpA8yhZLHEzXPZjHbzli) | 2:25 | 2023-01-27 |  |
 | [lei sogna di noi](https://open.spotify.com/track/2myAatrsAXWSYBCJzphYle) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [lei sogna di noi](https://open.spotify.com/album/6hEEE80InjpeOtNaMxFTu5) | 2:00 | 2022-08-01 | 2022-09-13 |
 | [Let the water in](https://open.spotify.com/track/38Hqdf7CgUrEnCO6DMqCPv) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Never ending Grace](https://open.spotify.com/album/6rCQs9lo5svYnmXkIBcV4y) | 2:53 | 2022-11-14 |  |
 | [Let the water in](https://open.spotify.com/track/6sSjhXN1PhbfpD5u6V01WS) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Let the water in](https://open.spotify.com/album/3YrzV39ZBwz7ywJk8beA7O) | 2:53 | 2022-10-14 | 2022-11-15 |
@@ -164,6 +168,7 @@
 | [Problématique](https://open.spotify.com/track/5DuNs8KmyX0Rhpa5cwujXT) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Problématique](https://open.spotify.com/album/0hBgJgCI8ENtYGjj1csyEh) | 1:43 | 2022-08-01 |  |
 | [Pure](https://open.spotify.com/track/4PqCs6E0im3Qnit7GCE970) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Pure](https://open.spotify.com/album/2uVBdjAQIwOX41GExCQ7j7) | 2:02 | 2022-08-01 |  |
 | [Radius](https://open.spotify.com/track/5HAJEsxD0fBSnbdWljzeFh) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Radius](https://open.spotify.com/album/62qUYNydgMlF5scn5Sy1Um) | 1:56 | 2022-08-25 |  |
+| [Reach](https://open.spotify.com/track/7atqhP3DGCPfVBFK3YVMA7) | [Lester Milton](https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE) | [Reach](https://open.spotify.com/album/01KH05yqQgS0Cru4rIj5ML) | 2:00 | 2023-01-27 |  |
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2022-08-01 |  |
 | [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 | 2022-08-01 |  |
 | [Reflections](https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Reflections](https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX) | 1:50 | 2022-08-01 |  |
@@ -223,6 +228,7 @@
 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 | 2022-08-01 | 2022-09-13 |
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2022-08-01 |  |
 | [Time Of Loneliness](https://open.spotify.com/track/4QMnY8yCam7Gjuo3DdRMA7) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Time Of Loneliness](https://open.spotify.com/album/7piDZM7pVnkIa5B8o3jL4g) | 2:50 | 2022-08-01 |  |
+| [Tomorrow](https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Tomorrow](https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy) | 2:34 | 2023-01-27 |  |
 | [Toužebný](https://open.spotify.com/track/3I36NaLQR6zCn5Y2stUg9H) | [Jan Kubec](https://open.spotify.com/artist/1qalElRe3QyFhucbpFX9On) | [Toužebný](https://open.spotify.com/album/79wxphlSK7Xj0dUCMiK7SS) | 2:14 | 2022-08-01 |  |
 | [Tranquillo](https://open.spotify.com/track/72kzlLev3gbe93hKa4oHnh) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Tranquillo](https://open.spotify.com/album/2Ef8kD6MMZg9FkvMZZ8kyk) | 2:08 | 2022-11-14 |  |
 | [Translucency](https://open.spotify.com/track/6SsnBkri7GaVza5JovLs4W) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Translucency](https://open.spotify.com/album/1ZGgON2VfHVFro56xDJINn) | 2:35 | 2022-08-01 |  |

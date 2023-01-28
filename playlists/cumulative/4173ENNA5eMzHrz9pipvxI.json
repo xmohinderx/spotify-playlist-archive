@@ -6125,6 +6125,24 @@
     },
     {
       "album": {
+        "name": "Midgard",
+        "url": "https://open.spotify.com/album/70kX5GXUzal2yHqStkRm9D"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287400,
+      "name": "Midgard",
+      "url": "https://open.spotify.com/track/7GdiWNAHrnRXo0pkjJzP6S"
+    },
+    {
+      "album": {
         "name": "Mirror Mirror (feat. TELLER)",
         "url": "https://open.spotify.com/album/4ZiEHfXY1HiQTYBTTku6PE"
       },

@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 332000,
       "name": "310",
       "url": "https://open.spotify.com/track/2jdNVXrmEvEa16mLGsqCjB"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 321418,
       "name": "Birds & Flutes",
       "url": "https://open.spotify.com/track/7usiMIQ4471lFXmVsUworT"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 272223,
       "name": "Drift",
       "url": "https://open.spotify.com/track/3X6Fyt7NXiZ0TUA2bf4iVK"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 130000,
       "name": "Elias",
       "url": "https://open.spotify.com/track/5byZDxGFoQymRppmeIMNXo"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 264683,
       "name": "Fog",
       "url": "https://open.spotify.com/track/4AoMRgx0RWMmSapEFnSKKl"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 279367,
       "name": "Grat",
       "url": "https://open.spotify.com/track/3C7ln1fvOInfVLWe1uOWso"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 188480,
       "name": "hajimari",
       "url": "https://open.spotify.com/track/5WkGXpwLvGVXj9atfU9yli"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 78762,
       "name": "Marmara Beach II",
       "url": "https://open.spotify.com/track/1faNqUo9262FCCAx6kPb5Y"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 312000,
       "name": "Mt Baker",
       "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 235717,
       "name": "On Plateau",
       "url": "https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU"
@@ -2205,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "Bomani",
+        "url": "https://open.spotify.com/album/5mplZY05CkadQTzuyGpxXI"
+      },
+      "artists": [
+        {
+          "name": "Oli Bayston",
+          "url": "https://open.spotify.com/artist/5GPvva3BlYJogZP0ONVx2H"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475693,
+      "name": "Oxy",
+      "url": "https://open.spotify.com/track/4QzH31KmIul1qi84eKTUmP"
+    },
+    {
+      "album": {
         "name": "Zebra",
         "url": "https://open.spotify.com/album/7fMlt5bR4ddUnzLnMR91Qf"
       },
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 138564,
       "name": "Ozu",
       "url": "https://open.spotify.com/track/3hNZUs8RSUk3HbFQGcrWnK"
@@ -2350,7 +2368,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 439333,
       "name": "Prue Lewarne",
       "url": "https://open.spotify.com/track/11fCNGmz7r3cEzaqwakkLB"
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 173653,
       "name": "rest",
       "url": "https://open.spotify.com/track/1bu0i3ZkCVYTTQhBywwJWK"
@@ -2440,7 +2458,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 254137,
       "name": "Rintocco",
       "url": "https://open.spotify.com/track/5su2UU0bULk5kcpZtaWeE3"
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-21",
+      "date_removed": null,
       "duration_ms": 407062,
       "name": "Sea Kaleidoscope",
       "url": "https://open.spotify.com/track/3ARFPSPw3Mhx0Lr0kajzBd"
@@ -2494,7 +2512,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 351313,
       "name": "Sealed",
       "url": "https://open.spotify.com/track/3nagQKjvGa9hhVHGmFzFdC"
@@ -2874,7 +2892,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 186376,
       "name": "Suminoe",
       "url": "https://open.spotify.com/track/0Pbeav2sgosdvx22DB33kK"
@@ -2968,7 +2986,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/5KaW5oOw4D5W4gOsQyTh3h"
@@ -2990,7 +3008,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 543640,
       "name": "The Anatomy of Clouds (Malibu Sweet Hereafter Remix) I",
       "url": "https://open.spotify.com/track/1eRpubYdTxJ2RtuOCu5hSg"
@@ -3244,7 +3262,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 177066,
       "name": "Unfolding (feat. Goldmund)",
       "url": "https://open.spotify.com/track/3TY0bVEJuSw1m80A9g6i9N"
@@ -3266,7 +3284,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 211983,
       "name": "Upstream",
       "url": "https://open.spotify.com/track/3dAQ9qpxPkRg3U5stdog6i"
@@ -3346,7 +3364,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 334468,
       "name": "Waiting For The Wind To Blow",
       "url": "https://open.spotify.com/track/65Pr81qX8J7GuxIIlJHak1"
@@ -3404,6 +3422,24 @@
       "duration_ms": 107626,
       "name": "Washed Out",
       "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
+    },
+    {
+      "album": {
+        "name": "The Best Driving Music in the World Ever",
+        "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
+      },
+      "artists": [
+        {
+          "name": "Sean Curtis Patrick",
+          "url": "https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250341,
+      "name": "We Search for the Lights",
+      "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
     },
     {
       "album": {

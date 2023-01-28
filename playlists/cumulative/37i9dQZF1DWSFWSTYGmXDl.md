@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-184 songs - 10 hr 4 min
+185 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Silent Night](https://open.spotify.com/track/44i7QLwC4NQ9dSIYJaEzXl) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:14 | 2021-12-12 |  |
 | [Silent Night](https://open.spotify.com/track/60iHtNrA3WoJsXa1dgjGAZ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 2:49 | 2021-12-12 |  |
 | [Silver Bells](https://open.spotify.com/track/07FpmgWdTUjWBiRP3ON6OJ) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Silver Bells](https://open.spotify.com/album/2GPICARHZjMAxMu15hhT3M) | 3:33 | 2021-12-12 |  |
-| [Snow](https://open.spotify.com/track/1UkFYMVhWAT1N7IIhJJMtE) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Snow](https://open.spotify.com/album/2XVDuyZ7gDHxpU9BAtMwu0) | 3:45 | 2021-12-12 |  |
+| [Snow](https://open.spotify.com/track/1UkFYMVhWAT1N7IIhJJMtE) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Snow](https://open.spotify.com/album/2XVDuyZ7gDHxpU9BAtMwu0) | 3:45 | 2021-12-12 | 2023-01-28 |
+| [Snow](https://open.spotify.com/track/7aDE5prcsZuHtui9YDgShF) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Snow](https://open.spotify.com/album/1YcOJ4stnsTYYzFmjy0QYE) | 3:45 | 2022-12-09 |  |
 | [Snow In California](https://open.spotify.com/track/6BqE2EzcqW6sNYf7SeGfuN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/7nIbIFeXJSBFWY0C7xGg9O) | 3:26 | 2021-12-12 | 2022-07-29 |
 | [Snow In California](https://open.spotify.com/track/6Uc4EHr3ktYmLfLDY7LifJ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas Kisses](https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr) | 3:26 | 2021-12-12 |  |
 | [Snowflake](https://open.spotify.com/track/0DbGG3nbq1R3TNLkKTx6aZ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 4:02 | 2021-12-12 | 2022-11-11 |

@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-105 songs - 6 hr 0 min
+106 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Peaceful Beat](https://open.spotify.com/track/1K1bPlZna6jKf7awyKi6K8) | [Muyu Three](https://open.spotify.com/artist/6zb7OvAUpABDfVSe9NF1BN) | [Peaceful Beat](https://open.spotify.com/album/4geUtHZzcLPidEcjgaIvQB) | 2:58 | 2022-05-26 |  |
 | [Planets Rise](https://open.spotify.com/track/0Qx2fTCn7wSxeHt3jyI1Jj) | [Northern Path](https://open.spotify.com/artist/2eJKWn5c5wQXokRkT5LF4T) | [Planets Rise](https://open.spotify.com/album/65izdFSoEJds0oVAHgzzVZ) | 3:24 | 2022-12-20 |  |
 | [Protected](https://open.spotify.com/track/39c0wkcay8Zk7gAiibB6OZ) | [Sonic Ark](https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1) | [Found](https://open.spotify.com/album/5S45s0wsGcnj4gx7UmoRti) | 3:04 | 2022-05-26 |  |
-| [Ramadu Meditation](https://open.spotify.com/track/30bl33zjZCyeueDwytjKy5) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [Worship African Experience: Shamanic Serenity, Relaxing Drums, Tribal Meditation](https://open.spotify.com/album/1YasVpcLqeQPWSFDsHHOOt) | 4:35 | 2022-05-26 |  |
+| [Ramadu Meditation](https://open.spotify.com/track/30bl33zjZCyeueDwytjKy5) | [African Music Drums Collection](https://open.spotify.com/artist/1VZg5g46KNbpD7CsIxPrKo) | [Worship African Experience: Shamanic Serenity, Relaxing Drums, Tribal Meditation](https://open.spotify.com/album/1YasVpcLqeQPWSFDsHHOOt) | 4:35 | 2022-05-26 | 2023-01-28 |
 | [Returning It All](https://open.spotify.com/track/3vYXmN6uvbcVXwWdxG145s) | [Corrid](https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy) | [Returning It All](https://open.spotify.com/album/2oryCbHtb3HeSPbzg0G9D7) | 2:28 | 2022-05-26 |  |
 | [Sacred Experience](https://open.spotify.com/track/3MrasYrJku7i1nteS1tJaD) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Shades of Percussion and Drums: Ethnic Instrumental Fantasies](https://open.spotify.com/album/6mYSCjqocuBK0qz28UoxGt) | 3:23 | 2022-05-26 |  |
 | [Sacred Mountain](https://open.spotify.com/track/6T8WTmpbCkzJVhR3ut2aCq) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Bless The Rains In India](https://open.spotify.com/album/7ztQjntjsQwv8BnmwH2SqU) | 2:21 | 2022-05-26 |  |
@@ -112,6 +112,7 @@
 | [Yoga Dedication](https://open.spotify.com/track/26WbeejSj0noAKz9vdn9lr) | [Corrid](https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy) | [Yoga Dedication](https://open.spotify.com/album/7FvPfS5ebwgdEfj5SqACpU) | 2:33 | 2022-05-26 |  |
 | [Zen Beat 1](https://open.spotify.com/track/5xZ2SUNClq0bfr5CbYEKBc) | [Sun Of Sanny](https://open.spotify.com/artist/5luG8VudoiQNvcN2OEcdpC) | [Zen Beats 1](https://open.spotify.com/album/3EjS8dAFjuHzy4FE9UYif6) | 3:14 | 2022-05-26 |  |
 | [Zenkom Auralis](https://open.spotify.com/track/22NrttumYU12GSAa9fvaom) | [Augmented Meditation](https://open.spotify.com/artist/2Gj9De52rmWf9w9esZPs9A) | [Zenkom Auralis](https://open.spotify.com/album/4tb0F9VmjZaNQIIRKJL9L9) | 3:58 | 2022-11-22 |  |
+| [ZenZephyr](https://open.spotify.com/track/12NW28rpQpQtS6vcHJYYQi) | [Surya](https://open.spotify.com/artist/35cfF1k6EkenA6CvqrhneD) | [ZenZephyr](https://open.spotify.com/album/5EYJACzBpoBxZxgC9EZU62) | 3:36 | 2023-01-27 |  |
 | [明日 Tomorrow](https://open.spotify.com/track/4E7pyCeIzWAzuk4RD5hUkC) | [Shunya Koyanagi](https://open.spotify.com/artist/2NGMjhqXuqLLdvot10Mij4) | [明日 Tomorrow](https://open.spotify.com/album/0K0EsCmAo5nqwPzYAR9eRL) | 3:10 | 2022-07-08 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

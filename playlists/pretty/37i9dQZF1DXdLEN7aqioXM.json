@@ -1,12 +1,12 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 891285,
+  "num_followers": 891636,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MzgwMCwwMDAwMDAwMDJjMzAxY2FkMzQwNTI0MTk1MmM3NDViMDBjMTU3ZDk2",
+  "snapshot_id": "MTY3NDE5MzgwMCwwMDAwMDAwMDdjNDI0NDM2YWUyNGJkOGQzYTQwN2FmMWY3NWVjZjZl",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -899,6 +899,30 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/2oiMBlKh5HoJED3egOSAO2"
+      },
+      "artists": [
+        {
+          "name": "Massive Z",
+          "url": "https://open.spotify.com/artist/0h2KwV1qVRmGgMwVJig5Gv"
+        },
+        {
+          "name": "Kid Macdonald",
+          "url": "https://open.spotify.com/artist/6AzOwdBPW8P4PCUiCBaOP5"
+        },
+        {
+          "name": "NOVARAY",
+          "url": "https://open.spotify.com/artist/3QA4RfY6zF7CPYleEwL6NK"
+        }
+      ],
+      "duration_ms": 290526,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/7fX0UqkOmLh0YNlp5rq8h6"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Feeling It",
         "url": "https://open.spotify.com/album/0A2F4dtZP2YcS85ZBIrXVp"
       },
@@ -943,30 +967,6 @@
       "duration_ms": 343140,
       "name": "Night City",
       "url": "https://open.spotify.com/track/2wRfmI3v2REarKJFzuzO46"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Metropolis",
-        "url": "https://open.spotify.com/album/2oiMBlKh5HoJED3egOSAO2"
-      },
-      "artists": [
-        {
-          "name": "Massive Z",
-          "url": "https://open.spotify.com/artist/0h2KwV1qVRmGgMwVJig5Gv"
-        },
-        {
-          "name": "Kid Macdonald",
-          "url": "https://open.spotify.com/artist/6AzOwdBPW8P4PCUiCBaOP5"
-        },
-        {
-          "name": "NOVARAY",
-          "url": "https://open.spotify.com/artist/3QA4RfY6zF7CPYleEwL6NK"
-        }
-      ],
-      "duration_ms": 290526,
-      "name": "Metropolis",
-      "url": "https://open.spotify.com/track/7fX0UqkOmLh0YNlp5rq8h6"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Defender",
-        "url": "https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U"
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU"
       },
       "artists": [
         {
-          "name": "Ti\u00ebn",
-          "url": "https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh"
+          "name": "Miami Nights 1984",
+          "url": "https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20"
         }
       ],
-      "duration_ms": 224150,
-      "name": "Defender",
-      "url": "https://open.spotify.com/track/2umQRNsUUMGAlbFFRoLzIx"
+      "duration_ms": 236000,
+      "name": "The Getaway",
+      "url": "https://open.spotify.com/track/5boxsVqT2XsC2b1V2FUCsM"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Turbulence",
-        "url": "https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU"
+        "name": "Defender",
+        "url": "https://open.spotify.com/album/7msZ4RqD6NLKz5O7wKNe8U"
       },
       "artists": [
         {
-          "name": "Miami Nights 1984",
-          "url": "https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20"
+          "name": "Ti\u00ebn",
+          "url": "https://open.spotify.com/artist/3kRYpFgIOADMkDpUnclkVh"
         }
       ],
-      "duration_ms": 236000,
-      "name": "The Getaway",
-      "url": "https://open.spotify.com/track/5boxsVqT2XsC2b1V2FUCsM"
+      "duration_ms": 224150,
+      "name": "Defender",
+      "url": "https://open.spotify.com/track/2umQRNsUUMGAlbFFRoLzIx"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1731,22 +1731,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "I Don't Need a Hero (Cody Crump Remix)",
-        "url": "https://open.spotify.com/album/3e8OfAc9d4fzY2KT6E8e54"
+        "name": "Neon Escapism (Edit)",
+        "url": "https://open.spotify.com/album/6jmwxY4XJLKcKnHJKOjK6A"
       },
       "artists": [
         {
-          "name": "Danz CM",
-          "url": "https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD"
-        },
-        {
-          "name": "Cody Crump",
-          "url": "https://open.spotify.com/artist/39MjSo9mz8T8OtuhZPdlP7"
+          "name": "Melezz",
+          "url": "https://open.spotify.com/artist/7x1EFL4BItTrsqEP8u0CZQ"
         }
       ],
-      "duration_ms": 183841,
-      "name": "I Don't Need a Hero - Cody Crump Remix",
-      "url": "https://open.spotify.com/track/3sLp1oqVe3XvEmYz4j05ZI"
+      "duration_ms": 274285,
+      "name": "Neon Escapism - Edit",
+      "url": "https://open.spotify.com/track/42Xlg8cKifyHQ8sFgaUBmt"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1767,38 +1763,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Neon Escapism (Edit)",
-        "url": "https://open.spotify.com/album/6jmwxY4XJLKcKnHJKOjK6A"
-      },
-      "artists": [
-        {
-          "name": "Melezz",
-          "url": "https://open.spotify.com/artist/7x1EFL4BItTrsqEP8u0CZQ"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "Neon Escapism - Edit",
-      "url": "https://open.spotify.com/track/42Xlg8cKifyHQ8sFgaUBmt"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/2aCUF9UpKcXuWleXjgasXW"
-      },
-      "artists": [
-        {
-          "name": "Keep Shelly In Athens",
-          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6Uy4OXL04NfdM0DxM1m5Ww"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Fundamentals, Vol. III",
         "url": "https://open.spotify.com/album/0gI1nOpgl8BJV9jIUM4suh"
       },
@@ -1815,22 +1779,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Temporarity (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7kePVkBLCrDB2g0YpMrxBn"
+        "name": "I Don't Need a Hero (Cody Crump Remix)",
+        "url": "https://open.spotify.com/album/3e8OfAc9d4fzY2KT6E8e54"
       },
       "artists": [
         {
-          "name": "Michael Cassette",
-          "url": "https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd"
+          "name": "Danz CM",
+          "url": "https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD"
         },
         {
-          "name": "16BL",
-          "url": "https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG"
+          "name": "Cody Crump",
+          "url": "https://open.spotify.com/artist/39MjSo9mz8T8OtuhZPdlP7"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Shadow\u2019s Movement - 16BL\u2019s Universal Disco Mix",
-      "url": "https://open.spotify.com/track/68QnK13w8jsIw5V1l9nUYJ"
+      "duration_ms": 183841,
+      "name": "I Don't Need a Hero - Cody Crump Remix",
+      "url": "https://open.spotify.com/track/3sLp1oqVe3XvEmYz4j05ZI"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1855,6 +1819,42 @@
       "duration_ms": 232411,
       "name": "Flashbacks (Arcade High Remix)",
       "url": "https://open.spotify.com/track/0O2nbGHwYceYAnwT3mV0ZY"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2aCUF9UpKcXuWleXjgasXW"
+      },
+      "artists": [
+        {
+          "name": "Keep Shelly In Athens",
+          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/6Uy4OXL04NfdM0DxM1m5Ww"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Temporarity (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7kePVkBLCrDB2g0YpMrxBn"
+      },
+      "artists": [
+        {
+          "name": "Michael Cassette",
+          "url": "https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd"
+        },
+        {
+          "name": "16BL",
+          "url": "https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Shadow\u2019s Movement - 16BL\u2019s Universal Disco Mix",
+      "url": "https://open.spotify.com/track/68QnK13w8jsIw5V1l9nUYJ"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7z7cyWuCDqW8PxQ0luSVb5"
+      },
+      "artists": [
+        {
+          "name": "Balcony Sunrise",
+          "url": "https://open.spotify.com/artist/18fGpvh05JqB697yJxo5mF"
+        }
+      ],
+      "duration_ms": 253902,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/75sLIs9n3Odv5YxXe9VIrw"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Cosmic Boundaries",
         "url": "https://open.spotify.com/album/7397LusD3Odk8yvnHJC4hw"
       },
@@ -1987,18 +2003,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7z7cyWuCDqW8PxQ0luSVb5"
+        "name": "Skulltaste",
+        "url": "https://open.spotify.com/album/6Qk8W6vurHFSuxJ0LldW3g"
       },
       "artists": [
         {
-          "name": "Balcony Sunrise",
-          "url": "https://open.spotify.com/artist/18fGpvh05JqB697yJxo5mF"
+          "name": "Mux Mool",
+          "url": "https://open.spotify.com/artist/5ExPH13WUhdGVNnMq6RLCr"
         }
       ],
-      "duration_ms": 253902,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/75sLIs9n3Odv5YxXe9VIrw"
+      "duration_ms": 214999,
+      "name": "Get Better John",
+      "url": "https://open.spotify.com/track/0TV7fHt0J6fwodmjDHLldN"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2019,22 +2035,6 @@
       "duration_ms": 232000,
       "name": "E.P.R.O.M.",
       "url": "https://open.spotify.com/track/7k1ULNLWrAyRJy0ZRbBILq"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Skulltaste",
-        "url": "https://open.spotify.com/album/6Qk8W6vurHFSuxJ0LldW3g"
-      },
-      "artists": [
-        {
-          "name": "Mux Mool",
-          "url": "https://open.spotify.com/artist/5ExPH13WUhdGVNnMq6RLCr"
-        }
-      ],
-      "duration_ms": 214999,
-      "name": "Get Better John",
-      "url": "https://open.spotify.com/track/0TV7fHt0J6fwodmjDHLldN"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Disco on the Baltic Sea",
-        "url": "https://open.spotify.com/album/2dttamIBvuU7pyMmR89V0z"
-      },
-      "artists": [
-        {
-          "name": "Waveshaper",
-          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Disco on the Baltic Sea",
-      "url": "https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "Metaversal",
         "url": "https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK"
       },
@@ -2155,22 +2139,6 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "Recall",
-        "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
-      },
-      "artists": [
-        {
-          "name": "Emil Rottmayer",
-          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
-        }
-      ],
-      "duration_ms": 205128,
-      "name": "Recall",
-      "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
         "name": "District 970",
         "url": "https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd"
       },
@@ -2187,6 +2155,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
+      },
+      "artists": [
+        {
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+        }
+      ],
+      "duration_ms": 205128,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Space Amplitude",
         "url": "https://open.spotify.com/album/0wel2m8VmYeR7ZnZZEZzu8"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 168000,
       "name": "Space Amplitude",
       "url": "https://open.spotify.com/track/1i1SfCWBq5xqNG4m5WtQKv"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Disco on the Baltic Sea",
+        "url": "https://open.spotify.com/album/2dttamIBvuU7pyMmR89V0z"
+      },
+      "artists": [
+        {
+          "name": "Waveshaper",
+          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Disco on the Baltic Sea",
+      "url": "https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2259,6 +2259,22 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
+        "name": "Tsukuyomi",
+        "url": "https://open.spotify.com/album/6hkKkB6BqmPXiVl559OdyO"
+      },
+      "artists": [
+        {
+          "name": "Rogue VHS",
+          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
+        }
+      ],
+      "duration_ms": 270317,
+      "name": "Tsukuyomi",
+      "url": "https://open.spotify.com/track/61vC11KWndHG1OmoCqhELP"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
         "name": "Try / Dark Strings",
         "url": "https://open.spotify.com/album/1OwAemnirDJgzAms6uBbDR"
       },
@@ -2299,22 +2315,6 @@
       "duration_ms": 218614,
       "name": "Soul Survivor (feat. Ollie Wride)",
       "url": "https://open.spotify.com/track/6LvKahncumcR2KJypCYOkB"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Tsukuyomi",
-        "url": "https://open.spotify.com/album/6hkKkB6BqmPXiVl559OdyO"
-      },
-      "artists": [
-        {
-          "name": "Rogue VHS",
-          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
-        }
-      ],
-      "duration_ms": 270317,
-      "name": "Tsukuyomi",
-      "url": "https://open.spotify.com/track/61vC11KWndHG1OmoCqhELP"
     },
     {
       "added_at": "2023-01-13 05:01:00",
@@ -2587,26 +2587,18 @@
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {
-        "name": "All In My Head",
-        "url": "https://open.spotify.com/album/7oih2lwS5wM60NQoPm2huE"
+        "name": "Pressure Point",
+        "url": "https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C"
       },
       "artists": [
         {
-          "name": "Waves_On_Waves",
-          "url": "https://open.spotify.com/artist/4l1KlqrM9fywoEDVKKiR9u"
-        },
-        {
-          "name": "Grum",
-          "url": "https://open.spotify.com/artist/5sSeJa068hClyJQarrDxHx"
-        },
-        {
-          "name": "Pastel Arcade",
-          "url": "https://open.spotify.com/artist/0OBIl1zLhIN5KUU1fHiYZq"
+          "name": "Eagle Eyed Tiger",
+          "url": "https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8"
         }
       ],
-      "duration_ms": 300962,
-      "name": "All In My Head",
-      "url": "https://open.spotify.com/track/3egP3kz4FZzReX4kGQp4vX"
+      "duration_ms": 236216,
+      "name": "Tessellate",
+      "url": "https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa"
     },
     {
       "added_at": "2023-01-13 05:01:00",

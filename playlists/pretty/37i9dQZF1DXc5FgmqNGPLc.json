@@ -1,13 +1,29 @@
 {
   "description": "All live, all jazz. Cover: Erroll Garner",
-  "num_followers": 4682,
+  "num_followers": 4689,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMDYxYzUxNjdiMWM2OTQ4ZjZkZjZkMGYzOTBiNjJjMDU0",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDliNzczMTdiZjEyNTk4MmVkMGYwMGZlMTBhYmM4MTY0",
   "tracks": [
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "In Concert",
+        "url": "https://open.spotify.com/album/07fBpu7zIOCeOwCFKoWnu3"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 489226,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/062FRhtHo7W8ZvZUefVIb9"
+    },
     {
       "added_at": "2023-01-13 05:01:00",
       "album": {

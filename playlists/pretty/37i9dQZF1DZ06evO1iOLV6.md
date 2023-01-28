@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,172 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,173 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 45 | [Do Better](https://open.spotify.com/track/0vtXr3xIGXkHI0eidEOuUg) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO) | [Do Better](https://open.spotify.com/album/56f5Gq8bsHwIWak9Odfxxk) | 4:19 |
 | 46 | [Gal Ting \- Remix](https://open.spotify.com/track/2SEZTPBqXBfsimqx66lfNl) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Gal Ting \(Remix\)](https://open.spotify.com/album/5BWZkwc7LWDSHTa7bxWnoH) | 2:55 |
 | 47 | [Clean and Pure](https://open.spotify.com/track/4FfweIA6z8WoNKGMv6G2S0) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:10 |
-| 48 | [Wonder \(feat\. Patoranking\)](https://open.spotify.com/track/4cr9TB2EIAb3uDgvjbYYL0) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Wonder \(feat\. Patoranking\)](https://open.spotify.com/album/1ywLmHZrCdZs0TlcXlGQdB) | 2:53 |
-| 49 | [Happy Day](https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Happy Day](https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD) | 4:20 |
+| 48 | [Happy Day](https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Happy Day](https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD) | 4:20 |
+| 49 | [Wonder \(feat\. Patoranking\)](https://open.spotify.com/track/4cr9TB2EIAb3uDgvjbYYL0) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Wonder \(feat\. Patoranking\)](https://open.spotify.com/album/1ywLmHZrCdZs0TlcXlGQdB) | 2:53 |
 | 50 | [We Run The Road](https://open.spotify.com/track/29zDAYgVf05ipZ8mndZzmJ) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [We Run The Road](https://open.spotify.com/album/74DfDzN8aWJRVVfRKSSBIG) | 3:41 |
 
-Snapshot ID: `Mjc5MTIzNzAsMDAwMDAwMDA1NzI1MTNhNjE3N2M4M2FhMmI0NTI5MjBiMDQ0MTljZA==`
+Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDAwOGZhNjBkMGIzMzQ2ZDQxYzkxYWQyMTBjZjgyMjY2MA==`

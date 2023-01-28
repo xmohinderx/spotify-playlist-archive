@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Armand Van Helden, Karen Harding, Biscits, Kriss Reeve",
+  "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Armand Van Helden, Karen Harding, Kriss Reeve, Biscits",
   "name": "EDM Top 100",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 176640,
       "name": "1, 2 Step (Supersonic)",
       "url": "https://open.spotify.com/track/09iOlbzf6gyapDqeMNYSCp"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-06",
+      "date_removed": null,
       "duration_ms": 235586,
       "name": "A Matter of Time",
       "url": "https://open.spotify.com/track/7DghZdBmY3GJT4vjq9dfUf"
@@ -1312,6 +1312,24 @@
       "duration_ms": 169102,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/4oFjWv0hf8gPkG6ASFJTHz"
+    },
+    {
+      "album": {
+        "name": "All The Time",
+        "url": "https://open.spotify.com/album/67Ulp5KinPqy6RBWgS3hO7"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139523,
+      "name": "All The Time",
+      "url": "https://open.spotify.com/track/5UA6rAsMTn0okgp95isGrl"
     },
     {
       "album": {
@@ -2720,7 +2738,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-23",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Better",
       "url": "https://open.spotify.com/track/5xGcpnA8ACSipKcRcYioxh"
@@ -3066,6 +3084,28 @@
       "duration_ms": 230571,
       "name": "Blame Myself",
       "url": "https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4"
+    },
+    {
+      "album": {
+        "name": "Blinded",
+        "url": "https://open.spotify.com/album/4cXyuue46TvCzVU8g8TI8Q"
+      },
+      "artists": [
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        },
+        {
+          "name": "Emma Carn",
+          "url": "https://open.spotify.com/artist/25UzUBawTt2efMKKYNE4Qy"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200742,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/1Kr8qVQBldnHQbaMW7wS69"
     },
     {
       "album": {
@@ -6043,6 +6083,24 @@
     },
     {
       "album": {
+        "name": "Dead Weight",
+        "url": "https://open.spotify.com/album/3Vp1UDSHfYzAgYbHRwYriV"
+      },
+      "artists": [
+        {
+          "name": "John Castel & Xan Castel",
+          "url": "https://open.spotify.com/artist/1WtxjGwpDbs6O0lvhtAMCe"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145831,
+      "name": "Dead Weight",
+      "url": "https://open.spotify.com/track/40du7qcLwLcZzZ3T6qcuf4"
+    },
+    {
+      "album": {
         "name": "Deal With It (feat. Kelis) [Remixes]",
         "url": "https://open.spotify.com/album/1KnQkqQi1ZETaAbSbbDY3t"
       },
@@ -6522,7 +6580,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 141774,
       "name": "Die For",
       "url": "https://open.spotify.com/track/2cGVq1Ax5ZxmRMJo5T3hYH"
@@ -7862,7 +7920,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 173454,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/0XZ7s9UpQNmSOvRj0AaZH7"
@@ -8982,7 +9040,7 @@
       ],
       "date_added": "2020-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 273684,
       "name": "Firestone",
       "url": "https://open.spotify.com/track/2sNvitW3TxiTeC9xT9f2ZZ"
@@ -10762,7 +10820,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 158319,
       "name": "Head & Heart (feat. MNEK) - Ofenbach Remix",
       "url": "https://open.spotify.com/track/70NVdjM5ZoWB20m7y2IstB"
@@ -11694,7 +11752,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 163809,
       "name": "Hooked On You",
       "url": "https://open.spotify.com/track/4zMkXggw1kKloyDzy7JT4O"
@@ -12940,7 +12998,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2020-10-12",
+      "date_removed": null,
       "duration_ms": 167548,
       "name": "I'm Not Alright - EDX's Dubai Skyline Remix",
       "url": "https://open.spotify.com/track/10mj6Sfw7Z92r9QTrloAth"
@@ -13392,7 +13450,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 182030,
       "name": "In Time",
       "url": "https://open.spotify.com/track/4ARuO0OvWYWc8IjmnRCtSo"
@@ -15966,7 +16024,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-22",
+      "date_removed": null,
       "duration_ms": 153788,
       "name": "Looking At You (feat. Sam Vesso)",
       "url": "https://open.spotify.com/track/2IBzArIJ2ognJz1EZinuPg"
@@ -16914,7 +16972,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 173114,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/3K0E6yZzSzIuNLRqZ8ee3m"
@@ -17346,7 +17404,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 200747,
       "name": "Mine",
       "url": "https://open.spotify.com/track/0lPZ8UNB5bmvhn7ba8faJi"
@@ -17812,7 +17870,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 201259,
       "name": "Move It",
       "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
@@ -18266,7 +18324,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 169779,
       "name": "Nah (feat. Sinead Harnett)",
       "url": "https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2"
@@ -19132,7 +19190,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-02-04",
+      "date_removed": null,
       "duration_ms": 153696,
       "name": "Not So Bad (feat. Emie)",
       "url": "https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3"
@@ -19470,7 +19528,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 157968,
       "name": "Off Limits",
       "url": "https://open.spotify.com/track/4rbprhajs0YAoGNKefuS77"
@@ -21250,7 +21308,7 @@
       ],
       "date_added": "2020-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 165958,
       "name": "Push It Right",
       "url": "https://open.spotify.com/track/4M61DpNzoLws32l7tvAbYL"
@@ -22226,7 +22284,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2020-05-27",
+      "date_removed": null,
       "duration_ms": 177464,
       "name": "Rooftops",
       "url": "https://open.spotify.com/track/6pbhkfdG5RvTJaC3VKPaJn"
@@ -23704,7 +23762,7 @@
       ],
       "date_added": "2022-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 232245,
       "name": "Silenced",
       "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
@@ -26498,7 +26556,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 220966,
       "name": "The Judge",
       "url": "https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy"
@@ -27560,7 +27618,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 130560,
       "name": "Trumpet Sound",
       "url": "https://open.spotify.com/track/6dhDRJ66EfkUC6gCeedW5B"
@@ -28788,7 +28846,7 @@
       ],
       "date_added": "2023-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 216393,
       "name": "We Come - Radio Edit",
       "url": "https://open.spotify.com/track/4yRuPrh3Zf5NFJjbC6NvKp"

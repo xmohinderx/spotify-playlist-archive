@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-454 songs - 1 day 1 hr 8 min
+455 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 | 2022-06-17 |  |
 | [Obvi](https://open.spotify.com/track/2qKm38yVYENyqytMGLNt2Y) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Obvi](https://open.spotify.com/album/1up43JxXIQ3MbRYWfJ6piU) | 2:31 | 2022-09-26 | 2022-10-15 |
 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 | 2022-07-18 |  |
+| [oh mia](https://open.spotify.com/track/2ZJBYxThNkxpOrrX43vxNV) | [rowena](https://open.spotify.com/artist/5tLZAJVqLyHKzHOfQxK5cD) | [the sun is in virgo](https://open.spotify.com/album/7e0acr6R002xhXzmSm5dn2) | 3:50 | 2023-01-26 |  |
 | [ok bye](https://open.spotify.com/track/233XcBvOmiwJNANsDLjc2q) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC), [Reddi Rocket](https://open.spotify.com/artist/121DYfRpwhbZPSWjvViett) | [Tangerine](https://open.spotify.com/album/3bXJbyLmLNwVR8zJHJaFRs) | 2:08 | 2022-01-28 | 2022-07-22 |
 | [on & on](https://open.spotify.com/track/2z60665qOaXrUcFIVIB9yj) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [on & on](https://open.spotify.com/album/2fInwWeb0bggsmMeUSAYbv) | 2:48 | 2022-03-29 | 2022-07-05 |
 | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ) | 2:53 | 2022-01-28 |  |

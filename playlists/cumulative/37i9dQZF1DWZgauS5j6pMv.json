@@ -174,7 +174,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 182181,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/5W5qOh7MA0eXjvhj103smA"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 211034,
       "name": "Bad Weather - STR4TA Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/2jLZjkEclqKAbFefuLfenW"
@@ -588,6 +588,32 @@
       "duration_ms": 248834,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/6M4HWfNEezmFNO91YYWnwf"
+    },
+    {
+      "album": {
+        "name": "Boogie Down",
+        "url": "https://open.spotify.com/album/4Vakb3vIt914RvFrIiWS9h"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196541,
+      "name": "Boogie Down",
+      "url": "https://open.spotify.com/track/3APtmyeA8mmubGvyCoW2Ga"
     },
     {
       "album": {
@@ -1450,6 +1476,24 @@
       "duration_ms": 199000,
       "name": "Fantasize",
       "url": "https://open.spotify.com/track/3WjC4OFDrnX7AVyZTsVLne"
+    },
+    {
+      "album": {
+        "name": "Favorite Prize",
+        "url": "https://open.spotify.com/album/5HaGsMhpq3xrbazWp0LBtH"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hawley",
+          "url": "https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289522,
+      "name": "Favorite Prize",
+      "url": "https://open.spotify.com/track/2To1ZbSfpUMzqdmKhGFcuS"
     },
     {
       "album": {
@@ -2928,7 +2972,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 208702,
       "name": "Lost Myself",
       "url": "https://open.spotify.com/track/5YZYw60dD9M1NZDjHSByqs"
@@ -3830,6 +3874,36 @@
       "duration_ms": 125703,
       "name": "Rock With Me - Jafunk Remix",
       "url": "https://open.spotify.com/track/4z1AcciBLQ3PjnOiFCrEZd"
+    },
+    {
+      "album": {
+        "name": "Running For Cover",
+        "url": "https://open.spotify.com/album/5zIAjLfyBTRf68LnNVVAHX"
+      },
+      "artists": [
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        },
+        {
+          "name": "Rion S",
+          "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
+        },
+        {
+          "name": "DOMENICO",
+          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
+        },
+        {
+          "name": "Prince Street Bodega",
+          "url": "https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159818,
+      "name": "Running For Cover",
+      "url": "https://open.spotify.com/track/1YmJBGtzz7BsvyvekfkRzz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Esto es un perreo a lo Andy Rivera.
 
-404 songs - 22 hr 25 min
+405 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Amor De Una Noche](https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 3:29 | 2022-08-05 | 2023-01-21 |
 | [Ansioso](https://open.spotify.com/track/06a9OeSuRhcmlNbNUWHH6i) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Ansioso](https://open.spotify.com/album/7zZ7J62h5Fratub7B28lBT) | 3:07 | 2022-03-11 | 2022-09-23 |
 | [Apaga el celular](https://open.spotify.com/track/6Za7R8nD5J08SJuIrT3ko3) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp) | [Apaga el celular](https://open.spotify.com/album/5QhzTFMPQkWiYHVXEBU0dl) | 2:14 | 2023-01-27 |  |
+| [ARMANI](https://open.spotify.com/track/4KwZ20XnpbxLSADiiXt8AG) | [Carlos Corté$](https://open.spotify.com/artist/3DplAKAVidNrhpivWNLMWC), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [MELANIE](https://open.spotify.com/album/5oxgb6KTrhJZgbzfwP0v9S) | 2:34 | 2023-01-27 |  |
 | [Atrévete](https://open.spotify.com/track/4xUoT1ufPfYu6GHzZ0AlLW) | [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [Atrévete](https://open.spotify.com/album/0UHCE7QbmG9iS2IfUqPiRg) | 2:44 | 2022-07-29 | 2022-10-01 |
 | [AUTOMÁTICO](https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AUTOMÁTICO](https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn) | 2:55 | 2022-09-08 | 2023-01-27 |
 | [Avemaría](https://open.spotify.com/track/4MUtM58geV6B2NGv8ckspv) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Avemaría](https://open.spotify.com/album/6GOqInT9DDFsX6yyvdyC6q) | 2:12 | 2022-09-30 |  |

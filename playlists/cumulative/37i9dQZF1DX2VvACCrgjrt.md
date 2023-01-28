@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Nostalgix
 
-386 songs - 20 hr 36 min
+387 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Front To Back \(feat\. DLMT\)](https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El) | [FOMO](https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Front To Back \(feat\. DLMT\)](https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR) | 3:31 | 2023-01-09 |  |
 | [Full of Love](https://open.spotify.com/track/62UaGLT1sKYQhhudWjcAjq) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Full of Love](https://open.spotify.com/album/0gvl8TSfutOQiBLKwADwyG) | 2:54 | 2021-10-29 | 2022-03-26 |
 | [Funky Sound](https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [HINA](https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K) | [Funky Sound](https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR) | 2:19 | 2022-08-26 |  |
-| [FYPM](https://open.spotify.com/track/0z8FKvSaediTR0n9TgDaGy) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Jonathan.](https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M) | [FYPM](https://open.spotify.com/album/4LhjGLJTESeDO0fiqqy5VA) | 4:25 | 2021-10-29 |  |
+| [FYPM](https://open.spotify.com/track/0z8FKvSaediTR0n9TgDaGy) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Jonathan.](https://open.spotify.com/artist/3Jjd0Ch3cIFTWo5A2ZIq9M) | [FYPM](https://open.spotify.com/album/4LhjGLJTESeDO0fiqqy5VA) | 4:25 | 2021-10-29 | 2023-01-28 |
 | [G Spot](https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Algo](https://open.spotify.com/artist/3b7KMI96oGOeQEoXhe4iBK) | [Licked](https://open.spotify.com/album/3I549AvPzDfWUItpvHSid4) | 5:18 | 2021-10-29 |  |
 | [GALACTICAL](https://open.spotify.com/track/3fRF3qz1d8f6Sx2dnhPUZZ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [GALACTICAL](https://open.spotify.com/album/5jcrnkIRwz5yx6dodjzUTa) | 4:35 | 2022-11-11 |  |
 | [Gang](https://open.spotify.com/track/5qgVNZ0HnvTu7EK2ycD4vU) | [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [Nogun](https://open.spotify.com/artist/5pRtinjGliVYMsnN5M8smL) | [Gang](https://open.spotify.com/album/4PPoiXbpD281VlZw9qvowK) | 2:21 | 2022-03-18 | 2022-04-21 |
@@ -254,6 +254,7 @@
 | [No Competition](https://open.spotify.com/track/5jSeCIT2DxHiiuYlBHj5uL) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [No Competition](https://open.spotify.com/album/3lumULelHlXz11q1Vlr5sE) | 3:24 | 2022-09-02 | 2022-11-12 |
 | [No Stoppin](https://open.spotify.com/track/7yhgXEXfxFZ3umffj1UPaQ) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V) | [No Stoppin](https://open.spotify.com/album/5xws8aUsScDLDQ0isFesjS) | 3:05 | 2022-03-18 | 2022-10-30 |
 | [No Time](https://open.spotify.com/track/1UApNNulZJm0alYFXerYMw) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [No Time](https://open.spotify.com/album/0GwrfKSTdg8sICTbdhwXrN) | 3:20 | 2021-10-29 | 2022-03-26 |
+| [No Tinder](https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [No Tinder](https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove) | 4:14 | 2023-01-27 |  |
 | [No Trust](https://open.spotify.com/track/3aPo3XX7MglfqIZ8O7BEe4) | [Monxx](https://open.spotify.com/artist/2FJC1Wce3SiCCbIoYwVWq0), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [This is Night Bass: Vol\. 11](https://open.spotify.com/album/3CdyPLMC5DCJihiiXScm9L) | 3:32 | 2021-10-29 | 2022-01-07 |
 | [Not Bees](https://open.spotify.com/track/6XQoXvZzIIOsUVobKDwPtg) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP), [Watch](https://open.spotify.com/artist/036bvTwDThpn1xsB38mBX3) | [High Vaultage EP](https://open.spotify.com/album/3FYAvx8nplQwbciVpHe7y5) | 3:24 | 2022-02-18 |  |
 | [NTFA](https://open.spotify.com/track/5XHPAcYYDP5OZd6MvH7EWm) | [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [NTFA](https://open.spotify.com/album/2rXbL1mrjuMv4RZDngBwKT) | 3:03 | 2022-11-18 | 2022-12-13 |

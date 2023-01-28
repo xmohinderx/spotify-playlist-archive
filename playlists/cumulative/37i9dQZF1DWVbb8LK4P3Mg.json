@@ -2411,6 +2411,24 @@
     },
     {
       "album": {
+        "name": "Snow on Christmas",
+        "url": "https://open.spotify.com/album/4yVwoxry9eozDQ9ca98wTH"
+      },
+      "artists": [
+        {
+          "name": "Baek Juyeon",
+          "url": "https://open.spotify.com/artist/4vzgTWeitkDcGSUJwCCYvr"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241080,
+      "name": "Snow on Christmas",
+      "url": "https://open.spotify.com/track/1efhs3qNob9LxwIxyGCvdf"
+    },
+    {
+      "album": {
         "name": "Twenties = Love",
         "url": "https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN"
       },
@@ -3296,7 +3314,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 243229,
       "name": "Wish me a merry Christmas (I need somebody part.2)",
       "url": "https://open.spotify.com/track/15lrRt7YJ9Y0qHGv7IQQjy"

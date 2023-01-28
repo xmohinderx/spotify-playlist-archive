@@ -396,7 +396,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 204370,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/2ykio2Gv8ZiyRMtTNBhB8r"
@@ -713,6 +713,28 @@
     },
     {
       "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/3hSEqztpBnREFLhQSFi2Yi"
+      },
+      "artists": [
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "GRAZZE",
+          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262926,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/4oXPyrvgfsqR8kgHxZZrUa"
+    },
+    {
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
       },
@@ -794,7 +816,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 416626,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/1qolXijooNmOF6qs5Jz7Aq"
@@ -1177,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "Hypnosis",
+        "url": "https://open.spotify.com/album/6E4T2meJPJqZAIZrCt8Pw2"
+      },
+      "artists": [
+        {
+          "name": "Passenger 10",
+          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242480,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/05kbIVOqspq8i5mAABwhEV"
+    },
+    {
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/2QTLHBhDtEm7HwOsCBk9Tk"
       },
@@ -1450,7 +1490,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 260655,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/7ebulpHSffs4Thc0VM0LHv"
@@ -1720,7 +1760,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 432000,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/3Ri7CVRYHurCnvubOZKZRA"
@@ -1898,6 +1938,24 @@
       "duration_ms": 405699,
       "name": "Rave",
       "url": "https://open.spotify.com/track/5YDbSfN5oKWBoeyf9nBA38"
+    },
+    {
+      "album": {
+        "name": "Five Phases - Reflected Wisdom",
+        "url": "https://open.spotify.com/album/50Dg2MYfTZ8NPXmcX6lh2e"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299293,
+      "name": "Reflected Wisdom - Five Phases Project (4/5)",
+      "url": "https://open.spotify.com/track/24yUM08mhAzWSLvCQultZY"
     },
     {
       "album": {
@@ -2852,6 +2910,32 @@
       "duration_ms": 445440,
       "name": "Urania",
       "url": "https://open.spotify.com/track/7CseRpXoi90Zv4Vyd7JQH4"
+    },
+    {
+      "album": {
+        "name": "VENTURE X",
+        "url": "https://open.spotify.com/album/0AkfYq4M6Gvq1Bn6h8ZxBN"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Weekend Heroes",
+          "url": "https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8"
+        },
+        {
+          "name": "Christian Schottstaedt",
+          "url": "https://open.spotify.com/artist/0oGP4H2formfW2tlpVLR5s"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "VENTURE X",
+      "url": "https://open.spotify.com/track/0mQtwNheJ0cYQa0gtHUNjf"
     },
     {
       "album": {

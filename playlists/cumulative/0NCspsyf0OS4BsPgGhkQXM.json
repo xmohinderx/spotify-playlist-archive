@@ -927,6 +927,28 @@
     },
     {
       "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/0b36iO6gCrtXYJWHI2erGW"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Justin J. Moore",
+          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1l8YwXvnbnWBoPvnEpj17C"
+    },
+    {
+      "album": {
         "name": "DRMVRSE",
         "url": "https://open.spotify.com/album/3jHod9NV5s98uiMMrPbkVE"
       },
@@ -2582,7 +2604,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 165000,
       "name": "Day One",
       "url": "https://open.spotify.com/track/6ODjTpDpJo1vpW4UAJkmJZ"
@@ -3670,7 +3692,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 208616,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/1BMve5dCKHJ8ARC2fkRpW2"
@@ -3758,6 +3780,28 @@
       "duration_ms": 140571,
       "name": "Fair",
       "url": "https://open.spotify.com/track/0haIAixw7fe0YZY21cNnqi"
+    },
+    {
+      "album": {
+        "name": "Fall Into Deep",
+        "url": "https://open.spotify.com/album/0KlY7jCOReNFq9jD7zyNLs"
+      },
+      "artists": [
+        {
+          "name": "Kaisemotions",
+          "url": "https://open.spotify.com/artist/2vwenSBX1ef8mpayYn4uv4"
+        },
+        {
+          "name": "Mblue",
+          "url": "https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Fall Into Deep",
+      "url": "https://open.spotify.com/track/2CuyzoJAs6SoqapNQUhJvY"
     },
     {
       "album": {
@@ -4620,7 +4664,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 188740,
       "name": "GOD MODE",
       "url": "https://open.spotify.com/track/7LMsQq4Y3quAQlY5NBOH3E"
@@ -8754,7 +8798,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 245580,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/0gfV3qREGokBnd3DeK9xjj"
@@ -9226,7 +9270,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 125848,
       "name": "Perseus",
       "url": "https://open.spotify.com/track/3dS4nCiyJMx8miVcnmXv6A"
@@ -12474,7 +12518,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 184000,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/3inG72xPY9bCmAn1cBihMZ"
@@ -12738,7 +12782,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 198400,
       "name": "Venom",
       "url": "https://open.spotify.com/track/3tacyVZsROkiT12vHRbllJ"
@@ -13870,7 +13914,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 134545,
       "name": "Zeus",
       "url": "https://open.spotify.com/track/3uHjfqPvS5eQFP7GXwx6Ax"

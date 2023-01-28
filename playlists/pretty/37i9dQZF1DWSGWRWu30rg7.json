@@ -1,12 +1,12 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Aziz Hedra",
-  "num_followers": 61344,
+  "num_followers": 61359,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc1MjQwMCwwMDAwMDAwMGJiNWQ1NGFiM2JjZTZlM2ZiMGIyMTc0NjY5MDQyNDRh",
+  "snapshot_id": "MTY3NDc4NDcxMCwwMDAwMDAwMGEyYzRhMWY5ZWFiZWVmODYzYTJiODg2ZWVkOGNjODZk",
   "tracks": [
     {
       "added_at": "2023-01-26 17:00:00",
@@ -165,6 +165,22 @@
       "url": "https://open.spotify.com/track/5Kz4nqErWiTY7SL8lvpR8k"
     },
     {
+      "added_at": "2023-01-27 01:58:30",
+      "album": {
+        "name": "Jalan Yang Berbeda",
+        "url": "https://open.spotify.com/album/4UZnLt6ojfslpOdJ4gM9qz"
+      },
+      "artists": [
+        {
+          "name": "Allan Andersn",
+          "url": "https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk"
+        }
+      ],
+      "duration_ms": 246442,
+      "name": "Jalan Yang Berbeda",
+      "url": "https://open.spotify.com/track/0m4fottdKyM0HIqzeFRU3a"
+    },
+    {
       "added_at": "2023-01-26 17:00:00",
       "album": {
         "name": "Cupid Laughed at Me",
@@ -263,6 +279,22 @@
       "duration_ms": 152000,
       "name": "Handsome Innocent Boy",
       "url": "https://open.spotify.com/track/4n78jPNqOpZ8UAB2tvfPRY"
+    },
+    {
+      "added_at": "2023-01-27 01:58:30",
+      "album": {
+        "name": "SWEET LIE",
+        "url": "https://open.spotify.com/album/2ozGt0kkhHxvoJZI0kvUND"
+      },
+      "artists": [
+        {
+          "name": "GLAS",
+          "url": "https://open.spotify.com/artist/54gEuDssq8kGyw3cm2550u"
+        }
+      ],
+      "duration_ms": 182708,
+      "name": "SWEET LIE",
+      "url": "https://open.spotify.com/track/5yTg8FkvpnEXsmCDdh84mV"
     },
     {
       "added_at": "2023-01-26 17:00:00",

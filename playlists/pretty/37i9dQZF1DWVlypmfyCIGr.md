@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: tonari no Hanako
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,854 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,867 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 56 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
 | 57 | [Tagitteshikatanaiwa](https://open.spotify.com/track/0J5CJIiLVnjSeSJRY6apvk) | [Qaijff](https://open.spotify.com/artist/2ybYclZz8KsmrgwlK8Em1X) | [Tagitteshikatanaiwa](https://open.spotify.com/album/3lMdHtI6LFxPjzrHRJ5mtt) | 3:25 |
 | 58 | [無題](https://open.spotify.com/track/2hbHJG0sHLmu7aMKkzKeLU) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [無題](https://open.spotify.com/album/4wLX3Pv3g9b8FjEb2A5Ti8) | 4:59 |
-| 59 | [Ai no Nuime](https://open.spotify.com/track/2VrLKMGOl1xiqMePpmBe3V) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Ai no Nuime](https://open.spotify.com/album/4TpFPHYF6Qpz8Mq5zPLtHT) | 3:59 |
+| 59 | [Ai no Nuime](https://open.spotify.com/track/6Fg4d8rimrexkqDqDxYsB0) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Boku no Uta de Kimi ni Eien wo](https://open.spotify.com/album/1MMlfzh5fLDMyMt72ZwQkY) | 4:01 |
 | 60 | [Summer Lost 2023 \- ft\. butaji](https://open.spotify.com/track/0UbO2ZCgpNlPRGWGiWQCeP) | [am8](https://open.spotify.com/artist/5GtEx6JS3XBlOL4J7Xhh1r), [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [Summer Lost 2023 \(ft\. butaji\)](https://open.spotify.com/album/1M4kqTNWIdKFIOUvh173uy) | 5:31 |
 | 61 | [メタモルフォーゼプール](https://open.spotify.com/track/7GBcyqkDWLI93D1GRxU73s) | [Sommeil Sommeil](https://open.spotify.com/artist/6HK15dcp6cE6r1XHo07Ldw) | [メタモルフォーゼプール](https://open.spotify.com/album/5i7qUlUWZisZUTnirhgA5a) | 3:48 |
 | 62 | [Remember The Day](https://open.spotify.com/track/1MgY8UGlEph0KdiRZpb3kY) | [長瀬有花](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [Remember The Day](https://open.spotify.com/album/6EfQIqKinvqUspuPjpit1A) | 4:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [darling](https://open.spotify.com/track/3o4rXldN4X1i9EygWMHfCt) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [darling](https://open.spotify.com/album/2FRdqWkvPJpp9r3pJbHffX) | 4:13 |
 | 80 | [Fish as like me is…](https://open.spotify.com/track/4psCqj4hKxuY12kZwmZBGC) | [湯木慧](https://open.spotify.com/artist/6CLuhpHEjf2V9eTf0yAYUr) | [Fish as like me is…](https://open.spotify.com/album/51s7qOmng4KEPZCjkRgNXn) | 4:46 |
 
-Snapshot ID: `MTY3NDUyMTc0MCwwMDAwMDAwMGY2ZjJmMDljMjViMzZkNTY4YmU2ODc0Y2E1YWFjNWQ2`
+Snapshot ID: `MTY3NDUyMTc0MCwwMDAwMDAwMGRjNGM4ZmZiNWQ5MDY4M2E1YzUwMzEzYTNkMzFiNTg1`

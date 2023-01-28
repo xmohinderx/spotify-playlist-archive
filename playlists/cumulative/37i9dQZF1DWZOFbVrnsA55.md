@@ -4,7 +4,7 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-330 songs - 5 day 3 hr 27 min
+331 songs - 5 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [E Scapes](https://open.spotify.com/track/368CxNdEb0L2FsZemKsAvE) | [The Same](https://open.spotify.com/artist/0SiPcv6coOaUouLSSpYYbQ) | [Sync or Swim](https://open.spotify.com/album/1BTEBJq4FP2a8KvZK800nt) | 20:46 | 2022-07-15 |  |
 | [eidolons beginning p = \(m2Abeta\* do not z countless2 am to \(rho](https://open.spotify.com/track/1hJPVpVJMJQvhpgo9EksBb) | [Paul Jebanasam](https://open.spotify.com/artist/6jMKza3BVR3gn6l4GjhZnX) | [Continuum](https://open.spotify.com/album/4vzyFXqOhok6QfEWNtRzsx) | 10:02 | 2022-05-25 |  |
 | [Electronic Extension I](https://open.spotify.com/track/1uIkWbgmIcQdM0FZUeQmuK) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm), [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE), [John Wiese](https://open.spotify.com/artist/2r9bwqUxLhc8ktBYtiyR6V) | [Electronic Extension](https://open.spotify.com/album/59bxmtqJYHUa1mmiXzakYh) | 25:36 | 2022-05-25 |  |
+| [Elegia \- Full Length Version; 2022 Digital Master](https://open.spotify.com/track/4kIEH2w2Hg3kU90V0P2yt6) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Low\-Life \(Definitive\)](https://open.spotify.com/album/1zw2R2jhDJf7BFJMR0aOSq) | 17:30 | 2023-01-27 |  |
 | [Emergence](https://open.spotify.com/track/2lXskERZ6yY6m4EZ4u66ep) | [Adham Shaikh](https://open.spotify.com/artist/5jYKOT6F4yFRxLripcUnRu) | [Journey To The Sun](https://open.spotify.com/album/70OSyM8j556xNzncAHDa3y) | 10:00 | 2022-05-25 |  |
 | [Epsilon In Malaysian Pale \- 2012 Remaster](https://open.spotify.com/track/5Hk5ZRdIoxtTBzGyD5lZ8P) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Solo \(1974\-1983\) The Virgin Years](https://open.spotify.com/album/4N4OCzgj8GnV90DdEXIxxe) | 16:25 | 2022-05-25 |  |
 | [EQ](https://open.spotify.com/track/0MuCPSolhO7K4RNngQ4KQP) | [Jonty Harrison](https://open.spotify.com/artist/3oEX9dPJ8tyc1Cmfh8GDeh), [Stephen Cottrell](https://open.spotify.com/artist/4hMwcOG25Gn2GqbUAnz0X7) | [The Electric Saxophone](https://open.spotify.com/album/5f6q3YjTAwF6ZnP8xXAYX2) | 14:55 | 2022-05-25 |  |

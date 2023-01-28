@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-103 songs - 10 hr 34 min
+104 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Dicke Disko](https://open.spotify.com/track/7F6T8NsGPnQn8GdYRkTblw) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 6:36 | 2022-09-16 |  |
 | [Dominator \- Rebūke Remix](https://open.spotify.com/track/6cKvyvg3sMnyZZsi8tgXMP) | [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dominator \(Rebūke Remix\)](https://open.spotify.com/album/7n6n1dLOtrxPa3HV29b1Vr) | 3:59 | 2022-09-16 |  |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-12-16 | 2023-01-21 |
-| [Dualism](https://open.spotify.com/track/5BOR3weDfPrKSU01sHiaY9) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Dualism](https://open.spotify.com/album/0pQ00YF0S5Xj68eJlWxwAN) | 3:56 | 2022-10-07 |  |
+| [Dualism](https://open.spotify.com/track/5BOR3weDfPrKSU01sHiaY9) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Dualism](https://open.spotify.com/album/0pQ00YF0S5Xj68eJlWxwAN) | 3:56 | 2022-10-07 | 2023-01-28 |
 | [Echodeltaalfaxray](https://open.spotify.com/track/4dDCPZhr8fCiCIMKEXZYnk) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 7:20 | 2022-11-07 | 2022-12-17 |
 | [Echodeltaalfaxray \- AKA AKA Remix](https://open.spotify.com/track/5OmDWhyNKMjew4AXxs9QwD) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO), [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72) | [Echodeltaalfaxray](https://open.spotify.com/album/2U2sD0FAmRORmxhmJBDSJB) | 5:34 | 2022-12-16 |  |
 | [Ego Rave B](https://open.spotify.com/track/1PhMiQKoYQr0jX0XZbh3sb) | [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Ego Rave](https://open.spotify.com/album/1FZjqtGarKJCB38L042Vdw) | 6:42 | 2022-09-16 |  |
@@ -38,6 +38,7 @@
 | [Fly](https://open.spotify.com/track/3gp5lbLAuDgcwFu7CxQffZ) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Fly](https://open.spotify.com/album/1qik9Gr4EhhOMb2jDUpyTA) | 3:48 | 2022-12-22 | 2023-01-21 |
 | [Follow The Lead](https://open.spotify.com/track/2KvWrnqhS7UfHlhYXrlqcV) | [Patrick Podage](https://open.spotify.com/artist/7iuZjXDugV2YunAMWauN0F) | [Follow The Lead](https://open.spotify.com/album/1dKEbgV1x6CkS4ozGCa5Tz) | 7:27 | 2022-12-09 |  |
 | [Freedom \- Breitenstein Remix](https://open.spotify.com/track/4vl5XHDOzZfFSxh5kFC7A7) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj), [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Freedom Remixes](https://open.spotify.com/album/0mvihIyrSPWeVF7zCpJPtv) | 7:02 | 2022-09-16 |  |
+| [Freestyle](https://open.spotify.com/track/2wm1t5GH1Hanv7WaJRd2IK) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Freestyle](https://open.spotify.com/album/1iNcmx49l7GEhzXcjOvlJN) | 4:00 | 2023-01-27 |  |
 | [Für die Seele feat\. Haexxa](https://open.spotify.com/track/2fKUMYknbSWF7WOKwMQUZE) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC) | [IAM ALFRED HEINRICHS feat\. Haexxa](https://open.spotify.com/album/1Cr9a95UD5guifadqpth5N) | 5:59 | 2022-11-11 |  |
 | [Good Life \- Inner City Edit of Carl Craig Remix](https://open.spotify.com/track/5oHZkmXPUVU9nX0b9xW2iL) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [30 Years EP](https://open.spotify.com/album/7H8d96hgtZ7Q44M5ZtJMhZ) | 3:15 | 2022-09-16 |  |
 | [Hot Dance \- David Morales Red Zone Mix](https://open.spotify.com/track/43yw8iDqEh75DUvk8pwXWz) | [Tonio Barrientos](https://open.spotify.com/artist/6cAYKNgOgxeidrYARoVttL), [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts) | [Hot Dance](https://open.spotify.com/album/5yMkfxICTfooagFb48dMUX) | 5:18 | 2022-09-16 |  |

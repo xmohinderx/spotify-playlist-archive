@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-334 songs - 16 hr 30 min
+335 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Campus](https://open.spotify.com/track/2PUoynqedBx15JbPYxzA5v) | [Løkss](https://open.spotify.com/artist/4BDykan7916A0AbhBtzDE6) | [Campus](https://open.spotify.com/album/7INe8nJOpKW1XVClOBvjmo) | 3:39 | 2021-11-10 |  |
 | [Caring](https://open.spotify.com/track/1MaL94GiYXnWEExO4tPo3w) | [Bonnie Mathis](https://open.spotify.com/artist/1lyM0WTssQ6UictS7BOoOr) | [Caring](https://open.spotify.com/album/2lfMq9oDRUDgd8BE5VoiNk) | 3:33 | 2021-11-10 | 2022-10-08 |
 | [Catnap](https://open.spotify.com/track/5Ni1Fb5zLruSbDwAoKdoPF) | [Mina Donovan](https://open.spotify.com/artist/5tGJFD9qXBdOKrOlhIXOBk) | [Catnap](https://open.spotify.com/album/4NTRDYA9fWjwHH2Wc2Jxxr) | 2:42 | 2021-11-10 | 2022-02-03 |
+| [Center of Attention](https://open.spotify.com/track/3P0y5vYWxPRRekolc4eCHp) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Center of Attention](https://open.spotify.com/album/4zzxld3PGyxOkpB09VpW7u) | 3:26 | 2023-01-27 |  |
 | [Centered](https://open.spotify.com/track/2tSUPdYj7CcdiQHrHgqmjZ) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Centered](https://open.spotify.com/album/6EUZkB98CMFqyKQ1KsdJ8s) | 3:03 | 2021-11-10 |  |
 | [Cesia](https://open.spotify.com/track/3NYD79ZpaiUlaqBpfE4UvT) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Release](https://open.spotify.com/album/05Ssi4vkaQkd16QQ4ngW7Y) | 2:48 | 2021-11-10 |  |
 | [Cette Montagne](https://open.spotify.com/track/0sMr78LRMvZNviXwmOWGQE) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Cette Montagne](https://open.spotify.com/album/4NIeCDqaUXOh2WD7jE0qNf) | 3:26 | 2022-09-02 |  |
@@ -215,7 +216,7 @@
 | [Oko marries Eb](https://open.spotify.com/track/2RU8cVyW2Js19dwySkLdFb) | [Rim\-Shaz](https://open.spotify.com/artist/5n4T8k6ARS41dwOCoWEcIg), [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ), [Mihail Holland](https://open.spotify.com/artist/0sZ56cw6KfDxiDmNR76eHC) | [Oko Marries Eb](https://open.spotify.com/album/2KD6oJxMadbwqdHndNSxK1) | 3:25 | 2021-11-10 |  |
 | [One And The Same](https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [One And The Same](https://open.spotify.com/album/1XE0fJg07FtFY562bz76w2) | 2:37 | 2022-08-15 |  |
 | [Ons](https://open.spotify.com/track/07UDTaRYJAsIhUZTyZSUzM) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Ons](https://open.spotify.com/album/2cdvRClGJPAHpK0ACSFSfu) | 3:13 | 2021-11-10 |  |
-| [Onyx](https://open.spotify.com/track/3gXsGCfJpLS8WDUP6jfOCH) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 5](https://open.spotify.com/album/1rwLMZEmA0AK34SMAHyh1m) | 2:13 | 2021-11-10 |  |
+| [Onyx](https://open.spotify.com/track/3gXsGCfJpLS8WDUP6jfOCH) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Gemstones, Vol\. 5](https://open.spotify.com/album/1rwLMZEmA0AK34SMAHyh1m) | 2:13 | 2021-11-10 | 2023-01-28 |
 | [Origami Age](https://open.spotify.com/track/121YyIOmTlu4Da9HgkZrJU) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Origami Age](https://open.spotify.com/album/61UXpwigZp7NAAle6sNyLw) | 2:50 | 2021-11-10 |  |
 | [Over skyerne](https://open.spotify.com/track/4FHNG73v2Ws7QQqR2kvIUp) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Over skyerne](https://open.spotify.com/album/0ezMCGxdXrQbfDQDxjhaoL) | 2:51 | 2021-11-10 |  |
 | [Pacific](https://open.spotify.com/track/5nrX2dmftdOXdhdGqdF9V8) | [Savannah De Lucia](https://open.spotify.com/artist/34RbwsKOFiGKnE7BE8zhQS) | [Pacific](https://open.spotify.com/album/0KfGQVHPN1FMGBDsBD5M1M) | 3:08 | 2021-11-10 |  |

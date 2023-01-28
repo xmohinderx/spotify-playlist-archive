@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,345 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,403 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 95 | [Chai Tea with Heidi](https://open.spotify.com/track/0EhQWGJFjhvVq0PllzJ7Rd) | [WeddingCake](https://open.spotify.com/artist/6Smy5hRNvMoK4C5DYiLDI8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Heidi Klum](https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC) | [Chai Tea with Heidi](https://open.spotify.com/album/6ULQCdbVXoexdtfeEQCKtZ) | 2:50 |
 | 96 | [Golden Boy](https://open.spotify.com/track/0LfTGvMnhNmpoR8krD5bsL) | [Elise Eriksen](https://open.spotify.com/artist/4Z4AA4VE6yS9vOZdEXabS8) | [Golden Boy](https://open.spotify.com/album/2qbAb7dIyjtBF9p6DHs2cA) | 2:44 |
 | 97 | [Aqua Girl](https://open.spotify.com/track/2wYOCAxlKPCKen5MN0J08u) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Aqua Girl](https://open.spotify.com/album/3P0fUjfbbAIs4AahxnpgCc) | 2:53 |
-| 98 | [Problems](https://open.spotify.com/track/2RLoxDgrrsQmF0i28pPJQ5) | [Yoza](https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT) | [Problems](https://open.spotify.com/album/1caME5pXTQ9Q2FS3zGINm3) | 2:25 |
+| 98 | [Problems](https://open.spotify.com/track/7cQtmj6nINXayCH7mqif4B) | [Yoza](https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT) | [Problems](https://open.spotify.com/album/16ZC16vNgzzuU2Y4uQ69o9) | 2:25 |
 | 99 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 |
 | 100 | [sunburn](https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sunburn](https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP) | 2:53 |
 
-Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMDJmN2UwNzU2ZTVmM2Q2ZGI0OGFlN2E5YmQyOWQ2YTAx`
+Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMDExYzUxNGNkMmM1YjM2ODdmOTYxM2QzYWVkODFkMjNh`

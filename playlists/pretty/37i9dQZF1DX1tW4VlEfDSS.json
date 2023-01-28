@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 336682,
+  "num_followers": 336701,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMGRlNjU2MDk0OTViMDcwNDkwZWM1MWUzOTA0ZTJlN2Vl",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDQyZGNhZDJiOTFiZWMxZTkxN2YxNzMyMTI4MGUyZjUy",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -155,18 +155,26 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+        "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
+        "url": "https://open.spotify.com/album/67B57RL961NRFHyce5dYEK"
       },
       "artists": [
         {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Josh Barry",
+          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+      "duration_ms": 149760,
+      "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
+      "url": "https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -191,26 +199,18 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
-        "url": "https://open.spotify.com/album/67B57RL961NRFHyce5dYEK"
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
       },
       "artists": [
         {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Josh Barry",
-          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 149760,
-      "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
-      "url": "https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK"
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "added_at": "2022-03-11 16:22:05",

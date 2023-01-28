@@ -4,13 +4,14 @@
 
 > Are you afraid of the dark?
 
-205 songs - 13 hr 51 min
+206 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [After Dark](https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ) | 4:17 | 2021-11-01 | 2022-07-29 |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2022-01-27 |  |
-| [Alivve](https://open.spotify.com/track/1R6bmo9w0hxLv0VlCrH0S2) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/7HrvucSDN0Bsf3vsyROFnr) | 2:19 | 2021-11-01 |  |
+| [Alivve](https://open.spotify.com/track/1R6bmo9w0hxLv0VlCrH0S2) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/7HrvucSDN0Bsf3vsyROFnr) | 2:19 | 2021-11-01 | 2023-01-28 |
+| [Alivve](https://open.spotify.com/track/712J1MIoG92zG8IDmNHayC) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs](https://open.spotify.com/album/1CfNEJDcCiHkBnuFsjuFK9) | 2:19 | 2022-11-01 |  |
 | [An Uncomfortable Month](https://open.spotify.com/track/37ZSlP83PH8y8u2fErev2y) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Measures \- EP](https://open.spotify.com/album/2hXBZCLBpVHcjfw0jKxP0v) | 5:26 | 2021-11-01 | 2022-10-16 |
 | [And I Drove You Crazy](https://open.spotify.com/track/6kRblaZ5a4V76t7Wd5h9qc) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:31 | 2022-10-23 | 2022-11-01 |
 | [Anti Body](https://open.spotify.com/track/7JaF0id8lWwL5qpscG0lkl) | [Gazelle Twin](https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl) | [Unflesh](https://open.spotify.com/album/5FPSWe35QjdgAaj0c5ETqp) | 3:18 | 2022-10-23 | 2022-11-01 |

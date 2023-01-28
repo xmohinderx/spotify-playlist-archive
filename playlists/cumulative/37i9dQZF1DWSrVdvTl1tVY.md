@@ -2,9 +2,9 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Cover: Junior Simba
+> The biggest house bangers popping off in the UK, let's go! Cover: Hannah Laing
 
-433 songs - 1 day 2 hr 17 min
+435 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Badman](https://open.spotify.com/track/7Mip4WGDkzN2R3su1GtMju) | [Max Chapman](https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5) | [Badman EP](https://open.spotify.com/album/6UKwu6K14TczkEzgkCPTOh) | 3:41 | 2022-08-11 | 2022-10-01 |
 | [Badman Sound](https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Badman Sound](https://open.spotify.com/album/7lkg1Kbn6G00QskjBlEVsR) | 2:56 | 2023-01-20 |  |
 | [Be My One](https://open.spotify.com/track/2KN5wY5R4gXbka8wB2kXh8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1) | 2:22 | 2022-04-15 | 2022-08-05 |
+| [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 | 2023-01-27 |  |
 | [Believe](https://open.spotify.com/track/1Q67GzAimjd3OLMJJOTy9H) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Believe](https://open.spotify.com/album/501szlgNOu6d1wltnKyHKw) | 3:33 | 2022-07-20 | 2022-07-22 |
 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-01-14 | 2022-04-23 |
 | [Believe In You](https://open.spotify.com/track/4jg1AyAqpMyNoSHNN6uw9P) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [Believe In You](https://open.spotify.com/album/2v0KpPRBm2rMYHMWIMeUJj) | 2:54 | 2021-12-17 | 2022-03-12 |
@@ -62,7 +63,7 @@
 | [Bugging](https://open.spotify.com/track/0kg06i2G3b4NQIiXi8GEIA) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [FABER](https://open.spotify.com/artist/3flURQ5mXBE6GW0HsVwLH0) | [Bugging](https://open.spotify.com/album/4EQ3ZgKNrfaJVq2D3uOM98) | 3:09 | 2022-03-25 | 2022-06-10 |
 | [Bumpin'](https://open.spotify.com/track/2JSRHxHfbteGcueRhfKtm7) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Bumpin'](https://open.spotify.com/album/4BtfgqdJz0qKvr7hHXAAmo) | 2:50 | 2022-06-02 | 2022-09-02 |
 | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/track/54Yr0BPkVQ378IeCWnG91Q) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/album/6sWssLrwhCrk3kGjzwJ9ZV) | 3:06 | 2022-03-08 | 2022-03-10 |
-| [Burning In My Arms \- Edit](https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Burning In My Arms \(Edit\)](https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B) | 3:31 | 2022-08-25 |  |
+| [Burning In My Arms \- Edit](https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Burning In My Arms \(Edit\)](https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B) | 3:31 | 2022-08-25 | 2023-01-28 |
 | [Burning Night](https://open.spotify.com/track/0ergVwNCItQRhfkjje6N35) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN) | [Burning Night](https://open.spotify.com/album/681lRPzHRsGecSCZWVx0KT) | 3:26 | 2022-10-07 |  |
 | [Caliento](https://open.spotify.com/track/5c5bFCO1suc6DpCmZ6jbRG) | [GW Harrison](https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4) | [Caliento](https://open.spotify.com/album/0dgh0dBzYh3CBWUiz47aw7) | 3:33 | 2022-11-25 |  |
 | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [High Jinx](https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64) | [California Dreamin' \(feat\. High Jinx\)](https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW) | 3:16 | 2021-12-17 | 2022-02-08 |
@@ -120,7 +121,7 @@
 | [Eastern Dub](https://open.spotify.com/track/6cVlxUZCdNqNQsgH0T2aqh) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Eastern Dub](https://open.spotify.com/album/1Lssaw5dvG8riE4Uiyuv6U) | 2:58 | 2022-07-06 | 2022-09-23 |
 | [El Bombo](https://open.spotify.com/track/0Rv3tutzgSak1pTMXiV9p8) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [El Bombo](https://open.spotify.com/album/6mQ6RwM8fZTzzl9wgTr3sm) | 4:00 | 2022-04-01 | 2022-07-07 |
 | [Elevated](https://open.spotify.com/track/0qZ2NBUmGIaHzvUAfH43A0) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Elevated](https://open.spotify.com/album/6a3wDTIPiYQwXGkNAAye04) | 3:13 | 2022-08-25 | 2023-01-13 |
-| [Endless Sky](https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Endless Sky](https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO) | 2:39 | 2022-08-18 |  |
+| [Endless Sky](https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Endless Sky](https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO) | 2:39 | 2022-08-18 | 2023-01-28 |
 | [Erase Me](https://open.spotify.com/track/73CRQe51UEpa3B6ZG7QEsl) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Erase Me](https://open.spotify.com/album/2uWVzN9RsU8Wf1secl0sdX) | 4:03 | 2022-07-21 | 2022-12-03 |
 | [Eros](https://open.spotify.com/track/3HJr6Bql5OLIqMfg2qm990) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Eros](https://open.spotify.com/album/5JbjrwkXD1x8OWzaeONVXM) | 4:44 | 2021-12-17 | 2022-01-21 |
 | [Escape](https://open.spotify.com/track/3VsFBfABTNS8C6W1kmRExU) | [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Echoes](https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV) | [Escape](https://open.spotify.com/album/5tuO7wOAqmBgHL0ms6MlK0) | 2:57 | 2022-09-15 | 2022-12-17 |
@@ -282,6 +283,7 @@
 | [Never Enough \- Dylan C\. Greene Remix](https://open.spotify.com/track/39dXUV9SNass0Rpmz1HQwI) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Dylan C\. Greene](https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4) | [Never Enough \(Dylan C\. Greene Remix\)](https://open.spotify.com/album/4NqGOFTNvaAWxHtkDXfa7h) | 4:43 | 2021-12-17 | 2022-01-28 |
 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 | 2022-04-29 | 2022-08-05 |
 | [Night Creature](https://open.spotify.com/track/3qEel6r284fp9ti2CYuO12) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu) | 3:31 | 2022-03-08 | 2022-03-10 |
+| [Night Drift](https://open.spotify.com/track/2LS6hBqhAXda0ckQDHMEBT) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [Night Drift](https://open.spotify.com/album/6smxthEq12e5YqZyMSVWHz) | 3:11 | 2023-01-27 |  |
 | [Nightmares](https://open.spotify.com/track/0DcLHMYuZDZboftsQSrANc) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Nightmares](https://open.spotify.com/album/1F1pC0ykx8JTys8LnxMv9f) | 3:57 | 2022-10-27 |  |
 | [No Apologies \(feat\. Mila Falls\)](https://open.spotify.com/track/3EJjWnvGleKgYPikSo3K33) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [No Apologies \(feat\. Mila Falls\)](https://open.spotify.com/album/1gX4xhqZzjairFGA10ivst) | 2:53 | 2022-01-07 | 2022-04-15 |
 | [No Hoes](https://open.spotify.com/track/6TKBHKMYhBJwW49WhSPtQw) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [No Hoes](https://open.spotify.com/album/4VUGZUyBM3cLhUhtUdJmNn) | 6:43 | 2021-12-17 | 2022-01-21 |

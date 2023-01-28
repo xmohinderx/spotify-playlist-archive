@@ -4,7 +4,7 @@
 
 > the best of the deep end\. cover: Kay9ine
 
-165 songs - 7 hr 58 min
+166 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [Someone Else](https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Someone Else](https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1) | 3:25 | 2022-04-05 |  |
 | [Soulja](https://open.spotify.com/track/6ilDAH3APXX7JI5funRb0j) | [Oso Wavey Jay](https://open.spotify.com/artist/31fqY4DqVQUe4mMcb4D52B) | [Soulja](https://open.spotify.com/album/4SZpwbJn6xMYkGLL6g1e4Z) | 3:28 | 2022-04-05 | 2022-05-11 |
 | [SS Interlude](https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Rise Above Hate](https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg) | 1:52 | 2022-04-05 |  |
-| [Stuck In My Ways](https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Stuck In My Ways](https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp) | 1:51 | 2022-08-02 |  |
+| [Stuck In My Ways](https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Stuck In My Ways](https://open.spotify.com/album/7p9H29WgxBZJa6ylLfMecp) | 1:51 | 2022-08-02 | 2023-01-28 |
+| [Stuck In My Ways](https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Stuck In My Ways](https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl) | 1:51 | 2022-08-02 |  |
 | [Superstars](https://open.spotify.com/track/6d6zii8V5yf3rZZES5dL3e) | [Hated28](https://open.spotify.com/artist/3djnXSSeWr8vUkz9oii3hB) | [Superstars](https://open.spotify.com/album/1FelNzefgYCkUOaLva4AHE) | 2:30 | 2022-04-05 | 2022-08-03 |
 | [Survivor's Guilt](https://open.spotify.com/track/1Xapo8sq7KcQXdt0HrXX5B) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 5:40 | 2022-04-05 | 2022-08-03 |
 | [take the risk](https://open.spotify.com/track/6A4zgs4IsEi3iglTBF2RUL) | [bxnz](https://open.spotify.com/artist/1RsFzgSg6mEHj2Fp3tulgp) | [take the risk](https://open.spotify.com/album/5vqqu6b8M6WRj6I8jhJgAZ) | 3:20 | 2022-08-02 | 2022-11-28 |

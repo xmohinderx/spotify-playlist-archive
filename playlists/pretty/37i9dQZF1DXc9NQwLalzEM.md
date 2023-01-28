@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 
 > Vintage soul gems from the archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,957 likes - 136 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,035 likes - 136 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 64 | [That's How It Feels](https://open.spotify.com/track/0BCScVwlR88wcHo5KUwK47) | [Soul Clan](https://open.spotify.com/artist/3fv6GA2FEaH0u23PS66uFK) | [Soul Clan](https://open.spotify.com/album/3a6YJcsLKVftntzf3eWALy) | 3:33 |
 | 65 | [Find Me a Girl](https://open.spotify.com/track/51CkYfiL0waVyqjLrGSX8l) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Goin' Places](https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3) | 4:34 |
 | 66 | [Main Squeeze](https://open.spotify.com/track/4IhtiSk5MvZ6JYyXRuBqcb) | [Nate Evans](https://open.spotify.com/artist/7rYvwq8TItxYTRtnYiYf2l) | [Pardon My Innocent Heart b/w Main Squeeze](https://open.spotify.com/album/0wjaMjaf8nDj9MmZlVWhTk) | 3:14 |
-| 67 | [Keep Him](https://open.spotify.com/track/3aLMilJgzNmCDUbO9ghRug) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Yes I'm Ready](https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj) | 2:04 |
-| 68 | [New Beginning](https://open.spotify.com/track/5UKkqgXRBlGMB5Lu3n2Zfb) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:39 |
+| 67 | [New Beginning](https://open.spotify.com/track/5UKkqgXRBlGMB5Lu3n2Zfb) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:39 |
+| 68 | [Keep Him](https://open.spotify.com/track/3aLMilJgzNmCDUbO9ghRug) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Yes I'm Ready](https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj) | 2:04 |
 | 69 | [I Couldn't Stand It](https://open.spotify.com/track/5P10QtvQfYdP88pS6bKjJD) | [The Invincibles](https://open.spotify.com/artist/4XCdfgAKzWti7yoYMRHbNv) | [Best of Loma Records\-Rise and Fall of a 1960's Soul Label](https://open.spotify.com/album/5toBacjx2RVc7mVRZ5QHUZ) | 2:18 |
 | 70 | [La La La La La](https://open.spotify.com/track/7E2rm2hyCOXc3leRuiky7a) | [The LaSalles](https://open.spotify.com/artist/2Z5QMowZC067XABO7HNwIY) | [The Complete Motown Singles, Vol\. 6: 1966](https://open.spotify.com/album/3mQO3RmWVxI7U4y0HxUeh1) | 2:35 |
 | 71 | [My Sugar Baby](https://open.spotify.com/track/6zOM8k0i1xe087FfD4yGYf) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [A Cellarful Of Motown!](https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks) | 2:40 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 77 | [Heavenly Thing](https://open.spotify.com/track/3rhCVdKPTJVVuM9XBGI40p) | [The Mark\-Keys](https://open.spotify.com/artist/6inrHX6orJylUug2PXqjBr) | [Dave Hamilton's Detroit Dancers](https://open.spotify.com/album/4afaQ6KsmsZOFNEygrGmLW) | 3:03 |
 | 78 | [I'll Come Running](https://open.spotify.com/track/4UKbpcViNJl6KHlI5x0nVW) | [Carolyn Crawford](https://open.spotify.com/artist/6xRUXZ0AibiIX4XbrTV2pS) | [The Complete Motown Singles Vol\. 4: 1964](https://open.spotify.com/album/2ZYIfXwJx1cPCZ1N53GEBk) | 2:37 |
 | 79 | [I've Been Pushed Aside](https://open.spotify.com/track/6CD1KkhvlwIOMrpYYAsNw3) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [McFadden & Whitehead](https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs) | 5:12 |
-| 80 | [My Love Is Growing](https://open.spotify.com/track/6XMHWGtaCQcEGMTy2QIXM5) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC) | 4:20 |
-| 81 | [To Love Someone \(That Don't Love You\)](https://open.spotify.com/track/5rrXRBLNgcVwEyKSel6idy) | [Kaldirons](https://open.spotify.com/artist/3tXt8EHzwpr8xrUXpsK9N3) | [Eccentric Soul: Twinight's Lunar Rotation](https://open.spotify.com/album/5FM27Sd9COvzQpJbRE55M2) | 3:21 |
+| 80 | [To Love Someone \(That Don't Love You\)](https://open.spotify.com/track/5rrXRBLNgcVwEyKSel6idy) | [Kaldirons](https://open.spotify.com/artist/3tXt8EHzwpr8xrUXpsK9N3) | [Eccentric Soul: Twinight's Lunar Rotation](https://open.spotify.com/album/5FM27Sd9COvzQpJbRE55M2) | 3:21 |
+| 81 | [My Love Is Growing](https://open.spotify.com/track/6XMHWGtaCQcEGMTy2QIXM5) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC) | 4:20 |
 | 82 | [I'll Make It Easy \(If You'll Come On Home\)](https://open.spotify.com/track/1o8KRGewglNoPcAgZy3QTt) | [The Incredibles](https://open.spotify.com/artist/6DEbuJ3GYJy9NYknB1cqTj) | [Greatest Hits](https://open.spotify.com/album/0s7w98Eoh1k8vbfwwFdRZj) | 2:38 |
 | 83 | [My Music](https://open.spotify.com/track/23TOftlUTOe477OSP4PzZh) | [Bunny Sigler](https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg) | [My Music](https://open.spotify.com/album/4hQ22JIIGjvyMbeQJRoDKE) | 3:27 |
 | 84 | [City of Brotherly Love](https://open.spotify.com/track/4xDfL9IyOUsndSPsh1JpYg) | [Soul Survivors](https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx) | [Soul Survivors](https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl) | 3:21 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 135 | [Please Love Me \- Mono](https://open.spotify.com/track/0XQWZGT2B9VmiJ4d9wiTzO) | [Reverb LTD](https://open.spotify.com/artist/7JKPZ0c5Bicj1rYHfjUbJU) | [Please Love Me](https://open.spotify.com/album/3rh2c9Vu2u7AJ5PJwKI75U) | 2:30 |
 | 136 | [That Day When She Needed Me](https://open.spotify.com/track/44qsTuT39YB95fvHdQsbyS) | [The Performers](https://open.spotify.com/artist/33OknnhKvWiDNmCy9aGVfI) | [Best of Ace: Soul Harmony](https://open.spotify.com/album/6aOmn5BSEmTyLbcJcoOc6a) | 2:41 |
 
-Snapshot ID: `MTY1MjI3MjE3OCwwMDAwMDAwMGI2ZDYwZGI1ZmUzNjYwOTk0MjcwYjI4M2ZmODE3OTJj`
+Snapshot ID: `MTY1MjI3MjE3OCwwMDAwMDAwMDJkOTY2YmIzNjJiZTQ5MDJiNzVhYzE0ODAxMTcyMjE5`

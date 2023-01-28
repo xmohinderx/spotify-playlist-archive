@@ -2959,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/2qdjlpA0nBpk10xpQyv3jm"
+      },
+      "artists": [
+        {
+          "name": "Rachel Baiman",
+          "url": "https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Self Made Man",
+      "url": "https://open.spotify.com/track/4F6IcqN9tXPjGrMUmbr9sn"
+    },
+    {
+      "album": {
         "name": "Shallows",
         "url": "https://open.spotify.com/album/1AkizJGDtqdAQR9xtMK53V"
       },

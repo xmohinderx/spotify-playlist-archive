@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-111 songs - 7 hr 29 min
+113 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Blues For Ruthie Foster](https://open.spotify.com/track/6DVDYuQPe6XIC21qDUKhzR) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Mercy Me](https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj) | 5:23 | 2022-04-15 |  |
 | [Blues On 5th Avenue](https://open.spotify.com/track/2AmEPE041ByXKpMuNGlfPf) | [Patrick Yandall](https://open.spotify.com/artist/4sdBlhjR2yhvidXrNrzimI) | [Of Two Cities](https://open.spotify.com/album/7iWSzyoy9SrCmIIRAY9s1w) | 5:14 | 2022-04-15 |  |
 | [Bourbon Please](https://open.spotify.com/track/3udysyynIpSz9II7pDJITA) | [PC Soares](https://open.spotify.com/artist/4kAqX4WBKDxCuyykSu0WMt) | [Bourbon Please](https://open.spotify.com/album/4O01Xv4ikVGTb45Lnhw5uR) | 5:16 | 2022-04-15 |  |
+| [Carrot Blues](https://open.spotify.com/track/258O8WGN7xeiaID4eNESGi) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Carrot Blues](https://open.spotify.com/album/3smwLdvA2PWj7VYTsA9W8J) | 2:19 | 2023-01-27 |  |
 | [Cristo Redentor](https://open.spotify.com/track/0QZ1JgRuAK83hsqJ8vio04) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU) | [Spread The Love](https://open.spotify.com/album/4RFvY4SxDOjOhoOOrKu2Nz) | 5:12 | 2022-04-15 | 2022-07-29 |
 | [Cristo Redentor](https://open.spotify.com/track/08ubKgFasQsPB2YdmKMW9X) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Spread The Love](https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht) | 5:12 | 2022-04-15 |  |
 | [Dana's Song](https://open.spotify.com/track/7izyXZtIw69OhbeDb2jkTu) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP) | [Twelve Hours](https://open.spotify.com/album/5VWXunq9g3JCd2wo3ecpYL) | 6:20 | 2022-04-15 |  |
@@ -105,6 +106,7 @@
 | [Sunset Guitar Blues](https://open.spotify.com/track/1VA18gUNRVnyrS53bAb6zg) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Sunset Guitar Blues](https://open.spotify.com/album/1vEnl3zi7CM0SLyVfaHxbC) | 2:07 | 2022-04-15 |  |
 | [Sweet Emma](https://open.spotify.com/track/1eBoPVndwtjwybJKDHNref) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Sweet Emma](https://open.spotify.com/album/255HReDR5ysQDnH8WkpTJL) | 3:55 | 2022-12-20 |  |
 | [Take Five \(Solo Guitar\)](https://open.spotify.com/track/1MRivhXSuW5lICmMxVuIES) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX), [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Five](https://open.spotify.com/album/00M7DsogdksAlx0Q745kV9) | 2:21 | 2022-04-15 |  |
+| [Take Root](https://open.spotify.com/track/2Q6jRwPtPBLeeDZgZBl0b6) | [James Saunder](https://open.spotify.com/artist/7lJYI82LVMMO0MrbXo1SPB) | [Take Root](https://open.spotify.com/album/4PjXnjdZzHoJwShZVmsJTM) | 1:42 | 2023-01-27 |  |
 | [The Blink Of An Eye](https://open.spotify.com/track/2vJLBn78JRXewtqcUVvtm3) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Blues For You](https://open.spotify.com/album/6XIK9crFq9HgXowGwTK91I) | 6:02 | 2022-04-15 | 2022-07-29 |
 | [The Blink Of An Eye](https://open.spotify.com/track/656b8WVsC5JMmDDN43hPoQ) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Blues For You](https://open.spotify.com/album/5EAr5Rzknr0B1DFaBPcC8v) | 6:02 | 2022-07-08 |  |
 | [The Route Home](https://open.spotify.com/track/1DdyCpQHozMxfuQnV0Nkvc) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [The Route Home](https://open.spotify.com/album/1YUBztLYPkoYS0RuIJpPfn) | 2:56 | 2022-11-18 |  |

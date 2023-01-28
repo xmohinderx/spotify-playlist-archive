@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "incenso",
+        "url": "https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D"
+      },
+      "artists": [
+        {
+          "name": "Camargo",
+          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143022,
+      "name": "incenso",
+      "url": "https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f"
+    },
+    {
+      "album": {
         "name": "incomum",
         "url": "https://open.spotify.com/album/2jpFAKZ13KRb8EqChWMBON"
       },
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 182000,
       "name": "N\u00e3o quis enxergar",
       "url": "https://open.spotify.com/track/6QxqoEinReEb5KuWIQhQB8"

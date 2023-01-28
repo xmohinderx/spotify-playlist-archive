@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-62 songs - 4 hr 16 min
+64 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Chamas Azuis](https://open.spotify.com/track/5PUhWvFvj8Hx1pwe0A0wGA) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [808 Ander](https://open.spotify.com/artist/4GYAN3gAGyqrZApN0SMEMK) | [Chamas Azuis](https://open.spotify.com/album/6jydQD6FUMLFJTFVKwpfbg) | 3:42 | 2022-02-22 |  |
 | [Chuva de Kunai](https://open.spotify.com/track/7iKZKK9gpHpOeW0Hwredfy) | [Felícia Rock](https://open.spotify.com/artist/4zfIqIxYFw4kZlUiaCik2B), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Chuva de Kunai](https://open.spotify.com/album/3VfiWdnJHEUHT34XUUn68f) | 3:19 | 2022-02-22 |  |
 | [Cria Da Folha](https://open.spotify.com/track/2g57Cb8iArpvKqfEArfZcY) | [Takr](https://open.spotify.com/artist/3BL1s5UAxSPUJh3QZh3IRD), [Sidney Scaccio](https://open.spotify.com/artist/7KbIvbXjnV4pbYATvuLDgl), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [Cria Da Folha](https://open.spotify.com/album/74MIWbllspaCXOOGhX7UPb) | 2:39 | 2022-02-22 |  |
-| [Death Note](https://open.spotify.com/track/68ihXI8WnBpdrA8iLOirHw) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Death Note](https://open.spotify.com/album/0VsaLl72TuSij9cxQqBS1t) | 3:51 | 2022-02-22 |  |
+| [Death Note](https://open.spotify.com/track/1K6yxhSJsQuMzDhtmk7W81) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Death Note](https://open.spotify.com/album/3odZS05zGujBVVRLMNEwR5) | 3:51 | 2022-05-27 |  |
+| [Death Note](https://open.spotify.com/track/68ihXI8WnBpdrA8iLOirHw) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Death Note](https://open.spotify.com/album/0VsaLl72TuSij9cxQqBS1t) | 3:51 | 2022-02-22 | 2023-01-28 |
 | [Deidara: Nuke](https://open.spotify.com/track/0m5pkgoPtYqrj2y2j7BNrS) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Deidara: Nuke](https://open.spotify.com/album/78rJ5rijVFOMChNbvzQt5g) | 3:58 | 2022-02-22 |  |
 | [Então Eletrifique](https://open.spotify.com/track/58Vs1JCZm1Ozfg3dxRFW4T) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Eletrifique](https://open.spotify.com/album/13xj1xw9CDK8KHcg9810kf) | 5:30 | 2022-05-27 |  |
 | [Então Eletrifique](https://open.spotify.com/track/63UGvxRZSJMHFjYcUs0TdL) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Então Eletrifique](https://open.spotify.com/album/11WgBAEBpB8NbBx0allLYe) | 5:30 | 2022-02-22 | 2022-11-12 |
@@ -32,7 +33,8 @@
 | [Pique Minato](https://open.spotify.com/track/1hOuDUJ8pqh5gwGiZpl2xG) | [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Pique Minato](https://open.spotify.com/album/5ri4PGz7cj1R9GTf5lHpr2) | 2:58 | 2022-02-22 |  |
 | [Pique Narutão](https://open.spotify.com/track/5b8WiNjA6ihEvaeB9J3eyQ) | [Sidney Scaccio](https://open.spotify.com/artist/631T7yPinNND4sm5RINYxu) | [Pique Narutão](https://open.spotify.com/album/0NtyHYCaTcHk25sROuomEL) | 3:01 | 2022-02-22 |  |
 | [Punição Divina](https://open.spotify.com/track/5zYv54TK6OKcEfM74HWkkY) | [Flash Beats Manow](https://open.spotify.com/artist/0ZIlwtVZkqtMZUpbHrz8TL) | [Punição Divina](https://open.spotify.com/album/05fzl1PzT4xtsxJok87zfV) | 4:01 | 2022-02-22 |  |
-| [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/track/2iNZMMFEii4fU827NTyQ1J) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/album/4VazcwScVO1t0fXDXXqQVr) | 9:51 | 2022-02-22 |  |
+| [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/track/2iNZMMFEii4fU827NTyQ1J) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/album/4VazcwScVO1t0fXDXXqQVr) | 9:51 | 2022-02-22 | 2023-01-28 |
+| [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/track/3YWdolIwRLOeLbmj5Q9lIO) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Da Akatsuki: Os Ninjas Mais Procurados Do Mundo \(Nerd Hits\)](https://open.spotify.com/album/22mM3uheuOoCmlbe2079WE) | 9:51 | 2022-05-27 |  |
 | [Rap Do Brook: Canção Solo](https://open.spotify.com/track/0hOIkoS38ZC5rbdM8sp1Bh) | [Basara](https://open.spotify.com/artist/2A8r4X2BCk6Y92EBYd3tP1) | [Rap Do Brook: Canção Solo](https://open.spotify.com/album/5L7eIZXIA12kIF2qyK2IGo) | 3:52 | 2022-02-22 |  |
 | [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/track/1Vc4CybtR522rCPaOnIfGq) | [Enygma Rapper](https://open.spotify.com/artist/3vQAVbtRu2SDTgfTKcoxDu) | [Rap Do Chopper: Flores de Cerejeira](https://open.spotify.com/album/3EqMHlH0AMgUmx7xgf73aI) | 4:36 | 2022-02-22 |  |
 | [Rap do Deidara: A Arte é a Explosão \(Nerd Hits\)](https://open.spotify.com/track/1w20E6WZTvi5HsKua0NG7M) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Deidara: A Arte é a Explosão \(Nerd Hits\)](https://open.spotify.com/album/6ydM4MMf11n5nlX4AApjVl) | 3:03 | 2022-02-22 | 2023-01-27 |

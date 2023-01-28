@@ -2782,10 +2782,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 209958,
       "name": "The Highway",
       "url": "https://open.spotify.com/track/1stGWwuI8yRU1VoaDW3LPq"
+    },
+    {
+      "album": {
+        "name": "The Highway",
+        "url": "https://open.spotify.com/album/3DMTMBOqY8QrlV0TJP6moQ"
+      },
+      "artists": [
+        {
+          "name": "Terri Clark",
+          "url": "https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209958,
+      "name": "The Highway",
+      "url": "https://open.spotify.com/track/2bjsDs1YVpwRPXDbf5UpXZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 123689,
+  "num_followers": 123717,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDllNDYwZmQ5NjNmZGRiY2U0MjA3ODNjYzFjYzcxY2U5",
+  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDE2Y2UzOGY0Zjk2MjI4YjE3OTFhYWVkNDI2NTJkZTE3",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -143,22 +143,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "I'll Be Okay",
-        "url": "https://open.spotify.com/album/2GLPv7x5UyvS6sZ95MKLex"
+        "name": "Alter",
+        "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
       "artists": [
         {
-          "name": "Kasket Club",
-          "url": "https://open.spotify.com/artist/0b3Qo1mk6w8cjcq1TmJiWy"
+          "name": "Lustmord",
+          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
         },
         {
-          "name": "Soul Gem",
-          "url": "https://open.spotify.com/artist/7elzBecyNZlaAEsWzqFxeB"
+          "name": "Karin Park",
+          "url": "https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr"
         }
       ],
-      "duration_ms": 196932,
-      "name": "I'll Be Okay",
-      "url": "https://open.spotify.com/track/2luLqMtf2uxV3n4hs1PTkP"
+      "duration_ms": 566208,
+      "name": "Entwined",
+      "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -179,22 +179,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Alter",
-        "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
+        "name": "I'll Be Okay",
+        "url": "https://open.spotify.com/album/2GLPv7x5UyvS6sZ95MKLex"
       },
       "artists": [
         {
-          "name": "Lustmord",
-          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
+          "name": "Kasket Club",
+          "url": "https://open.spotify.com/artist/0b3Qo1mk6w8cjcq1TmJiWy"
         },
         {
-          "name": "Karin Park",
-          "url": "https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr"
+          "name": "Soul Gem",
+          "url": "https://open.spotify.com/artist/7elzBecyNZlaAEsWzqFxeB"
         }
       ],
-      "duration_ms": 566208,
-      "name": "Entwined",
-      "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+      "duration_ms": 196932,
+      "name": "I'll Be Okay",
+      "url": "https://open.spotify.com/track/2luLqMtf2uxV3n4hs1PTkP"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Like a Petal but Not Really",
-        "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
-      },
-      "artists": [
-        {
-          "name": "Ugress",
-          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
-        }
-      ],
-      "duration_ms": 204821,
-      "name": "Like A Petal But Not Really",
-      "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Villa Amorini",
         "url": "https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG"
       },
@@ -363,22 +347,18 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Vegvisir (Nils Olav Remix)",
-        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
+        "name": "Like a Petal but Not Really",
+        "url": "https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD"
       },
       "artists": [
         {
-          "name": "Helene B\u00f8ksle",
-          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
-        },
-        {
-          "name": "Nils Olav",
-          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
+          "name": "Ugress",
+          "url": "https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f"
         }
       ],
-      "duration_ms": 372838,
-      "name": "Vegvisir (Nils Olav Remix)",
-      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
+      "duration_ms": 204821,
+      "name": "Like A Petal But Not Really",
+      "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -399,6 +379,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Echo to Echo",
+        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
+      },
+      "artists": [
+        {
+          "name": "Magnus International",
+          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
+        }
+      ],
+      "duration_ms": 255909,
+      "name": "A Man Called Anthony",
+      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "The Ladder",
         "url": "https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi"
       },
@@ -415,18 +411,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Echo to Echo",
-        "url": "https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec"
+        "name": "Vegvisir (Nils Olav Remix)",
+        "url": "https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb"
       },
       "artists": [
         {
-          "name": "Magnus International",
-          "url": "https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE"
+          "name": "Helene B\u00f8ksle",
+          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
+        },
+        {
+          "name": "Nils Olav",
+          "url": "https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op"
         }
       ],
-      "duration_ms": 255909,
-      "name": "A Man Called Anthony",
-      "url": "https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv"
+      "duration_ms": 372838,
+      "name": "Vegvisir (Nils Olav Remix)",
+      "url": "https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Desire Lines",
-        "url": "https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn"
-      },
-      "artists": [
-        {
-          "name": "Meanderthals",
-          "url": "https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is"
-        }
-      ],
-      "duration_ms": 274240,
-      "name": "Andromeda (Prelude to the Future)",
-      "url": "https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Closing Shot",
         "url": "https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 503648,
       "name": "Closing Shot",
       "url": "https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Desire Lines",
+        "url": "https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn"
+      },
+      "artists": [
+        {
+          "name": "Meanderthals",
+          "url": "https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is"
+        }
+      ],
+      "duration_ms": 274240,
+      "name": "Andromeda (Prelude to the Future)",
+      "url": "https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Oppkok",
+        "url": "https://open.spotify.com/album/1Ez5JV6xCESNKfZlyGYLfR"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+        }
+      ],
+      "duration_ms": 303282,
+      "name": "Nitten Nitti - Harvey's Not Normal Mix",
+      "url": "https://open.spotify.com/track/0pQ56PL4N5p5yl6L1vluwr"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Baby Can't Stop",
         "url": "https://open.spotify.com/album/5VLSsw5p70usZesWIq4UwG"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 371333,
       "name": "Baby Can't Stop",
       "url": "https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Oppkok",
-        "url": "https://open.spotify.com/album/1Ez5JV6xCESNKfZlyGYLfR"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
-        }
-      ],
-      "duration_ms": 303282,
-      "name": "Nitten Nitti - Harvey's Not Normal Mix",
-      "url": "https://open.spotify.com/track/0pQ56PL4N5p5yl6L1vluwr"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -859,18 +859,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Ramma EP",
-        "url": "https://open.spotify.com/album/4UiQU657e5Uirz7XD6sTMG"
+        "name": "Motown",
+        "url": "https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+          "name": "Ost & Kjex",
+          "url": "https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61"
+        },
+        {
+          "name": "Tracee Meyn",
+          "url": "https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly"
         }
       ],
-      "duration_ms": 426575,
-      "name": "Bommelom",
-      "url": "https://open.spotify.com/track/1Xi4PSk3kXmv5iXort9Jaa"
+      "duration_ms": 388272,
+      "name": "Motown",
+      "url": "https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX"
     }
   ],
   "unique_name": "Space Disco",

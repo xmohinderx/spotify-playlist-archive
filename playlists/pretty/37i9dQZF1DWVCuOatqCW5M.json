@@ -1,13 +1,117 @@
 {
-  "description": "New music from popular Hindi artists. Cover- Nikhil D'souza",
-  "num_followers": 17612,
+  "description": "New music from popular Hindi artists. Cover- Stebin Ben",
+  "num_followers": 17649,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5OTE0MiwwMDAwMDAwMGFkNTU3MDVlNDQ2ZjZkNTRjMmQ4MWU5MTY3Y2ZlY2Rm",
+  "snapshot_id": "MTY3NDc5OTE2NywwMDAwMDAwMDE4NGVlYmFiYjQ0ZTNlNDlhOTM2OWUyYTYzMWEzOTMx",
   "tracks": [
+    {
+      "added_at": "2023-01-27 05:59:27",
+      "album": {
+        "name": "Mehendi Lagi Hai",
+        "url": "https://open.spotify.com/album/3Epan1Y4ZX0f1QLN7Utrux"
+      },
+      "artists": [
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Sakshi Holkar",
+          "url": "https://open.spotify.com/artist/1NzWmNFNge2tR9foXVCz7R"
+        }
+      ],
+      "duration_ms": 202682,
+      "name": "Mehendi Lagi Hai",
+      "url": "https://open.spotify.com/track/36uw7L3TTkfsXOyym2RFuw"
+    },
+    {
+      "added_at": "2023-01-27 05:59:27",
+      "album": {
+        "name": "Farzi (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        },
+        {
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+        }
+      ],
+      "duration_ms": 172907,
+      "name": "Aasmaan",
+      "url": "https://open.spotify.com/track/4OJ3ecc157Wg4Z29aglEOu"
+    },
+    {
+      "added_at": "2023-01-27 05:59:27",
+      "album": {
+        "name": "Bewajah",
+        "url": "https://open.spotify.com/album/7pb1utVXS2OS6dfQF0f0cN"
+      },
+      "artists": [
+        {
+          "name": "somanshu",
+          "url": "https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Bewajah",
+      "url": "https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C"
+    },
+    {
+      "added_at": "2023-01-27 05:59:27",
+      "album": {
+        "name": "Preet",
+        "url": "https://open.spotify.com/album/6bPq1Wlr8b82YuEQMne1sJ"
+      },
+      "artists": [
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Abhijit Vaghani",
+          "url": "https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4"
+        }
+      ],
+      "duration_ms": 259372,
+      "name": "Preet",
+      "url": "https://open.spotify.com/track/2XeX2lVTjO0TY6Jk0SE6dx"
+    },
+    {
+      "added_at": "2023-01-27 05:59:27",
+      "album": {
+        "name": "Tu Hii To",
+        "url": "https://open.spotify.com/album/4B3SnJkt4tgj2uxOyHpyvH"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Faiz",
+          "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
+        },
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        }
+      ],
+      "duration_ms": 241476,
+      "name": "Tu Hii To",
+      "url": "https://open.spotify.com/track/7IOvVy5KChrDKWlX5Foeet"
+    },
     {
       "added_at": "2023-01-20 07:19:02",
       "album": {
@@ -819,102 +923,6 @@
       "duration_ms": 278061,
       "name": "Ghalib Hona Hai",
       "url": "https://open.spotify.com/track/1PiglBfxIbnsZmTnmUMh37"
-    },
-    {
-      "added_at": "2023-01-20 07:19:02",
-      "album": {
-        "name": "Intezar",
-        "url": "https://open.spotify.com/album/0yD5LGhWBRZh9atk8wSgXn"
-      },
-      "artists": [
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        },
-        {
-          "name": "Srishti Bhandari",
-          "url": "https://open.spotify.com/artist/0wZVnB36ng3hXHxkBReBpG"
-        },
-        {
-          "name": "Sanjeev Chaturvedi",
-          "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Intezar",
-      "url": "https://open.spotify.com/track/113KRcuZzLHIRA4JqhfzJ8"
-    },
-    {
-      "added_at": "2023-01-20 07:19:02",
-      "album": {
-        "name": "Zindagi",
-        "url": "https://open.spotify.com/album/3UNWH4z6k23WU8JahHq1kM"
-      },
-      "artists": [
-        {
-          "name": "Dikshant",
-          "url": "https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR"
-        }
-      ],
-      "duration_ms": 198968,
-      "name": "Zindagi",
-      "url": "https://open.spotify.com/track/3Zs4kdU0HS1Lm8prl4Yenz"
-    },
-    {
-      "added_at": "2023-01-20 07:19:02",
-      "album": {
-        "name": "Darta Hu Mai",
-        "url": "https://open.spotify.com/album/01ZQhJ57JPYXAfx5qQ4OPT"
-      },
-      "artists": [
-        {
-          "name": "Bharg",
-          "url": "https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "Darta Hu Mai",
-      "url": "https://open.spotify.com/track/1ib3mQY9NBxOwCVyUJv29b"
-    },
-    {
-      "added_at": "2023-01-20 07:19:02",
-      "album": {
-        "name": "Wajah",
-        "url": "https://open.spotify.com/album/5iUt7Av1i7KAUzSz6HW25y"
-      },
-      "artists": [
-        {
-          "name": "Priyansh Srivastava",
-          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
-        },
-        {
-          "name": "Garvit Soni",
-          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Wajah",
-      "url": "https://open.spotify.com/track/1WP7x37oNXB5kFvTgYZaCi"
-    },
-    {
-      "added_at": "2023-01-20 07:19:02",
-      "album": {
-        "name": "Junoon",
-        "url": "https://open.spotify.com/album/3pKcuBNhjrlvCpRdaLcKc4"
-      },
-      "artists": [
-        {
-          "name": "Soumya Mukherjee",
-          "url": "https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA"
-        },
-        {
-          "name": "Proyash",
-          "url": "https://open.spotify.com/artist/0h4A8KVZVn6AVHRTfKmxqh"
-        }
-      ],
-      "duration_ms": 304615,
-      "name": "Junoon",
-      "url": "https://open.spotify.com/track/7E3apz88atLygJ4XTkqYR0"
     }
   ],
   "unique_name": "New Music Friday Hindi ",

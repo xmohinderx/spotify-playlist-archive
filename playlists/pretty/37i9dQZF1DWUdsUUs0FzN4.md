@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > Bienvenidxs al mundo del bellaqueo, con Uzielito Mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,372 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,390 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 22 | [Bien Bebé](https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Ey Gary](https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww) | [Bien Bebé](https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4) | 2:43 |
 | 23 | [Diabla en bellakera](https://open.spotify.com/track/6Tm42ujjFYSmYPG2t0QCbu) | [Dj Flacko Monterrey](https://open.spotify.com/artist/1wNss5CYWZXudK9XnuMLbX), [DJ WICHO](https://open.spotify.com/artist/6RcXXVJ0cB3cKnc8PhQSZg), [Dj Diestro](https://open.spotify.com/artist/3WWMZusY0DgheUWKhTVx9j) | [Diabla en bellakera](https://open.spotify.com/album/04s4sX5A9qSqbNajrtZ2Rw) | 3:35 |
 | 24 | [Tu Pones la Hora y Yo Le Caigo](https://open.spotify.com/track/4AJzH1HTwBcfxTH5F2hO4g) | [DJ Cobra Monterrey](https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p) | [Tu Pones la Hora y Yo Le Caigo](https://open.spotify.com/album/2sAoBj5Mpq2h9p3bVt1nKa) | 3:47 |
-| 25 | [La Gata de la Agricola Oriental](https://open.spotify.com/track/03QlQ3jX2glFnxCj8maCta) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Kery](https://open.spotify.com/artist/3AChMKkXbtIh9WEFhLRk2m) | [La Gata de la Agricola Oriental](https://open.spotify.com/album/0wX6GEW24hy1sAHgiZswlC) | 3:11 |
+| 25 | [Cumbiatronik](https://open.spotify.com/track/1PooFwkjYMobQx9qCozXhb) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Cumbiatronik](https://open.spotify.com/album/1PCXjPBVHXl8pHMsY96yMF) | 3:12 |
 | 26 | [Se Menea](https://open.spotify.com/track/3mbKLIppSw6vqWidiuMd53) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Chino El Gorila](https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6) | [Se Menea](https://open.spotify.com/album/29QUuLDAgelu6uM7zmh4CM) | 3:39 |
 | 27 | [Metele](https://open.spotify.com/track/0bhNA2f3YxwP2dNo1BTbcB) | [DJ Yelkrab](https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Ranking Stone](https://open.spotify.com/artist/2vThUcryaKNLhULHOzP3eH) | [Metele](https://open.spotify.com/album/57XcVUDgQmW2OWvHIu4I3l) | 3:15 |
 | 28 | [Muévete](https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Divergentes Inc.](https://open.spotify.com/artist/53GvbDsSidYJZCdCrOcGgI) | [Muévete](https://open.spotify.com/album/6spUBYcMPDm3ANEmoVxrdo) | 3:31 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 31 | [Culo Arabe](https://open.spotify.com/track/4B4ayQqNLHv3fU2d2ln7iD) | [DJ Tona](https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB), [Kareem the Press](https://open.spotify.com/artist/0TNzbgKXLX3V6CbbnQ6fpm) | [Culo Arabe](https://open.spotify.com/album/5vJcPE9KIFh0uxczunFUIT) | 3:15 |
 | 32 | [EL Diablo](https://open.spotify.com/track/65qVVGOzeUT86NHwhzhVKj) | [EL Fresh](https://open.spotify.com/artist/5SKKmrCayBdpFX1A7l42Cw), [Ledavile](https://open.spotify.com/artist/4Mm3QHdKwWmHLI6tHYhORk) | [EL Diablo](https://open.spotify.com/album/3vBeETbf9fHvGiQ4YBmEZI) | 2:44 |
 | 33 | [Suena Perreo](https://open.spotify.com/track/0SCknxoIsIIzn6hhrwwg39) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3) | [Suena Perreo](https://open.spotify.com/album/3TwLgYFKn6hC7nHqjxi3Kj) | 3:25 |
-| 34 | [Cumbiatronik](https://open.spotify.com/track/1PooFwkjYMobQx9qCozXhb) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Cumbiatronik](https://open.spotify.com/album/1PCXjPBVHXl8pHMsY96yMF) | 3:12 |
+| 34 | [La Gata de la Agricola Oriental](https://open.spotify.com/track/03QlQ3jX2glFnxCj8maCta) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Kery](https://open.spotify.com/artist/3AChMKkXbtIh9WEFhLRk2m) | [La Gata de la Agricola Oriental](https://open.spotify.com/album/0wX6GEW24hy1sAHgiZswlC) | 3:11 |
 | 35 | [Date Date](https://open.spotify.com/track/4JcuKNOS0F59j9jxZXSDP9) | [EPA COLOMBIA](https://open.spotify.com/artist/2IhzfygetoEC4ELz0vop6Q) | [Date Date](https://open.spotify.com/album/2uclE8FZd2pzAH77DQVVr1) | 3:32 |
 | 36 | [Le Encanta](https://open.spotify.com/track/58WWCAi0pGb9Kw49BnGTXI) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [Le Encanta](https://open.spotify.com/album/1TV7WOBMrutnBWvDfkZA8G) | 4:13 |
 | 37 | [MODO CHAKALON](https://open.spotify.com/track/5YZfSRxRixDOVR2O5AQL1F) | [Flacco Lapresion](https://open.spotify.com/artist/0vOkRmt817dkOS5As5CBlm), [Charly whest](https://open.spotify.com/artist/5EZZZ6q2iwiuxkTE0DK3os), [Riko mix](https://open.spotify.com/artist/7xI6d9mjFghcnsmZc3Gfv5) | [MODO CHAKALON](https://open.spotify.com/album/4nsCbDdqTlSIIuHxE4KctY) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 49 | [Oxxo estás ahí?](https://open.spotify.com/track/12QZtyonVLker8V95gYTGB) | [Alexito Mix](https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4) | [Oxxo estás ahí?](https://open.spotify.com/album/1H4Hnnwor3aM8Ceeby2c6N) | 2:54 |
 | 50 | [Que Le Den](https://open.spotify.com/track/7exmywvlfWdBhc2dLI7z4j) | [DJ Yelkrab](https://open.spotify.com/artist/0milslSIsAqYn2xHggVtB5), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Rey Pirin](https://open.spotify.com/artist/1ViM1nVwtJmRm5CSXyU0U9) | [Que Le Den](https://open.spotify.com/album/61VKPG8wyuhRCpKW8CUPAr) | 3:13 |
 
-Snapshot ID: `MTY3NDE5NDQwMCwwMDAwMDAwMDBlMjJjZmY5YjFhYTY0NmNjMTNhNjlmM2UzNTk1ZTk1`
+Snapshot ID: `MTY3NDE5NDQwMCwwMDAwMDAwMGQzNTU3Mzg1OTA1YTQ1MzVmZDRlNjEyNjYwYzlkNzA1`

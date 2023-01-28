@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-157 songs - 8 hr 31 min
+158 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Prelude](https://open.spotify.com/track/0VfCAdeGLmpKvoztILf3cO) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Prelude](https://open.spotify.com/album/6LOyg4gcs4uTxdb5X0pFFK) | 2:03 | 2022-06-24 | 2022-11-08 |
 | [Procyon](https://open.spotify.com/track/1s1lHjPIULWHiKyDnY6MdY) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Altair](https://open.spotify.com/album/63k0EPkRUVxxvAG86udhxo) | 3:06 | 2022-11-07 | 2023-01-14 |
 | [Procyon](https://open.spotify.com/track/35m2vXqGKnKrJZLIq36HQ2) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Procyon](https://open.spotify.com/album/3rJky4N4dLDxv6CkB1zC4X) | 3:06 | 2022-04-01 | 2022-10-02 |
-| [Procyon](https://open.spotify.com/track/72iLPdmzbCfua2zOBCm6L2) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Altair](https://open.spotify.com/album/41oa87H2qcmnWdyS1S0iy0) | 3:06 | 2022-11-07 |  |
+| [Procyon](https://open.spotify.com/track/5c7kAnQfIrU7B5F4T4dxRl) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Altair](https://open.spotify.com/album/1eXcC6om8XZvhgtBQZdP3N) | 3:06 | 2022-11-07 |  |
+| [Procyon](https://open.spotify.com/track/72iLPdmzbCfua2zOBCm6L2) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Altair](https://open.spotify.com/album/41oa87H2qcmnWdyS1S0iy0) | 3:06 | 2022-11-07 | 2023-01-28 |
 | [Promenade \[Femme à l'ombrelle\]](https://open.spotify.com/track/4ydGUYycGcxIPRAgJIi4y5) | [Salvatore Lo Presti](https://open.spotify.com/artist/1W9M2kXXXrRLg4yWOmvNI6) | [Promenade \[Femme à l'ombrelle\]](https://open.spotify.com/album/7DMBeSnTViF6FXRTEJap5c) | 3:05 | 2022-04-01 | 2022-04-21 |
 | [Pure Imagination \(arr\. piano\)](https://open.spotify.com/track/7xTbPvlSUrD5sJBX9TI9dQ) | [Anthony Newley](https://open.spotify.com/artist/5JXvJb6vQkSCFGCh4FCKOI), [Leslie Bricusse](https://open.spotify.com/artist/6WYFvZo9oPFiHYMjEluhG3), [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [World Sleep Day](https://open.spotify.com/album/3afUZpKbOJ5hlayBKAF4nt) | 3:23 | 2022-04-01 |  |
 | [Reverie](https://open.spotify.com/track/4G39FyOiUeoavXx25UaGYu) | [Jacob Ladegaard](https://open.spotify.com/artist/0P1gppJojvkXlXJ8qlphKm), [Jacob's Piano](https://open.spotify.com/artist/7aKABlGTdOJkSML40kD64b) | [The Spheres Collection](https://open.spotify.com/album/6dWViRQjzBsIRMB837s485) | 4:54 | 2022-06-03 | 2022-11-08 |

@@ -753,6 +753,28 @@
     },
     {
       "album": {
+        "name": "Finochetto",
+        "url": "https://open.spotify.com/album/7bm07KeXWVh2tlZfF5ekR8"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Finochetto",
+      "url": "https://open.spotify.com/track/4ykXVIVKVtuaqhRh3RKNHD"
+    },
+    {
+      "album": {
         "name": "Grammy (RKT)",
         "url": "https://open.spotify.com/album/70Jt75b9Pzx0gGY1lRM88m"
       },

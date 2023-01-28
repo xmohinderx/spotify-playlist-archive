@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Peso Pluma, Aleman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,042 likes - 120 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,153 likes - 120 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 67 | [Relojito](https://open.spotify.com/track/1yGJOaPtGUF8xDl3fALd17) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 2:24 |
 | 68 | [Flor](https://open.spotify.com/track/1VL45GP8n9J7NiwYTyWCHf) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Socios I](https://open.spotify.com/album/4RDh4wYltzycXMyqQqJdAq) | 3:56 |
 | 69 | [Bape \(Remix\)](https://open.spotify.com/track/3bfb530Lxa1CSKK1VTksBA) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Bape \(Remix\)](https://open.spotify.com/album/5bKfN6UHIlW3RMEmP10YZP) | 6:02 |
-| 70 | [Michael Jackson](https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Buscándome](https://open.spotify.com/album/6siXXNhY0qQ86Xfk8g5B63) | 1:49 |
-| 71 | [Ta To Saldo](https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Living Life](https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl) | 3:54 |
+| 70 | [Ta To Saldo](https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Living Life](https://open.spotify.com/album/1Etox5CVRSGc6G7BkwFKzl) | 3:54 |
+| 71 | [Michael Jackson](https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Buscándome](https://open.spotify.com/album/6siXXNhY0qQ86Xfk8g5B63) | 1:49 |
 | 72 | [En La Mía](https://open.spotify.com/track/6t4GOthDL0fPEUJCNrILo5) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [En La Mía](https://open.spotify.com/album/2jsEdTepkq0XraH6XmdjKN) | 3:32 |
 | 73 | [Standard](https://open.spotify.com/track/6NL2Lo67Xd7Zdnke6eWqa7) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:31 |
 | 74 | [Seguimos Controlando](https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 2:55 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 119 | [Mi Plebada](https://open.spotify.com/track/4V6o2CAtWXXw48VJCmdzwF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mi Plebada](https://open.spotify.com/album/0I9dpMxQeIbfbjbCRSkqb3) | 3:42 |
 | 120 | [En una Nota](https://open.spotify.com/track/7gStpbmmzKpj6Q3UQIFStv) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Apokalypsis 2](https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH) | 3:37 |
 
-Snapshot ID: `MTY3NDYzNDE3NiwwMDAwMDAwMDIzZWY2NzhhZjJkYzc1NDQyM2RmZWFlMWRiMjhhODRl`
+Snapshot ID: `MTY3NDYzNDE3NiwwMDAwMDAwMDcyY2Q5NmU5OGUyNTlhNDNkZTUyOGFiYjA3ZDA3ZWRm`

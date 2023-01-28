@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illest hardcore K-hip hop tracks are here. (Cover: Jay Park, slom(\ubc15\uc7ac\ubc94, \uc2ac\ub86c)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Illest hardcore K-hip hop tracks are here. (Cover: Gwang-il Jo(\uc870\uad11\uc77c)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K`illin'",
   "tracks": [
     {
@@ -6404,7 +6404,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 289714,
       "name": "EMPIRE",
       "url": "https://open.spotify.com/track/1fx1UBaIhS3EHg3bjhb7K0"
@@ -10998,7 +10998,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 207013,
       "name": "Last Sword Dance (Feat. Koonta)",
       "url": "https://open.spotify.com/track/5lRbrmGzrBFqDRNS95yY9l"
@@ -16444,7 +16444,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 201066,
       "name": "RACE",
       "url": "https://open.spotify.com/track/6ZRDqsJlFXzbIquKhaMdQe"
@@ -16566,6 +16566,24 @@
       "duration_ms": 148720,
       "name": "Rambo",
       "url": "https://open.spotify.com/track/4Cs3S6LEVW6OfqaXgQ2QyW"
+    },
+    {
+      "album": {
+        "name": "Ransom with KozyPop",
+        "url": "https://open.spotify.com/album/5crK00yxvVXOpmkpsxLavI"
+      },
+      "artists": [
+        {
+          "name": "Gwangil Jo",
+          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/4EwJ6dnS6yYNclTI4jEsVL"
     },
     {
       "album": {

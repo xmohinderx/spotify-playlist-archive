@@ -1,18 +1,18 @@
 {
   "description": "The hottest songs from LGBTQIA+ artists. Cover: Sam Smith",
-  "num_followers": 907952,
+  "num_followers": 1038283,
   "original_name": "GLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc0MjI0NCwwMDAwMDAwMGI3YzVkMjhhODc2MmQ3YjA5YmRmYmRjODZmYjQzZDQx",
+  "snapshot_id": "MTY3NDgyMTEyMCwwMDAwMDAwMDU5YzNkYmFlOGU3OWFiZjk0Y2I5MzEyMzY2MTYzNjU5",
   "tracks": [
     {
-      "added_at": "2023-01-24 14:00:00",
+      "added_at": "2023-01-27 12:05:20",
       "album": {
-        "name": "Unholy (feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
       "artists": [
         {
@@ -20,13 +20,17 @@
           "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+      "duration_ms": 229604,
+      "name": "I\u2019m Not Here To Make Friends (feat. Calvin Harris & Jessie Reyez)",
+      "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
     },
     {
       "added_at": "2023-01-24 14:00:00",

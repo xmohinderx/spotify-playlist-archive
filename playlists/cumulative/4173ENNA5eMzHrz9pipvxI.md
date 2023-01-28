@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Lucas &amp; Steve x Yves V
 
-518 songs - 1 day 1 hr 0 min
+519 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [MAS GASOLINA \(feat\. N.F.I\) \- Raffa FL Remix](https://open.spotify.com/track/2bN2G0rRvutCS9VscUvdtr) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [N.F.I](https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd) | [MAS GASOLINA \(feat\. N.F.I\) \[Raffa FL Remix\]](https://open.spotify.com/album/1MYLHN9B1U64X1S2ffZBhn) | 3:15 | 2022-12-01 | 2022-12-16 |
 | [MAYHEM](https://open.spotify.com/track/4BIDAroSodUwRpmMfmN99K) | [MXRCVRY](https://open.spotify.com/artist/7fcxzGqZfSRGOZp2KyCxpf) | [MAYHEM](https://open.spotify.com/album/0KMydElRr2Her3IGjGbNgF) | 1:56 | 2022-12-08 | 2023-01-06 |
 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 | 2022-08-05 | 2022-08-20 |
+| [Midgard](https://open.spotify.com/track/7GdiWNAHrnRXo0pkjJzP6S) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Midgard](https://open.spotify.com/album/70kX5GXUzal2yHqStkRm9D) | 4:47 | 2023-01-27 |  |
 | [Mirror Mirror \(feat\. TELLER\)](https://open.spotify.com/track/0oI9LJYGtAlT3m1D3hWqbA) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [TELLER](https://open.spotify.com/artist/3hhmURITBjGyUKf4IuOCjt) | [Mirror Mirror \(feat\. TELLER\)](https://open.spotify.com/album/4ZiEHfXY1HiQTYBTTku6PE) | 4:32 | 2022-06-24 | 2022-07-09 |
 | [MOLLY](https://open.spotify.com/track/7sJdjALeEOXSIIvlMPdJAe) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [MOLLY](https://open.spotify.com/album/3EPry0N4okmOA33vzttk8j) | 3:42 | 2022-12-08 | 2023-01-06 |
 | [Move My Feet](https://open.spotify.com/track/38GzuWkCOIRIio9uau2OEU) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [Move My Feet](https://open.spotify.com/album/68JQhazqPrUrAzisLzU0G6) | 3:18 | 2022-10-14 | 2022-10-28 |

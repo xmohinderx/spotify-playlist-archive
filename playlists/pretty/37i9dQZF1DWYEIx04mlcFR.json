@@ -1,12 +1,12 @@
 {
   "description": "la nueva ola de artistas con Greta Ela y Palmasur en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 35111,
+  "num_followers": 35118,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDI0NDgyMCwwMDAwMDAwMDUxZTk1MzA1ZGU3ZWE4MzY5Njg5Y2I4MmIxODkzMTVj",
+  "snapshot_id": "MTY3NDg0ODU0NSwwMDAwMDAwMDkyNmQ1NTRiNTMzZGNmYzk5ZDk2YmJmM2RhN2Q4ODgw",
   "tracks": [
     {
       "added_at": "2023-01-20 15:31:21",
@@ -69,6 +69,38 @@
       "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
+      "added_at": "2023-01-27 19:42:25",
+      "album": {
+        "name": "DAMALEONA, VOL.3",
+        "url": "https://open.spotify.com/album/3l2saSDzvDxeviPVDMNnzY"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 154361,
+      "name": "REPROGRAMAR",
+      "url": "https://open.spotify.com/track/2dvxBDC0XVxQDk584mjn0s"
+    },
+    {
+      "added_at": "2023-01-27 19:42:25",
+      "album": {
+        "name": "Let Me Down Slow",
+        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Let Me Down Slow",
+      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
+    },
+    {
       "added_at": "2023-01-20 15:31:21",
       "album": {
         "name": "Paris Texas",
@@ -99,6 +131,38 @@
       "duration_ms": 210357,
       "name": "TQM",
       "url": "https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48"
+    },
+    {
+      "added_at": "2023-01-27 19:42:25",
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "duration_ms": 212869,
+      "name": "Contraluz",
+      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
+    },
+    {
+      "added_at": "2023-01-27 19:42:25",
+      "album": {
+        "name": "A Tu Lado",
+        "url": "https://open.spotify.com/album/3BfR38sPExTxHy9Awxrn9J"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc"
     },
     {
       "added_at": "2023-01-20 15:31:21",
@@ -583,22 +647,6 @@
       "duration_ms": 159453,
       "name": "El Club",
       "url": "https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD"
-    },
-    {
-      "added_at": "2023-01-20 15:31:21",
-      "album": {
-        "name": "Colorimetr\u00eda",
-        "url": "https://open.spotify.com/album/3A1zt3znZxrX2na0tkDxbE"
-      },
-      "artists": [
-        {
-          "name": "Caroh",
-          "url": "https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Mal",
-      "url": "https://open.spotify.com/track/0fcOslEdofeYkzDQHm97t5"
     },
     {
       "added_at": "2023-01-20 15:31:21",
@@ -1175,22 +1223,6 @@
     {
       "added_at": "2023-01-20 15:31:21",
       "album": {
-        "name": "\u00bfTe Puedo Llamar?",
-        "url": "https://open.spotify.com/album/70tqqAbqB3ial4rZZVzmDz"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 116400,
-      "name": "El Caf\u00e9 No Sabe Igual Sin Ti",
-      "url": "https://open.spotify.com/track/5EksyYBHY38ERxBH5oLfi2"
-    },
-    {
-      "added_at": "2023-01-20 15:31:21",
-      "album": {
         "name": "como me encanta",
         "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
       },
@@ -1243,22 +1275,6 @@
     {
       "added_at": "2023-01-20 15:31:21",
       "album": {
-        "name": "Sanal\u00f6",
-        "url": "https://open.spotify.com/album/18N5wazSsD3jkwYlT8AAem"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 207403,
-      "name": "Sanal\u00f6",
-      "url": "https://open.spotify.com/track/4a3TYChLrUfnKgTjTxZYFB"
-    },
-    {
-      "added_at": "2023-01-20 15:31:21",
-      "album": {
         "name": "Idiota",
         "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 179959,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
-    },
-    {
-      "added_at": "2023-01-20 15:31:21",
-      "album": {
-        "name": "LA PUERTA",
-        "url": "https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj"
-      },
-      "artists": [
-        {
-          "name": "Steff",
-          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
-        }
-      ],
-      "duration_ms": 183225,
-      "name": "LA PUERTA",
-      "url": "https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun"
     }
   ],
   "unique_name": "la pop~wave",

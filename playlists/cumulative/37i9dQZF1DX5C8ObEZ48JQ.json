@@ -1415,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "And It Goes Like",
+        "url": "https://open.spotify.com/album/7bIp5rVA68IEfpX7rvZGDs"
+      },
+      "artists": [
+        {
+          "name": "Chris Adjei",
+          "url": "https://open.spotify.com/artist/4dsMlvMbs5sloze4XAnowk"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199542,
+      "name": "Happiness Suits You",
+      "url": "https://open.spotify.com/track/1KKHBYV7ce3a7HiCWNbMxJ"
+    },
+    {
+      "album": {
         "name": "YO NI KA",
         "url": "https://open.spotify.com/album/3HRhmAyzFPKFOhcomyH7FC"
       },

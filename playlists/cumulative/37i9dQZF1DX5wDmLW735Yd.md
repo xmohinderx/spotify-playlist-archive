@@ -2,16 +2,16 @@
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: Luude, Issey Cross & Moby
+> The world's biggest Drum 'n' Bass playlist! Cover: Metrik
 
-361 songs - 1 day 0 hr 1 min
+362 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18 & Over](https://open.spotify.com/track/70AaGg3ZxPu5l59n1Wltcq) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/27l2BTUmETSHmFQwsZyzTa) | 3:38 | 2022-08-24 | 2022-09-02 |
 | [A London Sumtin'](https://open.spotify.com/track/28EBBI20LwBfGWC5Bgsv9o) | [Tek 9](https://open.spotify.com/artist/7kOnKv7CHaq24tNAa2moIZ) | [Breakin' Sound Barriers \(The Oldies but Goodies 91\-95 \)](https://open.spotify.com/album/4WwlNtaV83J1QEZODGK0VH) | 5:22 | 2022-08-24 | 2022-09-02 |
 | [Absolutely True](https://open.spotify.com/track/65E9N8x7N7mp4jUre4Ksyl) | [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs), [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM) | [Absolutely True](https://open.spotify.com/album/0iaDiTRH86l130rPFshwIV) | 6:04 | 2022-06-23 | 2022-06-28 |
-| [Affection](https://open.spotify.com/track/1fLbXvIyEUKicyDAp3uwJE) | [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH), [Alora](https://open.spotify.com/artist/5R3XIbPisM8yZmZWtRrvzE), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Affection](https://open.spotify.com/album/6DvBEimQ55NGAj9ErSAsgx) | 4:34 | 2023-01-13 |  |
+| [Affection](https://open.spotify.com/track/1fLbXvIyEUKicyDAp3uwJE) | [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH), [Alora](https://open.spotify.com/artist/5R3XIbPisM8yZmZWtRrvzE), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Affection](https://open.spotify.com/album/6DvBEimQ55NGAj9ErSAsgx) | 4:34 | 2023-01-13 | 2023-01-28 |
 | [Again](https://open.spotify.com/track/4ZKyMOBSd2M7yTDEoa2LlP) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Again](https://open.spotify.com/album/0O8csLJ3maexykCLSmehZd) | 3:51 | 2022-04-08 | 2022-07-28 |
 | [Against The Tide](https://open.spotify.com/track/54Q384UbVZGrgxH02WEmlk) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Against The Tide](https://open.spotify.com/album/0Rym6PJvFC1jVwCx3jsRjT) | 3:29 | 2023-01-26 |  |
 | [Airplane \(Culture Shock Remix\)](https://open.spotify.com/track/65HLjHSipFfvIU3082WFmS) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Airplane \(Culture Shock Remix\)](https://open.spotify.com/album/1TVeIv9gfLAukqQ2xcXXtf) | 4:24 | 2022-04-08 | 2022-07-29 |
@@ -163,6 +163,7 @@
 | [I Got You](https://open.spotify.com/track/5MexmPWHh8caUNsEAPpVfE) | [Polygon](https://open.spotify.com/artist/5BGIoAtF2cwgcydpnUyFkF), [bvd kult](https://open.spotify.com/artist/0rP3c0AHpXNvqpVxfQMF13) | [I Got You](https://open.spotify.com/album/6qZ82DeV8C756F5GcaKaCw) | 2:50 | 2022-04-08 | 2022-07-11 |
 | [I Need To Feel](https://open.spotify.com/track/5NOds8na1gzgwXlAo1eGoh) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [I Need To Feel](https://open.spotify.com/album/6Wu75AP5tQnH26vWoYcoRM) | 3:36 | 2022-04-08 | 2022-09-24 |
 | [If You Want It](https://open.spotify.com/track/7H7AUeAy7rTG0fCCa1cGtm) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [If You Want It](https://open.spotify.com/album/63FhryWz726IV3x1Pf17vc) | 3:37 | 2022-04-08 | 2022-07-29 |
+| [Immortal](https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv) | 4:08 | 2023-01-27 |  |
 | [Infinite \(Freedom\)](https://open.spotify.com/track/0vN9DaL27w0EKhcgJBf7Bi) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [iiola](https://open.spotify.com/artist/3YSLjtLPCULe41kgElVrWj) | [Infinite \(Freedom\)](https://open.spotify.com/album/3EzpNsSk1ZUWc0vAoM2zp0) | 3:45 | 2022-04-08 |  |
 | [Infinity](https://open.spotify.com/track/29SdwNBM9Veq6dM04W2JKN) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC) | [Infinity](https://open.spotify.com/album/38qsNzezB0gCCk8N74lPJV) | 4:09 | 2022-06-16 | 2022-06-24 |
 | [Into The Night](https://open.spotify.com/track/60FYYWyVBHGWgVOEsQweuS) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [After Dark](https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y) | 4:13 | 2022-09-23 | 2023-01-12 |

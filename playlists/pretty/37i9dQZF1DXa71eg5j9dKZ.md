@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Melle Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,631 likes - 119 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,724 likes - 119 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

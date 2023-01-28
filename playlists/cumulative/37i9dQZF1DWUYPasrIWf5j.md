@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-106 songs - 6 hr 3 min
+108 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,12 +74,13 @@
 | [Put Your Records On](https://open.spotify.com/track/6lOjXZgnwPzXXjZCPGXann) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Uke Songs to Fall in Love](https://open.spotify.com/album/0uU1jAQCgqDhJdLVYSzJVD) | 3:39 | 2022-05-20 |  |
 | [Riptide](https://open.spotify.com/track/26WunHZg3SjYMOu8SzNPGF) | [Dev Lin](https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88) | [Riptide](https://open.spotify.com/album/7AWubZyMIE5eGvfG9UiOhV) | 3:35 | 2022-05-20 |  |
 | [Rude](https://open.spotify.com/track/0VL4jLupGZHGv7RYTX6RSM) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pleasant Uke](https://open.spotify.com/album/1HH6lGqg8eZH3im3JYRrZm) | 2:29 | 2022-05-20 |  |
+| [Save Your Tears](https://open.spotify.com/track/5PilZ505kJWTzIMkbvWMGX) | [Thiago Ferna](https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu) | [Save Your Tears](https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K) | 3:39 | 2023-01-27 |  |
 | [Señorita](https://open.spotify.com/track/6UtasvGN57nLSQURZzSMYh) | [Michelle Turtle](https://open.spotify.com/artist/4VkmY9OKeXpPeW0RmgbfBi) | [Señorita](https://open.spotify.com/album/2gZNANSVZxiDwPxI1AdAfK) | 2:41 | 2022-12-01 |  |
 | [Shivers](https://open.spotify.com/track/0aWhxq7Ivc637X7xmjofaA) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Shivers](https://open.spotify.com/album/3FP08BXh4opzeqPPYPN7Tf) | 3:44 | 2022-12-01 |  |
 | [Snap](https://open.spotify.com/track/6pLMBG5fMo3rAUkjjW7CyR) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Until I Found You](https://open.spotify.com/album/5OcKOXmqT3D3LYhHPSsK03) | 3:17 | 2022-12-01 |  |
 | [So Good](https://open.spotify.com/track/2zdjbWBFZxKjzBywvWFcnR) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [So Good](https://open.spotify.com/album/7ombR15MxV8cC7ZSrdu83X) | 3:23 | 2022-12-22 |  |
 | [Soak Up The Sun](https://open.spotify.com/track/2l2vKPlI3MCAHcEBeSg5gJ) | [Shelli Daniels](https://open.spotify.com/artist/70tHHAa0DiXmNFKIPIg9Ws) | [Modern Uke Hits](https://open.spotify.com/album/4ZDNJ6Oh8BxYj96RyqgekC) | 3:46 | 2022-05-20 |  |
-| [Soak Up the Sun](https://open.spotify.com/track/03hVrrbV52cKFbg1stXgmS) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits](https://open.spotify.com/album/1dKU3TRpFCRwcDAheqiyPe) | 3:16 | 2022-07-26 |  |
+| [Soak Up the Sun](https://open.spotify.com/track/03hVrrbV52cKFbg1stXgmS) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits](https://open.spotify.com/album/1dKU3TRpFCRwcDAheqiyPe) | 3:16 | 2022-07-26 | 2023-01-28 |
 | [Soak up the Sun](https://open.spotify.com/track/1BT8IDlFYmMel8FidLu0oK) | [The Smooth Day Sessions](https://open.spotify.com/artist/7nlyKpx26nRLVda7O4NEA5) | [Ukulele Surf Style \(Acoustic Style Covers\)](https://open.spotify.com/album/73ReNL7RJuuQppRERCQqOd) | 3:16 | 2022-05-20 | 2022-07-29 |
 | [Somebody That I Used to Know](https://open.spotify.com/track/4R7lHfZHL0rYnN146xuCPb) | [Daniel Williams\-Lee](https://open.spotify.com/artist/7yBewkClSLIB0euFQeETIb) | [Somebody That I Used to Know](https://open.spotify.com/album/12uMPptt5VtqkGBGszzkL4) | 4:14 | 2022-05-20 |  |
 | [Something](https://open.spotify.com/track/21ANW6JqDX85o3AXlhoVhj) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Tiny Uke Orchestra](https://open.spotify.com/album/5bCq8lFqofxI9qbBhQqUam) | 2:48 | 2022-07-26 |  |
@@ -107,6 +108,7 @@
 | [Until I Found You](https://open.spotify.com/track/1UpsDYHk9Wuwa93WTSTtG3) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Until I Found You](https://open.spotify.com/album/5OcKOXmqT3D3LYhHPSsK03) | 2:57 | 2022-12-01 |  |
 | [Upside Down](https://open.spotify.com/track/2ceP1Xn0blgkm4lF2ZSztF) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Pleasant Uke](https://open.spotify.com/album/1HH6lGqg8eZH3im3JYRrZm) | 3:03 | 2022-05-20 |  |
 | [Waterloo Sunset](https://open.spotify.com/track/6MjhsQAxVzHCwhXkql67ZR) | [Leon Leke](https://open.spotify.com/artist/3unrOB4am4cScXAz6u2CHe) | [Waterloo Sunset](https://open.spotify.com/album/1PUvm2zu9tv6vfCT8TZfAI) | 3:30 | 2022-05-20 |  |
+| [We Don't Talk Anymore](https://open.spotify.com/track/504T28mwCWdnMMK8IufHcv) | [Thiago Ferna](https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu) | [Save Your Tears](https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K) | 3:58 | 2023-01-27 |  |
 | [What A Wonderful World](https://open.spotify.com/track/0tSvJUcVba6J2hDazrQLtt) | [Fred Turnquist](https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J) | [Stand By Me](https://open.spotify.com/album/5OOlenAp1WQiqSzbmUZgYj) | 2:12 | 2022-05-20 |  |
 | [Wild World](https://open.spotify.com/track/600Ii6Xs0MoILjUlcKBrX8) | [Agalipe](https://open.spotify.com/artist/7cdMrWrv70SgsvloDBbmOa) | [Wild World](https://open.spotify.com/album/0VOwzs047lYa3PluEQlD2D) | 2:35 | 2022-05-20 |  |
 | [Wonderwall](https://open.spotify.com/track/3xPnYmzD1hTbkOu9omY1mk) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Wonderwall](https://open.spotify.com/album/7ohyq2hWw1wwEqMPyoSgUG) | 3:28 | 2022-07-01 |  |

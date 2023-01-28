@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Patrick Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,817 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,843 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 7 | [Rooftop](https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Rooftop](https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL) | 3:19 |
 | 8 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 |
 | 9 | [Can't Get Enough](https://open.spotify.com/track/455RNF1FhYAjgRI0nPI9DA) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH), [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe) | [Like That](https://open.spotify.com/album/3Q8s50HFIdU4w35szX7Mpn) | 3:04 |
-| 10 | [Cinderblock](https://open.spotify.com/track/1JhjtiHsJubsKNZgd3YTdX) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Cinderblock](https://open.spotify.com/album/0rGPPNjLXKGxrqY6m3dYXr) | 3:03 |
+| 10 | [Cinderblock](https://open.spotify.com/track/79soO0pk1njm8mrvl605A7) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Cinderblock](https://open.spotify.com/album/7A3TarqkpT03UKlniya5Bl) | 3:03 |
 | 11 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 |
 | 12 | [Burning Bridges](https://open.spotify.com/track/5vDkKykIOkzmx7ExSux8kd) | [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO) | [Burning Bridges](https://open.spotify.com/album/6zFLd973JFMHYZOxr8F9Lm) | 4:01 |
 | 13 | [Sandrail Silhouette](https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Sandrail Silhouette](https://open.spotify.com/album/2vBvUI6HDD4bClYmKl16yw) | 4:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Flight from Angkor](https://open.spotify.com/track/1KGPPuM4jbFy5DEWr3bXWg) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Time's Arrow](https://open.spotify.com/album/0mOMgzeAy3gyb7P2J8gIzY) | 4:07 |
 | 75 | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/track/2liSXJK5oGKFch8OZ0Uinn) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Picking Up \(feat\. Deb Never\)](https://open.spotify.com/album/1JSOuBXhYbc5c3IAnwTAHV) | 2:55 |
 
-Snapshot ID: `MTY3NDc3NDAwMCwwMDAwMDAwMDM0YTJkMWNjN2M1MTgwMzc4YThiYWM0NjEyM2YxMTM4`
+Snapshot ID: `MTY3NDc3NDAwMCwwMDAwMDAwMDhjYTkwZDU3NGQ3OTMxMTNhMDk4OGMzOTAxODQzYjkx`

@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Rachel Chinouriri",
-  "num_followers": 1703468,
+  "num_followers": 1703552,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDUwMzkyNSwwMDAwMDAwMGVmOGY0ZjA3ZDI3NDdmNWUzYWVkYTMxNTE4ZGQ0MGNm",
+  "snapshot_id": "MTY3NDUwMzkyNSwwMDAwMDAwMGU5MzJmMWU3Nzk3Yzk1OWY4MDE3MjFlMmFmN2Q0NWYy",
   "tracks": [
     {
       "added_at": "2023-01-23 19:58:45",
@@ -935,18 +935,22 @@
     {
       "added_at": "2023-01-23 19:58:45",
       "album": {
-        "name": "rising",
-        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
+        "name": "so easily (with skaiwater)",
+        "url": "https://open.spotify.com/album/44KLAGMawWtI08ASBB8Ok6"
       },
       "artists": [
         {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+          "name": "Prentiss",
+          "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
+        },
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
         }
       ],
-      "duration_ms": 139386,
-      "name": "frown",
-      "url": "https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM"
+      "duration_ms": 219737,
+      "name": "so easily (with skaiwater)",
+      "url": "https://open.spotify.com/track/1rPW3G9rlPk4etgNPwR3nu"
     },
     {
       "added_at": "2023-01-23 19:58:45",
@@ -967,22 +971,18 @@
     {
       "added_at": "2023-01-23 19:58:45",
       "album": {
-        "name": "so easily (with skaiwater)",
-        "url": "https://open.spotify.com/album/44KLAGMawWtI08ASBB8Ok6"
+        "name": "rising",
+        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
       },
       "artists": [
         {
-          "name": "Prentiss",
-          "url": "https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H"
-        },
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 219737,
-      "name": "so easily (with skaiwater)",
-      "url": "https://open.spotify.com/track/1rPW3G9rlPk4etgNPwR3nu"
+      "duration_ms": 139386,
+      "name": "frown",
+      "url": "https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM"
     },
     {
       "added_at": "2023-01-23 19:58:45",

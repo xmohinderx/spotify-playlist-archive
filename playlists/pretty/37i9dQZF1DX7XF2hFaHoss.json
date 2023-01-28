@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Lizzy McAlpine",
-  "num_followers": 142499,
+  "num_followers": 142569,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDYwZmZkNDdjYTcyYWY0ZmIyMTZkZjMzZTUzMDQyZjk2",
+  "snapshot_id": "MTY2ODc0NzYwMCwwMDAwMDAwMDYyYWY3MWMzMWJlOGYzODJjNGM0MWQwZjQ2ODAwZGEz",
   "tracks": [
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Bedouine (Deluxe)",
-        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Nice and Quiet",
-      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "The Closest Thing to Home",
         "url": "https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 241240,
       "name": "Great Divide",
       "url": "https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "Bedouine (Deluxe)",
+        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Nice and Quiet",
+      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
     },
     {
       "added_at": "2021-03-02 01:07:20",

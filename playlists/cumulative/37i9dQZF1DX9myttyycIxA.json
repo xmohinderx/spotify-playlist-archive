@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Miss Grit",
+  "description": "Underground indie rock gems. Cover: ghost orchard",
   "name": "undercurrents",
   "tracks": [
     {
@@ -410,6 +410,24 @@
       "duration_ms": 147966,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3oskfuB8woAgGFHSypaElq"
+    },
+    {
+      "album": {
+        "name": "all in",
+        "url": "https://open.spotify.com/album/1RkdjUcv7ylxxn1rJT0iI4"
+      },
+      "artists": [
+        {
+          "name": "ghost orchard",
+          "url": "https://open.spotify.com/artist/49RJFYAmLSE8FMBQ1GjguG"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83133,
+      "name": "all in",
+      "url": "https://open.spotify.com/track/58tzJQpMWgsPaWmSypQ2AN"
     },
     {
       "album": {
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 183706,
       "name": "Breaking Up",
       "url": "https://open.spotify.com/track/5adHl5i4aUJD8iN7HXSb25"
@@ -1992,6 +2010,24 @@
       "duration_ms": 183139,
       "name": "bundle of hyacinths (feat. Samia)",
       "url": "https://open.spotify.com/track/2SQ0rlJIzZSnDQTekYQhsw"
+    },
+    {
+      "album": {
+        "name": "burning love letters",
+        "url": "https://open.spotify.com/album/3JJQviIafzIDT9KKGu2End"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154621,
+      "name": "burning love letters",
+      "url": "https://open.spotify.com/track/5s3AtbTWwXzd2x5hLnNm6I"
     },
     {
       "album": {
@@ -3430,7 +3466,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 124532,
       "name": "Demons at the Dinner Table",
       "url": "https://open.spotify.com/track/03J7Tq3IWvGel6tvXTYsqm"
@@ -7219,6 +7255,24 @@
     },
     {
       "album": {
+        "name": "Joiner",
+        "url": "https://open.spotify.com/album/6H6CwJUzsUIwxiT8vrMokD"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239675,
+      "name": "Joiner",
+      "url": "https://open.spotify.com/track/1y19yprweVojkuEr954I0G"
+    },
+    {
+      "album": {
         "name": "Judy / Jeremy's Wedding",
         "url": "https://open.spotify.com/album/28bMFSMKFsWPLsJfgaQlB3"
       },
@@ -7854,6 +7908,24 @@
       "duration_ms": 187940,
       "name": "Let's Pretend We're Not in Love",
       "url": "https://open.spotify.com/track/5fPEnt8N9yXsRNGSVxycz4"
+    },
+    {
+      "album": {
+        "name": "Let's Try This Again",
+        "url": "https://open.spotify.com/album/5910XemVAodsss8PX7PoBo"
+      },
+      "artists": [
+        {
+          "name": "eliza elliott",
+          "url": "https://open.spotify.com/artist/0HLxtYwwRy4qx1r8utJRAq"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188360,
+      "name": "Let's Try This Again",
+      "url": "https://open.spotify.com/track/61wN5H9ijd5gZ3wR5e2zDv"
     },
     {
       "album": {
@@ -10008,7 +10080,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 272453,
       "name": "Quotidian",
       "url": "https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O"
@@ -13356,7 +13428,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 262826,
       "name": "Unfun",
       "url": "https://open.spotify.com/track/6Yk5oWoxAXYgND1Yq8Mx0u"

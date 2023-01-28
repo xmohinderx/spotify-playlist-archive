@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,119 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,117 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 66 | [Thing For You \(With Martin Solveig\)](https://open.spotify.com/track/0IhTEIjFaRt3B2NQYf9azQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Thing For You \(With Martin Solveig\)](https://open.spotify.com/album/1cbCgek1ORPGZFKlBIhBmH) | 3:11 |
 | 67 | [Lion](https://open.spotify.com/track/6GWNh4A7t4UHtUupgL5Evj) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lion](https://open.spotify.com/album/4ASMkFoc7GDXkWqvv9zHwG) | 3:36 |
 | 68 | [Walk Me Home \- R3HAB Remix](https://open.spotify.com/track/7wJFBZXG4AFQS9YwBQLkqL) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Walk Me Home \(R3HAB Remix\)](https://open.spotify.com/album/7dcv4xAh00fkPQZrOMNYly) | 2:39 |
-| 69 | [Teenage Minds](https://open.spotify.com/track/2anII3P3z1liigla0dKqrb) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Strawtown](https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu) | 3:07 |
-| 70 | [Dynamite \(feat\. Pretty Sister\)](https://open.spotify.com/track/2Ae5awwKvQpTBKQHr1TYCg) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ), [Pretty Sister](https://open.spotify.com/artist/4bvWFV51SAEocM22uiDOza) | [Dynamite \(feat\. Pretty Sister\)](https://open.spotify.com/album/1B0jux6nCrSuez1iPS7tUJ) | 3:15 |
+| 69 | [Dynamite \(feat\. Pretty Sister\)](https://open.spotify.com/track/2Ae5awwKvQpTBKQHr1TYCg) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ), [Pretty Sister](https://open.spotify.com/artist/4bvWFV51SAEocM22uiDOza) | [Dynamite \(feat\. Pretty Sister\)](https://open.spotify.com/album/1B0jux6nCrSuez1iPS7tUJ) | 3:15 |
+| 70 | [Teenage Minds](https://open.spotify.com/track/2anII3P3z1liigla0dKqrb) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Strawtown](https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu) | 3:07 |
 | 71 | [Blinding Lights](https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Blinding Lights](https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD) | 2:10 |
 | 72 | [OK \- Ofenbach Remix](https://open.spotify.com/track/1iPWXMClLL4AZtBuMD0lh3) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [OK \(The Remixes\)](https://open.spotify.com/album/2ridyWvBRA24PXySJ2qeSS) | 3:04 |
 | 73 | [Complicated \- Faustix Remix](https://open.spotify.com/track/0HbPfCPmndvkevg4TjwcJQ) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Complicated \(Faustix Remix\)](https://open.spotify.com/album/0llzH5uVLmppDsZQApY6du) | 2:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [We Were Young](https://open.spotify.com/track/1USj0dJqfBxnOiwiOuB7pU) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [We Were Young](https://open.spotify.com/album/3kZ0FRj4CvEhzvfAws1YfJ) | 3:34 |
 | 80 | [Too Close](https://open.spotify.com/track/4Gy6pnhY9GGE3nqD3d0CmU) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT), [Dan Talevski](https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH) | [Too Close](https://open.spotify.com/album/1qndvyChhfvNmTWNi7eLiE) | 2:27 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDhmMjliOGQxY2RkYmFkYmE3M2MwZmI1NmFlYjY4YmEw`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDNmMjRjMTFlM2EyNDZjNmZhNjU3NTEyODcwYmZjZTNl`

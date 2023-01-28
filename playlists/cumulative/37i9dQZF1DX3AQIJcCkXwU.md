@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-145 songs - 10 hr 51 min
+146 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,13 +104,14 @@
 | [Qalanderi](https://open.spotify.com/track/5yXMdFKXTuTfkMUOOLPgVa) | [Cheb i Sabbah](https://open.spotify.com/artist/1RTVukXrK45mKMIVFFEMM0) | [Devotion](https://open.spotify.com/album/2HKgEZtNG7s54IKPVKe7X0) | 7:09 | 2022-07-18 |  |
 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 | 2022-04-04 |  |
 | [Raga Navel](https://open.spotify.com/track/64PFSlID3y1Pm3gqM6RUiG) | [Harsh Marwah](https://open.spotify.com/artist/1OTNhpMTizcJQibzfrT5tV) | [Raga Rasa](https://open.spotify.com/album/4bVOOvwB7z5RiGrdRSAwyG) | 5:00 | 2022-04-04 |  |
-| [Raga Sundara](https://open.spotify.com/track/5GD43kQemov0BAih8Mb5Hg) | [Yantra Mantra](https://open.spotify.com/artist/1eE1hRgkFrYyoFuCO3WSOZ) | [Buddah's Chill, Vol\. 7 \(Buddha Asian Bar Lounge\)](https://open.spotify.com/album/7yb68aQVIHJeNfbdSjBnMj) | 4:06 | 2022-04-04 |  |
+| [Raga Sundara](https://open.spotify.com/track/5GD43kQemov0BAih8Mb5Hg) | [Yantra Mantra](https://open.spotify.com/artist/1eE1hRgkFrYyoFuCO3WSOZ) | [Buddah's Chill, Vol\. 7 \(Buddha Asian Bar Lounge\)](https://open.spotify.com/album/7yb68aQVIHJeNfbdSjBnMj) | 4:06 | 2022-04-04 | 2023-01-28 |
 | [Ram Dhonu](https://open.spotify.com/track/6Du5SpFeZ1ElDZ561LAqwM) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Ram Dhonu](https://open.spotify.com/album/76fKqRACirAwXBuJcBJMN2) | 5:00 | 2022-04-04 |  |
 | [Reflection](https://open.spotify.com/track/6htEm5TojHcHv4eRWSedAY) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Reverie](https://open.spotify.com/album/3YGjIM9DblIObRjp1hOKua) | 2:28 | 2022-04-04 | 2022-07-29 |
 | [Reflection](https://open.spotify.com/track/7fJLwrHhGduNo7AuiNbHJB) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Reverie](https://open.spotify.com/album/4S1faFQc9P8F6FNEWaH5za) | 2:28 | 2022-07-18 |  |
 | [Remote](https://open.spotify.com/track/5IrLLzBYXza3WcB89KjioW) | [Om Lighthouse](https://open.spotify.com/artist/5AzmHIExEw7ULbdoni3rif) | [Remote](https://open.spotify.com/album/2rGJ64xAX9hUmaapGFRCGD) | 5:15 | 2022-04-04 |  |
 | [Restful Dream](https://open.spotify.com/track/57wGsyF2YSyRkHZrksQXrB) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Dream](https://open.spotify.com/album/6wZFjc47KdhamOOPBMrSHL) | 6:06 | 2022-08-23 |  |
 | [Restful Soul](https://open.spotify.com/track/5hh8fqY2bwggOlpxqdXKAT) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Soul](https://open.spotify.com/album/5gLOfe4Vaf4mESWj1M65v6) | 3:07 | 2023-01-13 |  |
+| [Rishikesh](https://open.spotify.com/track/1n7VIBnXZFZlZZpRynyKCD) | [AG Sintonia Project](https://open.spotify.com/artist/1us57VQ78Hp3nvNoPyozqF) | [Rishikesh](https://open.spotify.com/album/0KjdSZKXIKeptP5glnc6Ao) | 3:42 | 2023-01-27 |  |
 | [Road to Asarganj](https://open.spotify.com/track/0CGvs9ThJYRe9fE2cEVfAm) | [Shanti Kapil](https://open.spotify.com/artist/49UVawvMt5wKFBt7FPRT35) | [Bekhudi](https://open.spotify.com/album/2yCK96ne1ESoQGSrFHXyE8) | 5:43 | 2022-04-04 | 2022-04-21 |
 | [Road to Pune](https://open.spotify.com/track/0IqyKkvBpfkwWQMQW0pYTV) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Peace From Within](https://open.spotify.com/album/3xyPN8gruwFwGpIu3y4uRz) | 3:04 | 2022-07-18 |  |
 | [Sachetan](https://open.spotify.com/track/6nDSQdvkVHIWW9ga17UUnL) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 3:01 | 2022-05-23 |  |

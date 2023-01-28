@@ -4,7 +4,7 @@
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-179 songs - 11 hr 39 min
+180 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [cold water](https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [cold water](https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe) | 3:53 | 2021-10-22 |  |
 | [Colder](https://open.spotify.com/track/50D5TdxfGvHOfNQnnKXanR) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Cold Nights](https://open.spotify.com/album/7cCCG1ufSwqqtw47w61sO0) | 4:37 | 2021-10-22 |  |
 | [Comes and Goes](https://open.spotify.com/track/5Id1y11bJjZcp5sinq1KMb) | [Bobby, I Miss You](https://open.spotify.com/artist/37UWdRy8Gnj8oW9KvFuDYm) | [Comes and Goes](https://open.spotify.com/album/5HqzzZRCBuNttUPXu3U4kz) | 3:06 | 2021-10-22 |  |
+| [Dark Reflection](https://open.spotify.com/track/2XMvL8Bjeq5VUzZgFJE56D) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Dark Reflection](https://open.spotify.com/album/4owCDcV0Y7w6BmKxnZ9DkP) | 4:20 | 2023-01-27 |  |
 | [Dissolving](https://open.spotify.com/track/5P3JJGeG536cS1ciDnJsCk) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Welcome Home](https://open.spotify.com/album/2EfMonuPPufarxkmaLwvxC) | 3:37 | 2021-10-22 | 2022-07-29 |
 | [Dissolving](https://open.spotify.com/track/6KqSaedLlwolztRtpOYUaN) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Welcome Home](https://open.spotify.com/album/0b4TocuPShTGNAFy5tZx73) | 3:37 | 2021-10-22 |  |
 | [Don't Forget About Me](https://open.spotify.com/track/4gVZhkcsZcwQ4mU1gEeXEO) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [XIII](https://open.spotify.com/album/6gAsOoMZVH5HwQWFBnIWcm) | 4:28 | 2021-10-22 |  |

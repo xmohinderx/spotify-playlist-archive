@@ -4,7 +4,7 @@
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-213 songs - 11 hr 38 min
+214 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Don't Shoot Me Santa](https://open.spotify.com/track/0VnM98fVPYamafDoW7yza7) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Ryan Pardey](https://open.spotify.com/artist/7ywLsMIT1NHbZS6hxGScvm) | [Don't Waste Your Wishes](https://open.spotify.com/album/30huok00bCQ0TxIJDtz09w) | 4:05 | 2022-11-09 |  |
 | [Don't Shoot Me Santa](https://open.spotify.com/track/7dIz5JiZ5UKb2fQASN3tiW) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Ryan Pardey](https://open.spotify.com/artist/7ywLsMIT1NHbZS6hxGScvm) | [A Merry Alternative Christmas](https://open.spotify.com/album/4h0OQ9pvVd0CUIaAm3NQBO) | 4:05 | 2022-11-09 | 2022-11-13 |
 | [Everything's Gonna Be Cool This Christmas](https://open.spotify.com/track/2fXJ86oEl6fGAVnimHycKG) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [best indie christmas songs](https://open.spotify.com/album/0MdEZdXOfYezc0hRUFRh8E) | 2:50 | 2022-11-09 | 2022-11-13 |
-| [Everything's Gonna Be Cool This Christmas](https://open.spotify.com/track/1hpxwEmbL3papTRjdM0Ok2) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Useless Trinkets\-B Sides, Soundtracks, Rarieties and Unreleased 1996\-2006](https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt) | 2:51 | 2021-11-26 |  |
+| [Everything's Gonna Be Cool This Christmas](https://open.spotify.com/track/4FMb5NDvglJfEbzjjoz3Xb) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Christmas Rock](https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2) | 2:50 | 2022-12-20 |  |
+| [Everything's Gonna Be Cool This Christmas](https://open.spotify.com/track/1hpxwEmbL3papTRjdM0Ok2) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Useless Trinkets\-B Sides, Soundtracks, Rarieties and Unreleased 1996\-2006](https://open.spotify.com/album/5tdxfCXrgvk8vj81QWh2tt) | 2:51 | 2021-11-26 | 2023-01-28 |
 | [Everything's Gonna Be Cool This Christmas](https://open.spotify.com/track/5SqHDVKRcZ1gRzVuMsMRpK) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Useless Trinkets\-B Sides, Soundtracks, Rarieties and Unreleased 1996\-2006](https://open.spotify.com/album/1Umb8lHSJUIXnF0bx9DlH2) | 2:51 | 2021-11-26 | 2022-07-29 |
 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:32 | 2022-11-09 |  |
 | [Father Christmas](https://open.spotify.com/track/5U0TaXGTMzraMovH4YVDzn) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Father Christmas](https://open.spotify.com/album/1nLuPilmOhqU4iE4XCMsPR) | 2:56 | 2021-11-26 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 
 > Buon Appetito!
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,204 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,330 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 44 | [Stasera..\. Che Sera! \- 1991 \- Remaster](https://open.spotify.com/track/1uz6If8Tcbjm3xyxQ48IjV) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Matia Bazar 1 \(1991 Remaster\)](https://open.spotify.com/album/3XMyhCHEqTIQsEVz3lgzkB) | 3:26 |
 | 45 | [Circus](https://open.spotify.com/track/0U9P3GPMhoAWKG0uVnsm3W) | [Tony Martin](https://open.spotify.com/artist/0EFbbYqV2BDlRwk7A1SGtb) | [Greatest Hits](https://open.spotify.com/album/4BgETe5d1ZGvUvlNdfbywH) | 3:11 |
 | 46 | [Vecchio frack](https://open.spotify.com/track/0rHIXD2GmjixirvBfTUV2b) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Domenico Modugno](https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp) | 3:27 |
-| 47 | [I Have But One Heart \(O Marenariello\) \- 78 rpm Version](https://open.spotify.com/track/2Y0PJlBIzrcUGAH6r9pfzh) | [Frank Sinatra](https://open.spotify.com/artist/0RS8JMVolOGoAyH8SNiLWz) | [The Columbia Years \(1943\-1952\): The Complete Recordings: Volume 3](https://open.spotify.com/album/5BoSBPiaIMAPs87jvtAvFi) | 3:12 |
+| 47 | [I Have But One Heart \(O Marenariello\) \- 78 rpm Version](https://open.spotify.com/track/2Y0PJlBIzrcUGAH6r9pfzh) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Columbia Years \(1943\-1952\): The Complete Recordings: Volume 3](https://open.spotify.com/album/5BoSBPiaIMAPs87jvtAvFi) | 3:12 |
 | 48 | [Passione](https://open.spotify.com/track/5YbUsKDnZSuDiLx8MnDGiZ) | [Beniamino Gigli](https://open.spotify.com/artist/78qb0nLAzypzePDYBGYl8F) | [Passione](https://open.spotify.com/album/5nLsJZ6FqFslzLRputLC06) | 3:29 |
 | 49 | [Come Back To Sorrento](https://open.spotify.com/track/5aefoUh9oR6nzQdwdp6k14) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 3:15 |
 | 50 | [Sincerely](https://open.spotify.com/track/6hOD1yxLeWllJ2TiwbuwQg) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [The Best Of Bobby Lester And The Moonglows](https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8) | 3:09 |

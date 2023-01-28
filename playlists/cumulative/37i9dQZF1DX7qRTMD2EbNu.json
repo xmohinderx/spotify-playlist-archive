@@ -467,6 +467,28 @@
     },
     {
       "album": {
+        "name": "Brodo",
+        "url": "https://open.spotify.com/album/5vP5InTqdYiCA3i2LORLJ3"
+      },
+      "artists": [
+        {
+          "name": "Kev the Topic",
+          "url": "https://open.spotify.com/artist/4MahedKXMQXH2Dt0nKyN8s"
+        },
+        {
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215510,
+      "name": "Brodo",
+      "url": "https://open.spotify.com/track/2GHzh4jGjrLb0WYLqpixCd"
+    },
+    {
+      "album": {
         "name": "Straight Outta Kumerica 2",
         "url": "https://open.spotify.com/album/6C628yJ57EmOF3m06i0dQv"
       },
@@ -520,6 +542,24 @@
       "duration_ms": 256620,
       "name": "Chairman",
       "url": "https://open.spotify.com/track/5EZi91trcrpvQz7gxQPZDa"
+    },
+    {
+      "album": {
+        "name": "Chairman(Freestyle)",
+        "url": "https://open.spotify.com/album/1qXg45xjLYHCqTwEU7g6IR"
+      },
+      "artists": [
+        {
+          "name": "Eno Barony",
+          "url": "https://open.spotify.com/artist/4tfgIbOiIFCXPEK3PwdBSN"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Chairman(Freestyle)",
+      "url": "https://open.spotify.com/track/7G4fR0D8j6if3cd1iur0O3"
     },
     {
       "album": {
@@ -1397,6 +1437,42 @@
     },
     {
       "album": {
+        "name": "INTRO (Two Eagles)",
+        "url": "https://open.spotify.com/album/68wupOGebyuY9fGoigilq6"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Joe",
+          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270731,
+      "name": "INTRO (Two Eagles)",
+      "url": "https://open.spotify.com/track/5jnR8zbk6Rqz8zvy1ySnZq"
+    },
+    {
+      "album": {
+        "name": "Keep Moving On",
+        "url": "https://open.spotify.com/album/0ahrCzehmiBksefefLbguK"
+      },
+      "artists": [
+        {
+          "name": "AmakyeTheRapper",
+          "url": "https://open.spotify.com/artist/72drjOj6N6PFKv53XePvE1"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175758,
+      "name": "Keep Moving On",
+      "url": "https://open.spotify.com/track/0dMffju5HNrl8dAmjvm87F"
+    },
+    {
+      "album": {
         "name": "The Villain I Never Was",
         "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
@@ -1556,6 +1632,28 @@
       "duration_ms": 163224,
       "name": "Landlord",
       "url": "https://open.spotify.com/track/4MhUaa1qw60tPhurSEe75b"
+    },
+    {
+      "album": {
+        "name": "Lights go dim",
+        "url": "https://open.spotify.com/album/3JaAWfoVqtMrC8AvYVSzNH"
+      },
+      "artists": [
+        {
+          "name": "Paapa Versa",
+          "url": "https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41"
+        },
+        {
+          "name": "KooKusi",
+          "url": "https://open.spotify.com/artist/1qRBRlrxzn5JgCwLGKWz8p"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219911,
+      "name": "Lights go dim",
+      "url": "https://open.spotify.com/track/5CT7AVKD7ZucJYt8sGLbgu"
     },
     {
       "album": {
@@ -1829,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "Nothing Matter",
+        "url": "https://open.spotify.com/album/5IvYoSr6zrOMpCqFCUTr5e"
+      },
+      "artists": [
+        {
+          "name": "KwesiSoul",
+          "url": "https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Nothing Matter",
+      "url": "https://open.spotify.com/track/2VKwMLgRnO9Y41869IeCWO"
+    },
+    {
+      "album": {
         "name": "Nuff Chat",
         "url": "https://open.spotify.com/album/1YtqOsHQccqkJmZzDdCFJm"
       },
@@ -1882,16 +1998,16 @@
           "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         },
         {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
           "name": "reggie",
           "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
         },
         {
           "name": "Beeztrap KOTM",
           "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
         },
         {
           "name": "Jay Bahd",
@@ -2097,6 +2213,24 @@
     },
     {
       "album": {
+        "name": "Ronaldo",
+        "url": "https://open.spotify.com/album/22hGagxw0hzduRyJsLK2nM"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192405,
+      "name": "Ronaldo",
+      "url": "https://open.spotify.com/track/0I6ER7x4d31zvJBd2DhyB3"
+    },
+    {
+      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU"
       },
@@ -2138,6 +2272,24 @@
       "duration_ms": 152283,
       "name": "Run",
       "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
+    },
+    {
+      "album": {
+        "name": "Since I Was 8",
+        "url": "https://open.spotify.com/album/0jBzSMFX5qtr1V1UJobi0c"
+      },
+      "artists": [
+        {
+          "name": "Delis",
+          "url": "https://open.spotify.com/artist/4edwjN1rPYHiAbkPNihGWP"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153598,
+      "name": "Sacrifices",
+      "url": "https://open.spotify.com/track/7nThzzr76eRvp0uPWxcgMm"
     },
     {
       "album": {
@@ -2507,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/2d8MfrCy3VLlkB38w4J4lh"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225751,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/7yRAFznS8XbA9g8KkCW83X"
+    },
+    {
+      "album": {
         "name": "Trenches Babies; Lalid - The Big Fish",
         "url": "https://open.spotify.com/album/7w0dha98O5MiKp51tUlMyg"
       },
@@ -2738,6 +2908,24 @@
       "duration_ms": 209143,
       "name": "Yao",
       "url": "https://open.spotify.com/track/2BesSwK9iYOTFMQytlf79Q"
+    },
+    {
+      "album": {
+        "name": "YARD",
+        "url": "https://open.spotify.com/album/5Yi2mCJ9xKKmYJOdh39heI"
+      },
+      "artists": [
+        {
+          "name": "Yaa Pono",
+          "url": "https://open.spotify.com/artist/1oqHoNJGPx78BetdO5jMFs"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154723,
+      "name": "YARD",
+      "url": "https://open.spotify.com/track/1DyEnuuMTy2fh3ZZTd0cUf"
     },
     {
       "album": {

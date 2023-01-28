@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Izykite \(이지카이트\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Sion \(시온\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,084 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,205 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 |
 | 50 | [ALARM](https://open.spotify.com/track/6b44AK3LX4Umv2e3Q6enC8) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [ALARM](https://open.spotify.com/album/4eW3NKZ1foDDZXR1Z39EaQ) | 3:23 |
 
-Snapshot ID: `MTY3NDIwNDg1NSwwMDAwMDAwMGI1YTQ1OWJkZDM1Y2VhMjRhNjE2NzFjZjcxMDI4ZWM4`
+Snapshot ID: `MTY3NDgwNzY3NiwwMDAwMDAwMDY2OGMwZGEyM2NiZDdhMjhmZGFjNmI0YzRmOGExZWUz`

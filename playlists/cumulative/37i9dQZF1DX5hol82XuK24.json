@@ -52,10 +52,28 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 139259,
       "name": "Alivve",
       "url": "https://open.spotify.com/track/1R6bmo9w0hxLv0VlCrH0S2"
+    },
+    {
+      "album": {
+        "name": "Pink Songs",
+        "url": "https://open.spotify.com/album/1CfNEJDcCiHkBnuFsjuFK9"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139259,
+      "name": "Alivve",
+      "url": "https://open.spotify.com/track/712J1MIoG92zG8IDmNHayC"
     },
     {
       "album": {

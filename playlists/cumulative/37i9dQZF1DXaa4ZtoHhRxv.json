@@ -2171,6 +2171,28 @@
     },
     {
       "album": {
+        "name": "One Night in Nashville",
+        "url": "https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173069,
+      "name": "Something\u2019s Coming",
+      "url": "https://open.spotify.com/track/4F17nB9GKTSPfocx9D7jHx"
+    },
+    {
+      "album": {
         "name": "Soul (R3HAB Remix)",
         "url": "https://open.spotify.com/album/2BiotTS8ZOBFKLQAnJ0JVN"
       },
@@ -2688,6 +2710,28 @@
       "duration_ms": 191202,
       "name": "What Ifs (Remix) (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/7dDq3MWjdEyTh0d0L3C4FX"
+    },
+    {
+      "album": {
+        "name": "Whiskey On You (MOTi Remix)",
+        "url": "https://open.spotify.com/album/6cfd4vhDiISxkUnPIjWztR"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Whiskey On You - MOTi Remix",
+      "url": "https://open.spotify.com/track/71lK60jidcsiwpbajRFVYX"
     },
     {
       "album": {

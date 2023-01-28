@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Take Root",
+        "url": "https://open.spotify.com/album/4PjXnjdZzHoJwShZVmsJTM"
+      },
+      "artists": [
+        {
+          "name": "James Saunder",
+          "url": "https://open.spotify.com/artist/7lJYI82LVMMO0MrbXo1SPB"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102564,
+      "name": "Take Root",
+      "url": "https://open.spotify.com/track/2Q6jRwPtPBLeeDZgZBl0b6"
+    },
+    {
+      "album": {
         "name": "As the Years Go Passing By (Blues Reference)",
         "url": "https://open.spotify.com/album/5574yQ0jXasT5PZCRs4C9o"
       },

@@ -723,6 +723,28 @@
     },
     {
       "album": {
+        "name": "Can't Get You Out Of My Bed",
+        "url": "https://open.spotify.com/album/7FP5mXz3tCP5GMq7cF1i2U"
+      },
+      "artists": [
+        {
+          "name": "POPE (People Of Positive Energy)",
+          "url": "https://open.spotify.com/artist/7tOEzTwjTFTXDPeKQXvtw1"
+        },
+        {
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169318,
+      "name": "Can't Get You Out Of My Bed",
+      "url": "https://open.spotify.com/track/5PI0q2YjjK1sLI3YbmC0ye"
+    },
+    {
+      "album": {
         "name": "Can't Let You Go",
         "url": "https://open.spotify.com/album/4Mxvm1AvvhrohYFo1VlhXZ"
       },
@@ -4570,7 +4592,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 165419,
       "name": "Trust",
       "url": "https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5"

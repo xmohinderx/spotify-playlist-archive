@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Lilly Palmer
 
-674 songs - 1 day 11 hr 32 min
+675 songs - 1 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [BEIFAHRERSITZ](https://open.spotify.com/track/1YZU0P3SdMWIjNWdUixYzd) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [BEIFAHRERSITZ](https://open.spotify.com/album/1ydhVNe1Gut5PMC5hXr92D) | 3:04 | 2022-05-31 | 2023-01-04 |
 | [besonders](https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [besonders](https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg) | 3:00 | 2022-02-01 | 2023-01-04 |
 | [besser alleine :\)](https://open.spotify.com/track/7DikQ7oB00F483La93n4FD) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [besser alleine :\)](https://open.spotify.com/album/6NrxoW3od9SVVvGf83NiYH) | 2:55 | 2022-05-31 | 2022-07-06 |
-| [Bessere Version](https://open.spotify.com/track/1z6c3dSrs6moawTgJ37gIT) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Bessere Version](https://open.spotify.com/album/0shWOBCKRlvERwwkMaCP0J) | 2:32 | 2023-01-03 |  |
+| [Bessere Version](https://open.spotify.com/track/1z6c3dSrs6moawTgJ37gIT) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Bessere Version](https://open.spotify.com/album/0shWOBCKRlvERwwkMaCP0J) | 2:32 | 2023-01-03 | 2023-01-28 |
+| [Bessere Version](https://open.spotify.com/track/4La858r7CZ6cwIdDepMiVk) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Smarties](https://open.spotify.com/album/3lZmmldlKLvh1P2zdV4T1s) | 2:32 | 2023-01-03 |  |
 | [Better Version of Myself](https://open.spotify.com/track/3e0hCExDj9IU0j7HzRbYxy) | [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv) | [Better Version of Myself](https://open.spotify.com/album/5YIbUpYwQwJI34gH5G4EBi) | 2:28 | 2022-05-03 | 2022-06-01 |
 | [BIBÄ](https://open.spotify.com/track/0FA6uGF0V1GCBFsM7c6esF) | [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6) | [BIBÄ](https://open.spotify.com/album/2HYT3G8SfdGHqIsXOvpbM2) | 2:41 | 2023-01-03 |  |
 | [BIG POPPA](https://open.spotify.com/track/4IFjgAABH0qU7jNIehEoUR) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [BIG POPPA](https://open.spotify.com/album/4scyWzys4pvJ2b62QMaMlc) | 2:07 | 2022-05-31 | 2022-07-06 |

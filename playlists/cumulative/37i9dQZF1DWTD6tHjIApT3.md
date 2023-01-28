@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 葛谷葉子
 
-1,059 songs - 2 day 21 hr 29 min
+1,061 songs - 2 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Higher](https://open.spotify.com/track/5fvVRGba4CPOHRMnBRMqBQ) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [Higher](https://open.spotify.com/album/33puTLfeTdH7qtYckm305L) | 3:54 | 2022-06-07 | 2022-07-28 |
 | [Higher Love](https://open.spotify.com/track/5AyIYrq6MV7uuLRGFqtXPK) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Higher Love](https://open.spotify.com/album/1CjyXicCmGeuLVs3DT4Kl2) | 5:34 | 2022-05-29 | 2022-07-27 |
 | [Hikare Inochi](https://open.spotify.com/track/0ltIx8PLjtWoS9zn9PqsZW) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/18uE4ky7hhYtS1j9QY7p14) | 5:22 | 2022-07-28 |  |
+| [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/track/3nDZBhgAXl1SKLrg3lwQOM) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [Hikari no Niwa to Sakana no Yume](https://open.spotify.com/album/6QMG2i3XEajvmabKdsRewB) | 4:28 | 2023-01-26 |  |
 | [Homesick](https://open.spotify.com/track/7lKzjUKqcgB1Sh2jGNCdKk) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [Homesick](https://open.spotify.com/album/3laPBUEaHQFQhgExeMjaZ9) | 3:42 | 2022-05-31 | 2022-07-29 |
 | [Honesty](https://open.spotify.com/track/1GX4PBTaAIAN0tIvY8PpIO) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [Are U Romantic?](https://open.spotify.com/album/7mDjC27mmAVS3mnrPUjgZS) | 3:48 | 2022-05-29 | 2022-06-01 |
 | [How many](https://open.spotify.com/track/7CmtawzgtZW0iz0liC3F34) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [How many](https://open.spotify.com/album/4tVyhqGUAQARU5NsQ7AAXC) | 4:04 | 2022-06-30 | 2022-07-14 |
@@ -303,6 +304,7 @@
 | [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 | 2022-12-06 | 2023-01-04 |
 | [Lilt](https://open.spotify.com/track/0oG01y2pbxdX8KHS5wsKBd) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [Lilt](https://open.spotify.com/album/2LiURHIClvEBdDNzazsEj2) | 3:06 | 2022-09-13 | 2022-09-28 |
 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 | 2022-05-31 | 2022-07-19 |
+| [Little Red Riding Hood](https://open.spotify.com/track/1kXSvdQw5GByk7Ut432360) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Little Red Riding Hood](https://open.spotify.com/album/01IOJtpI12E42QyUjjLSL3) | 3:15 | 2023-01-26 |  |
 | [little star \(2022 Illumination ver.\)](https://open.spotify.com/track/6nnCXOMLQz0NhRMYmHKs98) | [Socca](https://open.spotify.com/artist/1Ok7RP5GZH0jY8gZo098M6) | [little star \(2022 Illumination ver.\)](https://open.spotify.com/album/2ArCRaS2o7Cqaj8lxBeNLP) | 3:39 | 2023-01-05 | 2023-01-11 |
 | [Logbook](https://open.spotify.com/track/7Dm0vGq2EZnok8p2PQjkMH) | [Tota](https://open.spotify.com/artist/6RptmPevPKd4YVK1VRpK3F) | [Logbook](https://open.spotify.com/album/4XpPPretRm4hVnvBi3depc) | 3:17 | 2022-12-15 | 2022-12-21 |
 | [Look At Me](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Look At Me](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) | 3:03 | 2022-05-29 | 2022-11-03 |
@@ -401,7 +403,7 @@
 | [Perfect! Your Love](https://open.spotify.com/track/5NrqcSAxspspQHsSSoHgey) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Perfect! Your Love](https://open.spotify.com/album/51vH2O1lk2FAPPhLDY5QNo) | 3:44 | 2022-11-08 | 2022-11-16 |
 | [Pluto](https://open.spotify.com/track/4BgjikxDGRtrzGkuNmTsZo) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [住](https://open.spotify.com/album/1AbYtHL8CaXQgJIu8ctq7C) | 3:10 | 2023-01-10 | 2023-01-18 |
 | [Pre\-Romance](https://open.spotify.com/track/4Vyd2DEveTVKeieRy2S4oD) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance / Finale.](https://open.spotify.com/album/6W4jYeU8AYaiJgXpE8dThG) | 3:12 | 2022-11-10 | 2022-11-13 |
-| [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 | 2022-08-23 |  |
+| [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 | 2022-08-23 | 2023-01-28 |
 | [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 | 2022-08-30 |  |
 | [puzzle \(feat\. ひかり\)](https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\)](https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol) | 3:30 | 2022-07-19 | 2022-09-16 |
 | [páː](https://open.spotify.com/track/5TwzuauV7SjD00bUeMbWlB) | [諭吉佳作/men](https://open.spotify.com/artist/38NuNsMkSFQ98Xt40Pl1gB) | [páː](https://open.spotify.com/album/4u2bc1tj84eBXr6XPe5zOh) | 3:28 | 2022-09-27 | 2022-10-04 |
@@ -732,7 +734,7 @@
 | [ダージリン \- Bousi Studio Remix](https://open.spotify.com/track/64UaJY4n99ZKSHIq82KOtk) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx), [野村帽子](https://open.spotify.com/artist/2QkxK6rPvCNIEM7OxvHJPx) | [ダージリン \(Bousi Studio Remix\)](https://open.spotify.com/album/3xSg3qQZepIoFbBLSRZpug) | 3:26 | 2022-05-31 | 2022-07-23 |
 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-09-06 |  |
 | [チューリップ](https://open.spotify.com/track/13xYQlVr11XuhBwHRbYFmk) | [Kiwokuza](https://open.spotify.com/artist/5RuJsNzn0UhHOu1jvMD3Ii) | [チューリップ](https://open.spotify.com/album/61BECZBJEOOZVas8iFdY30) | 4:27 | 2022-06-07 | 2022-07-14 |
-| [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 | 2022-10-18 | 2023-01-27 |
+| [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 | 2022-10-18 |  |
 | [トワイライト](https://open.spotify.com/track/7LCGgXpw27AK8r7CiPhG0l) | [703goushitsu](https://open.spotify.com/artist/2kgwlK1KWV3bgzT7FsJGoR) | [トワイライト](https://open.spotify.com/album/5r8Bx5ODvdb0URnGQybG8d) | 4:46 | 2022-06-21 | 2022-06-29 |
 | [ナイトドライブ](https://open.spotify.com/track/6ZBFeY13nAPGK3kHWqWQRw) | [yukaDD\(;´∀｀\)](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe), [was@bi shock](https://open.spotify.com/artist/5ztp9ZNHZtl7nWs8h5hQHK) | [ナイトドライブ](https://open.spotify.com/album/3f5hpxx3a324W1t3G8tnUY) | 3:16 | 2022-06-02 | 2022-06-24 |
 | [ニンゲンカンケイ](https://open.spotify.com/track/3gbIiBR3kpDBpKsuCA1uoC) | [Hinako Miura](https://open.spotify.com/artist/4OCKeb3ZY4bVq4tC9Jz2TM) | [ニンゲンカンケイ](https://open.spotify.com/album/3NAJfnQdl0qFW99U7EPo3m) | 3:27 | 2022-06-30 | 2022-07-06 |
@@ -810,7 +812,7 @@
 | [催眠](https://open.spotify.com/track/1190JawXRFRo3rBpwtbw0d) | [YAYYAY](https://open.spotify.com/artist/7zjcPyxB51lqnmowM6xsKX) | [NO EVIL](https://open.spotify.com/album/2Im66puWUtEb6JUALvCTpT) | 4:11 | 2023-01-17 | 2023-01-25 |
 | [僕は椅子](https://open.spotify.com/track/7eWWFAlEIm1PphClDPplcm) | [Miwa Sasagawa](https://open.spotify.com/artist/4luR2xOhou26Hmooyo2cnd) | [僕は椅子](https://open.spotify.com/album/6CUvHs0m3HyiM8TOds0Iye) | 4:26 | 2022-06-28 | 2022-07-06 |
 | [元の木阿弥](https://open.spotify.com/track/4Aym5kXxDox95aNFLRJ52N) | [こつぶ](https://open.spotify.com/artist/2gt2b26a7zIzTXP1TQJgW7) | [Patchwork](https://open.spotify.com/album/1nyBVvlTyvmkg6zg3bOZ5m) | 2:38 | 2022-10-11 | 2022-10-19 |
-| [光の庭と魚の夢](https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [光の庭と魚の夢](https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj) | 4:28 | 2023-01-26 |  |
+| [光の庭と魚の夢](https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [光の庭と魚の夢](https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj) | 4:28 | 2023-01-26 | 2023-01-28 |
 | [光溢れ](https://open.spotify.com/track/1xNVfOwmTPJqCHxrVElyOj) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [光溢れ](https://open.spotify.com/album/4iPHMxjt6o5MnZe32bAHJv) | 3:00 | 2022-05-29 | 2022-07-13 |
 | [再愛](https://open.spotify.com/track/61YMwu4Xg1nH1d5f0YrTBC) | [Rythem](https://open.spotify.com/artist/28Be7eeRSqjriWnRuxhpOA) | [再愛](https://open.spotify.com/album/3BDdXgwJPJTCQTQ4krGpZZ) | 5:00 | 2023-01-26 |  |
 | [凍える指先の温め方を知ってる](https://open.spotify.com/track/2A9t75q0ojqZnRiLrcCNdM) | [林青空](https://open.spotify.com/artist/1kfzM6uJoM7Mw4RtW0FFtO) | [凍える指先の温め方を知ってる](https://open.spotify.com/album/7xqDzVx1ZmV5rk8AgekUpM) | 3:40 | 2022-06-30 | 2022-07-19 |
@@ -1022,7 +1024,7 @@
 | [蟻とリンゴスター](https://open.spotify.com/track/6IeXMHqRjlfAtrAboFrOSW) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [KOURO](https://open.spotify.com/album/5ST87BH4YQhksbzh5Xx62A) | 4:58 | 2022-10-18 | 2022-10-26 |
 | [袖のキルト](https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [袖のキルト](https://open.spotify.com/album/2CnTOCTNSyJmZd1DXHVsFT) | 4:15 | 2022-05-29 | 2022-12-20 |
 | [貴方に会いたいのに](https://open.spotify.com/track/5kgk5e6TUEaBfzjL94gjVw) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [貴方に会いたいのに](https://open.spotify.com/album/7h7zICpmhMCrMXHtFmfgTa) | 5:13 | 2022-08-23 | 2022-09-07 |
-| [赤ずきん](https://open.spotify.com/track/1vone5YS9zGooFsnUml2LI) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [赤ずきん](https://open.spotify.com/album/3KPeXKwDGaWZz6Ue3ovPdK) | 3:15 | 2023-01-24 |  |
+| [赤ずきん](https://open.spotify.com/track/1vone5YS9zGooFsnUml2LI) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [赤ずきん](https://open.spotify.com/album/3KPeXKwDGaWZz6Ue3ovPdK) | 3:15 | 2023-01-24 | 2023-01-28 |
 | [超天獄](https://open.spotify.com/track/0rT5dClklXHjNPKFy970ZV) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [超天獄](https://open.spotify.com/album/1bQdf81b8Akd262qhyd1xo) | 4:29 | 2022-10-11 | 2022-10-19 |
 | [超最悪](https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [超最悪](https://open.spotify.com/album/7g1qyIxwtT6TmuHlu5mhcK) | 2:58 | 2022-11-29 | 2023-01-13 |
 | [足跡](https://open.spotify.com/track/16P5cDsDA2vUx6EjNogPUT) | [reche](https://open.spotify.com/artist/4sJCsXNYmUMeumUKVz4Abm) | [足跡](https://open.spotify.com/album/2xlgboypO1pl82slbNFsLf) | 4:19 | 2023-01-03 | 2023-01-11 |

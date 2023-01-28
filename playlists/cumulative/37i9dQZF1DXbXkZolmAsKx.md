@@ -4,7 +4,7 @@
 
 > The best Ambient tracks from 2010 to 2019.
 
-109 songs - 9 hr 36 min
+110 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Low Sudden](https://open.spotify.com/track/5chILOuzYBXDLLcZTjJ1ti) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690), [Rocco DeLuca](https://open.spotify.com/artist/1iqmDIQe1As4Lr35neuZrh) | [Goodbye To Language](https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a) | 2:38 | 2022-08-11 |  |
 | [Luotasi](https://open.spotify.com/track/5AvyV92PXzkpQ6k1ggKME7) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [vantaa](https://open.spotify.com/album/6Sa8QE7vYI9imRgQz8IVzB) | 8:10 | 2022-08-11 | 2022-11-26 |
 | [Luotasi](https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Vantaa](https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP) | 8:10 | 2022-09-20 |  |
+| [LUX 1.4](https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [LUX 1](https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg) | 3:32 | 2023-01-27 |  |
 | [Made of Metal](https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 1:38 | 2022-08-11 |  |
 | [Mary, On the Wall \- Second Heart Tone](https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 6:07 | 2022-08-11 |  |
 | [Mimosa](https://open.spotify.com/track/04eX5ipbl4MG4RybvDmTBW) | [Leif](https://open.spotify.com/artist/381PGxyzR9qLrFbprEp46D) | [Loom Dream](https://open.spotify.com/album/0eW3b50zPiSOrK0SiG8ZEh) | 7:35 | 2022-08-11 |  |

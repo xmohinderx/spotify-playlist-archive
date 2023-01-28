@@ -465,6 +465,36 @@
     },
     {
       "album": {
+        "name": "Eres un Arte",
+        "url": "https://open.spotify.com/album/2YlGzp6EFvKukhDHbKJhRR"
+      },
+      "artists": [
+        {
+          "name": "Derian",
+          "url": "https://open.spotify.com/artist/220SaLUhEtl59oRglesxcL"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "Alexis Chaires",
+          "url": "https://open.spotify.com/artist/7j8jaHM5LlrFnDxJTbG2wr"
+        },
+        {
+          "name": "Deack Lopez",
+          "url": "https://open.spotify.com/artist/191vrwSKDKBZRG1u7NcMpo"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233842,
+      "name": "Eres un Arte",
+      "url": "https://open.spotify.com/track/37i9NWAGKTyazstAz6nfos"
+    },
+    {
+      "album": {
         "name": "Fango",
         "url": "https://open.spotify.com/album/31vollZPe01eJhqLhugezp"
       },
@@ -618,6 +648,24 @@
       "duration_ms": 205200,
       "name": "Ladrones de Estrellas",
       "url": "https://open.spotify.com/track/5NqtAYtvukTpz4om6tQ5Zg"
+    },
+    {
+      "album": {
+        "name": "Let Me Down Slow",
+        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177954,
+      "name": "Let Me Down Slow",
+      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
     },
     {
       "album": {

@@ -2140,7 +2140,7 @@
     {
       "album": {
         "name": "Altair",
-        "url": "https://open.spotify.com/album/41oa87H2qcmnWdyS1S0iy0"
+        "url": "https://open.spotify.com/album/1eXcC6om8XZvhgtBQZdP3N"
       },
       "artists": [
         {
@@ -2151,6 +2151,24 @@
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Procyon",
+      "url": "https://open.spotify.com/track/5c7kAnQfIrU7B5F4T4dxRl"
+    },
+    {
+      "album": {
+        "name": "Altair",
+        "url": "https://open.spotify.com/album/41oa87H2qcmnWdyS1S0iy0"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Zawadzki",
+          "url": "https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
       "duration_ms": 186000,
       "name": "Procyon",
       "url": "https://open.spotify.com/track/72iLPdmzbCfua2zOBCm6L2"

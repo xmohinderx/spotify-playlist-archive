@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Aoife O'Donovan & Allison Russell
 
-233 songs - 14 hr 38 min
+234 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Save This Heart](https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 3:01 | 2022-07-22 |  |
 | [Scrape Me Off the Ceiling](https://open.spotify.com/track/0fD7WXONvfGg9poOUOn8SI) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Scrape Me Off the Ceiling](https://open.spotify.com/album/7ojJLIbIIlC7XqiONY0csB) | 3:00 | 2021-10-01 | 2022-07-29 |
 | [Scrape Me Off the Ceiling](https://open.spotify.com/track/0imRwJuihcp7MvVEFnipaq) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Wild as We Came Here](https://open.spotify.com/album/754yx9mZquABRQbCpwL5r7) | 3:00 | 2022-07-22 |  |
+| [Self Made Man](https://open.spotify.com/track/4F6IcqN9tXPjGrMUmbr9sn) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Self Made Man](https://open.spotify.com/album/2qdjlpA0nBpk10xpQyv3jm) | 2:57 | 2023-01-27 |  |
 | [Shallows \- Single Version](https://open.spotify.com/track/0XfyWCu8jmidSYiCGSp1aN) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Shallows](https://open.spotify.com/album/1AkizJGDtqdAQR9xtMK53V) | 3:19 | 2022-06-25 | 2023-01-14 |
 | [Shenandoah](https://open.spotify.com/track/6Kg4vLRFXHc9sEqc6vqVnY) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9), [Michael Starkey](https://open.spotify.com/artist/0v5kYF6D2YsoToYXmEUhYk) | [Shenandoah](https://open.spotify.com/album/1QFmpfj9SakhUQe7iWBIzu) | 3:56 | 2022-05-13 |  |
 | [Shiver](https://open.spotify.com/track/5rvrpTpuFvUm0l0aeN3jzG) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Shiver](https://open.spotify.com/album/6iLR9EKDzM24YbNisa5mdc) | 3:32 | 2022-07-22 |  |

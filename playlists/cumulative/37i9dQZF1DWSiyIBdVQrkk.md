@@ -4,7 +4,7 @@
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-376 songs - 1 day 0 hr 11 min
+377 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Hold Firm](https://open.spotify.com/track/1XibR7VrDllfBz6yuTndmb) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Hold Firm](https://open.spotify.com/album/3NAuJwrNUswWVaMcefvLPt) | 3:57 | 2021-10-18 | 2022-07-29 |
 | [I Am That I Am](https://open.spotify.com/track/2PyDqCtFcXsucZqTF4rE3i) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Equal Rights \(Legacy Edition\)](https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65) | 4:29 | 2021-10-18 |  |
 | [I Shot The Sheriff](https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 4:39 | 2022-06-20 | 2023-01-19 |
+| [I Shot The Sheriff](https://open.spotify.com/track/71zvW0WZ0bap9gphp7Jhgp) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo) | 4:40 | 2022-10-13 |  |
 | [I Spy](https://open.spotify.com/track/0zfNtF8NXVJXqkSil15J0v) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [I Spy](https://open.spotify.com/album/0MmlD8VQAweXoJ2LIKgKWk) | 3:02 | 2021-10-18 | 2022-05-21 |
 | [I Wish You Were Here](https://open.spotify.com/track/7HXcSZsNnjm5HV49Rlk7n4) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/64RwJVf6cfgzFPM9mesf9T) | 4:27 | 2022-06-20 |  |
 | [Ice Cream Love](https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Fally Lover](https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj) | 3:23 | 2021-10-18 |  |
@@ -258,7 +259,7 @@
 | [PRETTY SUIT](https://open.spotify.com/track/5dZL8E6dFDUGH5xdlRJSzZ) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [PRETTY SUIT](https://open.spotify.com/album/3tx6HavjSxSYDR4X97Kt4Y) | 2:48 | 2022-08-18 | 2022-09-10 |
 | [Progress](https://open.spotify.com/track/6IsHlSkJ55lqNW40sEtPNJ) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Progress](https://open.spotify.com/album/3tfW7LJFKzCMy7ak16tyuA) | 3:00 | 2021-10-18 | 2022-07-01 |
 | [Push Time](https://open.spotify.com/track/45B7HWbHqhq4paZE8lgJ66) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Black On Purpose](https://open.spotify.com/album/5lFtGwlHH9ek0vfIeNXg4E) | 2:57 | 2021-10-18 | 2022-07-29 |
-| [Raggamuffin](https://open.spotify.com/track/1m1BWVNNPRTiYmlCd5eqW0) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:20 | 2022-06-20 |  |
+| [Raggamuffin](https://open.spotify.com/track/1m1BWVNNPRTiYmlCd5eqW0) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:20 | 2022-06-20 | 2023-01-28 |
 | [Rasta Love Feat\. Ky\-Mani Marley](https://open.spotify.com/track/0cSkIGgh1uICEIcmEb1niw) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [The Seven Year Itch](https://open.spotify.com/album/785pirNtohI84EfviUaGkq) | 3:05 | 2022-06-20 |  |
 | [Ready \(feat\. Jo Mersa Marley\)](https://open.spotify.com/track/1vaGu8AiPZUQCb7gAeNXKG) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG), [Jo Mersa Marley](https://open.spotify.com/artist/6pRzVEriqNrbluIUSzBmML) | [Ready \(feat\. Jo Mersa Marley\)](https://open.spotify.com/album/49KINTIGn1E8uiFAH305dt) | 3:30 | 2021-10-18 | 2022-07-21 |
 | [Ready Fi Dem](https://open.spotify.com/track/0gLzt2hRO6RAhImuQcLnAV) | [Rik Jam](https://open.spotify.com/artist/5s8Z7hEzedh3vepd7dckZv), [Irie Yute Tapes](https://open.spotify.com/artist/5WHidNElk5hSWbKSVMc2Fp) | [Ready Fi Dem](https://open.spotify.com/album/4kstu2829gm1xChrXrI5uR) | 3:34 | 2022-08-18 | 2022-09-10 |

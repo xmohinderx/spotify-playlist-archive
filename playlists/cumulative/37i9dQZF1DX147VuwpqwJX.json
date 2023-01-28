@@ -369,6 +369,32 @@
     },
     {
       "album": {
+        "name": "DEEP IN VOGUE (feat. Sophie Ellis-Bextor)",
+        "url": "https://open.spotify.com/album/0FdtnL6SUuctP8bq8WNYhI"
+      },
+      "artists": [
+        {
+          "name": "RHYME SO",
+          "url": "https://open.spotify.com/artist/7dtbEudF1BHLVrVtwxxKgm"
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "Wuh Oh",
+          "url": "https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "DEEP IN VOGUE - feat. Sophie Ellis-Bextor",
+      "url": "https://open.spotify.com/track/3RtT4bWTzrgAldm9ksoOME"
+    },
+    {
+      "album": {
         "name": "Waltz Darling",
         "url": "https://open.spotify.com/album/1T6VXkSGLyGwJ1l0555IBb"
       },

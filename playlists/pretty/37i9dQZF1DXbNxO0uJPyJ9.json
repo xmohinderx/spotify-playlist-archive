@@ -1,12 +1,12 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 605162,
+  "num_followers": 605385,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTgwNDIyOCwwMDAwMDAwMDJlOWQwMjcyOWEyM2UwOWJkMmJiNDZjNTJlOTIxNTc2",
+  "snapshot_id": "MTY3MTgwNDIyOCwwMDAwMDAwMDI3MjFlYjc2MjViOGM3MDE3MDhmYzRkYmExMWU0ODJh",
   "tracks": [
     {
       "added_at": "2022-12-23 14:03:48",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "The Best of Thompson Twins Greatest Mixes",
-        "url": "https://open.spotify.com/album/518KEiiREhbb0ks7rA6ACM"
-      },
-      "artists": [
-        {
-          "name": "Thompson Twins",
-          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
-        }
-      ],
-      "duration_ms": 429173,
-      "name": "Hold Me Now",
-      "url": "https://open.spotify.com/track/3xkoUGbf11dLvsfIdgfmIp"
-    },
-    {
-      "added_at": "2022-12-23 14:03:48",
-      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 431800,
       "name": "The Message (feat. Melle Mel & Duke Bootee)",
       "url": "https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU"
+    },
+    {
+      "added_at": "2022-12-23 14:03:48",
+      "album": {
+        "name": "The Best of Thompson Twins Greatest Mixes",
+        "url": "https://open.spotify.com/album/518KEiiREhbb0ks7rA6ACM"
+      },
+      "artists": [
+        {
+          "name": "Thompson Twins",
+          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
+        }
+      ],
+      "duration_ms": 429173,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/3xkoUGbf11dLvsfIdgfmIp"
     },
     {
       "added_at": "2022-12-23 14:03:48",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "Baker Street",
-        "url": "https://open.spotify.com/album/719HzJ5wKCbFb5KeU96DhW"
-      },
-      "artists": [
-        {
-          "name": "Undercover",
-          "url": "https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Baker Street - Extended Mix",
-      "url": "https://open.spotify.com/track/5zQ0hhBlYb23q2XAP6Br70"
-    },
-    {
-      "added_at": "2022-12-23 14:03:48",
-      "album": {
         "name": "They Called Him Tin Tin",
         "url": "https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 233824,
       "name": "Kiss Me (1985)",
       "url": "https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I"
+    },
+    {
+      "added_at": "2022-12-23 14:03:48",
+      "album": {
+        "name": "Baker Street",
+        "url": "https://open.spotify.com/album/719HzJ5wKCbFb5KeU96DhW"
+      },
+      "artists": [
+        {
+          "name": "Undercover",
+          "url": "https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Baker Street - Extended Mix",
+      "url": "https://open.spotify.com/track/5zQ0hhBlYb23q2XAP6Br70"
     },
     {
       "added_at": "2022-12-23 14:03:48",
@@ -1203,8 +1203,8 @@
     {
       "added_at": "2022-12-23 14:03:48",
       "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX"
+        "name": "True Blue (Reissue)",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
       "artists": [
         {
@@ -1212,9 +1212,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 501333,
-      "name": "Vogue - 12\" Version",
-      "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
+      "duration_ms": 396920,
+      "name": "True Blue - The Color Mix",
+      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
     },
     {
       "added_at": "2022-12-23 14:03:48",

@@ -2,7 +2,7 @@
 
 ### [Buenas Noches](https://open.spotify.com/playlist/37i9dQZF1DWVLoqOzktoRS)
 
-> Sweet dreams are made of this\. Relajate, es hora de dormir.
+> Sweet dreams are made of this\. Relájate, es hora de dormir.
 
 94 songs - 5 hr 55 min
 

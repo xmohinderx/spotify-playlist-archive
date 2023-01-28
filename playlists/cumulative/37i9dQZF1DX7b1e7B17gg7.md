@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-63 songs - 4 hr 45 min
+64 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Smooth Night](https://open.spotify.com/track/2SSwokelCpWlRssUkFqd94) | [Brian Grey](https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS) | [Bittersweet](https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf) | 4:39 | 2022-11-30 |  |
 | [Sunfall Blues](https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s) | [Sarah Rogo](https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6) | [Sunfall](https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5) | 4:00 | 2023-01-06 |  |
 | [Sunflower River Blues \- Re\-Recorded Version](https://open.spotify.com/track/6CePeHbXmgwna8B5dC6xKV) | [John Fahey](https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7) | [Death Chants, Breakdowns And Military Waltzes](https://open.spotify.com/album/05HGeZ7JSfwJiOpaToYzUu) | 3:20 | 2022-11-30 |  |
+| [Take Root](https://open.spotify.com/track/2Q6jRwPtPBLeeDZgZBl0b6) | [James Saunder](https://open.spotify.com/artist/7lJYI82LVMMO0MrbXo1SPB) | [Take Root](https://open.spotify.com/album/4PjXnjdZzHoJwShZVmsJTM) | 1:42 | 2023-01-27 |  |
 | [The Band Ladies Have the Blues](https://open.spotify.com/track/52iD7EXUYlAF5mx8QUDYE3) | [Billy Branch & The Sons of Blues](https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y), [Carl Weathersby](https://open.spotify.com/artist/2Qs4vDt8kbXB2sZUDisXPw) | [As the Years Go Passing By \(Blues Reference\)](https://open.spotify.com/album/5574yQ0jXasT5PZCRs4C9o) | 6:35 | 2022-11-30 |  |
 | [The Junkyard Blues](https://open.spotify.com/track/32p1tBD1d2PuMujJU7hQgA) | [Terry Johnson](https://open.spotify.com/artist/7DWOTQc5g2G2zbd6SaXej7) | [Terry Mojo Johnson, Vol\. 2](https://open.spotify.com/album/0dx2z2A8kweCRK3etpg5GK) | 3:49 | 2022-11-30 |  |
 | [The Prowler](https://open.spotify.com/track/3kigvjr2fMr4E1pQXJ15zG) | [Bruce Katz Band](https://open.spotify.com/artist/7cvmkkkAA2mTfwhhMSfrEi) | [Mississippi Moan](https://open.spotify.com/album/1wVpbsQQCr3RG3GdIqucwo) | 6:23 | 2022-11-30 |  |

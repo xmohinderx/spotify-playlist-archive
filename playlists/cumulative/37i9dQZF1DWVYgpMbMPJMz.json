@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover: \n Matthew West",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover: \n Housefires",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -601,6 +601,28 @@
     },
     {
       "album": {
+        "name": "Belovedness (Live)",
+        "url": "https://open.spotify.com/album/3RX1MoUQaetL6L2ts03m1a"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        },
+        {
+          "name": "Nathan Jess",
+          "url": "https://open.spotify.com/artist/0toDS0sQ9LKILJv0E2IUR8"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218493,
+      "name": "Belovedness - Live",
+      "url": "https://open.spotify.com/track/39EvGSon4V1ri8TZ9lrfLi"
+    },
+    {
+      "album": {
         "name": "Bigger Than Impossible (Live)",
         "url": "https://open.spotify.com/album/507PuVlEp6f9nbGBXuEjwc"
       },
@@ -1197,6 +1219,32 @@
     },
     {
       "album": {
+        "name": "Easy to Worship (Live in New Orleans)",
+        "url": "https://open.spotify.com/album/6P0zTwQtWxOQJ5oLEG5hR8"
+      },
+      "artists": [
+        {
+          "name": "Bethany Music",
+          "url": "https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        },
+        {
+          "name": "Danielle Burns",
+          "url": "https://open.spotify.com/artist/4ZQPjKGlZU4PBYbWEZEymk"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349560,
+      "name": "Easy to Worship (Live in New Orleans)",
+      "url": "https://open.spotify.com/track/2ZyhFZk3QlNuOkZCRGCITZ"
+    },
+    {
+      "album": {
         "name": "Echo Holy (In Studio)",
         "url": "https://open.spotify.com/album/3H6l6EZ2HVq7VK2creHKuI"
       },
@@ -1330,6 +1378,28 @@
       "duration_ms": 242768,
       "name": "Fear is Not My Future - Radio Version",
       "url": "https://open.spotify.com/track/6VCUTG3DbG8PpkqSvLogfa"
+    },
+    {
+      "album": {
+        "name": "Pull Me Through (Live at King\u2019s House)",
+        "url": "https://open.spotify.com/album/38dj7aDFY0P50sYYmfMGhr"
+      },
+      "artists": [
+        {
+          "name": "KXC",
+          "url": "https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO"
+        },
+        {
+          "name": "Rich & Lydia Dicas",
+          "url": "https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448880,
+      "name": "Fighting For My Heart - Live",
+      "url": "https://open.spotify.com/track/2anWmr2A4jZQTDlypymJgv"
     },
     {
       "album": {
@@ -2498,7 +2568,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 430120,
       "name": "If I Could Have Anything",
       "url": "https://open.spotify.com/track/1Ujc3cNf2JxHHhoLjzHRbL"
@@ -2995,6 +3065,28 @@
     },
     {
       "album": {
+        "name": "How To Start A Housefire",
+        "url": "https://open.spotify.com/album/5yZ2pKz63STf8a7ZbBkASd"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446626,
+      "name": "Keep My Eyes Up",
+      "url": "https://open.spotify.com/track/1K79lWG1jzrZh4AY7uelBV"
+    },
+    {
+      "album": {
         "name": "King Of Glory",
         "url": "https://open.spotify.com/album/0HC3iCzH7Edne2b6VofHoQ"
       },
@@ -3432,7 +3524,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 242085,
       "name": "Make Room",
       "url": "https://open.spotify.com/track/1uYqNIeFnuuAyECweX2jI7"
@@ -3940,7 +4032,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 235202,
       "name": "One and Only Jesus",
       "url": "https://open.spotify.com/track/6Tcgyo2m5eouucM87VjIFB"
@@ -4295,7 +4387,7 @@
         },
         {
           "name": "Rozanne Hodgetts",
-          "url": "https://open.spotify.com/artist/2xPeC88bL62e6Ef9QTgL8O"
+          "url": "https://open.spotify.com/artist/14fiyawUXDIsruSLGvFHgl"
         }
       ],
       "date_added": "2023-01-13",
@@ -5960,7 +6052,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 198186,
       "name": "What A Good God - Acoustic",
       "url": "https://open.spotify.com/track/3kA2LREe8zz9pvgwPR12jY"

@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K"
+      },
+      "artists": [
+        {
+          "name": "Thiago Ferna",
+          "url": "https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219736,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/5PilZ505kJWTzIMkbvWMGX"
+    },
+    {
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2gZNANSVZxiDwPxI1AdAfK"
       },
@@ -1302,7 +1320,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 196937,
       "name": "Soak Up the Sun",
       "url": "https://open.spotify.com/track/03hVrrbV52cKFbg1stXgmS"
@@ -1796,6 +1814,24 @@
       "duration_ms": 210980,
       "name": "Waterloo Sunset",
       "url": "https://open.spotify.com/track/6MjhsQAxVzHCwhXkql67ZR"
+    },
+    {
+      "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/5ruPKHpJM3H75v4XiGKg9K"
+      },
+      "artists": [
+        {
+          "name": "Thiago Ferna",
+          "url": "https://open.spotify.com/artist/6DhYjMCO2gZhXIsLtY8Rqu"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238961,
+      "name": "We Don't Talk Anymore",
+      "url": "https://open.spotify.com/track/504T28mwCWdnMMK8IufHcv"
     },
     {
       "album": {

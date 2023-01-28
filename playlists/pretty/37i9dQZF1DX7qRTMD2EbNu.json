@@ -1,12 +1,12 @@
 {
   "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=A77LtOw8ScqPlHwiVxtb5A\"> Black Sherif </a> ",
-  "num_followers": 9818,
+  "num_followers": 9847,
   "original_name": "+233 Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE3MjgwMCwwMDAwMDAwMDlhNjJiYTgwOTk0YmVjYmMwMjk0ZTIwMTRjODBjYzQ4",
+  "snapshot_id": "MTY3NDgxMTU5NSwwMDAwMDAwMDA0YWYzYTYwZDllZTBhZTk5NDQyNDcxNmQzMzNlYjJl",
   "tracks": [
     {
       "added_at": "2023-01-20 00:00:00",
@@ -24,16 +24,16 @@
           "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         },
         {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
           "name": "reggie",
           "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
         },
         {
           "name": "Beeztrap KOTM",
           "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
         },
         {
           "name": "Jay Bahd",
@@ -83,6 +83,22 @@
       "duration_ms": 152283,
       "name": "Run",
       "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
+    },
+    {
+      "added_at": "2023-01-27 09:26:35",
+      "album": {
+        "name": "Keep Moving On",
+        "url": "https://open.spotify.com/album/0ahrCzehmiBksefefLbguK"
+      },
+      "artists": [
+        {
+          "name": "AmakyeTheRapper",
+          "url": "https://open.spotify.com/artist/72drjOj6N6PFKv53XePvE1"
+        }
+      ],
+      "duration_ms": 175758,
+      "name": "Keep Moving On",
+      "url": "https://open.spotify.com/track/0dMffju5HNrl8dAmjvm87F"
     },
     {
       "added_at": "2023-01-20 00:00:00",
@@ -161,6 +177,22 @@
       "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
     },
     {
+      "added_at": "2023-01-27 09:26:35",
+      "album": {
+        "name": "Ronaldo",
+        "url": "https://open.spotify.com/album/22hGagxw0hzduRyJsLK2nM"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 192405,
+      "name": "Ronaldo",
+      "url": "https://open.spotify.com/track/0I6ER7x4d31zvJBd2DhyB3"
+    },
+    {
       "added_at": "2023-01-20 00:00:00",
       "album": {
         "name": "Zombie",
@@ -191,6 +223,22 @@
       "duration_ms": 170295,
       "name": "Anadwo",
       "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
+    },
+    {
+      "added_at": "2023-01-27 09:26:35",
+      "album": {
+        "name": "YARD",
+        "url": "https://open.spotify.com/album/5Yi2mCJ9xKKmYJOdh39heI"
+      },
+      "artists": [
+        {
+          "name": "Yaa Pono",
+          "url": "https://open.spotify.com/artist/1oqHoNJGPx78BetdO5jMFs"
+        }
+      ],
+      "duration_ms": 154723,
+      "name": "YARD",
+      "url": "https://open.spotify.com/track/1DyEnuuMTy2fh3ZZTd0cUf"
     },
     {
       "added_at": "2023-01-20 00:00:00",
@@ -243,6 +291,26 @@
       "duration_ms": 161699,
       "name": "Konongo Zongo",
       "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
+    },
+    {
+      "added_at": "2023-01-27 09:26:35",
+      "album": {
+        "name": "Brodo",
+        "url": "https://open.spotify.com/album/5vP5InTqdYiCA3i2LORLJ3"
+      },
+      "artists": [
+        {
+          "name": "Kev the Topic",
+          "url": "https://open.spotify.com/artist/4MahedKXMQXH2Dt0nKyN8s"
+        },
+        {
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+        }
+      ],
+      "duration_ms": 215510,
+      "name": "Brodo",
+      "url": "https://open.spotify.com/track/2GHzh4jGjrLb0WYLqpixCd"
     },
     {
       "added_at": "2023-01-20 00:00:00",
@@ -337,6 +405,22 @@
       "url": "https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP"
     },
     {
+      "added_at": "2023-01-27 09:26:35",
+      "album": {
+        "name": "Nothing Matter",
+        "url": "https://open.spotify.com/album/5IvYoSr6zrOMpCqFCUTr5e"
+      },
+      "artists": [
+        {
+          "name": "KwesiSoul",
+          "url": "https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Nothing Matter",
+      "url": "https://open.spotify.com/track/2VKwMLgRnO9Y41869IeCWO"
+    },
+    {
       "added_at": "2023-01-20 00:00:00",
       "album": {
         "name": "ANADWO",
@@ -425,6 +509,26 @@
       "url": "https://open.spotify.com/track/5EZi91trcrpvQz7gxQPZDa"
     },
     {
+      "added_at": "2023-01-27 09:26:35",
+      "album": {
+        "name": "Lights go dim",
+        "url": "https://open.spotify.com/album/3JaAWfoVqtMrC8AvYVSzNH"
+      },
+      "artists": [
+        {
+          "name": "Paapa Versa",
+          "url": "https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41"
+        },
+        {
+          "name": "KooKusi",
+          "url": "https://open.spotify.com/artist/1qRBRlrxzn5JgCwLGKWz8p"
+        }
+      ],
+      "duration_ms": 219911,
+      "name": "Lights go dim",
+      "url": "https://open.spotify.com/track/5CT7AVKD7ZucJYt8sGLbgu"
+    },
+    {
       "added_at": "2023-01-20 00:00:00",
       "album": {
         "name": "Balance",
@@ -447,6 +551,22 @@
       "duration_ms": 168000,
       "name": "Balance",
       "url": "https://open.spotify.com/track/27mYifEdhLkO5QyHf9JDnt"
+    },
+    {
+      "added_at": "2023-01-27 09:26:35",
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/2d8MfrCy3VLlkB38w4J4lh"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        }
+      ],
+      "duration_ms": 225751,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/7yRAFznS8XbA9g8KkCW83X"
     },
     {
       "added_at": "2023-01-20 00:00:00",
@@ -533,6 +653,22 @@
       "url": "https://open.spotify.com/track/43H88ZoZoU4jt9jIIjxe4b"
     },
     {
+      "added_at": "2023-01-27 09:26:35",
+      "album": {
+        "name": "Since I Was 8",
+        "url": "https://open.spotify.com/album/0jBzSMFX5qtr1V1UJobi0c"
+      },
+      "artists": [
+        {
+          "name": "Delis",
+          "url": "https://open.spotify.com/artist/4edwjN1rPYHiAbkPNihGWP"
+        }
+      ],
+      "duration_ms": 153598,
+      "name": "Sacrifices",
+      "url": "https://open.spotify.com/track/7nThzzr76eRvp0uPWxcgMm"
+    },
+    {
       "added_at": "2023-01-20 00:00:00",
       "album": {
         "name": "Eye Red",
@@ -609,6 +745,22 @@
       "url": "https://open.spotify.com/track/0uJ3mlaKDT1LxvpWE8uBAh"
     },
     {
+      "added_at": "2023-01-27 09:26:35",
+      "album": {
+        "name": "Chairman(Freestyle)",
+        "url": "https://open.spotify.com/album/1qXg45xjLYHCqTwEU7g6IR"
+      },
+      "artists": [
+        {
+          "name": "Eno Barony",
+          "url": "https://open.spotify.com/artist/4tfgIbOiIFCXPEK3PwdBSN"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Chairman(Freestyle)",
+      "url": "https://open.spotify.com/track/7G4fR0D8j6if3cd1iur0O3"
+    },
+    {
       "added_at": "2023-01-20 00:00:00",
       "album": {
         "name": "Yao",
@@ -679,6 +831,22 @@
       "duration_ms": 206262,
       "name": "Digits - Remix",
       "url": "https://open.spotify.com/track/5Bnp61rdlcjT26aQ7fCBsG"
+    },
+    {
+      "added_at": "2023-01-27 09:26:35",
+      "album": {
+        "name": "INTRO (Two Eagles)",
+        "url": "https://open.spotify.com/album/68wupOGebyuY9fGoigilq6"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Joe",
+          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
+        }
+      ],
+      "duration_ms": 270731,
+      "name": "INTRO (Two Eagles)",
+      "url": "https://open.spotify.com/track/5jnR8zbk6Rqz8zvy1ySnZq"
     },
     {
       "added_at": "2023-01-20 00:00:00",

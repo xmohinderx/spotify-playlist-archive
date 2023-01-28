@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-149 songs - 9 hr 15 min
+151 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [How To Love](https://open.spotify.com/track/0g2i0wii2FZuBskWUta2SK) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [How To Love](https://open.spotify.com/album/4MOG342gzrJ8AEagVhXjcg) | 3:38 | 2022-05-25 | 2022-07-29 |
 | [How to Love](https://open.spotify.com/track/5xSUcxAoaRsXMaaSace7ST) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:38 | 2022-07-08 |  |
 | [I Ain't Blue \- 2008 Remaster](https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:36 | 2022-05-25 |  |
+| [I Want to Go](https://open.spotify.com/track/6y2PzzIq9rPM5zzcRDmuYH) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Alabama Blues!](https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa) | 1:39 | 2023-01-28 |  |
 | [If My Mind Don't Change \(feat\. Sharde Thomas\)](https://open.spotify.com/track/0EUW0WhEBHJlUOw0JaO38W) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Sharde Turner](https://open.spotify.com/artist/5RkXIaQtDyVsWKfNzn08yz) | [Philadelphia Mississippi](https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3) | 3:40 | 2022-10-14 |  |
 | [Imidiwaren](https://open.spotify.com/track/1BcEPYZS6rVhPhQ4L06zlr) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [The Radio Tisdas Sessions](https://open.spotify.com/album/5O5TvfdtaQn6AiTkSYBbAr) | 6:26 | 2022-06-14 |  |
 | [Jolene](https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Jolene](https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG) | 3:57 | 2022-05-25 |  |
@@ -105,7 +106,8 @@
 | [Money Talks](https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 3:56 | 2022-05-25 |  |
 | [Mr\. Highway Man](https://open.spotify.com/track/2mGcByWICVJC9QHcmaagAe) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [The Blues Is Here to Stay, 1947 \- 1959](https://open.spotify.com/album/1MjCiAzSTe317Kl53b8qxY) | 3:09 | 2022-05-25 | 2022-07-11 |
 | [My Home Is In The Delta](https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 4:01 | 2022-05-25 |  |
-| [Mystery Train](https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:24 | 2022-06-14 |  |
+| [Mystery Train](https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:24 | 2022-06-14 | 2023-01-28 |
+| [Mystery Train](https://open.spotify.com/track/2NrUSquxXIuBqXFXQoyWZU) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Mystery Train / Love My Baby](https://open.spotify.com/album/31GTtOaKki2JqsyIrljMhz) | 2:24 | 2023-01-20 |  |
 | [Mystery Woman](https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Come to Find](https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd) | 5:01 | 2022-05-25 |  |
 | [Natural Blues](https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Discover](https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl) | 4:07 | 2022-05-25 | 2023-01-13 |
 | [Navigation Blues](https://open.spotify.com/track/55WTb0BjmzXUUurFiNRWVk) | [Thorbjørn Risager](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT), [The Black Tornado](https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD) | [Navigation Blues](https://open.spotify.com/album/1uVVEurSRPaxgJF2EuAHEr) | 4:56 | 2022-09-12 |  |
@@ -140,7 +142,7 @@
 | [That's All Right \(Mama\)](https://open.spotify.com/track/3WXj55GMw8gu6uxLsWVVHC) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mama's Still Got The Blues](https://open.spotify.com/album/4DGPVLCkmD24IQoPRseeKc) | 2:22 | 2023-01-13 | 2023-01-26 |
 | [The Easy Blues](https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Solid Air](https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp) | 3:21 | 2022-05-25 |  |
 | [The Future Ain't What It Used to Be](https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [The Future Ain't What It Used to Be](https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035) | 3:20 | 2022-05-25 |  |
-| [The Moment](https://open.spotify.com/track/5nWSboBwJLJvoLx0VOEVFd) | [Vicky Tafoya](https://open.spotify.com/artist/770Aop5lr0TP4f1cjBWxWu) | [The Moment](https://open.spotify.com/album/4vGUbTrcdm108ZtfZaESjc) | 2:34 | 2023-01-20 |  |
+| [The Moment](https://open.spotify.com/track/5nWSboBwJLJvoLx0VOEVFd) | [Vicky Tafoya](https://open.spotify.com/artist/770Aop5lr0TP4f1cjBWxWu) | [The Moment](https://open.spotify.com/album/4vGUbTrcdm108ZtfZaESjc) | 2:34 | 2023-01-20 | 2023-01-28 |
 | [The Sun is Shining](https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:36 | 2022-05-25 |  |
 | [This is Hip \- Remastered](https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Remastered from the Archives](https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn) | 2:25 | 2022-05-25 |  |
 | [Tough Times](https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:59 | 2022-10-14 |  |

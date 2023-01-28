@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 58570,
+  "num_followers": 58598,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMDAxZTIyY2Q0ZGFhYmQ5YWYwZTllYTMyNGU0MTAyYTdk",
+  "snapshot_id": "MTU2ODA1MTM2NCwwMDAwMDAwMGUxOGE4ZDI2ZjE4OGE3YjYyZGE4MTc5ZmQyMzkyMWU1",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -795,22 +795,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "La Cuesti\u00f3n",
-        "url": "https://open.spotify.com/album/4UBjoC0P9jWZ5CndQhPFVD"
-      },
-      "artists": [
-        {
-          "name": "Tatico Henr\u00edquez",
-          "url": "https://open.spotify.com/artist/1nEsnDQcktK5SB4ZKAezYM"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Ad\u00e1n y Eva",
-      "url": "https://open.spotify.com/track/4HLRak2Wxe2X2HndXYQ7pS"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "Los Numero 1",
         "url": "https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 278373,
       "name": "El Diente de Oro",
       "url": "https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "La Cuesti\u00f3n",
+        "url": "https://open.spotify.com/album/4UBjoC0P9jWZ5CndQhPFVD"
+      },
+      "artists": [
+        {
+          "name": "Tatico Henr\u00edquez",
+          "url": "https://open.spotify.com/artist/1nEsnDQcktK5SB4ZKAezYM"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Ad\u00e1n y Eva",
+      "url": "https://open.spotify.com/track/4HLRak2Wxe2X2HndXYQ7pS"
     },
     {
       "added_at": "2019-09-09 17:49:24",

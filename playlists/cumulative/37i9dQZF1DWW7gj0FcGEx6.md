@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-223 songs - 11 hr 35 min
+224 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Epilogue](https://open.spotify.com/track/5dWmFO7mUr3YIzTerjnbjL) | [Mathias Rehfeldt](https://open.spotify.com/artist/1fHsor32W3AMTjZ1Xsxfnu), [Dark Matter Projekt](https://open.spotify.com/artist/7CmRc2vq7fSdr6mPAD3FYq) | [Tundra](https://open.spotify.com/album/5Uwl0AJBoJMnNsPws8jM3a) | 5:52 | 2021-12-20 | 2023-01-14 |
 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 | 2021-12-20 |  |
 | [Eternals Theme \- From "Eternals"](https://open.spotify.com/track/7fGvtkfEoQsR5sQ5zFfclD) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Eternals Theme \(From "Eternals"\)](https://open.spotify.com/album/1v68hlQzaQIdzTeLDtvWF4) | 3:47 | 2021-12-20 |  |
+| [Ethan’s Run](https://open.spotify.com/track/3zi5SM4swBKDHRyUl8nZEr) | [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe) | [Run Sweetheart Run \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7rzq9NipdYEHmpqoPoL9Us) | 2:45 | 2023-01-27 |  |
 | [Fantastic Beasts: The Secrets of Dumbledore](https://open.spotify.com/track/29IKXIoxVQxAcYpFoYJXFR) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Secrets of Dumbledore \(Music from the Motion Picture\)](https://open.spotify.com/album/6I3o1u6W4grZDRoYXrkwgk) | 2:47 | 2022-04-01 | 2022-07-29 |
 | [Fantastic Beasts: The Secrets of Dumbledore](https://open.spotify.com/track/7BS3eycBz0vjPt8uVIzMa2) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Secrets of Dumbledore \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP) | 2:47 | 2022-07-22 |  |
 | [Fargo Season 4 Main Theme \(Dustbowl\)](https://open.spotify.com/track/6wFhqQlSiQU5gTbKA2FCiq) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Fargo Year 4 \(Soundtrack from the MGM/FXP Series\)](https://open.spotify.com/album/2RbODMpxJNeZdeBTGv713k) | 2:16 | 2021-12-20 | 2022-07-09 |

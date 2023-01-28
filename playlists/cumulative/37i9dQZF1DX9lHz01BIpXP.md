@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=fvnHAKwCQ\-u8gnmqQaUJ8A">Loufi</a>
 
-65 songs - 3 hr 39 min
+66 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Jou Mase](https://open.spotify.com/track/1p3zRIVy5cuJmwCHLCEHdm) | [Die Twaalf](https://open.spotify.com/artist/0oRSb3BbA27o5W5dDroEXW), [Bailomusiq](https://open.spotify.com/artist/2ZSqXSAkJWBP9i95OW6jAm) | [Jou Mase](https://open.spotify.com/album/4scKcqaWvc2circ9KE6cS8) | 3:04 | 2022-12-01 |  |
 | [Kaapstad is Myne](https://open.spotify.com/track/7I0Qxy0l32WLTLAZHIf0eT) | [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO) | [Kaapstad is Myne](https://open.spotify.com/album/2CyG7LKG8En8K89wPskp95) | 3:29 | 2022-09-08 |  |
 | [Koue Bier](https://open.spotify.com/track/76jO6pxWKg26cKQUPpyH3c) | [KUIERKOORS](https://open.spotify.com/artist/7DVnGxt0tHeDtdj4vNttOw) | [Koue Bier](https://open.spotify.com/album/3VbBHp0FaHEyBTyQfskFvK) | 3:59 | 2022-09-08 |  |
-| [Level Up](https://open.spotify.com/track/5cSoFnlKff1cC7IU1tOLq8) | [Jodas OwnWorld](https://open.spotify.com/artist/7DVvbmpw08wrjCXD8fsi1P) | [Own World III](https://open.spotify.com/album/7wOATZwAI4XFYHEuwoRXnj) | 3:03 | 2022-09-08 |  |
+| [Level Up](https://open.spotify.com/track/5cSoFnlKff1cC7IU1tOLq8) | [Jodas OwnWorld](https://open.spotify.com/artist/7DVvbmpw08wrjCXD8fsi1P) | [Own World III](https://open.spotify.com/album/7wOATZwAI4XFYHEuwoRXnj) | 3:03 | 2022-09-08 | 2023-01-28 |
 | [Lewe Soos 'n Laanie](https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [GBOY](https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1) | [Lewe Soos 'n Laanie](https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb) | 3:21 | 2022-09-08 |  |
 | [Liewe Genade \(feat\. Loufi\)](https://open.spotify.com/track/7jN2OX96qJCgyhiOPqK4BT) | [John James](https://open.spotify.com/artist/4YSLyAh8QLYsRCMKJFVB3n), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Liewe Genade \(feat\. Loufi\)](https://open.spotify.com/album/01PgqcjuqlaxBSPpslFvSl) | 4:17 | 2022-09-08 |  |
 | [Mal](https://open.spotify.com/track/63Q6SWhpOsG1KnCZZTGPjy) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Mal](https://open.spotify.com/album/41DsSF0XlDJlNPaZTMRaTw) | 2:11 | 2022-09-08 |  |
@@ -46,6 +46,7 @@
 | [Mooiste Meisies](https://open.spotify.com/track/4V3i57trY95kxR28rEgMaw) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Mooiste Meisies](https://open.spotify.com/album/6CPg4uM54Rc86XT2bRfamF) | 3:41 | 2022-12-01 |  |
 | [Moola](https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Moola](https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t) | 3:04 | 2022-11-17 |  |
 | [My Main Bra Tops](https://open.spotify.com/track/0N1SlT7lVO21RgeqLYMtac) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Early B](https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd) | [My Main Bra Tops](https://open.spotify.com/album/1fi2Jaz0NJyc1yGMnlWwjT) | 3:03 | 2022-12-08 | 2023-01-14 |
+| [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 | 2023-01-27 |  |
 | [okay, oraait](https://open.spotify.com/track/30yMwESJ0zz1TlosluFC2t) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Ek Belowe, Demos \(pt\. 1\)](https://open.spotify.com/album/09ugntywMtYnjHWgLInVuj) | 2:37 | 2022-09-08 |  |
 | [Ongerep](https://open.spotify.com/track/3eXMAAp2vmVQYzau6Tr2Zy) | [Jaak](https://open.spotify.com/artist/7xPfiz8ANL69EeDuLNS8hm) | [Ongerep](https://open.spotify.com/album/5Q9qa3yXeuPfgDBBKrD7W5) | 3:32 | 2022-09-08 | 2022-11-18 |
 | [Passion Vir Die Game](https://open.spotify.com/track/5Bn47hs1QD5eByG6g11cKS) | [Ktog](https://open.spotify.com/artist/0rqXLEx5cewNCwWuuUTrfT), [King B Hf](https://open.spotify.com/artist/4Z9gJNJkCxN3xhjrEITDLt) | [Passion Vir Die Game](https://open.spotify.com/album/5IaeLYlC58bvW4tSpuAgF6) | 5:30 | 2023-01-13 |  |

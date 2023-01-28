@@ -1,13 +1,49 @@
 {
-  "description": "Rap from hell. Cover: $uicideboy$ and Germ",
-  "num_followers": 420720,
+  "description": "Rap from hell. Cover: Savage Ga$p",
+  "num_followers": 421622,
   "original_name": "Tirade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY2NTM3NywwMDAwMDAwMDkwOTBiYTZkZWM5MDg1NzlmMmE3NDFlODJlODFiZWIw",
+  "snapshot_id": "MTY3NDgzMjMyNiwwMDAwMDAwMDFjMDFkZmFhMDczZDQyNGJiNGY1MDk0ZTk3MTUzMGYx",
   "tracks": [
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "NOTHING IS FOREVER",
+        "url": "https://open.spotify.com/album/74wHsULDsjbJQ7HSBjH49z"
+      },
+      "artists": [
+        {
+          "name": "Haarper",
+          "url": "https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk"
+        }
+      ],
+      "duration_ms": 152316,
+      "name": "NOTHING IS FOREVER",
+      "url": "https://open.spotify.com/track/4PQmQnDUxanb5NkYAToaQr"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "from up on silent hill",
+        "url": "https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ"
+      },
+      "artists": [
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        },
+        {
+          "name": "Witchouse 40k",
+          "url": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "from up on silent hill",
+      "url": "https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR"
+    },
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
@@ -161,6 +197,30 @@
       "url": "https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Candy Flip",
+        "url": "https://open.spotify.com/album/4itcYsTVUHcZA6ii8Hogz5"
+      },
+      "artists": [
+        {
+          "name": "XZARKHAN",
+          "url": "https://open.spotify.com/artist/0ekK352BUEA00cnbGeOLkO"
+        },
+        {
+          "name": "STXRZ",
+          "url": "https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4"
+        },
+        {
+          "name": "L U N A",
+          "url": "https://open.spotify.com/artist/2e6JwrcJbzHnFPaSYofN4U"
+        }
+      ],
+      "duration_ms": 112988,
+      "name": "Candy Flip",
+      "url": "https://open.spotify.com/track/38ChjlYHZ0lNeCtjHspZhX"
+    },
+    {
       "added_at": "2023-01-11 15:52:53",
       "album": {
         "name": "HOT DEMON B!TCHES NEAR U ! ! !",
@@ -231,6 +291,26 @@
       "duration_ms": 174757,
       "name": "JFK",
       "url": "https://open.spotify.com/track/1utP2KYqItjzrXnbqkwNmz"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "TYRANT",
+        "url": "https://open.spotify.com/album/0R16n2AAbIfpifjHnL3Zun"
+      },
+      "artists": [
+        {
+          "name": "TVSTELESS",
+          "url": "https://open.spotify.com/artist/0fW2IGCuzMtYSToamwOAHS"
+        },
+        {
+          "name": "Mvko",
+          "url": "https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P"
+        }
+      ],
+      "duration_ms": 116781,
+      "name": "TYRANT",
+      "url": "https://open.spotify.com/track/1TdvR1RJGlEIGXLA1IXYi0"
     },
     {
       "added_at": "2022-09-02 06:10:00",
@@ -359,6 +439,26 @@
       "duration_ms": 167272,
       "name": "GODZILLA!",
       "url": "https://open.spotify.com/track/01jMnuRZA4M7ElocwLWocN"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "HORRID",
+        "url": "https://open.spotify.com/album/4MiHu92qJP8J5qkIYOyeCV"
+      },
+      "artists": [
+        {
+          "name": "SHUSH",
+          "url": "https://open.spotify.com/artist/17qcgleNjGWZoAqUM0MQHs"
+        },
+        {
+          "name": "Numb$kull",
+          "url": "https://open.spotify.com/artist/7wQoo6BKPCAnSZRgE3qjp2"
+        }
+      ],
+      "duration_ms": 135944,
+      "name": "HORRID",
+      "url": "https://open.spotify.com/track/5mIgOjCK6dDZyD0s54ZtSe"
     },
     {
       "added_at": "2022-11-25 05:02:00",

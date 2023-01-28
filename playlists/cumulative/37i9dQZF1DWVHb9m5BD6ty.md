@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-119 songs - 6 hr 14 min
+120 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Morning Matters](https://open.spotify.com/track/4hNgMLdda6VpNHUKdgmRMU) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5ipQzmfPyMJgG1zLF4NrBk) | 4:06 | 2021-10-26 | 2022-03-17 |
 | [Motions](https://open.spotify.com/track/5rdBZkZw3kkkZxCUym3E9j) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Motions](https://open.spotify.com/album/4VDVfTgQlwL828aEPK6lIe) | 3:33 | 2021-10-26 | 2022-03-17 |
 | [N17](https://open.spotify.com/track/39mt4BMqhMZ81iKXfsF58V) | [Tolü Makay](https://open.spotify.com/artist/337qYJNRgFq2iddKtqiHDG), [RTE Concert Orchestra](https://open.spotify.com/artist/2JV4LRW4zooGWJvD2Ek3Tk) | [N17](https://open.spotify.com/album/5vUdLwC1QrFldBnBfXxG1T) | 3:46 | 2022-03-17 |  |
-| [Need Nobody](https://open.spotify.com/track/1fbFNdqWWftOcG7X55Ywxa) | [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Need Nobody](https://open.spotify.com/album/7zSLVUmjrTMDuRDqNxJDby) | 3:41 | 2022-03-17 |  |
+| [Need Nobody](https://open.spotify.com/track/1fbFNdqWWftOcG7X55Ywxa) | [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Need Nobody](https://open.spotify.com/album/7zSLVUmjrTMDuRDqNxJDby) | 3:41 | 2022-03-17 | 2023-01-28 |
+| [Need Nobody](https://open.spotify.com/track/7kUDVLWuiEjQuFLAkPKDs8) | [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Need Nobody](https://open.spotify.com/album/5MI7Q5CoTcCRQmRKbrqlFb) | 3:41 | 2022-03-17 |  |
 | [No Love](https://open.spotify.com/track/1qt1MqjmSLTWwjhn46uDUn) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Out the Blue](https://open.spotify.com/album/5sTHywyZLnzU34tjOfdviE) | 3:11 | 2021-10-26 | 2022-03-17 |
 | [No Time](https://open.spotify.com/track/0upjJ52QhVlh2c8jpVTHw8) | [Evans Junior](https://open.spotify.com/artist/4cWQPBUFPUbuFCkYLGF8eC) | [No Time](https://open.spotify.com/album/2u7InQdZIw63L5PGASIAN2) | 2:52 | 2022-03-17 | 2023-01-27 |
 | [No Time](https://open.spotify.com/track/12hi13T84P1AHFmE5f3bue) | [Evans Junior](https://open.spotify.com/artist/4cWQPBUFPUbuFCkYLGF8eC) | [No Time](https://open.spotify.com/album/79oqsXyZ4dB5ih51Qm052A) | 2:52 | 2022-03-17 |  |

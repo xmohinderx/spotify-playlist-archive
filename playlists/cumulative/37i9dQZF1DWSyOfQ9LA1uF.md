@@ -4,7 +4,7 @@
 
 > Bedroom bootlegs and electroclash gems\. Cover: Chromeo
 
-156 songs - 12 hr 4 min
+157 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [We Are Rockstars](https://open.spotify.com/track/0EkSCMcRYcCs8JwrNbWtFo) | [Does It Offend You, Yeah?](https://open.spotify.com/artist/4bFfSfCBYpFh37ziXCSqUs) | [You Have No Idea What You're Getting Yourself Into](https://open.spotify.com/album/0KkuwUOW7mjgnCKQuxLFaV) | 3:48 | 2021-01-12 | 2022-07-29 |
 | [We Are Rockstars](https://open.spotify.com/track/0rNVVyvBvQkTijzWOf3M6C) | [Does It Offend You, Yeah?](https://open.spotify.com/artist/4bFfSfCBYpFh37ziXCSqUs) | [You Have No Idea What You're Getting Yourself Into](https://open.spotify.com/album/65KhNfhhdeIlKuT3ClZrMh) | 3:48 | 2021-01-12 |  |
 | [We Are The People \- Shazam Remix](https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 5:44 | 2022-02-03 |  |
-| [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi) | 4:22 | 2022-02-03 |  |
+| [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi) | 4:22 | 2022-02-03 | 2023-01-28 |
+| [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/5f5RzlEgheGXEsYAvmYil8) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk) | 4:22 | 2022-08-24 |  |
 | [White Knight Two](https://open.spotify.com/track/0VJT2RyHs2joPJhd64CWhZ) | [Surkin](https://open.spotify.com/artist/1XqqyIQYMonHgllb1uysL3) | [Next of Kin \- EP](https://open.spotify.com/album/5Sexq80a1kkKBPsjwaPh2y) | 5:00 | 2022-02-03 |  |
 | [You](https://open.spotify.com/track/37uDQ9iultffN3VQV8nU5j) | [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ) | [Passion](https://open.spotify.com/album/217EnKM918BRgm5ZbpIzqo) | 3:57 | 2022-02-03 | 2022-07-26 |
 | [You're My Heart \(CCENTURIESS Remix\)](https://open.spotify.com/track/31TzWmUMxeT6dgL2XTnVCv) | [Lioness](https://open.spotify.com/artist/1LVoFFTwquJPtOkyF0DVSN) | [Omens, Oracles & Signs \- Vol\. 1](https://open.spotify.com/album/4AkFRxQl0SSZF8BM6NLErL) | 6:18 | 2021-01-12 | 2022-07-29 |

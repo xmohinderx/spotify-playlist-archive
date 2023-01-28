@@ -1517,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/3XkM1TpwNfkZtm3Cahetbb"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122666,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/6iYfq90woQJ1kxEMxYbLeH"
+    },
+    {
+      "album": {
         "name": "Better Side",
         "url": "https://open.spotify.com/album/6YhS9NUBO7LvpuSm5U7pK8"
       },
@@ -2084,6 +2102,24 @@
       "duration_ms": 188588,
       "name": "bubblegum",
       "url": "https://open.spotify.com/track/6nex4xkeGBrngKZbgoDWBi"
+    },
+    {
+      "album": {
+        "name": "Bugs",
+        "url": "https://open.spotify.com/album/2IgEdXtkm2N3YJJuQP4SVL"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162575,
+      "name": "Bugs",
+      "url": "https://open.spotify.com/track/7uPoiTTpyRhDpSsLivlc1j"
     },
     {
       "album": {
@@ -11875,6 +11911,24 @@
     },
     {
       "album": {
+        "name": "once upon a time",
+        "url": "https://open.spotify.com/album/0gbp8QKU3YoK1364Zi9Arh"
+      },
+      "artists": [
+        {
+          "name": "One Hope",
+          "url": "https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210807,
+      "name": "once upon a time",
+      "url": "https://open.spotify.com/track/4NjujPB7uiaesE5BFzAWxL"
+    },
+    {
+      "album": {
         "name": "One More Day",
         "url": "https://open.spotify.com/album/2fMyuRiPrm57Z60DowjQPi"
       },
@@ -14234,7 +14288,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 219000,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/4tw3eWyL5mzal4LbQUCjkB"
@@ -14408,7 +14462,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 146823,
       "name": "Sober",
       "url": "https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x"
@@ -16524,7 +16578,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 181506,
       "name": "THE SHADE",
       "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"

@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Evolution of Joy",
+        "url": "https://open.spotify.com/album/3ZbnbSZwJooq41MPNH3iEC"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257726,
+      "name": "Flying #evolution",
+      "url": "https://open.spotify.com/track/6TeYhYbvXXVarx5XXD4l1G"
+    },
+    {
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/1PGDSkZS0LldDjD74gj96M"
       },
@@ -2866,6 +2884,24 @@
       "duration_ms": 293141,
       "name": "That's The Way I Feel About You",
       "url": "https://open.spotify.com/track/4SrcZBjrz1mTrjFfwuGG06"
+    },
+    {
+      "album": {
+        "name": "The Anima",
+        "url": "https://open.spotify.com/album/5gX48dDCJxNwgH80UPM7mD"
+      },
+      "artists": [
+        {
+          "name": "Cullah",
+          "url": "https://open.spotify.com/artist/5Emm04qPI9mTCoRI9XkHUz"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183868,
+      "name": "The Anima",
+      "url": "https://open.spotify.com/track/1zDPvPPoKIXqfwYR5eYkeE"
     },
     {
       "album": {

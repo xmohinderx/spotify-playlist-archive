@@ -929,6 +929,28 @@
     },
     {
       "album": {
+        "name": "from up on silent hill",
+        "url": "https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ"
+      },
+      "artists": [
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        },
+        {
+          "name": "Witchouse 40k",
+          "url": "https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150193,
+      "name": "from up on silent hill",
+      "url": "https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR"
+    },
+    {
+      "album": {
         "name": "Go!",
         "url": "https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w"
       },
@@ -1128,7 +1150,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 146938,
       "name": "I Feel Fantastic",
       "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
@@ -2976,7 +2998,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 140460,
       "name": "V-12",
       "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
@@ -3078,6 +3100,24 @@
       "duration_ms": 136200,
       "name": "WHACK!",
       "url": "https://open.spotify.com/track/5TGcpYaVo5OGJ608tAKfbL"
+    },
+    {
+      "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254838,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk"
     },
     {
       "album": {

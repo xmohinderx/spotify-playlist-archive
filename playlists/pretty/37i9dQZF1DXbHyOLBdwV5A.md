@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: Gui Brazil
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,191 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,282 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 39 | [Já Não Vivo Eu \- Michaell D Remix](https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Diego Albuquerque](https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Já Não Vivo Eu: Remixes](https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl) | 3:35 |
 | 40 | [Não Me Deixarás](https://open.spotify.com/track/4BnHVJFmhBPsqvikmIJk4T) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [Caio Cesar](https://open.spotify.com/artist/1sgcu8pUxJ3sHcVd3JrKB4) | [Não Me Deixarás](https://open.spotify.com/album/3yBJCoppOksf5E0u6x7l0O) | 3:04 |
 | 41 | [Dias de Verão](https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN) | [Jacobnew](https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Bruno Jovita](https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL) | [Dias de Verão](https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp) | 3:20 |
-| 42 | [Eu Vou](https://open.spotify.com/track/2YgeBn80B7K2RGgeVdsJbX) | [DJ Alan Nunes](https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo), [Tau](https://open.spotify.com/artist/40fjdEnFbsUttaYODZDk3f), [Fernanda Reis](https://open.spotify.com/artist/3pvntESKhMEdfQcC3wj88N) | [Eu Vou](https://open.spotify.com/album/2l0kfJQDmsBIaomiLBgpN8) | 3:21 |
-| 43 | [Tudo Que Há em Mim Te Adora \- Remix](https://open.spotify.com/track/7njYDKF5FPtyDrqY5MnSUf) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Banda Rafah](https://open.spotify.com/artist/2cHnwFzccVJ7AdQWUmVGXm) | [Tudo Que Há em Mim Te Adora \(Remix\)](https://open.spotify.com/album/6LkNHdL335Go1hFnhqMJRY) | 3:15 |
+| 42 | [Tudo Que Há em Mim Te Adora \- Remix](https://open.spotify.com/track/7njYDKF5FPtyDrqY5MnSUf) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Banda Rafah](https://open.spotify.com/artist/2cHnwFzccVJ7AdQWUmVGXm) | [Tudo Que Há em Mim Te Adora \(Remix\)](https://open.spotify.com/album/6LkNHdL335Go1hFnhqMJRY) | 3:15 |
+| 43 | [Eu Vou](https://open.spotify.com/track/2YgeBn80B7K2RGgeVdsJbX) | [DJ Alan Nunes](https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo), [Tau](https://open.spotify.com/artist/40fjdEnFbsUttaYODZDk3f), [Fernanda Reis](https://open.spotify.com/artist/3pvntESKhMEdfQcC3wj88N) | [Eu Vou](https://open.spotify.com/album/2l0kfJQDmsBIaomiLBgpN8) | 3:21 |
 | 44 | [Minha Força](https://open.spotify.com/track/6aq92u1ogPNE4nau6ibfb7) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Isabela Berté](https://open.spotify.com/artist/05ugdR89P8H8eqRAzKm0EQ), [Eduardo Vieira](https://open.spotify.com/artist/498iMTjHFSXEZ1S3tdQ0MN) | [Minha Força](https://open.spotify.com/album/6LbhPjrzrWMvlLd2BlAHNb) | 2:59 |
 | 45 | [Like Water](https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5) | [Like Water](https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih) | 2:41 |
 | 46 | [Rei da Glória](https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj) | [Dj Roony Moura](https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL), [Fabio Martin](https://open.spotify.com/artist/1t9PgXlq6ngWDDjSjB1m7E) | [Rei da Glória](https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9) | 4:26 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 69 | [Direção](https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Patrick Felix](https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf), [BR7](https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv) | [Direção](https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25) | 2:32 |
 | 70 | [Preso a Ti \- Remix](https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao) | [Preso a Ti \(Remix\)](https://open.spotify.com/album/0rFkK4UCEHCq5l4bqn3jCC) | 3:44 |
 
-Snapshot ID: `MTY3MzU4MTk3MiwwMDAwMDAwMGE5OTdlMGE4YWM0ZTRlYTI5M2M0ZGI1MWVkN2E4MzNl`
+Snapshot ID: `MTY3MzU4MTk3MiwwMDAwMDAwMGY0OTJkZDE2Zjk3YTg4MmE0YTYxMzhlMzllOTFiNWI5`

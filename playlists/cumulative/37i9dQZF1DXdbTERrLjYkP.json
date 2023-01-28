@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Meg Smith",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Rowan Drake",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Broken English",
+        "url": "https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182296,
+      "name": "Broken English",
+      "url": "https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z"
+    },
+    {
+      "album": {
         "name": "Brooklyn (Stripped)",
         "url": "https://open.spotify.com/album/1mOnHIpwGUAnU1jgbK3Ods"
       },
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 198990,
       "name": "Delilah (pull me out of this) - Acoustic",
       "url": "https://open.spotify.com/track/2cvxgzEDS9JJlSzchrUzxf"
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 257881,
       "name": "Difficult",
       "url": "https://open.spotify.com/track/3JiaA3hvuKu4Fjf6AWwVMX"
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 165165,
       "name": "eat ur heart out",
       "url": "https://open.spotify.com/track/53QT3zKgxfkMPyJ6rUjwLz"
@@ -1598,6 +1616,24 @@
       "duration_ms": 244403,
       "name": "Eddie's Song",
       "url": "https://open.spotify.com/track/6mO9n6CncvYtIcfWjFKsYH"
+    },
+    {
+      "album": {
+        "name": "Elephant In The Room",
+        "url": "https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161210,
+      "name": "Elephant In The Room",
+      "url": "https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3"
     },
     {
       "album": {
@@ -1702,7 +1738,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 202193,
       "name": "Everybody Seems to Love You",
       "url": "https://open.spotify.com/track/7glM6QKiCgb0w88hNf0USx"
@@ -1850,6 +1886,24 @@
       "duration_ms": 158048,
       "name": "Finish Line",
       "url": "https://open.spotify.com/track/1FzXRK8g8TxVdL8UjSWaRC"
+    },
+    {
+      "album": {
+        "name": "First Time Around",
+        "url": "https://open.spotify.com/album/6rypi6Trg8qZLNbimsZuYb"
+      },
+      "artists": [
+        {
+          "name": "Sophia James",
+          "url": "https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285440,
+      "name": "First Time Around",
+      "url": "https://open.spotify.com/track/23psMZPlDbapkhRYmJsjlv"
     },
     {
       "album": {
@@ -2120,7 +2174,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 210133,
       "name": "Good For Me",
       "url": "https://open.spotify.com/track/0Yf0jgTPenhgWIYgbOh4EL"
@@ -2178,6 +2232,24 @@
       "duration_ms": 204643,
       "name": "Green",
       "url": "https://open.spotify.com/track/1cNA86HqElqyeD2GMonlpl"
+    },
+    {
+      "album": {
+        "name": "Grow Out Of It",
+        "url": "https://open.spotify.com/album/6IWfby0SmSyiU2SSktO7E7"
+      },
+      "artists": [
+        {
+          "name": "Charlie Oriain",
+          "url": "https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151105,
+      "name": "Grow Out Of It",
+      "url": "https://open.spotify.com/track/58CUtwjF3a0YrYR5Akh3cn"
     },
     {
       "album": {
@@ -2340,7 +2412,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 218181,
       "name": "HAUNTED",
       "url": "https://open.spotify.com/track/66mdyICh5dlCRwji650pcp"
@@ -3024,7 +3096,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 192000,
       "name": "if you ask me to",
       "url": "https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L"
@@ -3046,6 +3118,24 @@
       "duration_ms": 198823,
       "name": "if you hate me, say it",
       "url": "https://open.spotify.com/track/5fY07Uq0bLdEKIolWaNjpO"
+    },
+    {
+      "album": {
+        "name": "In a Few Months",
+        "url": "https://open.spotify.com/album/2tGxcCJyqcipZtervTeD77"
+      },
+      "artists": [
+        {
+          "name": "Savannah Sgro",
+          "url": "https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172163,
+      "name": "In a Few Months",
+      "url": "https://open.spotify.com/track/6FAMGlXpqVkgCpTgA5iEYs"
     },
     {
       "album": {
@@ -3334,6 +3424,24 @@
       "duration_ms": 259741,
       "name": "letters from god",
       "url": "https://open.spotify.com/track/0kRxV8iHIHqqf1LEpfb2F5"
+    },
+    {
+      "album": {
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/3zFIcNN4VJ4W4UzWiaqxpV"
+      },
+      "artists": [
+        {
+          "name": "Syd Franklin",
+          "url": "https://open.spotify.com/artist/0FVBV0tOAo6AWz8ecbKjY7"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271579,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/0xx9SsVOjvYD31g5quYWdN"
     },
     {
       "album": {
@@ -4439,6 +4547,24 @@
     },
     {
       "album": {
+        "name": "Play Dumb",
+        "url": "https://open.spotify.com/album/7IPvJl6u4V0LbDVmq5eBVo"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "Play Dumb",
+      "url": "https://open.spotify.com/track/7oko8U6MOLDuMNEGyJ5sht"
+    },
+    {
+      "album": {
         "name": "Praying for July - Spotify Singles",
         "url": "https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C"
       },
@@ -4594,7 +4720,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 213698,
       "name": "realistic",
       "url": "https://open.spotify.com/track/4jSQEWDlHLrYEs8iDPb7qc"
@@ -4800,7 +4926,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 187986,
       "name": "Same People",
       "url": "https://open.spotify.com/track/3EOEvnYl2v0E899Ov9j0gE"
@@ -5452,6 +5578,24 @@
       "duration_ms": 198767,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/2H5swlv8mYd3P6R8mgeAPZ"
+    },
+    {
+      "album": {
+        "name": "Spam Calls",
+        "url": "https://open.spotify.com/album/4T7PakYjXie0JjTC6JqfSh"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pless",
+          "url": "https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179689,
+      "name": "Spam Calls",
+      "url": "https://open.spotify.com/track/34jEr8NupQF9PVS31Tyfff"
     },
     {
       "album": {
@@ -6170,6 +6314,24 @@
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "album": {
+        "name": "Us and Pigs",
+        "url": "https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt"
+      },
+      "artists": [
+        {
+          "name": "Sofia Isella",
+          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174118,
+      "name": "Us and Pigs",
+      "url": "https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt"
     },
     {
       "album": {

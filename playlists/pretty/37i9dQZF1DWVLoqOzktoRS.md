@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 
 ### [Buenas Noches](https://open.spotify.com/playlist/37i9dQZF1DWVLoqOzktoRS)
 
-> Sweet dreams are made of this\. Relajate, es hora de dormir.
+> Sweet dreams are made of this\. Relájate, es hora de dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,264 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,254 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 49 | [Suite Española, Op\. 47: I\. Granada \- arr\. for Guitar](https://open.spotify.com/track/2V0TK5l3PBqgtJNyKJjwnE) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Irina Kircher](https://open.spotify.com/artist/1LZITf1RftxFbYALmSwsjK) | [Summer Classics: Spanish Nights](https://open.spotify.com/album/4fHSfiyMWFy6CfYcBjYYeG) | 4:51 |
 | 50 | [Natzurka](https://open.spotify.com/track/1pWRYRMf2eg45qR7QGj1q0) | [Accordzêam](https://open.spotify.com/artist/0YipPOM5AooNU5bq9F1v0h) | [Tapas: Le balbum \(L'honneur de ceux qui le font, le bonheur de ceux qui l'ont \- Musique du monde et d'ailleurs\)](https://open.spotify.com/album/3Yty5AK5k4FUuS9MYNXQmd) | 5:40 |
 | 51 | [Redemption](https://open.spotify.com/track/7A6xs53bFNPhbc6OthfczP) | [Carlos José Alvarez](https://open.spotify.com/artist/0lfLTyjFKw6eqPPuifNcrA) | [Of Mind And Music \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16VYDRe5E7hsY4pc90DOC2) | 2:40 |
-| 52 | [My Foolish Heart](https://open.spotify.com/track/0gKeuMAHGVGwChhXGjgQbk) | [Robi Botos](https://open.spotify.com/artist/5jU6gDs60eyTyeB2nFxyuY) | [Arbitrage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tZ4QseytRXPDK4Q9RJWKY) | 5:10 |
-| 53 | [Klexos](https://open.spotify.com/track/0wZAoM90syxxV83rvNCRvi) | [Andre Corea](https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe) | [Klexos](https://open.spotify.com/album/4rWBjdfcie7h51l3lbDfoJ) | 3:14 |
-| 54 | [Love Theme](https://open.spotify.com/track/1doPy3bX81PTHcfujT1nyS) | [Tony Morales](https://open.spotify.com/artist/42N1S7HhIWeL9viIKm5luj), [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Hatfields & McCoys \(Soundtrack from the Mini Series\)](https://open.spotify.com/album/2f8WUz32TdEglQiy2cm12Z) | 2:55 |
+| 52 | [Love Theme](https://open.spotify.com/track/1doPy3bX81PTHcfujT1nyS) | [Tony Morales](https://open.spotify.com/artist/42N1S7HhIWeL9viIKm5luj), [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Hatfields & McCoys \(Soundtrack from the Mini Series\)](https://open.spotify.com/album/2f8WUz32TdEglQiy2cm12Z) | 2:55 |
+| 53 | [My Foolish Heart](https://open.spotify.com/track/0gKeuMAHGVGwChhXGjgQbk) | [Robi Botos](https://open.spotify.com/artist/5jU6gDs60eyTyeB2nFxyuY) | [Arbitrage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tZ4QseytRXPDK4Q9RJWKY) | 5:10 |
+| 54 | [Klexos](https://open.spotify.com/track/0wZAoM90syxxV83rvNCRvi) | [Andre Corea](https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe) | [Klexos](https://open.spotify.com/album/4rWBjdfcie7h51l3lbDfoJ) | 3:14 |
 | 55 | [Five Tango Sensations: Asleep \- Dreaming](https://open.spotify.com/track/5DMk4aG97MCz8WhrtUQJ4y) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [Bandoneón](https://open.spotify.com/artist/2y96EwnUYgJlJ2Xk8fEVex), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Piazzolla / Five Tango Sensations](https://open.spotify.com/album/2bTSNmLE1THh68IfCqb0wO) | 5:28 |
 | 56 | [Preludes, W419: No\. 1 in E Minor](https://open.spotify.com/track/0hyB8nQAuNkjO4djeVbkA8) | [Heitor Villa\-Lobos](https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p), [Fabio Zanon](https://open.spotify.com/artist/7CxgDz8p96NJV3OVwDfwJ9) | [Villa\-Lobos: The Complete Solo Guitar Music](https://open.spotify.com/album/1ULTJVkLSizWYzz9PqKFFa) | 4:38 |
 | 57 | [Cool](https://open.spotify.com/track/1HLjEoE0Ltos1wfzDTAHUX) | [Flamenco Music Musica Flamenca Chill Out](https://open.spotify.com/artist/6Rc650o8FvccjudHys09Vr) | [Flamenco Guitar: Flamenco Dance Chillout Music](https://open.spotify.com/album/3RUanqBy5GAOHjr08irUEz) | 3:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLoqOzktoRS.md) - [plain]
 | 59 | [Leyendo en el Hospital](https://open.spotify.com/track/3V0TY9qEn3nJUGvufkTOnY) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 3:07 |
 | 60 | [Los abrazos rotos \(From "Los abrazos rotos"\)](https://open.spotify.com/track/2WU9CCpOZPLXGcGyHeaiXs) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [Pedro Almodóvar & Alberto Iglesias Film Music Collection](https://open.spotify.com/album/62fhhQD67rCCE9AVZg6eqJ) | 3:00 |
 
-Snapshot ID: `MTY3MzY0NTM2MywwMDAwMDAwMGM3OWUyYzcwZDMwZDMyNDJiMjgzOGNiY2FiOGVhNmU3`
+Snapshot ID: `MTY3NDc5MTYxOCwwMDAwMDAwMGYwYTU1Zjk2ZDdkMzVlNTRhM2Q3NzQ4YmM4NGRhZTA1`

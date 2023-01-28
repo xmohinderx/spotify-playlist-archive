@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。©創通・サンライズ・MBS
 
-205 songs - 14 hr 54 min
+206 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [ふたりのまほう](https://open.spotify.com/track/2sxba3dBEuKW6MSlOCJ1Tl) | [May J.](https://open.spotify.com/artist/7sJzR6n8Buyv45FKrLvZIS) | [Futuristic](https://open.spotify.com/album/7c5cMkOoWDmlo5ptlYUs9f) | 3:19 | 2022-07-27 |  |
 | [めぐりあい](https://open.spotify.com/track/4tbhACZfGzzsyWAe65uY8S) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [めぐりあい](https://open.spotify.com/album/7laEqm4NggEgKK68Qg9L1s) | 4:23 | 2022-07-27 |  |
 | [めぐりあい \(feat\. GLIM SPANKY\)](https://open.spotify.com/track/4qnrzuxkX6PtsRcjuq4dHN) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [機動戦士ガンダム 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/05kgcnRGBB1etslod1gYCh) | 5:36 | 2022-07-27 | 2022-07-29 |
-| [オルフェンズの涙](https://open.spotify.com/track/3vvdRYBwFbDjsb8IaK0Pgs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [オルフェンズの涙](https://open.spotify.com/album/0WmvnavzuVxzVM4x8yHR0Q) | 5:06 | 2022-07-27 |  |
+| [オルフェンズの涙](https://open.spotify.com/track/7uJLIW51cR6Vp5edmquXZU) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA THE GREAT HOPE BEST](https://open.spotify.com/album/7pUZqSUfhCkV2MegF30rve) | 5:05 | 2022-12-06 |  |
+| [オルフェンズの涙](https://open.spotify.com/track/3vvdRYBwFbDjsb8IaK0Pgs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [オルフェンズの涙](https://open.spotify.com/album/0WmvnavzuVxzVM4x8yHR0Q) | 5:06 | 2022-07-27 | 2023-01-28 |
 | [オルフェンズの涙](https://open.spotify.com/track/6PZhFwvTxeMQySOXmjdI87) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [オルフェンズの涙](https://open.spotify.com/album/08EXbQtq5QBOfO7vD7MSJZ) | 5:06 | 2022-07-27 | 2022-07-29 |
 | [カラーリング バイ G\-レコ \- 劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ](https://open.spotify.com/track/5qIQj1hQA37xMINca0gDel) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [カラーリング バイ G\-レコ \(劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ\)](https://open.spotify.com/album/5JqvjrwI64lGv2nnN6JJ7s) | 3:54 | 2022-07-27 | 2022-07-29 |
 | [クオリア](https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 4:30 | 2022-07-27 |  |

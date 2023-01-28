@@ -2,9 +2,9 @@
 
 ### [Crash Course](https://open.spotify.com/playlist/37i9dQZF1DX3YlUroplxjF)
 
-> A heavy collision of punk, hardcore and everything in between\. Cover: Turnstile
+> A heavy collision of punk, hardcore and everything in between\. Cover: XL Life
 
-379 songs - 21 hr 58 min
+382 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Crisis](https://open.spotify.com/track/4QpvRKNHQEmyLes7zS86SY) | [Cevilain](https://open.spotify.com/artist/6XWwKgs6eaq7yZjhCELSvj) | [On Death & Dying](https://open.spotify.com/album/7bNkSAej1OUN3b6LlHPFZ2) | 4:00 | 2021-11-30 | 2022-07-26 |
 | [Crooked Smile](https://open.spotify.com/track/5yoX5wMeSivacYx6GpXVoF) | [Deez Nuts](https://open.spotify.com/artist/2w0Dmj9GV9ZrokNRcnRwav) | [Crooked Smile](https://open.spotify.com/album/2y2hNkrEjhldLXVl1dxqJe) | 2:59 | 2022-03-11 | 2022-07-12 |
 | [Cut Your Losses](https://open.spotify.com/track/5Li2YgiJ39nQOhwkzu7yfg) | [No Eden](https://open.spotify.com/artist/638c40rFuhN8BQ5PG4F78h) | [Abandon](https://open.spotify.com/album/3B04uLIBgtGiwx22PuMoe3) | 3:15 | 2022-04-01 | 2022-04-19 |
-| [Damn Excuses](https://open.spotify.com/track/6baLJiU334Yq5AU0XMyzsH) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 2:37 | 2022-01-21 |  |
+| [Damn Excuses](https://open.spotify.com/track/6baLJiU334Yq5AU0XMyzsH) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 2:37 | 2022-01-21 | 2023-01-28 |
 | [Dark Blue](https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Dark Blue](https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB) | 2:49 | 2023-01-19 |  |
 | [Deadlock](https://open.spotify.com/track/2etljcSPMGHn4xvBW2MKV6) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Deadlock](https://open.spotify.com/album/0mqqElHOV09nN5sMXd3g9i) | 4:15 | 2022-01-21 | 2022-07-29 |
 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 | 2022-01-21 | 2023-01-25 |
@@ -140,8 +140,10 @@
 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 | 2022-01-21 | 2022-07-29 |
 | [Fortune and Glory, Kid](https://open.spotify.com/track/0xU5hglREQipGgY488h3aF) | [CrazyEightyEight](https://open.spotify.com/artist/7cwpp7caWpzvusuo7wUHHQ) | [Burning Alive](https://open.spotify.com/album/4kSm2NqM7Xw397mZxOORds) | 3:05 | 2021-11-30 | 2022-07-28 |
 | [Fractional](https://open.spotify.com/track/2VDIAPnl1EikA70Ac1SzDd) | [Hundred Suns](https://open.spotify.com/artist/6kCXtTwJRgeHMNP8xPVehT) | [The Prestaliis](https://open.spotify.com/album/0JviA3bdJiw5MWZeb00FoV) | 3:39 | 2021-11-30 | 2022-07-28 |
+| [Gates of Horn](https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Gates of Horn](https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m) | 2:17 | 2023-01-28 |  |
 | [Ghost in My Home](https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu) | 3:20 | 2022-04-01 |  |
 | [Ghost in My Home](https://open.spotify.com/track/59Ku2whuuXy9y3ZiUiYqHP) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Ghost in My Home](https://open.spotify.com/album/18EL26qP11mySASVZGWIAf) | 3:20 | 2021-11-30 | 2022-07-29 |
+| [Grey Place](https://open.spotify.com/track/7AhZSxZKeut2oxvF5Gqb5X) | [XL LIFE](https://open.spotify.com/artist/6ql3PKpzPtJITCzZBebyaV) | [The Boogie Down South](https://open.spotify.com/album/4z7vVySwSgChpRyskj0TLT) | 4:00 | 2023-01-28 |  |
 | [Grit](https://open.spotify.com/track/2dWsxSNq5v8R4RDPYgHR72) | [All Faces Down](https://open.spotify.com/artist/0IohuWvOYtIiMCLsIXal8m) | [Grit](https://open.spotify.com/album/5Fzd9giUJk3cjCfCnpYZV8) | 3:26 | 2021-11-30 | 2022-04-19 |
 | [Guillotine](https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Euthanasia](https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy) | 3:36 | 2022-12-13 |  |
 | [Guttermilk](https://open.spotify.com/track/47gVb36hKgHWSJdTbRt1Sq) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Skin Suit](https://open.spotify.com/album/0ZU7yILLKVT81oYLyJsl7c) | 1:29 | 2022-12-13 |  |
@@ -238,7 +240,7 @@
 | [New England Palm Trees](https://open.spotify.com/track/7sxEeJ4ers4gOZ1W3YEnPP) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [The Lost Boys](https://open.spotify.com/album/5SAwCFrq2Is2UWzfXwjBlL) | 3:31 | 2021-11-30 |  |
 | [Nightmare](https://open.spotify.com/track/7AUF59Aa05cbLrlMEbMgy5) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Settle Your Sins](https://open.spotify.com/album/0e53cjfkjZVK83FBgQntce) | 2:59 | 2021-11-30 | 2022-07-20 |
 | [No One Likes](https://open.spotify.com/track/2y3SabOKYmQOs1rPVuYuKq) | [Phantom Bay](https://open.spotify.com/artist/5WyFLIEQF4woWGUmgfyg7v) | [No One Likes](https://open.spotify.com/album/1kpfkqWwZNs0cYyOYoHOpr) | 1:56 | 2022-03-11 | 2022-04-21 |
-| [No One's Listening](https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 2:50 | 2021-11-30 |  |
+| [No One's Listening](https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 2:50 | 2021-11-30 | 2023-01-28 |
 | [NO WAY OUT](https://open.spotify.com/track/473gsXF8axYSsplgUfnbXf) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [NO WAY OUT](https://open.spotify.com/album/5Fjl9DnL0Ugokz8V0UNMnP) | 3:35 | 2021-11-30 | 2022-07-29 |
 | [NO WAY OUT](https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [MONOMANIA](https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f) | 3:35 | 2022-04-01 |  |
 | [Nocturnal Future](https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Nocturnal Future](https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb) | 4:32 | 2022-11-26 |  |
@@ -249,6 +251,7 @@
 | [Numb](https://open.spotify.com/track/6d2jqNfzQVRQvrf9RmDBZf) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:41 | 2022-12-13 | 2023-01-20 |
 | [One Blood We Bleed](https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [One Blood We Bleed](https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr) | 2:25 | 2022-11-26 |  |
 | [One in a Million](https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S) | 3:41 | 2021-11-30 |  |
+| [One Love](https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [One Love](https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN) | 3:23 | 2023-01-28 |  |
 | [Only Apathy](https://open.spotify.com/track/5LdOiLY4RPFGIKsSePM6SD) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Delicate](https://open.spotify.com/album/2QmrpJjOedaEbBr1x2OpSH) | 4:34 | 2021-11-30 | 2022-07-29 |
 | [Only God Forgives](https://open.spotify.com/track/6zoBy8dlWxaa8F3YTtHLzu) | [Sorcerer](https://open.spotify.com/artist/2x8EjPnpXK19ZNVgoWuFAm) | [Only God Forgives](https://open.spotify.com/album/1luGKqSj2M0XJLKHtcegUq) | 2:28 | 2021-11-30 | 2022-06-30 |
 | [Ouija Cult](https://open.spotify.com/track/7iq0SyzrWXWf6Q6taKekkz) | [Vanish](https://open.spotify.com/artist/5ALPIt74KUX3vcfolc7u1W) | [Familiar Faces](https://open.spotify.com/album/3BZWYj6bn9OFNT7b4I7yTL) | 3:08 | 2021-11-30 | 2022-07-20 |
@@ -265,7 +268,7 @@
 | [Pain Is Forever](https://open.spotify.com/track/5DLlbsBczLDGOnqJgGzLXY) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Pain Is Forever](https://open.spotify.com/album/6nQaATxo757L1BqNi6d8Wi) | 2:23 | 2022-04-01 | 2022-06-09 |
 | [Paper Mache Man](https://open.spotify.com/track/6rlzltlWHrsPWUlLSbnW3F) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Paper Mache Man](https://open.spotify.com/album/37RnJBXOWCdq083TpY8cie) | 3:45 | 2021-11-30 | 2022-07-29 |
 | [Paralysed](https://open.spotify.com/track/3wnVnlL22rP7aPP8lA1G09) | [Rumours](https://open.spotify.com/artist/3ICln12zCpzSTTSlYz6CTH) | [Paralysed](https://open.spotify.com/album/1NoDgyhveWl2tof1t9vrSS) | 3:27 | 2021-11-30 | 2022-07-22 |
-| [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 | 2022-11-26 |  |
+| [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 | 2022-11-26 | 2023-01-28 |
 | [Patience](https://open.spotify.com/track/3CarDflN0DMF2L6AO5WbaC) | [Fake a Home](https://open.spotify.com/artist/4E8UqkZSYQd2Svt5FVJqwX) | [Patience](https://open.spotify.com/album/1lqb8NGSXoUlxEZUfzn3KX) | 3:03 | 2022-04-01 | 2022-05-10 |
 | [Persistence](https://open.spotify.com/track/5PDPN6xw3Wfz4keiYfT5cY) | [Friday Giants](https://open.spotify.com/artist/45R6go1p9WBboRbWjTmkoP) | [Something Worth Saving](https://open.spotify.com/album/5gJYoQGgWn94L4yddOtgRS) | 3:06 | 2021-11-30 | 2022-07-27 |
 | [Pick Me Up](https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [I'm Hard To Love, But So Are You, Vol\. 4](https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE) | 3:23 | 2021-11-30 |  |

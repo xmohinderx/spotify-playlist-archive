@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: tonari no Hanako
 
-2,779 songs - 7 day 2 hr 31 min
+2,780 songs - 7 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Affordance](https://open.spotify.com/track/2yrI7VnB2PmI4dFG5uhj0g) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [GuruConnect](https://open.spotify.com/artist/5RDnewAvgHZQ5gCf1h74kF) | [Affordance](https://open.spotify.com/album/6iO7FBxJHGGXpSbzGNmS6j) | 2:21 | 2022-01-31 | 2022-02-15 |
 | [Afraid??](https://open.spotify.com/track/3rfRK2PupQzcNUax4s0jQl) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Afraid??](https://open.spotify.com/album/0AwUv4QlEg7y7oZGSGtfW8) | 3:16 | 2022-11-29 | 2022-12-06 |
 | [After The Rain](https://open.spotify.com/track/6kNiKBBZUEwfdzHUboVPkp) | [Neko Hacker](https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [After The Rain](https://open.spotify.com/album/6V9oP59b4QiOjc75bhPKws) | 2:42 | 2021-11-24 | 2021-12-08 |
-| [Ai no Nuime](https://open.spotify.com/track/2VrLKMGOl1xiqMePpmBe3V) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Ai no Nuime](https://open.spotify.com/album/4TpFPHYF6Qpz8Mq5zPLtHT) | 3:59 | 2023-01-16 |  |
+| [Ai no Nuime](https://open.spotify.com/track/2VrLKMGOl1xiqMePpmBe3V) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Ai no Nuime](https://open.spotify.com/album/4TpFPHYF6Qpz8Mq5zPLtHT) | 3:59 | 2023-01-16 | 2023-01-28 |
+| [Ai no Nuime](https://open.spotify.com/track/6Fg4d8rimrexkqDqDxYsB0) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Boku no Uta de Kimi ni Eien wo](https://open.spotify.com/album/1MMlfzh5fLDMyMt72ZwQkY) | 4:01 | 2023-01-24 |  |
 | [AIDA](https://open.spotify.com/track/01Yi8a6gHOmEa7IV4ZDr77) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [AIDA](https://open.spotify.com/album/0urzy9q0PsNI7L0JDEyhuh) | 3:41 | 2022-04-11 | 2022-05-11 |
 | [ainome](https://open.spotify.com/track/5t1RcdN2BktSeqhKmzNeWL) | [Kaco](https://open.spotify.com/artist/5uWUJPAFWreFPks7f3wtMx) | [ainome](https://open.spotify.com/album/0SGNON6xaZc6jsxVx1LOhe) | 3:11 | 2022-08-23 | 2022-09-06 |
 | [AIR FOREST](https://open.spotify.com/track/6T1ttzHQKJFBeu2xBEG86R) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [JAZZY TOKEN](https://open.spotify.com/album/1DpL1XqsT7hI9EfxSxZUya) | 5:44 | 2022-07-25 | 2022-08-16 |

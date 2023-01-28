@@ -2,9 +2,9 @@
 
 ### [Boleros Pop](https://open.spotify.com/playlist/37i9dQZF1DWYOiy3rOFsDS)
 
-> Romance antigüito en voz de tus artistas pop con Mel Muñiz en portada.
+> Romance antigüito en voz de tus artistas pop con Luis Miguel en portada.
 
-231 songs - 13 hr 46 min
+232 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Cuando No Hay Nada Que Hablar](https://open.spotify.com/track/2RZ316OxGfbTPIrzIfvk7j) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Las Mujeres de Manzanero..\. Mis Nuevos Boleros](https://open.spotify.com/album/4vCLdaO8JOFjxfuN3qEwEe) | 3:52 | 2021-10-16 | 2022-07-28 |
 | [Cuando Vuelva a Tu Lado](https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Solo Boleros](https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD) | 2:58 | 2022-11-04 |  |
 | [Deje de Amar](https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo) | [Felipe Muñiz](https://open.spotify.com/artist/659iks2UnmZ5PXHOEF9YST), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Deje de Amar](https://open.spotify.com/album/1WL8muZp8DwnP4XDuovUou) | 3:12 | 2021-10-16 |  |
-| [DELIRIO DE GRANDEZA](https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:35 | 2022-04-04 |  |
+| [DELIRIO DE GRANDEZA](https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:35 | 2022-04-04 | 2023-01-28 |
 | [Dolorosa](https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [6 Conejo](https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72) | 4:25 | 2022-04-08 | 2022-08-10 |
 | [Dos Gardenias](https://open.spotify.com/track/1nkYtTqALWXxuOmqY6Fg4D) | [Mía Rizzo](https://open.spotify.com/artist/5LvJ9CM92axGdZuOQ55H10) | [Dos Gardenias](https://open.spotify.com/album/4QCtbd0nEn0gn4cyvmuIra) | 3:07 | 2021-10-16 | 2022-06-05 |
 | [Drume Negrita](https://open.spotify.com/track/5OREHskP2rZtA29N8sC82C) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI) | [Drume Negrita \(En Vivo Desde Fonobox\)](https://open.spotify.com/album/6rM2ZPTfVovvLmx21KLllK) | 2:44 | 2021-10-16 |  |
@@ -63,11 +63,11 @@
 | [El Amar El Querer](https://open.spotify.com/track/0VB7AFyREofDc5F1EbFEaN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por El Amor De Siempre](https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC) | 4:22 | 2021-10-16 |  |
 | [El Amar Y El Querer](https://open.spotify.com/track/5qRyfjbD4VV4ZXciES4bf5) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Mi Historia \- Pepe Aguilar](https://open.spotify.com/album/3ObKsP3cZfzfZ3PqeRqQCn) | 4:22 | 2021-10-16 | 2022-07-23 |
 | [El Día Que Me Quieras](https://open.spotify.com/track/5cwmxwBrRQFgSq4L3x3hVf) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Diego El Cigala in Concert \(Special Edition American Tour 2012\)](https://open.spotify.com/album/7787gRVyjKfPdwXeWIgm4h) | 4:12 | 2021-10-16 | 2022-07-29 |
-| [El Día Que Me Quieras](https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 4:01 | 2021-10-16 |  |
+| [El Día Que Me Quieras](https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 4:01 | 2021-10-16 | 2023-01-28 |
 | [El lugar correcto](https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:51 | 2022-12-20 |  |
 | [El Primer Amor](https://open.spotify.com/track/7gDmykuww1wLIlHgpBFW4Y) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [El Primer Amor](https://open.spotify.com/album/2Zh8iFi1H63FS7M9x6o7a2) | 3:37 | 2021-10-16 | 2022-07-25 |
 | [El primer amor \(feat\. Francisco Cespedes\)](https://open.spotify.com/track/4OfrXrHiVrINm1aAX0RxA3) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:39 | 2021-10-16 |  |
-| [El Reloj](https://open.spotify.com/track/2JiRKaA4JAHMPCqU7D74w6) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:01 | 2021-10-16 | 2022-09-27 |
+| [El Reloj](https://open.spotify.com/track/2JiRKaA4JAHMPCqU7D74w6) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:01 | 2021-10-16 |  |
 | [El Reloj](https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:01 | 2021-10-16 | 2022-07-29 |
 | [El Talismán](https://open.spotify.com/track/64MZOaFCf4lNm505bYoNQ4) | [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS) | [El Talismán](https://open.spotify.com/album/7fEE1iNLQdKRJjPhS74w7X) | 4:03 | 2021-10-16 | 2022-07-28 |
 | [En la Orilla del Mar](https://open.spotify.com/track/1RYZwlDS2wt1rj0c249X7x) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 2:45 | 2021-10-16 |  |
@@ -165,6 +165,7 @@
 | [Por Amarte Así \- Primera Fila \- Live Version](https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro en Primera Fila \- Día 2](https://open.spotify.com/album/7uxJVchLqSBte3L6aYsDFi) | 4:17 | 2021-10-16 |  |
 | [Por Debajo de la Mesa](https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167) | [Carlos Ponce](https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV) | [Boleros](https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2) | 3:17 | 2021-10-16 | 2022-07-28 |
 | [Por Debajo De La Mesa](https://open.spotify.com/track/1oaGF1WX4dMGOwZL3ueYVw) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Grandes Éxitos](https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA) | 3:04 | 2021-10-16 | 2022-07-29 |
+| [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-01-27 |  |
 | [Por Siempre Lara / Popurrí](https://open.spotify.com/track/5TAIgpzCktJ4NhIkRZk8QU) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 5:30 | 2021-10-16 | 2022-07-29 |
 | [Preso](https://open.spotify.com/track/1HbrJm8GebgXE24ixji0hR) | [Paco de María](https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2) | [Una Buena Señal](https://open.spotify.com/album/7K4Skg7SyLMzLhgSXAcoYC) | 3:47 | 2021-10-16 | 2022-09-09 |
 | [Preso](https://open.spotify.com/track/1nGrueHu2nJ4a0rzDkbHoB) | [Paco de María](https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2) | [Cuando Quieras..\. \(Edición Deluxe\)](https://open.spotify.com/album/558LPlVngGcdWuoF0BfjI7) | 3:47 | 2021-10-16 | 2022-07-29 |

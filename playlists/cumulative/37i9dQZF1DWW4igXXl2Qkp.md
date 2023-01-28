@@ -4,7 +4,7 @@
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Billacheck
 
-610 songs - 1 day 2 hr 51 min
+611 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [ROBINHOOD](https://open.spotify.com/track/7l6lKwJH1FRfR8MimLfymI) | [Premo.Dee](https://open.spotify.com/artist/11UbRFuA2kDC4nsrS8Liij), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU) | [ROBINHOOD](https://open.spotify.com/album/76GnEoEu4v2jEOg6aQ8Vfz) | 2:27 | 2021-12-01 | 2022-01-14 |
 | [Rock Wit Proph](https://open.spotify.com/track/6c6WMifL0O4QXMTQOhbB9M) | [Prophet the Artist](https://open.spotify.com/artist/0vXtpskNA5slWYQBsjlaJU) | [Rock Wit Proph](https://open.spotify.com/album/2MzJhr9etdHt3IEGvCLZoN) | 2:45 | 2022-01-19 | 2023-01-12 |
 | [Rock With Me Freestyle](https://open.spotify.com/track/5P3o2iXD9sXu1CkP3In5IF) | [DL](https://open.spotify.com/artist/05NZsP0LiblQ48YXdl0xyM) | [Rock With Me Freestyle](https://open.spotify.com/album/7gt9uyokWf72bXupEPvGSn) | 2:00 | 2022-05-04 | 2022-07-01 |
+| [Roll A opp](https://open.spotify.com/track/0KaFKWa8WC39FE7EPJL6Ld) | [Yung Sinn](https://open.spotify.com/artist/6LAFFVSbnH98HCIvehSG6c), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wrong Turn](https://open.spotify.com/album/6R53JypupsRdvmAjgN0fqQ) | 3:18 | 2023-01-27 |  |
 | [ROLL CALL](https://open.spotify.com/track/6SJ9TpTEGBwSrCxUAsnlGt) | [Danny Undead](https://open.spotify.com/artist/3o6ODMicwjy4z3yR20D0Jg) | [ROLL CALL](https://open.spotify.com/album/1VCRkU7j6CYGvPeAJx1bih) | 2:40 | 2022-03-23 | 2022-04-28 |
 | [Roll the Dice](https://open.spotify.com/track/2gEGG6MHS4zbXn8dByzjVa) | [Kansh](https://open.spotify.com/artist/5NhfYdxgkSTb0OIStFPR1Z) | [Roll the Dice](https://open.spotify.com/album/1Mq57P7vGDz5XD9YiSqYCj) | 2:41 | 2021-12-01 | 2022-01-14 |
 | [RuleBook](https://open.spotify.com/track/34wuoBWblZ4uwNSO5eTagY) | [Rundown Choppaboy](https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG) | [RuleBook](https://open.spotify.com/album/1ubEirgnCx29hE78AP6iYV) | 2:59 | 2022-10-26 | 2022-12-01 |

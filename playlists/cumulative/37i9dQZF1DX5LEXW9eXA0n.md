@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: YESUNG\(예성\)\)\) \(당신의 감성에 발라드, 려요\)
 
-715 songs - 1 day 22 hr 32 min
+718 songs - 1 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,10 +24,11 @@
 | [A Memorial Day](https://open.spotify.com/track/6XF1F1BMA7TNRX1f9USAnB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [talks about memory](https://open.spotify.com/album/6yxPjDBlRVhHaUKhybIFRx) | 3:29 | 2022-09-26 | 2023-01-11 |
 | [A Memory In My Heart](https://open.spotify.com/track/2XAu8WweXyyLJ6NjfcFBcB) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/38W3UiKhrmYIYXyWKBbypt) | 3:47 | 2022-03-31 | 2022-04-16 |
 | [A message to myself](https://open.spotify.com/track/5cFbSoEo5ft3hA746YTGd4) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [A message to myself.](https://open.spotify.com/album/1OvwMJt6WKik5pD7Ip7yrP) | 4:08 | 2022-03-04 | 2022-07-03 |
-| [A Night I Miss](https://open.spotify.com/track/0Oi1FhU5333ms9EUE5tvvR) | [Kim Chan Ho](https://open.spotify.com/artist/2iL5pnX0kNkBHvRUoEuj0l) | [A Night I Miss](https://open.spotify.com/album/2lbiIDp6m2ZpKBPDHbmPVv) | 3:43 | 2023-01-10 |  |
+| [A Night I Miss](https://open.spotify.com/track/0Oi1FhU5333ms9EUE5tvvR) | [Kim Chan Ho](https://open.spotify.com/artist/5NdgR8obfEFjKeoH2QZRxr) | [A Night I Miss](https://open.spotify.com/album/2lbiIDp6m2ZpKBPDHbmPVv) | 3:43 | 2023-01-10 |  |
 | [A Pining Wind](https://open.spotify.com/track/0VMcRleh9Pep4inwQSO2rv) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [A Pining Wind](https://open.spotify.com/album/3GrDwT7tSSKz861FBjRDZz) | 5:00 | 2022-09-29 | 2023-01-11 |
 | [A Rainy Night](https://open.spotify.com/track/63BbqOZ8mWl9PAkpy7yzcf) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [A Rainy Night](https://open.spotify.com/album/3NrgCIy6LfDqlxWaUHAbUi) | 3:57 | 2022-01-17 | 2022-04-09 |
 | [A season of us](https://open.spotify.com/track/5GfQle9Jd24WI694vlyv42) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.10](https://open.spotify.com/album/1bWCEocci2kyEpWLdOjVRW) | 3:54 | 2022-07-07 | 2022-08-19 |
+| [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [GUMMY](https://open.spotify.com/artist/0Uq946Jy0jtL8oJayJF6wK) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 | 2023-01-27 |  |
 | [Aching](https://open.spotify.com/track/017eGASA1dbhQOb942TuQx) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Alchemy of Souls, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU) | 4:11 | 2022-07-07 | 2022-10-08 |
 | [After Resignation](https://open.spotify.com/track/4VlTkxdN8up3zdaeqHp0zp) | [Mingyu](https://open.spotify.com/artist/07s1hDc1qCKvsglKf5B6X5) | [After Resignation : Re+Project ‘Re+Call’](https://open.spotify.com/album/1YeUugiuIG08qtZyeLpjK9) | 4:41 | 2023-01-10 |  |
 | [After the uphill road](https://open.spotify.com/track/6VqxPUU0GKTHJ0qlvzq89O) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: After the uphill road](https://open.spotify.com/album/5rDdHRH0w9dNSnbUnaLPXF) | 4:16 | 2022-12-16 |  |
@@ -402,6 +403,7 @@
 | [Memory of You](https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1) | [gyuri](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Memory of You](https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV) | 3:36 | 2022-08-18 | 2022-12-27 |
 | [Mind Warning](https://open.spotify.com/track/5vozeavVd0Cqmd1uFL3wQm) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1sO4Z6uq4I2rxojS8p4Ser) | 3:49 | 2022-03-07 | 2022-07-04 |
 | [Miracle](https://open.spotify.com/track/1YlRoSQJk4X87A5qujM7Uq) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Miracle](https://open.spotify.com/album/1fv8Fets8de0cbRrj3p3sX) | 3:56 | 2023-01-20 |  |
+| [Miracle](https://open.spotify.com/track/03foRBkthqRkysYT7FxWZV) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Miracle \- SM STATION](https://open.spotify.com/album/54O0kItm5ej0HThVMIv5hF) | 4:12 | 2023-01-27 |  |
 | [Mirror](https://open.spotify.com/track/4yYr4DzjAD7JZIrSd1CoZT) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Crazy in Love](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 4:18 | 2022-01-14 | 2022-01-17 |
 | [Miss You](https://open.spotify.com/track/0NDS6ljDOf9wNaT1hnvUQ6) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [THE M Pt\. 3](https://open.spotify.com/album/5ueOIlQ88WvT9tL6SKvU7D) | 4:07 | 2022-02-25 | 2022-04-17 |
 | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/track/0hItNTeDE4VYgm8lxxzlir) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/album/09KjzzpY8alpaYvkzI4fxX) | 4:02 | 2022-07-07 | 2022-09-06 |
@@ -680,6 +682,7 @@
 | [With You](https://open.spotify.com/track/6jqOoYltwMT2gyem0Kr1f0) | [Sung Hoon](https://open.spotify.com/artist/1pkzOJ2c68xoLfWUfMtdMJ) | [Woori The Virgin, Pt\. 6 \(Original Television Soundtrack\) \(Special Track\)](https://open.spotify.com/album/0bDZDb3zs3Ow0Qhj1Ryodw) | 4:19 | 2022-07-07 | 2022-09-06 |
 | [Without you](https://open.spotify.com/track/4F2U7mSwbYkf6jJ0TGnGS1) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Without you](https://open.spotify.com/album/6clWWq80REaFUvZH15r2DS) | 4:30 | 2021-12-23 | 2022-04-18 |
 | [Without You 네가 없는 하루](https://open.spotify.com/track/6SBFKVJwcgI204Yic1yESA) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Without You 네가 없는 하루](https://open.spotify.com/album/3JBG1fn2G6gAqToSJVwjrl) | 3:27 | 2022-03-04 | 2022-04-19 |
+| [Wonder Why](https://open.spotify.com/track/4OLpX8QqAqU3Km2PVUhrEF) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [The Interest of Love \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/6jJafoL33IKBwTif7ij9vF) | 3:20 | 2023-01-27 |  |
 | [wooden shoes](https://open.spotify.com/track/4VHjRm6Ok4pdl1kdw7lEmy) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [CHOI](https://open.spotify.com/artist/5phfMKsr54C4WieISO2j9j) | [wooden shoes](https://open.spotify.com/album/41P2aRYuHgSyHhw0HGwfVT) | 5:13 | 2022-07-07 | 2022-10-13 |
 | [Worse than friends](https://open.spotify.com/track/4OfeoCwjK4xFGn5XQ0dbfu) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [친구보다 더 못한 사이](https://open.spotify.com/album/2JsY4V9OqKbQRXezTHhj76) | 3:59 | 2022-10-04 | 2023-01-11 |
 | [YOU](https://open.spotify.com/track/3EbIEcLVkzpBEt2wKty6Iu) | [이준호 Lee Junho](https://open.spotify.com/artist/0gZSJwPrA4KC8S9bVOwE9m) | [YOU](https://open.spotify.com/album/2U9rzSHkcPOnq3q55U6RV0) | 3:40 | 2022-07-07 | 2022-10-08 |

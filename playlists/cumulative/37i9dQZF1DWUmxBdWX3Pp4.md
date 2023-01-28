@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Arcangel.
 
-291 songs - 16 hr 40 min
+293 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 | 2022-11-16 |  |
 | [Día De Pago](https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Día De Pago](https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe) | 3:07 | 2021-12-06 |  |
 | [Dígitos](https://open.spotify.com/track/6EGcTqLZZ7gkuhOIcyCp0k) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:16 | 2022-12-09 |  |
+| [El Anillo el Reloj](https://open.spotify.com/track/07oEiX9E5kBARkQuPlhj4m) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [El Anillo el Reloj](https://open.spotify.com/album/2DPU1QXFXARqUAPWtdSrIy) | 2:52 | 2023-01-27 |  |
 | [El Gran Robo, Pt\. 2](https://open.spotify.com/track/7oqxgOFRoLx9uDfgcMxkNa) | [Lito MC Cassidy](https://open.spotify.com/artist/0zgbk1EdcU6tt6QUOnCC5o), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Gran Robo, Pt\. 2](https://open.spotify.com/album/2ASgyx6vWb2VXZAxywMaBn) | 3:34 | 2021-12-06 | 2022-02-05 |
 | [EL INCA](https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [EL INCA](https://open.spotify.com/album/0NVqJU1egg3BuAtRyxUvz0) | 3:32 | 2021-12-06 | 2022-04-23 |
 | [El Mexicano](https://open.spotify.com/track/24a2AvxZM73Sg1zKtXdM3M) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:13 | 2021-12-06 |  |
@@ -193,6 +194,7 @@
 | [No Creyeron](https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [No Creyeron](https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25) | 2:30 | 2022-01-14 | 2022-06-04 |
 | [NO ES AMOR](https://open.spotify.com/track/7yIubrEebWussh2rtNz59F) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:13 | 2022-03-25 | 2022-06-04 |
 | [No Hay Fallo](https://open.spotify.com/track/6uX08Q1SKqYD5NqcpqbVZL) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q) | [No Hay Fallo](https://open.spotify.com/album/6quIBjOBol9YtKVjJAQqQm) | 2:53 | 2021-12-06 | 2022-04-23 |
+| [No Me Habla de Amor](https://open.spotify.com/track/421l9nHaLg8yMce3vuUJHf) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Geraldg](https://open.spotify.com/artist/3MZmqNnPdyJbit4hVtE0X1) | [No Me Habla de Amor](https://open.spotify.com/album/5b2m9DI0iAUahK7S4Regqh) | 3:54 | 2023-01-27 |  |
 | [No Me Importa un Carajo](https://open.spotify.com/track/1OGhv7OFVVIKsbVD3g4MAR) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:10 | 2021-12-06 | 2022-06-04 |
 | [No me retracto](https://open.spotify.com/track/06F1xerME9zW3bZMP4RweE) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP) | [No me retracto](https://open.spotify.com/album/3gRQFlAerNzf009idHlF92) | 2:21 | 2022-07-15 | 2022-09-03 |
 | [No Soy Yo](https://open.spotify.com/track/64z5CqcwEqEqncSZ1iILQ4) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [No Soy Yo](https://open.spotify.com/album/4kJ0ZhiZJBEcQgULwrKpO8) | 2:56 | 2022-06-03 |  |

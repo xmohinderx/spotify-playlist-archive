@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: The Kid LAROI
 
-4,585 songs - 10 day 11 hr 32 min
+4,588 songs - 10 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2810,6 +2810,7 @@
 | [Oh God](https://open.spotify.com/track/6cdKOMclc26RnmKSG6xYNI) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Oh God](https://open.spotify.com/album/4dC4vOL41bEhNZ63rXgZV7) | 2:33 | 2022-04-28 | 2022-05-06 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-05-19 | 2022-05-27 |
 | [Oh Laura](https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 3:36 | 2023-01-26 |  |
+| [oh mia](https://open.spotify.com/track/2ZJBYxThNkxpOrrX43vxNV) | [rowena](https://open.spotify.com/artist/5tLZAJVqLyHKzHOfQxK5cD) | [the sun is in virgo](https://open.spotify.com/album/7e0acr6R002xhXzmSm5dn2) | 3:50 | 2023-01-26 |  |
 | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/track/1hQTaxMocyO7uH3Mko9Tn2) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/album/5G8RlksQs4NlBrWcLEDPjY) | 2:27 | 2022-06-09 | 2022-06-17 |
 | [Oh Raya](https://open.spotify.com/track/7c13HkoACg8ZlZOzCoLqCW) | [Zamaera](https://open.spotify.com/artist/615EQd7FBV6I9KZahoOttg) | [Oh Raya](https://open.spotify.com/album/1jL68FHIyoXKrxwaVvZfTe) | 3:13 | 2022-04-28 | 2022-05-06 |
 | [Oh Shoot](https://open.spotify.com/track/5I6APyMZOoGMDqHnTFX0Rs) | [Yaung](https://open.spotify.com/artist/5brjWpkQWkAineD6T2Mx12) | [Oh Shoot](https://open.spotify.com/album/0irmk3TaBzXFuR9NUFH2MQ) | 2:41 | 2022-11-10 | 2022-11-18 |
@@ -3603,6 +3604,7 @@
 | [Sudi](https://open.spotify.com/track/3LkywtbZCk2EI2FfWb6dRj) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO), [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [Sudi](https://open.spotify.com/album/0m7fZLOwCN7LHvCaDXNdlN) | 2:41 | 2022-12-01 | 2022-12-09 |
 | [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-06-23 | 2022-07-01 |
 | [Sugar Rush](https://open.spotify.com/track/3nEUtYp1LdZCTVtbtXY5kx) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Sugar Rush](https://open.spotify.com/album/4kSMLX83HO83zyNs1GVf2P) | 2:57 | 2022-09-22 | 2022-09-30 |
+| [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-26 |  |
 | [Sugarcoat](https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 2:49 | 2022-10-06 | 2022-10-14 |
 | [summer](https://open.spotify.com/track/4osRLDg7abL4hLdfZ1c39g) | [RAFA](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [summer](https://open.spotify.com/album/2BLrXMpziCnaHv0gEeyjQ3) | 2:12 | 2022-12-08 | 2022-12-16 |
 | [Summer In Love](https://open.spotify.com/track/2GWN9DZzufK8Yo1ahtqZIm) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Summer In Love](https://open.spotify.com/album/6TcySjFEFk3pilszcwNwBA) | 3:55 | 2022-06-16 | 2022-06-24 |
@@ -3832,6 +3834,7 @@
 | [The Smoke](https://open.spotify.com/track/2WXelEIMTkDX8VENGdbHfk) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [The Smoke](https://open.spotify.com/album/6NH6Oo9j6WydhAZawVyLRE) | 3:39 | 2022-01-27 | 2022-02-04 |
 | [The Song](https://open.spotify.com/track/1TDlDMp9J4cpHj77DETvVb) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Be Together](https://open.spotify.com/album/0Ex4iuYoVnF8IBrBBIfYWU) | 4:08 | 2022-02-24 | 2022-03-04 |
 | [the song i always forget about](https://open.spotify.com/track/7i8xSbqSYwSsmMezkeVwCo) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [postcard from London](https://open.spotify.com/album/5gAu1hk4w44KokDujZmvKU) | 4:01 | 2022-12-22 | 2022-12-30 |
+| [THE SOUND](https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE) | 3:00 | 2023-01-27 |  |
 | [The Swallow \(feat\. Midories\)](https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [The Swallow \(feat\. Midories\)](https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq) | 3:37 | 2022-11-03 | 2022-11-11 |
 | [The Sweetest Part](https://open.spotify.com/track/6cm7s8AeYlIpwOg4vToAeq) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/6uFHbaZeX8HwXjqRLKR6hA) | 3:43 | 2022-04-28 | 2022-05-06 |
 | [The Things I Thought About You Started To Rhyme \(a子 Remix\)](https://open.spotify.com/track/6GNyCCOICBHOUO9Kfv9dMe) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl), [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [The Things I Thought About You Started To Rhyme \(a子 Remix\)](https://open.spotify.com/album/0mvw2vdvTp8wzMytYXkTbG) | 2:56 | 2022-01-06 | 2022-01-14 |

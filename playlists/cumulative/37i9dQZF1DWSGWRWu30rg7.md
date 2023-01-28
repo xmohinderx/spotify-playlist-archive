@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Aziz Hedra
 
-1,420 songs - 3 day 14 hr 53 min
+1,422 songs - 3 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -583,6 +583,7 @@
 | [Jakarta Keras](https://open.spotify.com/track/2XSMtk2ZMq5CsgOQsfo5lA) | [Penikmat Soto](https://open.spotify.com/artist/1dVhhCe5DGDavrsiSsxh0a), [MR\. WILD](https://open.spotify.com/artist/4eZTVAAADW5Zdjl51gOC4H), [Pandu Cristoper](https://open.spotify.com/artist/2jzxpQURxsEZGCIBEu1iXd) | [Jakarta Keras](https://open.spotify.com/album/3oUmSpD9m4cx0BSRnWsBKz) | 3:34 | 2022-06-23 | 2022-07-15 |
 | [Jakarta....Jakarta....Jakarta](https://open.spotify.com/track/67QKMcAcfMMqFtqNNhKiCM) | [Eky Paratama](https://open.spotify.com/artist/1b05l619XmRpqo7WOYkusy), [Hillary K](https://open.spotify.com/artist/3m7U0ofhIJxMyccLUVlQ0J), [Anjuan Julio Siahaan](https://open.spotify.com/artist/4KejmaDSpebt3TOa91XM8V), [Hendry Santoso](https://open.spotify.com/artist/3NwP4M5DmRVhk1Ce5UIZkT), [Archieta Aditya](https://open.spotify.com/artist/5tqfbisCT8ZnDKCsIer37J) | [Jakarta....Jakarta....Jakarta](https://open.spotify.com/album/7k1r107wi5vP1wC5k1iZUA) | 4:44 | 2022-06-02 | 2022-06-24 |
 | [Jalan Berbeda](https://open.spotify.com/track/1EDhbzLYcBnBPEkRwI8ke4) | [Chiki Fawzi](https://open.spotify.com/artist/2dpXcsschEWywZZepNfUpN) | [Jalan Berbeda](https://open.spotify.com/album/3D4jr8uhict1aoeUw9iEXp) | 4:37 | 2022-09-29 | 2022-10-14 |
+| [Jalan Yang Berbeda](https://open.spotify.com/track/0m4fottdKyM0HIqzeFRU3a) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk) | [Jalan Yang Berbeda](https://open.spotify.com/album/4UZnLt6ojfslpOdJ4gM9qz) | 4:06 | 2023-01-27 |  |
 | [Jangan Ada Kata Pisah](https://open.spotify.com/track/7DaCGEtryNWN3ARuCh8SZp) | [Restu](https://open.spotify.com/artist/2gMmi7vPvdivhlvnNb4dGz) | [Jangan Ada Kata Pisah](https://open.spotify.com/album/2w5nNjHCqLVfb6rboEPKsj) | 4:28 | 2023-01-12 | 2023-01-27 |
 | [Jangan Lagi](https://open.spotify.com/track/2xXhI8FaR54xZxetgfdISQ) | [Nadila](https://open.spotify.com/artist/64cAxir4E6CdENT9Y2u0am) | [Jangan Lagi](https://open.spotify.com/album/1oznmAj4bV6xh0Ujv9AF6k) | 3:47 | 2022-02-03 | 2022-02-18 |
 | [Jangan Lekas Menua](https://open.spotify.com/track/4BFTb9QTFzAZ9pfi20H05l) | [Gari](https://open.spotify.com/artist/1RAKEz87qYb69IYv5zPh4j) | [Jangan Lekas Menua](https://open.spotify.com/album/2rMR1WgSqgp6r7QqEmz5uq) | 6:24 | 2022-11-03 | 2022-12-01 |
@@ -1203,6 +1204,7 @@
 | [Surreal Nights](https://open.spotify.com/track/2UsmAGjH32LIr1CwFZJ967) | [Coldice](https://open.spotify.com/artist/0djh39SWFRSJFmZfg7HAvE) | [Surreal Nights](https://open.spotify.com/album/1NdfVLg5Wy9bzYcXm93cC2) | 3:45 | 2022-03-24 | 2022-04-08 |
 | [Sweet Dream](https://open.spotify.com/track/5KwbJCNyXza8t1Kx8hjAxP) | [Loonleanan](https://open.spotify.com/artist/2rjfQxqzMcgjCfYRwtMolR) | [Sweet Dream](https://open.spotify.com/album/7LkWOSn72drb9N9oVtWTZn) | 3:45 | 2022-02-24 | 2022-03-11 |
 | [Sweet Fireflies](https://open.spotify.com/track/0gPvZdS56I2fmydQ9DmimX) | [Azia Riza](https://open.spotify.com/artist/1KGM9rClQHr594EvCosOFQ) | [Sweet Fireflies](https://open.spotify.com/album/6CjySER3wneArL91Fbe3WI) | 3:59 | 2022-01-20 | 2022-02-04 |
+| [SWEET LIE](https://open.spotify.com/track/5yTg8FkvpnEXsmCDdh84mV) | [GLAS](https://open.spotify.com/artist/54gEuDssq8kGyw3cm2550u) | [SWEET LIE](https://open.spotify.com/album/2ozGt0kkhHxvoJZI0kvUND) | 3:02 | 2023-01-27 |  |
 | [Sweet Little Misery](https://open.spotify.com/track/17pOoCORb3bHlEOCuisBtE) | [Zizi](https://open.spotify.com/artist/2aWiM9yTe85lKiQuRiRdFe) | [Unelevated](https://open.spotify.com/album/4C9gqE8wJ3ImWwKFNFkQ0C) | 4:21 | 2022-11-30 | 2023-01-13 |
 | [Sweet Little Misery](https://open.spotify.com/track/5U27zdxXRqZQHhrDbVAIDx) | [Zizi](https://open.spotify.com/artist/2aWiM9yTe85lKiQuRiRdFe) | [Sweet Little Misery](https://open.spotify.com/album/10R7a5FpbeadYUluFXAp5p) | 4:21 | 2022-01-27 | 2022-02-11 |
 | [Sweet Sour](https://open.spotify.com/track/6puXAhIpCzMzmlxTsZnQ0F) | [Mad Elephant](https://open.spotify.com/artist/2d00FwarxUPoFLD0BFwqIa), [Axel Kurnia Pradana](https://open.spotify.com/artist/4FsxQ3LO7ujB9Lfb6h4uyi) | [Sweet Sour](https://open.spotify.com/album/1L2YbViU5ufVacrpbB7RQU) | 4:22 | 2022-11-17 | 2022-12-01 |

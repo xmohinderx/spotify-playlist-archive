@@ -2,9 +2,9 @@
 
 ### [Nuwe Afrikaans](https://open.spotify.com/playlist/37i9dQZF1DX20N6YlBoCpF)
 
-> Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U?si=D5BD3zw4Qmm2cQenRMRPgw">Nádine</a>
+> Net die varste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4uNWMdfRm0Fd0qbOxBgFPL?si=efqSdXErSteCIMvqyvMNaw">Deidré Barnard</a>
 
-207 songs - 11 hr 39 min
+208 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Baljaar](https://open.spotify.com/track/09UStOTTT5ZYKoUuROS6Sa) | [Augusta Zietsman](https://open.spotify.com/artist/3jZWDJXxKcoeidgkf8N6mO) | [Baljaar](https://open.spotify.com/album/32ELnH0XXiDCWFTy4znOfp) | 2:51 | 2022-11-10 | 2022-11-25 |
 | [Beheer Verloor](https://open.spotify.com/track/0f875VUlQ6bv1yoma2TYUZ) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Beheer Verloor](https://open.spotify.com/album/3AO17da9Gz9djPWZf8XoJC) | 3:01 | 2022-09-01 | 2022-11-11 |
 | [Bella](https://open.spotify.com/track/2laH6IayV3wrHxjjsFawOK) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Aansteeklik](https://open.spotify.com/album/3dOKf9YXYnPLlRLaCwsL2G) | 4:13 | 2022-10-20 | 2022-12-09 |
+| [Beskerm Jou Hart](https://open.spotify.com/track/6L7t6WouMiMp03T6IocgBQ) | [Deidré Barnard](https://open.spotify.com/artist/4uNWMdfRm0Fd0qbOxBgFPL) | [Beskerm Jou Hart](https://open.spotify.com/album/1ic0wKTlW4AsHzEwfKSIPv) | 3:12 | 2023-01-27 |  |
 | [BETER DAT DIT STIL IS](https://open.spotify.com/track/0V8nod51VGfo5PA0V9IhzA) | [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj), [Slamma D](https://open.spotify.com/artist/4fRD6JB528hNdAVikqKvHb), [TIPEX](https://open.spotify.com/artist/0CTjYCxC7xHfP4knLDidPh) | [BETER DAT DIT STIL IS](https://open.spotify.com/album/36i5QEt8tERjtF8BFGK6ee) | 3:10 | 2022-10-06 | 2022-10-21 |
 | [Bittereinder](https://open.spotify.com/track/4sQp6xzP0lGJs1B1oQ9WtU) | [Tertius rooi](https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl) | [Bittereinder](https://open.spotify.com/album/5DDFbHNSCLBFSjWncD2oAz) | 4:12 | 2022-11-24 | 2022-12-16 |
 | [Bloemfontein Brandewyn](https://open.spotify.com/track/7lEyvahKa3pC0Miv8pUvDE) | [Tizel](https://open.spotify.com/artist/5GxWSg5bans5XQW52qCqSn) | [Bloemfontein Brandewyn](https://open.spotify.com/album/5xSEfEttemZ6L8LywnEta3) | 3:10 | 2022-10-20 | 2022-11-18 |
@@ -121,7 +122,7 @@
 | [Mooiste Meisies](https://open.spotify.com/track/4V3i57trY95kxR28rEgMaw) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Mooiste Meisies](https://open.spotify.com/album/6CPg4uM54Rc86XT2bRfamF) | 3:41 | 2022-10-27 | 2022-11-18 |
 | [Moola](https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Moola](https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t) | 3:04 | 2022-11-17 | 2022-12-09 |
 | [My Hele Lyf \- Live](https://open.spotify.com/track/3HTL5qBOzXLFU5snDl5krF) | [Samantha Leonard](https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw) | [Seisoen 2 \- Top 5 \(Live\)](https://open.spotify.com/album/7mY9sILLbKkZjJOeoJp4Fp) | 3:06 | 2022-10-03 | 2022-11-25 |
-| [My Main Bra Tops](https://open.spotify.com/track/0N1SlT7lVO21RgeqLYMtac) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Early B](https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd) | [My Main Bra Tops](https://open.spotify.com/album/1fi2Jaz0NJyc1yGMnlWwjT) | 3:03 | 2022-12-08 |  |
+| [My Main Bra Tops](https://open.spotify.com/track/0N1SlT7lVO21RgeqLYMtac) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Early B](https://open.spotify.com/artist/5TPAUNFxyxSe1eyIeY5sQd) | [My Main Bra Tops](https://open.spotify.com/album/1fi2Jaz0NJyc1yGMnlWwjT) | 3:03 | 2022-12-08 | 2023-01-28 |
 | [My Nannas](https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [My Nannas](https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc) | 3:17 | 2022-10-13 |  |
 | [My Persoon](https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc) | [Die Campbells](https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H), [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [My Persoon](https://open.spotify.com/album/0x2D2KYd5jIzeffnnRgynF) | 3:32 | 2022-11-24 |  |
 | [My Sonskyn](https://open.spotify.com/track/2CktNfTd3lvPHwVfBaSGxR) | [Melissa van Jaarsveld](https://open.spotify.com/artist/1R2IoeZ8xw9Y35es1vZp4j) | [My Sonskyn](https://open.spotify.com/album/3Yd6n0KAvRrsuKOLlVlXPU) | 4:03 | 2022-12-08 |  |

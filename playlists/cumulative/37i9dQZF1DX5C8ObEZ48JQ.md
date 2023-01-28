@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU?si=hfF2Vou4RiqRc6btCSPfrg"> Pawzz </a>\. Artwork: Isu Kim.
 
-200 songs - 10 hr 26 min
+201 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [GREENLIGHT](https://open.spotify.com/track/55wukDqh7RY770ebt0EAif) | [wavyakz](https://open.spotify.com/artist/7CxjmcnsxK4d7j09wyUNDj) | [GREENLIGHT](https://open.spotify.com/album/2AfewMlrsvFicTdGkDgrhM) | 3:01 | 2022-09-02 | 2022-10-01 |
 | [Grow Dat](https://open.spotify.com/track/4fnL6ouRuxb83QQ1Wf8s56) | [Indigo Stella](https://open.spotify.com/artist/3GXgxaSpm0hNom0dS4414e) | [Return To The Sun](https://open.spotify.com/album/5Pw8aGXot4nYO8EAHmArCr) | 3:02 | 2023-01-25 |  |
 | [HABIT \(feat\. Killer Kau\)](https://open.spotify.com/track/3Cvkk8JTZW0QzdePkIwBIZ) | [SWAZI GOONS](https://open.spotify.com/artist/56sVSq3yFAZwkm2lgasESt), [Killer Kau](https://open.spotify.com/artist/53ZXQRpE0KfS0GRrgctR4R) | [HABIT \(feat\. Killer Kau\)](https://open.spotify.com/album/49luS6B9cvo5p2zTnWV9kU) | 5:45 | 2022-10-28 | 2023-01-26 |
+| [Happiness Suits You](https://open.spotify.com/track/1KKHBYV7ce3a7HiCWNbMxJ) | [Chris Adjei](https://open.spotify.com/artist/4dsMlvMbs5sloze4XAnowk) | [And It Goes Like](https://open.spotify.com/album/7bIp5rVA68IEfpX7rvZGDs) | 3:19 | 2023-01-25 |  |
 | [Hera](https://open.spotify.com/track/0gVR1CE3EiTnqOIgHLYO1c) | [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [YO NI KA](https://open.spotify.com/album/3HRhmAyzFPKFOhcomyH7FC) | 6:00 | 2023-01-25 |  |
 | [Hii](https://open.spotify.com/track/2NybYJnrhNVE41MoRaN9hR) | [Hanstone](https://open.spotify.com/artist/3ng2KcHOkTc7LlDqPNJaxw) | [Hii](https://open.spotify.com/album/5nwakyBA2Yhl1joVx5gp7F) | 2:52 | 2023-01-25 |  |
 | [Hold My Side](https://open.spotify.com/track/12IMKt1mdZv3S0649siQOC) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Rare Gem](https://open.spotify.com/album/4RVEXkoDefTG5hQhkPogzC) | 2:52 | 2022-09-30 | 2022-10-29 |

@@ -6586,7 +6586,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 152743,
       "name": "Pass me the rum",
       "url": "https://open.spotify.com/track/1bFBNbZHpR4CRjUJuRKaq3"
@@ -8130,6 +8130,24 @@
       "duration_ms": 126000,
       "name": "Sk\u00e5l d\u00e5!",
       "url": "https://open.spotify.com/track/0Q3MqvGBtkI8YaDb7GzlWS"
+    },
+    {
+      "album": {
+        "name": "Sm\u00e5stadsbarn",
+        "url": "https://open.spotify.com/album/02KeH86FYjuw8Td8c1vhb5"
+      },
+      "artists": [
+        {
+          "name": "Dom F\u00f6rsta",
+          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "Sm\u00e5stadsbarn",
+      "url": "https://open.spotify.com/track/2Yb05z9QdEQnlSxcuMcWfC"
     },
     {
       "album": {

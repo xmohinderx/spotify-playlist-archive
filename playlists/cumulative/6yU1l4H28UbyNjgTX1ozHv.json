@@ -276,7 +276,7 @@
       ],
       "date_added": "2020-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 165294,
       "name": "Call Me Maybe - Acoustic",
       "url": "https://open.spotify.com/track/4PgcZ3foDPLLruyBjVlfo3"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 187500,
       "name": "Crazy Love - Acoustic",
       "url": "https://open.spotify.com/track/5OnYymymXaoxjTEEOjqcae"
@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Green Green Grass (Acoustic)",
+        "url": "https://open.spotify.com/album/3yB0O9r2ZlbizS47IRbKyq"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132130,
+      "name": "Green Green Grass - Acoustic",
+      "url": "https://open.spotify.com/track/672lv9gFJeWGQhmfLVOTnO"
+    },
+    {
+      "album": {
         "name": "The Grenade Sessions",
         "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
       },
@@ -778,7 +796,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 238934,
       "name": "Heal the World - Acoustic",
       "url": "https://open.spotify.com/track/3xcIbxd1AJveTfs8ehX6Pb"
@@ -818,6 +836,28 @@
       "duration_ms": 141653,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP"
+    },
+    {
+      "album": {
+        "name": "Here Comes the Sun (Acoustic)",
+        "url": "https://open.spotify.com/album/0A8ljJPiB39ollmnAu0CKA"
+      },
+      "artists": [
+        {
+          "name": "Molly Hocking",
+          "url": "https://open.spotify.com/artist/1r7YzLH9GkZI4uEWyMRUeZ"
+        },
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144786,
+      "name": "Here Comes the Sun - Acoustic",
+      "url": "https://open.spotify.com/track/6lynns69p4zTCRxmmiSY1x"
     },
     {
       "album": {
@@ -1114,7 +1154,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 155064,
       "name": "Iris - Acoustic",
       "url": "https://open.spotify.com/track/48nctG97UElrgvtNFhTAqQ"
@@ -1983,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "So Sick (Acoustic)",
+        "url": "https://open.spotify.com/album/2k0vtHSago585tJuBIBnN9"
+      },
+      "artists": [
+        {
+          "name": "Amber Leigh Irish",
+          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153370,
+      "name": "So Sick - Acoustic",
+      "url": "https://open.spotify.com/track/1JnwWC2dcOHjjb85glfjKc"
+    },
+    {
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
       },
@@ -2554,7 +2612,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 234090,
       "name": "You Belong With Me - Acoustic",
       "url": "https://open.spotify.com/track/2kLo4Rvt1RKvo4vjDZ9fHy"
@@ -2662,7 +2720,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 184200,
       "name": "You're So Vain - Acoustic",
       "url": "https://open.spotify.com/track/6tIj648abzmT84fdY7eTRW"

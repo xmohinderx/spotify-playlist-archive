@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,451 likes - 70 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,593 likes - 70 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Philophobia](https://open.spotify.com/track/0kEUW8rGtl1WQ2x86T8wVG) | [Jadele](https://open.spotify.com/artist/2UkGmTJ7RVPmoyKNtU7oi7) | [Unveiled](https://open.spotify.com/album/3E7fVBNAObpFVkUAzrHkkR) | 4:22 |
 | 2 | [You \- Wankelmut Remix](https://open.spotify.com/track/1UbJMShJ8K22WX3vW9FVas) | [Fabique](https://open.spotify.com/artist/69CFg5Gp1zrNZbqLjprGS8), [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH) | [You](https://open.spotify.com/album/6vuHAobWZhR04B3NDRdOPC) | 7:19 |
-| 3 | [Wetterleuchten \- Edit](https://open.spotify.com/track/4J17SL5qZhXMbbTJYLmwVD) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Wetterleuchten](https://open.spotify.com/album/5MhknX4cQ1JJa449x4s3JE) | 3:10 |
-| 4 | [Captain Nemo \- Edit](https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Captain Nemo](https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu) | 4:03 |
-| 5 | [Kolm](https://open.spotify.com/track/2dakWeynruxsUyeSFvFaaP) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Kolm](https://open.spotify.com/album/1Ll05kLvstpcJT7iBKykdd) | 6:23 |
-| 6 | [Stardust and Glitter](https://open.spotify.com/track/6TEAfm3Hh7JYNDHHj6MKHn) | [Jürgen Kaisr](https://open.spotify.com/artist/6hzeX2ERTNIeQ3QolZk8sW) | [Elektronenschwungdynamik](https://open.spotify.com/album/7DLN31hXu37rDh3EuksFME) | 6:42 |
-| 7 | [Electro Chemical Mind](https://open.spotify.com/track/01W3qXxnLN6kTH5YcCST1i) | [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Electro Chemical Mind](https://open.spotify.com/album/7rBzbXM2aD8veaxD0yXf1p) | 5:04 |
-| 8 | [Kinematic Motion](https://open.spotify.com/track/4rUhhO3Ztf1Ij9gjumbz8W) | [Co\-Fusion](https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT) | [Porcupine EP](https://open.spotify.com/album/06OzwkhkR0MPA4mT2SUdBD) | 7:45 |
-| 9 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 |
-| 10 | [Never Stop](https://open.spotify.com/track/7tM5oIOzdcgxCS7mY4wqBh) | [Rose Ringed](https://open.spotify.com/artist/1KML3dPprByep3tRnYSJDj) | [Never Stop](https://open.spotify.com/album/7q7ywDcSsx8TtcUJ56Irw5) | 7:23 |
-| 11 | [Your Eyes](https://open.spotify.com/track/1CAaDJOqduOgx6CwazkMBH) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Your Eyes](https://open.spotify.com/album/1CuL8wEn70rVlgsRz6AuQC) | 3:52 |
-| 12 | [Dualism](https://open.spotify.com/track/5BOR3weDfPrKSU01sHiaY9) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Dualism](https://open.spotify.com/album/0pQ00YF0S5Xj68eJlWxwAN) | 3:56 |
+| 3 | [Freestyle](https://open.spotify.com/track/2wm1t5GH1Hanv7WaJRd2IK) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Freestyle](https://open.spotify.com/album/1iNcmx49l7GEhzXcjOvlJN) | 4:00 |
+| 4 | [Wetterleuchten \- Edit](https://open.spotify.com/track/4J17SL5qZhXMbbTJYLmwVD) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Wetterleuchten](https://open.spotify.com/album/5MhknX4cQ1JJa449x4s3JE) | 3:10 |
+| 5 | [Captain Nemo \- Edit](https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Captain Nemo](https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu) | 4:03 |
+| 6 | [Kolm](https://open.spotify.com/track/2dakWeynruxsUyeSFvFaaP) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Kolm](https://open.spotify.com/album/1Ll05kLvstpcJT7iBKykdd) | 6:23 |
+| 7 | [Stardust and Glitter](https://open.spotify.com/track/6TEAfm3Hh7JYNDHHj6MKHn) | [Jürgen Kaisr](https://open.spotify.com/artist/6hzeX2ERTNIeQ3QolZk8sW) | [Elektronenschwungdynamik](https://open.spotify.com/album/7DLN31hXu37rDh3EuksFME) | 6:42 |
+| 8 | [Electro Chemical Mind](https://open.spotify.com/track/01W3qXxnLN6kTH5YcCST1i) | [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Electro Chemical Mind](https://open.spotify.com/album/7rBzbXM2aD8veaxD0yXf1p) | 5:04 |
+| 9 | [Kinematic Motion](https://open.spotify.com/track/4rUhhO3Ztf1Ij9gjumbz8W) | [Co\-Fusion](https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT) | [Porcupine EP](https://open.spotify.com/album/06OzwkhkR0MPA4mT2SUdBD) | 7:45 |
+| 10 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 |
+| 11 | [Never Stop](https://open.spotify.com/track/7tM5oIOzdcgxCS7mY4wqBh) | [Rose Ringed](https://open.spotify.com/artist/1KML3dPprByep3tRnYSJDj) | [Never Stop](https://open.spotify.com/album/7q7ywDcSsx8TtcUJ56Irw5) | 7:23 |
+| 12 | [Your Eyes](https://open.spotify.com/track/1CAaDJOqduOgx6CwazkMBH) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Your Eyes](https://open.spotify.com/album/1CuL8wEn70rVlgsRz6AuQC) | 3:52 |
 | 13 | [Echodeltaalfaxray \- AKA AKA Remix](https://open.spotify.com/track/5OmDWhyNKMjew4AXxs9QwD) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO), [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72) | [Echodeltaalfaxray](https://open.spotify.com/album/2U2sD0FAmRORmxhmJBDSJB) | 5:34 |
 | 14 | [Andromeda Mission](https://open.spotify.com/track/7EKpyfbmopbXMaMLW9QEd3) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 7:55 |
 | 15 | [3 DAYS AWAKE](https://open.spotify.com/track/42PM6bBmZrcQWcW7UwXSgK) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [3 DAYS AWAKE](https://open.spotify.com/album/1B4WNa7kYXPUB3f8WWO2at) | 2:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 69 | [This Is a Dream](https://open.spotify.com/track/7AfMHMKIg9MKMN7rePjukN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [This Is a Dream](https://open.spotify.com/album/5KpV9ITrp6tRkR1Qp9DEaM) | 8:31 |
 | 70 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
 
-Snapshot ID: `MTY3NDIxMTE1OSwwMDAwMDAwMDI1ZjMzYWM1ODQ3Yzg1MDFiNTgxMTRlOWQ0M2IwMDdi`
+Snapshot ID: `MTY3NDgxMjA2MiwwMDAwMDAwMGQzYmYwYTljYWM3YjExMmMwNDg1N2EyNDNlNTFmZWQ5`

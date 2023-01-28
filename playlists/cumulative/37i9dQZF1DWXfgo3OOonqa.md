@@ -4,7 +4,7 @@
 
 > vem kan relatera?
 
-791 songs - 1 day 11 hr 4 min
+792 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [TRAKTEN](https://open.spotify.com/track/1h5yrNRlYtGnj4ndmD8Umw) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS) | [TRAKTEN](https://open.spotify.com/album/6Y1ljcBhfHY8pmogk5gzzr) | 2:41 | 2022-06-17 | 2022-09-16 |
 | [Trap](https://open.spotify.com/track/52Rfxgs43UCT1Y0zeLXtcS) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Trap](https://open.spotify.com/album/2BrSwCJGDVzRqnPV6T3ZR6) | 2:57 | 2022-07-14 | 2022-11-11 |
 | [Trapper Of The Year \(Intro\)](https://open.spotify.com/track/7zxphfIdUMOfZOAVpKFlld) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Trapper Of The Year \(Intro\)](https://open.spotify.com/album/65DP4VYecvLUlUVfCsXPLF) | 1:50 | 2021-12-16 | 2022-03-18 |
+| [Trapstar](https://open.spotify.com/track/65EbLNXHsdqXbMN8PR7AnC) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [Trapstar](https://open.spotify.com/album/38cssEJR7TZKy0bNaMfZj8) | 2:45 | 2023-01-27 |  |
 | [Trasigt glas](https://open.spotify.com/track/4eFQPNLcX2Gjf9CQKTyPVA) | [Jeaff](https://open.spotify.com/artist/04OtPVhopqSHGWhzy5O5bE) | [Trasigt glas](https://open.spotify.com/album/3hEjLk2Vd6fH7jWpz0zBVj) | 3:04 | 2022-07-14 | 2022-08-05 |
 | [Trenches](https://open.spotify.com/track/6GIPblmWy8KKRD8BQQKWKA) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [NEW DRILLA IN TOWN](https://open.spotify.com/album/5DCR0bCZzBrvP9vWSuoCr3) | 3:02 | 2021-12-16 | 2022-01-07 |
 | [TRODDE](https://open.spotify.com/track/43woH2R02ENlYh5mPEoB15) | [Ariano](https://open.spotify.com/artist/0Ev9Z7t7CObnDJKLHz8Bqn), [Gogge B](https://open.spotify.com/artist/7nwAfxcTz13PR6B2GqWckp) | [TRODDE](https://open.spotify.com/album/0MgnD1Ubre0qjDiwbA81og) | 2:51 | 2022-09-22 | 2022-10-14 |
@@ -783,7 +784,7 @@
 | [WORK](https://open.spotify.com/track/5OzdrftdnWSlMGe0DvClHQ) | [Artie](https://open.spotify.com/artist/6QRV4iTMBVKyGEjmer3xoE) | [WORK](https://open.spotify.com/album/2WS16GROWxzLYGZZ9hZ2uC) | 2:27 | 2022-08-12 | 2022-09-30 |
 | [Wrong](https://open.spotify.com/track/7v8xBtqysin09ZJydjvBrU) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Wrong](https://open.spotify.com/album/3EcMZZdQTERvCfqacWzDJY) | 2:22 | 2022-04-07 | 2022-05-13 |
 | [WTF](https://open.spotify.com/track/5icviz5s1QVM5L8x5WRLE1) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7), [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [WTF](https://open.spotify.com/album/1aHDb79keEnYyij5TCyttJ) | 2:50 | 2022-11-24 |  |
-| [WYL](https://open.spotify.com/track/7mkiUW1z79Hpg2QtSs1J1u) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [WYL](https://open.spotify.com/album/6s2vPgjP50wMj71WeUb7OV) | 2:32 | 2022-11-11 |  |
+| [WYL](https://open.spotify.com/track/7mkiUW1z79Hpg2QtSs1J1u) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [WYL](https://open.spotify.com/album/6s2vPgjP50wMj71WeUb7OV) | 2:32 | 2022-11-11 | 2023-01-28 |
 | [X](https://open.spotify.com/track/3AJAmTxurgfdXiQ6ppZ16o) | [Denz](https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7) | [X](https://open.spotify.com/album/62BatDUk0pR2ytYCNViSV1) | 2:32 | 2021-12-16 | 2022-01-20 |
 | [Xatar](https://open.spotify.com/track/5MDEk3mfOcZs4BRgalCqyC) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Selfmade \(Deluxe\)](https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV) | 2:04 | 2022-08-18 | 2022-11-11 |
 | [XXX \(Bow Wow Wow\)](https://open.spotify.com/track/4TAyG62NOxropFYKxka0PC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [XXX \(Bow Wow Wow\)](https://open.spotify.com/album/3FJTaFuP5szXBanrrZkANl) | 2:05 | 2022-11-24 |  |

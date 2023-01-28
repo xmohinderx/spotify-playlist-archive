@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,302 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,394 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 26 | [Flow Rei Davi](https://open.spotify.com/track/49sVmywDm2p3QzO21D38GP) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Flow Rei Davi](https://open.spotify.com/album/1CxEGNXIWBXNJjm0dZcpj7) | 1:58 |
 | 27 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 |
 | 28 | [Reino](https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Reino](https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs) | 3:05 |
-| 29 | [Jardim](https://open.spotify.com/track/00u4kGgE3Dn2PHoXwSF63O) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Jardim](https://open.spotify.com/album/4zESGmL812r4wAGRRqcs9V) | 2:33 |
+| 29 | [Pedra](https://open.spotify.com/track/6sjh2JLz8A7x70M2LcVGWO) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Pedra](https://open.spotify.com/album/1PeuH7zChJkNCw4AL6zd9w) | 3:10 |
 | 30 | [Chamada Perdida](https://open.spotify.com/track/7BmMRC47OA2nmrXWUbVnUD) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Chamada Perdida](https://open.spotify.com/album/7DZThcuPneAoEFfyk4As9O) | 2:38 |
 | 31 | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Ago de Souza](https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk), [Stella Yeshua](https://open.spotify.com/artist/2X2BJy2XLWgvdeAdKFkrfW), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [Jana Baps](https://open.spotify.com/artist/0QJVszKiVI4rciiKkjWpcj) | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q) | 3:37 |
 | 32 | [God Vem](https://open.spotify.com/track/5fnIy8tlUEBJR7uyCOROY4) | [Doze Project](https://open.spotify.com/artist/5SeJmolJVjYD3OvwBjU5ez), [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [P\. Oliveira](https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd), [SALMAZO](https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB), [SevenRxni](https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps) | [God Vem](https://open.spotify.com/album/14rj4ezy5VAkPG1FD4WzGX) | 3:04 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 35 | [Teste](https://open.spotify.com/track/5kPf9ZCxLt92DykkiXeTkc) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Teste](https://open.spotify.com/album/3WywysC8VS5EfAnv8jTFoi) | 3:12 |
 | 36 | [Desilusões](https://open.spotify.com/track/1F4PqJexlZ6A92ZVUeaMc9) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Desilusões](https://open.spotify.com/album/5O7lHnbVs8HaS88T7ME2LB) | 2:30 |
 | 37 | [Ele É Deus Em Mim](https://open.spotify.com/track/2VOh7QzZkz6PwPBPcK1Hr3) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Kivitz](https://open.spotify.com/artist/7sua8S5Zjhkru2Ma50lfHL) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 4:54 |
-| 38 | [Pedra](https://open.spotify.com/track/6sjh2JLz8A7x70M2LcVGWO) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Pedra](https://open.spotify.com/album/1PeuH7zChJkNCw4AL6zd9w) | 3:10 |
+| 38 | [Jardim](https://open.spotify.com/track/00u4kGgE3Dn2PHoXwSF63O) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Victor Henry](https://open.spotify.com/artist/2BlDMHgN6HfWB0wvGa8DPu) | [Jardim](https://open.spotify.com/album/4zESGmL812r4wAGRRqcs9V) | 2:33 |
 | 39 | [Se Pá](https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR) | [Ney Moura](https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4) | [Se Pá](https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC) | 2:43 |
 | 40 | [Imersum](https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Imersum](https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ) | 2:50 |
 | 41 | [Além](https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Notas de um Coração Amado](https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6) | 2:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 69 | [Colapso](https://open.spotify.com/track/5mGDcMNaF5qTCoAznCCgSq) | [Carolina Murback](https://open.spotify.com/artist/1NTKKj5fNWPAXagLbY8m0i), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Colapso](https://open.spotify.com/album/7o1Hd3z3AE5L7kZTl84rIv) | 2:58 |
 | 70 | [Coragem](https://open.spotify.com/track/7uLoivnv3lFVeVpmxBTQZs) | [C\. Braga](https://open.spotify.com/artist/5vatyKN28NkojtJkfg9fTp), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Coragem](https://open.spotify.com/album/0z0h9ux91jTdLKcgSRpNvb) | 2:48 |
 
-Snapshot ID: `MTY3MzU4MjA3MywwMDAwMDAwMDVmZDQzYTllNTlkYmRmZDNmZjE0NDcxMjQ2Mjk2NzVj`
+Snapshot ID: `MTY3MzU4MjA3MywwMDAwMDAwMDk4NGY2ODNkNzlmZWQzY2IwNThjZTU4MzBkMWJkZDBh`

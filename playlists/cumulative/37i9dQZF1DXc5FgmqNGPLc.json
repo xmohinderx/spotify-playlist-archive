@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "In Concert",
+        "url": "https://open.spotify.com/album/07fBpu7zIOCeOwCFKoWnu3"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489226,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/062FRhtHo7W8ZvZUefVIb9"
+    },
+    {
+      "album": {
         "name": "Live in Paris",
         "url": "https://open.spotify.com/album/6UeVvu9ou7G4ZhZIE5rSRn"
       },

@@ -1,13 +1,41 @@
 {
   "description": "The best of today's funk. Cover: Louis Cole",
-  "num_followers": 287979,
+  "num_followers": 288071,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDUwMTQwMywwMDAwMDAwMGQ1NTZjNDdjNmEzNWJhYWI4ZGRkY2I5YTMzNGU5YTk0",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDYwMGFhMDNiMjJhOWVlZjVkODlkY2JhZWVjNDQyZmJj",
   "tracks": [
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Running For Cover",
+        "url": "https://open.spotify.com/album/5zIAjLfyBTRf68LnNVVAHX"
+      },
+      "artists": [
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        },
+        {
+          "name": "Rion S",
+          "url": "https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7"
+        },
+        {
+          "name": "DOMENICO",
+          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
+        },
+        {
+          "name": "Prince Street Bodega",
+          "url": "https://open.spotify.com/artist/00Z7KikCldWg5aQzEk2AUS"
+        }
+      ],
+      "duration_ms": 159818,
+      "name": "Running For Cover",
+      "url": "https://open.spotify.com/track/1YmJBGtzz7BsvyvekfkRzz"
+    },
     {
       "added_at": "2023-01-23 19:16:43",
       "album": {
@@ -47,6 +75,22 @@
       "duration_ms": 331093,
       "name": "Unshakable",
       "url": "https://open.spotify.com/track/3BIGoqltdL4NJOyAZvGQHu"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Favorite Prize",
+        "url": "https://open.spotify.com/album/5HaGsMhpq3xrbazWp0LBtH"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hawley",
+          "url": "https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB"
+        }
+      ],
+      "duration_ms": 289522,
+      "name": "Favorite Prize",
+      "url": "https://open.spotify.com/track/2To1ZbSfpUMzqdmKhGFcuS"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -179,6 +223,30 @@
       "duration_ms": 185962,
       "name": "Ready for Me",
       "url": "https://open.spotify.com/track/5iM1P5J6esvy7ogV54PNf2"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Boogie Down",
+        "url": "https://open.spotify.com/album/4Vakb3vIt914RvFrIiWS9h"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        }
+      ],
+      "duration_ms": 196541,
+      "name": "Boogie Down",
+      "url": "https://open.spotify.com/track/3APtmyeA8mmubGvyCoW2Ga"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1665,22 +1733,6 @@
       "url": "https://open.spotify.com/track/28pkJWdrY2xsYfHRHzsOI5"
     },
     {
-      "added_at": "2022-03-11 16:11:57",
-      "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6BQIlSZuzrWsQC150m62fR"
-      },
-      "artists": [
-        {
-          "name": "Andrea",
-          "url": "https://open.spotify.com/artist/616WpPUg9RHskfwi4iGscv"
-        }
-      ],
-      "duration_ms": 182181,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/5W5qOh7MA0eXjvhj103smA"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "New Best Friend",
@@ -1835,42 +1887,6 @@
       "duration_ms": 202061,
       "name": "Just One Of Those Days",
       "url": "https://open.spotify.com/track/7Cj3KziZ8nuZpM1LD56fgL"
-    },
-    {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "Lost Myself",
-        "url": "https://open.spotify.com/album/3sklQMiJt3Nzjparx4K4N9"
-      },
-      "artists": [
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        }
-      ],
-      "duration_ms": 208702,
-      "name": "Lost Myself",
-      "url": "https://open.spotify.com/track/5YZYw60dD9M1NZDjHSByqs"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Bad Weather",
-        "url": "https://open.spotify.com/album/1bwgOsclXAxyvkAoHx8DFk"
-      },
-      "artists": [
-        {
-          "name": "Anushka",
-          "url": "https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody"
-        },
-        {
-          "name": "STR4TA",
-          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Bad Weather - STR4TA Remix (Radio Edit)",
-      "url": "https://open.spotify.com/track/2jLZjkEclqKAbFefuLfenW"
     }
   ],
   "unique_name": "Nu-Funk",

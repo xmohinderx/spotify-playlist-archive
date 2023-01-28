@@ -469,6 +469,28 @@
     },
     {
       "album": {
+        "name": "MELANIE",
+        "url": "https://open.spotify.com/album/5oxgb6KTrhJZgbzfwP0v9S"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cort\u00e9$",
+          "url": "https://open.spotify.com/artist/3DplAKAVidNrhpivWNLMWC"
+        },
+        {
+          "name": "COQE",
+          "url": "https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154131,
+      "name": "ARMANI",
+      "url": "https://open.spotify.com/track/4KwZ20XnpbxLSADiiXt8AG"
+    },
+    {
+      "album": {
         "name": "Atr\u00e9vete",
         "url": "https://open.spotify.com/album/0UHCE7QbmG9iS2IfUqPiRg"
       },

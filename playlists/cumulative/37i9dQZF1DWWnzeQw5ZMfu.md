@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there.
 
-200 songs - 15 hr 42 min
+201 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Love Is All Around \- Live at Live 8, Murrayfield Stadium, Edinburgh, 6th July 2004](https://open.spotify.com/track/5U76VjqWelcbPZ89mpkyqt) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 6:14 | 2022-04-14 | 2022-07-29 |
 | [Lucky \(feat\. Colbie Caillat\) \- Live at the Charter One Pavilion, Chicago, IL, 8/13/2009](https://open.spotify.com/track/7FMqPuhsyqfA65Mw0QgU1i) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Jason Mraz's Beautiful Mess: Live on Earth](https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs) | 3:20 | 2022-04-14 |  |
 | [Magic \- Live](https://open.spotify.com/track/14d4L1iSXXkgO1jJ8zu9M7) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Olivia's Live Hits](https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON) | 4:34 | 2022-08-09 | 2023-01-09 |
+| [Magic \- Live](https://open.spotify.com/track/0C1okCpaUOIftyYFSyyHZi) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 4:34 | 2022-12-09 |  |
 | [Make It Happen \- Live at Live 8, Hyde Park, London, 2nd July 2005](https://open.spotify.com/track/6BseMPoDSTRa9Gt6SM8wMz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 5:25 | 2022-04-14 | 2022-04-20 |
 | [Make You Feel My Love \(Live at Hotel Cafe\)](https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:52 | 2022-04-14 | 2022-07-29 |
 | [Mama \- Live From Istanbul, Turkey / 1997](https://open.spotify.com/track/5VALtlFvT3u0zcn4YqVxWE) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Stop](https://open.spotify.com/album/2SkOJGyLKB4B7u4LBQXnGl) | 5:17 | 2022-04-14 | 2022-07-21 |
@@ -185,7 +186,7 @@
 | [Viva La Vida \- Live](https://open.spotify.com/track/5ZV67iTfNpW3ueMCELLiSX) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live 2012](https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m) | 4:58 | 2022-04-14 |  |
 | [Waiting On the World to Change \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 3:50 | 2022-04-14 |  |
 | [Waking Up In Vegas \- Live At MTV Unplugged, 2009](https://open.spotify.com/track/532jcgk0ZQgRze05omDsqo) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Unplugged \(Live At MTV Unplugged, New York, NY/2009\)](https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG) | 3:31 | 2022-04-14 | 2022-06-04 |
-| [Warwick Avenue \- Live](https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Warwick Avenue \(Live\)](https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw) | 3:57 | 2022-04-14 |  |
+| [Warwick Avenue \- Live](https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Warwick Avenue \(Live\)](https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw) | 3:57 | 2022-04-14 | 2023-01-28 |
 | [Waterloo \- Live](https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 3:51 | 2022-04-14 |  |
 | [West End Girls \- Live at the O2 Arena, London \- 21 December 2009](https://open.spotify.com/track/4nKfwUyunCQQEp0ljZ2H0I) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Pandemonium \(Live at the O2 Arena, London \- 21 December 2009\)](https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL) | 5:14 | 2022-04-14 | 2022-08-02 |
 | [What's Love Got to Do with It \- Live in Arnhem](https://open.spotify.com/track/5s0b3c1FUhcXkqn2r6Lqm5) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Tina Live](https://open.spotify.com/album/2NcPXpM3MBapEiMs75keCm) | 3:39 | 2022-04-14 | 2022-07-29 |

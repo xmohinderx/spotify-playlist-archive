@@ -3515,6 +3515,28 @@
     },
     {
       "album": {
+        "name": "Lights go dim",
+        "url": "https://open.spotify.com/album/3JaAWfoVqtMrC8AvYVSzNH"
+      },
+      "artists": [
+        {
+          "name": "Paapa Versa",
+          "url": "https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41"
+        },
+        {
+          "name": "KooKusi",
+          "url": "https://open.spotify.com/artist/1qRBRlrxzn5JgCwLGKWz8p"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219911,
+      "name": "Lights go dim",
+      "url": "https://open.spotify.com/track/5CT7AVKD7ZucJYt8sGLbgu"
+    },
+    {
+      "album": {
         "name": "Good Regardless",
         "url": "https://open.spotify.com/album/1oC0d7wt2woFHFQiD0d9bu"
       },
@@ -4612,7 +4634,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 142000,
       "name": "PLT IN THE BANK",
       "url": "https://open.spotify.com/track/2BZnNesHOzX1fUp95S795e"
@@ -5044,6 +5066,24 @@
       "duration_ms": 134571,
       "name": "Sarki",
       "url": "https://open.spotify.com/track/1QZb7PGPXcuC7XoFdN7VKf"
+    },
+    {
+      "album": {
+        "name": "SARO",
+        "url": "https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU"
+      },
+      "artists": [
+        {
+          "name": "Jinmi Abduls",
+          "url": "https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "SARO",
+      "url": "https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp"
     },
     {
       "album": {
@@ -6360,7 +6400,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 178217,
       "name": "Wet",
       "url": "https://open.spotify.com/track/4UYvRJDzEIKvyHRMA8LPNC"

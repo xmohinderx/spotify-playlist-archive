@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-341 songs - 19 hr 20 min
+342 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Content](https://open.spotify.com/track/2WBNAefaMsZBO9lL0UCQnU) | [Patawawa](https://open.spotify.com/artist/5D65DHzw4qysvKA2VJzOtC) | [Power\-Up](https://open.spotify.com/album/6SdSv9aFs38A7LBvjujvFc) | 3:14 | 2021-03-26 | 2022-07-28 |
 | [Conversation](https://open.spotify.com/track/3hVdcBGWtrrcYFYIPm3JZN) | [DJ Agile](https://open.spotify.com/artist/3ypWgymPzuSt8QT4Tg09Ed), [JRDN](https://open.spotify.com/artist/5v44WEYTAsI7rnuxsfJBly) | [Conversation](https://open.spotify.com/album/6bO2iL4wJAU6NmggulWdOT) | 3:09 | 2021-04-30 | 2022-07-05 |
 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/3Rh5lT5d0WSeO0kwJC7UeI) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Bluey](https://open.spotify.com/artist/3JYDa2gsS6juqnzBT9wdm9) | [Could Heaven Ever Be Like This](https://open.spotify.com/album/5V2EjHaXuZXSuTMfEj9Gai) | 7:42 | 2022-04-29 | 2022-07-19 |
+| [Count The Ways](https://open.spotify.com/track/7rDjZhG4LJyEH0KmearQP4) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Count The Ways](https://open.spotify.com/album/3DbSGLWxRI5pHsk3bExiUo) | 3:42 | 2023-01-27 |  |
 | [Crazy](https://open.spotify.com/track/3w4yYltBa2EX03Z8BhUcf7) | [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Crazy](https://open.spotify.com/album/0Wwy2zS3LsbzifYDjzmaMX) | 3:20 | 2021-08-06 | 2022-07-26 |
 | [Crybaby](https://open.spotify.com/track/1dBmN1VxLCgBEVnvE5NCGe) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [Ill Camille](https://open.spotify.com/artist/4XPgViBvmCOxptCYxTvJo4), [MXXWLL](https://open.spotify.com/artist/2KAcGNHkwCFJb7w19oaqmU) | [Crybaby](https://open.spotify.com/album/38hQVfL0zZ8BCQ1fmp2O3g) | 3:37 | 2021-05-14 | 2022-07-17 |
 | [Damage](https://open.spotify.com/track/0FFTohbXBhhTWCZXFICr60) | [James Gardin](https://open.spotify.com/artist/0Rb3zrBGdsFJe2jfyKvQfV), [Terem](https://open.spotify.com/artist/6wW00VEP8a3yiD1gwgVXPX) | [The Groove Collection](https://open.spotify.com/album/2Z6wtJYpyZux5OZHpYZxzH) | 2:30 | 2021-09-21 | 2022-07-29 |
@@ -273,7 +274,7 @@
 | [Something in the Water](https://open.spotify.com/track/0pzVdivOZdZdKOEbcbhkp3) | [Charlie Curtis\-Beard](https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb), [Nina Ann](https://open.spotify.com/artist/4kyhocyz4BZImOAct1yVmS) | [Something in the Water](https://open.spotify.com/album/41qodzcgwcN8cCx45Kqduk) | 2:27 | 2022-07-15 | 2022-08-25 |
 | [Sounds of Violence](https://open.spotify.com/track/1bZTCOvByHuzAhGtrpKXrg) | [Pedro Bada](https://open.spotify.com/artist/4seY7DUW3uBhIw69cXMY5n), [Darius Christian](https://open.spotify.com/artist/66jXqW0BTJEH14cra11OtM) | [Sounds of Violence](https://open.spotify.com/album/77100RZQ6dklCMzPC1mSCt) | 3:22 | 2021-09-21 | 2022-05-04 |
 | [Space](https://open.spotify.com/track/0nFAyUvyui8s3dfnS0iYXW) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Space](https://open.spotify.com/album/7i14RoxOqIblA7JYw8leir) | 3:27 | 2021-09-21 | 2022-07-25 |
-| [Space and Time](https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Space and Time](https://open.spotify.com/album/5mTbBJkYvytrLD7xoEcw4n) | 3:32 | 2022-08-26 |  |
+| [Space and Time](https://open.spotify.com/track/4V5rRfySgxrUbUz4ZvbcI4) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Space and Time](https://open.spotify.com/album/5mTbBJkYvytrLD7xoEcw4n) | 3:32 | 2022-08-26 | 2023-01-28 |
 | [Space Jam](https://open.spotify.com/track/7rAHX5CJ4Knb1MFTua55wP) | [Jay.Keyz](https://open.spotify.com/artist/735Dj0ds517E8X1uPiJ35s) | [Space Jam](https://open.spotify.com/album/3DXrLsVobLGWkIjMsQa8xJ) | 3:12 | 2021-09-21 | 2022-07-24 |
 | [Special](https://open.spotify.com/track/7HhmrQUsQMjMrvr2jMUajz) | [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [Special](https://open.spotify.com/album/1s1kYjyPjN8x0MkEq1SJrI) | 2:08 | 2022-03-11 | 2022-04-21 |
 | [Spin Around](https://open.spotify.com/track/1AIxRO2siLiccrD1nkQvjG) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz), [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY) | [Studio 54 EP](https://open.spotify.com/album/6FZRYk8piDtKixjCeSDUqU) | 3:20 | 2020-11-13 | 2022-03-17 |

@@ -2,7 +2,7 @@
 
 ### [Folksy Covers](https://open.spotify.com/playlist/37i9dQZF1DXcDxnC0UqHJa)
 
-> Folksy takes on your favorite tracks\. Cover: Madison Cunningham
+> Folksy takes on your favorite tracks\. Cover: Josiah and the Bonnevilles
 
 230 songs - 14 hr 50 min
 

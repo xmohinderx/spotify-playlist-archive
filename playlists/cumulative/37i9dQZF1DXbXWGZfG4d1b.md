@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-407 songs - 1 day 0 hr 8 min
+408 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Candy](https://open.spotify.com/track/0QQtYBkrf5hyxJFej7n8WT) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Candy](https://open.spotify.com/album/7dM9MuZU35g3k4Ow5YfQdM) | 2:47 | 2022-06-03 |  |
 | [Cara de Mapa](https://open.spotify.com/track/3ooLJyyIaxgdy9w7seHCBk) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Bronce](https://open.spotify.com/album/4IEK2cahs8y3gr2lKWz2pU) | 2:07 | 2022-07-01 |  |
 | [Carmelo](https://open.spotify.com/track/24675v4paWBJCyqFSs3xhy) | [Los Rusos Hijos de Puta](https://open.spotify.com/artist/7HMBGT3pyDCDQrBkDiKwkW) | [Hola](https://open.spotify.com/album/6ctBkDzNJv3PfFx9ChYhH2) | 3:12 | 2022-07-01 | 2022-07-25 |
-| [Carolina](https://open.spotify.com/track/3YQqAy085USiQsvOQ6B5Fn) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Carolina](https://open.spotify.com/album/0CutNkvW3zTZhCF73jg6Vv) | 2:23 | 2022-07-01 |  |
+| [Carolina](https://open.spotify.com/track/3YQqAy085USiQsvOQ6B5Fn) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Carolina](https://open.spotify.com/album/0CutNkvW3zTZhCF73jg6Vv) | 2:23 | 2022-07-01 | 2023-01-28 |
 | [Casa](https://open.spotify.com/track/3v1wgEVzX2SUrHrdzBCO7P) | [Ninja](https://open.spotify.com/artist/1aEDZ5whyuDHTQxdrPiJYE), [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [RUSIA](https://open.spotify.com/album/1Oq780XyJNTi9BAGySxECi) | 3:19 | 2022-07-01 | 2022-07-14 |
 | [Casi Extraños](https://open.spotify.com/track/58JNMqizRanibWoYGKZkZL) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Casi Extraños](https://open.spotify.com/album/0dCUpjzMpccpLGYcIvxetm) | 3:47 | 2022-06-03 | 2022-07-29 |
 | [Casi Extraños](https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Casi Extraños](https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC) | 3:47 | 2022-07-15 |  |
@@ -343,6 +343,7 @@
 | [Sabés Dónde Encontrarme](https://open.spotify.com/track/7fMVcLdtD9RGlUfMxnO08T) | [Pasado Verde](https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k) | [Declaración de Principios](https://open.spotify.com/album/6KgAL7uTSPiZ6EvX043GVq) | 3:23 | 2022-07-15 |  |
 | [Safari](https://open.spotify.com/track/14pgA3KZnuxmHixdWkxRLF) | [Machingo](https://open.spotify.com/artist/2EZXJLmEXia9ccRvTl6C6R) | [Safari](https://open.spotify.com/album/4KFc9asML3zShZKOuqEvUN) | 3:28 | 2022-07-15 | 2022-07-18 |
 | [Semillas de Luz](https://open.spotify.com/track/3EqkA7HfjFahS89pEBr2Sa) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/6K0FP8olOJO2Po8RVFkUhA) | 4:11 | 2022-06-03 | 2023-01-24 |
+| [Semillas de Luz](https://open.spotify.com/track/2ARsdraBKtezi5UBCmzXnW) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Caldero](https://open.spotify.com/album/0WD2XbzYbyiWWhOzTtzmW8) | 4:11 | 2023-01-20 |  |
 | [Sentimental](https://open.spotify.com/track/5yOFFvpuUS2lkNNDT9WlS2) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Sentimental](https://open.spotify.com/album/4ZXOBiBeqFk17eXfYxeTRd) | 3:18 | 2022-10-12 |  |
 | [She Feels the Soul](https://open.spotify.com/track/3VaMyyUBykpkuz6BoNclKB) | [The Otherness](https://open.spotify.com/artist/5TBYqdpnL8B5fMfVyOTBUs) | [Lmirl](https://open.spotify.com/album/25ixlzX1HxCpvdREywAOzA) | 2:44 | 2022-12-23 |  |
 | [Sigo Dando Amor](https://open.spotify.com/track/5nBrZR4tBfLU235cBdG8Dm) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Sigo Dando Amor](https://open.spotify.com/album/4uw3Z2Eb92CPFMbjFsmtVu) | 4:41 | 2022-06-03 | 2022-12-31 |

@@ -1609,6 +1609,28 @@
     },
     {
       "album": {
+        "name": "Felt So Good",
+        "url": "https://open.spotify.com/album/3CKeyNSrtKLsIrqmv0uALC"
+      },
+      "artists": [
+        {
+          "name": "Lafreq",
+          "url": "https://open.spotify.com/artist/3iFi7Hca2w4x2amhlxaEki"
+        },
+        {
+          "name": "Teeka",
+          "url": "https://open.spotify.com/artist/6L4LCppKyvMm9BvwmkFZ9G"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424000,
+      "name": "Felt So Good",
+      "url": "https://open.spotify.com/track/73fKzjK9Jz1nILhBMUc4xy"
+    },
+    {
+      "album": {
         "name": "Felt so Good",
         "url": "https://open.spotify.com/album/60MW6WIVRNsfu1LTndQtWr"
       },
@@ -1628,7 +1650,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 424000,
       "name": "Felt so Good - Original Mix",
       "url": "https://open.spotify.com/track/5R9xOXlSWmiIyZEAvyjSAW"

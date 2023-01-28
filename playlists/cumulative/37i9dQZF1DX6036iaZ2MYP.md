@@ -4,7 +4,7 @@
 
 > 
 
-123 songs - 6 hr 16 min
+124 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Never Let Go \- Remix](https://open.spotify.com/track/7LOZ9ogL9heo1JiA7Va175) | [DJ FiiFii](https://open.spotify.com/artist/3OnR9rQurffV6EPVk46fwU), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu), [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [Never Let Go Remix](https://open.spotify.com/album/4fV1WkpgkI1eeisnKQjohB) | 4:17 | 2022-10-06 |  |
 | [NISHALEWA](https://open.spotify.com/track/7BYBqKKbJclOWJXUwZINle) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [NISHALEWA](https://open.spotify.com/album/4YtJE09qGavW9e84Hst1qS) | 1:50 | 2022-07-13 | 2022-08-26 |
 | [No Dey Form](https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [No Dey Form](https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV) | 2:20 | 2022-07-13 |  |
+| [NO PLASTIC](https://open.spotify.com/track/6EogXiW8jsO38lWb7fZLF1) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [NO PLASTIC](https://open.spotify.com/album/0N9BQ259WqvW6ZX0aEY9q3) | 2:38 | 2023-01-27 |  |
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2022-07-13 | 2022-08-26 |
 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 | 2022-07-13 | 2022-09-15 |
 | [ODG](https://open.spotify.com/track/27ftIsCnZyS5l4NfvqALLS) | [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT) | [Body of Work](https://open.spotify.com/album/5OnyqL9XksyqPRkthm0DtL) | 3:13 | 2022-07-28 | 2022-09-20 |

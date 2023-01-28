@@ -6,8 +6,324 @@
     "name": "Atlantic Records",
     "url": "https://open.spotify.com/user/atlanticrecords"
   },
-  "snapshot_id": "NTM3NSw2Nzc3MzAxMGNjYWY4MmJhMDgxOTk3ZmYxZDNmNGNjOTMwYzQwNjk0",
+  "snapshot_id": "NTQxMyxjOWI0NjFhNWEyZDFkODliNTkyYjkyNGQwODFlZDQ2M2ZiMWI3ZDNj",
   "tracks": [
+    {
+      "added_at": "2023-01-27 15:42:30",
+      "album": {
+        "name": "Diamonds & Dancefloors",
+        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 181763,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff"
+    },
+    {
+      "added_at": "2023-01-27 15:42:38",
+      "album": {
+        "name": "Cold As Ice",
+        "url": "https://open.spotify.com/album/6vS9lBQXdGIDIeQ67ibnzJ"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 143975,
+      "name": "Cold As Ice",
+      "url": "https://open.spotify.com/track/6sKJJShsRJpt7e3u4BmrkL"
+    },
+    {
+      "added_at": "2023-01-27 15:42:50",
+      "album": {
+        "name": "Two Tens (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 152371,
+      "name": "Two Tens (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
+    },
+    {
+      "added_at": "2023-01-27 15:43:08",
+      "album": {
+        "name": "Real Spring",
+        "url": "https://open.spotify.com/album/2ca6O7zmxeX5eqSNZPDdzJ"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "Real Spring",
+      "url": "https://open.spotify.com/track/4xxOx87AD6mBqU3TsuRfg3"
+    },
+    {
+      "added_at": "2023-01-27 15:43:42",
+      "album": {
+        "name": "Regret Me",
+        "url": "https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "duration_ms": 196085,
+      "name": "Regret Me",
+      "url": "https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK"
+    },
+    {
+      "added_at": "2023-01-27 15:44:00",
+      "album": {
+        "name": "Get Down Gang (feat. Li Rye)",
+        "url": "https://open.spotify.com/album/6Ko6yEpyvRaw7o48uY00Q3"
+      },
+      "artists": [
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        },
+        {
+          "name": "Li Rye",
+          "url": "https://open.spotify.com/artist/1QudwWfbchyvkMXva3wdqn"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Get Down Gang (feat. Li Rye)",
+      "url": "https://open.spotify.com/track/3ppKzstcQrUFK9XO6nnCOJ"
+    },
+    {
+      "added_at": "2023-01-27 15:45:12",
+      "album": {
+        "name": "So Icy Boyz (Deluxe)",
+        "url": "https://open.spotify.com/album/0YcS21XBKJP7tl7ILuvRH4"
+      },
+      "artists": [
+        {
+          "name": "Hotboy Wes",
+          "url": "https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO"
+        },
+        {
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
+        }
+      ],
+      "duration_ms": 134382,
+      "name": "Free Smoke (feat. Big Scarr)",
+      "url": "https://open.spotify.com/track/13uD9aJtnPw9t0ZCXFU9Hn"
+    },
+    {
+      "added_at": "2023-01-27 15:45:50",
+      "album": {
+        "name": "Welcome 2 The Trenches",
+        "url": "https://open.spotify.com/album/73tDruYotdetPttfbiz8LD"
+      },
+      "artists": [
+        {
+          "name": "TG Kommas",
+          "url": "https://open.spotify.com/artist/0QtTAKI96I6w8ByQIY3QQv"
+        },
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "duration_ms": 135601,
+      "name": "One Up (feat. Fredo Bang)",
+      "url": "https://open.spotify.com/track/48BWY0RZdUF8lqFGkruIvB"
+    },
+    {
+      "added_at": "2023-01-27 15:46:14",
+      "album": {
+        "name": "Elephant In The Room",
+        "url": "https://open.spotify.com/album/6bGGWNEqqh3WFJuHzuqdOA"
+      },
+      "artists": [
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        }
+      ],
+      "duration_ms": 161210,
+      "name": "Elephant In The Room",
+      "url": "https://open.spotify.com/track/6fvbw0uQPYd9RtBw7WVgb3"
+    },
+    {
+      "added_at": "2023-01-27 15:46:46",
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/4o88I6Vqv56F1wK01tgVmU"
+      },
+      "artists": [
+        {
+          "name": "Enchanting",
+          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/0Y53GoUuackos8Hjfegkcc"
+    },
+    {
+      "added_at": "2023-01-27 15:46:58",
+      "album": {
+        "name": "Havin Now",
+        "url": "https://open.spotify.com/album/7nI9c8MucF9658NPFo0vG5"
+      },
+      "artists": [
+        {
+          "name": "KATO2X",
+          "url": "https://open.spotify.com/artist/4xH1O3WPbNGJZYyfB9pfIm"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Havin Now",
+      "url": "https://open.spotify.com/track/59gmjzeQJWHDUsAkkjy0rZ"
+    },
+    {
+      "added_at": "2023-01-27 15:47:10",
+      "album": {
+        "name": "Not Normal",
+        "url": "https://open.spotify.com/album/3bt3lEggi5vytbRa0SyQPD"
+      },
+      "artists": [
+        {
+          "name": "TLE Cinco",
+          "url": "https://open.spotify.com/artist/5vn9OXNUriBwKg5XtmbNEd"
+        }
+      ],
+      "duration_ms": 214056,
+      "name": "Not Normal",
+      "url": "https://open.spotify.com/track/3ga0U7XilNyFh0omvUqtVt"
+    },
+    {
+      "added_at": "2023-01-27 15:47:21",
+      "album": {
+        "name": "Kitchen Restrictions",
+        "url": "https://open.spotify.com/album/2vDBNGXperNXRHiFSltaXq"
+      },
+      "artists": [
+        {
+          "name": "Fatt Macc",
+          "url": "https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Kitchen Restrictions",
+      "url": "https://open.spotify.com/track/2tPAmtwtOigTfGePejRL4N"
+    },
+    {
+      "added_at": "2023-01-27 15:47:33",
+      "album": {
+        "name": "FACESHOT (feat. Sett)",
+        "url": "https://open.spotify.com/album/4wUNAlkBHm8D4befytGme0"
+      },
+      "artists": [
+        {
+          "name": "Li Rye",
+          "url": "https://open.spotify.com/artist/1QudwWfbchyvkMXva3wdqn"
+        },
+        {
+          "name": "Sett",
+          "url": "https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d"
+        }
+      ],
+      "duration_ms": 198269,
+      "name": "FACESHOT (feat. Sett)",
+      "url": "https://open.spotify.com/track/3sZ79pwLRj5PnV7FEuPP8W"
+    },
+    {
+      "added_at": "2023-01-27 15:47:45",
+      "album": {
+        "name": "Live at Sydney Opera House",
+        "url": "https://open.spotify.com/album/7vNVlKih6TRHu9kIL5YhgT"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 268919,
+      "name": "Georgia - Live at Sydney Opera House",
+      "url": "https://open.spotify.com/track/352fUC91RxPM0HPCNoNYEN"
+    },
+    {
+      "added_at": "2023-01-27 15:48:07",
+      "album": {
+        "name": "Build a Boat (feat. Gabby Barrett)",
+        "url": "https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        },
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 170549,
+      "name": "Build a Boat (feat. Gabby Barrett)",
+      "url": "https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v"
+    },
+    {
+      "added_at": "2023-01-27 15:48:21",
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop"
+    },
+    {
+      "added_at": "2023-01-27 15:48:36",
+      "album": {
+        "name": "Deadline",
+        "url": "https://open.spotify.com/album/5tr18jhOtsenFfXXq6YtTN"
+      },
+      "artists": [
+        {
+          "name": "Maddy Hicks",
+          "url": "https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Deadline",
+      "url": "https://open.spotify.com/track/3sZvj4hjfi9q1uZUNZF09h"
+    },
     {
       "added_at": "2023-01-20 16:51:43",
       "album": {
@@ -123,6 +439,22 @@
       "duration_ms": 135573,
       "name": "One Up (feat. FREDO BANG)",
       "url": "https://open.spotify.com/track/0O4WXjLoo1jOj2m427SieX"
+    },
+    {
+      "added_at": "2023-01-27 15:46:28",
+      "album": {
+        "name": "Outside Like This",
+        "url": "https://open.spotify.com/album/5cLXrBZsVNkqfVy7ZpAQ7j"
+      },
+      "artists": [
+        {
+          "name": "Traetwothree",
+          "url": "https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV"
+        }
+      ],
+      "duration_ms": 237245,
+      "name": "Outside Like This",
+      "url": "https://open.spotify.com/track/3XfN97RL32KMG83T35qDuw"
     },
     {
       "added_at": "2023-01-20 16:53:17",

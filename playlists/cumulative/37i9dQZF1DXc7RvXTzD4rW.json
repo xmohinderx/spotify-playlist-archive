@@ -1026,7 +1026,7 @@
     {
       "album": {
         "name": "Loud Hailer",
-        "url": "https://open.spotify.com/album/4JFBN5yf2FzlVqXs076oC6"
+        "url": "https://open.spotify.com/album/3wXyNa8fg2M7El6ZO59hhM"
       },
       "artists": [
         {
@@ -1037,6 +1037,24 @@
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 228306,
+      "name": "Loud Hailer",
+      "url": "https://open.spotify.com/track/11GJvyy9G8hz6AyeCbmS2o"
+    },
+    {
+      "album": {
+        "name": "Loud Hailer",
+        "url": "https://open.spotify.com/album/4JFBN5yf2FzlVqXs076oC6"
+      },
+      "artists": [
+        {
+          "name": "Maaya Uchida",
+          "url": "https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
       "duration_ms": 228306,
       "name": "Loud Hailer",
       "url": "https://open.spotify.com/track/7AhQukb7kW2rbAKPKBc7tC"

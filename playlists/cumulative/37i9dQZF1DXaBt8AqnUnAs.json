@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 215936,
       "name": "A Gente Brisa",
       "url": "https://open.spotify.com/track/1UmCtXyI4xCsTiyuZ92SgM"
@@ -941,6 +941,32 @@
     },
     {
       "album": {
+        "name": "Como Sua Vida Anda",
+        "url": "https://open.spotify.com/album/0CBqLmsBNYX9sxJnfN7Wgq"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "SMU",
+          "url": "https://open.spotify.com/artist/2qATSoNFfzMaTEZFfJpG4c"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189845,
+      "name": "Como Sua Vida Anda",
+      "url": "https://open.spotify.com/track/3V3hYHmZFVXmAoxYFPvfc6"
+    },
+    {
+      "album": {
         "name": "Convite",
         "url": "https://open.spotify.com/album/4iax4ep3hIh3q5YesIiqdv"
       },
@@ -1384,7 +1410,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 182048,
       "name": "Erro Seu",
       "url": "https://open.spotify.com/track/0DwUXCXjAjFWOBcE1VrPS8"
@@ -1946,6 +1972,24 @@
       "duration_ms": 197938,
       "name": "Ilus\u00f5es",
       "url": "https://open.spotify.com/track/2CkoGyLumIwMrTLlhzzn3U"
+    },
+    {
+      "album": {
+        "name": "Inimigo do Fim",
+        "url": "https://open.spotify.com/album/6rTtpRK1m4jdqMcqlq5xvS"
+      },
+      "artists": [
+        {
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161749,
+      "name": "Inimigo do Fim",
+      "url": "https://open.spotify.com/track/1s1yGD3leGjhzNZb8A4F0x"
     },
     {
       "album": {

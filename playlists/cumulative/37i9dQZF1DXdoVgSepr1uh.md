@@ -4,10 +4,11 @@
 
 > Argentina en la casa! Foto: Albere.
 
-157 songs - 7 hr 38 min
+160 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Mi](https://open.spotify.com/track/1m51YRtMiW1o5sZVx4cIds) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [A Mi](https://open.spotify.com/album/2MgEssbkkaQtdmztMWUyRQ) | 3:34 | 2023-01-27 |  |
 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Veces \(feat\. Feid\)](https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC) | 3:11 | 2022-11-18 |  |
 | [Aayy](https://open.spotify.com/track/1t9ACqzC2bq1Sdbsmz9mB4) | [Carla Clavijo](https://open.spotify.com/artist/4ljl1dpfeJKgNzhTIo6MEj), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Aayy](https://open.spotify.com/album/5zNmydFt8hQTXAicpO8voH) | 2:56 | 2022-12-23 |  |
 | [ACTITUD](https://open.spotify.com/track/6B4eP363FzRSfzGHR9yObo) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [ACTITUD](https://open.spotify.com/album/0MDOQ257yz4SQeBnuIaJP2) | 2:39 | 2022-05-24 |  |
@@ -30,6 +31,7 @@
 | [CHIN CHIN](https://open.spotify.com/track/20rMomDU9dk6QDRKCYKrzh) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [CHIN CHIN](https://open.spotify.com/album/3Fx7xYB3rpSfnvSSZNYmyx) | 2:58 | 2022-11-18 |  |
 | [Como Antes](https://open.spotify.com/track/42we2zjPoYkN2S79iRaLG6) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Géminis](https://open.spotify.com/album/2pBiSMw2ttPMNgqG6m9FFP) | 3:02 | 2022-05-24 |  |
 | [Copacabana](https://open.spotify.com/track/6TdKDyEmYreudp1NcvorV8) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Copacabana](https://open.spotify.com/album/0wALAHwLS2U83B4fKSKwFR) | 1:57 | 2022-05-24 | 2022-07-29 |
+| [Cora Partido](https://open.spotify.com/track/287JhhKlTLuTzxp28ySSiO) | [ZHAE](https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9), [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d) | [Cora Partido](https://open.spotify.com/album/1uNQMBHfg8xOWBEsFxG1iV) | 3:23 | 2023-01-27 |  |
 | [Cristianas](https://open.spotify.com/track/1eaPEMcksRVTM18pwfltIE) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Cristianas](https://open.spotify.com/album/1PqHQVuTUIctPdnwMH3aZF) | 2:51 | 2022-05-24 | 2022-08-06 |
 | [cuatro veinte](https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [cuatro veinte](https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH) | 2:13 | 2022-05-24 |  |
 | [Cómo Le Explico](https://open.spotify.com/track/4K09SCVObadMlQ90AVuuvG) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Cómo Le Explico](https://open.spotify.com/album/2fH98SBzqCHiTGnjKQMHwV) | 3:02 | 2022-05-24 | 2022-08-27 |
@@ -76,6 +78,7 @@
 | [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 | 2022-12-09 |  |
 | [KU'](https://open.spotify.com/track/261Jxss9utRCMg11TWEU8M) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [KU'](https://open.spotify.com/album/56HOIAzfolOPCOmExaPHxf) | 3:50 | 2022-05-24 |  |
 | [LA NENA DE ARGENTINA](https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:31 | 2022-12-09 |  |
+| [La Pistola](https://open.spotify.com/track/4n9tFJoRyzeva7Bgy5sCM7) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [La Pistola](https://open.spotify.com/album/5Rgnyuzb9DkpmmF3VDZEuq) | 3:02 | 2023-01-27 |  |
 | [LA PRESIÓN \| E4](https://open.spotify.com/track/02stB512CW9N2RQN1HiTRo) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [LA PRESIÓN \| E4](https://open.spotify.com/album/1w1l7DaGaNLeIyzxErQPwi) | 2:49 | 2022-05-24 | 2022-08-06 |
 | [Ley de Atracción](https://open.spotify.com/track/52PVGjg5sUhfs9PHiSl02c) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Ley de Atracción](https://open.spotify.com/album/3bCHpjpghyFjPfl0l108mF) | 3:00 | 2022-05-24 |  |
 | [Lo Olvidaste](https://open.spotify.com/track/6HQTemjqjKBwDfN8AG16uj) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Lo Olvidaste](https://open.spotify.com/album/3StSMliOF6G8OLYrsPV3Y0) | 2:46 | 2022-05-24 |  |

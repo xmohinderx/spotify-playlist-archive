@@ -974,7 +974,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 131529,
       "name": "Chico Marola - Ao Vivo",
       "url": "https://open.spotify.com/track/6090ahSRvAgrdbTMWovY2K"
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 138918,
       "name": "Fa\u00e7a Dinheiro, Se Mantenha Vivo",
       "url": "https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz"
@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 196626,
       "name": "F\u00e9 No Processo",
       "url": "https://open.spotify.com/track/3wx7XAAC8SjXpOMv8YDVhe"
@@ -2511,6 +2511,28 @@
     },
     {
       "album": {
+        "name": "Indispens\u00e1vel",
+        "url": "https://open.spotify.com/album/7C2teoYvktG8ElWWmqkGlp"
+      },
+      "artists": [
+        {
+          "name": "Souto MC",
+          "url": "https://open.spotify.com/artist/4WELyrcl29LZhemUKihfB4"
+        },
+        {
+          "name": "Ort1",
+          "url": "https://open.spotify.com/artist/2D1TdbqDphUEgFMxV7BcM1"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "Indispens\u00e1vel",
+      "url": "https://open.spotify.com/track/6KmhXbBA72tV4mmHaqG8c1"
+    },
+    {
+      "album": {
         "name": "QVVJFA?",
         "url": "https://open.spotify.com/album/5HE9DhP8b3m3LmShTreEvq"
       },
@@ -2762,6 +2784,32 @@
       "duration_ms": 179072,
       "name": "Louco T\u00e1 O Mundo N\u00e3o Eu",
       "url": "https://open.spotify.com/track/1WIDnIkQ2Ymb2pAlzVC2ms"
+    },
+    {
+      "album": {
+        "name": "LUCE BREE",
+        "url": "https://open.spotify.com/album/0pLB6ZlM2OO5GL5XhkaJxs"
+      },
+      "artists": [
+        {
+          "name": "Ep\u00edlogo",
+          "url": "https://open.spotify.com/artist/0xp4hAT0F4oiBiZSAFo3By"
+        },
+        {
+          "name": "Epifania",
+          "url": "https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b"
+        },
+        {
+          "name": "Verve",
+          "url": "https://open.spotify.com/artist/53rqQcLIWERwlPaodqOENj"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86666,
+      "name": "LUCE BREE",
+      "url": "https://open.spotify.com/track/2l9HIUaVNGDWDRYjPsNYvt"
     },
     {
       "album": {
@@ -4264,6 +4312,32 @@
       "duration_ms": 174348,
       "name": "Responsa",
       "url": "https://open.spotify.com/track/0ZE4rDxCg8mSwViA74p5hc"
+    },
+    {
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223146,
+      "name": "Rio Nilo",
+      "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"
     },
     {
       "album": {

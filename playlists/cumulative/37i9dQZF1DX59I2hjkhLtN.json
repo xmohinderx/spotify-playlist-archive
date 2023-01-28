@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "A+",
+        "url": "https://open.spotify.com/album/057KMRdPqQAKKZkwbkylzh"
+      },
+      "artists": [
+        {
+          "name": "Mary Jane",
+          "url": "https://open.spotify.com/artist/7De3aXysEvuHh3pEGZqBau"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172905,
+      "name": "A+",
+      "url": "https://open.spotify.com/track/2gGsuFVySFk1lMI2QNRHl1"
+    },
+    {
+      "album": {
         "name": "ADA",
         "url": "https://open.spotify.com/album/2pWlkKORlGzpB4YTzvPp2N"
       },

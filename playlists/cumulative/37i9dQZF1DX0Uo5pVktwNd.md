@@ -4,7 +4,7 @@
 
 > Throwback to the golden age of Indian pop.
 
-75 songs - 6 hr 12 min
+76 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Ab Ke Saawan](https://open.spotify.com/track/3f6lUIjrM4b5jOjKmwcPK5) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Ab Ke Sawan](https://open.spotify.com/album/2VQ9C15delsfFKIqbQwscv) | 4:29 | 2022-04-11 |  |
 | [Ab Mujhe Raat Din](https://open.spotify.com/track/4y5mqhrI0tdYI4M3EFluxP) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:25 | 2022-12-14 |  |
 | [Afreen Afreen](https://open.spotify.com/track/2hGJkkAaI7GsfktrIhz8yg) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Sangam And Salaam](https://open.spotify.com/album/55jlS2B7OrgAPFdMxgiiNB) | 5:48 | 2022-12-14 |  |
-| [Ahista](https://open.spotify.com/track/3GIxNehfNB1vsDCTWBoGiU) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Stolen Moments](https://open.spotify.com/album/1rH4PEQvD7A4PcXcuc05K9) | 7:14 | 2022-12-14 |  |
+| [Ahista](https://open.spotify.com/track/6vIII4miUMUjCYtluFwbnP) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 7:13 | 2023-01-19 |  |
+| [Ahista](https://open.spotify.com/track/3GIxNehfNB1vsDCTWBoGiU) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Stolen Moments](https://open.spotify.com/album/1rH4PEQvD7A4PcXcuc05K9) | 7:14 | 2022-12-14 | 2023-01-28 |
 | [Angel Eyes](https://open.spotify.com/track/5AlFchdmHoeRBg6MzgfaY5) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Frankey Maxx](https://open.spotify.com/artist/3SEDKbLCS18fjSBfWkIaHN), [Jucxi](https://open.spotify.com/artist/0rPwsOLH34fDTOsSfuxVt7) | [Storyteller](https://open.spotify.com/album/4H0jJJPERIedtxoC1mAvlB) | 4:11 | 2022-06-01 |  |
 | [Angel Eyes](https://open.spotify.com/track/7ocWe921mNYUbG7oq47VHa) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Frankey Maxx](https://open.spotify.com/artist/3SEDKbLCS18fjSBfWkIaHN), [Jucxi D.](https://open.spotify.com/artist/2NEhzN2aVE5rZ0qYRoP8jO) | [Angel Eyes](https://open.spotify.com/album/11bGclhH9B9N6cMeien55M) | 4:11 | 2022-06-01 | 2022-10-17 |
 | [Angel Eyes](https://open.spotify.com/track/5hdhCuaAl48gXMCpueXF6a) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Jucxi](https://open.spotify.com/artist/0rPwsOLH34fDTOsSfuxVt7), [Frankey Maxx](https://open.spotify.com/artist/3SEDKbLCS18fjSBfWkIaHN) | [Storyteller](https://open.spotify.com/album/4qKUcQnmVYSmZtMI4Cw7jT) | 4:11 | 2022-04-11 | 2022-07-29 |

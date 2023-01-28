@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Chad Future, Kyung dasom)",
-  "num_followers": 378800,
+  "num_followers": 378837,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzMzExMiwwMDAwMDAwMGRjYzc3OTI3ZDUxOWY4OWY1NjQ4YzZkZTQ0ZGZlMGFj",
+  "snapshot_id": "MTY3NDYzMzExMiwwMDAwMDAwMDE5YjFkYTE3NzUzMDNmYzI0NGQ3YmIzZjQ0M2U4ZWE4",
   "tracks": [
     {
       "added_at": "2023-01-25 07:51:52",
@@ -803,6 +803,26 @@
     {
       "added_at": "2023-01-25 07:51:52",
       "album": {
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
+      },
+      "artists": [
+        {
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+        },
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
+    },
+    {
+      "added_at": "2023-01-25 07:51:52",
+      "album": {
         "name": "THIS NIGHT",
         "url": "https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 215213,
       "name": "This Night (feat. Blue.D, Jhnovr)",
       "url": "https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf"
-    },
-    {
-      "added_at": "2023-01-25 07:51:52",
-      "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
-      },
-      "artists": [
-        {
-          "name": "Park Kyung",
-          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
-        },
-        {
-          "name": "Park Boram",
-          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
     },
     {
       "added_at": "2023-01-25 07:51:52",

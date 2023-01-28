@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183211,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF"
+    },
+    {
+      "album": {
         "name": "Mister Nice Guy",
         "url": "https://open.spotify.com/album/2tsLR3WeXcm7obFh3ZNNn5"
       },
@@ -460,7 +478,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 193866,
       "name": "Coalescence",
       "url": "https://open.spotify.com/track/56s2fd2wlu2jt5hP1kopEl"
@@ -1022,10 +1040,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 213475,
       "name": "I Sing Alone",
       "url": "https://open.spotify.com/track/2H4jNC3nMl22tyVK1BeLGH"
+    },
+    {
+      "album": {
+        "name": "Hell Is Where The Heart Is",
+        "url": "https://open.spotify.com/album/539Z5wmaJQbshbCEvtI8wf"
+      },
+      "artists": [
+        {
+          "name": "Oceans",
+          "url": "https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213475,
+      "name": "I Sing Alone",
+      "url": "https://open.spotify.com/track/7oq8Qz5Y5hcgLlk9Nl30Ed"
     },
     {
       "album": {
@@ -1715,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "DEADGIRL",
+        "url": "https://open.spotify.com/album/48CPMZleL4rHMqtQN5opuV"
+      },
+      "artists": [
+        {
+          "name": "Mimi Barks",
+          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125315,
+      "name": "SAW",
+      "url": "https://open.spotify.com/track/5plHlHptZcNkPaenanRdT1"
+    },
+    {
+      "album": {
         "name": "Self-Hatred",
         "url": "https://open.spotify.com/album/11AkDom3SSzweUq98OkWj1"
       },
@@ -2025,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "Swollen Teeth",
+        "url": "https://open.spotify.com/album/53lOgAt8FCTfTYkOZzFnz7"
+      },
+      "artists": [
+        {
+          "name": "Swollen Teeth",
+          "url": "https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179504,
+      "name": "Swollen Teeth",
+      "url": "https://open.spotify.com/track/2dehX9M8cr21ggWNwkJgD7"
+    },
+    {
+      "album": {
         "name": "Tearing Your Life Away",
         "url": "https://open.spotify.com/album/3xW6YyiZY9AQcveSehm0jT"
       },
@@ -2332,6 +2404,24 @@
       "duration_ms": 156347,
       "name": "Trench",
       "url": "https://open.spotify.com/track/3AGnINkl4SvfDoXIDfnR2f"
+    },
+    {
+      "album": {
+        "name": "Tsunami (11:11)",
+        "url": "https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188823,
+      "name": "Tsunami (11:11)",
+      "url": "https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo"
     },
     {
       "album": {

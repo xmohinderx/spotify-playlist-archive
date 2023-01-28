@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Patrick Wolf
 
-183 songs - 14 hr 38 min
+184 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [butterfly \(so free\)](https://open.spotify.com/track/5IyJ1x5qq8HShuyK41jAba) | [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [butterfly \(so free\)](https://open.spotify.com/album/5Q38YvTGu832sX1ZDKK2sO) | 3:06 | 2022-12-15 |  |
 | [Can't Get Enough](https://open.spotify.com/track/455RNF1FhYAjgRI0nPI9DA) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH), [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe) | [Like That](https://open.spotify.com/album/3Q8s50HFIdU4w35szX7Mpn) | 3:04 | 2023-01-19 |  |
 | [Carbon Dioxide](https://open.spotify.com/track/5JTDPZDDetda3wazmZA3D0) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Carbon Dioxide](https://open.spotify.com/album/6anWFtYOzbbEs8It4Lpi4V) | 4:51 | 2022-12-15 | 2023-01-27 |
-| [Cinderblock](https://open.spotify.com/track/1JhjtiHsJubsKNZgd3YTdX) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Cinderblock](https://open.spotify.com/album/0rGPPNjLXKGxrqY6m3dYXr) | 3:03 | 2023-01-26 |  |
+| [Cinderblock](https://open.spotify.com/track/1JhjtiHsJubsKNZgd3YTdX) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Cinderblock](https://open.spotify.com/album/0rGPPNjLXKGxrqY6m3dYXr) | 3:03 | 2023-01-26 | 2023-01-28 |
+| [Cinderblock](https://open.spotify.com/track/79soO0pk1njm8mrvl605A7) | [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ) | [Cinderblock](https://open.spotify.com/album/7A3TarqkpT03UKlniya5Bl) | 3:03 | 2023-01-26 |  |
 | [Clara \(the night is dark\)](https://open.spotify.com/track/1ftsPnNZSEc3gZAVzbtWsI) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Clara Ward](https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 4:38 | 2022-12-15 | 2023-01-17 |
 | [Clara \(the night is dark\)](https://open.spotify.com/track/1halfbhGjFShZwxmnbWE8u) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Clara Ward](https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 4:38 | 2023-01-12 |  |
 | [Closer to My Heart](https://open.spotify.com/track/0nGyc26fHbXzMCDwykT5PG) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:43 | 2022-12-30 | 2023-01-02 |

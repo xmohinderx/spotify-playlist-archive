@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 325312,
+  "num_followers": 325620,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzkxNjY1MCwwMDAwMDAwMDYzNGU4ZjQzYmZlZWMxZWE2ZTEwMmZmNGM0NThkODI1",
+  "snapshot_id": "MTY3MzkxNjY1MCwwMDAwMDAwMGY3MDJmNmZiNDQ5ZWRkZjEzNGIwNzZjNGM0ZjI0MWNj",
   "tracks": [
     {
       "added_at": "2023-01-17 00:50:49",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-01-17 00:50:49",
       "album": {
-        "name": "Nowesind",
-        "url": "https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X"
-      },
-      "artists": [
-        {
-          "name": "Jacob David",
-          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
-        }
-      ],
-      "duration_ms": 119120,
-      "name": "Nowesind",
-      "url": "https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383"
-    },
-    {
-      "added_at": "2023-01-17 00:50:49",
-      "album": {
         "name": "From Home",
         "url": "https://open.spotify.com/album/7BF0crTRDCArRVfdCX94Yt"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 202732,
       "name": "From Home",
       "url": "https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8"
+    },
+    {
+      "added_at": "2023-01-17 00:50:49",
+      "album": {
+        "name": "Nowesind",
+        "url": "https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "duration_ms": 119120,
+      "name": "Nowesind",
+      "url": "https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383"
     },
     {
       "added_at": "2023-01-17 00:50:49",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-01-17 00:50:49",
       "album": {
-        "name": "Staden",
-        "url": "https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3"
-      },
-      "artists": [
-        {
-          "name": "Anders Linros",
-          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
-        }
-      ],
-      "duration_ms": 121946,
-      "name": "Staden",
-      "url": "https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9"
-    },
-    {
-      "added_at": "2023-01-17 00:50:49",
-      "album": {
         "name": "Berceuse",
         "url": "https://open.spotify.com/album/0l8ppwTZQGMJtZEfJKEBBg"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2023-01-17 00:50:49",
       "album": {
-        "name": "Ottilia",
-        "url": "https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s"
+        "name": "Staden",
+        "url": "https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3"
       },
       "artists": [
         {
-          "name": "Yana Couto",
-          "url": "https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt"
+          "name": "Anders Linros",
+          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Ottilia",
-      "url": "https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0"
+      "duration_ms": 121946,
+      "name": "Staden",
+      "url": "https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9"
     },
     {
       "added_at": "2023-01-17 00:50:49",
@@ -491,6 +475,22 @@
       "duration_ms": 165293,
       "name": "L\u00e9opoldine",
       "url": "https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm"
+    },
+    {
+      "added_at": "2023-01-17 00:50:49",
+      "album": {
+        "name": "Ottilia",
+        "url": "https://open.spotify.com/album/7ve9Vr6dNirQtiOHie0U9s"
+      },
+      "artists": [
+        {
+          "name": "Yana Couto",
+          "url": "https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Ottilia",
+      "url": "https://open.spotify.com/track/6lstaOC6qWvXPcXPgWXfc0"
     },
     {
       "added_at": "2023-01-17 00:50:49",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-01-17 00:50:49",
       "album": {
-        "name": "Before We Met",
-        "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
-      },
-      "artists": [
-        {
-          "name": "Minik Jakobsen",
-          "url": "https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe"
-        }
-      ],
-      "duration_ms": 113285,
-      "name": "Before We Met",
-      "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
-    },
-    {
-      "added_at": "2023-01-17 00:50:49",
-      "album": {
         "name": "Passages",
         "url": "https://open.spotify.com/album/5Aw677fwAtCUBpsLM7E0gB"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 159439,
       "name": "Days Passing By",
       "url": "https://open.spotify.com/track/6yFNVbbhoPzPmGCYZWlFcw"
+    },
+    {
+      "added_at": "2023-01-17 00:50:49",
+      "album": {
+        "name": "Before We Met",
+        "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
+      },
+      "artists": [
+        {
+          "name": "Minik Jakobsen",
+          "url": "https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe"
+        }
+      ],
+      "duration_ms": 113285,
+      "name": "Before We Met",
+      "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
     },
     {
       "added_at": "2023-01-17 00:50:49",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-01-17 00:50:49",
       "album": {
-        "name": "Monte Viso",
-        "url": "https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya"
-      },
-      "artists": [
-        {
-          "name": "Gente di Toscana",
-          "url": "https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q"
-        }
-      ],
-      "duration_ms": 95733,
-      "name": "Monte Viso",
-      "url": "https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi"
-    },
-    {
-      "added_at": "2023-01-17 00:50:49",
-      "album": {
         "name": "in a room full of you",
         "url": "https://open.spotify.com/album/2YPuaSGp6LRpyD1GchSwkI"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 192816,
       "name": "in a room full of you",
       "url": "https://open.spotify.com/track/0BZLKyvqypWnn5kfysaNPt"
+    },
+    {
+      "added_at": "2023-01-17 00:50:49",
+      "album": {
+        "name": "Monte Viso",
+        "url": "https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya"
+      },
+      "artists": [
+        {
+          "name": "Gente di Toscana",
+          "url": "https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q"
+        }
+      ],
+      "duration_ms": 95733,
+      "name": "Monte Viso",
+      "url": "https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi"
     },
     {
       "added_at": "2023-01-17 00:50:49",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-01-17 00:50:49",
       "album": {
-        "name": "Khione",
-        "url": "https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51"
-      },
-      "artists": [
-        {
-          "name": "Dwight Rivera",
-          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
-        }
-      ],
-      "duration_ms": 179768,
-      "name": "Ruise\u00f1or",
-      "url": "https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1"
-    },
-    {
-      "added_at": "2023-01-17 00:50:49",
-      "album": {
         "name": "Abstractions",
         "url": "https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 117800,
       "name": "Delightful",
       "url": "https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV"
+    },
+    {
+      "added_at": "2023-01-17 00:50:49",
+      "album": {
+        "name": "Khione",
+        "url": "https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "duration_ms": 179768,
+      "name": "Ruise\u00f1or",
+      "url": "https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1"
     },
     {
       "added_at": "2023-01-17 00:50:49",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-01-17 00:50:49",
       "album": {
-        "name": "Ellebori",
-        "url": "https://open.spotify.com/album/1Gzq0KGnmDKcF2jwPM83rS"
-      },
-      "artists": [
-        {
-          "name": "Alvize Fantacone",
-          "url": "https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1"
-        }
-      ],
-      "duration_ms": 179022,
-      "name": "Ellebori",
-      "url": "https://open.spotify.com/track/1j7pycxTWD6vyiKJout75p"
-    },
-    {
-      "added_at": "2023-01-17 00:50:49",
-      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 117271,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
+    },
+    {
+      "added_at": "2023-01-17 00:50:49",
+      "album": {
+        "name": "Ellebori",
+        "url": "https://open.spotify.com/album/1Gzq0KGnmDKcF2jwPM83rS"
+      },
+      "artists": [
+        {
+          "name": "Alvize Fantacone",
+          "url": "https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1"
+        }
+      ],
+      "duration_ms": 179022,
+      "name": "Ellebori",
+      "url": "https://open.spotify.com/track/1j7pycxTWD6vyiKJout75p"
     },
     {
       "added_at": "2023-01-17 00:50:49",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-17 00:50:49",
       "album": {
-        "name": "Alivio",
-        "url": "https://open.spotify.com/album/5rxGWLZNit76H2xExKzDVg"
-      },
-      "artists": [
-        {
-          "name": "Franco Robert",
-          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Alivio",
-      "url": "https://open.spotify.com/track/2oD7qIB9vDBnE3uBmEh91C"
-    },
-    {
-      "added_at": "2023-01-17 00:50:49",
-      "album": {
         "name": "A New Path",
         "url": "https://open.spotify.com/album/3q36F69MAyybtWLlbdiCjw"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 113758,
       "name": "A New Path",
       "url": "https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR"
+    },
+    {
+      "added_at": "2023-01-17 00:50:49",
+      "album": {
+        "name": "Alivio",
+        "url": "https://open.spotify.com/album/5rxGWLZNit76H2xExKzDVg"
+      },
+      "artists": [
+        {
+          "name": "Franco Robert",
+          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Alivio",
+      "url": "https://open.spotify.com/track/2oD7qIB9vDBnE3uBmEh91C"
     },
     {
       "added_at": "2023-01-17 00:50:49",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-01-17 00:50:49",
       "album": {
-        "name": "Relaxing Piano (Neoclassical Sessions)",
-        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
-      },
-      "artists": [
-        {
-          "name": "Kalen Elmsley",
-          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
-        }
-      ],
-      "duration_ms": 184220,
-      "name": "Spheroidal",
-      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
-    },
-    {
-      "added_at": "2023-01-17 00:50:49",
-      "album": {
         "name": "Windspiel",
         "url": "https://open.spotify.com/album/4eeDKOvHgtYecnij6AtgI7"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 181079,
       "name": "Windspiel",
       "url": "https://open.spotify.com/track/5UvdAChDs1Rr0GYEkUMZma"
+    },
+    {
+      "added_at": "2023-01-17 00:50:49",
+      "album": {
+        "name": "Relaxing Piano (Neoclassical Sessions)",
+        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
+      },
+      "artists": [
+        {
+          "name": "Kalen Elmsley",
+          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
+        }
+      ],
+      "duration_ms": 184220,
+      "name": "Spheroidal",
+      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
     },
     {
       "added_at": "2023-01-17 00:50:49",
@@ -1167,22 +1167,6 @@
       "duration_ms": 106013,
       "name": "From Above",
       "url": "https://open.spotify.com/track/5LIsR2QFLqxot9tX9huYwi"
-    },
-    {
-      "added_at": "2023-01-17 00:50:49",
-      "album": {
-        "name": "Evenings on Instagram, Pt. I",
-        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
-      },
-      "artists": [
-        {
-          "name": "Jef Martens",
-          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
-        }
-      ],
-      "duration_ms": 61000,
-      "name": "And So the Story Began",
-      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
     },
     {
       "added_at": "2023-01-17 00:50:49",
@@ -1247,6 +1231,22 @@
       "duration_ms": 117625,
       "name": "A Gentle Sunlight",
       "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
+    },
+    {
+      "added_at": "2023-01-17 00:50:49",
+      "album": {
+        "name": "Evenings on Instagram, Pt. I",
+        "url": "https://open.spotify.com/album/369bs70zWIK9JdueHB97dw"
+      },
+      "artists": [
+        {
+          "name": "Jef Martens",
+          "url": "https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH"
+        }
+      ],
+      "duration_ms": 61000,
+      "name": "And So the Story Began",
+      "url": "https://open.spotify.com/track/772Bcd8JnXHuDFawYaEvks"
     },
     {
       "added_at": "2023-01-17 00:50:49",
@@ -1523,6 +1523,38 @@
     {
       "added_at": "2023-01-17 00:50:49",
       "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW"
+      },
+      "artists": [
+        {
+          "name": "Miran",
+          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
+        }
+      ],
+      "duration_ms": 156677,
+      "name": "Apricity",
+      "url": "https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug"
+    },
+    {
+      "added_at": "2023-01-17 00:50:49",
+      "album": {
+        "name": "Sans Regrets",
+        "url": "https://open.spotify.com/album/1osFMqRTNStUzYe0Ug92je"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "duration_ms": 141861,
+      "name": "Sans Regrets",
+      "url": "https://open.spotify.com/track/4vdzY5DNQGGb3pby9pprKD"
+    },
+    {
+      "added_at": "2023-01-17 00:50:49",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0yMEcM0YNb1hfPvZtnSnbY"
       },
@@ -1555,38 +1587,6 @@
       "duration_ms": 159837,
       "name": "Gnossienne: No.1 (Satie Reworks) - Spotify Singles",
       "url": "https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH"
-    },
-    {
-      "added_at": "2023-01-17 00:50:49",
-      "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/5kkoWIAMOyqK9WVJmyWtfW"
-      },
-      "artists": [
-        {
-          "name": "Miran",
-          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
-        }
-      ],
-      "duration_ms": 156677,
-      "name": "Apricity",
-      "url": "https://open.spotify.com/track/1UY1Fr1IExkpYxxxxUWFug"
-    },
-    {
-      "added_at": "2023-01-17 00:50:49",
-      "album": {
-        "name": "Sans Regrets",
-        "url": "https://open.spotify.com/album/1osFMqRTNStUzYe0Ug92je"
-      },
-      "artists": [
-        {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
-        }
-      ],
-      "duration_ms": 141861,
-      "name": "Sans Regrets",
-      "url": "https://open.spotify.com/track/4vdzY5DNQGGb3pby9pprKD"
     },
     {
       "added_at": "2023-01-17 00:50:49",

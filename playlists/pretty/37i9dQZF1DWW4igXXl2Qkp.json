@@ -1,13 +1,33 @@
 {
   "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: Billacheck",
-  "num_followers": 200257,
+  "num_followers": 200325,
   "original_name": "Fresh Finds: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY3MjYwNywwMDAwMDAwMGI3MTg1Y2MwOGM0NWEyMTA3OWIxZDJlZTI3NzFjMWRi",
+  "snapshot_id": "MTY3NDc4NDk4MSwwMDAwMDAwMDRlM2Y5ODFmYmI4Y2Y5ZDI2M2YzNDgzOTViYzc2NDU4",
   "tracks": [
+    {
+      "added_at": "2023-01-27 02:03:01",
+      "album": {
+        "name": "Wrong Turn",
+        "url": "https://open.spotify.com/album/6R53JypupsRdvmAjgN0fqQ"
+      },
+      "artists": [
+        {
+          "name": "Yung Sinn",
+          "url": "https://open.spotify.com/artist/6LAFFVSbnH98HCIvehSG6c"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 198199,
+      "name": "Roll A opp",
+      "url": "https://open.spotify.com/track/0KaFKWa8WC39FE7EPJL6Ld"
+    },
     {
       "added_at": "2023-01-18 17:00:00",
       "album": {

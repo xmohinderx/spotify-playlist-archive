@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "deep & dark. bold & bare. cover: Julien Baker",
+  "description": "deep & dark. bold & bare. cover: Samia",
   "name": "noir",
   "tracks": [
     {
@@ -344,6 +344,24 @@
       "duration_ms": 182062,
       "name": "Boxing Day Blues",
       "url": "https://open.spotify.com/track/5H4XMIorgnOoTrQ2JLPvEl"
+    },
+    {
+      "album": {
+        "name": "Breathing Song / Honey",
+        "url": "https://open.spotify.com/album/4eUxvQuguleFjUp01I6N36"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193080,
+      "name": "Breathing Song",
+      "url": "https://open.spotify.com/track/13pR0Vy22zw1in2Rd63TVn"
     },
     {
       "album": {
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 208800,
       "name": "Kitchen Table",
       "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"

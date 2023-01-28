@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Theo Croker",
+  "description": "New jazz for open minds. Cover: London Brew",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 323250,
       "name": "always",
       "url": "https://open.spotify.com/track/3kO5SqEje4LhVZeD7XWNvr"
@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7h1KF4cAeABJBqZt8Nf2O9"
+      },
+      "artists": [
+        {
+          "name": "Heine Hansen",
+          "url": "https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242264,
+      "name": "Anthology",
+      "url": "https://open.spotify.com/track/2Jlm3Q8LqbAHXNAkyNq9Lj"
+    },
+    {
+      "album": {
         "name": "Appalachian Wanderer",
         "url": "https://open.spotify.com/album/7kPN1czCTPYv1Kn2EFsShT"
       },
@@ -886,7 +904,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 329374,
       "name": "Appalachian Wanderer",
       "url": "https://open.spotify.com/track/65XlnhSfSbBjCvS33MbN06"
@@ -2097,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Bummel",
+        "url": "https://open.spotify.com/album/7ELOiPFO3wzxm7B82XnvSG"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337583,
+      "name": "Bummel",
+      "url": "https://open.spotify.com/track/6NhuPO7D66YBolIyEA9uuU"
+    },
+    {
+      "album": {
         "name": "Burden",
         "url": "https://open.spotify.com/album/1OW1kH99X96vLWQlzI0Osi"
       },
@@ -2746,6 +2782,24 @@
       "duration_ms": 326640,
       "name": "Crystalline Passage",
       "url": "https://open.spotify.com/track/5r1h6ttDYfEJ7O0UxeAWCt"
+    },
+    {
+      "album": {
+        "name": "D'un feu secret",
+        "url": "https://open.spotify.com/album/3MrKWyqdWqKqvNtl3xt4kP"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224836,
+      "name": "D'un feu secret",
+      "url": "https://open.spotify.com/track/7dP5Y13MV07A983j7kiPkf"
     },
     {
       "album": {
@@ -3522,7 +3576,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 327774,
       "name": "Dust Ball Fantasy (feat. Lionel Loueke)",
       "url": "https://open.spotify.com/track/1R3OT4zUhA9p8erPorBcPD"
@@ -3731,6 +3785,32 @@
     },
     {
       "album": {
+        "name": "Eloquence",
+        "url": "https://open.spotify.com/album/4BTSgEE5qTfQRCoGIWJKJM"
+      },
+      "artists": [
+        {
+          "name": "Total Refreshment Centre",
+          "url": "https://open.spotify.com/artist/0qntmZZEAGHbEQEbCRQoUG"
+        },
+        {
+          "name": "Matters Unknown",
+          "url": "https://open.spotify.com/artist/0LHO47WJDTdARQzI5PMaXJ"
+        },
+        {
+          "name": "Miryam Solomon",
+          "url": "https://open.spotify.com/artist/4NeGgXLxoARUxdPHFb6qEK"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226600,
+      "name": "Eloquence",
+      "url": "https://open.spotify.com/track/5lo8YQbFQSeP5SCJvbE0iw"
+    },
+    {
+      "album": {
         "name": "Emlilweni",
         "url": "https://open.spotify.com/album/0dWHPV6VdVYUZiY9ma0XKQ"
       },
@@ -3808,7 +3888,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 275720,
       "name": "Erased by Sunlight",
       "url": "https://open.spotify.com/track/0CksKWG4zxBoOQ5k41PMt9"
@@ -3936,7 +4016,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 154723,
       "name": "Evolution (Tiny Room Sessions)",
       "url": "https://open.spotify.com/track/1sMVoWZYE5nn86HnMdSHej"
@@ -4232,7 +4312,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 299758,
       "name": "Fire In Detroit",
       "url": "https://open.spotify.com/track/7oUnKsa84QuvSUZ6ssNNdI"
@@ -4940,6 +5020,32 @@
       "duration_ms": 192000,
       "name": "haph caph",
       "url": "https://open.spotify.com/track/28TehFwQqvh4ZgReKCkLgT"
+    },
+    {
+      "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/1mMF55r8dhkf38xguyl1L8"
+      },
+      "artists": [
+        {
+          "name": "Joshua Espinoza",
+          "url": "https://open.spotify.com/artist/6sQipnSTh0MtEdmUM8w49E"
+        },
+        {
+          "name": "Kris Monson",
+          "url": "https://open.spotify.com/artist/2kUPNaq8pnJ4Q7TYoFme5t"
+        },
+        {
+          "name": "Jaron Lamar Davis",
+          "url": "https://open.spotify.com/artist/2XeV55IyaL6jSh1yOlVOHG"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/5QwPTrz8MBmCxsR3NOfbc0"
     },
     {
       "album": {
@@ -6264,7 +6370,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 419933,
       "name": "It Might as Well Be Spring",
       "url": "https://open.spotify.com/track/2G1V7x6BZ5Pym68sgSpY66"
@@ -7074,7 +7180,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 203560,
       "name": "Life Goes On (feat. Sampa the Great)",
       "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
@@ -7114,7 +7220,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 415413,
       "name": "Like Him",
       "url": "https://open.spotify.com/track/5h6LeISR8TUp4hNdK7cADW"
@@ -7385,6 +7491,32 @@
     },
     {
       "album": {
+        "name": "Look Into The Sun",
+        "url": "https://open.spotify.com/album/2nbhaBDCQS3Zcak1QWU5Pf"
+      },
+      "artists": [
+        {
+          "name": "Melatone",
+          "url": "https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr"
+        },
+        {
+          "name": "Slug",
+          "url": "https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257092,
+      "name": "Look Into The Sun",
+      "url": "https://open.spotify.com/track/1lydsWD2gkGK0s0mRIAVvy"
+    },
+    {
+      "album": {
         "name": "DejaViews",
         "url": "https://open.spotify.com/album/098knmIhtyimCeQ6jRrPqv"
       },
@@ -7452,7 +7584,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 577400,
       "name": "Loro",
       "url": "https://open.spotify.com/track/3CoEswc1RNl99WbIIDceZF"
@@ -7530,7 +7662,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 339103,
       "name": "Love And Hate",
       "url": "https://open.spotify.com/track/2pAeDg1MHRDeLGiZdTMTik"
@@ -7996,6 +8128,72 @@
       "duration_ms": 326552,
       "name": "Midnight Crisp",
       "url": "https://open.spotify.com/track/44egUa8FkT17spwSFvQis6"
+    },
+    {
+      "album": {
+        "name": "Miles Chases New Voodoo In The Church",
+        "url": "https://open.spotify.com/album/6mPJCWZ3pbHquYKno7gPB3"
+      },
+      "artists": [
+        {
+          "name": "London Brew",
+          "url": "https://open.spotify.com/artist/6rVN7vMGgDqCGif9EpNpVb"
+        },
+        {
+          "name": "Benji B",
+          "url": "https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R"
+        },
+        {
+          "name": "Raven Bush",
+          "url": "https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs"
+        },
+        {
+          "name": "Theon Cross",
+          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Tom Herbert",
+          "url": "https://open.spotify.com/artist/08WSyxBEPJgDyOsH8SWpLo"
+        },
+        {
+          "name": "Shabaka Hutchings",
+          "url": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o"
+        },
+        {
+          "name": "Nikolaj Torp Larsen",
+          "url": "https://open.spotify.com/artist/7B5J73d7YoQmAtSchQKJEt"
+        },
+        {
+          "name": "Dave Okumu",
+          "url": "https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F"
+        },
+        {
+          "name": "Nick Ramm",
+          "url": "https://open.spotify.com/artist/2VqSheffB7Wp1IVCZdIuSL"
+        },
+        {
+          "name": "Dan See",
+          "url": "https://open.spotify.com/artist/3tIBbFxP6udjcNWTn1SMux"
+        },
+        {
+          "name": "Tom Skinner",
+          "url": "https://open.spotify.com/artist/6U9Bsog9PLNE5hrw45ecDm"
+        },
+        {
+          "name": "Martin Terefe",
+          "url": "https://open.spotify.com/artist/68KMyINYSK8zqckysgy4OR"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194614,
+      "name": "Miles Chases New Voodoo In The Church - Single Edit",
+      "url": "https://open.spotify.com/track/6yRAQX1d91AQEcwwYXsCfb"
     },
     {
       "album": {
@@ -9058,22 +9256,6 @@
         {
           "name": "Charlie Hunter",
           "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        },
-        {
-          "name": "Gregoire Maret",
-          "url": "https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW"
-        },
-        {
-          "name": "Curtis Fowlkes",
-          "url": "https://open.spotify.com/artist/06RNxC4wlLY4Vu67ETadWo"
-        },
-        {
-          "name": "Derrek Phillips",
-          "url": "https://open.spotify.com/artist/3dhabMNHFdgZdE0dnxA75x"
-        },
-        {
-          "name": "John Ellis",
-          "url": "https://open.spotify.com/artist/2jqFKnUNOcp9RnR9C6JHjR"
         }
       ],
       "date_added": "2023-01-20",
@@ -9296,6 +9478,36 @@
       "duration_ms": 262742,
       "name": "Open Channels",
       "url": "https://open.spotify.com/track/52L4voy7ONzIJbB4HRCUZP"
+    },
+    {
+      "album": {
+        "name": "Phil Ranelin and Wendell Harrison JID016",
+        "url": "https://open.spotify.com/album/4hx8uwMlwCvGstCOQBt2bw"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Phil Ranelin",
+          "url": "https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1"
+        },
+        {
+          "name": "Wendell Harrison",
+          "url": "https://open.spotify.com/artist/5yBslrSWPfKklWwZbzLHka"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210473,
+      "name": "Open Eye",
+      "url": "https://open.spotify.com/track/36QW6WvdtzaCY6EmcjFtS2"
     },
     {
       "album": {
@@ -10561,6 +10773,24 @@
     },
     {
       "album": {
+        "name": "Ruslan",
+        "url": "https://open.spotify.com/album/07SNbiWQT8SrRuWWgwt9VX"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512440,
+      "name": "Ruslan",
+      "url": "https://open.spotify.com/track/0fBiRR7i6BB478U2uwh7wI"
+    },
+    {
+      "album": {
         "name": "Ruth",
         "url": "https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly"
       },
@@ -10634,7 +10864,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 143777,
       "name": "Sagitario",
       "url": "https://open.spotify.com/track/5VfXnShYlySzT3XezkvwZM"
@@ -10710,7 +10940,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 210895,
       "name": "Sant Esteve",
       "url": "https://open.spotify.com/track/6HnXF5qwBccfcxd8JZvAHu"
@@ -11376,6 +11606,24 @@
       "duration_ms": 504306,
       "name": "Someday We'll Fly",
       "url": "https://open.spotify.com/track/4k98hsTy9dAhsckyUAQa0u"
+    },
+    {
+      "album": {
+        "name": "Something Different",
+        "url": "https://open.spotify.com/album/0L4P68fgMmbTrUeNI75yDK"
+      },
+      "artists": [
+        {
+          "name": "Mad Keys",
+          "url": "https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97328,
+      "name": "Something Different",
+      "url": "https://open.spotify.com/track/0XXttZ96n3vgEI7JTrFfyn"
     },
     {
       "album": {
@@ -12480,7 +12728,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 286066,
       "name": "The Art of Four",
       "url": "https://open.spotify.com/track/5yPDLlpCMImluK1wHe1dtQ"
@@ -12869,6 +13117,24 @@
     },
     {
       "album": {
+        "name": "The Loneliest Flower in the Village",
+        "url": "https://open.spotify.com/album/7fuUedGb99QPbmCgHzhdKI"
+      },
+      "artists": [
+        {
+          "name": "Nostalgia 77",
+          "url": "https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496393,
+      "name": "The Hooper",
+      "url": "https://open.spotify.com/track/20JYLDe3sAryfmn0rwdGl5"
+    },
+    {
+      "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/1xJDj86YNAlqWIxAEXrWWX"
       },
@@ -13064,6 +13330,28 @@
       "duration_ms": 400311,
       "name": "The Night Before She Passed",
       "url": "https://open.spotify.com/track/6ojMeFvEymHqrWcSmSWSJv"
+    },
+    {
+      "album": {
+        "name": "the ordinary is ordinary because it ordinarily repeats",
+        "url": "https://open.spotify.com/album/1sLaCmkko1by5rgaqo15fv"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377999,
+      "name": "the ordinary is ordinary because it ordinarily repeats",
+      "url": "https://open.spotify.com/track/449OoXofxirwe5w2YqRrQM"
     },
     {
       "album": {
@@ -13698,6 +13986,28 @@
       "duration_ms": 347240,
       "name": "Tributary",
       "url": "https://open.spotify.com/track/7q6UmBKNhBLgMt0dg9UKr2"
+    },
+    {
+      "album": {
+        "name": "Where You Wish You Were",
+        "url": "https://open.spotify.com/album/7pZ3RFsT8sZDvpt4o9f7bk"
+      },
+      "artists": [
+        {
+          "name": "Bill Laurance",
+          "url": "https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF"
+        },
+        {
+          "name": "Michael League",
+          "url": "https://open.spotify.com/artist/0YzrofLyUlORKLkH8AAMm9"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286679,
+      "name": "Tricks",
+      "url": "https://open.spotify.com/track/6vU58G2mUkEJw4nZ2Vr3iQ"
     },
     {
       "album": {
@@ -15047,6 +15357,32 @@
     },
     {
       "album": {
+        "name": "You and the Night and the Music",
+        "url": "https://open.spotify.com/album/4CluHpKIPoQFd7uINLVDWN"
+      },
+      "artists": [
+        {
+          "name": "Gustav Lundgren",
+          "url": "https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV"
+        },
+        {
+          "name": "Karl-Henrik Ousb\u00e4ck",
+          "url": "https://open.spotify.com/artist/4S3y6LL6sBcjwwSEYknBwV"
+        },
+        {
+          "name": "Par-Ola Landin",
+          "url": "https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288950,
+      "name": "You and the Night and the Music",
+      "url": "https://open.spotify.com/track/38c784KxSdIUzJoz37ZJCZ"
+    },
+    {
+      "album": {
         "name": "You Don't Know What Love Is",
         "url": "https://open.spotify.com/album/17VJHTFQY6dxhagk6saKdO"
       },
@@ -15270,7 +15606,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 253000,
       "name": "\u591c\u7a7a\u304b\u3089\u306e\u6765\u8a2a\u8005",
       "url": "https://open.spotify.com/track/5tPF81ERdwsYA7VhV3lJT7"
@@ -15288,10 +15624,28 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 232000,
       "name": "\u5bb5\u5bb5\u96ea\u82b1",
       "url": "https://open.spotify.com/track/6iIxRqJjExIvewfqpOX8Bf"
+    },
+    {
+      "album": {
+        "name": "SPEED MUSIC \u30bd\u30af\u30c9\u30ce\u30aa\u30f3\u30ac\u30af vol. 7",
+        "url": "https://open.spotify.com/album/7cQAnB2XOEOeQkEPvrkkYV"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
+      "url": "https://open.spotify.com/track/32LhqU8umTrPAKN95z51d0"
     },
     {
       "album": {

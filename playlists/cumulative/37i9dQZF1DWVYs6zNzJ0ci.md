@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: Bubaseta
 
-238 songs - 16 hr 13 min
+239 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Desenvaina](https://open.spotify.com/track/2ZS1fTBq23a0DV25OEoXuE) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Desenvaina](https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY) | 3:02 | 2022-09-30 | 2022-11-17 |
 | [Destroy The Empire](https://open.spotify.com/track/1yLiawLcVNGjEFz8NFxOmY) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Destroy The Empire](https://open.spotify.com/album/7xrCykN0UTFWE2yD8zu2Is) | 3:24 | 2022-04-01 | 2022-04-15 |
 | [Diablos](https://open.spotify.com/track/4CHrS39vEGLCenT1APQ1ZJ) | [Chiki Lora](https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY), [Canteca de macao](https://open.spotify.com/artist/66xBjuCrzVfhXXvmLxF2UL) | [Pilares](https://open.spotify.com/album/2DgMUQX65M1iCN3dSW4R0e) | 3:43 | 2022-11-18 | 2023-01-21 |
+| [Dicen](https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Los Dueños De La Playa](https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp) | 2:49 | 2023-01-27 |  |
 | [Don't Tell Me No \(feat\. Freddie McGregor\)](https://open.spotify.com/track/7zjlKNA7yr7xjd0RuGS4ZO) | [Locos Por Juana](https://open.spotify.com/artist/4AX0I32V6XRGh9aRv7wj2h), [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Don't Tell Me No \(feat\. Freddie McGregor\)](https://open.spotify.com/album/5wo1fwl9jvqsN4IqOMZb6S) | 3:29 | 2022-02-04 | 2022-04-21 |
 | [Déjate Llevar](https://open.spotify.com/track/7CRQjqPcpLVSiFO03nPDPU) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [Déjate Llevar](https://open.spotify.com/album/61XLohpI7uZMJJqZXR2ohy) | 3:45 | 2022-04-01 | 2022-06-11 |
 | [El Baile y El Salón](https://open.spotify.com/track/7CYUhmlh78j9u1rJPojNiL) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Baile y El Salón](https://open.spotify.com/album/4qVBQAJ9QcTfwUtGAAZsAi) | 4:51 | 2021-12-10 | 2022-07-29 |
@@ -192,7 +193,7 @@
 | [Revolucionario](https://open.spotify.com/track/5XYDJ2lnwf712Ojud1TLHE) | [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Revolucionario](https://open.spotify.com/album/65xKhqwGlfcVOxBEk9ta6B) | 4:12 | 2021-12-10 | 2022-07-29 |
 | [Revolution Rock](https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Kevin Fingier](https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz) | [Rockin'](https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw) | 3:28 | 2021-12-10 | 2022-04-19 |
 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 | 2021-12-10 |  |
-| [Ruptura](https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Fanbrown](https://open.spotify.com/artist/0pJiXyozCdysfr3YXdp1al) | [Ruptura](https://open.spotify.com/album/1LPSW2i48wQJqzPSjPnCRF) | 3:14 | 2023-01-20 |  |
+| [Ruptura](https://open.spotify.com/track/0ACBjct2NYsE8qMhkOWt1k) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Fanbrown](https://open.spotify.com/artist/0pJiXyozCdysfr3YXdp1al) | [Ruptura](https://open.spotify.com/album/1LPSW2i48wQJqzPSjPnCRF) | 3:14 | 2023-01-20 | 2023-01-28 |
 | [Sal a Caminar](https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Esfuerzo Universal](https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au) | 5:05 | 2021-12-10 |  |
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/5F3qW7U4Tmqwmh0SsVkyOr) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/album/4LqtYba4wLsXu4vzPG4aEk) | 2:46 | 2021-12-10 | 2023-01-24 |
 | [Sentimiento Colectivo](https://open.spotify.com/track/5Mt39ZADBRZMNeKG4DxDJP) | [Colectivo Ley De Origen](https://open.spotify.com/artist/5J6qDQo17awBaFEmOGhfb3), [David Kawooq](https://open.spotify.com/artist/71miEAUvClO9XgUdy6dqnZ), [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW), [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx) | [Sentimiento Colectivo](https://open.spotify.com/album/7e75vjhSH4p79UErg0u8hy) | 3:08 | 2021-12-10 | 2022-07-29 |

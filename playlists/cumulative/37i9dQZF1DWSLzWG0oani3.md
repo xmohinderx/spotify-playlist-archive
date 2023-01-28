@@ -4,7 +4,7 @@
 
 > Suena en el barrio, suena acá\. Foto: DT.Bilardo
 
-101 songs - 5 hr 0 min
+102 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Encapsulado en el Bm](https://open.spotify.com/track/6I0p6Tm3Dmw2g15PMuA5ww) | [Anthony MM](https://open.spotify.com/artist/3L0TDlLE2v4lWjz5vw3vE8), [Lucho23](https://open.spotify.com/artist/77GkTRXzckRvljR84wWvYh) | [Encapsulado en el Bm](https://open.spotify.com/album/2UyZ6ZD9zeuebVsAdAnmYi) | 2:18 | 2021-12-24 | 2022-04-02 |
 | [Fenomenal](https://open.spotify.com/track/41NSAiKyjasSqJdbGYJ3H3) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Fenomenal](https://open.spotify.com/album/2fFjuvFcpxaUhTDM8zOx3W) | 3:33 | 2022-12-06 |  |
 | [Fiesta Panky](https://open.spotify.com/track/6H2dh3gbmmdtn4dBQmPkJV) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Basty Corvalan](https://open.spotify.com/artist/6p9BBRwixGcXxZ1gdcqmpd), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Fiesta Panky](https://open.spotify.com/album/0ksje3J45uzOOAoKcEyLaA) | 4:27 | 2022-07-21 |  |
+| [Finochetto](https://open.spotify.com/track/4ykXVIVKVtuaqhRh3RKNHD) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Finochetto](https://open.spotify.com/album/7bm07KeXWVh2tlZfF5ekR8) | 2:25 | 2023-01-27 |  |
 | [Grammy \(RKT\)](https://open.spotify.com/track/0nUyOZh7nghS1W1xpPMfXs) | [El Mago](https://open.spotify.com/artist/0e4HRL4nSDvQQduvoUKJRi), [Canabi](https://open.spotify.com/artist/5PVbW1HclNtaZrDBcoUbmP) | [Grammy \(RKT\)](https://open.spotify.com/album/70Jt75b9Pzx0gGY1lRM88m) | 3:06 | 2021-12-24 | 2022-04-12 |
 | [HEGEMONICA](https://open.spotify.com/track/4EROxQ47IZNf5fOFC3MbA0) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [POST MORTEM](https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF) | 1:46 | 2021-12-24 |  |
 | [INDIQUEN \| E3](https://open.spotify.com/track/0mrioCB3wq09Zz7YN3Q4C4) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [INDIQUEN \| E3](https://open.spotify.com/album/0tR8VEP2fcNDGdQFEOpfAo) | 2:40 | 2022-03-04 |  |

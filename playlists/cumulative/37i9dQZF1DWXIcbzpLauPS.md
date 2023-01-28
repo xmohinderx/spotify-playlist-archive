@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> Metalcore at its finest\. Cover: Sleep Token
+> Metalcore at its finest\. Cover: August Burns Red
 
-624 songs - 1 day 15 hr 26 min
+627 songs - 1 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Alpha Sleep](https://open.spotify.com/track/5TJbc3YJN59ItZKwVcGQng) | [Marina](https://open.spotify.com/artist/5uHdXtqI5H3T17ovMtkqWs) | [Degrader](https://open.spotify.com/album/5mmZn799VQ5Rs2Tdod68Pz) | 3:41 | 2021-12-17 | 2022-07-22 |
 | [Altar of Snakes](https://open.spotify.com/track/2ApG8gUmrvfMJTBGpAact8) | [Great American Ghost](https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX) | [Altar of Snakes](https://open.spotify.com/album/3TngadNqveEE0a65Bfvbya) | 3:34 | 2022-07-13 | 2022-07-23 |
 | [Altered Eyes](https://open.spotify.com/track/6i2msZFGP7Tk7WiWaqzZq5) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Altered Eyes](https://open.spotify.com/album/05J7UPdqi1E7lwS9vLrFsR) | 3:54 | 2022-07-13 | 2022-07-23 |
-| [Ancestry](https://open.spotify.com/track/3L0JKbjp5StdqWBFHFab6O) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Ancestry](https://open.spotify.com/album/4AnqMhRGHsGvMynA2j3HY1) | 4:50 | 2022-11-04 |  |
+| [Ancestry](https://open.spotify.com/track/3L0JKbjp5StdqWBFHFab6O) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Ancestry](https://open.spotify.com/album/4AnqMhRGHsGvMynA2j3HY1) | 4:50 | 2022-11-04 | 2023-01-28 |
 | [Anger](https://open.spotify.com/track/48oseEsllN8BoGcjMARDyX) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Anger](https://open.spotify.com/album/31YVc9WzhyGg1Dsb7QaoEO) | 3:26 | 2022-07-13 | 2022-07-23 |
 | [Annihilist](https://open.spotify.com/track/2TyPzCadt6hCr1TWRxUgso) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Annihilist](https://open.spotify.com/album/0opaKmS2lnPYlhj0PLTn4P) | 4:10 | 2022-07-13 | 2022-07-23 |
 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 | 2022-05-27 | 2022-12-17 |
@@ -58,8 +58,9 @@
 | [away](https://open.spotify.com/track/4rNn6vx1vmzJfr894A5bM7) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [away](https://open.spotify.com/album/0TWnG9BOpdFeMZAKTWFVUT) | 4:22 | 2022-12-16 |  |
 | [Baba Yaga](https://open.spotify.com/track/2qk76H18li0kh0hPJTZmMk) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Baba Yaga](https://open.spotify.com/album/1fUP56lgqAS5bzycn35WAl) | 4:15 | 2022-07-13 | 2022-07-23 |
 | [Back for More](https://open.spotify.com/track/3DM9DwtKbAiwvRc4bJ1NyF) | [AVIIRA](https://open.spotify.com/artist/5jrO7JLjq5hKKKENDwrun4) | [Back for More](https://open.spotify.com/album/490ljTJrUAlYnjTgjMQMrU) | 3:41 | 2021-12-17 | 2022-01-08 |
+| [Backfire](https://open.spotify.com/track/6qA3JeQaSLng3XmIFr7IC0) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Backfire](https://open.spotify.com/album/4DBR3CJvtw972fOYg93ndQ) | 4:22 | 2023-01-27 |  |
 | [Backfire](https://open.spotify.com/track/0HcjKTb2vcKHSi8xZejERI) | [Devil's Cut](https://open.spotify.com/artist/4slQgNvBaj8rtuTZRhrMkf) | [LIFTED](https://open.spotify.com/album/0DdAVTe2xiSMJLrDErt2Tm) | 3:02 | 2021-12-17 | 2022-04-09 |
-| [Bad Things](https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:48 | 2022-11-04 |  |
+| [Bad Things](https://open.spotify.com/track/3jTWNaSfBQvv3HPTqQjkkM) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:48 | 2022-11-04 | 2023-01-28 |
 | [Banquet of Enigmatic Horrors Pt1: Terror](https://open.spotify.com/track/4vjralLcZQXtoCFTQajZQu) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Banquet of Enigmatic Horrors Pt 1: Terror](https://open.spotify.com/album/4t6hqON21Pp8pkNAXKd9lK) | 4:22 | 2022-07-13 | 2022-07-15 |
 | [Banquet of Enigmatic Horrors, Pt\. 2: Agony](https://open.spotify.com/track/4RxrwJYJ3gRnxrUBpyKkzz) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [Oliver Rae Aleron](https://open.spotify.com/artist/2IHcesdgSqwFOxH6n7GOXQ) | [Banquet of Enigmatic Horrors, Pt\. 2: Agony](https://open.spotify.com/album/2zwDvKAqalRZTDl4luS9bW) | 4:45 | 2022-07-13 | 2022-07-23 |
 | [Banshee](https://open.spotify.com/track/5zCf7x1mTeCOf4Uzxw2WWm) | [Seeing Things](https://open.spotify.com/artist/0PQdHOK4NlRByaOMPQeWEH) | [Banshee](https://open.spotify.com/album/2gPp8IUtPPOkTWaIGSxcxj) | 3:10 | 2022-07-13 | 2022-07-23 |
@@ -190,6 +191,7 @@
 | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/track/35onQjC0Rb2BISF0xkJCMW) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Jamie Hails](https://open.spotify.com/artist/2cRrZw0UD5vsnwoPVkV8Ip) | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/album/1or1Y8UCe75sabzYynWIn0) | 4:03 | 2022-07-13 | 2022-07-15 |
 | [Dreaming Desecration](https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Absolvere](https://open.spotify.com/album/2nDh1tZjYv2W63a27pSqRx) | 3:41 | 2022-07-13 | 2022-07-22 |
 | [Drone Corpse Aviator](https://open.spotify.com/track/0dV79XvxIl9godBsFty67L) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Drone Corpse Aviator](https://open.spotify.com/album/01yB2i7kzFVpD8naiAfUSs) | 3:46 | 2022-07-13 | 2022-07-15 |
+| [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 | 2023-01-27 |  |
 | [Duplicity](https://open.spotify.com/track/7jCWxQD5R7GrBahD2yJ7zc) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Duplicity](https://open.spotify.com/album/6voOWo8kjuuet5zCiM2ing) | 5:10 | 2022-07-13 | 2022-07-15 |
 | [Dust of the Bereaved](https://open.spotify.com/track/5wfILshQZtz9pKTOBEuH95) | [Tenside](https://open.spotify.com/artist/23d3dPHmTdEax2Ok6vTkke) | [Dust of the Bereaved](https://open.spotify.com/album/73Wkn2DNQR5LWE5HMKDHQ0) | 4:45 | 2022-07-13 | 2022-07-23 |
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 | 2022-09-03 |
@@ -557,12 +559,13 @@
 | [The Sabbath](https://open.spotify.com/track/7HL0huoU88eTvZppMElAD6) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Sabbath](https://open.spotify.com/album/1ofDlelW6YGKcFO7A9qSsF) | 4:26 | 2022-07-13 | 2022-07-21 |
 | [The Sea of Tragic Beasts](https://open.spotify.com/track/38CoewUWWrkI3LUnA6IvdY) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [The Sea of Tragic Beasts](https://open.spotify.com/album/7gHcRen2sOUKx2POnezfLT) | 4:24 | 2022-07-13 | 2022-07-23 |
 | [The Shadowy Descent of Gaia](https://open.spotify.com/track/0MCP9JP5ikBXncq8zlhkCK) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [The Shadowy Descent of Gaia](https://open.spotify.com/album/4Ifi7nuaAuagUnBj7yY4rG) | 4:42 | 2022-07-13 | 2022-07-18 |
-| [The Snow](https://open.spotify.com/track/5Ud87h3Gmcelf0F22qObT8) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [The Snow](https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo) | 3:44 | 2022-06-10 |  |
+| [The Snow](https://open.spotify.com/track/5Ud87h3Gmcelf0F22qObT8) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [The Snow](https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo) | 3:44 | 2022-06-10 | 2023-01-28 |
 | [The Soil](https://open.spotify.com/track/1B5N4Uv5ueJw5rbiga5asV) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [The Soil](https://open.spotify.com/album/5NrHpWyWCGVya29slLU2QG) | 3:29 | 2022-07-13 | 2022-07-19 |
 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-01-06 |  |
 | [The Tyrannt's Covenant](https://open.spotify.com/track/4HX43R8UeIPjEPpTzKQb3P) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Kyle Anderson](https://open.spotify.com/artist/74GuAuCz0mWRUiqL4KPJKh) | [The Tyrannt's Covenant](https://open.spotify.com/album/6t9Q5AZw9LyXEqVvdVZbfP) | 3:21 | 2022-07-13 | 2022-07-23 |
 | [The War Within](https://open.spotify.com/track/0e4wJqC4fthZp6yUCUaCmh) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [Jamie Graham](https://open.spotify.com/artist/23lPSllEOA8jXD0bXzzlyM) | [Praenuntius Infiniti](https://open.spotify.com/album/1pmqc1OZ7VYMqjtG8zCAMz) | 4:14 | 2022-07-13 | 2022-07-19 |
 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 | 2022-08-12 | 2022-12-17 |
+| [There’s Fear In Letting Go](https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:54 | 2023-01-27 |  |
 | [Thick As Blood](https://open.spotify.com/track/1ALVr49q6IjFtzMajHvaU9) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Price Of Dreaming](https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4) | 4:40 | 2022-05-27 |  |
 | [Thinking in Tongues](https://open.spotify.com/track/4bWxvvHZSbnCERC2liTnIq) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Thinking in Tongues](https://open.spotify.com/album/4rWZPzKJnGLtNyTxVGLFEh) | 3:24 | 2022-07-13 | 2022-07-23 |
 | [This Means War](https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF) | 3:55 | 2022-08-12 |  |

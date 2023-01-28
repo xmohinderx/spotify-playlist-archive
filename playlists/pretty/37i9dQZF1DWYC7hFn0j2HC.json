@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 141571,
+  "num_followers": 141741,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1MzkxMSwwMDAwMDAwMDQ2NzZmNzE1YjQyMzE5NWFjMjExZGJmNDVjZGJjZTQw",
+  "snapshot_id": "MTY0MzE1MzkxMSwwMDAwMDAwMDllMzUwNjlkOWY1MWMyZmZmOWU1M2I1MDkyZWU2MzUw",
   "tracks": [
     {
       "added_at": "2022-01-25 23:38:31",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "35 Exitos",
-        "url": "https://open.spotify.com/album/4LprcUZtNvYJZTSdX2Dhim"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 125906,
-      "name": "La cama de piedra",
-      "url": "https://open.spotify.com/track/21dyD7LnH9NNRha9v0rjGL"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Sombras",
         "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 165506,
       "name": "\u00a1Qu\u00e9 Va!",
       "url": "https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "35 Exitos",
+        "url": "https://open.spotify.com/album/4LprcUZtNvYJZTSdX2Dhim"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 125906,
+      "name": "La cama de piedra",
+      "url": "https://open.spotify.com/track/21dyD7LnH9NNRha9v0rjGL"
     },
     {
       "added_at": "2022-01-25 23:38:31",

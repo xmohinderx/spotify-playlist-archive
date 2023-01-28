@@ -4,7 +4,7 @@
 
 > New Rock driving the current, every week\. Cover: DE'WAYNE
 
-159 songs - 8 hr 0 min
+160 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Kids Don't Buy Groceries](https://open.spotify.com/track/3qpZF480vZzafyfVqIaf4f) | [Hyattsvillain](https://open.spotify.com/artist/1X8K2CJ9gE4QDrh8TVRMKr) | [Kids Don't Buy Groceries](https://open.spotify.com/album/7gy5MwfTEMiom8RoUdIBLp) | 2:03 | 2022-03-18 | 2022-12-03 |
 | [Knock Me Out](https://open.spotify.com/track/6hZg9eBzZtn5SpHarPehbU) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Knock Me Out](https://open.spotify.com/album/5X4AuforMNHvb66UZU3zfE) | 3:05 | 2022-02-12 | 2022-07-23 |
 | [Life Goes On](https://open.spotify.com/track/5fHTdGsnnj0minXaTKAdFV) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Strawberries \(Deluxe Edition\)](https://open.spotify.com/album/4c5bfktL4iyMH7Ute5azfw) | 4:03 | 2022-07-22 | 2022-08-27 |
-| [Little](https://open.spotify.com/track/2fozfsVzd6kCYp5OA3sOUJ) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Little](https://open.spotify.com/album/6Vr5O6l6WpEMfAXS1AB9iv) | 2:37 | 2022-08-26 |  |
+| [Little](https://open.spotify.com/track/0lfKHiSPfnNOazjUCyjR8a) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Little](https://open.spotify.com/album/3lphUHd1yZ8IkozaqxTCWb) | 2:37 | 2022-11-25 |  |
+| [Little](https://open.spotify.com/track/2fozfsVzd6kCYp5OA3sOUJ) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Little](https://open.spotify.com/album/6Vr5O6l6WpEMfAXS1AB9iv) | 2:37 | 2022-08-26 | 2023-01-28 |
 | [LOVE ME HATE ME](https://open.spotify.com/track/32FxL1gNFABVzfK4gK2Ate) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [LOVE ME HATE ME](https://open.spotify.com/album/5SeCLmnrUikDL9dMCAgBzz) | 3:35 | 2022-08-26 |  |
 | [Mad](https://open.spotify.com/track/5jyrsygTAsGvAKsFGxTd6t) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Mad](https://open.spotify.com/album/5SvEPJ6bl42bFGXEWNSvdA) | 3:17 | 2022-02-12 | 2022-08-27 |
 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 | 2022-09-03 |  |

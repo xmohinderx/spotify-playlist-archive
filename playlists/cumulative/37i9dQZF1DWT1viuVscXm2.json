@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 217300,
       "name": "Mi Medicina",
       "url": "https://open.spotify.com/track/7FBl6M4ILoDTR4A1dSv1eu"
@@ -2792,7 +2792,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 208000,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/0NxxoaArPqmo2ivluHFCPD"
@@ -3555,6 +3555,24 @@
     },
     {
       "album": {
+        "name": "Ven, Ven",
+        "url": "https://open.spotify.com/album/1UsnZRssUcmZxEQFejIrD7"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "Ven, Ven",
+      "url": "https://open.spotify.com/track/2qEzWUMScoin9hn8Gqr0s9"
+    },
+    {
+      "album": {
         "name": "Vengo de la Casa de Ella",
         "url": "https://open.spotify.com/album/5mXCFeMvjfsM7TyI8zvjIU"
       },
@@ -3592,6 +3610,24 @@
       "duration_ms": 211703,
       "name": "Vivir Asi Es Morir de Amor",
       "url": "https://open.spotify.com/track/0ywBGfsIHLkTxZcv6jCGha"
+    },
+    {
+      "album": {
+        "name": "Voy a Olvidarme de Mi / Y Tu Te Vas",
+        "url": "https://open.spotify.com/album/7cjqZBRTDGGwSzZWtybH87"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243606,
+      "name": "Voy a Olvidarme de Mi / Y Tu Te Vas",
+      "url": "https://open.spotify.com/track/5ZeRjDwpf9WdXl4X66O3Zd"
     },
     {
       "album": {

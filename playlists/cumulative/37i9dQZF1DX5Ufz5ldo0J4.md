@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-277 songs - 12 hr 59 min
+278 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Mind Tranquility](https://open.spotify.com/track/3CmE2zIMFmeEs3b6j4GDLy) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Mind Tranquility](https://open.spotify.com/album/7K7KWSKLSCSWYwqfzyPmjo) | 3:31 | 2021-12-10 |  |
 | [Mirror](https://open.spotify.com/track/5CzjtSulXdoCHPKNg6Ll9P) | [Ben Evans\-Parker](https://open.spotify.com/artist/5ItKNtikXXvdBrzYzwVplB) | [Mirror](https://open.spotify.com/album/39Uka5FLJKySlUA8RAfIMa) | 2:06 | 2021-12-10 | 2022-08-13 |
 | [Molecules](https://open.spotify.com/track/4G5VeedjbIEbvNP45vxBvJ) | [Lectus](https://open.spotify.com/artist/2JolphwQB4Yg7sLfSsoJuk) | [Atoms](https://open.spotify.com/album/2iNhRXKY6D7E9mv00F9EoM) | 2:37 | 2021-12-10 |  |
-| [Moment of Peace](https://open.spotify.com/track/3IvRypHZvFCKf6y7H4VLSX) | [Mediteight Dimensional](https://open.spotify.com/artist/2OeyY5gT2fNl8dQpBVpolj) | [Moment of Peace](https://open.spotify.com/album/5Wv1t9GPKKJUbVu7bzckgo) | 3:49 | 2021-12-10 |  |
+| [Moment of Peace](https://open.spotify.com/track/3IvRypHZvFCKf6y7H4VLSX) | [Mediteight Dimensional](https://open.spotify.com/artist/2OeyY5gT2fNl8dQpBVpolj) | [Moment of Peace](https://open.spotify.com/album/5Wv1t9GPKKJUbVu7bzckgo) | 3:49 | 2021-12-10 | 2023-01-28 |
 | [Moon Stage](https://open.spotify.com/track/2t4CN8rtDkodRYxYYhAAvL) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Moon Stage](https://open.spotify.com/album/42JKz2NOIzax2Erclm0Mmu) | 3:16 | 2022-05-26 |  |
 | [Morning Haze](https://open.spotify.com/track/6C6joxj0BbyQUJWBpNv4Fc) | [Blissful Heaven](https://open.spotify.com/artist/4QEyQYiRdLu1c6wzHyp0ds) | [Morning Haze](https://open.spotify.com/album/2fbMcdbcUhU4utgAlqrjgD) | 3:10 | 2021-12-10 |  |
 | [Nattljus](https://open.spotify.com/track/2QrJ8fjauMnKHUkdnghNzB) | [Pontus Josefsson](https://open.spotify.com/artist/1mxPkXiVRRYjy4GHEZQ6Ap) | [Nattljus](https://open.spotify.com/album/0Y1TTUkWznsaNE1GYQc0CX) | 2:34 | 2021-12-10 |  |
@@ -230,6 +230,7 @@
 | [Star Light](https://open.spotify.com/track/2z3jtBK8vqwNIVQpN3lO78) | [Secret Medicine](https://open.spotify.com/artist/0tMQJ9EVT0vfsG67K867kR) | [Atlas Of Beauty](https://open.spotify.com/album/0P5IAGKQmeAU3ZIN0IQyxf) | 2:32 | 2022-09-13 |  |
 | [Stated Intent](https://open.spotify.com/track/21RmYoBNHh9RwEE2n19lrf) | [Lucinda Friese](https://open.spotify.com/artist/6YhUWOVu9JXCbtpvkeYGDT) | [Stated Intent](https://open.spotify.com/album/09gL5fyZzCWtt6ss56XxV5) | 2:33 | 2021-12-10 |  |
 | [Steady](https://open.spotify.com/track/089DXbcfLgJEJyuOyQWEdN) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [Look Ahead](https://open.spotify.com/album/650nklWLMUwYLTG9AVsH34) | 2:52 | 2021-12-10 |  |
+| [Stillness](https://open.spotify.com/track/1BQxGhCmtTfvpkNcZ3Lp8G) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Stillness](https://open.spotify.com/album/5cAyA5mlUDMuQ89JHasPkg) | 3:03 | 2023-01-27 |  |
 | [Sueño \(nos vemos mañana\)](https://open.spotify.com/track/6ageUeraq8yY687IBlpeEF) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [Sueño \(nos vemos mañana\)](https://open.spotify.com/album/1cv6KC1L2brsbH63ImADBK) | 3:11 | 2021-12-10 |  |
 | [Sugar Dreams](https://open.spotify.com/track/1PU9FtEOCCDjigFFl5SliB) | [Alba's Pillows](https://open.spotify.com/artist/76zuGudqum0CSwVHgoAEDY) | [Sugar Dreams](https://open.spotify.com/album/71WNIvjWCIIY7HlXSHu1KN) | 3:31 | 2021-12-10 | 2022-09-03 |
 | [Sumire](https://open.spotify.com/track/7j5U7NtYQbqbgTuEmznPnh) | [Josephe Cressac](https://open.spotify.com/artist/2sEVgwrqZxHDJIfV62TXbW) | [Sumire](https://open.spotify.com/album/2QgVDh8p6bSVBjGyBE6cKh) | 2:48 | 2021-12-10 |  |

@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: All Time Low
 
-231 songs - 11 hr 18 min
+232 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Cursive](https://open.spotify.com/track/2qMJb05RCtQAO3OdoqxEMH) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/2SmBv7YTCsWRzlMcsp18he) | 2:55 | 2022-10-06 | 2022-12-22 |
 | [Cursive](https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Happy Never After](https://open.spotify.com/album/0DZBE5cVB5EC6WD2SdernL) | 2:55 | 2022-11-10 |  |
 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 | 2022-10-21 |  |
-| [DEAD ASTRONAUT](https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [DEAD ASTRONAUT](https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A) | 2:37 | 2022-02-21 |  |
+| [DEAD ASTRONAUT](https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [DEAD ASTRONAUT](https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A) | 2:37 | 2022-02-21 | 2023-01-28 |
 | [Deadbeat](https://open.spotify.com/track/2gyWRxnmsdfPKlwu1x1YAy) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Armageddon](https://open.spotify.com/album/0shZOs5RGfa93z5RYxUHvw) | 2:42 | 2021-12-20 |  |
 | [Deadbeat](https://open.spotify.com/track/7tBc50inQBPc21MrBlzL2l) | [Between You & Me](https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu) | [Deadbeat](https://open.spotify.com/album/5my9BzaBmcqxLAqHMvTVIB) | 2:42 | 2021-12-20 | 2022-01-15 |
 | [Deadzone](https://open.spotify.com/track/3wnVGG4XF8VbhdfvY8hd1F) | [Cameron Sanderson](https://open.spotify.com/artist/182llcVnhxpVBBmfSElMHX), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Deadzone](https://open.spotify.com/album/1tixQpiCa1jCbXmiEjNAM0) | 2:50 | 2022-08-05 | 2022-10-14 |
@@ -169,6 +169,7 @@
 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 | 2022-08-18 |  |
 | [punk chick](https://open.spotify.com/track/5Wb2OkliDE5wqNNiAy8E4B) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [punk chick](https://open.spotify.com/album/5S7Oe9FovWiPMInQJtGc5p) | 3:08 | 2022-07-04 | 2022-11-13 |
 | [Real Life](https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Real Life](https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x) | 2:44 | 2022-08-25 |  |
+| [REAL SUPER DARK](https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT) | 2:29 | 2023-01-27 |  |
 | [Remedy for Reality](https://open.spotify.com/track/6VL1ikOTJscKBHRgV686ug) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Torn in Two](https://open.spotify.com/album/7FD1Yk6byTdKJQh0fXX6nN) | 2:44 | 2021-12-20 | 2022-09-10 |
 | [Rescue Me](https://open.spotify.com/track/77ZScCO741T2SAvsXcwga2) | [Nothing Serious](https://open.spotify.com/artist/1rOAHaTjrL6vMCxnq7k6FO), [Sundown Superhero](https://open.spotify.com/artist/3gZyCE7ifVFcvZ12TEKvsA) | [Rescue Me](https://open.spotify.com/album/777RRe1mp4kKhUCdZWodL3) | 2:17 | 2021-12-20 | 2022-01-15 |
 | [Right Now \(feat\. Travis Barker\)](https://open.spotify.com/track/1GlaDUecMXdHig5D1tgY8p) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Right Now \(feat\. Travis Barker\)](https://open.spotify.com/album/2d28oUb7mIuWnjuZk7TSE2) | 2:33 | 2021-12-20 | 2022-09-10 |

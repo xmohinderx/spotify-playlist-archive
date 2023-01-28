@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Vang; thiết kế: Isu Kim
 
-730 songs - 1 day 18 hr 35 min
+731 songs - 1 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Cam Bay](https://open.spotify.com/track/7MCJAFwyYvECyR4eJ73lH0) | [16 Rehtona](https://open.spotify.com/artist/6yZuJmKsA5bGl5z1UKsnyq), [16 BrT](https://open.spotify.com/artist/4jIoCS5bJr2TQ2SIbSPnwR) | [Cam Bay](https://open.spotify.com/album/3QipyHVUimESzSK7IAMQxD) | 3:26 | 2022-04-21 | 2022-07-01 |
 | [Chang The Quen Mot Nguoi](https://open.spotify.com/track/0ZkwYK1rOnL7n6z0y1BANm) | [Flo D](https://open.spotify.com/artist/25cLQ8alZJssXY06KE3SZP), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Chang The Quen Mot Nguoi](https://open.spotify.com/album/60ZclzimuGlrqUtsg34di7) | 3:27 | 2022-08-17 | 2022-09-22 |
 | [chanh tuyết](https://open.spotify.com/track/0i3kkjdLLumFcDIPwIY8b4) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [chanh tuyết](https://open.spotify.com/album/0pJIWUfipTVXuJ4ivTe8xy) | 2:40 | 2022-11-10 |  |
+| [Cherry](https://open.spotify.com/track/24uq1AAOUJpajFPWJNJlcX) | [MINOUI](https://open.spotify.com/artist/3FIbYm0qNAn5qyNio58v9F), [TIFFI](https://open.spotify.com/artist/4qaIaZk0BoKpSXdhHBWcpp) | [Cherry](https://open.spotify.com/album/2p2JmgNL6HGwEhc1ETKYYm) | 4:24 | 2023-01-26 |  |
 | [Chia Tay Giống Như Là \(feat\. OD\)](https://open.spotify.com/track/0e8A9MHbSa1bM2EW0eiifK) | [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [OD](https://open.spotify.com/artist/5twPupXYEk0dSpz26Y74rV) | [Chia Tay Giống Như Là \(feat\. OD\)](https://open.spotify.com/album/756vpzygA2YDjzXlFhw3mu) | 3:49 | 2022-09-17 |  |
 | [Chilavi](https://open.spotify.com/track/2P0EXCEfOWHSzxje3JgM4f) | [Haukong](https://open.spotify.com/artist/0UyTscBfKB6ILapfawqhFB) | [Chilavi](https://open.spotify.com/album/1A1pWurfx5qHQiZ6BF5e1f) | 2:25 | 2022-09-29 | 2022-10-27 |
 | [Chiếc hộp nhạc](https://open.spotify.com/track/3VjFPQhSBuApyKTm4a8zcm) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Chiếc hộp nhạc](https://open.spotify.com/album/7jUDO121w2hPh2PO3JzmB5) | 2:47 | 2023-01-18 |  |

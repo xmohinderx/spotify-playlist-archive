@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-174 songs - 10 hr 21 min
+175 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Shhhh](https://open.spotify.com/track/3QtbPhZDz5tH830gBQAgFL) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 3:48 | 2021-12-21 | 2022-07-27 |
 | [Silent Night](https://open.spotify.com/track/1yVqUIoimqzLXYALDLYpOt) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Silent Night](https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI) | 3:25 | 2021-12-21 |  |
 | [SLOW DANCE \(Feat\. Rico, KRRSYBEAR\)](https://open.spotify.com/track/0SONv4gf53rhrmJlcfkPhG) | [Twelvey](https://open.spotify.com/artist/2JtstlAho4m0Uh0sqK0X1I), [Rico](https://open.spotify.com/artist/3E0YTYEh08ccPtREHUCeDk), [크리시베어](https://open.spotify.com/artist/7jBjViEdMm00HGSDW8oA1f) | [SLOW DANCE \(Feat\. Rico, KRRSYBEAR\)](https://open.spotify.com/album/02ptXuktZkDkxWMbGF5ETF) | 2:52 | 2021-12-21 | 2022-07-29 |
+| [Snow on Christmas](https://open.spotify.com/track/1efhs3qNob9LxwIxyGCvdf) | [Baek Juyeon](https://open.spotify.com/artist/4vzgTWeitkDcGSUJwCCYvr) | [Snow on Christmas](https://open.spotify.com/album/4yVwoxry9eozDQ9ca98wTH) | 4:01 | 2023-01-10 |  |
 | [Snow Sun](https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp) | [아워멜츠 Hourmelts](https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc) | [Twenties = Love](https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN) | 3:33 | 2021-12-21 | 2022-12-08 |
 | [Snowball \(feat\. Vanilla Acoustic\)](https://open.spotify.com/track/2R9WJNssa0syWlYmoytmMo) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Be Your Christmas](https://open.spotify.com/album/0PrF2IuvcBPb0ZKdL64stz) | 2:38 | 2021-12-21 | 2022-07-29 |
 | [Snowball \(feat\. Vanilla Acoustic\)](https://open.spotify.com/track/6ATxvOBCZYRLXh318dD59I) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp), [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Be Your Christmas](https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV) | 2:38 | 2021-12-21 |  |
@@ -168,7 +169,7 @@
 | [Winter Wind](https://open.spotify.com/track/7LO6Xn1lEEWAcMAFyJL0Jw) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Santa is Busy](https://open.spotify.com/album/3Klxv71LYDsMhQ7wiAbzJF) | 3:19 | 2021-12-21 | 2022-08-25 |
 | [Winter Wonderland](https://open.spotify.com/track/3a80t6zePME9Xi72jg2jsa) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [The Barberettes Carol: Hun Hun Christmas](https://open.spotify.com/album/3rNQronWYbq9ccgplh8akp) | 4:36 | 2021-12-21 | 2022-07-29 |
 | [Winter Wonderland](https://open.spotify.com/track/45sxPvfsHzXddeuE7jFF2q) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [The Barberettes Carol : Hun Hun Christmas](https://open.spotify.com/album/0GSFgTuBL8tmDe4c0CxaJB) | 4:37 | 2021-12-21 | 2022-11-27 |
-| [Wish me a merry Christmas \(I need somebody part.2\)](https://open.spotify.com/track/15lrRt7YJ9Y0qHGv7IQQjy) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Wish me a merry Christmas](https://open.spotify.com/album/11o0qsRA6brSkexADT8C5Q) | 4:03 | 2021-12-21 |  |
+| [Wish me a merry Christmas \(I need somebody part.2\)](https://open.spotify.com/track/15lrRt7YJ9Y0qHGv7IQQjy) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Wish me a merry Christmas](https://open.spotify.com/album/11o0qsRA6brSkexADT8C5Q) | 4:03 | 2021-12-21 | 2023-01-28 |
 | [Y earned \(Feat\. Gaeko, SOLE\) \(Prod\. Primary, plusNONE\)](https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [xs](https://open.spotify.com/artist/3ivxGWDvNZC4KSTaUgNXr8), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [DSEL](https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 3:06 | 2021-12-21 |  |
 | [You Are My Christmas](https://open.spotify.com/track/4YcDY2jcAbfW647AJEcskA) | [2BiC](https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax) | [You Are My Christmas](https://open.spotify.com/album/1H2KIeUtIl00tQVemrGaHM) | 3:50 | 2021-12-21 | 2022-12-08 |
 | [You Make My Christmas](https://open.spotify.com/track/6cyNKtkOxew0yIunvM3pZ3) | [Pretty Brown](https://open.spotify.com/artist/6mjnB54a4uo8HH8ThCDXXZ) | [You Make My Christmas](https://open.spotify.com/album/7KHnSc7uosfrBJN3Cn1w31) | 3:43 | 2021-12-21 | 2022-10-01 |

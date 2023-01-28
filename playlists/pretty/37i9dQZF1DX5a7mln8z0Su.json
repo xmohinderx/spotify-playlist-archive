@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5044,
+  "num_followers": 5050,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzNTY2NiwwMDAwMDAwMGQ0NzUyYTMyMjM5YmU4MWY2ODMwYjcyOGJjNTQ3NTE4",
+  "snapshot_id": "MTY3NDYzNTY2NiwwMDAwMDAwMDUwZWM2ODg5NmM2MzNhODY3ZTJmZWEzMGFkYmVlODA5",
   "tracks": [
     {
       "added_at": "2023-01-13 04:06:07",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-01-13 04:06:07",
       "album": {
-        "name": "Hide into Night",
-        "url": "https://open.spotify.com/album/2n2pZcNw16mYduK2RlJMBV"
-      },
-      "artists": [
-        {
-          "name": "Night Off",
-          "url": "https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "Hide into Night",
-      "url": "https://open.spotify.com/track/1RoGU1kkQRvZfOR4ByJ5rT"
-    },
-    {
-      "added_at": "2023-01-13 04:06:07",
-      "album": {
         "name": "Mondegreen",
         "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 199186,
       "name": "Blanche",
       "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
+    },
+    {
+      "added_at": "2023-01-13 04:06:07",
+      "album": {
+        "name": "Hide into Night",
+        "url": "https://open.spotify.com/album/2n2pZcNw16mYduK2RlJMBV"
+      },
+      "artists": [
+        {
+          "name": "Night Off",
+          "url": "https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "Hide into Night",
+      "url": "https://open.spotify.com/track/1RoGU1kkQRvZfOR4ByJ5rT"
     },
     {
       "added_at": "2023-01-13 04:06:07",
@@ -847,18 +847,22 @@
     {
       "added_at": "2023-01-13 04:06:07",
       "album": {
-        "name": "Night",
-        "url": "https://open.spotify.com/album/37kB5XHm46l8uA56Y0NumP"
+        "name": "Sool",
+        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
       },
       "artists": [
         {
-          "name": "PO.U.RYU",
-          "url": "https://open.spotify.com/artist/6kYwRlB2k9l6BruOci7I7O"
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
         }
       ],
-      "duration_ms": 222457,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/3SaxQJgFfFeFekLhN7b0Dz"
+      "duration_ms": 230560,
+      "name": "Sool (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
     },
     {
       "added_at": "2023-01-13 04:06:07",
@@ -879,22 +883,18 @@
     {
       "added_at": "2023-01-13 04:06:07",
       "album": {
-        "name": "Sool",
-        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
+        "name": "Night",
+        "url": "https://open.spotify.com/album/37kB5XHm46l8uA56Y0NumP"
       },
       "artists": [
         {
-          "name": "snzae",
-          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
-        },
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+          "name": "PO.U.RYU",
+          "url": "https://open.spotify.com/artist/6kYwRlB2k9l6BruOci7I7O"
         }
       ],
-      "duration_ms": 230560,
-      "name": "Sool (Feat. THAMA)",
-      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
+      "duration_ms": 222457,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/3SaxQJgFfFeFekLhN7b0Dz"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

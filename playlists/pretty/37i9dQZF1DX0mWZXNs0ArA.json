@@ -1,13 +1,29 @@
 {
   "description": "150%",
-  "num_followers": 1071662,
+  "num_followers": 1075638,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDUzNjQwMCwwMDAwMDAwMDE3NWIzYThmYTU2Zjg5ZDhlYTliYjk4MTA2YzQ3OTI2",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDhlZGNkMjJmMDJiOWQ4NmI2NDEzYjk4MmFjNTU3ZTFm",
   "tracks": [
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Sure Thing (Sped Up)",
+        "url": "https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Sure Thing - Sped Up",
+      "url": "https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"
+    },
     {
       "added_at": "2023-01-18 16:50:46",
       "album": {
@@ -29,22 +45,6 @@
       "url": "https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN"
     },
     {
-      "added_at": "2023-01-24 05:00:00",
-      "album": {
-        "name": "Her Way (Sped Up)",
-        "url": "https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 182164,
-      "name": "Her Way - Sped Up",
-      "url": "https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU"
-    },
-    {
       "added_at": "2023-01-18 16:50:46",
       "album": {
         "name": "Kill Bill",
@@ -59,6 +59,54 @@
       "duration_ms": 137528,
       "name": "Kill Bill - Sped Up Version",
       "url": "https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x"
+    },
+    {
+      "added_at": "2023-01-18 16:50:46",
+      "album": {
+        "name": "Bad Habit (Sped Up)",
+        "url": "https://open.spotify.com/album/5vg6tTa6EHy0c9NNSOSM8T"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 191335,
+      "name": "Bad Habit - Sped Up",
+      "url": "https://open.spotify.com/track/4i7HqWsN7iJzsXpsW5h1nb"
+    },
+    {
+      "added_at": "2023-01-18 16:50:46",
+      "album": {
+        "name": "Back That Up To The Beat",
+        "url": "https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 192282,
+      "name": "Back That Up To The Beat - sped up version",
+      "url": "https://open.spotify.com/track/1ZvGlbx6sESozg3imglt83"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Give It To Me (Timbaland, Nelly Furtado) - Sped Up Version",
+        "url": "https://open.spotify.com/album/5RDftn20SS29X7kuwJdDQw"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "duration_ms": 181243,
+      "name": "Give It To Me (Timbaland, Nelly Furtado) - Sped Up Version",
+      "url": "https://open.spotify.com/track/08PPtKSS6tiU13kVD0mFjS"
     },
     {
       "added_at": "2023-01-18 16:50:46",
@@ -81,20 +129,36 @@
       "url": "https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV"
     },
     {
-      "added_at": "2023-01-18 16:50:46",
+      "added_at": "2023-01-24 05:00:00",
       "album": {
-        "name": "Bad Habit (Sped Up)",
-        "url": "https://open.spotify.com/album/5vg6tTa6EHy0c9NNSOSM8T"
+        "name": "Her Way (Sped Up)",
+        "url": "https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 191335,
-      "name": "Bad Habit - Sped Up",
-      "url": "https://open.spotify.com/track/4i7HqWsN7iJzsXpsW5h1nb"
+      "duration_ms": 182164,
+      "name": "Her Way - Sped Up",
+      "url": "https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "One Kiss (Dua Lipa) - Sped Up Version",
+        "url": "https://open.spotify.com/album/7rpvJbNeNjGPE1yjFhu5cM"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "duration_ms": 163317,
+      "name": "One Kiss (Dua Lipa) - Sped Up Version",
+      "url": "https://open.spotify.com/track/0GAiKtdJPxIZBMooHqLsuN"
     },
     {
       "added_at": "2023-01-18 16:50:46",
@@ -127,22 +191,6 @@
       "duration_ms": 192727,
       "name": "Gilded Lily - Sped Up",
       "url": "https://open.spotify.com/track/0M6urYKXizSJgtuipqmctu"
-    },
-    {
-      "added_at": "2023-01-18 16:50:46",
-      "album": {
-        "name": "Back That Up To The Beat",
-        "url": "https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 192282,
-      "name": "Back That Up To The Beat - sped up version",
-      "url": "https://open.spotify.com/track/1ZvGlbx6sESozg3imglt83"
     },
     {
       "added_at": "2023-01-18 16:50:46",
@@ -201,6 +249,22 @@
       "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Memories (Conan Gray) - Sped Up Version",
+        "url": "https://open.spotify.com/album/2JaXzx2OEmDUjapGuuwL5S"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "duration_ms": 215980,
+      "name": "Memories (Conan Gray) - Sped Up Version",
+      "url": "https://open.spotify.com/track/2aroCVYHlgz2RZk1cArLac"
+    },
+    {
       "added_at": "2023-01-18 16:50:46",
       "album": {
         "name": "What You Need (Sped Up Version)",
@@ -215,6 +279,22 @@
       "duration_ms": 178610,
       "name": "What You Need (Sped Up Version)",
       "url": "https://open.spotify.com/track/6AZvzU8fPSIefNDDl02e0C"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Sex, Drugs, Etc. (Sped Up Version)",
+        "url": "https://open.spotify.com/album/4NyrvOITu55ZfyN2MzQ2mb"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 176974,
+      "name": "Sex, Drugs, Etc. - Sped Up Version",
+      "url": "https://open.spotify.com/track/6SWVr6T3yQS6gZ9gQHrr2b"
     },
     {
       "added_at": "2023-01-18 16:50:46",
@@ -253,6 +333,22 @@
       "url": "https://open.spotify.com/track/6B5pdKWob9kjr0WpjJkVVD"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Judas (Lady Gaga) - Sped Up Version",
+        "url": "https://open.spotify.com/album/2MH1Q3GTGl9mLUT6oCY0ve"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "duration_ms": 206550,
+      "name": "Judas (Lady Gaga) - Sped Up Version",
+      "url": "https://open.spotify.com/track/0SfGYfOD0ipz1zg0ZCyqae"
+    },
+    {
       "added_at": "2023-01-18 16:50:46",
       "album": {
         "name": "Murder In My Mind (Sped Up)",
@@ -289,6 +385,22 @@
       "url": "https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY"
     },
     {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Woo (Rihanna) - Sped Up Version",
+        "url": "https://open.spotify.com/album/3p8GIjiIs0aRd2OeAXuNap"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "duration_ms": 183484,
+      "name": "Woo (Rihanna) - Sped Up Version",
+      "url": "https://open.spotify.com/track/4j5HkSWLaSlFxTPChb1D5l"
+    },
+    {
       "added_at": "2023-01-18 16:50:46",
       "album": {
         "name": "i'm yours",
@@ -303,6 +415,22 @@
       "duration_ms": 127780,
       "name": "i'm yours sped up",
       "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Where Do We Go From Here? (sped up)",
+        "url": "https://open.spotify.com/album/3QWolpriPFWyqWCEzFAVnJ"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 214734,
+      "name": "Where Do We Go From Here? - sped up",
+      "url": "https://open.spotify.com/track/5Ytgzxvn0waqOa4h3Ztpb8"
     },
     {
       "added_at": "2023-01-18 16:50:46",
@@ -443,18 +571,18 @@
     {
       "added_at": "2023-01-18 16:50:46",
       "album": {
-        "name": "I WANNA BE SAVED",
-        "url": "https://open.spotify.com/album/605ztgNljQNUeUeG835IQS"
+        "name": "Captain Save A Hoe (I Wanna Be Saved)",
+        "url": "https://open.spotify.com/album/2Q9Os7bIlPHwm2PUgX3d9T"
       },
       "artists": [
         {
-          "name": "Nightocore Songs",
-          "url": "https://open.spotify.com/artist/2nz194eBkvIzwRfdps1VPe"
+          "name": "Speedy Radio",
+          "url": "https://open.spotify.com/artist/0RLP0q4jk6itImKEc5fo75"
         }
       ],
-      "duration_ms": 242155,
-      "name": "I WANNA BE SAVED",
-      "url": "https://open.spotify.com/track/5kRgiWvIozTZn9thKMsrHf"
+      "duration_ms": 242207,
+      "name": "Captain Save A Hoe (I Wanna Be Saved)",
+      "url": "https://open.spotify.com/track/7dmgV1zXxEboJbtLOxlcFM"
     },
     {
       "added_at": "2023-01-18 16:50:46",
@@ -531,26 +659,6 @@
     {
       "added_at": "2023-01-18 16:50:46",
       "album": {
-        "name": "Edits",
-        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        },
-        {
-          "name": "Sped Up Songs + Nightcore",
-          "url": "https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Line Without a Hook - sped up",
-      "url": "https://open.spotify.com/track/6IbdSpBOeQn8vRBsq1eGUQ"
-    },
-    {
-      "added_at": "2023-01-18 16:50:46",
-      "album": {
         "name": "GigaChad Theme (Phonk House Version) [Sped Up]",
         "url": "https://open.spotify.com/album/6Jefxs4gSTv2abmn3TbqWK"
       },
@@ -583,7 +691,7 @@
     {
       "added_at": "2023-01-18 16:50:46",
       "album": {
-        "name": "Love Grows (Where My Rosemary Goes) [Sped Up]",
+        "name": "Love Grows (Where My Rosemary Goes) (Sped up)",
         "url": "https://open.spotify.com/album/5Dr5spXA9DBuXeCPZtQkfI"
       },
       "artists": [
@@ -683,26 +791,6 @@
     {
       "added_at": "2023-01-18 16:50:46",
       "album": {
-        "name": "Deep End (Sped Up Version)",
-        "url": "https://open.spotify.com/album/4Zd9SR8tNBvaOT2t2Rg0Xg"
-      },
-      "artists": [
-        {
-          "name": "Kyllow",
-          "url": "https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "Deep End - Sped Up Version",
-      "url": "https://open.spotify.com/track/5mKkwBL6lDoaBSehvKeZjf"
-    },
-    {
-      "added_at": "2023-01-18 16:50:46",
-      "album": {
         "name": "Self Esteem (Sped Up)",
         "url": "https://open.spotify.com/album/2yoQL96WpiEWb8ZQSfDlqj"
       },
@@ -715,22 +803,6 @@
       "duration_ms": 112022,
       "name": "Self Esteem (Sped Up)",
       "url": "https://open.spotify.com/track/6ftGfCbzzfjgrHtig6lIWS"
-    },
-    {
-      "added_at": "2023-01-18 16:50:46",
-      "album": {
-        "name": "Doja (Sped Up Version)",
-        "url": "https://open.spotify.com/album/0Vb9bg15zumvD37Au4FsVJ"
-      },
-      "artists": [
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        }
-      ],
-      "duration_ms": 81269,
-      "name": "Doja - Sped Up Version",
-      "url": "https://open.spotify.com/track/4UflFk4hLqXOfp2X38X6sI"
     },
     {
       "added_at": "2023-01-18 16:50:46",
@@ -827,22 +899,6 @@
     {
       "added_at": "2023-01-18 16:50:46",
       "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3zSsXVUo30ceghixa71luU"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 134999,
-      "name": "How Do I Say Goodbye - Sped Up",
-      "url": "https://open.spotify.com/track/0b49gQS3t3DNqX4TWBZyhX"
-    },
-    {
-      "added_at": "2023-01-18 16:50:46",
-      "album": {
         "name": "Tantrum (Pace Yourself)",
         "url": "https://open.spotify.com/album/61SNblTHomXBXufr1FM9Qt"
       },
@@ -875,22 +931,6 @@
     {
       "added_at": "2023-01-18 16:50:46",
       "album": {
-        "name": "girls like me don't cry (sped up)",
-        "url": "https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "girls like me don't cry (sped up)",
-      "url": "https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C"
-    },
-    {
-      "added_at": "2023-01-18 16:50:46",
-      "album": {
         "name": "vendetta! (sped up)",
         "url": "https://open.spotify.com/album/1GDSQLmbj33GGdfyl8hKw6"
       },
@@ -907,22 +947,6 @@
       "duration_ms": 91582,
       "name": "vendetta! - sped up",
       "url": "https://open.spotify.com/track/0D45ixbwxjkT4S7V1kpt5y"
-    },
-    {
-      "added_at": "2023-01-18 16:50:46",
-      "album": {
-        "name": "AVA (Sped Up)",
-        "url": "https://open.spotify.com/album/0jTLi50ltr0l8mIBS5XM9e"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 137594,
-      "name": "AVA (Sped Up)",
-      "url": "https://open.spotify.com/track/3Jb00jDoYOA7xHq4L2mWpZ"
     },
     {
       "added_at": "2023-01-18 16:50:46",
@@ -1143,26 +1167,6 @@
     {
       "added_at": "2023-01-18 16:50:46",
       "album": {
-        "name": "Pink (Freak)",
-        "url": "https://open.spotify.com/album/2jLyQ6Re3QbmuvoPhUzlzR"
-      },
-      "artists": [
-        {
-          "name": "Elliot Lee",
-          "url": "https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5"
-        },
-        {
-          "name": "Eel Smiles",
-          "url": "https://open.spotify.com/artist/77FCuQcl7IdDlaRtFIJ3Sy"
-        }
-      ],
-      "duration_ms": 209281,
-      "name": "Pink (Freak) - sped up",
-      "url": "https://open.spotify.com/track/6Z0jVWnJLzPd0zHerbOuQ1"
-    },
-    {
-      "added_at": "2023-01-18 16:50:46",
-      "album": {
         "name": "#BrooklynBloodPop!",
         "url": "https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU"
       },
@@ -1259,22 +1263,6 @@
       "duration_ms": 194160,
       "name": "Say It Right - Sped Up Remix",
       "url": "https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy"
-    },
-    {
-      "added_at": "2023-01-18 16:50:46",
-      "album": {
-        "name": "Miracles (alt)",
-        "url": "https://open.spotify.com/album/1mqgjpA4ALFFfQIx99L6jA"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 210871,
-      "name": "Miracles3",
-      "url": "https://open.spotify.com/track/1B1OX76XRjNcbPTu5u6TRF"
     },
     {
       "added_at": "2023-01-18 16:50:46",
@@ -1763,22 +1751,6 @@
       "duration_ms": 140309,
       "name": "Shame - Sped Up",
       "url": "https://open.spotify.com/track/0h9GRF6sk6ryhOmqp5V3yh"
-    },
-    {
-      "added_at": "2023-01-18 16:50:46",
-      "album": {
-        "name": "IN THE AIR/BILL$ (SPED UP)",
-        "url": "https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 102013,
-      "name": "IN THE AIR (SPED UP)",
-      "url": "https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6"
     },
     {
       "added_at": "2023-01-18 16:50:46",

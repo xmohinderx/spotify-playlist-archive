@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: romeo + juliet
 
-1,120 songs - 2 day 13 hr 15 min
+1,122 songs - 2 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [EVERYTHING](https://open.spotify.com/track/0vGaG5Su2XNfN7iBx8Pqq9) | [Stella Smyth](https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx) | [EVERYTHING](https://open.spotify.com/album/1BH5q685dSrzTUzKCKjmaI) | 3:04 | 2022-06-29 | 2022-08-04 |
 | [Excuses](https://open.spotify.com/track/2D1jM4WH9JDPbYRu6krPJa) | [Seiichi](https://open.spotify.com/artist/4RI4gKUri5aV54E3o5fW8S) | [Excuses](https://open.spotify.com/album/3oqPNpVvHr6mgPTzAmExnO) | 3:41 | 2022-06-29 | 2022-08-04 |
 | [Exit Sign](https://open.spotify.com/track/2CsJBrFzEdCTxvoSJSTQDf) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Exit Sign](https://open.spotify.com/album/17LtPeEv3DmwtAdTImnOzl) | 3:32 | 2022-04-06 | 2022-05-12 |
+| [Exodus](https://open.spotify.com/track/7qzDNq0CqZZhPWJUDibj9F) | [E\_DEATH](https://open.spotify.com/artist/2wSwy8bHoCzFngrIrDCFDd) | [Forgotten Realms](https://open.spotify.com/album/1qyyPZ18vww4s9OMInF1X3) | 3:44 | 2023-01-27 |  |
 | [Eye Listening](https://open.spotify.com/track/6qwY83o6vSpjEIJb1UnYFf) | [Bread Pilot](https://open.spotify.com/artist/6WX9FRYQIYRRTNPZaPFQ74) | [New To You](https://open.spotify.com/album/3UvCSSP3ee0lKm9JLGZJVr) | 2:19 | 2023-01-11 |  |
 | [f\*cked](https://open.spotify.com/track/51aiqjuuf267uef4tHV4iT) | [goth gf](https://open.spotify.com/artist/2ce5F0dH7nyfvn4nw0W5A1) | [f\*cked](https://open.spotify.com/album/72eRZoF14Tc8sy9fM1yTQl) | 2:12 | 2022-06-08 | 2022-06-30 |
 | [Fabio](https://open.spotify.com/track/4BLVNZbSx6Pu5gTGJ0w8eI) | [Pepper Lewis](https://open.spotify.com/artist/1gM4GZLhud1okEhyWI1wzc) | [Fabio](https://open.spotify.com/album/5C1HcG6jGiDSaqlLtUI8Ad) | 3:22 | 2022-10-19 | 2022-12-01 |
@@ -916,6 +917,7 @@
 | [Spotlight](https://open.spotify.com/track/6pi2zS1BBsDD1sQH5h52ZK) | [Stanley](https://open.spotify.com/artist/3Gx4Zbk2yisVcOMxYISvxc) | [Spotlight](https://open.spotify.com/album/3bYOdjWACZHWc2d7RTYOKh) | 3:09 | 2022-04-12 | 2022-05-20 |
 | [Spring](https://open.spotify.com/track/2vMikyqNbH1ynZ4Rfcbso3) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Spring](https://open.spotify.com/album/4GVoIK1wXH6Tm5bOaNOkIu) | 2:45 | 2022-06-08 | 2022-06-30 |
 | [Spring's Return](https://open.spotify.com/track/3BLgN0lIEtXLKRgvcRPAs7) | [The Land League](https://open.spotify.com/artist/5QpoYWl8Lif3LJFSoVae1P) | [Spring's Return](https://open.spotify.com/album/0q0foYjrw8pslRtRCgAacV) | 2:53 | 2022-07-27 | 2022-09-07 |
+| [Sprinkler Song](https://open.spotify.com/track/5AjnU8UASsUymoryckJ8Ak) | [Charlie Havenick](https://open.spotify.com/artist/3pKBOpNvBfoytn7fNArMHi) | [Sprinkler Song](https://open.spotify.com/album/2uzdT65t9cTJeekpeI3nHy) | 3:58 | 2023-01-27 |  |
 | [Squirrel](https://open.spotify.com/track/3o75ZmQ9nFkIL13FQ0gSaa) | [Howevever](https://open.spotify.com/artist/0OBmQ0rKcwQQS31X1kDpdY) | [Squirrel](https://open.spotify.com/album/1V3YxI3ymnI5uvhxEgldd8) | 3:00 | 2022-10-05 | 2022-12-01 |
 | [Star Signs](https://open.spotify.com/track/5aC4aoeeahZuCDc99phOHn) | [roman around](https://open.spotify.com/artist/18pfB891JbZKKn0bCueMvY) | [Star Signs](https://open.spotify.com/album/2FHrVV45Kc7pSUFE26gtKq) | 3:58 | 2022-02-02 | 2022-02-23 |
 | [Start To Breathe](https://open.spotify.com/track/2o8YkLtvVagI1ODecSRT57) | [Honest Creature](https://open.spotify.com/artist/3g7dxn32LcEGhZqHCGi05D) | [Start To Breathe](https://open.spotify.com/album/3qCeUd5yX2cGIY9xBvwo2s) | 4:21 | 2022-06-29 | 2022-08-11 |

@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-454 songs - 1 day 1 hr 36 min
+456 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Cheating on You](https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Cheating on You](https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L) | 3:16 | 2021-06-11 | 2021-10-02 |
 | [Close](https://open.spotify.com/track/3lSDIJ2abCrOdDJ6pshUap) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:54 | 2019-05-26\* | 2021-07-29 |
 | [Closure \(feat\. Calica\)](https://open.spotify.com/track/4sE5BzWDrAVNZzuslCi6K5) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Closure feat\. Calica](https://open.spotify.com/album/1JoKaXrvdh5FbP2nB6VB5R) | 3:36 | 2021-12-17 | 2022-04-21 |
+| [Cold As Ice](https://open.spotify.com/track/6sKJJShsRJpt7e3u4BmrkL) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Cold As Ice](https://open.spotify.com/album/6vS9lBQXdGIDIeQ67ibnzJ) | 2:23 | 2023-01-27 |  |
 | [Cornelia Street](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:47 | 2022-01-27 |  |
 | [Crash](https://open.spotify.com/track/3U5m1uUit3g5WSAZvA5xiA) | [Matthew Chaim](https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk) | [Crash](https://open.spotify.com/album/57olYVHFEL6K4mse8nRMva) | 4:16 | 2019-05-26\* | 2021-05-28 |
 | [Crave You](https://open.spotify.com/track/66rhCtfhQ3VyVVNjsiVwhC) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Crave You](https://open.spotify.com/album/4jOAkOUMDEDy4BvR8KJuui) | 3:51 | 2019-05-26\* | 2021-05-27 |
@@ -143,6 +144,7 @@
 | [Go Now](https://open.spotify.com/track/2Lp6Vp03T7zLAWbl6jyUB8) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Devotion](https://open.spotify.com/album/15GocbF7ybkkPP03YXtLqv) | 3:06 | 2019-05-29 | 2019-08-09 |
 | [Golden](https://open.spotify.com/track/0WRccXTHXiYxaN8CFXPYGB) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [What They'll Say About Us](https://open.spotify.com/album/4mdAcPpvearpFuQm4VZc6a) | 3:52 | 2021-10-27 | 2021-12-21 |
 | [Good Intentions](https://open.spotify.com/track/4DPCCCQC8L6SPQjIOC1i4c) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Good Intentions](https://open.spotify.com/album/23SKd4cKUFewMePxNC9JrZ) | 3:17 | 2019-05-26\* | 2021-05-27 |
+| [Guess We Lied...](https://open.spotify.com/track/2TpZAFpamrkPQcCdQcNjRT) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:31 | 2023-01-27 |  |
 | [H8U](https://open.spotify.com/track/39HKP03tQuGicGFs6Usk30) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [H8U](https://open.spotify.com/album/5NtANPKqT1EbX4RV5QMdkX) | 3:24 | 2019-05-26\* | 2021-07-31 |
 | [Habits \(Stay High\)](https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds](https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE) | 3:29 | 2019-06-25 | 2021-10-27 |
 | [Hailey](https://open.spotify.com/track/1bQ5gQOyzWbPl6TXFuvi8z) | [WRENN](https://open.spotify.com/artist/1mUvCFjlnNilmIebNqKYo8) | [Hailey](https://open.spotify.com/album/1ZJA6YpalHfiMeNIjFKDmo) | 2:47 | 2021-04-15 | 2021-10-23 |
@@ -266,7 +268,7 @@
 | [Missing U](https://open.spotify.com/track/4Sn5B44sLfQ364FUL98jvN) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Missing U](https://open.spotify.com/album/5SW7wvwBhAyCC6yBHQS5wC) | 4:51 | 2019-06-22 | 2022-04-17 |
 | [Missing You](https://open.spotify.com/track/7eA8KIqKOYDwzDoQPp0vQ9) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Innocence Lost](https://open.spotify.com/album/7yYelxb5aBNoxduduomHlp) | 2:54 | 2019-06-26 | 2021-05-27 |
 | [Modern Loneliness](https://open.spotify.com/track/1eyek0KJEh2v5HQ9uQSybb) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 4:12 | 2020-06-02 | 2021-10-02 |
-| [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-24 |  |
+| [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-24 | 2023-01-28 |
 | [Morphine](https://open.spotify.com/track/51lhPCRAIsbVYsvCwnEDNZ) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Skin & Earth](https://open.spotify.com/album/6s7WpIWoAG0LiBzQuuPh9o) | 4:04 | 2019-05-26\* | 2021-09-27 |
 | [Moves](https://open.spotify.com/track/6oxdwqmjK5caz4fDMVRBoW) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Make Me Believe In Hope \(Deluxe Edition\)](https://open.spotify.com/album/72Ygwke4yhLwcRobo5K1Cf) | 4:10 | 2022-03-25 | 2022-04-21 |
 | [Murder](https://open.spotify.com/track/1BdjQ2Xd8y4FoHXLP52AhC) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Murder](https://open.spotify.com/album/08ZO3bFrpZ6q3RmiCqCqPP) | 3:09 | 2019-05-26\* | 2021-09-08 |
@@ -322,7 +324,7 @@
 | [Psycho](https://open.spotify.com/track/2Gs2mHNQF2Lt7a9iIarcji) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:04 | 2021-09-29 |  |
 | [purple circles](https://open.spotify.com/track/2XetkGYnzGVJKcw467pqKA) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Motel 6 \(Bonus Track\)](https://open.spotify.com/album/3yPpgbkV6kYkb1K3VWTTum) | 3:32 | 2021-01-08 | 2021-10-02 |
 | [Quicksand](https://open.spotify.com/track/6fEtxRskOuPleXkm8ETYHE) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Quicksand](https://open.spotify.com/album/28TPdB72pb0vVJSc87N0OW) | 4:11 | 2022-01-21 | 2022-04-18 |
-| [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 | 2022-03-25 |  |
+| [Rare](https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:40 | 2022-03-25 | 2023-01-28 |
 | [Real Friends](https://open.spotify.com/track/5vnpANH92iEajvGwE2oQ6r) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Real Friends](https://open.spotify.com/album/61rwEPg49tCJFTXzyWgxJP) | 3:43 | 2019-05-26\* | 2021-07-15 |
 | [Remind Me to Forget](https://open.spotify.com/track/5sIx4BlfYGuZeSLF40N9GH) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Remind Me to Forget](https://open.spotify.com/album/5Og1PZOwpUkL8slf11stBq) | 3:37 | 2019-05-26\* | 2021-10-14 |
 | [Reminds Me](https://open.spotify.com/track/4KNlASXNNrYYmNZj4KG8qX) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Reminds Me](https://open.spotify.com/album/39YqiiIeV7BjNSZEggvI0F) | 2:37 | 2020-02-14 | 2021-10-23 |

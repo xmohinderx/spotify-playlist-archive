@@ -4,10 +4,11 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-1,113 songs - 2 day 11 hr 47 min
+1,113 songs - 2 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/2Xwyq4AyKumjXIVV7uk1Z9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Big boys](https://open.spotify.com/album/50yqUyt7aBiffET4A5nsjw) | 0:00 | 2023-01-17 |  |
 | [](https://open.spotify.com/track/6wJavOotAd4bEeB9QusGcE) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6OEHTTAAZowKU7LLZmvj2D) | 0:00 | 2022-07-10 | 2022-07-15 |
 | [\#doyalike](https://open.spotify.com/track/28wSGs5ktiBQeeArATV8VX) | [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL) | [\#doyalike](https://open.spotify.com/album/0nnDPfom0EYbRYphovv0hu) | 3:03 | 2022-05-24 | 2022-06-01 |
 | [\#doyalike](https://open.spotify.com/track/2HfZIE33sAibTpHibfdEDs) | [kazeWIW](https://open.spotify.com/artist/03G9a7of6KbiBL30L7UAAS) | [\#doyalike](https://open.spotify.com/album/2lB1L11fAMtcOyo3xnZGQ6) | 3:03 | 2022-04-22 | 2022-04-24 |
@@ -106,7 +107,6 @@
 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-07-05 | 2022-09-12 |
 | [Beverly Hills](https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Beverly Hills](https://open.spotify.com/album/2dfgoGW5M3v3Zrn940j9Rp) | 2:18 | 2021-12-31 | 2022-01-10 |
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2022-12-13 | 2022-12-28 |
-| [Big Boy \- \(Sped up\)](https://open.spotify.com/track/2Xwyq4AyKumjXIVV7uk1Z9) | [season boys](https://open.spotify.com/artist/6bPU0nTcu8pvyB9D855cWP) | [Big boys](https://open.spotify.com/album/50yqUyt7aBiffET4A5nsjw) | 2:29 | 2023-01-17 |  |
 | [Big Boys](https://open.spotify.com/track/1b5y9c6KdLcLWzKX1dCFhU) | [cshsznxo!](https://open.spotify.com/artist/4ZSPh3z0AyE5XKFQqEH2YU) | [Big Boys](https://open.spotify.com/album/3fnpQVhNFfwH5BJyO1SZMl) | 2:58 | 2023-01-12 | 2023-01-22 |
 | [Big Boys](https://open.spotify.com/track/6vfzPIYPrBynL732YnBHob) | [Holmes](https://open.spotify.com/artist/3Up98eYP9sd2MmHXtmdcG7) | [Big Boys](https://open.spotify.com/album/3pOtRyzyVVfmoyeL32Zifx) | 2:58 | 2023-01-26 |  |
 | [Big Energy](https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 | 2022-03-26 | 2022-03-30 |

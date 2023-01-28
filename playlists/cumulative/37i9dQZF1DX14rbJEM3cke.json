@@ -1698,6 +1698,24 @@
     {
       "album": {
         "name": "Little",
+        "url": "https://open.spotify.com/album/3lphUHd1yZ8IkozaqxTCWb"
+      },
+      "artists": [
+        {
+          "name": "Jany Green",
+          "url": "https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157089,
+      "name": "Little",
+      "url": "https://open.spotify.com/track/0lfKHiSPfnNOazjUCyjR8a"
+    },
+    {
+      "album": {
+        "name": "Little",
         "url": "https://open.spotify.com/album/6Vr5O6l6WpEMfAXS1AB9iv"
       },
       "artists": [
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 157089,
       "name": "Little",
       "url": "https://open.spotify.com/track/2fozfsVzd6kCYp5OA3sOUJ"

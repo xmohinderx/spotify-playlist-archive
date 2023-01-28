@@ -4,7 +4,7 @@
 
 > The freshest indie music from South African and beyond\. Cover: <a href="https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86?si=E4XDVL0qS2WwQFX\_ZhuEvg">Matthew Mole
 
-147 songs - 8 hr 24 min
+148 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [CHICKEN MAYO](https://open.spotify.com/track/6o6ydS9wgJL5URC2hIessV) | [SuperSaiyanRasta.](https://open.spotify.com/artist/2ZUEP6gwvkhOKktt7lT8kX) | [CHICKEN MAYO](https://open.spotify.com/album/6jo8Rk0JRv4h8IhD4oxklW) | 2:38 | 2022-12-08 | 2023-01-13 |
 | [Cigarettes](https://open.spotify.com/track/59sO3PZBgWBDVAnhJKkCqp) | [SyonkoTheMan](https://open.spotify.com/artist/52q9KxQFuumM4i1tbufUgX), [GOD\-Artist](https://open.spotify.com/artist/327rzGr8Sj1D2m2ShcAgF0), [Wandilorn](https://open.spotify.com/artist/1w5Cq2qn7FR498amWpFRIR) | [Cigarettes](https://open.spotify.com/album/6kE2uEV0sRnzY56zH5Vaaa) | 3:29 | 2022-08-18 | 2022-12-09 |
 | [Clean](https://open.spotify.com/track/5uaNJ6LhylyBCTYNUy7z0C) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Echoes](https://open.spotify.com/album/4U2ZrbE8qKmOlYcEUuS9Hm) | 2:43 | 2022-08-04 | 2022-11-11 |
-| [cold](https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [cold](https://open.spotify.com/album/3sq9US2YY0YruWQbvV8Yfo) | 4:38 | 2022-11-10 |  |
+| [cold](https://open.spotify.com/track/367rg4DJZsp7GCTrDpDVT6) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [cold](https://open.spotify.com/album/3sq9US2YY0YruWQbvV8Yfo) | 4:31 | 2022-11-10 |  |
 | [Countryside](https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Countryside](https://open.spotify.com/album/4Z9AQ8SjQybVgcEhdhfvd0) | 3:37 | 2023-01-26 |  |
 | [Daddy's Gone](https://open.spotify.com/track/07NG6cCU9QDIzcBaLEClEu) | [Bye Beneco](https://open.spotify.com/artist/3kMHWNlRYrb3c6NpmP8EQh) | [Daddy's Gone](https://open.spotify.com/album/2NgQzQCj8PbSuuDPtOrFaa) | 3:46 | 2022-09-22 | 2022-10-07 |
 | [daylight](https://open.spotify.com/track/034NOPWJhN4ZoTLO8X8eBK) | [Lo Fear](https://open.spotify.com/artist/4vtJFJ4slbrlvUGM4ofkTX), [Amor Amor](https://open.spotify.com/artist/7FB4gfPdf6h403oi9QiPVm) | [daylight](https://open.spotify.com/album/4zQLgpO7nItHn5NcHgO0QB) | 2:59 | 2023-01-06 | 2023-01-13 |
@@ -97,6 +97,7 @@
 | [Nice Guy](https://open.spotify.com/track/1D84s1Wi9wDnyiLTrn174x) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [Nice Guy](https://open.spotify.com/album/671RmYhAsiLtuug0Tykqfc) | 2:24 | 2022-12-15 | 2023-01-13 |
 | [Nightlife](https://open.spotify.com/track/2Tl6JJicXPbQn0pLcysIhC) | [Reino Brink](https://open.spotify.com/artist/02IxvUvOYgFtnt0SFWi3aq) | [Break and Bend](https://open.spotify.com/album/7HbwlUsjRYdzOPwGtpOC7q) | 3:30 | 2023-01-19 |  |
 | [No Platonic Male Friends](https://open.spotify.com/track/0HtIsMcal2Ma8JOgL1b7yB) | [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [No Platonic Male Friends](https://open.spotify.com/album/0bqG2FO5rOEfGxdrZJkaeN) | 2:40 | 2022-12-15 | 2023-01-13 |
+| [Noba Bangathini](https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Noba Bangathini](https://open.spotify.com/album/6bAahiYLIo1WGuiSip2EU0) | 4:50 | 2023-01-27 |  |
 | [Norton Howard](https://open.spotify.com/track/4T8QaK0d7ws3Fp5OiPLCGD) | [Hiding Bigfoot](https://open.spotify.com/artist/1e0Tfbil1OBGrWWc0bapxF) | [Norton Howard](https://open.spotify.com/album/2JuZ9oLEWps7Vn74Qy9sRi) | 2:49 | 2022-11-10 |  |
 | [Numbers](https://open.spotify.com/track/5mbPhsvvQTMSXD5pTaBA4B) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [Numbers](https://open.spotify.com/album/6OtEOteOr6YdKEm61e3elN) | 3:07 | 2022-10-31 | 2023-01-20 |
 | [On & On](https://open.spotify.com/track/4PWLnVy6lGzIinWqbEAAVd) | [Kristen](https://open.spotify.com/artist/6j0N2lhmdDYlPhGRQLCsIG) | [On & On](https://open.spotify.com/album/61iQKAPGhwpcgMa4lK0XWs) | 4:39 | 2022-11-03 | 2023-01-13 |
@@ -136,7 +137,7 @@
 | [Triomf](https://open.spotify.com/track/4MkmJO67ijoBafCtE7Fh8a) | [The Great Yawn](https://open.spotify.com/artist/0XDmWLziGhwLRSkkSBUNZ6) | [Triomf](https://open.spotify.com/album/4KtfSPfZHnrRquL9dg13r5) | 4:49 | 2022-12-01 |  |
 | [Try Again](https://open.spotify.com/track/1iS8nPBfQBg6BFHGvF9znW) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [GAME OVER](https://open.spotify.com/album/0ZMKh4W24HJqe3b65hacdX) | 2:16 | 2022-09-15 | 2022-10-07 |
 | [Turbo Charged](https://open.spotify.com/track/2gzVZEiwOM5jBLtMGhYlJa) | [Roi Turbo](https://open.spotify.com/artist/4T2y3FbT8mM5JEp41gXtEP) | [Turbo Charged](https://open.spotify.com/album/3dSPoyigg0z064sywIKF10) | 3:36 | 2023-01-20 |  |
-| [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2023-01-12 |  |
+| [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2023-01-12 | 2023-01-28 |
 | [Twenty Something](https://open.spotify.com/track/1jMqL6sQYKVaJ1DfXECkmY) | [The Incidentals](https://open.spotify.com/artist/5eTPQQeM4ggfNxQ9m4dDfS) | [Twenty Something](https://open.spotify.com/album/4Me8Wnt5UDDvoPZVCRixNN) | 4:13 | 2022-08-18 | 2022-10-21 |
 | [Vonkel](https://open.spotify.com/track/32APAtwKXpC4Nmbw8I2uH2) | [Mymymy](https://open.spotify.com/artist/0CxAWHVlogP8cmw9Earfwf) | [Vonkel](https://open.spotify.com/album/0to1EOGNGl5DDev4nldVPX) | 4:06 | 2022-12-08 | 2023-01-13 |
 | [WAGMI](https://open.spotify.com/track/4bxjgQ4hZ1kBsCzvpVFBFn) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [WAGMI](https://open.spotify.com/album/28yfEKfv7kmNGgoOTVVMnz) | 3:29 | 2022-03-03 | 2022-12-02 |

@@ -1,15 +1,35 @@
 {
-  "description": "Future K-Pop hits! Cover: Jinyoung",
-  "num_followers": 731785,
+  "description": "Future K-Pop hits! Cover: WENDY, MeloMance",
+  "num_followers": 731915,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDAzMjk0OSwwMDAwMDAwMGZiYzk0MDViNDY4ZjE4ZDY4MTcyNzc2NjY5NDkyNWE0",
+  "snapshot_id": "MTY3NDgwMjkzOSwwMDAwMDAwMGU3MWVjZWEwOGU2YmIwN2MzMzBhNDU1MzRkMzJlYWFi",
   "tracks": [
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Miracle - SM STATION",
+        "url": "https://open.spotify.com/album/54O0kItm5ej0HThVMIv5hF"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        },
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 252213,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/03foRBkthqRkysYT7FxWZV"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "Chapter 0: WITH",
         "url": "https://open.spotify.com/album/30vQSjAJPOlFj0otYyvYki"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/4DxEb2Pk4KAAFqqD241whz"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "[REASON]",
         "url": "https://open.spotify.com/album/0VZzJkiIK51ygHS5n1qRnZ"
@@ -41,7 +61,75 @@
       "url": "https://open.spotify.com/track/2RqjrPwWWk6MOo6YzqYJ6U"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 07:02:19",
+      "album": {
+        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
+        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Rose Blossom",
+      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "INCENSE",
+        "url": "https://open.spotify.com/album/7xKTS5lUeMzF5pyhVj505Z"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/7n21DchMhEHga46iMecQHW"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Love War",
+        "url": "https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Love War (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc"
+      },
+      "artists": [
+        {
+          "name": "xooos",
+          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "HOP ON THE TRUCK",
         "url": "https://open.spotify.com/album/2J08TOk3wMgXL5mKeRrjLE"
@@ -73,75 +161,7 @@
       "url": "https://open.spotify.com/track/3P8LJzc8QBtHqmLQCyoCQe"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc"
-      },
-      "artists": [
-        {
-          "name": "xooos",
-          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "INCENSE",
-        "url": "https://open.spotify.com/album/7xKTS5lUeMzF5pyhVj505Z"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/7n21DchMhEHga46iMecQHW"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "Love War",
-        "url": "https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten"
-      },
-      "artists": [
-        {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Love War (Feat. BE'O)",
-      "url": "https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "Break It",
-        "url": "https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega"
-      },
-      "artists": [
-        {
-          "name": "GONEISBACK",
-          "url": "https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt"
-        }
-      ],
-      "duration_ms": 167626,
-      "name": "Break It",
-      "url": "https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "THE PIECE OF9",
         "url": "https://open.spotify.com/album/5SPtURpxbD8ZCIKRpjQWpo"
@@ -157,23 +177,23 @@
       "url": "https://open.spotify.com/track/5QYXBAiagfRIwzlouAnJXQ"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
-        "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
-        "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
+        "name": "HARMONY : SET IN",
+        "url": "https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX"
       },
       "artists": [
         {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
         }
       ],
-      "duration_ms": 180320,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
+      "duration_ms": 168053,
+      "name": "Back Down",
+      "url": "https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "Ponytail",
         "url": "https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0"
@@ -193,7 +213,7 @@
       "url": "https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "Black Eye",
         "url": "https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9"
@@ -209,23 +229,55 @@
       "url": "https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
-        "name": "HARMONY : SET IN",
-        "url": "https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX"
+        "name": "Lowlife Princess: Noir",
+        "url": "https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0"
       },
       "artists": [
         {
-          "name": "P1Harmony",
-          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 168053,
-      "name": "Back Down",
-      "url": "https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv"
+      "duration_ms": 165135,
+      "name": "BIBI Vengeance",
+      "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
+        "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega"
+      },
+      "artists": [
+        {
+          "name": "GONEISBACK",
+          "url": "https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt"
+        }
+      ],
+      "duration_ms": 167626,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "DKZ Year End Project Song \u2032It\u2032s All Right Part.3\u2032",
         "url": "https://open.spotify.com/album/7fLFLF9waiye1D3WYZ0noT"
@@ -241,7 +293,23 @@
       "url": "https://open.spotify.com/track/11JclvqEv0Zw0VwfgUqoek"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Omnibus, Pt. 2: Inside Out",
+        "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "Gonna Be Alright",
         "url": "https://open.spotify.com/album/6RPpa5Wj8EfSAkOLBE8Nbe"
@@ -257,23 +325,23 @@
       "url": "https://open.spotify.com/track/6V5b8CHXRUSi0jbJfyOVdO"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
-        "name": "Will spring come?",
-        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
+        "name": "Birthday - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
       },
       "artists": [
         {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
         }
       ],
-      "duration_ms": 198698,
-      "name": "Will spring come?",
-      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
+      "duration_ms": 221693,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "Darling (feat. dress)",
         "url": "https://open.spotify.com/album/1nDGEzBI75Dan159KrtNAj"
@@ -293,103 +361,23 @@
       "url": "https://open.spotify.com/track/0vVVMt1bmd7K87IstridSS"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
-        "name": "Lowlife Princess: Noir",
-        "url": "https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0"
+        "name": "Will spring come?",
+        "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
       },
       "artists": [
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
         }
       ],
-      "duration_ms": 165135,
-      "name": "BIBI Vengeance",
-      "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
+      "duration_ms": 198698,
+      "name": "Will spring come?",
+      "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 179026,
-      "name": "Hype Boy",
-      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "Omnibus, Pt. 2: Inside Out",
-        "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "hug me tight",
-        "url": "https://open.spotify.com/album/5RhnakiAQ918ouBJxadpyY"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 127612,
-      "name": "hug me tight",
-      "url": "https://open.spotify.com/track/1Ev5WziK8PYoSpNYJKd5qg"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "The Present",
-        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "PRESENT",
-      "url": "https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "THE BOYZ Special Single [All About You]",
-        "url": "https://open.spotify.com/album/16VQsGjUDQ11VCfAJjFKYs"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "All About You",
-      "url": "https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "Groove Missing",
         "url": "https://open.spotify.com/album/4GLHfJaztzxV9FVsL5yef0"
@@ -409,23 +397,43 @@
       "url": "https://open.spotify.com/track/6ee02p5ioFpkeKDdDGOhkJ"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
-        "name": "Birthday - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
+        "name": "hug me tight",
+        "url": "https://open.spotify.com/album/5RhnakiAQ918ouBJxadpyY"
       },
       "artists": [
         {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
+      "duration_ms": 127612,
+      "name": "hug me tight",
+      "url": "https://open.spotify.com/track/1Ev5WziK8PYoSpNYJKd5qg"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 197613,
+      "name": "LOVE COUNTDOWN (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "THE 3rd MINI ALBUM NATURE WORLD : CODE W",
         "url": "https://open.spotify.com/album/60LRJDOb3EM7svCFxA07mt"
@@ -441,23 +449,123 @@
       "url": "https://open.spotify.com/track/0I9SiHgJ8DTwAIoJPLn81c"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/2L6Wq8SWyqp11SYcH46Rsp"
+        "name": "One In A Billion",
+        "url": "https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd"
       },
       "artists": [
         {
-          "name": "Seo In Guk",
-          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 218144,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/0jo45PactLXFCw311Xa4gi"
+      "duration_ms": 196392,
+      "name": "One In A Billion",
+      "url": "https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Street Man Fighter Original Vol.4 (Crew Songs)",
+        "url": "https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 144773,
+      "name": "HEYDAY (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
+        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 147426,
+      "name": "New thing (Prod. ZICO) (Feat. Homies)",
+      "url": "https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "The Present",
+        "url": "https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "PRESENT",
+      "url": "https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "THE BOYZ Special Single [All About You]",
+        "url": "https://open.spotify.com/album/16VQsGjUDQ11VCfAJjFKYs"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/5MCARv92OMtNgUufLR3W4r"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 181432,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Acid Angel from Asia <ACCESS>",
+        "url": "https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "duration_ms": 164186,
+      "name": "Generation",
+      "url": "https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "The Story : RETOLD",
         "url": "https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9"
@@ -481,223 +589,7 @@
       "url": "https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "December. 24",
-        "url": "https://open.spotify.com/album/4DHi2uDjBt98cQzfSD7Fut"
-      },
-      "artists": [
-        {
-          "name": "Yoon Jisung",
-          "url": "https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM"
-        }
-      ],
-      "duration_ms": 210026,
-      "name": "December. 24",
-      "url": "https://open.spotify.com/track/5Ohvq1eQp1tqAFphomgG2i"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "Come To Life",
-        "url": "https://open.spotify.com/album/7DAnweYfgKkI2OzupEMnQC"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA WDJ",
-          "url": "https://open.spotify.com/artist/3sQoi7YsPFaxKcQlSemJ93"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/5HUSHuEQ2u49F2Bn7V7OI4"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "One In A Billion",
-        "url": "https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 196392,
-      "name": "One In A Billion",
-      "url": "https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "Acid Angel from Asia <ACCESS>",
-        "url": "https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y"
-      },
-      "artists": [
-        {
-          "name": "tripleS",
-          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
-        }
-      ],
-      "duration_ms": 164186,
-      "name": "Generation",
-      "url": "https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "ON and ON",
-        "url": "https://open.spotify.com/album/6ZQ6oaMujx039E41fzWdnX"
-      },
-      "artists": [
-        {
-          "name": "TEMPEST",
-          "url": "https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/1OvrBLaAmzKqSlA84RdiFy"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 197613,
-      "name": "LOVE COUNTDOWN (Feat. Wonstein)",
-      "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "Street Man Fighter Original Vol.4 (Crew Songs)",
-        "url": "https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 144773,
-      "name": "HEYDAY (Prod. Czaer)",
-      "url": "https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
-        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 147426,
-      "name": "New thing (Prod. ZICO) (Feat. Homies)",
-      "url": "https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "Choice",
-        "url": "https://open.spotify.com/album/4AakPdZL04Ksf0fhcCuXD1"
-      },
-      "artists": [
-        {
-          "name": "VICTON",
-          "url": "https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Virus",
-      "url": "https://open.spotify.com/track/6Cl4pfI7IDhX1zEfiBP8KR"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "Summer Strike, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 268853,
-      "name": "Summer Night",
-      "url": "https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "MALUS",
-        "url": "https://open.spotify.com/album/5VlLXq5wH22O8D5hBYWqAp"
-      },
-      "artists": [
-        {
-          "name": "ONEUS",
-          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Same Scent",
-      "url": "https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "THE SECOND STEP : CHAPTER TWO",
-        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 181432,
-      "name": "HELLO",
-      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "Lethality",
-        "url": "https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf"
-      },
-      "artists": [
-        {
-          "name": "KWON EUN BI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "Animal Farm",
         "url": "https://open.spotify.com/album/3Wn89ahl9ccGAxrjIB8Tvt"
@@ -713,23 +605,119 @@
       "url": "https://open.spotify.com/track/3gAXVQOR0h7Ks71lsr5MFZ"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
-        "name": "Last Scene - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/1qEyXADkIHSmaCZuHnQPb7"
+        "name": "MALUS",
+        "url": "https://open.spotify.com/album/5VlLXq5wH22O8D5hBYWqAp"
       },
       "artists": [
         {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Last Scene",
-      "url": "https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R"
+      "duration_ms": 192786,
+      "name": "Same Scent",
+      "url": "https://open.spotify.com/track/0eG3b2T3SXtPAhD9LLm8xA"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Lethality",
+        "url": "https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf"
+      },
+      "artists": [
+        {
+          "name": "KWON EUN BI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/2L6Wq8SWyqp11SYcH46Rsp"
+      },
+      "artists": [
+        {
+          "name": "Seo In Guk",
+          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+        }
+      ],
+      "duration_ms": 218144,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/0jo45PactLXFCw311Xa4gi"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "ON and ON",
+        "url": "https://open.spotify.com/album/6ZQ6oaMujx039E41fzWdnX"
+      },
+      "artists": [
+        {
+          "name": "TEMPEST",
+          "url": "https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/1OvrBLaAmzKqSlA84RdiFy"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Come To Life",
+        "url": "https://open.spotify.com/album/7DAnweYfgKkI2OzupEMnQC"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA WDJ",
+          "url": "https://open.spotify.com/artist/3sQoi7YsPFaxKcQlSemJ93"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/5HUSHuEQ2u49F2Bn7V7OI4"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Choice",
+        "url": "https://open.spotify.com/album/4AakPdZL04Ksf0fhcCuXD1"
+      },
+      "artists": [
+        {
+          "name": "VICTON",
+          "url": "https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Virus",
+      "url": "https://open.spotify.com/track/6Cl4pfI7IDhX1zEfiBP8KR"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "December. 24",
+        "url": "https://open.spotify.com/album/4DHi2uDjBt98cQzfSD7Fut"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jisung",
+          "url": "https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM"
+        }
+      ],
+      "duration_ms": 210026,
+      "name": "December. 24",
+      "url": "https://open.spotify.com/track/5Ohvq1eQp1tqAFphomgG2i"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "[Apocalypse : Follow us]",
         "url": "https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY"
@@ -745,7 +733,7 @@
       "url": "https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "Pit-a-Pat",
         "url": "https://open.spotify.com/album/4ivrWy4dTl3eOAEOfFXnM0"
@@ -761,55 +749,7 @@
       "url": "https://open.spotify.com/track/7uwNVnaOswnVGJ5v8e2bQk"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "S:INEMA",
-        "url": "https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Talk 2 Me Nice",
-      "url": "https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "GIRL's ROUND Pt. 1",
-        "url": "https://open.spotify.com/album/3lDNlx3DMHYYlT7EXhbAB6"
-      },
-      "artists": [
-        {
-          "name": "Lapillus",
-          "url": "https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ"
-        }
-      ],
-      "duration_ms": 200608,
-      "name": "GRATATA",
-      "url": "https://open.spotify.com/track/78V1UN9fEZw2b9rYkwDmTj"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
-      "album": {
-        "name": "= (NEUN)",
-        "url": "https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH"
-      },
-      "artists": [
-        {
-          "name": "JUST B",
-          "url": "https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe"
-        }
-      ],
-      "duration_ms": 192875,
-      "name": "ME= (NANEUN)",
-      "url": "https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU"
-    },
-    {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "FIVE SENSES",
         "url": "https://open.spotify.com/album/1RZ5UZ7r76wiOjDEZANzOP"
@@ -829,7 +769,7 @@
       "url": "https://open.spotify.com/track/07trPhWMgiagFnSOlmpzl0"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "Street Man Fighter Original Vol.4 (Crew Songs)",
         "url": "https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw"
@@ -849,7 +789,87 @@
       "url": "https://open.spotify.com/track/5qaOtskRtNxLiewYb6QM7A"
     },
     {
-      "added_at": "2023-01-18 09:09:09",
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Summer Strike, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 268853,
+      "name": "Summer Night",
+      "url": "https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "Last Scene - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/1qEyXADkIHSmaCZuHnQPb7"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Last Scene",
+      "url": "https://open.spotify.com/track/72b8XXM0GEo1TtJ2aPe79R"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "GIRL's ROUND Pt. 1",
+        "url": "https://open.spotify.com/album/3lDNlx3DMHYYlT7EXhbAB6"
+      },
+      "artists": [
+        {
+          "name": "Lapillus",
+          "url": "https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ"
+        }
+      ],
+      "duration_ms": 200608,
+      "name": "GRATATA",
+      "url": "https://open.spotify.com/track/78V1UN9fEZw2b9rYkwDmTj"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "= (NEUN)",
+        "url": "https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH"
+      },
+      "artists": [
+        {
+          "name": "JUST B",
+          "url": "https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe"
+        }
+      ],
+      "duration_ms": 192875,
+      "name": "ME= (NANEUN)",
+      "url": "https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
+      "album": {
+        "name": "S:INEMA",
+        "url": "https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Talk 2 Me Nice",
+      "url": "https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY"
+    },
+    {
+      "added_at": "2023-01-27 02:24:04",
       "album": {
         "name": "SOULBYSEL Compilation 03",
         "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"

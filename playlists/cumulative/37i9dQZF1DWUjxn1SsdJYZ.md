@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Hooligan Hefs, Celina Sharma
 
-352 songs - 16 hr 47 min
+353 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [HEARTLESS](https://open.spotify.com/track/7hBvKINP7pM0MWBBD1eXVF) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [HEARTLESS](https://open.spotify.com/album/1DEOv4NMWgsrW0SzJ9JgFj) | 3:00 | 2022-09-30 |  |
 | [Her Way](https://open.spotify.com/track/4fBzfDgAfmM0Y4m3fVkQvp) | [DJ Nino Brown](https://open.spotify.com/artist/5d3XNpscHFKUuw1YouL2ns), [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [Her Way](https://open.spotify.com/album/0IOjKjzEsOkHvmjcOGTPaM) | 3:07 | 2022-12-01 |  |
 | [Hit My Line](https://open.spotify.com/track/3pWyjL4tP35kcMUhxEyaQP) | [Jono](https://open.spotify.com/artist/5H2hBy6syEFjLqGwd4DdjR), [Jose Poly](https://open.spotify.com/artist/0efNl355u2tjhp8oo3EMy0) | [Hit My Line](https://open.spotify.com/album/3rv3dFnCgjEXheaE5mN614) | 2:43 | 2022-04-14 | 2022-07-05 |
+| [Hold On](https://open.spotify.com/track/5p0bTO3h7MM446ci8Pv6Ou) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [New Wave](https://open.spotify.com/artist/1itGTqVfKk3HKGvYqFOy2s) | [Hold On](https://open.spotify.com/album/3bdW9XmrGMNape2BOwd9id) | 2:30 | 2023-01-26 |  |
 | [HOLD ON](https://open.spotify.com/track/0izMjfGBbmhdVf0ecnM5bz) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P) | [HOLD ON](https://open.spotify.com/album/1UziPVwThn1bDCH7rt8ivr) | 3:05 | 2022-11-21 | 2022-12-16 |
 | [Home](https://open.spotify.com/track/1U3NqKbVURMcvK81oAknpo) | [VTA](https://open.spotify.com/artist/39OhVpcxkMUgRN5pCLh5Us), [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Home](https://open.spotify.com/album/39bv4dQD70MwZJSEXDB6Ly) | 3:01 | 2022-10-06 | 2023-01-20 |
 | [HoodBars](https://open.spotify.com/track/6rtXSNFe76po3VuIhHgzqU) | [Hoodbars](https://open.spotify.com/artist/6MbQ0kLyuOF8GzPQyMgiSW), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [HoodBars](https://open.spotify.com/album/0xOz0dxi98L0BPZzyJy0qn) | 2:31 | 2022-03-21 | 2022-08-05 |

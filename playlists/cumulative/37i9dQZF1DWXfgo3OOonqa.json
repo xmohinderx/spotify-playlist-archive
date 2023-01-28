@@ -14211,6 +14211,24 @@
     },
     {
       "album": {
+        "name": "Trapstar",
+        "url": "https://open.spotify.com/album/38cssEJR7TZKy0bNaMfZj8"
+      },
+      "artists": [
+        {
+          "name": "Thrife",
+          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165454,
+      "name": "Trapstar",
+      "url": "https://open.spotify.com/track/65EbLNXHsdqXbMN8PR7AnC"
+    },
+    {
+      "album": {
         "name": "Trasigt glas",
         "url": "https://open.spotify.com/album/3hEjLk2Vd6fH7jWpz0zBVj"
       },
@@ -15562,7 +15580,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 152500,
       "name": "WYL",
       "url": "https://open.spotify.com/track/7mkiUW1z79Hpg2QtSs1J1u"

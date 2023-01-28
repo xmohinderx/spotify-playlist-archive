@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 172956,
       "name": "Joga e Descontrai",
       "url": "https://open.spotify.com/track/2shKQJp8LXNDlD7N79MLRC"
@@ -2097,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "Passport",
+        "url": "https://open.spotify.com/album/5Dd5o5rkha3XZiodjiUgwB"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190328,
+      "name": "Passport",
+      "url": "https://open.spotify.com/track/7aPw9TXsyHIYlOhIDDyOL2"
+    },
+    {
+      "album": {
         "name": "Nova Febre",
         "url": "https://open.spotify.com/album/1sJhdEu5L79eaACENANaas"
       },
@@ -2238,7 +2256,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 216338,
       "name": "Prop\u00f3sitos",
       "url": "https://open.spotify.com/track/2LACCpFwBMjEHa3BqcYLVk"
@@ -2806,6 +2824,28 @@
       "duration_ms": 114929,
       "name": "Toque no Radinho",
       "url": "https://open.spotify.com/track/4KCz6JYsOCIJ90O7Zw19Ul"
+    },
+    {
+      "album": {
+        "name": "Tudo Normal",
+        "url": "https://open.spotify.com/album/0cKG3KX7J1dav336uX2rG2"
+      },
+      "artists": [
+        {
+          "name": "Blecaute",
+          "url": "https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX"
+        },
+        {
+          "name": "$aint GR",
+          "url": "https://open.spotify.com/artist/4efJxp2bt5eBfZAvUeFANX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165857,
+      "name": "Tudo Normal",
+      "url": "https://open.spotify.com/track/4sz8h0kSMFmZ9NLQi74sL0"
     },
     {
       "album": {

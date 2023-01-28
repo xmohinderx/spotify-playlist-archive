@@ -1,13 +1,29 @@
 {
-  "description": "Stray Kids everywhere all around the world. You make Stray Kids STAY. The most awaited SKZ-REPLAY is here! #LoveSTAY",
-  "num_followers": 910229,
+  "description": "Stray Kids everywhere all around the world. You make Stray Kids STAY. THE SOUND is here!",
+  "num_followers": 910884,
   "original_name": "This Is Stray Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTYxMzIwMCwwMDAwMDAwMGQyYzg1MzBiMzg5YjgzZTc4MDExYjQyZjJlMGFiNGZi",
+  "snapshot_id": "MTY3NDgzMTYwMCwwMDAwMDAwMDNmNTA1OWIxY2RiNzI5YmE1YjQxNTNmZmZiNTA2MjY5",
   "tracks": [
+    {
+      "added_at": "2023-01-27 15:00:00",
+      "album": {
+        "name": "THE SOUND",
+        "url": "https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "THE SOUND",
+      "url": "https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI"
+    },
     {
       "added_at": "2022-12-21 09:00:00",
       "album": {

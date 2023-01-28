@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 97772,
+  "num_followers": 97794,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMDQ4MzY0N2JhNDJmYWY3Y2U2OTU5NmM5M2YwOGI4MDM4",
+  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMDA3Y2NlOWE4MjhlN2UxMzAwYjM3ODQ5YmM0ZDdkMDNl",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -1099,18 +1099,26 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Limonata",
-        "url": "https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS"
+        "name": "Condo (feat. T-Pain) [Remixes]",
+        "url": "https://open.spotify.com/album/2LRP4vOT55IKQHnQvi4hwr"
       },
       "artists": [
         {
-          "name": "DJ Polo",
-          "url": "https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7"
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Roska",
+          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Swervin'",
-      "url": "https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r"
+      "duration_ms": 232504,
+      "name": "Condo (feat. T-Pain) - Roska Remix",
+      "url": "https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP"
     }
   ],
   "unique_name": "UK Funky",

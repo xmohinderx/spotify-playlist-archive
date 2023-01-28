@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcm1CGW3MuuF.md) - [plain]
 
 > Celebramos a los héroes y heroínas locales que con su talento y osadía nos dan patria musical\. En portada: THE SUPUESTOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,822 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,823 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

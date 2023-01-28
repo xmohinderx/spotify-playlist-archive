@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Hello Upper East Siders, it's Gossip Girl day! Xoxo, \#SpotifyTBT Cover: Serena van der Woodsen and Blair Waldorf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,159,305 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,159,786 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

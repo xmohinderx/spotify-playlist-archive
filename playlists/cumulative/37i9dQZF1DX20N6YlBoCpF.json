@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U?si=D5BD3zw4Qmm2cQenRMRPgw\">N\u00e1dine</a>",
+  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4uNWMdfRm0Fd0qbOxBgFPL?si=efqSdXErSteCIMvqyvMNaw\">Deidr\u00e9 Barnard</a>",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -294,6 +294,24 @@
       "duration_ms": 253757,
       "name": "Bella",
       "url": "https://open.spotify.com/track/2laH6IayV3wrHxjjsFawOK"
+    },
+    {
+      "album": {
+        "name": "Beskerm Jou Hart",
+        "url": "https://open.spotify.com/album/1ic0wKTlW4AsHzEwfKSIPv"
+      },
+      "artists": [
+        {
+          "name": "Deidr\u00e9 Barnard",
+          "url": "https://open.spotify.com/artist/4uNWMdfRm0Fd0qbOxBgFPL"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Beskerm Jou Hart",
+      "url": "https://open.spotify.com/track/6L7t6WouMiMp03T6IocgBQ"
     },
     {
       "album": {
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 183014,
       "name": "My Main Bra Tops",
       "url": "https://open.spotify.com/track/0N1SlT7lVO21RgeqLYMtac"

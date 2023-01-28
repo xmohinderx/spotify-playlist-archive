@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists. Cover: Omah Lay",
+  "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists. Cover: Pheelz",
   "name": "Ginger Me",
   "tracks": [
+    {
+      "album": {
+        "name": "234",
+        "url": "https://open.spotify.com/album/7KLupsQWurAEG9XkDxRX5s"
+      },
+      "artists": [
+        {
+          "name": "DJ Savy",
+          "url": "https://open.spotify.com/artist/49kPLaMd92PzwkhJw7Hc4v"
+        },
+        {
+          "name": "9t9",
+          "url": "https://open.spotify.com/artist/0lw8ofupGRkY51uAAsdiW4"
+        },
+        {
+          "name": "Geoxpress",
+          "url": "https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "234",
+      "url": "https://open.spotify.com/track/2zCzjoAute0BouO3IVo5eh"
+    },
     {
       "album": {
         "name": "5 Star",
@@ -800,7 +826,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 181348,
       "name": "Blues",
       "url": "https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6"
@@ -924,6 +950,24 @@
       "duration_ms": 181333,
       "name": "Brunch",
       "url": "https://open.spotify.com/track/2uka2kAlD8m3yUXT0iZKv6"
+    },
+    {
+      "album": {
+        "name": "Calabash",
+        "url": "https://open.spotify.com/album/13lvpRxnYYnWZWgdnMVrRv"
+      },
+      "artists": [
+        {
+          "name": "Looking for Avala",
+          "url": "https://open.spotify.com/artist/0ze3oqXaudUaJP8HBRuJJ1"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156846,
+      "name": "Calabash",
+      "url": "https://open.spotify.com/track/38fddB34U8mv6ID4jcvndR"
     },
     {
       "album": {
@@ -1266,7 +1310,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 204573,
       "name": "come close (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj"
@@ -1916,7 +1960,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 186666,
       "name": "Fine Wine (ft. Amaarae)",
       "url": "https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo"
@@ -2390,7 +2434,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 137480,
       "name": "Home",
       "url": "https://open.spotify.com/track/7l0EYGVhGZcuLyphccTcp0"
@@ -3601,6 +3645,24 @@
     },
     {
       "album": {
+        "name": "Morning Stress",
+        "url": "https://open.spotify.com/album/35ymxF17RFfoEdQ4KqlBzc"
+      },
+      "artists": [
+        {
+          "name": "D Jay",
+          "url": "https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208163,
+      "name": "Morning Stress",
+      "url": "https://open.spotify.com/track/7b1g8V4WA0BEnWBkHv85RW"
+    },
+    {
+      "album": {
         "name": "My Only Baby",
         "url": "https://open.spotify.com/album/0eWaXC5Yxcwjf4ieDMFUI9"
       },
@@ -4351,6 +4413,24 @@
     },
     {
       "album": {
+        "name": "Rora",
+        "url": "https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149812,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY"
+    },
+    {
+      "album": {
         "name": "Ladies First",
         "url": "https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU"
       },
@@ -4534,10 +4614,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 194400,
       "name": "Sankofa - Remix",
       "url": "https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9"
+    },
+    {
+      "album": {
+        "name": "SARO",
+        "url": "https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU"
+      },
+      "artists": [
+        {
+          "name": "Jinmi Abduls",
+          "url": "https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "SARO",
+      "url": "https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp"
     },
     {
       "album": {
@@ -4929,6 +5027,24 @@
     },
     {
       "album": {
+        "name": "Stand By You",
+        "url": "https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175792,
+      "name": "Stand By You",
+      "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
+    },
+    {
+      "album": {
         "name": "Made In Lagos: Deluxe Edition",
         "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
@@ -5174,7 +5290,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"

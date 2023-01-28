@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN"
+      },
+      "artists": [
+        {
+          "name": "The Ink Spots",
+          "url": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181093,
+      "name": "Java Jive",
+      "url": "https://open.spotify.com/track/5XvrvxNu3peNFyaelv8brK"
+    },
+    {
+      "album": {
         "name": "Look Back",
         "url": "https://open.spotify.com/album/7MchsZ5wWMkDTbNEe7x8aN"
       },
@@ -204,6 +222,42 @@
       "duration_ms": 184430,
       "name": "Look Back",
       "url": "https://open.spotify.com/track/0NVO6Kn5CqzAuyXcMdqUMb"
+    },
+    {
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "Paint It, Black",
+      "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits Vol. 3",
+        "url": "https://open.spotify.com/album/0rPdpVOWKaeHPwayMadpk8"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Ships",
+      "url": "https://open.spotify.com/track/29G4lxwdGV0Ia1uCTkWjjW"
     },
     {
       "album": {
@@ -318,6 +372,42 @@
       "duration_ms": 260880,
       "name": "Voil\u00e0",
       "url": "https://open.spotify.com/track/3e7KcqiZN4wSrpoHUeYXjY"
+    },
+    {
+      "album": {
+        "name": "STARRY NIGHT",
+        "url": "https://open.spotify.com/album/2Mqs4qQ3wPmAgTX6yYfdeZ"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257933,
+      "name": "When I Need You",
+      "url": "https://open.spotify.com/track/6Ee6pMOa4ukBJHCHWrPtw4"
+    },
+    {
+      "album": {
+        "name": "Captain Fantastic And The Brown Dirt Cowboy",
+        "url": "https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220466,
+      "name": "Writing",
+      "url": "https://open.spotify.com/track/4W2cHubtlOdF2BGCeWjw1r"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWwmBCLmyITz"

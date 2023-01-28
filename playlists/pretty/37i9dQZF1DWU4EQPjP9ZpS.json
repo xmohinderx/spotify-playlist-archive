@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 233271,
+  "num_followers": 233539,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MjAyOCwwMDAwMDAwMGZlNzc1MzQ4OWJlZjQwMDJhZWFmN2Y1YmI0MmFjOTVi",
+  "snapshot_id": "MTY2NzU0MjAyOCwwMDAwMDAwMDE2M2E1NzIwYTZjMWM1ZGQ3ZDhkMTdhMzdlYWE3YjA0",
   "tracks": [
     {
       "added_at": "2022-11-04 06:07:07",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Iconic Bitch",
-        "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
-      },
-      "artists": [
-        {
-          "name": "3d Blast",
-          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
-        }
-      ],
-      "duration_ms": 233774,
-      "name": "Beyond Nostalgia",
-      "url": "https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "\u8d85\u8d8a\u611b",
         "url": "https://open.spotify.com/album/2K48KEdEw8aP3qAEf88WAX"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 157974,
       "name": "Turn the Fridge On",
       "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Iconic Bitch",
+        "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
+      },
+      "artists": [
+        {
+          "name": "3d Blast",
+          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
+        }
+      ],
+      "duration_ms": 233774,
+      "name": "Beyond Nostalgia",
+      "url": "https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
-      },
-      "artists": [
-        {
-          "name": "VANITAS\u547d\u6b7b",
-          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
-        }
-      ],
-      "duration_ms": 277570,
-      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Tampa (FM Skyline Remix) [7\" Version]",
         "url": "https://open.spotify.com/album/4e9xyxDq3XXee50cZYTQ5t"
       },
@@ -1175,22 +1159,6 @@
       "duration_ms": 234765,
       "name": "Tampa (FM Skyline Remix) [7\" Version]",
       "url": "https://open.spotify.com/track/1pncIIQbjWwqAFVmVzD7eI"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Sonic in the Holobeach",
-        "url": "https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau"
-      },
-      "artists": [
-        {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
-        }
-      ],
-      "duration_ms": 256096,
-      "name": "Sonic in the Holobeach",
-      "url": "https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1215,6 +1183,38 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Sonic in the Holobeach",
+        "url": "https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau"
+      },
+      "artists": [
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        }
+      ],
+      "duration_ms": 256096,
+      "name": "Sonic in the Holobeach",
+      "url": "https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
+      },
+      "artists": [
+        {
+          "name": "VANITAS\u547d\u6b7b",
+          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
+        }
+      ],
+      "duration_ms": 277570,
+      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "Cry Again",
         "url": "https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB"
       },
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Doomscroller",
-        "url": "https://open.spotify.com/album/5yeJkAJfb792Q09m23bEys"
-      },
-      "artists": [
-        {
-          "name": "Christtt",
-          "url": "https://open.spotify.com/artist/78CpiajRDlr15OIM2kfDfw"
-        }
-      ],
-      "duration_ms": 147321,
-      "name": "Doomscroller - Single Version",
-      "url": "https://open.spotify.com/track/2VxBNhP1crjnfhWluqQAda"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Dr. ROM",
         "url": "https://open.spotify.com/album/3GWrjC0VhYuLYQuLMU6Kr4"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 164000,
       "name": "Home Workout VHS",
       "url": "https://open.spotify.com/track/4Uea245Q37jKLFs4i8rMO6"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Doomscroller",
+        "url": "https://open.spotify.com/album/5yeJkAJfb792Q09m23bEys"
+      },
+      "artists": [
+        {
+          "name": "Christtt",
+          "url": "https://open.spotify.com/artist/78CpiajRDlr15OIM2kfDfw"
+        }
+      ],
+      "duration_ms": 147321,
+      "name": "Doomscroller - Single Version",
+      "url": "https://open.spotify.com/track/2VxBNhP1crjnfhWluqQAda"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Growing Apart",
-        "url": "https://open.spotify.com/album/37bgZiMeNpFqOeHBH2ySzS"
-      },
-      "artists": [
-        {
-          "name": "Rayklin",
-          "url": "https://open.spotify.com/artist/2FTHXc8okmVhGLBREZUhVA"
-        }
-      ],
-      "duration_ms": 217153,
-      "name": "Growing Apart",
-      "url": "https://open.spotify.com/track/5MJ0dvRaRU2RWdpVFWP4jm"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Ocean Breeze",
         "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 135035,
       "name": "Summer Days",
       "url": "https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Growing Apart",
+        "url": "https://open.spotify.com/album/37bgZiMeNpFqOeHBH2ySzS"
+      },
+      "artists": [
+        {
+          "name": "Rayklin",
+          "url": "https://open.spotify.com/artist/2FTHXc8okmVhGLBREZUhVA"
+        }
+      ],
+      "duration_ms": 217153,
+      "name": "Growing Apart",
+      "url": "https://open.spotify.com/track/5MJ0dvRaRU2RWdpVFWP4jm"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Tupperwave",
-        "url": "https://open.spotify.com/album/0BU1e6MylDRU4UGGlXT3uX"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 166961,
-      "name": "Alliance Of Elegance",
-      "url": "https://open.spotify.com/track/1BEyLRogl5KlaTWxogZPH1"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Psycho Geography",
         "url": "https://open.spotify.com/album/4HhYQAopp6qijRBSwaZTXh"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 201081,
       "name": "Psycho Geography",
       "url": "https://open.spotify.com/track/7sfEm3M124nM8zd8h0tB68"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Tupperwave",
+        "url": "https://open.spotify.com/album/0BU1e6MylDRU4UGGlXT3uX"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 166961,
+      "name": "Alliance Of Elegance",
+      "url": "https://open.spotify.com/track/1BEyLRogl5KlaTWxogZPH1"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1723,18 +1723,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Dxys Xff",
-        "url": "https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d"
+        "name": "Baby, I Miss You",
+        "url": "https://open.spotify.com/album/5SMFDE1yT4gjp9I0rIxBX5"
       },
       "artists": [
         {
-          "name": "Teams",
-          "url": "https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ"
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        },
+        {
+          "name": "Dan Mason",
+          "url": "https://open.spotify.com/artist/6PyfRFk5DQu2o0P74VA2ag"
         }
       ],
-      "duration_ms": 326373,
-      "name": "Stunts",
-      "url": "https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL"
+      "duration_ms": 176848,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4pM8IKc8qGOnKyloJyKU0T"
     }
   ],
   "unique_name": "vaporwave",

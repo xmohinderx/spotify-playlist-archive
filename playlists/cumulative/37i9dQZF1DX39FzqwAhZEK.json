@@ -3627,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/0eRqxc2mha7D43HwvqgLDs"
+      },
+      "artists": [
+        {
+          "name": "Amel Scott",
+          "url": "https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156367,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/0n8IZnobhLxdjk02TtAnQj"
+    },
+    {
+      "album": {
         "name": "Over the Mediterranean",
         "url": "https://open.spotify.com/album/1sZV2b0Aob9GurOCUr14Fd"
       },
@@ -5114,7 +5132,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 242000,
       "name": "Talisman",
       "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"

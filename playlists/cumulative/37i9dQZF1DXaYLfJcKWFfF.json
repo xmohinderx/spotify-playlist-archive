@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b?si=GzGRgXZWRD2JvHho7dyGcQ\"> senth</a> ",
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=KDheyI8wRUGEcTg6RHfEDA\"> Bongeziwe Mabandla</a> ",
   "name": "Afro Indie",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 212947,
       "name": "Bossi Labome",
       "url": "https://open.spotify.com/track/1jOqAWKpxvfntPNAQMdoEK"
@@ -158,6 +158,24 @@
       "duration_ms": 254424,
       "name": "Circus",
       "url": "https://open.spotify.com/track/7lgrLAXxW1frMbdO5h2wUZ"
+    },
+    {
+      "album": {
+        "name": "Countryside",
+        "url": "https://open.spotify.com/album/4Z9AQ8SjQybVgcEhdhfvd0"
+      },
+      "artists": [
+        {
+          "name": "Matthew Mole",
+          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217829,
+      "name": "Countryside",
+      "url": "https://open.spotify.com/track/0TsfTU8O6F6lqji1P7ukmM"
     },
     {
       "album": {
@@ -244,7 +262,7 @@
       ],
       "date_added": "2020-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 185759,
       "name": "Fall",
       "url": "https://open.spotify.com/track/2PE70oh4iy1VCSxG9H1vdu"
@@ -364,6 +382,32 @@
       "duration_ms": 210309,
       "name": "Inauma",
       "url": "https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb"
+    },
+    {
+      "album": {
+        "name": "Isibuko",
+        "url": "https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Q Twins",
+          "url": "https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J"
+        },
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278504,
+      "name": "Isoka",
+      "url": "https://open.spotify.com/track/2gO1rty4jBXQaP7jSuVIh2"
     },
     {
       "album": {
@@ -701,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Noba Bangathini",
+        "url": "https://open.spotify.com/album/6bAahiYLIo1WGuiSip2EU0"
+      },
+      "artists": [
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290786,
+      "name": "Noba Bangathini",
+      "url": "https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP"
+    },
+    {
+      "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/2JjDoDhPb9kE4VKRiMFVz6"
       },
@@ -723,6 +785,28 @@
     },
     {
       "album": {
+        "name": "Outplayed",
+        "url": "https://open.spotify.com/album/2pyWphlMKiZA7GMRkfiitk"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Christine Cuare",
+          "url": "https://open.spotify.com/artist/3F8V2hgLg4jVkRlZ3BRsnt"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192006,
+      "name": "Outplayed",
+      "url": "https://open.spotify.com/track/6LijFAnGX1XF93ufTgVgIE"
+    },
+    {
+      "album": {
         "name": "OYA",
         "url": "https://open.spotify.com/album/7AMlIKwmVYGfhXxJ3hTZPC"
       },
@@ -734,7 +818,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 199066,
       "name": "OYA",
       "url": "https://open.spotify.com/track/2SklWzNh4XgOuRoAvWI4mF"

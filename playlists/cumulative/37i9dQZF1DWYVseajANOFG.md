@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: Jorkan
 
-128 songs - 7 hr 40 min
+129 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Elegí \(feat\. Dímelo Flow\)](https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Elegí \(feat\. Dímelo Flow\)](https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb) | 3:17 | 2022-03-11 |  |
 | [Ella \- Remix](https://open.spotify.com/track/7cx9L3i88euMfx1oNCqDAD) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 5:30 | 2022-04-21 |  |
 | [Ella \- Remix](https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Ella \(Remix\)](https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH) | 5:30 | 2022-03-11 | 2022-04-22 |
-| [ELLA VIBRA \(feat\. Sir Boss\)](https://open.spotify.com/track/3DAtscvJFomZ3nJZUrmlOD) | [Zetto](https://open.spotify.com/artist/2icP2VXBVXI6D4B5zfC1ab), [EMIL](https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw), [Sir Boss](https://open.spotify.com/artist/5IOGZkPuWHakMDPdNhyRlm) | [ELLA VIBRA \(feat\. Sir Boss\)](https://open.spotify.com/album/4MAKSkwgSIIxVLVMzymLkM) | 3:29 | 2023-01-13 |  |
+| [ELLA VIBRA \(feat\. Sir Boss\)](https://open.spotify.com/track/3DAtscvJFomZ3nJZUrmlOD) | [Zetto](https://open.spotify.com/artist/2icP2VXBVXI6D4B5zfC1ab), [EMIL](https://open.spotify.com/artist/5XeDmt0B3iDEHhLft6kr8a), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw), [Sir Boss](https://open.spotify.com/artist/5IOGZkPuWHakMDPdNhyRlm) | [ELLA VIBRA \(feat\. Sir Boss\)](https://open.spotify.com/album/4MAKSkwgSIIxVLVMzymLkM) | 3:29 | 2023-01-13 | 2023-01-28 |
 | [En La De Ella](https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [En La De Ella](https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH) | 3:50 | 2022-10-28 | 2023-01-14 |
 | [En La Luna](https://open.spotify.com/track/7LoBGVOINvvyKBmsSkS5CA) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [En La Luna](https://open.spotify.com/album/3dN45Kj9R75Zbj6Xt8Ed9P) | 3:07 | 2022-03-11 |  |
 | [Ese Movimiento](https://open.spotify.com/track/6JX0CdK73edVp6GXaG7qwg) | [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw) | [Ese Movimiento](https://open.spotify.com/album/7bSyQQ5FMvKZTfbighEzLr) | 2:29 | 2022-07-22 | 2022-08-13 |
@@ -135,6 +135,7 @@
 | [UN BAILECITO](https://open.spotify.com/track/6KucQTkLYN2UPf0vAQnDH0) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [UN BAILECITO](https://open.spotify.com/album/3wcbdEdyOagmzuwzAyp1T1) | 2:17 | 2022-11-11 | 2023-01-14 |
 | [Un Ghetto](https://open.spotify.com/track/5E436xsqi5Ak5KOqiesx0n) | [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [Un Ghetto](https://open.spotify.com/album/4KcXo9upSBiiaYDeXho5RG) | 3:52 | 2022-03-11 | 2022-07-30 |
 | [UNA VAINA LOKA](https://open.spotify.com/track/5yTkmQFKrr3raDab181y59) | [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi) | [UNA VAINA LOKA](https://open.spotify.com/album/3t8eLQtAhxczyuHdrSIQeR) | 2:40 | 2022-09-23 | 2022-10-29 |
+| [Van Duro](https://open.spotify.com/track/3rBITsfts82foOS58VKMoj) | [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3) | [Van Duro](https://open.spotify.com/album/6oKY7iRFgtDnSW74ejypiF) | 2:35 | 2023-01-27 |  |
 | [XOXO](https://open.spotify.com/track/34yHHuurblZVZuoXo49FxM) | [Shyno](https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm) | [XOXO](https://open.spotify.com/album/7t8B9Xl645Qgl7mNDdoQag) | 4:38 | 2023-01-20 |  |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

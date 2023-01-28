@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/3n3ri3uLMAQYMxeFDPAyqJ"
+      },
+      "artists": [
+        {
+          "name": "Leigh Erin",
+          "url": "https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177767,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/6XgxMjACtxIGyMpHjXGQ1y"
+    },
+    {
+      "album": {
         "name": "Emersion",
         "url": "https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z"
       },
@@ -2224,6 +2242,24 @@
       "duration_ms": 155692,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/29vkYjTn6LlSkyLKzhvNhM"
+    },
+    {
+      "album": {
+        "name": "Whisper in the wind",
+        "url": "https://open.spotify.com/album/5BZ2gwkDuYlpVkObyPMCr3"
+      },
+      "artists": [
+        {
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182924,
+      "name": "Whisper in the wind",
+      "url": "https://open.spotify.com/track/5ZSqAynin0lj0U8fVA5p8W"
     },
     {
       "album": {

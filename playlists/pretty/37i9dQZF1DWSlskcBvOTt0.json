@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 352195,
+  "num_followers": 352519,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDIzODc2NCwwMDAwMDAwMDE5YTM1MDEzYzU3NjkxZjgwZGYwODkwN2EwZWZmNzM5",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDc0MDBmYzY0NzdmOTBmNTVjZTg2NzkxNGM2MGQyODc0",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -341,20 +341,24 @@
       "url": "https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-07-28 17:34:57",
       "album": {
-        "name": "Phara Oh Away",
-        "url": "https://open.spotify.com/album/15qqhB5L0g5xb8sFVaVEul"
+        "name": "On My Knees (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
       },
       "artists": [
         {
-          "name": "Dole & Kom",
-          "url": "https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
         }
       ],
-      "duration_ms": 527134,
-      "name": "Phara Oh",
-      "url": "https://open.spotify.com/track/5TrkFfJgrGa1PdAkJO5QAs"
+      "duration_ms": 452000,
+      "name": "On My Knees - Adriatique Remix",
+      "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -381,24 +385,20 @@
       "url": "https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3"
     },
     {
-      "added_at": "2022-07-28 17:34:57",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "On My Knees (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
+        "name": "Phara Oh Away",
+        "url": "https://open.spotify.com/album/15qqhB5L0g5xb8sFVaVEul"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+          "name": "Dole & Kom",
+          "url": "https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT"
         }
       ],
-      "duration_ms": 452000,
-      "name": "On My Knees - Adriatique Remix",
-      "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
+      "duration_ms": 527134,
+      "name": "Phara Oh",
+      "url": "https://open.spotify.com/track/5TrkFfJgrGa1PdAkJO5QAs"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -513,6 +513,22 @@
       "url": "https://open.spotify.com/track/2w4OE0IjsQdmB07DDsc4r9"
     },
     {
+      "added_at": "2022-12-09 13:35:08",
+      "album": {
+        "name": "Unfold Voices EP",
+        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
+      },
+      "artists": [
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        }
+      ],
+      "duration_ms": 391577,
+      "name": "Unfold Me",
+      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Silence & Secrets (Black Coffee Remix)",
@@ -575,22 +591,6 @@
       "duration_ms": 515059,
       "name": "Louna",
       "url": "https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA"
-    },
-    {
-      "added_at": "2022-12-09 13:35:08",
-      "album": {
-        "name": "Unfold Voices EP",
-        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
-      },
-      "artists": [
-        {
-          "name": "JAMIIE",
-          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
-        }
-      ],
-      "duration_ms": 391577,
-      "name": "Unfold Me",
-      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -853,6 +853,30 @@
       "url": "https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Fool's Paradise (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel"
+      },
+      "artists": [
+        {
+          "name": "Mees Salom\u00e9",
+          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
+        },
+        {
+          "name": "Celine Cairo",
+          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Fool's Paradise - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d"
+    },
+    {
       "added_at": "2022-07-08 17:15:14",
       "album": {
         "name": "Nobody Is Not Loved, Remixes, Pt. 3",
@@ -883,30 +907,6 @@
       "duration_ms": 432360,
       "name": "Never Sleep Again - Keinemusik Remix",
       "url": "https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Fool's Paradise (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel"
-      },
-      "artists": [
-        {
-          "name": "Mees Salom\u00e9",
-          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
-        },
-        {
-          "name": "Celine Cairo",
-          "url": "https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Fool's Paradise - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -1017,6 +1017,22 @@
       "url": "https://open.spotify.com/track/5f7gdXvYTZqCRl4ieL4xvl"
     },
     {
+      "added_at": "2022-12-16 05:01:00",
+      "album": {
+        "name": "Barry",
+        "url": "https://open.spotify.com/album/6C3UM9S38mOz5Vo2quvECU"
+      },
+      "artists": [
+        {
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+        }
+      ],
+      "duration_ms": 409844,
+      "name": "Barry",
+      "url": "https://open.spotify.com/track/3MaqvZYEU7OLgQLI0PLCtF"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Blinding Lights (Joris Voorn Remix)",
@@ -1035,22 +1051,6 @@
       "duration_ms": 313748,
       "name": "Blinding Lights - Joris Voorn Remix",
       "url": "https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Barry",
-        "url": "https://open.spotify.com/album/6C3UM9S38mOz5Vo2quvECU"
-      },
-      "artists": [
-        {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
-        }
-      ],
-      "duration_ms": 409844,
-      "name": "Barry",
-      "url": "https://open.spotify.com/track/3MaqvZYEU7OLgQLI0PLCtF"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "The Church",
-        "url": "https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W"
-      },
-      "artists": [
-        {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        }
-      ],
-      "duration_ms": 440638,
-      "name": "The Church",
-      "url": "https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
       },
@@ -1115,6 +1099,38 @@
       "duration_ms": 424979,
       "name": "Unlocked",
       "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+    },
+    {
+      "added_at": "2022-07-08 17:15:14",
+      "album": {
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "duration_ms": 377225,
+      "name": "Psilocybin",
+      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "The Church",
+        "url": "https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W"
+      },
+      "artists": [
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        }
+      ],
+      "duration_ms": 440638,
+      "name": "The Church",
+      "url": "https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1135,22 +1151,6 @@
       "duration_ms": 286727,
       "name": "A380",
       "url": "https://open.spotify.com/track/2f7oUjeoSNw64PRWEdGi5S"
-    },
-    {
-      "added_at": "2022-07-08 17:15:14",
-      "album": {
-        "name": "Femme Tech",
-        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
-      },
-      "artists": [
-        {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
-        }
-      ],
-      "duration_ms": 377225,
-      "name": "Psilocybin",
-      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1209,6 +1209,26 @@
       "url": "https://open.spotify.com/track/3HIyzleWbghroY372GMajL"
     },
     {
+      "added_at": "2023-01-20 18:19:24",
+      "album": {
+        "name": "CIRCLES (Rodriguez Jr. Remix)",
+        "url": "https://open.spotify.com/album/3HJEiJoDYSoT967vQQBui6"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        },
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 321293,
+      "name": "CIRCLES - Rodriguez Jr. Remix",
+      "url": "https://open.spotify.com/track/0PwaykhbrTRE7DdtCM5hKR"
+    },
+    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Trife",
@@ -1255,26 +1275,6 @@
       "duration_ms": 348815,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt"
-    },
-    {
-      "added_at": "2023-01-20 18:19:24",
-      "album": {
-        "name": "CIRCLES (Rodriguez Jr. Remix)",
-        "url": "https://open.spotify.com/album/3HJEiJoDYSoT967vQQBui6"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        },
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 321293,
-      "name": "CIRCLES - Rodriguez Jr. Remix",
-      "url": "https://open.spotify.com/track/0PwaykhbrTRE7DdtCM5hKR"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
-      },
-      "artists": [
-        {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
-        }
-      ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
-    },
-    {
       "added_at": "2022-12-09 19:43:58",
       "album": {
         "name": "Let Us Be Free",
@@ -1523,6 +1507,22 @@
       "duration_ms": 427815,
       "name": "Let Us Be Free",
       "url": "https://open.spotify.com/track/6JPFfWs7C54hsD4WwhNKun"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
     },
     {
       "added_at": "2022-11-18 16:29:16",
@@ -1665,6 +1665,22 @@
       "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
     },
     {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Epic Resurrection",
+        "url": "https://open.spotify.com/album/30HmyV4zjyZiB4ET1b9Kma"
+      },
+      "artists": [
+        {
+          "name": "Space Motion",
+          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+        }
+      ],
+      "duration_ms": 401361,
+      "name": "Epic Resurrection",
+      "url": "https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI"
+    },
+    {
       "added_at": "2022-12-23 05:00:00",
       "album": {
         "name": "I'm Everything",
@@ -1685,20 +1701,28 @@
       "url": "https://open.spotify.com/track/5JyAuVWt07CDdmKl3w6a9w"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-12-09 13:35:08",
       "album": {
-        "name": "Epic Resurrection",
-        "url": "https://open.spotify.com/album/30HmyV4zjyZiB4ET1b9Kma"
+        "name": "Kiss (Remixes)",
+        "url": "https://open.spotify.com/album/3CxfNJpBzofF6KRMuAYa5x"
       },
       "artists": [
         {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        },
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "Konstantin Sibold",
+          "url": "https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW"
         }
       ],
-      "duration_ms": 401361,
-      "name": "Epic Resurrection",
-      "url": "https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI"
+      "duration_ms": 414171,
+      "name": "Kiss - Colyn & Konstantin Sibold Remix",
+      "url": "https://open.spotify.com/track/6GgbPOVOGcem6CtVbCcR5o"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1735,30 +1759,6 @@
       "duration_ms": 574838,
       "name": "Duel",
       "url": "https://open.spotify.com/track/1qC3qRlsg8SiG3jhUtApKm"
-    },
-    {
-      "added_at": "2022-12-09 13:35:08",
-      "album": {
-        "name": "Kiss (Remixes)",
-        "url": "https://open.spotify.com/album/3CxfNJpBzofF6KRMuAYa5x"
-      },
-      "artists": [
-        {
-          "name": "Editors",
-          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
-        },
-        {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
-        },
-        {
-          "name": "Konstantin Sibold",
-          "url": "https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW"
-        }
-      ],
-      "duration_ms": 414171,
-      "name": "Kiss - Colyn & Konstantin Sibold Remix",
-      "url": "https://open.spotify.com/track/6GgbPOVOGcem6CtVbCcR5o"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Made of Wood",
-        "url": "https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 390371,
-      "name": "La Veleta",
-      "url": "https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Alabora",
         "url": "https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 470335,
       "name": "Alabora - Foxall Pale Blue Remix",
       "url": "https://open.spotify.com/track/32hpq6FjVS2QrE5Z0q8Ffa"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Made of Wood",
+        "url": "https://open.spotify.com/album/2mq7gQ2pltwdQar3B8puYW"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 390371,
+      "name": "La Veleta",
+      "url": "https://open.spotify.com/track/3ov4vgaxgFhSJwejMCpZUY"
     },
     {
       "added_at": "2022-07-01 04:01:00",

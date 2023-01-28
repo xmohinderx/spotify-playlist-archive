@@ -2766,10 +2766,28 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-28",
       "duration_ms": 225818,
       "name": "Snow",
       "url": "https://open.spotify.com/track/1UkFYMVhWAT1N7IIhJJMtE"
+    },
+    {
+      "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/1YcOJ4stnsTYYzFmjy0QYE"
+      },
+      "artists": [
+        {
+          "name": "Emilee Moore",
+          "url": "https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225818,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/7aDE5prcsZuHtui9YDgShF"
     },
     {
       "album": {
