@@ -4,7 +4,7 @@
 
 > Home is where the main stage is\. 💗
 
-364 songs - 19 hr 17 min
+365 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Anything For You](https://open.spotify.com/track/46STEIXOIt9YloaoN3NKgr) | [James Stikå](https://open.spotify.com/artist/1cktEjwmtAVqn8tJj5fQcT), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Anything For You](https://open.spotify.com/album/5exiKanjOzdX2cEZna22Lz) | 2:43 | 2022-04-22 | 2022-06-08 |
 | [Anywhere With You](https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Anywhere With You](https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ) | 2:38 | 2022-03-18 |  |
 | [Anywhere With You](https://open.spotify.com/track/5MxKAr6Ui5hQ9TtjdnlmrR) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Anywhere With You](https://open.spotify.com/album/0JaOI27aTExNAnLHpKi2wl) | 2:38 | 2021-10-01 | 2022-07-27 |
-| [Anywhere's Home \- Klingande Remix](https://open.spotify.com/track/6wz9kiiKnPjRkwo11LpZ1J) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Anywhere's Home \(Klingande Remix\)](https://open.spotify.com/album/2d3t5k4axWfjZvyVtceCNx) | 2:48 | 2022-12-16 |  |
+| [Anywhere's Home \- Klingande Remix](https://open.spotify.com/track/6wz9kiiKnPjRkwo11LpZ1J) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Anywhere's Home \(Klingande Remix\)](https://open.spotify.com/album/2d3t5k4axWfjZvyVtceCNx) | 2:48 | 2022-12-16 | 2023-01-29 |
 | [Armageddon](https://open.spotify.com/track/6bXNko4ehHxNCsfI1G9yLI) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT) | [Armageddon](https://open.spotify.com/album/60yqhOP10Pw4DNrWMqt2XZ) | 2:44 | 2023-01-13 |  |
 | [Around The World \(feat\. NOUMENN\)](https://open.spotify.com/track/273n4aGEPcL1HrcdhpGGul) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [NOUMENN](https://open.spotify.com/artist/7bFQpPcrEXYDQDcVPVahyC) | [Around The World \(feat\. NOUMENN\)](https://open.spotify.com/album/5mbOLvo8EOsUyuKStqC0aY) | 3:19 | 2021-06-02 | 2022-05-22 |
 | [Atlantis](https://open.spotify.com/track/3dqIIPHyhVVbN1mnShVAhT) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Atlantis](https://open.spotify.com/album/6I0cW7R6h13OxfoDCnvW35) | 3:18 | 2022-10-28 |  |
@@ -199,6 +199,7 @@
 | [MAKI](https://open.spotify.com/track/49zTxpRczdi1GiWNIhkJ3A) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAKI](https://open.spotify.com/album/5zGhZkuwcKxl2saMNt7h8H) | 3:20 | 2022-03-25 | 2022-07-19 |
 | [Melody](https://open.spotify.com/track/1rSUNzMXSxspf02RRQ3p5m) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Melody](https://open.spotify.com/album/0Ntw26ASZDaNWzSY9KcFTt) | 2:33 | 2022-03-11 | 2022-07-29 |
 | [Memories \(feat\. Kid Cudi\) \- 2021 Remix](https://open.spotify.com/track/59o6ojGNGJOYiVJSzC6Lsa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Memories \(feat\. Kid Cudi\) \[2021 Remix\]](https://open.spotify.com/album/6YjGFGvxaNPwD2sQjECHSX) | 2:42 | 2021-06-02 | 2022-11-30 |
+| [Mercy \(2022 Edit\)](https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:17 | 2023-01-27 |  |
 | [Miles To Go](https://open.spotify.com/track/0d2F9wcykuZ1QzDMcI0Mf0) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Miles To Go](https://open.spotify.com/album/5yxiQyMmKQmC4x9U8rfR7A) | 3:18 | 2021-06-02 | 2022-05-19 |
 | [Miss You](https://open.spotify.com/track/2lxoIZS8tpFwbiJyrDYguI) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3) | [Miss You](https://open.spotify.com/album/6yNMqtPxykHsGzMJe9m5Fg) | 3:20 | 2021-10-26 | 2022-12-16 |
 | [Mission Control](https://open.spotify.com/track/45lGbfYeIdseB3N8FSR9HG) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Mission Control](https://open.spotify.com/album/0TFqyokddXotEBOWcKYsdo) | 2:16 | 2022-11-18 | 2022-12-22 |

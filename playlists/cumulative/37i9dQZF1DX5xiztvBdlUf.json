@@ -152,7 +152,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 224262,
       "name": "All Night",
       "url": "https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs"
@@ -6146,6 +6146,32 @@
       "duration_ms": 382668,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/6aqhM9bUq6tdC9QUj3OXij"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/7szvJIeKj3HVTv63bkIs2E"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Andrew Pololos",
+          "url": "https://open.spotify.com/artist/4L4Ztz8S7RAQxrFgEZS5dm"
+        },
+        {
+          "name": "Mopao Mumu",
+          "url": "https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214167,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/3GNR7g7jIQcRC6Q0sZtqmw"
     },
     {
       "album": {

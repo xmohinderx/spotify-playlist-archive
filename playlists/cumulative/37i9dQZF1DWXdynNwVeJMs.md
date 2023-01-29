@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-140 songs - 11 hr 49 min
+142 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Cumulus](https://open.spotify.com/track/0pDMECDdo0SkE81fqc4k54) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [Cumulus](https://open.spotify.com/album/30IhEm1ph91v5nezDuIU2u) | 4:46 | 2022-09-08 | 2022-09-25 |
 | [Cumulus](https://open.spotify.com/track/5uFYKPsV8x6D2swS6IXcWC) | [STUFF.](https://open.spotify.com/artist/2arPbOlDKD5g7asu7NSfCr) | [T\(h\)reats](https://open.spotify.com/album/3jJMW4RjWkAjJGxW2GF8DI) | 4:46 | 2022-09-15 |  |
 | [Dag Na Naamdag](https://open.spotify.com/track/5HGH0McByz0hX2JCnY70iu) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Dag Na Naamdag](https://open.spotify.com/album/7fsFzSqZ6awZxuoWgS8Byw) | 4:45 | 2022-12-06 | 2023-01-07 |
-| [Dag Na Naamdag](https://open.spotify.com/track/5exLlipto9rztxYRRZxdJS) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Smooch](https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL) | 4:45 | 2022-12-16 |  |
+| [Dag Na Naamdag](https://open.spotify.com/track/5exLlipto9rztxYRRZxdJS) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Smooch](https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL) | 4:45 | 2022-12-16 | 2023-01-29 |
+| [Dag Na Naamdag](https://open.spotify.com/track/6sF5HnGQraBYRwZLsTJQG7) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Coaxial](https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6) | 4:45 | 2023-01-19 |  |
 | [Dance Around Bullets](https://open.spotify.com/track/0GcI5TyFE4U1ChPIvKmWnH) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Dance Around Bullets](https://open.spotify.com/album/3ygEejH0fJ962lx8mVtpOy) | 5:21 | 2022-09-08 |  |
 | [Dark Days](https://open.spotify.com/track/05spsFQqhEvEUcfIxf5Ewp) | [Steiger](https://open.spotify.com/artist/5AJUqsuVNsPpgGd44hgvNI) | [Dark Days](https://open.spotify.com/album/3CLAV70LJPGP4OZhyTdmyb) | 5:46 | 2022-09-08 |  |
 | [Deep Dive Down](https://open.spotify.com/track/7JI4thi0ETxiNzVPlBAZXg) | [Black Flower](https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz) | [Magma](https://open.spotify.com/album/28VtIxXxSnHaQFKCnKN0P5) | 7:27 | 2022-09-08 |  |
@@ -118,7 +119,8 @@
 | [Rostfrei](https://open.spotify.com/track/6hmuL1lUUd10z0SxMANUO1) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [Klein Gevaarlijk Afval](https://open.spotify.com/album/3Mbm4tvDYbzC9FzaQ340LZ) | 2:31 | 2022-09-08 |  |
 | [Shooting Stars](https://open.spotify.com/track/1J2xcunIugYhmtlKPFXZdf) | [Julien Tassin](https://open.spotify.com/artist/7hNM1DFNLvzEUVJtZdg1ND), [Dré Pallemaerts](https://open.spotify.com/artist/3KEOwvDwVcQsdjP8Fdunc0), [Nic Thys](https://open.spotify.com/artist/1EO0AEYzcsOWlTvoA86SN0) | [Shooting Stars](https://open.spotify.com/album/6GkKIDX0S4jJuYkgJVzoX7) | 5:06 | 2022-09-08 |  |
 | [SLECHGAAN](https://open.spotify.com/track/5KrLhcvytXRFBCsx2tQrdS) | [RAPIDMAN](https://open.spotify.com/artist/4hzVtNA2nyeXtSHA8Xr0y5) | [SLECHGAAN](https://open.spotify.com/album/6WLK6dTRwyLPjcZJsZOIzH) | 5:35 | 2022-09-08 |  |
-| [Smooch](https://open.spotify.com/track/5E4NPgrMaD2T8TAJIAR6A9) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Smooch](https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL) | 5:10 | 2023-01-19 |  |
+| [Smooch](https://open.spotify.com/track/0mxkPFP9OWqJNdqq5TlmzQ) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Coaxial](https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6) | 5:10 | 2023-01-19 |  |
+| [Smooch](https://open.spotify.com/track/5E4NPgrMaD2T8TAJIAR6A9) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Smooch](https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL) | 5:10 | 2023-01-19 | 2023-01-29 |
 | [Solace In Solitude](https://open.spotify.com/track/1lc91yToT1IMkmcJ6TzFXd) | [Profound Observer](https://open.spotify.com/artist/0dvxvZTqgUjgROTCBoF4NR) | [Solace In Solitude](https://open.spotify.com/album/6ciVgd0syuPG2hOzA3wu6P) | 5:48 | 2022-12-16 |  |
 | [Steam \- Live at Flagey](https://open.spotify.com/track/1gkQOLuTbGJeMDUtx1Rzul) | [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V), [Urbex Electric](https://open.spotify.com/artist/5TfbE4xRlghwafYJI8RKep) | [Suspended \(Live at Flagey\)](https://open.spotify.com/album/6INjembZVZPvSmGubjofPo) | 5:57 | 2022-09-08 |  |
 | [Stofwolk](https://open.spotify.com/track/2jOuhAeW2GoiRtTzTMJl4A) | [Bert Dockx](https://open.spotify.com/artist/0nD5LTV5BZ6Dl7BbjGpHv1), [Josse De Pauw](https://open.spotify.com/artist/6QVOqNRPbNIAbLuFExZowD), [Ottla](https://open.spotify.com/artist/3HB81lpzUkSIqMo0mesQ9L) | [Kroniek Van Het Vuur \(live\)](https://open.spotify.com/album/3GQBXxRxdwB7Y7oNju93jh) | 12:44 | 2022-09-08 |  |

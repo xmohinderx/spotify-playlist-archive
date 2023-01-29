@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,062 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,061 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 33 | [The Sensual World \- 2018 Remaster](https://open.spotify.com/track/6eVxdX2tQkNmHg7PP1sRbw) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/3k9p0yOIiw3O39chv3fYYO) | 3:57 |
 | 34 | [Sailing to Philadelphia](https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Sailing to Philadelphia](https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63) | 5:29 |
 | 35 | [Breathe](https://open.spotify.com/track/6B7HkOXoB3c0MoXk7C9i07) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/2cVfcuckyfRP6KVAHsRPHC) | 5:00 |
-| 36 | [The River](https://open.spotify.com/track/1k3tnHRcKo5DUNdQYuYFnw) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 4:52 |
-| 37 | [1984](https://open.spotify.com/track/0F0j6ff6MBiwasFfBhrYuB) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:45 |
+| 36 | [1984](https://open.spotify.com/track/0F0j6ff6MBiwasFfBhrYuB) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:45 |
+| 37 | [The River](https://open.spotify.com/track/1k3tnHRcKo5DUNdQYuYFnw) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 4:52 |
 | 38 | [Narcissist](https://open.spotify.com/track/0LkAjjrokJbccAfz5yftS1) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 2:10 |
 | 39 | [Shalott](https://open.spotify.com/track/1mCm0Tb2pLTlJ26SxqrAFY) | [Emilie Autumn](https://open.spotify.com/artist/1K6L6Hw4HibspToNP1FeBC) | [Opheliac \(The Deluxe Edition\)](https://open.spotify.com/album/7FDaA4N8rvotYVci2updNR) | 4:04 |
 | 40 | [Paperbag Writer](https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Com Lag: 2+2=5](https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l) | 3:58 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 45 | [Goodbye Sky Harbor](https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 16:13 |
 | 46 | [Books Written For Girls](https://open.spotify.com/track/1f9jTXNHEKHANrZoalrIlx) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Underachievers Please Try Harder](https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh) | 5:13 |
 | 47 | [Everyday I Write The Book](https://open.spotify.com/track/36F8DzJ1IP1m8C1h0CpIaz) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [The Best Of The First 10 Years](https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw) | 3:54 |
-| 48 | [A Picture Of Dorian Gray](https://open.spotify.com/track/19YGRL40edzQmgxFILjVvB) | [Television Personalities](https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh) | [And Don't The Kids Just Love It](https://open.spotify.com/album/7n0jbzngXElnxdbQz2XibT) | 2:11 |
-| 49 | [Literature Lovers](https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV) | [Jose Vanders](https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7) | [Literature Lovers](https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW) | 4:40 |
+| 48 | [Literature Lovers](https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV) | [Jose Vanders](https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7) | [Literature Lovers](https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW) | 4:40 |
+| 49 | [A Picture Of Dorian Gray](https://open.spotify.com/track/19YGRL40edzQmgxFILjVvB) | [Television Personalities](https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh) | [And Don't The Kids Just Love It](https://open.spotify.com/album/7n0jbzngXElnxdbQz2XibT) | 2:11 |
 | 50 | [Milton At Midnight](https://open.spotify.com/track/44wtR8EBCz7wVvsOoJQEnd) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [Milton At Midnight](https://open.spotify.com/album/7kZbS20RlWvmUvOqvo0l0x) | 5:46 |
 
-Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMGE3MGY1MWE3Zjg2Yjk3NTdkNjhmNThmYzI4ZGFhZDE3`
+Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMGEzOTU3YzFjZDExZDZkNjViYzA3MDQ0OGJhNmQ3ZDQz`

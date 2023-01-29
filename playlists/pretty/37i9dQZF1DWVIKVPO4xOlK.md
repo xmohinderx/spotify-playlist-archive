@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Junior H
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,022 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,020 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 24 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 |
 | 25 | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Drty Tropix](https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2) | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE) | 2:41 |
 | 26 | [First Of The Year](https://open.spotify.com/track/7ijipCHwLo0ZoABNxm2qp6) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [First Of The Year](https://open.spotify.com/album/1mgwNlzi9VzFcE1Qd4Xj86) | 2:50 |
-| 27 | [Born In A System](https://open.spotify.com/track/3LHef8DQ2a7jMphnvSpmMz) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Born In A System](https://open.spotify.com/album/3L0SDWEUsPe0qeUrZWpcvG) | 3:06 |
-| 28 | [Chosen](https://open.spotify.com/track/5ugygrS3SmuK6GJFOj9ASB) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Ghetto Journal](https://open.spotify.com/album/0EnIx5ElijSpEfcFfOPvRV) | 2:37 |
+| 27 | [Chosen](https://open.spotify.com/track/5ugygrS3SmuK6GJFOj9ASB) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Ghetto Journal](https://open.spotify.com/album/0EnIx5ElijSpEfcFfOPvRV) | 2:37 |
+| 28 | [Born In A System](https://open.spotify.com/track/3LHef8DQ2a7jMphnvSpmMz) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Born In A System](https://open.spotify.com/album/3L0SDWEUsPe0qeUrZWpcvG) | 3:06 |
 | 29 | [Mi Terre CLN](https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 |
 | 30 | [MÍNIMO](https://open.spotify.com/track/0Dfzwt3rqrsDiWZr3zyq02) | [Rey Chango](https://open.spotify.com/artist/0u5bPsSeDIbLpTKr9hJCqc), [Lyon808](https://open.spotify.com/artist/4HVhyLcMfhyOoJqfCpiEJc) | [MÍNIMO](https://open.spotify.com/album/5GIvKNN1Nq2lSBeNdijiUQ) | 3:27 |
 | 31 | [Nos Acoplamos Macizo](https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Nos Acoplamos Macizo](https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl) | 4:06 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIKVPO4xOlK.md) - [plain]
 | 39 | [Mi Vecindario](https://open.spotify.com/track/7LpOv13UlQtTVbknzGGzQm) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:52 |
 | 40 | [Del Amor Al Odio](https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Del Amor Al Odio](https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM) | 3:16 |
 
-Snapshot ID: `MTY3NDYwNDIyNCwwMDAwMDAwMDUyYWFmYzVhMDliYjEyOWY5YmYwZDRlNzc4OTAyNzJi`
+Snapshot ID: `MTY3NDYwNDIyNCwwMDAwMDAwMDYwNjQ3NGIwMzgzNjI3N2QyZjRiYjZlMzg0NDRlZWRm`

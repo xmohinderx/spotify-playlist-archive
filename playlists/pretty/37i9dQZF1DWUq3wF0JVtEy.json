@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 887895,
+  "num_followers": 888175,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGJlYjVhNzRiOTViMjAzMjQ0YzI1ZTk0NDlhOWI1YTE1",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGJjZWU0ZjY5MjcxZjY3YzhkNmZkMDg1OGQ4M2FhOTYy",
   "tracks": [
     {
       "added_at": "2023-01-13 14:39:51",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-01-13 14:39:51",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe"
-      },
-      "artists": [
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 182765,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
-    },
-    {
-      "added_at": "2023-01-13 14:39:51",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 158571,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
+    },
+    {
+      "added_at": "2023-01-13 14:39:51",
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 182765,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
     },
     {
       "added_at": "2023-01-13 14:39:51",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-01-13 14:39:51",
       "album": {
-        "name": "Safe & Sound",
-        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 200166,
-      "name": "Safe & Sound - Radio Edit",
-      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
-    },
-    {
-      "added_at": "2023-01-13 14:39:51",
-      "album": {
         "name": "Bring Et",
         "url": "https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2023-01-13 14:39:51",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
+        "name": "Safe & Sound",
+        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
       },
       "artists": [
         {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         }
       ],
-      "duration_ms": 184687,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
+      "duration_ms": 200166,
+      "name": "Safe & Sound - Radio Edit",
+      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
     },
     {
       "added_at": "2023-01-13 14:39:51",
@@ -971,6 +955,22 @@
       "duration_ms": 133477,
       "name": "No Man",
       "url": "https://open.spotify.com/track/1A9viOL3Wl4lNr6apKIfBC"
+    },
+    {
+      "added_at": "2023-01-13 14:39:51",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
     },
     {
       "added_at": "2023-01-13 14:39:51",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-01-13 14:39:51",
       "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 171076,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
-    },
-    {
-      "added_at": "2023-01-13 14:39:51",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 160047,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38"
+    },
+    {
+      "added_at": "2023-01-13 14:39:51",
+      "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 171076,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
     },
     {
       "added_at": "2023-01-13 14:39:51",
@@ -1271,30 +1271,6 @@
     {
       "added_at": "2023-01-13 14:39:51",
       "album": {
-        "name": "Late Night Feels (\u00d6wnboss Remix)",
-        "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "MONSTA X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Late Night Feels (\u00d6wnboss Remix)",
-      "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
-    },
-    {
-      "added_at": "2023-01-13 14:39:51",
-      "album": {
         "name": "Turn Off The Lights (Cloonee Remix)",
         "url": "https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc"
       },
@@ -1315,6 +1291,30 @@
       "duration_ms": 198754,
       "name": "Turn Off The Lights - Cloonee Remix",
       "url": "https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA"
+    },
+    {
+      "added_at": "2023-01-13 14:39:51",
+      "album": {
+        "name": "Late Night Feels (\u00d6wnboss Remix)",
+        "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Late Night Feels (\u00d6wnboss Remix)",
+      "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
     },
     {
       "added_at": "2023-01-13 14:39:51",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2023-01-13 14:39:51",
       "album": {
-        "name": "MIRRORS",
-        "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
-      },
-      "artists": [
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 157741,
-      "name": "MIRRORS",
-      "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
-    },
-    {
-      "added_at": "2023-01-13 14:39:51",
-      "album": {
         "name": "I Wanna",
         "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 155520,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
+    },
+    {
+      "added_at": "2023-01-13 14:39:51",
+      "album": {
+        "name": "MIRRORS",
+        "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 157741,
+      "name": "MIRRORS",
+      "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
     },
     {
       "added_at": "2023-01-13 14:39:51",
@@ -1435,22 +1435,22 @@
     {
       "added_at": "2023-01-13 14:39:51",
       "album": {
-        "name": "Night Shift",
-        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG"
       },
       "artists": [
         {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+          "name": "NO SIGNE",
+          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
         },
         {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+          "name": "Rell Rock",
+          "url": "https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq"
         }
       ],
-      "duration_ms": 230625,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
+      "duration_ms": 180480,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
     },
     {
       "added_at": "2023-01-13 14:39:51",
@@ -1475,38 +1475,22 @@
     {
       "added_at": "2023-01-13 14:39:51",
       "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG"
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
       },
       "artists": [
         {
-          "name": "NO SIGNE",
-          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
         },
         {
-          "name": "Rell Rock",
-          "url": "https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq"
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
         }
       ],
-      "duration_ms": 180480,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
-    },
-    {
-      "added_at": "2023-01-13 14:39:51",
-      "album": {
-        "name": "Make Trouble",
-        "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
-      },
-      "artists": [
-        {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Ballin'",
-      "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
+      "duration_ms": 230625,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
     },
     {
       "added_at": "2023-01-13 14:39:51",
@@ -1527,6 +1511,22 @@
       "duration_ms": 162580,
       "name": "PPL",
       "url": "https://open.spotify.com/track/3d3rarz1eXjs8BPGKoFNYQ"
+    },
+    {
+      "added_at": "2023-01-13 14:39:51",
+      "album": {
+        "name": "Make Trouble",
+        "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
+      },
+      "artists": [
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Ballin'",
+      "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
     },
     {
       "added_at": "2023-01-13 14:39:51",
@@ -1631,6 +1631,22 @@
       "duration_ms": 201093,
       "name": "Broke Bitch",
       "url": "https://open.spotify.com/track/3Ay4JbFCfh7q7RIUScJQ1v"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Eye To Eye",
+        "url": "https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        }
+      ],
+      "duration_ms": 155002,
+      "name": "Eye To Eye",
+      "url": "https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U"
     },
     {
       "added_at": "2023-01-13 14:39:51",
@@ -1739,6 +1755,22 @@
     {
       "added_at": "2023-01-13 14:39:51",
       "album": {
+        "name": "2HEARTs dlux",
+        "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 239047,
+      "name": "my luv - bonus track",
+      "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
+    },
+    {
+      "added_at": "2023-01-13 14:39:51",
+      "album": {
         "name": "Get It",
         "url": "https://open.spotify.com/album/16nkpBkz928wEufZWM3TwO"
       },
@@ -1755,22 +1787,6 @@
       "duration_ms": 191285,
       "name": "Get It",
       "url": "https://open.spotify.com/track/1kFs6riPsFjxz1VLb3H8yx"
-    },
-    {
-      "added_at": "2023-01-13 14:39:51",
-      "album": {
-        "name": "2HEARTs dlux",
-        "url": "https://open.spotify.com/album/0jl5eSEDiAIQBY3eeXnDIQ"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 239047,
-      "name": "my luv - bonus track",
-      "url": "https://open.spotify.com/track/6PFbJ9LyhPo5gbTpc08XGP"
     },
     {
       "added_at": "2023-01-13 14:39:51",
@@ -1899,26 +1915,6 @@
       "duration_ms": 128272,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/0TeIpXK4mS251xn4HNbL5x"
-    },
-    {
-      "added_at": "2023-01-13 14:39:51",
-      "album": {
-        "name": "Funky Sound",
-        "url": "https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR"
-      },
-      "artists": [
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "HINA",
-          "url": "https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K"
-        }
-      ],
-      "duration_ms": 139921,
-      "name": "Funky Sound",
-      "url": "https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc"
     },
     {
       "added_at": "2023-01-13 14:39:51",

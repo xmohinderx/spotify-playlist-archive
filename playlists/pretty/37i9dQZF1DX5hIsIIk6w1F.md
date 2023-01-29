@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 
 > Este Flow tiene otro Flow\. Foto: King Savagge, AK4:20 & Paloma Mami.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,203 likes - 102 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,684 likes - 102 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

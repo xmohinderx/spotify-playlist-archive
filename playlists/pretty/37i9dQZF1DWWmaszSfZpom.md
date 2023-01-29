@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacaré
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,004 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,055 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 22 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 |
 | 23 | [Se Prepara 2](https://open.spotify.com/track/4ho6IyVZ0TilPf7ctKd84D) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Se Prepara 2](https://open.spotify.com/album/57w3kBPQqRW5VQIwOA4gyP) | 2:27 |
 | 24 | [ATENÇÃO](https://open.spotify.com/track/5AhnPqydkYbZAp4NkyJ7ED) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [ATENÇÃO](https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93) | 2:15 |
-| 25 | [Oh Juliana](https://open.spotify.com/track/4xWzZmX4K1yyrdtRfbUvjt) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Oh Juliana](https://open.spotify.com/album/4TqvKXoNxzUt3KFvb2kMOL) | 2:33 |
-| 26 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
+| 25 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
+| 26 | [Oh Juliana](https://open.spotify.com/track/4xWzZmX4K1yyrdtRfbUvjt) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML) | [Oh Juliana](https://open.spotify.com/album/4TqvKXoNxzUt3KFvb2kMOL) | 2:33 |
 | 27 | [Movimento da sanfoninha \- Ao vivo](https://open.spotify.com/track/2loApP0kPaim0BTDVP9F26) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Meu Lugar](https://open.spotify.com/album/1irawiP1fDHeb7hUNf9wxN) | 2:56 |
 | 28 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 |
 | 29 | [VAI MENINA](https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [VAI MENINA](https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY) | 2:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 74 | [Para não](https://open.spotify.com/track/23GNCotvXa7WPvgYuruJjE) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Para não](https://open.spotify.com/album/3XZmGL1Kd4L7u7GbPoglhf) | 2:44 |
 | 75 | [Bota pra Tremer \- Remix](https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [REMIXES!](https://open.spotify.com/album/48tCnhhdxuroW88LjTrIhH) | 1:48 |
 
-Snapshot ID: `MTY2NTc2OTI0MCwwMDAwMDAwMDZkNDJmY2UxNzdlYjFmN2Q5YzEyMGRhZGZjMjdiYmY1`
+Snapshot ID: `MTY2NTc2OTI0MCwwMDAwMDAwMDNlNzI1MDY4NGE0NzE5OTRhZjdjYTkyOTRiYmFmMDc3`

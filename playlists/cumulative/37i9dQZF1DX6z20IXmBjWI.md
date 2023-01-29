@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems.
 
-341 songs - 21 hr 12 min
+342 songs - 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 | 2021-12-10 |  |
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2021-12-10 |  |
 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 | 2021-12-10 |  |
+| [Bleed](https://open.spotify.com/track/1grI6XCzv8xD3agR9gUpRl) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Bleed](https://open.spotify.com/album/3sBXsP0zgyV9t5HfLf6hEb) | 3:25 | 2023-01-27 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2022-06-08 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:30 | 2021-12-10 | 2022-07-29 |
 | [Boardwalks](https://open.spotify.com/track/0K5cDbV4MMkeSBYLPmJkAs) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Boardwalks](https://open.spotify.com/album/74JT9pZVv3K8PnZU8KZewf) | 3:16 | 2022-06-08 | 2022-07-23 |
@@ -123,7 +124,7 @@
 | [Honest](https://open.spotify.com/track/0WIzzUh0vzPHk58d3e8sXJ) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/7yLup1hOE1TLRGyUdW07TW) | 2:48 | 2021-12-10 | 2022-07-25 |
 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 | 2021-12-10 |  |
 | [Houdini](https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Houdini](https://open.spotify.com/album/09amDFagdn2HQ5jpfo1dr4) | 3:16 | 2021-12-10 | 2022-03-12 |
-| [How Can You Sing](https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Impossible World](https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo) | 3:30 | 2021-12-10 |  |
+| [How Can You Sing](https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Impossible World](https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo) | 3:30 | 2021-12-10 | 2023-01-29 |
 | [How I Miss You](https://open.spotify.com/track/5QNxAH2pQLs8i7w6M9wH2x) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 2:50 | 2022-01-21 | 2022-07-18 |
 | [Human](https://open.spotify.com/track/4uBiUTHSuuRT4CtEoZHz2f) | [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d) | [Human](https://open.spotify.com/album/1CG4EjCxgzgQgadPN0piBA) | 3:54 | 2021-12-10 | 2022-07-29 |
 | [Hung the Moon](https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Hung the Moon](https://open.spotify.com/album/2R8yAIlt0pNYLsMqyoo2gI) | 3:10 | 2021-12-10 |  |

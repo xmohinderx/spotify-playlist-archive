@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 233539,
+  "num_followers": 233842,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU0MjAyOCwwMDAwMDAwMDE2M2E1NzIwYTZjMWM1ZGQ3ZDhkMTdhMzdlYWE3YjA0",
+  "snapshot_id": "MTY2NzU0MjAyOCwwMDAwMDAwMDA1MTg2YzQxMzljZGUyNDFmMDQ0ZWYzMzhkN2QwODY0",
   "tracks": [
     {
       "added_at": "2022-11-04 06:07:07",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Surfer Girl",
+        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
+      },
+      "artists": [
+        {
+          "name": "Persona La Ave",
+          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
+        }
+      ],
+      "duration_ms": 375876,
+      "name": "Surfer Girl",
+      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "Sessions: Star Guardian Taliyah",
         "url": "https://open.spotify.com/album/5a3R3wxx4SURufgfrgxwdV"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 203386,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/5LyasyYr7dDoTYypnZ9A2k"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Surfer Girl",
-        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
-      },
-      "artists": [
-        {
-          "name": "Persona La Ave",
-          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
-        }
-      ],
-      "duration_ms": 375876,
-      "name": "Surfer Girl",
-      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Midnight Store",
-        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
-      },
-      "artists": [
-        {
-          "name": "Donor Lens",
-          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
-        }
-      ],
-      "duration_ms": 157974,
-      "name": "Turn the Fridge On",
-      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Iconic Bitch",
         "url": "https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 233774,
       "name": "Beyond Nostalgia",
       "url": "https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Midnight Store",
+        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
+      },
+      "artists": [
+        {
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Turn the Fridge On",
+      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Goodbye, 5o 5oon...",
-        "url": "https://open.spotify.com/album/6gfv7xDZxvDoAHNMWfIGDb"
-      },
-      "artists": [
-        {
-          "name": "Pan!c Pop",
-          "url": "https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL"
-        }
-      ],
-      "duration_ms": 176015,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/5VaDZOhX8Ma1zAHL0hyz1o"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "\u30b7\u30e7\u30c3\u30d7 @ \u30d8\u30eb\u30b7\u30f3\u30ad",
         "url": "https://open.spotify.com/album/3lsIOYThsgxgdWUXOljYns"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 354000,
       "name": "\u90fd\u5e02\u30d5\u30a9\u30fc\u30e9\u30e0 Consumer [kahvi]",
       "url": "https://open.spotify.com/track/0ROwi1AbB8iDecrn5MRxoR"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Goodbye, 5o 5oon...",
+        "url": "https://open.spotify.com/album/6gfv7xDZxvDoAHNMWfIGDb"
+      },
+      "artists": [
+        {
+          "name": "Pan!c Pop",
+          "url": "https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL"
+        }
+      ],
+      "duration_ms": 176015,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/5VaDZOhX8Ma1zAHL0hyz1o"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Music: Here To Stay",
-        "url": "https://open.spotify.com/album/3HFjXBJKFh4m3aniQCVQAA"
-      },
-      "artists": [
-        {
-          "name": "3d Blast",
-          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
-        }
-      ],
-      "duration_ms": 242817,
-      "name": "3rD BEST",
-      "url": "https://open.spotify.com/track/11w7UNvU8VAqssbgXqEYpp"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "The 33rd Split",
         "url": "https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Doom Mix, Vol. V",
-        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
+        "name": "Music: Here To Stay",
+        "url": "https://open.spotify.com/album/3HFjXBJKFh4m3aniQCVQAA"
       },
       "artists": [
         {
-          "name": "Eyeliner",
-          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
+          "name": "3d Blast",
+          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
+      "duration_ms": 242817,
+      "name": "3rD BEST",
+      "url": "https://open.spotify.com/track/11w7UNvU8VAqssbgXqEYpp"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "I Am Here, In Love\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b. (Exist\u200b.\u200b.\u200b. Exist\u200b.\u200b.\u200b.\u200b. Exist\u200b!\u200b!\u200b!\u200b)",
-        "url": "https://open.spotify.com/album/49DYO9fvSpifXXMlE26Wkx"
+        "name": "Doom Mix, Vol. V",
+        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
       },
       "artists": [
         {
-          "name": "Hong Kong Express",
-          "url": "https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf"
+          "name": "Eyeliner",
+          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
         }
       ],
-      "duration_ms": 187317,
-      "name": "Time-Data. The Stars. The Essence. Love. Abstract Beauty. Desire. Ariseth, As The Sun.",
-      "url": "https://open.spotify.com/track/3yrkXG1DGDivOKtXtbFGoi"
+      "duration_ms": 162000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Ocean Breeze",
-        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
+        "name": "I Am Here, In Love\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b.\u200b. (Exist\u200b.\u200b.\u200b. Exist\u200b.\u200b.\u200b.\u200b. Exist\u200b!\u200b!\u200b!\u200b)",
+        "url": "https://open.spotify.com/album/49DYO9fvSpifXXMlE26Wkx"
       },
       "artists": [
         {
-          "name": "Trushinitas",
-          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
+          "name": "Hong Kong Express",
+          "url": "https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf"
         }
       ],
-      "duration_ms": 135035,
-      "name": "Summer Days",
-      "url": "https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng"
+      "duration_ms": 187317,
+      "name": "Time-Data. The Stars. The Essence. Love. Abstract Beauty. Desire. Ariseth, As The Sun.",
+      "url": "https://open.spotify.com/track/3yrkXG1DGDivOKtXtbFGoi"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1399,22 +1383,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "visualdesign '97",
-        "url": "https://open.spotify.com/album/1U7sVDbYF140Qi5uClqkWQ"
-      },
-      "artists": [
-        {
-          "name": "vcr-classique",
-          "url": "https://open.spotify.com/artist/7A1easrTxUXFE8oweLhFX2"
-        }
-      ],
-      "duration_ms": 105143,
-      "name": "sunday shopping",
-      "url": "https://open.spotify.com/track/1DNbnHyTMvDP0KcoPVpUN5"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Fever Dream (slowed + reverb)",
         "url": "https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ"
       },
@@ -1431,18 +1399,34 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Judgment Bolt",
-        "url": "https://open.spotify.com/album/0A8BjjykKZ4Wdluecx0Vy6"
+        "name": "Ocean Breeze",
+        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
       },
       "artists": [
         {
-          "name": "death's dynamic shroud",
-          "url": "https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c"
+          "name": "Trushinitas",
+          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
         }
       ],
-      "duration_ms": 272021,
-      "name": "Judgment Bolt",
-      "url": "https://open.spotify.com/track/1NgOE9DQOTnCKsxsfbksyt"
+      "duration_ms": 135035,
+      "name": "Summer Days",
+      "url": "https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "visualdesign '97",
+        "url": "https://open.spotify.com/album/1U7sVDbYF140Qi5uClqkWQ"
+      },
+      "artists": [
+        {
+          "name": "vcr-classique",
+          "url": "https://open.spotify.com/artist/7A1easrTxUXFE8oweLhFX2"
+        }
+      ],
+      "duration_ms": 105143,
+      "name": "sunday shopping",
+      "url": "https://open.spotify.com/track/1DNbnHyTMvDP0KcoPVpUN5"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1459,6 +1443,22 @@
       "duration_ms": 297142,
       "name": "Bad Baby (Satin Sheets Remix)",
       "url": "https://open.spotify.com/track/06o1qEhvUVPibr3yeFLSzi"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Judgment Bolt",
+        "url": "https://open.spotify.com/album/0A8BjjykKZ4Wdluecx0Vy6"
+      },
+      "artists": [
+        {
+          "name": "death's dynamic shroud",
+          "url": "https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c"
+        }
+      ],
+      "duration_ms": 272021,
+      "name": "Judgment Bolt",
+      "url": "https://open.spotify.com/track/1NgOE9DQOTnCKsxsfbksyt"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1515,42 +1515,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Glass Mind",
-        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Lavera",
-          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Glass Mind",
-      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Street Smarts",
-        "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
-      },
-      "artists": [
-        {
-          "name": "VHS LOGOS",
-          "url": "https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ"
-        }
-      ],
-      "duration_ms": 86400,
-      "name": "Telefunken",
-      "url": "https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Downpour",
         "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
       },
@@ -1571,18 +1535,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Into the light",
-        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
+        "name": "Glass Mind",
+        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
       },
       "artists": [
         {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        },
+        {
+          "name": "Lavera",
+          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
         }
       ],
-      "duration_ms": 83465,
-      "name": "Curves",
-      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
+      "duration_ms": 219428,
+      "name": "Glass Mind",
+      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1599,6 +1567,70 @@
       "duration_ms": 141666,
       "name": "\u8a69 Desktop",
       "url": "https://open.spotify.com/track/7nrBvBSt6NdhL3LO6P38gf"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Into the light",
+        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 83465,
+      "name": "Curves",
+      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Street Smarts",
+        "url": "https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp"
+      },
+      "artists": [
+        {
+          "name": "VHS LOGOS",
+          "url": "https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ"
+        }
+      ],
+      "duration_ms": 86400,
+      "name": "Telefunken",
+      "url": "https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Tupperwave",
+        "url": "https://open.spotify.com/album/0BU1e6MylDRU4UGGlXT3uX"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 166961,
+      "name": "Alliance Of Elegance",
+      "url": "https://open.spotify.com/track/1BEyLRogl5KlaTWxogZPH1"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+      },
+      "artists": [
+        {
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+        }
+      ],
+      "duration_ms": 193280,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/3oG6lhEpzL1Pq4pExi0nnJ"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1635,34 +1667,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Tupperwave",
-        "url": "https://open.spotify.com/album/0BU1e6MylDRU4UGGlXT3uX"
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/1RVY7CvOIuaG7tFYijBNXC"
       },
       "artists": [
         {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+          "name": "\u732b \u30b7 Corp.",
+          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
         }
       ],
-      "duration_ms": 166961,
-      "name": "Alliance Of Elegance",
-      "url": "https://open.spotify.com/track/1BEyLRogl5KlaTWxogZPH1"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Pok\u00e9wave III",
-        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
-      },
-      "artists": [
-        {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/3oG6lhEpzL1Pq4pExi0nnJ"
+      "duration_ms": 74000,
+      "name": "Aquascaping \u30d4\u30e9\u30df\u30c3\u30c9",
+      "url": "https://open.spotify.com/track/5EvSLbm4GtdLqe4FSCiQzk"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1703,22 +1719,6 @@
       "duration_ms": 231706,
       "name": "Weightless (Late Arcane Mix)",
       "url": "https://open.spotify.com/track/3lNVVmBxBh1wta2n2K2ij4"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Instance",
-        "url": "https://open.spotify.com/album/43PH4FXWlHY9IKQb05hT8c"
-      },
-      "artists": [
-        {
-          "name": "AURAGRAPH",
-          "url": "https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt"
-        }
-      ],
-      "duration_ms": 212910,
-      "name": "Instance",
-      "url": "https://open.spotify.com/track/3hQMvun87AnD0vROU4PGw2"
     },
     {
       "added_at": "2022-11-04 06:07:07",

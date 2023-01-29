@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 158002,
+  "num_followers": 158380,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MDQ4MywwMDAwMDAwMDUwZTJkM2QzOTE5MmU4NTRlOTIwNTA3MzczY2UwMzVj",
+  "snapshot_id": "MTY3MzU4MDQ4MywwMDAwMDAwMDUyNDI4M2M2YzEyN2NkMDkzMDAyMTNhMTg4NTIyNjg1",
   "tracks": [
     {
       "added_at": "2022-10-12 15:41:51",
@@ -687,22 +687,18 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
-        "name": "The Last Goodbye (feat. Bettye LaVette)",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+        "name": "Year of the Caprese",
+        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
         }
       ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye (feat. Bettye LaVette)",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+      "duration_ms": 323253,
+      "name": "Doses & Mimosas",
+      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
     },
     {
       "added_at": "2023-01-04 00:26:00",
@@ -727,18 +723,22 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
-        "name": "Year of the Caprese",
-        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
+        "name": "The Last Goodbye (feat. Bettye LaVette)",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
       "artists": [
         {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
         }
       ],
-      "duration_ms": 323253,
-      "name": "Doses & Mimosas",
-      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
+      "duration_ms": 358983,
+      "name": "The Last Goodbye (feat. Bettye LaVette)",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2022-10-12 15:41:51",
@@ -1067,30 +1067,6 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
-        "name": "It Don\u2019t Matter - Spotify Singles",
-        "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 173742,
-      "name": "It Don\u2019t Matter - Spotify Singles",
-      "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
-    },
-    {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
         "name": "El Sueno",
         "url": "https://open.spotify.com/album/67oNtjg4DE8CMeOtqcEwV7"
       },
@@ -1107,6 +1083,26 @@
       "duration_ms": 171428,
       "name": "El Sueno",
       "url": "https://open.spotify.com/track/4DndSKZKWXbbBxi5lO4QUP"
+    },
+    {
+      "added_at": "2022-10-12 15:41:51",
+      "album": {
+        "name": "We Love The Sun",
+        "url": "https://open.spotify.com/album/68dHtIw94SJ33SIBiT1rcK"
+      },
+      "artists": [
+        {
+          "name": "Jo.Ke",
+          "url": "https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7"
+        },
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        }
+      ],
+      "duration_ms": 562239,
+      "name": "Who Loves The Sun",
+      "url": "https://open.spotify.com/track/2u2aognU8U2C3bPJO5pVmz"
     }
   ],
   "unique_name": "Tulum Party",

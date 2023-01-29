@@ -1,28 +1,28 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 377248,
+  "num_followers": 377480,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg3ODYxMCwwMDAwMDAwMGJkMDA4YjA0MzYwYzk1YmQ4NDA4ZmE0ZDQ5MzZkMmNh",
+  "snapshot_id": "MTY3Mzg3ODYxMCwwMDAwMDAwMDZiZWY3MWM0NjdkMzU1M2EyNzc3OGRmN2VjNzFjOGI2",
   "tracks": [
     {
       "added_at": "2023-01-16 14:16:50",
       "album": {
-        "name": "Baby Girl",
-        "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
       },
       "artists": [
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 111074,
-      "name": "Baby Girl",
-      "url": "https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz"
+      "duration_ms": 237800,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
     },
     {
       "added_at": "2023-01-16 14:16:50",
@@ -83,18 +83,18 @@
     {
       "added_at": "2023-01-16 14:16:50",
       "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr"
+      "duration_ms": 111074,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz"
     },
     {
       "added_at": "2023-01-16 14:16:50",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-01-16 14:16:50",
       "album": {
-        "name": "The Ringmaster",
-        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 180842,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
-    },
-    {
-      "added_at": "2023-01-16 14:16:50",
-      "album": {
         "name": "Tell Me Something Good",
         "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 249678,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+    },
+    {
+      "added_at": "2023-01-16 14:16:50",
+      "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
     },
     {
       "added_at": "2023-01-16 14:16:50",

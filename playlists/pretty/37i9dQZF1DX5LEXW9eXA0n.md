@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: YESUNG\(예성\)\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,231 likes - 105 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,245 likes - 105 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

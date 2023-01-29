@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,784 likes - 36 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,787 likes - 36 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,6 +43,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 33 | [Unbroken](https://open.spotify.com/track/4NhpxU9W1NtpKTjjvhPvCw) | [Dillin Hoox](https://open.spotify.com/artist/5MGKryqtJfI7dlfJMTBQM0), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Sir Jax](https://open.spotify.com/artist/0QhGyoIiXPdih6B4K6lKNC) | [Valhalla](https://open.spotify.com/album/2mtXhQ7aX1uL8BJIhwyIce) | 3:31 |
 | 34 | [CLIMAX BULLETS](https://open.spotify.com/track/6Hmv7N9nVGPziEslVoHnoz) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:06 |
 | 35 | [MY FOOLISH STORY](https://open.spotify.com/track/23iNE27DugVD8N3LiLTdQF) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:54 |
-| 36 | [NO HOME NO COUNTRY](https://open.spotify.com/track/711S16U7t5IfpIUaIzvcp8) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY), [IMANI](https://open.spotify.com/artist/76aSCaut5ONWWE5btB4Kj8) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 5:30 |
+| 36 | [MELLOW CRUISE](https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:26 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDBiYzFlYzI0M2Q3OTFjM2I3M2MzNDM4ZGExZDk4ZGZjOQ==`
+Snapshot ID: `Mjc5MTUzMDksMDAwMDAwMDBhZWQ0YjVhYTI4YWY3NWMwYmFiNDhjYWViYmI1NmFiNQ==`

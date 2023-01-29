@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Fleshwater \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,353 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,393 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

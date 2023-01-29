@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-207 songs - 13 hr 55 min
+208 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [525 我愛我](https://open.spotify.com/track/6BaU3Y0Nj2iKFibce2iZB8) | [深白色二人組](https://open.spotify.com/artist/6n64O3TcrHboyT9eMrdjrb) | [525 我愛我](https://open.spotify.com/album/6tViJlPYLJ9rEgeCDN0mb4) | 3:33 | 2022-06-10 | 2022-06-17 |
 | [8:13 am](https://open.spotify.com/track/6AIVNYGmj0RTNo1W2zyXyI) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [真美](https://open.spotify.com/album/57LuWhd9WPHVinoiib12XU) | 3:38 | 2022-12-22 |  |
 | [Alone](https://open.spotify.com/track/0ttyX0bEgm5j8SZZpNJnLG) | [嘉瀅](https://open.spotify.com/artist/6eQpSg7pzvNrW3Cz1nAZKZ) | [Alone](https://open.spotify.com/album/5XI8QrO6CatDfP80ColUlg) | 3:24 | 2022-06-30 | 2022-07-07 |
+| [Back To You](https://open.spotify.com/track/7AdNz1VDHFE0MaVFtYd0ih) | [WayV\-KUN&XIAOJUN](https://open.spotify.com/artist/7zFc00w29Cz58QoSnIpIrT) | [Back To You](https://open.spotify.com/album/7pIR0hHMAMFyGlcBkryqRw) | 4:12 | 2023-01-26 |  |
 | [can't get over you](https://open.spotify.com/track/1S1crJ0Ebb2XOrhBCnlNGK) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [can't get over you](https://open.spotify.com/album/4suaGllpRZuppNF9VB36TZ) | 3:20 | 2023-01-12 | 2023-01-27 |
 | [dead.](https://open.spotify.com/track/0ma2s4vmheGBPxAHrI9mF9) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [真美](https://open.spotify.com/album/57LuWhd9WPHVinoiib12XU) | 3:20 | 2022-12-22 | 2023-01-06 |
 | [die.](https://open.spotify.com/track/08ChSalJt4JPWBdgaYXrOv) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [IKARUS](https://open.spotify.com/album/5uxcK6vD7C7VhA94J3jnmT) | 2:58 | 2022-12-15 | 2022-12-24 |
@@ -57,7 +58,7 @@
 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 | 2022-07-28 |  |
 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 | 2022-08-18 |  |
 | [你教會我的事](https://open.spotify.com/track/5qOii2BZ1rxAuWJi4L5jxk) | [深白色二人組](https://open.spotify.com/artist/6n64O3TcrHboyT9eMrdjrb) | [你教會我的事](https://open.spotify.com/album/4d6j6BEkdIC8uLB83XPpZY) | 4:15 | 2022-12-15 | 2022-12-24 |
-| [你是說謊的人](https://open.spotify.com/track/69OyZ8v2TYJDwcdYLYPSI0) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [好好對待她](https://open.spotify.com/album/4rJmTaA232von1xGH17Tsa) | 3:52 | 2022-10-17 |  |
+| [你是說謊的人](https://open.spotify.com/track/69OyZ8v2TYJDwcdYLYPSI0) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [好好對待她](https://open.spotify.com/album/4rJmTaA232von1xGH17Tsa) | 3:52 | 2022-10-17 | 2023-01-29 |
 | [你眼中](https://open.spotify.com/track/6ofDUkmtLvXt7V8c9T3don) | [Tamu](https://open.spotify.com/artist/3xIjuOns8fFFrtMu1uUA4k) | [你眼中](https://open.spotify.com/album/2vlt7uM67kyiqBFnmnPIMi) | 2:45 | 2022-06-10 | 2022-06-14 |
 | [你要的愛 \- 心動版](https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [你要的愛 \(心動版\)](https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a) | 3:55 | 2022-06-02 |  |
 | [你記得嗎](https://open.spotify.com/track/1cwxDaya6pbEyLN4VYmrKJ) | [楊培安](https://open.spotify.com/artist/5zxmrXIwrLuSfIJM3Dz6y1) | [回憶如歌](https://open.spotify.com/album/3JmCRfInp95OYw7bW9Ptlr) | 5:16 | 2022-06-10 | 2022-06-15 |

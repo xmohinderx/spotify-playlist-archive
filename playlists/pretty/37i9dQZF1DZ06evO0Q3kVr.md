@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 
 > This is Banda Bostik\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,178 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,179 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 | 46 | [Exeso de Droga](https://open.spotify.com/track/1JVc0G7dDEXJskkEcOD2Oa) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [20 Aniversario, Vol\. 2 \(Rock de la Banda para la Banda\)](https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC) | 7:06 |
 | 47 | [Hipotecados](https://open.spotify.com/track/7q8GWqCr3sAEp7Tgx1GURo) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Hipotecados](https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs) | 6:25 |
 | 48 | [Ave Nocturna](https://open.spotify.com/track/7ebnVkj8vrXaPD51rSw0ia) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 5:40 |
-| 49 | [Mi Mexico](https://open.spotify.com/track/57l5KhmbdK3w1YUijm3Mfj) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO), [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Mi Mexico](https://open.spotify.com/album/3shjxUJn5Xz1w9QlMtu9il) | 5:49 |
-| 50 | [Que Fácil](https://open.spotify.com/track/6BKgSJEwlxSGadurggJAPf) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 4:47 |
+| 49 | [Que Fácil](https://open.spotify.com/track/6BKgSJEwlxSGadurggJAPf) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 4:47 |
+| 50 | [Mi Mexico](https://open.spotify.com/track/57l5KhmbdK3w1YUijm3Mfj) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO), [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Mi Mexico](https://open.spotify.com/album/3shjxUJn5Xz1w9QlMtu9il) | 5:49 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDA1NGY5ZmUzYzczYjc5MGE2OGUxZGU0Mzk3YmVmMWI4MQ==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDBlNmUxNDI1NWMwMjQwYWMzN2JjZGUzNTU4M2FmMWYyZQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,575 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,649 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 36 | [Axel F](https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Axel F](https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ) | 3:13 |
 | 37 | [Believer](https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Believer](https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv) | 3:33 |
 | 38 | [Wake Me Up \- Hardstyle Remix](https://open.spotify.com/track/4IaI3OzwnVo6XyooQ0Rua0) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Patrick Lentz](https://open.spotify.com/artist/21uICil8mM128FNvcYJDv0) | [Wake Me Up \(Hardstyle Remix\)](https://open.spotify.com/album/0KWzjPlv7fx0JOuKrNledF) | 3:06 |
-| 39 | [Mariachi](https://open.spotify.com/track/2ZVtTaUteed56SesdREtsd) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Mariachi](https://open.spotify.com/album/0hSOqDjjVATkv1SgOKxsV0) | 2:28 |
-| 40 | [Liberté \- Sefa & Outsiders Remix](https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI) | [Parla & Pardoux](https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Liberté \(Sefa & Outsiders Remix\)](https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO) | 3:00 |
+| 39 | [Liberté \- Sefa & Outsiders Remix](https://open.spotify.com/track/3oNDynp3Y6F9NvCMqvoxYI) | [Parla & Pardoux](https://open.spotify.com/artist/3qt7yUEE6loq4FEGM7aw3M), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Liberté \(Sefa & Outsiders Remix\)](https://open.spotify.com/album/3p7eNUcZSoiMT4XPYr4doO) | 3:00 |
+| 40 | [Mariachi](https://open.spotify.com/track/2ZVtTaUteed56SesdREtsd) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Mariachi](https://open.spotify.com/album/0hSOqDjjVATkv1SgOKxsV0) | 2:28 |
 | 41 | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/track/5LjjFLhe4QChEtBCnZBn1O) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Hixxy](https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN), [Jelle van Dael](https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI) | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/album/1JLEsIAfoxoHV65Lq6NUAL) | 3:07 |
 | 42 | [Running up That Hill](https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Running up That Hill](https://open.spotify.com/album/3fXQstkVbMjTGkRPnfawhS) | 3:43 |
 | 43 | [Bonkerz](https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Bonkerz](https://open.spotify.com/album/5cLA1oOx6ltXJUivbd8Ybs) | 3:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 59 | [Shirt Off & Twist It](https://open.spotify.com/track/0G3wGKSz3Anx87GsRh0xJu) | [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Shirt Off & Twist It](https://open.spotify.com/album/2vPItAIuH8LxOlkxmbXMVo) | 2:45 |
 | 60 | [Never Alone \- Re\-Style Remix](https://open.spotify.com/track/06uht1keHAWyzBtdDIOgoe) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm), [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E) | [Never Alone \(Re\-Style Remix\)](https://open.spotify.com/album/60lF2PCjpf4rFnly1cJHrI) | 3:50 |
 
-Snapshot ID: `MTY3NDc3NDA2MCwwMDAwMDAwMDA1ZGI5MzI0YWU3NDU4NmJjNWFjOWM5MDliZTk2OWZh`
+Snapshot ID: `MTY3NDc3NDA2MCwwMDAwMDAwMDIwMDA0OGY4Nzg2ZDQzZWZlMTBhMmU5NTdmNzRlYmFl`

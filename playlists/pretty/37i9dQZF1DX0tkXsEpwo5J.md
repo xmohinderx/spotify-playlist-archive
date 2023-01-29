@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 
 > ¡Canciones para sonreír durante el día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,621 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,828 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 | 66 | [amable](https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [amable](https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec) | 3:18 |
 | 67 | [Mexico](https://open.spotify.com/track/3IMMZRr4Vvk3j9lJK5lH2J) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [A Boy from Colorado](https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK) | 2:08 |
 | 68 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 |
-| 69 | [Rocky Trail](https://open.spotify.com/track/0dFTHTWJ2YlcIHASP0BpJh) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 3:30 |
+| 69 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 |
 | 70 | [Lo Volvería](https://open.spotify.com/track/2IOSyg0w81fJnQbpmoseRf) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Lo Volvería](https://open.spotify.com/album/0hOgrkaHadHhWSUi7NoipS) | 3:48 |
 | 71 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 |
 | 72 | [Vivo](https://open.spotify.com/track/5IfhLKhOBkHazqaoqFzH8G) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 | 74 | [La Mujer Perfecta](https://open.spotify.com/track/5XR1WyZ0uOSHRNhP85QxT4) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:37 |
 | 75 | [Departamento](https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Departamento](https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj) | 3:54 |
 
-Snapshot ID: `MTY2MTUyODg2NywwMDAwMDAwMDE5MjNiZTk3MDk0MWRkZjA1MTFiNzRjNGVhMDY1NGE1`
+Snapshot ID: `MTY2MTUyODg2NywwMDAwMDAwMDY5ODMwNTRjZTE1MTVjOGY4YzdjZjBlNDM2NTYwNmI1`

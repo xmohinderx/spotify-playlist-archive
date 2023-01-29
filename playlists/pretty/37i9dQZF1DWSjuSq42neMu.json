@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 581456,
+  "num_followers": 582018,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE1MjQ0MCwwMDAwMDAwMDlkZTAyOTk0NzZhNTg4ZTM0MjJhYzZiODg0ODFmNTZh",
+  "snapshot_id": "MTY3NDE1MjQ0MCwwMDAwMDAwMDRhYjU0ZWYzNjE0YTAwZDQ2ZTg2Y2NhZGQ4MDNmMTc2",
   "tracks": [
     {
       "added_at": "2023-01-19 18:20:40",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-01-19 18:20:40",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 142576,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
-    },
-    {
-      "added_at": "2023-01-19 18:20:40",
-      "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 186426,
       "name": "Girl",
       "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
+    },
+    {
+      "added_at": "2023-01-19 18:20:40",
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 142576,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
     },
     {
       "added_at": "2023-01-19 18:20:40",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-01-19 18:20:40",
       "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
-    },
-    {
-      "added_at": "2023-01-19 18:20:40",
-      "album": {
         "name": "NASTU",
         "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 192352,
       "name": "Entre Nosotros",
       "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
+    },
+    {
+      "added_at": "2023-01-19 18:20:40",
+      "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2023-01-19 18:20:40",
@@ -955,22 +955,22 @@
     {
       "added_at": "2023-01-19 18:20:40",
       "album": {
-        "name": "Suelta",
-        "url": "https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe"
+        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
         },
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 243934,
-      "name": "Suelta",
-      "url": "https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY"
+      "duration_ms": 199994,
+      "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
     },
     {
       "added_at": "2023-01-19 18:20:40",
@@ -991,22 +991,22 @@
     {
       "added_at": "2023-01-19 18:20:40",
       "album": {
-        "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
-        "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
+        "name": "Suelta",
+        "url": "https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe"
       },
       "artists": [
         {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         },
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 199994,
-      "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
+      "duration_ms": 243934,
+      "name": "Suelta",
+      "url": "https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY"
     },
     {
       "added_at": "2023-01-19 18:20:40",
@@ -1503,30 +1503,6 @@
     {
       "added_at": "2023-01-19 18:20:40",
       "album": {
-        "name": "Aroma",
-        "url": "https://open.spotify.com/album/0dNJvHud3vFPVW48pOsFDC"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Aroma",
-      "url": "https://open.spotify.com/track/448oAggap8XbTa6TIOH6Kb"
-    },
-    {
-      "added_at": "2023-01-19 18:20:40",
-      "album": {
         "name": "Air Drop",
         "url": "https://open.spotify.com/album/3KxXkPVVFrxP8V11o3cgLf"
       },
@@ -1539,6 +1515,26 @@
       "duration_ms": 205565,
       "name": "Air Drop",
       "url": "https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid"
+    },
+    {
+      "added_at": "2023-01-19 18:20:40",
+      "album": {
+        "name": "Dime Cuantas Veces",
+        "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 213959,
+      "name": "Dime Cuantas Veces",
+      "url": "https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP"
     },
     {
       "added_at": "2023-01-19 18:20:40",
@@ -1567,22 +1563,26 @@
     {
       "added_at": "2023-01-19 18:20:40",
       "album": {
-        "name": "Dime Cuantas Veces",
-        "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
+        "name": "Aroma",
+        "url": "https://open.spotify.com/album/0dNJvHud3vFPVW48pOsFDC"
       },
       "artists": [
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         },
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 213959,
-      "name": "Dime Cuantas Veces",
-      "url": "https://open.spotify.com/track/4t8YQE2FIpTIq9SxeuOuuP"
+      "duration_ms": 189500,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/448oAggap8XbTa6TIOH6Kb"
     },
     {
       "added_at": "2023-01-19 18:20:40",

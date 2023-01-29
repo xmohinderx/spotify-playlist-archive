@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。cover: H ZETTRIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,125 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,153 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 23 | [La Ritournelle](https://open.spotify.com/track/4J5oY955l3aXEmOJ7KS5l1) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Revival](https://open.spotify.com/album/0T9WYNXV8oI1cd0pGachtb) | 4:34 |
 | 24 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 |
 | 25 | [Piece of cake](https://open.spotify.com/track/4kpdFbe0J0iYgRS245VDmd) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Piece of cake](https://open.spotify.com/album/3CRmlpT10DW8lsQ10gZzAA) | 2:50 |
-| 26 | [宵宵雪花](https://open.spotify.com/track/6iIxRqJjExIvewfqpOX8Bf) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [宵宵雪花](https://open.spotify.com/album/6JxehKWtAhIAiMWzkSpVrR) | 3:52 |
-| 27 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 |
+| 26 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 |
+| 27 | [宵宵雪花](https://open.spotify.com/track/6iIxRqJjExIvewfqpOX8Bf) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [宵宵雪花](https://open.spotify.com/album/6JxehKWtAhIAiMWzkSpVrR) | 3:52 |
 | 28 | [Sunday Morning](https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:59 |
 | 29 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
 | 30 | [3rd](https://open.spotify.com/track/1s7v6fKiwjEwfr5Zs47A10) | [河野祐亮ピアノトリオ](https://open.spotify.com/artist/092IE7fBMbMQLHhKgVPfPE), [河野祐亮](https://open.spotify.com/artist/6k7HOIGhoFAB6CHeElFDHD) | [3rd](https://open.spotify.com/album/0pYrvqsHxb63zU0wOZGikc) | 3:32 |
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 33 | [Nefertiti \- Cover](https://open.spotify.com/track/75PB98MZlJQVwTKgMF3RuE) | [shaku](https://open.spotify.com/artist/1OA0mEVSahhTbpSUjgdznO) | [Nefertiti](https://open.spotify.com/album/5crs3lym3GuXHXGlXOwK2c) | 8:19 |
 | 34 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 |
 | 35 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 |
-| 36 | [夜空からの来訪者](https://open.spotify.com/track/5tPF81ERdwsYA7VhV3lJT7) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [夜空からの来訪者](https://open.spotify.com/album/2AzD81GRzNTh234cFXEwgm) | 4:13 |
-| 37 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
-| 38 | [Extra Freedom](https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 6:19 |
-| 39 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
-| 40 | [Ain't No Sunshine](https://open.spotify.com/track/6lAiWBSXcW4vO25LckdYlN) | [Nautilus](https://open.spotify.com/artist/2jl9g1q4H325ckCuUkiuxq) | [Ain't No Sunshine](https://open.spotify.com/album/2w7eEW2NKU96lWMGqbgsNy) | 5:22 |
-| 41 | [エッグ・オン・ザ・ルーフ](https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Egg On The Roof](https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A) | 7:09 |
+| 36 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
+| 37 | [夜空からの来訪者](https://open.spotify.com/track/5tPF81ERdwsYA7VhV3lJT7) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [夜空からの来訪者](https://open.spotify.com/album/2AzD81GRzNTh234cFXEwgm) | 4:13 |
+| 38 | [エッグ・オン・ザ・ルーフ](https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Egg On The Roof](https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A) | 7:09 |
+| 39 | [Extra Freedom](https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 6:19 |
+| 40 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
+| 41 | [Ain't No Sunshine](https://open.spotify.com/track/6lAiWBSXcW4vO25LckdYlN) | [Nautilus](https://open.spotify.com/artist/2jl9g1q4H325ckCuUkiuxq) | [Ain't No Sunshine](https://open.spotify.com/album/2w7eEW2NKU96lWMGqbgsNy) | 5:22 |
 | 42 | [パスワード](https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK) | [M\-P\-C "Mentality, Physicality, Computer"](https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD) | 4:32 |
 | 43 | [Looking Back](https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [Looking Back / Paint It Black](https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH) | 3:41 |
 | 44 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 49 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 |
 | 50 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 |
 
-Snapshot ID: `MTY3NDU3MjQwMCwwMDAwMDAwMDhkZWNhMTNiOTUyNTAyZjhhMmM1YTJhMjQ1NGFkMWNi`
+Snapshot ID: `MTY3NDU3MjQwMCwwMDAwMDAwMDM5ZjYwMGQ3NDc0MWY4OGViNmViOGY4OTU5YTBmMTEy`

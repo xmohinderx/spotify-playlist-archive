@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 220383,
+  "num_followers": 220479,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjkyMCwwMDAwMDAwMGYxNTBlNDk2NGI1ZGJlOGY3MGE2OWFiNmM3ODNhM2Rh",
+  "snapshot_id": "MTY3MTE2NjkyMCwwMDAwMDAwMDk2ZmU4NTgyMWRlMWFkMGExNjFkNmQ0YzI5ZDc1OWEy",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "TAYA",
+        "url": "https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/1KqW4dtx6uns3I5R85LaPW"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Leave What's Lost Behind",
         "url": "https://open.spotify.com/album/7aYN3ImZcHkloKR4LGvHcV"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 223636,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/17P6kojDstdaw65xDCOARU"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "TAYA",
-        "url": "https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Carry Me Home",
-      "url": "https://open.spotify.com/track/1KqW4dtx6uns3I5R85LaPW"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Have A Little Faith",
-        "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
-      },
-      "artists": [
-        {
-          "name": "Newsong",
-          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
-        }
-      ],
-      "duration_ms": 159780,
-      "name": "Have A Little Faith",
-      "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Kyrie Eleison (It's Mercy We Need)",
         "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "HOPE OR NOSTALGIA LIVE",
-        "url": "https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0"
+        "name": "Have A Little Faith",
+        "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
       },
       "artists": [
         {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+          "name": "Newsong",
+          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
         }
       ],
-      "duration_ms": 189795,
-      "name": "Old Dreams - Live from Kansas City",
-      "url": "https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC"
+      "duration_ms": 159780,
+      "name": "Have A Little Faith",
+      "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Searching For",
-        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
+        "name": "HOPE OR NOSTALGIA LIVE",
+        "url": "https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0"
       },
       "artists": [
         {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
         }
       ],
-      "duration_ms": 255118,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
+      "duration_ms": 189795,
+      "name": "Old Dreams - Live from Kansas City",
+      "url": "https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -887,34 +871,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Not So Sure",
-        "url": "https://open.spotify.com/album/5G07grohgLghSWkFm8pjXo"
+        "name": "Searching For",
+        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
       },
       "artists": [
         {
-          "name": "Skye Peterson",
-          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
         }
       ],
-      "duration_ms": 210586,
-      "name": "Not So Sure",
-      "url": "https://open.spotify.com/track/0kRVQ6zabsGsj9tSyHp1zZ"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Mercy Shores",
-        "url": "https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "Mercy Shores",
-      "url": "https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo"
+      "duration_ms": 255118,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -935,6 +903,38 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Mercy Shores",
+        "url": "https://open.spotify.com/album/2hFkHnWuHRlxvtzMsOe5H7"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Mercy Shores",
+      "url": "https://open.spotify.com/track/2DfrxAll5ft3nKQNa6OKEo"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Not So Sure",
+        "url": "https://open.spotify.com/album/5G07grohgLghSWkFm8pjXo"
+      },
+      "artists": [
+        {
+          "name": "Skye Peterson",
+          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "Not So Sure",
+      "url": "https://open.spotify.com/track/0kRVQ6zabsGsj9tSyHp1zZ"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/6ReAgEGnlcVPWAoCHwMU8E"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 192086,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/3SE2OWRSRPwNtO3flHQOKv"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "hard to dream",
+        "url": "https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq"
+      },
+      "artists": [
+        {
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        }
+      ],
+      "duration_ms": 232061,
+      "name": "atlas",
+      "url": "https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -979,38 +995,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "hard to dream",
-        "url": "https://open.spotify.com/album/0QFiXNPL6xwYY6wYC8H1jq"
-      },
-      "artists": [
-        {
-          "name": "Paul Whitacre",
-          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
-        }
-      ],
-      "duration_ms": 232061,
-      "name": "atlas",
-      "url": "https://open.spotify.com/track/283U7PMWoZbPz8eUxPJ9ZS"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Angels vs Demons - Piano Version",
-      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "King of Victory",
         "url": "https://open.spotify.com/album/56V12Ppm9gzP0E4S8rFpY5"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 218853,
       "name": "King of Victory",
       "url": "https://open.spotify.com/track/6TWRgFPkaEQJrOSDissdhj"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/3sYjKGdSYoghebq89K5XlL"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Angels vs Demons - Piano Version",
+      "url": "https://open.spotify.com/track/71Ax2oi6fIzusCsdwyGZhE"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "No Greater Love",
-        "url": "https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg"
-      },
-      "artists": [
-        {
-          "name": "The Color",
-          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
-        }
-      ],
-      "duration_ms": 199306,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/4W9nKZkAvSjt15eHL8ek4k"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 226295,
       "name": "Friend",
       "url": "https://open.spotify.com/track/6bXXwtGF4YCO2e9QJtstQG"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "No Greater Love",
+        "url": "https://open.spotify.com/album/3IQc2Zlovy1REbisqTn1Wg"
+      },
+      "artists": [
+        {
+          "name": "The Color",
+          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
+        }
+      ],
+      "duration_ms": 199306,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7jkVWTVib0Acmmj0guHs6Z"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "whisper",
-        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
-      },
-      "artists": [
-        {
-          "name": "Sam Bowman",
-          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "whisper",
-      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Something to Say",
         "url": "https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 244172,
       "name": "Something to Say",
       "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "whisper",
+        "url": "https://open.spotify.com/album/0NhDwb4S51VP84jfOJXxM6"
+      },
+      "artists": [
+        {
+          "name": "Sam Bowman",
+          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "whisper",
+      "url": "https://open.spotify.com/track/5iCW4em6gVLIiSnbyUlzPF"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Crisis Of Faith",
-        "url": "https://open.spotify.com/album/1WUw7XicfoxqSif4iiFXOi"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "Crisis Of Faith",
-      "url": "https://open.spotify.com/track/6f6nJ6rTSOkv2FRFmUk6ha"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 232063,
       "name": "Worth",
       "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Crisis Of Faith",
+        "url": "https://open.spotify.com/album/1WUw7XicfoxqSif4iiFXOi"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Crisis Of Faith",
+      "url": "https://open.spotify.com/track/6f6nJ6rTSOkv2FRFmUk6ha"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Rapzilla.com Presents: Freshmen 2021",
+        "url": "https://open.spotify.com/album/4HtfMKAYg8lbnR1HKFZ03h"
+      },
+      "artists": [
+        {
+          "name": "tylerhateslife",
+          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
+        },
+        {
+          "name": "Coop",
+          "url": "https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP"
+        }
+      ],
+      "duration_ms": 141177,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/3QMmsuQyB2m4XAkM3VkKTR"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Leaving The 99 (Remix)",
         "url": "https://open.spotify.com/album/2QrCnGivrRzA59PhP0Qlze"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 234925,
       "name": "Can't Stop My Heart From Singing",
       "url": "https://open.spotify.com/track/1bnJ8q6aDWEYEgOQLgiBek"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Rapzilla.com Presents: Freshmen 2021",
-        "url": "https://open.spotify.com/album/4HtfMKAYg8lbnR1HKFZ03h"
-      },
-      "artists": [
-        {
-          "name": "tylerhateslife",
-          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
-        },
-        {
-          "name": "Coop",
-          "url": "https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP"
-        }
-      ],
-      "duration_ms": 141177,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/3QMmsuQyB2m4XAkM3VkKTR"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/6LdAJzqInYclAliXmazpE6"
-      },
-      "artists": [
-        {
-          "name": "Chase Wagner",
-          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
-        }
-      ],
-      "duration_ms": 248347,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/4LTe9CeE3UWwM4UyPaWfws"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Pulp",
         "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 239655,
       "name": "Pulp",
       "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/6LdAJzqInYclAliXmazpE6"
+      },
+      "artists": [
+        {
+          "name": "Chase Wagner",
+          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
+        }
+      ],
+      "duration_ms": 248347,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/4LTe9CeE3UWwM4UyPaWfws"
     },
     {
       "added_at": "2022-12-16 05:02:00",

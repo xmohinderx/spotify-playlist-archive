@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 
 > This is Ingrid Andress\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,168 likes - 25 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,181 likes - 25 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07shWw.md) - [plain]
 | 14 | [We're Not Friends](https://open.spotify.com/track/5rwrtdf4pjvaE96LiZ85KB) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:12 |
 | 15 | [Here For It \(feat\. Ingrid Andress\)](https://open.spotify.com/track/539AfK6L46AlSeQLKerleq) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 3:03 |
 | 16 | [How Honest Do You Want Me To Be?](https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 2:54 |
-| 17 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 |
+| 17 | [Any Day Now](https://open.spotify.com/track/3wFQdX3Uqlg1k9a27qcVnM) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [The Comeback \(Deluxe\)](https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J) | 3:13 |
 | 18 | [Both](https://open.spotify.com/track/1VZXhaEAeKUaSwUSocl2qp) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:23 |
-| 19 | [Any Day Now](https://open.spotify.com/track/3wFQdX3Uqlg1k9a27qcVnM) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [The Comeback \(Deluxe\)](https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J) | 3:13 |
+| 19 | [Feeling Things](https://open.spotify.com/track/5WgmV76XjrQ2ABWem3rTM1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:10 |
 | 20 | [No Choice](https://open.spotify.com/track/6JUUB5sWlJV3VSMhtqcnxg) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:53 |
-| 21 | [Boys](https://open.spotify.com/track/7vO6jY3bzXEMA5pPL3VRYT) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 2:43 |
-| 22 | [Life of the Party](https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 2:56 |
+| 21 | [Life of the Party](https://open.spotify.com/track/2Kj0CNt34RnYByxCYETiJv) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 2:56 |
+| 22 | [Boys](https://open.spotify.com/track/7vO6jY3bzXEMA5pPL3VRYT) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 2:43 |
 | 23 | [Yearbook](https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:32 |
 | 24 | [Falling For You](https://open.spotify.com/track/1WqmNnwx0aIEoEY8h3ayl1) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:39 |
 | 25 | [Talk](https://open.spotify.com/track/52nr0MLyxZwe6zcSo7Jfmr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 2:49 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDBhODZjZWU1ZTMwNGRkOGEyMTlkMjBmNDNmMjBkNDA4Nw==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDAwYmJjOTI5ZDU4MDAwYjU5ZWQ0NTdkZTQ0NDU3MTc4Nw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Mostro, Sacky, Néza, Mambo, Jamil, Diss Gacha e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,793 likes - 85 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,816 likes - 85 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 48 | [PRR PRR \#2](https://open.spotify.com/track/0KzwcPTbXLvlxyPpP7gmtj) | [LB Prada](https://open.spotify.com/artist/6iintLqFyDnREB4gTwQnrH) | [PRR PRR \#2](https://open.spotify.com/album/0ZKTAMmhZBW7LgoTn6b2Fi) | 1:38 |
 | 49 | [Stress](https://open.spotify.com/track/2OoVomVgOYBg27mYz77XJy) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [Roy Zen](https://open.spotify.com/artist/2azLwmHQ6KwyMFETQBsrLi) | [Stress](https://open.spotify.com/album/1bVla5Rx2wtWgKD7cP3bAw) | 2:58 |
 | 50 | [Ottocento](https://open.spotify.com/track/4eJK7cwS3tE19PeD4YALJD) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Ottocento](https://open.spotify.com/album/7m7ym6wmkm1Nb4heFdkCcO) | 2:36 |
-| 51 | [LA STREET 2](https://open.spotify.com/track/0p568GV6tejNE5EDJKbtgg) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN), [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1), [Dadinho](https://open.spotify.com/artist/0zw74GbIgk0thLlMGeQV2H), [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Dika](https://open.spotify.com/artist/1rBnd8KxDndiiiIyjOsFtw), [Demo](https://open.spotify.com/artist/0c9qC8OVZhP8Puh3TwaNWV) | [LA STREET 2](https://open.spotify.com/album/4oONBmO9AX2nGNqe9GMRU5) | 4:24 |
+| 51 | [LA STREET 2](https://open.spotify.com/track/6DgXLyJ1snzLk4wzqoZspb) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN), [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1), [Dadinho](https://open.spotify.com/artist/0zw74GbIgk0thLlMGeQV2H), [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Dika](https://open.spotify.com/artist/1rBnd8KxDndiiiIyjOsFtw), [Demo](https://open.spotify.com/artist/0c9qC8OVZhP8Puh3TwaNWV) | [DRILL LIFE 2](https://open.spotify.com/album/0lx0a5wDOZNDhDQiSzjs0Y) | 4:24 |
 | 52 | [Cecchino](https://open.spotify.com/track/3P8ZLsAr6ipegENB65REsp) | [Lucariello](https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9) | [Cecchino](https://open.spotify.com/album/50fluzx8dNhpcNYD13oOWW) | 2:36 |
 | 53 | [MON FRÈRE](https://open.spotify.com/track/0asWoyaaXT6epkNPPBZafV) | [Eris Gacha](https://open.spotify.com/artist/0CGxRo2G5p9IJn7U13ZBB2) | [MON FRÈRE](https://open.spotify.com/album/0ZNmo17Fggyeq9To4l203d) | 2:13 |
 | 54 | [GUERRA](https://open.spotify.com/track/1l1L3dTj4VkpB5oYFduKGu) | [Matto Llorar](https://open.spotify.com/artist/4NEmGznKcAVErjDkcrFH3l), [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [GUERRA](https://open.spotify.com/album/2GFZh6hkFCFQSaI6MOphzr) | 2:55 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [DRIN DRIN](https://open.spotify.com/track/612PXA92Q1NbUPQyASYQIr) | [SixOneSix](https://open.spotify.com/artist/5QK6u3vdOJBt4hJjJoYCLd), [Young AM](https://open.spotify.com/artist/2upvuqOIxuRf1vq9KsojFJ) | [DRIN DRIN](https://open.spotify.com/album/3mD0elMxiueTlKnDZJiyBQ) | 1:50 |
 | 85 | [L'attimo esatto](https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri) | [Storie d'amore con pioggia e altri racconti di rovesci e temporali \(Deluxe\)](https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa) | 3:45 |
 
-Snapshot ID: `MTY3NDc3NDQ3MCwwMDAwMDAwMDhmMzc4ZGM3ZWRhYzJmMzUyOTU3Mjg2ZWNiNzNmN2Q5`
+Snapshot ID: `MTY3NDc3NDQ3MCwwMDAwMDAwMDI5NDY5MTM2MTQzMjFmMGI3Yzc1Zjg1MjZiOWE2MTdh`

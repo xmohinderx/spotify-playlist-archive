@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today...featuring Drake, Lil Uzi Vert, and Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,185,122 likes - 87 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,185,591 likes - 87 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

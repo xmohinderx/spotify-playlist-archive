@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: Las Villa & Llane
 
-298 songs - 15 hr 10 min
+299 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [PobreDiablo \- Interlude](https://open.spotify.com/track/6FHySSMAlWOPH2TbzKEzRS) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PobreDiablo \(Interlude\)](https://open.spotify.com/album/1RgNyfYRFkoMGW3hLusIf2) | 2:14 | 2022-03-21 | 2022-05-07 |
 | [Poco a Poco](https://open.spotify.com/track/5QtfHuYdlivBEKmeMWSo9T) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG), [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [Poco a Poco](https://open.spotify.com/album/1XDc5KwuzjGvmsV4FAKHEl) | 4:30 | 2022-06-12 | 2022-10-29 |
 | [Poema](https://open.spotify.com/track/4ki07OxnhAu6PT5iViZxye) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT) | 2:35 | 2022-03-21 | 2022-04-02 |
+| [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-01-27 |  |
 | [Pq Mientes](https://open.spotify.com/track/1axFfn3zrfGlpuIrFUPONT) | [Bodine](https://open.spotify.com/artist/3l0RaT1QvO3sAHccHxZgy1) | [Celos](https://open.spotify.com/album/1j4mTBBcPXsWBr1XmMTnOK) | 2:27 | 2022-04-15 | 2022-07-09 |
 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 | 2022-06-12 | 2022-10-29 |
 | [Puñales](https://open.spotify.com/track/7M9dU6JqgKnGWGgkAoHD0m) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Puñales](https://open.spotify.com/album/5qhKAVJqruluLhgIe3wo1A) | 3:17 | 2022-03-21 | 2022-04-16 |
@@ -295,7 +296,7 @@
 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 | 2022-12-09 | 2023-01-15 |
 | [Un Dia a la Vez](https://open.spotify.com/track/4p4QQSwm5ZgqjaarGXyHPp) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Un Día a la Vez](https://open.spotify.com/album/74sRwZrCb4JgK2jWQ5TqiF) | 2:41 | 2022-10-28 | 2022-12-10 |
 | [VAIVÉN](https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU) | [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [VAIVÉN](https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8) | 3:38 | 2022-09-09 | 2022-10-29 |
-| [Vamos Pa la Playa](https://open.spotify.com/track/7u4iBYiUYBJNr10Ov2u4s9) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Vamos Pa la Playa](https://open.spotify.com/album/3WJUMEadyo3WnCQDQw6vLc) | 2:46 | 2022-12-09 |  |
+| [Vamos Pa la Playa](https://open.spotify.com/track/7u4iBYiUYBJNr10Ov2u4s9) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Vamos Pa la Playa](https://open.spotify.com/album/3WJUMEadyo3WnCQDQw6vLc) | 2:46 | 2022-12-09 | 2023-01-29 |
 | [Vientos De Octubre](https://open.spotify.com/track/4gkp9363KMagdNiJ5lJmVT) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9), [Javi Mendoza](https://open.spotify.com/artist/5uE0qYeF6eqoLgxLfDi3vl) | [Vientos De Octubre](https://open.spotify.com/album/3jU3G4fSqMKze4kZHTNdkG) | 3:22 | 2022-12-16 | 2023-01-14 |
 | [Volver a Casa](https://open.spotify.com/track/3NMJtDQ4TeOSC8vYNq8kP4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Volver a Casa](https://open.spotify.com/album/2xMEHlXjvlU6SoCogDKK5E) | 2:53 | 2022-09-23 | 2023-01-15 |
 | [vuelve](https://open.spotify.com/track/565mWLRnlRTcfGdruoxJbP) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [vuelve](https://open.spotify.com/album/5Lw8CZl4zZG5uMxvHeqJnE) | 3:21 | 2022-05-06 | 2022-06-18 |

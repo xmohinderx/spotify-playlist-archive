@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-292 songs - 19 hr 16 min
+293 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Lift Your Spirit](https://open.spotify.com/track/3xNTBhJ57eE1Vs8nwNHr4Q) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF) | 3:26 | 2021-11-10 | 2022-07-29 |
 | [Limbo](https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Limbo/Lagune](https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ) | 3:10 | 2021-11-10 | 2023-01-04 |
 | [Lipstick Lies](https://open.spotify.com/track/3tWmETuBoEWrdYWj1lV4LL) | [Julias Moon](https://open.spotify.com/artist/3hKKEBEqHescWFDhTRSRVg) | [Fake ID Heartbreak](https://open.spotify.com/album/3WJct8MWw1YrRzdKucOwm7) | 3:21 | 2021-11-10 | 2022-05-12 |
+| [Little Bit of Lovin](https://open.spotify.com/track/15iPPD2UhkZs71jPXG8a08) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Say Less](https://open.spotify.com/album/2VLY0KLCsRkanyaL5PSruh) | 2:52 | 2023-01-03 |  |
 | [Little Bit of Lovin](https://open.spotify.com/track/5l5wRXA7asTNjh3V0oNGPs) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Say Less](https://open.spotify.com/album/6BXDMsoy2zam0un1DTMp9U) | 2:52 | 2021-11-10 | 2023-01-02 |
 | [Loose Tonight](https://open.spotify.com/track/2nKgKHYLYnhzC1t3zvRzeL) | [Hips](https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP) | [Loose Tonight](https://open.spotify.com/album/4VOUTfka8VJP2aiHYDcP7D) | 4:32 | 2022-10-28 |  |
 | [Loose Tonight](https://open.spotify.com/track/3PE4AQbEvRXZf8Vdj1ph1V) | [Hips](https://open.spotify.com/artist/0m9ekHCOGq5A4NxMagH8wP) | [Loose Tonight](https://open.spotify.com/album/25zR8MQUJTJyj3TJecBRki) | 4:32 | 2021-11-10 | 2022-10-13 |
@@ -183,7 +184,7 @@
 | [My Jamaican Guy](https://open.spotify.com/track/7zcC5yZZp1IKnI73ztsIaE) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Living My Life](https://open.spotify.com/album/4EsGuoM79PDO7tQwqAwjKC) | 6:02 | 2022-06-03 | 2023-01-21 |
 | [My Sunny Day](https://open.spotify.com/track/42S4MmuWhMbR75RPKpIbYx) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [My Sunny Day](https://open.spotify.com/album/2VgKPs6EdAvOdySgcnMweQ) | 2:09 | 2021-12-10 | 2022-08-03 |
 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2021-11-10 |  |
-| [NEXT 2 U](https://open.spotify.com/track/5geBLKrGS8cApnGN5Ncs7L) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [NEXT 2 U](https://open.spotify.com/album/5JnTq3ZKNKGQ2FpuD4uMZn) | 2:49 | 2022-04-29 |  |
+| [NEXT 2 U](https://open.spotify.com/track/5geBLKrGS8cApnGN5Ncs7L) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [NEXT 2 U](https://open.spotify.com/album/5JnTq3ZKNKGQ2FpuD4uMZn) | 2:49 | 2022-04-29 | 2023-01-29 |
 | [Ngempela](https://open.spotify.com/track/0qsZe05lIq8zpmSR20Bafi) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Howard](https://open.spotify.com/artist/0aP1ZzvGhXjejlBmy1Gk6G) | [Ngempela](https://open.spotify.com/album/5NC1ZCp3uUgTSTS6Dt3gtB) | 3:47 | 2021-11-10 | 2022-07-29 |
 | [Ngempela \(feat, Howard\) \- Bonus Track](https://open.spotify.com/track/0QKJGz2aZfZzcjSfktQiDG) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Howard](https://open.spotify.com/artist/4i84mu5b6h1dGMZmUCoEV7) | [Isina Muva \(Gold Deluxe\)](https://open.spotify.com/album/7ne6pspiugeCQzVItPEmnn) | 3:48 | 2022-06-03 |  |
 | [No Pressure](https://open.spotify.com/track/5Sr3ppJ2yQEHPTjKPHbKuU) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [No Pressure](https://open.spotify.com/album/64aMsMjyIBGTpIIWSFg4p7) | 3:16 | 2021-11-10 |  |

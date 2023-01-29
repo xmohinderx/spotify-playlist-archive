@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Classic Latin tunes to get you in the Christmas spirit\. Cover: José Feliciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,827 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,801 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 31 | [Ya Se Ven las Bombillitas](https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 4:34 |
 | 32 | [Dios nos bendecirá](https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Mi Navidad \(Remastered\)](https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN) | 3:15 |
 | 33 | [Adeste Fideles](https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Posada](https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI) | 3:07 |
-| 34 | [Noche de Paz](https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Noche de Paz](https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW) | 3:41 |
-| 35 | [Jesús](https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [La Niña del Tambor](https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu) | 4:26 |
+| 34 | [Jesús](https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [La Niña del Tambor](https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu) | 4:26 |
+| 35 | [Noche de Paz](https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Noche de Paz](https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW) | 3:41 |
 | 36 | [Jingle Bell Rock](https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 2:28 |
 | 37 | [Más Allá \- Beyond](https://open.spotify.com/track/39hWBcO7wRuxaUF6iKc73q) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV) | 5:22 |
 | 38 | [Ya Viene la Vieja](https://open.spotify.com/track/37RZwbb0lxK7oPWs7YZopX) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Feliz Navidad](https://open.spotify.com/album/20bHfo0I3RXOt41LXqHzPE) | 2:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 49 | [Flamazo Navideño:](https://open.spotify.com/track/2q4Qi61qRZSMrgxm1UShXO) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Flamazo Navideno](https://open.spotify.com/album/3WJ8Xb2JXfhoJSa9QAm2Fo) | 15:39 |
 | 50 | [Cinco Pa' las 12](https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Cinco Pa' las 12](https://open.spotify.com/album/1b14IxxvdVhUXvDmEgAzp2) | 3:01 |
 
-Snapshot ID: `MTY3MTQ5MzgyMCwwMDAwMDAwMDFhYzBjMDgxMWIyYjcxOWZiNmY4MTEwOGI3YTY1Mzhk`
+Snapshot ID: `MTY3MTQ5MzgyMCwwMDAwMDAwMDY2MTM5NDU0ZDgxZjdkNjNlZmJmN2U3OTU3YmRlOTZl`

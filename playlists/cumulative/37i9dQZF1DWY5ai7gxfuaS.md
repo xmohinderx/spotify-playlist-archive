@@ -65,7 +65,7 @@
 | [Embersólyom \- Kaláka](https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Embersólyom \(Kaláka\)](https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp) | 4:17 | 2021-12-20 |  |
 | [Envy](https://open.spotify.com/track/6UHkVaXaIioxAFmXmOyRfW) | [Afterlife](https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX) | [Part Of Me](https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc) | 3:32 | 2022-07-26 |  |
 | [Envy](https://open.spotify.com/track/6gaiIOJF8LbjyvX7VKOLm8) | [Afterlife](https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX) | [Envy](https://open.spotify.com/album/1wJhK0tlMtM1c190rxaZCr) | 3:32 | 2021-12-20 | 2022-07-29 |
-| [EUGH!](https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx) | [SPIIRAL](https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC) | [EUGH!](https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X) | 1:22 | 2022-03-03 | 2023-01-27 |
+| [EUGH!](https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx) | [SPIIRAL](https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC) | [EUGH!](https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X) | 1:22 | 2022-03-03 |  |
 | [FAIRY METAL](https://open.spotify.com/track/0DKxrOrnZCgYZkEK4c0lPh) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/6kfLbgw7Urv2Kyd2xSJALA) | 2:41 | 2022-03-04 | 2022-07-29 |
 | [FAIRY METAL](https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ) | 2:41 | 2022-07-26 |  |
 | [FAIRY METAL](https://open.spotify.com/track/4ipbPgiF2y8XPXgIsJYu2x) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY METAL](https://open.spotify.com/album/7t7lPSTAUgWQKj3w2zXAk4) | 2:41 | 2022-09-29 | 2022-11-13 |
@@ -153,6 +153,6 @@
 | [WRAITH](https://open.spotify.com/track/78hZlTj2u4UeefGLPJKhUG) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [WRAITH](https://open.spotify.com/album/10JZyQw2rMA75MUEAxTTHy) | 3:19 | 2022-11-18 |  |
 | [Wrecked](https://open.spotify.com/track/23Ct1DllhsUlFtGn6iK59R) | [Zonal](https://open.spotify.com/artist/2FEWIj8qxL0aJKlH5QoOnt) | [Wrecked](https://open.spotify.com/album/7aMDk6WilYTrT8Jjtzv5lL) | 6:26 | 2021-12-20 | 2022-11-19 |
 | [Yuve Yuve Yu](https://open.spotify.com/track/6J2VvzKwWc2f0JP5RQVZjq) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Yuve Yuve Yu](https://open.spotify.com/album/2ot7qJ6yU06AkwkAn9xeoP) | 4:42 | 2021-12-20 |  |
-| [Zone Out](https://open.spotify.com/track/2qQ1siA0oNdASlmQO4Sp9d) | [STAKE](https://open.spotify.com/artist/5IhRC86twNb6XePyW4i05E) | [LOVE, DEATH and DECAY](https://open.spotify.com/album/3uOaDRKRilIlyyv06e38ho) | 4:51 | 2022-09-29 |  |
+| [Zone Out](https://open.spotify.com/track/2qQ1siA0oNdASlmQO4Sp9d) | [STAKE](https://open.spotify.com/artist/5IhRC86twNb6XePyW4i05E) | [LOVE, DEATH and DECAY](https://open.spotify.com/album/3uOaDRKRilIlyyv06e38ho) | 4:51 | 2022-09-29 | 2023-01-29 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

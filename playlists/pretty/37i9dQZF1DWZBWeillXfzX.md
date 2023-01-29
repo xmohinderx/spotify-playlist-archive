@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 
 > Blues guitar heroes of today\. Cover: Kirk Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,082 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,100 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,18 +25,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 15 | [I Want You](https://open.spotify.com/track/7LcaMnxskCb9tvxggOBR2O) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 6:27 |
 | 16 | [Spirit](https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 3:38 |
 | 17 | [You're Everything](https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk) | 6:05 |
-| 18 | [Rattlin' Change](https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 1:03 |
-| 19 | [Dirty](https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 3:27 |
+| 18 | [Dirty](https://open.spotify.com/track/0jx10sJgrjmXhDI14fBI79) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 3:27 |
+| 19 | [Rattlin' Change](https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 1:03 |
 | 20 | [Love Ain't My Favorite Word](https://open.spotify.com/track/7CPhvCVpEpZ6Xjvfs2EeG5) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:25 |
 | 21 | [Got to Get Up](https://open.spotify.com/track/4UPWcafmoDHKZziDsTumP3) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 2:37 |
 | 22 | [Nothing But The Night](https://open.spotify.com/track/2sF93cCZuKgRLfWF6dNtfE) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Lay It On Down](https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR) | 4:53 |
 | 23 | [Coming Back](https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Headway](https://open.spotify.com/album/0TjBV6tw18oKPHabWVArG3) | 2:58 |
 | 24 | [Coal Tattoo](https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Railroad Earth](https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y) | [Ashes & Dust](https://open.spotify.com/album/6y9X3ZKEa63FWjpoR3Km04) | 7:26 |
-| 25 | [Something's Gotta Give](https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [B\. Slade](https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH) | [The Bookends](https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU) | 4:19 |
+| 25 | [Watch It Die](https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 5:00 |
 | 26 | [Corporation](https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Boarding House Reach](https://open.spotify.com/album/6btUx9G2BPajQ7P6mpTxId) | 5:39 |
 | 27 | [Brown Gatton](https://open.spotify.com/track/1cIwLNrMYQ87bv1fEOZCme) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Still](https://open.spotify.com/album/4HxFvpLAqMnIoW172AyxQw) | 4:10 |
 | 28 | [Two Steps Forward](https://open.spotify.com/track/2HYvSsxyLiCMUMtM7ux8rd) | [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Hold On](https://open.spotify.com/album/0BfGpr0TSmGczrpxupv6yi) | 5:05 |
-| 29 | [Watch It Die](https://open.spotify.com/track/1zo9iSJu2FgklNDwRclVFq) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 5:00 |
+| 29 | [Something's Gotta Give](https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [B\. Slade](https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH) | [The Bookends](https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU) | 4:19 |
 | 30 | [Where Did I Go Wrong](https://open.spotify.com/track/7pi7XTGGaVBzrhlaYH97CV) | [Joey Landreth](https://open.spotify.com/artist/1n5S81eeVtaFs2vvo7p234) | [Hindsight](https://open.spotify.com/album/0HohoNniglpDithTFEnqaW) | 4:20 |
 | 31 | [Fade](https://open.spotify.com/track/2FqDzr86n4Q5Qjb1MoeEaV) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [How Long](https://open.spotify.com/album/65jsygceJoxSB3gGAPwAp6) | 4:10 |
 | 32 | [Here Comes the Flood](https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Blues](https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm) | 5:15 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBWeillXfzX.md) - [plain]
 | 46 | [Signs](https://open.spotify.com/track/6WwKPvUMydIJFX0QAZfHYj) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 5:35 |
 | 47 | [Shufflin' West Coast](https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Albert Lee](https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m), [Tim Pierce](https://open.spotify.com/artist/5ViJHAJBhLL7J9WNR1uPDN), [James Harrah](https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4), [Johnny Lee Schell](https://open.spotify.com/artist/5LAFSMKY4RMw192jHeaBRi), [Toshi Yanagi](https://open.spotify.com/artist/0H2cYrALxabRKcAJdF6EKj), [Michael Thompson](https://open.spotify.com/artist/3s4aVgqEf5mdv6ubR7nwfE), [Brent Mason](https://open.spotify.com/artist/1oO9xG0YRXpZdXseGgNlFk), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Shufflin' West Coast](https://open.spotify.com/album/0xU6562s9LeTyv9dvqFUw0) | 4:22 |
 | 48 | [Uprising](https://open.spotify.com/track/5XXZm9gKlhJYXONpvzPWQ1) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [The Outsider](https://open.spotify.com/album/1FhG7Y39Kl943GMX5ftL5I) | 3:36 |
-| 49 | [Backbone](https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Pressure](https://open.spotify.com/album/5iOzR7HQRJ47iJ6BTRhBEi) | 2:48 |
-| 50 | [Pusher](https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Over Your Head](https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c) | 6:28 |
+| 49 | [Pusher](https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Over Your Head](https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c) | 6:28 |
+| 50 | [Backbone](https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Pressure](https://open.spotify.com/album/5iOzR7HQRJ47iJ6BTRhBEi) | 2:48 |
 
-Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMDllZGFmNzU0Mzg4NjQwNTA5YzcwZjNkZTBkMGJhZDRk`
+Snapshot ID: `MTY2ODc0NzY2MCwwMDAwMDAwMGI0MDI1ZjNlZTFiYTU2MTVkNTNmNzUyY2NhZjgxMDlj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5ZhOMhIvZkv2S7fBPcxQ1t">Gloria Trevi </a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 18 | [Nos Volvimos Locos](https://open.spotify.com/track/5U44C9jqIDz5wdSUIOLnpA) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 2:56 |
 | 19 | [Despiértame](https://open.spotify.com/track/7qzvFgCueFG0T3qJDC4GlV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:20 |
 | 20 | [Yo Soy Su Vida](https://open.spotify.com/track/5KkXuQaCuB2tAGpCRY6suu) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Diosa De La Noche](https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q) | 3:39 |
-| 21 | [Inmortal](https://open.spotify.com/track/7GD5WRuBP0h3eDQxV6q8Im) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Amor](https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE) | 4:47 |
-| 22 | [Y Ahora Te Sorprendes](https://open.spotify.com/track/4HyPqj0BvhLpwnzf0VAYwD) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:36 |
+| 21 | [Y Ahora Te Sorprendes](https://open.spotify.com/track/4HyPqj0BvhLpwnzf0VAYwD) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:36 |
+| 22 | [Inmortal](https://open.spotify.com/track/7GD5WRuBP0h3eDQxV6q8Im) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Amor](https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE) | 4:47 |
 | 23 | [Como Si Fuera La Primera Vez Aka La Primera Vez](https://open.spotify.com/track/2pgrKsTEqeKrNlN1fZqs7c) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Amor](https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE) | 4:32 |
 | 24 | [La Recaída](https://open.spotify.com/track/43st7PU7lsyijDteZsNbXS) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Timo Nuñez](https://open.spotify.com/artist/3mBGlxPk87CGMb5So8yN9t) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:17 |
 | 25 | [Cómo Nace el Universo](https://open.spotify.com/track/61iFl8BwgJz0YhJBuChRGV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Como Nace El Universo](https://open.spotify.com/album/0NRY0pYDpVoxZWF4s3E2en) | 4:52 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 50 | [Ojos De Fuego](https://open.spotify.com/track/2CD3R2whD46r746lsyvfBc) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:20 |
 | 51 | [Aurora](https://open.spotify.com/track/3wUKXujHMVw2HzSEqTRMwe) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9) | 3:54 |
 
-Snapshot ID: `Mjc5MTQ0MDYsMDAwMDAwMDA2YzZiZmVjNDQzZWEzZDA0YWVhMDU4ZWYxOTVlNjYzYQ==`
+Snapshot ID: `Mjc5MTU4NDYsMDAwMDAwMDAxMGZiNTc4NTlmODJlYTI4YzU5ZWY2NjBkY2NiN2VlMA==`

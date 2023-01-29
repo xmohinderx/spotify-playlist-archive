@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-262 songs - 17 hr 19 min
+263 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [If you could see me now](https://open.spotify.com/track/4GsV07Q6UYJWVP0GdIrsHX) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Michelle](https://open.spotify.com/album/1kyRkGoAl8eNKQYe549dSU) | 4:32 | 2022-06-29 | 2023-01-18 |
 | [If You Could See Me Now](https://open.spotify.com/track/5ig6zG9Mpf9Y6PT9pRfSJA) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [If You Could See Me Now](https://open.spotify.com/album/2pNS32INlB1N89pSd0VeLm) | 4:15 | 2022-08-12 | 2023-01-20 |
 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 | 2022-06-29 |  |
-| [In the Blue of Evening](https://open.spotify.com/track/3a55Ev3zFKc3P3cNgCUGoq) | [Asi Kaplan Jazz Band](https://open.spotify.com/artist/2bQxNPjJdj06cHr6CWLjaO) | [In the Blue of Evening](https://open.spotify.com/album/0iOgj7a3X8cteCh1RrJbOr) | 5:50 | 2022-06-29 |  |
+| [In the Blue of Evening](https://open.spotify.com/track/3a55Ev3zFKc3P3cNgCUGoq) | [Asi Kaplan Jazz Band](https://open.spotify.com/artist/2bQxNPjJdj06cHr6CWLjaO) | [In the Blue of Evening](https://open.spotify.com/album/0iOgj7a3X8cteCh1RrJbOr) | 5:50 | 2022-06-29 | 2023-01-29 |
 | [In The Old Fashioned Way](https://open.spotify.com/track/2ExRtsNPSx1XupyPBq7Wtr) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [In The Old Fashioned Way](https://open.spotify.com/album/7hZ0nH506LaGxcYLxlb0ms) | 3:48 | 2023-01-12 |  |
 | [Independence Road](https://open.spotify.com/track/5N0y8OEkKUkiC8IhAWsFpm) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:02 | 2022-06-29 |  |
 | [Intangible](https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP) | [Coal Diamond Trio](https://open.spotify.com/artist/6jUiShUd9yRdlmPJlJgTad) | [Intangible](https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r) | 5:02 | 2022-06-29 |  |
@@ -140,6 +140,7 @@
 | [Lady Sings the Blues](https://open.spotify.com/track/3JlzYRcXGNW8Gay4WQdmZm) | [The Capital Club Trio](https://open.spotify.com/artist/5zYKDdUuVKola3uCqk6WeW) | [Beyond the Sea](https://open.spotify.com/album/1HemrEZkZ9CNgCXhUy7uih) | 4:30 | 2022-06-29 | 2023-01-15 |
 | [Last Time I Saw You](https://open.spotify.com/track/2Qyrr1fiYwV3bShAZqiivZ) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [Rue Saint\-Rustique](https://open.spotify.com/album/1IJrePjVbCWRK31hmKa3jB) | 3:55 | 2022-12-08 |  |
 | [Lazy Strut](https://open.spotify.com/track/5pavJrzDLfSRYMl62vfcIq) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Lazy Strut](https://open.spotify.com/album/1EgId70A7PePFMKuuJOyIF) | 3:24 | 2022-06-29 | 2022-11-13 |
+| [Let's go uptown](https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let's go uptown](https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3) | 2:20 | 2023-01-26 |  |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-06-29 |  |
 | [Lola and Kirby](https://open.spotify.com/track/1vQoF7wKfKt2WWIDePABo3) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 4:41 | 2022-09-29 |  |
 | [Long Ago \(and Far Away\)](https://open.spotify.com/track/3TiEf1n50RsKFERybqGm2s) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Long Ago \(and Far Away\)](https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr) | 3:29 | 2022-06-29 | 2022-11-25 |

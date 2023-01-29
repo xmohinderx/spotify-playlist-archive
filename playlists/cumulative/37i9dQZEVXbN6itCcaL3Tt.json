@@ -5974,7 +5974,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 261691,
       "name": "Etna",
       "url": "https://open.spotify.com/track/0Vw0IqBO1ocUQEnWAd3zhz"
@@ -6722,7 +6722,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-23",
+      "date_removed": null,
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
@@ -6802,7 +6802,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 178004,
       "name": "Ground Zero",
       "url": "https://open.spotify.com/track/5qBLfeAGlgGGsckKhsMWpF"
@@ -7418,7 +7418,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -8126,7 +8126,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 162935,
       "name": "Jakie To Uczucie?",
       "url": "https://open.spotify.com/track/1SDoIIjDCFjJuglM7qbIqf"
@@ -10304,7 +10304,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -11402,6 +11402,32 @@
       "duration_ms": 221853,
       "name": "millenium",
       "url": "https://open.spotify.com/track/5EUUrt6DYirGyFtm1tbOVp"
+    },
+    {
+      "album": {
+        "name": "Milord",
+        "url": "https://open.spotify.com/album/00vfJoOOPrJv7GRS1qcB6j"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Polski Bandyta",
+          "url": "https://open.spotify.com/artist/28sAoA15FJGXV5mkkEvNnb"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Milord",
+      "url": "https://open.spotify.com/track/5JAkf7fy1RpcHX2GdvYWG4"
     },
     {
       "album": {
@@ -13449,6 +13475,28 @@
     },
     {
       "album": {
+        "name": "OMDB",
+        "url": "https://open.spotify.com/album/03zp8p5p7Tv218sSXz4KIf"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Szamz",
+          "url": "https://open.spotify.com/artist/2rbgb3tDxDpfhaN10sQzzE"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147628,
+      "name": "OMDB",
+      "url": "https://open.spotify.com/track/5KAQJfejYiIa8M6Kyw6Xgr"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -13730,7 +13778,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 225767,
       "name": "ostatnia nadzieja",
       "url": "https://open.spotify.com/track/2KTfSSKBBfMLXwDqrtoOE5"
@@ -15935,6 +15983,24 @@
     },
     {
       "album": {
+        "name": "Prywatny bal",
+        "url": "https://open.spotify.com/album/2ADRJFVJslXpQQ6tjbq3UJ"
+      },
+      "artists": [
+        {
+          "name": "Cyrko",
+          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Prywatny bal",
+      "url": "https://open.spotify.com/track/2VYT8yaxvwXyRvAWZqM7Ws"
+    },
+    {
+      "album": {
         "name": "PRE-PRELUDIUM",
         "url": "https://open.spotify.com/album/23NCUsGSaosvX7mz8WTEu6"
       },
@@ -16076,6 +16142,40 @@
       "duration_ms": 182066,
       "name": "Przypadkiem",
       "url": "https://open.spotify.com/track/3RF2igIVJSCr19izf01C8h"
+    },
+    {
+      "album": {
+        "name": "Przyp\u0142yw",
+        "url": "https://open.spotify.com/album/3jP9BxMO2tMxb0A0daRajE"
+      },
+      "artists": [
+        {
+          "name": "club2020",
+          "url": "https://open.spotify.com/artist/1DjrwkyosB44sfSdm6fT6O"
+        },
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        },
+        {
+          "name": "Oskar83",
+          "url": "https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4"
+        },
+        {
+          "name": "Gruby Mielzky",
+          "url": "https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215454,
+      "name": "Przyp\u0142yw",
+      "url": "https://open.spotify.com/track/0sO777EtfmMVFQ3RdBPfhZ"
     },
     {
       "album": {
@@ -17884,7 +17984,7 @@
       ],
       "date_added": "2023-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -19327,6 +19427,28 @@
     },
     {
       "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
+    },
+    {
+      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -19342,7 +19464,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"

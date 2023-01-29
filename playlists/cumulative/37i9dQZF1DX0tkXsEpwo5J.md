@@ -4,7 +4,7 @@
 
 > ¡Canciones para sonreír durante el día!
 
-121 songs - 7 hr 4 min
+122 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 | 2021-11-26 |  |
 | [Quiero Sentirlo Todo](https://open.spotify.com/track/7DriJx4tYq3amdFXPwy9n5) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Quiero Sentirlo Todo](https://open.spotify.com/album/3yeYZPv55qzu06w19BOhpF) | 3:40 | 2021-11-26 |  |
 | [Quiero Verte Hoy](https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Quiero Verte Hoy](https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ) | 3:35 | 2021-11-26 |  |
-| [Rocky Trail](https://open.spotify.com/track/0dFTHTWJ2YlcIHASP0BpJh) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 3:30 | 2021-11-26 |  |
+| [Rocky Trail](https://open.spotify.com/track/0dFTHTWJ2YlcIHASP0BpJh) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m) | 3:30 | 2021-11-26 | 2023-01-29 |
+| [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 | 2022-08-26 |  |
 | [Sal de Mar](https://open.spotify.com/track/3b8WAuWj0MCKig7e5KV0YL) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sal de Mar](https://open.spotify.com/album/7A24Cw1BI1a7mjhTWGxLxn) | 4:27 | 2022-08-26 |  |
 | [Say Something](https://open.spotify.com/track/2kkGRB3PKYCAFGmaLsmIbd) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Say Something](https://open.spotify.com/album/1xhPkfU6a8YJiGdJdwx0Uy) | 3:32 | 2021-11-26 | 2022-08-03 |
 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 | 2022-08-02 |  |

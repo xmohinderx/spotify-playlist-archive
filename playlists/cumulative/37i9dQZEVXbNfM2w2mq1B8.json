@@ -238,6 +238,24 @@
     {
       "album": {
         "name": "7 Dni",
+        "url": "https://open.spotify.com/album/6FjH4zDKyAEV8dZgzcFXOK"
+      },
+      "artists": [
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "7 Dni",
+      "url": "https://open.spotify.com/track/1BnF35gLqCRWiTzSWgC9hK"
+    },
+    {
+      "album": {
+        "name": "7 Dni",
         "url": "https://open.spotify.com/album/0YQhcMLoLUsXyg2veNuj8H"
       },
       "artists": [
@@ -248,7 +266,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 229333,
       "name": "7 Dni",
       "url": "https://open.spotify.com/track/56dILgPraSNLKcd89hxXaq"
@@ -1281,6 +1299,28 @@
     },
     {
       "album": {
+        "name": "AZ I TI",
+        "url": "https://open.spotify.com/album/55dkDuUuTw5yRwu4Af9F6c"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227878,
+      "name": "AZ I TI",
+      "url": "https://open.spotify.com/track/62KyOwfvlqqeqdBfnxHcnF"
+    },
+    {
+      "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
       },
@@ -1988,7 +2028,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -4696,7 +4736,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 239888,
       "name": "Escapism. - Sped Up",
       "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
@@ -4766,6 +4806,24 @@
       "duration_ms": 221500,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6kN80cMcK1Gu1rJ82Xr6vt"
+    },
+    {
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/643Mnu3c84MNyeA3EmTSWY"
+      },
+      "artists": [
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221509,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/2iQsPf30mmAN7mkP0esv5y"
     },
     {
       "album": {
@@ -6194,7 +6252,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 198266,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6bnF93Rx87YqUBLSgjiMU8"
@@ -8468,7 +8526,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -10570,7 +10628,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
@@ -13658,7 +13716,7 @@
       ],
       "date_added": "2022-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 225957,
       "name": "Sladkoto zlo",
       "url": "https://open.spotify.com/track/16rryuFZpdvWzKllkUw0ri"
@@ -14355,6 +14413,24 @@
     },
     {
       "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186570,
+      "name": "Sugar Rush Ride",
+      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
+    },
+    {
+      "album": {
         "name": "SugarCrash!",
         "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
       },
@@ -14442,7 +14518,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
@@ -15486,7 +15562,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 199920,
       "name": "Too Many Nights (feat. Don Toliver & with Future)",
       "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
@@ -16013,6 +16089,28 @@
     },
     {
       "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
+    },
+    {
+      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -16028,7 +16126,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
@@ -19210,6 +19308,24 @@
       "duration_ms": 195428,
       "name": "\u0421\u043a\u0438\u0442\u043d\u0438\u043a",
       "url": "https://open.spotify.com/track/0RoJ4Ww6wiW0x7LdFScXnd"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043b\u0443\u0447\u043a\u0438",
+        "url": "https://open.spotify.com/album/0z4VnVhVYB1xY4zhCe51Cn"
+      },
+      "artists": [
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183707,
+      "name": "\u0421\u043b\u0443\u0447\u043a\u0438",
+      "url": "https://open.spotify.com/track/4U97MoTFXfiPXGZVin4Hj3"
     },
     {
       "album": {

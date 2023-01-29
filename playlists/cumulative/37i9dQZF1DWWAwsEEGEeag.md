@@ -4,7 +4,7 @@
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-125 songs - 7 hr 23 min
+126 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Mezcal](https://open.spotify.com/track/0nY56BAHCxcX7XVrcUG9dA) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Fièvre](https://open.spotify.com/album/6Df5Ml1ZfUVn1vfJEMULyl) | 3:52 | 2022-09-23 | 2022-11-13 |
 | [Mezcal](https://open.spotify.com/track/2jMl3KEBFAS0DUH3BvKtWX) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/1eczfsDtMYWKF0oW3pRZVo) | 3:52 | 2022-06-24 | 2022-10-14 |
 | [Mezcal](https://open.spotify.com/track/73R2AFv1uvr6mNgjmz36wx) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Mezcal](https://open.spotify.com/album/3C1VzCBBwR29j8w65cKsf8) | 3:52 | 2022-09-23 |  |
-| [Mon amour](https://open.spotify.com/track/07XcDj4hRVQi3jua32Oyns) | [De.Ville](https://open.spotify.com/artist/4R5VNdvB9gnzrDmoyTsjgr) | [Sables](https://open.spotify.com/album/0YgfWW9LpVzWojEzqgWovB) | 3:22 | 2022-06-24 |  |
+| [Mon amour](https://open.spotify.com/track/07XcDj4hRVQi3jua32Oyns) | [De.Ville](https://open.spotify.com/artist/4R5VNdvB9gnzrDmoyTsjgr) | [Sables](https://open.spotify.com/album/0YgfWW9LpVzWojEzqgWovB) | 3:22 | 2022-06-24 | 2023-01-29 |
+| [Mon amour](https://open.spotify.com/track/1Vw0a8mihDSOJLn1Xz8Wkz) | [De.Ville](https://open.spotify.com/artist/4R5VNdvB9gnzrDmoyTsjgr) | [Sables](https://open.spotify.com/album/1m9Y3hjCPoViOcc1RFJayY) | 3:22 | 2022-09-23 |  |
 | [Naoko](https://open.spotify.com/track/66pta58sZB4aTd1uiP3CrF) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Naoko](https://open.spotify.com/album/7MZeUpZOcGNI03TZdShTgp) | 2:46 | 2022-06-24 |  |
 | [No Mission](https://open.spotify.com/track/2qiKn7sxsU5ZW9Dca4uweM) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [No Mission](https://open.spotify.com/album/1gRkKQh0F7fC2cDLDEY8G0) | 5:17 | 2022-07-16 |  |
 | [No Mission](https://open.spotify.com/track/48fz7bg2bFw3ZKRyntS6SF) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [No Mission](https://open.spotify.com/album/2XTYzUdPEhMGd4hpoFaqLM) | 5:17 | 2022-06-24 | 2022-07-29 |

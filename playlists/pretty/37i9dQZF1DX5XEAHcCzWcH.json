@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 20321,
+  "num_followers": 20368,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDJlZDUzZjBiZWVkODRmMWI5ZWJmYTI5ZWQ5MzE3YjNl",
+  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDQxM2Q0MDY2MjdlZjNhNzcyMTUyZmYwNDA4MGE2YjI0",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -495,34 +495,34 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "The Chess Story 1947-1956",
+        "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
+      },
+      "artists": [
+        {
+          "name": "Little Johnny Jones",
+          "url": "https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4"
+        }
+      ],
+      "duration_ms": 175640,
+      "name": "Big Town Playboy",
+      "url": "https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Ragtime Guitar's Foremost Fingerpicker",
         "url": "https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN"
       },
       "artists": [
         {
           "name": "Blind Blake",
-          "url": "https://open.spotify.com/artist/3pgwVa1wjlIeAiWFhDZTka"
+          "url": "https://open.spotify.com/artist/6BPnOK73PfXm9Gd54NEOZ8"
         }
       ],
       "duration_ms": 193466,
       "name": "Hastings Street",
       "url": "https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "I've Got News For You",
-        "url": "https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl"
-      },
-      "artists": [
-        {
-          "name": "Hadda Brooks",
-          "url": "https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir"
-        }
-      ],
-      "duration_ms": 189146,
-      "name": "Anytime, Anyplace, Anywhere",
-      "url": "https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Chess Story 1947-1956",
-        "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
+        "name": "I've Got News For You",
+        "url": "https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl"
       },
       "artists": [
         {
-          "name": "Little Johnny Jones",
-          "url": "https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4"
+          "name": "Hadda Brooks",
+          "url": "https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir"
         }
       ],
-      "duration_ms": 175640,
-      "name": "Big Town Playboy",
-      "url": "https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8"
+      "duration_ms": 189146,
+      "name": "Anytime, Anyplace, Anywhere",
+      "url": "https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Blue Horizon Story (1965-1970)",
-        "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
-      },
-      "artists": [
-        {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "Empty Arms",
-      "url": "https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Blues Piano-Rama",
         "url": "https://open.spotify.com/album/1kVLClgeJAWwohZHPbqLGx"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 346786,
       "name": "The Blues Ain't Nothing",
       "url": "https://open.spotify.com/track/0kxvYuAulT8gtAJQMnM52H"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "The Blue Horizon Story (1965-1970)",
+        "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "Empty Arms",
+      "url": "https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx"
     },
     {
       "added_at": "2022-05-13 10:49:08",

@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Prince Royce
 
-282 songs - 17 hr 46 min
+283 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Es Tan Difícil](https://open.spotify.com/track/0Ihu6hcj4hrWVz22W3G10P) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Dime Que Falto](https://open.spotify.com/album/0mX3OGgKkGaFONpd2IfB1N) | 4:11 | 2022-03-04 |  |
 | [Eso Es Amor](https://open.spotify.com/track/3ZKJvmw8fTozLYGHbftkGn) | [Jiory](https://open.spotify.com/artist/4RLGPkFaRFlkPNFzVbcd6k) | [Eso Es Amor](https://open.spotify.com/album/1vqTyXMquKPCMAH5kU528d) | 3:52 | 2022-03-04 | 2022-09-03 |
 | [Fallarte Nunca](https://open.spotify.com/track/6dW8Tvo71KmXb2xOtsdyPF) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Fallarte Nunca](https://open.spotify.com/album/5oHC0YyRaiM4qkFCNp4Xgw) | 3:51 | 2022-03-04 | 2022-03-26 |
+| [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 | 2023-01-27 |  |
 | [Gitana](https://open.spotify.com/track/0yyKDrfEknsy7ECN3KMamX) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Gitana](https://open.spotify.com/album/2sBO1njBKIaiRyDLVh5jcW) | 4:29 | 2022-08-19 | 2022-09-03 |
 | [Hablame De Ti](https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Hablame De Ti](https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn) | 4:27 | 2022-09-09 |  |
 | [Hablamos En La Cama](https://open.spotify.com/track/6XsjNIGOFhgcyHDDAxieUi) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Hablamos En La Cama](https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap) | 4:00 | 2022-09-09 | 2023-01-08 |
@@ -273,7 +274,7 @@
 | [Tu Mundo Cambió](https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Tu Mundo Cambió](https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D) | 3:25 | 2022-09-09 |  |
 | [Tu Tienes Tu Vida](https://open.spotify.com/track/16tcEwwSVhMr4nENsq0Qe4) | [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [Tu Tienes Tu Vida](https://open.spotify.com/album/786RkvYJnMkMm9yLHgObfr) | 3:28 | 2022-03-25 | 2022-09-03 |
 | [Tu Veneno](https://open.spotify.com/track/42jedyDXAZydzL3OrslfUp) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Con El Corazón Abierto](https://open.spotify.com/album/0K9TfhxcGsjOBOLrf2C4Wj) | 3:40 | 2022-03-04 | 2022-09-03 |
-| [Tú y Yo](https://open.spotify.com/track/1zEYHf3IwnsTl5CihyAbcQ) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Love Is Back](https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf) | 3:30 | 2022-09-09 |  |
+| [Tú y Yo](https://open.spotify.com/track/1zEYHf3IwnsTl5CihyAbcQ) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Love Is Back](https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf) | 3:30 | 2022-09-09 | 2023-01-29 |
 | [Una Mentirita](https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Friends & Legends](https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1) | 3:37 | 2022-03-04 |  |
 | [Vagabundo, Borracho y Loco](https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq) | 4:29 | 2022-03-04 | 2022-07-29 |
 | [Vagabundo, Borracho y Loco](https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Directo Al Corazon](https://open.spotify.com/album/0QzvLqVXEsUWLIAh58WaXM) | 4:29 | 2022-07-19 |  |

@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: boygenius
 
-454 songs - 1 day 4 hr 27 min
+455 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Farm](https://open.spotify.com/track/0XYOOO2116SufLpAN4XYoC) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Farm b/w Lift](https://open.spotify.com/album/532dE80TPKy26bmbG0B7cv) | 4:43 | 2021-10-22 | 2022-07-29 |
 | [Favorite Part](https://open.spotify.com/track/5RjiNm4c0itCWYQQd3br2U) | [Anna Ash](https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw) | [Favorite Part / Popularity](https://open.spotify.com/album/4tRy1IKOZ6NHj9iaTyBlnj) | 3:17 | 2022-01-14 | 2022-07-29 |
 | [Fear & Force](https://open.spotify.com/track/5CAadCIjbkXYNgXvu3HQAE) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Fear & Force](https://open.spotify.com/album/1PRGATjFGfEYZTu2jLfKw1) | 3:33 | 2022-04-13 | 2022-04-20 |
+| [February](https://open.spotify.com/track/48kuo7N0uwtsMRJwdO9s7n) | [Complete Mountain Almanac](https://open.spotify.com/artist/4VBpeA30apDA7lpsay61FM), [Rebekka Karijord](https://open.spotify.com/artist/4oPxnYcUKmm0pH33ibXd6u), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf), [Jessica Dessner](https://open.spotify.com/artist/1j2GQSPTsa51lodwyvdKNm) | [February](https://open.spotify.com/album/7zGaWLANarUOQGucqCx9jK) | 5:10 | 2023-01-18 |  |
 | [Feel \- with Kyson](https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4) | [YUUL](https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Feel \(with Kyson\)](https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD) | 4:00 | 2022-01-14 |  |
 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 | 2021-10-22 |  |
 | [Fisher Island Sound](https://open.spotify.com/track/5F16DqcQbTuBTpzKjt5LCO) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Fisher Island Sound](https://open.spotify.com/album/7m9fOQhCj0noSv92E2XT9s) | 2:44 | 2022-01-14 |  |
@@ -189,7 +190,7 @@
 | [Heavenly Track](https://open.spotify.com/track/5DvUFbf59uy7DpiU4D3BBW) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Grenades](https://open.spotify.com/album/6Nqb3BPmH4xpzjqJs14W8a) | 3:00 | 2022-04-13 | 2022-04-21 |
 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 | 2021-10-22 | 2022-07-29 |
 | [Helena](https://open.spotify.com/track/5m6VfXYeZVBj5JDeaOlQMX) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Helena](https://open.spotify.com/album/4Vs0Yj81FkAjjTXtBTVEqC) | 2:47 | 2021-10-22 | 2023-01-19 |
-| [Hold My Hand](https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Hold My Hand](https://open.spotify.com/album/0CyBAwMsqEOxlyUMIMB2I4) | 5:01 | 2022-10-14 |  |
+| [Hold My Hand](https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Hold My Hand](https://open.spotify.com/album/0CyBAwMsqEOxlyUMIMB2I4) | 5:01 | 2022-10-14 | 2023-01-29 |
 | [Hollow](https://open.spotify.com/track/2RZKkkakd9ULBy58ffOAG4) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Ready Reckoner](https://open.spotify.com/album/6AIIp8Sg3vWyxpyoPc4Cfl) | 4:18 | 2021-10-22 | 2022-04-20 |
 | [Holy Rose](https://open.spotify.com/track/4RD0tyT7TfDyeLHJL0i420) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Holy Rose](https://open.spotify.com/album/4SEnNV8uDJVi1244tnjeEc) | 4:52 | 2021-10-22 | 2022-07-28 |
 | [House by the Sea](https://open.spotify.com/track/34Qk1WJ2ukktGOCNcRzxus) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Set the House on Fire](https://open.spotify.com/album/4jmVTmCZC64dy09Cg14Ujk) | 3:38 | 2022-06-24 |  |

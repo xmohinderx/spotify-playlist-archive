@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 393853,
+  "num_followers": 393829,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMGFmYTdlZDIzOGE5YmU2YzUzYWI2ZDc5YjRlZmIzZTlm",
+  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMGI0YWRjMWE2NWUzYWMwMWZiOWVmNTQ2OGIxZDczMzc3",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "Hallucination",
         "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 174794,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -619,30 +619,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Voodoo (with J Balvin & Tainy)",
-        "url": "https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 198130,
-      "name": "Voodoo (with J Balvin & Tainy)",
-      "url": "https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "So Sick",
         "url": "https://open.spotify.com/album/6dbogWoVfRDBIKDvnWY91y"
       },
@@ -671,6 +647,30 @@
       "duration_ms": 161125,
       "name": "Lay All Your Love On Me - Spotify Singles",
       "url": "https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Voodoo (with J Balvin & Tainy)",
+        "url": "https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 198130,
+      "name": "Voodoo (with J Balvin & Tainy)",
+      "url": "https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "NO MIENTEN",
-        "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 147395,
-      "name": "NO MIENTEN",
-      "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "I Swear",
         "url": "https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 131306,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "NO MIENTEN",
+        "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 147395,
+      "name": "NO MIENTEN",
+      "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
     },
     {
       "added_at": "2022-06-30 22:02:00",

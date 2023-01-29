@@ -1,12 +1,12 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 130196,
+  "num_followers": 130491,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQyMjkxOSwwMDAwMDAwMDY1Yzc1NTE4MTkyMjJiMWFhZjk4ZjgzYzc5YTZmMTE4",
+  "snapshot_id": "MTY3MjQyMjkxOSwwMDAwMDAwMGU0OWQ5MmE1ZTMyYWEyMjdiNzY0MjY2YjE0NzFhYTNi",
   "tracks": [
     {
       "added_at": "2022-12-30 17:55:19",
@@ -143,18 +143,18 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
+        "name": "El Indio Enamorado",
+        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
       },
       "artists": [
         {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 215169,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
+      "duration_ms": 188128,
+      "name": "El Indio Enamorado",
+      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -175,18 +175,18 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "El Indio Enamorado",
-        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
       },
       "artists": [
         {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
         }
       ],
-      "duration_ms": 188128,
-      "name": "El Indio Enamorado",
-      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
+      "duration_ms": 215169,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Fiesta Mexicana Con La Banda",
-        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "La ni\u00f1a fresa",
-      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
         "name": "Para Vivir Contigo",
         "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 155144,
       "name": "En La Barra",
       "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
+        "name": "Fiesta Mexicana Con La Banda",
+        "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "La ni\u00f1a fresa",
+      "url": "https://open.spotify.com/track/2nbq7IAJfYK9fuw5g2ePv3"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Debajo De Los Laureles",
-        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Los Recoditos",
-          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
-        }
-      ],
-      "duration_ms": 151742,
-      "name": "Debajo De Los Laureles",
-      "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
         "name": "Banda Cuisillos",
         "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 178590,
       "name": "Peque\u00f1a Orgullosa",
       "url": "https://open.spotify.com/track/01Ql3SAvnNIXQRO4Ajjwyl"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
+        "name": "Debajo De Los Laureles",
+        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Los Recoditos",
+          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
+        }
+      ],
+      "duration_ms": 151742,
+      "name": "Debajo De Los Laureles",
+      "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
+        "name": "Baila para M\u00ed",
+        "url": "https://open.spotify.com/album/3oPF99WsqhHc1CujeiGTrj"
+      },
+      "artists": [
+        {
+          "name": "Banda Cuisillos",
+          "url": "https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/1e1xg1VPnD0XQ1tRLZDdOj"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
         "name": "La reina de las bandas Vol. II",
         "url": "https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 178293,
       "name": "Si Tu Boquita Fuera",
       "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
-        "name": "Baila para M\u00ed",
-        "url": "https://open.spotify.com/album/3oPF99WsqhHc1CujeiGTrj"
-      },
-      "artists": [
-        {
-          "name": "Banda Cuisillos",
-          "url": "https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/1e1xg1VPnD0XQ1tRLZDdOj"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "De Parranda Con La Banda",
-        "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Que Solo Estoy Sin Ti",
-      "url": "https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
         "name": "Una Aventura",
         "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
+        "name": "De Parranda Con La Banda",
+        "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Que Solo Estoy Sin Ti",
+      "url": "https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
         "name": "Esa Chica Me Vacila",
         "url": "https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 215947,
       "name": "Esa Chica Me Vacila",
       "url": "https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Un loco solitario",
+      "url": "https://open.spotify.com/track/3UGGMTCBHy16YGzLbR3SeA"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -891,22 +907,6 @@
       "duration_ms": 169386,
       "name": "Un indio quiere llorar",
       "url": "https://open.spotify.com/track/2EiI77Zus1qAINPOxFTcyK"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/4HEcnwhFZEvZrOZjJr4hFe"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Un loco solitario",
-      "url": "https://open.spotify.com/track/3UGGMTCBHy16YGzLbR3SeA"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
         }
       ],
-      "duration_ms": 183186,
-      "name": "Arreando La Mula",
-      "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
+      "duration_ms": 171826,
+      "name": "El Bigote",
+      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Super Exitos",
-        "url": "https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0"
-      },
-      "artists": [
-        {
-          "name": "Vaquero's Musical",
-          "url": "https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "El Ranchero Chido",
-      "url": "https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
         "name": "La \u00danica",
         "url": "https://open.spotify.com/album/4P57WSgHURvfiwilKSOfzH"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
+        "name": "Super Exitos",
+        "url": "https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0"
+      },
+      "artists": [
+        {
+          "name": "Vaquero's Musical",
+          "url": "https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "El Ranchero Chido",
+      "url": "https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
         "name": "15 Grandes Exitos",
         "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
       },
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
         }
       ],
-      "duration_ms": 171826,
-      "name": "El Bigote",
-      "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
+      "duration_ms": 183186,
+      "name": "Arreando La Mula",
+      "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh"
+      },
+      "artists": [
+        {
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+        }
+      ],
+      "duration_ms": 137893,
+      "name": "Hablando Claro",
+      "url": "https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
         "name": "Nos Pertenecemos",
         "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 221857,
       "name": "Solo T\u00fa",
       "url": "https://open.spotify.com/track/7cA72Gk1dqN6w5j0azVHYR"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh"
-      },
-      "artists": [
-        {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
-        }
-      ],
-      "duration_ms": 137893,
-      "name": "Hablando Claro",
-      "url": "https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
+      },
+      "artists": [
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 227311,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
         "name": "Borracho Morir\u00e9",
         "url": "https://open.spotify.com/album/218YhYSDLhxFPmcjUpDc8G"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 151346,
       "name": "El An\u00f3nimo",
       "url": "https://open.spotify.com/track/2JI8AKFPOO4y9BSLCeU1Ex"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
-        "name": "Africanos Al Ataque",
-        "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
-      },
-      "artists": [
-        {
-          "name": "Banda Torera Del Valle",
-          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "Ll\u00e9vame Rosas Y Olvida",
-      "url": "https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
+        "name": "Africanos Al Ataque",
+        "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
       },
       "artists": [
         {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
         }
       ],
-      "duration_ms": 227311,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow"
+      "duration_ms": 205635,
+      "name": "Ll\u00e9vame Rosas Y Olvida",
+      "url": "https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Nos Pertenecemos",
-        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
       },
       "artists": [
         {
-          "name": "Banda Torera Del Valle",
-          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
         }
       ],
-      "duration_ms": 235554,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL"
+      "duration_ms": 175995,
+      "name": "El Baile Nuevo",
+      "url": "https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
+        "name": "Nos Pertenecemos",
+        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
       },
       "artists": [
         {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
         }
       ],
-      "duration_ms": 175995,
-      "name": "El Baile Nuevo",
-      "url": "https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ"
+      "duration_ms": 235554,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "La Otra Cara De La Moneda",
-        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Comp\u00e1rame",
-      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
         "name": "Todo Depende De Ti",
         "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 197946,
       "name": "Tu Historia Fue Conmigo",
       "url": "https://open.spotify.com/track/3E3HYSdWWnQ2b964rTHKJg"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
+        "name": "La Otra Cara De La Moneda",
+        "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Comp\u00e1rame",
+      "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
     },
     {
       "added_at": "2022-12-30 17:55:19",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2022-12-30 17:55:19",
       "album": {
-        "name": "Banda Cuisillos",
-        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
-      },
-      "artists": [
-        {
-          "name": "Banda Cuisillos",
-          "url": "https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX"
-        }
-      ],
-      "duration_ms": 174265,
-      "name": "C\u00f3mo Sufro",
-      "url": "https://open.spotify.com/track/2AAsziSTEQoTMIyXAunJbY"
-    },
-    {
-      "added_at": "2022-12-30 17:55:19",
-      "album": {
         "name": "Con la N\u00famero 1: 13 Rancheras y Cumbias",
         "url": "https://open.spotify.com/album/2wpgtaMNbDEOs6Woe0PUhk"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 177800,
       "name": "Fue Tan Poco Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/6qm7ozFRARBhjOfvhygUNn"
+    },
+    {
+      "added_at": "2022-12-30 17:55:19",
+      "album": {
+        "name": "Banda Cuisillos",
+        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
+      },
+      "artists": [
+        {
+          "name": "Banda Cuisillos",
+          "url": "https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX"
+        }
+      ],
+      "duration_ms": 174265,
+      "name": "C\u00f3mo Sufro",
+      "url": "https://open.spotify.com/track/2AAsziSTEQoTMIyXAunJbY"
     }
   ],
   "unique_name": "Banda: Viejitas Pero Bonitas",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Los Primos del Este en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,791 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,137 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 34 | [Ahora Bailas Con Él](https://open.spotify.com/track/5yPI7QUoey5bpyGhecujrR) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Ahora Bailas Con Él](https://open.spotify.com/album/0vZ4LGuN4iAvFp8LzRlTrb) | 4:20 |
 | 35 | [Pistie Tu Recuerdo](https://open.spotify.com/track/5edYmfswIoo71qY54fKpJx) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [DEL Records Presenta: Por Causa DEL Amor](https://open.spotify.com/album/5C9kXIfkA9DMLQXfWsbYC9) | 3:09 |
 | 36 | [Me Dejaste en Cero](https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Dejaste en Cero](https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv) | 3:20 |
-| 37 | [solo](https://open.spotify.com/track/3Ca34mFUBOXwWhWxfOsUv3) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [solo](https://open.spotify.com/album/7GqXnEzfhxnXYFdutyomuG) | 3:48 |
+| 37 | [solo](https://open.spotify.com/track/46CDWM2aCya6puIqIGaVaZ) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [solo](https://open.spotify.com/album/7r0ywAV1jtYvJGiFYqrQeZ) | 3:48 |
 | 38 | [La Realidad](https://open.spotify.com/track/4EIORNEyx8Ig5zK636Ghvl) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz) | [Noches Tristes](https://open.spotify.com/album/7ij7G7ihXtmrFey0lLllDa) | 4:21 |
 | 39 | [Despues De Ti](https://open.spotify.com/track/3NvmjLWLihMep2IXcm9TuF) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Despues De Ti](https://open.spotify.com/album/3mhfl1thpSC4HEvooCfwqx) | 2:15 |
 | 40 | [Maldito Olvido](https://open.spotify.com/track/4A75U7EeJPMcY0e2k0AdRB) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF), [Reflejo Nuevo](https://open.spotify.com/artist/5HOOxSdjMwgdg5jKIzHAU9) | [Maldito Olvido](https://open.spotify.com/album/2FQl8STaVhL0j6ph9zIsPS) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Era El Único](https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Era El Único](https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I) | 2:10 |
 | 50 | [Mi Soledad](https://open.spotify.com/track/77sMV8IQQb8azd7v3ZAtvC) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [INERCIA](https://open.spotify.com/album/18FytbcvGlN2wufzYgjc8l) | 3:40 |
 
-Snapshot ID: `MTY3NDc5OTIwMCwwMDAwMDAwMDAxZTA5M2Y4ODc2MmMyZDY1N2ExN2RlZmFhNjZiNTdi`
+Snapshot ID: `MTY3NDc5OTIwMCwwMDAwMDAwMDY3ZjgyNjdmYTFlYTgyMDIxYjIzMzViZmNkZTVmM2Yz`

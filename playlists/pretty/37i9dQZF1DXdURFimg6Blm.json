@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 409186,
+  "num_followers": 409371,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDJhODc5NTNhOTVhMDEyYTlmMzMxYzk0Y2IwMDhjM2Zk",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGQzZTgyNmU0NjBjZDhkMWI3ODhkYWU4OTQ5ZWJlNGQx",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "In The Yuma (feat. Aatig)",
-        "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 156215,
-      "name": "In The Yuma (feat. Aatig)",
-      "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 274141,
       "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "In The Yuma (feat. Aatig)",
+        "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 156215,
+      "name": "In The Yuma (feat. Aatig)",
+      "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -711,22 +711,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 188731,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -751,18 +747,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+      "duration_ms": 188731,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 145666,
+      "name": "MONEY ON THE DASH",
+      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Get Up Off The Floor",
         "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
       },
@@ -1167,22 +1187,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "I FEEL LIKE DANCING",
-        "url": "https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 225681,
-      "name": "I FEEL LIKE DANCING",
-      "url": "https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Wings (I Won't Let You Down)",
         "url": "https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS"
       },
@@ -1203,22 +1207,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "MONEY ON THE DASH",
-        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+        "name": "I FEEL LIKE DANCING",
+        "url": "https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi"
       },
       "artists": [
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         }
       ],
-      "duration_ms": 145666,
-      "name": "MONEY ON THE DASH",
-      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
+      "duration_ms": 225681,
+      "name": "I FEEL LIKE DANCING",
+      "url": "https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 201259,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Loop",
         "url": "https://open.spotify.com/album/1KNHmfZjkA5Fq52nfOK0sW"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 190560,
       "name": "Loop",
       "url": "https://open.spotify.com/track/0lqgo6rIBS0nVsvppZC3Ay"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/77jDTOiz2yoBETypeoYgza"
-      },
-      "artists": [
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 201259,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/2YUVIkvZ2tPEZYTepX6oT9"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/3NY5MKyBEE0w2ZGQrANjHQ"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 165857,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/21LTZZP3cRDzVFKmvDEtZt"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "God On The Weekend",
         "url": "https://open.spotify.com/album/6DvTyfqkhpuCdKKMSPFVnb"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 180231,
       "name": "God On The Weekend",
       "url": "https://open.spotify.com/track/2x5nPvRLL92jXFvpfkIBLh"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/3NY5MKyBEE0w2ZGQrANjHQ"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "duration_ms": 165857,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/21LTZZP3cRDzVFKmvDEtZt"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Feel Again, Pt. 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        }
-      ],
-      "duration_ms": 130412,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 225346,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Feel Again, Pt. 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "duration_ms": 130412,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL"
     },
     {
       "added_at": "2023-01-27 05:00:00",

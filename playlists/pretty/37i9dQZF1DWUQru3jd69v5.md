@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Néza
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,544 likes - 60 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,568 likes - 60 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 24 | [CC BÉBÉ](https://open.spotify.com/track/7afJp7m2tpNGMkpqF6gmpd) | [Pikasso](https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD) | [CC BÉBÉ](https://open.spotify.com/album/35TYvx8jmwIH4wFnQKytxs) | 2:38 |
 | 25 | [Problèmes](https://open.spotify.com/track/6wdpb17i1FDIexi6x1vTke) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Problèmes](https://open.spotify.com/album/4TgBFy1SSFw7m5lhx2wut6) | 2:19 |
 | 26 | [Non è un gioco](https://open.spotify.com/track/5ie6qbpqdvq637m91zl4an) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ) | [Non è un gioco](https://open.spotify.com/album/3PbWmisvxgnTLY0ZX094aM) | 2:12 |
-| 27 | [LA STREET 2](https://open.spotify.com/track/0p568GV6tejNE5EDJKbtgg) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN), [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1), [Dadinho](https://open.spotify.com/artist/0zw74GbIgk0thLlMGeQV2H), [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Dika](https://open.spotify.com/artist/1rBnd8KxDndiiiIyjOsFtw), [Demo](https://open.spotify.com/artist/0c9qC8OVZhP8Puh3TwaNWV) | [LA STREET 2](https://open.spotify.com/album/4oONBmO9AX2nGNqe9GMRU5) | 4:24 |
+| 27 | [LA STREET 2](https://open.spotify.com/track/6DgXLyJ1snzLk4wzqoZspb) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN), [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1), [Dadinho](https://open.spotify.com/artist/0zw74GbIgk0thLlMGeQV2H), [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Dika](https://open.spotify.com/artist/1rBnd8KxDndiiiIyjOsFtw), [Demo](https://open.spotify.com/artist/0c9qC8OVZhP8Puh3TwaNWV) | [DRILL LIFE 2](https://open.spotify.com/album/0lx0a5wDOZNDhDQiSzjs0Y) | 4:24 |
 | 28 | [Tookie Williams \(3/3\)](https://open.spotify.com/track/0byOney03xKL4Ze0RR18nJ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Tookie Williams \(3/3\)](https://open.spotify.com/album/7ehWKXdXES5KOnM5sSCOjE) | 2:33 |
 | 29 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 |
 | 30 | [Capotavolo](https://open.spotify.com/track/3zSA43fLbKDNjRhgBgRKPA) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [47Milano](https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1) | [Capotavolo](https://open.spotify.com/album/6e78WCwUIiJqp4oMkUiBz2) | 1:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 59 | [Girasoli](https://open.spotify.com/track/0R3mKyXfjBEhuDd4kve9XY) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Girasoli](https://open.spotify.com/album/0MTzddCkOU8eNKBZ3DOOg9) | 2:43 |
 | 60 | [ABC](https://open.spotify.com/track/3xjRhNob5rFbDxweCrLvio) | [Luna](https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw) | [ABC](https://open.spotify.com/album/7IlpOV61uPQtUhq2Lqs7gV) | 2:16 |
 
-Snapshot ID: `MTY3NDc3NDA2MCwwMDAwMDAwMGU0OTE3Y2RlZWQ1ODhhMzU0YzE0OWVkZTJmYmFhNWZj`
+Snapshot ID: `MTY3NDc3NDA2MCwwMDAwMDAwMGJkYWNiYjAxZWNiODMyZjc2NzI3ZTg1NTQ3MTdhNGM1`

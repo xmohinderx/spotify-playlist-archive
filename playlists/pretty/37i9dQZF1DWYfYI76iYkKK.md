@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,781 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,836 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 40 | [裝幀](https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [裝幀](https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6) | 4:05 |
 | 41 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
 | 42 | [不用告訴我 \- 東森戲劇台韓劇「巧克力」片尾曲](https://open.spotify.com/track/1GWsEPe6pIYlqrNFEMExdX) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Sounds of My Life](https://open.spotify.com/album/2LmBCs61pclie64NIWqPWS) | 4:28 |
-| 43 | [我多想變成她](https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [偏偏我卻都記得](https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5) | 4:47 |
-| 44 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 |
-| 45 | [為什麼只留下我一個](https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [為什麼只留下我一個](https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL) | 3:46 |
+| 43 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 |
+| 44 | [為什麼只留下我一個](https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [為什麼只留下我一個](https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL) | 3:46 |
+| 45 | [我多想變成她](https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [偏偏我卻都記得](https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5) | 4:47 |
 | 46 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
-| 47 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 |
-| 48 | [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 |
+| 47 | [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 |
+| 48 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 |
 | 49 | [最美的問候\-小V之歌](https://open.spotify.com/track/7c9R1ewxKUIMsU5QrWlwPi) | [品冠 feat\. Jayden](https://open.spotify.com/artist/5OT2MWZROTF7BxFIAUeDyt), [Jayden Wong](https://open.spotify.com/artist/2yTm58eD41vWmwkv56AZe9) | [最美的問候\-小V之歌](https://open.spotify.com/album/20YZFuK2CKA2HcSw3nZYDu) | 3:41 |
-| 50 | [你是說謊的人](https://open.spotify.com/track/69OyZ8v2TYJDwcdYLYPSI0) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [好好對待她](https://open.spotify.com/album/4rJmTaA232von1xGH17Tsa) | 3:52 |
+| 50 | [Back To You](https://open.spotify.com/track/7AdNz1VDHFE0MaVFtYd0ih) | [WayV\-KUN&XIAOJUN](https://open.spotify.com/artist/7zFc00w29Cz58QoSnIpIrT) | [Back To You](https://open.spotify.com/album/7pIR0hHMAMFyGlcBkryqRw) | 4:12 |
 
-Snapshot ID: `MTY3NDc0ODgwMCwwMDAwMDAwMGE5NzJlYjgzNmUxZDI5N2FkNjY1NDY2OTRhMDEwOGE1`
+Snapshot ID: `MTY3NDc0ODgwMCwwMDAwMDAwMGNiNjg4YWYwNjQ1ZDAzYjg5MWEyM2ZkYTU0ZjFlNzVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Tom Misch
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,764 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,783 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 5 | [Pure Imagination](https://open.spotify.com/track/3VtDoxZ7IztQVQAomuXqWC) | [Ruben Wan](https://open.spotify.com/artist/5bYwZAV9K923kEHW1Yhol5) | [Pure Imagination](https://open.spotify.com/album/2genDz0QoWigwoBg202foH) | 2:06 |
 | 6 | [I Wish](https://open.spotify.com/track/79IirvCpDrry68JTKlmQdU) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [I Wish](https://open.spotify.com/album/3LaOgyaShyrdyet6ftXxDy) | 3:48 |
 | 7 | [Suspended](https://open.spotify.com/track/38K8mmhKeQ5A15xFZOeYzA) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Suspended](https://open.spotify.com/album/4e1u1Z1IvPsdH15Qd0gY6L) | 2:10 |
-| 8 | [Sunn](https://open.spotify.com/track/4ZAA5ABChC3NtSGNvXsMGV) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Flutter](https://open.spotify.com/album/0AIhIiAotftWvQlP0qXyuu) | 2:36 |
+| 8 | [Sunn](https://open.spotify.com/track/5dqMx00nPmSH6fKdqq7r67) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 2:36 |
 | 9 | [Where I Want to Be](https://open.spotify.com/track/5OJD3ceQHISjim2MVDUGkJ) | [Myles Jasnowski](https://open.spotify.com/artist/4l5Tb3tgzJlGTA6VC4aDV3) | [Where I Want to Be](https://open.spotify.com/album/3C3oFWTYx44bZwlzh4ByjS) | 4:39 |
 | 10 | [It's a Moot Point](https://open.spotify.com/track/0MsP3Z4x4VCmveUxidTch1) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [It's a Moot Point](https://open.spotify.com/album/7mjQUO0wc40aBdyx7ZOtJW) | 4:02 |
 | 11 | [So What](https://open.spotify.com/track/265wSVvd8vDhT10eskjJS5) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo), [Cool Cats Lofi](https://open.spotify.com/artist/6tchLnaQY0JmNKvYJ2riX3) | [So What](https://open.spotify.com/album/7DXMRH7UGYLZ6eSrqNxd3C) | 2:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 59 | [This World](https://open.spotify.com/track/5UrRSpJaU8sCp1C8OeurgV) | [Justus West](https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [This World](https://open.spotify.com/album/0VuUpLsPLvDF51IvRGk4jV) | 4:27 |
 | 60 | [Kazuki\_2](https://open.spotify.com/track/4Q9XEpUEHOmhP0ThwFhgSo) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [work\_1](https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs) | 1:27 |
 
-Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMDgzZDcwNjM4MjhiNWIxYjVmZWRjOThiNDY4YzMzODBj`
+Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMDUxMzEyMjVjYmQ5ZWZhZjA4ODZhMmNmMDlmOGJkOTBl`

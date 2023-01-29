@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: Nippa
 
-402 songs - 21 hr 35 min
+403 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [On One](https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [On One](https://open.spotify.com/album/3cxYmtH9abCdqR0XkkGW16) | 3:25 | 2021-12-15 | 2022-07-29 |
 | [On Read with Tiana Major9](https://open.spotify.com/track/0lruAPwhxreBwk78gzK96P) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [On Read with Tiana Major9](https://open.spotify.com/album/3BWtvrFVWeuhsYJDxSvPXE) | 3:03 | 2021-12-15 | 2022-07-28 |
 | [Only Human](https://open.spotify.com/track/6XXZzGJ0I1EjsGW8wKyGfO) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 2:00 | 2022-03-11 | 2022-07-25 |
-| [Open \- Remix](https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Open \(Remix\)](https://open.spotify.com/album/4f9Dwoweev0tjSi4AmMq7C) | 3:28 | 2022-09-30 |  |
+| [Open \- Remix](https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Open \(Remix\)](https://open.spotify.com/album/4f9Dwoweev0tjSi4AmMq7C) | 3:28 | 2022-09-30 | 2023-01-29 |
 | [Ophiuchus](https://open.spotify.com/track/68PgezyNLbpX7dABzVpLDy) | [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP) | [Ophiuchus](https://open.spotify.com/album/620qzo3UWQBOdSw8KjcTq1) | 1:39 | 2022-10-14 | 2022-12-03 |
 | [Options](https://open.spotify.com/track/3NE8KZipKxO0aKYQQn3oU8) | [Journee](https://open.spotify.com/artist/3tr38dT5o6Kk5WO5OtmPoa) | [Options](https://open.spotify.com/album/5S5hBOi5w9lrBovIyyWevN) | 2:34 | 2021-12-15 | 2022-01-26 |
 | [Options](https://open.spotify.com/track/3AmO3A7KCZnshydPDku3PI) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [Options](https://open.spotify.com/album/2nRvGsayNgohmqy1pwMKiJ) | 4:08 | 2021-12-15 | 2022-08-05 |
@@ -299,6 +299,7 @@
 | [Please Don't Walk Away](https://open.spotify.com/track/5cLRmsipy54ddUeJt1h4uk) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Please Don't Walk Away](https://open.spotify.com/album/1r7kgxzwwL0fVQ4FfkA2Dy) | 3:36 | 2021-12-15 | 2022-07-06 |
 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 | 2022-09-23 |  |
 | [Poison](https://open.spotify.com/track/37D9mNHrQTxSkCUhzwo26u) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Poison](https://open.spotify.com/album/07cuDu48HGQ7imcSohcKXc) | 3:23 | 2021-12-15 | 2022-07-24 |
+| [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 | 2023-01-27 |  |
 | [Pressure](https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Ultraviolet](https://open.spotify.com/album/5g5HcmYzRNykfx3Hce5X45) | 3:34 | 2022-12-02 |  |
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2022-06-24 | 2022-08-06 |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2021-12-15 |  |

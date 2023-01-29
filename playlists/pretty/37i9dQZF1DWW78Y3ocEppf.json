@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: Nippa",
-  "num_followers": 39070,
+  "num_followers": 39077,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDI3ZWFhMTU5NGE0MzQyNjg0NDhlMDg3YTYyZjY3NzAy",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDk5YmIwNjE2YTk3Y2U0ZWNlNzU2ZDUyZjM3MDczZTRj",
   "tracks": [
     {
       "added_at": "2022-10-28 04:22:42",
@@ -325,6 +325,22 @@
       "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 168182,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Do You Mind",
@@ -343,22 +359,6 @@
       "duration_ms": 140568,
       "name": "Do You Mind",
       "url": "https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 168182,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -437,6 +437,22 @@
       "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "IN THE AIR",
+      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
+    },
+    {
       "added_at": "2022-12-16 05:00:00",
       "album": {
         "name": "Sex In The Porsche (and PARTYNEXTDOOR)",
@@ -457,20 +473,36 @@
       "url": "https://open.spotify.com/track/33RTe6MAxEno83JSdpObQr"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2022-10-28 04:22:42",
       "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
         }
       ],
-      "duration_ms": 136695,
-      "name": "IN THE AIR",
-      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
+      "duration_ms": 172131,
+      "name": "Make Me Stay",
+      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 162006,
+      "name": "ROLLING STONE",
+      "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -491,38 +523,6 @@
       "duration_ms": 218320,
       "name": "How (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 162006,
-      "name": "ROLLING STONE",
-      "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
-    },
-    {
-      "added_at": "2022-10-28 04:22:42",
-      "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 172131,
-      "name": "Make Me Stay",
-      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -605,20 +605,20 @@
       "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "The Hurtbook",
-        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
+        "name": "Not Another Love Song",
+        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
       },
       "artists": [
         {
-          "name": "Alex Vaughn",
-          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 189546,
-      "name": "So Be It",
-      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
+      "duration_ms": 217801,
+      "name": "Not Another Love Song",
+      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -637,20 +637,20 @@
       "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Not Another Love Song",
-        "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
+        "name": "The Hurtbook",
+        "url": "https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Alex Vaughn",
+          "url": "https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq"
         }
       ],
-      "duration_ms": 217801,
-      "name": "Not Another Love Song",
-      "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
+      "duration_ms": 189546,
+      "name": "So Be It",
+      "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -715,22 +715,18 @@
     {
       "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Call",
-        "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
+        "name": "Give Me Time",
+        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
       },
       "artists": [
         {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        },
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
         }
       ],
-      "duration_ms": 176701,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
+      "duration_ms": 154702,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -765,22 +761,6 @@
       "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Give Me Time",
-        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 154702,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Mother",
@@ -795,6 +775,26 @@
       "duration_ms": 264826,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        },
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        }
+      ],
+      "duration_ms": 176701,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -847,6 +847,22 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Pray It Away",
+        "url": "https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 156073,
+      "name": "Pray It Away",
+      "url": "https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -973,22 +989,6 @@
       "url": "https://open.spotify.com/track/0igni3l2TL5YMWiTa2b1Qb"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 240048,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
-    },
-    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Ultraviolet",
@@ -1003,6 +1003,22 @@
       "duration_ms": 214138,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/6nrvIIOUmYydHeN8oSGOW5"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 240048,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1105,22 +1121,6 @@
       "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Irresponsible",
-        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "Irresponsible",
-      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Um, Hello",
@@ -1153,6 +1153,22 @@
       "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
     },
     {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Irresponsible",
+        "url": "https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "Irresponsible",
+      "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Confujawn (feat. Nija)",
@@ -1173,6 +1189,22 @@
       "url": "https://open.spotify.com/track/0IRTa7DehMM1eyrwx98DJ7"
     },
     {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
       "added_at": "2022-11-25 05:00:00",
       "album": {
         "name": "uni",
@@ -1189,20 +1221,24 @@
       "url": "https://open.spotify.com/track/3zMZ4ymzVVzRCFpcKpBM6M"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-09-30 04:04:59",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+        "name": "Working On My Karma",
+        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
       },
       "artists": [
         {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
         }
       ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+      "duration_ms": 219729,
+      "name": "What's Up (feat. Jagged Edge)",
+      "url": "https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA"
     },
     {
       "added_at": "2022-09-02 04:00:00",
@@ -1245,24 +1281,20 @@
       "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
-      "added_at": "2022-09-30 04:04:59",
+      "added_at": "2022-11-25 05:00:00",
       "album": {
-        "name": "Working On My Karma",
-        "url": "https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59"
+        "name": "B.E.D",
+        "url": "https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK"
       },
       "artists": [
         {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        },
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
         }
       ],
-      "duration_ms": 219729,
-      "name": "What's Up (feat. Jagged Edge)",
-      "url": "https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA"
+      "duration_ms": 173887,
+      "name": "B.E.D",
+      "url": "https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB"
     },
     {
       "added_at": "2022-10-28 04:22:42",
@@ -1279,22 +1311,6 @@
       "duration_ms": 170937,
       "name": "Divide",
       "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
-    },
-    {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "B.E.D",
-        "url": "https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK"
-      },
-      "artists": [
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "B.E.D",
-      "url": "https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1329,22 +1345,6 @@
       "url": "https://open.spotify.com/track/6XtaPHxQvhFn9p24f2tvRZ"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
-      "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/2z5UVuFfqfUTX5sVqxoSkK"
-      },
-      "artists": [
-        {
-          "name": "Journey Montana",
-          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
-        }
-      ],
-      "duration_ms": 167862,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "SCORPIO MOON - A COLORS SHOW",
@@ -1359,6 +1359,22 @@
       "duration_ms": 175522,
       "name": "SCORPIO MOON - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6D1FytV3a4tYR6O8Q2w83z"
+    },
+    {
+      "added_at": "2022-09-02 04:00:00",
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/2z5UVuFfqfUTX5sVqxoSkK"
+      },
+      "artists": [
+        {
+          "name": "Journey Montana",
+          "url": "https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv"
+        }
+      ],
+      "duration_ms": 167862,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/3xJphVAHpi2IyWV030jJ6A"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -1377,22 +1393,6 @@
       "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Cold Toronto",
-        "url": "https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv"
-      },
-      "artists": [
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 157808,
-      "name": "Fell Asleep",
-      "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
-    },
-    {
       "added_at": "2022-09-09 04:09:30",
       "album": {
         "name": "C BOTH SIDES",
@@ -1407,6 +1407,22 @@
       "duration_ms": 129882,
       "name": "CYCLOPS",
       "url": "https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL"
+    },
+    {
+      "added_at": "2022-12-09 05:00:00",
+      "album": {
+        "name": "Cold Toronto",
+        "url": "https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 157808,
+      "name": "Fell Asleep",
+      "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
     },
     {
       "added_at": "2022-12-09 05:00:00",
@@ -1509,22 +1525,6 @@
       "url": "https://open.spotify.com/track/1jKaIiSWLMo5et7jK7C3XI"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "alone / the catch up",
-        "url": "https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 188115,
-      "name": "the catch up",
-      "url": "https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs"
-    },
-    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Layin Next to Me",
@@ -1539,6 +1539,22 @@
       "duration_ms": 217902,
       "name": "Layin Next to Me",
       "url": "https://open.spotify.com/track/11BHnIy9pbdihg8PeqiCgt"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "alone / the catch up",
+        "url": "https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 188115,
+      "name": "the catch up",
+      "url": "https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1711,30 +1727,6 @@
       "duration_ms": 161274,
       "name": "A Dream",
       "url": "https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr"
-    },
-    {
-      "added_at": "2022-09-30 04:04:59",
-      "album": {
-        "name": "Open (Remix)",
-        "url": "https://open.spotify.com/album/4f9Dwoweev0tjSi4AmMq7C"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Open - Remix",
-      "url": "https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7"
     }
   ],
   "unique_name": "Some Kinda Way",

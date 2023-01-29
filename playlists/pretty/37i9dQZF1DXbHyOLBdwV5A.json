@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Gui Brazil",
-  "num_followers": 94282,
+  "num_followers": 94357,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4MTk3MiwwMDAwMDAwMGY0OTJkZDE2Zjk3YTg4MmE0YTYxMzhlMzllOTFiNWI5",
+  "snapshot_id": "MTY3MzU4MTk3MiwwMDAwMDAwMDNjZTc5NDY5ZmY3M2RlNTk2MWM4ODk0ODZlODFmOGQz",
   "tracks": [
     {
       "added_at": "2023-01-13 03:52:52",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-01-13 03:52:52",
       "album": {
-        "name": "Caminho Seguro",
-        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Caminho Seguro",
-      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
-    },
-    {
-      "added_at": "2023-01-13 03:52:52",
-      "album": {
         "name": "Te Seguirei",
         "url": "https://open.spotify.com/album/3j4H2AabxhI6Fw09Ewd6Pd"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 178863,
       "name": "Te Seguirei",
       "url": "https://open.spotify.com/track/1XkJ57HfgrIQu33KU9zgrf"
+    },
+    {
+      "added_at": "2023-01-13 03:52:52",
+      "album": {
+        "name": "Caminho Seguro",
+        "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Caminho Seguro",
+      "url": "https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc"
     },
     {
       "added_at": "2023-01-13 03:52:52",

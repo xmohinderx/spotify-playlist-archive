@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,515 likes - 71 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,567 likes - 71 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 3 | [FDP](https://open.spotify.com/track/3LbPOVdMrVm8yBMDcb5s2F) | [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [FDP](https://open.spotify.com/album/1iLSwd1HT54A9EDI3w2F5F) | 2:15 |
 | 4 | [Na Onda](https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Na Onda](https://open.spotify.com/album/3Vj7xdxkZg832MNCRvongO) | 3:19 |
 | 5 | [Goxtosa](https://open.spotify.com/track/03LFmw80ANXNLZrWQr3pV7) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL) | [Goxtosa](https://open.spotify.com/album/1s9NNte7IjxyTd3p0AYPNo) | 3:02 |
-| 6 | [Pirata](https://open.spotify.com/track/3JiiLcWGHzXCkbw8syxFMa) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Donatto](https://open.spotify.com/artist/1bkJTVT0Ar3WmJr3tyUoQs) | [Pirata](https://open.spotify.com/album/4NmljZyRzVZtXSRM3As0M9) | 1:53 |
+| 6 | [Pirata](https://open.spotify.com/track/3JiiLcWGHzXCkbw8syxFMa) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Pirata](https://open.spotify.com/album/4NmljZyRzVZtXSRM3As0M9) | 1:53 |
 | 7 | [Meu Lado da História](https://open.spotify.com/track/08LiZsFrLkWYtd20jeqWLh) | [Nandx710](https://open.spotify.com/artist/6Kk3DH8cxWFrTq9ajqck22), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [David Gomes](https://open.spotify.com/artist/16hlg6k7mG0fnOOWxVBmuV) | [Meu Lado da História](https://open.spotify.com/album/5mWCIurXAUfxn3e0K9WX4T) | 2:31 |
 | 8 | [Chá Na Manhã](https://open.spotify.com/track/6V7RkFPhutCifuczPssKls) | [Saint Rnb](https://open.spotify.com/artist/47ah2Gtvo0KX6Ce0H9EuX0) | [Chá Na Manhã](https://open.spotify.com/album/6MFbhRUqBUHqzzKdVPFsPQ) | 2:51 |
 | 9 | [Geme Bem Baixinho](https://open.spotify.com/track/1h6wqa0AMxKa6PV2ThkLTB) | [Dj Cabide](https://open.spotify.com/artist/6liy2XyeKhIfj6dfSG1gCu), [PVHITS](https://open.spotify.com/artist/3HokfPZXqlOaKtLrCWz0gb), [Dj Loss do Beats](https://open.spotify.com/artist/3oS0fqfhdaLVQQOTD3h4QM), [Maluquinho MC](https://open.spotify.com/artist/0tYzpCJctHZkPgERNrtsTU), [Jot47](https://open.spotify.com/artist/07B30fHpngAiyRth22iJ9L) | [Geme Bem Baixinho](https://open.spotify.com/album/3PiRz1OXROF3gIBOQCYpHi) | 3:12 |

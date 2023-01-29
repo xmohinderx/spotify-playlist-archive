@@ -98711,24 +98711,6 @@
     },
     {
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/7kpupdVQCbCdiVp0B8bMn8"
-      },
-      "artists": [
-        {
-          "name": "GERD",
-          "url": "https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr"
-        }
-      ],
-      "date_added": "2023-01-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196800,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/3vqnnGl5PYzj0eRXEuDVNb"
-    },
-    {
-      "album": {
         "name": "Opening The Door",
         "url": "https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ"
       },
@@ -98960,6 +98942,24 @@
       "duration_ms": 229282,
       "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
       "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
+    },
+    {
+      "album": {
+        "name": "Stay.",
+        "url": "https://open.spotify.com/album/7kpupdVQCbCdiVp0B8bMn8"
+      },
+      "artists": [
+        {
+          "name": "GERD",
+          "url": "https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199115,
+      "name": "Stay.",
+      "url": "https://open.spotify.com/track/3vqnnGl5PYzj0eRXEuDVNb"
     },
     {
       "album": {
@@ -106523,7 +106523,7 @@
     },
     {
       "album": {
-        "name": "The White Lotus Theme (Aloha)",
+        "name": "The White Lotus Theme (aloha)",
         "url": "https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd"
       },
       "artists": [

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,328 songs - 5 day 8 hr 19 min
+3,329 songs - 5 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1991,6 +1991,7 @@
 | [Night Session](https://open.spotify.com/track/06fpohb3cN7BzTwqC3M7eY) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Night Session](https://open.spotify.com/album/1g5aYBsUt32dfNa8dMPxz2) | 1:29 | 2022-02-17 |  |
 | [Night Train](https://open.spotify.com/track/37WThuwPuTsonUbRbeGZXz) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Night Train](https://open.spotify.com/album/6Dthi2sT9U6TU2OAqchBKE) | 2:33 | 2019-09-06 | 2020-03-13 |
 | [Night Wake](https://open.spotify.com/track/1rcuSJTH8cgB5m8VHVGZSN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Night Wake](https://open.spotify.com/album/4pSbyXLecFp8zncjymPJxV) | 1:53 | 2021-07-05 | 2021-08-20 |
+| [Night Walk](https://open.spotify.com/track/7q6bhuDHycO2Qz65UaYFVa) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Komachi](https://open.spotify.com/artist/1YbhKgwdkxuEC6pTyhXTBr) | [Night Walk](https://open.spotify.com/album/2EfNTZn8ygcG9B20EO8JpO) | 1:45 | 2023-01-26 |  |
 | [Night Watch](https://open.spotify.com/track/23ofF10278M8N8iLqT5Vfp) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Night Watch](https://open.spotify.com/album/65qqZZA1hIwrOUWAsrkdPZ) | 2:13 | 2022-05-26 | 2022-11-20 |
 | [Night Watch](https://open.spotify.com/track/79Yw7tly4ekHIo0jQhXcIm) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Night Watch](https://open.spotify.com/album/2lgBFenlZOk1x8doImIe9C) | 2:13 | 2022-11-17 | 2023-01-27 |
 | [Night's End](https://open.spotify.com/track/2aG1gL627zcZyZqgVgK6us) | [Elsei](https://open.spotify.com/artist/50w62qMAnHcGIIFsUdEReo), [Nice Pajamas](https://open.spotify.com/artist/2CB4k7eCe8jw8Axug9BN1n) | [Night's End](https://open.spotify.com/album/7J2TYUyQB3sObrMIGUzWHJ) | 2:14 | 2020-05-05 | 2020-07-18 |
@@ -2000,7 +2001,7 @@
 | [Nightfall](https://open.spotify.com/track/7z1o8dnWAAP2gH77okBZGU) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Nightfall](https://open.spotify.com/album/3DdttwCQckX40TDTUjotSc) | 2:15 | 2021-07-24 | 2021-08-27 |
 | [Nightrider](https://open.spotify.com/track/3ikBNDkmAylDMU1KWV6YpK) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Nightrider](https://open.spotify.com/album/6zJolBGXVvjsJAYmXCNNme) | 1:42 | 2021-03-19 | 2021-08-20 |
 | [Nights](https://open.spotify.com/track/5sMswUPM98v9dYgnGDkmB6) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Nights](https://open.spotify.com/album/1ZFhHmCaFcYTPwm9gybx6n) | 2:04 | 2021-10-29 | 2022-01-14 |
-| [Nightshift](https://open.spotify.com/track/5EqzrIDrJXMBPAehmmRSW6) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Nightshift](https://open.spotify.com/album/50egNe7aM7DINh23kyoa2w) | 2:05 | 2022-11-17 |  |
+| [Nightshift](https://open.spotify.com/track/5EqzrIDrJXMBPAehmmRSW6) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Nightshift](https://open.spotify.com/album/50egNe7aM7DINh23kyoa2w) | 2:05 | 2022-11-17 | 2023-01-29 |
 | [Nightshift](https://open.spotify.com/track/1HozZPFkQc3xi2SMBe07pP) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Nightshift](https://open.spotify.com/album/5Bl9EqhUZ5HYvl3XuMMzik) | 2:05 | 2022-07-21 | 2022-11-20 |
 | [nightwalker](https://open.spotify.com/track/78eRRJcbSM643Ymm1X2KGD) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [daydreams](https://open.spotify.com/album/5zIJZ4sjVANxrK28e2UTJD) | 2:19 | 2022-12-15 |  |
 | [Nightwatch](https://open.spotify.com/track/3HGg3I2vq3TEAzazfOYmV5) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb) | [Nightwatch](https://open.spotify.com/album/1TaUpiGTYAKe8CZZOd5GZd) | 2:50 | 2020-05-25 | 2020-08-04 |

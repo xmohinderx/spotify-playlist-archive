@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Gravidade Zero",
+        "url": "https://open.spotify.com/album/1VQeGBvu1rCtWl2pR1SuEc"
+      },
+      "artists": [
+        {
+          "name": "Domi",
+          "url": "https://open.spotify.com/artist/7FaGlrXXBuq0XrlerWfI3n"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184772,
+      "name": "Gravidade Zero",
+      "url": "https://open.spotify.com/track/4CPBgtJlRGtq36zNoS4FnW"
+    },
+    {
+      "album": {
         "name": "GUUD",
         "url": "https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI"
       },
@@ -2830,7 +2848,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 205113,
       "name": "Put It On Me Ft Terry",
       "url": "https://open.spotify.com/track/5eaJlKd3KwuyelqbwdqSpY"

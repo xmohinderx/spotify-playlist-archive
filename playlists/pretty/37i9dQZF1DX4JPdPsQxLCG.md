@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes to soundtrack your weekend\. Cover: The Tragically Hip
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,625 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,632 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 24 | [The Spirit Of Radio](https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Permanent Waves](https://open.spotify.com/album/3nUNxSh2szhmN7iifAKv5i) | 4:56 |
 | 25 | [Life Is A Highway](https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World \(Deluxe\)](https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8) | 4:26 |
 | 26 | [American Woman](https://open.spotify.com/track/3LQPTJEqOfljGBxmpgUnoC) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [American Woman](https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV) | 5:07 |
-| 27 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 |
-| 28 | [Seasons in the Sun](https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Seasons In The Sun \(Expanded Edition\)](https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J) | 3:28 |
+| 27 | [Seasons in the Sun](https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Seasons In The Sun \(Expanded Edition\)](https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J) | 3:28 |
+| 28 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 |
 | 29 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
 | 30 | [The Hell Song](https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC) | 3:18 |
 | 31 | [Closer To The Heart](https://open.spotify.com/track/4u3oXuVeOGoByIMz9pnOKf) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [A Farewell To Kings](https://open.spotify.com/album/18i33u5FvfvgHjZMulpyO2) | 2:51 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 35 | [Drinking in L.A.](https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x) | [Bran Van 3000](https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB) | [Glee](https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp) | 3:56 |
 | 36 | [Sweet City Woman](https://open.spotify.com/track/52SCT6ImFklqEhH21lgErO) | [Stampeders](https://open.spotify.com/artist/39uv7qSNwIoaAtWNioWnxp) | [Against the Grain](https://open.spotify.com/album/31HTyjLaXPAb2xq3qe83Qd) | 3:27 |
 | 37 | [Early Morning Rain](https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:18 |
-| 38 | [New Orleans Is Sinking](https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here](https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv) | 4:17 |
+| 38 | [Bobcaygeon](https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power](https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz) | 4:55 |
 | 39 | [Constant Craving](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 |
 | 40 | [Everybody Knows](https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [I'm Your Man](https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9) | 5:34 |
 | 41 | [Sleeping Sickness](https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 4:08 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 44 | [Lay It on the Line](https://open.spotify.com/track/4QwcuKjGjtl5fZe7kDdULV) | [Triumph](https://open.spotify.com/artist/4YfnJEbTz8QLD5FusYFwV6) | [Greatest Hits Remixed \(Deluxe Edition\)](https://open.spotify.com/album/5XDjmthwOECD5BczWlBkzA) | 4:06 |
 | 45 | [I Hear You Calling](https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [The World According To Gob](https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb) | 3:11 |
 | 46 | [Wondering Where The Lions Are](https://open.spotify.com/track/0v1lnGbN08YjocXp3SvJXP) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Waiting For A Miracle](https://open.spotify.com/album/5LY3NOVnOe2H5jcZ3FFIG2) | 3:43 |
-| 47 | [Bobcaygeon](https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power](https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz) | 4:55 |
+| 47 | [New Orleans Is Sinking](https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here](https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv) | 4:17 |
 | 48 | [Cuts Like A Knife](https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7) | 5:19 |
 | 49 | [Comin' Home](https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Sometimes](https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn) | 5:05 |
 | 50 | [Just Between You And Me](https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [Nature Of The Beast](https://open.spotify.com/album/2jdTTnlMRfq0cWhz16FMD6) | 3:55 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 56 | [Leader of Men](https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The State](https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb) | 3:30 |
 | 57 | [We're Here For A Good Time \(Not A Long Time\)](https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ) | [Trooper](https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN) | [Knock 'Em Dead Kid](https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ) | 3:34 |
 | 58 | [Signs](https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V) | [Five Man Electrical Band](https://open.spotify.com/artist/1GjVNyMzPjdBuip6Xanllu) | [Absolutely Right \- The Best Of Five Man Electrical Band](https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR) | 4:01 |
-| 59 | [Never Surrender](https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Boy In The Box](https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN) | 4:55 |
-| 60 | [Paint It Black](https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [How Far Shallow Takes You](https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW) | 3:16 |
+| 59 | [Paint It Black](https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [How Far Shallow Takes You](https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW) | 3:16 |
+| 60 | [Never Surrender](https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [Boy In The Box](https://open.spotify.com/album/5WrZRRqfnVPr9EbNSqG0cN) | 4:55 |
 | 61 | [Innocent](https://open.spotify.com/track/5mFyCVEII6mp5YPPYQfTck) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Gravity](https://open.spotify.com/album/6jno7QiWnaOHtMiZctBJBd) | 3:42 |
 | 62 | [Sweetest Kill](https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Forgiveness Rock Record](https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW) | 5:09 |
 | 63 | [That Song](https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [American Psycho](https://open.spotify.com/track/7kHMq0z0nKPYDDIXltRzij) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Wide Awake Bored](https://open.spotify.com/album/0AYMaqYA1iUckwV5lFLKCu) | 3:24 |
 | 75 | [She Ain't Pretty](https://open.spotify.com/track/3lQl6N5vnASpox2hdHpH2w) | [The Northern Pikes](https://open.spotify.com/artist/2BLAzgwe8OzvLOPTZDBCtw) | [Snow In June](https://open.spotify.com/album/51UDRztqnNOkq3WLIDKGAa) | 2:43 |
 
-Snapshot ID: `MTY2MzEwNjE0NCwwMDAwMDAwMGY5MTY2MDk4MjJjNjU5NDI4ZDBmMjNhZTBhYjA5NWMw`
+Snapshot ID: `MTY2MzEwNjE0NCwwMDAwMDAwMDk1MjY4YzE3YmJkMjc2ODA4ZDRlYTBlNTZiYmNkMDY1`

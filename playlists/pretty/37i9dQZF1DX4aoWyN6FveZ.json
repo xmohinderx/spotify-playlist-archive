@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 6040,
+  "num_followers": 6078,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjA4OCwwMDAwMDAwMGQ3NjkxNWM3OTA1OGRmNGE2MjhhZGE0MzBhN2JlYWI5",
+  "snapshot_id": "MTY2NDY1NjA4OCwwMDAwMDAwMGRkMTY1NGJiMDgwNWE3YmQ2M2U5Y2M5MTY4ZDk4M2My",
   "tracks": [
     {
       "added_at": "2022-10-01 20:09:45",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "to hell with it",
-        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 116213,
-      "name": "Just for me",
-      "url": "https://open.spotify.com/track/1Vrj9Vcbb0lOG94pQbYvzv"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -523,26 +507,18 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "Meet Me At Our Spot (Live)",
-        "url": "https://open.spotify.com/album/7x5oZf6cKUstjslCxLsKkT"
+        "name": "to hell with it",
+        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
       },
       "artists": [
         {
-          "name": "THE ANXIETY",
-          "url": "https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        },
-        {
-          "name": "Tyler Cole",
-          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 147828,
-      "name": "Meet Me At Our Spot - Live",
-      "url": "https://open.spotify.com/track/3BrWLBC4WYx393yRUOlTih"
+      "duration_ms": 116213,
+      "name": "Just for me",
+      "url": "https://open.spotify.com/track/1Vrj9Vcbb0lOG94pQbYvzv"
     },
     {
       "added_at": "2022-10-01 20:09:45",
@@ -591,6 +567,30 @@
       "duration_ms": 278085,
       "name": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
       "url": "https://open.spotify.com/track/2qbkYhZy5gNl8HrK2XwddI"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
+        "name": "Meet Me At Our Spot (Live)",
+        "url": "https://open.spotify.com/album/7x5oZf6cKUstjslCxLsKkT"
+      },
+      "artists": [
+        {
+          "name": "THE ANXIETY",
+          "url": "https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        },
+        {
+          "name": "Tyler Cole",
+          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
+        }
+      ],
+      "duration_ms": 147828,
+      "name": "Meet Me At Our Spot - Live",
+      "url": "https://open.spotify.com/track/3BrWLBC4WYx393yRUOlTih"
     },
     {
       "added_at": "2022-10-01 20:09:45",

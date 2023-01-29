@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,320,173 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,320,592 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 51 | [Sailing](https://open.spotify.com/track/3P6g4zQCnynRMiWcxlcGHx) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Sailing / Poor Shirley \(Digital 45\)](https://open.spotify.com/album/7lbY0OAEe0pl26YvG4sdD0) | 4:15 |
 | 52 | [Dance with Me](https://open.spotify.com/track/2GORop0i2cyx8C0A3JzL44) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Dance With Me: The Best Of Orleans](https://open.spotify.com/album/43inWGDznUuVwJoIX0jKtl) | 3:00 |
 | 53 | [The Girl Is Mine \(with Paul McCartney\)](https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:42 |
-| 54 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Essential Daryl Hall & John Oates](https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI) | 3:10 |
-| 55 | [Love Will Find A Way](https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Worlds Away](https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK) | 4:11 |
+| 54 | [Love Will Find A Way](https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Worlds Away](https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK) | 4:11 |
+| 55 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Essential Daryl Hall & John Oates](https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI) | 3:10 |
 | 56 | [Steal Away \- Remastered](https://open.spotify.com/track/7v5rsCN3LhX9XaIlWyTdx3) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:33 |
 | 57 | [Takin' It to the Streets](https://open.spotify.com/track/1WDgdCoNSN0fosaTaLGXKU) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Takin' It to the Streets](https://open.spotify.com/album/6yXfAEtkB6MUyhRkiGg5X2) | 3:51 |
 | 58 | [Mornin'](https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Jarreau](https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb) | 4:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 74 | [Heart to Heart](https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [High Adventure](https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA) | 5:22 |
 | 75 | [We're in This Love Together](https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Love Songs](https://open.spotify.com/album/29owfLOkZWFaUJwCG7Kzxy) | 3:46 |
 
-Snapshot ID: `MTY2OTI0NTc2MiwwMDAwMDAwMDVkYjAwZjcyNGU0MjFhMmZmNDBmMjJhZWJhZGJhNjg5`
+Snapshot ID: `MTY2OTI0NTc2MiwwMDAwMDAwMDFjYTEzYTZjYjVjMTU2Yzg1ZDk4ODZhYWQzYjdjZjRi`

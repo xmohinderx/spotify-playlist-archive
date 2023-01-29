@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 219260,
+  "num_followers": 219526,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDRiZTUwOWZlYjc4YzA4NTBjMGE2NDdhYThhZWY2N2Uz",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGFjYmU0NTk3MTA1ZGRmYTE3ZTUwZjZkMzJhNDg2ZTk5",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Gimme Shelter",
-        "url": "https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg"
-      },
-      "artists": [
-        {
-          "name": "Pain",
-          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
-        }
-      ],
-      "duration_ms": 238317,
-      "name": "Gimme Shelter",
-      "url": "https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Looking for You",
         "url": "https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9"
       },
@@ -595,22 +579,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Wind of Change",
-        "url": "https://open.spotify.com/album/5v3YWeezP4Bvq7A5y4JxuG"
-      },
-      "artists": [
-        {
-          "name": "Any Given Day",
-          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
-        }
-      ],
-      "duration_ms": 322804,
-      "name": "Wind of Change",
-      "url": "https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Under C\u00f6ver",
         "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
       },
@@ -623,6 +591,38 @@
       "duration_ms": 229499,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Gimme Shelter",
+        "url": "https://open.spotify.com/album/6gg0beoRBt9jp8Io4HMSQg"
+      },
+      "artists": [
+        {
+          "name": "Pain",
+          "url": "https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1"
+        }
+      ],
+      "duration_ms": 238317,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/0Id6fe3XI894fu4X986cz9"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Wind of Change",
+        "url": "https://open.spotify.com/album/5v3YWeezP4Bvq7A5y4JxuG"
+      },
+      "artists": [
+        {
+          "name": "Any Given Day",
+          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
+        }
+      ],
+      "duration_ms": 322804,
+      "name": "Wind of Change",
+      "url": "https://open.spotify.com/track/0hEQ9FOLJuSdjgNJObBnQt"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/6wgIIWbiJM5SajVwzIw898"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Born Dead",
         "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 268240,
       "name": "Hey Joe",
       "url": "https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/6wgIIWbiJM5SajVwzIw898"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/0tobjNbP51FMlEUslgm9CR"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Revolt",
         "url": "https://open.spotify.com/album/1yUEhkajK0pPG7PN2x2utF"
       },
@@ -891,6 +907,22 @@
       "duration_ms": 168000,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Hidden Treasures",
+        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "No More Mr. Nice Guy",
+      "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -923,38 +955,6 @@
       "duration_ms": 208533,
       "name": "TNT",
       "url": "https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 207453,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Hidden Treasures",
-        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "No More Mr. Nice Guy",
-      "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
     },
     {
       "added_at": "2022-12-16 05:00:00",

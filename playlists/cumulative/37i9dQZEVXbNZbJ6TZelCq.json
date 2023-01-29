@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Bani, Putere, Respect",
       "url": "https://open.spotify.com/track/4BLAVEh9PKN0dKbAvntYP6"
@@ -8508,7 +8508,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 241066,
       "name": "I Was Never There",
       "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
@@ -9468,7 +9468,7 @@
       ],
       "date_added": "2022-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 173750,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/1dMR1ltIgyYRq5vmFXvu07"
@@ -12238,7 +12238,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-22",
+      "date_removed": null,
       "duration_ms": 131707,
       "name": "Na\u0219pa",
       "url": "https://open.spotify.com/track/2kcTEXbaZd9i066DApclMC"
@@ -12592,7 +12592,7 @@
       ],
       "date_added": "2021-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 148800,
       "name": "Niciun Glon\u021b Nu Doare C\u00e2t Dragostea",
       "url": "https://open.spotify.com/track/4uW2VwxS4K9D22JLJd38ym"
@@ -13498,7 +13498,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 210811,
       "name": "Papusa Barbie",
       "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
@@ -16141,6 +16141,28 @@
     },
     {
       "album": {
+        "name": "SHOTGUN",
+        "url": "https://open.spotify.com/album/7uYKZ6fWkQIKXxWAi2xA8u"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "SHOTGUN",
+      "url": "https://open.spotify.com/track/0EIUssA2gv881GM16RzSQy"
+    },
+    {
+      "album": {
         "name": "SHUM",
         "url": "https://open.spotify.com/album/4AQOhI7QMKq9vmHuzduPRk"
       },
@@ -16784,7 +16806,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 170285,
       "name": "Stai",
       "url": "https://open.spotify.com/track/0yssm9ttK7TvO7QymKJlVT"
@@ -17188,7 +17210,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
@@ -18233,6 +18255,24 @@
     },
     {
       "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157261,
+      "name": "Tinnitus (Wanna be a rock)",
+      "url": "https://open.spotify.com/track/0f0SbtoKGe41cX5LzlnX6X"
+    },
+    {
+      "album": {
         "name": "TIpa Noua",
         "url": "https://open.spotify.com/album/103be0LIGm9qGlqyQvjkUV"
       },
@@ -19241,6 +19281,28 @@
     },
     {
       "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
+    },
+    {
+      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -19256,7 +19318,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
@@ -19502,7 +19564,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 211500,
       "name": "Veste",
       "url": "https://open.spotify.com/track/5wQYjcX7kA26lF4pIcNVnP"
@@ -19702,7 +19764,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 182045,
       "name": "Vorbeste lumea",
       "url": "https://open.spotify.com/track/6ATqZFNmkf3njuq6zH9XaF"
@@ -20822,7 +20884,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-22",
+      "date_removed": null,
       "duration_ms": 156734,
       "name": "\u00cen golul t\u0103u",
       "url": "https://open.spotify.com/track/4aozcUwwPK4A8cfRti0mhI"
@@ -20844,7 +20906,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 156865,
       "name": "\u00cen golul t\u0103u",
       "url": "https://open.spotify.com/track/2zGVTRYD96AYeu7OuE8TZq"

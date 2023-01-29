@@ -4,12 +4,13 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-99 songs - 2 hr 53 min
+100 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [96 \(Theme\) \- From "96"](https://open.spotify.com/track/0WTNNRu2BvmMA0nqXns1M6) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [96 \(Theme\) \[From "96"\]](https://open.spotify.com/album/0CrFlRG7LkiC9mmJPwWUmL) | 1:15 | 2021-11-01 |  |
-| [Aaku Paaku](https://open.spotify.com/track/3BZjMOscQ9aGf5XoFITnSc) | [Diwacara Thiyagarajan](https://open.spotify.com/artist/45WgNFEJv1Bt1Cr3YQPYE7), [Akshita Merlyn](https://open.spotify.com/artist/6rbQ2p32SsM0ThLmTJSTuO) | [Aaku Paaku \(From "Ripupbury"\)](https://open.spotify.com/album/1TBFlHfyOlpbnqpUhOav7J) | 1:58 | 2023-01-24 |  |
+| [Aaku Paaku](https://open.spotify.com/track/3BZjMOscQ9aGf5XoFITnSc) | [Diwacara Thiyagarajan](https://open.spotify.com/artist/45WgNFEJv1Bt1Cr3YQPYE7), [Akshita Merlyn](https://open.spotify.com/artist/6rbQ2p32SsM0ThLmTJSTuO) | [Aaku Paaku \(From "Ripupbury"\)](https://open.spotify.com/album/1TBFlHfyOlpbnqpUhOav7J) | 1:58 | 2023-01-24 | 2023-01-29 |
+| [Aaku Paaku \(From "Ripupbury"\)](https://open.spotify.com/track/5FN1Vt609JJi4zEuHYSNMn) | [Akshita Merlyn](https://open.spotify.com/artist/6rbQ2p32SsM0ThLmTJSTuO), [Diwacara Thiyagarajan](https://open.spotify.com/artist/45WgNFEJv1Bt1Cr3YQPYE7), [AK](https://open.spotify.com/artist/7slw8L86hJbgkPLfY7LZhR) | [Aaku Paaku \(From "Ripupbury"\) \- Single](https://open.spotify.com/album/7GOpiSAq1nmtrmCWkseV2v) | 1:58 | 2023-01-24 |  |
 | [Agent Tina \- Background Score](https://open.spotify.com/track/60c709iT1oiukRh6eR7K0K) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 | 2022-07-08 |  |
 | [Agent Vikram \- Background Score](https://open.spotify.com/track/4Gl2PrpO3pmVj8LnQ6uAdg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 3:09 | 2022-07-08 |  |
 | [AK Theme Music \- Ready to Rage](https://open.spotify.com/track/232kZYrxOYqyMeBFwudXEM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vivegam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0) | 1:23 | 2021-11-01 |  |

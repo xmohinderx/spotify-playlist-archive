@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-175 songs - 9 hr 15 min
+176 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-06-24 |  |
 | [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 | 2022-11-18 | 2022-11-26 |
 | [Do Not Disturb](https://open.spotify.com/track/6pvxoVnP8Ep3AtjGCV9AMd) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 3:13 | 2022-07-22 | 2022-08-27 |
+| [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-27 |  |
 | [Don't Take Your Love](https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9) | 3:06 | 2022-10-28 | 2022-11-26 |
 | [Ease Up](https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Ease Up](https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW) | 3:34 | 2023-01-20 |  |
 | [Emotions](https://open.spotify.com/track/6Kh0SVrpJkEWbOGtFKAKFB) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Matter of Time](https://open.spotify.com/album/0sVpDSPL1inRRowIw7YI6g) | 2:54 | 2022-11-04 |  |
@@ -146,7 +147,7 @@
 | [Right Now](https://open.spotify.com/track/75iErUVF1heXnj5CB1gaju) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Right Now](https://open.spotify.com/album/3Lk51jNfQewZIGuTvvE8uk) | 3:12 | 2022-06-24 | 2022-08-12 |
 | [Rolling Stone](https://open.spotify.com/track/5JHMXUWq4FxSuZndpq3wKI) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Rolling Stone](https://open.spotify.com/album/0qQC6ZOVFaCNphabIMRWVJ) | 3:20 | 2022-09-09 | 2022-11-19 |
 | [Runaway](https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Runaway](https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T) | 3:40 | 2022-06-24 | 2022-08-13 |
-| [safe haven](https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:49 | 2022-07-14 |  |
+| [safe haven](https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:49 | 2022-07-14 | 2023-01-29 |
 | [Scared](https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Wanderlust](https://open.spotify.com/album/47850oZFnjDTaEjPAgIEuf) | 3:51 | 2022-11-04 | 2022-12-13 |
 | [Scarred](https://open.spotify.com/track/5PSYn0XVImstXPFFDtajEK) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:58 | 2022-06-24 |  |
 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 | 2022-06-24 |  |

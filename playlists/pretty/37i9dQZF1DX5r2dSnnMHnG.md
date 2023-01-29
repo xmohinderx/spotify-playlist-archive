@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,952 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,951 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 31 | [Bom Bom Bom](https://open.spotify.com/track/1rVPj9cryjgB7MdaU6sqN3) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Love Love Love](https://open.spotify.com/album/1fHeuwIK0CVB1enNSHxzAi) | 3:28 |
 | 32 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
 | 33 | [Hi spring Bye](https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 5:24 |
-| 34 | [Timing](https://open.spotify.com/track/6faWCeNTlxIbXHXsJK9abm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Timing](https://open.spotify.com/album/67HXtNJ3Ma3LolxEf0UGQ4) | 2:48 |
-| 35 | [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ) | 2:47 |
+| 34 | [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4gXUBLN9qdv7SSwvB0dg1u) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/3WgCQ87OvZIlunqvrMVRRZ) | 2:47 |
+| 35 | [Timing](https://open.spotify.com/track/6faWCeNTlxIbXHXsJK9abm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Timing](https://open.spotify.com/album/67HXtNJ3Ma3LolxEf0UGQ4) | 2:48 |
 | 36 | [Mean 심술](https://open.spotify.com/track/3r8mOSPtXvoXSBTbmbaQcP) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 2:37 |
 | 37 | [no lie \(feat\. Nason\)](https://open.spotify.com/track/4lxOFzYVrRRLKLc1iDCgUy) | [Rheehab](https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu), [Nason](https://open.spotify.com/artist/23pbSN0bdhuK8cpCg3dOQX) | [Emily](https://open.spotify.com/album/2Ov9APMuTEbjPQjlX4sHCL) | 3:24 |
 | 38 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 |
 | 39 | [Love Encore \(with Lee Sora\)](https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:30 |
 | 40 | [Merry And The Witch’s Flower](https://open.spotify.com/track/55tdBGmnhA3pPqn9Ih4vzb) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 4:04 |
 | 41 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
-| 42 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
-| 43 | [헤어지기 싫어](https://open.spotify.com/track/7pKxsAxBtRJU19Qqij0P6y) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [re:](https://open.spotify.com/album/5iTH1fWDgfxSPkwJRBZiRE) | 3:46 |
+| 42 | [헤어지기 싫어](https://open.spotify.com/track/7pKxsAxBtRJU19Qqij0P6y) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [re:](https://open.spotify.com/album/5iTH1fWDgfxSPkwJRBZiRE) | 3:46 |
+| 43 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
 | 44 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 |
 | 45 | [Can you tell me \(feat\. Kumira\)](https://open.spotify.com/track/3ZtEsiOvuXAT13NdYiBpi6) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [Kumira](https://open.spotify.com/artist/1Ntydb0DmiKZ4gs185CpoK) | [Can you tell me \(feat\. Kumira\)](https://open.spotify.com/album/3M3CQMihnl1yUswPoqmv1k) | 3:28 |
 | 46 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 74 | [Weird Boy](https://open.spotify.com/track/1S6Kx6dOOWlJecLe1fM3Sm) | [murmoom](https://open.spotify.com/artist/2vsaAlNouG0tPd8CMKj7l3) | [Weird Boy](https://open.spotify.com/album/6EJ0l23dnuI89XY09Vbh9s) | 3:37 |
 | 75 | [Spring](https://open.spotify.com/track/11HmVuJmBU6BXZ1z6hxpYa) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/6iW62TOeAyJE5vIbPyJRyI) | 2:53 |
 
-Snapshot ID: `MTY3NDcwOTIyMCwwMDAwMDAwMDY1NjljNTQ1MThjZTc4M2FlM2U1ZWUxNjU2NTUxNGMw`
+Snapshot ID: `MTY3NDcwOTIyMCwwMDAwMDAwMDVmY2I2ZDkyZTNkZDcyZGQyNGIyNmYxZGExOGI3ODZl`

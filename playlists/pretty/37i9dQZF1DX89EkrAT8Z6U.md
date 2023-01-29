@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > A mixtape for the perfect anime fight scene\. Cover: Lucy from Cyberpunk: Edgerunners
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,522 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,049 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 5 | [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 |
 | 6 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 |
 | 7 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
-| 8 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 |
+| 8 | [Disaster](https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag) | 1:24 |
 | 9 | [Aces](https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf) | 2:02 |
-| 10 | [Disaster](https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7CkXrZnfmghdA4n2YLTgag) | 1:24 |
+| 10 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 |
 | 11 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 |
 | 12 | [Stay With Me](https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Stay With Me](https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp) | 2:21 |
 | 13 | [Paris](https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Now the Moon's Rising](https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK) | 1:51 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 23 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 |
 | 24 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 |
 | 25 | [Erase Your Social](https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [The Perfect LUV Tape](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67) | 3:19 |
-| 26 | [I'm Only a Fool for You](https://open.spotify.com/track/2egLcqqD1fz44PKq28fsKQ) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/438r5lDWrWN173Wd0HLxiK) | 1:01 |
-| 27 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
+| 26 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
+| 27 | [I'm Only a Fool for You](https://open.spotify.com/track/2egLcqqD1fz44PKq28fsKQ) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/438r5lDWrWN173Wd0HLxiK) | 1:01 |
 | 28 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 |
 | 29 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 |
 | 30 | [af1](https://open.spotify.com/track/14piiV64kkkkPPKKcb8I9d) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [af1](https://open.spotify.com/album/50p7eSBfscW5XKSWbEQbD4) | 2:21 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 56 | [Princess Bubblegum](https://open.spotify.com/track/2O9KgUsmuon6Gycdmagc6t) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Princess Bubblegum](https://open.spotify.com/album/3pb0Q6sH9ZhxjOKvSVP5bE) | 1:35 |
 | 57 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 |
 | 58 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 |
-| 59 | [uhh](https://open.spotify.com/track/3iDQnloxYVrnzE0eNZ85en) | [framed](https://open.spotify.com/artist/6qW2MCeqjNlMwiLl0JPbuZ) | [Uhh](https://open.spotify.com/album/3PgoWZSSEFdI0f5gektpdn) | 1:23 |
-| 60 | [DANCE!](https://open.spotify.com/track/7sYfWTa2GD1KCaLgGFmFM5) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Ciscaux](https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW), [Wassup Rocker](https://open.spotify.com/artist/6wDDxmc6DCL53dpL6uMjqM) | [DANCE!](https://open.spotify.com/album/3dlb9Ln4sYzsJEppql4uy4) | 2:43 |
-| 61 | [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 |
+| 59 | [DANCE!](https://open.spotify.com/track/7sYfWTa2GD1KCaLgGFmFM5) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Ciscaux](https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW), [Wassup Rocker](https://open.spotify.com/artist/6wDDxmc6DCL53dpL6uMjqM) | [DANCE!](https://open.spotify.com/album/3dlb9Ln4sYzsJEppql4uy4) | 2:43 |
+| 60 | [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 |
+| 61 | [uhh](https://open.spotify.com/track/3iDQnloxYVrnzE0eNZ85en) | [framed](https://open.spotify.com/artist/6qW2MCeqjNlMwiLl0JPbuZ) | [Uhh](https://open.spotify.com/album/3PgoWZSSEFdI0f5gektpdn) | 1:23 |
 | 62 | [The Law of Recognition](https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o) | [KYSLINGO](https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO) | [The Law of Recognition](https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB) | 2:09 |
 | 63 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/1rgncjmlpHMP3DBhpagyVb) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:48 |
 | 64 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 74 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 |
 | 75 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
 
-Snapshot ID: `MTY3NDgwMzIyMCwwMDAwMDAwMGQyMDlkMTliNjA3NjhkMjFiMmQ2N2MzZWViM2NkZDgw`
+Snapshot ID: `MTY3NDgwMzIyMCwwMDAwMDAwMDY5OTcxMDVhYTAwMzEyNjVjNWMzNTcwOGMyZGViNGMw`

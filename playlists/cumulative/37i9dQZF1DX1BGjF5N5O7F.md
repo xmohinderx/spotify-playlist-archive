@@ -4,7 +4,7 @@
 
 > sensual roots & indie folk.
 
-99 songs - 6 hr 36 min
+100 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Love No Less Worthy](https://open.spotify.com/track/39ex1gng2xOIUrNjLOc7Ti) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Singing Ax](https://open.spotify.com/album/6tbON4U1Aw1od8B3OkuTz8) | 3:13 | 2021-03-19 | 2022-07-29 |
 | [Love No Less Worthy](https://open.spotify.com/track/7cyEaeobX5n7UmvvdxG4Zt) | [J\. Tillman](https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC) | [Singing Ax](https://open.spotify.com/album/5MwNed00WoQc1dqGTxz8UQ) | 3:13 | 2021-03-19 | 2023-01-28 |
 | [Lover](https://open.spotify.com/track/6ao9rdyJfzGXatb3at455T) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Lover](https://open.spotify.com/album/3RfoIT2yvfZF9TFOMbmrIv) | 4:08 | 2021-03-19 |  |
-| [Lover, Come Back to Me](https://open.spotify.com/track/1ZxmF4eGSMxg4xbp7wIK6r) | [Me and My Friends](https://open.spotify.com/artist/4KewrgdzmKzWiJT3Znotp3) | [Before I Saw the Sea](https://open.spotify.com/album/5Jn6b1U9zyxaf0fHlPDD7b) | 4:53 | 2023-01-27 |  |
+| [Lover, Come Back to Me](https://open.spotify.com/track/1ZxmF4eGSMxg4xbp7wIK6r) | [Me and My Friends](https://open.spotify.com/artist/4KewrgdzmKzWiJT3Znotp3) | [Before I Saw the Sea](https://open.spotify.com/album/5Jn6b1U9zyxaf0fHlPDD7b) | 4:53 | 2023-01-27 | 2023-01-29 |
+| [Lover, Come Back to Me](https://open.spotify.com/track/6nwDqtfW4YeWH3tTnAixBo) | [Me and My Friends](https://open.spotify.com/artist/4KewrgdzmKzWiJT3Znotp3) | [Before I Saw the Sea](https://open.spotify.com/album/5zqTzS8QGo2sQLmh3JaiMp) | 4:53 | 2023-01-27 |  |
 | [Lover, Will You Lead Me?](https://open.spotify.com/track/4be0nVpVfrtteirTMjUMxG) | [David Ramirez](https://open.spotify.com/artist/4MBIFx8pthemIVuEJSgAxb) | [My Love is a Hurricane](https://open.spotify.com/album/1Lq5LGBs2UXG7TN337lJnJ) | 3:22 | 2021-03-19 |  |
 | [Lovers Who Make Love](https://open.spotify.com/track/07TynTJvMsM19UHI121q5l) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 3:38 | 2021-03-19 |  |
 | [Lovers Who Make Love](https://open.spotify.com/track/2G5AbiKbJjNJGFSpUtwsiH) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/3MDPgf0HzpeJdxK3FsrknM) | 3:38 | 2021-03-19 | 2022-07-29 |

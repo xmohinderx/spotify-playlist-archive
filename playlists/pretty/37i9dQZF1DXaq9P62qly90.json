@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12074,
+  "num_followers": 12077,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMDAzMzgxZDRhYTM5OWZkOWZmMjU0MWZkMDU5ZTM5NzBk",
+  "snapshot_id": "MTY3Mjk4MTIwMCwwMDAwMDAwMGZkY2Q2ZWNlMmIwYTJmNTY4MjI0ZTRkNDZiNDZkOTRm",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "I Was Just Leaving",
-        "url": "https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montbleau",
-          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
-        }
-      ],
-      "duration_ms": 178614,
-      "name": "I Was Just Leaving",
-      "url": "https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Jahta Beat: The Lotus Memoirs",
         "url": "https://open.spotify.com/album/61GQtLkHRdK3jmnm9aoAFZ"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 240973,
       "name": "Nectar Drop",
       "url": "https://open.spotify.com/track/3QbtJmJeeh8JE5EtAD1Eh0"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "I Was Just Leaving",
+        "url": "https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montbleau",
+          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
+        }
+      ],
+      "duration_ms": 178614,
+      "name": "I Was Just Leaving",
+      "url": "https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
+        "name": "Location 13 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
+      },
+      "artists": [
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
+        }
+      ],
+      "duration_ms": 255191,
+      "name": "Letter to Lady J",
+      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
         "name": "Sunday Vibe",
         "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 259746,
       "name": "10 Laws",
       "url": "https://open.spotify.com/track/6rv66YGnlPsCQHBU0ym8Tm"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "Location 13 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4NPmKTFJNR1ckUAuKncumc"
-      },
-      "artists": [
-        {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
-        }
-      ],
-      "duration_ms": 255191,
-      "name": "Letter to Lady J",
-      "url": "https://open.spotify.com/track/6iQylmI5wYJrvSrLeVWf3h"
     },
     {
       "added_at": "2023-01-03 17:09:40",

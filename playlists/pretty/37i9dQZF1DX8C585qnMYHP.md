@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new Experimental by independent artists and labels, with RUMTUM on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,827 likes - 75 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,872 likes - 75 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

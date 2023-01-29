@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-207 songs - 11 hr 44 min
+208 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV) | 3:04 | 2022-05-11 |  |
 | [Book](https://open.spotify.com/track/2nCJFTqCDjEYLJR151Fd5B) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Where is my Garden!](https://open.spotify.com/album/5A0G6El208bcSxPfNw0CrR) | 3:11 | 2022-05-11 | 2022-07-28 |
 | [Brand New](https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Brand New \- The 1st Mini Album](https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R) | 3:04 | 2022-10-04 |  |
+| [BURN\-OUT](https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1) | [FRIDA\-ANNE](https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr) | [BURN\-OUT](https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof) | 2:36 | 2023-01-29 |  |
 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL) | 3:48 | 2022-07-08 |  |
 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/6HTTnx9ogBcIu7XRShqbHW) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/5ZYLuV87rEvKSeef5BaGdV) | 3:48 | 2022-05-11 | 2022-07-21 |
 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 | 2022-07-04 |  |
@@ -119,7 +120,7 @@
 | [My Monday](https://open.spotify.com/track/2aynDdyhQhR2LoBpXXEtBJ) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [My Monday](https://open.spotify.com/album/1I6Q6XDcmQM0YKzydu8k8F) | 3:00 | 2022-05-11 | 2022-07-17 |
 | [My World](https://open.spotify.com/track/1NnbWG5rVZpSlIiXFQ0U6F) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [UTOPIA](https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02) | 2:46 | 2022-06-18 | 2022-12-22 |
 | [Nemo](https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:55 | 2022-06-09 |  |
-| [Night](https://open.spotify.com/track/3SaxQJgFfFeFekLhN7b0Dz) | [PO.U.RYU](https://open.spotify.com/artist/6kYwRlB2k9l6BruOci7I7O) | [Night](https://open.spotify.com/album/37kB5XHm46l8uA56Y0NumP) | 3:42 | 2023-01-13 |  |
+| [Night](https://open.spotify.com/track/3SaxQJgFfFeFekLhN7b0Dz) | [PO.U.RYU](https://open.spotify.com/artist/6kYwRlB2k9l6BruOci7I7O) | [Night](https://open.spotify.com/album/37kB5XHm46l8uA56Y0NumP) | 3:42 | 2023-01-13 | 2023-01-29 |
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-08 | 2022-08-23 |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 | 2022-07-08 |  |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/5Qjsh4Xp6YQJIFSPWTdyAC) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/1XI748LrBjy0ui2wEPqpEM) | 3:15 | 2022-06-09 | 2022-07-29 |

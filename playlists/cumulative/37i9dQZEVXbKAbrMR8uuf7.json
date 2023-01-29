@@ -504,7 +504,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 178000,
       "name": "A I O",
       "url": "https://open.spotify.com/track/2eJFFzezwWHCztF4cLKmB0"
@@ -3184,7 +3184,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-13",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "Davirito",
       "url": "https://open.spotify.com/track/5aB65kxjdKGNBTVcZKMNvF"
@@ -3626,7 +3626,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 144760,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/2TNi9CCankkFmwLpUiutUx"
@@ -6470,7 +6470,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -10249,6 +10249,28 @@
     },
     {
       "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197383,
+      "name": "PANTIES Y BRASIERES",
+      "url": "https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV"
+    },
+    {
+      "album": {
         "name": "SR. SANTOS",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -10374,7 +10396,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 210437,
       "name": "Paradies",
       "url": "https://open.spotify.com/track/0RMmtgnxLjpoNS9HMeYwHd"
@@ -11761,6 +11783,24 @@
     },
     {
       "album": {
+        "name": "RC2",
+        "url": "https://open.spotify.com/album/1tncJt2lYZRg2d99HW5t9d"
+      },
+      "artists": [
+        {
+          "name": "Tommy Alva",
+          "url": "https://open.spotify.com/artist/2fogAUGQqRKpopvv1zmGFU"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188798,
+      "name": "RC2",
+      "url": "https://open.spotify.com/track/3vPMdfQslA1ixs8v3vxAvq"
+    },
+    {
+      "album": {
         "name": "Los Dioses",
         "url": "https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK"
       },
@@ -12828,7 +12868,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 171152,
       "name": "Si la Calle Llama",
       "url": "https://open.spotify.com/track/32nYQxfwMslxlbhgm48B3o"
@@ -13488,7 +13528,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "Sue\u00f1o Loco",
       "url": "https://open.spotify.com/track/1J2NLBpKtFwMH4b3bWKYP8"
@@ -15478,7 +15518,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"

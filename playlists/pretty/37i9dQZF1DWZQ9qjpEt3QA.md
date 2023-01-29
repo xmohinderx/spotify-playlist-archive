@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,275 likes - 70 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,302 likes - 70 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 |
 | 2 | [Serenata Jiwa Lara](https://open.spotify.com/track/7ivFVBVYH5akFOtOAyeJ4j) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Dian Sastrowardoyo](https://open.spotify.com/artist/2z03bPWIFofruoPDCNj7GG) | [Serenata Jiwa Lara](https://open.spotify.com/album/3nDWFZkpTnxeyAHs4348DQ) | 4:39 |
 | 3 | [Come Inside Of My Heart](https://open.spotify.com/track/3Eb5sztvEMa0Mqnb8DUAlU) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [CLAPCLAPCLAP!](https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk) | 4:06 |
-| 4 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [The Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 |
+| 4 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 |
 | 5 | [SPARKLE](https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe) | [CITY POP LOVERS](https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48) | 5:39 |
 | 6 | [MASA MUDA](https://open.spotify.com/track/0eSwUxNz2EFlGC7Wn5Lsra) | [Laura Pradipta](https://open.spotify.com/artist/3DjOjSvtE3thRSMBeBR4kH) | [MASA MUDA](https://open.spotify.com/album/53E46YfYxg4Wbogp1ihzSV) | 4:38 |
 | 7 | [Hello Ocean](https://open.spotify.com/track/31f410ElY7WUXOs51HVtmx) | [Rattana](https://open.spotify.com/artist/3cvn81dfHNBsjPglcn9XeL) | [Hello Ocean](https://open.spotify.com/album/4kl4SGRxJut7Lk069v2DPb) | 4:00 |

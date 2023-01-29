@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 
 > This is Eir Aoi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,395 likes - 51 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,401 likes - 51 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 21 | [アトック](https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アトック](https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO) | 4:11 |
 | 22 | [深い森](https://open.spotify.com/track/0FQCrJ6j5ZDZ7od1TkMchk) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [翼](https://open.spotify.com/album/4Jgv6Mp7kD0phKwFs5UmzN) | 4:26 |
 | 23 | [春〜spring〜](https://open.spotify.com/track/6Qot77kbGLMMlNsDnEEyN0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 4:23 |
-| 24 | [EVIL](https://open.spotify.com/track/2nx4oVjQGkB7oNESPflRl0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:57 |
-| 25 | [月を追う真夜中](https://open.spotify.com/track/44nPRe9D8i3BJiTcxYyfp3) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [月を追う真夜中](https://open.spotify.com/album/54WirG6n1l8Vg0uF26R0yJ) | 4:16 |
-| 26 | [MEMORIA orchestra ver.](https://open.spotify.com/track/1YrXad2wkK4EvhHDQtvHFo) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Prayer](https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp) | 5:29 |
+| 24 | [MEMORIA orchestra ver.](https://open.spotify.com/track/1YrXad2wkK4EvhHDQtvHFo) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Prayer](https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp) | 5:29 |
+| 25 | [EVIL](https://open.spotify.com/track/2nx4oVjQGkB7oNESPflRl0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:57 |
+| 26 | [月を追う真夜中](https://open.spotify.com/track/44nPRe9D8i3BJiTcxYyfp3) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [月を追う真夜中](https://open.spotify.com/album/54WirG6n1l8Vg0uF26R0yJ) | 4:16 |
 | 27 | [GENESIS](https://open.spotify.com/track/5qXYkYpk5e5rS07lU3USCC) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:38 |
 | 28 | [シューゲイザー](https://open.spotify.com/track/11mJhOxt2hCooDFndTPK4C) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-A\-](https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5) | 4:03 |
 | 29 | [KASUMI](https://open.spotify.com/track/3v1Y19mw44JozuYjBu6LxT) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:40 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 50 | [青の世界](https://open.spotify.com/track/7LWlnwNCg5OtJynBCSqxzG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 6:00 |
 | 51 | [グローアップ](https://open.spotify.com/track/1JnzJ2SnSrsiUSXIGkvX06) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:19 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDBmOTBjMDgwNGRiYmYxNjQzY2VjNzU0NjdiNTk2YTJkYw==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDA4YTJiMTQxMzljYjM3MzAzNTdkMGExY2VmYzU5ZGE1Mw==`

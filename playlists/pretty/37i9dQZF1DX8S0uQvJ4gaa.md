@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Cole Swindell
 
-[Spotify](https://open.spotify.com/user/spotify) - 992,278 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,772 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 62 | [You In A Honky Tonk](https://open.spotify.com/track/6uMlDbkMx22aWyoWgyCbTo) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Shot Glass](https://open.spotify.com/album/0LjZjuCqFFYCeit3OqcNVH) | 3:03 |
 | 63 | [Truth Is](https://open.spotify.com/track/02G3c8DxZgp6dLbDqd7aw3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Truth Is](https://open.spotify.com/album/6yYPEmDiTpTMzZdsD3NqGT) | 2:44 |
 | 64 | [Make A Little Room](https://open.spotify.com/track/62yXckrKNy9Sylka6oifst) | [Steve Moakler](https://open.spotify.com/artist/63t3EqMeymxd4CM85RqsCd) | [Make A Little Room](https://open.spotify.com/album/457Ok9pnF5fAfG7lNUFqHS) | 3:00 |
-| 65 | [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 |
+| 65 | [Marry That Girl](https://open.spotify.com/track/3onWmITkM6T6eynH06iJcy) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Let's Do Country Right](https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I) | 3:10 |
 | 66 | [Small Town](https://open.spotify.com/track/6oklsftiYsTcGap5JvEwft) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Small Town](https://open.spotify.com/album/1e6Glg5MJwCyfx23uD2NWP) | 3:41 |
 | 67 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 |
 | 68 | [Save The Roses](https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Y'all Life](https://open.spotify.com/track/1KHCFA1Wb1MYQi4WQIYqrm) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Y'all Life](https://open.spotify.com/album/50v40WMdEdqVFy9stzuW3y) | 3:12 |
 | 100 | [Bout Damn Time](https://open.spotify.com/track/1AL6nTWgNttydE3lkD0ko7) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Bout Damn Time](https://open.spotify.com/album/1J2wZTAfjXKk44Xp0ISSi6) | 2:56 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMGRkMGM0ZTc0NDE5ZDdmNzlmYmU4MjIzZWY2NTc5MjZi`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDYxYzQwMGQ5YzFlOTRhNmE2MzcyN2MwNzgwNzA5OTdi`

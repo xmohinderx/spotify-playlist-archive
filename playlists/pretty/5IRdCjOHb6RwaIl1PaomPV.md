@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Eartheater Trinity \(Deluxe\), plus the latest cuts from Aluna, X\-Coast, Nia Archives and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,449 likes - 63 songs - 3 hr 43 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,450 likes - 63 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

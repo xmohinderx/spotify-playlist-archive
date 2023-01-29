@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Slum Village
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,880 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,247 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 6 | [Just Don't Give A Fuck](https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 4:02 |
 | 7 | [Rock Co.Kane Flow \(feat\. MF Doom\)](https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Grind Date](https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA) | 3:05 |
 | 8 | [Uknowhowwedu](https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:34 |
-| 9 | [I Juswanna Chill](https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [The LP](https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1) | 3:28 |
+| 9 | [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 |
 | 10 | [The Look of Love, Pt\. 1](https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [J\-88](https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta) | 3:38 |
 | 11 | [One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM...FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:18 |
-| 12 | [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 |
+| 12 | [I Juswanna Chill](https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [The LP](https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1) | 3:28 |
 | 13 | [Full Clip](https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Full Clip: A Decade Of Gang Starr](https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh) | 3:37 |
 | 14 | [Accordion](https://open.spotify.com/track/67vrmPygrZ9giGqHUSReAT) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 1:58 |
 | 15 | [Acid Raindrops](https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t) | [People Under The Stairs](https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh) | [Acid Raindrops](https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo) | 4:24 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 41 | [Won't Do](https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 3:52 |
 | 42 | [Deception](https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR) | [Blackalicious](https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG) | [Nia](https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I) | 5:11 |
 | 43 | [Don't Play](https://open.spotify.com/track/51DHGAvIbCO1HJMDjq45rT) | [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [The Best Part](https://open.spotify.com/album/7lvkfeGllsua86JXtLunNG) | 5:04 |
-| 44 | [Boom \- Explicit Album Version](https://open.spotify.com/track/3CiSdq2SJSSUc1AVUU2F4G) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/4ryY8S4t3r2kUmwKgAEqFA) | 3:52 |
-| 45 | [The Sun God](https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:34 |
+| 44 | [The Sun God](https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:34 |
+| 45 | [Boom \- Explicit Album Version](https://open.spotify.com/track/3CiSdq2SJSSUc1AVUU2F4G) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/4ryY8S4t3r2kUmwKgAEqFA) | 3:52 |
 | 46 | [Never Fallin'](https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z) | [Living Legends](https://open.spotify.com/artist/0E4UA1bttJjSFNgAkLyQuo) | [Classic](https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt) | 5:22 |
 | 47 | [Climax](https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
 | 48 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 | 49 | [Thick](https://open.spotify.com/track/3UB7VJpumOOpJ0gKfq7Hgk) | [D.I.T.C.](https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE), [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [D.I.T.C.](https://open.spotify.com/album/1LtskoW9DkoA4xgST9LXJW) | 3:42 |
 | 50 | [I Declare War](https://open.spotify.com/track/3x9oD1pM3gTgNBBOazMq1V) | [Pacewon](https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt) | [Won](https://open.spotify.com/album/34fhxFsx0fd56F7qwfJUYH) | 2:37 |
 
-Snapshot ID: `MTY2NzUwOTI0NSwwMDAwMDAwMGQ0YjcxOWYxOGRkM2YxMDEyNzM2ZjRmYmI5ZTM2M2Uz`
+Snapshot ID: `MTY2NzUwOTI0NSwwMDAwMDAwMDhlNDg2ZWRkZmRmYWQ2ZTMyNTZjNTA2YzI4YTIxZDY2`

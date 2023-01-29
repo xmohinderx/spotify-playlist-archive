@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H3NUOwVLXj.md) - [plain]
 
 > Favorites, hits and deep cuts: this is Francis Albert Sinatra, one of the most popular and influential musical artists of the 20th century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,067,577 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,067,870 likes - 54 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H3NUOwVLXj.md) - [plain]
 | 38 | [I've Got The World On A String \- Remastered 2000](https://open.spotify.com/track/24C5ft0x93vqND1buSn8ZL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Classic Sinatra \- His Great Performances 1953\-1960](https://open.spotify.com/album/4VEpFmuBpIMHBtynE2wcVl) | 2:10 |
 | 39 | [When You're Smiling \(The Whole World Smiles With You\) \- 1998 Digital Remaster](https://open.spotify.com/track/4v79iygQ4tRn5GDwxDEN45) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Swingin' Session!!! And More \(Remastered\)](https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF) | 2:00 |
 | 40 | [I Get A Kick Out Of You](https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra And Swingin' Brass](https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X) | 3:14 |
-| 41 | [Ol' Man River](https://open.spotify.com/track/4myyFa9YrZzbqLNzfXDiAU) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Concert Sinatra](https://open.spotify.com/album/0wwOisWeSkvTIPiyPcU9Fr) | 4:24 |
+| 41 | [Ol' Man River](https://open.spotify.com/track/6XppiJ3Z1trI3uDVUh7Mu7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra: The Centennial Collection](https://open.spotify.com/album/22KCcelRH1AeHz7S7x5XhY) | 4:24 |
 | 42 | [Young At Heart](https://open.spotify.com/track/0QbRfr3pJtHGxhIpIMYmbN) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Sinatra](https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5) | 2:54 |
 | 43 | [Three Coins In The Fountain](https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:45 |
 | 44 | [My Kind Of Town](https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra ’65](https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA) | 3:08 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H3NUOwVLXj.md) - [plain]
 | 53 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 |
 | 54 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 |
 
-Snapshot ID: `MTY3NDU2MDI4NCwwMDAwMDAwMGRiMDIyYjdhMWI3YjJkZTI2OGMyM2MwNDI0ODliZjRm`
+Snapshot ID: `MTY3NDU2MDI4NCwwMDAwMDAwMDZjNjNiNWU3MTNhMWRhYWM3NWNkNGYzZjgwYjMwNjBk`

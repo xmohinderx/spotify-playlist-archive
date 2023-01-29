@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: YE\u0418DRY",
-  "num_followers": 748950,
+  "num_followers": 748953,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4NzM1NCwwMDAwMDAwMGVmNTEyZTVlN2I3ZmI3ZDU1YjdjNTExM2UyY2E1ZmM4",
+  "snapshot_id": "MTY3NDA4NzM1NCwwMDAwMDAwMDkyM2I3ODE3YmJlZjZlMTA3ZGYzOTUxOTE3MjY1Njlk",
   "tracks": [
     {
       "added_at": "2023-01-19 00:15:54",
@@ -83,6 +83,22 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "love nwantiti (ah ah ah)",
+      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "love nwantiti (ah ah ah)",
-      "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Felicilandia",
-        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "18+1",
-      "url": "https://open.spotify.com/track/5rxzvuFvtIVFWSSte40IFe"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "\u00bfT\u00e9o?",
         "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
       },
@@ -755,22 +735,22 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Amor En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
+        "name": "Felicilandia",
+        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
       },
       "artists": [
         {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        },
-        {
           "name": "Alvaro Diaz",
           "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 251106,
-      "name": "Podemos Intentar",
-      "url": "https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg"
+      "duration_ms": 181040,
+      "name": "18+1",
+      "url": "https://open.spotify.com/track/5rxzvuFvtIVFWSSte40IFe"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -787,6 +767,26 @@
       "duration_ms": 164708,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Amor En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "Podemos Intentar",
+      "url": "https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
+        "name": "In the Essence",
+        "url": "https://open.spotify.com/album/04ftEPqjtbQNpRqsUYdu6R"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "In the Essence",
+      "url": "https://open.spotify.com/track/0MhxLAfnXrgKqL9V7VAaj4"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
         "name": "Skin Tight (feat. Steve Lacy)",
         "url": "https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "In the Essence",
-        "url": "https://open.spotify.com/album/04ftEPqjtbQNpRqsUYdu6R"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "In the Essence",
-      "url": "https://open.spotify.com/track/0MhxLAfnXrgKqL9V7VAaj4"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Fui Yo",
         "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Aura (Spanish Version)",
-        "url": "https://open.spotify.com/album/6LWAOYIqPzIdujffA7ah7W"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 208097,
-      "name": "Aura - Spanish Version",
-      "url": "https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Cajita Feliz",
         "url": "https://open.spotify.com/album/5fIMyHXYm8WwVtkfRZVNFU"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 178891,
       "name": "Cajita Feliz",
       "url": "https://open.spotify.com/track/7opVFzdlzR1wEmhNj5td3h"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Aura (Spanish Version)",
+        "url": "https://open.spotify.com/album/6LWAOYIqPzIdujffA7ah7W"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 208097,
+      "name": "Aura - Spanish Version",
+      "url": "https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1111,22 +1111,18 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
+        "name": "diamantes y espinas",
+        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
       },
       "artists": [
         {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
         }
       ],
-      "duration_ms": 242373,
-      "name": "T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+      "duration_ms": 213920,
+      "name": "algo as\u00ed",
+      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1147,18 +1143,38 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "diamantes y espinas",
-        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
+        "name": "T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo"
       },
       "artists": [
         {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
         }
       ],
-      "duration_ms": 213920,
-      "name": "algo as\u00ed",
-      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
+      "duration_ms": 242373,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Frekes",
+        "url": "https://open.spotify.com/album/55NHIcm8F6nBjXnILMX6h8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "duration_ms": 202393,
+      "name": "Frekes",
+      "url": "https://open.spotify.com/track/1bmc5LVO2Bo2zWXQY9wV7A"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1179,22 +1195,6 @@
       "duration_ms": 168260,
       "name": "22/2/22 (feat. Paula Cendejas)",
       "url": "https://open.spotify.com/track/6VH9vAqhTig0SaS5mI5yw8"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
-        "name": "Frekes",
-        "url": "https://open.spotify.com/album/55NHIcm8F6nBjXnILMX6h8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Zuko",
-          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-        }
-      ],
-      "duration_ms": 202393,
-      "name": "Frekes",
-      "url": "https://open.spotify.com/track/1bmc5LVO2Bo2zWXQY9wV7A"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "La Cumbia Del Cucuy",
-        "url": "https://open.spotify.com/album/5QjrzT90PTonA3ZdYGQTB1"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 135370,
-      "name": "La Cumbia Del Cucuy",
-      "url": "https://open.spotify.com/track/2h8gDfMuXDxvJy5R0MGR5L"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/2Gpr7GWQnq3CT93NrqiIGh"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 131874,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/4ERovc94EVMUB0UGVgGNdo"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "La Cumbia Del Cucuy",
+        "url": "https://open.spotify.com/album/5QjrzT90PTonA3ZdYGQTB1"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 135370,
+      "name": "La Cumbia Del Cucuy",
+      "url": "https://open.spotify.com/track/2h8gDfMuXDxvJy5R0MGR5L"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Amor No Correspondido",
-        "url": "https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph"
-      },
-      "artists": [
-        {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Amor No Correspondido",
-      "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/5i8Yd6aBBLXluRugSLTlhb"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 120106,
       "name": "Focus",
       "url": "https://open.spotify.com/track/25ivNqkoHQ3zv4LWRe1oef"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Amor No Correspondido",
+        "url": "https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph"
+      },
+      "artists": [
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Amor No Correspondido",
+      "url": "https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq"
     },
     {
       "added_at": "2023-01-19 00:15:54",

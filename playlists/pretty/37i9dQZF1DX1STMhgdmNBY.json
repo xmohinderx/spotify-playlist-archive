@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 39539,
+  "num_followers": 39640,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU1NzM2NywwMDAwMDAwMDJhZjRkNjA5ZGMyNTg0MTM0N2Y5ZDk1MTRlZGU4NDZk",
+  "snapshot_id": "MTY3MzU1NzM2NywwMDAwMDAwMDg3ZWYyODcwMDE2YTI4NGY0ODEwMDQ0NGU1N2Y3ZWQw",
   "tracks": [
     {
       "added_at": "2023-01-10 17:33:26",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-01-10 17:33:26",
       "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 616560,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC"
-    },
-    {
-      "added_at": "2023-01-10 17:33:26",
-      "album": {
         "name": "From The Heart Of A Woman",
         "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 300466,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw"
+    },
+    {
+      "added_at": "2023-01-10 17:33:26",
+      "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 616560,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC"
     },
     {
       "added_at": "2023-01-10 17:33:26",
@@ -195,18 +195,18 @@
     {
       "added_at": "2023-01-10 17:33:26",
       "album": {
-        "name": "They Call Me the Popcorn Man (France 1975) [Blues Reference]",
-        "url": "https://open.spotify.com/album/4crkm4DvH6Bn7B4oRMIetm"
+        "name": "Hung Down Head",
+        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
       },
       "artists": [
         {
-          "name": "Luther Johnson",
-          "url": "https://open.spotify.com/artist/1fgNJ5TmN4k8Kf1zdaSBoV"
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
         }
       ],
-      "duration_ms": 385600,
-      "name": "Lonesome In My Bedroom",
-      "url": "https://open.spotify.com/track/4xu0LW34dFEoHG1x65tQPx"
+      "duration_ms": 189466,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
     },
     {
       "added_at": "2023-01-10 17:33:26",
@@ -243,18 +243,34 @@
     {
       "added_at": "2023-01-10 17:33:26",
       "album": {
-        "name": "Hung Down Head",
-        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
       },
       "artists": [
         {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
+      "duration_ms": 278640,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/769OeqqYJcSQjvVquDWfYf"
+    },
+    {
+      "added_at": "2023-01-10 17:33:26",
+      "album": {
+        "name": "They Call Me the Popcorn Man (France 1975) [Blues Reference]",
+        "url": "https://open.spotify.com/album/4crkm4DvH6Bn7B4oRMIetm"
+      },
+      "artists": [
+        {
+          "name": "Luther Johnson",
+          "url": "https://open.spotify.com/artist/1fgNJ5TmN4k8Kf1zdaSBoV"
+        }
+      ],
+      "duration_ms": 385600,
+      "name": "Lonesome In My Bedroom",
+      "url": "https://open.spotify.com/track/4xu0LW34dFEoHG1x65tQPx"
     },
     {
       "added_at": "2023-01-10 17:33:26",
@@ -271,22 +287,6 @@
       "duration_ms": 464040,
       "name": "As The Years Go Passing By",
       "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
-    },
-    {
-      "added_at": "2023-01-10 17:33:26",
-      "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 278640,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/769OeqqYJcSQjvVquDWfYf"
     },
     {
       "added_at": "2023-01-10 17:33:26",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-01-10 17:33:26",
       "album": {
-        "name": "Had to Cry Today",
-        "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 411960,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
-    },
-    {
-      "added_at": "2023-01-10 17:33:26",
-      "album": {
         "name": "Singin' The Blues",
         "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 183293,
       "name": "Three O'clock Blues",
       "url": "https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r"
+    },
+    {
+      "added_at": "2023-01-10 17:33:26",
+      "album": {
+        "name": "Had to Cry Today",
+        "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 411960,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
     },
     {
       "added_at": "2023-01-10 17:33:26",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-01-10 17:33:26",
       "album": {
-        "name": "Faith And Grace: A Family Journey 1953-1976",
-        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "I Know I've Been Changed",
-      "url": "https://open.spotify.com/track/6nUIuLITcryRxnLQ74YBeQ"
-    },
-    {
-      "added_at": "2023-01-10 17:33:26",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 246826,
       "name": "Friendship",
       "url": "https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y"
+    },
+    {
+      "added_at": "2023-01-10 17:33:26",
+      "album": {
+        "name": "Faith And Grace: A Family Journey 1953-1976",
+        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "I Know I've Been Changed",
+      "url": "https://open.spotify.com/track/6nUIuLITcryRxnLQ74YBeQ"
     },
     {
       "added_at": "2023-01-10 17:33:26",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-01-10 17:33:26",
       "album": {
-        "name": "The Legendary Christine Perfect Album",
-        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
-      },
-      "artists": [
-        {
-          "name": "Christine McVie",
-          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
-        }
-      ],
-      "duration_ms": 191355,
-      "name": "I'm on My Way",
-      "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
-    },
-    {
-      "added_at": "2023-01-10 17:33:26",
-      "album": {
         "name": "Presenting...The Best of the Blues",
         "url": "https://open.spotify.com/album/1WoedhOKJqDgArNSthegCO"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 175133,
       "name": "I Got the Blues",
       "url": "https://open.spotify.com/track/67sHV5ccX8EreM66hq6cbv"
+    },
+    {
+      "added_at": "2023-01-10 17:33:26",
+      "album": {
+        "name": "The Legendary Christine Perfect Album",
+        "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
+      },
+      "artists": [
+        {
+          "name": "Christine McVie",
+          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
+        }
+      ],
+      "duration_ms": 191355,
+      "name": "I'm on My Way",
+      "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
     },
     {
       "added_at": "2023-01-10 17:33:26",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-01-10 17:33:26",
       "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+    },
+    {
+      "added_at": "2023-01-10 17:33:26",
+      "album": {
         "name": "The Blues Is Alive And Well",
         "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 270103,
       "name": "Is It Over",
       "url": "https://open.spotify.com/track/6CTNoKveaQYSOhvYWJUAHl"
-    },
-    {
-      "added_at": "2023-01-10 17:33:26",
-      "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
     },
     {
       "added_at": "2023-01-10 17:33:26",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-01-10 17:33:26",
       "album": {
-        "name": "Little Junior Parker: Mr. Blues",
-        "url": "https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD"
+        "name": "Driving Wheel",
+        "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
       },
       "artists": [
         {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
         }
       ],
-      "duration_ms": 160773,
-      "name": "Driving Wheel",
-      "url": "https://open.spotify.com/track/5oLY2gz4HnKTcXxKkaGrsa"
+      "duration_ms": 157266,
+      "name": "Drivin' Wheel - Single Version",
+      "url": "https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6"
     },
     {
       "added_at": "2023-01-10 17:33:26",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-01-10 17:33:26",
       "album": {
-        "name": "The Biggest Thing Since Colossus",
-        "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
+        "name": "Last of the Blues Shouters",
+        "url": "https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0"
       },
       "artists": [
         {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+          "name": "Big Miller",
+          "url": "https://open.spotify.com/artist/4c8m7LzbeEJdqVMfNAW2xn"
         }
       ],
-      "duration_ms": 280626,
-      "name": "I Need Some Air",
-      "url": "https://open.spotify.com/track/2AkVirM9aeaGbl3pLX32n4"
+      "duration_ms": 515933,
+      "name": "Ain't It A Shame",
+      "url": "https://open.spotify.com/track/58dG6XIMGNhFdH8GKSPCmL"
     }
   ],
   "unique_name": "Healin' Blues",

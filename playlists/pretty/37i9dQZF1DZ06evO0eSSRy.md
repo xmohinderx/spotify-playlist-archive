@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 14 | [Violet](https://open.spotify.com/track/6j9WxIbqbib7SjGKePRPkQ) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:12 |
 | 15 | [7\-57](https://open.spotify.com/track/2WMmoQEfnPoPxi7fHDebnK) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:00 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDA5OTVjZjNmMTcyNjEzOGU5N2Y1NjlmM2EyZTAxMjhjYg==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDBmYmQxNGJkNTA3N2NjNGZmMGYyYjMxMTJiNDQ2YjU5OQ==`

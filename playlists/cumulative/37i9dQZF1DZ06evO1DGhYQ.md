@@ -4,7 +4,7 @@
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-37 songs - 2 hr 30 min
+38 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Jungle Love](https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 3:09 | 2022-12-23 |  |
 | [KEEP YOUR HEAD UP](https://open.spotify.com/track/6obSLuEgeFp54c5iDa8BsR) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:14 | 2022-12-23 |  |
 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 | 2022-12-23 |  |
+| [MELLOW CRUISE](https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:26 | 2023-01-28 |  |
 | [METROPOLIS](https://open.spotify.com/track/6K67HToFgqOrit9qtRJZdB) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:06 | 2022-12-23 |  |
 | [MOONBEAMS SATELLITE](https://open.spotify.com/track/2Qz5Jj0U1poQ6uZwWyemeK) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [K.A.N.T.A](https://open.spotify.com/artist/1sb3bbYGpYX84TKUvdw2dO) | [LOST IN PARADISE](https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT) | 4:22 | 2022-12-23 |  |
 | [MUSIC WORLD](https://open.spotify.com/track/3h6S9MPRPtt58jWb6JuRrm) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 0:36 | 2023-01-26 |  |
@@ -31,7 +32,7 @@
 | [MY FOOLISH STORY](https://open.spotify.com/track/23iNE27DugVD8N3LiLTdQF) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:54 | 2023-01-26 |  |
 | [Never Change](https://open.spotify.com/track/5VsuLuRLv7JJ2Cx0bMQvAD) | [C.Melo 2000](https://open.spotify.com/artist/0yXdV5R98B2ro9g21c3KA0), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [New Flow 2](https://open.spotify.com/album/07CWE671HIEOJJWE3mmZb4) | 3:26 | 2022-12-23 |  |
 | [NEVER SAY GOODBYE](https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [NEVER SAY GOODBYE](https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3) | 4:50 | 2022-12-23 |  |
-| [NO HOME NO COUNTRY](https://open.spotify.com/track/711S16U7t5IfpIUaIzvcp8) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY), [IMANI](https://open.spotify.com/artist/76aSCaut5ONWWE5btB4Kj8) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 5:30 | 2023-01-26 |  |
+| [NO HOME NO COUNTRY](https://open.spotify.com/track/711S16U7t5IfpIUaIzvcp8) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY), [IMANI](https://open.spotify.com/artist/76aSCaut5ONWWE5btB4Kj8) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 5:30 | 2023-01-26 | 2023-01-29 |
 | [No Tomorrow \(Give It Up\)](https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [No Tomorrow \(Give It Up\)](https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS) | 4:26 | 2022-12-23 |  |
 | [SHOW TIME](https://open.spotify.com/track/5eOOnFQHQdb5DpJvZRPS2l) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [SHOW TIME](https://open.spotify.com/album/24yJA2oiDwau8NsrcqH2lw) | 4:44 | 2022-12-23 |  |
 | [STAYING IN THE GROOVE](https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [STAYING IN THE GROOVE](https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q) | 4:50 | 2022-12-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 517601,
+  "num_followers": 517499,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDVhMDY4Y2MxZWU0ZTBlNzYzYThhOTdhZGM0OWVjZDMz",
+  "snapshot_id": "MTY2OTk1NzI2MCwwMDAwMDAwMDE3NzJiYjIzM2QyYWYwYzVkZGJlNGZjY2RlMmJmYjgw",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/5YBmVtkeoRdxU1GhRDrxuz"
     },
     {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 264360,
-      "name": "Santa Claus Is Coming To Town",
-      "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Have Yourself a Merry Little Christmas",
@@ -379,18 +363,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Sound Of Christmas",
-        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
       "artists": [
         {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 158933,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
+      "duration_ms": 264360,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -407,6 +391,22 @@
       "duration_ms": 177108,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 158933,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "I Dream Of Christmas",
-        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 160290,
-      "name": "Christmas Don't Be Late",
-      "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Merry Christmas from Jos\u00e9 James",
         "url": "https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 176080,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/11EHUtg6DvSmW0qVNVZWXI"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "I Dream Of Christmas",
+        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 160290,
+      "name": "Christmas Don't Be Late",
+      "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -553,38 +553,6 @@
       "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
     },
     {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "A Dave Brubeck Christmas",
-        "url": "https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "To Us Is Given",
-      "url": "https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt"
-    },
-    {
-      "added_at": "2022-10-21 04:01:00",
-      "album": {
-        "name": "I Dream Of Christmas",
-        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 200461,
-      "name": "Christmas Calling (Jolly Jones)",
-      "url": "https://open.spotify.com/track/53oBX4dx0KGxIaAWCFSjks"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "The Merriest",
@@ -603,6 +571,22 @@
       "duration_ms": 237613,
       "name": "That Holiday Feeling",
       "url": "https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "A Dave Brubeck Christmas",
+        "url": "https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "To Us Is Given",
+      "url": "https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -637,20 +621,20 @@
       "url": "https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor"
     },
     {
-      "added_at": "2021-11-12 15:48:58",
+      "added_at": "2022-10-21 04:01:00",
       "album": {
-        "name": "Three Suites",
-        "url": "https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS"
+        "name": "I Dream Of Christmas",
+        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
       },
       "artists": [
         {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 185186,
-      "name": "Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
-      "url": "https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0"
+      "duration_ms": 200461,
+      "name": "Christmas Calling (Jolly Jones)",
+      "url": "https://open.spotify.com/track/53oBX4dx0KGxIaAWCFSjks"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -671,6 +655,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Three Suites",
+        "url": "https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
+      "url": "https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "Show Me The Magic",
         "url": "https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 150412,
       "name": "Show Me The Magic",
       "url": "https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -703,18 +719,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+        "name": "Simply Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN"
       },
       "artists": [
         {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
         }
       ],
-      "duration_ms": 172960,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
+      "duration_ms": 182852,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -755,42 +771,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Pretty/Groovy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker Quartet",
-          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
-        },
-        {
-          "name": "Russ Freeman",
-          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
-        }
-      ],
-      "duration_ms": 148026,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/1hEsEGLZZX4nfwtXmyerbb"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Simply Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN"
-      },
-      "artists": [
-        {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
-        }
-      ],
-      "duration_ms": 182852,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "Christmas Cookin'",
         "url": "https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC"
       },
@@ -811,22 +791,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "The Decca Singles 1949-1958",
-        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+        "name": "Pretty/Groovy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Chet Baker Quartet",
+          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
         },
         {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
         }
       ],
-      "duration_ms": 174893,
-      "name": "Christmas In New Orleans",
-      "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
+      "duration_ms": 148026,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1hEsEGLZZX4nfwtXmyerbb"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -843,6 +823,26 @@
       "duration_ms": 243600,
       "name": "Have a Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "The Decca Singles 1949-1958",
+        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "Christmas In New Orleans",
+      "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
     }
   ],
   "unique_name": "Christmas Jazz",

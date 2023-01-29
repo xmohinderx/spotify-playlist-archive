@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Allison Russell",
-  "num_followers": 46745,
+  "num_followers": 46770,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzMDQzMCwwMDAwMDAwMGM1MDEzY2M1MjA1NDRkNDRmZWE4NWZkOWVhNGEzZmUy",
+  "snapshot_id": "MTY1ODkzMDQzMCwwMDAwMDAwMGUwYTcwZDVjMDk1NWI4M2FhM2NkZDIxMDk5Y2IxZjJl",
   "tracks": [
     {
       "added_at": "2022-07-27 14:00:29",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 241200,
-      "name": "jordan",
-      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Ode to a Friend",
         "url": "https://open.spotify.com/album/4nJtIUkvEQe6X4QCbcjehD"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 184013,
       "name": "Hope",
       "url": "https://open.spotify.com/track/0DOUO2YQnDrD5ad3qXA0vO"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 241200,
+      "name": "jordan",
+      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3eYfdXctkEmwlDK9GWf2oG"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/6zUi8XppfhPn8xmi4przSg"
+        }
+      ],
+      "duration_ms": 402654,
+      "name": "Middle Of Nowhere",
+      "url": "https://open.spotify.com/track/01w1oPjMMgYoXOv6bJyP8Q"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
         "name": "How Lucky",
         "url": "https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 203117,
       "name": "How Lucky",
       "url": "https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
-        "name": "Middle Of Nowhere",
-        "url": "https://open.spotify.com/album/3eYfdXctkEmwlDK9GWf2oG"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/6zUi8XppfhPn8xmi4przSg"
-        }
-      ],
-      "duration_ms": 402654,
-      "name": "Middle Of Nowhere",
-      "url": "https://open.spotify.com/track/01w1oPjMMgYoXOv6bJyP8Q"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "Half Your Love",
-      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 234240,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "Half Your Love",
+      "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Providence Canyon",
-        "url": "https://open.spotify.com/album/5PRI3Le2iKuhNdJ8yebeVj"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Come Home Soon",
-      "url": "https://open.spotify.com/track/1cphwoceaKmjUZSRKYbFh2"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Before the Bridge",
         "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 211500,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Providence Canyon",
+        "url": "https://open.spotify.com/album/5PRI3Le2iKuhNdJ8yebeVj"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Come Home Soon",
+      "url": "https://open.spotify.com/track/1cphwoceaKmjUZSRKYbFh2"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Fifteen",
-        "url": "https://open.spotify.com/album/119HRNCY7xfA3R218gtspV"
-      },
-      "artists": [
-        {
-          "name": "The Wailin' Jennys",
-          "url": "https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj"
-        }
-      ],
-      "duration_ms": 222704,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
         "name": "Wells",
         "url": "https://open.spotify.com/album/0zCup7KY2DIa5td1IcFQDn"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 223386,
       "name": "Wells",
       "url": "https://open.spotify.com/track/1WiVvolTPvAsVOd64HZi4X"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
+        "name": "Fifteen",
+        "url": "https://open.spotify.com/album/119HRNCY7xfA3R218gtspV"
+      },
+      "artists": [
+        {
+          "name": "The Wailin' Jennys",
+          "url": "https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj"
+        }
+      ],
+      "duration_ms": 222704,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Misnomer",
-        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
+        "name": "Know Your Mind",
+        "url": "https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Jon and Roy",
+          "url": "https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2"
         }
       ],
-      "duration_ms": 222815,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
+      "duration_ms": 202808,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/3pEnh64tQcPwZs9pLvFPTI"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
-        "name": "Know Your Mind",
-        "url": "https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM"
+        "name": "Misnomer",
+        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
       },
       "artists": [
         {
-          "name": "Jon and Roy",
-          "url": "https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 202808,
-      "name": "Rising Sun",
-      "url": "https://open.spotify.com/track/3pEnh64tQcPwZs9pLvFPTI"
+      "duration_ms": 222815,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
     },
     {
       "added_at": "2022-07-27 14:00:29",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2022-07-27 14:00:29",
       "album": {
+        "name": "Only Pieces of the Truth",
+        "url": "https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hart",
+          "url": "https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo"
+        }
+      ],
+      "duration_ms": 261788,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd"
+    },
+    {
+      "added_at": "2022-07-27 14:00:29",
+      "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": "2022-07-27 14:00:29",
-      "album": {
-        "name": "Only Pieces of the Truth",
-        "url": "https://open.spotify.com/album/5WTMX9SyPDigNcgewZGtLG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Hart",
-          "url": "https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo"
-        }
-      ],
-      "duration_ms": 261788,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/6L1PKCmrvrfsVSDbo6f8Jd"
     },
     {
       "added_at": "2022-07-27 14:00:29",

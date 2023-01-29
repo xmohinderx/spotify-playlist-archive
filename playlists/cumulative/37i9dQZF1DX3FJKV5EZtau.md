@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-328 songs - 19 hr 4 min
+329 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Gum Gum Girl](https://open.spotify.com/track/4xrz4aF606oQ8xqlaoS3ZK) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Gum Gum Girl](https://open.spotify.com/album/67O2yBZLKwAThCY5K3frvS) | 3:39 | 2022-03-11 | 2022-04-21 |
 | [Gurenge](https://open.spotify.com/track/5CPb3hIAHW1YAJsy5n2DQj) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Gurenge](https://open.spotify.com/album/4f6elU39RiUgIztaePyNff) | 3:24 | 2022-01-07 |  |
 | [Gyal Drill](https://open.spotify.com/track/3Ti4tUrJvEufPY1qUdknVl) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [Gyal Drill](https://open.spotify.com/album/7I20IwNei2xSRK1jmOjVJh) | 3:01 | 2022-07-14 | 2022-08-06 |
-| [Heartsore Evermore](https://open.spotify.com/track/4ukdugLqiwiBwoDy93oybp) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg), [Eleanor Forte](https://open.spotify.com/artist/2UT4wTTmIHHPnjXKD7jvPM) | [Rai'Hea](https://open.spotify.com/album/0r63RTgoskyxYJEmUZQooD) | 3:30 | 2023-01-06 |  |
+| [Heartsore Evermore](https://open.spotify.com/track/4ukdugLqiwiBwoDy93oybp) | [AIKA](https://open.spotify.com/artist/1NfT4THLhxNASM4xVImfNg), [Eleanor Forte](https://open.spotify.com/artist/2UT4wTTmIHHPnjXKD7jvPM) | [Rai'Hea](https://open.spotify.com/album/0r63RTgoskyxYJEmUZQooD) | 3:30 | 2023-01-06 | 2023-01-29 |
 | [High Radiance](https://open.spotify.com/track/68nWPqrEiU7OhmGpyGzh8Q) | [Serph](https://open.spotify.com/artist/1N0uTSN7HQpzJYmQIvsusL) | [High Radiance](https://open.spotify.com/album/1oCtGA9V8tB2vPGrccHnz9) | 4:19 | 2022-01-07 | 2022-07-29 |
 | [High Season](https://open.spotify.com/track/11OYIkthYlHX3zoTY8hIX3) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [High Season](https://open.spotify.com/album/0y4rWTCXOekHKAgfIH1ewA) | 2:52 | 2022-01-07 |  |
 | [hikari](https://open.spotify.com/track/6sYJbalTgvb6uJtCIqfySm) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Night Flow](https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24) | 4:07 | 2022-07-14 | 2022-08-06 |
@@ -238,6 +238,7 @@
 | [PEW PEW](https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PEW PEW](https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3) | 3:19 | 2022-08-05 |  |
 | [Pixel Galaxy](https://open.spotify.com/track/7zHq5ayXLxpJ89392EYm1L) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Pixel Galaxy](https://open.spotify.com/album/0VET0W6B5ik8UsznaLXXDw) | 3:55 | 2022-03-11 |  |
 | [Pixelize](https://open.spotify.com/track/73d41oOWB41QWv4mAB5Ymf) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [PIXELIZE](https://open.spotify.com/album/28vy4zbBhFsgyESVG6HsSe) | 3:30 | 2022-08-05 |  |
+| [pls \(−\_−;\)](https://open.spotify.com/track/1y7ZG3g05KN8L2BUm4qRtw) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF), [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn) | [pls \(−\_−;\)](https://open.spotify.com/album/37Hl1DV0EnLAAhrZEI6qDx) | 2:06 | 2023-01-27 |  |
 | [Pokémon League](https://open.spotify.com/track/48os95PFQdkwxDYMUoRefr) | [Duzzled](https://open.spotify.com/artist/0GhzKJWv9t65ln61aRlywb), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Dynamaxed](https://open.spotify.com/album/41kp28evsZqc4Jom26ZBap) | 3:53 | 2022-01-07 | 2022-07-25 |
 | [Power](https://open.spotify.com/track/3KK6KP4JsFL9ZxgdmLhuJz) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Power](https://open.spotify.com/album/3K5uosEB5z9NHS8zWFdcDm) | 3:54 | 2022-08-05 |  |
 | [Power](https://open.spotify.com/track/7gihBA7Qfyy64tHWYyA6vL) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Power](https://open.spotify.com/album/6w4x6iX5LsT6Dzu496aWAT) | 3:54 | 2022-01-07 | 2022-07-20 |

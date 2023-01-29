@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Phillip-Michael Scales",
-  "num_followers": 176321,
+  "num_followers": 176428,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDA5NDRmMWY3ZDQ5NzY0YTliNDIzMWFmN2JhYjk4Nzhm",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDMzNjU0Nzg1NmU3ZWQwMjgwMWU0MmMxOTM1YzczM2M0",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2021-07-09 02:40:08",
       "album": {
-        "name": "Half The City",
-        "url": "https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276"
-    },
-    {
-      "added_at": "2021-07-09 02:40:08",
-      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
+    },
+    {
+      "added_at": "2021-07-09 02:40:08",
+      "album": {
+        "name": "Half The City",
+        "url": "https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276"
     },
     {
       "added_at": "2021-07-09 02:40:08",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Easier Said Than Done",
-        "url": "https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Easier Said Than Done",
-      "url": "https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ"
-    },
-    {
       "added_at": "2021-10-29 04:01:00",
       "album": {
         "name": "Starchild",
@@ -839,6 +823,22 @@
       "duration_ms": 231853,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Easier Said Than Done",
+        "url": "https://open.spotify.com/album/6TXtR9ZlYnBU78SSQy5krJ"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Easier Said Than Done",
+      "url": "https://open.spotify.com/track/05u8tZI4nSuNf3pY0KShfQ"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1045,22 +1045,6 @@
       "url": "https://open.spotify.com/track/2G01T828C7rQXDjn0v24Ku"
     },
     {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Dare You Be Mine",
-        "url": "https://open.spotify.com/album/0fqhDU5uAW2majEJfsdzyO"
-      },
-      "artists": [
-        {
-          "name": "Vintage Trouble",
-          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "Dare You Be Mine",
-      "url": "https://open.spotify.com/track/3VP7lVUgeTTz51Jqha8467"
-    },
-    {
       "added_at": "2021-08-06 04:01:00",
       "album": {
         "name": "Love and Hate in a Different Time",
@@ -1075,6 +1059,22 @@
       "duration_ms": 208573,
       "name": "Love and Hate in a Different Time - Edit",
       "url": "https://open.spotify.com/track/1aTzG5OLk5m868nYMeAn7W"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1101,20 +1101,68 @@
       "url": "https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-12-16 05:01:00",
       "album": {
-        "name": "Side By Side",
-        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
+        "name": "Dare You Be Mine",
+        "url": "https://open.spotify.com/album/0fqhDU5uAW2majEJfsdzyO"
       },
       "artists": [
         {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+          "name": "Vintage Trouble",
+          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
         }
       ],
-      "duration_ms": 256560,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
+      "duration_ms": 207240,
+      "name": "Dare You Be Mine",
+      "url": "https://open.spotify.com/track/3VP7lVUgeTTz51Jqha8467"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "Good Ol' Loving",
+        "url": "https://open.spotify.com/album/0f8kcbEQK1pVl2zBSmVwG6"
+      },
+      "artists": [
+        {
+          "name": "Marlon Pichel",
+          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "Good Ol' Loving",
+      "url": "https://open.spotify.com/track/48L3JxFWB1bLYgEC5G5rOw"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Piece of Me",
+        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 223060,
+      "name": "Joy & Pain",
+      "url": "https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1135,54 +1183,6 @@
       "duration_ms": 195257,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Piece of Me",
-        "url": "https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB"
-      },
-      "artists": [
-        {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "Joy & Pain",
-      "url": "https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "Good Ol' Loving",
-        "url": "https://open.spotify.com/album/0f8kcbEQK1pVl2zBSmVwG6"
-      },
-      "artists": [
-        {
-          "name": "Marlon Pichel",
-          "url": "https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "Good Ol' Loving",
-      "url": "https://open.spotify.com/track/48L3JxFWB1bLYgEC5G5rOw"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6C8aJl0G0HKgrItKUJOYu3"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2vWnNKnnCSSnw95Pmdkc8k"
     },
     {
       "added_at": "2022-03-25 04:01:00",

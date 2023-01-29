@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 55012,
+  "num_followers": 55048,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMGQxOTU4Mjg2NTEwNGIyNDRlNWE5YzI0NmY3ODZhODM3",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMGRmNzQ3NDVlNThiMTYxN2RmMGFkNGQ4ZTZjYTZmOWM0",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -759,6 +759,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 393973,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Faccia a faccia (Remixes)",
         "url": "https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 227019,
       "name": "Faccia a faccia - Italoconnection Remix Radio",
       "url": "https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 393973,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW"
     },
     {
       "added_at": "2021-08-27 15:45:01",

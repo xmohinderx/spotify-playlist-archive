@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Coyote",
-  "num_followers": 20359,
+  "num_followers": 20372,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0ODA1NiwwMDAwMDAwMDBkZTM1YzVmZmVmNTM1OGNmMTE3MTg2NTc0NDk0MTBj",
+  "snapshot_id": "MTY3NDg0ODA1NiwwMDAwMDAwMGE1NzUyMGUxZDQ3YzZmM2RiMzAwMGY5NGU3OWU4MmU5",
   "tracks": [
     {
       "added_at": "2023-01-27 19:34:16",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-01-27 19:34:16",
       "album": {
-        "name": "Pit Lock",
-        "url": "https://open.spotify.com/album/7a2jknztQ0lP5ixtbEIxZX"
-      },
-      "artists": [
-        {
-          "name": "Sadboy Loko",
-          "url": "https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD"
-        },
-        {
-          "name": "Listo",
-          "url": "https://open.spotify.com/artist/5sSLpAr0xoLVlbIRbJEj8j"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Pit Lock",
-      "url": "https://open.spotify.com/track/2AyHR8cpwN5AE8b6LXxEX4"
-    },
-    {
-      "added_at": "2023-01-27 19:34:16",
-      "album": {
         "name": "From The Bottom",
         "url": "https://open.spotify.com/album/4ozmhN28ssF2xD3S0tkg68"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 210895,
       "name": "From The Bottom",
       "url": "https://open.spotify.com/track/1BHuiXsUBW3nED6gKIXIWY"
+    },
+    {
+      "added_at": "2023-01-27 19:34:16",
+      "album": {
+        "name": "Pit Lock",
+        "url": "https://open.spotify.com/album/7a2jknztQ0lP5ixtbEIxZX"
+      },
+      "artists": [
+        {
+          "name": "Sadboy Loko",
+          "url": "https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD"
+        },
+        {
+          "name": "Listo",
+          "url": "https://open.spotify.com/artist/5sSLpAr0xoLVlbIRbJEj8j"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Pit Lock",
+      "url": "https://open.spotify.com/track/2AyHR8cpwN5AE8b6LXxEX4"
     },
     {
       "added_at": "2023-01-27 19:34:16",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-01-27 19:34:16",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/7v6fz2Sq43ZReewY3UOUOP"
-      },
-      "artists": [
-        {
-          "name": "Lil Maru",
-          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
-        }
-      ],
-      "duration_ms": 135154,
-      "name": "High",
-      "url": "https://open.spotify.com/track/2nkPcGygBk0S7RTsWdFLr6"
-    },
-    {
-      "added_at": "2023-01-27 19:34:16",
-      "album": {
         "name": "Ain't Feelin Us",
         "url": "https://open.spotify.com/album/2BYsQs4YSUjJHrITZaRn7F"
       },
@@ -435,6 +419,22 @@
     {
       "added_at": "2023-01-27 19:34:16",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/7v6fz2Sq43ZReewY3UOUOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Maru",
+          "url": "https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L"
+        }
+      ],
+      "duration_ms": 135154,
+      "name": "High",
+      "url": "https://open.spotify.com/track/2nkPcGygBk0S7RTsWdFLr6"
+    },
+    {
+      "added_at": "2023-01-27 19:34:16",
+      "album": {
         "name": "All My Life 2.0",
         "url": "https://open.spotify.com/album/5yBn27YRCXU6ABfchJESB0"
       },
@@ -455,18 +455,26 @@
     {
       "added_at": "2023-01-27 19:34:16",
       "album": {
-        "name": "Vivid Dreams",
-        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
+        "name": "Frontline",
+        "url": "https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j"
       },
       "artists": [
         {
-          "name": "Young Drummer Boy",
-          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Drakeo the Ruler",
+          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
+        },
+        {
+          "name": "Cypress Moreno",
+          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Vivid Dreams",
-      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
+      "duration_ms": 184272,
+      "name": "Frontline",
+      "url": "https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T"
     },
     {
       "added_at": "2023-01-27 19:34:16",
@@ -487,6 +495,22 @@
       "duration_ms": 141240,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/1oUArtekFELwY7XvRUiSB1"
+    },
+    {
+      "added_at": "2023-01-27 19:34:16",
+      "album": {
+        "name": "Vivid Dreams",
+        "url": "https://open.spotify.com/album/3iQ7hzgHsPdk6u6aIGpJtK"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Vivid Dreams",
+      "url": "https://open.spotify.com/track/4vCPmZ6DG3g5ain2NnleN4"
     },
     {
       "added_at": "2023-01-27 19:34:16",
@@ -547,6 +571,30 @@
       "duration_ms": 158007,
       "name": "SLIDIN",
       "url": "https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc"
+    },
+    {
+      "added_at": "2023-01-27 19:34:16",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/1vyjmDQjPezDYw0NTxR7bK"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "Jewl$",
+          "url": "https://open.spotify.com/artist/17dg6WOJR4XH8y2yuNv5AF"
+        },
+        {
+          "name": "Lil Bouncer",
+          "url": "https://open.spotify.com/artist/2K4Rk5N285uJvldQ6nenDh"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/1w50Z3O8mqE3Sioor80Aft"
     },
     {
       "added_at": "2023-01-27 19:34:16",
@@ -623,54 +671,6 @@
       "duration_ms": 192000,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/3iXqT4RJIxiTDwBgGYk2fu"
-    },
-    {
-      "added_at": "2023-01-27 19:34:16",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/1vyjmDQjPezDYw0NTxR7bK"
-      },
-      "artists": [
-        {
-          "name": "Swifty Blue",
-          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
-        },
-        {
-          "name": "Jewl$",
-          "url": "https://open.spotify.com/artist/17dg6WOJR4XH8y2yuNv5AF"
-        },
-        {
-          "name": "Lil Bouncer",
-          "url": "https://open.spotify.com/artist/2K4Rk5N285uJvldQ6nenDh"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/1w50Z3O8mqE3Sioor80Aft"
-    },
-    {
-      "added_at": "2023-01-27 19:34:16",
-      "album": {
-        "name": "Frontline",
-        "url": "https://open.spotify.com/album/7o5wg3VJWGXlp27Tc6rM5j"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Drakeo the Ruler",
-          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
-        },
-        {
-          "name": "Cypress Moreno",
-          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
-        }
-      ],
-      "duration_ms": 184272,
-      "name": "Frontline",
-      "url": "https://open.spotify.com/track/50PDNBs87SWHijwXKCM35T"
     }
   ],
   "unique_name": "Our Wave, Nuestro Hip-Hop",

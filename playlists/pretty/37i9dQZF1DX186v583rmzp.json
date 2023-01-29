@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 7410739,
+  "num_followers": 7414892,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg3MDAwMywwMDAwMDAwMDAxMjdjNmI4MTNhYTRiNTQ3ODdmYmIxYjgzMzM0MDRh",
+  "snapshot_id": "MTY3Mzg3MDAwMywwMDAwMDAwMDc4YTA0ODlmZDZiMzFiY2E4N2IwODQ0MDc2NGY0NWNh",
   "tracks": [
     {
       "added_at": "2023-01-16 11:53:23",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-01-16 11:53:23",
       "album": {
+        "name": "The Don Killuminati: The 7 Day Theory",
+        "url": "https://open.spotify.com/album/2gWrUaBkh1uQARjbjvUGNp"
+      },
+      "artists": [
+        {
+          "name": "Makaveli",
+          "url": "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
+        }
+      ],
+      "duration_ms": 309800,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/6sCtddSFg3foJn4K2pIhfQ"
+    },
+    {
+      "added_at": "2023-01-16 11:53:23",
+      "album": {
         "name": "Capital Punishment (Explicit Version)",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 236800,
       "name": "Still Not a Player (feat. Joe) - Radio Version",
       "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
-    },
-    {
-      "added_at": "2023-01-16 11:53:23",
-      "album": {
-        "name": "The Don Killuminati: The 7 Day Theory",
-        "url": "https://open.spotify.com/album/2gWrUaBkh1uQARjbjvUGNp"
-      },
-      "artists": [
-        {
-          "name": "Makaveli",
-          "url": "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
-        }
-      ],
-      "duration_ms": 309800,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/6sCtddSFg3foJn4K2pIhfQ"
     },
     {
       "added_at": "2023-01-16 11:53:23",
@@ -935,42 +935,6 @@
     {
       "added_at": "2023-01-16 11:53:23",
       "album": {
-        "name": "Vol.2... Hard Knock Life",
-        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "Hard Knock Life (Ghetto Anthem)",
-      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
-    },
-    {
-      "added_at": "2023-01-16 11:53:23",
-      "album": {
-        "name": "Nigga Please",
-        "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
-      },
-      "artists": [
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        },
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 239546,
-      "name": "Got Your Money (feat. Kelis)",
-      "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
-    },
-    {
-      "added_at": "2023-01-16 11:53:23",
-      "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
@@ -1015,6 +979,42 @@
       "duration_ms": 291066,
       "name": "Protect Ya Neck (feat. RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol' Dirty Bastard, Ghostface Killah & GZA)",
       "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
+    },
+    {
+      "added_at": "2023-01-16 11:53:23",
+      "album": {
+        "name": "Nigga Please",
+        "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
+      },
+      "artists": [
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        },
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "Got Your Money (feat. Kelis)",
+      "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
+    },
+    {
+      "added_at": "2023-01-16 11:53:23",
+      "album": {
+        "name": "Vol.2... Hard Knock Life",
+        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "Hard Knock Life (Ghetto Anthem)",
+      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
     },
     {
       "added_at": "2023-01-16 11:53:23",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-01-16 11:53:23",
       "album": {
-        "name": "E. 1999 Eternal",
-        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 314680,
-      "name": "1st of Tha Month",
-      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
-    },
-    {
-      "added_at": "2023-01-16 11:53:23",
-      "album": {
         "name": "Illmatic",
         "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 202106,
       "name": "It Ain't Hard to Tell",
       "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
+    },
+    {
+      "added_at": "2023-01-16 11:53:23",
+      "album": {
+        "name": "E. 1999 Eternal",
+        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 314680,
+      "name": "1st of Tha Month",
+      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
     },
     {
       "added_at": "2023-01-16 11:53:23",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-01-16 11:53:23",
       "album": {
-        "name": "Cypress Hill",
-        "url": "https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 252240,
-      "name": "How I Could Just Kill a Man",
-      "url": "https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w"
-    },
-    {
-      "added_at": "2023-01-16 11:53:23",
-      "album": {
         "name": "Hard To Earn",
         "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 221026,
       "name": "Mass Appeal",
       "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
+    },
+    {
+      "added_at": "2023-01-16 11:53:23",
+      "album": {
+        "name": "Cypress Hill",
+        "url": "https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 252240,
+      "name": "How I Could Just Kill a Man",
+      "url": "https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w"
     },
     {
       "added_at": "2023-01-16 11:53:23",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2023-01-16 11:53:23",
       "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+    },
+    {
+      "added_at": "2023-01-16 11:53:23",
+      "album": {
         "name": "Center of Attention",
         "url": "https://open.spotify.com/album/2VXkgdiXFunIO581a4vqcR"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 276373,
       "name": "Grown Man Sport",
       "url": "https://open.spotify.com/track/6hANdvhL9H7bkESqIVeVIZ"
-    },
-    {
-      "added_at": "2023-01-16 11:53:23",
-      "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     }
   ],
   "unique_name": "I Love My '90s Hip-Hop",

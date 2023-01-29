@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The home of rave worthy melodic techno and house\. Cover: Argy
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,993 likes - 157 songs - 12 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,139 likes - 157 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

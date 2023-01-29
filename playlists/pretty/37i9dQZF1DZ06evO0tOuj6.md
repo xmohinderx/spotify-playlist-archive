@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,059 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,070 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 49 | [そばにいて黙るとき \- Silent By Your Side](https://open.spotify.com/track/0LiFBKOyVZb1y5a6iOl99l) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 5:08 |
 | 50 | [暗夜行路](https://open.spotify.com/track/1uC00Bl7GJUxSNzh0kKMAE) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Stompin' On DOWN BEAT ALLEY](https://open.spotify.com/album/0RbXsDQDjpfId64GzRo4iQ) | 4:15 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDBiNmY4OWQzMzE2YTc3YTFhZDk3ODUxZTI4NzdkNzA5Yg==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDAyNjA3MDZjMTc1MzUwYzRjZGEyNzJhNWY0NDMzNmIwZg==`

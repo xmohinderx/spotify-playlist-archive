@@ -343,6 +343,24 @@
     },
     {
       "album": {
+        "name": "recreation",
+        "url": "https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg"
+      },
+      "artists": [
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "fountain",
+      "url": "https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT"
+    },
+    {
+      "album": {
         "name": "Quickly Quickly, Vol. 1",
         "url": "https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1"
       },
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 86571,
       "name": "viola",
       "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"

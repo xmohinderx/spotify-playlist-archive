@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Los de FL",
-  "num_followers": 97289,
+  "num_followers": 97304,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5Njg1NSwwMDAwMDAwMGEzOTBiOGI5Y2NlYTU3MjVkYjY1MTE0MDhkMDNjODdh",
+  "snapshot_id": "MTY3NDc5Njg1NSwwMDAwMDAwMDU2NjQ3NzNmZGRjYzE2OGQwZmViODVkNTVjYjRlMzU2",
   "tracks": [
     {
       "added_at": "2023-01-27 05:20:55",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
+        "name": "Neverita",
+        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
+      },
+      "artists": [
+        {
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+        }
+      ],
+      "duration_ms": 191296,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
+    },
+    {
+      "added_at": "2023-01-27 05:20:55",
+      "album": {
         "name": "Ando Bien \u00dc",
         "url": "https://open.spotify.com/album/0HdJEOLEX1nw0XEaFNsmST"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 164457,
       "name": "Ando Bien \u00dc",
       "url": "https://open.spotify.com/track/1x6o9oZPUhniTVaSsqPtX8"
-    },
-    {
-      "added_at": "2023-01-27 05:20:55",
-      "album": {
-        "name": "Odio",
-        "url": "https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 153732,
-      "name": "Odio",
-      "url": "https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "Neverita",
-        "url": "https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF"
+        "name": "Odio",
+        "url": "https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj"
       },
       "artists": [
         {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
         }
       ],
-      "duration_ms": 191296,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1"
+      "duration_ms": 153732,
+      "name": "Odio",
+      "url": "https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "Cumbias Light, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
+        "name": "Sigo Con Lo Mio",
+        "url": "https://open.spotify.com/album/3McmdXpjUZRFpHmw2F2KSX"
       },
       "artists": [
         {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+          "name": "Doble Vision",
+          "url": "https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa"
         }
       ],
-      "duration_ms": 162389,
-      "name": "5 Estrellas - En Vivo",
-      "url": "https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9"
+      "duration_ms": 142498,
+      "name": "Sigo Con Lo Mio",
+      "url": "https://open.spotify.com/track/5jhanDbxGEBawATLvPZ00j"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "Sigo Con Lo Mio",
-        "url": "https://open.spotify.com/album/3McmdXpjUZRFpHmw2F2KSX"
+        "name": "Cumbias Light, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
       },
       "artists": [
         {
-          "name": "Doble Vision",
-          "url": "https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa"
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 142498,
-      "name": "Sigo Con Lo Mio",
-      "url": "https://open.spotify.com/track/5jhanDbxGEBawATLvPZ00j"
+      "duration_ms": 162389,
+      "name": "5 Estrellas - En Vivo",
+      "url": "https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "komo llego el final",
-        "url": "https://open.spotify.com/album/41KwENklF7OXxcEGsBkbGF"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 185549,
-      "name": "komo llego el final",
-      "url": "https://open.spotify.com/track/37wrK3Whdi4ZNbPZUiA5hf"
-    },
-    {
-      "added_at": "2023-01-27 05:20:55",
-      "album": {
         "name": "Este Sentimiento",
         "url": "https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "Damas y Placeres",
-        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+        "name": "komo llego el final",
+        "url": "https://open.spotify.com/album/41KwENklF7OXxcEGsBkbGF"
       },
       "artists": [
         {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
         }
       ],
-      "duration_ms": 196437,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk"
+      "duration_ms": 185549,
+      "name": "komo llego el final",
+      "url": "https://open.spotify.com/track/37wrK3Whdi4ZNbPZUiA5hf"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -699,6 +683,22 @@
       "duration_ms": 211106,
       "name": "Modo Avi\u00f3n",
       "url": "https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk"
+    },
+    {
+      "added_at": "2023-01-27 05:20:55",
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
+        "name": "Recuerdos Del Pasado, Vol. 2",
+        "url": "https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3digo Secreto",
+          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
+        }
+      ],
+      "duration_ms": 232368,
+      "name": "Nadie En Este Mundo",
+      "url": "https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ"
+    },
+    {
+      "added_at": "2023-01-27 05:20:55",
+      "album": {
         "name": "Ven Conmigo",
         "url": "https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "Ganas de Amarte",
-        "url": "https://open.spotify.com/album/6RGTD8Hrab0jvfgP3Z56Tt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Nueva Liga",
-          "url": "https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk"
-        }
-      ],
-      "duration_ms": 203710,
-      "name": "Ganas de Amarte",
-      "url": "https://open.spotify.com/track/7FzqgB7Ho4mMCXXPrZFGRv"
-    },
-    {
-      "added_at": "2023-01-27 05:20:55",
-      "album": {
         "name": "MIA",
         "url": "https://open.spotify.com/album/11hjzgKjphCyjn5w1ydbNw"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 197719,
       "name": "MIA",
       "url": "https://open.spotify.com/track/7ELarnBPldbkkEKVEkihQW"
+    },
+    {
+      "added_at": "2023-01-27 05:20:55",
+      "album": {
+        "name": "Ganas de Amarte",
+        "url": "https://open.spotify.com/album/6RGTD8Hrab0jvfgP3Z56Tt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Nueva Liga",
+          "url": "https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk"
+        }
+      ],
+      "duration_ms": 203710,
+      "name": "Ganas de Amarte",
+      "url": "https://open.spotify.com/track/7FzqgB7Ho4mMCXXPrZFGRv"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/5MfVyzPs79cE0RKF1aboZ6"
-      },
-      "artists": [
-        {
-          "name": "Leonilo Jaimes",
-          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
-        }
-      ],
-      "duration_ms": 190125,
-      "name": "Fvck You",
-      "url": "https://open.spotify.com/track/1ZME1QjPhFwmbLmBOcsaLL"
-    },
-    {
-      "added_at": "2023-01-27 05:20:55",
-      "album": {
         "name": "Las Rayas",
         "url": "https://open.spotify.com/album/3UR62vj0iao5rSSTYEEWDD"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 190636,
       "name": "Las Rayas",
       "url": "https://open.spotify.com/track/3NR39Ys3YaqjdckVC5tAhY"
+    },
+    {
+      "added_at": "2023-01-27 05:20:55",
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/5MfVyzPs79cE0RKF1aboZ6"
+      },
+      "artists": [
+        {
+          "name": "Leonilo Jaimes",
+          "url": "https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH"
+        }
+      ],
+      "duration_ms": 190125,
+      "name": "Fvck You",
+      "url": "https://open.spotify.com/track/1ZME1QjPhFwmbLmBOcsaLL"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -1139,22 +1155,6 @@
       "duration_ms": 207999,
       "name": "Hasta Arriba",
       "url": "https://open.spotify.com/track/721YplUtlKxxxh5sDIWYda"
-    },
-    {
-      "added_at": "2023-01-27 05:20:55",
-      "album": {
-        "name": "Recuerdos Del Pasado, Vol. 2",
-        "url": "https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm"
-      },
-      "artists": [
-        {
-          "name": "Pr\u00f3digo Secreto",
-          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
-        }
-      ],
-      "duration_ms": 232368,
-      "name": "Nadie En Este Mundo",
-      "url": "https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "El Morro De La Cuadra",
-        "url": "https://open.spotify.com/album/4PKdlKBjwogesrFS1aneCG"
-      },
-      "artists": [
-        {
-          "name": "JR Solis",
-          "url": "https://open.spotify.com/artist/2XwuNfW0pS0qb2Mv3iWwrv"
-        }
-      ],
-      "duration_ms": 95586,
-      "name": "El Morro De La Cuadra",
-      "url": "https://open.spotify.com/track/4WhNJBv7kWWoQL2w1zpOSl"
-    },
-    {
-      "added_at": "2023-01-27 05:20:55",
-      "album": {
         "name": "Me Tuve Que Pelar Pa Culiac\u00e1n",
         "url": "https://open.spotify.com/album/60L8KEOT1XsBxkni1EiAlR"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 211156,
       "name": "Me Tuve Que Pelar Pa Culiac\u00e1n",
       "url": "https://open.spotify.com/track/1Ltvt6fkT1Pq6t9r70Qe94"
+    },
+    {
+      "added_at": "2023-01-27 05:20:55",
+      "album": {
+        "name": "El Morro De La Cuadra",
+        "url": "https://open.spotify.com/album/4PKdlKBjwogesrFS1aneCG"
+      },
+      "artists": [
+        {
+          "name": "JR Solis",
+          "url": "https://open.spotify.com/artist/2XwuNfW0pS0qb2Mv3iWwrv"
+        }
+      ],
+      "duration_ms": 95586,
+      "name": "El Morro De La Cuadra",
+      "url": "https://open.spotify.com/track/4WhNJBv7kWWoQL2w1zpOSl"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "La Mesa Del Rinc\u00f3n",
-        "url": "https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4"
+        "name": "Atraido A Ti",
+        "url": "https://open.spotify.com/album/3tVAJYtpVoW46Ey2Tfn22L"
       },
       "artists": [
         {
-          "name": "Dueto Eleval",
-          "url": "https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK"
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
         }
       ],
-      "duration_ms": 191862,
-      "name": "La Mesa Del Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs"
+      "duration_ms": 208002,
+      "name": "Atraido A Ti",
+      "url": "https://open.spotify.com/track/3yX2QyAOg06lxR884Z1rCc"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "Atraido A Ti",
-        "url": "https://open.spotify.com/album/3tVAJYtpVoW46Ey2Tfn22L"
-      },
-      "artists": [
-        {
-          "name": "Proximo Nivel",
-          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
-        }
-      ],
-      "duration_ms": 208002,
-      "name": "Atraido A Ti",
-      "url": "https://open.spotify.com/track/3yX2QyAOg06lxR884Z1rCc"
-    },
-    {
-      "added_at": "2023-01-27 05:20:55",
-      "album": {
         "name": "El Patio del Recreo",
         "url": "https://open.spotify.com/album/3TaL6RfqObbnteKNqTkXxl"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
-        "name": "El G\u00fcero Reagan",
-        "url": "https://open.spotify.com/album/3z0hSNoK8yEuudWAeuhgct"
+        "name": "La Mesa Del Rinc\u00f3n",
+        "url": "https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4"
       },
       "artists": [
         {
-          "name": "Ldln",
-          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
+          "name": "Dueto Eleval",
+          "url": "https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK"
         }
       ],
-      "duration_ms": 192405,
-      "name": "El G\u00fcero Reagan",
-      "url": "https://open.spotify.com/track/2NtdZRTrLecERsYqZZv5Av"
+      "duration_ms": 191862,
+      "name": "La Mesa Del Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2023-01-27 05:20:55",
       "album": {
+        "name": "El G\u00fcero Reagan",
+        "url": "https://open.spotify.com/album/3z0hSNoK8yEuudWAeuhgct"
+      },
+      "artists": [
+        {
+          "name": "Ldln",
+          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
+        }
+      ],
+      "duration_ms": 192405,
+      "name": "El G\u00fcero Reagan",
+      "url": "https://open.spotify.com/track/2NtdZRTrLecERsYqZZv5Av"
+    },
+    {
+      "added_at": "2023-01-27 05:20:55",
+      "album": {
         "name": "Ni Diabla Ni Santa",
         "url": "https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 168154,
       "name": "Ni Diabla Ni Santa",
       "url": "https://open.spotify.com/track/1NncWv7T19isafndpzddUd"
+    },
+    {
+      "added_at": "2023-01-27 05:20:55",
+      "album": {
+        "name": "Me Dicen El Flako",
+        "url": "https://open.spotify.com/album/4JAJmMPczQ3BtKudlmsiEt"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Me Dicen El Flako",
+      "url": "https://open.spotify.com/track/6KPr4RTyw2lOmgJ6RmisGX"
     },
     {
       "added_at": "2023-01-27 05:20:55",
@@ -1591,22 +1607,6 @@
       "duration_ms": 149477,
       "name": "Ya Marca La Cosa",
       "url": "https://open.spotify.com/track/3Oc7ORYC6J837i7tLyAJDM"
-    },
-    {
-      "added_at": "2023-01-27 05:20:55",
-      "album": {
-        "name": "Me Dicen El Flako",
-        "url": "https://open.spotify.com/album/4JAJmMPczQ3BtKudlmsiEt"
-      },
-      "artists": [
-        {
-          "name": "Pantera De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Me Dicen El Flako",
-      "url": "https://open.spotify.com/track/6KPr4RTyw2lOmgJ6RmisGX"
     },
     {
       "added_at": "2023-01-27 05:20:55",

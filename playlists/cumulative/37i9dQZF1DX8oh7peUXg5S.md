@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joan Manuel Serrat.
 
-219 songs - 14 hr 6 min
+220 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [De todas las flores](https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De todas las flores](https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP) | 5:22 | 2022-09-22 | 2022-11-25 |
 | [Desde Que Te Perdí](https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [City Zen](https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L) | 3:48 | 2022-06-09 |  |
 | [Desengaño](https://open.spotify.com/track/4lPrY70fkKQy1aQRZEKsSE) | [Luis Pastor](https://open.spotify.com/artist/0GF14xtdEUhEMxLH3TFDr0) | [Extremadura Fado](https://open.spotify.com/album/3IkTQ3ZF79DuMU0q1eMWTM) | 3:39 | 2022-06-09 | 2022-07-01 |
-| [Deseos de cosas imposibles](https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Deseos de cosas imposibles](https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk) | 3:34 | 2022-06-09 |  |
+| [Deseos de cosas imposibles](https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Deseos de cosas imposibles](https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk) | 3:34 | 2022-06-09 | 2023-01-29 |
 | [Dice la gente](https://open.spotify.com/track/5nw6Uk1a2NkmTqfalBvMia) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Dice la gente](https://open.spotify.com/album/2M5yZ4i9t80oONCUyGlp26) | 4:48 | 2022-06-30 | 2022-07-12 |
 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 | 2022-06-09 |  |
 | [El Arriero](https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [From Argentina To The World](https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR) | 3:30 | 2022-09-08 |  |
@@ -115,6 +115,7 @@
 | [Libre te quiero](https://open.spotify.com/track/2fBCjtFq4Xzue65sCFxAof) | [Amancio Prada](https://open.spotify.com/artist/2zzdcDYrrZE11oQ4xo2Ufr) | [Canciones de amor y celda](https://open.spotify.com/album/6Jpai5ZKz0dAXOukKeFqro) | 3:21 | 2022-06-09 | 2022-07-25 |
 | [Lo Niego Todo](https://open.spotify.com/track/4OpjKvt0ZXA117dqzOrV1y) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/5hkq8Af2XQd5wYSQwscjOs) | 4:42 | 2022-06-09 | 2022-07-29 |
 | [Lo Que Me Dice Tu Boca \- Live](https://open.spotify.com/track/4MbbgZZO5zzw5QAbOEv421) | [Javier Ruibal](https://open.spotify.com/artist/2BGKgfF1cNY6KyfTfS3sVE) | [Lo Que Me Dice Tu Boca, Grabado en Directo \(Live\)](https://open.spotify.com/album/4L5xfWLqzgg1svMVnnRDYc) | 3:18 | 2022-06-09 | 2022-07-28 |
+| [lo que siento](https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [lo que siento](https://open.spotify.com/album/6DtlwcQChlzCGwjErEk8et) | 3:11 | 2023-01-27 |  |
 | [Lucha de gigantes \- Live](https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Básico](https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka) | 3:57 | 2022-06-09 |  |
 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 | 2022-08-11 |  |
 | [Lucía](https://open.spotify.com/track/4vGMLLZQbanPA7CxiUndM7) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Lucía](https://open.spotify.com/album/69XgctIStwKPPFJ0ZhXNjW) | 3:04 | 2022-06-30 | 2022-07-24 |

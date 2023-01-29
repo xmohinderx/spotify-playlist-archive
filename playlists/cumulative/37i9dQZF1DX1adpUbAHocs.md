@@ -4,7 +4,7 @@
 
 > hop in and take the long way.
 
-279 songs - 17 hr 32 min
+280 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 | 2022-03-22 | 2022-04-21 |
 | [Confirmation \(SSBD\)](https://open.spotify.com/track/3Pqy5RRW33bhxYXN0ZZNXG) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 4:18 | 2021-10-08 | 2022-07-28 |
 | [Control](https://open.spotify.com/track/0H2oAJ06XboQPa4DnKSbXL) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Control](https://open.spotify.com/album/7Ea1qWHjd65hekrOI51DJl) | 3:30 | 2022-01-07 | 2022-07-21 |
-| [Count On Me](https://open.spotify.com/track/5sA7NCo4bHH9stpolSymvz) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 2:40 | 2021-10-08 |  |
+| [Count On Me](https://open.spotify.com/track/5sA7NCo4bHH9stpolSymvz) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 2:40 | 2021-10-08 | 2023-01-29 |
 | [Crutch](https://open.spotify.com/track/2QpvldSBDfPtduEVC9jm9O) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/3hWOJ8Xj5yVqcHWtjkMQ3q) | 3:43 | 2022-03-22 | 2023-01-15 |
 | [Dance Around It](https://open.spotify.com/track/3ds7PIuFylIZm05cWKzq8o) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Dance Around It](https://open.spotify.com/album/3Ee65K1Z40p7NYMdZnH2bh) | 3:26 | 2022-03-22 | 2022-07-29 |
 | [Dance Around It \(feat\. Brandi Carlile & Sheryl Crow\)](https://open.spotify.com/track/1jxRF1uyBtNLaq2NL5ISro) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:26 | 2022-03-22 |  |
@@ -68,6 +68,7 @@
 | [Didn't Fix Me](https://open.spotify.com/track/4pqcb6b9PoBnK3HSt4tIeo) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Good Luck With Whatever](https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ) | 5:32 | 2021-10-08 | 2022-07-28 |
 | [didn't you believe in me?](https://open.spotify.com/track/3nKtDtNpGFa8fRZQMpjNVR) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [quite early one morning](https://open.spotify.com/album/7COOYAhKymobmwEXFsRdLB) | 2:15 | 2022-03-22 | 2022-11-13 |
 | [Domino](https://open.spotify.com/track/00Z9EPuVs8hpWTn6Cd6wfR) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/0WGo4dh01tJd286InYutkB) | 4:03 | 2021-10-08 | 2022-07-29 |
+| [Don't](https://open.spotify.com/track/2q9YHakYN697yPpEitqybk) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Don't](https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS) | 3:02 | 2023-01-27 |  |
 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 | 2022-03-22 | 2022-11-13 |
 | [Down in the Country](https://open.spotify.com/track/7cxRBKW8sz7BImPV6mdiIn) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz) | 3:34 | 2021-10-08 | 2022-07-27 |
 | [Dream Never Dies](https://open.spotify.com/track/6xLX58MTspmLTj3YRCe7Bt) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [Dream Never Dies](https://open.spotify.com/album/4KknXTBGrp4A1C8aIvtgOk) | 4:45 | 2022-03-22 | 2022-07-29 |

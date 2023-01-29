@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,247 likes - 49 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,250 likes - 49 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 48 | [Remember, Remember](https://open.spotify.com/track/2X0imj3VOfDGWXOwaYlChu) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 4:50 |
 | 49 | [Window](https://open.spotify.com/track/6gOIKwnnUBcpwRfEpYHBxI) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 4:28 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDBlMjA3NThmZWNmNDE1NTkzZjExMDg4ZmUxODY0ZGVkNQ==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDA3MTg2NDE1NzkwNmY3NDM5NTc1NzAwZDlmODAzOTIxMA==`

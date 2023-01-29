@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,391 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,398 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 49 | [Wrong Way \(Remix\) \[feat\. Baby Tate\]](https://open.spotify.com/track/3pc2kn6ni9AsB7ZfoKUvHH) | [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Wrong Way \(Remix\) \[feat\. Baby Tate\]](https://open.spotify.com/album/182Nr8zqQ7AwtSDt24lhAu) | 3:13 |
 | 50 | [Pretty Girl](https://open.spotify.com/track/3oFlyenXjgsCoLCO90sAdY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Pretty Girl](https://open.spotify.com/album/0cO634E61hUhjEkrVm9VOf) | 2:33 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDAxYzM0ZGMyMzNlMzY3OTU4Yjg1MDQ5NzEwMDJmNDM0NA==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDBiNjExZjQyMDA5YTNmYjcwNzU1NDI0YTNhZTRiZGFiMA==`

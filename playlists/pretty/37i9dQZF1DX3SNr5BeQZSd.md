@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,900 likes - 115 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,148 likes - 115 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 79 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 |
 | 80 | [i love being with you](https://open.spotify.com/track/05WumP6Z6mu15TfGb4HvUg) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/3CqMf4FpdYhjSTtFQiQnVK) | 1:36 |
 | 81 | [Romantic Lofi Mashup](https://open.spotify.com/track/6rCt3zQpc2wRHjHhM8EwHB) | [Visual Chinmay](https://open.spotify.com/artist/6OQun0qxoOjStLIqxcmYK6) | [Romantic Lofi Mashup](https://open.spotify.com/album/6uLTofOp4wij6YCcb0Mwlu) | 4:00 |
-| 82 | [Kya Mujhe Pyaar Hai \- Lofi Flip](https://open.spotify.com/track/3Bh3NOzgOPlgJwpGz8P8Dt) | [Dj Vicky Belgaum](https://open.spotify.com/artist/3iZYzGUWgZKf8yoKLWKlxy) | [Kya Mujhe Pyaar Hai \(Lofi Flip\)](https://open.spotify.com/album/5O4fKxZIYBPoIpBPeNGwyO) | 3:39 |
+| 82 | [Kya Mujhe Pyaar Hai \- LoFi Flip](https://open.spotify.com/track/4t2xJQmcdjW9YKjIWvWVSi) | [Dj Vicky Belgaum](https://open.spotify.com/artist/3iZYzGUWgZKf8yoKLWKlxy) | [Kya Mujhe Pyaar Hai \- LoFi Flip](https://open.spotify.com/album/4k3fslSFG7fzltxfCXKzjd) | 3:39 |
 | 83 | [Is It Too Much to Ask For](https://open.spotify.com/track/5KPSKv02jtAsI7fmpT7enC) | [me7k](https://open.spotify.com/artist/5yXMtEjaBVEtGSyICT1w2b) | [Is It Too Much to Ask For](https://open.spotify.com/album/0IzYrQln8FJY0XwfYq3X6c) | 1:40 |
 | 84 | [Get You The Moon X Agar Tum Saath Ho](https://open.spotify.com/track/5qhWIOZ6HztbHnsWNnkJTf) | [Pranish VP](https://open.spotify.com/artist/2RXTjV42UE6r9i5izVsiKa) | [Get You The Moon X Agar Tum Saath Ho](https://open.spotify.com/album/57Q4oIX0NNzE8pcZhE0XIW) | 3:56 |
 | 85 | [Waalian \(Lo\-Fi\)](https://open.spotify.com/track/1FTiraMT2EX2zX1445zmWD) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU) | [Waalian \(Lo\-Fi\)](https://open.spotify.com/album/2moppEz2KPZAFIY63zjoaq) | 2:55 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 114 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 115 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MTY3NDA1MTYxOCwwMDAwMDAwMDE3YTg5NjRlMzRjZWUyNWZlYTljMjU2NmEyM2U0OTc5`
+Snapshot ID: `MTY3NDA1MTYxOCwwMDAwMDAwMDNlMWQ0NjYyMGZlM2JhODM2ZmM1ZDZkOWIxZTUwNTE1`

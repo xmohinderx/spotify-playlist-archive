@@ -1,12 +1,12 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol. Cover: Santana",
-  "num_followers": 4081637,
+  "num_followers": 4082029,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2MjY3NiwwMDAwMDAwMDY4YmE5MTEwMTJkOGY5ZWMyZWYxNzgyYmNmYmQ3MTJk",
+  "snapshot_id": "MTY3MzU2MjY3NiwwMDAwMDAwMGY2MWQxMjEyMWJhZTc1ZjE4ZWVmOWE1Y2ExOGMyMWVi",
   "tracks": [
     {
       "added_at": "2023-01-12 22:31:16",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-12 22:31:16",
       "album": {
-        "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
-        "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Sabor a Chocolate",
-      "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
-    },
-    {
-      "added_at": "2023-01-12 22:31:16",
-      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 156197,
       "name": "Irresponsables",
       "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
+    },
+    {
+      "added_at": "2023-01-12 22:31:16",
+      "album": {
+        "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
+        "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Sabor a Chocolate",
+      "url": "https://open.spotify.com/track/29OzJTIOTjCgR7fLyEXY7u"
     },
     {
       "added_at": "2023-01-12 22:31:16",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-01-12 22:31:16",
       "album": {
+        "name": "Deseo Carnal",
+        "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Ni t\u00fa ni nadie",
+      "url": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
+    },
+    {
+      "added_at": "2023-01-12 22:31:16",
+      "album": {
         "name": "Hijos del pueblo",
         "url": "https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 212560,
       "name": "Aunque no sea conmigo",
       "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
-    },
-    {
-      "added_at": "2023-01-12 22:31:16",
-      "album": {
-        "name": "Deseo Carnal",
-        "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Ni t\u00fa ni nadie",
-      "url": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
     },
     {
       "added_at": "2023-01-12 22:31:16",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-01-12 22:31:16",
       "album": {
-        "name": "Una rola para los minusv\u00e1lidos",
-        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Las piedras rodantes",
-      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
-    },
-    {
-      "added_at": "2023-01-12 22:31:16",
-      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2023-01-12 22:31:16",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
+        "name": "Una rola para los minusv\u00e1lidos",
+        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
       },
       "artists": [
         {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 194573,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
+      "duration_ms": 198040,
+      "name": "Las piedras rodantes",
+      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
     },
     {
       "added_at": "2023-01-12 22:31:16",
@@ -987,18 +971,18 @@
     {
       "added_at": "2023-01-12 22:31:16",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
         }
       ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+      "duration_ms": 194573,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
     },
     {
       "added_at": "2023-01-12 22:31:16",
@@ -1015,6 +999,22 @@
       "duration_ms": 224826,
       "name": "Santa Lucia - Remastered 2005",
       "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
+    },
+    {
+      "added_at": "2023-01-12 22:31:16",
+      "album": {
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2023-01-12 22:31:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-01-12 22:31:16",
       "album": {
-        "name": "25 a\u00f1os",
-        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Pobre so\u00f1ador",
-      "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
-    },
-    {
-      "added_at": "2023-01-12 22:31:16",
-      "album": {
         "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
         "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 276773,
       "name": "Beber de Tu Sangre",
       "url": "https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG"
+    },
+    {
+      "added_at": "2023-01-12 22:31:16",
+      "album": {
+        "name": "25 a\u00f1os",
+        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Pobre so\u00f1ador",
+      "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
     },
     {
       "added_at": "2023-01-12 22:31:16",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-01-12 22:31:16",
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Mirala Miralo",
+      "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
+    },
+    {
+      "added_at": "2023-01-12 22:31:16",
+      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
-    },
-    {
-      "added_at": "2023-01-12 22:31:16",
-      "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Mirala Miralo",
-      "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
     },
     {
       "added_at": "2023-01-12 22:31:16",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-01-12 22:31:16",
       "album": {
-        "name": "Veinte Para Las Doce",
-        "url": "https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI"
-      },
-      "artists": [
-        {
-          "name": "Coda",
-          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
-        }
-      ],
-      "duration_ms": 294333,
-      "name": "Aun",
-      "url": "https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u"
-    },
-    {
-      "added_at": "2023-01-12 22:31:16",
-      "album": {
         "name": "Material defectuoso",
         "url": "https://open.spotify.com/album/3JFryzZ2dByJ7Z2Ik2fVua"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 516666,
       "name": "Si te vas...",
       "url": "https://open.spotify.com/track/2x59pa3xDf8hHZ4N3f5fGQ"
+    },
+    {
+      "added_at": "2023-01-12 22:31:16",
+      "album": {
+        "name": "Veinte Para Las Doce",
+        "url": "https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
+        }
+      ],
+      "duration_ms": 294333,
+      "name": "Aun",
+      "url": "https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u"
     },
     {
       "added_at": "2023-01-12 22:31:16",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-01-12 22:31:16",
       "album": {
-        "name": "Lo Que And\u00e1bamos Buscando (Special Para CEV)",
-        "url": "https://open.spotify.com/album/5v3tEjfsPvLN3aDawSSx7h"
+        "name": "Amores Prohibidos",
+        "url": "https://open.spotify.com/album/3UtKEUIbn6eO4buBE826We"
       },
       "artists": [
         {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 309480,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/3ge3q3Hz0KWhQX5EAQcwEy"
+      "duration_ms": 195426,
+      "name": "Amores Prohibidos",
+      "url": "https://open.spotify.com/track/7GpNKzUbcQ5wJfY6IWrQWe"
     }
   ],
   "unique_name": "Rock en Espa\u00f1ol",

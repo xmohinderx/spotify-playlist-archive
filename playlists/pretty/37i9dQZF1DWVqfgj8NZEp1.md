@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,439,666 likes - 137 songs - 11 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,440,064 likes - 137 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 4 | [Woodwind](https://open.spotify.com/track/0g1TBY3JUXO8fGD2iI1CM7) | [Jan Harbeck Quartet](https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x) | [Woodwind](https://open.spotify.com/album/5JwbjlP5BpJ7LouNT6tNxU) | 5:20 |
 | 5 | [Fugitive Ritual, Selah](https://open.spotify.com/track/31ZHADyvTbyRgQVw1u2SSW) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The 7th Hand](https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD) | 5:47 |
 | 6 | [Misty](https://open.spotify.com/track/24GGpPxMdDvCpy9vTmDc6U) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:32 |
-| 7 | [Bosse Zorro](https://open.spotify.com/track/2QgZMS7J44N1cHflkK2are) | [OHOJ](https://open.spotify.com/artist/5oL30GXMiPkJpEQ99Q7Cdh) | [Bosse Zorro](https://open.spotify.com/album/6LrpCNNRKvpn0F9sRZ38UY) | 4:07 |
+| 7 | [Bosse Zorro](https://open.spotify.com/track/2QgZMS7J44N1cHflkK2are) | [OHOJ](https://open.spotify.com/artist/5oL30GXMiPkJpEQ99Q7Cdh), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Bosse Zorro](https://open.spotify.com/album/6LrpCNNRKvpn0F9sRZ38UY) | 4:07 |
 | 8 | [La Margaillette](https://open.spotify.com/track/0DqU9yL6tcAKzXnJeP2kUs) | [Eric van der Westen](https://open.spotify.com/artist/0yaTeYrw4ULzSJjbhuRk3d) | [The Crown & Lobster Trilogy, Pt\. II: Blue Is All That's Left](https://open.spotify.com/album/1dFS8wIJxvJpFtOcLsti40) | 4:51 |
 | 9 | [Other Jewels](https://open.spotify.com/track/43QCn1fqNpaVllvjNXx5eX) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Andreas Lang](https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe) | [European Quartet: Diamonds and Other Jewels](https://open.spotify.com/album/1dWMdUU4sEl2T5hb4umAZp) | 5:47 |
 | 10 | [Lakeside](https://open.spotify.com/track/2I7beEwUv30n9ESSlGaxQi) | [Enj Society](https://open.spotify.com/artist/5EKXN5TohOAPNKy3crMBI4), [Michael Erian](https://open.spotify.com/artist/7JsCpL0GcN4OSJWVyuoK7m), [DANIEL NÖSIG](https://open.spotify.com/artist/5zNqt0nq9dYQVavAcfBXOh), [Milan Nikolic](https://open.spotify.com/artist/3XwMZpo9e5gyDoYxaNmWqM), [Howard Curtis](https://open.spotify.com/artist/0ol2v5NACVEO9ZRrL7AGIL) | [Here And Now](https://open.spotify.com/album/4WZX9ItzvEW9HAw6PAJBtp) | 6:08 |

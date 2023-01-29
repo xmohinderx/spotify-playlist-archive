@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-66 songs - 4 hr 6 min
+67 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,9 @@
 | [Heavy](https://open.spotify.com/track/3WPrjsHFgOMAkjHB0G6fe6) | [Leila McKenzie](https://open.spotify.com/artist/0bCEQkLomEgAbRwJu2p9aF), [Happy Cat Jay](https://open.spotify.com/artist/01O6JMBezb5PN1Y1P5RTM6) | [Heavy](https://open.spotify.com/album/0PvyqBQvzdeWUar4hQUMlD) | 2:43 | 2022-11-25 |  |
 | [Heavy Lovers](https://open.spotify.com/track/1N6iBHbVhJfb941mhLhALL) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Heavy Lovers](https://open.spotify.com/album/5UGlhyNDMoEmLFI4Piul5m) | 6:58 | 2022-11-25 |  |
 | [Hideout](https://open.spotify.com/track/1YHffsSjHbAFAsvwCD3U8A) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Hideout](https://open.spotify.com/album/2VCF6Pjwg0KAiCO5OlPP5N) | 3:08 | 2022-11-25 |  |
+| [Higher](https://open.spotify.com/track/6dRBgY551j2akEK2nkGXH8) | [Groovy D](https://open.spotify.com/artist/43iAneSLd8xkYP6lgczDIZ), [Anna Straker](https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Higher](https://open.spotify.com/album/03AEImI6IHDgVIiTuoD80h) | 4:48 | 2023-01-24 |  |
 | [hold on](https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [hold on](https://open.spotify.com/album/2LxT6O6x3iPHYEcZ2qxfCQ) | 3:28 | 2022-11-25 |  |
-| [Hold U Tight](https://open.spotify.com/track/5pzou8uzItfaBegww9Jrwd) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [Sattam](https://open.spotify.com/artist/6iyc6BGLOwF8ZZIfcaLVP7) | [Hold U Tight](https://open.spotify.com/album/3dkGpOgnQqKuFNj191eIvm) | 6:08 | 2022-11-25 |  |
+| [Hold U Tight](https://open.spotify.com/track/5pzou8uzItfaBegww9Jrwd) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [Sattam](https://open.spotify.com/artist/6iyc6BGLOwF8ZZIfcaLVP7) | [Hold U Tight](https://open.spotify.com/album/3dkGpOgnQqKuFNj191eIvm) | 6:08 | 2022-11-25 | 2023-01-29 |
 | [Home To You \- Champion Remix](https://open.spotify.com/track/62Ov2zdV4Vb13eARWW89fT) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Home To You \(Champion Remix\)](https://open.spotify.com/album/2fdWviFHYoSVi8QX8lHFgy) | 3:57 | 2022-11-25 |  |
 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 | 2022-11-25 |  |
 | [How It Goes](https://open.spotify.com/track/0G8WDiAyLXfmL4cfDGZ3SF) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [How It Goes](https://open.spotify.com/album/5CCDmc3BqXYVmO0LVD4Wmd) | 2:55 | 2022-11-25 |  |

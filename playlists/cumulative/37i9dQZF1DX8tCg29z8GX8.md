@@ -4,7 +4,7 @@
 
 > Beat the traffic blues with these killer tunes.
 
-177 songs - 9 hr 11 min
+178 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 | 2022-07-14 |  |
 | [A Body, A Coffin](https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 2:49 | 2022-07-28 | 2022-10-14 |
 | [Abeg U](https://open.spotify.com/track/4WFFWMFIsEqX3SeIkftUp2) | [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [Abeg U](https://open.spotify.com/album/672qLgUzgkxADMTp0ZWlaP) | 2:54 | 2022-09-30 |  |
+| [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 | 2023-01-27 |  |
 | [Activate](https://open.spotify.com/track/0Bc66CwO7NENnqW60RBDzG) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Activate](https://open.spotify.com/album/0u50DEuHzfYNHFRMPaM2H9) | 3:37 | 2022-06-09 | 2022-09-10 |
 | [Alright \(feat\. Shatta Wale\)](https://open.spotify.com/track/2UTceOEpYfmOud3DVdH5YI) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Alright \(feat\. Shatta Wale\)](https://open.spotify.com/album/4BLHs4HKOkzO4lofvYlHa4) | 2:58 | 2022-06-09 | 2022-08-26 |
 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-06-09 |  |
@@ -142,7 +143,7 @@
 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 | 2022-07-28 |  |
 | [Red Gold and Green](https://open.spotify.com/track/4EHZqxkgwhhJYkSHKrf5Eq) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Red Gold and Green](https://open.spotify.com/album/53tx7b7xj9qklpnw8AbT5x) | 3:49 | 2022-07-22 | 2022-10-07 |
 | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/track/3zSxIsQe6ezMc1Xr8Fuvz4) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Ring My Line \(feat\. Headie One\)](https://open.spotify.com/album/4kQjfos3CoetMeTYxZoGxe) | 3:23 | 2022-06-09 | 2022-08-09 |
-| [Run](https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:32 | 2023-01-20 |  |
+| [Run](https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:32 | 2023-01-20 | 2023-01-29 |
 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 | 2022-10-21 |  |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-19 |  |
 | [S3k3](https://open.spotify.com/track/29FGO8Iej8cr7R6WdoPDG7) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [S3k3](https://open.spotify.com/album/7JjgRBz9e6A2wLPTcjQVYn) | 2:32 | 2022-06-09 | 2022-09-13 |

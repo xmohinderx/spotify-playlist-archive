@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmNVJ304EF5.md) - [plain]
 
 > Where the local scene started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,739 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,768 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmNVJ304EF5.md) - [plain]
 | 11 | [Can't Kick Up The Roots](https://open.spotify.com/track/1iKjPM2YygFxUqjUakAI4n) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 2:49 |
 | 12 | [In The Belly Of A Shark](https://open.spotify.com/track/77Aq2TZHqT2qalPlcZIuOO) | [Gallows](https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu) | [Orchestra Of Wolves](https://open.spotify.com/album/4kdf7PUYEUVsZ1yeBFVK6d) | 2:41 |
 | 13 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
-| 14 | [Nothing Good Has Happened Yet](https://open.spotify.com/track/6EIu1N3745xkJ2qxeykWzU) | [We Are The Ocean](https://open.spotify.com/artist/5RTzLFUNaRULfg2DPh5DPO) | [Cutting Our Teeth](https://open.spotify.com/album/54pbN8eqhVv6lniXOk7FNv) | 3:36 |
+| 14 | [Nothing Good Has Happened Yet](https://open.spotify.com/track/4P4OboFVHRhISaaUgkNs8i) | [We Are The Ocean](https://open.spotify.com/artist/5RTzLFUNaRULfg2DPh5DPO) | [Cutting Our Teeth](https://open.spotify.com/album/6k7LABEa4IbFLMpCfHYxKb) | 3:36 |
 | 15 | [Bite My Tongue](https://open.spotify.com/track/1FIWe0EWWE6D8soz2ZsMuM) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Sinners Never Sleep](https://open.spotify.com/album/6qwklyZrZuJ7sQrRjGQAW8) | 3:42 |
 | 16 | [Save Our Selves \(The Warning\)](https://open.spotify.com/track/3jme2RKgrkBcIs0wbwbc7B) | [The Blackout](https://open.spotify.com/artist/35b2hm2fvbdZnckJO6FijB) | [The Best In Town](https://open.spotify.com/album/0PtAekoQJNGjtrTfZFc6pp) | 3:34 |
 | 17 | [Move, Shake, Hide \- Was Brauer Mix](https://open.spotify.com/track/5MrZ8zjALW5fsTjch9YLrT) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1), [Was Brauer](https://open.spotify.com/artist/0FkFBPl6srrSG45Ihg1l0e) | [The Weird And Wonderful Marmozets](https://open.spotify.com/album/0g6Yixfp4y0wlDCY8ukhfp) | 3:27 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmNVJ304EF5.md) - [plain]
 | 44 | [In Bloom](https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:38 |
 | 45 | [Gum](https://open.spotify.com/track/0ty8clX5vC9cc08KqywES5) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 3:01 |
 | 46 | [Live Like This](https://open.spotify.com/track/4Vt9jIvA2OSFZ7V1UKYDyy) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:36 |
-| 47 | [The Waiting Room](https://open.spotify.com/track/1BZQAtchKkqcz4NFeMI5Zw) | [We Are The Ocean](https://open.spotify.com/artist/5RTzLFUNaRULfg2DPh5DPO) | [Go Now and Live](https://open.spotify.com/album/4SHUbCPK55zrRQsBVRyeIW) | 3:34 |
+| 47 | [The Waiting Room](https://open.spotify.com/track/576dgVw2PVAX58Sc2lEU7U) | [We Are The Ocean](https://open.spotify.com/artist/5RTzLFUNaRULfg2DPh5DPO) | [Go Now and Live](https://open.spotify.com/album/44GnKNNOe8FHcYp8Ehs5wt) | 3:34 |
 | 48 | [What Is Light? Where Is Laughter?](https://open.spotify.com/track/7kGLFYBvviGs2wnDTEPYEU) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Vivarium \(Deluxe\)](https://open.spotify.com/album/37nYXtPf5sghHSBadTY4bz) | 3:38 |
 | 49 | [Made Up Stories](https://open.spotify.com/track/2ZdymrlU6m5hlw4IIcHJPp) | [Go:Audio](https://open.spotify.com/artist/6ucXCSUlJfLhpAYhyO9S50) | [Made Up Stories](https://open.spotify.com/album/1TDScbF70yfakqo72tzgDr) | 3:17 |
 | 50 | [Forget His Facade](https://open.spotify.com/track/2ryH0f8E3gLqZyEXGmin27) | [Furthest Drive Home](https://open.spotify.com/artist/1gQmSu1aiJweUuHVPtCjMM) | [Forget His Facade](https://open.spotify.com/album/4JbmVyJYKsN7WaAQBvURiZ) | 3:37 |
 
-Snapshot ID: `MTY3Mjk2NDg2NSwwMDAwMDAwMDQwMTI4ODJkZDg2OTBkYTQ3ZGEwMDM5ZTBjMmU1OGRi`
+Snapshot ID: `MTY3Mjk2NDg2NSwwMDAwMDAwMDNmNWYzOGUwMjQ2YThiNDUyOTI3Y2JhMDg4MjJmNzg0`

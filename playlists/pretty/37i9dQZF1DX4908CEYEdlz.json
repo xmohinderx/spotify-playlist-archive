@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Fall Out Boy",
-  "num_followers": 704549,
+  "num_followers": 704545,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQ2MCwwMDAwMDAwMDMxMjM2MGI3OTQ1ZjEyNjQ2MzJlZTAxYWRjOWNlYTM1",
+  "snapshot_id": "MTY3NDc4ODQ2MCwwMDAwMDAwMDQyODIwYjJjNDk3MTE1ZDgxODYzMDc2OWVkNDljY2Rm",
   "tracks": [
     {
       "added_at": "2023-01-27 03:01:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "You and I",
-        "url": "https://open.spotify.com/album/3dvHcc24AqV8VPjQ4n7H4I"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 316979,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/6eRAg49UCwHqoRbUG9IYzr"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 293093,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/3dvHcc24AqV8VPjQ4n7H4I"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 316979,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/6eRAg49UCwHqoRbUG9IYzr"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Fear Of The Dawn",
-        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 214842,
-      "name": "What's the Trick?",
-      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "Boilermaker",
         "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 209480,
       "name": "Boilermaker",
       "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Fear Of The Dawn",
+        "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 214842,
+      "name": "What's the Trick?",
+      "url": "https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Frenzy",
-        "url": "https://open.spotify.com/album/2kyxzQ0Y1qBQOViyHostqk"
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx"
       },
       "artists": [
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 180585,
-      "name": "Frenzy",
-      "url": "https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT"
+      "duration_ms": 165557,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -839,6 +839,22 @@
       "duration_ms": 228119,
       "name": "Slow Me",
       "url": "https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Frenzy",
+        "url": "https://open.spotify.com/album/2kyxzQ0Y1qBQOViyHostqk"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "Frenzy",
+      "url": "https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -931,22 +947,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Brick Wall",
-        "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Brick Wall",
-      "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "More Than Machines",
         "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 201541,
       "name": "More Than Machines",
       "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Brick Wall",
+        "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Brick Wall",
+      "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Nowhere Sessions",
-        "url": "https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Fortunate Son - Nowhere Sessions",
-      "url": "https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "Dark Eyes",
         "url": "https://open.spotify.com/album/1Z9bQxRRURNy46GPe3sS2S"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 240000,
       "name": "Dark Eyes",
       "url": "https://open.spotify.com/track/2k3Jx1qG1EU0gVNYn0Ku7V"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Nowhere Sessions",
+        "url": "https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Fortunate Son - Nowhere Sessions",
+      "url": "https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -1263,22 +1279,6 @@
       "duration_ms": 342306,
       "name": "The People That We Love - Golden Dub Remix",
       "url": "https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 165557,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt"
     }
   ],
   "unique_name": "Volume M\u00e1ximo",

@@ -4,13 +4,13 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-105 songs - 6 hr 28 min
+108 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10,000ft.](https://open.spotify.com/track/0B7Bmgk2EIogEnhLz6gqRI) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [CHILI T](https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO) | 3:41 | 2023-01-10 | 2023-01-20 |
 | [19℃](https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [19℃](https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS) | 4:13 | 2022-10-16 |  |
-| [Ain't Nobody Know](https://open.spotify.com/track/1RsW5svUAwAPNdmFmcNKaa) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Same Thing](https://open.spotify.com/album/2ejyLOljyWuPWtSCHaxIue) | 3:31 | 2023-01-10 |  |
+| [Ain't Nobody Know](https://open.spotify.com/track/1RsW5svUAwAPNdmFmcNKaa) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Same Thing](https://open.spotify.com/album/2ejyLOljyWuPWtSCHaxIue) | 3:31 | 2023-01-10 | 2023-01-29 |
 | [All My Friends](https://open.spotify.com/track/5Xq7KPZSONkhHx6DFTAbTz) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [All My Friends](https://open.spotify.com/album/63hf1KQx1rRyB3xTl1QpPj) | 2:52 | 2022-11-08 | 2022-11-13 |
 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 | 2022-10-16 | 2023-01-11 |
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2022-10-16 | 2023-01-11 |
@@ -18,6 +18,7 @@
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:53 | 2022-12-15 |  |
 | [Black Lake](https://open.spotify.com/track/0CoSJeJPeotaraesHiqIZE) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Black Lake](https://open.spotify.com/album/3rAvZ5XEICgTeuyid3dl87) | 2:56 | 2022-10-16 |  |
 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 | 2022-11-08 | 2022-11-13 |
+| [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 | 2023-01-26 |  |
 | [Champion](https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Champion](https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt) | 2:53 | 2022-10-16 | 2022-11-25 |
 | [Chemtrails Over The Country Club](https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:31 | 2022-10-16 | 2023-01-11 |
 | [colorblind](https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [colorblind](https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI) | 3:13 | 2022-10-16 |  |
@@ -28,6 +29,7 @@
 | [Dancing With A Stranger \(With Normani\) \- Acoustic](https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(With Normani\) \[Acoustic\]](https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ) | 3:07 | 2022-10-16 | 2023-01-11 |
 | [Day Dreaming](https://open.spotify.com/track/2JRLoT6z48Pfihyj1s1u77) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:31 | 2022-10-27 | 2022-11-13 |
 | [Dekoboko](https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 4:30 | 2023-01-19 |  |
+| [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-26 |  |
 | [DOCUMENT](https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [NOT IN ALMIGHTY](https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov) | 4:40 | 2023-01-10 |  |
 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 | 2022-10-16 | 2023-01-11 |
 | [doze off](https://open.spotify.com/track/0nkqg2Sf2dtOYcLwkIcMWZ) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [doze off](https://open.spotify.com/album/3MsQs4mgM7rNanS8Eh1T6b) | 3:43 | 2022-10-16 | 2023-01-13 |
@@ -45,6 +47,7 @@
 | [Found Me](https://open.spotify.com/track/7hz4cTpoK5N7u5I6UwPJ3r) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Found Me](https://open.spotify.com/album/01zeKCZ5z10YZVvoBnMTta) | 3:03 | 2023-01-12 | 2023-01-28 |
 | [Good Luck](https://open.spotify.com/track/0cymj9Y9YV5ytzHUTRaylW) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Eimosezu/Good Luck](https://open.spotify.com/album/4WCNqpJ3itK3YZULcavlrz) | 3:50 | 2023-01-19 |  |
 | [Hadaka no Yume](https://open.spotify.com/track/4hpkSK1MZyzFUlNxN6FN1I) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:45 | 2022-12-01 | 2023-01-20 |
+| [How To Drive](https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How To Drive](https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0) | 3:39 | 2023-01-26 |  |
 | [I can't seem to let you go](https://open.spotify.com/track/3r0FHhYhQjVIGmSWyUEjFJ) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Rocket Science](https://open.spotify.com/album/4aPdMZF8bvvtzsBqFbMA91) | 5:20 | 2023-01-10 |  |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-10-16 |  |
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-11-24 |  |
@@ -106,8 +109,8 @@
 | [エントロピー](https://open.spotify.com/track/6xxfY1JMxMYQ3t75UR3BEK) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [DREAM DROPPER](https://open.spotify.com/album/6Jzn1Cni94VChGWzQH2Eqh) | 5:21 | 2022-10-16 | 2023-01-20 |
 | [サーカスナイト](https://open.spotify.com/track/1bhF1dbIKLXbVW2QupmvJl) | [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [リトルメロディ](https://open.spotify.com/album/3ULLCmXxHJPHsIzqtXQjbf) | 6:19 | 2023-01-10 |  |
 | [サーカスナイト](https://open.spotify.com/track/335YvnNhNaFchhNCKBg9re) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ), [塩塚モエカ](https://open.spotify.com/artist/3KrEIB3yHbysKWhWixKYSr) | [サーカスナイト](https://open.spotify.com/album/219DmUsVHxUHtPjSSvGKAR) | 5:27 | 2023-01-10 |  |
-| [タバコと私](https://open.spotify.com/track/6RSQ12pSRhTI2szqkumXUs) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [秘密](https://open.spotify.com/album/4c4NCpIWFtGxRYNT3gREs1) | 4:28 | 2023-01-10 |  |
-| [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-10-16 |  |
+| [タバコと私](https://open.spotify.com/track/6RSQ12pSRhTI2szqkumXUs) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [秘密](https://open.spotify.com/album/4c4NCpIWFtGxRYNT3gREs1) | 4:28 | 2023-01-10 | 2023-01-29 |
+| [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 | 2022-10-16 | 2023-01-29 |
 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-10-16 |  |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2023-01-10 |  |
 | [白に消える](https://open.spotify.com/track/1OuJkT1Ulr4cX6leXIoxGy) | [しずくだうみ](https://open.spotify.com/artist/70d9gkVbAbFJcJT0uEcNv7) | [白に消える](https://open.spotify.com/album/3wtO6CzZX6lqh2AuW8Uhwn) | 4:11 | 2023-01-19 |  |

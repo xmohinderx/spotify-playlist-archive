@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,267 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,269 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 28 | [No Shakin](https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:31 |
 | 29 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 |
 | 30 | [Right Here](https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:48 |
-| 31 | [Be There](https://open.spotify.com/track/6ZkdaJngSzMQrr2u9hvLeQ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 3:11 |
-| 32 | [Suffer Head](https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 3:19 |
+| 31 | [Suffer Head](https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 3:19 |
+| 32 | [Be There](https://open.spotify.com/track/6ZkdaJngSzMQrr2u9hvLeQ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 3:11 |
 | 33 | [Human Being \(feat\. 2Face & Sound Sultan\)](https://open.spotify.com/track/5S9hSYitsTwmhBYKjsDOEC) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [The Chairman](https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM) | 5:47 |
 | 34 | [Smile](https://open.spotify.com/track/2ZHqDc1DTTRF3enwT0NLmt) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Smile](https://open.spotify.com/album/4ImJy9yLwIoS5IaLX2tyzG) | 4:03 |
 | 35 | [Higher \(Spiritual Healing\)](https://open.spotify.com/track/5IUBYuJQMaGUadUNws4czB) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Huma Lara](https://open.spotify.com/artist/7Jy0uvwHjLZmPODkzdU1qG) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 3:55 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 46 | [Holy Holy](https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Holy Holy](https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS) | 4:27 |
 | 47 | [Dance Go \(Eau De Vie\)](https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 3:48 |
 | 48 | [Thank You Lord](https://open.spotify.com/track/04DolW3ekpEkVDL5fb26Y3) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [REWIND\. SELECT\. UPDATE](https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6) | 4:07 |
-| 49 | [Enter the Place](https://open.spotify.com/track/6LqsK7gCnFNaLS5UcZCWMF) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 4:21 |
-| 50 | [Bother You](https://open.spotify.com/track/1fHW8dbdd4gnIKEFcKjHqw) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Terry Da Rapman](https://open.spotify.com/artist/2c3cCZQWFnwXnnZRhlvK5I) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/2jlFfIJGPB0NQb3Q040sLa) | 4:16 |
+| 49 | [Bother You](https://open.spotify.com/track/1fHW8dbdd4gnIKEFcKjHqw) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Terry Da Rapman](https://open.spotify.com/artist/2c3cCZQWFnwXnnZRhlvK5I) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/2jlFfIJGPB0NQb3Q040sLa) | 4:16 |
+| 50 | [Enter the Place](https://open.spotify.com/track/6LqsK7gCnFNaLS5UcZCWMF) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 4:21 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDBjYTc0ODBkY2Y3ZWIwNTlhYzQ2ODgyNGM4Y2JjYTAxZQ==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDBhNjgyYTBlYjNhMTAzOWU5ZTZmMDA3MjRkMGM1Njk1Mg==`

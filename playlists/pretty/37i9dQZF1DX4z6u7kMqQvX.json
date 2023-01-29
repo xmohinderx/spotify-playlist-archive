@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 94404,
+  "num_followers": 94489,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNDE2MSwwMDAwMDAwMDIwZTMxZDYyYzgwNDhiZTY4YjFkNTYxMzg3NGY3Nzg4",
+  "snapshot_id": "MTY3NDgzNDE2MSwwMDAwMDAwMDBiNmMwMGU0NGM4YjBjMmE2NWFhNjMxMmU1NDAzOGZm",
   "tracks": [
     {
       "added_at": "2023-01-20 03:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 205569,
-      "name": "Hablar de Ti",
-      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "La Declaraci\u00f3n",
         "url": "https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 277573,
       "name": "La Declaraci\u00f3n",
       "url": "https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 205569,
+      "name": "Hablar de Ti",
+      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 162288,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 178392,
       "name": "El Encuentro",
       "url": "https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Radar",
-        "url": "https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 162288,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Reset",
-        "url": "https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo"
-      },
-      "artists": [
-        {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
-        }
-      ],
-      "duration_ms": 122456,
-      "name": "Por Amor al Arte",
-      "url": "https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "INFINITO",
         "url": "https://open.spotify.com/album/3PC4MT0segdFElRt70lMH8"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 185432,
       "name": "INFINITO",
       "url": "https://open.spotify.com/track/6R36OoRubqAoD81wSDx3YZ"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/0DDUTF4YqIOsUpq9MOqWMo"
+      },
+      "artists": [
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        }
+      ],
+      "duration_ms": 122456,
+      "name": "Por Amor al Arte",
+      "url": "https://open.spotify.com/track/11J0d0cb0J4Xk4PcRyuJ3k"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Tanta Mentira",
+        "url": "https://open.spotify.com/album/5GnCrMgngU8v3fNCAOTV7f"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Amarrados",
+      "url": "https://open.spotify.com/track/2VQs7EuamXdesJdZ7WMZdo"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 183888,
       "name": "No Te Puedo Decir Que No",
       "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Tanta Mentira",
-        "url": "https://open.spotify.com/album/5GnCrMgngU8v3fNCAOTV7f"
-      },
-      "artists": [
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Amarrados",
-      "url": "https://open.spotify.com/track/2VQs7EuamXdesJdZ7WMZdo"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Ni una Gota de Amor",
-        "url": "https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 151953,
-      "name": "Ni una Gota de Amor",
-      "url": "https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "D\u00e9jame Dejarte Atr\u00e1s",
         "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 204775,
       "name": "D\u00e9jame Dejarte Atr\u00e1s",
       "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Ni una Gota de Amor",
+        "url": "https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 151953,
+      "name": "Ni una Gota de Amor",
+      "url": "https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1311,6 +1311,22 @@
       "duration_ms": 207809,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
+    },
+    {
+      "added_at": "2023-01-29 01:07:55",
+      "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1367,26 +1383,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Dame",
-        "url": "https://open.spotify.com/album/3QSi2Fj1FUjE3Uu2K5Gfh4"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Dame",
-      "url": "https://open.spotify.com/track/297Vr1chPCF0607I0g80IJ"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Conf\u00eda",
         "url": "https://open.spotify.com/album/6OBErs3AYUFKYyZYDDavCU"
       },
@@ -1407,22 +1403,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Entra En Mi Vida",
-        "url": "https://open.spotify.com/album/4MtfCKfYPxHrZlDBGFWlPa"
-      },
-      "artists": [
-        {
-          "name": "La Casa Azul",
-          "url": "https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd"
-        }
-      ],
-      "duration_ms": 218117,
-      "name": "Entra En Mi Vida",
-      "url": "https://open.spotify.com/track/6kpB9L4r25GM9i6a8YF8hC"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Un Vaso de Agua",
         "url": "https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN"
       },
@@ -1439,6 +1419,42 @@
       "duration_ms": 88957,
       "name": "Si No Es As\u00ed",
       "url": "https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/3QSi2Fj1FUjE3Uu2K5Gfh4"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/297Vr1chPCF0607I0g80IJ"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Entra En Mi Vida",
+        "url": "https://open.spotify.com/album/4MtfCKfYPxHrZlDBGFWlPa"
+      },
+      "artists": [
+        {
+          "name": "La Casa Azul",
+          "url": "https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd"
+        }
+      ],
+      "duration_ms": 218117,
+      "name": "Entra En Mi Vida",
+      "url": "https://open.spotify.com/track/6kpB9L4r25GM9i6a8YF8hC"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Lo que necesitas es amor",
-        "url": "https://open.spotify.com/album/3gAOmfXsDikOZCbqIpKKIe"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 303920,
-      "name": "Lo que necesitas es amor",
-      "url": "https://open.spotify.com/track/1uFjS7vaCWrw9I3CiXOMdY"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "En el Caribe Tambi\u00e9n Pasa Esto",
         "url": "https://open.spotify.com/album/5nasMHFwjeW93OHvHwDWCp"
       },
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7"
+        "name": "Lo que necesitas es amor",
+        "url": "https://open.spotify.com/album/3gAOmfXsDikOZCbqIpKKIe"
       },
       "artists": [
         {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 215967,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC"
+      "duration_ms": 303920,
+      "name": "Lo que necesitas es amor",
+      "url": "https://open.spotify.com/track/1uFjS7vaCWrw9I3CiXOMdY"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1535,6 +1535,22 @@
       "duration_ms": 212133,
       "name": "Admirador",
       "url": "https://open.spotify.com/track/1jaQ4o6VRWRPxzf560sMWZ"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 215967,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC"
     },
     {
       "added_at": "2023-01-20 03:00:00",
@@ -1603,26 +1619,6 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
-        "name": "Primavera 2020 (feat. Zoe Gotusso)",
-        "url": "https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 289842,
-      "name": "Primavera 2020 (feat. Zoe Gotusso)",
-      "url": "https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/0MLSi95me9YKHGrNdIVfXQ"
       },
@@ -1671,6 +1667,26 @@
     {
       "added_at": "2023-01-20 03:00:00",
       "album": {
+        "name": "Primavera 2020 (feat. Zoe Gotusso)",
+        "url": "https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 289842,
+      "name": "Primavera 2020 (feat. Zoe Gotusso)",
+      "url": "https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP"
+    },
+    {
+      "added_at": "2023-01-20 03:00:00",
+      "album": {
         "name": "Louvre",
         "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 278964,
       "name": "Fuji",
       "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
-    },
-    {
-      "added_at": "2023-01-20 03:00:00",
-      "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/5OVOAqruYgl6ZUDrT5eQpT"
-      },
-      "artists": [
-        {
-          "name": "Panga N\u00e9bula",
-          "url": "https://open.spotify.com/artist/5MaXrbt4TDa3rPp1XbkmKu"
-        }
-      ],
-      "duration_ms": 189695,
-      "name": "Mira",
-      "url": "https://open.spotify.com/track/56sf5ag1EOhbdt8QZrJuTd"
     }
   ],
   "unique_name": "Amor Indie",

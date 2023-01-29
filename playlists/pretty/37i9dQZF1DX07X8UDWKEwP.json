@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Olga Ta\u00f1\u00f3n",
-  "num_followers": 247415,
+  "num_followers": 247447,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDZjZWE2NjNlOTQwY2ZkNjY2NTFiOGRlYTZiY2ExNTM4",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDI2NzFiYjE0MzViNDQ1ZGQ4NWYxODcyZWQzYTc3YjE0",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -87,6 +87,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Republica Dominicana",
+        "url": "https://open.spotify.com/album/69Fk1rIWzvwImYuXN6CcUQ"
+      },
+      "artists": [
+        {
+          "name": "Esme",
+          "url": "https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9"
+        }
+      ],
+      "duration_ms": 276774,
+      "name": "Republica Dominicana",
+      "url": "https://open.spotify.com/track/02IdYXYJ0G9vgs9DVmONFX"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -127,22 +143,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Mi Mundo Entero",
-        "url": "https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 158067,
-      "name": "Mi Mundo Entero",
-      "url": "https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Sopita",
         "url": "https://open.spotify.com/album/7aeqawsfMYRteFQJ3Srl5I"
       },
@@ -159,6 +159,22 @@
       "duration_ms": 206442,
       "name": "Sopita",
       "url": "https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Mi Mundo Entero",
+        "url": "https://open.spotify.com/album/072Mfoviq24EXm7lQXzqUw"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 158067,
+      "name": "Mi Mundo Entero",
+      "url": "https://open.spotify.com/track/3NSpi51nrX9BkWUHN08QAJ"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -215,22 +231,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Sus Huellas",
-        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 216737,
-      "name": "Sus Huellas",
-      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "KITSUNE",
         "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
       },
@@ -247,38 +247,54 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Luis Figueroa",
-        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
+        "name": "Sus Huellas",
+        "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 189463,
-      "name": "Vienes",
-      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
+      "duration_ms": 216737,
+      "name": "Sus Huellas",
+      "url": "https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw"
     },
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Nubes Negras",
-        "url": "https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl"
+        "name": "EL HOMBRE PERFECTO",
+        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
       },
       "artists": [
         {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        },
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 246224,
-      "name": "Nubes Negras",
-      "url": "https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb"
+      "duration_ms": 216960,
+      "name": "EL HOMBRE PERFECTO",
+      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Copacabana (Remix)",
+        "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
+      },
+      "artists": [
+        {
+          "name": "Ecko",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "Copacabana - Remix",
+      "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -323,22 +339,38 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Copacabana (Remix)",
-        "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
+        "name": "Luis Figueroa",
+        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
       },
       "artists": [
         {
-          "name": "Ecko",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 153133,
-      "name": "Copacabana - Remix",
-      "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
+      "duration_ms": 189463,
+      "name": "Vienes",
+      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Nubes Negras",
+        "url": "https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 246224,
+      "name": "Nubes Negras",
+      "url": "https://open.spotify.com/track/4U7a6MMNOavmuNbpf0Xflb"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -391,6 +423,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Lado A Lado B",
         "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
       },
@@ -427,18 +475,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+        "name": "Peligro de Amor",
+        "url": "https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
         }
       ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
+      "duration_ms": 256045,
+      "name": "Peligro de Amor",
+      "url": "https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -507,22 +555,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Peligro de Amor",
-        "url": "https://open.spotify.com/album/7uDds3pqM9U58hvICEmiCp"
-      },
-      "artists": [
-        {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
-        }
-      ],
-      "duration_ms": 256045,
-      "name": "Peligro de Amor",
-      "url": "https://open.spotify.com/track/2m3A3DTNIgKDK5lXE8fowJ"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Empezando Otra Vez",
         "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
       },
@@ -559,22 +591,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "SexToy",
-        "url": "https://open.spotify.com/album/2SyloCuYXvOtNMlvvoOsIB"
-      },
-      "artists": [
-        {
-          "name": "Esme",
-          "url": "https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9"
-        }
-      ],
-      "duration_ms": 233269,
-      "name": "SexToy",
-      "url": "https://open.spotify.com/track/5tcVNpuycq2dXhYeYHQ5M4"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "La Boda",
         "url": "https://open.spotify.com/album/7m3opM6Ym3lwm8XREuW4PZ"
       },
@@ -591,6 +607,22 @@
       "duration_ms": 233479,
       "name": "La Boda",
       "url": "https://open.spotify.com/track/4CsyqrI7t6XrSphpyKURWe"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "SexToy",
+        "url": "https://open.spotify.com/album/2SyloCuYXvOtNMlvvoOsIB"
+      },
+      "artists": [
+        {
+          "name": "Esme",
+          "url": "https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9"
+        }
+      ],
+      "duration_ms": 233269,
+      "name": "SexToy",
+      "url": "https://open.spotify.com/track/5tcVNpuycq2dXhYeYHQ5M4"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -651,26 +683,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "No Me Lo Creo",
-        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        },
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 268175,
-      "name": "No Me Lo Creo",
-      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Confesi\u00f3n",
         "url": "https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L"
       },
@@ -687,6 +699,26 @@
       "duration_ms": 200895,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "No Me Lo Creo",
+        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 268175,
+      "name": "No Me Lo Creo",
+      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -739,22 +771,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Que Te Vaya Bonito",
-        "url": "https://open.spotify.com/album/6Qf2illWMZl8ZqyfiTtqE5"
-      },
-      "artists": [
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        }
-      ],
-      "duration_ms": 203327,
-      "name": "Me Voy a Quitar de en Medio",
-      "url": "https://open.spotify.com/track/7rimeZ5UeR4R1FUj32U1us"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Gitana",
         "url": "https://open.spotify.com/album/2sBO1njBKIaiRyDLVh5jcW"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Tentaciones Vol 2.",
-        "url": "https://open.spotify.com/album/7wDmNPbuG28t71sP1m4gsb"
+        "name": "Que Te Vaya Bonito",
+        "url": "https://open.spotify.com/album/6Qf2illWMZl8ZqyfiTtqE5"
       },
       "artists": [
         {
-          "name": "Charlie Cruz",
-          "url": "https://open.spotify.com/artist/3BiAkgxrLIXhB4evNuF2hn"
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
         }
       ],
-      "duration_ms": 240555,
-      "name": "Besame XXX",
-      "url": "https://open.spotify.com/track/3Vpw562wr7JptY0d2HwrfG"
+      "duration_ms": 203327,
+      "name": "Me Voy a Quitar de en Medio",
+      "url": "https://open.spotify.com/track/7rimeZ5UeR4R1FUj32U1us"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -803,6 +819,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Tentaciones Vol 2.",
+        "url": "https://open.spotify.com/album/7wDmNPbuG28t71sP1m4gsb"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cruz",
+          "url": "https://open.spotify.com/artist/3BiAkgxrLIXhB4evNuF2hn"
+        }
+      ],
+      "duration_ms": 240555,
+      "name": "Besame XXX",
+      "url": "https://open.spotify.com/track/3Vpw562wr7JptY0d2HwrfG"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "1 Millon",
         "url": "https://open.spotify.com/album/28wVEWil46hss81yatWiDR"
       },
@@ -815,6 +847,22 @@
       "duration_ms": 198950,
       "name": "1 Millon",
       "url": "https://open.spotify.com/track/4uAzAGxZSIQ9yASLH4zo3R"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Tu Juguete",
+        "url": "https://open.spotify.com/album/2OpJPx9vdWJFMkXNV5iANk"
+      },
+      "artists": [
+        {
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Tu Juguete",
+      "url": "https://open.spotify.com/track/2lhnDQIvQmfU8qVbrqJdke"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -839,22 +887,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Tu Juguete",
-        "url": "https://open.spotify.com/album/2OpJPx9vdWJFMkXNV5iANk"
-      },
-      "artists": [
-        {
-          "name": "Dani J",
-          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Tu Juguete",
-      "url": "https://open.spotify.com/track/2lhnDQIvQmfU8qVbrqJdke"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/4fCJuQAuofGlTZmRlrfycu"
       },
@@ -867,42 +899,6 @@
       "duration_ms": 200760,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/12JyMFngqOZ8VSOHgYD9v5"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Me Descontrola",
-        "url": "https://open.spotify.com/album/7FfIvgPFJev0jREmXDbzvP"
-      },
-      "artists": [
-        {
-          "name": "Ronald Borjas",
-          "url": "https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2"
-        },
-        {
-          "name": "Motiff",
-          "url": "https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj"
-        }
-      ],
-      "duration_ms": 216760,
-      "name": "Me Descontrola",
-      "url": "https://open.spotify.com/track/34flp1Hbl6EkI6fudYKiHS"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Soltera",
-        "url": "https://open.spotify.com/album/0MN98GoMbQLO6Y8lwHuvI7"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        }
-      ],
-      "duration_ms": 182212,
-      "name": "Soltera",
-      "url": "https://open.spotify.com/track/0V8URCCVyRD89huEDFsIR4"
     }
   ],
   "unique_name": "el nuevo tropical",

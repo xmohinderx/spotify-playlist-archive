@@ -1,15 +1,35 @@
 {
   "description": "Your daily update of the most played tracks right now - Finland.",
-  "num_followers": 134423,
+  "num_followers": 134458,
   "original_name": "Top 50 - Finland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzI4MDQ5NDMzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzI4MjIyNjQ0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Ei vitus (feat. Korelon)",
+        "url": "https://open.spotify.com/album/4UVpjLpEkueNON2KcNkm8v"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "duration_ms": 152147,
+      "name": "Ei vitus (feat. Korelon)",
+      "url": "https://open.spotify.com/track/4f1IC0mWzqRcYtsALav0kJ"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "Cha Cha Cha",
         "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "Ylivoimainen",
         "url": "https://open.spotify.com/album/5YsgpByQ9MRj0uuztJbRPm"
@@ -57,7 +77,7 @@
       "url": "https://open.spotify.com/track/0tNhrnTkLSMUkql3iTCgW4"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "Sata vuotta",
         "url": "https://open.spotify.com/album/0OhAVIkgi6mEtHcSJog1iT"
@@ -73,7 +93,7 @@
       "url": "https://open.spotify.com/track/1mHRqzrSR9MQaryDj6GibE"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "Yks pullo / Aino",
         "url": "https://open.spotify.com/album/0yP3Ba2bzMxPObLUixaG6d"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/08Y12A4mwKiGIOvap0hHPH"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "Samaa taivasta katsotaan",
         "url": "https://open.spotify.com/album/6kfLDJxQGRW0ihmsGdhlR6"
@@ -105,23 +125,7 @@
       "url": "https://open.spotify.com/track/6ISLBKxChtxZ5Ws6nO6Cbi"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "FAMOUS",
-        "url": "https://open.spotify.com/album/1xujzA41aZ1udgc8FY7NIl"
-      },
-      "artists": [
-        {
-          "name": "ibe",
-          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
-        }
-      ],
-      "duration_ms": 209677,
-      "name": "FAMOUS",
-      "url": "https://open.spotify.com/track/4Mg2rAHrqKXQzLRIwr4j9r"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "Vastustamaton",
         "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
@@ -137,27 +141,27 @@
       "url": "https://open.spotify.com/track/12zIIWVV5guPmsV7yQGsOM"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
-        "name": "WINDY SEASON (feat. Costi)",
-        "url": "https://open.spotify.com/album/4YMPvQ4RF2KUVso7kFyPrW"
+        "name": "Yll\u00e4s",
+        "url": "https://open.spotify.com/album/5C0U0vk05ZIRR0kJZKlS40"
       },
       "artists": [
         {
-          "name": "TUULI",
-          "url": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
+          "name": "Sebastian Noto",
+          "url": "https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI"
         },
         {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
         }
       ],
-      "duration_ms": 148078,
-      "name": "WINDY SEASON (feat. Costi)",
-      "url": "https://open.spotify.com/track/0SKqOkYoE8ebXyTZQaBjnd"
+      "duration_ms": 139085,
+      "name": "Yll\u00e4s (feat. ibe)",
+      "url": "https://open.spotify.com/track/3nNtD3vtQ8yhrxQ5bxaRAB"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "B\u00e4m\u00e4 (feat. william)",
         "url": "https://open.spotify.com/album/0DmHgKSruGZ7MX9PCdSvXY"
@@ -177,7 +181,43 @@
       "url": "https://open.spotify.com/track/2IWvgjThRD86tBtx19JYLn"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "WINDY SEASON (feat. Costi)",
+        "url": "https://open.spotify.com/album/4YMPvQ4RF2KUVso7kFyPrW"
+      },
+      "artists": [
+        {
+          "name": "TUULI",
+          "url": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "duration_ms": 148078,
+      "name": "WINDY SEASON (feat. Costi)",
+      "url": "https://open.spotify.com/track/0SKqOkYoE8ebXyTZQaBjnd"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/1xujzA41aZ1udgc8FY7NIl"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "duration_ms": 209677,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/4Mg2rAHrqKXQzLRIwr4j9r"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "Hoida mut",
         "url": "https://open.spotify.com/album/2eQaKSR4lp0U3t1lGTqRHS"
@@ -193,7 +233,23 @@
       "url": "https://open.spotify.com/track/1Myk7vkJ2IZm88Vt9IC21u"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "No Business On The Dancefloor",
+        "url": "https://open.spotify.com/album/2PBGkaNBeBpkHedZ9J7eXH"
+      },
+      "artists": [
+        {
+          "name": "Keira",
+          "url": "https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng"
+        }
+      ],
+      "duration_ms": 167574,
+      "name": "No Business On The Dancefloor",
+      "url": "https://open.spotify.com/track/47EttOPfJblOFsztpSseEm"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "Sextape II",
         "url": "https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR"
@@ -213,99 +269,7 @@
       "url": "https://open.spotify.com/track/59EjpBgEOq3kr53cNLAcF2"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "No Business On The Dancefloor",
-        "url": "https://open.spotify.com/album/2PBGkaNBeBpkHedZ9J7eXH"
-      },
-      "artists": [
-        {
-          "name": "Keira",
-          "url": "https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng"
-        }
-      ],
-      "duration_ms": 167574,
-      "name": "No Business On The Dancefloor",
-      "url": "https://open.spotify.com/track/47EttOPfJblOFsztpSseEm"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "My love & homie",
-        "url": "https://open.spotify.com/album/7tPPPHCyPzRgAiYzxapWlj"
-      },
-      "artists": [
-        {
-          "name": "Blacflaco",
-          "url": "https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4"
-        },
-        {
-          "name": "Etta",
-          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
-        }
-      ],
-      "duration_ms": 152578,
-      "name": "My love & homie",
-      "url": "https://open.spotify.com/track/2Xt73nX1u3QHzJmQlpuGMP"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Tulipalo",
-        "url": "https://open.spotify.com/album/0xWe0flvzmTrZOZ7FztHCa"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        }
-      ],
-      "duration_ms": 183806,
-      "name": "Tulipalo",
-      "url": "https://open.spotify.com/track/0lPrY8sXUen0bqga0BIeWa"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Ihana kipu",
-        "url": "https://open.spotify.com/album/3XxoOZ0yPeoig9wjK31bR7"
-      },
-      "artists": [
-        {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
-        },
-        {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        }
-      ],
-      "duration_ms": 187909,
-      "name": "Ihana kipu",
-      "url": "https://open.spotify.com/track/4EXBxZeqKIayJa65KtAwZw"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "Bisnest\u00e4",
         "url": "https://open.spotify.com/album/4hE1piqP5uxQ53cAkLwL2E"
@@ -325,7 +289,191 @@
       "url": "https://open.spotify.com/track/4F7V4HGz5qeokniev7MT2c"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Tulipalo",
+        "url": "https://open.spotify.com/album/0xWe0flvzmTrZOZ7FztHCa"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        }
+      ],
+      "duration_ms": 183806,
+      "name": "Tulipalo",
+      "url": "https://open.spotify.com/track/0lPrY8sXUen0bqga0BIeWa"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "My love & homie",
+        "url": "https://open.spotify.com/album/7tPPPHCyPzRgAiYzxapWlj"
+      },
+      "artists": [
+        {
+          "name": "Blacflaco",
+          "url": "https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4"
+        },
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "duration_ms": 152578,
+      "name": "My love & homie",
+      "url": "https://open.spotify.com/track/2Xt73nX1u3QHzJmQlpuGMP"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Toista mua",
+        "url": "https://open.spotify.com/album/6cZJMqQeTMw9UB8qmJOFX3"
+      },
+      "artists": [
+        {
+          "name": "Tuure Boelius",
+          "url": "https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To"
+        }
+      ],
+      "duration_ms": 162624,
+      "name": "Toista mua",
+      "url": "https://open.spotify.com/track/5IrehI7ObhFWGhWxGb65U1"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Vastustamaton",
+        "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        },
+        {
+          "name": "Van Hegen",
+          "url": "https://open.spotify.com/artist/5SpJ7wupgkKXKKpMATIhe9"
+        }
+      ],
+      "duration_ms": 154570,
+      "name": "Shamppanjadieetill\u00e4",
+      "url": "https://open.spotify.com/track/3KOKML3DT5AbPOQYWjBZTh"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Ihana kipu",
+        "url": "https://open.spotify.com/album/3XxoOZ0yPeoig9wjK31bR7"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        },
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "duration_ms": 187909,
+      "name": "Ihana kipu",
+      "url": "https://open.spotify.com/track/4EXBxZeqKIayJa65KtAwZw"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Teeskennell\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/6d6x8MLbN9cD2LcyahdX2d"
+      },
+      "artists": [
+        {
+          "name": "Ollie",
+          "url": "https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd"
+        }
+      ],
+      "duration_ms": 175165,
+      "name": "Teeskennell\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/1Q1S0iW0vVwRdHrHi7wa94"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Escapism. (Sped Up)",
+        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Mit\u00e4 sul oli mieles",
+        "url": "https://open.spotify.com/album/32iDFJFFmo3yRdRKfx0h6w"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "duration_ms": 143151,
+      "name": "Mit\u00e4 sul oli mieles",
+      "url": "https://open.spotify.com/track/1vKaXLIYk3t1OOM6zL2xpT"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 217196,
+      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
+      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -349,179 +497,7 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Yks pullo / Aino",
-        "url": "https://open.spotify.com/album/0yP3Ba2bzMxPObLUixaG6d"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 179456,
-      "name": "Yks pullo",
-      "url": "https://open.spotify.com/track/244HqAdMLdMTElPUxvT9RT"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Escapism. (Sped Up)",
-        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Vastustamaton",
-        "url": "https://open.spotify.com/album/5fBjqqe9iRNbfWR5q6w5E7"
-      },
-      "artists": [
-        {
-          "name": "Gettomasa",
-          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
-        },
-        {
-          "name": "Van Hegen",
-          "url": "https://open.spotify.com/artist/5SpJ7wupgkKXKKpMATIhe9"
-        }
-      ],
-      "duration_ms": 154570,
-      "name": "Shamppanjadieetill\u00e4",
-      "url": "https://open.spotify.com/track/3KOKML3DT5AbPOQYWjBZTh"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Mit\u00e4 sul oli mieles",
-        "url": "https://open.spotify.com/album/32iDFJFFmo3yRdRKfx0h6w"
-      },
-      "artists": [
-        {
-          "name": "AHTI",
-          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
-        }
-      ],
-      "duration_ms": 143151,
-      "name": "Mit\u00e4 sul oli mieles",
-      "url": "https://open.spotify.com/track/1vKaXLIYk3t1OOM6zL2xpT"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-        "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 217196,
-      "name": "Shakira: Bzrp Music Sessions, Vol. 53",
-      "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "sisko \u00e4l\u00e4 pelk\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/0SGGPX84syrqNEa0d4BXQu"
-      },
-      "artists": [
-        {
-          "name": "pehmoaino",
-          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
-        }
-      ],
-      "duration_ms": 173221,
-      "name": "sisko \u00e4l\u00e4 pelk\u00e4\u00e4",
-      "url": "https://open.spotify.com/track/0oiz37APFPumfnCdLWNYjO"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Teeskennell\u00e4\u00e4n",
-        "url": "https://open.spotify.com/album/6d6x8MLbN9cD2LcyahdX2d"
-      },
-      "artists": [
-        {
-          "name": "Ollie",
-          "url": "https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd"
-        }
-      ],
-      "duration_ms": 175165,
-      "name": "Teeskennell\u00e4\u00e4n",
-      "url": "https://open.spotify.com/track/1Q1S0iW0vVwRdHrHi7wa94"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "NON2EN2E",
-        "url": "https://open.spotify.com/album/07585rByEzjeng7KSShEFK"
-      },
-      "artists": [
-        {
-          "name": "ibe",
-          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
-        }
-      ],
-      "duration_ms": 140088,
-      "name": "ORANSSI",
-      "url": "https://open.spotify.com/track/4LF4LXtyULKaS3skaAndBp"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "Sun takii",
         "url": "https://open.spotify.com/album/05NutfwAQPoswnCT1g7bRV"
@@ -537,7 +513,55 @@
       "url": "https://open.spotify.com/track/3dMSUouXkSMQRxrn5tQFB6"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Yks pullo / Aino",
+        "url": "https://open.spotify.com/album/0yP3Ba2bzMxPObLUixaG6d"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 179456,
+      "name": "Yks pullo",
+      "url": "https://open.spotify.com/track/244HqAdMLdMTElPUxvT9RT"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "NON2EN2E",
+        "url": "https://open.spotify.com/album/07585rByEzjeng7KSShEFK"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "duration_ms": 140088,
+      "name": "ORANSSI",
+      "url": "https://open.spotify.com/track/4LF4LXtyULKaS3skaAndBp"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "Yksinkertasta (feat. Costi)",
         "url": "https://open.spotify.com/album/0YfoYV4U9TGs6vLEZ2OoDy"
@@ -557,39 +581,39 @@
       "url": "https://open.spotify.com/track/3Ksvxtooh9DzGfWv64bYkp"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
-        "name": "LIMBO",
-        "url": "https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ"
+        "name": "sisko \u00e4l\u00e4 pelk\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/0SGGPX84syrqNEa0d4BXQu"
       },
       "artists": [
         {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
         }
       ],
-      "duration_ms": 160619,
-      "name": "ANNAWA",
-      "url": "https://open.spotify.com/track/21GN53EvKL963Dr2Q2B9SW"
+      "duration_ms": 173221,
+      "name": "sisko \u00e4l\u00e4 pelk\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/0oiz37APFPumfnCdLWNYjO"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "Sen pituinen se (feat. Kiki)",
         "url": "https://open.spotify.com/album/49D3EeuhiTRjIHT8o1tqqN"
@@ -609,171 +633,23 @@
       "url": "https://open.spotify.com/track/79Hll9uh2wBbKqDJc4LuXl"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
-        "name": "LET GO",
-        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 174246,
-      "name": "LET GO",
-      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Girls Like You",
-        "url": "https://open.spotify.com/album/4giiDdn8Qr57hgBOiaNSKu"
-      },
-      "artists": [
-        {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        }
-      ],
-      "duration_ms": 167812,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/1F4ndGt7gZ5bD8h2Eam1uT"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Tippa-T",
-        "url": "https://open.spotify.com/album/4DaSkc8aIg2Kqk7vqdwoDo"
-      },
-      "artists": [
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        },
-        {
-          "name": "Elastinen",
-          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Tippa-T",
-      "url": "https://open.spotify.com/track/6qverLcFcryBhJBgomIZjw"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "LIMBO",
-        "url": "https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ"
-      },
-      "artists": [
-        {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
-        },
-        {
-          "name": "Jami Faltin",
-          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
-        }
-      ],
-      "duration_ms": 169445,
-      "name": "Magaluf",
-      "url": "https://open.spotify.com/track/2QS3MUxQ1oZvaThkIX0SmT"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "DEEP DOWN (feat. Costi)",
-        "url": "https://open.spotify.com/album/7DoCR048Uthto8y9NkYjOC"
-      },
-      "artists": [
-        {
-          "name": "Joe L",
-          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
-        },
-        {
-          "name": "Costi",
-          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "DEEP DOWN (feat. Costi)",
-      "url": "https://open.spotify.com/track/2h9FYDFYIScQ4dHtsL70gn"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Makso Mit\u00e4 Makso",
-        "url": "https://open.spotify.com/album/0S8l92CyIZbgGzvQL5QpbK"
-      },
-      "artists": [
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        },
-        {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
-        }
-      ],
-      "duration_ms": 165633,
-      "name": "Makso Mit\u00e4 Makso",
-      "url": "https://open.spotify.com/track/2G1gCuldjtW9xcN1n1yenB"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Paholainen pukeutuu Pradaan",
-        "url": "https://open.spotify.com/album/0mBGxnhZMxu6R0HuRIHlFr"
-      },
-      "artists": [
-        {
-          "name": "Heviteemu",
-          "url": "https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A"
-        },
-        {
-          "name": "Mouhous",
-          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
-        }
-      ],
-      "duration_ms": 182007,
-      "name": "Paholainen pukeutuu Pradaan",
-      "url": "https://open.spotify.com/track/2tryEY6URfAC02dsuiYIak"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo"
-      },
-      "artists": [
-        {
-          "name": "Haloo Helsinki!",
-          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Reiviluola",
-      "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "Mun tapa pelata",
         "url": "https://open.spotify.com/album/27Khq95w5Gzg522w4It8TK"
@@ -789,67 +665,23 @@
       "url": "https://open.spotify.com/track/0WzmYcHhfkchwvZagvItxK"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
-        "name": "Sextape II",
-        "url": "https://open.spotify.com/album/7AtxLIvzuR2T3jsr62wzyR"
+        "name": "LIMBO",
+        "url": "https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ"
       },
       "artists": [
         {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
-        },
-        {
-          "name": "Nebi",
-          "url": "https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4"
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
         }
       ],
-      "duration_ms": 161934,
-      "name": "Dominointii (feat. Nebi)",
-      "url": "https://open.spotify.com/track/4ypPcUr3aJSYmoZMyasAFm"
+      "duration_ms": 160619,
+      "name": "ANNAWA",
+      "url": "https://open.spotify.com/track/21GN53EvKL963Dr2Q2B9SW"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Escapism. (Sped Up)",
-        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 239888,
-      "name": "Escapism. - Sped Up",
-      "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
@@ -869,30 +701,74 @@
       "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
-        "name": "Jumalan sel\u00e4n takana",
-        "url": "https://open.spotify.com/album/5HJH9cMbOVO9eYd3Gau3ey"
+        "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo"
       },
       "artists": [
         {
-          "name": "Pyhimys",
-          "url": "https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm"
-        },
-        {
-          "name": "Etta",
-          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+          "name": "Haloo Helsinki!",
+          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
         }
       ],
-      "duration_ms": 183584,
-      "name": "Jumalan sel\u00e4n takana",
-      "url": "https://open.spotify.com/track/27eLu2vGzmGkpwjiWX1hqX"
+      "duration_ms": 247426,
+      "name": "Reiviluola",
+      "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
     },
     {
-      "added_at": "2023-01-26 11:57:13",
+      "added_at": "2023-01-28 12:04:04",
       "album": {
-        "name": "Sammumaton / Ram pam pam (English version)",
-        "url": "https://open.spotify.com/album/70CtDYgaNgKHl6B9jo7RII"
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/17Wr2Ud2ZJy5mSr1NjmbG5"
+      },
+      "artists": [
+        {
+          "name": "Anna Puu",
+          "url": "https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3"
+        }
+      ],
+      "duration_ms": 159014,
+      "name": "Prince",
+      "url": "https://open.spotify.com/track/16JswkvKOsmeez4fJMfkH1"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Girls Like You",
+        "url": "https://open.spotify.com/album/4giiDdn8Qr57hgBOiaNSKu"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "duration_ms": 167812,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/1F4ndGt7gZ5bD8h2Eam1uT"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Ram pam pam",
+        "url": "https://open.spotify.com/album/6wKDISYcXTFk9y54P06rGz"
       },
       "artists": [
         {
@@ -900,9 +776,121 @@
           "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
         }
       ],
-      "duration_ms": 189949,
-      "name": "Sammumaton",
-      "url": "https://open.spotify.com/track/7BI3gFHdPNtstVEetNx7w6"
+      "duration_ms": 179878,
+      "name": "Ram pam pam",
+      "url": "https://open.spotify.com/track/55qPuI6NekVyNPM6kh5DN4"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Makso Mit\u00e4 Makso",
+        "url": "https://open.spotify.com/album/0S8l92CyIZbgGzvQL5QpbK"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "duration_ms": 165633,
+      "name": "Makso Mit\u00e4 Makso",
+      "url": "https://open.spotify.com/track/2G1gCuldjtW9xcN1n1yenB"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "LET GO",
+        "url": "https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 174246,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "LIMBO",
+        "url": "https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        },
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "duration_ms": 169445,
+      "name": "Magaluf",
+      "url": "https://open.spotify.com/track/2QS3MUxQ1oZvaThkIX0SmT"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "DEEP DOWN (feat. Costi)",
+        "url": "https://open.spotify.com/album/7DoCR048Uthto8y9NkYjOC"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "DEEP DOWN (feat. Costi)",
+      "url": "https://open.spotify.com/track/2h9FYDFYIScQ4dHtsL70gn"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Tippa-T",
+        "url": "https://open.spotify.com/album/4DaSkc8aIg2Kqk7vqdwoDo"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        },
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Tippa-T",
+      "url": "https://open.spotify.com/track/6qverLcFcryBhJBgomIZjw"
+    },
+    {
+      "added_at": "2023-01-28 12:04:04",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 146640,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     }
   ],
   "unique_name": "Top 50 - Finland",

@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-669 songs - 1 day 20 hr 35 min
+670 songs - 1 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [RESISTER](https://open.spotify.com/track/1iXINMn3CMIR4o4qG6tVXz) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [RESISTER \(Special Edition\)](https://open.spotify.com/album/4ENkxRag6SNkBbrNou8VJJ) | 3:47 | 2022-06-07 | 2022-06-17 |
 | [Resolution](https://open.spotify.com/track/5vaJU5vIRhx6d6lgyYR1Bb) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [Resolution](https://open.spotify.com/album/3k4p615S79dsbsuAc0xBhX) | 4:50 | 2022-06-07 |  |
 | [Rightfully \(TV Animation Goblin Slayer opening\)](https://open.spotify.com/track/73tTDsjutmpFg31yIEvx8B) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Rightfully \(TV Animation Goblin Slayer opening\)](https://open.spotify.com/album/7MskY0VUZn79ycYeLNg4Tk) | 3:33 | 2022-06-07 |  |
-| [RISE](https://open.spotify.com/track/1p8B91IjEd9fjOPOSsEN75) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [RISE](https://open.spotify.com/album/4B9KlBcnI7Tpe89inHdQ2V) | 3:26 | 2022-06-07 |  |
+| [RISE](https://open.spotify.com/track/1p8B91IjEd9fjOPOSsEN75) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [RISE](https://open.spotify.com/album/4B9KlBcnI7Tpe89inHdQ2V) | 3:26 | 2022-06-07 | 2023-01-29 |
 | [ROB THE FRONTIER](https://open.spotify.com/track/0vgQEQxb49LCKEH5Gg7E4z) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:52 | 2022-06-07 |  |
 | [Rock The World](https://open.spotify.com/track/0esOEHmStYyPNMEU3HwBza) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Rock The World](https://open.spotify.com/album/1yto3mv5m93z2D70KxP8mw) | 4:29 | 2022-06-07 | 2022-08-12 |
 | [salvation](https://open.spotify.com/track/2AbocYmJLREUEZlSBkbsAe) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [salvation](https://open.spotify.com/album/5JOp4contbA28JuaELOKQW) | 3:24 | 2022-06-07 | 2022-07-18 |
@@ -343,6 +343,7 @@
 | [Touch off](https://open.spotify.com/track/7CSTVNXkW2AbmNktlP1hi2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 4:18 | 2022-06-07 |  |
 | [Touch off](https://open.spotify.com/track/40qyjzGdWia4KfBR95ciwP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Touch off](https://open.spotify.com/album/4e4sHXvEuCk5fBF7D5Ia7s) | 4:20 | 2022-06-07 | 2022-07-29 |
 | [TRISTAR](https://open.spotify.com/track/02sailSwB7PN3NzPP84rdz) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [TRISTAR](https://open.spotify.com/album/1QrFdoG166qYDQz5feySdQ) | 3:52 | 2022-06-07 | 2022-07-19 |
+| [TRUE STORY](https://open.spotify.com/track/2vWbGXnMCl4vvoUYZt202W) | [SCREEN mode](https://open.spotify.com/artist/44CA4qMx5IOMDQOTg7G6KN) | [TRUE STORY](https://open.spotify.com/album/4h4woOf4hcnWWcfER8dOpG) | 3:56 | 2023-01-07 |  |
 | [Twinkle Twinkle](https://open.spotify.com/track/6ZgkaVkKBrvZtOefIIPI8f) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Twinkle Twinkle](https://open.spotify.com/album/7ti4tcjdsbO4J9aENCzaoX) | 3:50 | 2022-06-07 | 2022-07-28 |
 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 | 2022-06-07 |  |
 | [U \- English Version](https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\) \[English Edition\]](https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4) | 3:03 | 2022-06-07 | 2022-10-04 |

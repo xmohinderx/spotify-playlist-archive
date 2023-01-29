@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: ghost orchard
 
-789 songs - 1 day 21 hr 8 min
+790 songs - 1 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,7 +432,7 @@
 | [Leash on My Neck](https://open.spotify.com/track/35sQgCOe4QZ3TTnJw57zgL) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Leash on My Neck](https://open.spotify.com/album/7vcpF0T8XU5j0QtC7bz8pf) | 2:38 | 2022-11-17 | 2022-12-15 |
 | [Legs](https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [My Friend Mica](https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8) | 2:53 | 2022-05-27 |  |
 | [Lemonade](https://open.spotify.com/track/5NsvTj8pKHyVIN3bDrqhzQ) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Lemonade](https://open.spotify.com/album/3LFsMSUi7VmmXpwR4BZMfV) | 2:44 | 2021-03-05 | 2022-04-20 |
-| [Let Down](https://open.spotify.com/track/48AdYz5KuKxC9ZO9gKiIqZ) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Let Down](https://open.spotify.com/album/3aPAIfhcyvm44m97fepHU5) | 3:27 | 2022-12-09 |  |
+| [Let Down](https://open.spotify.com/track/48AdYz5KuKxC9ZO9gKiIqZ) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Let Down](https://open.spotify.com/album/3aPAIfhcyvm44m97fepHU5) | 3:27 | 2022-12-09 | 2023-01-29 |
 | [Let it Burn](https://open.spotify.com/track/2nRmpHE26QmGZCUm7Yn7KL) | [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Let it Burn](https://open.spotify.com/album/2fGf0Kj4hMlagcD0rJDxO4) | 2:58 | 2022-03-26 | 2022-04-14 |
 | [Let It Pass](https://open.spotify.com/track/3d1k68NdWlLZ0yVEVHuP9S) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Let It Pass](https://open.spotify.com/album/1RrGNFFdsUxZrQRjRq6upS) | 4:28 | 2022-12-02 |  |
 | [Let Me Hate](https://open.spotify.com/track/1GgP54v1bcv3FfswJ1cJZU) | [Smut](https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF) | [Let Me Hate](https://open.spotify.com/album/08HSvJI8DNBgwlcQLFSPsV) | 3:30 | 2022-09-30 | 2022-10-15 |
@@ -556,7 +556,7 @@
 | [Prudence & Poise](https://open.spotify.com/track/3RMZ0lEGewSR0CPab6Kv1r) | [Soft Glas](https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0) | [Prudence & Poise](https://open.spotify.com/album/0Z2ZkWyy4ZhCb6CzBVDxI0) | 4:20 | 2021-03-05 | 2022-04-20 |
 | [Quantum Physics](https://open.spotify.com/track/5mI7nxjalLOnhoqeHLOSOX) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Quantum Physics](https://open.spotify.com/album/4rRem8BYu1grDC7PMrlZ62) | 2:38 | 2021-03-05 | 2022-04-21 |
 | [Queen of Ears](https://open.spotify.com/track/2y20szyvKlsK3jnL3LwPK9) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Queen of Ears](https://open.spotify.com/album/5pPAwx1AV9H3aWepcY7DhA) | 3:06 | 2022-10-28 | 2022-12-18 |
-| [Quotidian](https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O) | [EVNTYD](https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh) | [Eventide](https://open.spotify.com/album/5n4twzXZkAwdZFAJFCI5jj) | 4:32 | 2023-01-20 | 2023-01-28 |
+| [Quotidian](https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O) | [EVNTYD](https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh) | [Eventide](https://open.spotify.com/album/5n4twzXZkAwdZFAJFCI5jj) | 4:32 | 2023-01-20 |  |
 | [R Entertainment](https://open.spotify.com/track/1kx7a4BiF5b0KH6pKLpwcJ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [R Entertainment](https://open.spotify.com/album/0AMdg90GRnvy0UFsvurqVI) | 3:09 | 2022-04-01 | 2022-05-18 |
 | [Radial](https://open.spotify.com/track/1pO7WwR4PQUS4aCQRxCG4y) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Radial](https://open.spotify.com/album/4LPazFPUDMRbGHODFirsKg) | 4:27 | 2022-07-22 | 2022-12-15 |
 | [Radiohead](https://open.spotify.com/track/07Br10W8gRXrf0hE3PtJPX) | [Alix Page](https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ) | [Radiohead](https://open.spotify.com/album/24B22VTnbGYjUh4eIRO2eR) | 3:17 | 2021-12-10 | 2022-04-21 |
@@ -580,6 +580,7 @@
 | [royal screw up \- demo](https://open.spotify.com/track/2ACZHfMqljJIF1eeyV5MXG) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory \(selected demos\)](https://open.spotify.com/album/6y6oq3lXDAHENr5ChHQlBW) | 4:14 | 2021-03-05 | 2022-04-28 |
 | [Ruby](https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Ruby](https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf) | 3:03 | 2022-06-24 | 2022-10-15 |
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-06-24 | 2022-08-06 |
+| [runnning in place at the edge of the map](https://open.spotify.com/track/26DOPFm4uhx8EVpwrYTb8M) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [runnning in place at the edge of the map](https://open.spotify.com/album/4Uukzt62MsJKfLH4U6Ks6x) | 5:07 | 2023-01-27 |  |
 | [Rushmore](https://open.spotify.com/track/3yqMNt1hSk4Dv4N13Ho29W) | [ash tuesday](https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE) | [Rushmore](https://open.spotify.com/album/5tGPASugTD6gzSVXc8o2h6) | 2:54 | 2022-07-29 | 2022-12-15 |
 | [Sad Chick \(Overcoats Remix\)](https://open.spotify.com/track/3pSzGdBI2izEY9gbvVufGD) | [talker](https://open.spotify.com/artist/1wcTmtixisIzV10W69W6lm), [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Sad Chick \(Overcoats Remix\)](https://open.spotify.com/album/3f2JR6SGYHgPeTcoDSOzLf) | 3:31 | 2022-12-02 | 2023-01-22 |
 | [Sad Disco](https://open.spotify.com/track/2BedHMJWiW5CuiTd2wza1u) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Shadowglow](https://open.spotify.com/album/1gu4P2JcclHD1BvDXx2pqq) | 3:47 | 2022-08-19 | 2023-01-18 |
@@ -653,7 +654,7 @@
 | [Stars](https://open.spotify.com/track/3do76ccIVCbR4iEASg5HLm) | [Famous](https://open.spotify.com/artist/76pvNo3GAo5aeXBZ4jVz0k) | [The Valley](https://open.spotify.com/album/3KzOZ0ixGxaJ3VDgZMz7Io) | 3:52 | 2022-03-26 | 2022-05-20 |
 | [stay](https://open.spotify.com/track/23uag9bcLig9W06gC4U8XD) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [dead2me](https://open.spotify.com/album/6N4nVJcTKMRIvYSLoL5Tx2) | 2:38 | 2021-11-12 | 2021-12-28 |
 | [Stay in the Car](https://open.spotify.com/track/4RDUdLtOyGcxSIJ2MsR9oF) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Stay in the Car](https://open.spotify.com/album/67wUtTP9XdkhzlpF2px95V) | 2:44 | 2021-04-02 | 2022-04-29 |
-| [Stephen Hawking's Goldfish Analogy \(Demo\)](https://open.spotify.com/track/5G1GJu18mEN8c2GlyREUKz) | [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [You Haven't Missed Much](https://open.spotify.com/album/7MZw0rg127xSEM1CXDkIIh) | 2:22 | 2022-12-16 |  |
+| [Stephen Hawking's Goldfish Analogy \(Demo\)](https://open.spotify.com/track/5G1GJu18mEN8c2GlyREUKz) | [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [You Haven't Missed Much](https://open.spotify.com/album/7MZw0rg127xSEM1CXDkIIh) | 2:22 | 2022-12-16 | 2023-01-29 |
 | [Stoned](https://open.spotify.com/track/5vQuFhG3mSU8mdXV8W8iWE) | [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [Stoned](https://open.spotify.com/album/4w2fTrQ1OgaKChbPHYERFw) | 3:19 | 2021-03-05 | 2022-04-21 |
 | [Storm in Summer](https://open.spotify.com/track/01wiNf866foVe76Q6LFqU7) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Storm in Summer](https://open.spotify.com/album/7loAmhY1aqyfhLyUqm629W) | 4:20 | 2021-06-02 | 2022-04-29 |
 | [Strange Overtones](https://open.spotify.com/track/2YtMGbb7bAEPbxgQ6au4EP) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Strange Overtones](https://open.spotify.com/album/1QcsAQ69J8rw1UuvSMW2pj) | 3:26 | 2021-03-05 | 2022-04-29 |

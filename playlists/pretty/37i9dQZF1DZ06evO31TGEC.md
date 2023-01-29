@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,771 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,799 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 42 | [Cristaleros Michoacanos \- Banda](https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corridos Ke Mandan](https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8) | 2:42 |
 | 43 | [Me Gusta Tener de a Dos](https://open.spotify.com/track/5bquzZnV00bIi7pTZZPeKy) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Favoritas](https://open.spotify.com/album/4A3hrXyS9pAqrwbp0zK0ws) | 2:44 |
 | 44 | [De Nayarit a Tijuana](https://open.spotify.com/track/2NipbSffrwVdoKtv2PFLqa) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Ambiciosa](https://open.spotify.com/album/3NnfZz4LSjS7dJuLQtQrF6) | 2:49 |
-| 45 | [Inevitable](https://open.spotify.com/track/3IUNzzk29r37Xa78FNwQng) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Triunfador](https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU) | 2:38 |
-| 46 | [Loco \- Version Mariachi](https://open.spotify.com/track/1SFSlKPiGIhMUuTULvzdSO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Loco \(Version Mariachi\)](https://open.spotify.com/album/67sPpbNpfW5iOFwrZmbWb6) | 3:01 |
-| 47 | [Enseñame a Olvidar](https://open.spotify.com/track/55xhJyoY3cbUzQIZOtea7i) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Camina Sin Mirar Atras](https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0) | 2:48 |
+| 45 | [Enseñame a Olvidar](https://open.spotify.com/track/55xhJyoY3cbUzQIZOtea7i) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Camina Sin Mirar Atras](https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0) | 2:48 |
+| 46 | [Inevitable](https://open.spotify.com/track/3IUNzzk29r37Xa78FNwQng) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Triunfador](https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU) | 2:38 |
+| 47 | [Loco \- Version Mariachi](https://open.spotify.com/track/1SFSlKPiGIhMUuTULvzdSO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Loco \(Version Mariachi\)](https://open.spotify.com/album/67sPpbNpfW5iOFwrZmbWb6) | 3:01 |
 | 48 | [Juan Martha](https://open.spotify.com/track/6XxETo2rCSl3A9I6zXjR0f) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Los Mejores 15 Exitos](https://open.spotify.com/album/2nfLRPRrEuNLHbiOtxgdu9) | 3:46 |
 | 49 | [Cara Bonita](https://open.spotify.com/track/7xLcYIHPsPipnEkpoCQl11) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Con Banda Sinaloense](https://open.spotify.com/album/4iE9RvuOdi3H6lCwkWlm0b) | 3:18 |
 | 50 | [Hice De Todo](https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 2:50 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDBlOTdlNDI0NjY5NjU5NmE3YjdkYzBiOWRlYTQ4YjI0Zg==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDBjZjg3NDZlN2M2NzcyZTMxMGRjZGViNTEwNzU0ODJkMQ==`

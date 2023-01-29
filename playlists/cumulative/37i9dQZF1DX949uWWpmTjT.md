@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-314 songs - 22 hr 53 min
+316 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Black And Tan Fantasy](https://open.spotify.com/track/1catkf1CzRuytuhmGmq1EO) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Duke's In Bed](https://open.spotify.com/album/39Q7MYB7Mlx4I6JW3Sjuqu) | 6:20 | 2021-12-03 | 2022-09-23 |
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-30 |  |
 | [Blue In Green \(Take 2\)](https://open.spotify.com/track/0QjrKKVrUNmxokCLXUkBe2) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 4:26 | 2022-04-13 | 2022-11-11 |
+| [Blue Moon](https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Blue Moon](https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth) | 3:18 | 2023-01-26 |  |
 | [Blue Quarter](https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G) | [Cleo Lounge Trio](https://open.spotify.com/artist/76p8QkVRne7itxQ98sjAvB) | [Blue Quarter](https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX) | 3:43 | 2022-11-10 | 2022-12-16 |
 | [Body & Soul](https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Joshua Redman](https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1) | 4:50 | 2022-05-19 | 2022-11-11 |
 | [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 | 2022-11-10 | 2023-01-12 |
@@ -85,7 +86,7 @@
 | [Everything Happens to Me](https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 5:05 | 2021-12-03 | 2022-05-05 |
 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2022-11-10 | 2023-01-21 |
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-12-08 |  |
-| [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-11-10 |  |
+| [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-11-10 | 2023-01-29 |
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-18 |  |
 | [Follow the Light](https://open.spotify.com/track/5P0RMEJOgtGcZIq5wYjYei) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Follow the Light](https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt) | 5:03 | 2022-09-08 | 2022-09-21 |
 | [Fools Rush In](https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Fools Rush In](https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7) | 4:33 | 2022-12-01 |  |
@@ -170,7 +171,7 @@
 | [Left Alone](https://open.spotify.com/track/5niuB6LyaMlfOizwxsLAlZ) | [Pekka Pylkkanen](https://open.spotify.com/artist/3FhDOgA2Mmistm9ml8kMur), [Eric Ineke](https://open.spotify.com/artist/5rBQKpKypyVegQLtS7APtx) | [Left Alone](https://open.spotify.com/album/0AwwQi9FYLGVav6LSZxzJV) | 10:30 | 2022-05-05 | 2022-11-11 |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-11-10 |  |
 | [Life In Paradise](https://open.spotify.com/track/7DhwU4DOhVLPI30Rj2X6e4) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [Life In Paradise](https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W) | 4:34 | 2022-11-10 | 2022-11-29 |
-| [Light Wave](https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Light Wave](https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9) | 3:45 | 2022-11-10 |  |
+| [Light Wave](https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Light Wave](https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9) | 3:45 | 2022-11-10 | 2023-01-29 |
 | [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 | 2021-12-03 | 2022-10-03 |
 | [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-11-10 | 2023-01-04 |
 | [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 | 2022-12-08 |  |
@@ -228,6 +229,7 @@
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-11-10 | 2022-12-21 |
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-18 |  |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-11-10 |  |
+| [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 | 2023-01-26 |  |
 | [Rosey](https://open.spotify.com/track/1ZxuVJTWcXxN92s6EXjusu) | [Duane Eubanks](https://open.spotify.com/artist/371h9y9TkJSNXcTzHW6b3u) | [The Now](https://open.spotify.com/album/666jMtRc4Xb29ONpUxv3ql) | 5:02 | 2021-12-03 | 2022-07-29 |
 | [Round Midnight](https://open.spotify.com/track/0ZXeZe8avZyPZIhfGJdt4I) | [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Justin Kauflin](https://open.spotify.com/artist/4sqzADf5mxSxx3IV9GICBU) | [Standards](https://open.spotify.com/album/2ZBNoT9NQK9zv6xFDuk2z8) | 7:25 | 2021-12-03 | 2022-11-11 |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-11-10 | 2023-01-17 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDNmMjRjMTFlM2EyNDZjNmZhNjU3NTEyODcwYmZjZTNl",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDAwNzU5ODQwMDJmYjVkNTk3ZGYyYzBmZmEyZmEzZDdj",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -771,22 +771,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Knockout",
-        "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Knockout",
-      "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Lost In Japan (Remix)",
         "url": "https://open.spotify.com/album/3ynoYncFXzo2OfPT8j93Pw"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 201253,
       "name": "Lost In Japan - Remix",
       "url": "https://open.spotify.com/track/575NJxNUVDqwJGdzBrlLbv"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Knockout",
+        "url": "https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Knockout",
+      "url": "https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Living (feat. Alex Clare)",
-        "url": "https://open.spotify.com/album/0dHBCgs7zfH2mQXHTghume"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Alex Clare",
-          "url": "https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Living (feat. Alex Clare)",
-      "url": "https://open.spotify.com/track/63Qco1ncI5U4qEUnxL1DsH"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 180000,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Living (feat. Alex Clare)",
+        "url": "https://open.spotify.com/album/0dHBCgs7zfH2mQXHTghume"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Alex Clare",
+          "url": "https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Living (feat. Alex Clare)",
+      "url": "https://open.spotify.com/track/63Qco1ncI5U4qEUnxL1DsH"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Sylo Songs",
-        "url": "https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR"
-      },
-      "artists": [
-        {
-          "name": "Sylo",
-          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
-        }
-      ],
-      "duration_ms": 127268,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Thing For You (With Martin Solveig)",
         "url": "https://open.spotify.com/album/1cbCgek1ORPGZFKlBIhBmH"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 191398,
       "name": "Thing For You (With Martin Solveig)",
       "url": "https://open.spotify.com/track/0IhTEIjFaRt3B2NQYf9azQ"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Sylo Songs",
+        "url": "https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "duration_ms": 127268,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Strawtown",
-        "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 187711,
-      "name": "Teenage Minds",
-      "url": "https://open.spotify.com/track/2anII3P3z1liigla0dKqrb"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 130899,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Strawtown",
+        "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "duration_ms": 187711,
+      "name": "Teenage Minds",
+      "url": "https://open.spotify.com/track/2anII3P3z1liigla0dKqrb"
     },
     {
       "added_at": "2020-02-18 13:31:30",

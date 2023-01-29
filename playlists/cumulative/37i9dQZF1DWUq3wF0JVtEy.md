@@ -4,7 +4,7 @@
 
 > 
 
-292 songs - 14 hr 24 min
+293 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV) | 3:37 | 2021-10-29 |  |
 | [Everybody Goes Like That](https://open.spotify.com/track/1er6VCtjpLVrxlzic1iCp6) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Everybody Goes Like That](https://open.spotify.com/album/056wZnSRN5x4RUNNRELeBl) | 2:17 | 2022-02-25 | 2022-07-29 |
 | [Everything](https://open.spotify.com/track/4cljSFYLNYsspWUIicitiY) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Everything](https://open.spotify.com/album/7AOtgsmGadJQFuJgHNkhG2) | 2:51 | 2022-07-22 | 2022-10-15 |
+| [Eye To Eye](https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [Eye To Eye](https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz) | 2:35 | 2023-01-27 |  |
 | [Eyes Closed](https://open.spotify.com/track/2ypgH76n4e8TR6IFAv8Z88) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Eyes Closed](https://open.spotify.com/album/7ABxtrgkBsDlBPY4vwJAGJ) | 3:16 | 2021-10-29 | 2022-07-30 |
 | [Eyes On You](https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Eyes On You](https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI) | 3:22 | 2021-10-29 | 2022-12-17 |
 | [Facts](https://open.spotify.com/track/6b4EhRvtqusT59vERjGCNX) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [ALAN SHIRAHAMA](https://open.spotify.com/artist/2EDkdU3FjjuBsQ36TFwGPn) | [Facts](https://open.spotify.com/album/2uTVtbWnUotT9QXN8vek0l) | 2:16 | 2022-04-01 | 2022-07-27 |
@@ -98,7 +99,7 @@
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-10-29 | 2022-02-12 |
 | [Free My Mind](https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free My Mind](https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU) | 2:51 | 2022-08-26 |  |
 | [Freedom](https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Freedom](https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1) | 2:38 | 2023-01-06 |  |
-| [Funky Sound](https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [HINA](https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K) | [Funky Sound](https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR) | 2:19 | 2022-08-26 |  |
+| [Funky Sound](https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [HINA](https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K) | [Funky Sound](https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR) | 2:19 | 2022-08-26 | 2023-01-29 |
 | [Get Back \(feat\. TITUS\)](https://open.spotify.com/track/2636BVOgTRI8QQ3f1GsA41) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Get Back \(feat\. TITUS\)](https://open.spotify.com/album/4qfVFlToM12oeuzk9nvuqO) | 2:40 | 2021-11-26 | 2022-07-28 |
 | [Get It](https://open.spotify.com/track/1kFs6riPsFjxz1VLb3H8yx) | [Afrojack presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO), [Phlegmatic Dogs](https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe) | [Get It](https://open.spotify.com/album/16nkpBkz928wEufZWM3TwO) | 3:11 | 2022-10-28 |  |
 | [Get This Party Jumpin'](https://open.spotify.com/track/4ynbqZykOfiYZx6OV5QJI2) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Get This Party Jumpin'](https://open.spotify.com/album/0Hx311oNGTzDIi6eJOS4wD) | 3:22 | 2021-10-29 | 2022-10-08 |

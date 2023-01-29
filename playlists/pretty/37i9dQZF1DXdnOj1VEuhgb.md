@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Ezhel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,150 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,982 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,20 +12,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 2 | [İMPARATOR](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İMPARATOR](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 |
 | 3 | [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 |
 | 4 | [DACIA](https://open.spotify.com/track/0okYvXKPqzZpj3iZrJH6JK) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DACIA](https://open.spotify.com/album/4nO3TIfUPnGSnryBvA9q1N) | 2:09 |
-| 5 | [ESTAFURLA](https://open.spotify.com/track/67FQS0mvwg4j5LgdlTwJuc) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [ESTAFURLA](https://open.spotify.com/album/3iyn3IpyDYMy3myhSUWxXz) | 1:38 |
+| 5 | [HAYIR](https://open.spotify.com/track/2V4rAqDOrVzthQXJ0PpoNW) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [HAYIR](https://open.spotify.com/album/2hWeZlMbzNGdSAZo33Pahi) | 2:21 |
 | 6 | [TALIBANA](https://open.spotify.com/track/7wANX4VfTwrZrL6inJrqCM) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/0R6zYJmsszJxtRkEfX1sWz) | 2:38 |
-| 7 | [HAYIR](https://open.spotify.com/track/2V4rAqDOrVzthQXJ0PpoNW) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [HAYIR](https://open.spotify.com/album/2hWeZlMbzNGdSAZo33Pahi) | 2:21 |
-| 8 | [NKBİ X YAPAMAM \- Remix](https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [NKBİ X YAPAMAM \(Remix\)](https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ) | 3:02 |
-| 9 | [10MG](https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [10MG](https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4) | 2:21 |
-| 10 | [VUR](https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [VUR](https://open.spotify.com/album/5EdPNG1RhELV1di2tYhklr) | 3:10 |
-| 11 | [Gözyaşı Rapsodi 1](https://open.spotify.com/track/3bf4olLr7rKiudtlMya9us) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Gözyaşı Rapsodi 1](https://open.spotify.com/album/5OIipA5N24pUrk9iRbN8eN) | 3:03 |
+| 7 | [NKBİ X YAPAMAM \- Remix](https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [NKBİ X YAPAMAM \(Remix\)](https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ) | 3:02 |
+| 8 | [10MG](https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [10MG](https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4) | 2:21 |
+| 9 | [VUR](https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [VUR](https://open.spotify.com/album/5EdPNG1RhELV1di2tYhklr) | 3:10 |
+| 10 | [ESTAFURLA](https://open.spotify.com/track/67FQS0mvwg4j5LgdlTwJuc) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [ESTAFURLA](https://open.spotify.com/album/3iyn3IpyDYMy3myhSUWxXz) | 1:38 |
+| 11 | [MARS](https://open.spotify.com/track/5ribh1wRPknjD7Cg1RLH9P) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [MARS](https://open.spotify.com/album/4zdB94jhyyJoaG1iyylZvq) | 2:12 |
 | 12 | [25](https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [25](https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn) | 3:30 |
 | 13 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 |
-| 14 | [MARS](https://open.spotify.com/track/5ribh1wRPknjD7Cg1RLH9P) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [MARS](https://open.spotify.com/album/4zdB94jhyyJoaG1iyylZvq) | 2:12 |
-| 15 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 |
-| 16 | [Yıldızlar](https://open.spotify.com/track/6p4m4ls8CkXpeWDSyRPvTI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Yıldızlar](https://open.spotify.com/album/5G2FtfCdpwmGfZTdurkULN) | 2:18 |
-| 17 | [FLEX SO HARD RMX](https://open.spotify.com/track/599TAkOSDn1CRTXziWACAX) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [FLEX SO HARD RMX](https://open.spotify.com/album/5YSHrpWibzTM64AjdG6dXr) | 2:29 |
-| 18 | [Geriye Dönemem](https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 2:05 |
+| 14 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 |
+| 15 | [Yıldızlar](https://open.spotify.com/track/6p4m4ls8CkXpeWDSyRPvTI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Yıldızlar](https://open.spotify.com/album/5G2FtfCdpwmGfZTdurkULN) | 2:18 |
+| 16 | [FLEX SO HARD RMX](https://open.spotify.com/track/599TAkOSDn1CRTXziWACAX) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [FLEX SO HARD RMX](https://open.spotify.com/album/5YSHrpWibzTM64AjdG6dXr) | 2:29 |
+| 17 | [Geriye Dönemem](https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 2:05 |
+| 18 | [Gözyaşı Rapsodi 1](https://open.spotify.com/track/3bf4olLr7rKiudtlMya9us) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Gözyaşı Rapsodi 1](https://open.spotify.com/album/5OIipA5N24pUrk9iRbN8eN) | 3:03 |
 | 19 | [Kalbe Zarar](https://open.spotify.com/track/5R5k2rMxjpaBoNyh0wAh4i) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Kalbe Zarar](https://open.spotify.com/album/1JuRmAeLvCfdQSilolTdhy) | 2:07 |
 | 20 | [İNAN BANA](https://open.spotify.com/track/4cjnDLZtFqhXry4Srvtk6O) | [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca) | [İNAN BANA](https://open.spotify.com/album/4EafW8VnE8XtGOSnxD5PXX) | 3:03 |
 | 21 | [NKBİ](https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [PARA](https://open.spotify.com/track/47zsnWIPoPSjJhZoKp5h21) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Montiego](https://open.spotify.com/artist/1pMFoni6A1enu9OBmaanG2) | [PARA](https://open.spotify.com/album/01HicloONqEUMNfzzQkMP8) | 2:56 |
 | 50 | [Birader](https://open.spotify.com/track/55YPDeJRgBjW8Em2AWBiXk) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/22M9cLH01VgxTweURPcVDi) | 3:24 |
 
-Snapshot ID: `MTY3NDc2NjgwMCwwMDAwMDAwMDFmNzBlYWRhOGVhMjM1ZDY4MTc0MzRiMjA0NWIzOWY3`
+Snapshot ID: `MTY3NDkzNDMxOSwwMDAwMDAwMDMxOTRhYjAxMjg4NGVkNzI2Mjk1ZDFkMWU3YWMxMDM1`

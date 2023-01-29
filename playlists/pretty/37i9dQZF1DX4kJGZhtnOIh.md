@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 
 > Have a nice relaxed dinner with some chill indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,521 likes - 78 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,540 likes - 78 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,13 +78,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 68 | [Carried Away](https://open.spotify.com/track/6HHQc73TnikIFQOg2aHNCu) | [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [All Birds Say](https://open.spotify.com/album/7DpBHGSsMMr3B6m6KDLv4h) | 4:03 |
 | 69 | [Take The Night Off](https://open.spotify.com/track/4TDqzUw8frlMqGYxfqcCkx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 4:11 |
 | 70 | [Tears of Joy](https://open.spotify.com/track/5GMoEWEtU2uNZlx8nKMqRG) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Complete Surrender](https://open.spotify.com/album/3KCUdkkeANyKXs40lQcmme) | 4:05 |
-| 71 | [Can't You Tell](https://open.spotify.com/track/4sVbamrZfLGgGAOAKU2vOp) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [The Errant Charm](https://open.spotify.com/album/7jpy5hPOInGwYYs0ZgrmPr) | 4:27 |
-| 72 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/5aO3PDi7cfVyqSbXSrSxfx) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Don't Tell Our Friends About Me](https://open.spotify.com/album/5fIJInVxtBZVXsPHitxqs6) | 5:19 |
-| 73 | [Leaf Off / The Cave](https://open.spotify.com/track/4GrOV18KKdZnc3jcfvMDgk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Leaf Off / The Cave](https://open.spotify.com/album/6iphI9W2vc54TVx3KD10sJ) | 4:53 |
-| 74 | [Try](https://open.spotify.com/track/4H8RGVaLYBL7uM0KTS50WK) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Try](https://open.spotify.com/album/5Cg8URL2SgwGWD9w0jgd79) | 3:37 |
-| 75 | [Woman Like Me](https://open.spotify.com/track/3YLjiKf34DECifehm1yauN) | [Paleo](https://open.spotify.com/artist/2GDAl6I7NyYDH4QmjPbFkN) | [Death & Taxes: Selected Songs From The Song Diary](https://open.spotify.com/album/1uIqK4VwhSHzHGYX7Gu3aW) | 3:32 |
-| 76 | [My Baby Don't Understand Me](https://open.spotify.com/track/1mwwueuXt5NPPtnJyswwA9) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Natalie Prass](https://open.spotify.com/album/21zH1ohnZ6T0g95ZnUTwBM) | 5:12 |
-| 77 | [Dinosaur Sex](https://open.spotify.com/track/5R9BaUKPIPBBadJSbB5knl) | [Emmy The Great](https://open.spotify.com/artist/3BniKY9Gw01zy21IDlVhaM) | [Virtue \(Bonus Edition\)](https://open.spotify.com/album/1XdpKifugaz7auUgwwQGiL) | 5:37 |
-| 78 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz) | 4:37 |
+| 71 | [I Don't Know What I Can Save You From](https://open.spotify.com/track/4KHO9py2dphAa5pfegUojN) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Quiet Is The New Loud](https://open.spotify.com/album/4hUevKZdIe9SCLneuunJZz) | 4:37 |
+| 72 | [Can't You Tell](https://open.spotify.com/track/4sVbamrZfLGgGAOAKU2vOp) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [The Errant Charm](https://open.spotify.com/album/7jpy5hPOInGwYYs0ZgrmPr) | 4:27 |
+| 73 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/5aO3PDi7cfVyqSbXSrSxfx) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Don't Tell Our Friends About Me](https://open.spotify.com/album/5fIJInVxtBZVXsPHitxqs6) | 5:19 |
+| 74 | [Leaf Off / The Cave](https://open.spotify.com/track/4GrOV18KKdZnc3jcfvMDgk) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Leaf Off / The Cave](https://open.spotify.com/album/6iphI9W2vc54TVx3KD10sJ) | 4:53 |
+| 75 | [Try](https://open.spotify.com/track/4H8RGVaLYBL7uM0KTS50WK) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Try](https://open.spotify.com/album/5Cg8URL2SgwGWD9w0jgd79) | 3:37 |
+| 76 | [Woman Like Me](https://open.spotify.com/track/3YLjiKf34DECifehm1yauN) | [Paleo](https://open.spotify.com/artist/2GDAl6I7NyYDH4QmjPbFkN) | [Death & Taxes: Selected Songs From The Song Diary](https://open.spotify.com/album/1uIqK4VwhSHzHGYX7Gu3aW) | 3:32 |
+| 77 | [My Baby Don't Understand Me](https://open.spotify.com/track/1mwwueuXt5NPPtnJyswwA9) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Natalie Prass](https://open.spotify.com/album/21zH1ohnZ6T0g95ZnUTwBM) | 5:12 |
+| 78 | [Dinosaur Sex](https://open.spotify.com/track/5R9BaUKPIPBBadJSbB5knl) | [Emmy The Great](https://open.spotify.com/artist/3BniKY9Gw01zy21IDlVhaM) | [Virtue \(Bonus Edition\)](https://open.spotify.com/album/1XdpKifugaz7auUgwwQGiL) | 5:37 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDY0MjU1ZGEwN2I1ZWFkMTY0MTcwN2QzZjI5MmZlY2Vj`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMGUyMGQwOThkMmI0Y2RlMDYwMzQ1OTRjNGZjMWFkN2Vl`

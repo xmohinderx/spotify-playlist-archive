@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,530 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,553 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 52 | [Mortal Man](https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Mortal Man](https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2) | 3:55 |
 | 53 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
 | 54 | [Rafael](https://open.spotify.com/track/7od1iIHmDdFSeaLvNF6mCM) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [The Hanging Gardens Of Beatenberg](https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ) | 4:10 |
-| 55 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 |
-| 56 | [OMOGE WA JO](https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/0gZF6kUZ77XxQA23NkNp5K) | 2:25 |
+| 55 | [Life Without Fantasies \- Radio Edit](https://open.spotify.com/track/2Q9QrDU4LUDot1mpYcntiC) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT), [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd) | [Life Without Fantasies \(Radio Edit\)](https://open.spotify.com/album/2CbKkBdhAHKiKkZ8MrkdGf) | 2:41 |
+| 56 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 |
 | 57 | [Waves](https://open.spotify.com/track/1cgHWk3kQk8SbvaYHkfTkV) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Critical As Water](https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll) | 3:00 |
-| 58 | [Life Without Fantasies \- Radio Edit](https://open.spotify.com/track/2Q9QrDU4LUDot1mpYcntiC) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT), [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd) | [Life Without Fantasies \(Radio Edit\)](https://open.spotify.com/album/2CbKkBdhAHKiKkZ8MrkdGf) | 2:41 |
+| 58 | [Through the Night](https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj) | [Rubber Duc](https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU) | [Through the Night](https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3) | 3:39 |
 | 59 | [Pluto \- Live](https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [The Hanging Gardens Of Beatenberg](https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ) | 5:52 |
-| 60 | [Through the Night](https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj) | [Rubber Duc](https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU) | [Through the Night](https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3) | 3:39 |
+| 60 | [OMOGE WA JO](https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/0gZF6kUZ77XxQA23NkNp5K) | 2:25 |
 
-Snapshot ID: `MTY3Mzg2NjAyMywwMDAwMDAwMDcwNWVlODgzYmU3YzE4Zjc0MTYzN2Y2ZWU3MmNmM2Iy`
+Snapshot ID: `MTY3Mzg2NjAyMywwMDAwMDAwMDkwNTI5NzFkZTkwMjdhNjljMjZiMWI1Y2ExZGZmODkw`

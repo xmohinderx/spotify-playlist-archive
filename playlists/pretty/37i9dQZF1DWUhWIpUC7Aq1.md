@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 
 > Not your manic pixie dream girl, just twee af\. Cover: Zooey Deschanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,036 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,250 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 86 | [Hotel Song](https://open.spotify.com/track/2AqmtgKAp7scMFisn3j6ma) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:27 |
 | 87 | [Lived In Bars](https://open.spotify.com/track/32mIImwxWx41xGa2ipEbfN) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:44 |
 | 88 | [You Should All Be Murdered](https://open.spotify.com/track/3eS1455bVYxlkk1a2GVTaQ) | [Another Sunny Day](https://open.spotify.com/artist/6EGQKKjGZOxDJ1iy7Pw25M) | [London Weekend](https://open.spotify.com/album/0qqmFX3N1jydkGpnORVUhR) | 4:38 |
-| 89 | [What’s Important](https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS) | [Beat Happening](https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG) | [Beat Happening](https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA) | 2:02 |
-| 90 | [We're from Barcelona](https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5) | [I'm From Barcelona](https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl) | [Let Me Introduce My Friends](https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L) | 3:02 |
+| 89 | [We're from Barcelona](https://open.spotify.com/track/6gobLJ63a1TNrSrU53tSj5) | [I'm From Barcelona](https://open.spotify.com/artist/1LiML7wd2CE9dYq6JSeTjl) | [Let Me Introduce My Friends](https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L) | 3:02 |
+| 90 | [What’s Important](https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS) | [Beat Happening](https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG) | [Beat Happening](https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA) | 2:02 |
 | 91 | [You, Me and the Bourgeoisie](https://open.spotify.com/track/46tMEl4m47ef5XYcWuWLbw) | [The Submarines](https://open.spotify.com/artist/6D9Y5lqXKgJv8CV6Ur59oS) | [Honeysuckle Weeks](https://open.spotify.com/album/7geqXLdppeJRIbHVugtXpC) | 3:24 |
 | 92 | [Sleeping In](https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:21 |
 | 93 | [The Good That Won't Come Out](https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [The Execution Of All Things](https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj) | 4:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUhWIpUC7Aq1.md) - [plain]
 | 99 | [Hallways](https://open.spotify.com/track/4FzQApCNgoI2HAaBrdmkox) | [Islands](https://open.spotify.com/artist/1ObsHTgbvIYOfSHohHuV6n) | [A Sleep & A Forgetting](https://open.spotify.com/album/36GHC6uosFJ1nR4M7qIo90) | 2:53 |
 | 100 | [Let's Talk About Spaceships](https://open.spotify.com/track/19mrtanHo3t9Qa2GaKMEkz) | [Say Hi](https://open.spotify.com/artist/2da7ehIX9lFyIDqmjqVZvS) | [Numbers & Mumbles](https://open.spotify.com/album/75uYCevfxAInfAFSrBUBIa) | 3:03 |
 
-Snapshot ID: `MTY2MzAwMDg5MSwwMDAwMDAwMDRhMjNiZTIxYjEwZmRmZmQ2M2UxN2MzZTBhMmYxOTMw`
+Snapshot ID: `MTY2MzAwMDg5MSwwMDAwMDAwMGI2NGNkZjU5NmRlMWQ4NGM1NzgzZjk0OWI4ZDI1YWZm`

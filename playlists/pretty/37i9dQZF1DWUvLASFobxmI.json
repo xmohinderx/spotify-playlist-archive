@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Pesado en portada.",
-  "num_followers": 366249,
+  "num_followers": 366726,
   "original_name": "Norte\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGZjMGI4OTA0MWY3OTdlZGMyMjdkNTZkNTY3ZDNlMTk5",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDBiYjQzZTBhMDdmOWI4Nzc3YTQ4NTAxZDhmYThhMDZi",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "De Boca En Boca",
+        "url": "https://open.spotify.com/album/01olKgKJsavApHa7QJNT29"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 187835,
+      "name": "Se Fue La Pantera",
+      "url": "https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Hablando Claro (En Vivo)",
         "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 190671,
       "name": "Hablando Claro (En Vivo)",
       "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "De Boca En Boca",
-        "url": "https://open.spotify.com/album/01olKgKJsavApHa7QJNT29"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 187835,
-      "name": "Se Fue La Pantera",
-      "url": "https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -739,58 +739,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 187929,
-      "name": "Mas Que Amigos - En Vivo",
-      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 155818,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/7IoQkL9C3vfSmF0Q9mXelv"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/4h3L3S6gEEKGETQHrGZafH"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "El Deportivo",
         "url": "https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg"
       },
@@ -807,38 +755,6 @@
       "duration_ms": 192400,
       "name": "El Deportivo",
       "url": "https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Puras de Servando, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 164257,
-      "name": "La Muchacha del Salado \"la Nicholette\" - En Vivo",
-      "url": "https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Soy El Rat\u00f3n",
-        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 222669,
-      "name": "Soy El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -863,6 +779,54 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 187929,
+      "name": "Mas Que Amigos - En Vivo",
+      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7IoQkL9C3vfSmF0Q9mXelv"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/4h3L3S6gEEKGETQHrGZafH"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Puras de Servando, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/4qJsTs0meLzRDbZNIGd5dX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 164257,
+      "name": "La Muchacha del Salado \"la Nicholette\" - En Vivo",
+      "url": "https://open.spotify.com/track/1CIm69POXMEVdDhT1tmE2I"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
       },
@@ -875,6 +839,42 @@
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 155818,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Soy El Rat\u00f3n",
+        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 222669,
+      "name": "Soy El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1179,6 +1179,30 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Cosas Claras, Cosas Buenas (En Vivo)",
+        "url": "https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Cosas Claras, Cosas Buenas (En Vivo)",
+      "url": "https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Agachadita",
         "url": "https://open.spotify.com/album/5c9O4aceHfVDbEq8DKEGuY"
       },
@@ -1231,30 +1255,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Cosas Claras, Cosas Buenas (En Vivo)",
-        "url": "https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Cosas Claras, Cosas Buenas (En Vivo)",
-      "url": "https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Cuervo Sierra",
         "url": "https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj"
       },
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 203794,
+      "name": "La Pregunta del Mill\u00f3n",
+      "url": "https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Super Poderes",
         "url": "https://open.spotify.com/album/47Kif0U9Uen1422h9tSkAM"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 203794,
-      "name": "La Pregunta del Mill\u00f3n",
-      "url": "https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
         "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 232801,
       "name": "Solo Un D\u00eda - En Vivo",
       "url": "https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Golpe de Estado (En Vivo)",
-        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 135247,
-      "name": "El Compa Carlos - En Vivo",
-      "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1371,38 +1355,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "El Fen\u00f3meno",
-        "url": "https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "As\u00ed Ya No",
-      "url": "https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Se Me Solt\u00f3 El Hocico",
-        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Se Me Solt\u00f3 El Hocico",
-      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "El Traje Naranja",
         "url": "https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD"
       },
@@ -1415,6 +1367,22 @@
       "duration_ms": 177960,
       "name": "De Ladrillo a Ladrillo",
       "url": "https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Golpe de Estado (En Vivo)",
+        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 135247,
+      "name": "El Compa Carlos - En Vivo",
+      "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1435,50 +1403,34 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Chalino",
-        "url": "https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO"
+        "name": "Se Me Solt\u00f3 El Hocico",
+        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 214243,
-      "name": "Chalino",
-      "url": "https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8"
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
     },
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "De Cuando Ac\u00e1",
-        "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
+        "name": "El Fen\u00f3meno",
+        "url": "https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs"
       },
       "artists": [
         {
-          "name": "La Energia Nortena",
-          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
         }
       ],
-      "duration_ms": 178474,
-      "name": "De Cuando Ac\u00e1",
-      "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Y Es el Contacto \u00a1Raza!",
-        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 168045,
-      "name": "El Agua Clara",
-      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
+      "duration_ms": 162400,
+      "name": "As\u00ed Ya No",
+      "url": "https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1499,6 +1451,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "De Cuando Ac\u00e1",
+        "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
+      },
+      "artists": [
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+        }
+      ],
+      "duration_ms": 178474,
+      "name": "De Cuando Ac\u00e1",
+      "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "La Loteria",
         "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
       },
@@ -1511,6 +1479,74 @@
       "duration_ms": 176350,
       "name": "Por La Baja Navegamos",
       "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Chalino",
+        "url": "https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 214243,
+      "name": "Chalino",
+      "url": "https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "El Sera y El Chavo (En Vivo)",
+        "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "El Sera y El Chavo (En Vivo)",
+      "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Y Es el Contacto \u00a1Raza!",
+        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 168045,
+      "name": "El Agua Clara",
+      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1551,26 +1587,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "El Sera y El Chavo (En Vivo)",
-        "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "El Sera y El Chavo (En Vivo)",
-      "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Mundo De Amor",
         "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 217495,
       "name": "Locamente Enamorado",
       "url": "https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Huapango Amor Ranchero",
-        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
-      },
-      "artists": [
-        {
-          "name": "La Humildad De La Musica Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "Huapango Amor Ranchero",
-      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Retro-Corridos, Vol. 2",
-        "url": "https://open.spotify.com/album/0lzTVbPrR9DTpiX6LqJ9Gj"
+        "name": "La Loteria",
+        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 239074,
-      "name": "Cuando Le Batallaba",
-      "url": "https://open.spotify.com/track/27waItiQKZqS7KF5WgBuCZ"
+      "duration_ms": 194655,
+      "name": "Cada Vez Mas",
+      "url": "https://open.spotify.com/track/5Jo2xhD9fwJJbCYE9FY2i5"
     }
   ],
   "unique_name": "Norte\u00f1o 2023",

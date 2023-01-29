@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,274 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,983 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 5 | [Nur ein Trost](https://open.spotify.com/track/2xIHVoglz5mLrNf145RieQ) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [Nur ein Trost](https://open.spotify.com/album/5jApFyWNcmyrBg7kQipm9U) | 2:44 |
 | 6 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 |
 | 7 | [sure thing \(sped up\)](https://open.spotify.com/track/6fBiLOkPcQ3iFUpmIv88fQ) | [accelerate](https://open.spotify.com/artist/7IErGg6ZCfFyJJoKGUUBpv), [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [sure thing \(sped up\)](https://open.spotify.com/album/2OcWg39f3Ms3Zsf01J7asL) | 1:53 |
-| 8 | [Ты И Я](https://open.spotify.com/track/2SyHAnMkA9xME32P3Cpw1f) | [SDM Nation](https://open.spotify.com/artist/6K1saPnrT3Gz5vo8WeKTWo) | [Ты И Я](https://open.spotify.com/album/3DT4qPUBlBxEXkJanCRhAB) | 3:02 |
+| 8 | [Love \- Remix](https://open.spotify.com/track/5f5C2gkvXy16MbQwEYZeYS) | [kevoxx](https://open.spotify.com/artist/5xmZKWPhiMa6sD84Efjrh9) | [Love \- Remix](https://open.spotify.com/album/0QPSUf5dmhOGbvsnJ6uEsn) | 3:02 |
 | 9 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \- Durdenhauer Edit](https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo) | [Durdenhauer](https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \[Durdenhauer Edit\]](https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu) | 2:43 |
 | 10 | [Luftballon](https://open.spotify.com/track/5w1KF2w0e8W1EEHsCJYYCf) | [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Noah](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL) | [Luftballon](https://open.spotify.com/album/1kofnvzxmIRyNCqWVA5Kkh) | 2:52 |
 | 11 | [Omnipräsent](https://open.spotify.com/track/77pRfKibVRvGf3u61umAgo) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Omnipräsent](https://open.spotify.com/album/4mLZck0eTEsdVyjEx6cmEH) | 2:40 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 36 | [Nur ein Wort](https://open.spotify.com/track/6q11kvJWt4SYHiNembjnaU) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3), [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN), [Sick & Tired](https://open.spotify.com/artist/2kg0dvxtCnkrfP7vf39w4D), [Asterio](https://open.spotify.com/artist/3xK2PuwaZkeXlAjDtK6ght) | [Nur ein Wort](https://open.spotify.com/album/2qS9UJHDrxUTJHrAHXCQRH) | 2:17 |
 | 37 | [Schwarz](https://open.spotify.com/track/1rZl80jlCeG9DoidzEVd78) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb) | [Schwarz](https://open.spotify.com/album/2Nyyn1Z361DRqf21A81JAf) | 2:18 |
 | 38 | [Complicated](https://open.spotify.com/track/00OeYqVhOcqLIV7aQv8vIw) | [DONDON](https://open.spotify.com/artist/7BaSOOhWzKYXrLxYoBvMax), [Rrotzer](https://open.spotify.com/artist/6a3Hepy65IU5aex19pUwjd) | [Complicated](https://open.spotify.com/album/4CvYFfsXFfPpXB3mJo5omr) | 2:27 |
-| 39 | [Those Eyes \- Sped Up](https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes Alternate Versions](https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB) | 2:47 |
+| 39 | [Those Eyes \- Sped Up](https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes \(Alternate Versions\)](https://open.spotify.com/album/55J0IqFDDMrc9v672IDED2) | 2:47 |
 | 40 | [Meer fahren](https://open.spotify.com/track/73z3CBj1xVRr1IQckImczP) | [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Meer fahren](https://open.spotify.com/album/3yS8i28eQBQ5pMTajqctPE) | 3:41 |
 | 41 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
 | 42 | [Glatteis](https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 100 | [The More I Bite](https://open.spotify.com/track/4cGQFb9fFfw3nmSNm3L2JE) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX) | [The More I Bite](https://open.spotify.com/album/16O7AReSw4Lk6ytVghcVIt) | 2:18 |
 
-Snapshot ID: `MTY3NDc3NDAwMCwwMDAwMDAwMDY4NzgxMWRiODY3MjkxZjBhOGUzYTZiZDk3OGIzYmNk`
+Snapshot ID: `MTY3NDc3NDAwMCwwMDAwMDAwMDAyN2E3ZDk4YzZjODdiM2FiZGRlOTBkOTc4MzVmZTNl`

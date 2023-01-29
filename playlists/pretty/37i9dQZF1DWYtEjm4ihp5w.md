@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Vargas
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,763 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,847 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 |
-| 2 | [ØKHØWA Pt\. 2](https://open.spotify.com/track/6AbdVUwJ7z0xqjZh9HQ9vV) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [ZORRO$](https://open.spotify.com/album/0GkdntN6sDMnyuOlV7H0ry) | 2:44 |
+| 1 | [ØKHØWA Pt\. 2](https://open.spotify.com/track/6AbdVUwJ7z0xqjZh9HQ9vV) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [ZORRO$](https://open.spotify.com/album/0GkdntN6sDMnyuOlV7H0ry) | 2:44 |
+| 2 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 |
 | 3 | [trap roumi v4](https://open.spotify.com/track/7B9t8WX9T38Df93JHlywfk) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [trap roumi v4](https://open.spotify.com/album/2Q5AFjt3zvBLf5TR32oJfm) | 4:26 |
 | 4 | [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 |
 | 5 | [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [La Weed](https://open.spotify.com/track/3Qe4g2M8lld0lmyE2LLRNk) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:10 |
 | 50 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 |
 
-Snapshot ID: `MTY3NDgyMTU3NiwwMDAwMDAwMGEzMTMzYjAzZmI3NmFjZTc4OWEyNjA3OGJmZjFjNTVi`
+Snapshot ID: `MTY3NDkyNzk0NCwwMDAwMDAwMDMwYzVjNzc4ZjY2YWFmYmQzMTIyZWVjNjVlYzY3N2Jl`

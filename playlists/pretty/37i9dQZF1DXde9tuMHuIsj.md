@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Ozuna & YOVNGCHIMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,516,594 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,516,698 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 22 | [Trap Life](https://open.spotify.com/track/6y02ncrAPQazhXNJ3R8MMf) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Trap Life](https://open.spotify.com/album/1xCzLw3aPw7ouqduAdrXjh) | 3:09 |
 | 23 | [2seater](https://open.spotify.com/track/79I3HVYg5wXqlB9jjRCrWF) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [2seater](https://open.spotify.com/album/4AwJRkBFfYW4gtR4hD00A0) | 2:41 |
 | 24 | [Blessings](https://open.spotify.com/track/0aOcyrtTn2Fpit2GIeaGwO) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Blessings](https://open.spotify.com/album/0stTNi5KJMdoruNe8JG6by) | 3:04 |
-| 25 | [XNO](https://open.spotify.com/track/258ARGrVTgPMa15ehgpgcB) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Xno](https://open.spotify.com/album/2wuaA1RoPCYb3GM7eV1PS6) | 3:08 |
+| 25 | [XNO](https://open.spotify.com/track/258ARGrVTgPMa15ehgpgcB) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [XNO](https://open.spotify.com/album/2wuaA1RoPCYb3GM7eV1PS6) | 3:08 |
 | 26 | [Conexiones](https://open.spotify.com/track/5ILe0JkahOZAZBiFJEDpMh) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Conexiones](https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz) | 3:21 |
 | 27 | [Nosotros](https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Nosotros](https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV) | 4:22 |
 | 28 | [Jóvenes Millonarios](https://open.spotify.com/track/4EbNxZ6ei9q1imUf2Hyo90) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:02 |

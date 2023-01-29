@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Christian Nodal, TINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,116 likes - 63 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,197 likes - 63 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 59 | [Recuerdos](https://open.spotify.com/track/1RBb4vOSBp6Mk0ZtnH1MTR) | [Ruben Wan](https://open.spotify.com/artist/5bYwZAV9K923kEHW1Yhol5) | [Colores](https://open.spotify.com/album/2svDUF02ZLBuFi0EZURX7Z) | 3:13 |
 | 60 | [Pirulitim](https://open.spotify.com/track/78c52SWEQmEBZyBwYHjGeQ) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Ao Vivo de Verdade](https://open.spotify.com/album/0CeWmIdj23iAZ8nBuW1ccv) | 3:04 |
 | 61 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 |
-| 62 | [Bolso Cheio](https://open.spotify.com/track/0GxgXhS6PEKC3qMrKN10Lm) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Ws da Igrejinha](https://open.spotify.com/artist/0PJWU4ftN3mPM4LPozLgJf), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Bolso Cheio](https://open.spotify.com/album/0x0fS6Y6jFD1YIGicSAO83) | 2:27 |
+| 62 | [Bolso Cheio](https://open.spotify.com/track/0GxgXhS6PEKC3qMrKN10Lm) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk) | [Bolso Cheio](https://open.spotify.com/album/0x0fS6Y6jFD1YIGicSAO83) | 2:27 |
 | 63 | [YA FUE \(feat\. Sir Boss\)](https://open.spotify.com/track/7a2vqBh4HyDWeVVLpCvgbW) | [Zetto](https://open.spotify.com/artist/2icP2VXBVXI6D4B5zfC1ab), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Inti y Vicente](https://open.spotify.com/artist/4VVwBj04GbOfjT07az5SgD), [Sir Boss](https://open.spotify.com/artist/5IOGZkPuWHakMDPdNhyRlm) | [YA FUE \(feat\. Sir Boss\)](https://open.spotify.com/album/3cAF9lyFhGV1ag976yMk6w) | 3:28 |
 
 Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDE5MWMxMmZjODMzOWUwYmY4MTkyYmJiZmJlNjc3ZmYz`

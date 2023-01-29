@@ -4,7 +4,7 @@
 
 > Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.
 
-79 songs - 3 hr 23 min
+80 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Comtemplating Still](https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [Comtemplating Still](https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo) | 1:40 | 2022-09-15 |  |
 | [D'émeraude](https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB) | [Daniel Joaví](https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT) | [D'émeraude](https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ) | 2:06 | 2022-09-15 |  |
 | [Dance Around It \(feat\. Brandi Carlile & Sheryl Crow\)](https://open.spotify.com/track/1jxRF1uyBtNLaq2NL5ISro) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:26 | 2022-09-15 |  |
-| [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 | 2022-09-15 |  |
+| [Desiderium](https://open.spotify.com/track/07KyFspZCxCatWgaXoPlXg) | [Christine Papst](https://open.spotify.com/artist/0PRooTT7V1vNPXCHBRomZE) | [Desiderium](https://open.spotify.com/album/6uUZU6NCqEjsFf3piG0srU) | 2:24 | 2022-09-15 | 2023-01-29 |
 | [Don't Worry Be Happy](https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [Simple Pleasures](https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b) | 4:54 | 2022-09-15 |  |
 | [Early Hours](https://open.spotify.com/track/6FDWiY1Gy0DVhvYGtkLBCa) | [Sunset Chamber](https://open.spotify.com/artist/6xdDIOgbdCLHsDX4dcnSfI) | [Early Hours](https://open.spotify.com/album/0xpzjW3KD6Dy9sRk0IxPh5) | 3:02 | 2022-09-15 |  |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2022-09-15 |  |
@@ -79,6 +79,7 @@
 | [The Lion Sleeps Tonight](https://open.spotify.com/track/5X6VbizePQKSnt55YWWyGS) | [The Tokens](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) | [Both Sides Now](https://open.spotify.com/album/6I9RmyZrutcjFnXthpdhkx) | 2:33 | 2022-09-15 |  |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2022-09-15 |  |
 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 | 2022-09-15 |  |
+| [Unwritten Thoughts](https://open.spotify.com/track/0qXXvOL6Ujkboy0u6QHCam) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Escape](https://open.spotify.com/album/4pihDS6JH0lIBv4er7yBpm) | 3:28 | 2022-12-19 |  |
 | [Varazdin](https://open.spotify.com/track/4MbjcL460D3UHueKiREBPZ) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Varazdin](https://open.spotify.com/album/4vYwpkP10mwLThSSeYpsoV) | 1:46 | 2022-09-15 |  |
 | [Vejlefjord](https://open.spotify.com/track/6ff7MgoSLL9Cxi3t2qYVnA) | [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Vejlefjord](https://open.spotify.com/album/1gt84E4kL8DdnXW1XlclX4) | 2:14 | 2022-09-15 |  |
 | [Weightless](https://open.spotify.com/track/6kkwzB6hXLIONkEk9JciA6) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [The Ambient Zone Just Music Cafe Vol 4](https://open.spotify.com/album/0JsrUHqVkWkXt0vQeNiVkW) | 8:00 | 2022-09-15 |  |

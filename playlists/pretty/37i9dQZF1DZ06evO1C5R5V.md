@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,064 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,090 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 45 | [Tuve un Sueño](https://open.spotify.com/track/3ppByciySUKj5peYAhF9fu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 3:13 |
 | 46 | [Lloré, Lloré, Lloré](https://open.spotify.com/track/5Mw6WWOT9hlB6UbQKcgiqR) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Andrew "Jr Boy" Jones](https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c) | [Raíces \(Blues\)](https://open.spotify.com/album/47rNdwCYK03r88tVbjrHJP) | 3:11 |
 | 47 | [Presentación, Pt\. 2 \- En Vivo](https://open.spotify.com/track/6dEz0ipVf1uCeMHnO57yRC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 1:00 |
-| 48 | [Enamorada De Un Amigo Mío \- En Vivo](https://open.spotify.com/track/4pzmHhjozylrw2GyEzf6w4) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Vive Una Noche Mágica \(En Vivo\)](https://open.spotify.com/album/2fcpmQSdUp1667ydxqjFhi) | 5:46 |
-| 49 | [Bajando en la Esquina](https://open.spotify.com/track/2TQxrmwp570FOy45G5Au53) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Volviendo a Casa](https://open.spotify.com/album/7HMKw1qzzztQ0LrOhAzDVf) | 2:42 |
+| 48 | [Bajando en la Esquina](https://open.spotify.com/track/2TQxrmwp570FOy45G5Au53) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Volviendo a Casa](https://open.spotify.com/album/7HMKw1qzzztQ0LrOhAzDVf) | 2:42 |
+| 49 | [Enamorada De Un Amigo Mío \- En Vivo](https://open.spotify.com/track/4pzmHhjozylrw2GyEzf6w4) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Vive Una Noche Mágica \(En Vivo\)](https://open.spotify.com/album/2fcpmQSdUp1667ydxqjFhi) | 5:46 |
 | 50 | [Vivir por Vivir](https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [En Algún Lugar en el Cielo](https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg) | 4:29 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDAxMDg4MjkxMzdhMGVhMWI1OGVkZjYyYzdjMWFjYTQ3NQ==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDA3ZTgxMTM4ZWQ3YjgwMjBmOTY2MjU1MDA0YTY2MzFiYg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Frank Walker &amp; Ella Henderson
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,174 likes - 150 songs - 8 hr 2 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,170 likes - 150 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 7 | [Hombres y Mujeres](https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hombres y Mujeres](https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI) | 2:28 |
 | 8 | [Didn't Know Lonely](https://open.spotify.com/track/1TVRKXD6RkBNTE7F11Pexm) | [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Didn't Know Lonely](https://open.spotify.com/album/64iN3YbIdjSCLIimrNAdHZ) | 3:10 |
 | 9 | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv) | 2:45 |
-| 10 | [The White Lotus Theme \(Aloha\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(Aloha\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 |
+| 10 | [The White Lotus Theme \(Aloha\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(aloha\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 |
 | 11 | [Look Where We Are](https://open.spotify.com/track/4I3kvtjNBcJWI7H9bszT75) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk) | [Look Where We Are](https://open.spotify.com/album/108Pp4ZFqOsChhw1g9MFFD) | 3:12 |
 | 12 | [Chasing Cars](https://open.spotify.com/track/1ByxuN2e68C9mAx85Vcumt) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Chasing Cars](https://open.spotify.com/album/5XWrAQqR08TOq4dl2Q4uOZ) | 4:38 |
 | 13 | [Freedom](https://open.spotify.com/track/2dNpDvdfOWoldOOaXzMVVm) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Freedom](https://open.spotify.com/album/77UHK9hcSBhAoeteVrN0Ox) | 3:25 |

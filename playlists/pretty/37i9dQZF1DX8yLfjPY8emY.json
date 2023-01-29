@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila esta cumbia! Los \u00e9xitos de Latinoam\u00e9rica en un solo lugar. Foto: Los \u00c1ngeles Azules",
-  "num_followers": 954560,
+  "num_followers": 955367,
   "original_name": "100% Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4MjUwMCwwMDAwMDAwMDZhZjgwYTQ0YmVjNjkwM2YyYjQxNTcxOTU4ZjM1ZjQx",
+  "snapshot_id": "MTY2MDI4MjUwMCwwMDAwMDAwMGRiN2FjNDM5ZTE5MDY1MWZkYmNhY2Y5Y2NiMThhMjAx",
   "tracks": [
     {
       "added_at": "2022-08-12 05:35:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2022-08-12 05:35:00",
       "album": {
-        "name": "25 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Jurabas Tu",
-      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
-    },
-    {
-      "added_at": "2022-08-12 05:35:00",
-      "album": {
         "name": "Imparables",
         "url": "https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 194800,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj"
+    },
+    {
+      "added_at": "2022-08-12 05:35:00",
+      "album": {
+        "name": "25 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Jurabas Tu",
+      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
     },
     {
       "added_at": "2022-08-12 05:35:00",
@@ -347,26 +347,18 @@
     {
       "added_at": "2022-08-12 05:35:00",
       "album": {
-        "name": "Flasheaste Amor",
-        "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
       "artists": [
         {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        },
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        },
-        {
-          "name": "Lauro",
-          "url": "https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ"
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
         }
       ],
-      "duration_ms": 175263,
-      "name": "Flasheaste Amor",
-      "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
+      "duration_ms": 204680,
+      "name": "Besar Tu Piel",
+      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
     },
     {
       "added_at": "2022-08-12 05:35:00",
@@ -391,18 +383,26 @@
     {
       "added_at": "2022-08-12 05:35:00",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+        "name": "Flasheaste Amor",
+        "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
       },
       "artists": [
         {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        },
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        },
+        {
+          "name": "Lauro",
+          "url": "https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ"
         }
       ],
-      "duration_ms": 204680,
-      "name": "Besar Tu Piel",
-      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+      "duration_ms": 175263,
+      "name": "Flasheaste Amor",
+      "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
     },
     {
       "added_at": "2022-08-12 05:35:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-08-12 05:35:00",
       "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 182973,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h"
-    },
-    {
-      "added_at": "2022-08-12 05:35:00",
-      "album": {
         "name": "El Condor Legendario",
         "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 266866,
       "name": "El Diario De Un Borracho",
       "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
+    },
+    {
+      "added_at": "2022-08-12 05:35:00",
+      "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h"
     },
     {
       "added_at": "2022-08-12 05:35:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-08-12 05:35:00",
       "album": {
-        "name": "Cumbia Pa' seguir Bailando",
-        "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
+        "name": "Sue\u00f1o Cumplido",
+        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
       },
       "artists": [
         {
-          "name": "Cumbias Poblanas",
-          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
         }
       ],
-      "duration_ms": 289802,
-      "name": "Las Amo a Las Dos",
-      "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
+      "duration_ms": 200893,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX"
     },
     {
       "added_at": "2022-08-12 05:35:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-08-12 05:35:00",
       "album": {
-        "name": "Sue\u00f1o Cumplido",
-        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
+        "name": "Cumbia Pa' seguir Bailando",
+        "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
       },
       "artists": [
         {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+          "name": "Cumbias Poblanas",
+          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
         }
       ],
-      "duration_ms": 200893,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX"
+      "duration_ms": 289802,
+      "name": "Las Amo a Las Dos",
+      "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
     }
   ],
   "unique_name": "100% Cumbia",

@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/2Xwyq4AyKumjXIVV7uk1Z9"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 176360,
       "name": "Agudo M\u00e1gico 3",
       "url": "https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt"
@@ -1508,6 +1508,24 @@
       "duration_ms": 150595,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/0SHHJc5BFL4pVmxm32Bb8Q"
+    },
+    {
+      "album": {
+        "name": "ANTAGONISTA",
+        "url": "https://open.spotify.com/album/7ofQ6GsdNL01Kki0GVaNrZ"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132600,
+      "name": "ANTAGONISTA",
+      "url": "https://open.spotify.com/track/25MXhQD6t6jkWhYcuGBcjt"
     },
     {
       "album": {
@@ -6246,7 +6264,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 173586,
       "name": "Eres Ese Algo",
       "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
@@ -8584,7 +8602,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -9928,6 +9946,32 @@
     {
       "album": {
         "name": "JESUS IN BERLIN",
+        "url": "https://open.spotify.com/album/3O87y5cnZk4fVJbjSfc3Xl"
+      },
+      "artists": [
+        {
+          "name": "nullzwei",
+          "url": "https://open.spotify.com/artist/3PkWoIJrG7k4yJuGytxTds"
+        },
+        {
+          "name": "Chris Sigl",
+          "url": "https://open.spotify.com/artist/5bo6pQQsgmpE3dB7ZxtXot"
+        },
+        {
+          "name": "BERTHAJU",
+          "url": "https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152343,
+      "name": "JESUS IN BERLIN",
+      "url": "https://open.spotify.com/track/1eBGNWrnfmSCHN4IfEUqUX"
+    },
+    {
+      "album": {
+        "name": "JESUS IN BERLIN",
         "url": "https://open.spotify.com/album/0IYsd3GuFTKzVA0UbDXwpv"
       },
       "artists": [
@@ -9946,7 +9990,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 152343,
       "name": "JESUS IN BERLIN",
       "url": "https://open.spotify.com/track/1uzIAacATODXQVXuENo1ei"
@@ -11966,7 +12010,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 184615,
       "name": "Luz do Luar",
       "url": "https://open.spotify.com/track/6eNRGL6Nkdg7RhJtmbcl0j"
@@ -19114,7 +19158,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 113053,
       "name": "sure thing (sped up)",
       "url": "https://open.spotify.com/track/6fBiLOkPcQ3iFUpmIv88fQ"
@@ -19382,6 +19426,24 @@
       "duration_ms": 241714,
       "name": "Tak Kan Hilang",
       "url": "https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu"
+    },
+    {
+      "album": {
+        "name": "Tak Segampang Itu",
+        "url": "https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG"
+      },
+      "artists": [
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231100,
+      "name": "Tak Segampang Itu",
+      "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"
     },
     {
       "album": {

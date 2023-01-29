@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,432 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,467 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 30 | [Besitos En El Cuello](https://open.spotify.com/track/2ZufmJCBqebEuiJdhPOnpm) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 2:28 |
 | 31 | [Y Que Paso](https://open.spotify.com/track/2gOOKb53hbXZCtKODq6B6Y) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Exitos En Vivo Vol\. 1](https://open.spotify.com/album/2yfdhZqHLZXOgQeAThSr4B) | 2:18 |
 | 32 | [Mi Casa Nueva](https://open.spotify.com/track/2L2hf0hRTCJZRSHsxNtw5P) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Rancho Grande](https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e) | 1:54 |
-| 33 | [El Especial](https://open.spotify.com/track/6RCK1hYoBUaUmZSX0s4Rzn) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Especial](https://open.spotify.com/album/3vgqWLTfClYLFJRVPbGKuP) | 2:50 |
+| 33 | [Trienta Cartas](https://open.spotify.com/track/2h2e7oQQrXOMFSy4ttLaLU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Exitos En Vivo Vol\. 2](https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW) | 2:37 |
 | 34 | [El Amor No Tiene Edad](https://open.spotify.com/track/0oYZtUomf11wsoyNvScsTo) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 2:26 |
-| 35 | [Trienta Cartas](https://open.spotify.com/track/2h2e7oQQrXOMFSy4ttLaLU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Exitos En Vivo Vol\. 2](https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW) | 2:37 |
+| 35 | [El Especial](https://open.spotify.com/track/6RCK1hYoBUaUmZSX0s4Rzn) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Especial](https://open.spotify.com/album/3vgqWLTfClYLFJRVPbGKuP) | 2:50 |
 | 36 | [Amargo Dolor](https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Concedeme](https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY) | 2:26 |
 | 37 | [El Amo](https://open.spotify.com/track/1W3lwaQRhmT3LQW2xKQuqp) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Amo](https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj) | 3:21 |
 | 38 | [Concédeme](https://open.spotify.com/track/5Q8lRKYm8vbPJbcJoE7JXX) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 49 | [Estilon Austero \- En Vivo](https://open.spotify.com/track/4MT4tkMloQ0fyQMjJlVWh0) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 3:02 |
 | 50 | [Aluciné](https://open.spotify.com/track/1dKiTltAJ2zA4hi2DIZkWb) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Alucine](https://open.spotify.com/album/7i5xLbOj6zyoDAJUnpHhGZ) | 3:04 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDAxNDEyZDZlYWJkZjAyOGY4YTc0YWY4N2I5YTM4N2NkMA==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDA1ZWJjMjlmMzdhZmE0ZTg3MzUxM2QxNTk2MGY3M2FmZQ==`

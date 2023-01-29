@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: All Time Low",
-  "num_followers": 542080,
+  "num_followers": 542200,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc3NzYwMCwwMDAwMDAwMGRkMDFhYzk0ZTYxNzg5OTNkNjY2ODMwNzRiNjA2MmQz",
+  "snapshot_id": "MTY3NDc3NzYwMCwwMDAwMDAwMGUzMTZjOTI0N2I5NTE4MGRmMWQ4MjRmMzRmZDhjNjE2",
   "tracks": [
     {
       "added_at": "2023-01-13 00:00:00",
@@ -293,6 +293,22 @@
       "url": "https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE"
     },
     {
+      "added_at": "2023-01-27 00:00:00",
+      "album": {
+        "name": "REAL SUPER DARK",
+        "url": "https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 149194,
+      "name": "REAL SUPER DARK",
+      "url": "https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3"
+    },
+    {
       "added_at": "2023-01-13 00:00:00",
       "album": {
         "name": "Hey Ben",
@@ -373,6 +389,22 @@
       "url": "https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd"
     },
     {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "cherry cigarettes",
+        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "cherry cigarettes",
+      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
+    },
+    {
       "added_at": "2023-01-13 00:00:00",
       "album": {
         "name": "HOLY FVCK",
@@ -405,22 +437,6 @@
       "url": "https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK"
     },
     {
-      "added_at": "2023-01-20 00:00:00",
-      "album": {
-        "name": "cherry cigarettes",
-        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
-      },
-      "artists": [
-        {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "cherry cigarettes",
-      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
-    },
-    {
       "added_at": "2023-01-13 00:00:00",
       "album": {
         "name": "Fuck You",
@@ -435,6 +451,22 @@
       "duration_ms": 177600,
       "name": "Fuck You",
       "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "Call Me Never",
+        "url": "https://open.spotify.com/album/0BfKHzKddDMfm0G3Ou3qUS"
+      },
+      "artists": [
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        }
+      ],
+      "duration_ms": 182349,
+      "name": "Call Me Never",
+      "url": "https://open.spotify.com/track/4No3g1xYAXAyxYU4LQLZEq"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -455,22 +487,6 @@
       "duration_ms": 169325,
       "name": "HEAVYWEIGHT",
       "url": "https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "Call Me Never",
-        "url": "https://open.spotify.com/album/0BfKHzKddDMfm0G3Ou3qUS"
-      },
-      "artists": [
-        {
-          "name": "Hoodie Allen",
-          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
-        }
-      ],
-      "duration_ms": 182349,
-      "name": "Call Me Never",
-      "url": "https://open.spotify.com/track/4No3g1xYAXAyxYU4LQLZEq"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -617,20 +633,36 @@
       "url": "https://open.spotify.com/track/0ris8ZOev93elZLB0au38j"
     },
     {
-      "added_at": "2023-01-27 00:00:00",
+      "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "REAL SUPER DARK",
-        "url": "https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT"
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
       },
       "artists": [
         {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
         }
       ],
-      "duration_ms": 149194,
-      "name": "REAL SUPER DARK",
-      "url": "https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3"
+      "duration_ms": 179175,
+      "name": "Teenage Runaways",
+      "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
+    },
+    {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
+      },
+      "artists": [
+        {
+          "name": "Phoneboy",
+          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -647,22 +679,6 @@
       "duration_ms": 188374,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/43YhUeHATriN0vyiEZUZ82"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "The King and Queen of Gasoline",
-        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 179175,
-      "name": "Teenage Runaways",
-      "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -753,20 +769,20 @@
       "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
     },
     {
-      "added_at": "2023-01-20 00:00:00",
+      "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
+        "name": "Don't Fall In Love With Me",
+        "url": "https://open.spotify.com/album/5IQldAUzw7BjWe6fcg163u"
       },
       "artists": [
         {
-          "name": "Phoneboy",
-          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
         }
       ],
-      "duration_ms": 162133,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
+      "duration_ms": 148500,
+      "name": "Don't Fall In Love With Me",
+      "url": "https://open.spotify.com/track/14U3GHjvw3Bk9HDeEBdrur"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -791,22 +807,6 @@
       "duration_ms": 191871,
       "name": "Juice",
       "url": "https://open.spotify.com/track/4EAEKqmrkfA7WFfeBAvDZi"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "Don't Fall In Love With Me",
-        "url": "https://open.spotify.com/album/5IQldAUzw7BjWe6fcg163u"
-      },
-      "artists": [
-        {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Don't Fall In Love With Me",
-      "url": "https://open.spotify.com/track/14U3GHjvw3Bk9HDeEBdrur"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -863,6 +863,38 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 185294,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 201612,
+      "name": "I Fell in Love With Someone I Shouldn't Have",
+      "url": "https://open.spotify.com/track/4G0BG6CVeApTQ1reoL9UOq"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
         "name": "TAKE THIS CROWN (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M"
       },
@@ -899,38 +931,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "The King and Queen of Gasoline",
-        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 201612,
-      "name": "I Fell in Love With Someone I Shouldn't Have",
-      "url": "https://open.spotify.com/track/4G0BG6CVeApTQ1reoL9UOq"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "Carousel",
-        "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 185294,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 191493,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "Armageddon",
+        "url": "https://open.spotify.com/album/0shZOs5RGfa93z5RYxUHvw"
+      },
+      "artists": [
+        {
+          "name": "Between You & Me",
+          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
+        }
+      ],
+      "duration_ms": 162166,
+      "name": "Deadbeat",
+      "url": "https://open.spotify.com/track/2gyWRxnmsdfPKlwu1x1YAy"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -971,22 +987,6 @@
       "duration_ms": 161683,
       "name": "Seeing Red (with Dusty Locane & Rah Swish)",
       "url": "https://open.spotify.com/track/7eokpLlr9FBg6PdqzA2hLh"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "Armageddon",
-        "url": "https://open.spotify.com/album/0shZOs5RGfa93z5RYxUHvw"
-      },
-      "artists": [
-        {
-          "name": "Between You & Me",
-          "url": "https://open.spotify.com/artist/1P1y4wp6V0CwjhGcXPKgAu"
-        }
-      ],
-      "duration_ms": 162166,
-      "name": "Deadbeat",
-      "url": "https://open.spotify.com/track/2gyWRxnmsdfPKlwu1x1YAy"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1039,6 +1039,42 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
+        "name": "Tom in 03",
+        "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
+      },
+      "artists": [
+        {
+          "name": "Misplaced",
+          "url": "https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu"
+        },
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 141671,
+      "name": "Tom in 03",
+      "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "GENRELESS",
+        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
+      },
+      "artists": [
+        {
+          "name": "LESANE",
+          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
+        }
+      ],
+      "duration_ms": 101650,
+      "name": "COLD BEER",
+      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
         "name": "A Session With My Therapist",
         "url": "https://open.spotify.com/album/1UkkJcrSfZ0YBir2pnfNhV"
       },
@@ -1071,42 +1107,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "GENRELESS",
-        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
-      },
-      "artists": [
-        {
-          "name": "LESANE",
-          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
-        }
-      ],
-      "duration_ms": 101650,
-      "name": "COLD BEER",
-      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "Tom in 03",
-        "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
-      },
-      "artists": [
-        {
-          "name": "Misplaced",
-          "url": "https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu"
-        },
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 141671,
-      "name": "Tom in 03",
-      "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "SiCK ABOuT U",
-        "url": "https://open.spotify.com/album/2ycxmpyCma1VJLKs1O8Sp4"
-      },
-      "artists": [
-        {
-          "name": "TITUS",
-          "url": "https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd"
-        }
-      ],
-      "duration_ms": 188387,
-      "name": "SiCK ABOuT U",
-      "url": "https://open.spotify.com/track/4kktxKYY6MQK6rNlEvNl2o"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "BURNOUT",
         "url": "https://open.spotify.com/album/01vivwdeCRkTwNwgVEFmza"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 182622,
       "name": "THE AMERICAN DREAM",
       "url": "https://open.spotify.com/track/3FSxSPFLwvVUMjTjFo9Von"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "SiCK ABOuT U",
+        "url": "https://open.spotify.com/album/2ycxmpyCma1VJLKs1O8Sp4"
+      },
+      "artists": [
+        {
+          "name": "TITUS",
+          "url": "https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd"
+        }
+      ],
+      "duration_ms": 188387,
+      "name": "SiCK ABOuT U",
+      "url": "https://open.spotify.com/track/4kktxKYY6MQK6rNlEvNl2o"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1237,6 +1237,42 @@
       "url": "https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP"
     },
     {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "(NOT A) LOVE SONG",
+        "url": "https://open.spotify.com/album/5ALQdJdsSKZikDNs6Br7VN"
+      },
+      "artists": [
+        {
+          "name": "The Tyne",
+          "url": "https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V"
+        },
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 167040,
+      "name": "(NOT A) LOVE SONG",
+      "url": "https://open.spotify.com/track/4pbi40zXUCSQG3azxkag79"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "WE'RE NOT STRANGERS",
+        "url": "https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 138720,
+      "name": "WE'RE NOT STRANGERS",
+      "url": "https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu"
+    },
+    {
       "added_at": "2023-01-13 00:00:00",
       "album": {
         "name": "sorry i'm a downer",
@@ -1287,22 +1323,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "WE'RE NOT STRANGERS",
-        "url": "https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z"
-      },
-      "artists": [
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
-        }
-      ],
-      "duration_ms": 138720,
-      "name": "WE'RE NOT STRANGERS",
-      "url": "https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "SORRY 4 MYSELF",
         "url": "https://open.spotify.com/album/5Ng2BR9GAUtcEN6o1nRXRt"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 189072,
       "name": "Cool Blue",
       "url": "https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn"
-    },
-    {
-      "added_at": "2023-01-20 00:00:00",
-      "album": {
-        "name": "(NOT A) LOVE SONG",
-        "url": "https://open.spotify.com/album/5ALQdJdsSKZikDNs6Br7VN"
-      },
-      "artists": [
-        {
-          "name": "The Tyne",
-          "url": "https://open.spotify.com/artist/5o5dFyK0UODK3sYQp5ao8V"
-        },
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 167040,
-      "name": "(NOT A) LOVE SONG",
-      "url": "https://open.spotify.com/track/4pbi40zXUCSQG3azxkag79"
     },
     {
       "added_at": "2023-01-13 00:00:00",

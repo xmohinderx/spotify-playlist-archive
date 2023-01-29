@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,674 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,683 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 46 | [What I Like About You \(feat\. Babyface\)](https://open.spotify.com/track/6dXihKQBlA4CxPJaoBycPk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Stronger Everyday](https://open.spotify.com/album/3jiSl9MNlxpIXoVN2gsCcA) | 4:25 |
 | 47 | [Evergreen \(with Babyface\)](https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Partners \(Deluxe\)](https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG) | 3:14 |
 | 48 | [I'll Make Love to You \- Live On MTV Unplugged](https://open.spotify.com/track/0gazVflAsJdyXmuFrIiKmq) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Babyface Unplugged NYC 1997](https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs) | 2:02 |
-| 49 | [Knockin' On Heaven's Door](https://open.spotify.com/track/7ce3XCXIRELdK4RpyYCcxt) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Playlist](https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI) | 3:22 |
-| 50 | [I Honestly Love You](https://open.spotify.com/track/2kCIwSz0JoYQPrT4Ykr1MZ) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Back With A Heart](https://open.spotify.com/album/0AGBh7qLk5x8puPv7sH721) | 4:06 |
+| 49 | [I Honestly Love You](https://open.spotify.com/track/2kCIwSz0JoYQPrT4Ykr1MZ) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Back With A Heart](https://open.spotify.com/album/0AGBh7qLk5x8puPv7sH721) | 4:06 |
+| 50 | [Knockin' On Heaven's Door](https://open.spotify.com/track/7ce3XCXIRELdK4RpyYCcxt) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Playlist](https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI) | 3:22 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDAxNTI1OGM0MmNjZDAzMWU0ZTZhMjc5ZWM2YzRkNjgwOQ==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDAyZmIzMjM0MGU0NDg1NmY2MmMyOTczNWY5YzYzY2NlYQ==`

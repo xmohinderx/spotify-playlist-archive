@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,678 likes - 212 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,680 likes - 212 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 54 | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/track/4QeBlVCl2KzUEcQZiuskRd) | [NexXthursday](https://open.spotify.com/artist/07Y8trtAhW1FFUPqZYTosy), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/album/0i9TSDm7kuCNRsaw8rSca2) | 4:04 |
 | 55 | [Rollercoaster](https://open.spotify.com/track/7dxKdQC9Vo1hDxIUnt1z0Q) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
 | 56 | [Night Crawling \(feat\. Billy Idol\)](https://open.spotify.com/track/4U34WsyOvppOMnRfq7DuOy) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:09 |
-| 57 | [Invisible Things](https://open.spotify.com/track/24n8p4vCkwNL9OhvTrwe9z) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:17 |
-| 58 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 |
+| 57 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 |
+| 58 | [Invisible Things](https://open.spotify.com/track/24n8p4vCkwNL9OhvTrwe9z) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:17 |
 | 59 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/0eT4sEeeudOolC4hivApL9) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [FRIENDS KEEP SECRETS 2](https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C) | 2:34 |
 | 60 | [imagine](https://open.spotify.com/track/4PMZyXssvisK5IxLnnl9r7) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 2:44 |
 | 61 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 111 | [Coming To My Senses](https://open.spotify.com/track/0wNenHPLy8qwMfxHTqScoR) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 3:06 |
 | 112 | [So Will I](https://open.spotify.com/track/35hWvR2SVsWwzScQ4UEMED) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead \(Deluxe\)](https://open.spotify.com/album/3h7X7RcVxhSNLCCxJ7I9ar) | 4:11 |
 | 113 | [Chateau](https://open.spotify.com/track/2yedRoI0ixMxQSyHE0q1Jq) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:08 |
-| 114 | [I wanna love you but I don’t](https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:24 |
-| 115 | [Tattoos](https://open.spotify.com/track/4JbUI6AoGibHGsHN77aSws) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Tattoos](https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ) | 2:53 |
+| 114 | [Tattoos](https://open.spotify.com/track/4JbUI6AoGibHGsHN77aSws) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Tattoos](https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ) | 2:53 |
+| 115 | [I wanna love you but I don’t](https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:24 |
 | 116 | [My Own Hero](https://open.spotify.com/track/0KednpCIKKLMC17fcW80cN) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 3:29 |
 | 117 | [Hurting on Purpose \(feat\. K.Flay\)](https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 2:09 |
 | 118 | [Terrified](https://open.spotify.com/track/0tCD4um9Mbqli92icIS3Jo) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Unfortunately, Terror Jr](https://open.spotify.com/album/6b2KfLOzzs3nOKKaPbi47J) | 2:58 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 120 | [Better](https://open.spotify.com/track/7mu0nb8PR5mpquEbwbMe6j) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:11 |
 | 121 | [Birthday Girl](https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
 | 122 | [barcelona](https://open.spotify.com/track/6tvikT3O9PBnghgHN9LaiB) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 2:55 |
-| 123 | [Simple \(feat\. Victoria Zaro\)](https://open.spotify.com/track/0l9Iw63br78PdwmjNzwmOj) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Victoria Zaro](https://open.spotify.com/artist/3QLQxutu868fKgeEkEgXW0) | [Simple \(feat\. Victoria Zaro\)](https://open.spotify.com/album/76jSo7nMbW3o3lYBryCTyV) | 2:51 |
-| 124 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/4dfotX3ZuHDqwbXFs6QBgy) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:15 |
+| 123 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/4dfotX3ZuHDqwbXFs6QBgy) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:15 |
+| 124 | [Simple \(feat\. Victoria Zaro\)](https://open.spotify.com/track/0l9Iw63br78PdwmjNzwmOj) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Victoria Zaro](https://open.spotify.com/artist/3QLQxutu868fKgeEkEgXW0) | [Simple \(feat\. Victoria Zaro\)](https://open.spotify.com/album/76jSo7nMbW3o3lYBryCTyV) | 2:51 |
 | 125 | [See You Later](https://open.spotify.com/track/4Fn3jsImMdfQzsvtU3o8CW) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I'm Sorry I Love You \- EP](https://open.spotify.com/album/5DplyhOUuIy3xuAdS7rfqL) | 2:42 |
 | 126 | [Didn't I](https://open.spotify.com/track/7jhCqJlmx37u8o0xo2bjaj) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:38 |
 | 127 | [Drunk As Hell](https://open.spotify.com/track/6BJLqaraRUJmHa2I1c81P9) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv) | [Drunk As Hell](https://open.spotify.com/album/3XgfWhfU8rBcGoFjeWBcpp) | 3:23 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 211 | [Lied on Me](https://open.spotify.com/track/3DUaaUvTEebccVYvlTGBuL) | [Mike Riches Ross](https://open.spotify.com/artist/1EOsdKjjf2PWJf4OgT3pYT) | [Collected Thoughts](https://open.spotify.com/album/7HwchDhCZqyr4Y0XZV1G1T) | 4:31 |
 | 212 | [Heaven](https://open.spotify.com/track/0t0Dqao4DNlyZkhjA8MLbh) | [Michael Wills](https://open.spotify.com/artist/2EXbEUh36k3Qjh48mcXvpf) | [Fire](https://open.spotify.com/album/7fT0kivs4DxyxoeSk7KphV) | 3:20 |
 
-Snapshot ID: `Mjc5MTQ0MDcsMDAwMDAwMDA1Y2QyYTYyMzU4MmMwZDk2NTVkZTA1Mzk0NTkxZDkxMQ==`
+Snapshot ID: `Mjc5MTU4NDcsMDAwMDAwMDA3ZTM2ZTI5NWU3NTAxODIzMzdhZjlmMmY1ODk3YzM4MA==`

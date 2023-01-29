@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 
 > A playlist of Christian summer camp favorites, past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,021 likes - 53 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,033 likes - 53 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 12 | [Here I Am To Worship](https://open.spotify.com/track/0uOd48gTo5pVFzk6Yrba6Y) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Ultimate Collection](https://open.spotify.com/album/5sDGZt6F7nKvUpigtTSepn) | 5:17 |
 | 13 | [This Is Living](https://open.spotify.com/track/6TCk1yecQRDU5sXG3vjTYj) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [This Is Living](https://open.spotify.com/album/7h7W5MDYWmSYGSAag53umc) | 3:30 |
 | 14 | [In The Light \- Remastered 2013](https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 5:05 |
-| 15 | [Above All](https://open.spotify.com/track/3JSxKlxWTriK218L3yqoLN) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 4:36 |
+| 15 | [Joy Of The Lord](https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [As Family We Go](https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn) | 3:46 |
 | 16 | [Blessed Be Your Name](https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Sing Like Never Before: The Essential Collection](https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm) | 5:48 |
-| 17 | [Joy Of The Lord](https://open.spotify.com/track/0zZOHnBVMmuJxCETvXUYlj) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [As Family We Go](https://open.spotify.com/album/7cenIKs6fcaaHsBiDGlXgn) | 3:46 |
+| 17 | [Above All](https://open.spotify.com/track/3JSxKlxWTriK218L3yqoLN) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Worship](https://open.spotify.com/album/4uWr8fOgmNBCP5awR10dbs) | 4:36 |
 | 18 | [I've Got Peace Like A River](https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Sunday School Songs](https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX) | 1:33 |
 | 19 | [The Great Adventure](https://open.spotify.com/track/3Qpx3cHP6XMmf8comtpjkT) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op), [Bailee Madison](https://open.spotify.com/artist/1ADf0BZ77Jw7XYFB37hABE), [Jahbril Cook](https://open.spotify.com/artist/4niQBqaDLz6CBtHdTlmcWT), [Kat Conner Sterling](https://open.spotify.com/artist/0ix8tTQpoazYsJEkn0TazD), [Iain Tucker](https://open.spotify.com/artist/11sxWrzQpcZs47pMYU4FVN), [Sherri Shepherd](https://open.spotify.com/artist/006eSnqZrWRa4Z7jhlCt4J), [The Cast Of Netflix's Film A Week Away](https://open.spotify.com/artist/3Rn6h4Auck41QvOCm2jtQQ) | [A Week Away \(Music From The Netflix Film\)](https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb) | 3:42 |
 | 20 | [Big House](https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [Don't Censor Me](https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C) | 3:31 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaKTBuc6XdP.md) - [plain]
 | 52 | [I Am Alive](https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA) | [SL Worship](https://open.spotify.com/artist/3ZArpBXyBswucER1dfHDKP) | [I Am Alive](https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR) | 3:48 |
 | 53 | [The Golden Rule](https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb) | [GroupMusic](https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF) | [Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol\. 7](https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV) | 2:58 |
 
-Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMDc4OGI1YWM4NTc5ZWUzMTliNmUyZDliMGQwNzJhYzQ1`
+Snapshot ID: `MTYyNDk3Mzc2MiwwMDAwMDAwMDFkMTkwMWM0N2JiZjViZTczMWU1Y2I3M2IzOWM5MzBk`

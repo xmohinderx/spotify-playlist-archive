@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Mula en portada.",
-  "num_followers": 28632,
+  "num_followers": 28653,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjc5NjU2NiwwMDAwMDAwMDU2ZDU3OGY2MmU2OWFjZmVlZWYxOTg1YmQ3ZDgwYzM2",
+  "snapshot_id": "MTY3Mjc5NjU2NiwwMDAwMDAwMDkzMTZlOWM4YjJkNTFmMDY1Y2I1OWMzYzdkYWVmMDZj",
   "tracks": [
     {
       "added_at": "2022-09-16 04:50:01",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/3b8WAuWj0MCKig7e5KV0YL"
     },
     {
-      "added_at": "2022-08-16 00:06:15",
-      "album": {
-        "name": "French Samba",
-        "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
-      },
-      "artists": [
-        {
-          "name": "ASHA",
-          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
-        }
-      ],
-      "duration_ms": 163181,
-      "name": "French Samba",
-      "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
-    },
-    {
       "added_at": "2022-08-19 02:11:47",
       "album": {
         "name": "Last Spa on Earth",
@@ -475,6 +459,22 @@
       "duration_ms": 185350,
       "name": "XO",
       "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+    },
+    {
+      "added_at": "2022-08-16 00:06:15",
+      "album": {
+        "name": "French Samba",
+        "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
+      },
+      "artists": [
+        {
+          "name": "ASHA",
+          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
+        }
+      ],
+      "duration_ms": 163181,
+      "name": "French Samba",
+      "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
     },
     {
       "added_at": "2022-04-20 18:21:19",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
     },
     {
-      "added_at": "2022-02-25 03:53:48",
-      "album": {
-        "name": "Canoas",
-        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Canoas",
-      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
-    },
-    {
       "added_at": "2022-07-25 03:37:28",
       "album": {
         "name": "Amuleto",
@@ -733,20 +717,20 @@
       "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
     },
     {
-      "added_at": "2022-09-02 05:18:03",
+      "added_at": "2022-02-25 03:53:48",
       "album": {
-        "name": "la noche de ayer",
-        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
+        "name": "Canoas",
+        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
       },
       "artists": [
         {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
         }
       ],
-      "duration_ms": 255591,
-      "name": "la noche de ayer",
-      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
+      "duration_ms": 297000,
+      "name": "Canoas",
+      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
     },
     {
       "added_at": "2022-09-07 01:11:32",
@@ -765,36 +749,20 @@
       "url": "https://open.spotify.com/track/3tz4X9gO0l6lOoh4ZvK7xg"
     },
     {
-      "added_at": "2022-10-27 22:16:41",
+      "added_at": "2022-09-02 05:18:03",
       "album": {
-        "name": "Se Ve Desde Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
+        "name": "la noche de ayer",
+        "url": "https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR"
       },
       "artists": [
         {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
         }
       ],
-      "duration_ms": 408057,
-      "name": "Desde el Cielo",
-      "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Sorpresa",
-        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 256947,
-      "name": "Todo el D\u00eda en la Cama",
-      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
+      "duration_ms": 255591,
+      "name": "la noche de ayer",
+      "url": "https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF"
     },
     {
       "added_at": "2022-09-26 21:49:32",
@@ -811,6 +779,22 @@
       "duration_ms": 203265,
       "name": "Ven Vamos",
       "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Sorpresa",
+        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 256947,
+      "name": "Todo el D\u00eda en la Cama",
+      "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
     },
     {
       "added_at": "2022-06-24 16:07:34",
@@ -833,20 +817,20 @@
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
     },
     {
-      "added_at": "2022-03-30 03:09:53",
+      "added_at": "2022-10-27 22:16:41",
       "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
+        "name": "Se Ve Desde Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
       },
       "artists": [
         {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
         }
       ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
+      "duration_ms": 408057,
+      "name": "Desde el Cielo",
+      "url": "https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU"
     },
     {
       "added_at": "2022-09-07 01:11:32",
@@ -883,6 +867,22 @@
       "duration_ms": 189778,
       "name": "El Sol",
       "url": "https://open.spotify.com/track/2irBYZdlYxseHEz850SoL9"
+    },
+    {
+      "added_at": "2022-03-30 03:09:53",
+      "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
     },
     {
       "added_at": "2022-08-12 14:23:28",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ"
     },
     {
-      "added_at": "2022-09-15 12:50:29",
-      "album": {
-        "name": "Visceras",
-        "url": "https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j"
-      },
-      "artists": [
-        {
-          "name": "Weste",
-          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
-        }
-      ],
-      "duration_ms": 101066,
-      "name": "Baile Infinito",
-      "url": "https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq"
-    },
-    {
       "added_at": "2022-01-14 01:12:21",
       "album": {
         "name": "Rainfalls",
@@ -1011,6 +995,22 @@
       "duration_ms": 216379,
       "name": "Rainfalls",
       "url": "https://open.spotify.com/track/0YiZ0jbQg32CnsNplsYQeN"
+    },
+    {
+      "added_at": "2022-09-15 12:50:29",
+      "album": {
+        "name": "Visceras",
+        "url": "https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j"
+      },
+      "artists": [
+        {
+          "name": "Weste",
+          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
+        }
+      ],
+      "duration_ms": 101066,
+      "name": "Baile Infinito",
+      "url": "https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq"
     },
     {
       "added_at": "2022-04-12 02:37:18",
@@ -1181,22 +1181,6 @@
       "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
-      "added_at": "2022-03-03 23:20:33",
-      "album": {
-        "name": "Collar de Perlas",
-        "url": "https://open.spotify.com/album/0OcjkwJ6Xr9KkhlL8lnoSM"
-      },
-      "artists": [
-        {
-          "name": "MONTESCO",
-          "url": "https://open.spotify.com/artist/2V3eQlSV1eYIQXWD1t9sWb"
-        }
-      ],
-      "duration_ms": 269544,
-      "name": "Collar de Perlas",
-      "url": "https://open.spotify.com/track/3RJ2wUsUieoXwsCGHBsPCl"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Qui\u00e9n Podr\u00e1 Saberlo",
@@ -1215,6 +1199,22 @@
       "duration_ms": 163426,
       "name": "Qui\u00e9n Podr\u00e1 Saberlo",
       "url": "https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW"
+    },
+    {
+      "added_at": "2022-03-03 23:20:33",
+      "album": {
+        "name": "Collar de Perlas",
+        "url": "https://open.spotify.com/album/0OcjkwJ6Xr9KkhlL8lnoSM"
+      },
+      "artists": [
+        {
+          "name": "MONTESCO",
+          "url": "https://open.spotify.com/artist/2V3eQlSV1eYIQXWD1t9sWb"
+        }
+      ],
+      "duration_ms": 269544,
+      "name": "Collar de Perlas",
+      "url": "https://open.spotify.com/track/3RJ2wUsUieoXwsCGHBsPCl"
     },
     {
       "added_at": "2022-09-30 04:06:25",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/2KwvFhXURAAxJZ9OSfjVxO"
     },
     {
-      "added_at": "2022-08-19 02:38:30",
-      "album": {
-        "name": "Errores en el extranjero",
-        "url": "https://open.spotify.com/album/2aUY4dvUBxp02PgzMMGyNK"
-      },
-      "artists": [
-        {
-          "name": "Ulises Hadjis",
-          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
-        }
-      ],
-      "duration_ms": 123900,
-      "name": "Mutilado",
-      "url": "https://open.spotify.com/track/2nnDYImuOuOoh0OSbAvDlH"
-    },
-    {
       "added_at": "2022-03-04 03:54:51",
       "album": {
         "name": "Mujer del Desierto",
@@ -1375,6 +1359,22 @@
       "duration_ms": 210372,
       "name": "Mujer del Desierto",
       "url": "https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms"
+    },
+    {
+      "added_at": "2022-08-19 02:38:30",
+      "album": {
+        "name": "Errores en el extranjero",
+        "url": "https://open.spotify.com/album/2aUY4dvUBxp02PgzMMGyNK"
+      },
+      "artists": [
+        {
+          "name": "Ulises Hadjis",
+          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
+        }
+      ],
+      "duration_ms": 123900,
+      "name": "Mutilado",
+      "url": "https://open.spotify.com/track/2nnDYImuOuOoh0OSbAvDlH"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1417,20 +1417,20 @@
       "url": "https://open.spotify.com/track/4g4E7aFHAWqI6qBeSHfZ4G"
     },
     {
-      "added_at": "2022-01-21 16:05:39",
+      "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "Plata y Coral",
-        "url": "https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP"
+        "name": "Coidar dunhas Colmeas",
+        "url": "https://open.spotify.com/album/0Qgn7S6eY37MTmfBSpq4oN"
       },
       "artists": [
         {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+          "name": "N\u00e9boa",
+          "url": "https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8"
         }
       ],
-      "duration_ms": 240491,
-      "name": "Plata y Coral",
-      "url": "https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR"
+      "duration_ms": 238069,
+      "name": "Coidar dunhas Colmeas",
+      "url": "https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf"
     },
     {
       "added_at": "2022-02-11 02:35:50",
@@ -1449,20 +1449,36 @@
       "url": "https://open.spotify.com/track/5Yp11ERdglGeV2akmFrhtU"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
+      "added_at": "2022-01-21 16:05:39",
       "album": {
-        "name": "Coidar dunhas Colmeas",
-        "url": "https://open.spotify.com/album/0Qgn7S6eY37MTmfBSpq4oN"
+        "name": "Plata y Coral",
+        "url": "https://open.spotify.com/album/1Pe9A9g7Ec1L0e7djWa9SP"
       },
       "artists": [
         {
-          "name": "N\u00e9boa",
-          "url": "https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8"
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
         }
       ],
-      "duration_ms": 238069,
-      "name": "Coidar dunhas Colmeas",
-      "url": "https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf"
+      "duration_ms": 240491,
+      "name": "Plata y Coral",
+      "url": "https://open.spotify.com/track/2Dp8xi4bBcOQK3FmvpWrNR"
+    },
+    {
+      "added_at": "2022-08-08 21:56:18",
+      "album": {
+        "name": "Marineros",
+        "url": "https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0"
+      },
+      "artists": [
+        {
+          "name": "Ulises Hadjis",
+          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
+        }
+      ],
+      "duration_ms": 128371,
+      "name": "Marineros",
+      "url": "https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA"
     },
     {
       "added_at": "2022-07-25 03:37:28",
@@ -1495,22 +1511,6 @@
       "duration_ms": 172402,
       "name": "Joyas",
       "url": "https://open.spotify.com/track/7HuyjEAR0uhAvzfDLpsOHO"
-    },
-    {
-      "added_at": "2022-08-08 21:56:18",
-      "album": {
-        "name": "Marineros",
-        "url": "https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0"
-      },
-      "artists": [
-        {
-          "name": "Ulises Hadjis",
-          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
-        }
-      ],
-      "duration_ms": 128371,
-      "name": "Marineros",
-      "url": "https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA"
     },
     {
       "added_at": "2021-10-05 16:26:53",

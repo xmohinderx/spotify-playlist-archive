@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-195 songs - 10 hr 41 min
+196 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Friend Zone](https://open.spotify.com/track/04trkiJDGMLe2c2Ghop3f2) | [Hugo Casaca](https://open.spotify.com/artist/0Y8q7atymYLh7p9k4qiYe1), [Soulwave](https://open.spotify.com/artist/7BmVNqv2Zb3bRjzb4qMAr8) | [Friend Zone](https://open.spotify.com/album/5msGs054ES4Jonpc7zHjnf) | 3:04 | 2022-09-29 | 2022-10-28 |
 | [Gasoline](https://open.spotify.com/track/3cIv1Ct9pCkygvsawr9hub) | [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Gasoline](https://open.spotify.com/album/2MBstB7AuikcLshNNTfqBh) | 3:36 | 2022-11-18 | 2023-01-06 |
 | [Going Now](https://open.spotify.com/track/5UV8AqgYXjTn1T9RFxXsm7) | [Fenzil Ferreira](https://open.spotify.com/artist/5CJIUlZZ22FVlDmaRzozSJ) | [Drama](https://open.spotify.com/album/6qInMSJMIQMkUNZkICKUDd) | 3:20 | 2022-10-06 | 2022-10-28 |
+| [Gravidade Zero](https://open.spotify.com/track/4CPBgtJlRGtq36zNoS4FnW) | [Domi](https://open.spotify.com/artist/7FaGlrXXBuq0XrlerWfI3n) | [Gravidade Zero](https://open.spotify.com/album/1VQeGBvu1rCtWl2pR1SuEc) | 3:04 | 2023-01-27 |  |
 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 | 2022-07-07 |  |
 | [Hoje É Hoje](https://open.spotify.com/track/09qXUaqRkgQ7xptGv6UVcF) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Hoje É Hoje](https://open.spotify.com/album/6VOHpuwtu4j9e8jttUwrOL) | 2:51 | 2023-01-27 |  |
 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 | 2022-07-07 | 2022-12-02 |
@@ -149,7 +150,7 @@
 | [Povo](https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Festival da Canção 2023](https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d) | 2:54 | 2023-01-27 |  |
 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 | 2022-07-07 |  |
 | [Pretty](https://open.spotify.com/track/1TsJalUMdjzsuWK844ycbd) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [Pretty](https://open.spotify.com/album/2ouErWVGuO47sxiOTbGl6p) | 2:40 | 2023-01-06 | 2023-01-21 |
-| [Put It On Me Ft Terry](https://open.spotify.com/track/5eaJlKd3KwuyelqbwdqSpY) | [Mestre](https://open.spotify.com/artist/3hNGSam0MYXklimc6rnr2V) | [Carácter](https://open.spotify.com/album/1ZhX4doL6a7c02JAXhoiS6) | 3:25 | 2023-01-20 |  |
+| [Put It On Me Ft Terry](https://open.spotify.com/track/5eaJlKd3KwuyelqbwdqSpY) | [Mestre](https://open.spotify.com/artist/3hNGSam0MYXklimc6rnr2V) | [Carácter](https://open.spotify.com/album/1ZhX4doL6a7c02JAXhoiS6) | 3:25 | 2023-01-20 | 2023-01-29 |
 | [Pára](https://open.spotify.com/track/3Fr3Wit7KWJaZKDhwIbilT) | [Druh](https://open.spotify.com/artist/2KsalFyKIYXlhYFEaJMh35) | [Pára](https://open.spotify.com/album/3W5LuzDGWcfDIB6GsoTDNq) | 2:56 | 2022-09-01 | 2022-09-23 |
 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 | 2023-01-20 |  |
 | [Rain](https://open.spotify.com/track/65GMCfqsrFRDSX7OWNoJeS) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Rain](https://open.spotify.com/album/1Pa6gereIqgxt2gsqw8mkr) | 3:42 | 2022-07-07 | 2022-09-17 |

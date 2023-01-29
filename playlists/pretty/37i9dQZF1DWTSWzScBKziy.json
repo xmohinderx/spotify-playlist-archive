@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 83464,
+  "num_followers": 83469,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzAyNzg1OCwwMDAwMDAwMGRlOTg5MmNkYzBlNmMzODJmZjk5ZjI3YmQ0MTUxNzA3",
+  "snapshot_id": "MTY2NzAyNzg1OCwwMDAwMDAwMDBkM2RjZTA1MDdlY2E3YTk3NGM4NjliZjM5ZTVhOWFl",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -119,6 +119,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Thank God For Sunday Morning",
+        "url": "https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 208801,
+      "name": "Thank God For Sunday Morning",
+      "url": "https://open.spotify.com/track/3P0ym6s1b2FCLC32C2uahw"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Arms of Jesus",
         "url": "https://open.spotify.com/album/1OcJ1cepVZ0UPbqCeLxKPc"
       },
@@ -163,22 +179,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Thank God For Sunday Morning",
-        "url": "https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 208801,
-      "name": "Thank God For Sunday Morning",
-      "url": "https://open.spotify.com/track/3P0ym6s1b2FCLC32C2uahw"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Steady Light",
         "url": "https://open.spotify.com/album/6mdjxXqWp8CeDmEs5q26pG"
       },
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "You Got Me",
-        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 172327,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Ain't Nobody",
         "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 213967,
       "name": "Ain't Nobody - Radio Version",
       "url": "https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 172327,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Take It To Jesus",
-        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 268288,
-      "name": "Take It To Jesus",
-      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "I Speak Jesus",
         "url": "https://open.spotify.com/album/1lsIg61cq8FAgmkY1tPgDo"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 233301,
       "name": "I Speak Jesus",
       "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Take It To Jesus",
+        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 268288,
+      "name": "Take It To Jesus",
+      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "But the Cross",
-      "url": "https://open.spotify.com/track/0NaNbWaGY87JEfdgB3bf1B"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "A Thousand Shores",
         "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 255586,
       "name": "A Thousand Shores",
       "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "But the Cross",
+      "url": "https://open.spotify.com/track/0NaNbWaGY87JEfdgB3bf1B"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -635,26 +635,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "The Healing",
-        "url": "https://open.spotify.com/album/2rp4zkcLtJfaet6Yhc6YpZ"
-      },
-      "artists": [
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 229252,
-      "name": "The Healing",
-      "url": "https://open.spotify.com/track/2At0XB6Jq68CBQLKvdRP6m"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Rest On Us",
         "url": "https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 235640,
       "name": "If The Lord Builds The House",
       "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "The Healing",
+        "url": "https://open.spotify.com/album/2rp4zkcLtJfaet6Yhc6YpZ"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 229252,
+      "name": "The Healing",
+      "url": "https://open.spotify.com/track/2At0XB6Jq68CBQLKvdRP6m"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/0xzWZ4k69mRjyEj2pKn8SP"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "duration_ms": 251185,
+      "name": "First Things First",
+      "url": "https://open.spotify.com/track/5uqOxamVliO1VCpoOLKDFV"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "The Lord's Prayer (It's Yours)",
         "url": "https://open.spotify.com/album/2p61gKnDqDezHXQZC92oU5"
       },
@@ -735,6 +751,22 @@
       "duration_ms": 203266,
       "name": "The Lord's Prayer (It's Yours)",
       "url": "https://open.spotify.com/track/4x2z65CsWpM2Kuxt2RQ8rj"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "TAYA",
+        "url": "https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "For All My Life",
+      "url": "https://open.spotify.com/track/49gozhH6p55OJaH6s1zk2c"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -755,22 +787,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "First Things First",
-        "url": "https://open.spotify.com/album/0xzWZ4k69mRjyEj2pKn8SP"
-      },
-      "artists": [
-        {
-          "name": "Consumed By Fire",
-          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
-        }
-      ],
-      "duration_ms": 251185,
-      "name": "First Things First",
-      "url": "https://open.spotify.com/track/5uqOxamVliO1VCpoOLKDFV"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Fight On My Knees",
         "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 188499,
       "name": "Fight On My Knees",
       "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "TAYA",
-        "url": "https://open.spotify.com/album/3FjFpcFhXwYnwEVCovpmCF"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "For All My Life",
-      "url": "https://open.spotify.com/track/49gozhH6p55OJaH6s1zk2c"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -919,18 +919,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "HOLY GHOST",
-        "url": "https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA"
+        "name": "MILLION WAYS",
+        "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
       },
       "artists": [
         {
-          "name": "KJ Scriven",
-          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        },
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
         }
       ],
-      "duration_ms": 290237,
-      "name": "HOLY GHOST",
-      "url": "https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R"
+      "duration_ms": 210933,
+      "name": "MILLION WAYS",
+      "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -951,22 +955,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "MILLION WAYS",
-        "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
+        "name": "HOLY GHOST",
+        "url": "https://open.spotify.com/album/6X1a5xhT0pFr2W7Q8q8HdA"
       },
       "artists": [
         {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        },
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
         }
       ],
-      "duration_ms": 210933,
-      "name": "MILLION WAYS",
-      "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
+      "duration_ms": 290237,
+      "name": "HOLY GHOST",
+      "url": "https://open.spotify.com/track/4dpdRKI74fRMCxFT1Vni5R"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
-      },
-      "artists": [
-        {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
-        }
-      ],
-      "duration_ms": 240357,
-      "name": "Waking Up",
-      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 184000,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        }
+      ],
+      "duration_ms": 240357,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "The Great Awakening",
+        "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 210118,
+      "name": "The Great Awakening",
+      "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "In You",
         "url": "https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 212253,
       "name": "Show Up Choose Love (feat. Jon Reddick)",
       "url": "https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "The Great Awakening",
-        "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        },
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 210118,
-      "name": "The Great Awakening",
-      "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "This House",
         "url": "https://open.spotify.com/album/4VZQEB5rYcIoXFySWRXjoN"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
+        "name": "We Come Alive",
+        "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
       },
       "artists": [
         {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
         }
       ],
-      "duration_ms": 222693,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
+      "duration_ms": 238757,
+      "name": "We Come Alive",
+      "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 209194,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "S.O.S.",
         "url": "https://open.spotify.com/album/67ckMFbzbW9Xi9corJwScp"
       },
@@ -1427,18 +1427,34 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "We Come Alive",
-        "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
       },
       "artists": [
         {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
         }
       ],
-      "duration_ms": 238757,
-      "name": "We Come Alive",
-      "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
+      "duration_ms": 209194,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Love Won\u2019t Let Go",
+        "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "duration_ms": 198379,
+      "name": "Love Won\u2019t Let Go",
+      "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1463,54 +1479,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "On And On",
-        "url": "https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO"
-      },
-      "artists": [
-        {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
-        }
-      ],
-      "duration_ms": 206576,
-      "name": "On And On - Radio",
-      "url": "https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "No Hurt",
-        "url": "https://open.spotify.com/album/0Hbl3j7AuG0kQeHsM6GT7T"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "No Hurt",
-      "url": "https://open.spotify.com/track/4JoRciZN3rt1yl5akIAkrx"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Love Won\u2019t Let Go",
-        "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
-      },
-      "artists": [
-        {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
-        }
-      ],
-      "duration_ms": 198379,
-      "name": "Love Won\u2019t Let Go",
-      "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "By Faith",
         "url": "https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP"
       },
@@ -1523,6 +1491,22 @@
       "duration_ms": 201639,
       "name": "By Faith",
       "url": "https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "duration_ms": 206576,
+      "name": "On And On - Radio",
+      "url": "https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "No Hurt",
+        "url": "https://open.spotify.com/album/0Hbl3j7AuG0kQeHsM6GT7T"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "No Hurt",
+      "url": "https://open.spotify.com/track/4JoRciZN3rt1yl5akIAkrx"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Live Out Loud",
         "url": "https://open.spotify.com/album/28kdMr7VSh8tS0Qf2TsUJT"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 203507,
       "name": "Live Out Loud",
       "url": "https://open.spotify.com/track/1ZGXXhZFcCqJ8JyQn7QKwc"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Jordan St. Cyr",
+        "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
-      },
-      "artists": [
-        {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
-        }
-      ],
-      "duration_ms": 252520,
-      "name": "Love Over Religion",
-      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Free At Last",
         "url": "https://open.spotify.com/album/2IBcv1U7JHj4stGwDTInUG"
       },
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Jordan St. Cyr",
-        "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
+        "name": "River",
+        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
       },
       "artists": [
         {
-          "name": "Jordan St. Cyr",
-          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+          "name": "Dara Maclean",
+          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
         }
       ],
-      "duration_ms": 188426,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/0OV98BulGkPOoLuO6ADWit"
+      "duration_ms": 252520,
+      "name": "Love Over Religion",
+      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Long Way Home (From The Motion Picture \u201cFather Stu\u201d)",
-        "url": "https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi"
+        "name": "More Than Ever",
+        "url": "https://open.spotify.com/album/68OLHztu1jW6VilxvWZEtf"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "After Grace",
+          "url": "https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Long Way Home - From The Motion Picture \u201cFather Stu\u201d",
-      "url": "https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh"
+      "duration_ms": 194935,
+      "name": "More Than Ever",
+      "url": "https://open.spotify.com/track/00cHdJO9E4TvmJBeuJq0pr"
     },
     {
       "added_at": "2022-10-29 07:17:38",

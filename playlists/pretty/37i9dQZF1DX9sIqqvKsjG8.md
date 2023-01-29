@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Focus with soft study music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,694,751 likes - 302 songs - 12 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,695,742 likes - 302 songs - 12 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

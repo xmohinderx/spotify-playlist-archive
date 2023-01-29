@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 
 > Underground dance and alternative that went on to define a new millennium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,569 likes - 88 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,691 likes - 88 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 30 | [Midnight In A Perfect World](https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 4:58 |
 | 31 | [Hell Is Round The Corner](https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:47 |
 | 32 | [I Might Be Wrong](https://open.spotify.com/track/5JZ1jTanqLWVuThmZ6XRAc) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Amnesiac](https://open.spotify.com/album/1HrMmB5useeZ0F5lHrMvl0) | 4:53 |
-| 33 | [Stop the Rock \- Apollo 440 Mix](https://open.spotify.com/track/37jrubWAb4F9TY2GgSRG56) | [Apollo 440](https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7) | [Gettin' High On Your Own Supply](https://open.spotify.com/album/0OiWmi1Jt8URgnt8SS4YtP) | 3:32 |
-| 34 | [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Red Alert](https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS) | 3:38 |
+| 33 | [Red Alert \- Jaxx Radio Mix](https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Red Alert](https://open.spotify.com/album/60O0wPhfgkZGGKTJho6bHS) | 3:38 |
+| 34 | [Stop the Rock \- Apollo 440 Mix](https://open.spotify.com/track/37jrubWAb4F9TY2GgSRG56) | [Apollo 440](https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7) | [Gettin' High On Your Own Supply](https://open.spotify.com/album/0OiWmi1Jt8URgnt8SS4YtP) | 3:32 |
 | 35 | [Army of Me](https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 |
 | 36 | [Windowlicker](https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Windowlicker](https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A) | 6:08 |
 | 37 | [Frontier Psychiatrist](https://open.spotify.com/track/3mPJHVpCvzykoxmWnYdnFq) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Since I Left You \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO) | 4:47 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 51 | [Somersault](https://open.spotify.com/track/6CgIaRVXNmpUgeVuHmA4a2) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [When It Falls](https://open.spotify.com/album/2pTVmzJ3y3H2TI9dDQMvl7) | 6:56 |
 | 52 | [Flat Beat](https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Flat Beat](https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ) | 5:25 |
 | 53 | [Supermoves](https://open.spotify.com/track/1HeCBrZd0A2ub1E8aeZJie) | [Overseer](https://open.spotify.com/artist/3V4c44pHzC8apm8HiiFF6V) | [Wreckage](https://open.spotify.com/album/6niSmIWp5Pgl3pyMndWSKx) | 4:47 |
-| 54 | [Black Steel](https://open.spotify.com/track/52QqxUwMHSmeDZlZBABefY) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 5:39 |
+| 54 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 |
 | 55 | [Busy Child](https://open.spotify.com/track/43F49A8ReVXhH7l0jGMViS) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj) | [Vegas](https://open.spotify.com/album/1PJxfEx1v3rdvmd4mBwPDt) | 7:25 |
-| 56 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 |
+| 56 | [Black Steel](https://open.spotify.com/track/52QqxUwMHSmeDZlZBABefY) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye](https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8) | 5:39 |
 | 57 | [Open Up \- Remastered](https://open.spotify.com/track/4rNidGxbfF294K7RzRNIRo) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 6:51 |
 | 58 | [Push It](https://open.spotify.com/track/6fVnRxwxVL7RavAGTVrNxW) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Version 2.0 \(20th Anniversary Deluxe Edition / Remastered\)](https://open.spotify.com/album/3poVlFX7lPm5Q7XKsOGEwk) | 4:02 |
 | 59 | [Leave You Far Behind](https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G) | [Lunatic Calm](https://open.spotify.com/artist/4Fh6eC8hJz13eXsboxXlcX) | [Metropol](https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n) | 3:12 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 65 | [Makes Me Wanna Die](https://open.spotify.com/track/385DxV3uLG88GaCUsyCyrX) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Pre Millennium Tension](https://open.spotify.com/album/540zw9ShTu9bsY984xS3Hu) | 4:01 |
 | 66 | [The Box \- Part 2](https://open.spotify.com/track/1kV6GsEtVGmPehcGpmYtnr) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 5:59 |
 | 67 | [Voodoo People](https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:27 |
-| 68 | [Pacific 707](https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [808:88:98](https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3) | 3:53 |
-| 69 | [I Adore You](https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Ulterior Motive](https://open.spotify.com/artist/711RACYACplatReI4JGaoa), [Natalie Williams](https://open.spotify.com/artist/6MZnLVb7yS0r1C3CejYIFF) | [The Journey Man](https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt) | 6:06 |
+| 68 | [I Adore You](https://open.spotify.com/track/3m8ERzbjadbhyYjfMb5rDX) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Ulterior Motive](https://open.spotify.com/artist/711RACYACplatReI4JGaoa), [Natalie Williams](https://open.spotify.com/artist/6MZnLVb7yS0r1C3CejYIFF) | [The Journey Man](https://open.spotify.com/album/3Dnjpajk4EWNDi6o62Jgdt) | 6:06 |
+| 69 | [Pacific 707](https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [808:88:98](https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3) | 3:53 |
 | 70 | [My Kingdom](https://open.spotify.com/track/7mB5AgvBYc6QasgzTxrugB) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Dead Cities](https://open.spotify.com/album/2xHvAxrgMfKrYIicQVT9ay) | 5:47 |
 | 71 | [Children](https://open.spotify.com/track/1mwHP1SM96OCfO7pgahMS2) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [90 Discomania](https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m) | 7:33 |
 | 72 | [Toxygene \- 7" Edit](https://open.spotify.com/track/3OBcUfsknT6UgaqOfh5S3a) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Off: The Best Of The Orb](https://open.spotify.com/album/6VRqDW5Y4WmF9d0ZplJGLp) | 3:31 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T3AaSrgy9r.md) - [plain]
 | 87 | [Weapon Of Choice](https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Halfway Between The Gutter And The Stars](https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst) | 5:45 |
 | 88 | [Snapshot](https://open.spotify.com/track/4iUEAUm9GfwOH1RHMHZEBA) | [Fluke](https://open.spotify.com/artist/2YzUXecwzcOdlJsnpnJfkJ) | [Puppy](https://open.spotify.com/album/3jMDKHg32dmMYGaDtlWu4C) | 4:09 |
 
-Snapshot ID: `MTY1MDkxNjc2OCwwMDAwMDAwMDM5NzYyM2JkMjNkMjkxNTMzY2E2ZWI2YTgxZDMwNGZj`
+Snapshot ID: `MTY1MDkxNjc2OCwwMDAwMDAwMGYyMzQ1ZWEyYWViMmM0N2ZlNjNhNWJhZmVhYzI4MDEy`

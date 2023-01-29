@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-129 songs - 10 hr 9 min
+130 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-05 | 2022-10-21 |
 | [Nocturnal](https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN) | [Fiona Brice](https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT) | [And You Know I Care](https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ) | 4:49 | 2022-12-02 |  |
 | [O Ignee Spriritus](https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:26 | 2022-05-18 |  |
-| [Ocean](https://open.spotify.com/track/6ZacLLHoOCwFun1fTXrQFG) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:28 | 2022-12-02 |  |
+| [Ocean](https://open.spotify.com/track/6ZacLLHoOCwFun1fTXrQFG) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:28 | 2022-12-02 | 2023-01-29 |
 | [Ode to the blue](https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ode to the blue](https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO) | 2:53 | 2022-05-18 |  |
 | [Olga](https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:02 | 2022-09-30 |  |
 | [One to One](https://open.spotify.com/track/4HGyb3pZlHt5qtB28Pk8Vp) | [Nebno](https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf) | [One to One](https://open.spotify.com/album/09UXJzKi4utZsEQe3n3xtV) | 4:36 | 2022-05-18 | 2022-07-29 |
@@ -113,6 +113,7 @@
 | [Saturna](https://open.spotify.com/track/4zKKXMzX0OXWfRSOe0XYas) | [Nordic Hymn](https://open.spotify.com/artist/7qgNtkVMTgJ9I6flWEZgYV) | [Saturna](https://open.spotify.com/album/5yBVwdZJXD35QMLqEZLhWw) | 2:06 | 2022-05-18 |  |
 | [Shimmer in the Sky \- Yoko Komatsu Rework](https://open.spotify.com/track/7svmNfhslMWoTwwR7VGgPY) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Shimmer in the Sky \(Yoko Komatsu Rework\)](https://open.spotify.com/album/7JvpFn4ryPxuNo8HSgKHqw) | 2:36 | 2022-12-30 |  |
 | [Silent Talk](https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 4:55 | 2022-09-07 |  |
+| [Solari](https://open.spotify.com/track/7uR2Mb4MPuPFN6jQ58RChn) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1), [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O) | [Solari](https://open.spotify.com/album/16K2TOPALbZceZTYWUV2bu) | 2:45 | 2023-01-29 |  |
 | [Sorry](https://open.spotify.com/track/1VOsiZYiNHAUisapZtXpKh) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Weapons](https://open.spotify.com/album/4ltdtRBUlN4xym6T6Isnng) | 17:40 | 2022-05-18 | 2022-07-28 |
 | [Sorry](https://open.spotify.com/track/70wiCLAuAs2yjRQHkPuMN7) | [Apollo Noir](https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND) | [Weapons](https://open.spotify.com/album/3jwdZ5aqNto6V6XY2ob6Vv) | 17:40 | 2022-12-02 | 2023-01-21 |
 | [Spell V: Like Honey in a Hidden Cave](https://open.spotify.com/track/5JiFKhr3UWiSHvHPci8kgZ) | [Jolanda Moletta](https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1) | [Spell V: Like Honey in a Hidden Cave](https://open.spotify.com/album/622E7ReGxO1WJc6lju3oLJ) | 2:51 | 2022-05-18 | 2022-07-29 |

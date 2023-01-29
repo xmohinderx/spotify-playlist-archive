@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,786 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,819 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 11 | [Hondo \(Remix\)](https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [issuesonissues](https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0) | [Hondo \(Remix\)](https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn) | 5:21 |
 | 12 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 |
 | 13 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
-| 14 | [Right to Riot](https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt) | [Hagop Tchaparian](https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW) | [Right to Riot](https://open.spotify.com/album/6ao74P19GgK7yXjUZvAbbT) | 5:00 |
-| 15 | [Transactional Relationship](https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Transactional Relationship](https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK) | 3:13 |
+| 14 | [Transactional Relationship](https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Transactional Relationship](https://open.spotify.com/album/0007jLfYrERL4X1mpSgLGK) | 3:13 |
+| 15 | [Right to Riot](https://open.spotify.com/track/6mzZYX7LFxJXoiSZHtksEt) | [Hagop Tchaparian](https://open.spotify.com/artist/14hI6ZlrKB6X81Y046P2MW) | [Right to Riot](https://open.spotify.com/album/6ao74P19GgK7yXjUZvAbbT) | 5:00 |
 | 16 | [Day By Day](https://open.spotify.com/track/3tpqnJwdfTJJycsLHwUbtC) | [Stack Effect](https://open.spotify.com/artist/52xTPDMfTQEHXnBfyKQXFz) | [Pause](https://open.spotify.com/album/2hspcikJXpHWS7xeaKwvgf) | 4:49 |
 | 17 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |
 | 18 | [Warm Fuzzies: The Glory](https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA) | 3:26 |
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 26 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
 | 27 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
 | 28 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 |
-| 29 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 |
-| 30 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
+| 29 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
+| 30 | [Jump & Shuffle \- Live at the Hardware Store](https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Jump & Shuffle \(Live at the Hardware Store\)](https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb) | 3:22 |
 | 31 | [Surrounded By Neighbours](https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [GRIT.](https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB) | 5:31 |
 | 32 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 |
 | 33 | [uja end](https://open.spotify.com/track/0keT02CFNOmvH95UmhBMef) | [lynyn](https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8) | [lexicon](https://open.spotify.com/album/3cDhDjibmMoTD4n6n1E7l9) | 4:53 |
 | 34 | [Shallots](https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da) | [Frequent](https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc) | [Shallots](https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw) | 3:41 |
 | 35 | [Closer \- Daniel Avery Edit](https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G) | 4:06 |
-| 36 | [Static Doesn't Exist \- Kode9 Remix](https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z), [Kode9](https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll) | [The Vaulting Sky](https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje) | 5:33 |
-| 37 | [Trains & Airports](https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sofia Kourtesis](https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY) | 6:38 |
+| 36 | [Trains & Airports](https://open.spotify.com/track/4nLYuqQrjVZu6zVNqmsTfI) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sofia Kourtesis](https://open.spotify.com/album/6xgwDjQ5Z1oXMVQIoRMnqY) | 6:38 |
+| 37 | [Static Doesn't Exist \- Kode9 Remix](https://open.spotify.com/track/4FYk5LHj60CiV5TmPDbA5I) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z), [Kode9](https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll) | [The Vaulting Sky](https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje) | 5:33 |
 | 38 | [Head Above The Parakeets](https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC) | 7:16 |
 | 39 | [So](https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [So](https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS) | 4:39 |
 | 40 | [Diamond Beach](https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Paranormal Phenomena – The Icelandic Expedition](https://open.spotify.com/album/7of3FJV3PXkHQ1bWyiFqup) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 |
 | 50 | [ITSAME \[group hugg\]](https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [ITSAME](https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx) | 7:41 |
 
-Snapshot ID: `MTY3NDU5Mjk2MiwwMDAwMDAwMGE0YjI0ZTM1YjYwMzNlMzQxYzdkNzVmNGE1NzQ5NDAy`
+Snapshot ID: `MTY3NDU5Mjk2MiwwMDAwMDAwMDEzM2M0ZjRiYzAyZTYwMjk2NjcwODE2N2M2YzE4ZGUw`

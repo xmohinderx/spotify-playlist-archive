@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-202 songs - 16 hr 23 min
+203 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Recíbeme \- Remasterizado](https://open.spotify.com/track/4C45aXbMc6BSDuPALVI85q) | [Juan Formell](https://open.spotify.com/artist/38gBx8oVL6C3AuLTz9ml27), [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [La Maquinaria \(Remasterizado\)](https://open.spotify.com/album/5vc2rHyDKpppqqhzcDWv3R) | 6:09 | 2020-08-25 | 2022-06-17 |
 | [Regalito de Dios](https://open.spotify.com/track/5nH7F3gTB1gy1wFAXMtbOw) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [La Vuelta al Mundo](https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG) | 4:46 | 2020-08-25 | 2022-07-28 |
 | [Represent](https://open.spotify.com/track/1ZYq2RVDEht5fuLUomK03I) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/3zXdL8n7OMWKY156NgUZ4m) | 3:46 | 2020-08-25 | 2022-07-29 |
-| [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 | 2020-08-25 |  |
+| [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 | 2020-08-25 | 2023-01-29 |
 | [Rosa la Peligrosa](https://open.spotify.com/track/0hpDDynkRmnH6BeW2IuLCE) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Havana D’Primera](https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA) | [Me Dicen Cuba / Rosa la Peligrosa](https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN) | 5:58 | 2020-08-25 | 2022-07-16 |
 | [Se Acabaron los Guapos en la Habana](https://open.spotify.com/track/5txaxw6xYhvpz5IAVHGMDi) | [Lazarito Valdés](https://open.spotify.com/artist/1yft8LK8eazl4knHB4zi0s), [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [Caramelo Con Picante](https://open.spotify.com/album/2obdmB6edFmMSm6whJR6m1) | 5:05 | 2020-08-25 | 2022-06-10 |
 | [Si Te Descuidas](https://open.spotify.com/track/4DWVZPTIoJ4unA04fqxm28) | [Giraldo Piloto y Klímax](https://open.spotify.com/artist/33WgNRXej4nmjEnbGw9deR) | [I Dance Cuban Salsa 2014 \(Salsa y Timba Hits\)](https://open.spotify.com/album/5XqLtc36FdyDQWzjSzV45b) | 5:33 | 2020-08-25 | 2022-05-30 |
@@ -181,6 +181,7 @@
 | [Tonada Pal Bailador](https://open.spotify.com/track/0AZk5iUJrpozqyVKyxejix) | [Azucar Negra](https://open.spotify.com/artist/25fIn1Kj77hmqAwyRgXP9s), [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu) | [Tonada Pa'l Bailador](https://open.spotify.com/album/0pQqjwVydinHEqOW4fInn1) | 4:01 | 2020-08-25 | 2022-05-31 |
 | [Traidora \(feat\. Marc Anthony\) \- Salsa Version](https://open.spotify.com/track/3qbUO72lmJkJnX5Fq2rwRQ) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Traidora \(feat\. Marc Anthony\) \[Salsa Version\]](https://open.spotify.com/album/04cPbP031sh5Gjsy24Llz4) | 3:59 | 2020-08-25 | 2022-07-23 |
 | [Traidora \(feat\. Marc Anthony\) \- Salsa Version](https://open.spotify.com/track/3jSCiNXdUOUdpmfG01evw9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 4:00 | 2020-08-25 |  |
+| [Tren Bala](https://open.spotify.com/track/6RQ6XY9KxNov9Wl4m6KvNa) | [Barbaro Fines Fortes](https://open.spotify.com/artist/5dy82Vo7ZLBvDh0ou5PMl4) | [De La Habana a Perú](https://open.spotify.com/album/2z5F4LxY2rvzGt08SYtcz0) | 5:30 | 2022-12-30 |  |
 | [Tu Me Recordarás](https://open.spotify.com/track/1FWsQmSjs8www0PjwXDb2f) | [Manolito y Su Trabuco](https://open.spotify.com/artist/2UKgoW1uMnooKQtjLjnAWW) | [Marcando la Distancia \(La Nueva Generación de la musica Cubana\)](https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo) | 6:32 | 2020-08-25 |  |
 | [Tu Papi Soy Yo](https://open.spotify.com/track/1r5RcPz2VeZU54zo6wpUCL) | [Manana Club y Papucho](https://open.spotify.com/artist/4t2sviMc0Odp6WNgKg1icD) | [Mi Manana](https://open.spotify.com/album/44RPF43C1utCGmPBkLO7YO) | 4:55 | 2020-08-25 | 2022-05-29 |
 | [Tu Silueta](https://open.spotify.com/track/0C7lZ9CYEJ524uD0xJQmex) | [El Niño y la Verdad](https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n) | [Más Duro](https://open.spotify.com/album/3zR9fk3CXln9qMLVMrJyK6) | 4:24 | 2020-08-25 | 2022-07-24 |

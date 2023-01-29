@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,739 likes - 49 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,742 likes - 49 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can't Be Saved](https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:07 |
 | 2 | [Buried a Lie](https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:59 |
 | 3 | [Calling All Cars](https://open.spotify.com/track/6fgsRsszz3omU60YckE5ah) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 3:23 |
-| 4 | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn) | 3:04 |
+| 4 | [M1SERY\_SYNDROME \(FEAT\. BUDDY NIELSEN\)](https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn) | 3:04 |
 | 5 | [Weight of the World](https://open.spotify.com/track/1psooo00FPOftSv5NaY6fL) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Weight of the World](https://open.spotify.com/album/7B2HLlPLG4sF7VbGRBMUdr) | 3:12 |
 | 6 | [Bite to Break Skin](https://open.spotify.com/track/2cHu9HRqxVlS7MGSSb29Yh) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 3:31 |
 | 7 | [Family Tradition](https://open.spotify.com/track/5mxiTlRu4E6hqZO3ytsQdl) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:34 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 48 | [Lush Rimbaugh](https://open.spotify.com/track/3M3e3C2iMMFV6hn9r1VYuL) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Lush Rimbaugh](https://open.spotify.com/album/2BvxQyy7BGWLErMN3KuXeY) | 3:26 |
 | 49 | [Lifeboats](https://open.spotify.com/track/2Ni3cDRGxDysPNq6DQypAM) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:32 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDBhZWRiZWNkMzE5MTFhMmRkOGU0MGMwOWU1ZjVmY2U5Zg==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDBhNjE2OTA0Y2U1YzIyYjU2MjBhODYwZWIyZDE0MjFiMQ==`

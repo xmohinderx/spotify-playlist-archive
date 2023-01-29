@@ -1,12 +1,12 @@
 {
   "description": "MD Chefe, BIN e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 178538,
+  "num_followers": 178674,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0NDI2NiwwMDAwMDAwMDA3MmVkYzc5NmViMjJlOWQ5YzI4ZTBiNzIwN2EwMTgy",
+  "snapshot_id": "MTY3NDg0NDI2NiwwMDAwMDAwMDAzZmQ1NDViMWVlMWU0OGIyMGY0NTY2ZGU4ZmIyMmIz",
   "tracks": [
     {
       "added_at": "2023-01-23 14:21:16",
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V"
     },
     {
-      "added_at": "2023-01-28 01:33:36",
+      "added_at": "2023-01-29 01:36:56",
       "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
@@ -311,6 +311,42 @@
     {
       "added_at": "2023-01-23 14:21:16",
       "album": {
+        "name": "Dos Pr\u00e9dios",
+        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nick Nash",
+          "url": "https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN"
+        },
+        {
+          "name": "Wylo",
+          "url": "https://open.spotify.com/artist/56l3zYVU89SjFJXyoOdsBg"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "duration_ms": 210545,
+      "name": "Vida Chique",
+      "url": "https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li"
+    },
+    {
+      "added_at": "2023-01-23 14:21:16",
+      "album": {
         "name": "Licor 43",
         "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
       },
@@ -331,42 +367,6 @@
       "duration_ms": 142470,
       "name": "Licor 43",
       "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
-    },
-    {
-      "added_at": "2023-01-23 14:21:16",
-      "album": {
-        "name": "Dos Pr\u00e9dios",
-        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Nick Nash",
-          "url": "https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN"
-        },
-        {
-          "name": "Wylo",
-          "url": "https://open.spotify.com/artist/56l3zYVU89SjFJXyoOdsBg"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        }
-      ],
-      "duration_ms": 210545,
-      "name": "Vida Chique",
-      "url": "https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li"
     },
     {
       "added_at": "2023-01-23 14:21:16",
@@ -543,34 +543,6 @@
     {
       "added_at": "2023-01-23 14:21:16",
       "album": {
-        "name": "Dos Pr\u00e9dios",
-        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Perdoa Por Tudo Vida",
-      "url": "https://open.spotify.com/track/7zKqmAHGY8zm2UA4wT5ant"
-    },
-    {
-      "added_at": "2023-01-23 14:21:16",
-      "album": {
         "name": "Vestido da Fendi",
         "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
       },
@@ -583,6 +555,34 @@
       "duration_ms": 164203,
       "name": "Vestido da Fendi",
       "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
+    },
+    {
+      "added_at": "2023-01-23 14:21:16",
+      "album": {
+        "name": "Dos Pr\u00e9dios",
+        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Perdoa Por Tudo Vida",
+      "url": "https://open.spotify.com/track/7zKqmAHGY8zm2UA4wT5ant"
     },
     {
       "added_at": "2023-01-23 14:21:16",
@@ -683,6 +683,38 @@
     {
       "added_at": "2023-01-23 14:21:16",
       "album": {
+        "name": "Vit\u00f3ria Dobrada",
+        "url": "https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Mozin",
+          "url": "https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Vit\u00f3ria Dobrada",
+      "url": "https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL"
+    },
+    {
+      "added_at": "2023-01-23 14:21:16",
+      "album": {
         "name": "Bokaloka",
         "url": "https://open.spotify.com/album/780KNfna6zGXAd46qZZmoS"
       },
@@ -731,34 +763,38 @@
     {
       "added_at": "2023-01-23 14:21:16",
       "album": {
-        "name": "Vit\u00f3ria Dobrada",
-        "url": "https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f"
+        "name": "Dos Pr\u00e9dios",
+        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
       },
       "artists": [
         {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "Blest Jones",
+          "url": "https://open.spotify.com/artist/58zckWmoqAOoqPtZggJ9OZ"
         },
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "UNKWN",
+          "url": "https://open.spotify.com/artist/1hKoauICyrx7JojasOI1EU"
         },
         {
-          "name": "Mozin",
-          "url": "https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6"
+          "name": "Scotz",
+          "url": "https://open.spotify.com/artist/2rb4yUz7taAlwIu5hobMv4"
         },
         {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Vit\u00f3ria Dobrada",
-      "url": "https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL"
+      "duration_ms": 179439,
+      "name": "Meio P\u00e1",
+      "url": "https://open.spotify.com/track/7qDX7v5im9GW4Mf5WJu6y3"
     },
     {
       "added_at": "2023-01-23 14:21:16",
@@ -799,66 +835,6 @@
     {
       "added_at": "2023-01-23 14:21:16",
       "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/50GSItNqYJip64TPybq3A4"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL"
-    },
-    {
-      "added_at": "2023-01-23 14:21:16",
-      "album": {
-        "name": "Dos Pr\u00e9dios",
-        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Blest Jones",
-          "url": "https://open.spotify.com/artist/58zckWmoqAOoqPtZggJ9OZ"
-        },
-        {
-          "name": "UNKWN",
-          "url": "https://open.spotify.com/artist/1hKoauICyrx7JojasOI1EU"
-        },
-        {
-          "name": "Scotz",
-          "url": "https://open.spotify.com/artist/2rb4yUz7taAlwIu5hobMv4"
-        }
-      ],
-      "duration_ms": 179439,
-      "name": "Meio P\u00e1",
-      "url": "https://open.spotify.com/track/7qDX7v5im9GW4Mf5WJu6y3"
-    },
-    {
-      "added_at": "2023-01-23 14:21:16",
-      "album": {
         "name": "Vida Cara",
         "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
@@ -891,6 +867,30 @@
     {
       "added_at": "2023-01-23 14:21:16",
       "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/50GSItNqYJip64TPybq3A4"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL"
+    },
+    {
+      "added_at": "2023-01-23 14:21:16",
+      "album": {
         "name": "Contagem",
         "url": "https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA"
       },
@@ -915,6 +915,34 @@
       "duration_ms": 209032,
       "name": "Contagem",
       "url": "https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH"
+    },
+    {
+      "added_at": "2023-01-23 14:21:16",
+      "album": {
+        "name": "Movimento - Spotify Singles",
+        "url": "https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 158076,
+      "name": "Movimento - Spotify Singles",
+      "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
     },
     {
       "added_at": "2023-01-23 14:21:16",
@@ -1031,6 +1059,62 @@
     {
       "added_at": "2023-01-23 14:21:16",
       "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 179488,
+      "name": "Lugar na mesa",
+      "url": "https://open.spotify.com/track/3CwSGsw1rxv3WsUI3X95ch"
+    },
+    {
+      "added_at": "2023-01-23 14:21:16",
+      "album": {
+        "name": "Dos Pr\u00e9dios",
+        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "A Jolly Child",
+          "url": "https://open.spotify.com/artist/1OJliXxNuEF6RlPefYFz1D"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Luxo No Morro",
+      "url": "https://open.spotify.com/track/7cAPIqPqmxtcBVvfW6BZkm"
+    },
+    {
+      "added_at": "2023-01-23 14:21:16",
+      "album": {
         "name": "Vida Cara",
         "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
@@ -1063,34 +1147,6 @@
     {
       "added_at": "2023-01-23 14:21:16",
       "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 179488,
-      "name": "Lugar na mesa",
-      "url": "https://open.spotify.com/track/3CwSGsw1rxv3WsUI3X95ch"
-    },
-    {
-      "added_at": "2023-01-23 14:21:16",
-      "album": {
         "name": "Vim de L\u00e1",
         "url": "https://open.spotify.com/album/0FPaL1Vcjhppw7HCW0Jibb"
       },
@@ -1107,34 +1163,6 @@
       "duration_ms": 168750,
       "name": "Vim de L\u00e1",
       "url": "https://open.spotify.com/track/4VAlW0vTLKn5YPFbEhyawL"
-    },
-    {
-      "added_at": "2023-01-23 14:21:16",
-      "album": {
-        "name": "Movimento - Spotify Singles",
-        "url": "https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 158076,
-      "name": "Movimento - Spotify Singles",
-      "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
     },
     {
       "added_at": "2023-01-23 14:21:16",
@@ -1275,34 +1303,6 @@
       "duration_ms": 445156,
       "name": "3 Marias",
       "url": "https://open.spotify.com/track/4pQ2WvtAOJrdm8lN8BGnE4"
-    },
-    {
-      "added_at": "2023-01-23 14:21:16",
-      "album": {
-        "name": "Dos Pr\u00e9dios",
-        "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "A Jolly Child",
-          "url": "https://open.spotify.com/artist/1OJliXxNuEF6RlPefYFz1D"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Luxo No Morro",
-      "url": "https://open.spotify.com/track/7cAPIqPqmxtcBVvfW6BZkm"
     },
     {
       "added_at": "2023-01-23 14:21:16",

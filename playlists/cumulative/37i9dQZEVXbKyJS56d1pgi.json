@@ -606,7 +606,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 131583,
       "name": "Ai Preto",
       "url": "https://open.spotify.com/track/5vC8UAOHeG95ehRzZChniB"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 224354,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29"
@@ -3346,7 +3346,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 211984,
       "name": "DONDE",
       "url": "https://open.spotify.com/track/5SSMeDoUZyQxzIuRAUCSpg"
@@ -7221,6 +7221,24 @@
     },
     {
       "album": {
+        "name": "LLYLM",
+        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174044,
+      "name": "LLYLM",
+      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -7724,7 +7742,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 152358,
       "name": "MAMA.CITA (hasta la vista)",
       "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
@@ -8002,7 +8020,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 170214,
       "name": "MEM\u00d3RIA",
       "url": "https://open.spotify.com/track/5Iw3VimrUzaLtgEb9SU3Uq"
@@ -9104,7 +9122,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 192003,
       "name": "N\u00c3O \u00c9 POSS\u00cdVEL",
       "url": "https://open.spotify.com/track/061MgmYGGrfi1gip5JhlwS"
@@ -10134,7 +10152,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 142341,
       "name": "Por Enquanto",
       "url": "https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C"
@@ -12620,7 +12638,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 237760,
       "name": "SURVIVA",
       "url": "https://open.spotify.com/track/1t5NTprhov7ASNXLvzlkaG"
@@ -13665,6 +13683,28 @@
     },
     {
       "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
+    },
+    {
+      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -13680,7 +13720,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
@@ -14012,7 +14052,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 237439,
       "name": "VOLTA",
       "url": "https://open.spotify.com/track/3CpaYsotb6gvM1RGtksLlr"
@@ -14188,6 +14228,24 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "album": {
+        "name": "Where U @",
+        "url": "https://open.spotify.com/album/1Zs1EZDcCtlQys0VDUg5ls"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142727,
+      "name": "Where U @",
+      "url": "https://open.spotify.com/track/5KX1zLcBZ5bv8iA1odyonT"
     },
     {
       "album": {

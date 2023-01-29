@@ -3845,6 +3845,72 @@
     },
     {
       "album": {
+        "name": "Miles Chases New Voodoo In The Church",
+        "url": "https://open.spotify.com/album/6mPJCWZ3pbHquYKno7gPB3"
+      },
+      "artists": [
+        {
+          "name": "London Brew",
+          "url": "https://open.spotify.com/artist/6rVN7vMGgDqCGif9EpNpVb"
+        },
+        {
+          "name": "Benji B",
+          "url": "https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R"
+        },
+        {
+          "name": "Raven Bush",
+          "url": "https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs"
+        },
+        {
+          "name": "Theon Cross",
+          "url": "https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Tom Herbert",
+          "url": "https://open.spotify.com/artist/08WSyxBEPJgDyOsH8SWpLo"
+        },
+        {
+          "name": "Shabaka Hutchings",
+          "url": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o"
+        },
+        {
+          "name": "Nikolaj Torp Larsen",
+          "url": "https://open.spotify.com/artist/7B5J73d7YoQmAtSchQKJEt"
+        },
+        {
+          "name": "Dave Okumu",
+          "url": "https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F"
+        },
+        {
+          "name": "Nick Ramm",
+          "url": "https://open.spotify.com/artist/2VqSheffB7Wp1IVCZdIuSL"
+        },
+        {
+          "name": "Dan See",
+          "url": "https://open.spotify.com/artist/3tIBbFxP6udjcNWTn1SMux"
+        },
+        {
+          "name": "Tom Skinner",
+          "url": "https://open.spotify.com/artist/6U9Bsog9PLNE5hrw45ecDm"
+        },
+        {
+          "name": "Martin Terefe",
+          "url": "https://open.spotify.com/artist/68KMyINYSK8zqckysgy4OR"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194614,
+      "name": "Miles Chases New Voodoo In The Church - Single Edit",
+      "url": "https://open.spotify.com/track/6yRAQX1d91AQEcwwYXsCfb"
+    },
+    {
+      "album": {
         "name": "Mind of Mine",
         "url": "https://open.spotify.com/album/5VPULX6GNPhWRk3I9E8GpL"
       },
@@ -4512,7 +4578,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 313733,
       "name": "Nova",
       "url": "https://open.spotify.com/track/6iBzYMUeA5fWP6T4kq5dez"

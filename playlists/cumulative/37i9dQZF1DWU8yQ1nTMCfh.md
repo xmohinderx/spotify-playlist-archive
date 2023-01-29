@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del Rock en Español\. Cover: Wiplash
 
-148 songs - 8 hr 22 min
+149 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [d Bien a MaL](https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [d Bien a MaL](https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG) | 3:02 | 2022-12-09 |  |
 | [Dame Love \- Remix](https://open.spotify.com/track/0j87wxNxOQtGxFckt6w820) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dame Love \(Remix\)](https://open.spotify.com/album/0nER2H7WylrN5QzZ39aRnR) | 3:11 | 2022-04-15 | 2022-09-07 |
 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 | 2022-04-15 |  |
-| [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 | 2022-04-15 |  |
+| [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 | 2022-04-15 | 2023-01-29 |
 | [De Policía a Ladrón](https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [De Policía a Ladrón](https://open.spotify.com/album/2N7ur7BWpL1xvZ6fIfSzR6) | 3:12 | 2022-04-15 | 2022-12-10 |
 | [De Sigilos y Decretos](https://open.spotify.com/track/7fqR5Ybmw7CWdTdAzf5mHB) | [Prismatic Shapes](https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q) | [De Sigilos y Decretos](https://open.spotify.com/album/1Kcf9JddHIfAopxbYjH9xD) | 3:25 | 2022-07-19 | 2022-12-17 |
 | [Despídete Bien](https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Despídete Bien](https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np) | 3:12 | 2022-12-09 |  |
@@ -96,7 +96,7 @@
 | [Movimiento](https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Astronomía Interior](https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu) | 3:23 | 2023-01-20 |  |
 | [Multiverso](https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa) | [Multiverso](https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X) | 3:01 | 2022-12-16 |  |
 | [Niebla](https://open.spotify.com/track/5Nfs9PIPYo7nQTg08Li4iS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0hszGU5mN2Qj7EnOVZQJ8Z) | 2:43 | 2022-04-15 | 2022-12-10 |
-| [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 | 2022-12-23 |  |
+| [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 | 2022-12-23 | 2023-01-29 |
 | [No Es Para Todos](https://open.spotify.com/track/5vsZ9Uunj2VFGW4YnX71t3) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [No es para todos](https://open.spotify.com/album/3Q1V5xmb2EvSob6xKKO2DU) | 1:33 | 2022-04-15 | 2022-12-10 |
 | [No Estoy Roto](https://open.spotify.com/track/4jT6v8PugBI98OFU1I9SJs) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [No Estoy Roto](https://open.spotify.com/album/47GSu9M63q84E8iNFeXu6A) | 4:13 | 2022-04-15 | 2022-12-13 |
 | [No Hay Santos](https://open.spotify.com/track/7DKQCK4zNtLFy2qy0AopOB) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [Nuevos Silencios](https://open.spotify.com/album/0HsZpQ6L8DJgSUFNSazZoG) | 2:44 | 2022-04-15 | 2022-12-10 |
@@ -104,7 +104,7 @@
 | [No me preguntes por qué](https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [No me preguntes por qué](https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu) | 2:53 | 2023-01-20 |  |
 | [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 | 2022-07-19 |  |
 | [No Te Imaginás](https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:31 | 2022-04-15 |  |
-| [NO VUELVAS](https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e) | [NO VUELVAS](https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg) | 2:58 | 2022-08-08 | 2022-12-17 |
+| [NO VUELVAS](https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e) | [NO VUELVAS](https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg) | 2:58 | 2022-08-08 |  |
 | [Nos Quieren Dead](https://open.spotify.com/track/3zOqAICxaQok7mkOBe03Ps) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [Nos Quieren Dead](https://open.spotify.com/album/1x9s4GTLwVdRVSd04bjvnI) | 3:07 | 2022-04-15 | 2022-12-10 |
 | [novio del año](https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [novio del año](https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn) | 2:34 | 2023-01-13 |  |
 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 | 2022-07-19 | 2022-12-10 |
@@ -115,6 +115,7 @@
 | [Piensa Bien](https://open.spotify.com/track/2VVuf7qikMtZW0JavPW7S6) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Piensa Bien](https://open.spotify.com/album/7qAQxZI1x9I7r2ymQcncGb) | 4:33 | 2022-04-15 | 2022-12-10 |
 | [Piñas Coladas en Abril](https://open.spotify.com/track/48Q3lH5qyYYN58giKJOZDF) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Piñas Coladas en Abril](https://open.spotify.com/album/6sv8VKsvtW927EUcuPrDBA) | 3:18 | 2022-04-15 | 2022-12-10 |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-04-15 |  |
+| [Plaza en el cielo](https://open.spotify.com/track/330mS1U6KJ9Gie5PL4gkAo) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Plaza en el cielo](https://open.spotify.com/album/1oXFlNOxGfnSw9329hsgoT) | 3:26 | 2023-01-27 |  |
 | [Punks vs Emos](https://open.spotify.com/track/3hEyHrTsHskOcIzi7PDAR1) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 4:19 | 2022-04-15 | 2022-12-10 |
 | [Punta Diamante](https://open.spotify.com/track/6ZM6qRRY9YUER561TWGENV) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Mazunte 2016](https://open.spotify.com/album/0lmrY3kRUsLpZUXw7clbfT) | 2:42 | 2022-04-15 | 2022-12-10 |
 | [QUE SE MEJOREN](https://open.spotify.com/track/1ikC0IM4iDcdPtVpQ22fik) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUE SE MEJOREN](https://open.spotify.com/album/2YrxNeGDQAFYrNvOx3mYUe) | 3:01 | 2022-04-15 | 2023-01-28 |

@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-260 songs - 16 hr 47 min
+261 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [I Have Nothing Left for You](https://open.spotify.com/track/3txo7DYX9jReZuUqnwbsPR) | [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c), [Stockholm Underground](https://open.spotify.com/artist/4cBZdr2PjNdXrbkK9xhLJA), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [I Have Nothing Left for You](https://open.spotify.com/album/4B90ZdhB4bxJ7VaVFrthmY) | 4:34 | 2021-11-19 | 2022-07-29 |
 | [I Like You](https://open.spotify.com/track/2Tjx2DINx4qil9xunhu5cO) | [Brazil XXI](https://open.spotify.com/artist/5r1OHaNjhzMOn1J4lPi1SR), [Luca Giacco](https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC) | [I Like You](https://open.spotify.com/album/7zfyRI2P40FLVcTG9eeOG7) | 4:02 | 2021-11-19 | 2022-11-25 |
 | [I Love You](https://open.spotify.com/track/0F5TXI0TbKGRyAI5D0RYJF) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [I Love You](https://open.spotify.com/album/4XSKCBsJw2D2fd3v6Agoc8) | 4:15 | 2022-05-20 |  |
+| [I Miss You](https://open.spotify.com/track/091sKVcByJjBQVc8uZHZtK) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [I Miss You](https://open.spotify.com/album/3E90onjkC4uR0HdGOOOGLu) | 5:02 | 2023-01-25 |  |
 | [I Never Can Say Goodbye](https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv) | [Tiny Little Bigband](https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ) | [I Never Can Say Goodbye](https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU) | 4:13 | 2021-11-19 | 2022-11-25 |
 | [I Ran \(So Far Away\)](https://open.spotify.com/track/37JRb6cexDkgxVPqcuFivc) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9) | [I Ran \(So Far Away\)](https://open.spotify.com/album/7qhixjUIoIgMYA2Q3yjJi0) | 4:02 | 2021-11-19 | 2022-11-25 |
 | [I Touch Myself](https://open.spotify.com/track/5Lk2DCQqa0peKaqLCv5uyW) | [Anekka](https://open.spotify.com/artist/2GWp5uc48WTM1nnqqUbJQd), [Brazilian Jazz Cuts](https://open.spotify.com/artist/4KVWjWPXzulIkmjlk8P05o) | [I Touch Myself](https://open.spotify.com/album/5vgUrCbyURSaDhnJXlmSDu) | 3:20 | 2021-11-19 | 2022-11-25 |
@@ -234,7 +235,7 @@
 | [The Christmas Sweater](https://open.spotify.com/track/30QRKfHBopZn6UNqqSJQ9O) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:43 | 2021-11-19 | 2022-01-19 |
 | [The Light](https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N) | [A Blue Flame](https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo) | [Love Rushes Past](https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0) | 2:40 | 2021-11-19 | 2022-10-27 |
 | [the road is narrow](https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD) | [Jecca](https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg) | [The Road Is Narrow](https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b) | 3:14 | 2021-11-19 | 2022-10-27 |
-| [The Sorrow It Shows](https://open.spotify.com/track/7cZenJ6XodfUnnZ0wwbFih) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [The Sorrow It Shows](https://open.spotify.com/album/5gjE4MoGl4w4voVWUZxGW5) | 5:49 | 2023-01-12 |  |
+| [The Sorrow It Shows](https://open.spotify.com/track/7cZenJ6XodfUnnZ0wwbFih) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [The Sorrow It Shows](https://open.spotify.com/album/5gjE4MoGl4w4voVWUZxGW5) | 5:49 | 2023-01-12 | 2023-01-29 |
 | [The Very Thought of You](https://open.spotify.com/track/2VCVI7kOR2LnRB4I3urO1i) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [The Very Thought of You](https://open.spotify.com/album/4DqgZIfkIxAxOkERNB1Fuh) | 4:43 | 2021-11-19 | 2022-07-29 |
 | [The Very Thought Of You](https://open.spotify.com/track/5cEDAmOy6U1AF9CAU7FvAk) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [This Is Not Jazz](https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM) | 4:43 | 2022-07-14 | 2022-10-08 |
 | [There is a place](https://open.spotify.com/track/4PMRpsHIVyQz7m1e6bt7YG) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/0BdvVRQ0vqLlhKQHakjf2E) | 4:07 | 2022-11-09 |  |

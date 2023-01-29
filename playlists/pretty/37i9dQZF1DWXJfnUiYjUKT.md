@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,438 likes - 99 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,654 likes - 99 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 63 | [Diamonds](https://open.spotify.com/track/4D3hcHpsFsiQFBNIKYgjui) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Diamonds](https://open.spotify.com/album/0IEZx9NrnUcoIEQCBvNxDE) | 3:31 |
 | 64 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 |
 | 65 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 |
-| 66 | [Rock Ur World](https://open.spotify.com/track/5PkWhNfVEz2O9n8b6cQFMw) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [ROOM202 EP](https://open.spotify.com/album/4ogKA3ZUwHVuYvwfDwPLjV) | 4:41 |
+| 66 | [Rock Ur World](https://open.spotify.com/track/5PkWhNfVEz2O9n8b6cQFMw) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [fussy](https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk) | [ROOM202 EP](https://open.spotify.com/album/4ogKA3ZUwHVuYvwfDwPLjV) | 4:41 |
 | 67 | [Blue](https://open.spotify.com/track/2YSpZDK4tYNy9AS3rKDTZl) | [Kayla Rae](https://open.spotify.com/artist/0cz0uZX8a30POuEC2hDL9j) | [Blue](https://open.spotify.com/album/25WCGOw4Nj1YJsznFj9JgO) | 2:46 |
 | 68 | [Grey Hair](https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Emanuel](https://open.spotify.com/album/2DuS6uvoK6uVj2mriZiY3G) | 4:13 |
 | 69 | [Here](https://open.spotify.com/track/5yuGEEvvqMHvoLIxEFnaDT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Here](https://open.spotify.com/album/4BAFltaVZww9WWkkBROskZ) | 3:15 |

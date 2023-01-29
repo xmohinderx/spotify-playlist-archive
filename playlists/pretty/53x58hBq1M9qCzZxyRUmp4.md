@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 
 > 50 of each week's best new rock and metal tracks\. New updates every Friday!  🔊 🤘🏿🤘🤘🏽
 
-[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 11,856 likes - 51 songs - 3 hr 31 min
+[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 11,874 likes - 51 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 | 17 | [Forest Dweller](https://open.spotify.com/track/63tXvFuVWXKxyKvpVfXXYM) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Forest Dweller](https://open.spotify.com/album/5bM49AydEkBA0zxREsR49h) | 5:55 |
 | 18 | [Lucyfer Prime Evil](https://open.spotify.com/track/1p20hopUfqgTwSYGOqeGM6) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Lucyfer Prime Evil](https://open.spotify.com/album/6VCJGU6wccSru7tice6eQd) | 4:48 |
 | 19 | [Axis Mundi](https://open.spotify.com/track/2AG2lTeueOVfV2vkMyg5j2) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Axis Mundi](https://open.spotify.com/album/7yfSOlctpXVOlkG0pMXjxe) | 4:24 |
-| 20 | [Swollen Teeth](https://open.spotify.com/track/2dehX9M8cr21ggWNwkJgD7) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [Swollen Teeth](https://open.spotify.com/album/53lOgAt8FCTfTYkOZzFnz7) | 2:59 |
+| 20 | [SWOLLENTEETH](https://open.spotify.com/track/2dehX9M8cr21ggWNwkJgD7) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [SWOLLENTEETH](https://open.spotify.com/album/53lOgAt8FCTfTYkOZzFnz7) | 2:59 |
 | 21 | [The World Without Us](https://open.spotify.com/track/6yOmF7bdf6AiNg2JQg9wvO) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [The World Without Us](https://open.spotify.com/album/460v1TmTbmq7E4zy12pYdE) | 6:38 |
 | 22 | [We Will Rock You](https://open.spotify.com/track/0dXqdq1aF0SgZamXvUAp57) | [TEMPT](https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk) | [We Will Rock You](https://open.spotify.com/album/5jPBB8d3UAb8TFwqgVgeGW) | 2:36 |
 | 23 | [Leave Your Hate in the Comments](https://open.spotify.com/track/4UxfdBY5Cmx2IVxBfePdEW) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Leave Your Hate in the Comments](https://open.spotify.com/album/33sDkLEbRowsCCVFOWK2Yr) | 3:08 |

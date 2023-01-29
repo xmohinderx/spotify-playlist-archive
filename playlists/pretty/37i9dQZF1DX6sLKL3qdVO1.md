@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Lo mejor del reggaetón y flow actual con Feid en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,248 likes - 98 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,574 likes - 98 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 5 | [WANDA](https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:40 |
 | 6 | [n la disco](https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 |
 | 7 | [LA DEA](https://open.spotify.com/track/1L9TXxy6RxbGFRyR8ocM2L) | [Elvis de Yongol](https://open.spotify.com/artist/6SuMnYQl7OMp9jsxa0KdZg) | [LA DEA](https://open.spotify.com/album/6Quj2M2JueLw3mWXV0J2vM) | 2:29 |
-| 8 | [Ni Miro \(feat\. Big Soto\)](https://open.spotify.com/track/7E3YhRU66U29zK5L7gT829) | [Koreko](https://open.spotify.com/artist/7MAFjAqzB7cFssz84HSSlv), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Hector Miller](https://open.spotify.com/artist/7tOWLNCTJTEIDBwIUyyQue), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Ni Miro \(feat\. Big Soto\)](https://open.spotify.com/album/58dp6Q6Li4yKDlpyamoUL0) | 5:02 |
+| 8 | [Ni Miro \(feat\. Neutro Shorty\)](https://open.spotify.com/track/7E3YhRU66U29zK5L7gT829) | [Koreko](https://open.spotify.com/artist/7MAFjAqzB7cFssz84HSSlv), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Hector Miller](https://open.spotify.com/artist/7tOWLNCTJTEIDBwIUyyQue), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Ni Miro \(feat\. Neutro Shorty\)](https://open.spotify.com/album/58dp6Q6Li4yKDlpyamoUL0) | 5:02 |
 | 9 | [Paciente Por Ti \(feat\. Danny Ocean\)](https://open.spotify.com/track/2gLxf2V3xAEitxNawDhgJb) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Paciente Por Ti \(feat\. Danny Ocean\)](https://open.spotify.com/album/2fRhQjxi21lnxwHL1ZgcDC) | 3:18 |
 | 10 | [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 |
 | 11 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 |

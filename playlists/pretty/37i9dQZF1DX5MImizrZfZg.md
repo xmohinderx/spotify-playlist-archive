@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,639 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,686 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 23 | [11:58](https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [Candy Store](https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp) | 4:02 |
 | 24 | [I Still Believe](https://open.spotify.com/track/6dcNq7ZdQMG5ucQeuTZcWd) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Chillin'](https://open.spotify.com/album/7K2ByqRePgiW7yQAE3dsjt) | 3:59 |
 | 25 | [I Wanna Be Where You Are](https://open.spotify.com/track/5vM8GpI04rVLp7m1gUHDRa) | [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP), [Dennis Johnson](https://open.spotify.com/artist/4u2zMyt9wCVY1OipyXEB4y), [Armando Marçal](https://open.spotify.com/artist/4TjS37y1cLMvQbEumiAZ7C) | [Brazil Chill](https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn) | 5:46 |
-| 26 | [Kaleidoscope](https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Soul Express](https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH) | 4:42 |
-| 27 | [The Sax Pack](https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB) | [The Sax Pack](https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA) | [The Sax Pack](https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN) | 3:34 |
+| 26 | [The Sax Pack](https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB) | [The Sax Pack](https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA) | [The Sax Pack](https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN) | 3:34 |
+| 27 | [Kaleidoscope](https://open.spotify.com/track/0qD9zBjyp5GRhdkXxFFSVQ) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Soul Express](https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH) | 4:42 |
 | 28 | [Hyde Park \(The 'Ah, Oooh' Song\)](https://open.spotify.com/track/5nRaaCkfZUrsg3MRYOXTFU) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Another Door Opens](https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh) | 4:21 |
 | 29 | [Chopsticks](https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Kickin' It](https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1) | 3:58 |
 | 30 | [All Jazzed Up \(And Nowhere To Go\)](https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM) | 5:07 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 38 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/1Nu6wkDGw7JurB4AktFuoE) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Hang Time](https://open.spotify.com/album/5js3uGBKjYbpFyPhcVaw37) | 4:06 |
 | 39 | [People Make the World Go Round](https://open.spotify.com/track/4JWPdkrjQhOA46YXwclTOp) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Metro Blue](https://open.spotify.com/album/2dIQqLUUw0qZ8Eeu7AVdxR) | 4:25 |
 | 40 | [Chill Or Be Chilled](https://open.spotify.com/track/7zpT0LfNeHx8arSeRTh7NZ) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [The Limit's The Sky](https://open.spotify.com/album/2xcJyQDNQKtypYZ260AJ4x) | 3:43 |
-| 41 | [Frobidden Fruit](https://open.spotify.com/track/5AtQKKuYkuGbdQOXAvxGCN) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Elixir](https://open.spotify.com/album/1IMGSrqAcD0F6aTtd5X4RV) | 3:22 |
-| 42 | [Bumpin' on the Wes Side](https://open.spotify.com/track/64ZFGT08sZHec62uQayIFw) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Desire](https://open.spotify.com/album/1Ao7NIxzEyqJb9G2phlegX) | 5:27 |
+| 41 | [Bumpin' on the Wes Side](https://open.spotify.com/track/64ZFGT08sZHec62uQayIFw) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Desire](https://open.spotify.com/album/1Ao7NIxzEyqJb9G2phlegX) | 5:27 |
+| 42 | [Frobidden Fruit](https://open.spotify.com/track/5AtQKKuYkuGbdQOXAvxGCN) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Elixir](https://open.spotify.com/album/1IMGSrqAcD0F6aTtd5X4RV) | 3:22 |
 | 43 | [Tale of Two Cities](https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Talk of the Town](https://open.spotify.com/album/4abiiPlSBphVadoxMa85U7) | 4:15 |
 | 44 | [For A Smile](https://open.spotify.com/track/4xQSw90U0tP5JE5q0CCxmn) | [Marc Antoine](https://open.spotify.com/artist/0EpJxgZJDz8YV7MKsTr0Ls) | [Hi\-Lo Split](https://open.spotify.com/album/6CK24XZFvdhPJe0pBN3uVp) | 4:13 |
 | 45 | [Floor & More](https://open.spotify.com/track/1mivhcSDSj80huBoFP0Mtd) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9) | [Off The Record](https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo) | 5:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 49 | [Honey\-Dipped](https://open.spotify.com/track/4kpXER4nOWUIbqm4iYs6sr) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Saxophonic](https://open.spotify.com/album/1AXGtTurzbPDCyOftQdS7l) | 4:23 |
 | 50 | [Make It Happen](https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9) | [Jay Soto](https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf) | [Stay Awhile](https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1) | 4:15 |
 
-Snapshot ID: `MTYzODg5NTgyOCwwMDAwMDAwMDE4ZWJlMzkwMTdmNGVhNTNhZGRlMmQwYmJkMDg3Y2M4`
+Snapshot ID: `MTYzODg5NTgyOCwwMDAwMDAwMDc1NmEwYTUxZmI3NTVjNmRkNzM1MGEzZTdjMmQxZjNi`

@@ -4,7 +4,7 @@
 
 > vem kan relatera?
 
-792 songs - 1 day 11 hr 7 min
+793 songs - 1 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,7 +664,8 @@
 | [Superbaby](https://open.spotify.com/track/6JpcgGD7n2OglghrQVXzie) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [CHASE THE BABY](https://open.spotify.com/album/5RLd6S0wRY2YDNuLtdIR99) | 2:37 | 2021-12-16 | 2022-01-07 |
 | [Superstar](https://open.spotify.com/track/5ZvYauB3egqSNY0s95qpAf) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Superstar](https://open.spotify.com/album/7yj4mPGgXnh3gglrx409mB) | 2:52 | 2022-08-25 | 2022-10-14 |
 | [Sus \(Gobs X Ricky Rich\)](https://open.spotify.com/track/2B42WBdF3IIcSazFD9BtvP) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Sus \(Gobs X Ricky Rich\)](https://open.spotify.com/album/0nqwOpcQxj5OirkQL0OOeb) | 2:10 | 2022-02-03 | 2022-03-05 |
-| [Svar](https://open.spotify.com/track/4YbHHzm6EBw9OsgWemMsl6) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Svar](https://open.spotify.com/album/1fKcpBT4aaQfmuzSXilImz) | 2:35 | 2023-01-12 |  |
+| [Svar](https://open.spotify.com/track/4YbHHzm6EBw9OsgWemMsl6) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Svar](https://open.spotify.com/album/1fKcpBT4aaQfmuzSXilImz) | 2:35 | 2023-01-12 | 2023-01-29 |
+| [Svar](https://open.spotify.com/track/4uvPvs80zJ1qW3faTgMESE) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [96](https://open.spotify.com/album/7AegUmFDvPjZfqo4aN3rRX) | 2:35 | 2023-01-27 |  |
 | [Svävar](https://open.spotify.com/track/5XrcvciKcQqHpj2hArPR39) | [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [Svävar](https://open.spotify.com/album/6AKg5HRZvqrJcJLnIzt74U) | 2:44 | 2022-02-10 | 2022-03-05 |
 | [SWITCH IT UP](https://open.spotify.com/track/02NGImz0Ovl8XhdkSDLRbr) | [Knut](https://open.spotify.com/artist/7lBUy2Bz6FcZ0nEdCWI7it), [Alex Lopesz](https://open.spotify.com/artist/7nJ49RC4Z3AM1cC4hzavDH) | [SWITCH IT UP](https://open.spotify.com/album/0nkCylUfFnNWQ3Sfs2C0Xl) | 2:21 | 2022-04-14 | 2022-04-20 |
 | [Sympati](https://open.spotify.com/track/14yZQJtJZNv5OdQ8dYWx13) | [Georgios Barbanos](https://open.spotify.com/artist/0n4qD1LR233g1LdGBp1BEE) | [Sympati](https://open.spotify.com/album/76tWeUGclH3256e49629is) | 1:57 | 2022-01-27 | 2022-03-05 |

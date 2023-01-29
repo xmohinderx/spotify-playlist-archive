@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-200 songs - 10 hr 15 min
+201 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 | 2022-08-05 |  |
 | [All The Way](https://open.spotify.com/track/4m8ywcRBvlcYWeFyH6yX7v) | [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [All The Way](https://open.spotify.com/album/7Ki5xYUVuhvuAijgaJeQsA) | 2:50 | 2022-10-13 | 2022-10-31 |
 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-06-08 |  |
+| [Apollo](https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:50 | 2022-06-08 |  |
 | [Asiwaju](https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Asiwaju](https://open.spotify.com/album/5xqEVPQeBA9GUnEFJhyCtt) | 3:36 | 2022-11-18 |  |
 | [Automatic](https://open.spotify.com/track/1yz6NJ6hXpVvaRbllgXQpI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Automatic](https://open.spotify.com/album/3y0yjUEuag7X0HQSc4aqDF) | 2:56 | 2023-01-20 | 2023-01-28 |
 | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [B\. D’OR \(feat\. Wizkid\)](https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9) | 3:09 | 2022-06-08 |  |
@@ -179,7 +180,7 @@
 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 | 2022-07-13 | 2022-12-18 |
 | [Special \(feat\. Don Toliver\)](https://open.spotify.com/track/6MtFM9kbhhuN04rwDxPvn4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:23 | 2022-11-15 | 2023-01-20 |
 | [Stand By You](https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Stand By You](https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc) | 2:55 | 2023-01-27 |  |
-| [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 | 2022-06-08 |  |
+| [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 | 2022-06-08 | 2023-01-29 |
 | [Sugarcane \(Remix\) \[feat\. King Promise, Mayorkun & Darkoo\]](https://open.spotify.com/track/0ApflIvLLPwEZuS36WYlh6) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sugarcane \(Remix\) \[feat\. King Promise, Mayorkun & Darkoo\]](https://open.spotify.com/album/5dFQsLF9BvkgmgMONO8imD) | 4:11 | 2022-06-08 | 2022-12-25 |
 | [Sugarcane \- Remix](https://open.spotify.com/track/3jWAkZ9nUbGzPDapyrAIw2) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sugarcane \(Remix\)](https://open.spotify.com/album/6FFG2JGRrFJ00LS9DCIWwN) | 4:11 | 2022-06-08 |  |
 | [Summer Love](https://open.spotify.com/track/7tzOeM0LbXJYMzjny2D45r) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Summer Love](https://open.spotify.com/album/1YhiuotdL8FFbsKh5RADg8) | 2:59 | 2022-06-08 | 2022-11-13 |

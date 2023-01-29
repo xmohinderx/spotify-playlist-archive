@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > The best of today's true alternative rock scene\. Cover: The Luka State
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,122 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,142 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 50 | [Burn The Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 |
 | 51 | [Way Down](https://open.spotify.com/track/4x6kvhekWvDC4MeYjg6xgR) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Mother Nature](https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm) | 3:21 |
 | 52 | [Get Out Of My Life](https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Get Out Of My Life](https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o) | 3:07 |
-| 53 | [•OUTSIDE•](https://open.spotify.com/track/4HateMT8YtbMll1LmQmMB7) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•OUTSIDE•](https://open.spotify.com/album/6Y9hVwqc0HGINlORyTVzI8) | 1:46 |
+| 53 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
 | 54 | [Beauty](https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Beauty](https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6) | 3:40 |
-| 55 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
+| 55 | [•OUTSIDE•](https://open.spotify.com/track/4HateMT8YtbMll1LmQmMB7) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•OUTSIDE•](https://open.spotify.com/album/6Y9hVwqc0HGINlORyTVzI8) | 1:46 |
 | 56 | [Back Foot](https://open.spotify.com/track/6hZ11ThYoAHlLJsBK2U3jH) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Back Foot](https://open.spotify.com/album/4q7m6brjyKWXqpvyg3kAdQ) | 3:08 |
 | 57 | [Less Is More](https://open.spotify.com/track/7w3fpRHULr70wtGdPfMufh) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Less Is More](https://open.spotify.com/album/5HFHCbXFgWSVg6wzUlDTRu) | 3:00 |
 | 58 | [Bunny Man](https://open.spotify.com/track/7Mhs6TsXacUO1wJP67r3yp) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Bunny Man](https://open.spotify.com/album/6bKrlySqeQntAp4PtX46oW) | 2:58 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 83 | [Earth Is A Black Hole](https://open.spotify.com/track/7eaEaXAiGR3i3LUJUDRRXc) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2oRaxJoPECqRRpQ9PK2UVA) | 2:55 |
 | 84 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 |
 | 85 | [Heroes](https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK) | [Dead Sara](https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j) | [Heroes](https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp) | 3:16 |
-| 86 | [Fallout](https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5) | [Daphne's Couch](https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq) | [Fallout](https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4) | 2:46 |
-| 87 | [Big Shot](https://open.spotify.com/track/6Q2juI8CUrk1SR5rtoCqwT) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Big Shot](https://open.spotify.com/album/4wrKG8eeaYiItc2ASIWoJs) | 3:39 |
+| 86 | [Big Shot](https://open.spotify.com/track/6Q2juI8CUrk1SR5rtoCqwT) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Big Shot](https://open.spotify.com/album/4wrKG8eeaYiItc2ASIWoJs) | 3:39 |
+| 87 | [Fallout](https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5) | [Daphne's Couch](https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq) | [Fallout](https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4) | 2:46 |
 | 88 | [I Feel Like I'm Falling](https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [I Feel Like I'm Falling](https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe) | 2:24 |
 | 89 | [Stop Beating on My Heart \(Like a Bass Drum\)](https://open.spotify.com/track/04HJIfLxIrxYsIHneUuDre) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Stop Beating on My Heart \(Like a Bass Drum\)](https://open.spotify.com/album/6N9Bxp8BX6qg4BMzl0e56v) | 3:45 |
-| 90 | [These Days](https://open.spotify.com/track/6MykakiRHTZLF9zmCEtWBD) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [These Days](https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty) | 3:17 |
-| 91 | [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 |
+| 90 | [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 |
+| 91 | [These Days](https://open.spotify.com/track/6MykakiRHTZLF9zmCEtWBD) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [These Days](https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty) | 3:17 |
 | 92 | [Around the Bend](https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC) | [Strata](https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv) | [Around the Bend](https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz) | 3:34 |
 | 93 | [Rich](https://open.spotify.com/track/4sFfItk3bF8wrs1KmTJxU6) | [Mourners](https://open.spotify.com/artist/2WpziIx9RMAM2jgdqRDrW7) | [Rich](https://open.spotify.com/album/5ImkIruicv0jQFE6jv2bbA) | 3:10 |
 | 94 | [Save Me](https://open.spotify.com/track/0yVDMgFk4GzxDW7d1kuQBm) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Now and Then](https://open.spotify.com/album/3CEFLFiJou19gt6VY6o56I) | 3:23 |
 | 95 | [Double Down \- 2019 Mix](https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [Double Down](https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8) | 3:10 |
-| 96 | [Car Crash](https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8) | [Low Lying Sun](https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge) | [Car Crash](https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB) | 3:52 |
-| 97 | [Great Mass of Color](https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Great Mass of Color](https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp) | 6:00 |
+| 96 | [Great Mass of Color](https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Great Mass of Color](https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp) | 6:00 |
+| 97 | [Car Crash](https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8) | [Low Lying Sun](https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge) | [Car Crash](https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB) | 3:52 |
 | 98 | [Come On](https://open.spotify.com/track/2YUTrl4xlX9jAlpxWEpOnU) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Come On](https://open.spotify.com/album/6F1GXCFUTG8bRPcRiFEZ3m) | 3:29 |
 | 99 | [I Never Loved Myself Like I Loved You](https://open.spotify.com/track/1ue6hDpQnActsuH661uCYR) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\-](https://open.spotify.com/album/00NKrA90xCjPCMvR0CdvVl) | 4:21 |
 | 100 | [Boy](https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Boy](https://open.spotify.com/album/0QbdLXY2Y1uROAxsautWnI) | 3:21 |
 
-Snapshot ID: `MTY3NDg2MDExOSwwMDAwMDAwMDBlOTBiMzczZjMxMzM2MDg1ZjU1NjdlY2NmYzFmNmE2`
+Snapshot ID: `MTY3NDg2MDExOSwwMDAwMDAwMGJlMGVlNWUzZmNhMjJlNzFkMjhkOWNhNGUzMzU2NzEy`

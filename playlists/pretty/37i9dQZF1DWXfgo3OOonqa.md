@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > vem kan relatera?
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,610 likes - 80 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,667 likes - 80 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 47 | [BLÅ MERCEDES](https://open.spotify.com/track/5UO9GbQbILdcv5HXolHAe4) | [Ozzy](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [BLÅ MERCEDES](https://open.spotify.com/album/6RqXPNnDTZ1vA890a1ya7o) | 2:11 |
 | 48 | [HARRAGAS](https://open.spotify.com/track/2V6Z4Nzl7aYBQwThnQGHXV) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [HARRAGAS](https://open.spotify.com/album/6cBGLSHXMl3M5fXj2MQ77L) | 2:20 |
 | 49 | [WAS GEHT](https://open.spotify.com/track/3DchPWZrC5ZjjCEVkU392L) | [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS), [Casar](https://open.spotify.com/artist/7IENU7K9Qq8bd9U4pc5rbt) | [WAS GEHT](https://open.spotify.com/album/0O4wm3URYwywcAPi9vhF90) | 2:41 |
-| 50 | [Svar](https://open.spotify.com/track/4YbHHzm6EBw9OsgWemMsl6) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Svar](https://open.spotify.com/album/1fKcpBT4aaQfmuzSXilImz) | 2:35 |
+| 50 | [Svar](https://open.spotify.com/track/4uvPvs80zJ1qW3faTgMESE) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [96](https://open.spotify.com/album/7AegUmFDvPjZfqo4aN3rRX) | 2:35 |
 | 51 | [REAL SHIT](https://open.spotify.com/track/1O5L1IcM6cbkr4Ei36qQyI) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [REAL SHIT](https://open.spotify.com/album/4BYc1iSV7DcZKMKYycXNVR) | 2:49 |
 | 52 | [Friendzone](https://open.spotify.com/track/4BJwLOyH7MpJCzEXZoBHYp) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Ofiltrerad](https://open.spotify.com/album/2l5wivN5bGDtrTm4rl2nfK) | 2:28 |
 | 53 | [AVION](https://open.spotify.com/track/1krKlD8QXqmcWiLxfwgK26) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [AVION / BRING EM](https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z) | 2:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 79 | [Extra mos](https://open.spotify.com/track/07RHzJVq83JxWWhNCGEF5j) | [Just](https://open.spotify.com/artist/3l0MJsYtGAgUr045qBu0LH), [FLINT](https://open.spotify.com/artist/3lDPeBHbu2pI9O6NZxXBjC), [Gonza](https://open.spotify.com/artist/3o574CSarKWtidUxIMm1jr) | [Guld & gröna skogar](https://open.spotify.com/album/6dB6m1XuheaQyBg2BKwcNn) | 2:36 |
 | 80 | [Ingen Teater](https://open.spotify.com/track/18An1CthuXJyG7RKc9gY3r) | [Aliammo](https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA), [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Ingen Teater](https://open.spotify.com/album/6r8edTdq03L31UMZVwHtde) | 3:05 |
 
-Snapshot ID: `MTY3NDc5OTIwMCwwMDAwMDAwMGU5OWVjNTAyMDNkYWI4N2JlMzk4MTNlM2UxMTU3ZGE2`
+Snapshot ID: `MTY3NDc5OTIwMCwwMDAwMDAwMGU4OWE0NjYwNjM3ZmU2M2Q0ZmJhYjllNzQ4YzAzNGM4`

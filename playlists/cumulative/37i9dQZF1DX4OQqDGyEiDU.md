@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-461 songs - 1 day 2 hr 37 min
+462 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Ice breaker](https://open.spotify.com/track/0FEXG9Fj3lhH2g5eVwvNJ4) | [ねじ式](https://open.spotify.com/artist/2WMWyRVZHCzEv713ZSdjAT) | [nevertheless](https://open.spotify.com/album/2NXES3g783EEfaFyFomaBV) | 4:01 | 2022-07-14 | 2022-07-20 |
 | [IMAWANOKIWA](https://open.spotify.com/track/1gStV6Xw1MRITx0y7rQTkr) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [ねむるピンクノイズ](https://open.spotify.com/album/1NNcuKA3cpkH88r8trOCBy) | 4:13 | 2022-06-30 | 2022-07-25 |
 | [Iゆえに](https://open.spotify.com/track/2zEr5CZpgOhjAe54NkYieg) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [Iゆえに](https://open.spotify.com/album/4u6HPNc8xPBmva1V2rtyHo) | 3:32 | 2022-07-05 | 2022-07-07 |
+| [Jeep!?。](https://open.spotify.com/track/1w3EMbP4AMAbNyKLKCw3yZ) | [A4。](https://open.spotify.com/artist/18pJlMkSYAxCTkpSzGrLR9) | [Jeep!?。](https://open.spotify.com/album/5CdCUPmhFQFkFQK4rfXz2r) | 3:15 | 2023-01-24 |  |
 | [Journey](https://open.spotify.com/track/3iMc2ekQxOIfSamAkxfiGu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [Journey](https://open.spotify.com/album/2prhLJdoX7DM6qZtXJETnP) | 2:45 | 2022-10-27 |  |
 | [Juumensou](https://open.spotify.com/track/7wIKr31uQ5ecXbLMDzYDYK) | [YM](https://open.spotify.com/artist/5X62tnENHL02oDZuZwDDqz) | [Exit Tunes Presents Gumism From Megpoid \(Vocaloid\)](https://open.spotify.com/album/6LRbHwDnHpqcLxGfXR0C5c) | 3:42 | 2022-06-09 | 2022-07-29 |
 | [Kakikeshite,Quartet](https://open.spotify.com/track/1OWgMtoukPCHTBLXbbGwPC) | [Uka Roku](https://open.spotify.com/artist/7hBob8G136429eesHGCbcH) | [Kakikeshite,Quartet](https://open.spotify.com/album/0CWV5tZ9mz6obaqbIySMHs) | 3:58 | 2022-08-16 | 2022-10-05 |
@@ -384,7 +385,7 @@
 | [夜になったら耿十八は](https://open.spotify.com/track/2MSy9UNx9xNfOLbTHae4tb) | [Peg](https://open.spotify.com/artist/2nXscFBFNh9ryugWGdW5po) | [Immortal Club](https://open.spotify.com/album/3b4ylZFSqdxu4vUtbgYPav) | 3:37 | 2022-06-09 | 2022-07-21 |
 | [夜もすがら君想ふ](https://open.spotify.com/track/3mH5bQJk2zCuV2aH0V6TPC) | [TOKOTOKO](https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH) | [ぼくの魔法使い](https://open.spotify.com/album/0oEVuplSruIOKKiHRtSqj0) | 4:00 | 2022-06-09 | 2022-07-17 |
 | [夜咄ディセイブ \-TeddyLoid Hopping Remix\-](https://open.spotify.com/track/44VSRtW1INM92JoRRAaUeg) | [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [MUSICAL & LIVE SHOW "ARIA" ORIGINAL SOUNDTRACK](https://open.spotify.com/album/2wSxEZWpc6ha8bFeMrmOJK) | 3:08 | 2022-06-21 | 2022-07-29 |
-| [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 | 2022-06-09 |  |
+| [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 | 2022-06-09 | 2023-01-29 |
 | [大喜](https://open.spotify.com/track/0iBSqeDY6L8CYlluPCAs4h) | [StarlingEDM](https://open.spotify.com/artist/0a93wqFVaAkoKU1GqG7hvF) | [大喜](https://open.spotify.com/album/2apBfgycWk8DB9gCZ8CwqY) | 2:43 | 2022-07-14 | 2022-07-20 |
 | [天使](https://open.spotify.com/track/6jw5E0T0vpB2ydhgSymvnD) | [Pedestrian](https://open.spotify.com/artist/6fIP2qKVhs77fnk8PqyzZg) | [atelier](https://open.spotify.com/album/7xIVP85Kp3XYjsitCpGyKO) | 2:49 | 2022-07-26 | 2022-07-28 |
 | [天才ロック \(feat\. 鏡音リン\)](https://open.spotify.com/track/01xhuS2onjqAzLdYxF25fj) | [Karasuya Sabou](https://open.spotify.com/artist/1UaHeL0MQ2sgcGGx4hasHA), [鏡音リン](https://open.spotify.com/artist/2gz31oKYxWOkb2KKixMv73) | [初音ミク「マジカルミライ」10th Anniversary OFFICIAL ALBUM](https://open.spotify.com/album/2YxLUDzV68rc9cM1v7SFeE) | 3:23 | 2022-10-27 | 2022-11-25 |

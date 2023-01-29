@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,390 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,462 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 44 | [Aquel Bolero](https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Aquel Bolero](https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG) | 2:52 |
 | 45 | [Quiero Verte Hoy](https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Quiero Verte Hoy](https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ) | 3:35 |
 | 46 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [ULYSE](https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD) | 3:34 |
-| 47 | [Aline](https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Aline](https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE) | 2:36 |
-| 48 | [Hasta Que Tú Me Quieras](https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:57 |
+| 47 | [Hasta Que Tú Me Quieras](https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:57 |
+| 48 | [Aline](https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Aline](https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE) | 2:36 |
 | 49 | [Tanto Amor](https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Tanto Amor](https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz) | 3:05 |
 | 50 | [Ni Modo](https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Ni Modo](https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX) | 3:05 |
 | 51 | [La Final](https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [La Final](https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3) | 3:18 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 66 | [NTDDP](https://open.spotify.com/track/2qcwhO9GA5CgOtgtvWW0Wa) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [NTDDP](https://open.spotify.com/album/0VO1hYeausUaErYssR77vQ) | 2:56 |
 | 67 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 68 | [El Mejor Lugar](https://open.spotify.com/track/6icYplg6aqvnUqNnYkHbbS) | [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [El Mejor Lugar](https://open.spotify.com/album/7FaJGC4pNapPjJaZlrqIme) | 2:55 |
-| 69 | [Una Canción Para Los Dos](https://open.spotify.com/track/7qr0qTJuOw83eg3CXQP2Xi) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Una Canción Para Los Dos](https://open.spotify.com/album/3m9KP8yiPs0em8Jndtn2i1) | 2:33 |
-| 70 | [Ir por un Café](https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Ir por un Café](https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD) | 3:20 |
+| 69 | [Ir por un Café](https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Ir por un Café](https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD) | 3:20 |
+| 70 | [Una Canción Para Los Dos](https://open.spotify.com/track/7qr0qTJuOw83eg3CXQP2Xi) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Una Canción Para Los Dos](https://open.spotify.com/album/3m9KP8yiPs0em8Jndtn2i1) | 2:33 |
 | 71 | [Para la Eternidad](https://open.spotify.com/track/7irtPPH6Jdb4n8dh2DRCFy) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [45 RPM](https://open.spotify.com/album/7A8QtKKDMM2Rs91Sq5fcfr) | 4:23 |
 | 72 | [Nada Me Falta \(Welcome To Tijuana\)](https://open.spotify.com/track/09jNjdtBWKxSFLaIMN85mv) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Flor De Michoacán](https://open.spotify.com/album/71f7JogsMnad5Leg4XeZr9) | 3:01 |
 | 73 | [Alguien Como Tú](https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Alguien Como Tú](https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL) | 3:57 |
 | 74 | [La Del Campo De Fresas](https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG) | [ALONG](https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v) | [Navegando](https://open.spotify.com/album/1dExVI7g7HBba3243F7XRy) | 3:56 |
 | 75 | [Como una Flecha](https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 4:11 |
 
-Snapshot ID: `MTY3NDg0OTEwOCwwMDAwMDAwMDg1ZjVlN2FlMzRmYjRjNWQyMjUyNDk0NjdlYzhmNDBl`
+Snapshot ID: `MTY3NDg0OTEwOCwwMDAwMDAwMDRiZGZjYjA4NDgxMWRmMTEzMDRjNjk5ODJhZWRjMjE1`

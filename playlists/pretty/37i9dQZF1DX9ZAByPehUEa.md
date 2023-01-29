@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,440 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,536 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 41 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 |
 | 42 | [Sometimes The Going Gets A Little Tough \- Mella Dee Going Got A Bit Tougher Mix](https://open.spotify.com/track/0sseNUohdOMxlKtLHGxNH1) | [Finn](https://open.spotify.com/artist/4p8fvQcLMWToTpmezUb8T5), [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Sometimes The Going Gets A Little Tough](https://open.spotify.com/album/7hk8GE39ew5hvnrPPlhng9) | 5:39 |
 | 43 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
-| 44 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
-| 45 | [Celebration](https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celebration](https://open.spotify.com/album/69TDYss3NTUG1MlHq1AkvK) | 2:39 |
+| 44 | [Celebration](https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celebration](https://open.spotify.com/album/69TDYss3NTUG1MlHq1AkvK) | 2:39 |
+| 45 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
 | 46 | [Emotion](https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 3:04 |
 | 47 | [Life Is A Dancefloor \(feat\. Kimberly Davis\)](https://open.spotify.com/track/3hrN93f0xTIsejwDB3avn6) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Life Is A Dancefloor \(feat\. Kimberly Davis\)](https://open.spotify.com/album/2UzDkeFYB2PkXUDq192KbP) | 3:59 |
 | 48 | [Your Good Times Are Here](https://open.spotify.com/track/7tAGnxLiQTU0EjezyOjUj2) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Your Good Times Are Here](https://open.spotify.com/album/6nEU8r105q0illnVY0ypDh) | 4:45 |
 | 49 | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/track/6seDjSbkqKkOUsHjhhHMJw) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ) | [Surrender \(feat\. PRICIE\)](https://open.spotify.com/album/37hBfo5a5MO72OgX37K3KC) | 3:57 |
 | 50 | [The Chant](https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [The Chant](https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb) | 3:06 |
 
-Snapshot ID: `MTY3MzYxMzk4NSwwMDAwMDAwMGI2NjY2MWU0MGE1YzEwZWJmNzI2OWEyOTVlY2NjZWVm`
+Snapshot ID: `MTY3MzYxMzk4NSwwMDAwMDAwMDFkOTdlNTY2NWVhZmVlMTQzZWM1ZGQ0ZmI0ODUwZDdh`

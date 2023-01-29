@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,911 likes - 178 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,964 likes - 178 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 17 | [the world could end with you](https://open.spotify.com/track/4O5GWwr8fvgcJyYiEBEX0q) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [the world could end with you](https://open.spotify.com/album/06m5H2iiYxVwxCFQZOKZDE) | 3:00 |
 | 18 | [聽海浪](https://open.spotify.com/track/7nlBO1PoiiB5rjro96w35l) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [Midnight.](https://open.spotify.com/artist/0hLugf4oCj37Z2o5Y3Dg6o) | [Bluesea EP \(Extended Version\)](https://open.spotify.com/album/3mQOhYbV2Q7TulGiPcXZzK) | 3:32 |
 | 19 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 |
-| 20 | [Bolso Cheio](https://open.spotify.com/track/0GxgXhS6PEKC3qMrKN10Lm) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Ws da Igrejinha](https://open.spotify.com/artist/0PJWU4ftN3mPM4LPozLgJf), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Bolso Cheio](https://open.spotify.com/album/0x0fS6Y6jFD1YIGicSAO83) | 2:27 |
+| 20 | [Bolso Cheio](https://open.spotify.com/track/0GxgXhS6PEKC3qMrKN10Lm) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk) | [Bolso Cheio](https://open.spotify.com/album/0x0fS6Y6jFD1YIGicSAO83) | 2:27 |
 | 21 | [Wish](https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [You \(Are\) Mean a Lot to Me](https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq) | 4:31 |
 | 22 | [想了妳6次](https://open.spotify.com/track/0z81zrkn4dqmRLJpRePjYc) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [想了妳6次](https://open.spotify.com/album/4n3QnqVIEmJe0B2aZAlrk8) | 3:43 |
 | 23 | [hometonone](https://open.spotify.com/track/2r3QRuErB1Lgck5CqI2KH4) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [hometonone](https://open.spotify.com/album/1uadeW46GYVBfUsqtK45in) | 2:58 |

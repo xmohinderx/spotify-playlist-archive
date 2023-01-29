@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Stryper
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,751 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,832 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 20 | [See No Evil, Hear No Evil](https://open.spotify.com/track/7A61G3HRgUWZJEgcuS05n6) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [See No Evil, Hear No Evil](https://open.spotify.com/album/1h0WWO7QEbyIztxbalxp23) | 4:54 |
 | 21 | [Dreamcatcher](https://open.spotify.com/track/41LmGmVK8KAQ7QIIhMvOtX) | [Night Argent](https://open.spotify.com/artist/2juQ07Q8H8FEFzrP0SBGid) | [The Fear](https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1) | 3:23 |
 | 22 | [What Else You Got?](https://open.spotify.com/track/2d1feQVlJUOJBMhbxltBRO) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Legacy](https://open.spotify.com/album/0oCKybhWiSlHxy9V2YQlvk) | 2:46 |
-| 23 | [Hidden](https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Hidden](https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP) | 2:48 |
-| 24 | [Lazarus](https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP) | [Bellarive](https://open.spotify.com/artist/65NvBV0QogJroXpNLUTJyX) | [Before There Was](https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX) | 5:04 |
+| 23 | [Lazarus](https://open.spotify.com/track/4Ku8uqOCqyxCf99iI3OLHP) | [Bellarive](https://open.spotify.com/artist/65NvBV0QogJroXpNLUTJyX) | [Before There Was](https://open.spotify.com/album/5OFTKeciwZwpxna07JM5YX) | 5:04 |
+| 24 | [Hidden](https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Hidden](https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP) | 2:48 |
 | 25 | [Ashes to Ashes](https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [The Final Battle](https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy) | 3:53 |
 | 26 | [Cold Winter Sun](https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Outlive](https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn) | 3:25 |
 | 27 | [Panic Room \(featuring Andrew Schwab\)](https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO), [Andrew Schwab](https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc) | [Love Letter Kill Shot](https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM) | 4:29 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 48 | [Undefeated](https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK) | 3:06 |
 | 49 | [Coming Clean](https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8) | [Attalus](https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ) | [Into the Sea](https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr) | 4:05 |
 | 50 | [Balconies](https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo) | [Paper Route](https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID) | [Real Emotion](https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL) | 4:14 |
-| 51 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 |
-| 52 | [No Altars](https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [No Altars](https://open.spotify.com/album/4wuEPH40N55PRNsTPO7Kb9) | 3:29 |
+| 51 | [No Altars](https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [No Altars](https://open.spotify.com/album/4wuEPH40N55PRNsTPO7Kb9) | 3:29 |
+| 52 | [No Fear In Love](https://open.spotify.com/track/2NXKrBVJYAvVLUPm5lMPaE) | [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL), [White Flag](https://open.spotify.com/artist/1Kb1JBQgQyAVncGfPetaKg) | [No Fear In Love](https://open.spotify.com/album/5zmejejlQErGrI0qDJiXoS) | 8:35 |
 | 53 | [Fame](https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy), [Ryan Kirby](https://open.spotify.com/artist/5c7kIPIxZYfBEVo087KF4h) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 3:57 |
 | 54 | [What I've Become](https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [What I've Become](https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh) | 3:24 |
 | 55 | [Feel](https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK) | [House of Heroes](https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB) | [Colors](https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I) | 3:20 |
 | 56 | [Fear](https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Pain](https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm) | 3:45 |
-| 57 | [DEFENSE MECHANISM](https://open.spotify.com/track/0VmGPLjGJCFpU3cac3k4t7) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Max Cavalera](https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf) | [DEFENSE MECHANISM](https://open.spotify.com/album/1ZBVbt7Kf8oEDABJyu4BlR) | 3:37 |
+| 57 | [GODLESS](https://open.spotify.com/track/5hQYAOxNmbCtiA8Gt5hJAm) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Richie Faulkner](https://open.spotify.com/artist/2L4LdKZ3irp0KZ8ICiSXxS) | [GODLESS](https://open.spotify.com/album/04lvWoFp95y8I89lNt3anU) | 4:54 |
 | 58 | [Burn Back the Sun](https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Acoustic \- EP](https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA) | 3:59 |
 | 59 | [Still Alive](https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Still Alive](https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3) | 3:19 |
 | 60 | [Deadweight](https://open.spotify.com/track/5FtSStkfgWaSbf7vN1CPR5) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Deadweight](https://open.spotify.com/album/2rDc9fiNUDMFsvBdTCjWDK) | 3:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 79 | [Anger](https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Anger](https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb) | 6:16 |
 | 80 | [Voices](https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed) | [The Protest](https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA) | [Death Stare](https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i) | 4:08 |
 
-Snapshot ID: `MTY2NzAyNzU2NCwwMDAwMDAwMGExMTk5ODlmYjFhZTNlMWM4YTY4NDFmZmRkMjA5YjM2`
+Snapshot ID: `MTY2NzAyNzU2NCwwMDAwMDAwMGZmMDMyNzk0YjM2NjI0Mjg4Yjc4MWJiOTdmYWQ4MGUw`

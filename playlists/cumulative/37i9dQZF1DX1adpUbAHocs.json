@@ -912,7 +912,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 160600,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/5sA7NCo4bHH9stpolSymvz"
@@ -1138,6 +1138,24 @@
       "duration_ms": 243769,
       "name": "Domino",
       "url": "https://open.spotify.com/track/00Z9EPuVs8hpWTn6Cd6wfR"
+    },
+    {
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182066,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/2q9YHakYN697yPpEitqybk"
     },
     {
       "album": {

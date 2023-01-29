@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 
 > This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,907 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,915 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,19 +39,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 29 | [¿Dónde Estás?](https://open.spotify.com/track/4RrC1R2b99DVjAlP8JGU0A) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 3:38 |
 | 30 | [Ramillete de Piernas](https://open.spotify.com/track/1yk3xlOeP5rOY4dRxTuvra) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 5:44 |
 | 31 | [Estoy Ardiendo](https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:16 |
-| 32 | [La Cita](https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:23 |
-| 33 | [Blues para Trabajar \- En Vivo](https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo en el Teatro Isabela Corona, Vol\. 2](https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3) | 3:10 |
+| 32 | [Blues para Trabajar \- En Vivo](https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo en el Teatro Isabela Corona, Vol\. 2](https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3) | 3:10 |
+| 33 | [La Cita](https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:23 |
 | 34 | [Me Gusta Tu Chava](https://open.spotify.com/track/3WG2OHf4oB8eyuVEnyaD6K) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Presente: Mi Legado](https://open.spotify.com/album/3s3Dr7yuFo8ogmJ8If3uN5) | 3:26 |
 | 35 | [Pastillas y Cocaína](https://open.spotify.com/track/0FxWqZ0D0XSYoKN5CCCgq2) | [Seguimos Perdiendo](https://open.spotify.com/artist/5Hp12BdkneIJpn6hvxaoHr), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [12 Años de Punkrock..\. Y No Mamadas](https://open.spotify.com/album/3DH1EgwejIGD44XLuhb82r) | 2:57 |
-| 36 | [La Rubia](https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 2:55 |
-| 37 | [Perdóname Mi Amor](https://open.spotify.com/track/7Mtc9v1kK4jZjQmWi155xM) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 2:33 |
+| 36 | [Perdóname Mi Amor](https://open.spotify.com/track/7Mtc9v1kK4jZjQmWi155xM) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 2:33 |
+| 37 | [La Rubia](https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 2:55 |
 | 38 | [Las Encueradas](https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:26 |
 | 39 | [Cayendo](https://open.spotify.com/track/1nRbnhyrtdb7bn7MGWKZrO) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Transmetal](https://open.spotify.com/artist/5r1YlvQfX1TfuSRWzEEPlT) | [Pares y Duetos: Disco 2](https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY) | 4:02 |
 | 40 | [Todas Esas Lagrimas \- En Vivo](https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 5:20 |
 | 41 | [Whatsapp](https://open.spotify.com/track/0IVSQqTNEekbsX0fKyzGPl) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 4:23 |
-| 42 | [Ya No Te Tengo](https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 5:04 |
+| 42 | [Brillando en la Obscuridad](https://open.spotify.com/track/7Lox77Krkm4X8RGoYvdenK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:47 |
 | 43 | [No Me la Acabó](https://open.spotify.com/track/2O6PTggiZQT3kRZ20EIX1v) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 4:07 |
-| 44 | [Brillando en la Obscuridad](https://open.spotify.com/track/7Lox77Krkm4X8RGoYvdenK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:47 |
+| 44 | [Ya No Te Tengo](https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 5:04 |
 | 45 | [Ataque](https://open.spotify.com/track/3SdI7oIwqdpZcwuTf6TqCp) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:48 |
 | 46 | [Te Necesito](https://open.spotify.com/track/4dNTRpVjax3LVUoOeeQEI7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Dr\. Hollywood](https://open.spotify.com/album/5sfutds7qm0iX0CGnmP0Rl) | 5:17 |
 | 47 | [Sola](https://open.spotify.com/track/17VdUtYDyorwyZnIE5NgAW) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 4:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 49 | [Una Vez Mas \- En Vivo](https://open.spotify.com/track/30miTbpiE0lfCiLEEQryYF) | [Sur 16](https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En El Teatro Ferrocarrilero \(En Vivo Vol\. 2\)](https://open.spotify.com/album/3Jt4yEPdiMwXfTUVfOQUtE) | 3:58 |
 | 50 | [¡Vete al Carajo!](https://open.spotify.com/track/6b6IB01M7qXg4WyqD5EQKI) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 3:46 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDA4NzMwMTFlNTdiZDU3YWY3MDA3NzQ3Njk0NDY5NzNiZg==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDAwY2UwMzkxNGNjNjRmNzdkNjUxMGUzZTUyYWE4NDk1MA==`

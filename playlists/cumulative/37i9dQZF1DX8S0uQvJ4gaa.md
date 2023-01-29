@@ -4,7 +4,7 @@
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Cole Swindell
 
-1,584 songs - 3 day 13 hr 42 min
+1,585 songs - 3 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -855,7 +855,8 @@
 | [Man Enough Now \- Radio Edit](https://open.spotify.com/track/5ZcGhTRoqRvN5RoWW1MRg3) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Man Enough Now](https://open.spotify.com/album/0NfZ6OpnTi7tOi97Jw2rPx) | 3:04 | 2019-10-21 | 2020-02-18 |
 | [Man Made](https://open.spotify.com/track/78W8I06nYAyZtjrlZcPptU) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Man Made](https://open.spotify.com/album/6DIfNNLkwspcD82lM2yaU8) | 3:05 | 2022-04-29 | 2022-10-01 |
 | [Man That Hung The Moon](https://open.spotify.com/track/6l4sjMjVl9tOjFqLDK5nvl) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Man That Hung The Moon](https://open.spotify.com/album/6eKcrMO3unD4AWfDv8U9Wk) | 3:30 | 2019-06-15 | 2019-06-23 |
-| [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 | 2022-08-19 |  |
+| [Marry That Girl](https://open.spotify.com/track/3onWmITkM6T6eynH06iJcy) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Let's Do Country Right](https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I) | 3:10 | 2023-01-27 |  |
+| [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 | 2022-08-19 | 2023-01-29 |
 | [Maybe In Another Life](https://open.spotify.com/track/69meckPoEWAVOUXjkp5ShS) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/3xqwpX5JdCFwVTsGRBu3sB) | 4:07 | 2022-04-08 | 2022-08-20 |
 | [Me About Me](https://open.spotify.com/track/7F0fPQWt7E2jjreRSZOdna) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Me About Me](https://open.spotify.com/album/7c4rtMfqOp3DV8wvEhPRRT) | 2:46 | 2020-07-04 | 2020-09-28 |
 | [Me Again](https://open.spotify.com/track/6AlFJsBaTBBJhl1GeMK6E9) | [Karen Waldrup](https://open.spotify.com/artist/6N6LriP68QWmbAw1LEsKXa), [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Me Again](https://open.spotify.com/album/1DQdF8TmtkUHk4dRmNeS4O) | 3:25 | 2019-11-09 | 2019-12-14 |

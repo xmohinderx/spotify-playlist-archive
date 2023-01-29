@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,171 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,184 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 15 | [Rodeo](https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:57 |
 | 16 | [Do It On The Tip \(feat\. City Girls & Hot Girl Meg\)](https://open.spotify.com/track/2993VQSr7a2Dj5hI5xcWG0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Hot Girl Meg](https://open.spotify.com/artist/1ZEqGVxGNeiNyssm83CeKP) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:47 |
 | 17 | [How To Pimp A N\*\*ga](https://open.spotify.com/track/36B9SXT9Pf8mL3F5RyqSAX) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:50 |
-| 18 | [Perfect \(feat\. City Girls\)](https://open.spotify.com/track/0qJ0eDL9Szdylx4kRRCBQD) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Trying To Find My Next Thrill](https://open.spotify.com/album/3l9X9abmztD680Rs0HnT98) | 3:19 |
+| 18 | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0) | 2:52 |
 | 19 | [Jobs](https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:01 |
-| 20 | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0) | 2:52 |
+| 20 | [Perfect \(feat\. City Girls\)](https://open.spotify.com/track/0qJ0eDL9Szdylx4kRRCBQD) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Trying To Find My Next Thrill](https://open.spotify.com/album/3l9X9abmztD680Rs0HnT98) | 3:19 |
 | 21 | [Take Yo Man](https://open.spotify.com/track/5aOpKCKguEnViGOKZxZern) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:56 |
 | 22 | [Peach \(feat\. City Girls\)](https://open.spotify.com/track/1lgQjuwCLFdDIE6yKz0c5R) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [UNDER8ED](https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD) | 2:50 |
 | 23 | [Flewed Out](https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Kitty Talk \(feat\. Quavo, Lil Wayne, & Jack Harlow\) \[Remix\]](https://open.spotify.com/track/4n4yWZbhlyHrgFs9ztg21K) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Kitty Talk \(feat\. Quavo, Lil Wayne, & Jack Harlow\) \[Remix\]](https://open.spotify.com/album/000xZHv6vq55FegQNqELgN) | 3:19 |
 | 50 | [Melanin \(feat\. Lupita Nyong'o, Ester Dean, City Girls, & LA LA\)](https://open.spotify.com/track/5UtN4XWCmeZWsbu5mRpPSQ) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Lupita Nyong'o](https://open.spotify.com/artist/1tAwjP3FOwCCzqLwz44GsW), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [La La](https://open.spotify.com/artist/1RDWIpR1C3uzTp0ZRtYNKk) | [Melanin \(feat\. Lupita Nyong'o, Ester Dean, City Girls, & LA LA\)](https://open.spotify.com/album/0PNfF05nd0te0wodwtcvcn) | 4:29 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDBkYzgzNGI2ZTFlZjkwNGQ1NWM3NjE2ZTBiMmI4NzAwYQ==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDA4ZGJiZGE2NzYzZmNlM2IzY2VmZGY5YTg3ZDczOWUyMw==`

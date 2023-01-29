@@ -1021,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Got Me a Party",
+        "url": "https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk"
+      },
+      "artists": [
+        {
+          "name": "Andy Fairweather Low",
+          "url": "https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140600,
+      "name": "Got Me a Party",
+      "url": "https://open.spotify.com/track/4IxOjrh1QDVQLwcYvrJB0L"
+    },
+    {
+      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/5RGlC4xXZ5IxdySWnCfEnY"
       },
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 205974,
       "name": "Ice Cream and Cigarettes",
       "url": "https://open.spotify.com/track/3gj8kdPWFbNEnBegd20KJJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Hang ten.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,376 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,463 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 20 | [One Another](https://open.spotify.com/track/5gC8P6NwgqxcTYnwml5q5j) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 2:46 |
 | 21 | [Saltwater](https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:07 |
 | 22 | [Dorothy](https://open.spotify.com/track/7jay75cMfpEIyIkkvmemYr) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:06 |
-| 23 | [Drugs](https://open.spotify.com/track/5T545E02gCrnhkPoHXJPxK) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [M.A.G.S.](https://open.spotify.com/album/02lZc0jdze6xKqeXeAWbyg) | 2:14 |
-| 24 | [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 |
+| 23 | [big fat mouth](https://open.spotify.com/track/0ZiGRciYMWrDvCPNM0T21o) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [Wait](https://open.spotify.com/album/7owO1ECjA53Isw9LiIcXKZ) | 3:38 |
+| 24 | [Drugs](https://open.spotify.com/track/5T545E02gCrnhkPoHXJPxK) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [M.A.G.S.](https://open.spotify.com/album/02lZc0jdze6xKqeXeAWbyg) | 2:14 |
 | 25 | [Windows](https://open.spotify.com/track/4gX8uV7Cx0VYsw1nPaL2qC) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/0Y9pFvtCR52aFUxJfKjTMB) | 3:12 |
 | 26 | [Panama](https://open.spotify.com/track/6keyBQK6pA0OApRfM1f0dp) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Naked All the Time](https://open.spotify.com/album/4QcHsIfSbjgNzZmxqfRP7N) | 3:18 |
 | 27 | [Catamaran](https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0) | 3:32 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 36 | [Avant Gardener](https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double EP: A Sea of Split Peas](https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej) | 5:12 |
 | 37 | [City Club](https://open.spotify.com/track/6Ig2iLUX11ZNpI7EBCZqyt) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 3:16 |
 | 38 | [Peace Blossom Boogy](https://open.spotify.com/track/742oWlfJlZRsX6SA2QLRtD) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL) | 3:14 |
-| 39 | [Rocky](https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Rocky](https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur) | 2:46 |
+| 39 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 |
 | 40 | [Talking Backwards](https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 3:07 |
-| 41 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 |
-| 42 | [After the Moment](https://open.spotify.com/track/6OONiDEd0JW4K5wcWxnRX7) | [Craft Spells](https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ) | [Idle Labor](https://open.spotify.com/album/3BTFGccaSVYAHsgBTOL423) | 4:00 |
-| 43 | [Out In The Country](https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Dancin' With Wolves](https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl) | 2:54 |
+| 41 | [Rocky](https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Rocky](https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur) | 2:46 |
+| 42 | [Out In The Country](https://open.spotify.com/track/1FOAgjh0uXXjNTPTwHxZCT) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Dancin' With Wolves](https://open.spotify.com/album/4GFodiOr1aC5Ekr87RhyOl) | 2:54 |
+| 43 | [After the Moment](https://open.spotify.com/track/6OONiDEd0JW4K5wcWxnRX7) | [Craft Spells](https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ) | [Idle Labor](https://open.spotify.com/album/3BTFGccaSVYAHsgBTOL423) | 4:00 |
 | 44 | [Johny Says Stay Cool](https://open.spotify.com/track/6wPXCLMgpEZIt7TNTURGKe) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [The Babe Rainbow](https://open.spotify.com/album/7HD93jBvVa80rJxyxDRwUL) | 2:36 |
 | 45 | [Lucky](https://open.spotify.com/track/7KkaLfkFpMErkarBZivJbP) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Water](https://open.spotify.com/album/5Zqz0ZyO7qdLIvAqaPn2YZ) | 2:33 |
 | 46 | [Fire Flower](https://open.spotify.com/track/2zgpMaaXfVJqUJoMbjmfH2) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Favorite Holiday, Vol\. 1](https://open.spotify.com/album/7Ahoh0X48HbYRJzPQvoIer) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 49 | [Taking up Space](https://open.spotify.com/track/2l0KF9ywMxglacqb7Nb6H0) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Zest Pop](https://open.spotify.com/album/4CvR0TtxnofCq74AiND8kp) | 3:37 |
 | 50 | [Mixed Up and Confused](https://open.spotify.com/track/1bFgm9PdCQeKsEpqOWn1II) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [Lizard Tears](https://open.spotify.com/album/0JiJX1L6MNNqH4614orKV5) | 3:14 |
 
-Snapshot ID: `MTY3NDI1MDMyMCwwMDAwMDAwMDhkZmY0NGVlMDZlM2YxZmI5Y2E2ZDM3YTM2NDgwNzVi`
+Snapshot ID: `MTY3NDI1MDMyMCwwMDAwMDAwMGVmYTRlNWRkOWM5ZGEyZTlhZjVhOTY4N2Y4NGEwNjA0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to Indian women, at full volume\. Cover: Srushti Tawade
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,083 likes - 48 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,173 likes - 48 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

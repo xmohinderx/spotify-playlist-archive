@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: MAVE: \(메이브\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,743 likes - 292 songs - 16 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,959 likes - 292 songs - 16 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 4 | [Back In The Game](https://open.spotify.com/track/4nzlN1G5yYdtkeheCsOmL2) | [Kim Ki Tae](https://open.spotify.com/artist/2DT5Ql0hYDhX2PUF6q15US) | [Back In The Game \(Payback X Kim ki Tae\)](https://open.spotify.com/album/4gqx7y9Z31ZmvIXijb8ehz) | 2:58 |
 | 5 | [Ransom](https://open.spotify.com/track/4EwJ6dnS6yYNclTI4jEsVL) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Ransom with KozyPop](https://open.spotify.com/album/5crK00yxvVXOpmkpsxLavI) | 3:01 |
 | 6 | [Love Lost](https://open.spotify.com/track/3S6rPD9U4esvHwgYe3d1hk) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Love Lost](https://open.spotify.com/album/4RB7FLLcYwNpkdyZdIrEu2) | 3:06 |
-| 7 | [MOONLIGHT SUNRISE \(House remix\)](https://open.spotify.com/track/6D9L6ETDkQOyUI75ebmK3V) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/2LeAF5OEfrQBNGz2sokRIN) | 3:38 |
+| 7 | [MOONLIGHT SUNRISE \(House remix\)](https://open.spotify.com/track/6D9L6ETDkQOyUI75ebmK3V) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE \(The Remixes\)](https://open.spotify.com/album/2LeAF5OEfrQBNGz2sokRIN) | 3:38 |
 | 8 | [Fireworks](https://open.spotify.com/track/5Q42ynmYZN979JiZusBSqz) | [AIMERS](https://open.spotify.com/artist/4U2eZzOZsobt9JHp0znP1L) | [Fireworks \- AIMERS SPECIAL SINGLE](https://open.spotify.com/album/1xgZg5UJ5LqPzcAt5vUYij) | 3:39 |
 | 9 | [Listen](https://open.spotify.com/track/4RFNTlSZ5P3H6gFhFkr994) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Listen](https://open.spotify.com/album/7KbMcDktADsrjGx6nFDccI) | 6:41 |
 | 10 | [I'm Homeless](https://open.spotify.com/track/5jYioe70lpLaSRgyhDA8ZJ) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I'm Homeless](https://open.spotify.com/album/1JAyIVuV1OccG70eLBkWkc) | 2:30 |
@@ -288,7 +288,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 278 | [Ponytail \(Feat\. Sik\-K\)](https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Ponytail](https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0) | 3:25 |
 | 279 | [Everything](https://open.spotify.com/track/6LKKXN9AU570Y88RrQeM1s) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7GwxpetZKbSuTgzGeduh6z) | 3:19 |
 | 280 | [Mother Soccer \(Feat\. SUPERBEE\)](https://open.spotify.com/track/2n78aNxu64c4WtwtexhOmy) | [Yoo Se Yoon](https://open.spotify.com/artist/0Q0e0s8XZbQGe7vBYXnKyl), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Mother Soccer](https://open.spotify.com/album/1QHO3nc9AdC2HpII5dY6nx) | 3:08 |
-| 281 | [We are](https://open.spotify.com/track/7urVxZOTjXnk41uyX7kFOo) | [Kim Ki Tae](https://open.spotify.com/artist/2DT5Ql0hYDhX2PUF6q15US) | [Brain Cooperation \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/7kzPYujOxWaZhNnlKIS5LP) | 3:19 |
+| 281 | [We are](https://open.spotify.com/track/7urVxZOTjXnk41uyX7kFOo) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Brain Cooperation \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/7kzPYujOxWaZhNnlKIS5LP) | 3:19 |
 | 282 | [Monster \(feat.노윤하\)](https://open.spotify.com/track/0MsOPluJ1VgCND8FgQEFBx) | [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [BLACK STREET](https://open.spotify.com/album/14Rb4SqwyoqIIDagxB8Iqm) | 2:36 |
 | 283 | [Let's stay away \(Feat\. AQUINAS\) \(Prod\. Lilkey\)](https://open.spotify.com/track/6k0ApE2WFw3nV1xQrtIZp1) | [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB), [Lilkey](https://open.spotify.com/artist/7p4j1maf48LtHY0NnAKBj4), [AQUINAS](https://open.spotify.com/artist/6icWxBzgVFQXsLJN8uIzCR) | [Let's stay away \(Feat\. AQUINAS\) \(Prod\. Lilkey\)](https://open.spotify.com/album/5Ixd8BpltXP3GiVjwu45KV) | 3:07 |
 | 284 | [Begin to snow](https://open.spotify.com/track/2p45sMAYpkYpk1Oq72ulbK) | [Jo Hwanji](https://open.spotify.com/artist/5akSWTgM0AKiKKfSjEdplh) | [Begin to snow](https://open.spotify.com/album/40uF1cLo4ePEhzbH70rg4V) | 3:24 |

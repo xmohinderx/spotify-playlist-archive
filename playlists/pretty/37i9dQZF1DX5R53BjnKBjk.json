@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer!  Foto: THAIS / Arte: Isu Kim",
-  "num_followers": 14771,
+  "num_followers": 14790,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODU4MCwwMDAwMDAwMDI2ZmYwODUzNjFjMDcxZTViZmMwMTEyODBmMmQ2Zjc3",
+  "snapshot_id": "MTY3NDc4ODU4MCwwMDAwMDAwMDFkMWE0YTk0NTlhYzQ2NDcwMmVkNDBmOGJjZjQ1Nzk1",
   "tracks": [
     {
       "added_at": "2023-01-27 03:03:00",
@@ -155,6 +155,26 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
+        "name": "Rubi",
+        "url": "https://open.spotify.com/album/4mPPWXKxDCobEMiOBtxNE1"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 209577,
+      "name": "Absurda",
+      "url": "https://open.spotify.com/track/4jhTigzWPItapKZ9RP3CWC"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
         "name": "Aquino e a Orquestra Invis\u00edvel",
         "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 160413,
       "name": "Oxi (Dio Mio!)",
       "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
-        "name": "Rubi",
-        "url": "https://open.spotify.com/album/4mPPWXKxDCobEMiOBtxNE1"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 209577,
-      "name": "Absurda",
-      "url": "https://open.spotify.com/track/4jhTigzWPItapKZ9RP3CWC"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Mete o P\u00e9",
-        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 142699,
-      "name": "Mete o P\u00e9",
-      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
         "name": "Futurea",
         "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 166611,
       "name": "Medo de Mim",
       "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Mete o P\u00e9",
+        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 142699,
+      "name": "Mete o P\u00e9",
+      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
+      },
+      "artists": [
+        {
+          "name": "vicro",
+          "url": "https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF"
+        }
+      ],
+      "duration_ms": 230588,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
         "name": "Pe\u00e7o Pra Voc\u00ea",
         "url": "https://open.spotify.com/album/2r1KTbIu4SQDhlYX2jKSwS"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 180440,
       "name": "Pe\u00e7o Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/2gHdwywG9tXQrb06feK7NP"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
-      },
-      "artists": [
-        {
-          "name": "vicro",
-          "url": "https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF"
-        }
-      ],
-      "duration_ms": 230588,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
+        "name": "Nossa Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC"
+      },
+      "artists": [
+        {
+          "name": "Carolina Andrade",
+          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
+        }
+      ],
+      "duration_ms": 160337,
+      "name": "Nossa Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
         "name": "Foi Mal",
         "url": "https://open.spotify.com/album/1IjwOJro5gMK3gNIhbBTXD"
       },
@@ -583,38 +599,6 @@
       "duration_ms": 191826,
       "name": "foda que ela era linda",
       "url": "https://open.spotify.com/track/1pGKEGUMYsHhEdKnE6itcZ"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
-        "name": "Nada (Al\u00e9m de Voc\u00ea)",
-        "url": "https://open.spotify.com/album/6yZfMNvZ0O1V97ilVkGkiy"
-      },
-      "artists": [
-        {
-          "name": "DeLuca",
-          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
-        }
-      ],
-      "duration_ms": 129595,
-      "name": "Nada (Al\u00e9m de Voc\u00ea)",
-      "url": "https://open.spotify.com/track/1Mf03EauuFA4HQBDqFjmiD"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME"
-      },
-      "artists": [
-        {
-          "name": "Nevilton",
-          "url": "https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -635,34 +619,18 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Nossa Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/0HsTY9lcp48a5I36Ylm3hC"
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME"
       },
       "artists": [
         {
-          "name": "Carolina Andrade",
-          "url": "https://open.spotify.com/artist/4wKdZWqP2LmpEU6a1Q876q"
+          "name": "Nevilton",
+          "url": "https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM"
         }
       ],
-      "duration_ms": 160337,
-      "name": "Nossa Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/1noeediw3cEtbwx5xHA3Gz"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
-        "name": "Bady",
-        "url": "https://open.spotify.com/album/6bjoikW93gjnCIhWaOFQWn"
-      },
-      "artists": [
-        {
-          "name": "VIN\u00cdCIUS",
-          "url": "https://open.spotify.com/artist/44SCweqSr4to2xPmyttMK1"
-        }
-      ],
-      "duration_ms": 179686,
-      "name": "Bady",
-      "url": "https://open.spotify.com/track/1N5gwVPnV4qovLJfiLD3Ug"
+      "duration_ms": 211998,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -679,6 +647,38 @@
       "duration_ms": 155750,
       "name": "Voc\u00ea Sabe",
       "url": "https://open.spotify.com/track/0q87XSebhb3julIjgYtFwf"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Nada (Al\u00e9m de Voc\u00ea)",
+        "url": "https://open.spotify.com/album/6yZfMNvZ0O1V97ilVkGkiy"
+      },
+      "artists": [
+        {
+          "name": "DeLuca",
+          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
+        }
+      ],
+      "duration_ms": 129595,
+      "name": "Nada (Al\u00e9m de Voc\u00ea)",
+      "url": "https://open.spotify.com/track/1Mf03EauuFA4HQBDqFjmiD"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Bady",
+        "url": "https://open.spotify.com/album/6bjoikW93gjnCIhWaOFQWn"
+      },
+      "artists": [
+        {
+          "name": "VIN\u00cdCIUS",
+          "url": "https://open.spotify.com/artist/44SCweqSr4to2xPmyttMK1"
+        }
+      ],
+      "duration_ms": 179686,
+      "name": "Bady",
+      "url": "https://open.spotify.com/track/1N5gwVPnV4qovLJfiLD3Ug"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
+        "name": "Embalo",
+        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
+      },
+      "artists": [
+        {
+          "name": "TIRI",
+          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
+        }
+      ],
+      "duration_ms": 201231,
+      "name": "Embalo",
+      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
         "name": "bem vi",
         "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Embalo",
-        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
+        "name": "Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
       },
       "artists": [
         {
-          "name": "TIRI",
-          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
+          "name": "Malu Azevedo",
+          "url": "https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R"
         }
       ],
-      "duration_ms": 201231,
-      "name": "Embalo",
-      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
+      "duration_ms": 201734,
+      "name": "Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -811,22 +827,6 @@
       "duration_ms": 157714,
       "name": "Amor de Sonhos",
       "url": "https://open.spotify.com/track/5TNjnNIoyT7vFCi11ZAXG2"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
-        "name": "Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
-      },
-      "artists": [
-        {
-          "name": "Malu Azevedo",
-          "url": "https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R"
-        }
-      ],
-      "duration_ms": 201734,
-      "name": "Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "YASSIQ",
-        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
-      },
-      "artists": [
-        {
-          "name": "YASSIQ",
-          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
-        }
-      ],
-      "duration_ms": 128771,
-      "name": "AL\u00d4",
-      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
         "name": "Casal Desgra\u00e7a",
         "url": "https://open.spotify.com/album/2wzCQxJVQ2G7x2mV5azI5j"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 163809,
       "name": "Casal Desgra\u00e7a",
       "url": "https://open.spotify.com/track/1RGMYjYw9gAfP5rz8R2ZHV"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "YASSIQ",
+        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
+      },
+      "artists": [
+        {
+          "name": "YASSIQ",
+          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
+        }
+      ],
+      "duration_ms": 128771,
+      "name": "AL\u00d4",
+      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "VERO",
-        "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
-      },
-      "artists": [
-        {
-          "name": "M. Costta",
-          "url": "https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Bom Vivant",
-      "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
         "name": "Ideia Errada",
         "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 239360,
       "name": "Ideia Errada",
       "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "VERO",
+        "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
+      },
+      "artists": [
+        {
+          "name": "M. Costta",
+          "url": "https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Bom Vivant",
+      "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
+        "name": "Voraz",
+        "url": "https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw"
+      },
+      "artists": [
+        {
+          "name": "GAROU\u00c1",
+          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
+        }
+      ],
+      "duration_ms": 131123,
+      "name": "Voraz",
+      "url": "https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
         "name": "Deixa Pra L\u00e1",
         "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
       },
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Voraz",
-        "url": "https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw"
-      },
-      "artists": [
-        {
-          "name": "GAROU\u00c1",
-          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
-        }
-      ],
-      "duration_ms": 131123,
-      "name": "Voraz",
-      "url": "https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
         "name": "Fugitivos",
         "url": "https://open.spotify.com/album/5LuN9WfkZsmzL98d9XVgn9"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 209486,
       "name": "Fugitivos",
       "url": "https://open.spotify.com/track/0GiAndY0CP81poxiLL1Zwk"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Gali Gal\u00f3",
+        "url": "https://open.spotify.com/album/2CUJ9wMHidLaX2UI2K3JQ9"
+      },
+      "artists": [
+        {
+          "name": "Gali Gal\u00f3",
+          "url": "https://open.spotify.com/artist/372WeNRZmHpz2kfrUcmLB8"
+        }
+      ],
+      "duration_ms": 176030,
+      "name": "Tr\u00eas passinhos da derrota",
+      "url": "https://open.spotify.com/track/2rhu7HUF5FVzVPb5eNPrMQ"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Gali Gal\u00f3",
-        "url": "https://open.spotify.com/album/2CUJ9wMHidLaX2UI2K3JQ9"
-      },
-      "artists": [
-        {
-          "name": "Gali Gal\u00f3",
-          "url": "https://open.spotify.com/artist/372WeNRZmHpz2kfrUcmLB8"
-        }
-      ],
-      "duration_ms": 176030,
-      "name": "Tr\u00eas passinhos da derrota",
-      "url": "https://open.spotify.com/track/2rhu7HUF5FVzVPb5eNPrMQ"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
         "name": "delirar",
         "url": "https://open.spotify.com/album/5KUA9QuMvjEyh3rw7a7lZD"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Hortel\u00e3",
-        "url": "https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y"
-      },
-      "artists": [
-        {
-          "name": "leffs",
-          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Hortel\u00e3",
-      "url": "https://open.spotify.com/track/1thjFFcnXI3r8W89oVewce"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
         "name": "Al\u00edvio",
         "url": "https://open.spotify.com/album/5zyqo7eSAZlcP6ecgZw4Lb"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 191097,
       "name": "Al\u00edvio",
       "url": "https://open.spotify.com/track/0KnIk3stzRxOvb5LPLqmVt"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Hortel\u00e3",
+        "url": "https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y"
+      },
+      "artists": [
+        {
+          "name": "leffs",
+          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Hortel\u00e3",
+      "url": "https://open.spotify.com/track/1thjFFcnXI3r8W89oVewce"
     },
     {
       "added_at": "2023-01-27 03:03:00",

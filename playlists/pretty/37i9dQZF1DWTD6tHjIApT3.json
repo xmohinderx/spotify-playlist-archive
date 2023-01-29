@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u845b\u8c37\u8449\u5b50",
-  "num_followers": 90820,
+  "num_followers": 90844,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc0NTIwMCwwMDAwMDAwMDlmM2U4NjA5YjMwM2IyN2MxYzc5MzU4Y2IwNTIxZWQz",
+  "snapshot_id": "MTY3NDc0NTIwMCwwMDAwMDAwMDdjZmM0YWZmYzFjOTdjYzFkMjU0MjAxMjcxYjM4ZTYy",
   "tracks": [
     {
       "added_at": "2023-01-26 15:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-01-26 15:00:00",
       "album": {
+        "name": "It Might Be Painful, but I Still Love It.",
+        "url": "https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy"
+      },
+      "artists": [
+        {
+          "name": "TUYU",
+          "url": "https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl"
+        }
+      ],
+      "duration_ms": 204999,
+      "name": "It Might Be Painful, but I Still Love It.",
+      "url": "https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8"
+    },
+    {
+      "added_at": "2023-01-26 15:00:00",
+      "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/0CMNaKAR32gEqnA2Cfcbje"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 227432,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/3FONlTFe8EZ3L8FaVFz1es"
-    },
-    {
-      "added_at": "2023-01-26 15:00:00",
-      "album": {
-        "name": "TOKYO 4AM",
-        "url": "https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 201295,
-      "name": "TOKYO 4AM",
-      "url": "https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N"
     },
     {
       "added_at": "2023-01-26 15:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-01-26 15:00:00",
       "album": {
-        "name": "It Might Be Painful, but I Still Love It.",
-        "url": "https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy"
+        "name": "TOKYO 4AM",
+        "url": "https://open.spotify.com/album/0mpL0xIydKRXWdL1UcDh0X"
       },
       "artists": [
         {
-          "name": "TUYU",
-          "url": "https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl"
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 204999,
-      "name": "It Might Be Painful, but I Still Love It.",
-      "url": "https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8"
+      "duration_ms": 201295,
+      "name": "TOKYO 4AM",
+      "url": "https://open.spotify.com/track/3lbZM8EtM1dnZDunARwI1N"
     },
     {
       "added_at": "2023-01-26 15:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-01-26 15:00:00",
       "album": {
-        "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
-        "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
-      },
-      "artists": [
-        {
-          "name": "KOH+",
-          "url": "https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
-      "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
-    },
-    {
-      "added_at": "2023-01-26 15:00:00",
-      "album": {
         "name": "Every Wish Deserves a Dream",
         "url": "https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 231231,
       "name": "Every Wish Deserves a Dream",
       "url": "https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs"
+    },
+    {
+      "added_at": "2023-01-26 15:00:00",
+      "album": {
+        "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
+        "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
+      },
+      "artists": [
+        {
+          "name": "KOH+",
+          "url": "https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
+      "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
     },
     {
       "added_at": "2023-01-26 15:00:00",
@@ -1267,8 +1267,24 @@
     {
       "added_at": "2023-01-26 15:00:00",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
+        "name": "WHOOPEE",
+        "url": "https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "TRUMAN",
+      "url": "https://open.spotify.com/track/22ddh4soKM3Soz0SMHzlAP"
+    },
+    {
+      "added_at": "2023-01-26 15:00:00",
+      "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/4wZ0NCTh8KTgVpcRVhgtxC"
       },
       "artists": [
         {
@@ -1276,9 +1292,9 @@
           "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
         }
       ],
-      "duration_ms": 249227,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
+      "duration_ms": 299953,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/6fG24wG9t0J1J8pFOibRoh"
     },
     {
       "added_at": "2023-01-26 15:00:00",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2023-01-26 15:00:00",
       "album": {
-        "name": "WHOOPEE",
-        "url": "https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK"
-      },
-      "artists": [
-        {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "TRUMAN",
-      "url": "https://open.spotify.com/track/22ddh4soKM3Soz0SMHzlAP"
-    },
-    {
-      "added_at": "2023-01-26 15:00:00",
-      "album": {
         "name": "Hikare Inochi",
         "url": "https://open.spotify.com/album/18uE4ky7hhYtS1j9QY7p14"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-01-26 15:00:00",
       "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/4wZ0NCTh8KTgVpcRVhgtxC"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 299953,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/6fG24wG9t0J1J8pFOibRoh"
-    },
-    {
-      "added_at": "2023-01-26 15:00:00",
-      "album": {
         "name": "\u6ce3\u304d\u7b11\u3044\u611b",
         "url": "https://open.spotify.com/album/4FSm60IM7awkVas4TdkabB"
       },
@@ -1391,6 +1375,42 @@
       "duration_ms": 171780,
       "name": "\u6ce3\u304d\u7b11\u3044\u611b",
       "url": "https://open.spotify.com/track/6qdo8EgK8iWJdIzbLtgdBc"
+    },
+    {
+      "added_at": "2023-01-26 15:00:00",
+      "album": {
+        "name": "\u82b1\u706b",
+        "url": "https://open.spotify.com/album/71ZX3oj5ZvktSUKVuuavi9"
+      },
+      "artists": [
+        {
+          "name": "Tielle",
+          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
+        }
+      ],
+      "duration_ms": 271889,
+      "name": "\u82b1\u706b",
+      "url": "https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs"
+    },
+    {
+      "added_at": "2023-01-26 15:00:00",
+      "album": {
+        "name": "\u96e8\u6a21\u69d8",
+        "url": "https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5"
+      },
+      "artists": [
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Penoreri",
+          "url": "https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK"
+        }
+      ],
+      "duration_ms": 147437,
+      "name": "\u96e8\u6a21\u69d8",
+      "url": "https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX"
     },
     {
       "added_at": "2023-01-26 15:00:00",
@@ -1419,38 +1439,18 @@
     {
       "added_at": "2023-01-26 15:00:00",
       "album": {
-        "name": "Get High",
-        "url": "https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK"
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
       },
       "artists": [
         {
-          "name": "chilldspot",
-          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
         }
       ],
-      "duration_ms": 220098,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB"
-    },
-    {
-      "added_at": "2023-01-26 15:00:00",
-      "album": {
-        "name": "\u96e8\u6a21\u69d8",
-        "url": "https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5"
-      },
-      "artists": [
-        {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
-        },
-        {
-          "name": "Penoreri",
-          "url": "https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK"
-        }
-      ],
-      "duration_ms": 147437,
-      "name": "\u96e8\u6a21\u69d8",
-      "url": "https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX"
+      "duration_ms": 249227,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
     },
     {
       "added_at": "2023-01-26 15:00:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-01-26 15:00:00",
       "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/1H2xGnSFOfAEFSwosFDmBN"
+        "name": "Get High",
+        "url": "https://open.spotify.com/album/1vyUAdY2zcg4r5ZwIdBNaK"
       },
       "artists": [
         {
-          "name": "Tielle",
-          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
         }
       ],
-      "duration_ms": 262000,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/4mQhIl8Cynxh8zfaquBmux"
+      "duration_ms": 220098,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/4dvDMK8wf5iHucQrjEEgDB"
     },
     {
       "added_at": "2023-01-26 15:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-01-26 15:00:00",
       "album": {
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/1H2xGnSFOfAEFSwosFDmBN"
+      },
+      "artists": [
+        {
+          "name": "Tielle",
+          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4mQhIl8Cynxh8zfaquBmux"
+    },
+    {
+      "added_at": "2023-01-26 15:00:00",
+      "album": {
         "name": "Deep down",
         "url": "https://open.spotify.com/album/1YSluMFx67PoAuWIMAEXEh"
       },
@@ -1515,6 +1531,26 @@
       "duration_ms": 238466,
       "name": "rubble pile",
       "url": "https://open.spotify.com/track/0kQrcW11G95tsTtR9JvFve"
+    },
+    {
+      "added_at": "2023-01-26 15:00:00",
+      "album": {
+        "name": "LOVE CYCLE",
+        "url": "https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK"
+      },
+      "artists": [
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        },
+        {
+          "name": "Taka",
+          "url": "https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Victim of Love - feat. Taka",
+      "url": "https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED"
     },
     {
       "added_at": "2023-01-26 15:00:00",
@@ -1567,22 +1603,22 @@
     {
       "added_at": "2023-01-26 15:00:00",
       "album": {
-        "name": "LOVE CYCLE",
-        "url": "https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK"
+        "name": "\u661f\u306e\u30af\u30ba \u03b1",
+        "url": "https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0"
       },
       "artists": [
         {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+          "name": "Salyu",
+          "url": "https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W"
         },
         {
-          "name": "Taka",
-          "url": "https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B"
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Victim of Love - feat. Taka",
-      "url": "https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED"
+      "duration_ms": 303627,
+      "name": "\u661f\u306e\u30af\u30ba \u03b1",
+      "url": "https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf"
     },
     {
       "added_at": "2023-01-26 15:00:00",
@@ -1603,22 +1639,6 @@
     {
       "added_at": "2023-01-26 15:00:00",
       "album": {
-        "name": "heart notes",
-        "url": "https://open.spotify.com/album/1YRSs91sqZnHtRAqongeBJ"
-      },
-      "artists": [
-        {
-          "name": "\u9234\u6728\u611b\u7406",
-          "url": "https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h"
-        }
-      ],
-      "duration_ms": 257206,
-      "name": "heart notes",
-      "url": "https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0"
-    },
-    {
-      "added_at": "2023-01-26 15:00:00",
-      "album": {
         "name": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb / \u934b\u5949\u884c",
         "url": "https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j"
       },
@@ -1635,18 +1655,18 @@
     {
       "added_at": "2023-01-26 15:00:00",
       "album": {
-        "name": "\u82b1\u706b",
-        "url": "https://open.spotify.com/album/71ZX3oj5ZvktSUKVuuavi9"
+        "name": "Hurricanes",
+        "url": "https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz"
       },
       "artists": [
         {
-          "name": "Tielle",
-          "url": "https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 271889,
-      "name": "\u82b1\u706b",
-      "url": "https://open.spotify.com/track/0lXSxGipkxwFguOY8AoeKs"
+      "duration_ms": 202856,
+      "name": "Hurricanes",
+      "url": "https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao"
     },
     {
       "added_at": "2023-01-26 15:00:00",
@@ -1663,22 +1683,6 @@
       "duration_ms": 163317,
       "name": "\u4e88\u611f",
       "url": "https://open.spotify.com/track/4tKrrFD7CQt8fPU7qUmV5E"
-    },
-    {
-      "added_at": "2023-01-26 15:00:00",
-      "album": {
-        "name": "Hurricanes",
-        "url": "https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 202856,
-      "name": "Hurricanes",
-      "url": "https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao"
     }
   ],
   "unique_name": "Women's Voice",

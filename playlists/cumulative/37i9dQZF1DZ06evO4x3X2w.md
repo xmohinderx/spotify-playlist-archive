@@ -4,7 +4,7 @@
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-88 songs - 6 hr 23 min
+91 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,12 +38,14 @@
 | [F.I.N.E.](https://open.spotify.com/track/2Dw17OjuW3d6PscCqf6D1I) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 4:09 | 2023-01-03 |  |
 | [Falling In Love \(Is Hard On The Knees\)](https://open.spotify.com/track/1oBTw7IkWnEUxiestsAD1V) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 3:25 | 2022-09-17 | 2023-01-27 |
 | [Falling In Love \(Is Hard On The Knees\)](https://open.spotify.com/track/798M8UpxnEqKotUBuiDqhR) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 3:25 | 2023-01-26 |  |
-| [Fly Away From Here](https://open.spotify.com/track/4QB2cdh2v5zeRD1khGF9A5) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb) | 5:01 | 2022-09-17 |  |
+| [Fly Away From Here](https://open.spotify.com/track/4QB2cdh2v5zeRD1khGF9A5) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/6yRJAw8rbqn8dJVw1nxYWb) | 5:01 | 2022-09-17 | 2023-01-29 |
+| [Fly Away From Here](https://open.spotify.com/track/5PxQhGYkbGXzjOLaUfAYMf) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Just Push Play](https://open.spotify.com/album/4kfZkERMglR9oQHU3ioAHC) | 5:02 | 2023-01-28 |  |
 | [Full Circle](https://open.spotify.com/track/3J36VgHD5KvlNR7NinNph5) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 5:00 | 2022-09-17 | 2023-01-28 |
 | [Full Circle](https://open.spotify.com/track/4lv7AOF6HTL0xsrp57tvOq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 5:00 | 2023-01-27 |  |
 | [Girls of Summer](https://open.spotify.com/track/5hmZHlQiPUMUKBtYmtZqAt) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Essential Aerosmith](https://open.spotify.com/album/6qVrPDFldH0jxhALHppFQU) | 3:13 | 2022-09-17 | 2023-01-13 |
 | [Hangman Jury](https://open.spotify.com/track/05eJthbLhxvnWvB3XF9HaQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:33 | 2022-09-20 |  |
-| [Hole In My Soul](https://open.spotify.com/track/7kPuCwBWgXy5TGfgwNUKwV) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 6:10 | 2022-09-17 |  |
+| [Hole In My Soul](https://open.spotify.com/track/7kPuCwBWgXy5TGfgwNUKwV) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 6:10 | 2022-09-17 | 2023-01-29 |
+| [Hole In My Soul](https://open.spotify.com/track/7ornLs8NlxZ95IDWTyBIEj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 6:10 | 2023-01-28 |  |
 | [Home Tonight](https://open.spotify.com/track/5btAcDEgNCJDrfmINA4Qrn) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 3:16 | 2022-09-17 | 2022-10-13 |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 | 2023-01-19 |  |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/4GYrE0hDKjM0v6EQIjkBV3) | 4:59 | 2022-09-17 | 2023-01-20 |
@@ -67,7 +69,8 @@
 | [No More No More](https://open.spotify.com/track/1oN1BiBoHTmiXRfuSgDMRd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 | 2022-09-20 | 2023-01-27 |
 | [One Way Street](https://open.spotify.com/track/3ZqnF9T5vtvIPqHmloNb0o) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 7:00 | 2022-11-27 | 2023-01-27 |
 | [One Way Street](https://open.spotify.com/track/06ql7n0Wz0QLSFb9hWF3v1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 7:02 | 2023-01-26 |  |
-| [Pink](https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 3:55 | 2022-09-17 |  |
+| [Pink](https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 3:55 | 2022-09-17 | 2023-01-29 |
+| [Pink](https://open.spotify.com/track/0Xl2pAlIRE6ANULPdEI7fx) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 3:55 | 2023-01-28 |  |
 | [Rag Doll](https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 | 2022-09-17 |  |
 | [Reefer Head Woman](https://open.spotify.com/track/58wkIWSCm3QXa5xlND4gl9) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [1971: The Road Starts Hear](https://open.spotify.com/album/1TEsUEdGcXTXyRmqv3u2iO) | 5:37 | 2022-09-17 | 2022-11-21 |
 | [Remember \(Walking In The Sand\)](https://open.spotify.com/track/4AFHB8laVETw8ruPZscDbe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Night In The Ruts](https://open.spotify.com/album/19MVMst4XtFfzLy0z2aKUF) | 4:04 | 2022-09-30 | 2022-10-02 |

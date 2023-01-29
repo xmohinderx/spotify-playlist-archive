@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 119206,
       "name": "CINDY",
       "url": "https://open.spotify.com/track/2MvIexkUblP1QdpBzKot3N"
@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -4933,6 +4933,28 @@
     },
     {
       "album": {
+        "name": "HAYIR",
+        "url": "https://open.spotify.com/album/2hWeZlMbzNGdSAZo33Pahi"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        },
+        {
+          "name": "Eftalya Ya\u011fc\u0131",
+          "url": "https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141860,
+      "name": "HAYIR",
+      "url": "https://open.spotify.com/track/2V4rAqDOrVzthQXJ0PpoNW"
+    },
+    {
+      "album": {
         "name": "Hayrola",
         "url": "https://open.spotify.com/album/5nEbYpL2jivoHAmYEG5bbD"
       },
@@ -6142,7 +6164,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 178520,
       "name": "Kendileri",
       "url": "https://open.spotify.com/track/2zI5Vxd2X12f0S9LiQcyOy"
@@ -6456,6 +6478,24 @@
       "duration_ms": 235651,
       "name": "Kuytu K\u00f6\u015felerde",
       "url": "https://open.spotify.com/track/145jqpXnJcombk47TB8305"
+    },
+    {
+      "album": {
+        "name": "Ku\u011fulu Park",
+        "url": "https://open.spotify.com/album/49AzrOfIeUI1fFQsqAiHPt"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211040,
+      "name": "Ku\u011fulu Park",
+      "url": "https://open.spotify.com/track/4BeGu2WQNlpiREpmWGHD8U"
     },
     {
       "album": {
@@ -8322,7 +8362,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 133369,
       "name": "Papatya",
       "url": "https://open.spotify.com/track/47U5AMz7woJyKLHxS0O2ls"
@@ -9566,7 +9606,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 150004,
       "name": "Sevmi\u015f Gibi",
       "url": "https://open.spotify.com/track/4NeOAItkkLHPOw35eDdGQo"
@@ -11418,6 +11458,24 @@
       "duration_ms": 166906,
       "name": "\u00d6pt\u00fcm Nefesinden",
       "url": "https://open.spotify.com/track/2ReOPzZ5eaKbZjLhlMjxDT"
+    },
+    {
+      "album": {
+        "name": "\u00d6z\u00fcr",
+        "url": "https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg"
+      },
+      "artists": [
+        {
+          "name": "Haloday\u0131",
+          "url": "https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135416,
+      "name": "\u00d6z\u00fcr",
+      "url": "https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi"
     },
     {
       "album": {

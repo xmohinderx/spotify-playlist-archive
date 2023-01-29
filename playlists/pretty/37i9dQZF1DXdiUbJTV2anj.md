@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: Faetooth
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,630 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,837 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 17 | [Exoskeleton](https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Myriad](https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC) | 4:34 |
 | 18 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 |
 | 19 | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/track/1FjenYfXVnQprQ0X5OWofT) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Fakin' Tha Funk \(You Get Did\)](https://open.spotify.com/album/2EAvdBjYRXRijWfmTMgfEW) | 1:18 |
-| 20 | [Swollen Teeth](https://open.spotify.com/track/2dehX9M8cr21ggWNwkJgD7) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [Swollen Teeth](https://open.spotify.com/album/53lOgAt8FCTfTYkOZzFnz7) | 2:59 |
+| 20 | [SWOLLENTEETH](https://open.spotify.com/track/2dehX9M8cr21ggWNwkJgD7) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [SWOLLENTEETH](https://open.spotify.com/album/53lOgAt8FCTfTYkOZzFnz7) | 2:59 |
 | 21 | [Cliffhanger](https://open.spotify.com/track/6s7W6LpXeL6MXNSwbXr772) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/6Lj1gahDRuya3EGF23KVSr) | 2:36 |
 | 22 | [A Fly on the Wall \(Nobody is Home\)](https://open.spotify.com/track/6dpyMuO35p1DMpxk3GNrCV) | [We Weren't Invited](https://open.spotify.com/artist/484CN86xjq6HfQv21USxVa) | [Flesh Vehicle, Pt\. 2](https://open.spotify.com/album/2lWsY39nOBqKeV5HKsIlXf) | 4:34 |
 | 23 | [Thinking About The Immortality Of The Crab](https://open.spotify.com/track/0xQPg3JWj1Sb5FFzeVvPDc) | [The Holy Ghost Tabernacle Choir](https://open.spotify.com/artist/2kxwiJIwlucn6VobGQLhul) | [Thinking About The Immortality Of The Crab](https://open.spotify.com/album/7nVjrWv2SnmcQGD6aUYszS) | 1:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,846 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,873 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 51 | [Eruyt Village](https://open.spotify.com/track/0JNorLMJ9CR3wcFp7t2gJM) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 4:13 |
 | 52 | [Sultana Dreaming](https://open.spotify.com/track/72XCIYkEtLwUYU911iGduu) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [A REALM REBORN: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/3UcKmJyD3aWgwZ6OlQemJQ) | 7:05 |
 | 53 | [CRISIS CORE Theme \- Under the Apple Tree](https://open.spotify.com/track/3LHo1P0OTS3u9INCq42xnr) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 4:02 |
-| 54 | [Opening](https://open.spotify.com/track/2ega5twcEqXE03JPv2UhuW) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:09 |
-| 55 | [Plains of Eternity](https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:36 |
+| 54 | [Plains of Eternity](https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT) | [Joelle](https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 3:36 |
+| 55 | [Opening](https://open.spotify.com/track/2ega5twcEqXE03JPv2UhuW) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:09 |
 | 56 | [FINAL FANTASY XIII\-2 \- Wishes \-](https://open.spotify.com/track/50BlgWI61TOVUE1Pc37yKm) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 1:56 |
 | 57 | [Run !!](https://open.spotify.com/track/1jcYcW06CNvqtWoZrd8LdV) | [Junya Nakano](https://open.spotify.com/artist/6MmPy3kU5brlgFNlQP5ACa) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:40 |
 | 58 | [Home Sweet Home \- Theme of EPISODE PROMPTO](https://open.spotify.com/track/7ko7gRGHntBuoK3kypwTnT) | [Naoshi Mizuta](https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnGFRu5xvi8.md) - [plain]
 | 99 | [Answers](https://open.spotify.com/track/1aXqHzRaSr9obayyq6Xg6b) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Before Meteor: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/0z7zOKNRHFIBwbuQttQQVc) | 7:08 |
 | 100 | [Dragonsong](https://open.spotify.com/track/0UVvQQdoeJeH7aDcgh9dVL) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Heavensward: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/6ok6JQ4pIIdniVz3lZHOoC) | 5:42 |
 
-Snapshot ID: `MTYxNDg2Nzg4MCwwMDAwMDAwMGZkNDBmZmQ3MWYwNzEwZGNhOTk3MzA3NTI3N2FkNDg0`
+Snapshot ID: `MTYxNDg2Nzg4MCwwMDAwMDAwMDZhNTE5ODBmNjJlMDQ4NDZmYjg5MjExMzYxYmVkZDNk`

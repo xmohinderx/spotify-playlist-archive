@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,638 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,068 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 29 | [No Wind Resistance SPED UP!](https://open.spotify.com/track/4UsLaffcP013Gy8SSSTAsq) | [Kinneret](https://open.spotify.com/artist/5pnHmnSlN4hJqjG3VWtdYJ) | [No Wind Resistance SPED UP!](https://open.spotify.com/album/5QOIpTHNCMfnDJSXU2pCv1) | 2:45 |
 | 30 | [BABYDOLL \(Speed\)](https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [BABYDOLL \(Speed\)](https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per) | 2:36 |
 | 31 | [I Can't \- Sped Up](https://open.spotify.com/track/62jwQiRfhqGR6GcbahCDWq) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't \- Sped Up](https://open.spotify.com/album/3AzbVwgBNAE49TZ86U4MoG) | 2:01 |
-| 32 | [Those Eyes \- Sped Up](https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes Alternate Versions](https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB) | 2:47 |
+| 32 | [Those Eyes \- Sped Up](https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes \(Alternate Versions\)](https://open.spotify.com/album/55J0IqFDDMrc9v672IDED2) | 2:47 |
 | 33 | [Until I Found You \(Sped Up\) \- Heaven When I Held You Again How Could We Ever Just Be Friends](https://open.spotify.com/track/2w5aTimRJjWefNoXaoCpd4) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [Until I Found You \(Sped Up\) \- Heaven When I Held You Again How Could We Ever Just Be Friends](https://open.spotify.com/album/13JS9rH3cjTaWAjhrAxrpx) | 2:03 |
-| 34 | [Captain Save A Hoe \(I Wanna Be Saved\)](https://open.spotify.com/track/7dmgV1zXxEboJbtLOxlcFM) | [Speedy Radio](https://open.spotify.com/artist/0RLP0q4jk6itImKEc5fo75) | [Captain Save A Hoe \(I Wanna Be Saved\)](https://open.spotify.com/album/2Q9Os7bIlPHwm2PUgX3d9T) | 4:02 |
+| 34 | [I WANNA BE SAVED \- Remix](https://open.spotify.com/track/4Csr6QhRfKAHAm54mt2ZWY) | [DJ Fronteo](https://open.spotify.com/artist/7bfMpDDy8DCZ0a3zU9p4X0) | [I WANNA BE SAVED \(Remix\)](https://open.spotify.com/album/4F0pMgh6o6y3LrHxmAHMfu) | 4:02 |
 | 35 | [Them Changes \- Sped Up](https://open.spotify.com/track/6pod2VRHVTven17Da0uZHi) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Them Changes \(Sped Up\)](https://open.spotify.com/album/6BxctollBKIGGFZ8zAYLxw) | 2:15 |
 | 36 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
 | 37 | [Not OK \- Sped Up](https://open.spotify.com/track/1UBErDGHs9OSGYiMXxhXgl) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Not OK \- Alt versions](https://open.spotify.com/album/0pJ4FQw91Jqceokv6lHtZw) | 1:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 99 | [Shame \- Sped Up](https://open.spotify.com/track/0h9GRF6sk6ryhOmqp5V3yh) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer \(Sped Up\)](https://open.spotify.com/album/2vIAupx3DY7BXPCG2WeQHw) | 2:20 |
 | 100 | [HMU](https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [HMU](https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT) | 1:58 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDhlZGNkMjJmMDJiOWQ4NmI2NDEzYjk4MmFjNTU3ZTFm`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDlkN2RjZGIzZjNiNjE4YmE1M2UzNTcwNjEwYzQxNGMz`

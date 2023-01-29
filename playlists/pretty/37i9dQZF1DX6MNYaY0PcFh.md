@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,046 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,094 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 49 | [No Name Groove](https://open.spotify.com/track/44m3n7H0Fn7FrxFi8rfQAf) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT), [Kasia](https://open.spotify.com/artist/5tPOVi066GG3dVIuLGOYrX) | [No Name Groove](https://open.spotify.com/album/0rknB5AlY9eUwBFXgRrNWY) | 4:23 |
 | 50 | [hold on](https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [hold on](https://open.spotify.com/album/2LxT6O6x3iPHYEcZ2qxfCQ) | 3:28 |
 | 51 | [Closer \(Higgo Remix\)](https://open.spotify.com/track/46JCxxgxODSbbMvz8eR8sF) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ), [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Closer \(Higgo Remix\)](https://open.spotify.com/album/5RlEEIkT3FV1DcpR9iV9nb) | 2:15 |
-| 52 | [Tenner](https://open.spotify.com/track/4RxXfDfpBPIIVnL4uUye4G) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Tenner](https://open.spotify.com/album/75pJctjbKXSKDy1V0A2cVb) | 2:26 |
+| 52 | [As If We Never](https://open.spotify.com/track/5XzvN8QNtHijSPUbQTvras) | [Murder He Wrote](https://open.spotify.com/artist/4n11sJzNp7JjBQw9sDze9Z) | [Told You So](https://open.spotify.com/album/5NTJwopfpmr7KguSWBIscX) | 3:56 |
 | 53 | [B With Me \- Bump & Flex Radio Edit](https://open.spotify.com/track/3r7xbYVEMRXiP9PZ8bh1xj) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Bump & Flex](https://open.spotify.com/artist/6NuELb3JJmU6DkmorHd587) | [B With Me \(Bump & Flex Mix Radio Edit\)](https://open.spotify.com/album/66W3MW1IhxWpa1g5tZccgC) | 3:38 |
-| 54 | [Different Ways To Love You](https://open.spotify.com/track/4tiKcqZbLytwislCp3LWlb) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Different Ways To Love You](https://open.spotify.com/album/0rdRzPVVCb63dG1qxcvY6O) | 3:51 |
-| 55 | [As If We Never](https://open.spotify.com/track/5XzvN8QNtHijSPUbQTvras) | [Murder He Wrote](https://open.spotify.com/artist/4n11sJzNp7JjBQw9sDze9Z) | [Told You So](https://open.spotify.com/album/5NTJwopfpmr7KguSWBIscX) | 3:56 |
+| 54 | [Tenner](https://open.spotify.com/track/4RxXfDfpBPIIVnL4uUye4G) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Tenner](https://open.spotify.com/album/75pJctjbKXSKDy1V0A2cVb) | 2:26 |
+| 55 | [Different Ways To Love You](https://open.spotify.com/track/4tiKcqZbLytwislCp3LWlb) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Different Ways To Love You](https://open.spotify.com/album/0rdRzPVVCb63dG1qxcvY6O) | 3:51 |
 | 56 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 |
-| 57 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 |
+| 57 | [Next 2 You](https://open.spotify.com/track/3bX6x6oCl1GU0CzfRUylOs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:00 |
 | 58 | [How It Goes](https://open.spotify.com/track/0G8WDiAyLXfmL4cfDGZ3SF) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [How It Goes](https://open.spotify.com/album/5CCDmc3BqXYVmO0LVD4Wmd) | 2:55 |
-| 59 | [Next 2 You](https://open.spotify.com/track/3bX6x6oCl1GU0CzfRUylOs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:00 |
-| 60 | [Hold U Tight](https://open.spotify.com/track/5pzou8uzItfaBegww9Jrwd) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [Sattam](https://open.spotify.com/artist/6iyc6BGLOwF8ZZIfcaLVP7) | [Hold U Tight](https://open.spotify.com/album/3dkGpOgnQqKuFNj191eIvm) | 6:08 |
+| 59 | [Higher](https://open.spotify.com/track/6dRBgY551j2akEK2nkGXH8) | [Groovy D](https://open.spotify.com/artist/43iAneSLd8xkYP6lgczDIZ), [Anna Straker](https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Higher](https://open.spotify.com/album/03AEImI6IHDgVIiTuoD80h) | 4:48 |
+| 60 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 |
 
-Snapshot ID: `MTY3NDU2OTg5MCwwMDAwMDAwMDcxMDRjYjUxZWI5OTAxNWRmZmFjODRmNjMyOTlkZWU3`
+Snapshot ID: `MTY3NDU2OTg5MCwwMDAwMDAwMGVjMzM1OGE1MzFiYWM5NjU0Zjk0OWUxNmYzMjEyNTA1`

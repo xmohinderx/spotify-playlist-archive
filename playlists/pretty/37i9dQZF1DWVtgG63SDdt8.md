@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  CalledOut Music
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,206 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,452 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 55 | [Curry](https://open.spotify.com/track/2S6JR0CGGHCtVwjuNoBRza) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Zero](https://open.spotify.com/artist/6htaqouwVH0LnEY2gU0KKI) | [Endure](https://open.spotify.com/album/4aoSdYgt7hia1vht8sysVP) | 2:48 |
 | 56 | [Bang!](https://open.spotify.com/track/3FI60G6RkpX2CjZRweoKi5) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Bang!](https://open.spotify.com/album/7dRShOodKphERqFXZkW1mA) | 2:52 |
 | 57 | [Anthem](https://open.spotify.com/track/1jC33ilxc08r6O62T2J4NY) | [Martin Toe](https://open.spotify.com/artist/3qQlOGleEEh9SPVX0Jx5JK) | [Interesting Times](https://open.spotify.com/album/2gHNk7epDFb9E29TF0ltoR) | 2:16 |
-| 58 | [GUMBO](https://open.spotify.com/track/7cEY4UHTcfBMBIlp0J6rHW) | [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [GUMBO](https://open.spotify.com/album/3vzwfsd2vSAjZwGEgKyDtL) | 3:04 |
+| 58 | [GUMBO](https://open.spotify.com/track/7cEY4UHTcfBMBIlp0J6rHW) | [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [GUMBO](https://open.spotify.com/album/3vzwfsd2vSAjZwGEgKyDtL) | 1:48 |
 | 59 | [Amen Right There](https://open.spotify.com/track/27K5hVbq4yO1aXX8w04rvp) | [Emcee N.I.C.E.](https://open.spotify.com/artist/3rXjIyIuREQmEh7hurB52u), [Canton Jones](https://open.spotify.com/artist/3nzEXHMRFWTw4zt3pVRv6V), [Everett Drake](https://open.spotify.com/artist/5dkm49xn18wz907LMfphpo) | [Amen Right There](https://open.spotify.com/album/50wdzjd7taitRE1dYKdmuo) | 2:54 |
 | 60 | [Milk & Honey](https://open.spotify.com/track/3choLLOasD08nJeF3cWkDV) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa) | [Milk & Honey](https://open.spotify.com/album/4v54icgMn6JiIMqh9ZNqPw) | 1:44 |
 | 61 | [Dig My Grave](https://open.spotify.com/track/3EoYtUNeZyUezzAZZ5GzAs) | [Todd Tilghman](https://open.spotify.com/artist/5k73v1si3UFBqtVQciw7RQ) | [Dig My Grave](https://open.spotify.com/album/3TppH8lapGg65SwcqIIwxm) | 2:58 |

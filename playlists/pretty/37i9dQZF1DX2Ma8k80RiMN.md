@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 
 > Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,362,077 likes - 40 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,362,185 likes - 40 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 | 18 | [Where I Wanna Be](https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:13 |
 | 19 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 |
 | 20 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
-| 21 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
-| 22 | [Ready Or Not](https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [After 7](https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W) | 4:35 |
+| 21 | [Ready Or Not](https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [After 7](https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W) | 4:35 |
+| 22 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
 | 23 | [My Life](https://open.spotify.com/track/7ytES33eLYS9WaZLKqWfYM) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:17 |
 | 24 | [Lady Love](https://open.spotify.com/track/2ydBZKZD2nr7XTd64E2AVg) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 4:02 |
 | 25 | [You Give Good Love](https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:37 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 | 33 | [Your Smile](https://open.spotify.com/track/7GPd68coLrQ0prQcbceWkG) | [Rene & Angela](https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y) | [Street Called Desire \(Expanded Edition\)](https://open.spotify.com/album/3pUaS5txjbE7K6LwdTTay5) | 4:15 |
 | 34 | [Darlin' Darlin' Baby \(Sweet, Tender, Love\)](https://open.spotify.com/track/2gdvXdZatpwlUM1bfTzwxi) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:16 |
 | 35 | [Baby I'm Ready](https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [Rope A Dope Style](https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta) | 5:22 |
-| 36 | [Anything For You](https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 4:17 |
-| 37 | [Turn off the Lights](https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 5:54 |
+| 36 | [Turn off the Lights](https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 5:54 |
+| 37 | [Anything For You](https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 4:17 |
 | 38 | [Can't Hide Love](https://open.spotify.com/track/6hsQO3hz648zS7t2QyUpfz) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Gratitude](https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z) | 4:10 |
 | 39 | [With You](https://open.spotify.com/track/1l69V1gBVRN02Hgt7a7sqt) | [Tony Terry](https://open.spotify.com/artist/1IEiax2qJ9BZiCKs0DXzc1) | [Tony Terry](https://open.spotify.com/album/0RRdCAkHE6wCQLsAGJ9cqM) | 5:05 |
 | 40 | [First Began](https://open.spotify.com/track/3ht2PBKbkqSJ0XEkQuNHnZ) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Gumbo](https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx) | 3:53 |
 
-Snapshot ID: `MTY2NzU3NDUwMSwwMDAwMDAwMDNmYWFiZGI1MTQ5N2MwZjVlMmRkYzJjMDEwYmIyZjkz`
+Snapshot ID: `MTY2NzU3NDUwMSwwMDAwMDAwMGZkYTM4MjVjMjZmYzU5ZmUzYTMzYTQ0NzA0ZGJkMmEx`

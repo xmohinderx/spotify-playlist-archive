@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Backstage in Glasgow",
+        "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136107,
+      "name": "Backstage in Glasgow",
+      "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
+    },
+    {
+      "album": {
         "name": "Backyard Mafia",
         "url": "https://open.spotify.com/album/2YXuuAQR5idYgbz07rtmhn"
       },
@@ -2424,7 +2442,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 229334,
       "name": "Left With The Wolves",
       "url": "https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK"

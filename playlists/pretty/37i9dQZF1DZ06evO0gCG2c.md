@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,069 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,189 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 41 | [Criminal](https://open.spotify.com/track/39bx4zZrPxTjw8VNuvjt6X) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 5:06 |
 | 42 | [Who Dat Girl \(feat\. Akon\)](https://open.spotify.com/track/7z73ehYAn9O1XP9XlCqVtd) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:20 |
 | 43 | [Nadie Como Tú](https://open.spotify.com/track/3g8QriMzqwzXjAPCuZ8LFA) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Nadie Como Tú](https://open.spotify.com/album/4qSb1bGgD0IixbTo1HpquI) | 3:06 |
-| 44 | [Coméntale](https://open.spotify.com/track/7oCGD6Ccuw8JmYWw6IrI8z) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:34 |
-| 45 | [That's Right \(feat\. Akon\) \- Explicit Album Version](https://open.spotify.com/track/0cOSb7wzbpb9vjRkbYufWj) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Last 2 Walk](https://open.spotify.com/album/0msDLgGPTbHmgPwY4yYRkn) | 2:56 |
+| 44 | [That's Right \(feat\. Akon\) \- Explicit Album Version](https://open.spotify.com/track/0cOSb7wzbpb9vjRkbYufWj) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Last 2 Walk](https://open.spotify.com/album/0msDLgGPTbHmgPwY4yYRkn) | 2:56 |
+| 45 | [Coméntale](https://open.spotify.com/track/7oCGD6Ccuw8JmYWw6IrI8z) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:34 |
 | 46 | [Came To Do \(feat\. Akon\)](https://open.spotify.com/track/3fLXPbXiezgmbJEEOkT8ve) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:48 |
 | 47 | [Keep You Much Longer](https://open.spotify.com/track/2vmGdxSGSkWTZJmtDLPvGC) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M) | 4:20 |
 | 48 | [Blown Away](https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:29 |
 | 49 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 |
 | 50 | [LOCKED UP PT\. 2](https://open.spotify.com/track/52EVeEEPT1H7EIEtN9lC13) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TattleTales](https://open.spotify.com/album/6q8AAimjVfKuv9PrI5xto9) | 3:23 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDA1MGQ1MjQ5ZWJmMTZmZDQ2YzQwMzU1MDlmOTRmODJkMQ==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDAzYjExMTMxNGY0MTcwZjY3MWNhYTk0YThhNzUwN2EwNA==`

@@ -4,7 +4,7 @@
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 29 min
+55 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Better Days \(feat\. Fetty Wap\)](https://open.spotify.com/track/0DW8r8w96IoIsxqqV2VNXf) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Better Days](https://open.spotify.com/album/72III2Pl6XTrDBdbjUheSW) | 2:29 | 2022-10-28 |  |
 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 | 2022-10-28 |  |
 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 | 2022-10-28 |  |
-| [Boss Bitch \(feat\. Coi Leray\)](https://open.spotify.com/track/2UtlqGUjgniHzwawSJhvdh) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Boss Bitch \(feat\. Coi Leray\)](https://open.spotify.com/album/7wdF4AvgD0sDdslF9l5FgP) | 2:31 | 2022-10-28 |  |
+| [Boss Bitch \(feat\. Coi Leray\)](https://open.spotify.com/track/2UtlqGUjgniHzwawSJhvdh) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Boss Bitch \(feat\. Coi Leray\)](https://open.spotify.com/album/7wdF4AvgD0sDdslF9l5FgP) | 2:31 | 2022-10-28 | 2023-01-29 |
 | [Bout Me](https://open.spotify.com/track/6STioLUbiT8SvFuL3ozx8x) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bout Me](https://open.spotify.com/album/0ZSBQlfvi82iDdNLQkqQ3d) | 2:42 | 2022-10-28 |  |
 | [Clingy \(with NAV\)](https://open.spotify.com/track/5kvW17aKJGgLBsoSmuOdxM) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:26 | 2022-10-28 |  |
 | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/track/3QB87iPcNT3pNOSqDGQUHG) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Demon \(feat\. Coi Leray\)](https://open.spotify.com/album/4EwRqzafybk4iS0XUBXE9Z) | 2:02 | 2022-10-28 |  |
@@ -30,6 +30,7 @@
 | [Freaky Deaky \(feat\. Coi Leray\)](https://open.spotify.com/track/3IAgfIjsfZKRYYYrwGor4x) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Freaky Deaky \(feat\. Coi Leray\)](https://open.spotify.com/album/3GyfqrZa0Rac2wKkOtRpxg) | 2:43 | 2022-10-28 | 2022-12-03 |
 | [Gimmy Licky](https://open.spotify.com/track/7qKAeMy5AB8qw7S3vKx8Rc) | [Rek Banga](https://open.spotify.com/artist/4xB6xmaqMX7ZAnyZFzdCeu), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Gimmy Licky](https://open.spotify.com/album/360E7b1SscAVvvS6O7N7tn) | 2:25 | 2022-10-28 |  |
 | [Good Day](https://open.spotify.com/track/3kSjbNmDdq6rgyELhRDUCk) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Good Day](https://open.spotify.com/album/3ZbZ9tT5ezKW5I9QpD5pO3) | 2:00 | 2022-10-28 |  |
+| [Happy Fools \(feat\. Coi Leray\)](https://open.spotify.com/track/77LZvE2XLYn2AW55UxIG8H) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 2:35 | 2023-01-28 |  |
 | [Heart In A Coffin](https://open.spotify.com/track/3eW97X88caKutrSFklw4ae) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:31 | 2022-10-28 |  |
 | [Hold Me Down \(42 Dugg, Coi Leray\)](https://open.spotify.com/track/3RXjFdXvbIIydnkrCKIjcA) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Hold Me Down](https://open.spotify.com/album/3ZnMKPhpgpTwXRSrXZ4XEm) | 2:50 | 2022-10-28 |  |
 | [Huddy](https://open.spotify.com/track/5AJfj6wlGtaWlhd71RAxTG) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [EC2](https://open.spotify.com/album/7x4F4nXWjtsM1mCKY8ljJb) | 4:24 | 2022-10-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,670 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,676 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 28 | [Dear Promoter](https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Dear Promoter](https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe) | 4:04 |
 | 29 | [Bottle over Head](https://open.spotify.com/track/4lZHw1UhWkYKqLlK7aZAf6) | [Triniboi Joocie](https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w), [Wetty Beatz](https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC) | [Bottle over Head](https://open.spotify.com/album/3FV3hpxusGhkEz6wQujnrK) | 3:28 |
 | 30 | [Tick Pon Cock](https://open.spotify.com/track/0hi53rAi8089F1DnwsRroK) | [SUPA NYTRO](https://open.spotify.com/artist/63UiEB8udvGCvXX1D7VSLF), [Natz B](https://open.spotify.com/artist/6g19CjWx79OK8qiL8aceQn) | [Tick Pon Cock](https://open.spotify.com/album/3uh9i9joEPOB15yQJWNZRf) | 3:12 |
-| 31 | [Wileside Government](https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Wileside Government](https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9) | 3:22 |
-| 32 | [Captain](https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Captain](https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6) | 3:50 |
+| 31 | [Beat Dem Bad](https://open.spotify.com/track/2K7lwIM77amplCz8FCA0RA) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Street Shots 2020: Streets of Kingston](https://open.spotify.com/album/3StTdYfwlRuTvgjDfM00nk) | 2:24 |
+| 32 | [Wileside Government](https://open.spotify.com/track/0SAx46pqnF5tEzmazHw7Id) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Wileside Government](https://open.spotify.com/album/32atiLrIa1jY1bKgZCWTi9) | 3:22 |
 | 33 | [Up & Up](https://open.spotify.com/track/6Lm3yZ7ZHNyHJmNlxuCrge) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:09 |
-| 34 | [Run Wid It](https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Run Wid It](https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG) | 3:11 |
-| 35 | [Beat Dem Bad](https://open.spotify.com/track/2K7lwIM77amplCz8FCA0RA) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Street Shots 2020: Streets of Kingston](https://open.spotify.com/album/3StTdYfwlRuTvgjDfM00nk) | 2:24 |
+| 34 | [Captain](https://open.spotify.com/track/1mIFjtNYF0BGxyHsLFVAfR) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Captain](https://open.spotify.com/album/3kXjZlfvVrmri82iXNG3O6) | 3:50 |
+| 35 | [Run Wid It](https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Run Wid It](https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG) | 3:11 |
 | 36 | [Up Top Boss](https://open.spotify.com/track/1BgnrgG2lxAdkgwei4KiF7) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Progress Riddim](https://open.spotify.com/album/085tctZjqajfyGHgkO3Y07) | 3:30 |
 | 37 | [Shots \(One for Di Road\)](https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:17 |
 | 38 | [We Outside](https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Knock About Riddim](https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw) | 2:56 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 |
 | 68 | [Wuk](https://open.spotify.com/track/5e9KCW4doT8xvliiDO8urK) | [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Sir Fingaz](https://open.spotify.com/artist/64LrJCEMV2Ft7yP6YvD7GU), [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Jollof Rice Riddim](https://open.spotify.com/album/4twnYdvTuLBX29k0AImPAB) | 3:01 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDczNzQwNjc0MTI5NjA0MjFjZDg5OTJkNWFmNmFiMWUw`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDIwMWQ4ZmRiYzMwYjliNmY1MWRiZjE5ZjM5OWRmZjM5`

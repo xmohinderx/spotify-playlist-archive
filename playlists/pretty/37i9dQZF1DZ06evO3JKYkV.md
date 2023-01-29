@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 
 > This is Aphex Twin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,619 likes - 49 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,662 likes - 49 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 22 | [Tha](https://open.spotify.com/track/4Sxv0whUHWzHK5T8uuP66S) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 9:07 |
 | 23 | [Petiatil Cx Htdui](https://open.spotify.com/track/6sSQ3VO0XNK5APus7sIkwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:11 |
 | 24 | [\#13](https://open.spotify.com/track/7c4lnS1bSj4fRJWAQ8D54R) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 7:20 |
-| 25 | [piano un1 arpej](https://open.spotify.com/track/28LVNNiDlNzAWvrMRXPD6T) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Computer Controlled Acoustic Instruments pt2 EP](https://open.spotify.com/album/5IUjJ4VcmUvZnGAONAp2IX) | 0:50 |
-| 26 | [Polynomial\-C](https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Xylem Tube EP](https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX) | 4:46 |
+| 25 | [Polynomial\-C](https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Xylem Tube EP](https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX) | 4:46 |
+| 26 | [piano un1 arpej](https://open.spotify.com/track/28LVNNiDlNzAWvrMRXPD6T) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Computer Controlled Acoustic Instruments pt2 EP](https://open.spotify.com/album/5IUjJ4VcmUvZnGAONAp2IX) | 0:50 |
 | 27 | [Bbydhyonchord](https://open.spotify.com/track/35GYDmixAiE0d36qSPqfuO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx) | 2:33 |
 | 28 | [\#7](https://open.spotify.com/track/4Rjz6GjnEtG9upOBj6vGKK) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 8:51 |
 | 29 | [4](https://open.spotify.com/track/00wT7HAtqZ2BnemrR34vbO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 3:37 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JKYkV.md) - [plain]
 | 48 | [diskhat1](https://open.spotify.com/track/1s6ux0lNiTziSrd7iUAADH) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Computer Controlled Acoustic Instruments pt2 EP](https://open.spotify.com/album/5IUjJ4VcmUvZnGAONAp2IX) | 2:26 |
 | 49 | [Wax The Nip](https://open.spotify.com/track/0c1b3R5dLgliHXXGLErT2O) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 4:18 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDA5ZjUzYTViNDk3ODAxMGU1NTViMDg5OTg3NTBkOWNmZA==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDA2ZDhlMmVjYjUxMDU4NTE2ODE2YjRlNjFlOWFlYjJlZQ==`

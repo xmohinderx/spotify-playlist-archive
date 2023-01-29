@@ -1,12 +1,12 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1174312,
+  "num_followers": 1174632,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMzY0MzkzNiwwMDAwMDAwMDAwOTI5NWRkYmViYjU4YTcxODhiNGZjYmJhYmVmNDFk",
+  "snapshot_id": "MTYxMzY0MzkzNiwwMDAwMDAwMDgxNjU5MDYxNDc4YTQ3MGQzNWQ3OTVkODJiOTVlMjY3",
   "tracks": [
     {
       "added_at": "2021-02-18 10:25:36",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
-        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 280853,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 278040,
       "name": "After the Love Has Gone",
       "url": "https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
+        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -543,38 +543,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "The Best of Sam Cooke",
-        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 129061,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -591,6 +559,22 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
+        "name": "The Best of Sam Cooke",
+        "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 129061,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Lean on Me: The Best of Bill Withers",
-        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "If That's What It Takes",
         "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 222280,
       "name": "I Keep Forgettin' (Every Time You're Near)",
       "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "Lean on Me: The Best of Bill Withers",
+        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -971,6 +971,22 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Let The Music Play - Single Version",
+      "url": "https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
         "name": "In the Name of Love: The Elektra Recordings 1979-1984",
         "url": "https://open.spotify.com/album/3XFcAhdCrCg7L74OPd26Hf"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 237106,
       "name": "Just the Two of Us",
       "url": "https://open.spotify.com/track/4C426PqeHP8XqHU5mQIAKS"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
-        "name": "Let The Music Play (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 210386,
-      "name": "Let The Music Play - Single Version",
-      "url": "https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Now We May Begin",
-        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
+        "name": "Don't Look Any Further (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OUaPGTJDxhHCSyZxdWvXk"
       },
       "artists": [
         {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+          "name": "Dennis Edwards",
+          "url": "https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp"
+        },
+        {
+          "name": "Siedah Garrett",
+          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
         }
       ],
-      "duration_ms": 302653,
-      "name": "One Day I'll Fly Away",
-      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
+      "duration_ms": 242213,
+      "name": "Don't Look Any Further",
+      "url": "https://open.spotify.com/track/3GiSgsFwPp8zY7yTGsRlyR"
     }
   ],
   "unique_name": "Sweet Soul Chillout",

@@ -2,7 +2,7 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: LE SSERAFIM
+> The freshest K\-Pop of today! cover: LE SSERAFIM //最先端のK\-Popをピックアップ！
 
 476 songs - 1 day 2 hr 18 min
 

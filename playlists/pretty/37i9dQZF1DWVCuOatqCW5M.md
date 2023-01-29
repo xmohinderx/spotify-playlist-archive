@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,649 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,681 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mehendi Lagi Hai](https://open.spotify.com/track/36uw7L3TTkfsXOyym2RFuw) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Sakshi Holkar](https://open.spotify.com/artist/1NzWmNFNge2tR9foXVCz7R) | [Mehendi Lagi Hai](https://open.spotify.com/album/3Epan1Y4ZX0f1QLN7Utrux) | 3:22 |
+| 1 | [Mehendi Lagi Hai](https://open.spotify.com/track/36uw7L3TTkfsXOyym2RFuw) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Sakshi Holkar](https://open.spotify.com/artist/1NzWmNFNge2tR9foXVCz7R), [Danish Sabri](https://open.spotify.com/artist/1d1zBysvyutA5en7DZnvJW) | [Mehendi Lagi Hai](https://open.spotify.com/album/3Epan1Y4ZX0f1QLN7Utrux) | 3:22 |
 | 2 | [Aasmaan](https://open.spotify.com/track/4OJ3ecc157Wg4Z29aglEOu) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Farzi \(Original Series Soundtrack\)](https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz) | 2:52 |
 | 3 | [Bewajah](https://open.spotify.com/track/6uJ6KxWCNszP9VDtZm5A0C) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Bewajah](https://open.spotify.com/album/7pb1utVXS2OS6dfQF0f0cN) | 2:51 |
 | 4 | [Preet](https://open.spotify.com/track/2XeX2lVTjO0TY6Jk0SE6dx) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Preet](https://open.spotify.com/album/6bPq1Wlr8b82YuEQMne1sJ) | 4:19 |

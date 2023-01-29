@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Celeste.",
-  "num_followers": 12077,
+  "num_followers": 12085,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMGUzZDMyYzUxNWYzNmYyMzAyZTZlMTkyY2ZiYjhlNDBl",
+  "snapshot_id": "MTY3MDU0MDQwMCwwMDAwMDAwMDExNTE3NmMxOTY4YjQwMjhmYjljOWM2ZDI4YmE0YmZk",
   "tracks": [
     {
       "added_at": "2022-12-08 23:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Nona",
-        "url": "https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB"
-      },
-      "artists": [
-        {
-          "name": "Nona",
-          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
-        }
-      ],
-      "duration_ms": 167532,
-      "name": "Sleeptalking",
-      "url": "https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Belly",
         "url": "https://open.spotify.com/album/3mPwQso7Zs9CKNatbpPISq"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 123141,
       "name": "Molly",
       "url": "https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Nona",
+        "url": "https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB"
+      },
+      "artists": [
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "duration_ms": 167532,
+      "name": "Sleeptalking",
+      "url": "https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        },
-        {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        }
-      ],
-      "duration_ms": 198527,
-      "name": "Be My Muse - Gold Edit",
-      "url": "https://open.spotify.com/track/4XXDiBwLlGnNZYzWfsSh4i"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "WE ARE (The Deluxe Edition)",
         "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 223815,
       "name": "ADULTHOOD",
       "url": "https://open.spotify.com/track/0jqWdGvgLX2oOG70eIcwko"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        },
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "duration_ms": 198527,
+      "name": "Be My Muse - Gold Edit",
+      "url": "https://open.spotify.com/track/4XXDiBwLlGnNZYzWfsSh4i"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa"
-      },
-      "artists": [
-        {
-          "name": "Lorr\u00e8n",
-          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
-        }
-      ],
-      "duration_ms": 223517,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/7kFYzxYZnuuAU6ufNkTo4e"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 166363,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/7lH5ojd6UtoTW6kKQCXdZm"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/2VI86hd45OqHeDDzVhCkLa"
+      },
+      "artists": [
+        {
+          "name": "Lorr\u00e8n",
+          "url": "https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG"
+        }
+      ],
+      "duration_ms": 223517,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3ebeQDcmkINL0z2G5f2vQ8"
     },
     {
       "added_at": "2022-12-08 23:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-12-08 23:00:00",
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/3I8IVGwQSv055Ue5OrI6Qf"
+    },
+    {
+      "added_at": "2022-12-08 23:00:00",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/3LrU1Dgrr3aVsT7GWOGPGW"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 194773,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6v0IFEV2M37sXSCuQMEBnj"
-    },
-    {
-      "added_at": "2022-12-08 23:00:00",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT"
-      },
-      "artists": [
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/3I8IVGwQSv055Ue5OrI6Qf"
     },
     {
       "added_at": "2022-12-08 23:00:00",

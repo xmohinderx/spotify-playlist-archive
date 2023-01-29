@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Yaeji.
 
-682 songs - 1 day 20 hr 42 min
+683 songs - 1 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Corsica '80](https://open.spotify.com/track/29ciyzjusw1w1UL22GKS67) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O) | [Corsica '80](https://open.spotify.com/album/0TW4O57pYbKTXblJlctE1u) | 4:23 | 2021-08-27 | 2022-05-11 |
 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 | 2022-06-24 | 2023-01-06 |
 | [Cry Again](https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Cry Again](https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB) | 3:02 | 2021-12-24 | 2022-02-10 |
-| [Dance When You Cry](https://open.spotify.com/track/67yOsRrqyxkSttB5y3dC6T) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Dance When You Cry](https://open.spotify.com/album/5SYrSxBRPN8VDdzDf2IshW) | 2:52 | 2022-05-20 |  |
+| [Dance When You Cry](https://open.spotify.com/track/67yOsRrqyxkSttB5y3dC6T) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Dance When You Cry](https://open.spotify.com/album/5SYrSxBRPN8VDdzDf2IshW) | 2:52 | 2022-05-20 | 2023-01-29 |
 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 | 2022-09-16 |  |
 | [Dark Rain](https://open.spotify.com/track/6nFeqs4DACn0ldbumEshsg) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dark Rain](https://open.spotify.com/album/0qAXFwj59i4PcQyyYMiPP5) | 3:01 | 2021-10-22 | 2022-02-12 |
 | [De Tecidos](https://open.spotify.com/track/5VN37zj6J0yQfTLzKGyFsQ) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [self\-care](https://open.spotify.com/album/3xTy5AFpBDL2qzWoZrNtgz) | 3:05 | 2021-08-20 | 2022-07-19 |
@@ -631,6 +631,7 @@
 | [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 | 2022-03-25 |  |
 | [Turn The Table](https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 2:51 | 2022-06-24 | 2022-08-05 |
 | [U Already Know](https://open.spotify.com/track/5AyANSMqfkoI2HtZQ5ikPL) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [U Already Know](https://open.spotify.com/album/67zbNHgYUej6u9dNUlV4Gr) | 4:12 | 2021-06-11 | 2022-07-28 |
+| [U Neva](https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [U Neva](https://open.spotify.com/album/4WP5N8BeLagGceIDMWIR6r) | 2:22 | 2023-01-27 |  |
 | [U&ME \- Baauer Remix](https://open.spotify.com/track/1isVA9WBGqhuSB7jtiq5M7) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [U&ME \(Baauer Remix\)](https://open.spotify.com/album/7ftT31XifyMfoUIyoqxkop) | 4:54 | 2021-10-22 | 2022-02-08 |
 | [Unconditional](https://open.spotify.com/track/1sSL9TPiaJ70iBOdGWEDuL) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Unconditional](https://open.spotify.com/album/5STa9lDlTJXe3eQu2IesNT) | 3:09 | 2022-10-05 | 2022-10-31 |
 | [Underneath](https://open.spotify.com/track/4wyrc8IPFe1tE1ZPMnEx7C) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Underneath](https://open.spotify.com/album/0B7GgmnsWIqYN55jCk0pjJ) | 3:49 | 2021-08-27 | 2022-07-29 |

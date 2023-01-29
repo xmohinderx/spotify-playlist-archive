@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 41629,
+  "num_followers": 41722,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNzE3NCwwMDAwMDAwMDgwYWM2NTIyOGVmNjliMDZjNTkxNzliYTBhYzUyZDE1",
+  "snapshot_id": "MTY3NDgzNzE3NCwwMDAwMDAwMGUwYTQxYzY3MTg0Y2VkYTY5MTA3ODVlNTI1MTI3YWRk",
   "tracks": [
     {
       "added_at": "2023-01-10 17:32:46",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-10 17:32:46",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs"
-    },
-    {
-      "added_at": "2023-01-10 17:32:46",
-      "album": {
         "name": "Getting Ready... (World)",
         "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 172866,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
+    },
+    {
+      "added_at": "2023-01-10 17:32:46",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs"
     },
     {
       "added_at": "2023-01-10 17:32:46",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-10 17:32:46",
       "album": {
-        "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Forty Four",
-      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
-    },
-    {
-      "added_at": "2023-01-10 17:32:46",
-      "album": {
         "name": "Texas Cannonball",
         "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 239133,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
+    },
+    {
+      "added_at": "2023-01-10 17:32:46",
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Forty Four",
+      "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
     },
     {
       "added_at": "2023-01-10 17:32:46",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-01-10 17:32:46",
       "album": {
+        "name": "Mystery Train / Love My Baby",
+        "url": "https://open.spotify.com/album/31GTtOaKki2JqsyIrljMhz"
+      },
+      "artists": [
+        {
+          "name": "Little Junior Parker",
+          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+        }
+      ],
+      "duration_ms": 144400,
+      "name": "Mystery Train",
+      "url": "https://open.spotify.com/track/2NrUSquxXIuBqXFXQoyWZU"
+    },
+    {
+      "added_at": "2023-01-10 17:32:46",
+      "album": {
         "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
         "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 147840,
       "name": "One Night - Remastered",
       "url": "https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH"
-    },
-    {
-      "added_at": "2023-01-10 17:32:46",
-      "album": {
-        "name": "Let 'em Roll",
-        "url": "https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53"
-      },
-      "artists": [
-        {
-          "name": "Hank Ballard",
-          "url": "https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB"
-        }
-      ],
-      "duration_ms": 151960,
-      "name": "Kansas City",
-      "url": "https://open.spotify.com/track/1I5p5nMwstb6SZNtQXaT7b"
     },
     {
       "added_at": "2023-01-10 17:32:46",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-01-10 17:32:46",
       "album": {
-        "name": "Mystery Train / Love My Baby",
-        "url": "https://open.spotify.com/album/31GTtOaKki2JqsyIrljMhz"
+        "name": "Let 'em Roll",
+        "url": "https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53"
       },
       "artists": [
         {
-          "name": "Little Junior Parker",
-          "url": "https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM"
+          "name": "Hank Ballard",
+          "url": "https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB"
         }
       ],
-      "duration_ms": 144400,
-      "name": "Mystery Train",
-      "url": "https://open.spotify.com/track/2NrUSquxXIuBqXFXQoyWZU"
+      "duration_ms": 151960,
+      "name": "Kansas City",
+      "url": "https://open.spotify.com/track/1I5p5nMwstb6SZNtQXaT7b"
     },
     {
       "added_at": "2023-01-10 17:32:46",
@@ -943,6 +943,22 @@
       "duration_ms": 169706,
       "name": "Everyday I Have The Blues",
       "url": "https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE"
+    },
+    {
+      "added_at": "2023-01-29 01:44:49",
+      "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "Dirt Road Blues - 2022 Remix",
+      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
     },
     {
       "added_at": "2023-01-10 17:32:46",
@@ -975,22 +991,6 @@
       "duration_ms": 218053,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/4aD3d9kzxY8MXAssMQ3c6v"
-    },
-    {
-      "added_at": "2023-01-28 01:39:58",
-      "album": {
-        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
-        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "Dirt Road Blues - 2022 Remix",
-      "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
     },
     {
       "added_at": "2023-01-10 17:32:46",

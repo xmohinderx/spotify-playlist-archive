@@ -1,12 +1,12 @@
 {
   "description": "L'autoroute des tubes fran\u00e7ais !",
-  "num_followers": 61627,
+  "num_followers": 61733,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMGNiMjM5NjhmZTBkMTJjNmQzZjEwMmJhNGJhOWNmZDY3",
+  "snapshot_id": "MTY3MzU2NDQwMCwwMDAwMDAwMGM0ZDE0MTU0MWYzNDU2YzAxMDZhNzBjMDcxMWVmZTMx",
   "tracks": [
     {
       "added_at": "2023-01-12 23:00:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Fais Comme L'Oiseau",
+        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "Une belle histoire",
+      "url": "https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "Aller-retour",
         "url": "https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 203160,
       "name": "Le temps est bon",
       "url": "https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Fais Comme L'Oiseau",
-        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
-      },
-      "artists": [
-        {
-          "name": "Michel Fugain & Le Big Bazar",
-          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "Une belle histoire",
-      "url": "https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Debout les yeux ouverts",
-        "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
-      },
-      "artists": [
-        {
-          "name": "Sins\u00e9milia",
-          "url": "https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "Tout le bonheur du monde",
-      "url": "https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Photos de voyages (Remastered)",
         "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
       },
@@ -279,18 +263,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Cure",
-        "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
+        "name": "Debout les yeux ouverts",
+        "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
       },
       "artists": [
         {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+          "name": "Sins\u00e9milia",
+          "url": "https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY"
         }
       ],
-      "duration_ms": 184840,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
+      "duration_ms": 229426,
+      "name": "Tout le bonheur du monde",
+      "url": "https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -307,6 +291,22 @@
       "duration_ms": 178786,
       "name": "Tiago",
       "url": "https://open.spotify.com/track/63eflEIBAF5VmO5AdVuZF7"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Cure",
+        "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Encore un soir (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/34ojCO0ZiLZwJlUFXuGx9R"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "Encore un soir",
-      "url": "https://open.spotify.com/track/51yjUe42smRbgWvg9i9pFa"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Louise Attaque",
         "url": "https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 197706,
       "name": "L\u00e9a",
       "url": "https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Encore un soir (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/34ojCO0ZiLZwJlUFXuGx9R"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "Encore un soir",
+      "url": "https://open.spotify.com/track/51yjUe42smRbgWvg9i9pFa"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Pri\u00e8re pa\u00efenne",
-      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
       },
@@ -491,22 +475,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Le reste",
-      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Sacha Distel: Crooner",
         "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
       },
@@ -519,6 +487,38 @@
       "duration_ms": 123053,
       "name": "La belle vie",
       "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Pri\u00e8re pa\u00efenne",
+      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Le reste",
+      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Br\u00fbler le feu",
-        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Tu me Play",
-      "url": "https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 233813,
       "name": "\u00c0 nos h\u00e9ros du quotidien",
       "url": "https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Br\u00fbler le feu",
+        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 164893,
+      "name": "Tu me Play",
+      "url": "https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -835,34 +835,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Coup de soleil",
-        "url": "https://open.spotify.com/album/1IEh1tmYDI8rCAc4pCxPfK"
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
       "artists": [
         {
-          "name": "ELISA ERKA",
-          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
         }
       ],
-      "duration_ms": 162980,
-      "name": "Coup de soleil",
-      "url": "https://open.spotify.com/track/191MxYhNwpsVCh4Az3fkmK"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Le Premier Jour",
-        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Le Premier jour (Du reste de ta vie)",
-      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
+      "duration_ms": 209000,
+      "name": "Belle demoiselle",
+      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -883,18 +867,34 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+        "name": "Le Premier Jour",
+        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
       },
       "artists": [
         {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Belle demoiselle",
-      "url": "https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg"
+      "duration_ms": 250413,
+      "name": "Le Premier jour (Du reste de ta vie)",
+      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Coup de soleil",
+        "url": "https://open.spotify.com/album/1IEh1tmYDI8rCAc4pCxPfK"
+      },
+      "artists": [
+        {
+          "name": "ELISA ERKA",
+          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
+        }
+      ],
+      "duration_ms": 162980,
+      "name": "Coup de soleil",
+      "url": "https://open.spotify.com/track/191MxYhNwpsVCh4Az3fkmK"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Week End \u00c0 Rome",
-        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Week-end \u00e0 Rome",
-      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "In\u00e9dits 1968-1998",
         "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "Brigitte Bardot",
-        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
+        "name": "Week End \u00c0 Rome",
+        "url": "https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl"
       },
       "artists": [
         {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
         }
       ],
-      "duration_ms": 155800,
-      "name": "La madrague",
-      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
+      "duration_ms": 254453,
+      "name": "Week-end \u00e0 Rome",
+      "url": "https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1075,6 +1059,22 @@
       "duration_ms": 217186,
       "name": "Mourir demain",
       "url": "https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "Brigitte Bardot",
+        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "La madrague",
+      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
-        "name": "PYRAMIDE",
-        "url": "https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0"
-      },
-      "artists": [
-        {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
-        }
-      ],
-      "duration_ms": 233800,
-      "name": "Tomb\u00e9",
-      "url": "https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
         "name": "Album De Duos",
         "url": "https://open.spotify.com/album/5HgPr5vMIGWGYuqtEXb9qV"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 209733,
       "name": "Le Loir & Cher",
       "url": "https://open.spotify.com/track/2qHhWm8oZ7nNNvTitjEvio"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
+        "name": "PYRAMIDE",
+        "url": "https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "duration_ms": 233800,
+      "name": "Tomb\u00e9",
+      "url": "https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t"
     },
     {
       "added_at": "2023-01-12 23:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-01-12 23:00:00",
       "album": {
+        "name": "Dave",
+        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Vanina (Runaway)",
+      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
+    },
+    {
+      "added_at": "2023-01-12 23:00:00",
+      "album": {
         "name": "A l'envers",
         "url": "https://open.spotify.com/album/6gVpnC0Dvjuv1XOVPnkGr6"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 222453,
       "name": "On",
       "url": "https://open.spotify.com/track/1irx7iNjFWPDo5qqO5wdAu"
-    },
-    {
-      "added_at": "2023-01-12 23:00:00",
-      "album": {
-        "name": "Dave",
-        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Vanina (Runaway)",
-      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
     }
   ],
   "unique_name": "Bleu Blanc Route",

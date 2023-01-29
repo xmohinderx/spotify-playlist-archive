@@ -1,12 +1,12 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 8463,
+  "num_followers": 8486,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMGIwYWJmOTY0MmRiY2NmOWRkMzRmNzU4ZDliZTgxYzQw",
+  "snapshot_id": "MTYxNDU2ODA0MiwwMDAwMDAwMDM0MzFmZGE4MTJjNmQ3NmJlZWU2MTYyY2U2MWVmNWQ3",
   "tracks": [
     {
       "added_at": "2021-03-01 03:07:22",
@@ -339,22 +339,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 198795,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 198795,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -495,6 +495,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Your BGM Vol.1",
+        "url": "https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4"
+      },
+      "artists": [
+        {
+          "name": "\uc5d0\ub9ad\ub0a8 (Eric Nam), CHEEZE (\uce58\uc988)",
+          "url": "https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX"
+        }
+      ],
+      "duration_ms": 239099,
+      "name": "Perhaps Love (\uc0ac\ub791\uc778\uac00\uc694) (Prod.By \ubc15\uadfc\ud0dc)",
+      "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 7",
         "url": "https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 233586,
       "name": "Good day",
       "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Your BGM Vol.1",
-        "url": "https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4"
-      },
-      "artists": [
-        {
-          "name": "\uc5d0\ub9ad\ub0a8 (Eric Nam), CHEEZE (\uce58\uc988)",
-          "url": "https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX"
-        }
-      ],
-      "duration_ms": 239099,
-      "name": "Perhaps Love (\uc0ac\ub791\uc778\uac00\uc694) (Prod.By \ubc15\uadfc\ud0dc)",
-      "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry - The 3rd Album",
+        "url": "https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
+      "url": "https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "I - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 206038,
       "name": "I",
       "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry - The 3rd Album",
-        "url": "https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "\uc3d8\ub9ac \uc3d8\ub9ac Sorry, Sorry",
-      "url": "https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -791,18 +791,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "COUP D'ETAT",
-        "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
+        "name": "The Wonder Years",
+        "url": "https://open.spotify.com/album/0UNkEtrX0bVpMqzvclY0oD"
       },
       "artists": [
         {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
         }
       ],
-      "duration_ms": 224792,
-      "name": "CROOKED",
-      "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
+      "duration_ms": 217000,
+      "name": "Tell me (Sampling From `Two Of Hearts`)",
+      "url": "https://open.spotify.com/track/0m1L7kXouYgNJYtlJnncCl"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -823,18 +823,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Why So Lonely",
-        "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
+        "name": "COUP D'ETAT",
+        "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
       },
       "artists": [
         {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 206706,
-      "name": "Why So Lonely",
-      "url": "https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4"
+      "duration_ms": 224792,
+      "name": "CROOKED",
+      "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -903,6 +903,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Why So Lonely",
+        "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Why So Lonely",
+      "url": "https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "Mr. Simple - The 5th Album",
         "url": "https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "The Wonder Years",
-        "url": "https://open.spotify.com/album/0UNkEtrX0bVpMqzvclY0oD"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Tell me (Sampling From `Two Of Hearts`)",
-      "url": "https://open.spotify.com/track/0m1L7kXouYgNJYtlJnncCl"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
@@ -983,18 +983,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "My Last Love OST Part.4",
-        "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
+        "name": "THE THIRD SINGLE CATALLENA",
+        "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Orange Caramel",
+          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
         }
       ],
-      "duration_ms": 195213,
-      "name": "Hold my hand",
-      "url": "https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE"
+      "duration_ms": 193153,
+      "name": "Catallena",
+      "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "THE THIRD SINGLE CATALLENA",
-        "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
+        "name": "My Last Love OST Part.4",
+        "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
       },
       "artists": [
         {
-          "name": "Orange Caramel",
-          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 193153,
-      "name": "Catallena",
-      "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
+      "duration_ms": 195213,
+      "name": "Hold my hand",
+      "url": "https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "Bye bye my blue",
-        "url": "https://open.spotify.com/album/22qM69DGAvUsSyQfVh8Lgm"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 203409,
-      "name": "Bye bye my blue",
-      "url": "https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Invitation",
         "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 233813,
       "name": "\ubcf4\uc5ec\uc904\uac8c",
       "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "Bye bye my blue",
+        "url": "https://open.spotify.com/album/22qM69DGAvUsSyQfVh8Lgm"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "Bye bye my blue",
+      "url": "https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "ME",
-        "url": "https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3"
-      },
-      "artists": [
-        {
-          "name": "CLC",
-          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "ME",
-      "url": "https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "HUSH",
         "url": "https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 186799,
       "name": "Hush",
       "url": "https://open.spotify.com/track/0K2UTvyyBPSmr0IccCWNZm"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3"
+      },
+      "artists": [
+        {
+          "name": "CLC",
+          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
         "name": "Lucifer - The 2nd Album",
         "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 233986,
       "name": "LUCIFER",
       "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2021-03-01 03:07:22",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2021-03-01 03:07:22",
       "album": {
+        "name": "Electric Shock - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Electric Shock",
+      "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
+    },
+    {
+      "added_at": "2021-03-01 03:07:22",
+      "album": {
         "name": "BERMUDA TRIANGLE",
         "url": "https://open.spotify.com/album/7BUHltdya9h5Qv0qI2xvhX"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 207026,
       "name": "BERMUDA TRIANGLE",
       "url": "https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t"
-    },
-    {
-      "added_at": "2021-03-01 03:07:22",
-      "album": {
-        "name": "Electric Shock - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Electric Shock",
-      "url": "https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU"
     },
     {
       "added_at": "2021-03-01 03:07:22",

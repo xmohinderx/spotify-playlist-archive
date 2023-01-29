@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 36858,
+  "num_followers": 36918,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMGRiZGU0OGQwYjkyY2EwM2I5MjFhZmUwNGJmZTExYmE1",
+  "snapshot_id": "MTY2NDg5Mjg2OCwwMDAwMDAwMDlmMmFkMWFiYmE4MDRhYWI0NWYxOWRlNjY4NjA0N2Fh",
   "tracks": [
     {
       "added_at": "2022-10-04 14:14:28",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Sollbruchstelle 1-3",
+        "url": "https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo"
+      },
+      "artists": [
+        {
+          "name": "Jas Shaw",
+          "url": "https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV"
+        }
+      ],
+      "duration_ms": 311548,
+      "name": "A man with two watches",
+      "url": "https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -327,6 +343,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Novu Hisy",
+        "url": "https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL"
+      },
+      "artists": [
+        {
+          "name": "Digital Moss",
+          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Novu Hisy",
+      "url": "https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Yes I",
         "url": "https://open.spotify.com/album/4zrkxvozf8sXclGZVuGQMR"
       },
@@ -347,22 +379,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Novu Hisy",
-        "url": "https://open.spotify.com/album/3fqVodXZqyhTxg3IFIFlnL"
-      },
-      "artists": [
-        {
-          "name": "Digital Moss",
-          "url": "https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Novu Hisy",
-      "url": "https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Entanglement",
         "url": "https://open.spotify.com/album/2ulqyHaLOAzuCKrd5WyAyV"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 273750,
       "name": "Aether Vibrations",
       "url": "https://open.spotify.com/track/1JgeUGhBGB4jzpFZAFpEnx"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Sollbruchstelle 1-3",
-        "url": "https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo"
-      },
-      "artists": [
-        {
-          "name": "Jas Shaw",
-          "url": "https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV"
-        }
-      ],
-      "duration_ms": 311548,
-      "name": "A man with two watches",
-      "url": "https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "My Birthday Suit",
-        "url": "https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX"
-      },
-      "artists": [
-        {
-          "name": "Hexsystem",
-          "url": "https://open.spotify.com/artist/0EtKmeVXhCvayJTciKQUNh"
-        }
-      ],
-      "duration_ms": 225054,
-      "name": "My Birthday Suit",
-      "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "My Birthday Suit",
+        "url": "https://open.spotify.com/album/73EZdQn7iigPv86Ts8UICX"
+      },
+      "artists": [
+        {
+          "name": "Hexsystem",
+          "url": "https://open.spotify.com/artist/0EtKmeVXhCvayJTciKQUNh"
+        }
+      ],
+      "duration_ms": 225054,
+      "name": "My Birthday Suit",
+      "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Amygdala",
         "url": "https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 319047,
       "name": "Amygdala",
       "url": "https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "The Last Wave",
-        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
-      },
-      "artists": [
-        {
-          "name": "Ibukun Sunday",
-          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Last Earth",
-      "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -827,18 +811,18 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Breathing Instruments",
-        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
+        "name": "The Last Wave",
+        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
       },
       "artists": [
         {
-          "name": "Sunmoonstar",
-          "url": "https://open.spotify.com/artist/6zcATN69DMHPpO0Jeo8iuu"
+          "name": "Ibukun Sunday",
+          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
         }
       ],
-      "duration_ms": 120280,
-      "name": "Sleepy Dragon",
-      "url": "https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y"
+      "duration_ms": 139041,
+      "name": "Last Earth",
+      "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -875,6 +859,22 @@
       "duration_ms": 290555,
       "name": "Paravents",
       "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Breathing Instruments",
+        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
+      },
+      "artists": [
+        {
+          "name": "Sunmoonstar",
+          "url": "https://open.spotify.com/artist/6zcATN69DMHPpO0Jeo8iuu"
+        }
+      ],
+      "duration_ms": 120280,
+      "name": "Sleepy Dragon",
+      "url": "https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "The landscape has become a bed",
+        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
+      },
+      "artists": [
+        {
+          "name": "Low Flung",
+          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
+        }
+      ],
+      "duration_ms": 299870,
+      "name": "Open plain",
+      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "The landscape has become a bed",
-        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
-      },
-      "artists": [
-        {
-          "name": "Low Flung",
-          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
-        }
-      ],
-      "duration_ms": 299870,
-      "name": "Open plain",
-      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "The Sparrow",
-        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 357906,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "Liquid Planta Seeds",
-        "url": "https://open.spotify.com/album/2qobaujPblxqumcde6yjVY"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Liquid Planta Seeds",
-      "url": "https://open.spotify.com/track/0EHxTCvQpFpXkiyx0FwBRq"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Interlude 03",
         "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
       },
@@ -1127,6 +1095,38 @@
       "duration_ms": 253047,
       "name": "Kosmic Headroom",
       "url": "https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "Liquid Planta Seeds",
+        "url": "https://open.spotify.com/album/2qobaujPblxqumcde6yjVY"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Liquid Planta Seeds",
+      "url": "https://open.spotify.com/track/0EHxTCvQpFpXkiyx0FwBRq"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "The Sparrow",
+        "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 357906,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
-        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
-        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
-      },
-      "artists": [
-        {
-          "name": "Modern Biology",
-          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Rambutan",
-      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
         "name": "Biholomorphia",
         "url": "https://open.spotify.com/album/5OQ8YkW2PLZr4HR558FbTZ"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2022-10-04 14:14:28",
       "album": {
+        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
+        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
+      },
+      "artists": [
+        {
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Rambutan",
+      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
         "name": "Sleep to Dream",
         "url": "https://open.spotify.com/album/7ee4QkZp0bIar2FPyhONej"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 263142,
       "name": "Sleep to Dream",
       "url": "https://open.spotify.com/track/5x6OgxAyxqyfJ6INOV37nA"
-    },
-    {
-      "added_at": "2022-10-04 14:14:28",
-      "album": {
-        "name": "One Last Glimpse",
-        "url": "https://open.spotify.com/album/4iEqB4pq7daniE9TK4qPXS"
-      },
-      "artists": [
-        {
-          "name": "Caldera",
-          "url": "https://open.spotify.com/artist/4Nhu6YZ1PktzEW8MnDGI4V"
-        }
-      ],
-      "duration_ms": 517599,
-      "name": "Plant Memory",
-      "url": "https://open.spotify.com/track/4hTgQoWtIWyZMPkKteRJpJ"
     },
     {
       "added_at": "2022-10-04 14:14:28",
@@ -1279,6 +1263,22 @@
       "duration_ms": 280087,
       "name": "La colline",
       "url": "https://open.spotify.com/track/6pALQ3Z6wSlt2GXePgGeV5"
+    },
+    {
+      "added_at": "2022-10-04 14:14:28",
+      "album": {
+        "name": "One Last Glimpse",
+        "url": "https://open.spotify.com/album/4iEqB4pq7daniE9TK4qPXS"
+      },
+      "artists": [
+        {
+          "name": "Caldera",
+          "url": "https://open.spotify.com/artist/4Nhu6YZ1PktzEW8MnDGI4V"
+        }
+      ],
+      "duration_ms": 517599,
+      "name": "Plant Memory",
+      "url": "https://open.spotify.com/track/4hTgQoWtIWyZMPkKteRJpJ"
     }
   ],
   "unique_name": "Modular Synths",

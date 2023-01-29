@@ -1,12 +1,12 @@
 {
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
-  "num_followers": 92842,
+  "num_followers": 92957,
   "original_name": "City Pop '80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODU2MDE3OSwwMDAwMDAwMDk0OTgzMTMwZDIxMjY2ZTg4ZjcxOTNhYjQxNWM4YjAx",
+  "snapshot_id": "MTY2ODU2MDE3OSwwMDAwMDAwMDI1MzhiYThkMmQ1YmQ1ZWViNGE2OGRmMjE0NWRhMjdj",
   "tracks": [
     {
       "added_at": "2022-11-16 00:56:19",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-11-16 00:56:19",
       "album": {
+        "name": "REQUEST (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "duration_ms": 318306,
+      "name": "OH NO,OH YES!",
+      "url": "https://open.spotify.com/track/7hT9QzdqxxoWB0JtCGuCnD"
+    },
+    {
+      "added_at": "2022-11-16 00:56:19",
+      "album": {
         "name": "Another Summer",
         "url": "https://open.spotify.com/album/1ZluSoV6IVEiQxEfrnIYBB"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 241360,
       "name": "Dear Breeze",
       "url": "https://open.spotify.com/track/0DCzMvkONMvWDiOtVzyRUX"
-    },
-    {
-      "added_at": "2022-11-16 00:56:19",
-      "album": {
-        "name": "REQUEST (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5"
-      },
-      "artists": [
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        }
-      ],
-      "duration_ms": 318306,
-      "name": "OH NO,OH YES!",
-      "url": "https://open.spotify.com/track/7hT9QzdqxxoWB0JtCGuCnD"
     },
     {
       "added_at": "2022-11-16 00:56:19",
@@ -727,30 +727,18 @@
     {
       "added_at": "2022-11-16 00:56:19",
       "album": {
-        "name": "NIAGARA TRIANGLE vol.2 40th Anniversary Edition",
-        "url": "https://open.spotify.com/album/1eXJvf74OeQnFlx6G7qbCJ"
+        "name": "The 20th Anniversary",
+        "url": "https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd"
       },
       "artists": [
         {
-          "name": "NIAGARA TRIANGLE",
-          "url": "https://open.spotify.com/artist/2Z7xG1x1KFkKXGQmr38j1M"
-        },
-        {
-          "name": "Motoharu Sano",
-          "url": "https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb"
-        },
-        {
-          "name": "Masamichi Sugi",
-          "url": "https://open.spotify.com/artist/0sunKSW71vUUlXKwwJQKKH"
-        },
-        {
-          "name": "\u5927\u6edd\u8a60\u4e00",
-          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
+          "name": "Naomi Akimoto",
+          "url": "https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl"
         }
       ],
-      "duration_ms": 191800,
-      "name": "A\u9762\u3067\u604b\u3092\u3057\u3066",
-      "url": "https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH"
+      "duration_ms": 284333,
+      "name": "Bewitched (Are You Leaving Soon)",
+      "url": "https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy"
     },
     {
       "added_at": "2022-11-16 00:56:19",
@@ -787,18 +775,30 @@
     {
       "added_at": "2022-11-16 00:56:19",
       "album": {
-        "name": "The 20th Anniversary",
-        "url": "https://open.spotify.com/album/1WfGuS4y9cMowFLTCMplPd"
+        "name": "NIAGARA TRIANGLE vol.2 40th Anniversary Edition",
+        "url": "https://open.spotify.com/album/1eXJvf74OeQnFlx6G7qbCJ"
       },
       "artists": [
         {
-          "name": "Naomi Akimoto",
-          "url": "https://open.spotify.com/artist/4tVWj4YQ5kteJu56XOphEl"
+          "name": "NIAGARA TRIANGLE",
+          "url": "https://open.spotify.com/artist/2Z7xG1x1KFkKXGQmr38j1M"
+        },
+        {
+          "name": "Motoharu Sano",
+          "url": "https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb"
+        },
+        {
+          "name": "Masamichi Sugi",
+          "url": "https://open.spotify.com/artist/0sunKSW71vUUlXKwwJQKKH"
+        },
+        {
+          "name": "\u5927\u6edd\u8a60\u4e00",
+          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
         }
       ],
-      "duration_ms": 284333,
-      "name": "Bewitched (Are You Leaving Soon)",
-      "url": "https://open.spotify.com/track/2GWrllGqXji3zboRZZItyy"
+      "duration_ms": 191800,
+      "name": "A\u9762\u3067\u604b\u3092\u3057\u3066",
+      "url": "https://open.spotify.com/track/6jsFJedHQqWpySVjRXn4lH"
     },
     {
       "added_at": "2022-11-16 00:56:19",

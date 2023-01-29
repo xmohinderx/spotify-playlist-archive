@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-434 songs - 1 day 2 hr 58 min
+435 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Quietude](https://open.spotify.com/track/5AEe4vHNK8A1nkaxcAUD82) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Quietude](https://open.spotify.com/album/1sPWjfQFQLmT1N2QxaPJtc) | 4:14 | 2022-10-13 | 2023-01-26 |
 | [Rainy Mix](https://open.spotify.com/track/2lCpVqpPOJQ30mstKPHBqj) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Rainy Mix](https://open.spotify.com/album/35cS4jrVD80N8kb8WspUqV) | 4:37 | 2022-06-28 | 2022-10-08 |
 | [Reaching](https://open.spotify.com/track/1zL6ms4dZJ1l8y8F46llOv) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Reaching](https://open.spotify.com/album/7nWW2h7SFTPQJgJX0h1IMA) | 3:22 | 2022-06-28 | 2022-10-08 |
+| [Reutlingen](https://open.spotify.com/track/3rUR7LDyz2ac174SuwJl1Z) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Reutlingen](https://open.spotify.com/album/7zRiDdpgqqLlfh6ZZ0xTMv) | 4:43 | 2023-01-26 |  |
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-17 |  |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-08-30 |  |
 | [Rising Apple Tree of Hope](https://open.spotify.com/track/3lXhXavD2xl20yELJfAT3U) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Rising Apple Tree of Hope](https://open.spotify.com/album/5EBSKClKn3AF6vEwiRqbYz) | 2:49 | 2022-08-30 | 2022-12-13 |
@@ -336,7 +337,7 @@
 | [Skylark](https://open.spotify.com/track/1KfUK9UkRVJBw5zrrUEIKb) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Skylark](https://open.spotify.com/album/5umd1EJtTmMHuYYAnDoQWd) | 3:46 | 2022-06-28 | 2022-09-09 |
 | [Skylark](https://open.spotify.com/track/4GMJNNA04YDBVixAWiK5zD) | [Joseph Lawrence](https://open.spotify.com/artist/0xCOX1rOGhTQ3NOfM32r7z) | [Alone Together](https://open.spotify.com/album/1HpFYNRbT6bSc29yt1njK9) | 7:18 | 2022-06-28 | 2022-10-08 |
 | [Sleeper](https://open.spotify.com/track/4r6hgUhZEHGcIRYwiO9e7R) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Sleeper](https://open.spotify.com/album/3WHZKHzLNI6pq7Iej94OCN) | 3:45 | 2022-06-28 | 2022-10-02 |
-| [Slippers and Cocoa](https://open.spotify.com/track/2TctbR1zGHbhjFgvnoXcl1) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Slippers and Cocoa](https://open.spotify.com/album/138Z3arXLR0XS5kgSh8yAF) | 3:27 | 2022-06-28 |  |
+| [Slippers and Cocoa](https://open.spotify.com/track/2TctbR1zGHbhjFgvnoXcl1) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Slippers and Cocoa](https://open.spotify.com/album/138Z3arXLR0XS5kgSh8yAF) | 3:27 | 2022-06-28 | 2023-01-29 |
 | [Small Steps](https://open.spotify.com/track/4OpfAngpSybDsNk7TTaO1B) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Small Steps](https://open.spotify.com/album/1GI9Bz7hFaoAn9Ugy9D0hA) | 3:32 | 2022-11-10 |  |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/5fBpjh6BGlsKG8n328kcF4) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/2AFoG96YrQjDuCwIxJCGj1) | 4:26 | 2022-06-28 | 2022-10-08 |
 | [Sno Peas](https://open.spotify.com/track/0miIOTXulrs7IwTwsstbjG) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [On A Misty Night](https://open.spotify.com/album/4wOwSu9EKBoAywQp51RVV9) | 2:52 | 2022-06-28 | 2022-10-08 |

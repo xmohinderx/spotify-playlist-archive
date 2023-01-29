@@ -1,12 +1,12 @@
 {
   "description": "The warm sound and the cozy mood of classic Jazz. A soundtrack in the background for relaxing, dinner or focus. Cover: Hank Mobley",
-  "num_followers": 32601,
+  "num_followers": 32643,
   "original_name": "In the Mood for Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDcyNzU1NiwwMDAwMDAwMDgxZDAwMjZjNDQxMjIyZjgzODAzY2U0ZWFiMTY2Njkw",
+  "snapshot_id": "MTY3NDcyNzU1NiwwMDAwMDAwMGYzOWU4ODk5OGZkMGFmOTRmNDVkMDI5MmVmYTM0YTAy",
   "tracks": [
     {
       "added_at": "2023-01-18 14:13:41",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Look Out! (Remastered)",
-        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
-    },
-    {
-      "added_at": "2023-01-18 14:13:41",
-      "album": {
         "name": "Jump For Joy",
         "url": "https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 133813,
       "name": "Ain't We Got Fun",
       "url": "https://open.spotify.com/track/1hqrv4RHtqRres6Szcibvv"
+    },
+    {
+      "added_at": "2023-01-18 14:13:41",
+      "album": {
+        "name": "Look Out! (Remastered)",
+        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
     },
     {
       "added_at": "2023-01-18 14:13:41",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "I've Grown Accustomed To Her Face - Remastered/1998",
-      "url": "https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg"
-    },
-    {
-      "added_at": "2023-01-18 14:13:41",
-      "album": {
         "name": "Waltz For Debby [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 360306,
       "name": "Porgy (I Loves You Porgy) - Outtake",
       "url": "https://open.spotify.com/track/3NmLBig4t7RZWbLT3U2eBb"
+    },
+    {
+      "added_at": "2023-01-18 14:13:41",
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "I've Grown Accustomed To Her Face - Remastered/1998",
+      "url": "https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg"
     },
     {
       "added_at": "2023-01-18 14:13:41",
@@ -507,18 +507,22 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+        "name": "Hamp & Getz",
+        "url": "https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 206760,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA"
+      "duration_ms": 407800,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h"
     },
     {
       "added_at": "2023-01-18 14:13:41",
@@ -539,22 +543,18 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Hamp & Getz",
-        "url": "https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o"
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
       "artists": [
         {
-          "name": "Lionel Hampton",
-          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 407800,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h"
+      "duration_ms": 206760,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA"
     },
     {
       "added_at": "2023-01-18 14:13:41",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Avant-Garde Jazz (Remastered)",
-        "url": "https://open.spotify.com/album/3miaDzBToycfxNmVr7m72N"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "Cocktails for Two - Remastered",
-      "url": "https://open.spotify.com/track/7DAMG7QY6VYazuuYfQVTJl"
-    },
-    {
-      "added_at": "2023-01-18 14:13:41",
-      "album": {
         "name": "Soul Station",
         "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Music For Torching",
-        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
+        "name": "Avant-Garde Jazz (Remastered)",
+        "url": "https://open.spotify.com/album/3miaDzBToycfxNmVr7m72N"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
         }
       ],
-      "duration_ms": 243440,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
+      "duration_ms": 197920,
+      "name": "Cocktails for Two - Remastered",
+      "url": "https://open.spotify.com/track/7DAMG7QY6VYazuuYfQVTJl"
     },
     {
       "added_at": "2023-01-18 14:13:41",
@@ -655,6 +639,22 @@
       "duration_ms": 271333,
       "name": "A Kiss To Build A Dream On",
       "url": "https://open.spotify.com/track/6GtJqo0vr7DqWOHQtp77cV"
+    },
+    {
+      "added_at": "2023-01-18 14:13:41",
+      "album": {
+        "name": "Music For Torching",
+        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 243440,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
     },
     {
       "added_at": "2023-01-18 14:13:41",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 417320,
-      "name": "Foolin' Myself",
-      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
-    },
-    {
-      "added_at": "2023-01-18 14:13:41",
-      "album": {
         "name": "The Essential Doris Day",
         "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
       "artists": [
         {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
         }
       ],
-      "duration_ms": 190706,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/0PmF0FFqD13ePLmwH6isb1"
+      "duration_ms": 417320,
+      "name": "Foolin' Myself",
+      "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
     },
     {
       "added_at": "2023-01-18 14:13:41",
@@ -751,6 +735,22 @@
       "duration_ms": 150651,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/2LHaIw3mxrbKbiZnEnGpvJ"
+    },
+    {
+      "added_at": "2023-01-18 14:13:41",
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/0PmF0FFqD13ePLmwH6isb1"
     },
     {
       "added_at": "2023-01-18 14:13:41",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Anita O'Day Swings Cole Porter With Billy May",
-        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "Love For Sale - 1959 Version",
-      "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
-    },
-    {
-      "added_at": "2023-01-18 14:13:41",
-      "album": {
         "name": "Calendar Girl",
         "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 202573,
       "name": "November Twilight",
       "url": "https://open.spotify.com/track/1A0IKMO2VXftxqHDe3gigM"
+    },
+    {
+      "added_at": "2023-01-18 14:13:41",
+      "album": {
+        "name": "Anita O'Day Swings Cole Porter With Billy May",
+        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "Love For Sale - 1959 Version",
+      "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
     },
     {
       "added_at": "2023-01-18 14:13:41",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Dream with Dean",
-        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "I'm Confessin' (That I Love You)",
-      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
-    },
-    {
-      "added_at": "2023-01-18 14:13:41",
-      "album": {
         "name": "Easy Does It",
         "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+        "name": "Dream with Dean",
+        "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
       },
       "artists": [
         {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 184293,
-      "name": "Excerpts From The Blues",
-      "url": "https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn"
+      "duration_ms": 194893,
+      "name": "I'm Confessin' (That I Love You)",
+      "url": "https://open.spotify.com/track/6EN0fTxduMrFWuFK46pi7Z"
     },
     {
       "added_at": "2023-01-18 14:13:41",
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Excerpts From The Blues",
+      "url": "https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn"
+    },
+    {
+      "added_at": "2023-01-18 14:13:41",
+      "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 173160,
       "name": "It Could Happen to You",
       "url": "https://open.spotify.com/track/0Ve39xlLUEwJlxEpKR117l"
+    },
+    {
+      "added_at": "2023-01-18 14:13:41",
+      "album": {
+        "name": "Lullabies Of Birdland",
+        "url": "https://open.spotify.com/album/44zUpA9KsYPplGV7HZmE8K"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Lullaby Of Birdland",
+      "url": "https://open.spotify.com/track/4JQiUSWsle7d4MAnsSi3hO"
     },
     {
       "added_at": "2023-01-18 14:13:41",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Lullabies Of Birdland",
-        "url": "https://open.spotify.com/album/44zUpA9KsYPplGV7HZmE8K"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Lullaby Of Birdland",
-      "url": "https://open.spotify.com/track/4JQiUSWsle7d4MAnsSi3hO"
-    },
-    {
-      "added_at": "2023-01-18 14:13:41",
-      "album": {
         "name": "I Just Dropped By To Say Hello",
         "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Moanin' (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey",
-          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
-        }
-      ],
-      "duration_ms": 368746,
-      "name": "Along Came Betty",
-      "url": "https://open.spotify.com/track/3Ysj0cl3Jlb6Ysp6um8QI7"
-    },
-    {
-      "added_at": "2023-01-18 14:13:41",
-      "album": {
         "name": "Roll Call",
         "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 407533,
       "name": "The More I See You - Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
+    },
+    {
+      "added_at": "2023-01-18 14:13:41",
+      "album": {
+        "name": "Moanin' (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey",
+          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
+        }
+      ],
+      "duration_ms": 368746,
+      "name": "Along Came Betty",
+      "url": "https://open.spotify.com/track/3Ysj0cl3Jlb6Ysp6um8QI7"
     },
     {
       "added_at": "2023-01-18 14:13:41",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 209933,
-      "name": "I'm Lost",
-      "url": "https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC"
-    },
-    {
-      "added_at": "2023-01-18 14:13:41",
-      "album": {
         "name": "Sings The Winners",
         "url": "https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB"
       },
@@ -1351,6 +1331,22 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4"
+    },
+    {
+      "added_at": "2023-01-18 14:13:41",
+      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
       },
@@ -1367,18 +1363,22 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
         }
       ],
-      "duration_ms": 164000,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/0frZqwvJUm9jVM7vtZKqf4"
+      "duration_ms": 209933,
+      "name": "I'm Lost",
+      "url": "https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC"
     },
     {
       "added_at": "2023-01-18 14:13:41",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-01-18 14:13:41",
       "album": {
-        "name": "Social Call",
-        "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        },
-        {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
-        }
-      ],
-      "duration_ms": 158106,
-      "name": "I Could Write a Book",
-      "url": "https://open.spotify.com/track/0eijtL958nCP1dy7OR1hUA"
-    },
-    {
-      "added_at": "2023-01-18 14:13:41",
-      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 225312,
       "name": "Georgia On My Mind",
       "url": "https://open.spotify.com/track/3rvHtMwpZxmVtT1HB4zvvb"
+    },
+    {
+      "added_at": "2023-01-18 14:13:41",
+      "album": {
+        "name": "Social Call",
+        "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        },
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "I Could Write a Book",
+      "url": "https://open.spotify.com/track/0eijtL958nCP1dy7OR1hUA"
     },
     {
       "added_at": "2023-01-18 14:13:41",

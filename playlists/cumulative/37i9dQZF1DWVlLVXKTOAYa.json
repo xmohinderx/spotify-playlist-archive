@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
+    },
+    {
+      "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
@@ -3615,6 +3633,24 @@
     },
     {
       "album": {
+        "name": "F64",
+        "url": "https://open.spotify.com/album/5SNPs8Oz8Nmhv0MA6YnJpE"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204893,
+      "name": "F64",
+      "url": "https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE"
+    },
+    {
+      "album": {
         "name": "Face To Face",
         "url": "https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg"
       },
@@ -4290,7 +4326,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 159330,
       "name": "Give You What You Want",
       "url": "https://open.spotify.com/track/6PQK1Y3Dl6dym9pj0y9Chy"
@@ -8848,7 +8884,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 236906,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"

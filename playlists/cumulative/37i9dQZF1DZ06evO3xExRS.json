@@ -169,6 +169,28 @@
     },
     {
       "album": {
+        "name": "Cocodrilo",
+        "url": "https://open.spotify.com/album/21hCsyWxHebIZmGciyG5L2"
+      },
+      "artists": [
+        {
+          "name": "Kitai",
+          "url": "https://open.spotify.com/artist/2TQyVG4JdI6hdRsOMEFOg4"
+        },
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243830,
+      "name": "Cocodrilo",
+      "url": "https://open.spotify.com/track/6nYFMxwIXYSLfPbF73WyJz"
+    },
+    {
+      "album": {
         "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
         "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
       },
@@ -792,7 +814,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 248986,
       "name": "Separados",
       "url": "https://open.spotify.com/track/23u2XLKx5kNneguxb3I1dD"

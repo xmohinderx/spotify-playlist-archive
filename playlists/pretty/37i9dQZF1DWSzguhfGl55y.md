@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,616 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,765 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 24 | [Urlaub fürs Gehirn](https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [Urlaub fürs Gehirn](https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR) | 4:01 |
 | 25 | [OMG!](https://open.spotify.com/track/6ngfhauAytTZsaQgZyJIeK) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [Zum Glück in die Zukunft II](https://open.spotify.com/album/6Ttnb4f8aPy7ytDJqV10FT) | 3:49 |
 | 26 | [Troy](https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [Viel \- Jubiläums\-Edition](https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY) | 4:29 |
-| 27 | [Olé Olé](https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 2:33 |
-| 28 | [Weck mich auf](https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Samy Deluxe](https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx) | 5:43 |
+| 27 | [Weck mich auf](https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Samy Deluxe](https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx) | 5:43 |
+| 28 | [Olé Olé](https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 2:33 |
 | 29 | [Ohne mein Team](https://open.spotify.com/track/6hOqWob9hUfgJr68J1vEhJ) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC) | [Party 2020](https://open.spotify.com/album/5nf3tQHGdH6J3iINNfOL6T) | 3:08 |
 | 30 | [Leben und Tod des Kenneth Glöckler](https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Leben und Tod des Kenneth Glöckler](https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4) | 10:01 |
 | 31 | [Im Ascheregen](https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 4:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Wenn wir kommen](https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Electro Ghetto \(Re\-Release\)](https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX) | 3:52 |
 | 50 | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc), [Dennis Dubplate](https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3) | [Irgendwie, Irgendwo, Irgendwann](https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8) | 5:30 |
 
-Snapshot ID: `MTY3MTYyNTY3OCwwMDAwMDAwMDQzZDkxYzk3ZDZkMDg3MWM1MWMwZmYxMzY0M2Q5Mzgz`
+Snapshot ID: `MTY3MTYyNTY3OCwwMDAwMDAwMGZkOGNjY2IyOGM3YWVlOGMzOGQ0NDU1YmI2OWJiYWM2`

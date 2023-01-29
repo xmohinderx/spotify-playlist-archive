@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: The Reytons
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,823 likes - 64 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,142 likes - 64 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 6 | [Say My Name](https://open.spotify.com/track/3LIWMXIo6rPoo9Slcd1PaK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Say My Name](https://open.spotify.com/album/6ZN13CtDuZ3JAaTB8SFlZv) | 3:50 |
 | 7 | [Jackie Down The Line](https://open.spotify.com/track/4DNbKvO9fI8bjnxis4yddk) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 4:01 |
 | 8 | [Hometown](https://open.spotify.com/track/2kRuduqaJfLIWGZy5EOBam) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Hometown](https://open.spotify.com/album/3pWXwphIVPJlFcvuxXvghu) | 4:52 |
-| 9 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/05AXOoZN3bpJh6oXylrfvX) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/6sxU6FxUwBONwo2zsbD2v8) | 2:45 |
+| 9 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/3aVGdoYas2GPVZNLN1IxXY) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/2YoatZbkNsBRrfmX0pq9Ay) | 2:45 |
 | 10 | [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 |
 | 11 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 |
 | 12 | [Knuckles](https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf) | 2:40 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 63 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 |
 | 64 | [Big Deal](https://open.spotify.com/track/71V2WDbjwMTVPhbKzX8r0j) | [Cortney Dixon](https://open.spotify.com/artist/1KyaMEHOakwjwLlLYorYYp) | [Big Deal](https://open.spotify.com/album/5aX2YO1amh4g9A20dlnT3T) | 3:45 |
 
-Snapshot ID: `MTY3MzM1Njk4NiwwMDAwMDAwMGIyNTFmOWRhMzZjNGQwOTA1NGVkYzVmOWNjNDkzNTBm`
+Snapshot ID: `MTY3MzM1Njk4NiwwMDAwMDAwMGNhY2Q3MWFjNGQzZGFiN2M4MDBlYzZiMmFjNzg1NmFh`

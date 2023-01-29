@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Cordae, DaBaby and more\. Cover: EST Gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,460 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,587 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 35 | [23 Freestyle](https://open.spotify.com/track/1ZRlTZT0h0e6kw2sp5avIT) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [23 Freestyle](https://open.spotify.com/album/43aLpxH4lSekSX4DMxlchQ) | 2:10 |
 | 36 | [come back in an hour](https://open.spotify.com/track/5VAiWBRH4g2DjhRvgLYIz0) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [come back in an hour](https://open.spotify.com/album/7wignx7wlVahDP1USu0gbC) | 3:20 |
 | 37 | [Balcony Thoughts](https://open.spotify.com/track/5rhfgRGnNViweOWqmQxAsa) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Balcony Thoughts](https://open.spotify.com/album/2mKXoABuXnaBXz4BP739Co) | 2:51 |
-| 38 | [Changin \(feat\. RotKen\)](https://open.spotify.com/track/6kIMQNoy8wmG5O6YovqLCR) | [Legend Yae](https://open.spotify.com/artist/41JFOCSk00m4hv4RigJViZ), [RotKen](https://open.spotify.com/artist/57j1AShWEoEsK9ifGUUM0s) | [Drugs & A Mic Too](https://open.spotify.com/album/2uAfpUiLUJuBz4fTK426uJ) | 2:14 |
+| 38 | [Changin \(feat\. RotKen\)](https://open.spotify.com/track/6kIMQNoy8wmG5O6YovqLCR) | [Legend Yae](https://open.spotify.com/artist/41JFOCSk00m4hv4RigJViZ), [RotKen](https://open.spotify.com/artist/57j1AShWEoEsK9ifGUUM0s) | [Drugs & A Mic Too](https://open.spotify.com/album/2uAfpUiLUJuBz4fTK426uJ) | 2:15 |
 | 39 | [Rats](https://open.spotify.com/track/3h28OHoPqd3z4KKb63v7Nu) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Pglo](https://open.spotify.com/artist/5pUjCWQ5NIAFDiMF8aXvX4) | [Rats](https://open.spotify.com/album/1Duc9xhXbS73l4CL1EOcI7) | 2:28 |
 | 40 | [Blame On Us](https://open.spotify.com/track/0CX139UCckJuNeU6WvBQK8) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [Blame On Us](https://open.spotify.com/album/6lKyj30TU4BCzeZrsTBZPU) | 2:22 |
 | 41 | [Beastmode](https://open.spotify.com/track/76vLQOQ5Ni3hmjkSW5tzpj) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Beastmode](https://open.spotify.com/album/4vbimvX7WTr9r0b0GRJS5D) | 1:44 |

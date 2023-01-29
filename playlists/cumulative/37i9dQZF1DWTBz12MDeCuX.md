@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: The Kid LAROI
 
-624 songs - 1 day 6 hr 3 min
+626 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [LOS](https://open.spotify.com/track/4RN73rrQqwQuBKjKoJXMrH) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [LOS](https://open.spotify.com/album/38gQNy7vEgrwsMn9SLRXjo) | 3:25 | 2022-06-16 | 2022-06-24 |
 | [Loser](https://open.spotify.com/track/1NjKGrKFajOZOtwgebtOJu) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Loser](https://open.spotify.com/album/6l8JPuOO6OUTFX4umiTyQL) | 2:39 | 2023-01-26 |  |
 | [Love](https://open.spotify.com/track/5WtdIBUOGNdslIPwPAjHUW) | [Ctill](https://open.spotify.com/artist/47diE7gubS7rniBjkHsQPY) | [Love](https://open.spotify.com/album/4XqiYJLPxRFWfO0thNCgLl) | 3:02 | 2023-01-16 | 2023-01-23 |
+| [Love \- Remix](https://open.spotify.com/track/5f5C2gkvXy16MbQwEYZeYS) | [kevoxx](https://open.spotify.com/artist/5xmZKWPhiMa6sD84Efjrh9) | [Love \- Remix](https://open.spotify.com/album/0QPSUf5dmhOGbvsnJ6uEsn) | 3:02 | 2023-01-26 |  |
 | [Love Again](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Love Again](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-01-26 |  |
 | [Love Shots](https://open.spotify.com/track/6aYB6syCRnnTXJ8jechWZc) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Love Shots](https://open.spotify.com/album/7KMp5uAH2B3dupZySwFdlD) | 1:50 | 2022-09-01 | 2022-12-02 |
 | [Lucky Luke](https://open.spotify.com/track/4ej3FXhGM9CVjvS4tJ2gtk) | [OTPendia](https://open.spotify.com/artist/0xUNWefnIKxk31Qhg634BY), [bella bazz](https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi), [Cany75](https://open.spotify.com/artist/25J0KcLLMB0IucsDJ4LocD), [OT](https://open.spotify.com/artist/122hwG9HcBJitZseVPce5T) | [Lucky Luke](https://open.spotify.com/album/5wcAF1i1PpvDvcauhMWUUg) | 2:44 | 2023-01-06 |  |
@@ -539,7 +540,8 @@
 | [The Magic Key](https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM) | [One\-T](https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI) | [The One\-T ODC](https://open.spotify.com/album/1tXkGisnorHzDKtSnRWcyn) | 3:48 | 2022-06-09 |  |
 | [The More I Bite](https://open.spotify.com/track/4cGQFb9fFfw3nmSNm3L2JE) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX) | [The More I Bite](https://open.spotify.com/album/16O7AReSw4Lk6ytVghcVIt) | 2:18 | 2023-01-19 |  |
 | [the way i make things feel okay](https://open.spotify.com/track/6cwoWIlnIjELEUroEMLAwl) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [the way i make things feel okay](https://open.spotify.com/album/6wkxWLJyo8jKghJDPiZ9GV) | 4:30 | 2022-07-11 | 2022-09-02 |
-| [Those Eyes \- Sped Up](https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes Alternate Versions](https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB) | 2:47 | 2022-10-10 |  |
+| [Those Eyes \- Sped Up](https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes \(Alternate Versions\)](https://open.spotify.com/album/55J0IqFDDMrc9v672IDED2) | 2:47 | 2023-01-26 |  |
+| [Those Eyes \- Sped Up](https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes Alternate Versions](https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB) | 2:47 | 2022-10-10 | 2023-01-29 |
 | [Ticket nach Ketama \(feat\. Liaze\)](https://open.spotify.com/track/7KWwQ8SokgUDO7es6Q4ZGW) | [ARY](https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4), [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [Ticket nach Ketama \(feat\. Liaze\)](https://open.spotify.com/album/1VzaGDvMcgi3PbBZhfrbLV) | 3:04 | 2022-07-21 | 2022-09-10 |
 | [Ticket zu dir](https://open.spotify.com/track/0q9UhjpLwjYuDR5ZXOUkui) | [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA), [yungfijay](https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm) | [Ticket zu dir](https://open.spotify.com/album/0QYshP7LS7TS0fPj7amAFz) | 2:37 | 2022-06-23 | 2022-07-05 |
 | [Time To Leave](https://open.spotify.com/track/20U6exJLpbUBHlhl0cWMVc) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 2:48 | 2022-10-27 | 2022-11-29 |
@@ -631,6 +633,6 @@
 | [Zuhause](https://open.spotify.com/track/0jPrdybe6ZbQXHzSVfILxy) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Zuhause](https://open.spotify.com/album/2HSHbNpe5eQW7hgWOHWN2E) | 2:57 | 2022-10-07 | 2022-10-21 |
 | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [Zukunft Pink \(feat\. Inéz\)](https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D) | 3:50 | 2022-11-01 | 2022-12-24 |
 | [ZWANNIS](https://open.spotify.com/track/3f2n0M2s1DovBN8DPoR0n5) | [LUIS](https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI) | [ZWANNIS](https://open.spotify.com/album/5s9axapj8W2cHyTpdgHuMa) | 2:25 | 2022-12-15 | 2023-01-06 |
-| [Ты И Я](https://open.spotify.com/track/2SyHAnMkA9xME32P3Cpw1f) | [SDM Nation](https://open.spotify.com/artist/6K1saPnrT3Gz5vo8WeKTWo) | [Ты И Я](https://open.spotify.com/album/3DT4qPUBlBxEXkJanCRhAB) | 3:02 | 2023-01-19 |  |
+| [Ты И Я](https://open.spotify.com/track/2SyHAnMkA9xME32P3Cpw1f) | [SDM Nation](https://open.spotify.com/artist/6K1saPnrT3Gz5vo8WeKTWo) | [Ты И Я](https://open.spotify.com/album/3DT4qPUBlBxEXkJanCRhAB) | 3:02 | 2023-01-19 | 2023-01-29 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

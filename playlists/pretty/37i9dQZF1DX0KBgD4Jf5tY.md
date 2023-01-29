@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente, aggiornata ogni venerdì\. Cover: <a href="spotify:artist:2p8QkcgkfvIcUTpudqcqRM">Ele A</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,396 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,406 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "G N' R Lies",
+        "url": "https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222893,
+      "name": "Move To The City",
+      "url": "https://open.spotify.com/track/0ZnbnrLQdSJiD5TfumVcnc"
+    },
+    {
+      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
       },
@@ -538,7 +556,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 354880,
       "name": "Patience",
       "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"

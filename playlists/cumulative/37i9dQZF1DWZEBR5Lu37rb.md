@@ -4,7 +4,7 @@
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-115 songs - 8 hr 13 min
+116 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Naksh Naksh Mrembo](https://open.spotify.com/track/3bEUcbgCWnyuXKrjR9OLnn) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Hakeem 5](https://open.spotify.com/artist/1kE23z6YUfh9fBj1kWeohZ) | [CINDERELLA](https://open.spotify.com/album/0QSQibBpOOzPpiZcR54iY8) | 5:24 | 2022-02-10 |  |
 | [Naogopa](https://open.spotify.com/track/0vybWIHJOFMSwMVJQpAFxv) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Flowers](https://open.spotify.com/album/1yYgqZbQEi9NdfrGg364bW) | 3:43 | 2022-02-10 |  |
 | [Naogopa](https://open.spotify.com/track/3RZR4vq0AtTx1NZvfH85Bc) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Naogopa](https://open.spotify.com/album/1CUXqJ0kl6wgeZ3mih9DXP) | 3:43 | 2022-02-10 | 2022-11-14 |
-| [Ndikuthandile](https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9) | 4:14 | 2022-02-10 |  |
+| [Ndikuthandile](https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk) | 4:14 | 2022-02-10 |  |
+| [Ndikuthandile](https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9) | 4:14 | 2022-02-10 | 2023-01-29 |
 | [Ndilinde](https://open.spotify.com/track/5PwPfqoN2EnW2hVYS7rv1f) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O) | 5:51 | 2022-02-10 |  |
 | [Ndizele Wena](https://open.spotify.com/track/15P4w866PR3iyQ4b3KlLbK) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Power](https://open.spotify.com/album/6dDz2SDdhnaeKTLoe0BRhH) | 2:38 | 2022-02-10 |  |
 | [Nikikutazama](https://open.spotify.com/track/2QweIUK69pkW3dgnEEzPaI) | [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1) | [Nikikutazama](https://open.spotify.com/album/54LLZZzjgU0cDnKJVKMvgl) | 3:56 | 2022-02-10 |  |

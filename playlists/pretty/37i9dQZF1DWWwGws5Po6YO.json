@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 26917,
+  "num_followers": 26935,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMDE1M2IzY2UwZDg0MjE1OTY3ZTM4YWUxMGZiNWRjYTA5",
+  "snapshot_id": "MTY3MTU1ODc2MCwwMDAwMDAwMDk5MWRmNDFmYjhkNjNiNmM2MzhjZWExMmZkNmNmNDJj",
   "tracks": [
     {
       "added_at": "2022-12-20 17:52:39",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "Big Room",
+        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+      },
+      "artists": [
+        {
+          "name": "Ulla Straus",
+          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 360193,
       "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
       "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "Big Room",
-        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
-      },
-      "artists": [
-        {
-          "name": "Ulla Straus",
-          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Billow",
-      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "is this nature escape",
+        "url": "https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42"
+      },
+      "artists": [
+        {
+          "name": "Katharine Petkovski",
+          "url": "https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA"
+        }
+      ],
+      "duration_ms": 212848,
+      "name": "is this nature escape",
+      "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "No. 4",
         "url": "https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "is this nature escape",
-        "url": "https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42"
-      },
-      "artists": [
-        {
-          "name": "Katharine Petkovski",
-          "url": "https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA"
-        }
-      ],
-      "duration_ms": 212848,
-      "name": "is this nature escape",
-      "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -815,6 +815,30 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "Deep Listening",
+        "url": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Stuart Dempster",
+          "url": "https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK"
+        },
+        {
+          "name": "Panaiotis",
+          "url": "https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA"
+        }
+      ],
+      "duration_ms": 1496133,
+      "name": "Lear",
+      "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "The North Wind",
         "url": "https://open.spotify.com/album/6JYkxZJniFgYfH7KHmP45r"
       },
@@ -843,30 +867,6 @@
       "duration_ms": 231731,
       "name": "How to build an automaton",
       "url": "https://open.spotify.com/track/2tqrvJPhctmcZmJNZORJU0"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "Deep Listening",
-        "url": "https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC"
-      },
-      "artists": [
-        {
-          "name": "Pauline Oliveros",
-          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
-        },
-        {
-          "name": "Stuart Dempster",
-          "url": "https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK"
-        },
-        {
-          "name": "Panaiotis",
-          "url": "https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA"
-        }
-      ],
-      "duration_ms": 1496133,
-      "name": "Lear",
-      "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
     },
     {
       "added_at": "2022-12-20 17:52:39",

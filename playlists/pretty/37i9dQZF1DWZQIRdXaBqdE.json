@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 333341,
+  "num_followers": 333572,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMGQ2NzAzZTU2NGY5MDU3NTI5YTg5NTYwMWYxN2YyMzIx",
+  "snapshot_id": "MTY1MTg2NTg3OCwwMDAwMDAwMDJjNmM2MzQ4ZDk0Y2NjY2VlZWFkODQ2YzE1NzM4MThj",
   "tracks": [
     {
       "added_at": "2022-05-06 19:37:58",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Behind Closed Doors",
-        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "The Most Beautiful Girl",
-      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 204333,
       "name": "Two Dozen Roses",
       "url": "https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Behind Closed Doors",
+        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "The Most Beautiful Girl",
+      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
+      "duration_ms": 178973,
+      "name": "Diggin' Up Bones",
+      "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Coat Of Many Colors",
-        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "Coat of Many Colors",
-      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Guitars, Cadillacs, Etc., Etc.",
         "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "Coat Of Many Colors",
+        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "Coat of Many Colors",
+      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "Storms of Life",
         "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Diggin' Up Bones",
-      "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Louisiana Woman, Mississippi Man",
         "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 151731,
       "name": "Louisiana Woman, Mississippi Man",
       "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "RCA Country Legends: Don Gibson",
-        "url": "https://open.spotify.com/album/4SWOxLi7nLs2Gjyv22q5As"
+        "name": "Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
       },
       "artists": [
         {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
         }
       ],
-      "duration_ms": 155040,
-      "name": "Sea of Heartbreak",
-      "url": "https://open.spotify.com/track/0xERMvJD8djz1ZBjPSRLvM"
+      "duration_ms": 200493,
+      "name": "Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Rose Colored Glasses",
-        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
-      },
-      "artists": [
-        {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Rose Colored Glasses",
-      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Lord I Hope This Day Is Good",
         "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
       },
@@ -955,18 +939,34 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+        "name": "RCA Country Legends: Don Gibson",
+        "url": "https://open.spotify.com/album/4SWOxLi7nLs2Gjyv22q5As"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Country Club",
-      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
+      "duration_ms": 155040,
+      "name": "Sea of Heartbreak",
+      "url": "https://open.spotify.com/track/0xERMvJD8djz1ZBjPSRLvM"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Ultimate Clint Black",
+        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
+      },
+      "artists": [
+        {
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Killin' Time",
+      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Ultimate Clint Black",
-        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
       },
       "artists": [
         {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Killin' Time",
-      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
+      "duration_ms": 190800,
+      "name": "Country Club",
+      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Charley Pride's 10th Album",
-        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 133880,
-      "name": "Is Anybody Goin' to San Antone",
-      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "The Complete Capitol Hits Of Faron Young",
         "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 146840,
       "name": "Hello Walls",
       "url": "https://open.spotify.com/track/4dim8F8t01qimHOmr6S3Gd"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Charley Pride's 10th Album",
+        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "Is Anybody Goin' to San Antone",
+      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1163,22 +1163,6 @@
       "duration_ms": 314226,
       "name": "You Never Even Called Me By My Name",
       "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
-        "name": "Out Of Hand",
-        "url": "https://open.spotify.com/album/4vslpYaKUd2FnMGkZcq7vK"
-      },
-      "artists": [
-        {
-          "name": "Gary Stewart",
-          "url": "https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs"
-        }
-      ],
-      "duration_ms": 168120,
-      "name": "She's Actin' Single (I'm Drinkin' Doubles)",
-      "url": "https://open.spotify.com/track/7dZgDd8LYriRdR2kDSQjxx"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1243,6 +1227,22 @@
       "duration_ms": 361093,
       "name": "Same Old Train",
       "url": "https://open.spotify.com/track/5KMWwtJv3Ll2ROZfMerQs0"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Out Of Hand",
+        "url": "https://open.spotify.com/album/4vslpYaKUd2FnMGkZcq7vK"
+      },
+      "artists": [
+        {
+          "name": "Gary Stewart",
+          "url": "https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs"
+        }
+      ],
+      "duration_ms": 168120,
+      "name": "She's Actin' Single (I'm Drinkin' Doubles)",
+      "url": "https://open.spotify.com/track/7dZgDd8LYriRdR2kDSQjxx"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Rocky Mountain Music",
-        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
+        "name": "When I Dream",
+        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
         }
       ],
-      "duration_ms": 142773,
-      "name": "Two Dollars in the Jukebox - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
+      "duration_ms": 174520,
+      "name": "Talking In Your Sleep",
+      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "When I Dream",
-        "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
+        "name": "Rocky Mountain Music",
+        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
       },
       "artists": [
         {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 174520,
-      "name": "Talking In Your Sleep",
-      "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
+      "duration_ms": 142773,
+      "name": "Two Dollars in the Jukebox - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
     },
     {
       "added_at": "2022-05-06 19:37:58",

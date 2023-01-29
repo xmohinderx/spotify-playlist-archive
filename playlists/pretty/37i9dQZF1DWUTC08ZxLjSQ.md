@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: ReqTeq , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,109 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,117 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Space & Time](https://open.spotify.com/track/0xHqT7a3BXGgn3uTzKEUbr) | [ReqTeq](https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv), [Sandunes](https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn), [Bassidi Koné](https://open.spotify.com/artist/4nQR0mQTUdRxwohhQlZtr9), [Smokey The Ghost](https://open.spotify.com/artist/3P4yYdpOTSa94saSCZja7s), [Kyla\-rose Smith](https://open.spotify.com/artist/3gr86P9hIAyVK5zBVCYMoE), [Elena Moon Park](https://open.spotify.com/artist/4Okanr8CZ6f2oGudDIyv77), [Byron Asher](https://open.spotify.com/artist/55sQfd3MpgHjytNXcPVdp0) | [Barzak](https://open.spotify.com/album/6nHE1H2IXDVRtozH48Xm43) | 3:03 |
-| 2 | [Little Dreamer](https://open.spotify.com/track/7IUBTqYDy0AaOcbQYjW2rR) | [Whosof](https://open.spotify.com/artist/3F7AXfEdcXnHLyi4EuCfnv) | [Little Dreamer](https://open.spotify.com/album/4UaMU54cUQcdtfMXiFffDn) | 1:12 |
+| 2 | [Little Dreamer](https://open.spotify.com/track/7IUBTqYDy0AaOcbQYjW2rR) | [Omar Whosof](https://open.spotify.com/artist/3yT8ShXUgEHCcPm8zYKnDF) | [Little Dreamer](https://open.spotify.com/album/4UaMU54cUQcdtfMXiFffDn) | 1:12 |
 | 3 | [Hours Before](https://open.spotify.com/track/09q1UGBV3en2NpEjeiK70A) | [Laila Beshara](https://open.spotify.com/artist/1jLZGIAr5dV3MrPxe4EKJD) | [Hours Before](https://open.spotify.com/album/3gUN37tZtyrH6kvabudnF7) | 2:13 |
 | 4 | [Stranger \(غريب\)](https://open.spotify.com/track/3m7rymge4fdUrvDSKyRg0V) | [Amine Saasaai](https://open.spotify.com/artist/3Ob3H5MBJVHXNzAEuKD3le) | [Stranger \(غريب\)](https://open.spotify.com/album/21Grog1B6mhy0lmvf6VCVG) | 3:40 |
 | 5 | [alwan](https://open.spotify.com/track/4CsrJAOj9SEEFbWWmwyC9U) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [daydreamer](https://open.spotify.com/album/7lu9PAgEM5XqPLrU0hi8wA) | 2:40 |

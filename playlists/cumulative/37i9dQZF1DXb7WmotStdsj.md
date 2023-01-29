@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-132 songs - 10 hr 40 min
+133 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Makach Kifach](https://open.spotify.com/track/3RxlroBoqy7N3wgCUxNHhn) | [Amoune Talens](https://open.spotify.com/artist/7Clbt167lhGJ2yLwPkvJhJ), [Dj Fouzi](https://open.spotify.com/artist/7mYT5gH0ZziVicvSVJAA8O), [DJ Abed](https://open.spotify.com/artist/36f15Tayj3prRQsVNgCvXk) | [Makach Kifach](https://open.spotify.com/album/2lab8N8zcfb2J8XKqvlsn5) | 2:57 | 2022-09-20 | 2022-10-04 |
 | [Makanch Li Yafhamni](https://open.spotify.com/track/0gtRVUfCvjTg7D0yFuiWTo) | [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig), [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb) | [Makanch Li Yafhamni](https://open.spotify.com/album/0gNWk1obpn1exlDtmAtxst) | 4:44 | 2022-09-20 |  |
 | [Manich 3ayach Ki Nass](https://open.spotify.com/track/6NxbI1vd0HTY4wNqRcbH7t) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Manich 3ayach Ki Nass](https://open.spotify.com/album/1fAiOJLbsRuEPnSTM1HwJp) | 5:34 | 2022-09-20 | 2022-12-01 |
-| [Manich Adouk](https://open.spotify.com/track/0LFZgd1oDmLTDJMFXfICTZ) | [Houari Bouha](https://open.spotify.com/artist/4STSUAUL17QqyZgMhAjCct) | [Ravda](https://open.spotify.com/album/1rcOZ8jdW4UZZNKWaR4nyW) | 5:06 | 2022-08-15 |  |
+| [Manich Adouk](https://open.spotify.com/track/0LFZgd1oDmLTDJMFXfICTZ) | [Houari Bouha](https://open.spotify.com/artist/4STSUAUL17QqyZgMhAjCct) | [Ravda](https://open.spotify.com/album/1rcOZ8jdW4UZZNKWaR4nyW) | 5:06 | 2022-08-15 | 2023-01-29 |
 | [Manich Fahem Rouhi](https://open.spotify.com/track/1xNX8gG65KGMxVaJucOHrd) | [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb) | [Manich Fahem Rouhi](https://open.spotify.com/album/3kgJcloeiWGoFKeRVGrIOM) | 6:00 | 2022-09-20 | 2022-12-01 |
 | [Manich Kima Bakri](https://open.spotify.com/track/5dlisfuyJayuJXCDMEeov3) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 5:45 | 2022-11-14 |  |
 | [Maniche Ghaya](https://open.spotify.com/track/4b3FfSiGHdCgRioDRgTe3B) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [Maniche Ghaya](https://open.spotify.com/album/0cZAAarZByPdTYTWlco14o) | 4:42 | 2021-10-19 |  |
@@ -126,6 +126,7 @@
 | [Wahda Bwahda](https://open.spotify.com/track/4Ws6cRdfazsptOVi6lS25W) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [Wahda Bwahda](https://open.spotify.com/album/4uxtyscFwFbNrck3U4lvjQ) | 4:41 | 2022-09-27 | 2022-11-21 |
 | [Way Way](https://open.spotify.com/track/4fhtWJkjPXZNRfS6x94OZf) | [Mouss Maher](https://open.spotify.com/artist/7n40iNdXEPUvQkURa7c3Xv), [Cheikh Nano](https://open.spotify.com/artist/2DcBVx9B2rez95bOTb1cDH) | [Way Way](https://open.spotify.com/album/0gdIW2pOUSBwTUagG5IwfU) | 4:19 | 2022-09-20 | 2022-10-26 |
 | [Wayn Rakom Ya Hbabi](https://open.spotify.com/track/3CbMZTL6zwiA6r5BvGnMZE) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Wayn Rakom Ya Hbabi](https://open.spotify.com/album/6Z14yylSHkwvie7957DHtB) | 5:09 | 2021-10-19 | 2022-12-30 |
+| [Ya Galbi 39el Fiha](https://open.spotify.com/track/10T3NyeNu9aP1k89RUwWAp) | [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb), [Houari Ghazali](https://open.spotify.com/artist/2KXXuXgrY1X2RLez2UAVog) | [Ya Galbi 39el Fiha](https://open.spotify.com/album/1sIqXsmvaKG504gDsAkEHF) | 5:12 | 2023-01-28 |  |
 | [YA SAMRA](https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3) | [Cheb Yacin Tigre](https://open.spotify.com/artist/6wuzVpbUB3pwGMMFXWRhUM) | [YA SAMRA](https://open.spotify.com/album/1ISVnwls21aDdB7hZxeYiT) | 3:44 | 2021-10-19 | 2022-07-29 |
 | [Ya Samra Hobek welali jamra](https://open.spotify.com/track/442IWFKIrGrHTVjIrfc3YR) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Ya Samra Hobek welali jamra](https://open.spotify.com/album/2vtIO9E8hCsEOhOoty8OHL) | 3:44 | 2022-05-11 |  |
 | [Zahri Win Wana Win](https://open.spotify.com/track/7JaAkijrRoUPIeJaLJbLoq) | [Abdou Goumbita](https://open.spotify.com/artist/2c5isiSrNIixIIqPQABwo9) | [Zahri Win Wana Win](https://open.spotify.com/album/7jKeS8lavzWlG7r9DPIGud) | 3:04 | 2022-09-20 | 2022-11-21 |

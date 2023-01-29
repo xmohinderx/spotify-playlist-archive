@@ -650,7 +650,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 219687,
       "name": "It's Just This Thing",
       "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
@@ -1356,6 +1356,28 @@
       "duration_ms": 235000,
       "name": "Stan Smith",
       "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
+    },
+    {
+      "album": {
+        "name": "Stars On The Roof (feat. MoMo)",
+        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242769,
+      "name": "Stars On The Roof (feat. MoMo)",
+      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
     },
     {
       "album": {

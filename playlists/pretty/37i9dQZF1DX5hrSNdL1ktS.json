@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Nicole Favre en portada.",
-  "num_followers": 55331,
+  "num_followers": 55334,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0MjQwMCwwMDAwMDAwMDczOTMxOWJjZjdlYzI2ODg0MmYzZGFjMWQ2MTY2MTEz",
+  "snapshot_id": "MTY3NDg0MjQwMCwwMDAwMDAwMGRiMjI2Yjc1MzNlOGY1ZDY4MjczODI4NjJmYjBmODg2",
   "tracks": [
     {
       "added_at": "2023-01-27 18:00:00",
@@ -47,7 +47,7 @@
     {
       "added_at": "2023-01-27 18:00:00",
       "album": {
-        "name": "Ni Miro (feat. Big Soto)",
+        "name": "Ni Miro (feat. Neutro Shorty)",
         "url": "https://open.spotify.com/album/58dp6Q6Li4yKDlpyamoUL0"
       },
       "artists": [
@@ -56,20 +56,20 @@
           "url": "https://open.spotify.com/artist/7MAFjAqzB7cFssz84HSSlv"
         },
         {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
         },
         {
           "name": "Hector Miller",
           "url": "https://open.spotify.com/artist/7tOWLNCTJTEIDBwIUyyQue"
         },
         {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
         }
       ],
       "duration_ms": 302048,
-      "name": "Ni Miro (feat. Big Soto)",
+      "name": "Ni Miro (feat. Neutro Shorty)",
       "url": "https://open.spotify.com/track/7E3YhRU66U29zK5L7gT829"
     },
     {
@@ -549,38 +549,6 @@
       "url": "https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ"
     },
     {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Las de Octubre",
-        "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 165408,
-      "name": "Las de Octubre",
-      "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
-    },
-    {
       "added_at": "2022-11-25 02:28:29",
       "album": {
         "name": "Viaje",
@@ -607,6 +575,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "B-Day",
         "url": "https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Las de Octubre",
+        "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 165408,
+      "name": "Las de Octubre",
+      "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
     },
     {
-      "added_at": "2023-01-13 04:35:26",
-      "album": {
-        "name": "Tranqui",
-        "url": "https://open.spotify.com/album/28zn44cRESEcsvG37DUfpS"
-      },
-      "artists": [
-        {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "Tranqui",
-      "url": "https://open.spotify.com/track/4A8ygVU8Ot3KTW2alLZ8Eq"
-    },
-    {
       "added_at": "2022-09-29 23:31:37",
       "album": {
         "name": "Dm",
@@ -715,6 +699,22 @@
       "duration_ms": 183956,
       "name": "Dm",
       "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
+    },
+    {
+      "added_at": "2023-01-13 04:35:26",
+      "album": {
+        "name": "Tranqui",
+        "url": "https://open.spotify.com/album/28zn44cRESEcsvG37DUfpS"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        }
+      ],
+      "duration_ms": 152760,
+      "name": "Tranqui",
+      "url": "https://open.spotify.com/track/4A8ygVU8Ot3KTW2alLZ8Eq"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/3gn4amt8rKlgHI8pNrxFyN"
     },
     {
-      "added_at": "2022-11-25 00:38:51",
-      "album": {
-        "name": "Hipernova",
-        "url": "https://open.spotify.com/album/0cKvKbeXn0KjgXQGBmUdvR"
-      },
-      "artists": [
-        {
-          "name": "Self Sabotage",
-          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Hipernova",
-      "url": "https://open.spotify.com/track/3KrkaGdIFgQYLmAN2mrDgb"
-    },
-    {
       "added_at": "2022-09-29 23:31:37",
       "album": {
         "name": "Jake Long",
@@ -919,6 +903,22 @@
       "duration_ms": 158666,
       "name": "Jake Long",
       "url": "https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U"
+    },
+    {
+      "added_at": "2022-11-25 00:38:51",
+      "album": {
+        "name": "Hipernova",
+        "url": "https://open.spotify.com/album/0cKvKbeXn0KjgXQGBmUdvR"
+      },
+      "artists": [
+        {
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Hipernova",
+      "url": "https://open.spotify.com/track/3KrkaGdIFgQYLmAN2mrDgb"
     },
     {
       "added_at": "2022-09-29 23:31:37",

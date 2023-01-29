@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Varisu
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,644 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,085 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

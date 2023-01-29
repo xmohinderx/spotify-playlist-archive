@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 383079,
+  "num_followers": 383700,
   "original_name": "Energy Booster: R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQyOTgzNywwMDAwMDAwMDIzNWZiMmUwZDgyYjEzZTg4NzUxODgzNjlhMzFkMGYy",
+  "snapshot_id": "MTY2MTQyOTgzNywwMDAwMDAwMDU5Y2RkOTVlZGJlZThiZjI3MjEwYmZjMTRiNWQ5MGU4",
   "tracks": [
     {
       "added_at": "2022-08-02 10:25:51",
@@ -391,22 +391,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Here I Stand",
-        "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
       "artists": [
         {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 259720,
-      "name": "Love in This Club (feat. Young Jeezy)",
-      "url": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
+      "duration_ms": 256026,
+      "name": "Bills, Bills, Bills",
+      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -443,18 +439,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+        "name": "Here I Stand",
+        "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
       },
       "artists": [
         {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
         }
       ],
-      "duration_ms": 256026,
-      "name": "Bills, Bills, Bills",
-      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
+      "duration_ms": 259720,
+      "name": "Love in This Club (feat. Young Jeezy)",
+      "url": "https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -503,6 +503,22 @@
       "duration_ms": 264946,
       "name": "Loyal (feat. Lil Wayne & Tyga)",
       "url": "https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -579,22 +595,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 225226,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -755,22 +771,6 @@
       "duration_ms": 189906,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/7ioiB40H9xKs04QtIso2I3"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Do You Wanna Ride?",
-        "url": "https://open.spotify.com/album/0Tcn0XVUiS6eXoD8vZdQSk"
-      },
-      "artists": [
-        {
-          "name": "Adina Howard",
-          "url": "https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Freak Like Me",
-      "url": "https://open.spotify.com/track/6Vas6h9lB5mmeVDXdFqlQA"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Aaliyah",
         "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 229866,
       "name": "More Than A Woman",
       "url": "https://open.spotify.com/track/4x2YdtTppdbL4kHPOjaunq"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Do You Wanna Ride?",
+        "url": "https://open.spotify.com/album/0Tcn0XVUiS6eXoD8vZdQSk"
+      },
+      "artists": [
+        {
+          "name": "Adina Howard",
+          "url": "https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Freak Like Me",
+      "url": "https://open.spotify.com/track/6Vas6h9lB5mmeVDXdFqlQA"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 202661,
+      "name": "Not Nice",
+      "url": "https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
         "name": "Ms. Kelly",
         "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 215853,
       "name": "Like This (feat. Eve)",
       "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
-        "name": "PARTYNEXTDOOR 3 (P3)",
-        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 202661,
-      "name": "Not Nice",
-      "url": "https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Rebellious Soul",
-        "url": "https://open.spotify.com/album/6fGZwUN91Qe5h8xFcLV487"
-      },
-      "artists": [
-        {
-          "name": "K. Michelle",
-          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
-        }
-      ],
-      "duration_ms": 208040,
-      "name": "Can't Raise a Man",
-      "url": "https://open.spotify.com/track/0vvKyFjX1hzSwpNtVwnJ2H"
-    },
-    {
-      "added_at": "2022-08-02 10:25:51",
-      "album": {
         "name": "Fear Of Flying",
         "url": "https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 236826,
       "name": "Case Of The Ex (Whatcha Gonna Do)",
       "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
+    },
+    {
+      "added_at": "2022-08-02 10:25:51",
+      "album": {
+        "name": "Rebellious Soul",
+        "url": "https://open.spotify.com/album/6fGZwUN91Qe5h8xFcLV487"
+      },
+      "artists": [
+        {
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+        }
+      ],
+      "duration_ms": 208040,
+      "name": "Can't Raise a Man",
+      "url": "https://open.spotify.com/track/0vvKyFjX1hzSwpNtVwnJ2H"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Sons Of Soul",
-        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
+        "name": "Pronounced Jah-Nay",
+        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
       },
       "artists": [
         {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
         }
       ],
-      "duration_ms": 241466,
-      "name": "If I Had No Loot",
-      "url": "https://open.spotify.com/track/5oPRLER8bCQN3RFFVvLbTC"
+      "duration_ms": 235000,
+      "name": "Groove Thang",
+      "url": "https://open.spotify.com/track/4au81WOeFQWUQvHh7WCGz2"
     },
     {
       "added_at": "2022-08-02 10:25:51",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2022-08-02 10:25:51",
       "album": {
-        "name": "Pronounced Jah-Nay",
-        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
+        "name": "Sons Of Soul",
+        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
       },
       "artists": [
         {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Groove Thang",
-      "url": "https://open.spotify.com/track/4au81WOeFQWUQvHh7WCGz2"
+      "duration_ms": 241466,
+      "name": "If I Had No Loot",
+      "url": "https://open.spotify.com/track/5oPRLER8bCQN3RFFVvLbTC"
     },
     {
       "added_at": "2022-08-02 10:25:51",

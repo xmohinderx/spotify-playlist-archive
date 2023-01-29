@@ -7796,7 +7796,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 207153,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/48AdYz5KuKxC9ZO9gKiIqZ"
@@ -10080,7 +10080,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 272453,
       "name": "Quotidian",
       "url": "https://open.spotify.com/track/0WHOeXFbBnzskl9rRc686O"
@@ -10502,6 +10502,24 @@
       "duration_ms": 156772,
       "name": "Runner",
       "url": "https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9"
+    },
+    {
+      "album": {
+        "name": "runnning in place at the edge of the map",
+        "url": "https://open.spotify.com/album/4Uukzt62MsJKfLH4U6Ks6x"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307813,
+      "name": "runnning in place at the edge of the map",
+      "url": "https://open.spotify.com/track/26DOPFm4uhx8EVpwrYTb8M"
     },
     {
       "album": {
@@ -11870,7 +11888,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 142733,
       "name": "Stephen Hawking's Goldfish Analogy (Demo)",
       "url": "https://open.spotify.com/track/5G1GJu18mEN8c2GlyREUKz"

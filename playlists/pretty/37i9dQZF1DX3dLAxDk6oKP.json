@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 255047,
+  "num_followers": 255596,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDcxMjkwNSwwMDAwMDAwMDUzMDUxYjRkZjM1ODcwMWRhYzNiMTI4Nzk5Y2VlNThk",
+  "snapshot_id": "MTY3NDcxMjkwNSwwMDAwMDAwMDQwMjk4ODczNDBmYzM0NmIxN2I3MjdkYmY0NDYzN2E0",
   "tracks": [
     {
       "added_at": "2023-01-26 06:01:45",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
-        "name": "Belico El Asunto (En Vivo)",
-        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Belico El Asunto (En Vivo)",
-      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": "2023-01-26 06:01:45",
-      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+    },
+    {
+      "added_at": "2023-01-26 06:01:45",
+      "album": {
+        "name": "Belico El Asunto (En Vivo)",
+        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Belico El Asunto (En Vivo)",
+      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
       "added_at": "2023-01-26 06:01:45",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
-        "name": "Soy Buen Amigo",
-        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 153967,
-      "name": "Soy Buen Amigo",
-      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
-    },
-    {
-      "added_at": "2023-01-26 06:01:45",
-      "album": {
         "name": "The Life in Your Eyes",
         "url": "https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz"
       },
@@ -691,6 +675,26 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 213943,
+      "name": "Porte Exuberante",
+      "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
+    },
+    {
+      "added_at": "2023-01-26 06:01:45",
+      "album": {
         "name": "The Green Trip",
         "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
       },
@@ -711,22 +715,18 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+        "name": "Soy Buen Amigo",
+        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 213943,
-      "name": "Porte Exuberante",
-      "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
+      "duration_ms": 153967,
+      "name": "Soy Buen Amigo",
+      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
     },
     {
       "added_at": "2023-01-26 06:01:45",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 137323,
-      "name": "El Circo",
-      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
-    },
-    {
-      "added_at": "2023-01-26 06:01:45",
-      "album": {
         "name": "Un Album Sencillo",
         "url": "https://open.spotify.com/album/3v0EO4EsCPW8nZiqwbVVZH"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 144545,
       "name": "Tan Solo Morro",
       "url": "https://open.spotify.com/track/0KUPRHjyvFMnl4XLN3q1S1"
+    },
+    {
+      "added_at": "2023-01-26 06:01:45",
+      "album": {
+        "name": "Soy El Rat\u00f3n",
+        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 222669,
+      "name": "Soy El Rat\u00f3n",
+      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
     },
     {
       "added_at": "2023-01-26 06:01:45",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
-        "name": "Soy El Rat\u00f3n",
-        "url": "https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz"
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
       "artists": [
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 222669,
-      "name": "Soy El Rat\u00f3n",
-      "url": "https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz"
+      "duration_ms": 137323,
+      "name": "El Circo",
+      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
     },
     {
       "added_at": "2023-01-26 06:01:45",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 228545,
+      "name": "Te Apuesto - En vivo",
+      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
+    },
+    {
+      "added_at": "2023-01-26 06:01:45",
+      "album": {
         "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 178960,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
-    },
-    {
-      "added_at": "2023-01-26 06:01:45",
-      "album": {
-        "name": "En Vivo EP, Vol. 1 (En vivo)",
-        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 228545,
-      "name": "Te Apuesto - En vivo",
-      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
     },
     {
       "added_at": "2023-01-26 06:01:45",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
-        "name": "Hay Niveles",
-        "url": "https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 122111,
-      "name": "Hay Niveles",
-      "url": "https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn"
-    },
-    {
-      "added_at": "2023-01-26 06:01:45",
-      "album": {
         "name": "DEV, Vol. 2",
         "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
+        "name": "Hay Niveles",
+        "url": "https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 122111,
+      "name": "Hay Niveles",
+      "url": "https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn"
+    },
+    {
+      "added_at": "2023-01-26 06:01:45",
+      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
-        "name": "Ni Modo Que Sea Mentira",
-        "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 118851,
-      "name": "El Tony",
-      "url": "https://open.spotify.com/track/2H8NfRvMm7sBJBmjSxJimb"
-    },
-    {
-      "added_at": "2023-01-26 06:01:45",
-      "album": {
         "name": "Es Dificil Ser Un Santo",
         "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 185756,
       "name": "Es Dificil Ser Un Santo",
       "url": "https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW"
+    },
+    {
+      "added_at": "2023-01-26 06:01:45",
+      "album": {
+        "name": "Ni Modo Que Sea Mentira",
+        "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 118851,
+      "name": "El Tony",
+      "url": "https://open.spotify.com/track/2H8NfRvMm7sBJBmjSxJimb"
     },
     {
       "added_at": "2023-01-26 06:01:45",
@@ -1615,26 +1615,22 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
-        "name": "El De Las Dos Pistolas",
-        "url": "https://open.spotify.com/album/0LkXAgU73w2GQAHW4VDtSD"
+        "name": "Bien Alerta (En vivo)",
+        "url": "https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx"
       },
       "artists": [
         {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         },
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Los de la O",
-          "url": "https://open.spotify.com/artist/5IUHqCKGttBbtZ0h1Fv4xU"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 167288,
-      "name": "El De Las Dos Pistolas",
-      "url": "https://open.spotify.com/track/3BvGcHKkSKRdkathkvvxRp"
+      "duration_ms": 153500,
+      "name": "Bien Alerta - En vivo",
+      "url": "https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv"
     },
     {
       "added_at": "2023-01-26 06:01:45",
@@ -1659,22 +1655,26 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
-        "name": "Bien Alerta (En vivo)",
-        "url": "https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx"
+        "name": "El De Las Dos Pistolas",
+        "url": "https://open.spotify.com/album/0LkXAgU73w2GQAHW4VDtSD"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Los de la O",
+          "url": "https://open.spotify.com/artist/5IUHqCKGttBbtZ0h1Fv4xU"
         }
       ],
-      "duration_ms": 153500,
-      "name": "Bien Alerta - En vivo",
-      "url": "https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv"
+      "duration_ms": 167288,
+      "name": "El De Las Dos Pistolas",
+      "url": "https://open.spotify.com/track/3BvGcHKkSKRdkathkvvxRp"
     },
     {
       "added_at": "2023-01-26 06:01:45",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
-        "name": "Placas De Papel",
-        "url": "https://open.spotify.com/album/6ZjSxw9BKp2GTluFw6v23m"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 220457,
-      "name": "Placas De Papel",
-      "url": "https://open.spotify.com/track/1uUKCuNemiNcROEVAEn5Qj"
-    },
-    {
-      "added_at": "2023-01-26 06:01:45",
-      "album": {
         "name": "La Noche Empieza",
         "url": "https://open.spotify.com/album/1iBhcWwp8cwiS01F1hyqJN"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 227454,
       "name": "La Noche Empieza",
       "url": "https://open.spotify.com/track/28wWPHEn63HCXDMqiCiLyX"
+    },
+    {
+      "added_at": "2023-01-26 06:01:45",
+      "album": {
+        "name": "Placas De Papel",
+        "url": "https://open.spotify.com/album/6ZjSxw9BKp2GTluFw6v23m"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 220457,
+      "name": "Placas De Papel",
+      "url": "https://open.spotify.com/track/1uUKCuNemiNcROEVAEn5Qj"
     },
     {
       "added_at": "2023-01-26 06:01:45",
@@ -2455,18 +2455,18 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+        "name": "Hay Les Encargo",
+        "url": "https://open.spotify.com/album/6rAmk14u7dDPQ0W10ogTwa"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
         }
       ],
-      "duration_ms": 187943,
-      "name": "A Mis Enemigos - En vivo",
-      "url": "https://open.spotify.com/track/2gVRncgWzabK2CuqHUvyiE"
+      "duration_ms": 162546,
+      "name": "Hay Les Encargo",
+      "url": "https://open.spotify.com/track/2oU624ui3RVaSNpMqA4Gd3"
     },
     {
       "added_at": "2023-01-26 06:01:45",
@@ -2495,18 +2495,18 @@
     {
       "added_at": "2023-01-26 06:01:45",
       "album": {
-        "name": "Hay Les Encargo",
-        "url": "https://open.spotify.com/album/6rAmk14u7dDPQ0W10ogTwa"
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
       "artists": [
         {
-          "name": "Pantera De Culiacan Sinaloa",
-          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 162546,
-      "name": "Hay Les Encargo",
-      "url": "https://open.spotify.com/track/2oU624ui3RVaSNpMqA4Gd3"
+      "duration_ms": 187943,
+      "name": "A Mis Enemigos - En vivo",
+      "url": "https://open.spotify.com/track/2gVRncgWzabK2CuqHUvyiE"
     }
   ],
   "unique_name": "La Mamalona",

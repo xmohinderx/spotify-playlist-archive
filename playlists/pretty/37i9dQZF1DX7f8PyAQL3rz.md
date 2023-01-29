@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > 1kg de ouro no peito do orochi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,528 likes - 55 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,424 likes - 55 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 19 | [Baile no Morro](https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD) | [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Mc Vitin Da Igrejinha](https://open.spotify.com/artist/6junQmlAntqTBJPTYCq25a), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG) | [Baile no Morro](https://open.spotify.com/album/0zk4s7xBJ8M2VoT0TTd230) | 2:20 |
 | 20 | [Felina](https://open.spotify.com/track/2orGm2E68ODFYOURjaES62) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Felina](https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn) | 3:45 |
 | 21 | [Vampiro](https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Vampiro](https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy) | 4:10 |
-| 22 | [Vida Chique](https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Nick Nash](https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN), [Wylo](https://open.spotify.com/artist/56l3zYVU89SjFJXyoOdsBg), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Dos Prédios](https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d) | 3:30 |
+| 22 | [Vida Chique](https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nick Nash](https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN), [Wylo](https://open.spotify.com/artist/56l3zYVU89SjFJXyoOdsBg), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Dos Prédios](https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d) | 3:30 |
 | 23 | [Fim de Semana no Rio](https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Fim de Semana no Rio](https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S) | 2:45 |
 | 24 | [Doce Veneno](https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Doce Veneno](https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl) | 3:28 |
 | 25 | [O Fim é Triste \(feat\. DJ BOY\)](https://open.spotify.com/track/0yDMhYTryvQoR634wDgQ1j) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V) | [O Fim é Triste \(feat\. DJ BOY\)](https://open.spotify.com/album/42olwEoM9dmZzgs97cjdXt) | 2:38 |

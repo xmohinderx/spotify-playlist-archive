@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=6FaHJ3sJRZ\-8aikGhceCow">Boutross </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,320 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,350 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Angela](https://open.spotify.com/track/6YBG1RnrZfdEH5EvcWP4YF) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Juicee Man](https://open.spotify.com/artist/5aPQde9UW5ec9Rl3kQ94lh) | [Mawingu](https://open.spotify.com/album/67yuWyHBKoIcTlQLT72KQN) | 2:57 |
+| 1 | [Angela](https://open.spotify.com/track/6YBG1RnrZfdEH5EvcWP4YF) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Juicee Mann](https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ) | [Mawingu](https://open.spotify.com/album/67yuWyHBKoIcTlQLT72KQN) | 2:57 |
 | 2 | [Miondoko](https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar) | [Rico Gang](https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl) | [Sababisha](https://open.spotify.com/album/3jN1KdqjRgVa8yyWA0975q) | 3:04 |
 | 3 | [Nasikia Wah](https://open.spotify.com/track/2yfNX50aSgen5BcXbg7zVm) | [Boondocks Gang](https://open.spotify.com/artist/2NCbtxsrqTAf0XWugY749q), [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G) | [Nasikia Wah](https://open.spotify.com/album/3UWUoIRvsWuCBGEU03xNoh) | 3:39 |
 | 4 | [Fukuru](https://open.spotify.com/track/0g0EXBEerMRPEGIyRkZihw) | [mbogi genje](https://open.spotify.com/artist/5eQ2ubstDVX3PfioYXETdi), [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB) | [Fukuru](https://open.spotify.com/album/0SmMmti8sJiW99U9OE4iEp) | 3:51 |

@@ -1,12 +1,12 @@
 {
   "description": "Grandes cl\u00e1sicos del pop en espa\u00f1ol. \u00a1Todo limpio y ordenado!",
-  "num_followers": 110838,
+  "num_followers": 110902,
   "original_name": "Pa Planchar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY4MDY2NiwwMDAwMDAwMDg2ZDFhODZlZDAyZGQwYTJjODJiYzViMTU1MzIwNGI3",
+  "snapshot_id": "MTY2OTY4MDY2NiwwMDAwMDAwMDVjYTFlN2ZlMDVjNDZjMDQ0YmExOTJmZjJlMWMzYjlh",
   "tracks": [
     {
       "added_at": "2022-11-29 00:11:06",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-11-29 00:11:06",
       "album": {
-        "name": "Guajiro Natural",
-        "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
-      },
-      "artists": [
-        {
-          "name": "Polo Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
-        }
-      ],
-      "duration_ms": 364573,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
-    },
-    {
-      "added_at": "2022-11-29 00:11:06",
-      "album": {
         "name": "Sus 16 Grandes Exitos",
         "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 219106,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
+    },
+    {
+      "added_at": "2022-11-29 00:11:06",
+      "album": {
+        "name": "Guajiro Natural",
+        "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
+      },
+      "artists": [
+        {
+          "name": "Polo Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
+        }
+      ],
+      "duration_ms": 364573,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
     },
     {
       "added_at": "2022-11-29 00:11:06",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-11-29 00:11:06",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
-    },
-    {
-      "added_at": "2022-11-29 00:11:06",
-      "album": {
         "name": "Hasta Ahora",
         "url": "https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 249973,
       "name": "Entra en Mi Vida",
       "url": "https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe"
+    },
+    {
+      "added_at": "2022-11-29 00:11:06",
+      "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1"
     },
     {
       "added_at": "2022-11-29 00:11:06",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-11-29 00:11:06",
       "album": {
+        "name": "Quien Como T\u00fa",
+        "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Qui\u00e9n Como T\u00fa",
+      "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
+    },
+    {
+      "added_at": "2022-11-29 00:11:06",
+      "album": {
         "name": "Coleccion definitiva (Deluxe)",
         "url": "https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 277453,
       "name": "Te lo agradezco, pero no (feat. Shakira)",
       "url": "https://open.spotify.com/track/67g3Wn5bMFDV4qGICl4u6J"
-    },
-    {
-      "added_at": "2022-11-29 00:11:06",
-      "album": {
-        "name": "Quien Como T\u00fa",
-        "url": "https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Qui\u00e9n Como T\u00fa",
-      "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
     },
     {
       "added_at": "2022-11-29 00:11:06",

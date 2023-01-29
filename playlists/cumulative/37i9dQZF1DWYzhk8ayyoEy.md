@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart
 
-60 songs - 3 hr 20 min
+62 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Better Days](https://open.spotify.com/track/2SLxgJ2YFohfd8KwuJZTUE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:24 | 2023-01-04 |  |
 | [Brave](https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave](https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql) | 3:21 | 2023-01-04 |  |
 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 | 2023-01-04 |  |
+| [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf) | 2:50 | 2023-01-28 |  |
 | [By The Grace Of God](https://open.spotify.com/track/2IRK3qdY6BzbKxKr8eBk8o) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 4:27 | 2023-01-04 |  |
 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 | 2023-01-04 |  |
 | [Don't Give Up On Me \- \(From "Five Feet Apart"\)](https://open.spotify.com/track/5A3fPy30SN2wuzrahpcxvV) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 3:16 | 2023-01-04 |  |
@@ -42,17 +43,18 @@
 | [Love Like That](https://open.spotify.com/track/5FkMAjNnp34RGJJj9TTY2A) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Love Like That](https://open.spotify.com/album/3A6pwCsqEs8t3pe60T8nfi) | 3:14 | 2023-01-04 |  |
 | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Love Me Like I Am \(with Jordin Sparks\)](https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF) | 3:07 | 2023-01-04 |  |
 | [Love Myself](https://open.spotify.com/track/4o4MwnE4OK3JNG4lCYFnwm) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Love Myself](https://open.spotify.com/album/3dWKxlG74AkudyddirBxuF) | 3:07 | 2023-01-04 |  |
-| [ME YOU](https://open.spotify.com/track/2u1gdTcWQjyCTCWYBWkoEj) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt), [Nyman](https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT) | [ME YOU](https://open.spotify.com/album/1Ug4L0tW4LHyQobHV2B6Pw) | 2:56 | 2023-01-04 |  |
+| [ME YOU](https://open.spotify.com/track/2u1gdTcWQjyCTCWYBWkoEj) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt), [Nyman](https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT) | [ME YOU](https://open.spotify.com/album/1Ug4L0tW4LHyQobHV2B6Pw) | 2:56 | 2023-01-04 | 2023-01-29 |
 | [New Light](https://open.spotify.com/track/6GQTJDcxw4c4qHkk4CUDt8) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [New Light](https://open.spotify.com/album/7fUsf40ugmlvEjNj6uGrFq) | 2:31 | 2023-01-04 |  |
 | [Next To Me](https://open.spotify.com/track/1Xsxp1SEOxuMzjrFZhtw8u) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events](https://open.spotify.com/album/3bPrapL1DmFkznWnTb7xNz) | 3:16 | 2023-01-04 |  |
 | [Nobody](https://open.spotify.com/track/1JvGjHoDwbekZ9lNVzH0GH) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:37 | 2023-01-04 |  |
 | [North](https://open.spotify.com/track/0pjBEOWMJTwzzjBrTAlbDd) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Silver Crane](https://open.spotify.com/album/1ufCvsEshySWoAvaWRVMbl) | 3:34 | 2023-01-04 |  |
 | [nothing but the love](https://open.spotify.com/track/6nUwq6jL9AiwzsRDxI0AkN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:04 | 2023-01-04 |  |
 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 | 2023-01-04 |  |
+| [Our Moment](https://open.spotify.com/track/01cmDm4asTTxN4M82JovaU) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Our Moment](https://open.spotify.com/album/5uUBaBc5fc0dsaH7XpMLtZ) | 4:12 | 2023-01-28 |  |
 | [Pray](https://open.spotify.com/track/59ljpSFcgtfWJKS3vqG27R) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:41 | 2023-01-04 |  |
 | [Promised Land \(Collab OG\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5OGnvOXpZk65xdmmt1AddZ) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Life After Death](https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8) | 3:30 | 2023-01-04 |  |
 | [Purpose](https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:30 | 2023-01-04 |  |
-| [Remedy](https://open.spotify.com/track/3FNGP6PdIy5LwvRqyN0dK6) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Remedy](https://open.spotify.com/album/02hu2FF03LeNdAT6M2OMJU) | 3:24 | 2023-01-04 |  |
+| [Remedy](https://open.spotify.com/track/3FNGP6PdIy5LwvRqyN0dK6) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Remedy](https://open.spotify.com/album/02hu2FF03LeNdAT6M2OMJU) | 3:24 | 2023-01-04 | 2023-01-29 |
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2023-01-04 |  |
 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 | 2023-01-04 |  |
 | [Saved My Life \(with R3HAB\)](https://open.spotify.com/track/6ATM1zRLGYYP72J9xwnL1L) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Saved My Life \(with R3HAB\)](https://open.spotify.com/album/6deJd6SdTPGoCFwyzJk4L7) | 2:54 | 2023-01-04 |  |

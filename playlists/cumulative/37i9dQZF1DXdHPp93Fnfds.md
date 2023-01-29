@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Javiera Mena
 
-463 songs - 1 day 2 hr 41 min
+464 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,14 +124,14 @@
 | [Dicen](https://open.spotify.com/track/5Xe5N5HvbXvFYe4I87aQa3) | [Rocío Gal](https://open.spotify.com/artist/4AfambG94sVb235ZxRKGWL) | [Inventario de Ecos](https://open.spotify.com/album/6qnpV0UwXRnGcUOGeRToCw) | 3:09 | 2022-05-06 | 2022-07-26 |
 | [Diferente](https://open.spotify.com/track/3yD8ieuHLGv0MGKTYa1OJo) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Diferente](https://open.spotify.com/album/3K3zNoJFeTu1Sca0U8whGF) | 3:54 | 2022-04-20 | 2022-07-02 |
 | [Diré tu nombre](https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Diré tu nombre](https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr) | 2:59 | 2022-06-03 | 2022-07-28 |
-| [DISFRAZ](https://open.spotify.com/track/2d1Ywb69sE0UhOIyekrN9f) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s), [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [DISFRAZ](https://open.spotify.com/album/0aNHmrgKLB5pGoj1bZ16RQ) | 2:52 | 2022-10-28 | 2023-01-23 |
+| [DISFRAZ](https://open.spotify.com/track/2d1Ywb69sE0UhOIyekrN9f) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s), [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [DISFRAZ](https://open.spotify.com/album/0aNHmrgKLB5pGoj1bZ16RQ) | 2:52 | 2022-10-28 |  |
 | [DNI](https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI) | 1:43 | 2022-01-21 | 2022-05-24 |
 | [Dormir Contigo](https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Dormir Contigo](https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8) | 3:24 | 2022-01-14 |  |
 | [Dos](https://open.spotify.com/track/0J49GNG60XrmImmBl3UGCQ) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Dos](https://open.spotify.com/album/0TEAkQp2XSbE12UE0BsP2W) | 3:54 | 2022-01-14 | 2022-07-29 |
 | [Dwele](https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Dwele](https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz) | 3:12 | 2022-06-03 |  |
 | [Déjame](https://open.spotify.com/track/5M6tbiFcXlmUsExGACcB2W) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Déjame](https://open.spotify.com/album/0bMqqQFF8RH3HF44FLcsde) | 3:46 | 2022-01-21 | 2022-07-28 |
 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 | 2022-01-14 |  |
-| [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 | 2022-12-09 |  |
+| [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 | 2022-12-09 | 2023-01-29 |
 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2022-10-28 |  |
 | [El Aire Que Respires](https://open.spotify.com/track/2AwBz5FvRImGnV4T7qQKrR) | [NIKKÖ](https://open.spotify.com/artist/59pyzOYQlRJx8z1gzrN2ai), [Axel Mugneco](https://open.spotify.com/artist/6pr2XhUBfnXEa7bDc0nswN), [Michelle Mugneco](https://open.spotify.com/artist/693n5w7Sj2J0ZIjkp4FX9Y) | [El Aire Que Respires](https://open.spotify.com/album/2E8xOX3RrtFVdSDx5fW4yw) | 3:21 | 2022-01-21 | 2022-06-22 |
 | [El Astronauta](https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [El Astronauta](https://open.spotify.com/album/51aRXHN2FvmaRvyiAxKFdR) | 2:44 | 2022-01-14 | 2022-10-15 |
@@ -294,7 +294,7 @@
 | [No Azara](https://open.spotify.com/track/4uIOcEPajm9DLUVZJnLFOO) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [No Azara](https://open.spotify.com/album/5UiqNGN6vSO7QRHosfbdHQ) | 3:56 | 2022-01-14 |  |
 | [No Está Tan Mal](https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm), [JUD](https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB) | [No Está Tan Mal](https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn) | 3:05 | 2022-04-01 | 2022-06-19 |
 | [No Preguntes](https://open.spotify.com/track/2fCZieAMbaaj76IRwEgOfS) | [Rodra](https://open.spotify.com/artist/2kobUsQpUoViHFQI2Se4TQ) | [Al Humo](https://open.spotify.com/album/4fgNWfFYTXoxkIadmc5ook) | 2:50 | 2022-02-11 | 2022-04-21 |
-| [No quería venir](https://open.spotify.com/track/6FsVhGbphT7UNIylFhgbwt) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [No quería venir](https://open.spotify.com/album/3qHx3Gmu3Yez34wkzKCwSb) | 3:33 | 2022-06-03 |  |
+| [No quería venir](https://open.spotify.com/track/6FsVhGbphT7UNIylFhgbwt) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [No quería venir](https://open.spotify.com/album/3qHx3Gmu3Yez34wkzKCwSb) | 3:33 | 2022-06-03 | 2023-01-29 |
 | [No Sentir Nada](https://open.spotify.com/track/5G7rYoZVdKckqoxU8HeEPb) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [No Sentir Nada](https://open.spotify.com/album/1LiWH8PyGt4qh97xGOQYxo) | 3:53 | 2022-02-11 | 2022-07-25 |
 | [No sé qué tienes](https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [No sé qué tienes](https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50) | 2:54 | 2022-01-21 |  |
 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 | 2022-01-14 | 2022-07-29 |
@@ -367,6 +367,7 @@
 | [Random No](https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA) | [Tani](https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0) | [Random No](https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k) | 3:25 | 2022-02-11 | 2022-07-27 |
 | [Rara](https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Planes para Hoy](https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc) | 4:43 | 2022-02-11 | 2022-07-29 |
 | [rayo violeta](https://open.spotify.com/track/5R5kHA3tw9s9DUUWmiEH5V) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 2:53 | 2022-01-21 | 2022-07-12 |
+| [REPROGRAMAR](https://open.spotify.com/track/2dvxBDC0XVxQDk584mjn0s) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL.3](https://open.spotify.com/album/3l2saSDzvDxeviPVDMNnzY) | 2:34 | 2023-01-27 |  |
 | [Roma](https://open.spotify.com/track/6x5GX0efAvoP7UPREJZ7JO) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Roma](https://open.spotify.com/album/4T10MaEXDPURJu82rNHHjp) | 3:25 | 2022-04-01 | 2022-06-17 |
 | [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2022-06-03 | 2022-07-30 |
 | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Running Up That Hill \- Spotify Singles](https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v) | 3:40 | 2022-11-28 |  |

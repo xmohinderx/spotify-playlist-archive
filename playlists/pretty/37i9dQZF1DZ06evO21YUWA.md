@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 > This is Harold Budd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,083 likes - 49 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,087 likes - 49 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 42 | [A Delicate Romance](https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 7:14 |
 | 43 | [How Distant Your Heart](https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 4:03 |
 | 44 | [Little Heart](https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 7:38 |
-| 45 | [The Room Obscured](https://open.spotify.com/track/08sTYrrvMSaYohKpb6Gwzc) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Room](https://open.spotify.com/album/3jq7b66l8MswqDmi0mxzjq) | 1:03 |
-| 46 | [Outside, Silence](https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 4:25 |
-| 47 | [Ice Floes In Eden](https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 3:28 |
-| 48 | [The White Arcades](https://open.spotify.com/track/1RHWCbssogWYynyA7l0XsZ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The White Arcades](https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE) | 4:44 |
-| 49 | [Winter Garden](https://open.spotify.com/track/3L7bmTuqQVTGi9jR9NM6s9) | [Eraldo Bernocchi](https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Winter Garden](https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH) | 4:45 |
+| 45 | [Outside, Silence](https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Before the Day Breaks](https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN) | 4:25 |
+| 46 | [Ice Floes In Eden](https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 3:28 |
+| 47 | [The Room Obscured](https://open.spotify.com/track/08sTYrrvMSaYohKpb6Gwzc) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Room](https://open.spotify.com/album/3jq7b66l8MswqDmi0mxzjq) | 1:03 |
+| 48 | [Winter Garden](https://open.spotify.com/track/3L7bmTuqQVTGi9jR9NM6s9) | [Eraldo Bernocchi](https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Winter Garden](https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH) | 4:45 |
+| 49 | [The White Arcades](https://open.spotify.com/track/1RHWCbssogWYynyA7l0XsZ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The White Arcades](https://open.spotify.com/album/3BbMmyVg5D8kA8tAKm5yRE) | 4:44 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDBiMzE0OTNkMjNhMWE5NmY4YzdkZTBkNDA4ZjhiNzZlMQ==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDA1NWZmMDY4NjhkZWEwNjI2YjlmYWUzMjI2NGMxZDY5Yw==`

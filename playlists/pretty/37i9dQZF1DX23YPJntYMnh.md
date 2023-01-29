@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,405 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,449 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 15 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 |
 | 16 | [Always On The Run](https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 3:53 |
 | 17 | [John The Fisherman](https://open.spotify.com/track/4kiVGEOrzWmEUCxXU21rtN) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [They Can't All Be Zingers](https://open.spotify.com/album/3eI0FhygfWcdgI3GZdLXFT) | 3:36 |
-| 18 | [Been Caught Stealing](https://open.spotify.com/track/4Qievb8Mqy0qxdLNVl02zt) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 3:34 |
-| 19 | [Pets](https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Porno For Pyros](https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr) | 3:36 |
+| 18 | [Pets](https://open.spotify.com/track/5kcQEPksJHTOLQ4In5oGN2) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Porno For Pyros](https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr) | 3:36 |
+| 19 | [Been Caught Stealing](https://open.spotify.com/track/4Qievb8Mqy0qxdLNVl02zt) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 3:34 |
 | 20 | [All Mixed Up](https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [311](https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU) | 2:59 |
 | 21 | [Take The Power Back](https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:36 |
 | 22 | [Tones Of Home](https://open.spotify.com/track/5Cr8DxrjyP2fS93XjGXlFl) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 4:26 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 56 | [Dear Ol' Dad](https://open.spotify.com/track/0x8GQiIDqb7jbkrZjHoGF7) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/0A6yLV44DEhpwXB7cyvLEP) | 3:01 |
 | 57 | [Politicalamity](https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [III Sides To Every Story](https://open.spotify.com/album/2TV8JqednqRKb2injBMYGd) | 5:04 |
 | 58 | [Clap For The Killers](https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 3:55 |
-| 59 | [Who Really Are the Monsters?](https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH) | 5:19 |
-| 60 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 |
+| 59 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 |
+| 60 | [Who Really Are the Monsters?](https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH) | 5:19 |
 
-Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDU5ZWJhOTA2MDE3YjI1Y2M0N2Y0ZTBhMzIxM2M0YmJl`
+Snapshot ID: `MTY3MTc3MTYwMCwwMDAwMDAwMDFkNTYyYzc2OTUzYjM4MDBhMzQxYTlkOGYxOTMxMzVm`

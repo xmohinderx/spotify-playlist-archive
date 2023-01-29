@@ -1,12 +1,12 @@
 {
   "description": "Legendary tracks featured in music video games and rhythm games over the years.",
-  "num_followers": 2462,
+  "num_followers": 2503,
   "original_name": "Expert Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgzNTE4NCwwMDAwMDAwMGQyODU2YTI5MTUxZTYyMWFhODY2MGM2NzExMzU2MTAy",
+  "snapshot_id": "MTY2OTgzNTE4NCwwMDAwMDAwMDk2OGUyYjU4OTdiOWZjYmMzOTg5MGM3YTQ0YjdlNzlj",
   "tracks": [
     {
       "added_at": "2022-10-12 16:09:56",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-10-12 16:09:56",
       "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "Paint It, Black",
-      "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
-    },
-    {
-      "added_at": "2022-10-12 16:09:56",
-      "album": {
         "name": "Aerosmith",
         "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 267596,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
+    },
+    {
+      "added_at": "2022-10-12 16:09:56",
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Paint It, Black",
+      "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
     },
     {
       "added_at": "2022-10-12 16:09:56",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-10-12 16:09:56",
       "album": {
-        "name": "Franz Ferdinand",
-        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
-    },
-    {
-      "added_at": "2022-10-12 16:09:56",
-      "album": {
         "name": "The Trinity",
         "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 218573,
       "name": "Temperature",
       "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
+    },
+    {
+      "added_at": "2022-10-12 16:09:56",
+      "album": {
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
     },
     {
       "added_at": "2022-10-12 16:09:56",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-10-12 16:09:56",
       "album": {
-        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 293183,
-      "name": "Crazy Train",
-      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
-    },
-    {
-      "added_at": "2022-10-12 16:09:56",
-      "album": {
         "name": "Infinity On High",
         "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2022-10-12 16:09:56",
       "album": {
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 293183,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
+    },
+    {
+      "added_at": "2022-10-12 16:09:56",
+      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -431,6 +431,22 @@
       "duration_ms": 320357,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+    },
+    {
+      "added_at": "2022-10-12 16:09:56",
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
     },
     {
       "added_at": "2022-10-12 16:09:56",
@@ -463,22 +479,6 @@
       "duration_ms": 292580,
       "name": "Even Flow",
       "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
-    },
-    {
-      "added_at": "2022-10-12 16:09:56",
-      "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "Before I Forget",
-      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
     },
     {
       "added_at": "2022-10-12 16:09:56",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-10-12 16:09:56",
       "album": {
-        "name": "Eye Of The Tiger",
-        "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
-    },
-    {
-      "added_at": "2022-10-12 16:09:56",
-      "album": {
         "name": "A Girl Like Me",
         "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 238920,
       "name": "SOS",
       "url": "https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5"
+    },
+    {
+      "added_at": "2022-10-12 16:09:56",
+      "album": {
+        "name": "Eye Of The Tiger",
+        "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 243773,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
     },
     {
       "added_at": "2022-10-12 16:09:56",

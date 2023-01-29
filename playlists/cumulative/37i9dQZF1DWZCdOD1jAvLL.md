@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Wuki
 
-396 songs - 22 hr 9 min
+397 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Give It Up](https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Give It Up](https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U) | 3:20 | 2022-01-14 | 2022-01-22 |
 | [Goodies](https://open.spotify.com/track/5WJp4hlT4lI14Wv9U2BKvC) | [DJ YUKI](https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB), [FUSE](https://open.spotify.com/artist/7xCCjSSqo7y2OUpJ2DMMrs) | [Goodies](https://open.spotify.com/album/1XjtyTyruK0RoGOuVsQNqc) | 2:27 | 2022-04-15 | 2022-08-20 |
 | [Hangin' On](https://open.spotify.com/track/3LQyJ9kVci9YF7lwGjA5kr) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1) | [Hangin' On](https://open.spotify.com/album/03LpYJHSH796oQGk3qlA5i) | 3:38 | 2022-06-17 | 2022-09-17 |
-| [Headphones \- DLMT Remix](https://open.spotify.com/track/28tTLhO9HEifowfZkV4Erh) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Headphones \(DLMT Remix\)](https://open.spotify.com/album/5lNoCebEqgF3J0DKUVFx4a) | 2:37 | 2023-01-20 |  |
+| [Headphones \- DLMT Remix](https://open.spotify.com/track/28tTLhO9HEifowfZkV4Erh) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Headphones \(DLMT Remix\)](https://open.spotify.com/album/5lNoCebEqgF3J0DKUVFx4a) | 2:37 | 2023-01-20 | 2023-01-29 |
+| [Headphones \- DLMT Remix](https://open.spotify.com/track/2VxT9ExMqzxqXTbWw6aUG3) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Headphones \(DLMT Remix\)](https://open.spotify.com/album/1L9PPBhoNv4VdKrXSzVuWD) | 2:37 | 2023-01-20 |  |
 | [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 | 2023-01-13 |  |
 | [Heat Rush](https://open.spotify.com/track/1c1bXK9Ez12AX3HRIc2CuM) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Dyer](https://open.spotify.com/artist/2IIUOhW1MYd4yXbF3EdpDW) | [Heat Rush](https://open.spotify.com/album/11srcc3f4TvwQCnR0rql1J) | 2:52 | 2022-07-29 | 2022-10-08 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2022-12-16 |  |

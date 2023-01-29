@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: Stellar Legions
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,030 likes - 103 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,032 likes - 103 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Candy](https://open.spotify.com/track/6gSikmgY3B2Pp0CvQXBjEC) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Candy](https://open.spotify.com/album/3KQlNjPSPVSl9QlwMlDpAs) | 4:00 |
 | 2 | [Tunguska \(Part 2\)](https://open.spotify.com/track/2XSBC6tYF7eRA9Coy4Ms4s) | [Ansatz Der Maschine](https://open.spotify.com/artist/2imYMaCI7CxN9tVnNyBuiB) | [Tunguska](https://open.spotify.com/album/4PUzNg12c0DFpuCo95HR7l) | 3:53 |
-| 3 | [Smooch](https://open.spotify.com/track/5E4NPgrMaD2T8TAJIAR6A9) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Smooch](https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL) | 5:10 |
+| 3 | [Smooch](https://open.spotify.com/track/0mxkPFP9OWqJNdqq5TlmzQ) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Coaxial](https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6) | 5:10 |
 | 4 | [Solace In Solitude](https://open.spotify.com/track/1lc91yToT1IMkmcJ6TzFXd) | [Profound Observer](https://open.spotify.com/artist/0dvxvZTqgUjgROTCBoF4NR) | [Solace In Solitude](https://open.spotify.com/album/6ciVgd0syuPG2hOzA3wu6P) | 5:48 |
 | 5 | [Out The Light](https://open.spotify.com/track/2nDj8UEv9AIzVU2YjirnyV) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Candy](https://open.spotify.com/album/3KQlNjPSPVSl9QlwMlDpAs) | 3:52 |
-| 6 | [Dag Na Naamdag](https://open.spotify.com/track/5exLlipto9rztxYRRZxdJS) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Smooch](https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL) | 4:45 |
+| 6 | [Dag Na Naamdag](https://open.spotify.com/track/6sF5HnGQraBYRwZLsTJQG7) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Coaxial](https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6) | 4:45 |
 | 7 | [Alice](https://open.spotify.com/track/7IKA8BGPhbUlypRWFAHmXv) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 4:47 |
 | 8 | [Pickles](https://open.spotify.com/track/4Lu7Igq9s2nQ0af1RGqNfo) | [M.CHUZI](https://open.spotify.com/artist/1L2D8qPfHwCKAC0Bp52g8d), [Mixmaster Menno](https://open.spotify.com/artist/11sBV4HVBIdqHEV8oMOQIS) | [PAPARA](https://open.spotify.com/album/6vdPNXfUa8colUXj6ZmWy6) | 5:03 |
 | 9 | [How We'll Meet Tonight ?](https://open.spotify.com/track/3ao50dH6fEGQXKgZBlpQL1) | [WITVROUW](https://open.spotify.com/artist/2VkgYHdG7g57sHOZpEAy8x) | [WITVROUW](https://open.spotify.com/album/6oupqzhjk5i8ZZR7ISlgvd) | 7:30 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 102 | [Dolmuş](https://open.spotify.com/track/4zISl7UaVHs68agKCD0mQx) | [Azmari](https://open.spotify.com/artist/2xKLLFEkYJvGtTihlsBLw1) | [Ekera EP](https://open.spotify.com/album/1pejB5j0hRJdIeenNSHiAX) | 5:52 |
 | 103 | [Grace Moment](https://open.spotify.com/track/7yzK4kdMW47v6CZUlScqFS) | [LG Jazz Collective](https://open.spotify.com/artist/4541P7mUvHtvsCPzy3Kg3F), [Guillaume Vierset](https://open.spotify.com/artist/00xZYrjS24ctWf6NcTEouF), [Jean\-Paul Estiévenart](https://open.spotify.com/artist/2ksFkwxoKd9oSKDrCz4Dsv), [Steven Delannoye](https://open.spotify.com/artist/1u5vg85XHGbkusKdsRaWCn), [Laurent Barbier](https://open.spotify.com/artist/0QCzBAzR6DtGNvcO3suNK1), [Igor Gehenot](https://open.spotify.com/artist/4ucTplSqtePlPxNywuOf6p), [Félix Zurstrassen](https://open.spotify.com/artist/46btcyGzJKO2Y24kOhelTP), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [New Feel](https://open.spotify.com/album/2db4S9KTfkAEh5Wkhff0wH) | 6:52 |
 
-Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMDU0Mzg1N2E1M2IzZWZmNjRkOWI3MzYzYWU5MmY1YmU0`
+Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMDhlMzE3MjY4NTRlYjY3N2QyYjNmZDVjYjcxYzMyOWQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,062 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,133 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 27 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 |
 | 28 | [Novia Mía](https://open.spotify.com/track/5IJ691iklYJBremu40wZLI) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record, Vol\. 1](https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF) | 2:31 |
 | 29 | [Todo Me Gusta de Ti](https://open.spotify.com/track/6xy2QxEdp2gopEFHfPMXof) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Aunque Me Cueste la Vida](https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2) | 2:41 |
-| 30 | [Nostalgia](https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [El Sentimiento del Latino En Nueva York](https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv) | 5:40 |
+| 30 | [No me platiques](https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Serenata con Pedro Infante](https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7) | 3:18 |
 | 31 | [Dos Gardenias](https://open.spotify.com/track/4faOsdm3wPyhqSgkM9jZ9D) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Éxitos](https://open.spotify.com/album/54BYhUZE62cpwfBlcIYAWs) | 3:03 |
-| 32 | [No me platiques](https://open.spotify.com/track/78nszOi3nyWJG0UmLrSeAB) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Serenata con Pedro Infante](https://open.spotify.com/album/63prOSb92fN9FSO1LSfPO7) | 3:18 |
+| 32 | [Nostalgia](https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [El Sentimiento del Latino En Nueva York](https://open.spotify.com/album/1jqQfh0qYfAc98LRBk9Egv) | 5:40 |
 | 33 | [Regálame Esta Noche](https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Frente a Frente de Tríos](https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9) | 3:18 |
 | 34 | [Bonita](https://open.spotify.com/track/6Tsr4h9Av9WkJDu1F4HPIz) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Cita Con Luis Arcaraz](https://open.spotify.com/album/2yhhV6GIC9dLiSJ0olcUdE) | 3:08 |
 | 35 | [Toda una vida](https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [Las 30 grandes de Chavela Vargas](https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2) | 2:35 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 51 | [La Número Cien](https://open.spotify.com/track/0YXhcFM9FyZ7EXK9LXPvD9) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R) | [Boleros De Siempre](https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK) | 2:50 |
 | 52 | [Albricias](https://open.spotify.com/track/2tp2urheCpgDbkqfoaD0U1) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 2:20 |
 | 53 | [Sombras Nada Más](https://open.spotify.com/track/6IK2IbQ5vSKZR5H96K0aTg) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:39 |
-| 54 | [Flores Negras \- Fichas Negras](https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A) | [La Billo](https://open.spotify.com/artist/19ctQy7OHWSuGAko9eMUTR), [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Las 2 Grandes Orquestas de Venezuela](https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0) | 4:07 |
+| 54 | [Ven aca \(Bolero\)](https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Noche criolla](https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf) | 3:00 |
 | 55 | [Cancionero](https://open.spotify.com/track/1CFeovJFkWYcc1PK6zbpvZ) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [La Coleccion Del Siglo](https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT) | 2:06 |
-| 56 | [Ven aca \(Bolero\)](https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Noche criolla](https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf) | 3:00 |
+| 56 | [Flores Negras \- Fichas Negras](https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A) | [La Billo](https://open.spotify.com/artist/19ctQy7OHWSuGAko9eMUTR), [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Las 2 Grandes Orquestas de Venezuela](https://open.spotify.com/album/3onbCnIGyRWV1BLNgtxiR0) | 4:07 |
 | 57 | [Como Fué](https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Benny Moré Mágico](https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb) | 2:58 |
 | 58 | [Amor de Mis Amores](https://open.spotify.com/track/5LI6baS6dpvHBDlQUzn1S7) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Lo Mejor De...](https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP) | 2:58 |
 | 59 | [Soy Lo Prohibido](https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [16 Exitos De Oro](https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk) | 3:06 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 63 | [El Andariego](https://open.spotify.com/track/4ioxu5idXBbD7HOr5129Al) | [Pepe Jara](https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl) | [El Trovador Solitario](https://open.spotify.com/album/21bapb0tcYyoqzZuXP9Xze) | 2:46 |
 | 64 | [Mi Manera De Amar](https://open.spotify.com/track/65JC1aD0zlq5RQ7Q8zQuss) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Antologia \(Volumen 2\)](https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy) | 4:11 |
 | 65 | [Usted](https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Canciones De Amor](https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n) | 3:14 |
-| 66 | [Flor de Azalea](https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x) | [Trio Calaveras](https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs) | [Pedro Infante y Jorge Negrete](https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX) | 3:25 |
-| 67 | [Nuestro Juramento](https://open.spotify.com/track/5ftXrxbLYz9iTmtokjyEvw) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Bohemios en la Cantina](https://open.spotify.com/album/5UKpJ5e1dDKFimvugQpOtF) | 3:29 |
+| 66 | [Nuestro Juramento](https://open.spotify.com/track/5ftXrxbLYz9iTmtokjyEvw) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Bohemios en la Cantina](https://open.spotify.com/album/5UKpJ5e1dDKFimvugQpOtF) | 3:29 |
+| 67 | [Flor de Azalea](https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x) | [Trio Calaveras](https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs) | [Pedro Infante y Jorge Negrete](https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX) | 3:25 |
 | 68 | [Somos Novios](https://open.spotify.com/track/58Q3mAOtrZdSbwAu9i92j2) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Serie 20 Exitos](https://open.spotify.com/album/2gwE57HQYUocdi8JvqYiIO) | 2:35 |
 | 69 | [Mira Que Eres Linda](https://open.spotify.com/track/3QMnlOZnTJtoJwyizN832A) | [Roberto Ledesma](https://open.spotify.com/artist/2Ejmg38PVquSCqD7ijebmY) | [El Estilo de Roberto Ledesma](https://open.spotify.com/album/2cW8xEyy96yugn4JzlSsBM) | 2:54 |
 | 70 | [Siempre en mi corazón](https://open.spotify.com/track/2UqNczc1kGWblKfEXOydTy) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 74 | [Maria Bonita](https://open.spotify.com/track/4997YRP3x3LNG7D81e0mrh) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Maria Bonita](https://open.spotify.com/album/6gO7t964RdRQy59RuoZMzJ) | 3:23 |
 | 75 | [Ay amor](https://open.spotify.com/track/0XE6HJcztC7uVQ6jnBSY3X) | [Bola De Nieve](https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ) | [La flor de la canela](https://open.spotify.com/album/40feN08wkMH0KNZZoCpT36) | 2:25 |
 
-Snapshot ID: `MTY0MDUyMTcxOCwwMDAwMDAwMDBiNjk3ZDVlY2UzNTQyNjI1MjdiMWMxNzE3MzMwOTE1`
+Snapshot ID: `MTY0MDUyMTcxOCwwMDAwMDAwMDkyN2M0MDZlMmFhMGRmZjZmNzExODEwMGUxYTQ3NzFk`

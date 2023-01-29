@@ -4,7 +4,7 @@
 
 > For body and mind, blues straight from the soul.
 
-89 songs - 6 hr 45 min
+90 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [12:15 Slow Goonbash Blues](https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 9:26 | 2022-05-25 |  |
 | [A Few Good Years](https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:47 | 2022-05-25 |  |
 | [A Man And The Blues](https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 6:23 | 2022-05-25 |  |
-| [Ain't It A Shame](https://open.spotify.com/track/58dG6XIMGNhFdH8GKSPCmL) | [Big Miller](https://open.spotify.com/artist/4c8m7LzbeEJdqVMfNAW2xn) | [Last of the Blues Shouters](https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0) | 8:35 | 2022-05-25 | 2022-07-26 |
+| [Ain't It A Shame](https://open.spotify.com/track/58dG6XIMGNhFdH8GKSPCmL) | [Big Miller](https://open.spotify.com/artist/4c8m7LzbeEJdqVMfNAW2xn) | [Last of the Blues Shouters](https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0) | 8:35 | 2022-05-25 |  |
 | [Ain't Nobody's Business](https://open.spotify.com/track/6wDGgiUZIpC7eCgrSoguie) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX) | 5:11 | 2022-05-25 | 2022-07-29 |
 | [Ain't Nobody's Business](https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 5:15 | 2022-06-29 |  |
 | [All Your Love \- Stereo](https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:32 | 2022-05-25 |  |
@@ -31,7 +31,8 @@
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-05-25 |  |
 | [Do I Move You?](https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:44 | 2022-05-25 |  |
 | [Dr\. Feelgood \(Love Is Serious Business\)](https://open.spotify.com/track/7d38lTzElTueMVLNQ0nihe) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 3:18 | 2022-05-25 |  |
-| [Driving Wheel](https://open.spotify.com/track/5oLY2gz4HnKTcXxKkaGrsa) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:40 | 2022-06-14 |  |
+| [Drivin' Wheel \- Single Version](https://open.spotify.com/track/4r08u8N2RSeorASn62yHr6) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:37 | 2023-01-10 |  |
+| [Driving Wheel](https://open.spotify.com/track/5oLY2gz4HnKTcXxKkaGrsa) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:40 | 2022-06-14 | 2023-01-29 |
 | [Dust My Broom](https://open.spotify.com/track/7ab9T50hNO7ULa2pvtcjjZ) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Blues To The Bone](https://open.spotify.com/album/1FbyARbzpYjJBoHm9UgDyQ) | 3:35 | 2022-05-25 |  |
 | [Friendship](https://open.spotify.com/track/364TGoiK2nPK0YYa4Z4p2Y) | [Pops Staples](https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3) | [Don't Lose This](https://open.spotify.com/album/3OEEKjCodSc3o3jf6EGyO1) | 4:06 | 2022-05-25 |  |
 | [Gambler's Blues](https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 5:41 | 2022-05-25 |  |
@@ -50,7 +51,7 @@
 | [I Just Want To Make Love To You \- Single Version](https://open.spotify.com/track/1OhUmE8Wkw1KBXx2gQcOo9) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 2:50 | 2022-05-25 |  |
 | [I Know I've Been Changed](https://open.spotify.com/track/6nUIuLITcryRxnLQ74YBeQ) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Faith And Grace: A Family Journey 1953\-1976](https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI) | 2:37 | 2022-05-25 |  |
 | [I Need Some Air](https://open.spotify.com/track/4VJ7hK0xONIrpCk5m3Vm4a) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX) | 4:37 | 2022-05-25 | 2022-07-29 |
-| [I Need Some Air](https://open.spotify.com/track/2AkVirM9aeaGbl3pLX32n4) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 4:40 | 2023-01-10 |  |
+| [I Need Some Air](https://open.spotify.com/track/2AkVirM9aeaGbl3pLX32n4) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 4:40 | 2023-01-10 | 2023-01-29 |
 | [I Shall Be Released](https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [To Love Somebody \(Expanded Edition\)](https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi) | 3:53 | 2022-05-25 |  |
 | [I'd Rather Go Blind](https://open.spotify.com/track/3etdnXxhAQcaZGh9wYr8ub) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/7HkdGOPmc7rmzbDXFR8Khb) | 4:56 | 2022-05-25 | 2022-07-29 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/1CPoz537R6npR3w4VircRz) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Bluesed Up Soul Classics](https://open.spotify.com/album/2qKVu08JXkp4lpL57VjDq0) | 5:00 | 2022-08-19 | 2022-11-13 |

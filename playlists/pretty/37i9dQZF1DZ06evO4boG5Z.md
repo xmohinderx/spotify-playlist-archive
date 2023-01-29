@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 
 > This is Millencolin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,333 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,338 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4boG5Z.md) - [plain]
 | 49 | [Stalemate](https://open.spotify.com/track/3vBpFa87OtswBtpVKvke4I) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Kingwood](https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV) | 3:18 |
 | 50 | [Da Strike](https://open.spotify.com/track/1zpz6NAlgOE2bLvfidhQhN) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Same Old Tunes](https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0) | 3:01 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDBlYzc2ZjM5Nzk5MjgxNzU1NDg5OGMzZTE5ZWRjNjVjOQ==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDA3M2UzNGNhN2FjZmY5YWVlYzVhOWIwYmEwMDU1MzQ4YQ==`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Hip\-hop mexicano, rimas de la calle, en voz de La Santa Grifa.
+> Hip\-hop mexicano, puras rimas de la calle\. Faruz Feet
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,230 likes - 99 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,600 likes - 99 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 98 | [Ranfla, Hyna, Dinero](https://open.spotify.com/track/0TCpHQU3AxonyDdo6UD2qC) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [V.Rod](https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA) | [Homie Alone](https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9) | 3:13 |
 | 99 | [Pesadilla en el Cielo](https://open.spotify.com/track/1Ca6Oy2hd13ZlGTvmXgAGH) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Pesadilla en el Cielo](https://open.spotify.com/album/3AvB7htCyqKQLjpygGerr9) | 3:46 |
 
-Snapshot ID: `MTY3NDg0MjQwMCwwMDAwMDAwMDdhZGExOGFlM2NlNWEwNTI5ZDA1MmJmZDQwMzBkZDNi`
+Snapshot ID: `MTY3NDg3MDI4MCwwMDAwMDAwMDUwZWNlMmUzNDhhZWJiMzUxZWE3Njc5N2RkZmUyMjU0`

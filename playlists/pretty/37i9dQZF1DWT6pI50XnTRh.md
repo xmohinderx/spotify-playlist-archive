@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,539 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,681 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 30 | [Still in the Groove](https://open.spotify.com/track/4AaB8loejHKcwAQN0MT72B) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK), [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [A Woman Needs Love \(Expanded Edition\)](https://open.spotify.com/album/38993ejU6at3J4b0fxIien) | 6:21 |
 | 31 | [Unconditional Love](https://open.spotify.com/track/6rX8XrnLLIggn6ItYWnoMM) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [She Works Hard For The Money](https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2) | 4:44 |
 | 32 | [Ojah Awake](https://open.spotify.com/track/7hPCaFhX074AINbYi0ye71) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 4:52 |
-| 33 | [I Like Your Style](https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY) | [Tony Wilson](https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR) | [I Like Your Style](https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g) | 3:05 |
-| 34 | [Ohue \- Frankie Francis & Simbad Edit](https://open.spotify.com/track/6mpWzzeF15T39cCZFCsvh0) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Sofrito: Tropical Discotheque](https://open.spotify.com/album/5AOELfqelmBhaAV5PsHHYr) | 5:34 |
+| 33 | [Ohue \- Frankie Francis & Simbad Edit](https://open.spotify.com/track/6mpWzzeF15T39cCZFCsvh0) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Sofrito: Tropical Discotheque](https://open.spotify.com/album/5AOELfqelmBhaAV5PsHHYr) | 5:34 |
+| 34 | [I Like Your Style](https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY) | [Tony Wilson](https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR) | [I Like Your Style](https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g) | 3:05 |
 | 35 | [Living Music](https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd) | [Onyeka Onwenu](https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:04 |
 | 36 | [Friends](https://open.spotify.com/track/6TzkJUYcxbSHMiVYz3HpKl) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Friends / Go For It](https://open.spotify.com/album/39jaUqZfh7YUgQnemcgnXF) | 5:00 |
 | 37 | [Ma Jaiye Oni](https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 5:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 49 | [Let Me Love You](https://open.spotify.com/track/2omcm8YdAMlVWcxhJo9tQG) | [Bunny Mack](https://open.spotify.com/artist/2JZu13wsOrKnWcYukpE1pQ) | [Joey Negro and Sean P present The Best of Disco Spectrum](https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2) | 7:49 |
 | 50 | [Trinidad \- Special Disco Mix](https://open.spotify.com/track/4Qb0va1gzVonFxU7vghCfp) | [John Gibbs](https://open.spotify.com/artist/0sByuZOX52ihgJcBMs4i0a), [U.S\. Steel Orchestra](https://open.spotify.com/artist/3Rd64MZkwo6mAbERZVt1aR) | [Joey Negro and Sean P present The Best of Disco Spectrum](https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2) | 5:04 |
 
-Snapshot ID: `MTY2NDIwMzcwMiwwMDAwMDAwMDE0MTk5MWIyNzkxOGRmYzdlMDVlOGMyMjkxMjlhMDA0`
+Snapshot ID: `MTY2NDIwMzcwMiwwMDAwMDAwMDczODgwZTk1MDhkMzBiNTc2YmIyMmRhMDY1MzRiMzNj`

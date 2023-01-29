@@ -1,12 +1,12 @@
 {
   "description": "Escucha a Nicole y a m\u00e1s mujeres a todo volumen. Dales PLAY, dales POWER.",
-  "num_followers": 10900,
+  "num_followers": 10911,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMGQ1YTgwOGEyZTgyZjRkYjkzYmI4YzZlNmUwYjE0OGI2",
+  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMGYyMGFlYTUwZWE5ZGIxMTY3M2UzYTU2Y2U4YTJmMWE4",
   "tracks": [
     {
       "added_at": "2023-01-04 03:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "MAL NECESARIO",
-        "url": "https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB"
-      },
-      "artists": [
-        {
-          "name": "anto",
-          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "MAL NECESARIO",
-      "url": "https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "Canci\u00f3n Para Mi Ex",
         "url": "https://open.spotify.com/album/4cgQLvcxp6LbnBMkhMdVGq"
       },
@@ -155,6 +139,22 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
+        "name": "MAL NECESARIO",
+        "url": "https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB"
+      },
+      "artists": [
+        {
+          "name": "anto",
+          "url": "https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "MAL NECESARIO",
+      "url": "https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
         "name": "Buena Suerte Muchacha",
         "url": "https://open.spotify.com/album/2EzDw9iglsGLvrgSnv10M0"
       },
@@ -167,42 +167,6 @@
       "duration_ms": 193340,
       "name": "Buena Suerte Muchacha",
       "url": "https://open.spotify.com/track/0g9uGFzr5N6k5kOtx0nmCv"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "Amante",
-        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "Cr\u00f3nicas de un cora roto",
-        "url": "https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2"
-      },
-      "artists": [
-        {
-          "name": "Nihla",
-          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
-        }
-      ],
-      "duration_ms": 212088,
-      "name": "Cm no me va a doler?",
-      "url": "https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -227,18 +191,38 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "La \u00danica",
-        "url": "https://open.spotify.com/album/0hVF3mo33JcCsECB4dM7Ay"
+        "name": "Cr\u00f3nicas de un cora roto",
+        "url": "https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2"
       },
       "artists": [
         {
-          "name": "Flowyn",
-          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+          "name": "Nihla",
+          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
+        },
+        {
+          "name": "Nass G",
+          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
         }
       ],
-      "duration_ms": 144545,
-      "name": "La \u00danica",
-      "url": "https://open.spotify.com/track/6BziPWYAG689dziudR6lRl"
+      "duration_ms": 212088,
+      "name": "Cm no me va a doler?",
+      "url": "https://open.spotify.com/track/6qM4WikwmfjWPDGwfA83tX"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Amante",
+        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -255,6 +239,22 @@
       "duration_ms": 181013,
       "name": "COPACABANA",
       "url": "https://open.spotify.com/track/0hPHlk4amnX3CgVhoeEF9K"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "La \u00danica",
+        "url": "https://open.spotify.com/album/0hVF3mo33JcCsECB4dM7Ay"
+      },
+      "artists": [
+        {
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "La \u00danica",
+      "url": "https://open.spotify.com/track/6BziPWYAG689dziudR6lRl"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Yo quiero bailar",
-        "url": "https://open.spotify.com/album/4ArfKzjVQOL3XNOrpktPPi"
-      },
-      "artists": [
-        {
-          "name": "Valentina Marinkovic",
-          "url": "https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el"
-        }
-      ],
-      "duration_ms": 195593,
-      "name": "Yo quiero bailar",
-      "url": "https://open.spotify.com/track/4fQN9E5fyg7q8FF5fRx8z6"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "diario de vida",
         "url": "https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 184267,
       "name": "diario de vida",
       "url": "https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Yo quiero bailar",
+        "url": "https://open.spotify.com/album/4ArfKzjVQOL3XNOrpktPPi"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marinkovic",
+          "url": "https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el"
+        }
+      ],
+      "duration_ms": 195593,
+      "name": "Yo quiero bailar",
+      "url": "https://open.spotify.com/track/4fQN9E5fyg7q8FF5fRx8z6"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW"
-      },
-      "artists": [
-        {
-          "name": "Mariel Mariel",
-          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
-        },
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        }
-      ],
-      "duration_ms": 181951,
-      "name": "Flow Violento",
-      "url": "https://open.spotify.com/track/4T3F91nQLaWL8yPahQHIGi"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "\u00c0 PLUS",
         "url": "https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 159933,
       "name": "N.D.N",
       "url": "https://open.spotify.com/track/1QA7twQReH7kc3rusYjeWx"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW"
+      },
+      "artists": [
+        {
+          "name": "Mariel Mariel",
+          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
+        },
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "Flow Violento",
+      "url": "https://open.spotify.com/track/4T3F91nQLaWL8yPahQHIGi"
     },
     {
       "added_at": "2023-01-04 03:00:00",

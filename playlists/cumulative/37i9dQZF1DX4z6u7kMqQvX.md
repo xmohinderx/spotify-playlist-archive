@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-403 songs - 23 hr 0 min
+404 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Mejor Sin Miedo](https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Mejor Sin Miedo](https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs) | 3:08 | 2022-07-15 | 2022-07-25 |
 | [Melodía de Extrañar](https://open.spotify.com/track/5R332yPmr1HnfvevX73Tb0) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Melodía de Extrañar](https://open.spotify.com/album/6iwm50gytq0b0BMuWcXNiR) | 2:46 | 2022-04-01 | 2022-05-25 |
 | [Mentira](https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Mentira](https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7) | 3:35 | 2022-01-07 |  |
-| [Mira](https://open.spotify.com/track/56sf5ag1EOhbdt8QZrJuTd) | [Panga Nébula](https://open.spotify.com/artist/5MaXrbt4TDa3rPp1XbkmKu) | [Mira](https://open.spotify.com/album/5OVOAqruYgl6ZUDrT5eQpT) | 3:09 | 2022-01-07 |  |
+| [Mira](https://open.spotify.com/track/56sf5ag1EOhbdt8QZrJuTd) | [Panga Nébula](https://open.spotify.com/artist/5MaXrbt4TDa3rPp1XbkmKu) | [Mira](https://open.spotify.com/album/5OVOAqruYgl6ZUDrT5eQpT) | 3:09 | 2022-01-07 | 2023-01-29 |
 | [Mirándote – Versión radio](https://open.spotify.com/track/45iwO0aQGvzVFsIiiyiWSC) | [Pedrina y Rio](https://open.spotify.com/artist/6JkcXRzUF8IXV78ATWAHRK) | [Mirándote – Versión radio](https://open.spotify.com/album/5PX994LStMZS47M3ZosGlZ) | 3:54 | 2022-04-01 | 2022-04-18 |
 | [misiones](https://open.spotify.com/track/7u4p8GY2fckksa73OsyXTa) | [Jazmín Esquivel](https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU) | [misiones](https://open.spotify.com/album/1o88S5U0jspiw4en1nWDe8) | 4:07 | 2022-01-07 | 2022-07-08 |
 | [Modo Avión](https://open.spotify.com/track/5qZNL9BORsrXLEzysCGXEc) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Modo Avión](https://open.spotify.com/album/2AhJpW85a5KzalPxVJLvTp) | 2:40 | 2022-01-07 |  |
@@ -350,6 +350,7 @@
 | [Sueño Tsunami](https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 2:57 | 2022-01-07 | 2022-11-27 |
 | [Sueño Tsunami](https://open.spotify.com/track/7sPvkpfMRl16G1AyYfNdtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/2SM5RiFWCFJw0EoV6deVFv) | 2:57 | 2022-12-16 |  |
 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 | 2022-01-07 |  |
+| [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 | 2023-01-29 |  |
 | [Tarde](https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Tarde](https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD) | 3:58 | 2022-01-28 | 2022-06-25 |
 | [Te Alejas Más De Mí](https://open.spotify.com/track/5C2oCLLrtnYI8nNVOOruar) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Te Alejas Más De Mí](https://open.spotify.com/album/6xQCTmwCep5eHgdOOOYmO9) | 3:39 | 2022-01-07 |  |
 | [Te Choca Te Checa](https://open.spotify.com/track/2Ng0PljkpZeMpHHTOQ5rOk) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Te Choca Te Checa](https://open.spotify.com/album/0vK6o7eQkYJaWSjtPhlONL) | 2:10 | 2022-01-28 | 2022-07-27 |

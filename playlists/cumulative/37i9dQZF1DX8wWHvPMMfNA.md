@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-280 songs - 20 hr 10 min
+281 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Blue And Sentimental](https://open.spotify.com/track/78ntGe4xyecZHg9exQWwK6) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Plays Count Basie](https://open.spotify.com/album/7ETDHJ9yletBCxNx0ipr1x) | 2:26 | 2021-12-16 | 2022-08-18 |
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-22 |  |
 | [Blue in Green \(feat\. John Coltrane & Bill Evans\)](https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 5:37 | 2021-12-16 | 2022-05-11 |
+| [Blue Moon](https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Blue Moon](https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth) | 3:18 | 2023-01-26 |  |
 | [Blue Quarter](https://open.spotify.com/track/0bXrgF9139x5z2qXSyC01G) | [Cleo Lounge Trio](https://open.spotify.com/artist/76p8QkVRne7itxQ98sjAvB) | [Blue Quarter](https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX) | 3:43 | 2022-11-11 | 2022-12-14 |
 | [Blues For Daryl](https://open.spotify.com/track/6oTTdFI04W4QbfyzKfeTaI) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [I Got Rhythm](https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9) | 3:31 | 2021-12-16 | 2022-11-11 |
 | [Blues In The Night \- Short Version](https://open.spotify.com/track/4ZuUE6H5yONhrEw74aWcpU) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 5:57 | 2021-12-16 | 2022-11-11 |
@@ -185,7 +186,7 @@
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-11-11 | 2022-12-13 |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-11-11 |  |
 | [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 | 2022-11-11 | 2022-11-26 |
-| [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2022-11-11 |  |
+| [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2022-11-11 | 2023-01-29 |
 | [Numerous Occasions](https://open.spotify.com/track/7Cmp85HSefyHtULmgajybL) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Numerous Occasions](https://open.spotify.com/album/4Hn6jU3s5yKVffhJnDr6Et) | 3:31 | 2023-01-19 |  |
 | [On The Street Where You Live](https://open.spotify.com/track/7xLNfcvvxHB3gjCeBdDD4n) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [On The Street Where You Live](https://open.spotify.com/album/09UH3htyiTiqxM0FnhqDsv) | 3:19 | 2022-11-11 | 2022-12-18 |
 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-22 |  |

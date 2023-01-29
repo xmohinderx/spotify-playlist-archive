@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth"
+      },
+      "artists": [
+        {
+          "name": "Mark Roswell Trio",
+          "url": "https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3"
+    },
+    {
+      "album": {
         "name": "Blue Quarter",
         "url": "https://open.spotify.com/album/04yhSVC2L9ZzWDVlVMVYoX"
       },
@@ -3266,7 +3284,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 233865,
       "name": "Nublu",
       "url": "https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK"

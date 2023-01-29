@@ -4,7 +4,7 @@
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-188 songs - 11 hr 49 min
+189 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Better Man](https://open.spotify.com/track/7toNHOB0n7dnOfyBtsZaE4) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Paul Kim The First Album Part\. 1 ‘the Road’](https://open.spotify.com/album/5Yzku0R7REUKxNwL7CzLx8) | 3:32 | 2022-05-03 |  |
 | [Beyond My Dreams](https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth) | [ソヌ・ジョンア](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts) | 3:05 | 2022-07-04 | 2022-09-09 |
 | [bottom parade](https://open.spotify.com/track/4jTyKruIyG8mAI1c8QlxfD) | [Non Amer](https://open.spotify.com/artist/7f3l59JHKzkCqsjXxPmYJT) | [Loop 1](https://open.spotify.com/album/53t377Jk0Zhgk88sX60udL) | 3:05 | 2022-06-20 | 2022-07-26 |
+| [Butterfly on my mind](https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w) | [HolyBear](https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn) | [Honey jar No.01](https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t) | 3:39 | 2023-01-25 |  |
 | [Carpet](https://open.spotify.com/track/40LSUaUobukeVXmb3mJ79t) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [Carpet \- SM STATION](https://open.spotify.com/album/0qJSfEpD5X6xVGBUARniTH) | 3:42 | 2022-05-03 |  |
 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 | 2022-06-13 |  |
 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 | 2022-06-13 | 2022-11-17 |
@@ -58,7 +59,7 @@
 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 | 2022-05-03 | 2022-09-09 |
 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 | 2022-12-09 |  |
 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 | 2022-06-20 | 2022-11-25 |
-| [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 | 2022-12-26 |  |
+| [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 | 2022-12-26 | 2023-01-29 |
 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 | 2022-07-22 |  |
 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 | 2022-05-03 |  |
 | [Garden](https://open.spotify.com/track/0odZSHqoof9UZWUrZqg3L0) | [Jackingcong 잭킹콩](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [At My Peaceful Garden](https://open.spotify.com/album/7ACB9MzjQBsmhvuXa0FZRe) | 3:22 | 2022-05-03 | 2022-07-15 |

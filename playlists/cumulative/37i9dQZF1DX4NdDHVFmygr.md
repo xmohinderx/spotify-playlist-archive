@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-216 songs - 11 hr 49 min
+217 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Ajiyi](https://open.spotify.com/track/5FZ0py45ywEQseBHBwaz5f) | [Iguidr](https://open.spotify.com/artist/6tjt10KbSIyUZEid47Kxbg), [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Hassan Azenzar](https://open.spotify.com/artist/41XrLXoF6VggjcBrCeNd2E) | [Ajiyi](https://open.spotify.com/album/292GSzLdX49NvNGwFWIpxr) | 3:36 | 2022-07-26 | 2022-08-21 |
 | [Alatif](https://open.spotify.com/track/3MekLQaFbkJATNMy721UKa) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Alatif](https://open.spotify.com/album/0GzkWLNFOpyePPnnztgYPf) | 2:44 | 2022-10-20 | 2022-11-25 |
 | [Amora](https://open.spotify.com/track/3dDltvmsiTzFO6K5Pq4HFL) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [AUBE](https://open.spotify.com/album/6AVj98SypznZT2Lwe2r6HC) | 2:38 | 2023-01-11 |  |
-| [Ana](https://open.spotify.com/track/1Mbtfx8kfwxKp9IIuGqNqm) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:10 | 2023-01-19 |  |
+| [Ana](https://open.spotify.com/track/1Mbtfx8kfwxKp9IIuGqNqm) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:10 | 2023-01-19 | 2023-01-29 |
 | [Ana Wiyak](https://open.spotify.com/track/6DLEP9WL1MAoDqFDWAIch5) | [Anthony Touma](https://open.spotify.com/artist/7q4O5KTgHKdsT15BWNr0M7), [Maria Nadim](https://open.spotify.com/artist/3e5UC7VlCSt4DLxmXCYXZe) | [Ana Wiyak](https://open.spotify.com/album/62xt9zSogidX80GRNfLZZ6) | 2:58 | 2021-12-25 | 2022-01-12 |
 | [Anaconda](https://open.spotify.com/track/52v6JiIMBEvnuvRFOyxhMQ) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Anaconda](https://open.spotify.com/album/38NNxIG32ee7rKe0thztPa) | 3:26 | 2022-09-14 |  |
 | [Appel moi](https://open.spotify.com/track/4gY9GulQ2nQ5Em1jG2Et70) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 3:18 | 2023-01-01 | 2023-01-12 |
@@ -180,6 +180,7 @@
 | [Salade Coco](https://open.spotify.com/track/71k5nrJuZcr9j3X0YIBwWh) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Salade Coco](https://open.spotify.com/album/2fktU7sGEJ5ocfANqVMe5M) | 2:47 | 2021-12-25 | 2023-01-05 |
 | [Salam](https://open.spotify.com/track/12HuEuSbjbaX3TgAu917gh) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Salam](https://open.spotify.com/album/7DZ568lgXANTKdT8rfb7tH) | 2:53 | 2022-07-13 | 2022-09-09 |
 | [Sasasa](https://open.spotify.com/track/0ijOIF6RHKsJu7SDxKznDF) | [Zakaria Ghafouli](https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD) | [Sasasa](https://open.spotify.com/album/5NF5qAN61aw3UbZR2RM41x) | 3:45 | 2022-07-21 | 2022-09-15 |
+| [Seddit Lbibane](https://open.spotify.com/track/19qSodZXmR2GqMwzLvLYlJ) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Seddit Lbibane](https://open.spotify.com/album/60T0APAz9FUAKMJcpfpxjt) | 3:08 | 2023-01-28 |  |
 | [Ser Lekdim](https://open.spotify.com/track/43lrk3f9bdnH5E92YPoQpT) | [Ihab Amir](https://open.spotify.com/artist/3B0pL0vuA6bTa94mcJFyIN) | [Ser Lekdim](https://open.spotify.com/album/0kJ96yCGwxBvE4AG4OA371) | 4:00 | 2021-12-25 | 2022-02-18 |
 | [Serrek](https://open.spotify.com/track/2P6663NWulwljND7qHu910) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Serrek](https://open.spotify.com/album/1CCZubOoiB5X0xdJCVvnOU) | 3:51 | 2022-04-07 | 2023-01-12 |
 | [Shoufokan](https://open.spotify.com/track/1u3sCJM9n7u1IozPcB4GnQ) | [Mrabet](https://open.spotify.com/artist/2G8s5OaDf7LQOEebCuSyNH), [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5) | [Shoufokan](https://open.spotify.com/album/6myAHK1XcjWNF7jpygqdXr) | 2:23 | 2022-03-10 | 2022-03-18 |

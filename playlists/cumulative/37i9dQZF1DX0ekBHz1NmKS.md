@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-624 songs - 1 day 9 hr 5 min
+625 songs - 1 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,7 +528,7 @@
 | [Sweet Jackie](https://open.spotify.com/track/1S4LYxSNKv8NGGl5Jnledy) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Sweet Jackie](https://open.spotify.com/album/5BUAq7X644KHxL5cGWIUVH) | 2:46 | 2021-12-16 | 2022-03-11 |
 | [Swishers](https://open.spotify.com/track/7zIwP1iP2CdyEeP3PB8ie9) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Swishers](https://open.spotify.com/album/0pOCk5fpyULfYKqDbpCOtC) | 3:24 | 2021-12-16 | 2022-01-06 |
 | [Synd om dig](https://open.spotify.com/track/0CbWynA3BNPIwapjEdqXu5) | [Malin Christin](https://open.spotify.com/artist/7yf7WsRvoRDq5va1SKGgBa) | [Synd om dig](https://open.spotify.com/album/3k2w8Li8JZC47hql6XnLSs) | 2:58 | 2022-02-26 | 2022-07-24 |
-| [Säg det som du menar det](https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Säg det som du menar det](https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst) | 2:20 | 2022-04-07 |  |
+| [Säg det som du menar det](https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Säg det som du menar det](https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst) | 2:20 | 2022-04-07 | 2023-01-29 |
 | [Säg Nåt](https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Säg Nåt](https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY) | 2:46 | 2022-11-04 |  |
 | [Säg vad du vill](https://open.spotify.com/track/6YpOcenS6bCTx7JG1OBY7X) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Säg vad du vill](https://open.spotify.com/album/09JUZALuWvwAN7No7W4lj7) | 3:28 | 2022-05-26 | 2022-07-28 |
 | [Ta på mig](https://open.spotify.com/track/3DFOoe2J49z0ZD1o74fq5x) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Ta på mig](https://open.spotify.com/album/79TfkDuxlL9r42jGcj2AL4) | 3:22 | 2021-12-16 | 2022-03-09 |
@@ -581,6 +581,7 @@
 | [Vaskar mina tårar](https://open.spotify.com/track/1qUYbmIfoIDVRaRuDUlVZ3) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Vaskar mina tårar](https://open.spotify.com/album/2UR8C8nPqhQ1W7t1ti5TAn) | 2:56 | 2021-12-16 | 2022-02-13 |
 | [Vattenfast maskara](https://open.spotify.com/track/4mUcCiwzgHl6PgYt1AsDF4) | [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Vattenfast maskara](https://open.spotify.com/album/0rtgvXiMJh6mGluRT9Kre4) | 3:07 | 2021-12-16 | 2022-04-02 |
 | [VERTIGO](https://open.spotify.com/track/4V82PgRDvzQwppU72Aapel) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb) | [VERTIGO](https://open.spotify.com/album/7CIVfrjREC95ffpAFKCbCl) | 3:03 | 2022-05-12 | 2022-06-06 |
+| [Vet Hon Om?](https://open.spotify.com/track/0078peqORcMMXbcYEfeLkk) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Vet Hon Om?](https://open.spotify.com/album/0a4tSc39xsFYlKIY1XBB9K) | 3:04 | 2023-01-29 |  |
 | [Vi har iallafall inte tråkigt](https://open.spotify.com/track/04sCtFgz3Dwl5vZjK1XtSI) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Vi har iallafall inte tråkigt](https://open.spotify.com/album/3Fxsxgafsz6WFyUTyHHtlY) | 2:40 | 2022-02-20 | 2022-05-09 |
 | [Vi ska aldrig gå hem](https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L) | 3:15 | 2021-12-16 |  |
 | [Vi Äger Hela Världen](https://open.spotify.com/track/1rnXwcs4e5Td5WiVm1w2fQ) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Vi Äger Hela Världen](https://open.spotify.com/album/6g8YubIWXxzL0MTc2MbyPd) | 3:19 | 2021-12-16 | 2022-01-14 |

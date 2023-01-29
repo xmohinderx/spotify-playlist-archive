@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Big Thief",
-  "num_followers": 58991,
+  "num_followers": 59038,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGIxNjFlMjc1YzhiNGYwNWZmYjU3NTQyZGQyYmE5ZGJm",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDZhOWJkMzA3NDY3ZjliNTgzZjgwZTdjMmM5NWExYTNi",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "The Spur",
-        "url": "https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI"
-      },
-      "artists": [
-        {
-          "name": "Joan Shelley",
-          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
-        }
-      ],
-      "duration_ms": 232748,
-      "name": "The Spur",
-      "url": "https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Moveys",
         "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 166033,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "The Spur",
+        "url": "https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI"
+      },
+      "artists": [
+        {
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+        }
+      ],
+      "duration_ms": 232748,
+      "name": "The Spur",
+      "url": "https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Santa Barbara",
-        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Santa Barbara",
-      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "In My Own Time (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/36WryGURqME9Y2URzzzmio"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 203397,
       "name": "Something on Your Mind",
       "url": "https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Santa Barbara",
+        "url": "https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Santa Barbara",
+      "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 226258,
-      "name": "The Solitude",
-      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Things Take Time, Take Time",
         "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 226258,
+      "name": "The Solitude",
+      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Forever Turned Around",
         "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 190466,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Telephone",
+        "url": "https://open.spotify.com/album/4Qp1PN0SHjCjm8KGzh5qGu"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/0Y9QZo9l948hcvBIt9TQSO"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -859,18 +875,26 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Sorceress",
-        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
+        "name": "Thirteen",
+        "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
       "artists": [
         {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        },
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 186509,
-      "name": "Wind On Tin",
-      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
+      "duration_ms": 184869,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -899,18 +923,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Telephone",
-        "url": "https://open.spotify.com/album/4Qp1PN0SHjCjm8KGzh5qGu"
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
       },
       "artists": [
         {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
         }
       ],
-      "duration_ms": 222800,
-      "name": "Telephone",
-      "url": "https://open.spotify.com/track/0Y9QZo9l948hcvBIt9TQSO"
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -943,30 +967,6 @@
       "duration_ms": 141946,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Thirteen",
-        "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        },
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 184869,
-      "name": "Thirteen",
-      "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "dirt",
-        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 176268,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Nobody Lives Here Anymore",
         "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 277261,
       "name": "Every Once In A While",
       "url": "https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "dirt",
+        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 176268,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Sucker's Lunch",
-        "url": "https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ"
-      },
-      "artists": [
-        {
-          "name": "Madeline Kenney",
-          "url": "https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN"
-        }
-      ],
-      "duration_ms": 283370,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 286042,
       "name": "More",
       "url": "https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Sucker's Lunch",
+        "url": "https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ"
+      },
+      "artists": [
+        {
+          "name": "Madeline Kenney",
+          "url": "https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN"
+        }
+      ],
+      "duration_ms": 283370,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Fun House",
-        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Held Down",
         "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 247933,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Fun House",
+        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD"
-      },
-      "artists": [
-        {
-          "name": "j solomon",
-          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/32irCtqVudXga5frCUDFVH"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "The Greatest Part",
         "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 169257,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD"
+      },
+      "artists": [
+        {
+          "name": "j solomon",
+          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/32irCtqVudXga5frCUDFVH"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Geist",
-        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 278316,
-      "name": "Rare to Wake",
-      "url": "https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Geist",
+        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 278316,
+      "name": "Rare to Wake",
+      "url": "https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Less Ready to Go",
         "url": "https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa"
       },
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
-      },
-      "artists": [
-        {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
-        }
-      ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Wooh Dang",
         "url": "https://open.spotify.com/album/4baa3THO8wKLMrASaem2Ri"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 246293,
       "name": "Rolling Rolling Rolling",
       "url": "https://open.spotify.com/track/2ITsIVlWHBXkOgeXXJqid9"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+        }
+      ],
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/4bqE0GxxSdnrfJMiFB6MAA"
-      },
-      "artists": [
-        {
-          "name": "Anjimile",
-          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
-        }
-      ],
-      "duration_ms": 168897,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/0JmSm5QqrdHEUDOG1k0D4h"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Valley",
         "url": "https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 209386,
       "name": "Valley",
       "url": "https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/4bqE0GxxSdnrfJMiFB6MAA"
+      },
+      "artists": [
+        {
+          "name": "Anjimile",
+          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
+        }
+      ],
+      "duration_ms": 168897,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/0JmSm5QqrdHEUDOG1k0D4h"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "PAINLESS (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 295341,
-      "name": "midnight sun - reflects / acoustic version",
-      "url": "https://open.spotify.com/track/3aMSHc6o4cTJnimrHoNT9k"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Planet (i)",
         "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
       },
@@ -1999,6 +1983,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "PAINLESS (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Vj636uY4zVju5d3NWc9jP"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 295341,
+      "name": "midnight sun - reflects / acoustic version",
+      "url": "https://open.spotify.com/track/3aMSHc6o4cTJnimrHoNT9k"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "A Color of the Sky",
         "url": "https://open.spotify.com/album/5XgsP1RlwCnPU8f3NuoY2K"
       },
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Sam Amidon",
-        "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
-      },
-      "artists": [
-        {
-          "name": "Sam Amidon",
-          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
-        }
-      ],
-      "duration_ms": 294360,
-      "name": "Maggie",
-      "url": "https://open.spotify.com/track/00DyyDxPVjFdtLILeZsxjv"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 179306,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Sam Amidon",
+        "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
+      },
+      "artists": [
+        {
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
+        }
+      ],
+      "duration_ms": 294360,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/00DyyDxPVjFdtLILeZsxjv"
     }
   ],
   "unique_name": "Folk Arc",

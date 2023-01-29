@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: LE SSERAFIM
+> The freshest K\-Pop of today! cover: LE SSERAFIM //最先端のK\-Popをピックアップ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,235 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,854 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 69 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 |
 | 70 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 |
 
-Snapshot ID: `MTY3NDgzODU1OCwwMDAwMDAwMDg3YWNkMjU2NzE2N2M0Mjg4MTM3NWY3N2JlY2Q3NWRm`
+Snapshot ID: `MTY3NDg3NDU0OCwwMDAwMDAwMDQ0MmNhNmQwNTUyZTViMWRlMmZhOWNkNDljZWExMWMx`

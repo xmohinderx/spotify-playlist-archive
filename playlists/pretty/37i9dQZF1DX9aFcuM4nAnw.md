@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,363 likes - 75 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,367 likes - 75 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 36 | [The Price of Failure](https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8) | [I Am the Night](https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd) | 6:21 |
 | 37 | [Eulogy](https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 3:39 |
 | 38 | [Silent Messenger](https://open.spotify.com/track/4z2rlz9eCnfpWv2eAVg3SF) | [Desiderii Marginis](https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX) | [Procession](https://open.spotify.com/album/0JCLdXVVINlBEugw8VtRRV) | 7:35 |
-| 39 | [Delia Derbyshire](https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4) | [King Of Woolworths](https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd) | [L'illustration Musicale](https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1) | 6:10 |
-| 40 | [Ones Atop the Unknown](https://open.spotify.com/track/7EQXtgp56sFwJu1euom2GC) | [Apocryphos](https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP), [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr), [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Onyx](https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS) | 5:37 |
+| 39 | [Ones Atop the Unknown](https://open.spotify.com/track/7EQXtgp56sFwJu1euom2GC) | [Apocryphos](https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP), [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr), [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Onyx](https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS) | 5:37 |
+| 40 | [Delia Derbyshire](https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4) | [King Of Woolworths](https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd) | [L'illustration Musicale](https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1) | 6:10 |
 | 41 | [Acid Rain on Broken Rooftops](https://open.spotify.com/track/6JwqoBUyhDrkrhDcPxohUM) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Music for an Empty Metropolis](https://open.spotify.com/album/06Wy4Ua6OmrTNqK4n7BZJo) | 4:38 |
 | 42 | [\#5](https://open.spotify.com/track/4HBo946zIZAYhyzlZ7hfGo) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 8:55 |
 | 43 | [This Isn't You](https://open.spotify.com/track/4cocLXeDOiFIPBgZCvJ3RF) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 2:23 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 71 | [The Magi](https://open.spotify.com/track/1Ma5XYumHN0yAp5yzaWReq) | [Council of Nine](https://open.spotify.com/artist/3m9vrJ0nacuuhkK5tvqInR) | [Dakhma](https://open.spotify.com/album/2ySAn302IJRRc3PJpkuRfM) | 10:24 |
 | 72 | [Witch's Will](https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy) | [Wilburn Burchette](https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 4:57 |
 | 73 | [Ambulance Chase](https://open.spotify.com/track/7mOxAfHsYo0SsmPhVKEWVD) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG) | 2:58 |
-| 74 | [Spectral Corridor Part 4](https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW) | [The House In the Woods](https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Spectral Corridor](https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV) | 8:31 |
-| 75 | [Bathyscaphe](https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [Bathyscaphe](https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp) | 3:12 |
+| 74 | [Bathyscaphe](https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [Bathyscaphe](https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp) | 3:12 |
+| 75 | [Spectral Corridor Part 4](https://open.spotify.com/track/4VzYC6ZbJFuHQaDmWiIFPW) | [The House In the Woods](https://open.spotify.com/artist/6fopY1TSYnXYGO9AUFW9Ej), [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Spectral Corridor](https://open.spotify.com/album/0VLbHcZxY9nKSnuQjSwrGV) | 8:31 |
 
-Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMGYzMDQ5MjY3NDI4YzllYzIwYjVjMGQzNjVmODNiZTUx`
+Snapshot ID: `MTY2ODcyMTM0OCwwMDAwMDAwMGFiOGRlODRlNTc2MTEyZTUyZWFhYjIzNTlhMjQ3YTYw`

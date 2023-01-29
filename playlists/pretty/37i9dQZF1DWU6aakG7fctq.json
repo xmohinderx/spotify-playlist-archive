@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Urb\u00f8i",
-  "num_followers": 507348,
+  "num_followers": 507398,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDVmNjY5NWU4YjdlYzkwYTI5OWRiMzA1YmUzMGVmZmMx",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGM2OGMyOTVlOGM1ZWVmZTQ4MzUzMGJiMzU1MDFlYjA5",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Despierto",
+        "url": "https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        },
+        {
+          "name": "Di\u00e0go",
+          "url": "https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s"
+        }
+      ],
+      "duration_ms": 199017,
+      "name": "Despierto",
+      "url": "https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Levitando Lento",
         "url": "https://open.spotify.com/album/35erxSQT8lds419FlnC6WP"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 233680,
       "name": "Las Manos (feat. Leo Rizzi)",
       "url": "https://open.spotify.com/track/3NeXCMnUryDbrNq5lTXzN0"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Despierto",
-        "url": "https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        },
-        {
-          "name": "Di\u00e0go",
-          "url": "https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s"
-        }
-      ],
-      "duration_ms": 199017,
-      "name": "Despierto",
-      "url": "https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Hacedora",
+        "url": "https://open.spotify.com/album/6DhHC7S2KFdOh7yAtawwUk"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 127153,
+      "name": "Hacedora",
+      "url": "https://open.spotify.com/track/3CaqjyISMBli311fJtv44h"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Nada M\u00e1s",
         "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
       },
@@ -675,6 +691,22 @@
       "duration_ms": 203076,
       "name": "Nada M\u00e1s",
       "url": "https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Un Poquito M\u00e1s",
+        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 179943,
+      "name": "Un Poquito M\u00e1s",
+      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -715,22 +747,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Hacedora",
-        "url": "https://open.spotify.com/album/6DhHC7S2KFdOh7yAtawwUk"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 127153,
-      "name": "Hacedora",
-      "url": "https://open.spotify.com/track/3CaqjyISMBli311fJtv44h"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "tal vez el amor",
         "url": "https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0"
       },
@@ -751,6 +767,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Abismos",
+        "url": "https://open.spotify.com/album/5wFCEY9HExtzfyTETDeAHi"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Espero Que Est\u00e9s Bien",
+      "url": "https://open.spotify.com/track/38S97g7LqJ62vCYS3tVMTe"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Heart of Glass",
         "url": "https://open.spotify.com/album/6HNtZqQFvOItPMymFKMqO7"
       },
@@ -767,18 +799,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Abismos",
-        "url": "https://open.spotify.com/album/5wFCEY9HExtzfyTETDeAHi"
+        "name": "NADA ES SEGURO",
+        "url": "https://open.spotify.com/album/0ARWP2duNEOvDQdJzsI76R"
       },
       "artists": [
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 187906,
-      "name": "Espero Que Est\u00e9s Bien",
-      "url": "https://open.spotify.com/track/38S97g7LqJ62vCYS3tVMTe"
+      "duration_ms": 204000,
+      "name": "NADA ES SEGURO",
+      "url": "https://open.spotify.com/track/6cVQ48CDvEtjE6iYS579as"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -807,42 +843,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Un Poquito M\u00e1s",
-        "url": "https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 179943,
-      "name": "Un Poquito M\u00e1s",
-      "url": "https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "NADA ES SEGURO",
-        "url": "https://open.spotify.com/album/0ARWP2duNEOvDQdJzsI76R"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "NADA ES SEGURO",
-      "url": "https://open.spotify.com/track/6cVQ48CDvEtjE6iYS579as"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Love a Morir",
         "url": "https://open.spotify.com/album/08AODWYrk5l7GHcyR6fTGC"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 168254,
       "name": "Love a Morir",
       "url": "https://open.spotify.com/track/4k73TrsfxLhw4Wdjl8x6ya"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -875,22 +891,6 @@
       "duration_ms": 208723,
       "name": "Instintos",
       "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     }
   ],
   "unique_name": "el nuevo indie",

@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 130167,
+  "num_followers": 130291,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDY4YmU4ZDJlMzg3NjViZTBhOTczMWEyMmE2M2QxZWMy",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDQ2NjlhZjBhZTNlZTU0YjI1N2NjM2Y5N2JkNWI4ZGM2",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -595,22 +595,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Safe at Home",
-        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
-      },
-      "artists": [
-        {
-          "name": "The International Submarine Band",
-          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Miller's Cave",
-      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "No Other",
         "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
       },
@@ -623,58 +607,6 @@
       "duration_ms": 391773,
       "name": "Strength of Strings",
       "url": "https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Ton-Ton Macoute!",
-        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jenkins",
-          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
-        }
-      ],
-      "duration_ms": 205093,
-      "name": "Down Along The Cove",
-      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "The Flying Burrito Brothers",
-        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
-      },
-      "artists": [
-        {
-          "name": "The Flying Burrito Brothers",
-          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "White Line Fever",
-      "url": "https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Magnetic South (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
-      },
-      "artists": [
-        {
-          "name": "Michael Nesmith",
-          "url": "https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2"
-        },
-        {
-          "name": "The First National Band",
-          "url": "https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Mama Nantucket",
-      "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
     },
     {
       "added_at": "2022-06-01 14:18:36",
@@ -723,6 +655,58 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Magnetic South (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
+      },
+      "artists": [
+        {
+          "name": "Michael Nesmith",
+          "url": "https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2"
+        },
+        {
+          "name": "The First National Band",
+          "url": "https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Mama Nantucket",
+      "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "The Flying Burrito Brothers",
+        "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
+      },
+      "artists": [
+        {
+          "name": "The Flying Burrito Brothers",
+          "url": "https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "White Line Fever",
+      "url": "https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Ton-Ton Macoute!",
+        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jenkins",
+          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "Down Along The Cove",
+      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Elite Hotel (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/312OEZO2boUMqdNMuuip6h"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 146986,
       "name": "Feelin' Single - Seein' Double - 2003 Remaster",
       "url": "https://open.spotify.com/track/65J216Pxb4JOdiYVFIpLx7"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Safe at Home",
+        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
+      },
+      "artists": [
+        {
+          "name": "The International Submarine Band",
+          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "Miller's Cave",
+      "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
     },
     {
       "added_at": "2020-08-05 15:52:11",

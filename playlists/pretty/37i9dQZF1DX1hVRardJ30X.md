@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,312 likes - 67 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,518 likes - 67 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 4 | [EL HOMBRE PERFECTO](https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EL HOMBRE PERFECTO](https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW) | 3:36 |
 | 5 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 |
 | 6 | [T'as peur](https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:35 |
-| 7 | [XNO](https://open.spotify.com/track/258ARGrVTgPMa15ehgpgcB) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Xno](https://open.spotify.com/album/2wuaA1RoPCYb3GM7eV1PS6) | 3:08 |
+| 7 | [XNO](https://open.spotify.com/track/258ARGrVTgPMa15ehgpgcB) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [XNO](https://open.spotify.com/album/2wuaA1RoPCYb3GM7eV1PS6) | 3:08 |
 | 8 | [Baby Father 2.0 \(feat\. Myke Towers, Arcángel, Ñengo Flow and Yeruza\)](https://open.spotify.com/track/3gnyHrHJ4J0QUFnMllQv1F) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb) | [Baby Father 2.0 \(feat\. Myke Towers, Arcángel, Ñengo Flow and Yeruza\)](https://open.spotify.com/album/00Ushoa7kBvcYZeqZFKCr8) | 6:45 |
 | 9 | [Santorini](https://open.spotify.com/track/0eh8K8zCq1sUf2reIaAg39) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Santorini](https://open.spotify.com/album/6OxXSPMkyHHhAtkt1nenCj) | 3:19 |
 | 10 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 |

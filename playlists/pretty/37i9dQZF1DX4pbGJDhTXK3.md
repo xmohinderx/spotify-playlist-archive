@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,717 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,754 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 21 | [Staying In](https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 3:54 |
 | 22 | [A Man Called Anthony](https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv) | [Magnus International](https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE) | [Echo to Echo](https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec) | 4:15 |
 | 23 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 |
-| 24 | [Vegvisir \(Nils Olav Remix\)](https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT), [Nils Olav](https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op) | [Vegvisir \(Nils Olav Remix\)](https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb) | 6:12 |
-| 25 | [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG) | [Gundelach](https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ) | 8:13 |
+| 24 | [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG) | [Gundelach](https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ) | 8:13 |
+| 25 | [Vegvisir \(Nils Olav Remix\)](https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT), [Nils Olav](https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op) | [Vegvisir \(Nils Olav Remix\)](https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb) | 6:12 |
 | 26 | [Tyrkisk Pepper \- Dolle Jolle Remix](https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL), [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Tyrkisk Pepper](https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt) | 8:02 |
 | 27 | [Be A Man You Ant \- Original Mix](https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Be A Man You Ant](https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig) | 6:24 |
 | 28 | [This Time, This Place…](https://open.spotify.com/track/4JGxZc0tsSVQx2gw7rOQSz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Beki Mari](https://open.spotify.com/artist/4z9AKehWvtxINEbu8aQGO6) | [This Time, This Place…](https://open.spotify.com/album/0C8AjuFDeY8LVpEMH3DR25) | 7:44 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 30 | [Ok, Kjor Romskip \- Original Mix](https://open.spotify.com/track/1i7POakPGDR8Z7PJEGDp5P) | [Rune Lindbaek](https://open.spotify.com/artist/6SXxObLtqUzAjJGtMwgsbk) | [Sondag](https://open.spotify.com/album/1LdfVewFu5TLTgaxFCyABn) | 5:30 |
 | 31 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 |
 | 32 | [Closing Shot](https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD) | 8:23 |
-| 33 | [Andromeda \(Prelude to the Future\)](https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D) | [Meanderthals](https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is) | [Desire Lines](https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn) | 4:34 |
-| 34 | [Love in the Night](https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [CDIII](https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF) | 8:13 |
+| 33 | [Love in the Night](https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [CDIII](https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF) | 8:13 |
+| 34 | [Andromeda \(Prelude to the Future\)](https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D) | [Meanderthals](https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is) | [Desire Lines](https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn) | 4:34 |
 | 35 | [Flott Flyt](https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 6:41 |
 | 36 | [The Walk](https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56) | [The Walk](https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG) | 4:24 |
 | 37 | [Kosmetisk](https://open.spotify.com/track/5Lx3mPW7NV7MCw31OofvV4) | [Magnus International](https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE) | [Kosmetisk](https://open.spotify.com/album/5Tsih38nrHZzQPHaLkwjc7) | 5:42 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 39 | [A City So Convenient](https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [A City So Convenient](https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J) | 6:26 |
 | 40 | [Italian Stallion](https://open.spotify.com/track/3o7AUvN9hTo5TRUrrW0HYV) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Eurodans](https://open.spotify.com/album/3lc2aq9bjw8sEHepfcQ7U5) | 6:27 |
 | 41 | [Thirst Issues](https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W) | [Melkeveien](https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8) | [Full Pupp Splits 004 \- Hamar\-O\-Ramah!](https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy) | 5:58 |
-| 42 | [twilight sparkle](https://open.spotify.com/track/20kF9KW9Wh4iOv6FycpBKq) | [dragongirl](https://open.spotify.com/artist/3WkDNb8ocbf9rd7Vr6m2DM) | [twilight sparkle](https://open.spotify.com/album/2pRRGrzD7blOYqIlhB1rNr) | 2:45 |
-| 43 | [Kuk Av Stal](https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL) | [Kuk Av Stal / November](https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z) | 12:22 |
+| 42 | [Kuk Av Stal](https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL) | [Kuk Av Stal / November](https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z) | 12:22 |
+| 43 | [twilight sparkle](https://open.spotify.com/track/20kF9KW9Wh4iOv6FycpBKq) | [dragongirl](https://open.spotify.com/artist/3WkDNb8ocbf9rd7Vr6m2DM) | [twilight sparkle](https://open.spotify.com/album/2pRRGrzD7blOYqIlhB1rNr) | 2:45 |
 | 44 | [Nitten Nitti \- Harvey's Not Normal Mix](https://open.spotify.com/track/0pQ56PL4N5p5yl6L1vluwr) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Oppkok](https://open.spotify.com/album/1Ez5JV6xCESNKfZlyGYLfR) | 5:03 |
 | 45 | [Baby Can't Stop](https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB), [Christabelle](https://open.spotify.com/artist/1tGGx3MFXshoO5UyPyk1re) | [Baby Can't Stop](https://open.spotify.com/album/5VLSsw5p70usZesWIq4UwG) | 6:11 |
 | 46 | [Low](https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Tilla](https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [Maskindans \- Radio Edit](https://open.spotify.com/track/4Gk5pUinxmDBuVAcjOHaKD) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw), [Det Gylne Triangel](https://open.spotify.com/artist/4Rkaxisnihy39c7B45junc) | [Maskindans](https://open.spotify.com/album/22bvOQCEhiV9UJQb4i7WZE) | 3:34 |
 | 50 | [Motown](https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61), [Tracee Meyn](https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly) | [Motown](https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l) | 6:28 |
 
-Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMDE2Y2UzOGY0Zjk2MjI4YjE3OTFhYWVkNDI2NTJkZTE3`
+Snapshot ID: `MTY3NDE2OTIwMCwwMDAwMDAwMGE2OGVmNTM1MmM4NjRlMmU1MTMwYmZhM2UwNTU4NGUz`

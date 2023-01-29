@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-60 songs - 2 hr 45 min
+61 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD) | 2:51 | 2022-11-08 |  |
 | [Bottom of the Trap \(feat\. Icewear Vezzo & EST Gee\)](https://open.spotify.com/track/6PlWlDkvdyfiy9R5C52C3F) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Top 10 Trappers DOA](https://open.spotify.com/album/3iyEcyNBj7ZrniAgMzyqaK) | 2:54 | 2022-11-25 |  |
 | [Bottom Of The Trap \(feat\. Icewear Vezzo & EST Gee\)](https://open.spotify.com/track/0Btz9n7eympYOWBp6ICg1P) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bottom Of The Trap \(feat\. Icewear Vezzo & EST Gee\)](https://open.spotify.com/album/3rQTz3HJ5wWoW43TE2Uugb) | 2:59 | 2022-10-28 | 2022-11-26 |
-| [BRING IT BACK \(with EST Gee\)](https://open.spotify.com/track/6avqvDaNE05hHOSxISXbBW) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [HEAVY IS THE HEAD](https://open.spotify.com/album/5JiiyLyGI5LSP0N0bcu6wy) | 2:49 | 2022-11-12 |  |
+| [BRING IT BACK \(with EST Gee\)](https://open.spotify.com/track/6avqvDaNE05hHOSxISXbBW) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [HEAVY IS THE HEAD](https://open.spotify.com/album/5JiiyLyGI5LSP0N0bcu6wy) | 2:49 | 2022-11-12 | 2023-01-29 |
 | [Burglars & Murderers \(feat\. EST Gee\)](https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:40 | 2022-10-28 |  |
 | [Can't Be Fucked With](https://open.spotify.com/track/7AmVwZ9vImbly1xOkUFJZI) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 1:46 | 2022-10-28 |  |
 | [CHICKENS \(feat\. EST Gee\)](https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:15 | 2022-10-28 |  |
@@ -41,6 +41,7 @@
 | [Hmhmm \(feat\. EST Gee\)](https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:24 | 2022-10-28 | 2022-11-21 |
 | [I Still Dont Feel Nun](https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:04 | 2022-10-28 |  |
 | [Ice Talk](https://open.spotify.com/track/4YeoYDiM7MHUb6Gb9sKYz9) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:31 | 2022-10-28 |  |
+| [IF I STOP NOW](https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [IF I STOP NOW](https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8) | 2:57 | 2023-01-28 |  |
 | [Keep It Real](https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:47 | 2022-10-28 |  |
 | [Lamborghini Geeski](https://open.spotify.com/track/3yFeGITfaWIQpWK2UQc8BM) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death Part 2](https://open.spotify.com/album/50590zy2jXipuPgHomTXgv) | 2:51 | 2022-10-28 |  |
 | [Lick Back](https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 1:33 | 2022-10-28 |  |

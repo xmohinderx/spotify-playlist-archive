@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,306 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,331 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 29 | [Chemicals](https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Chemicals](https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB) | 4:14 |
 | 30 | [Giving In To The Love](https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:01 |
 | 31 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:19 |
-| 32 | [concrete](https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [concrete](https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT) | 3:32 |
-| 33 | [No Ordinary](https://open.spotify.com/track/5GSKLdbgKfoOmZxgwUKBEp) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [No Ordinary](https://open.spotify.com/album/67TMvbWsbRX8mhZVxJJoYu) | 3:04 |
-| 34 | [ophelie](https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:56 |
+| 32 | [No Ordinary](https://open.spotify.com/track/5GSKLdbgKfoOmZxgwUKBEp) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [No Ordinary](https://open.spotify.com/album/67TMvbWsbRX8mhZVxJJoYu) | 3:04 |
+| 33 | [ophelie](https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:56 |
+| 34 | [concrete](https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [concrete](https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT) | 3:32 |
 | 35 | [Ndokulandela](https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Mangaliso](https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A) | 3:51 |
 | 36 | [In Cold Blood](https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [RELAXER](https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP) | 3:26 |
 | 37 | [Concrete](https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Concrete](https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1) | 2:32 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 46 | [Letting In](https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI) | [Beauville](https://open.spotify.com/artist/4uf9PIXkZQTXqzl5gyDJLj), [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Letting In](https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl) | 4:23 |
 | 47 | [The Pines](https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l) | [Roses & Revolutions](https://open.spotify.com/album/4OfwTpLOdw2arj9V8rN1zi) | 3:07 |
 | 48 | [Purple Candy](https://open.spotify.com/track/6Nw8yJrwuuGalE9FPejPuZ) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [The Pilot](https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl) | 4:15 |
-| 49 | [Wild Girl](https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Wild Girl](https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT) | 3:14 |
-| 50 | [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 |
+| 49 | [Oasis](https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Oasis](https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj) | 3:22 |
+| 50 | [Wild Girl](https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Wild Girl](https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT) | 3:14 |
 | 51 | [Trouble](https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:04 |
 | 52 | [Nighttime Hunger](https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [YOUNG](https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm) | 2:48 |
 | 53 | [Corners Of My Mind](https://open.spotify.com/track/0wdMcK7ejJRdi2AiY2wLGk) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. I](https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ) | 3:32 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 91 | [Sweet Summer Sweat](https://open.spotify.com/track/2rF0SIGlQLyU2Vg3Vxlxn5) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 3:03 |
 | 92 | [Who Knows](https://open.spotify.com/track/6FwgXgeoZkzn5iUcppWK3a) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Bless You](https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr) | 2:31 |
 | 93 | [Trip](https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH) | 2:53 |
-| 94 | [WONDER \- PVRIS Remix](https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \(reimagined\)](https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8) | 4:15 |
-| 95 | [Gold \- Flume Re\-Work](https://open.spotify.com/track/7oELjqBCLfUKhsR5IGCS6N) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Gold \(Flume Re\-Work\)](https://open.spotify.com/album/4DHglATZVLGvsoJHoiTxXl) | 4:27 |
+| 94 | [Gold \- Flume Re\-Work](https://open.spotify.com/track/7oELjqBCLfUKhsR5IGCS6N) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Gold \(Flume Re\-Work\)](https://open.spotify.com/album/4DHglATZVLGvsoJHoiTxXl) | 4:27 |
+| 95 | [WONDER \- PVRIS Remix](https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [WONDER \(reimagined\)](https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8) | 4:15 |
 | 96 | [Run Run \- Japanese Wallpaper Remix](https://open.spotify.com/track/2Mf0bgVGpUu3bPup06votX) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Samuraii](https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO), [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM) | [Run Run \(Japanese Wallpaper Remix\)](https://open.spotify.com/album/5WCEypMGHYiBofTOnEpohr) | 3:25 |
 | 97 | [September Come](https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu) | [Moël](https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa), [The Accents](https://open.spotify.com/artist/4nbJ453Y0kDXpYVvQYq7DJ) | [September Come](https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd) | 4:00 |
 | 98 | [CLOVER](https://open.spotify.com/track/6A35BpHH8rTAWwn24tlva6) | [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [CLOVER](https://open.spotify.com/album/3ht0nTv1Z80PWNlNiI01mF) | 3:18 |
 | 99 | [Avery](https://open.spotify.com/track/31DUl7XE3OzX1IcnVG94g4) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Avery](https://open.spotify.com/album/643Gnd42azlZukIkuTucy6) | 3:14 |
 | 100 | [A Million Times \- HONNE remix](https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [A Million Times \(HONNE remix\)](https://open.spotify.com/album/7jfkwz4In0NkmU4V5hfcMt) | 4:06 |
 
-Snapshot ID: `MTY3MzQ3MDg3NSwwMDAwMDAwMDk4YzNmMGVmMTQyMTJhMzU1Y2E0ZmU4ZWJmNjk5Yzli`
+Snapshot ID: `MTY3MzQ3MDg3NSwwMDAwMDAwMGVmZjg0MWU4NTIyMjU1YjA1OTZmMWFjZjlmMDA5NzAz`

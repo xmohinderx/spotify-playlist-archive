@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jujubballin/">Juju Watkins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 96 likes - 43 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 97 likes - 43 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 | 22 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 |
 | 23 | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ) | 3:55 |
 | 24 | [Talk 2 U](https://open.spotify.com/track/1Xm9CQRcJbOgTCpKCpS9s5) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Sonder Son](https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w) | 2:39 |
-| 25 | [hooligan](https://open.spotify.com/track/3diZz7nVRbyuvAXSW7hzI7) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 2:36 |
-| 26 | [Krank](https://open.spotify.com/track/6vddKOUj2Fx4LEAYxmsT8p) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:55 |
+| 25 | [Krank](https://open.spotify.com/track/6vddKOUj2Fx4LEAYxmsT8p) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:55 |
+| 26 | [hooligan](https://open.spotify.com/track/3diZz7nVRbyuvAXSW7hzI7) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 2:36 |
 | 27 | [Paint The Sky Red](https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:16 |
 | 28 | [The Beach](https://open.spotify.com/track/2Hd7uGbl8PX0IxyX59VFOg) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:25 |
 | 29 | [Confident](https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Journals](https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml) | 4:08 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 | 42 | [Same Thing](https://open.spotify.com/track/2XEsbmynS9dLSzNSuZzfXF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:42 |
 | 43 | [We Should \(feat\. Young Thug\)](https://open.spotify.com/track/5ixKkLQSriCQakDWbdW8qD) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:56 |
 
-Snapshot ID: `MTY3MjU0OTIwMCwwMDAwMDAwMDMwNzIwMTY2MTkzNGZkZGEwNzMyZmRjNTVkNTkzNGU3`
+Snapshot ID: `MTY3MjU0OTIwMCwwMDAwMDAwMGQyMzk3YzFhMmNiYjk5MzBiMTkxMzQ2NWY3ZDY0M2Zj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Jass Reyes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,703 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,722 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 37 | [Nadie Más](https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7) | 3:23 |
 | 38 | [A la Mitad \(Suceso 1\)](https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Roxanne](https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo) | 3:33 |
 | 39 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
-| 40 | [Ten Cuidao'](https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Ten Cuidao'](https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i) | 2:54 |
-| 41 | [Quién Diría](https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Quién Diría](https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk) | 2:48 |
-| 42 | [Mi Piscis](https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:22 |
+| 40 | [Mi Piscis](https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:22 |
+| 41 | [Ten Cuidao'](https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Ten Cuidao'](https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i) | 2:54 |
+| 42 | [Quién Diría](https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Quién Diría](https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk) | 2:48 |
 | 43 | [amable](https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [amable](https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec) | 3:18 |
 | 44 | [Gallo Pinto](https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Gallo Pinto](https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk) | 3:29 |
 | 45 | [Cabrón](https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Cabrón](https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 49 | [Tóxico](https://open.spotify.com/track/2L2fv02jz6It9vWAyWiccb) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Tóxico](https://open.spotify.com/album/61HvOB4NvnJOcfP1T4vbXb) | 2:33 |
 | 50 | [Borrón Y Cuenta Nueva](https://open.spotify.com/track/5jvuhVvJZkNzQ2i72nmTn3) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Mangus](https://open.spotify.com/artist/1MBFloPAlrKWbgNRCyldSF) | [Borrón Y Cuenta Nueva](https://open.spotify.com/album/2UOJpxiTPuECDKFkJs1G3Z) | 3:21 |
 
-Snapshot ID: `MTY3NDc1MjkzMywwMDAwMDAwMDU0MjViZmM5YzMxOGYyYjgxZTk4YmQ3NzQzODRmMDkz`
+Snapshot ID: `MTY3NDc1MjkzMywwMDAwMDAwMGNmOTk0OTgyZGVhYWMzODU3MGNmNGJiYWI3YTU5NDM5`

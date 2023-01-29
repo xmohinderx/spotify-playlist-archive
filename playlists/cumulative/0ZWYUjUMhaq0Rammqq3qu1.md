@@ -2,7 +2,7 @@
 
 ### [Dance Hits 2023](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> Dance hits in 2023\. Cover: Gryffin
+> Dance hits in 2023\. Cover: SG Lewis
 
 167 songs - 8 hr 42 min
 

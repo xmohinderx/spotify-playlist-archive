@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 14893,
+  "num_followers": 14943,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMDI4MGVhMjk5YmE1M2Q0YjA3MmQ1NDRkOWJhOWNhZWJj",
+  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMGQ4ZDZhMGJiN2NkZjU4Y2U3OWQxMzBiNmRkNGFiZmJh",
   "tracks": [
     {
       "added_at": "2022-08-17 18:30:29",
@@ -919,18 +919,22 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Descargando",
-        "url": "https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z"
+        "name": "Guaguamambo",
+        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
       },
       "artists": [
         {
           "name": "El Timba",
           "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
+        },
+        {
+          "name": "Fabio Gianni",
+          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
         }
       ],
-      "duration_ms": 294013,
-      "name": "Hermano",
-      "url": "https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc"
+      "duration_ms": 313039,
+      "name": "Linda Mujer",
+      "url": "https://open.spotify.com/track/0jJmkvcRT2vGETrMAgwmIk"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Guaguamambo",
-        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
+        "name": "Descargando",
+        "url": "https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z"
       },
       "artists": [
         {
           "name": "El Timba",
           "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
-        },
-        {
-          "name": "Fabio Gianni",
-          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
         }
       ],
-      "duration_ms": 313039,
-      "name": "Linda Mujer",
-      "url": "https://open.spotify.com/track/0jJmkvcRT2vGETrMAgwmIk"
+      "duration_ms": 294013,
+      "name": "Hermano",
+      "url": "https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1171,8 +1171,8 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
-        "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
+        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
+        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
       },
       "artists": [
         {
@@ -1180,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
         }
       ],
-      "duration_ms": 243781,
-      "name": "Rumba Rumbero",
-      "url": "https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA"
+      "duration_ms": 215272,
+      "name": "Cu\u00eddate Bi\u00e9n",
+      "url": "https://open.spotify.com/track/6T5ITpAYsPK1CfNPhtBKZm"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Sorpresa La Flauta",
-        "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Harlow",
-          "url": "https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
         "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
       },
@@ -1311,8 +1295,24 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
-        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
+        "name": "Sorpresa La Flauta",
+        "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Harlow",
+          "url": "https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
+        "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
         }
       ],
-      "duration_ms": 215272,
-      "name": "Cu\u00eddate Bi\u00e9n",
-      "url": "https://open.spotify.com/track/6T5ITpAYsPK1CfNPhtBKZm"
+      "duration_ms": 243781,
+      "name": "Rumba Rumbero",
+      "url": "https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1723,8 +1723,8 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "West Side Beat",
-        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
+        "name": "From Hollywood",
+        "url": "https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf"
       },
       "artists": [
         {
@@ -1732,9 +1732,9 @@
           "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
         }
       ],
-      "duration_ms": 167640,
-      "name": "Matrimonio Feliz",
-      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
+      "duration_ms": 172226,
+      "name": "Cuando Sale El Sol",
+      "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1855,8 +1855,8 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "From Hollywood",
-        "url": "https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf"
+        "name": "West Side Beat",
+        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
       },
       "artists": [
         {
@@ -1864,9 +1864,9 @@
           "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
         }
       ],
-      "duration_ms": 172226,
-      "name": "Cuando Sale El Sol",
-      "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
+      "duration_ms": 167640,
+      "name": "Matrimonio Feliz",
+      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
     },
     {
       "added_at": "2022-08-17 18:30:29",

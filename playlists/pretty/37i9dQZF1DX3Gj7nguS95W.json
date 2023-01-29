@@ -1,12 +1,12 @@
 {
   "description": "New wave took the 70s punk blueprint and ran wild! Cover: Blondie",
-  "num_followers": 793150,
+  "num_followers": 793475,
   "original_name": "Is it New Wave?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3OTAzNjYwMSwwMDAwMDAwMGEwZjE5ZjA4MGQxZGYwNWM2MWU1MTdiM2E0MmIxYWIw",
+  "snapshot_id": "MTU3OTAzNjYwMSwwMDAwMDAwMDEyNjY4ZDI4NTM2NGNjOGZhMTdjNDk1NGJjY2M1NTlm",
   "tracks": [
     {
       "added_at": "2020-01-14 21:16:41",
@@ -539,22 +539,6 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
         "name": "This Year's Model (2021 Remaster)",
         "url": "https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 196680,
       "name": "Pump It Up - 2021 Remaster",
       "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -635,22 +635,6 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Cities In Dust",
-      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
         "name": "Drums And Wires",
         "url": "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 180840,
       "name": "Oliver's Army",
       "url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Cities In Dust",
+      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
     },
     {
       "added_at": "2020-01-14 21:16:41",

@@ -1,12 +1,12 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 93181,
+  "num_followers": 93173,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwNTMwOSwwMDAwMDAwMGE3ZGUzZjE2M2I5NDgyMjZhNTM5MmE5MzE4YmM3MGU3",
+  "snapshot_id": "MTY3MDAwNTMwOSwwMDAwMDAwMDM1OWIzOTZkZGRjMGQxNjNjZTgzMzlhMTczNWQwZDlm",
   "tracks": [
     {
       "added_at": "2022-05-11 15:37:27",
@@ -499,6 +499,26 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 269186,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
         "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
         "url": "https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 225600,
       "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 269186,
-      "name": "I Feel It Coming",
-      "url": "https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt"
     },
     {
       "added_at": "2022-05-11 15:37:27",
@@ -807,30 +807,6 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
-        "name": "Mac and Devin Go to High School (Music from and Inspired by the Movie)",
-        "url": "https://open.spotify.com/album/12pnVAswzLE6hArSl0bF0h"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Young, Wild & Free (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/6YbhspuOar1D9WSSnfe7ds"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
         "name": "Snap Yo Fingers - Single",
         "url": "https://open.spotify.com/album/5ot3hAGLgvrmfZ3ddosFZf"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 274386,
       "name": "Snap Yo Fingers",
       "url": "https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
+        "name": "Mac and Devin Go to High School (Music from and Inspired by the Movie)",
+        "url": "https://open.spotify.com/album/12pnVAswzLE6hArSl0bF0h"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Young, Wild & Free (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/6YbhspuOar1D9WSSnfe7ds"
     },
     {
       "added_at": "2022-05-11 15:37:27",

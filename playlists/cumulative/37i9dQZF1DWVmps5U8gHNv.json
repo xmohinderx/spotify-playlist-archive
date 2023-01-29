@@ -1584,10 +1584,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 312600,
       "name": "Mississippi - Version 2",
       "url": "https://open.spotify.com/track/4T7zdEt6EPBYPINynERjCN"
+    },
+    {
+      "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312600,
+      "name": "Mississippi - Version 2",
+      "url": "https://open.spotify.com/track/6JWHNd8QMxTvojYkmZtKGI"
     },
     {
       "album": {
@@ -1717,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
+        "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430040,
+      "name": "Not Dark Yet - Version 1",
+      "url": "https://open.spotify.com/track/4tBwhmAibSxix5rKQ5zr4c"
+    },
+    {
+      "album": {
         "name": "Not Dark Yet (Version 1)",
         "url": "https://open.spotify.com/album/577uc6MHsDO7dJEPimNkmc"
       },
@@ -1728,7 +1764,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 432133,
       "name": "Not Dark Yet - Version 1",
       "url": "https://open.spotify.com/track/5CdrxIu33WFVpa2qnuG3A1"

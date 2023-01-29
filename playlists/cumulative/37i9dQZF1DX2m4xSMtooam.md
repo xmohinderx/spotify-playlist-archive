@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-196 songs - 12 hr 36 min
+197 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Easy To Love](https://open.spotify.com/track/5tu4L93jf26r7Nak71lcVs) | [Patricia Barber](https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5) | [The Cole Porter Mix](https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I) | 3:36 | 2022-05-13 | 2023-01-22 |
 | [Embarcadero](https://open.spotify.com/track/3zDRToKAQvpvyIbb06b4RD) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Greatest Hits Series\-\-Paul Desmond](https://open.spotify.com/album/3bBvPOUVZz1NxBBqpJf20b) | 4:00 | 2022-05-13 | 2022-11-12 |
 | [Enjoy Your Cigar](https://open.spotify.com/track/5WaOOx9Q5BJhJAfQaxnaaN) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [Sunset Martini](https://open.spotify.com/album/7wVdlgOP7d5mRO64fvspVb) | 3:42 | 2022-11-11 |  |
-| [Essa é Pro João](https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 3:01 | 2022-05-13 |  |
+| [Essa é Pro João](https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 3:01 | 2022-05-13 | 2023-01-29 |
 | [Estate](https://open.spotify.com/track/55mCj2LMr3csP88djkFpPN) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 6:27 | 2022-05-13 | 2022-08-11 |
 | [Este Seu Olhar](https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Pure Bossa Nova](https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt) | 2:32 | 2022-05-13 | 2022-07-27 |
 | [Este Seu Olhar](https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara Dez Anos Depois](https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd) | 2:32 | 2022-06-28 |  |
@@ -88,6 +88,7 @@
 | [How Insensitive](https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 3:49 | 2022-05-13 |  |
 | [Hó\-Bá\-Lá\-Lá](https://open.spotify.com/track/6MFWXFAc2ntn8eTp2lunKt) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ) | 2:17 | 2022-06-28 | 2022-10-14 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Cande y Paulo](https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg) | 3:46 | 2022-05-13 | 2022-12-13 |
+| [I Left My Heart in San Francisco](https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I Left My Heart in San Francisco](https://open.spotify.com/album/6ZagCmpNLdmAjSxVOmjLot) | 3:43 | 2023-01-26 |  |
 | [I Should Have Known Better](https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:26 | 2022-05-13 | 2023-01-21 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO) | 3:25 | 2022-12-22 |  |
 | [I Wish I Knew How It Would Feel to be Free \- Studio Rio Version](https://open.spotify.com/track/3k1t0MMGMXf0C3I5YSyMwu) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Studio Rio](https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3) | [Studio Rio Presents: The Brazil Connection](https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw) | 4:53 | 2022-05-13 |  |

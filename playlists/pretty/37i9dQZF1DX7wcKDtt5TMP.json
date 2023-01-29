@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 80. \n\n",
-  "num_followers": 65531,
+  "num_followers": 65746,
   "original_name": "Rock en Espa\u00f1ol: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjA5MiwwMDAwMDAwMDA5NDFjN2E4ZmQ1NDg4MjEwNmRlOTk2Njc0NDU3MDA3",
+  "snapshot_id": "MTY1MDkxNjA5MiwwMDAwMDAwMDY5ZjE0ZjFkMDBjNmJlN2IyMmQxZjIxYTY0MTNiMGEz",
   "tracks": [
     {
       "added_at": "2022-03-29 18:50:52",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "El Ritmo Mundial",
-        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 279986,
-      "name": "Vasos Vac\u00edos - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
         "name": "El Grito Del Tiempo",
         "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 235626,
       "name": "En alg\u00fan lugar",
       "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "El Ritmo Mundial",
+        "url": "https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 279986,
+      "name": "Vasos Vac\u00edos - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "Piano Bar",
-        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Miguel Mateos",
+          "url": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
         }
       ],
-      "duration_ms": 135973,
-      "name": "Demoliendo Hoteles",
-      "url": "https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ"
+      "duration_ms": 245360,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD"
+        "name": "Piano Bar",
+        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
       },
       "artists": [
         {
-          "name": "Miguel Mateos",
-          "url": "https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 245360,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe"
+      "duration_ms": 135973,
+      "name": "Demoliendo Hoteles",
+      "url": "https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -507,26 +507,6 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "Garc\u00eda 87/93",
-        "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        }
-      ],
-      "duration_ms": 255266,
-      "name": "Hablando a Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 197000,
       "name": "Atado a un Sentimiento",
       "url": "https://open.spotify.com/track/3saHmHGSuye9ysBOlv3Pkx"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "Garc\u00eda 87/93",
+        "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Hablando a Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "Clics Modernos",
-        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "No Me Dejan Salir",
-      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 294973,
       "name": "Es Tan F\u00e1cil Romper un Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0n2IudFRHDBfn64pNFGShg"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 263200,
+      "name": "No Me Dejan Salir",
+      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
-        "name": "Veneno En La Piel",
-        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
         "name": "GIT, El Album",
         "url": "https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 199373,
       "name": "Tarado De Cumplea\u00f1os",
       "url": "https://open.spotify.com/track/1okGO68FnEbaG8Rz8LcKw7"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
+        "name": "Veneno En La Piel",
+        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
     },
     {
       "added_at": "2022-03-29 18:50:52",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-03-29 18:50:52",
       "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 245266,
+      "name": "Te V\u00ed en un Tren",
+      "url": "https://open.spotify.com/track/2vR0SW93BdIciNlqeJVSch"
+    },
+    {
+      "added_at": "2022-03-29 18:50:52",
+      "album": {
         "name": "Parte De La Religion",
         "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 181600,
       "name": "No Voy en Tren",
       "url": "https://open.spotify.com/track/0rliTXrA8nLBuJcxDuueWU"
-    },
-    {
-      "added_at": "2022-03-29 18:50:52",
-      "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Neon",
-        "url": "https://open.spotify.com/album/3vJCmTwiW8FIWFd5wCblk8"
-      },
-      "artists": [
-        {
-          "name": "Ne\u00f3n",
-          "url": "https://open.spotify.com/artist/3wv682f2IGrweKNr4SlGeC"
-        }
-      ],
-      "duration_ms": 259786,
-      "name": "Juegos de Amor",
-      "url": "https://open.spotify.com/track/7K0iKwKRqZcfT492oLOvSl"
     }
   ],
   "unique_name": "Rock en Espa\u00f1ol: Los 80",

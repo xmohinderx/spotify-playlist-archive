@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 65885,
+  "num_followers": 65891,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDU0NTgyOSwwMDAwMDAwMGIwMjdiYjk3ZWExNmY1N2UzMTYzOTRmZTIyODkzNTg0",
+  "snapshot_id": "MTY3MDU0NTgyOSwwMDAwMDAwMDMwMjBlYWU4M2EwODVkMzg0NTZlZDA1NzBhMTEzNmRm",
   "tracks": [
     {
       "added_at": "2022-12-09 00:30:29",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-12-09 00:30:29",
       "album": {
-        "name": "Trodal",
-        "url": "https://open.spotify.com/album/3NJujcbx0smsffJx4vOode"
-      },
-      "artists": [
-        {
-          "name": "Jeepstarr",
-          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
-        }
-      ],
-      "duration_ms": 208057,
-      "name": "V\u00e4gsj\u00e4l",
-      "url": "https://open.spotify.com/track/28258RcG0K7cj4LirbIYlm"
-    },
-    {
-      "added_at": "2022-12-09 00:30:29",
-      "album": {
         "name": "Punch of Love",
         "url": "https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 245530,
       "name": "No Winners",
       "url": "https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB"
+    },
+    {
+      "added_at": "2022-12-09 00:30:29",
+      "album": {
+        "name": "Trodal",
+        "url": "https://open.spotify.com/album/3NJujcbx0smsffJx4vOode"
+      },
+      "artists": [
+        {
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
+        }
+      ],
+      "duration_ms": 208057,
+      "name": "V\u00e4gsj\u00e4l",
+      "url": "https://open.spotify.com/track/28258RcG0K7cj4LirbIYlm"
     },
     {
       "added_at": "2022-12-09 00:30:29",

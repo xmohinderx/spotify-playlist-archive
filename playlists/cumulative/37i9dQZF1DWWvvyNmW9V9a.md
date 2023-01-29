@@ -4,7 +4,7 @@
 
 > 💜 I just need this love spiral! 💜
 
-617 songs - 1 day 7 hr 48 min
+618 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,7 +551,8 @@
 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 | 2022-09-29 | 2022-10-22 |
 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 | 2022-05-06 | 2022-06-18 |
 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2022-08-24 | 2022-10-29 |
-| [Those Eyes \- Sped Up](https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes Alternate Versions](https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB) | 2:47 | 2022-10-10 |  |
+| [Those Eyes \- Sped Up](https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes \(Alternate Versions\)](https://open.spotify.com/album/55J0IqFDDMrc9v672IDED2) | 2:47 | 2022-10-10 |  |
+| [Those Eyes \- Sped Up](https://open.spotify.com/track/74RYb1C6FZnrcUCN3tv6mq) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes Alternate Versions](https://open.spotify.com/album/5RJIIyrcgf6MRI6iBInGtB) | 2:47 | 2022-10-10 | 2023-01-29 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-22 | 2022-06-11 |
 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 | 2022-03-18 | 2022-04-13 |
 | [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 | 2022-10-07 | 2022-12-07 |

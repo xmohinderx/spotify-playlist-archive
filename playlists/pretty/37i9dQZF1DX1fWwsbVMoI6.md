@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Hnos Yaipen
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,416 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,492 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 2 | [Con la Mano en el Moño](https://open.spotify.com/track/3ks8JZI6QpfylogVJnHEgx) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [Con la Mano en el Moño](https://open.spotify.com/album/1Vi8z8VCPnmMZoQ3nNBvPB) | 3:55 |
 | 3 | [Siempre Pierdo en el Amor](https://open.spotify.com/track/0YVUUyBOAKembHPXCSR8Lt) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/0duHeGHeuv8HAzKMrxtskK) | 3:12 |
 | 4 | [Dios Mío Hasta Que Me Enamoré](https://open.spotify.com/track/5ddr0ZG0fPFlIrSw1glHVo) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [30 Años Armonia 10](https://open.spotify.com/album/10rlV6tPLlPQDle7mdf1VX) | 3:09 |
-| 5 | [No Te Creas Tan Importante](https://open.spotify.com/track/51dGIhiWCWP6zUz9CS4irJ) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/5gMSQc4bvPERTvrOQXc543) | 4:08 |
+| 5 | [Si Supieras](https://open.spotify.com/track/5rTBTSxkCV2keoEaVGqFHQ) | [Hnos Silva](https://open.spotify.com/artist/4ijIJHRHj2vF4HkvB2gyL8) | [No Te Confundas… Sigue la Moda](https://open.spotify.com/album/276eFq7IZTyldke1uhvnXz) | 4:00 |
 | 6 | [Te Juro Que Te Amo](https://open.spotify.com/track/122MuCOG99PHG2mpnWeJrj) | [Claveles de la Cumbia](https://open.spotify.com/artist/6xONmQbNz6KhUEabbxPb6S) | [Te Vas Te Vas](https://open.spotify.com/album/2GWUqR8sZM4hjcMM5LddRx) | 6:03 |
-| 7 | [Si Supieras](https://open.spotify.com/track/5rTBTSxkCV2keoEaVGqFHQ) | [Hnos Silva](https://open.spotify.com/artist/4ijIJHRHj2vF4HkvB2gyL8) | [No Te Confundas… Sigue la Moda](https://open.spotify.com/album/276eFq7IZTyldke1uhvnXz) | 4:00 |
+| 7 | [No Te Creas Tan Importante](https://open.spotify.com/track/51dGIhiWCWP6zUz9CS4irJ) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/5gMSQc4bvPERTvrOQXc543) | 4:08 |
 | 8 | [Motor Y Motivo](https://open.spotify.com/track/2yjHvbMtfyoXXJYpsR3rYP) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Motor Y Motivo](https://open.spotify.com/album/69585tYHxNAZVvA9X1VwhK) | 3:16 |
 | 9 | [Necesito un Amor](https://open.spotify.com/track/2lo3RrKfwqrIQfD6JBJyfX) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [Necesito un Amor](https://open.spotify.com/album/1m6uAFrX3jnWkDvlIi7CcR) | 3:31 |
 | 10 | [La Duda](https://open.spotify.com/track/1euvZCoC0ETg1aiK0tfkEs) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Una Cualquiera](https://open.spotify.com/album/1ShwZyhoqhWGaZkQg6yVfS) | 4:24 |
@@ -24,15 +24,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 14 | [Quiero Amanecer](https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Quiero Amanecer](https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO) | 2:52 |
 | 15 | [El Arbolito](https://open.spotify.com/track/3aJQuNjwNNPnSzoajeuNvQ) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Embriágame Suavecito/Los Reyes De La Cumbia](https://open.spotify.com/album/6g8caHNdGCEXRDJrt18ofY) | 3:35 |
 | 16 | [Dígame usted señorita](https://open.spotify.com/track/73uNKhA2TUC93J9mIk7hrZ) | [Mauricio Mesones](https://open.spotify.com/artist/3rncKt7sH5O1C2xPOyGlze), [Kale “La Evolución”](https://open.spotify.com/artist/57T1dRrwZqZJbR6VC6wDRz) | [Dígame usted señorita](https://open.spotify.com/album/0AVgpKaGnG95xnZ1MBozW7) | 3:43 |
-| 17 | [Esta Noche](https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Solo Éxitos](https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD) | 3:57 |
+| 17 | [Tu Recuerdo](https://open.spotify.com/track/7LCyetqC0dra5wnypug3gH) | [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Tan Solo Tú](https://open.spotify.com/album/1R1pHL32brtnkxgZstFz6m) | 4:06 |
 | 18 | [Tu Amor Fue una Mentira](https://open.spotify.com/track/6BnqTZLQNh3bLSuGOHqLoa) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:36 |
-| 19 | [Tu Recuerdo](https://open.spotify.com/track/7LCyetqC0dra5wnypug3gH) | [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Tan Solo Tú](https://open.spotify.com/album/1R1pHL32brtnkxgZstFz6m) | 4:06 |
+| 19 | [Esta Noche](https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Solo Éxitos](https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD) | 3:57 |
 | 20 | [Si Esta Casa Hablara](https://open.spotify.com/track/7aLA9WPyVfmB3WeciQ6Fb3) | [Orquesta La Única Tropical](https://open.spotify.com/artist/38B1gZEOqKD3hG1YJJqTwK) | [Sin Fronteras](https://open.spotify.com/album/2CEK6jQBdbmko7H3Y5JGAx) | 3:44 |
 | 21 | [Cervecero](https://open.spotify.com/track/5tt27Q87bSQG4OjYtj8aPh) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/0duHeGHeuv8HAzKMrxtskK) | 5:26 |
 | 22 | [Por Que un Hombre No Llora](https://open.spotify.com/track/3WXuIhwbCGYvzLEfyvGYOU) | [Los Tigres de la Cumbia](https://open.spotify.com/artist/044y0XSznUpOIzgp61qwT1) | [Porque un Hombre No Llora](https://open.spotify.com/album/5yuZLJjoc41D8Di7y2nlbW) | 4:30 |
 | 23 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
-| 24 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |
-| 25 | [Lárgate](https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [A Llorar a Otra Parte](https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc) | 3:53 |
+| 24 | [Lárgate](https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [A Llorar a Otra Parte](https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc) | 3:53 |
+| 25 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |
 | 26 | [Días Felices](https://open.spotify.com/track/1WCujjpVcPacQ40RCNtXUg) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:20 |
 | 27 | [Tu Traición Se Acabó \- En Vivo](https://open.spotify.com/track/71TGkSfNH1jNEEdSvm3AmS) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Domingos de Fiesta \(En Vivo\)](https://open.spotify.com/album/5LHsfpJNae4RgShOL8GGLy) | 4:07 |
 | 28 | [Júrame](https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [El Romántico](https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ) | 4:07 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 42 | [Amor Incomparable](https://open.spotify.com/track/2PkVzhv6jSDEnvaq1dfBWN) | [Grupo Guinda](https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD) | [Amor Incomparable](https://open.spotify.com/album/4dIX1WfEpPFBvaTXwxIK88) | 3:14 |
 | 43 | [Dolor y Lagrimas](https://open.spotify.com/track/5iu23EuTrwZtZdJt7DWUlS) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Desierto](https://open.spotify.com/album/17kNwp6zAftLn7MzlqT8hz) | 4:48 |
 | 44 | [Te Burlaste de Mi](https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [El Futuro De La Cumbia](https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc) | 4:37 |
-| 45 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
-| 46 | [Mi Cariñito](https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:15 |
-| 47 | [Amor Prohibido](https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:33 |
+| 45 | [Amor Prohibido](https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:33 |
+| 46 | [Por Siempre Mi Angel](https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN) | [Son de Ríos](https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z) | [Imposible Olvidarte](https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT) | 5:58 |
+| 47 | [Mi Cariñito](https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:15 |
 | 48 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 |
 | 49 | [Voy a Buscarme un Amor](https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Mejor Que Nunca...Sola Hay Una...!](https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF) | 4:03 |
 | 50 | [Asesina de Amor](https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:16 |
 
-Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMDZhMjQyZTJhNDQ2MTYzMjRkNzQ4ZGY5NTY2MjJiYjY4`
+Snapshot ID: `MTY3MTE2Njg2MCwwMDAwMDAwMGRhNmYwMTU3MjFmMmViMjk3NGZmMTM2MTZhMjJjZDU4`

@@ -4,7 +4,7 @@
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 42 min
+57 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [The Force of All For One](https://open.spotify.com/track/4QWMaW2NDLjREyxZa6qDGY) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:53 | 2022-12-23 |  |
 | [Trinity](https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:18 | 2022-12-23 |  |
 | [We Must Go](https://open.spotify.com/track/04a6Tuzc3LHgM0I0IVh0aw) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「風が強く吹いている」オリジナルサウンドトラック](https://open.spotify.com/album/15qSa1T6OKegsLuFcvh7nW) | 6:15 | 2022-12-23 |  |
-| [We'll be everyone's heroes](https://open.spotify.com/track/6LznbpWs5WcsIqymkDPUa6) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 1:54 | 2023-01-05 |  |
+| [We'll be everyone's heroes](https://open.spotify.com/track/6LznbpWs5WcsIqymkDPUa6) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 1:54 | 2023-01-05 | 2023-01-29 |
 | [We'll Go All\-Out to Stop You!](https://open.spotify.com/track/5Q7KlVz4hFSkqsRwxkkx0l) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Heroes Rising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SOxXWhi3EzFeaf2xnBwgk) | 1:55 | 2023-01-18 |  |
 | [Weeee Are Fuxkin Super Hero!!](https://open.spotify.com/track/4fvM3fAOG2BWgicIbVdSdz) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 2:32 | 2022-12-31 | 2023-01-21 |
 | [You Say Run](https://open.spotify.com/track/0hHc2igYYlSUyZdByauJmB) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 3:48 | 2022-12-23 |  |
@@ -53,6 +53,7 @@
 | [期待](https://open.spotify.com/track/1YtfQWbOClRDQ4oA4ZuwHl) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Asami Tachibana](https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7) | 1:38 | 2022-12-23 |  |
 | [極限スイッチ](https://open.spotify.com/track/1NZo15KUTNsKN5cR7NIZ6P) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 2:42 | 2022-12-23 |  |
 | [無個性の苦悩](https://open.spotify.com/track/2k00f8Wu5dp8ghDXUfcg6b) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 2:11 | 2022-12-28 | 2023-01-13 |
+| [熱\(ひだり\)は絶対使わねえ](https://open.spotify.com/track/20y0vpnM5rKQH5Zy5y41Aw) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 2:00 | 2023-01-28 |  |
 | [爆殺王!!](https://open.spotify.com/track/6RJaCS5pLDVlxuzZ7JAi3B) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 2:05 | 2022-12-23 |  |
 | [目標](https://open.spotify.com/track/0gLcLBhAQ1eolxfUaT711N) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Asami Tachibana](https://open.spotify.com/artist/0F4ybIPzwLfT5xzZQlYBXP) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7) | 3:28 | 2022-12-23 |  |
 | [真っ向勝負](https://open.spotify.com/track/0qJ7OecpYupx360N8havQm) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 2:56 | 2022-12-23 |  |

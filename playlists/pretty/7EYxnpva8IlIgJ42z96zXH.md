@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,501 likes - 50 songs - 2 hr 40 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,508 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Don't Cry For Me](https://open.spotify.com/track/2OUJj5upivZyb4mUCEoQp7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Don't Cry For Me](https://open.spotify.com/album/3Dxx5keo6wkJXBwRXdqZUb) | 3:19 |
 | 2 | [messy in heaven](https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [messy in heaven](https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6) | 2:50 |
-| 3 | [The White Lotus Theme \(Aloha\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(Aloha\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 |
+| 3 | [The White Lotus Theme \(Aloha\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(aloha\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 |
 | 4 | [Deadly Vice](https://open.spotify.com/track/54ShqZjnusN1xknI6IycmY) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [Deadly Vice](https://open.spotify.com/album/1fZb11OuwvwExLsMtSaIcO) | 1:45 |
 | 5 | [You Know What I Need \- Shadow Child Classic Vocal Mix](https://open.spotify.com/track/2m4K9s4opg5e87UttVzT41) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [You Know What I Need \(Remixes\)](https://open.spotify.com/album/3aHSqJhe69W3keFBhFHGTe) | 2:41 |
 | 6 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 |

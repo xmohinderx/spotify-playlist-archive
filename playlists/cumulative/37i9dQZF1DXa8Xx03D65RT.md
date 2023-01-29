@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-530 songs - 22 hr 44 min
+531 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Les couleurs du ciel](https://open.spotify.com/track/3nyasiaSCFSEfxEEYg4jpx) | [Évariste Lacroix](https://open.spotify.com/artist/0d5qOOMJckpL05pEN7aKhz) | [Les couleurs du ciel](https://open.spotify.com/album/7mrY9VkXPs93zAM44QbWjB) | 2:41 | 2022-05-27 | 2023-01-21 |
 | [Let many flowers grow](https://open.spotify.com/track/6TAdSTLJrVdWjmuvUhTaDd) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Let many flowers grow](https://open.spotify.com/album/131d4xktQj2Jwve1yJwi0u) | 3:10 | 2022-05-27 | 2023-01-21 |
 | [Libellule](https://open.spotify.com/track/0d331ogYaPH7un6BnYDjLj) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Libellule](https://open.spotify.com/album/0YtB4ZKR95JR1IoVk3lrgf) | 2:45 | 2022-05-27 |  |
-| [Liefde maakt blind](https://open.spotify.com/track/1ULmtmHwHzmWqrVsYxees1) | [Margaretha van Baarle](https://open.spotify.com/artist/1I6amUXyzWrPtpPsLmYHp1) | [Liefde maakt blind](https://open.spotify.com/album/7CPXA05Q0uVQgND8qMzyIN) | 2:21 | 2022-05-27 |  |
+| [Liefde maakt blind](https://open.spotify.com/track/1ULmtmHwHzmWqrVsYxees1) | [Margaretha van Baarle](https://open.spotify.com/artist/1I6amUXyzWrPtpPsLmYHp1) | [Liefde maakt blind](https://open.spotify.com/album/7CPXA05Q0uVQgND8qMzyIN) | 2:21 | 2022-05-27 | 2023-01-29 |
 | [Like Before](https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/2XnJ6Gy388bHlx1rikNI4p) | 2:15 | 2022-07-20 |  |
 | [Like Before](https://open.spotify.com/track/4gh3kOpFSQPn6jGOI0gZPm) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/7KG32lDHhYrznuU2EXHJPp) | 2:15 | 2022-05-27 | 2022-07-29 |
 | [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-07-20 |  |
@@ -306,6 +306,7 @@
 | [Morgentau](https://open.spotify.com/track/405hXsV5rmcZarrpP71qA8) | [Volker Wagner](https://open.spotify.com/artist/4fpf1I40UxYf5cOaMO9Agr) | [united](https://open.spotify.com/album/0xEHLj5DHQfAY9lNsuqOd5) | 3:02 | 2022-05-27 | 2022-08-10 |
 | [Motionless](https://open.spotify.com/track/0QhJamJALUpi2kj5twPHES) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [Motionless](https://open.spotify.com/album/4hcfIDmt8TW14oy1MQpEyL) | 2:44 | 2022-05-27 | 2022-09-24 |
 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 | 2022-05-27 |  |
+| [Murasaki No Yume](https://open.spotify.com/track/5hiuOPmW0LBilvTFParX3V) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Murasaki No Yume](https://open.spotify.com/album/2JSfaNSxtVVplSGGNE6Dj4) | 2:12 | 2023-01-20 |  |
 | [Muriwai](https://open.spotify.com/track/4u3ZZLGtq6bYi1ZKK7c3BW) | [Matthew Paull](https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3) | [Muriwai](https://open.spotify.com/album/4EH4mxXX6T9RegNa5us3rs) | 2:01 | 2022-05-27 |  |
 | [My Absence](https://open.spotify.com/track/60aQ47g6775vmbN3yMntql) | [Giselle Guarezi](https://open.spotify.com/artist/3I7r2Vx9QBUabnGWYnKMQy) | [My Absence](https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV) | 1:58 | 2022-05-27 |  |
 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2022-05-27 |  |

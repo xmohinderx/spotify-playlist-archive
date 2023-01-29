@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Michael Ray",
-  "num_followers": 82765,
+  "num_followers": 82812,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDI2OWVjZjc0Y2E0MDNlMDU4YmY4OWE4OTk2ZGQzYzVk",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDY1ZjI0ODAwM2I4ODEwYjMwZDVhYTA3MTY2OGNlYjg1",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Feeling Whitney",
-        "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
-      },
-      "artists": [
-        {
-          "name": "Tyler Booth",
-          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
-        }
-      ],
-      "duration_ms": 217034,
-      "name": "Feeling Whitney",
-      "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "The Galway Girl",
         "url": "https://open.spotify.com/album/3hW3sQNLMGyjGyGQmEAMTr"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 265033,
       "name": "The Galway Girl",
       "url": "https://open.spotify.com/track/4HrdoGHlfUq1D0wJm1kZkD"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Whoever's In New England",
+        "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Whoever's in New England",
+      "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Whoever's In New England",
-        "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
+        "name": "Feeling Whitney",
+        "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Tyler Booth",
+          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
         }
       ],
-      "duration_ms": 226960,
-      "name": "Whoever's in New England",
-      "url": "https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor"
+      "duration_ms": 217034,
+      "name": "Feeling Whitney",
+      "url": "https://open.spotify.com/track/1yHqsAEZxRAcQIkk8LHlFN"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        }
-      ],
-      "duration_ms": 194459,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "15 Years, the Wild Ride",
         "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 272786,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/6hFwcjXV8jE2lzOn32uAlK"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        }
+      ],
+      "duration_ms": 194459,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/5woKIzrEkkeOvfaNFagz4c"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Wild And Blue",
-        "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "Wild And Blue",
-      "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Make Me Want To",
         "url": "https://open.spotify.com/album/0yeIgCIOOONw8YBtZCFzu9"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 175227,
       "name": "Make Me Want To",
       "url": "https://open.spotify.com/track/4zBfFrS00t3HNpW50Q2lew"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Wild And Blue",
+        "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "Wild And Blue",
+      "url": "https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0a5b336bi3yEiuEKDgkggS"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 247765,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 232666,
       "name": "Folsom Prison Blues - Spotify Singles",
       "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0a5b336bi3yEiuEKDgkggS"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 247765,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Re-Dunn",
-        "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Dunn",
-          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "Long Cool Woman (In a Black Dress)",
-      "url": "https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Uncovered",
         "url": "https://open.spotify.com/album/5hs99gvzSISGOEmncgy853"
       },
@@ -1683,18 +1667,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Acoustic Covers (Deluxe)",
-        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
+        "name": "Re-Dunn",
+        "url": "https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Ronnie Dunn",
+          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
         }
       ],
-      "duration_ms": 271771,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
+      "duration_ms": 216786,
+      "name": "Long Cool Woman (In a Black Dress)",
+      "url": "https://open.spotify.com/track/5w2rSFE0Z04cM5lARu56iu"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1711,6 +1695,22 @@
       "duration_ms": 209448,
       "name": "You're Still the One",
       "url": "https://open.spotify.com/track/0x5LOBSGVRXtZWeGeaMQFK"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Acoustic Covers (Deluxe)",
+        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 271771,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
     }
   ],
   "unique_name": "Country Covers",

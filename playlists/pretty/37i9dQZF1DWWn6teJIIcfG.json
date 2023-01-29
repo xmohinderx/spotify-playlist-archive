@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 156162,
+  "num_followers": 156389,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMDRjMjZiYTc3OTIyYjE2MDBhMjhjMzJjYTdiYzEwM2I5",
+  "snapshot_id": "MTY1OTEwMzc3MSwwMDAwMDAwMDI0MDM2MDUxY2I3YmQ5YTQ3ZWMyYjMxMDk3NzFhODNl",
   "tracks": [
     {
       "added_at": "2022-07-29 13:33:43",
@@ -387,6 +387,46 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Works for Solo Piano",
+        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
+      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Consolation No. 3 in D-Flat Major, S. 172",
+      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Bach, J.S. / Purcell / Handel: Stokowski Transcriptions",
         "url": "https://open.spotify.com/album/7yTPt5MG7Rh9mST50YtQDQ"
       },
@@ -415,26 +455,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Consolation No. 3 in D-Flat Major, S. 172",
-      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Brahms: Symphonies 1-4",
         "url": "https://open.spotify.com/album/1kG0o56c2BBq0dKMOih9gs"
       },
@@ -451,6 +471,26 @@
       "duration_ms": 374733,
       "name": "Symphony No. 3 in F Major, Op. 90: III. Poco allegretto",
       "url": "https://open.spotify.com/track/4Weo3vMehKR84QR3gEgwm8"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
+        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "duration_ms": 80280,
+      "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
+      "url": "https://open.spotify.com/track/12kRWIoumTRhk6jTIqjm3z"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -475,26 +515,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Works for Solo Piano",
-        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 122986,
-      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
-      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
         "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 101375,
       "name": "G\u00e9n\u00e9rique de fin",
       "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
-        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
-        }
-      ],
-      "duration_ms": 80280,
-      "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
-      "url": "https://open.spotify.com/track/12kRWIoumTRhk6jTIqjm3z"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -555,6 +555,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Into Silence: P\u00e4rt | Vasks | G\u00f3recki | Pel\u0113cis",
         "url": "https://open.spotify.com/album/7I6GRzGwHByDn59Y9cneeo"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 377560,
       "name": "Concertino bianco: 1. Con intenerimento",
       "url": "https://open.spotify.com/track/4RCllHzuJX9PaV7kNHxmu0"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -723,30 +723,22 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Fantasia on Greensleeves",
-        "url": "https://open.spotify.com/album/59u2LsQ4yVeArge5V4Y7pV"
+        "name": "Baroque Conversations",
+        "url": "https://open.spotify.com/album/1GeySkyBOkMq1yWbRZW1CV"
       },
       "artists": [
         {
-          "name": "Peter Warlock",
-          "url": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        },
-        {
-          "name": "Nicholas Kraemer",
-          "url": "https://open.spotify.com/artist/62XyYkSHbu9foTpnNFWdpT"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+          "name": "David Greilsammer",
+          "url": "https://open.spotify.com/artist/03DDDfXOjkqWelBJntrTpX"
         }
       ],
-      "duration_ms": 144266,
-      "name": "Capriol Suite: 5. Pied-en- l'air",
-      "url": "https://open.spotify.com/track/5JUZN3APQOGsw7LJZYEjmU"
+      "duration_ms": 96293,
+      "name": "Suite in D Minor, HWV 447: Allemande",
+      "url": "https://open.spotify.com/track/6k0PPC5BDLBvkBcikB3BBv"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -783,6 +775,34 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Fantasia on Greensleeves",
+        "url": "https://open.spotify.com/album/59u2LsQ4yVeArge5V4Y7pV"
+      },
+      "artists": [
+        {
+          "name": "Peter Warlock",
+          "url": "https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Nicholas Kraemer",
+          "url": "https://open.spotify.com/artist/62XyYkSHbu9foTpnNFWdpT"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "duration_ms": 144266,
+      "name": "Capriol Suite: 5. Pied-en- l'air",
+      "url": "https://open.spotify.com/track/5JUZN3APQOGsw7LJZYEjmU"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "La stanza del figlio un film di Nanni Moretti",
         "url": "https://open.spotify.com/album/6AkKScoXJYtwz1tY9jNZtj"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 146360,
       "name": "Saman",
       "url": "https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Baroque Conversations",
-        "url": "https://open.spotify.com/album/1GeySkyBOkMq1yWbRZW1CV"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "David Greilsammer",
-          "url": "https://open.spotify.com/artist/03DDDfXOjkqWelBJntrTpX"
-        }
-      ],
-      "duration_ms": 96293,
-      "name": "Suite in D Minor, HWV 447: Allemande",
-      "url": "https://open.spotify.com/track/6k0PPC5BDLBvkBcikB3BBv"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -931,26 +931,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Faur\u00e9: Music for Piano",
-        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Christine Croshaw",
-          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
-        }
-      ],
-      "duration_ms": 120493,
-      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
-      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
         "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 112000,
       "name": "Sonatine in D Major, Op. 32: I. Allegro moderato",
       "url": "https://open.spotify.com/track/7APFpoGpfOeQ94f5kKwBWj"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Faur\u00e9: Music for Piano",
+        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Christine Croshaw",
+          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
+      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1091,30 +1091,22 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "English Fantasy: Music for Clarinet and Orchestra",
-        "url": "https://open.spotify.com/album/3ZzdDsJSKUTyzKtItUVZC4"
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
       "artists": [
         {
-          "name": "Paul Reade",
-          "url": "https://open.spotify.com/artist/4YKWey1DY3MhxmQLd9sIzY"
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
         },
         {
-          "name": "Emma Johnson",
-          "url": "https://open.spotify.com/artist/5eSgGv03CtF0GkZg8pXNWm"
-        },
-        {
-          "name": "Philip Ellis",
-          "url": "https://open.spotify.com/artist/6eFKhfcEpptaK2LAxZbB9S"
-        },
-        {
-          "name": "BBC Concert Orchestra",
-          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
         }
       ],
-      "duration_ms": 127080,
-      "name": "Suite from The Victorian Kitchen Garden: V. Summer",
-      "url": "https://open.spotify.com/track/3eHSMvfEhVNjavnS3yemOI"
+      "duration_ms": 139974,
+      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1139,22 +1131,30 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+        "name": "English Fantasy: Music for Clarinet and Orchestra",
+        "url": "https://open.spotify.com/album/3ZzdDsJSKUTyzKtItUVZC4"
       },
       "artists": [
         {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+          "name": "Paul Reade",
+          "url": "https://open.spotify.com/artist/4YKWey1DY3MhxmQLd9sIzY"
         },
         {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+          "name": "Emma Johnson",
+          "url": "https://open.spotify.com/artist/5eSgGv03CtF0GkZg8pXNWm"
+        },
+        {
+          "name": "Philip Ellis",
+          "url": "https://open.spotify.com/artist/6eFKhfcEpptaK2LAxZbB9S"
+        },
+        {
+          "name": "BBC Concert Orchestra",
+          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
         }
       ],
-      "duration_ms": 139974,
-      "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+      "duration_ms": 127080,
+      "name": "Suite from The Victorian Kitchen Garden: V. Summer",
+      "url": "https://open.spotify.com/track/3eHSMvfEhVNjavnS3yemOI"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Chopin Gold",
-        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "H\u00e9l\u00e8ne Grimaud",
-          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
-        }
-      ],
-      "duration_ms": 292546,
-      "name": "Berceuse in D Flat Major, Op. 57",
-      "url": "https://open.spotify.com/track/38J3F2EqXt9DnRstJiziTJ"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Bruch, Brahms & Schubert: Chamber Works",
         "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 159010,
       "name": "8 Pieces, Op. 83 (Arr. for Violin, Viola & Piano): No. 2, Allegro con moto",
       "url": "https://open.spotify.com/track/1xWTaBLkw6T758GCLXNubf"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Chopin Gold",
+        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Grimaud",
+          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
+        }
+      ],
+      "duration_ms": 292546,
+      "name": "Berceuse in D Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/38J3F2EqXt9DnRstJiziTJ"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1315,22 +1315,22 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Bach, C.P.E.: Sonatas & Rondos",
-        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
+        "name": "Nielsen: Complete Chamber Works for Winds",
+        "url": "https://open.spotify.com/album/0swREjxNcpkrrAj7zFYQKn"
       },
       "artists": [
         {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+          "name": "Carl Nielsen",
+          "url": "https://open.spotify.com/artist/73I7vbj7hzsw8rW4LUoxtz"
         },
         {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+          "name": "Ensemble MidtVest",
+          "url": "https://open.spotify.com/artist/7bA9fVBNGzj5RvCoaqKXfs"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
-      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
+      "duration_ms": 134413,
+      "name": "Moderen (The Mother), Op. 41, FS 94: Tagen letter (The Fog is lifting)",
+      "url": "https://open.spotify.com/track/6fu7onizuA0GuuzjVaY5BU"
     }
   ],
   "unique_name": "Creative Focus",

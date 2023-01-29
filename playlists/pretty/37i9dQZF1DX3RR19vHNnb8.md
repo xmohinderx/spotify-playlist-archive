@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,124 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,143 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 25 | [Nyash \(Current & Savings\)](https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Nyash \(Current & Savings\)](https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B) | 3:34 |
 | 26 | [Picanto](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [Picanto](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 |
 | 27 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 |
-| 28 | [King of Parole](https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [King of Parole](https://open.spotify.com/album/3SxZ36WBWGwoDwXAAAS8Bk) | 3:16 |
-| 29 | [Longtime \(feat\. Skepta\)](https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:59 |
+| 28 | [Longtime \(feat\. Skepta\)](https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:59 |
+| 29 | [King of Parole](https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [King of Parole](https://open.spotify.com/album/3SxZ36WBWGwoDwXAAAS8Bk) | 3:16 |
 | 30 | [Early Hours](https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:46 |
 | 31 | [Neck & Wrist \(feat\. JAY\-Z & Pharrell\)](https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Neck & Wrist](https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3) | 3:29 |
 | 32 | [Jack](https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jack](https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [The Views](https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [031 To The World 2.0](https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH) | 3:06 |
 | 50 | [Last One Left \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6hUoVMWls2K9oYSNBFlYU6) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Two\-Face Bang 2](https://open.spotify.com/album/0CPeOS6Ykin4EelpJAZslh) | 3:15 |
 
-Snapshot ID: `MTY3NDgxMTk4MSwwMDAwMDAwMDZlOTI4NGMwNWI5ZWM3NmE5Nzc5Y2RhZjdhOTVmYWU2`
+Snapshot ID: `MTY3NDgxMTk4MSwwMDAwMDAwMDFkMzI4YWY5OGU0MTAyZmFjNWYwMGMzYjQwMTY2MGVm`

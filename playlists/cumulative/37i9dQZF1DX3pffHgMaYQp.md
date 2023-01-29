@@ -2,7 +2,7 @@
 
 ### [lo hice por el punk](https://open.spotify.com/playlist/37i9dQZF1DX3pffHgMaYQp)
 
-> música para insubordinados\. Las Decapitadas en portada.
+> música para insubordinados\. Los Blenders en portada.
 
 72 songs - 4 hr 5 min
 

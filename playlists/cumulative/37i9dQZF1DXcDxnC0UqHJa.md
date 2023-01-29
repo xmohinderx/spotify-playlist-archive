@@ -4,14 +4,14 @@
 
 > Folksy takes on your favorite tracks\. Cover: Josiah and the Bonnevilles
 
-230 songs - 14 hr 50 min
+231 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 | 2021-12-13 |  |
 | [4 x 10](https://open.spotify.com/track/6DPyUyC3JdvjD1mBkkL6yj) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [5 Covers & A Song](https://open.spotify.com/album/2V8YaOsCv3YQd01aVnVa1I) | 4:10 | 2021-12-13 | 2022-07-25 |
 | [A Case of You](https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [A Case of You](https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna) | 3:10 | 2021-12-13 |  |
-| [A Case of You](https://open.spotify.com/track/2q6vlgBJ432KeZZNt2ZZBV) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [A Case of You](https://open.spotify.com/album/11Inyi8jNCYIdhJgECS9f3) | 4:20 | 2021-12-13 |  |
+| [A Case of You](https://open.spotify.com/track/2q6vlgBJ432KeZZNt2ZZBV) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [A Case of You](https://open.spotify.com/album/11Inyi8jNCYIdhJgECS9f3) | 4:20 | 2021-12-13 | 2023-01-29 |
 | [A Long December](https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [A Long December](https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt) | 4:20 | 2022-01-14 |  |
 | [A Song for You](https://open.spotify.com/track/20T1K4gvaX8c7FbA7ljoau) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 4:20 | 2021-12-13 | 2022-07-28 |
 | [After The Gold Rush](https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Ohio / After The Gold Rush](https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci) | 4:54 | 2021-12-13 | 2022-11-13 |
@@ -176,6 +176,7 @@
 | [S.O.B.](https://open.spotify.com/track/5ZW8LRIJEnMf0cQATcjSxG) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [S.O.B.](https://open.spotify.com/album/0sK1mQtDiJ5MxejtsHGVOa) | 3:24 | 2021-12-13 | 2022-07-24 |
 | [Salt And The Sea](https://open.spotify.com/track/1JWtd8xh4Q5dyvnpBKh8L0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Salt And The Sea](https://open.spotify.com/album/6GVE4CFlrukN6Od0AnWL0c) | 4:22 | 2021-12-13 |  |
 | [Simple Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 2:18 | 2021-12-13 |  |
+| [Skinny Love \(Country Version\)](https://open.spotify.com/track/7gUDLbl3co7AL5oo4xPYu9) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Skinny Love \(Country Version\)](https://open.spotify.com/album/6RSaaIs4oHwZuA5wh9muvC) | 2:38 | 2023-01-27 |  |
 | [Sledgehammer](https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [So Low](https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y) | 4:24 | 2021-12-13 |  |
 | [Slow Burn](https://open.spotify.com/track/7wxpR27OE3OlkTWVjTlLIR) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Kacey Musgraves](https://open.spotify.com/album/5V2Gr572p76K873Hm20xFl) | 3:37 | 2021-12-13 | 2022-07-29 |
 | [Someone Like You](https://open.spotify.com/track/3S7BZqv1qZO5hxku8u8fqB) | [Dan Wilson](https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Someone Like You](https://open.spotify.com/album/7hkImNgsAoOS5CtitpnFOb) | 4:51 | 2021-12-13 | 2022-07-28 |

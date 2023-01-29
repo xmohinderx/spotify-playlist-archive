@@ -2,7 +2,7 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Hip\-hop mexicano, rimas de la calle, en voz de La Santa Grifa.
+> Hip\-hop mexicano, puras rimas de la calle\. Faruz Feet
 
 264 songs - 15 hr 49 min
 

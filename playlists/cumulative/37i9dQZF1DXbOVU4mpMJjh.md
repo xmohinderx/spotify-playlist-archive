@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-523 songs - 1 day 16 hr 44 min
+524 songs - 1 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Let's Fall In Love](https://open.spotify.com/track/2nhuWw711RfPtIY3NrpOZw) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan: Verve Ultimate Cool](https://open.spotify.com/album/3WV8NuROnseBTbErTSEu1b) | 6:26 | 2022-04-14 | 2022-07-29 |
 | [Let's Fall In Love](https://open.spotify.com/track/669fZh7MR6mreYTIV3n8ff) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 6:29 | 2022-06-30 | 2022-10-08 |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-06-08 |  |
-| [Life At Point Nemo](https://open.spotify.com/track/31SW7BwZNGQau7Tmydxzfl) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Life At Point Nemo](https://open.spotify.com/album/2Y39wUJVAIJP0QcTgB8mpj) | 3:54 | 2023-01-19 |  |
+| [Life At Point Nemo](https://open.spotify.com/track/31SW7BwZNGQau7Tmydxzfl) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Life At Point Nemo](https://open.spotify.com/album/2Y39wUJVAIJP0QcTgB8mpj) | 3:54 | 2023-01-19 | 2023-01-29 |
 | [Light Dance](https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Light Dance](https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ) | 3:39 | 2022-04-14 | 2022-04-27 |
 | [Light Wave](https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Light Wave](https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9) | 3:45 | 2022-06-22 |  |
 | [Lilys Dream](https://open.spotify.com/track/11ioiRZhEqWruR1IqAvqqd) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Lilys Dream](https://open.spotify.com/album/4ZaYVPKddgyIcoPBLQqJsa) | 3:29 | 2022-09-29 | 2023-01-27 |
@@ -320,6 +320,7 @@
 | [My Romance \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 4:14 | 2022-06-30 |  |
 | [My Simple Thing](https://open.spotify.com/track/4uP9aFwUv5lMNOlh6mKuNM) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0bjvkCZgQWIFDRedJAoxTO) | 5:01 | 2022-04-14 | 2022-07-29 |
 | [My Simple Thing](https://open.spotify.com/track/1GxMQS2PB67WbWEyUPo5Ig) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 5:01 | 2022-06-30 | 2022-10-08 |
+| [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 | 2023-01-26 |  |
 | [Naima](https://open.spotify.com/track/1hVRTl4yhWmGW7ImZoO22e) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Deluxe Edition\)](https://open.spotify.com/album/3kxiL93hCFCIXkXJBLcYDi) | 4:18 | 2022-04-14 | 2022-07-29 |
 | [Naima \- Mono](https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 4:25 | 2022-06-30 | 2022-11-11 |
 | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/track/7jQriEubeC9KTClyfJtthT) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Nancy \(WIth The Laughing Face\)](https://open.spotify.com/album/3u3JR9SJ5OuiT9dKIdkSpq) | 4:05 | 2022-09-20 |  |

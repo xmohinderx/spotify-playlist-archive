@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Pettinellis",
-  "num_followers": 199967,
+  "num_followers": 199965,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDg0MWE0NTY0NDQ5OWY0NDBjZmQyZWU2YTI1NDE2YjFm",
+  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMGM0NDk1ZDE1Y2ZhZTYyYTZlOGM3MTIzZDgwYzY2MWIx",
   "tracks": [
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Goces",
-        "url": "https://open.spotify.com/album/1aCs9dSByl1i9SAXmtMOGf"
-      },
-      "artists": [
-        {
-          "name": "Par\u00e1lisis del Sue\u00f1o",
-          "url": "https://open.spotify.com/artist/56cwA6ldbu5N2mB1MDApQo"
-        }
-      ],
-      "duration_ms": 121051,
-      "name": "Goces",
-      "url": "https://open.spotify.com/track/489fxbPaExjr7hfYNCwH5y"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 218735,
       "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Todo lo que sube",
+        "url": "https://open.spotify.com/album/2SnwhKbP6ibkBjbWFkB9nE"
+      },
+      "artists": [
+        {
+          "name": "Perrosky",
+          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
+        }
+      ],
+      "duration_ms": 315288,
+      "name": "Todo lo que sube",
+      "url": "https://open.spotify.com/track/1FZZm0nu55sStVXCPt7Pab"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1067,6 +1067,38 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Goces",
+        "url": "https://open.spotify.com/album/1aCs9dSByl1i9SAXmtMOGf"
+      },
+      "artists": [
+        {
+          "name": "Par\u00e1lisis del Sue\u00f1o",
+          "url": "https://open.spotify.com/artist/56cwA6ldbu5N2mB1MDApQo"
+        }
+      ],
+      "duration_ms": 121051,
+      "name": "Goces",
+      "url": "https://open.spotify.com/track/489fxbPaExjr7hfYNCwH5y"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "7 Mares",
+        "url": "https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy"
+      },
+      "artists": [
+        {
+          "name": "Tsunamis",
+          "url": "https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU"
+        }
+      ],
+      "duration_ms": 258331,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "R\u00e1pida Comida",
         "url": "https://open.spotify.com/album/3wljTa4XPg1EYHfRvAOeid"
       },
@@ -1083,22 +1115,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Todo lo que sube",
-        "url": "https://open.spotify.com/album/2SnwhKbP6ibkBjbWFkB9nE"
-      },
-      "artists": [
-        {
-          "name": "Perrosky",
-          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
-        }
-      ],
-      "duration_ms": 315288,
-      "name": "Todo lo que sube",
-      "url": "https://open.spotify.com/track/1FZZm0nu55sStVXCPt7Pab"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Fantasma",
         "url": "https://open.spotify.com/album/0UmnKHtvruemxAzyiGpiuj"
       },
@@ -1111,6 +1127,22 @@
       "duration_ms": 287671,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/3yIxTNMdFmzBHFszi9Muju"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Por 30 M\u00e1s",
+        "url": "https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "duration_ms": 184517,
+      "name": "Culpa",
+      "url": "https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1135,66 +1167,34 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Por 30 M\u00e1s",
-        "url": "https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh"
+        "name": "Indirectas",
+        "url": "https://open.spotify.com/album/7wQOmI6hL0HoMPExNumQAf"
       },
       "artists": [
         {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+          "name": "Corvje",
+          "url": "https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3"
         }
       ],
-      "duration_ms": 184517,
-      "name": "Culpa",
-      "url": "https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9"
+      "duration_ms": 190693,
+      "name": "Indirectas",
+      "url": "https://open.spotify.com/track/7FywawaL45oYAqPHBM4YDk"
     },
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "7 Mares",
-        "url": "https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy"
+        "name": "Gris",
+        "url": "https://open.spotify.com/album/06S8bPjcB55y7YomGYHVCm"
       },
       "artists": [
         {
-          "name": "Tsunamis",
-          "url": "https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU"
+          "name": "Carga4",
+          "url": "https://open.spotify.com/artist/7oLFGxYGGi5T5iHABngpBM"
         }
       ],
-      "duration_ms": 258331,
-      "name": "Diabla",
-      "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/4L9szCk8k7IPt1LcdS0GfH"
-      },
-      "artists": [
-        {
-          "name": "Ciudad N\u00f3made",
-          "url": "https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA"
-        }
-      ],
-      "duration_ms": 242871,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/0PtFopgpNT21GBHTA7QVvp"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Clavelito Ant\u00e1rtico",
-        "url": "https://open.spotify.com/album/3VrIHqJEqLI27Yd86wF2Oj"
-      },
-      "artists": [
-        {
-          "name": "Hijo de Ladr\u00f3n",
-          "url": "https://open.spotify.com/artist/2X4WeD7RHacya71SNgMWgM"
-        }
-      ],
-      "duration_ms": 321972,
-      "name": "Clavelito Ant\u00e1rtico",
-      "url": "https://open.spotify.com/track/2X2FciR0lbbWcJUof3R8rw"
+      "duration_ms": 212680,
+      "name": "Gris",
+      "url": "https://open.spotify.com/track/3Rt94RtEaG0Er5fuq9mHRe"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Indirectas",
-        "url": "https://open.spotify.com/album/7wQOmI6hL0HoMPExNumQAf"
-      },
-      "artists": [
-        {
-          "name": "Corvje",
-          "url": "https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3"
-        }
-      ],
-      "duration_ms": 190693,
-      "name": "Indirectas",
-      "url": "https://open.spotify.com/track/7FywawaL45oYAqPHBM4YDk"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Estrella Fugaz",
         "url": "https://open.spotify.com/album/0dDsCPNnNZBbRM5UVXutjt"
       },
@@ -1247,18 +1231,34 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Gris",
-        "url": "https://open.spotify.com/album/06S8bPjcB55y7YomGYHVCm"
+        "name": "Clavelito Ant\u00e1rtico",
+        "url": "https://open.spotify.com/album/3VrIHqJEqLI27Yd86wF2Oj"
       },
       "artists": [
         {
-          "name": "Carga4",
-          "url": "https://open.spotify.com/artist/7oLFGxYGGi5T5iHABngpBM"
+          "name": "Hijo de Ladr\u00f3n",
+          "url": "https://open.spotify.com/artist/2X4WeD7RHacya71SNgMWgM"
         }
       ],
-      "duration_ms": 212680,
-      "name": "Gris",
-      "url": "https://open.spotify.com/track/3Rt94RtEaG0Er5fuq9mHRe"
+      "duration_ms": 321972,
+      "name": "Clavelito Ant\u00e1rtico",
+      "url": "https://open.spotify.com/track/2X2FciR0lbbWcJUof3R8rw"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/4L9szCk8k7IPt1LcdS0GfH"
+      },
+      "artists": [
+        {
+          "name": "Ciudad N\u00f3made",
+          "url": "https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA"
+        }
+      ],
+      "duration_ms": 242871,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0PtFopgpNT21GBHTA7QVvp"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "La Noche de la Iguana",
-        "url": "https://open.spotify.com/album/6ZJYe8WVnY9uLVJkilHX4L"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9mpera",
-          "url": "https://open.spotify.com/artist/0ebwViXeJplUU77oCKMT9g"
-        }
-      ],
-      "duration_ms": 179969,
-      "name": "La Noche de la Iguana",
-      "url": "https://open.spotify.com/track/6ajYyaGmGPGlmMtCbRdKP1"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Como te amo (Radio Edit)",
         "url": "https://open.spotify.com/album/61FnC75lKPAbFr3jiR3lHV"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 176471,
       "name": "Como te amo - Radio Edit",
       "url": "https://open.spotify.com/track/7G6Pz2vuyWNsUufG2SvLqE"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "La Noche de la Iguana",
+        "url": "https://open.spotify.com/album/6ZJYe8WVnY9uLVJkilHX4L"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9mpera",
+          "url": "https://open.spotify.com/artist/0ebwViXeJplUU77oCKMT9g"
+        }
+      ],
+      "duration_ms": 179969,
+      "name": "La Noche de la Iguana",
+      "url": "https://open.spotify.com/track/6ajYyaGmGPGlmMtCbRdKP1"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "El \u00daltimo Hombre",
-        "url": "https://open.spotify.com/album/1eAxuEL8CwlTyoQCHN56oG"
-      },
-      "artists": [
-        {
-          "name": "J\u00fcrgensen",
-          "url": "https://open.spotify.com/artist/3aa7GJeuK2umr3aA4SGPeG"
-        }
-      ],
-      "duration_ms": 179330,
-      "name": "El \u00daltimo Hombre",
-      "url": "https://open.spotify.com/track/3ktAEb2vExKXKIYEasqNZB"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Flores Pl\u00e1sticas",
         "url": "https://open.spotify.com/album/0gZr1LBzr2XcRfkiZz0fO4"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 178000,
       "name": "Diversion",
       "url": "https://open.spotify.com/track/3wNMVSpqdIEilxI5eH2vMK"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "El \u00daltimo Hombre",
+        "url": "https://open.spotify.com/album/1eAxuEL8CwlTyoQCHN56oG"
+      },
+      "artists": [
+        {
+          "name": "J\u00fcrgensen",
+          "url": "https://open.spotify.com/artist/3aa7GJeuK2umr3aA4SGPeG"
+        }
+      ],
+      "duration_ms": 179330,
+      "name": "El \u00daltimo Hombre",
+      "url": "https://open.spotify.com/track/3ktAEb2vExKXKIYEasqNZB"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1571,38 +1571,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Sofrito",
-        "url": "https://open.spotify.com/album/5TH4Gp9Zne4iSgbhPu4Lgh"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 138715,
-      "name": "Conspiradores",
-      "url": "https://open.spotify.com/track/6r3Q5foiIWeKmX0yh1ikum"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Camino Hacia el Sol",
-        "url": "https://open.spotify.com/album/5DxMciCzaK9ZgB68NZvWLG"
-      },
-      "artists": [
-        {
-          "name": "Club Calaca",
-          "url": "https://open.spotify.com/artist/6tMgnaQXrnY75jL1wktHRA"
-        }
-      ],
-      "duration_ms": 219286,
-      "name": "Camino Hacia el Sol",
-      "url": "https://open.spotify.com/track/4U2QDvSK05kZjbBFyGGXNs"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Le\u00f3n",
         "url": "https://open.spotify.com/album/0g5yUK56Za7kEZBQ9HcEYs"
       },
@@ -1631,6 +1599,38 @@
       "duration_ms": 153000,
       "name": "Oto\u00f1o",
       "url": "https://open.spotify.com/track/5682y6zWXiNg0TocWPCnRN"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Sofrito",
+        "url": "https://open.spotify.com/album/5TH4Gp9Zne4iSgbhPu4Lgh"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 138715,
+      "name": "Conspiradores",
+      "url": "https://open.spotify.com/track/6r3Q5foiIWeKmX0yh1ikum"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Camino Hacia el Sol",
+        "url": "https://open.spotify.com/album/5DxMciCzaK9ZgB68NZvWLG"
+      },
+      "artists": [
+        {
+          "name": "Club Calaca",
+          "url": "https://open.spotify.com/artist/6tMgnaQXrnY75jL1wktHRA"
+        }
+      ],
+      "duration_ms": 219286,
+      "name": "Camino Hacia el Sol",
+      "url": "https://open.spotify.com/track/4U2QDvSK05kZjbBFyGGXNs"
     },
     {
       "added_at": "2023-01-27 03:00:00",

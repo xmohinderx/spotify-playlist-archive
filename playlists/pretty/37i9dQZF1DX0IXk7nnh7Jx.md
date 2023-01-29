@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence! Cover: John Mark McMillan
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,773 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,782 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 5 | [Fullness Of God](https://open.spotify.com/track/5ZWiFwZRtPpfLMmtQi4gTa) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW) | [Fullness Of God](https://open.spotify.com/album/37VB0ayKCxqmAZxuTAATBc) | 7:51 |
 | 6 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 |
 | 7 | [Born Again](https://open.spotify.com/track/68nNNThyOXq060K1ZAWb2t) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Home](https://open.spotify.com/album/4Oj3NQVZjlhji59z6bSKl1) | 4:31 |
-| 8 | [Pilgrim](https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:57 |
-| 9 | [Be Thou My Vision](https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21) | [Cherry Wee](https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa) | [Be Thou My Vision](https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7) | 3:36 |
+| 8 | [Be Thou My Vision](https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21) | [Cherry Wee](https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa) | [Be Thou My Vision](https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7) | 3:36 |
+| 9 | [Pilgrim](https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:57 |
 | 10 | [Come What May](https://open.spotify.com/track/75JkjrI5b3qAufON4SWrBm) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Come What May / Thought I Could Manage](https://open.spotify.com/album/4WqqatnIZhbNV2Ev91OsOD) | 4:52 |
 | 11 | [New Song \(Psalm 40\)](https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU) | [The Dodds](https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl) | [New Song \(Psalm 40\)](https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY) | 4:14 |
 | 12 | [Burn Out](https://open.spotify.com/track/2GUvFoJipxwxQI6pvpHXDC) | [A Beauty Initiative Within Focus](https://open.spotify.com/artist/5cnbawSLtziDxZDqk93JKp), [Andrew Ascough](https://open.spotify.com/artist/6K7tPy8fZS1sCr5Fw6dYbS) | [Burn Out](https://open.spotify.com/album/2cj6CrCchettlCriBNPSkr) | 4:23 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 33 | [Sweet Water](https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q) | 4:09 |
 | 34 | [Stir A Passion](https://open.spotify.com/track/4ObhmsDpExlIJ4VKJtIoOt) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [O, Peace](https://open.spotify.com/album/0DQEChF6qLK8DthcId02sL) | 5:04 |
 | 35 | [Held by Your Love](https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK) | [Lion & Bear](https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g) | [Hollows](https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l) | 4:26 |
-| 36 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 |
-| 37 | [DNA](https://open.spotify.com/track/0UtnmtF2Tj880Xs1sRP3gb) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:47 |
+| 36 | [DNA](https://open.spotify.com/track/0UtnmtF2Tj880Xs1sRP3gb) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:47 |
+| 37 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 |
 | 38 | [Falling Up](https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee) | 3:19 |
 | 39 | [Person In Christ](https://open.spotify.com/track/1pdX4gY5t6sdZdsd5lp3Z5) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Person In Christ](https://open.spotify.com/album/5TZciwCzlDz8wObaigKYBu) | 4:10 |
 | 40 | [Light of Your Grace](https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Light of Your Grace](https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD) | 3:09 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 53 | [Trust](https://open.spotify.com/track/0sPyXfEgBXTAvI5LMdyY91) | [Strahan](https://open.spotify.com/artist/4x0DaBFhtHy0ol0ia4UJaP) | [Trust](https://open.spotify.com/album/4FG2QHZ20IVXsbyYY4Jz64) | 5:17 |
 | 54 | [Sunday Morning](https://open.spotify.com/track/35aovZPaOOtLtQe0f72XSg) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Sunday Morning](https://open.spotify.com/album/0T0f5qOeqV1oAbsQF6X6SY) | 4:59 |
 | 55 | [Yes and Amen](https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX) | [Matthew Zigenis](https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj) | [Everything Is Possible](https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX) | 4:29 |
-| 56 | [Salome & Saint Procula](https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q) | 4:21 |
-| 57 | [Take All of Me](https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J) | [Andrew Marcus](https://open.spotify.com/artist/2tVAwkz1ElBIuRY3jk86yT) | [Take All of Me](https://open.spotify.com/album/5HQj9QFkG10YJWHU70N2jr) | 3:52 |
+| 56 | [Take All of Me](https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J) | [Andrew Marcus](https://open.spotify.com/artist/2tVAwkz1ElBIuRY3jk86yT) | [Take All of Me](https://open.spotify.com/album/5HQj9QFkG10YJWHU70N2jr) | 3:52 |
+| 57 | [Salome & Saint Procula](https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q) | 4:21 |
 | 58 | [Found](https://open.spotify.com/track/1P1GB5tbf3wF9e7RyH1Qqu) | [Cory Emery](https://open.spotify.com/artist/7BPnaZXmzlAmylptWQG7so) | [A New Heart](https://open.spotify.com/album/6kZYWMvOAvXoUcpOFgkHSG) | 3:17 |
 | 59 | [Where Would I Be](https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm) | [Seeker & Servant](https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu) | [Leaving Shadowland](https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE) | 3:26 |
 | 60 | [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 |
 
-Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMGU5ZjQwZGVjMzViYjUyMTRmOTRmZDZkMGZkNDhhYTgw`
+Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMGJjY2RjNDMwNzhlNTRlOGUwNmRhNDQzMmI0MTkyM2Qw`

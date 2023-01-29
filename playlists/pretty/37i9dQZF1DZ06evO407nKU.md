@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,941 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,958 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 25 | [Convénceme \(En Vivo\)](https://open.spotify.com/track/3U4yzfEaeIMTHrPx9vQhWO) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9) | [Dariel Party, Vol\. 1](https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3) | 4:03 |
 | 26 | [Te Anda Doliendo \(En Vivo\)](https://open.spotify.com/track/43wBR1U2zFiH4bUqmumrOV) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Anda Doliendo \(En Vivo\)](https://open.spotify.com/album/5n5hyfD2bMiVfui6mDFrOI) | 4:05 |
 | 27 | [Me Hubieras Cobrado](https://open.spotify.com/track/7kjrKf3poQGEoNMXnQVAMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Hubieras Cobrado](https://open.spotify.com/album/6X0DECa6FMHcB7oRvbNINW) | 4:16 |
-| 28 | [Me Muero](https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Muero](https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3) | 3:14 |
-| 29 | [No Te Vallas](https://open.spotify.com/track/4uiWulj8oXHzn8isGHwUfb) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:19 |
+| 28 | [No Te Vallas](https://open.spotify.com/track/4uiWulj8oXHzn8isGHwUfb) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:19 |
+| 29 | [Me Muero](https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Muero](https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3) | 3:14 |
 | 30 | [Te Soñé](https://open.spotify.com/track/7J9QZv972WMhZlxZBvswN8) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Te Soñé](https://open.spotify.com/album/1MxOELHpth8E33rUByRI37) | 3:55 |
 | 31 | [Ya Duele Menos](https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ya Duele Menos](https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW) | 3:04 |
 | 32 | [Nuestro Adios](https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 49 | [La Pura Verdad](https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:56 |
 | 50 | [Estas Perdida](https://open.spotify.com/track/7M4QBn5HeBqWvMZvDrP6Jn) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:08 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDBkODJhMjUwZDU0ZmIwMGIwOWZlNDk3MDQxZDIzOTNkNg==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDA4MDllZDQ4OWNjMzJmZWJhN2E5ZjEwZmIyZTkxNDIyMQ==`

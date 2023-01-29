@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,264 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,366 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [Con El Alma Marchita](https://open.spotify.com/track/0u0BI9iLG7JzCr0x4eXXWw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Con El Alma Marchita](https://open.spotify.com/album/7sYFshjpDNY6M4Z1AGySqb) | 3:20 |
 | 50 | [Poeta del Amor](https://open.spotify.com/track/3us0Mk89vSIIWzuowa9ieK) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Poeta del Amor](https://open.spotify.com/album/1igXDXmd3Z4qH4amNvkSyN) | 4:01 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDAwODAyZWJjYmFlYTA3Y2IxM2IwZjJjYmE2NDA0MzY4Yw==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDBhOTI5OWE3MGI1YzhkZTdjZjUzNGFkNzFlNTNjMDFiNg==`

@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Stephen Sanchez
 
-245 songs - 14 hr 11 min
+246 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Back to You](https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde) | [Twin Forks](https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD) | [Twin Forks](https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ) | 2:50 | 2022-03-12 |  |
 | [Back to You](https://open.spotify.com/track/4g3Ocpx03I8lvA8dx9GdQQ) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Back to You](https://open.spotify.com/album/7wNsondY4Wz6ll9eF0XFzH) | 3:15 | 2022-03-12 | 2022-11-13 |
 | [Back to You](https://open.spotify.com/track/7nlGMUcyIGWZQFkOOxOWl5) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Back to You](https://open.spotify.com/album/4cTUFRQRiMo5ubMtQLaFCG) | 3:15 | 2021-11-12 | 2022-05-16 |
+| [Backstage in Glasgow](https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Backstage in Glasgow](https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S) | 2:16 | 2023-01-27 |  |
 | [Backyard Mafia](https://open.spotify.com/track/6JaUlNchByw307rjCP2l8G) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Backyard Mafia](https://open.spotify.com/album/2YXuuAQR5idYgbz07rtmhn) | 3:35 | 2021-11-12 | 2022-07-17 |
 | [Being Together](https://open.spotify.com/track/75VX0bpv1hmUMvnGc3nQc4) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Being Together](https://open.spotify.com/album/3dek4SEQdJcTu9HHS6lw5E) | 3:28 | 2021-11-12 | 2022-07-27 |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-11-12 |  |
@@ -140,7 +141,7 @@
 | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/track/2DzlQMTRHBfilCCD6bUa1V) | [Parsonsfield](https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR) | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/album/7FpRCotSyc7BppdLQDitpm) | 3:11 | 2022-03-12 |  |
 | [Kick Out the Windows \- Radio Edit](https://open.spotify.com/track/6Q04NQKyB5x3Ge5TRyfZT1) | [Parsonsfield](https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR) | [Kick Out the Windows \(Radio Edit\)](https://open.spotify.com/album/7msqHdpzdvApMcWNrBG4iG) | 3:11 | 2021-11-12 | 2022-07-29 |
 | [L\-Train](https://open.spotify.com/track/5uDxY7uEOSHI8OOqYphnr4) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [L\-Train](https://open.spotify.com/album/3HqA2mPPC5Uadvdt9AU0HO) | 3:47 | 2022-08-19 | 2022-10-06 |
-| [Left With The Wolves](https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK) | [Nathan Hawes](https://open.spotify.com/artist/3TCZ7tmHZOrKKwkikHcSwd) | [Left With The Wolves](https://open.spotify.com/album/7jgTAQJ1vLuf6NUVUgk0bb) | 3:49 | 2022-03-12 |  |
+| [Left With The Wolves](https://open.spotify.com/track/0HFAsJi2Hj9NbujFRDkgVK) | [Nathan Hawes](https://open.spotify.com/artist/3TCZ7tmHZOrKKwkikHcSwd) | [Left With The Wolves](https://open.spotify.com/album/7jgTAQJ1vLuf6NUVUgk0bb) | 3:49 | 2022-03-12 | 2023-01-29 |
 | [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 | 2022-03-12 |  |
 | [letting go](https://open.spotify.com/track/5JKt1juGsS1rFnxAVEalys) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [letting go](https://open.spotify.com/album/0Itz1TtlN6ayjXgiwzCpQ6) | 4:28 | 2021-11-12 | 2022-07-29 |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-11-12 |  |

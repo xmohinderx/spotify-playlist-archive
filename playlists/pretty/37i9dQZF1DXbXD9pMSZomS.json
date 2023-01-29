@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 409553,
+  "num_followers": 409730,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgyODAwMCwwMDAwMDAwMDQ3MjE4MzFlOTYxMDdiNGMwN2EwNjc3OWM2ODk5NmY3",
+  "snapshot_id": "MTY3NDgyODAwMCwwMDAwMDAwMDNkZTg3MjYyYWUzODI2MmE3OGQyYzEwZDMxNDMzMjgw",
   "tracks": [
     {
       "added_at": "2023-01-27 14:00:00",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "Sexy Dance",
-        "url": "https://open.spotify.com/album/7LWBKWm1GNFjuvKqifPVIN"
+        "name": "TJD006",
+        "url": "https://open.spotify.com/album/7q4J61v4Xdoo4BXjQqpmXP"
       },
       "artists": [
         {
-          "name": "KOKO.IT",
-          "url": "https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC"
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
         }
       ],
-      "duration_ms": 250848,
-      "name": "Sexy Dance",
-      "url": "https://open.spotify.com/track/08odpmvURfvJnTlDzeVXni"
+      "duration_ms": 308874,
+      "name": "WhereYouGonnaGo?",
+      "url": "https://open.spotify.com/track/1ELW3mroLCVV20CIYnuCQn"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "TJD006",
-        "url": "https://open.spotify.com/album/7q4J61v4Xdoo4BXjQqpmXP"
+        "name": "Sexy Dance",
+        "url": "https://open.spotify.com/album/7LWBKWm1GNFjuvKqifPVIN"
       },
       "artists": [
         {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+          "name": "KOKO.IT",
+          "url": "https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC"
         }
       ],
-      "duration_ms": 308874,
-      "name": "WhereYouGonnaGo?",
-      "url": "https://open.spotify.com/track/1ELW3mroLCVV20CIYnuCQn"
+      "duration_ms": 250848,
+      "name": "Sexy Dance",
+      "url": "https://open.spotify.com/track/08odpmvURfvJnTlDzeVXni"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
+        "name": "Back To My Place",
+        "url": "https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 245863,
+      "name": "Back to My Place",
+      "url": "https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
         "name": "The Small Room Sessions",
         "url": "https://open.spotify.com/album/7q2toX28pVjzZi9IhFkou3"
       },
@@ -355,38 +371,6 @@
       "duration_ms": 229835,
       "name": "morning groove",
       "url": "https://open.spotify.com/track/2ZQRfelYOFQ6i6A9rTx73j"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe"
-      },
-      "artists": [
-        {
-          "name": "Best Friends Club",
-          "url": "https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq"
-        }
-      ],
-      "duration_ms": 347317,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
-        "name": "Super Good Times",
-        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
-      },
-      "artists": [
-        {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Super Good Times",
-      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -407,18 +391,34 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "Back To My Place",
-        "url": "https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg"
+        "name": "Super Good Times",
+        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
       },
       "artists": [
         {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
         }
       ],
-      "duration_ms": 245863,
-      "name": "Back to My Place",
-      "url": "https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb"
+      "duration_ms": 221217,
+      "name": "Super Good Times",
+      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe"
+      },
+      "artists": [
+        {
+          "name": "Best Friends Club",
+          "url": "https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq"
+        }
+      ],
+      "duration_ms": 347317,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
+        "name": "elope",
+        "url": "https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8"
+      },
+      "artists": [
+        {
+          "name": "dj poolboi",
+          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
+        }
+      ],
+      "duration_ms": 293999,
+      "name": "elope",
+      "url": "https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
         "name": "We Should Chill On The Windowsill More",
         "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "elope",
-        "url": "https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8"
+        "name": "Kindzmarauli",
+        "url": "https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co"
       },
       "artists": [
         {
-          "name": "dj poolboi",
-          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
         }
       ],
-      "duration_ms": 293999,
-      "name": "elope",
-      "url": "https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH"
+      "duration_ms": 256695,
+      "name": "Random Places",
+      "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -491,22 +507,6 @@
       "duration_ms": 338000,
       "name": "Dirty Samba",
       "url": "https://open.spotify.com/track/1AJCvAnLn8b2VBMfbN4gIM"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
-        "name": "Kindzmarauli",
-        "url": "https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co"
-      },
-      "artists": [
-        {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
-        }
-      ],
-      "duration_ms": 256695,
-      "name": "Random Places",
-      "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
+        "name": "Asakusa Light",
+        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
+      },
+      "artists": [
+        {
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        }
+      ],
+      "duration_ms": 271349,
+      "name": "Diving into Minds",
+      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
         "name": "Ocean Drift",
         "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "Asakusa Light",
-        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
-      },
-      "artists": [
-        {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
-        }
-      ],
-      "duration_ms": 271349,
-      "name": "Diving into Minds",
-      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
         "name": "Longing For U",
         "url": "https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq"
       },
@@ -871,38 +871,6 @@
       "duration_ms": 349857,
       "name": "Longing For U",
       "url": "https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
-        "name": "31 Minutes of Relaxing ASMR",
-        "url": "https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 275131,
-      "name": "Chilli Heatwave",
-      "url": "https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
-        "name": "10Min JAM_V2",
-        "url": "https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D"
-      },
-      "artists": [
-        {
-          "name": "Berus",
-          "url": "https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa"
-        }
-      ],
-      "duration_ms": 99495,
-      "name": "10Min JAM_V2",
-      "url": "https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -923,22 +891,18 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "The Break Up (Emma-Jean Thackray Remix - Edit)",
-        "url": "https://open.spotify.com/album/7bbu5LxDVqPZh45KdRuR0R"
+        "name": "31 Minutes of Relaxing ASMR",
+        "url": "https://open.spotify.com/album/2VvFwQE6pBR9KnRgS80TZk"
       },
       "artists": [
         {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
         }
       ],
-      "duration_ms": 287767,
-      "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
-      "url": "https://open.spotify.com/track/1nOq8ccv98cYy9lKigOvDq"
+      "duration_ms": 275131,
+      "name": "Chilli Heatwave",
+      "url": "https://open.spotify.com/track/5je0T2mebgdBzniXtS4A9Y"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -967,6 +931,42 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
+        "name": "10Min JAM_V2",
+        "url": "https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D"
+      },
+      "artists": [
+        {
+          "name": "Berus",
+          "url": "https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa"
+        }
+      ],
+      "duration_ms": 99495,
+      "name": "10Min JAM_V2",
+      "url": "https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
+        "name": "The Break Up (Emma-Jean Thackray Remix - Edit)",
+        "url": "https://open.spotify.com/album/7bbu5LxDVqPZh45KdRuR0R"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 287767,
+      "name": "The Break Up - Emma-Jean Thackray Remix - Edit",
+      "url": "https://open.spotify.com/track/1nOq8ccv98cYy9lKigOvDq"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
         "name": "Invisible Man",
         "url": "https://open.spotify.com/album/2kU1MunsFo5X93vxpleiOq"
       },
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "Deeper Conversations EP",
-        "url": "https://open.spotify.com/album/4qubW0lYGdGpUwpCqlShpR"
+        "name": "Blue Pigments",
+        "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
       },
       "artists": [
         {
-          "name": "Peter Schumann",
-          "url": "https://open.spotify.com/artist/53xUjVBCaTHEXSrFFnup3I"
+          "name": "Norabel",
+          "url": "https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo"
         }
       ],
-      "duration_ms": 481537,
-      "name": "House Magic",
-      "url": "https://open.spotify.com/track/1wYVHbd2iJ5Z99yTxVmFyY"
+      "duration_ms": 130388,
+      "name": "Pigments",
+      "url": "https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "Blue Pigments",
-        "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
+        "name": "Deeper Conversations EP",
+        "url": "https://open.spotify.com/album/4qubW0lYGdGpUwpCqlShpR"
       },
       "artists": [
         {
-          "name": "Norabel",
-          "url": "https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo"
+          "name": "Peter Schumann",
+          "url": "https://open.spotify.com/artist/53xUjVBCaTHEXSrFFnup3I"
         }
       ],
-      "duration_ms": 130388,
-      "name": "Pigments",
-      "url": "https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R"
+      "duration_ms": 481537,
+      "name": "House Magic",
+      "url": "https://open.spotify.com/track/1wYVHbd2iJ5Z99yTxVmFyY"
     }
   ],
   "unique_name": "Lo-Fi House",

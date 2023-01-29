@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,833 likes - 120 songs - 12 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,905 likes - 120 songs - 12 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 21 | [Amazigh \- Enoo Napa Dub](https://open.spotify.com/track/6BfjfsJVEGNcRmibMhmz3h) | [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Amazigh Remixes](https://open.spotify.com/album/4lzuNAKSYZ2rsCUkHA02mZ) | 6:33 |
 | 22 | [Kibo \- Mr ID Remix](https://open.spotify.com/track/0ZHX59bDXNHNEQucqqLV2e) | [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Mehdi Nassouli](https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [Kibo \(Mr ID Remix\)](https://open.spotify.com/album/0OblJgGu3q3w6wZZgyuQQX) | 6:41 |
 | 23 | [Imagine \- Abel Ray Remix](https://open.spotify.com/track/0mWWFK0slXWNKYdWmkMbDD) | [Métrika](https://open.spotify.com/artist/0JQPhxSOzcPwFTBnpssOMv), [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Basel Khoury](https://open.spotify.com/artist/6oauqv0dIeqHu5ZiAx5iTB), [Abel Ray](https://open.spotify.com/artist/1sdpUqFxXmYaoblguiqh8U) | [Buddy System Remixed](https://open.spotify.com/album/6Gf49JLKqif309cvHlTOe2) | 7:02 |
-| 24 | [Hustle Tribes \- The Deepshakerz Tribe Remix](https://open.spotify.com/track/5kqEbWSdMFXtVplPN1uWaI) | [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan), [Deeplomatik](https://open.spotify.com/artist/2RBiRrMFQjr0A34HQ5RbHz), [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY) | [Hustle Tribes](https://open.spotify.com/album/5uecXR62wSr0xj6APC9HKq) | 3:13 |
+| 24 | [Hustle Tribes \- The Deepshakerz Tribe Remix](https://open.spotify.com/track/5kqEbWSdMFXtVplPN1uWaI) | [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan), [Deeplomatik](https://open.spotify.com/artist/2RBiRrMFQjr0A34HQ5RbHz), [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY) | [Hustle Tribes \(The Deepshakerz Tribe Remix\)](https://open.spotify.com/album/5uecXR62wSr0xj6APC9HKq) | 3:13 |
 | 25 | [Nene Man Ni](https://open.spotify.com/track/7m4bWgzzK8DYLZBjHAIGVv) | [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU) | [Nene Man Ni](https://open.spotify.com/album/3mi4Ul9CePML6MxVBP7TAY) | 6:58 |
 | 26 | [Buya](https://open.spotify.com/track/5yXoXL2SrjM0XjFyGWPVkY) | [Chris IDH](https://open.spotify.com/artist/2z7bVSNugoW687HxM4eSa9), [Kwezi](https://open.spotify.com/artist/5tuitM1t2STg0mAoCxIpZp) | [Buya](https://open.spotify.com/album/2ivPFRRQwivgwnh9QqfOqE) | 8:12 |
 | 27 | [Ajarif](https://open.spotify.com/track/5uDvwQ9dTcGVucH5q8ngsw) | [Stranger Souma](https://open.spotify.com/artist/7FkbbDfyJiSCenRToRKbBp), [Nukad](https://open.spotify.com/artist/2UWbjvhLv8mZjANlA2ACs9) | [Ajarif](https://open.spotify.com/album/2J2obyZsyURopJhdmWT253) | 6:05 |

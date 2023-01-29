@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending new and recent tracks from the last few months\. Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,786 likes - 68 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,341 likes - 68 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 55 | [Me On You](https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Me On You](https://open.spotify.com/album/5bfDm08pB2zZmL50whoiBm) | 2:47 |
 | 56 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 |
 | 57 | [Next Thing You Know](https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know](https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp) | 2:55 |
-| 58 | [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 |
+| 58 | [Marry That Girl](https://open.spotify.com/track/3onWmITkM6T6eynH06iJcy) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Let's Do Country Right](https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I) | 3:10 |
 | 59 | [Over For You](https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You](https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2) | 3:05 |
 | 60 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 |
 | 61 | [Keeping Me Up All Night](https://open.spotify.com/track/3IjDghaXh385kOYVTQJ7rr) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Keeping Me Up All Night](https://open.spotify.com/album/4q3MfAPYMT68yrthrSD68x) | 3:29 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 67 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 |
 | 68 | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/track/7trjNYF5ek7zX4GKSHQZbP) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/album/2WEFdKzGuoE8eVWCqeC5SA) | 4:37 |
 
-Snapshot ID: `MTY3NDE5MTQxMSwwMDAwMDAwMDRhNTliZWVmMWU3NGJiOGZkOWY0NTBkZThhNTFiODQ2`
+Snapshot ID: `MTY3NDE5MTQxMSwwMDAwMDAwMDYyYTQ4MjExMTEwYzY0YjYxMWM4NmEzNzU0ZWMzMzk3`

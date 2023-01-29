@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,879 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,908 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 13 | [Haturudi Nyuma](https://open.spotify.com/track/76ru5f5KMaslfUg7nFe2Qk) | [Kidum Kibido](https://open.spotify.com/artist/78NwwxOZkV9sNsdIYDWN9D), [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [The Best Of Kidum Kibido](https://open.spotify.com/album/0W8soVwIq910Q2NYsDSZd7) | 4:47 |
 | 14 | [Running \(To You\)](https://open.spotify.com/track/5rTC3tKShDyYK0wk0rq96X) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/0rwqdLBpVDxg3QKhxOfZmH) | 3:11 |
 | 15 | [Medicine](https://open.spotify.com/track/0dHzOwpLHRw4xA6TEIVIkq) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/4URmrv5RB7dI5VKHiCI0FV) | 3:30 |
-| 16 | [Ndikuthandile](https://open.spotify.com/track/1Tj0262AYJa0RKh74HGB6G) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/6HbXfrFurzm5mKB4IOcwh9) | 4:14 |
+| 16 | [Ndikuthandile](https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Naninina](https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk) | 4:14 |
 | 17 | [Vaileti](https://open.spotify.com/track/3C9HNfpYE8IbTuwN8WtIBy) | [Matonya](https://open.spotify.com/artist/2nHyoDQinKKGYIzSkK3IwI) | [Best of Tanzania Bongo Classics 2](https://open.spotify.com/album/3ZWfP82qw9qk6iCaaeiMir) | 4:49 |
 | 18 | [Duro](https://open.spotify.com/track/4t59zVbRoCgnvyQ9hM3xP1) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Duro](https://open.spotify.com/album/6CIcLjMo4Wjnj2zp6dQSTH) | 3:32 |
 | 19 | [Fanti Love Song](https://open.spotify.com/track/3JjDrDXNBaBK3uheLzc10d) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [No\. 1 Mango Street](https://open.spotify.com/album/6UxffPZr6Ca4nBtz3GObFM) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 99 | [Hey Baby](https://open.spotify.com/track/6QSb60sn9DaOuTKoeTHBtr) | [Colonel Moustapha](https://open.spotify.com/artist/6M8r2WBh4hYgx8v5bmw8Yd), [Marya](https://open.spotify.com/artist/5VhnfPg1YsCfdoS5QR9o6J) | [Hey Baby](https://open.spotify.com/album/0joHCEkM7DAir7xqWgm3NW) | 3:05 |
 | 100 | [Haiwihaiwi \(feat\. Bienaime\)](https://open.spotify.com/track/2SNo5wyDBUU7Op1Vz3paVX) | [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT), [Bien Aime](https://open.spotify.com/artist/7F39RDj6PGoOTLqSxWcScL) | [My Essence](https://open.spotify.com/album/0zGiZdTgKFSRLVWd0XLeFi) | 3:29 |
 
-Snapshot ID: `MTY0NDUwNTA5MSwwMDAwMDAwMDQ4NzJlMDkyMmVkMGExNmMzYjQ5MzcyNmQ4Y2U4YTQ4`
+Snapshot ID: `MTY0NDUwNTA5MSwwMDAwMDAwMGU1ZGQxOGIzY2I5YmY2NWJlN2ZjOWQzMmY0ZGJkMDhk`

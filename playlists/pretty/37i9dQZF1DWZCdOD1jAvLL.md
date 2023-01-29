@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Wuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,514 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,640 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 15 | [I'm Good \(Blue\) \- Tiësto Remix](https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [I'm Good \(Blue\) \[Remixes\]](https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd) | 2:58 |
 | 16 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
 | 17 | [KLK](https://open.spotify.com/track/36B9zvERwdBR7ZtGDAqibg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [KLK](https://open.spotify.com/album/2tPFlCPO1HxQ8DJFc5QLw3) | 3:10 |
-| 18 | [Headphones \- DLMT Remix](https://open.spotify.com/track/28tTLhO9HEifowfZkV4Erh) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Headphones \(DLMT Remix\)](https://open.spotify.com/album/5lNoCebEqgF3J0DKUVFx4a) | 2:37 |
+| 18 | [Headphones \- DLMT Remix](https://open.spotify.com/track/2VxT9ExMqzxqXTbWw6aUG3) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Headphones \(DLMT Remix\)](https://open.spotify.com/album/1L9PPBhoNv4VdKrXSzVuWD) | 2:37 |
 | 19 | [Bugbeat](https://open.spotify.com/track/7ukIYN8wvyAIpPAEU5nCbK) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Bugbeat](https://open.spotify.com/album/0BqdtICrtwzq8DMf7NXATV) | 2:59 |
 | 20 | [Front To Back \(feat\. DLMT\)](https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El) | [FOMO](https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Front To Back \(feat\. DLMT\)](https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR) | 3:31 |
 | 21 | [JUSTIN BIEBER \[Rockstar Wasted Hype Hop Edit\]](https://open.spotify.com/track/1Z84RBVY8aTEL3yVEq1vug) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c), [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [JUSTIN BIEBER \[Rockstar Wasted Hype Hop Edit\]](https://open.spotify.com/album/6FLPMg1lOVUgX5yd1DFi9D) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 74 | [Be Here \(La La La\)](https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B) | [Be Here \(La La La\)](https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM) | 2:20 |
 | 75 | [Reunite](https://open.spotify.com/track/2LzBgINM6AAjUHTflU4OiU) | [Minicied](https://open.spotify.com/artist/49UZ0RBgUl86yJ99YgQPhi) | [Reunite](https://open.spotify.com/album/6moBpoGzGg6wkyhks1tyZa) | 3:35 |
 
-Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDUzODcwZDViYjRhNTY5NzYwMDI2ZTFkYTdjYjg2Njhl`
+Snapshot ID: `MTY3NDE5MDgwMCwwMDAwMDAwMDU2Nzg1NmY2M2NiODk5YzJiZGE2YmQ0ZjUzZTFkNmE0`

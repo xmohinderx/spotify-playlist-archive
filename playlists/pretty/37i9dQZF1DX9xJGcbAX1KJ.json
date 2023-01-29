@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 11272,
+  "num_followers": 11297,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MDg2Njc4NiwwMDAwMDAwMDRmMGYwMTg1NTEyOGZlMjRlYTk1ZDNiNWFjYzc2NWQ4",
+  "snapshot_id": "MTU1MDg2Njc4NiwwMDAwMDAwMDBiZjg5OTYwZjQ0ZWFjNmJlYjRkMmJiZWM5MmE0YzM0",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -91,22 +91,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Imagine Dragons (Spotify Sessions)",
-        "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 303433,
-      "name": "Blank Space/Stand By Me - Live From Spotify London",
-      "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 190392,
       "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Imagine Dragons (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 303433,
+      "name": "Blank Space/Stand By Me - Live From Spotify London",
+      "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -387,22 +387,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Pink Strat",
-        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 155240,
-      "name": "Whole Wide World",
-      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 248280,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Pink Strat",
+        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 155240,
+      "name": "Whole Wide World",
+      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -567,18 +567,26 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX"
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 199118,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -603,26 +611,18 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/1lk8uAuUQSFsKtHA7qfBZX"
       },
       "artists": [
         {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        },
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 245106,
-      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
-      "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
+      "duration_ms": 199118,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -727,18 +727,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs"
+        "name": "Stolen Dance",
+        "url": "https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5"
       },
       "artists": [
         {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+          "name": "Twin Bandit",
+          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
+        },
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
         }
       ],
-      "duration_ms": 168849,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx"
+      "duration_ms": 235466,
+      "name": "Stolen Dance",
+      "url": "https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -763,22 +767,18 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Stolen Dance",
-        "url": "https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5"
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs"
       },
       "artists": [
         {
-          "name": "Twin Bandit",
-          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
-        },
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
         }
       ],
-      "duration_ms": 235466,
-      "name": "Stolen Dance",
-      "url": "https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ"
+      "duration_ms": 168849,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -831,18 +831,18 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C"
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/3ZPcwX7RlFXDY5DvbuBYhk"
       },
       "artists": [
         {
-          "name": "Kelsey Lu",
-          "url": "https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 414466,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
+      "duration_ms": 148900,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK"
     }
   ],
   "unique_name": "Under the Covers",

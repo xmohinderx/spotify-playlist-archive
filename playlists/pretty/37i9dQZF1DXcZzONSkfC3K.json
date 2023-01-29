@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 132646,
+  "num_followers": 132707,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDc2NSwwMDAwMDAwMDM0OWNlZmU1ZTljZGRlNzAyOGZmYjNmYzIyMjM5Mzhi",
+  "snapshot_id": "MTY2MTkzMDc2NSwwMDAwMDAwMDU2NzI0MWQ0YmJjOTNjMjY4NzJiZmRmMTVkNmNmYzll",
   "tracks": [
     {
       "added_at": "2022-08-31 07:26:05",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "Casi un Hechizo",
+      "url": "https://open.spotify.com/track/4hw32LMr5RoeKQl0Kvh20e"
+    },
+    {
+      "added_at": "2022-08-31 07:26:05",
+      "album": {
         "name": "Desde Un Principio / From The Beginning",
         "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 366200,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
-    },
-    {
-      "added_at": "2022-08-31 07:26:05",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "Casi un Hechizo",
-      "url": "https://open.spotify.com/track/4hw32LMr5RoeKQl0Kvh20e"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 302093,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/3dUOVExxPh0nmE6DtYVWIE"
-    },
-    {
-      "added_at": "2022-08-31 07:26:05",
-      "album": {
         "name": "A Mi Estilo...",
         "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 426840,
       "name": "V\u00e1monos Pa'l Monte",
       "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
+    },
+    {
+      "added_at": "2022-08-31 07:26:05",
+      "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 302093,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/3dUOVExxPh0nmE6DtYVWIE"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -635,18 +635,22 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+        "name": "La Perfecta Combinaci\u00f3n",
+        "url": "https://open.spotify.com/album/4iaNq48hB9AJQiZ0x3phc0"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
         }
       ],
-      "duration_ms": 219049,
-      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
+      "duration_ms": 246720,
+      "name": "La Esencia Del Guaguanc\u00f3",
+      "url": "https://open.spotify.com/track/5NTB60qZtpRwFtDlNANKCt"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -703,22 +707,18 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
-        "name": "La Perfecta Combinaci\u00f3n",
-        "url": "https://open.spotify.com/album/4iaNq48hB9AJQiZ0x3phc0"
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Pete \"El Conde\" Rodriguez",
-          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 246720,
-      "name": "La Esencia Del Guaguanc\u00f3",
-      "url": "https://open.spotify.com/track/5NTB60qZtpRwFtDlNANKCt"
+      "duration_ms": 219049,
+      "name": "Si T\u00fa Me Dices Ven - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/0JNQYjX9aVmAI2KZMvlp9E"
     },
     {
       "added_at": "2022-08-31 07:26:05",
@@ -803,18 +803,22 @@
     {
       "added_at": "2022-08-31 07:26:05",
       "album": {
-        "name": "Hasta el Sol de Hoy",
-        "url": "https://open.spotify.com/album/58nQPTGt7vE4aNcaxCTLjp"
+        "name": "Back To The Future",
+        "url": "https://open.spotify.com/album/0CNxlDVsAay8Nsbpd9mKXd"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Willie Rosario",
+          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 236611,
-      "name": "Hasta el Sol de Hoy - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/7064YUYdHypgqgH7mKlAgw"
+      "duration_ms": 258800,
+      "name": "El Apartamento",
+      "url": "https://open.spotify.com/track/2ZyTUDRlkjxFRtKntSVacO"
     },
     {
       "added_at": "2022-08-31 07:26:05",

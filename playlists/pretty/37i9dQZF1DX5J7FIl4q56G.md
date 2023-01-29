@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Atreyu
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,372 likes - 55 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,568 likes - 55 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 44 | [Ghost Town Vertigo](https://open.spotify.com/track/6mp3k0XTuX4VccYtKVvEt9) | [Balboa Son](https://open.spotify.com/artist/6ZcJKMHJOCYcDNiKK9TeMi) | [Ghost Town Vertigo](https://open.spotify.com/album/1ZpUwEy22jvUoXRXM5ReXt) | 4:03 |
 | 45 | [Black or White](https://open.spotify.com/track/5ue1IMSwhn0vkVVKcb5RuO) | [Suasion](https://open.spotify.com/artist/3By3NlIbjZW9Uqlph8kcgK) | [The Infinite](https://open.spotify.com/album/722tbhbu93dDRtoOs5DDmM) | 3:25 |
 | 46 | [Super Trooper](https://open.spotify.com/track/3b4fsYLxy7eCBOGpVqygCt) | [Crowne](https://open.spotify.com/artist/5H2DFNCrBR3OSr4AJn3U2O) | [Operation Phoenix](https://open.spotify.com/album/5zQvWApEEF7Fe5mPKWiZ9K) | 3:33 |
-| 47 | [Swollen Teeth](https://open.spotify.com/track/2dehX9M8cr21ggWNwkJgD7) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [Swollen Teeth](https://open.spotify.com/album/53lOgAt8FCTfTYkOZzFnz7) | 2:59 |
+| 47 | [SWOLLENTEETH](https://open.spotify.com/track/2dehX9M8cr21ggWNwkJgD7) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [SWOLLENTEETH](https://open.spotify.com/album/53lOgAt8FCTfTYkOZzFnz7) | 2:59 |
 | 48 | [Bury Yesterday](https://open.spotify.com/track/5xAP9D4S7rVUVrpWG6hALe) | [Shallow Truths](https://open.spotify.com/artist/132H63dzJPRFR7Ckc1Gedg) | [Bury Yesterday](https://open.spotify.com/album/5qEqEtD1Eb5kKgBHZrC5Nn) | 4:10 |
 | 49 | [D.E.R](https://open.spotify.com/track/7zwwIqMjqNKo6cAOduS7Ea) | [Liv Sin](https://open.spotify.com/artist/7aetQGX0sd3swXqUIWurrE), [Zak Tell](https://open.spotify.com/artist/7Dt0dG4nIk6BzHSpzCou55), [Madeleine Liljestam](https://open.spotify.com/artist/4F4UlyqDkjRZzG14pbHlGV), [Wenderson D Paula](https://open.spotify.com/artist/61zrvHSr4xQFU02LX7CVV5) | [KaliYuga](https://open.spotify.com/album/7ER1e14eHHSNk37tVtDmpU) | 5:27 |
 | 50 | [Black Crown](https://open.spotify.com/track/0lUvltwqT4A5c13drIV3mP) | [Classic Jack](https://open.spotify.com/artist/0GfqvPCcAF38BA6m53flUi) | [Black Crown](https://open.spotify.com/album/2PvEWbJlxcPBMZSQTpDwoK) | 3:23 |

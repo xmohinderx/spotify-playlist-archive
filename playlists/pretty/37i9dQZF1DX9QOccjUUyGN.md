@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Mac Júlia
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,572 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,574 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bolso Cheio](https://open.spotify.com/track/0GxgXhS6PEKC3qMrKN10Lm) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Ws da Igrejinha](https://open.spotify.com/artist/0PJWU4ftN3mPM4LPozLgJf), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Bolso Cheio](https://open.spotify.com/album/0x0fS6Y6jFD1YIGicSAO83) | 2:27 |
+| 1 | [Bolso Cheio](https://open.spotify.com/track/0GxgXhS6PEKC3qMrKN10Lm) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk) | [Bolso Cheio](https://open.spotify.com/album/0x0fS6Y6jFD1YIGicSAO83) | 2:27 |
 | 2 | [Celebrando](https://open.spotify.com/track/1ZynCssuMvuqVH5fwFeSOw) | [PH Original](https://open.spotify.com/artist/1vxO2TvhCnd9dhox0Rpgf1), [Davilexx](https://open.spotify.com/artist/5nvcmhyNlyInqkHwNkxgzb), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Celebrando](https://open.spotify.com/album/6j6OZKPSgWlYic3ZtIdufN) | 2:18 |
 | 3 | [Invejoso](https://open.spotify.com/track/3iC38qSBxIC5Epa1t48G5z) | [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC JSP](https://open.spotify.com/artist/0lRhmQvg5nTo85aoHeDWNE), [Ruggi](https://open.spotify.com/artist/70IZPLFSDGRCzXSS3sWqYe) | [Invejoso](https://open.spotify.com/album/4zyFmvMAeHPS9gHELxQLiw) | 2:43 |
 | 4 | [B.C.T](https://open.spotify.com/track/43eovYFvtH3MimBXSMjzMw) | [Dom Smoking](https://open.spotify.com/artist/383PUe2dAOgrqwJ7moGjk9), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Bubblegun Studios](https://open.spotify.com/artist/4vqazZms8Y4wPQM6rbtOGx) | [B.C.T](https://open.spotify.com/album/2ai2JGfyhFUWrPF3UAPJLQ) | 3:08 |

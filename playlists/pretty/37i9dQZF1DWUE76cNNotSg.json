@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 413642,
+  "num_followers": 413858,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDVmMmIwYzQ2ZTA1ZDVkY2Q3MTUwNGFkNDM3M2Y1YmZi",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDFjYjhiMDk3MjNiYTgwNTY4YWYzNWJhZjU0OGYzZGE1",
   "tracks": [
     {
       "added_at": "2020-12-22 17:15:29",
@@ -651,22 +651,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Right Down the Line",
-        "url": "https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 267962,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Chika (scared)",
         "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Pizza Guy / Show Me",
-        "url": "https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790"
+        "name": "Right Down the Line",
+        "url": "https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI"
       },
       "artists": [
         {
-          "name": "Touch Sensitive",
-          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
         }
       ],
-      "duration_ms": 349413,
-      "name": "Pizza Guy",
-      "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
+      "duration_ms": 267962,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -711,6 +695,22 @@
       "duration_ms": 263418,
       "name": "Tunnel of You",
       "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Pizza Guy / Show Me",
+        "url": "https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790"
+      },
+      "artists": [
+        {
+          "name": "Touch Sensitive",
+          "url": "https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z"
+        }
+      ],
+      "duration_ms": 349413,
+      "name": "Pizza Guy",
+      "url": "https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD"
     },
     {
       "added_at": "2020-12-22 20:57:01",
@@ -731,22 +731,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Rust & Gold",
-        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "How Much (You Want Her) 2017",
-      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 324266,
       "name": "Kin",
       "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Rust & Gold",
+        "url": "https://open.spotify.com/album/12FsF7zGKN58k2VTlzwDAU"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "How Much (You Want Her) 2017",
+      "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -819,6 +819,42 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "Purple Noon",
+        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 252409,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "We Stayed Up All Night",
+        "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        },
+        {
+          "name": "Ardyn",
+          "url": "https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu"
+        }
+      ],
+      "duration_ms": 265758,
+      "name": "We Stayed Up All Night",
+      "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Fabrique Club",
         "url": "https://open.spotify.com/album/6Hw68lfchRLr4nfRAnC45E"
       },
@@ -839,18 +875,18 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Purple Noon",
-        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
       },
       "artists": [
         {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 252409,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
+      "duration_ms": 191253,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -875,22 +911,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Sunlight (feat. Years & Years) [Remixes]",
         "url": "https://open.spotify.com/album/08jeLY28AzZc8yEQ9jcUBO"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 244202,
       "name": "Sunlight (feat. Years and Years) - Darius Remix",
       "url": "https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "We Stayed Up All Night",
-        "url": "https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        },
-        {
-          "name": "Ardyn",
-          "url": "https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu"
-        }
-      ],
-      "duration_ms": 265758,
-      "name": "We Stayed Up All Night",
-      "url": "https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Taking Over",
-        "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        }
-      ],
-      "duration_ms": 336867,
-      "name": "Taking Over",
-      "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
-    },
-    {
       "added_at": "2021-08-30 22:51:44",
       "album": {
         "name": "Circmvnt",
@@ -1019,6 +1003,22 @@
       "duration_ms": 153076,
       "name": "1080p",
       "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Taking Over",
+        "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "duration_ms": 336867,
+      "name": "Taking Over",
+      "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Oh Uncertainty! A Universe Despairs",
-        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
-      },
-      "artists": [
-        {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "Best for You",
-      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "I Can Change",
         "url": "https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 331525,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/4yhslVvynysGhexambPGcy"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Oh Uncertainty! A Universe Despairs",
+        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 213040,
+      "name": "Best for You",
+      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 134220,
-      "name": "Moody",
-      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Californian Soil",
         "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 134220,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Shine a Light",
         "url": "https://open.spotify.com/album/1JiEqgVUMWk0F6P31nvwLG"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 156293,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Lightbulbs",
         "url": "https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 180533,
       "name": "UH",
       "url": "https://open.spotify.com/track/09J3NVQcf22QNl23QPOZbe"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 156293,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
     },
     {
       "added_at": "2021-03-19 20:47:30",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
     },
     {
-      "added_at": "2021-03-08 18:24:23",
-      "album": {
-        "name": "Blue Ceiling",
-        "url": "https://open.spotify.com/album/6C58bgXl2VzaM846UbvglD"
-      },
-      "artists": [
-        {
-          "name": "moanday",
-          "url": "https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "Blue Ceiling",
-      "url": "https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR"
-    },
-    {
       "added_at": "2020-12-22 17:15:29",
       "album": {
         "name": "Memories",
@@ -1285,20 +1269,20 @@
       "url": "https://open.spotify.com/track/2EEZdCeGp095urJDE3wEpS"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
+      "added_at": "2021-03-08 18:24:23",
       "album": {
-        "name": "Selcouth",
-        "url": "https://open.spotify.com/album/2lXnIs4McHfWLTn8kRsrE1"
+        "name": "Blue Ceiling",
+        "url": "https://open.spotify.com/album/6C58bgXl2VzaM846UbvglD"
       },
       "artists": [
         {
-          "name": "Coubo",
-          "url": "https://open.spotify.com/artist/3VZj4YxaCNGpQGm95P1lVq"
+          "name": "moanday",
+          "url": "https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB"
         }
       ],
-      "duration_ms": 161880,
-      "name": "Myrrh",
-      "url": "https://open.spotify.com/track/0GJPN9x51c454tJcYEv5ix"
+      "duration_ms": 166909,
+      "name": "Blue Ceiling",
+      "url": "https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1331,6 +1315,22 @@
       "duration_ms": 171699,
       "name": "Don't Turn Around",
       "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Selcouth",
+        "url": "https://open.spotify.com/album/2lXnIs4McHfWLTn8kRsrE1"
+      },
+      "artists": [
+        {
+          "name": "Coubo",
+          "url": "https://open.spotify.com/artist/3VZj4YxaCNGpQGm95P1lVq"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "Myrrh",
+      "url": "https://open.spotify.com/track/0GJPN9x51c454tJcYEv5ix"
     },
     {
       "added_at": "2022-08-12 04:02:00",

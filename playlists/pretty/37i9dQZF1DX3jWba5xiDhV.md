@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,350 likes - 75 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,649 likes - 75 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 18 | [Melody \(1983 Radio Version\)](https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ) | [Plustwo](https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK) | [Melody](https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz) | 3:51 |
 | 19 | [Hypnotic Tango \- Original 12" Version](https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID) | [My Mine](https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o) | [Hypnotic Tango](https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C) | 6:09 |
 | 20 | [The Glow of Love](https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Glow of Love \(Original Album and Rare Tracks\)](https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye) | 6:13 |
-| 21 | [Vamos a la Playa](https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:37 |
-| 22 | [Dolce Vita](https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Ryan Paris](https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t) | 3:49 |
+| 21 | [Dolce Vita](https://open.spotify.com/track/2fv6Qeb7Z3uaqBeYINvJ0f) | [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Ryan Paris](https://open.spotify.com/album/0xec3z3OhfBWG12UaFaz3t) | 3:49 |
+| 22 | [Vamos a la Playa](https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:37 |
 | 23 | [Give Me Love](https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [3 \- Supernature](https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR) | 7:42 |
 | 24 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 |
 | 25 | [Disco Sole](https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:23 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 66 | [Broken Heart](https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Broken Heart](https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j) | 6:44 |
 | 67 | [Automatic Dub](https://open.spotify.com/track/1vu5RVntahCOW5bdwdJRTV) | [Wolfram](https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24) | [Automatic Dub 2](https://open.spotify.com/album/2gALEQAxbisVObFd0dfwwG) | 6:36 |
 | 68 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 |
-| 69 | [When I Let You Down \- Extended Mix](https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju) | [M & G](https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe) | [When I Let You Down / Boogie Tonight](https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb) | 6:06 |
-| 70 | [The Night \- Original Remastered Version 2020](https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4) | [Valerie Dore](https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs) | [The Night \(Original Remastered Version 2020\)](https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc) | 6:16 |
+| 69 | [The Night \- Original Remastered Version 2020](https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4) | [Valerie Dore](https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs) | [The Night \(Original Remastered Version 2020\)](https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc) | 6:16 |
+| 70 | [When I Let You Down \- Extended Mix](https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju) | [M & G](https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe) | [When I Let You Down / Boogie Tonight](https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb) | 6:06 |
 | 71 | [Il Veliero \- Single Version](https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv) | [The Chaplin Band](https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2) | [Dancing on Townsquare](https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c) | 3:30 |
-| 72 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |
-| 73 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 |
+| 72 | [Cafè \- Original 1979 Version](https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ) | [Dd Sound](https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD) | [Cafè](https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28) | 6:33 |
+| 73 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |
 | 74 | [KKK](https://open.spotify.com/track/0exbk0My19GkSkpsz2SHqv) | [Gang](https://open.spotify.com/artist/6w6I1RM8AvngUMogImmkxj) | [Italo Disco Vol\. 2](https://open.spotify.com/album/1Akyh6zkWizFkp101VjwTK) | 5:13 |
 | 75 | [Jamin'](https://open.spotify.com/track/74nFLqYUx40Y2v0ZtFQHI8) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:57 |
 
-Snapshot ID: `MTY2NTE0MjU3NiwwMDAwMDAwMDhiMjM1NzQ3NDE2ZGY2MGNkMGMxZTdkNjAxZGUyMmFk`
+Snapshot ID: `MTY2NTE0MjU3NiwwMDAwMDAwMDEyZjBmYjZkODNlMDJhYzJiYTlhMDNiNzcxY2FkMjY1`

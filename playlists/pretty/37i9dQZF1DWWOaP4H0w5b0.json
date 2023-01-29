@@ -1,12 +1,12 @@
 {
   "description": "Want some metal? Better to start with the essentials. Cover: Pantera",
-  "num_followers": 1622209,
+  "num_followers": 1622755,
   "original_name": "Metal Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTkxMjUxNiwwMDAwMDAwMDAyYWJiZmRiZWFiNjc2YjY0Zjg4ZjZkZTRiNmM1M2My",
+  "snapshot_id": "MTY2OTkxMjUxNiwwMDAwMDAwMGRjNDhjM2UxZDRkOWEyMmU1N2I5NTIxNTYxNjFiMjJh",
   "tracks": [
     {
       "added_at": "2022-12-01 16:35:16",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-12-01 16:35:16",
       "album": {
-        "name": "Faceless",
-        "url": "https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "I Stand Alone",
-      "url": "https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr"
-    },
-    {
-      "added_at": "2022-12-01 16:35:16",
-      "album": {
         "name": "Open Up And Say...Ahh! (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 224866,
       "name": "Nothin' But A Good Time - Remastered 2006",
       "url": "https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC"
+    },
+    {
+      "added_at": "2022-12-01 16:35:16",
+      "album": {
+        "name": "Faceless",
+        "url": "https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "I Stand Alone",
+      "url": "https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr"
     },
     {
       "added_at": "2022-12-01 16:35:16",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-12-01 16:35:16",
       "album": {
-        "name": "Holy Diver",
-        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
-        }
-      ],
-      "duration_ms": 256933,
-      "name": "Rainbow in the Dark",
-      "url": "https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq"
-    },
-    {
-      "added_at": "2022-12-01 16:35:16",
-      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -651,18 +635,18 @@
     {
       "added_at": "2022-12-01 16:35:16",
       "album": {
-        "name": "Reign In Blood",
-        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
+        "name": "Holy Diver",
+        "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
         }
       ],
-      "duration_ms": 254400,
-      "name": "Raining Blood",
-      "url": "https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T"
+      "duration_ms": 256933,
+      "name": "Rainbow in the Dark",
+      "url": "https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq"
     },
     {
       "added_at": "2022-12-01 16:35:16",
@@ -683,18 +667,18 @@
     {
       "added_at": "2022-12-01 16:35:16",
       "album": {
-        "name": "Piece of Mind (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
+        "name": "Reign In Blood",
+        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
       },
       "artists": [
         {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
         }
       ],
-      "duration_ms": 252733,
-      "name": "The Trooper - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
+      "duration_ms": 254400,
+      "name": "Raining Blood",
+      "url": "https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T"
     },
     {
       "added_at": "2022-12-01 16:35:16",
@@ -715,6 +699,22 @@
     {
       "added_at": "2022-12-01 16:35:16",
       "album": {
+        "name": "Piece of Mind (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "The Trooper - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ"
+    },
+    {
+      "added_at": "2022-12-01 16:35:16",
+      "album": {
         "name": "Leviathan",
         "url": "https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 228586,
       "name": "Blood and Thunder",
       "url": "https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux"
-    },
-    {
-      "added_at": "2022-12-01 16:35:16",
-      "album": {
-        "name": "South Of Heaven",
-        "url": "https://open.spotify.com/album/2UqJjz5eMYRzbbKToD3Peh"
-      },
-      "artists": [
-        {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
-        }
-      ],
-      "duration_ms": 298533,
-      "name": "South Of Heaven",
-      "url": "https://open.spotify.com/track/3U9gogDStAfWxSm91PJuxb"
     },
     {
       "added_at": "2022-12-01 16:35:16",
@@ -791,6 +775,22 @@
       "duration_ms": 248746,
       "name": "Twilight Of The Thunder God",
       "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
+    },
+    {
+      "added_at": "2022-12-01 16:35:16",
+      "album": {
+        "name": "South Of Heaven",
+        "url": "https://open.spotify.com/album/2UqJjz5eMYRzbbKToD3Peh"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 298533,
+      "name": "South Of Heaven",
+      "url": "https://open.spotify.com/track/3U9gogDStAfWxSm91PJuxb"
     },
     {
       "added_at": "2022-12-01 16:35:16",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-12-01 16:35:16",
       "album": {
+        "name": "Spreading The Disease",
+        "url": "https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 259760,
+      "name": "Madhouse",
+      "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
+    },
+    {
+      "added_at": "2022-12-01 16:35:16",
+      "album": {
         "name": "Balls To The Wall",
         "url": "https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 675653,
       "name": "Black No. 1 (Little Miss Scare -All)",
       "url": "https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p"
-    },
-    {
-      "added_at": "2022-12-01 16:35:16",
-      "album": {
-        "name": "Spreading The Disease",
-        "url": "https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 259760,
-      "name": "Madhouse",
-      "url": "https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX"
     },
     {
       "added_at": "2022-12-01 16:35:16",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-12-01 16:35:16",
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+        "name": "Cleansing",
+        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
       },
       "artists": [
         {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+          "name": "Prong",
+          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
         }
       ],
-      "duration_ms": 257733,
-      "name": "L'enfant sauvage",
-      "url": "https://open.spotify.com/track/4PWxt9Fy949kUtkEi2GI5V"
+      "duration_ms": 251533,
+      "name": "Snap Your Fingers, Snap Your Neck",
+      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
     },
     {
       "added_at": "2022-12-01 16:35:16",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-12-01 16:35:16",
       "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "L'enfant sauvage",
+      "url": "https://open.spotify.com/track/4PWxt9Fy949kUtkEi2GI5V"
+    },
+    {
+      "added_at": "2022-12-01 16:35:16",
+      "album": {
         "name": "Machine Head",
         "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 368506,
       "name": "Highway Star",
       "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
-    },
-    {
-      "added_at": "2022-12-01 16:35:16",
-      "album": {
-        "name": "Cleansing",
-        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
-      },
-      "artists": [
-        {
-          "name": "Prong",
-          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Snap Your Fingers, Snap Your Neck",
-      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
     },
     {
       "added_at": "2022-12-01 16:35:16",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-12-01 16:35:16",
       "album": {
-        "name": "Symbolic (Remastered Version)",
-        "url": "https://open.spotify.com/album/1QgFthItpbxvMXlgGjvhBR"
-      },
-      "artists": [
-        {
-          "name": "Death",
-          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
-        }
-      ],
-      "duration_ms": 392800,
-      "name": "Symbolic",
-      "url": "https://open.spotify.com/track/0dpFb4qv92TE9R00Lq4SAW"
-    },
-    {
-      "added_at": "2022-12-01 16:35:16",
-      "album": {
         "name": "Brotherhood of the Snake",
         "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 253988,
       "name": "Brotherhood of the Snake",
       "url": "https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA"
+    },
+    {
+      "added_at": "2022-12-01 16:35:16",
+      "album": {
+        "name": "Symbolic (Remastered Version)",
+        "url": "https://open.spotify.com/album/1QgFthItpbxvMXlgGjvhBR"
+      },
+      "artists": [
+        {
+          "name": "Death",
+          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+        }
+      ],
+      "duration_ms": 392800,
+      "name": "Symbolic",
+      "url": "https://open.spotify.com/track/0dpFb4qv92TE9R00Lq4SAW"
     },
     {
       "added_at": "2022-12-01 16:35:16",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2022-12-01 16:35:16",
       "album": {
+        "name": "The Ritual",
+        "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 390800,
+      "name": "Return to Serenity",
+      "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
+    },
+    {
+      "added_at": "2022-12-01 16:35:16",
+      "album": {
         "name": "KE*A*H** (Psalm 69)",
         "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2022-12-01 16:35:16",
       "album": {
-        "name": "The Ritual",
-        "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
+        "name": "Now, Diabolical",
+        "url": "https://open.spotify.com/album/5t5tP8dVwdyI8yTShWcIzX"
       },
       "artists": [
         {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
         }
       ],
-      "duration_ms": 390800,
-      "name": "Return to Serenity",
-      "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
+      "duration_ms": 216346,
+      "name": "K.I.N.G",
+      "url": "https://open.spotify.com/track/6IvxXL0dqXJlgIoIFfMqFA"
     },
     {
       "added_at": "2022-12-01 16:35:16",
@@ -1503,22 +1519,6 @@
       "duration_ms": 205506,
       "name": "Vote with a Bullet",
       "url": "https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa"
-    },
-    {
-      "added_at": "2022-12-01 16:35:16",
-      "album": {
-        "name": "Now, Diabolical",
-        "url": "https://open.spotify.com/album/5t5tP8dVwdyI8yTShWcIzX"
-      },
-      "artists": [
-        {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "K.I.N.G",
-      "url": "https://open.spotify.com/track/6IvxXL0dqXJlgIoIFfMqFA"
     },
     {
       "added_at": "2022-12-01 16:35:16",

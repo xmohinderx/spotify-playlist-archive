@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-147 songs - 10 hr 29 min
+148 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Fortunate Few](https://open.spotify.com/track/1TM8MjSqGQGUIENVLlmROp) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Tempting Fate](https://open.spotify.com/album/5SOM73TJ4GOm9mFzmhaKUv) | 3:25 | 2022-10-03 |  |
 | [Get These Blues Off Me](https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [One Kind Favor \(Deluxe\)](https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV) | 4:28 | 2022-05-25 |  |
 | [Good To Be \(Home Again\)](https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be \(Home Again\)](https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA) | 3:30 | 2022-05-25 |  |
+| [Got Me a Party](https://open.spotify.com/track/4IxOjrh1QDVQLwcYvrJB0L) | [Andy Fairweather Low](https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD) | [Got Me a Party](https://open.spotify.com/album/1B4cCMYAWsjT2YZ8rBpsBk) | 2:20 | 2023-01-20 |  |
 | [Gravity](https://open.spotify.com/track/3KulI9oSHnhB9OZ41O3zMb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/5RGlC4xXZ5IxdySWnCfEnY) | 4:05 | 2022-05-25 | 2022-07-28 |
 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2022-07-08 |  |
 | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Gunsmoke Blues \(feat\. Jason Isbell\)](https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2) | 3:08 | 2022-08-11 |  |
@@ -86,7 +87,7 @@
 | [I'd Rather Go Blind](https://open.spotify.com/track/3etdnXxhAQcaZGh9wYr8ub) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/7HkdGOPmc7rmzbDXFR8Khb) | 4:56 | 2022-05-25 | 2022-07-29 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [From The Heart Of A Woman](https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h) | 5:00 | 2022-07-08 |  |
 | [I'll Take Care Of You](https://open.spotify.com/track/644oQEcMNmA3ABAOrfY7k3) | [Beth Hart, Joe Bonamassa](https://open.spotify.com/artist/5n1XQGBfQhNsALjJs0APL5) | [Don't Explain](https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT) | 5:13 | 2022-05-25 |  |
-| [Ice Cream and Cigarettes](https://open.spotify.com/track/3gj8kdPWFbNEnBegd20KJJ) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m) | [One Foot In The Groove](https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD) | 3:25 | 2023-01-13 |  |
+| [Ice Cream and Cigarettes](https://open.spotify.com/track/3gj8kdPWFbNEnBegd20KJJ) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m) | [One Foot In The Groove](https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD) | 3:25 | 2023-01-13 | 2023-01-29 |
 | [If Heaven Is A Hotel](https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Strange Time To Be Alive](https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA) | 3:08 | 2022-10-10 |  |
 | [If You're Gonna Leave Me](https://open.spotify.com/track/1XtppgAPSCRwfDlLy2Rv4a) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby](https://open.spotify.com/album/6RBGSFosTgAdFOP99lFvgK) | 5:32 | 2022-10-03 | 2022-11-29 |
 | [In From The Cold](https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Tough Love](https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP) | 6:08 | 2022-05-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 2512,
+  "num_followers": 2519,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMGVkNTMxMGE0MzUzMDgwZTE2ZWZkN2IwZjhmNTBjNDE0",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDM4ZTE4MjFjNGM3ZTYyMTc2NzQzMDk5MjkxYWI5MjFj",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -633,6 +633,22 @@
       "url": "https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn"
     },
     {
+      "added_at": "2021-10-15 05:57:00",
+      "album": {
+        "name": "Ecua",
+        "url": "https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 228214,
+      "name": "Ecua",
+      "url": "https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh"
+    },
+    {
       "added_at": "2021-10-08 15:53:55",
       "album": {
         "name": "Vagabundos",
@@ -651,22 +667,6 @@
       "duration_ms": 157530,
       "name": "Vagabundos",
       "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
-    },
-    {
-      "added_at": "2021-10-15 05:57:00",
-      "album": {
-        "name": "Ecua",
-        "url": "https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "Ecua",
-      "url": "https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -759,22 +759,18 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Cuban Riddim",
-        "url": "https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1"
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/0SdKouj4f0TqaDOOiBhSeA"
       },
       "artists": [
         {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+          "name": "Ferra Black",
+          "url": "https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD"
         }
       ],
-      "duration_ms": 167619,
-      "name": "Cuban Riddim",
-      "url": "https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb"
+      "duration_ms": 186240,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/3GK8ZbB59raLSX21pp05ST"
     },
     {
       "added_at": "2021-11-05 06:05:00",
@@ -799,22 +795,6 @@
       "duration_ms": 149250,
       "name": "Quem\u00e1",
       "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/0SdKouj4f0TqaDOOiBhSeA"
-      },
-      "artists": [
-        {
-          "name": "Ferra Black",
-          "url": "https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/3GK8ZbB59raLSX21pp05ST"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -847,6 +827,26 @@
       "duration_ms": 195000,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Cuban Riddim",
+        "url": "https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Cuban Riddim",
+      "url": "https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb"
     },
     {
       "added_at": "2021-10-08 15:53:55",

@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-309 songs - 1 day 5 hr 23 min
+310 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Alkebulan \- David Mayer Remix](https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI) | [ANT LaROCK](https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf) | [Alkebulan Remix](https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs) | 7:50 | 2021-11-26 | 2022-11-23 |
 | [All I Know](https://open.spotify.com/track/6gbcV35Fx1UG74mqXYCloC) | [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N), [Pantheon](https://open.spotify.com/artist/3JX3pY7okkEyFnbtuELshV), [Jannah Beth](https://open.spotify.com/artist/6eC2CFvVSX6FZRJqTqXwZh) | [All I Know](https://open.spotify.com/album/6CBxsT89sBIpqKbibw9eT3) | 5:14 | 2022-04-04 | 2022-07-15 |
 | [All I Want \(feat\. Goatchy\)](https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh) | [All I Want \(feat\. Goatchy\)](https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv) | 3:44 | 2021-11-26 | 2022-08-13 |
-| [All Night](https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs) | [Sintra](https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e) | [All Night](https://open.spotify.com/album/4AYtlhfbJuWXncrNrRh9r5) | 3:44 | 2022-09-30 |  |
+| [All Night](https://open.spotify.com/track/0yWaf1ysK8f1DXtIlHqdAs) | [Sintra](https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e) | [All Night](https://open.spotify.com/album/4AYtlhfbJuWXncrNrRh9r5) | 3:44 | 2022-09-30 | 2023-01-29 |
 | [All That Glitters](https://open.spotify.com/track/3rC3WuAGMAQu1l9YEQPSUI) | [Midnight Sky](https://open.spotify.com/artist/3tcKyzeLj9cSobUJ1odvKP) | [Future Disco: Poolside Sounds Vol\. 10](https://open.spotify.com/album/7cwwAxGBAmVPItcXgBu8b6) | 3:48 | 2022-09-02 |  |
 | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/track/2zWyV9CIpfaH6v0g1mq1a0) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/album/1pM6qa4CNTYLrSL1Bd3Bcw) | 3:30 | 2022-11-25 |  |
 | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/track/3iqbypJ2BSVHc7QMvXG19E) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [DIDI HAN](https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF) | [alone with you \(feat\. Didi Han\)](https://open.spotify.com/album/37uFN79H6w1fYvjcA6FZVz) | 3:30 | 2021-11-26 | 2022-12-01 |
@@ -308,6 +308,7 @@
 | [Wildside](https://open.spotify.com/track/5q8imvnixEYjK2YVGOaKE2) | [Yousef](https://open.spotify.com/artist/1HsWNPlqCBv9AwCFBDIEKF), [Penny F.](https://open.spotify.com/artist/3Dh740vRUlju7vg98N3Rkd) | [Wildside](https://open.spotify.com/album/3RRhOM6a9IzhKjrIKTHn0J) | 4:09 | 2022-06-24 | 2022-08-30 |
 | [Wired](https://open.spotify.com/track/7bmxbmer7iYIvla8exrgnv) | [Tim Waits](https://open.spotify.com/artist/7HQ5HjWwhPbDpmV4zWkYiL) | [Wired](https://open.spotify.com/album/6RN5ODBoefQiFCj3RDsVQR) | 2:34 | 2021-11-26 | 2022-06-10 |
 | [Wolves](https://open.spotify.com/track/6aqhM9bUq6tdC9QUj3OXij) | [Kon Faber](https://open.spotify.com/artist/63RvOgWyeaaDm7oDtUq17q) | [Locomotion](https://open.spotify.com/album/3FW7HuP45WPyWD1I1zpcVj) | 6:22 | 2021-11-26 | 2022-07-28 |
+| [Woman](https://open.spotify.com/track/3GNR7g7jIQcRC6Q0sZtqmw) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Andrew Pololos](https://open.spotify.com/artist/4L4Ztz8S7RAQxrFgEZS5dm), [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Woman](https://open.spotify.com/album/7szvJIeKj3HVTv63bkIs2E) | 3:34 | 2023-01-13 |  |
 | [Woman](https://open.spotify.com/track/7FlEC4iKF51DIiQ6G2Lj1q) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Andrew Pololos](https://open.spotify.com/artist/4L4Ztz8S7RAQxrFgEZS5dm), [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Woman](https://open.spotify.com/album/0A2coDWKmkpUwguAUbQe2O) | 3:34 | 2021-11-26 | 2022-10-15 |
 | [Womb \- Cinthie Remix](https://open.spotify.com/track/54kJnORLg5nVVk6nWK6N6A) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx), [DOMiNii](https://open.spotify.com/artist/7JKd21v27BmfP1Zc0nJSuU), [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Womb \(Cinthie Remix\)](https://open.spotify.com/album/6LeSGi1GQyYGR9cZUpMrvK) | 4:25 | 2022-04-04 | 2022-07-17 |
 | [Yaksha](https://open.spotify.com/track/1nc5Q3toic9NAPuWI3Kggf) | [Local Dialect](https://open.spotify.com/artist/1dFKuU0lKJNg27s2LKLZ2j) | [Annett Gapstream \| Local Dialect](https://open.spotify.com/album/1K2K06zyyAcB6Twe2mPqWO) | 7:52 | 2022-09-02 | 2022-10-10 |

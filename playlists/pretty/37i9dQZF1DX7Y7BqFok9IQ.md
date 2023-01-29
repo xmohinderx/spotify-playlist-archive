@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Gary Clark Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,920 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,979 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 25 | [Bright Lights](https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Blak and Blu \(Deluxe Edition\)](https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv) | 5:24 |
 | 26 | [The Drop](https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc) | 3:39 |
 | 27 | [Rollin 'N Tumblin](https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [World Boogie Is Coming](https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94) | 2:35 |
-| 28 | [Wicked Girl](https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN) | [Tyler Boone](https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz), [Peter Keys](https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7) | [Wicked Girl](https://open.spotify.com/album/02wlom1pEz40ngTampIPeU) | 3:28 |
-| 29 | [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 |
+| 28 | [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 |
+| 29 | [Wicked Girl](https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN) | [Tyler Boone](https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz), [Peter Keys](https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7) | [Wicked Girl](https://open.spotify.com/album/02wlom1pEz40ngTampIPeU) | 3:28 |
 | 30 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 |
 | 31 | [Too Bad](https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:44 |
 | 32 | [Come For Me](https://open.spotify.com/track/5jWtYVhn2LW98F8VyN91Nj) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Come For Me](https://open.spotify.com/album/78654KgIrmbYl7BlulKAOS) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 49 | [Say You Will](https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 3:54 |
 | 50 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 |
 
-Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMDY4M2E1ZTNlODBkNWQwMzAyNjdlNDJiMDZjMmRjZDRi`
+Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMGI5ZjFlYjE5ZDM3NTgwMjMwYjBmNjk4NDk0YjI2ZmNh`

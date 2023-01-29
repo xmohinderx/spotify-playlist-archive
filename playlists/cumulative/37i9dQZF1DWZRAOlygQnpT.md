@@ -4,7 +4,7 @@
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-250 songs - 10 hr 56 min
+251 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Estremecete](https://open.spotify.com/track/3eZyQHEOhwdXQdAe6f6995) | [Los Llopis](https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/6BWOXdSPnMbekP7fDAx1hH) | 3:11 | 2020-04-17 | 2022-07-29 |
 | [Estremecete](https://open.spotify.com/track/3IgqJHPKQUI3hJou7tYDAp) | [Los Llopis](https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 3:11 | 2020-04-17 |  |
 | [Fiebre \- Fever](https://open.spotify.com/track/5Lp5euQo2kUiBRWopCiZFE) | [Los Johnny Jets](https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:36 | 2020-04-17 | 2022-07-26 |
+| [Fue en un Cafe](https://open.spotify.com/track/0FWq5DHMbw5XcohCJ956BX) | [Los Apson](https://open.spotify.com/artist/0wNONSo9o0XALusso60qwC) | [Como Lo Bailaron Tus Padres, Vol\. 1](https://open.spotify.com/album/57ZelIquhSX9pu9B4PYGmu) | 3:07 | 2020-04-17 |  |
 | [Fue en un Cafe](https://open.spotify.com/track/1hZnDaUq0F8VLn800aAbJK) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Amores Incomparables, Vol\. 3](https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n) | 3:11 | 2020-04-17 | 2023-01-27 |
 | [Fue en un Cafe](https://open.spotify.com/track/0kPv89kbdck3kuZnsJ4t32) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/5YIaqX4l18vFQ0fcYSq0kU) | 3:03 | 2020-04-17 | 2022-07-29 |
 | [Fue en un Cafe](https://open.spotify.com/track/2HQTezBLYHy67n3JCMb49m) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 3:03 | 2020-04-17 |  |
@@ -239,7 +240,7 @@
 | [Tu Significas Todo Para Mi](https://open.spotify.com/track/0ZXw2HZ4hFw8AM7mp2xfRF) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Ballads del Rock](https://open.spotify.com/album/1o7i3eHMR0vxTLqGk81uUh) | 4:12 | 2020-04-17 |  |
 | [Tus Ojos](https://open.spotify.com/track/2pBbjdRMtCnFFUpOug5vtj) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 3:13 | 2020-04-17 |  |
 | [Twist del Perro](https://open.spotify.com/track/3cyUYWyKgvJVIMA2jYJmvo) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/6BWOXdSPnMbekP7fDAx1hH) | 2:19 | 2020-04-17 | 2022-07-25 |
-| [Twist del Perro](https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:19 | 2020-04-17 |  |
+| [Twist del Perro](https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:19 | 2020-04-17 | 2023-01-29 |
 | [Un Gran Pedazo de Amor](https://open.spotify.com/track/44AxBLLvdhOUqjDvVC7hCC) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Polvora](https://open.spotify.com/album/3KefX7SdLViRTuFffsmmxq) | 2:25 | 2020-04-17 | 2022-07-07 |
 | [Un hombre respet](https://open.spotify.com/track/76NCs54B9hQLW3HZwUxppM) | [Los Hitters](https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:29 | 2020-04-17 |  |
 | [Venus](https://open.spotify.com/track/5ALgEAPt5pQrtF4GtEykLc) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Serie de Colección 18 Auténticos Éxitos Hit´s de Grupos, Vol\. 2](https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB) | 3:05 | 2020-04-17 | 2022-07-29 |

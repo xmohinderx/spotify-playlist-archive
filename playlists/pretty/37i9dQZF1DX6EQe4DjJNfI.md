@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Duquesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,347 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,379 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 5 | [incomum](https://open.spotify.com/track/70zl4IbecZee4V3YubNt4J) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [incomum](https://open.spotify.com/album/2jpFAKZ13KRb8EqChWMBON) | 3:37 |
 | 6 | [Paierin](https://open.spotify.com/track/5GJdLyGpBrNUqlRvAkle7C) | [Flav](https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv) | [Paierin](https://open.spotify.com/album/0hESxkjm8AdfWRU5brCRIt) | 3:30 |
 | 7 | [Tudo Que Restou](https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [U.GOT](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [Tudo Que Restou](https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK) | 3:18 |
-| 8 | [Marcas](https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq) | [Marcas](https://open.spotify.com/album/0o45SHCsgRZeFg0MYhhtMh) | 3:46 |
+| 8 | [Marcas](https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Marcas](https://open.spotify.com/album/0o45SHCsgRZeFg0MYhhtMh) | 3:46 |
 | 9 | [Casual](https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [Casual](https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu) | 3:30 |
 | 10 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 |
 | 11 | [Aperta Start](https://open.spotify.com/track/6ByLwg9h4FEHbk1TdDAIdM) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Aperta Start](https://open.spotify.com/album/70KB2kysyDwhfToulSQ5gs) | 2:57 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 68 | [Intenção](https://open.spotify.com/track/40rijjvXbyX6alCMtM2r3Z) | [Wallace Lopes](https://open.spotify.com/artist/3SCWQkVBlN3uvNQoXSHCAN), [Damiana Sadili](https://open.spotify.com/artist/3hbg9yKFggp4UmquEPpgd5) | [Intenção](https://open.spotify.com/album/3GtRC63GLxKHEq2o7j95A8) | 3:19 |
 | 69 | [intenção](https://open.spotify.com/track/0skj9KDlD6sFf7RB8SgWB4) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Vício](https://open.spotify.com/album/1Xc3wQDbAv60BjFIcUoy59) | 2:13 |
 | 70 | [Sem Você \(Acústico no Studio F\)](https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [Mariah Nala no Studio F \(Acústico\)](https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67) | 2:28 |
-| 71 | [Só Você](https://open.spotify.com/track/4xXTMynUAc9pRq0DXLC8f3) | [Aysha Lima](https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U), [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv) | [Só Você](https://open.spotify.com/album/4k8YNiDI2cA6mAcNQselNg) | 3:43 |
-| 72 | [Melhor Ficar Sozinho](https://open.spotify.com/track/4vtzVyzc2pdw5vdg5nA5bn) | [Leon](https://open.spotify.com/artist/0grtw6LqS6bemrDRJrf1zl), [RM no Beat](https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t) | [Melhor Ficar Sozinho](https://open.spotify.com/album/191sqhnSI1Mfp0h0Hg8sZC) | 2:40 |
+| 71 | [Melhor Ficar Sozinho](https://open.spotify.com/track/4vtzVyzc2pdw5vdg5nA5bn) | [Leon](https://open.spotify.com/artist/0grtw6LqS6bemrDRJrf1zl), [RM no Beat](https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t) | [Melhor Ficar Sozinho](https://open.spotify.com/album/191sqhnSI1Mfp0h0Hg8sZC) | 2:40 |
+| 72 | [Só Você](https://open.spotify.com/track/4xXTMynUAc9pRq0DXLC8f3) | [Aysha Lima](https://open.spotify.com/artist/2PIknYaeoCcwkNQ8leGQ7U), [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv) | [Só Você](https://open.spotify.com/album/4k8YNiDI2cA6mAcNQselNg) | 3:43 |
 | 73 | [Pra Você](https://open.spotify.com/track/2WsXjgk3SAO9iSjFq9KteU) | [Risô](https://open.spotify.com/artist/7uYVtd6jZBcSSkJQozcGw2), [FIFO](https://open.spotify.com/artist/35gtv5W1SQ8Oj9jP85QfQ4), [Briozzini](https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj) | [Pra Você](https://open.spotify.com/album/2mecm3batbb0siwrRmaZRK) | 2:28 |
 | 74 | [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 |
 | 75 | [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 |
 
-Snapshot ID: `MTY3NDc4ODQ2MCwwMDAwMDAwMDFkNGRmMDFlNGY0ZGJmNGEzYmI4ZjhkNzhmOWNkZmI3`
+Snapshot ID: `MTY3NDc4ODQ2MCwwMDAwMDAwMDg3NmZjYmJlMjUxYTlmZjI0OWVhZTNkMGJhNmRkYTRi`

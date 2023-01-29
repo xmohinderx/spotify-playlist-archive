@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,601 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,608 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 9 | [She Bad \(feat\. Oxlade\)](https://open.spotify.com/track/2sQtgfBy77UVwkSDcZF8S5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 5:00 |
 | 10 | [Highest, Pt\. 1 \- Interlude](https://open.spotify.com/track/4crdW05OWhinvkKKe0jz8o) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 0:35 |
 | 11 | [COLD](https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [COLD](https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0) | 2:09 |
-| 12 | [Intro](https://open.spotify.com/track/0rw5Wf8pmw9H7xYPsN6iIm) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 1:34 |
+| 12 | [Can't Let You Go \(feat\. King Promise\)](https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:43 |
 | 13 | [Cougar \(feat\. Lojay\)](https://open.spotify.com/track/2a6AVT30VFGQ1ceA6PE3cA) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:29 |
-| 14 | [Can't Let You Go \(feat\. King Promise\)](https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:43 |
+| 14 | [Intro](https://open.spotify.com/track/0rw5Wf8pmw9H7xYPsN6iIm) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 1:34 |
 | 15 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
 | 16 | [Sizeless \(Skit\)](https://open.spotify.com/track/5t10bvJ3Zv3jKtU7YlwZSQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 1:26 |
 | 17 | [Labadi \(feat\. King Promise\)](https://open.spotify.com/track/4hlm377PiUfxf6kZ1lINWQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 3:18 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 19 | [Anadwo \(feat\. King Promise\)](https://open.spotify.com/track/5y1xgWDqsyrcOY7xrlwakX) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:11 |
 | 20 | [Oofeets](https://open.spotify.com/track/45RekOWSS4MBAvWPXPJNbr) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [Oofeets](https://open.spotify.com/album/4YhDsLqC5mqUIYuNIdfM1y) | 3:46 |
 | 21 | [One Million Cedis \(feat\. Ink Boy\)](https://open.spotify.com/track/4eMTkiQRtQKzFgvE5tD4gN) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt) | [JAMZ](https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc) | 2:45 |
-| 22 | [CCTV](https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:13 |
-| 23 | [Landlord](https://open.spotify.com/track/4MhUaa1qw60tPhurSEe75b) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Landlord](https://open.spotify.com/album/2WQE1JGp2OwNlMyO4QB9LT) | 2:43 |
+| 22 | [Landlord](https://open.spotify.com/track/4MhUaa1qw60tPhurSEe75b) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Landlord](https://open.spotify.com/album/2WQE1JGp2OwNlMyO4QB9LT) | 2:43 |
+| 23 | [CCTV](https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:13 |
 | 24 | [Strength Of A Woman \(feat\. Stonebwoy\)](https://open.spotify.com/track/73kjMOJYDiMpcfxPEcdMqQ) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:13 |
 | 25 | [Glory](https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Yung L](https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:21 |
 | 26 | [Rollies and Cigars](https://open.spotify.com/track/7iwDsctLsVlYXv2F8cNpWR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 49 | [Saara \(feat\. Efya\)](https://open.spotify.com/track/2wYrE76u5DQVyL4lteNe6a) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:19 |
 | 50 | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Chingam \(feat\. Bisa Kdei\)](https://open.spotify.com/album/3STRd9O0d5Q2zs10bEoyJs) | 3:34 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDA2Zjc2MTBiMTQyMDQ2ODRhMWU3NDk4MWVhZWIzOTBiNg==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDA5MGEyZmU3MTAwMWM0YjRkMDc0MDQ5NTA3MzNiNzZjMw==`

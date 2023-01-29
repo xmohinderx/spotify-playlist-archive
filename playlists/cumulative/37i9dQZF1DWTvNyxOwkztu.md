@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-232 songs - 12 hr 59 min
+233 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [1984](https://open.spotify.com/track/0scTJd9W6i8CJFJ1dtPzw7) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [1984](https://open.spotify.com/album/03FYIY7GnjIE0F3qvAaszJ) | 2:37 | 2022-06-02 |  |
 | [9 PM](https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [9 PM](https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F) | 2:00 | 2021-12-09 |  |
 | [A Glitch](https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG) | [Miller Ford](https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy) | [A Glitch](https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv) | 3:18 | 2022-03-11 |  |
-| [Adore](https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Adore](https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4) | 2:02 | 2021-12-09 |  |
+| [Adore](https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Adore](https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4) | 2:02 | 2021-12-09 | 2023-01-29 |
 | [Adventurous](https://open.spotify.com/track/1Fqwyw77YAzrBVSaJp9kFm) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Adventurous](https://open.spotify.com/album/4HEaT0EG4q2UpZvkyVPm6W) | 2:59 | 2021-12-09 | 2023-01-14 |
 | [Africa to the World](https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Africa to the World](https://open.spotify.com/album/5DHuZXoJiWYFbtqxRYDPH2) | 2:26 | 2021-12-09 | 2022-07-29 |
 | [Africa to the World](https://open.spotify.com/track/5v3gUhVDurjzJZ2ycJN1xu) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Africa to the World](https://open.spotify.com/album/3z61lYxp7ucCtjInYmPvWR) | 2:26 | 2022-08-05 | 2022-08-17 |
@@ -167,6 +167,7 @@
 | [Romantic Seas](https://open.spotify.com/track/1Y24a9yOtzQsd27w8RtJNk) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Romantic Seas \(Extended Version\)](https://open.spotify.com/album/5XqqnVTdynp062z49DyxGk) | 3:19 | 2021-12-09 | 2022-04-18 |
 | [Rose \- Edit](https://open.spotify.com/track/6VbQw65NuHHJ5o1NvJGlKa) | [Ljuvski](https://open.spotify.com/artist/2xE2iDErWgKFLmOOcF8hMa) | [Chill House x 3](https://open.spotify.com/album/34TKQyCcsvUv3ISgZsU60p) | 3:20 | 2021-12-09 |  |
 | [Run](https://open.spotify.com/track/0VLaaS481wSlMnf6UEQnJM) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7) | [Run](https://open.spotify.com/album/4LnDWolNUZJEqZdwVjRHKc) | 3:11 | 2022-10-07 | 2023-01-22 |
+| [Run](https://open.spotify.com/track/32cwP8NCIBrDj0mTcqZfYv) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7) | [Run](https://open.spotify.com/album/5P78sT6zk4x44BiOHDuhzW) | 3:11 | 2023-01-13 |  |
 | [Running Faster](https://open.spotify.com/track/3vzdR4GaLtV4i0h5QKoSHv) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Running Faster](https://open.spotify.com/album/4EfzsnrxTIK5qMLZXSRHlK) | 2:20 | 2023-01-13 |  |
 | [Saint Tropez](https://open.spotify.com/track/4gmuYXKdcVEDCfNxqv9Jae) | [Elaine D.](https://open.spotify.com/artist/2rf4obxtEI5MrQ8T6t98Ox) | [Saint Tropez](https://open.spotify.com/album/1m04FGUpWbOiNnIUhGYS5i) | 2:53 | 2021-12-09 | 2022-06-18 |
 | [Salvation](https://open.spotify.com/track/1lcOX9scuEaFjOuLSbpLpr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [Salvation](https://open.spotify.com/album/4ro6LmU19g0pfkaIJYcm0X) | 2:52 | 2021-12-09 | 2022-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,197 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,308 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,17 +15,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 5 | [No No No](https://open.spotify.com/track/1IydAjgvKCvFinmoIDaBx0) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [Feel Like Jumping: The Best of Studio One Women](https://open.spotify.com/album/6VePDosmMTNHNOshjX4vZJ) | 4:29 |
 | 6 | [Rudie Bam Bam](https://open.spotify.com/track/19MYWyeATrI33acF9xSgBk) | [The Clarendonians](https://open.spotify.com/artist/4GJL3Iwg1JKo6VembsjOS5) | [Winner Of My Heart \- Reggae](https://open.spotify.com/album/0xUN4o8p2BixUKpUvOejJ5) | 2:21 |
 | 7 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
-| 8 | [Declaration of Rights](https://open.spotify.com/track/1Fi6u796KbUTlg2XwFwJim) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [The Best of Studio One, Vol\. 1](https://open.spotify.com/album/1wPbCwn6OsBQj9VfziLYjQ) | 3:19 |
-| 9 | [People Make the World Go Round](https://open.spotify.com/track/5VsZxcRWnfX9b4SNH0KjuK) | [Hortense Ellis](https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2) | [Alton & Hortense Ellis](https://open.spotify.com/album/1hWDeXQy6iBX5avTe0TKmy) | 3:18 |
+| 8 | [People Make the World Go Round](https://open.spotify.com/track/5VsZxcRWnfX9b4SNH0KjuK) | [Hortense Ellis](https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2) | [Alton & Hortense Ellis](https://open.spotify.com/album/1hWDeXQy6iBX5avTe0TKmy) | 3:18 |
+| 9 | [Declaration of Rights](https://open.spotify.com/track/1Fi6u796KbUTlg2XwFwJim) | [The Abyssinians](https://open.spotify.com/artist/1vB5909auE9YUaTjQ7ZkTj) | [The Best of Studio One, Vol\. 1](https://open.spotify.com/album/1wPbCwn6OsBQj9VfziLYjQ) | 3:19 |
 | 10 | [Never Give Your Heart Away](https://open.spotify.com/track/22LNaj7qU9BC1nlylGVaKt) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/6xagSz2uBot6PdYytMZxxi) | 3:05 |
 | 11 | [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 |
 | 12 | [Jah Jah Go Before Us](https://open.spotify.com/track/1R0XkmUBzSOqiWV8XSZ1if) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Presenting The Gladiators](https://open.spotify.com/album/6inbtfHKcxOyAAOqkzw7di) | 2:41 |
 | 13 | [Gumma](https://open.spotify.com/track/48lJI0zX6WopGcgmwv22kv) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 1:51 |
 | 14 | [Mad World](https://open.spotify.com/track/6oZymvG8LsXxMzDFPwBqRf) | [Hugh Godfrey](https://open.spotify.com/artist/1z66MA7rp4Rm0tvBIjaM0r) | [This Girl Loves Reggae](https://open.spotify.com/album/1TuWq3VmQSEC18DBlED4BD) | 1:48 |
 | 15 | [Poco Tempo \(aka Pocco Tempo\)](https://open.spotify.com/track/3XsdL4mKkygWZpOcyt4vfp) | [Pablove Black and The New Establishment](https://open.spotify.com/artist/1AWHkjdfs8WUkn61MicKNq) | [Natural High: The Bongo Man Collection](https://open.spotify.com/album/09ThsD4R0KOVguZBScQH3S) | 4:10 |
-| 16 | [Call to Me \(aka Come to Me\)](https://open.spotify.com/track/07JiDePV5j3JS2Ohss2u7y) | [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3) | [Dancing the Ska](https://open.spotify.com/album/6b2G79N6sJoKbg7Mw0Pubw) | 2:01 |
+| 16 | [Freedom Sounds](https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw) | [The Soul Brothers](https://open.spotify.com/artist/3isQPVgtrl9CewKkyRPjBq) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 4:10 |
 | 17 | [Waiting In Vain](https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 4:16 |
-| 18 | [Freedom Sounds](https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw) | [The Soul Brothers](https://open.spotify.com/artist/3isQPVgtrl9CewKkyRPjBq) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 4:10 |
+| 18 | [Call to Me \(aka Come to Me\)](https://open.spotify.com/track/07JiDePV5j3JS2Ohss2u7y) | [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3) | [Dancing the Ska](https://open.spotify.com/album/6b2G79N6sJoKbg7Mw0Pubw) | 2:01 |
 | 19 | [Ringo Rock](https://open.spotify.com/track/0d98jmXYAEuh2cLAdLp8Q9) | [Soul Vendors](https://open.spotify.com/artist/2jJI2J9IXpHrUBXpsuMa5x) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 3:08 |
 | 20 | [Race Track](https://open.spotify.com/track/0AgvO8IHuz0AqAnOK2Js7h) | [Brentford All Stars](https://open.spotify.com/artist/140dNiDsAyiwBMNCKLZJXc) | [Studio One Scorcher Volume 2](https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a) | 2:17 |
 | 21 | [Real Rock](https://open.spotify.com/track/5jnA4sMHH7OiImyOHKSVdl) | [Sound Dimension](https://open.spotify.com/artist/5OUHQrNOEtdwwSo7I68lzv) | [Studio One Rockers](https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc) | 2:31 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 41 | [Give Me a Little Sign](https://open.spotify.com/track/51ugwuIN5G93zhBJ5qo6BB) | [Owen Gray](https://open.spotify.com/artist/4wJme0MlgnqzMk2M9kypjj) | [Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One](https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG) | 3:07 |
 | 42 | [Rougher Yet](https://open.spotify.com/track/1NumiJgifR6HwMqasRRqpZ) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 3:06 |
 | 43 | [School](https://open.spotify.com/track/6uZVfM3Nr4JWZpcKckTmH7) | [Prince Jazzbo](https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:38 |
-| 44 | [Live Up to Your Name](https://open.spotify.com/track/7yaIFvg4FW9U3PRnBisAqi) | [Prince Lincoln](https://open.spotify.com/artist/7a6rxqAzBbhDL9fl4NXZzA) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:59 |
-| 45 | [Love Jah](https://open.spotify.com/track/2kNtkx2Bh9qRKELpJMdIks) | [Im and Sound Dimension](https://open.spotify.com/artist/1nfvWfqnzY3Mkn6CFwfe96) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:36 |
+| 44 | [Love Jah](https://open.spotify.com/track/2kNtkx2Bh9qRKELpJMdIks) | [Im and Sound Dimension](https://open.spotify.com/artist/1nfvWfqnzY3Mkn6CFwfe96) | [Studio One Funk](https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4) | 2:36 |
+| 45 | [Live Up to Your Name](https://open.spotify.com/track/7yaIFvg4FW9U3PRnBisAqi) | [Prince Lincoln](https://open.spotify.com/artist/7a6rxqAzBbhDL9fl4NXZzA) | [Studio One Sound](https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze) | 3:59 |
 | 46 | [Chuky Skank](https://open.spotify.com/track/232oGt97gDd6jJmb9lFcR2) | [Dillinger](https://open.spotify.com/artist/5J69edy1luLIzbgyl4u1Dv) | [Soul Jazz Records Presents Studio One Showcase: The Sound of Studio One in the 1970S](https://open.spotify.com/album/0L3MiIrqhRpjlJu3wmMGzO) | 2:39 |
 | 47 | [Simmer Down](https://open.spotify.com/track/2qUkkHORN5objY895DYs55) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Studio One Classics](https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR) | 2:52 |
 | 48 | [Reggae Version](https://open.spotify.com/track/7gnGakKfPtbXTDh9zoj1r4) | [Drum Bago and Rebel Group](https://open.spotify.com/artist/0BoSjN4E9chFiBI118KLwM) | [Studio One Ironsides](https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG) | 3:00 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [The People Skanking](https://open.spotify.com/track/72IAXR6AyefztBCOaYaIIx) | [New Establishment](https://open.spotify.com/artist/4zV2neXlhnE7v964YxFgek) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:41 |
 | 60 | [More Creation](https://open.spotify.com/track/0UEFVv1SWszuI53WXwKfSv) | [Lennie Hibbert](https://open.spotify.com/artist/5t4dVHPMK33Uj2B89FSnW2) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 4:18 |
 
-Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMDkzMzJmNmNkMGE5ZWE0ZjA5YjNhZWVhZWQxMTI3ODY2`
+Snapshot ID: `MTYxOTE3MTcwNCwwMDAwMDAwMDNhOGJiYTE1ZWJhODMyMjI3MjE2NjI4NGEwOGU2Y2Qz`

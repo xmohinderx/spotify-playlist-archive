@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 100380,
+  "num_followers": 100444,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDUyNjRlOWZhOWYzYWFhMzY1Y2VmZWE5MDYyNmU3YTU0",
+  "snapshot_id": "MTYyMzQ3MDQ0MCwwMDAwMDAwMDdkMzJiMDFiZjUxYjE5MGIxYzUzNzE1ODAxYzQwYjU4",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -967,6 +967,22 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Canvas And Clay",
+        "url": "https://open.spotify.com/album/0ieC6he8hVPvd5bKhlUS8W"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "Canvas And Clay",
+      "url": "https://open.spotify.com/track/0HKt9URk2klsxEqbXqAycM"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Gold (Live)",
         "url": "https://open.spotify.com/album/5lV5gYbkW9MTdw3zvTgMTP"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 499053,
       "name": "Gold - Live",
       "url": "https://open.spotify.com/track/3e3PZTlVvygogXLMiMkFds"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Canvas And Clay",
-        "url": "https://open.spotify.com/album/0ieC6he8hVPvd5bKhlUS8W"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Canvas And Clay",
-      "url": "https://open.spotify.com/track/0HKt9URk2klsxEqbXqAycM"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "The Way Home",
-        "url": "https://open.spotify.com/album/5xAZWDWT0Gnh3cxzOyqZzM"
-      },
-      "artists": [
-        {
-          "name": "The McClures",
-          "url": "https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Only Have One",
-      "url": "https://open.spotify.com/track/4SS5I07LIsF5REanttcAkV"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -1143,22 +1119,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Fearless / Fill Up The Sky (Live)",
-        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
+        "name": "The Way Home",
+        "url": "https://open.spotify.com/album/5xAZWDWT0Gnh3cxzOyqZzM"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+          "name": "The McClures",
+          "url": "https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI"
         },
         {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
         }
       ],
-      "duration_ms": 280519,
-      "name": "Fearless - Live",
-      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
+      "duration_ms": 186826,
+      "name": "Only Have One",
+      "url": "https://open.spotify.com/track/4SS5I07LIsF5REanttcAkV"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1175,6 +1155,26 @@
       "duration_ms": 225472,
       "name": "Nothing But Good",
       "url": "https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Fearless / Fill Up The Sky (Live)",
+        "url": "https://open.spotify.com/album/0FJOaqUeh18LeJMqFx9k1A"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 280519,
+      "name": "Fearless - Live",
+      "url": "https://open.spotify.com/track/5rp9r3rFr45bPTsgi18tQB"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Holy (Song Of The Ages) [Live]",
-        "url": "https://open.spotify.com/album/6C9Qq5Z8dYzLayIRc3vPSB"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Andrew Holt",
-          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
-        }
-      ],
-      "duration_ms": 381995,
-      "name": "Holy (Song Of The Ages) - Live",
-      "url": "https://open.spotify.com/track/48AddYWpZJG2ON0wA1Uae2"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "THIS MOMENT",
         "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
       },
@@ -1351,6 +1331,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Holy (Song Of The Ages) [Live]",
+        "url": "https://open.spotify.com/album/6C9Qq5Z8dYzLayIRc3vPSB"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
+        }
+      ],
+      "duration_ms": 381995,
+      "name": "Holy (Song Of The Ages) - Live",
+      "url": "https://open.spotify.com/track/48AddYWpZJG2ON0wA1Uae2"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Never Far (House Church)",
         "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Calm the Storm (Live)",
-        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
-      },
-      "artists": [
-        {
-          "name": "Union Creative",
-          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
-        }
-      ],
-      "duration_ms": 311406,
-      "name": "Calm the Storm (Live)",
-      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "All Of My Best Friends",
         "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 349000,
       "name": "Uncomplicated - Live",
       "url": "https://open.spotify.com/track/3ge06lwFn2X4s5UxN5Rj70"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Calm the Storm (Live)",
+        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
+      },
+      "artists": [
+        {
+          "name": "Union Creative",
+          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+        }
+      ],
+      "duration_ms": 311406,
+      "name": "Calm the Storm (Live)",
+      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "You Are Fullness",
-        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 320080,
-      "name": "You Are Fullness",
-      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 259399,
       "name": "PEACE",
       "url": "https://open.spotify.com/track/4D8Qp4TZCL9ibaTkIIOqWA"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "You Are Fullness",
+        "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 320080,
+      "name": "You Are Fullness",
+      "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2247,6 +2247,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "Christ is Enough",
+        "url": "https://open.spotify.com/album/5gjorSNX9eVd90pezKXiW0"
+      },
+      "artists": [
+        {
+          "name": "Dwell Songs",
+          "url": "https://open.spotify.com/artist/6RAMkZgRvrIeqrXtojaxHC"
+        },
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Christ is Enough",
+      "url": "https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Songs of the House (Live)",
         "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
       },
@@ -2267,26 +2287,6 @@
       "duration_ms": 420693,
       "name": "More Than Anything - Live",
       "url": "https://open.spotify.com/track/1KRr2mxRM0BPNoqMVg7fHX"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
-        "name": "Christ is Enough",
-        "url": "https://open.spotify.com/album/5gjorSNX9eVd90pezKXiW0"
-      },
-      "artists": [
-        {
-          "name": "Dwell Songs",
-          "url": "https://open.spotify.com/artist/6RAMkZgRvrIeqrXtojaxHC"
-        },
-        {
-          "name": "Aaron Williams",
-          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "Christ is Enough",
-      "url": "https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3"
     },
     {
       "added_at": "2021-06-12 04:00:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,789 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,284 likes - 50 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 6 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
 | 7 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 |
 | 8 | [Dimension](https://open.spotify.com/track/0pW2QctYRtN7crHRcGYaxy) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Dimension](https://open.spotify.com/album/4gsbBzVgdrPwfK84vlLluJ) | 5:55 |
-| 9 | [You Can't Stop Us](https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [You Can't Stop Us](https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM) | 2:22 |
-| 10 | [WANNA GO BANG](https://open.spotify.com/track/37vqTNt3bLeDeBVWL6tNqh) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/3L2XHaprl2pQWAIzwem33z) | 3:57 |
+| 9 | [WANNA GO BANG](https://open.spotify.com/track/37vqTNt3bLeDeBVWL6tNqh) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/3L2XHaprl2pQWAIzwem33z) | 3:57 |
+| 10 | [You Can't Stop Us](https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [You Can't Stop Us](https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM) | 2:22 |
 | 11 | [Doppler](https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Formula EP](https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5) | 7:13 |
 | 12 | [BORE/ALIS](https://open.spotify.com/track/2XjiQGuiVWAfLmpt5JCNMK) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Vision 20/20](https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM) | [DEVIN/ITION](https://open.spotify.com/album/7JPLAj9HtVO1l1eOhQN5Nc) | 4:07 |
 | 13 | [Flying Octopus](https://open.spotify.com/track/2XWBbVold8LNroIDyeockI) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Flying Octopus](https://open.spotify.com/album/1QlX9KsPeTDvPdozDwJn1F) | 3:31 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 16 | [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 |
 | 17 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
 | 18 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 |
-| 19 | [Colonia](https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0) | 3:54 |
-| 20 | [Choir Of Spirits](https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd) | 6:45 |
+| 19 | [Choir Of Spirits](https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd) | 6:45 |
+| 20 | [Colonia](https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0) | 3:54 |
 | 21 | [Future Dust \- Original Mix](https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Silence EP](https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys) | 8:29 |
 | 22 | [We All Unite](https://open.spotify.com/track/3RuegyAnJON9JSi916xbQY) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Celic](https://open.spotify.com/artist/0BhjRlNZHbZskFsNNpdNOf), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [We All Unite](https://open.spotify.com/album/00QtrIgqvR574TbpsEjhax) | 4:04 |
 | 23 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 46 | [Adrenaline](https://open.spotify.com/track/110oOecgIEMdjl5kOLtPCd) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [Adrenaline](https://open.spotify.com/album/6LLsf3g5lH1Up0v09IXajh) | 6:53 |
 | 47 | [You Look at Me](https://open.spotify.com/track/05L5ExA33eJEEiuTwXB1up) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [You Look at Me](https://open.spotify.com/album/5o5sPwEAVLG92IQVlTRTr0) | 6:07 |
 | 48 | [Obsession](https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Obsession](https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp) | 6:22 |
-| 49 | [Can't Stop the Feeling](https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ) | 3:28 |
-| 50 | [Attention](https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T) | [Attention](https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O) | 5:57 |
+| 49 | [Attention](https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T) | [Attention](https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O) | 5:57 |
+| 50 | [Can't Stop the Feeling](https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ) | 3:28 |
 
-Snapshot ID: `MTY3MTc1MDA2MCwwMDAwMDAwMDJjNDczMWEzYmNhOWFlZTAyZjRjOWJmZTMzNzllNGVl`
+Snapshot ID: `MTY3MTc1MDA2MCwwMDAwMDAwMDgyMjMxOTQ1YWViM2I2MGJkYThlMGExOGJkNGQ1YzU3`

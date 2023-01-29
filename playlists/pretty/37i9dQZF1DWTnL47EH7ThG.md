@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,734 likes - 162 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,782 likes - 162 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 23 | [Rhodes Island](https://open.spotify.com/track/7lZRdAzjThgOBGWzEYCymj) | [Yak](https://open.spotify.com/artist/0pTZMjQ7LDF0feqXskgC6O) | [3024\-FYE2](https://open.spotify.com/album/0poEv0fHiNUAt6Nlnjrxai) | 6:01 |
 | 24 | [Red Room \- Nick Hakim Remix](https://open.spotify.com/track/57VDhn2DUPl1rXuQF3bvgs) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Mood Variant \(The Remixes\)](https://open.spotify.com/album/7mozKcwF1bQhD7zmSuCzvk) | 4:59 |
 | 25 | [Meadows in Japan](https://open.spotify.com/track/0ksuu1T1H6ce6md796lU0i) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [The Leo Sun Sets](https://open.spotify.com/album/0REInqUEj53H3tJjx1ku4Q) | 2:48 |
-| 26 | [O Fim](https://open.spotify.com/track/4hX1h5KW8J6JlzzHrCNpWJ) | [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba), [Tais Feijão](https://open.spotify.com/artist/1xZ9bLUO7Aaci66Gwpf00t) | [Laroyê](https://open.spotify.com/album/6drmFnntxB3LgB0djtQw1L) | 4:00 |
+| 26 | [O Fim](https://open.spotify.com/track/4hX1h5KW8J6JlzzHrCNpWJ) | [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba), [Taís Feijão](https://open.spotify.com/artist/1xZ9bLUO7Aaci66Gwpf00t) | [Laroyê](https://open.spotify.com/album/6drmFnntxB3LgB0djtQw1L) | 4:00 |
 | 27 | [Don't Go To Sleep](https://open.spotify.com/track/1qFqDaicwEH2QQQPSWJmfa) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ), [Kahimi Karie](https://open.spotify.com/artist/3UsQ4XdEqcQ1PoUI1wV0Lb) | [Wonder Waltz](https://open.spotify.com/album/4sAnWUVfAGqGcJIIfAAwvE) | 4:31 |
 | 28 | [Still Get By](https://open.spotify.com/track/7Mi2EUBxIhhzydtBhDncXM) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Still Get By](https://open.spotify.com/album/3Kkex7K8BGnfcNnidX0m4I) | 3:25 |
 | 29 | [You the One Fish in the Sea](https://open.spotify.com/track/5TOnnVV8YxB4NnRvavrPHX) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Couldn't Wait to Tell You...](https://open.spotify.com/album/10nNQo6ebmVoyh6R39jRlf) | 2:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 
 > Sunlight! The most precious gold to be found on Earth.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,374 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,376 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,15 +14,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 4 | [Forevertime Journeys](https://open.spotify.com/track/5hpZxgvARgsbmQjQaGmYIW) | [naran ratan](https://open.spotify.com/artist/2keywPnpoD1RhMrs2Qrrsj) | [Trees etc.](https://open.spotify.com/album/0Hi7a09Vn6FuPZSsADVfsI) | 1:33 |
 | 5 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [Space Between Clouds](https://open.spotify.com/artist/5GAMzg4pAy2tTbBbiYtc2x) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 |
 | 6 | [Kintsugi](https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū](https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s) | 1:06 |
-| 7 | [Final Feliz](https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL) | [Shah Feryan](https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx) | [Focus Forward](https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR) | 3:00 |
-| 8 | [ザ・ワード II](https://open.spotify.com/track/3OCxOUUH3FUf8xk0RuWADJ) | [セキトオ・シゲオ](https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m) | [華麗なるエレクトーン \-ザ・ワード\-](https://open.spotify.com/album/2rwQ71x5mXHX162ce5ypy7) | 3:03 |
+| 7 | [ザ・ワード II](https://open.spotify.com/track/3OCxOUUH3FUf8xk0RuWADJ) | [セキトオ・シゲオ](https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m) | [華麗なるエレクトーン \-ザ・ワード\-](https://open.spotify.com/album/2rwQ71x5mXHX162ce5ypy7) | 3:03 |
+| 8 | [Final Feliz](https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL) | [Shah Feryan](https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx) | [Focus Forward](https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR) | 3:00 |
 | 9 | [Crystal Silence](https://open.spotify.com/track/5F8rPLt2c52p0SK7kiH26b) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Return To Forever](https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc) | 6:55 |
 | 10 | [Peacock Tail](https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:24 |
 | 11 | [Always Returning \- Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:04 |
 | 12 | [\#20](https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II](https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe) | 4:15 |
 | 13 | [Boreal Kiss Pt\. 1](https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Haunt Me](https://open.spotify.com/album/5MZRB9G4snRWIG0otfxJYq) | 3:28 |
-| 14 | [In a Landscape](https://open.spotify.com/track/1qbrS9PKOzsack0g7LiBhh) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s), [Alexei Lubimov](https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG) | [Der Bote](https://open.spotify.com/album/2FCodoLjwxOlCuK7KbUOMq) | 8:51 |
-| 15 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 |
+| 14 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 |
+| 15 | [In a Landscape](https://open.spotify.com/track/1qbrS9PKOzsack0g7LiBhh) | [John Cage](https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s), [Alexei Lubimov](https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG) | [Der Bote](https://open.spotify.com/album/2FCodoLjwxOlCuK7KbUOMq) | 8:51 |
 | 16 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 |
 | 17 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 |
 | 18 | [Chromakey Dreamcoat](https://open.spotify.com/track/2YxoC2dYOotjqt08dEifsc) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:47 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNeg74zvBUZ.md) - [plain]
 | 42 | [Dawn Chorus](https://open.spotify.com/track/7LY0R33pPIFr0Y64VZC9Wo) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 3:55 |
 | 43 | [Celeste](https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 4:22 |
 | 44 | [Cigarra](https://open.spotify.com/track/6mESobRGEJZZAPF0pHzREQ) | [Fábio Caramuru](https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH) | [Ecomúsica: Conversas de um Piano Com a Fauna Brasileira](https://open.spotify.com/album/40tSqhnInwzfSBMC75n3rM) | 5:03 |
-| 45 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
-| 46 | [Integration](https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ) | [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn), [Ruby Chase](https://open.spotify.com/artist/7z3jWevFVKWVvlSbPVpjeq), [Bliss Looper](https://open.spotify.com/artist/2vcc8a70GimYU5JkdSngnN), [OPUS](https://open.spotify.com/artist/4iLJWObQDJTdSs6nmll4zU) | [Attract](https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA) | 2:54 |
-| 47 | [Brockley](https://open.spotify.com/track/5gz0QlcMMxQXZgXC1uvi5k) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 4:48 |
+| 45 | [Integration](https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ) | [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn), [Ruby Chase](https://open.spotify.com/artist/7z3jWevFVKWVvlSbPVpjeq), [Bliss Looper](https://open.spotify.com/artist/2vcc8a70GimYU5JkdSngnN), [OPUS](https://open.spotify.com/artist/4iLJWObQDJTdSs6nmll4zU) | [Attract](https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA) | 2:54 |
+| 46 | [Brockley](https://open.spotify.com/track/5gz0QlcMMxQXZgXC1uvi5k) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 4:48 |
+| 47 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
 | 48 | [Rebecca's Theme \(Water\)](https://open.spotify.com/track/5JA1wMXh6C072LePIqWTdR) | [A.R.T\. Wilson](https://open.spotify.com/artist/3Ml899ULPFArc5T9GpwgRp) | [Overworld](https://open.spotify.com/album/5I4w85SAzHx1ZApr0ddtzH) | 4:36 |
 | 49 | [Yulquen](https://open.spotify.com/track/3PGYnbU4HJDUw01PrME2pz) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:37 |
 | 50 | [Dwellberry](https://open.spotify.com/track/6924XH4uThVPk4CpFv30gG) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Beautiful You](https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m) | 4:43 |
 
-Snapshot ID: `MTY3MTYwMjQwMCwwMDAwMDAwMDVlZDkyNDgxNmY1NTkyOTYzODE2ZTQ2ZjQ3NDdjM2Vm`
+Snapshot ID: `MTY3MTYwMjQwMCwwMDAwMDAwMDk1YzA0NjEyMTZjMWYzNDU3NmQ1NDBlMDc4MzA0ZWU4`

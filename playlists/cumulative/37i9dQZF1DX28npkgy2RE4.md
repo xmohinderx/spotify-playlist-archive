@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Drugdealer
 
-376 songs - 23 hr 10 min
+377 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Holding to the Edge of Night](https://open.spotify.com/track/2xQRU3yzgKLWePziCfk4JC) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Holding to the Edge of Night](https://open.spotify.com/album/179Hyos6TP14mIZAMplcaI) | 4:43 | 2021-11-12 | 2022-07-29 |
 | [Home Truths](https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Home Truths](https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7) | 3:37 | 2022-04-01 | 2022-04-21 |
 | [Hope Dreams](https://open.spotify.com/track/4UqOJtePJLOlG6enQq7NEE) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Hope Dreams](https://open.spotify.com/album/2Gjb3T1btQMnGtSYl6c1HD) | 4:42 | 2021-11-12 | 2022-06-12 |
-| [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 | 2021-11-12 |  |
+| [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 | 2021-11-12 | 2023-01-29 |
 | [Hot Heavy Summer](https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Another Friday Night / Hot Heavy Summer / Sister](https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa) | 3:49 | 2021-11-12 |  |
 | [Hurricane](https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Hurricane](https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW) | 4:26 | 2022-05-25 |  |
 | [Hush](https://open.spotify.com/track/3bb0LediTuPlmgVUJqq447) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Hush](https://open.spotify.com/album/3xX7LI0JGsHRXcSycsWBAi) | 2:35 | 2021-11-12 | 2022-04-19 |
@@ -295,6 +295,7 @@
 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 | 2022-07-11 |  |
 | [Seventeen](https://open.spotify.com/track/7yMYqHqzye8vtyiHqdVlZw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS) | 4:25 | 2021-11-12 | 2022-07-29 |
 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 | 2021-11-12 |  |
+| [Shine](https://open.spotify.com/track/2hxxoC0rF7UkUuaY9Lagjx) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Shine](https://open.spotify.com/album/6OzPiCJQmxVRKgYlD5XMMJ) | 3:56 | 2023-01-27 |  |
 | [Shoot](https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:37 | 2022-07-11 | 2022-10-13 |
 | [Shoot](https://open.spotify.com/track/6UoWQZQch4z3T1sLcvglrM) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Shoot](https://open.spotify.com/album/24tDJbgQSZNPZKKHKXV3Tj) | 2:37 | 2022-04-01 | 2022-04-20 |
 | [Shoot](https://open.spotify.com/track/6xLf6gcZR4CPXrFrhzqqYu) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 2:37 | 2022-10-14 |  |

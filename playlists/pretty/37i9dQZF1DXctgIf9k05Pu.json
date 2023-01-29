@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 218170,
+  "num_followers": 218337,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDAwNTVlNzk1Y2NkMDRjZGQzOGYzN2M3NmE4NmQ1YzFl",
+  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDZmMzQ2NWVkYTE3NzRjOTJiYjU4YTNmYzYwOGM5NDhk",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M"
+      },
+      "artists": [
+        {
+          "name": "Home",
+          "url": "https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P"
+        }
+      ],
+      "duration_ms": 212881,
+      "name": "Resonance",
+      "url": "https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB"
       },
@@ -239,26 +255,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Eyes Blue Like The Atlantic (feat. Subvrbs)",
-        "url": "https://open.spotify.com/album/5UYjxc4HIYeesKS0WJlhEI"
-      },
-      "artists": [
-        {
-          "name": "Sista Prod",
-          "url": "https://open.spotify.com/artist/7cSbcJTJBBSXDjRNR2qD61"
-        },
-        {
-          "name": "Subvrbs",
-          "url": "https://open.spotify.com/artist/0NVy1xEsz4i8pX33Scv75n"
-        }
-      ],
-      "duration_ms": 154599,
-      "name": "Eyes Blue Like The Atlantic (feat. Subvrbs)",
-      "url": "https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Can't Take My Eyes off You",
         "url": "https://open.spotify.com/album/76GPbP7KEgSGqDsyJ2FN1T"
       },
@@ -279,18 +275,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M"
+        "name": "Eyes Blue Like The Atlantic (feat. Subvrbs)",
+        "url": "https://open.spotify.com/album/5UYjxc4HIYeesKS0WJlhEI"
       },
       "artists": [
         {
-          "name": "Home",
-          "url": "https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P"
+          "name": "Sista Prod",
+          "url": "https://open.spotify.com/artist/7cSbcJTJBBSXDjRNR2qD61"
+        },
+        {
+          "name": "Subvrbs",
+          "url": "https://open.spotify.com/artist/0NVy1xEsz4i8pX33Scv75n"
         }
       ],
-      "duration_ms": 212881,
-      "name": "Resonance",
-      "url": "https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT"
+      "duration_ms": 154599,
+      "name": "Eyes Blue Like The Atlantic (feat. Subvrbs)",
+      "url": "https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -859,18 +859,18 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "unexpected",
-        "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
+        "name": "recreation",
+        "url": "https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg"
       },
       "artists": [
         {
-          "name": "eevee",
-          "url": "https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q"
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
         }
       ],
-      "duration_ms": 86571,
-      "name": "viola",
-      "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
+      "duration_ms": 112941,
+      "name": "fountain",
+      "url": "https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT"
     }
   ],
   "unique_name": "Aesthetic Lofi",

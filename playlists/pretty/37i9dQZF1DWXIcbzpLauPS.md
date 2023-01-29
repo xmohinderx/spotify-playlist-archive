@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: August Burns Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,652 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,858 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 34 | [Hip To Be Scared](https://open.spotify.com/track/4lEbtjtLpF0YxRCFWeswAG) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Shower Scene Playlist](https://open.spotify.com/album/273LyHQV9St48MzqO73UkX) | 3:25 |
 | 35 | [This Means War](https://open.spotify.com/track/4f1Bxzgor1HNbdm2kGl8mL) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine \(Deluxe\)](https://open.spotify.com/album/6FqFZ1gdiCXhCPWhFbF1fF) | 3:55 |
 | 36 | [Plagued](https://open.spotify.com/track/6xC8tcFBMMjJIyfPw66lDF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 3:29 |
-| 37 | [Heretic](https://open.spotify.com/track/4whGYZQVkjI7r1hAyc4BFY) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [Novelists](https://open.spotify.com/artist/0qoFZbsF9OQmTrtBB5RlTx) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:22 |
+| 37 | [Heretic](https://open.spotify.com/track/4whGYZQVkjI7r1hAyc4BFY) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:22 |
 | 38 | [Reaper](https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Reaper](https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051) | 3:19 |
 | 39 | [Salt](https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Salt](https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0) | 3:27 |
 | 40 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |

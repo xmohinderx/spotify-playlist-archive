@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 123299,
+  "num_followers": 123505,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODQxNzMxMCwwMDAwMDAwMDVjMjU4NDJmYTkwMWJmNjBkYjlmMjU5MTJiNzFlYzQw",
+  "snapshot_id": "MTY2ODQxNzMxMCwwMDAwMDAwMGQxMGUyNzY2YTBmZjQ5ZDY4MjZhZjk3MDgxOGQwNGUx",
   "tracks": [
     {
       "added_at": "2022-11-14 09:15:10",
@@ -1315,42 +1315,22 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "Astronomia",
-        "url": "https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL"
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z"
       },
       "artists": [
         {
-          "name": "Vicetone",
-          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Tony Igy",
-          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
         }
       ],
-      "duration_ms": 198095,
-      "name": "Astronomia",
-      "url": "https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve"
-    },
-    {
-      "added_at": "2022-11-14 09:15:10",
-      "album": {
-        "name": "Intense",
-        "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "This Is What It Feels Like",
-      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+      "duration_ms": 169160,
+      "name": "Freaks - Radio Edit",
+      "url": "https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3"
     },
     {
       "added_at": "2022-11-14 09:15:10",
@@ -1375,22 +1355,42 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "Freaks",
-        "url": "https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z"
+        "name": "Intense",
+        "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
         }
       ],
-      "duration_ms": 169160,
-      "name": "Freaks - Radio Edit",
-      "url": "https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3"
+      "duration_ms": 204360,
+      "name": "This Is What It Feels Like",
+      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+    },
+    {
+      "added_at": "2022-11-14 09:15:10",
+      "album": {
+        "name": "Astronomia",
+        "url": "https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Tony Igy",
+          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Astronomia",
+      "url": "https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve"
     },
     {
       "added_at": "2022-11-14 09:15:10",
@@ -1671,8 +1671,8 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "Clarity (Deluxe)",
-        "url": "https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy"
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
       "artists": [
         {
@@ -1680,13 +1680,13 @@
           "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         },
         {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 217346,
-      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
-      "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP"
+      "duration_ms": 240000,
+      "name": "I Want You To Know",
+      "url": "https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP"
     },
     {
       "added_at": "2022-11-14 09:15:10",
@@ -1819,8 +1819,8 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+        "name": "Clarity (Deluxe)",
+        "url": "https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy"
       },
       "artists": [
         {
@@ -1828,13 +1828,13 @@
           "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         },
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
         }
       ],
-      "duration_ms": 240000,
-      "name": "I Want You To Know",
-      "url": "https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP"
+      "duration_ms": 217346,
+      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
+      "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP"
     },
     {
       "added_at": "2022-11-14 09:15:10",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "All Around The World (La La La)",
-        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "A Touch Of Class",
-          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "All Around The World (La La La)",
-      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
-    },
-    {
-      "added_at": "2022-11-14 09:15:10",
-      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
       },
@@ -1899,6 +1879,26 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
+        "name": "All Around The World (La La La)",
+        "url": "https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "A Touch Of Class",
+          "url": "https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "All Around The World (La La La)",
+      "url": "https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy"
+    },
+    {
+      "added_at": "2022-11-14 09:15:10",
+      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5"
       },
@@ -1911,6 +1911,26 @@
       "duration_ms": 196489,
       "name": "17",
       "url": "https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR"
+    },
+    {
+      "added_at": "2022-11-14 09:15:10",
+      "album": {
+        "name": "Omen (Radio Edit)",
+        "url": "https://open.spotify.com/album/2Vd3aVbpKUyRq42B7xd2HW"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 196817,
+      "name": "Omen - Radio Edit",
+      "url": "https://open.spotify.com/track/78EQ5LZGgviMU9k0zrqv1r"
     },
     {
       "added_at": "2022-11-14 09:15:10",
@@ -1943,26 +1963,6 @@
       "duration_ms": 183750,
       "name": "#SELFIE",
       "url": "https://open.spotify.com/track/1HOlb9rdNOmy9b1Fakicjo"
-    },
-    {
-      "added_at": "2022-11-14 09:15:10",
-      "album": {
-        "name": "Omen (Radio Edit)",
-        "url": "https://open.spotify.com/album/2Vd3aVbpKUyRq42B7xd2HW"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 196817,
-      "name": "Omen - Radio Edit",
-      "url": "https://open.spotify.com/track/78EQ5LZGgviMU9k0zrqv1r"
     }
   ],
   "unique_name": "Dance Hits 2010s",

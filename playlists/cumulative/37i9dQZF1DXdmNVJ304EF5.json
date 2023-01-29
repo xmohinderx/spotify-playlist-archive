@@ -554,7 +554,7 @@
     {
       "album": {
         "name": "Cutting Our Teeth",
-        "url": "https://open.spotify.com/album/54pbN8eqhVv6lniXOk7FNv"
+        "url": "https://open.spotify.com/album/6k7LABEa4IbFLMpCfHYxKb"
       },
       "artists": [
         {
@@ -565,6 +565,24 @@
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216426,
+      "name": "Nothing Good Has Happened Yet",
+      "url": "https://open.spotify.com/track/4P4OboFVHRhISaaUgkNs8i"
+    },
+    {
+      "album": {
+        "name": "Cutting Our Teeth",
+        "url": "https://open.spotify.com/album/54pbN8eqhVv6lniXOk7FNv"
+      },
+      "artists": [
+        {
+          "name": "We Are The Ocean",
+          "url": "https://open.spotify.com/artist/5RTzLFUNaRULfg2DPh5DPO"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
       "duration_ms": 216426,
       "name": "Nothing Good Has Happened Yet",
       "url": "https://open.spotify.com/track/6EIu1N3745xkJ2qxeykWzU"
@@ -834,10 +852,28 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 214333,
       "name": "The Waiting Room",
       "url": "https://open.spotify.com/track/1BZQAtchKkqcz4NFeMI5Zw"
+    },
+    {
+      "album": {
+        "name": "Go Now and Live",
+        "url": "https://open.spotify.com/album/44GnKNNOe8FHcYp8Ehs5wt"
+      },
+      "artists": [
+        {
+          "name": "We Are The Ocean",
+          "url": "https://open.spotify.com/artist/5RTzLFUNaRULfg2DPh5DPO"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214333,
+      "name": "The Waiting Room",
+      "url": "https://open.spotify.com/track/576dgVw2PVAX58Sc2lEU7U"
     },
     {
       "album": {

@@ -3133,6 +3133,24 @@
     },
     {
       "album": {
+        "name": "Coaxial",
+        "url": "https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6"
+      },
+      "artists": [
+        {
+          "name": "Bandler Ching",
+          "url": "https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310464,
+      "name": "Smooch",
+      "url": "https://open.spotify.com/track/0mxkPFP9OWqJNdqq5TlmzQ"
+    },
+    {
+      "album": {
         "name": "Smooch",
         "url": "https://open.spotify.com/album/31IsaPnb2hEtcBzd7SGFNL"
       },
@@ -3144,7 +3162,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 310464,
       "name": "Smooch",
       "url": "https://open.spotify.com/track/5E4NPgrMaD2T8TAJIAR6A9"

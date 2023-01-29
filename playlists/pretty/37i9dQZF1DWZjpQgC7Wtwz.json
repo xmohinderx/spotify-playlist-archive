@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hay tamales! \u00a1Tamales calientitos! Verdes, rojos, de dulce, de mole, \u00a1y hasta oaxaque\u00f1os!",
-  "num_followers": 56685,
+  "num_followers": 56804,
   "original_name": "La Tamalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM5Mzc5OSwwMDAwMDAwMGEwMjIyZmVhODAwNGYwNGFjNWU4OTg0NzQzY2U2M2Nl",
+  "snapshot_id": "MTY3MzM5Mzc5OSwwMDAwMDAwMGE1ZjNmY2RkMjZlZGNlODRkYmVhODEyZDExNTE4MDE2",
   "tracks": [
     {
       "added_at": "2023-01-10 23:36:39",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-01-10 23:36:39",
       "album": {
-        "name": "Dharma",
-        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"
-    },
-    {
-      "added_at": "2023-01-10 23:36:39",
-      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 239310,
       "name": "Dame un Beso y Dime Adios - En Vivo",
       "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+    },
+    {
+      "added_at": "2023-01-10 23:36:39",
+      "album": {
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"
     },
     {
       "added_at": "2023-01-10 23:36:39",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/3GSMdtJphymHEsR8K9jT5Q"
     },
     {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
-        "name": "Canci\u00f3n Animal (Remastered)",
-        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 212746,
-      "name": "De M\u00fasica Ligera - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
-    },
-    {
       "added_at": "2023-01-10 23:36:39",
       "album": {
         "name": "Cabron Yo Puedo",
@@ -479,6 +463,22 @@
       "duration_ms": 195895,
       "name": "Cabron Yo Puedo",
       "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Canci\u00f3n Animal (Remastered)",
+        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 212746,
+      "name": "De M\u00fasica Ligera - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Destilando Amor",
-        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Todo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "Repeat After Me",
         "url": "https://open.spotify.com/album/0ak3Koxz3InlEVLwCnMC6E"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 239626,
       "name": "La Que Me Gusta",
       "url": "https://open.spotify.com/track/1TdaQqgKRbiFdO15q1kv6e"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Destilando Amor",
+        "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Todo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -979,22 +979,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 217521,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
         "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 242648,
       "name": "Desde El Fondo De Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "El Baile de San Juan",
-        "url": "https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta"
-      },
-      "artists": [
-        {
-          "name": "Grupo La Chomba",
-          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
-        }
-      ],
-      "duration_ms": 254375,
-      "name": "El Baile de San Juan",
-      "url": "https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg"
-    },
-    {
-      "added_at": "2021-11-30 20:14:28",
-      "album": {
         "name": "Ch\u00fantaros Radio Poder",
         "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 245481,
       "name": "C\u00edrculo De Amor",
       "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
+    },
+    {
+      "added_at": "2021-11-30 20:14:28",
+      "album": {
+        "name": "El Baile de San Juan",
+        "url": "https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Chomba",
+          "url": "https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd"
+        }
+      ],
+      "duration_ms": 254375,
+      "name": "El Baile de San Juan",
+      "url": "https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "Nuevas Metas",
-        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
+        "name": "The Return of El Santo",
+        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
       },
       "artists": [
         {
-          "name": "La Factoria",
-          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
+          "name": "King Chango",
+          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
         }
       ],
-      "duration_ms": 208169,
-      "name": "Morir\u00e9",
-      "url": "https://open.spotify.com/track/0BesqvlvkbU9FZMiQHrIzA"
+      "duration_ms": 287013,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
     },
     {
       "added_at": "2021-11-30 20:14:28",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2021-11-30 20:14:28",
       "album": {
-        "name": "The Return of El Santo",
-        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
+        "name": "Nuevas Metas",
+        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
       },
       "artists": [
         {
-          "name": "King Chango",
-          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
         }
       ],
-      "duration_ms": 287013,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
+      "duration_ms": 208169,
+      "name": "Morir\u00e9",
+      "url": "https://open.spotify.com/track/0BesqvlvkbU9FZMiQHrIzA"
     },
     {
       "added_at": "2021-11-30 20:14:28",

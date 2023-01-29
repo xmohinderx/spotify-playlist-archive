@@ -1,12 +1,12 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 31884,
+  "num_followers": 31963,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMDFjNjY0ZTE4MGQwZDM4M2VjNzJkYWQ5NmU3YjQxMTI0",
+  "snapshot_id": "MTY2MTk3NTU4OCwwMDAwMDAwMGI4MDYyNjM3Zjk4MjJjZDg2ODc1NWM4NTU0NmMzYzg3",
   "tracks": [
     {
       "added_at": "2022-08-31 19:45:43",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Keep Diggin\u2019",
-      "url": "https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Moonshine Blue",
         "url": "https://open.spotify.com/album/4w7N0SsMduNWCXAIVUONWw"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 168752,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/5pzZNwKYPFrI9UidaDcH9J"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Keep Diggin\u2019",
+      "url": "https://open.spotify.com/track/2wD0XO7uJWtwdp7p3U1YwI"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Eric Tessmer 2",
-        "url": "https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD"
-      },
-      "artists": [
-        {
-          "name": "Eric Tessmer",
-          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
-        }
-      ],
-      "duration_ms": 249826,
-      "name": "Good So Bad",
-      "url": "https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Nobody's Wrong",
         "url": "https://open.spotify.com/album/2nQsviBF5EfSr3V5zGjjTp"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+        "name": "Eric Tessmer 2",
+        "url": "https://open.spotify.com/album/6P3z7MA4EFR2nC3JLBtesD"
       },
       "artists": [
         {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+          "name": "Eric Tessmer",
+          "url": "https://open.spotify.com/artist/6iX9NroXEFPMatQ24ghK7C"
         }
       ],
-      "duration_ms": 192351,
-      "name": "Tears Of Blue To Gold",
-      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
+      "duration_ms": 249826,
+      "name": "Good So Bad",
+      "url": "https://open.spotify.com/track/5xDXfTxwPm7Zecypbub0Gs"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -575,6 +559,22 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 192351,
+      "name": "Tears Of Blue To Gold",
+      "url": "https://open.spotify.com/track/1Pcj2cc5mMvIUfZ7HgfHaD"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
         "name": "Healing Creek",
         "url": "https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6"
       },
@@ -619,6 +619,46 @@
       "duration_ms": 176026,
       "name": "Howlin'",
       "url": "https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "The Juice",
+        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "The Juice (feat. Marcus King)",
+      "url": "https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Come On",
+        "url": "https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX"
+      },
+      "artists": [
+        {
+          "name": "Artur Menezes",
+          "url": "https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -687,22 +727,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
+        "name": "Homemade Disaster",
+        "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
         }
       ],
-      "duration_ms": 187026,
-      "name": "The Juice (feat. Marcus King)",
-      "url": "https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY"
+      "duration_ms": 194564,
+      "name": "Homemade Disaster",
+      "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -723,42 +759,6 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Come On",
-        "url": "https://open.spotify.com/album/5UItOyIYBjcLlCESGf9fDX"
-      },
-      "artists": [
-        {
-          "name": "Artur Menezes",
-          "url": "https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "Come On",
-      "url": "https://open.spotify.com/track/7m1a5EhEx1qA4fWSqRLvaO"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Homemade Disaster",
-        "url": "https://open.spotify.com/album/07aWecL4qu105qqgmTbvA1"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 194564,
-      "name": "Homemade Disaster",
-      "url": "https://open.spotify.com/track/77jnDAj554H9X82zqhOXYz"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
         "name": "Don't Tell Me No Lies",
         "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 147423,
       "name": "Don't Tell Me No Lies",
       "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
-    },
-    {
-      "added_at": "2022-08-31 19:45:43",
-      "album": {
-        "name": "Reaching",
-        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
-      },
-      "artists": [
-        {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Reaching",
-      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -807,22 +791,18 @@
     {
       "added_at": "2022-08-31 19:45:43",
       "album": {
-        "name": "Have You Lost Your Mind yet?",
-        "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
+        "name": "Reaching",
+        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
       },
       "artists": [
         {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          "name": "Ida Mae",
+          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
         }
       ],
-      "duration_ms": 225551,
-      "name": "Searching for Captain Save a Hoe",
-      "url": "https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9"
+      "duration_ms": 195466,
+      "name": "Reaching",
+      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
     },
     {
       "added_at": "2022-08-31 19:45:43",
@@ -839,6 +819,22 @@
       "duration_ms": 169000,
       "name": "Them That Matter Don't Mind",
       "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
+    },
+    {
+      "added_at": "2022-08-31 19:45:43",
+      "album": {
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "Love Your Lies",
+      "url": "https://open.spotify.com/track/28tee7ARpnxcoTuUQpriWl"
     },
     {
       "added_at": "2022-08-31 19:45:43",

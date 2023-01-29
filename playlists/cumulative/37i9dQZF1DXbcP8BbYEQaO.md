@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-491 songs - 1 day 3 hr 47 min
+493 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/34zZugFmhTGDTO61jT8lyX) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [PLAYGIRL](https://open.spotify.com/album/0hKVypyK1PsoVe3Rjvml0X) | 2:26 | 2022-10-14 | 2022-12-10 |
 | [Crumbs](https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Crumbs](https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ) | 3:13 | 2022-11-18 |  |
 | [Cynical](https://open.spotify.com/track/2LW4Bkirg94ae861UMg4bW) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Cynical](https://open.spotify.com/album/6CkRa8wMIAPDJYiPXA6nHp) | 3:09 | 2020-10-13\* | 2021-09-25 |
-| [Dance Alone](https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:33 | 2021-09-11 |  |
+| [Dance Alone](https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:33 | 2021-09-11 | 2023-01-29 |
 | [Dance Away The Pain](https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg) | [Number One Popstar](https://open.spotify.com/artist/26K6dJKDXGJc5TRt0sOD3q) | [Dance Away The Pain](https://open.spotify.com/album/21WomUkBD1tJBCAH0Ow7in) | 2:56 | 2022-05-13 |  |
 | [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 | 2022-05-27 | 2022-10-16 |
 | [Dance Like This](https://open.spotify.com/track/3O8682mukvr6oq0YWDuwX6) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Nothing Lasts Forever And That's OK](https://open.spotify.com/album/2jsBB0Mq3vX9FHLQPZ1gyH) | 3:07 | 2021-11-06 | 2022-04-17 |
@@ -279,7 +279,7 @@
 | [Lola](https://open.spotify.com/track/5VDmaEUjH0SGBDDjYgoxHW) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Lola](https://open.spotify.com/album/5U2Q1Z8FtcW5UPXKLK5753) | 2:41 | 2022-04-08 | 2022-07-12 |
 | [Lonely City](https://open.spotify.com/track/2r7gAghIWiDqpZE6t4ah0K) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Lonely City](https://open.spotify.com/album/4lqzfpAcP353PitY2PAH0M) | 2:37 | 2021-10-09 | 2022-04-17 |
 | [Lose Yourself](https://open.spotify.com/track/50BCSiudZXPTLHWkQzulII) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Lose Yourself](https://open.spotify.com/album/31uaGLLLoSZcNLRjFviWfk) | 3:16 | 2022-04-29 | 2022-07-29 |
-| [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 | 2022-03-25 |  |
+| [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 | 2022-03-25 | 2023-01-29 |
 | [Love Her](https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:13 | 2020-10-13\* | 2021-02-19 |
 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-14 |  |
 | [Love Story \(Taylor's Version\) \- Elvira Remix](https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [ELVIRA](https://open.spotify.com/artist/4nhsQ3u12To27WM6rqNEa1) | [Love Story \(Taylor's Version\) \[Elvira Remix\]](https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA) | 3:31 | 2021-06-19 | 2021-07-10 |
@@ -330,6 +330,7 @@
 | [Oceans Away](https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [GALLERY](https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE) | 3:14 | 2020-10-13\* | 2021-10-12 |
 | [Oceansize](https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:43 | 2021-02-19 | 2022-01-15 |
 | [Off](https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Off](https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8) | 2:45 | 2021-06-26 | 2021-12-04 |
+| [Oh Laura](https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 3:36 | 2023-01-27 |  |
 | [Oh, Lover \- Edit](https://open.spotify.com/track/4WnASAjxOLAW4J4ZeAtKq3) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Oh, Lover](https://open.spotify.com/album/3gk7WjSt7KKF6SNezrQc4I) | 3:33 | 2022-08-19 | 2022-11-19 |
 | [Our Way Home \(Re\-Work\)](https://open.spotify.com/track/5iviRSZyd7GNlaERSDr69L) | [Flora Fauna](https://open.spotify.com/artist/2oTotWwl83oAocMNwsEWW1), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Our Way Home \(Re\-Work\)](https://open.spotify.com/album/79drYmMiLBgkr7dtoRoRyN) | 2:59 | 2022-01-14 | 2022-03-12 |
 | [Out \(Out\)](https://open.spotify.com/track/4LZEs2TkZLQcCmaHa6GBfH) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Out \(Out\)](https://open.spotify.com/album/2yklb70De4aHLT2bTlJX3d) | 4:24 | 2022-02-18 | 2022-03-26 |
@@ -461,6 +462,7 @@
 | [Traffic Lights](https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Traffic Lights](https://open.spotify.com/album/374RbvDWAdosSKBLYOjh5z) | 3:24 | 2021-08-28 | 2022-03-09 |
 | [Traitor](https://open.spotify.com/track/13AxsHppGvU1LsftFSuAJV) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Traitor](https://open.spotify.com/album/3pCnOxJezgI4KmcKMznAE7) | 2:57 | 2021-06-26 | 2022-01-08 |
 | [Treat Me Right](https://open.spotify.com/track/6NkOdTkgyQk5fSEtwGYpE6) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/03hafzXxELqD67fD1siVhS) | 3:08 | 2022-03-31 | 2022-07-28 |
+| [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-01-27 |  |
 | [Twennies](https://open.spotify.com/track/28LNs1oQ8met8Ul8p8RHbe) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/5rdmUTXVk9cVxOMknuSzUx) | 2:51 | 2022-09-09 | 2022-09-17 |
 | [Twennies \- The Knocks Remix](https://open.spotify.com/track/2udzkXs8wSPiRNDmzomieS) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Twennies \(The Knocks Remix\)](https://open.spotify.com/album/7kspnaid8DF0EbhsIVyv86) | 4:08 | 2022-11-11 | 2023-01-28 |
 | [Twenty Something](https://open.spotify.com/track/6tn96Btxy5ysJADC6cXGz8) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Twenty Something](https://open.spotify.com/album/51WevfxIZpP81UzN8t3h72) | 4:36 | 2020-10-13\* | 2021-11-20 |

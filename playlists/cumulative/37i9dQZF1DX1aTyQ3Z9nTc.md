@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-287 songs - 15 hr 48 min
+288 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Birthday Suit](https://open.spotify.com/track/42y2nvLMc5wLFWW8z6j97b) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Birthday Suit](https://open.spotify.com/album/5I90hkoIV4dsuc6cWud8lE) | 2:52 | 2021-07-26 | 2022-07-29 |
 | [Bleu \(better with time\)](https://open.spotify.com/track/1VqS6b1NqGRTkO3NzQpJG7) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 3:16 | 2022-09-23 | 2022-11-17 |
 | [Bleu \(better with time\)](https://open.spotify.com/track/42RIuav2MTQs3TEelnQDa3) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Bleu \(better with time\)](https://open.spotify.com/album/15vlMi5OpGkF6JSxwUTYjF) | 3:16 | 2022-09-23 | 2022-11-10 |
+| [Bleu \(better with time\)](https://open.spotify.com/track/7c584s9RZQzkJDoC08VDJB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 3:16 | 2022-09-23 |  |
 | [Bleu \(better with time\)](https://open.spotify.com/track/7mRD0qvI5y0SZ4DPhpejdd) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 3:16 | 2022-09-23 | 2023-01-16 |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 | 2022-05-02 | 2022-07-31 |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/7IE6uE2NqL9SI5gOSeNi3r) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/album/0nmhxFpBG8CgdjeoomP4go) | 2:30 | 2021-07-26 | 2022-06-30 |
@@ -139,7 +140,7 @@
 | [Legend](https://open.spotify.com/track/1zabe8PVAoBuXV2SEX1vHh) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [Legend](https://open.spotify.com/album/5MkETrviQO7fINnC1NxDBx) | 2:43 | 2021-07-26 | 2022-07-21 |
 | [LENTO](https://open.spotify.com/track/5itlL5Er5CjSF7wvwXRWjf) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [LENTO](https://open.spotify.com/album/2fLdB0D2o2OT83ucjja1y5) | 2:43 | 2021-07-26 | 2022-07-28 |
 | [Let It Go \(Powers Pleasant Remix\)](https://open.spotify.com/track/6NDYMmV5pkKIFtK52nVlgk) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj), [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Let It Go \(Powers Pleasant Remix\)](https://open.spotify.com/album/24Khcazx00lHjrKoFNVF9V) | 4:21 | 2021-09-22 | 2022-07-29 |
-| [LET IT RAIN](https://open.spotify.com/track/0zPiT8nesNRCXKWvK7ryHh) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN](https://open.spotify.com/album/3JYRLABN6Vnnq7aEb39mZ4) | 3:41 | 2022-07-30 |  |
+| [LET IT RAIN](https://open.spotify.com/track/0zPiT8nesNRCXKWvK7ryHh) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN](https://open.spotify.com/album/3JYRLABN6Vnnq7aEb39mZ4) | 3:41 | 2022-07-30 | 2023-01-29 |
 | [LEVITATING](https://open.spotify.com/track/7m2vAXNpppWZoPungWEtsg) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [LEVITATING](https://open.spotify.com/album/2zZoFGnYYwphZictbgyYhg) | 2:18 | 2021-07-26 | 2022-07-16 |
 | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/track/2AilPQNd3s6oxFstz2ZZ4n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/album/25rxE7bpEZ6SSIcJd22040) | 3:11 | 2021-07-26 | 2022-07-31 |
 | [Like We Used To](https://open.spotify.com/track/0Hh84pTrYZ3tKM8YgKipEV) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD) | [Like We Used To](https://open.spotify.com/album/7iCauSViOr9OzYbq7Hpa6V) | 3:52 | 2021-07-26 | 2022-07-29 |

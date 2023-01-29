@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=iHqHkVWIT\_6yD\_naV\-alBA"> Tyla</a>
 
-259 songs - 13 hr 31 min
+260 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 | 2022-08-18 |  |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2021-12-02 | 2022-07-29 |
 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-06-08 | 2022-09-26 |
+| [emiliana](https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:46 | 2023-01-27 |  |
 | [emiliana](https://open.spotify.com/track/6cWath96kzfqITDd6S0El8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:46 | 2022-06-08 | 2023-01-28 |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2021-09-27 | 2022-10-29 |
 | [Everything](https://open.spotify.com/track/3uNmnnXNB9mlBhit0jR75o) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [The Prince I Became](https://open.spotify.com/album/1ZFqA3I9luYn3JCzeUvkjB) | 4:05 | 2021-09-27 | 2022-02-11 |
@@ -120,7 +121,7 @@
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2022-07-07 |  |
 | [In A Loop](https://open.spotify.com/track/1fwPHJhjIKSqOnbXVSEoF2) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [In A Loop](https://open.spotify.com/album/4RNLtG8d1fQp2yUTiVBS9a) | 3:13 | 2022-04-07 | 2022-04-15 |
 | [In Love](https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [In Love](https://open.spotify.com/album/4hjN43fijAskri1B3EXFej) | 3:20 | 2022-05-26 |  |
-| [In My Mind \- A COLORS SHOW](https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [In My Mind \- A COLORS SHOW](https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd) | 2:16 | 2022-08-22 |  |
+| [In My Mind \- A COLORS SHOW](https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [In My Mind \- A COLORS SHOW](https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd) | 2:16 | 2022-08-22 | 2023-01-29 |
 | [It Is What It Is](https://open.spotify.com/track/1Gm3jwEy0cx0souTcRGEby) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [It Is What It Is](https://open.spotify.com/album/0iQ6qfTr8QTT2w05C7CmuV) | 2:54 | 2021-09-27 | 2022-03-04 |
 | [Italy](https://open.spotify.com/track/0Hp40tAplinbWA1LNmh6JE) | [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Blaq Diamond](https://open.spotify.com/artist/1BngqqztWMYEQXYmtki81b) | [Italy](https://open.spotify.com/album/0La2kwQCsxngYngumlNXWY) | 3:08 | 2022-01-20 | 2022-03-12 |
 | [i’m a mess](https://open.spotify.com/track/1muOmaGrLHPU86XiE8pLgJ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:33 | 2022-07-14 | 2022-07-29 |

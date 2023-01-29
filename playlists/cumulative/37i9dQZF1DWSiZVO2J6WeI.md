@@ -4,10 +4,11 @@
 
 > Hypnotic bliss.
 
-227 songs - 12 hr 1 min
+228 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [396 Hz Breathe Deeply](https://open.spotify.com/track/5fHv6nk5URUA3UIzFpw0CA) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [396 Hz Sleep and Rest Frequencies](https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL) | 3:10 | 2023-01-20 |  |
 | [396 Hz Peace and Tranquility](https://open.spotify.com/track/4s3ba4kPr3fPcCCUuwSf32) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [396 Hz Peace and Tranquility](https://open.spotify.com/album/4Kjc4r0y8SfRfseDfOyXIo) | 3:01 | 2022-12-09 |  |
 | [432 Hz Peace](https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [432 Hz Healing Frequencies](https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy) | 3:16 | 2022-10-15 |  |
 | [432hz Manara \(Lighthouse\)](https://open.spotify.com/track/4Q3jMkeCcW0HQlDIAzQYBN) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Manara \(Lighthouse\)](https://open.spotify.com/album/44Bv426Wz9k6NjE9Boh5cG) | 3:01 | 2022-01-12 | 2022-05-06 |
@@ -38,7 +39,7 @@
 | [Beneath](https://open.spotify.com/track/1757oARz2SdORUSsihHuKo) | [Kamal Ra](https://open.spotify.com/artist/02ezikrBcYhPwhnqqkgc56) | [Beneath](https://open.spotify.com/album/20q3qgJ9BdF0Ik2XfQSjCF) | 2:32 | 2022-01-12 |  |
 | [Binaural Emotions](https://open.spotify.com/track/03BMugsFnLx9uV5BKZA1WP) | [Astro Project](https://open.spotify.com/artist/3qKQCiBjuf4iR5T0krtcaG) | [Binaural Emotions](https://open.spotify.com/album/38g1MiG5DyDOnjDxxzwm0c) | 3:26 | 2022-01-12 |  |
 | [Binaural Focus Drone](https://open.spotify.com/track/2O0gaBmFsBZXUlG8CMiMyq) | [Sonic Brainwaves](https://open.spotify.com/artist/1W33je0c01FrHZvRH8voH7) | [Alpha Stress Reduction](https://open.spotify.com/album/0Gqz4kIZgtNKcc1kf08Gko) | 3:36 | 2022-04-13 | 2022-04-18 |
-| [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/4LT51chp62pm3MNGp7mhFD) | [Brainstate](https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW) | [Gamma Drones](https://open.spotify.com/album/0xMbmD1DuvDfpiDwyIpPSO) | 3:14 | 2022-04-13 |  |
+| [Binaural Gamma Sinus 90 Hz \- L 190 Hz \- R](https://open.spotify.com/track/4LT51chp62pm3MNGp7mhFD) | [Brainstate](https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW) | [Gamma Drones](https://open.spotify.com/album/0xMbmD1DuvDfpiDwyIpPSO) | 3:14 | 2022-04-13 | 2023-01-29 |
 | [Blossom](https://open.spotify.com/track/5yGRHsgHyUgctn0nDJXk9D) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Blossom](https://open.spotify.com/album/6O4lKQO0YEkq94DWElpHNG) | 3:02 | 2022-01-12 |  |
 | [Breezy Blossoms](https://open.spotify.com/track/4Q3dtldbIdhLpVh7qZKb7f) | [Antero Lehto](https://open.spotify.com/artist/7gBBSNhDsDRvI4XfsVNpC8) | [Breezy Blossoms](https://open.spotify.com/album/35hc57m3qemrRYgnYu4E1b) | 2:46 | 2022-03-18 |  |
 | [Bright Morning](https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Bright Morning](https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb) | 3:24 | 2022-01-12 |  |

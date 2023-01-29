@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Vedha",
-  "num_followers": 45987,
+  "num_followers": 46020,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgxMzkxNSwwMDAwMDAwMDAyZDZlY2UzMzZkOTViZTAxNmQ2MmYzZGJiMWQ0MTc5",
+  "snapshot_id": "MTY3NDgxMzkxNSwwMDAwMDAwMGNmOTRiZjg3MzI2MmY2OTAxMWU1MDQ0NjhmMDU2ZmQ5",
   "tracks": [
     {
       "added_at": "2022-12-11 14:28:49",
@@ -103,27 +103,31 @@
     {
       "added_at": "2023-01-23 06:34:00",
       "album": {
-        "name": "Neene Dhoretha Mele (From \"Love Birds\")",
-        "url": "https://open.spotify.com/album/6Hhn7pXxFmjeAGm7WkMJew"
+        "name": "Neene Dhoretha Mele (From \"Love Birds\") - Single",
+        "url": "https://open.spotify.com/album/3gt1eTCDiJzJSQYzRmI32H"
       },
       "artists": [
+        {
+          "name": "Indu Nagaraj",
+          "url": "https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk"
+        },
         {
           "name": "Arjun Janya",
           "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
         },
         {
-          "name": "Indu Nagaraj",
-          "url": "https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk"
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/2EZRpaOhKG0jZb7xojXV21"
         }
       ],
       "duration_ms": 181894,
-      "name": "Neene Dhoretha Mele",
-      "url": "https://open.spotify.com/track/5OYCiNZwl6iV408VSZ1U4y"
+      "name": "Neene Dhoretha Mele (From \"Love Birds\")",
+      "url": "https://open.spotify.com/track/1icYJZFEymIhFiVRkQiirP"
     },
     {
       "added_at": "2023-01-27 04:56:59",
       "album": {
-        "name": "Ruhivanadalondu (From \"Shaakuntalam\") [Kannada] [Original Motion Picture Soundtrack]",
+        "name": "Rushivanadalondu (From \"Shaakuntalam\") [Kannada] [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/27NDcLWmKKU40NKLy02Tv9"
       },
       "artists": [
@@ -137,7 +141,7 @@
         }
       ],
       "duration_ms": 279512,
-      "name": "Ruhivanadalondu (From \"Shaakuntalam\") [Kannada]",
+      "name": "Rushivanadalondu (From \"Shaakuntalam\") [Kannada]",
       "url": "https://open.spotify.com/track/1bkcJX5rrPFixIJtvemhWb"
     },
     {

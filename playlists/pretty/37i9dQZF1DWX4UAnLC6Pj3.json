@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Juli\u00f3n \u00c1lvarez en portada.",
-  "num_followers": 1076975,
+  "num_followers": 1077419,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMGUyYWFhMTJiN2Q4OWM4Y2FkZTZjYzdmZGI4NzFlMDQ0",
+  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMDlkYTA2YWYwMDgwNjk5MGFkMzA3ZTg1OGFiNTRkYzE5",
   "tracks": [
     {
       "added_at": "2023-01-27 06:00:00",
@@ -743,18 +743,22 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Tiempo Fuera",
-        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
+        "name": "Como Duele Equivocarse",
+        "url": "https://open.spotify.com/album/6tdGbF9oCsV0zRsTTgwJHo"
       },
       "artists": [
         {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 198040,
-      "name": "Tiempo Fuera",
-      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
+      "duration_ms": 226978,
+      "name": "Como Duele Equivocarse",
+      "url": "https://open.spotify.com/track/5dm6FlDN6r8C8SJuAF0vNR"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -779,22 +783,18 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Como Duele Equivocarse",
-        "url": "https://open.spotify.com/album/6tdGbF9oCsV0zRsTTgwJHo"
+        "name": "Tiempo Fuera",
+        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
         }
       ],
-      "duration_ms": 226978,
-      "name": "Como Duele Equivocarse",
-      "url": "https://open.spotify.com/track/5dm6FlDN6r8C8SJuAF0vNR"
+      "duration_ms": 198040,
+      "name": "Tiempo Fuera",
+      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
     },
     {
       "added_at": "2023-01-16 19:52:16",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "12 Rifles",
-        "url": "https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "12 Rifles",
-      "url": "https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
         "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 215106,
       "name": "Una Noche Cualquiera",
       "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "12 Rifles",
+        "url": "https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "12 Rifles",
+      "url": "https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
         "name": "La Ley De La Vida",
         "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 205133,
       "name": "Te Lo Debo a Ti",
       "url": "https://open.spotify.com/track/6IHwMo9UbzanstmW2Edy8r"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "La Ley De La Vida",
-        "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "La Ley De La Vida",
-      "url": "https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
         "name": "Aqu\u00ed Casual",
         "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 165000,
       "name": "Que Llore, Que Llore",
       "url": "https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "La Ley De La Vida",
+        "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "La Ley De La Vida",
+      "url": "https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Se Vale Enamorarse",
-        "url": "https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Se Vale Enamorarse",
-      "url": "https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
         "name": "Vamos Bien",
         "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 200440,
       "name": "Vamos Bien",
       "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
+        "name": "Se Vale Enamorarse",
+        "url": "https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Se Vale Enamorarse",
+      "url": "https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Nos Perdimos",
-        "url": "https://open.spotify.com/album/536ir6fCRb02qJbAKF2GmR"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "Nos Perdimos",
-      "url": "https://open.spotify.com/track/3HU3xpciIxqfEZ6P8CznZY"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
         "name": "La Patrona",
         "url": "https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
+        "name": "Nos Perdimos",
+        "url": "https://open.spotify.com/album/536ir6fCRb02qJbAKF2GmR"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 168253,
+      "name": "Nos Perdimos",
+      "url": "https://open.spotify.com/track/3HU3xpciIxqfEZ6P8CznZY"
+    },
+    {
+      "added_at": "2023-01-06 19:31:33",
+      "album": {
         "name": "Lo Que No Es Pa' Uno",
         "url": "https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 174760,
       "name": "Lo Que No Es Pa' Uno",
       "url": "https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "Te Quiero Mil",
+        "url": "https://open.spotify.com/album/1lj9LmpujBYxwvM5IOvwBc"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "duration_ms": 183986,
+      "name": "Te Quiero Mil",
+      "url": "https://open.spotify.com/track/741g3I9tKBq0GHEx0up03Z"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Modo Crudo",
-        "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 128513,
-      "name": "Modo Crudo",
-      "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
-    },
-    {
-      "added_at": "2023-01-06 19:31:33",
-      "album": {
         "name": "Fuerte No Soy",
         "url": "https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU"
       },
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Mi Ex",
-        "url": "https://open.spotify.com/album/4Wz5Jskrdn5ZzHN9niwBgJ"
+        "name": "Modo Crudo",
+        "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 200910,
-      "name": "Mi Ex",
-      "url": "https://open.spotify.com/track/64OY74RUbqyz3EpoekFl6g"
+      "duration_ms": 128513,
+      "name": "Modo Crudo",
+      "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1545,20 +1545,20 @@
       "url": "https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8"
     },
     {
-      "added_at": "2023-01-13 06:00:00",
+      "added_at": "2023-01-06 19:31:33",
       "album": {
-        "name": "Te Quiero Mil",
-        "url": "https://open.spotify.com/album/1lj9LmpujBYxwvM5IOvwBc"
+        "name": "Mi Ex",
+        "url": "https://open.spotify.com/album/4Wz5Jskrdn5ZzHN9niwBgJ"
       },
       "artists": [
         {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 183986,
-      "name": "Te Quiero Mil",
-      "url": "https://open.spotify.com/track/741g3I9tKBq0GHEx0up03Z"
+      "duration_ms": 200910,
+      "name": "Mi Ex",
+      "url": "https://open.spotify.com/track/64OY74RUbqyz3EpoekFl6g"
     },
     {
       "added_at": "2023-01-06 19:31:33",
@@ -1637,6 +1637,22 @@
       "url": "https://open.spotify.com/track/0oMiAVGA9MpwFYnSrr20Uk"
     },
     {
+      "added_at": "2023-01-20 06:00:00",
+      "album": {
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Porque Soy Abeja Reina",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
+    },
+    {
       "added_at": "2023-01-06 19:31:33",
       "album": {
         "name": "Homenaje A La Trayectoria De Don Salvador Liz\u00e1rraga",
@@ -1655,22 +1671,6 @@
       "duration_ms": 222202,
       "name": "Que Me Digan Loco",
       "url": "https://open.spotify.com/track/7jZgXvzfo5qMXux0tRvS4S"
-    },
-    {
-      "added_at": "2023-01-20 06:00:00",
-      "album": {
-        "name": "Porque Soy Abeja Reina",
-        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "Porque Soy Abeja Reina",
-      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
       "added_at": "2023-01-06 19:31:33",

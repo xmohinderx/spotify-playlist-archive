@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,896 likes - 99 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,913 likes - 99 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 37 | [Sampha's Plea](https://open.spotify.com/track/2Hb8HUCnMZ74gwl4DppYDd) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 2:46 |
 | 38 | [Circles](https://open.spotify.com/track/2mYTINvwFoJYySe9XQsHkN) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Circles](https://open.spotify.com/album/0fq0sVhYUlFzRCrt2T9AU1) | 2:41 |
 | 39 | [Fam Without Blood](https://open.spotify.com/track/1J4VJFAnnb55HrCfglZmF0) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Fam Without Blood](https://open.spotify.com/album/0BAZrp2yemAgUY2RiKQt3k) | 3:01 |
-| 40 | [sleepatsunset](https://open.spotify.com/track/3wDQTpgStc5ztupOBYKH1B) | [Krishna Canning](https://open.spotify.com/artist/7cVhebR7qQnFcIUAD5D5Wv), [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [sleepatsunset](https://open.spotify.com/album/3kmAEP1YD4OxM8JDmHze2Z) | 2:56 |
+| 40 | [sleepatsunrise](https://open.spotify.com/track/3wDQTpgStc5ztupOBYKH1B) | [Krishna Canning](https://open.spotify.com/artist/7cVhebR7qQnFcIUAD5D5Wv), [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [sleepatsunrise](https://open.spotify.com/album/3kmAEP1YD4OxM8JDmHze2Z) | 2:56 |
 | 41 | [blue](https://open.spotify.com/track/00GOKHaT4oeUbTL3Tj7NFC) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [tentacle](https://open.spotify.com/album/35Yi0L3RtxmFULeg1UQCae) | 2:40 |
 | 42 | [Cloudy \- Kelbin Remix](https://open.spotify.com/track/4OtqragtOuKh41rBNnFXuK) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Cloudy \(Kelbin Remix\)](https://open.spotify.com/album/53JK9SLZCpbiCzNfcEGgHa) | 5:36 |
 | 43 | [You](https://open.spotify.com/track/4NFwWU31QgHqUKZr40uPEr) | [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [You](https://open.spotify.com/album/6KzhF8S5mzMbJ96RtAsNVY) | 3:13 |

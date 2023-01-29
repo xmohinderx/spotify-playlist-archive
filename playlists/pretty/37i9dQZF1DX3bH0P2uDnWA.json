@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 325922,
+  "num_followers": 326133,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDVkMzQyMTkzM2NiZDQ0MGZlNjE5NDJkYzc5YTM2NTEx",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMGQxNGQ2MzI3ZWEzOGMxYTIwYjE1ZTI3MGQxOTNlYjMx",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "The Little Man Who Wasn't There",
-        "url": "https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        }
-      ],
-      "duration_ms": 206541,
-      "name": "The Little Man Who Wasn't There",
-      "url": "https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Say What (2019)",
         "url": "https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 193809,
       "name": "Say What - Pisk Electro Swing Remix",
       "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "The Little Man Who Wasn't There",
+        "url": "https://open.spotify.com/album/15fn6mDXBk4zgjFbrpNjyX"
+      },
+      "artists": [
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        }
+      ],
+      "duration_ms": 206541,
+      "name": "The Little Man Who Wasn't There",
+      "url": "https://open.spotify.com/track/7MAJ4C13IncWy65NvgzSJ6"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -393,26 +393,6 @@
       "url": "https://open.spotify.com/track/0XNJwK6IhwfqvsNEZ2Q6q8"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Laisse-Toi Tomber",
-        "url": "https://open.spotify.com/album/1POU4xKcEeBw39qtp6fRk1"
-      },
-      "artists": [
-        {
-          "name": "The Soulmate Project",
-          "url": "https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a"
-        },
-        {
-          "name": "Vero Nouk",
-          "url": "https://open.spotify.com/artist/2v0uFs8azjBPPdwtOd2fiE"
-        }
-      ],
-      "duration_ms": 178282,
-      "name": "Laisse-Toi Tomber",
-      "url": "https://open.spotify.com/track/6zzTxCsQinojaVUniC8T3B"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Outsidein",
@@ -467,6 +447,26 @@
       "duration_ms": 203933,
       "name": "Pressure - Klisch\u00e9e Remix",
       "url": "https://open.spotify.com/track/20BuZ7Kyn5CIcQ4S6w3Oo2"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Laisse-Toi Tomber",
+        "url": "https://open.spotify.com/album/1POU4xKcEeBw39qtp6fRk1"
+      },
+      "artists": [
+        {
+          "name": "The Soulmate Project",
+          "url": "https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a"
+        },
+        {
+          "name": "Vero Nouk",
+          "url": "https://open.spotify.com/artist/2v0uFs8azjBPPdwtOd2fiE"
+        }
+      ],
+      "duration_ms": 178282,
+      "name": "Laisse-Toi Tomber",
+      "url": "https://open.spotify.com/track/6zzTxCsQinojaVUniC8T3B"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -559,18 +559,18 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Bend the Rules",
-        "url": "https://open.spotify.com/album/3LsbDHcIw87U53Ir0pvrNK"
+        "name": "Still Dancing",
+        "url": "https://open.spotify.com/album/6eOQ7cXX85wKgIx5S69Ma3"
       },
       "artists": [
         {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+          "name": "OR3O",
+          "url": "https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx"
         }
       ],
-      "duration_ms": 196586,
-      "name": "Swing It Like Roger",
-      "url": "https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR"
+      "duration_ms": 198453,
+      "name": "Still Dancing",
+      "url": "https://open.spotify.com/track/39R88egli2YgXq1omv1Io7"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72"
     },
     {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Still Dancing",
-        "url": "https://open.spotify.com/album/6eOQ7cXX85wKgIx5S69Ma3"
-      },
-      "artists": [
-        {
-          "name": "OR3O",
-          "url": "https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Still Dancing",
-      "url": "https://open.spotify.com/track/39R88egli2YgXq1omv1Io7"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Posture (Wolfgang Lohr Remix)",
@@ -627,6 +611,22 @@
       "duration_ms": 236129,
       "name": "Posture - Wolfgang Lohr Remix",
       "url": "https://open.spotify.com/track/1Zn9nf1HoFM7KvXhBq9SNv"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Bend the Rules",
+        "url": "https://open.spotify.com/album/3LsbDHcIw87U53Ir0pvrNK"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "Swing It Like Roger",
+      "url": "https://open.spotify.com/track/3OCotzyyYbf3vNBQ0tZqMR"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/556y7EL1trkqGtevzn8684"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Love Us a Ruckus",
-        "url": "https://open.spotify.com/album/2QvwbMHN0TvpgH91oWgqB7"
-      },
-      "artists": [
-        {
-          "name": "Riff Kitten",
-          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
-        }
-      ],
-      "duration_ms": 244202,
-      "name": "Love Us a Ruckus",
-      "url": "https://open.spotify.com/track/2u40x64LDY2RSyW1ewdhgR"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "The Shocking Miss Emerald The Remixes",
@@ -819,6 +803,22 @@
       "duration_ms": 207531,
       "name": "Pack Up The Louie - Caravan Palace Remix",
       "url": "https://open.spotify.com/track/6D53OoZpbzuBwwgGrT8FOP"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Love Us a Ruckus",
+        "url": "https://open.spotify.com/album/2QvwbMHN0TvpgH91oWgqB7"
+      },
+      "artists": [
+        {
+          "name": "Riff Kitten",
+          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
+        }
+      ],
+      "duration_ms": 244202,
+      "name": "Love Us a Ruckus",
+      "url": "https://open.spotify.com/track/2u40x64LDY2RSyW1ewdhgR"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -921,26 +921,6 @@
       "url": "https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51"
     },
     {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Parla pi\u00f9 piano / In cerca di te",
-        "url": "https://open.spotify.com/album/4xwyeSNYVMkK8o1V2JtBO3"
-      },
-      "artists": [
-        {
-          "name": "Glenn Gatsby",
-          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
-        },
-        {
-          "name": "Free Shots",
-          "url": "https://open.spotify.com/artist/7FetKvEtXNVgZc8PpxYtVf"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Parla pi\u00f9 piano / In cerca di te - Electro Swing Mix",
-      "url": "https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "The Cat Came Back",
@@ -959,6 +939,26 @@
       "duration_ms": 173296,
       "name": "The Cat Came Back - Bdd Remix Edit",
       "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
+    },
+    {
+      "added_at": "2021-09-10 04:02:00",
+      "album": {
+        "name": "Parla pi\u00f9 piano / In cerca di te",
+        "url": "https://open.spotify.com/album/4xwyeSNYVMkK8o1V2JtBO3"
+      },
+      "artists": [
+        {
+          "name": "Glenn Gatsby",
+          "url": "https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i"
+        },
+        {
+          "name": "Free Shots",
+          "url": "https://open.spotify.com/artist/7FetKvEtXNVgZc8PpxYtVf"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Parla pi\u00f9 piano / In cerca di te - Electro Swing Mix",
+      "url": "https://open.spotify.com/track/4sCDNKD8Q3J5Wr5kzSgC5H"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/0tFzgPOxtXFNScRZ6ePrg8"
     },
     {
-      "added_at": "2021-04-16 04:01:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2"
-      },
-      "artists": [
-        {
-          "name": "Szigeti Juli",
-          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Lady Swing",
@@ -1011,6 +995,22 @@
       "duration_ms": 260306,
       "name": "Hold the Night",
       "url": "https://open.spotify.com/track/55KhvVzqoaNEgaRTDmu6Zg"
+    },
+    {
+      "added_at": "2021-04-16 04:01:00",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/71v6VF9QJskefv7GIj2ky2"
+      },
+      "artists": [
+        {
+          "name": "Szigeti Juli",
+          "url": "https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/0hMBzK9Ng94hycB8JNBngU"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -1117,6 +1117,22 @@
       "url": "https://open.spotify.com/track/6bWpjpAuKVQKt1RpKF8f5w"
     },
     {
+      "added_at": "2023-01-20 05:01:00",
+      "album": {
+        "name": "Black Swing",
+        "url": "https://open.spotify.com/album/3Clc9pQvWIMdFAe6k9vbwP"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        }
+      ],
+      "duration_ms": 198584,
+      "name": "Black Swing",
+      "url": "https://open.spotify.com/track/1A2CIDh8zIqey6CRfYY6Oo"
+    },
+    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Anything Goes",
@@ -1135,22 +1151,6 @@
       "duration_ms": 180200,
       "name": "1941 (feat. Virian)",
       "url": "https://open.spotify.com/track/0Mft55GDMuD2rFnrSeFn3U"
-    },
-    {
-      "added_at": "2023-01-20 05:01:00",
-      "album": {
-        "name": "Black Swing",
-        "url": "https://open.spotify.com/album/3Clc9pQvWIMdFAe6k9vbwP"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        }
-      ],
-      "duration_ms": 198584,
-      "name": "Black Swing",
-      "url": "https://open.spotify.com/track/1A2CIDh8zIqey6CRfYY6Oo"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -1217,6 +1217,26 @@
       "url": "https://open.spotify.com/track/6dQl63PQnUzMyESNW8uwo5"
     },
     {
+      "added_at": "2022-11-07 16:43:23",
+      "album": {
+        "name": "Watch Your Tongue",
+        "url": "https://open.spotify.com/album/0VlRMNxmBvdI1wF3LV16Z4"
+      },
+      "artists": [
+        {
+          "name": "Pisk",
+          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+        },
+        {
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+        }
+      ],
+      "duration_ms": 178320,
+      "name": "Watch Your Tongue",
+      "url": "https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N"
+    },
+    {
       "added_at": "2022-02-11 05:01:00",
       "album": {
         "name": "Big Blue Swing",
@@ -1253,24 +1273,40 @@
       "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
     },
     {
-      "added_at": "2022-11-07 16:43:23",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Watch Your Tongue",
-        "url": "https://open.spotify.com/album/0VlRMNxmBvdI1wF3LV16Z4"
+        "name": "The Electric Swing Circus - Remixed Vol. 1",
+        "url": "https://open.spotify.com/album/4u9XMOUCEU0NG39YcCnql0"
       },
       "artists": [
         {
-          "name": "Pisk",
-          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+          "name": "The Electric Swing Circus",
+          "url": "https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY"
         },
         {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+          "name": "Jamie Berry",
+          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
         }
       ],
-      "duration_ms": 178320,
-      "name": "Watch Your Tongue",
-      "url": "https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N"
+      "duration_ms": 224588,
+      "name": "Mr Magpie - Jamie Berry Remix",
+      "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Dizzy Street",
+        "url": "https://open.spotify.com/album/6kmaz5dSu6zmn7DQHXCIgP"
+      },
+      "artists": [
+        {
+          "name": "The Swing Bot",
+          "url": "https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Dizzy Street",
+      "url": "https://open.spotify.com/track/3OPqj5jqd5hkOU0rvZDXCl"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1307,42 +1343,6 @@
       "duration_ms": 164842,
       "name": "1925",
       "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "The Electric Swing Circus - Remixed Vol. 1",
-        "url": "https://open.spotify.com/album/4u9XMOUCEU0NG39YcCnql0"
-      },
-      "artists": [
-        {
-          "name": "The Electric Swing Circus",
-          "url": "https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY"
-        },
-        {
-          "name": "Jamie Berry",
-          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
-        }
-      ],
-      "duration_ms": 224588,
-      "name": "Mr Magpie - Jamie Berry Remix",
-      "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
-    },
-    {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Dizzy Street",
-        "url": "https://open.spotify.com/album/6kmaz5dSu6zmn7DQHXCIgP"
-      },
-      "artists": [
-        {
-          "name": "The Swing Bot",
-          "url": "https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Dizzy Street",
-      "url": "https://open.spotify.com/track/3OPqj5jqd5hkOU0rvZDXCl"
     }
   ],
   "unique_name": "Electro Swing",

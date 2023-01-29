@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 171428,
+  "num_followers": 171541,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGZkODZjODRiYmUzOGNiNDZiZTlmZjhkZGVkMWJmNWFi",
+  "snapshot_id": "MTY3MzU4NjA2MCwwMDAwMDAwMGJkZjNlYTBmZjk3ZTJiMmIwNzBjMGZkNmQ5OTJlM2Vj",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Electric Rendezvous",
-        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
-      },
-      "artists": [
-        {
-          "name": "Al Di Meola",
-          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Black Cat Shuffle",
-      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Walk Cycle",
@@ -331,6 +315,22 @@
       "duration_ms": 192013,
       "name": "Walk Cycle",
       "url": "https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Electric Rendezvous",
+        "url": "https://open.spotify.com/album/2U4gcTybmmNMb39sDnngCi"
+      },
+      "artists": [
+        {
+          "name": "Al Di Meola",
+          "url": "https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Black Cat Shuffle",
+      "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Romantic Warrior",
-        "url": "https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt"
-      },
-      "artists": [
-        {
-          "name": "Return To Forever",
-          "url": "https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK"
-        }
-      ],
-      "duration_ms": 313866,
-      "name": "Medieval Overture - Instrumental",
-      "url": "https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Black Market",
         "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 390640,
       "name": "Black Market",
       "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Romantic Warrior",
+        "url": "https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt"
+      },
+      "artists": [
+        {
+          "name": "Return To Forever",
+          "url": "https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK"
+        }
+      ],
+      "duration_ms": 313866,
+      "name": "Medieval Overture - Instrumental",
+      "url": "https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N"
     },
     {
       "added_at": "2021-06-25 04:02:00",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Empire Central",
-        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 292314,
-      "name": "Fuel City",
-      "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "The Brecker Bros",
@@ -519,6 +503,22 @@
       "duration_ms": 350506,
       "name": "Some Skunk Funk",
       "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Empire Central",
+        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 292314,
+      "name": "Fuel City",
+      "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
     },
     {
       "added_at": "2021-04-16 04:01:00",
@@ -593,38 +593,6 @@
       "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 474309,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "In These Times",
-        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 185191,
-      "name": "Seventh String",
-      "url": "https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Chapter One: Shredemption",
@@ -647,6 +615,38 @@
       "duration_ms": 207625,
       "name": "U.T.F.F.",
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "In These Times",
+        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 185191,
+      "name": "Seventh String",
+      "url": "https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 474309,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Master Strokes 1978-1985",
-        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
-      },
-      "artists": [
-        {
-          "name": "Bill Bruford",
-          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Hell's Bells",
-      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Time In Place",
         "url": "https://open.spotify.com/album/1iFPARCgnB41MQvFqKGMfP"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 462373,
       "name": "Chromazone",
       "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Master Strokes 1978-1985",
+        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
+      },
+      "artists": [
+        {
+          "name": "Bill Bruford",
+          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/2757IqIKvgQcKtAxzY3LKM"
-      },
-      "artists": [
-        {
-          "name": "Gecko&Tokage Parade",
-          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
-        }
-      ],
-      "duration_ms": 209276,
-      "name": "Core",
-      "url": "https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Shapeless",
         "url": "https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 348733,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/2757IqIKvgQcKtAxzY3LKM"
+      },
+      "artists": [
+        {
+          "name": "Gecko&Tokage Parade",
+          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
+        }
+      ],
+      "duration_ms": 209276,
+      "name": "Core",
+      "url": "https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1001,26 +1001,6 @@
       "url": "https://open.spotify.com/track/32gXohJoHWMrYnU9oj8GVU"
     },
     {
-      "added_at": "2022-04-08 04:02:00",
-      "album": {
-        "name": "Funkdombe - edit",
-        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
-      },
-      "artists": [
-        {
-          "name": "Hector Bingert",
-          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        }
-      ],
-      "duration_ms": 230374,
-      "name": "Funkdombe - edit",
-      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Blues for Tony",
@@ -1047,6 +1027,26 @@
       "duration_ms": 672106,
       "name": "Blues for Tony",
       "url": "https://open.spotify.com/track/4XUR0xfOMphdT9qnTb1iG3"
+    },
+    {
+      "added_at": "2022-04-08 04:02:00",
+      "album": {
+        "name": "Funkdombe - edit",
+        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
+      },
+      "artists": [
+        {
+          "name": "Hector Bingert",
+          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "duration_ms": 230374,
+      "name": "Funkdombe - edit",
+      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Mondo Garaj",
+        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
+      },
+      "artists": [
+        {
+          "name": "Garaj Mahal",
+          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
+        }
+      ],
+      "duration_ms": 333413,
+      "name": "Mondo Garaj",
+      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
+    },
+    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Common Ground",
@@ -1115,22 +1131,6 @@
       "duration_ms": 406453,
       "name": "The Little Boxer",
       "url": "https://open.spotify.com/track/6x7mEZbbec6EPOJVWYvmve"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Mondo Garaj",
-        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
-      },
-      "artists": [
-        {
-          "name": "Garaj Mahal",
-          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
-        }
-      ],
-      "duration_ms": 333413,
-      "name": "Mondo Garaj",
-      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Axiom",
-        "url": "https://open.spotify.com/album/33FjWExlzwKy3f8nwV43M1"
-      },
-      "artists": [
-        {
-          "name": "Christian Scott aTunde Adjuah",
-          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
-        }
-      ],
-      "duration_ms": 653190,
-      "name": "Guinnevere",
-      "url": "https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V"
-    },
-    {
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "Liberation Time",
@@ -1399,6 +1383,22 @@
       "duration_ms": 321693,
       "name": "As the Spirit Sings",
       "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Axiom",
+        "url": "https://open.spotify.com/album/33FjWExlzwKy3f8nwV43M1"
+      },
+      "artists": [
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        }
+      ],
+      "duration_ms": 653190,
+      "name": "Guinnevere",
+      "url": "https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V"
     },
     {
       "added_at": "2021-02-12 00:49:35",

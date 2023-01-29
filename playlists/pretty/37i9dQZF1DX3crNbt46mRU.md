@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,608 likes - 102 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,630 likes - 102 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

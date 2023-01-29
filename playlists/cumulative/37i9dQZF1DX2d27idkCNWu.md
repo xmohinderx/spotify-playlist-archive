@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-139 songs - 8 hr 13 min
+140 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 | 2021-11-05 |  |
 | [feitiço](https://open.spotify.com/track/6SB9mfvH0SoT3qoRbeOTlL) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [feitiço](https://open.spotify.com/album/2rbpZj8PRp8yCBRVwd04vY) | 3:02 | 2022-10-22 | 2022-12-04 |
 | [FRIENDS \- Acoustic](https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [FRIENDS \(Acoustic\)](https://open.spotify.com/album/233AbsgzaS416igerB12cS) | 3:29 | 2021-11-05 |  |
+| [Georgia \- Live at Sydney Opera House](https://open.spotify.com/track/352fUC91RxPM0HPCNoNYEN) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Live at Sydney Opera House](https://open.spotify.com/album/7vNVlKih6TRHu9kIL5YhgT) | 4:28 | 2023-01-27 |  |
 | [Ghost \- Live From Spotify NYC](https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Spotify Sessions \(Live From Spotify NYC\)](https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL) | 2:40 | 2021-11-05 | 2022-11-16 |
 | [Ghost \- Live From Spotify NYC](https://open.spotify.com/track/5e5gcfw6ZcAJchRow8adbr) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Spotify Sessions \(Live From Spotify NYC\)](https://open.spotify.com/album/4Ons7LgaSM3Z2WfQ08Ev3f) | 2:40 | 2021-11-05 | 2022-07-29 |
 | [Girassol \- Acústico](https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Girassol \(Acústico\)](https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb) | 1:05 | 2023-01-20 |  |
@@ -84,7 +85,7 @@
 | [Make Me \(Cry\) \- Acoustic Version](https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\) \[Acoustic Version\]](https://open.spotify.com/album/7xOsE3ZVZveBZfRdCzY3Uk) | 3:52 | 2021-11-05 |  |
 | [Malleable](https://open.spotify.com/track/0z5b3yTwZYaoRfx4E9nmQX) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Malleable EP](https://open.spotify.com/album/1q3md4eSASxxwiseXoJw8H) | 2:48 | 2021-11-05 | 2022-11-24 |
 | [Malleable](https://open.spotify.com/track/5RpZBENYCjZE7t9M823v0S) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Malleable](https://open.spotify.com/album/6m0ibc9oEx9tiYhbk7D4sA) | 2:48 | 2021-11-05 | 2022-07-29 |
-| [Mantra](https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [TK](https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j) | [Mantra](https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR) | 2:48 | 2022-11-15 |  |
+| [Mantra](https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [TK](https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j) | [Mantra](https://open.spotify.com/album/0456OTINWd9Kw0tE0P9JpR) | 2:48 | 2022-11-15 | 2023-01-29 |
 | [Meant to Be \- Acoustic](https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Meant to Be \(Acoustic\)](https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI) | 2:38 | 2021-11-05 |  |
 | [Mistakes](https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Mistakes](https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ) | 2:29 | 2022-09-30 |  |
 | [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2021-11-05 |  |

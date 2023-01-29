@@ -4,7 +4,7 @@
 
 > The best new rock on the rise\. Cover: The Linda Lindas
 
-59 songs - 3 hr 3 min
+60 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [I Hope You're Happy](https://open.spotify.com/track/0hg5kJOSZNT0PcUL89ORHS) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [I Hope You're Happy](https://open.spotify.com/album/0XJzwar2Xg8a0IEHqC7Lty) | 2:59 | 2022-03-24 | 2022-09-28 |
 | [I Hope You’re Happy](https://open.spotify.com/track/1sBvGY100lfD3w6tR22M1D) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG) | 2:59 | 2022-03-24 |  |
 | [I Hope You’re Happy](https://open.spotify.com/track/4NDZlGtNiLIgFNkBgVhX9n) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [I Hope You’re Happy](https://open.spotify.com/album/48M1E73JIiEgVpXKwppWLK) | 2:59 | 2022-03-24 | 2022-08-31 |
-| [I Just Want That Movie Ending](https://open.spotify.com/track/1DvWXKEOUVx6Uueskk1dYw) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Praise Armageddonism](https://open.spotify.com/album/1VrI6y38tqIwZc01YRFh2G) | 4:30 | 2022-03-24 |  |
+| [I Just Want That Movie Ending](https://open.spotify.com/track/1DvWXKEOUVx6Uueskk1dYw) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Praise Armageddonism](https://open.spotify.com/album/1VrI6y38tqIwZc01YRFh2G) | 4:30 | 2022-03-24 | 2023-01-29 |
+| [I Just Want That Movie Ending](https://open.spotify.com/track/1szsGgLWJNiNpJNueHHKxI) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Praise Armageddonism](https://open.spotify.com/album/6Kxcx0ewz7d4QHs3T15lyb) | 4:30 | 2022-03-24 |  |
 | [I Just Want That Movie Ending](https://open.spotify.com/track/32HKAe5mht25LC85aHdvUl) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [I Just Want That Movie Ending](https://open.spotify.com/album/4yEcxxvnZKMlST5JJoJEsk) | 4:30 | 2022-03-24 | 2022-07-29 |
 | [I'm a Moth!!](https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [I'm a Moth!!](https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a) | 2:06 | 2022-03-24 |  |
 | [I.W.G.F.U.](https://open.spotify.com/track/6nIsw8hm5Qwna1iwJYTwXc) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [I.W.G.F.U.](https://open.spotify.com/album/2X8mrYWzbs724f3FEnSUEI) | 3:36 | 2022-03-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: ASHE 22 x Central Cee",
-  "num_followers": 201688,
+  "num_followers": 201704,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMDBkZjI2ZDA5ZTBiNDdhOTgwYzJmYmU3YzYxYzRlMTY5",
+  "snapshot_id": "MTY3NDE2OTI2MCwwMDAwMDAwMDc1MjAyYjkzMTAxYThjYjQ5NGFmOGIxNWJkZmFhZDQ4",
   "tracks": [
     {
       "added_at": "2023-01-19 23:01:00",
@@ -943,26 +943,18 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Only Built For Infinity Links",
-        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
       },
       "artists": [
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 283196,
-      "name": "To The Bone (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
+      "duration_ms": 211935,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -983,18 +975,26 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi"
+        "name": "Only Built For Infinity Links",
+        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 211935,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc"
+      "duration_ms": 283196,
+      "name": "To The Bone (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "No More Leaks",
-        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "One Up",
-      "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -1239,6 +1223,42 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "No More Leaks",
+        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "One Up",
+      "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "GOATED.",
+        "url": "https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 197380,
+      "name": "GOATED. (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1303,26 +1323,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "GOATED.",
-        "url": "https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 197380,
-      "name": "GOATED. (feat. Denzel Curry)",
-      "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "ONLY BUILT 4 DIAMOND LINKS",
         "url": "https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 159973,
       "name": "2 Million Up",
       "url": "https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Munch (Feelin\u2019 U)",
-        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 104819,
-      "name": "Munch (Feelin\u2019 U)",
-      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1383,6 +1367,22 @@
       "duration_ms": 174474,
       "name": "Do It Right",
       "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Munch (Feelin\u2019 U)",
+        "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 104819,
+      "name": "Munch (Feelin\u2019 U)",
+      "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1443,6 +1443,22 @@
       "duration_ms": 154997,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Martin's Sofa",
+        "url": "https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "duration_ms": 240363,
+      "name": "Martin's Sofa",
+      "url": "https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "LA Leakers Freestyle",
-        "url": "https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "LA Leakers Freestyle",
-      "url": "https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Never Sleep",
         "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
       },
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Martin's Sofa",
-        "url": "https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O"
+        "name": "LA Leakers Freestyle",
+        "url": "https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH"
       },
       "artists": [
         {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 240363,
-      "name": "Martin's Sofa",
-      "url": "https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv"
+      "duration_ms": 178000,
+      "name": "LA Leakers Freestyle",
+      "url": "https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
         "name": "Trip At Knight (Complete Edition)",
         "url": "https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 247714,
       "name": "Rich MF (feat. Polo G & Lil Durk)",
       "url": "https://open.spotify.com/track/6cUHiQEECDl5m3WFGQ1GCR"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1815,22 +1815,6 @@
       "duration_ms": 144729,
       "name": "Shittin' Me",
       "url": "https://open.spotify.com/track/31UJ8vd4JQc1JEa7TgcDSz"
-    },
-    {
-      "added_at": "2023-01-19 23:01:00",
-      "album": {
-        "name": "Obsessed With You",
-        "url": "https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 108650,
-      "name": "Obsessed With You",
-      "url": "https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z"
     },
     {
       "added_at": "2023-01-19 23:01:00",
@@ -1883,18 +1867,38 @@
     {
       "added_at": "2023-01-19 23:01:00",
       "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
+        "name": "Enna Boost",
+        "url": "https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
         }
       ],
-      "duration_ms": 161636,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
+      "duration_ms": 194266,
+      "name": "Attentat",
+      "url": "https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl"
+    },
+    {
+      "added_at": "2023-01-19 23:01:00",
+      "album": {
+        "name": "Obsessed With You",
+        "url": "https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 108650,
+      "name": "Obsessed With You",
+      "url": "https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z"
     }
   ],
   "unique_name": "Rap Internazionale",

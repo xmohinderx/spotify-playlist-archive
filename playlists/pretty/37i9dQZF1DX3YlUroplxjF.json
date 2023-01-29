@@ -1,15 +1,15 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: XL Life",
-  "num_followers": 445208,
+  "num_followers": 445259,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgzNjg0NSwwMDAwMDAwMDAxY2EwNjRiNzAzNGZjNWYwMGNjY2JjZTA5MDFmOWM3",
+  "snapshot_id": "MTY3NDgzNjg0NSwwMDAwMDAwMDkyYzYxODhlNGQ5MmQzNWUwOTMyYTQxOWU4MjQ5NjNh",
   "tracks": [
     {
-      "added_at": "2023-01-28 01:04:35",
+      "added_at": "2023-01-29 01:03:08",
       "album": {
         "name": "Gates of Horn",
         "url": "https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly"
     },
     {
-      "added_at": "2023-01-28 01:04:35",
+      "added_at": "2023-01-29 01:03:08",
       "album": {
         "name": "The Boogie Down South",
         "url": "https://open.spotify.com/album/4z7vVySwSgChpRyskj0TLT"
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Ghost in My Home",
-        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200189,
-      "name": "Ghost in My Home",
-      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 228372,
       "name": "Disease",
       "url": "https://open.spotify.com/track/1hkm127hnTSa2xjGNw8IAE"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Ghost in My Home",
+        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 200189,
+      "name": "Ghost in My Home",
+      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -207,18 +207,18 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
+        "name": "Divided",
+        "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
       },
       "artists": [
         {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
         }
       ],
-      "duration_ms": 197213,
-      "name": "Forgotten",
-      "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
+      "duration_ms": 208920,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -239,38 +239,18 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Divided",
-        "url": "https://open.spotify.com/album/3y8C86Pm7N3YWAohYNAmjY"
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
       },
       "artists": [
         {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 208920,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/10K74dbHDqw7hmtSmLfs7t"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Brand New Vision",
-        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Into The Dark (feat. Kellin Quinn)",
-      "url": "https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd"
+      "duration_ms": 197213,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -307,18 +287,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Call Me Little Sunshine",
-        "url": "https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq"
+        "name": "Brand New Vision",
+        "url": "https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1"
       },
       "artists": [
         {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
         }
       ],
-      "duration_ms": 284266,
-      "name": "Call Me Little Sunshine",
-      "url": "https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl"
+      "duration_ms": 198000,
+      "name": "Into The Dark (feat. Kellin Quinn)",
+      "url": "https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -339,6 +323,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Call Me Little Sunshine",
+        "url": "https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 284266,
+      "name": "Call Me Little Sunshine",
+      "url": "https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
       },
@@ -351,6 +351,22 @@
       "duration_ms": 168000,
       "name": "High Horse",
       "url": "https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W"
+    },
+    {
+      "added_at": "2023-01-19 23:53:27",
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -367,6 +383,22 @@
       "duration_ms": 216411,
       "name": "Antisocialist",
       "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "Hereafter",
+      "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -455,38 +487,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Hereafter",
-      "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
-    },
-    {
-      "added_at": "2023-01-19 23:53:27",
-      "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "War",
-      "url": "https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Finding God Before God Finds Me (Deluxe)",
         "url": "https://open.spotify.com/album/30IYyCP3Ptfat4hO5alq7b"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Do You Feel O.K?",
-        "url": "https://open.spotify.com/album/1CWHxErIR0tuKkVf6rZt4X"
-      },
-      "artists": [
-        {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Holding Me Down",
-      "url": "https://open.spotify.com/track/3RsrKzD7rntAYMbiBt7tM0"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Beautiful Death",
         "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 225493,
       "name": "Let This Haunt You",
       "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Do You Feel O.K?",
+        "url": "https://open.spotify.com/album/1CWHxErIR0tuKkVf6rZt4X"
+      },
+      "artists": [
+        {
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Holding Me Down",
+      "url": "https://open.spotify.com/track/3RsrKzD7rntAYMbiBt7tM0"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 236050,
-      "name": "Lyrics Lie",
-      "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Baptize",
         "url": "https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 225117,
       "name": "Instability",
       "url": "https://open.spotify.com/track/0hNgeS6kzIC4Rtdz4L0jsN"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 236050,
+      "name": "Lyrics Lie",
+      "url": "https://open.spotify.com/track/46IUSULlL2SAmyyHHpXQJz"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -772,8 +772,8 @@
       },
       "artists": [
         {
-          "name": "Novelists",
-          "url": "https://open.spotify.com/artist/0qoFZbsF9OQmTrtBB5RlTx"
+          "name": "NOVELISTS",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
         }
       ],
       "duration_ms": 214057,
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
     },
     {
+      "added_at": "2023-01-29 01:03:08",
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
+    },
+    {
       "added_at": "2022-12-13 20:10:17",
       "album": {
         "name": "wet milk",
@@ -895,22 +911,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Stars Before The Sun",
-      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "To Better Days",
         "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
       },
@@ -923,6 +923,22 @@
       "duration_ms": 196427,
       "name": "Bury a Lie",
       "url": "https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Stars Before The Sun",
+      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "The Truth in Your Eyes",
-        "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
-      },
-      "artists": [
-        {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
-        }
-      ],
-      "duration_ms": 227622,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/5Icvhj9ZzhnOkgrkhb67a1"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 224453,
       "name": "Pray",
       "url": "https://open.spotify.com/track/1DuYS5IWAl7fk4sottVMyZ"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "The Truth in Your Eyes",
+        "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 227622,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1041,20 +1057,20 @@
       "url": "https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G"
     },
     {
-      "added_at": "2023-01-28 01:04:35",
+      "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
+        "name": "Nothing is True & Everything is Possible",
+        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
       },
       "artists": [
         {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
         }
       ],
-      "duration_ms": 203813,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
+      "duration_ms": 173304,
+      "name": "{ The Dreamer's Hotel }",
+      "url": "https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1119,22 +1135,6 @@
       "duration_ms": 191000,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Nothing is True & Everything is Possible",
-        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
-      },
-      "artists": [
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        }
-      ],
-      "duration_ms": 173304,
-      "name": "{ The Dreamer's Hotel }",
-      "url": "https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Nothing is True & Everything is Possible",
+        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "duration_ms": 226900,
+      "name": "satellites* *",
+      "url": "https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
       },
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Bye Bye Big Bear",
-        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 176902,
-      "name": "Bye Bye Big Bear",
-      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "11 Minutes",
         "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 184000,
       "name": "11 Minutes",
       "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Bye Bye Big Bear",
+        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 176902,
+      "name": "Bye Bye Big Bear",
+      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Nothing is True & Everything is Possible",
-        "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
-      },
-      "artists": [
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        }
-      ],
-      "duration_ms": 226900,
-      "name": "satellites* *",
-      "url": "https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Return of the Arsonist",
         "url": "https://open.spotify.com/album/2A1RY2fEJAucP1uAiGL5nb"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 181979,
       "name": "S01E02.Return.Of.The.Arsonist.720p.HDTV.x264",
       "url": "https://open.spotify.com/track/7zEDmEGVQNIJ5M8SU3fpIM"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Restless Heart, Keep Running",
         "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
       },
@@ -1479,22 +1479,6 @@
       "duration_ms": 227573,
       "name": "We\u2019ll Always Have Paris",
       "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Hygiene",
-        "url": "https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "Tiresome",
-      "url": "https://open.spotify.com/track/720uwDE0qE7yUDhUvUOCsj"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
+        "name": "Hygiene",
+        "url": "https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "Tiresome",
+      "url": "https://open.spotify.com/track/720uwDE0qE7yUDhUvUOCsj"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
         "name": "Bob Vylan Presents The Price Of Life",
         "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-12-13 20:10:17",
       "album": {
-        "name": "One Blood We Bleed",
-        "url": "https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr"
-      },
-      "artists": [
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
-        }
-      ],
-      "duration_ms": 145190,
-      "name": "One Blood We Bleed",
-      "url": "https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 219900,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "One Blood We Bleed",
+        "url": "https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "duration_ms": 145190,
+      "name": "One Blood We Bleed",
+      "url": "https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1583,6 +1583,22 @@
       "duration_ms": 209230,
       "name": "Someone Else - Underoath Remix",
       "url": "https://open.spotify.com/track/5zKBLSRXoRr94YOvkslsn8"
+    },
+    {
+      "added_at": "2022-12-13 20:10:17",
+      "album": {
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
     },
     {
       "added_at": "2022-12-13 20:10:17",
@@ -1631,22 +1647,6 @@
       "duration_ms": 210200,
       "name": "Brick Wall",
       "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
-    },
-    {
-      "added_at": "2022-12-13 20:10:17",
-      "album": {
-        "name": "Sweet Dreams of Otherness",
-        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Sweet Dreams of Otherness",
-      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
     }
   ],
   "unique_name": "Crash Course",

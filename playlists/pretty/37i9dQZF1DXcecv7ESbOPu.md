@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,250 likes - 115 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,285 likes - 115 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 16 | [Wonderkid](https://open.spotify.com/track/0U6GloB9lQkuKusEQxnLw3) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Wonderkid](https://open.spotify.com/album/696HisYAHvP0IaqoyZHWQk) | 2:05 |
 | 17 | [TRAKTEN TILL EPAN \(feat 1.Cuz & FRÖKEN SNUSK\)](https://open.spotify.com/track/0u8AMrMBM6S3YBDfPYwMfe) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [TRAKTEN TILL EPAN \(feat 1.Cuz & FRÖKEN SNUSK\)](https://open.spotify.com/album/0oYqqPkucziudAvLm4tyfa) | 2:04 |
 | 18 | [Första Gången I En EPA](https://open.spotify.com/track/7I2nD5Z74Ein0fa1P20Zfz) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Första Gången I En EPA](https://open.spotify.com/album/0DjX2jGILQdifC55byMol6) | 2:35 |
-| 19 | [The White Lotus Theme \(Aloha\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(Aloha\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 |
+| 19 | [The White Lotus Theme \(Aloha\)](https://open.spotify.com/track/3Hda0GqECvOiHtzEaderf5) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [The White Lotus Theme \(aloha\)](https://open.spotify.com/album/1pNL3qRgswav2cgDtClwrd) | 2:25 |
 | 20 | [Eye To Eye](https://open.spotify.com/track/6wJJSeYggU23fFSiZoWj4U) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [Eye To Eye](https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz) | 2:35 |
 | 21 | [Meant To Be](https://open.spotify.com/track/5NH4qjZpXcaWHGMLL7OF3n) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Meant To Be](https://open.spotify.com/album/4guU8vaM8ltcJX7qwUH2oF) | 2:16 |
 | 22 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 32 | [Body Better](https://open.spotify.com/track/6pn5dBDetgg4rojbzIxH7v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Body Better](https://open.spotify.com/album/1M3Zej93KusKy0Ty1IBVQI) | 3:09 |
 | 33 | [Hail Mary](https://open.spotify.com/track/15pyj3akaHTgy2qBkPGmRj) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Hail Mary](https://open.spotify.com/album/2kvKdfynjNj11A5Fc1k5zS) | 3:13 |
 | 34 | [MUST BE NICE](https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [MUST BE NICE](https://open.spotify.com/album/3Pb9pa9lDVmmxdP8nvKP7c) | 2:55 |
-| 35 | [Stay](https://open.spotify.com/track/3vqnnGl5PYzj0eRXEuDVNb) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Stay](https://open.spotify.com/album/7kpupdVQCbCdiVp0B8bMn8) | 3:16 |
+| 35 | [Stay.](https://open.spotify.com/track/3vqnnGl5PYzj0eRXEuDVNb) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Stay.](https://open.spotify.com/album/7kpupdVQCbCdiVp0B8bMn8) | 3:19 |
 | 36 | [Here](https://open.spotify.com/track/5yuGEEvvqMHvoLIxEFnaDT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Here](https://open.spotify.com/album/4BAFltaVZww9WWkkBROskZ) | 3:15 |
 | 37 | [Too Late \(with AJR\)](https://open.spotify.com/track/1FNpMhXQtpIfN0BXwEvIWS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The People's Champ](https://open.spotify.com/album/3plm9depNQ4MWerYdN0vaq) | 2:55 |
 | 38 | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO) | 2:47 |

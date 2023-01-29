@@ -4,7 +4,7 @@
 
 > Top trending new and recent tracks from the last few months\. Cover: Nate Smith
 
-265 songs - 14 hr 3 min
+266 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [Lying With You](https://open.spotify.com/track/11yIRJ5cyjJVnnfoBhWt6d) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Lying With You](https://open.spotify.com/album/2YpsZigTtax8g70dlvZsI7) | 2:59 | 2021-12-17 | 2022-04-29 |
 | [Made](https://open.spotify.com/track/4G644pINN0ZYIxyqeyuT4b) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made](https://open.spotify.com/album/4h4ZmlKntuJzWox0Ci3Q0i) | 3:15 | 2021-12-17 | 2022-03-05 |
 | [Madness](https://open.spotify.com/track/77aohFCZBpaYI4fQrCayIZ) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Madness](https://open.spotify.com/album/1vRyPVAXSmoetQ3HysW46B) | 3:25 | 2021-12-17 | 2022-06-25 |
-| [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 | 2022-10-14 |  |
+| [Marry That Girl](https://open.spotify.com/track/3onWmITkM6T6eynH06iJcy) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Let's Do Country Right](https://open.spotify.com/album/4nAKrvfd9o1TeJJTNCBU8I) | 3:10 | 2023-01-20 |  |
+| [Marry That Girl](https://open.spotify.com/track/5fJguEwoiu8bgePqAWMNRm) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Marry That Girl](https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp) | 3:11 | 2022-10-14 | 2023-01-29 |
 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 | 2022-03-25 |  |
 | [Me On You](https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Me On You](https://open.spotify.com/album/5bfDm08pB2zZmL50whoiBm) | 2:47 | 2022-07-15 |  |
 | [Mean Something](https://open.spotify.com/track/5kw5FXkySDRD90byTk4RoX) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Mean Something](https://open.spotify.com/album/5u7Aa2EgdoshTix08lz5Dx) | 3:20 | 2022-08-19 | 2022-11-03 |

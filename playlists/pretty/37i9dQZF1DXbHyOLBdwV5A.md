@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: Gui Brazil
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,282 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,357 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 61 | [Novo Lar](https://open.spotify.com/track/6Oxh5rxRzj9cDuTxtDbKXc) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH) | [Novo Lar](https://open.spotify.com/album/15O5l4C6oZ2kBgX7ssQbM0) | 4:06 |
 | 62 | [Só em Ti](https://open.spotify.com/track/0tNR8q9dwVpnB27DQ6goz8) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Thalita Barros](https://open.spotify.com/artist/2XcqwaVdCPErj0ah69UpbL) | [Só em Ti](https://open.spotify.com/album/7EyTM3WHWk8R63fqCdqM9N) | 3:52 |
 | 63 | [Recomeço](https://open.spotify.com/track/2PeDhCI7UbV8bDBcHNj3dG) | [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Recomeço](https://open.spotify.com/album/44NTSlb6xBsqGzOhBzSKYL) | 3:32 |
-| 64 | [Caminho Seguro](https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Caminho Seguro](https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox) | 3:35 |
-| 65 | [Te Seguirei](https://open.spotify.com/track/1XkJ57HfgrIQu33KU9zgrf) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Luiz Halleluia](https://open.spotify.com/artist/2FPYPMdnIsbKqEqui6NHHl), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Te Seguirei](https://open.spotify.com/album/3j4H2AabxhI6Fw09Ewd6Pd) | 2:58 |
+| 64 | [Te Seguirei](https://open.spotify.com/track/1XkJ57HfgrIQu33KU9zgrf) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Luiz Halleluia](https://open.spotify.com/artist/2FPYPMdnIsbKqEqui6NHHl), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Te Seguirei](https://open.spotify.com/album/3j4H2AabxhI6Fw09Ewd6Pd) | 2:58 |
+| 65 | [Caminho Seguro](https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Caminho Seguro](https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox) | 3:35 |
 | 66 | [Das Trevas para Luz \- VIP Version](https://open.spotify.com/track/37R0NpssvQdZ1o6TB9F5ld) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Viviane Franco](https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0) | [Renascido das Cinzas](https://open.spotify.com/album/2KlBD6CwyvCv9hMf77wVqS) | 3:24 |
 | 67 | [Eu Te Vejo Em Tudo \(Remix\)](https://open.spotify.com/track/1XkwuabxLXwd8KJhegVn8n) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Helena Albernaz](https://open.spotify.com/artist/0aULAu6t778NjHU24DfCc7) | [Eu Te Vejo Em Tudo \(Remix\)](https://open.spotify.com/album/1ZJlMeuK3YnxzFgVbDktxJ) | 2:46 |
 | 68 | [Vem Incendiar Meu Coração \- Remix](https://open.spotify.com/track/4VMtkqpzTLQta1aTS6deLz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Vem Incendiar Meu Coração \(Remix\)](https://open.spotify.com/album/2SINQmcO83kX7zQZlaFEEw) | 3:48 |
 | 69 | [Direção](https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Patrick Felix](https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf), [BR7](https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv) | [Direção](https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25) | 2:32 |
 | 70 | [Preso a Ti \- Remix](https://open.spotify.com/track/476Qd4m9IgQIw7GDIWWeQ2) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao) | [Preso a Ti \(Remix\)](https://open.spotify.com/album/0rFkK4UCEHCq5l4bqn3jCC) | 3:44 |
 
-Snapshot ID: `MTY3MzU4MTk3MiwwMDAwMDAwMGY0OTJkZDE2Zjk3YTg4MmE0YTYxMzhlMzllOTFiNWI5`
+Snapshot ID: `MTY3MzU4MTk3MiwwMDAwMDAwMDNjZTc5NDY5ZmY3M2RlNTk2MWM4ODk0ODZlODFmOGQz`

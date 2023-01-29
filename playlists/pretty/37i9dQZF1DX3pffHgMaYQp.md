@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 ### [lo hice por el punk](https://open.spotify.com/playlist/37i9dQZF1DX3pffHgMaYQp)
 
-> música para insubordinados\. Las Decapitadas en portada.
+> música para insubordinados\. Los Blenders en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,501 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,523 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 59 | [Dron](https://open.spotify.com/track/4OVH5QRHEtL2j4bo0ATrjM) | [San Pedro el Cortez](https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl) | [Un Poco Más de Luz](https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL) | 4:33 |
 | 60 | [Esqueletos Muertos](https://open.spotify.com/track/14uJk2QtpPjPWv5LLMkVYo) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [La Fortaleza del Sonido](https://open.spotify.com/album/2zt8e2xw1GIw7nZ7w9UI5o) | 4:33 |
 
-Snapshot ID: `MTY1MTA4NzA5NCwwMDAwMDAwMDIzY2EzOWJjMDYyMDk3ZDFmZTRiOTI4NjM0YjFhN2Yx`
+Snapshot ID: `MTY3NDg2OTA0MywwMDAwMDAwMGQ1ZWU2YzdlOTI5Y2JlMjkzOGE1MDEwMzJhNjFlNzZk`

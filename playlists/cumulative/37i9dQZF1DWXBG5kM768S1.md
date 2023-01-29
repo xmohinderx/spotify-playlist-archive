@@ -4,7 +4,7 @@
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-197 songs - 12 hr 34 min
+198 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [De Nære Ting](https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz) | [Ingrid Olava](https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ) | [De Nære Ting](https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih) | 2:18 | 2021-12-16 |  |
 | [Den finast eg veit](https://open.spotify.com/track/3NQDZSM47zCMao3GFkcqaV) | [Hellbillies](https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU) | [CoolTur](https://open.spotify.com/album/0S2qo4ezoborqQTJnzdsc6) | 4:04 | 2021-12-16 |  |
 | [Den Fyrste Song](https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5) | [Kråkeviks Songbok](https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf) | 2:58 | 2021-12-16 |  |
-| [den tyngste turen](https://open.spotify.com/track/4MqsWPW2UtBiAIGK8xoXu0) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A), [Aslag Haugen](https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc) | [den tyngste turen \(med Aslag Haugen\)](https://open.spotify.com/album/6ZHUyK14poEdYpMmLxxXkS) | 3:25 | 2021-12-16 |  |
+| [den tyngste turen](https://open.spotify.com/track/4MqsWPW2UtBiAIGK8xoXu0) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A), [Aslag Haugen](https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc) | [den tyngste turen \(med Aslag Haugen\)](https://open.spotify.com/album/6ZHUyK14poEdYpMmLxxXkS) | 3:25 | 2021-12-16 | 2023-01-29 |
 | [Der var du](https://open.spotify.com/track/67pRxxw4HUnATsrcVlhcAK) | [Kim Rysstad](https://open.spotify.com/artist/0k5dfZ7J3tg2cvsjkTX796) | [Der var du](https://open.spotify.com/album/5keKiJy2GPTMWWWHX1Exjf) | 3:36 | 2021-12-16 | 2022-07-28 |
 | [Det begynner å bli et liv](https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi) | [Anita Skorgan](https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4) | [Hver gang vi møtes \- Sesong 2 \- Ole Paus' dag](https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K) | 3:13 | 2021-12-16 | 2022-08-19 |
 | [Det e Svolvær](https://open.spotify.com/track/7aqK2UARpJ7iJuL5FHU4ck) | [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E) | [Det e Svolvær](https://open.spotify.com/album/023W0Yd6Wyka9DnP819GPe) | 3:37 | 2021-12-16 | 2022-07-21 |
@@ -51,6 +51,7 @@
 | [Det roliga regnet](https://open.spotify.com/track/3hGyoBKZjhnuH6Q3d9e0a1) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Det roliga regnet](https://open.spotify.com/album/6B3kwvGJr1aGsrJpyzIF0O) | 2:39 | 2022-01-06 | 2022-07-19 |
 | [Du fortenar ein som meg \- klineversjon](https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [1988 EP](https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU) | 4:17 | 2022-07-14 |  |
 | [Du fortenar ein som meg \- klineversjon](https://open.spotify.com/track/5hchDR7T3AwFfTe89Lh9O5) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [1988 EP](https://open.spotify.com/album/2TiHYiHT0RWXmkRc8RhNSw) | 4:17 | 2021-12-16 | 2022-07-29 |
+| [Du ga mæ viljestyrke](https://open.spotify.com/track/2CmPtitvLJxUscTLe5FntO) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Du ga mæ viljestyrke](https://open.spotify.com/album/1kw8X6Ma21t4pvFUQgdezP) | 3:38 | 2023-01-26 |  |
 | [Du har meg \(feat\. Jenny Zett\)](https://open.spotify.com/track/0mUOxGTn4AitezwmrVmIZY) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n), [Jenny Zett](https://open.spotify.com/artist/11lUWJmWBF6Sy7dc8fdD7B) | [Du har meg \(feat\. Jenny Zett\)](https://open.spotify.com/album/4pM50PikeR2aPhNwVBRbSw) | 4:34 | 2021-12-16 | 2022-07-26 |
 | [Dørstokkmila](https://open.spotify.com/track/0MZQ31wi9L4UyOfjjgV26s) | [Tre Små Kinesere](https://open.spotify.com/artist/6ZKFdIahCPNYqXuISNaosB) | [De aller beste fra Tre små kinesere](https://open.spotify.com/album/18wN36vWvcoTuVsFjDJGSx) | 2:51 | 2022-03-03 | 2022-07-01 |
 | [E du nord](https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [Og så kom resten av livet](https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN) | 5:11 | 2021-12-16 |  |

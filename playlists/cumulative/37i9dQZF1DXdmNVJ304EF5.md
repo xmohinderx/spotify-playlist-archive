@@ -4,7 +4,7 @@
 
 > Where the local scene started.
 
-50 songs - 2 hr 54 min
+52 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Money Power Fame](https://open.spotify.com/track/6Y2hhxh7Abr3Xtg7qM9Dz0) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Automatic](https://open.spotify.com/album/2HbNC0hBybJ97pzOcEtgW1) | 3:22 | 2022-12-28 |  |
 | [Move, Shake, Hide \- Was Brauer Mix](https://open.spotify.com/track/5MrZ8zjALW5fsTjch9YLrT) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1), [Was Brauer](https://open.spotify.com/artist/0FkFBPl6srrSG45Ihg1l0e) | [The Weird And Wonderful Marmozets](https://open.spotify.com/album/0g6Yixfp4y0wlDCY8ukhfp) | 3:27 | 2022-12-28 |  |
 | [No Sleep Tonight](https://open.spotify.com/track/0kkvGHFs7oTdfItBF4n1hW) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Common Dreads](https://open.spotify.com/album/1NuzPVEhVfDYdu49gmxrzd) | 4:16 | 2022-12-28 |  |
-| [Nothing Good Has Happened Yet](https://open.spotify.com/track/6EIu1N3745xkJ2qxeykWzU) | [We Are The Ocean](https://open.spotify.com/artist/5RTzLFUNaRULfg2DPh5DPO) | [Cutting Our Teeth](https://open.spotify.com/album/54pbN8eqhVv6lniXOk7FNv) | 3:36 | 2022-12-28 |  |
+| [Nothing Good Has Happened Yet](https://open.spotify.com/track/4P4OboFVHRhISaaUgkNs8i) | [We Are The Ocean](https://open.spotify.com/artist/5RTzLFUNaRULfg2DPh5DPO) | [Cutting Our Teeth](https://open.spotify.com/album/6k7LABEa4IbFLMpCfHYxKb) | 3:36 | 2022-12-28 |  |
+| [Nothing Good Has Happened Yet](https://open.spotify.com/track/6EIu1N3745xkJ2qxeykWzU) | [We Are The Ocean](https://open.spotify.com/artist/5RTzLFUNaRULfg2DPh5DPO) | [Cutting Our Teeth](https://open.spotify.com/album/54pbN8eqhVv6lniXOk7FNv) | 3:36 | 2022-12-28 | 2023-01-29 |
 | [Paint Your Target](https://open.spotify.com/track/2luFHMQrq9yKgr1U8JubKH) | [Fightstar](https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn) | [Grand Unification](https://open.spotify.com/album/1Y3M8nTpIKr1Vz8ufZthfC) | 3:16 | 2022-12-28 |  |
 | [Palahniuk's Laughter](https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3) | [Fightstar](https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn) | [They Liked You Better When You Were Dead](https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj) | 4:15 | 2022-12-28 |  |
 | [Peace](https://open.spotify.com/track/1tP5jKPJ4l4WnsW4UKeC36) | [Kids In Glass Houses](https://open.spotify.com/artist/0d630stEgFcD3GTKZPZFzY) | [Peace](https://open.spotify.com/album/0Qgx5EXUV1hdB6Ho9LAYdD) | 3:38 | 2022-12-28 |  |
@@ -53,7 +54,8 @@
 | [Stay With Me](https://open.spotify.com/track/2if2ZfIY26NB8bFeGAxWGD) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 | 2022-12-28 |  |
 | [Streetcar](https://open.spotify.com/track/3QvcNLv6ljvuU1KD7dSINg) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 3:36 | 2022-12-28 |  |
 | [The House of Wolves](https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:25 | 2022-12-28 |  |
-| [The Waiting Room](https://open.spotify.com/track/1BZQAtchKkqcz4NFeMI5Zw) | [We Are The Ocean](https://open.spotify.com/artist/5RTzLFUNaRULfg2DPh5DPO) | [Go Now and Live](https://open.spotify.com/album/4SHUbCPK55zrRQsBVRyeIW) | 3:34 | 2023-01-06 |  |
+| [The Waiting Room](https://open.spotify.com/track/1BZQAtchKkqcz4NFeMI5Zw) | [We Are The Ocean](https://open.spotify.com/artist/5RTzLFUNaRULfg2DPh5DPO) | [Go Now and Live](https://open.spotify.com/album/4SHUbCPK55zrRQsBVRyeIW) | 3:34 | 2023-01-06 | 2023-01-29 |
+| [The Waiting Room](https://open.spotify.com/track/576dgVw2PVAX58Sc2lEU7U) | [We Are The Ocean](https://open.spotify.com/artist/5RTzLFUNaRULfg2DPh5DPO) | [Go Now and Live](https://open.spotify.com/album/44GnKNNOe8FHcYp8Ehs5wt) | 3:34 | 2023-01-06 |  |
 | [This Is Why We Can't Have Nice Things](https://open.spotify.com/track/0pyRskqEB2Qri4epmXbya4) | [The Blackout](https://open.spotify.com/artist/35b2hm2fvbdZnckJO6FijB) | [The Best In Town](https://open.spotify.com/album/0PtAekoQJNGjtrTfZFc6pp) | 3:33 | 2022-12-28 |  |
 | [Underdog](https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 2:23 | 2022-12-28 |  |
 | [What Is Light? Where Is Laughter?](https://open.spotify.com/track/7kGLFYBvviGs2wnDTEPYEU) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Vivarium \(Deluxe\)](https://open.spotify.com/album/37nYXtPf5sghHSBadTY4bz) | 3:38 | 2023-01-06 |  |

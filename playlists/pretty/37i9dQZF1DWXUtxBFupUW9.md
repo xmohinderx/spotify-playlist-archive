@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 
 > Exercise together with uplifting soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,203 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,333 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 | 47 | [Hard to Handle](https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Soul Manifesto: 1964\-1970](https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ) | 2:21 |
 | 48 | [Machine Gun](https://open.spotify.com/track/3mQTPYezPCB9uUM3WpkIff) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Machine Gun](https://open.spotify.com/album/4OghKaRV54hQKGhkpD5cLC) | 2:39 |
 | 49 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/5Rb211KhnOhLLXPpt8awxU) | [Jr\. Walker & The All Stars](https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd) | [Road Runner](https://open.spotify.com/album/5zFjEP5qKjqonWTmBewAf1) | 3:02 |
-| 50 | [Chain Gang](https://open.spotify.com/track/7v1858htfU0srTDwhxeka8) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Swing Low](https://open.spotify.com/album/40y4Rm3Oum1bQlzIxZpVPq) | 2:35 |
+| 50 | [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 |
 
-Snapshot ID: `MTY3MzI2MTQ0NiwwMDAwMDAwMDkyZDFkNjg1NGU4NTk4ZmUxNjNjYzJhZjg1OGQyYmQ3`
+Snapshot ID: `MTY3MzI2MTQ0NiwwMDAwMDAwMGVjNzE5N2Q4NzczNjc0MTViZWFjZmZmYTM3YmJkMzc0`

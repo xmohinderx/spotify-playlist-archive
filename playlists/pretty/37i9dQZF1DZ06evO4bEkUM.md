@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 
 > This is Paramore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,179 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,422 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,23 +30,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bEkUM.md) - [plain]
 | 20 | [Monster \- Transformers Soundtrack Version](https://open.spotify.com/track/04BSvYghzdxjSJNpee36er) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Monster](https://open.spotify.com/album/5R7HaEiSyuBBPReEyfX39C) | 3:20 |
 | 21 | [Playing God](https://open.spotify.com/track/7hInOqJnlEayXao08yVYAn) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:02 |
 | 22 | [Caught in the Middle](https://open.spotify.com/track/27zJBz0YnuZO69U69z96vd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:34 |
-| 23 | [Emergency](https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 4:00 |
-| 24 | [Last Hope](https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 5:09 |
+| 23 | [Last Hope](https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 5:09 |
+| 24 | [Emergency](https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 4:00 |
 | 25 | [Misguided Ghosts](https://open.spotify.com/track/2VYqkb77OjToeRAnMNd4yU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:01 |
 | 26 | [Fake Happy](https://open.spotify.com/track/6t44iU80A0h8WQ7vc4OoRj) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:55 |
-| 27 | [My Heart](https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:59 |
-| 28 | [Tell Me It's Okay \- Demo](https://open.spotify.com/track/1b0sV4coLmS3ri2kZjr98z) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 2:43 |
+| 27 | [Tell Me It's Okay \- Demo](https://open.spotify.com/track/1b0sV4coLmS3ri2kZjr98z) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 2:43 |
+| 28 | [My Heart](https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:59 |
 | 29 | [Hate to See Your Heart Break](https://open.spotify.com/track/3AX4HIRJY6GT6tgMkO5987) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 5:09 |
 | 30 | [26](https://open.spotify.com/track/2EcQY09CYgJ1qk6H1qZf8h) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:41 |
-| 31 | [Conspiracy](https://open.spotify.com/track/21aVkXDch0A1nXo9he3j8L) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:42 |
-| 32 | [When It Rains](https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:35 |
+| 31 | [When It Rains](https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:35 |
+| 32 | [Conspiracy](https://open.spotify.com/track/21aVkXDch0A1nXo9he3j8L) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:42 |
 | 33 | [Renegade](https://open.spotify.com/track/6M9Da8TDERZzTdBYkxMRji) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:28 |
 | 34 | [Now](https://open.spotify.com/track/0LBz07gAdgUukYvpFyW87y) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:10 |
-| 35 | [Brighter](https://open.spotify.com/track/3GoNxPKPZPaAAZVQZ003TI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:43 |
-| 36 | [Fences](https://open.spotify.com/track/4aICBAAFGF3pLSZDlmsMj9) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:18 |
+| 35 | [Fences](https://open.spotify.com/track/4aICBAAFGF3pLSZDlmsMj9) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:18 |
+| 36 | [Brighter](https://open.spotify.com/track/3GoNxPKPZPaAAZVQZ003TI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:43 |
 | 37 | [Hello Cold World](https://open.spotify.com/track/1V8qfqICVnpmex8g9yn1Pc) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:23 |
-| 38 | [Here We Go Again](https://open.spotify.com/track/5Pp1H1mFlL6o63omITUvfn) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:46 |
-| 39 | [For a Pessimist, I'm Pretty Optimistic](https://open.spotify.com/track/2PDLmgDWiwjUTxl1pPyDQA) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:48 |
+| 38 | [For a Pessimist, I'm Pretty Optimistic](https://open.spotify.com/track/2PDLmgDWiwjUTxl1pPyDQA) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:48 |
+| 39 | [Here We Go Again](https://open.spotify.com/track/5Pp1H1mFlL6o63omITUvfn) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:46 |
 | 40 | [In the Mourning](https://open.spotify.com/track/2NSjoft78kEQSUgpOXeMDg) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Singles Club](https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1) | 3:05 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDAzMWRiM2FkY2UyOTcxMmNmNjQ5MDEwM2Y3ZjdlYThkYg==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDAzNmMxZGVkYzJlNGVmZDlkZWRiOTBiMjNiODYwODFiMw==`

@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 161644,
       "name": "Airborne",
       "url": "https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 152000,
       "name": "Blessing In Disguise",
       "url": "https://open.spotify.com/track/1oxgOieE4U81VQM8Fd0B4W"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Cinematique",
       "url": "https://open.spotify.com/track/7KHGqeUF5KpiD1rtpqds3z"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 126374,
       "name": "Feeling Free",
       "url": "https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe"
@@ -5798,7 +5798,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 185750,
       "name": "Never Give In",
       "url": "https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3"
@@ -8196,7 +8196,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 144000,
       "name": "Soar",
       "url": "https://open.spotify.com/track/5JoCHCDI2s4PvI2H2yGlHs"
@@ -8574,7 +8574,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-24",
+      "date_removed": null,
       "duration_ms": 197871,
       "name": "Storr",
       "url": "https://open.spotify.com/track/1FsASiGx3ay1qxeqZA9sdP"
@@ -9586,6 +9586,24 @@
       "duration_ms": 154337,
       "name": "Unbroken",
       "url": "https://open.spotify.com/track/0sYYa0fs1PVKGyceC2QEP4"
+    },
+    {
+      "album": {
+        "name": "Une main tendue",
+        "url": "https://open.spotify.com/album/33xfKJOTxE3XQPsinEubFw"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Aubin",
+          "url": "https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121299,
+      "name": "Une main tendue",
+      "url": "https://open.spotify.com/track/5rqAxnEsenuRJjUAXbzima"
     },
     {
       "album": {

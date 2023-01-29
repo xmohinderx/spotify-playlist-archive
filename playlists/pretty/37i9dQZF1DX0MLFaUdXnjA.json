@@ -1,12 +1,12 @@
 {
   "description": "Keep it low-key with all of today's chill pop. Cover: Stephen Sanchez",
-  "num_followers": 1817566,
+  "num_followers": 1817689,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGQ0YWM3OTRmM2UyNDRiZTRkOTA1ZjdmOWJjYjBhOWYy",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGFiMzRlNmQ5MDA1NTdjNTdkZTRmMjQ3ZWM3MjY5YzVl",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 242922,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "I'm So Happy",
         "url": "https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 179930,
       "name": "Moon",
       "url": "https://open.spotify.com/track/3jJNg3l3NoZwQKESfr04VS"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 242922,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1003,22 +1003,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Firebabe",
-        "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
+        "name": "I Tried",
+        "url": "https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH"
       },
       "artists": [
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
         }
       ],
-      "duration_ms": 220346,
-      "name": "Firebabe",
-      "url": "https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4"
+      "duration_ms": 136182,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1039,18 +1035,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "I Tried",
-        "url": "https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH"
+        "name": "Firebabe",
+        "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
       },
       "artists": [
         {
-          "name": "Daniel Seavey",
-          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
         }
       ],
-      "duration_ms": 136182,
-      "name": "I Tried",
-      "url": "https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy"
+      "duration_ms": 220346,
+      "name": "Firebabe",
+      "url": "https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Forget Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/2IIMt19xJuWIHVmfpd9jH8"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Right Person Right Time",
         "url": "https://open.spotify.com/album/2VFni6wfmAnqDS7OWnBUt6"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 178000,
       "name": "Right Person Right Time",
       "url": "https://open.spotify.com/track/5OkOmrLsbr8Lg5wj89LOUb"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Forget Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/2IIMt19xJuWIHVmfpd9jH8"
     },
     {
       "added_at": "2023-01-27 05:00:00",

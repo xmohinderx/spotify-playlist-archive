@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,850 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,872 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 26 | [MOB TIES](https://open.spotify.com/track/6UqPgAXiEWQ6ufr6SsrYrn) | [TeraphoniQue](https://open.spotify.com/artist/04oIjchSi05edEVbMQr64m), [DNZL444](https://open.spotify.com/artist/1aBBAzFrklsARDCrA7Qpe9) | [MOB TIES](https://open.spotify.com/album/7qG3ybL5XDIzcbfr5DKHBj) | 7:06 |
 | 27 | [Puuh](https://open.spotify.com/track/4qMofi2HvTzvLEQ6EqywPP) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Puuh](https://open.spotify.com/album/6Y1kRLTcchAfHbb1XYgNWt) | 3:56 |
 | 28 | [Badda Dan](https://open.spotify.com/track/07e8mzks3CsarNK0V4D83R) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [Rezman](https://open.spotify.com/artist/4Crxp8L5gXKFMBayR53sVS) | [Bad Meets Evil](https://open.spotify.com/album/6uzzDIkVR1jHoYeHYQKEd9) | 2:31 |
-| 29 | [Angela](https://open.spotify.com/track/6YBG1RnrZfdEH5EvcWP4YF) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Juicee Man](https://open.spotify.com/artist/5aPQde9UW5ec9Rl3kQ94lh) | [Mawingu](https://open.spotify.com/album/67yuWyHBKoIcTlQLT72KQN) | 2:57 |
+| 29 | [Angela](https://open.spotify.com/track/6YBG1RnrZfdEH5EvcWP4YF) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Juicee Mann](https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ) | [Mawingu](https://open.spotify.com/album/67yuWyHBKoIcTlQLT72KQN) | 2:57 |
 | 30 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 |
 | 31 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 |
 | 32 | [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 |

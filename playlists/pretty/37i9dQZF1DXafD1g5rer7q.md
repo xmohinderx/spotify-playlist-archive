@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,449 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,646 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 43 | [Get Low](https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Money Sucks, Friends Rule](https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI) | 3:32 |
 | 44 | [Creep](https://open.spotify.com/track/7CEIFwLf4XmFz8okORSizE) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Creep](https://open.spotify.com/album/60SKSurtzL5m59nahMg9TL) | 3:23 |
 | 45 | [The Mack](https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ) | [Nevada](https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT), [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [The Mack](https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn) | 2:47 |
-| 46 | [Your Love](https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Your Love](https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO) | 3:05 |
-| 47 | [Cali Dreams \(feat\. The Beach\)](https://open.spotify.com/track/4S5uBAB6Jl4IsMzwBpt2Rf) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Cali Dreams \(feat\. The Beach\)](https://open.spotify.com/album/3Naa1Xkn2NqzQ9ER1X6lTc) | 3:41 |
-| 48 | [Alone Again \(feat\. Afrojack & Mougleta\)](https://open.spotify.com/track/1RwfArdUM01AISnxkpayMc) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Alone Again \(feat\. Afrojack & Mougleta\)](https://open.spotify.com/album/73fglkrm4TDlCAcIepuB8p) | 2:43 |
-| 49 | [Let Me Hold You \(Turn Me On\)](https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Dante Klein](https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN) | [Let Me Hold You \(Turn Me On\)](https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9) | 2:42 |
+| 46 | [Alone Again \(feat\. Afrojack & Mougleta\)](https://open.spotify.com/track/1RwfArdUM01AISnxkpayMc) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Alone Again \(feat\. Afrojack & Mougleta\)](https://open.spotify.com/album/73fglkrm4TDlCAcIepuB8p) | 2:43 |
+| 47 | [Your Love](https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Your Love](https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO) | 3:05 |
+| 48 | [Let Me Hold You \(Turn Me On\)](https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Dante Klein](https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN) | [Let Me Hold You \(Turn Me On\)](https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9) | 2:42 |
+| 49 | [Cali Dreams \(feat\. The Beach\)](https://open.spotify.com/track/4S5uBAB6Jl4IsMzwBpt2Rf) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Cali Dreams \(feat\. The Beach\)](https://open.spotify.com/album/3Naa1Xkn2NqzQ9ER1X6lTc) | 3:41 |
 | 50 | [Split \(Only U\)](https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Split \(Only U\)](https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd) | 4:16 |
 
-Snapshot ID: `MTY3MzU0MDAyNCwwMDAwMDAwMGE5MDY5MzE0ZGI5MWE4NjgxNDUxMGQwNzg0YWEzNjA4`
+Snapshot ID: `MTY3MzU0MDAyNCwwMDAwMDAwMGRmZWFiOTRiNzM2NjI4YWMxYTcyNjQwMDZiNDIwMTQ3`

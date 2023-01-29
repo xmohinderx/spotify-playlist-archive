@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 
 > Unforgettable songs from Iconic Arab women\. Cover: Umm Kulthum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,464 likes - 50 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,490 likes - 50 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 3 | [Batwanes Beek](https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Batwanes Beek](https://open.spotify.com/album/3w6wliAjhJS16hZyimZpT7) | 13:24 |
 | 4 | [Khedni Maak Aa Darb Bi'ldi](https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 4:14 |
 | 5 | [Kalimat](https://open.spotify.com/track/1kzNSl6M58cxfr8ac6xvhw) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Kalimat](https://open.spotify.com/album/1wmKgWsgJyFvrsKYHNqAWX) | 12:34 |
-| 6 | [Yawman Ma](https://open.spotify.com/track/3gucBOpDuQQkemmVE2NtEQ) | [Julia Boutros](https://open.spotify.com/artist/1MBqKgaBet9mU8vI0hqj6c) | [Yawman Ma](https://open.spotify.com/album/7gRVnSkXghsBft2P4K8Ycy) | 3:22 |
+| 6 | [Ana Bashaa El Bahr](https://open.spotify.com/track/55HS624LYOCR3QwOUxWbMJ) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Oyon El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 5:29 |
 | 7 | [Alf Leila We Leila](https://open.spotify.com/track/7kOtvS6igRttHxNnJDyaQD) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 1](https://open.spotify.com/album/4fr12i7Bw7CC6fvGA6bnkn) | 41:37 |
-| 8 | [Ana Bashaa El Bahr](https://open.spotify.com/track/55HS624LYOCR3QwOUxWbMJ) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Oyon El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 5:29 |
+| 8 | [Yawman Ma](https://open.spotify.com/track/3gucBOpDuQQkemmVE2NtEQ) | [Julia Boutros](https://open.spotify.com/artist/1MBqKgaBet9mU8vI0hqj6c) | [Yawman Ma](https://open.spotify.com/album/7gRVnSkXghsBft2P4K8Ycy) | 3:22 |
 | 9 | [Nassam Alayna El Hawa](https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Bent El Hares](https://open.spotify.com/album/0lf0V72GGI3YVA6d7jA9M5) | 4:03 |
 | 10 | [Ana Baashaak](https://open.spotify.com/track/4meyL6OvN5WhJ9JNEsZSeN) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Ana Baashaak](https://open.spotify.com/album/3TBiRcV5BVsFTaqot77WpG) | 37:02 |
 | 11 | [Haramt Ahebak](https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Haramt Ahebak](https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo) | 7:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 49 | [Hawa Ya Hawa](https://open.spotify.com/track/7JQkMHDQNxSmNXOFLkPQyV) | [Afaf Rady](https://open.spotify.com/artist/1mznZiCltI3qJI8JFLwKCy) | [Rodo El Salam](https://open.spotify.com/album/1GbYwlKnbclesWPam5sy64) | 7:00 |
 | 50 | [El Hob Ban Aliah](https://open.spotify.com/track/7lM7ZtFpxoPy0qUwyBQRdX) | [Rabab](https://open.spotify.com/artist/4KaSkNUbgoD4Ei3brZKP4z) | [El Hob Ban Aliah](https://open.spotify.com/album/3jHwxxyPfSmvoaxh1BnG9S) | 6:09 |
 
-Snapshot ID: `MTY3MTQwMzIxMSwwMDAwMDAwMGY1MWU3NDNjNDIzOGQxN2FkMmJmMjE0NzdlODJlMTFh`
+Snapshot ID: `MTY3MTQwMzIxMSwwMDAwMDAwMGM0MGUwOWY1YzdlOGQ4NDViOWNhNzQwZmNhMjRkOThm`

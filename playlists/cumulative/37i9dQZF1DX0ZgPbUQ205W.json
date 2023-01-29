@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Blue Mist",
+        "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
+      },
+      "artists": [
+        {
+          "name": "Matt Marantz Quartet",
+          "url": "https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204544,
+      "name": "Blue Mist",
+      "url": "https://open.spotify.com/track/4douYG0S01NIbF0vyz7PPb"
+    },
+    {
+      "album": {
         "name": "Body And Shadow",
         "url": "https://open.spotify.com/album/02LCzhJYIuhocX6uCzTPJh"
       },
@@ -1036,7 +1054,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 241640,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/7coZuTH340U7sJKtTMsG93"
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 296253,
       "name": "Elisian/Inutil Paisagem",
       "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
@@ -1347,7 +1365,7 @@
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 229200,
+      "duration_ms": 235487,
       "name": "For L.R.P.",
       "url": "https://open.spotify.com/track/0m7znBzP0zJP5J6DomAfkg"
     },
@@ -1968,7 +1986,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 290013,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z"
@@ -2345,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "Let's go uptown",
+        "url": "https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3"
+      },
+      "artists": [
+        {
+          "name": "Newington Green",
+          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140648,
+      "name": "Let's go uptown",
+      "url": "https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA"
+    },
+    {
+      "album": {
         "name": "Blueberry Street",
         "url": "https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo"
       },
@@ -2486,6 +2522,24 @@
       "duration_ms": 359906,
       "name": "Lonely Shadows",
       "url": "https://open.spotify.com/track/25YYVgOIVdR862zVCSWr13"
+    },
+    {
+      "album": {
+        "name": "Looking Forward",
+        "url": "https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH"
+      },
+      "artists": [
+        {
+          "name": "Steve Luke & Holloway",
+          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191874,
+      "name": "Looking Forward",
+      "url": "https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp"
     },
     {
       "album": {

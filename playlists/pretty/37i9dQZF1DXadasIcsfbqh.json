@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Katy Perry and Thomas Rhett",
-  "num_followers": 110460,
+  "num_followers": 110547,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg1MzY5MSwwMDAwMDAwMGJlYTlkM2E0M2VmNzQwZjA2NTE5MmE5ODdlOGRkOGNh",
+  "snapshot_id": "MTY3NDg1MzY5MSwwMDAwMDAwMGY3MTFmMTRkOTc2NTJlYjUwNWYwNDYxMWVhYmYwNzQ5",
   "tracks": [
     {
       "added_at": "2023-01-20 04:32:17",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-01-20 04:32:17",
       "album": {
+        "name": "Water Under The Bridge",
+        "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Water Under The Bridge",
+      "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
+    },
+    {
+      "added_at": "2023-01-20 04:32:17",
+      "album": {
         "name": "MACON",
         "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 212030,
       "name": "If I Didn't Love You",
       "url": "https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux"
-    },
-    {
-      "added_at": "2023-01-20 04:32:17",
-      "album": {
-        "name": "Water Under The Bridge",
-        "url": "https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Water Under The Bridge",
-      "url": "https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg"
     },
     {
       "added_at": "2023-01-20 04:32:17",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-01-20 04:32:17",
       "album": {
-        "name": "I Wonder",
-        "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF"
-    },
-    {
-      "added_at": "2023-01-20 04:32:17",
-      "album": {
         "name": "Dancin' In The Country",
         "url": "https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 179645,
       "name": "Dancin\u2019 In The Country",
       "url": "https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf"
+    },
+    {
+      "added_at": "2023-01-20 04:32:17",
+      "album": {
+        "name": "I Wonder",
+        "url": "https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF"
     },
     {
       "added_at": "2023-01-20 04:32:17",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-20 04:32:17",
       "album": {
-        "name": "Glad You Exist",
-        "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "Glad You Exist",
-      "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
-    },
-    {
-      "added_at": "2023-01-20 04:32:17",
-      "album": {
         "name": "She Likes It (feat. Jake Scott)",
         "url": "https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 163311,
       "name": "She Likes It (feat. Jake Scott)",
       "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
+    },
+    {
+      "added_at": "2023-01-20 04:32:17",
+      "album": {
+        "name": "Glad You Exist",
+        "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Glad You Exist",
+      "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
     },
     {
       "added_at": "2023-01-20 04:32:17",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-01-20 04:32:17",
       "album": {
-        "name": "HEARTFIRST",
-        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 187016,
-      "name": "HEARTFIRST",
-      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
-    },
-    {
-      "added_at": "2023-01-20 04:32:17",
-      "album": {
         "name": "I Still Love You",
         "url": "https://open.spotify.com/album/3pRvMR2NZEkoudW2t6DHoe"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 224149,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/1OcrmjcHuoTw1O5QHOpTc2"
+    },
+    {
+      "added_at": "2023-01-20 04:32:17",
+      "album": {
+        "name": "HEARTFIRST",
+        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 187016,
+      "name": "HEARTFIRST",
+      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
     },
     {
       "added_at": "2023-01-20 04:32:17",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-01-20 04:32:17",
       "album": {
+        "name": "Giving You Up",
+        "url": "https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 230842,
+      "name": "Giving You Up",
+      "url": "https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj"
+    },
+    {
+      "added_at": "2023-01-20 04:32:17",
+      "album": {
         "name": "When You Know",
         "url": "https://open.spotify.com/album/5TQpsbM1Y8JQK7QUbv8aLc"
       },
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2023-01-20 04:32:17",
       "album": {
-        "name": "Giving You Up",
-        "url": "https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p"
+        "name": "Born Here Live Here Die Here (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6"
       },
       "artists": [
         {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 230842,
-      "name": "Giving You Up",
-      "url": "https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj"
+      "duration_ms": 228440,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/027269uzraETHuoG6aMs6a"
     },
     {
       "added_at": "2023-01-20 04:32:17",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2023-01-20 04:32:17",
       "album": {
-        "name": "Born Here Live Here Die Here (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/027269uzraETHuoG6aMs6a"
-    },
-    {
-      "added_at": "2023-01-20 04:32:17",
-      "album": {
         "name": "Mood Swings",
         "url": "https://open.spotify.com/album/3psE2QZTcNFhLGUpY76F4s"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 178813,
       "name": "la di da",
       "url": "https://open.spotify.com/track/6doGgaQHLno4lTLbgkWd6b"
-    },
-    {
-      "added_at": "2023-01-20 04:32:17",
-      "album": {
-        "name": "The Otherside",
-        "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 195515,
-      "name": "Till There's Nothing Left",
-      "url": "https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8"
     },
     {
       "added_at": "2023-01-20 04:32:17",
@@ -1187,6 +1171,22 @@
       "duration_ms": 161853,
       "name": "Fancy Like (feat. Kesha)",
       "url": "https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo"
+    },
+    {
+      "added_at": "2023-01-20 04:32:17",
+      "album": {
+        "name": "The Otherside",
+        "url": "https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "duration_ms": 195515,
+      "name": "Till There's Nothing Left",
+      "url": "https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8"
     },
     {
       "added_at": "2023-01-20 04:32:17",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-01-20 04:32:17",
       "album": {
-        "name": "Just Drive",
-        "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
-      },
-      "artists": [
-        {
-          "name": "Erin Kinsey",
-          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
-        }
-      ],
-      "duration_ms": 147693,
-      "name": "Just Drive",
-      "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
-    },
-    {
-      "added_at": "2023-01-20 04:32:17",
-      "album": {
         "name": "Chapter 1: Things We're Not Saying",
         "url": "https://open.spotify.com/album/1WbnYN5xJRoNCPMQ2Ne0xn"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 154606,
       "name": "X's",
       "url": "https://open.spotify.com/track/0xgXEMA62AEMPSM0inCuLy"
+    },
+    {
+      "added_at": "2023-01-20 04:32:17",
+      "album": {
+        "name": "Just Drive",
+        "url": "https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 147693,
+      "name": "Just Drive",
+      "url": "https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5"
     },
     {
       "added_at": "2023-01-20 04:32:17",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-01-20 04:32:17",
       "album": {
+        "name": "Woman You Got",
+        "url": "https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm"
+      },
+      "artists": [
+        {
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+        }
+      ],
+      "duration_ms": 177951,
+      "name": "Woman You Got",
+      "url": "https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl"
+    },
+    {
+      "added_at": "2023-01-20 04:32:17",
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Snake Oil (Deluxe)",
         "url": "https://open.spotify.com/album/6QkaLeuxTaYibek4fhwpmF"
       },
@@ -1559,18 +1575,26 @@
     {
       "added_at": "2023-01-20 04:32:17",
       "album": {
-        "name": "Woman You Got",
-        "url": "https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm"
+        "name": "Sunroof (Remixes)",
+        "url": "https://open.spotify.com/album/2Lm0F5MpahWZ4vb0k4MiHj"
       },
       "artists": [
         {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 177951,
-      "name": "Woman You Got",
-      "url": "https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl"
+      "duration_ms": 163025,
+      "name": "Sunroof (feat. Thomas Rhett)",
+      "url": "https://open.spotify.com/track/2xRPwGneUj9S6UNC2TthyJ"
     },
     {
       "added_at": "2023-01-20 04:32:17",
@@ -1611,26 +1635,18 @@
     {
       "added_at": "2023-01-20 04:32:17",
       "album": {
-        "name": "Sunroof (Remixes)",
-        "url": "https://open.spotify.com/album/2Lm0F5MpahWZ4vb0k4MiHj"
+        "name": "Left You For Me",
+        "url": "https://open.spotify.com/album/03gbxBbvrYa9tfMtBOorEj"
       },
       "artists": [
         {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        },
-        {
-          "name": "dazy",
-          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
-        },
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Brooke Eden",
+          "url": "https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt"
         }
       ],
-      "duration_ms": 163025,
-      "name": "Sunroof (feat. Thomas Rhett)",
-      "url": "https://open.spotify.com/track/2xRPwGneUj9S6UNC2TthyJ"
+      "duration_ms": 230632,
+      "name": "Left You For Me",
+      "url": "https://open.spotify.com/track/2c6RxNOmFQ5Vfnay17glsh"
     },
     {
       "added_at": "2023-01-20 04:32:17",
@@ -1647,22 +1663,6 @@
       "duration_ms": 162973,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/73gI9hHi8wKYyNvoHFmH9C"
-    },
-    {
-      "added_at": "2023-01-20 04:32:17",
-      "album": {
-        "name": "Left You For Me",
-        "url": "https://open.spotify.com/album/03gbxBbvrYa9tfMtBOorEj"
-      },
-      "artists": [
-        {
-          "name": "Brooke Eden",
-          "url": "https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt"
-        }
-      ],
-      "duration_ms": 230632,
-      "name": "Left You For Me",
-      "url": "https://open.spotify.com/track/2c6RxNOmFQ5Vfnay17glsh"
     },
     {
       "added_at": "2023-01-20 04:32:17",

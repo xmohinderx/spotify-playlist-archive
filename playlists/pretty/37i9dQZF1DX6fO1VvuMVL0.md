@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,206 likes - 75 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,266 likes - 75 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 26 | [Ghost of a Chance](https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM) | [Lennie Tristano](https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e) | [Lennie Tristano / The New Tristano](https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9) | 6:05 |
 | 27 | [All the Things You Are](https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 5:51 |
 | 28 | [For Miles And Miles](https://open.spotify.com/track/3xHZQmEwgrLTQv2b6vTYPC) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Picture Of Heath](https://open.spotify.com/album/7gGl026dNLosYhDnHcCIgO) | 6:25 |
-| 29 | [Topsy](https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 5:24 |
+| 29 | [On Green Dolphin Street](https://open.spotify.com/track/31DobufWZZuZBHtdUO9WpJ) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [On Green Dolphin Street](https://open.spotify.com/album/36qVpx6Ra3F9EqgX4mAMqW) | 8:08 |
 | 30 | [Jeru](https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 3:13 |
-| 31 | [On Green Dolphin Street](https://open.spotify.com/track/31DobufWZZuZBHtdUO9WpJ) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [On Green Dolphin Street](https://open.spotify.com/album/36qVpx6Ra3F9EqgX4mAMqW) | 8:08 |
+| 31 | [Topsy](https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 5:24 |
 | 32 | [There Will Never Be Another You](https://open.spotify.com/track/5uQkJU8FDt9srkxKfKRiBN) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Young With The Oscar Peterson Trio](https://open.spotify.com/album/4LT6FAMWGSf3qpPn3Wdyh1) | 3:28 |
 | 33 | [Walkin' Shoes](https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:30 |
 | 34 | [I'll Remember April](https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [September In The Rain](https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142) | 2:46 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 65 | [One Bass Hit](https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Django \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp) | 2:59 |
 | 66 | [Fishin' Around](https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Subconscious\-Lee](https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe) | 3:44 |
 | 67 | [On A Riff](https://open.spotify.com/track/2YukMgAWfr4Ew8oONiNLdP) | [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa) | [Plays Andre Hodeir](https://open.spotify.com/album/0s69Ld833Q6OtOtkbRD45O) | 2:55 |
-| 68 | [Nancy](https://open.spotify.com/track/2J5Q8XYnCwDVyTazuCu9VG) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Ten](https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ) | 6:06 |
-| 69 | [Angel Eyes](https://open.spotify.com/track/0DD6R7aDMmqPrt6qRXZHP3) | [Dave Pell's Jazz Octet](https://open.spotify.com/artist/7uKEUlOk1OB6GcGp0rxnaM) | [A Pell Of A Time](https://open.spotify.com/album/3mHfj7IYxLfpAOULy0nM11) | 5:38 |
+| 68 | [Angel Eyes](https://open.spotify.com/track/0DD6R7aDMmqPrt6qRXZHP3) | [Dave Pell's Jazz Octet](https://open.spotify.com/artist/7uKEUlOk1OB6GcGp0rxnaM) | [A Pell Of A Time](https://open.spotify.com/album/3mHfj7IYxLfpAOULy0nM11) | 5:38 |
+| 69 | [Nancy](https://open.spotify.com/track/2J5Q8XYnCwDVyTazuCu9VG) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Ten](https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ) | 6:06 |
 | 70 | [Too Marvelous For Words](https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Quartets \(Remastered\)](https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg) | 2:53 |
 | 71 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
 | 72 | [Sunflower](https://open.spotify.com/track/7EzUxzOUcq6HocnqSUr8JT) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Very Cool](https://open.spotify.com/album/4Znupug2SmOqzImnUJ9aS6) | 8:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 74 | [Miles Ahead](https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Ahead \(Expanded Edition\)](https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9) | 3:29 |
 | 75 | [Deception](https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 2:48 |
 
-Snapshot ID: `MTY3NDIwNzg4NywwMDAwMDAwMGU5YmRjYTNkY2VkZTEzNGUzNDZmMjMwZWQ3NzkyOWVh`
+Snapshot ID: `MTY3NDIwNzg4NywwMDAwMDAwMGFmYzViYTAyNTc3YjI2YWVlODNiZmYxNWQ1MGJhNTlh`

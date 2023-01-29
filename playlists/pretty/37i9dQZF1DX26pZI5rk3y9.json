@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 3437,
+  "num_followers": 3454,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk5MTI4OCwwMDAwMDAwMGVjNmI5OGY4NzFhY2EzNGZkM2VmOGE3MmQxN2Q5YmFh",
+  "snapshot_id": "MTY2OTk5MTI4OCwwMDAwMDAwMDQ5YjUxMjA2MGZlMzY2NzE1YmRkOWY0NjNjMmQyZDE0",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Groove Juice: The Norman Granz Recordings + More",
-        "url": "https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc"
-      },
-      "artists": [
-        {
-          "name": "Slim Gaillard",
-          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
-        }
-      ],
-      "duration_ms": 149893,
-      "name": "Chicken Rhythm",
-      "url": "https://open.spotify.com/track/2bUb0zfTVwB6kMwarTan34"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "I See a Man Downstairs",
         "url": "https://open.spotify.com/album/55pXKlTlKOo5sm03vJwOOR"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 192484,
       "name": "I See a Man Downstairs",
       "url": "https://open.spotify.com/track/54JUUTQSkFRwoi03H3LSEx"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Groove Juice: The Norman Granz Recordings + More",
+        "url": "https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc"
+      },
+      "artists": [
+        {
+          "name": "Slim Gaillard",
+          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
+        }
+      ],
+      "duration_ms": 149893,
+      "name": "Chicken Rhythm",
+      "url": "https://open.spotify.com/track/2bUb0zfTVwB6kMwarTan34"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "Wet Hayshark",
-      "url": "https://open.spotify.com/track/6kQHH7KLnEQqzK1gULf0Wd"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
         "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Complete Recordings, Vol. 5: The Final Chapter",
-        "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
       },
       "artists": [
         {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Gimme a Pigfoot and a Bottle of Beer",
-      "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
+      "duration_ms": 148093,
+      "name": "Wet Hayshark",
+      "url": "https://open.spotify.com/track/6kQHH7KLnEQqzK1gULf0Wd"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -843,6 +827,22 @@
       "duration_ms": 255893,
       "name": "Two Bugs And A Roach",
       "url": "https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "The Complete Recordings, Vol. 5: The Final Chapter",
+        "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Gimme a Pigfoot and a Bottle of Beer",
+      "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "Presenting Smiley Lewis",
+        "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
+      },
+      "artists": [
+        {
+          "name": "Smiley Lewis",
+          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Gumbo Blues",
+      "url": "https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "Porch Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Presenting Smiley Lewis",
-        "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
-      },
-      "artists": [
-        {
-          "name": "Smiley Lewis",
-          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Gumbo Blues",
-      "url": "https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Greatest Country Blues",
         "url": "https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 142933,
       "name": "Robbie-Doby Boogie",
       "url": "https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "I Was a Mod Before You Were a Mod Vol. 2",
-        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
-      },
-      "artists": [
-        {
-          "name": "Jesse Stone",
-          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
-        }
-      ],
-      "duration_ms": 137534,
-      "name": "Crawfish",
-      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -1023,6 +1007,22 @@
       "duration_ms": 228826,
       "name": "Old School Player",
       "url": "https://open.spotify.com/track/5WPhSl7le114iqttOLZsiV"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "I Was a Mod Before You Were a Mod Vol. 2",
+        "url": "https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW"
+      },
+      "artists": [
+        {
+          "name": "Jesse Stone",
+          "url": "https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0"
+        }
+      ],
+      "duration_ms": 137534,
+      "name": "Crawfish",
+      "url": "https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW"
     },
     {
       "added_at": "2022-12-02 14:28:08",

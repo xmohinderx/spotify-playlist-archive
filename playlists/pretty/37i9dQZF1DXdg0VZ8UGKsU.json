@@ -1,12 +1,12 @@
 {
   "description": "All 80s, all ballads. Cover: Michael Bolton",
-  "num_followers": 261890,
+  "num_followers": 262138,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI1Njg0OSwwMDAwMDAwMDE0ZWZjYWU4NGU3OWJkYTA3YzM2ZDBjNjNkMDliZDli",
+  "snapshot_id": "MTY3MjI1Njg0OSwwMDAwMDAwMGI1M2VmYzljMGIxMjIwZmFkNWU1M2U4ODFkMWE2OWY4",
   "tracks": [
     {
       "added_at": "2022-12-28 19:47:29",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
+        "name": "No Brakes",
+        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
+      },
+      "artists": [
+        {
+          "name": "John Waite",
+          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
         "name": "Escape (Bonus Track Version)",
         "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
@@ -427,18 +443,18 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "No Brakes",
-        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
       },
       "artists": [
         {
-          "name": "John Waite",
-          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
         }
       ],
-      "duration_ms": 269760,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -455,22 +471,6 @@
       "duration_ms": 229880,
       "name": "I'll Be Over You",
       "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
+        "name": "Lost in Love",
+        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 232666,
       "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
       "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
-        "name": "Lost in Love",
-        "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "All Out of Love",
-      "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -975,6 +975,26 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "The Next Time I Fall (with Amy Grant)",
+      "url": "https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
         "name": "Long Cold Winter",
         "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 200506,
       "name": "Truly",
       "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        },
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "The Next Time I Fall (with Amy Grant)",
-      "url": "https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Can't Fight Fate (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Dayne",
-          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Love Will Lead You Back",
-      "url": "https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
         "name": "Suddenly (Expanded Edition)",
         "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 234706,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
+        "name": "Can't Fight Fate (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Dayne",
+          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Love Will Lead You Back",
+      "url": "https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -1395,22 +1395,22 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
+        "name": "Radio Romance",
+        "url": "https://open.spotify.com/album/532JCZV9eoJkF8fgOtwYkE"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         },
         {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
         }
       ],
-      "duration_ms": 266266,
-      "name": "Endless Love - From \"The Endless Love\" Soundtrack",
-      "url": "https://open.spotify.com/track/0FGxAEMIE5GhyFqFMHRWaO"
+      "duration_ms": 241040,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/7sWlOFUnQShNdxgk1B0TuW"
     }
   ],
   "unique_name": "80s Ballads",

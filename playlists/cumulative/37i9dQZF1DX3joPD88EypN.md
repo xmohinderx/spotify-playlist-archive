@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-123 songs - 11 hr 11 min
+124 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,12 +52,13 @@
 | [Insomnia](https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z) | [Søren Dahl Jeppesen](https://open.spotify.com/artist/3yrWnykkPPROYEYdfuhJNX), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N) | [Pipe Dreams](https://open.spotify.com/album/1rDxdpTzfIOsPixMN5unj8) | 4:50 | 2022-06-01 |  |
 | [Jeg gik mig ud en Sommerdag](https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Stefan Pasborg](https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY) | [Painting Music](https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ) | 4:18 | 2022-06-01 |  |
 | [Kakonita](https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Solid Ether](https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R) | 4:59 | 2022-06-01 |  |
+| [Kingdom of Coldness](https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Kingdom of Coldness](https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY) | 7:37 | 2023-01-26 |  |
 | [Krystall Revisited](https://open.spotify.com/track/1htb20C2jXgSNW4Im5wjdN) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Krystall Revisited](https://open.spotify.com/album/6zrpriXok3a1t7kIERXjde) | 6:27 | 2022-06-01 |  |
 | [Kun Lun](https://open.spotify.com/track/1klS4kVAikIo3w4AxKLBSl) | [Fredrik Ljungkvist and the Yun Kan 5](https://open.spotify.com/artist/3PeIu9Iid94d06zGuE99xa) | [Badaling](https://open.spotify.com/album/5FLgahjtdZpbijATZ7IwUZ) | 5:30 | 2022-06-01 | 2022-09-17 |
 | [Langsam](https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j) | [Christian Wallumrød Ensemble](https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd) | [Kurzsam and Fulger](https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15) | 6:13 | 2022-06-01 |  |
 | [Leilani](https://open.spotify.com/track/1QVPEOqvQv6v7A5vyXI105) | [LITANGEN](https://open.spotify.com/artist/2cb1UAUUAWqIUqnTjDZquX), [Ole Edvard Antonsen](https://open.spotify.com/artist/67zPWYYHFQtUG522o2V6PR) | [Leilani](https://open.spotify.com/album/1o11PJdSBoCZVQscZJe3DK) | 2:51 | 2022-06-01 | 2022-07-29 |
 | [Leilani](https://open.spotify.com/track/7JFqgygDKJYZpGmoPrXgw2) | [LITANGEN](https://open.spotify.com/artist/2cb1UAUUAWqIUqnTjDZquX), [Ole Edvard Antonsen](https://open.spotify.com/artist/67zPWYYHFQtUG522o2V6PR) | [A Fine Line](https://open.spotify.com/album/4EvdavzDE5DxKviRFqM0Fn) | 2:51 | 2022-06-01 |  |
-| [Lena](https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX) | [The Stoner](https://open.spotify.com/artist/4jJnu4gDTQ5h0dghyjLsFe) | [Kinder Call](https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z) | 4:06 | 2022-06-01 |  |
+| [Lena](https://open.spotify.com/track/5TTcmPtlPZONGxwdgVwDtX) | [The Stoner](https://open.spotify.com/artist/4jJnu4gDTQ5h0dghyjLsFe) | [Kinder Call](https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z) | 4:06 | 2022-06-01 | 2023-01-29 |
 | [Långsamt](https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY) | [Max Agnas](https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA) | [Komposition VII](https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM) | 7:53 | 2022-06-01 |  |
 | [Margit Hjukse](https://open.spotify.com/track/6BdgqkDDeRvAAHJtDCc48W) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK), [Henning Kraggerud](https://open.spotify.com/artist/2VCAUIEKX0BX7DWfA8qxPb) | [Last Spring](https://open.spotify.com/album/2o24AbDEYPoyFNSXxDZp36) | 3:25 | 2022-06-01 |  |
 | [Maridalen](https://open.spotify.com/track/1U4qTswiFt7oHJUtsnuxkW) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ) | [Maridalen](https://open.spotify.com/album/3Enn6CF41yQeXk0OWMNDti) | 4:23 | 2022-06-01 |  |

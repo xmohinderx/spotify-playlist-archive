@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  CalledOut Music
 
-2,501 songs - 7 day 3 hr 0 min
+2,501 songs - 7 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,7 +803,7 @@
 | [Grounded](https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Erica Bostick](https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn) | [Amidst](https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL) | 4:00 | 2022-04-08 | 2022-04-23 |
 | [Growing Pains](https://open.spotify.com/track/7AS4QfVE36kemDghmTbJaj) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Growing Pains](https://open.spotify.com/album/7fRMtIRU0irBhCD4rb4KrV) | 3:50 | 2022-03-25 | 2022-04-16 |
 | [GUIDE MY HEART](https://open.spotify.com/track/3cvS3ZYNjqF5LAQbW3vCPj) | [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [GUIDE MY HEART](https://open.spotify.com/album/7EnV7Wi07R4Vm8T8Gn0iCG) | 2:23 | 2022-06-03 | 2022-06-18 |
-| [GUMBO](https://open.spotify.com/track/7cEY4UHTcfBMBIlp0J6rHW) | [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [GUMBO](https://open.spotify.com/album/3vzwfsd2vSAjZwGEgKyDtL) | 3:04 | 2023-01-27 |  |
+| [GUMBO](https://open.spotify.com/track/7cEY4UHTcfBMBIlp0J6rHW) | [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [GUMBO](https://open.spotify.com/album/3vzwfsd2vSAjZwGEgKyDtL) | 1:48 | 2023-01-27 |  |
 | [H.R\. 40 \(Reparations Now\)](https://open.spotify.com/track/2XzqK7gaSLBVyr0aMZid2i) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Sharon Irving](https://open.spotify.com/artist/2pvdIgrTL1DsTSg1ipptEt), [Seaux Chill](https://open.spotify.com/artist/1m9azqggcxRtwUD9awNYTV), [Dee Wilson](https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW) | [H.R\. 40 \(Reparations Now\)](https://open.spotify.com/album/3IyLc4k0LrIl8k34HjRNas) | 3:34 | 2022-07-29 | 2022-08-13 |
 | [Haha!](https://open.spotify.com/track/2ewSOGpFKYTpwT4BIWt5ZJ) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Haha!](https://open.spotify.com/album/6AnawoBHFzOSJRPqBhCNiW) | 1:58 | 2022-03-25 | 2022-04-09 |
 | [Halfway Empty \- Live](https://open.spotify.com/track/17it5wfXOeMzTiid9xMGye) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Halfway Empty \(Live\)](https://open.spotify.com/album/2zM8xyAjwRPBZCE4nkhlOw) | 3:45 | 2023-01-20 |  |

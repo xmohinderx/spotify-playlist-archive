@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 160545,
+  "num_followers": 160794,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzYyMDExMSwwMDAwMDAwMDQ3ODFhMzJiYjRmMWI1NmNhNWJmM2VkMDFmZDdlNDA3",
+  "snapshot_id": "MTY3MzYyMDExMSwwMDAwMDAwMDNlOTdkN2M3NzIwZWMxNDhlOTQyODQ2YTcwZWE4Zjcw",
   "tracks": [
     {
       "added_at": "2023-01-13 14:28:31",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-13 14:28:31",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
-    },
-    {
-      "added_at": "2023-01-13 14:28:31",
-      "album": {
         "name": "Marca Registrada",
         "url": "https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 262556,
       "name": "Ahora Lloras",
       "url": "https://open.spotify.com/track/7wYlYp0oTUseK5yxRS56Np"
+    },
+    {
+      "added_at": "2023-01-13 14:28:31",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
     },
     {
       "added_at": "2023-01-13 14:28:31",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-01-13 14:28:31",
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 211044,
-      "name": "Quitame Ese Hombre",
-      "url": "https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt"
-    },
-    {
-      "added_at": "2023-01-13 14:28:31",
-      "album": {
         "name": "Otra Como Tu",
         "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2023-01-13 14:28:31",
       "album": {
-        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
-        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6"
       },
       "artists": [
         {
-          "name": "Grupo Trinidad",
-          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 211986,
-      "name": "Tu Mujer En Mi Cama",
-      "url": "https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM"
+      "duration_ms": 211044,
+      "name": "Quitame Ese Hombre",
+      "url": "https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt"
     },
     {
       "added_at": "2023-01-13 14:28:31",
@@ -771,6 +755,22 @@
       "duration_ms": 188839,
       "name": "Piropo",
       "url": "https://open.spotify.com/track/5PYoEMtC7VN0HyKcS7heT4"
+    },
+    {
+      "added_at": "2023-01-13 14:28:31",
+      "album": {
+        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
+        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
+      },
+      "artists": [
+        {
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+        }
+      ],
+      "duration_ms": 211986,
+      "name": "Tu Mujer En Mi Cama",
+      "url": "https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM"
     },
     {
       "added_at": "2023-01-13 14:28:31",
@@ -887,18 +887,22 @@
     {
       "added_at": "2023-01-13 14:28:31",
       "album": {
-        "name": "Grupo Trinidad y Sus Cantantes",
-        "url": "https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3"
+        "name": "Todo a Su Tiempo (En Vivo)",
+        "url": "https://open.spotify.com/album/6ncnLdG9zt1XlpewOBSqJl"
       },
       "artists": [
         {
-          "name": "Grupo Trinidad",
-          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+          "name": "Sergio Torres",
+          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
+        },
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
         }
       ],
-      "duration_ms": 457826,
-      "name": "Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo",
-      "url": "https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3"
+      "duration_ms": 255465,
+      "name": "Me Dediqu\u00e9 a Perderte - En Vivo",
+      "url": "https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2"
     },
     {
       "added_at": "2023-01-13 14:28:31",
@@ -919,22 +923,18 @@
     {
       "added_at": "2023-01-13 14:28:31",
       "album": {
-        "name": "Todo a Su Tiempo (En Vivo)",
-        "url": "https://open.spotify.com/album/6ncnLdG9zt1XlpewOBSqJl"
+        "name": "Grupo Trinidad y Sus Cantantes",
+        "url": "https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3"
       },
       "artists": [
         {
-          "name": "Sergio Torres",
-          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
-        },
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
         }
       ],
-      "duration_ms": 255465,
-      "name": "Me Dediqu\u00e9 a Perderte - En Vivo",
-      "url": "https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2"
+      "duration_ms": 457826,
+      "name": "Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo",
+      "url": "https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3"
     },
     {
       "added_at": "2023-01-13 14:28:31",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-01-13 14:28:31",
       "album": {
-        "name": "Hasta All\u00e1 en el Cielo",
-        "url": "https://open.spotify.com/album/2w8OPK4PhtLteKTPj4bDar"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 210390,
-      "name": "Hasta All\u00e1 en el Cielo",
-      "url": "https://open.spotify.com/track/1H5UhQ5VnbNpeE7gFcm7pD"
-    },
-    {
-      "added_at": "2023-01-13 14:28:31",
-      "album": {
         "name": "Por Amor A La M\u00fasica",
         "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 201066,
       "name": "Y Que De M\u00ed",
       "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
+    },
+    {
+      "added_at": "2023-01-13 14:28:31",
+      "album": {
+        "name": "Hasta All\u00e1 en el Cielo",
+        "url": "https://open.spotify.com/album/2w8OPK4PhtLteKTPj4bDar"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 210390,
+      "name": "Hasta All\u00e1 en el Cielo",
+      "url": "https://open.spotify.com/track/1H5UhQ5VnbNpeE7gFcm7pD"
     },
     {
       "added_at": "2023-01-13 14:28:31",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-01-13 14:28:31",
       "album": {
-        "name": "Juntando Las Almas",
-        "url": "https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To"
+        "name": "A Matar o Morir",
+        "url": "https://open.spotify.com/album/2gHlHLY067nIqOR0lU0fCL"
       },
       "artists": [
         {
-          "name": "Leo Mattioli y Trinidad",
-          "url": "https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH"
+          "name": "Chanchi y Los Autenticos",
+          "url": "https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc"
         }
       ],
-      "duration_ms": 200386,
-      "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
-      "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
+      "duration_ms": 229280,
+      "name": "Como Tu Enemigo",
+      "url": "https://open.spotify.com/track/03IoH7NmNDEXW7SSGj0ISS"
     },
     {
       "added_at": "2023-01-13 14:28:31",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-01-13 14:28:31",
       "album": {
+        "name": "Juntando Las Almas",
+        "url": "https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli y Trinidad",
+          "url": "https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
+      "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
+    },
+    {
+      "added_at": "2023-01-13 14:28:31",
+      "album": {
         "name": "Rico y Suave",
         "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 218830,
       "name": "Entre el Odio y el Amor",
       "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
-    },
-    {
-      "added_at": "2023-01-13 14:28:31",
-      "album": {
-        "name": "A Matar o Morir",
-        "url": "https://open.spotify.com/album/2gHlHLY067nIqOR0lU0fCL"
-      },
-      "artists": [
-        {
-          "name": "Chanchi y Los Autenticos",
-          "url": "https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc"
-        }
-      ],
-      "duration_ms": 229280,
-      "name": "Como Tu Enemigo",
-      "url": "https://open.spotify.com/track/03IoH7NmNDEXW7SSGj0ISS"
     },
     {
       "added_at": "2023-01-13 14:28:31",

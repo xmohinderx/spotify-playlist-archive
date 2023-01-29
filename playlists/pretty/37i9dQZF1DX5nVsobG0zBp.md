@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,393 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,466 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,27 +37,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 27 | [Fato treino do City](https://open.spotify.com/track/6FnE1Y3iWcvVHFB3oLC0vB) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Fato treino do City](https://open.spotify.com/album/4fcBL2OWo3Gpw2Jg1GHE1Q) | 3:36 |
 | 28 | [300](https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:17 |
 | 29 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
-| 30 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
+| 30 | [Sweet Spot](https://open.spotify.com/track/7yrH4ghvW4hivGBpLU7dDb) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Sweet Spot](https://open.spotify.com/album/2qK6Eff85oD0PcsmFbv4Dj) | 4:48 |
 | 31 | [1 de Abril](https://open.spotify.com/track/5ZxHzpxIEr0rxGJN8Jsdjy) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 2:38 |
-| 32 | [Sweet Spot](https://open.spotify.com/track/7yrH4ghvW4hivGBpLU7dDb) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Sweet Spot](https://open.spotify.com/album/2qK6Eff85oD0PcsmFbv4Dj) | 4:48 |
+| 32 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 33 | [TRIBUNAL](https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [benji price](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [SYSTEM](https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1) | 4:06 |
 | 34 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 |
-| 35 | [Bolero](https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Los Cavakitos](https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi) | [Bolero](https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT) | 4:20 |
+| 35 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
 | 36 | [Voodoo](https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu), [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Na Via](https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR) | 4:50 |
 | 37 | [Vencedor](https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [M.a.D.H.P.](https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl) | 4:20 |
 | 38 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
-| 39 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
+| 39 | [Bolero](https://open.spotify.com/track/7mdE30Ov4in9UOCUcQiIK0) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Los Cavakitos](https://open.spotify.com/artist/3maUA3E2H0Yyugw8MsEeJi) | [Bolero](https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT) | 4:20 |
 | 40 | [Só Queria Sorrir](https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 3:42 |
 | 41 | [Bandidas](https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Bandidas](https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq) | 3:30 |
 | 42 | [HEI](https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [HEI](https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F) | 3:28 |
 | 43 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 |
 | 44 | [Sendo Assim](https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6) | [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Mechelas](https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1) | 5:14 |
-| 45 | [P de Pablito](https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [P de Pablito](https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF) | 3:02 |
-| 46 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
-| 47 | [Miúda](https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Miúda](https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr) | 2:48 |
+| 45 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
+| 46 | [Miúda](https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Miúda](https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr) | 2:48 |
+| 47 | [Hoji N'ka ta Rola](https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Hoji N'ka ta Rola](https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR) | 3:56 |
 | 48 | [NR5](https://open.spotify.com/track/6IAVU9psKD2kJ2bGg4Vemp) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [NR5](https://open.spotify.com/album/1mJesBtaqgysGAlk9aFWuZ) | 3:46 |
 | 49 | [AZTECA](https://open.spotify.com/track/6l8p2VaXEt2oNnzBl2GqIx) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [AZTECA](https://open.spotify.com/album/4ALG22jONW3Qu8UmTUymwy) | 2:31 |
-| 50 | [Hoji N'ka ta Rola](https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Hoji N'ka ta Rola](https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR) | 3:56 |
+| 50 | [P de Pablito](https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [P de Pablito](https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF) | 3:02 |
 | 51 | [Momma](https://open.spotify.com/track/7fW7scs325n2ZwvWBjA75O) | [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP), [King Bigs](https://open.spotify.com/artist/6WecxeaCHGhmwXiyBQPv61) | [Ouro Sobre Azul](https://open.spotify.com/album/1Za7fc64cyBoDqo4XJVSHO) | 2:54 |
 | 52 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 |
 | 53 | [Dado](https://open.spotify.com/track/2JfAp9d5Y1S4tfQTfgY6qJ) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Dado](https://open.spotify.com/album/5iEcD9LQ9XzPYL5E3fckjn) | 3:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 69 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 |
 | 70 | [Go](https://open.spotify.com/track/0K5qOmqrJa7tk2RxE0sZxw) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk) | [Go](https://open.spotify.com/album/6SHG5fLpeFLKiMERSwkSWu) | 3:12 |
 
-Snapshot ID: `MTY3NDcyNDQxMiwwMDAwMDAwMDMxMDdlMGMyZjEzZmVjOTQwOTViZTQyODYwYzNhNGMw`
+Snapshot ID: `MTY3NDcyNDQxMiwwMDAwMDAwMDY1ZDg1NjMzNDUyYzI5MjgwNjAwMDc5YWZlMmU1Y2Q4`

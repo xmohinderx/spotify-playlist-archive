@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ">Ziwe Fumudoh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 776 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 785 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 | 42 | [No Frauds](https://open.spotify.com/track/7KcGEssn7BnJdTgildK5y0) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [No Frauds](https://open.spotify.com/album/40l9uf8fvmVzRRXQCVwhOJ) | 4:32 |
 | 43 | [Throw A Fit](https://open.spotify.com/track/7D8aQaRzoi9Qzz5yerVK5b) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Throw A Fit](https://open.spotify.com/album/2kGxRa3ut2AMvo1fdoUeuK) | 2:38 |
 | 44 | [Milkshake](https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7) | 3:02 |
-| 45 | [honda \(feat\. pa salieu\)](https://open.spotify.com/track/6kZsTttxl7h4BLGSRWQnTp) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:21 |
-| 46 | [Freudian](https://open.spotify.com/track/4nESnAOALHmxg8UFCCtXhO) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 10:02 |
+| 45 | [Freudian](https://open.spotify.com/track/4nESnAOALHmxg8UFCCtXhO) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 10:02 |
+| 46 | [honda \(feat\. pa salieu\)](https://open.spotify.com/track/6kZsTttxl7h4BLGSRWQnTp) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:21 |
 | 47 | [Still Your Best](https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 2:57 |
 | 48 | [Shut It Down](https://open.spotify.com/track/3d8PDk3B4am5c6TsUCznUW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 6:59 |
 | 49 | [Show Stopper](https://open.spotify.com/track/5FRIqUXfTazrtRmYEGO4G0) | [Danity Kane](https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh) | [Danity Kane](https://open.spotify.com/album/7KD97Fr5oLwKPabOBdIMiV) | 3:49 |
 | 50 | [All Hands on Deck](https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Aquarius](https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L) | 3:41 |
 
-Snapshot ID: `MTY2OTg4NTIwMCwwMDAwMDAwMGM1OWFlYWM5MmIxZjRhY2QwYzkyYmM0Y2Q4NGQ1ZGYy`
+Snapshot ID: `MTY2OTg4NTIwMCwwMDAwMDAwMDE2YWQwODNmYWYwZjI3YjQ2Y2M3YTYzYTgyZjcyMDcx`

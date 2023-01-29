@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: London Brew
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,136 likes - 99 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,407 likes - 99 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 13 | [Indie](https://open.spotify.com/track/10aQsPXwEjVk2XpLKdYiSm) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Indie](https://open.spotify.com/album/5tsxe4SdRlJmY4MMtib0sH) | 5:34 |
 | 14 | [Something Different](https://open.spotify.com/track/0XXttZ96n3vgEI7JTrFfyn) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2) | [Something Different](https://open.spotify.com/album/0L4P68fgMmbTrUeNI75yDK) | 1:37 |
 | 15 | [Happy Song](https://open.spotify.com/track/5QwPTrz8MBmCxsR3NOfbc0) | [Joshua Espinoza](https://open.spotify.com/artist/6sQipnSTh0MtEdmUM8w49E), [Kris Monson](https://open.spotify.com/artist/2kUPNaq8pnJ4Q7TYoFme5t), [Jaron Lamar Davis](https://open.spotify.com/artist/2XeV55IyaL6jSh1yOlVOHG) | [Happy Song](https://open.spotify.com/album/1mMF55r8dhkf38xguyl1L8) | 4:48 |
-| 16 | [Eloquence](https://open.spotify.com/track/5lo8YQbFQSeP5SCJvbE0iw) | [Total Refreshment Centre](https://open.spotify.com/artist/0qntmZZEAGHbEQEbCRQoUG), [Matters Unknown](https://open.spotify.com/artist/0LHO47WJDTdARQzI5PMaXJ), [Miryam Solomon](https://open.spotify.com/artist/4NeGgXLxoARUxdPHFb6qEK) | [Eloquence](https://open.spotify.com/album/4BTSgEE5qTfQRCoGIWJKJM) | 3:46 |
+| 16 | [Eloquence](https://open.spotify.com/track/5lo8YQbFQSeP5SCJvbE0iw) | [Total Refreshment Centre](https://open.spotify.com/artist/0qntmZZEAGHbEQEbCRQoUG), [MATTERS UNKNOWN](https://open.spotify.com/artist/7nHR9pV23UmS8d7KdqYWJz), [Miryam Solomon](https://open.spotify.com/artist/4NeGgXLxoARUxdPHFb6qEK) | [Eloquence](https://open.spotify.com/album/4BTSgEE5qTfQRCoGIWJKJM) | 3:46 |
 | 17 | [Tricks](https://open.spotify.com/track/6vU58G2mUkEJw4nZ2Vr3iQ) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF), [Michael League](https://open.spotify.com/artist/0YzrofLyUlORKLkH8AAMm9) | [Where You Wish You Were](https://open.spotify.com/album/7pZ3RFsT8sZDvpt4o9f7bk) | 4:46 |
 | 18 | [Far Far Away](https://open.spotify.com/track/1x1f1fX20QJpQ2ta8ZCH1k) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Far Far Away](https://open.spotify.com/album/0LhSj0NZ8TbND73SRGJ5FR) | 6:59 |
 | 19 | [Oakland](https://open.spotify.com/track/12JtmOiSDB5YrXKWbGf7Ir) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Right Now Move \(2022 Remaster\)](https://open.spotify.com/album/5hQYuQG9mExprIdDSAjOkF) | 5:38 |

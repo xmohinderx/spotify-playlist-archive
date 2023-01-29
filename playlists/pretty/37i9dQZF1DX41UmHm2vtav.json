@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 379580,
+  "num_followers": 379830,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODU4MCwwMDAwMDAwMDI0OGE2NjViMWZkZTgyNjlhMGYzM2ZjYmEyYjMyZDky",
+  "snapshot_id": "MTY3NDc4ODU4MCwwMDAwMDAwMGJjMDEzZDhjZDllOWM5ZTJiZjFkODAwYmRkMzZkNzBi",
   "tracks": [
     {
       "added_at": "2023-01-27 03:03:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
+        "name": "Low (feat. Victor Perry)",
+        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Victor Perry",
+          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Low (feat. Victor Perry)",
+      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
         "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
         "url": "https://open.spotify.com/album/3jq5Zd42igYRaypTQNJc0L"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 152851,
       "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
       "url": "https://open.spotify.com/track/1GThrHo1eJgmO8hT3v1Oc7"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
-        "name": "Low (feat. Victor Perry)",
-        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Victor Perry",
-          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Low (feat. Victor Perry)",
-      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
         "name": "Pumped up Kicks (feat. Joy Corporation)",
         "url": "https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 342360,
       "name": "Pumped up Kicks (feat. Joy Corporation)",
       "url": "https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Z\u00e9 do caro\u00e7o",
-        "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Z\u00e9 do caro\u00e7o",
-      "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
         "name": "When In Rome",
         "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 194767,
       "name": "When In Rome",
       "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Z\u00e9 do caro\u00e7o",
+        "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Z\u00e9 do caro\u00e7o",
+      "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
-      },
-      "artists": [
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        },
-        {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
-        }
-      ],
-      "duration_ms": 179481,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 150000,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "duration_ms": 179481,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -1511,22 +1511,22 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "O Xote Das Meninas (Pontifexx Remix)",
-        "url": "https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT"
+        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
       },
       "artists": [
         {
-          "name": "Pontifexx",
-          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         },
         {
-          "name": "Luiz Gonzaga",
-          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
         }
       ],
-      "duration_ms": 189451,
-      "name": "O Xote Das Meninas - Pontifexx Remix",
-      "url": "https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx"
+      "duration_ms": 209032,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
+      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
     }
   ],
   "unique_name": "Festa na Praia",

@@ -4,7 +4,7 @@
 
 > El soundtrack para los días rebeldes.
 
-51 songs - 2 hr 42 min
+53 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [ADIÓS](https://open.spotify.com/track/77sReicKWZNkkHt4mvJsRJ) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [ADIÓS](https://open.spotify.com/album/3uKlDsuCyX7BDyRUJKuLvh) | 3:57 | 2023-01-20 |  |
 | [Bad Kiss](https://open.spotify.com/track/1pXdYW93QYTfReu4hhXozQ) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Bad Kiss](https://open.spotify.com/album/6k9wPtpVp9mfAOwp56g5LJ) | 2:22 | 2023-01-20 | 2023-01-28 |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2023-01-20 |  |
-| [Celosa](https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB) | 4:22 | 2023-01-20 |  |
+| [Celosa](https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB) | 4:22 | 2023-01-20 | 2023-01-29 |
 | [Cereal](https://open.spotify.com/track/74L386G6vLxD3QuH2YUcZx) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [RPDF](https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1) | 2:41 | 2023-01-20 |  |
 | [CONTANDO OVEJAS](https://open.spotify.com/track/47DL8jY6HJD2mlCcTuOWKX) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [OSCURO ÉXTASIS](https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt) | 3:23 | 2023-01-20 |  |
 | [CUANDO TE FUISTE](https://open.spotify.com/track/3vrslkAmBQ4mvqfOX1Xc6Q) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:47 | 2023-01-20 |  |
@@ -22,6 +22,7 @@
 | [Despídete Bien](https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Despídete Bien](https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np) | 3:12 | 2023-01-20 |  |
 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 | 2023-01-20 |  |
 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 | 2023-01-20 |  |
+| [El Principio de algo](https://open.spotify.com/track/55oRR1s2W1xX2evrUCaOSb) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Principio de algo](https://open.spotify.com/album/0bpAz9oL8eRTGaOxS7PCkw) | 2:27 | 2023-01-29 |  |
 | [FBI](https://open.spotify.com/track/7Cb7KptiBrbDHaKKFN6iAn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:24 | 2023-01-20 |  |
 | [Flaca \(De Cabeza A Los Pies\)](https://open.spotify.com/track/7GqzLEwjpTf5WCD0kIRsp8) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Duerme En Paz](https://open.spotify.com/album/63RkToY6nto4dKQDxqgMrG) | 3:06 | 2023-01-20 |  |
 | [Fuera de Cobertura](https://open.spotify.com/track/2lBsocWHyPAH5y3CptImVz) | [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3), [Luisa Vox](https://open.spotify.com/artist/3aZLYFN5zgb2QH10XzmmtA) | [Fuera de Cobertura](https://open.spotify.com/album/3sCwJ8Gr1lO1MOp8PcERQJ) | 2:56 | 2023-01-20 |  |
@@ -31,7 +32,7 @@
 | [Infierno Frío](https://open.spotify.com/track/1sI4YBO3bbctccXYNUaam0) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt) | [Infierno Frío](https://open.spotify.com/album/6YB76Lunmrai7yjMiQDbCj) | 2:18 | 2023-01-20 |  |
 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 | 2023-01-20 |  |
 | [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 | 2023-01-20 |  |
-| [La Llave](https://open.spotify.com/track/1DJcyrh1PserkiE2IZ9Q7G) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:06 | 2023-01-20 |  |
+| [La Llave](https://open.spotify.com/track/1DJcyrh1PserkiE2IZ9Q7G) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/40ablOkksXy9AgUsOHxhrm) | 3:06 | 2023-01-20 | 2023-01-29 |
 | [Me Tome Una Pastilla...](https://open.spotify.com/track/38qcLdCR7vSCkq3ClfaWpX) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Defecto Perfecto](https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx) | 4:38 | 2023-01-20 |  |
 | [Mi Mejor Versión](https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi Mejor Versión](https://open.spotify.com/album/3vvreW2zeLSPk2FV97TkH3) | 3:21 | 2023-01-20 |  |
 | [Nada](https://open.spotify.com/track/09i3oMxXeiA6wWW6GN2DVk) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Archivos Vol\. 2: Duetos](https://open.spotify.com/album/3blJSYcNM4IGK6ohylk0pb) | 4:20 | 2023-01-20 |  |
@@ -41,6 +42,7 @@
 | [Nuevo Comienzo](https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nuevo Comienzo](https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg) | 3:06 | 2023-01-20 |  |
 | [Odio que te quiero](https://open.spotify.com/track/3GazPkKkfpgoHk4VgRbUY0) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Odio que te quiero](https://open.spotify.com/album/30ATsCNOpb1XAPop66VxQD) | 2:43 | 2023-01-20 |  |
 | [Plan A](https://open.spotify.com/track/3DmQvbSuwGoDJkDm369GEz) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:58 | 2023-01-20 |  |
+| [Plaza en el cielo](https://open.spotify.com/track/330mS1U6KJ9Gie5PL4gkAo) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Plaza en el cielo](https://open.spotify.com/album/1oXFlNOxGfnSw9329hsgoT) | 3:26 | 2023-01-29 |  |
 | [Punk](https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:13 | 2023-01-20 |  |
 | [Quiero Estar](https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:13 | 2023-01-20 |  |
 | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps) | 2:47 | 2023-01-20 |  |

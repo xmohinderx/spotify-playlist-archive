@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Peso Pluma & Alem\u00e1n en portada.",
-  "num_followers": 498268,
+  "num_followers": 498773,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMDNhMzQxMGU5NWVmNDM1ZDZhMmIzMzUwNDM0MmE2YTgw",
+  "snapshot_id": "MTY3NDc5OTIwMCwwMDAwMDAwMGFjNjZjNGM3NGMwZWQyYzI4MDczYmViOWNhOTMxNjcz",
   "tracks": [
     {
       "added_at": "2023-01-13 06:00:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-01-13 06:00:00",
       "album": {
+        "name": "Por las Noches",
+        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 239845,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
         "name": "Calidad",
         "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 170053,
       "name": "Calidad",
       "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
-    },
-    {
-      "added_at": "2023-01-13 06:00:00",
-      "album": {
-        "name": "Por las Noches",
-        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 239845,
-      "name": "Por las Noches",
-      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
     },
     {
       "added_at": "2023-01-27 06:00:00",
@@ -335,26 +335,6 @@
     {
       "added_at": "2023-01-13 06:00:00",
       "album": {
-        "name": "Puro Campe\u00f3n",
-        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Puro Campe\u00f3n",
-      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
-    },
-    {
-      "added_at": "2023-01-13 06:00:00",
-      "album": {
         "name": "Ch y la Pizza",
         "url": "https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 136913,
       "name": "Ch y la Pizza",
       "url": "https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "Puro Campe\u00f3n",
+        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Puro Campe\u00f3n",
+      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-01-13 06:00:00",
       "album": {
-        "name": "Solita (En Vivo)",
-        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 215984,
-      "name": "Solita (En Vivo)",
-      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
-    },
-    {
-      "added_at": "2023-01-13 06:00:00",
-      "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 225306,
       "name": "COLOGNE",
       "url": "https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "Solita (En Vivo)",
+        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
     },
     {
       "added_at": "2023-01-27 06:00:00",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG"
     },
     {
-      "added_at": "2023-01-13 06:00:00",
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 142656,
-      "name": "Consejos Gratis",
-      "url": "https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE"
-    },
-    {
       "added_at": "2023-01-13 13:35:52",
       "album": {
         "name": "Piensa en Mi",
@@ -903,6 +887,22 @@
       "duration_ms": 192048,
       "name": "Piensa en Mi",
       "url": "https://open.spotify.com/track/4Y0C95WSGxcuNVCbealJvw"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 142656,
+      "name": "Consejos Gratis",
+      "url": "https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-01-13 06:00:00",
       "album": {
-        "name": "Tiempo Fuera",
-        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Tiempo Fuera",
-      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
-    },
-    {
-      "added_at": "2023-01-13 06:00:00",
-      "album": {
         "name": "Un Viaje a Todas Partes",
         "url": "https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2023-01-13 06:00:00",
       "album": {
-        "name": "Cabr\u00f3n Yo Puedo",
-        "url": "https://open.spotify.com/album/48FTvOrTDP6bQb5gTIkDbN"
+        "name": "Tiempo Fuera",
+        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
       },
       "artists": [
         {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
         }
       ],
-      "duration_ms": 187833,
-      "name": "Cabr\u00f3n Yo Puedo",
-      "url": "https://open.spotify.com/track/2HsBez6K2kkqzkxHQqRusL"
+      "duration_ms": 198040,
+      "name": "Tiempo Fuera",
+      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
     },
     {
       "added_at": "2023-01-27 06:00:00",
@@ -1259,22 +1243,18 @@
     {
       "added_at": "2023-01-13 06:00:00",
       "album": {
-        "name": "Bombas",
-        "url": "https://open.spotify.com/album/0Vp8jumrRYGxtWkCZgNswV"
+        "name": "Cabr\u00f3n Yo Puedo",
+        "url": "https://open.spotify.com/album/48FTvOrTDP6bQb5gTIkDbN"
       },
       "artists": [
         {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
         }
       ],
-      "duration_ms": 245857,
-      "name": "Bombas",
-      "url": "https://open.spotify.com/track/32pqQaloLXiFbgl1Kf81SU"
+      "duration_ms": 187833,
+      "name": "Cabr\u00f3n Yo Puedo",
+      "url": "https://open.spotify.com/track/2HsBez6K2kkqzkxHQqRusL"
     },
     {
       "added_at": "2023-01-13 06:00:00",
@@ -1291,6 +1271,26 @@
       "duration_ms": 222066,
       "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
       "url": "https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus"
+    },
+    {
+      "added_at": "2023-01-13 06:00:00",
+      "album": {
+        "name": "Bombas",
+        "url": "https://open.spotify.com/album/0Vp8jumrRYGxtWkCZgNswV"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 245857,
+      "name": "Bombas",
+      "url": "https://open.spotify.com/track/32pqQaloLXiFbgl1Kf81SU"
     },
     {
       "added_at": "2023-01-13 06:00:00",

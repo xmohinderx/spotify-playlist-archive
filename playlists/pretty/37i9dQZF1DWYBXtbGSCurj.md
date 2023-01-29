@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Kweller, Enzo CEllo, Mc Anjimu
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,587 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,745 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 7 | [Shake Freestyle](https://open.spotify.com/track/54azfhEcVupY8CH33vgPRp) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU) | [Shake Freestyle](https://open.spotify.com/album/3b9FchPVCYeTCyFwkh4SwC) | 2:27 |
 | 8 | [Na Onda do Boldo](https://open.spotify.com/track/42BwDKygmTWy01npggoFhl) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Thammy](https://open.spotify.com/artist/69AJjk7Kr9O05pUtJjGxF0), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Na Onda do Boldo](https://open.spotify.com/album/1FEunMxrUJ7sJigVe74cL4) | 3:06 |
 | 9 | [Alma Limpa](https://open.spotify.com/track/30MGTYh5ajhvPKOSKRth9m) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Alma Limpa](https://open.spotify.com/album/4zwGlTLCaWIjtdZay3oNO5) | 2:08 |
-| 10 | [Fumaça Quente](https://open.spotify.com/track/7goPqaQ587wr3YRDcWTS1x) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [Fumaça Quente](https://open.spotify.com/album/3tH3adqiVwl8tw7WJRAm0n) | 2:25 |
+| 10 | [Fumaça Quente](https://open.spotify.com/track/7goPqaQ587wr3YRDcWTS1x) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Fumaça Quente](https://open.spotify.com/album/3tH3adqiVwl8tw7WJRAm0n) | 2:25 |
 | 11 | [X1](https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:08 |
 | 12 | [Papo Reto](https://open.spotify.com/track/2zKo0ACLlB9TOuzeVhMjjq) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Papo Reto](https://open.spotify.com/album/1FUpuwNLfw4qhiGneHh1zg) | 3:02 |
 | 13 | [Dom Perignon](https://open.spotify.com/track/24Qz27YhZ8eVnJl6sD6hyd) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Dom Perignon](https://open.spotify.com/album/2VhNRhcqL7bn0qiUyAVGd8) | 3:10 |

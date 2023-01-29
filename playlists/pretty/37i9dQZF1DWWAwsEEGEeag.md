@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,951 likes - 102 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,949 likes - 102 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 24 | [Casse\-cou](https://open.spotify.com/track/0tKyyTsiNdilQyQuDQHLU7) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [Bulle](https://open.spotify.com/album/2d48WjzpUsNHq9NkSxmbXN) | 3:06 |
 | 25 | [La nuit est une panthère](https://open.spotify.com/track/39efsqF7t6SX3snZFVufRa) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [La nuit est une panthère](https://open.spotify.com/album/7eau0t375JHKnxK48tequj) | 3:20 |
 | 26 | [Tata](https://open.spotify.com/track/5toHaNWeaCf5cw9Jfn6yK4) | [Johan Papaconstantino](https://open.spotify.com/artist/7xuc5o2ysVzV0UDiGordzO) | [Tata](https://open.spotify.com/album/6D2bRl9q3zF2Rt3hcSQaRu) | 3:58 |
-| 27 | [Mon amour](https://open.spotify.com/track/07XcDj4hRVQi3jua32Oyns) | [De.Ville](https://open.spotify.com/artist/4R5VNdvB9gnzrDmoyTsjgr) | [Sables](https://open.spotify.com/album/0YgfWW9LpVzWojEzqgWovB) | 3:22 |
+| 27 | [Mon amour](https://open.spotify.com/track/1Vw0a8mihDSOJLn1Xz8Wkz) | [De.Ville](https://open.spotify.com/artist/4R5VNdvB9gnzrDmoyTsjgr) | [Sables](https://open.spotify.com/album/1m9Y3hjCPoViOcc1RFJayY) | 3:22 |
 | 28 | [Point sensible](https://open.spotify.com/track/0YmYBHDSRT2rr5uvnDWPWg) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF), [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [Troie](https://open.spotify.com/album/2qVuFxNnL4daaUtPZLnVtG) | 2:25 |
 | 29 | [Recommencer](https://open.spotify.com/track/2MxejfdrDFAgKKeYuxzShr) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 3:31 |
 | 30 | [Si je pleure](https://open.spotify.com/track/4Cuu1Ip7u09ujBI05FCDbU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/0la63RXOuZLBQBYeEirWzg) | 3:45 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAwsEEGEeag.md) - [plain]
 | 101 | [Stand Tall](https://open.spotify.com/track/3btpWOHsvwGlmVCpytaWNq) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Global Musique, Vol\. 2](https://open.spotify.com/album/2vkL7hA8lVaQM33VOwMcsG) | 3:57 |
 | 102 | [bye bye again \- Bob Sinclar Remix](https://open.spotify.com/track/7uGd2sO212d36Ja4wMlTdJ) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [bye bye again \(Bob Sinclar Remix\)](https://open.spotify.com/album/2QROzydHnLXAaKhAEVLVqn) | 2:40 |
 
-Snapshot ID: `MTY2NDU0Nzc5OSwwMDAwMDAwMGFkNDNlYjMzMDc0NjIzMGRjZWY3NzYwMGUzNjc5N2Rj`
+Snapshot ID: `MTY2NDU0Nzc5OSwwMDAwMDAwMGU4ZWUyNjUyNzhkYjg0MzU4YjY0NjY1NjI2MzJiZWUx`

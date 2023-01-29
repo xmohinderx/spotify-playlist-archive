@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Live at Sydney Opera House",
+        "url": "https://open.spotify.com/album/7vNVlKih6TRHu9kIL5YhgT"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268919,
+      "name": "Georgia - Live at Sydney Opera House",
+      "url": "https://open.spotify.com/track/352fUC91RxPM0HPCNoNYEN"
+    },
+    {
+      "album": {
         "name": "Spotify Sessions (Live From Spotify NYC)",
         "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
       },
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-29",
       "duration_ms": 168346,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/0ErdYERkkYToR3l7q1ebmL"

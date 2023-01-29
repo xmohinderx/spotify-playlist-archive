@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-212 songs - 11 hr 40 min
+213 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Drunk Too](https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Drunk Too](https://open.spotify.com/album/2AccCtAAKQrx8b1bvPcftg) | 2:42 | 2021-12-17 | 2022-11-19 |
 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 | 2021-12-17 |  |
 | [Even In My Dreams \- Acoustic](https://open.spotify.com/track/5WqhoP1sXe81DyB91q77aw) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Even In My Dreams Acoustic](https://open.spotify.com/album/50eTd9xEFGizDaZDR7U7uo) | 3:11 | 2022-04-08 | 2022-07-19 |
-| [Every Other Memory \- Acoustic](https://open.spotify.com/track/3Wytcmwttm1DkfCYPZBb39) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:41 | 2021-12-17 |  |
+| [Every Other Memory \- Acoustic](https://open.spotify.com/track/3Wytcmwttm1DkfCYPZBb39) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:41 | 2021-12-17 | 2023-01-29 |
 | [Faithfully \- Acoustic](https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Faithfully \(Acoustic\)](https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh) | 4:37 | 2021-12-17 |  |
 | [Fall In Love \- Acoustic](https://open.spotify.com/track/79aj4SR6l5FKOJqy1TdtSv) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love \(Acoustic\)](https://open.spotify.com/album/41wEnrrFayiNyfyi8h0vjD) | 3:58 | 2022-04-15 |  |
 | [Fall in Love \- Acoustic](https://open.spotify.com/track/17DTmTAm5l3P8vvC8lO25z) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [12/12 \(Acoustic Pt\. 1\)](https://open.spotify.com/album/1ZGQkU4wtCJ0sNHQYlDQ6w) | 2:45 | 2021-12-17 | 2022-07-09 |
@@ -115,6 +115,7 @@
 | [Little More Be Alright](https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Little More Be Alright](https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM) | 3:35 | 2021-12-17 |  |
 | [Lonely Peace](https://open.spotify.com/track/6qmgGaI4PbCAbCKtW8g6pU) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [Lonely Peace](https://open.spotify.com/album/4MJtZsmjt5OmpXgLRFdq8m) | 3:09 | 2021-12-17 | 2022-04-16 |
 | [Long Haul \- Stripped](https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Haul \(Stripped\)](https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq) | 4:02 | 2021-12-17 |  |
+| [Long Live Cowgirls \- Me and a Fiddle](https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Live Cowgirls \(Me and a Fiddle\)](https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY) | 3:00 | 2023-01-27 |  |
 | [Long Time Comin'](https://open.spotify.com/track/5xMxyWRoe37nUlHDk72cSW) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:14 | 2021-12-17 | 2022-04-16 |
 | [Love Like I Drink](https://open.spotify.com/track/6T9waTBwi2sLjXP7TCbM65) | [Carter Winter](https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3), [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [Love Like I Drink](https://open.spotify.com/album/24iBC56uoPOCzQVXGupwcH) | 3:15 | 2021-12-17 |  |
 | [Love Makes You Blind \- Acoustic Version](https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo) | 2:40 | 2022-02-18 | 2022-10-22 |

@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 311324,
+  "num_followers": 311457,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDQwMzk0NWM1YThmMTEzOTNjYjQ1MjIwZjE4Mzk2ZDdi",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGUyMDk1MGQ3OWY3Njg1MTc0OWIxOWZiNTMzODA2YzYx",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Sweetest Thing",
-        "url": "https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy"
-      },
-      "artists": [
-        {
-          "name": "Allman Brown",
-          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
-        }
-      ],
-      "duration_ms": 218502,
-      "name": "Sweetest Thing",
-      "url": "https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Free Yourself Up",
         "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 191693,
       "name": "I Can Change",
       "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Sweetest Thing",
+        "url": "https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy"
+      },
+      "artists": [
+        {
+          "name": "Allman Brown",
+          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
+        }
+      ],
+      "duration_ms": 218502,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Prospect",
         "url": "https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 234733,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
+        "name": "Silence (Acoustic)",
+        "url": "https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 221847,
+      "name": "Silence - Acoustic",
+      "url": "https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Silence (Acoustic)",
-        "url": "https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 221847,
-      "name": "Silence - Acoustic",
-      "url": "https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 172863,
-      "name": "O Me O My",
-      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "See the World",
         "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Starfire",
-        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
       "artists": [
         {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
         }
       ],
-      "duration_ms": 190066,
-      "name": "Cheap Date",
-      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
+      "duration_ms": 172863,
+      "name": "O Me O My",
+      "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Starfire",
+        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Cheap Date",
+      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Both Ways",
-        "url": "https://open.spotify.com/album/1lCMPLXpxu11jKDngB9w8L"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 251324,
-      "name": "Another Way",
-      "url": "https://open.spotify.com/track/6xU24c00m15ZxjFqmVs0hN"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 194320,
       "name": "Mind on Fire",
       "url": "https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Both Ways",
+        "url": "https://open.spotify.com/album/1lCMPLXpxu11jKDngB9w8L"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 251324,
+      "name": "Another Way",
+      "url": "https://open.spotify.com/track/6xU24c00m15ZxjFqmVs0hN"
     },
     {
       "added_at": "2023-01-20 05:00:00",

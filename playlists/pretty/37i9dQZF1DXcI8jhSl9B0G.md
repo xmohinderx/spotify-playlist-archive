@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,479 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,603 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 22 | [Every Side Of You](https://open.spotify.com/track/1tLQcfwXi8Hbu4hamp7tQ5) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:24 |
 | 23 | [Home to You](https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Home to You](https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD) | 3:33 |
 | 24 | [It's Easier When You're Standing There](https://open.spotify.com/track/55gRA2nwyEaHOXqK8wwfvV) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:47 |
-| 25 | [CAMPFIRE](https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG) | 3:00 |
+| 25 | [Book Full Of Answers](https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Bloodline](https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd) | 5:00 |
 | 26 | [Lonely Nights](https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Lonely Nights](https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm) | 3:39 |
-| 27 | [Book Full Of Answers](https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Bloodline](https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd) | 5:00 |
+| 27 | [CAMPFIRE](https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG) | 3:00 |
 | 28 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
-| 29 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 |
-| 30 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 |
-| 31 | [All Over Again](https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz) | 3:43 |
+| 29 | [All Over Again](https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [All Over Again](https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz) | 3:43 |
+| 30 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 |
+| 31 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 |
 | 32 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 |
 | 33 | [The Coffee Song](https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Summer Nights](https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j) | 3:08 |
 | 34 | [She Came Back with Rainbows](https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [She Came Back with Rainbows](https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO) | 3:50 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 39 | [8 Hour Drive](https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:36 |
 | 40 | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Still Care \(feat\. NASAYA\)](https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM) | 3:18 |
 | 41 | [Liquid Love](https://open.spotify.com/track/20f37PJbRwppnrX861JwDF) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:11 |
-| 42 | [Disappearing Light](https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 3:42 |
-| 43 | [Friend](https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:17 |
-| 44 | [Standing Still](https://open.spotify.com/track/023e5V4Q5ZGtqMaPP6imtm) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [I Don't Know Who to Call](https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P) | 4:57 |
-| 45 | [this is how you fall in love](https://open.spotify.com/track/0r9M8ibaXQcsRoODyUpZmi) | [Parker Rose](https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF) | [this is how you fall in love](https://open.spotify.com/album/1whjydDxsqNT56EuVTNxxp) | 2:41 |
+| 42 | [Friend](https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:17 |
+| 43 | [Disappearing Light](https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 3:42 |
+| 44 | [this is how you fall in love](https://open.spotify.com/track/0r9M8ibaXQcsRoODyUpZmi) | [Parker Rose](https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF) | [this is how you fall in love](https://open.spotify.com/album/1whjydDxsqNT56EuVTNxxp) | 2:41 |
+| 45 | [Standing Still](https://open.spotify.com/track/023e5V4Q5ZGtqMaPP6imtm) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [I Don't Know Who to Call](https://open.spotify.com/album/5pkjDurY5mqnXnNTyO2u7P) | 4:57 |
 | 46 | [TATTOOS](https://open.spotify.com/track/2oS1CW1vbfD8t1I6As9ZhR) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG) | 2:41 |
 | 47 | [Society's a Mansion](https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk) | [Mimi Gilbert](https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P) | [Grew Inside the Water](https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY) | 4:44 |
 | 48 | [After the Sun](https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0) | 3:33 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 52 | [Simple Question](https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Simple Question](https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv) | 4:32 |
 | 53 | [Carry You With Me](https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Carry You With Me](https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD) | 4:18 |
 | 54 | [Tears Don’t Fall](https://open.spotify.com/track/2T3whAdkzXCT58yFXsZgjm) | [Terrible Sons](https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g) | [Half Awake, Half Asleep](https://open.spotify.com/album/7cHSI1g84HZbJ2GwauTahA) | 3:10 |
-| 55 | [Outside Kinda Kids](https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Outside Kinda Kids](https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji) | 3:15 |
-| 56 | [Electricity](https://open.spotify.com/track/2s0jL6JXs2zAGtMnQcXfLb) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Electricity](https://open.spotify.com/album/75yWoDsXCy1Im9m4kGs42C) | 3:42 |
+| 55 | [Electricity](https://open.spotify.com/track/2s0jL6JXs2zAGtMnQcXfLb) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Electricity](https://open.spotify.com/album/75yWoDsXCy1Im9m4kGs42C) | 3:42 |
+| 56 | [Outside Kinda Kids](https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Outside Kinda Kids](https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji) | 3:15 |
 | 57 | [Love Shack](https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Love Shack](https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C) | 4:09 |
 | 58 | [A Song To Be Named](https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [A Song To Be Named](https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA) | 4:09 |
 | 59 | [Paint](https://open.spotify.com/track/5lHA0VtRqd0jsaT46xC3Ae) | [Lawson Hull](https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Paint](https://open.spotify.com/album/5acGmCJHKwbGdnguz1Bpnz) | 4:31 |
 | 60 | [Home](https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [In Between](https://open.spotify.com/album/1qjSdvNNmUPF9MBYe4gezU) | 3:58 |
 
-Snapshot ID: `MTY3MzUyODQwMCwwMDAwMDAwMDViYjUzY2RkYjRlN2EyOWNhN2FjYzk1NjVkYzY5Yjky`
+Snapshot ID: `MTY3MzUyODQwMCwwMDAwMDAwMGU1NGFjYmNlYTNkYzI0MzdjMjY2OGUzNjg0YTAyMjUx`

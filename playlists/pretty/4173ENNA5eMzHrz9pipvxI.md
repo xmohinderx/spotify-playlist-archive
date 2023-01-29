@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Lucas &amp; Steve x Yves V
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,804 likes - 36 songs - 1 hr 42 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,828 likes - 36 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 13 | [Love Finds A Way \- Radio Edit](https://open.spotify.com/track/6FLpYaVGuq1CFgU6sd3iuj) | [David Herrlich](https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj) | [Love Finds A Way \(Radio Edit\)](https://open.spotify.com/album/1B7YW1Y5VSXDdIIagVOSy7) | 2:22 |
 | 14 | [Shake Milk \(Festival Mix\)](https://open.spotify.com/track/6Qya39WoIJiS1X2T1n9lie) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Shake Milk \(Festival Mix\)](https://open.spotify.com/album/0b9Z0oJhTtFtAQTJwtmfye) | 2:08 |
 | 15 | [Internal \- Slowed Version](https://open.spotify.com/track/2dTct3iu5l5K2ZvlxEt3FS) | [Rogue Dave](https://open.spotify.com/artist/5rfZwd1LcOIodLysmqlXGK) | [Internal \(Slowed Version\)](https://open.spotify.com/album/1PRGmT60gwH74oRplYBKXq) | 1:55 |
-| 16 | [Pedestal \- Mixed](https://open.spotify.com/track/2y5o0uRMeAXdoEuBARHbLW) | [ANDROZONE](https://open.spotify.com/artist/2uNZa3sOY18Nf6n3WHKIg6) | [Pedestal](https://open.spotify.com/album/66C8ND4Wu3iTb23pLz1cxX) | 2:31 |
+| 16 | [Pedestal](https://open.spotify.com/track/2y5o0uRMeAXdoEuBARHbLW) | [ANDROZONE](https://open.spotify.com/artist/2uNZa3sOY18Nf6n3WHKIg6) | [Pedestal](https://open.spotify.com/album/66C8ND4Wu3iTb23pLz1cxX) | 2:31 |
 | 17 | [Al Perreo \- Mixed](https://open.spotify.com/track/0BN9P0UYB4PUWpRrAG9wXt) | [FNTZY](https://open.spotify.com/artist/6Tc25h7Kk6DfK9GarjiEd5) | [Al Perreo](https://open.spotify.com/album/7ylSGlus6NrY2nnKRY7kNt) | 2:31 |
 | 18 | [Hush \- Mixed](https://open.spotify.com/track/0XxotF2YqnTxJLn5ni4nz2) | [Insira](https://open.spotify.com/artist/4uR1CUgsicbwL5Pqw1nUJT) | [Hush](https://open.spotify.com/album/7i5c8kx44asZdicG8xGxx2) | 3:53 |
 | 19 | [Falling Into Space](https://open.spotify.com/track/6Pw6050rVSbborPpRkxOS0) | [Matisso](https://open.spotify.com/artist/3QbWPIt27dS6iv4RrzTyDV) | [Falling Into Space](https://open.spotify.com/album/7HQWSqjJQHVLIipyTdL8Y2) | 2:42 |

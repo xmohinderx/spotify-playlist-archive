@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 663567,
+  "num_followers": 663700,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDQ1MDAxZjg1YzdhZWUxY2Q5OTk2YmQyMmRmMjc2YmNm",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDVmYmRhNWNjYTRhZDM4M2E2OTkxZWY2NDBkN2Q3ZTFj",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
         "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 225053,
       "name": "Wild World - Acoustic Version",
       "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Elvis Now",
-        "url": "https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 234600,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Elvis Now",
+        "url": "https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 248013,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "(You Make Me Feel Like) a Natural Woman - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Drain The Blood",
-        "url": "https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI"
-      },
-      "artists": [
-        {
-          "name": "The Rural Alberta Advantage",
-          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Eye Of The Tiger",
-      "url": "https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 256798,
       "name": "My City of Ruins",
       "url": "https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Drain The Blood",
+        "url": "https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI"
+      },
+      "artists": [
+        {
+          "name": "The Rural Alberta Advantage",
+          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Eye Of The Tiger",
+      "url": "https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "A Case of You",
-        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
-      },
-      "artists": [
-        {
-          "name": "Noah Reid",
-          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
-        }
-      ],
-      "duration_ms": 190110,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Greatest Hits And Others",
         "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 140000,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "A Case of You",
+        "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
+      },
+      "artists": [
+        {
+          "name": "Noah Reid",
+          "url": "https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT"
+        }
+      ],
+      "duration_ms": 190110,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Mercy Mercy Me (The Ecology)",
+        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 190885,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Black Pumas (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 192963,
       "name": "Strangers - From \"Life In A Day\"",
       "url": "https://open.spotify.com/track/1y8fNzfN7UiL02gUzvuTVw"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Mercy Mercy Me (The Ecology)",
-        "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 190885,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "The Times They Are A-Changin\u2019 (Performance Version)",
-        "url": "https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6"
-      },
-      "artists": [
-        {
-          "name": "Dillon James",
-          "url": "https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "The Times They Are A-Changin\u2019 - Performance Version",
-      "url": "https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Covers Collection",
         "url": "https://open.spotify.com/album/5OTpUpu29iF7pSyT108wXy"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 200432,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/0M1eB7j2ahf7EIThdecGI0"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "The Times They Are A-Changin\u2019 (Performance Version)",
+        "url": "https://open.spotify.com/album/78XZBuGwbg9DtB95S95dJ6"
+      },
+      "artists": [
+        {
+          "name": "Dillon James",
+          "url": "https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "The Times They Are A-Changin\u2019 - Performance Version",
+      "url": "https://open.spotify.com/track/03ob02uf5cOtDGQe7U9SYE"
     }
   ],
   "unique_name": "Classic Covers",

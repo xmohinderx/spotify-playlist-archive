@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,434 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,485 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,22 +24,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 14 | [Apostrophe'](https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Apostrophe\('\)](https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu) | 5:49 |
 | 15 | [Rain Dog](https://open.spotify.com/track/5n1VJ7dpMT3G3Q83wo3tKr) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Bookshelf](https://open.spotify.com/album/70v7OcDOYpKVOVxSYXQXjm) | 4:20 |
 | 16 | [Flight of the Murder Hornet](https://open.spotify.com/track/6Hxn7jXk34VEcYGoNxJRLG) | [Brady Watt](https://open.spotify.com/artist/3zx1v6xCo7VE8vxhhyqr5Y), [Carlos Homs](https://open.spotify.com/artist/6KqWLsgjy9vCaAGmDrHfcx), [Lenny "The Ox" Reece](https://open.spotify.com/artist/1egdBLUq2BDSgxfxxL8vQk) | [Flight of the Murder Hornet](https://open.spotify.com/album/21M84J17hsuB505XLw2w9W) | 3:53 |
-| 17 | [The Knew Untitled](https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 4:27 |
-| 18 | [Triggers](https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu) | [Immortal Onion](https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz) | [XD \[Experience Design\]](https://open.spotify.com/album/4W77ety4g4G6bW9HlaE1Rr) | 5:47 |
+| 17 | [Triggers](https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu) | [Immortal Onion](https://open.spotify.com/artist/4CwsKWauDN6Dt84QVNnfGz) | [XD \[Experience Design\]](https://open.spotify.com/album/4W77ety4g4G6bW9HlaE1Rr) | 5:47 |
+| 18 | [The Knew Untitled](https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 4:27 |
 | 19 | [Lymaks](https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1) | [Batch](https://open.spotify.com/album/5k3J9tx9DYoOi1r6fOEOJo) | 6:14 |
 | 20 | [Cptn Future](https://open.spotify.com/track/5H3mx4ktZNnTsBmtx6UbS4) | [NuHussel Orchestra](https://open.spotify.com/artist/70XGkuNGNpVAw6vRuLqekN) | [Kids](https://open.spotify.com/album/4lihRwOl6BCy8VOZSdyPL8) | 5:02 |
 | 21 | [Blast Off](https://open.spotify.com/track/43qIHICo1XReDYqnvb1vjy) | [Trioscapes](https://open.spotify.com/artist/3poNEhEAAwqWGnLaQNE0Fs) | [Separate Realities](https://open.spotify.com/album/3bv11gB3IyjSa5Kc5mrmCT) | 5:28 |
 | 22 | [Petrichor](https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Shapeless](https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq) | 5:48 |
-| 23 | [silhouette](https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [yucca](https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp) | [move](https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop) | 4:28 |
-| 24 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 |
+| 23 | [Snake Oil](https://open.spotify.com/track/415dIGsxo24JgyqmAun697) | [Tony Williams](https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe) | [Lifetime: The Collection](https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza) | 6:26 |
+| 24 | [silhouette](https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [yucca](https://open.spotify.com/artist/6CRg48tzBp7AKeBv1z3CWp) | [move](https://open.spotify.com/album/4rggfFHMVCmCHAdbeX4Uop) | 4:28 |
 | 25 | [Juice](https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp) | [Krokofant](https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy) | [Krokofant III](https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG) | 6:44 |
 | 26 | [The Life Divine](https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Love Devotion Surrender](https://open.spotify.com/album/0Z6j1FSc3BEyS55TcPms4g) | 9:28 |
 | 27 | [STARGAZER](https://open.spotify.com/track/3vwYWNZgig7iwiKra7MgeQ) | [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6), [Kevin J Dill](https://open.spotify.com/artist/3HVu17IKkNAlPW7T0OBri9), [Ben Rosett](https://open.spotify.com/artist/1dtiGEl2aljrMiP2QqqoZZ) | [STARGAZER](https://open.spotify.com/album/2SqQFcZC7UiOAo92C41sLU) | 4:05 |
 | 28 | [Taurian Matador](https://open.spotify.com/track/2bMQEHvIwor0kD6ewe34ue) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Spectrum](https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA) | 3:03 |
 | 29 | [Inner Babylon](https://open.spotify.com/track/21mubngZPBFQEpG1USrDZC) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Burn](https://open.spotify.com/album/7Mzsu0oVInnu9zOzVSBgK2) | 5:20 |
 | 30 | [because](https://open.spotify.com/track/5jm31VTJ8uIm3dNYr3AWlJ) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Seeds](https://open.spotify.com/album/5mSsvyHSeGsi5Jse1LiE49) | 4:24 |
-| 31 | [Zeal](https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal](https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp) | 6:23 |
-| 32 | [Vital Transformation \(with John McLaughlin\) \- Remastered](https://open.spotify.com/track/76UO345JoM0FJWHwDOYz5y) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:15 |
+| 31 | [Vital Transformation \(with John McLaughlin\) \- Remastered](https://open.spotify.com/track/76UO345JoM0FJWHwDOYz5y) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:15 |
+| 32 | [Zeal](https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal](https://open.spotify.com/album/5dbyIGtVNYJeP4J6zZ4Xrp) | 6:23 |
 | 33 | [Never Ending](https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Never Ending](https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC) | 2:49 |
 | 34 | [Caliber](https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp) | [Evan Marien](https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H), [Dana Hawkins](https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe), [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Fredrik Thordendal](https://open.spotify.com/artist/5I0eQC4oxRaW8DRe4XithF) | [Caliber](https://open.spotify.com/album/1Gr1MnBQE43JRmeccpu8La) | 3:13 |
 | 35 | [Sons of Creation](https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Seven](https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 49 | [Truck Fump](https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 5:05 |
 | 50 | [The Noonward Race \- Remastered](https://open.spotify.com/track/4BWrLhJXXYAlVIHOLSPsmN) | [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [The Inner Mounting Flame](https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr) | 6:27 |
 
-Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMGU2MzNiNTRiNDUzNDFjNmQzZWIwZDAxYTZhOTVjMjli`
+Snapshot ID: `MTY3NDE5MDg2MCwwMDAwMDAwMDJhZGY2M2QxMzRmZTM3YzM3OTY2NjZlOGQ0ZWRjMzc3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 
 > This is The Delfonics\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,692 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,700 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 34 | [You've Got Yours and I'll Get Mine](https://open.spotify.com/track/1kv28lKIdRA2aydk5ZYtW2) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 3:16 |
 | 35 | [Didn't I Blow Your Mind \- Re\-Record](https://open.spotify.com/track/7hl3HTDS0U9PvMeO1jkOSq) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Best Of The Best Vol\. 1](https://open.spotify.com/album/1O9s8jH1RC627KYGCw0vJJ) | 3:43 |
 | 36 | [Don't Throw It All Away \- 7" Version](https://open.spotify.com/track/5ke5fPNXizlAX11dGVNv4W) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:47 |
-| 37 | [Think It Over \- Digitally Remastered 1997](https://open.spotify.com/track/4OvI7trjELxJHuuNPCjO9R) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La\-La Means I Love You](https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5) | 4:39 |
-| 38 | [Let It Be Me \- Remastered](https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:20 |
-| 39 | [Start All Over Again](https://open.spotify.com/track/4LqQ3ag9ltTwpq6XwM5I4u) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:20 |
+| 37 | [Let It Be Me \- Remastered](https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:20 |
+| 38 | [Start All Over Again](https://open.spotify.com/track/4LqQ3ag9ltTwpq6XwM5I4u) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:20 |
+| 39 | [I Don't Want To Make You Wait \- Digitally Remastered 1997](https://open.spotify.com/track/4rkaHrn9km42iXvanYA0nm) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La\-La Means I Love You](https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5) | 3:16 |
 | 40 | [Intro MC for The Delfonics Concert \- Live](https://open.spotify.com/track/5Azq2UGW0k6Y7DhkdY4YNT) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Ray, Goodman & Brown](https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh) | [The Delfonics vs Ray, Goodman & Brown Live In Concert](https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5) | 1:38 |
-| 41 | [I Don't Want To Make You Wait \- Digitally Remastered 1997](https://open.spotify.com/track/4rkaHrn9km42iXvanYA0nm) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La\-La Means I Love You](https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5) | 3:16 |
-| 42 | [I Wanna Be](https://open.spotify.com/track/63OajKDyA9HnZxrv5z6MY4) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Soul Select](https://open.spotify.com/album/4pGm4qkhQedmOobbCNhWN0) | 4:59 |
-| 43 | [Can't Get Over Losing You](https://open.spotify.com/track/7ejLrBSdqORsHcMDCd26RO) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 2:30 |
+| 41 | [I Wanna Be](https://open.spotify.com/track/63OajKDyA9HnZxrv5z6MY4) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Soul Select](https://open.spotify.com/album/4pGm4qkhQedmOobbCNhWN0) | 4:59 |
+| 42 | [Can't Get Over Losing You](https://open.spotify.com/track/7ejLrBSdqORsHcMDCd26RO) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 2:30 |
+| 43 | [How Long Will You Stay \- Re\-Recorded In Stereo](https://open.spotify.com/track/7LVpQBczvJBhkiezh2316d) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Best Of Delfonics](https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i) | 4:46 |
 | 44 | [Sunday \- Live](https://open.spotify.com/track/2MwXRhpyzJF4arnAI6bgLa) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Ray, Goodman & Brown](https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh) | [The Delfonics vs Ray, Goodman & Brown Live In Concert](https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5) | 2:06 |
-| 45 | [How Long Will You Stay \- Re\-Recorded In Stereo](https://open.spotify.com/track/7LVpQBczvJBhkiezh2316d) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Best Of Delfonics](https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i) | 4:46 |
-| 46 | [Strangers Again](https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Delfonics Today All Platinium](https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U) | 3:39 |
-| 47 | [Just Come To Me](https://open.spotify.com/track/2hLyef5hQ0SQPMsQbFbl3Q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Forever New](https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn) | 4:34 |
-| 48 | [Seventeen \(And In Love\)](https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:21 |
+| 45 | [Strangers Again](https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Delfonics Today All Platinium](https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U) | 3:39 |
+| 46 | [Just Come To Me](https://open.spotify.com/track/2hLyef5hQ0SQPMsQbFbl3Q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Forever New](https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn) | 4:34 |
+| 47 | [Seventeen \(And In Love\)](https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:21 |
+| 48 | [Hot Dog \(I Love You So\) \- Remastered](https://open.spotify.com/track/7ulFQzcnIDm337xLiQMYx4) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Love Songs](https://open.spotify.com/album/47I69OChJY93PaFpCRhS31) | 2:18 |
 | 49 | [I Was There](https://open.spotify.com/track/0zdaas9hOKj1qnjgWHqwnG) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Cameo Parkway Pop And Soul Gems Of 1967\-1968 Vol\. 2](https://open.spotify.com/album/0AUS0EbtGUdjDn4cTaEGqf) | 2:36 |
 | 50 | [My World Revolves Around You](https://open.spotify.com/track/1Bb8niOtFuv0M07uCEDpvb) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Forever New](https://open.spotify.com/album/05OozttCHVJ9OdTRN07dFn) | 4:38 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDAzOWM0NmFhMTM4YmYxMDBiZGI3MjE4OTBhYmJjMGY2Nw==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDA0MDI0ODFlYmIxYjg4YTcwYjQ1OGY3NjhhYjIyMDg0Yw==`

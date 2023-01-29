@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 398449,
+  "num_followers": 398843,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMDM1ODU1MmExYTRlZmQyYTUwYzgxZmRkYWYyZGExOWNj",
+  "snapshot_id": "MTY0MjUxNzY0NCwwMDAwMDAwMGU2ZDUxNmRiYzA1NGMyZjUzNWNjMmMzOWRiOTkyZjFk",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "THE NIGHTDAY",
-        "url": "https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        }
-      ],
-      "duration_ms": 223480,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "SOLACE",
         "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 237986,
       "name": "No Place",
       "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "THE NIGHTDAY",
+        "url": "https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        }
+      ],
+      "duration_ms": 223480,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -967,6 +967,30 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "GENERATIONWHY",
+        "url": "https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Working For It",
+      "url": "https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -1003,30 +1027,6 @@
       "duration_ms": 228361,
       "name": "Sex",
       "url": "https://open.spotify.com/track/4CGGIk81BvfCZiscwFP6t0"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "GENERATIONWHY",
-        "url": "https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Working For It",
-      "url": "https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Goodbye (feat. Lyse) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
-      },
-      "artists": [
-        {
-          "name": "Feder",
-          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
-        },
-        {
-          "name": "Lyse",
-          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "Goodbye (feat. Lyse) - Radio Edit",
-      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Talk About It",
         "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 164536,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Goodbye (feat. Lyse) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
+      },
+      "artists": [
+        {
+          "name": "Feder",
+          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
+        },
+        {
+          "name": "Lyse",
+          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "Goodbye (feat. Lyse) - Radio Edit",
+      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Gonna Love Ya",
+      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
         "name": "Sad Song (feat. TINI)",
         "url": "https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 154024,
       "name": "Sad Song (feat. TINI)",
       "url": "https://open.spotify.com/track/2JoIjuzRplpYGvvLpSW2on"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Gonna Love Ya",
-      "url": "https://open.spotify.com/track/1rDETmcizen79JghAEm1Se"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Here Today Gone Tomorrow",
-        "url": "https://open.spotify.com/album/20u2BADwHMxvAvFNNxtAGo"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 313084,
-      "name": "Facing the Sun",
-      "url": "https://open.spotify.com/track/4Ei691AKbjiGscPcMUdA4s"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Strawtown",
         "url": "https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 188846,
       "name": "On The Beach",
       "url": "https://open.spotify.com/track/6OjSqRwvwPZy99Z7lA8CIY"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Here Today Gone Tomorrow",
+        "url": "https://open.spotify.com/album/20u2BADwHMxvAvFNNxtAGo"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 313084,
+      "name": "Facing the Sun",
+      "url": "https://open.spotify.com/track/4Ei691AKbjiGscPcMUdA4s"
     },
     {
       "added_at": "2022-01-18 14:54:04",

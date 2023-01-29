@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Ghost & Def Leppard",
-  "num_followers": 368773,
+  "num_followers": 369114,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc3NzYwMCwwMDAwMDAwMDFlNzdlMjM2YjQ4NTAxOWUyNWQwNzliYzEyOTEyNmY4",
+  "snapshot_id": "MTY3NDc3NzYwMCwwMDAwMDAwMGFlMDAzN2MxNWI3NTAwNDhkNjFkZTY0NjU5NmMxMDEz",
   "tracks": [
     {
       "added_at": "2023-01-27 00:00:00",
@@ -547,18 +547,22 @@
     {
       "added_at": "2023-01-27 00:00:00",
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
       "artists": [
         {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
+      "duration_ms": 248440,
+      "name": "Under Pressure - Remastered 2011",
+      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
     },
     {
       "added_at": "2023-01-27 00:00:00",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-01-27 00:00:00",
       "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        },
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 248440,
-      "name": "Under Pressure - Remastered 2011",
-      "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
+      "duration_ms": 204800,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
     },
     {
       "added_at": "2023-01-27 00:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-27 00:00:00",
       "album": {
-        "name": "The Queen Is Dead",
-        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Bigmouth Strikes Again - 2011 Remaster",
-      "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
-    },
-    {
-      "added_at": "2023-01-27 00:00:00",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 179760,
       "name": "Our House",
       "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
+    },
+    {
+      "added_at": "2023-01-27 00:00:00",
+      "album": {
+        "name": "The Queen Is Dead",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Bigmouth Strikes Again - 2011 Remaster",
+      "url": "https://open.spotify.com/track/2OErSh4oVVAUll0vHxdr6p"
     },
     {
       "added_at": "2023-01-27 00:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-01-27 00:00:00",
       "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
-      },
-      "artists": [
-        {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
-    },
-    {
-      "added_at": "2023-01-27 00:00:00",
-      "album": {
         "name": "Blur: The Best Of",
         "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 259385,
       "name": "Girls & Boys",
       "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
+    },
+    {
+      "added_at": "2023-01-27 00:00:00",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2023-01-27 00:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-01-27 00:00:00",
       "album": {
-        "name": "The Shape I'm Takin'",
-        "url": "https://open.spotify.com/album/7D2jhStmJWw2u8DhMWnORp"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 215365,
-      "name": "The Shape I'm Takin'",
-      "url": "https://open.spotify.com/track/4UEMZFRrxVUkuMVaHhWoKQ"
-    },
-    {
-      "added_at": "2023-01-27 00:00:00",
-      "album": {
         "name": "Screaming Suicide",
         "url": "https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 330453,
       "name": "Screaming Suicide",
       "url": "https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT"
+    },
+    {
+      "added_at": "2023-01-27 00:00:00",
+      "album": {
+        "name": "The Shape I'm Takin'",
+        "url": "https://open.spotify.com/album/7D2jhStmJWw2u8DhMWnORp"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 215365,
+      "name": "The Shape I'm Takin'",
+      "url": "https://open.spotify.com/track/4UEMZFRrxVUkuMVaHhWoKQ"
     },
     {
       "added_at": "2023-01-27 00:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-01-27 00:00:00",
       "album": {
-        "name": "Fear Inoculum",
-        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 713191,
-      "name": "Pneuma",
-      "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
-    },
-    {
-      "added_at": "2023-01-27 00:00:00",
-      "album": {
         "name": "Doolittle",
         "url": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 175333,
       "name": "Monkey Gone to Heaven",
       "url": "https://open.spotify.com/track/6BT7qiDY4A5tOyklohjQuW"
+    },
+    {
+      "added_at": "2023-01-27 00:00:00",
+      "album": {
+        "name": "Fear Inoculum",
+        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 713191,
+      "name": "Pneuma",
+      "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
     },
     {
       "added_at": "2023-01-27 00:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-01-27 00:00:00",
       "album": {
-        "name": "Alison (Demo)",
-        "url": "https://open.spotify.com/album/6YEqa6Rd3McfnhXd2wGiBY"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 154427,
-      "name": "Alison - Demo",
-      "url": "https://open.spotify.com/track/4DbANKRc1W9ChH2pWchb58"
-    },
-    {
-      "added_at": "2023-01-27 00:00:00",
-      "album": {
         "name": "Sound Affects",
         "url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 212786,
       "name": "That's Entertainment",
       "url": "https://open.spotify.com/track/7MH7TkjQ4RA1vG454dciw0"
+    },
+    {
+      "added_at": "2023-01-27 00:00:00",
+      "album": {
+        "name": "Alison (Demo)",
+        "url": "https://open.spotify.com/album/6YEqa6Rd3McfnhXd2wGiBY"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 154427,
+      "name": "Alison - Demo",
+      "url": "https://open.spotify.com/track/4DbANKRc1W9ChH2pWchb58"
     },
     {
       "added_at": "2023-01-27 00:00:00",

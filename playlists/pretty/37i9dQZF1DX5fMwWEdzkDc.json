@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 7416,
+  "num_followers": 7432,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMGU0MzlhZjg0ZThjOTM1NWQzN2ViODczODliN2QzOGJl",
+  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMGM3MGE2NGMxMmU2NjdhMmNkNTU4MTc4YTFiZjU4MzEw",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/6II4FpwMXm5tQRhaXDxjo2"
-      },
-      "artists": [
-        {
-          "name": "SUPER JUNIOR",
-          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "U",
-      "url": "https://open.spotify.com/track/7HKkudjI7pofH9oDqt3Y1T"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "DJ Chully's Handsome Vol.1",
         "url": "https://open.spotify.com/album/5QqBi6noPokRSDtKOdXaTH"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 205626,
       "name": "Tears",
       "url": "https://open.spotify.com/track/02laG0v03OGNH74mEWOH3V"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/6II4FpwMXm5tQRhaXDxjo2"
+      },
+      "artists": [
+        {
+          "name": "SUPER JUNIOR",
+          "url": "https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "U",
+      "url": "https://open.spotify.com/track/7HKkudjI7pofH9oDqt3Y1T"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -467,22 +467,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Wonder World",
-        "url": "https://open.spotify.com/album/1vEiOIYInN3Y2LpvXTcEyK"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 211811,
-      "name": "Be My Baby",
-      "url": "https://open.spotify.com/track/4H3nLd4sDY2OBsugvJc0ql"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "I Want To Fall In Love",
         "url": "https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 232544,
       "name": "I Want To Fall In Love",
       "url": "https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Wonder World",
+        "url": "https://open.spotify.com/album/1vEiOIYInN3Y2LpvXTcEyK"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 211811,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/4H3nLd4sDY2OBsugvJc0ql"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -515,22 +515,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Ballads",
-        "url": "https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "\uac70\ub9ac\uc5d0\uc11c",
-      "url": "https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "A bicycle Ride",
         "url": "https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 222853,
       "name": "Me to You, You to Me",
       "url": "https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "The Ballads",
+        "url": "https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "\uac70\ub9ac\uc5d0\uc11c",
+      "url": "https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Chapter 5",
-        "url": "https://open.spotify.com/album/6xU3d2lMaYCFUMnerQvmVq"
-      },
-      "artists": [
-        {
-          "name": "god",
-          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
-        }
-      ],
-      "duration_ms": 228937,
-      "name": "0%",
-      "url": "https://open.spotify.com/track/7uL1y6VIPolzDR18zJmeU7"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 272662,
       "name": "Missing you",
       "url": "https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Chapter 5",
+        "url": "https://open.spotify.com/album/6xU3d2lMaYCFUMnerQvmVq"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/1nTCpd63NkuGGpCIbo4Ywl"
+        }
+      ],
+      "duration_ms": 228937,
+      "name": "0%",
+      "url": "https://open.spotify.com/track/7uL1y6VIPolzDR18zJmeU7"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "With Coffee\u2026",
+      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "\ub098\ub294\uac00\uc218\ub2e4 \uc2dc\uc98c3 1\ud68c '\uc790\uc2e0\uc758 \ub300\ud45c\uace1'",
         "url": "https://open.spotify.com/album/4taROD1UypCjbIgisuLolT"
       },
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "With Coffee\u2026",
-      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "It's Raining",
         "url": "https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 225306,
       "name": "I Do",
       "url": "https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "T.O.P - The 2nd Album",
-        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "T.O.P. (Twinkling Of Paradise)",
-      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Hi~",
-        "url": "https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho"
+        "name": "T.O.P - The 2nd Album",
+        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
       },
       "artists": [
         {
-          "name": "Lovelyz",
-          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
         }
       ],
-      "duration_ms": 207426,
-      "name": "Hi~",
-      "url": "https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG"
+      "duration_ms": 281760,
+      "name": "T.O.P. (Twinkling Of Paradise)",
+      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1135,6 +1119,22 @@
       "duration_ms": 272875,
       "name": "The man and the woman",
       "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Hi~",
+        "url": "https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho"
+      },
+      "artists": [
+        {
+          "name": "Lovelyz",
+          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "Hi~",
+      "url": "https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1251,38 +1251,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Purple Drop",
-        "url": "https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo"
-      },
-      "artists": [
-        {
-          "name": "HUS",
-          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Hawaian Couple",
-      "url": "https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "The Breeze Of Sea",
-        "url": "https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S"
-      },
-      "artists": [
-        {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
-        }
-      ],
-      "duration_ms": 329026,
-      "name": "\ucd94\uc5b5\uc740 \uc0ac\ub791\uc744 \ub2ee\uc544",
-      "url": "https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Type B (1)",
         "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
       },
@@ -1315,18 +1283,34 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Change Yourself",
-        "url": "https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj"
+        "name": "Purple Drop",
+        "url": "https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo"
       },
       "artists": [
         {
-          "name": "The Jadu",
-          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+          "name": "HUS",
+          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
         }
       ],
-      "duration_ms": 240440,
-      "name": "\ub300\ud654\uac00 \ud544\uc694\ud574",
-      "url": "https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0"
+      "duration_ms": 218400,
+      "name": "Hawaian Couple",
+      "url": "https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "The Breeze Of Sea",
+        "url": "https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S"
+      },
+      "artists": [
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "duration_ms": 329026,
+      "name": "\ucd94\uc5b5\uc740 \uc0ac\ub791\uc744 \ub2ee\uc544",
+      "url": "https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1343,6 +1327,22 @@
       "duration_ms": 247852,
       "name": "A Letter to you Part.2",
       "url": "https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Change Yourself",
+        "url": "https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj"
+      },
+      "artists": [
+        {
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "\ub300\ud654\uac00 \ud544\uc694\ud574",
+      "url": "https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1399,6 +1399,26 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Son Dam Bi Mini Album vol. 2",
+        "url": "https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL"
+      },
+      "artists": [
+        {
+          "name": "Son Dam Bi",
+          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
+        },
+        {
+          "name": "Eric",
+          "url": "https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "Crazy (feat.Eric)",
+      "url": "https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Must Listen",
         "url": "https://open.spotify.com/album/0lAJhXF86SWZa65n4PeJOV"
       },
@@ -1447,22 +1467,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Son Dam Bi Mini Album vol. 2",
-        "url": "https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL"
+        "name": "The Jadu 3",
+        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
       },
       "artists": [
         {
-          "name": "Son Dam Bi",
-          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
-        },
-        {
-          "name": "Eric",
-          "url": "https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m"
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
         }
       ],
-      "duration_ms": 241371,
-      "name": "Crazy (feat.Eric)",
-      "url": "https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn"
+      "duration_ms": 225866,
+      "name": "\uae40\ubc25",
+      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Jadu 3",
-        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/5uPLGc3hT67DBjd7eNFd1L"
       },
       "artists": [
         {
-          "name": "The Jadu",
-          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+          "name": "KCM",
+          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
         }
       ],
-      "duration_ms": 225866,
-      "name": "\uae40\ubc25",
-      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
+      "duration_ms": 234841,
+      "name": "An old love story",
+      "url": "https://open.spotify.com/track/4jknyio1tolPfGu539fE87"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Beautiful Mind",
-        "url": "https://open.spotify.com/album/5uPLGc3hT67DBjd7eNFd1L"
+        "name": "SE7EN New Mini Album",
+        "url": "https://open.spotify.com/album/769iSuDv4ZwnUZajcITZPI"
       },
       "artists": [
         {
-          "name": "KCM",
-          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
         }
       ],
-      "duration_ms": 234841,
-      "name": "An old love story",
-      "url": "https://open.spotify.com/track/4jknyio1tolPfGu539fE87"
+      "duration_ms": 235426,
+      "name": "When I Can't Sing (\ub0b4\uac00 \ub178\ub798\ub97c \ubabb\ud574\ub3c4)",
+      "url": "https://open.spotify.com/track/04DzNacNQnSlCqs9bJX4Eg"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1559,22 +1575,6 @@
       "duration_ms": 221066,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/0mBqZHt102BjZ6Rb6EQJ2a"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "SE7EN New Mini Album",
-        "url": "https://open.spotify.com/album/769iSuDv4ZwnUZajcITZPI"
-      },
-      "artists": [
-        {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "When I Can't Sing (\ub0b4\uac00 \ub178\ub798\ub97c \ubabb\ud574\ub3c4)",
-      "url": "https://open.spotify.com/track/04DzNacNQnSlCqs9bJX4Eg"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1627,18 +1627,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Windows Of My Soul",
-        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
+        "name": "Tell Me One More Time",
+        "url": "https://open.spotify.com/album/0EMCROFAU9wlGTzdSycGHO"
       },
       "artists": [
         {
-          "name": "Yangpa",
-          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+          "name": "JINUSEAN",
+          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+        },
+        {
+          "name": "\uc7a5\ud55c\ub098",
+          "url": "https://open.spotify.com/artist/6hIrFuDMvnr5nNGqmwrB3V"
         }
       ],
-      "duration_ms": 238393,
-      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
-      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
+      "duration_ms": 195508,
+      "name": "Tell Me One More Time",
+      "url": "https://open.spotify.com/track/3aQAxjZAl2lhXD1OISjKuQ"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

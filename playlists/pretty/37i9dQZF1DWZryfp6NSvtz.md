@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: The Xcerts
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,265 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,484 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 14 | [Pain of Glass](https://open.spotify.com/track/5jJsqz7aMxtft8490mW6oC) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [Burning Halos](https://open.spotify.com/album/3cIrdBgxHkf6o65enOmvTO) | 3:28 |
 | 15 | [I'll Entertain Ya](https://open.spotify.com/track/54sTQ2LmN2Bn852BAExetS) | [Dude Safari](https://open.spotify.com/artist/6u86o2rCOh2saTMgsYFvzX) | [YUSSUS](https://open.spotify.com/album/3M8SFjvWE4i99ZZfINzXuO) | 4:03 |
 | 16 | [everybody knows it](https://open.spotify.com/track/6lmc9JwfPOSMgr1GDKsQwt) | [Halflives](https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID) | [everybody knows it](https://open.spotify.com/album/1vEeVTr65RNcXHMpXPIVXC) | 2:29 |
-| 17 | [Never with You Again](https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Never with You Again](https://open.spotify.com/album/5uk392dRRZMHJVM8PpyRTM) | 2:12 |
+| 17 | [Never With You Again](https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Never With You Again](https://open.spotify.com/album/5uk392dRRZMHJVM8PpyRTM) | 2:12 |
 | 18 | [Prison light](https://open.spotify.com/track/0Eho63aLMbseadFByJMSUB) | [ITCHY](https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4) | [Prison light](https://open.spotify.com/album/0FaWYKd6YvgdvsbNvQzx5a) | 3:15 |
 | 19 | [First Rate Town](https://open.spotify.com/track/1P59E9uaeejHQ5xu0EG4p6) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [First Rate Town](https://open.spotify.com/album/1rN2JouSer5jxdKU1J5SIf) | 2:02 |
 | 20 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 |

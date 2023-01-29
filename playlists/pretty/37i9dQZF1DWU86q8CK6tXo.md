@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > New music from female\-identifying artists\. Cover: <a href=“spotify:artist:39i5B6umzWzkfMe12JrMwW”>TiaCorine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,682 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,695 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 13 | [paper thin](https://open.spotify.com/track/4NevvmFYtCLxRvhAcNVhOB) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [eleven achers](https://open.spotify.com/album/5D2AToXPxIC5cBdbdOXHsM) | 3:06 |
 | 14 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 15 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 |
-| 16 | [Conceited](https://open.spotify.com/track/4hTej08FutmriOs7S1hWWy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:31 |
-| 17 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
+| 16 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
+| 17 | [Conceited](https://open.spotify.com/track/4hTej08FutmriOs7S1hWWy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:31 |
 | 18 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
 | 19 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 |
 | 20 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 |
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 42 | [Sand in My Boots \(Female POV\)](https://open.spotify.com/track/3NoY2XJyHcfwYcg5bQc1Xu) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Sand in My Boots \(Female POV\)](https://open.spotify.com/album/4HDBdRqh0NpSR4KG3dsp8V) | 3:14 |
 | 43 | [Break](https://open.spotify.com/track/3JNS1gdHgr8fms90xGqmzP) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Break](https://open.spotify.com/album/4um2IcUfWGY746dyXRupZU) | 2:49 |
 | 44 | [Secrets](https://open.spotify.com/track/4e2OclvRO3w8s4VomIbfxF) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Secrets](https://open.spotify.com/album/7eHb55jHq7cPgnKquT81xs) | 4:12 |
-| 45 | [Amor No Correspondido](https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Amor No Correspondido](https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph) | 2:43 |
-| 46 | [Perdón](https://open.spotify.com/track/29M6pJLcQiCaO15QhPrHFT) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P) | [Perdón](https://open.spotify.com/album/2jlVRYddldWw0PvazEfALS) | 2:35 |
+| 45 | [Perdón](https://open.spotify.com/track/29M6pJLcQiCaO15QhPrHFT) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P) | [Perdón](https://open.spotify.com/album/2jlVRYddldWw0PvazEfALS) | 2:35 |
+| 46 | [Amor No Correspondido](https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Amor No Correspondido](https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph) | 2:43 |
 | 47 | [Out For The Weekend](https://open.spotify.com/track/7rl1Z4u5EEtG03Nv6NohsB) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Out For The Weekend](https://open.spotify.com/album/5xTD5saqA6XYfi3A7C8nyA) | 3:27 |
 | 48 | [parking lot](https://open.spotify.com/track/1VRthxEwloKl9WDlesQRUc) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [ap vol\. I](https://open.spotify.com/album/36BzRzxO8gAWRzbM9M0fMe) | 3:14 |
 | 49 | [Roadkill](https://open.spotify.com/track/4UV8lFpuRuIS3UXJ1AbmTM) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Roadkill](https://open.spotify.com/album/4I6KtoBDbRNR7R5DvQA7Nv) | 2:04 |
 | 50 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 |
 | 51 | [Waiting](https://open.spotify.com/track/60XKYSAexkc70KPDefZzYs) | [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Waiting](https://open.spotify.com/album/6bvRJ36iuSYbQD5kYaP64I) | 2:45 |
 
-Snapshot ID: `MTY3MjgwODQwMCwwMDAwMDAwMGIyZmU3MWYxYTI5OGFhNTllM2I4ZmZiZDIwNmExNTkx`
+Snapshot ID: `MTY3MjgwODQwMCwwMDAwMDAwMGRjMmZjMzZhMTU5NTlkNzBjYjVkOTRhMzAwNjJlZTg3`

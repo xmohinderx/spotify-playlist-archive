@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk?si=GZYCF3NjTmWkpbhFM2RqRA" > Jeriq </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,043 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,087 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 36 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 |
 | 37 | [Holy Gee](https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Holy Gee](https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP) | 2:44 |
 | 38 | [Manhattan](https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Manhattan](https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K) | 2:41 |
-| 39 | [E No Fit Be Me](https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3) | [Ejoya](https://open.spotify.com/artist/6YiY30jVEsLhQfvla09lwi), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Noah Airé](https://open.spotify.com/artist/6jOqT8eFLJJBFlnSVoMoqL) | [E No Fit Be Me](https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE) | 2:55 |
-| 40 | [BBO \(Bad Bxtches Only\)](https://open.spotify.com/track/5SYbZNSUDKugdnsVAutBUf) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BBO \(Bad Bxtches Only\)](https://open.spotify.com/album/4yaDvxGKIlvdoZh4OzPpOY) | 2:43 |
+| 39 | [BBO \(Bad Bxtches Only\)](https://open.spotify.com/track/5SYbZNSUDKugdnsVAutBUf) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BBO \(Bad Bxtches Only\)](https://open.spotify.com/album/4yaDvxGKIlvdoZh4OzPpOY) | 2:43 |
+| 40 | [E No Fit Be Me](https://open.spotify.com/track/3lciDsGSVaG9gLzK5f0wc3) | [Ejoya](https://open.spotify.com/artist/6YiY30jVEsLhQfvla09lwi), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Noah Airé](https://open.spotify.com/artist/6jOqT8eFLJJBFlnSVoMoqL) | [E No Fit Be Me](https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE) | 2:55 |
 | 41 | [YOUNG PREACHER](https://open.spotify.com/track/3V71i8LUdPxuwEizJ9EYNM) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 2:22 |
 | 42 | [Legendary](https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [LITTLE & LEGENDARY](https://open.spotify.com/album/4oHJ6JejDytkQ5b9GUSohI) | 2:27 |
 | 43 | [Naira to Pounds](https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1) | [Zoro](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Naira to Pounds](https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr) | 2:51 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 45 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 |
 | 46 | [Perfect Timing](https://open.spotify.com/track/02p4zzOLuPuJwFK4jDMLpA) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [The Lost Boy](https://open.spotify.com/album/2HPDq4nWDFz0rwW3Il34Ek) | 3:28 |
 | 47 | [Okwaraji \(feat\. Bella Shmurda\) \[Remix\]](https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:48 |
-| 48 | [Mama Maradona](https://open.spotify.com/track/11bQsRKQ9z0acI4klPQoQr) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Mama Maradona](https://open.spotify.com/album/4ZtZwFfgzEMn4pyy5SuJ8y) | 2:55 |
-| 49 | [Out There](https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension 2.0](https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q) | 2:43 |
+| 48 | [Out There](https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension 2.0](https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q) | 2:43 |
+| 49 | [Mama Maradona](https://open.spotify.com/track/11bQsRKQ9z0acI4klPQoQr) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Mama Maradona](https://open.spotify.com/album/4ZtZwFfgzEMn4pyy5SuJ8y) | 2:55 |
 | 50 | [Monica](https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ) | [TMXO](https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP) | [Monica](https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo) | 2:08 |
 | 51 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 |
 | 52 | [MIDLIFE CRISIS](https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [MIDLIFE CRISIS / WYDTM](https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0) | 2:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 69 | [Superstar](https://open.spotify.com/track/6v3uGqyVkVIfFfoWHNHH6v) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Superstar](https://open.spotify.com/album/4NR3st0lpRq63g3oSp5wj3) | 2:26 |
 | 70 | [Another Me](https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:12 |
 
-Snapshot ID: `MTY3NDgxMDk3NywwMDAwMDAwMDkwZWVlMTE5NGU0ZDcxZmQ3ZjRiNGY5OTg4NjUwZDky`
+Snapshot ID: `MTY3NDgxMDk3NywwMDAwMDAwMDY2YzkwYWQ5MmQwOTQ4NTAyYTkwNTI4MzBjMzBiMDJj`

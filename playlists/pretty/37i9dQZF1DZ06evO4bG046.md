@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,184 likes - 50 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,206 likes - 50 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 49 | [Ayer Cache \(Remasterizado 2020\)](https://open.spotify.com/track/5oGKw1Zl8WLYbcX1OBWhzV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4) | 4:21 |
 | 50 | [Tan Lejos del Sol](https://open.spotify.com/track/3WRCP41Htspiy2z9mSxUVK) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/39aqZbT6zd0UYsI6VFtyJZ) | 6:28 |
 
-Snapshot ID: `Mjc5MTM3NTIsMDAwMDAwMDBiZjI3MDBkODQ2YTdmMzA2NWY1ODdmY2UxMWM5NmY1OQ==`
+Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDAwMDBkNDQzMTI3MGY1MWYxOTE3MWU2MTE4YjhiZDA0OQ==`
