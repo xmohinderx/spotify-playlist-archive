@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni da gridare e in cover still charles ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,924 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,930 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 4 | [Sere nere](https://open.spotify.com/track/628efDaUbu6gn8am4OTDrD) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [Bedini](https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP), [Brunelleski](https://open.spotify.com/artist/1ZrajfZPubGTccfX3Xutxd) | [Sere nere](https://open.spotify.com/album/08dxcPYxu2unlaaAI7NajL) | 3:02 |
 | 5 | [GLI ANNI MIGLIORI](https://open.spotify.com/track/09SjR6PZI4nRoPjdguS6vu) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0eqtPtuyfh2prrAWApMCgK) | 2:53 |
 | 6 | [Barna](https://open.spotify.com/track/3bPekwjpEJAQzUpFlhkTh5) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU), [Ardia](https://open.spotify.com/artist/71H4k0XU2SGct9RvpvmxHS) | [Barna](https://open.spotify.com/album/3RhMpDJAtwHrciiH71csMC) | 2:24 |
-| 7 | [F.B.F.M](https://open.spotify.com/track/2qYrm20YLABT5JJfAhr1SG) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [F.B.F.M](https://open.spotify.com/album/1EUcFHuEtHGbzDv43L5WK0) | 3:08 |
+| 7 | [F.B.F.M.](https://open.spotify.com/track/2qYrm20YLABT5JJfAhr1SG) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [F.B.F.M.](https://open.spotify.com/album/1EUcFHuEtHGbzDv43L5WK0) | 3:08 |
 | 8 | [L'anima balla](https://open.spotify.com/track/65NR4YkJwlGhOtCwZMMAen) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl) | [L'anima balla](https://open.spotify.com/album/20t4Fh0OdFRgEUQwpiTE7D) | 2:36 |
 | 9 | [Farmaci in bustine](https://open.spotify.com/track/0QzwyqqXT20TY2cneTmLz3) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Farmaci in bustine](https://open.spotify.com/album/4NuSzjkAg3Tu6lLGTS9QdZ) | 2:51 |
 | 10 | [Domani \(feat\. VillaBanks\)](https://open.spotify.com/track/0T18BhknzhoFoIrnOdU5FP) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [The American Boyfriends](https://open.spotify.com/artist/3jmCi2B1XY7vTC1fRtbEzS) | [Domani \(feat\. VillaBanks\)](https://open.spotify.com/album/3xl2U7FpFY9jBQ09409s66) | 3:08 |

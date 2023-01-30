@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in Ambient, Atmospheric and Neo\-Classical\. Moby on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,314 likes - 300 songs - 23 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,455 likes - 300 songs - 23 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

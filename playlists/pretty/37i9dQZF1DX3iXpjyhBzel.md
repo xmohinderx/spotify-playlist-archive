@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Eyshila, Gabriel Guedes de Almeida
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,820 likes - 90 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,025 likes - 90 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

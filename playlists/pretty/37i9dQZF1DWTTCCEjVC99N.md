@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 
 > Ya Wailee! Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,108 likes - 63 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,470 likes - 63 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 19 | [Fi 'Eshq El Banat](https://open.spotify.com/track/6NmGlzeBRAUTs3FIXgXlO6) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Fi 'Eshq El Banat](https://open.spotify.com/album/0IiIDiJz2V8n6Xcs4mMwzM) | 5:23 |
 | 20 | [Wala Ala Balo](https://open.spotify.com/track/3Myno7mzYuIaNrOGPlIheQ) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Aktar Wahed Beihebak](https://open.spotify.com/album/3QDQnBiAmCcBndBaswQBk6) | 5:09 |
 | 21 | [El Hantoor](https://open.spotify.com/track/4I2RAr4wKPPUOEQW58vjvM) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Bel Balady](https://open.spotify.com/album/5RF7CQDam2yu6UIazT2mQ9) | 3:52 |
-| 22 | [Wana Wana](https://open.spotify.com/track/40v2G2YDUk4oA5UZfv7evR) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Oriental Raï Party](https://open.spotify.com/album/3LFSYJfcUd31sIirhLZd3e) | 3:54 |
+| 22 | [Wana Wana](https://open.spotify.com/track/36bJT8A2jUNIbFa8mxW5z9) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Oriental Raï Party](https://open.spotify.com/album/3DsVrDED3EawtrPvX2aBZQ) | 3:54 |
 | 23 | [Tehlefly Asada](https://open.spotify.com/track/6Fa206Tdaj7QioM9XQsZGh) | [Wama](https://open.spotify.com/artist/7yB2bLPVo9PoqeN9c1T6UN) | [Ya Ghaly Alaya](https://open.spotify.com/album/2mZbo3T8JPKZQmYHnlGiWP) | 3:51 |
 | 24 | [Ya Remoshaha](https://open.spotify.com/track/6p7D4gVIMWr1nDVgKsXSOS) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Habeeb El Alb](https://open.spotify.com/album/0N6f8GhfijcS2cNAZRNS6h) | 4:58 |
 | 25 | [Nasini El Donya](https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 4:30 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTCCEjVC99N.md) - [plain]
 | 62 | [اشوف فيك يوم](https://open.spotify.com/track/6XbcPZc1kZ1bbTmzI7Pqzw) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [يا خسارتك فى اليالى](https://open.spotify.com/album/3oUnSsugdYXbTwLOpjq7Sa) | 4:23 |
 | 63 | [Haollak Eih](https://open.spotify.com/track/1uQfLicb1k25vIfPpfSmqk) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Monaya](https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX) | 3:33 |
 
-Snapshot ID: `MTYzODc3OTMyOCwwMDAwMDAwMGI4NmEzYzNjM2FiOGJiOGVjNjM2YWIzMGFiYWFlMGZm`
+Snapshot ID: `MTYzODc3OTMyOCwwMDAwMDAwMDJiY2NmNGI2YzJkZmQ1ZDNlYzBiZDFmMjlmYzFkMWY3`

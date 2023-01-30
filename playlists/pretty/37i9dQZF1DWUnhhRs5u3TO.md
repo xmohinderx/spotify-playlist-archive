@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,759 likes - 150 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,947 likes - 150 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 149 | [Sorceress](https://open.spotify.com/track/5mY8mY7DSfuqVbY2psq3Cg) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Sorceress](https://open.spotify.com/album/2GNdgq3pIVLYZoNK4wJtCP) | 5:49 |
 | 150 | [Road of Resistance](https://open.spotify.com/track/4f5Glh6TkdXN2osSIpVBNI) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [BABYMETAL](https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI) | 5:18 |
 
-Snapshot ID: `MTY2OTM4NTIzMywwMDAwMDAwMGEyNGFlMjBlNGIxZGZiOGQ1NGMyZDBhMDY0MzE1NjI0`
+Snapshot ID: `MTY3NTAzMjY1NiwwMDAwMDAwMDk0NzZjOWJkNTU4NWI2MzZkNzMyZjU5NzhmN2U5ZTI5`

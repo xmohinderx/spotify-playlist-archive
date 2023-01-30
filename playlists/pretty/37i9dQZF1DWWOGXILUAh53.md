@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: Rita Ora
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,008 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,121 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 9 | [Lost In The Moment](https://open.spotify.com/track/5sds9CuXKUMqdq05BPFXyi) | [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Lost In The Moment](https://open.spotify.com/album/6iBr7zIGNHSFngayyUB56R) | 2:29 |
 | 10 | [Enough To Drink](https://open.spotify.com/track/3BGfe8GXBE4cCVEvBG10yP) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Cate Downey](https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn) | [Enough To Drink](https://open.spotify.com/album/1Tx5s92P4nNJEAXqDvA3lf) | 2:18 |
 | 11 | [Oops](https://open.spotify.com/track/7fdGGQpQQxwDhgurhKDWVL) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Oops](https://open.spotify.com/album/7c019FtvgrH286V56ZX9jp) | 2:48 |
-| 12 | [One Of Us](https://open.spotify.com/track/1lmLWFZA8056zsE4paVrPC) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/4k4NkY9Y054ETiqhz2cNCS) | 2:58 |
+| 12 | [One Of Us](https://open.spotify.com/track/1ItdTDx23yt7tIJOZv5iLQ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:58 |
 | 13 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 |
 | 14 | [Heaven](https://open.spotify.com/track/1NZKXJskXhXJivaH6JcwWa) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Heaven](https://open.spotify.com/album/3y3EguDNJa6e7V9SedQGQz) | 3:54 |
 | 15 | [Hooked \(Hot Stuff\)](https://open.spotify.com/track/0PAPiFLJYjt55g8rO1uG9B) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Hooked \(Hot Stuff\)](https://open.spotify.com/album/60lqEXjkTbDsn5X1wHy6bq) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 49 | [See You In My Dreams](https://open.spotify.com/track/41QTVIWEHUxKMZFsq7H7jI) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/3r6WmUjMVoxX7iVyuXfHAO) | 2:39 |
 | 50 | [From The Ashes \(with Skylar Grey\)](https://open.spotify.com/track/3bEkAkaKjxaC7DubsfCo1t) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [From The Ashes \(with Skylar Grey\)](https://open.spotify.com/album/3VH8ly1obBbFxSJodod4eD) | 4:13 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDIyZDE5MGM1YzliMWQxNjM4ZjhlNmVlNzk4Njg4YzQ5`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDM2MGM0ZGM5ZjAxNmUzMjk3OTA1ODJjYjEwYTg4OGZm`

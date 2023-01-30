@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Sam Smith, Alexandre Pires com Ferrugem, Simone Mendes, Gusttavo Lima e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,826,829 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,826,926 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I’m Not Here To Make Friends \(feat\. Calvin Harris & Jessie Reyez\)](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 |
+| 1 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 |
 | 2 | [Toma Cavalgada](https://open.spotify.com/track/77ybcepgbas4VwocDuaKNT) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm) | [Toma Cavalgada](https://open.spotify.com/album/1VuA5e1erDZ9uqDTBCsAVt) | 2:45 |
 | 3 | [Pirata](https://open.spotify.com/track/3JiiLcWGHzXCkbw8syxFMa) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Pirata](https://open.spotify.com/album/4NmljZyRzVZtXSRM3As0M9) | 1:53 |
 | 4 | [Fofoca](https://open.spotify.com/track/2kelStlPdy4CDZgxJK9SHa) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Gbzin](https://open.spotify.com/artist/4CVIvdHpdkuoolMGDDiEYV) | [Fofoca](https://open.spotify.com/album/7bR5AJ30nwlZHVfHFq6FEh) | 2:21 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [Café Com Canela](https://open.spotify.com/track/7A2bz2FG1LripYG1e5qh6o) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [ManoWill](https://open.spotify.com/artist/5nWuBeOezTGIWBvssEnXdY), [DJ Rasul](https://open.spotify.com/artist/1ahy7qVDGHr74PPOhoLweA) | [Bem Pra Frente \(Lado B\)](https://open.spotify.com/album/38WVykqGzEuV4OisZMcouh) | 3:07 |
 | 98 | [Medo Nenhum](https://open.spotify.com/track/2thKVaiM85Mvfr6sTSILYK) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [MARÍ ALVES](https://open.spotify.com/artist/3oAHR6SdS1h4zMxE7mk5GP), [Cuper](https://open.spotify.com/artist/5nxSXjNaqM5nInGmULlfpG) | [Medo Nenhum](https://open.spotify.com/album/2bRGvwiSDlyHxnFNEgGdFJ) | 3:26 |
 | 99 | [Desamor](https://open.spotify.com/track/77ylP1AFdw0i0T435Sm20F) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8) | [Desamor](https://open.spotify.com/album/2AATRFcL1HPWlx4P6bT9kr) | 1:58 |
-| 100 | [Pra Isso Que Eu Pago Internet](https://open.spotify.com/track/0yHbWQDlcxXxNTSDGPDdYK) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Ao Vivo Em Goiânia Vol\. 02](https://open.spotify.com/album/5ZYYxErVYC9g0ryjv8NzJx) | 3:07 |
+| 100 | [Pra Isso Que Eu Pago Internet \- Ao Vivo](https://open.spotify.com/track/0yHbWQDlcxXxNTSDGPDdYK) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Ao Vivo Em Goiânia Vol\. 02](https://open.spotify.com/album/5ZYYxErVYC9g0ryjv8NzJx) | 3:07 |
 
 Snapshot ID: `MTY3NDc4ODQ2MCwwMDAwMDAwMGFiZmJjMzBjMDM2ODY0MjI5ZDE3OTY3OGQ5OTljOTcx`

@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: The Xcerts
 
-2,770 songs - 6 day 13 hr 30 min
+2,771 songs - 6 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1897,7 +1897,8 @@
 | [Real Hippies Are Cowboys](https://open.spotify.com/track/1W0jtNJnnjN6rD1aw4dG5T) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Real Hippies Are Cowboys](https://open.spotify.com/album/2kK6AdpSC70GUh1BvTECeH) | 8:01 | 2023-01-06 | 2023-01-14 |
 | [Real Life](https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Real Life](https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x) | 2:44 | 2022-08-26 | 2022-09-02 |
 | [REAL LIFE](https://open.spotify.com/track/3t6NH0KadnwhuFbMcCU3tF) | [Trey Warner](https://open.spotify.com/artist/6ZxcUXGkKYUmET4NzPKxij) | [DOING MY OWN THING](https://open.spotify.com/album/56e0w6ACYXeYkU4JUcWlLi) | 3:34 | 2021-12-16 | 2022-01-07 |
-| [REAL SUPER DARK](https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT) | 2:29 | 2023-01-27 |  |
+| [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-01-27 |  |
+| [REAL SUPER DARK](https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT) | 2:29 | 2023-01-27 | 2023-01-30 |
 | [Reap A Hurricane](https://open.spotify.com/track/6HtG17GT7yVuZiwhcPWPOY) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Reap A Hurricane](https://open.spotify.com/album/3eUtW3WFfthYpb1Amei78r) | 3:15 | 2021-12-16 | 2022-01-07 |
 | [Reasons To Live](https://open.spotify.com/track/3aBrBN6oAOGTLAS8taoNu8) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Reasons To Live](https://open.spotify.com/album/43qFxImtoXuGobNLMKOrbi) | 2:47 | 2022-06-09 | 2022-06-17 |
 | [Reckless Reckless](https://open.spotify.com/track/38nKx2qqbuyVzNhLO0xp9G) | [Anyway Gang](https://open.spotify.com/artist/2CJSKzMdOlJ6FaffywHeHr) | [Reckless Reckless](https://open.spotify.com/album/5czDSXLq00A1PZpLxi6Qrd) | 3:27 | 2022-04-14 | 2022-04-22 |

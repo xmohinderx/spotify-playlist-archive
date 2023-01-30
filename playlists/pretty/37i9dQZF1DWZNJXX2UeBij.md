@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZNJXX2UeBij.md) - [plain]
 
 > Best of 2000s from Bollywood\. Cover \- Jab We Met
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,783 likes - 100 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,345 likes - 100 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

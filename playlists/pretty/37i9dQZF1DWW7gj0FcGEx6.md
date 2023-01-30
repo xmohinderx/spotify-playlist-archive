@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,211 likes - 142 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,322 likes - 142 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 22 | [Apocalypse Practice](https://open.spotify.com/track/2yARGNWP8dOCy8o97gOVgo) | [Thomas Ross Fitzsimons](https://open.spotify.com/artist/3liXOuxMR0lrIm32VTlnXa) | [Everyone Else Burns \(Music from the Original Series\)](https://open.spotify.com/album/3cvR4FwpofoU5Bl73DfxXQ) | 2:22 |
 | 23 | [The Witching Hour \- from "Anne Rice's Mayfair Witches" Soundtrack](https://open.spotify.com/track/3VXY6oTdl3y8fhA2EiFI38) | [Will Bates](https://open.spotify.com/artist/15EWKxh9CT6XDgMsbtSPqN), [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [The Witching Hour \(from "Anne Rice's Mayfair Witches" Soundtrack\)](https://open.spotify.com/album/4AdLZyToPSwXxQRR3vJc5N) | 3:03 |
 | 24 | [The Story of the First Witcher](https://open.spotify.com/track/27IauLSoyh3hseoltgWrRP) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 3:41 |
-| 25 | [1923 Opus \(from "1923" Original Series Soundtrack, Season 1, Vol\. 1\)](https://open.spotify.com/track/6s2P2eVtO19XxuyWbPzDDH) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [1923 Opus \(from "1923" Original Series Soundtrack, Season 1, Vol\. 1\)](https://open.spotify.com/album/0f0ohvltggTLzAHOYV955K) | 4:43 |
+| 25 | [1923 Opus](https://open.spotify.com/track/6s2P2eVtO19XxuyWbPzDDH) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [1923 Opus](https://open.spotify.com/album/0f0ohvltggTLzAHOYV955K) | 4:43 |
 | 26 | [Doing Nothing With Friends](https://open.spotify.com/track/7aik1FI7t1PUka7u6zwDEh) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [The Boy, the Mole, the Fox and the Horse \(Official Short Film Soundtrack\)](https://open.spotify.com/album/3DAsjqarjzBKn8JYxrlVtq) | 2:42 |
 | 27 | [A Mother's Touch \- From ”A Mother's Touch" Soundtrack](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(From ”A Mother's Touch" Soundtrack\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 |
 | 28 | [Overture](https://open.spotify.com/track/3yFOslxT9EZHLaoZ9YKXoA) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni), [Caitlin Sullivan](https://open.spotify.com/artist/2yKRNZMmVZvvGf60cxTxqa) | [She Said \(Original Motion Picture Score\)](https://open.spotify.com/album/3UAjGfniReEmKuZjDQHnFN) | 2:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Kai Buizon, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,595 likes - 92 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,604 likes - 92 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 2 | [Skeletons](https://open.spotify.com/track/5ufdAHsiJ9A4ypntKVhWnU) | [The Queens](https://open.spotify.com/artist/1QX8vYXPBUyaYRCvA1qKYV) | [Skeletons](https://open.spotify.com/album/1tY7sEV8ygBwdrE9HChje4) | 4:10 |
 | 3 | [Dahan\-Dahan](https://open.spotify.com/track/1qw0Gi0c5UKqVRjNj3121i) | [Mizael](https://open.spotify.com/artist/2QkiE8Wi27b66Q36nXVvrl) | [Dahan\-Dahan](https://open.spotify.com/album/0XDqey9KHBKrnrP5ziVXPh) | 3:51 |
 | 4 | [Ako Naman](https://open.spotify.com/track/4L6YbLtrmQDPL5trE46Y3K) | [Eich Abando](https://open.spotify.com/artist/4P0t8vaBaxjgv6i6bmI3hR) | [Ako Naman](https://open.spotify.com/album/0OAwX0xp3USQa26ZInDMiF) | 4:40 |
-| 5 | [Endless Lullaby](https://open.spotify.com/track/6AE0K1CdD9WJCfmlX2ddOa) | [SSUNN](https://open.spotify.com/artist/1GkXuyf7W9WnQhHuBov71K) | [Endless Lullaby](https://open.spotify.com/album/45TeLkHuVP0LNvvcnXCLaF) | 4:56 |
+| 5 | [Endless Lullaby](https://open.spotify.com/track/6AE0K1CdD9WJCfmlX2ddOa) | [SSUNN](https://open.spotify.com/artist/6YenXkx2puyYd7sBJtYiiN) | [Endless Lullaby](https://open.spotify.com/album/45TeLkHuVP0LNvvcnXCLaF) | 4:56 |
 | 6 | [The Sun Is In Our Eyes](https://open.spotify.com/track/0htL9fhtoeL1XMFi3mnSTm) | [UJU](https://open.spotify.com/artist/2rc8Sz5mhQYrNg9xkoYlMI) | [The Sun Is In Our Eyes](https://open.spotify.com/album/62KE5bmBpoqYtkLQYMkFJh) | 6:47 |
 | 7 | [Musika Ng Buhay Ko](https://open.spotify.com/track/1TkZopiuipMTYBvbBQt4kM) | [Kobe Silvestre](https://open.spotify.com/artist/2iky61v2fEDuLWXKcuyMqX) | [Musika Ng Buhay Ko](https://open.spotify.com/album/4JrD7gAZCobItGYM7Su1Mj) | 2:47 |
 | 8 | [Hiwaga](https://open.spotify.com/track/0rx4HeXRKtxLicgljIFkv3) | [CARLO](https://open.spotify.com/artist/35UTd8xGxIwWnJVfg3n3OY) | [Hiwaga](https://open.spotify.com/album/1hcs5HpI4H57cTBSTKWPnp) | 3:46 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 15 | [Pagdududa](https://open.spotify.com/track/3SubhB3rBDLT3B3RSqPtrx) | [LEILA](https://open.spotify.com/artist/3PuI7h8Gfqdn9YyicCb10v) | [Pagdududa](https://open.spotify.com/album/6sYspOIompcaSVViclOWHk) | 4:55 |
 | 16 | [You](https://open.spotify.com/track/4bo2lCA1iUYVEo8lY3hUk7) | [La Crema](https://open.spotify.com/artist/14rN9CCEd6amLJxcnRpnph) | [You](https://open.spotify.com/album/75xlBb4PuFaIALFZ3xIlNK) | 2:29 |
 | 17 | [Di Ko Kaya](https://open.spotify.com/track/7gksJKtNjsAEuUvy0LikCw) | [VIVA AIRPORT](https://open.spotify.com/artist/5D5D96KzUnlgKzaYPqDIn0) | [Di Ko Kaya](https://open.spotify.com/album/3wxQ7mC6YhIrA5wrOMrK2m) | 3:25 |
-| 18 | [Sa Mga Bituin Na Lang Kaya Ibubulong](https://open.spotify.com/track/4tilch5mBaQxzeykOaq3ra) | [Carlo Bautista](https://open.spotify.com/artist/3SwnBBc7T2hYRPnPGUDmh9) | [Sa Mga Bituin Na Lang Kaya Ibubulong](https://open.spotify.com/album/4wviywxetjc2EbLovm1DB1) | 3:37 |
+| 18 | [Sa Mga Bituin Na Lang Ibubulong](https://open.spotify.com/track/4tilch5mBaQxzeykOaq3ra) | [Carlo Bautista](https://open.spotify.com/artist/3SwnBBc7T2hYRPnPGUDmh9) | [Sa Mga Bituin Na Lang Ibubulong](https://open.spotify.com/album/4wviywxetjc2EbLovm1DB1) | 3:37 |
 | 19 | [Pwede Bang Ako Na Lang Ulit](https://open.spotify.com/track/5C0qiTrshrTIX39Mghx0qP) | [Jeff Cifra](https://open.spotify.com/artist/1rDZsKJMNkRas9AZRQqwws) | [Pwede Bang Ako Na Lang Ulit](https://open.spotify.com/album/4z7xaGq9T4CcKOFYLpENsH) | 4:14 |
 | 20 | [Ayoko Na](https://open.spotify.com/track/3VEfrWoKPXmFZBhr22jd9V) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [Ayoko Na](https://open.spotify.com/album/1ys9OnR7NP9E17fLk5cdrT) | 2:53 |
 | 21 | [Dekada](https://open.spotify.com/track/5riQUYoIZ5jDXZD0kqN66W) | [Justin Taller](https://open.spotify.com/artist/6EWxRnepcr37PGDIara8gI) | [Dekada](https://open.spotify.com/album/1G3JgZMBSqp2mUtfIp8eEr) | 3:40 |

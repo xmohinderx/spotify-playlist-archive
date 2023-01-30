@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. Cover: Yachty
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,343 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,277 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 59 | [Bonita Applebum \(Soul House Mix\) \- Instrumental](https://open.spotify.com/track/06yWCOqQiq5pSiu1XzbEqW) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Bonita Applebum \(Soul House Mix\) \[Instrumental\]](https://open.spotify.com/album/4y65Ovy6O9jqSYiwWVfaID) | 6:05 |
 | 60 | [Contact](https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR) | 4:00 |
 | 61 | [Just Say \- DJ Sliink Remix](https://open.spotify.com/track/0E0tSPI5JZz8Aq1y1DbFEQ) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Just Say \(DJ Sliink Remix\)](https://open.spotify.com/album/15YPQEfHQwtk8rcgSDPtBY) | 2:12 |
-| 62 | [23](https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [23](https://open.spotify.com/album/5eo1sGPwe7pPucD3DjOyzf) | 4:21 |
+| 62 | [23](https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [23](https://open.spotify.com/album/5eo1sGPwe7pPucD3DjOyzf) | 4:20 |
 | 63 | [KILLERS AND ROBBERS \(feat\. Denzel Curry, midwxst & Matt Ox\)](https://open.spotify.com/track/2XXFajkaWMZ2ukPNPKgLWa) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Matt Ox](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [KILLERS AND ROBBERS \(feat\. Denzel Curry, midwxst & Matt Ox\)](https://open.spotify.com/album/7lmOXBynobuVCEBgVwPEOC) | 3:19 |
 | 64 | [Dont Call Me Twin](https://open.spotify.com/track/3aJ4eDlQwc26G5oDg8rCW5) | [ICYTWAT](https://open.spotify.com/artist/6bVRNVg2f91pCAyKnrIOW0) | [G4ost 2](https://open.spotify.com/album/7xg2hqZuqwItr8hDEg8Avn) | 1:58 |
 | 65 | [Cold Blooded](https://open.spotify.com/track/3OJmAaZBCRsasvpMF5YsNQ) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF) | [Cold Blooded](https://open.spotify.com/album/6bd4nXPU8fu4yru1OW7qWW) | 2:19 |

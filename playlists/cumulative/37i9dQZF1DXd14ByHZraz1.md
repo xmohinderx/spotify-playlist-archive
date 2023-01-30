@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
 
-113 songs - 5 hr 47 min
+115 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Come With Me](https://open.spotify.com/track/2Ho4XR2Hmtf3y9lNO5w04b) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Come With Me](https://open.spotify.com/album/290BpL6mrDRNMUCEACrPeC) | 2:08 | 2022-01-21 | 2022-10-08 |
 | [Commotion](https://open.spotify.com/track/2qf9Ad1hgLF5oM9SdMJdDU) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maxi Jazz](https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq) | [Commotion](https://open.spotify.com/album/5ohHaX4VvILtG1nOLh76uj) | 3:35 | 2022-04-08 | 2022-11-26 |
 | [Contente](https://open.spotify.com/track/7bCtMzxN2weUNWgVRi3wcm) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Gangbang](https://open.spotify.com/artist/4xAlQ5oAnU0WpbN23f9Dkz) | [Contente](https://open.spotify.com/album/363uLSNZ5QMFDmGRKDgfek) | 3:03 | 2023-01-20 |  |
-| [DANCE](https://open.spotify.com/track/5GCM43WZSWNxVh7JD6XN6b) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [DANCE](https://open.spotify.com/album/4T3lheq92o9cUCB7bnNQ6Q) | 2:28 | 2021-12-24 |  |
+| [Dance](https://open.spotify.com/track/2MsjElxTVXkpt1w5ujRxvC) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Dance](https://open.spotify.com/album/3MTZEOI0xmQtguhQ0y4AiU) | 2:28 | 2023-01-27 |  |
+| [DANCE](https://open.spotify.com/track/5GCM43WZSWNxVh7JD6XN6b) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [DANCE](https://open.spotify.com/album/4T3lheq92o9cUCB7bnNQ6Q) | 2:28 | 2021-12-24 | 2023-01-30 |
 | [Dancing](https://open.spotify.com/track/1JyQVDd48BprQrdEOpmodT) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Dubdisko](https://open.spotify.com/artist/6DL4EekcvzJIDIOOQQbe3Z) | [Dancing](https://open.spotify.com/album/10racGxkbniYEwyKcajmba) | 2:42 | 2022-09-09 | 2023-01-21 |
 | [Delusional](https://open.spotify.com/track/1thWqWBc3uujDYspY1XxcL) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Rhōden](https://open.spotify.com/artist/0tMqOIq4kYn7jXmzL1fRss), [Lauren Nicole](https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX) | [Delusional](https://open.spotify.com/album/2JpeFmcaX5PZKTpDQ3Yvjb) | 3:23 | 2021-12-24 | 2022-12-03 |
 | [Desande](https://open.spotify.com/track/0Vch9aVnZkKXOYQfrvfFx3) | [Gabzy](https://open.spotify.com/artist/0CB9F6M0fhV0xiSzkNHnvB), [Carlos Colleen](https://open.spotify.com/artist/6lunp2L5KJDCGpSt8Gvpx8) | [Desande](https://open.spotify.com/album/4NhkoRKK62JrNS0eznTYkU) | 3:42 | 2021-12-24 | 2022-11-12 |
@@ -96,7 +97,8 @@
 | [Run Into Trouble](https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Run Into Trouble](https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP) | 3:02 | 2022-04-01 | 2022-06-28 |
 | [Running](https://open.spotify.com/track/5K59VdBAhtTYIxBlne1WT2) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Francesca Sardi](https://open.spotify.com/artist/1qI2ett9td7YVX6C1eiq1Z) | [Running](https://open.spotify.com/album/5JMbsiPcxRBVNztGimHvyw) | 2:39 | 2023-01-20 |  |
 | [Same Man](https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Same Man](https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s) | 2:32 | 2022-11-11 |  |
-| [See The Ocean](https://open.spotify.com/track/17zIFu7KK3q3uUBG4vsY3r) | [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [See The Ocean](https://open.spotify.com/album/6wOQT6BrVoz8hWsXEPL64g) | 3:38 | 2021-12-24 |  |
+| [See The Ocean](https://open.spotify.com/track/17zIFu7KK3q3uUBG4vsY3r) | [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [See The Ocean](https://open.spotify.com/album/6wOQT6BrVoz8hWsXEPL64g) | 3:38 | 2021-12-24 | 2023-01-30 |
+| [See The Ocean](https://open.spotify.com/track/3JiRANCLmSct1c4cIQh2Zy) | [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [See The Ocean](https://open.spotify.com/album/17lqoGR3K7XDQsayNTrAAw) | 3:38 | 2023-01-27 |  |
 | [Sicko Drop](https://open.spotify.com/track/5OJbBrGPY4scEGwMysuyLb) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/19WhhSvX9yW51l5R2yrJmS) | 2:27 | 2021-12-24 | 2022-07-29 |
 | [Sicko Drop](https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE) | 2:27 | 2022-07-08 |  |
 | [Sleepwalking \(feat\. The Chain Gang of 1974\)](https://open.spotify.com/track/5jnfFrLjhMrB3O2lh4jamJ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [GHOSTT](https://open.spotify.com/artist/2beRTIJ89kb6a011vFqGuk), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Sleepwalking \(feat\. The Chain Gang of 1974\)](https://open.spotify.com/album/0u5cnlfY2VDHNC7cY4hr6u) | 2:39 | 2022-12-02 |  |

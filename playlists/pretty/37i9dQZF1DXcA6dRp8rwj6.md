@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Rich Brian\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,281 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,309 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 18 | [Candemic Remix](https://open.spotify.com/track/6GKDisdWYI2TbK18F4zC11) | [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [Candemic](https://open.spotify.com/album/4GQb6nFHvyKBcr4FEFhqEl) | 3:01 |
 | 19 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 |
 | 20 | [Great Is He](https://open.spotify.com/track/7baxiYAhAx9MHum5NhtOML) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He](https://open.spotify.com/album/0F2g2Lr7ejLUJkLKToHRSf) | 3:21 |
-| 21 | [23](https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [23](https://open.spotify.com/album/5eo1sGPwe7pPucD3DjOyzf) | 4:21 |
+| 21 | [23](https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [23](https://open.spotify.com/album/5eo1sGPwe7pPucD3DjOyzf) | 4:20 |
 | 22 | [Ask \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/4hMugsbwjPBoyYwCIsqnoD) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ask \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2gMtZrMgZ3SIDETUbApfwj) | 2:36 |
 | 23 | [Detty](https://open.spotify.com/track/4Ait68EQ4BdYBDhwNxUuJJ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Detty](https://open.spotify.com/album/3EiTw7yDAgcyrmi8QY10NT) | 1:36 |
 | 24 | [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/track/1RjTor3VLx8OIfFtzXHJQ6) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Dat Way \(feat\. Abra Cadabra\)](https://open.spotify.com/album/6s6t2HM03fSSmxpv2JBLQm) | 4:08 |

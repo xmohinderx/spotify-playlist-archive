@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > IF YOU SEE US IN THE CLUB WE'LL BE ACTING REAL NICE!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,839 likes - 603 songs - 1 day 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,281 likes - 603 songs - 1 day 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

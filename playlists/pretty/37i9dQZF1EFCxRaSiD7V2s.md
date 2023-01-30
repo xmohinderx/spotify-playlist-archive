@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408 likes - 248 songs - 12 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 407 likes - 248 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 54 | [Sleep Machine](https://open.spotify.com/track/6V9muGP1cihb3S7IMePQYc) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [An Unwavering Band of Light](https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N) | 4:32 |
 | 55 | [Start + Stop](https://open.spotify.com/track/5ozWJgj7c1kfRUbox5yI8h) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 2:59 |
 | 56 | [Secrets](https://open.spotify.com/track/2yCmXmtL8dwzn5R1ULHWDP) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 3:05 |
-| 57 | [Coyote](https://open.spotify.com/track/7Cvt76QFV6pqSuDw1e1iKO) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 3:14 |
-| 58 | [TE TE TE](https://open.spotify.com/track/3X7EnBcbQhAjzZdTmVvGiO) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [TE TE TE](https://open.spotify.com/album/1o5jiQoMJZdY2kUDqGYBIg) | 2:56 |
+| 57 | [TE TE TE](https://open.spotify.com/track/3X7EnBcbQhAjzZdTmVvGiO) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3) | [TE TE TE](https://open.spotify.com/album/1o5jiQoMJZdY2kUDqGYBIg) | 2:56 |
+| 58 | [Coyote](https://open.spotify.com/track/7Cvt76QFV6pqSuDw1e1iKO) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 3:14 |
 | 59 | [Baby Let's Pretend](https://open.spotify.com/track/5hu33JrzI9xBnjNwoGCV0o) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/4ij4VMWlPhY62tfGIjeqEZ) | 2:31 |
 | 60 | [Two By Two](https://open.spotify.com/track/6TW8uIeb9paXpqNUrIrlUJ) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [An Unwavering Band of Light](https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N) | 4:02 |
 | 61 | [Living Room](https://open.spotify.com/track/1bybP9hRFNSewsw6lDc1J6) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:39 |
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 247 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 248 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `Mjc5MTU4NDcsMDAwMDAwMDAzMDJhZjkxMzZkMjllMTVlZmFmOGZmNTdhMDYxYjFmMQ==`
+Snapshot ID: `Mjc5MTcyODcsMDAwMDAwMDBlZjg2N2FiMmFlMTVjNzA0M2MyNWU2Njg4MWJkZmU3OQ==`

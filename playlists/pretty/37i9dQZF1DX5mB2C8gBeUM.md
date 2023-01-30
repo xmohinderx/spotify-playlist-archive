@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Elle King
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,470 likes - 145 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,673 likes - 145 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

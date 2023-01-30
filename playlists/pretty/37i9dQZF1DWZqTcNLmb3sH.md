@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Vedha
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,020 likes - 154 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,055 likes - 154 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

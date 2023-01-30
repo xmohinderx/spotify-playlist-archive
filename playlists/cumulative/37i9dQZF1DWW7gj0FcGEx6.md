@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1923 Opus \(from "1923" Original Series Soundtrack, Season 1, Vol\. 1\)](https://open.spotify.com/track/6s2P2eVtO19XxuyWbPzDDH) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [1923 Opus \(from "1923" Original Series Soundtrack, Season 1, Vol\. 1\)](https://open.spotify.com/album/0f0ohvltggTLzAHOYV955K) | 4:43 | 2022-12-16 |  |
+| [1923 Opus](https://open.spotify.com/track/6s2P2eVtO19XxuyWbPzDDH) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [1923 Opus](https://open.spotify.com/album/0f0ohvltggTLzAHOYV955K) | 4:43 | 2022-12-16 |  |
 | [25 Years](https://open.spotify.com/track/3sc30oDHL0cYWBpt1FHVT7) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/6hWmVhmirxDxlfZAmtOZah) | 2:17 | 2022-07-22 |  |
 | [25 Years](https://open.spotify.com/track/277WR3fUAz1T1QNkede17l) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/2OJB0s2qrMpoKFNGFIunHi) | 2:17 | 2021-12-20 | 2022-07-29 |
 | [A Mother's Touch \- From ”A Mother's Touch" Soundtrack](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(From ”A Mother's Touch" Soundtrack\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 | 2022-10-28 |  |

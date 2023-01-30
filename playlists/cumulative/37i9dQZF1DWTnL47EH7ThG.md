@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-299 songs - 17 hr 23 min
+300 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [All I Can Say](https://open.spotify.com/track/7FSaklAKEXjV6HCoOhFDYR) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [AT LEAST WE HAVE THIS](https://open.spotify.com/album/6nnAy3W80YnGUj7t2wf2tr) | 2:53 | 2022-04-26 |  |
 | [All That I Could](https://open.spotify.com/track/6Ymd7xQpGrQOv09ZUKvLMW) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1) | [All That I Could](https://open.spotify.com/album/5NTWgZxWkaEEJLxrKw8PuQ) | 3:46 | 2022-02-04 | 2022-10-28 |
 | [Allude](https://open.spotify.com/track/2z6a3MLNATHbLvlRNjDksC) | [Amy Dabbs](https://open.spotify.com/artist/7MZwR2R0H1VofTGWMziqHl), [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Allude](https://open.spotify.com/album/1PexHvyN3m7qT0WkK9jWKH) | 6:42 | 2022-04-26 | 2022-10-28 |
-| [always](https://open.spotify.com/track/3kO5SqEje4LhVZeD7XWNvr) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [always/the speed of sound!](https://open.spotify.com/album/06DWAGemrz6oW1iWwSPEfl) | 5:23 | 2022-12-05 |  |
+| [always](https://open.spotify.com/track/3kO5SqEje4LhVZeD7XWNvr) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [always/the speed of sound!](https://open.spotify.com/album/06DWAGemrz6oW1iWwSPEfl) | 5:23 | 2022-12-05 | 2023-01-30 |
+| [always](https://open.spotify.com/track/4RONULNyJgZsR38ezArUln) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [portrait of a dog](https://open.spotify.com/album/34Z5pstOPGcmehDwYoiP2O) | 5:23 | 2022-12-05 |  |
 | [Ancestors Dance \- Zutzut Remix](https://open.spotify.com/track/0g6TdWMHqcjRLUeKBSUlvG) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [NoKliché](https://open.spotify.com/artist/4LqcQvo6HhY2bRVYF3RBih), [Maître Magellan](https://open.spotify.com/artist/27SKAPkB3TniKkC2kQx1L2), [Zutzut](https://open.spotify.com/artist/0UGj9ZE04f5PZoP0ukud33) | [SMS for Location, Vol\. 4](https://open.spotify.com/album/6wTdl91po1VgHgLsFa6YJk) | 3:57 | 2022-02-04 | 2022-10-28 |
 | [Another Like This](https://open.spotify.com/track/5Jbpp2xup12QN4Fv7RnNVv) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Global Sounds](https://open.spotify.com/album/3EBbMiMD7MWeZxuptpKK2Z) | 4:17 | 2022-07-18 |  |
 | [Anyway \(Do It\)](https://open.spotify.com/track/4BtAFzskuvc9gZA8QFBGZT) | [Fiyahdred](https://open.spotify.com/artist/7vnMCITEraBjFO5HbgFm0F) | [Anyway \(Do It\)](https://open.spotify.com/album/6pOoCgzC9c0YfxWp88TTDl) | 4:26 | 2022-02-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Every song with over 1 billion streams on Spotify\. Cover: Silk Sonic
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,576 likes - 357 songs - 21 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,432 likes - 357 songs - 21 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

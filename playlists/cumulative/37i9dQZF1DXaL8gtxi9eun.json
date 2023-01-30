@@ -777,24 +777,6 @@
     },
     {
       "album": {
-        "name": "Shayfa Feek",
-        "url": "https://open.spotify.com/album/6ylllDswM090TsaEqRXsci"
-      },
-      "artists": [
-        {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        }
-      ],
-      "date_added": "2023-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201715,
-      "name": "Ghalban",
-      "url": "https://open.spotify.com/track/0dRTAnQLjml9xfFKQDCGfQ"
-    },
-    {
-      "album": {
         "name": "Habaytak Bel Thalata",
         "url": "https://open.spotify.com/album/3nUZWXDVZ9kXlK3FUfU5k5"
       },
@@ -2152,6 +2134,24 @@
       "duration_ms": 267652,
       "name": "\u0639\u0634\u0627\u0646 \u0627\u0631\u0636\u064a\u0643",
       "url": "https://open.spotify.com/track/6XVMwb57cf90rjTPaWqd94"
+    },
+    {
+      "album": {
+        "name": "\u0634\u0627\u064a\u0641\u0647 \u0641\u064a\u0643",
+        "url": "https://open.spotify.com/album/6ylllDswM090TsaEqRXsci"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201715,
+      "name": "\u063a\u0644\u0628\u0627\u0646",
+      "url": "https://open.spotify.com/track/0dRTAnQLjml9xfFKQDCGfQ"
     },
     {
       "album": {

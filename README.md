@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5488\)
+## Playlists \(5489\)
 
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
 - [\#GRWM Telugu](/playlists/pretty/37i9dQZF1DX442zFw7L5ce.md)
@@ -2294,6 +2294,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Keg Stand](/playlists/pretty/37i9dQZF1DX0VfLbJWWGKr.md)
 - [Keith Power's Taste](/playlists/pretty/37i9dQZF1DXaWQ9H258ygx.md)
 - [Kendrick Lamar](/playlists/pretty/4lwqQxljF1Rge3X4eMzdza.md)
+- [Keys N Krates DJ Mix](/playlists/pretty/37i9dQZF1DX1AhB1ESkQjZ.md)
 - [Kickass Metal](/playlists/pretty/37i9dQZF1DWTcqUzwhNmKv.md)
 - [Kickflip](/playlists/pretty/37i9dQZF1DX2v91v1834Ky.md)
 - [Kidandali Parte](/playlists/pretty/37i9dQZF1DX0mipv96B1m4.md)

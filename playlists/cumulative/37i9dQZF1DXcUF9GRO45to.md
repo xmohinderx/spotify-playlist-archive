@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-222 songs - 14 hr 10 min
+223 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bones](https://open.spotify.com/track/5WGOH3L6yKhHjXyCjgBYog) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [Bones](https://open.spotify.com/album/4XH9ajEoLAF572D1UseFG3) | 4:33 | 2021-12-15 |  |
 | [Branque](https://open.spotify.com/track/4IFOzzLYdHxwfo3R8IrUhq) | [Bantam Lyons](https://open.spotify.com/artist/0PYUuiy5K17prjVHYVEhia) | [Branque](https://open.spotify.com/album/7zFdts2b5EzbzC104qgc7H) | 4:41 | 2021-12-15 | 2022-07-29 |
 | [Bride](https://open.spotify.com/track/4oFtvipwinqXjVrJpEuYCG) | [Send Me Love Letters](https://open.spotify.com/artist/5RiWMf3FdQCkeAbwZXNcVk) | [Bride](https://open.spotify.com/album/2vxiT1e0xm36rYyn3EwvVj) | 2:58 | 2022-02-24 |  |
+| [Brother](https://open.spotify.com/track/7AorDFAFIecmBhx6ujIhZX) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Factory](https://open.spotify.com/album/7wjxLYyRqGzKjjXiaTs9WH) | 3:18 | 2023-01-29 |  |
 | [Can't Wait](https://open.spotify.com/track/1hhBAsb37DIoVQAgOgjVd1) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Can't Wait](https://open.spotify.com/album/6i5SB6LiZyHouxLdnqTJmT) | 3:34 | 2023-01-26 |  |
 | [Can't Wait to Be Fine](https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Can't Wait to Be Fine](https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD) | 5:58 | 2021-12-15 |  |
 | [Chevalier Bulltoe](https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww) | [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Home Alone](https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U) | 3:32 | 2021-12-31 |  |
@@ -90,7 +91,7 @@
 | [Gung Ho](https://open.spotify.com/track/2poNoMk0YyxePxeJidM4Jf) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [The Evol'](https://open.spotify.com/album/7nF02J94or6lPZirx6MxE4) | 5:06 | 2022-04-17 |  |
 | [Half Hearted Smile](https://open.spotify.com/track/3b4dVyCb3B5oI0MqRP2P5z) | [Nevermind The Car](https://open.spotify.com/artist/1SOJpH7pCModrv4SsTQgoa) | [The Iron Whale](https://open.spotify.com/album/4riqRamFeZWiIZbSn5N2Hi) | 4:54 | 2022-04-04 | 2022-07-29 |
 | [Hangover](https://open.spotify.com/track/3DbgF86SyidgINXtIx1qnV) | [Nobody's Cult](https://open.spotify.com/artist/2u9TRDPmCOUfSsP0WTFp7R) | [Mood Disorders](https://open.spotify.com/album/0ckv05nXDPG8LxuvCr0mmt) | 3:21 | 2021-12-15 |  |
-| [Haunted House](https://open.spotify.com/track/1sz7VUOwSA5ccLfU6VbjMn) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Haunted House](https://open.spotify.com/album/4qHnUTZiKs15yYJ8qjIg0W) | 3:24 | 2023-01-26 |  |
+| [Haunted House](https://open.spotify.com/track/1sz7VUOwSA5ccLfU6VbjMn) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Haunted House](https://open.spotify.com/album/4qHnUTZiKs15yYJ8qjIg0W) | 3:24 | 2023-01-26 | 2023-01-30 |
 | [Hello](https://open.spotify.com/track/3UX2rt7dWNVxEGO9LQzkMb) | [I Love My Neighbours](https://open.spotify.com/artist/0OnS3g7UIU366z6CpbhCfz) | [Anthology](https://open.spotify.com/album/37m8Xof3RWkngHVxbfbN8c) | 3:26 | 2021-12-31 | 2022-04-21 |
 | [Here Comes the Sun](https://open.spotify.com/track/6JJxwlsFONGLquIJYdb2U2) | [Blue Orchid](https://open.spotify.com/artist/5dZJijmLhkahYRvLTrkq1j) | [Blue Orchid](https://open.spotify.com/album/0cHEMaf7pPhVVGv6fZX9VB) | 5:14 | 2021-12-15 | 2022-07-28 |
 | [High Pride](https://open.spotify.com/track/6GwKtbgJw0pT0un2mHiT0h) | [The Last Target](https://open.spotify.com/artist/2U34HnOfkQ7yEmbkTeb4V8) | [High Pride](https://open.spotify.com/album/5w6LR3OgeI08ybRXYsYvym) | 6:47 | 2021-12-31 | 2022-07-22 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: The Xcerts
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,484 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,675 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GIMME](https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [GIMME](https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi) | 1:40 |
 | 2 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 |
 | 3 | [Heartbreak Feels So Good](https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Heartbreak Feels So Good](https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS) | 3:37 |
-| 4 | [REAL SUPER DARK](https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT) | 2:29 |
+| 4 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 |
 | 5 | [H8 MY SELF](https://open.spotify.com/track/3o3i8J3phhvFXOaH4wwjbT) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [H8 MY SELF](https://open.spotify.com/album/5m02Ruds7RdGQ4QMWtyxmx) | 2:58 |
 | 6 | [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 |
 | 7 | [Pick a Scab](https://open.spotify.com/track/3dIKBYDShXrZOZSCEmGwcN) | [1990nowhere](https://open.spotify.com/artist/5NURDn6WDlYbCPIwkfdqjG), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Sunflowers in the Basement](https://open.spotify.com/album/2eHdgv3CmAFNo7gH7rgCIL) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Something Real](https://open.spotify.com/track/1QZbd8GGBMrTDjmqY7vvrn) | [Back On Earth](https://open.spotify.com/artist/0O21EWCzkKnl0tLOsg1hms) | [Something Real](https://open.spotify.com/album/2zruSHczKcRIv5iC2wkpr7) | 2:40 |
 | 50 | [Dinner For One](https://open.spotify.com/track/1otdfx71wVb8TXgdkbYa8v) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Dinner For One](https://open.spotify.com/album/5nemInefPKhUqRKMjfzV6R) | 2:23 |
 
-Snapshot ID: `MTY3NDc5OTU0NSwwMDAwMDAwMDYxOTcyNThhM2U5MjdkYzIzNmNkNTFjNGI2YjhiY2Uw`
+Snapshot ID: `MTY3NDc5OTU0NSwwMDAwMDAwMGNkZjRjNGU5ZmI4NDE2ZWVkODAyOGMyZDY0YjI2ZDE2`

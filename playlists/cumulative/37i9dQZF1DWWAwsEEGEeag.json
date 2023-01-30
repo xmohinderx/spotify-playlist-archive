@@ -2001,6 +2001,36 @@
     },
     {
       "album": {
+        "name": "Caba\u00e7a",
+        "url": "https://open.spotify.com/album/68ApApSjhb7e6xo7HP6vam"
+      },
+      "artists": [
+        {
+          "name": "Diogo Ramos",
+          "url": "https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK"
+        },
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        },
+        {
+          "name": "B\u00efa",
+          "url": "https://open.spotify.com/artist/5wd2VuNxYv2rZ3z6qY0Wvx"
+        },
+        {
+          "name": "Boog\u00e1t",
+          "url": "https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200002,
+      "name": "Samba do Boncy",
+      "url": "https://open.spotify.com/track/6sxJsk7k16T8EEv2VZpKuX"
+    },
+    {
+      "album": {
         "name": "Samba do Boncy",
         "url": "https://open.spotify.com/album/2eAOTb6xgbkI5ENfuRiYKg"
       },
@@ -2024,7 +2054,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 204692,
       "name": "Samba do Boncy",
       "url": "https://open.spotify.com/track/5kHlvrvbP8aiLvijTSYN0y"

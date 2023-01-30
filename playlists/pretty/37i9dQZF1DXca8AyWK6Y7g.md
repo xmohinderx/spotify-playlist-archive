@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > in Paris we wear pink! 🗼🥐🇫🇷🥖 Cover: Dove Cameron & Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,451,839 likes - 139 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,452,149 likes - 139 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

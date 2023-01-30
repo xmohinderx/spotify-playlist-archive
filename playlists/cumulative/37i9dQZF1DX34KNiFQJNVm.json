@@ -42797,6 +42797,32 @@
     },
     {
       "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229604,
+      "name": "I'm Not Here To Make Friends",
+      "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
+    },
+    {
+      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/3ykLyEefADNKzAcbtMlwWm"
       },
@@ -45000,32 +45026,6 @@
       "duration_ms": 187793,
       "name": "I\u2019m a Mess (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
-    },
-    {
-      "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "date_added": "2023-01-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 229604,
-      "name": "I\u2019m Not Here To Make Friends (feat. Calvin Harris & Jessie Reyez)",
-      "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
     },
     {
       "album": {
@@ -73108,7 +73108,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187098,
-      "name": "Pra Isso Que Eu Pago Internet",
+      "name": "Pra Isso Que Eu Pago Internet - Ao Vivo",
       "url": "https://open.spotify.com/track/0yHbWQDlcxXxNTSDGPDdYK"
     },
     {
@@ -87475,7 +87475,7 @@
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 189170,
+      "duration_ms": 189153,
       "name": "Sucka Or Sum",
       "url": "https://open.spotify.com/track/4vIBtcC2KzJY4Va98bvI8P"
     },

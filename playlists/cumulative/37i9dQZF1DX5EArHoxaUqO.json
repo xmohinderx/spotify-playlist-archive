@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "French Riviera",
+        "url": "https://open.spotify.com/album/1zGjmNUUwgqkHDDKdQxunV"
+      },
+      "artists": [
+        {
+          "name": "Rino de Filippi",
+          "url": "https://open.spotify.com/artist/6chjBsgCUvgk03POtYqekx"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215747,
+      "name": "Iconoteca",
+      "url": "https://open.spotify.com/track/05nLdp35XZU72bD5fRQMmn"
+    },
+    {
+      "album": {
         "name": "French Riviera (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1JfyQdgonnrK4t6qPYpctt"
       },
@@ -350,7 +368,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 215747,
       "name": "Iconoteca",
       "url": "https://open.spotify.com/track/5bodSQgtwaw2Gb6l6qvdxz"

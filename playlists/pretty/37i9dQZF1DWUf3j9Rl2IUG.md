@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: <a href="https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL?si=Kjv\_xGURSI\-2k9nd0aLBsg"> L.A.X </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,537 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,600 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

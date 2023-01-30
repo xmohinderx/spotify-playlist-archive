@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: The JuJu Exchange
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,983 likes - 52 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,007 likes - 52 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 10 | [Sagitario](https://open.spotify.com/track/5VfXnShYlySzT3XezkvwZM) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Sagitario](https://open.spotify.com/album/1YuxPKVxPa6nFrnTiGg9m1) | 2:23 |
 | 11 | [Heartstrings](https://open.spotify.com/track/3cJWrW8nLx1bq1CGKF2QTC) | [Vooo](https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF) | [Heartstrings](https://open.spotify.com/album/5UYFLZHT30xbqPup8ypkTD) | 2:19 |
 | 12 | [Mellow D](https://open.spotify.com/track/4cyKMZoxryulVelRY8Fj4G) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Mellow D](https://open.spotify.com/album/68X7GSqcU0rRDF737X94w5) | 3:56 |
-| 13 | [Slow Change](https://open.spotify.com/track/4RKHutMhMhCgqC9HeP2pZ0) | [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Jon Cowherd](https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE), [Myron Walden](https://open.spotify.com/artist/5wTziSHywk2CtCL463tSNR), [Monte Croft](https://open.spotify.com/artist/2lJS048alI10juGK1Z9J49), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq), [Rogerio Boccato](https://open.spotify.com/artist/4o7gEQWwzhUvcepiz3klAe), [John Hart](https://open.spotify.com/artist/3ndHyLdOcwpsVn1FCxIrLV) | [Slow Change](https://open.spotify.com/album/1IcqX9UmiHqNNH9wH5w6Zk) | 7:39 |
+| 13 | [Slow Change](https://open.spotify.com/track/4RKHutMhMhCgqC9HeP2pZ0) | [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Jon Cowherd](https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE), [Myron Walden](https://open.spotify.com/artist/5wTziSHywk2CtCL463tSNR), [Monte Croft](https://open.spotify.com/artist/2lJS048alI10juGK1Z9J49), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq), [Rogério Boccato](https://open.spotify.com/artist/4yknTJEHIckjyEZPZLTKeJ), [John Hart](https://open.spotify.com/artist/3ndHyLdOcwpsVn1FCxIrLV) | [Slow Change](https://open.spotify.com/album/1IcqX9UmiHqNNH9wH5w6Zk) | 7:39 |
 | 14 | [Fecundity](https://open.spotify.com/track/1uG1tu4nUwjtW4xqpXcqdL) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [JazzRx: Hope Dose](https://open.spotify.com/album/0zSAqMwol0Zb2aaJcWPzOE) | 2:45 |
 | 15 | [Calico](https://open.spotify.com/track/1xrXqMHCgNapFObckXUYXP) | [Phil Keaggy](https://open.spotify.com/artist/1bAzlT6fMBcvCfwgh4S3Xl), [Byron House](https://open.spotify.com/artist/6lSbVfPSL0Pa9z1fQfTwfE), [Kyle Jones](https://open.spotify.com/artist/7AUc27dMiFIk09Ud7Bfwwd) | [Catz N' Jammuz](https://open.spotify.com/album/1Zs87TbYwL84wWk9fQXZ2X) | 5:16 |
 | 16 | [Deep Dive](https://open.spotify.com/track/0ulFT8dHhD1OSkz6dthZy6) | [Nils Wülker](https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o), [Arne Jansen](https://open.spotify.com/artist/30G7JgBu7T2muH32aXMNzG) | [Deep Dive](https://open.spotify.com/album/7GgmzI8gAUmj5Jv3ZWoZVp) | 3:48 |

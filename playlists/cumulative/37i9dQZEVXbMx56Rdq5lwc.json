@@ -482,7 +482,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 195758,
       "name": "Ap\u017eavai",
       "url": "https://open.spotify.com/track/12X9GMNhoP6tSj5ai0Kujw"
@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -7386,7 +7386,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 169729,
       "name": "Iki Au\u0161ros",
       "url": "https://open.spotify.com/track/4iClTrpYr3WSwOJCITKXGN"
@@ -7768,7 +7768,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 229604,
       "name": "I\u2019m Not Here To Make Friends (feat. Calvin Harris & Jessie Reyez)",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
@@ -8478,6 +8478,24 @@
       "duration_ms": 179782,
       "name": "Kunigunda",
       "url": "https://open.spotify.com/track/4y8aCoEUWXCHAgKo0cDcNy"
+    },
+    {
+      "album": {
+        "name": "Ap\u017eavai",
+        "url": "https://open.spotify.com/album/5q4RJ00dwxSEh7tM3XrRy0"
+      },
+      "artists": [
+        {
+          "name": "Vaidas Baumila",
+          "url": "https://open.spotify.com/artist/7AczdBjiNUjo4pxVVucvw1"
+        }
+      ],
+      "date_added": "2023-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182070,
+      "name": "Kunigunda",
+      "url": "https://open.spotify.com/track/4Kt624sTGjRZ3hFBvlQaWC"
     },
     {
       "album": {
@@ -12688,7 +12706,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 179258,
       "name": "Paskutiniai \u017eod\u017eiai",
       "url": "https://open.spotify.com/track/5wTmtwe9fF8F8HmA5q2A5m"
@@ -12768,7 +12786,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 179049,
       "name": "PA\u017dADAI",
       "url": "https://open.spotify.com/track/6KOhOLjSsbv3bggefGCLLm"
@@ -13050,7 +13068,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 156093,
       "name": "PINIGAI",
       "url": "https://open.spotify.com/track/5QiBpME5iV2DdLHggosCta"
@@ -16428,7 +16446,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
@@ -18367,6 +18385,24 @@
     },
     {
       "album": {
+        "name": "Vakar Vakare",
+        "url": "https://open.spotify.com/album/4xI4dIYSIlm89zA09Dlkpa"
+      },
+      "artists": [
+        {
+          "name": "Rokas Yan",
+          "url": "https://open.spotify.com/artist/45gxkYJJ7Od6URk57yexCs"
+        }
+      ],
+      "date_added": "2023-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147190,
+      "name": "Vakar Vakare",
+      "url": "https://open.spotify.com/track/51IryH1WKRsubEPLdEIqJl"
+    },
+    {
+      "album": {
         "name": "Valero",
         "url": "https://open.spotify.com/album/2Di0j1PKroPnEGJsnAZrjM"
       },
@@ -19914,7 +19950,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 184421,
       "name": "\u017diburiai",
       "url": "https://open.spotify.com/track/21QCQXnmSTApn8Tu9a2HO5"

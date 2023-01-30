@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,782 likes - 162 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,798 likes - 162 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 67 | [Protein](https://open.spotify.com/track/3PJV3HC2LogvCrS6hDs2el) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Protein](https://open.spotify.com/album/4GiYLASQVCiNWIt6Z1g5BZ) | 2:55 |
 | 68 | [Rock Wit U \- Yoruba Soul Mix \- Dub](https://open.spotify.com/track/2F5cjiDzORHGhca4dSandQ) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn), [Erro](https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Yoruba Soul Mixes \- Rock Wit U](https://open.spotify.com/album/3qZpsTAOl6b0S5OahuXqsd) | 5:57 |
 | 69 | [The Source](https://open.spotify.com/track/7dBFD4w5Wfd4pHkV52ELsK) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Karma / The Source](https://open.spotify.com/album/7GLWPudyxnSa0I1gL2215e) | 2:28 |
-| 70 | [always](https://open.spotify.com/track/3kO5SqEje4LhVZeD7XWNvr) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [always/the speed of sound!](https://open.spotify.com/album/06DWAGemrz6oW1iWwSPEfl) | 5:23 |
+| 70 | [always](https://open.spotify.com/track/4RONULNyJgZsR38ezArUln) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [portrait of a dog](https://open.spotify.com/album/34Z5pstOPGcmehDwYoiP2O) | 5:23 |
 | 71 | [Stay](https://open.spotify.com/track/1bGhgFuZAGI8O3iDuGd6Bh) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [2070](https://open.spotify.com/album/775nPqtiKfQWKbJ38Tew60) | 3:10 |
 | 72 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 |
 | 73 | [DISCO](https://open.spotify.com/track/0l0cUbpegjqlU2faoY0xTw) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Vanice](https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb) | 2:06 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 161 | [Little Vibey Thing](https://open.spotify.com/track/2ESLxzqj6HB6QGdCoEJbNK) | [Conrad Subs](https://open.spotify.com/artist/62Vn4DolLwSkkSS4fEXKLH) | [Tides LP](https://open.spotify.com/album/5UVRNQrXNRJz8P4VJIpdOW) | 4:46 |
 | 162 | [Lose Ya Mind ft Aleisha Lee](https://open.spotify.com/track/6RVOJNTrEXOlecsUPCaOG5) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Aleisha Lee](https://open.spotify.com/artist/0A4gPcMJUMuH8wjgMl9Dij) | [Perception](https://open.spotify.com/album/52ZsESTtVx9GWBVQK1rE00) | 4:26 |
 
-Snapshot ID: `MTY3MDI1MTYxMCwwMDAwMDAwMGFlY2QzMGViNDJjZDM3MWE0MGZjZmQ2OGRmNTAyZmE2`
+Snapshot ID: `MTY3MDI1MTYxMCwwMDAwMDAwMDI2ZWI4MjNkMTRjYmY5ZTg2ZjM2ZTkwNzk1MWY5OWUz`

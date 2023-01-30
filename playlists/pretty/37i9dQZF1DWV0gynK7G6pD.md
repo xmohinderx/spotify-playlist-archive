@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Martin Fröst
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,476 likes - 61 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,575 likes - 61 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 3 | [The Sacred Veil: XII\. Child of Wonder](https://open.spotify.com/track/7dZyWWwjruK9YiJiN9mbMC) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Christopher Glynn](https://open.spotify.com/artist/1BlAyhfXyu55YqhWpX5YtB), [Emma Denton](https://open.spotify.com/artist/0W9hKiOL5yNId9xC24fFWg) | [Whitacre: The Sacred Veil: XII\. Child of Wonder](https://open.spotify.com/album/1awPnZw2zS9Czidoto6gLp) | 4:41 |
 | 4 | [Listen](https://open.spotify.com/track/4RFNTlSZ5P3H6gFhFkr994) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Listen](https://open.spotify.com/album/7KbMcDktADsrjGx6nFDccI) | 6:41 |
 | 5 | [Zima](https://open.spotify.com/track/642zqDakl1ffk9M3vjYzWe) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Dreamscapes](https://open.spotify.com/album/5s3d1Fzwn0DTupeNktBJOF) | 4:18 |
-| 6 | [Ave verum corpus, K.618 \(arr\. for piano by Franz Liszt\)](https://open.spotify.com/track/65P5vqHd18YLG8AsaVGFjw) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Ave verum corpus, K\. 618](https://open.spotify.com/album/6hJpChw1IpyvRw8UVDzO09) | 3:15 |
+| 6 | [Ave verum corpus, K.618 \(arr\. for piano by Franz Liszt\)](https://open.spotify.com/track/65P5vqHd18YLG8AsaVGFjw) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Ave verum corpus, K.618 \(arr\. for piano by Franz Liszt\)](https://open.spotify.com/album/6hJpChw1IpyvRw8UVDzO09) | 3:15 |
 | 7 | [Deux impromptus, Op\. 4: I\. Espérance](https://open.spotify.com/track/35OsulYspUIFiIsYLWJueo) | [Édouard Lalo](https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [Itamar Golan](https://open.spotify.com/artist/2idBst8P3vn2RRBc3UOcwu) | [Lalo: Deux impromptus, Op\. 4: I\. Espérance](https://open.spotify.com/album/3Vy68Tog4ibVcHIjwtdvNB) | 4:29 |
 | 8 | [the color of the sky \- sleep rework](https://open.spotify.com/track/2YfZhXTjnsNOXfSeVZdmqy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(sleep rework\)](https://open.spotify.com/album/1Lv022YCTEYHI7B3lqLJ60) | 2:56 |
 | 9 | [Bach autrement III \(Inspired by Prelude, BWV 855a\)](https://open.spotify.com/track/4xtwPeUIIy7TNzKBTvTnuR) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV) | [Bach autrement III \(Inspired by Prelude, BWV 855a\)](https://open.spotify.com/album/0oKRIJBsK6evHFnpkbm8OK) | 2:42 |

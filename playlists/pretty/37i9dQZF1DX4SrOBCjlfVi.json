@@ -1,33 +1,13 @@
 {
   "description": "All the New Joints featuring Cordae, DaBaby and more. Cover: EST Gee",
-  "num_followers": 202587,
+  "num_followers": 202688,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGY2NTRkOTI3MzBmY2E4NWM0MWE1MzY4OTRiNzA0ZWVj",
+  "snapshot_id": "MTY3NTAyNzkyNSwwMDAwMDAwMGMyYmMxZDUxNjIzODdjOWEyNTQ3MzQwOTk3MmIwMDY1",
   "tracks": [
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Two Tens (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 152371,
-      "name": "Two Tens (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
-    },
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
@@ -56,9 +36,29 @@
           "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
         }
       ],
-      "duration_ms": 189170,
+      "duration_ms": 189153,
       "name": "Sucka Or Sum",
       "url": "https://open.spotify.com/track/4vIBtcC2KzJY4Va98bvI8P"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Two Tens (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 152371,
+      "name": "Two Tens (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Primetime",
+        "url": "https://open.spotify.com/album/4mc498S47KkQYsgXpK5HK5"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Primetime",
+      "url": "https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "LONG WAY",
         "url": "https://open.spotify.com/album/2WKxFv925cfjb4QAextTKE"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 130309,
       "name": "Every Night (with Baby Money)",
       "url": "https://open.spotify.com/track/7q1pTqYaDoDiRVIoejwaI9"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Primetime",
-        "url": "https://open.spotify.com/album/4mc498S47KkQYsgXpK5HK5"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Primetime",
-      "url": "https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -336,7 +336,7 @@
           "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
         }
       ],
-      "duration_ms": 261825,
+      "duration_ms": 260530,
       "name": "23",
       "url": "https://open.spotify.com/track/0T0vseuNB4KC8opkrCLNbc"
     },
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Welcome 2 The Trenches",
+        "url": "https://open.spotify.com/album/73tDruYotdetPttfbiz8LD"
+      },
+      "artists": [
+        {
+          "name": "TG Kommas",
+          "url": "https://open.spotify.com/artist/0QtTAKI96I6w8ByQIY3QQv"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Heartbleed",
+      "url": "https://open.spotify.com/track/5ygmoEDu47iWuODWLfxIP8"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "come back in an hour",
         "url": "https://open.spotify.com/album/7wignx7wlVahDP1USu0gbC"
       },
@@ -661,7 +677,7 @@
         }
       ],
       "duration_ms": 135408,
-      "name": "Changin (feat. RotKen)",
+      "name": "Changin (feat. Rot Ken)",
       "url": "https://open.spotify.com/track/6kIMQNoy8wmG5O6YovqLCR"
     },
     {
@@ -743,22 +759,6 @@
       "duration_ms": 151578,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/2YFxAjieqjJRQZpey9X2fr"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Welcome 2 The Trenches",
-        "url": "https://open.spotify.com/album/73tDruYotdetPttfbiz8LD"
-      },
-      "artists": [
-        {
-          "name": "TG Kommas",
-          "url": "https://open.spotify.com/artist/0QtTAKI96I6w8ByQIY3QQv"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Heartbleed",
-      "url": "https://open.spotify.com/track/5ygmoEDu47iWuODWLfxIP8"
     },
     {
       "added_at": "2023-01-20 05:00:00",

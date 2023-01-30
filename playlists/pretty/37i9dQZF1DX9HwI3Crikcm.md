@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,804 likes - 86 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,948 likes - 86 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 68 | [Poll Halfpenny](https://open.spotify.com/track/4N4mtq9VrJh7mEYcLvz3xD) | [Matt & Shannon Heaton](https://open.spotify.com/artist/1OTFAVOGCIOly2qrmIWnJ6) | [Lovers' Well](https://open.spotify.com/album/05sncEZS2MAzfnKnHO4YKm) | 3:17 |
 | 69 | [Last Night's Fun / The Congress Reel](https://open.spotify.com/track/6luBtfDZxmuJanW9sLbG1u) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Dubliners](https://open.spotify.com/album/2JaU7begujrJQaORvAnVwD) | 2:25 |
 | 70 | [Farewell to Connaught / Cooley Crossing the Shannon / The Ash Plant](https://open.spotify.com/track/6oImqrLqhMgIkFk9h2inh0) | [Paul Bradley](https://open.spotify.com/artist/770uRtQf5TXfMaUu5Q6KTy) | [Atlantic Roar](https://open.spotify.com/album/49K4RvJDKAU6gB23ulU9F0) | 5:53 |
-| 71 | [The Black Rogue / Morrisons](https://open.spotify.com/track/2W5OYrO4pf1jf0lFttbfUJ) | [Sean Maguire](https://open.spotify.com/artist/7dP7qNfHowP143GPBag31y) | [A Man Apart](https://open.spotify.com/album/186A9RaZ3hlaeWVBWIFgsn) | 2:15 |
+| 71 | [The Black Rogue / Morrisons](https://open.spotify.com/track/3ooiN8bT2gx1hzDokGpQpI) | [Sean Maguire](https://open.spotify.com/artist/7dP7qNfHowP143GPBag31y) | [A Man Apart](https://open.spotify.com/album/1V3dMzrf32ZQaxUaK2cC7U) | 2:15 |
 | 72 | [The Concert Flute / Upstairs in a Tent](https://open.spotify.com/track/3BivsfcYy64qLcqkoKOJ0d) | [Finbar Dwyer](https://open.spotify.com/artist/5jd2q2xbCDBpQz21Ertr18) | [Kitty's Rambles](https://open.spotify.com/album/2ZmM3CZPJ3UHmtzhBJWofJ) | 2:20 |
 | 73 | [The Track for the Craic](https://open.spotify.com/track/2eT2QheRFkPxf4yElE0vQV) | [Socks in the Frying Pan](https://open.spotify.com/artist/2T1zXgma5xEKe7xyd08npf) | [Socks in the Frying Pan](https://open.spotify.com/album/2OH2E5ZrceCAjq32c1d6zp) | 4:36 |
 | 74 | [Caoineadh An Spailpín \(The Spalpeen's Lament\)](https://open.spotify.com/track/3sQcd81KocTl0ZVQvcqh2n) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [The Minstrel From Clare](https://open.spotify.com/album/6QK8bIcu19iuEPfyenHHDl) | 5:05 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 85 | [Reels: Kylebrack Ramblers / Graf Spee](https://open.spotify.com/track/6tWVMFlSwTPVOgeWBQMapG) | [The Shaskeen Ceili Band](https://open.spotify.com/artist/6mgGW54iUPDPt07UwID5Kn) | [Pure Irish Céilí](https://open.spotify.com/album/0lVaM9oQ9SvE6K0P39vsNI) | 3:29 |
 | 86 | [Last Night's Fun / The Chattering Magpie / The Black Haired Lass / The Commodore](https://open.spotify.com/track/3FnKOidmaJJzdP52XBWZ5f) | [Billy McComiskey](https://open.spotify.com/artist/0NPDkWpnQnjowxXozNrWeR) | [The Girls Won't Leave The Boys Alone](https://open.spotify.com/album/45q1rezuYBdULvvO2Oh1Bn) | 4:53 |
 
-Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMDg3YjI1MTI4ODhjMWVhM2I3MzA2MDAzOWYxNTliMTVj`
+Snapshot ID: `MTYwNTA2MjQ1NSwwMDAwMDAwMGVlN2FkYmUxNmU1Y2NhYjZiOGVkMmJkNmJhOTc1YTVl`

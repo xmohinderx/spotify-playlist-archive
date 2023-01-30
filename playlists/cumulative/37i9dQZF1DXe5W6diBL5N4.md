@@ -4,7 +4,7 @@
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: MAVE: \(메이브\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-3,920 songs - 9 day 10 hr 48 min
+3,921 songs - 9 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2171,7 +2171,8 @@
 | [Moonlight kiss](https://open.spotify.com/track/5KeSCEzu0vaeN6PlIEmZqZ) | [BUDY](https://open.spotify.com/artist/0pHO1D5Z1QoFCX801p8FA3) | [Moonlight kiss](https://open.spotify.com/album/5bTORuj2ausd5NCVfCGc6Q) | 3:02 | 2022-05-11 | 2022-05-28 |
 | [Moonlight Mother](https://open.spotify.com/track/5AgtYUcMCPRj1pujfKqO4F) | [張弼順](https://open.spotify.com/artist/50NvhbaJuBbAC5ESbg4X4u) | [GREEN MOTHERS' CLUB OST Part 2](https://open.spotify.com/album/053kIEI1mzTa2lqPehy8EO) | 2:55 | 2022-04-22 | 2022-05-03 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 |  |
-| [MOONLIGHT SUNRISE \(House remix\)](https://open.spotify.com/track/6D9L6ETDkQOyUI75ebmK3V) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE \(The Remixes\)](https://open.spotify.com/album/2LeAF5OEfrQBNGz2sokRIN) | 3:38 | 2023-01-27 |  |
+| [MOONLIGHT SUNRISE \(House remix\)](https://open.spotify.com/track/6D9L6ETDkQOyUI75ebmK3V) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE \(The Remixes\)](https://open.spotify.com/album/2LeAF5OEfrQBNGz2sokRIN) | 3:38 | 2023-01-27 | 2023-01-30 |
+| [MOONLIGHT SUNRISE \(House remix\)](https://open.spotify.com/track/6tL4bxYqICn7oFkM84F1Ik) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE \(The Remixes\)](https://open.spotify.com/album/5ya9sryT3d0UH4Uh37lg9z) | 3:38 | 2023-01-27 |  |
 | [More](https://open.spotify.com/track/6RLU0sBE445FdnxoXr7kYT) | [Around](https://open.spotify.com/artist/30imnk1KS3eh6441SlwbGt) | [More](https://open.spotify.com/album/5jJdbTjdiwPyjVCJjOQbKY) | 2:36 | 2022-07-04 | 2022-07-07 |
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-01 | 2022-07-07 |
 | [more](https://open.spotify.com/track/1sjOf5zjAOuJHHcRzoh37v) | [PARK MIN HYE](https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ) | [more](https://open.spotify.com/album/1KgFbHKfc33qx3ZkmDOSVN) | 3:39 | 2022-11-29 | 2022-12-22 |

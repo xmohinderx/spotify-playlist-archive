@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Los de FL
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,304 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,310 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 5 | [La Canción](https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [La Cancion](https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c) | 3:25 |
 | 6 | [Hey There Delilah](https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8) | [EZ Band](https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847) | [Make it Norteño Vol\. 1](https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs) | 3:52 |
 | 7 | [Ni Como Ni cuando \(En Vivo\)](https://open.spotify.com/track/2Gs4NvmZXYfVPxizpZ892I) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [Ni Como Ni Cuando \(En Vivo\)](https://open.spotify.com/album/00LPgUJSYt1X5UQRK6YIu3) | 2:08 |
-| 8 | [El Greñas \(En Vivo\)](https://open.spotify.com/track/498M1LbXbA0ePdNGYtE8di) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [La Greñas \(En Vivo\)](https://open.spotify.com/album/2ZMkNiFE1guFx7ulP7AlOH) | 2:23 |
+| 8 | [El Greñas \(En Vivo\)](https://open.spotify.com/track/498M1LbXbA0ePdNGYtE8di) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [El Greñas \(En Vivo\)](https://open.spotify.com/album/2ZMkNiFE1guFx7ulP7AlOH) | 2:23 |
 | 9 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 |
 | 10 | [El Matrix](https://open.spotify.com/track/5B3gw7EcyIODNP9K542xfl) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [El Matrix](https://open.spotify.com/album/4UwUyzqp8e5iqM8awTgHgU) | 2:30 |
 | 11 | [amorlove](https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ) | 2:29 |

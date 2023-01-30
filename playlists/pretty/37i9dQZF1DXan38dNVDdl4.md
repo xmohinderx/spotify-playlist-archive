@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: WSTRN
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,795 likes - 68 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,881 likes - 68 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,11 +70,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 60 | [Top Tier](https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Top Tier](https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC) | 2:21 |
 | 61 | [Paranoid](https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Rygin King](https://open.spotify.com/artist/0IHg6uUuIes2nxFoT0otpr) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:07 |
 | 62 | [Riches Wii a Pree](https://open.spotify.com/track/70sylDX7oTLfSyqPepXnn4) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Riches Wii a Pree](https://open.spotify.com/album/25IgvW1IMpamtzY5ID4dhD) | 3:06 |
-| 63 | [Skeleton Cartier](https://open.spotify.com/track/0ONJRBtjpdlfvyz1jJFHUp) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Skeleton Cartier](https://open.spotify.com/album/1Ei9rdh0ZaUuNjPpFpXwS9) | 3:41 |
+| 63 | [Skeleton Cartier](https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 3:41 |
 | 64 | [Clutcha](https://open.spotify.com/track/0jHfKDP1LfRrEmazuothw6) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C), [Northside Media](https://open.spotify.com/artist/6rh7bHX839FxEEXlxJApWB) | [Clutcha](https://open.spotify.com/album/3an36gbtylm5YkyliMqGIK) | 2:35 |
 | 65 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 |
 | 66 | [Ambala](https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Ambala](https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm) | 2:22 |
 | 67 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 |
 | 68 | [Sorry](https://open.spotify.com/track/3M9SdslKjGgu18LtRPiCBA) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS) | [I Am Great](https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz) | 3:25 |
 
-Snapshot ID: `MTY2MjcyODI2MSwwMDAwMDAwMGMyZTA5MTU0MjJlZGQ1YzQwNjA4NWMwMDM2ODZiNzRi`
+Snapshot ID: `MTY2MjcyODI2MSwwMDAwMDAwMDZkOGI0ZTRjZDI3OWUzOTVjMGU0NzI0NjM4NzU1NTVk`

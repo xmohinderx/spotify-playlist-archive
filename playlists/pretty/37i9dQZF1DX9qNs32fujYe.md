@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Ozzy Osbourne
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,041,633 likes - 200 songs - 14 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,169 likes - 200 songs - 14 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

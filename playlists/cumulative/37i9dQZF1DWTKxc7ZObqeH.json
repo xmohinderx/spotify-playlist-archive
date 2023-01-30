@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "A Catalogue of Jazz: Oscar Peterson",
+        "url": "https://open.spotify.com/album/43yR0j2Rn6NcMZKpkolI76"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233653,
+      "name": "Girl From Ipanema",
+      "url": "https://open.spotify.com/track/0hPwFbwX5BeGkywZriGacx"
+    },
+    {
+      "album": {
         "name": "Oscar Peterson: Hits & Rarities",
         "url": "https://open.spotify.com/album/1STwUIMVbwDRey6aEYvXec"
       },
@@ -2908,7 +2926,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 231826,
       "name": "The Girl From Ipanema (Garota De Ipanema)",
       "url": "https://open.spotify.com/track/6YOo90JX9Yr0iSdgwkTgYL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,696 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,714 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 36 | [Ghost](https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Ghost](https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4) | 2:41 |
 | 37 | [Bubbalicious](https://open.spotify.com/track/3ZLROYAeP1y3CouHBYZCg7) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Kess Ross](https://open.spotify.com/artist/5YIZvYKBXqG9ChTtAR4D6G), [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Bubbalicious](https://open.spotify.com/album/5ZVI3iLLLBUscQRvesFWoj) | 3:04 |
 | 38 | [Next to Me \- Vintage Culture Remix](https://open.spotify.com/track/2bidvM5hM1LGiEDkgp0EUz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Next to Me \(Remixes\)](https://open.spotify.com/album/1ZzxjxcYWxEStGTGPNHsG9) | 6:22 |
-| 39 | [DANCE](https://open.spotify.com/track/5GCM43WZSWNxVh7JD6XN6b) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [DANCE](https://open.spotify.com/album/4T3lheq92o9cUCB7bnNQ6Q) | 2:28 |
-| 40 | [See The Ocean](https://open.spotify.com/track/17zIFu7KK3q3uUBG4vsY3r) | [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [See The Ocean](https://open.spotify.com/album/6wOQT6BrVoz8hWsXEPL64g) | 3:38 |
+| 39 | [Dance](https://open.spotify.com/track/2MsjElxTVXkpt1w5ujRxvC) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Dance](https://open.spotify.com/album/3MTZEOI0xmQtguhQ0y4AiU) | 2:28 |
+| 40 | [See The Ocean](https://open.spotify.com/track/3JiRANCLmSct1c4cIQh2Zy) | [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [See The Ocean](https://open.spotify.com/album/17lqoGR3K7XDQsayNTrAAw) | 3:38 |
 | 41 | [Push The Feeling On](https://open.spotify.com/track/0XkWaA0Vyls3Jd15oYWG9L) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Push The Feeling On](https://open.spotify.com/album/1UasoHOSOcPNtRII5u3wiL) | 2:54 |
 | 42 | [Body On My Mind](https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf) | 2:49 |
 | 43 | [I Know](https://open.spotify.com/track/0iZDUCkSEzzBllavstdPsd) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [I Know](https://open.spotify.com/album/1AERPcpgt9mOmzJykuqHsI) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Pretender](https://open.spotify.com/track/2OM6aYmfvRVnYAnfo7I9V7) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Yann Camargo](https://open.spotify.com/artist/1FAj2IV5DuzAW8Q5V9EDbp), [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Pretender](https://open.spotify.com/album/6DprqvZwBR7EGIuIfQ0J3T) | 2:50 |
 | 50 | [Never](https://open.spotify.com/track/7koAfgOQuAnfqDoTdpWMYe) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Never](https://open.spotify.com/album/7IAYlv5CQlfuU9dhETcshh) | 3:25 |
 
-Snapshot ID: `MTY3NDc4ODU4MCwwMDAwMDAwMDMxNDFhZWE1ZGM1MzJmZjc0MTRkYTkzNmQ4YjY1MGZm`
+Snapshot ID: `MTY3NDc4ODU4MCwwMDAwMDAwMDYzYmVkMjAyMWU3ODBkMzgzYTc1MTcwYjY5NTE1MzBk`

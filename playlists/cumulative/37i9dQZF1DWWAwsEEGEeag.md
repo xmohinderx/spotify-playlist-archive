@@ -4,7 +4,7 @@
 
 > Chansons pour ceux qui refusent de laisser l'été se terminer.
 
-126 songs - 7 hr 26 min
+127 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Rien](https://open.spotify.com/track/5fgF4OJlQfPwKs9ezIjxAS) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Excalibur](https://open.spotify.com/album/4TaVDxoWyoR6F7s1aTyz8T) | 2:46 | 2022-06-24 |  |
 | [Rush](https://open.spotify.com/track/1T9pWv3bholzgKrESy6naZ) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC), [Sarah Maison](https://open.spotify.com/artist/5z9QnVuCb67N9a6lyu6ghe) | [For Beirut](https://open.spotify.com/album/1UYuG6xDWYpQfLELunAcMQ) | 4:35 | 2022-06-24 |  |
 | [Samba do Boncy](https://open.spotify.com/track/7vr9QeelVrsCLk3XmnDUzU) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK), [Bïa](https://open.spotify.com/artist/5wd2VuNxYv2rZ3z6qY0Wvx), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Samba do Boncy](https://open.spotify.com/album/6j2gkTfwhmLuxFYHQRBcPT) | 3:24 | 2022-06-24 | 2022-07-29 |
-| [Samba do Boncy](https://open.spotify.com/track/5kHlvrvbP8aiLvijTSYN0y) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Bïa](https://open.spotify.com/artist/5wd2VuNxYv2rZ3z6qY0Wvx), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Samba do Boncy](https://open.spotify.com/album/2eAOTb6xgbkI5ENfuRiYKg) | 3:24 | 2022-07-16 |  |
+| [Samba do Boncy](https://open.spotify.com/track/6sxJsk7k16T8EEv2VZpKuX) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Bïa](https://open.spotify.com/artist/5wd2VuNxYv2rZ3z6qY0Wvx), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Cabaça](https://open.spotify.com/album/68ApApSjhb7e6xo7HP6vam) | 3:20 | 2022-09-23 |  |
+| [Samba do Boncy](https://open.spotify.com/track/5kHlvrvbP8aiLvijTSYN0y) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Bïa](https://open.spotify.com/artist/5wd2VuNxYv2rZ3z6qY0Wvx), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Samba do Boncy](https://open.spotify.com/album/2eAOTb6xgbkI5ENfuRiYKg) | 3:24 | 2022-07-16 | 2023-01-30 |
 | [SECRET](https://open.spotify.com/track/3YKlVrY90ttlrdXWTLToj4) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Nova Tunes 4.3](https://open.spotify.com/album/6E5PvuAL7G9eBBni9pqfaX) | 3:57 | 2022-09-23 | 2022-11-13 |
 | [SECRET](https://open.spotify.com/track/01Ls8VZHxWJS5Ql5LizO0i) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN) | 3:57 | 2022-09-23 |  |
 | [SECRET](https://open.spotify.com/track/59Kiw8ihPooJ9dOVDnxC8u) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic) | 3:57 | 2022-06-24 | 2022-07-29 |

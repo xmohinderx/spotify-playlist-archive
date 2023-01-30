@@ -4,13 +4,13 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU?si=aFVb2xGZRoCUk3Mc4z6AdQ"> Pawzz</a>
 
-188 songs - 9 hr 29 min
+189 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 | 2022-07-21 | 2022-11-04 |
 | [143](https://open.spotify.com/track/4TbphKYktZwuZyJ28PBC01) | [Iguocho](https://open.spotify.com/artist/7DrFOyOldSkiBk24TE2kcH) | [143](https://open.spotify.com/album/6jOa2qEeQcaR81max3uP2H) | 2:52 | 2022-06-30 | 2022-11-04 |
-| [234](https://open.spotify.com/track/2zCzjoAute0BouO3IVo5eh) | [DJ Savy](https://open.spotify.com/artist/49kPLaMd92PzwkhJw7Hc4v), [9t9](https://open.spotify.com/artist/0lw8ofupGRkY51uAAsdiW4), [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [234](https://open.spotify.com/album/7KLupsQWurAEG9XkDxRX5s) | 3:10 | 2023-01-27 |  |
+| [234](https://open.spotify.com/track/2zCzjoAute0BouO3IVo5eh) | [DJ Savy](https://open.spotify.com/artist/5OXVSxR4R3fhxUIO6nJnNf), [9t9](https://open.spotify.com/artist/0lw8ofupGRkY51uAAsdiW4), [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [234](https://open.spotify.com/album/7KLupsQWurAEG9XkDxRX5s) | 3:10 | 2023-01-27 |  |
 | [3 in the Morning](https://open.spotify.com/track/0YcAQqvxtRERBkCFyx7afs) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Kikelomo](https://open.spotify.com/artist/4HLQ6ZHKvMKlD3VR1vVQkE), [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [3 in the Morning](https://open.spotify.com/album/6PMz0SlbVo8Hmizius3YTk) | 3:50 | 2022-11-18 |  |
 | [Abeg](https://open.spotify.com/track/0WbdFDTdIbfQdIyZEcXEqH) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:28 | 2022-08-25 | 2022-10-29 |
 | [Abeg](https://open.spotify.com/track/6oytl8EePHa4CRuaBfzJgD) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Abeg](https://open.spotify.com/album/4f5jNZ01xZqrhH0FszjrWf) | 4:13 | 2022-11-25 |  |
@@ -191,6 +191,7 @@
 | [Vibrate](https://open.spotify.com/track/4HThzBtkiSPncs7d3kEnTp) | [Lynx](https://open.spotify.com/artist/2CRAIABBJmFohN8CgSyWp2), [DSL](https://open.spotify.com/artist/0VmssGpE5BEED12qn6DJt5), [Maya Blu](https://open.spotify.com/artist/3CppyKARAo3Uldd5ZA04ye) | [Coming Soon](https://open.spotify.com/album/3F2XTxYypkPziaKfYcL0he) | 2:21 | 2023-01-27 |  |
 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 | 2022-10-28 | 2022-11-19 |
 | [Weird Space](https://open.spotify.com/track/0ZahurG13submevaayPoLL) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Weird Space](https://open.spotify.com/album/3OoNywIFSlXdYHDwANiVHk) | 2:46 | 2022-06-30 |  |
+| [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 | 2023-01-29 |  |
 | [Whenever](https://open.spotify.com/track/0yOviZhkPwCUtOfWRRP6nd) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [A Piece Of Me](https://open.spotify.com/album/0enq2ODADHlUOmFWjxatEj) | 2:36 | 2022-11-25 |  |
 | [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 | 2022-11-18 |  |
 | [Yoruba Demon](https://open.spotify.com/track/24XUKCOaMqHJbVm350wGDD) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [Yoruba Demon](https://open.spotify.com/album/4hJAQ68RUNCu6pb3mrWYc0) | 2:13 | 2022-09-16 | 2022-11-26 |

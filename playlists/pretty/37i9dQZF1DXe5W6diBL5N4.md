@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: MAVE: \(메이브\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,959 likes - 292 songs - 16 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,145 likes - 292 songs - 16 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 4 | [Back In The Game](https://open.spotify.com/track/4nzlN1G5yYdtkeheCsOmL2) | [Kim Ki Tae](https://open.spotify.com/artist/2DT5Ql0hYDhX2PUF6q15US) | [Back In The Game \(Payback X Kim ki Tae\)](https://open.spotify.com/album/4gqx7y9Z31ZmvIXijb8ehz) | 2:58 |
 | 5 | [Ransom](https://open.spotify.com/track/4EwJ6dnS6yYNclTI4jEsVL) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Ransom with KozyPop](https://open.spotify.com/album/5crK00yxvVXOpmkpsxLavI) | 3:01 |
 | 6 | [Love Lost](https://open.spotify.com/track/3S6rPD9U4esvHwgYe3d1hk) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Love Lost](https://open.spotify.com/album/4RB7FLLcYwNpkdyZdIrEu2) | 3:06 |
-| 7 | [MOONLIGHT SUNRISE \(House remix\)](https://open.spotify.com/track/6D9L6ETDkQOyUI75ebmK3V) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE \(The Remixes\)](https://open.spotify.com/album/2LeAF5OEfrQBNGz2sokRIN) | 3:38 |
+| 7 | [MOONLIGHT SUNRISE \(House remix\)](https://open.spotify.com/track/6tL4bxYqICn7oFkM84F1Ik) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE \(The Remixes\)](https://open.spotify.com/album/5ya9sryT3d0UH4Uh37lg9z) | 3:38 |
 | 8 | [Fireworks](https://open.spotify.com/track/5Q42ynmYZN979JiZusBSqz) | [AIMERS](https://open.spotify.com/artist/4U2eZzOZsobt9JHp0znP1L) | [Fireworks \- AIMERS SPECIAL SINGLE](https://open.spotify.com/album/1xgZg5UJ5LqPzcAt5vUYij) | 3:39 |
 | 9 | [Listen](https://open.spotify.com/track/4RFNTlSZ5P3H6gFhFkr994) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Listen](https://open.spotify.com/album/7KbMcDktADsrjGx6nFDccI) | 6:41 |
 | 10 | [I'm Homeless](https://open.spotify.com/track/5jYioe70lpLaSRgyhDA8ZJ) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I'm Homeless](https://open.spotify.com/album/1JAyIVuV1OccG70eLBkWkc) | 2:30 |
@@ -301,4 +301,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 291 | [Big world](https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 3:54 |
 | 292 | [The beauty of acceptance](https://open.spotify.com/track/7BrzmSCRaZ0GJv2Q0kAQUc) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [The beauty of acceptance](https://open.spotify.com/album/7mpeNqcw76RzWz70HGgUUB) | 4:33 |
 
-Snapshot ID: `MTY3NDgxMDUzOCwwMDAwMDAwMDI3ZTgyZWQ5ZjViMDAwMjI5NmIzYzQwMWJmOWQ1OGIw`
+Snapshot ID: `MTY3NDgxMDUzOCwwMDAwMDAwMDZiZDUyNmIzMmM1Nzk3MmUxYmNmNjRmZTZkZjQ3ZWE4`

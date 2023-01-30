@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 
 > Afro culture mixed with Arab vibes\. Cover: kouz1
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,464 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,543 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

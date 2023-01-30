@@ -2105,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Vai/Gash",
+        "url": "https://open.spotify.com/album/4Hv4iR1M5Bh1KlZ3J6fJOe"
+      },
+      "artists": [
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "In The Wind",
+      "url": "https://open.spotify.com/track/22p3vBrc3iRBMh8ndiB7rr"
+    },
+    {
+      "album": {
         "name": "In The Wind",
         "url": "https://open.spotify.com/album/4HvkVUY6cCAeSNnfU0v4Wv"
       },
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-01-30",
       "duration_ms": 229640,
       "name": "In The Wind",
       "url": "https://open.spotify.com/track/2NMY0HrpgXgo0AYrjlQiXe"

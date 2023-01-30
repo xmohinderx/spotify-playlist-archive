@@ -4,7 +4,7 @@
 
 > Enjoy the world of “Black Clover”! 魔法帝を目指す少年たちの物語を歴代OP/ED、サントラ曲でお楽しみください。© 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会
 
-41 songs - 2 hr 14 min
+42 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Guess Who Is Back](https://open.spotify.com/track/4lBliLm5ufCBNPlCzpvrQB) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [DNA](https://open.spotify.com/album/6clP6HKzALC37Aoas4zX8B) | 3:26 | 2021-05-26 |  |
 | [Harukamirai](https://open.spotify.com/track/2vDPSojrX4aL7aiCPD7kja) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Iroirotoiro](https://open.spotify.com/album/79V1HfDMIGhRzw4waum5cm) | 2:57 | 2021-05-26 |  |
 | [Harukamirai](https://open.spotify.com/track/1dN7OMrMKink43A5uhARSR) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [\#HAL \- Black Clover ver\. \-](https://open.spotify.com/album/3pZwhSHgmvwiC41U3TdqSt) | 2:57 | 2021-05-26 | 2022-11-13 |
+| [Here I Stand \- Anime Edit](https://open.spotify.com/track/3RPNNWB4ZbL9siNR2woL5I) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand \(Anime Edit\)](https://open.spotify.com/album/7makenyxwdnXOdla8Z4DY2) | 1:36 | 2023-01-29 |  |
 | [JUSTadICE](https://open.spotify.com/track/6IVM1YYZq6K6NG6qqC26o4) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [JUSTadICE](https://open.spotify.com/album/5vtry7e8VNfajQeMQZt1tE) | 3:52 | 2021-05-26 |  |
 | [My Song My Days](https://open.spotify.com/track/5N4ATZloYFOBdKLQ9v69CK) | [SOLIDEMO](https://open.spotify.com/artist/7ccOn9dXuj9TGDZJSLZYP2), [桜men](https://open.spotify.com/artist/09nL8Bc0RxxQ43ckGEqgqN) | [My Song My Days](https://open.spotify.com/album/0PtBxIsIQUduy2xZ3XJhag) | 4:34 | 2021-05-26 |  |
 | [New Page](https://open.spotify.com/track/2gApWgkuisXedOcS9Tligs) | [INTERSECTION](https://open.spotify.com/artist/5yzLjgtXt52UUcOO0y88ma) | [New Page](https://open.spotify.com/album/3IqJDQ3RL9oV6a91m9FCZE) | 4:30 | 2021-05-26 |  |

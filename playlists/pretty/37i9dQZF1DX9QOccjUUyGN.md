@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Mac Júlia
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,574 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,577 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 15 | [Coração Vazio](https://open.spotify.com/track/5bzPLOmAJgn3rPizh2G5Ug) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [LIPE DIIAS](https://open.spotify.com/artist/5ZP5AjyyoxnUHkehbCz9Wj) | [Coração Vazio](https://open.spotify.com/album/6Th3EYNkzHEkGzzxhlVkHd) | 2:13 |
 | 16 | [Cozinhando Crack](https://open.spotify.com/track/3Xviv3XgfT5BiraccbclPP) | [NAK Original](https://open.spotify.com/artist/1CsDy9b3kF1h0FqxLaxedB), [JayPluggz](https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M), [Prod Claw](https://open.spotify.com/artist/0LEUDqnKZFLEYPA749Tfpt) | [Cozinhando Crack](https://open.spotify.com/album/0XYmOASyOLZLxt1XiKAldy) | 2:05 |
 | 17 | [Amo\(r\) Frontal](https://open.spotify.com/track/5hD0juwLCRiE4MmC4Nlvig) | [jonV](https://open.spotify.com/artist/5AQibAVLyEju1MqDIeVd6E) | [Amo\(r\) Frontal](https://open.spotify.com/album/4LlkREGWuz9sZ4Qitbs0yG) | 2:19 |
-| 18 | [Plug Mais Triste do Mundo](https://open.spotify.com/track/0rzcH8Io9TpUiSuMJhRzJT) | [Dujazz](https://open.spotify.com/artist/0RclCtbyB3MrnPJzTwuZ5X), [Slime France](https://open.spotify.com/artist/0nK1mGGnGT9Wu0oQMFhypK), [Wissz](https://open.spotify.com/artist/7jIftxM758J3nD3Q24ZCrh), [ogkayan](https://open.spotify.com/artist/3x74426rgRTlcru6b0hm3J), [ZIN420SHAWTY](https://open.spotify.com/artist/5P15FiV8xrhpiDFfB3nsDl) | [Plug Mais Triste do Mundo](https://open.spotify.com/album/4wOG0HXBl5FPJT2z31axL6) | 3:17 |
+| 18 | [Plug Mais Triste do Mundo](https://open.spotify.com/track/0rzcH8Io9TpUiSuMJhRzJT) | [Slime France](https://open.spotify.com/artist/0nK1mGGnGT9Wu0oQMFhypK), [Dujazz](https://open.spotify.com/artist/0RclCtbyB3MrnPJzTwuZ5X), [Wissz](https://open.spotify.com/artist/7jIftxM758J3nD3Q24ZCrh), [ogkayan](https://open.spotify.com/artist/3x74426rgRTlcru6b0hm3J), [ZIN420SHAWTY](https://open.spotify.com/artist/5P15FiV8xrhpiDFfB3nsDl) | [Plug Mais Triste do Mundo](https://open.spotify.com/album/4wOG0HXBl5FPJT2z31axL6) | 3:17 |
 | 19 | [Bem Só](https://open.spotify.com/track/0sdkSOf0DMZP7EmKxDsRyB) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Bem Só](https://open.spotify.com/album/75ZI43o9mhUEhv2q0PgCEx) | 2:32 |
 | 20 | [KICKFLIP](https://open.spotify.com/track/6DmCVSSqnJF8k7si1VVHSm) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [KICKFLIP](https://open.spotify.com/album/7k9DosWlMI3OIoRdmTm5fG) | 2:37 |
 | 21 | [Psicopata Brasileiro](https://open.spotify.com/track/5L59RHFIskLqhVNqAqFVzP) | [Baby T](https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf), [Baby Internet](https://open.spotify.com/artist/1U8cr7P5lETm3Zz5QMC4Dh), [Uxie Kid](https://open.spotify.com/artist/04qByqUf8qEushGa1aQQ8V), [Sayle](https://open.spotify.com/artist/415XkxlrNLB1aqKaakdN1C), [Vamp](https://open.spotify.com/artist/3bX1UBuREUv9PBbkeqeY1S) | [Psicopata Brasileiro](https://open.spotify.com/album/5lrP0zmNYcSjAuZQCPC9R1) | 2:37 |

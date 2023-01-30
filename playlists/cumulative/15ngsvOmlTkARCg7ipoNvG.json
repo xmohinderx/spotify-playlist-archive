@@ -6003,6 +6003,24 @@
     },
     {
       "album": {
+        "name": "Gentle Fall (Strings Version)",
+        "url": "https://open.spotify.com/album/6Kib3hpGjGZWR1gDYA7OJj"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2023-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60661,
+      "name": "Gentle Fall - Strings Version",
+      "url": "https://open.spotify.com/track/7IV4JK8YpM3bLSBkSVEzzC"
+    },
+    {
+      "album": {
         "name": "Journeys",
         "url": "https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE"
       },

@@ -4,7 +4,7 @@
 
 > Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.
 
-293 songs - 19 hr 11 min
+294 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 | 2022-06-17 |  |
 | [I Wanna Rock \(Remastered Album Version\)](https://open.spotify.com/track/7zLC4HAY11GvvKsZHNrkAp) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry \[Deluxe 25th Anniversary Edition\]](https://open.spotify.com/album/2BNYEcFVte2IUpzuPOTnoS) | 3:03 | 2021-12-09 | 2022-07-29 |
 | [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:25 | 2022-04-08 |  |
-| [In The Wind](https://open.spotify.com/track/2NMY0HrpgXgo0AYrjlQiXe) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [In The Wind](https://open.spotify.com/album/4HvkVUY6cCAeSNnfU0v4Wv) | 3:49 | 2023-01-27 |  |
+| [In The Wind](https://open.spotify.com/track/22p3vBrc3iRBMh8ndiB7rr) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Vai/Gash](https://open.spotify.com/album/4Hv4iR1M5Bh1KlZ3J6fJOe) | 3:49 | 2023-01-27 |  |
+| [In The Wind](https://open.spotify.com/track/2NMY0HrpgXgo0AYrjlQiXe) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [In The Wind](https://open.spotify.com/album/4HvkVUY6cCAeSNnfU0v4Wv) | 3:49 | 2023-01-27 | 2023-01-30 |
 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 2:57 | 2021-12-09 | 2022-07-28 |
 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 | 2022-06-17 |  |
 | [Jack & Diane](https://open.spotify.com/track/5liGr3ukPedUMi0HthiTdZ) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Our Country Hit Pack](https://open.spotify.com/album/3yd0jsYMws129TcTAkzr9r) | 4:15 | 2022-04-08 | 2022-07-12 |

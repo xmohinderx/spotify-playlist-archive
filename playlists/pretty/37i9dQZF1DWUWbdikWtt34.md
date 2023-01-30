@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Hendra Kumbara
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,730 likes - 64 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,767 likes - 64 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

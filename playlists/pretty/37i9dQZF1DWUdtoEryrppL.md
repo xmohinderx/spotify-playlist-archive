@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdtoEryrppL.md) - [plain]
 
 > My favourite tracks to harness your focus and push you to the limit in your next workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,621 likes - 41 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,668 likes - 41 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdtoEryrppL.md) - [plain]
 | 3 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 |
 | 4 | [The Seed \(2.0\)](https://open.spotify.com/track/6HxweNytuEQdmGeVtZPZz3) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Phrenology](https://open.spotify.com/album/01FOonRYntwISzaCSa7S7p) | 4:27 |
 | 5 | [Goose](https://open.spotify.com/track/2v7iJcMoQcN40fK9XEb42q) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [The Most Hated](https://open.spotify.com/album/0zFqkobYDLzAAHbK2lgc68) | 4:15 |
-| 6 | [My Head Is A Jungle \- Remix](https://open.spotify.com/track/58cqk8lrssnTQGMWp6wgI3) | [CursedSanity](https://open.spotify.com/artist/3GTQ50msSR4uuj5rax5eEH), [Reaxys](https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI), [twexih](https://open.spotify.com/artist/3MEAyqQ8SL7qsbnNEcbFQz) | [My Head Is A Jungle \(Remix\)](https://open.spotify.com/album/6TtfObVSatzAH0o0IMzCik) | 3:26 |
+| 6 | [My Head Is A Jungle \- MK Remix \- Radio Edit](https://open.spotify.com/track/1yAAmuuGbPc6U6nsZHWliT) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [My Head Is A Jungle \(MK Remix\)](https://open.spotify.com/album/45pS3qDQyuCSRQpQHht9pf) | 3:25 |
 | 7 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 |
 | 8 | [Roadhouse Blues](https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 4:03 |
 | 9 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdtoEryrppL.md) - [plain]
 | 13 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 |
 | 14 | [Seek & Destroy \(Remastered\)](https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 6:54 |
 | 15 | [Morning Glory \- Remastered](https://open.spotify.com/track/1H0K1GVwLteCZrPquy7qkM) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 5:03 |
-| 16 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 6:39 |
+| 16 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN) | 6:39 |
 | 17 | [Robot Rock \- Edit \[Edit\]](https://open.spotify.com/track/2gvSbIHvBKebtleZClEC9L) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Robot Rock \(Edit\)](https://open.spotify.com/album/6nwye4zd7OY5FmMKZRMiDl) | 3:07 |
 | 18 | [Planisphere](https://open.spotify.com/track/18IARgL5t0TkfCvARd8Ndn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Audio, Video, Disco.](https://open.spotify.com/album/0dLnnm4PjeyqM4CoHqo6DI) | 17:39 |
 | 19 | [Unchained \(The Payback / Untouchable\)](https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:51 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdtoEryrppL.md) - [plain]
 | 40 | [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:18 |
 | 41 | [Bent Light](https://open.spotify.com/track/4cZRwZrq64bA6Kefaup5v3) | [Praxis](https://open.spotify.com/artist/7HUToZAiTbs402RFlGb6nF) | [Tennessee 2004](https://open.spotify.com/album/4Gra5ONFja6kNJqvOArntO) | 5:36 |
 
-Snapshot ID: `MTYxODk3NzYwMCwwMDAwMDAwMDM2NjkxMmFiOWRhNTEwMmYyOTBlZmI5YjFlZjUxY2E2`
+Snapshot ID: `MTYxODk3NzYwMCwwMDAwMDAwMDkzZmU0OTVlNDM2YjJkMmExYzMxODU1M2QyYzJlY2Zk`

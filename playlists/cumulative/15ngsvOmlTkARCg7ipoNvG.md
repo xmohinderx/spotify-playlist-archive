@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-862 songs - 20 hr 9 min
+863 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Gaze](https://open.spotify.com/track/1JYETWYwTMO5RTKHj0rhQx) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Hope In Silence](https://open.spotify.com/album/6eE0uY90mWQ20vcz3MOtvP) | 1:02 | 2022-03-02 |  |
 | [Gazing Above](https://open.spotify.com/track/2m2FXP1aGNvQ5DlEPcKCVo) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Dreams Of Grace](https://open.spotify.com/album/7e6o35zGi3vOPWNyET7BCE) | 1:01 | 2022-04-19 |  |
 | [Gazing Towards The Sky](https://open.spotify.com/track/4awAMEKytUSE7r5j4d5XXs) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Gazing Towards The Sky](https://open.spotify.com/album/11AvT7xDlcFEwP50VQqRfU) | 1:00 | 2022-06-18 |  |
+| [Gentle Fall \- Strings Version](https://open.spotify.com/track/7IV4JK8YpM3bLSBkSVEzzC) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Gentle Fall \(Strings Version\)](https://open.spotify.com/album/6Kib3hpGjGZWR1gDYA7OJj) | 1:00 | 2023-01-29 |  |
 | [Gentle Flight](https://open.spotify.com/track/4q7FJ0Xiftijp3gmwau2n1) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:31 | 2022-01-12 |  |
 | [Gentle Flow](https://open.spotify.com/track/3yMd7RKJgrQn7o2BXjHjLy) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:43 | 2022-01-12 |  |
 | [Gentle Landing](https://open.spotify.com/track/4BtmWlFdkec2lVNW1BH28s) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Soaring](https://open.spotify.com/album/0M1455WqEoRjvehxgXmICI) | 1:04 | 2022-03-03 |  |

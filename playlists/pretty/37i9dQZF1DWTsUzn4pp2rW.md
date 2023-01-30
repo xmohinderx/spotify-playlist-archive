@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,614 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,770 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 87 | [Lime](https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN) | [Ella Frank](https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM) | [Sorrows Into Silk](https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB) | 2:18 |
 | 88 | [Enough to Be on Your Way](https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Enough to Be on Your Way](https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3) | 5:18 |
 | 89 | [Something to Celebrate](https://open.spotify.com/track/2mJ2pf8E5tlHnG0mKldaro) | [Kristin Korb](https://open.spotify.com/artist/4jCdkrPVAoqmEGFYboGKiN) | [Something to Celebrate](https://open.spotify.com/album/1mqxTzY7EVLTPes2sVORyD) | 3:02 |
-| 90 | [Your Hands](https://open.spotify.com/track/4u62bhKi6sQBPBb1txAAPT) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/1a1xCfar6N0EMGRq88O8p0) | 4:53 |
-| 91 | [Visions](https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 5:11 |
+| 90 | [Visions](https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 5:11 |
+| 91 | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Stu Mindeman](https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0) | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28) | 3:46 |
 | 92 | [Kettle](https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD) | [Ella Frank](https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM) | [Kettle](https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG) | 4:24 |
-| 93 | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Stu Mindeman](https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0) | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28) | 3:46 |
-| 94 | [Be That Someone](https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2) | [Torun Eriksen](https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn) | [Luxury and Waste](https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B) | 3:53 |
-| 95 | [Benevolent Man](https://open.spotify.com/track/4APZ4IrqGZMMNjVrkIJJxM) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 3:42 |
-| 96 | [Love is Easy](https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 3:55 |
-| 97 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 |
-| 98 | [All of These Things](https://open.spotify.com/track/3q6QI77XHbUqMjrHCQFrCP) | [Emil Otto](https://open.spotify.com/artist/6J3pcOji8HrXy4nrnFd68H), [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq) | [Ain’t Love a Beautiful Thing](https://open.spotify.com/album/6Nwq21fNDkW9jVaJB7zQ1Y) | 3:34 |
-| 99 | [I Miss You](https://open.spotify.com/track/091sKVcByJjBQVc8uZHZtK) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [I Miss You](https://open.spotify.com/album/3E90onjkC4uR0HdGOOOGLu) | 5:02 |
-| 100 | [My Ship](https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 4:42 |
+| 93 | [Be That Someone](https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2) | [Torun Eriksen](https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn) | [Luxury and Waste](https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B) | 3:53 |
+| 94 | [Benevolent Man](https://open.spotify.com/track/4APZ4IrqGZMMNjVrkIJJxM) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 3:42 |
+| 95 | [Love is Easy](https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 3:55 |
+| 96 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 |
+| 97 | [All of These Things](https://open.spotify.com/track/3q6QI77XHbUqMjrHCQFrCP) | [Emil Otto](https://open.spotify.com/artist/6J3pcOji8HrXy4nrnFd68H), [Jakob Sørensen](https://open.spotify.com/artist/0X5V6eviwYY5xnC8ryCbRq) | [Ain’t Love a Beautiful Thing](https://open.spotify.com/album/6Nwq21fNDkW9jVaJB7zQ1Y) | 3:34 |
+| 98 | [I Miss You](https://open.spotify.com/track/091sKVcByJjBQVc8uZHZtK) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [I Miss You](https://open.spotify.com/album/3E90onjkC4uR0HdGOOOGLu) | 5:02 |
+| 99 | [My Ship](https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 4:42 |
+| 100 | [The Sorrow It Shows](https://open.spotify.com/track/7cZenJ6XodfUnnZ0wwbFih) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [The Sorrow It Shows](https://open.spotify.com/album/5gjE4MoGl4w4voVWUZxGW5) | 5:49 |
 
-Snapshot ID: `MTY3NDY1MjgwNSwwMDAwMDAwMDQyNGVlMTk3ZGQ2NmU1N2NkZDdjMzhlNzg0ZGNiMmY0`
+Snapshot ID: `MTY3NDY1MjgwNSwwMDAwMDAwMDVhYWMzNmViNmMwYzFjZTRiNDRmMWVmMTU4OTJiODI2`

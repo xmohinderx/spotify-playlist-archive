@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: All Time Low",
-  "num_followers": 542200,
+  "num_followers": 542294,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc3NzYwMCwwMDAwMDAwMGUzMTZjOTI0N2I5NTE4MGRmMWQ4MjRmMzRmZDhjNjE2",
+  "snapshot_id": "MTY3NDc3NzYwMCwwMDAwMDAwMGEwODFjYTZiZmRjMmQ0MTExZjBkYWNjMjI4NTg1OGM0",
   "tracks": [
     {
       "added_at": "2023-01-13 00:00:00",
@@ -111,26 +111,6 @@
       "duration_ms": 187140,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "FUCK ABOUT IT",
-        "url": "https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 172375,
-      "name": "FUCK ABOUT IT (feat. blackbear)",
-      "url": "https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -243,22 +223,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x"
       },
@@ -271,6 +235,22 @@
       "duration_ms": 164621,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -291,22 +271,6 @@
       "duration_ms": 227393,
       "name": "Everybody but You",
       "url": "https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE"
-    },
-    {
-      "added_at": "2023-01-27 00:00:00",
-      "album": {
-        "name": "REAL SUPER DARK",
-        "url": "https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 149194,
-      "name": "REAL SUPER DARK",
-      "url": "https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -455,22 +419,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "Call Me Never",
-        "url": "https://open.spotify.com/album/0BfKHzKddDMfm0G3Ou3qUS"
-      },
-      "artists": [
-        {
-          "name": "Hoodie Allen",
-          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
-        }
-      ],
-      "duration_ms": 182349,
-      "name": "Call Me Never",
-      "url": "https://open.spotify.com/track/4No3g1xYAXAyxYU4LQLZEq"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "HEAVYWEIGHT",
         "url": "https://open.spotify.com/album/5c3oE6tatGA1ZeLDA4IIa9"
       },
@@ -487,6 +435,22 @@
       "duration_ms": 169325,
       "name": "HEAVYWEIGHT",
       "url": "https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "Call Me Never",
+        "url": "https://open.spotify.com/album/0BfKHzKddDMfm0G3Ou3qUS"
+      },
+      "artists": [
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        }
+      ],
+      "duration_ms": 182349,
+      "name": "Call Me Never",
+      "url": "https://open.spotify.com/track/4No3g1xYAXAyxYU4LQLZEq"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1023,22 +987,6 @@
     {
       "added_at": "2023-01-13 00:00:00",
       "album": {
-        "name": "The King and Queen of Gasoline",
-        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 218656,
-      "name": "The King and Queen of Gasoline",
-      "url": "https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
         "name": "Tom in 03",
         "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
       },
@@ -1055,6 +1003,22 @@
       "duration_ms": 141671,
       "name": "Tom in 03",
       "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 218656,
+      "name": "The King and Queen of Gasoline",
+      "url": "https://open.spotify.com/track/1Ee8F0OqNRgdXoO9HoOrKI"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1237,6 +1201,22 @@
       "url": "https://open.spotify.com/track/0DRxRCkk7lrUs1VggJMmnP"
     },
     {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "WE'RE NOT STRANGERS",
+        "url": "https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 138720,
+      "name": "WE'RE NOT STRANGERS",
+      "url": "https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu"
+    },
+    {
       "added_at": "2023-01-20 00:00:00",
       "album": {
         "name": "(NOT A) LOVE SONG",
@@ -1255,22 +1235,6 @@
       "duration_ms": 167040,
       "name": "(NOT A) LOVE SONG",
       "url": "https://open.spotify.com/track/4pbi40zXUCSQG3azxkag79"
-    },
-    {
-      "added_at": "2023-01-13 00:00:00",
-      "album": {
-        "name": "WE'RE NOT STRANGERS",
-        "url": "https://open.spotify.com/album/6uP0FNogIlJpxFnrRCES5z"
-      },
-      "artists": [
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
-        }
-      ],
-      "duration_ms": 138720,
-      "name": "WE'RE NOT STRANGERS",
-      "url": "https://open.spotify.com/track/3RuNatnCCHe7LS5QTNnJJu"
     },
     {
       "added_at": "2023-01-13 00:00:00",
@@ -1403,6 +1367,38 @@
       "duration_ms": 194751,
       "name": "together",
       "url": "https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "DEAD ASTRONAUT",
+        "url": "https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "DEAD ASTRONAUT",
+      "url": "https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot"
+    },
+    {
+      "added_at": "2023-01-13 00:00:00",
+      "album": {
+        "name": "ATTENTION!",
+        "url": "https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh"
+      },
+      "artists": [
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        }
+      ],
+      "duration_ms": 161697,
+      "name": "ATTENTION!",
+      "url": "https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

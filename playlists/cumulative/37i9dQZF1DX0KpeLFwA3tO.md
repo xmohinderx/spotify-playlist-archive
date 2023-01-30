@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Grandmas House
 
-807 songs - 1 day 16 hr 28 min
+808 songs - 1 day 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,7 +570,8 @@
 | [Rat Race](https://open.spotify.com/track/4nfqM6p3jcMF8ZLq91kywq) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [Reality Cheques](https://open.spotify.com/album/67DsYDB31JTEUZfuY2xv5s) | 3:35 | 2022-09-29 | 2022-11-11 |
 | [Re\-Entry \(feat\. Mark Hoppus\)](https://open.spotify.com/track/2f2WCKwB1r2SH7AvJc0P8W) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Re\-Entry \(feat\. Mark Hoppus\)](https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv) | 2:52 | 2022-01-21 | 2022-03-11 |
 | [Real Life](https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Real Life](https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x) | 2:44 | 2022-08-25 | 2022-10-14 |
-| [REAL SUPER DARK](https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT) | 2:29 | 2023-01-27 |  |
+| [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-01-27 |  |
+| [REAL SUPER DARK](https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT) | 2:29 | 2023-01-27 | 2023-01-30 |
 | [Red Wing](https://open.spotify.com/track/5bZMw4BXuxEgjXH1anAMUA) | [Wolfrik](https://open.spotify.com/artist/6Yyr4z6ZKxZu9y3Wa0Vs2o) | [Clones](https://open.spotify.com/album/5gUhgvoU6u50Seadl0Bk5K) | 3:11 | 2022-02-25 | 2022-04-08 |
 | [Red, White, & Blue \- Oceanator Remix](https://open.spotify.com/track/5V2eKrzskMnKGXICr3DUWh) | [Proper.](https://open.spotify.com/artist/07fRiLziB7HEpoJippeKdK), [Oceanator](https://open.spotify.com/artist/4XUljLhCjbV8Zc6IX14Yj6) | [Red, White, & Blue \(Oceanator Remix\)](https://open.spotify.com/album/4qAjTiYjRwHtUMjNmSnJvn) | 2:44 | 2022-08-11 | 2022-09-30 |
 | [relax and float downstream](https://open.spotify.com/track/4yk8K9Mkjxxwv16sjzEGfs) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [relax and float downstream](https://open.spotify.com/album/35RFMYoqpaPfv28xPr2Mfx) | 1:43 | 2021-12-17 | 2022-01-12 |
