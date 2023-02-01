@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 76012,
+  "num_followers": 76140,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGRjMDc0NTQ1MmIwNmVlYTY3OGM4ZTY4NDJkODQ3ZWQy",
+  "snapshot_id": "MTY0ODQ5OTIzMSwwMDAwMDAwMGE4NjI0ZThlYmVmMWNlZDY4MmRlNTY4MTBkNDBmY2E2",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -467,6 +467,42 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "The Savoy 10-inch LP Collection",
+        "url": "https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        },
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Cheryl",
+      "url": "https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "The Complete Prestige 10-Inch LP Collection",
+        "url": "https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 459866,
+      "name": "Blue Monk",
+      "url": "https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Red's Blues",
         "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
       },
@@ -499,38 +535,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "The Complete Prestige 10-Inch LP Collection",
-        "url": "https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC"
+        "name": "Swiss Nights, Vol. 3",
+        "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
       },
       "artists": [
         {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 459866,
-      "name": "Blue Monk",
-      "url": "https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "The Savoy 10-inch LP Collection",
-        "url": "https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        },
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Cheryl",
-      "url": "https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX"
+      "duration_ms": 762666,
+      "name": "Tenor madness",
+      "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -551,6 +567,34 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Brilliant Corners",
+        "url": "https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Ernie Henry",
+          "url": "https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 787933,
+      "name": "Ba-Lue Bolivar Ba-Lues-Are",
+      "url": "https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Cookin' With The Miles Davis Quintet",
         "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
       },
@@ -563,22 +607,6 @@
       "duration_ms": 592506,
       "name": "Blues By Five - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Swiss Nights, Vol. 3",
-        "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 762666,
-      "name": "Tenor madness",
-      "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -651,30 +679,34 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Brilliant Corners",
-        "url": "https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd"
+        "name": "Thelonious Alone In San Francisco",
+        "url": "https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk"
       },
       "artists": [
         {
           "name": "Thelonious Monk",
           "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Ernie Henry",
-          "url": "https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR"
-        },
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
         }
       ],
-      "duration_ms": 787933,
-      "name": "Ba-Lue Bolivar Ba-Lues-Are",
-      "url": "https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG"
+      "duration_ms": 217333,
+      "name": "Bluehawk",
+      "url": "https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Inner Urge (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 556226,
+      "name": "Isotope - Rudy Van Gelder Edition / 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/4tmApkhSLqUAE7x70CVI2L"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -695,18 +727,34 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Inner Urge (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
       "artists": [
         {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 556226,
-      "name": "Isotope - Rudy Van Gelder Edition / 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/4tmApkhSLqUAE7x70CVI2L"
+      "duration_ms": 464613,
+      "name": "Old Clothes",
+      "url": "https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Retrospective",
+        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 427000,
+      "name": "Blues For Willarene",
+      "url": "https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -743,22 +791,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Retrospective",
-        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "Blues For Willarene",
-      "url": "https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Bird 100",
         "url": "https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW"
       },
@@ -791,38 +823,6 @@
       "duration_ms": 440083,
       "name": "Freight Trane",
       "url": "https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 464613,
-      "name": "Old Clothes",
-      "url": "https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Thelonious Alone In San Francisco",
-        "url": "https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Bluehawk",
-      "url": "https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn"
     },
     {
       "added_at": "2020-10-12 18:15:54",

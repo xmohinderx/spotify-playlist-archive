@@ -1,12 +1,12 @@
 {
   "description": "groovy.",
-  "num_followers": 130835,
+  "num_followers": 130997,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDQ4ODEzYTQ5Y2MwMzk5NTJjZWMzY2FlZGNlZTE4MzY2",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDc5ZDVkMThlMDkwZjBkZDhlYWRlZTg1Yjk1OTNlNTJl",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "No Quit",
-        "url": "https://open.spotify.com/album/1YhIJxRStr6P4klotOPv9N"
+        "name": "The Atlantic Ocean",
+        "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
       },
       "artists": [
         {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+          "name": "Richard Swift",
+          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
         }
       ],
-      "duration_ms": 193520,
-      "name": "No Quit",
-      "url": "https://open.spotify.com/track/3zGn3DuQSsh5g6o2r6IwJg"
+      "duration_ms": 258799,
+      "name": "Lady Luck",
+      "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "The Atlantic Ocean",
-        "url": "https://open.spotify.com/album/4IwiiZ3EaJ1FKeHyVatLIO"
+        "name": "No Quit",
+        "url": "https://open.spotify.com/album/1YhIJxRStr6P4klotOPv9N"
       },
       "artists": [
         {
-          "name": "Richard Swift",
-          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
         }
       ],
-      "duration_ms": 258799,
-      "name": "Lady Luck",
-      "url": "https://open.spotify.com/track/4zdSkZqBNo0fHmviHOtxGe"
+      "duration_ms": 193520,
+      "name": "No Quit",
+      "url": "https://open.spotify.com/track/3zGn3DuQSsh5g6o2r6IwJg"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Shannon In Nashville",
-        "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
-      },
-      "artists": [
-        {
-          "name": "Shannon Shaw",
-          "url": "https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq"
-        }
-      ],
-      "duration_ms": 163280,
-      "name": "Goodbye Summer",
-      "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "The Unseen In Between",
         "url": "https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 310360,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Shannon In Nashville",
+        "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
+      },
+      "artists": [
+        {
+          "name": "Shannon Shaw",
+          "url": "https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq"
+        }
+      ],
+      "duration_ms": 163280,
+      "name": "Goodbye Summer",
+      "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu"
-      },
-      "artists": [
-        {
-          "name": "Wolf People",
-          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
-        }
-      ],
-      "duration_ms": 418146,
-      "name": "Kingfisher",
-      "url": "https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "& I'm Fine Today",
         "url": "https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 218964,
       "name": "Far out Feeling",
       "url": "https://open.spotify.com/track/7cXOCT8IbMLFXiCeRExTJ6"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/71ujjjzO4U0ED11m2tVzKu"
+      },
+      "artists": [
+        {
+          "name": "Wolf People",
+          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
+        }
+      ],
+      "duration_ms": 418146,
+      "name": "Kingfisher",
+      "url": "https://open.spotify.com/track/4pG41oVPVexrDlwnvT2xtt"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Caught It from the Rye",
+        "url": "https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Real You",
+      "url": "https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 376618,
       "name": "Habbie Doobie",
       "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Caught It from the Rye",
-        "url": "https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Real You",
-      "url": "https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/0YCsUvfWmhU7Yuzc8nbJsq"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Keen",
+          "url": "https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA"
+        }
+      ],
+      "duration_ms": 221514,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/2e8mFEbOdFBVBlqmo6nas0"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Fanfare",
         "url": "https://open.spotify.com/album/0oFgCWCbCPdLcDBVblR65z"
       },
@@ -983,26 +999,6 @@
       "duration_ms": 234346,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/4e6RmWaibb8xQgda9JcWRf"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Window Flowers",
-        "url": "https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8"
-      },
-      "artists": [
-        {
-          "name": "Liz Cooper",
-          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
-        },
-        {
-          "name": "The Stampede",
-          "url": "https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7"
-        }
-      ],
-      "duration_ms": 236973,
-      "name": "Hey Man",
-      "url": "https://open.spotify.com/track/65wWFPx0DUi1QvRDAXxPsD"
     }
   ],
   "unique_name": "Psych & Groove",

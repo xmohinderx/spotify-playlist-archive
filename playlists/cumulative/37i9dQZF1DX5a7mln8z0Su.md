@@ -4,11 +4,11 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-208 songs - 11 hr 47 min
+210 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#mood](https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [\#mood](https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk) | 3:01 | 2022-05-11 |  |
+| [\#mood](https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [\#mood](https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk) | 3:01 | 2022-05-11 | 2023-02-01 |
 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 | 2022-07-08 |  |
 | [20MIN](https://open.spotify.com/track/4jKgaXcTdOX1tzv7z7Vno1) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 2:56 | 2022-05-11 | 2022-06-19 |
 | [28 DREAM](https://open.spotify.com/track/7Jj4ro3G9jFZFfr2S3C4yW) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [28 DREAM](https://open.spotify.com/album/0i0pzQQFJt6WJBvhfIay6z) | 4:10 | 2022-08-08 | 2022-08-14 |
@@ -87,6 +87,7 @@
 | [I can't sleep](https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [I can't sleep](https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ) | 3:22 | 2022-09-05 | 2022-10-15 |
 | [I don’t want to](https://open.spotify.com/track/5BCbtI9gGtE0vD2btEgDha) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [childhood of the sea](https://open.spotify.com/album/6azHgQ3LbUgkGXmYnAwtET) | 3:49 | 2022-05-11 | 2022-07-28 |
 | [I had a dream](https://open.spotify.com/track/4XExkAorTzzT1SZbwtM1Ua) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Drawing](https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF) | 2:46 | 2022-05-11 | 2022-07-28 |
+| [I Mean You](https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI) | [Diana](https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E) | [I Mean You](https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo) | 3:15 | 2023-02-01 |  |
 | [I thought it was love.](https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [I thought it was love.](https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW) | 4:00 | 2022-05-11 | 2022-11-07 |
 | [Ican'tfeelmaface](https://open.spotify.com/track/4R6g9qPlM0eE0w5Awr8PXR) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [every flower you gave me](https://open.spotify.com/album/3JRoq6nJRd2PyvKVhJj4TU) | 2:56 | 2022-05-11 | 2022-06-02 |
 | [If It's Not You](https://open.spotify.com/track/4fAXE9nsJzUaw4UFs2uvAy) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [If It's Not You](https://open.spotify.com/album/4KOaX6kkTP3SQ2emD2ir0P) | 2:59 | 2022-05-11 | 2022-07-19 |
@@ -96,6 +97,7 @@
 | [Just Chill](https://open.spotify.com/track/3qNeyEagP4606J5B61jHa3) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 3:25 | 2022-05-11 | 2022-06-04 |
 | [Kangaroo](https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Kangaroo](https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv) | 3:45 | 2022-05-11 |  |
 | [kibun \(feat\. vntermude\)](https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [vntermude](https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA) | [kibun \(feat\. vntermude\)](https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8) | 2:48 | 2022-05-11 |  |
+| [Last Night \(feat\. DD7\)](https://open.spotify.com/track/4Foe7qi4PvNYWDGT50Np8c) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [DD7](https://open.spotify.com/artist/0MR1fsOlxLYyx4CQaiM230) | [Last Night \(feat\. DD7\)](https://open.spotify.com/album/7JB7EethPMOt7poXCu6deW) | 3:04 | 2023-02-01 |  |
 | [laugh!](https://open.spotify.com/track/0IC3nbx1BJSbgtgBYJynmh) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [TWIST](https://open.spotify.com/album/5ZkAwSmcnVoPuR4ZbmXcaz) | 2:55 | 2022-06-09 | 2022-07-24 |
 | [layoff \(feat\. Churry\)](https://open.spotify.com/track/6Nw61ToXv3kwGyEOiobt3q) | [Layton](https://open.spotify.com/artist/2YQOlJnew5D6w1lWqIUBXE), [Churry](https://open.spotify.com/artist/1yhl1Sb604sZDyGavCdPUM) | [layoff](https://open.spotify.com/album/5Bd7lzlhF329D4gEHYBv69) | 3:49 | 2022-06-20 | 2022-06-30 |
 | [Leave](https://open.spotify.com/track/4AmbGf0dfkPzPgBChdl4Sg) | [ecru](https://open.spotify.com/artist/2WR7q33JG2pvMcfHr594Y1) | [Leave](https://open.spotify.com/album/1IoT9EPJG4bYJkdrMiAIHI) | 3:05 | 2022-07-08 | 2022-07-19 |
@@ -159,7 +161,7 @@
 | [Someone Like You](https://open.spotify.com/track/1rLepxqnfZrw7qSTe9b311) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Someone Like You](https://open.spotify.com/album/0qvJ0nfIEdUnlJ6bJPwN0M) | 3:20 | 2022-05-11 | 2022-07-28 |
 | [Something strange](https://open.spotify.com/track/2r7ijruKeijp52uW8pAPU5) | [Arttichoke](https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9) | [Tang Tang!](https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF) | 3:20 | 2022-06-13 | 2022-06-19 |
 | [Song of the rain](https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK) | [Bambiroyalprince](https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa) | [Song of the rain](https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn) | 3:34 | 2022-05-11 | 2022-10-25 |
-| [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 | 2022-08-12 |  |
+| [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 | 2022-08-12 | 2023-02-01 |
 | [Space science](https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Space science](https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM) | 3:53 | 2022-12-19 |  |
 | [Spanish Restaurant \(Prod\. Liquor well\)](https://open.spotify.com/track/5mxxj0aEeTNvo9N7JWJEhM) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i), [Liquor well](https://open.spotify.com/artist/3ganClcuZN3ZpNrTXJIMmx) | [Spanish Restaurant](https://open.spotify.com/album/5YC4Nrh2IZ8BFx1jjS5Ly9) | 2:48 | 2022-08-08 | 2022-08-12 |
 | [Still](https://open.spotify.com/track/0fHIlsdsb8iJOe6GmP6K11) | [Ronel](https://open.spotify.com/artist/7M9wuczqBCUOPAxaNNW413) | [Still](https://open.spotify.com/album/2r8zohA5aCMQyLyA43ATLL) | 3:47 | 2022-05-11 | 2022-07-26 |

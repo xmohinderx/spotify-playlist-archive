@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 28203,
+  "num_followers": 28513,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMDViZWQxNTUzZTIxY2FkODgwNGM5MzQzMzNjZjVkNWZj",
+  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMGNkZGE2NTIwNGU0MjAwZmU0YjAyMGMzOGNiYmQ1ZmZh",
   "tracks": [
     {
       "added_at": "2022-11-29 16:59:10",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "SugarCrash!",
-        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
-      },
-      "artists": [
-        {
-          "name": "ElyOtto",
-          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
-        }
-      ],
-      "duration_ms": 80080,
-      "name": "SugarCrash!",
-      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "#BrooklynBloodPop!",
         "url": "https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 145610,
       "name": "#BrooklynBloodPop!",
       "url": "https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "SugarCrash!",
+        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
+      },
+      "artists": [
+        {
+          "name": "ElyOtto",
+          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
+        }
+      ],
+      "duration_ms": 80080,
+      "name": "SugarCrash!",
+      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -199,6 +199,22 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "When I Rule the World",
+        "url": "https://open.spotify.com/album/2yqtOR8q6lSbLQp7Bka74v"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "When I Rule the World",
+      "url": "https://open.spotify.com/track/7nu0Lc0jJltztDxsGeoPiG"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "1000 gecs",
         "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
@@ -223,18 +239,18 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "When I Rule the World",
-        "url": "https://open.spotify.com/album/2yqtOR8q6lSbLQp7Bka74v"
+        "name": "cypress grove",
+        "url": "https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9"
       },
       "artists": [
         {
-          "name": "LIZ",
-          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 185813,
-      "name": "When I Rule the World",
-      "url": "https://open.spotify.com/track/7nu0Lc0jJltztDxsGeoPiG"
+      "duration_ms": 101938,
+      "name": "astrid",
+      "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -251,22 +267,6 @@
       "duration_ms": 197528,
       "name": "Flamingo",
       "url": "https://open.spotify.com/track/34TufQ4EFzmDIFXJ3A8Yau"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "cypress grove",
-        "url": "https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 101938,
-      "name": "astrid",
-      "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -319,30 +319,6 @@
       "duration_ms": 157903,
       "name": "fuckboy",
       "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 121681,
-      "name": "stupid horse",
-      "url": "https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -436,25 +412,9 @@
           "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
         }
       ],
-      "duration_ms": 143663,
-      "name": "ringtone",
-      "url": "https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 137751,
-      "name": "fwb",
-      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
+      "duration_ms": 121681,
+      "name": "stupid horse",
+      "url": "https://open.spotify.com/track/23Dapn8107GgxvXDIsPwWm"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -475,22 +435,6 @@
       "duration_ms": 144332,
       "name": "think abt it",
       "url": "https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "things with wings",
-        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 108363,
-      "name": "cheap liquor",
-      "url": "https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -519,6 +463,22 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "things with wings",
+        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 108363,
+      "name": "cheap liquor",
+      "url": "https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "Hello Kitty",
         "url": "https://open.spotify.com/album/4cbs7e96BjbFaKqafPA8ZR"
       },
@@ -531,6 +491,22 @@
       "duration_ms": 179541,
       "name": "Hello Kitty",
       "url": "https://open.spotify.com/track/2EZHO9OoxZoaBs669GtWZv"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 137751,
+      "name": "fwb",
+      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -567,24 +543,24 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "greenhouse",
-        "url": "https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj"
+        "name": "things with wings",
+        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
       },
       "artists": [
         {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
-      "duration_ms": 158096,
-      "name": "glittr",
-      "url": "https://open.spotify.com/track/5HqYfq9MfZAyP7RgPeA0vi"
+      "duration_ms": 175360,
+      "name": "victim",
+      "url": "https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF"
     },
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Doritos & Fritos",
-        "url": "https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC"
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
       },
       "artists": [
         {
@@ -600,9 +576,25 @@
           "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
         }
       ],
-      "duration_ms": 196896,
-      "name": "Doritos & Fritos",
-      "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
+      "duration_ms": 143663,
+      "name": "ringtone",
+      "url": "https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "greenhouse",
+        "url": "https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 158096,
+      "name": "glittr",
+      "url": "https://open.spotify.com/track/5HqYfq9MfZAyP7RgPeA0vi"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -623,22 +615,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "venus fly trap",
-        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "venus fly trap",
-      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "IRIS",
         "url": "https://open.spotify.com/album/6bauY7PwZaNP7NoXczbKBl"
       },
@@ -655,22 +631,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "things with wings",
-        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 175360,
-      "name": "victim",
-      "url": "https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "VYZEE",
         "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
       },
@@ -683,6 +643,22 @@
       "duration_ms": 202531,
       "name": "VYZEE",
       "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "venus fly trap",
+        "url": "https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "venus fly trap",
+      "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -739,18 +715,26 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Flamboyant",
-        "url": "https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn"
+        "name": "Doritos & Fritos",
+        "url": "https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC"
       },
       "artists": [
         {
-          "name": "Dorian Electra",
-          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
         }
       ],
-      "duration_ms": 197757,
-      "name": "Man To Man",
-      "url": "https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo"
+      "duration_ms": 196896,
+      "name": "Doritos & Fritos",
+      "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -771,6 +755,38 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "Flamboyant",
+        "url": "https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "duration_ms": 197757,
+      "name": "Man To Man",
+      "url": "https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 236937,
+      "name": "Faceshopping",
+      "url": "https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "Whatuworried4?",
         "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
       },
@@ -783,6 +799,26 @@
       "duration_ms": 155506,
       "name": "Whatuworried4?",
       "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "doing it wrong",
+        "url": "https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo"
+      },
+      "artists": [
+        {
+          "name": "oaf1",
+          "url": "https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu"
+        },
+        {
+          "name": "Dreamcache",
+          "url": "https://open.spotify.com/artist/55V12vVIemdvh4AYO9qCZa"
+        }
+      ],
+      "duration_ms": 147965,
+      "name": "doing it wrong",
+      "url": "https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -831,42 +867,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 236937,
-      "name": "Faceshopping",
-      "url": "https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "doing it wrong",
-        "url": "https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo"
-      },
-      "artists": [
-        {
-          "name": "oaf1",
-          "url": "https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu"
-        },
-        {
-          "name": "Dreamcache",
-          "url": "https://open.spotify.com/artist/55V12vVIemdvh4AYO9qCZa"
-        }
-      ],
-      "duration_ms": 147965,
-      "name": "doing it wrong",
-      "url": "https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "team edward",
         "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
       },
@@ -883,42 +883,18 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Be Your USA",
-        "url": "https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw"
+        "name": "BIPP",
+        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
       },
       "artists": [
         {
-          "name": "EASYFUN",
-          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
-        },
-        {
-          "name": "Iiris",
-          "url": "https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv"
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Be Your USA",
-      "url": "https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "I <3 Harajuku",
-        "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        },
-        {
-          "name": "Fraxiom",
-          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "I <3 Harajuku",
-      "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
+      "duration_ms": 224142,
+      "name": "BIPP",
+      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -943,6 +919,26 @@
       "duration_ms": 120754,
       "name": "Drama",
       "url": "https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "Be Your USA",
+        "url": "https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw"
+      },
+      "artists": [
+        {
+          "name": "EASYFUN",
+          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
+        },
+        {
+          "name": "Iiris",
+          "url": "https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Be Your USA",
+      "url": "https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -1023,22 +1019,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "BIPP",
-        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 224142,
-      "name": "BIPP",
-      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "movinglikeazombie (remix)",
         "url": "https://open.spotify.com/album/3Qsn28wKIcugGTZ6HnR0qR"
       },
@@ -1095,18 +1075,22 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "FREAK",
-        "url": "https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF"
+        "name": "I <3 Harajuku",
+        "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
       },
       "artists": [
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
         }
       ],
-      "duration_ms": 167000,
-      "name": "FREAK",
-      "url": "https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI"
+      "duration_ms": 146938,
+      "name": "I <3 Harajuku",
+      "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -1123,6 +1107,22 @@
       "duration_ms": 202391,
       "name": "Of Course I Still Love You",
       "url": "https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "FREAK",
+        "url": "https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
+        "name": "Drive-By Lullabies",
+        "url": "https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 182386,
+      "name": "from paris, with love",
+      "url": "https://open.spotify.com/track/0OVFw7McsuYnBlRJXEh76b"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
         "name": "PC Music, Vol. 1",
         "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 159813,
       "name": "Kyoto (Glitch Gum Remix)",
       "url": "https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
-        "name": "Drive-By Lullabies",
-        "url": "https://open.spotify.com/album/1hDfBlpAsyIp1uNScacRwp"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 182386,
-      "name": "from paris, with love",
-      "url": "https://open.spotify.com/track/0OVFw7McsuYnBlRJXEh76b"
     },
     {
       "added_at": "2022-11-29 16:59:10",

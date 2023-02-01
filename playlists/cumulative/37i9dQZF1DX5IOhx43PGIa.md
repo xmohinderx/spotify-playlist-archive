@@ -4,11 +4,12 @@
 
 > Illuminating Asian artists everywhere\. Cover: XG.
 
-372 songs - 19 hr 33 min
+373 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 | 2022-05-27 |  |
+| [440hz \(feat\. Daichi Yamamoto x Koh\)](https://open.spotify.com/track/1bWEsD4W8gClixY0NpZh91) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb) | [A440](https://open.spotify.com/album/2xTFImWVQRC1PfDMCOxwwe) | 4:27 | 2023-01-27 |  |
 | [90s American Superstar](https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [90s American Superstar](https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc) | 2:19 | 2022-09-23 | 2022-10-08 |
 | [A Thousand Cuts \(Spotify Singles\) \- Remix](https://open.spotify.com/track/5CSJmUUVg21L8xb71UKMnI) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Ann One](https://open.spotify.com/artist/0gbdUzudCwdzxynH0YSqhI), [AJ Rafael](https://open.spotify.com/artist/4zrB9WV6Z0iKKnGb1Pj0P2) | [Spotify Singles](https://open.spotify.com/album/14V4tjh2spbCj7L4txtEY1) | 4:29 | 2022-05-27 | 2022-07-07 |
 | [Adieu](https://open.spotify.com/track/0KesTnAAzyzFj3jNaZ9X6l) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [5am and I Can't Sleep](https://open.spotify.com/album/6J6UNR6FsyzDamCimQC9W6) | 2:39 | 2022-05-27 | 2023-01-14 |
@@ -262,7 +263,7 @@
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-19 | 2022-09-20 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-16 |  |
 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 | 2022-08-19 |  |
-| [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 | 2022-09-02 |  |
+| [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 | 2022-09-02 | 2023-02-01 |
 | [Please Baby Please](https://open.spotify.com/track/06V3aHH7fDSqHQMQhGPoBD) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Please Baby Please](https://open.spotify.com/album/0RLuLmUup2sbIVKwMfKpVx) | 3:31 | 2022-05-27 | 2022-08-13 |
 | [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 | 2022-07-22 | 2022-08-27 |
 | [prologue](https://open.spotify.com/track/2CIe5Uv5DAXdozg8zj8VMn) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [okhissa](https://open.spotify.com/artist/3i1USTaXHzTXXET7iT7KeQ) | [prologue](https://open.spotify.com/album/6TtNPXL5qZCzMlamYm4fmU) | 3:20 | 2022-05-27 | 2022-07-29 |

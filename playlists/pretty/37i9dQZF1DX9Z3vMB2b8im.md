@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,290,975 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,291,066 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 2 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 |
 | 3 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 |
-| 4 | [ur so pretty](https://open.spotify.com/track/0MIiqne6YsbsDz4z9MGA2K) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/2MLGMYV56ySz3AZShc92L1) | 2:12 |
+| 4 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 |
 | 5 | [Stray Dog](https://open.spotify.com/track/53wF0QyUtZZPr0ICH2YbDE) | [R.D\. Thomas](https://open.spotify.com/artist/1Gm0PlcJyn8iJmip82nnwq) | [What Circus Is This?](https://open.spotify.com/album/7v5ysOTgTm5Oe7VmIFxwNM) | 2:59 |
 | 6 | [The Art Of Letting You Go](https://open.spotify.com/track/5p86enU64v23LqQQvuHI0u) | [Ewan J Phillips](https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N) | [The Art Of Letting You Go](https://open.spotify.com/album/1eM98YrNz3gwLsnMrvFBHU) | 3:33 |
 | 7 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 79 | [Hostages \- Alternate](https://open.spotify.com/track/2nb3ZHHRzwa1bq0UpTWSoY) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hostages \(Alternate\)](https://open.spotify.com/album/0Xd9rEkK9lzqauqoMDx1s7) | 4:21 |
 | 80 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 |
 
-Snapshot ID: `MTY3MzAyMjUyMCwwMDAwMDAwMDAzNDhmMmNmYzNlYmE5NWFiMGIwZDcyMWU3ODE0ZDVm`
+Snapshot ID: `MTY3MzAyMjUyMCwwMDAwMDAwMGZiZWI0NjY0ZDJkYjU3YTYxOWYyNDJhOTMyYWI3ZmU1`

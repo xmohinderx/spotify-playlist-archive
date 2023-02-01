@@ -81,6 +81,32 @@
     },
     {
       "album": {
+        "name": "A Model of Reality Reworks",
+        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        },
+        {
+          "name": "Kotomi",
+          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
+        },
+        {
+          "name": "Aonian",
+          "url": "https://open.spotify.com/artist/0irfc5RmuSG3wGYtVOXdJi"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "A Model Of Reality - Aonian Remix",
+      "url": "https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA"
+    },
+    {
+      "album": {
         "name": "Kasper Bj\u00f8rke Quartet: Abiogenesis",
         "url": "https://open.spotify.com/album/3QcNobksry2yytTgmxFq36"
       },
@@ -724,7 +750,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 268555,
       "name": "Dango - Colloid Version",
       "url": "https://open.spotify.com/track/29MBtrRzSGCnns9CPycR0C"
@@ -826,6 +852,24 @@
       "duration_ms": 185557,
       "name": "Dots",
       "url": "https://open.spotify.com/track/0vaI72djhPZn4qH2zjZNmL"
+    },
+    {
+      "album": {
+        "name": "Dreamchild",
+        "url": "https://open.spotify.com/album/00Wj5Pefdv1vohBqX8zjFG"
+      },
+      "artists": [
+        {
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174346,
+      "name": "Dreamchild",
+      "url": "https://open.spotify.com/track/5PG5banaDkXJ4bUnGeMC6B"
     },
     {
       "album": {
@@ -1088,7 +1132,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 184973,
       "name": "Fur & Feather",
       "url": "https://open.spotify.com/track/1V9na2MEGjOajhK1fTJRpS"
@@ -1977,6 +2021,28 @@
     },
     {
       "album": {
+        "name": "Pray for Us",
+        "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
+      },
+      "artists": [
+        {
+          "name": "Kisel\u0451k",
+          "url": "https://open.spotify.com/artist/0GALZnNXOQ3u2H5csY5iKz"
+        },
+        {
+          "name": "SymphoCat",
+          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292605,
+      "name": "Pray for Us",
+      "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
+    },
+    {
+      "album": {
         "name": "One Day, You Will Reach The Sea (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Y1GYcORlM7pB0QFWQEjEL"
       },
@@ -2578,7 +2644,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 250903,
       "name": "what's on the inside",
       "url": "https://open.spotify.com/track/0M3qSerO5fBuimM3wghYX5"

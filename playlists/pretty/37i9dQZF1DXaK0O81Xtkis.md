@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: JORDY
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,395 likes - 90 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,451 likes - 90 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 56 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 |
 | 57 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 |
 | 58 | [Help \(feat\. Pheelz\)](https://open.spotify.com/track/288aAe5WOx05x67lDxvuTE) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Help \(feat\. Pheelz\)](https://open.spotify.com/album/5xKdduUE9fNJW743rjCJib) | 2:43 |
-| 59 | [Again](https://open.spotify.com/track/6ZZntgtMvygJgfnzkpiklv) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Again](https://open.spotify.com/album/0UnB3RhLhRaVjSYS6wDyfp) | 3:25 |
+| 59 | [Again](https://open.spotify.com/track/0Eef5uHiJVJO0nt4Zo4QCd) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Sting](https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet) | 3:25 |
 | 60 | [Less From You](https://open.spotify.com/track/56kvCYeCBppVYIGxmG6kB1) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [Less From You](https://open.spotify.com/album/7plv2gnX70AG4jFTvkibcW) | 3:42 |
 | 61 | [Silver Tongues](https://open.spotify.com/track/1nMglHq7NFuRLmKizMQajB) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Silver Tongues](https://open.spotify.com/album/1uGtR2fbkl45slG5OyUtPt) | 3:25 |
 | 62 | [Fake It](https://open.spotify.com/track/3pKCMnO0A36oKIEIbknixC) | [SIIGHTS](https://open.spotify.com/artist/59wzcVw9vvQvKIEHddgF7n) | [Fake It](https://open.spotify.com/album/2nk5HLphr2POdEPUwpwSVy) | 3:09 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 89 | [Love You When You’re Gone](https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd) | 3:04 |
 | 90 | [moshpit](https://open.spotify.com/track/5LIwaCUAPW3ugjQ5ls3Fxs) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:38 |
 
-Snapshot ID: `MTY3NDc5NTc2NiwwMDAwMDAwMDEwZGNkNDc5OTM1MGZiNDhkYmVlY2VkNjBkOGFkMjhi`
+Snapshot ID: `MTY3NDc5NTc2NiwwMDAwMDAwMDE0OTY3YzI5MmU3MWQ5OWNjZjQyZTYzNWM2ZTY0Yzhi`

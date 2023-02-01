@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Catch the amazing South Asian artists with Raja Kumari.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,273 likes - 38 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,363 likes - 38 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 |
 | 2 | [Pardesi](https://open.spotify.com/track/0azDXr0cxe2lePuQgsSxRa) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Jay Psar](https://open.spotify.com/artist/2FXSYpIIZhJ260UvGZN8wr) | [Pardesi](https://open.spotify.com/album/0wCSc43ppzINWPUnJEyzsu) | 2:45 |
-| 3 | [Out of Love](https://open.spotify.com/track/6x4fJlgsoGqklYyMQN7vLN) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Out of Love](https://open.spotify.com/album/1bv1UnuDeOnL6odVRPJksM) | 3:17 |
+| 3 | [Out of Love](https://open.spotify.com/track/6x4fJlgsoGqklYyMQN7vLN) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Ammy Gill](https://open.spotify.com/artist/1NoTBZs4sL9RD5taUdv1Kh) | [Out of Love](https://open.spotify.com/album/1bv1UnuDeOnL6odVRPJksM) | 3:17 |
 | 4 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 |
 | 5 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 |
 | 6 | [French Exchange](https://open.spotify.com/track/1HBnI45a7E4WB8n5zRGnHE) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp) | [French Exchange](https://open.spotify.com/album/0xbaedIMdZ8JiasTRHbJAc) | 2:46 |

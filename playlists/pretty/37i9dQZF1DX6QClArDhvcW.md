@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > Laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,312 likes - 200 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,418 likes - 200 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Tangueros - Rockeros, Rockeros - Tangueros.",
-  "num_followers": 20946,
+  "num_followers": 20976,
   "original_name": "Tango Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA5NDkzOCwwMDAwMDAwMDkyOGE1YTFkZTEzYzAwNmI1OThiMjE3NzI3ODhjYWUw",
+  "snapshot_id": "MTY1NjA5NDkzOCwwMDAwMDAwMDgyNWRkOTkxOTVhNGFjZjUyZWI3YzI0ODZhYTEyZGUz",
   "tracks": [
     {
       "added_at": "2022-06-24 18:22:18",
@@ -259,58 +259,6 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/7e9eBk99v3kYbGO79ZKKVz"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        },
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Gricel",
-      "url": "https://open.spotify.com/track/5L32suuyXCkGrpaZNAXxEY"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 247821,
-      "name": "Tango del Diablo",
-      "url": "https://open.spotify.com/track/7omc6Ocnzf15amA904VsaO"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
-        "name": "Tinta roja",
-        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 243986,
-      "name": "Nostalgias",
-      "url": "https://open.spotify.com/track/6pexRB1QZYbsUCQkwWpA42"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
         "name": "Mar Dulce",
         "url": "https://open.spotify.com/album/1tEqTQTkgGkvQBIQZzggFA"
       },
@@ -331,6 +279,26 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/7e9eBk99v3kYbGO79ZKKVz"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        },
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Gricel",
+      "url": "https://open.spotify.com/track/5L32suuyXCkGrpaZNAXxEY"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
         "name": "Se\u00f1ales",
         "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
       },
@@ -343,6 +311,22 @@
       "duration_ms": 141893,
       "name": "Desencuentro",
       "url": "https://open.spotify.com/track/2mQRs9iO7qI0F0r2FTXw74"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 247821,
+      "name": "Tango del Diablo",
+      "url": "https://open.spotify.com/track/7omc6Ocnzf15amA904VsaO"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -383,6 +367,22 @@
       "duration_ms": 221934,
       "name": "Chiquil\u00edn de Bach\u00edn",
       "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "Tinta roja",
+        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 243986,
+      "name": "Nostalgias",
+      "url": "https://open.spotify.com/track/6pexRB1QZYbsUCQkwWpA42"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -435,22 +435,6 @@
       "duration_ms": 278133,
       "name": "Por Una Cabeza",
       "url": "https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 147093,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/4fpCB6Xu0cs8kBDFWb15iW"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -539,6 +523,22 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 147093,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/4fpCB6Xu0cs8kBDFWb15iW"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Tinta roja",
-        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 198959,
-      "name": "Mano a mano",
-      "url": "https://open.spotify.com/track/1AqNn5SBTndUxzCqFI6brK"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
         "name": "Avellaneda",
         "url": "https://open.spotify.com/album/49Xq9ybXE17iQoJox5qegK"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 279706,
       "name": "La Despedida (feat. Fito P\u00e1ez & Paula Pomeraniek)",
       "url": "https://open.spotify.com/track/3p9ebspnr6evao7kZ99BpH"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "Menesunda: Tangolencia Rockera",
+        "url": "https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf"
+      },
+      "artists": [
+        {
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+        }
+      ],
+      "duration_ms": 142253,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Menesunda: Tangolencia Rockera",
-        "url": "https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf"
-      },
-      "artists": [
-        {
-          "name": "Cucuza Castiello",
-          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
-        }
-      ],
-      "duration_ms": 142253,
-      "name": "Im\u00e1genes Paganas",
-      "url": "https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng"
-    },
-    {
-      "added_at": "2022-06-24 18:22:18",
-      "album": {
         "name": "Porque Canto Asi",
         "url": "https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Maldito Tango",
-        "url": "https://open.spotify.com/album/3lqGBKTp87k7kJ7VeR76r1"
+        "name": "Tinta roja",
+        "url": "https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS"
       },
       "artists": [
         {
-          "name": "Melingo",
-          "url": "https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 216066,
-      "name": "En Un Bondi Color Humo",
-      "url": "https://open.spotify.com/track/0mbnoXmzOtn4oAl5bJIaDV"
+      "duration_ms": 198959,
+      "name": "Mano a mano",
+      "url": "https://open.spotify.com/track/1AqNn5SBTndUxzCqFI6brK"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -707,6 +691,22 @@
       "duration_ms": 195704,
       "name": "Laura Va",
       "url": "https://open.spotify.com/track/5caXGav3sqgWv6UWbOyxzr"
+    },
+    {
+      "added_at": "2022-06-24 18:22:18",
+      "album": {
+        "name": "Maldito Tango",
+        "url": "https://open.spotify.com/album/3lqGBKTp87k7kJ7VeR76r1"
+      },
+      "artists": [
+        {
+          "name": "Melingo",
+          "url": "https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI"
+        }
+      ],
+      "duration_ms": 216066,
+      "name": "En Un Bondi Color Humo",
+      "url": "https://open.spotify.com/track/0mbnoXmzOtn4oAl5bJIaDV"
     },
     {
       "added_at": "2022-06-24 18:22:18",
@@ -763,18 +763,22 @@
     {
       "added_at": "2022-06-24 18:22:18",
       "album": {
-        "name": "Ritual Criollo",
-        "url": "https://open.spotify.com/album/0bt7q9mBdN06EQhDj0pEBt"
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
       "artists": [
         {
-          "name": "Palo Pandolfo",
-          "url": "https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf"
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Fernando Ruiz Diaz",
+          "url": "https://open.spotify.com/artist/4DqWhVhkmy4QC5d32i591c"
         }
       ],
-      "duration_ms": 106693,
-      "name": "Turbias Golondrinas",
-      "url": "https://open.spotify.com/track/7b1E5XfeVSYRTILXCeIvnR"
+      "duration_ms": 231538,
+      "name": "Milonga de la Anunciaci\u00f3n",
+      "url": "https://open.spotify.com/track/36h5l8FAbtSkVodxPOA8Qt"
     }
   ],
   "unique_name": "Tango Rock",

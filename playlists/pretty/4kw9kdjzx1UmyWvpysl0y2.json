@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127149,
+  "num_followers": 127131,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzk0NSwxNmJlZWZkODE0NzU2ZWY3MDVkMTAxN2Q3MWY0ZDQxNmNiZTIzMTc0",
+  "snapshot_id": "Mzk1MSxmODM2MjY4NjZkOGZhOGY2OTZkZjhiNmJkOTJmYjk5NmE0ZDE2NDA1",
   "tracks": [
+    {
+      "added_at": "2023-01-31 21:55:03",
+      "album": {
+        "name": "Every Little Thing",
+        "url": "https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ"
+      },
+      "artists": [
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc"
+    },
+    {
+      "added_at": "2023-01-31 21:50:02",
+      "album": {
+        "name": "Hit My Line",
+        "url": "https://open.spotify.com/album/1jsCz6z1vazhH54A8z88gS"
+      },
+      "artists": [
+        {
+          "name": "SKYLER",
+          "url": "https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9"
+        }
+      ],
+      "duration_ms": 155160,
+      "name": "Hit My Line",
+      "url": "https://open.spotify.com/track/30CCIjlZ9vSb6ZTDwlEUZX"
+    },
     {
       "added_at": "2023-01-27 17:15:17",
       "album": {
@@ -1107,38 +1139,6 @@
       "duration_ms": 219250,
       "name": "Cyan",
       "url": "https://open.spotify.com/track/0o4GFEcDdhbfGruMLIPOKV"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "We Made It",
-        "url": "https://open.spotify.com/album/3AOoItOGEvBVpqtWGHTjtZ"
-      },
-      "artists": [
-        {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/5GRM663KWRMOo3OOcGsSlP"
-    },
-    {
-      "added_at": "2022-11-21 22:52:33",
-      "album": {
-        "name": "GALACTICAL",
-        "url": "https://open.spotify.com/album/5jcrnkIRwz5yx6dodjzUTa"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 275156,
-      "name": "GALACTICAL",
-      "url": "https://open.spotify.com/track/3fRF3qz1d8f6Sx2dnhPUZZ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -1,12 +1,12 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
-  "num_followers": 560808,
+  "num_followers": 561195,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDI5NzQ1MywwMDAwMDAwMGI3NTU1MDllZjUxZjA1MzVlYjc4Mzg3NDExMTM2MGFh",
+  "snapshot_id": "MTYzNDI5NzQ1MywwMDAwMDAwMDYxMTI4YWIzN2VkMmE2NGMwYTg2MGJlMzI5ZDc1Yzc1",
   "tracks": [
     {
       "added_at": "2021-10-15 11:30:53",
@@ -43,18 +43,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "duration_ms": 349586,
-      "name": "O Come to the Altar (Live)",
-      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
+      "duration_ms": 206400,
+      "name": "Nobody (feat. Matthew West)",
+      "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -91,22 +95,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        },
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Nobody (feat. Matthew West)",
-      "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
+      "duration_ms": 349586,
+      "name": "O Come to the Altar (Live)",
+      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -563,18 +563,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Keep Me In The Moment (Radio Version)",
-        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
+        "name": "Changed",
+        "url": "https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx"
       },
       "artists": [
         {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
         }
       ],
-      "duration_ms": 207432,
-      "name": "Keep Me In The Moment - Radio Version",
-      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
+      "duration_ms": 181733,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/6sToW2vF0y8ZEXuHoMQob9"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -595,18 +595,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Changed",
-        "url": "https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx"
+        "name": "Keep Me In The Moment (Radio Version)",
+        "url": "https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G"
       },
       "artists": [
         {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 181733,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/6sToW2vF0y8ZEXuHoMQob9"
+      "duration_ms": 207432,
+      "name": "Keep Me In The Moment - Radio Version",
+      "url": "https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -623,6 +623,22 @@
       "duration_ms": 217809,
       "name": "Exit Us",
       "url": "https://open.spotify.com/track/3lKfNyhGrF2z6peiXtUx1m"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Living Hope",
+      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -663,18 +679,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+        "name": "Devil Is A Liar",
+        "url": "https://open.spotify.com/album/5kT3QNv411H3VlALarhLnC"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
         }
       ],
-      "duration_ms": 327000,
-      "name": "Living Hope",
-      "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+      "duration_ms": 174438,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/7u67t6j872bK1tDbMUjnMz"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -695,18 +711,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Devil Is A Liar",
-        "url": "https://open.spotify.com/album/5kT3QNv411H3VlALarhLnC"
+        "name": "To Love a Fool",
+        "url": "https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH"
       },
       "artists": [
         {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 174438,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/7u67t6j872bK1tDbMUjnMz"
+      "duration_ms": 245740,
+      "name": "The Father\u2019s House",
+      "url": "https://open.spotify.com/track/7jrsM2LoAP1bSbtp2tZDIY"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -727,6 +743,22 @@
       "duration_ms": 331613,
       "name": "Eye of the Storm (feat. Gabe Real)",
       "url": "https://open.spotify.com/track/6RSBBvhrP0KvkpaUSMPI11"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 218665,
+      "name": "You've Always Been",
+      "url": "https://open.spotify.com/track/7s2AninaWICPPvch6wBctw"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -755,38 +787,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 218665,
-      "name": "You've Always Been",
-      "url": "https://open.spotify.com/track/7s2AninaWICPPvch6wBctw"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "To Love a Fool",
-        "url": "https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 245740,
-      "name": "The Father\u2019s House",
-      "url": "https://open.spotify.com/track/7jrsM2LoAP1bSbtp2tZDIY"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Faithful",
         "url": "https://open.spotify.com/album/6AfVe2fUexeUZjPb0LFXg7"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 284422,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/0sw4u9EcSC2E6rtCCdglHZ"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "inhale (exhale)",
-        "url": "https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 245424,
-      "name": "Almost Home",
-      "url": "https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -835,50 +819,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Love Remains",
-        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+        "name": "inhale (exhale)",
+        "url": "https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV"
       },
       "artists": [
         {
-          "name": "Hillary Scott & The Scott Family",
-          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Thy Will",
-      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 265377,
-      "name": "Endless Alleluia",
-      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "God So Loved",
-      "url": "https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt"
+      "duration_ms": 245424,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -895,6 +847,38 @@
       "duration_ms": 187293,
       "name": "Broken Things",
       "url": "https://open.spotify.com/track/4v8GJxLdvUiN7R31cKcmNL"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Love Remains",
+        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+      },
+      "artists": [
+        {
+          "name": "Hillary Scott & The Scott Family",
+          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Thy Will",
+      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "God So Loved",
+      "url": "https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -919,34 +903,34 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
       },
       "artists": [
         {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
         }
       ],
-      "duration_ms": 197946,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp"
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
     },
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
       },
       "artists": [
         {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 179366,
-      "name": "In The House",
-      "url": "https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky"
+      "duration_ms": 205800,
+      "name": "Love Moved First",
+      "url": "https://open.spotify.com/track/4vkeAHQBXmUTgMOfaT94CR"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -975,6 +959,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 179366,
+      "name": "In The House",
+      "url": "https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "The Story's Not Over",
         "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Love Moved First",
-      "url": "https://open.spotify.com/track/4vkeAHQBXmUTgMOfaT94CR"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Followers",
         "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 248733,
       "name": "Control (Somehow You Want Me)",
       "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1051,6 +1051,22 @@
       "duration_ms": 320173,
       "name": "Peace Be Still",
       "url": "https://open.spotify.com/track/4epvekncJds5DpsOOjBT9B"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Haven't Seen It Yet",
+        "url": "https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 244066,
+      "name": "Haven't Seen It Yet",
+      "url": "https://open.spotify.com/track/1JVefYHGnKd8ZjyaqWmTpz"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Haven't Seen It Yet",
-        "url": "https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 244066,
-      "name": "Haven't Seen It Yet",
-      "url": "https://open.spotify.com/track/1JVefYHGnKd8ZjyaqWmTpz"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Trial & Triumph",
         "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
       },
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
       },
       "artists": [
         {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "duration_ms": 203070,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/0MWxVd7Hk952psJoL249TT"
+      "duration_ms": 225560,
+      "name": "Mercy Is A Song",
+      "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 203070,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/0MWxVd7Hk952psJoL249TT"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "God Is Good",
         "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
       },
@@ -1199,70 +1215,6 @@
       "duration_ms": 197800,
       "name": "God Is Good",
       "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 199531,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Mercy Is A Song",
-      "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 276574,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/5nUzRHDvRYqRcOlVWg67Di"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Best News Ever",
-      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1283,6 +1235,38 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 199531,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 276574,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/5nUzRHDvRYqRcOlVWg67Di"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Same God",
         "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
+      "duration_ms": 179120,
+      "name": "Best News Ever",
+      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1331,22 +1315,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Followers",
-        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
-      },
-      "artists": [
-        {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "I Have This Hope",
-      "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Holy Roar",
         "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
       },
@@ -1363,18 +1331,18 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Haven't Seen It Yet",
-        "url": "https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
       },
       "artists": [
         {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 235760,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI"
+      "duration_ms": 214573,
+      "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1391,6 +1359,54 @@
       "duration_ms": 432640,
       "name": "I Am Loved",
       "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "I Have This Hope",
+      "url": "https://open.spotify.com/track/5ELZpvTDGorz9BIE9zaBoZ"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Milk & Honey",
+        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 226300,
+      "name": "He Is",
+      "url": "https://open.spotify.com/track/1INYG1Ln9PE0F1QHTjMzzO"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Haven't Seen It Yet",
+        "url": "https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 235760,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1423,22 +1439,6 @@
       "duration_ms": 255160,
       "name": "Come To the Table",
       "url": "https://open.spotify.com/track/2gdSplXjHbjMMfLcwl3Nku"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Milk & Honey",
-        "url": "https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 226300,
-      "name": "He Is",
-      "url": "https://open.spotify.com/track/1INYG1Ln9PE0F1QHTjMzzO"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
+        "name": "Made to Fly",
+        "url": "https://open.spotify.com/album/16ugRESDhHdmmc3xxakT7c"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 224910,
+      "name": "Made to Fly",
+      "url": "https://open.spotify.com/track/01ynxhBoTGfbPtsVg2G0Fs"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
       },
@@ -1579,6 +1595,26 @@
       "duration_ms": 242432,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "Over And Over",
+        "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/5AjM1AF3Gy3W5Mr4ZG7zgI"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1599,38 +1635,6 @@
       "duration_ms": 209840,
       "name": "Let It Rain (Is There Anybody)",
       "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "New Today",
-        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 200093,
-      "name": "New Today",
-      "url": "https://open.spotify.com/track/4oOSKLUsqd2N0tHhV6LyuP"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
-        "name": "Made to Fly",
-        "url": "https://open.spotify.com/album/16ugRESDhHdmmc3xxakT7c"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 224910,
-      "name": "Made to Fly",
-      "url": "https://open.spotify.com/track/01ynxhBoTGfbPtsVg2G0Fs"
     },
     {
       "added_at": "2021-10-15 11:30:53",
@@ -1659,26 +1663,6 @@
     {
       "added_at": "2021-10-15 11:30:53",
       "album": {
-        "name": "Over And Over",
-        "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Over And Over",
-      "url": "https://open.spotify.com/track/5AjM1AF3Gy3W5Mr4ZG7zgI"
-    },
-    {
-      "added_at": "2021-10-15 11:30:53",
-      "album": {
         "name": "Echoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 226866,
       "name": "Your Love Defends Me",
       "url": "https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu"
+    },
+    {
+      "added_at": "2021-10-15 11:30:53",
+      "album": {
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 200093,
+      "name": "New Today",
+      "url": "https://open.spotify.com/track/4oOSKLUsqd2N0tHhV6LyuP"
     }
   ],
   "unique_name": "Christian Mix",

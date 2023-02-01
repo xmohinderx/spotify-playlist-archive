@@ -3782,7 +3782,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 178453,
       "name": "Nxde",
       "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
@@ -4966,7 +4966,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 186570,
       "name": "Sugar Rush Ride",
       "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
@@ -6332,7 +6332,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 251501,
       "name": "\u4ece\u524d\u8bf4",
       "url": "https://open.spotify.com/track/1GpbSYjurHKlxhcxCZ1Bqa"
@@ -7512,7 +7512,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 203221,
       "name": "\u5c31\u5fd8\u4e86\u5427",
       "url": "https://open.spotify.com/track/0l6w3GsvjJWdZHs3eXTjuL"
@@ -7722,7 +7722,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 216607,
       "name": "\u60f3\u592a\u591a",
       "url": "https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ"
@@ -9336,6 +9336,24 @@
       "duration_ms": 254204,
       "name": "\u7a31\u8077",
       "url": "https://open.spotify.com/track/4rGmfL85pgfnInGd7TWGoN"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30ea\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
+      },
+      "artists": [
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286000,
+      "name": "\u7b2c\u30bc\u30ed\u611f",
+      "url": "https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh"
     },
     {
       "album": {

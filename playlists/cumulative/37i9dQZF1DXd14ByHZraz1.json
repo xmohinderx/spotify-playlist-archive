@@ -214,10 +214,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 185806,
       "name": "Beat, Slow, Check",
       "url": "https://open.spotify.com/track/2FvSLbaOuopFsY2ZUaJPX1"
+    },
+    {
+      "album": {
+        "name": "Beat, Slow, Check",
+        "url": "https://open.spotify.com/album/1EdGMNwdiGuM8Qn6GYm69H"
+      },
+      "artists": [
+        {
+          "name": "Groove Delight",
+          "url": "https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Beat, Slow, Check",
+      "url": "https://open.spotify.com/track/6wTbJIaTtp14XhndssikxH"
     },
     {
       "album": {

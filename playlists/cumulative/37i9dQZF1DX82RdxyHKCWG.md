@@ -4,7 +4,7 @@
 
 > As novidades e estrelas do pop que estão explodindo no Spotify\. ✨ Foto: Chlöe
 
-432 songs - 22 hr 13 min
+433 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Only You](https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You](https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg) | 3:15 | 2022-10-14 | 2022-11-05 |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2022-05-23 | 2022-12-10 |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2022-05-23 | 2022-12-03 |
+| [Pantera](https://open.spotify.com/track/6SgwJ1u5mkWWCG3Cvw11x8) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [Pantera](https://open.spotify.com/album/5QStCkR4isxn3C9HPJXGe0) | 2:07 | 2023-02-01 |  |
 | [PANTIES Y BRASIERES](https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [PANTIES Y BRASIERES](https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf) | 3:17 | 2023-01-27 |  |
 | [Party Everyday](https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Party Everyday](https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L) | 2:17 | 2022-05-23 | 2022-09-10 |
 | [pessoa certa hora errada](https://open.spotify.com/track/0Rq7EzwIvsVqPPUNM3M4as) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [pessoa certa hora errada](https://open.spotify.com/album/7fdrjXirtCLGb1l9oX9psZ) | 2:44 | 2022-05-23 | 2022-08-20 |

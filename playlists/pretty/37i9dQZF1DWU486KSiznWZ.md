@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: اميمة طالب
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,971 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,114 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 |
-| 2 | [مليون مرة](https://open.spotify.com/track/57sUOJMuLSA85ru2ewTgbB) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX), [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [مليون مرة](https://open.spotify.com/album/01agi93fzsZrICOs1b8G6a) | 4:38 |
-| 3 | [الفين باب](https://open.spotify.com/track/3quHorw9IRJWtWaZKpl6I1) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [الفين باب](https://open.spotify.com/album/2dDhZcyv8bmPbpbJlX4QSh) | 4:45 |
-| 4 | [Mani Qader](https://open.spotify.com/track/1lJhnoFUqtSkK2BkrxrDVE) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Mani Qader](https://open.spotify.com/album/70j5jro09TU8NtTscyxEyY) | 3:32 |
+| 1 | [الفين باب](https://open.spotify.com/track/3quHorw9IRJWtWaZKpl6I1) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [الفين باب](https://open.spotify.com/album/2dDhZcyv8bmPbpbJlX4QSh) | 4:45 |
+| 2 | [Ela Allah](https://open.spotify.com/track/4ZXyL4LC6u9QmBNERbGyBJ) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ela Allah](https://open.spotify.com/album/4I9pP9LCXwvUeYssukoqGc) | 4:04 |
+| 3 | [Mani Qader](https://open.spotify.com/track/1lJhnoFUqtSkK2BkrxrDVE) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Mani Qader](https://open.spotify.com/album/70j5jro09TU8NtTscyxEyY) | 3:32 |
+| 4 | [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 |
 | 5 | [Yeheb Al Bard](https://open.spotify.com/track/1MF7i7rhvphEq4QQr3fajo) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Yeheb Al Bard](https://open.spotify.com/album/4fw97akgChztlsTIgfFm6m) | 3:53 |
 | 6 | [Haddy Nafsak](https://open.spotify.com/track/5EeZSRaCnXiLPaxlAKXyAN) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Rabeh Saqer 2022](https://open.spotify.com/album/1S54dgimOLppLTB38OokOW) | 4:52 |
-| 7 | [Taaal](https://open.spotify.com/track/3Co2k0LgcbC1DbHjK5Yi2C) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [Fahad Al Kubaisi 2023](https://open.spotify.com/album/39ekNzwwvkL73wYrxSslhq) | 5:15 |
-| 8 | [Yalghair](https://open.spotify.com/track/0euUlVRj9fSXSFkpmTM50j) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [AlNeskha AlJadeeda](https://open.spotify.com/album/2Ri8hAF6UfEkpRN5Bc5Kxu) | 2:49 |
-| 9 | [Tejene \(2\)](https://open.spotify.com/track/5KnVP62QZhBeViSV0JUVmU) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:01 |
+| 7 | [مليون مرة](https://open.spotify.com/track/57sUOJMuLSA85ru2ewTgbB) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX), [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [مليون مرة](https://open.spotify.com/album/01agi93fzsZrICOs1b8G6a) | 4:38 |
+| 8 | [Taaal](https://open.spotify.com/track/3Co2k0LgcbC1DbHjK5Yi2C) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [Fahad Al Kubaisi 2023](https://open.spotify.com/album/39ekNzwwvkL73wYrxSslhq) | 5:15 |
+| 9 | [Yalghair](https://open.spotify.com/track/0euUlVRj9fSXSFkpmTM50j) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [AlNeskha AlJadeeda](https://open.spotify.com/album/2Ri8hAF6UfEkpRN5Bc5Kxu) | 2:49 |
 | 10 | [Bterjaa](https://open.spotify.com/track/0sWkcDktCKYnD47wq1aeto) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Turki \- Tarek Mohammed](https://open.spotify.com/album/5sZ2lDQNAQHKEFUVXXanVL) | 3:40 |
 | 11 | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 |
 | 12 | [تتنفسك دنياي](https://open.spotify.com/track/5RLyQK3o0mVIjmjbFM0sT2) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [تتنفسك دنياي](https://open.spotify.com/album/3H6bW7rzjkoyHbYSE5Jyz6) | 4:42 |
-| 13 | [Ela Allah](https://open.spotify.com/track/4ZXyL4LC6u9QmBNERbGyBJ) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ela Allah](https://open.spotify.com/album/4I9pP9LCXwvUeYssukoqGc) | 4:04 |
-| 14 | [Da3it Allah](https://open.spotify.com/track/5lcuSQuICbP7C6X9EtBhlv) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Da3it Allah](https://open.spotify.com/album/71klQgQA3xV0HdXMGOr4W7) | 4:28 |
-| 15 | [Lahet](https://open.spotify.com/track/5BOYBYEWtfZWLoeNuQMcVz) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Lahet](https://open.spotify.com/album/3lPQ7sjaOVlCqMkcPUEqCc) | 3:59 |
+| 13 | [Da3it Allah](https://open.spotify.com/track/5lcuSQuICbP7C6X9EtBhlv) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Da3it Allah](https://open.spotify.com/album/71klQgQA3xV0HdXMGOr4W7) | 4:28 |
+| 14 | [Lahet](https://open.spotify.com/track/5BOYBYEWtfZWLoeNuQMcVz) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Lahet](https://open.spotify.com/album/3lPQ7sjaOVlCqMkcPUEqCc) | 3:59 |
+| 15 | [Tejene \(2\)](https://open.spotify.com/track/5KnVP62QZhBeViSV0JUVmU) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:01 |
 | 16 | [Wesh Yes3edk](https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Wesh Yes3edk](https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos) | 4:18 |
 | 17 | [Dehkat Ayami](https://open.spotify.com/track/5qzYDx4eVLJFmveW0ULvnx) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Dehkat Ayami](https://open.spotify.com/album/0mdNdGbwgfzLMPUX6nRFIz) | 4:17 |
 | 18 | [Takhayel](https://open.spotify.com/track/5kpt7M3vgU5nBFrECytdSv) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Takhayel](https://open.spotify.com/album/01lmkknyS1jSSXxsLelcNt) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 49 | [اقسم برب الحب](https://open.spotify.com/track/16n29Queh9WamvEdPAzU30) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [اقسم برب الحب \- Single](https://open.spotify.com/album/0ndiTiEwgNBodLi9FUxCE8) | 3:48 |
 | 50 | [Nafs Al Muftarak](https://open.spotify.com/track/58lYW6pa7nkYtt3gAReZ3m) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Nafs Al Muftarak](https://open.spotify.com/album/4WAPReCYSyjPoUAm9pGFx2) | 4:25 |
 
-Snapshot ID: `MTY3NDgwNTc0MiwwMDAwMDAwMDM5NzNjZWZhZmViMzQxMzhmZTE5ZGJhNGExMjViYWIx`
+Snapshot ID: `MTY3NTE3NjI1NSwwMDAwMDAwMDQ5YmIyYzE4YjVkYjMwN2MyMTFmY2QxODIxMzc4NzA0`

@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-531 songs - 22 hr 46 min
+533 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Minutieux](https://open.spotify.com/track/2SQvzWBCdnNzleb1BJPdS1) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Minutieux](https://open.spotify.com/album/2BJvWhnfzswUQqhEmhvSEJ) | 2:25 | 2022-05-27 | 2022-09-24 |
 | [Misty](https://open.spotify.com/track/3pJP8edwkLNNH7jxKH5Yc1) | [Project Kronos](https://open.spotify.com/artist/27VMhg08I47b1HAt9MFmha) | [Misty](https://open.spotify.com/album/3Prta9BnlSZeRqirgUIisC) | 2:00 | 2022-05-27 | 2022-09-24 |
 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 | 2022-05-27 |  |
-| [Moment of Silence](https://open.spotify.com/track/6iJNQx3fdBJYnlzukRoTZU) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [In Itself](https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh) | 3:31 | 2022-07-20 |  |
+| [Moment of Silence](https://open.spotify.com/track/6iJNQx3fdBJYnlzukRoTZU) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [In Itself](https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh) | 3:31 | 2022-07-20 | 2023-02-01 |
 | [Moment of Silence](https://open.spotify.com/track/5bAeFY9aWmcu0PKqDfUNgc) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Moment of Silence](https://open.spotify.com/album/1dNQqeC8YWcWicqTOd7ngE) | 3:33 | 2022-05-27 | 2022-07-29 |
 | [Momentum](https://open.spotify.com/track/3dTGRSCi9Zw7fT5lA2mDnV) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Momentum](https://open.spotify.com/album/2unepZAwGZ41hI7ZRHxH8f) | 2:27 | 2022-05-27 | 2022-12-01 |
 | [Mon Ami](https://open.spotify.com/track/5uq2R1bTmJaqRrY8uwstVS) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Mon Ami](https://open.spotify.com/album/6O7GyDT1FY6Yi1mZ7wd3vs) | 2:26 | 2022-05-27 | 2022-07-21 |
@@ -320,6 +320,7 @@
 | [No One Knows](https://open.spotify.com/track/5Rmd8TQOc2hrM81Rvm1gpB) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 4:08 | 2022-05-27 | 2022-09-24 |
 | [Nocturnes op.3](https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT) | 2:34 | 2022-07-20 |  |
 | [Nocturnes op.3](https://open.spotify.com/track/589UW75kHbBNDPERjvGUDo) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/1eFpKpEOeJK8fR1gtd6HaE) | 2:34 | 2022-05-27 | 2022-07-29 |
+| [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 | 2023-01-31 |  |
 | [Notes From Tom](https://open.spotify.com/track/0MXNBq9JKgNoUprg9PMQwA) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [Notes From Tom](https://open.spotify.com/album/4IMq0YcdnE2gFvU68hQfQa) | 2:47 | 2022-05-27 | 2022-09-24 |
 | [Notes in the Stars](https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv) | [Laura Sherwin](https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT) | [Notes in the Stars](https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY) | 3:01 | 2022-05-27 | 2023-01-21 |
 | [Nourriture et soleil](https://open.spotify.com/track/5eBaIlhJGeM9LwvqYw0J3k) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Nourriture et soleil](https://open.spotify.com/album/4ITksiX8W2gSNoW7mSStD4) | 3:00 | 2022-05-27 |  |
@@ -490,7 +491,7 @@
 | [Tu me donne de la force](https://open.spotify.com/track/69ZVTxad3rNnwZPwMOk9yX) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Tu me donne de la force](https://open.spotify.com/album/5UgRWAzUPftuejgEhpjdM8) | 2:16 | 2022-05-27 | 2023-01-21 |
 | [Tuesday Rain](https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Tuesday Rain](https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF) | 1:48 | 2022-08-09 | 2023-01-21 |
 | [Tulip](https://open.spotify.com/track/2gOZZ461iBIgZB42kyMu4a) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Tulip](https://open.spotify.com/album/0iO0SP6ZBPKcazqdqfWRr8) | 2:03 | 2022-05-27 | 2022-09-24 |
-| [Turquoise Move](https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Turquoise Move](https://open.spotify.com/album/2jqDjTZvqtCnRpBuuK3yZZ) | 3:08 | 2022-05-27 |  |
+| [Turquoise Move](https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Turquoise Move](https://open.spotify.com/album/2jqDjTZvqtCnRpBuuK3yZZ) | 3:08 | 2022-05-27 | 2023-02-01 |
 | [Tålamod](https://open.spotify.com/track/2pFheJ7wiffFLs37le8jrB) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Tålamod](https://open.spotify.com/album/6QFz6Bw5GxaANTxIiL67EW) | 2:39 | 2022-05-27 |  |
 | [Un instante](https://open.spotify.com/track/3IekwR2RInfv68Xyu7rk2B) | [Lukas Wall](https://open.spotify.com/artist/4N5fnolz7HorIGjo95HuB2) | [Un instante](https://open.spotify.com/album/02BuTkEn4fJqESdijpzFaJ) | 3:35 | 2022-05-27 | 2022-09-24 |
 | [Un Lent Mouvement](https://open.spotify.com/track/05csUH7EHgeXK7Yky1nQFe) | [Moleno](https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt) | [Un Lent Mouvement](https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb) | 2:41 | 2022-05-27 |  |
@@ -533,6 +534,7 @@
 | [Windschatten](https://open.spotify.com/track/2emuUPpnoo2sgpbBfbmkyt) | [Heike Blau](https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W) | [Windschatten](https://open.spotify.com/album/2gzltlb70rOTWRrj38ROWn) | 2:18 | 2022-05-27 |  |
 | [Winter Blossoms](https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P) | [Billy Lipnick](https://open.spotify.com/artist/0JTFRJYspkuP9Pwhbc2b0w) | [Winter Blossoms](https://open.spotify.com/album/1KpNlDkB2vzxGHVVYTB5CU) | 3:00 | 2022-05-27 |  |
 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 | 2022-05-27 |  |
+| [Withered](https://open.spotify.com/track/310HxzWeWPw1htCdY9I4oq) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Withered](https://open.spotify.com/album/5YmSYIJSqjLPOcQEZ9AH6e) | 1:52 | 2023-01-31 |  |
 | [Wurzeln](https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14) | [Lekk](https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj) | [Glass Stone](https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF) | 2:32 | 2022-05-27 |  |
 | [Yearn](https://open.spotify.com/track/6cgdhsPAVKmQRRwbW0PuXT) | [Lillia Nava](https://open.spotify.com/artist/2UTWoxg77Il2GH1iI67BIZ) | [Yearn](https://open.spotify.com/album/62Cxt0A2ySZkUMbus2ibi1) | 2:46 | 2022-05-27 | 2022-09-24 |
 | [Yellow Entropy](https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Yellow Entropy](https://open.spotify.com/album/7hJKROzZs61p529YVcxaWM) | 2:11 | 2022-05-27 |  |

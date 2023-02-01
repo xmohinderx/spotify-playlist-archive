@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-333 songs - 1 day 1 hr 9 min
+334 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-05-07 |  |
 | [Future](https://open.spotify.com/track/4Gvh60vRr6cKdB3RVtBiOg) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Future](https://open.spotify.com/album/1FmCbkv8Sr05gSWeRq0T4G) | 3:24 | 2021-05-07 | 2022-06-18 |
 | [Galahad](https://open.spotify.com/track/65KIaxjBVPTsEsfdIcaJGb) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Only You](https://open.spotify.com/album/7JobxIfMxmbEvbbcuYMniN) | 3:29 | 2021-05-07 | 2022-06-17 |
-| [Gamma](https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Gamma](https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C) | 6:21 | 2022-07-22 |  |
+| [Gamma](https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Gamma](https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C) | 6:21 | 2022-07-22 | 2023-02-01 |
 | [Gazer \(Through the Night\)](https://open.spotify.com/track/1LsSPm7nkGgUbukmxS8DUa) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Dark Woods](https://open.spotify.com/album/064SqNWBOnEHRMyg8wj6HC) | 3:27 | 2022-02-25 | 2022-07-29 |
 | [Gemini Bridges](https://open.spotify.com/track/21DZqG3jg7YQexOzd6vqig) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Gemini Bridges / Room 4242](https://open.spotify.com/album/6kPzVQCpntz3pvsS5pIyHu) | 4:45 | 2021-05-07 | 2022-07-29 |
 | [Give Into You](https://open.spotify.com/track/5GvdWteb7cK1tKP1GsNWZI) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [A New Day EP](https://open.spotify.com/album/6RTewADm1CSSTMzp3MnpfD) | 3:13 | 2021-05-07 | 2022-07-21 |
@@ -318,6 +318,7 @@
 | [Unfolding](https://open.spotify.com/track/6YMaVo9FZy0aDrntxEwA72) | [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r), [Deeparture](https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho) | [Unfolding](https://open.spotify.com/album/6cg3skxeiab9T4p7B0XpZm) | 4:20 | 2021-05-07 | 2022-07-25 |
 | [Unity \- Radio Edit](https://open.spotify.com/track/6IRX8HIpiNuUF3F5cat8su) | [CYA](https://open.spotify.com/artist/2HFWySRmIs8TiKMMfcLN1g) | [Regrets \(Radio Edits\)](https://open.spotify.com/album/5VzOEPqJTYOSl1zr9FOx2T) | 3:14 | 2021-05-07 | 2022-04-20 |
 | [Universal Love \- Edit](https://open.spotify.com/track/1eDXl7SV2o2jSrFbClsgVB) | [Hannah Fernando](https://open.spotify.com/artist/1pemw59Uf20tXE3i5eTBiY) | [Universal Love](https://open.spotify.com/album/0Ze2x7JSIuxLz7gXPzJMAY) | 5:17 | 2021-05-07 | 2022-07-29 |
+| [Unlovable](https://open.spotify.com/track/0mPDsawVHviPjbUw67yEbb) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Unlovable](https://open.spotify.com/album/6uXqIAEVfndXVq4KPNMiHo) | 4:02 | 2023-01-27 |  |
 | [Vallut Bass](https://open.spotify.com/track/6etAsc19pzAmugWALZjpDo) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72), [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD) | [Vallut Bass](https://open.spotify.com/album/2u0mZypCSZa9vMm32FYyEN) | 3:31 | 2021-05-07 | 2022-06-23 |
 | [Vertigo](https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Vertigo](https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j) | 3:09 | 2022-11-18 |  |
 | [Violet Sea](https://open.spotify.com/track/1f33u4p19t1nWX6t4vtps9) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk) | [Violet Sea + Aura](https://open.spotify.com/album/4LeAQhY0P24q2mvynao92G) | 3:48 | 2021-05-07 | 2022-04-20 |

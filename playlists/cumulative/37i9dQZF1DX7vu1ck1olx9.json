@@ -847,6 +847,32 @@
     },
     {
       "album": {
+        "name": "Eternal Sunshine",
+        "url": "https://open.spotify.com/album/1Cj58FWzBJlgJS6HcEjKVo"
+      },
+      "artists": [
+        {
+          "name": "cryptic daylight",
+          "url": "https://open.spotify.com/artist/0DMANJOl4cL9Q2uzGbk850"
+        },
+        {
+          "name": "Someone Else",
+          "url": "https://open.spotify.com/artist/35Ir0ossYsmU5VHS1oVr8m"
+        },
+        {
+          "name": "Outertone Chill",
+          "url": "https://open.spotify.com/artist/5r6vb5zhpo84wnn6rT5zLw"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Eternal Sunshine",
+      "url": "https://open.spotify.com/track/3IjcC1K1Iu3Vv4KMQYL2tM"
+    },
+    {
+      "album": {
         "name": "Evenfall",
         "url": "https://open.spotify.com/album/6gWZNNi5YDnUKclfDRY4H0"
       },
@@ -2356,7 +2382,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 101663,
       "name": "Soul Finding",
       "url": "https://open.spotify.com/track/0L0O6m5t5usqQHEaBsHgSa"

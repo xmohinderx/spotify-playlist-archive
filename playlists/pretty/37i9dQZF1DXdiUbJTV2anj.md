@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: Faetooth
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,034 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,480 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

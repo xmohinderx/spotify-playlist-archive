@@ -4,7 +4,7 @@
 
 > HARDY is taking OVER! His new album the mockingbird & THE CROW is out now!
 
-225 songs - 13 hr 7 min
+227 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6j92VOeYfbdPHAfKLiDYRz) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Don't Tell Me How to Drink \(feat\. Chris Stapleton\)](https://open.spotify.com/album/24zjf4zpsjGhoiIZPyiiQv) | 3:15 | 2022-08-26 | 2023-01-21 |
 | [Down to the Devil](https://open.spotify.com/track/1KqEnSyj7ZFUfN2HddUZMe) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Down to the Devil](https://open.spotify.com/album/08FkK7BlweOZ7PFct99fMo) | 3:26 | 2021-11-01 | 2022-05-07 |
 | [Excuse the Mess](https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Excuse the Mess](https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ) | 2:51 | 2023-01-27 |  |
-| [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 | 2021-11-01 |  |
+| [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 | 2021-11-01 | 2023-02-01 |
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2022-02-11 |  |
 | [Feels a Lot Like This](https://open.spotify.com/track/6e34gEYUVcXkdAPVmtIdBV) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Feels a Lot Like This](https://open.spotify.com/album/1kwMMXvK8s1URLhKROctGg) | 3:09 | 2021-11-01 | 2022-07-29 |
 | [Fire On Wheels](https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Fire On Wheels](https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7) | 2:36 | 2022-06-24 |  |
@@ -83,6 +83,7 @@
 | [Gasoline](https://open.spotify.com/track/7GPTK0ueaymxm8UUvYyP2l) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Gasoline](https://open.spotify.com/album/4DtfJUBNYhBvh9ahqIsKsd) | 3:59 | 2021-11-01 | 2022-06-11 |
 | [Get After It](https://open.spotify.com/track/0Lb9pl5Sxj0C7LB2dt6hDH) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Get After It](https://open.spotify.com/album/3atYZNtxrFtTNj9qDb34Om) | 2:51 | 2021-11-01 | 2022-09-17 |
 | [Get Em Up](https://open.spotify.com/track/17B1eRYbcpI808XW81JnMw) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Long Shots](https://open.spotify.com/album/2wIIIZwinQQ2ieKTL3iqjs) | 3:05 | 2021-11-01 | 2022-10-01 |
+| [Get There First](https://open.spotify.com/track/6Q1t0ivoNyMynfx6nOU1Ez) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Get There First](https://open.spotify.com/album/0uZgjHZ9DiWmMCWz0swpzo) | 3:46 | 2023-01-27 |  |
 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 | 2021-11-01 |  |
 | [Go To Town](https://open.spotify.com/track/6e0yZu2RjDEMaTzjVizc4C) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [Go To Town](https://open.spotify.com/album/5Hl88l5hDmr3O7RVQJBIlE) | 3:01 | 2022-05-06 | 2022-07-18 |
 | [Good Old Days](https://open.spotify.com/track/6Am1VgKxTIDabVMKMqDK8y) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Good Old Days](https://open.spotify.com/album/3Md0K3RwkIZTLek3vz0zOJ) | 3:15 | 2021-11-01 | 2022-07-09 |
@@ -97,6 +98,7 @@
 | [High Time](https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [High Time](https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn) | 3:54 | 2022-11-18 |  |
 | [Highway Like Me \(feat\. Marcus King\)](https://open.spotify.com/track/51PuIBYfGsXVFmnsv70Vr3) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 4:30 | 2021-11-01 | 2022-08-27 |
 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 | 2021-11-01 | 2022-07-29 |
+| [Hit Different](https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Hit Different](https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB) | 3:13 | 2023-01-27 |  |
 | [Hold My Horses](https://open.spotify.com/track/2b42Ji4pWoTYnh0nxjnASa) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Too Much Of A Good Thing](https://open.spotify.com/album/74VL9ygpZMxUSA2PiHhnll) | 3:00 | 2022-10-01 | 2022-11-14 |
 | [Hold My Horses](https://open.spotify.com/track/2n6YMK1vCr5xkDVJ7MdQHw) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:00 | 2022-11-01 |  |
 | [Hold My Horses](https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd) | 3:00 | 2022-06-03 | 2022-07-29 |
@@ -195,7 +197,7 @@
 | [The War Inside \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0AeKE6Cz7EPw9Eld1tJ6fz) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:49 | 2021-11-01 | 2022-01-22 |
 | [The Wolf](https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [The Wolf](https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR) | 5:37 | 2022-06-10 |  |
 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 | 2022-02-11 |  |
-| [These Old Boots](https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2) | [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo) | [These Old Boots](https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym) | 3:26 | 2021-11-05 |  |
+| [These Old Boots](https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2) | [Seth Anthony](https://open.spotify.com/artist/69fyBUeaP6u5zUKxhJi2wo) | [These Old Boots](https://open.spotify.com/album/5gRxnlqVjNaVryzoh6Anym) | 3:26 | 2021-11-05 | 2023-02-01 |
 | [Till the Wheels Fall Off](https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Find a Light](https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7) | 3:45 | 2021-11-01 |  |
 | [To Hank \(feat\. HARDY, Brantley Gilbert & Colt Ford\)](https://open.spotify.com/track/5mOAXvYO4xSppP2NmrBhQu) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [To Hank \(feat\. HARDY, Brantley Gilbert & Colt Ford\)](https://open.spotify.com/album/6PNMatU3htyk6mAK7xv6qW) | 3:17 | 2021-11-01 |  |
 | [To Whom ...](https://open.spotify.com/track/69JNWrpgjgulsDcCTXxlBk) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [To Whom ...](https://open.spotify.com/album/1WxRrEo9h1tR698arf1dcs) | 3:38 | 2021-11-05 | 2023-01-29 |

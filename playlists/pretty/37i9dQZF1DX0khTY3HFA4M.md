@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,436 likes - 500 songs - 19 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,859 likes - 500 songs - 19 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -472,7 +472,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 462 | [Relax Relapse](https://open.spotify.com/track/2jZiuYDv4kzEziZithvIDC) | [Ty Coons](https://open.spotify.com/artist/1j6D5RmZ61ryH9JrO4NukH) | [Relax Relapse](https://open.spotify.com/album/3Nqb0tjgLQu9iFVGV0ZM6E) | 2:14 |
 | 463 | [have\-a\-cup](https://open.spotify.com/track/5kZHGyQEh8qj9H282Y5vkh) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [have\-a\-cup](https://open.spotify.com/album/3v33qdghvECCPCbFAZwIcR) | 2:16 |
 | 464 | [long goodbyes](https://open.spotify.com/track/4S7Q2eAUf4uPusd6sXC0UO) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [long goodbyes](https://open.spotify.com/album/7Aa4jEsVK9G3aYNJz30Cp5) | 2:11 |
-| 465 | [Sleeping Beauty](https://open.spotify.com/track/2WYl308FkljMbjrI24v3fm) | [Ghost Beats](https://open.spotify.com/artist/3Zbr6wvGLnivTIpJ05DGFY), [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn) | [Sleeping Beauty](https://open.spotify.com/album/6yIU8OgDwbe5bXFYsSkiOG) | 2:26 |
+| 465 | [Sleeping Beauty](https://open.spotify.com/track/2WYl308FkljMbjrI24v3fm) | [Ghost Beats](https://open.spotify.com/artist/3Zbr6wvGLnivTIpJ05DGFY) | [Sleeping Beauty](https://open.spotify.com/album/6yIU8OgDwbe5bXFYsSkiOG) | 2:26 |
 | 466 | [Reeds](https://open.spotify.com/track/569xsJRzYIWE6u8X9gAQRp) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Reeds](https://open.spotify.com/album/3cOBBX5eqMBl6WCQh9rFm1) | 1:48 |
 | 467 | [wake up dream](https://open.spotify.com/track/6KJECUHc9yQfowRBFSLNhA) | [Qushy](https://open.spotify.com/artist/156wti6EEtzclFPBm50lUH) | [wake up dream](https://open.spotify.com/album/2MOuiisV4x9nRhWwOs1F2A) | 2:15 |
 | 468 | [Pick Up Your Phone Please](https://open.spotify.com/track/2BGgpYR3jw1WtdJXiNupRm) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Pick Up Your Phone Please](https://open.spotify.com/album/0pZatCRgjMHMddIYmc5L7o) | 2:20 |

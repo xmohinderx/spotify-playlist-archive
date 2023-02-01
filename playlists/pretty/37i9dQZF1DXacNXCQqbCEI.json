@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 334833,
+  "num_followers": 335021,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMGI4NWJhNzU3MmU0ZjE0NzQ4NTQ0NjVkMWYyYTYwODc3",
+  "snapshot_id": "MTY2NTQxNTEzNywwMDAwMDAwMDQ0NTVmNTUxMzNkMDg3NzFmNTk0YzY5ZWViMGU2N2Jl",
   "tracks": [
     {
       "added_at": "2022-10-10 15:18:57",
@@ -143,22 +143,22 @@
     {
       "added_at": "2022-10-10 15:18:57",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
+        "name": "TANDEM",
+        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
         },
         {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
         }
       ],
-      "duration_ms": 219600,
-      "name": "Hipn\u00f3tico",
-      "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
+      "duration_ms": 170158,
+      "name": "SALTA",
+      "url": "https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1"
     },
     {
       "added_at": "2022-10-10 15:18:57",
@@ -183,42 +183,22 @@
     {
       "added_at": "2022-10-10 15:18:57",
       "album": {
-        "name": "Amansara Remixed",
-        "url": "https://open.spotify.com/album/3zFmRK5xmyvsSIQ60kNbb6"
+        "name": "6",
+        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
       },
       "artists": [
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
         },
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
         }
       ],
-      "duration_ms": 239417,
-      "name": "Sueno en Paraguay - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx"
-    },
-    {
-      "added_at": "2022-10-10 15:18:57",
-      "album": {
-        "name": "TANDEM",
-        "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 170158,
-      "name": "SALTA",
-      "url": "https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1"
+      "duration_ms": 219600,
+      "name": "Hipn\u00f3tico",
+      "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
     },
     {
       "added_at": "2022-10-10 15:18:57",
@@ -235,6 +215,26 @@
       "duration_ms": 165593,
       "name": "Black Catbird",
       "url": "https://open.spotify.com/track/1CkGUqwaz1UfFSo2BmySGI"
+    },
+    {
+      "added_at": "2022-10-10 15:18:57",
+      "album": {
+        "name": "Amansara Remixed",
+        "url": "https://open.spotify.com/album/3zFmRK5xmyvsSIQ60kNbb6"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 239417,
+      "name": "Sueno en Paraguay - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx"
     },
     {
       "added_at": "2022-10-10 15:18:57",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-10-10 15:18:57",
       "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Jardines",
-      "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
-    },
-    {
-      "added_at": "2022-10-10 15:18:57",
-      "album": {
         "name": "Or\u00edgenes",
         "url": "https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 206148,
       "name": "Quema",
       "url": "https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr"
+    },
+    {
+      "added_at": "2022-10-10 15:18:57",
+      "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X"
     },
     {
       "added_at": "2022-10-10 15:18:57",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-10-10 15:18:57",
       "album": {
-        "name": "Bennu",
-        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
-      },
-      "artists": [
-        {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Chapinero",
-      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
-    },
-    {
-      "added_at": "2022-10-10 15:18:57",
-      "album": {
         "name": "Ostriconi",
         "url": "https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 285990,
       "name": "Sakoneta",
       "url": "https://open.spotify.com/track/3rTdacXE78kylGPegwCc3B"
+    },
+    {
+      "added_at": "2022-10-10 15:18:57",
+      "album": {
+        "name": "Bennu",
+        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Chapinero",
+      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
     },
     {
       "added_at": "2022-10-10 15:18:57",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-10-10 15:18:57",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
-    },
-    {
-      "added_at": "2022-10-10 15:18:57",
-      "album": {
         "name": "Sonic Forest",
         "url": "https://open.spotify.com/album/0ImFvq53ujOAdclMey4dd6"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 213386,
       "name": "Solitario",
       "url": "https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA"
+    },
+    {
+      "added_at": "2022-10-10 15:18:57",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
     },
     {
       "added_at": "2022-10-10 15:18:57",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-10-10 15:18:57",
       "album": {
+        "name": "Te Quiero Olvidar",
+        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
+    },
+    {
+      "added_at": "2022-10-10 15:18:57",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 245280,
       "name": "Como Lo Ped\u00ed",
       "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
-    },
-    {
-      "added_at": "2022-10-10 15:18:57",
-      "album": {
-        "name": "Te Quiero Olvidar",
-        "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
     },
     {
       "added_at": "2022-10-10 15:18:57",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-10 15:18:57",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/3ZSoRUnuOmnGXhV359Jpir"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/1S4sh25ZPqskyvoV0UlDGC"
-    },
-    {
-      "added_at": "2022-10-10 15:18:57",
-      "album": {
         "name": "Shika Shika / Botanas, Vol. 15",
         "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 273846,
       "name": "Presagio",
       "url": "https://open.spotify.com/track/3Fstql1zF6ZsU1sOWBbfQK"
+    },
+    {
+      "added_at": "2022-10-10 15:18:57",
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/3ZSoRUnuOmnGXhV359Jpir"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/1S4sh25ZPqskyvoV0UlDGC"
     },
     {
       "added_at": "2022-10-10 15:18:57",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-10-10 15:18:57",
       "album": {
-        "name": "Fuego Nuevo",
-        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Levanta Muertos",
-      "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
-    },
-    {
-      "added_at": "2022-10-10 15:18:57",
-      "album": {
         "name": "Bleu de lune (El Buho Remix)",
         "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 281100,
       "name": "Bleu de lune (El Buho Remix)",
       "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
+    },
+    {
+      "added_at": "2022-10-10 15:18:57",
+      "album": {
+        "name": "Fuego Nuevo",
+        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Levanta Muertos",
+      "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
     },
     {
       "added_at": "2022-10-10 15:18:57",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-10-10 15:18:57",
       "album": {
-        "name": "Desierto",
-        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
-      },
-      "artists": [
-        {
-          "name": "Simah",
-          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
-        }
-      ],
-      "duration_ms": 173043,
-      "name": "Desierto",
-      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
-    },
-    {
-      "added_at": "2022-10-10 15:18:57",
-      "album": {
         "name": "Respira",
         "url": "https://open.spotify.com/album/1LE1cbHMViiLVaJFaNxGvJ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 231346,
       "name": "Sendero del Monte",
       "url": "https://open.spotify.com/track/48TkZlKN57XcU049NoKmOd"
+    },
+    {
+      "added_at": "2022-10-10 15:18:57",
+      "album": {
+        "name": "Desierto",
+        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
+      },
+      "artists": [
+        {
+          "name": "Simah",
+          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
+        }
+      ],
+      "duration_ms": 173043,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
     },
     {
       "added_at": "2022-10-10 15:18:57",
@@ -1071,22 +1071,26 @@
     {
       "added_at": "2022-10-10 15:18:57",
       "album": {
-        "name": "La Tercera Vision",
-        "url": "https://open.spotify.com/album/2U4iGHChiMfFxlOtePA1Yt"
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/0znYmByBOKwFZunIH24Lth"
       },
       "artists": [
         {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+          "name": "CANU",
+          "url": "https://open.spotify.com/artist/0LRrOx7jaNrYkN1WcHeNMU"
         },
         {
-          "name": "Khalil Mounji",
-          "url": "https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK"
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Alejandro Castelli",
+          "url": "https://open.spotify.com/artist/1PNTdpk9ro2EyigI6gxZVN"
         }
       ],
-      "duration_ms": 235418,
-      "name": "Mano de Fatima",
-      "url": "https://open.spotify.com/track/45bZeDQK1sPbSu8xgSvs8R"
+      "duration_ms": 477049,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/0g49ATUHh1IJtrXW77VysX"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

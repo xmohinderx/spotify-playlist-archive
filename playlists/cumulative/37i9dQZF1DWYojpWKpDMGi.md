@@ -4,7 +4,7 @@
 
 > This is 21 Savage\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 2 min
+51 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Red Opps](https://open.spotify.com/track/3cqZH3cqvfbV8wVbvHyPbG) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Red Opps](https://open.spotify.com/album/5vjDtsdTgQC7B5jsLvehaF) | 2:43 | 2020-10-05 |  |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-11 |  |
 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 | 2020-10-05 |  |
+| [Roll A opp](https://open.spotify.com/track/0KaFKWa8WC39FE7EPJL6Ld) | [Yung Sinn](https://open.spotify.com/artist/6LAFFVSbnH98HCIvehSG6c), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wrong Turn](https://open.spotify.com/album/6R53JypupsRdvmAjgN0fqQ) | 3:18 | 2023-01-30 |  |
 | [Runnin](https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:15 | 2020-10-05 |  |
 | [Savage Mode](https://open.spotify.com/track/52hRcWmjRNFuVJv3Qi7EeF) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Savage Mode](https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b) | 4:09 | 2020-10-05 |  |
 | [Slidin](https://open.spotify.com/track/7fxSLnklnayJNBIKntXedZ) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [SAVAGE MODE II](https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi) | 3:05 | 2020-10-05 |  |

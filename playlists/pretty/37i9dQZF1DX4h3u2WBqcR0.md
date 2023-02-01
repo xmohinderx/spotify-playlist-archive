@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4h3u2WBqcR0.md) - [plain]
 
 > Discover the 2022 Best Original Score nominations alongside Oscar\-winning soundtracks from the past 80 years.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,133 likes - 66 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,421 likes - 66 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4h3u2WBqcR0.md) - [plain]
 | 65 | [Love Scene in the Forest \(From "Anthony Adverse"\)](https://open.spotify.com/track/4fGzANJuxivS5fUr0DDwLs) | [Charles Gerhardt](https://open.spotify.com/artist/0KYTOaijsJq1rL0PC43LcQ), [RCA Victor Symphony Orchestra](https://open.spotify.com/artist/1JDbACEgV5erBN0YAOkrg4) | [RCA Symphony Orchestra: Film Scores and More! \- Vol\. 2](https://open.spotify.com/album/5F5Ws6RwWLwNc3nR8yozrI) | 2:16 |
 | 66 | [Main Title](https://open.spotify.com/track/69cIpx990Bbmum5a1A3HcO) | [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Franco Collura](https://open.spotify.com/artist/0yNNwW7OAdtsWfALfsrPzq) | [The Best Years of Our Lives \(Original Soundtrack\) \[1946\]](https://open.spotify.com/album/3Jz27XW73fQEdZAjsoJAKt) | 1:35 |
 
-Snapshot ID: `MTY2MDczNzEyNCwwMDAwMDAwMDYwNmI2NmUxZjJjMmE0ZjZmM2RlNjI4ZmNkYzY2YmQ4`
+Snapshot ID: `MTY3NTE4Mzg0OSwwMDAwMDAwMDI2MjAwZWRiZTk3YmRjZDdlZTk2NGU4OTUzMTkyYTY5`

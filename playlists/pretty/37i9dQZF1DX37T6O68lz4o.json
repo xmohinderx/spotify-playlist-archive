@@ -1,12 +1,12 @@
 {
   "description": "New England music breaking waves. Cover, Luke Bar$",
-  "num_followers": 1257,
+  "num_followers": 1264,
   "original_name": "Ripple Effect: New England",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU0MjAwMCwwMDAwMDAwMGY5OWMxMzYxN2QzZjJiYzIxMjkyYWJiNGIzNWU1N2M2",
+  "snapshot_id": "MTY3NTE0MzE3NiwwMDAwMDAwMGY5ZWM1MGMzYzcwMzEzZWJmM2IwZGE0NjM5ZGMwMWZh",
   "tracks": [
     {
       "added_at": "2023-01-13 06:38:06",
@@ -61,10 +61,10 @@
       "url": "https://open.spotify.com/track/5xnVj7t6Nvc1J42fC5Fyef"
     },
     {
-      "added_at": "2022-12-30 14:03:25",
+      "added_at": "2023-01-31 05:32:56",
       "album": {
-        "name": "Girl on Rhode",
-        "url": "https://open.spotify.com/album/5NHhAlpHoZPWzhEbg7nMga"
+        "name": "Wouldn't Get Far",
+        "url": "https://open.spotify.com/album/6ev0cYMZZs3N7GjsfvNW8S"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa"
         }
       ],
-      "duration_ms": 107636,
-      "name": "Leave the Party",
-      "url": "https://open.spotify.com/track/4tFF4rUola2OtZbesM6PFo"
+      "duration_ms": 157857,
+      "name": "Wouldn't Get Far",
+      "url": "https://open.spotify.com/track/2j3GupY7wtH9SWpOVdSMcd"
     },
     {
       "added_at": "2023-01-24 06:33:20",
@@ -277,26 +277,10 @@
       "url": "https://open.spotify.com/track/4eYCtzuYSoe70Wu9u4lsNc"
     },
     {
-      "added_at": "2022-12-02 21:40:57",
+      "added_at": "2023-01-31 05:32:56",
       "album": {
-        "name": "Trippin",
-        "url": "https://open.spotify.com/album/0fEDrdwRu1916EifKsXFyk"
-      },
-      "artists": [
-        {
-          "name": "San\u00e7a",
-          "url": "https://open.spotify.com/artist/1DSFf0RnfYrtNr0eKndzzc"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Trippin",
-      "url": "https://open.spotify.com/track/6PGQMtYwFqt5VzVhRmPV9u"
-    },
-    {
-      "added_at": "2022-12-02 21:40:57",
-      "album": {
-        "name": "FTC",
-        "url": "https://open.spotify.com/album/4EtciFhEmfoAGjJESr2iXW"
+        "name": "Find Peace",
+        "url": "https://open.spotify.com/album/2z7NgbXAthMAeBxVhhDfkb"
       },
       "artists": [
         {
@@ -304,9 +288,9 @@
           "url": "https://open.spotify.com/artist/2Q2bnfCHdRZfz6jktiJODz"
         }
       ],
-      "duration_ms": 89195,
-      "name": "FTC",
-      "url": "https://open.spotify.com/track/49vS1cGhq1jMwqNQp3MtCj"
+      "duration_ms": 112130,
+      "name": "Find Peace",
+      "url": "https://open.spotify.com/track/200WboHOBS14RFJIV0xQ89"
     },
     {
       "added_at": "2022-12-02 21:40:57",
@@ -545,6 +529,26 @@
       "url": "https://open.spotify.com/track/4rMRJg6GAZi98tHsKVOSy3"
     },
     {
+      "added_at": "2023-01-31 05:32:56",
+      "album": {
+        "name": "Angels Never Die",
+        "url": "https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN"
+      },
+      "artists": [
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        },
+        {
+          "name": "Dupes",
+          "url": "https://open.spotify.com/artist/2RiH41527l0B95HWgn1w9Q"
+        }
+      ],
+      "duration_ms": 263969,
+      "name": "I Feel Like Aaliyah",
+      "url": "https://open.spotify.com/track/4sY978TTq8u9P1BoKbFDjZ"
+    },
+    {
       "added_at": "2022-12-02 21:40:57",
       "album": {
         "name": "Fluted Bezel (feat. Avenue)",
@@ -563,6 +567,22 @@
       "duration_ms": 173072,
       "name": "Fluted Bezel (feat. Avenue)",
       "url": "https://open.spotify.com/track/1ytaL04DRs5sUnkhCyCWZH"
+    },
+    {
+      "added_at": "2023-01-31 05:32:56",
+      "album": {
+        "name": "FIRST DAY OUT",
+        "url": "https://open.spotify.com/album/1odi2UMIAaKrnMECwkYn09"
+      },
+      "artists": [
+        {
+          "name": "Y Gizzle",
+          "url": "https://open.spotify.com/artist/2NrmxpPJ1YPMkidYYckQVT"
+        }
+      ],
+      "duration_ms": 136823,
+      "name": "FIRST DAY OUT",
+      "url": "https://open.spotify.com/track/2rCH6Q7FE7H3yZatfRX1Y0"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -673,6 +693,26 @@
       "url": "https://open.spotify.com/track/0b0ZGaHZoPC5dcrsjnDu08"
     },
     {
+      "added_at": "2023-01-31 05:32:56",
+      "album": {
+        "name": "In The Hips",
+        "url": "https://open.spotify.com/album/09XetdTipuLTvTqMdn9rv3"
+      },
+      "artists": [
+        {
+          "name": "8 Zipp",
+          "url": "https://open.spotify.com/artist/77p4nWKhsjAqUXybLgycLZ"
+        },
+        {
+          "name": "$hayBand$",
+          "url": "https://open.spotify.com/artist/7jxxXzCLgiFE57KCjWw4H2"
+        }
+      ],
+      "duration_ms": 120450,
+      "name": "In The Hips",
+      "url": "https://open.spotify.com/track/0uIkVcZel5rJMvQz0qJDLv"
+    },
+    {
       "added_at": "2022-02-18 22:25:03",
       "album": {
         "name": "Just For You",
@@ -751,42 +791,6 @@
       "duration_ms": 201312,
       "name": "Offsides",
       "url": "https://open.spotify.com/track/5AxqdQDciWmbklClPebKp1"
-    },
-    {
-      "added_at": "2023-01-13 06:38:06",
-      "album": {
-        "name": "ROXBURY XMAS",
-        "url": "https://open.spotify.com/album/0tF0pLf3KPclrIRdNVtf5V"
-      },
-      "artists": [
-        {
-          "name": "Maye Star",
-          "url": "https://open.spotify.com/artist/6tIaLRmjzCYkWZ71pmaBFr"
-        },
-        {
-          "name": "Milkshaw Benedict",
-          "url": "https://open.spotify.com/artist/2IfyFWtOkkV4HgQIEDjIRO"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "ROXBURY XMAS",
-      "url": "https://open.spotify.com/track/33azAH3MN2gbRWUHScsVGN"
-    },
-    {
-      "added_at": "2022-12-02 21:40:57",
-      "album": {
-        "name": "Talk To My City, I Know They Listening",
-        "url": "https://open.spotify.com/album/1nR6MGrDpPkNjnvxJ58N5V"
-      },
-      "artists": [
-        {
-          "name": "8 Zipp",
-          "url": "https://open.spotify.com/artist/77p4nWKhsjAqUXybLgycLZ"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "Big Deal",
-      "url": "https://open.spotify.com/track/1udgouQALm6D0kHXPzAfzQ"
     },
     {
       "added_at": "2022-10-25 18:05:16",

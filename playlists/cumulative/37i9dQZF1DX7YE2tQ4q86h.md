@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Zara Larsson
 
-418 songs - 21 hr 35 min
+419 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [Please \- David Jackson Remix](https://open.spotify.com/track/6ll7bSskQYvJfh0qyYZQ8o) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Please \(David Jackson Remix\)](https://open.spotify.com/album/4skBc1vOjD3USDtF7sozVp) | 3:48 | 2022-02-15 | 2022-06-11 |
 | [Pose at Films \- Cry at Films \- Dummy Department Version](https://open.spotify.com/track/6FlMQQ7Ne6pxlXtVLwXSgZ) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Cry at Films \(Solo Voice Version\)](https://open.spotify.com/album/6s1hui6gxAePH0Z2WX5KfV) | 3:00 | 2022-05-27 | 2022-06-11 |
 | [PRE MADONNA](https://open.spotify.com/track/7HEVw1CmTyeCvB1RjpVf1i) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [PRE MADONNA](https://open.spotify.com/album/6QhCqLrj6v9BAMkTJ2mGLt) | 3:08 | 2022-04-29 | 2022-06-04 |
-| [Prettier Than You](https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Prettier Than You](https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg) | 3:22 | 2022-09-30 |  |
+| [Prettier Than You](https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Prettier Than You](https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg) | 3:22 | 2022-09-30 | 2023-02-01 |
 | [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 | 2022-12-02 |  |
 | [PRINCESS CHARMING](https://open.spotify.com/track/2nbgP5RRvwoNYxdOBx3lXA) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [MATRIARCHY NOW](https://open.spotify.com/album/0J66nObGBIxsgyAere8u1C) | 2:16 | 2022-08-05 | 2022-12-17 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-06-10 | 2022-09-03 |
@@ -311,6 +311,7 @@
 | [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:21 | 2022-04-08 | 2022-07-09 |
 | [PULSE](https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [PULSE](https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk) | 3:09 | 2022-10-21 | 2023-01-21 |
 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 | 2022-07-29 | 2022-08-13 |
+| [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-01-31 |  |
 | [Real Love](https://open.spotify.com/track/6qjISOkB9F6X6FgsvdI2fR) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Real Love](https://open.spotify.com/album/3NWJXg0aK1Wo2EPhv46IRP) | 3:18 | 2022-06-17 | 2022-07-09 |
 | [Rebel Revolution](https://open.spotify.com/track/1GmC0Iva33Hf3uCF5VU7ZJ) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Rebel Revolution](https://open.spotify.com/album/6qIZTPqy1uZCIkvJaxfwCV) | 3:08 | 2022-07-31 | 2022-09-03 |
 | [Rebel Revolution](https://open.spotify.com/track/1dIFTswy9iCiF2gVVvmwNV) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Rebel Revolution](https://open.spotify.com/album/4OpD2M4bZ8BMgOkWl7OfxO) | 3:08 | 2022-05-27 | 2022-08-01 |

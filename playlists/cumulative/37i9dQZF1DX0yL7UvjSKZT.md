@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Aoife O'Donovan & Allison Russell
 
-234 songs - 14 hr 41 min
+235 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Steampipe Coffee](https://open.spotify.com/track/2h6ZLitWaeBw9af5hWRy4T) | [Circus No\. 9](https://open.spotify.com/artist/7EajkJlvOR5KiUni4v4xZu), [Jeff Sipe](https://open.spotify.com/artist/3uBCMHjZuIiCPMMt6c9Sbr) | [Steampipe Coffee](https://open.spotify.com/album/1O9h3PMwdwJhis2pjgt2s7) | 4:49 | 2022-05-13 |  |
 | [Strange Fascination](https://open.spotify.com/track/1RQcETFoOBuy8oPHXE8dq7) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/5PnMwyxLM380aAXjAWn5gQ) | 4:18 | 2021-10-01 | 2022-06-12 |
 | [Strange Winds](https://open.spotify.com/track/3XepsxnFOALoHKxabNZ8TF) | [Rev Ezra](https://open.spotify.com/artist/3kxPC4Jstp20P1xWvdMoVB) | [Strange Winds](https://open.spotify.com/album/1yOfDbta0Oc1Wn90Z4gDyy) | 3:24 | 2022-04-22 | 2023-01-14 |
+| [Strangers](https://open.spotify.com/track/1LGEfISCKTSlz0MMjJ9PjC) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Strangers](https://open.spotify.com/album/0Ko043n4FVz0uor1vl7fmK) | 4:44 | 2023-01-31 |  |
 | [Stress Dreams](https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Stress Dreams](https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW) | 8:01 | 2022-07-22 | 2023-01-14 |
 | [Stress Dreams](https://open.spotify.com/track/3ww5HAGF6KoQB9g2yiohMP) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Stress Dreams](https://open.spotify.com/album/2eKgpWDXS5n259CsN2PlRx) | 8:01 | 2022-01-07 | 2022-07-29 |
 | [Stuck on Your Mind \- Audiotree Live Version](https://open.spotify.com/track/35yqG3NlZFbOr6mJ80qvzQ) | [Horseshoes & Hand Grenades](https://open.spotify.com/artist/4nl7okSNAZuu9DWr9jkzSs) | [Horseshoes & Hand Grenades on Audiotree Live \- EP](https://open.spotify.com/album/4MYtNl13xrjuBRfTT1An11) | 4:17 | 2021-10-01 | 2022-01-22 |

@@ -4,7 +4,7 @@
 
 > Welcome to Indie Rock Club\. Cover: Arctic Monkeys
 
-242 songs - 14 hr 22 min
+243 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,8 +226,9 @@
 | [Take Me Out](https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD) | 3:57 | 2022-07-21 | 2022-07-29 |
 | [Tales of Endurance, Pt\. 4, 5 & 6](https://open.spotify.com/track/0kAFTd3dWytNQPVF18jCIv) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Road To Rouen](https://open.spotify.com/album/7HBzTTfJhW9sis8yvgxmL6) | 5:31 | 2022-07-21 | 2022-09-21 |
 | [The Age Of The Understatement](https://open.spotify.com/track/39az7WzBipIvzCCTfpwtGa) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/4fxflUQfRpsSPzVVBMZLQm) | 3:09 | 2022-01-18 | 2023-01-29 |
-| [The Age Of The Understatement](https://open.spotify.com/track/4fsWlej0WwmeCIRYY5xIir) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/1Rsm7e7fnLx87MDgV7w7ZM) | 3:09 | 2022-09-20 |  |
+| [The Age Of The Understatement](https://open.spotify.com/track/4fsWlej0WwmeCIRYY5xIir) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/1Rsm7e7fnLx87MDgV7w7ZM) | 3:09 | 2022-09-20 | 2023-02-01 |
 | [The Age Of The Understatement](https://open.spotify.com/track/5HamPyIAqSny6UjXTN8DIe) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/6F2oZImWBYq4tbAGVL6D0m) | 3:09 | 2021-12-03 | 2022-07-29 |
+| [The Age Of The Understatement](https://open.spotify.com/track/5WXMS6w7Gvb02b6bx4eBSF) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99) | 3:09 | 2023-01-10 |  |
 | [The Bucket](https://open.spotify.com/track/5LZSXhywLD0CXBPQs3ULoL) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Aha Shake Heartbreak](https://open.spotify.com/album/3fNRzhnl6WAtghBXEeyaub) | 2:55 | 2022-01-18 |  |
 | [The Bucket](https://open.spotify.com/track/75jRmaxLqF41moVqsygZHs) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Aha Shake Heartbreak](https://open.spotify.com/album/3cqdpAqjVjv5IB8HTruJkj) | 2:55 | 2021-12-03 | 2022-07-29 |
 | [The Funeral](https://open.spotify.com/track/5lRzWDEe7UuedU2QPsFg0K) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3) | 5:22 | 2022-01-18 |  |

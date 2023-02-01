@@ -2,7 +2,7 @@
 
 ### [Dil Ka Sukoon](https://open.spotify.com/playlist/45sMfdAKJExVmFvBd2TwmU)
 
-> Shah Rukh Khan\-Alia\-Ranbir\-Love Songs\-KK\-Kartik Aaryan\-Arijit Singh\-Pritam\-Love Songs\-Bollywood Love Songs\-Hindi Love Songs\-Soft Romantic Love Songs\-Hindi Films\-Bollywood Romance\-Bollywood Soft Romance\-Relaxing Love Songs\-Best Love Songs\-Slow Romantic Bollywood Songs\-Most Romantic LoveSong
+> Bollywood Love Songs\-Best Hindi Love Songs\-Top Love Songs\-Romantic \-Love Songs from Hindi Films\-Love Songs\-Romantic Songs\-Hindi Love Songs\-Romantic Hindi Bollywood Songs\-Romantic Songs\-Arijit Singh\-Shahrukh Khan\-Classic love songs
 
 126 songs - 10 hr 1 min
 

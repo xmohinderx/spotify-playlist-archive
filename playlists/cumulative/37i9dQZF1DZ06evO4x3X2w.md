@@ -4,7 +4,7 @@
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-91 songs - 6 hr 39 min
+92 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,11 +93,12 @@
 | [Walk This Way](https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 3:40 | 2023-01-27 |  |
 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2022-09-17 | 2023-01-28 |
 | [Walkin' The Dog](https://open.spotify.com/track/3TtNZafFdL1ccxVNERnh4w) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 3:12 | 2022-11-20 | 2023-01-26 |
-| [Walkin' The Dog](https://open.spotify.com/track/0AgJGo7JNWYBeHqbdzCXC0) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 3:13 | 2023-01-25 |  |
+| [Walkin' The Dog](https://open.spotify.com/track/0AgJGo7JNWYBeHqbdzCXC0) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 3:13 | 2023-01-25 | 2023-02-01 |
 | [Water Song/Janie's Got A Gun](https://open.spotify.com/track/5XPDEg7yZT893Ocru6IEph) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 5:38 | 2022-10-12 |  |
 | [What Could Have Been Love](https://open.spotify.com/track/0RWSLyiyfBktTFIs458CWV) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/1nrDZQLT9EfFArdk9oSCxQ) | 3:44 | 2022-09-17 | 2023-01-27 |
 | [What Could Have Been Love](https://open.spotify.com/track/5FKq1jZkkIC8LHkyp1TSBJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 3:44 | 2023-01-26 |  |
 | [What It Takes](https://open.spotify.com/track/2fAYTT9kcUm8tnUrhD80sC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:10 | 2022-09-17 |  |
 | [You See Me Crying](https://open.spotify.com/track/2aviXDjt6uZgYk6NkytZW9) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 5:11 | 2022-09-17 | 2023-01-04 |
+| [Young Lust](https://open.spotify.com/track/1NBBGTzsBg9gZxJHiXcDD1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 4:18 | 2023-01-31 |  |
 
 \*This playlist was first scraped on 2022-09-18. Prior content cannot be recovered.

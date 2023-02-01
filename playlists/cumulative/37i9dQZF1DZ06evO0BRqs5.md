@@ -4,7 +4,7 @@
 
 > This is Eir Aoi\. The essential tracks, all in one playlist.
 
-76 songs - 5 hr 32 min
+77 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [心臓](https://open.spotify.com/track/5jAzYu1dMEp0Mx3RCnTWrM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:34 | 2022-10-20 |  |
 | [星が降るユメ](https://open.spotify.com/track/1tsHgDDNkX2eUBvh8hTDhL) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [星が降るユメ](https://open.spotify.com/album/3eEkOmo0lmc3MfcfXoNxiJ) | 4:10 | 2022-06-09 |  |
 | [春〜spring〜](https://open.spotify.com/track/6Qot77kbGLMMlNsDnEEyN0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 4:23 | 2022-06-09 |  |
-| [月を追う真夜中](https://open.spotify.com/track/44nPRe9D8i3BJiTcxYyfp3) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [月を追う真夜中](https://open.spotify.com/album/54WirG6n1l8Vg0uF26R0yJ) | 4:16 | 2022-06-09 |  |
+| [月を追う真夜中](https://open.spotify.com/track/44nPRe9D8i3BJiTcxYyfp3) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [月を追う真夜中](https://open.spotify.com/album/54WirG6n1l8Vg0uF26R0yJ) | 4:16 | 2022-06-09 | 2023-02-01 |
+| [月を追う真夜中](https://open.spotify.com/track/7iuJWDLufY9spbErOgImjj) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 4:16 | 2023-01-31 |  |
 | [泡沫](https://open.spotify.com/track/51zZOB0rwq7Hr304eY1pJd) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [IGNITE](https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB) | 5:00 | 2022-06-09 | 2023-01-16 |
 | [流星](https://open.spotify.com/track/08qU2grYIu0XldcJZ7jEOb) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:12 | 2022-06-09 |  |
 | [深い森](https://open.spotify.com/track/0FQCrJ6j5ZDZ7od1TkMchk) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [翼](https://open.spotify.com/album/4Jgv6Mp7kD0phKwFs5UmzN) | 4:26 | 2022-06-09 |  |

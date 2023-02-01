@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-197 songs - 11 hr 24 min
+198 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bones \- Acoustic](https://open.spotify.com/track/2Z9LGFJvS856wfl1RW28up) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Bones \(Acoustic\)](https://open.spotify.com/album/1UVGUP1HTAMxa79o2n4QMz) | 3:21 | 2022-05-30 | 2022-07-29 |
 | [Breathe \- Acoustic](https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Neev](https://open.spotify.com/artist/4Ww02MqPOCYw0CufxePGkC) | [Breathe \(Acoustic\)](https://open.spotify.com/album/0sGeMxvcV4ggQUdSimDSe5) | 4:05 | 2022-06-24 | 2023-01-09 |
 | [Can I Be Him \- Acoustic Live Version](https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Can I Be Him \(Acoustic Live Version\)](https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah) | 5:05 | 2022-05-30 |  |
+| [Can We Pretend That We’re Good? \- Acoustic](https://open.spotify.com/track/6tgsUiewXcSnuzOTMNsEWE) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Can We Pretend That We’re Good?](https://open.spotify.com/album/0FnYhRGTIsIK4aGMc4KvFw) | 2:55 | 2023-01-06 |  |
 | [Chasing after the moon](https://open.spotify.com/track/3iBYSJKwt7BLhyAbjZIIot) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Chasing after the moon](https://open.spotify.com/album/14TbHE0RpXdAI5JLHGMrAo) | 3:58 | 2022-05-30 | 2022-07-29 |
 | [Chasing After the Moon](https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Chasing After the Moon](https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u) | 3:58 | 2022-06-24 |  |
 | [Chasing Cars \- Acoustic](https://open.spotify.com/track/0N8R7LdWNyM4XP2bR6pgiF) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/20YqElW2NNW0ecHDfAyDVg) | 3:56 | 2022-05-30 | 2022-07-29 |
@@ -40,7 +41,7 @@
 | [Cursed II](https://open.spotify.com/track/38DSyUHQmyVKeUWnbn6dkG) | [Chachi](https://open.spotify.com/artist/7lb78m877P9dEjjyDjrv8S) | [Cursed](https://open.spotify.com/album/4UAYE2CieGFmNrEzJCQlri) | 4:23 | 2022-05-30 | 2022-11-13 |
 | [Cut Me Loose \(feat\. SKAAR\) \- Acoustic](https://open.spotify.com/track/0fHTzQDHHNGlX1gwPZWENh) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Planets](https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O) | 3:15 | 2022-05-30 | 2022-11-28 |
 | [Dancing \(Mumbai Wedding\) \- Acoustic Version](https://open.spotify.com/track/4W69KDBgfp43KZnUR10m1Z) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\) \[Acoustic Version\]](https://open.spotify.com/album/2jpS3BqlA8cHiOuCBy9wmT) | 3:37 | 2022-05-30 | 2022-07-29 |
-| [Dancing \(Mumbai Wedding\) \- Acoustic Version](https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg) | 3:37 | 2022-06-24 |  |
+| [Dancing \(Mumbai Wedding\) \- Acoustic Version](https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg) | 3:37 | 2022-06-24 | 2023-02-01 |
 | [Dancing On My Own \- Acoustic](https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Dancing On My Own \(Acoustic\)](https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o) | 4:13 | 2022-06-24 |  |
 | [Darling This Isn't](https://open.spotify.com/track/6rpTwGaP1NcNVcFIsQivk4) | [Sorry, Peach](https://open.spotify.com/artist/6kDkKl4Yf2uYYzNxx83aTO), [Honest Creature](https://open.spotify.com/artist/3g7dxn32LcEGhZqHCGi05D) | [Darling This Isn't](https://open.spotify.com/album/7nzsRmhctJd08I0q6sE6k0) | 3:13 | 2022-05-30 | 2022-07-29 |
 | [Days That End in Y](https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Days That End in Y](https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2) | 2:22 | 2022-05-30 |  |

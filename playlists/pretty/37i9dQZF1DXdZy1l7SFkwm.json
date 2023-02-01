@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 32326,
+  "num_followers": 32367,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMDMyYmRiYmMxOTdiM2Y0ZWNhODJkMjIxNTc4MzEwOThl",
+  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMDBiNWZmZmYwZTBkMTQxY2FhNTQzNDFhY2M5ZDYyMWJi",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -191,6 +191,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -211,6 +227,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Foursider",
+        "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Mais Que Nada",
+      "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -227,38 +259,6 @@
       "duration_ms": 445080,
       "name": "Pedro Navaja",
       "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Foursider",
-        "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Mais Que Nada",
-      "url": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Buena Vista Social Club",
         "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
       },
@@ -363,6 +347,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "El Rey Bravo",
         "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 274018,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Constru\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 168373,
+      "name": "Cotidiano",
+      "url": "https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -403,18 +419,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Constru\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5"
+        "name": "Samba Esquema Novo",
+        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
       },
       "artists": [
         {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
         }
       ],
-      "duration_ms": 168373,
-      "name": "Cotidiano",
-      "url": "https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU"
+      "duration_ms": 179293,
+      "name": "Mas, Que Nada!",
+      "url": "https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -431,22 +447,6 @@
       "duration_ms": 187746,
       "name": "Tous les gar\u00e7ons et les filles - Slow",
       "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Samba Esquema Novo",
-        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Mas, Que Nada!",
-      "url": "https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -495,6 +495,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Martinho da Vila",
+        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 153440,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Suzanne Beware of the Devil - The Best of Dandy Livingstone",
         "url": "https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf"
       },
@@ -527,18 +543,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Martinho da Vila",
-        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
       },
       "artists": [
         {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
         }
       ],
-      "duration_ms": 153440,
-      "name": "Canta Canta, Minha Gente",
-      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
+      "duration_ms": 265080,
+      "name": "I Like It Like That",
+      "url": "https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -559,22 +575,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "I Like It Like That",
-        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
-      },
-      "artists": [
-        {
-          "name": "Pete Rodriguez",
-          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
-        }
-      ],
-      "duration_ms": 265080,
-      "name": "I Like It Like That",
-      "url": "https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
         "url": "https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 118120,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/2Dw3maiWT5u6xqIvmUfebi"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Take It Easy My Brother Charles",
+      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -611,22 +627,6 @@
       "duration_ms": 222920,
       "name": "Mi Swing es Tropical",
       "url": "https://open.spotify.com/track/0KTbezuHAJkcsiHewSuR1y"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Take It Easy My Brother Charles",
-      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -695,6 +695,26 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
+      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Elegance: The Birth Of The Modern Jazz Quartet",
         "url": "https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC"
       },
@@ -707,6 +727,22 @@
       "duration_ms": 209400,
       "name": "Softly As In A Morning Sunrise",
       "url": "https://open.spotify.com/track/4vWMrM0AwlhRlkAdQtC2zn"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Samba Esquema Novo",
+        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Por Causa De Voc\u00ea, Menina",
+      "url": "https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -743,42 +779,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Samba Esquema Novo",
-        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "Por Causa De Voc\u00ea, Menina",
-      "url": "https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
-      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Linha De Passe",
         "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "A Toda Cuba Le Gusta",
-        "url": "https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cuban All Stars",
-          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
-        }
-      ],
-      "duration_ms": 396440,
-      "name": "Amor verdadero",
-      "url": "https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "I Like It Like That",
         "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 185546,
       "name": "Soy El Rey",
       "url": "https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "A Toda Cuba Le Gusta",
+        "url": "https://open.spotify.com/album/3mjwCWLCCtHiEv0Ttek5zT"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cuban All Stars",
+          "url": "https://open.spotify.com/artist/5cvnQ2gtwZraxeE99Y8aOg"
+        }
+      ],
+      "duration_ms": 396440,
+      "name": "Amor verdadero",
+      "url": "https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Entre Dos Aguas",
         "url": "https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 362093,
       "name": "Entre Dos Aguas",
       "url": "https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
-        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 168706,
-      "name": "Beggin' - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Trio Ternura (Compacto 1973)",
         "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Homenaje a Agustin Lara - To\u00f1a La Negra",
-        "url": "https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L"
+        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
+        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
       },
       "artists": [
         {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 197877,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H"
+      "duration_ms": 168706,
+      "name": "Beggin' - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Homenaje a Agustin Lara - To\u00f1a La Negra",
+        "url": "https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 197877,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 180626,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "O Amor, O Sorriso e a Flor (Ultimate Mix)",
-        "url": "https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 118361,
-      "name": "O Pato - Ultimate Mix",
-      "url": "https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1143,6 +1127,22 @@
       "duration_ms": 278640,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "O Amor, O Sorriso e a Flor (Ultimate Mix)",
+        "url": "https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 118361,
+      "name": "O Pato - Ultimate Mix",
+      "url": "https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1179,6 +1179,22 @@
       "duration_ms": 155773,
       "name": "Toda una vida",
       "url": "https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Curanderas",
+        "url": "https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF"
+      },
+      "artists": [
+        {
+          "name": "Kelvis Ochoa",
+          "url": "https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Una De Mambo",
+      "url": "https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1235,38 +1251,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Curanderas",
-        "url": "https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF"
-      },
-      "artists": [
-        {
-          "name": "Kelvis Ochoa",
-          "url": "https://open.spotify.com/artist/3Q2MVC1NWIzEyUytnlFBKm"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Una De Mambo",
-      "url": "https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Buenos Hermanos",
-        "url": "https://open.spotify.com/album/2U4d397MrGSUt8c289VZVT"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "Boliviana",
-      "url": "https://open.spotify.com/track/0c3dYyhdKUFd2zUSL4tdvz"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Gipsy Kings",
         "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 208573,
       "name": "Que Beleza",
       "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Buenos Hermanos",
+        "url": "https://open.spotify.com/album/2U4d397MrGSUt8c289VZVT"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "Boliviana",
+      "url": "https://open.spotify.com/track/0c3dYyhdKUFd2zUSL4tdvz"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "The New Sound of Brazil",
-        "url": "https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Samba de Orfeu",
-      "url": "https://open.spotify.com/track/1xZJP3lavEcMYq1eva8cce"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "El Tr\u00edo Los Panchos / Por Siempre Boleros",
         "url": "https://open.spotify.com/album/4dJcbMoV2N10NKW9G0bXec"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 174106,
       "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
       "url": "https://open.spotify.com/track/0gKj8QF7esmwphbJe2DZF5"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "The New Sound of Brazil",
+        "url": "https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Samba de Orfeu",
+      "url": "https://open.spotify.com/track/1xZJP3lavEcMYq1eva8cce"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Bonfa Burrows Brazil",
-        "url": "https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq"
-      },
-      "artists": [
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        }
-      ],
-      "duration_ms": 234200,
-      "name": "The Shade of the Mango Tree",
-      "url": "https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 176146,
       "name": "O Morro (N\u00e3o Tem Vez)",
       "url": "https://open.spotify.com/track/5jMc7pAGFQ5lRqfaM7AsU5"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Bonfa Burrows Brazil",
+        "url": "https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq"
+      },
+      "artists": [
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        }
+      ],
+      "duration_ms": 234200,
+      "name": "The Shade of the Mango Tree",
+      "url": "https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Guisando: Doing A Job",
+        "url": "https://open.spotify.com/album/5cIig3BrjPvDMpMRZR7a9G"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 429840,
+      "name": "No Me Den Candela",
+      "url": "https://open.spotify.com/track/1NKjjz8SHggPHXF6DnlabU"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Beach Samba",
         "url": "https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 80800,
       "name": "Lobo Bobo (Foolish Wolf)",
       "url": "https://open.spotify.com/track/5wjEUKBi5gkrrZ6lZxzC5Y"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Guisando: Doing A Job",
-        "url": "https://open.spotify.com/album/5cIig3BrjPvDMpMRZR7a9G"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 429840,
-      "name": "No Me Den Candela",
-      "url": "https://open.spotify.com/track/1NKjjz8SHggPHXF6DnlabU"
     },
     {
       "added_at": "2021-03-15 16:04:53",

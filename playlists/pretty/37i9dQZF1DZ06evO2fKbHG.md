@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,748 likes - 45 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,854 likes - 45 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 18 | [Lost in the Supermarket \- Remastered](https://open.spotify.com/track/72boGlgSwUK01n44O2tOCv) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:46 |
 | 19 | [The Leader \- Remastered](https://open.spotify.com/track/1HEcT04aFqXJt27hdTQ9nB) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 1:42 |
 | 20 | [I'm so Bored with the U.S.A\. \- Remastered](https://open.spotify.com/track/6bbQuT0lK4ekunMnK446Bt) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:24 |
-| 21 | [Safe European Home \- Remastered](https://open.spotify.com/track/7iiofeVKhJz7ZbcI2jFcPm) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:50 |
+| 21 | [Tommy Gun \- Remastered](https://open.spotify.com/track/3ZhMxNCJcoYBj2wrO4VU3l) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:17 |
 | 22 | [Spanish Bombs \- Remastered](https://open.spotify.com/track/6wtmql7FJ7SSLuSw8JD8rX) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:18 |
 | 23 | [Somebody Got Murdered \- Remastered](https://open.spotify.com/track/6izEYubQaf7odJ46scKEzr) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 3:34 |
 | 24 | [London's Burning \- Remastered](https://open.spotify.com/track/0y8zZOu4u6NmoW7u1jEQzo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:11 |
-| 25 | [Tommy Gun \- Remastered](https://open.spotify.com/track/3ZhMxNCJcoYBj2wrO4VU3l) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:17 |
+| 25 | [Safe European Home \- Remastered](https://open.spotify.com/track/7iiofeVKhJz7ZbcI2jFcPm) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:50 |
 | 26 | [Know Your Rights \- Remastered](https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:40 |
 | 27 | [Hitsville U.K\. \- Remastered](https://open.spotify.com/track/3F8ddXLIHVLdunzh6fLvKs) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 4:21 |
 | 28 | [This is Radio Clash](https://open.spotify.com/track/7sQkeztZAGR3haZL71wvZe) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 4:12 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 44 | [Kosmo Vinyl Introduction \(Live at Shea Stadium\) \[Remastered\]](https://open.spotify.com/track/4ADBECleY1W07PUKeKbsBN) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Live at Shea Stadium \(Remastered\)](https://open.spotify.com/album/4dMWTj1OkiCKFN5yBMP1vS) | 1:10 |
 | 45 | [Time is Tight](https://open.spotify.com/track/43IQfe1PKIKocv7SUky7xy) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 4:04 |
 
-Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDA0MzI1Y2I1ZDNlYzhlOWJmNjk2NjQxNDVkYjI3MzUyOA==`
+Snapshot ID: `Mjc5MTk3OTQsMDAwMDAwMDBhN2QyM2Y1NjZmMTBlZmVmNjZlZDBmNTEzODhiMTdkOQ==`

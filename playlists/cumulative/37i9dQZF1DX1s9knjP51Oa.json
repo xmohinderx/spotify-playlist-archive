@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 207469,
       "name": "22",
       "url": "https://open.spotify.com/track/6mz8JRgQtisMv1x65BIrQg"
@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/4P344vEqsQXiTwPa7YsFfc"
+      },
+      "artists": [
+        {
+          "name": "Emilio Chiara",
+          "url": "https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120202,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1cTCSy4aSPecGDDx3wqUjD"
+    },
+    {
+      "album": {
         "name": "Azure",
         "url": "https://open.spotify.com/album/5IrqwVDmVO3cLqOzCc5dRG"
       },
@@ -902,7 +920,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 139636,
       "name": "Barely Awake",
       "url": "https://open.spotify.com/track/7xKLiItra445rJi8Fehifn"
@@ -4085,6 +4103,24 @@
     },
     {
       "album": {
+        "name": "Himlen",
+        "url": "https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp"
+      },
+      "artists": [
+        {
+          "name": "Andrea Azzola",
+          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121504,
+      "name": "Himlen",
+      "url": "https://open.spotify.com/track/08athgGdqnRmET0kInHb8n"
+    },
+    {
+      "album": {
         "name": "Hinode",
         "url": "https://open.spotify.com/album/1wkFABi2Q0XBC9j0dOEAwZ"
       },
@@ -6725,6 +6761,24 @@
     },
     {
       "album": {
+        "name": "Okra",
+        "url": "https://open.spotify.com/album/0AccCIBENIOeBoUfMioz12"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193186,
+      "name": "Okra",
+      "url": "https://open.spotify.com/track/1so7IJIPEpxEFefMYGa0ia"
+    },
+    {
+      "album": {
         "name": "Old Friends",
         "url": "https://open.spotify.com/album/0RwX2sJ91NUNGsEvaOiwLF"
       },
@@ -7226,6 +7280,24 @@
       "duration_ms": 116000,
       "name": "Play You a Song",
       "url": "https://open.spotify.com/track/0uK4AAlSHrO037pClTccfp"
+    },
+    {
+      "album": {
+        "name": "Poesia",
+        "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
+      },
+      "artists": [
+        {
+          "name": "Fernando Alegre",
+          "url": "https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125248,
+      "name": "Poesia",
+      "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
     },
     {
       "album": {
@@ -7985,6 +8057,24 @@
     },
     {
       "album": {
+        "name": "R\u00eaveuse",
+        "url": "https://open.spotify.com/album/5npG7egCzEs9bOxDd621W7"
+      },
+      "artists": [
+        {
+          "name": "Antoine Stavelot",
+          "url": "https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147874,
+      "name": "R\u00eaveuse",
+      "url": "https://open.spotify.com/track/3IrhvylMyORrBvLbqVR1KM"
+    },
+    {
+      "album": {
         "name": "R\u00f3s",
         "url": "https://open.spotify.com/album/6PIDeurwsuW0AEex2B59Rn"
       },
@@ -8680,7 +8770,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 345000,
       "name": "Soft Sunrays",
       "url": "https://open.spotify.com/track/0fXkY4lEHbkyWfDmN4KdOp"
@@ -10938,7 +11028,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 122390,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/7L3AZOpZ7LUvUHonOLwxob"

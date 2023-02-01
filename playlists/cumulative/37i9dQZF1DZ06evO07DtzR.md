@@ -4,7 +4,7 @@
 
 > This is EGOIST\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 42 min
+68 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Planetes](https://open.spotify.com/track/1GUnIBiLhgEwSQJzGNuUrk) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra terrestrial Biological Entities](https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi) | 6:07 | 2022-11-20 |  |
 | [prelude](https://open.spotify.com/track/0TEyUJfLDQs2f3KHsxh4Ue) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [名前のない怪物](https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG) | 0:36 | 2022-06-09 |  |
 | [The Everlasting Guilty Crown](https://open.spotify.com/track/76jRSSkd4pLwUflgwSeuB0) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Extra Terrestrial Biological Entities](https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F) | 5:25 | 2022-06-09 |  |
-| [The Everlasting Guilty Crown \-TV Edit\-](https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5) | 1:36 | 2022-06-09 |  |
+| [The Everlasting Guilty Crown \-TV Edit\-](https://open.spotify.com/track/1GMn1r0AorrLMgKjesIgYh) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC) | 1:36 | 2023-01-31 |  |
+| [The Everlasting Guilty Crown \-TV Edit\-](https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5) | 1:36 | 2022-06-09 | 2023-02-01 |
 | [The Everlasting Guilty Crown BOOM BOOM SATELLITES remix \-The Last Moment Of The Dawn\-](https://open.spotify.com/track/6OPsaDrvyEGBGxV0ovL7Ea) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5) | 7:55 | 2022-06-09 | 2022-10-12 |
 | [The Everlasting Guilty Crown BOOM BOOM SATELLITES remix \-The Last Moment Of The Dawn\-](https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [The Everlasting Guilty Crown](https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC) | 7:55 | 2022-09-12 |  |
 | [The Everlasting Guilty Crown Nightcore mix](https://open.spotify.com/track/4tGTYRb4WvONONBHQMAJBA) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [咲かせや咲かせ](https://open.spotify.com/album/7nYDf2MRbrQA6aiyrzPgx7) | 5:01 | 2022-06-09 |  |

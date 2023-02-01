@@ -4,7 +4,7 @@
 
 > Indie tunes for t\-shirt weather.
 
-302 songs - 17 hr 14 min
+303 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Happy Ending](https://open.spotify.com/track/7cRZRBbNdODYhhTDaUVgJm) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Better Off Without](https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3) | 3:48 | 2022-07-11 | 2022-07-29 |
 | [Headphones Baby](https://open.spotify.com/track/1lD48THcebkuZPKIgoxADP) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Headphones Baby](https://open.spotify.com/album/43slz2Iv1l6poOSthffyVz) | 3:18 | 2021-08-13 | 2022-07-29 |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2021-08-13 |  |
-| [Heavenly Maybe](https://open.spotify.com/track/1eiR1ZQMYxyqHY9cXm0RgT) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Sanctuary](https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4) | 3:26 | 2022-08-25 |  |
+| [Heavenly Maybe](https://open.spotify.com/track/1eiR1ZQMYxyqHY9cXm0RgT) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Sanctuary](https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4) | 3:26 | 2022-08-25 | 2023-02-01 |
 | [Heavenly Maybe](https://open.spotify.com/track/6Ej3CAn9PID4f1YAJwEzvl) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Heavenly Maybe](https://open.spotify.com/album/22DjXxvIEIn7nNdxn2Gv0k) | 3:26 | 2021-08-13 | 2022-07-29 |
 | [Hi\-Fidelity](https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ZNelJy2iPIK2YtGHCuB3t) | 3:19 | 2022-08-25 |  |
 | [Hi\-Fidelity](https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7) | 3:19 | 2022-06-10 | 2022-12-26 |
@@ -121,6 +121,7 @@
 | [How Dare You Want More \- Verdine White of Earth, Wind & Fire Remix](https://open.spotify.com/track/6xhRei2Te4AccMPnAFWven) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Verdine White](https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp) | [Stop Making This Hurt \(A\. G\. Cook Remix\) / How Dare You Want More \(Verdine White of Earth, Wind & Fire Remix\)](https://open.spotify.com/album/4dphMEA8aTNDk07kNjKLqv) | 2:59 | 2022-06-17 | 2022-07-29 |
 | [How Do I Cry?](https://open.spotify.com/track/4nrkr6IA1mPqLOU4Co67Vc) | [Fake Dad](https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk) | [How Do I Cry?](https://open.spotify.com/album/7B6DIZbDBAWNJ5vTSp1vkj) | 3:01 | 2022-06-10 | 2022-07-18 |
 | [Human Condition](https://open.spotify.com/track/1eNyYS3r2V3lNJNz5uqwCW) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Human Condition](https://open.spotify.com/album/0yqT3zXPPNYb3OA2c75JBT) | 3:07 | 2022-06-10 | 2022-07-29 |
+| [Human Condition](https://open.spotify.com/track/6GifVz1gA0lKGDAlez5iyP) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:07 | 2022-08-25 |  |
 | [Hurricane](https://open.spotify.com/track/23unqAilZgKoYIcmqCLlUL) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Hurricane](https://open.spotify.com/album/0Gss2qAjvsC3zXjL2GusEI) | 3:13 | 2022-03-24 | 2022-04-20 |
 | [I Don't Love You](https://open.spotify.com/track/0QpNvDmcfNK1ZP7SGHIxVX) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [I Don't Love You](https://open.spotify.com/album/5HgPg5KV4Kr6KYqtWzElkp) | 3:23 | 2022-07-11 | 2022-07-28 |
 | [I Don't Want to Talk](https://open.spotify.com/track/1w8yCB2WBn8ho281eTKEsF) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [At the End of the Day](https://open.spotify.com/album/2n2q50EXqvLb9soddvFtNq) | 3:43 | 2022-03-24 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Against The Current
 
-872 songs - 1 day 22 hr 30 min
+873 songs - 1 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,8 @@
 | [fuck u](https://open.spotify.com/track/6TCHh0VTnbXq5iAKK4JBjG) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [searching for nirvana](https://open.spotify.com/album/6KvpjWttWb04l9Goe07g28) | 2:41 | 2022-07-08 | 2022-08-03 |
 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 | 2022-11-04 |  |
 | [Fumes](https://open.spotify.com/track/3eUpLx5Xm1LmFLDMt7tJXo) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Fumes / Limbo](https://open.spotify.com/album/7bR6MDcy3HPH16qJJe9vIQ) | 2:17 | 2022-04-08 | 2022-05-31 |
-| [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-05-20 |  |
+| [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-05-20 | 2023-02-01 |
+| [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2022-12-02 |  |
 | [Fvck Your Boyfriend](https://open.spotify.com/track/5x403rOWWAdkdlt6r8NFFG) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Fvck Your Boyfriend](https://open.spotify.com/album/2BL0drOpAdfvOCjZ7rEiu4) | 2:55 | 2021-12-10 | 2022-05-30 |
 | [G R O W \(WILLOW & Avril Lavigne feat\. Travis Barker\)](https://open.spotify.com/track/7yYDTV3VQ322o8r4wcYlqZ) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 2:09 | 2021-12-10 | 2022-05-19 |
 | [Garamond](https://open.spotify.com/track/5FqwQC3C7VEO62zpVR6RHt) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Garamond](https://open.spotify.com/album/7FV2SMlamWIJ9q0cSGZ1lj) | 2:59 | 2021-12-10 |  |

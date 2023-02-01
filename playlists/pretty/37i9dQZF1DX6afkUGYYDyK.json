@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 15524,
+  "num_followers": 15559,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMDYzMTY0OWFkMzljNmMyYTA2ZmRkZjBmYTZmNzRkYjgy",
+  "snapshot_id": "MTY2OTI3NDg1OCwwMDAwMDAwMDIxNWRiNThlY2YxMTM5YjlkMzliOTliMTIxOWZkMDdj",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -99,6 +99,34 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Thanks",
+        "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 221274,
+      "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
+      "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Thank You For It All",
         "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
       },
@@ -175,34 +203,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thanks",
-        "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 221274,
-      "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
-      "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Be Glad",
         "url": "https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx"
       },
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Give Thanks & Praises",
-      "url": "https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 192775,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Give Thanks & Praises",
+      "url": "https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "That Thank You Song!",
-        "url": "https://open.spotify.com/album/1kcfrHqrLUynZr18RCm6rR"
-      },
-      "artists": [
-        {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
-        }
-      ],
-      "duration_ms": 186709,
-      "name": "That Thank You Song!",
-      "url": "https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Thanks In Advance",
         "url": "https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 141176,
       "name": "Thanks In Advance",
       "url": "https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "That Thank You Song!",
+        "url": "https://open.spotify.com/album/1kcfrHqrLUynZr18RCm6rR"
+      },
+      "artists": [
+        {
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "That Thank You Song!",
+      "url": "https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Milk & Cookies: A Merry Crowder Christmas",
-        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 208243,
-      "name": "Thanks Giver",
-      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Covered: Alive In Asia (Deluxe Version)",
         "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 482013,
       "name": "Thank You Lord (feat. BJ Putnam)",
       "url": "https://open.spotify.com/track/56o9jizzI7tJKPUO0tUAnA"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Milk & Cookies: A Merry Crowder Christmas",
+        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 208243,
+      "name": "Thanks Giver",
+      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Give Thanks (Live)",
-        "url": "https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
-        }
-      ],
-      "duration_ms": 254426,
-      "name": "Give Thanks - Live",
-      "url": "https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Kingdom Come - The Soundtrack",
         "url": "https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Give Thanks",
-        "url": "https://open.spotify.com/album/5bv8C4U5pcwFB9tqV66scN"
+        "name": "Give Thanks (Live)",
+        "url": "https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83"
       },
       "artists": [
         {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
         }
       ],
-      "duration_ms": 305006,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/5cTw0oq5qvySv7k5LpRfg9"
+      "duration_ms": 254426,
+      "name": "Give Thanks - Live",
+      "url": "https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -627,6 +611,22 @@
       "duration_ms": 710916,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Give Thanks",
+        "url": "https://open.spotify.com/album/5bv8C4U5pcwFB9tqV66scN"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 305006,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/5cTw0oq5qvySv7k5LpRfg9"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Grace - Live Worship From New Wine 2001",
+        "url": "https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG"
+      },
+      "artists": [
+        {
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Give Thanks To The Lord (Forever)",
+      "url": "https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "Thankful (Live)",
         "url": "https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 419000,
       "name": "Thankful - Live",
       "url": "https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Grace - Live Worship From New Wine 2001",
-        "url": "https://open.spotify.com/album/4WD8BZQpKagkCBmCSQIyzG"
-      },
-      "artists": [
-        {
-          "name": "Tim Hughes",
-          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Give Thanks To The Lord (Forever)",
-      "url": "https://open.spotify.com/track/24HDmEMoHettUmN3Gf01Pn"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Faithful To Believe",
-        "url": "https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61"
-      },
-      "artists": [
-        {
-          "name": "Byron Cage",
-          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
-        }
-      ],
-      "duration_ms": 386466,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Songs 4 Worship Gospel - God Is In the House",
         "url": "https://open.spotify.com/album/052YKRyqnlBdsBPvL82WRZ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 389920,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/1zm7N5ffTPjHQzNIQAdGq1"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Faithful To Believe",
+        "url": "https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61"
+      },
+      "artists": [
+        {
+          "name": "Byron Cage",
+          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
+        }
+      ],
+      "duration_ms": 386466,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm"
     },
     {
       "added_at": "2022-11-23 15:01:23",

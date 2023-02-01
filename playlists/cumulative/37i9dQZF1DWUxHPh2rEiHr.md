@@ -4,7 +4,7 @@
 
 > Discover rhythmic crossover hits from cultures around the world\. Cover: Aya Nakamura & Myke Towers
 
-364 songs - 18 hr 56 min
+365 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D) | 2:59 | 2022-05-16 | 2022-05-25 |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2021-12-20 |  |
 | [SUNDOWN \(feat\. Justin Bieber\)](https://open.spotify.com/track/7J9UCy56nirwKuf1IMYtE1) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 3:43 | 2022-02-08 | 2022-04-19 |
-| [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-13 |  |
+| [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-13 | 2023-02-01 |
 | [Sweet Dreams & Dynamite](https://open.spotify.com/track/6S8pntCfgqcPa5vhybICfv) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Sweet Dreams & Dynamite](https://open.spotify.com/album/4bL1xyGhj6p9Tzw9UO5Mjy) | 2:41 | 2021-12-20 | 2022-04-21 |
 | [Síntomas de Soltera](https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Síntomas de Soltera](https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x) | 4:01 | 2022-12-09 | 2022-12-24 |
 | [T'as peur](https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:35 | 2023-01-27 |  |
@@ -364,6 +364,7 @@
 | [Woman](https://open.spotify.com/track/5PjVhymNaWsU57S7zhOjgo) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Woman](https://open.spotify.com/album/0ZpRrn5pcVaxmmlPnC8X5J) | 2:48 | 2022-05-20 | 2022-05-22 |
 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86) | 3:19 | 2021-12-20 | 2022-04-21 |
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-03-28 | 2022-05-07 |
+| [Yandel 150](https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:36 | 2023-01-27 |  |
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-12-20 |  |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-26 | 2022-09-10 |
 | [YOU \(feat\. Damian Marley\)](https://open.spotify.com/track/70gSJrLzbMOURbFnMzG85g) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [YOU \(feat\. Damian Marley\)](https://open.spotify.com/album/3xP4sRiFGlSeoSw5t3Q567) | 3:33 | 2022-02-08 | 2022-04-15 |

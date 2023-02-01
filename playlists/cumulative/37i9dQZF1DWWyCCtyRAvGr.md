@@ -4,7 +4,7 @@
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-131 songs - 9 hr 45 min
+133 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,11 +31,12 @@
 | [Connecticut Blues](https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:26 | 2022-06-14 |  |
 | [Dengue Woman Blues](https://open.spotify.com/track/3L8DnKNfRS3vv13t1E5jc3) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [From Dusk Till Dawn \- Music From The Motion Picture](https://open.spotify.com/album/1Fcl4xWU6qGvkJ45lg3TfK) | 6:23 | 2022-05-25 | 2022-07-28 |
 | [Dengue Woman Blues](https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:23 | 2022-07-08 |  |
+| [Dirt Road Blues \- 2022 Remix](https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 3:34 | 2023-02-01 |  |
 | [Don't Answer The Door](https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [His Best: The Electric B.B\. King \(Expanded Edition\)](https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4) | 5:09 | 2022-05-25 |  |
 | [Don't Deal With The Devil](https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r) | [Sean Stephen](https://open.spotify.com/artist/0wHOPf2KuDPTX1jXDw1qMp) | [Shadows and Ghosts](https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa) | 3:50 | 2022-05-25 |  |
 | [Don't Go Back To New Orleans \- Remastered 2022](https://open.spotify.com/track/17J48o0PQhGI7KFZXMe9j1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 1:21 | 2022-11-18 |  |
 | [Down Home Blues](https://open.spotify.com/track/5WGUe5K85GamXycXDoMT6l) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Right Time](https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ) | 4:36 | 2022-05-25 |  |
-| [Down so Long](https://open.spotify.com/track/7oWzQGtcIKg0il8b4c6oM6) | [Ryan Lee Crosby](https://open.spotify.com/artist/2jbgitwQghH69jtgs7zwTT) | [Down so Long](https://open.spotify.com/album/11upoaPkaYHPwwbaIpZejv) | 3:39 | 2022-05-25 |  |
+| [Down so Long](https://open.spotify.com/track/7oWzQGtcIKg0il8b4c6oM6) | [Ryan Lee Crosby](https://open.spotify.com/artist/2jbgitwQghH69jtgs7zwTT) | [Down so Long](https://open.spotify.com/album/11upoaPkaYHPwwbaIpZejv) | 3:39 | 2022-05-25 | 2023-02-01 |
 | [Drifting From Town To Town](https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 3:06 | 2022-07-08 |  |
 | [Easy On The Eyes](https://open.spotify.com/track/1NkI05k92FlfdiCL5BKol6) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Easy On The Eyes](https://open.spotify.com/album/3kd1vDgfeU3UsFtDvIUcts) | 3:31 | 2022-07-08 | 2022-09-16 |
 | [Easy On The Eyes](https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 3:31 | 2022-10-14 |  |
@@ -87,6 +88,7 @@
 | [Midnight Healing](https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn) | [Gene Deer](https://open.spotify.com/artist/2eIkIIArGbSEVLzC0rHxGV) | [Soul Tender](https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn) | 7:39 | 2022-05-25 |  |
 | [Midnight in Mississippi '22](https://open.spotify.com/track/31rHw7L2PnXw53oNzH1FgI) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Midnight in Mississippi '22](https://open.spotify.com/album/78vmcDjMM4wIn6CppzngNt) | 3:58 | 2022-11-18 |  |
 | [Mississippi \- Version 2](https://open.spotify.com/track/4T7zdEt6EPBYPINynERjCN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Mississippi \(Version 2\)](https://open.spotify.com/album/4mAnAlXFfFIlnzNRV8cCfR) | 5:12 | 2023-01-20 | 2023-01-29 |
+| [Mississippi \- Version 2](https://open.spotify.com/track/6JWHNd8QMxTvojYkmZtKGI) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 5:12 | 2023-01-20 |  |
 | [Need Her So Bad](https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 7:00 | 2022-05-25 |  |
 | [Nothing But Love](https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [Contemporary](https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7) | 3:02 | 2022-11-18 |  |
 | [Old Time Used to Be](https://open.spotify.com/track/5qORQA2LGzwmmCjLgHtHS6) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Blues Comin' On](https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa) | 5:17 | 2022-05-25 |  |
@@ -138,6 +140,6 @@
 | [You Don't Want Me](https://open.spotify.com/track/1bMCiGzKRJwmYkxtSBsTSM) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs And A Roach](https://open.spotify.com/album/4OnXvgvHOupLeSaEVU8hpk) | 5:16 | 2022-05-25 | 2022-07-23 |
 | [You Don't Want Me](https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 5:16 | 2022-07-08 |  |
 | [You Know My Love](https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues \(Deluxe Edition\)](https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ) | 4:18 | 2022-05-25 |  |
-| [Your Lies](https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH) | [The Cinelli Brothers](https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF) | [Your Lies](https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB) | 3:13 | 2022-11-18 |  |
+| [Your Lies](https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH) | [The Cinelli Brothers](https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF) | [Your Lies](https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB) | 3:13 | 2022-11-18 | 2023-02-01 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

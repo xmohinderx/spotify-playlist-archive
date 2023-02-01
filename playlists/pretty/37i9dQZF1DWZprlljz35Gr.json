@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 6129,
+  "num_followers": 6154,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDkzNTVkODlkZWFiZDliOGRkOGQzODIwNDA3MTkwN2Rh",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMGE2M2QyM2YxMjYwZWY3MjliYzc1MzMwMzlhZGI1ZWU1",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Playing the Angel",
         "url": "https://open.spotify.com/album/0oHWHIlUObaSopO9wOhvfz"
       },
@@ -295,22 +311,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 175653,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Malfunktionality Part One",
         "url": "https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 161252,
       "name": "That's Alright",
       "url": "https://open.spotify.com/track/1jRIILpPBwSVssnrXGV5hS"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -393,26 +409,6 @@
       "url": "https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "This Is For Everyone",
-        "url": "https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7"
-      },
-      "artists": [
-        {
-          "name": "Jamie Berry",
-          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
-        },
-        {
-          "name": "Paul Naylor",
-          "url": "https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5"
-        }
-      ],
-      "duration_ms": 255616,
-      "name": "Stand Together - Original Mix",
-      "url": "https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4"
-    },
-    {
       "added_at": "2021-07-02 04:01:00",
       "album": {
         "name": "Black Blood",
@@ -435,6 +431,26 @@
       "duration_ms": 146468,
       "name": "Black Blood",
       "url": "https://open.spotify.com/track/3xQSVngL4OJu5RXAchFQPm"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "This Is For Everyone",
+        "url": "https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7"
+      },
+      "artists": [
+        {
+          "name": "Jamie Berry",
+          "url": "https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8"
+        },
+        {
+          "name": "Paul Naylor",
+          "url": "https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5"
+        }
+      ],
+      "duration_ms": 255616,
+      "name": "Stand Together - Original Mix",
+      "url": "https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -471,22 +487,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Prehistoric Rhythm",
         "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
       },
@@ -519,18 +519,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Who Else!",
-        "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
+        "name": "Dog 'n' Bone",
+        "url": "https://open.spotify.com/album/3pnmwntXRlUrBVvxabteEa"
       },
       "artists": [
         {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Leaf Dog",
+          "url": "https://open.spotify.com/artist/3m634B61sWwR5xhu3lCyK6"
         }
       ],
-      "duration_ms": 295640,
-      "name": "Psycho Sam",
-      "url": "https://open.spotify.com/track/30gsKtkGEylGX4m7obkefo"
+      "duration_ms": 157426,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -551,66 +555,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Left Behind",
-        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
+        "name": "Who Else!",
+        "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
       },
       "artists": [
         {
-          "name": "Scarecrow",
-          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 199040,
-      "name": "FaiBless",
-      "url": "https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Dirty Blues",
-        "url": "https://open.spotify.com/album/5izZcttoL7uPSrAosqObkb"
-      },
-      "artists": [
-        {
-          "name": "Riff Kitten",
-          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
-        }
-      ],
-      "duration_ms": 166574,
-      "name": "Dirty Blues",
-      "url": "https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3"
-      },
-      "artists": [
-        {
-          "name": "Little Axe",
-          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
-        }
-      ],
-      "duration_ms": 321375,
-      "name": "Ride On",
-      "url": "https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Prehistoric Rhythm",
-        "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
-      },
-      "artists": [
-        {
-          "name": "MY BABY",
-          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
-        }
-      ],
-      "duration_ms": 224510,
-      "name": "Sunroof Diesel Blues",
-      "url": "https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr"
+      "duration_ms": 295640,
+      "name": "Psycho Sam",
+      "url": "https://open.spotify.com/track/30gsKtkGEylGX4m7obkefo"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -635,6 +591,54 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/08SSscS6DCQ4QOp4plJcOF"
+      },
+      "artists": [
+        {
+          "name": "Scarecrow",
+          "url": "https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "FaiBless",
+      "url": "https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Prehistoric Rhythm",
+        "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
+      },
+      "artists": [
+        {
+          "name": "MY BABY",
+          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
+        }
+      ],
+      "duration_ms": 224510,
+      "name": "Sunroof Diesel Blues",
+      "url": "https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Dirty Blues",
+        "url": "https://open.spotify.com/album/5izZcttoL7uPSrAosqObkb"
+      },
+      "artists": [
+        {
+          "name": "Riff Kitten",
+          "url": "https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a"
+        }
+      ],
+      "duration_ms": 166574,
+      "name": "Dirty Blues",
+      "url": "https://open.spotify.com/track/41N9M3HeIQWcS63XAiWOqJ"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Come on In",
         "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
       },
@@ -651,22 +655,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Dog 'n' Bone",
-        "url": "https://open.spotify.com/album/3pnmwntXRlUrBVvxabteEa"
+        "name": "Return",
+        "url": "https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3"
       },
       "artists": [
         {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        },
-        {
-          "name": "Leaf Dog",
-          "url": "https://open.spotify.com/artist/3m634B61sWwR5xhu3lCyK6"
+          "name": "Little Axe",
+          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
         }
       ],
-      "duration_ms": 157426,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/2CPIE5QUfKjUKFNcKQXgnU"
+      "duration_ms": 321375,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -699,22 +699,6 @@
       "duration_ms": 210430,
       "name": "Heavy On My Heart",
       "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Hard Grind",
-        "url": "https://open.spotify.com/album/3T2bRUO66PXyXR97uiXQeY"
-      },
-      "artists": [
-        {
-          "name": "Little Axe",
-          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
-        }
-      ],
-      "duration_ms": 243973,
-      "name": "Midnight Dream",
-      "url": "https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul"
     },
     {
       "added_at": "2022-03-01 20:08:23",
@@ -795,6 +779,22 @@
       "duration_ms": 213818,
       "name": "Why Not?",
       "url": "https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Hard Grind",
+        "url": "https://open.spotify.com/album/3T2bRUO66PXyXR97uiXQeY"
+      },
+      "artists": [
+        {
+          "name": "Little Axe",
+          "url": "https://open.spotify.com/artist/0ZLV7I1vDpjO5IIDTYfeGJ"
+        }
+      ],
+      "duration_ms": 243973,
+      "name": "Midnight Dream",
+      "url": "https://open.spotify.com/track/0v1JpYiFmnpgbxxzh5Oqul"
     },
     {
       "added_at": "2020-12-01 05:01:00",

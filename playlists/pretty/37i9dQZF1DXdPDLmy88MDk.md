@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,717 likes - 103 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,151 likes - 103 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

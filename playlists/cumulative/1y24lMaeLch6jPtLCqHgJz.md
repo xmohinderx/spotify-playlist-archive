@@ -4,7 +4,7 @@
 
 > The biggest Progressive House anthems of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-117 songs - 6 hr 9 min
+118 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [There's Still Time](https://open.spotify.com/track/7yh0Nvp2RacQ42AIWZu8Py) | [STARLYTE](https://open.spotify.com/artist/32UL2dRIFoeUL3ViLatNGv), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [There’s Still Time](https://open.spotify.com/album/0vnDRzYHPonEaDzQTMqnMw) | 3:30 | 2022-07-29 | 2022-10-04 |
 | [This Feeling](https://open.spotify.com/track/4gzdGjwIXhM3EzjKZMIq6b) | [Severman](https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u), [Alex Aspen](https://open.spotify.com/artist/6Q5kFbxHkQQRIbah391oiE), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [This Feeling](https://open.spotify.com/album/5aYxX3kMdOJx9sZLAnRsuN) | 2:58 | 2022-07-29 | 2022-11-19 |
 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 | 2022-07-29 |  |
+| [Tides](https://open.spotify.com/track/4IHJ09f2VWAtnBZcDGkWKu) | [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef), [Zack Torrez](https://open.spotify.com/artist/28Wd6TGd4pQWRk702jYWbJ) | [Tides](https://open.spotify.com/album/6NfzXnD8jaAHZ7PQe2K41n) | 3:09 | 2023-01-30 |  |
 | [Till The Stars Come Out Again](https://open.spotify.com/track/11M4dB6YEtbucEmdwGlT1T) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [ASTER](https://open.spotify.com/artist/6Jt9U8bJ56jqNdEKdLZ7Yw), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Darkness Into Light EP](https://open.spotify.com/album/3HuVxjs4Ht6LVyHvgRYANO) | 3:02 | 2022-07-29 | 2023-01-14 |
 | [Tomorrow](https://open.spotify.com/track/4S8rnl2Uinvl59QpcRY9oj) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [MrWhite](https://open.spotify.com/artist/4HD8ewNDLIhBO5f0N15J2h), [Gangi](https://open.spotify.com/artist/5Z0vJqhdSkVLPD5BbmMf08), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Tomorrow](https://open.spotify.com/album/1tWxL1uLXtjjdlZSdcIii7) | 3:00 | 2022-07-29 |  |
 | [Wasted](https://open.spotify.com/track/42lP15vqZBDGbWxe4QcbSE) | [Meikle](https://open.spotify.com/artist/6um9ebhW2OZFKdx89X3w07), [Riley James](https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Wasted](https://open.spotify.com/album/0alUNmsRrVuckujLRVFNK5) | 3:00 | 2022-08-19 |  |

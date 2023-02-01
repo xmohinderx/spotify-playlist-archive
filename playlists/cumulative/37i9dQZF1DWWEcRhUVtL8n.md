@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,458 songs - 3 day 4 hr 46 min
+1,459 songs - 3 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -758,6 +758,7 @@
 | [laurel](https://open.spotify.com/track/7rzkDmONjg7i8vkoATsW8f) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [laurel](https://open.spotify.com/album/554EELvFi0hyJGwv2tvZ54) | 2:09 | 2022-05-13 | 2022-06-29 |
 | [Lazy Love](https://open.spotify.com/track/7IrkGTwDPicWAnCflbeicD) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Lazy Love](https://open.spotify.com/album/2FMsm3iooQQOMJGIgNR2Op) | 3:02 | 2022-01-28 | 2022-04-17 |
 | [LEAVE ME](https://open.spotify.com/track/1ljQ8uKlwqJeyb007xeH8i) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [LEAVE ME](https://open.spotify.com/album/15hucP1bAk7CRRNtM2kzQH) | 2:14 | 2021-03-08 | 2022-04-16 |
+| [leave this party](https://open.spotify.com/track/3m0Z0qQb4hQhivHx7rrdKB) | [pj frantz](https://open.spotify.com/artist/1lhIL1YVgF6X1I8IMluKZi) | [leave this party](https://open.spotify.com/album/6juFKH4dgbV2aPC2q4IQuX) | 2:59 | 2023-01-23 |  |
 | [lemons](https://open.spotify.com/track/2tLoNGLxZsPvvPUVDMfSY2) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [lemons](https://open.spotify.com/album/4VCLLpsH8VSMy2VOdhUhXG) | 3:24 | 2022-03-18 | 2022-04-13 |
 | [Leona](https://open.spotify.com/track/3nZdGftW9CLVQZ0j9hkPuL) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO PT\. 1](https://open.spotify.com/album/1sByjN7ag1X0ppsT6SdP8J) | 4:06 | 2021-06-03 | 2021-06-04 |
 | [Leona](https://open.spotify.com/track/5oFCGSZuMgUbJZX3ldciUY) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 4:06 | 2021-10-10 | 2021-10-11 |
@@ -818,7 +819,7 @@
 | [Magazine](https://open.spotify.com/track/0Rop7nCpDSuqnuvzWvZIdq) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Magazine](https://open.spotify.com/album/3qoA0qWckqk4zo8Uf1iegl) | 3:51 | 2022-08-26 | 2022-09-10 |
 | [Magic](https://open.spotify.com/track/1ryKtGzdk4zMPLhEC6F95t) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Magic](https://open.spotify.com/album/7JqZcRZTsuvLO228vbGiwK) | 3:04 | 2021-03-18 | 2021-05-23 |
 | [magnetic](https://open.spotify.com/track/6CIV3eixAaJoCxOb0YSI94) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [magnetic](https://open.spotify.com/album/74ZAQCv86DyGpTgGwcR1dA) | 3:05 | 2020-10-20 | 2021-06-02 |
-| [Magnificent](https://open.spotify.com/track/1Zr7kxrJWpDT2Lx1VsbTvt) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [22 Make](https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F) | 4:28 | 2023-01-23 |  |
+| [Magnificent](https://open.spotify.com/track/1Zr7kxrJWpDT2Lx1VsbTvt) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [22 Make](https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F) | 4:28 | 2023-01-23 | 2023-02-01 |
 | [Magnificent](https://open.spotify.com/track/287p7lbcw95SrINpsNJTzk) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Magnificent](https://open.spotify.com/album/2ByZUAzcozWClH2N1gIAqz) | 4:28 | 2022-03-18 | 2022-07-29 |
 | [Magnificent](https://open.spotify.com/track/4djeNHa2hRfxB5Z4HD5Stu) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Magnificent](https://open.spotify.com/album/2tt0LJqnklCQ5cAaclOeJi) | 4:28 | 2022-06-17 | 2022-08-06 |
 | [Magnolia \(with Zeph\)](https://open.spotify.com/track/6IeY74KULDc4J6Eu6CwJBK) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Magnolia \(with Zeph\)](https://open.spotify.com/album/0LVJThCOlFSns5djHAvahh) | 3:13 | 2021-05-03 | 2022-01-15 |

@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-187 songs - 11 hr 37 min
+188 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Boy from the North](https://open.spotify.com/track/517ubeor9CZCN27nif3Bev) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 4:44 | 2021-12-02 | 2022-07-29 |
 | [Breathe](https://open.spotify.com/track/38Mg9q2em0bT8pJaguYh3i) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [Breathe](https://open.spotify.com/album/1MWU1W7jPAvasm97wTowWO) | 4:13 | 2022-12-08 | 2023-01-25 |
 | [Bright Lights](https://open.spotify.com/track/2HbDSISON7nWNdnUhaRPDA) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [Love EP](https://open.spotify.com/album/483bq5roSleMjKuPlIxEcp) | 3:19 | 2021-12-02 | 2022-07-28 |
-| [Brother](https://open.spotify.com/track/210qO1uNPiBhwNThR8MYW7) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [Brother](https://open.spotify.com/album/2Fy0aW2a5YWnHVdZQDGIOC) | 3:58 | 2022-10-06 |  |
+| [Brother](https://open.spotify.com/track/210qO1uNPiBhwNThR8MYW7) | [Real Ones](https://open.spotify.com/artist/3GqqLI4qwyKvL4rOxM0Uym) | [Brother](https://open.spotify.com/album/2Fy0aW2a5YWnHVdZQDGIOC) | 3:58 | 2022-10-06 | 2023-02-01 |
 | [Bråtebrann](https://open.spotify.com/track/2dzVpK8VpDFO9icFxoOMBr) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/6DMFNBhXpJOPFpa6KqT6CF) | 2:28 | 2021-12-02 | 2022-07-29 |
 | [Buffy](https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Buffy](https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU) | 3:02 | 2022-11-17 |  |
 | [By the time you hear this](https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [By the time you hear this](https://open.spotify.com/album/3QDLru0GgwjIQL3xox7mL9) | 3:14 | 2023-01-12 |  |
@@ -73,13 +73,14 @@
 | [Gold Laces](https://open.spotify.com/track/6Exl7gEv9PBSHl4hutQVf4) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/4IxrxrXQ9mSiHWXCRieOhD) | 3:40 | 2021-12-02 | 2022-07-29 |
 | [Gold Laces](https://open.spotify.com/track/6V9hQ6dVr42xlNVoH8r8om) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 3:40 | 2022-07-14 |  |
 | [Grey](https://open.spotify.com/track/6EWRRqhOPsm1eAtnDwx4fu) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [I'll Be Waiting For You \(In the Grey\)](https://open.spotify.com/album/6lTDlqYzdZHPZfjoOBtS0f) | 3:52 | 2021-12-02 | 2022-07-29 |
-| [Grey](https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Grey](https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J) | 3:52 | 2022-07-14 | 2022-12-08 |
+| [Grey](https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Grey](https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J) | 3:52 | 2022-07-14 |  |
 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 | 2021-12-02 |  |
 | [Halsmandlar](https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 2:50 | 2022-07-14 |  |
 | [Halsmandlar](https://open.spotify.com/track/5fDkO5m4hWKR623AFCCrbE) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Halsmandlar](https://open.spotify.com/album/4nbvdV7aLwIoD2U3FhfWbk) | 2:50 | 2022-05-05 | 2022-07-29 |
 | [Hav mot strand](https://open.spotify.com/track/1yrP9fz8noZrp2stygkrKU) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 3:46 | 2022-06-09 | 2022-08-30 |
 | [Holding Hands](https://open.spotify.com/track/4SfqeRYu1yZmEMa0HW1nso) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI) | [The Sparks Flew Up](https://open.spotify.com/album/5wYo12gI0ZvUSQPCLq2YCm) | 2:33 | 2021-12-02 | 2022-07-17 |
 | [Homesick](https://open.spotify.com/track/0WeqauIUZSjsupDGXsXWsP) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:13 | 2021-12-02 | 2023-01-28 |
+| [Homesick](https://open.spotify.com/track/2MTZjX6nfGpXu0tR1AOVou) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:13 | 2023-01-26 |  |
 | [House by the Sea](https://open.spotify.com/track/0Zj16MTRXtVrASk0ZL3NV0) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Set The House on Fire](https://open.spotify.com/album/6DLxo7BIMDLzsAuLPfbdYP) | 3:38 | 2021-12-02 | 2022-06-10 |
 | [How Can I Know](https://open.spotify.com/track/4WMbHn5MP9t5D1WTmLgHd5) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [How Can I Know](https://open.spotify.com/album/6CEfPLzkQ0Qju7dOoDd6sx) | 3:40 | 2022-06-09 | 2022-07-01 |
 | [Hunting Sky](https://open.spotify.com/track/0vPFdDIMjJOlkcKv4D5ZPK) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3tiM2R7jehuemA0aI7uDBr) | 3:15 | 2021-12-02 | 2022-07-16 |
@@ -187,7 +188,7 @@
 | [Wolf](https://open.spotify.com/track/05daxiDLRI9gEy8xmtvgpv) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/6UndV62df5KRebmj3zyn53) | 3:40 | 2022-07-14 |  |
 | [Wolf](https://open.spotify.com/track/66wOMJ1XInkBukh3C9AwI2) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Lion's Roar](https://open.spotify.com/album/6Z3MfMebUucj95zrHMrbyV) | 3:40 | 2021-12-02 | 2022-07-29 |
 | [Word On The Street](https://open.spotify.com/track/7sGa3oxKFC7DwKNGpMcS38) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Word On The Street](https://open.spotify.com/album/5bAn4ykDv17GBZWVmkjjCD) | 3:10 | 2022-06-02 | 2022-08-19 |
-| [Year of Love](https://open.spotify.com/track/2P0LyX02PXKXKMPOH7Zff7) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Year of Love](https://open.spotify.com/album/31PsAJJtuhlTV0rqmFzjtU) | 4:13 | 2022-02-17 |  |
+| [Year of Love](https://open.spotify.com/track/2P0LyX02PXKXKMPOH7Zff7) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Year of Love](https://open.spotify.com/album/31PsAJJtuhlTV0rqmFzjtU) | 4:13 | 2022-02-17 | 2023-02-01 |
 | [You Don't Deserve Me](https://open.spotify.com/track/1tXGmAXn4cJXA2oE2XXVFV) | [Embla and the Karidotters](https://open.spotify.com/artist/1n3qjPEPKXcQjHVwlfcagR) | [You Don't Deserve Me](https://open.spotify.com/album/4l1koxPVNRzPi6yPhgBfYU) | 3:24 | 2022-06-23 | 2022-07-13 |
 | [You Might Remember](https://open.spotify.com/track/4P3Rko9bTrYAN3au5s8ko1) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y) | [You Might Remember](https://open.spotify.com/album/0lf0A4pohS1Wv2Gb6tZ5Pw) | 3:59 | 2022-11-10 | 2022-11-12 |
 | [Your Everything](https://open.spotify.com/track/5D6DZqg15pfpCgtVoYEfLT) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Your Everything](https://open.spotify.com/album/4DSrFEcnUllROeMoWimU4C) | 4:19 | 2022-03-10 | 2022-07-29 |

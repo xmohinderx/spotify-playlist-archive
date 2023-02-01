@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover:  Limoblaze
 
-183 songs - 11 hr 20 min
+184 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 | 2022-07-17 | 2022-10-01 |
 | [Give Him Praise](https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Give Him Praise](https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy) | 2:00 | 2022-12-16 |  |
 | [Glory](https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Glory](https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC) | 2:30 | 2022-06-01 | 2022-07-18 |
+| [God of Dreams](https://open.spotify.com/track/43l1a3wFLlKQWJBaSZWadB) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Hold It All Together](https://open.spotify.com/album/0AE2uAPFFIWTti6Y3xuK1E) | 2:38 | 2022-12-16 |  |
 | [God of Dreams](https://open.spotify.com/track/6OD33offEicVtdSPeqh2UN) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [God of Dreams](https://open.spotify.com/album/7AyJ6DJld2Dff5BZoCTgf0) | 2:41 | 2022-06-01 | 2022-12-17 |
 | [GOD'S LOVE](https://open.spotify.com/track/1xcc6JnRYCf0Kbi3154MLp) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [GOD'S LOVE](https://open.spotify.com/album/73GEyB7EE4XjzUVXiYCJGP) | 2:17 | 2022-02-18 | 2022-12-17 |
 | [Good Morning](https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF) | [Jubril](https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX) | [Good Morning](https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB) | 2:25 | 2022-06-01 | 2022-07-29 |
@@ -185,7 +186,7 @@
 | [Yellow Soul](https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yellow Soul](https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd) | 2:42 | 2022-07-17 |  |
 | [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 | 2022-02-18 | 2022-02-28 |
 | [You](https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [You](https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY) | 3:06 | 2022-06-01 | 2022-12-17 |
-| [You Called Me Out](https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Aware](https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9) | 2:45 | 2022-09-30 |  |
+| [You Called Me Out](https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Aware](https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9) | 2:45 | 2022-09-30 | 2023-02-01 |
 | [You Got Me](https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [You Got Me](https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i) | 2:52 | 2022-09-03 |  |
 | [You're The One](https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 3:00 | 2022-12-16 |  |
 | [YOUR WILL](https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4) | [The Family Album](https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo) | 4:43 | 2022-12-16 |  |

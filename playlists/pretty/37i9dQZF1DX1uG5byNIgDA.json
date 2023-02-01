@@ -1,12 +1,12 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 220101,
+  "num_followers": 220133,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODUyMDU0MywwMDAwMDAwMDM5MmIyODk0ZTE3YjE2NDA2MzNjMTlmZGIzYWJkOWI1",
+  "snapshot_id": "MTY2ODUyMDU0MywwMDAwMDAwMDIyMDFlZjc1Y2JhN2JlZWRmMjkyNjljNmM4MzI4MTZi",
   "tracks": [
     {
       "added_at": "2022-11-15 13:55:43",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-11-15 13:55:43",
       "album": {
-        "name": "INVU - The 3rd Album",
-        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "INVU",
-      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb"
       },
@@ -255,22 +239,6 @@
       "duration_ms": 209648,
       "name": "LOVE SCENARIO",
       "url": "https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
-        "name": "FIRST IMPACT",
-        "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
-      },
-      "artists": [
-        {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "WA DA DA",
-      "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
     },
     {
       "added_at": "2022-11-15 13:55:43",
@@ -291,18 +259,34 @@
     {
       "added_at": "2022-11-15 13:55:43",
       "album": {
-        "name": "Feel Special",
-        "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 206866,
-      "name": "Feel Special",
-      "url": "https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9"
+      "duration_ms": 204973,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
+    },
+    {
+      "added_at": "2022-11-15 13:55:43",
+      "album": {
+        "name": "FIRST IMPACT",
+        "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "WA DA DA",
+      "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
     },
     {
       "added_at": "2022-11-15 13:55:43",
@@ -323,6 +307,22 @@
     {
       "added_at": "2022-11-15 13:55:43",
       "album": {
+        "name": "Feel Special",
+        "url": "https://open.spotify.com/album/3NQBPabmRm3LzVcmtkTLfo"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "Feel Special",
+      "url": "https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9"
+    },
+    {
+      "added_at": "2022-11-15 13:55:43",
+      "album": {
         "name": "BBIBBI",
         "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
       },
@@ -335,22 +335,6 @@
       "duration_ms": 194426,
       "name": "BBIBBI",
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
-        "name": "Hello Future - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Hello Future",
-      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
     },
     {
       "added_at": "2022-11-15 13:55:43",
@@ -371,6 +355,22 @@
     {
       "added_at": "2022-11-15 13:55:43",
       "album": {
+        "name": "Hello Future - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Hello Future",
+      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
+    },
+    {
+      "added_at": "2022-11-15 13:55:43",
+      "album": {
         "name": "DIMENSION : DILEMMA",
         "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
       },
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-11-15 13:55:43",
       "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "SCIENTIST",
-      "url": "https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
         "name": "I burn",
         "url": "https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 197320,
       "name": "HWAA",
       "url": "https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn"
+    },
+    {
+      "added_at": "2022-11-15 13:55:43",
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 230706,
+      "name": "CROWN",
+      "url": "https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg"
     },
     {
       "added_at": "2022-11-15 13:55:43",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-11-15 13:55:43",
       "album": {
-        "name": "The Dream Chapter: STAR",
-        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 230706,
-      "name": "CROWN",
-      "url": "https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
         "name": "DOUBLAST",
         "url": "https://open.spotify.com/album/0yMosWzriw3613d26x7MQK"
       },
@@ -467,38 +451,6 @@
       "duration_ms": 192026,
       "name": "Up!",
       "url": "https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
-        "name": "Glitch Mode - The 2nd Album",
-        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Glitch Mode",
-      "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
-        "name": "strawberry moon",
-        "url": "https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "strawberry moon",
-      "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
     },
     {
       "added_at": "2022-11-15 13:55:43",
@@ -519,6 +471,54 @@
     {
       "added_at": "2022-11-15 13:55:43",
       "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "SCIENTIST",
+      "url": "https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh"
+    },
+    {
+      "added_at": "2022-11-15 13:55:43",
+      "album": {
+        "name": "strawberry moon",
+        "url": "https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "strawberry moon",
+      "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
+    },
+    {
+      "added_at": "2022-11-15 13:55:43",
+      "album": {
+        "name": "Glitch Mode - The 2nd Album",
+        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Glitch Mode",
+      "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
+    },
+    {
+      "added_at": "2022-11-15 13:55:43",
+      "album": {
         "name": "Midnight Guest",
         "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
       },
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-11-15 13:55:43",
       "album": {
-        "name": "YES or YES",
-        "url": "https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g"
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 237680,
-      "name": "YES or YES",
-      "url": "https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9"
+      "duration_ms": 251279,
+      "name": "Answer : Love Myself",
+      "url": "https://open.spotify.com/track/2X3UgVLSA4wYriGIQyYmMA"
     },
     {
       "added_at": "2022-11-15 13:55:43",
@@ -631,18 +631,34 @@
     {
       "added_at": "2022-11-15 13:55:43",
       "album": {
-        "name": "SEVENTEEN 8th Mini Album 'Your Choice'",
-        "url": "https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc"
+        "name": "YES or YES",
+        "url": "https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 232226,
-      "name": "Heaven's Cloud",
-      "url": "https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q"
+      "duration_ms": 237680,
+      "name": "YES or YES",
+      "url": "https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9"
+    },
+    {
+      "added_at": "2022-11-15 13:55:43",
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 159749,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS"
     },
     {
       "added_at": "2022-11-15 13:55:43",
@@ -663,34 +679,18 @@
     {
       "added_at": "2022-11-15 13:55:43",
       "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+        "name": "SEVENTEEN 8th Mini Album 'Your Choice'",
+        "url": "https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 251279,
-      "name": "Answer : Love Myself",
-      "url": "https://open.spotify.com/track/2X3UgVLSA4wYriGIQyYmMA"
-    },
-    {
-      "added_at": "2022-11-15 13:55:43",
-      "album": {
-        "name": "The Chaos Chapter: FREEZE",
-        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 159749,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS"
+      "duration_ms": 232226,
+      "name": "Heaven's Cloud",
+      "url": "https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q"
     },
     {
       "added_at": "2022-11-15 13:55:43",

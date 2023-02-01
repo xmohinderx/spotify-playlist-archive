@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Malcolm VL, Jotap\u00ea",
-  "num_followers": 25478,
+  "num_followers": 25502,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQ2MCwwMDAwMDAwMGQ5Y2ZjZjcwZjExYzcxN2JjNjZiYzI2ZDEwNzk3YTdj",
+  "snapshot_id": "MTY3NDc4ODQ2MCwwMDAwMDAwMGU0ZTAxMDQ4NGM2NmNiOWVlODI4YTEwOGY5OGVlMzRj",
   "tracks": [
     {
       "added_at": "2023-01-27 03:01:00",
@@ -343,6 +343,30 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
+        "name": "Trof\u00e9u",
+        "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 139328,
+      "name": "Como \u00c9 Que T\u00e1?",
+      "url": "https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
         "name": "99 N\u00e3o \u00c9 100",
         "url": "https://open.spotify.com/album/4O6iZixoEhq4fYTRPHSQy4"
       },
@@ -395,6 +419,22 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
+        "name": "A Bruta, a Braba, a Forte",
+        "url": "https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 164586,
+      "name": "A Bruta, a Braba, a Forte",
+      "url": "https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
         "name": "Aonde Eu Sou Cria",
         "url": "https://open.spotify.com/album/2kMW9ybuXIlpW86XOEf6k1"
       },
@@ -415,74 +455,6 @@
       "duration_ms": 154909,
       "name": "Aonde Eu Sou Cria",
       "url": "https://open.spotify.com/track/5ZSCMCmUNxnRTDuYZxK3ah"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
-        "name": "A Bruta, a Braba, a Forte",
-        "url": "https://open.spotify.com/album/73h7cH1GkuOSBMZ9sgX5zb"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 164586,
-      "name": "A Bruta, a Braba, a Forte",
-      "url": "https://open.spotify.com/track/2N54ghEQWbNZ9Y39Wr2JKg"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
-        "name": "Os Pitbull do Ano, Pt. 2",
-        "url": "https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Baviera",
-          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
-        },
-        {
-          "name": "KOPO",
-          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
-        }
-      ],
-      "duration_ms": 207976,
-      "name": "Os Pitbull do Ano, Pt. 2",
-      "url": "https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
-        "name": "Trof\u00e9u",
-        "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 139328,
-      "name": "Como \u00c9 Que T\u00e1?",
-      "url": "https://open.spotify.com/track/64bJ83px2Htf20Eo3n9trz"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -555,38 +527,30 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Diz Quem Ta na Pista",
-        "url": "https://open.spotify.com/album/7yADHHvWrt9jJdITXLE0N3"
+        "name": "Os Pitbull do Ano, Pt. 2",
+        "url": "https://open.spotify.com/album/6dI7q22ZoKPIzWuWDVoawl"
       },
       "artists": [
         {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
         },
         {
           "name": "Major RD",
           "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+          "name": "Baviera",
+          "url": "https://open.spotify.com/artist/6cUTkFvlPW27lYc3qcoOgy"
         },
         {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "KOPO",
+          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
         }
       ],
-      "duration_ms": 192223,
-      "name": "Diz Quem Ta na Pista",
-      "url": "https://open.spotify.com/track/0Tabn01QTkQnUwwjQXWCMv"
+      "duration_ms": 207976,
+      "name": "Os Pitbull do Ano, Pt. 2",
+      "url": "https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -627,38 +591,38 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Infravermelho",
-        "url": "https://open.spotify.com/album/3kk0Iagt9p1hYO6TpC0YPx"
+        "name": "Diz Quem Ta na Pista",
+        "url": "https://open.spotify.com/album/7yADHHvWrt9jJdITXLE0N3"
       },
       "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
         {
           "name": "LEALL",
           "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
         },
         {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
         },
         {
-          "name": "OG BRITTO",
-          "url": "https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF"
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
         },
         {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "KOPO",
-          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Infravermelho",
-      "url": "https://open.spotify.com/track/03uTSC6wATLjv3wWme4Tzm"
+      "duration_ms": 192223,
+      "name": "Diz Quem Ta na Pista",
+      "url": "https://open.spotify.com/track/0Tabn01QTkQnUwwjQXWCMv"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -759,70 +723,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Rock Danger, Vol. 1",
-        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        }
-      ],
-      "duration_ms": 178005,
-      "name": "Dia de Baile",
-      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "Encomenda",
-      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
-        "name": "Rap dos Novos Bandidos",
-        "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
-      },
-      "artists": [
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "LP Beatzz",
-          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
-        }
-      ],
-      "duration_ms": 91682,
-      "name": "Puxa o Gatilho Primeiro",
-      "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "Clone",
         "url": "https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v"
       },
@@ -843,6 +743,42 @@
       "duration_ms": 198051,
       "name": "Clone",
       "url": "https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Infravermelho",
+        "url": "https://open.spotify.com/album/3kk0Iagt9p1hYO6TpC0YPx"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        },
+        {
+          "name": "OG BRITTO",
+          "url": "https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "KOPO",
+          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Infravermelho",
+      "url": "https://open.spotify.com/track/03uTSC6wATLjv3wWme4Tzm"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -927,6 +863,30 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
         "name": "40\u02da.40 Deluxe",
         "url": "https://open.spotify.com/album/15pZ53TSgyuAfNOqt2hnpM"
       },
@@ -943,6 +903,46 @@
       "duration_ms": 197000,
       "name": "Kenner",
       "url": "https://open.spotify.com/track/19lLjXxxDDWQCxO69QU5Zr"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "Encomenda",
+      "url": "https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Rap dos Novos Bandidos",
+        "url": "https://open.spotify.com/album/2rYLZlhbWbcjNJg3PiwV9O"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "duration_ms": 91682,
+      "name": "Puxa o Gatilho Primeiro",
+      "url": "https://open.spotify.com/track/72BLgAUeyFgAX8T033l8Wv"
     },
     {
       "added_at": "2023-01-27 03:01:00",

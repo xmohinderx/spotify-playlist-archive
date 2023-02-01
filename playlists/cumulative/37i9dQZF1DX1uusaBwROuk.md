@@ -4,7 +4,7 @@
 
 > Will you be my anti\-valentine?
 
-168 songs - 9 hr 44 min
+169 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Fuck Boy](https://open.spotify.com/track/5fVPiAqNYlOqRQVCkdAZhB) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Lonely Hearts Club](https://open.spotify.com/album/2jnjlVF06qx8BpYozYiN4s) | 3:06 | 2023-01-27 |  |
 | [Fuck Love \(feat\. Trippie Redd\)](https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:26 | 2021-09-27 | 2022-01-26 |
 | [Fuck You](https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Lady Killer](https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY) | 3:42 | 2021-09-27 | 2023-01-28 |
-| [Fuck You](https://open.spotify.com/track/1GCbc1vpkZA2zhjsSFhmHT) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/39zjAZD6nlscx5DafH8GI8) | 3:39 | 2023-01-27 |  |
+| [Fuck You](https://open.spotify.com/track/1GCbc1vpkZA2zhjsSFhmHT) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/39zjAZD6nlscx5DafH8GI8) | 3:39 | 2023-01-27 | 2023-02-01 |
 | [Getaway Car](https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:53 | 2022-01-25 | 2023-01-28 |
 | [Gives You Hell](https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/3BCMpDOcQlbCZpf5vnTadZ) | 3:33 | 2021-09-27 |  |
 | [Glad He's Gone](https://open.spotify.com/track/6aIAuKNU8JlVaTmoCYYN6U) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Glad He's Gone](https://open.spotify.com/album/4XpTyLPAuao2zSsN6WGR94) | 3:16 | 2022-01-25 | 2023-01-28 |
@@ -96,6 +96,7 @@
 | [Irreplaceable](https://open.spotify.com/track/1G7DcLzPnopdZjLkev0K4e) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day](https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO) | 3:47 | 2022-01-25 | 2023-01-28 |
 | [Irreplaceable](https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:47 | 2023-01-27 |  |
 | [Irreplaceable](https://open.spotify.com/track/1uUbHm8dTuYLIobjdNU8Be) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [B'Day Deluxe Edition](https://open.spotify.com/album/294k9ITquQjylcLNrRn8Wg) | 3:48 | 2021-09-27 | 2022-07-29 |
+| [It's A Wrap](https://open.spotify.com/track/0SgbP5ZZOsUiHlE8EfeHma) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1) | 3:58 | 2023-01-30 |  |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-01-27 |  |
 | [Leave \(Get Out\)](https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [JoJo](https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp) | 4:02 | 2023-01-27 |  |
 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 | 2023-01-28 |  |

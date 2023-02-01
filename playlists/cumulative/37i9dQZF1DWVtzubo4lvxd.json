@@ -308,10 +308,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 137764,
       "name": "Atlantic.Wav",
       "url": "https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL"
+    },
+    {
+      "album": {
+        "name": "Autumn Chills",
+        "url": "https://open.spotify.com/album/0LeD9H3MwdhpdQRdLtEPBE"
+      },
+      "artists": [
+        {
+          "name": "Shuko",
+          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
+        },
+        {
+          "name": "Hubert Daviz",
+          "url": "https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Autumn Chills",
+      "url": "https://open.spotify.com/track/1Mg5n0Gvx8PphL8ZpJVKyT"
     },
     {
       "album": {

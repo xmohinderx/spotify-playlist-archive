@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-332 songs - 22 hr 4 min
+333 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Immunity](https://open.spotify.com/track/1EQFnxBTDsUJhnFzEYOuLc) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:50 | 2022-09-27 | 2022-11-10 |
 | [In Sensitivity](https://open.spotify.com/track/7gN1ZoWIhwjp3SMn1VeNvW) | [Puppy Angst](https://open.spotify.com/artist/6gcwvxzC1d3LEg8selJn31) | [In Sensitivity](https://open.spotify.com/album/4P4aVTwG7B6mO7w3G6qnXq) | 3:03 | 2022-09-14 | 2022-10-13 |
 | [Into The Sun](https://open.spotify.com/track/6Aw4apZtDh41tu3F0obxDt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs), [Stephen Malkmus](https://open.spotify.com/artist/0WISkx0PwT6lYWdPqKUJY8), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Axel Concato](https://open.spotify.com/artist/1vmJHFbi8KRWgmOmOU0M5V) | [Into The Sun](https://open.spotify.com/album/2rOnO3lQDhLV6EHoARg3xz) | 3:20 | 2022-06-28 | 2022-08-11 |
+| [Intro \- Remastered 2023](https://open.spotify.com/track/2TvSi1gd1dLUNmVD8FnyNo) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [The Upper Cuts Singles \(2023 Edition\)](https://open.spotify.com/album/2lQT8nDATqsQB1I6auRK1D) | 4:53 | 2023-01-31 |  |
 | [Is U](https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Is U](https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo) | 3:48 | 2023-01-25 |  |
 | [Isn't It Lovely](https://open.spotify.com/track/3ukEbKCjmgeAWlROfHSF2Y) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:25 | 2022-06-22 | 2022-08-04 |
 | [it isnt fair](https://open.spotify.com/track/3tmuRI4UT2SghNi3Ppt2GI) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [it isnt fair](https://open.spotify.com/album/4C3LVzyMPr8DIlmQoMwQtl) | 3:03 | 2022-07-27 | 2022-09-15 |

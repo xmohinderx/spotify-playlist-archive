@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: The Kid LAROI
 
-626 songs - 1 day 6 hr 9 min
+627 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Complicated](https://open.spotify.com/track/00OeYqVhOcqLIV7aQv8vIw) | [DONDON](https://open.spotify.com/artist/7BaSOOhWzKYXrLxYoBvMax), [Rrotzer](https://open.spotify.com/artist/6a3Hepy65IU5aex19pUwjd) | [Complicated](https://open.spotify.com/album/4CvYFfsXFfPpXB3mJo5omr) | 2:27 | 2023-01-26 |  |
 | [Complicated](https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ) | 3:09 | 2022-07-04 | 2022-09-02 |
 | [Cool & Fresh](https://open.spotify.com/track/59MVohcr4ayOZvXW51QU4Z) | [Julien Bam](https://open.spotify.com/artist/5Jm4syNxe3BMFMlgPajszM), [Julia Beautx](https://open.spotify.com/artist/6j90FihrvT1wUrJlDRxZdk) | [Cool & Fresh](https://open.spotify.com/album/4UmB6WLI2AkD0ng2WHusNX) | 2:17 | 2022-06-20 | 2022-07-20 |
-| [COOL KIDS](https://open.spotify.com/track/1YcG2ofHVH4B3HUQAayA4P) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [COOL KIDS](https://open.spotify.com/album/5HUtXyg0pthUtXDXHQjlBU) | 2:16 | 2022-11-24 |  |
+| [COOL KIDS](https://open.spotify.com/track/1YcG2ofHVH4B3HUQAayA4P) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [COOL KIDS](https://open.spotify.com/album/5HUtXyg0pthUtXDXHQjlBU) | 2:16 | 2022-11-24 | 2023-02-01 |
+| [COOL KIDS](https://open.spotify.com/track/633PW1W4gDU5uqCsbxmf6M) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [DIRTY SOUTH](https://open.spotify.com/album/4fxWfSWop2N2u5HTF4WNJf) | 2:16 | 2023-01-26 |  |
 | [coq au vin](https://open.spotify.com/track/4NERmR0700rwstJpWkFO5b) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [coq au vin](https://open.spotify.com/album/1GreCrihbUzlxlT6sI6RRM) | 3:44 | 2022-08-11 | 2022-09-23 |
 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 | 2022-06-09 | 2022-07-05 |
 | [Crashen](https://open.spotify.com/track/5STeQZH1Ahz3h0X9Njaij7) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Benzo Diaries](https://open.spotify.com/album/0HbiTa5jQDKUGTitnI84p1) | 2:58 | 2022-06-09 | 2022-06-14 |

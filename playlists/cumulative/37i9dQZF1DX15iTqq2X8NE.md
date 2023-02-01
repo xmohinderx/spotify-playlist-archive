@@ -4,7 +4,7 @@
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-129 songs - 8 hr 24 min
+130 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Airplane Mode](https://open.spotify.com/track/3OYwEiG78BJ61FeQcrZyKA) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6), [YK](https://open.spotify.com/artist/66jXx36aLzGTIuq8XgVOqG) | [GIHAD](https://open.spotify.com/album/0r9ea9EcUQ8CM469NTAqp9) | 3:01 | 2021-12-09 | 2022-07-21 |
 | [Al Sourah \(The Photo\)](https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX) | [Mohammed Wardi](https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU) | [Al Sourah \(The Photo\)](https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj) | 9:03 | 2021-12-09 | 2022-07-29 |
 | [Amnesia \(with Ari Lennox & Kiddominant\)](https://open.spotify.com/track/7LMhHrfftRJVsmNpMnZew3) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Spilled Milk 1](https://open.spotify.com/album/5L0fqBCRKpkOHDNiwTgJbZ) | 3:35 | 2021-12-09 | 2022-07-30 |
-| [Apocalypto](https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Apocalypto](https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2) | 2:57 | 2023-01-27 |  |
+| [Apocalypto](https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Apocalypto](https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2) | 2:57 | 2023-01-27 | 2023-02-01 |
 | [Argos Farfish](https://open.spotify.com/track/1d4HxmK73RxLhbqEj9k8XD) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 4:38 | 2021-12-09 | 2022-11-20 |
 | [Argos Farfish](https://open.spotify.com/track/7fbZ2g3WSY3a5N0503u0f5) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King Of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG) | 4:38 | 2022-11-16 |  |
 | [ARMANI](https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN) | [Papii](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [ARMANI](https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1) | 3:24 | 2022-10-31 | 2023-01-28 |
@@ -44,6 +44,7 @@
 | [Dépaysé](https://open.spotify.com/track/2DWLOoxLkGSYEyXfYxqW7U) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w) | [Dépaysé](https://open.spotify.com/album/3TCAGitdvxPinzCDSrP0uv) | 5:11 | 2021-12-09 | 2022-06-29 |
 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 | 2021-12-09 |  |
 | [Fan3](https://open.spotify.com/track/0e9wgOCa3s2oqM03jNc2qx) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Fan3](https://open.spotify.com/album/0RTNur3c132jazOHMua1wU) | 2:19 | 2022-06-23 | 2022-10-02 |
+| [Farasha فراشة](https://open.spotify.com/track/4F731VYNl7sOZ3dwdZZsTV) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS), [Sufyvn](https://open.spotify.com/artist/5uO9QrR5mvPdJ7uPIESbr6), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Farasha فراشة](https://open.spotify.com/album/2SgBBbEiX68bS67DbqFJZG) | 3:52 | 2023-01-31 |  |
 | [Farrah Galbi Aljadeed](https://open.spotify.com/track/0J4ltLwYQP6kyTy8JvmH9K) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Farrah Galbi Aljadeed \(Habibi Funk 009\)](https://open.spotify.com/album/3yPPozyWOkJcry3Ms86kEi) | 5:01 | 2021-12-09 | 2022-07-29 |
 | [Farrah Galbi Aljadeed](https://open.spotify.com/track/1PfU9f0u6GJs7aADG0voSk) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ) | 5:01 | 2022-11-24 |  |
 | [Farrah Galbi Aljadeed](https://open.spotify.com/track/26vTeYgVVVqNwZLfOicw9p) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV) | 5:01 | 2022-07-28 | 2022-11-20 |

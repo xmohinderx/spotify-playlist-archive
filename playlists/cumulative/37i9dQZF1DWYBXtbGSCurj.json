@@ -688,7 +688,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 169092,
       "name": "Antes",
       "url": "https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 166168,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/5eUoWJogWW9OcqslJMT2I8"
@@ -3188,6 +3188,10 @@
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
         }
       ],
       "date_added": "2022-11-18",
@@ -4954,6 +4958,32 @@
       "duration_ms": 169655,
       "name": "Floresta 2",
       "url": "https://open.spotify.com/track/20DD1yza3vjR3G2s41DHgi"
+    },
+    {
+      "album": {
+        "name": "Flow Espacial",
+        "url": "https://open.spotify.com/album/02bPJTNRLkXeVWQPihqHNX"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165925,
+      "name": "Flow Espacial",
+      "url": "https://open.spotify.com/track/4qDT0BeJ7BjatrN9k8AvB4"
     },
     {
       "album": {
@@ -10444,8 +10474,8 @@
           "url": "https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z"
         },
         {
-          "name": "AK13",
-          "url": "https://open.spotify.com/artist/4iUCAsik4YXtKb76zMwXKY"
+          "name": "Ak13",
+          "url": "https://open.spotify.com/artist/5qlNpXTmMPbsBGuV44mpAn"
         }
       ],
       "date_added": "2023-01-20",
@@ -11046,6 +11076,28 @@
       "duration_ms": 158535,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/73MNsAhT4NItKH19z9B1KR"
+    },
+    {
+      "album": {
+        "name": "PSG",
+        "url": "https://open.spotify.com/album/7CXRExkP237yg0IcXS5IHl"
+      },
+      "artists": [
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "DJ Nemo NTR",
+          "url": "https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139598,
+      "name": "PSG",
+      "url": "https://open.spotify.com/track/0tqO1MBpRPPk6oF9VuHtIs"
     },
     {
       "album": {

@@ -4546,7 +4546,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 257560,
       "name": "Number 1",
       "url": "https://open.spotify.com/track/28uEOZvK9boEWq4LgxFIuF"
@@ -5758,6 +5758,28 @@
       "duration_ms": 273600,
       "name": "Things We Love",
       "url": "https://open.spotify.com/track/7vsLUjThYsm2jNotIEFuVq"
+    },
+    {
+      "album": {
+        "name": "Isibuko",
+        "url": "https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        },
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Thixo",
+      "url": "https://open.spotify.com/track/0oNkR5J4qmQxNVwLeA55y7"
     },
     {
       "album": {

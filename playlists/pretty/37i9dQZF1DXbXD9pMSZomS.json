@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 409924,
+  "num_followers": 410355,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgyODAwMCwwMDAwMDAwMDNkZTg3MjYyYWUzODI2MmE3OGQyYzEwZDMxNDMzMjgw",
+  "snapshot_id": "MTY3NDgyODAwMCwwMDAwMDAwMDE2ZmIyMWYyZDhiOWE4NTQzYTdjNjA2Y2IwOGQ5YmVk",
   "tracks": [
     {
       "added_at": "2023-01-27 14:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "Sexy Dance",
-        "url": "https://open.spotify.com/album/7LWBKWm1GNFjuvKqifPVIN"
-      },
-      "artists": [
-        {
-          "name": "KOKO.IT",
-          "url": "https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC"
-        }
-      ],
-      "duration_ms": 250848,
-      "name": "Sexy Dance",
-      "url": "https://open.spotify.com/track/08odpmvURfvJnTlDzeVXni"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
         "name": "Floating on Silence",
         "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
       },
@@ -343,18 +327,18 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "Back To My Place",
-        "url": "https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg"
+        "name": "Sexy Dance",
+        "url": "https://open.spotify.com/album/7LWBKWm1GNFjuvKqifPVIN"
       },
       "artists": [
         {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+          "name": "KOKO.IT",
+          "url": "https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC"
         }
       ],
-      "duration_ms": 245863,
-      "name": "Back to My Place",
-      "url": "https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb"
+      "duration_ms": 250848,
+      "name": "Sexy Dance",
+      "url": "https://open.spotify.com/track/08odpmvURfvJnTlDzeVXni"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -375,22 +359,6 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "Bodhi",
-        "url": "https://open.spotify.com/album/0loM4KSaBLjxUctOIasAuW"
-      },
-      "artists": [
-        {
-          "name": "Morakle",
-          "url": "https://open.spotify.com/artist/61y6w6H60Xm87eRHuGAhyj"
-        }
-      ],
-      "duration_ms": 253780,
-      "name": "Bodhi",
-      "url": "https://open.spotify.com/track/5RIbsj6hr8GaHgPBBbTnz0"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
         "name": "Super Good Times",
         "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
       },
@@ -407,22 +375,6 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe"
-      },
-      "artists": [
-        {
-          "name": "Best Friends Club",
-          "url": "https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq"
-        }
-      ],
-      "duration_ms": 347317,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
         "name": "I Needed / Intercession, On Behalf",
         "url": "https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p"
       },
@@ -435,6 +387,22 @@
       "duration_ms": 397640,
       "name": "I Needed",
       "url": "https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
+        "name": "Back To My Place",
+        "url": "https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 245863,
+      "name": "Back to My Place",
+      "url": "https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -471,42 +439,50 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "Kindzmarauli",
-        "url": "https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co"
+        "name": "Bodhi",
+        "url": "https://open.spotify.com/album/0loM4KSaBLjxUctOIasAuW"
       },
       "artists": [
         {
-          "name": "Grey Killer",
-          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+          "name": "Morakle",
+          "url": "https://open.spotify.com/artist/61y6w6H60Xm87eRHuGAhyj"
         }
       ],
-      "duration_ms": 256695,
-      "name": "Random Places",
-      "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
+      "duration_ms": 253780,
+      "name": "Bodhi",
+      "url": "https://open.spotify.com/track/5RIbsj6hr8GaHgPBBbTnz0"
     },
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "Dirty Samba",
-        "url": "https://open.spotify.com/album/5nmOMeM0SssdJ4QusCCGwI"
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe"
       },
       "artists": [
         {
-          "name": "NRMNT",
-          "url": "https://open.spotify.com/artist/6V62SYeLMiw1QoaglwU0oA"
-        },
-        {
-          "name": "STRNGE",
-          "url": "https://open.spotify.com/artist/4ZagUV2adLPb7zSoUWYpyr"
-        },
-        {
-          "name": "M1NT",
-          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
+          "name": "Best Friends Club",
+          "url": "https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq"
         }
       ],
-      "duration_ms": 338000,
-      "name": "Dirty Samba",
-      "url": "https://open.spotify.com/track/1AJCvAnLn8b2VBMfbN4gIM"
+      "duration_ms": 347317,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
+        "name": "Pastis",
+        "url": "https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV"
+      },
+      "artists": [
+        {
+          "name": "Bluestaeb",
+          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+        }
+      ],
+      "duration_ms": 244363,
+      "name": "Pastis",
+      "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -531,18 +507,42 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "Pastis",
-        "url": "https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV"
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
       },
       "artists": [
         {
-          "name": "Bluestaeb",
-          "url": "https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs"
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
         }
       ],
-      "duration_ms": 244363,
-      "name": "Pastis",
-      "url": "https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD"
+      "duration_ms": 208000,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
+        "name": "Dirty Samba",
+        "url": "https://open.spotify.com/album/5nmOMeM0SssdJ4QusCCGwI"
+      },
+      "artists": [
+        {
+          "name": "NRMNT",
+          "url": "https://open.spotify.com/artist/6V62SYeLMiw1QoaglwU0oA"
+        },
+        {
+          "name": "STRNGE",
+          "url": "https://open.spotify.com/artist/4ZagUV2adLPb7zSoUWYpyr"
+        },
+        {
+          "name": "M1NT",
+          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Dirty Samba",
+      "url": "https://open.spotify.com/track/1AJCvAnLn8b2VBMfbN4gIM"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
+        "name": "Late Night Basix Vol. 2",
+        "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
+      },
+      "artists": [
+        {
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+        }
+      ],
+      "duration_ms": 359793,
+      "name": "Deep -N- Dirty",
+      "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
         "name": "Brasil",
         "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
       },
@@ -595,8 +611,8 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB"
+        "name": "Kindzmarauli",
+        "url": "https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co"
       },
       "artists": [
         {
@@ -604,25 +620,9 @@
           "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Carefree",
-      "url": "https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
-        "name": "Late Night Basix Vol. 2",
-        "url": "https://open.spotify.com/album/0gsEUP8lcIKEAvm03SKZ0l"
-      },
-      "artists": [
-        {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
-        }
-      ],
-      "duration_ms": 359793,
-      "name": "Deep -N- Dirty",
-      "url": "https://open.spotify.com/track/2y7ub6xp3e69lpr1eZHzEv"
+      "duration_ms": 256695,
+      "name": "Random Places",
+      "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -675,6 +675,54 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
+        "name": "breath tapes",
+        "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 215222,
+      "name": "suddenly",
+      "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
+        "name": "Pup Slushy",
+        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 329462,
+      "name": "Pup Slushy",
+      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
+        "name": "14 Joints in a Spaceship",
+        "url": "https://open.spotify.com/album/1COMlKqonX6NMDAvg8IVu6"
+      },
+      "artists": [
+        {
+          "name": "_tillus",
+          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
+        }
+      ],
+      "duration_ms": 340645,
+      "name": "14 Joints in a Spaceship",
+      "url": "https://open.spotify.com/track/1JW721TzLybXB4ClHW7q0h"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
         "name": "Moon II Remixes Pt. II",
         "url": "https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD"
       },
@@ -703,38 +751,6 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "Pup Slushy",
-        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 329462,
-      "name": "Pup Slushy",
-      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
-        "name": "breath tapes",
-        "url": "https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 215222,
-      "name": "suddenly",
-      "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
         "name": "lo-fi_house.zip",
         "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
       },
@@ -747,46 +763,6 @@
       "duration_ms": 375000,
       "name": "100 reasons",
       "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
-        "name": "14 Joints in a Spaceship",
-        "url": "https://open.spotify.com/album/1COMlKqonX6NMDAvg8IVu6"
-      },
-      "artists": [
-        {
-          "name": "_tillus",
-          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
-        }
-      ],
-      "duration_ms": 340645,
-      "name": "14 Joints in a Spaceship",
-      "url": "https://open.spotify.com/track/1JW721TzLybXB4ClHW7q0h"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
-        "name": "Fidelity Radio Club (Toy Tonics Remixes)",
-        "url": "https://open.spotify.com/album/3hxPWuy4C9In99QtySB0tT"
-      },
-      "artists": [
-        {
-          "name": "S. Fidelity",
-          "url": "https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW"
-        },
-        {
-          "name": "\u00c0b\u00e1se",
-          "url": "https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba"
-        },
-        {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        }
-      ],
-      "duration_ms": 257321,
-      "name": "Me at the Zoo - Cody Currie Remix",
-      "url": "https://open.spotify.com/track/3uPNfRRceOwIq9lqddFt0z"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -823,6 +799,30 @@
       "duration_ms": 271349,
       "name": "Diving into Minds",
       "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
+        "name": "Fidelity Radio Club (Toy Tonics Remixes)",
+        "url": "https://open.spotify.com/album/3hxPWuy4C9In99QtySB0tT"
+      },
+      "artists": [
+        {
+          "name": "S. Fidelity",
+          "url": "https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW"
+        },
+        {
+          "name": "\u00c0b\u00e1se",
+          "url": "https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba"
+        },
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "duration_ms": 257321,
+      "name": "Me at the Zoo - Cody Currie Remix",
+      "url": "https://open.spotify.com/track/3uPNfRRceOwIq9lqddFt0z"
     },
     {
       "added_at": "2023-01-27 14:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        }
+      ],
+      "duration_ms": 230748,
+      "name": "True Romance (Maja Edit)",
+      "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
+    },
+    {
+      "added_at": "2023-01-27 14:00:00",
+      "album": {
         "name": "Blue Pigments",
         "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
       },
@@ -999,34 +1015,18 @@
     {
       "added_at": "2023-01-27 14:00:00",
       "album": {
-        "name": "The Sinner \u2014 Time Traveller",
-        "url": "https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt"
+        "name": "Dosages, Vol. 2",
+        "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
       },
       "artists": [
         {
-          "name": "Sum Wave",
-          "url": "https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci"
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
         }
       ],
-      "duration_ms": 282857,
-      "name": "The Sinner",
-      "url": "https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT"
-    },
-    {
-      "added_at": "2023-01-27 14:00:00",
-      "album": {
-        "name": "Deeper Conversations EP",
-        "url": "https://open.spotify.com/album/4qubW0lYGdGpUwpCqlShpR"
-      },
-      "artists": [
-        {
-          "name": "Peter Schumann",
-          "url": "https://open.spotify.com/artist/53xUjVBCaTHEXSrFFnup3I"
-        }
-      ],
-      "duration_ms": 481537,
-      "name": "House Magic",
-      "url": "https://open.spotify.com/track/1wYVHbd2iJ5Z99yTxVmFyY"
+      "duration_ms": 178983,
+      "name": "Lofi Vs. House",
+      "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
     }
   ],
   "unique_name": "Lo-Fi House",

@@ -4,7 +4,7 @@
 
 > Songs for a broken heart
 
-161 songs - 9 hr 14 min
+164 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [I Lost Myself In Loving You](https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 3:21 | 2022-10-14 |  |
 | [i met a boy online](https://open.spotify.com/track/2sWCaFAWzl1tDBtdhhWG2z) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [i met a boy online](https://open.spotify.com/album/5WrmVOUm2a9ja5UtcOyhAf) | 3:14 | 2022-09-06 | 2022-12-21 |
 | [I Miss You \- Paddy's Song](https://open.spotify.com/track/6Lqa8EZSaGEl80rojsrz1B) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Boxes EP](https://open.spotify.com/album/0ym1nH6HSoWgo58Ae3TZme) | 3:29 | 2021-12-16 | 2022-06-28 |
+| [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2023-01-31 |  |
 | [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 | 2022-12-02 |  |
 | [I'm Not Ok](https://open.spotify.com/track/2smg1NNlkCgQNLbqwdn3bv) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [I'm Not Ok](https://open.spotify.com/album/54mW3F1jcXKC8kFlJ1MvtC) | 3:23 | 2021-12-16 | 2022-03-30 |
 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2022-09-20 |  |
@@ -93,7 +94,8 @@
 | [If We're Being Honest](https://open.spotify.com/track/6CfAtjogau9v9kmtZVrNG8) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [If We're Being Honest](https://open.spotify.com/album/6fktnVCm6NnlMd7pVcvweN) | 3:55 | 2021-12-16 | 2022-04-05 |
 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 | 2022-11-08 |  |
 | [If You Ever Change Your Mind](https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [If You Ever Change Your Mind](https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G) | 3:25 | 2022-03-29 |  |
-| [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2023-01-10 |  |
+| [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2023-01-10 | 2023-02-01 |
+| [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 | 2023-01-31 |  |
 | [In The Kitchen](https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:47 | 2023-01-10 |  |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-09-06 |  |
 | [Innocence and Sadness](https://open.spotify.com/track/1nJatkqxWH7TQwBrP39yNd) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 4:12 | 2022-11-22 |  |
@@ -120,7 +122,7 @@
 | [Love is Pain](https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:44 | 2021-12-16 | 2022-12-03 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-08-02 |  |
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-01-17 |  |
-| [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-29 |  |
+| [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 | 2022-03-29 | 2023-02-01 |
 | [My Mistakes](https://open.spotify.com/track/01iY9wuMjG4Q5GMCebu27S) | [Matthew Nolan](https://open.spotify.com/artist/00eBZtIQVnVtZHOW1qDDDn) | [My Mistakes](https://open.spotify.com/album/1kcgftNp8C8hMhZ1lfxjj4) | 3:14 | 2021-12-16 | 2022-04-05 |
 | [My Oh My](https://open.spotify.com/track/2okt1sEb4uh6OkLJ4cgMWx) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [My Oh My](https://open.spotify.com/album/2Ch5romj95XcP2lXYRXfYS) | 2:39 | 2021-12-16 |  |
 | [No Words](https://open.spotify.com/track/11Q0l1bZkmXJk3LStYGuAy) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [No Words](https://open.spotify.com/album/1zqo2hzuuP6ZZtg7a6bMZz) | 3:09 | 2022-03-29 | 2022-09-07 |
@@ -148,6 +150,7 @@
 | [The Hardest Part \- Acoustic](https://open.spotify.com/track/0rYhl022XHl0RPay00dGdh) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part \(Acoustic\)](https://open.spotify.com/album/34e0sR4qdjjB7l1nrVAL9x) | 2:55 | 2022-09-06 |  |
 | [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 | 2022-03-29 | 2022-09-07 |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2021-12-16 |  |
+| [trust issues](https://open.spotify.com/track/5jQVx40dbpDsstcwlhpk9u) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [trust issues](https://open.spotify.com/album/3DENi04ImVVBYhh3zpfXIN) | 2:14 | 2023-01-31 |  |
 | [Trying My Best](https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:42 | 2022-09-06 |  |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-08-02 |  |
 | [Unconditional](https://open.spotify.com/track/2SSwlNE1JKhLZAjtKjxg6O) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [For My Father](https://open.spotify.com/album/2hSfGDpXs6fs1Bj3VxCRhA) | 3:23 | 2021-12-16 | 2022-02-15 |
@@ -162,7 +165,7 @@
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-09-06 |  |
 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 | 2021-12-16 | 2022-09-07 |
 | [When You Lose Someone](https://open.spotify.com/track/1CAZgVyNgA9pR4e6GHALhq) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:21 | 2022-09-06 |  |
-| [When You Love Someone](https://open.spotify.com/track/7bxcHHBpto3NgHAMeGCKFH) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [When You Love Someone](https://open.spotify.com/album/2zC9v0aYykenekxCJD9DRd) | 3:45 | 2022-03-25 |  |
+| [When You Love Someone](https://open.spotify.com/track/7bxcHHBpto3NgHAMeGCKFH) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [When You Love Someone](https://open.spotify.com/album/2zC9v0aYykenekxCJD9DRd) | 3:45 | 2022-03-25 | 2023-02-01 |
 | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/7up4SX2l8FAnisrUXoGupd) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/album/6xStUI10NrOYMx3sKoIfBq) | 2:55 | 2022-09-06 | 2022-11-09 |
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2022-09-06 |  |
 | [X&Y \(What I Didn’t Say\)](https://open.spotify.com/track/4cg1yntWrBdhCSh9atw6rk) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [X&Y \(What I Didn’t Say\)](https://open.spotify.com/album/1ecaFPMua9VZqGYrGVSl7G) | 2:21 | 2022-09-20 |  |

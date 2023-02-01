@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\. Cover: Yachty
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,277 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,306 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

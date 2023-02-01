@@ -2,9 +2,9 @@
 
 ### [EQUAL Arabia ](https://open.spotify.com/playlist/37i9dQZF1DXbgtqUuhUMh3)
 
-> Listen to Arab women, at full volume\. Cover: Angham
+> Listen to Arab women, at full volume\. Cover: Carole Samaha
 
-380 songs - 22 hr 17 min
+381 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Abu 3ntr](https://open.spotify.com/track/4udzViP9ZtbBlCLkFLlj53) | [ŁOAY](https://open.spotify.com/artist/3MIKkLGqd0EYSxHHbUK0Fz), [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Abu 3ntr](https://open.spotify.com/album/1ua6NcTfZN5Bgu2TYelucN) | 3:33 | 2021-12-23 | 2022-03-01 |
 | [Action](https://open.spotify.com/track/42oyB4eDAiU4hxis698Glb) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [Action](https://open.spotify.com/album/5lHKqYoOrYfvWPDPKNDyh9) | 2:46 | 2022-09-20 | 2022-10-07 |
 | [Ad Ay Sa’ab \(El Choclo\)](https://open.spotify.com/track/3uWb9pRy167A3QgCMcAUwH) | [Ángel Gregorio Villoldos](https://open.spotify.com/artist/3Qk0GyKffDb9elY6DLYsrG), [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh) | [Ad Ay Sa’ab \(El Choclo\)](https://open.spotify.com/album/4qp6sN0NNxCdU9adjDXVKZ) | 2:44 | 2022-07-15 | 2022-09-26 |
-| [Aezerouni](https://open.spotify.com/track/11baN3TyznC1nY9Lw2tPG4) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Aezerouni](https://open.spotify.com/album/0qdcpe5wD6AP9bkGm5VF0I) | 3:41 | 2022-12-22 | 2023-01-26 |
+| [Aezerouni](https://open.spotify.com/track/11baN3TyznC1nY9Lw2tPG4) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [Aezerouni](https://open.spotify.com/album/0qdcpe5wD6AP9bkGm5VF0I) | 3:41 | 2022-12-22 |  |
 | [Afa](https://open.spotify.com/track/61sFahxJGZjEQgASy45VTX) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [Afa](https://open.spotify.com/album/01QAkV39wYAMuyj0qdBBC5) | 2:36 | 2022-09-08 | 2023-01-12 |
 | [Aghani Al Shouk](https://open.spotify.com/track/1PIY3wA0hx41XwMntL34zb) | [Hasnaa](https://open.spotify.com/artist/2DnWkyy7jNoREYG8z3eHui) | [Aghani Al Shouk](https://open.spotify.com/album/4um9Pt1IpTm2GhV9yRs2DC) | 3:18 | 2021-12-23 | 2022-02-19 |
 | [Aheb Essmi](https://open.spotify.com/track/1feBcyeSIn8G7yyitzKlM2) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Aheb Essmi](https://open.spotify.com/album/0q0d5bsNYPXmxtvR0P2Q0y) | 3:38 | 2022-10-13 |  |
@@ -43,7 +43,7 @@
 | [Ala El Hady](https://open.spotify.com/track/2wdjKsBwJikP1TPNhKuyyo) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Ala El Hady](https://open.spotify.com/album/6riYimL3CYEpHcq8k8Agla) | 3:04 | 2022-03-01 |  |
 | [Albi Elou](https://open.spotify.com/track/7uIdrMD04D7jsL7lI6ytTw) | [Farah Chreim](https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc) | [قلبي الو](https://open.spotify.com/album/2jEyAidrKSxLYj8lsz0H4Y) | 3:13 | 2022-06-23 |  |
 | [Aldonia Dehketly](https://open.spotify.com/track/37mg7IAjMjxnWfqyOxqszq) | [Samar](https://open.spotify.com/artist/5Qs4cnxDrKtH9JTSQSofD1) | [Aldonia Dehketly](https://open.spotify.com/album/2JR3DMCvtWe1bbMTPsrWJ6) | 5:07 | 2021-12-23 | 2022-03-02 |
-| [Allah Qader](https://open.spotify.com/track/26pkoVSfghnAkcOjzq7Jva) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [Allah Qader](https://open.spotify.com/album/4KKMiYL45ThLuavVMGIMs9) | 3:27 | 2023-01-25 |  |
+| [Allah Qader](https://open.spotify.com/track/26pkoVSfghnAkcOjzq7Jva) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [Allah Qader](https://open.spotify.com/album/4KKMiYL45ThLuavVMGIMs9) | 3:27 | 2023-01-25 | 2023-02-01 |
 | [AlRawabi Anthem](https://open.spotify.com/track/59d9AtqxlI7GQOut4ys3fq) | [AlRawabi Choir](https://open.spotify.com/artist/4Ac0GE4iof62Xfs9yCiW9F) | [AlRawabi Anthem](https://open.spotify.com/album/6ppcAbcHyAjrgnZswicB7a) | 1:55 | 2021-12-23 | 2022-03-02 |
 | [AlRawabi Anthem Remix](https://open.spotify.com/track/6Zw3tNHV9RTfaVjkXVIoi9) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [AlRawabi Anthem Remix](https://open.spotify.com/album/6yJAn4msXZ5WNsbyNBVHek) | 1:57 | 2021-12-30 | 2022-03-02 |
 | [Ana Aghar](https://open.spotify.com/track/4RIYFfuJ80QpWaufFwDrl2) | [Joan Husssein](https://open.spotify.com/artist/35hdPES6rNnAfwx4b2Tze7) | [Ana Aghar](https://open.spotify.com/album/6kkhEalG1bDhUpVkZxwB6v) | 4:20 | 2022-03-01 | 2022-07-29 |
@@ -76,7 +76,7 @@
 | [Bklleshy W Clashy](https://open.spotify.com/track/2kET259hGJdOqIzCYBefPM) | [Azhar Al3asali](https://open.spotify.com/artist/7J6S9ZLG7jSrKpN12yztVI) | [Bklleshy W Clashy](https://open.spotify.com/album/4JyJ3taLjeqDArFyp50MSe) | 3:29 | 2021-12-23 | 2022-03-02 |
 | [Bleil 3eonak](https://open.spotify.com/track/3isvdEPSWHT0qBVjm6KVcu) | [Rahaf Guitara](https://open.spotify.com/artist/3rW9BObnEUJbADBj8oFF4N) | [Bleil 3eonak](https://open.spotify.com/album/5a6aRVjnXVSSH1K1DHDF3c) | 3:16 | 2021-12-23 | 2022-03-02 |
 | [Bosla](https://open.spotify.com/track/1dMT7045TklwUsIml5Ivyb) | [Nehal Kamal](https://open.spotify.com/artist/0IlcjzFU7NNJbTFZEPDRGf) | [Bosla](https://open.spotify.com/album/3WBZ2arYR33VIpN11m640S) | 3:12 | 2022-06-23 | 2022-07-28 |
-| [Bterjaa](https://open.spotify.com/track/0sWkcDktCKYnD47wq1aeto) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Turki \- Tarek Mohammed](https://open.spotify.com/album/5sZ2lDQNAQHKEFUVXXanVL) | 3:40 | 2023-01-25 |  |
+| [Bterjaa](https://open.spotify.com/track/0sWkcDktCKYnD47wq1aeto) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Turki \- Tarek Mohammed](https://open.spotify.com/album/5sZ2lDQNAQHKEFUVXXanVL) | 3:40 | 2023-01-25 | 2023-02-01 |
 | [Bye](https://open.spotify.com/track/7lY4RKaXEbN9bepG5s5Kmz) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Bye](https://open.spotify.com/album/1vSr7VaSNYP2LqjvRZNEM3) | 3:15 | 2021-12-23 | 2022-03-01 |
 | [Can't Catch an Emotion](https://open.spotify.com/track/13MrjxkZGZ0okmOSkOlhaI) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Can't Catch an Emotion](https://open.spotify.com/album/5of8QSNXq5V0sO7bZuBtpU) | 4:24 | 2021-12-23 | 2022-02-27 |
 | [Chakhs Taraktah](https://open.spotify.com/track/7qnpqHdclXCDhWvNHepCQI) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Chakhs Taraktah](https://open.spotify.com/album/11RTGKtmWUTH2uNaftoOaU) | 4:32 | 2022-03-01 | 2022-07-29 |
@@ -254,7 +254,7 @@
 | [Shagar El Asham](https://open.spotify.com/track/5qG6crR9QExjJpQg01QNsD) | [Dina Khaled](https://open.spotify.com/artist/5weThTvXRsX5RluYBowMJ1) | [Shagar El Asham](https://open.spotify.com/album/3a3xSHjfxecV8gzyzMxRVA) | 3:39 | 2022-03-03 | 2022-07-22 |
 | [Shokran](https://open.spotify.com/track/3zpuelnjip23dk1hxTqklg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shokran](https://open.spotify.com/album/572v0Jez74h9cMKAYPCIug) | 3:28 | 2022-11-15 |  |
 | [Shou Byeb'a](https://open.spotify.com/track/5BuuNKK47ns8EkBBNT9LWn) | [Carla Chamoun](https://open.spotify.com/artist/0StdV1uuvaOhOG4xR6lynG) | [Shou Byeb'a](https://open.spotify.com/album/3oyjqPAgYJfJ3uP8vEgbfB) | 3:43 | 2021-12-23 | 2022-02-28 |
-| [Shou Ela Maana](https://open.spotify.com/track/55CnEXVm4lxZfQPcaAaxuv) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Shou Ela Maana](https://open.spotify.com/album/7JX1iOqeu2k4Fa359PLLHw) | 2:05 | 2022-10-27 | 2023-01-28 |
+| [Shou Ela Maana](https://open.spotify.com/track/55CnEXVm4lxZfQPcaAaxuv) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Shou Ela Maana](https://open.spotify.com/album/7JX1iOqeu2k4Fa359PLLHw) | 2:05 | 2022-10-27 |  |
 | [Shou Elli Ghayarak Halqad](https://open.spotify.com/track/5wmVqK53zhYUwG5QJsygiS) | [Asala Yousef](https://open.spotify.com/artist/1iY2PUn3zm3oqlD3PYf1FG) | [Shou Elli Ghayarak Halqad](https://open.spotify.com/album/4c1pQfiCZZmBbW3FPpfv3i) | 3:46 | 2021-12-23 | 2022-03-02 |
 | [Shou Wadou Albak](https://open.spotify.com/track/7c0gjYzDwCJ56NYSpoUgzJ) | [Maribel Maalouf](https://open.spotify.com/artist/3MoSMS2jKVPPZbLw2W3qEV) | [Shou Wadou Albak](https://open.spotify.com/album/3OIz3IetACEIYuKUuSm0R5) | 3:14 | 2021-12-23 | 2022-03-02 |
 | [Shouf](https://open.spotify.com/track/7tueI4qZOssFDf61SNzdzy) | [Carolina Karam](https://open.spotify.com/artist/6zeJXT6e12k3LLAZHEgCSA) | [شوف](https://open.spotify.com/album/0in4kb6hakIBhYUlAgoHDB) | 3:35 | 2022-03-01 | 2022-07-28 |
@@ -332,10 +332,11 @@
 | [بيبان الخوف](https://open.spotify.com/track/2Ay6Pf8HGgkHV0IRo8Jx14) | [Shahd El Shaarawy](https://open.spotify.com/artist/5AMkRmTIvyPJZl6qtP6wnP) | [بيبان الخوف](https://open.spotify.com/album/33xgZCgn2Ue5yoiCPFO8w8) | 3:28 | 2021-12-23 | 2022-03-02 |
 | [جاني](https://open.spotify.com/track/4xUVtPcWuoh0CdqPoHMPR2) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [جاني](https://open.spotify.com/album/0AJDPwr1hjcAyeYFcrpKzE) | 2:22 | 2021-12-30 | 2022-03-02 |
 | [جيزة](https://open.spotify.com/track/6N5sMKfRhgwRHWks8Vx5OX) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [جيزة](https://open.spotify.com/album/5EDQTVSrm4FQPL7sdhG7BJ) | 2:58 | 2022-09-16 |  |
-| [حبك ربح](https://open.spotify.com/track/5YK8T173I1KLGE2GC1IvLL) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [Hobbak Rebeh](https://open.spotify.com/album/71w9WsH8G9kygpUVSNDhUr) | 3:15 | 2023-01-25 |  |
+| [حبك ربح](https://open.spotify.com/track/5YK8T173I1KLGE2GC1IvLL) | [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [Hobbak Rebeh](https://open.spotify.com/album/71w9WsH8G9kygpUVSNDhUr) | 3:15 | 2023-01-25 | 2023-02-01 |
 | [حكايتك فيا](https://open.spotify.com/track/5D5tUsTQvWdBeVRarLDoua) | [Tania Kassis](https://open.spotify.com/artist/793k10CpQo36RQJyL7rGDi) | [حكايتك فيا](https://open.spotify.com/album/5pgyRXhdisp78ym36dmLoN) | 3:27 | 2022-09-20 |  |
 | [حيرة](https://open.spotify.com/track/4GXFUW1qZiScZl9yYXiDn1) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [حيرة](https://open.spotify.com/album/2FFFl04tJ4aahE15xIvp6J) | 2:09 | 2022-10-04 |  |
 | [دنيا تخادعني](https://open.spotify.com/track/1PrYPtUDlryg0ZyNwaVZJb) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [دنيا تخادعني](https://open.spotify.com/album/138WUtaBeFpjSgRUJUHKX5) | 3:03 | 2022-01-20 | 2022-03-02 |
+| [رحيل](https://open.spotify.com/track/3JlGlUGcHXG2YXyykHGLWS) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [رحيل](https://open.spotify.com/album/65sOpDahfqO6srZGGhtgH5) | 4:53 | 2023-01-31 |  |
 | [رنا صولا \- صدق و الله](https://open.spotify.com/track/1WGcD9EHs1Sc0Vln3XqvpA) | [WINGS MYUZK وينقز ميوزك](https://open.spotify.com/artist/33TIlK7i17sv2ml2WkmAOS) | [رنا صولا \- صدق و الله](https://open.spotify.com/album/4gZ0e6dK1TI4tTCoQd85V9) | 5:00 | 2021-12-23 | 2022-03-02 |
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-06-02 |  |
 | [زانت الدنيا](https://open.spotify.com/track/64HUI1fV8NCK4mXIuJjpTM) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/6jCgIgKjHDVxTAxJkndLSI) | 3:39 | 2022-09-22 |  |

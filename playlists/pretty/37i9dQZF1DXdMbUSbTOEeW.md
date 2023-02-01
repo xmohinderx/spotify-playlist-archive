@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Deepika Padukone & Shahrukh Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,537 likes - 34 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,626 likes - 34 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

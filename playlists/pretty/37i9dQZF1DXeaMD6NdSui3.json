@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 105614,
+  "num_followers": 105836,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMGI3MjBhZTY1ODA5ODY3Y2ZlM2M5MTUwNjk1NzlhMjY0",
+  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDEzNzlmZDhkNTYxNTA4MjJlMjQ2MGU1OWM4MzhlNjlm",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -123,22 +123,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "The Real Deal: Greatest Hits Volume 1",
-        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Pride and Joy",
-      "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "The Fabulous Thunderbirds",
         "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 269933,
       "name": "Everytime I Roll The Dice",
       "url": "https://open.spotify.com/track/5fZY8YYJMnhD9HNWB4C4zU"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Real Deal: Greatest Hits Volume 1",
+        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Pride and Joy",
+      "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -269,6 +269,54 @@
       "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
     },
     {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "3rd Degree (Remastered)",
+        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Mojo Boogie - Remastered",
+      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Strange Pleasure",
+        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 260733,
+      "name": "Don't Cha Know",
+      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320706,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
+    },
+    {
       "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "Too Much is not enough",
@@ -291,66 +339,18 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
       },
       "artists": [
         {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
         }
       ],
-      "duration_ms": 320706,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Strange Pleasure",
-        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 260733,
-      "name": "Don't Cha Know",
-      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "3rd Degree (Remastered)",
-        "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 293293,
-      "name": "Mojo Boogie - Remastered",
-      "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
+      "duration_ms": 261920,
+      "name": "Good Texan",
+      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -371,22 +371,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
-      },
-      "artists": [
-        {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
-        }
-      ],
-      "duration_ms": 261920,
-      "name": "Good Texan",
-      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "We The People",
         "url": "https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 260200,
       "name": "We The People",
       "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -471,6 +471,22 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+      },
+      "artists": [
+        {
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
         "name": "Buddy Whittington",
         "url": "https://open.spotify.com/album/4gnhWohgp2PfU6h7dYkXSp"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
-      },
-      "artists": [
-        {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Blues Knights-Chicago Blues Festival 1985 (Blues Reference)",
         "url": "https://open.spotify.com/album/6OEyqgV8cDWD5b3ctNfnqc"
       },
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/7gcjudElezAMCD28CxD8cr"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "Diggin' On Dylan",
-        "url": "https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh"
-      },
-      "artists": [
-        {
-          "name": "Denny Freeman",
-          "url": "https://open.spotify.com/artist/2sCGPaXs1se0qKtGeXAgcv"
-        }
-      ],
-      "duration_ms": 288613,
-      "name": "Gotta Serve Somebody",
-      "url": "https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J"
-    },
-    {
       "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "Catch Up With The Blues",
@@ -619,6 +603,22 @@
       "duration_ms": 394333,
       "name": "Rolling With The Punches",
       "url": "https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Diggin' On Dylan",
+        "url": "https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh"
+      },
+      "artists": [
+        {
+          "name": "Denny Freeman",
+          "url": "https://open.spotify.com/artist/2sCGPaXs1se0qKtGeXAgcv"
+        }
+      ],
+      "duration_ms": 288613,
+      "name": "Gotta Serve Somebody",
+      "url": "https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -671,22 +671,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Bluesman for Life",
-        "url": "https://open.spotify.com/album/3BVB2KaAsRhni4UtRzvAmh"
-      },
-      "artists": [
-        {
-          "name": "Roy Gaines",
-          "url": "https://open.spotify.com/artist/3MGM5t6OR7ZxudoWw53LMr"
-        }
-      ],
-      "duration_ms": 310480,
-      "name": "Bluesman for Life - Remastered",
-      "url": "https://open.spotify.com/track/7tD3yMdZrZ2uHPyj0WvupF"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 246600,
       "name": "Starting All Over",
       "url": "https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Bluesman for Life",
+        "url": "https://open.spotify.com/album/3BVB2KaAsRhni4UtRzvAmh"
+      },
+      "artists": [
+        {
+          "name": "Roy Gaines",
+          "url": "https://open.spotify.com/artist/3MGM5t6OR7ZxudoWw53LMr"
+        }
+      ],
+      "duration_ms": 310480,
+      "name": "Bluesman for Life - Remastered",
+      "url": "https://open.spotify.com/track/7tD3yMdZrZ2uHPyj0WvupF"
     },
     {
       "added_at": "2018-02-27 16:43:49",

@@ -4,7 +4,7 @@
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-82 songs - 5 hr 30 min
+83 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Cold Gin](https://open.spotify.com/track/23mkKrQmbtEARwmO846yj8) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 4:22 | 2022-01-11 |  |
 | [Comin' Home \- Live From MTV Unplugged/1995](https://open.spotify.com/track/1qp9BUccsAqU9r9PdgJzk0) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 2:51 | 2022-04-29 |  |
 | [Crazy Crazy Nights](https://open.spotify.com/track/3YSfGJNDtF8KrHlwCAaVns) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:47 | 2022-01-11 |  |
-| [Creatures Of The Night](https://open.spotify.com/track/1ximfMNQcS4HLKK5sAdZDO) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Box Set](https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e) | 4:02 | 2022-12-31 |  |
+| [Creatures Of The Night](https://open.spotify.com/track/1ximfMNQcS4HLKK5sAdZDO) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Box Set](https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e) | 4:02 | 2022-12-31 | 2023-02-01 |
 | [Creatures Of The Night](https://open.spotify.com/track/5yeRPZioHaRp86lPMwPw4s) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night](https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t) | 4:03 | 2022-01-11 | 2022-12-31 |
 | [Detroit Rock City](https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Smashes Thrashes & Hits](https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6) | 3:48 | 2022-01-11 |  |
 | [Deuce](https://open.spotify.com/track/79EQt03ze9Pr9tAVc2lm5P) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:06 | 2022-01-11 |  |
@@ -63,6 +63,7 @@
 | [Modern Day Delilah](https://open.spotify.com/track/7jx8RjpHh06VJxMDXblPcd) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS 40](https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM) | 3:36 | 2022-01-11 | 2022-10-13 |
 | [Not For The Innocent \- Demo](https://open.spotify.com/track/0591PUrQFYgHdbQ4QrYQbv) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Creatures Of The Night \(40th Anniversary / Super Deluxe\)](https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS) | 4:36 | 2022-12-16 | 2023-01-24 |
 | [Not For The Innocent \- Demo](https://open.spotify.com/track/4Q4uVPZqsMKI8sAGJxscqA) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Not For The Innocent \(Demo\)](https://open.spotify.com/album/3A4bcHaI338ABAkjZ02TJL) | 4:36 | 2022-10-31 | 2022-12-17 |
+| [Nothin' To Lose](https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:27 | 2023-01-31 |  |
 | [Plaster Caster](https://open.spotify.com/track/5BMGKj445wO9EgMHMhAMIg) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:28 | 2022-01-11 | 2022-01-27 |
 | [Psycho Circus](https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Psycho Circus](https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd) | 5:30 | 2022-01-11 |  |
 | [Reason To Live](https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 4:00 | 2022-01-11 |  |

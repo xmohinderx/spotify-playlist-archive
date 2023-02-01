@@ -4,7 +4,7 @@
 
 > make it pop! cover: JORDY
 
-543 songs - 1 day 3 hr 30 min
+544 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-12-02 |  |
 | [AdaLINE](https://open.spotify.com/track/2As91j4G5GKRbx4In7ClyV) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [AdaLINE](https://open.spotify.com/album/6cEOgTZp3T7lxaUSNCCeN1) | 2:45 | 2022-12-16 |  |
 | [After the Tone](https://open.spotify.com/track/3JK6Fyd3DjaThmIjDAUPBm) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [After the Tone](https://open.spotify.com/album/7MfUuta1xlJMFfNZh3TAPT) | 2:22 | 2022-01-28 | 2022-03-18 |
+| [Again](https://open.spotify.com/track/0Eef5uHiJVJO0nt4Zo4QCd) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Sting](https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet) | 3:25 | 2023-01-27 |  |
 | [Again](https://open.spotify.com/track/4xdPgVt4AwYzVsYZ8TuFQB) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Again](https://open.spotify.com/album/3SuZwz2B4DjWeL3JlAFmBG) | 3:25 | 2022-11-11 | 2022-11-24 |
-| [Again](https://open.spotify.com/track/6ZZntgtMvygJgfnzkpiklv) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Again](https://open.spotify.com/album/0UnB3RhLhRaVjSYS6wDyfp) | 3:25 | 2022-11-11 |  |
+| [Again](https://open.spotify.com/track/6ZZntgtMvygJgfnzkpiklv) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Again](https://open.spotify.com/album/0UnB3RhLhRaVjSYS6wDyfp) | 3:25 | 2022-11-11 | 2023-02-01 |
 | [Again & Again](https://open.spotify.com/track/6WpmLYjucvN7nijrRJiiWZ) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Again & Again](https://open.spotify.com/album/5ctwJQS6cTwdb7y5QPWoQU) | 2:49 | 2021-10-29 | 2022-02-05 |
 | [AIRBNB](https://open.spotify.com/track/76ztGwXiBmW1dTAswuKE1m) | [Wax](https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV) | [AIRBNB](https://open.spotify.com/album/2ULxhzl3imLp5KGAWyV4B7) | 2:43 | 2022-05-27 | 2022-07-16 |
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-04-08 | 2022-07-30 |

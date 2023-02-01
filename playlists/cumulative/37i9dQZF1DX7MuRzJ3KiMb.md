@@ -4,7 +4,7 @@
 
 > el amor es <3
 
-117 songs - 6 hr 42 min
+118 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aline](https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Aline](https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE) | 2:36 | 2022-06-24 |  |
 | [Amenábar](https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lugares Imaginarios](https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA) | 3:11 | 2022-06-24 |  |
 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 | 2022-02-25 |  |
+| [AMOR MINIMAL](https://open.spotify.com/track/3gydgoR0OGDNJNhkY0337b) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/0OACOxBHoNzyA36x7au0bo) | 3:27 | 2023-01-27 |  |
 | [Aquel Bolero](https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Aquel Bolero](https://open.spotify.com/album/4c3yqJyzQXoSpYkYi5reXG) | 2:52 | 2022-09-23 |  |
 | [Aurana Espérame](https://open.spotify.com/track/0JwJElZzKXF4TnzN30uxZw) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:03 | 2022-07-19 | 2022-09-24 |
 | [Aurana Espérame](https://open.spotify.com/track/6SttgyyLpYWSbyF0E9Sech) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Aurana Espérame](https://open.spotify.com/album/0g2FOn3grDey9wxcsCLzOl) | 3:03 | 2022-02-25 | 2022-07-29 |
@@ -33,7 +34,7 @@
 | [Chula](https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy), [Paco y Pedro](https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK) | [Chula](https://open.spotify.com/album/6yjNFsPUkuj83hBcsF5IhS) | 4:01 | 2022-06-24 |  |
 | [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 | 2022-07-01 |  |
 | [Como una Flecha](https://open.spotify.com/track/3IH0Pa6AE7ewuDUCg1S2Hs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Como una Flecha](https://open.spotify.com/album/4LfSDMEhgIHztOk83kg822) | 4:11 | 2022-02-25 | 2022-07-29 |
-| [Como una Flecha](https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 4:11 | 2022-07-19 |  |
+| [Como una Flecha](https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 4:11 | 2022-07-19 | 2023-02-01 |
 | [Compartir](https://open.spotify.com/track/5E0Jl45E0UWwZ4H9VhnI9i) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Mientras Tú Dormías](https://open.spotify.com/album/7l2XHKAWiZMr2A7wFiZl8Z) | 4:19 | 2022-02-25 |  |
 | [Contestarás](https://open.spotify.com/track/6vfSrmu7MNGnm6AqU774WS) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Contestarás](https://open.spotify.com/album/4jA0epntqg8gWTMuwNCoTz) | 3:03 | 2022-02-25 | 2022-06-25 |
 | [Contigo](https://open.spotify.com/track/3uqDUUqiVrtbKakobkPXmv) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Contigo](https://open.spotify.com/album/0QbLKuhvOtbjeuHy1Pt68U) | 3:57 | 2022-02-25 |  |

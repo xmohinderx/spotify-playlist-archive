@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-145 songs - 8 hr 33 min
+147 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Falling In Love \(feat\. 10cm\)](https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8) | 3:28 | 2022-07-08 |  |
 | [Falling In Love 너를 보네](https://open.spotify.com/track/61VCxojnsTkde1teMCMW0j) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/7IiNYHOhWZaEUD10z1iGFP) | 3:28 | 2022-05-03 | 2022-07-29 |
 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 | 2022-08-29 |  |
-| [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 | 2022-12-26 |  |
+| [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 | 2022-12-26 | 2023-02-01 |
 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 | 2022-05-03 |  |
 | [Gargen](https://open.spotify.com/track/24JTr3fAXP5aas1NX6Wla8) | [Kim Jiwoo](https://open.spotify.com/artist/5VCISWkGAsjEvjQpIXAfgD) | [Memories of Summer](https://open.spotify.com/album/2wIpyWKUKna6nnLTV3AXST) | 3:04 | 2022-07-08 | 2022-07-28 |
 | [Gently, By Your Side](https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ) | [Siwa](https://open.spotify.com/artist/4Ov1By1bw2tZ0bWYn2mHlX) | [Gently, By Your Side](https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI) | 2:58 | 2022-05-03 | 2022-12-03 |
@@ -71,7 +71,7 @@
 | [Lost Stars](https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:07 | 2022-05-03 | 2022-07-29 |
 | [Love Is You](https://open.spotify.com/track/1QfqYSsC1sQaGtBu1AWZu7) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Poetic](https://open.spotify.com/album/4mn6UviE5kkqGrHkxXzjnK) | 4:06 | 2022-05-03 | 2022-07-29 |
 | [Meaning Of The Flower](https://open.spotify.com/track/28w2JkO4baObQWZzThI6wp) | [Sujin](https://open.spotify.com/artist/7lz8pYIwLCOWJmJtJFVat0) | [My Mind](https://open.spotify.com/album/4QJdP5TBpj6zyeIwHvetm8) | 3:56 | 2022-05-03 | 2022-06-28 |
-| [Mm Mm \- Acoustic Version](https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Mm Mm](https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw) | 2:54 | 2022-07-08 |  |
+| [Mm Mm \- Acoustic Version](https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Mm Mm](https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw) | 2:54 | 2022-07-08 | 2023-02-01 |
 | [Mm Mm \- Acoustic Version](https://open.spotify.com/track/428iUXlTZHt72HsrP0FbVX) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Mm Mm](https://open.spotify.com/album/0NS9viwwEi04L7H8ObWJMD) | 2:54 | 2022-05-03 | 2022-07-29 |
 | [Monologue](https://open.spotify.com/track/7fNmFxnGqipleYaNDnnVHj) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:30 | 2022-05-03 | 2022-07-29 |
 | [Monologue \(unplugged.\)](https://open.spotify.com/track/6jq9HQzudzT17QuXfH4Ebv) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 2:52 | 2022-05-03 | 2022-07-24 |
@@ -79,6 +79,7 @@
 | [Moontanroad \- solo version](https://open.spotify.com/track/2jmaU2iOeMaQ4cM9wYS1Cb) | [D.no](https://open.spotify.com/artist/65XxCQXyj2MZ99bQmxgavW) | [d'motive](https://open.spotify.com/album/7agoIZYuOrEpnhIobnqZfO) | 3:30 | 2022-05-03 | 2022-07-19 |
 | [More](https://open.spotify.com/track/6RLU0sBE445FdnxoXr7kYT) | [Around](https://open.spotify.com/artist/30imnk1KS3eh6441SlwbGt) | [More](https://open.spotify.com/album/5jJdbTjdiwPyjVCJjOQbKY) | 2:36 | 2022-07-04 | 2022-07-06 |
 | [Moving](https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Moving](https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH) | 3:22 | 2022-05-03 |  |
+| [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 | 2023-01-25 |  |
 | [My heart that has nowhere to go](https://open.spotify.com/track/3blKIvJIBkrxh04qk5FPWT) | [Kim Damso](https://open.spotify.com/artist/1YBY9bFLqj5Nk6IIRvYayl) | [My heart that has nowhere to go](https://open.spotify.com/album/5FX3TMknxJfDCQp2dzXahW) | 3:46 | 2022-05-03 | 2022-06-12 |
 | [neighborhood bookstore](https://open.spotify.com/track/2EKT56VMK218rRW6X2nEqY) | [Modern Darakbang](https://open.spotify.com/artist/5TuBqzdS4sdbYIj3tmbtOO) | [neighborhood bookstore](https://open.spotify.com/album/1uD7hkW3B5HUcVZYwV1PvS) | 4:46 | 2022-05-03 | 2022-07-23 |
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-08 |  |
@@ -100,6 +101,7 @@
 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 | 2022-08-29 | 2022-09-06 |
 | [Sapporo 삿포로에 갈까요](https://open.spotify.com/track/6ru1W8qsMTLAvTrHC907A2) | [Kim Pil Sun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Sapporo 삿포로에 갈까요](https://open.spotify.com/album/5V3jrh1Td4XjWNszBcUaPu) | 3:44 | 2022-05-03 | 2022-07-19 |
 | [Saying Hello](https://open.spotify.com/track/0iLX5STkl07zjT4sO8dadX) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/6lkiYHR4LUv13f0yuXSf2D) | 3:59 | 2022-07-04 |  |
+| [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [조은세](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 | 2023-01-25 |  |
 | [SHE](https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [SHE](https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ) | 3:18 | 2022-05-03 |  |
 | [Shower](https://open.spotify.com/track/55DF2HAjfwN52aHQwIT5gO) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Dancing With You](https://open.spotify.com/album/0pCcUdeFSd2j7BhVvUP8HS) | 2:30 | 2022-05-03 | 2022-12-03 |
 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 | 2022-05-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 121094,
+  "num_followers": 121285,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMDBhMDYyMTZjYzQ0ZTljM2RjZWE3ZGVjNjU3NGFjNGU2",
+  "snapshot_id": "MTY2ODEzOTIwMCwwMDAwMDAwMGQ4NGJjMTE4OWExZDIwMzA1NTEyNzA3ZTY1OWRmN2U1",
   "tracks": [
     {
       "added_at": "2021-05-06 21:09:12",
@@ -147,26 +147,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Laid Black",
-        "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
-      },
-      "artists": [
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
-        },
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        }
-      ],
-      "duration_ms": 355986,
-      "name": "7-T's",
-      "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Up",
         "url": "https://open.spotify.com/album/30YCt5MD1H4uGULaP3ZsFB"
       },
@@ -183,18 +163,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Doug's Party Mix",
-        "url": "https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3"
+        "name": "Laid Black",
+        "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },
       "artists": [
         {
-          "name": "Doug Johns",
-          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
         }
       ],
-      "duration_ms": 89333,
-      "name": "Just Play",
-      "url": "https://open.spotify.com/track/4rYhksNrzm7mjsP0IqAvAw"
+      "duration_ms": 355986,
+      "name": "7-T's",
+      "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -239,6 +223,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Doug's Party Mix",
+        "url": "https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3"
+      },
+      "artists": [
+        {
+          "name": "Doug Johns",
+          "url": "https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk"
+        }
+      ],
+      "duration_ms": 89333,
+      "name": "Just Play",
+      "url": "https://open.spotify.com/track/4rYhksNrzm7mjsP0IqAvAw"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO"
       },
@@ -251,22 +251,6 @@
       "duration_ms": 171440,
       "name": "Let's Play Some Funky Groove",
       "url": "https://open.spotify.com/track/1TPRQvysDFeNWTd65KPnxS"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "UFO Tofu",
-        "url": "https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck and the Flecktones",
-          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "Sex in a Pan",
-      "url": "https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -287,18 +271,34 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "A Dark Light",
-        "url": "https://open.spotify.com/album/4Awbl4MQAZnfdfKf98lpbn"
+        "name": "UFO Tofu",
+        "url": "https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO"
       },
       "artists": [
         {
-          "name": "Aram Bedrosian",
-          "url": "https://open.spotify.com/artist/1QX9Z8FnNxYuUk4bAur1Ut"
+          "name": "B\u00e9la Fleck and the Flecktones",
+          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
         }
       ],
-      "duration_ms": 159337,
-      "name": "A Dark Light",
-      "url": "https://open.spotify.com/track/770BeHuLlFqz5Tdm4tSmib"
+      "duration_ms": 214373,
+      "name": "Sex in a Pan",
+      "url": "https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "What Did He Say? (Remastered)",
+        "url": "https://open.spotify.com/album/5WbTfCHnFWp2pKiRkUU78D"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 282946,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -315,6 +315,22 @@
       "duration_ms": 381786,
       "name": "BC",
       "url": "https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "A Dark Light",
+        "url": "https://open.spotify.com/album/4Awbl4MQAZnfdfKf98lpbn"
+      },
+      "artists": [
+        {
+          "name": "Aram Bedrosian",
+          "url": "https://open.spotify.com/artist/1QX9Z8FnNxYuUk4bAur1Ut"
+        }
+      ],
+      "duration_ms": 159337,
+      "name": "A Dark Light",
+      "url": "https://open.spotify.com/track/770BeHuLlFqz5Tdm4tSmib"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -351,22 +367,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "What Did He Say? (Remastered)",
-        "url": "https://open.spotify.com/album/5WbTfCHnFWp2pKiRkUU78D"
-      },
-      "artists": [
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 282946,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Fable",
         "url": "https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 118739,
       "name": "And Ya Know We're Missing You: Dedicated to Leon NDUGU Chancler, Darryl Brown, Al Jarreau, Tom Petty, Chuck Berry & my good friend Larry Coryell",
       "url": "https://open.spotify.com/track/4yKpVDfezBjtyThrWEgTij"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "A Show of Hands 15",
+        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 279693,
+      "name": "Classical Thump",
+      "url": "https://open.spotify.com/track/3l3lCbzWLXi9FS4tQ3HSzZ"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -467,22 +483,6 @@
       "duration_ms": 385533,
       "name": "Cosmic Joke",
       "url": "https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "A Show of Hands 15",
-        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
-      },
-      "artists": [
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 279693,
-      "name": "Classical Thump",
-      "url": "https://open.spotify.com/track/3l3lCbzWLXi9FS4tQ3HSzZ"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -599,6 +599,22 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "A Show of Hands 15",
+        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 317346,
+      "name": "Me & My Bass Guitar",
+      "url": "https://open.spotify.com/track/2bGlApShelovL2azxX0ksl"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "A Show of Hands 15",
-        "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
-      },
-      "artists": [
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 317346,
-      "name": "Me & My Bass Guitar",
-      "url": "https://open.spotify.com/track/2bGlApShelovL2azxX0ksl"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Aneurythms",
         "url": "https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Multiple Faces",
-        "url": "https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB"
-      },
-      "artists": [
-        {
-          "name": "Alain Caron",
-          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
-        }
-      ],
-      "duration_ms": 413266,
-      "name": "Right After 4",
-      "url": "https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "M2",
         "url": "https://open.spotify.com/album/1xyfptnTlG1u1fzVxYJm6d"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 275866,
       "name": "Power",
       "url": "https://open.spotify.com/track/2wd1sOeNdzBeRGsL6mPogQ"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Multiple Faces",
+        "url": "https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB"
+      },
+      "artists": [
+        {
+          "name": "Alain Caron",
+          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
+        }
+      ],
+      "duration_ms": 413266,
+      "name": "Right After 4",
+      "url": "https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3"
-      },
-      "artists": [
-        {
-          "name": "Alain Caron",
-          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "P.A.C. Man",
-      "url": "https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
         "name": "Cerulean Blue",
         "url": "https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3"
       },
@@ -783,22 +767,6 @@
       "duration_ms": 246692,
       "name": "Sun Chaser",
       "url": "https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj"
-    },
-    {
-      "added_at": "2021-05-06 21:09:12",
-      "album": {
-        "name": "That Was Then",
-        "url": "https://open.spotify.com/album/70LVEF4Ht6K0bybLJskFA7"
-      },
-      "artists": [
-        {
-          "name": "Darryl Williams",
-          "url": "https://open.spotify.com/artist/0xt6LQSgPMxR8sdIUUtnQM"
-        }
-      ],
-      "duration_ms": 104626,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/04TNNN0s6F4soZQhoO4oWG"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -823,22 +791,18 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
-        "name": "Trust and Faith",
-        "url": "https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq"
+        "name": "That Was Then",
+        "url": "https://open.spotify.com/album/70LVEF4Ht6K0bybLJskFA7"
       },
       "artists": [
         {
-          "name": "Barry Likumahuwa",
-          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
-        },
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+          "name": "Darryl Williams",
+          "url": "https://open.spotify.com/artist/0xt6LQSgPMxR8sdIUUtnQM"
         }
       ],
-      "duration_ms": 258312,
-      "name": "Trust and Faith",
-      "url": "https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3"
+      "duration_ms": 104626,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/04TNNN0s6F4soZQhoO4oWG"
     },
     {
       "added_at": "2021-05-06 21:09:12",
@@ -875,6 +839,26 @@
     {
       "added_at": "2021-05-06 21:09:12",
       "album": {
+        "name": "Trust and Faith",
+        "url": "https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq"
+      },
+      "artists": [
+        {
+          "name": "Barry Likumahuwa",
+          "url": "https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz"
+        },
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 258312,
+      "name": "Trust and Faith",
+      "url": "https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
         "name": "Time 2 Stop Worrying (Bout the Weird Stuff)",
         "url": "https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 223895,
       "name": "F.U.NKWHY",
       "url": "https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J"
+    },
+    {
+      "added_at": "2021-05-06 21:09:12",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3"
+      },
+      "artists": [
+        {
+          "name": "Alain Caron",
+          "url": "https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "P.A.C. Man",
+      "url": "https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU"
     }
   ],
   "unique_name": "Bottoms Up",

@@ -4,7 +4,7 @@
 
 > Where everything is lovely and snuggly <3
 
-248 songs - 15 hr 37 min
+249 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [iFeel](https://open.spotify.com/track/5ed0x7s2O191nQ9gfmAhHM) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [iFeel](https://open.spotify.com/album/3pgkyPj3vSQ0TYCoGQJKaF) | 4:29 | 2021-10-18 | 2022-10-13 |
 | [iFeel](https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [\(\(\( 2 \)\)\)](https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ) | 4:29 | 2022-10-07 |  |
 | [In Loving Memory](https://open.spotify.com/track/17BBfm9oQzNsX1PjnsOgRG) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/1807UGT7j0EO6EhGXu9zrs) | 2:53 | 2021-10-18 | 2022-07-28 |
-| [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2023-01-06 |  |
+| [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2023-01-06 | 2023-02-01 |
+| [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 | 2023-01-06 |  |
 | [Is It Any Wonder?](https://open.spotify.com/track/6kle4XS7gyiUIb0tmsyCf4) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 4:36 | 2023-01-06 |  |
 | [Is There a Place I Can Go](https://open.spotify.com/track/1wR6F2NFDjBlDAYEHnAPS9) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Junkyard Jazz](https://open.spotify.com/album/1MBaEeGuZFixWVTARJ4amP) | 4:38 | 2023-01-06 |  |
 | [It Is So Nice to Get Stoned](https://open.spotify.com/track/7xZOeV9Pa6SxH487LEoRxO) | [Ted Lucas](https://open.spotify.com/artist/6Ej6u8fvyHFFKn5GaQ5cPn) | [Ted Lucas](https://open.spotify.com/album/2CEQedK1AH7F8zcYM7o0Yd) | 4:21 | 2022-06-13 | 2022-11-12 |

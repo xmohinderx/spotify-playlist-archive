@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: TAAHLIAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,972 likes - 60 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,078 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 36 | [Peanut Power](https://open.spotify.com/track/5LA74AduqAq7wVQYB8zYGY) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Melbourne Street](https://open.spotify.com/album/62kIRslwee4b9HnwS74GTS) | 4:54 |
 | 37 | [Cocky](https://open.spotify.com/track/108H1bXtmIVHFkh2geKFt9) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Cocky](https://open.spotify.com/album/6n9US7BwG1k1A9AEX6DFie) | 4:50 |
 | 38 | [Amber Rush](https://open.spotify.com/track/4AqvfnUyIfQoa4hIbEPYnt) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Amber Rush](https://open.spotify.com/album/7ahTHniOH0ml5SiymYAhmW) | 6:05 |
-| 39 | [The Meek Shall Inherit the Earth](https://open.spotify.com/track/37DiVgAJiRdNUtydPxMExw) | [Tygapaw](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Love Thyself](https://open.spotify.com/album/6XDgTZtCEU7AhbbbIdxMBo) | 3:13 |
+| 39 | [The Meek Shall Inherit the Earth](https://open.spotify.com/track/37DiVgAJiRdNUtydPxMExw) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Love Thyself](https://open.spotify.com/album/6XDgTZtCEU7AhbbbIdxMBo) | 3:13 |
 | 40 | [Str8 Acting](https://open.spotify.com/track/7g1R3Hd3BmYtTE1j4Jlsyi) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/3kfoQafwQQuUkr3MCSalLS) | 3:55 |
 | 41 | [Love Vibration](https://open.spotify.com/track/5B2Fil0dJNfob1W8gpL5E4) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Love Vibration](https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL) | 3:00 |
 | 42 | [Hip Hop Spa](https://open.spotify.com/track/4pA0yTeV9l0aSwXX593ZBN) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Genre\-Specific Xperience](https://open.spotify.com/album/3SHUtCuskxWnDgBHhupzaF) | 4:24 |

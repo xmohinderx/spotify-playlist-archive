@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 377503,
+  "num_followers": 377596,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGI5NTczMjNmZjhiOGQxNTJiYTg5YTNlYmU4MzRjMjg0",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDE0NTFhNWYwYjc5MDlmOWY1Mzg4Y2NlODJjMGJjYThl",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Ultimate Big Band Collection: Glenn Miller",
-        "url": "https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR"
-      },
-      "artists": [
-        {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "In the Mood",
-      "url": "https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "B. G. In Hi Fi",
         "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 195533,
       "name": "Stompin At The Savoy",
       "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Ultimate Big Band Collection: Glenn Miller",
+        "url": "https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "In the Mood",
+      "url": "https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -247,26 +247,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Cheek To Cheek (Deluxe)",
-        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 143706,
-      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
-      "url": "https://open.spotify.com/track/1GERVZcph8qx09OR7Wo1UV"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -299,6 +279,26 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "Cheek To Cheek (Deluxe)",
+        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 143706,
+      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/1GERVZcph8qx09OR7Wo1UV"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "50th Anniversary Collection (Vol. 2)",
         "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
       },
@@ -315,22 +315,6 @@
       "duration_ms": 149333,
       "name": "Straighten Up And Fly Right - Single Version",
       "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Roar Of '74",
-        "url": "https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd"
-      },
-      "artists": [
-        {
-          "name": "Buddy Rich",
-          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Nuttville",
-      "url": "https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -355,6 +339,22 @@
       "duration_ms": 183000,
       "name": "Pistol Packin' Mama - Single Version",
       "url": "https://open.spotify.com/track/2Pn1HP6ZTVpBaew1jHcs87"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Roar Of '74",
+        "url": "https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich",
+          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Nuttville",
+      "url": "https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Jumpin' Jive (Remastered 1999)",
-        "url": "https://open.spotify.com/album/7spQJsP6dimhGMNgsBYaRO"
-      },
-      "artists": [
-        {
-          "name": "Joe Jackson",
-          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "Jack, You're Dead!",
-      "url": "https://open.spotify.com/track/1EbSCkFjbaTncuamPWPq11"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 175733,
       "name": "Let The Good Times Roll",
       "url": "https://open.spotify.com/track/2dFJA0ZQ2OjA8TWjEV6P5n"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Jumpin' Jive (Remastered 1999)",
+        "url": "https://open.spotify.com/album/7spQJsP6dimhGMNgsBYaRO"
+      },
+      "artists": [
+        {
+          "name": "Joe Jackson",
+          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "Jack, You're Dead!",
+      "url": "https://open.spotify.com/track/1EbSCkFjbaTncuamPWPq11"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -739,22 +739,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Doodlin'",
-      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Present Perfect",
         "url": "https://open.spotify.com/album/6BLOeCD5XEE3yPs7GpIovn"
       },
@@ -771,22 +755,6 @@
       "duration_ms": 582509,
       "name": "The Waltz I Blew for You",
       "url": "https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Quintessence",
-        "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 147080,
-      "name": "Straight, No Chaser",
-      "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
     },
     {
       "added_at": "2021-10-08 04:02:00",
@@ -807,6 +775,38 @@
       "duration_ms": 297373,
       "name": "I Didn\u00b4t Tell Them Why",
       "url": "https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Quintessence",
+        "url": "https://open.spotify.com/album/5x1ThzsG2tvGCzdcbS54GH"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Straight, No Chaser",
+      "url": "https://open.spotify.com/track/01k3YE4W9XfTTTXAG2QlEs"
     },
     {
       "added_at": "2022-03-11 05:02:00",

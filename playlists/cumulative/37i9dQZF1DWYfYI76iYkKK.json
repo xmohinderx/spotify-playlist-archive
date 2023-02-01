@@ -1709,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "\u5e0c\u5fd8Hope",
+        "url": "https://open.spotify.com/album/3UEMDGalqaizcZmVkLdV51"
+      },
+      "artists": [
+        {
+          "name": "Hua Chen Yu",
+          "url": "https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322332,
+      "name": "\u5f53\u5168\u4e16\u754c\u5fd8\u4e86\u6211",
+      "url": "https://open.spotify.com/track/19FOWxZzrcErmF5P95vPqu"
+    },
+    {
+      "album": {
         "name": "\u5f53\u5168\u4e16\u754c\u5fd8\u4e86\u6211",
         "url": "https://open.spotify.com/album/2rMck4VJ3rxG5g9XtkXZeu"
       },
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 322332,
       "name": "\u5f53\u5168\u4e16\u754c\u5fd8\u4e86\u6211",
       "url": "https://open.spotify.com/track/2wvoqZC0fvJV4L7rLkAFLp"

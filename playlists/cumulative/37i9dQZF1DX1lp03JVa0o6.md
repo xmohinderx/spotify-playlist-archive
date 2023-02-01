@@ -4,7 +4,7 @@
 
 > Today's biggest Dance hits! Cover: Wuki
 
-118 songs - 6 hr 16 min
+120 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp) | 3:15 | 2022-12-08 | 2022-12-16 |
 | [Days Go By](https://open.spotify.com/track/6Wvxndh4CLkhm62PfZHUZc) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ), [15grams](https://open.spotify.com/artist/1O6ddbpGxRTse2V0YEkhNH) | [Days Go By](https://open.spotify.com/album/1kasyqty0PajjlfqQeD9ZS) | 2:50 | 2022-12-08 |  |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-12-08 | 2023-01-27 |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/5w9upngVRHNjdZcRC7Xxr2) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 4:10 | 2023-01-31 |  |
 | [Designer Love](https://open.spotify.com/track/7HxMnQqgokBq8ORg7AKHRa) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Designer Love](https://open.spotify.com/album/19mewYhS8cosKSnVJczvYW) | 2:54 | 2023-01-23 |  |
 | [Dice](https://open.spotify.com/track/03iws7tQG78lKQRwnHTSqq) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Rachel Leo](https://open.spotify.com/artist/7nvGqdG2C213Fb4ItZyxuQ) | [Dice](https://open.spotify.com/album/1F3Jld5a01v2EUrLqzc1GI) | 3:46 | 2022-12-08 |  |
 | [Differences](https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Differences](https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy) | 2:20 | 2023-01-26 |  |
@@ -99,6 +100,7 @@
 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 | 2023-01-05 |  |
 | [Run To Paradise \(Partiboi69 vs\. Choirboys\)](https://open.spotify.com/track/4Kfd6EaxEsiKq0qe3vx1qw) | [Choirboys](https://open.spotify.com/artist/2u6qHMpQaE48aowjWKJeCM), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [Run To Paradise \(Partiboi69 vs\. Choirboys\)](https://open.spotify.com/album/4SHpY8m2QUlPlZsM2QAPab) | 3:21 | 2022-12-08 |  |
 | [Ruthless](https://open.spotify.com/track/1XuFjxGwGRaWYJ4NGLWg1V) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD) | [Ruthless](https://open.spotify.com/album/754RRtCBYndQ8IC9yfSFAE) | 2:59 | 2023-01-12 |  |
+| [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/6x8to58oCuyPyuXIe5Imak) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:52 | 2023-01-31 |  |
 | [See In Color](https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [See In Color](https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj) | 2:34 | 2022-12-08 | 2023-01-13 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2022-12-08 |  |
 | [Shut The Gates](https://open.spotify.com/track/1LurKnaAqT2wEtG1BFBtjI) | [Joel Fletcher](https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR), [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Shut The Gates](https://open.spotify.com/album/3o6TyLFdJ2blhP5DkNmMxf) | 3:30 | 2022-12-22 |  |

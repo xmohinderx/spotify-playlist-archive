@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-176 songs - 9 hr 59 min
+178 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cool](https://open.spotify.com/track/1vboAuHPEG5hSExtrnftNF) | [Summer Haze](https://open.spotify.com/artist/6kN3HbHbH9d8fNOohEIqCj) | [Cool](https://open.spotify.com/album/6WGBgPGbkx6i3opPWVSnoM) | 2:37 | 2022-05-30 | 2022-07-29 |
 | [Dear Winter](https://open.spotify.com/track/4Dd0v2LBhMpqOwhmeU4yBJ) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Neotheater](https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj) | 2:48 | 2022-08-08 | 2023-01-05 |
 | [Devil Eyes](https://open.spotify.com/track/7eGgaxBDg13KBgZCCULIje) | [VORANAH](https://open.spotify.com/artist/3tiqYfeRIozfVNnniIB7ij), [Jasmine](https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ) | [THE MASTERPIECE \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/77QhNf1KG1kCd6ecDhvnnn) | 2:35 | 2022-07-11 | 2022-07-26 |
+| [different...](https://open.spotify.com/track/5UsidyX3Wocveuplfzz9AK) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [different...](https://open.spotify.com/album/46leWH1QOXzyOFgJWOD5Ws) | 3:00 | 2023-01-30 |  |
 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 | 2022-05-30 | 2022-07-29 |
 | [Don't Grow Up Too Fast](https://open.spotify.com/track/0zQStWTaXhsovcUMcxa3ui) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Don't Grow Up Too Fast](https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE) | 4:02 | 2022-07-25 | 2022-09-03 |
 | [Don't Know What I Want](https://open.spotify.com/track/1VWrSNe54l1uH1rqIVW274) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Don't Know What I Want](https://open.spotify.com/album/6YsEwFwufhh38wDpmLRzfz) | 2:25 | 2022-09-05 | 2022-09-20 |
@@ -59,8 +60,9 @@
 | [Good Things](https://open.spotify.com/track/17NLm3j22FlfCmgsaGmxdG) | [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Good Things](https://open.spotify.com/album/3pl19UkHDuzOMRVXklLsLO) | 2:50 | 2022-05-30 | 2022-07-29 |
 | [Goodbye](https://open.spotify.com/track/50H4Zt0dXHcLy9roe0Azpj) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Goodbye](https://open.spotify.com/album/7b735FgElMT3FOPNrnRDZn) | 3:46 | 2022-05-30 | 2022-07-28 |
 | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Grow As We Go \(feat\. Sara Bareilles\)](https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M) | 4:09 | 2022-07-25 |  |
+| [Grow Out Of It](https://open.spotify.com/track/58CUtwjF3a0YrYR5Akh3cn) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Grow Out Of It](https://open.spotify.com/album/6IWfby0SmSyiU2SSktO7E7) | 2:31 | 2023-01-30 |  |
 | [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 | 2022-10-17 |  |
-| [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2022-12-12 |  |
+| [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2022-12-12 | 2023-02-01 |
 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 | 2022-11-08 |  |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2022-07-25 | 2022-08-09 |
 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 | 2022-07-25 |  |
@@ -163,7 +165,7 @@
 | [Two Ghosts \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1GDF5AusV7p0wwi4OVNz3i) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 3:44 | 2022-07-25 |  |
 | [Two Punks In Love](https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Two Punks In Love](https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U) | 3:15 | 2022-08-08 | 2022-11-13 |
 | [U Suck](https://open.spotify.com/track/6avrR8KOfXZfWQruHxywTD) | [Khole](https://open.spotify.com/artist/2y7W9mNUWNLFFrWPxg1l6c) | [U Suck](https://open.spotify.com/album/6A86YvbkqyXBWiYPRWbgPL) | 3:27 | 2022-05-30 | 2022-07-29 |
-| [Untamed](https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:58 | 2022-10-10 |  |
+| [Untamed](https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:58 | 2022-10-10 | 2023-02-01 |
 | [Use Somebody \- Acoustic Version](https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Use Somebody \(Acoustic Version\)](https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5) | 3:06 | 2022-08-08 |  |
 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 | 2022-06-13 | 2022-06-23 |
 | [Vincent](https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS) | 3:43 | 2022-08-08 |  |

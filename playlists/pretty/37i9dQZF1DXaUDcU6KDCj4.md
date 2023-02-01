@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Lowswimmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,465 likes - 150 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,547 likes - 150 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 58 | [Uncertainty](https://open.spotify.com/track/5KORQw5JLHcyMdUBG06aGE) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Uncertainty](https://open.spotify.com/album/1WtP3dDIa6L3qIzCZN4r7i) | 5:47 |
 | 59 | [When You're Gone](https://open.spotify.com/track/6o4WL0W4PqWI4K9csGt2Eq) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [When You're Gone](https://open.spotify.com/album/3CRYeWlC7Hu66h2ypeB6qX) | 2:45 |
 | 60 | [Suburban Pines](https://open.spotify.com/track/3Bz6wUPhyOB95dUZwHgnAD) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Suburban Pines](https://open.spotify.com/album/08Pt4zHkYLbvqEiypUOJBQ) | 6:53 |
-| 61 | [Portrait Of God](https://open.spotify.com/track/1AXajRuTLgUfMewgGfyEbf) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Portrait of God](https://open.spotify.com/album/5AhehkwxsQ5Cdp1ip4mkB9) | 3:39 |
+| 61 | [Portrait Of God](https://open.spotify.com/track/4yDGaudAfnXNMIKmFCxhLD) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 3:39 |
 | 62 | [Naked at the Feast](https://open.spotify.com/track/0uq4OD3LC9ix5gf8ejqB1C) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Naked at the Feast](https://open.spotify.com/album/7b82VBiAyrZn2qnmTgXkrC) | 3:09 |
 | 63 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 |
 | 64 | [Song for No One](https://open.spotify.com/track/4kcsFSmFyzga8vopTqLKpK) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Song for No One](https://open.spotify.com/album/0Fi8oyNQ36NmUiVln8CV29) | 3:36 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Lost Myself](https://open.spotify.com/track/7sv2OdXFRyi4LgYXNJYRN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Lost Myself](https://open.spotify.com/album/2vVvuWTJhzW4DKinQ4upL0) | 3:34 |
 | 150 | [That's How I Got To Memphis](https://open.spotify.com/track/6GJfsXltqAGluvLNCdQLUa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [That's How I Got To Memphis](https://open.spotify.com/album/2l1jCDzi1IHIykvqFyLJJI) | 3:41 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMGNhYjdhZDNmZTYwOTNkN2YxN2Q0OTkzZjFmMTQ2MDJk`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMGYwYzAzZDAzNjhiZmMyNWYzMDdlOGFiMWNkMGY3ZmU4`

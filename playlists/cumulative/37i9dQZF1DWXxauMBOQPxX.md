@@ -2,9 +2,9 @@
 
 ### [Heartbreaker](https://open.spotify.com/playlist/37i9dQZF1DWXxauMBOQPxX)
 
-> Heartbroken? These songs might just help...
+> Fallin' in love, no it ain't for the weak...
 
-123 songs - 7 hr 52 min
+124 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [I'm Not The Only One](https://open.spotify.com/track/1Rl7EuhgigYMo5Ylid1Rke) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Dumb Dumb](https://open.spotify.com/album/5TwtsmTGlL07c5C6FASrDj) | 3:59 | 2022-01-18 | 2022-11-13 |
 | [idontwannabeyouanymore](https://open.spotify.com/track/41zXlQxzTi6cGAjpOXyLYH) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:23 | 2022-12-07 |  |
 | [If I Were a Boy](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:09 | 2020-07-10 | 2022-12-08 |
+| [In The Kitchen](https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:47 | 2023-01-30 |  |
 | [It's Over](https://open.spotify.com/track/2DEuwLFHWl96sJWf2CavPS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [It's Over](https://open.spotify.com/album/0ygKnSCZS4GmTJV2sn0kC1) | 3:01 | 2022-12-07 |  |
 | [Jar of Hearts](https://open.spotify.com/track/0HZhYMZOcUzZKSFwPOti6m) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:06 | 2022-01-18 |  |
 | [Jar of Hearts](https://open.spotify.com/track/3aazRPGt7VI6uEIJbQ37ex) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years \- Heartbreak Pop](https://open.spotify.com/album/5C6Xo723vqJhtXhA2WxvRQ) | 4:06 | 2022-01-18 | 2022-11-13 |
@@ -91,7 +92,7 @@
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/4LTOzL6JsnQBifmpsbo9a5) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song \(Guitar Acoustic\)](https://open.spotify.com/album/58wAIiRLQ5q2yMN76ys9F2) | 3:32 | 2020-07-10 | 2022-07-29 |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/4XzjPBdJgLeEBuyYBVAgV8) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Chillout Hits](https://open.spotify.com/album/05vxVDU2XMPOEPcmbIuI8Z) | 3:32 | 2022-01-18 | 2022-11-14 |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2022-01-18 | 2022-12-08 |
-| [Since I Left You \- Demo](https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Since I Left You \(Demo\)](https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv) | 3:27 | 2022-12-07 |  |
+| [Since I Left You \- Demo](https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Since I Left You \(Demo\)](https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv) | 3:27 | 2022-12-07 | 2023-02-01 |
 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 | 2022-01-18 |  |
 | [Skinny Love](https://open.spotify.com/track/6DCw1EGYF8KkLtSbWjqJVU) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Break Up Songs](https://open.spotify.com/album/2FRDG4xVPb9med42ldotMU) | 3:21 | 2022-01-18 | 2022-11-14 |
 | [Skinny Love](https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u) | 3:21 | 2020-07-10 | 2022-07-29 |

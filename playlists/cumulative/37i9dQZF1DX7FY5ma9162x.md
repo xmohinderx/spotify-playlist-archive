@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: SZA
 
-527 songs - 1 day 5 hr 19 min
+528 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 | 2022-09-02 | 2023-01-24 |
 | [Dirty Nikes](https://open.spotify.com/track/5CmCpfXJW8JS8erTQu50nk) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Dirty Nikes](https://open.spotify.com/album/5YdFoNEcjwj1srs1l6nlmh) | 3:18 | 2022-04-01 | 2022-04-19 |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-05-27 |  |
-| [Do I Ever \(feat\. Chris Brown\)](https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Still FWM](https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO) | 3:10 | 2022-04-22 |  |
+| [Do I Ever \(feat\. Chris Brown\)](https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Still FWM](https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO) | 3:10 | 2022-04-22 | 2023-02-01 |
 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 | 2022-04-01 | 2022-07-24 |
 | [Do You Believe](https://open.spotify.com/track/71TRhiwsRckqoqO9CcDIE6) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Idea Of Her](https://open.spotify.com/album/5SBdHir3OHo2WZN0F3Pnbr) | 2:36 | 2022-04-01 | 2022-04-19 |
 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2022-04-01 | 2022-04-21 |
@@ -218,6 +218,7 @@
 | [Hopeless Romantic \(feat\. Swae Lee\)](https://open.spotify.com/track/7IBSffWIu7P2MC7kMwy2FM) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Rolling Papers 2](https://open.spotify.com/album/0YFou4SbS16F4GhSADLDfz) | 3:46 | 2022-07-28 | 2022-08-12 |
 | [hot girl bummer](https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [hot girl bummer](https://open.spotify.com/album/37CqAwxTungNxKpIK5vSgE) | 3:05 | 2022-04-01 | 2022-04-17 |
 | [hot girl bummer](https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [everything means nothing](https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh) | 3:08 | 2022-07-28 | 2022-08-12 |
+| [How \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:38 | 2023-01-31 |  |
 | [How You Want It?](https://open.spotify.com/track/0rbnYyj0Zq2pNJSzWqtf4g) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [How You Want It?](https://open.spotify.com/album/3dPk7WASa1GmL7vluAP4ff) | 3:42 | 2022-04-01 | 2022-04-21 |
 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-07-28 | 2022-11-06 |
 | [Hrs & Hrs](https://open.spotify.com/track/3YdF3DYFE0NekzcjnUIfqc) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Baby Boo](https://open.spotify.com/album/4gAx4phF5UbsW6ai6x1q08) | 3:24 | 2022-11-11 | 2022-11-13 |

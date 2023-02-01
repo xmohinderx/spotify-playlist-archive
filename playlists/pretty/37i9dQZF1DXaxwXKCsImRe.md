@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > Exciting artists on the RADAR from the Benelux and beyond\. Cover: DIKKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,992 likes - 43 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,994 likes - 43 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

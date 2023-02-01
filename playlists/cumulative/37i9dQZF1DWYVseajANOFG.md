@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: Jorkan
 
-129 songs - 7 hr 42 min
+130 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Un Ghetto](https://open.spotify.com/track/5E436xsqi5Ak5KOqiesx0n) | [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [Un Ghetto](https://open.spotify.com/album/4KcXo9upSBiiaYDeXho5RG) | 3:52 | 2022-03-11 | 2022-07-30 |
 | [UNA VAINA LOKA](https://open.spotify.com/track/5yTkmQFKrr3raDab181y59) | [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi) | [UNA VAINA LOKA](https://open.spotify.com/album/3t8eLQtAhxczyuHdrSIQeR) | 2:40 | 2022-09-23 | 2022-10-29 |
 | [Van Duro](https://open.spotify.com/track/3rBITsfts82foOS58VKMoj) | [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3) | [Van Duro](https://open.spotify.com/album/6oKY7iRFgtDnSW74ejypiF) | 2:35 | 2023-01-27 |  |
-| [XOXO](https://open.spotify.com/track/34yHHuurblZVZuoXo49FxM) | [Shyno](https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm) | [XOXO](https://open.spotify.com/album/7t8B9Xl645Qgl7mNDdoQag) | 4:38 | 2023-01-20 |  |
+| [XOXO](https://open.spotify.com/track/5i7vlTb77WEAlewZCzr6GG) | [Shyno](https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm) | [XOXO](https://open.spotify.com/album/0RSc1IGrFrhRMtZCq2GQ1F) | 4:35 | 2023-01-27 |  |
+| [XOXO](https://open.spotify.com/track/34yHHuurblZVZuoXo49FxM) | [Shyno](https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm) | [XOXO](https://open.spotify.com/album/7t8B9Xl645Qgl7mNDdoQag) | 4:38 | 2023-01-20 | 2023-02-01 |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

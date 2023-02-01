@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Ezhel
 
-60 songs - 2 hr 36 min
+61 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [GELMEZSEN GELME](https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:33 | 2023-01-10 |  |
 | [Geriye Dönemem](https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 2:05 | 2023-01-10 |  |
 | [Gitme Bebé](https://open.spotify.com/track/6hCQeXoFDXvYZ0pu2MDM0h) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Gitme Bebé](https://open.spotify.com/album/7pqk9NL58kPzkX1tayqO4G) | 2:36 | 2023-01-10 |  |
-| [Gözyaşı Rapsodi 1](https://open.spotify.com/track/3bf4olLr7rKiudtlMya9us) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Gözyaşı Rapsodi 1](https://open.spotify.com/album/5OIipA5N24pUrk9iRbN8eN) | 3:03 | 2023-01-19 |  |
+| [Gözyaşı Rapsodi 1](https://open.spotify.com/track/3bf4olLr7rKiudtlMya9us) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Gözyaşı Rapsodi 1](https://open.spotify.com/album/5OIipA5N24pUrk9iRbN8eN) | 3:03 | 2023-01-19 | 2023-02-01 |
 | [Gözyaşı Rapsodi 3](https://open.spotify.com/track/7uECo8F02dr0NrMLCPP1Xr) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Gözyaşı Rapsodi 3](https://open.spotify.com/album/3KrOj8YmxQn30s62AEXS5f) | 3:46 | 2023-01-10 | 2023-01-20 |
 | [Gülşen](https://open.spotify.com/track/3dW8hIO3NKlt6DrLPAVYsx) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Gülşen](https://open.spotify.com/album/7MaxT7zgq2r36MEhTFIvhA) | 2:26 | 2023-01-10 | 2023-01-13 |
 | [HAYIR](https://open.spotify.com/track/2V4rAqDOrVzthQXJ0PpoNW) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [HAYIR](https://open.spotify.com/album/2hWeZlMbzNGdSAZo33Pahi) | 2:21 | 2023-01-26 |  |
@@ -68,5 +68,6 @@
 | [YAPAMAM](https://open.spotify.com/track/6sghbExwQySHgaMjuYNa0X) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:03 | 2023-01-10 |  |
 | [Yıldızlar](https://open.spotify.com/track/6p4m4ls8CkXpeWDSyRPvTI) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Yıldızlar](https://open.spotify.com/album/5G2FtfCdpwmGfZTdurkULN) | 2:18 | 2023-01-10 |  |
 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 | 2023-01-10 |  |
+| [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 | 2023-01-31 |  |
 
 \*This playlist was first scraped on 2023-01-11. Prior content cannot be recovered.

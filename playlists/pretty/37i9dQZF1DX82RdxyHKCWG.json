@@ -1,12 +1,12 @@
 {
   "description": "As novidades e estrelas do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Chl\u00f6e\n\n",
-  "num_followers": 112082,
+  "num_followers": 112306,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQwMCwwMDAwMDAwMDgwMzEzNTNlZDg5NTc4Y2E5NzY1ZjkxN2ExZWNhNjk2",
+  "snapshot_id": "MTY3NTEwNjE2NiwwMDAwMDAwMGUyNzIzYTA1ZDQ1ZGIwMDZhYThhYzZhZjdkN2U5ZDAz",
   "tracks": [
     {
       "added_at": "2023-01-27 03:00:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
         "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Nobody Gets Me",
-      "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "MAMA.CITA (hasta la vista)",
         "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 152358,
       "name": "MAMA.CITA (hasta la vista)",
       "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -539,6 +555,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181830,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
       },
@@ -559,38 +591,6 @@
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181830,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "I Can't Go Back To The Way It Was (Intro)",
+        "url": "https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 95273,
+      "name": "I Can't Go Back To The Way It Was (Intro)",
+      "url": "https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 189080,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "I Can't Go Back To The Way It Was (Intro)",
-        "url": "https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 95273,
-      "name": "I Can't Go Back To The Way It Was (Intro)",
-      "url": "https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -751,6 +751,42 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Weapons",
+        "url": "https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 151592,
+      "name": "Weapons",
+      "url": "https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "PANTIES Y BRASIERES",
+        "url": "https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 197383,
+      "name": "PANTIES Y BRASIERES",
+      "url": "https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "KU LO SA (with Camila Cabello)",
         "url": "https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny"
       },
@@ -787,6 +823,26 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 178809,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
         "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
@@ -811,38 +867,18 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Weapons",
-        "url": "https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO"
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 151592,
-      "name": "Weapons",
-      "url": "https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 178809,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O"
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -859,22 +895,6 @@
       "duration_ms": 189838,
       "name": "La Vida Es Una (From Puss in Boots: The Last Wish)",
       "url": "https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -899,6 +919,22 @@
       "duration_ms": 157649,
       "name": "PROIBIDONA",
       "url": "https://open.spotify.com/track/090GUuqAuh7Vje3V745nep"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -951,26 +987,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "Thrill Of The Chase",
-        "url": "https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Plested",
-          "url": "https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8"
-        }
-      ],
-      "duration_ms": 248973,
-      "name": "The Way We Were (feat. Plested)",
-      "url": "https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "You Know What I Need",
         "url": "https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM"
       },
@@ -987,6 +1003,26 @@
       "duration_ms": 170000,
       "name": "You Know What I Need",
       "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "Thrill Of The Chase",
+        "url": "https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Plested",
+          "url": "https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8"
+        }
+      ],
+      "duration_ms": 248973,
+      "name": "The Way We Were (feat. Plested)",
+      "url": "https://open.spotify.com/track/3Ds1rReoW8ixyfCTe2R0zR"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1035,22 +1071,18 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "PANTIES Y BRASIERES",
-        "url": "https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf"
+        "name": "Evangeline",
+        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
         }
       ],
-      "duration_ms": 197383,
-      "name": "PANTIES Y BRASIERES",
-      "url": "https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY"
+      "duration_ms": 177880,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1111,6 +1143,46 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Butterflies (feat. AURORA)",
+        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Butterflies (feat. AURORA)",
+      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 145666,
+      "name": "MONEY ON THE DASH",
+      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Enough To Drink",
         "url": "https://open.spotify.com/album/1Tx5s92P4nNJEAXqDvA3lf"
       },
@@ -1147,22 +1219,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "MONEY ON THE DASH",
-        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+        "name": "DNK",
+        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
       },
       "artists": [
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         },
         {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 145666,
-      "name": "MONEY ON THE DASH",
-      "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
+      "duration_ms": 197386,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/43eoqH9CIZqy7VXLnwwMnu"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1195,38 +1267,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Evangeline",
-        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177880,
-      "name": "Evangeline",
-      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "true",
         "url": "https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv"
       },
@@ -1239,6 +1279,26 @@
       "duration_ms": 191711,
       "name": "true",
       "url": "https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
+        "name": "I Need to Know (feat. Flynn)",
+        "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+        }
+      ],
+      "duration_ms": 155519,
+      "name": "I Need to Know (feat. Flynn)",
+      "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1303,46 +1363,6 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
-        "name": "I Need to Know (feat. Flynn)",
-        "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Flynn",
-          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
-        }
-      ],
-      "duration_ms": 155519,
-      "name": "I Need to Know (feat. Flynn)",
-      "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Butterflies (feat. AURORA)",
-        "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Butterflies (feat. AURORA)",
-      "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt"
       },
@@ -1379,6 +1399,22 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Best Night of My Life",
+        "url": "https://open.spotify.com/album/4XxDkLqQfNsGHHsiWOTGpB"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 154855,
+      "name": "Best Night of My Life",
+      "url": "https://open.spotify.com/track/3oSGH1ibFHx3aCHS4Fk3vV"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "Yummy (with Stefflon Don)",
         "url": "https://open.spotify.com/album/15gVZQfXliOi80uCa4fbxc"
       },
@@ -1395,42 +1431,6 @@
       "duration_ms": 171600,
       "name": "Yummy (with Stefflon Don)",
       "url": "https://open.spotify.com/track/5eJEXMXxTNUcFva4uQ4yUU"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "DNK",
-        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "Daddy",
-      "url": "https://open.spotify.com/track/43eoqH9CIZqy7VXLnwwMnu"
-    },
-    {
-      "added_at": "2023-01-27 03:00:00",
-      "album": {
-        "name": "Best Night of My Life",
-        "url": "https://open.spotify.com/album/4XxDkLqQfNsGHHsiWOTGpB"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 154855,
-      "name": "Best Night of My Life",
-      "url": "https://open.spotify.com/track/3oSGH1ibFHx3aCHS4Fk3vV"
     },
     {
       "added_at": "2023-01-27 03:00:00",
@@ -1583,6 +1583,30 @@
     {
       "added_at": "2023-01-27 03:00:00",
       "album": {
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/0ZFfNGe1r9cF23gmqpWr8H"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 184557,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/53Cwb4EiUfbmdOdNLILo1Z"
+    },
+    {
+      "added_at": "2023-01-27 03:00:00",
+      "album": {
         "name": "JUP-ME",
         "url": "https://open.spotify.com/album/4ruyrszxc3mremaF3DtovJ"
       },
@@ -1605,28 +1629,20 @@
       "url": "https://open.spotify.com/track/6Cpr1feLpRql0ckkekeO8y"
     },
     {
-      "added_at": "2023-01-27 03:00:00",
+      "added_at": "2023-02-01 00:53:43",
       "album": {
-        "name": "Mamacita",
-        "url": "https://open.spotify.com/album/0ZFfNGe1r9cF23gmqpWr8H"
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/5QStCkR4isxn3C9HPJXGe0"
       },
       "artists": [
         {
-          "name": "La Materialista",
-          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+          "name": "ZOO",
+          "url": "https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH"
         }
       ],
-      "duration_ms": 184557,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/53Cwb4EiUfbmdOdNLILo1Z"
+      "duration_ms": 127118,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/6SgwJ1u5mkWWCG3Cvw11x8"
     }
   ],
   "unique_name": "SUPERNOVA",

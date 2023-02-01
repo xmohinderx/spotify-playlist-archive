@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-323 songs - 21 hr 22 min
+324 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Fais rien \(Petit Biscuit Remix\)](https://open.spotify.com/track/6nYJaQMAbU66vlZOWXy6Q4) | [Moi Je](https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW), [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Fabrique Club](https://open.spotify.com/album/6Hw68lfchRLr4nfRAnC45E) | 3:47 | 2020-12-22 |  |
 | [Fallin' 4 U](https://open.spotify.com/track/3kVh9i8HrYnUN2lm0XrE3O) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [Fallin' 4 U](https://open.spotify.com/album/0Rcstk3ow2NjRvAjBra1aC) | 3:24 | 2020-12-22 | 2022-04-21 |
 | [Far Away Place](https://open.spotify.com/track/6vdX3EXarqCZv28rC4OkCR) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [On The Quiet](https://open.spotify.com/album/30SJ2QrjkUMXGrfX0dOGxq) | 4:19 | 2020-12-22 | 2022-04-21 |
+| [Far Away Place](https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [On the Quiet \(Expanded Edition\)](https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX) | 4:19 | 2020-12-22 |  |
 | [Feel Better Now](https://open.spotify.com/track/5F5tU7gE94Kmzi7lHPCgUp) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Feel Better Now](https://open.spotify.com/album/33d0GIhGtH6VL2cLx05yIk) | 3:45 | 2020-12-22 | 2022-07-16 |
 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4jFkHxFXHC0mJVZm7QwK6C) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Feel It Still \(The Remixes\)](https://open.spotify.com/album/6wK4nx3a3x32QVfFohfjl1) | 3:14 | 2020-12-22 | 2022-12-19 |
 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4m6ObZmZ7wnyrKtmLvlyVE) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Feel It Still \(Medasin Remix\)](https://open.spotify.com/album/4zeRHgIHK8iRQ7vs3t1BJF) | 3:14 | 2020-12-22 | 2022-05-04 |
@@ -269,7 +270,7 @@
 | [SWIM](https://open.spotify.com/track/2aT8QoKvwvhgx9PURO4DEP) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 4:37 | 2022-05-13 | 2022-06-04 |
 | [Swimming \- Radio Edit](https://open.spotify.com/track/6cWcSmtGQT9OmFPNDhfwlr) | [I'm Not A Band](https://open.spotify.com/artist/56SpKYTYuMIsMidg3rYOrF) | [Swimming](https://open.spotify.com/album/4kmvJtSyTccj6nNH2ddTmV) | 3:06 | 2020-12-22 | 2022-04-19 |
 | [Swing](https://open.spotify.com/track/6lkDIkZKFWQH8VxxmW4yYP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Swing](https://open.spotify.com/album/3ni5JwJQNe9oWuXJmFcQmu) | 3:33 | 2021-08-27 | 2022-07-28 |
-| [Séquences \- Parcels Remix](https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Séquences \(Remixes\)](https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd) | 4:25 | 2020-12-22 |  |
+| [Séquences \- Parcels Remix](https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Séquences \(Remixes\)](https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd) | 4:25 | 2020-12-22 | 2023-02-01 |
 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 | 2020-12-22 |  |
 | [Taking Over](https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Taking Over](https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa) | 5:36 | 2020-12-22 |  |
 | [Taking Over](https://open.spotify.com/track/3uXle1XlLjIXh2LCPQ0hPa) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Taking Over](https://open.spotify.com/album/2SltvftvL174qfJ9COX0ko) | 5:36 | 2020-12-22 | 2022-04-12 |

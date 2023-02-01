@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-184 songs - 9 hr 31 min
+185 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Need U](https://open.spotify.com/track/0JlKZ0W9iPJctsUMNSDMeo) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Lynzz](https://open.spotify.com/artist/7BNmWFren7JBhowtx1SgdH) | [Need U](https://open.spotify.com/album/1PShwrLIuLYacTtC9O6U8b) | 1:57 | 2022-07-19 |  |
 | [Need Ya](https://open.spotify.com/track/2S1JV3N08V5poRs2RbIMOp) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Need Ya](https://open.spotify.com/album/7shTamr3MYWd0OOIBWcwwu) | 2:40 | 2022-07-29 |  |
 | [Need You](https://open.spotify.com/track/2qtyIWqX6LwB5AZwu708wp) | [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Need You](https://open.spotify.com/album/4WLmLqCxKAIVKGIhHPpEeN) | 2:53 | 2023-01-25 |  |
+| [Need You](https://open.spotify.com/track/6SrzmgeSOjNoSv1BkTPz6A) | [Yonexx](https://open.spotify.com/artist/1qSxzYgUuAxLbHuzCXXvmm), [lunar](https://open.spotify.com/artist/7fDKFWxoNT7jK4fnXrtyOy) | [Need You](https://open.spotify.com/album/4DzkeyUJipyGcl8h1kvGuz) | 2:49 | 2023-01-31 |  |
 | [Neomorph](https://open.spotify.com/track/6W6mHDZCAcdRdFFavmru6u) | [NO QVLT](https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg) | [Neomorph](https://open.spotify.com/album/68jkhRlVn7skH09QaF5AzL) | 2:46 | 2022-10-26 |  |
 | [Next Level](https://open.spotify.com/track/6ieN1XasQHTd98sCSDmieM) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Go Off EP](https://open.spotify.com/album/2BdA0bIcagPyuUxevSv2mC) | 2:21 | 2022-12-07 |  |
 | [No More Levitation](https://open.spotify.com/track/1xsUjMmrGeW18jVbg7xRPP) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL), [Anna Simone](https://open.spotify.com/artist/1PLrdBJr5VTanR7zNI2nes) | [No More Levitation](https://open.spotify.com/album/4AzdEsWq896xPo46LQskW9) | 4:08 | 2023-01-06 |  |

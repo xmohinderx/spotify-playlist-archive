@@ -4,7 +4,7 @@
 
 > Romance antigüito en voz de tus artistas pop con Luis Miguel en portada.
 
-232 songs - 13 hr 49 min
+233 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [La Danza de las Libélulas](https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Danza de las Libélulas](https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f) | 3:40 | 2021-10-16 |  |
 | [La Flor de la Canela](https://open.spotify.com/track/4WKltvGwkSYSaCrRSeJKhJ) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [La Flor de la Canela](https://open.spotify.com/album/34pZStLrPFekoc8PgVeDWm) | 3:27 | 2021-10-16 | 2022-07-29 |
 | [La Media Vuelta \(feat\. Melissa Robles\)](https://open.spotify.com/track/0nQc9LtnjxK1ypDV1OBbdW) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Amor Pasado](https://open.spotify.com/album/48qpziAWt4lPbduEtyUy8n) | 2:54 | 2021-10-16 | 2022-08-22 |
-| [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Keep´n Love](https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc) | 3:17 | 2021-10-16 |  |
+| [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/4DJ3STfAdgmVCE6c9dBFx1) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Keep´n Love](https://open.spotify.com/album/0N9RVBNuATxlMX1PCCK3dc) | 3:17 | 2021-10-16 | 2023-02-01 |
 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 | 2021-10-16 |  |
 | [La Señal / La Puerta](https://open.spotify.com/track/1qO2zPfG8z04GW4TPY5wZJ) | [Jorge Muñiz](https://open.spotify.com/artist/0NV9kotO8AcragqHykjdSd) | [Azulejos 2](https://open.spotify.com/album/1EScFFUKl9B92h70LFU0at) | 3:58 | 2021-10-16 | 2022-07-29 |
 | [La Trenza](https://open.spotify.com/track/10Tf0pmDJDUIfzZf87kwt5) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:48 | 2021-10-16 |  |
@@ -111,6 +111,7 @@
 | [Lo Hice, Te Dejé](https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Hice, Te Dejé](https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN) | 3:06 | 2021-10-16 |  |
 | [Lo Mismo Que Usted](https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ) | 3:09 | 2021-10-16 |  |
 | [Lo Mismo Que Usted](https://open.spotify.com/track/13uDG9SBhqz2Ucca2oSHgk) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/6LY1KFmfTyYmBOkP2JTrE0) | 3:09 | 2021-10-16 | 2022-07-26 |
+| [Luna](https://open.spotify.com/track/1gMzbFyFW5ZDSVxGYbvY4T) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Luna](https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm) | 2:53 | 2023-01-30 |  |
 | [Lágrimas Negras](https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Lágrimas Negras](https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ) | 5:18 | 2021-10-16 | 2022-07-29 |
 | [Mal de Amores](https://open.spotify.com/track/7EMbZ2M4XeHpFWIGtxzzZz) | [Priscila Ninoska](https://open.spotify.com/artist/4QFFZ9N1KxZR2sQ5Zg4z8O), [Delia Valdebenito](https://open.spotify.com/artist/4Kw2WsaPt7T2fNx419MXtJ) | [Mal de Amores](https://open.spotify.com/album/6GQOagdv41A5Ui164oN1p0) | 4:24 | 2021-10-16 | 2022-04-17 |
 | [Maldita condena \(feat\. Colectivo Panamera\)](https://open.spotify.com/track/002fxCOvV4lExD4OYgU3vh) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z), [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw) | [La vida no es La la la \(Edición especial\)](https://open.spotify.com/album/7tLNiAmdSjOwJVZ6QqOtYL) | 3:35 | 2022-01-11 | 2022-04-19 |

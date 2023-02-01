@@ -4,7 +4,7 @@
 
 > Get in the zone with these current jams!
 
-409 songs - 21 hr 7 min
+410 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-09-30 |  |
 | [CHANT \(feat\. Tones And I\)](https://open.spotify.com/track/5BgeAX4HuZdcuCqmu4pIMM) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [CHANT \(feat\. Tones And I\)](https://open.spotify.com/album/4z2ItYJOliymox1iXbu9gs) | 4:30 | 2022-08-05 | 2022-08-27 |
 | [Charlie Be Quiet!](https://open.spotify.com/track/4nrDn3HEdKn524GrOSAll8) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Charlie Be Quiet!](https://open.spotify.com/album/6nT8NzRCvaGVbCvpgSkFjz) | 2:08 | 2022-09-30 | 2022-10-15 |
-| [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 | 2021-12-17 |  |
+| [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 | 2021-12-17 | 2023-02-01 |
 | [CHASING THE SUN](https://open.spotify.com/track/4ld5JAPiiU0O4smQ0j4pAd) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 2:31 | 2021-12-24 | 2022-05-20 |
 | [Chosen \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:41 | 2021-12-17 | 2022-04-19 |
 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 | 2022-04-08 | 2023-01-13 |
@@ -388,6 +388,7 @@
 | [up to me](https://open.spotify.com/track/5pbQaprwbDRlzXBo8xVnCo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [up to me / dna \[demo\]](https://open.spotify.com/album/0GrGh2x8KprTal72UkxnBP) | 2:47 | 2021-12-17 | 2022-01-15 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-05-06 |  |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-06-10 | 2022-06-16 |
+| [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe) | 3:08 | 2023-01-27 |  |
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-07-27 | 2022-09-17 |
 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2022-03-25 | 2022-04-19 |
 | [Watermelon Sugar](https://open.spotify.com/track/1e9oZCCiX42nJl0AcqriVo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Watermelon Sugar](https://open.spotify.com/album/659e2eKbsMH0vYCs5qgFmy) | 2:54 | 2021-12-17 | 2022-07-29 |

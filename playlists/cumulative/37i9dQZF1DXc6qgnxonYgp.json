@@ -145,6 +145,24 @@
     },
     {
       "album": {
+        "name": "Basti Bounce",
+        "url": "https://open.spotify.com/album/5ZLACtOSyXBBAiXBTuTjfE"
+      },
+      "artists": [
+        {
+          "name": "Brodha V",
+          "url": "https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223832,
+      "name": "Basti Bounce",
+      "url": "https://open.spotify.com/track/48lmQKFDZbZPphsgN1dmDm"
+    },
+    {
+      "album": {
         "name": "Dishonored",
         "url": "https://open.spotify.com/album/1BumdI0N9lvokuFe7bxXw5"
       },

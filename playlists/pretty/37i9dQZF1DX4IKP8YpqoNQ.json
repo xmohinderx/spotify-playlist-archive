@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances.",
-  "num_followers": 22595,
+  "num_followers": 22626,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI2OTc4NCwwMDAwMDAwMDBkNWFjMjRlZTcyYmI2NTU5YzA5OGM3OTViNGNiZDkx",
+  "snapshot_id": "MTY3MzI2OTc4NCwwMDAwMDAwMDM1NWM5YmU0M2QwZGQwNzVjNjEzN2FhNGIxZDk0NTRm",
   "tracks": [
     {
       "added_at": "2023-01-09 13:08:27",
@@ -44,22 +44,6 @@
       "added_at": "2023-01-09 13:08:27",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Lost - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/5wjdouk5wQxXkmTeyOC12M"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
       },
       "artists": [
@@ -71,6 +55,22 @@
       "duration_ms": 267279,
       "name": "Blackbird - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Lost - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/5wjdouk5wQxXkmTeyOC12M"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn"
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 263770,
-      "name": "Teenage Fantasy - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4dSCmsx1GjA7te9KJ6Jm8R"
+      "duration_ms": 152093,
+      "name": "Love Is A Losing Game - Live At The Mercury Music Awards",
+      "url": "https://open.spotify.com/track/1DYCdxNAVNUCAOlAi7aP5o"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 152093,
-      "name": "Love Is A Losing Game - Live At The Mercury Music Awards",
-      "url": "https://open.spotify.com/track/1DYCdxNAVNUCAOlAi7aP5o"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Bill Withers Live At Carnegie Hall",
         "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 403666,
       "name": "I Can't Write Left-Handed - Live at Carnegie Hall, New York, NY - October 1972",
       "url": "https://open.spotify.com/track/4u5caeri2MC9V32n9OBuZT"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 263770,
+      "name": "Teenage Fantasy - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4dSCmsx1GjA7te9KJ6Jm8R"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
+        "name": "AMY (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 285453,
+      "name": "What Is It About Men - Live At North Sea Jazz Festival",
+      "url": "https://open.spotify.com/track/40GTKaedGtzka8dlV4NuqI"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 388293,
       "name": "Boogie Nights / All Night - Live Version",
       "url": "https://open.spotify.com/track/60Lw7vJQ3kA2qkXuBHjgXk"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 317786,
-      "name": "What's Going On - Live",
-      "url": "https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 317786,
+      "name": "What's Going On - Live",
+      "url": "https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "AMY (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 285453,
-      "name": "What Is It About Men - Live At North Sea Jazz Festival",
-      "url": "https://open.spotify.com/track/40GTKaedGtzka8dlV4NuqI"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic"
       },
@@ -407,38 +407,6 @@
       "duration_ms": 202368,
       "name": "Redbone - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4gWnIoKUqnaWuzvGumd2rp"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
-        "name": "Super Duper Love",
-        "url": "https://open.spotify.com/album/3CD5F4fRZgD89j8Vb9OR4v"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 215715,
-      "name": "It's A Man's Man's Man's World - Live",
-      "url": "https://open.spotify.com/track/0Jv7rhNYIFk46JZNdCNbIp"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 255693,
-      "name": "River - Live at SXSW 2015",
-      "url": "https://open.spotify.com/track/2ko4juHbeDhU02oRxzwKEc"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -460,17 +428,65 @@
       "added_at": "2023-01-09 13:08:27",
       "album": {
         "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
+        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 205800,
-      "name": "Save Room - Live from Spotify Milan",
-      "url": "https://open.spotify.com/track/38yNO4vxCC5YDB2orOwGpu"
+      "duration_ms": 255693,
+      "name": "River - Live at SXSW 2015",
+      "url": "https://open.spotify.com/track/2ko4juHbeDhU02oRxzwKEc"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "A Woman's Worth (Live) - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
+      "url": "https://open.spotify.com/track/2KxLC0zzzCvJ5xg9dZPnA2"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963",
+        "url": "https://open.spotify.com/album/3nTXqOEHr6AfTb1WSaB4Pm"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 326266,
+      "name": "Bring It on Home to Me - Live at the Harlem Square Club, Miami, FL - January 1963",
+      "url": "https://open.spotify.com/track/3lYM0ZNXLG2276Wcoj0pyz"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -499,50 +515,34 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+        "name": "Super Duper Love",
+        "url": "https://open.spotify.com/album/3CD5F4fRZgD89j8Vb9OR4v"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
         }
       ],
-      "duration_ms": 177426,
-      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
+      "duration_ms": 215715,
+      "name": "It's A Man's Man's Man's World - Live",
+      "url": "https://open.spotify.com/track/0Jv7rhNYIFk46JZNdCNbIp"
     },
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 210600,
-      "name": "A Woman's Worth (Live) - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
-      "url": "https://open.spotify.com/track/2KxLC0zzzCvJ5xg9dZPnA2"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
-        "name": "One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963",
-        "url": "https://open.spotify.com/album/3nTXqOEHr6AfTb1WSaB4Pm"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 326266,
-      "name": "Bring It on Home to Me - Live at the Harlem Square Club, Miami, FL - January 1963",
-      "url": "https://open.spotify.com/track/3lYM0ZNXLG2276Wcoj0pyz"
+      "duration_ms": 205800,
+      "name": "Save Room - Live from Spotify Milan",
+      "url": "https://open.spotify.com/track/38yNO4vxCC5YDB2orOwGpu"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -559,6 +559,22 @@
       "duration_ms": 245106,
       "name": "Heart Of The City (Ain't No Love) - Live On MTV Unplugged / 2001",
       "url": "https://open.spotify.com/track/4xyPqgnOnH076SJEW2QUwF"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Betty Wright Live",
+        "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
+      },
+      "artists": [
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+        }
+      ],
+      "duration_ms": 348733,
+      "name": "You Can't See for Lookin' - Live",
+      "url": "https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -643,22 +659,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Betty Wright Live",
-        "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
-      },
-      "artists": [
-        {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
-        }
-      ],
-      "duration_ms": 348733,
-      "name": "You Can't See for Lookin' - Live",
-      "url": "https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 215800,
       "name": "You Don't Know My Name - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
       "url": "https://open.spotify.com/track/2YpcIMAlj3xnB1Vr3qFYL1"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -739,22 +723,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "'Live' At The Apollo (Vol. II)",
-        "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD"
-      },
-      "artists": [
-        {
-          "name": "James Brown & The Famous Flames",
-          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
-        }
-      ],
-      "duration_ms": 247106,
-      "name": "That's Life - Live At The Apollo Theater, 1967",
-      "url": "https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Compared to What",
         "url": "https://open.spotify.com/album/693i4e5RnbFRb0j3Y2jky3"
       },
@@ -771,6 +739,54 @@
       "duration_ms": 523333,
       "name": "Compared to What - Live",
       "url": "https://open.spotify.com/track/2Qqf36BJKwvvgfShjz5zII"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "'Live' At The Apollo (Vol. II)",
+        "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD"
+      },
+      "artists": [
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+        }
+      ],
+      "duration_ms": 247106,
+      "name": "That's Life - Live At The Apollo Theater, 1967",
+      "url": "https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "First Began - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -803,22 +819,6 @@
       "duration_ms": 181200,
       "name": "For My Friend - Live at Carnegie Hall, New York, NY - October 1972",
       "url": "https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "First Began - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
+        "name": "Live Radio City Music Hall 2003",
+        "url": "https://open.spotify.com/album/5wq0AUenn2o3RXoBelNsxu"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "Never Too Much - Live at Radio City Music Hall, New York - Feb. 12, 2003",
+      "url": "https://open.spotify.com/track/13lur7EjGHqLbKCaJRh5aG"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
         "name": "Black Pumas (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 269300,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7opwYU8nShC7yZ6Ct4O5LD"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
-        "name": "Live Radio City Music Hall 2003",
-        "url": "https://open.spotify.com/album/5wq0AUenn2o3RXoBelNsxu"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "Never Too Much - Live at Radio City Music Hall, New York - Feb. 12, 2003",
-      "url": "https://open.spotify.com/track/13lur7EjGHqLbKCaJRh5aG"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Floacism \"Live\"",
-        "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
-      },
-      "artists": [
-        {
-          "name": "Floetry",
-          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
-        }
-      ],
-      "duration_ms": 269040,
-      "name": "Butterflies - Live At The House Of Blues, New Orleans / 2003",
-      "url": "https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 366960,
       "name": "Street Life - Live",
       "url": "https://open.spotify.com/track/0SkV3827yvx2i40J2dhYYv"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Floacism \"Live\"",
+        "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
+      },
+      "artists": [
+        {
+          "name": "Floetry",
+          "url": "https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM"
+        }
+      ],
+      "duration_ms": 269040,
+      "name": "Butterflies - Live At The House Of Blues, New Orleans / 2003",
+      "url": "https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "The Tour",
-        "url": "https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 308066,
-      "name": "Misty Blue - Live",
-      "url": "https://open.spotify.com/track/7JF7x0QgaE2exhkcAsT1a4"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
+        "name": "The Tour",
+        "url": "https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 308066,
+      "name": "Misty Blue - Live",
+      "url": "https://open.spotify.com/track/7JF7x0QgaE2exhkcAsT1a4"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
         "name": "Life on Planet Groove",
         "url": "https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Ex-Factor (BBC 1Xtra Live Lounge Recording)",
-        "url": "https://open.spotify.com/album/1rBjxPuibrLyILDyfIQUiu"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Lawson",
-          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
-        }
-      ],
-      "duration_ms": 253183,
-      "name": "Ex-Factor - BBC 1Xtra Live Lounge Recording",
-      "url": "https://open.spotify.com/track/1Dhl63qchF6ZJ2BKIFvW3L"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Natural Wonder",
         "url": "https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 246866,
       "name": "I Wish - Live/1995",
       "url": "https://open.spotify.com/track/4hBflEfqEBbZyEqR0RKFiT"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Ex-Factor (BBC 1Xtra Live Lounge Recording)",
+        "url": "https://open.spotify.com/album/1rBjxPuibrLyILDyfIQUiu"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Lawson",
+          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
+        }
+      ],
+      "duration_ms": 253183,
+      "name": "Ex-Factor - BBC 1Xtra Live Lounge Recording",
+      "url": "https://open.spotify.com/track/1Dhl63qchF6ZJ2BKIFvW3L"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk"
-      },
-      "artists": [
-        {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        }
-      ],
-      "duration_ms": 191611,
-      "name": "The World (Is Going Up in Flames) - Live From Spotify House SXSW '16",
-      "url": "https://open.spotify.com/track/1BbzDXEzmgyNT8jeCQvawN"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Grow (Live)",
         "url": "https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 182117,
       "name": "Grow - Live",
       "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0jEAeDxv9hnoIc1YO1kpUk"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        }
+      ],
+      "duration_ms": 191611,
+      "name": "The World (Is Going Up in Flames) - Live From Spotify House SXSW '16",
+      "url": "https://open.spotify.com/track/1BbzDXEzmgyNT8jeCQvawN"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "These Songs for You, Live!",
-        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 355400,
-      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
-      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "I Wish I Knew How It Would Feel to Be Free (Live \u2013 Montreux Jazz Festival 1976)",
         "url": "https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 398986,
       "name": "Cruisin' - Live At The Jazz Cafe, London/1995",
       "url": "https://open.spotify.com/track/5jwiURsWM9gljlr4IWIk1l"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "These Songs for You, Live!",
+        "url": "https://open.spotify.com/album/1cjwUx7RBiHrMcTmknJKVY"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 355400,
+      "name": "I Love You More Than You'll Ever Know - Live at the Bitter End, New York City, 1971",
+      "url": "https://open.spotify.com/track/76SMwORz2FzhaKYia69yaa"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 645040,
-      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 220546,
       "name": "Add To Me - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1pvaVKcvcdNcfo9iLzSMAU"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 645040,
+      "name": "Brown Sugar - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/0OrHlUYXJ0AdHUD24AS7Ya"
     },
     {
       "added_at": "2023-01-09 13:08:27",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-01-09 13:08:27",
       "album": {
-        "name": "Live In Stockholm",
-        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 341551,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
-    },
-    {
-      "added_at": "2023-01-09 13:08:27",
-      "album": {
         "name": "Invisible Chains Live from Nyc",
         "url": "https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 572680,
       "name": "Sunshine \"I Can Fly\" (Live)",
       "url": "https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu"
+    },
+    {
+      "added_at": "2023-01-09 13:08:27",
+      "album": {
+        "name": "Live In Stockholm",
+        "url": "https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 341551,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN"
     }
   ],
   "unique_name": "Soul Live",

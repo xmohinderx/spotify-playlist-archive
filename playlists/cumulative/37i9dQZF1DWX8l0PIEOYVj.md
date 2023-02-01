@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Tsu Nami.
 
-300 songs - 18 hr 9 min
+301 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/track/3cLJYCnJVVAWZgPcAafv6u) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/album/6PfII0JtBwU9Si3KBW3S59) | 3:07 | 2022-07-08 | 2022-08-06 |
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-07-08 |  |
 | [Last Forever](https://open.spotify.com/track/4qIdQ85ScIvl4E4ibBGjMp) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Last Forever](https://open.spotify.com/album/7yQNJPHh8ZeZBUE7AjK9Nf) | 4:09 | 2022-07-08 | 2022-07-29 |
-| [Lifetime](https://open.spotify.com/track/3apU7oAtxowTACEEidRrSd) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [Roseanna](https://open.spotify.com/artist/3dEerTuAiYw5ZgMEtlTM5s) | [Lifetime](https://open.spotify.com/album/7IGiVdIK9PNhm0Tl6Lmtwq) | 3:03 | 2022-09-09 |  |
+| [Lifetime](https://open.spotify.com/track/3apU7oAtxowTACEEidRrSd) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [Roseanna](https://open.spotify.com/artist/3dEerTuAiYw5ZgMEtlTM5s) | [Lifetime](https://open.spotify.com/album/7IGiVdIK9PNhm0Tl6Lmtwq) | 3:03 | 2022-09-09 | 2023-02-01 |
 | [Light Up The Sky \(feat\. Scott Stapp\)](https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql) | [Light Up The Sky \(feat\. Scott Stapp\)](https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw) | 4:44 | 2022-07-08 |  |
 | [Lights Out](https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Lights Out](https://open.spotify.com/album/1K9qhtSCTuNF4weATzFxZT) | 3:53 | 2022-07-08 |  |
 | [Lightspeed](https://open.spotify.com/track/6mFt5wIzTKeFV9QsF1aU2N) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Planet Oasis](https://open.spotify.com/album/1Hv4crdSeL4Zd2jVdV7dJG) | 3:00 | 2022-07-08 |  |
@@ -181,6 +181,7 @@
 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 | 2022-07-08 |  |
 | [Love Is Blind](https://open.spotify.com/track/6eHdUZDZppaYodOTmnRQOM) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Love Is Blind](https://open.spotify.com/album/423gOrx1KMJG9XxFScREUx) | 3:41 | 2022-07-08 | 2022-08-06 |
 | [Love Is Blind](https://open.spotify.com/track/7JWF6zMQnBlbLUNApXcGip) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/43waCycGjPG5xy1rH5plSy) | 3:41 | 2022-07-29 |  |
+| [Love You Enough](https://open.spotify.com/track/5hGhZiwQvYp3OD9Hakq8Fk) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Love You Enough](https://open.spotify.com/album/4lxf1rPXfR9Juy3nK9dnYu) | 3:26 | 2023-01-27 |  |
 | [Lucky Ones](https://open.spotify.com/track/10G56Sctj9tU3njUO8HtK0) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Lucky Ones](https://open.spotify.com/album/3OZBx7xEhKo0ZQuNGBhLiD) | 3:25 | 2022-12-02 |  |
 | [Magnets](https://open.spotify.com/track/2qoVyX8fGrZezlqgmQxMxz) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Dead Rose](https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM) | [Magnets](https://open.spotify.com/album/0zW1I56aQjsrJsGpxneROQ) | 3:39 | 2022-07-08 | 2022-08-26 |
 | [Make You Cry \(Tritonia 346\)](https://open.spotify.com/track/4dscKp0qk0UMORQvLrtdCV) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Tritonia 346](https://open.spotify.com/album/2JDE3zpJ7INUqoMCuKSa7z) | 4:06 | 2022-07-08 | 2022-08-06 |

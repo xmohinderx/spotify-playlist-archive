@@ -4,7 +4,7 @@
 
 > The freshest indie music from South African and beyond\. Cover: <a href="https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86?si=E4XDVL0qS2WwQFX\_ZhuEvg">Matthew Mole
 
-148 songs - 8 hr 29 min
+149 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [If You Want It](https://open.spotify.com/track/6mdTa1cq8lDcgj6PDlUg6l) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [If You Want It](https://open.spotify.com/album/1D1KB1Y0VcpA29YfK5zHmY) | 3:24 | 2022-09-02 | 2022-11-11 |
 | [Inhale](https://open.spotify.com/track/2PNzm3EQxfSuWaJbvi4UE3) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [Inhale](https://open.spotify.com/album/1N3uUWhZcQ7wfa2aa3W1ef) | 2:48 | 2022-08-04 | 2022-10-07 |
 | [Izibongo Zami](https://open.spotify.com/track/0cBmKjNZdIFdNk7eXvp1bT) | [Mx Blouse](https://open.spotify.com/artist/4ajpZ48mZRH2U5u4TbzfAE) | [Izibongo Zami](https://open.spotify.com/album/3BMJkZqtOozpJTB2LzKue4) | 3:52 | 2022-07-21 | 2022-11-11 |
-| [Jolie](https://open.spotify.com/track/5bB4eyM0bd4i5YIB3SyfBF) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Jolie](https://open.spotify.com/album/7KSc6yLnDS8rahkCrjgPgf) | 3:00 | 2023-01-12 |  |
+| [Jolie](https://open.spotify.com/track/1vSOsZeX894Wh0ym6M3UhO) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Californialand](https://open.spotify.com/album/2l0s44teDp0yLB7TV8pt9q) | 3:00 | 2023-01-12 |  |
+| [Jolie](https://open.spotify.com/track/5bB4eyM0bd4i5YIB3SyfBF) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Jolie](https://open.spotify.com/album/7KSc6yLnDS8rahkCrjgPgf) | 3:00 | 2023-01-12 | 2023-02-01 |
 | [Let It Go](https://open.spotify.com/track/7ntt63SiqMJsUUt01U66h4) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [Let It Go](https://open.spotify.com/album/5yyNJzEniuIKNmUqZbKQGT) | 2:57 | 2022-12-15 |  |
 | [Life](https://open.spotify.com/track/3jkQ2gVCFvozGQu2FxYPLH) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Subtle Affection](https://open.spotify.com/album/46QpadPmdS38FxqUm7vDDh) | 4:12 | 2022-09-09 | 2022-10-21 |
 | [Lift Me Higher](https://open.spotify.com/track/3wSENVw8rn7X9nIJ7AzwKp) | [The One Who Sings](https://open.spotify.com/artist/2q2MBrkkj7y8evCayJ15PG) | [Lift Me Higher](https://open.spotify.com/album/3XcxajmXq3K30HC6Vqqv2W) | 1:13 | 2022-09-29 | 2022-12-16 |

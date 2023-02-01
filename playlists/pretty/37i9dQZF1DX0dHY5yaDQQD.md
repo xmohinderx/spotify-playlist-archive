@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,678 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,718 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 | 39 | [Rancor](https://open.spotify.com/track/4ZvtoneuGescYoD6fIMREr) | [Rebekah](https://open.spotify.com/artist/7rmuxvt1D8dIU920lNcR67), [X\-Tension](https://open.spotify.com/artist/19QuWp2q7u0osyIjh9qQkD) | [Rancor EP](https://open.spotify.com/album/3XsZFScRqSPpkGz2YwSUxa) | 6:45 |
 | 40 | [Jumpin'](https://open.spotify.com/track/3CjqPzG6sUMTzVAcA2bdKS) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Jumpin'](https://open.spotify.com/album/2KGsOHUVxwWMfJ8g3WtTER) | 5:25 |
 | 41 | [Watch Yo Step \(Feeling Myself\)](https://open.spotify.com/track/0toc37MmCG1dIhDIMrqkpv) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Watch Yo Step \(Feeling Myself\)](https://open.spotify.com/album/5LFHnroRCCp9oSzpm4dciv) | 3:24 |
-| 42 | [The Devil \- Tygapaw Remix](https://open.spotify.com/track/5ytwG3scRPVYVQLLFEntMv) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Tygapaw](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Dedicated 2 Disrespect: The Remixes](https://open.spotify.com/album/6uDLaQgGNwhEezAaj5HVC9) | 3:46 |
+| 42 | [The Devil \- Tygapaw Remix](https://open.spotify.com/track/5ytwG3scRPVYVQLLFEntMv) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Dedicated 2 Disrespect: The Remixes](https://open.spotify.com/album/6uDLaQgGNwhEezAaj5HVC9) | 3:46 |
 | 43 | [Inner Space](https://open.spotify.com/track/0Dw4p3CSXiUVSN7fmudVzN) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Inner Space](https://open.spotify.com/album/06SKjebqZpbxztfjbSW9K4) | 4:54 |
 | 44 | [Cyclone](https://open.spotify.com/track/4aPJXGbQzN8dSCamIHZmqS) | [Jaëss](https://open.spotify.com/artist/1ol36pNsmqP1XEfBruiIAQ) | [Cyclone](https://open.spotify.com/album/6RE1A5PWdZ6Klm706aaaFT) | 5:51 |
 | 45 | [Mon Rs Te Baise Ta Mère](https://open.spotify.com/track/3yLJTuyqnf49Dh5uGQjI5d) | [Evil Grimace](https://open.spotify.com/artist/441WboQSNXQCGoWp7rsHWv) | [Meilleurs Voeux II](https://open.spotify.com/album/4eqTukktZFXijWQZ3kUfwA) | 3:28 |

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 
 > Warm, inspirational pop, that's good at heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,053 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,206 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
-| 2 | [Up](https://open.spotify.com/track/53Qec9qsCfbzcXUCiEkfq4) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Up](https://open.spotify.com/album/0xwpeyyjply5M7AHR2ksx3) | 2:57 |
-| 3 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
-| 4 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 |
+| 1 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
+| 2 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
+| 3 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 |
+| 4 | [Up](https://open.spotify.com/track/53Qec9qsCfbzcXUCiEkfq4) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Up](https://open.spotify.com/album/0xwpeyyjply5M7AHR2ksx3) | 2:57 |
 | 5 | [Better Days](https://open.spotify.com/track/2SLxgJ2YFohfd8KwuJZTUE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:24 |
 | 6 | [Thank God](https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:54 |
-| 7 | [Gold](https://open.spotify.com/track/3FtOav13HRZKhnEFIeYl8q) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu), [Jome](https://open.spotify.com/artist/4rUMcxwZhidyj6FTbMSXse) | [Gold](https://open.spotify.com/album/5r5nju63zf21QC2ApeWNt2) | 2:45 |
-| 8 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
-| 9 | [Our Moment](https://open.spotify.com/track/01cmDm4asTTxN4M82JovaU) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Our Moment](https://open.spotify.com/album/5uUBaBc5fc0dsaH7XpMLtZ) | 4:12 |
-| 10 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 |
+| 7 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 |
+| 8 | [Gold](https://open.spotify.com/track/3FtOav13HRZKhnEFIeYl8q) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu), [Jome](https://open.spotify.com/artist/4rUMcxwZhidyj6FTbMSXse) | [Gold](https://open.spotify.com/album/5r5nju63zf21QC2ApeWNt2) | 2:45 |
+| 9 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
+| 10 | [Our Moment](https://open.spotify.com/track/01cmDm4asTTxN4M82JovaU) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Our Moment](https://open.spotify.com/album/5uUBaBc5fc0dsaH7XpMLtZ) | 4:12 |
 | 11 | [Brighter Days](https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:28 |
 | 12 | [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf) | 2:50 |
 | 13 | [Follow Me](https://open.spotify.com/track/39BRQDkqjcezvjud5PqYgQ) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Follow Me](https://open.spotify.com/album/4NvCP1MvPsO8FFYmD7pQiV) | 2:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 | 59 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 |
 | 60 | [You Are Not Alone](https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [You Are Not Alone](https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx) | 2:45 |
 
-Snapshot ID: `MTY3NDkxNjY1MiwwMDAwMDAwMDFmNDVhY2ZmZDMyNzRhYjI2Y2NlYTA3MzNiYWNjMWJl`
+Snapshot ID: `MTY3NTE5NjUwOCwwMDAwMDAwMDIyNzJkZTZkMmE3YzAxNWVlNzE5MjAwYzY5ZDM3ODE3`

@@ -4,7 +4,7 @@
 
 > Explore the ever\-evolving folk & roots scene\. Cover: David Kushner
 
-340 songs - 21 hr 8 min
+342 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [If Ever \(with Jack Johnson & Ben Harper\)](https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG) | [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [If Ever](https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC) | 3:35 | 2021-12-10 | 2022-06-25 |
 | [If I Could](https://open.spotify.com/track/1Aepp4YzacHrpRM92k0zDd) | [Kelsey Hunter](https://open.spotify.com/artist/0pfdCv5gNkRWSmtgwdDS2g) | [Kelsey Hunter](https://open.spotify.com/album/0tOBHO98lIGttU6zneer3Z) | 4:00 | 2021-12-10 | 2022-07-16 |
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2022-08-12 |  |
-| [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2022-10-21 |  |
+| [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2022-10-21 | 2023-02-01 |
+| [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 | 2023-01-27 |  |
 | [In the Game](https://open.spotify.com/track/7wrMbVhD2bRf7alS3RLT0N) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Susan O'Neill](https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua) | [In the Game](https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8) | 4:03 | 2021-12-10 | 2022-04-23 |
 | [In The Pines](https://open.spotify.com/track/4gOHmHKTn63012ROseKHvR) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [In The Pines](https://open.spotify.com/album/4J4zam9BmBnrGSzrI7SrMp) | 3:37 | 2022-06-10 | 2022-09-10 |
 | [It's A New Life](https://open.spotify.com/track/3ku06NWgtn63zs0yGSjQoe) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [New Girl](https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK) | 4:25 | 2022-06-10 | 2022-09-03 |
@@ -257,7 +258,8 @@
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2023-01-13 |  |
 | [Sing Me a Song](https://open.spotify.com/track/0LmMZe0g80Z60zoTqR3cai) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6), [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Sing Me a Song](https://open.spotify.com/album/5qccHZQbxaKW0rlUz8N37y) | 2:39 | 2022-07-22 | 2022-12-03 |
 | [Sing Me A Song](https://open.spotify.com/track/3TYkPCb5o4AAn3djdvF4mw) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6), [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Sing Me A Song](https://open.spotify.com/album/1n3ABnjNSFZF5eX6ocFZks) | 2:39 | 2022-04-22 | 2022-07-29 |
-| [Sleep Deprivation](https://open.spotify.com/track/7sPcz0XlmcxQnd3rK45fOx) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Sleep Deprivation](https://open.spotify.com/album/4ppwp26lKTKqRGE70HzlOd) | 2:35 | 2022-04-08 |  |
+| [Sleep Deprivation](https://open.spotify.com/track/2A1FGotEDhN5UjBiLsUwnk) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Sleep Deprivation](https://open.spotify.com/album/59ISpDbHu7goYQimMo9oZp) | 2:35 | 2023-01-27 |  |
+| [Sleep Deprivation](https://open.spotify.com/track/7sPcz0XlmcxQnd3rK45fOx) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Sleep Deprivation](https://open.spotify.com/album/4ppwp26lKTKqRGE70HzlOd) | 2:35 | 2022-04-08 | 2023-02-01 |
 | [So Far Gone](https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [So Far Gone](https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4) | 3:43 | 2022-05-20 | 2022-11-19 |
 | [Something About What Happens When We Talk](https://open.spotify.com/track/3UHWekceJvs3fvvFxKeLtU) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Something About What Happens When We Talk](https://open.spotify.com/album/1N7DJFOtSYiQEY4GfFYYH3) | 3:40 | 2022-09-09 |  |
 | [Something in the Orange \- Z&E's Version](https://open.spotify.com/track/3rU2QIyNDk2OWV6mAW2qQr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 4:14 | 2022-04-26 |  |

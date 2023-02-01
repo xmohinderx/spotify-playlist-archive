@@ -972,7 +972,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 176470,
       "name": "BABY OTAKU",
       "url": "https://open.spotify.com/track/0kTMK4gNFfLXaTb62w1UaJ"
@@ -5412,7 +5412,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 167812,
       "name": "Lealtad",
       "url": "https://open.spotify.com/track/6OsU20ogLqpSbNGAbMY9se"
@@ -7014,7 +7014,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
@@ -10290,6 +10290,40 @@
       "duration_ms": 255586,
       "name": "Te Deseo Muy Felices Fiestas",
       "url": "https://open.spotify.com/track/45fKgDxHS174490B3qruhx"
+    },
+    {
+      "album": {
+        "name": "Te Extra\u00f1o a Lo Vio",
+        "url": "https://open.spotify.com/album/1sH5doMd0JobOpHAsfit6I"
+      },
+      "artists": [
+        {
+          "name": "Gringuitos Records",
+          "url": "https://open.spotify.com/artist/5AYSnRNynWULTIDjzAbgxV"
+        },
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "El Rey",
+          "url": "https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349035,
+      "name": "Te Extra\u00f1o a Lo Vio",
+      "url": "https://open.spotify.com/track/0yq2vtAiZfTYZlP2EFCJDt"
     },
     {
       "album": {

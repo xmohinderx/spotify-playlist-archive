@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 231500,
       "name": "A Walk in the Dark",
       "url": "https://open.spotify.com/track/1YkKRJHnecfO8PelJgljBs"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 246829,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/2nZSM1K6ygAtwvZXtYXnxz"
@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "for a moment",
+        "url": "https://open.spotify.com/album/2CITQHnHSikMgQTsTzIQFT"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169672,
+      "name": "for a moment",
+      "url": "https://open.spotify.com/track/25n1cahZd5qTdznFxHmgbk"
+    },
+    {
+      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/7G4hxteCYnrF1ZDZy7GTrW"
       },
@@ -622,7 +640,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 216177,
       "name": "F\u00e9nix",
       "url": "https://open.spotify.com/track/1Xa2Y5ZpDPrH0Laygi1mCZ"
@@ -665,6 +683,24 @@
     },
     {
       "album": {
+        "name": "ghosting",
+        "url": "https://open.spotify.com/album/0YH5HG326jgub6RwcyfLgP"
+      },
+      "artists": [
+        {
+          "name": "Pam Rabbit",
+          "url": "https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138294,
+      "name": "ghosting",
+      "url": "https://open.spotify.com/track/4HZ871AMnHNaI4C0XnkCar"
+    },
+    {
+      "album": {
         "name": "Girl From A Movie",
         "url": "https://open.spotify.com/album/6t5K3cKJCLqT6OTj5dhLO8"
       },
@@ -676,7 +712,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 256437,
       "name": "Girl From A Movie",
       "url": "https://open.spotify.com/track/4JaEvhhoQmAHSGwRWzKNrD"
@@ -698,6 +734,24 @@
       "duration_ms": 144000,
       "name": "Girls",
       "url": "https://open.spotify.com/track/3Sm5jkH3G1FMKiLMa5QKwv"
+    },
+    {
+      "album": {
+        "name": "Harder",
+        "url": "https://open.spotify.com/album/0MmC2NFKgPM9wiLq6MGtmJ"
+      },
+      "artists": [
+        {
+          "name": "Elly",
+          "url": "https://open.spotify.com/artist/58SiiPGMtAPMaQyNkn9Fbs"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "Harder",
+      "url": "https://open.spotify.com/track/7gZuxAKC6R7u52qs9aYsZM"
     },
     {
       "album": {
@@ -734,6 +788,24 @@
       "duration_ms": 188882,
       "name": "Heartbreak Culture",
       "url": "https://open.spotify.com/track/4MMJbS1RLxovnQ7KWrD9ro"
+    },
+    {
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/1Sk0RieL3iPuB528EFaId4"
+      },
+      "artists": [
+        {
+          "name": "&Tilly",
+          "url": "https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173225,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/7BIPjtC3Cnvpj0Zb8uH1Iq"
     },
     {
       "album": {
@@ -814,7 +886,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 156831,
       "name": "Hlavolamy",
       "url": "https://open.spotify.com/track/0mZaxziywLliqJQ0rp6uXG"
@@ -886,7 +958,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 173393,
       "name": "I Want To Be Perfect",
       "url": "https://open.spotify.com/track/0cfLMh35GyuZne7PNaJIFn"
@@ -962,6 +1034,24 @@
       "duration_ms": 208691,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/04e6iVycnDnif8OXxw0b2x"
+    },
+    {
+      "album": {
+        "name": "Instincts",
+        "url": "https://open.spotify.com/album/6iVB9kSoSPQUklb6wJnBcg"
+      },
+      "artists": [
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148465,
+      "name": "Instincts",
+      "url": "https://open.spotify.com/track/601ysvmx4INBIwtAtGgS0b"
     },
     {
       "album": {
@@ -1486,7 +1576,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 150007,
       "name": "Mirror Me",
       "url": "https://open.spotify.com/track/15OMPbRzKfZKNDkTFVJMQn"
@@ -1504,7 +1594,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 205500,
       "name": "Mirror Talk",
       "url": "https://open.spotify.com/track/3dqH8fW8F6gOSHMvvCpH28"
@@ -1526,6 +1616,24 @@
       "duration_ms": 150000,
       "name": "MONSTER",
       "url": "https://open.spotify.com/track/0u4C08sn9NyjPnHavYVlbC"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/5Dl5pxAGvCQyTjQl98lEeB"
+      },
+      "artists": [
+        {
+          "name": "Laura Weng",
+          "url": "https://open.spotify.com/artist/7ucrdTkNkSFJNzWLc3ZFIy"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219824,
+      "name": "My emotions",
+      "url": "https://open.spotify.com/track/0K1lWRuu7A6PeQwMmRQUeC"
     },
     {
       "album": {
@@ -1947,6 +2055,28 @@
     },
     {
       "album": {
+        "name": "Obejmout",
+        "url": "https://open.spotify.com/album/6APhPvE7cQKkuVutoeajc8"
+      },
+      "artists": [
+        {
+          "name": "Eva Buresova",
+          "url": "https://open.spotify.com/artist/2wqjvdaJ8YYyZpJDptlFtu"
+        },
+        {
+          "name": "Vaclav Noid Barta",
+          "url": "https://open.spotify.com/artist/1mBId0W3GTGIZvY3kkFjzk"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154491,
+      "name": "Obejmout",
+      "url": "https://open.spotify.com/track/2XqAD2W9yuAE7owj9SRNMT"
+    },
+    {
+      "album": {
         "name": "Oh my mind",
         "url": "https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O"
       },
@@ -1958,7 +2088,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 171191,
       "name": "Oh my mind",
       "url": "https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK"
@@ -2012,7 +2142,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 152307,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/27Zyc5iQ3uQ9EKWoALWm0W"
@@ -2128,6 +2258,24 @@
       "duration_ms": 154670,
       "name": "Personal Darkness",
       "url": "https://open.spotify.com/track/5GuX8sMyN1VvUJnkPQ21VP"
+    },
+    {
+      "album": {
+        "name": "Planes",
+        "url": "https://open.spotify.com/album/25dumQ0Y9BWUJwOMr0GSfS"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/1LibaIG9U6IplTTf9XMeNV"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173945,
+      "name": "Planes",
+      "url": "https://open.spotify.com/track/7GbVnDYaBiwAwuXdtwfh9m"
     },
     {
       "album": {
@@ -2272,6 +2420,28 @@
       "duration_ms": 176088,
       "name": "pull the trigger",
       "url": "https://open.spotify.com/track/7KAVS6tR9EXj5nZ53elV20"
+    },
+    {
+      "album": {
+        "name": "PUMA",
+        "url": "https://open.spotify.com/album/4vbXkuMgYi4t9PvAsTbLIt"
+      },
+      "artists": [
+        {
+          "name": "Sawsane",
+          "url": "https://open.spotify.com/artist/4RqCdNHpABy3V9tfKsf5QG"
+        },
+        {
+          "name": "Hoodini",
+          "url": "https://open.spotify.com/artist/44yW8xgEVHLSHJRePqLIhw"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164776,
+      "name": "PUMA",
+      "url": "https://open.spotify.com/track/2y4OP8swtxH9bf5Pg3e83o"
     },
     {
       "album": {
@@ -2518,7 +2688,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 243555,
       "name": "Salt - Bulp Remix",
       "url": "https://open.spotify.com/track/7Ib5gOZB8Iim9BYHpdcAk2"
@@ -2700,6 +2870,24 @@
       "duration_ms": 162739,
       "name": "SnOWfLAkE",
       "url": "https://open.spotify.com/track/2zIbl1gHuqMgXnC6bxURWW"
+    },
+    {
+      "album": {
+        "name": "So mnou cel\u00fd hood",
+        "url": "https://open.spotify.com/album/5YnqouUmwoZOU7XhAcLOfv"
+      },
+      "artists": [
+        {
+          "name": "Saimonsa",
+          "url": "https://open.spotify.com/artist/3nSE4R78cKheOA3EQwUbee"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135171,
+      "name": "So mnou cel\u00fd hood",
+      "url": "https://open.spotify.com/track/7jkztsr5MX9SeSxj5IwAoQ"
     },
     {
       "album": {
@@ -2954,6 +3142,24 @@
       "duration_ms": 284124,
       "name": "THINGS",
       "url": "https://open.spotify.com/track/2htyExlBInYjE6vp4dnM9P"
+    },
+    {
+      "album": {
+        "name": "Tm\u00e1n\u00ed (z filmu Tm\u00e1n\u00ed/Darkening)",
+        "url": "https://open.spotify.com/album/7rH1Ip9RgVt8ktjZuoGfPq"
+      },
+      "artists": [
+        {
+          "name": "Lenka Dusilov\u00e1",
+          "url": "https://open.spotify.com/artist/3VbN94vOm46nI5TTJgnKtI"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246947,
+      "name": "Tm\u00e1n\u00ed",
+      "url": "https://open.spotify.com/track/453WilHbK4Y8Tkdc0nd7IP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,643 likes - 102 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,667 likes - 102 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 21 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/album/5IDEZ1rerrSPTypdQI3od9) | 4:26 |
 | 22 | [Cloud 99](https://open.spotify.com/track/5GaM0pBOHSVAUQkiZcd9Oq) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Cloud 99](https://open.spotify.com/album/6sAvhEx9aSifeitZ5TkD7Z) | 3:22 |
 | 23 | [Guasto D'Amore](https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Guasto D'Amore](https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7) | 3:20 |
-| 24 | [Nie am Meer](https://open.spotify.com/track/5STNGHbs8oGwUxgnt8qgc1) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Nie am Meer](https://open.spotify.com/album/4wRBCUGypXUFJGoHn06i07) | 2:32 |
+| 24 | [Nie am Meer](https://open.spotify.com/track/4XfPpFn08l5weRQsyEqdMK) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Nie am Meer](https://open.spotify.com/album/6ujmeQAptYTzsHzfymj2AF) | 2:32 |
 | 25 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
 | 26 | [Real Spring](https://open.spotify.com/track/4xxOx87AD6mBqU3TsuRfg3) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Real Spring](https://open.spotify.com/album/2ca6O7zmxeX5eqSNZPDdzJ) | 2:09 |
 | 27 | [Loser](https://open.spotify.com/track/1NjKGrKFajOZOtwgebtOJu) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Loser](https://open.spotify.com/album/6l8JPuOO6OUTFX4umiTyQL) | 2:39 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 101 | [Fick die Nachbarn](https://open.spotify.com/track/4cxvsOCzuXIiPAnHOASuOF) | [kevin](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz) | [Fick die Nachbarn](https://open.spotify.com/album/2ukeIvx6lxIqFPRG39aKrR) | 2:51 |
 | 102 | [Unlovable](https://open.spotify.com/track/0mPDsawVHviPjbUw67yEbb) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Unlovable](https://open.spotify.com/album/6uXqIAEVfndXVq4KPNMiHo) | 4:02 |
 
-Snapshot ID: `MTY3NDgxMzg3MiwwMDAwMDAwMDA2YzBlMjc5ZWMwOGRhNjVlODIyNGY2NmMyNWQzODYz`
+Snapshot ID: `MTY3NDgxMzg3MiwwMDAwMDAwMDc2ZTgxMzEyMzZlMjY5MDRiZGIwNWU5NDI0MmEwMmMx`

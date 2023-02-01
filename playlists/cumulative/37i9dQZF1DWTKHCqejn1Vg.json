@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 220733,
       "name": "2080",
       "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
@@ -696,6 +696,28 @@
       "duration_ms": 182120,
       "name": "Come In",
       "url": "https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF"
+    },
+    {
+      "album": {
+        "name": "COMFY",
+        "url": "https://open.spotify.com/album/0F0KPsp7ru8WRgLIgaJO3S"
+      },
+      "artists": [
+        {
+          "name": "SEOA",
+          "url": "https://open.spotify.com/artist/3jsk2LMEav6KI7pFwiU7tF"
+        },
+        {
+          "name": "SZN",
+          "url": "https://open.spotify.com/artist/1MCqb5Gwah45385YUspsn5"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225391,
+      "name": "COMFY",
+      "url": "https://open.spotify.com/track/0PQzmvpqxnDlH82yj7wTh3"
     },
     {
       "album": {
@@ -1544,7 +1566,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 224000,
       "name": "Harujongil",
       "url": "https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh"
@@ -3664,6 +3686,28 @@
       "duration_ms": 243492,
       "name": "Turn Off Your Phone (Feat. ELO) - Remix",
       "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
+    },
+    {
+      "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206399,
+      "name": "Turn On (Feat. Jiselle)",
+      "url": "https://open.spotify.com/track/0lunvnQTUsz1DzLAaAhmXF"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks for punks big and small.",
-  "num_followers": 32042,
+  "num_followers": 32295,
   "original_name": "Raised on Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMDE1NDgxMGUyN2IwYzkyNWQzNWFkM2FkNDY2MTRmYjlh",
+  "snapshot_id": "MTY0OTc5NjQwNiwwMDAwMDAwMDM3YmU3MmY5NjhiZDc5M2FhMzc4YWNlMjcyZmE3MDQw",
   "tracks": [
     {
       "added_at": "2021-04-20 17:48:20",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "London Calling (Remastered)",
         "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 194666,
       "name": "Train in Vain (Stand by Me) - Remastered",
       "url": "https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
     },
     {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Recipe For Hate",
-        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "American Jesus",
-      "url": "https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54"
-    },
-    {
       "added_at": "2022-01-10 21:04:09",
       "album": {
         "name": "This Year's Model (2021 Remaster)",
@@ -343,6 +327,22 @@
       "duration_ms": 196680,
       "name": "Pump It Up - 2021 Remaster",
       "url": "https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "American Jesus",
+      "url": "https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
+      },
+      "artists": [
+        {
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
+        }
+      ],
+      "duration_ms": 163880,
+      "name": "Alternative Ulster",
+      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
         "name": "End of the Century (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 195160,
       "name": "I Was a Teenage Anarchist",
       "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
-      },
-      "artists": [
-        {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "Alternative Ulster",
-      "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -635,38 +635,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "Let's Talk About Feelings",
-        "url": "https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz"
-      },
-      "artists": [
-        {
-          "name": "Lagwagon",
-          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "May 16",
-      "url": "https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 126453,
-      "name": "Rockaway Beach - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Beauty And The Beat (30th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nkB6F63xkKusB4M8I5zR6"
       },
@@ -695,6 +663,38 @@
       "duration_ms": 196573,
       "name": "Seether",
       "url": "https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Rocket to Russia (40th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 126453,
+      "name": "Rockaway Beach - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Let's Talk About Feelings",
+        "url": "https://open.spotify.com/album/3Em5AaNRlG0G2ktBYDNQaz"
+      },
+      "artists": [
+        {
+          "name": "Lagwagon",
+          "url": "https://open.spotify.com/artist/66riGCPfih1Xqk81dDvpvf"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "May 16",
+      "url": "https://open.spotify.com/track/2y2E0ix0iJWQWUMmlbTWjg"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "The Process Of Belief",
-        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/5KiS8SFnu21xI74mHgfZ3D"
-    },
-    {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 212373,
       "name": "Worker's Song",
       "url": "https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "The Process Of Belief",
+        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/5KiS8SFnu21xI74mHgfZ3D"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -905,22 +905,6 @@
       "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
     },
     {
-      "added_at": "2021-04-20 17:48:20",
-      "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 131120,
-      "name": "Sliver",
-      "url": "https://open.spotify.com/track/6vA9MwQSTgsGw2aaiVQdq2"
-    },
-    {
       "added_at": "2022-01-10 21:04:09",
       "album": {
         "name": "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
@@ -935,6 +919,22 @@
       "duration_ms": 312040,
       "name": "Lust For Life",
       "url": "https://open.spotify.com/track/0kvH59HS2T2m4bsXJhBGNC"
+    },
+    {
+      "added_at": "2021-04-20 17:48:20",
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 131120,
+      "name": "Sliver",
+      "url": "https://open.spotify.com/track/6vA9MwQSTgsGw2aaiVQdq2"
     },
     {
       "added_at": "2021-04-20 17:48:20",
@@ -955,18 +955,18 @@
     {
       "added_at": "2021-04-20 17:48:20",
       "album": {
-        "name": "New Wave (U.S. Version)",
-        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
+        "name": "Bomb the Twist",
+        "url": "https://open.spotify.com/album/61IsFgLDnUXc9buDJyi3Eo"
       },
       "artists": [
         {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+          "name": "The 5.6.7.8's",
+          "url": "https://open.spotify.com/artist/5MZqcO35TJh5QXaFmvXmUy"
         }
       ],
-      "duration_ms": 211386,
-      "name": "White People for Peace",
-      "url": "https://open.spotify.com/track/53S5rCt8LFsocU95QXoK1X"
+      "duration_ms": 122053,
+      "name": "Woo Hoo",
+      "url": "https://open.spotify.com/track/6GA8fbPKP6KZ3fP75AIjRI"
     }
   ],
   "unique_name": "Raised on Punk",

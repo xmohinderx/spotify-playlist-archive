@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Demob Happy
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,888 likes - 55 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,825 likes - 55 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,26 +17,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 7 | [:mydopamine:](https://open.spotify.com/track/2orIpa9dzNtsqyKjdts0f1) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [:mydopamine:](https://open.spotify.com/album/4tHK91a2JwTUOeAw29jlvN) | 3:33 |
 | 8 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 |
 | 9 | [I EXIST](https://open.spotify.com/track/4jJ6h9LNJ36huNd2sjR73M) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [NULA](https://open.spotify.com/album/6qfCeJUAbjQxtmyITmY933) | 4:29 |
-| 10 | [Tell Me I’m Alive](https://open.spotify.com/track/3Bzw0mcFyIcVgQbLfxbDGt) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I’m Alive](https://open.spotify.com/album/4QaPQwoYarzNUuus6wBhCu) | 2:35 |
-| 11 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 |
-| 12 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
-| 13 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 |
-| 14 | [deep fake](https://open.spotify.com/track/7mfMTQ21RSVhUw778ymlyV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:33 |
-| 15 | [C’est Comme Ça](https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [C'est Comme Ça](https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo) | 2:29 |
-| 16 | [Parasite](https://open.spotify.com/track/4Wsst7bJEVKRWI1vef1S7R) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Parasite](https://open.spotify.com/album/5fyMxb8ClYRqpiTrzR7xc3) | 3:02 |
-| 17 | [Up Against It](https://open.spotify.com/track/4cwhDJiQ3vhbcxOapza2MB) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Up Against It](https://open.spotify.com/album/5qpNqPxwizc4AKeVjAPPpD) | 3:06 |
-| 18 | [GIMME](https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [GIMME](https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi) | 1:40 |
-| 19 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 |
-| 20 | [ANIMAL](https://open.spotify.com/track/5dpOtj3sd3nnXEudsgMozs) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [ANIMAL / ANYWHERE BUT HERE](https://open.spotify.com/album/008TrvgQaIGW6XpAdPgZt7) | 2:51 |
-| 21 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 |
-| 22 | [\(pls\) set me on fire](https://open.spotify.com/track/0Z1Xxix96HUYYL6RScOQqG) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [\(pls\) set me on fire](https://open.spotify.com/album/5Y1o9GddlN87GHzM3NkPdk) | 3:04 |
-| 23 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 |
-| 24 | [Take A Ride \(Lights, Camera, Action\)](https://open.spotify.com/track/22TNVzuLGBBaK9a25K3Lo0) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [The Hunna](https://open.spotify.com/album/6o0Cd4hfhFGnVeYSugnzII) | 3:31 |
-| 25 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 |
-| 26 | [Radio Reject](https://open.spotify.com/track/5e2nKdiIRq7bNt8xkhvJhX) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge](https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF) | 2:22 |
-| 27 | [Line It Up \(feat\. LP\)](https://open.spotify.com/track/6pt3VzqcJ5jIUR5JyBtkmW) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:01 |
-| 28 | [Died in My Twenties](https://open.spotify.com/track/5jugjQMGL2QNFdxfl12o5G) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Died in My Twenties](https://open.spotify.com/album/53dbOtnbcErPBsWtvaVFM2) | 3:07 |
-| 29 | [Fading](https://open.spotify.com/track/3PTwnUE0HTAvBnhiqFVi9Y) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Fading](https://open.spotify.com/album/0yNfE1sA8oc97MG7DoVRnq) | 3:06 |
+| 10 | [15 Minutes In The Algorithm](https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [What's Rock And Roll?](https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD) | 3:13 |
+| 11 | [Tell Me I’m Alive](https://open.spotify.com/track/3Bzw0mcFyIcVgQbLfxbDGt) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I’m Alive](https://open.spotify.com/album/4QaPQwoYarzNUuus6wBhCu) | 2:35 |
+| 12 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 |
+| 13 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
+| 14 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 |
+| 15 | [deep fake](https://open.spotify.com/track/7mfMTQ21RSVhUw778ymlyV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:33 |
+| 16 | [C’est Comme Ça](https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [C'est Comme Ça](https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo) | 2:29 |
+| 17 | [Parasite](https://open.spotify.com/track/4Wsst7bJEVKRWI1vef1S7R) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Parasite](https://open.spotify.com/album/5fyMxb8ClYRqpiTrzR7xc3) | 3:02 |
+| 18 | [Up Against It](https://open.spotify.com/track/4cwhDJiQ3vhbcxOapza2MB) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Up Against It](https://open.spotify.com/album/5qpNqPxwizc4AKeVjAPPpD) | 3:06 |
+| 19 | [GIMME](https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [GIMME](https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi) | 1:40 |
+| 20 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 |
+| 21 | [ANIMAL](https://open.spotify.com/track/5dpOtj3sd3nnXEudsgMozs) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [ANIMAL / ANYWHERE BUT HERE](https://open.spotify.com/album/008TrvgQaIGW6XpAdPgZt7) | 2:51 |
+| 22 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 |
+| 23 | [\(pls\) set me on fire](https://open.spotify.com/track/0Z1Xxix96HUYYL6RScOQqG) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [\(pls\) set me on fire](https://open.spotify.com/album/5Y1o9GddlN87GHzM3NkPdk) | 3:04 |
+| 24 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 |
+| 25 | [Take A Ride \(Lights, Camera, Action\)](https://open.spotify.com/track/22TNVzuLGBBaK9a25K3Lo0) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [The Hunna](https://open.spotify.com/album/6o0Cd4hfhFGnVeYSugnzII) | 3:31 |
+| 26 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 |
+| 27 | [Radio Reject](https://open.spotify.com/track/5e2nKdiIRq7bNt8xkhvJhX) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge](https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF) | 2:22 |
+| 28 | [Line It Up \(feat\. LP\)](https://open.spotify.com/track/6pt3VzqcJ5jIUR5JyBtkmW) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:01 |
+| 29 | [Died in My Twenties](https://open.spotify.com/track/5jugjQMGL2QNFdxfl12o5G) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Died in My Twenties](https://open.spotify.com/album/53dbOtnbcErPBsWtvaVFM2) | 3:07 |
 | 30 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 |
 | 31 | [Eddie](https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Eddie](https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu) | 5:41 |
 | 32 | [Blossom](https://open.spotify.com/track/2Wq4wVXPnJYaK214y26y1H) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Blossom](https://open.spotify.com/album/7nQPjvGZUoGPDmOkpHYO9H) | 2:58 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 54 | [Too Soon](https://open.spotify.com/track/2idpJZnXSvfURT7xk9iYF0) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Loud Without Noise](https://open.spotify.com/album/2dAeC1Va8oTjkXEZ2laVxO) | 3:10 |
 | 55 | [Taunt Me](https://open.spotify.com/track/4p5S0Yn39eWAkHNJ6LuK77) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Taunt Me](https://open.spotify.com/album/1DOLXGRrzOfSEGelL71udE) | 3:53 |
 
-Snapshot ID: `MTY3NDc3NzYwMCwwMDAwMDAwMDkzNmIzMzU0ZmFiMmU1M2U2ZTdiNDlhZmNmMGVjZTM5`
+Snapshot ID: `MTY3NTEwMTA3NCwwMDAwMDAwMDFkMTQyNjk2NjRiZTZjZjRiODk3MTdkNTdlYjA0MGM0`

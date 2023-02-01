@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Marília Mendonça e os artistas mais ouvidos no Brasil em 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,149 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,256 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 37 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 |
 | 38 | [Nem Namorado e Nem Ficante \- Ao Vivo \| Faixa Bônus](https://open.spotify.com/track/6bwx7pcKJY05D9S6CVa1k6) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Israel & Rodolffo: Ao Vivo Em Brasília \(Deluxe\)](https://open.spotify.com/album/4WiThiD9AkxCSYf291UDwc) | 2:46 |
 | 39 | [Bagulho Louco](https://open.spotify.com/track/04vzhKfl5HtPEgrdZJCZ7L) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN) | [Bagulho Louco](https://open.spotify.com/album/7vmDYV51NrlXuzdyyQYDen) | 2:04 |
-| 40 | [Doutora 3](https://open.spotify.com/track/4DWKtQVURjepn8uzBgmwuv) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Funk é Nóis GR6 3.1 \- Vol\. 1](https://open.spotify.com/album/6pM2v9vda24Hils9lqCLeU) | 2:37 |
+| 40 | [Doutora 3](https://open.spotify.com/track/4DWKtQVURjepn8uzBgmwuv) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Funk é Nóis GR6 3.1, Vol\. 1](https://open.spotify.com/album/6pM2v9vda24Hils9lqCLeU) | 2:37 |
 | 41 | [Deixa Eu Te Superar](https://open.spotify.com/track/7uWbLSH88a5oNqZrbkTLxN) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Deixa Eu Te Superar](https://open.spotify.com/album/5lkYHphAK8tcsXuys5SjtW) | 3:43 |
 | 42 | [Deixa Ela Em Paz](https://open.spotify.com/track/0HIhSuAe5lq7ywxqlAt5Nl) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Deixa Ela Em Paz](https://open.spotify.com/album/1SmxhQbh4gAPXBkbW3UOtq) | 3:21 |
 | 43 | [VERMELHO](https://open.spotify.com/track/4EVzu5mYyigjyLrryKbZs7) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 |

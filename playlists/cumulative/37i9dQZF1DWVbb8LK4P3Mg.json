@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS"
+      },
+      "artists": [
+        {
+          "name": "COLL!N",
+          "url": "https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "Candle",
+      "url": "https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP"
+    },
+    {
+      "album": {
         "name": "THE BOYZ Special Single [Candles]",
         "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
       },
@@ -3224,7 +3242,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 239777,
       "name": "Winter Land",
       "url": "https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah"

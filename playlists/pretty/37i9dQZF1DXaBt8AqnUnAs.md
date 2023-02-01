@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > Rap romântico pra amolecer os corações apaixonados e esquentar o clima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,372 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,489 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 55 | [Duro Igual Concreto](https://open.spotify.com/track/1BuSbqff6EcL8gkdkjaB63) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE) | [Duro Igual Concreto](https://open.spotify.com/album/0E7M1yBHV0BBBHKuQXrArp) | 5:05 |
 | 56 | [Estar Com Você](https://open.spotify.com/track/5DVf59dCoK2ch5O3gHZ7My) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Estar Com Você](https://open.spotify.com/album/1WnIusPTevmx5n0uJ6CJTk) | 3:00 |
 | 57 | [Cê tá bem \(Remix\)](https://open.spotify.com/track/5WZ5MJyJTUgPC0oSVRzxHX) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N) | [Cê tá bem \(Remix\)](https://open.spotify.com/album/59XmINGEHdizIVZLyz5NVD) | 3:11 |
-| 58 | [Nuvens](https://open.spotify.com/track/0iAOW4OvdJ851fMsBetwDg) | [Khauan](https://open.spotify.com/artist/7nbtGMD04rSRQSFwTZrPfx), [Ceejay SDB](https://open.spotify.com/artist/3GYBSj5XeeGqWbgOLIXQn9), [Frxtx](https://open.spotify.com/artist/44NQMnUQrjIlbQZILjcj45) | [Nuvens](https://open.spotify.com/album/3CONsQp5OceeRQ4yVmDP0M) | 3:17 |
+| 58 | [Nuvens](https://open.spotify.com/track/0iAOW4OvdJ851fMsBetwDg) | [Khauan](https://open.spotify.com/artist/7nbtGMD04rSRQSFwTZrPfx), [NCNREC](https://open.spotify.com/artist/44E3tnBod7AApi5nzjOUax), [Ceejay SDB](https://open.spotify.com/artist/3GYBSj5XeeGqWbgOLIXQn9) | [Nuvens](https://open.spotify.com/album/3CONsQp5OceeRQ4yVmDP0M) | 3:17 |
 | 59 | [Amor Espacial](https://open.spotify.com/track/0wcUKYS8PIpaYIVsQZsmmf) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6) | [Amor Espacial](https://open.spotify.com/album/5XZhBHLbBp1xUwmz5A86rJ) | 3:43 |
 | 60 | [Me Negaram Amor](https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Me Negaram Amor](https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7) | 4:48 |
 | 61 | [Paradoxo Mítico](https://open.spotify.com/track/4m1V2JVYzrfUuJrVY8n5MS) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:39 |

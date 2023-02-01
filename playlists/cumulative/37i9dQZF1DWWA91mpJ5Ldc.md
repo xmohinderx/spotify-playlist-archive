@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-221 songs - 13 hr 34 min
+222 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 | 2022-02-04 |  |
 | [Cansar De Dançar](https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Cansar De Dançar](https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK) | 2:37 | 2022-05-06 |  |
 | [Cara de Segunda](https://open.spotify.com/track/5fdn8MrzRBFVjTYuuC8YIh) | [Ina Magdala](https://open.spotify.com/artist/77b9EH7qYCrmbjrwBNaM5r) | [Cara de Segunda](https://open.spotify.com/album/4sxsQqJmmHJZApi0l6Dsw0) | 3:00 | 2022-06-03 | 2022-07-29 |
-| [Carinhoso](https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Carinhoso](https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE) | 4:25 | 2022-02-04 |  |
+| [Carinhoso](https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Carinhoso](https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE) | 4:25 | 2022-02-04 | 2023-02-01 |
 | [Cariocas](https://open.spotify.com/track/2ZOzy9aFCI8Yic2DP8n7xB) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Cariocas / Por Que Você Faz Cinema?](https://open.spotify.com/album/61KGsa3fDakjCMTDlOK1rA) | 3:43 | 2022-02-04 | 2022-07-25 |
 | [Carne dos Deuses](https://open.spotify.com/track/1Cu4k15CyHaUNEMETkRRXZ) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Ubunto](https://open.spotify.com/artist/5jCuYiMEooO3wIxXhzCquh) | [Carne dos Deuses](https://open.spotify.com/album/5Y0aw7qyAfbQK3CRp3kWJk) | 2:47 | 2022-02-04 | 2022-07-28 |
 | [Carne Dos Meus Versos](https://open.spotify.com/track/2mPTW4iRG0f7IBaQcaCnsD) | [As Baías](https://open.spotify.com/artist/7MKatfaGFrdd4jTZiwZW2K) | [Tarântula](https://open.spotify.com/album/6d6PpOHDJIzHwsy97cL0bG) | 3:58 | 2022-03-22 | 2022-06-26 |
@@ -161,6 +161,7 @@
 | [Ocitocina \(Charged\)](https://open.spotify.com/track/5nvPxu5QkaWGDivXEz0tA8) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Apká!](https://open.spotify.com/album/2SWt1KSJ7rJ2XkWHlrZL1s) | 5:07 | 2022-03-22 | 2022-04-21 |
 | [Old Boy \- Deluxe](https://open.spotify.com/track/2lMOAEnNI5MBcujViIHjuM) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Dancê \(Deluxe\)](https://open.spotify.com/album/23E2TrYE7Z8hDId9ANyWrk) | 4:56 | 2022-03-22 | 2022-04-21 |
 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 | 2022-03-22 |  |
+| [Onde Estará](https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Nonsense, Vol\. 1](https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG) | 3:37 | 2023-01-13 |  |
 | [Onde Estará](https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Nonsense, Vol\. 1](https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot) | 3:37 | 2022-02-04 | 2023-01-19 |
 | [Pangea](https://open.spotify.com/track/1ZSml83SQNnsK6kAtoMnQg) | [Arosa](https://open.spotify.com/artist/08KoaBKxVAtpKRB58YWuYx) | [Pangea](https://open.spotify.com/album/5SEct449bwIwrPtagzfhZE) | 4:06 | 2022-03-22 | 2022-04-20 |
 | [Paradise](https://open.spotify.com/track/2X4CPCeIpodiM1sPCYcXtL) | [DJ Center](https://open.spotify.com/artist/1h3GrJokWIvpbdKn6h4Owq), [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Thalma De Freitas](https://open.spotify.com/artist/7dRgH9TbkPlyf3auU5jZKY) | [Paradise](https://open.spotify.com/album/1NBcAphFK9qE9rAA6LV8t6) | 3:39 | 2022-03-22 | 2022-04-17 |

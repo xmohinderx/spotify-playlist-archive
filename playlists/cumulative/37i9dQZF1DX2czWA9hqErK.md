@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-442 songs - 1 day 0 hr 54 min
+443 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [If You Ever Change Your Mind](https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [If You Ever Change Your Mind](https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G) | 3:25 | 2022-02-14 |  |
 | [If You Were on Fire](https://open.spotify.com/track/6TYS3UzhmDBsYHBCpYl5Rg) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [If You Were on Fire](https://open.spotify.com/album/2ugSEFn3ov3RSoodCJgmKV) | 2:53 | 2021-12-16 | 2022-03-28 |
 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 | 2022-03-29 | 2022-04-06 |
-| [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2022-12-02 |  |
+| [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2022-12-02 | 2023-02-01 |
 | [Innocence and Sadness](https://open.spotify.com/track/1nJatkqxWH7TQwBrP39yNd) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 4:12 | 2022-10-21 |  |
 | [Innocence and Sadness](https://open.spotify.com/track/1oZqKv594G6ojGvDhEFsDw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 4:12 | 2022-10-21 | 2022-11-24 |
 | [Interiority](https://open.spotify.com/track/70i9RjTI1S9MQVHEMptpCS) | [Fyfe](https://open.spotify.com/artist/1xkxEEm60IyknT2Eh469mX), [Iskra Strings](https://open.spotify.com/artist/3y05eQyusaM1cfQTKuCzPK) | [Interiority](https://open.spotify.com/album/7LBmddZ3BZWH3jNzvBhZbQ) | 4:01 | 2022-03-25 | 2022-04-20 |
@@ -337,7 +337,7 @@
 | [Róisín](https://open.spotify.com/track/5efHoPUOCPywINwkok3U13) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [Róisín](https://open.spotify.com/album/2G89n4hSvqfs7vPjBATd1o) | 4:03 | 2021-12-16 | 2022-02-22 |
 | [Sad Anymore](https://open.spotify.com/track/3YYWgUWXcK1Bo9dpnZdAEr) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:10 | 2022-10-21 |  |
 | [Sad Anymore](https://open.spotify.com/track/6KKQRxk7BVrjjdWbEc9MA6) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Sad Anymore](https://open.spotify.com/album/5wyenYTuawD6OrrXQquyUc) | 2:10 | 2022-05-31 | 2022-11-24 |
-| [Scars](https://open.spotify.com/track/54u5CIDhcd3zBXi62gnFwA) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Scars](https://open.spotify.com/album/7KvLrCyO9gxRpks8p8PWB1) | 3:18 | 2022-05-31 | 2023-01-23 |
+| [Scars](https://open.spotify.com/track/54u5CIDhcd3zBXi62gnFwA) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Scars](https://open.spotify.com/album/7KvLrCyO9gxRpks8p8PWB1) | 3:18 | 2022-05-31 |  |
 | [Screaming At Traffic](https://open.spotify.com/track/3xlV9ddro4IMk92Ti0cHc1) | [Bea Stewart](https://open.spotify.com/artist/1HjCjNkTNeBFF3aqqf6kli) | [Screaming At Traffic](https://open.spotify.com/album/0awqSPSGOzyjsYteW1IfiM) | 3:55 | 2022-10-11 | 2022-12-03 |
 | [Seasons](https://open.spotify.com/track/22GqKGx91w1CBrEpnkSIFT) | [Harry Pane](https://open.spotify.com/artist/0Rl5q2Pq8y9xRbujCpZueF) | [Seasons](https://open.spotify.com/album/5vcLgFSiyypgDgR3qzPsS6) | 3:33 | 2021-12-16 | 2022-07-08 |
 | [Seasons](https://open.spotify.com/track/2CEEKREL8eUBhNvsafRAsb) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Seasons](https://open.spotify.com/album/5pYxp6NKGkEZK8E9e6vvox) | 3:19 | 2021-12-16 | 2022-02-15 |
@@ -402,7 +402,7 @@
 | [Thorn](https://open.spotify.com/track/2Z4EHnGSbrOKvl2oKbNBot) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [Thorn](https://open.spotify.com/album/6KPJEDN2lUbAwTlZjc2WPk) | 2:54 | 2021-12-16 | 2022-07-27 |
 | [till you brought me home \- demo](https://open.spotify.com/track/5YZXx9yMJKEEDAzmTJIIpm) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [home tapes](https://open.spotify.com/album/5jsREy8uHU31ps84AQ96H9) | 3:52 | 2022-01-25 | 2022-11-23 |
 | [Tired](https://open.spotify.com/track/0UTmk2WK2RxXGGbctDijga) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Tired](https://open.spotify.com/album/6vGaa7RTv4Dl4UvDfJYfIz) | 3:36 | 2021-12-16 | 2022-03-09 |
-| [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 | 2022-03-29 |  |
+| [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 | 2022-03-29 | 2023-02-01 |
 | [Tomorrow](https://open.spotify.com/track/6Wzdn7uAFO9NU0SElyAvNZ) | [Paddy Keyes](https://open.spotify.com/artist/35yS9RQrpgVRsvPmIz1sGm) | [Tomorrow](https://open.spotify.com/album/1IfGMGxi8pA9obGmr5XTsN) | 4:15 | 2022-04-04 | 2022-07-09 |
 | [Tonsillitis](https://open.spotify.com/track/2TzV4l4LaElGyOdYGnJA7B) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Tonsillitis](https://open.spotify.com/album/6S3kKtrp7v2TvEqz2FJ1Nd) | 3:45 | 2022-02-21 | 2022-03-01 |
 | [Tractor](https://open.spotify.com/track/6N1Nrd9oHFRAHsrEZPkxAR) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Tractor](https://open.spotify.com/album/1p0cwpoCTRfDYEvE5hoaRs) | 3:26 | 2022-03-25 | 2022-10-10 |
@@ -412,7 +412,8 @@
 | [Two Sides](https://open.spotify.com/track/5XBobVYataJuVgG2os9ndV) | [Oli Fox](https://open.spotify.com/artist/6L7tIdRpMMZb5l2tk42YLA) | [Two Sides](https://open.spotify.com/album/5nM0xGQe18AnZagKbWfPi6) | 3:37 | 2021-12-16 | 2021-12-29 |
 | [Uppercut](https://open.spotify.com/track/1haUfbbRNpakcYWnZ4o5sg) | [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Uppercut](https://open.spotify.com/album/6KXCrirHjUqlEPghXnmSlH) | 4:11 | 2022-03-25 | 2022-07-25 |
 | [upstream](https://open.spotify.com/track/6t2BxwBbLB8M981sJqDxte) | [emie nathan](https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB) | [upstream](https://open.spotify.com/album/1gB6qF88vFV2Fnjp7RzxpN) | 3:15 | 2021-12-16 | 2022-01-04 |
-| [ur so pretty](https://open.spotify.com/track/0MIiqne6YsbsDz4z9MGA2K) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/2MLGMYV56ySz3AZShc92L1) | 2:12 | 2023-01-10 |  |
+| [ur so pretty](https://open.spotify.com/track/0MIiqne6YsbsDz4z9MGA2K) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/2MLGMYV56ySz3AZShc92L1) | 2:12 | 2023-01-10 | 2023-02-01 |
+| [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 | 2023-01-20 |  |
 | [Used To Love Me](https://open.spotify.com/track/4rzgxHBn7CI1FHGwn4d34k) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [Used To Love Me](https://open.spotify.com/album/7g5HUwnAC5uinT6b7PlNVK) | 3:03 | 2021-12-16 | 2022-01-02 |
 | [used to you](https://open.spotify.com/track/5RiaulO1Xfn5k00SEah0PL) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [used to you](https://open.spotify.com/album/6FSEFif3O0GopZEepYk9ux) | 3:28 | 2021-12-16 | 2022-03-27 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-12-16 | 2022-03-09 |
@@ -435,7 +436,7 @@
 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 | 2021-12-16 | 2022-03-28 |
 | [Whose Life?](https://open.spotify.com/track/4ZBPIZ9ucyCYObAYPKPOs6) | [Leon Stanford](https://open.spotify.com/artist/0zeqAycqbAyNpNARDkLtZX) | [Whose Life?](https://open.spotify.com/album/3Tv4HCGpwP8RQm1Qehw73s) | 4:21 | 2022-02-21 | 2022-04-12 |
 | [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 | 2022-04-04 | 2022-10-22 |
-| [With The Band](https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [With The Band / Bruises & Scratches](https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8) | 2:53 | 2022-04-11 | 2022-11-23 |
+| [With The Band](https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [With The Band / Bruises & Scratches](https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8) | 2:53 | 2022-04-11 |  |
 | [Words](https://open.spotify.com/track/1vZ80JagXskYRxBkq0FYAP) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Words](https://open.spotify.com/album/183zuL478HRdAZPiyqA67W) | 4:07 | 2022-03-25 | 2022-04-19 |
 | [Worry](https://open.spotify.com/track/5162TbRdE10dMwToCsKa7J) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l), [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Worry](https://open.spotify.com/album/59kXMOrbDR0CbXg1bdCLhL) | 2:41 | 2022-04-04 | 2022-07-29 |
 | [Worst Ways](https://open.spotify.com/track/3Vyg7aVSl2vOMSSw5X11pD) | [Rudie Edwards](https://open.spotify.com/artist/0UoYusnqGbla21PGYGmLfk) | [Worst Ways](https://open.spotify.com/album/415C1JkrCi5cNjMboEW9jG) | 3:21 | 2022-01-11 | 2022-07-29 |

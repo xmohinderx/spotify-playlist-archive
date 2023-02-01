@@ -1,12 +1,12 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez (Courtesy of Fania)",
-  "num_followers": 64475,
+  "num_followers": 64555,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMGQzMzg5MTU4MTY1ZDM2MTMyM2U5NDJjNDUwMzQ2NzMz",
+  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMDQ4NDg5YjcyMjAwMTVkMjU4MThlYjZkNTcwOWVhYWNi",
   "tracks": [
     {
       "added_at": "2022-04-09 04:26:32",
@@ -279,6 +279,26 @@
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
+        "name": "Barretto",
+        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Tito G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
+        }
+      ],
+      "duration_ms": 338520,
+      "name": "Guarar\u00e9",
+      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
         "name": "A Man And His Music: The Player",
         "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
       },
@@ -329,26 +349,6 @@
       "url": "https://open.spotify.com/track/2FQNKdVthiJDP3OhFQNaP8"
     },
     {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
-        "name": "Barretto",
-        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        },
-        {
-          "name": "Tito G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
-        }
-      ],
-      "duration_ms": 338520,
-      "name": "Guarar\u00e9",
-      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
-    },
-    {
       "added_at": "2021-09-07 18:02:03",
       "album": {
         "name": "Orchestra Harlow Presenta a Ismael Miranda",
@@ -367,6 +367,38 @@
       "duration_ms": 196600,
       "name": "Grazin' In The Grass",
       "url": "https://open.spotify.com/track/071QzNfV4nNVuCbBZ598uC"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "La Cuna",
+        "url": "https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 514866,
+      "name": "Pastime Paradise",
+      "url": "https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "Psychedelic Goes Latin",
+        "url": "https://open.spotify.com/album/2SOvavOrKySlz9Zet58rCC"
+      },
+      "artists": [
+        {
+          "name": "The Lebron Brothers Orchestra",
+          "url": "https://open.spotify.com/artist/6zb5tBPPvk4nRXW33IqztD"
+        }
+      ],
+      "duration_ms": 284440,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/0ODEACdZ8xmsxosolVPkkI"
     },
     {
       "added_at": "2021-09-07 18:02:03",
@@ -389,6 +421,22 @@
       "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
     },
     {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "Joey",
+        "url": "https://open.spotify.com/album/2N69ERhN11ludnptsYs16c"
+      },
+      "artists": [
+        {
+          "name": "Joey Pastrana and His Orchestra",
+          "url": "https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2"
+        }
+      ],
+      "duration_ms": 452373,
+      "name": "That's How Rumors Start",
+      "url": "https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv"
+    },
+    {
       "added_at": "2022-04-09 04:26:32",
       "album": {
         "name": "En Fiesta Navide\u00f1a",
@@ -407,38 +455,6 @@
       "duration_ms": 170813,
       "name": "Seis Chorreao",
       "url": "https://open.spotify.com/track/1GOi0KnWNKAUdedvhHCshA"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Psychedelic Goes Latin",
-        "url": "https://open.spotify.com/album/2SOvavOrKySlz9Zet58rCC"
-      },
-      "artists": [
-        {
-          "name": "The Lebron Brothers Orchestra",
-          "url": "https://open.spotify.com/artist/6zb5tBPPvk4nRXW33IqztD"
-        }
-      ],
-      "duration_ms": 284440,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/0ODEACdZ8xmsxosolVPkkI"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Joey",
-        "url": "https://open.spotify.com/album/2N69ERhN11ludnptsYs16c"
-      },
-      "artists": [
-        {
-          "name": "Joey Pastrana and His Orchestra",
-          "url": "https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2"
-        }
-      ],
-      "duration_ms": 452373,
-      "name": "That's How Rumors Start",
-      "url": "https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv"
     },
     {
       "added_at": "2022-04-09 04:26:32",
@@ -471,22 +487,6 @@
       "duration_ms": 144813,
       "name": "A la la E",
       "url": "https://open.spotify.com/track/1DXgFwNXHIVJGSWvSo9uW6"
-    },
-    {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
-        "name": "La Cuna",
-        "url": "https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 514866,
-      "name": "Pastime Paradise",
-      "url": "https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0"
     },
     {
       "added_at": "2022-04-09 04:26:32",

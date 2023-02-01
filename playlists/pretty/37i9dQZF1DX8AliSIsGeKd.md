@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: HI\-LO
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,865 likes - 80 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,198 likes - 80 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 45 | [HEY DJ](https://open.spotify.com/track/7qFvhLqCeIn0DzuaSOiesv) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [HEY DJ](https://open.spotify.com/album/1aISciPEedMIeuaLiarVIL) | 6:51 |
 | 46 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 |
 | 47 | [No Photos, No Exceptions](https://open.spotify.com/track/37v22hAV0P456DgqO2EbzY) | [ANDATA](https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ) | [No Photos, No Exceptions](https://open.spotify.com/album/30kw1sPlIF1YXVcLRb5ENo) | 6:18 |
-| 48 | [Como](https://open.spotify.com/track/2jWqS0gbqMeDmEAxFLaftX) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Picture: Disfreq](https://open.spotify.com/album/1LhcWBDBfzQNsyP9M5lAuw) | 5:38 |
+| 48 | [Como](https://open.spotify.com/track/2ajDXhl2wdbHhJUK0qaU8V) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Picture: Disfreq](https://open.spotify.com/album/07bPNT9oLiFi5EiC0p4sAO) | 5:38 |
 | 49 | [Remember](https://open.spotify.com/track/2WEaVhxW4Rs5M4DEYhHYPI) | [D\-Nox](https://open.spotify.com/artist/1TqcQwnBqloJrKkGs4l4LT), [Beckers](https://open.spotify.com/artist/0VWBw0F5CvBFM9xEqbfhDg) | [No Boundaries](https://open.spotify.com/album/22XlleJ5y2EMKJW1Os5ykx) | 7:27 |
 | 50 | [Tundra](https://open.spotify.com/track/09cOtYN6pGFzYHUx13Q0PH) | [Michael Anthony](https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2) | [Tundra](https://open.spotify.com/album/2U8AGj8bkRX2Y2X6ao88KF) | 3:18 |
 | 51 | [Breathe \- Qrion Remix](https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Breathe \(Qrion Remix\)](https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF) | 4:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 79 | [Haze \- Marlon Hoffstadt AKA DJ Daddy Trance Remix](https://open.spotify.com/track/3IAxJkFW0AeEHhmSFHjX0G) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Haze Remixes](https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M) | 6:56 |
 | 80 | [Hold On To Me \- Edit](https://open.spotify.com/track/1Qk553OvQkV05P71v81d0F) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB), [Ira Ange](https://open.spotify.com/artist/647KkEJP83yUnc4oft2pPg) | [Kelch 4](https://open.spotify.com/album/6E70BPEPwTIbY9t90x51du) | 3:19 |
 
-Snapshot ID: `MTY3NDc3NzYwMCwwMDAwMDAwMDVmODNhZjM4ZTkwMmI1MzE1MjRjZGRjMzZlM2EwM2Jm`
+Snapshot ID: `MTY3NDc3NzYwMCwwMDAwMDAwMDdkOTI5ZTYyZmY5ZTYyMTYxMzE3OGQ3YjhhNWQxNWI0`

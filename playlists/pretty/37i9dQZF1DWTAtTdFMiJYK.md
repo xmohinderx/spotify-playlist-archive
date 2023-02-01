@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Akshath
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,601 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,725 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Yahan](https://open.spotify.com/track/4yq61v0vaI2MpifznBCpBh) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Yahan](https://open.spotify.com/album/4NVB7RqJMhWow5gY1oBCdd) | 4:02 |
 | 75 | [Tere Jaane Se](https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Tere Jaane Se](https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri) | 3:31 |
 
-Snapshot ID: `MTY3NDU0NjA5MSwwMDAwMDAwMDZkMDM3YmY4NmQ3ZWFiYTg1NDk0MTg5OWI4N2ZhYTIy`
+Snapshot ID: `MTY3NTE2MTkxNywwMDAwMDAwMDliZmZiMjhjMjgxZDNlZTEwNzQzZTE2YWY0YTdiN2Vl`

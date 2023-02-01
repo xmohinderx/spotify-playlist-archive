@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 238186,
       "name": "Enfer",
       "url": "https://open.spotify.com/track/3zn53uPgY6yn6m49wAt5x8"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 232693,
       "name": "Fire Fire",
       "url": "https://open.spotify.com/track/0mjEltYGiBBdJv0RKCWnke"
@@ -1480,6 +1480,24 @@
       "duration_ms": 306066,
       "name": "Gung Ho",
       "url": "https://open.spotify.com/track/2poNoMk0YyxePxeJidM4Jf"
+    },
+    {
+      "album": {
+        "name": "Colostrum",
+        "url": "https://open.spotify.com/album/5r7VN2AznYigt0eq0xOzqp"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226244,
+      "name": "Hair Shirt",
+      "url": "https://open.spotify.com/track/2zbg7DsgsFd7Dw9AoWoRfS"
     },
     {
       "album": {
@@ -2600,6 +2618,24 @@
       "duration_ms": 332602,
       "name": "Oh Lord, It Came To Me",
       "url": "https://open.spotify.com/track/6XE78Iy9cQLjUP5q0ISL6D"
+    },
+    {
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj"
+      },
+      "artists": [
+        {
+          "name": "Laura Cox",
+          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
+        }
+      ],
+      "date_added": "2023-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236868,
+      "name": "One Big Mess",
+      "url": "https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg"
     },
     {
       "album": {

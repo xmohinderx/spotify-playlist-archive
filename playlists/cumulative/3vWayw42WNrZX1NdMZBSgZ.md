@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Christian Nodal, TINI
 
-395 songs - 21 hr 29 min
+396 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [mE RecHaZasTe :\(](https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE RecHaZasTe :\(](https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf) | 2:56 | 2022-12-09 |  |
 | [Me Siento Bien](https://open.spotify.com/track/1NHnuko5D0e6SBGP5Mw2xC) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Multimillo, Vol\. 1](https://open.spotify.com/album/2pfBdekMfDRVf1MfDnwTSv) | 4:16 | 2022-11-25 |  |
 | [Mejor Que Te Acostumbres](https://open.spotify.com/track/0hM4CHl1Nu00XZXRkGfmsZ) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Mejor Que Te Acostumbres](https://open.spotify.com/album/3Yp8JkCeLI5bvrO2x6bjua) | 3:13 | 2022-04-22 |  |
+| [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 | 2023-01-31 |  |
 | [Mi manera de querer](https://open.spotify.com/track/4vf86rvT51NZtZHeLB1noi) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Mi manera de querer](https://open.spotify.com/album/0sNxXiClNbKVecxR0LaizG) | 3:53 | 2022-10-27 |  |
 | [Mi Peor Error](https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Mi Peor Error](https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF) | 3:03 | 2022-08-12 |  |
 | [Mi Plan de Vida](https://open.spotify.com/track/5MMCvfPYyHQrppkihSQA2B) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [El Amor Que Merecemos](https://open.spotify.com/album/3O3pfZQJpe6a7rvyoRtx9l) | 3:00 | 2022-05-27 |  |

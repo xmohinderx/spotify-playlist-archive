@@ -4,7 +4,7 @@
 
 > This is Liran' Roll\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 26 min
+52 songs - 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [El Último Viaje \(En Vivo\)](https://open.spotify.com/track/3JWoomq9M2TL413JyaFojn) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [25 Años De Resistencia \(En Vivo\)](https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj) | 5:44 | 2023-01-14 |  |
 | [Eres Fuego](https://open.spotify.com/track/5gk0b8wA06lvW2xxVHTbu7) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Cambios](https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B) | 3:59 | 2023-01-14 |  |
 | [Es Mi Vida](https://open.spotify.com/track/1DYibmwksZBCZ8lNvYuxA3) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Chamán](https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU) | 3:43 | 2023-01-14 |  |
-| [Esta Vez](https://open.spotify.com/track/42RFJrVk4jAnMKJAOkd3c1) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 3:41 | 2023-01-14 |  |
+| [Esta Vez](https://open.spotify.com/track/51pMwEZk5URoc852pQ565Y) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Cambios](https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B) | 3:39 | 2023-01-31 |  |
+| [Esta Vez](https://open.spotify.com/track/42RFJrVk4jAnMKJAOkd3c1) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 3:41 | 2023-01-14 | 2023-02-01 |
 | [Este No Es Tu Día](https://open.spotify.com/track/3mPjaBpH7EXkweRJUx79Ke) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 2:51 | 2023-01-14 |  |
 | [Fúgate Conmigo](https://open.spotify.com/track/2E1pXeUQPkEu6ocMjFpSu6) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Siguiendo La Línea](https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg) | 4:18 | 2023-01-14 |  |
 | [Josefina](https://open.spotify.com/track/3hI44ZnraKYADDH5tKo71q) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 4:02 | 2023-01-14 |  |

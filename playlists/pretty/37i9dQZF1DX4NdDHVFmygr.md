@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,772 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,030 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 4 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 |
 | 5 | [Nsiti](https://open.spotify.com/track/0qvOa81HDkZs2c07K6XtCE) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG) | 2:52 |
 | 6 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 |
-| 7 | [Seddit Lbibane](https://open.spotify.com/track/19qSodZXmR2GqMwzLvLYlJ) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Seddit Lbibane](https://open.spotify.com/album/60T0APAz9FUAKMJcpfpxjt) | 3:08 |
-| 8 | [Dirou Niyya \- Official Moroccan Fan Chant](https://open.spotify.com/track/2pDBEAiA554r73laQPmzOW) | [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Dirou Niyya \(Official Moroccan Fan Chant\)](https://open.spotify.com/album/4dh7GUAykeLvwzGOVM1lcb) | 2:57 |
-| 9 | [Dj](https://open.spotify.com/track/0agokZZS8l1k5HBwwFsUz6) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [DJ](https://open.spotify.com/album/0MQHeMqNgSqfmMGIb9NFTO) | 4:07 |
-| 10 | [SBABO NTI](https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [SBABO NTI](https://open.spotify.com/album/7GwYS8AurmMvmGKrh0j7ZG) | 4:13 |
-| 11 | [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 |
-| 12 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 |
-| 13 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 |
+| 7 | [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 |
+| 8 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 |
+| 9 | [Seddit Lbibane](https://open.spotify.com/track/19qSodZXmR2GqMwzLvLYlJ) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Seddit Lbibane](https://open.spotify.com/album/60T0APAz9FUAKMJcpfpxjt) | 3:08 |
+| 10 | [Dirou Niyya \- Official Moroccan Fan Chant](https://open.spotify.com/track/2pDBEAiA554r73laQPmzOW) | [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Dirou Niyya \(Official Moroccan Fan Chant\)](https://open.spotify.com/album/4dh7GUAykeLvwzGOVM1lcb) | 2:57 |
+| 11 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 |
+| 12 | [Dj](https://open.spotify.com/track/0agokZZS8l1k5HBwwFsUz6) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [DJ](https://open.spotify.com/album/0MQHeMqNgSqfmMGIb9NFTO) | 4:07 |
+| 13 | [SBABO NTI](https://open.spotify.com/track/1SxcIBOelPOILwkCRw42Zi) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [SBABO NTI](https://open.spotify.com/album/7GwYS8AurmMvmGKrh0j7ZG) | 4:13 |
 | 14 | [Maria](https://open.spotify.com/track/2ieat98TO6yujpLeTsb9U4) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:13 |
 | 15 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 |
 | 16 | [Sid Lghram](https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Sid Lghram](https://open.spotify.com/album/57LencHPTBtLmvICFiOwB6) | 3:56 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 50 | [Aayane](https://open.spotify.com/track/2LISvI1KPr4EFv90M6x06D) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:07 |
 | 51 | [Douka](https://open.spotify.com/track/4XLGewxYfYfvaajEtRgDVy) | [Adil Assil](https://open.spotify.com/artist/5idudw3rFRe9uVUCus4Kp1) | [Douka](https://open.spotify.com/album/6FDpxxCHJwACZIzmtnRRch) | 3:12 |
 
-Snapshot ID: `MTY3NTAwMjQxOCwwMDAwMDAwMDA0MjYwOTQ0NmQwODYzMTBkODhhNzY5YTc0ZGRhNzE1`
+Snapshot ID: `MTY3NTE3MTc2NiwwMDAwMDAwMDY0NDZhYmMwOWU2ZjMwYzI3Nzg0ZTJkOTRhYWZlNjZm`

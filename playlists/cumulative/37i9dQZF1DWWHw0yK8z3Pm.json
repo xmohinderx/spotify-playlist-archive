@@ -1791,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Light of Day",
+        "url": "https://open.spotify.com/album/4lH9QMOxTQq32l8L3sd1VC"
+      },
+      "artists": [
+        {
+          "name": "Steven Ryan",
+          "url": "https://open.spotify.com/artist/4o3nXRjidFLS65XYjy4mN1"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207058,
+      "name": "I Would Be Me",
+      "url": "https://open.spotify.com/track/1DiFDYIFjcdZozxQZVC6wS"
+    },
+    {
+      "album": {
         "name": "Light Of Day",
         "url": "https://open.spotify.com/album/7DvZtx3flW9wmtDu5Qz1mU"
       },
@@ -1802,7 +1820,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 207058,
       "name": "I Would Be Me",
       "url": "https://open.spotify.com/track/5G4pbhMytyWMdaJgZe2HLY"
@@ -3806,10 +3824,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 249462,
       "name": "Two Shots",
       "url": "https://open.spotify.com/track/1mauqJ16bq02UNpTw2IysI"
+    },
+    {
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn"
+      },
+      "artists": [
+        {
+          "name": "John Muirhead",
+          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249462,
+      "name": "Two Shots",
+      "url": "https://open.spotify.com/track/5TedK5daYlWU5Ij9gBxQpk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Recent hits and new songs from your favorite artists\. Cover: P!nk
 
-1,036 songs - 2 day 9 hr 10 min
+1,037 songs - 2 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 | 2021-06-26 | 2021-08-14 |
 | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL) | 2:51 | 2019-05-26\* | 2020-01-17 |
 | [Dangerous Levels of Introspection](https://open.spotify.com/track/4iT46O2cYu63Rlv09Fpxch) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:54 | 2021-06-26 | 2021-08-21 |
+| [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-01-31 |  |
 | [Daydream](https://open.spotify.com/track/778JDHI6qfgQ1HBEKP1FZu) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Daydream](https://open.spotify.com/album/1FsnruavnbrVGEesSSiKEE) | 2:30 | 2020-07-18 | 2020-09-11 |
 | [Dead Of Night](https://open.spotify.com/track/6jzAkKTa5sRAcIG4N1DkV6) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/4sypyREAQc69dg2X5XY4Df) | 3:59 | 2022-01-14 | 2022-01-22 |
 | [Dear August](https://open.spotify.com/track/6IOxwhhSrFl9tHPjbRvpG0) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:20 | 2021-09-18 | 2022-03-12 |
@@ -779,7 +780,7 @@
 | [Seeing Someone Else](https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Seeing Someone Else](https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n) | 3:26 | 2022-09-23 | 2022-10-29 |
 | [Selfish](https://open.spotify.com/track/18isufzGFuXQGmwX5hP5Mp) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Spaceman \(Deluxe\)](https://open.spotify.com/album/5Zktm8iOk8gKrQazrc9Uzh) | 3:07 | 2021-03-19 | 2021-04-30 |
 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 | 2021-06-12 | 2021-09-11 |
-| [Set For Life](https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part \(Deluxe\)](https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy) | 4:08 | 2022-12-02 |  |
+| [Set For Life](https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part \(Deluxe\)](https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy) | 4:08 | 2022-12-02 | 2023-02-01 |
 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 | 2019-07-05 | 2019-10-11 |
 | [Shades In The Rain](https://open.spotify.com/track/1ZcF0e6OGoHI4GIaCINUqZ) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Weird & Talkative](https://open.spotify.com/album/7yaKvLwS4P5bLfFdQpcRyJ) | 3:15 | 2020-11-13 | 2021-01-29 |
 | [Shadow Of Mine](https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Shadow Of Mine](https://open.spotify.com/album/1WOXEZWW81y830KHdqOdVG) | 2:45 | 2022-02-25 | 2022-04-16 |

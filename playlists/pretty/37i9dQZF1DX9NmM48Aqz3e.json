@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 50627,
+  "num_followers": 50649,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDZmNTEzMDg1MWM3OGNmNjg4MzE2M2YzMmNlOTY0ZTFh",
+  "snapshot_id": "MTYzMjI1Nzg3MCwwMDAwMDAwMDdiZjRhYTM2Y2ExYzBhY2U2NDUwNzE0YzNiNDQ3ZjJm",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "That Don't Impress Me Much",
-      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Tal Bachman",
         "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 224693,
       "name": "She's so High",
       "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -727,18 +727,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Public",
-        "url": "https://open.spotify.com/album/5fkfYGSKTOnx1JN8th9gzj"
+        "name": "Black History Month: Funk + Hip-Hop",
+        "url": "https://open.spotify.com/album/0kBDIcvYaIeUrMq8JtkHV2"
       },
       "artists": [
         {
-          "name": "Emm Gryner",
-          "url": "https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM"
+          "name": "Dream Warriors",
+          "url": "https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU"
         }
       ],
-      "duration_ms": 233600,
-      "name": "Summerlong",
-      "url": "https://open.spotify.com/track/0b7bxGfiO1iz5J4VaNa1kz"
+      "duration_ms": 218626,
+      "name": "My Definition Of A Boombastic Jazz Style - Radio Mix",
+      "url": "https://open.spotify.com/track/75Cz7AVd6T3PHSnLoqWhh9"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -759,18 +759,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Black History Month: Funk + Hip-Hop",
-        "url": "https://open.spotify.com/album/0kBDIcvYaIeUrMq8JtkHV2"
+        "name": "Public",
+        "url": "https://open.spotify.com/album/5fkfYGSKTOnx1JN8th9gzj"
       },
       "artists": [
         {
-          "name": "Dream Warriors",
-          "url": "https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU"
+          "name": "Emm Gryner",
+          "url": "https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM"
         }
       ],
-      "duration_ms": 218626,
-      "name": "My Definition Of A Boombastic Jazz Style - Radio Mix",
-      "url": "https://open.spotify.com/track/75Cz7AVd6T3PHSnLoqWhh9"
+      "duration_ms": 233600,
+      "name": "Summerlong",
+      "url": "https://open.spotify.com/track/0b7bxGfiO1iz5J4VaNa1kz"
     },
     {
       "added_at": "2021-09-21 20:57:50",

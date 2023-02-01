@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Singer\-songwriters who colour outside the lines\. Cover: Benjamin Dakota Rogers
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,661 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,696 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 89 | [Tailwinds](https://open.spotify.com/track/245B5YlJ9PnXlZ3EpbZBiQ) | [Alex Lapp](https://open.spotify.com/artist/5EyQUNPmTuQeLYPqLWBpbW) | [Tailwinds](https://open.spotify.com/album/3V9rjHfNaZ6xv8OmWO3sF2) | 3:03 |
 | 90 | [Deadman](https://open.spotify.com/track/45saT9CynzZGwGkqsJkQGx) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [Deadman](https://open.spotify.com/album/4wgVruIbA98zWPV0LXgCfa) | 3:44 |
 | 91 | [Montana Waltz](https://open.spotify.com/track/4HWvUzCTMhdyj1rFGphNEX) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Songs My Friends Wrote](https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM) | 3:49 |
-| 92 | [Two Shots](https://open.spotify.com/track/1mauqJ16bq02UNpTw2IysI) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/7aEPFKcRZg2lDCzE5FGtSX) | 4:09 |
-| 93 | [I Would Be Me](https://open.spotify.com/track/5G4pbhMytyWMdaJgZe2HLY) | [Steven Ryan](https://open.spotify.com/artist/4o3nXRjidFLS65XYjy4mN1) | [Light Of Day](https://open.spotify.com/album/7DvZtx3flW9wmtDu5Qz1mU) | 3:27 |
+| 92 | [Two Shots](https://open.spotify.com/track/5TedK5daYlWU5Ij9gBxQpk) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn) | 4:09 |
+| 93 | [I Would Be Me](https://open.spotify.com/track/1DiFDYIFjcdZozxQZVC6wS) | [Steven Ryan](https://open.spotify.com/artist/4o3nXRjidFLS65XYjy4mN1) | [Light of Day](https://open.spotify.com/album/4lH9QMOxTQq32l8L3sd1VC) | 3:27 |
 | 94 | [Monte Carlo](https://open.spotify.com/track/60cNfpipC3dIXISWhBZA2s) | [Carleton Stone](https://open.spotify.com/artist/6FjV2v8M0YwyG2XGWXv5fX) | [Monte Carlo](https://open.spotify.com/album/3R4gMsQ0un7dFWluY7upDW) | 4:18 |
 | 95 | [My Best Western](https://open.spotify.com/track/6fKhdMy7iJhOQPDVgzGcqh) | [Yesterday's Ring](https://open.spotify.com/artist/7z76KyK7conOi6VHDiEPk6) | [Goodbye Nightlife](https://open.spotify.com/album/37nVbLsncw7oAuUPtkwObQ) | 3:15 |
 | 96 | [Red Moon](https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Post Breakup Bender](https://open.spotify.com/track/2Iwy8pzOjT67hB7nxS3v8G) | [Sean Watson Graham](https://open.spotify.com/artist/6S7fQrvmDgkoTQHHQiExI6) | [Post Breakup Bender](https://open.spotify.com/album/5mZw0HlcrXRGcWyFK6rks6) | 3:44 |
 | 100 | [Thief](https://open.spotify.com/track/5vKF7CCkRpFyBhKaWyVRVC) | [Raphaël Dénommé](https://open.spotify.com/artist/7Mb5Ykc43EpFUCsEXF0Nom) | [Hard Times and Broken Mind, Vol\. 1](https://open.spotify.com/album/7u2CFExHbNAgpLHFfNrt3S) | 4:40 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMGY2ZWYwMDgzYTNkY2NkYmYwMjllM2M4YjY2NjgwY2Yw`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDhiNmU3NGQ1MmRjZDdkMjlmZjA0NTk1NDUxZmE2NDkz`

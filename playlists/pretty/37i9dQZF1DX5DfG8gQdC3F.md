@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Listen to new music from Daniel Caesar \(pictured\), Sam Smith, Ava Max, P!nk and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,296 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,319 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

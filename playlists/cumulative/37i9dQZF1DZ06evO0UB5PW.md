@@ -4,7 +4,7 @@
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-64 songs - 5 hr 22 min
+65 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [High Road](https://open.spotify.com/track/4coYVm83MTdcEKlWcbU4Zh) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:15 | 2022-05-30 |  |
 | [I Am Ahab](https://open.spotify.com/track/0gr97EET1vP85jcFESMYRK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 2:45 | 2022-05-30 |  |
 | [Iron Tusk](https://open.spotify.com/track/7zF8QWnnpQ1xNTWmCdsQCX) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:03 | 2022-05-30 |  |
-| [Jaguar God](https://open.spotify.com/track/7lGOFEVWK0jzpLMFuR4ANh) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 7:56 | 2022-05-30 |  |
+| [Jaguar God](https://open.spotify.com/track/7lGOFEVWK0jzpLMFuR4ANh) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 7:56 | 2022-05-30 | 2023-02-01 |
 | [Joseph Merrick \- Instrumental](https://open.spotify.com/track/10DrDEatayhTM9dx9FIHSF) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:33 | 2022-05-30 | 2022-10-12 |
 | [March of the Fire Ants](https://open.spotify.com/track/5SoTqdQPiBu4XmZyXeNs4M) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 4:25 | 2022-05-30 |  |
 | [Megalodon](https://open.spotify.com/track/1rLDTmI8quVUsGy9mzrXBx) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 4:22 | 2022-05-30 |  |
@@ -72,5 +72,6 @@
 | [Toe to Toes](https://open.spotify.com/track/7ppgV0Y4cDjNWFtNYmRzsD) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Toe to Toes](https://open.spotify.com/album/0u1dWanZBy4vkzZnLJZmZ3) | 4:29 | 2022-05-30 |  |
 | [Tread Lightly](https://open.spotify.com/track/46PDxEshU0SPeKY36Pu3FY) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 5:14 | 2022-05-30 |  |
 | [White Walker](https://open.spotify.com/track/3jGDbNotjMR5CNaeIg0f1O) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 4:20 | 2022-05-30 | 2022-10-13 |
+| [Word to the Wise](https://open.spotify.com/track/2aYtAI8xvZLUTZPYZMC6ad) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 4:00 | 2023-01-31 |  |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

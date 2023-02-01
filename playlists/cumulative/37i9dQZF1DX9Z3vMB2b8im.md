@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-156 songs - 9 hr 25 min
+157 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 | 2022-08-19 |  |
 | [Unconditional](https://open.spotify.com/track/4OrLA7boWjy9X7fnWLxjld) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Unconditional](https://open.spotify.com/album/3UXXSXnc0znyU0ywfw0Nqb) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [Unconditional](https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Devon or Las Vegas](https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade) | 4:20 | 2022-06-10 |  |
-| [ur so pretty](https://open.spotify.com/track/0MIiqne6YsbsDz4z9MGA2K) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/2MLGMYV56ySz3AZShc92L1) | 2:12 | 2022-08-19 |  |
+| [ur so pretty](https://open.spotify.com/track/0MIiqne6YsbsDz4z9MGA2K) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/2MLGMYV56ySz3AZShc92L1) | 2:12 | 2022-08-19 | 2023-02-01 |
+| [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 | 2023-01-06 |  |
 | [Warped Window](https://open.spotify.com/track/0C0ESa1ZZ5taXaYUxwnvx9) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5PncSJwq9TMUU2c3Y54pGZ) | 4:55 | 2021-12-10 | 2022-07-29 |
 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 | 2022-06-10 |  |
 | [Wavepool](https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Wavepool](https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL) | 3:38 | 2021-12-10 | 2023-01-07 |

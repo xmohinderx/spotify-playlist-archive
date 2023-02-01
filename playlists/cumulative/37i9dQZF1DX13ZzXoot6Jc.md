@@ -4,7 +4,7 @@
 
 > A collection of hits that will have you singing every word\. Cover: Kane Brown
 
-157 songs - 8 hr 35 min
+158 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Dodge Out Of Hell](https://open.spotify.com/track/1JV425vD0dWil9boakNIHf) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Dodge Out Of Hell](https://open.spotify.com/album/3VEVl40QzaIRHBRFGujTIt) | 3:12 | 2022-09-02 | 2022-09-10 |
 | [Doin' This](https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Doin' This](https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA) | 4:14 | 2022-07-21 | 2023-01-27 |
 | [Down To The Honkytonk](https://open.spotify.com/track/5g0XcG0apQTlO3X8r38vGf) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:06 | 2022-07-21 | 2022-11-16 |
-| [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/1b8TpvCFqmJTd2xz9xE9s1) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Album](https://open.spotify.com/album/49DERKtzOTKNT7T0O4l6m4) | 2:40 | 2022-11-15 |  |
+| [Drinkin' Beer\. Talkin' God\. Amen\. \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/1b8TpvCFqmJTd2xz9xE9s1) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [The Album](https://open.spotify.com/album/49DERKtzOTKNT7T0O4l6m4) | 2:40 | 2022-11-15 | 2023-02-01 |
 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 | 2022-07-21 |  |
 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 | 2022-07-21 | 2022-11-16 |
 | [Fall In Love](https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love](https://open.spotify.com/album/532HZrT6uAekC4urDonoXa) | 3:52 | 2022-07-21 |  |
@@ -163,6 +163,7 @@
 | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm) | 3:31 | 2022-08-05 |  |
 | [You Broke Up with Me](https://open.spotify.com/track/5jZF1nvKORdaHNjNNMRbFl) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [boom.](https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe) | 3:16 | 2022-11-15 |  |
 | [You Make It Easy](https://open.spotify.com/track/2ZxTjs4EdJl4Y9YByIiNoo) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [You Make It Easy](https://open.spotify.com/album/0EVP8vXYQaq3kr0kWv8rNG) | 3:16 | 2022-11-15 |  |
+| [You Proof](https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [You Proof](https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI) | 2:37 | 2023-01-31 |  |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2022-07-21 |  |
 | [Yours](https://open.spotify.com/track/3I4WFddKpe2PGZWFh7f10J) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:36 | 2022-07-21 | 2022-09-23 |
 

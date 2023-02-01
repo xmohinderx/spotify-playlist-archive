@@ -4,7 +4,7 @@
 
 > Highlights from the class of 2022\. Cover: YUNGBLUD
 
-111 songs - 5 hr 23 min
+112 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2021-12-01 | 2022-12-01 |
 | [Freaks & Geeks](https://open.spotify.com/track/6SXMyJ44dyZo4Vz34ikIzG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:20 | 2022-11-30 |  |
 | [FUCKBOI REJECTS](https://open.spotify.com/track/05NA0nspTPyXKBAAWqUsIr) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [F\*CKBOI REJECTS](https://open.spotify.com/album/6Q9dzZJNVPb194wy59f0DG) | 2:07 | 2022-11-30 |  |
-| [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-11-30 |  |
+| [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-11-30 | 2023-02-01 |
+| [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2022-11-30 |  |
 | [Gaslight!](https://open.spotify.com/track/1rCdmjQUxxdvcCY92D7UiR) | [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f) | [I Can't Sleep](https://open.spotify.com/album/4CtZxt0ZarugeixV9FfR2g) | 2:45 | 2021-12-01 | 2022-12-01 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-12-01 | 2022-12-01 |
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 | 2021-12-01 | 2022-12-01 |

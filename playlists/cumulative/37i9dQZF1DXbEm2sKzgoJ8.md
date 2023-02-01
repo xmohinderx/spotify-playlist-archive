@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-287 songs - 15 hr 59 min
+288 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,12 +193,13 @@
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2022-07-29 |  |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-04-29 |  |
 | [pov](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:21 | 2021-12-10 |  |
+| [pRETTy](https://open.spotify.com/track/6vDyzD9o8aYhR1963oJpkO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 2:42 | 2023-01-28 |  |
 | [Purple](https://open.spotify.com/track/0FrZlv2YeaeNoegY6ZwWJ3) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Purple](https://open.spotify.com/album/1ACYwKV5Eo6IGA0NAcUnAN) | 4:10 | 2021-12-10 | 2022-07-28 |
 | [Purple Emoji \(feat\. J\. Cole\)](https://open.spotify.com/track/3OJ4LEE50iFELaHiZ09zif) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Purple Emoji \(feat\. J Cole\)](https://open.spotify.com/album/5tcLbrane4ipoQy0liSuNH) | 2:43 | 2021-12-24 | 2022-04-21 |
 | [Put On Repeat](https://open.spotify.com/track/4ADMbmfzTk6BWBeKOIdfF8) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Put On Repeat](https://open.spotify.com/album/7fkVD3CHttaBT4rnyEZiCN) | 3:05 | 2022-01-26 | 2022-07-29 |
 | [raw](https://open.spotify.com/track/2G3cF0Gc6SFGwzOxa9QOxC) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/1iBeLmJBT417B8XHmIuctN) | 3:06 | 2022-05-17 | 2022-10-01 |
 | [raw](https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [raw](https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC) | 3:06 | 2021-12-10 | 2022-05-18 |
-| [raw](https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 3:06 | 2022-11-11 |  |
+| [raw](https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 3:06 | 2022-11-11 | 2023-02-01 |
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-01-26 | 2022-01-29 |
 | [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 | 2022-10-14 |  |
 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2022-07-13 | 2022-10-13 |

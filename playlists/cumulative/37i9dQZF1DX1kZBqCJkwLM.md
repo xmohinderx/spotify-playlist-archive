@@ -4,7 +4,7 @@
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-178 songs - 9 hr 21 min
+179 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Do Over](https://open.spotify.com/track/5w2BeuJogvcGbSdc07DdJl) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [Do Over](https://open.spotify.com/album/5BuOTw8w1ZefJ8j3qaQsgU) | 2:57 | 2022-04-15 | 2022-11-28 |
 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 | 2022-07-15 |  |
 | [Dramamine](https://open.spotify.com/track/2MCcUgZVe1RH8beGoeA4bE) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/4n6oL9oDtMwzf2ip2wDt2s) | 2:55 | 2021-12-03 | 2022-07-24 |
+| [Dramamine](https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi) | 2:55 | 2023-01-09 |  |
 | [Drunk Sleeping In Taxis](https://open.spotify.com/track/6JsTJ7ScTRdqz2yotO5aNe) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Drunk Sleeping In Taxis](https://open.spotify.com/album/0SHth88PCHEHHhf2nysItm) | 3:33 | 2021-12-03 |  |
 | [Dystopia](https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Hope In Chaos](https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt) | 3:13 | 2022-01-07 |  |
 | [Emo Song](https://open.spotify.com/track/5hQjB552fc7TQAtdzJTzLo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:38 | 2021-12-03 |  |
@@ -121,7 +122,7 @@
 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 | 2021-12-03 |  |
 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 | 2021-12-03 |  |
 | [paper promises](https://open.spotify.com/track/2EtPkAFoT8otljWXtgJ4la) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [fkn bad Pt.1](https://open.spotify.com/album/0yiVDLqPxTJhuxrw9NyFjM) | 2:24 | 2021-12-03 | 2022-07-28 |
-| [Phenomenon](https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [Phenomenon](https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y) | 3:38 | 2022-07-15 |  |
+| [Phenomenon](https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [Phenomenon](https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y) | 3:38 | 2022-07-15 | 2023-02-01 |
 | [Play Fair](https://open.spotify.com/track/1A5RzIhd6iGOxH3bxyEmSk) | [Dolly Ave](https://open.spotify.com/artist/3CRylfSfibkfnjCMLhWmIk) | [Sleep](https://open.spotify.com/album/4GPhm4jal1zE0QscDbU6f2) | 2:45 | 2021-12-03 | 2022-07-29 |
 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 | 2022-09-02 |  |
 | [Power](https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 4:42 | 2022-01-07 |  |

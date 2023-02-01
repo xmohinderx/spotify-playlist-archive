@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "A Milli (SIDEPIECE Remix)",
+        "url": "https://open.spotify.com/album/7LZc53WdqALyOWeYYOw9nh"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "A Milli - SIDEPIECE Remix",
+      "url": "https://open.spotify.com/track/2jB8Y4OCA1azQrsIkva32z"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv"
       },
@@ -434,7 +456,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 164307,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/6bXNko4ehHxNCsfI1G9yLI"
@@ -4282,7 +4304,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 197142,
       "name": "Mercy (2022 Edit)",
       "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
@@ -6348,6 +6370,28 @@
       "duration_ms": 300916,
       "name": "Shivering (feat. Spiritbox)",
       "url": "https://open.spotify.com/track/10Q3ASy9okYt85040yV46c"
+    },
+    {
+      "album": {
+        "name": "Shockwave (with Afrojack)",
+        "url": "https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122578,
+      "name": "Shockwave (with Afrojack)",
+      "url": "https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > El soundtrack para los días rebeldes.
 
-53 songs - 2 hr 48 min
+54 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Deja Vu](https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:24 | 2023-01-20 |  |
 | [Despídete Bien](https://open.spotify.com/track/01VQjDzfxV3E7YeBVZ9hdI) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Despídete Bien](https://open.spotify.com/album/31P64T0u8ksncgTZwPZ1Np) | 3:12 | 2023-01-20 |  |
 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 | 2023-01-20 |  |
+| [El Paraíso](https://open.spotify.com/track/0Ash824OFqj7HLZCwabh5m) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Caiga la Noche](https://open.spotify.com/album/4wdcfphPQeD25tKaBwAgF6) | 3:03 | 2023-01-20 |  |
 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 | 2023-01-20 |  |
 | [El Principio de algo](https://open.spotify.com/track/55oRR1s2W1xX2evrUCaOSb) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Principio de algo](https://open.spotify.com/album/0bpAz9oL8eRTGaOxS7PCkw) | 2:27 | 2023-01-29 |  |
 | [FBI](https://open.spotify.com/track/7Cb7KptiBrbDHaKKFN6iAn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:24 | 2023-01-20 |  |
@@ -45,7 +46,7 @@
 | [Plaza en el cielo](https://open.spotify.com/track/330mS1U6KJ9Gie5PL4gkAo) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Plaza en el cielo](https://open.spotify.com/album/1oXFlNOxGfnSw9329hsgoT) | 3:26 | 2023-01-29 |  |
 | [Punk](https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:13 | 2023-01-20 |  |
 | [Quiero Estar](https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:13 | 2023-01-20 |  |
-| [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps) | 2:47 | 2023-01-20 |  |
+| [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps) | 2:47 | 2023-01-20 | 2023-02-01 |
 | [Recuerdos Desechables](https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d) | 3:30 | 2023-01-20 |  |
 | [Rorschach](https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Lámina Once](https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi) | 3:57 | 2023-01-20 |  |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2023-01-20 |  |

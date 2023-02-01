@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-29",
+      "date_removed": null,
       "duration_ms": 183306,
       "name": "Black Velvet Band",
       "url": "https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 264473,
       "name": "Fields of Athenry",
       "url": "https://open.spotify.com/track/1U5yl42o56X6M6I2MRLJBd"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 248586,
       "name": "Going Out In Style",
       "url": "https://open.spotify.com/track/0I90T32j5YVYMdD4zi2Naf"
@@ -636,10 +636,28 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 155642,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/4GPs3FuG2SMYa245EHzbKe"
+    },
+    {
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155642,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
     },
     {
       "album": {
@@ -964,7 +982,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 233640,
       "name": "The Dirty Glass",
       "url": "https://open.spotify.com/track/0GlC0IeWvqlGLVJBuSnDP0"

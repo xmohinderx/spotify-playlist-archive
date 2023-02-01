@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-208 songs - 13 hr 59 min
+209 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [就這樣 \(Acoustic\)](https://open.spotify.com/track/7LdxOI6AU8NE8h5BKtLcCK) | [鄭可強](https://open.spotify.com/artist/25ZQbXxYqrsopuFrlEQ3Km) | [就這樣 \(Acoustic\)](https://open.spotify.com/album/76LbCc68hkzltI6g1MRdtn) | 3:34 | 2022-11-10 | 2022-11-18 |
 | [席地而坐](https://open.spotify.com/track/27qSPXGaBmXNhBAss1P7aI) | [leafyeh](https://open.spotify.com/artist/3lN5TnoCbzUqwIMFQrGkx8) | [生滅](https://open.spotify.com/album/4cwzJiqUbBAUjnmU16XbeW) | 4:13 | 2022-06-30 | 2022-07-06 |
 | [年輪說](https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [冊葉一:一與一](https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG) | 4:55 | 2022-06-02 |  |
-| [当全世界忘了我](https://open.spotify.com/track/2wvoqZC0fvJV4L7rLkAFLp) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [当全世界忘了我](https://open.spotify.com/album/2rMck4VJ3rxG5g9XtkXZeu) | 5:22 | 2023-01-19 |  |
+| [当全世界忘了我](https://open.spotify.com/track/19FOWxZzrcErmF5P95vPqu) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [希忘Hope](https://open.spotify.com/album/3UEMDGalqaizcZmVkLdV51) | 5:22 | 2023-01-26 |  |
+| [当全世界忘了我](https://open.spotify.com/track/2wvoqZC0fvJV4L7rLkAFLp) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [当全世界忘了我](https://open.spotify.com/album/2rMck4VJ3rxG5g9XtkXZeu) | 5:22 | 2023-01-19 | 2023-02-01 |
 | [微笑分手](https://open.spotify.com/track/0bwSgYnYeDKu5fhJ7y63rg) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [微笑分手](https://open.spotify.com/album/0vDcTUTmDEY8ryGNVKJlsi) | 4:21 | 2022-06-30 | 2022-07-11 |
 | [怎麼能這樣](https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [謎之音](https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp) | 5:01 | 2022-06-02 |  |
 | [思念的週期](https://open.spotify.com/track/5mcNY4fwlbXwoNjYBHcErx) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [思念的週期](https://open.spotify.com/album/1itKUqsMVPoK9aweQLW3rw) | 3:25 | 2022-06-02 | 2022-07-28 |

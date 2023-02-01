@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The freshest indie music from South African and beyond\. Cover: <a href="https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86?si=E4XDVL0qS2WwQFX\_ZhuEvg">Matthew Mole
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,434 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,438 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 21 | [Head Start \- Fresh Start](https://open.spotify.com/track/62NHaoO0JcLD0EpD38HYgg) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Head Start \(Fresh Start\)](https://open.spotify.com/album/5HIe6iAa0joluCQmVuajkI) | 3:31 |
 | 22 | [Bloom](https://open.spotify.com/track/3gv47i3eI5YN7vVX1Rax9m) | [Tanaka](https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph) | [Bloom](https://open.spotify.com/album/67ECqw3BYzNRrSbRQ02eZ1) | 5:03 |
 | 23 | [Madonna](https://open.spotify.com/track/152r40YkplZWECHc392lTa) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Madonna](https://open.spotify.com/album/1RxQeHE8nnHn4pZJxUfwvv) | 3:07 |
-| 24 | [Jolie](https://open.spotify.com/track/5bB4eyM0bd4i5YIB3SyfBF) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Jolie](https://open.spotify.com/album/7KSc6yLnDS8rahkCrjgPgf) | 3:00 |
+| 24 | [Jolie](https://open.spotify.com/track/1vSOsZeX894Wh0ym6M3UhO) | [Rook Monroe](https://open.spotify.com/artist/0xwMjJn29gSNkQYNxc5IED) | [Californialand](https://open.spotify.com/album/2l0s44teDp0yLB7TV8pt9q) | 3:00 |
 | 25 | [Harder](https://open.spotify.com/track/4NzCbEX3oR76un4r4wMdEG) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU), [Mandi Lizamore](https://open.spotify.com/artist/6uuRwrri5kOGdGkOlU9WHX) | [Harder](https://open.spotify.com/album/2TGbLlyaXASwBMX1LswYU2) | 6:06 |
 | 26 | [Ride The Next One](https://open.spotify.com/track/4so7v52k8q4Bac3SxHAPOu) | [Pat McCay](https://open.spotify.com/artist/1AMLedm2z14uk2eSDbndxK) | [NEARLY ME](https://open.spotify.com/album/1Jdk7zXVJyDFb7fZQ9sXlu) | 3:37 |
 | 27 | [All These Lights](https://open.spotify.com/track/4MPwDMHQgTrOAYvtzZxQyP) | [Jonny Hayes](https://open.spotify.com/artist/4RscgyBOMvKeYLQ6OOF3sp) | [All These Lights](https://open.spotify.com/album/3cKG56oZlnWbA39aBNYD4F) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [Falling For You](https://open.spotify.com/track/3QuJghCGUmoDxarw1Wa1lJ) | [Jamie\-Lee Sexton](https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h) | [Falling For You](https://open.spotify.com/album/7IQueyGAvp9urNG0tt0UhR) | 2:55 |
 | 50 | [How Do I Tell You](https://open.spotify.com/track/0q1oVDXjgMByl8ff7b4h3t) | [SŌNN](https://open.spotify.com/artist/1mujbWE1l8sIS8v0Wj6kaJ) | [How Do I Tell You](https://open.spotify.com/album/2ZXG2gt26oPHl6dL5uCKXs) | 2:58 |
 
-Snapshot ID: `MTY3NDgwNzM5OSwwMDAwMDAwMDg4MWI5ODNiYWEyYjJkNjZmMTU1MDE2NDNmNmNiYTEz`
+Snapshot ID: `MTY3NDgwNzM5OSwwMDAwMDAwMDBlYjE5MzM2M2JkNTBmMGI2Yjc1YjQzNWJlMTU4MGY5`

@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: HI\-LO
 
-1,323 songs - 5 day 1 hr 7 min
+1,324 songs - 5 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,8 @@
 | [Come at Me](https://open.spotify.com/track/4vvlKqDKCJKCEOmk1MHC8D) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Come at Me](https://open.spotify.com/album/0WC8JOtx1443AVbyG2Npok) | 7:49 | 2022-06-23 | 2022-07-08 |
 | [Comet](https://open.spotify.com/track/2zgaGyIf8ybV36egk0NTyT) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Oxymoron](https://open.spotify.com/album/1U4vAoHgAh5iiqPxO62WRV) | 7:21 | 2022-08-18 | 2022-09-09 |
 | [Coming On Strong](https://open.spotify.com/track/06zEIQV4HnyhES2flGFeVd) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Coming On Strong](https://open.spotify.com/album/6u3f15wSXhpxeekig4ceqZ) | 6:02 | 2022-12-09 | 2023-01-06 |
-| [Como](https://open.spotify.com/track/2jWqS0gbqMeDmEAxFLaftX) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Picture: Disfreq](https://open.spotify.com/album/1LhcWBDBfzQNsyP9M5lAuw) | 5:38 | 2023-01-13 |  |
+| [Como](https://open.spotify.com/track/2ajDXhl2wdbHhJUK0qaU8V) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Picture: Disfreq](https://open.spotify.com/album/07bPNT9oLiFi5EiC0p4sAO) | 5:38 | 2023-01-27 |  |
+| [Como](https://open.spotify.com/track/2jWqS0gbqMeDmEAxFLaftX) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Picture: Disfreq](https://open.spotify.com/album/1LhcWBDBfzQNsyP9M5lAuw) | 5:38 | 2023-01-13 | 2023-02-01 |
 | [Concentrate](https://open.spotify.com/track/3RGCgtTX3J8lnZGf97oVip) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [Concentrate](https://open.spotify.com/album/2neWCkyM66Pf8sjRSRwmHh) | 3:23 | 2022-07-07 | 2022-07-29 |
 | [Concorde](https://open.spotify.com/track/1QWj9NYh8ZcSugtyBhSIea) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Concorde](https://open.spotify.com/album/5tDbwaajccd1lTumbnB0kK) | 3:56 | 2023-01-19 |  |
 | [Concrete Jungle \- Transhumanism Project \(1/3\)](https://open.spotify.com/track/4oHAI2kmcxaSezwqyc2iw2) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Concrete Jungle \- Transhumanism Project \(1/3\)](https://open.spotify.com/album/1A8SCXrcytsmcQFDSBLJn3) | 4:53 | 2022-06-23 | 2022-07-15 |

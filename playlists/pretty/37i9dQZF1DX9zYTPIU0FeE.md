@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/5Z5yBH3PAZ2Qpp5DFHZn2d?si=Ol\_jgjcuTPqfrN4HQDcDdQ">Robin Fassie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,623 likes - 84 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,630 likes - 84 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

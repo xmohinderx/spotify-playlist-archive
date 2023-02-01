@@ -1282,7 +1282,7 @@
     {
       "album": {
         "name": "Picture: Disfreq",
-        "url": "https://open.spotify.com/album/1LhcWBDBfzQNsyP9M5lAuw"
+        "url": "https://open.spotify.com/album/07bPNT9oLiFi5EiC0p4sAO"
       },
       "artists": [
         {
@@ -1293,6 +1293,24 @@
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 338179,
+      "name": "Como",
+      "url": "https://open.spotify.com/track/2ajDXhl2wdbHhJUK0qaU8V"
+    },
+    {
+      "album": {
+        "name": "Picture: Disfreq",
+        "url": "https://open.spotify.com/album/1LhcWBDBfzQNsyP9M5lAuw"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
       "duration_ms": 338179,
       "name": "Como",
       "url": "https://open.spotify.com/track/2jWqS0gbqMeDmEAxFLaftX"

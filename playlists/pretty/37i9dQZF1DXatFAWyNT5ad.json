@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 92165,
+  "num_followers": 92220,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGM5ZmNiODJkMDcwMjBlYjg2OTI5ZDViY2E1ZmRmYWVm",
+  "snapshot_id": "MTY2ODE0Mjg2MCwwMDAwMDAwMGE3N2NmMTA1OTViZWRmNjhmNjY3ZGVmZTA3M2U5ODY5",
   "tracks": [
     {
       "added_at": "2022-11-11 05:01:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Sharks",
-        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 190883,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
         "name": "Die Young (feat. 347aidan)",
         "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
       },
@@ -219,18 +203,18 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 173160,
-      "name": "jealousy, jealousy",
-      "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -271,6 +255,22 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "jealousy, jealousy",
+      "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
         "name": "sTraNgeRs",
         "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
       },
@@ -299,22 +299,6 @@
       "duration_ms": 151533,
       "name": "EDGING",
       "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Follow You / Cutthroat",
-        "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 175643,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -351,6 +335,22 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
+        "name": "Follow You / Cutthroat",
+        "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 175643,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
         "name": "I'm In Love With You",
         "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
       },
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 175044,
-      "name": "Shy Away",
-      "url": "https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 170133,
       "name": "maybe (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 175044,
+      "name": "Shy Away",
+      "url": "https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -467,6 +467,26 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 171620,
+      "name": "forget me too (feat. Halsey)",
+      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
         "name": "i hope ur miserable until ur dead",
         "url": "https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d"
       },
@@ -515,26 +535,6 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "forget me too (feat. Halsey)",
-      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
@@ -563,70 +563,6 @@
       "duration_ms": 197374,
       "name": "Pass The Nirvana",
       "url": "https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "There\u2019d Better Be A Mirrorball",
-        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 265798,
-      "name": "There\u2019d Better Be A Mirrorball",
-      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "The Bastards",
-        "url": "https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 186249,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4jXbcY2ulVT7MOPdN8nR50"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Level of Concern",
-        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 220051,
-      "name": "Level of Concern",
-      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -663,6 +599,70 @@
       "duration_ms": 195191,
       "name": "la di die (feat. jxdn)",
       "url": "https://open.spotify.com/track/3RLshk3cDQOqWhSIRCVaXL"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "The Bastards",
+        "url": "https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 186249,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4jXbcY2ulVT7MOPdN8nR50"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "There\u2019d Better Be A Mirrorball",
+        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Level of Concern",
+        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 220051,
+      "name": "Level of Concern",
+      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -719,6 +719,42 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
+        "name": "dying on the inside",
+        "url": "https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 204847,
+      "name": "dying on the inside",
+      "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 122570,
+      "name": "make up sex (feat. blackbear)",
+      "url": "https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
       },
@@ -731,6 +767,22 @@
       "duration_ms": 131586,
       "name": "3, 2, 1",
       "url": "https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "the underrated youth",
+        "url": "https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "parents",
+      "url": "https://open.spotify.com/track/68rVGSTnCiFOET9k5Vd8Se"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -751,22 +803,6 @@
       "duration_ms": 250763,
       "name": "Bad Habits (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "the underrated youth",
-        "url": "https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "parents",
-      "url": "https://open.spotify.com/track/68rVGSTnCiFOET9k5Vd8Se"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -803,42 +839,6 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 122570,
-      "name": "make up sex (feat. blackbear)",
-      "url": "https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "dying on the inside",
-        "url": "https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 204847,
-      "name": "dying on the inside",
-      "url": "https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
         "name": "Monsters (feat. Demi Lovato and blackbear)",
         "url": "https://open.spotify.com/album/1EGlv1JGCUPolWU4qv7bsK"
       },
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+        "name": "Love and Other Lies",
+        "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
         }
       ],
-      "duration_ms": 195760,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95"
+      "duration_ms": 143500,
+      "name": "Dress",
+      "url": "https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -891,22 +891,6 @@
       "duration_ms": 195823,
       "name": "All the Things I Hate About You",
       "url": "https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Love and Other Lies",
-        "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "Dress",
-      "url": "https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -939,6 +923,22 @@
       "duration_ms": 223065,
       "name": "Choker",
       "url": "https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/2JiHR4gCDjXwYVRDmwdk95"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
+        "name": "Love Of Mine (Night Visions Demo)",
+        "url": "https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 249995,
+      "name": "Love Of Mine - Night Visions Demo",
+      "url": "https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
         "name": "KULT (feat. Jasiah)",
         "url": "https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl"
       },
@@ -1031,38 +1047,18 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 145103,
-      "name": "Love It When You Hate Me (feat. blackbear)",
-      "url": "https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Love Of Mine (Night Visions Demo)",
-        "url": "https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 249995,
-      "name": "Love Of Mine - Night Visions Demo",
-      "url": "https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA"
+      "duration_ms": 186672,
+      "name": "Body And Mind",
+      "url": "https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1087,34 +1083,22 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 186672,
-      "name": "Body And Mind",
-      "url": "https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "ZITTI E BUONI",
-        "url": "https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy"
-      },
-      "artists": [
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
-      "duration_ms": 192654,
-      "name": "ZITTI E BUONI",
-      "url": "https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV"
+      "duration_ms": 145103,
+      "name": "Love It When You Hate Me (feat. blackbear)",
+      "url": "https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1135,22 +1119,18 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
+        "name": "ZITTI E BUONI",
+        "url": "https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 163321,
-      "name": "Bois Lie (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
+      "duration_ms": 192654,
+      "name": "ZITTI E BUONI",
+      "url": "https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1187,18 +1167,38 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "in loving memory",
-        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
       "artists": [
         {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 182792,
-      "name": "dead inside",
-      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+      "duration_ms": 163321,
+      "name": "Bois Lie (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 173467,
+      "name": "I'm Not Mad",
+      "url": "https://open.spotify.com/track/6SL8U8TtdwOtGhbmGzsMfX"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1227,18 +1227,50 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc"
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
-      "duration_ms": 173467,
-      "name": "I'm Not Mad",
-      "url": "https://open.spotify.com/track/6SL8U8TtdwOtGhbmGzsMfX"
+      "duration_ms": 182792,
+      "name": "dead inside",
+      "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1263,18 +1295,18 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
+        "name": "Fix Yourself, Not the World",
+        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
         }
       ],
-      "duration_ms": 196000,
-      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
+      "duration_ms": 169213,
+      "name": "If You Ever Leave, I'm Coming with You",
+      "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1295,38 +1327,6 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Fix Yourself, Not the World",
-        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "If You Ever Leave, I'm Coming with You",
-      "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
         "name": "saddest soundtrack",
         "url": "https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7"
       },
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-11-11 05:01:00",
       "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 167365,
+      "name": "cotton candy",
+      "url": "https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps"
+    },
+    {
+      "added_at": "2022-11-11 05:01:00",
+      "album": {
         "name": "Twinkle Twinkle",
         "url": "https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 156937,
       "name": "Twinkle Twinkle",
       "url": "https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT"
-    },
-    {
-      "added_at": "2022-11-11 05:01:00",
-      "album": {
-        "name": "Your Life Your Time",
-        "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
-      },
-      "artists": [
-        {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
-        }
-      ],
-      "duration_ms": 160257,
-      "name": "Your Life Your Time",
-      "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
     }
   ],
   "unique_name": "Pop Rock",

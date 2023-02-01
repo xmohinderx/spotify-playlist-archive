@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Sleaford Mods",
-  "num_followers": 47746,
+  "num_followers": 47768,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE3MjgwMCwwMDAwMDAwMGIyMjRlNjE3MWJhMGU3M2JmOTM2MGRhNTkxZWNjNGYy",
+  "snapshot_id": "MTY3NDE3MjgwMCwwMDAwMDAwMDdkMzM2MzcyN2U4NDRmMTA0MGJlNzE5Y2JlNzE0Yjgx",
   "tracks": [
     {
       "added_at": "2023-01-18 13:53:08",
@@ -81,6 +81,22 @@
       "url": "https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK"
     },
     {
+      "added_at": "2023-01-20 00:00:00",
+      "album": {
+        "name": "cherry cigarettes",
+        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "cherry cigarettes",
+      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
+    },
+    {
       "added_at": "2023-01-18 13:53:08",
       "album": {
         "name": "Wishing You Hell",
@@ -111,22 +127,6 @@
       "duration_ms": 172480,
       "name": "STFU",
       "url": "https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39"
-    },
-    {
-      "added_at": "2023-01-20 00:00:00",
-      "album": {
-        "name": "cherry cigarettes",
-        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
-      },
-      "artists": [
-        {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "cherry cigarettes",
-      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Get Fucked",
-        "url": "https://open.spotify.com/album/2TgXc0KeZDRjb9AsnSED7M"
-      },
-      "artists": [
-        {
-          "name": "The Chats",
-          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
-        }
-      ],
-      "duration_ms": 125373,
-      "name": "6L GTR",
-      "url": "https://open.spotify.com/track/2mTppXqXhmlp08A8fwNSWm"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "Harder Than It Looks",
         "url": "https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 216474,
       "name": "Wake Me Up (When This Nightmare\u2019s Over)",
       "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Get Fucked",
+        "url": "https://open.spotify.com/album/2TgXc0KeZDRjb9AsnSED7M"
+      },
+      "artists": [
+        {
+          "name": "The Chats",
+          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
+        }
+      ],
+      "duration_ms": 125373,
+      "name": "6L GTR",
+      "url": "https://open.spotify.com/track/2mTppXqXhmlp08A8fwNSWm"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
     },
     {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
-        "name": "The King and Queen of Gasoline",
-        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 179175,
-      "name": "Teenage Runaways",
-      "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
-    },
-    {
       "added_at": "2023-01-20 00:00:00",
       "album": {
         "name": "Ferrari",
@@ -307,6 +291,22 @@
       "duration_ms": 162133,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "The King and Queen of Gasoline",
+        "url": "https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 179175,
+      "name": "Teenage Runaways",
+      "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -341,22 +341,6 @@
       "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
     },
     {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
-        "name": "Diaspora Problems",
-        "url": "https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW"
-      },
-      "artists": [
-        {
-          "name": "Soul Glo",
-          "url": "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Gold Chain Punk (whogonbeatmyass?)",
-      "url": "https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR"
-    },
-    {
       "added_at": "2023-01-20 00:00:00",
       "album": {
         "name": "me vs me vs all of y'all",
@@ -371,6 +355,22 @@
       "duration_ms": 179506,
       "name": "me vs me vs all of y'all",
       "url": "https://open.spotify.com/track/0t7VlVRdaVBqH1p1UIPcrV"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Diaspora Problems",
+        "url": "https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW"
+      },
+      "artists": [
+        {
+          "name": "Soul Glo",
+          "url": "https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Gold Chain Punk (whogonbeatmyass?)",
+      "url": "https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -411,42 +411,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Here\u2019s What You Could Have Won",
-        "url": "https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        },
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "New England",
-      "url": "https://open.spotify.com/track/5zbKXMod7hqor3gJH72enV"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Silence Is Golden",
-      "url": "https://open.spotify.com/track/7m3Lu7PUKNDJ2HgvrAKME9"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "Tom in 03",
         "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
       },
@@ -467,6 +431,26 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
+        "name": "Here\u2019s What You Could Have Won",
+        "url": "https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        },
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "New England",
+      "url": "https://open.spotify.com/track/5zbKXMod7hqor3gJH72enV"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
         "name": "GENRELESS",
         "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 101650,
       "name": "COLD BEER",
       "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Silence Is Golden",
+      "url": "https://open.spotify.com/track/7m3Lu7PUKNDJ2HgvrAKME9"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "Girl God Gun",
         "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "I.N.V.U.",
-        "url": "https://open.spotify.com/album/27oTauaixYNCxN2LYHcz9v"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ"
       },
       "artists": [
         {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
         }
       ],
-      "duration_ms": 163560,
-      "name": "I.N.V.U.",
-      "url": "https://open.spotify.com/track/6qTagiSQjEcfpVm1NHJJEU"
+      "duration_ms": 233026,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -595,6 +579,22 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
+        "name": "I.N.V.U.",
+        "url": "https://open.spotify.com/album/27oTauaixYNCxN2LYHcz9v"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "I.N.V.U.",
+      "url": "https://open.spotify.com/track/6qTagiSQjEcfpVm1NHJJEU"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
         "name": "Expert In A Dying Field",
         "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 219133,
       "name": "Knees Deep",
       "url": "https://open.spotify.com/track/6QZ5TAWM48V8b6pkwByX5k"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
-        "name": "Bye Bye Big Bear",
-        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 176902,
-      "name": "Bye Bye Big Bear",
-      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -647,6 +631,22 @@
       "duration_ms": 141352,
       "name": "AFTER THERAPY (feat. Hot Mulligan)",
       "url": "https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Bye Bye Big Bear",
+        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 176902,
+      "name": "Bye Bye Big Bear",
+      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Marching Powder",
-        "url": "https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g"
-      },
-      "artists": [
-        {
-          "name": "Hyphen",
-          "url": "https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi"
-        }
-      ],
-      "duration_ms": 125937,
-      "name": "Marching Powder",
-      "url": "https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 199133,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Marching Powder",
+        "url": "https://open.spotify.com/album/4szROdsy1D6xsuPIa71T6g"
+      },
+      "artists": [
+        {
+          "name": "Hyphen",
+          "url": "https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi"
+        }
+      ],
+      "duration_ms": 125937,
+      "name": "Marching Powder",
+      "url": "https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Ghost Brigade",
-        "url": "https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn"
-      },
-      "artists": [
-        {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
-        }
-      ],
-      "duration_ms": 224687,
-      "name": "Ghost Brigade",
-      "url": "https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "Love Me Forever",
         "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 202624,
       "name": "BURN THE WITCH",
       "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Ghost Brigade",
+        "url": "https://open.spotify.com/album/54LUC08HR95BMdbH4v7MVn"
+      },
+      "artists": [
+        {
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+        }
+      ],
+      "duration_ms": 224687,
+      "name": "Ghost Brigade",
+      "url": "https://open.spotify.com/track/1Sf0SsvcLIhVlfKUg3L2Jd"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Taste the Money",
-        "url": "https://open.spotify.com/album/3bwDKAW6IgigIg1cfUBMQX"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 155978,
-      "name": "Taste the Money",
-      "url": "https://open.spotify.com/track/44x9fOlJM1CNDIBpOOEJIq"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "Congregation",
         "url": "https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "TNSW",
-        "url": "https://open.spotify.com/album/0yqxysPGRWAWR2H6sqIFUb"
+        "name": "Taste the Money",
+        "url": "https://open.spotify.com/album/3bwDKAW6IgigIg1cfUBMQX"
       },
       "artists": [
         {
-          "name": "These New South Whales",
-          "url": "https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4"
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
         }
       ],
-      "duration_ms": 230857,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/6m4BBz6Ui5oQKXNmiy1QOg"
+      "duration_ms": 155978,
+      "name": "Taste the Money",
+      "url": "https://open.spotify.com/track/44x9fOlJM1CNDIBpOOEJIq"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -907,22 +891,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Happiness 4 Dummies",
-        "url": "https://open.spotify.com/album/7mSqGeFRzvBcjywz52XY6N"
-      },
-      "artists": [
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 159117,
-      "name": "Happiness 4 Dummies",
-      "url": "https://open.spotify.com/track/0WKZtlkkgK44fVSrP75EO2"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "Night Gnomes",
         "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
       },
@@ -935,6 +903,38 @@
       "duration_ms": 190543,
       "name": "Bubblegum Infinity",
       "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "TNSW",
+        "url": "https://open.spotify.com/album/0yqxysPGRWAWR2H6sqIFUb"
+      },
+      "artists": [
+        {
+          "name": "These New South Whales",
+          "url": "https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4"
+        }
+      ],
+      "duration_ms": 230857,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/6m4BBz6Ui5oQKXNmiy1QOg"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Happiness 4 Dummies",
+        "url": "https://open.spotify.com/album/7mSqGeFRzvBcjywz52XY6N"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 159117,
+      "name": "Happiness 4 Dummies",
+      "url": "https://open.spotify.com/track/0WKZtlkkgK44fVSrP75EO2"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -995,50 +995,18 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Most Normal",
-        "url": "https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0"
+        "name": "SELF-SABOTAGE (MC4D Remix)",
+        "url": "https://open.spotify.com/album/48OpJKI9yOfcynQX2mpkN3"
       },
       "artists": [
         {
-          "name": "Gilla Band",
-          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
         }
       ],
-      "duration_ms": 140543,
-      "name": "Eight Fivers",
-      "url": "https://open.spotify.com/track/5qEck6ZfHkjlkEKcHOxubq"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
-        "name": "HAPPY",
-        "url": "https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie"
-      },
-      "artists": [
-        {
-          "name": "Sl\u00f8tface",
-          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
-        }
-      ],
-      "duration_ms": 147378,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
-        "name": "Growing Up",
-        "url": "https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 142124,
-      "name": "Talking To Myself",
-      "url": "https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x"
+      "duration_ms": 157053,
+      "name": "SELF-SABOTAGE",
+      "url": "https://open.spotify.com/track/34KYsYoTRXMU0MBcfBvJha"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -1055,6 +1023,38 @@
       "duration_ms": 196000,
       "name": "Little Fix",
       "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Most Normal",
+        "url": "https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "duration_ms": 140543,
+      "name": "Eight Fivers",
+      "url": "https://open.spotify.com/track/5qEck6ZfHkjlkEKcHOxubq"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 142124,
+      "name": "Talking To Myself",
+      "url": "https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
+        "name": "HAPPY",
+        "url": "https://open.spotify.com/album/2BaEVtgFlWOtqz0jtMiVie"
+      },
+      "artists": [
+        {
+          "name": "Sl\u00f8tface",
+          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
+        }
+      ],
+      "duration_ms": 147378,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/2uLJFEi6rax0x23xZrFyHC"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
         "name": "Ain't No Thief",
         "url": "https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w"
       },
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "THE UNRAVELING OF PUPTHEBAND",
-        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 274386,
-      "name": "Relentless",
-      "url": "https://open.spotify.com/track/1wnRNsHtySQZZYsvLs8tJx"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "Waste",
         "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 186996,
       "name": "Waste",
       "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "THE UNRAVELING OF PUPTHEBAND",
+        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 274386,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/1wnRNsHtySQZZYsvLs8tJx"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
-        "name": "Troglodyte",
-        "url": "https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 199732,
-      "name": "Troglodyte",
-      "url": "https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
         "name": "Rob the Supermarket",
         "url": "https://open.spotify.com/album/5v6y4D4NWc0j7teG6ZJO9h"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 134640,
       "name": "Rob the Supermarket",
       "url": "https://open.spotify.com/track/2fNNsux1O634IqSVMVzoMJ"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Troglodyte",
+        "url": "https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 199732,
+      "name": "Troglodyte",
+      "url": "https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -1255,6 +1271,22 @@
     {
       "added_at": "2023-01-18 13:53:08",
       "album": {
+        "name": "Theme New Bond Junior",
+        "url": "https://open.spotify.com/album/2umO2RvsX15NOzjeBluuEx"
+      },
+      "artists": [
+        {
+          "name": "JOHN (TIMESTWO)",
+          "url": "https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI"
+        }
+      ],
+      "duration_ms": 196549,
+      "name": "Theme New Bond Junior",
+      "url": "https://open.spotify.com/track/3QSLPOHU1HivuqFIdgMrCT"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
         "name": "How Does It Feel?",
         "url": "https://open.spotify.com/album/6pQXmyYZy2SBDwc4h8EZji"
       },
@@ -1267,6 +1299,22 @@
       "duration_ms": 95220,
       "name": "How Does It Feel?",
       "url": "https://open.spotify.com/track/36Bf1RIqi0QbYiX8QEQmfZ"
+    },
+    {
+      "added_at": "2023-01-18 13:53:08",
+      "album": {
+        "name": "Reset My Password",
+        "url": "https://open.spotify.com/album/5dj8uEetIgU9k9GSTTyYdB"
+      },
+      "artists": [
+        {
+          "name": "Public Body",
+          "url": "https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X"
+        }
+      ],
+      "duration_ms": 170028,
+      "name": "Reset My Password",
+      "url": "https://open.spotify.com/track/7GipCwr5UKD9qtjr15UBMz"
     },
     {
       "added_at": "2023-01-18 13:53:08",
@@ -1287,54 +1335,6 @@
       "duration_ms": 170716,
       "name": "Deadzone",
       "url": "https://open.spotify.com/track/3wnVGG4XF8VbhdfvY8hd1F"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
-        "name": "Silver Linings (Deluxe)",
-        "url": "https://open.spotify.com/album/01qHqKXqAp9103BTmj4J1A"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 161331,
-      "name": "No One to Judge Me",
-      "url": "https://open.spotify.com/track/3caRPcZ7eOYhxvgIsiVEQe"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
-        "name": "All Time Low",
-        "url": "https://open.spotify.com/album/3b7ouHo79oaBpEnrI2BHqx"
-      },
-      "artists": [
-        {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
-        }
-      ],
-      "duration_ms": 156248,
-      "name": "All Time Low",
-      "url": "https://open.spotify.com/track/2doVrBF6j5OVmMLBRUUlY1"
-    },
-    {
-      "added_at": "2023-01-18 13:53:08",
-      "album": {
-        "name": "Reset My Password",
-        "url": "https://open.spotify.com/album/5dj8uEetIgU9k9GSTTyYdB"
-      },
-      "artists": [
-        {
-          "name": "Public Body",
-          "url": "https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X"
-        }
-      ],
-      "duration_ms": 170028,
-      "name": "Reset My Password",
-      "url": "https://open.spotify.com/track/7GipCwr5UKD9qtjr15UBMz"
     }
   ],
   "unique_name": "The Punk List",

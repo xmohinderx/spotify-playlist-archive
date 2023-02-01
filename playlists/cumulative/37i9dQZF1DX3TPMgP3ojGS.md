@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,640 songs - 3 day 1 hr 54 min
+1,641 songs - 3 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,7 +511,7 @@
 | [For You And Me](https://open.spotify.com/track/2i5G6S8wSEB5MlRSIaNGPK) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Daybreak](https://open.spotify.com/album/59WE3TAONWNejSOH1LEBFW) | 2:50 | 2021-04-29 | 2021-04-30 |
 | [Forelsket](https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9) | [Idun Vinter](https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m) | [Forelsket](https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N) | 2:50 | 2021-04-21 | 2022-07-29 |
 | [Forest Of The Sea](https://open.spotify.com/track/18XxOa8SPu0Y2BdOUQ9JlT) | [Bud Hollister](https://open.spotify.com/artist/2KNnryBXenJY1qfFA1N19F) | [Forest Of The Sea](https://open.spotify.com/album/5kBpYfSfxaxZFkpi78LhqS) | 2:47 | 2022-03-29 | 2022-04-04 |
-| [Forever](https://open.spotify.com/track/4EZtXiZ3PdrGxTQ43WLhub) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Forever](https://open.spotify.com/album/0yMEcM0YNb1hfPvZtnSnbY) | 2:11 | 2022-12-22 |  |
+| [Forever](https://open.spotify.com/track/4EZtXiZ3PdrGxTQ43WLhub) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Forever](https://open.spotify.com/album/0yMEcM0YNb1hfPvZtnSnbY) | 2:11 | 2022-12-22 | 2023-02-01 |
 | [Forever](https://open.spotify.com/track/5mmi2mGW8HnDakuKcWbokJ) | [Lynn Offerman](https://open.spotify.com/artist/0VoEYjfVXAH1XJpOOI5sVL) | [Forever](https://open.spotify.com/album/0tC2stoNlLYwGrqq2gseRx) | 3:20 | 2021-05-15 | 2021-05-16 |
 | [Forever](https://open.spotify.com/track/0PDPU0FvLXuOWRHN0uOV7t) | [Muriel Bardsley](https://open.spotify.com/artist/1Lzqsd4iWBfVbx2AiRP3xu) | [Forever](https://open.spotify.com/album/5JWJdnDPsOuf5aPWpqHIom) | 2:58 | 2022-03-29 | 2022-06-10 |
 | [Forever in your arms](https://open.spotify.com/track/5dbsWC1EVqbhHcRbJr4vjF) | [Sophie Nichols](https://open.spotify.com/artist/2Vud9HNRfM5SLNkqdmPUa3) | [Forever in your arms](https://open.spotify.com/album/55HHyCZLRi0RCo1qoBoJZV) | 2:46 | 2021-07-23 | 2022-07-18 |
@@ -921,6 +921,7 @@
 | [Morphée](https://open.spotify.com/track/2ewd25cXIdZvLxbgGh5eYA) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Automne](https://open.spotify.com/album/6KjNkS21n7ICAQRmUVrCK7) | 3:12 | 2021-12-13 | 2021-12-21 |
 | [Morro Da Saudade](https://open.spotify.com/track/4vXsKnpFye30mrSj3QqMjb) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ), [Bob Marconi](https://open.spotify.com/artist/3C0kjCJadbdNXJXJmjzEn5) | [Morro Da Saudade](https://open.spotify.com/album/5PwlrJ6yMoMPYvGBo0kzOw) | 2:49 | 2022-02-15 | 2022-07-22 |
 | [Most Wonderful Time Of The Year](https://open.spotify.com/track/7dI8S6I15B1VoKAAoHBKZ5) | [Andrew Billings](https://open.spotify.com/artist/1dmdQP2zEvRaMQiEaQFfJc) | [EP](https://open.spotify.com/album/5AndhwkQZOMBNMbDeVrAAV) | 2:13 | 2021-03-09 | 2022-04-14 |
+| [Motion](https://open.spotify.com/track/1ETktQHotqA5mRLE3ABnin) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Motion](https://open.spotify.com/album/0jyrfxsP4q6BGHSY03TOYw) | 3:17 | 2023-01-31 |  |
 | [Motion](https://open.spotify.com/track/4N0rvnoyl9WnxBUDgkYgKZ) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [SMM: Context](https://open.spotify.com/album/6wnAFp6Q1eobEPpT2izr1e) | 2:28 | 2021-04-27 | 2021-05-21 |
 | [Moving Forest](https://open.spotify.com/track/7xzeJbiPtEJY5aYqkB2fwY) | [Hultana](https://open.spotify.com/artist/0CBdXL77mOTeqHWtVcKsBo) | [Moving Forest](https://open.spotify.com/album/1wRozGRs0G4auZhSA4UseC) | 2:08 | 2021-03-08 | 2021-05-18 |
 | [Moving In The Wind](https://open.spotify.com/track/3lYLQFe88l5BRMpQP8zc4M) | [Kari Bin](https://open.spotify.com/artist/7wcpPMywMPB56Zl2L6XoRN) | [Moving In The Wind](https://open.spotify.com/album/0otYl4kmsYpcjodQ20sUXd) | 2:42 | 2021-04-27 | 2021-12-18 |

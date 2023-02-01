@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u845b\u8c37\u8449\u5b50",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: Uru",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 243473,
       "name": "CHERISH",
       "url": "https://open.spotify.com/track/3meFYMFEP0xmCc650Zef5Z"
@@ -4230,7 +4230,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 202856,
       "name": "Hurricanes",
       "url": "https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao"
@@ -6995,6 +6995,24 @@
     },
     {
       "album": {
+        "name": "Not Unusual",
+        "url": "https://open.spotify.com/album/6nbzkFwV8YIKs2FsGF7o8w"
+      },
+      "artists": [
+        {
+          "name": "Mao Abe",
+          "url": "https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275813,
+      "name": "Not Unusual",
+      "url": "https://open.spotify.com/track/3FgUONsyQoWWZWk4BtHVHk"
+    },
+    {
+      "album": {
         "name": "side_effects+.",
         "url": "https://open.spotify.com/album/4Jx3azXrVdoovOjAzU4eVJ"
       },
@@ -8022,7 +8040,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 214000,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/1jXTddZprrt32F0EncQAml"
@@ -10146,6 +10164,32 @@
       "duration_ms": 219666,
       "name": "Tsuki ga Namida o Nagasuyoru",
       "url": "https://open.spotify.com/track/2wiFirrejFmndoqcCupcmF"
+    },
+    {
+      "album": {
+        "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
+        "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "Candee",
+          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193039,
+      "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
+      "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
     },
     {
       "album": {
@@ -15096,7 +15140,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 163317,
       "name": "\u4e88\u611f",
       "url": "https://open.spotify.com/track/4tKrrFD7CQt8fPU7qUmV5E"
@@ -15392,7 +15436,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 300766,
       "name": "\u518d\u611b",
       "url": "https://open.spotify.com/track/61YMwu4Xg1nH1d5f0YrTBC"
@@ -17542,7 +17586,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 313586,
       "name": "\u660e\u65e5\u3078(25th ver.)",
       "url": "https://open.spotify.com/track/6b7YB76nUI7Y3CzkgQcnL3"
@@ -18229,6 +18273,28 @@
     },
     {
       "album": {
+        "name": "\u706f\u706b (feat. miida)",
+        "url": "https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "miida",
+          "url": "https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "\u706f\u706b (feat. miida)",
+      "url": "https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul"
+    },
+    {
+      "album": {
         "name": "BITEKI",
         "url": "https://open.spotify.com/album/6IryR0y7YeL11qhnXrwxkX"
       },
@@ -18745,6 +18811,24 @@
     },
     {
       "album": {
+        "name": "\u30d1\u30ec\u30fc\u30c9\u304c\u7d9a\u304f\u306a\u3089",
+        "url": "https://open.spotify.com/album/7bUwvfdHUBdgXcMhczN4nJ"
+      },
+      "artists": [
+        {
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268106,
+      "name": "\u79c1\u306e\u77b3\u306f\u9ed2\u3044\u8272",
+      "url": "https://open.spotify.com/track/3pZq5VOrxhinAoHRx4TLBt"
+    },
+    {
+      "album": {
         "name": "\u79c1\u306e\u9053",
         "url": "https://open.spotify.com/album/3037MI0SwWSB9r2WkxGzU0"
       },
@@ -19027,6 +19111,24 @@
     },
     {
       "album": {
+        "name": "\u30b3\u30f3\u30c8\u30e9\u30b9\u30c8(Special Edition)",
+        "url": "https://open.spotify.com/album/5M8td2xvD7Vg9FNAhEFJj1"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229613,
+      "name": "\u8131\u30fb\u501f\u308a\u3066\u304d\u305f\u732b\u75c7\u5019\u7fa4",
+      "url": "https://open.spotify.com/track/2TvslvlCJ0YVwQoAeMstDb"
+    },
+    {
+      "album": {
         "name": "\u821f",
         "url": "https://open.spotify.com/album/2Tk1eZ18JkT3AnSz12RYSJ"
       },
@@ -19078,6 +19180,24 @@
       "duration_ms": 227866,
       "name": "\u82b1\u306e\u3088\u3046\u306a\u541b\u306b",
       "url": "https://open.spotify.com/track/29geMcY7wkOXI06iJM7fZD"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u306e\u3088\u3046\u306b",
+        "url": "https://open.spotify.com/album/4jzZEVYr06aWFxkfjnT83u"
+      },
+      "artists": [
+        {
+          "name": "Anna",
+          "url": "https://open.spotify.com/artist/2qxX52n1AFzz6SnF76260y"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248809,
+      "name": "\u82b1\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/5DvmqgXR9UOK6YyOqpIFce"
     },
     {
       "album": {

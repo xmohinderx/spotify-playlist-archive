@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-967 songs - 2 day 2 hr 49 min
+968 songs - 2 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [High Fashion](https://open.spotify.com/track/5igXllDtxviBlTGn4cawA5) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [INTET TIL ALT](https://open.spotify.com/album/5wagiEPQo04yRElo1K9iql) | 2:16 | 2022-02-19 | 2022-03-12 |
 | [Higher Love](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:48 | 2022-01-01 | 2023-01-03 |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2021-05-09 | 2021-05-10 |
-| [hjem fra fabrikken](https://open.spotify.com/track/5Mx9Hf6G4nZoTp5Ll9AH73) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [hjem fra fabrikken](https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd) | 3:28 | 2022-03-05 |  |
+| [hjem fra fabrikken](https://open.spotify.com/track/5Mx9Hf6G4nZoTp5Ll9AH73) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [hjem fra fabrikken](https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd) | 3:28 | 2022-03-05 | 2023-02-01 |
 | [Hjertebrand](https://open.spotify.com/track/5KkDRxYg3a6s8P5fSAkSnW) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[α\]](https://open.spotify.com/album/5V0uzO6f7OAkHTuxkFKaK8) | 4:02 | 2022-10-01 | 2022-10-23 |
 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2022-05-16 | 2022-05-18 |
 | [Hold Me Closer](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Lockdown Sessions](https://open.spotify.com/album/3O52AkvWUCF7MfkfLfnobb) | 3:22 | 2022-09-03 | 2022-09-27 |
@@ -748,6 +748,7 @@
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/5gpImN0eqlucE3a3r121SF) | [Mel & Kim](https://open.spotify.com/artist/5XnIjshjqYVE2eDVgSt9Ro) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/73V5nh5BvwqITIDTz3PSzU) | 3:43 | 2021-11-28 | 2022-12-29 |
 | [Romario](https://open.spotify.com/track/6ejgerCt5BrDM0IMAXRulu) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 2:54 | 2022-10-15 | 2022-10-19 |
 | [Romario](https://open.spotify.com/track/7DzV3IBvCHicokoiUCpWda) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz) | 2:54 | 2022-10-18 |  |
+| [Rose](https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[β\]](https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF) | 4:13 | 2023-01-31 |  |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2022-01-01 | 2022-01-03 |
 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 | 2021-08-15 | 2021-08-22 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-31 | 2022-09-04 |

@@ -4,7 +4,7 @@
 
 > La crème de la crème of Montréal's music scene\. Photo: Thierry Larose
 
-259 songs - 15 hr 5 min
+260 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Moonlight](https://open.spotify.com/track/5dxEhB44z5XTb0joVixdiT) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Speed of Life](https://open.spotify.com/album/3S53ToWucIjjYRfJoIEKaO) | 3:14 | 2022-03-25 | 2022-05-14 |
 | [moving song](https://open.spotify.com/track/1PZl6YAnHPyR2wcloffA7R) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [moving song](https://open.spotify.com/album/5wIrtoTzqzi4gx8zyXkZWh) | 2:45 | 2022-07-15 |  |
 | [Mélodie](https://open.spotify.com/track/5WtVhKKPkobhT9K1ddMBpH) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Mélodie / Rodeo](https://open.spotify.com/album/5y4jwPzUYpj75kbgcBt00j) | 2:30 | 2022-03-25 | 2022-05-28 |
+| [Neon](https://open.spotify.com/track/2M2MpJLcjmuXYDbFrA8OoE) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m) | [Flickering Lights](https://open.spotify.com/album/6w8iEyywSIzRUayxEjr9JC) | 3:16 | 2023-01-30 |  |
 | [Neuf à cinq](https://open.spotify.com/track/5JCR88ZFSvTaackes4UtEX) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Vie d'ange](https://open.spotify.com/album/02sz0knMpefNYQB2vYLthH) | 3:21 | 2022-07-15 | 2022-10-29 |
 | [NHFN](https://open.spotify.com/track/2ktmOeCr1RVJaZ6a6LN9mq) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [NHFN](https://open.spotify.com/album/5cSsUduepwm1Ry9nKx9WAA) | 4:13 | 2022-03-25 |  |
 | [Nice Try](https://open.spotify.com/track/1GpO5QsqiygENVH6BsaBKd) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Nice Try](https://open.spotify.com/album/7CHVlF6ujKzqyOptogNiOV) | 3:22 | 2022-06-03 | 2022-07-02 |

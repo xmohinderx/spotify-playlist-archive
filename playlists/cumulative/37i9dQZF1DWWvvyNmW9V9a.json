@@ -11071,6 +11071,24 @@
     },
     {
       "album": {
+        "name": "What You Need",
+        "url": "https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV"
+      },
+      "artists": [
+        {
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196470,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW"
+    },
+    {
+      "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },

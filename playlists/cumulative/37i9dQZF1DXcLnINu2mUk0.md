@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro.
 
-196 songs - 10 hr 44 min
+197 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [469](https://open.spotify.com/track/5izsIQaHmew3R2dzySz0EG) | [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [469](https://open.spotify.com/album/0688sP9kWJoNixqn9h0IN3) | 2:55 | 2022-08-04 | 2022-09-02 |
 | [5MINUTES](https://open.spotify.com/track/4f96bCyt3UILSEJbfBUMqg) | [Extrazen](https://open.spotify.com/artist/2PcroavCL0hrKcRgRUGa7O), [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [5MINUTES](https://open.spotify.com/album/26VyhByd0y1RsgrYus5bOz) | 3:08 | 2022-07-07 | 2022-08-19 |
 | [Acabar mal](https://open.spotify.com/track/67E0HoObbP1fReMzWihfye) | [Roley](https://open.spotify.com/artist/3PGL3pitV1oSwtjqZZJrMh), [Vi Ci](https://open.spotify.com/artist/70u6V1hQWgLW5aBLvabc3X), [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g) | [Acabar mal](https://open.spotify.com/album/0UcqcXheDTaE2GuMNGs4dv) | 2:45 | 2023-01-06 | 2023-01-27 |
+| [Acabou](https://open.spotify.com/track/5SEOGckgCJWuW8WDU5qErN) | [MEGGY](https://open.spotify.com/artist/0m73zM9yC3JpNhZzlX0LKd), [Joy Jnr](https://open.spotify.com/artist/3xVHVIM2m0H7iUBrjsthJt) | [Acabou](https://open.spotify.com/album/2RuAdyanGxaf5nqKzEBykr) | 3:32 | 2023-01-27 |  |
 | [Acalma a Alma](https://open.spotify.com/track/0iflJ9xdeYbwgDwzx6PqUW) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Acalma a Alma](https://open.spotify.com/album/4LtGjHnhhSqKbPQsD6sXDB) | 2:40 | 2023-01-20 |  |
 | [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 | 2022-12-02 | 2022-12-13 |
 | [AGORA NAW](https://open.spotify.com/track/6fvEKv2cUPOGkhEgrfUZtc) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [AGORA NAW](https://open.spotify.com/album/26cFeiHhHMIUHAaOohOjNx) | 2:55 | 2023-01-20 |  |
@@ -83,7 +84,7 @@
 | [Going Now](https://open.spotify.com/track/5UV8AqgYXjTn1T9RFxXsm7) | [Fenzil Ferreira](https://open.spotify.com/artist/5CJIUlZZ22FVlDmaRzozSJ) | [Drama](https://open.spotify.com/album/6qInMSJMIQMkUNZkICKUDd) | 3:20 | 2022-10-06 | 2022-10-28 |
 | [Gravidade Zero](https://open.spotify.com/track/4CPBgtJlRGtq36zNoS4FnW) | [Domi](https://open.spotify.com/artist/7FaGlrXXBuq0XrlerWfI3n) | [Gravidade Zero](https://open.spotify.com/album/1VQeGBvu1rCtWl2pR1SuEc) | 3:04 | 2023-01-27 |  |
 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 | 2022-07-07 |  |
-| [Hoje É Hoje](https://open.spotify.com/track/09qXUaqRkgQ7xptGv6UVcF) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Hoje É Hoje](https://open.spotify.com/album/6VOHpuwtu4j9e8jttUwrOL) | 2:51 | 2023-01-27 |  |
+| [Hoje É Hoje](https://open.spotify.com/track/09qXUaqRkgQ7xptGv6UVcF) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Hoje É Hoje](https://open.spotify.com/album/6VOHpuwtu4j9e8jttUwrOL) | 2:51 | 2023-01-27 | 2023-02-01 |
 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 | 2022-07-07 | 2022-12-02 |
 | [I Need a Lot](https://open.spotify.com/track/2YAH1cMAJ1wfqFebEciLrS) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [I Need a Lot](https://open.spotify.com/album/5rUTN7yOxaClkr1vZmEjtw) | 3:52 | 2023-01-20 |  |
 | [IBC](https://open.spotify.com/track/03jCCoBVLfE3uz0rIeQHwS) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [IBC](https://open.spotify.com/album/5uzZIVVjB9Rwk87pNnyRuP) | 4:06 | 2022-08-18 | 2022-09-17 |

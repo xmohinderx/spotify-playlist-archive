@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 70s.
 
-130 songs - 8 hr 29 min
+131 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,12 +121,13 @@
 | [Tiny Dancer \- Remastered](https://open.spotify.com/track/5fP7YHDNkIwh3F7zPPgEdB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/3kUqS4YNcnNNlYoUMAeqNB) | 6:15 | 2020-09-04 | 2022-07-29 |
 | [Two Of Us \- Remastered 2009](https://open.spotify.com/track/0CaBBQsaAiRHhiLmzi7ZRp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:36 | 2020-09-04 | 2022-02-20 |
 | [Ventura Highway](https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [Homecoming](https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um) | 3:31 | 2022-05-09 | 2022-11-13 |
+| [Walk This Way](https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 3:40 | 2022-06-08 |  |
 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 | 2022-06-08 | 2023-01-14 |
 | [Waterloo](https://open.spotify.com/track/2vMQmBmcmFsdLQQgXl3PtE) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo \(Deluxe Edition\)](https://open.spotify.com/album/4hHXvnHGn6pmHhdnnmNdmn) | 2:46 | 2020-09-04 | 2022-07-24 |
 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 | 2020-09-04 |  |
 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 | 2020-09-04 |  |
 | [What I Like About You](https://open.spotify.com/track/6NdcSEhpGGAYXNnnhGS2s6) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [What I Like About You \(And Other Romantic Hits\)](https://open.spotify.com/album/5ZwUOFZdWQ81RYMwXc4j3B) | 2:55 | 2020-09-04 | 2022-07-29 |
-| [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2022-06-08 |  |
+| [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2022-06-08 | 2023-02-01 |
 | [You \- Remastered](https://open.spotify.com/track/1qUMlhIIXfUUJ2LLNZc7DY) | [Marcia Hines](https://open.spotify.com/artist/7pUbbv62ajr1JDVFaftZJT) | [The Essential](https://open.spotify.com/album/3OWloNx2gY95VXXpotMvky) | 3:12 | 2020-09-04 | 2022-02-14 |
 | [You Ain't Seen Nothing Yet](https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Not Fragile](https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1) | 3:54 | 2020-09-04 |  |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 | 2022-06-08 |  |

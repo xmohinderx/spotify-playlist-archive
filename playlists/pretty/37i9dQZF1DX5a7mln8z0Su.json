@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5074,
+  "num_followers": 5096,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzNTY2NiwwMDAwMDAwMDRiMzMzMDI1N2M2YjM3OTJjOWM5YzMwMTk0YTQ2NjZj",
+  "snapshot_id": "MTY3NDYzNTY2NiwwMDAwMDAwMDJkZjNhMDc2YjEzNWQyMzYzMDY3OGUxNzUzNThmNTg3",
   "tracks": [
     {
       "added_at": "2023-01-13 04:06:07",
@@ -131,6 +131,22 @@
     {
       "added_at": "2023-01-13 04:06:07",
       "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 235562,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
+    },
+    {
+      "added_at": "2023-01-13 04:06:07",
+      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
       },
@@ -163,18 +179,18 @@
     {
       "added_at": "2023-01-13 04:06:07",
       "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
         }
       ],
-      "duration_ms": 235562,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
+      "duration_ms": 195040,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
     },
     {
       "added_at": "2023-01-13 04:06:07",
@@ -195,22 +211,6 @@
       "duration_ms": 202840,
       "name": "That's Why I Can't Talk About Love (Feat. Woo)",
       "url": "https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ"
-    },
-    {
-      "added_at": "2023-01-13 04:06:07",
-      "album": {
-        "name": "Heart Burn",
-        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
     },
     {
       "added_at": "2023-01-13 04:06:07",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-13 04:06:07",
       "album": {
-        "name": "BOKE",
-        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 184510,
-      "name": "BOKE",
-      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
-    },
-    {
-      "added_at": "2023-01-13 04:06:07",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 213377,
       "name": "Thief (Feat. MINNIE of (G)I-DLE)",
       "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
+    },
+    {
+      "added_at": "2023-01-13 04:06:07",
+      "album": {
+        "name": "BOKE",
+        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "BOKE",
+      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
     },
     {
       "added_at": "2023-01-13 04:06:07",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-01-13 04:06:07",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3"
-      },
-      "artists": [
-        {
-          "name": "YURA",
-          "url": "https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6"
-        }
-      ],
-      "duration_ms": 233059,
-      "name": "Pearl",
-      "url": "https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q"
-    },
-    {
-      "added_at": "2023-01-13 04:06:07",
-      "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 177946,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
+    },
+    {
+      "added_at": "2023-01-13 04:06:07",
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3"
+      },
+      "artists": [
+        {
+          "name": "YURA",
+          "url": "https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6"
+        }
+      ],
+      "duration_ms": 233059,
+      "name": "Pearl",
+      "url": "https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q"
     },
     {
       "added_at": "2023-01-13 04:06:07",
@@ -379,18 +379,22 @@
     {
       "added_at": "2023-01-13 04:06:07",
       "album": {
-        "name": "Space science",
-        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
       "artists": [
         {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
         }
       ],
-      "duration_ms": 233170,
-      "name": "Space science",
-      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
+      "duration_ms": 191191,
+      "name": "Distance (Feat. I.M of MONSTA X)",
+      "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
     },
     {
       "added_at": "2023-01-13 04:06:07",
@@ -415,22 +419,18 @@
     {
       "added_at": "2023-01-13 04:06:07",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+        "name": "Space science",
+        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
         }
       ],
-      "duration_ms": 191191,
-      "name": "Distance (Feat. I.M of MONSTA X)",
-      "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
+      "duration_ms": 233170,
+      "name": "Space science",
+      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
     },
     {
       "added_at": "2023-01-13 04:06:07",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-01-13 04:06:07",
       "album": {
-        "name": "Letter",
-        "url": "https://open.spotify.com/album/31HW8lgaLvAbWAAyGENFG5"
-      },
-      "artists": [
-        {
-          "name": "DaNTe'",
-          "url": "https://open.spotify.com/artist/3qopEpowoNJPXRiFeEi6Qm"
-        }
-      ],
-      "duration_ms": 222697,
-      "name": "Letter",
-      "url": "https://open.spotify.com/track/3mim8OzDtQI1nNdhpvIHOk"
-    },
-    {
-      "added_at": "2023-01-13 04:06:07",
-      "album": {
         "name": "Mondegreen",
         "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 199186,
       "name": "Blanche",
       "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
+    },
+    {
+      "added_at": "2023-01-13 04:06:07",
+      "album": {
+        "name": "Letter",
+        "url": "https://open.spotify.com/album/31HW8lgaLvAbWAAyGENFG5"
+      },
+      "artists": [
+        {
+          "name": "DaNTe'",
+          "url": "https://open.spotify.com/artist/3qopEpowoNJPXRiFeEi6Qm"
+        }
+      ],
+      "duration_ms": 222697,
+      "name": "Letter",
+      "url": "https://open.spotify.com/track/3mim8OzDtQI1nNdhpvIHOk"
     },
     {
       "added_at": "2023-01-13 04:06:07",
@@ -709,6 +709,22 @@
       "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
     },
     {
+      "added_at": "2023-02-01 01:31:56",
+      "album": {
+        "name": "BURN-OUT",
+        "url": "https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof"
+      },
+      "artists": [
+        {
+          "name": "FRIDA-ANNE",
+          "url": "https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr"
+        }
+      ],
+      "duration_ms": 156984,
+      "name": "BURN-OUT",
+      "url": "https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1"
+    },
+    {
       "added_at": "2023-01-13 04:06:07",
       "album": {
         "name": "WATERFALL",
@@ -723,22 +739,6 @@
       "duration_ms": 191793,
       "name": "Then",
       "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
-    },
-    {
-      "added_at": "2023-01-13 04:06:07",
-      "album": {
-        "name": "Kangaroo",
-        "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 225903,
-      "name": "Kangaroo",
-      "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
     },
     {
       "added_at": "2023-01-13 04:06:07",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-01-13 04:06:07",
       "album": {
+        "name": "Kangaroo",
+        "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 225903,
+      "name": "Kangaroo",
+      "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
+    },
+    {
+      "added_at": "2023-01-13 04:06:07",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -791,6 +807,42 @@
       "duration_ms": 202120,
       "name": "Love is alone",
       "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
+    },
+    {
+      "added_at": "2023-02-01 01:31:56",
+      "album": {
+        "name": "Last Night (feat. DD7)",
+        "url": "https://open.spotify.com/album/7JB7EethPMOt7poXCu6deW"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        },
+        {
+          "name": "DD7",
+          "url": "https://open.spotify.com/artist/0MR1fsOlxLYyx4CQaiM230"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "Last Night (feat. DD7)",
+      "url": "https://open.spotify.com/track/4Foe7qi4PvNYWDGT50Np8c"
+    },
+    {
+      "added_at": "2023-02-01 01:31:56",
+      "album": {
+        "name": "I Mean You",
+        "url": "https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo"
+      },
+      "artists": [
+        {
+          "name": "Diana",
+          "url": "https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E"
+        }
+      ],
+      "duration_ms": 195150,
+      "name": "I Mean You",
+      "url": "https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI"
     },
     {
       "added_at": "2023-01-13 04:06:07",
@@ -843,58 +895,6 @@
       "duration_ms": 226866,
       "name": "Room for You (Feat. 10CM)",
       "url": "https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM"
-    },
-    {
-      "added_at": "2023-01-13 04:06:07",
-      "album": {
-        "name": "Sool",
-        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
-      },
-      "artists": [
-        {
-          "name": "snzae",
-          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
-        },
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Sool (Feat. THAMA)",
-      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
-    },
-    {
-      "added_at": "2023-01-13 04:06:07",
-      "album": {
-        "name": "#mood",
-        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "#mood",
-      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
-    },
-    {
-      "added_at": "2023-01-30 01:20:13",
-      "album": {
-        "name": "BURN-OUT",
-        "url": "https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof"
-      },
-      "artists": [
-        {
-          "name": "FRIDA-ANNE",
-          "url": "https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr"
-        }
-      ],
-      "duration_ms": 156984,
-      "name": "BURN-OUT",
-      "url": "https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

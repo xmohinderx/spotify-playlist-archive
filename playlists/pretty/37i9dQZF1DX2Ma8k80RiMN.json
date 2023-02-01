@@ -1,12 +1,12 @@
 {
   "description": "Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.",
-  "num_followers": 1362311,
+  "num_followers": 1362510,
   "original_name": "The Sweet Suite",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzU3NDUwMSwwMDAwMDAwMGZkYTM4MjVjMjZmYzU5ZmUzYTMzYTQ0NzA0ZGJkMmEx",
+  "snapshot_id": "MTY2NzU3NDUwMSwwMDAwMDAwMDQxM2VkYzY4Y2RkZDBhMDA4OTAzZjhhNWQyMGNhZDFm",
   "tracks": [
     {
       "added_at": "2022-03-14 19:51:21",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-03-14 19:51:21",
       "album": {
-        "name": "Blackstreet",
-        "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
-      },
-      "artists": [
-        {
-          "name": "Blackstreet",
-          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
-        }
-      ],
-      "duration_ms": 299800,
-      "name": "Before I Let You Go",
-      "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
-    },
-    {
-      "added_at": "2022-03-14 19:51:21",
-      "album": {
         "name": "Sweet Love",
         "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 262266,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
+    },
+    {
+      "added_at": "2022-03-14 19:51:21",
+      "album": {
+        "name": "Blackstreet",
+        "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
+      },
+      "artists": [
+        {
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+        }
+      ],
+      "duration_ms": 299800,
+      "name": "Before I Let You Go",
+      "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
     },
     {
       "added_at": "2022-03-14 19:51:21",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-03-14 19:51:21",
       "album": {
-        "name": "Faithfully",
-        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 267160,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
-    },
-    {
-      "added_at": "2022-03-14 19:51:21",
-      "album": {
         "name": "Chillin'",
         "url": "https://open.spotify.com/album/1UIA4LOQQjE6PwiOo6MMDR"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2022-03-14 19:51:21",
       "album": {
-        "name": "Blind Man",
-        "url": "https://open.spotify.com/album/5CN0cIlAqXEKvG46FEHp0X"
+        "name": "Faithfully",
+        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
       },
       "artists": [
         {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 242195,
-      "name": "Blind Man",
-      "url": "https://open.spotify.com/track/0DQQRJ4sR3pxwom9L7D7QR"
+      "duration_ms": 267160,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
     },
     {
       "added_at": "2022-03-14 19:51:21",
@@ -507,6 +491,22 @@
       "duration_ms": 325493,
       "name": "Close the Door",
       "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
+    },
+    {
+      "added_at": "2022-03-14 19:51:21",
+      "album": {
+        "name": "Blind Man",
+        "url": "https://open.spotify.com/album/5CN0cIlAqXEKvG46FEHp0X"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 242195,
+      "name": "Blind Man",
+      "url": "https://open.spotify.com/track/0DQQRJ4sR3pxwom9L7D7QR"
     },
     {
       "added_at": "2022-03-14 19:51:21",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-03-14 19:51:21",
       "album": {
+        "name": "Identify Yourself",
+        "url": "https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 366226,
+      "name": "Forever Mine",
+      "url": "https://open.spotify.com/track/2X4H5K1aT6d7UyPWVfJWmF"
+    },
+    {
+      "added_at": "2022-03-14 19:51:21",
+      "album": {
         "name": "Tony Terry",
         "url": "https://open.spotify.com/album/0RRdCAkHE6wCQLsAGJ9cqM"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 305826,
       "name": "With You",
       "url": "https://open.spotify.com/track/1l69V1gBVRN02Hgt7a7sqt"
-    },
-    {
-      "added_at": "2022-03-14 19:51:21",
-      "album": {
-        "name": "Gumbo",
-        "url": "https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 233056,
-      "name": "First Began",
-      "url": "https://open.spotify.com/track/3ht2PBKbkqSJ0XEkQuNHnZ"
     }
   ],
   "unique_name": "The Sweet Suite",

@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, zeta\)
 
-176 songs - 7 hr 53 min
+177 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Attacco di Panico](https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Attacco di Panico](https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli) | 2:25 | 2022-09-29 |  |
 | [au revoir \(feat\. Dreno & Naver\)](https://open.spotify.com/track/5R6CBDrtdq73zYmSs3BgTR) | [Dr\. Wesh](https://open.spotify.com/artist/5qTA5yhqkIYIwFNwdCLFP0), [Naver](https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep), [Dreno](https://open.spotify.com/artist/2fUb7chMl4K5DQ3NwX2GgW) | [au revoir \(feat\. Dreno & Naver\)](https://open.spotify.com/album/1StOOfB2TRMIYzHQaq6kNU) | 2:26 | 2022-12-05 |  |
 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 | 2022-04-21 |  |
-| [Autodistruzione](https://open.spotify.com/track/3IE4l7yd9Ez4a0XXjRvQDF) | [AUTOSTIMA](https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae) | [Autodistruzione](https://open.spotify.com/album/3Ul8ixMEyurYLf4y2qMDX1) | 2:34 | 2022-09-08 |  |
+| [Autodistruzione](https://open.spotify.com/track/3IE4l7yd9Ez4a0XXjRvQDF) | [AUTOSTIMA](https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae) | [Autodistruzione](https://open.spotify.com/album/3Ul8ixMEyurYLf4y2qMDX1) | 2:34 | 2022-09-08 | 2023-02-01 |
+| [Autodistruzione](https://open.spotify.com/track/6SRfmqEJXGnuqykKRQGc6O) | [AUTOSTIMA](https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae) | [Autodistruzione](https://open.spotify.com/album/1FggrSgxkyPSHqEKigxORk) | 2:34 | 2023-01-20 |  |
 | [Autopsia](https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Autopsia](https://open.spotify.com/album/01bwlYW15thIL49JrwibKC) | 3:28 | 2022-04-21 |  |
 | [Backstage](https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Gemini](https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK) | 3:00 | 2022-04-21 |  |
 | [Barbie](https://open.spotify.com/track/6FyL3LaA6KriOfgHJUnhVS) | [SHYGUY.OG](https://open.spotify.com/artist/5OGilC8ZDq4jiufxRylb0X) | [Barbie](https://open.spotify.com/album/7GJY1BE2OnuQBnWNvKHWJK) | 1:22 | 2022-06-23 | 2022-08-13 |

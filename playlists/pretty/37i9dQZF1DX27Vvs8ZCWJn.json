@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
-  "num_followers": 47491,
+  "num_followers": 47716,
   "original_name": "bohemia tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDQ1NTM0NywwMDAwMDAwMDU2ZmFlNzQ2NzllYWJkNTUzNzFjNTQ4NjYzZjYxNjM5",
+  "snapshot_id": "MTY0MDQ1NTM0NywwMDAwMDAwMGJiZmNmNmIxZmY1NWYzNDkxZTAxZGYzMzY2ZTcxMjUx",
   "tracks": [
     {
       "added_at": "2021-12-25 17:56:56",
@@ -91,6 +91,22 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
         "name": "Bacilos (Re-Issue)",
         "url": "https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 435493,
       "name": "Hasta Que Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Si t\u00fa no estas",
-      "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "Una Noche En Madrid",
         "url": "https://open.spotify.com/album/0rtsxbXUaH6OlDKiwwoMD8"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 263800,
       "name": "Si Te Pudiera Mentir - Live Version",
       "url": "https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Si t\u00fa no estas",
+      "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "Sentimientos",
         "url": "https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 210133,
       "name": "Vivir As\u00ed Es Morir de Amor",
       "url": "https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -415,18 +415,18 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Mocedades 5",
-        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
       },
       "artists": [
         {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 187000,
-      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
-      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
+      "duration_ms": 144632,
+      "name": "\u00d3leo de Mujer Con Sombrero",
+      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -447,18 +447,50 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+        "name": "Mocedades 5",
+        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
       },
       "artists": [
         {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
         }
       ],
-      "duration_ms": 144632,
-      "name": "\u00d3leo de Mujer Con Sombrero",
-      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
+      "duration_ms": 187000,
+      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
+      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Recuerdos II",
+        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 328320,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Yo, Mi, Me, Contigo",
+        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -483,22 +515,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Yo, Mi, Me, Contigo",
-        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 312560,
       "name": "Todo Se Derrumb\u00f3 Dentro de M\u00ed",
       "url": "https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Recuerdos II",
-        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 328320,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -595,38 +595,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Con Olor a Hierba",
-      "url": "https://open.spotify.com/track/30PNkwSPcer18CoQ8uyUct"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 110266,
-      "name": "Aquellas Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "Silvio",
         "url": "https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc"
       },
@@ -639,6 +607,22 @@
       "duration_ms": 336400,
       "name": "Qui\u00e9n Fuera",
       "url": "https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Con Olor a Hierba",
+      "url": "https://open.spotify.com/track/30PNkwSPcer18CoQ8uyUct"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -671,6 +655,22 @@
       "duration_ms": 278825,
       "name": "Yolanda",
       "url": "https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 110266,
+      "name": "Aquellas Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -739,34 +739,18 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
-        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
       "artists": [
         {
-          "name": "Manoella Torres",
-          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 196200,
-      "name": "Te Voy a Ense\u00f1ar a Querer",
-      "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Dedicado A Antonio Machado, Poeta",
-        "url": "https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Cantares",
-      "url": "https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ"
+      "duration_ms": 204533,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -787,18 +771,18 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Vida Loca",
-        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
+        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
       },
       "artists": [
         {
-          "name": "Francisco C\u00e9spedes",
-          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
+          "name": "Manoella Torres",
+          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
         }
       ],
-      "duration_ms": 204533,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr"
+      "duration_ms": 196200,
+      "name": "Te Voy a Ense\u00f1ar a Querer",
+      "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -815,6 +799,22 @@
       "duration_ms": 214573,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "16 Exitos De Oro",
+        "url": "https://open.spotify.com/album/7bwndiQmsxDxO4BE5OFdfb"
+      },
+      "artists": [
+        {
+          "name": "\u00d3scar Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/5yRsYFUzZma7IaXhROkuo8"
     }
   ],
   "unique_name": "bohemia tranqui",

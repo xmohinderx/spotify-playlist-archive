@@ -4,7 +4,7 @@
 
 > ¡Estos son los hits que acompañan el fin de año!
 
-322 songs - 18 hr 17 min
+323 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2022-10-22 |  |
 | [Pa Que](https://open.spotify.com/track/1Xeocn50sUEglN2083ISju) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Pa Que](https://open.spotify.com/album/1P1yzzemBtMqCRT9qKON0f) | 3:15 | 2022-08-12 | 2022-08-20 |
 | [Pa'lla Voy](https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh) | 4:06 | 2022-06-03 | 2022-07-22 |
+| [PANTIES Y BRASIERES](https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [PANTIES Y BRASIERES](https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf) | 3:17 | 2023-01-30 |  |
 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-06-03 |  |
 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 | 2022-06-03 |  |
 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 | 2022-06-03 |  |
@@ -327,7 +328,7 @@
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-06-03 |  |
 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 | 2022-08-12 |  |
 | [Yandel 150](https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Yandel 150](https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX) | 3:36 | 2022-12-24 |  |
-| [Yeska](https://open.spotify.com/track/1cOfhLKpYNsDgYNAKEQslR) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Yeska](https://open.spotify.com/album/2HkDziGU1nBIpP9xk5KVAr) | 3:08 | 2023-01-20 |  |
+| [Yeska](https://open.spotify.com/track/1cOfhLKpYNsDgYNAKEQslR) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Yeska](https://open.spotify.com/album/2HkDziGU1nBIpP9xk5KVAr) | 3:08 | 2023-01-20 | 2023-02-01 |
 | [¿Qué Nos Pasó?](https://open.spotify.com/track/7k3qWn8D43a5ISa3x8lJux) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [¿Qué Nos Pasó?](https://open.spotify.com/album/4q4kJrDt0OcTP2of4YUuHR) | 4:05 | 2022-06-03 | 2022-06-11 |
 | [Éxtasis](https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Éxtasis](https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451) | 3:11 | 2022-10-28 |  |
 

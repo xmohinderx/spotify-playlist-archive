@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: midwxst & Denzel Curry
 
-529 songs - 21 hr 51 min
+531 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [DELIRIOUS!](https://open.spotify.com/track/6KemhLE5U7fd5SBUJr2sRl) | [Championxiii](https://open.spotify.com/artist/0mYBT2Ek76Szd4MqbCgT5R), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [DELIRIOUS!](https://open.spotify.com/album/7LiafuGVnC731meL4S6cmi) | 1:32 | 2021-10-08 | 2022-04-03 |
 | [DELIVER!](https://open.spotify.com/track/6jhTj4vy4vD7n5EIFbuqJv) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DELIVER!](https://open.spotify.com/album/2qHsiqMMKZAHysnRzYfmOn) | 1:49 | 2022-09-23 | 2022-10-29 |
 | [Demon Time \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/1hE8iI3YK9x1VUBDtSzg3x) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Trip At Knight \(Complete Edition\)](https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz) | 2:39 | 2022-08-12 |  |
+| [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 | 2023-01-30 |  |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-05-26 | 2022-10-08 |
 | [Dipset](https://open.spotify.com/track/35ql06xhVmimjFBGYdUVIB) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Dipset](https://open.spotify.com/album/2PlaKZHxuVxAQI5AdD57sC) | 1:41 | 2022-08-07 | 2022-10-04 |
 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 | 2022-06-10 | 2022-07-19 |
@@ -395,6 +396,7 @@
 | [Press It](https://open.spotify.com/track/3y71AHtNzmdBOLuUFz9buu) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Fast & Furious: Drift Tape \(Phonk Vol 1\)](https://open.spotify.com/album/1XJGiLPpejKHhzovCVpQUY) | 2:01 | 2022-12-16 | 2023-01-26 |
 | [Prettiest Problem](https://open.spotify.com/track/4xJGDw3NuNpfzIluJjAoye) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DAMU UP](https://open.spotify.com/artist/6llShcWedgxXoOR1dpsXD1) | [Prettiest Problem](https://open.spotify.com/album/1B2TwkqjAO0CBknczIjuRk) | 2:17 | 2022-09-16 | 2022-11-12 |
 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2021-11-23 | 2022-04-26 |
+| [pRETTy](https://open.spotify.com/track/6vDyzD9o8aYhR1963oJpkO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 2:42 | 2023-01-30 |  |
 | [Public](https://open.spotify.com/track/65lV8m1obLQsdL76WjyRyy) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Public](https://open.spotify.com/album/3lxXrzog0ZLVIykCBAlf9P) | 2:01 | 2021-11-16 | 2022-02-26 |
 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 | 2022-07-01 | 2022-10-08 |
 | [Q\-Pid](https://open.spotify.com/track/0DgSlDcWG9jRlFZOqRyD0L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Q\-Pid](https://open.spotify.com/album/5yDJEZiJ35JKdPcEBEWiYz) | 2:11 | 2022-08-19 | 2023-01-05 |

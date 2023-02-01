@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 
 ### [TRIGUN \-トライガン\-](https://open.spotify.com/playlist/37i9dQZF1DX39iJO9NeCvA)
 
-> Listen to soundtracks from SF anime series "TRIGUN"./ 世界中から愛される名作SF「トライガン」TVアニメ＆劇場版サントラが遂にSpotifyに到着！© 内藤泰弘/少年画報社・トライガン製作委員会
+> Listen to soundtracks from SF anime series "TRIGUN".「トライガン」シリーズの楽曲を1つのプレイリストで。©︎内藤泰弘/少年画報社・トライガン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,222 likes - 32 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,359 likes - 32 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39iJO9NeCvA.md) - [plain]
 | 31 | [get even](https://open.spotify.com/track/6f4G8cwwKtbURYV4P6eWEU) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 2:26 |
 | 32 | [snatch!snatch!snatch!](https://open.spotify.com/track/7KG0iTQojPBMdi0ZgSM2Lx) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp) | [「劇場版 TRIGUN \-Badlands Rumble\-」O.S.T.](https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx) | 2:16 |
 
-Snapshot ID: `MTY3MzUzNTYwMCwwMDAwMDAwMDZkYWY2ODZlMjQ3YmNiNTkzZTdhMGIzMzZkODVkY2Jh`
+Snapshot ID: `MTY3NTA2NDI4NSwwMDAwMDAwMDMzZWZiMjJhZjYxYzE0N2ZkMzMzZDI3MThhZDc4NzQ4`

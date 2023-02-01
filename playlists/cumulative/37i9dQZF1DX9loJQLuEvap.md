@@ -4,7 +4,7 @@
 
 > Celebrating some of the most iconic female voices of all time\.  Cover: Céline Dion
 
-110 songs - 7 hr 13 min
+111 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Killing Me Softly With His Song](https://open.spotify.com/track/1U1xdCEZYkr6e1stqhaR2F) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Pair Of Fives: Roberta Flack / Dionne Warwick](https://open.spotify.com/album/6bcs0N6URuCCa206hPceyh) | 4:46 | 2021-01-08 | 2022-07-29 |
 | [King Of The World](https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:36 | 2021-01-08 | 2022-04-24 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-10-28 |  |
+| [Long Long Time](https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Silk Purse](https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G) | 4:23 | 2023-01-30 |  |
 | [Love And Affection](https://open.spotify.com/track/4I1w0J6NA3M25jFZ5dhp6y) | [Joan Armatrading](https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6) | [Joan Armatrading](https://open.spotify.com/album/3wKouVhrEkGmdgnASErALn) | 4:28 | 2021-01-08 | 2022-07-29 |
 | [Love Is A Losing Game](https://open.spotify.com/track/4IMBnBRqm9RALmLrRqfMor) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc) | 2:34 | 2021-01-08 | 2022-07-29 |
 | [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 | 2022-07-11 |  |
@@ -68,7 +69,7 @@
 | [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 4:39 | 2022-04-22 |  |
 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 | 2021-01-08 |  |
 | [Miss You Like Crazy](https://open.spotify.com/track/1QKyTgl3CT6iqBAmAKham7) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Rhino Hi\-Five: Natalie Cole](https://open.spotify.com/album/66W961OOr9k9furtedbgzS) | 3:54 | 2021-01-08 | 2022-07-29 |
-| [Miss You Like Crazy](https://open.spotify.com/track/6d1IYeSfyqOTW61rPgocGD) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Good To Be Back](https://open.spotify.com/album/0mqBJAuGoE3RpiK8cxjnvg) | 3:54 | 2022-07-11 |  |
+| [Miss You Like Crazy](https://open.spotify.com/track/6d1IYeSfyqOTW61rPgocGD) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Good To Be Back](https://open.spotify.com/album/0mqBJAuGoE3RpiK8cxjnvg) | 3:54 | 2022-07-11 | 2023-02-01 |
 | [My All](https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:50 | 2022-04-22 |  |
 | [My Love Is Your Love](https://open.spotify.com/track/4xzhlulgIL4yFEAR9EjHkR) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/2jiDaTcE7WmJr384lZJvgw) | 4:21 | 2021-01-08 | 2022-04-23 |
 | [Never, Never Gonna Give You Up](https://open.spotify.com/track/1YwM86VfyDhJv5obDMMjp5) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [Lisa Stansfield \(Deluxe\)](https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0) | 5:01 | 2021-01-08 | 2022-11-13 |

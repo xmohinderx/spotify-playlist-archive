@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDkzOTk0NSwwMDAwMDAwMDU2YTQ1NjNhN2M0OGVlNmJlOWE0YThhZGFjYmYyYTIw",
+  "snapshot_id": "MTY3NDkzOTk0NSwwMDAwMDAwMDMyMjA1MDMxNzBhZDJiNWI2YzQ5N2NjZWMyOWUyMjU2",
   "tracks": [
     {
       "added_at": "2023-01-28 21:05:45",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-01-28 21:05:45",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
-    },
-    {
-      "added_at": "2023-01-28 21:05:45",
-      "album": {
         "name": "STELLA & STEVE",
         "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
       },
@@ -175,6 +159,22 @@
     {
       "added_at": "2023-01-28 21:05:45",
       "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
+    },
+    {
+      "added_at": "2023-01-28 21:05:45",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
       },
@@ -187,6 +187,22 @@
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
+    },
+    {
+      "added_at": "2023-01-28 21:05:45",
+      "album": {
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
     },
     {
       "added_at": "2023-01-28 21:05:45",
@@ -247,22 +263,6 @@
     {
       "added_at": "2023-01-28 21:05:45",
       "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
-    },
-    {
-      "added_at": "2023-01-28 21:05:45",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 93737,
       "name": "Mother Nature's Bitch",
       "url": "https://open.spotify.com/track/3vy3ld7my2hDUTv4u7KIJR"
+    },
+    {
+      "added_at": "2023-01-28 21:05:45",
+      "album": {
+        "name": "Let\u2019s Start Here.",
+        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 229804,
+      "name": "drive ME crazy!",
+      "url": "https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12"
     },
     {
       "added_at": "2023-01-28 21:05:45",
@@ -335,22 +351,6 @@
     {
       "added_at": "2023-01-28 21:05:45",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
-    },
-    {
-      "added_at": "2023-01-28 21:05:45",
-      "album": {
         "name": "I Wish you Roses",
         "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 225947,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
+      "added_at": "2023-01-28 21:05:45",
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
     },
     {
       "added_at": "2023-01-28 21:05:45",
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-01-28 21:05:45",
       "album": {
-        "name": "Positions (Deluxe)",
-        "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 122174,
-      "name": "test drive",
-      "url": "https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw"
-    },
-    {
-      "added_at": "2023-01-28 21:05:45",
-      "album": {
         "name": "Everybody Loves The Sunshine (Reissue)",
         "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 239666,
       "name": "Everybody Loves The Sunshine",
       "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
+    },
+    {
+      "added_at": "2023-01-28 21:05:45",
+      "album": {
+        "name": "Positions (Deluxe)",
+        "url": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 122174,
+      "name": "test drive",
+      "url": "https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw"
     },
     {
       "added_at": "2023-01-28 21:05:45",
@@ -507,26 +523,6 @@
     {
       "added_at": "2023-01-28 21:05:45",
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 183786,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
-    },
-    {
-      "added_at": "2023-01-28 21:05:45",
-      "album": {
         "name": "Sex & Food",
         "url": "https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR"
       },
@@ -543,18 +539,22 @@
     {
       "added_at": "2023-01-28 21:05:45",
       "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
         }
       ],
-      "duration_ms": 217466,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b"
+      "duration_ms": 183786,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
     },
     {
       "added_at": "2023-01-28 21:05:45",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-01-28 21:05:45",
       "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b"
+    },
+    {
+      "added_at": "2023-01-28 21:05:45",
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-01-28 21:05:45",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
-      "added_at": "2023-01-28 21:05:45",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 218480,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
+    },
+    {
+      "added_at": "2023-01-28 21:05:45",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2023-01-28 21:05:45",
@@ -671,22 +687,6 @@
     {
       "added_at": "2023-01-28 21:05:45",
       "album": {
-        "name": "Ungodly Hour",
-        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Ungodly Hour",
-      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
-    },
-    {
-      "added_at": "2023-01-28 21:05:45",
-      "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 203066,
       "name": "I Wish I Missed My Ex",
       "url": "https://open.spotify.com/track/3f50PY0yOtMHo9BgCX9WRJ"
+    },
+    {
+      "added_at": "2023-01-28 21:05:45",
+      "album": {
+        "name": "Ungodly Hour",
+        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Ungodly Hour",
+      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
     },
     {
       "added_at": "2023-01-28 21:05:45",
@@ -1079,22 +1095,6 @@
       "duration_ms": 250615,
       "name": "I Don't Want It At All",
       "url": "https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29"
-    },
-    {
-      "added_at": "2023-01-28 21:05:45",
-      "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 162353,
-      "name": "FIND YOUR WAY BACK",
-      "url": "https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd"
     }
   ],
   "unique_name": "Drinks no Sof\u00e1",

@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 11347,
+  "num_followers": 11395,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MDg2Njc4NiwwMDAwMDAwMDBiZjg5OTYwZjQ0ZWFjNmJlYjRkMmJiZWM5MmE0YzM0",
+  "snapshot_id": "MTU1MDg2Njc4NiwwMDAwMDAwMDA1MGM3ZDY1MjJmODJhNTZkNGZjMTEyOTQyNzQ5YTJm",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -91,6 +91,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 170216,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
       },
@@ -119,38 +135,6 @@
       "duration_ms": 303433,
       "name": "Blank Space/Stand By Me - Live From Spotify London",
       "url": "https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 170216,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -207,6 +191,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
       },
@@ -239,22 +239,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Spotify Session",
-        "url": "https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "I'm Not the Only One - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 161680,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Spotify Session",
+        "url": "https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "I'm Not the Only One - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -419,22 +419,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/2tjHky2gRChxTuNQpDvKMm"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 225767,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/7laJx5tDtvm3Mkj832oxSb"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Refuge",
         "url": "https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 261665,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/2tjHky2gRChxTuNQpDvKMm"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 225767,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/7laJx5tDtvm3Mkj832oxSb"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -535,22 +535,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Waiting For Love - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Electric Feel",
         "url": "https://open.spotify.com/album/1lki2iEbNgVFSq0VgH8C7L"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 199653,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/4ImkB7exKgLcZ8sYH4K9oW"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Waiting For Love - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -627,6 +627,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 187823,
+      "name": "September - Recorded at The Tracking Room Nashville",
+      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "Girls Just Wanna Have Fun",
         "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8"
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
         }
       ],
-      "duration_ms": 187823,
-      "name": "September - Recorded at The Tracking Room Nashville",
-      "url": "https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX"
+      "duration_ms": 201136,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -675,22 +691,6 @@
       "duration_ms": 219760,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 201136,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -727,26 +727,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Stolen Dance",
-        "url": "https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5"
-      },
-      "artists": [
-        {
-          "name": "Twin Bandit",
-          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
-        },
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "Stolen Dance",
-      "url": "https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
       },
@@ -767,18 +747,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs"
+        "name": "Stolen Dance",
+        "url": "https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5"
       },
       "artists": [
         {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+          "name": "Twin Bandit",
+          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
+        },
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
         }
       ],
-      "duration_ms": 168849,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx"
+      "duration_ms": 235466,
+      "name": "Stolen Dance",
+      "url": "https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -795,6 +779,22 @@
       "duration_ms": 267413,
       "name": "Say My Name - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 168849,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx"
     },
     {
       "added_at": "2019-02-22 20:19:46",

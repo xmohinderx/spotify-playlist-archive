@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,700 likes - 84 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,809 likes - 84 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Argentina en la casa! Foto: Albere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,077 likes - 102 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,136 likes - 102 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 21 | [A Mi](https://open.spotify.com/track/1m51YRtMiW1o5sZVx4cIds) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [A Mi](https://open.spotify.com/album/2MgEssbkkaQtdmztMWUyRQ) | 3:34 |
 | 22 | [Esto Recién Empieza](https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Esto Recién Empieza](https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU) | 2:52 |
 | 23 | [No Me Conocen \(Remix\) \[con DUKI, Rei & Tiago PZK\]](https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Me Conocen \(Remix\) \(Con Duki, Rei & Tiago Pzk\)](https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe) | 4:40 |
-| 24 | [Todo](https://open.spotify.com/track/6QoVCBTmF5BMtXyFq80AJ2) | [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT) | [Todo](https://open.spotify.com/album/53G1JnSG1R69cHCBz65gue) | 1:58 |
+| 24 | [Todo](https://open.spotify.com/track/6QoVCBTmF5BMtXyFq80AJ2) | [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Todo](https://open.spotify.com/album/53G1JnSG1R69cHCBz65gue) | 1:58 |
 | 25 | [Cora Partido](https://open.spotify.com/track/287JhhKlTLuTzxp28ySSiO) | [ZHAE](https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9), [Ivan Armesto](https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d) | [Cora Partido](https://open.spotify.com/album/1uNQMBHfg8xOWBEsFxG1iV) | 3:23 |
 | 26 | [YO SE QUE TU \(feat\. Rusherking\)](https://open.spotify.com/track/4M4DTyLupKvbJKlE4I4EYq) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [YO SE QUE TU \(feat\. Rusherking\)](https://open.spotify.com/album/48FoiMxQVsy2fwZlDobT7y) | 3:13 |
 | 27 | [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 |

@@ -4,12 +4,12 @@
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: 小人
 
-466 songs - 1 day 0 hr 11 min
+468 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#MONDAY](https://open.spotify.com/track/2xFtsbTvsYXfT0ASKP3HTa) | [A\-Fei 阿飛](https://open.spotify.com/artist/0QfCMAAAQ7AGLh77MQwyJn), [ZL7](https://open.spotify.com/artist/1RUGX6XkAnOk25OZBjwXjX), [Flomosa Media](https://open.spotify.com/artist/5GMBqjlvRxThEATjgXnqiB) | [\#MONDAY \(REMASTERD\)](https://open.spotify.com/album/37HAynAnUrDvqmSpDPnlD8) | 3:41 | 2022-05-23 | 2022-06-07 |
-| [1 AM](https://open.spotify.com/track/35KBw8OtWX30KkATDRAAmM) | [thomeboydontkill](https://open.spotify.com/artist/0Ix8VdcAuHEG913ZtibvEw) | [CASANOVA](https://open.spotify.com/album/1KO2gb1wj1RmePUnjSlWN8) | 3:06 | 2023-01-16 |  |
+| [1 AM](https://open.spotify.com/track/35KBw8OtWX30KkATDRAAmM) | [thomeboydontkill](https://open.spotify.com/artist/0Ix8VdcAuHEG913ZtibvEw) | [CASANOVA](https://open.spotify.com/album/1KO2gb1wj1RmePUnjSlWN8) | 3:06 | 2023-01-16 | 2023-02-01 |
 | [212](https://open.spotify.com/track/4G0AxSsM4G4CcWmOhHXpXU) | [李宜柏PAULYBLEE](https://open.spotify.com/artist/6rCZx04nawchlA7kTA0c9v) | [212](https://open.spotify.com/album/6GQRC4peZzBbzFY2bl0FNd) | 2:44 | 2022-03-21 | 2022-07-19 |
 | [21HOMEBOYZ](https://open.spotify.com/track/6W53OB0GfDaMhZgpgPCM0q) | [IVAN 艾文](https://open.spotify.com/artist/4gYogdsKDgYhgflAcfo6uk), [AW](https://open.spotify.com/artist/6BMS5grJY6gsXaPu1X4r5g), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [Vigoz Chen](https://open.spotify.com/artist/5SsQFQzfgRVHse9MEcrT4k), [AcRoss](https://open.spotify.com/artist/6B1Wv7BlRtTN8OoVNyL6sC) | [21HOMEBOYZ](https://open.spotify.com/album/6DVUGUDeDOHa52rToU9FG4) | 4:14 | 2022-03-21 | 2022-11-22 |
 | [81](https://open.spotify.com/track/6vxnNBZO5n24dCBnuWn2Re) | [Haysen Cheng](https://open.spotify.com/artist/0nh7l4AluXpKHvqx1f3biK), [GALI](https://open.spotify.com/artist/5RtnVWT1qYQHMxM3IVkqnu) | [81](https://open.spotify.com/album/7aGH1gOhDipi9BCAUJYCdM) | 2:52 | 2022-06-13 | 2022-06-28 |
@@ -111,6 +111,7 @@
 | [I Try So Hard](https://open.spotify.com/track/5eWVm5hHiw1XjqI4KjuysB) | [NIKA](https://open.spotify.com/artist/5m5FN5FJjcG7GLc8BzEn5W), [孝廷](https://open.spotify.com/artist/1GmhtQigNu9wTE3J90WWWJ), [WANMEI](https://open.spotify.com/artist/1wzaq8XH8PIzUblSt2yXq5) | [I Try So Hard](https://open.spotify.com/album/4hFWfnXBaKPAGkQTcy2GXw) | 3:36 | 2022-09-19 | 2023-01-10 |
 | [I Will Never Change](https://open.spotify.com/track/7Mufdgu2dbYLlZMNMozzTe) | [Popo J](https://open.spotify.com/artist/3asn0DBHRjY3cHdlbm5kuu) | [I Will Never Change](https://open.spotify.com/album/45b3NyrdQV9aN3F1UraVAF) | 3:07 | 2022-03-21 | 2022-10-04 |
 | [I.D., Pt\. II](https://open.spotify.com/track/41OvwTB8sYhV4jXqBSw4rv) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG) | [超未來波2](https://open.spotify.com/album/3qTUc6SYyXmZTLxzx6eF1t) | 3:50 | 2023-01-09 |  |
+| [If Only](https://open.spotify.com/track/0FFoseRrR7f5CBPpUEs3Ua) | [Zadon](https://open.spotify.com/artist/0WsHMstGTwjQSkx7PlS50X), [Cykko](https://open.spotify.com/artist/6gQ5lg2r9qzumBycPid5Va) | [If Only](https://open.spotify.com/album/36QXY33eNXodxtuLORTqeA) | 3:03 | 2023-01-30 |  |
 | [It's On](https://open.spotify.com/track/7HxvsQv8iaf70hqqMwF2ew) | [Van Ness Wu](https://open.spotify.com/artist/2Lcyl3luks1H4TDORlJIUW) | [It's On](https://open.spotify.com/album/5ZG2jqmq2hvUqjhY6jEmSZ) | 3:16 | 2022-06-06 | 2022-06-28 |
 | [It's too late](https://open.spotify.com/track/5YX5DCIzxrj2UPHWXUx4TI) | [仰昭光](https://open.spotify.com/artist/1R3kmFH4Bl1hbEG9ulEE2d) | [It's too late](https://open.spotify.com/album/5ZmNqijX2Fon23RSNBz9BT) | 2:59 | 2022-10-17 |  |
 | [It's U](https://open.spotify.com/track/3q9Zq1DP34zZWCDGBzc9WJ) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [It's U](https://open.spotify.com/album/1LWDaEfJPiSZxNcakyNfGI) | 3:24 | 2022-09-26 | 2022-10-11 |
@@ -139,6 +140,7 @@
 | [Mercury \(feat\. ØZI\)](https://open.spotify.com/track/3uxThTbkNafNIFS8nIDlfM) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [I AM U](https://open.spotify.com/album/52cZAcrw0TQpiQSMlW8Bfq) | 2:22 | 2022-04-25 | 2023-01-03 |
 | [Midnight](https://open.spotify.com/track/0U89UMbHG9vNnFL6C8jg83) | [G22](https://open.spotify.com/artist/5xRZqaqEy9SX8GrmtXoSGT), [Dough\-Boy](https://open.spotify.com/artist/5hzXPEu0WeYHg3zQts4BGX) | [Midnight](https://open.spotify.com/album/5ljIrM37cp8qbYWfgLsUlQ) | 3:05 | 2022-03-21 | 2022-03-30 |
 | [MONEY](https://open.spotify.com/track/7l4iGgJEtmhkHVkt5Qk7b1) | [Ponzii 劉亮延](https://open.spotify.com/artist/2k33ORDYemGS74TLt2LKgX) | [MONEY](https://open.spotify.com/album/0JfScSuiavR1MUhoFTWNPO) | 2:40 | 2023-01-23 |  |
+| [MS1021](https://open.spotify.com/track/4fN51gSuL0T1QsIBQoG6FB) | [大袋 XAMAX](https://open.spotify.com/artist/6WDt8bC3yWK6yWA7ri0ngf) | [MS1021](https://open.spotify.com/album/2NSPaxy7V2ijn4f7HpGOpX) | 3:16 | 2023-01-30 |  |
 | [MURPHY](https://open.spotify.com/track/3ycWtTByO3wktjHjL84jU1) | [Amen](https://open.spotify.com/artist/04l2LHKfU4ZBUX7UgOQHGP) | [MURPHY](https://open.spotify.com/album/1VZPDszF7kXtWU7egEh9ml) | 3:35 | 2023-01-02 |  |
 | [My Phone](https://open.spotify.com/track/5ycAGiUn1j9PUdJl7AwOIj) | [Isey](https://open.spotify.com/artist/7t4roTZZKbgz1RJbEgLq7z) | [My Phone](https://open.spotify.com/album/0IxCxYtfpOeIetqzJTFeIV) | 3:14 | 2022-08-08 | 2022-08-23 |
 | [Nevermind, pt\. 2](https://open.spotify.com/track/4iWmPXlrLYVT1rX1tTMLvm) | [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy) | [Nevermind, pt\. 2](https://open.spotify.com/album/6emPq5aPvOLQLdOONcMNu5) | 2:39 | 2022-10-24 | 2022-11-01 |
@@ -443,7 +445,7 @@
 | [那就算了吧](https://open.spotify.com/track/10ndIUfDX6GunXPVJkkXuQ) | [EK Darkurai](https://open.spotify.com/artist/0x1gjevQUqER8N0Qs5UnMR), [RussTong](https://open.spotify.com/artist/0VQ6vZdtyeuL2t1YwHiHUb) | [那就算了吧](https://open.spotify.com/album/0i8FHB5Y4cyRuw02JamW4P) | 3:54 | 2022-10-24 | 2022-11-08 |
 | [醜帥](https://open.spotify.com/track/7xahvvFxXN4GPs3AGIX4wn) | [屁孩 Ryan](https://open.spotify.com/artist/5Uru7pLzT6nfOmJfTyZsAu) | [醜帥](https://open.spotify.com/album/1jXs6QLho4rcHOG1Qu0JLK) | 3:30 | 2022-12-19 | 2023-01-03 |
 | [野男人](https://open.spotify.com/track/6lNCZmWMPckV26JEpzg0nW) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [Not Bad](https://open.spotify.com/album/79lUYHxJgyHrhGGs1Z4GyW) | 3:06 | 2022-09-26 | 2022-10-11 |
-| [野百合](https://open.spotify.com/track/1byiztwbgvGLUp61H5H2gU) | [thehopend](https://open.spotify.com/artist/32lrEgDlSQ0p6KLJckSvXd) | [野百合](https://open.spotify.com/album/1h1UQlFdvtu9U6eDQibPv8) | 3:34 | 2022-05-30 |  |
+| [野百合](https://open.spotify.com/track/1byiztwbgvGLUp61H5H2gU) | [thehopend](https://open.spotify.com/artist/32lrEgDlSQ0p6KLJckSvXd) | [野百合](https://open.spotify.com/album/1h1UQlFdvtu9U6eDQibPv8) | 3:34 | 2022-05-30 | 2023-02-01 |
 | [鈔票排成圈](https://open.spotify.com/track/5xMso6TWBZToJgb8PDSlp2) | [HuaRay](https://open.spotify.com/artist/1zijXvu5JIrqSv3Ul1N3OQ) | [鈔票排成圈](https://open.spotify.com/album/5rRcanAC6yEixjAvyJXg2o) | 1:45 | 2022-11-21 | 2023-01-03 |
 | [閉上雙眼 Close Eyes](https://open.spotify.com/track/5hyiN9P6myxfj1vc20C7gT) | [Isey](https://open.spotify.com/artist/7t4roTZZKbgz1RJbEgLq7z) | [閉上雙眼 Close Eyes](https://open.spotify.com/album/0opuLa29h9UEqzH2ZQ78RK) | 3:42 | 2022-03-21 | 2022-11-08 |
 | [關於你我](https://open.spotify.com/track/2JA13nFjKmbqoKSw1NpkCy) | [仰昭光](https://open.spotify.com/artist/1R3kmFH4Bl1hbEG9ulEE2d), [范知林](https://open.spotify.com/artist/4DBD2Bq9oBx8AsYi5HST3H) | [關於你我](https://open.spotify.com/album/3k9knyxj9xgO92Dsio6XBw) | 3:05 | 2022-10-24 | 2022-11-08 |

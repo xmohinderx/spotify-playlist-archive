@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 188471,
       "name": "365",
       "url": "https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ"
@@ -1037,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "ANTAGONISTA",
+        "url": "https://open.spotify.com/album/7ofQ6GsdNL01Kki0GVaNrZ"
+      },
+      "artists": [
+        {
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132600,
+      "name": "ANTAGONISTA",
+      "url": "https://open.spotify.com/track/25MXhQD6t6jkWhYcuGBcjt"
+    },
+    {
+      "album": {
         "name": "Temporada de Reggaet\u00f3n 2",
         "url": "https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA"
       },
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 184444,
       "name": "ANTIFRAGILE",
       "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
@@ -1146,7 +1164,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 183547,
       "name": "ARRANCARMELO",
       "url": "https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b"
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 165135,
       "name": "BIBI Vengeance",
       "url": "https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ"
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 131253,
       "name": "Boy's a liar",
       "url": "https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8"
@@ -4410,7 +4428,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 231053,
       "name": "El lugar correcto",
       "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
@@ -4490,7 +4508,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 218058,
       "name": "El Rayo",
       "url": "https://open.spotify.com/track/0ev44APmsOEmBdbmQqzafj"
@@ -5130,7 +5148,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 155960,
       "name": "Feliz Cumplea\u00f1os Ferxxo",
       "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
@@ -6440,7 +6458,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -7512,7 +7530,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 233404,
       "name": "La Octava Maravilla - En Vivo",
       "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
@@ -8032,7 +8050,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-06",
+      "date_removed": null,
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
@@ -8134,7 +8152,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 139146,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
@@ -8326,7 +8344,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 237473,
       "name": "Marisola - Remix",
       "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
@@ -8822,7 +8840,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
@@ -9942,7 +9960,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 167575,
       "name": "no es q no te quiera",
       "url": "https://open.spotify.com/track/2e5J7PKRE7cOfoQRRQh89B"
@@ -10104,7 +10122,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 194019,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
@@ -13109,6 +13127,24 @@
     },
     {
       "album": {
+        "name": "Dear Wormwood",
+        "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
+      },
+      "artists": [
+        {
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165673,
+      "name": "Soldier, Poet, King",
+      "url": "https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg"
+    },
+    {
+      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -13308,7 +13344,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
@@ -13750,7 +13786,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 193621,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
@@ -13986,7 +14022,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Tell me (Sampling From `Two Of Hearts`)",
       "url": "https://open.spotify.com/track/0m1L7kXouYgNJYtlJnncCl"
@@ -14464,7 +14500,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy"

@@ -4,7 +4,7 @@
 
 > Sped up songs from TikTok and around the internet.
 
-122 songs - 6 hr 16 min
+123 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Everybody Wants To Rule The World \- Sped Up Version](https://open.spotify.com/track/6MRD4fDXBbqa0xodmaFk8Q) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Everybody Wants To Rule The World \(Sped Up Version\)](https://open.spotify.com/album/1OCUxmIIq0Q1Mj3AFATzsI) | 3:03 | 2022-09-07 |  |
 | [Fall In Love Alone \- Sped Up Version](https://open.spotify.com/track/6ButBCeYcNMlllAOI4BIZb) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone \(Stripped Version\)](https://open.spotify.com/album/3PMJ80miJjWOXtEWoirIiK) | 2:38 | 2022-11-21 |  |
 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 | 2020-03-31 | 2022-07-19 |
-| [Faster \- Sped Up](https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [A.O Ultra](https://open.spotify.com/album/5X2NqD0hP43ZuYEIcXcW1L) | 2:26 | 2022-07-18 |  |
+| [Faster \- Sped Up](https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [A.O Ultra](https://open.spotify.com/album/5X2NqD0hP43ZuYEIcXcW1L) | 2:26 | 2022-07-18 | 2023-02-01 |
 | [Fire Burning](https://open.spotify.com/track/7gDKfEMIhyyO4asgEXwcrs) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Fire Burning](https://open.spotify.com/album/4sdvjQDF7pQMPpvsg4mvMq) | 4:03 | 2020-03-31 | 2022-07-19 |
 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 | 2022-07-18 | 2022-10-11 |
 | [Funky \- Cha Cha Slide Sped Up](https://open.spotify.com/track/65Jk2MdNyUuCjOvp5QOD1c) | [DJ Casper](https://open.spotify.com/artist/5o7DmXxAI7rg7qBUvcLq2s), [Hardino](https://open.spotify.com/artist/2W8WGXvVL7Du3TZLmToBR5) | [Cha Cha Slide](https://open.spotify.com/album/2NBvR1Ys0I4FtpVvQFKLqL) | 3:21 | 2022-07-18 |  |
@@ -129,6 +129,7 @@
 | [Wake Me Up](https://open.spotify.com/track/294vBlXfZYspeI29SXZaON) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Wake Me Up](https://open.spotify.com/album/4c1UVOzAFB4mqGYZGadOru) | 4:09 | 2020-03-31 | 2022-07-19 |
 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 | 2020-03-31 | 2022-07-19 |
 | [Wasted \(Nightcore\)](https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI) | [Murkish](https://open.spotify.com/artist/5anIaPEacO0S5sVfxg6cVw), [Huken](https://open.spotify.com/artist/2i5ApczYJfGAYrtf7QmjCV) | [Wasted \(Nightcore\)](https://open.spotify.com/album/338C6sxO1twtEJn8YqGeh4) | 3:14 | 2022-07-18 | 2022-11-22 |
+| [Where Do We Go From Here? \- sped up](https://open.spotify.com/track/5Ytgzxvn0waqOa4h3Ztpb8) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Where Do We Go From Here? \(sped up\)](https://open.spotify.com/album/3QWolpriPFWyqWCEzFAVnJ) | 3:34 | 2023-01-30 |  |
 | [why so srs?](https://open.spotify.com/track/0rifR43CptApOWLL8kMkcg) | [outer streets](https://open.spotify.com/artist/07Kya5CjMDo2yVV8YFJg9T) | [why so srs?](https://open.spotify.com/album/2cWHWaopqauQCtQYVnN9wC) | 1:35 | 2022-07-18 | 2022-09-09 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

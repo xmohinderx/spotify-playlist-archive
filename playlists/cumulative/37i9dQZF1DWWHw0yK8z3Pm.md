@@ -4,7 +4,7 @@
 
 > Singer\-songwriters who colour outside the lines\. Cover: Benjamin Dakota Rogers
 
-226 songs - 14 hr 0 min
+228 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [How Do You Love with a Broken Heart?](https://open.spotify.com/track/5VFIPHbkvSyVp2kANgpSVg) | [Leeroy Stagger](https://open.spotify.com/artist/3ltVtf7QHIwJBNQHqjb9UI) | [Dystopian Weekends](https://open.spotify.com/album/6nA8bcaAUOF4iTEtIPWjk2) | 3:48 | 2022-05-13 | 2022-08-27 |
 | [I Want My Soul Back](https://open.spotify.com/track/1b8xcfGtzTNluKLSSDaZdV) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Midnight Blues](https://open.spotify.com/album/6nYaIvRUVf1dFzCrX5aNAK) | 3:35 | 2022-09-30 |  |
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-07-22 |  |
-| [I Would Be Me](https://open.spotify.com/track/5G4pbhMytyWMdaJgZe2HLY) | [Steven Ryan](https://open.spotify.com/artist/4o3nXRjidFLS65XYjy4mN1) | [Light Of Day](https://open.spotify.com/album/7DvZtx3flW9wmtDu5Qz1mU) | 3:27 | 2022-05-13 |  |
+| [I Would Be Me](https://open.spotify.com/track/1DiFDYIFjcdZozxQZVC6wS) | [Steven Ryan](https://open.spotify.com/artist/4o3nXRjidFLS65XYjy4mN1) | [Light of Day](https://open.spotify.com/album/4lH9QMOxTQq32l8L3sd1VC) | 3:27 | 2023-01-27 |  |
+| [I Would Be Me](https://open.spotify.com/track/5G4pbhMytyWMdaJgZe2HLY) | [Steven Ryan](https://open.spotify.com/artist/4o3nXRjidFLS65XYjy4mN1) | [Light Of Day](https://open.spotify.com/album/7DvZtx3flW9wmtDu5Qz1mU) | 3:27 | 2022-05-13 | 2023-02-01 |
 | [I'm Not Alone](https://open.spotify.com/track/0DQ9q4oTx0W01x0Nqd8f9I) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Toward the Fray](https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0) | 5:07 | 2022-05-13 | 2022-07-20 |
 | [If I Break](https://open.spotify.com/track/3Qya3SWiOk2Xg50uTz7pBS) | [B.Knox](https://open.spotify.com/artist/2EzhJiy4cDc3bZW5GSQ5X1) | [If I Break](https://open.spotify.com/album/23yHTTnSHZA1ZV5xQmIU4C) | 3:34 | 2022-05-13 | 2022-06-25 |
 | [If It Comes in the Morning](https://open.spotify.com/track/2dKbKigrQtSFGDS8c9L3fJ) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [If It Comes in the Morning](https://open.spotify.com/album/6yBuW4QLmb2rigEMoC1A60) | 4:05 | 2022-05-13 | 2022-06-18 |
@@ -215,7 +216,8 @@
 | [Top Down](https://open.spotify.com/track/44Lxf5akfAz3A9Su0MFB7K) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Top Down](https://open.spotify.com/album/1OLO1IBqSnjI1NNBBt1CGW) | 3:18 | 2022-05-13 | 2022-07-29 |
 | [Top Down](https://open.spotify.com/track/4azTAgJjMQ8bjR08CYQQAy) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 3:18 | 2022-07-22 |  |
 | [Tough or Die](https://open.spotify.com/track/0KKcazbwGXcSEdwXwhkWwN) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Down\-Home](https://open.spotify.com/album/23oKMLD2iem0u13XqIIYQh) | 3:11 | 2022-05-13 | 2022-09-17 |
-| [Two Shots](https://open.spotify.com/track/1mauqJ16bq02UNpTw2IysI) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/7aEPFKcRZg2lDCzE5FGtSX) | 4:09 | 2022-05-13 |  |
+| [Two Shots](https://open.spotify.com/track/1mauqJ16bq02UNpTw2IysI) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/7aEPFKcRZg2lDCzE5FGtSX) | 4:09 | 2022-05-13 | 2023-02-01 |
+| [Two Shots](https://open.spotify.com/track/5TedK5daYlWU5Ij9gBxQpk) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn) | 4:09 | 2023-01-27 |  |
 | [Two Wolves](https://open.spotify.com/track/6ojNVt86xChV8OV3qcWeB4) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 4:04 | 2022-09-30 |  |
 | [Unlucky Skin](https://open.spotify.com/track/6lFoLANp9f1mETEyxp3sCE) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Unlucky Skin / Roll The Bones](https://open.spotify.com/album/6mWrmigd6yuj5142g0f8Vo) | 3:18 | 2022-05-13 | 2022-05-20 |
 | [Up To You](https://open.spotify.com/track/6NpXHoyenMiNwXvOocSPkk) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Up To You](https://open.spotify.com/album/3SJsVvtNTvD8UqHztTFWs0) | 3:12 | 2022-07-29 | 2022-08-27 |

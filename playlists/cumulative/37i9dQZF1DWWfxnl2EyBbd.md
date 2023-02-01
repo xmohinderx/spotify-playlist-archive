@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-401 songs - 1 day 8 hr 3 min
+402 songs - 1 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2022-11-12 | 2023-01-19 |
 | [Laura](https://open.spotify.com/track/0lBCnUEZ54x5O4YiZQCjcR) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM) | [TRIO](https://open.spotify.com/album/08wqEgpg6llw85TKA3OLAj) | 3:30 | 2022-02-10 | 2022-11-09 |
 | [Let It Be](https://open.spotify.com/track/4UpSPiCAeE8Wjzs71LiXnK) | [Lynne Arriale Trio](https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jasper Van Hulten](https://open.spotify.com/artist/4fd2c95arvB2uh6V4PFydQ) | [Give Us These Days](https://open.spotify.com/album/3eo3nkUCc90eI7UDHfkZE3) | 6:01 | 2022-02-10 | 2022-11-12 |
+| [Let's go uptown](https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let's go uptown](https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3) | 2:20 | 2023-01-26 |  |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-11-12 |  |
 | [Life In Paradise](https://open.spotify.com/track/7DhwU4DOhVLPI30Rj2X6e4) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [Life In Paradise](https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W) | 4:34 | 2022-11-12 | 2023-01-22 |
 | [Life is a Beautiful Thing](https://open.spotify.com/track/5E2naT4wvGkEhYj9US26GQ) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN) | [The Artist](https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn) | 5:24 | 2022-05-13 | 2022-11-12 |
@@ -347,7 +348,7 @@
 | [The More I See You](https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [The More I See You](https://open.spotify.com/album/3HqHBF5BE5cxCAFtbjrjbA) | 3:49 | 2022-11-12 |  |
 | [The next day](https://open.spotify.com/track/3HBNf1kBZB3Sn4idl26aJK) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [The next day](https://open.spotify.com/album/0BIs50usgDMHmPBj63mtk6) | 2:13 | 2023-01-12 |  |
 | [The Odd Couple](https://open.spotify.com/track/1eQjKq6FlYU7kJGm3J4FbR) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Al Foster](https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6) | [The Time is Now](https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd) | 5:25 | 2022-02-10 | 2022-11-12 |
-| [The Reasons That I Love You](https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 4:40 | 2022-11-12 |  |
+| [The Reasons That I Love You](https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [The Reasons That I Love You](https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8) | 4:40 | 2022-11-12 | 2023-02-01 |
 | [The Wind In The Night](https://open.spotify.com/track/2IiD9iXyz8OWmRkHcfHdnN) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ) | 5:02 | 2022-02-10 | 2022-11-12 |
 | [There Is No Music](https://open.spotify.com/track/3zJ8fYyoaAMOkQbhb86Yxb) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 6:08 | 2022-02-10 | 2022-11-12 |
 | [There Will Never Be Another You](https://open.spotify.com/track/0w7ufvu7otF8UGX12XZQPb) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [There Will Never Be Another You](https://open.spotify.com/album/4o8598qWSxGgvPIlyKD6ns) | 3:40 | 2022-11-12 | 2023-01-21 |

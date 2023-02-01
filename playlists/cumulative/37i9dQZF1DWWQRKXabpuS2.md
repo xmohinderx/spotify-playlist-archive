@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف: عبد العزيز لويس و اصيل حميم
 
-189 songs - 12 hr 50 min
+190 songs - 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Ela Allah](https://open.spotify.com/track/4ZXyL4LC6u9QmBNERbGyBJ) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ela Allah](https://open.spotify.com/album/4I9pP9LCXwvUeYssukoqGc) | 4:04 | 2023-01-20 |  |
 | [Elhubb Ja](https://open.spotify.com/track/6dNsnqDf8c5aBUZW7V2Oqh) | [Salah Alzadjali](https://open.spotify.com/artist/5B14NO9B5J7hKVfyttzrpH) | [Elhubb Ja](https://open.spotify.com/album/42tevSQ1DPLBGr8BgQfh3e) | 4:36 | 2022-02-17 | 2022-08-13 |
 | [Enty A3yadi](https://open.spotify.com/track/7HoiSL5qcW8SI58bEDT38w) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Enty A3yadi](https://open.spotify.com/album/7aoPdzhkfqVQRceYvvxV9S) | 3:08 | 2022-02-17 | 2022-08-27 |
-| [Erjaee Li](https://open.spotify.com/track/0vaWHfSlJswU2OiTeOL3jj) | [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T) | [Erjaee Li](https://open.spotify.com/album/5skxkm6hM5xILUw4cVGZpc) | 6:48 | 2022-07-26 |  |
+| [Erjaee Li](https://open.spotify.com/track/0vaWHfSlJswU2OiTeOL3jj) | [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T) | [Erjaee Li](https://open.spotify.com/album/5skxkm6hM5xILUw4cVGZpc) | 6:48 | 2022-07-26 | 2023-02-01 |
 | [Eyouni Feeh Ydobu](https://open.spotify.com/track/0fmpUGxAdqRUXLI9QnZIDo) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Eyouni Feeh Ydobu](https://open.spotify.com/album/2RlrrVOqM1dXElHVZYedDn) | 2:53 | 2022-06-10 | 2023-01-10 |
 | [Fadeha Denyay](https://open.spotify.com/track/2fuVzq6gFhnEWfMbHKB5aR) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Fadeha Denyay](https://open.spotify.com/album/6Iq3beBQFZnqRb2ycjeesy) | 3:34 | 2021-12-23 | 2022-01-13 |
 | [Faraktozy](https://open.spotify.com/track/12h7uMuEanhGWfnzOyvo8h) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Faraktozy](https://open.spotify.com/album/1OAttDR3r7GbxCNeSgElrE) | 3:50 | 2022-08-11 |  |
@@ -181,6 +181,7 @@
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-06-02 | 2023-01-10 |
 | [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 | 2022-02-24 | 2022-08-13 |
 | [زينك دمار](https://open.spotify.com/track/0STEeSVMD2rRqkFtf7gGXC) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [زينك دمار](https://open.spotify.com/album/7LWT6p48ZKIEUrYBl80H20) | 4:34 | 2022-05-25 | 2022-09-09 |
+| [سرق قلبي](https://open.spotify.com/track/2kqlas6p59Cm6OeYp2rWFb) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [سرق قلبي](https://open.spotify.com/album/0IVWUkh9YUII3SPLQXwJHP) | 4:15 | 2023-01-31 |  |
 | [على شاني](https://open.spotify.com/track/2YuCjMPqT4lQa8eAMjHWzv) | [Lamia Jamel](https://open.spotify.com/artist/2j7ZTFIAN3WJBMjxhKLmVm) | [على شاني](https://open.spotify.com/album/73M1hY0tHmiNBo4rPJGjLz) | 3:36 | 2022-06-29 | 2023-01-12 |
 | [عندي أهم](https://open.spotify.com/track/2pDNrMSCAiKGQbN0kPUZZS) | [محمد مبارك](https://open.spotify.com/artist/6HCSHVuuQlHb3qiOUqXlKi) | [عندي أهم](https://open.spotify.com/album/6Gl8OmHtePVXiJtyVenWLY) | 3:39 | 2021-12-23 | 2022-03-02 |
 | [فرقاه](https://open.spotify.com/track/4wVVSDmBXA9MHeNUC7AGIu) | [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Fargah](https://open.spotify.com/album/5GdgJnx6r9A6DlxZlI5lhL) | 2:55 | 2022-11-24 |  |

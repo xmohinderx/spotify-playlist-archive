@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-571 songs - 1 day 5 hr 30 min
+572 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Again And Again](https://open.spotify.com/track/6FMoSgKLELUD20nhYbLrYm) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Lauterborn](https://open.spotify.com/artist/57Y7Fk9bQvmn0uyVyKAYxA) | [Again And Again](https://open.spotify.com/album/6yRhQ6NNxn8p0eo7WyCBVN) | 2:56 | 2022-05-06 | 2022-07-29 |
 | [Ain't Nobody \(Loves Me Better\)](https://open.spotify.com/track/3vbqb78xzvD3CJl7ZeW83c) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Ain't Nobody \(Loves Me Better\)](https://open.spotify.com/album/3NC0WEl19sJosOSW0812Iw) | 3:06 | 2022-04-01 | 2022-04-21 |
 | [Alive](https://open.spotify.com/track/4eZiBjSsbi4ObiL8s5rzP7) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Will Rumens](https://open.spotify.com/artist/5TfjEnaDv8EQY3ZHdFhi10), [James Goodwin](https://open.spotify.com/artist/7mwW4BNynO3Apo4zOaX6NE) | [Alive](https://open.spotify.com/album/50iBssHKHKsQNrvQ5t434t) | 2:37 | 2022-01-14 | 2023-01-16 |
-| [All I Need](https://open.spotify.com/track/2mAY7Wb1oOCggiUKbyfvjb) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [All I Need](https://open.spotify.com/album/08cpmAgexKWlRgAMouQKNk) | 2:31 | 2022-12-23 |  |
+| [All I Need](https://open.spotify.com/track/2mAY7Wb1oOCggiUKbyfvjb) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [All I Need](https://open.spotify.com/album/08cpmAgexKWlRgAMouQKNk) | 2:31 | 2022-12-23 | 2023-02-01 |
 | [All I Wanna Do](https://open.spotify.com/track/0BiGd2FNDQ0eh79ZHfp6tS) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [All I Wanna Do](https://open.spotify.com/album/5iTIgNz59Z4j1wtX0I29z8) | 3:14 | 2022-04-01 | 2022-04-21 |
 | [All or Nothing \(feat\. Axel Ehnström\) \- Sultan + Shepard Remix](https://open.spotify.com/track/52DNTZvyZREUZC6dEjq3J6) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Axel Ehnström](https://open.spotify.com/artist/2sRQFLs62KkM8UTW3DjDFM), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [All Or Nothing \(feat\. Axel Ehnström\) \[Remixes Part 2\]](https://open.spotify.com/album/5hYQG9MTBpC3SRpTpJoC36) | 3:35 | 2022-01-14 | 2022-07-29 |
 | [All Roads Lead Here \(Edit\)](https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW) | [Mark Bassano](https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u) | [All Roads Lead Here \(Edit\)](https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7) | 2:41 | 2022-04-01 |  |
@@ -579,5 +579,6 @@
 | [You Got The Love](https://open.spotify.com/track/5lcJJ2GAzXeci2r2xMY8A8) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Coral Reef](https://open.spotify.com/artist/2Ia6l1oSkQazPGlu5AF8CT), [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr) | [You Got The Love](https://open.spotify.com/album/3UKKGVYi4CzMejmkHNs9tx) | 3:39 | 2022-06-03 |  |
 | [Young Folks](https://open.spotify.com/track/1ZbnlbHcFW9UQLOEsem7cW) | [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp), [BNHM](https://open.spotify.com/artist/5Dbey2rYHmx0fZWywHiO2N) | [Young Folks](https://open.spotify.com/album/2Bkg3j2UVTek8CephLWRfL) | 2:41 | 2022-05-27 |  |
 | [Younger \- Kygo Remix](https://open.spotify.com/track/7vHshinTU8161w69EPbabY) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 5:51 | 2022-01-14 | 2022-04-21 |
+| [Your Way](https://open.spotify.com/track/4xhaSm2xWAebv2TuJ79uk7) | [Johannes Jungleson](https://open.spotify.com/artist/7ofvDzzumewLcN4apfxAxS), [Tropical Fairytale](https://open.spotify.com/artist/0viQiu9whoGSMkX0fF0kob) | [Beach House](https://open.spotify.com/album/4HVVC70ITUZGyvGEs8XGDd) | 2:28 | 2023-01-20 |  |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

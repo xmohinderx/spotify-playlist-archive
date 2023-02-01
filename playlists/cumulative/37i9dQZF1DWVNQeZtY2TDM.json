@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 186943,
       "name": "1 AM",
       "url": "https://open.spotify.com/track/35KBw8OtWX30KkATDRAAmM"
@@ -2099,6 +2099,28 @@
     },
     {
       "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/36QXY33eNXodxtuLORTqeA"
+      },
+      "artists": [
+        {
+          "name": "Zadon",
+          "url": "https://open.spotify.com/artist/0WsHMstGTwjQSkx7PlS50X"
+        },
+        {
+          "name": "Cykko",
+          "url": "https://open.spotify.com/artist/6gQ5lg2r9qzumBycPid5Va"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183243,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/0FFoseRrR7f5CBPpUEs3Ua"
+    },
+    {
+      "album": {
         "name": "It's On",
         "url": "https://open.spotify.com/album/5ZG2jqmq2hvUqjhY6jEmSZ"
       },
@@ -2664,6 +2686,24 @@
       "duration_ms": 160610,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7l4iGgJEtmhkHVkt5Qk7b1"
+    },
+    {
+      "album": {
+        "name": "MS1021",
+        "url": "https://open.spotify.com/album/2NSPaxy7V2ijn4f7HpGOpX"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u888b XAMAX",
+          "url": "https://open.spotify.com/artist/6WDt8bC3yWK6yWA7ri0ngf"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "MS1021",
+      "url": "https://open.spotify.com/track/4fN51gSuL0T1QsIBQoG6FB"
     },
     {
       "album": {
@@ -8894,7 +8934,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 214000,
       "name": "\u91ce\u767e\u5408",
       "url": "https://open.spotify.com/track/1byiztwbgvGLUp61H5H2gU"

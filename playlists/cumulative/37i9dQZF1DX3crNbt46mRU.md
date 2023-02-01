@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: ROSALÍA
 
-5,054 songs - 10 day 17 hr 23 min
+5,055 songs - 10 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3160,7 +3160,8 @@
 | [nicht zurück](https://open.spotify.com/track/1Jqie0hgg4uoTnArdMUyRX) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [nicht zurück](https://open.spotify.com/album/75iumYyLOrSnqe5pdoOd47) | 2:18 | 2022-11-24 | 2022-12-02 |
 | [Nichts Macht Mich Kaputt](https://open.spotify.com/track/4apYkUv1eTKQZ3hHuGS8Kh) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Nichts Macht Mich Kaputt](https://open.spotify.com/album/7pVSS0DqJHiXFrQgauxEAf) | 3:39 | 2023-01-19 | 2023-01-27 |
 | [Nichts mehr zu sagen](https://open.spotify.com/track/3oFGSWIHymEjUFRLG8lKfw) | [Max Giesinger](https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Nichts mehr zu sagen](https://open.spotify.com/album/5Vm4CA7kRdLjEIgJA0n07R) | 2:31 | 2022-02-17 | 2022-02-25 |
-| [Nie am Meer](https://open.spotify.com/track/5STNGHbs8oGwUxgnt8qgc1) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Nie am Meer](https://open.spotify.com/album/4wRBCUGypXUFJGoHn06i07) | 2:32 | 2023-01-26 |  |
+| [Nie am Meer](https://open.spotify.com/track/4XfPpFn08l5weRQsyEqdMK) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Nie am Meer](https://open.spotify.com/album/6ujmeQAptYTzsHzfymj2AF) | 2:32 | 2023-01-27 |  |
+| [Nie am Meer](https://open.spotify.com/track/5STNGHbs8oGwUxgnt8qgc1) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Nie am Meer](https://open.spotify.com/album/4wRBCUGypXUFJGoHn06i07) | 2:32 | 2023-01-26 | 2023-02-01 |
 | [Nie begegnet](https://open.spotify.com/track/4XRccHR60N7YYtlJj8qF5j) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID), [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Red Flags](https://open.spotify.com/album/5GGDeuR7IHebRwkdj0AeGi) | 2:45 | 2022-03-18 | 2022-03-25 |
 | [Nie davon](https://open.spotify.com/track/2MLDfhmAN3zq8VRBeVYnns) | [MORGEN](https://open.spotify.com/artist/6YWq8Bl0IRFCWyRYTzthjZ) | [Nie davon](https://open.spotify.com/album/4SWBqOPlefT1XmXgWNX4nr) | 3:22 | 2022-03-03 | 2022-03-11 |
 | [NIE GEBRAUCHT](https://open.spotify.com/track/0HENmCBWVEy4gBwrgyJ5mP) | [Fard](https://open.spotify.com/artist/7iZ5x5fwRwROoX3iRWpVgN) | [NIE GEBRAUCHT](https://open.spotify.com/album/3MpBMsRi6L1s1ApgEPemqY) | 2:53 | 2022-08-18 | 2022-08-26 |

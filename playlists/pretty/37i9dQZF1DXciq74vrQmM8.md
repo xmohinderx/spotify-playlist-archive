@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. slowthai
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,128 likes - 90 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,309 likes - 90 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Urbøi
 
-225 songs - 12 hr 28 min
+226 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [In the Abstract](https://open.spotify.com/track/5v2yWi4mmtY8GZn1M6hUke) | [Andria Rose](https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK) | [In the Abstract](https://open.spotify.com/album/4YlLsK2iXvjuc8pNzGsDAw) | 3:28 | 2021-11-18 | 2022-07-28 |
 | [inigualable](https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [inigualable](https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq) | 2:58 | 2022-05-06 | 2022-12-16 |
 | [Insomnio](https://open.spotify.com/track/5LHQUyptPDRFp0kmNvJbiC) | [Miguee](https://open.spotify.com/artist/0CQoH1xwzWRr8WMQ4fmIyr) | [Insomnio](https://open.spotify.com/album/0EyF0fF1NPLbey0SmSAC6G) | 3:13 | 2021-11-18 | 2022-07-29 |
-| [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 | 2022-12-09 |  |
+| [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 | 2022-12-09 | 2023-02-01 |
 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 | 2021-11-18 | 2022-08-12 |
 | [Junto a Ti](https://open.spotify.com/track/7aF0TCs1HeKfu56uN8aqIo) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN), [Charly Salas](https://open.spotify.com/artist/4IMyzWU8HAKXwl0b1d3fzw) | [777](https://open.spotify.com/album/1ycyPY7nsBl0ijtskuAiAP) | 3:52 | 2021-11-18 | 2022-07-29 |
 | [La Ciudad](https://open.spotify.com/track/2YAhz9BUgMniYM1WNfLpkL) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN), [Charly Salas](https://open.spotify.com/artist/4IMyzWU8HAKXwl0b1d3fzw) | [La Ciudad](https://open.spotify.com/album/3tBSAGb71ctG9hvVmQFDwW) | 4:29 | 2022-01-10 | 2022-07-26 |
@@ -186,6 +186,7 @@
 | [Regalo](https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Buen Pez \(Deluz\)](https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe) | 2:57 | 2022-12-09 |  |
 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 | 2022-09-06 | 2022-10-28 |
 | [Repetición](https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Repetición](https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0) | 2:56 | 2022-09-06 | 2022-12-10 |
+| [REPROGRAMAR](https://open.spotify.com/track/2dvxBDC0XVxQDk584mjn0s) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL.3](https://open.spotify.com/album/3l2saSDzvDxeviPVDMNnzY) | 2:34 | 2023-01-30 |  |
 | [RQR](https://open.spotify.com/track/0pKMlweNP3DhXkeLQ7EhYD) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [RQR](https://open.spotify.com/album/5kC02orH2sQzlmHoUspIsb) | 2:57 | 2022-05-06 | 2022-12-13 |
 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 | 2021-11-18 | 2022-11-25 |
 | [Sad Lullaby](https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Sad Lullaby](https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd) | 3:25 | 2021-11-18 | 2022-08-12 |

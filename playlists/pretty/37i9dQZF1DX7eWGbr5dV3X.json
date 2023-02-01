@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 7704,
+  "num_followers": 7707,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMDAwM2ZiZTA2MGIxM2IxYjI5ZThkMjlhMzU4NGFjZDQ3",
+  "snapshot_id": "MTY2MTQ0MjM0NCwwMDAwMDAwMGM2MTdjMjRlNDlhMjM2YTY2NjA0ODJjNmY4YWNjZTJj",
   "tracks": [
     {
       "added_at": "2022-08-25 15:45:44",
@@ -183,6 +183,22 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Good Advice",
+        "url": "https://open.spotify.com/album/0Wwpyq7v2FvZONXMastMpb"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 164295,
+      "name": "Good Advice",
+      "url": "https://open.spotify.com/track/0ZuIJlkCgHwqc21CgHDZjB"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs"
       },
@@ -215,18 +231,18 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Good Advice",
-        "url": "https://open.spotify.com/album/0Wwpyq7v2FvZONXMastMpb"
+        "name": "Tweety",
+        "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
       },
       "artists": [
         {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
         }
       ],
-      "duration_ms": 164295,
-      "name": "Good Advice",
-      "url": "https://open.spotify.com/track/0ZuIJlkCgHwqc21CgHDZjB"
+      "duration_ms": 232773,
+      "name": "Tweety",
+      "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -247,38 +263,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Stay Proud of Me",
-        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
-      },
-      "artists": [
-        {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Honey Understand",
-      "url": "https://open.spotify.com/track/0QUAfk0TLwlhAdqhQgtaV3"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
-        "name": "Tweety",
-        "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "Tweety",
-      "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "whatever u like",
         "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 200877,
       "name": "whatever u like",
       "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "Stay Proud of Me",
+        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
+      },
+      "artists": [
+        {
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Honey Understand",
+      "url": "https://open.spotify.com/track/0QUAfk0TLwlhAdqhQgtaV3"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Stay Proud of Me",
-        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
-      },
-      "artists": [
-        {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Man Who Loves You",
-      "url": "https://open.spotify.com/track/68dUmGSHlVI88mej6pb418"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "good juju : vol. 1",
         "url": "https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS"
       },
@@ -407,6 +391,22 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
+        "name": "Stay Proud of Me",
+        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
+      },
+      "artists": [
+        {
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Man Who Loves You",
+      "url": "https://open.spotify.com/track/68dUmGSHlVI88mej6pb418"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
         "name": "Rules!",
         "url": "https://open.spotify.com/album/0kk6iwrHZ2eoRyHXMFhwga"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "Fix Me",
-        "url": "https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt"
-      },
-      "artists": [
-        {
-          "name": "Jake Zyrus",
-          "url": "https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr"
-        }
-      ],
-      "duration_ms": 205291,
-      "name": "Fix Me",
-      "url": "https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "NEVERLAND",
         "url": "https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 222928,
       "name": "NEVERLAND",
       "url": "https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "Fix Me",
+        "url": "https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt"
+      },
+      "artists": [
+        {
+          "name": "Jake Zyrus",
+          "url": "https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr"
+        }
+      ],
+      "duration_ms": 205291,
+      "name": "Fix Me",
+      "url": "https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF"
     },
     {
       "added_at": "2022-08-25 15:45:44",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-25 15:45:44",
       "album": {
-        "name": "K I'm Mortal",
-        "url": "https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P"
-      },
-      "artists": [
-        {
-          "name": "Kimmortal",
-          "url": "https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "K I'm Mortal",
-      "url": "https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o"
-    },
-    {
-      "added_at": "2022-08-25 15:45:44",
-      "album": {
         "name": "Abide",
         "url": "https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 191684,
       "name": "Abide",
       "url": "https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG"
+    },
+    {
+      "added_at": "2022-08-25 15:45:44",
+      "album": {
+        "name": "K I'm Mortal",
+        "url": "https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P"
+      },
+      "artists": [
+        {
+          "name": "Kimmortal",
+          "url": "https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "K I'm Mortal",
+      "url": "https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o"
     },
     {
       "added_at": "2022-08-25 15:45:44",

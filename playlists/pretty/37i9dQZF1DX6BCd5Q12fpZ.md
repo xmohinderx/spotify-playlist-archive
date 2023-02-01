@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,678 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,685 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 47 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 |
 | 48 | [If Love Was a Crime \- Eurovision 2016 \- Bulgaria](https://open.spotify.com/track/1G5qDCiqei7ozj5ku43TuR) | [Poli Genova](https://open.spotify.com/artist/0KTsEyWGtkglulYb0INR5g) | [If Love Was a Crime \(Eurovision 2016 \- Bulgaria\)](https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW) | 2:59 |
 | 49 | [Ne Ver, Ne Boisia \- Eurovision 2003 Version](https://open.spotify.com/track/4MuQWNaW51V9LRocFQUZRU) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [t.A.T.u\. \- The Best](https://open.spotify.com/album/0tzIPJxQTy6j6nQ3rbWXXy) | 3:02 |
-| 50 | [Je t'adore \- Eurovision Mix](https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:02 |
-| 51 | [Save Your Kisses for Me \- Alternate Take](https://open.spotify.com/track/1biEfqHE3I6ttUqTjrJMwH) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [Presenting Brotherhood of Man](https://open.spotify.com/album/1soWUJdpSw74xbk3ILnwb7) | 2:58 |
+| 50 | [Save Your Kisses for Me \- Alternate Take](https://open.spotify.com/track/1biEfqHE3I6ttUqTjrJMwH) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [Presenting Brotherhood of Man](https://open.spotify.com/album/1soWUJdpSw74xbk3ILnwb7) | 2:58 |
+| 51 | [Je t'adore \- Eurovision Mix](https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:02 |
 | 52 | [Every Way That I Can \- Philippe Laurent from Galleon Radio Edit](https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [No Boundaries](https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu) | 2:46 |
 | 53 | [Secret Combination \- Eurovision 2008 Mix](https://open.spotify.com/track/4K97pvdLv1zmJy2bvYtEFG) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH) | [Secret Combination](https://open.spotify.com/album/4neINSK3QUx2L5VGMBuE6a) | 3:02 |
 | 54 | [J'ai cherché](https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [J'ai cherché](https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u) | 3:32 |
 | 55 | [Shake It \- Eurovision Version](https://open.spotify.com/track/2xagoLNhrbVA2fpOkxs2Ze) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [To Hrono Stamatao](https://open.spotify.com/album/7hiRylz4CAVyfLftuszLVJ) | 3:00 |
 | 56 | [Monsters](https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b) | [Saara Aalto](https://open.spotify.com/artist/2OsS8RgsvMnTgDsbWVzzPn) | [Monsters](https://open.spotify.com/album/3glqvX58NEoX9D7Y60N429) | 3:00 |
-| 57 | [Is It True?](https://open.spotify.com/track/3PX9r23tKDbWOf2Na65nyH) | [Jóhanna Guðrún](https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu) | [100 íslensk í ferðalagið](https://open.spotify.com/album/5vSSV7sxiQ1DxqM3qMahtJ) | 3:00 |
+| 57 | [Glorious \- Video Edit](https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Glorious](https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC) | 3:27 |
 | 58 | [Cliche Love Song \- Another Version](https://open.spotify.com/track/3V9489pkfvGQyGUzerfI7B) | [Basim](https://open.spotify.com/artist/0AQTNnuQ6OZRjzy5MWuqfg) | [Cliche Love Song](https://open.spotify.com/album/3xCULyIXntwHXWgyt0JNVq) | 3:01 |
-| 59 | [Glorious \- Video Edit](https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Glorious](https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC) | 3:27 |
+| 59 | [Is It True?](https://open.spotify.com/track/3PX9r23tKDbWOf2Na65nyH) | [Jóhanna Guðrún](https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu) | [100 íslensk í ferðalagið](https://open.spotify.com/album/5vSSV7sxiQ1DxqM3qMahtJ) | 3:00 |
 | 60 | [Moustache](https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr) | [Twin Twin](https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx) | [Vive la vie \(Edition spéciale\)](https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf) | 2:49 |
 | 61 | [La Voix](https://open.spotify.com/track/7Kz4f9CgtAfbmPBMX5q2ZV) | [Malena Ernman](https://open.spotify.com/artist/0muluUHym4N0wB62sD0MPo), [Fredrik Kempe](https://open.spotify.com/artist/5a3wjp9dcWyJitaiwXIsC7) | [La voix du nord](https://open.spotify.com/album/0h8iIqw8uv8Rif7zPK8iml) | 2:57 |
 | 62 | [Lipstick \- Radio Edit](https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4) | [Jedward](https://open.spotify.com/artist/3WmFNCPmnVuZbVMeExH8hT) | [Lipstick](https://open.spotify.com/album/6zu4NUs9lQu996tDudt8xA) | 2:55 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 64 | [Yassou Maria](https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk) | [Sarbel](https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI) | [Sahara Euro Edition](https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk) | 3:00 |
 | 65 | [Occidentali's Karma \- Eurovision Version](https://open.spotify.com/track/4dd6dCTW5epqioOWCAwd3W) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Occidentali's Karma \(Eurovision Version\)](https://open.spotify.com/album/6427uJOkrOWP7pTF1PmkEr) | 3:03 |
 | 66 | [Jan\-Jan](https://open.spotify.com/track/0vaA3B4bcustCPx4TxgW9V) | [Inga & Anush](https://open.spotify.com/artist/1jNasAgn5gBuh73SrAuMqv) | [Menq Enq Mer Sarere](https://open.spotify.com/album/0XU1A1UzlpjAZC3zM8KNk8) | 3:01 |
-| 67 | [Diva \- English Radio Version](https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [Diva \(English Radio Version\)](https://open.spotify.com/album/7sCC935syHEuEcN6nputPm) | 3:01 |
-| 68 | [My Star](https://open.spotify.com/track/4R2tCloerHegAfPWjR3o7d) | [Brainstorm](https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z) | [Among The Suns](https://open.spotify.com/album/4mL2jwFMI82Uw5Vffdv35Q) | 3:06 |
+| 67 | [My Star](https://open.spotify.com/track/4R2tCloerHegAfPWjR3o7d) | [Brainstorm](https://open.spotify.com/artist/5kj0186KjQyHiLMK2OFJ3z) | [Among The Suns](https://open.spotify.com/album/4mL2jwFMI82Uw5Vffdv35Q) | 3:06 |
+| 68 | [Diva \- English Radio Version](https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [Diva \(English Radio Version\)](https://open.spotify.com/album/7sCC935syHEuEcN6nputPm) | 3:01 |
 | 69 | [Främling](https://open.spotify.com/track/1FndLKa7Gs9S8WKVZuq4RL) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Hits](https://open.spotify.com/album/1UAZLLyBwoQB9T5CIG0VSE) | 2:58 |
 | 70 | [Tick Tock](https://open.spotify.com/track/4kIheg2ykamUNNrSxL7t56) | [Mariya Yaremchuk](https://open.spotify.com/artist/2GcuaSJbRVxaoxtwlob8G5) | [Tick Tock](https://open.spotify.com/album/1a1Bd3Xql7hP7q2nubALBU) | 3:00 |
 | 71 | [This Is Our Night](https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [This Is Our Night](https://open.spotify.com/album/71diCysWyJmFHsEv4ExMwD) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 74 | [Requiem \- Eurovision Version](https://open.spotify.com/track/4Lhk5r1sm6MwH08JkwDZ0O) | [Alma](https://open.spotify.com/artist/6UUoOFrzfmGZ50AP9SY97H) | [Requiem \(Eurovision version\)](https://open.spotify.com/album/6ctJ0NtlKyUfFvBdWMDtII) | 3:00 |
 | 75 | [Verona \- Eurovision 2017 \- Estonia](https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD) | [Laura](https://open.spotify.com/artist/4PIW6aNu2AfeKQqkMGWVmS), [KOIT TOOME](https://open.spotify.com/artist/5eRi1IKofAOO9rEGHCgOGc) | [Verona](https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY) | 3:02 |
 
-Snapshot ID: `MTY1MjcwNzI2OCwwMDAwMDAwMGNkNmFkZjk3ZDVlOTFmMjYyY2VkODE0MTNlMDQ0MzVj`
+Snapshot ID: `MTY1MjcwNzI2OCwwMDAwMDAwMDQzOTNkOTdjMmE3OWE5ZjNkNjgzN2Q3ZGNmMGQyMzkw`

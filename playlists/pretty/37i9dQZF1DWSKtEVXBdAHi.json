@@ -1,12 +1,12 @@
 {
   "description": "Utan bra musik blir det ingen bra AW. S\u00e5 enkel \u00e4r ekvationen.",
-  "num_followers": 27119,
+  "num_followers": 27118,
   "original_name": "After Work",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDAwNzU5ODQwMDJmYjVkNTk3ZGYyYzBmZmEyZmEzZDdj",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDlhYjVlMTA2ZTk2OTIwZWJhZmE3ODZhYmQ1Yjg5ZjNk",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -135,6 +135,30 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Promises (with Sam Smith)",
+        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 213309,
+      "name": "Promises (with Sam Smith)",
+      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -195,30 +219,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Promises (with Sam Smith)",
-        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 213309,
-      "name": "Promises (with Sam Smith)",
-      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
         "url": "https://open.spotify.com/album/3meZFplbMmji648oWUNEfQ"
       },
@@ -275,22 +275,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "If I Can't Have You",
-        "url": "https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "If I Can't Have You",
-      "url": "https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Giant (with Rag'n'Bone Man)",
         "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 229184,
       "name": "Giant (with Rag'n'Bone Man)",
       "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "If I Can't Have You",
+        "url": "https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "If I Can't Have You",
+      "url": "https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -351,6 +351,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "The Greatest (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Happy Now",
         "url": "https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO"
       },
@@ -367,6 +387,22 @@
       "duration_ms": 211362,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 203417,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -391,58 +427,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "The Greatest (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 203417,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Final Song",
-        "url": "https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "Final Song",
-      "url": "https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Keep You Mine",
         "url": "https://open.spotify.com/album/6r3wtqeQLGFb59YJWz2jHC"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 174760,
       "name": "Keep You Mine",
       "url": "https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Final Song",
+        "url": "https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Final Song",
+      "url": "https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -691,26 +691,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "TIM",
-        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Joe Janiak",
-          "url": "https://open.spotify.com/artist/142TY556WknD1ZRV8XilJQ"
-        }
-      ],
-      "duration_ms": 205416,
-      "name": "Bad Reputation (feat. Joe Janiak)",
-      "url": "https://open.spotify.com/track/0HZgYFimoJG9Ijy8InUWcV"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 162081,
       "name": "Beautiful People (feat. Khalid) - NOTD Remix",
       "url": "https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "TIM",
+        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Joe Janiak",
+          "url": "https://open.spotify.com/artist/142TY556WknD1ZRV8XilJQ"
+        }
+      ],
+      "duration_ms": 205416,
+      "name": "Bad Reputation (feat. Joe Janiak)",
+      "url": "https://open.spotify.com/track/0HZgYFimoJG9Ijy8InUWcV"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -863,6 +863,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Solo Dance",
+        "url": "https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Solo Dance",
+      "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
         "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
       },
@@ -896,49 +912,13 @@
           "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         },
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
         }
       ],
-      "duration_ms": 159760,
-      "name": "Harder (with Bebe Rexha)",
-      "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Perfect (feat. Haris)",
-        "url": "https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Haris",
-          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
-        }
-      ],
-      "duration_ms": 176517,
-      "name": "Perfect (feat. Haris)",
-      "url": "https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Solo Dance",
-        "url": "https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        }
-      ],
-      "duration_ms": 174933,
-      "name": "Solo Dance",
-      "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
+      "duration_ms": 208106,
+      "name": "Breathe (feat. Ina Wroldsen)",
+      "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -963,6 +943,26 @@
       "duration_ms": 191248,
       "name": "Tough Love (feat. Agnes, Vargas & Lagola)",
       "url": "https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Perfect (feat. Haris)",
+        "url": "https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Haris",
+          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
+        }
+      ],
+      "duration_ms": 176517,
+      "name": "Perfect (feat. Haris)",
+      "url": "https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1011,6 +1011,26 @@
       "duration_ms": 151278,
       "name": "All Star",
       "url": "https://open.spotify.com/track/7eqL9wlOJXQDwzdjUbhTT0"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Snacks",
+        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Harder (with Bebe Rexha)",
+      "url": "https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1095,26 +1115,6 @@
       "duration_ms": 150005,
       "name": "Why Boy",
       "url": "https://open.spotify.com/track/2devxXJUTEIFmgt8cXaqmO"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Snacks",
-        "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Breathe (feat. Ina Wroldsen)",
-      "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Sylo Songs",
+        "url": "https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "duration_ms": 127268,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Thing For You (With Martin Solveig)",
         "url": "https://open.spotify.com/album/1cbCgek1ORPGZFKlBIhBmH"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 191398,
       "name": "Thing For You (With Martin Solveig)",
       "url": "https://open.spotify.com/track/0IhTEIjFaRt3B2NQYf9azQ"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Sylo Songs",
-        "url": "https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR"
-      },
-      "artists": [
-        {
-          "name": "Sylo",
-          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
-        }
-      ],
-      "duration_ms": 127268,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Dynamite (feat. Pretty Sister)",
-        "url": "https://open.spotify.com/album/1B0jux6nCrSuez1iPS7tUJ"
-      },
-      "artists": [
-        {
-          "name": "Nause",
-          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
-        },
-        {
-          "name": "Pretty Sister",
-          "url": "https://open.spotify.com/artist/4bvWFV51SAEocM22uiDOza"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Dynamite (feat. Pretty Sister)",
-      "url": "https://open.spotify.com/track/2Ae5awwKvQpTBKQHr1TYCg"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 130899,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Dynamite (feat. Pretty Sister)",
+        "url": "https://open.spotify.com/album/1B0jux6nCrSuez1iPS7tUJ"
+      },
+      "artists": [
+        {
+          "name": "Nause",
+          "url": "https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ"
+        },
+        {
+          "name": "Pretty Sister",
+          "url": "https://open.spotify.com/artist/4bvWFV51SAEocM22uiDOza"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Dynamite (feat. Pretty Sister)",
+      "url": "https://open.spotify.com/track/2Ae5awwKvQpTBKQHr1TYCg"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "High On Your Love",
+        "url": "https://open.spotify.com/album/3gCgNvcccB3JTjF7KKkvlx"
+      },
+      "artists": [
+        {
+          "name": "The Waked",
+          "url": "https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV"
+        },
+        {
+          "name": "Nora Andersson",
+          "url": "https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq"
+        }
+      ],
+      "duration_ms": 156283,
+      "name": "High On Your Love",
+      "url": "https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Complicated (Faustix Remix)",
         "url": "https://open.spotify.com/album/0llzH5uVLmppDsZQApY6du"
       },
@@ -1427,26 +1447,6 @@
       "duration_ms": 147840,
       "name": "Complicated - Faustix Remix",
       "url": "https://open.spotify.com/track/0HbPfCPmndvkevg4TjwcJQ"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "High On Your Love",
-        "url": "https://open.spotify.com/album/3gCgNvcccB3JTjF7KKkvlx"
-      },
-      "artists": [
-        {
-          "name": "The Waked",
-          "url": "https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV"
-        },
-        {
-          "name": "Nora Andersson",
-          "url": "https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq"
-        }
-      ],
-      "duration_ms": 156283,
-      "name": "High On Your Love",
-      "url": "https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68"
     },
     {
       "added_at": "2020-02-18 13:31:30",

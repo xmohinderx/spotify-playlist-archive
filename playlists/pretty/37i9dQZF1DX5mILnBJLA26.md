@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp?si=YTxEb8QVRxSsJ43sK\_RcXw">Robot Boii</a>, <a href="https://open.spotify.com/artist/1fErdUx62sEWHPM385qPJI?si=Qk9D\-GzRQ8qZdEJLu6Da9Q">The Alpha Boyz</a>, <a href="https://open.spotify.com/artist/6s6sk1cuHD56i0iF6d2107?si=lUv1aZJ\-TB\-hDNv9NLNz9A">ilovelethu</a> and <a href="https://open.spotify.com/artist/6sV9pBi3guVOWBgoT85qS1?si=QbXJbKBJT5Gc9BJH4q45lQ">PD Jokes</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,923 likes - 49 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,888 likes - 49 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

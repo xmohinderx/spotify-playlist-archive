@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 180253,
       "name": "Gang",
       "url": "https://open.spotify.com/track/7DyMmLnCFc3Oud0qLqKMXe"
@@ -2424,6 +2424,24 @@
       "duration_ms": 220290,
       "name": "Night Pill",
       "url": "https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy"
+    },
+    {
+      "album": {
+        "name": "Nothin",
+        "url": "https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES"
+      },
+      "artists": [
+        {
+          "name": "Worry Club",
+          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167112,
+      "name": "Nothin",
+      "url": "https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga"
     },
     {
       "album": {

@@ -1,13 +1,45 @@
 {
   "description": "Music that makes you feel like you're levitating. Image credits: NASA",
-  "num_followers": 837643,
+  "num_followers": 842279,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGE4NTM0ODIzNjdjYzMyMTMzZmFjNjgwOTMwZGQyYjY5",
+  "snapshot_id": "MTY3NTIwNDIzMywwMDAwMDAwMDNmNTg4NGFiYzdkZDE1ZjhiZTE5YzEwNGViM2I5ZTcw",
   "tracks": [
+    {
+      "added_at": "2022-11-11 23:07:15",
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Let\u2019s Start Here.",
+        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 331428,
+      "name": "WE SAW THE SUN!",
+      "url": "https://open.spotify.com/track/7FqH4CO8H5j9EXHKTBP7xE"
+    },
     {
       "added_at": "2023-01-10 19:54:13",
       "album": {
@@ -25,20 +57,20 @@
       "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
     },
     {
-      "added_at": "2023-01-03 15:29:12",
+      "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Romantic Homicide",
-        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+        "name": "Do You Like Me?",
+        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 132630,
-      "name": "Romantic Homicide",
-      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+      "duration_ms": 227663,
+      "name": "Do You Like Me?",
+      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
     },
     {
       "added_at": "2022-11-11 23:07:15",
@@ -57,22 +89,6 @@
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-11-11 23:07:15",
-      "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
-    },
-    {
       "added_at": "2022-12-16 06:50:00",
       "album": {
         "name": "Shut up My Moms Calling",
@@ -89,23 +105,7 @@
       "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
     },
     {
-      "added_at": "2023-01-30 00:50:22",
-      "album": {
-        "name": "Let\u2019s Start Here.",
-        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 331428,
-      "name": "WE SAW THE SUN!",
-      "url": "https://open.spotify.com/track/7FqH4CO8H5j9EXHKTBP7xE"
-    },
-    {
-      "added_at": "2023-01-30 00:50:22",
+      "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
@@ -125,22 +125,6 @@
       "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
     },
     {
-      "added_at": "2023-01-30 00:50:22",
-      "album": {
-        "name": "Do You Like Me?",
-        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 227663,
-      "name": "Do You Like Me?",
-      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
-    },
-    {
       "added_at": "2022-11-11 23:07:15",
       "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
@@ -155,6 +139,22 @@
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+    },
+    {
+      "added_at": "2023-01-23 15:56:53",
+      "album": {
+        "name": "this is what falling in love feels like (554Hz)",
+        "url": "https://open.spotify.com/album/2uiQo0DIcriQKVm5ivXuDO"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "golden hour",
+      "url": "https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn"
     },
     {
       "added_at": "2022-11-11 23:07:15",
@@ -173,20 +173,20 @@
       "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
-      "added_at": "2023-01-23 15:56:53",
+      "added_at": "2023-01-03 15:29:12",
       "album": {
-        "name": "this is what falling in love feels like (554Hz)",
-        "url": "https://open.spotify.com/album/2uiQo0DIcriQKVm5ivXuDO"
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 209259,
-      "name": "golden hour",
-      "url": "https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn"
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "added_at": "2022-11-11 23:07:15",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-11-11 23:07:15",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "deja vu",
-      "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
-    },
-    {
-      "added_at": "2022-11-11 23:07:15",
-      "album": {
         "name": "Je te laisserai des mots",
         "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
       },
@@ -251,38 +235,6 @@
       "duration_ms": 160853,
       "name": "Je te laisserai des mots",
       "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
-    },
-    {
-      "added_at": "2022-11-11 23:07:15",
-      "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 379226,
-      "name": "Me and Your Mama",
-      "url": "https://open.spotify.com/track/4AFsRbaLKRWo3dDtjDFA2V"
-    },
-    {
-      "added_at": "2023-01-30 00:50:22",
-      "album": {
-        "name": "Evangeline",
-        "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177880,
-      "name": "Evangeline",
-      "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
     },
     {
       "added_at": "2022-11-11 23:07:15",
@@ -303,6 +255,22 @@
     {
       "added_at": "2022-11-11 23:07:15",
       "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 379226,
+      "name": "Me and Your Mama",
+      "url": "https://open.spotify.com/track/4AFsRbaLKRWo3dDtjDFA2V"
+    },
+    {
+      "added_at": "2022-11-11 23:07:15",
+      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
@@ -315,22 +283,6 @@
       "duration_ms": 209273,
       "name": "SLOW DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
-    },
-    {
-      "added_at": "2022-11-11 23:07:15",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
     },
     {
       "added_at": "2022-11-11 23:07:15",
@@ -351,22 +303,6 @@
     {
       "added_at": "2022-11-11 23:07:15",
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 91869,
-      "name": "Formula",
-      "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
-    },
-    {
-      "added_at": "2022-11-11 23:07:15",
-      "album": {
         "name": "recently",
         "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
       },
@@ -379,6 +315,22 @@
       "duration_ms": 161929,
       "name": "rises the moon",
       "url": "https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI"
+    },
+    {
+      "added_at": "2022-11-11 23:07:15",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
     },
     {
       "added_at": "2023-01-10 19:54:13",
@@ -395,26 +347,6 @@
       "duration_ms": 208853,
       "name": "Melting",
       "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
-    },
-    {
-      "added_at": "2022-11-11 23:07:15",
-      "album": {
-        "name": "Cool It Down",
-        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 257746,
-      "name": "Spitting Off the Edge of the World",
-      "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
     },
     {
       "added_at": "2022-11-11 23:07:15",
@@ -469,20 +401,24 @@
       "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
     },
     {
-      "added_at": "2022-12-16 06:50:00",
+      "added_at": "2022-11-11 23:07:15",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
         }
       ],
-      "duration_ms": 182306,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
+      "duration_ms": 257746,
+      "name": "Spitting Off the Edge of the World",
+      "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
     },
     {
       "added_at": "2023-01-20 19:16:08",
@@ -501,20 +437,20 @@
       "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
+      "added_at": "2022-12-16 06:50:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 117773,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/5xMw6qCcpd2gBXPGTegC4W"
+      "duration_ms": 182306,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
     },
     {
       "added_at": "2022-11-11 23:07:15",
@@ -567,18 +503,18 @@
     {
       "added_at": "2022-11-11 23:07:15",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 275253,
-      "name": "PRIDE.",
-      "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"
+      "duration_ms": 215110,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
     },
     {
       "added_at": "2022-11-11 23:07:15",
@@ -615,18 +551,18 @@
     {
       "added_at": "2022-11-11 23:07:15",
       "album": {
-        "name": "Show Me How",
-        "url": "https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg"
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 215110,
-      "name": "Show Me How",
-      "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
+      "duration_ms": 275253,
+      "name": "PRIDE.",
+      "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"
     },
     {
       "added_at": "2022-11-11 23:07:15",
@@ -665,6 +601,22 @@
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
     },
     {
+      "added_at": "2023-01-24 16:16:15",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+    },
+    {
       "added_at": "2022-11-11 23:07:15",
       "album": {
         "name": "I Can't Handle Change",
@@ -679,6 +631,22 @@
       "duration_ms": 198213,
       "name": "I Can't Handle Change",
       "url": "https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7"
+    },
+    {
+      "added_at": "2022-11-11 23:07:15",
+      "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 265480,
+      "name": "ARE WE STILL FRIENDS?",
+      "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai"
     },
     {
       "added_at": "2022-12-16 06:50:00",
@@ -713,22 +681,6 @@
       "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
     },
     {
-      "added_at": "2022-11-11 23:07:15",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 307151,
-      "name": "Nights",
-      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
-    },
-    {
       "added_at": "2022-12-16 06:50:00",
       "album": {
         "name": "In Tongues (Deluxe)",
@@ -747,34 +699,18 @@
     {
       "added_at": "2022-11-11 23:07:15",
       "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 265480,
-      "name": "ARE WE STILL FRIENDS?",
-      "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 285050,
-      "name": "Did you know that there's a tunnel under Ocean Blvd",
-      "url": "https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL"
+      "duration_ms": 307151,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
     },
     {
       "added_at": "2022-11-11 23:07:15",
@@ -809,20 +745,88 @@
       "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
     },
     {
-      "added_at": "2023-01-24 16:16:15",
+      "added_at": "2022-11-11 23:07:15",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+        "name": "Mrs Magic",
+        "url": "https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
         }
       ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
+      "duration_ms": 208500,
+      "name": "Mrs Magic",
+      "url": "https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw"
+    },
+    {
+      "added_at": "2022-11-11 23:07:15",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+    },
+    {
+      "added_at": "2022-11-11 23:07:15",
+      "album": {
+        "name": "BEST INTEREST",
+        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 127921,
+      "name": "BEST INTEREST",
+      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
+    },
+    {
+      "added_at": "2022-11-11 23:07:15",
+      "album": {
+        "name": "Plastic Beach",
+        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "On Melancholy Hill",
+      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
+    },
+    {
+      "added_at": "2022-11-11 23:07:15",
+      "album": {
+        "name": "Man On The Moon II: The Legend Of Mr. Rager",
+        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 294226,
+      "name": "Mr. Rager",
+      "url": "https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5"
     }
   ],
   "unique_name": "Levitate",

@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 148254,
+  "num_followers": 148344,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI2MjY0MCwwMDAwMDAwMDFkOTRlZTUyNDUwOWZhMTJlMDA3ZmNiZWMwNDdmYjQ2",
+  "snapshot_id": "MTY3MzI2MjY0MCwwMDAwMDAwMDQ3NTk0Y2Y4MzAxMjNiMDU1OWMwYzFkZmNjYWZiMWNl",
   "tracks": [
     {
       "added_at": "2023-01-06 11:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "What a Time To Be Alive",
-        "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 198101,
-      "name": "Just You and I - Acoustic",
-      "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 231813,
       "name": "Front Porch",
       "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
+        "name": "What a Time To Be Alive",
+        "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 198101,
+      "name": "Just You and I - Acoustic",
+      "url": "https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
         "name": "Naked (Acoustic Version)",
         "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 230440,
       "name": "Naked - Acoustic Version",
       "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "Malibu Nights",
-        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
-      },
-      "artists": [
-        {
-          "name": "Cole Norton",
-          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
-        }
-      ],
-      "duration_ms": 216422,
-      "name": "Malibu Nights",
-      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
         "name": "Starving (Acoustic)",
         "url": "https://open.spotify.com/album/5btWj40qkYd8xGP9K42E7Q"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
+      },
+      "artists": [
+        {
+          "name": "Cole Norton",
+          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
+        }
+      ],
+      "duration_ms": 216422,
+      "name": "Malibu Nights",
+      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
         "name": "Fill Me Up",
         "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 154560,
       "name": "Fill Me Up",
       "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -531,18 +547,18 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "Mystery",
-        "url": "https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe"
+        "name": "Bigger Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
       },
       "artists": [
         {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
         }
       ],
-      "duration_ms": 192573,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH"
+      "duration_ms": 288731,
+      "name": "Bigger Heart (Acoustic)",
+      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -559,22 +575,6 @@
       "duration_ms": 67746,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
-        "name": "Bigger Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/7ceIMQGqG1juOgQj4PLGXc"
-      },
-      "artists": [
-        {
-          "name": "Crying Day Care Choir",
-          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
-        }
-      ],
-      "duration_ms": 288731,
-      "name": "Bigger Heart (Acoustic)",
-      "url": "https://open.spotify.com/track/0bUm2G8Iz9oWd6NvGyNWOz"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
         "name": "Dancing On My Own (Acoustic)",
         "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 253482,
       "name": "Dancing On My Own - Acoustic",
       "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "A Few More Hours at YYZ",
-        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        }
-      ],
-      "duration_ms": 196067,
-      "name": "Easy Tiger",
-      "url": "https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
         "name": "Please Keep Loving Me (Acoustic)",
         "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 197626,
       "name": "Please Keep Loving Me - Acoustic",
       "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
+        "name": "A Few More Hours at YYZ",
+        "url": "https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 196067,
+      "name": "Easy Tiger",
+      "url": "https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "10 Summers",
-        "url": "https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx"
+        "name": "The One I Love",
+        "url": "https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol"
       },
       "artists": [
         {
-          "name": "Ashley Singh",
-          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
         }
       ],
-      "duration_ms": 160500,
-      "name": "10 Summers",
-      "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
+      "duration_ms": 191386,
+      "name": "The One I Love",
+      "url": "https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -791,6 +791,22 @@
       "duration_ms": 192277,
       "name": "Mama - Acoustic",
       "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
+        "name": "10 Summers",
+        "url": "https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx"
+      },
+      "artists": [
+        {
+          "name": "Ashley Singh",
+          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "10 Summers",
+      "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -823,22 +839,6 @@
       "duration_ms": 164897,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
-        "name": "The One I Love",
-        "url": "https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 191386,
-      "name": "The One I Love",
-      "url": "https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 181897,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
         "name": "Days That End in Y",
         "url": "https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 142686,
       "name": "Days That End in Y",
       "url": "https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 181897,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
-      },
-      "artists": [
-        {
-          "name": "sadHAPPY",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
         "name": "Sometimes It's Something, Sometimes It's Nothing at All",
         "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 118826,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+      },
+      "artists": [
+        {
+          "name": "sadHAPPY",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
+      },
+      "artists": [
+        {
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
+        }
+      ],
+      "duration_ms": 193756,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 208723,
       "name": "Hailey - Acoustic",
       "url": "https://open.spotify.com/track/3npU19eWW7PoB2Va7UinRu"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz"
-      },
-      "artists": [
-        {
-          "name": "Brimsley",
-          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
-        }
-      ],
-      "duration_ms": 193756,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/39gE6tDHRL072PInfAabLi"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "When the Party's Over",
-        "url": "https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 154732,
-      "name": "When the Party's Over",
-      "url": "https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
         "name": "Mirou",
         "url": "https://open.spotify.com/album/3sBQyl3PDQP1zh5BcpKaJA"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 252346,
       "name": "Mirou",
       "url": "https://open.spotify.com/track/5GHr2k1v1ACD5MqkuCRz87"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
+        "name": "When the Party's Over",
+        "url": "https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 154732,
+      "name": "When the Party's Over",
+      "url": "https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "Sending Light (For Lucas)",
-        "url": "https://open.spotify.com/album/5AUid2DhC3kqOsq0lnLqo0"
-      },
-      "artists": [
-        {
-          "name": "SkyeChristy",
-          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
-        }
-      ],
-      "duration_ms": 194094,
-      "name": "Sending Light (For Lucas)",
-      "url": "https://open.spotify.com/track/2YyiusQW8kLLyz4f5kYyJc"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
         "name": "In Hindsight",
         "url": "https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 138220,
       "name": "I don't mind if you don't mind (draft)",
       "url": "https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
+        "name": "Sending Light (For Lucas)",
+        "url": "https://open.spotify.com/album/5AUid2DhC3kqOsq0lnLqo0"
+      },
+      "artists": [
+        {
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+        }
+      ],
+      "duration_ms": 194094,
+      "name": "Sending Light (For Lucas)",
+      "url": "https://open.spotify.com/track/2YyiusQW8kLLyz4f5kYyJc"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "Bizarre Love Triangle (Acoustic)",
-        "url": "https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb"
-      },
-      "artists": [
-        {
-          "name": "The Macarons Project",
-          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
-        }
-      ],
-      "duration_ms": 131644,
-      "name": "Bizarre Love Triangle - Acoustic",
-      "url": "https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
         "name": "Nervous",
         "url": "https://open.spotify.com/album/7t9oaBvCxhJczm9WzdVTqf"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "If I Were You",
-        "url": "https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R"
+        "name": "Bizarre Love Triangle (Acoustic)",
+        "url": "https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb"
       },
       "artists": [
         {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+          "name": "The Macarons Project",
+          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
         }
       ],
-      "duration_ms": 192604,
-      "name": "If I Were You",
-      "url": "https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6"
+      "duration_ms": 131644,
+      "name": "Bizarre Love Triangle - Acoustic",
+      "url": "https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
+        "name": "If I Were You",
+        "url": "https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 192604,
+      "name": "If I Were You",
+      "url": "https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
         "name": "Used To Be Friends",
         "url": "https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
         "name": "Wonderwall",
         "url": "https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 236094,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh"
     },
     {
       "added_at": "2023-01-06 11:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "Luck Pusher",
-        "url": "https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 163410,
-      "name": "Luck Pusher",
-      "url": "https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI"
-    },
-    {
-      "added_at": "2023-01-06 11:00:00",
-      "album": {
         "name": "Paradise (with Olivia Holt) [Acoustic]",
         "url": "https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
+        "name": "Luck Pusher",
+        "url": "https://open.spotify.com/album/5J23ETJ3kP5Nwc3vY9GgSm"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 163410,
+      "name": "Luck Pusher",
+      "url": "https://open.spotify.com/track/3OXwGvg4SZgc6bHWedBYsI"
+    },
+    {
+      "added_at": "2023-01-06 11:00:00",
+      "album": {
         "name": "Without Me (Acoustic)",
         "url": "https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-01-06 11:00:00",
       "album": {
-        "name": "Dancing (Mumbai Wedding)",
-        "url": "https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg"
+        "name": "Can We Pretend That We\u2019re Good?",
+        "url": "https://open.spotify.com/album/0FnYhRGTIsIK4aGMc4KvFw"
       },
       "artists": [
         {
-          "name": "NONONO",
-          "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
         }
       ],
-      "duration_ms": 217763,
-      "name": "Dancing (Mumbai Wedding) - Acoustic Version",
-      "url": "https://open.spotify.com/track/6VRvSWhwzioeDmxZ6UuaAR"
+      "duration_ms": 175354,
+      "name": "Can We Pretend That We\u2019re Good? - Acoustic",
+      "url": "https://open.spotify.com/track/6tgsUiewXcSnuzOTMNsEWE"
     },
     {
       "added_at": "2023-01-06 11:00:00",

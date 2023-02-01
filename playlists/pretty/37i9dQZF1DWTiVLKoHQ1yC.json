@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 133979,
+  "num_followers": 134278,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDRjMzk0MmM5NmFkNzM0ZGNkODUzNjk0N2M3NzM4ZWMz",
+  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMGUxM2MyOWM2OWFhOTY1OTExMTAyOThkMzliNTAxN2M2",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -119,6 +119,26 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Time (feat. Jules Buckley)",
         "url": "https://open.spotify.com/album/77wNbVUueAga2P28GqHovW"
       },
@@ -183,22 +203,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
         },
         {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
         }
       ],
-      "duration_ms": 213507,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
+      "duration_ms": 218000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -219,42 +239,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Because You Move Me",
-        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         },
         {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
         }
       ],
-      "duration_ms": 196375,
-      "name": "Because You Move Me",
-      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
-      },
-      "artists": [
-        {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR"
+      "duration_ms": 213507,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -339,30 +339,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Felix Raphael",
-          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
-        }
-      ],
-      "duration_ms": 262249,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "No Time (R\u00dcF\u00dcS DU SOL Remix)",
         "url": "https://open.spotify.com/album/4uYah5RDbWZkcytZ5OwdEy"
       },
@@ -399,6 +375,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+      },
+      "artists": [
+        {
+          "name": "Braxton",
+          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+        }
+      ],
+      "duration_ms": 224750,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Garden",
         "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
       },
@@ -431,18 +423,26 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Spaces",
-        "url": "https://open.spotify.com/album/79BuUC7A4UwuFOcSz9BNhB"
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK"
       },
       "artists": [
         {
-          "name": "Braxton",
-          "url": "https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Felix Raphael",
+          "url": "https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z"
         }
       ],
-      "duration_ms": 224750,
-      "name": "Spaces",
-      "url": "https://open.spotify.com/track/0bWtNDvDLoR1lgFhf2MEvY"
+      "duration_ms": 262249,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Phases EP",
-        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 253662,
-      "name": "Zeit & Raum",
-      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Celestia EP",
         "url": "https://open.spotify.com/album/7hBWsXRF3UzahsPs9fgDcp"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Lost In You EP",
-        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
+        "name": "Phases EP",
+        "url": "https://open.spotify.com/album/3KkF7vJ9dwemVpVWTNiuC6"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         }
       ],
-      "duration_ms": 210356,
-      "name": "Lost In You",
-      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
+      "duration_ms": 253662,
+      "name": "Zeit & Raum",
+      "url": "https://open.spotify.com/track/2JgYy5MXQOxxsF5jCa8mnT"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -579,6 +563,22 @@
       "duration_ms": 228843,
       "name": "Another Riff For The Good Times",
       "url": "https://open.spotify.com/track/2nfHtKszA0Ae7vQJXbARp7"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Lost In You EP",
+        "url": "https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 210356,
+      "name": "Lost In You",
+      "url": "https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
-      },
-      "artists": [
-        {
-          "name": "Herr Lang",
-          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
-        }
-      ],
-      "duration_ms": 323302,
-      "name": "Selbst",
-      "url": "https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Vivi",
         "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 236000,
       "name": "Vivi",
       "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
+      },
+      "artists": [
+        {
+          "name": "Herr Lang",
+          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
+        }
+      ],
+      "duration_ms": 323302,
+      "name": "Selbst",
+      "url": "https://open.spotify.com/track/0J6O7RnXKPtkMXy5xknwT3"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Torii",
-        "url": "https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Torii",
-      "url": "https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/5b0xNdKy95XcpoGMrRlUto"
       },
@@ -1023,6 +1007,38 @@
       "duration_ms": 466035,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/5n9si61BkJLFrxyCUABT62"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Torii",
+        "url": "https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Torii",
+      "url": "https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Face The Sun",
+        "url": "https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B"
+      },
+      "artists": [
+        {
+          "name": "Yeadon",
+          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
+        }
+      ],
+      "duration_ms": 439437,
+      "name": "Face The Sun",
+      "url": "https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1055,22 +1071,6 @@
       "duration_ms": 190280,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/7AbYGhAapbr9yxFe6IycxR"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Face The Sun",
-        "url": "https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B"
-      },
-      "artists": [
-        {
-          "name": "Yeadon",
-          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
-        }
-      ],
-      "duration_ms": 439437,
-      "name": "Face The Sun",
-      "url": "https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI"
     },
     {
       "added_at": "2022-11-25 16:56:36",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 219740,
+  "num_followers": 220267,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMGFjYmU0NTk3MTA1ZGRmYTE3ZTUwZjZkMzJhNDg2ZTk5",
+  "snapshot_id": "MTY3MTE2NjgwMCwwMDAwMDAwMDI2ZjFjMGIwZmEyYTk4YjllYWEyODgzYzI2NWIwNWU2",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -367,6 +367,38 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 162690,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Ruthless",
+        "url": "https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "duration_ms": 232548,
+      "name": "When Doves Cry - Radio Edit",
+      "url": "https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
         "name": "Lovecraft & Witch Hearts",
         "url": "https://open.spotify.com/album/1S5CAeg3cV0Y6SFPcIt2at"
       },
@@ -411,38 +443,6 @@
       "duration_ms": 210639,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Diamonds in the Rough",
-        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 162690,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
-        "name": "Ruthless",
-        "url": "https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt"
-      },
-      "artists": [
-        {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
-        }
-      ],
-      "duration_ms": 232548,
-      "name": "When Doves Cry - Radio Edit",
-      "url": "https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Looking for You",
-        "url": "https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9"
-      },
-      "artists": [
-        {
-          "name": "Amberian Dawn",
-          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
-        }
-      ],
-      "duration_ms": 233472,
-      "name": "Lay All Your Love on Me",
-      "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Under C\u00f6ver",
         "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 229499,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Looking for You",
+        "url": "https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9"
+      },
+      "artists": [
+        {
+          "name": "Amberian Dawn",
+          "url": "https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI"
+        }
+      ],
+      "duration_ms": 233472,
+      "name": "Lay All Your Love on Me",
+      "url": "https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
+        "name": "Hidden Treasures",
+        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 207453,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
+      "duration_ms": 183360,
+      "name": "No More Mr. Nice Guy",
+      "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Hidden Treasures",
-        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "No More Mr. Nice Guy",
-      "url": "https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Riddles, Ruins & Revelations",
         "url": "https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm"
       },
@@ -943,22 +927,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Graveyard Classics",
-        "url": "https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV"
-      },
-      "artists": [
-        {
-          "name": "Six Feet Under",
-          "url": "https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/1QEaDpNmEkjEb5z0hGgt17"
       },
@@ -971,6 +939,38 @@
       "duration_ms": 217600,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/75SocEUWFkQMcY4Wf90ZFH"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Graveyard Classics",
+        "url": "https://open.spotify.com/album/6xAD5ZjKofuXaFi7sR79IV"
+      },
+      "artists": [
+        {
+          "name": "Six Feet Under",
+          "url": "https://open.spotify.com/artist/4pFAF1L1tYnJHLe5hgyKuI"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/0Ox3pTGk5Dg3iN9neOJ8kP"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Renegades",
-        "url": "https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM"
-      },
-      "artists": [
-        {
-          "name": "36 Crazyfists",
-          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Renegades",
-      "url": "https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Livin' la Vida Loca (Cover)",
         "url": "https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 217452,
       "name": "Livin' la Vida Loca - Cover",
       "url": "https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Renegades",
+        "url": "https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM"
+      },
+      "artists": [
+        {
+          "name": "36 Crazyfists",
+          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Cover Me in Darkness",
-        "url": "https://open.spotify.com/album/3j69OIOknRiDRk2aaHh5tD"
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/76VYWxgc2GZTVNJGRRAoEX"
       },
       "artists": [
         {
-          "name": "Oceans",
-          "url": "https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0"
+          "name": "We're Wolves",
+          "url": "https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v"
         }
       ],
-      "duration_ms": 218051,
-      "name": "My Own Summer - Shove It",
-      "url": "https://open.spotify.com/track/3JAFPy9eiSkeevje6xmCyY"
+      "duration_ms": 202099,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/5eDJaMNW8uSayxhKBXhmUW"
     }
   ],
   "unique_name": "Metal Covers",

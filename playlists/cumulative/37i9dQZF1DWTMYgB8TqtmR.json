@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186123,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
+    },
+    {
+      "album": {
         "name": "AVION / BRING EM",
         "url": "https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z"
       },
@@ -734,6 +752,24 @@
       "duration_ms": 205280,
       "name": "Birthday Cake",
       "url": "https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme"
+    },
+    {
+      "album": {
+        "name": "Blicky",
+        "url": "https://open.spotify.com/album/5k2auh0NC6uVPr1HsxHlTl"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148284,
+      "name": "Blicky",
+      "url": "https://open.spotify.com/track/5U0ndjpjzmT1aoLr3pB4zO"
     },
     {
       "album": {
@@ -1895,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Feeling Myself",
+        "url": "https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Feeling Myself",
+      "url": "https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1"
+    },
+    {
+      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
       },
@@ -2736,7 +2790,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
@@ -4294,7 +4348,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 213473,
       "name": "N\u00e5t i vattnet",
       "url": "https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa"
@@ -5224,7 +5278,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 132954,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe"

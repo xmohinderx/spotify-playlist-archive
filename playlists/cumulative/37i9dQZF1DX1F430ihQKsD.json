@@ -3103,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "Flickering Lights",
+        "url": "https://open.spotify.com/album/6w8iEyywSIzRUayxEjr9JC"
+      },
+      "artists": [
+        {
+          "name": "Mirabelle",
+          "url": "https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196799,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/2M2MpJLcjmuXYDbFrA8OoE"
+    },
+    {
+      "album": {
         "name": "Vie d'ange",
         "url": "https://open.spotify.com/album/02sz0knMpefNYQB2vYLthH"
       },

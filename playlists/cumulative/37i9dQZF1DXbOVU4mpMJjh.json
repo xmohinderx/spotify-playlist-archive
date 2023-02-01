@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Blue Mist",
+        "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
+      },
+      "artists": [
+        {
+          "name": "Matt Marantz Quartet",
+          "url": "https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204544,
+      "name": "Blue Mist",
+      "url": "https://open.spotify.com/track/4douYG0S01NIbF0vyz7PPb"
+    },
+    {
+      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth"
       },
@@ -4789,6 +4807,24 @@
     },
     {
       "album": {
+        "name": "Let's go uptown",
+        "url": "https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3"
+      },
+      "artists": [
+        {
+          "name": "Newington Green",
+          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140648,
+      "name": "Let's go uptown",
+      "url": "https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA"
+    },
+    {
+      "album": {
         "name": "Blueberry Street",
         "url": "https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo"
       },
@@ -4962,7 +4998,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 281401,
       "name": "Lola and Kirby",
       "url": "https://open.spotify.com/track/1vQoF7wKfKt2WWIDePABo3"
@@ -5002,6 +5038,24 @@
       "duration_ms": 226073,
       "name": "Look For The Silver Lining",
       "url": "https://open.spotify.com/track/7CIQyeJuQUrJu3W8CoqAmu"
+    },
+    {
+      "album": {
+        "name": "Looking Forward",
+        "url": "https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH"
+      },
+      "artists": [
+        {
+          "name": "Steve Luke & Holloway",
+          "url": "https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191874,
+      "name": "Looking Forward",
+      "url": "https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp"
     },
     {
       "album": {
@@ -5898,7 +5952,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 254026,
       "name": "My Romance - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2"
@@ -7650,7 +7704,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 263150,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/284ow3724GLZLY9g2ITnDn"

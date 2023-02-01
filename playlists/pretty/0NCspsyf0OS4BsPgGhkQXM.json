@@ -1,13 +1,33 @@
 {
   "description": "The official Trap Nation playlist - cover featuring  <a href=\"https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ?si=4o4mzT0XSOGJyVWb7jw7oQ\">INZO </a>.",
-  "num_followers": 2033765,
+  "num_followers": 2033710,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTI4NjYsNjQxZDY1MjkwMjNjMjIyMWFiNzNlYmFhY2NkMWU3ZTljODliNDUwOA==",
+  "snapshot_id": "MTI4NjksYzAzODc0YmNmZGMxZTRlZDhlNjI1NGEzNGJmNDAzNTJmMDZjZjhmNw==",
   "tracks": [
+    {
+      "added_at": "2023-01-30 01:45:51",
+      "album": {
+        "name": "DON'T LOOK DOWN (feat. Lizzy Land)",
+        "url": "https://open.spotify.com/album/7m8fnIJ9yEu4ose0FQUR3N"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "DON'T LOOK DOWN (feat. Lizzy Land)",
+      "url": "https://open.spotify.com/track/5rIpzFDp0sYDCQytYDG96W"
+    },
     {
       "added_at": "2023-01-20 10:24:24",
       "album": {
@@ -31,6 +51,30 @@
       "duration_ms": 158503,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/4WbnbAM4ov4GWdTPNQR15z"
+    },
+    {
+      "added_at": "2023-02-01 00:25:37",
+      "album": {
+        "name": "Numb & Cold",
+        "url": "https://open.spotify.com/album/2WZ632oPBqRmkn0fPftDNg"
+      },
+      "artists": [
+        {
+          "name": "K Theory",
+          "url": "https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt"
+        },
+        {
+          "name": "Mr. Rayger",
+          "url": "https://open.spotify.com/artist/31QlEKXoKhhLdYkBVIg5Qw"
+        },
+        {
+          "name": "Denham",
+          "url": "https://open.spotify.com/artist/343100ZTZbzjyyiMou8kYP"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Numb & Cold",
+      "url": "https://open.spotify.com/track/1H0xVdrV4VxhFhDGWQ3fUh"
     },
     {
       "added_at": "2023-01-13 14:42:13",
@@ -2627,6 +2671,26 @@
       "duration_ms": 210000,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9"
+    },
+    {
+      "added_at": "2023-01-31 17:07:03",
+      "album": {
+        "name": "Found You",
+        "url": "https://open.spotify.com/album/2EV0Y92S2OUlgxeAZjgSjB"
+      },
+      "artists": [
+        {
+          "name": "ODEA",
+          "url": "https://open.spotify.com/artist/6u6w26aq4RMgO0i4ZRvAwd"
+        },
+        {
+          "name": "Vaux",
+          "url": "https://open.spotify.com/artist/6Hx3KkS4jF8cJBEwFi6OHa"
+        }
+      ],
+      "duration_ms": 245581,
+      "name": "Found You",
+      "url": "https://open.spotify.com/track/22UhyRzrygZzLFJHkchvlk"
     }
   ],
   "unique_name": "Trap Nation",

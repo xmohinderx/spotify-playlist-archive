@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: DannyLux
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,611 likes - 67 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,811 likes - 67 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

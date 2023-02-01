@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 5402,
+  "num_followers": 5479,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGJhZjU2MmY0NGJmODA2YTBkODNiOTBkYTA1ZmM2ZThk",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMGQzYjFlZGQ0ODM2ZjMxMmUwZWU5MDNiZTFlZjEzNDA2",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -155,8 +155,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 246040,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+      "duration_ms": 232800,
+      "name": "Liberian Girl - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -239,42 +239,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Tawk Tomahawk",
-        "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        },
-        {
-          "name": "Q-Tip",
-          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
-        }
-      ],
-      "duration_ms": 275320,
-      "name": "Nakamarra (feat. Q-Tip)",
-      "url": "https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Liberian Girl - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -295,6 +259,42 @@
       "duration_ms": 324440,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Tawk Tomahawk",
+        "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        },
+        {
+          "name": "Q-Tip",
+          "url": "https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU"
+        }
+      ],
+      "duration_ms": 275320,
+      "name": "Nakamarra (feat. Q-Tip)",
+      "url": "https://open.spotify.com/track/12v5GBM74fB8WsHJPQRTIe"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -387,6 +387,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Really Doe",
+          "url": "https://open.spotify.com/artist/69m0yjx8ruKebsRvbNuEDz"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "We Major",
+      "url": "https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "I Want You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
@@ -435,30 +459,6 @@
       "duration_ms": 316893,
       "name": "You Know How to Make Me Feel so Good (feat. Sharon Paige)",
       "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Really Doe",
-          "url": "https://open.spotify.com/artist/69m0yjx8ruKebsRvbNuEDz"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "We Major",
-      "url": "https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Dame Dash Presents Paid In Full / Dream Team",
         "url": "https://open.spotify.com/album/6cea3Mk3rvbeqZFqSt7TEy"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 180613,
       "name": "FIND YOUR WINGS - Instrumental",
       "url": "https://open.spotify.com/track/3xLUgT2u1LGSFAI1hFSNJz"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Mayhem Machine",
-        "url": "https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK"
-      },
-      "artists": [
-        {
-          "name": "Project Mayhem",
-          "url": "https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl"
-        }
-      ],
-      "duration_ms": 257071,
-      "name": "Just Chill",
-      "url": "https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "ALL NIGHT (Goodlife)",
         "url": "https://open.spotify.com/album/6RA2KhowTm52zctoAWF90v"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 215003,
       "name": "ALL NIGHT (Goodlife)",
       "url": "https://open.spotify.com/track/5ZXrVNnQoKEMLcZ1s6Davv"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Mayhem Machine",
+        "url": "https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK"
+      },
+      "artists": [
+        {
+          "name": "Project Mayhem",
+          "url": "https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl"
+        }
+      ],
+      "duration_ms": 257071,
+      "name": "Just Chill",
+      "url": "https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4"
     }
   ],
   "unique_name": "Coodie & Chike's Taste",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU?si=aFVb2xGZRoCUk3Mc4z6AdQ"> Pawzz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,416 likes - 91 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,445 likes - 91 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 28 | [Blessings](https://open.spotify.com/track/0U7ZICZtRhWB3oSMdtulDL) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Kae's Study](https://open.spotify.com/album/3zvBH4f8pSkOgOfkn6fHVV) | 2:40 |
 | 29 | [How To Kill A Man \- Acoustic](https://open.spotify.com/track/1XQ0EtxFkmXdy9CwN3ihST) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [How To Kill A Man \(Acoustic\)](https://open.spotify.com/album/4qFn5L8w0027MonWrHowRP) | 2:53 |
 | 30 | [Sade's Dilemma](https://open.spotify.com/track/6TTbMeipMlRTXGHXV996Bl) | [Musmah](https://open.spotify.com/artist/2UtsSN12dSDhK0ZtPqVLbC) | [Sade's Dilemma](https://open.spotify.com/album/30IJ8Q1JIQOu3mBlmoyQPi) | 2:44 |
-| 31 | [Show Me Something](https://open.spotify.com/track/0bexhCKTPDlufk97tVvo3v) | [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w), [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Vader the Wildcard](https://open.spotify.com/artist/2hqg3nrEdtdSTiMMllWO2w), [Kaey](https://open.spotify.com/artist/5QxTvd1ydIesFmXZ7bv9ou) | [Show Me Something](https://open.spotify.com/album/2lhMtPZJOQRmwdCgONmZqb) | 2:58 |
+| 31 | [Show Me Something](https://open.spotify.com/track/0bexhCKTPDlufk97tVvo3v) | [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w), [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Kaey](https://open.spotify.com/artist/5QxTvd1ydIesFmXZ7bv9ou), [Vader the Wildcard](https://open.spotify.com/artist/2hqg3nrEdtdSTiMMllWO2w) | [Show Me Something](https://open.spotify.com/album/2lhMtPZJOQRmwdCgONmZqb) | 2:58 |
 | 32 | [Cracks of You](https://open.spotify.com/track/2ERqWwFLCzEGV1YPtKfxB6) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Cracks of You](https://open.spotify.com/album/6yEXMFSLXCMnATdGEG95Hm) | 2:56 |
 | 33 | [Searching](https://open.spotify.com/track/2WItNg5JRQhUmljytl28EC) | [Loti](https://open.spotify.com/artist/68vnTeEFYHwyYIviDda37B) | [Searching](https://open.spotify.com/album/2w0x3evno73a7CzXMi9CrJ) | 2:16 |
 | 34 | [Nintendo](https://open.spotify.com/track/6NGkIFFToKYJ6i94a1r8W5) | [Bu$h](https://open.spotify.com/artist/0ERc2vuRyMs0kb3NYeDddB), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Nintendo](https://open.spotify.com/album/1VBgtk29DLjw1NzWiVBBQ4) | 2:36 |

@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1516636,
+  "num_followers": 1517683,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGVkM2RiMTUyMzY5ZTdjMWJiZTUzZWE2OTE0NjUxYmE3",
+  "snapshot_id": "MTY3MzU4NjAwMCwwMDAwMDAwMGRlMzk0Y2IwYjczM2YzOWMwNjc4YmZiNjc0M2RlMTI2",
   "tracks": [
     {
       "added_at": "2023-01-13 05:00:00",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "How Do I Say Goodbye",
-        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 163603,
-      "name": "How Do I Say Goodbye",
-      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "How Do I Say Goodbye",
+        "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 163603,
+      "name": "How Do I Say Goodbye",
+      "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 185486,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O"
       },
@@ -403,6 +387,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 185486,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Seal",
         "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 288426,
       "name": "Kiss from a Rose",
       "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -463,6 +447,22 @@
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 286386,
+      "name": "I Guess I Just Feel Like",
+      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 286386,
-      "name": "I Guess I Just Feel Like",
-      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Tieduprightnow",
         "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
-        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Leaving My Love Behind",
-      "url": "https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Freya Ridings",
         "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
+      "duration_ms": 210213,
+      "name": "Leaving My Love Behind",
+      "url": "https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -771,6 +755,22 @@
       "duration_ms": 240439,
       "name": "Water Under the Bridge",
       "url": "https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Please Keep Loving Me",
-        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
-      "duration_ms": 195920,
-      "name": "Please Keep Loving Me",
-      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
+      "duration_ms": 163547,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/6u4ZwK6xSWHhREBVzhjQg6"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 163547,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Busyhead",
         "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 213320,
       "name": "Mess",
       "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Please Keep Loving Me",
+        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Please Keep Loving Me",
+      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1175,6 +1175,38 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Hold Me While You Wait",
+        "url": "https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 205686,
+      "name": "Hold Me While You Wait",
+      "url": "https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 182028,
+      "name": "Smiling All The Way Back Home",
+      "url": "https://open.spotify.com/track/2GMnysJaMa483o0gIOinzB"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Leisure",
         "url": "https://open.spotify.com/album/1rGGYPdkJpabSlwScxK8fO"
       },
@@ -1203,38 +1235,6 @@
       "duration_ms": 221386,
       "name": "Say Love",
       "url": "https://open.spotify.com/track/49PVaqTTK6qn8Ku5BIR8Gt"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 182028,
-      "name": "Smiling All The Way Back Home",
-      "url": "https://open.spotify.com/track/2GMnysJaMa483o0gIOinzB"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Hold Me While You Wait",
-        "url": "https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 205686,
-      "name": "Hold Me While You Wait",
-      "url": "https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1311,38 +1311,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "If I Was (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 163116,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/2jJlynVhghoeXJXjfbEXyg"
       },
@@ -1359,6 +1327,22 @@
       "duration_ms": 235810,
       "name": "Missing You (with Ashe)",
       "url": "https://open.spotify.com/track/7xtsuU7WlDNmTzUQ32oQ7r"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "If I Was (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "I'm on Fire",
+      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1395,6 +1379,38 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 163116,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Echos",
+        "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 203253,
+      "name": "Stand Your Ground",
+      "url": "https://open.spotify.com/track/5X3w2MfxgMTZkn2mTPQs0u"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
         "name": "Automatic For The People",
         "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
       },
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "georgia got colder",
-        "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 195400,
-      "name": "broken",
-      "url": "https://open.spotify.com/track/44siIYlT1dMRQysOVjEvdF"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
       },
@@ -1459,34 +1459,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Echos",
-        "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
+        "name": "georgia got colder",
+        "url": "https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2"
       },
       "artists": [
         {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
         }
       ],
-      "duration_ms": 203253,
-      "name": "Stand Your Ground",
-      "url": "https://open.spotify.com/track/5X3w2MfxgMTZkn2mTPQs0u"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 201086,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
+      "duration_ms": 195400,
+      "name": "broken",
+      "url": "https://open.spotify.com/track/44siIYlT1dMRQysOVjEvdF"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1503,6 +1487,22 @@
       "duration_ms": 348093,
       "name": "Gamesofluck",
       "url": "https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 201086,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
+        "name": "portraits",
+        "url": "https://open.spotify.com/album/3YuXuSnRfq8NuYE7UjHQKk"
       },
       "artists": [
         {
-          "name": "Bleu Toucan",
-          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
         }
       ],
-      "duration_ms": 194082,
-      "name": "Hano\u00ef caf\u00e9",
-      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
+      "duration_ms": 170363,
+      "name": "shut up",
+      "url": "https://open.spotify.com/track/0vBlrSOT8xxEBgKay0Otr4"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -1631,34 +1631,34 @@
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "portraits",
-        "url": "https://open.spotify.com/album/3YuXuSnRfq8NuYE7UjHQKk"
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
       },
       "artists": [
         {
-          "name": "Greyson Chance",
-          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
         }
       ],
-      "duration_ms": 170363,
-      "name": "shut up",
-      "url": "https://open.spotify.com/track/0vBlrSOT8xxEBgKay0Otr4"
+      "duration_ms": 194082,
+      "name": "Hano\u00ef caf\u00e9",
+      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
     },
     {
       "added_at": "2023-01-13 05:00:00",
       "album": {
-        "name": "Blackbird",
-        "url": "https://open.spotify.com/album/1bRwDTGgn9UrTW4neDEWs4"
+        "name": "L\u00c9ON",
+        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
       },
       "artists": [
         {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 183571,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/0c9Vl4iBLhsmzttG0X4XhY"
+      "duration_ms": 224063,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
     }
   ],
   "unique_name": "Dinner with Friends",

@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 358266,
       "name": "B.O.T.A. (Baddest Of Them All)",
       "url": "https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso"
@@ -259,6 +259,28 @@
     },
     {
       "album": {
+        "name": "demon time",
+        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168723,
+      "name": "e-motions (with Erika de Casier)",
+      "url": "https://open.spotify.com/track/3FTtAV8d9qHyMjlvAGOPdu"
+    },
+    {
+      "album": {
         "name": "FOUND LOVE (feat. Carrie Baxter)",
         "url": "https://open.spotify.com/album/7ut4PfRhGtazFoK7UOMxbs"
       },
@@ -353,6 +375,50 @@
     },
     {
       "album": {
+        "name": "I Just Wanna Dance",
+        "url": "https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "I Just Wanna Dance",
+      "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
+    },
+    {
+      "album": {
+        "name": "I Need (Conducta Remix)",
+        "url": "https://open.spotify.com/album/5I7S15cRPsyx2SwENn1m0B"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200597,
+      "name": "I Need - Conducta Remix",
+      "url": "https://open.spotify.com/track/0WCBFEAI67viaVbBsLeJVl"
+    },
+    {
+      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/55QcBgtjtm2j1u1pFVAF8Q"
       },
@@ -437,6 +503,28 @@
     },
     {
       "album": {
+        "name": "It's Your Time",
+        "url": "https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt"
+      },
+      "artists": [
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        },
+        {
+          "name": "Jamie Boy Bassline",
+          "url": "https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186659,
+      "name": "It's Your Time",
+      "url": "https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa"
+    },
+    {
+      "album": {
         "name": "It\u2019s A Love Thing",
         "url": "https://open.spotify.com/album/2DPGnMwSkAMjDukOojCsNt"
       },
@@ -452,6 +540,28 @@
       "duration_ms": 202000,
       "name": "It\u2019s A Love Thing",
       "url": "https://open.spotify.com/track/63sLliVYvTftRNtsHyaE4T"
+    },
+    {
+      "album": {
+        "name": "Just Like This",
+        "url": "https://open.spotify.com/album/0EZKngr341TDvW4Kx2kgkU"
+      },
+      "artists": [
+        {
+          "name": "Dominus",
+          "url": "https://open.spotify.com/artist/7FhIV59gJWqj0nK49jRsf1"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262153,
+      "name": "Just Like This",
+      "url": "https://open.spotify.com/track/5xq0oTpoS5MgSTmmcHNcPy"
     },
     {
       "album": {
@@ -510,6 +620,24 @@
       "duration_ms": 239500,
       "name": "Lakitu",
       "url": "https://open.spotify.com/track/5nNlZr313BQHVEWjA1cJmy"
+    },
+    {
+      "album": {
+        "name": "Last One (Radio Edit)",
+        "url": "https://open.spotify.com/album/1Jjli1uPzQWhs8LegerhxF"
+      },
+      "artists": [
+        {
+          "name": "BAKEY",
+          "url": "https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193741,
+      "name": "Last One - Radio Edit",
+      "url": "https://open.spotify.com/track/20t3pWQ6aB5YyloO6RDcBT"
     },
     {
       "album": {
@@ -720,7 +848,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 333435,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3EZ5f8Mhz5qniiyUQ9bfNq"
@@ -822,7 +950,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 288000,
       "name": "Real Badman - Bakey Remix",
       "url": "https://open.spotify.com/track/1fNBFxMDl2gOg6vs3oXXHb"
@@ -887,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Shinichiro Yokota Presents Do It Again and Again",
+        "url": "https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me"
+      },
+      "artists": [
+        {
+          "name": "Shinichiro Yokota",
+          "url": "https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271504,
+      "name": "Right Here! Right Now!",
+      "url": "https://open.spotify.com/track/4n9lVLJfHKtu7ogdcTOUdZ"
+    },
+    {
+      "album": {
         "name": "Right Together (feat. Rachel Chinouriri)",
         "url": "https://open.spotify.com/album/4rU7B8ztRuttCxeRVHhzom"
       },
@@ -902,7 +1048,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 185000,
       "name": "Right Together (feat. Rachel Chinouriri)",
       "url": "https://open.spotify.com/track/0wxi24FvxpoyBSsg9ugskd"
@@ -1026,7 +1172,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 162879,
       "name": "Still Sleepless",
       "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
@@ -1156,7 +1302,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 230149,
       "name": "Temperature",
       "url": "https://open.spotify.com/track/60558jIMonmVGsALQrJh0n"

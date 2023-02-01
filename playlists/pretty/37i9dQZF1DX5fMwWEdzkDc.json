@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 7456,
+  "num_followers": 7494,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMGM3MGE2NGMxMmU2NjdhMmNkNTU4MTc4YTFiZjU4MzEw",
+  "snapshot_id": "MTYxNTQ3OTk3MSwwMDAwMDAwMDI1MzE4YjlmYjZkMTQ4ZWNjZDMxMTQ4ZGI5NGY2NWFl",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "SHAKE IT",
-        "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "SHAKE IT",
-      "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Girls' Generation",
         "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
       },
@@ -243,8 +227,8 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Honey (Special Edition)",
-        "url": "https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB"
+        "name": "Pretty Girl (2nd Mini Album)",
+        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
       },
       "artists": [
         {
@@ -252,9 +236,25 @@
           "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI"
+      "duration_ms": 209920,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "SHAKE IT",
+        "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 208506,
+      "name": "SHAKE IT",
+      "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -307,6 +307,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "\ubc8c\uc368 \uc77c\ub144",
+      "url": "https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Davichi In Wonderland",
         "url": "https://open.spotify.com/album/1nsgg32Iq4kANSRjdAxRTo"
       },
@@ -323,18 +339,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+        "name": "Honey (Special Edition)",
+        "url": "https://open.spotify.com/album/0vAZzuihx388IsfLUPamzB"
       },
       "artists": [
         {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
         }
       ],
-      "duration_ms": 207826,
-      "name": "\ubc8c\uc368 \uc77c\ub144",
-      "url": "https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv"
+      "duration_ms": 195000,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7K0qoyK48Um3llVR4TH0rI"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -355,22 +371,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Pretty Girl (2nd Mini Album)",
-        "url": "https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 Best Collection",
         "url": "https://open.spotify.com/album/0hYIKujukWBdeVb8Cv3Qy7"
       },
@@ -383,6 +383,22 @@
       "duration_ms": 263040,
       "name": "\ub0b4 \uba38\ub9ac\uac00 \ub098\ube60\uc11c",
       "url": "https://open.spotify.com/track/1cKxbdfl0lytWFFMXsoCEA"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "DJ Chully's Handsome Vol.1",
+        "url": "https://open.spotify.com/album/5QqBi6noPokRSDtKOdXaTH"
+      },
+      "artists": [
+        {
+          "name": "So Chan-Whee",
+          "url": "https://open.spotify.com/artist/7fgBlQWIOLXuOwQ2nLS2FI"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/02laG0v03OGNH74mEWOH3V"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -415,22 +431,6 @@
       "duration_ms": 228153,
       "name": "\ube44\ubc00\ubc88\ud638 486",
       "url": "https://open.spotify.com/track/0GtnPY1LePGHquWzIEiqMj"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "DJ Chully's Handsome Vol.1",
-        "url": "https://open.spotify.com/album/5QqBi6noPokRSDtKOdXaTH"
-      },
-      "artists": [
-        {
-          "name": "So Chan-Whee",
-          "url": "https://open.spotify.com/artist/7fgBlQWIOLXuOwQ2nLS2FI"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/02laG0v03OGNH74mEWOH3V"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "SOLISTA Part.2",
-        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
-      },
-      "artists": [
-        {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 251689,
-      "name": "Last Love",
-      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 271986,
       "name": "\uc5b4\ub5a4\uac00\uc694",
       "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "SOLISTA Part.2",
+        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 251689,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "It's Different",
-        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
-      },
-      "artists": [
-        {
-          "name": "Gummy",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
-      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "HEY, COME ON! - The 4th Album",
         "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
       },
@@ -823,22 +807,6 @@
       "duration_ms": 201866,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Get All Right SHOWCHESTRA Live Album",
-        "url": "https://open.spotify.com/album/5Xv45jxK6sH2jVISOe8sTH"
-      },
-      "artists": [
-        {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 290951,
-      "name": "Miss you",
-      "url": "https://open.spotify.com/track/3OJENg3aGHj5v1cSq3Xnbv"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -875,6 +843,38 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Get All Right SHOWCHESTRA Live Album",
+        "url": "https://open.spotify.com/album/5Xv45jxK6sH2jVISOe8sTH"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 290951,
+      "name": "Miss you",
+      "url": "https://open.spotify.com/track/3OJENg3aGHj5v1cSq3Xnbv"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "It's Different",
+        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
+      },
+      "artists": [
+        {
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 272662,
       "name": "Missing you",
       "url": "https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "MIRACLE - The 2.5th Album",
+        "url": "https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "VALENTI",
+      "url": "https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -955,54 +971,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "\uc911\ub3c5",
-        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
-      },
-      "artists": [
-        {
-          "name": "Na Yoon Kwon",
-          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
-        }
-      ],
-      "duration_ms": 262562,
-      "name": "\ub098\uc600\uc73c\uba74",
-      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "Brown Eyed Girls BEST - Special Moments",
-        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 258062,
-      "name": "Must Have Love",
-      "url": "https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "MIRACLE - The 2.5th Album",
-        "url": "https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "VALENTI",
-      "url": "https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
       },
@@ -1019,18 +987,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "\ub098\ub294\uac00\uc218\ub2e4 \uc2dc\uc98c3 1\ud68c '\uc790\uc2e0\uc758 \ub300\ud45c\uace1'",
-        "url": "https://open.spotify.com/album/4taROD1UypCjbIgisuLolT"
+        "name": "\uc911\ub3c5",
+        "url": "https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK"
       },
       "artists": [
         {
-          "name": "SWEET SORROW",
-          "url": "https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb"
+          "name": "Na Yoon Kwon",
+          "url": "https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw"
         }
       ],
-      "duration_ms": 273084,
-      "name": "\uc544\ubb34\ub9ac \uc0dd\uac01\ud574\ub3c4 \ub09c \ub108\ub97c",
-      "url": "https://open.spotify.com/track/6Ml3XSfeVLUJEZ8OK6aLC6"
+      "duration_ms": 262562,
+      "name": "\ub098\uc600\uc73c\uba74",
+      "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1051,18 +1019,34 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "It's Raining",
-        "url": "https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ"
+        "name": "\ub098\ub294\uac00\uc218\ub2e4 \uc2dc\uc98c3 1\ud68c '\uc790\uc2e0\uc758 \ub300\ud45c\uace1'",
+        "url": "https://open.spotify.com/album/4taROD1UypCjbIgisuLolT"
       },
       "artists": [
         {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+          "name": "SWEET SORROW",
+          "url": "https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb"
         }
       ],
-      "duration_ms": 225306,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog"
+      "duration_ms": 273084,
+      "name": "\uc544\ubb34\ub9ac \uc0dd\uac01\ud574\ub3c4 \ub09c \ub108\ub97c",
+      "url": "https://open.spotify.com/track/6Ml3XSfeVLUJEZ8OK6aLC6"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Brown Eyed Girls BEST - Special Moments",
+        "url": "https://open.spotify.com/album/5KnUQXqS4EtUiN0tn8sW8y"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 258062,
+      "name": "Must Have Love",
+      "url": "https://open.spotify.com/track/1yzemwgOr4cz8yVLCIGM9f"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "T.O.P - The 2nd Album",
-        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
+        "name": "It's Raining",
+        "url": "https://open.spotify.com/album/3oZ0ClkVrQS6pqb2VCCbhZ"
       },
       "artists": [
         {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
         }
       ],
-      "duration_ms": 281760,
-      "name": "T.O.P. (Twinkling Of Paradise)",
-      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
+      "duration_ms": 225306,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/2g05KWuVd5Rixv1YtSSTog"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "T.O.P - The 2nd Album",
+        "url": "https://open.spotify.com/album/6pu3g3bwekMRa0QWQ7XGyG"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 281760,
+      "name": "T.O.P. (Twinkling Of Paradise)",
+      "url": "https://open.spotify.com/track/3b0Bt0CBAEesLLO0CifT5r"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "\uc774\uc740\ubbf8 LIVE CONCERT \uac00\uc2b4\uc774 \ub6f4\ub2e4",
         "url": "https://open.spotify.com/album/2zFdzuOnmYvh9fKJgRpOIm"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 258000,
       "name": "\uc560\uc778\u2026\uc788\uc5b4\uc694",
       "url": "https://open.spotify.com/track/4hDdZkmUuBiM8mQSGXeY75"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "RAIN 2",
+        "url": "https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "\ud0dc\uc591\uc744 \ud53c\ud558\ub294 \ubc29\ubc95 How to Run From the Sun (Gtr.Remix)",
+      "url": "https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1203,6 +1219,22 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
+        "name": "Purple Drop",
+        "url": "https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo"
+      },
+      "artists": [
+        {
+          "name": "HUS",
+          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Hawaian Couple",
+      "url": "https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
         "name": "Digital Bounce",
         "url": "https://open.spotify.com/album/3o9MuNv5noRVl9IJL01BK6"
       },
@@ -1215,22 +1247,6 @@
       "duration_ms": 218120,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/07BrAHEuDfgZ3mtHZyCa6u"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "RAIN 2",
-        "url": "https://open.spotify.com/album/7gjMBUCENFdEPZwSlVW1gE"
-      },
-      "artists": [
-        {
-          "name": "Rain",
-          "url": "https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "\ud0dc\uc591\uc744 \ud53c\ud558\ub294 \ubc29\ubc95 How to Run From the Sun (Gtr.Remix)",
-      "url": "https://open.spotify.com/track/2ESHlCrJsHzgx8XL1MCkFo"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Type B (1)",
-        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
-      },
-      "artists": [
-        {
-          "name": "Son Dam Bi",
-          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
         "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
       },
@@ -1283,34 +1283,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Purple Drop",
-        "url": "https://open.spotify.com/album/1OSnHPkpPMWO8BEqwKfURo"
+        "name": "Type B (1)",
+        "url": "https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC"
       },
       "artists": [
         {
-          "name": "HUS",
-          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
+          "name": "Son Dam Bi",
+          "url": "https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Hawaian Couple",
-      "url": "https://open.spotify.com/track/1Yd6CizL523PL8IsdkmKCD"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "The Breeze Of Sea",
-        "url": "https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S"
-      },
-      "artists": [
-        {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
-        }
-      ],
-      "duration_ms": 329026,
-      "name": "\ucd94\uc5b5\uc740 \uc0ac\ub791\uc744 \ub2ee\uc544",
-      "url": "https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq"
+      "duration_ms": 222171,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Change Yourself",
-        "url": "https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj"
+        "name": "The Breeze Of Sea",
+        "url": "https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S"
       },
       "artists": [
         {
-          "name": "The Jadu",
-          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
         }
       ],
-      "duration_ms": 240440,
-      "name": "\ub300\ud654\uac00 \ud544\uc694\ud574",
-      "url": "https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0"
+      "duration_ms": 329026,
+      "name": "\ucd94\uc5b5\uc740 \uc0ac\ub791\uc744 \ub2ee\uc544",
+      "url": "https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1359,6 +1343,22 @@
       "duration_ms": 210626,
       "name": "1Tym",
       "url": "https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Change Yourself",
+        "url": "https://open.spotify.com/album/3lNo7TgizMXNYTve1wIYJj"
+      },
+      "artists": [
+        {
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "\ub300\ud654\uac00 \ud544\uc694\ud574",
+      "url": "https://open.spotify.com/track/7uiRy0wTGtP1XC536Ot7V0"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Jadu 3",
-        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
-      },
-      "artists": [
-        {
-          "name": "The Jadu",
-          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "\uae40\ubc25",
-      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "\uac70\uc9d3\ub9d0",
         "url": "https://open.spotify.com/album/4oMBjLj06m5BzRVd5PB3b5"
       },
@@ -1499,34 +1483,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Beautiful Mind",
-        "url": "https://open.spotify.com/album/5uPLGc3hT67DBjd7eNFd1L"
+        "name": "The Jadu 3",
+        "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
       },
       "artists": [
         {
-          "name": "KCM",
-          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
+          "name": "The Jadu",
+          "url": "https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU"
         }
       ],
-      "duration_ms": 234841,
-      "name": "An old love story",
-      "url": "https://open.spotify.com/track/4jknyio1tolPfGu539fE87"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
-        "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544",
-        "url": "https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi"
-      },
-      "artists": [
-        {
-          "name": "\uae40\ud615\uc911",
-          "url": "https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp"
-        }
-      ],
-      "duration_ms": 269362,
-      "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544....",
-      "url": "https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW"
+      "duration_ms": 225866,
+      "name": "\uae40\ubc25",
+      "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1547,18 +1515,18 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "SE7EN New Mini Album",
-        "url": "https://open.spotify.com/album/769iSuDv4ZwnUZajcITZPI"
+        "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544",
+        "url": "https://open.spotify.com/album/7khCA52u74RIec1Cpg6uEi"
       },
       "artists": [
         {
-          "name": "SE7EN",
-          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+          "name": "\uae40\ud615\uc911",
+          "url": "https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp"
         }
       ],
-      "duration_ms": 235426,
-      "name": "When I Can't Sing (\ub0b4\uac00 \ub178\ub798\ub97c \ubabb\ud574\ub3c4)",
-      "url": "https://open.spotify.com/track/04DzNacNQnSlCqs9bJX4Eg"
+      "duration_ms": 269362,
+      "name": "\uadf8\ub140\uac00 \uc6c3\uc796\uc544....",
+      "url": "https://open.spotify.com/track/2vx6QD9i5UTKkXQOjJ3DHW"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1575,6 +1543,38 @@
       "duration_ms": 221066,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/0mBqZHt102BjZ6Rb6EQJ2a"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/5uPLGc3hT67DBjd7eNFd1L"
+      },
+      "artists": [
+        {
+          "name": "KCM",
+          "url": "https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K"
+        }
+      ],
+      "duration_ms": 234841,
+      "name": "An old love story",
+      "url": "https://open.spotify.com/track/4jknyio1tolPfGu539fE87"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "SE7EN New Mini Album",
+        "url": "https://open.spotify.com/album/769iSuDv4ZwnUZajcITZPI"
+      },
+      "artists": [
+        {
+          "name": "SE7EN",
+          "url": "https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "When I Can't Sing (\ub0b4\uac00 \ub178\ub798\ub97c \ubabb\ud574\ub3c4)",
+      "url": "https://open.spotify.com/track/04DzNacNQnSlCqs9bJX4Eg"
     },
     {
       "added_at": "2021-03-11 16:26:11",

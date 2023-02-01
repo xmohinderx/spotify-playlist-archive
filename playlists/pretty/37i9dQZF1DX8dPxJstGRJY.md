@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,655 likes - 53 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,325 likes - 53 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,6 +60,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 50 | [En Aranjuez Con Tu Amor](https://open.spotify.com/track/1YO3Bwr2S9kTfdkCu56qUx) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Ancora](https://open.spotify.com/album/79iT83MLmTgVXfW5ZqJZNI) | 3:50 |
 | 51 | [Veni Creator Spiritus](https://open.spotify.com/track/6K1z9GdRDtg4wrclq649lZ) | [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Juliette Pochin](https://open.spotify.com/artist/4UD32JlXGLthCDSEkkB5sV), [Poor Clare Sisters Arundel](https://open.spotify.com/artist/2yEndu1Rs4a7uBoFUSZPla) | [Light for the World](https://open.spotify.com/album/5hBu1cttYYkclsdxeKzKRy) | 2:13 |
 | 52 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 |
-| 53 | [Never Say Goodbye \(Adapted from "Pavane, M\. 19"\)](https://open.spotify.com/track/3I31KiGNOh9uelfmpAjCGE) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6) | [River Of Dreams \- The Very Best of Hayley Westenra](https://open.spotify.com/album/2mTBvr7If9pz5DplK6bE9r) | 3:13 |
+| 53 | [Never Say Goodbye \(Adapted From "Pavane, M\. 19"\)](https://open.spotify.com/track/3I31KiGNOh9uelfmpAjCGE) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6) | [River Of Dreams \- The Very Best of Hayley Westenra](https://open.spotify.com/album/2mTBvr7If9pz5DplK6bE9r) | 3:13 |
 
 Snapshot ID: `MTY3MzI2NTcyOCwwMDAwMDAwMGEzNzM1NTBhYWI2Y2ZkMmU1ZGI3ZWM1MDEzOTdjMDc2`

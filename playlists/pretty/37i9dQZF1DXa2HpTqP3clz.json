@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Trampled by Turtles",
-  "num_followers": 117317,
+  "num_followers": 117377,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDExMWFmZDQ2NmJhMTAyYTk1OWU5Njc2ZDQwMmY1YWUz",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMDk3NWUxMmQ0NjU4OWFlZDA4YWJiNmExMGMwYTE3MWU4",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
-        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 185430,
-      "name": "Oh Sarah",
-      "url": "https://open.spotify.com/track/25oxeU7fMQVrxvScjCMAeC"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Easy Listening for Jerks, Pt. 2",
         "url": "https://open.spotify.com/album/6v6ZJt4l99JznyJ9YnMwwK"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 191485,
       "name": "People Are Strange",
       "url": "https://open.spotify.com/track/4sBXlQqVp4UpsI0wENiu88"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
+        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 185430,
+      "name": "Oh Sarah",
+      "url": "https://open.spotify.com/track/25oxeU7fMQVrxvScjCMAeC"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Long Violent History",
+        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 248453,
+      "name": "Midnight on the Water",
+      "url": "https://open.spotify.com/track/2wvkWO6Pys01AT32nOc5RB"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Hazard & Fate",
         "url": "https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 285306,
       "name": "Engine Trouble",
       "url": "https://open.spotify.com/track/3J2SefFgx68fw3RI2x2OLx"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Watchhouse",
-        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 185728,
-      "name": "New Star",
-      "url": "https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -383,6 +383,70 @@
       "duration_ms": 182826,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4lOjyWEkIRRuD3mdiR0yka"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "The Ballad of Dood & Juanita",
+        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 157696,
+      "name": "Go in Peace",
+      "url": "https://open.spotify.com/track/0wD2Ow0tFreEoTfWYt02gT"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Cinnamon Tree",
+        "url": "https://open.spotify.com/album/0arXqCi4zIfsH1wrQeVvux"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 124013,
+      "name": "Buck Creek Girls",
+      "url": "https://open.spotify.com/track/4k21BxdAMVfOnX3IS7yv8J"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -411,66 +475,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Long Violent History",
-        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
+        "name": "Easy Listening for Jerks, Pt. 1",
+        "url": "https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
         }
       ],
-      "duration_ms": 248453,
-      "name": "Midnight on the Water",
-      "url": "https://open.spotify.com/track/2wvkWO6Pys01AT32nOc5RB"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "The Ballad of Dood & Juanita",
-        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 157696,
-      "name": "Go in Peace",
-      "url": "https://open.spotify.com/track/0wD2Ow0tFreEoTfWYt02gT"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Cinnamon Tree",
-        "url": "https://open.spotify.com/album/0arXqCi4zIfsH1wrQeVvux"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 124013,
-      "name": "Buck Creek Girls",
-      "url": "https://open.spotify.com/track/4k21BxdAMVfOnX3IS7yv8J"
+      "duration_ms": 235516,
+      "name": "Will the Circle Be Unbroken",
+      "url": "https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -491,18 +507,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Easy Listening for Jerks, Pt. 1",
-        "url": "https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW"
+        "name": "Turmoil & Tinfoil",
+        "url": "https://open.spotify.com/album/3CKP5G9f93RBbUi73HnyVC"
       },
       "artists": [
         {
-          "name": "The Dead South",
-          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 235516,
-      "name": "Will the Circle Be Unbroken",
-      "url": "https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW"
+      "duration_ms": 276004,
+      "name": "While I'm Waiting Here",
+      "url": "https://open.spotify.com/track/2AHa3IJtKoe0pvO5ZX1WU8"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -523,18 +539,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Turmoil & Tinfoil",
-        "url": "https://open.spotify.com/album/3CKP5G9f93RBbUi73HnyVC"
+        "name": "The Ballad of Dood & Juanita",
+        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
       },
       "artists": [
         {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 276004,
-      "name": "While I'm Waiting Here",
-      "url": "https://open.spotify.com/track/2AHa3IJtKoe0pvO5ZX1WU8"
+      "duration_ms": 280669,
+      "name": "Shamrock",
+      "url": "https://open.spotify.com/track/2TgtHzz2v3jnNGZCVUXc4V"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -571,22 +587,6 @@
       "duration_ms": 120609,
       "name": "Jenny Put the Kettle On",
       "url": "https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "The Ballad of Dood & Juanita",
-        "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 280669,
-      "name": "Shamrock",
-      "url": "https://open.spotify.com/track/2TgtHzz2v3jnNGZCVUXc4V"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Renewal",
+        "url": "https://open.spotify.com/album/2as5ea7TPPkXI2OINaMjZR"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 381146,
+      "name": "Heartbeat Of America",
+      "url": "https://open.spotify.com/track/3nLSoJ2zkTw3j31G3TNHuC"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "We Were Cowboys",
         "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Renewal",
-        "url": "https://open.spotify.com/album/2as5ea7TPPkXI2OINaMjZR"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 381146,
-      "name": "Heartbeat Of America",
-      "url": "https://open.spotify.com/track/3nLSoJ2zkTw3j31G3TNHuC"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
         "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Mount Royal",
-        "url": "https://open.spotify.com/album/795pGXIkCO2lS7aNZ2joI0"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage & Chris Eldridge",
-          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/3ztXpLv0VLCcuqRVz0das3"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Lyin' Low",
         "url": "https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 258683,
       "name": "Lyin' Low",
       "url": "https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Mount Royal",
+        "url": "https://open.spotify.com/album/795pGXIkCO2lS7aNZ2joI0"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage & Chris Eldridge",
+          "url": "https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/3ztXpLv0VLCcuqRVz0das3"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Storyman",
-        "url": "https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm"
-      },
-      "artists": [
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Play By Your Own Rules",
-      "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Harder Than Steel",
         "url": "https://open.spotify.com/album/3pei7yQ2k0a5pgcRZkCjBr"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 249000,
       "name": "Harder Than Steel",
       "url": "https://open.spotify.com/track/03xIPbTIXnqTJnElXpDYjY"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Storyman",
+        "url": "https://open.spotify.com/album/25F6ItCZFGZ79LvZVhlDIm"
+      },
+      "artists": [
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "Play By Your Own Rules",
+      "url": "https://open.spotify.com/track/1ckFSTIyJECBMf9PX0Ezhc"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+        "name": "In The Morning Light",
+        "url": "https://open.spotify.com/album/1SpVLRagMwmLmP4KwnINWr"
       },
       "artists": [
         {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 281953,
-      "name": "Monument",
-      "url": "https://open.spotify.com/track/2Moh0ZPXOEn1yS19crNIFE"
+      "duration_ms": 282480,
+      "name": "In The Morning Light",
+      "url": "https://open.spotify.com/track/7JjkNKImotm0EnATDEmnGu"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "In The Morning Light",
-        "url": "https://open.spotify.com/album/1SpVLRagMwmLmP4KwnINWr"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 282480,
-      "name": "In The Morning Light",
-      "url": "https://open.spotify.com/track/7JjkNKImotm0EnATDEmnGu"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "In The Ground",
         "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
       },
       "artists": [
         {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
         }
       ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+      "duration_ms": 281953,
+      "name": "Monument",
+      "url": "https://open.spotify.com/track/2Moh0ZPXOEn1yS19crNIFE"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
       },
       "artists": [
         {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Any Old Time",
-      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Any Old Time",
+      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 153968,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7lLdVymMzVJxq6sl8VPDzJ"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "On the Highway",
+        "url": "https://open.spotify.com/album/6boMPNouaBFYwXU3dspEuh"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "On the Highway",
+      "url": "https://open.spotify.com/track/2BMVIOP0O37s5K7OW9uW3b"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1191,6 +1207,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Twisted Pine",
+        "url": "https://open.spotify.com/album/5kZPWAZ9ms0hRmgt9hpijv"
+      },
+      "artists": [
+        {
+          "name": "Twisted Pine",
+          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
+        }
+      ],
+      "duration_ms": 252428,
+      "name": "When I Called Your Name",
+      "url": "https://open.spotify.com/track/6SZ1bNDsPyDeEaIq9cosxw"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Rosa Lee McFall (Live)",
         "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
       },
@@ -1207,38 +1239,6 @@
       "duration_ms": 150575,
       "name": "Rosa Lee McFall - Live",
       "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "On the Highway",
-        "url": "https://open.spotify.com/album/6boMPNouaBFYwXU3dspEuh"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "On the Highway",
-      "url": "https://open.spotify.com/track/2BMVIOP0O37s5K7OW9uW3b"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Twisted Pine",
-        "url": "https://open.spotify.com/album/5kZPWAZ9ms0hRmgt9hpijv"
-      },
-      "artists": [
-        {
-          "name": "Twisted Pine",
-          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
-        }
-      ],
-      "duration_ms": 252428,
-      "name": "When I Called Your Name",
-      "url": "https://open.spotify.com/track/6SZ1bNDsPyDeEaIq9cosxw"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Tall Tales & Fables",
-        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
-      },
-      "artists": [
-        {
-          "name": "Haunted Like Human",
-          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
-        }
-      ],
-      "duration_ms": 177414,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
       },
@@ -1327,6 +1311,38 @@
       "duration_ms": 205933,
       "name": "She Left Me Standing on the Mountain",
       "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Tall Tales & Fables",
+        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
+      },
+      "artists": [
+        {
+          "name": "Haunted Like Human",
+          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
+        }
+      ],
+      "duration_ms": 177414,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/3B6rXVRd0W6KkRpWNDSCdF"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 263662,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/0yFEjOFIloELuqQZoYJZR1"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1355,38 +1371,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Tempest & Rapture",
-        "url": "https://open.spotify.com/album/6wvpesFCyaJ2DPmD0U2g28"
-      },
-      "artists": [
-        {
-          "name": "The Deer",
-          "url": "https://open.spotify.com/artist/1Hhsvgh6jPbzakInEaTFAJ"
-        }
-      ],
-      "duration_ms": 274115,
-      "name": "Winter to Pry",
-      "url": "https://open.spotify.com/track/4475bUCSvAIbnHVlxQzhZ6"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/3B6rXVRd0W6KkRpWNDSCdF"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 263662,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/0yFEjOFIloELuqQZoYJZR1"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Laws Of Gravity",
         "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "The More I Learn",
-        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
+        "name": "Tempest & Rapture",
+        "url": "https://open.spotify.com/album/6wvpesFCyaJ2DPmD0U2g28"
       },
       "artists": [
         {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+          "name": "The Deer",
+          "url": "https://open.spotify.com/artist/1Hhsvgh6jPbzakInEaTFAJ"
         }
       ],
-      "duration_ms": 246853,
-      "name": "The More I Learn",
-      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
+      "duration_ms": 274115,
+      "name": "Winter to Pry",
+      "url": "https://open.spotify.com/track/4475bUCSvAIbnHVlxQzhZ6"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Forlorn Strangers",
-        "url": "https://open.spotify.com/album/5V4SGNKV8NKpHY96uCCFSe"
+        "name": "The More I Learn",
+        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
       },
       "artists": [
         {
-          "name": "Forlorn Strangers",
-          "url": "https://open.spotify.com/artist/7rlb4ZH6RO0juVpvZXWqif"
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Bottom Of The Barrel",
-      "url": "https://open.spotify.com/track/6rs3NpGtXxKRoUpJsvGUtR"
+      "duration_ms": 246853,
+      "name": "The More I Learn",
+      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1467,6 +1451,38 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Honey on My Tongue",
+        "url": "https://open.spotify.com/album/05H2cjz5UyKcNXkZAVw0vn"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "Honey on My Tongue",
+      "url": "https://open.spotify.com/track/7dWU9dceisIvOkZuteFl1A"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Forlorn Strangers",
+        "url": "https://open.spotify.com/album/5V4SGNKV8NKpHY96uCCFSe"
+      },
+      "artists": [
+        {
+          "name": "Forlorn Strangers",
+          "url": "https://open.spotify.com/artist/7rlb4ZH6RO0juVpvZXWqif"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Bottom Of The Barrel",
+      "url": "https://open.spotify.com/track/6rs3NpGtXxKRoUpJsvGUtR"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Paint This Town",
         "url": "https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex"
       },
@@ -1479,6 +1495,22 @@
       "duration_ms": 252160,
       "name": "Gloryland",
       "url": "https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Turning Up The Ground",
+        "url": "https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        }
+      ],
+      "duration_ms": 264842,
+      "name": "Gone Gone Gone",
+      "url": "https://open.spotify.com/track/7kYOulCKFjv81OmoGbPNIC"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1515,54 +1547,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Honey on My Tongue",
-        "url": "https://open.spotify.com/album/05H2cjz5UyKcNXkZAVw0vn"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Honey on My Tongue",
-      "url": "https://open.spotify.com/track/7dWU9dceisIvOkZuteFl1A"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Turning Up The Ground",
-        "url": "https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
-        }
-      ],
-      "duration_ms": 264842,
-      "name": "Gone Gone Gone",
-      "url": "https://open.spotify.com/track/7kYOulCKFjv81OmoGbPNIC"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Black Muddy River",
         "url": "https://open.spotify.com/album/4NEAI6IneYPx1gyD0drCON"
       },
@@ -1583,46 +1567,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "I'll Blame It on the Rain",
-        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
-      },
-      "artists": [
-        {
-          "name": "Hammertowne",
-          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "I'll Blame It on the Rain",
-      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "My Bluegrass Heart",
-        "url": "https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 369571,
-      "name": "Round Rock (feat. Michael Cleveland & Jerry Douglas)",
-      "url": "https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "All The Lilacs In Ohio",
         "url": "https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au"
       },
@@ -1639,6 +1583,62 @@
       "duration_ms": 209040,
       "name": "All The Lilacs In Ohio",
       "url": "https://open.spotify.com/track/5kjXFnaAnDT1LoZ0Ql4ood"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
+      },
+      "artists": [
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
+        "url": "https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 255369,
+      "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
+      "url": "https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "I'll Blame It on the Rain",
+        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
+      },
+      "artists": [
+        {
+          "name": "Hammertowne",
+          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "I'll Blame It on the Rain",
+      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1687,46 +1687,6 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Live Sessions, Vol. 03",
-        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
-      },
-      "artists": [
-        {
-          "name": "The Petersens",
-          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
-        }
-      ],
-      "duration_ms": 160525,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
-        "url": "https://open.spotify.com/album/0GtT7uD8ebTxZ26ExOksy9"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 255369,
-      "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
-      "url": "https://open.spotify.com/track/38yl3Y2LbWFmphbaVwvKEy"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
         "name": "Rise Sun",
         "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
       },
@@ -1739,6 +1699,30 @@
       "duration_ms": 348849,
       "name": "Planets",
       "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "My Bluegrass Heart",
+        "url": "https://open.spotify.com/album/2mi6ZJQlD25OEzmZOTL7hR"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "duration_ms": 369571,
+      "name": "Round Rock (feat. Michael Cleveland & Jerry Douglas)",
+      "url": "https://open.spotify.com/track/0476Xf6sinSTPQGtvTex9A"
     },
     {
       "added_at": "2023-01-27 05:00:00",
@@ -1763,6 +1747,50 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
+        "name": "Live Sessions, Vol. 03",
+        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
+      },
+      "artists": [
+        {
+          "name": "The Petersens",
+          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
+        }
+      ],
+      "duration_ms": 160525,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
+        "name": "Commencement",
+        "url": "https://open.spotify.com/album/1jDsr7E1Nh5SqkLqbHgfV2"
+      },
+      "artists": [
+        {
+          "name": "Chandler Beavers",
+          "url": "https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv"
+        },
+        {
+          "name": "Jeremy Garrett",
+          "url": "https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14"
+        },
+        {
+          "name": "Jake Eddy",
+          "url": "https://open.spotify.com/artist/7qxSMvd1FcjpR87E0vITu4"
+        },
+        {
+          "name": "Josh Underwood",
+          "url": "https://open.spotify.com/artist/4upiWSmYVqXrrwX31Lef3K"
+        }
+      ],
+      "duration_ms": 291276,
+      "name": "Commencement",
+      "url": "https://open.spotify.com/track/7DhlCi536R0nnOewj8pgUq"
+    },
+    {
+      "added_at": "2023-01-27 05:00:00",
+      "album": {
         "name": "Spirit to the Sea",
         "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
       },
@@ -1775,22 +1803,6 @@
       "duration_ms": 239346,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
-    },
-    {
-      "added_at": "2023-01-27 05:00:00",
-      "album": {
-        "name": "In Dreams I Go Back",
-        "url": "https://open.spotify.com/album/19fZiSuSzooQAYE714nE5A"
-      },
-      "artists": [
-        {
-          "name": "Seth Mulder & Midnight Run",
-          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "In Dreams I Go Back",
-      "url": "https://open.spotify.com/track/5XOTE4TkhlCE2FGfjJIKlo"
     }
   ],
   "unique_name": "Grass Roots",

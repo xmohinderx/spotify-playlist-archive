@@ -1,13 +1,145 @@
 {
   "description": "<a href=\"spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn\">Conducta</a>'s favorite tracks. Updated regularly. Curated by Conducta. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 1121,
+  "num_followers": 1160,
   "original_name": "Conducta's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM2Mjc4MywwMDAwMDAwMGIzYjRiNmE1YTY3MWEwZDRkMjgyZTQyZTY4NDA2ZDU0",
+  "snapshot_id": "MTY3NTIwOTYwMCwwMDAwMDAwMGIwY2QzNTA3Yzc0OWUyNWZmMTA0YWQ3NWUyNjU1NTUz",
   "tracks": [
+    {
+      "added_at": "2023-02-01 00:00:00",
+      "album": {
+        "name": "I Need (Conducta Remix)",
+        "url": "https://open.spotify.com/album/5I7S15cRPsyx2SwENn1m0B"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Conducta",
+          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
+        }
+      ],
+      "duration_ms": 200597,
+      "name": "I Need - Conducta Remix",
+      "url": "https://open.spotify.com/track/0WCBFEAI67viaVbBsLeJVl"
+    },
+    {
+      "added_at": "2023-02-01 00:00:00",
+      "album": {
+        "name": "Last One (Radio Edit)",
+        "url": "https://open.spotify.com/album/1Jjli1uPzQWhs8LegerhxF"
+      },
+      "artists": [
+        {
+          "name": "BAKEY",
+          "url": "https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT"
+        }
+      ],
+      "duration_ms": 193741,
+      "name": "Last One - Radio Edit",
+      "url": "https://open.spotify.com/track/20t3pWQ6aB5YyloO6RDcBT"
+    },
+    {
+      "added_at": "2023-02-01 00:00:00",
+      "album": {
+        "name": "Just Like This",
+        "url": "https://open.spotify.com/album/0EZKngr341TDvW4Kx2kgkU"
+      },
+      "artists": [
+        {
+          "name": "Dominus",
+          "url": "https://open.spotify.com/artist/7FhIV59gJWqj0nK49jRsf1"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "duration_ms": 262153,
+      "name": "Just Like This",
+      "url": "https://open.spotify.com/track/5xq0oTpoS5MgSTmmcHNcPy"
+    },
+    {
+      "added_at": "2023-02-01 00:00:00",
+      "album": {
+        "name": "demon time",
+        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 168723,
+      "name": "e-motions (with Erika de Casier)",
+      "url": "https://open.spotify.com/track/3FTtAV8d9qHyMjlvAGOPdu"
+    },
+    {
+      "added_at": "2023-02-01 00:00:00",
+      "album": {
+        "name": "Shinichiro Yokota Presents Do It Again and Again",
+        "url": "https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me"
+      },
+      "artists": [
+        {
+          "name": "Shinichiro Yokota",
+          "url": "https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV"
+        }
+      ],
+      "duration_ms": 271504,
+      "name": "Right Here! Right Now!",
+      "url": "https://open.spotify.com/track/4n9lVLJfHKtu7ogdcTOUdZ"
+    },
+    {
+      "added_at": "2023-02-01 00:00:00",
+      "album": {
+        "name": "It's Your Time",
+        "url": "https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt"
+      },
+      "artists": [
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        },
+        {
+          "name": "Jamie Boy Bassline",
+          "url": "https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj"
+        }
+      ],
+      "duration_ms": 186659,
+      "name": "It's Your Time",
+      "url": "https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa"
+    },
+    {
+      "added_at": "2023-02-01 00:00:00",
+      "album": {
+        "name": "I Just Wanna Dance",
+        "url": "https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "I Just Wanna Dance",
+      "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
+    },
     {
       "added_at": "2023-01-10 14:59:43",
       "album": {
@@ -555,26 +687,6 @@
     {
       "added_at": "2023-01-10 14:59:43",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/5yLe0pcnvhX7VF0RV7t0Uw"
-      },
-      "artists": [
-        {
-          "name": "Hans Glader",
-          "url": "https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG"
-        },
-        {
-          "name": "SG",
-          "url": "https://open.spotify.com/artist/5J6V5SRCXByid3HbFYXUOh"
-        }
-      ],
-      "duration_ms": 333435,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/3EZ5f8Mhz5qniiyUQ9bfNq"
-    },
-    {
-      "added_at": "2023-01-10 14:59:43",
-      "album": {
         "name": "Reasons & Fluteloops",
         "url": "https://open.spotify.com/album/22EznsXBYtKj4OFhYoz5zc"
       },
@@ -947,26 +1059,6 @@
     {
       "added_at": "2023-01-10 14:59:43",
       "album": {
-        "name": "Right Together (feat. Rachel Chinouriri)",
-        "url": "https://open.spotify.com/album/4rU7B8ztRuttCxeRVHhzom"
-      },
-      "artists": [
-        {
-          "name": "Conducta",
-          "url": "https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn"
-        },
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Right Together (feat. Rachel Chinouriri)",
-      "url": "https://open.spotify.com/track/0wxi24FvxpoyBSsg9ugskd"
-    },
-    {
-      "added_at": "2023-01-10 14:59:43",
-      "album": {
         "name": "Ripe 'n' Ready (A Kiwi Rekords Sampler)",
         "url": "https://open.spotify.com/album/5G7JzPgCBTkHrQQh2tPGDG"
       },
@@ -1055,26 +1147,6 @@
     {
       "added_at": "2023-01-10 14:59:43",
       "album": {
-        "name": "B.O.T.A. (Baddest Of Them All)",
-        "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 358266,
-      "name": "B.O.T.A. (Baddest Of Them All)",
-      "url": "https://open.spotify.com/track/45bfH0GZvUyujIBiKRhXso"
-    },
-    {
-      "added_at": "2023-01-10 14:59:43",
-      "album": {
         "name": "Careless",
         "url": "https://open.spotify.com/album/3UvoNUY5z5XnLmYavKyDLN"
       },
@@ -1127,26 +1199,6 @@
     {
       "added_at": "2023-01-10 14:59:43",
       "album": {
-        "name": "Still Sleepless",
-        "url": "https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 162879,
-      "name": "Still Sleepless",
-      "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
-    },
-    {
-      "added_at": "2023-01-10 14:59:43",
-      "album": {
         "name": "Pasilda (Extended Versions)",
         "url": "https://open.spotify.com/album/7qCEf8CrHVD4C5uyPsTFT2"
       },
@@ -1183,22 +1235,6 @@
     {
       "added_at": "2023-01-10 14:59:43",
       "album": {
-        "name": "Enter the Garage 2",
-        "url": "https://open.spotify.com/album/2keeweZt8bBlNVwWsrVudk"
-      },
-      "artists": [
-        {
-          "name": "Lewis Taylor",
-          "url": "https://open.spotify.com/artist/6jthzPkuxcw4rYbkg6XnoR"
-        }
-      ],
-      "duration_ms": 230149,
-      "name": "Temperature",
-      "url": "https://open.spotify.com/track/60558jIMonmVGsALQrJh0n"
-    },
-    {
-      "added_at": "2023-01-10 14:59:43",
-      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/5Hz3RQToT3CNvuT5H0Y9Qf"
       },
@@ -1211,26 +1247,6 @@
       "duration_ms": 347613,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/33ZNh2kqjSpLsJPmOZnMgd"
-    },
-    {
-      "added_at": "2023-01-10 14:59:43",
-      "album": {
-        "name": "Real Badman (Bakey Remix)",
-        "url": "https://open.spotify.com/album/3ARueEj9kyRQh5t61shiIQ"
-      },
-      "artists": [
-        {
-          "name": "Arfa",
-          "url": "https://open.spotify.com/artist/6n67IiFncVHKaMwpejXW6d"
-        },
-        {
-          "name": "BAKEY",
-          "url": "https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Real Badman - Bakey Remix",
-      "url": "https://open.spotify.com/track/1fNBFxMDl2gOg6vs3oXXHb"
     }
   ],
   "unique_name": "Conducta's track IDs",

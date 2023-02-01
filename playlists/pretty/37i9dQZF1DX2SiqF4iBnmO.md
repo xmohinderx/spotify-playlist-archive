@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 
 > A more than 40 years spanning collection of multi\-genre music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,970 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,348 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 10 | [Stay Fly](https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 3:56 |
 | 11 | [Because I Got High](https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4) | [Afroman](https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr) | [The Good Times](https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0) | 3:17 |
 | 12 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
-| 13 | [March Madness](https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 4:04 |
-| 14 | [Do You Remember? \- 2016 Remaster](https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(2016 Remaster\)](https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8) | 4:35 |
-| 15 | [Changes](https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:28 |
+| 13 | [Do You Remember? \- 2016 Remaster](https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(2016 Remaster\)](https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8) | 4:35 |
+| 14 | [Changes](https://open.spotify.com/track/00i2HU7TEzzftShjRrDSEF) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Talent](https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:28 |
+| 15 | [March Madness](https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 4:04 |
 | 16 | [A Little Respect](https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [The Innocents](https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd) | 3:33 |
 | 17 | [Salt Shaker](https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m), [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x) | [Me & My Brother](https://open.spotify.com/album/2SS2QYikI1mNohhyPN2v95) | 4:12 |
 | 18 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 21 | [Push It](https://open.spotify.com/track/39SQnz9u6zd91nZdaPmmJK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Port Of Miami](https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk) | 3:28 |
 | 22 | [Paul Revere](https://open.spotify.com/track/3gKwVWwKmeuFtPubICbOGc) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:40 |
 | 23 | [Chickenhead \(feat\. Three 6 Mafia & La Chat\)](https://open.spotify.com/track/2rOiZGbR0wwI0ip0wSAK26) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc), [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [La Chat](https://open.spotify.com/artist/5hDwYJ7KaXEQV2XBeijKNt) | [Mista Don't Play: Everythangs Workin](https://open.spotify.com/album/71GZEl78TMbuZ1sBbjDGZw) | 4:13 |
-| 24 | [Don't Go](https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:11 |
-| 25 | [Sweet Sixteen \- Remastered](https://open.spotify.com/track/3kyW3qviTr2dIyvqa1lEWC) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:14 |
+| 24 | [Sweet Sixteen \- Remastered](https://open.spotify.com/track/3kyW3qviTr2dIyvqa1lEWC) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:14 |
+| 25 | [Don't Go](https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 3:11 |
 | 26 | [The Crying Game](https://open.spotify.com/track/3txSqHwGING6J7waJXN8RJ) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 3:22 |
 | 27 | [In Too Deep \- 2007 Remaster](https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 5:02 |
 | 28 | [Don't Stop the Rock](https://open.spotify.com/track/2ur9MmDyA33PsiEuSNwD3Q) | [Freestyle](https://open.spotify.com/artist/5tyf3H4sgUqM5DxTUXe6Sg) | [Don't Stop the Rock](https://open.spotify.com/album/2WEz6WBauLjiueAlIUyX1z) | 5:28 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 32 | [Bossy Featuring Too $hort \(feat\. Too $hort\)](https://open.spotify.com/track/0Eu5SrReZzaJX0NLKI8tQS) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Kelis Was Here](https://open.spotify.com/album/4WJoghWxyWEYtVNDn1eFYl) | 4:34 |
 | 33 | [Rebel Without A Pause](https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:02 |
 | 34 | [Let The Beat Build](https://open.spotify.com/track/3PNGF5i4dhajYEDTuTC2wR) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III \(MTV Bonus Version\)](https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4) | 5:09 |
-| 35 | [Going Back To Cali](https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Walking With A Panther](https://open.spotify.com/album/2rddwrGdk7d7QQ3KkcLlHA) | 4:09 |
-| 36 | [6 'N the Mornin'](https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Rhyme Pays](https://open.spotify.com/album/267xiIVnif2CUxhbRQk115) | 3:44 |
+| 35 | [6 'N the Mornin'](https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Rhyme Pays](https://open.spotify.com/album/267xiIVnif2CUxhbRQk115) | 3:44 |
+| 36 | [Going Back To Cali](https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Walking With A Panther](https://open.spotify.com/album/2rddwrGdk7d7QQ3KkcLlHA) | 4:09 |
 | 37 | [Planet Rock \- Original 12" Version](https://open.spotify.com/track/5aD3fAa1fy8XUesj3lgr19) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Planet Rock: The Album](https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf) | 6:23 |
 | 38 | [4 Seasons Of Loneliness](https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 4:52 |
 | 39 | [Dangerous](https://open.spotify.com/track/2cZuNzaAGNFozlZTxSDU1g) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [When Disaster Strikes...](https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 49 | [One Love](https://open.spotify.com/track/1g2eRmWpv2pfVDOgsYKiBS) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Back in Black](https://open.spotify.com/album/62Tr4gN8ueTfwcJPaMFWKB) | 5:33 |
 | 50 | [Andreaen Sand Dunes](https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptune's Lair](https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV) | 6:16 |
 
-Snapshot ID: `MTYzNTI1NjEyOSwwMDAwMDAwMGI5MTAxOGNiODkyYzQ1NzQyMjhiNjE5MDhkYWUxYzYy`
+Snapshot ID: `MTYzNTI1NjEyOSwwMDAwMDAwMGJhMTA2YjczN2I2NzUyNDE4ZjFlNDc0ZjczYmJlZTI2`

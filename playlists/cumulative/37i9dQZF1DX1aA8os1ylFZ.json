@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Decide",
+        "url": "https://open.spotify.com/album/3HB9p8Lo7VWuwfZdPXqVTD"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "Decide",
+      "url": "https://open.spotify.com/track/2ITf4FaTaw5iuAg0Xpa2m9"
+    },
+    {
+      "album": {
         "name": "Do It Again",
         "url": "https://open.spotify.com/album/2XuZiWSqq5CgMNjUQVWjkx"
       },
@@ -1696,7 +1714,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 253714,
       "name": "Heart Is On My Sleeve",
       "url": "https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw"
@@ -2730,6 +2748,24 @@
       "duration_ms": 181528,
       "name": "Long Night",
       "url": "https://open.spotify.com/track/1hKOMItgWXvcYmyhreFJng"
+    },
+    {
+      "album": {
+        "name": "Look My Way",
+        "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Look My Way",
+      "url": "https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R"
     },
     {
       "album": {
@@ -4610,7 +4646,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 232773,
       "name": "Tweety",
       "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"

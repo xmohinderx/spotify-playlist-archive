@@ -1519,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Ease Up",
+        "url": "https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214080,
+      "name": "Ease Up",
+      "url": "https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg"
+    },
+    {
+      "album": {
         "name": "Fall In",
         "url": "https://open.spotify.com/album/14WXlgU3jPNSbkttpoWQsx"
       },
@@ -3372,7 +3390,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 233974,
       "name": "Nothing More To Say (with 6LACK & Donae\u2019o)",
       "url": "https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy"

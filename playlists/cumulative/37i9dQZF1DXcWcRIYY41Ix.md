@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Zoe Gotusso.
 
-338 songs - 20 hr 47 min
+339 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Para Vencer](https://open.spotify.com/track/3ttxFaEM3dB1Et9QNpxCnA) | [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Basta de Música](https://open.spotify.com/album/5gLwEInVNphcUsjYQzoTRQ) | 2:55 | 2021-12-24 | 2022-04-24 |
 | [Parque Chas](https://open.spotify.com/track/2gFl3pREsXYOsmXLbSD6Yl) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Parque Chas](https://open.spotify.com/album/3aPje43iWN45wTwm7h5X3b) | 3:54 | 2022-03-04 | 2022-04-21 |
 | [Pasajeros](https://open.spotify.com/track/0VcIILzAJwz4Psl1qFvJcS) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/0r2Xdzbp9DrRhlOQsPYMp8) | 3:30 | 2021-12-24 | 2022-07-24 |
-| [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 | 2022-09-09 |  |
+| [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 | 2022-09-09 | 2023-02-01 |
 | [Pedres blanques](https://open.spotify.com/track/2SWP92PW7S0uFZZKCxIrci) | [Magalí Datzira](https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4) | [Pedres blanques](https://open.spotify.com/album/0BEz51ZYMtM7TFA0BJMnvy) | 2:38 | 2022-10-10 | 2022-11-26 |
 | [Peligrosamente Dark \(feat\. Silvana Estrada\)](https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Cuando Te Muerdes el Labio](https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4) | 2:53 | 2021-12-24 |  |
 | [Pequeñito](https://open.spotify.com/track/1d73Yo9pEc4mfaZG7Z1zCZ) | [Maritune](https://open.spotify.com/artist/5pZKCvKqPprJ96bKy7jjUY) | [Pequeñito](https://open.spotify.com/album/0zfPmtmMrsV2qVGtoA0Pse) | 3:37 | 2022-04-01 | 2022-04-21 |
@@ -282,6 +282,7 @@
 | [Se Acaba Todo](https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Se Acaba Todo](https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB) | 3:16 | 2022-08-19 | 2022-09-03 |
 | [Selvática](https://open.spotify.com/track/13EXXLcCFp8RAJa4F8PqfQ) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Sélvatica](https://open.spotify.com/album/78bBkGxAkTjZXyq6arbUb0) | 3:03 | 2021-12-24 | 2022-07-28 |
 | [Semillas \(con Perota Chingo\)](https://open.spotify.com/track/7jC9oz02D4KHAd85ej8lUe) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Tocando tierra](https://open.spotify.com/album/6ZMzud0Gsx7zhe6CSCWDET) | 4:13 | 2021-12-24 |  |
+| [Septiembre](https://open.spotify.com/track/5CbmWMuYTxrtKXF9PomAiI) | [Paco Damas](https://open.spotify.com/artist/6uDsvjL87SVYZjPExoVcV5), [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Septiembre](https://open.spotify.com/album/3hiFdQP1pvEKLG87xyg7mM) | 3:44 | 2023-01-27 |  |
 | [Ser](https://open.spotify.com/track/2wtPyan1LEDLFPUZNpERCw) | [Raquel Lúa](https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU) | [Ser](https://open.spotify.com/album/28joFYilzjRQ72CVjNeBHc) | 3:03 | 2022-01-27 | 2022-02-01 |
 | [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-01-21 | 2022-04-09 |
 | [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 | 2021-12-24 | 2022-07-29 |

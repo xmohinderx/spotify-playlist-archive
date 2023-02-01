@@ -1,12 +1,12 @@
 {
   "description": "We're here to provide some sonic solace for your grief. ",
-  "num_followers": 139978,
+  "num_followers": 140020,
   "original_name": "Coping With Loss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzODY5MCwwMDAwMDAwMDVjYzgyM2E1MDMwYTg0ZGQ2Mjg2MDcyNmM3ODczNmI3",
+  "snapshot_id": "MTY2MDIzODY5MCwwMDAwMDAwMGQyYWM0YTI1MjU3ZjZiYWIwMDE1M2E2YzllZDBiYWMz",
   "tracks": [
     {
       "added_at": "2022-02-16 19:49:49",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-02-16 19:49:49",
       "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "In My Life - Remastered 2009",
+      "url": "https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo"
+    },
+    {
+      "added_at": "2022-02-16 19:49:49",
+      "album": {
         "name": "Greatest Hits Volume One - The Singles",
         "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 289906,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM"
-    },
-    {
-      "added_at": "2022-02-16 19:49:49",
-      "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "She's Always a Woman",
-      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
     },
     {
       "added_at": "2022-02-16 19:49:49",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-02-16 19:49:49",
       "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "She's Always a Woman",
+      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+    },
+    {
+      "added_at": "2022-02-16 19:49:49",
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
-    },
-    {
-      "added_at": "2022-02-16 19:49:49",
-      "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 146333,
-      "name": "In My Life - Remastered 2009",
-      "url": "https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo"
     },
     {
       "added_at": "2022-02-16 19:49:49",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-02-16 19:49:49",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
-    },
-    {
-      "added_at": "2022-02-16 19:49:49",
-      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 146175,
       "name": "Time in a Bottle",
       "url": "https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL"
+    },
+    {
+      "added_at": "2022-02-16 19:49:49",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
     },
     {
       "added_at": "2022-02-16 19:49:49",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-02-16 19:49:49",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
-    },
-    {
-      "added_at": "2022-02-16 19:49:49",
-      "album": {
         "name": "Rush (Music from the Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 271760,
       "name": "Tears in Heaven",
       "url": "https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw"
+    },
+    {
+      "added_at": "2022-02-16 19:49:49",
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
     },
     {
       "added_at": "2022-02-16 19:49:49",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-02-16 19:49:49",
       "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
-    },
-    {
-      "added_at": "2022-02-16 19:49:49",
-      "album": {
         "name": "Sounds Of Silence",
         "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 109386,
       "name": "April Come She Will",
       "url": "https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC"
+    },
+    {
+      "added_at": "2022-02-16 19:49:49",
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 270400,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
     },
     {
       "added_at": "2022-02-16 19:49:49",
@@ -647,18 +647,18 @@
     {
       "added_at": "2022-02-16 19:49:49",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 187666,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
+      "duration_ms": 229720,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
     },
     {
       "added_at": "2022-02-16 19:49:49",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-02-16 19:49:49",
       "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR"
+    },
+    {
+      "added_at": "2022-02-16 19:49:49",
+      "album": {
         "name": "Goodbye Yellow Brick Road (Remastered)",
         "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 228932,
       "name": "Candle In The Wind - Remastered 2014",
       "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF"
-    },
-    {
-      "added_at": "2022-02-16 19:49:49",
-      "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
     },
     {
       "added_at": "2022-02-16 19:49:49",

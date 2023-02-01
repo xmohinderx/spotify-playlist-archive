@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-146 songs - 8 hr 42 min
+148 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Cherry Blossom Girl](https://open.spotify.com/track/5kJ5KtrdAkYeRi2ObZ4ecZ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Beaucoup de VSQ](https://open.spotify.com/album/5XoLTlMq0WJ1eykXG6kQTn) | 3:54 | 2022-11-18 | 2022-11-26 |
 | [Circles](https://open.spotify.com/track/1ftNzNvPPIxdo3QDfq8h2A) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2019, Vol\. 2](https://open.spotify.com/album/2ZCnNqYX39bthmtd2I9IKB) | 3:32 | 2022-11-18 | 2022-11-26 |
 | [Clocks \- Coldplay](https://open.spotify.com/track/2Pv2aeT9K8EH0b0HgCJxDv) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [A Night In Strings](https://open.spotify.com/album/3duk4PVA7r012ysSojmnXv) | 5:14 | 2021-11-25 |  |
+| [Clown](https://open.spotify.com/track/5An9TSZ5KmfsCLwBxq1VRA) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Clown](https://open.spotify.com/album/2vVEFVUPxPeiok2a1JEXCo) | 3:47 | 2023-01-30 |  |
 | [Dance Monkey](https://open.spotify.com/track/2yKwUvawwvock24y5EAl4g) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Dance Monkey](https://open.spotify.com/album/49lYvjArPlTqsn4O10ti44) | 2:52 | 2021-11-25 |  |
 | [Dancing on My Own](https://open.spotify.com/track/2g2IYIXc0FDGf0HDkEC0rL) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 9](https://open.spotify.com/album/00WpR5hZn6CsVp6PT5NCvo) | 3:45 | 2021-11-25 |  |
 | [Dancing Queen \(arr\. piano\)](https://open.spotify.com/track/61HC09wMMxwHkjgktA94tP) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [ABBA](https://open.spotify.com/album/79mSoTbnuSzUFVIz2h89D0) | 3:31 | 2022-01-14 |  |
@@ -137,6 +138,7 @@
 | [Three Times a Lady](https://open.spotify.com/track/043ZNvHtGmYF1uR5q6gD1r) | [Myleene Klass](https://open.spotify.com/artist/63L6NSMY7isrNaziNX2YXX) | [My Lullabies: Motown](https://open.spotify.com/album/6Zx72Eq6focHvSZxljFcyR) | 3:00 | 2022-05-13 |  |
 | [Thunderclouds](https://open.spotify.com/track/4XmcsuS2UKmE0mGexrUXBo) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs the Hits of 2018, Vol\. 2](https://open.spotify.com/album/2hk3pnDS8W2zp7QXgwTb4u) | 3:09 | 2022-11-18 | 2022-11-26 |
 | [Time After Time](https://open.spotify.com/track/0SjRJvsh0ZccINwUQKsSxj) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx) | [Time After Time](https://open.spotify.com/album/7v1uoa4uquxWy6t92wGSLU) | 4:20 | 2021-11-25 |  |
+| [Titanium](https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [Titanium](https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk) | 2:34 | 2023-01-30 |  |
 | [Transatlanticism](https://open.spotify.com/track/50tq3zkWA7yLEmdKE0kmt5) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Death Cab for Cutie: Ghost](https://open.spotify.com/album/4xz9AD7qZEyVoE2Q99551Z) | 3:58 | 2022-11-18 | 2022-11-26 |
 | [True Love Waits](https://open.spotify.com/track/0JFVqqRU2Cm3oKAs3DyGbT) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Radiohead's "True Love Waits" and "Burn the Witch"](https://open.spotify.com/album/7lHx4M8wxfrSKJQGRoXOoc) | 4:35 | 2022-11-18 | 2022-11-26 |
 | [Tuesday's Gone](https://open.spotify.com/track/2Aw5U9y7uTE9jDo2O6u8Iw) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Music from Dazed and Confused](https://open.spotify.com/album/2iIlIEHKjwleMaeeG83Rib) | 4:04 | 2022-11-18 | 2022-11-26 |

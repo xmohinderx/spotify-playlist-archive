@@ -4,7 +4,7 @@
 
 > Set it off with these epic anthems\. Only good vibes here!
 
-513 songs - 1 day 3 hr 48 min
+514 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Hair Toss, Arms Crossed](https://open.spotify.com/track/3HzMxBV957tidhL2ft7KXA) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Hair Toss, Arms Crossed](https://open.spotify.com/album/62v8uC7bm0dN0FXvkSen7z) | 2:37 | 2022-04-15 | 2022-05-20 |
 | [Hallucinogenics \- Japanese Wallpaper & Winona Oak Remix](https://open.spotify.com/track/1AEpQvwq5ChyCIKF7kZK5F) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn), [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Hallucinogenics \(Japanese Wallpaper & Winona Oak Remix\)](https://open.spotify.com/album/05CbF1IuykrdARnwteDJh8) | 3:40 | 2020-10-13 | 2022-01-01 |
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-10-07 | 2022-10-19 |
-| [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-10-07 |  |
+| [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-10-07 | 2023-02-01 |
 | [happy stuff](https://open.spotify.com/track/1C7eURT2UroBgmOEAX2eiR) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [happy stuff](https://open.spotify.com/album/7myEihXeFfL1dv63LDaJoF) | 2:42 | 2022-08-26 |  |
 | [Harleys In Hawaii](https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Harleys In Hawaii](https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V) | 3:05 | 2021-09-25 | 2022-03-05 |
 | [Head In The Clouds](https://open.spotify.com/track/2KsSYX6ZqPrazLabrl6EA4) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Head In The Clouds](https://open.spotify.com/album/0pOrCE1nBzCciYzmorq4nk) | 3:11 | 2022-03-11 | 2022-04-09 |
@@ -386,6 +386,7 @@
 | [Rocky](https://open.spotify.com/track/5uDohC8URXwbGiHAMuKGoa) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Rocky](https://open.spotify.com/album/47pYIGsuBIKvsbAQpipfur) | 2:46 | 2021-05-29 | 2021-11-13 |
 | [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 | 2020-01-30 | 2021-01-08 |
 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 | 2020-04-10 | 2021-09-25 |
+| [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2023-01-31 |  |
 | [Rushing Back](https://open.spotify.com/track/2zoNNEAyPK2OGDfajardlY) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Rushing Back](https://open.spotify.com/album/4d2YOjyPDopVhOkksaALJj) | 3:51 | 2020-04-24 | 2021-08-28 |
 | [Sanctuary](https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Sanctuary](https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI) | 3:00 | 2019-09-11 | 2021-08-28 |
 | [Saturday](https://open.spotify.com/track/3DVQRyBEhnRxz2bYqFNPEI) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Saturday](https://open.spotify.com/album/1BE4Efd13DgJsncioqOCP6) | 2:52 | 2021-05-22 | 2022-07-09 |

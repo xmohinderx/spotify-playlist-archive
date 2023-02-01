@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-204 songs - 10 hr 53 min
+205 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Nena \- A COLORS SHOW](https://open.spotify.com/track/7rlKjHvYFlAjMIUDY1CMLu) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena \- A COLORS SHOW](https://open.spotify.com/album/1kPIabHrJ8UwfkleGFtQ8m) | 2:33 | 2022-07-11 |  |
 | [No Eres Tú, Soy Yo](https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [Confíen En Mí](https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy) | 1:48 | 2022-05-20 |  |
 | [no estás](https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [no estás](https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc) | 2:44 | 2022-05-20 |  |
-| [No Te Pude Soltar](https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [No Te Pude Soltar](https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4) | 2:44 | 2022-05-20 |  |
+| [No Te Pude Soltar](https://open.spotify.com/track/6b8FXDatwJCnc5jZ4RfMz8) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [No Te Pude Soltar](https://open.spotify.com/album/4YJJwMucL3nteBymNw1cc4) | 2:44 | 2022-05-20 | 2023-02-01 |
 | [No Te Voy a Ver](https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [No Te Voy a Ver](https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL) | 3:37 | 2022-05-20 |  |
 | [Nunca Estoy](https://open.spotify.com/track/6f4LYJwICqxoAILj82kwB0) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Nunca Estoy](https://open.spotify.com/album/4OYHwdjX2Ocuj792RJETJ9) | 2:42 | 2022-05-20 | 2022-10-28 |
 | [Nydia](https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 4:13 | 2022-05-20 | 2022-10-28 |
@@ -189,6 +189,7 @@
 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 | 2022-06-29 | 2022-09-07 |
 | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY) | 2:47 | 2022-05-20 | 2022-10-28 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 | 2022-05-20 | 2022-10-28 |
+| [Toma Mi Mano](https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Toma Mi Mano](https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj) | 3:02 | 2023-01-30 |  |
 | [TQB](https://open.spotify.com/track/4C6844tUibAL9cSObEEukn) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [TQB](https://open.spotify.com/album/678s8RjRxY6cXhbPmdRurI) | 2:46 | 2022-05-20 | 2023-01-07 |
 | [Track 11](https://open.spotify.com/track/58Z2aR6MVBuQumxBru8Y40) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR), [574](https://open.spotify.com/artist/6LySp35VaLUeUEalGUTBns) | [Track 11](https://open.spotify.com/album/0c0HSLNtYbgOEOtHdUr70D) | 3:39 | 2022-05-20 | 2023-01-07 |
 | [Trihte](https://open.spotify.com/track/74HszoDuZf9JzKqFDxailX) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 3:48 | 2022-05-20 | 2023-01-07 |

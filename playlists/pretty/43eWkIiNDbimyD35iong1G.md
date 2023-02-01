@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain](/playlists/plain/43eWkIiNDbimyD35iong1G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/43eWkIiNDbimyD35iong1G)
 
-### [Wedding Songs 2022](https://open.spotify.com/playlist/43eWkIiNDbimyD35iong1G)
+### [Wedding Songs 2023](https://open.spotify.com/playlist/43eWkIiNDbimyD35iong1G)
 
 > Celebrate your wedding with over 100 favorite love songs perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 91,037 likes - 124 songs - 7 hr 30 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 91,096 likes - 124 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 | 123 | [Locked Out of Heaven](https://open.spotify.com/track/096akzdwi93mbRPxAQrgjF) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:53 |
 | 124 | [Next to You](https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs from the Valley](https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH) | 4:16 |
 
-Snapshot ID: `NzA1LDIyY2Y1ZGRlMTRjNzM2ZTZhYThkODc1YTM0NzllYWU0ZGM2OTMzMTc=`
+Snapshot ID: `NzA2LDBhNTNiNzBiZWQwMTA0Mzg4MWZjODFiNGM3MmY0ZWFhYjkwMTdmNGQ=`

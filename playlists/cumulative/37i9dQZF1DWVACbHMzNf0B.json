@@ -148,7 +148,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 199000,
       "name": "Aka Entre el Humo",
       "url": "https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy"
@@ -749,6 +749,32 @@
     },
     {
       "album": {
+        "name": "Continental",
+        "url": "https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204613,
+      "name": "Continental",
+      "url": "https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I"
+    },
+    {
+      "album": {
         "name": "CONTINGENTE",
         "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
       },
@@ -760,7 +786,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 219183,
       "name": "CONTINGENTE",
       "url": "https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe"
@@ -1512,7 +1538,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 157040,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW"
@@ -1818,6 +1844,24 @@
       "duration_ms": 236267,
       "name": "Kilos de Amor",
       "url": "https://open.spotify.com/track/6sChylyoQyLrKKQ9S3sYjD"
+    },
+    {
+      "album": {
+        "name": "LPM",
+        "url": "https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223992,
+      "name": "La Bebe",
+      "url": "https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6"
     },
     {
       "album": {
@@ -2630,6 +2674,24 @@
       "duration_ms": 226636,
       "name": "No Te Quiero Perder",
       "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
+    },
+    {
+      "album": {
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Escucha a Nicole y a m\u00e1s mujeres a todo volumen. Dales PLAY, dales POWER.",
-  "num_followers": 10911,
+  "num_followers": 11003,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMGYyMGFlYTUwZWE5ZGIxMTY3M2UzYTU2Y2U4YTJmMWE4",
+  "snapshot_id": "MTY3MjgwMTIwMCwwMDAwMDAwMGU4MzU2NzllMzBkOTRkODhlYzViNThkMmE0MjdjZDYy",
   "tracks": [
     {
       "added_at": "2023-01-04 03:00:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
+        "name": "Amante",
+        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
         "name": "Cr\u00f3nicas de un cora roto",
         "url": "https://open.spotify.com/album/0FfnQ5pL5KLaJIkZOkzfV2"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Amante",
-        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "COPACABANA",
         "url": "https://open.spotify.com/album/2aMzComZzJaqrmcEoHKoaZ"
       },
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "La \u00danica",
-        "url": "https://open.spotify.com/album/0hVF3mo33JcCsECB4dM7Ay"
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1"
       },
       "artists": [
         {
-          "name": "Flowyn",
-          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
         }
       ],
-      "duration_ms": 144545,
-      "name": "La \u00danica",
-      "url": "https://open.spotify.com/track/6BziPWYAG689dziudR6lRl"
+      "duration_ms": 193452,
+      "name": "Romper Platos",
+      "url": "https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -271,22 +271,6 @@
       "duration_ms": 155408,
       "name": "M\u00cdRAME A LA CARA",
       "url": "https://open.spotify.com/track/5sewBnhP4xBE2eIoQuhCs1"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/0k8fiM3A193BLZqPWYhWD1"
-      },
-      "artists": [
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        }
-      ],
-      "duration_ms": 193452,
-      "name": "Romper Platos",
-      "url": "https://open.spotify.com/track/20kFOY6ejpGVov6BEZvTfw"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -319,18 +303,18 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Nunca har\u00eda lo que me hiciste",
-        "url": "https://open.spotify.com/album/6r8vU81BXvmSWe009wQS5p"
+        "name": "La \u00danica",
+        "url": "https://open.spotify.com/album/0hVF3mo33JcCsECB4dM7Ay"
       },
       "artists": [
         {
-          "name": "Karla Grunewaldt",
-          "url": "https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3"
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
         }
       ],
-      "duration_ms": 191659,
-      "name": "Nunca har\u00eda lo que me hiciste",
-      "url": "https://open.spotify.com/track/5dgtZ2R2MIZWxKnOqYrSAD"
+      "duration_ms": 144545,
+      "name": "La \u00danica",
+      "url": "https://open.spotify.com/track/6BziPWYAG689dziudR6lRl"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -351,34 +335,18 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "diario de vida",
-        "url": "https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3"
+        "name": "Nunca har\u00eda lo que me hiciste",
+        "url": "https://open.spotify.com/album/6r8vU81BXvmSWe009wQS5p"
       },
       "artists": [
         {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+          "name": "Karla Grunewaldt",
+          "url": "https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3"
         }
       ],
-      "duration_ms": 184267,
-      "name": "diario de vida",
-      "url": "https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "Yo quiero bailar",
-        "url": "https://open.spotify.com/album/4ArfKzjVQOL3XNOrpktPPi"
-      },
-      "artists": [
-        {
-          "name": "Valentina Marinkovic",
-          "url": "https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el"
-        }
-      ],
-      "duration_ms": 195593,
-      "name": "Yo quiero bailar",
-      "url": "https://open.spotify.com/track/4fQN9E5fyg7q8FF5fRx8z6"
+      "duration_ms": 191659,
+      "name": "Nunca har\u00eda lo que me hiciste",
+      "url": "https://open.spotify.com/track/5dgtZ2R2MIZWxKnOqYrSAD"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -403,6 +371,22 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
+        "name": "diario de vida",
+        "url": "https://open.spotify.com/album/1QOrPPbZboW8SPmCTzlKA3"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        }
+      ],
+      "duration_ms": 184267,
+      "name": "diario de vida",
+      "url": "https://open.spotify.com/track/2c65jE9haVYNMnIxJ5PPbQ"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
         "name": "Guilla",
         "url": "https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 139428,
       "name": "Guilla",
       "url": "https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Yo quiero bailar",
+        "url": "https://open.spotify.com/album/4ArfKzjVQOL3XNOrpktPPi"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marinkovic",
+          "url": "https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el"
+        }
+      ],
+      "duration_ms": 195593,
+      "name": "Yo quiero bailar",
+      "url": "https://open.spotify.com/track/4fQN9E5fyg7q8FF5fRx8z6"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "La Torpeza",
         "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 260000,
       "name": "La Torpeza",
       "url": "https://open.spotify.com/track/6JkMXKXwMZbaZ2LlHIcp1h"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -671,94 +671,6 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "La P\u00f3cima",
-        "url": "https://open.spotify.com/album/6jbhQEgpHEG63QkiTio1Oq"
-      },
-      "artists": [
-        {
-          "name": "Antonia Navarro",
-          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
-        }
-      ],
-      "duration_ms": 179247,
-      "name": "La P\u00f3cima",
-      "url": "https://open.spotify.com/track/3478RKENZliWK21KgkqCxs"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "\u00c0 PLUS",
-        "url": "https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr"
-      },
-      "artists": [
-        {
-          "name": "Catana",
-          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
-        },
-        {
-          "name": "Ambar Luna",
-          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
-        }
-      ],
-      "duration_ms": 159933,
-      "name": "N.D.N",
-      "url": "https://open.spotify.com/track/1QA7twQReH7kc3rusYjeWx"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW"
-      },
-      "artists": [
-        {
-          "name": "Mariel Mariel",
-          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
-        },
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        }
-      ],
-      "duration_ms": 181951,
-      "name": "Flow Violento",
-      "url": "https://open.spotify.com/track/4T3F91nQLaWL8yPahQHIGi"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm"
-      },
-      "artists": [
-        {
-          "name": "Agata Prisma",
-          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
-        }
-      ],
-      "duration_ms": 207991,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
-        "name": "Tal\u00f3n de Aquiles",
-        "url": "https://open.spotify.com/album/7nNSwP5Vo6EtdZc0nLP24x"
-      },
-      "artists": [
-        {
-          "name": "Emi D",
-          "url": "https://open.spotify.com/artist/15pp37awp1rGZNWW58bgIJ"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Tal\u00f3n de Aquiles",
-      "url": "https://open.spotify.com/track/5V9UH7jxcwo6oeDzGI9ZIg"
-    },
-    {
-      "added_at": "2023-01-04 03:00:00",
-      "album": {
         "name": "entre las sombras,",
         "url": "https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p"
       },
@@ -787,6 +699,62 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
+        "name": "La P\u00f3cima",
+        "url": "https://open.spotify.com/album/6jbhQEgpHEG63QkiTio1Oq"
+      },
+      "artists": [
+        {
+          "name": "Antonia Navarro",
+          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
+        }
+      ],
+      "duration_ms": 179247,
+      "name": "La P\u00f3cima",
+      "url": "https://open.spotify.com/track/3478RKENZliWK21KgkqCxs"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/0YXQIt7lz5Rsp7wpbuwhFW"
+      },
+      "artists": [
+        {
+          "name": "Mariel Mariel",
+          "url": "https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz"
+        },
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "Flow Violento",
+      "url": "https://open.spotify.com/track/4T3F91nQLaWL8yPahQHIGi"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "\u00c0 PLUS",
+        "url": "https://open.spotify.com/album/6fV1ZKfUAm1BvJzTe6yzdr"
+      },
+      "artists": [
+        {
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
+        },
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        }
+      ],
+      "duration_ms": 159933,
+      "name": "N.D.N",
+      "url": "https://open.spotify.com/track/1QA7twQReH7kc3rusYjeWx"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
         "name": "Olv\u00eddame",
         "url": "https://open.spotify.com/album/6kqoEd9WicTit5P8AZGXyJ"
       },
@@ -799,6 +767,46 @@
       "duration_ms": 196814,
       "name": "Olv\u00eddame",
       "url": "https://open.spotify.com/track/4eHmIsUHpMMdqKmM1l3KHy"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Tal\u00f3n de Aquiles",
+        "url": "https://open.spotify.com/album/7nNSwP5Vo6EtdZc0nLP24x"
+      },
+      "artists": [
+        {
+          "name": "Emi D",
+          "url": "https://open.spotify.com/artist/15pp37awp1rGZNWW58bgIJ"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Tal\u00f3n de Aquiles",
+      "url": "https://open.spotify.com/track/5V9UH7jxcwo6oeDzGI9ZIg"
+    },
+    {
+      "added_at": "2023-01-04 03:00:00",
+      "album": {
+        "name": "Si No Vas a Venir",
+        "url": "https://open.spotify.com/album/4vL3R4Uk9K9ufB0AgTfBly"
+      },
+      "artists": [
+        {
+          "name": "Agata Prisma",
+          "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
+        },
+        {
+          "name": "Mariana Montenegro",
+          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
+        },
+        {
+          "name": "Alex June",
+          "url": "https://open.spotify.com/artist/6AMK4ZuqWtlKaHuFdOtddO"
+        }
+      ],
+      "duration_ms": 191854,
+      "name": "Si No Vas a Venir",
+      "url": "https://open.spotify.com/track/3hidaSrCNgyYYYIWqk0EMh"
     },
     {
       "added_at": "2023-01-04 03:00:00",
@@ -855,26 +863,18 @@
     {
       "added_at": "2023-01-04 03:00:00",
       "album": {
-        "name": "Si No Vas a Venir",
-        "url": "https://open.spotify.com/album/4vL3R4Uk9K9ufB0AgTfBly"
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/3XWcjhCcNd4zVeKCL6MwNm"
       },
       "artists": [
         {
           "name": "Agata Prisma",
           "url": "https://open.spotify.com/artist/2g2gwCr1ZcowpJeVTubUy2"
-        },
-        {
-          "name": "Mariana Montenegro",
-          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
-        },
-        {
-          "name": "Alex June",
-          "url": "https://open.spotify.com/artist/6AMK4ZuqWtlKaHuFdOtddO"
         }
       ],
-      "duration_ms": 191854,
-      "name": "Si No Vas a Venir",
-      "url": "https://open.spotify.com/track/3hidaSrCNgyYYYIWqk0EMh"
+      "duration_ms": 207991,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/3igElj1Q0AmhWbo1fhVQfo"
     }
   ],
   "unique_name": "EQUAL Chile",

@@ -4,7 +4,7 @@
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-104 songs - 8 hr 52 min
+106 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Como Fue](https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Romántico](https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk) | 2:56 | 2019-02-21 |  |
 | [Compañera Mía](https://open.spotify.com/track/6ufaXug2WpXBvS5qirBCkV) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:27 | 2019-02-21 | 2022-12-31 |
 | [Compárame](https://open.spotify.com/track/3cteDTwtx8kkuyK7w4PKV4) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:23 | 2022-12-30 |  |
-| [Date un Chance](https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:46 | 2022-12-30 |  |
+| [Date un Chance](https://open.spotify.com/track/0kBdq1VTuJNeAX3gF3A7Mj) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:46 | 2022-12-30 | 2023-02-01 |
 | [De Punta a Punta](https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Original](https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6) | 4:25 | 2022-12-30 |  |
 | [Dejame Sentirte](https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [De Amor y Salsa](https://open.spotify.com/album/021o25wvfikSTFTS43DRrc) | 5:32 | 2022-12-30 |  |
 | [Desesperado](https://open.spotify.com/track/3dH8qYlVlwR9xFdeIEfNWp) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Lo Que Pasó..\. La Historia Del Príncipe De La Salsa](https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW) | 3:50 | 2019-02-21 | 2023-01-10 |
@@ -44,6 +44,7 @@
 | [El Gran Varón](https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 6:54 | 2022-12-30 |  |
 | [El Hombre Increible](https://open.spotify.com/track/1i2yBsnCHSanfHCVmw3dE0) | [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [El Sonero Del Pueblo](https://open.spotify.com/album/6YeEv44eWTl8P9w07G74JN) | 4:14 | 2019-02-21 |  |
 | [El Menú](https://open.spotify.com/track/734AX6t02v4SNG1bkhNxT9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:12 | 2022-12-30 |  |
+| [Esa Mujer](https://open.spotify.com/track/6Hy15JctLui5HYK03s5oT6) | [Alex Leon](https://open.spotify.com/artist/5psRZB6rHWyHpsIiJUUX7r) | [Exitos de Alex Leon](https://open.spotify.com/album/7cKeslZWAgVWOsHAXpGhfs) | 4:45 | 2022-12-30 |  |
 | [Esa Mujer](https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf) | 5:51 | 2019-02-21 | 2022-07-29 |
 | [Esa Mujer \- En Vivo](https://open.spotify.com/track/5gnYYnQTU1GsYlSTQw9Lvm) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 5:51 | 2019-02-21 |  |
 | [Fantasia Herida](https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2) | [Salseando](https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0) | [SALSEANDO CON..\. UNO](https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6) | 5:09 | 2019-02-21 | 2022-07-29 |
@@ -63,7 +64,7 @@
 | [Me Diste de Tu Agua](https://open.spotify.com/track/3fMDDNqia3o17VXTKTvsJ0) | [Luis Carrion y Su Orquesta](https://open.spotify.com/artist/7e3fZa4srAlQXdnwgfxrTs) | [Salsa Classic Hits, Vol\. 1](https://open.spotify.com/album/240xUkdH1C8OJhW6FZ1QXK) | 4:34 | 2019-02-21 | 2022-12-31 |
 | [Me Fallaste](https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Platino: Eddie Santiago](https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s) | 5:03 | 2022-12-30 |  |
 | [Me Niegas Tanto Amor](https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 4:44 | 2019-02-21 |  |
-| [Mi Amante Niña, Mi Compañera](https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:22 | 2022-12-30 |  |
+| [Mi Amante Niña, Mi Compañera](https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:22 | 2022-12-30 | 2023-02-01 |
 | [Mi Mundo](https://open.spotify.com/track/20U0CM5bMwutODF8KQRj5Y) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:44 | 2022-12-30 |  |
 | [Mia](https://open.spotify.com/track/3x4oECarDKCZxecqOYis52) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:43 | 2022-12-30 |  |
 | [Mujer](https://open.spotify.com/track/7zwGJg9R0rjP9ttda4PAaK) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Serie 32: Frankie Ruiz](https://open.spotify.com/album/0c4wf1zsEMYxgMuz9J0gnf) | 5:22 | 2022-12-30 |  |
@@ -91,6 +92,7 @@
 | [Siento](https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 6:31 | 2022-12-30 |  |
 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 | 2022-12-30 |  |
 | [Somos El Son \- Live](https://open.spotify.com/track/1ymo6FkA5gdi9SXI5xBp5h) | [Raphy Leavitt y Su Orquesta La Selecta](https://open.spotify.com/artist/6NpIgOTS4wqVmCopi2A2AJ), [Sammy Marrero](https://open.spotify.com/artist/3gNZBnULGKuvoTN0Vi1uJr) | [30 Aniversario \(Live\)](https://open.spotify.com/album/4FHR7P1D6uhf148S04Yt70) | 8:29 | 2019-02-21 |  |
+| [Sonrrisas](https://open.spotify.com/track/7mTRA1UyxPQc2liY4qRXHQ) | [los ineditos](https://open.spotify.com/artist/5XrqZ5imrG2Vo7TDkfsNhk) | [Sabor y Ritmo Internacional](https://open.spotify.com/album/17qp5GQMNus3cV8I0UsMJi) | 5:23 | 2022-12-30 |  |
 | [Te Propongo](https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ) | [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv) | [Al Duro](https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U) | 4:37 | 2019-02-21 |  |
 | [Te Vas De Mi](https://open.spotify.com/track/4kp9lpxCVbe5R9mxl5sFGB) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Back To Work](https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg) | 6:38 | 2022-12-30 |  |
 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 | 2019-02-21 |  |

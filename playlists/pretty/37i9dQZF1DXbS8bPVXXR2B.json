@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 189231,
+  "num_followers": 189471,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDU0NzM2ZDQ4MTk5ZjM4MWZkYTE3NGNhZDE2ODliYTEw",
+  "snapshot_id": "MTY2MjM5Njg4NCwwMDAwMDAwMDdjNTIzZjZmMTJiYmJiM2M0M2VjNTU4NjE4Njg2ZDdi",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 495186,
-      "name": "I Feel Love - 12\" Version",
-      "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Greatest Hits: Blondie",
         "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
@@ -299,18 +283,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Get as Much Love as You Can",
-        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
       },
       "artists": [
         {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 279800,
-      "name": "Nights Over Egypt",
-      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
+      "duration_ms": 495186,
+      "name": "I Feel Love - 12\" Version",
+      "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -331,6 +315,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Get as Much Love as You Can",
+        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 279800,
+      "name": "Nights Over Egypt",
+      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "The Nightfly",
         "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Marcos Valle",
-        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 313493,
-      "name": "Estrelar",
-      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "The Best of Delegation",
         "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 316266,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Marcos Valle",
+        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 313493,
+      "name": "Estrelar",
+      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Island Life",
-        "url": "https://open.spotify.com/album/0IgaRsWGL9c4bovxkwU7YI"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Pull Up To The Bumper - Edit",
-      "url": "https://open.spotify.com/track/7ddR13zBPxJwGmOBnweH79"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 188973,
       "name": "I Zimbra - 2005 Remaster",
       "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/0IgaRsWGL9c4bovxkwU7YI"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "Pull Up To The Bumper - Edit",
+      "url": "https://open.spotify.com/track/7ddR13zBPxJwGmOBnweH79"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "First True Love Affair",
-        "url": "https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Ross",
-          "url": "https://open.spotify.com/artist/0FR28XfyaJnxGnoDFHcktX"
-        }
-      ],
-      "duration_ms": 428026,
-      "name": "First True Love Affair - Larry Levan Remix",
-      "url": "https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "What A Woman Needs",
         "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Love Has Come Around - Finest Moments",
-        "url": "https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1"
+        "name": "First True Love Affair",
+        "url": "https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq"
       },
       "artists": [
         {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+          "name": "Jimmy Ross",
+          "url": "https://open.spotify.com/artist/0FR28XfyaJnxGnoDFHcktX"
         }
       ],
-      "duration_ms": 472866,
-      "name": "Love Has Come Around",
-      "url": "https://open.spotify.com/track/0jA2HEWkUZFo0lyQ0NsBi0"
+      "duration_ms": 428026,
+      "name": "First True Love Affair - Larry Levan Remix",
+      "url": "https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -931,6 +915,22 @@
       "duration_ms": 373333,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Love Has Come Around - Finest Moments",
+        "url": "https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 472866,
+      "name": "Love Has Come Around",
+      "url": "https://open.spotify.com/track/0jA2HEWkUZFo0lyQ0NsBi0"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Rhythm Of Life",
+        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+      },
+      "artists": [
+        {
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+        }
+      ],
+      "duration_ms": 326320,
+      "name": "Sweet Power of Your Embrace",
+      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Funk / Soul / Disco",
         "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Rhythm Of Life",
-        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
-      },
-      "artists": [
-        {
-          "name": "James Mason",
-          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
-        }
-      ],
-      "duration_ms": 326320,
-      "name": "Sweet Power of Your Embrace",
-      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Love Island",
         "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "M.V.P. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia"
-      },
-      "artists": [
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        }
-      ],
-      "duration_ms": 300826,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Summertime Groove",
         "url": "https://open.spotify.com/album/5bAjY7MUnLDqp563OZVInB"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 352106,
       "name": "Let's Start The Dance",
       "url": "https://open.spotify.com/track/5kzro4mOcjwXuugRc6nzm7"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "M.V.P. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0749f8G3xK1yPfkgY1u5ia"
+      },
+      "artists": [
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        }
+      ],
+      "duration_ms": 300826,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Groovin' You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
-      },
-      "artists": [
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        }
-      ],
-      "duration_ms": 376986,
-      "name": "Groovin' You - 12\" Version",
-      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Love in a Black Dimension",
         "url": "https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Al Santiago Presents Yamb\u00fa",
-        "url": "https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX"
+        "name": "Kiss Me Again",
+        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
       },
       "artists": [
         {
-          "name": "Yambu",
-          "url": "https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY"
+          "name": "Dinosaur",
+          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
         }
       ],
-      "duration_ms": 272933,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz"
+      "duration_ms": 181698,
+      "name": "Kiss Me Again - Mix Edit",
+      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1319,18 +1303,34 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Kiss Me Again",
-        "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
+        "name": "Groovin' You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
       },
       "artists": [
         {
-          "name": "Dinosaur",
-          "url": "https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu"
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
         }
       ],
-      "duration_ms": 181698,
-      "name": "Kiss Me Again - Mix Edit",
-      "url": "https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ"
+      "duration_ms": 376986,
+      "name": "Groovin' You - 12\" Version",
+      "url": "https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Al Santiago Presents Yamb\u00fa",
+        "url": "https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX"
+      },
+      "artists": [
+        {
+          "name": "Yambu",
+          "url": "https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Paradise (Remastered)",
-        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
-      },
-      "artists": [
-        {
-          "name": "Leroy Hutson",
-          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
-        }
-      ],
-      "duration_ms": 331893,
-      "name": "Classy Lady - Remastered Version",
-      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 453706,
       "name": "Family - Stereo Version",
       "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Paradise (Remastered)",
+        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
+      },
+      "artists": [
+        {
+          "name": "Leroy Hutson",
+          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
+        }
+      ],
+      "duration_ms": 331893,
+      "name": "Classy Lady - Remastered Version",
+      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
     },
     {
       "added_at": "2022-09-05 16:54:43",

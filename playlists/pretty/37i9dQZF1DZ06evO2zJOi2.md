@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,756 likes - 34 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,505 likes - 33 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 9 | [Whiskey Glasses](https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:54 |
 | 10 | [Days That End In Why](https://open.spotify.com/track/4tn5fOYDtxFldIMVOVcKkc) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time \(Sampler\)](https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1) | 2:42 |
 | 11 | [Sand In My Boots](https://open.spotify.com/track/0uRrG2jRR5tuifsYIJHEao) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:22 |
-| 12 | [Spin You Around](https://open.spotify.com/track/1yj1ZztSGITJ5Nf4mfH92c) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 3:32 |
+| 12 | [red \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:25 |
 | 13 | [The Way I Talk](https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:28 |
-| 14 | [red \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:25 |
+| 14 | [Spin You Around](https://open.spotify.com/track/1yj1ZztSGITJ5Nf4mfH92c) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 3:32 |
 | 15 | [Cover Me Up](https://open.spotify.com/track/0mKnuxVkPi5h0kuvZl44VM) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 4:53 |
 | 16 | [Flower Shops \(feat\. Morgan Wallen\)](https://open.spotify.com/track/0De9jFjJ4eRLl7Yww2eBw1) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [FLOWER SHOPS \(THE ALBUM\)](https://open.spotify.com/album/5mTNFZBZyKIZSYrIAf9c5L) | 3:34 |
 | 17 | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Broadway Girls \(feat\. Morgan Wallen\)](https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG) | 3:05 |
@@ -41,6 +41,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 31 | [American Nights](https://open.spotify.com/track/6B4LAyly39cv8Cat9nHObl) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [American Nights](https://open.spotify.com/album/2KymbriwFACll2ruFpeTqr) | 3:22 |
 | 32 | [Sleep When We're Dead](https://open.spotify.com/track/77Q8V48a8jGsghvaVNWMaP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 4:21 |
 | 33 | [Man of the South](https://open.spotify.com/track/2S1YzIHFyLxLop7XCdYrTp) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 3:33 |
-| 34 | [Stand Alone](https://open.spotify.com/track/5Gy4y79aKl44KZ2BpmgY7P) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 4:09 |
 
-Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDA2ZGFkOTQzMDM4OGU1ODE1ZDQxZDYyODMwYjYwNTcyYQ==`
+Snapshot ID: `Mjc5MTk3OTQsMDAwMDAwMDBhY2YwYjBhMzc0NDRjMTAyN2Q4ODRmNWM4YzUyMzRmOA==`

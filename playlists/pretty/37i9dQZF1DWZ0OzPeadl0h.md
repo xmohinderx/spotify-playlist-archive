@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 
 > Elevate the moment and unwind with the lush sounds of these ethereal tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,976 likes - 106 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,286,364 likes - 106 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0OzPeadl0h.md) - [plain]
 | 105 | [Tapestry](https://open.spotify.com/track/1GkkMgDas91jmc6614MkGf) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Tapestry](https://open.spotify.com/album/3FQVZyz9XxFKcyIpxcZtWF) | 3:49 |
 | 106 | [M](https://open.spotify.com/track/7kcMm8WE6jc5mVt2EATrV2) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Emily Alone](https://open.spotify.com/album/2mpUdUSa6kIzdJQ23BgajX) | 2:46 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMDdjZDMyZjMxMzQxNTBjZWQ0MmYzYjlkMmYyYmM4MjI0`
+Snapshot ID: `MTY3NTE5Mjg1NywwMDAwMDAwMDNmODJlZjg4ODkwNzhhYWVjODk2OTFkYTYwM2FlODdk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 🩹 \(in cover, zeta\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,883 likes - 132 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,905 likes - 132 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 80 | [GOODBYE](https://open.spotify.com/track/2xRrpkcxPlFEj4ze9f8t6X) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3) | [EVOL](https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c) | 2:07 |
 | 81 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 |
 | 82 | [Dentro di Te](https://open.spotify.com/track/6X6BRvpa5Z9wW0SuxxlhmI) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Profondo Rosa](https://open.spotify.com/album/5kTqGC8BIuVebBnyCXFhTE) | 2:51 |
-| 83 | [Autodistruzione](https://open.spotify.com/track/3IE4l7yd9Ez4a0XXjRvQDF) | [AUTOSTIMA](https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae) | [Autodistruzione](https://open.spotify.com/album/3Ul8ixMEyurYLf4y2qMDX1) | 2:34 |
+| 83 | [Autodistruzione](https://open.spotify.com/track/6SRfmqEJXGnuqykKRQGc6O) | [AUTOSTIMA](https://open.spotify.com/artist/5kXkrD3qvUVaANqQoPCbae) | [Autodistruzione](https://open.spotify.com/album/1FggrSgxkyPSHqEKigxORk) | 2:34 |
 | 84 | [Cicatrici \(feat\. Tenth Sky\)](https://open.spotify.com/track/3FZlx13Vs5tZm3u0PH5i7v) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Lacrime](https://open.spotify.com/album/5drTfTuBNR87cXnyJdn7En) | 2:28 |
 | 85 | [Backstage](https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Gemini](https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK) | 3:00 |
 | 86 | [Marie 3 \- Principessa Paranoia](https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Marie 3 \(Principessa Paranoia\)](https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq) | 2:39 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 131 | [Hasta la Muerte](https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Hasta la Muerte](https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0) | 2:00 |
 | 132 | [frantumi](https://open.spotify.com/track/3UvV9yZNhfhCyJ2vb99egC) | [junksleep](https://open.spotify.com/artist/7A34sA473n97mgts6lGL8m) | [frantumi](https://open.spotify.com/album/24x1yXLHqq5T8lNh78SbuU) | 1:30 |
 
-Snapshot ID: `MTY3NDIwNTQ2MywwMDAwMDAwMGI1NWI2MGJmYWY2NjAwM2QxNzNjMGM3NzUyNWI0MTRj`
+Snapshot ID: `MTY3NDIwNTQ2MywwMDAwMDAwMDA3YjA0YWFhNDdhNGZhMWQ4OGY1YTdkMTNmYWUyZWIy`

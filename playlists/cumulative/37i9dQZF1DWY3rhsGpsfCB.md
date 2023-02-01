@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-177 songs - 9 hr 20 min
+178 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Beautiful Love \- Free Fire](https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Beautiful Love \(Free Fire\)](https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0) | 3:27 | 2022-09-02 | 2022-11-26 |
 | [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 | 2022-06-24 |  |
 | [Beside You](https://open.spotify.com/track/2yyi0FijxXpUqNoO7Q6m8j) | [Black Girls Glow](https://open.spotify.com/artist/2rzelYNts2hxyccqXrIESK), [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg), [Lor](https://open.spotify.com/artist/0qB2kln0DEhQW99YeSgVPK), [Lily Asia](https://open.spotify.com/artist/5UzCUtrwz4xfsQYoA9toYu) | [Tapestry](https://open.spotify.com/album/3bP6xutBMEXvmVbecXNF6u) | 3:47 | 2022-10-13 | 2022-12-02 |
-| [Bitter](https://open.spotify.com/track/6RLK5Lu1uAQHk20UIKgdpj) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:03 | 2022-06-24 |  |
+| [Bitter](https://open.spotify.com/track/6RLK5Lu1uAQHk20UIKgdpj) | [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [Monologues](https://open.spotify.com/album/6DCJRFuE8JFtrOdSKSweaE) | 3:03 | 2022-06-24 | 2023-02-01 |
 | [Bloody Samaritan \(with Kelly Rowland\) \- Remix](https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Bloody Samaritan \(with Kelly Rowland\) \[Remix\]](https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX) | 3:09 | 2022-09-30 |  |
 | [Body Language](https://open.spotify.com/track/1ieYfbaettY1CCT4uu28Sx) | [Pawzz](https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU) | [Prezz Play](https://open.spotify.com/album/18u8kTxT4UzQQ97waiW23l) | 2:40 | 2023-01-20 |  |
 | [Break Up Twice](https://open.spotify.com/track/7Bzgs1crJViC1NEliHSp8O) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:56 | 2022-07-14 |  |
@@ -88,6 +88,7 @@
 | [Insensitive](https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Insensitive](https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax) | 3:34 | 2022-12-05 | 2023-01-13 |
 | [Iyawo](https://open.spotify.com/track/3NWezymOetNeOSvNbseYP5) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [Iyawo](https://open.spotify.com/album/4WDJcN86No1uvndKdAAEaa) | 3:12 | 2022-10-13 | 2022-10-29 |
 | [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 | 2022-08-26 | 2023-01-14 |
+| [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 | 2023-01-27 |  |
 | [JUDAH LION](https://open.spotify.com/track/5K71RgdpQrTWw816Pi86mh) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [JUDAH LION](https://open.spotify.com/album/3EqSa64jmVBqQWDmu92JNg) | 3:38 | 2022-11-04 | 2022-12-09 |
 | [Karolina](https://open.spotify.com/track/0NkWxvR0jlPVgQiaBdma3U) | [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Karolina](https://open.spotify.com/album/2GcjAAeJVgKHCyLWTZLkCV) | 2:49 | 2022-06-24 | 2022-08-14 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-01-13 |  |

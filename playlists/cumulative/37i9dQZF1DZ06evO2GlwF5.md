@@ -4,14 +4,14 @@
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-77 songs - 5 hr 54 min
+78 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24](https://open.spotify.com/track/46HQYd82YekZQIAXPG2Vmm) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 4:47 | 2022-08-10 | 2022-10-13 |
 | [Aoi Hitomi](https://open.spotify.com/track/1qq3YfabdCwpHFhqnWSnUz) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [The Vision of Escaflowne \(Original Motion Picture Soundtrack 3\)](https://open.spotify.com/album/7o8sLz2KsnZ0ykcQS6OxYM) | 3:17 | 2022-10-12 | 2023-01-27 |
 | [Be mine!](https://open.spotify.com/track/7h89okKQovZ0Dw2SXGnaDW) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 4:02 | 2022-08-10 |  |
-| [birds](https://open.spotify.com/track/4LJiorJdPtMw2zXjfceIfD) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [イージーリスニング](https://open.spotify.com/album/73dbnbYpcX2eigj4mUNmgg) | 5:31 | 2022-08-10 |  |
+| [birds](https://open.spotify.com/track/4LJiorJdPtMw2zXjfceIfD) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [イージーリスニング](https://open.spotify.com/album/73dbnbYpcX2eigj4mUNmgg) | 5:31 | 2022-08-10 | 2023-02-01 |
 | [blind summer fish](https://open.spotify.com/track/5RCbiXSR2r2cw3KcPk8wQZ) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [イージーリスニング](https://open.spotify.com/album/73dbnbYpcX2eigj4mUNmgg) | 3:54 | 2022-08-11 | 2022-11-10 |
 | [Break Free \- Japan Version](https://open.spotify.com/track/3svcAbXBX9Z4D8VqOL0bZN) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Tsukasa Saito](https://open.spotify.com/artist/0gpOzMyESiSTYaACIWLZW2) | [Sing 2 \(Original Motion Picture Soundtrack\) \[Alternate Version\]](https://open.spotify.com/album/4oPdS6pmyJhtm5W6TwzY7E) | 1:32 | 2022-08-10 |  |
 | [Buddy](https://open.spotify.com/track/63yhabD7LEXoY6gLoI14Z2) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 4:00 | 2022-08-10 |  |
@@ -39,6 +39,7 @@
 | [いつか旅に出る日](https://open.spotify.com/track/1DOvdpZ24AWVbL5NqgOzSN) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [躍動→独白 <MAAYA盤>](https://open.spotify.com/album/2oQ7En4QVs7Gbh2H16FYI1) | 5:04 | 2022-11-21 | 2022-12-19 |
 | [おかえりなさい](https://open.spotify.com/track/273HQr5Q57N7aBrzVvChGi) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション+ ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 5:05 | 2022-08-10 |  |
 | [これから](https://open.spotify.com/track/5LDIB7WhwNvV4emxxEfq7g) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [FOLLOW ME UP](https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y) | 5:16 | 2022-08-10 | 2023-01-27 |
+| [こんな日が来るなんて](https://open.spotify.com/track/5gQkuTzS56ao7RpXkpPwIb) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [WOWOWオリジナルアニメ「火狩りの王」エンディングテーマ / TVアニメ「REVENGER」エンディングテーマ まだ遠くにいる / un\_mute](https://open.spotify.com/album/6gGM1wmwOjwXZyOjkFu43t) | 4:28 | 2023-01-31 |  |
 | [さいごの果実](https://open.spotify.com/track/3HMuIXGPVWXGUsdZpxyqrv) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [さいごの果実/ミツバチと科学者](https://open.spotify.com/album/7FFDPVVPKMnjlduHESU0CJ) | 4:48 | 2022-08-10 | 2022-11-22 |
 | [はじまりの海](https://open.spotify.com/track/4E6U0JujRf3zyPBe35rXC2) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [25周年記念アルバム シングルコレクション+ アチコチ](https://open.spotify.com/album/5YA5rEjEEPUkb1xq3EJ5Uf) | 3:58 | 2022-08-10 | 2022-10-13 |
 | [ひとくちいかが? feat\. 土岐麻子](https://open.spotify.com/track/5OXT2oFI8Mm8E0iqkV7zCd) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Duets](https://open.spotify.com/album/1ne4G4bXK0eiLTUpbsb9xU) | 4:44 | 2022-12-17 |  |

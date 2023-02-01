@@ -2,9 +2,9 @@
 
 ### [EQUAL K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DX6Cy4Vr7Hu2y)
 
-> From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: NewJeans\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
+> From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: GONEISBACK\(고은이\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-305 songs - 17 hr 21 min
+306 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [BOP BOP! \- Highteen Version](https://open.spotify.com/track/491J2YuRjghqBNNunxzXLg) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [<Queendom2> FANtastic QUEENDOM 1\-1](https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw) | 4:03 | 2022-06-01 | 2022-07-28 |
 | [Boy](https://open.spotify.com/track/4AXPq8RyL0rrVhcmCw0bvr) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM) | [Boy](https://open.spotify.com/album/0Np1Ghr7TB9tTIkI42AOnH) | 3:15 | 2022-03-22 | 2022-04-21 |
 | [Boys Like You](https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Boys Like You](https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU) | 3:43 | 2022-10-26 |  |
+| [Break It](https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN) | [GONEISBACK](https://open.spotify.com/artist/4OrhX1WxBpJgjctQCIRFZt) | [Break It](https://open.spotify.com/album/41hzUV0CpK1iJmG1h29Ega) | 2:47 | 2023-01-31 |  |
 | [But I'm Trying to Tell You How Much I Love You 난 가끔 너에게 상처를 주고 싶어](https://open.spotify.com/track/5IrBZBSF6vGySrvA3iM7Jx) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [But I'm Trying to Tell You How Much I Love You 난 가끔 너에게 상처를 주고 싶어](https://open.spotify.com/album/56iipvHudhRYvKLpT36aPz) | 4:13 | 2021-11-21 | 2022-06-14 |
 | [Butterfly](https://open.spotify.com/track/5jhYykolbcG1T9wZSyvhp5) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/2Ij6998NUjQ0BkQ2ipqiET) | 3:57 | 2021-11-21 | 2022-03-08 |
 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2021-11-21 | 2022-05-08 |
@@ -245,7 +246,7 @@
 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 | 2022-03-08 | 2022-05-27 |
 | [Stationary Store Episode: Stationary Store \(Music From "Sound Garden"\)](https://open.spotify.com/track/3ib1Uq2wjsuZAJkDTyFOzn) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Stationary Store Episode: Stationary Store \(Music From "Sound Garden"\)](https://open.spotify.com/album/0qpjqbPLcGLTpGZO0rPWG9) | 3:22 | 2021-11-21 | 2022-04-20 |
 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-07-06 | 2022-11-28 |
-| [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 | 2021-11-21 |  |
+| [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 | 2021-11-21 | 2023-02-01 |
 | [Take My Hand](https://open.spotify.com/track/0T1OJqhF2ihqavFfxbiOO8) | [Edge of Silence](https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW), [Baeeori](https://open.spotify.com/artist/1pHjQiHrT8MN5KZd6ueb7c) | [Take My Hand](https://open.spotify.com/album/0bIJnz9JqrGqOKr8DCN6N5) | 3:18 | 2021-11-21 | 2022-07-17 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-31 |  |
 | [Tell me now](https://open.spotify.com/track/2kIYgg1tOBTjs7XLZNwuSs) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB), [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 2:42 | 2022-05-31 | 2022-06-24 |

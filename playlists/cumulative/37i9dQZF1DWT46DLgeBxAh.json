@@ -255,6 +255,32 @@
     },
     {
       "album": {
+        "name": "AMG",
+        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174942,
+      "name": "AMG",
+      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
+    },
+    {
+      "album": {
         "name": "Amigos No por Favor (Primera Fila) [En Vivo]",
         "url": "https://open.spotify.com/album/7KPtAyl2aUzJtjoz2GYIcE"
       },
@@ -2171,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "LPM",
+        "url": "https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223992,
+      "name": "La Bebe",
+      "url": "https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6"
+    },
+    {
+      "album": {
         "name": "De Lo Bueno, Lo Mejor",
         "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
       },
@@ -2374,7 +2418,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 300579,
       "name": "La Romana",
       "url": "https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"
@@ -2890,7 +2934,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 208274,
       "name": "Nena Fichu",
       "url": "https://open.spotify.com/track/4fP0RqHjhQAnA9PQMchA0S"
@@ -3283,6 +3327,28 @@
     },
     {
       "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
+    {
+      "album": {
         "name": "Pa' Otro La 'O",
         "url": "https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX"
       },
@@ -3534,7 +3600,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 219428,
       "name": "Ratle Cha Cha",
       "url": "https://open.spotify.com/track/4uBgyRvw0PD7xDpqAQK6QX"

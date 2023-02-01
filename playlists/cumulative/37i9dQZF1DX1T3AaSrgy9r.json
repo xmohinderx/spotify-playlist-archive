@@ -940,10 +940,28 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 238680,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G"
+    },
+    {
+      "album": {
+        "name": "Preemptive Strike",
+        "url": "https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239760,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p"
     },
     {
       "album": {

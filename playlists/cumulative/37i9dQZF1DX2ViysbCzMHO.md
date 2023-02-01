@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-213 songs - 11 hr 43 min
+214 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2016](https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:55 | 2021-12-17 |  |
 | [27](https://open.spotify.com/track/4YvNZIRILOrJNuMqBwdxkC) | [Kate Cameron](https://open.spotify.com/artist/788oTi6YK2sbYWPFJSOKEo) | [27](https://open.spotify.com/album/5ng1gjx5davZUvzX1mWfgF) | 3:32 | 2021-12-17 | 2022-07-20 |
 | [5 Foot 9 \- Acoustic](https://open.spotify.com/track/4tObgOBsBUpICU6mT4F3Uk) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9 \(Acoustic\)](https://open.spotify.com/album/5gJ69NdMNUqbxOBruy5IGy) | 3:14 | 2022-10-28 |  |
-| [7500 OBO \- Acoustic](https://open.spotify.com/track/6cPVJA45gmpl0Jgvzac67e) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [7500 OBO \(Acoustic\)](https://open.spotify.com/album/1wtgyNAVYVCP5Dd7IoBv2r) | 3:41 | 2021-12-17 |  |
+| [7500 OBO \- Acoustic](https://open.spotify.com/track/6cPVJA45gmpl0Jgvzac67e) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [7500 OBO \(Acoustic\)](https://open.spotify.com/album/1wtgyNAVYVCP5Dd7IoBv2r) | 3:41 | 2021-12-17 | 2023-02-01 |
 | [a country song \- ballerini album version](https://open.spotify.com/track/4BXAoa1S3GPg5xp8UbEITA) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 3:07 | 2022-07-08 | 2022-07-10 |
 | [ABCDEFU \- Live Acoustic](https://open.spotify.com/track/11oLOD6csB1XCKLxAgDnG7) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [ABCDEFU \(Live Acoustic\)](https://open.spotify.com/album/7on7eQbCCF9vPj2vnL2Txb) | 2:49 | 2022-02-25 | 2022-07-26 |
 | [Again \- Stripped Bare](https://open.spotify.com/track/1bhOH57HFef45IWSAcqC6G) | [BEXAR](https://open.spotify.com/artist/1GXBaX5YUjOrrXch1sGepn) | [Again \(Stripped Bare\)](https://open.spotify.com/album/0lE5keuEk5Y10vK6fDEIe6) | 2:33 | 2022-07-01 | 2022-08-01 |
@@ -134,6 +134,7 @@
 | [New Wings](https://open.spotify.com/track/5S74K9DFZmkMYhr32h7Ica) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [New Wings](https://open.spotify.com/album/2KejjW4UZgG4LejGToYi9S) | 3:28 | 2021-12-17 | 2022-07-29 |
 | [Next Girl \- Live](https://open.spotify.com/track/2ooUIGpVzp1ShWDUnc1CPa) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Next Girl \(Live\)](https://open.spotify.com/album/6Tlu6gZUgwBuSlrcSsxH44) | 2:43 | 2021-12-17 | 2022-07-27 |
 | [No Daylight](https://open.spotify.com/track/1TPLR8pO3aE6KnG2Wj7SmO) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [No Daylight](https://open.spotify.com/album/0Olp5J32pg0Gcq1GDDUzKj) | 4:15 | 2021-12-17 | 2022-07-29 |
+| [No Horse To Ride \- demo version](https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride \(demo version\)](https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB) | 2:13 | 2023-01-27 |  |
 | [No Now](https://open.spotify.com/track/6QqXvIQk3T9jLQq6aSynAU) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Thrive](https://open.spotify.com/album/403UrghdFYpOMzKF1QfYzQ) | 3:37 | 2021-12-17 | 2022-07-19 |
 | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/track/2ZVec8GTFATsJBkYdKhagf) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 2:44 | 2023-01-06 |  |
 | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/track/6v6niH1eUT1B58fX1wTn4l) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Not Supposed To Know Each Other \(Sad Version\)](https://open.spotify.com/album/00zKd4qk05rhksfR7qhlgr) | 2:44 | 2022-03-11 | 2022-10-08 |

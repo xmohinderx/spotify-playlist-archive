@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Mostro, Sacky, Néza, Mambo, Jamil, Diss Gacha e tanti altri.
 
-1,265 songs - 2 day 10 hr 1 min
+1,266 songs - 2 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Bleach](https://open.spotify.com/track/1srZMFBh4XhNvepHOzaEaC) | [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka), [Vaporstef](https://open.spotify.com/artist/7CLam35Bb5uvhKfIccRCpz) | [Bleach](https://open.spotify.com/album/682pIXIUWT4PGf0FbibSXL) | 2:42 | 2022-06-02 | 2022-06-23 |
 | [BLINDO \(feat\. Neima Ezza, Kilimoney, Baby Gang, Sacky, Nko\)](https://open.spotify.com/track/03dd5gevLZFF38pRImioOt) | [SEVEN 7oo](https://open.spotify.com/artist/1Hg2H3Z46P8lXECM8DYSpU), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SEVEN 7oo Mixtape](https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG) | 2:22 | 2022-05-26 | 2022-06-10 |
 | [BLITZ](https://open.spotify.com/track/2kicle6X48Xm1aPLHTi18w) | [Roberto Bianco](https://open.spotify.com/artist/3U50sX0DjfrlWnCaz1tqKc), [Raimo](https://open.spotify.com/artist/4dzoQsokmVsBXQf6VG80Hm) | [BLITZ](https://open.spotify.com/album/7A6GH5Q2NEttz78mDJtX3M) | 2:38 | 2022-05-26 | 2022-06-10 |
-| [Bloc](https://open.spotify.com/track/1A1TBm05B9QEVspQR2Saso) | [VVES](https://open.spotify.com/artist/1mb6NDAR33dyIdx9Jk3aFl), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Message groupé](https://open.spotify.com/album/1zWqv5QZyk6n1tCQuDwEq1) | 3:01 | 2023-01-26 |  |
+| [Bloc](https://open.spotify.com/track/16BZRnshM64CDrAMzv63GY) | [VVES](https://open.spotify.com/artist/1mb6NDAR33dyIdx9Jk3aFl), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Bloc](https://open.spotify.com/album/4B5EKRIrfj4iQBsZLzEMfy) | 3:01 | 2023-01-31 |  |
+| [Bloc](https://open.spotify.com/track/1A1TBm05B9QEVspQR2Saso) | [VVES](https://open.spotify.com/artist/1mb6NDAR33dyIdx9Jk3aFl), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Message groupé](https://open.spotify.com/album/1zWqv5QZyk6n1tCQuDwEq1) | 3:01 | 2023-01-26 | 2023-02-01 |
 | [BLOCKBABY](https://open.spotify.com/track/1gUJUCDvow0yDVUhpHmVLW) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU) | [BLOCKBABY](https://open.spotify.com/album/0QKsESvb64RjYr7QamjMws) | 2:04 | 2022-11-24 | 2022-12-09 |
 | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/track/5gKTEHncscaUVJOCCuRSed) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/album/2IlA92NHGZauM3Q6vkEVXR) | 3:03 | 2022-10-27 | 2022-11-25 |
 | [BLUE CHEESE \(feat\. Lazza\)](https://open.spotify.com/track/4OAExi3KMGS19m7p0FxOoz) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:11 | 2022-11-04 | 2022-12-02 |

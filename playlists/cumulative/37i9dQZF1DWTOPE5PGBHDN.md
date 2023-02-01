@@ -4,7 +4,7 @@
 
 > Para las mujeres que le dan duro al  gym\. ¡A quemar grasa con este playlist!
 
-152 songs - 9 hr 0 min
+153 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Mejor](https://open.spotify.com/track/6C1jKbkCUgFws7M0M4oGCB) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Modo Avión](https://open.spotify.com/album/7GUGpSBpdK6cJmWO3KdA7r) | 3:21 | 2020-07-02 |  |
 | [Mera Woo](https://open.spotify.com/track/7gPRIgwzddQ7jga1sBQtJ6) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Mera Woo](https://open.spotify.com/album/0UneoDNRVbr639NsyPRSyw) | 3:02 | 2020-07-02 | 2022-07-27 |
 | [Mi Error \- Remix](https://open.spotify.com/track/0lbhKycRyqkOMKZ6thzfU4) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Mi Error \(Remix\)](https://open.spotify.com/album/5mG7RptOZno8N5iuCezmbz) | 5:15 | 2020-07-02 |  |
+| [MIA](https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:30 | 2020-07-02 |  |
 | [MIA \(feat\. Drake\)](https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MIA \(feat\. Drake\)](https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO) | 3:30 | 2020-07-02 | 2023-01-01 |
 | [Morado](https://open.spotify.com/track/3mQ6SLdxxaL52Yte7KF2Ks) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Morado](https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd) | 3:20 | 2020-07-02 |  |
 | [Mujer Satisfecha](https://open.spotify.com/track/2dSy7VwJsM9qEs5wAE9GJV) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Mujer Satisfecha](https://open.spotify.com/album/27szUuDYpIZMaBAjvUy5O3) | 3:33 | 2020-07-02 | 2022-07-29 |
@@ -159,6 +160,6 @@
 | [Whine Up](https://open.spotify.com/track/2pWOMNQJW3g2zmGjP0Vkb0) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 3:35 | 2020-07-02 |  |
 | [Whine Up](https://open.spotify.com/track/7JabxjX6a5GvDDw6zRFscj) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Whine Up](https://open.spotify.com/album/71mNEWYV4Qvnj4quA26eM2) | 3:35 | 2020-07-02 | 2022-07-29 |
 | [X \(feat\. Maluma & Ozuna\) \- Remix](https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [X \(feat\. Maluma & Ozuna\) \[Remix\]](https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM) | 3:55 | 2020-07-02 |  |
-| [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 | 2020-07-02 |  |
+| [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 | 2020-07-02 | 2023-02-01 |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

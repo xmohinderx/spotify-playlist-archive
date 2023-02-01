@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas!",
-  "num_followers": 812217,
+  "num_followers": 812672,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzg5ODYyMCwwMDAwMDAwMDM0YzNlOTJjZWZjYzJlYjJhZjI2MTdhMjA4NjYxNTA1",
+  "snapshot_id": "MTY3Mzg5ODYyMCwwMDAwMDAwMGVhMjFhNDRjODlhNmI5NTNhMThkNzZlMzdlNWVkM2Q3",
   "tracks": [
     {
       "added_at": "2022-11-07 18:01:13",
@@ -95,22 +95,18 @@
     {
       "added_at": "2022-11-07 18:01:13",
       "album": {
-        "name": "Loco Enamorado",
-        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
       },
       "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
     },
     {
       "added_at": "2022-12-16 17:40:08",
@@ -135,18 +131,22 @@
     {
       "added_at": "2022-11-07 18:01:13",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
+        "name": "Loco Enamorado",
+        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
       },
       "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
+      "duration_ms": 226000,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
         "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
       },
@@ -341,6 +325,22 @@
       "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
     },
     {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+    },
+    {
       "added_at": "2022-12-08 23:34:57",
       "album": {
         "name": "Blanco y Negro Vol. 1",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
       "artists": [
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 239497,
-      "name": "Ojitos de Miel",
-      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
+      "duration_ms": 190773,
+      "name": "Ha\u0301blame De Ti",
+      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
     },
     {
       "added_at": "2023-01-16 19:50:20",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "M\u00edranos Ahora",
-        "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         }
       ],
-      "duration_ms": 198933,
-      "name": "M\u00edranos Ahora",
-      "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
+      "duration_ms": 239497,
+      "name": "Ojitos de Miel",
+      "url": "https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+        "name": "M\u00edranos Ahora",
+        "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 190773,
-      "name": "Ha\u0301blame De Ti",
-      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
+      "duration_ms": 198933,
+      "name": "M\u00edranos Ahora",
+      "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
     },
     {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 177058,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
-    },
-    {
       "added_at": "2023-01-16 19:50:20",
       "album": {
         "name": "Le Hace Falta Un Beso",
@@ -587,6 +571,22 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 177058,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "10\u00ba Aniversario",
-        "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 153493,
-      "name": "Hermosa Experiencia",
-      "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "Mi Persona Preferida",
         "url": "https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+        "name": "10\u00ba Aniversario",
+        "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 186413,
-      "name": "Dis\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
+      "duration_ms": 153493,
+      "name": "Hermosa Experiencia",
+      "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -735,6 +719,22 @@
       "duration_ms": 178700,
       "name": "Acurrucar",
       "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "Dis\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Historia sin fin",
-        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 184706,
-      "name": "Historia sin fin",
-      "url": "https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "Calidad Y Cantidad",
         "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 209120,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Historia sin fin",
+        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 184706,
+      "name": "Historia sin fin",
+      "url": "https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "No Paras de Hacerme Feliz",
-        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "No Paras de Hacerme Feliz",
-      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
         "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
         "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
       },
@@ -963,18 +947,34 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Mi Amuleto Eres Tu",
-        "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
+        "name": "No Paras de Hacerme Feliz",
+        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
       },
       "artists": [
         {
-          "name": "Vagon Chicano",
-          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 210133,
-      "name": "Mi Amuleto Eres T\u00fa",
-      "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
+      "duration_ms": 185296,
+      "name": "No Paras de Hacerme Feliz",
+      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+    },
+    {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Lo Mejor De Mi Vida",
+        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Lo Mejor De Mi Vida",
-        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
+        "name": "Mi Amuleto Eres Tu",
+        "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Vagon Chicano",
+          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
         }
       ],
-      "duration_ms": 156680,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ"
+      "duration_ms": 210133,
+      "name": "Mi Amuleto Eres T\u00fa",
+      "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -1089,6 +1089,26 @@
       "url": "https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA"
     },
     {
+      "added_at": "2022-05-06 18:52:36",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 200945,
+      "name": "Tuyo y M\u00edo",
+      "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
+    },
+    {
       "added_at": "2022-12-08 23:34:57",
       "album": {
         "name": "Voy a Conquistarte",
@@ -1111,22 +1131,18 @@
     {
       "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+        "name": "Exitos De Mariano Barba",
+        "url": "https://open.spotify.com/album/3Y1feJXQVxyZGhwA3IC4uR"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Mariano Barba",
+          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
         }
       ],
-      "duration_ms": 200945,
-      "name": "Tuyo y M\u00edo",
-      "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
+      "duration_ms": 250120,
+      "name": "Una Noche M\u00e1s Contigo",
+      "url": "https://open.spotify.com/track/3hyZDNRrpnUo2ScK2J6fe7"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -1159,22 +1175,6 @@
       "duration_ms": 188586,
       "name": "Mi Meta Contigo",
       "url": "https://open.spotify.com/track/1OGze4EM0gQ8NNrtdVLCf1"
-    },
-    {
-      "added_at": "2022-05-06 18:52:36",
-      "album": {
-        "name": "Exitos De Mariano Barba",
-        "url": "https://open.spotify.com/album/3Y1feJXQVxyZGhwA3IC4uR"
-      },
-      "artists": [
-        {
-          "name": "Mariano Barba",
-          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Una Noche M\u00e1s Contigo",
-      "url": "https://open.spotify.com/track/3hyZDNRrpnUo2ScK2J6fe7"
     },
     {
       "added_at": "2022-05-06 18:52:36",
@@ -1241,24 +1241,20 @@
       "url": "https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p"
     },
     {
-      "added_at": "2022-12-08 23:34:57",
+      "added_at": "2022-05-06 18:52:36",
       "album": {
-        "name": "Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
+        "name": "Derecho De Antiguedad",
+        "url": "https://open.spotify.com/album/0s8ImVdy8zLd19wySRzk1s"
       },
       "artists": [
         {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 197107,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
+      "duration_ms": 183906,
+      "name": "Derecho De Antig\u00fcedad",
+      "url": "https://open.spotify.com/track/15KNGMJFNAaZUq7qNmuKJU"
     }
   ],
   "unique_name": "Banda Rom\u00e1ntica",

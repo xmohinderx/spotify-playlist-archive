@@ -6107,6 +6107,24 @@
     },
     {
       "album": {
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/5QStCkR4isxn3C9HPJXGe0"
+      },
+      "artists": [
+        {
+          "name": "ZOO",
+          "url": "https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127118,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/6SgwJ1u5mkWWCG3Cvw11x8"
+    },
+    {
+      "album": {
         "name": "PANTIES Y BRASIERES",
         "url": "https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf"
       },

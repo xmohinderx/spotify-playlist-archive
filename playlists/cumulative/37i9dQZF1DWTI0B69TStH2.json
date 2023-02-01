@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover: Weronika Borowiec | Playlista od\u015bwie\u017cana w ka\u017cd\u0105 \u015brod\u0119.",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover: \u015bwita\u0142a | Playlista od\u015bwie\u017cana w ka\u017cd\u0105 \u015brod\u0119.",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -136,6 +136,24 @@
       "duration_ms": 170117,
       "name": "18:03",
       "url": "https://open.spotify.com/track/7rDNAgn5LZzrNQS1E1l5dF"
+    },
+    {
+      "album": {
+        "name": "2/10",
+        "url": "https://open.spotify.com/album/1WHuYkVgYBm2yh5EbYzyq6"
+      },
+      "artists": [
+        {
+          "name": "Agata Radziszewska",
+          "url": "https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230735,
+      "name": "2/10",
+      "url": "https://open.spotify.com/track/5GyjN34ERWoiTbNDEje48C"
     },
     {
       "album": {
@@ -754,7 +772,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 214200,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/7IK46mcMiXgcjLIU2107MF"
@@ -776,6 +794,24 @@
       "duration_ms": 205714,
       "name": "ATLETA",
       "url": "https://open.spotify.com/track/2NzfQSpSZygfe93WQuENHX"
+    },
+    {
+      "album": {
+        "name": "Aurelia",
+        "url": "https://open.spotify.com/album/3jdv9PjMapsmgfzYrbCiXa"
+      },
+      "artists": [
+        {
+          "name": "Dots",
+          "url": "https://open.spotify.com/artist/77dvGbzTXfYwrAYxlXFoKZ"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237627,
+      "name": "Aurelia",
+      "url": "https://open.spotify.com/track/0ZzN1XWyyhKPGdE9SFUbaZ"
     },
     {
       "album": {
@@ -988,7 +1024,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 219130,
       "name": "BEZCZAS",
       "url": "https://open.spotify.com/track/1Xn34xUjxRMPGir1fyHeNR"
@@ -1444,7 +1480,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 184636,
       "name": "Ca\u0142kiem dobrze",
       "url": "https://open.spotify.com/track/392pL0qfU0FepYzkL22w2v"
@@ -1466,6 +1502,24 @@
       "duration_ms": 188516,
       "name": "Ca\u0142y Czas Si\u0119 Gubi\u0119",
       "url": "https://open.spotify.com/track/7eTAeGKq7VHjp0CtQ1Xicq"
+    },
+    {
+      "album": {
+        "name": "cd",
+        "url": "https://open.spotify.com/album/29l76caDE98NWT41SgTkzo"
+      },
+      "artists": [
+        {
+          "name": "\u015bwita\u0142a",
+          "url": "https://open.spotify.com/artist/0fP7Egec8F7B72aatTrLPQ"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201846,
+      "name": "cd",
+      "url": "https://open.spotify.com/track/2fVO4BqQq6ughVvS22hfVd"
     },
     {
       "album": {
@@ -1578,7 +1632,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 229934,
       "name": "cheesy",
       "url": "https://open.spotify.com/track/1NUgDf56LN6DBItaWi2lUg"
@@ -1951,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Czas na nas",
+        "url": "https://open.spotify.com/album/47yvMuKt0tvwEBvCJuM8c8"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170893,
+      "name": "Czas na nas",
+      "url": "https://open.spotify.com/track/3yFQ8bcMK4E2QE8zaP7zbS"
+    },
+    {
+      "album": {
         "name": "Czas przep\u0142ywa",
         "url": "https://open.spotify.com/album/4LCO7xHaoFp0GWtotPXxuI"
       },
@@ -2023,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "Czekam na wi\u0119cej",
+        "url": "https://open.spotify.com/album/3EqYycxpszvZwmApxeOAsB"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Borowczyk",
+          "url": "https://open.spotify.com/artist/1vtWgTUjmALR6FkrBRSzOw"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222920,
+      "name": "Czekam na wi\u0119cej",
+      "url": "https://open.spotify.com/track/0RtmfEjxgGNjiLgusFUYVk"
+    },
+    {
+      "album": {
         "name": "Czerwone twarze",
         "url": "https://open.spotify.com/album/5PjkahKTA8iIROy4LCbjBn"
       },
@@ -2060,6 +2150,24 @@
       "duration_ms": 188505,
       "name": "Czer\u0144 i biel",
       "url": "https://open.spotify.com/track/0r4rLVHcgSjnxWMNKLpyZP"
+    },
+    {
+      "album": {
+        "name": "czy mog\u0119 prosi\u0107 do ta\u0144ca? (wolniej)",
+        "url": "https://open.spotify.com/album/1Zd9LaUZ24tEyQlLIxejh0"
+      },
+      "artists": [
+        {
+          "name": "levie",
+          "url": "https://open.spotify.com/artist/2f8SMIZ9FwAohqtDNKWwh2"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198638,
+      "name": "czy mog\u0119 prosi\u0107 do ta\u0144ca? (wolniej)",
+      "url": "https://open.spotify.com/track/77BwraGBSkViSlf1Ib2xPx"
     },
     {
       "album": {
@@ -2452,6 +2560,24 @@
       "duration_ms": 166153,
       "name": "DOPPIO W TONICU",
       "url": "https://open.spotify.com/track/1QEEWL94yR2RXsYjuk2Jsa"
+    },
+    {
+      "album": {
+        "name": "Doro\u015bli na niby",
+        "url": "https://open.spotify.com/album/4uNHUWiKfdP0FDcVh6guZD"
+      },
+      "artists": [
+        {
+          "name": "Gypsy and the Acid Queen",
+          "url": "https://open.spotify.com/artist/2yUrmSd5W9lNHIIEFauKlw"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Doro\u015bli na niby",
+      "url": "https://open.spotify.com/track/5Kjqr7plttcKbFK6RVICJx"
     },
     {
       "album": {
@@ -3076,7 +3202,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 217000,
       "name": "First Time on My Own",
       "url": "https://open.spotify.com/track/0kAteCAIhHBMOqqxIAUuMz"
@@ -3138,7 +3264,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 95322,
       "name": "For You",
       "url": "https://open.spotify.com/track/2vxHC1GmHpSObGZgWQisbC"
@@ -3356,7 +3482,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 134193,
       "name": "Girl From The Wild",
       "url": "https://open.spotify.com/track/7lak5hFojRPht2PNx29m4s"
@@ -4352,7 +4478,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 212422,
       "name": "Kaszmirowy",
       "url": "https://open.spotify.com/track/6iv6RvUxjM01slXccU9mQE"
@@ -4952,6 +5078,72 @@
       "duration_ms": 155207,
       "name": "Kszta\u0142t czaszki",
       "url": "https://open.spotify.com/track/1fXrK8fAiFRdIR7Wq3bvgS"
+    },
+    {
+      "album": {
+        "name": "Kto",
+        "url": "https://open.spotify.com/album/7LSi831NPc8WnjDvsD2fD7"
+      },
+      "artists": [
+        {
+          "name": "Sza\u0142a\u015bny",
+          "url": "https://open.spotify.com/artist/0oqCt2yAXbpdcXLY066wcs"
+        },
+        {
+          "name": "dybi\u0144ski",
+          "url": "https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216153,
+      "name": "Kto",
+      "url": "https://open.spotify.com/track/749ku9KjlrKo9nGovsuU3r"
+    },
+    {
+      "album": {
+        "name": "Kto Dzwoni?",
+        "url": "https://open.spotify.com/album/1jNFXI2J6BxV0XNgS74le8"
+      },
+      "artists": [
+        {
+          "name": "Mark Wolf",
+          "url": "https://open.spotify.com/artist/0OhL4PQtFURkWIVTMuZKt9"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Kto Dzwoni?",
+      "url": "https://open.spotify.com/track/1ilZJJQivrMD0odIcnHY32"
+    },
+    {
+      "album": {
+        "name": "Kurz",
+        "url": "https://open.spotify.com/album/2nNLxnkOYAgBXyVqaLidUd"
+      },
+      "artists": [
+        {
+          "name": "AURA",
+          "url": "https://open.spotify.com/artist/4GqUwBJID3pBIy1Qv3DtKH"
+        },
+        {
+          "name": "Aurelia",
+          "url": "https://open.spotify.com/artist/6h4rsabVZf3TfZK3ilMIMx"
+        },
+        {
+          "name": "Tytuz",
+          "url": "https://open.spotify.com/artist/4BefvcGwd3bVmuxMQiHJCQ"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Kurz",
+      "url": "https://open.spotify.com/track/4cqiq1z4yADxIutdW2malO"
     },
     {
       "album": {
@@ -6349,6 +6541,24 @@
     },
     {
       "album": {
+        "name": "nagi sad",
+        "url": "https://open.spotify.com/album/3tEbiAi0pOkFM7pdDLheh1"
+      },
+      "artists": [
+        {
+          "name": "Julia Kaczmarczyk",
+          "url": "https://open.spotify.com/artist/1IqwG9XYZRCF1W1lZ3JCui"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247714,
+      "name": "nagi sad",
+      "url": "https://open.spotify.com/track/6h32oBCQomKjFfJyGGnk0S"
+    },
+    {
+      "album": {
         "name": "Najlepsi",
         "url": "https://open.spotify.com/album/2gHJaWaNREHMlU62cU6rxr"
       },
@@ -6664,7 +6874,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 191363,
       "name": "Nie widzi mnie nikt",
       "url": "https://open.spotify.com/track/6Bz69QEl8AgUS61SSXlLJZ"
@@ -6762,6 +6972,24 @@
       "duration_ms": 178874,
       "name": "NIE(WA\u017bNE)",
       "url": "https://open.spotify.com/track/6vdPyW83W7jgSDlPH3gkOj"
+    },
+    {
+      "album": {
+        "name": "Nie(zbyt) M\u0105dra",
+        "url": "https://open.spotify.com/album/3u3cnIkFmxk8FJICIODfxM"
+      },
+      "artists": [
+        {
+          "name": "Natina",
+          "url": "https://open.spotify.com/artist/06hXmcqapLjcKUwLhQBXOt"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129657,
+      "name": "Nie(zbyt) M\u0105dra",
+      "url": "https://open.spotify.com/track/1jgOYWbNBszydqvuBBLd6b"
     },
     {
       "album": {
@@ -7863,6 +8091,24 @@
     },
     {
       "album": {
+        "name": "Otuleni Toksynami",
+        "url": "https://open.spotify.com/album/2AEOj2aHKCdfdMuxiP1n2F"
+      },
+      "artists": [
+        {
+          "name": "polka",
+          "url": "https://open.spotify.com/artist/4EXW05hm5GSbtNJcoFxWPJ"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189272,
+      "name": "Otuleni Toksynami",
+      "url": "https://open.spotify.com/track/3Hy85mn7qiyURuqSbaZVUC"
+    },
+    {
+      "album": {
         "name": "owce",
         "url": "https://open.spotify.com/album/0jSDqpH6BdZJoXuCxeDrRb"
       },
@@ -7892,10 +8138,28 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 124504,
       "name": "PA!",
       "url": "https://open.spotify.com/track/3VIz8SgzZnnEFYeHKOgrXs"
+    },
+    {
+      "album": {
+        "name": "pale skuna i s\u0142ucham kukona",
+        "url": "https://open.spotify.com/album/66kNMqmWQ56lydIPJyZaR4"
+      },
+      "artists": [
+        {
+          "name": "Domel",
+          "url": "https://open.spotify.com/artist/12gbrSVX0KxyJY2XzsskSr"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "pale skuna i s\u0142ucham kukona",
+      "url": "https://open.spotify.com/track/1zO7fETPvydcNIO1c9xURh"
     },
     {
       "album": {
@@ -9132,7 +9396,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 160227,
       "name": "Retrogradacje",
       "url": "https://open.spotify.com/track/59EAsayb8doTbZstxLbwxS"
@@ -9414,6 +9678,42 @@
       "duration_ms": 232968,
       "name": "Sen",
       "url": "https://open.spotify.com/track/7nUSTthpVHvt0pC6o3w4fM"
+    },
+    {
+      "album": {
+        "name": "Sen",
+        "url": "https://open.spotify.com/album/3IhioNxZqsAv3HWbBxvEHU"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00f3l S\u0142o\u0144ce",
+          "url": "https://open.spotify.com/artist/5l1BH7yCrzKx9KJtLNfYGa"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254082,
+      "name": "Sen",
+      "url": "https://open.spotify.com/track/4iY2ko5mfcIHqvnulgmh8d"
+    },
+    {
+      "album": {
+        "name": "Sen",
+        "url": "https://open.spotify.com/album/7KZE9OaoJvZyvcFEGQAG7f"
+      },
+      "artists": [
+        {
+          "name": "Kuba D\u0105browski",
+          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126458,
+      "name": "Sen",
+      "url": "https://open.spotify.com/track/0UQndk739yI9pPVqb7hhwR"
     },
     {
       "album": {
@@ -9727,6 +10027,24 @@
     },
     {
       "album": {
+        "name": "Sk\u0142adamy si\u0119 z \u017calu",
+        "url": "https://open.spotify.com/album/2kL1cjAKQ8DqMkFu3GaLvX"
+      },
+      "artists": [
+        {
+          "name": "Zwidy",
+          "url": "https://open.spotify.com/artist/03ZzgzybQr8UyvWCMSCvRy"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309908,
+      "name": "Sk\u0142adamy si\u0119 z \u017calu",
+      "url": "https://open.spotify.com/track/2kRvPOoZm54wPo8OCGcfmU"
+    },
+    {
+      "album": {
         "name": "Slam",
         "url": "https://open.spotify.com/album/5jAGi12XggZ29UvEz5gwvh"
       },
@@ -9965,6 +10283,24 @@
     },
     {
       "album": {
+        "name": "Spacer po mie\u015bcie",
+        "url": "https://open.spotify.com/album/1XRUJyWNoGzQNofMNth38o"
+      },
+      "artists": [
+        {
+          "name": "Follow Rivers",
+          "url": "https://open.spotify.com/artist/25L9MNf4X9ejmyc4ogtYRp"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254416,
+      "name": "Spacer po mie\u015bcie",
+      "url": "https://open.spotify.com/track/3QbBAeKejNzsLAtnrhjABw"
+    },
+    {
+      "album": {
         "name": "Spellcaster",
         "url": "https://open.spotify.com/album/2mdKVn2DQYZ5rnO7qA7VC1"
       },
@@ -10056,6 +10392,24 @@
       "duration_ms": 405098,
       "name": "Spontaneous Synchronisation",
       "url": "https://open.spotify.com/track/3tzSnzEx7oB5ZL1LYgL3yW"
+    },
+    {
+      "album": {
+        "name": "Spraw",
+        "url": "https://open.spotify.com/album/0lkvfv1IhfIm0vO9ROzBOI"
+      },
+      "artists": [
+        {
+          "name": "Pierwszy",
+          "url": "https://open.spotify.com/artist/132t8dRxaHGOUGSt7Os6hA"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195546,
+      "name": "Spraw",
+      "url": "https://open.spotify.com/track/5PcyM7Vg1EdJqKFVa8snlf"
     },
     {
       "album": {
@@ -10692,7 +11046,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 180000,
       "name": "Taste Of God",
       "url": "https://open.spotify.com/track/5OJNsg2hzFS2BtiScd6VcR"
@@ -10963,6 +11317,28 @@
     },
     {
       "album": {
+        "name": "to jest na siedem",
+        "url": "https://open.spotify.com/album/1MIyezUufoXOWY5AFjMCWF"
+      },
+      "artists": [
+        {
+          "name": "ciiicho",
+          "url": "https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z"
+        },
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "to jest na siedem",
+      "url": "https://open.spotify.com/track/3CypRYP4zMNw0zc2tekeH5"
+    },
+    {
+      "album": {
         "name": "To ju\u017c",
         "url": "https://open.spotify.com/album/2gjJb8FYVYYbdH3wqUqdOm"
       },
@@ -11014,6 +11390,28 @@
       "duration_ms": 189779,
       "name": "To nie ja",
       "url": "https://open.spotify.com/track/5DwqIxkfmHFSEN1PYpxiWe"
+    },
+    {
+      "album": {
+        "name": "to nie jestem ja",
+        "url": "https://open.spotify.com/album/03XsBUT4cQ9KtplFBo9D5Y"
+      },
+      "artists": [
+        {
+          "name": "lessman",
+          "url": "https://open.spotify.com/artist/7rECpmD47z8OpXvtQg6Mve"
+        },
+        {
+          "name": "Natalia Grosiak",
+          "url": "https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "to nie jestem ja",
+      "url": "https://open.spotify.com/track/0BCMqphzXGvjGhARI2rjDU"
     },
     {
       "album": {
@@ -11130,7 +11528,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 166363,
       "name": "trampolina",
       "url": "https://open.spotify.com/track/7qS7tOyNZMJu8n0NTd40aM"
@@ -11278,7 +11676,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 135473,
       "name": "Trzy No\u017ce",
       "url": "https://open.spotify.com/track/5nUn2IadxSqgv7pdbGLlrT"
@@ -11370,7 +11768,7 @@
       },
       "artists": [
         {
-          "name": "CHMUURA",
+          "name": "chmuura",
           "url": "https://open.spotify.com/artist/54iaDwZKzZRg7iOxrwWb0l"
         },
         {
@@ -11512,6 +11910,24 @@
       "duration_ms": 226140,
       "name": "U&I",
       "url": "https://open.spotify.com/track/60KnXqIf5CJFxFKMACtKlO"
+    },
+    {
+      "album": {
+        "name": "Uciec St\u0105d",
+        "url": "https://open.spotify.com/album/6qZp8n2RlG82xTy2d9Ymq8"
+      },
+      "artists": [
+        {
+          "name": "Olaf Bars",
+          "url": "https://open.spotify.com/artist/0SCMtcnrWtuvp0XZBS1oIx"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247973,
+      "name": "Uciec St\u0105d",
+      "url": "https://open.spotify.com/track/0kAS5Se2c69RnBgTzDPuuH"
     },
     {
       "album": {
@@ -11775,6 +12191,24 @@
     },
     {
       "album": {
+        "name": "W R\u0118KACH",
+        "url": "https://open.spotify.com/album/20Ip1tib55ILns0zM27DW7"
+      },
+      "artists": [
+        {
+          "name": "OSKIMORON",
+          "url": "https://open.spotify.com/artist/7iRUeeQq7eeOXJZJZvvJg5"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "W R\u0118KACH",
+      "url": "https://open.spotify.com/track/2hXLCUf0NITKljyKZy8oiJ"
+    },
+    {
+      "album": {
         "name": "W Tym Mie\u015bcie Ju\u017c Ci\u0119 Nie Ma",
         "url": "https://open.spotify.com/album/7L937D069jmhEmSUc5zXg3"
       },
@@ -11826,6 +12260,24 @@
       "duration_ms": 157894,
       "name": "WAJB",
       "url": "https://open.spotify.com/track/7iFMpzYZh4cQeZvqIk9zMX"
+    },
+    {
+      "album": {
+        "name": "wakacje",
+        "url": "https://open.spotify.com/album/4GORZWu9WNxXrjuMEPt6ZB"
+      },
+      "artists": [
+        {
+          "name": "maliny",
+          "url": "https://open.spotify.com/artist/1S3B19QR8DFTo20TuguRsr"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171697,
+      "name": "wakacje",
+      "url": "https://open.spotify.com/track/45zZ8EtLJPXIoOgYLuBgDh"
     },
     {
       "album": {
@@ -12112,7 +12564,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 182000,
       "name": "Wiatr Zabra\u0142 Ciep\u0142e Dni",
       "url": "https://open.spotify.com/track/6rGSw36xffvcGio6zhElFr"
@@ -12148,7 +12600,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 217843,
       "name": "Widzisz mnie",
       "url": "https://open.spotify.com/track/5kf9R79969jcjt1w8gB5al"
@@ -12246,6 +12698,24 @@
       "duration_ms": 217357,
       "name": "Wina - Szatt Remix",
       "url": "https://open.spotify.com/track/5Tu0SkuKX0OTw85CkNlOI0"
+    },
+    {
+      "album": {
+        "name": "Wiosenny kwiat",
+        "url": "https://open.spotify.com/album/0zhQi4911BPZxYe5UqRwCZ"
+      },
+      "artists": [
+        {
+          "name": "Raindow",
+          "url": "https://open.spotify.com/artist/4ajombin2svShTCmEmbHfE"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241096,
+      "name": "Wiosenny kwiat",
+      "url": "https://open.spotify.com/track/2is3jROt5iYjihHzApreip"
     },
     {
       "album": {
@@ -13266,6 +13736,24 @@
       "duration_ms": 152842,
       "name": "zmiany ci\u015bnienia",
       "url": "https://open.spotify.com/track/6CfqDnJfGu8XTx9RRmj7fR"
+    },
+    {
+      "album": {
+        "name": "Czw\u00f3rka, Vol. 1",
+        "url": "https://open.spotify.com/album/3lv56Zhf3DQoM3GUip1wxB"
+      },
+      "artists": [
+        {
+          "name": "300MIL",
+          "url": "https://open.spotify.com/artist/52w8qwOPgeQiclKsUrSG2U"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168041,
+      "name": "Zmora",
+      "url": "https://open.spotify.com/track/3uhmRco0SVWKxbhkjsCvVr"
     },
     {
       "album": {

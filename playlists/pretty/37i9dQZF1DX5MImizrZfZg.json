@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 44730,
+  "num_followers": 44811,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDc1NmEwYTUxZmI3NTVjNmRkNzM1MGEzZTdjMmQxZjNi",
+  "snapshot_id": "MTYzODg5NTgyOCwwMDAwMDAwMDQ2M2Y2NDc3NjliNGRiMTc3NGJlZjJmZDI4ZmU2YTc1",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 332293,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
       },
@@ -359,6 +343,38 @@
       "duration_ms": 270773,
       "name": "Who's That Lady",
       "url": "https://open.spotify.com/track/5tuPqvXQw7SJwuX78R9pB2"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "The Sax Pack",
+        "url": "https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN"
+      },
+      "artists": [
+        {
+          "name": "The Sax Pack",
+          "url": "https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "The Sax Pack",
+      "url": "https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 332293,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -415,22 +431,6 @@
       "duration_ms": 346266,
       "name": "I Wanna Be Where You Are",
       "url": "https://open.spotify.com/track/5vM8GpI04rVLp7m1gUHDRa"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "The Sax Pack",
-        "url": "https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN"
-      },
-      "artists": [
-        {
-          "name": "The Sax Pack",
-          "url": "https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "The Sax Pack",
-      "url": "https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "110 Degrees and Rising",
-        "url": "https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU"
-      },
-      "artists": [
-        {
-          "name": "Kevin Toney",
-          "url": "https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "Just Like The First Time",
-      "url": "https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Saxophonic",
         "url": "https://open.spotify.com/album/1AXGtTurzbPDCyOftQdS7l"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 263400,
       "name": "Honey-Dipped",
       "url": "https://open.spotify.com/track/4kpXER4nOWUIbqm4iYs6sr"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "110 Degrees and Rising",
+        "url": "https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU"
+      },
+      "artists": [
+        {
+          "name": "Kevin Toney",
+          "url": "https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Just Like The First Time",
+      "url": "https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV"
     },
     {
       "added_at": "2020-08-19 19:15:51",

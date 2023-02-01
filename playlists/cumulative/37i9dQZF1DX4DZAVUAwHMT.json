@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "What's Rock And Roll?",
+        "url": "https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD"
+      },
+      "artists": [
+        {
+          "name": "The Reytons",
+          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193813,
+      "name": "15 Minutes In The Algorithm",
+      "url": "https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs"
+    },
+    {
+      "album": {
         "name": ":mydopamine:",
         "url": "https://open.spotify.com/album/4tHK91a2JwTUOeAw29jlvN"
       },
@@ -290,7 +308,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 186413,
       "name": "Fading",
       "url": "https://open.spotify.com/track/3PTwnUE0HTAvBnhiqFVi9Y"

@@ -1,12 +1,12 @@
 {
   "description": "Remember these?",
-  "num_followers": 1191662,
+  "num_followers": 1191944,
   "original_name": "One-Hit Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5Mzc3NTQ3MSwwMDAwMDAwMDgwNDJjZWE5NmQ2NWZjMjhiMTg4YjA1NzdlNmIyOWRl",
+  "snapshot_id": "MTU5Mzc3NTQ3MSwwMDAwMDAwMDdkNzI2OTA2NzBlMjMyOWM3ZmQ1Y2RjYjFmMmNkMWVm",
   "tracks": [
     {
       "added_at": "2018-12-12 11:34:22",
@@ -515,22 +515,6 @@
     {
       "added_at": "2018-12-12 11:34:22",
       "album": {
-        "name": "World Clique",
-        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
-      },
-      "artists": [
-        {
-          "name": "Deee-Lite",
-          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
-        }
-      ],
-      "duration_ms": 231786,
-      "name": "Groove Is in the Heart",
-      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
-    },
-    {
-      "added_at": "2018-12-12 11:34:22",
-      "album": {
         "name": "Everything's Archie",
         "url": "https://open.spotify.com/album/3Yx7rFz5gPsuWOoNncW0UP"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 167213,
       "name": "Sugar Sugar",
       "url": "https://open.spotify.com/track/6MTd61g9zq6CB1FnJydjEb"
+    },
+    {
+      "added_at": "2018-12-12 11:34:22",
+      "album": {
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+      },
+      "artists": [
+        {
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+        }
+      ],
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
     },
     {
       "added_at": "2018-12-12 11:34:22",
@@ -631,22 +631,6 @@
     {
       "added_at": "2018-12-12 11:34:22",
       "album": {
-        "name": "Love For The Streets",
-        "url": "https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal"
-      },
-      "artists": [
-        {
-          "name": "Caesars",
-          "url": "https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Jerk It Out",
-      "url": "https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV"
-    },
-    {
-      "added_at": "2018-12-12 11:34:22",
-      "album": {
         "name": "Saturday Night Single",
         "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 247405,
       "name": "Saturday Night - Radio Mix",
       "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
+    },
+    {
+      "added_at": "2018-12-12 11:34:22",
+      "album": {
+        "name": "Love For The Streets",
+        "url": "https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal"
+      },
+      "artists": [
+        {
+          "name": "Caesars",
+          "url": "https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Jerk It Out",
+      "url": "https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV"
     },
     {
       "added_at": "2018-12-12 11:34:22",

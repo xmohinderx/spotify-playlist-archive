@@ -4,7 +4,7 @@
 
 > The highest quality blend ft\. JOSEPH
 
-621 songs - 1 day 13 hr 45 min
+622 songs - 1 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,8 @@
 | [Point and Kill](https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:05 | 2021-12-10 | 2022-03-18 |
 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 | 2021-12-10 | 2022-03-05 |
 | [Porta](https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Porta](https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO) | 3:26 | 2022-02-11 | 2022-05-07 |
-| [Portrait Of God](https://open.spotify.com/track/1AXajRuTLgUfMewgGfyEbf) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Portrait of God](https://open.spotify.com/album/5AhehkwxsQ5Cdp1ip4mkB9) | 3:39 | 2022-12-02 |  |
+| [Portrait Of God](https://open.spotify.com/track/1AXajRuTLgUfMewgGfyEbf) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Portrait of God](https://open.spotify.com/album/5AhehkwxsQ5Cdp1ip4mkB9) | 3:39 | 2022-12-02 | 2023-02-01 |
+| [Portrait Of God](https://open.spotify.com/track/4yDGaudAfnXNMIKmFCxhLD) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 3:39 | 2023-01-27 |  |
 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 | 2023-01-20 |  |
 | [Problem With It](https://open.spotify.com/track/1hCrL9BjC03mTYR5905Q9k) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Problem With It](https://open.spotify.com/album/66ydaWFaxPBMBGmegJBDDR) | 3:32 | 2022-08-05 | 2022-10-26 |
 | [Problem With It](https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:32 | 2022-10-14 |  |

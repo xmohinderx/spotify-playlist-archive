@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Fall Out Boy
 
-205 songs - 12 hr 24 min
+206 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Cut The Line](https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Erica Silva](https://open.spotify.com/artist/066c3V7XvJ8jAAfAY8QgcE) | [Cut The Line](https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw) | 3:29 | 2022-03-04 |  |
 | [Dad Vibes](https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Dad Vibes](https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR) | 2:12 | 2022-01-14 |  |
 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 | 2022-01-14 |  |
-| [Dark Eyes](https://open.spotify.com/track/2k3Jx1qG1EU0gVNYn0Ku7V) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H), [Scotty Overdose](https://open.spotify.com/artist/1oqCZv7Ggltj1xEC5gYjFS) | [Dark Eyes](https://open.spotify.com/album/1Z9bQxRRURNy46GPe3sS2S) | 4:00 | 2023-01-13 |  |
+| [Dark Eyes](https://open.spotify.com/track/2k3Jx1qG1EU0gVNYn0Ku7V) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H), [Scotty Overdose](https://open.spotify.com/artist/1oqCZv7Ggltj1xEC5gYjFS) | [Dark Eyes](https://open.spotify.com/album/1Z9bQxRRURNy46GPe3sS2S) | 4:00 | 2023-01-13 | 2023-02-01 |
 | [Destiny](https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:02 | 2022-01-14 | 2022-03-12 |
 | [Do Ya Wanna Taste It](https://open.spotify.com/track/5XW4BwCrfYpci5zMbJxs4N) | [Wig Wam](https://open.spotify.com/artist/5EzPaejJ1QA4wkTLV37e60) | [Non Stop Rock'n Roll](https://open.spotify.com/album/4LC0EgGdIMtdpsssOLCJ1T) | 2:56 | 2022-03-04 | 2022-05-20 |
 | [Dregs of the Wine](https://open.spotify.com/track/1NLuc6L2PhmFiSJK1zoFb6) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Dregs of the Wine](https://open.spotify.com/album/7AqFnCeN3Q3wvSuw36cAfD) | 3:29 | 2022-09-09 | 2022-10-29 |
@@ -149,6 +149,7 @@
 | [Radium Girls](https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [The Last Internationale](https://open.spotify.com/artist/2K9hz9205EQR7KkKNdyXFc), [Aimee Interrupter](https://open.spotify.com/artist/511ZM3AQ8CNe4VNMcYvdB0), [White Lung](https://open.spotify.com/artist/2iT2Fmot4VzWgdOTgp3j9M) | [Radium Girls](https://open.spotify.com/album/3vpk9zb559Jo7dsmZRBZo9) | 3:49 | 2022-01-14 | 2022-03-05 |
 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 | 2022-08-26 |  |
 | [Rich Kids Ruin Everything](https://open.spotify.com/track/4ANzvISz338P5mRff2m63x) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Rich Kids Ruin Everything](https://open.spotify.com/album/0uNDijaQlIxf11ygtq6PCR) | 2:36 | 2022-03-11 | 2022-06-25 |
+| [ROCKOPHOBIA](https://open.spotify.com/track/09RlKT4zUZHNJ6WJPGHJdp) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/0JPpXj9R4dOgYbSERMAnRM) | 4:24 | 2023-02-01 |  |
 | [Roses For You](https://open.spotify.com/track/0NRiFKtoYgflCzuCI8OG6t) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Roses For You](https://open.spotify.com/album/7qkjcLooZU0VyhhnbrxFUa) | 3:20 | 2022-09-02 | 2022-10-01 |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-06-24 | 2022-08-13 |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-09-09 | 2022-10-08 |

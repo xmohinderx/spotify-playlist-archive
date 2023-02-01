@@ -13186,7 +13186,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 130162,
       "name": "Olav Olav",
       "url": "https://open.spotify.com/track/2NfhmhQIlkbzaLxuUoRoTG"
@@ -15416,6 +15416,28 @@
       "duration_ms": 193466,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/01yhPS4Pn3chM0sc3gcs6B"
+    },
+    {
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/6PF1U0TloActhbxnP4XXBb"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190430,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/3VjEyvyWkd09eE6h1weCfn"
     },
     {
       "album": {

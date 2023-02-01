@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Dino Gala \| Visual Artist: Bailey Elder
 
-391 songs - 23 hr 50 min
+392 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Bury Me in the Rain](https://open.spotify.com/track/44gSESjjEamB4BOZ7wQTsS) | [Eastbound Buzz](https://open.spotify.com/artist/6ptPP23YNiWhQzJwoMh7R2) | [Bury Me in the Rain](https://open.spotify.com/album/1EtMcoidKTOFtrGNWJtNfZ) | 3:59 | 2022-09-21 | 2022-12-01 |
 | [Calgary Skyline](https://open.spotify.com/track/5b650x4FrY2CiIw9LLcopY) | [Peach & Quiet](https://open.spotify.com/artist/1k9yLhNPTAVPf1R03eUnbc) | [Calgary Skyline](https://open.spotify.com/album/4TDb5JSdVdgXQY9cddv5WG) | 3:22 | 2023-01-11 |  |
 | [Can I Call?](https://open.spotify.com/track/3MMhjMd9xr0zRPJbn45BL6) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Can I Call?](https://open.spotify.com/album/3UT9sUi1VA4t7m9Gq5t3Hr) | 3:34 | 2023-01-11 |  |
-| [Captain's Flat](https://open.spotify.com/track/6VkUAqdvDL8EB6Xppana4Z) | [Hana Stretton](https://open.spotify.com/artist/26MsHzLvNrTnU4QOKd9nXO) | [Come Home](https://open.spotify.com/album/72ksYtkFBs0XrizhtInaLK) | 3:34 | 2023-01-11 |  |
+| [Captain's Flat](https://open.spotify.com/track/5Aueq9Aii18prdITRbm8Zf) | [Hana Stretton](https://open.spotify.com/artist/26MsHzLvNrTnU4QOKd9nXO) | [Soon](https://open.spotify.com/album/1W36Jjr72SQIm10A30s6PO) | 3:34 | 2023-01-25 |  |
+| [Captain's Flat](https://open.spotify.com/track/6VkUAqdvDL8EB6Xppana4Z) | [Hana Stretton](https://open.spotify.com/artist/26MsHzLvNrTnU4QOKd9nXO) | [Come Home](https://open.spotify.com/album/72ksYtkFBs0XrizhtInaLK) | 3:34 | 2023-01-11 | 2023-02-01 |
 | [Caterpillar](https://open.spotify.com/track/0hXfaaPKEVCsteJCkBD7ud) | [Julie Odell](https://open.spotify.com/artist/5GpTxYv8CajCjQJF1A4h0R) | [Caterpillar](https://open.spotify.com/album/1S4hXkm2TcDtjQWWkkM3LY) | 5:18 | 2022-05-25 | 2022-09-15 |
 | [change](https://open.spotify.com/track/0EvDzKDIwY5NkYWxzsOy3P) | [elkyn](https://open.spotify.com/artist/5qlnbZjig0IqfxA0qGRwpM) | [holy spirit social club](https://open.spotify.com/album/5YMex9qqYgeG2xPvcyaxyx) | 3:06 | 2022-05-25 | 2022-08-11 |
 | [Chardonnay](https://open.spotify.com/track/35XWfqYojCyXpNEeB5TbId) | [The Namby Pamby](https://open.spotify.com/artist/0bX0QBtGt7PyHCEdZad1Sz) | [Marketplace](https://open.spotify.com/album/4FhY7u29l7rxgK1jUvBwib) | 3:08 | 2022-11-23 |  |

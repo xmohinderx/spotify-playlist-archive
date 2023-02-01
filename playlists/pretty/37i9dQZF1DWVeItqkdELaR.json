@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora do ver\u00e3o.",
-  "num_followers": 85938,
+  "num_followers": 85946,
   "original_name": "Ver\u00e3o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDI1YTM2ZDU1YTJkYjU2MmNkZjRiNDkzZjZkMWZiMTg0",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDcwYTRiNTM2MGYyMmM2NjYzMzJlMjJjNmY5YTM5ZDI3",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -687,30 +687,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "All By Myself",
-        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 171747,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Hounds of Love (2018 Remaster)",
         "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
       },
@@ -743,22 +719,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "When You're Gone",
-        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
       },
@@ -775,6 +735,66 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 171747,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Paradise (feat. Dermot Kennedy)",
+      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -799,26 +819,6 @@
       "duration_ms": 140307,
       "name": "Baile no Morro",
       "url": "https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "Paradise (feat. Dermot Kennedy)",
-      "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
         "url": "https://open.spotify.com/album/4PNdseKOViclyZdCEzTmfv"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 144000,
       "name": "EU VOU COM CARINHO ELA QUER COM FOR\u00c7A",
       "url": "https://open.spotify.com/track/7qD2vjd3btuOgwpQPEY7ci"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Malvada",
-        "url": "https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 145853,
-      "name": "Malvada",
-      "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Quer Voar",
         "url": "https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 187636,
       "name": "Quer Voar",
       "url": "https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/7Emo7CQeKFAas8UqHniaSy"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 145853,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/7gVzhRCrLRUBEGdS7zNTp0"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Otra Noche Sin Ti",
-        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Otra Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Disco Arranhado (Funk Remix)",
         "url": "https://open.spotify.com/album/75ag5dnwFHBqQ3XB9l5fZg"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 176193,
       "name": "Que Rab\u00e3o (feat. Mr. Catra e YG)",
       "url": "https://open.spotify.com/track/71fwkaKdNrxiZZbkzSqmFJ"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Otra Noche Sin Ti",
+        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -1655,34 +1655,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "sentaDONA (Remix) s2",
-        "url": "https://open.spotify.com/album/0hQnp9igXfBTQx0ykET3me"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Davi Kneip",
-          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
-        },
-        {
-          "name": "Mc Frog",
-          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
-        },
-        {
-          "name": "Dj Gabriel do Borel",
-          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
-        }
-      ],
-      "duration_ms": 125245,
-      "name": "sentaDONA (Remix) s2",
-      "url": "https://open.spotify.com/track/6cS0vHihdIXy77v828qYwR"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "ATEN\u00c7\u00c3O",
         "url": "https://open.spotify.com/album/165xKO20rqbbSdv9TKNZ93"
       },
@@ -1715,6 +1687,34 @@
       "duration_ms": 164170,
       "name": "pessoa certa hora errada",
       "url": "https://open.spotify.com/track/0Rq7EzwIvsVqPPUNM3M4as"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "sentaDONA (Remix) s2",
+        "url": "https://open.spotify.com/album/0hQnp9igXfBTQx0ykET3me"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Davi Kneip",
+          "url": "https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP"
+        },
+        {
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        },
+        {
+          "name": "Dj Gabriel do Borel",
+          "url": "https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3"
+        }
+      ],
+      "duration_ms": 125245,
+      "name": "sentaDONA (Remix) s2",
+      "url": "https://open.spotify.com/track/6cS0vHihdIXy77v828qYwR"
     },
     {
       "added_at": "2022-10-13 23:00:00",

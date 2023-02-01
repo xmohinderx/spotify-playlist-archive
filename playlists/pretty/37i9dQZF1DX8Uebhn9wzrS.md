@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,110,309 likes - 500 songs - 18 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,703 likes - 500 songs - 18 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 43 | [handle it.](https://open.spotify.com/track/5JkM8lg2iVE7go99DAaZr4) | [igory](https://open.spotify.com/artist/1TPZvujEmCbb9Yw7QwoTH9) | [handle it.](https://open.spotify.com/album/3PXFO2dJH3UoapbywBlxay) | 3:14 |
 | 44 | [Taking Flight](https://open.spotify.com/track/73vGZ3fTM303YNDoXHIM3i) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Taking Flight](https://open.spotify.com/album/2CywxdG7exuCBbMqZlcwVh) | 2:35 |
 | 45 | [Smoking at Sundown](https://open.spotify.com/track/7fZE886mHBzgaeA5SlMSaa) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Laboratoire](https://open.spotify.com/album/6TmlJOoGjqc57gXO0lxgvX) | 2:12 |
-| 46 | [Foyer](https://open.spotify.com/track/5xLp8h4lYj0PoevICi9WWq) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Foyer](https://open.spotify.com/album/6MebS5lJhwjePkjU88plwu) | 2:49 |
+| 46 | [Foyer](https://open.spotify.com/track/5xLp8h4lYj0PoevICi9WWq) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7), [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41) | [Foyer](https://open.spotify.com/album/6MebS5lJhwjePkjU88plwu) | 2:49 |
 | 47 | [Diving In](https://open.spotify.com/track/34rgBVC2wMRJcP5xQd03zQ) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [Diving In](https://open.spotify.com/album/52oZVRf4u0aaIi813gKfC8) | 1:56 |
 | 48 | [Why, Yes My Good Sir](https://open.spotify.com/track/1D5NGDRg9CFCIm6WXgjtd8) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [GROOVE!](https://open.spotify.com/album/3I9rHSvSEZ782noOlXTJZG) | 1:43 |
 | 49 | [Chapman](https://open.spotify.com/track/16N0uGSoGeW41PrPCEnh8T) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Chapman](https://open.spotify.com/album/6dP2OierGgAWvXtfjRpWtZ) | 2:09 |

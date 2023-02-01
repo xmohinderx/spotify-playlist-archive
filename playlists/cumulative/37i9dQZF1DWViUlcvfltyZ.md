@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. In cover, i Moise!
 
-286 songs - 15 hr 50 min
+287 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Non lasciarmi andare](https://open.spotify.com/track/0ITzCELsdsvIX4h366BcAf) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [Non lasciarmi andare](https://open.spotify.com/album/7kBpgxXddJr60AJF1EP5A1) | 4:02 | 2022-11-10 |  |
 | [Non moriremo mai](https://open.spotify.com/track/6FNoHN4QzgqM5FVISnhplF) | [Bouganville](https://open.spotify.com/artist/5wcaCE2ZVnSUamt3lzm3uI) | [La Grande Evasione](https://open.spotify.com/album/5Rl0BkcT5nNOqijZycnzXk) | 3:23 | 2022-05-09 | 2022-05-13 |
 | [Non Sei Sola](https://open.spotify.com/track/2viAvSGY7YMcDa0fNlSXwk) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW), [Jo Squillo](https://open.spotify.com/artist/12w3NBZ8q6GnSfAzNy19Dl) | [Non Sei Sola](https://open.spotify.com/album/5Y405Tvpkm2PyIWBl6N5ph) | 2:58 | 2022-11-24 |  |
-| [Non si vive](https://open.spotify.com/track/27g2rz50khRGwHDuHmh1Pn) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo), [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [YOGA, Pt\. 2](https://open.spotify.com/album/3JtM6J516f4jroMye7ewX4) | 3:32 | 2022-11-24 |  |
+| [Non si vive](https://open.spotify.com/track/27g2rz50khRGwHDuHmh1Pn) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo), [Ibisco](https://open.spotify.com/artist/048IEBDc0lctSV2QvGoH1G) | [YOGA, Pt\. 2](https://open.spotify.com/album/3JtM6J516f4jroMye7ewX4) | 3:32 | 2022-11-24 | 2023-02-01 |
 | [Non è così male](https://open.spotify.com/track/34J9aaAIK8hx44I00gTm1y) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Non è così male](https://open.spotify.com/album/29vLnWfcp2RyY0xUnOIDhT) | 3:12 | 2022-11-24 |  |
 | [Non È Per Sempre](https://open.spotify.com/track/3hmcaxci5fSfzMdT59gf3M) | [La ragazza dello Sputnik](https://open.spotify.com/artist/3k1ymzgC0JLqsmj6R8WaYB) | [Non È Per Sempre](https://open.spotify.com/album/1ENKtcZOUYJj21mbuki1XI) | 3:28 | 2022-09-22 | 2022-11-25 |
 | [Noon](https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq) | [Nothing for Breakfast](https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl) | [Noon](https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi) | 2:48 | 2022-08-25 | 2022-09-09 |
@@ -192,6 +192,7 @@
 | [Nuvola II](https://open.spotify.com/track/6UobW347K3eotJka699l7a) | [Il nome è puramente indicativo](https://open.spotify.com/artist/5h8Td5L6oB3Fa8eI6mnBZN) | [Nuvola II](https://open.spotify.com/album/5RzRZucmRpkc309el2IyKr) | 5:53 | 2022-12-15 | 2023-01-27 |
 | [Occhi di Corvo](https://open.spotify.com/track/5qYNPhVUdQqo2PmUL3AKCO) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [YOGA, Pt\. 1](https://open.spotify.com/album/2yv4v0pLeWjIbeiKSDtFHe) | 3:21 | 2022-05-09 | 2022-09-16 |
 | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/track/2spDH2rxS8fpw6XYxtCzue) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/album/3Sub0hfAL9OSty6082UfUg) | 3:27 | 2022-05-12 | 2022-05-27 |
+| [Open Access](https://open.spotify.com/track/4181R1o6hcVe8LMmGhkxWJ) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Open Access](https://open.spotify.com/album/4KFYFGfZewWABulugtQqSF) | 2:40 | 2023-01-31 |  |
 | [ORBO](https://open.spotify.com/track/4VBCWRlrzDNxyjBEfuubST) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM) | [ORBO](https://open.spotify.com/album/6UYDYZNV39L4V138niJ2Pf) | 3:55 | 2022-05-19 | 2022-07-01 |
 | [Papaveri](https://open.spotify.com/track/78ZTkpYWq7YdLSfkPlhdgW) | [Aida](https://open.spotify.com/artist/5uyVp3NFeumolvASoIWWXp) | [Papaveri](https://open.spotify.com/album/4ZhvB9BXSTWoaCGrnzjeVx) | 2:46 | 2022-06-02 | 2022-07-01 |
 | [Papavero](https://open.spotify.com/track/3qML5gP73yuL9XVmMm3Ns5) | [LaPara](https://open.spotify.com/artist/4xJehLpB102iLT1vPxESJn) | [Papavero](https://open.spotify.com/album/0Z7qMBtRoaRhRIAshma0ox) | 4:17 | 2022-05-09 | 2022-07-01 |

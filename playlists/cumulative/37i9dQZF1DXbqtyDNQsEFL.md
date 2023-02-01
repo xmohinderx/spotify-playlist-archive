@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit.
 
-121 songs - 14 hr 39 min
+122 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 | 2022-06-09 |  |
 | [Come & See](https://open.spotify.com/track/3Mvw1n1cbjNvyH4QRvaj09) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Come & See](https://open.spotify.com/album/2jt2SWpIkCZ8ECPo2Y9f6k) | 7:27 | 2022-10-14 | 2022-11-05 |
 | [Confidence \- Live](https://open.spotify.com/track/5J0TvJIdYrybgk6SINgieR) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:14 | 2022-06-09 | 2023-01-20 |
-| [Consistent](https://open.spotify.com/track/6JMXe5OMvvxsuE7ND0AzIx) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Nothing but the Gospel](https://open.spotify.com/album/0op0nK45r5sr0KiE8UGoRr) | 8:00 | 2022-09-19 |  |
+| [Consistent](https://open.spotify.com/track/6JMXe5OMvvxsuE7ND0AzIx) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Nothing but the Gospel](https://open.spotify.com/album/0op0nK45r5sr0KiE8UGoRr) | 8:00 | 2022-09-19 | 2023-02-01 |
 | [Covenant Keeper](https://open.spotify.com/track/3oHMTQYoGL1eEAqFDK4bRh) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 3:52 | 2022-10-14 | 2022-11-05 |
 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 | 2022-07-22 |  |
 | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [The Tri\-City Singers](https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Deliver Me \(This Is My Exodus\) \(feat\. Le'Andria Johnson\)](https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls) | 5:44 | 2022-06-09 |  |
@@ -41,6 +41,7 @@
 | [FIRE](https://open.spotify.com/track/0NuZcPidCtDipRPciaL6lA) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Overflow](https://open.spotify.com/album/4YKBwt7dPjkXJYrnGaWoqM) | 4:50 | 2022-06-09 |  |
 | [Fix My Eyes on You](https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Born of God](https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf) | 5:32 | 2022-06-09 |  |
 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 | 2022-06-09 |  |
+| [Glory](https://open.spotify.com/track/6WxUoDi4xnl4E1NDrcAewm) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 10:32 | 2023-01-27 |  |
 | [God All by Yourself](https://open.spotify.com/track/0tH787oWS89L1iaZDgoWBd) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 4:41 | 2022-06-09 |  |
 | [God My God \- Radio Edit/Live](https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Unstoppable \(Live\)](https://open.spotify.com/album/4GOOHwMRhnC1y0xdzuyA9M) | 4:43 | 2022-06-09 |  |
 | [God Turned It Around](https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l) | [God Turned It Around](https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz) | 10:19 | 2022-08-25 |  |

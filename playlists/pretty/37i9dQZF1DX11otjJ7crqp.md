@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Quinn XCII
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,045 likes - 99 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,204 likes - 99 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

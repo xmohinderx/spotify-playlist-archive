@@ -630,7 +630,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 230400,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/7ouTAQjTCipK9Ag5GAwqE0"
@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395810,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
+    },
+    {
+      "album": {
         "name": "New Dawn",
         "url": "https://open.spotify.com/album/1R4VaMYmRT58HE9GYg1jKe"
       },
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 209437,
       "name": "Na Me Be This",
       "url": "https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO"
@@ -1296,6 +1314,24 @@
       "duration_ms": 234710,
       "name": "Product of Grace",
       "url": "https://open.spotify.com/track/32HuC8zZHlhPrSxuZs6fKT"
+    },
+    {
+      "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
     },
     {
       "album": {

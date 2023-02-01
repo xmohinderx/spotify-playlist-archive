@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-130 songs - 8 hr 31 min
+131 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Hadaka no Yume](https://open.spotify.com/track/4hpkSK1MZyzFUlNxN6FN1I) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:45 | 2022-12-06 | 2022-12-14 |
 | [Highway](https://open.spotify.com/track/3r92wWb9B6CkLx5rIOoD16) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Highway](https://open.spotify.com/album/5HZmVbeStX2ma4GB9GWw4g) | 5:28 | 2022-11-24 | 2022-12-14 |
 | [Highway](https://open.spotify.com/track/4CQBp8SnNUyqQnoEAIsIk1) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Highway](https://open.spotify.com/album/6uYS6gxChiTXDwXi7UIBM9) | 5:28 | 2022-11-24 | 2022-11-26 |
-| [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2022-10-20 |  |
+| [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2022-10-20 | 2023-02-01 |
 | [inthemourning](https://open.spotify.com/track/53H91ncq2kL9SReFqTkm5t) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [inthemourning](https://open.spotify.com/album/0Hlea23CFRzVX7kgpId0x2) | 3:56 | 2022-10-20 | 2022-12-02 |
 | [Is U](https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Is U](https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo) | 3:48 | 2023-01-17 |  |
 | [I’ll Keep You Safe](https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq) | [Vluestar](https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO) | [I’ll Keep You Safe](https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX) | 2:20 | 2022-10-20 |  |
@@ -54,6 +54,7 @@
 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 | 2022-10-20 | 2023-01-29 |
 | [LET THE GRASS GROW](https://open.spotify.com/track/2BN5ZMErVAhbEroB99b3no) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [LET THE GRASS GROW](https://open.spotify.com/album/160bnYxuf2qbEscs8B4QOu) | 2:55 | 2022-11-10 | 2023-01-19 |
 | [Light \(with BENEE\)](https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL) | [Finn Falcon](https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Light \(with BENEE\)](https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR) | 2:44 | 2022-10-20 | 2023-01-25 |
+| [Lily](https://open.spotify.com/track/0GKWtlvylWnedpqA3ktByn) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Lily](https://open.spotify.com/album/5OUOq95UwuLQ78pja83Jqa) | 2:18 | 2023-01-31 |  |
 | [LMKWYGH](https://open.spotify.com/track/2wiIWQzSZ06GbgkABk4pT6) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 6:15 | 2022-10-20 |  |
 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 | 2022-10-20 |  |
 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 | 2023-01-24 |  |

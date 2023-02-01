@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 
 > This is System Of A Down\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,391 likes - 32 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,023 likes - 32 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 | 12 | [Suite\-Pee](https://open.spotify.com/track/1qGmxIGEuBEkj7bft72Kh0) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:31 |
 | 13 | [ATWA](https://open.spotify.com/track/6gCVA6ja6g0foIsWv0RuSZ) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 2:56 |
 | 14 | [Innervision](https://open.spotify.com/track/0Xmbtw7NhNiDnL4BWy5wDh) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 2:33 |
-| 15 | [Question!](https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 3:20 |
+| 15 | [Cigaro](https://open.spotify.com/track/47EqCQZG5v4o0WFMufGf5S) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 2:11 |
 | 16 | [Vicinity Of Obscenity](https://open.spotify.com/track/5uMTA9SIe0sE4dnHHSHaYz) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 2:51 |
 | 17 | [Prison Song](https://open.spotify.com/track/3AwLxSqo1jOOMpNsgxqRNE) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:21 |
 | 18 | [Chic 'N' Stu](https://open.spotify.com/track/11i33j50Gsr90pRoDJBrEA) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 2:23 |
-| 19 | [Cigaro](https://open.spotify.com/track/47EqCQZG5v4o0WFMufGf5S) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 2:11 |
+| 19 | [Question!](https://open.spotify.com/track/6y2DHyCYf6azhUfXmnuH6w) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Mezmerize](https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o) | 3:20 |
 | 20 | [Kill Rock 'n Roll](https://open.spotify.com/track/28TReO2Mxk9Q3GA4K98YSz) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Hypnotize](https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3) | 2:27 |
 | 21 | [Deer Dance](https://open.spotify.com/track/2SpGXD7EbexndFmmThrnsy) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 2:54 |
 | 22 | [Roulette](https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 3:21 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34PI4g.md) - [plain]
 | 31 | [Mr\. Jack](https://open.spotify.com/track/4TYI2YExAWaIOpGP4y7AbI) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 4:09 |
 | 32 | [Know](https://open.spotify.com/track/1ByE7lUw6wWMTbCb3woHdK) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:56 |
 
-Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDBjNjNlOWQ3MDU4MTllZjYyZmI5NDQ2YWI2ZjRmM2IwZQ==`
+Snapshot ID: `Mjc5MTk3OTQsMDAwMDAwMDAxYzdkNjAwODVhN2RiMWU5MTExZmM4OTgxZTRhM2Y5MQ==`

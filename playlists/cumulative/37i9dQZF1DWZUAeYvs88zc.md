@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own.
 
-458 songs - 1 day 1 hr 48 min
+459 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bitch](https://open.spotify.com/track/2PjGWkumFMNIrdgJ8tA5BI) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Bitch](https://open.spotify.com/album/5FYMZSGSXsQDRUljl5nvnQ) | 3:14 | 2021-06-27 | 2021-09-26 |
 | [Bitch \(I Said It\)](https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Bitch \(I Said It\)](https://open.spotify.com/album/1gDWOClPKiWndWKlbYasxz) | 3:11 | 2021-10-02 | 2023-01-06 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-05-14 |  |
-| [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 | 2021-02-26 |  |
+| [Blue](https://open.spotify.com/track/4a1RWaG4BTkifgMSx3rpf3) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 3:49 | 2021-02-26 | 2023-02-01 |
 | [Break Up Song](https://open.spotify.com/track/3fEoJxnPpfIHwFHKiFtqbA) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Break Up Song](https://open.spotify.com/album/0JFTISfgRQyeH5kSAFPgtq) | 3:20 | 2020-03-29 | 2021-08-13 |
 | [Bridges](https://open.spotify.com/track/1285n66OGGUB3Bnh6c18nS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:11 | 2019-06-21 | 2019-08-10 |
 | [Broken](https://open.spotify.com/track/3Xf1QayETh9YgdW0FzMJEl) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [The Fifth](https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l) | 3:38 | 2019-05-26\* | 2020-04-22 |
@@ -153,14 +153,14 @@
 | [Happy & Sad](https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:03 | 2022-01-27 |  |
 | [Happy Anymore](https://open.spotify.com/track/2t9ZK3i4cxA9WZkpvf5up2) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Phobia](https://open.spotify.com/album/1aRThupMAXji2AuQIlsIM1) | 3:18 | 2019-06-25 | 2021-10-01 |
 | [happy for you](https://open.spotify.com/track/4vBefXybmvZ8uWzjxOvZP4) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [happy for you](https://open.spotify.com/album/0dcKqcHFGWZvOGMwKmiObl) | 3:00 | 2020-08-07 | 2022-07-29 |
-| [happy for you](https://open.spotify.com/track/27KDaaYxMJgJcyixSP7oHO) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [happy for you](https://open.spotify.com/album/7ICy7rPZmqu9weXb8j5LrB) | 2:45 | 2021-08-09 | 2022-07-29 |
+| [happy for you](https://open.spotify.com/track/27KDaaYxMJgJcyixSP7oHO) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [happy for you](https://open.spotify.com/album/7ICy7rPZmqu9weXb8j5LrB) | 2:45 | 2021-08-09 |  |
 | [Happy Loner](https://open.spotify.com/track/3aVpNPYYhmnhFl61QS56tx) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Happy Loner](https://open.spotify.com/album/2LqEi8okydBj6gNTAVhOJq) | 3:13 | 2021-12-04 | 2022-07-29 |
 | [HARD TO LOVE](https://open.spotify.com/track/5ZgvPYl6HLt6lkSayklTHR) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [HARD TO LOVE](https://open.spotify.com/album/45ymgc49dYxs5D189MIIlH) | 3:03 | 2022-03-25 | 2022-07-28 |
 | [Hate Me \(with Juice WRLD\)](https://open.spotify.com/track/6kls8cSlUyHW2BUOkDJIZE) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Hate Me \(with Juice WRLD\)](https://open.spotify.com/album/29FoTD5vBY3Fq1QWhbl3FM) | 3:06 | 2019-11-18 | 2021-10-02 |
 | [Hate That You Love Me](https://open.spotify.com/track/69btEcSPQvdTiEv2Yb1nek) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Hate That You Love Me](https://open.spotify.com/album/2AoabgykPv3qn4bgyyZgTX) | 3:13 | 2021-10-23 | 2022-07-22 |
 | [hate to be you](https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [hate to be you](https://open.spotify.com/album/6EFy6eC5CF3XUUMx2cwwAG) | 3:02 | 2022-03-18 | 2022-07-29 |
 | [Have Fun at Your Party](https://open.spotify.com/track/65q2ChWzUOjkgQNIg8jNhW) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Have Fun at Your Party](https://open.spotify.com/album/1AL9EFQOxqCnng4VrPcMJK) | 3:40 | 2019-05-27 | 2021-10-02 |
-| [Healing](https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Healing](https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s) | 3:07 | 2021-06-26 |  |
+| [Healing](https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Healing](https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s) | 3:07 | 2021-06-26 | 2023-02-01 |
 | [Heart Crush](https://open.spotify.com/track/3zWrVnMKBIDYeuZwxkY7Kg) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 4:38 | 2019-07-30 | 2020-08-07 |
 | [Heartbeats](https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ) | 3:51 | 2019-07-27 | 2019-08-09 |
 | [Heartbreak](https://open.spotify.com/track/1ERMgnNgM2oWcmG2ZVuLx5) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Heartbreak](https://open.spotify.com/album/1I6INBRN8GU7VecaGJeaLk) | 3:06 | 2021-11-24 | 2022-04-21 |
@@ -304,6 +304,7 @@
 | [Nothing Is Over](https://open.spotify.com/track/16OLYusth4IBXT8lrWK7Rr) | [Oh Land](https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM) | [Earth Sick](https://open.spotify.com/album/2OM8AFHd7Tdgop6sfDGIWT) | 3:07 | 2019-07-29 | 2019-08-06 |
 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 | 2022-09-16 | 2022-11-20 |
 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 | 2022-04-14 |  |
+| [Oh Laura](https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 3:36 | 2023-01-28 |  |
 | [OK \(Anxiety Anthem\)](https://open.spotify.com/track/5Wdf9bRdfnYRCgfahgpNHM) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [High Expectations](https://open.spotify.com/album/7G9QcvG6U223NqJzVIMNrZ) | 3:36 | 2019-08-04 | 2021-10-01 |
 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 | 2019-05-26\* |  |
 | [One Of Us](https://open.spotify.com/track/1ItdTDx23yt7tIJOZv5iLQ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:58 | 2023-01-28 |  |

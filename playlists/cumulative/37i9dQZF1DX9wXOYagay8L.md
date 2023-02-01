@@ -4,7 +4,7 @@
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn?si=DGIHR7TETBCGgLMRJ381hQ">Sjava</a>
 
-322 songs - 23 hr 8 min
+323 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Ntombazana](https://open.spotify.com/track/6fJlDSuDWB6YEtY9GwtUr4) | [Hassan Mangete](https://open.spotify.com/artist/49MtwqGzcDiLnZ5JnsczYH), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Azmo Nawe](https://open.spotify.com/artist/2KtuL7JwOuuMqjTiAOj75I) | [Ntombazana](https://open.spotify.com/album/3weAjQvgtPGA4XmTeIQDIV) | 2:54 | 2022-09-15 | 2022-10-21 |
 | [Ntsoare Moo](https://open.spotify.com/track/0wKUAe9I3MUpkH25xE9Etb) | [Irysh Da Princess](https://open.spotify.com/artist/1Vhxd4Vp4qL039MHLynbnm) | [Honour Array EP](https://open.spotify.com/album/5yXEvvUBbJe4wPkgg0lV0T) | 3:27 | 2022-05-26 | 2022-07-01 |
 | [Number 1](https://open.spotify.com/track/0CqLHQqZQHgKrIQLawgEpd) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/7lp0WAJZw1IoMzKyf6P7rh) | 4:17 | 2022-10-20 | 2022-10-22 |
-| [Number 1](https://open.spotify.com/track/28uEOZvK9boEWq4LgxFIuF) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/4kzfelmFoUzuDzyBszL7aq) | 4:17 | 2022-10-20 |  |
+| [Number 1](https://open.spotify.com/track/28uEOZvK9boEWq4LgxFIuF) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato) | [Usiba Lwe Gazi](https://open.spotify.com/album/4kzfelmFoUzuDzyBszL7aq) | 4:17 | 2022-10-20 | 2023-02-01 |
 | [Nzwakazi](https://open.spotify.com/track/7qoqQWKWYZTuHjJuqvwe5t) | [Bonga Kwana](https://open.spotify.com/artist/60Wka611vbfLW4IG31w99x) | [New faces to old problems](https://open.spotify.com/album/6dppQTbTIWldHxHF8zJOAO) | 3:55 | 2021-11-04 | 2022-03-25 |
 | [Ooh Lala](https://open.spotify.com/track/1CB29KyAf2lI2UgSYEhPgK) | [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ooh Lala](https://open.spotify.com/album/5fW2Q1xwB4dHEL5b99xfxD) | 3:22 | 2021-11-18 | 2022-03-25 |
 | [Othanda Mina](https://open.spotify.com/track/7CBGbm4zPNGe0sbCEf1SA5) | [Zādok](https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea), [S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Othanda Mina](https://open.spotify.com/album/0OILOtl8viER0JAkRKiORB) | 4:43 | 2021-10-21 | 2022-02-18 |
@@ -276,6 +276,7 @@
 | [Themba Lami \(feat\. Ami Faku\)](https://open.spotify.com/track/3DYKpGOFY06AONuqytJlya) | [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Themba Lami \(feat\. Ami Faku\)](https://open.spotify.com/album/4Igrf5yLQM2d8fFSfgZZtt) | 3:25 | 2022-07-29 | 2022-11-15 |
 | [There's Music in the Air](https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [There's Music in the Air](https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS) | 3:54 | 2022-09-09 | 2022-12-02 |
 | [Things We Love](https://open.spotify.com/track/7vsLUjThYsm2jNotIEFuVq) | [Wandile Mbambeni](https://open.spotify.com/artist/772EiD9fOEPeZc2E8dC0nX) | [Things We Love](https://open.spotify.com/album/5pBSpliSTS4JTn2Ky3EIVP) | 4:33 | 2022-02-17 | 2022-03-25 |
+| [Thixo](https://open.spotify.com/track/0oNkR5J4qmQxNVwLeA55y7) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:12 | 2023-01-30 |  |
 | [Thixo Wethu](https://open.spotify.com/track/6DCwIC3eoEK7KNldnKscdd) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Unathi](https://open.spotify.com/artist/7tAS9oUzXf3pvOxi7wd0N7) | [Gemini](https://open.spotify.com/album/37qxe0qhdSUNTNCMtsawc1) | 3:31 | 2022-06-16 | 2022-08-26 |
 | [Truth](https://open.spotify.com/track/1VMWvfEnjTzgwSd6777xeR) | [Jaziel Brothers](https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs) | [Truth](https://open.spotify.com/album/5K3vyTejoGDuRHvjo4vFNH) | 3:33 | 2022-06-30 | 2022-07-08 |
 | [Tshinakaho](https://open.spotify.com/track/3yNVOs4QdKBY78EtpN2GJM) | [Vhudie](https://open.spotify.com/artist/2g6okkT5hxpgApgXesuDAV), [Thembo](https://open.spotify.com/artist/7FqpAaU3B56P2qPzU1hrwp) | [Tshinakaho](https://open.spotify.com/album/1WP4Sf052O2iHtOingnbUx) | 3:33 | 2022-08-25 | 2022-10-14 |

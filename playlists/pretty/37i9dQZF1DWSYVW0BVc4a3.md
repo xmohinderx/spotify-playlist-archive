@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The home of rave worthy melodic techno and house\. Cover: Argy
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,268 likes - 157 songs - 12 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,501 likes - 157 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 13 | [Love's Not Over](https://open.spotify.com/track/3q6mkccpsxtJGGwVedusig) | [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Silhouette](https://open.spotify.com/artist/0mD76jJsxQwaZLhqgt6XRu), [Kuaigon](https://open.spotify.com/artist/4bgLx8IahWxzxBKpZ1W5Kx) | [Love's Not Over](https://open.spotify.com/album/3dZGnWkLHS96GFdsMGitNW) | 5:50 |
 | 14 | [Ingern](https://open.spotify.com/track/23WSd4TMp2ar1GRxa0WZQG) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Odd Ones V2](https://open.spotify.com/album/2DiBZCWhToju8TDXaKqrks) | 3:49 |
 | 15 | [Rumblah](https://open.spotify.com/track/4ZhbD69otaeNjjChA9h8qv) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Rumblah](https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv) | 4:02 |
-| 16 | [Como](https://open.spotify.com/track/2jWqS0gbqMeDmEAxFLaftX) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Picture: Disfreq](https://open.spotify.com/album/1LhcWBDBfzQNsyP9M5lAuw) | 5:38 |
+| 16 | [Como](https://open.spotify.com/track/2ajDXhl2wdbHhJUK0qaU8V) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Picture: Disfreq](https://open.spotify.com/album/07bPNT9oLiFi5EiC0p4sAO) | 5:38 |
 | 17 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 |
 | 18 | [Mind Control](https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF) | 5:07 |
 | 19 | [Faces](https://open.spotify.com/track/1pJnlza96BNgidDe5uiAPI) | [Madeaux](https://open.spotify.com/artist/1LTDQMVIIdgiJePJvUkBA3) | [Near Life Experience](https://open.spotify.com/album/4xbQZTi5cpWVfSWzldlsDv) | 4:29 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 156 | [Mariposa](https://open.spotify.com/track/1tEVej8Ced5lCHy0nOX2hi) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Mariposa](https://open.spotify.com/album/7mDh3O1KajlknUZaJaYhrm) | 7:17 |
 | 157 | [Tuvan \- AVIRA Remix](https://open.spotify.com/track/1hUPXOdBeK16TJLTn3G3OK) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Tuvan \(AVIRA Remix\)](https://open.spotify.com/album/22KBPlolCAczwX0pWVAVsx) | 3:24 |
 
-Snapshot ID: `MTY3NDc3NDA2MCwwMDAwMDAwMDA2NzdkNWNiYWE2ZDYyOWQwYmE1NDAwMzQyMmI0YWI0`
+Snapshot ID: `MTY3NDc3NDA2MCwwMDAwMDAwMDM1NjNiZGJlMTQ0YmIyZGY5OTE4OGJhMGY3YmFlMDk0`

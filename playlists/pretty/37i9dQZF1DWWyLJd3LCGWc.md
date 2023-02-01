@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 
 > <a href="https://www.instagram.com/pxssypalace/?hl=en">Pxssy Palace</a> creates a safe space for queer womxn, trans, non\-binary and intersex people of colour with their London\-based club night\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,990 likes - 46 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,012 likes - 46 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 37 | [Pussy Talk](https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:38 |
 | 38 | [IN IN IN](https://open.spotify.com/track/3APSXl8dTTumv9L1HHpCCV) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a) | [LESS IS MOOR](https://open.spotify.com/album/3DRPWHi5HizuPPgVj9JiFJ) | 3:17 |
 | 39 | [Decline Him](https://open.spotify.com/track/3Wa96y3cQWjIX9gN2dTb5t) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Transphobic](https://open.spotify.com/album/2vkSCPeqGqr2iCDZEbtieZ) | 3:33 |
-| 40 | [The Meek Shall Inherit the Earth](https://open.spotify.com/track/37DiVgAJiRdNUtydPxMExw) | [Tygapaw](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Love Thyself](https://open.spotify.com/album/6XDgTZtCEU7AhbbbIdxMBo) | 3:13 |
+| 40 | [The Meek Shall Inherit the Earth](https://open.spotify.com/track/37DiVgAJiRdNUtydPxMExw) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Love Thyself](https://open.spotify.com/album/6XDgTZtCEU7AhbbbIdxMBo) | 3:13 |
 | 41 | [Blasian Baddie](https://open.spotify.com/track/3KxkDJCDmG5NzvzWhR01hM) | [Kaede](https://open.spotify.com/artist/7AFY1eM0UyVPLNoCKvsrma) | [Blasian Baddie](https://open.spotify.com/album/1uL4XtcOgKFwIXBodBrN0o) | 2:02 |
 | 42 | [A No No](https://open.spotify.com/track/2Q0JkTzFXrU2BbnQT7tzIR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:07 |
 | 43 | [Sexo, Internet & Funk](https://open.spotify.com/track/2ihY635WAz4dfTq0K2Ui9Q) | [Deize Tigrona](https://open.spotify.com/artist/2VQ0nYO5CBFp0KVWziJDhY), [BATEKOO](https://open.spotify.com/artist/59HfwvJUsywrWQZNGnoY9B), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Sexo, Internet & Funk](https://open.spotify.com/album/2HOQRdfbn6uRdAkgAFnrpR) | 3:06 |

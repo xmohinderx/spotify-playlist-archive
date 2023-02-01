@@ -4,12 +4,12 @@
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Seyi Vibez
 
-77 songs - 3 hr 46 min
+78 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+234](https://open.spotify.com/track/371o3VFIoEDH6crkA42Kxy) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [+234](https://open.spotify.com/album/76AK0KzTGvTeld5Tza5MRc) | 2:12 | 2022-07-29 |  |
-| [2000](https://open.spotify.com/track/6gWzjoe48XfqcE1JrsupMk) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP), [Toby Shang](https://open.spotify.com/artist/6uVF9SBPINTFs7orI9Twt9) | [2000](https://open.spotify.com/album/3v1wWhmfvktucjlKLADVtN) | 2:22 | 2022-06-29 |  |
+| [2000](https://open.spotify.com/track/6gWzjoe48XfqcE1JrsupMk) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP), [Toby Shang](https://open.spotify.com/artist/6uVF9SBPINTFs7orI9Twt9) | [2000](https://open.spotify.com/album/3v1wWhmfvktucjlKLADVtN) | 2:22 | 2022-06-29 | 2023-02-01 |
 | [Able God](https://open.spotify.com/track/2T0n6U3Ef2XeZc4kdoe5Eg) | [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs), [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Able God](https://open.spotify.com/album/7xr5X8oRWh4vbFJZ0zMtn8) | 4:26 | 2022-06-29 | 2022-12-09 |
 | [Agbado Wa O](https://open.spotify.com/track/2KjpQ7DwPEuMeSFqve6Nvw) | [Son of Ika](https://open.spotify.com/artist/5XEgoROh3Nat8vH8PSb0Xi) | [Agbado Wa O](https://open.spotify.com/album/3UATmv0OvLERgHyOnI40lx) | 1:42 | 2022-06-29 | 2022-12-29 |
 | [Alajo Emilokan](https://open.spotify.com/track/10N00uyWmUaHFkNPbtNKvG) | [DJ CORA](https://open.spotify.com/artist/5vPNT5JKbOOJuwdQ8dKOAc) | [Alajo Emilokan](https://open.spotify.com/album/45XrXX2y77M6F5u4oLVHwo) | 1:14 | 2022-06-29 | 2023-01-23 |
@@ -57,6 +57,7 @@
 | [No Peace \(Violence\)](https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA) | 2:35 | 2022-12-08 |  |
 | [Of Lagos](https://open.spotify.com/track/0G6mkL7Qenh7YYWPuorN3A) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Of Lagos](https://open.spotify.com/album/0XZG1YD6gSjTTARiGEWz6l) | 2:45 | 2022-06-29 |  |
 | [Of Lala](https://open.spotify.com/track/6VMwrNQPmy3lHbuoHBTAO0) | [Rahman Jago](https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS), [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Of Lala](https://open.spotify.com/album/1Fq2heYALs55JGlNPjHZLB) | 3:07 | 2022-06-29 | 2023-01-20 |
+| [Oga Mi Sir](https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Oga Mi Sir](https://open.spotify.com/album/0zxuEYK7xzifxOwf2KVltM) | 2:40 | 2023-01-27 |  |
 | [Onjo](https://open.spotify.com/track/0CgUCf3JgP7yDEMZKHDhGn) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [Eeshoohdee](https://open.spotify.com/artist/5ILbKTA1CePpCrdhWMFpOf) | [Onjo](https://open.spotify.com/album/51GU7oRSKRyki7ZeMleGsT) | 2:28 | 2022-12-02 |  |
 | [Oshey Boys](https://open.spotify.com/track/5B2gyPpOBTrxaixIoBct5G) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Oshey Boys](https://open.spotify.com/album/7zXngUfueV6bS1hzS7ustQ) | 3:09 | 2022-12-02 |  |
 | [Otedola](https://open.spotify.com/track/0RTNc1RQqIviHjZIqcZmsm) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa) | [Otedola](https://open.spotify.com/album/0BTJgMB3PiI9E6PMAQ2bD9) | 3:05 | 2022-06-29 | 2022-12-04 |
@@ -66,7 +67,7 @@
 | [PXTA](https://open.spotify.com/track/1D7RpT4p5j72tan4NvEdCY) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [PXTA](https://open.spotify.com/album/1JNKnxhJ9hpSpV1vbetRbU) | 3:28 | 2022-06-29 | 2022-12-25 |
 | [PXTA](https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [PXTA](https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk) | 3:28 | 2022-06-29 |  |
 | [Realize](https://open.spotify.com/track/1GfaxJMFAolWogWr2MNkZ3) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Realize](https://open.spotify.com/album/6CsuuMym36rdojCUMsiOud) | 2:55 | 2022-07-29 |  |
-| [Red](https://open.spotify.com/track/2eMgsptakx869WHZ64Y2No) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Fire](https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH) | 2:54 | 2022-06-29 |  |
+| [Red](https://open.spotify.com/track/2eMgsptakx869WHZ64Y2No) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Fire](https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH) | 2:54 | 2022-06-29 | 2023-02-01 |
 | [Rora](https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Rora](https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05) | 2:29 | 2023-01-27 |  |
 | [Say You Bad \(Remix\)](https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Say You Bad \(Remix\)](https://open.spotify.com/album/1MSQFlNZ1UqxOk3WRIDxzQ) | 3:24 | 2022-07-07 |  |
 | [SDM \(Spray D Money\)](https://open.spotify.com/track/3cxKQlFmha1tHfFQ5Br6Ou) | [Mr Real](https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [SDM \(Spray D Money\)](https://open.spotify.com/album/1QS79U7O5ge4udOsFSyl3n) | 2:44 | 2022-09-23 | 2022-12-13 |
@@ -75,7 +76,7 @@
 | [Soapy](https://open.spotify.com/track/67Ar5yu8mH1rOVInvnsG0U) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Soapy](https://open.spotify.com/album/39cm8VQ9VBMhikxLxSG5lS) | 2:54 | 2022-06-29 | 2022-12-26 |
 | [South Africa](https://open.spotify.com/track/0hVRvGHLu9WHk16CPNDwbg) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [South Africa](https://open.spotify.com/album/7rFikDvLvosoU23LAz1KuD) | 2:33 | 2022-11-18 |  |
 | [Stagnant](https://open.spotify.com/track/3t61rWlR2c09hiAywYqXYd) | [Phydazpeng](https://open.spotify.com/artist/6dI7y76l8GJSx17rb8V6gW), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Stagnant](https://open.spotify.com/album/2gJmTVEbbIJ6WLp2hN1qap) | 3:23 | 2023-01-20 |  |
-| [Stronger](https://open.spotify.com/track/1JW5qjse9QQn9jfseFeYsD) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Stronger](https://open.spotify.com/album/6tYoYFfnVfseQRC7iVWHyP) | 3:05 | 2023-01-12 | 2023-01-28 |
+| [Stronger](https://open.spotify.com/track/1JW5qjse9QQn9jfseFeYsD) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Stronger](https://open.spotify.com/album/6tYoYFfnVfseQRC7iVWHyP) | 3:05 | 2023-01-12 |  |
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2022-08-18 |  |
 | [Tiff](https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Tiff](https://open.spotify.com/album/1KeUFIH7fYkSCWByLwCiAO) | 2:12 | 2022-11-25 |  |
 | [Tintok Cruise Beat](https://open.spotify.com/track/4KDnF7cF5UwTBEJYosVSnw) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u) | [TinTok Cruise Beat](https://open.spotify.com/album/3AdRRuXQ3Rs8B0APJsbaOu) | 2:13 | 2022-06-29 |  |

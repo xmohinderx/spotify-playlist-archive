@@ -4,11 +4,12 @@
 
 > The UK's biggest rock playlist\. Cover: Demob Happy
 
-61 songs - 3 hr 16 min
+62 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(pls\) set me on fire](https://open.spotify.com/track/0Z1Xxix96HUYYL6RScOQqG) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [\(pls\) set me on fire](https://open.spotify.com/album/5Y1o9GddlN87GHzM3NkPdk) | 3:04 | 2023-01-13 |  |
+| [15 Minutes In The Algorithm](https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [What's Rock And Roll?](https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD) | 3:13 | 2023-01-30 |  |
 | [:mydopamine:](https://open.spotify.com/track/2orIpa9dzNtsqyKjdts0f1) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [:mydopamine:](https://open.spotify.com/album/4tHK91a2JwTUOeAw29jlvN) | 3:33 | 2023-01-13 |  |
 | [ANIMAL](https://open.spotify.com/track/5dpOtj3sd3nnXEudsgMozs) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [ANIMAL / ANYWHERE BUT HERE](https://open.spotify.com/album/008TrvgQaIGW6XpAdPgZt7) | 2:51 | 2023-01-13 |  |
 | [Black Tank Top](https://open.spotify.com/track/6OTzR46oNM6tZbO0VBBRWr) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [Black Tank Top](https://open.spotify.com/album/6uV6qHsSUlF9BLri72I0qJ) | 3:21 | 2023-01-13 |  |
@@ -23,7 +24,7 @@
 | [Died in My Twenties](https://open.spotify.com/track/5jugjQMGL2QNFdxfl12o5G) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Died in My Twenties](https://open.spotify.com/album/53dbOtnbcErPBsWtvaVFM2) | 3:07 | 2023-01-20 |  |
 | [Eddie](https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Eddie](https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu) | 5:41 | 2023-01-13 |  |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2023-01-13 |  |
-| [Fading](https://open.spotify.com/track/3PTwnUE0HTAvBnhiqFVi9Y) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Fading](https://open.spotify.com/album/0yNfE1sA8oc97MG7DoVRnq) | 3:06 | 2023-01-13 |  |
+| [Fading](https://open.spotify.com/track/3PTwnUE0HTAvBnhiqFVi9Y) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Fading](https://open.spotify.com/album/0yNfE1sA8oc97MG7DoVRnq) | 3:06 | 2023-01-13 | 2023-02-01 |
 | [Fugazi](https://open.spotify.com/track/4zv0Q89ALcQ0PETBAXE3b6) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Fugazi](https://open.spotify.com/album/6SoyBjjhamAP31JxKYxhjm) | 2:40 | 2023-01-13 |  |
 | [GIMME](https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [GIMME](https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi) | 1:40 | 2023-01-27 |  |
 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 | 2023-01-13 |  |

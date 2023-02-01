@@ -4,7 +4,7 @@
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-226 songs - 15 hr 2 min
+227 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [El Listón De Tu Pelo](https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:36 | 2022-03-08 |  |
 | [El Llanto de los Luceros \- El Llanto de los Sapos](https://open.spotify.com/track/0jBgtBnsHtxhp6SywuTfrc) | [Grupo Mijez](https://open.spotify.com/artist/6bnOv0WLGRT8DDzbhH3pWF) | [El Sabor de la Cumbia Mexicana](https://open.spotify.com/album/2MivNgaOLUJ6AiscB6WpvM) | 3:49 | 2022-06-07 |  |
 | [El Paso Del Gigante](https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Los Reyes De Los Sonidos](https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6) | 3:36 | 2021-11-30 |  |
-| [El Piropo](https://open.spotify.com/track/0AicPuyh78tIpIkOb2egJD) | [Grupo Los Kiero de Edgar Zacary](https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF) | [El Piropo](https://open.spotify.com/album/7pBuQxzISdOVYvFZkRoUuJ) | 3:48 | 2021-11-30 |  |
+| [El Piropo](https://open.spotify.com/track/0AicPuyh78tIpIkOb2egJD) | [Grupo Los Kiero de Edgar Zacary](https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF) | [El Piropo](https://open.spotify.com/album/7pBuQxzISdOVYvFZkRoUuJ) | 3:48 | 2021-11-30 | 2023-02-01 |
 | [El Piropo](https://open.spotify.com/track/3msTH7VNjRPAFxoYzlKPyo) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo) | [El Piropo](https://open.spotify.com/album/0T2NcviC3sAU3WGRHjsrwS) | 3:51 | 2021-11-30 | 2022-03-09 |
 | [El Reo Ausente](https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0) | [Nery Pedraza](https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0), [Los Guraperos de la Cumbia](https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs) | [Que Te Vaya Bien](https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG) | 5:52 | 2021-11-30 |  |
 | [El Ritmo Mamalon](https://open.spotify.com/track/5RgJSONsPv1HRM8qNTnR4u) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [El Ritmo Mamalon](https://open.spotify.com/album/3QjaVFKBo0Skrb55Sv2a0I) | 3:13 | 2022-03-08 |  |
@@ -230,6 +230,7 @@
 | [Vienes y Te Vas](https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Con la Fuerza de un Volcán](https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y) | 3:48 | 2022-03-08 |  |
 | [Volvamos](https://open.spotify.com/track/3YWz92VhJcmLHA7JX83mE8) | [Mala Fama El Grupo Que Enamora](https://open.spotify.com/artist/4ZXQa2aAcX2Ukl4wbx2Q78) | [Volvamos](https://open.spotify.com/album/0FvAg9KfBxfqnOiekGGOaO) | 4:04 | 2022-03-08 | 2022-11-12 |
 | [Vuela Mariposa](https://open.spotify.com/track/76BwZ1oz4HNvcL7ju4gwuG) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Lagrimas Negras](https://open.spotify.com/album/7gsbRZplaJxm9hZVcozbxX) | 3:58 | 2021-11-30 | 2022-03-08 |
+| [Ya No Estàs Aquì](https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Ya No Estàs Aquì](https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE) | 4:22 | 2023-01-10 |  |
 | [¡Ay! El Amor](https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Grandes Éxitos Remezclados Y Masterizados](https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS) | 3:31 | 2021-11-30 |  |
 | [Ámame](https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 3:58 | 2021-11-30 |  |
 | [Ángel Malvado](https://open.spotify.com/track/3VHLSQsQXQWnEMQwrM5R8p) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 5:05 | 2021-11-30 |  |

@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-223 songs - 14 hr 13 min
+225 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,12 +65,12 @@
 | [Echo Street](https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [The West Is the Best](https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA) | 3:41 | 2021-12-15 |  |
 | [Eleven the Fair](https://open.spotify.com/track/1LffL6iYYSPCwKzbX9tRId) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [HLA\-11TF](https://open.spotify.com/album/5dX2zMk3Uxw7HNnqFTaVEj) | 4:16 | 2022-11-28 |  |
 | [Enfer](https://open.spotify.com/track/1E32HzakrkfftyhRJrRISM) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [Requiem](https://open.spotify.com/album/2KQaSNYnMutOHHGAeUBSfO) | 3:58 | 2022-04-17 | 2022-07-29 |
-| [Enfer](https://open.spotify.com/track/3zn53uPgY6yn6m49wAt5x8) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [Requiem](https://open.spotify.com/album/7ul2sk365XBQ1EraPxkvaB) | 3:58 | 2022-11-28 |  |
+| [Enfer](https://open.spotify.com/track/3zn53uPgY6yn6m49wAt5x8) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [Requiem](https://open.spotify.com/album/7ul2sk365XBQ1EraPxkvaB) | 3:58 | 2022-11-28 | 2023-02-01 |
 | [Evening](https://open.spotify.com/track/0OFkQIKbgZyU9Ah9ipkGMp) | [Cosse](https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH) | [Evening](https://open.spotify.com/album/25Xl9oZ6mOj8jJt2qzFSmu) | 5:39 | 2022-06-30 |  |
 | [Fake Flowers](https://open.spotify.com/track/3Yl0g8bQ4ZcmFIUmGE3E5N) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Questioning One's Balance](https://open.spotify.com/album/6aWsIUCcydBnooCyWbUfuB) | 5:12 | 2021-12-15 | 2022-07-29 |
 | [Fake Love](https://open.spotify.com/track/57okMoH9ZaiQemzwaMy8AY) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:31 | 2022-02-14 | 2022-06-28 |
 | [Fall Away](https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Fall Away](https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q) | 3:02 | 2021-12-31 |  |
-| [Fire Fire](https://open.spotify.com/track/0mjEltYGiBBdJv0RKCWnke) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Burning Bright](https://open.spotify.com/album/0Sgit9uSQBgKTL1XoiN9SQ) | 3:52 | 2022-11-28 |  |
+| [Fire Fire](https://open.spotify.com/track/0mjEltYGiBBdJv0RKCWnke) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Burning Bright](https://open.spotify.com/album/0Sgit9uSQBgKTL1XoiN9SQ) | 3:52 | 2022-11-28 | 2023-02-01 |
 | [Fire Fire](https://open.spotify.com/track/4AtH6aTfjdf8SEVtA7LX30) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Burning Bright](https://open.spotify.com/album/7lOutDr84PlBG1OAAylOAW) | 3:52 | 2021-12-15 | 2022-07-29 |
 | [Fireworks](https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu) | [Equipe de Foot](https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836) | [Chantal](https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W) | 4:13 | 2021-12-15 |  |
 | [Fixed It All](https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:21 | 2022-06-30 |  |
@@ -89,6 +89,7 @@
 | [Gold Rush](https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam) | [CATHEDRALE](https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F) | [Houses Are Built The Same](https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh) | 3:10 | 2021-12-15 |  |
 | [Gone](https://open.spotify.com/track/1I2u7A2VycGzm1YUU1Oe36) | [7 Weeks](https://open.spotify.com/artist/3va5uyDVlsWxIq7oxb3ofw) | [Sisyphus](https://open.spotify.com/album/1zZ0wIAF8iYeiLGqNxqVOI) | 3:53 | 2021-12-15 | 2022-07-24 |
 | [Gung Ho](https://open.spotify.com/track/2poNoMk0YyxePxeJidM4Jf) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [The Evol'](https://open.spotify.com/album/7nF02J94or6lPZirx6MxE4) | 5:06 | 2022-04-17 |  |
+| [Hair Shirt](https://open.spotify.com/track/2zbg7DsgsFd7Dw9AoWoRfS) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [Colostrum](https://open.spotify.com/album/5r7VN2AznYigt0eq0xOzqp) | 3:46 | 2023-02-01 |  |
 | [Half Hearted Smile](https://open.spotify.com/track/3b4dVyCb3B5oI0MqRP2P5z) | [Nevermind The Car](https://open.spotify.com/artist/1SOJpH7pCModrv4SsTQgoa) | [The Iron Whale](https://open.spotify.com/album/4riqRamFeZWiIZbSn5N2Hi) | 4:54 | 2022-04-04 | 2022-07-29 |
 | [Hangover](https://open.spotify.com/track/3DbgF86SyidgINXtIx1qnV) | [Nobody's Cult](https://open.spotify.com/artist/2u9TRDPmCOUfSsP0WTFp7R) | [Mood Disorders](https://open.spotify.com/album/0ckv05nXDPG8LxuvCr0mmt) | 3:21 | 2021-12-15 |  |
 | [Haunted House](https://open.spotify.com/track/1sz7VUOwSA5ccLfU6VbjMn) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Haunted House](https://open.spotify.com/album/4qHnUTZiKs15yYJ8qjIg0W) | 3:24 | 2023-01-26 | 2023-01-30 |
@@ -151,6 +152,7 @@
 | [O.E.](https://open.spotify.com/track/5QbRcqJpmlDgN9VBCIpBPn) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [O.E.](https://open.spotify.com/album/4pJCbw5VR9tiDkAtV26XT8) | 3:39 | 2021-12-15 | 2022-07-28 |
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/2NtcpNBDXeuEwpc9QOVfq9) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Revolving](https://open.spotify.com/album/71QcqCUQr7EusqTXKhnZVy) | 5:32 | 2022-02-07 | 2022-12-18 |
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/6XE78Iy9cQLjUP5q0ISL6D) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs / Revolving](https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O) | 5:32 | 2022-12-11 |  |
+| [One Big Mess](https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:56 | 2023-01-29 |  |
 | [Others](https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp) | [Grit](https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ) | [Shreds of Tales](https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl) | 3:31 | 2022-03-24 |  |
 | [Parasite](https://open.spotify.com/track/0mGb7YHq64JP1ZpO3VEfUY) | [Fabulous Sheep](https://open.spotify.com/artist/53PR6aQRtneL0Gf0ZhxWvh) | [Parasite](https://open.spotify.com/album/0N25IgHC5ZLWSsPYfdWWRz) | 2:38 | 2022-01-27 | 2023-01-23 |
 | [Pas la peine](https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w) | [MSS FRNCE](https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO) | [V](https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum) | 1:47 | 2021-12-31 |  |

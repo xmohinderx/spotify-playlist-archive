@@ -360,6 +360,24 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195520,
+      "name": "Hard Row",
+      "url": "https://open.spotify.com/track/6D6xygnjsY8hxZ01QH2ovP"
+    },
+    {
+      "album": {
+        "name": "Thickfreakness",
+        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 217120,
       "name": "Waiting on Words",
       "url": "https://open.spotify.com/track/7ctca1Hz43SyMcI4qUrpY7"

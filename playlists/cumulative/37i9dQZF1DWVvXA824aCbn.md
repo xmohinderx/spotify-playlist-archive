@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-367 songs - 1 day 0 hr 23 min
+368 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Butterfly Princess](https://open.spotify.com/track/1kLzeHGRyVzACePnPikgsy) | [Midnight Sound Band](https://open.spotify.com/artist/17OGBXahBsPFrJWsHMhRzJ) | [She Stole My Heart](https://open.spotify.com/album/3VbY9AQXZ53DjldLT4sb23) | 3:39 | 2022-02-02 |  |
 | [Cabin In The Sky](https://open.spotify.com/track/1D1E8UfZDUk0FZ2ZhlW1OF) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Cabin In The Sky](https://open.spotify.com/album/3yNfNCgdYm2A4MBn8u72uG) | 3:24 | 2022-12-22 |  |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2020-10-20\* |  |
+| [Can't Help Loving That Man](https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Can't Help Loving That Man](https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U) | 4:29 | 2023-01-26 |  |
 | [Candlelight](https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 5:42 | 2022-06-14 | 2022-11-28 |
 | [Candy](https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:24 | 2023-01-12 |  |
 | [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 | 2021-12-14 |  |
@@ -75,7 +76,7 @@
 | [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-06-01 |  |
 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 | 2021-08-07 | 2022-10-03 |
 | [Days of Wine and Roses](https://open.spotify.com/track/0bCwxcB99DGOg6OK9if6c9) | [Penford Giles](https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6) | [Days of Wine and Roses](https://open.spotify.com/album/1mDaXUoWzlSxRkn8Griz53) | 3:03 | 2020-10-20\* | 2021-01-07 |
-| [desire strongly](https://open.spotify.com/track/1DpXesx1rkB5AA2sA55uAs) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [desire strongly](https://open.spotify.com/album/0o3VKgnd6FUTbPHAYtmzAE) | 2:59 | 2021-03-27 |  |
+| [desire strongly](https://open.spotify.com/track/1DpXesx1rkB5AA2sA55uAs) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [desire strongly](https://open.spotify.com/album/0o3VKgnd6FUTbPHAYtmzAE) | 2:59 | 2021-03-27 | 2023-02-01 |
 | [detour ahead](https://open.spotify.com/track/5EbkSAI9fgAtPsi2uHSKOF) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 3:27 | 2020-10-20\* | 2022-08-14 |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2022-04-11 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/1Wkb0jY5EVVGACaJQlfeyA) | [Ron Fields](https://open.spotify.com/artist/1x5zKG8Bhm8RW3LuKUMcRF) | [When I Fall In Love](https://open.spotify.com/album/7x9nV3lH3nuUo9r1h3pt8N) | 3:01 | 2020-10-20\* | 2021-01-07 |

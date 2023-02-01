@@ -4,7 +4,7 @@
 
 > Somehow heartbreak feels good in a place like this\. Cover: Gracie Abrams
 
-426 songs - 23 hr 41 min
+427 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Cutthroat](https://open.spotify.com/track/2hMWi3NNNyQbXo0MtrC1ST) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Cutthroat](https://open.spotify.com/album/6uT91eG7CuITJzWUtoX6eN) | 3:13 | 2022-12-02 | 2022-12-10 |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2022-10-25 |  |
 | [Dangerous](https://open.spotify.com/track/3DpxSpi0jot0XH73uZmlul) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Dangerous](https://open.spotify.com/album/7rH6ZOH1ZnbYqUfXEJW3xP) | 3:47 | 2022-08-26 | 2022-10-22 |
+| [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-01-31 |  |
 | [Dead on the Beach](https://open.spotify.com/track/6kKhq1EKxciDeNhjST21B8) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dead on the Beach](https://open.spotify.com/album/66ncWabX0CdChC6i9Ca84T) | 3:02 | 2022-01-14 | 2022-01-22 |
 | [dear god](https://open.spotify.com/track/39HJJEgUFZcnhH4ziSqomg) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:12 | 2022-10-14 |  |
 | [DECLINED](https://open.spotify.com/track/1OvTmyB5Rh9Gn1rqlqgTMY) | [Britton](https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0) | [DECLINED](https://open.spotify.com/album/0BVDq72SfkUvDv11NuLyHP) | 4:16 | 2022-05-06 | 2022-09-10 |
@@ -134,7 +135,7 @@
 | [Forget I Exist](https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Forget I Exist](https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN) | 2:52 | 2022-01-28 |  |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-09 |  |
 | [Fumbled the Bag](https://open.spotify.com/track/4hOEcvPoY9WYdvZk5T5O1T) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Fumbled the Bag](https://open.spotify.com/album/52ohkU9cUvreRfFteBnsTR) | 3:09 | 2022-09-09 | 2022-12-17 |
-| [georgia](https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 3:30 | 2022-12-02 |  |
+| [georgia](https://open.spotify.com/track/0oWyUnmjpaFWzZNfnQmrGc) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 3:30 | 2022-12-02 | 2023-02-01 |
 | [Get Your Attention](https://open.spotify.com/track/4MCJB2N8KBptcmd1fmo7XY) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Get Your Attention](https://open.spotify.com/album/43am42UyYn68HuCzv16WDg) | 3:17 | 2022-07-15 | 2022-10-31 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-12-17 | 2022-10-22 |
 | [give you away](https://open.spotify.com/track/0HcTr9pSCJrD3qmSY2ifwE) | [Jake Clark](https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd) | [give you away](https://open.spotify.com/album/5qjdIGQ8285nHIhUwbpJfl) | 3:22 | 2022-08-19 | 2022-08-27 |

@@ -9219,6 +9219,24 @@
     },
     {
       "album": {
+        "name": "On The Ground",
+        "url": "https://open.spotify.com/album/2FuFwgWVBeopJnGHIPa8Dl"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61339,
+      "name": "On The Ground",
+      "url": "https://open.spotify.com/track/3sJlGcxcUl4u2iWtOrjcAo"
+    },
+    {
+      "album": {
         "name": "Wanderings",
         "url": "https://open.spotify.com/album/6Rp1i8urV5DkTL1VCgG6Vp"
       },
@@ -10834,6 +10852,24 @@
       "duration_ms": 66951,
       "name": "Resting Now",
       "url": "https://open.spotify.com/track/5wdWYC3ub7WgWNc69LC1WC"
+    },
+    {
+      "album": {
+        "name": "Resting Today",
+        "url": "https://open.spotify.com/album/54vk3Mj0vcoDGd0LlTF62c"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62385,
+      "name": "Resting Today",
+      "url": "https://open.spotify.com/track/1ZySCwaCSRErhb6CopWj1h"
     },
     {
       "album": {

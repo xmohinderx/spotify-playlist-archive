@@ -3259,6 +3259,24 @@
     },
     {
       "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/2WpBMTSYOS1A3c326ysiHS"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250588,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/3gHgHC1iNLtivPNtd9y4pf"
+    },
+    {
+      "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/3zOh32D5fBrhgPMUnKwyiE"
       },
@@ -3579,7 +3597,7 @@
     },
     {
       "album": {
-        "name": "It Girl (warner case Remix)",
+        "name": "It Girl (Warner Case Remix)",
         "url": "https://open.spotify.com/album/2SFcBFJyVbdzLHVZDRpSrg"
       },
       "artists": [
@@ -3600,7 +3618,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 219000,
-      "name": "It Girl (warner case Remix)",
+      "name": "It Girl (Warner Case Remix)",
       "url": "https://open.spotify.com/track/13ZNXJrqzFopSERmCNzUOw"
     },
     {
@@ -7042,6 +7060,24 @@
       "duration_ms": 222038,
       "name": "Till The End",
       "url": "https://open.spotify.com/track/4Psbem3tgJxKbUj4NRh5EP"
+    },
+    {
+      "album": {
+        "name": "Sent From Saturn",
+        "url": "https://open.spotify.com/album/4JTrAV6qfrDxgX1ABenhpZ"
+      },
+      "artists": [
+        {
+          "name": "Venessa Michaels",
+          "url": "https://open.spotify.com/artist/7dPE07dAqbgWkJEdewUJDC"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247865,
+      "name": "To Be Alive",
+      "url": "https://open.spotify.com/track/1H1gy5vgI73Kqbi3t1HYEi"
     },
     {
       "album": {

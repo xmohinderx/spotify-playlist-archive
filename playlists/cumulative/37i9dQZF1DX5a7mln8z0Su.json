@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 181120,
       "name": "#mood",
       "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "I Mean You",
+        "url": "https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo"
+      },
+      "artists": [
+        {
+          "name": "Diana",
+          "url": "https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195150,
+      "name": "I Mean You",
+      "url": "https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI"
+    },
+    {
+      "album": {
         "name": "I thought it was love.",
         "url": "https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW"
       },
@@ -1694,6 +1712,28 @@
       "duration_ms": 168498,
       "name": "kibun (feat. vntermude)",
       "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
+    },
+    {
+      "album": {
+        "name": "Last Night (feat. DD7)",
+        "url": "https://open.spotify.com/album/7JB7EethPMOt7poXCu6deW"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        },
+        {
+          "name": "DD7",
+          "url": "https://open.spotify.com/artist/0MR1fsOlxLYyx4CQaiM230"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184736,
+      "name": "Last Night (feat. DD7)",
+      "url": "https://open.spotify.com/track/4Foe7qi4PvNYWDGT50Np8c"
     },
     {
       "album": {
@@ -2922,7 +2962,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 230560,
       "name": "Sool (Feat. THAMA)",
       "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"

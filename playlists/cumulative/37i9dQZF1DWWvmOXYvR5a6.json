@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: Kim Seungmin(\uae40\uc2b9\ubbfc)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Beenzino(\ube48\uc9c0\ub178)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -11143,6 +11143,24 @@
     },
     {
       "album": {
+        "name": "Trippy",
+        "url": "https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207680,
+      "name": "Trippy",
+      "url": "https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj"
+    },
+    {
+      "album": {
         "name": "3 STEPS FORWARD, 2 STEPS BACK",
         "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
       },
@@ -12226,7 +12244,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 149222,
       "name": "Your Instagram (Feat. Blueday)",
       "url": "https://open.spotify.com/track/69eA4nwZmmAZy3dL1OglaJ"

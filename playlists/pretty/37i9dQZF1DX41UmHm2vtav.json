@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 380064,
+  "num_followers": 380423,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODU4MCwwMDAwMDAwMGJjMDEzZDhjZDllOWM5ZTJiZjFkODAwYmRkMzZkNzBi",
+  "snapshot_id": "MTY3NDc4ODU4MCwwMDAwMDAwMGRhOWQxNjlkMmM1YWU0OTE2NWZhMjU5YjdiMTRkYzQw",
   "tracks": [
     {
       "added_at": "2023-01-27 03:03:00",
@@ -23,30 +23,6 @@
       "duration_ms": 277261,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
-        "name": "Sou Teu F\u00e3",
-        "url": "https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
-        }
-      ],
-      "duration_ms": 170956,
-      "name": "Sou Teu F\u00e3",
-      "url": "https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -71,6 +47,30 @@
       "duration_ms": 218770,
       "name": "Pontos de Exclama\u00e7\u00e3o - Vintage Culture & Future Class Remix",
       "url": "https://open.spotify.com/track/25usEf5iGk9HL0LM9VTxue"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Sou Teu F\u00e3",
+        "url": "https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
+        }
+      ],
+      "duration_ms": 170956,
+      "name": "Sou Teu F\u00e3",
+      "url": "https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "V\u00e1rias Queixas (Remix)",
-        "url": "https://open.spotify.com/album/1KKLrUEv4YvPfBAoBUhOu8"
-      },
-      "artists": [
-        {
-          "name": "Brunetta",
-          "url": "https://open.spotify.com/artist/2BhgwlfI2SpEU9t6vhhdiX"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 123142,
-      "name": "V\u00e1rias Queixas - Remix",
-      "url": "https://open.spotify.com/track/3Z3hfUZFfY01EnbxhSsPB3"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
         "name": "Anuncia\u00e7\u00e3o (Jopin Remix)",
         "url": "https://open.spotify.com/album/5qqCJjqk0FjKmQ5ZiFD2Gs"
       },
@@ -447,6 +427,22 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
+        "name": "Live Your Life",
+        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 200574,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
         "name": "Vem pro Mar",
         "url": "https://open.spotify.com/album/6KM6hXviSBq4erdXgVPAvX"
       },
@@ -483,22 +479,6 @@
       "duration_ms": 488888,
       "name": "Aleluia - Dj Meme Tribute Remix",
       "url": "https://open.spotify.com/track/6ZYMuBRN0BI8vyd90zNS6C"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
-        "name": "Live Your Life",
-        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 200574,
-      "name": "Live Your Life",
-      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -687,62 +667,6 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Adrenalizou (Gabriel Boni Remix)",
-        "url": "https://open.spotify.com/album/4VYtzbWRQDi3onXpejmJX0"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        },
-        {
-          "name": "Gabriel Boni",
-          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
-        }
-      ],
-      "duration_ms": 214435,
-      "name": "Adrenalizou - Gabriel Boni Remix",
-      "url": "https://open.spotify.com/track/1DrmjkbhSHH5kYejFtrPl2"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
-        "name": "Pandora (KVSH, Malifoo Remix)",
-        "url": "https://open.spotify.com/album/2279AkrhNjg4VyA8VGJaWa"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Pandora - KVSH, Malifoo Remix",
-      "url": "https://open.spotify.com/track/3EUUK9fCbeWNkBH2g9HOSP"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
       },
@@ -759,6 +683,26 @@
       "duration_ms": 193747,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Adrenalizou (Gabriel Boni Remix)",
+        "url": "https://open.spotify.com/album/4VYtzbWRQDi3onXpejmJX0"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Gabriel Boni",
+          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
+        }
+      ],
+      "duration_ms": 214435,
+      "name": "Adrenalizou - Gabriel Boni Remix",
+      "url": "https://open.spotify.com/track/1DrmjkbhSHH5kYejFtrPl2"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -803,6 +747,42 @@
       "duration_ms": 197419,
       "name": "Algum Ritmo - Remix",
       "url": "https://open.spotify.com/track/2oMlMXJUUKtLrsw6jCVyHG"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Pandora (KVSH, Malifoo Remix)",
+        "url": "https://open.spotify.com/album/2279AkrhNjg4VyA8VGJaWa"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Pandora - KVSH, Malifoo Remix",
+      "url": "https://open.spotify.com/track/3EUUK9fCbeWNkBH2g9HOSP"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -935,22 +915,22 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Um Dia Inteiro",
-        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
       },
       "artists": [
         {
-          "name": "DUX",
-          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Um Dia Inteiro",
-      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -979,22 +959,22 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+        "name": "Um Dia Inteiro",
+        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
       },
       "artists": [
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "DUX",
+          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
         },
         {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
         }
       ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
+      "duration_ms": 184000,
+      "name": "Um Dia Inteiro",
+      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -1067,6 +1047,30 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
         "name": "Pro Dia Nascer Feliz",
         "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
       },
@@ -1087,26 +1091,6 @@
       "duration_ms": 203225,
       "name": "Pro Dia Nascer Feliz",
       "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
-        "name": "T\u00f4 de F\u00e9rias",
-        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 168449,
-      "name": "T\u00f4 de F\u00e9rias",
-      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -1151,6 +1135,26 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
+        "name": "T\u00f4 de F\u00e9rias",
+        "url": "https://open.spotify.com/album/1QtWRDY6HCYBveBzjAlfec"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 168449,
+      "name": "T\u00f4 de F\u00e9rias",
+      "url": "https://open.spotify.com/track/1xHcw1xHylSNbOZQenjrBn"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
         "name": "Halfway (feat. Twan Ray)",
         "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
       },
@@ -1175,30 +1179,6 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 183370,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
         "name": "When In Rome",
         "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 194767,
       "name": "When In Rome",
       "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
         "name": "Descobridor dos Sete Mares: Remix",
         "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
       },
@@ -1343,6 +1323,42 @@
       "duration_ms": 191250,
       "name": "Descobridor dos Sete Mares: Remix",
       "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 180977,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -1371,26 +1387,6 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX"
       },
@@ -1407,38 +1403,6 @@
       "duration_ms": 179481,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3kh8lb8IZFrdFmXxdEBXDl"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 180977,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/28byMFpuOmMpEFTl3dBKXT"
-    },
-    {
-      "added_at": "2023-01-27 03:03:00",
-      "album": {
-        "name": "Mais um Dia",
-        "url": "https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR"
-      },
-      "artists": [
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        }
-      ],
-      "duration_ms": 138536,
-      "name": "Mais um Dia",
-      "url": "https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -1463,6 +1427,42 @@
       "duration_ms": 206759,
       "name": "A Tal Can\u00e7\u00e3o Pra Lua - Madism Remix",
       "url": "https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Mais um Dia",
+        "url": "https://open.spotify.com/album/5sdl2ykjnptMYB9ohAAxLR"
+      },
+      "artists": [
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        }
+      ],
+      "duration_ms": 138536,
+      "name": "Mais um Dia",
+      "url": "https://open.spotify.com/track/3ITlmTf0fgkY0YLWUQzGfk"
+    },
+    {
+      "added_at": "2023-01-27 03:03:00",
+      "album": {
+        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
+      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
     },
     {
       "added_at": "2023-01-27 03:03:00",
@@ -1511,22 +1511,22 @@
     {
       "added_at": "2023-01-27 03:03:00",
       "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
+        "name": "O Xote Das Meninas (Pontifexx Remix)",
+        "url": "https://open.spotify.com/album/0wYAoDuNzKQTdhAReJNrjT"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Pontifexx",
+          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
         },
         {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+          "name": "Luiz Gonzaga",
+          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
         }
       ],
-      "duration_ms": 209032,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
-      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
+      "duration_ms": 189451,
+      "name": "O Xote Das Meninas - Pontifexx Remix",
+      "url": "https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx"
     }
   ],
   "unique_name": "Festa na Praia",

@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-323 songs - 18 hr 7 min
+324 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Eyes Only for You](https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC) | [Eyes Only for You](https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH) | 3:32 | 2021-10-31 | 2022-11-21 |
 | [Faith \- Radio Version](https://open.spotify.com/track/4HeBnOIcdTi5ZCdmpwJUuR) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Faith \(Radio Version\)](https://open.spotify.com/album/2B2nIx1BqirTcwSRveoBP0) | 3:46 | 2021-10-31 | 2022-07-27 |
 | [Faith \- Radio Version](https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Jordan Feliz Collection](https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep) | 3:46 | 2021-10-31 | 2023-01-14 |
-| [Faith Fall \- dance party](https://open.spotify.com/track/50pQcaZ2w1PVpn5GTiq4OJ) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9) | 4:02 | 2023-01-13 |  |
+| [Faith Fall \- dance party](https://open.spotify.com/track/50pQcaZ2w1PVpn5GTiq4OJ) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9) | 4:02 | 2023-01-13 | 2023-02-01 |
 | [Fake It](https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Fake It](https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN) | 3:06 | 2023-01-13 |  |
 | [Fake Love](https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Fake Love](https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO) | 3:31 | 2023-01-13 |  |
 | [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 | 2023-01-13 |  |
@@ -203,6 +203,7 @@
 | [Monument](https://open.spotify.com/track/0kJZE2FNjgout3feExuMOP) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Monument](https://open.spotify.com/album/1z5zOlIBEP8fTGlOIdaecM) | 3:46 | 2021-10-31 | 2022-07-22 |
 | [Moon \- Saint James Remix](https://open.spotify.com/track/2jR1tJBeyNDwau1JhPHNB6) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Moon \(Saint James Remix\)](https://open.spotify.com/album/5u1PbpYb3Nifhj29Z9Bozk) | 3:45 | 2021-10-31 | 2022-06-03 |
 | [morning always comes](https://open.spotify.com/track/5yuj9iWkGmOxFeuW3lYOwz) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [morning always comes](https://open.spotify.com/album/5Ui84kuDZfTlmSgip0NnXJ) | 3:20 | 2023-01-13 |  |
+| [Move Of God \- Remix](https://open.spotify.com/track/1XeKLH3LYoIPTZKvlv6tuW) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Youth Group Foyer Vibes, Vol\. 2](https://open.spotify.com/album/3hlDpwP0pfH2qSEoueVi21) | 2:30 | 2023-01-13 |  |
 | [Need](https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Need](https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR) | 3:22 | 2021-10-31 | 2023-01-14 |
 | [Need You](https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Need You](https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD) | 3:29 | 2023-01-13 |  |
 | [Never Too Far](https://open.spotify.com/track/0jkjfzceNTh4lSxT2qMeh7) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Never Too Far](https://open.spotify.com/album/3IDbW2wbji3bIy74oNWcs8) | 3:04 | 2023-01-13 |  |

@@ -4,12 +4,13 @@
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-110 songs - 7 hr 50 min
+111 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aakasam](https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW) | [Sumangali, Kid Sathya](https://open.spotify.com/artist/0msjNpDNwMgjbKmjbcwGHU) | [Kalusukovalani](https://open.spotify.com/album/2z84b5n0ZwZa3exP90AHiu) | 4:46 | 2022-10-17 |  |
 | [Adhento Gaani Vunnapaatuga](https://open.spotify.com/track/6jR5F8G9ZzCEQo27UgUrN6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Adhento Gaani Vunnapaatuga\(Jersey\)](https://open.spotify.com/album/00S5jU14zx45cD2F6RqV22) | 3:57 | 2021-10-21 | 2022-10-14 |
+| [Adireti](https://open.spotify.com/track/5lsstDSoCsN8SRh5NxwGcK) | [Swaranlata](https://open.spotify.com/artist/4tbAszpshMTxXt5UvP7rU9) | [Bharateeyudu](https://open.spotify.com/album/5wbNqlJ4LukhEsQcqty9Po) | 5:51 | 2023-01-30 |  |
 | [Akasam Ammayaithe](https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu) | [Shankar Mahadevan, Gopika poornima](https://open.spotify.com/artist/2XvK1qhSh7sTup7WKTrnoi) | [Gabbar Singh](https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr) | 4:51 | 2022-10-13 |  |
 | [Ammaye](https://open.spotify.com/track/2YZZFwARteC3gM1aEgHHMr) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Kushi](https://open.spotify.com/album/37evPVtdfVL0X4Sji9tQdu) | 4:51 | 2022-10-13 |  |
 | [Andaala Raakshsive](https://open.spotify.com/track/5xUZRi3ph5h01vbgx3u65X) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Oke Okkadu](https://open.spotify.com/album/1WCAy8NWpdJ0NtzBTtxXvu) | 6:13 | 2022-10-13 |  |

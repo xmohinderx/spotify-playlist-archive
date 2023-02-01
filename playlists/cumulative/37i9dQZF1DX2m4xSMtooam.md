@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-197 songs - 12 hr 39 min
+198 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [How Insensitive](https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 3:49 | 2022-05-13 |  |
 | [Hó\-Bá\-Lá\-Lá](https://open.spotify.com/track/6MFWXFAc2ntn8eTp2lunKt) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ) | 2:17 | 2022-06-28 | 2022-10-14 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Cande y Paulo](https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg) | 3:46 | 2022-05-13 | 2022-12-13 |
-| [I Left My Heart in San Francisco](https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I Left My Heart in San Francisco](https://open.spotify.com/album/6ZagCmpNLdmAjSxVOmjLot) | 3:43 | 2023-01-26 |  |
+| [I Left My Heart in San Francisco](https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I Left My Heart in San Francisco](https://open.spotify.com/album/6ZagCmpNLdmAjSxVOmjLot) | 3:43 | 2023-01-26 | 2023-02-01 |
 | [I Should Have Known Better](https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:26 | 2022-05-13 | 2023-01-21 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO) | 3:25 | 2022-12-22 |  |
 | [I Wish I Knew How It Would Feel to be Free \- Studio Rio Version](https://open.spotify.com/track/3k1t0MMGMXf0C3I5YSyMwu) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Studio Rio](https://open.spotify.com/artist/61NK0rswbwo8TU9cUg25J3) | [Studio Rio Presents: The Brazil Connection](https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw) | 4:53 | 2022-05-13 |  |
@@ -146,6 +146,7 @@
 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/71fwujxrj8ThvYTArAscuH) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/album/3XEsqJB8H4SdOXD2ceOonl) | 3:04 | 2022-08-30 | 2023-01-23 |
 | [Quiet Nights Of Quiet Stars \(Corcovado\)](https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Work From Home with Oscar Peterson](https://open.spotify.com/album/0ORKsWALEps4PNvnM78dM7) | 2:49 | 2022-05-13 |  |
 | [Quoi, Quoi, Quoi](https://open.spotify.com/track/33LLGxCJUrJAX0XvcvN1AH) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [We Could Be Lovers](https://open.spotify.com/album/5HOeQ6IXZTpbwlqSKstF3v) | 3:28 | 2022-05-13 |  |
+| [Rio](https://open.spotify.com/track/5tFmZJH6cznz3n4sSpcPLq) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Rio](https://open.spotify.com/album/1CZob5T7V1GsgTjMFVY64B) | 3:19 | 2023-01-26 |  |
 | [River of Dreams](https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 3:03 | 2022-11-11 |  |
 | [Rolling in the Deep](https://open.spotify.com/track/2Mm8gYk1g6LQEssmIAMGTJ) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Rolling in the Deep](https://open.spotify.com/album/0su4Qa3PP2oT9xaVp42XqZ) | 3:43 | 2022-05-13 | 2023-01-13 |
 | [S'Wonderful](https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 4:27 | 2022-05-13 |  |

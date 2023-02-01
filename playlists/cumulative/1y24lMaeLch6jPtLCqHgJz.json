@@ -2421,6 +2421,32 @@
     },
     {
       "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/6NfzXnD8jaAHZ7PQe2K41n"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV"
+        },
+        {
+          "name": "LostVolts",
+          "url": "https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef"
+        },
+        {
+          "name": "Zack Torrez",
+          "url": "https://open.spotify.com/artist/28Wd6TGd4pQWRk702jYWbJ"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189375,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/4IHJ09f2VWAtnBZcDGkWKu"
+    },
+    {
+      "album": {
         "name": "Darkness Into Light EP",
         "url": "https://open.spotify.com/album/3HuVxjs4Ht6LVyHvgRYANO"
       },

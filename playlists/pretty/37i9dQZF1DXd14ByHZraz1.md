@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,714 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,747 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 27 | [Sun Goes Down \(Sound Of Violence\)](https://open.spotify.com/track/66j6JvXOiT608Ivh98URW8) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Sun Goes Down \(Sound Of Violence\)](https://open.spotify.com/album/1NAp32E06cqBEDevOLJCYm) | 4:05 |
 | 28 | [Cancún](https://open.spotify.com/track/2eLzS75uEe5NFXIWOhuoqy) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Lamic](https://open.spotify.com/artist/0kZghiFuW2mfJKbObHkwmA) | [Cancún](https://open.spotify.com/album/0wpYHCnXB6DjAtHODHQdj0) | 2:48 |
 | 29 | [Body Control](https://open.spotify.com/track/1DOiUHIWeuSePVnulxXRdM) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Plastic Robots](https://open.spotify.com/artist/7qd3q5BKu3lh5r0vVBWSzm) | [Control](https://open.spotify.com/album/4JEt6Wo4ADJAoGi0NND8hm) | 3:50 |
-| 30 | [Beat, Slow, Check](https://open.spotify.com/track/2FvSLbaOuopFsY2ZUaJPX1) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Beat, Slow, Check](https://open.spotify.com/album/3Gb5HF8D2stlV841uR3n0J) | 3:05 |
+| 30 | [Beat, Slow, Check](https://open.spotify.com/track/6wTbJIaTtp14XhndssikxH) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Beat, Slow, Check](https://open.spotify.com/album/1EdGMNwdiGuM8Qn6GYm69H) | 3:05 |
 | 31 | [Would You Blame Me](https://open.spotify.com/track/7hCIfAq7QL06nKnoeugoxl) | [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Would You Blame Me](https://open.spotify.com/album/7MsdbOGBxd8Lahj0oh6yvS) | 3:44 |
 | 32 | [Never Let Me Go](https://open.spotify.com/track/3CEXfu2rSEzUSGB9zFUoZz) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Never Let Me Go](https://open.spotify.com/album/75SuSwl4W3d0T8HpUFeM4p) | 3:25 |
 | 33 | [Closer](https://open.spotify.com/track/3QyakvOZamJzAuMVgW13Wv) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Closer](https://open.spotify.com/album/3oJ5lkxgCn5JpGfSLXvFMD) | 5:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Pretender](https://open.spotify.com/track/2OM6aYmfvRVnYAnfo7I9V7) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Yann Camargo](https://open.spotify.com/artist/1FAj2IV5DuzAW8Q5V9EDbp), [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Pretender](https://open.spotify.com/album/6DprqvZwBR7EGIuIfQ0J3T) | 2:50 |
 | 50 | [Never](https://open.spotify.com/track/7koAfgOQuAnfqDoTdpWMYe) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Never](https://open.spotify.com/album/7IAYlv5CQlfuU9dhETcshh) | 3:25 |
 
-Snapshot ID: `MTY3NDc4ODU4MCwwMDAwMDAwMDYzYmVkMjAyMWU3ODBkMzgzYTc1MTcwYjY5NTE1MzBk`
+Snapshot ID: `MTY3NDc4ODU4MCwwMDAwMDAwMDk1YzliMjNkMTA4ZmUwNDUyZjA3ZGYzZTg2ZTUxMzll`

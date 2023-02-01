@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Astronomía Interior en portada.
 
-188 songs - 11 hr 47 min
+189 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,10 +143,11 @@
 | [Pendejo](https://open.spotify.com/track/3PG2vYXGQuBZhTTdvtwxdj) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Pendejo](https://open.spotify.com/album/77yiQPiK9LOQtP4cUzb0sY) | 3:06 | 2022-11-25 |  |
 | [Piel De Luna](https://open.spotify.com/track/57NtJwiDGoCgcXVs6yi16N) | [Códex Fénix](https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy) | [Piel De Luna](https://open.spotify.com/album/3OfRXND8qp1xQECuNgxsr3) | 4:58 | 2022-11-25 | 2022-12-17 |
 | [Playa Privada](https://open.spotify.com/track/4kzbSYtHYI226TDbjqwRew) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Playa Privada](https://open.spotify.com/album/3MArnPhSwpOc6u3ig8D9cW) | 3:28 | 2022-08-13 | 2022-09-29 |
-| [Polvo Cósmico](https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [Polvo Cósmico](https://open.spotify.com/album/4cpzYWDTQ1kLjSnDnD1qrY) | 4:01 | 2022-03-30 |  |
+| [Polvo Cósmico](https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [Polvo Cósmico](https://open.spotify.com/album/4cpzYWDTQ1kLjSnDnD1qrY) | 4:01 | 2022-03-30 | 2023-02-01 |
 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 | 2021-12-17 |  |
 | [Por Siempre](https://open.spotify.com/track/6FLSb8CJwrcfXfzfD4ySji) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Por Encima](https://open.spotify.com/album/5zlSFpoGVWyxGBc76ye0L0) | 3:37 | 2021-12-17 |  |
 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 | 2022-10-28 |  |
+| [Pronto](https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Pronto](https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl) | 3:19 | 2023-02-01 |  |
 | [Punk](https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Punk](https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP) | 3:13 | 2022-02-11 |  |
 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 | 2021-12-17 |  |
 | [Recovered Files](https://open.spotify.com/track/2iheT0GXVpykVzVsPWjaVn) | [Neuman](https://open.spotify.com/artist/2ApGJ6o1AkNPjkFrnJQLKM) | [Recovered Files](https://open.spotify.com/album/4JuXQGRqNVORHmI968HBkv) | 7:12 | 2023-01-28 |  |

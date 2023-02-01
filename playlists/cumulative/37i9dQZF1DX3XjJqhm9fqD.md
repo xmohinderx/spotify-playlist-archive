@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Michael Benjamin
 
-148 songs - 8 hr 54 min
+149 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Mr Diablo](https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Mr Diablo](https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa) | 2:46 | 2021-12-06 | 2022-10-15 |
 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 | 2021-12-06 |  |
 | [Na Va Wè Yo](https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA) | [ManitoNation](https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3), [Paul Beaubrun](https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot), [Kabysh](https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD) | [Trip Tropikal](https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn) | 4:12 | 2021-12-06 |  |
+| [Nahilé](https://open.spotify.com/track/0uub812CwPqYSU0VZzcSYa) | [RockLee](https://open.spotify.com/artist/0xKCpd2XrSE30wn3NLBHBM), [Wesli](https://open.spotify.com/artist/7BOu7POeMEK7gaMPZcsvt5), [Paul Cargnello](https://open.spotify.com/artist/4er9yr5qZMtEFHY3GR7VYj) | [Nahilé](https://open.spotify.com/album/3zTmCWFQQkVHtKI3tRKZR9) | 3:49 | 2022-11-18 |  |
 | [Nan ou](https://open.spotify.com/track/7BXFfnn1uw7e1Zx6Pi3KGH) | [Gessica Généus](https://open.spotify.com/artist/1GAw14vejnlO5eyny3lDHw) | [Nan ou](https://open.spotify.com/album/6hofahig2OrGv725bqsmo3) | 3:46 | 2021-12-06 | 2022-10-14 |
 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 | 2021-12-06 |  |
 | [No Pares](https://open.spotify.com/track/4r7qhjJiql0ciGLioiNpcr) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Sky Monroe](https://open.spotify.com/artist/0MSRJVGKv92k12VWqHmIcG) | [No Pares](https://open.spotify.com/album/5NFoAoyIpeSksTwHbfEIlH) | 3:05 | 2021-12-06 | 2022-05-13 |
@@ -155,6 +156,6 @@
 | [Water](https://open.spotify.com/track/6BiDHHaky7B7TaxMsY897N) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Water](https://open.spotify.com/album/2yE4JE8GL7oMZkJqqvyiG5) | 1:52 | 2021-12-06 | 2022-05-13 |
 | [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 | 2021-12-06 | 2022-12-31 |
 | [Yo Mele Raboday](https://open.spotify.com/track/0qtBENOC0lD0BY6Hew47gA) | [Dj Bullet](https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg), [Afriken An](https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4), [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Yo Mele Raboday](https://open.spotify.com/album/2BNKzOLRHyDQBtP87YzE6P) | 3:37 | 2021-12-06 |  |
-| [Zeptima](https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk) | [Ayiiti](https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz) | [Zeptima](https://open.spotify.com/album/1oPdAnqfdkIhhOV5yPtA3a) | 4:01 | 2021-12-06 |  |
+| [Zeptima](https://open.spotify.com/track/5r57eSdi1h4Ni95G9IsLRk) | [Ayiiti](https://open.spotify.com/artist/2kiFFkZ4zJzgbpmy19n2Sz) | [Zeptima](https://open.spotify.com/album/1oPdAnqfdkIhhOV5yPtA3a) | 4:01 | 2021-12-06 | 2023-02-01 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

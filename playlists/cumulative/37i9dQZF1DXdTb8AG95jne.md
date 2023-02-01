@@ -2,9 +2,9 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: KARDI\(카디\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 87dance\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-552 songs - 1 day 9 hr 50 min
+553 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,13 +265,14 @@
 | [Let's stay together](https://open.spotify.com/track/52ZZz4FthV6FAjbUiPF7th) | [O.zic](https://open.spotify.com/artist/3CAnNFqNZE11RKX3743MfR), [Martian](https://open.spotify.com/artist/2NBnwR3hvn7iOIfxWBzCYK) | [Let's stay together](https://open.spotify.com/album/6pZaDtwrcHUTPW1XOok1kA) | 3:59 | 2021-12-12 | 2022-07-24 |
 | [Letting go](https://open.spotify.com/track/710NqCm6L83EHgBM918bSt) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [SAEBYEOK.UHGUI](https://open.spotify.com/album/6rF6nN1A6krBUHpnc0vsUs) | 3:58 | 2022-03-31 | 2022-07-24 |
 | [Let’s Dance For Me 모르겠고요, 춤을 춰요](https://open.spotify.com/track/0Movj8s4Amm8ax9y8Y6irk) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Let’s Dance For Me 모르겠고요, 춤을 춰요](https://open.spotify.com/album/2CxUPiHXhCefMjkMvx8XBg) | 3:35 | 2022-03-31 | 2022-04-06 |
-| [Lighthouse](https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Calibrate](https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y) | 3:45 | 2021-12-21 |  |
+| [Lighthouse](https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Calibrate](https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y) | 3:45 | 2021-12-21 | 2023-02-01 |
 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 | 2022-08-18 | 2022-09-06 |
 | [Like You](https://open.spotify.com/track/5o3r2FdUJQvGD5HwXzajuS) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Like You](https://open.spotify.com/album/7w167b8Zpa8I6dyhMC2viC) | 3:33 | 2022-03-31 | 2022-04-19 |
 | [Lock me up](https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Lock me up](https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn) | 3:12 | 2022-07-08 | 2022-08-05 |
 | [lost](https://open.spotify.com/track/53zgUNqd4DCRSRQUn4J4aJ) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [lost](https://open.spotify.com/album/3IAAhPOt3Ui36lJQ93Y7x8) | 3:50 | 2022-03-31 | 2022-07-27 |
 | [lost](https://open.spotify.com/track/26niEovvgyaq9po2KubsJI) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [lost](https://open.spotify.com/album/131Eo9LOhFcv05gClAIpCT) | 4:34 | 2022-06-08 | 2022-10-16 |
 | [Lost in the City](https://open.spotify.com/track/5tZFCjvVbOuEKkeOi6GWZd) | [Ashmute](https://open.spotify.com/artist/7EYwKfQY1bAfLr2EUPOL0h) | [Lost in the City](https://open.spotify.com/album/4cN9wky9XIVZqrAKTASmTe) | 3:23 | 2022-09-05 | 2022-09-21 |
+| [love in balcony](https://open.spotify.com/track/7BrlpynTrdHToVYs4uJSre) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 3:50 | 2023-02-01 |  |
 | [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-03-31 | 2022-12-22 |
 | [Love like a bouquet,](https://open.spotify.com/track/7es4VhC71wFHRaVjkdQ5rK) | [CHOMINWOO](https://open.spotify.com/artist/1mISG0BUcXpI7kJKtRqthM), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Beautiful struggle](https://open.spotify.com/album/17X67myikY9mktuS1UHAyx) | 3:18 | 2022-08-19 | 2022-09-06 |
 | [Love Story](https://open.spotify.com/track/7GxrwmjHuHr7F5wjp8O5Ti) | [E the](https://open.spotify.com/artist/04lD6DqxYPUpRkkttRbAPh) | [Love Story](https://open.spotify.com/album/3k9RocwRCD9q5HS1Io53s3) | 4:02 | 2022-06-18 | 2022-06-30 |

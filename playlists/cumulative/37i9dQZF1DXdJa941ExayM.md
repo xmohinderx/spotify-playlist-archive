@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: Alice Longyu Gao
 
-196 songs - 10 hr 17 min
+197 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [for a reason](https://open.spotify.com/track/10pjqdHFr1ZjO5nrU6Crwz) | [plxntkid](https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY) | [for a reason](https://open.spotify.com/album/3kZ0FQQ6Wi46hp6TKDT389) | 2:15 | 2022-12-08 |  |
 | [FUK IT](https://open.spotify.com/track/2sJ9eyUhgCQ30jW7DThGCt) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [FUK IT](https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1) | 2:40 | 2022-08-05 |  |
 | [G.A.F.F\. \- Edit](https://open.spotify.com/track/0XKak5xVKPYWe6iUP0I8vj) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [G.A.F.F.](https://open.spotify.com/album/0LBGanhBP3hehp5Gy1gF9l) | 4:32 | 2021-12-20 | 2022-02-16 |
-| [Gang](https://open.spotify.com/track/7DyMmLnCFc3Oud0qLqKMXe) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Gang](https://open.spotify.com/album/5fCav9SPGNUqATcT0xyA1g) | 3:00 | 2022-09-29 |  |
+| [Gang](https://open.spotify.com/track/7DyMmLnCFc3Oud0qLqKMXe) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Gang](https://open.spotify.com/album/5fCav9SPGNUqATcT0xyA1g) | 3:00 | 2022-09-29 | 2023-02-01 |
 | [Gatekeepers](https://open.spotify.com/track/63pBzNTtzByif59lsK3dou) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:28 | 2022-12-08 |  |
 | [Girl God Gun](https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Girl God Gun](https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL) | 3:25 | 2022-03-18 | 2022-08-26 |
 | [GIRLKIND \- Edit](https://open.spotify.com/track/3mYLbezTCZ781LFUlV6Cx5) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [GIRLKIND](https://open.spotify.com/album/3Fh6q5ZT9H5s60fVTgFptB) | 4:00 | 2021-12-20 | 2022-06-16 |
@@ -139,6 +139,7 @@
 | [New Slang](https://open.spotify.com/track/1sRjSllwLDh0xHgZCywXmf) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/album/2LAC5rux87C29bv8vuhEgj) | 4:15 | 2022-07-07 |  |
 | [New Slang](https://open.spotify.com/track/2UGLTM8VWqQai7bq2X7OiK) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [New Slang](https://open.spotify.com/album/5n1bgsaXNRP8y4jXGOEic2) | 4:15 | 2021-12-20 | 2022-07-29 |
 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 | 2022-07-07 |  |
+| [Nothin](https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Nothin](https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES) | 2:47 | 2023-01-25 |  |
 | [NYAMA](https://open.spotify.com/track/7unmH3frGOaKtko1tRnZGV) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [HIS HAPPINESS SHALL COME FIRST EVEN THOUGH WE ARE SUFFERING](https://open.spotify.com/album/3hcIiisDhA18vwTG7ZDvqL) | 4:22 | 2022-11-18 |  |
 | [obedient dog](https://open.spotify.com/track/3534Z4x8UqslonFDIBtqEb) | [I Hate Myself Because](https://open.spotify.com/artist/5ERw1G2b8kceV2YuK2MPSe) | [obedient dog // what happened, Sofie?](https://open.spotify.com/album/0pIbHYat2Of99lZtJ4krdN) | 1:47 | 2022-01-21 | 2022-08-29 |
 | [Oxygen](https://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/48QsECGKhTjmQDGu3PrJAC) | 3:06 | 2021-12-20 | 2022-06-16 |

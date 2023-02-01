@@ -2,7 +2,7 @@
 
 ### [Livet på Bøgda!](https://open.spotify.com/playlist/37i9dQZF1DXa5zM0UrfG4s)
 
-> Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Hagle
+> Spillelisten som byr på en rekke bøgdebangers du kan spelle i kjerra! Cover: Hagle
 
 272 songs - 12 hr 44 min
 

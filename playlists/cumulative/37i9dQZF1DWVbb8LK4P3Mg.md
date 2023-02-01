@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: Red Velvet, aespa\)
 
-175 songs - 10 hr 25 min
+176 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Best Christmas Ever](https://open.spotify.com/track/6hDPNRduaE4doDCFpOOVGf) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b) | 3:56 | 2021-12-21 | 2022-12-10 |
 | [BETTER DAYS](https://open.spotify.com/track/7uLKlZkikc5Efk0t5y6hEE) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1), [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH), [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w) | [BRANDNEW YEAR 2020: BRANDNEW UP](https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9) | 4:11 | 2021-12-21 |  |
 | [Butter \(Holiday Remix\)](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Holiday Remix\)](https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV) | 2:41 | 2021-12-21 |  |
+| [Candle](https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP) | [COLL!N](https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN) | [Candle](https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS) | 3:33 | 2023-01-10 |  |
 | [Candles](https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single \[Candles\]](https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun) | 3:51 | 2021-12-21 |  |
 | [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 | 2022-12-16 |  |
 | [Candy Cane](https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 3:24 | 2021-12-21 |  |
@@ -164,7 +165,7 @@
 | [Winter Breath](https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.1](https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg) | 3:52 | 2021-12-21 |  |
 | [Winter Falls](https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 3:55 | 2021-12-21 |  |
 | [Winter Falls](https://open.spotify.com/track/68JybsZc5XKAWxmHBL8z0U) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 3:55 | 2021-12-21 | 2022-07-29 |
-| [Winter Land](https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [The Christmas Book Page 2](https://open.spotify.com/album/3qJNim41qjH0Z2gJlxujh3) | 3:59 | 2021-12-21 |  |
+| [Winter Land](https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [The Christmas Book Page 2](https://open.spotify.com/album/3qJNim41qjH0Z2gJlxujh3) | 3:59 | 2021-12-21 | 2023-02-01 |
 | [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 | 2022-12-21 |  |
 | [Winter Wind](https://open.spotify.com/track/7LO6Xn1lEEWAcMAFyJL0Jw) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Santa is Busy](https://open.spotify.com/album/3Klxv71LYDsMhQ7wiAbzJF) | 3:19 | 2021-12-21 | 2022-08-25 |
 | [Winter Wonderland](https://open.spotify.com/track/3a80t6zePME9Xi72jg2jsa) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [The Barberettes Carol: Hun Hun Christmas](https://open.spotify.com/album/3rNQronWYbq9ccgplh8akp) | 4:36 | 2021-12-21 | 2022-07-29 |

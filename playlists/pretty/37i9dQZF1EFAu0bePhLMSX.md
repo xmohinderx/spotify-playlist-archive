@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441 likes - 144 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 442 likes - 144 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 70 | [Ritual](https://open.spotify.com/track/0jzeYeb1z29rtQ0BuOXN5T) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon \(Deluxe Version\)](https://open.spotify.com/album/2Y7n3jwZIsfi4m5udDY2vg) | 3:50 |
 | 71 | [How Do Ya Feel](https://open.spotify.com/track/6EACVe4VmEJHosKTiVLojg) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 3:31 |
 | 72 | [Suddenly Monday](https://open.spotify.com/track/4bmPHxWGCkrCLVJw8KVUt2) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Northern Star](https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ) | 2:37 |
-| 73 | [Nobody Does It Better](https://open.spotify.com/track/1hljujHgHsnJD9FR46YQ9k) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:33 |
-| 74 | [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 |
+| 73 | [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 |
+| 74 | [Nobody Does It Better](https://open.spotify.com/track/1hljujHgHsnJD9FR46YQ9k) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:33 |
 | 75 | [Don't Let Me Down](https://open.spotify.com/track/22ZpKYkR6pgBpNvAJAVtja) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [The Essential](https://open.spotify.com/album/5Wg92LM7Y8ITdVpT72qQ1k) | 4:46 |
 | 76 | [Everyday](https://open.spotify.com/track/1lIj3mSKGJfmQkC8vMEdj0) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 4:19 |
 | 77 | [New York City Lights](https://open.spotify.com/track/43BdxxkR8UP1pJFcwJp1hG) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic \(International Version\)](https://open.spotify.com/album/5OVV3C55OWKmHHP9eY3s74) | 3:52 |
@@ -127,11 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 117 | [I Don't Know What It Is](https://open.spotify.com/track/3MJnTuDz55mdvbqGxc55u4) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/0OrHGmFklZgRtjgJuiaLAb) | 3:17 |
 | 118 | [I Can't Wait](https://open.spotify.com/track/398JRb74efCO1xDxb36DTI) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Forever Is Over](https://open.spotify.com/album/6dIKn7KD9OTrNnqoPIt9bH) | 3:43 |
 | 119 | [Roll With Me](https://open.spotify.com/track/5rt3zm8GPlWCUo3RHRbXm3) | [ABS](https://open.spotify.com/artist/4WivN6D56Y1AtjWPQ0HRRt) | [Abstract Theory](https://open.spotify.com/album/0MnIIyrXuXQCRtdNurf8Zp) | 3:44 |
-| 120 | [Laisse les dire](https://open.spotify.com/track/6d5cZMU0YqgLvqIfhskVeq) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Laisse Les Dire](https://open.spotify.com/album/6tRsIFHli5G81iqqfDtQvw) | 2:34 |
-| 121 | [Only You](https://open.spotify.com/track/0SElZqWjPYLsOub9h4VpGK) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes \(Deluxe Edition\)](https://open.spotify.com/album/5UO8gsaqNUoFrKBBQBEoVn) | 4:11 |
+| 120 | [Only You](https://open.spotify.com/track/0SElZqWjPYLsOub9h4VpGK) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes \(Deluxe Edition\)](https://open.spotify.com/album/5UO8gsaqNUoFrKBBQBEoVn) | 4:11 |
+| 121 | [Laisse les dire](https://open.spotify.com/track/6d5cZMU0YqgLvqIfhskVeq) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Laisse Les Dire](https://open.spotify.com/album/6tRsIFHli5G81iqqfDtQvw) | 2:34 |
 | 122 | [Connect](https://open.spotify.com/track/47MMhJCw8HIv5aOteBoTCI) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:10 |
-| 123 | [City Games](https://open.spotify.com/track/3M3I4n6ttwS6UnnIkYqMYw) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [A Guevara](https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr), [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Chocolate](https://open.spotify.com/album/7AHDFIYjqbv1R7xc3BLKWE) | 7:40 |
-| 124 | [Tears Will Dry](https://open.spotify.com/track/3IBCq3u9WlzoRoeBWVyfvo) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Love Shot Me Down](https://open.spotify.com/album/3pCVtlLvg9OYVOUvr4Gfuv) | 3:09 |
+| 123 | [Tears Will Dry](https://open.spotify.com/track/3IBCq3u9WlzoRoeBWVyfvo) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Love Shot Me Down](https://open.spotify.com/album/3pCVtlLvg9OYVOUvr4Gfuv) | 3:09 |
+| 124 | [City Games](https://open.spotify.com/track/3M3I4n6ttwS6UnnIkYqMYw) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [A Guevara](https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr), [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Chocolate](https://open.spotify.com/album/7AHDFIYjqbv1R7xc3BLKWE) | 7:40 |
 | 125 | [Chemical](https://open.spotify.com/track/19KFdeU14iEhw3XpldfEND) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Run For Your Life](https://open.spotify.com/album/7EVFSwvyF8rGcb7oxCqChH) | 3:15 |
 | 126 | [Switch Me On](https://open.spotify.com/track/6nCa6qQomarOsxYbyuyIsl) | [Lovestoned](https://open.spotify.com/artist/0swDGRfKrPnLae05pY43UT) | [Rising Love](https://open.spotify.com/album/2neQHNP33XoCor6RRT664v) | 3:25 |
 | 127 | [Spin Me Round](https://open.spotify.com/track/0C5NWIzDFpeDKBjVvpjIAc) | [Boy Tedson](https://open.spotify.com/artist/3QGj0gM2w35fH3gx2ZBoXk) | [Spin Me Round \(Remixes\) \- EP](https://open.spotify.com/album/2OmBbxJdmkiYV0dBmRZu0q) | 3:05 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 143 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
 | 144 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 
-Snapshot ID: `Mjc5MTcyOTIsMDAwMDAwMDA3NWU5ZTNiYzE2ZDNjMzE1ODc3NDcwYTExM2Y5ZDFhNw==`
+Snapshot ID: `Mjc5MjAxNzMsMDAwMDAwMDAzZDI5MGI2NTVhY2NlMGJkM2YyYzM0Njk4MGYzYjliMw==`

@@ -2233,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "FROZEN MIDNIGHT",
+        "url": "https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u4e45\u9593\u8cb4\u751f",
+          "url": "https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216653,
+      "name": "FROZEN MIDNIGHT",
+      "url": "https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K"
+    },
+    {
+      "album": {
         "name": "GIRI GIRI",
         "url": "https://open.spotify.com/album/25IInwsJmKOSgXib6cSYgN"
       },
@@ -7005,6 +7023,24 @@
     },
     {
       "album": {
+        "name": "\u304f\u3089\u3048!\u30c6\u30ec\u30d1\u30b7\u30fc",
+        "url": "https://open.spotify.com/album/5QPurrlpbc5HWphTwfCG4i"
+      },
+      "artists": [
+        {
+          "name": "Maharajan",
+          "url": "https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176915,
+      "name": "\u304f\u3089\u3048!\u30c6\u30ec\u30d1\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/7Jj6eiasbU7LVPXqZKBaNf"
+    },
+    {
+      "album": {
         "name": "\u3053\u3053\u3067\u606f\u3092\u3057\u3066",
         "url": "https://open.spotify.com/album/645lnQYZ88qwKJpKnY6bDc"
       },
@@ -10066,7 +10102,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 247306,
       "name": "\u58f0?",
       "url": "https://open.spotify.com/track/00EAiVX99rZ4rlYFLItPcC"
@@ -10084,7 +10120,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 282399,
       "name": "\u590f\u306e\u96ea",
       "url": "https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS"

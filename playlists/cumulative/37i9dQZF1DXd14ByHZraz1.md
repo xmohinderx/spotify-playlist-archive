@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
 
-115 songs - 5 hr 53 min
+116 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Anybody Else](https://open.spotify.com/track/4NbmxDHT22uG720SQjjJKf) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2) | [Anybody Else](https://open.spotify.com/album/3hF7QdLRT9vOxXKBgBriMF) | 2:56 | 2021-12-24 | 2023-01-28 |
 | [Are You Down \- Suark Remix](https://open.spotify.com/track/1JVBfOarVI6CNSw4sHGlHQ) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Suark](https://open.spotify.com/artist/6iLBBp88stAFjZdnn0HsdD) | [Are You Down \(The Remixes\)](https://open.spotify.com/album/41rocj1r6C2g1rm4Wx4Y9V) | 2:55 | 2022-10-07 | 2022-12-03 |
 | [ARPT](https://open.spotify.com/track/3obLSyxtsr0R5hGISMPwFd) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [ARPT](https://open.spotify.com/album/1nEOMBQLIp1YgBR3i9eyJP) | 3:15 | 2021-12-24 |  |
-| [Beat, Slow, Check](https://open.spotify.com/track/2FvSLbaOuopFsY2ZUaJPX1) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Beat, Slow, Check](https://open.spotify.com/album/3Gb5HF8D2stlV841uR3n0J) | 3:05 | 2021-12-24 |  |
+| [Beat, Slow, Check](https://open.spotify.com/track/2FvSLbaOuopFsY2ZUaJPX1) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Beat, Slow, Check](https://open.spotify.com/album/3Gb5HF8D2stlV841uR3n0J) | 3:05 | 2021-12-24 | 2023-02-01 |
+| [Beat, Slow, Check](https://open.spotify.com/track/6wTbJIaTtp14XhndssikxH) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Beat, Slow, Check](https://open.spotify.com/album/1EdGMNwdiGuM8Qn6GYm69H) | 3:05 | 2023-01-27 |  |
 | [Body Control](https://open.spotify.com/track/1DOiUHIWeuSePVnulxXRdM) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Plastic Robots](https://open.spotify.com/artist/7qd3q5BKu3lh5r0vVBWSzm) | [Control](https://open.spotify.com/album/4JEt6Wo4ADJAoGi0NND8hm) | 3:50 | 2022-04-08 |  |
 | [Body On My Mind](https://open.spotify.com/track/0tC6DBA0PA8o0LL3M6neZ9) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/1BwEL9Uw8vU3ND0KCaTmdw) | 2:49 | 2021-12-24 | 2022-07-29 |
 | [Body On My Mind](https://open.spotify.com/track/2hKr4BrXEPAsmTCcX8aV5J) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 002](https://open.spotify.com/album/7DwBtsPSp8U1dVFQWtKqjk) | 2:49 | 2022-10-28 | 2022-11-13 |

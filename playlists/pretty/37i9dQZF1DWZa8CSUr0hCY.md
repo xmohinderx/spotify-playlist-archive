@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,092 likes - 111 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,241 likes - 111 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 58 | [poolside chillin](https://open.spotify.com/track/4lpEXMuawQUe2ObIig1iBL) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Poolside](https://open.spotify.com/album/5GdYY9tUHATbHgnXBEZaL4) | 2:08 |
 | 59 | [Cappadocia](https://open.spotify.com/track/4AjAKzrDkBw5zCXpM0u8lm) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Cappadocia](https://open.spotify.com/album/4CUNpGua3O2uRuBzds0Y7Y) | 2:51 |
 | 60 | [Dusk Till Dawn](https://open.spotify.com/track/0IpXggbsedUAgk4EcvpD5V) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Dusk Till Dawn](https://open.spotify.com/album/7eqxz9vooQM1Cla93iPw4u) | 2:09 |
-| 61 | [Foyer](https://open.spotify.com/track/5xLp8h4lYj0PoevICi9WWq) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Foyer](https://open.spotify.com/album/6MebS5lJhwjePkjU88plwu) | 2:49 |
+| 61 | [Foyer](https://open.spotify.com/track/5xLp8h4lYj0PoevICi9WWq) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7), [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41) | [Foyer](https://open.spotify.com/album/6MebS5lJhwjePkjU88plwu) | 2:49 |
 | 62 | [Cherry Blossom](https://open.spotify.com/track/6RO1NFtqXr2FgbrUJCkame) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Cherry Blossom](https://open.spotify.com/album/7n1QYNXh7TbEQLtYrrUWwF) | 2:00 |
 | 63 | [Ghost](https://open.spotify.com/track/4LVgQFrUNdI6J19KVTVjh6) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Ghost](https://open.spotify.com/album/3X6tebSYE2bQJLuNDAsFqa) | 2:55 |
 | 64 | [Lullaby](https://open.spotify.com/track/5hpaD3fhU5a6KZLWX18Td9) | [William Shine](https://open.spotify.com/artist/31qJcWRmZuRNILCRbn9idq), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Lullaby](https://open.spotify.com/album/1cAWmLBrk8mj1BdToc3xK4) | 2:30 |

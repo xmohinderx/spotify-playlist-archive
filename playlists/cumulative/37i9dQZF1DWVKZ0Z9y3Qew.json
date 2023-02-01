@@ -331,6 +331,28 @@
     },
     {
       "album": {
+        "name": "AIN'T YOU",
+        "url": "https://open.spotify.com/album/7ghVMonhW70fAjNGLRlNu1"
+      },
+      "artists": [
+        {
+          "name": "BIG Jone$",
+          "url": "https://open.spotify.com/artist/6aoASPFrueu2e0EEWSO45X"
+        },
+        {
+          "name": "Bobby Brooks",
+          "url": "https://open.spotify.com/artist/7tlbT4ve8EfnD02kLEUBAO"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159612,
+      "name": "AIN'T YOU",
+      "url": "https://open.spotify.com/track/0OO6ceH6zeBdVKOCl215Uh"
+    },
+    {
+      "album": {
         "name": "Sand helps you sea",
         "url": "https://open.spotify.com/album/3Tfh4vxkIhKd8aV6dI6kPw"
       },
@@ -1136,7 +1158,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 157892,
       "name": "Blue Iris",
       "url": "https://open.spotify.com/track/1F6Is1swYuKVM7lc9diToM"
@@ -2060,7 +2082,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 108553,
       "name": "Crackhead Move",
       "url": "https://open.spotify.com/track/1mZscNOtihFjC0uhpis7oV"
@@ -3025,6 +3047,28 @@
     },
     {
       "album": {
+        "name": "FR0ZE",
+        "url": "https://open.spotify.com/album/6fie2zZKuDNCkd40Pbj254"
+      },
+      "artists": [
+        {
+          "name": "Gyasi",
+          "url": "https://open.spotify.com/artist/1vg2mDSRmGpkwCYbFQoHnH"
+        },
+        {
+          "name": "Rell Be Free",
+          "url": "https://open.spotify.com/artist/1ebaUQ17uF7vWeWBWaW1yU"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140014,
+      "name": "FR0ZE",
+      "url": "https://open.spotify.com/track/5dcrAWQugqyK2xt4XtyBOg"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/2yQhkqIYFfhHNMo0shIZlC"
       },
@@ -3200,7 +3244,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 71400,
       "name": "GIVENCHY",
       "url": "https://open.spotify.com/track/19hknUMXGhfqmJg13PA24c"
@@ -3418,7 +3462,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 139236,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/5aipGRTCmbrqo0iaBxE1vF"
@@ -5042,7 +5086,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 169253,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/6pkfXMm56rZX4eoi3JvoY2"
@@ -5205,6 +5249,32 @@
     },
     {
       "album": {
+        "name": "Soulection Takeover: 2K23 Edition",
+        "url": "https://open.spotify.com/album/1hhPj4G4CvN32Wo1fQzjb1"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        },
+        {
+          "name": "Soulection",
+          "url": "https://open.spotify.com/artist/5zFe5aBvWzEfIz1PJ1Zpft"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Mountain Dew",
+      "url": "https://open.spotify.com/track/4z0ON0ZGVktEhRAvZscuEo"
+    },
+    {
+      "album": {
         "name": "Mr. Bands",
         "url": "https://open.spotify.com/album/0Zi0TEEdfKgUlG04NFeylu"
       },
@@ -5268,6 +5338,24 @@
       "duration_ms": 214153,
       "name": "Mudan\u00e7a (feat. Jarreau Vandal)",
       "url": "https://open.spotify.com/track/2jyAnN2kLvaY5zd2znq8yH"
+    },
+    {
+      "album": {
+        "name": "Murder Hornet",
+        "url": "https://open.spotify.com/album/60APHKbHylbFRA60ATifAx"
+      },
+      "artists": [
+        {
+          "name": "Breaks and Swells",
+          "url": "https://open.spotify.com/artist/3mTdL1Vo37T45YqKpN3V6C"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249492,
+      "name": "Murder Hornet",
+      "url": "https://open.spotify.com/track/0fRKrGvJ1kWXNQM3jK88w3"
     },
     {
       "album": {
@@ -5726,7 +5814,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 154250,
       "name": "NOT YOUR BODY",
       "url": "https://open.spotify.com/track/2nRSMc8KspRama6r5AfbEP"
@@ -5872,6 +5960,24 @@
       "duration_ms": 165879,
       "name": "On Time",
       "url": "https://open.spotify.com/track/3ToDN9fnVh1lg8WYifWYEE"
+    },
+    {
+      "album": {
+        "name": "What's After 'I Love You?'",
+        "url": "https://open.spotify.com/album/5G0ZU2YGP1aMm4Yi9vxo7n"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/1T4RVbxQeB3zPbIM5cogoB"
     },
     {
       "album": {
@@ -6043,6 +6149,24 @@
     },
     {
       "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/19Adn1AtpuzHjpd3VlQKj7"
+      },
+      "artists": [
+        {
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214645,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/2CVExiErX9MIVf7xXjNkWQ"
+    },
+    {
+      "album": {
         "name": "PLAYER SEXY COOL",
         "url": "https://open.spotify.com/album/5LATUFimO5i5O3szCHd1yO"
       },
@@ -6210,7 +6334,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 145606,
       "name": "Petty - Geemix",
       "url": "https://open.spotify.com/track/5NBt8e5ULnQGaHeHlRU0GX"
@@ -7884,7 +8008,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 193697,
       "name": "S\u00f3 me ligar",
       "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
@@ -8282,6 +8406,28 @@
       "duration_ms": 163962,
       "name": "There For Me",
       "url": "https://open.spotify.com/track/5goINnMqnEPRsqD7QDHgWt"
+    },
+    {
+      "album": {
+        "name": "Thin Air",
+        "url": "https://open.spotify.com/album/6q4SXmm2PWBVqP8oE49bco"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        },
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214333,
+      "name": "Thin Air",
+      "url": "https://open.spotify.com/track/1XrcBKoDKpJG76LvhzJbIZ"
     },
     {
       "album": {
@@ -8777,6 +8923,46 @@
     },
     {
       "album": {
+        "name": "Ways 1.17",
+        "url": "https://open.spotify.com/album/6YAMbz2hGTXhb48LPh3lgG"
+      },
+      "artists": [
+        {
+          "name": "JVVMN",
+          "url": "https://open.spotify.com/artist/3D4dAWx2lZl8GG3biBWMje"
+        },
+        {
+          "name": "Talaya.",
+          "url": "https://open.spotify.com/artist/5NLhWCjcejwt2TJa2lfxXG"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137135,
+      "name": "Ways 1.17",
+      "url": "https://open.spotify.com/track/7p763yf3fXLXIhay1zyXYq"
+    },
+    {
+      "album": {
+        "name": "outofrealestate",
+        "url": "https://open.spotify.com/album/41ZYaQmQOzw70CBQxk5BNK"
+      },
+      "artists": [
+        {
+          "name": "Obl\u00e9 Reed",
+          "url": "https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148607,
+      "name": "WESTON.",
+      "url": "https://open.spotify.com/track/1kpgBwXSZMbTc406Ku5eaB"
+    },
+    {
+      "album": {
         "name": "What It Do",
         "url": "https://open.spotify.com/album/3haXXbUQQmUAFr8XgbX5CV"
       },
@@ -8882,7 +9068,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 132190,
       "name": "WHERETHEMONEYGROWS.",
       "url": "https://open.spotify.com/track/6V7SxXHLB3q2vF2i9todlK"

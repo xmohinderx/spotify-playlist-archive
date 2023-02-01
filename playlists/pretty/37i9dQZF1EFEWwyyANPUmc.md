@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Cwc7OU92zsScsUHw2wW0y">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 174 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 | 8 | [Original](https://open.spotify.com/track/4sd19JwLdoB4zzIZI7PA3O) | [Eric Chase](https://open.spotify.com/artist/6UaMv59B64t5wi1vH4H5HT), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Original](https://open.spotify.com/album/0ZT8waFozsMUFCgYghL68k) | 2:49 |
 | 9 | [That Saturday](https://open.spotify.com/track/0Teldg9fHAmWVIAAWkrnvd) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [That Saturday](https://open.spotify.com/album/25aseBclBRyfOuUfiazxUO) | 2:55 |
 | 10 | [Plomo](https://open.spotify.com/track/62mPzA5KOQ55LJEDa1TnUh) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2) | [Plomo](https://open.spotify.com/album/0xwMZE8vwifDYgjWLcax8W) | 3:31 |
-| 11 | [Gypsy](https://open.spotify.com/track/1gtoJYq7yhISk72RRpK82q) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn), [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Gypsy](https://open.spotify.com/album/6ZIWLpoGHJWgAYjVPX4rAT) | 3:18 |
+| 11 | [Gypsy](https://open.spotify.com/track/4UINZDQVlLV2QDJ5FPv6eT) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn), [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Gypsy](https://open.spotify.com/album/3vxFPOYg85lQtPbn9LUNjf) | 3:18 |
 | 12 | [Solo](https://open.spotify.com/track/7BnARJhzGKD89USQRKGtbU) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Solo](https://open.spotify.com/album/45joQYljjWbtQHKYgoFoQz) | 3:33 |
 | 13 | [Loco](https://open.spotify.com/track/4djkKXYJu5FuNMwCJdGzYl) | [SWACQ](https://open.spotify.com/artist/45UHclgIcRavRoRa2MET5i), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Loco](https://open.spotify.com/album/2hHwH5zwnxIEVrRAczECMl) | 2:26 |
 | 14 | [Not Afraid](https://open.spotify.com/track/2PAOqevh9KeK3axxRa8r71) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu) | [Not Afraid](https://open.spotify.com/album/1g5ODHnFlBAjLZS1jSFc5I) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 | 49 | [La Noche](https://open.spotify.com/track/2MurtNOTSzfR3UDmiM6qKu) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Wobblestep EP](https://open.spotify.com/album/0O5np1Eu0H7DphgWg33g8N) | 3:06 |
 | 50 | [Till The Sun Comes Down](https://open.spotify.com/track/0lXHqJQ08GGhJMQN0WQEgd) | [SOLR](https://open.spotify.com/artist/11XEv1va5mCLuFxuKMaOUh), [The Trixx](https://open.spotify.com/artist/3E3y0s1aMZIQYD9ExbitIT), [Emy](https://open.spotify.com/artist/1VFBjda5d9AXc2QUweoi85) | [Till The Sun Comes Down](https://open.spotify.com/album/6dElwID4F5wWBRGxXQJXP0) | 3:54 |
 
-Snapshot ID: `Mjc5MTcyODcsMDAwMDAwMDBiZGRhMmM4MGI2MjZlYzBjY2Y0M2FhYTNiMWJlY2ViMQ==`
+Snapshot ID: `Mjc5MjAxNjgsMDAwMDAwMDBhMDY5YTJhOGVjNDRlNzllZjNjODIzMjlhOTk3NGFmYQ==`

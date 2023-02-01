@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring panteros666 & chippy nonstop
 
-522 songs - 1 day 6 hr 17 min
+525 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Ancient Downer](https://open.spotify.com/track/25pRvjSVlVm1iSJGdkHVuC) | [Boys Hotel](https://open.spotify.com/artist/3BQpGPX8wEhlKrICJuCmBd) | [Ancient Downer](https://open.spotify.com/album/50ahpSbDlD3zgy84B5z1LN) | 4:11 | 2022-04-08 | 2022-06-04 |
 | [ANGEL](https://open.spotify.com/track/6M00AA8X2EZR6xaLFKRdGA) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [ANGEL](https://open.spotify.com/album/2PW5mn3I40LZWKhI1AKCgL) | 3:00 | 2022-10-21 |  |
 | [anna jetson \- DJ\_Dave Edit](https://open.spotify.com/track/6qPAi7Ozo4MpVdm9Q4KPF3) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Sunshine Factory \(Remixes\)](https://open.spotify.com/album/3itJjuakoKh9vUynd8N0Iv) | 3:00 | 2022-09-27 | 2022-11-15 |
+| [anxiety](https://open.spotify.com/track/0uMfUX34De5IdFo8eGzXiI) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf) | [anxiety](https://open.spotify.com/album/4hEfPE1lbqovFYK5sYTpq5) | 3:41 | 2023-01-31 |  |
 | [Anymore](https://open.spotify.com/track/0UYbhQk9tUzDeqjcsfDFRF) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Anymore](https://open.spotify.com/album/78Q3dFiGFA9wZwpm9OSocq) | 2:30 | 2022-08-05 | 2022-10-15 |
 | [Aquarius](https://open.spotify.com/track/3ESZfPBmzPc6nbjhy45dAD) | [DARKOWA](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53) | [Time Machine](https://open.spotify.com/album/6BB4Xczb32vmkRSPiLrUin) | 2:31 | 2022-12-02 |  |
 | [Arrowheads](https://open.spotify.com/track/2G8f1hZYyeXzrTQq9ZzAcQ) | [POSITIVE+](https://open.spotify.com/artist/4A9c47Lp1V2eX8879NNzYr) | [Arrowheads](https://open.spotify.com/album/4SS3rdPGwOVIAUr46Car5q) | 4:46 | 2022-07-11 | 2022-10-15 |
@@ -238,6 +239,7 @@
 | [Hypnotize Me Baby](https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4qqRj5g7b3kMCZXF4pY98f) | 2:22 | 2022-06-10 | 2022-10-29 |
 | [Hypnotize Me Baby](https://open.spotify.com/track/4X4PLwuWE5FoLIwvWy4jdg) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4ZfLd6L4zANgqtMWr3sDlO) | 2:22 | 2022-06-10 | 2022-10-17 |
 | [i can't](https://open.spotify.com/track/5hTLeiVCru8fakEB4K48Vs) | [Ilykimchi](https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb) | [i can't](https://open.spotify.com/album/3wDtJrZdVt1d3jE9ZwI0XU) | 2:52 | 2022-11-11 | 2023-01-21 |
+| [I Don't Do Drugs \- Y2K Remix](https://open.spotify.com/track/49CHpBYoeE9j0QIXy9dKI7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [I Don't Do Drugs \(Y2K Remix\)](https://open.spotify.com/album/4XAXBh39t3KoD7Ta0x7Toi) | 2:54 | 2023-01-31 |  |
 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 | 2022-09-14 | 2022-11-19 |
 | [I Hate You I Love You](https://open.spotify.com/track/5KgBj14914cz5SirCMvbCm) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I Hate You I Love You](https://open.spotify.com/album/4hcjr6lpFL24nHjjy7LqjQ) | 2:15 | 2022-03-25 | 2022-12-03 |
 | [i lost my friend at a rave](https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [i lost my friend at a rave](https://open.spotify.com/album/6nP8L69qkApF7sJ0LSag6g) | 3:00 | 2022-07-08 | 2022-08-27 |
@@ -361,6 +363,7 @@
 | [Planet](https://open.spotify.com/track/1DD7BCsexlwDHYm6o6KBDo) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Planet](https://open.spotify.com/album/1r975QemC2LPmOoC35VjtE) | 2:12 | 2022-12-09 |  |
 | [planet1995](https://open.spotify.com/track/3Jh6eYEVu0H0fxZCrihisA) | [Y ohtrixpointnever](https://open.spotify.com/artist/4zba7coFdHgCPeGTxZn1LQ) | [planet1995](https://open.spotify.com/album/4fuy1NdmPV4DlnMeVeEtIK) | 3:48 | 2022-01-07 | 2022-06-04 |
 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 | 2021-12-03 | 2022-01-22 |
+| [pls \(−\_−;\)](https://open.spotify.com/track/1y7ZG3g05KN8L2BUm4qRtw) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF), [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn) | [pls \(−\_−;\)](https://open.spotify.com/album/37Hl1DV0EnLAAhrZEI6qDx) | 2:06 | 2023-01-31 |  |
 | [Poison](https://open.spotify.com/track/78dGpGY3eSm7NGLFtVhQDJ) | [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM) | [Poison](https://open.spotify.com/album/0dfqvCOm8PJ0yGTLzlJWCX) | 4:36 | 2022-11-07 |  |
 | [Poison Arrow \- HANA Remix](https://open.spotify.com/track/3VpjqitkScv9uInf7aRjDA) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Serotonin X Remixes](https://open.spotify.com/album/2VpQYFLXFWeK1mcWrr2XYn) | 5:31 | 2021-07-30 | 2022-03-05 |
 | [popipo00](https://open.spotify.com/track/3oYZkaAsoi7UqinSUcidnA) | [AKIBA](https://open.spotify.com/artist/5y51w1wj1qFCNOAU1b7BEc) | [im lost in a neverending dream](https://open.spotify.com/album/5LhJziay2LhxujQ0HsvSlk) | 2:36 | 2022-02-23 | 2022-09-03 |

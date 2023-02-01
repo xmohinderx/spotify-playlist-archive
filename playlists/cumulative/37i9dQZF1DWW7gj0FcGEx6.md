@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-224 songs - 11 hr 37 min
+225 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Themyscira](https://open.spotify.com/track/3pdvYQ2REfx1Ayot2nJauz) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Themyscira \(From Wonder Woman 1984: Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zMn38kkBk8xIZBSA8E9CF) | 3:51 | 2021-12-20 | 2022-07-29 |
 | [Themyscira](https://open.spotify.com/track/4C7lKHNYzm9c8ywpGNlAc9) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Wonder Woman 1984 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S6PQvbIyUIS9P6Cxu9lmO) | 3:51 | 2022-07-22 | 2022-08-20 |
 | [There'll Always Be Another Monster](https://open.spotify.com/track/277m7fiKpjfeMgGLDzlqEO) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz), [BLÁNID](https://open.spotify.com/artist/1usjVOtaUFAvJ3lSXCoJBU) | [The Witcher: Nightmare of the Wolf \(Music from the Netflix Anime Film\)](https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW) | 2:44 | 2021-12-20 |  |
+| [This Is How I Fight](https://open.spotify.com/track/3M0Q7Zf7WIWA3DErPigGg8) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Everything Everywhere All at Once \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dJKjotJRGEE9rmGgmxDWu) | 2:40 | 2023-01-31 |  |
 | [This Was a Poet](https://open.spotify.com/track/1znN76aRFFQGNINWqsYOWB) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7), [Ian Hultquist](https://open.spotify.com/artist/2KcLrCao2zAX5Ez6gZzgW9) | [Dickinson: Season Three \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/5DBAk2UBKmnZVNDR0NT1Yf) | 2:14 | 2021-12-20 |  |
 | [Thrinos](https://open.spotify.com/track/1BLhw0Jg5xhXxqsuk32IMN) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [Edicius \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FmuIHK69zVRiQYVfnnYIv) | 2:07 | 2022-10-07 |  |
 | [Thrinos](https://open.spotify.com/track/3Ma4JDl9bU1UInwwCiVIfU) | [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu) | [Edicius \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ABYH0nH2gLfbibEAK8dvq) | 2:07 | 2022-01-07 | 2022-10-22 |

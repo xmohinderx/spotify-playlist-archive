@@ -4,7 +4,7 @@
 
 > Quiet music for reading, curl up with a good book and a calm piano playlist in the background.
 
-568 songs - 1 day 0 hr 45 min
+570 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [The Belfry](https://open.spotify.com/track/7cc0PJfYHGn5W3KQrhXS0D) | [Jessy Ribordy](https://open.spotify.com/artist/7fxyrcwACinFsRlmTxnodY) | [The Belfry](https://open.spotify.com/album/0zcMbeXJrzE5ARa344WXbu) | 2:28 | 2022-04-15 |  |
 | [The Cherry Trees](https://open.spotify.com/track/1dPIVEUmnh7v9r4KUnOTHH) | [Gail Bastien](https://open.spotify.com/artist/1eCocb44CK7LZas5v6DKUC) | [The Cherry Trees](https://open.spotify.com/album/2tJO1OQKOOi4tSvQpNQBFG) | 2:25 | 2022-04-15 |  |
 | [The Crossing \(Revisited\)](https://open.spotify.com/track/2aLM9O5Gz5X758xYkgpSC6) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [The Crossing \(Revisited\)](https://open.spotify.com/album/7EvoRhA8ptjI0AoQQu4n6s) | 1:57 | 2022-04-15 |  |
+| [The Desolate Path](https://open.spotify.com/track/39sT7m26OUz1z2cfjShZYM) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [The Desolate Path](https://open.spotify.com/album/6wXpCHeggIpKl5qEZeqWsu) | 3:05 | 2023-01-31 |  |
 | [The Distant Path](https://open.spotify.com/track/1nPQClKsAqd84PZU5hfVCB) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [A Place I Remember](https://open.spotify.com/album/7AKhyi9Ylbpga01pIsytVr) | 3:31 | 2022-04-15 | 2022-06-08 |
 | [The Dreams We Left Behind](https://open.spotify.com/track/6KZtv7JVe8fKXaIHPj3Gb2) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [The Dreams We Left Behind](https://open.spotify.com/album/5wpWx956vb5d7CDGmniwcY) | 3:02 | 2022-04-15 | 2022-11-19 |
 | [The Far West](https://open.spotify.com/track/3nI7ooi7HA8oRVSgCKvcE7) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [The Far West](https://open.spotify.com/album/1oS03TkuqigN5sPeG4ubKQ) | 2:51 | 2022-04-15 | 2022-06-08 |
@@ -517,6 +518,7 @@
 | [Tree Angels](https://open.spotify.com/track/7hzvYJMRKjJas7foTUrO1J) | [Taylor Driskell](https://open.spotify.com/artist/2uWS8QQitbOr23trHrGTgZ) | [Stretch of Clouds](https://open.spotify.com/album/7yjLciUuoGvy7qSSv6KOPg) | 2:50 | 2022-04-15 | 2022-09-21 |
 | [Tree Rhythm](https://open.spotify.com/track/7wksCozvMX6I0imUoTWBCE) | [Gerald Sherman](https://open.spotify.com/artist/3SfdWSRQSadzwAMuxNMO5C) | [Pigeon Prelude](https://open.spotify.com/album/707TxgMgJjfzU5fWLo0UHb) | 2:50 | 2022-04-15 | 2022-11-19 |
 | [True Self](https://open.spotify.com/track/3wJYd4AguIe41wp8gPZAmL) | [Izzy Rubin](https://open.spotify.com/artist/3i9R9BlH4QfTzP3DZIEj86) | [True Self](https://open.spotify.com/album/6sqaTWutALgbYSSmYbSGnH) | 3:57 | 2022-04-15 |  |
+| [Trumpets Of Datura](https://open.spotify.com/track/0bGyHFMw91fp3ghaw85wxo) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Trumpets Of Datura](https://open.spotify.com/album/3NtT2DyYz6JfTrjznupDap) | 2:23 | 2023-01-31 |  |
 | [Trust](https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Trust](https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv) | 2:23 | 2022-04-27 |  |
 | [Trust](https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS) | [Loris Murray](https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk) | [Trust](https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk) | 2:15 | 2022-04-15 |  |
 | [Tu me donne de la force](https://open.spotify.com/track/69ZVTxad3rNnwZPwMOk9yX) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Tu me donne de la force](https://open.spotify.com/album/5UgRWAzUPftuejgEhpjdM8) | 2:16 | 2022-04-15 |  |

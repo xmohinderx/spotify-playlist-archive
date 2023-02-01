@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Kim Seungmin\(김승민\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Beenzino\(빈지노\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-578 songs - 1 day 7 hr 37 min
+579 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 | 2022-12-22 | 2023-01-26 |
 | [TRAMPLED](https://open.spotify.com/track/0dVof5Q6rzalmj2eqB9Dr2) | [Urban Fisher](https://open.spotify.com/artist/2kGf1F2GuQecSJRhzRLyPQ) | [SPILLING](https://open.spotify.com/album/02JmyFcdizrK2jjhfLQ7J0) | 3:19 | 2022-05-11 | 2022-06-05 |
 | [Treasure \(Feat\. Kvsh, CHOILB\)](https://open.spotify.com/track/7icNK4lve2yPlM1NuN6cJ4) | [HYESUNG](https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM), [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [Treasure](https://open.spotify.com/album/6PLYX18iZE3mVG7xFawuPV) | 3:26 | 2022-04-21 | 2022-07-26 |
+| [Trippy](https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Trippy](https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5) | 3:27 | 2023-02-01 |  |
 | [trouble](https://open.spotify.com/track/3kjITZTzIoKM929dACraW6) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 2:08 | 2022-04-01 | 2022-07-16 |
 | [TROUBLE \(Prod\. Slom\)](https://open.spotify.com/track/5UJTNrW72ZMubW2wKBf8g2) | [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [northfacegawd](https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [A\-chess](https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR) | [Show Me The Money 10 Episode 1](https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX) | 4:44 | 2022-04-21 | 2022-07-23 |
 | [True Romance](https://open.spotify.com/track/5NhxZZMjdxMGsHyQWctT0i) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI), [DNEIRF](https://open.spotify.com/artist/1CBYQ83BQqDEIL3JGrdo9N) | [THE PIECES\-Ep.1](https://open.spotify.com/album/7xdVj3rRIJn4dW0XF3OojU) | 4:20 | 2022-04-21 | 2022-07-29 |
@@ -575,7 +576,7 @@
 | [You So \(feat\. migoo\)](https://open.spotify.com/track/3crfuTcFmhXGSiURgSUMSM) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr), [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Migoo](https://open.spotify.com/artist/7BV43zSPYFU1W7SY6QbMcH) | [Out Of Control Vol.3](https://open.spotify.com/album/59gABTdyEHWyB7qBIx7SpA) | 3:05 | 2022-08-02 | 2022-08-13 |
 | [You Up](https://open.spotify.com/track/0avIFhF3AOSVx607hoacdl) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 2:45 | 2022-04-01 | 2022-07-25 |
 | [YOUNG BOY](https://open.spotify.com/track/6dklP83kIZRmUYawxj7sqr) | [HELLO GLOOM](https://open.spotify.com/artist/7so3OJPxoYvfHVSeYDMdCQ) | [Because I Was Young Boy](https://open.spotify.com/album/74vHOExJIUhBqW6oQgL3BZ) | 2:56 | 2022-06-13 | 2022-06-19 |
-| [Your Instagram \(Feat\. Blueday\)](https://open.spotify.com/track/69eA4nwZmmAZy3dL1OglaJ) | [IOHBOY](https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Your Instagram](https://open.spotify.com/album/7bFHJASGNnV4PilM1ivDfz) | 2:29 | 2022-08-18 |  |
+| [Your Instagram \(Feat\. Blueday\)](https://open.spotify.com/track/69eA4nwZmmAZy3dL1OglaJ) | [IOHBOY](https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Your Instagram](https://open.spotify.com/album/7bFHJASGNnV4PilM1ivDfz) | 2:29 | 2022-08-18 | 2023-02-01 |
 | [Your Night](https://open.spotify.com/track/6HsXrtTgag6bymZlUNOdlN) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt) | 3:24 | 2022-04-01 | 2022-05-31 |
 | [Zero Coke \(Feat\. Skinny Brown\)](https://open.spotify.com/track/1aO6bEVPLjzvXY22XOVI0e) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [TOYSTORY3](https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy) | 2:56 | 2022-07-09 | 2022-07-29 |
 | [Zombie](https://open.spotify.com/track/2D0DdRLTuFSNxWeaLclxHa) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [From dusk till dawn](https://open.spotify.com/album/5fLtnSbHDxFjOd9iLdWrjd) | 3:04 | 2022-06-13 | 2022-06-27 |

@@ -2,9 +2,9 @@
 
 ### [RADAR: Early Noise 2023](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> "RADAR:Early Noise 2023"今年の10組発表！ Cover: Furui Riho / Early Noise Music+Talkは<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
+> "RADAR:Early Noise 2023"今年の10組発表！ Cover: LANA / Early Noise Music+Talkは<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-619 songs - 1 day 14 hr 37 min
+621 songs - 1 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [escape](https://open.spotify.com/track/54I4yCRiTczv8HGgc97h9j) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [escape](https://open.spotify.com/album/3hb7VMqpZB6di5amB32mdh) | 3:41 | 2022-07-28 | 2022-08-03 |
 | [Even if the world hates me](https://open.spotify.com/track/2a2alZCw8oZlDGciBUlZvl) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Even if the world hates me](https://open.spotify.com/album/3Giq65QDe2WwZXf7MKWfnR) | 3:30 | 2023-01-12 |  |
 | [Fallin’](https://open.spotify.com/track/2XXjUayYjoXXryVMj5KwaB) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [Fallin’](https://open.spotify.com/album/0fJAMatgtuw8ux3zSExPFz) | 3:05 | 2022-05-26 | 2022-07-13 |
-| [FLAME](https://open.spotify.com/track/2uTMHATwwqd5AFGtg7EjRM) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Saru jr.fool](https://open.spotify.com/artist/7ydxirAQJSZbNHoGJPOrXR), [taisyov](https://open.spotify.com/artist/7GOnq578vzDJDcDCdxwhTf) | [FLAME](https://open.spotify.com/album/7vr3RkXfIuzJ2AHpKLuRSo) | 3:16 | 2022-03-29 |  |
+| [FLAME](https://open.spotify.com/track/2uTMHATwwqd5AFGtg7EjRM) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Saru jr.fool](https://open.spotify.com/artist/7ydxirAQJSZbNHoGJPOrXR), [taisyov](https://open.spotify.com/artist/7GOnq578vzDJDcDCdxwhTf) | [FLAME](https://open.spotify.com/album/7vr3RkXfIuzJ2AHpKLuRSo) | 3:16 | 2022-03-29 | 2023-02-01 |
 | [FLOATING EYES](https://open.spotify.com/track/5trmKu2TPm87vYS1xqouAj) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [BEANIE](https://open.spotify.com/album/0Unuh962T4V4QakKGMahUg) | 3:12 | 2022-09-20 | 2022-11-30 |
 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 | 2022-07-12 |  |
 | [Florida](https://open.spotify.com/track/6F3neIaphDdTjV4cGivHOg) | [itachi](https://open.spotify.com/artist/20xzByUKmZViuEx3OIf0yo) | [Florida](https://open.spotify.com/album/4XYhmwSli2isT42Tle10Ux) | 2:52 | 2022-07-21 | 2022-08-17 |
@@ -343,6 +343,7 @@
 | [Toxins](https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR) | [Toxins](https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR) | 3:00 | 2022-10-04 | 2022-10-19 |
 | [Tremolo](https://open.spotify.com/track/3kIFJsq83ecH3ingfUXVMZ) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Daydream](https://open.spotify.com/album/7djGvLAgTKtlV9s9MXAXkV) | 3:11 | 2022-03-01 | 2022-04-13 |
 | [true to true](https://open.spotify.com/track/1mbk4FTeAZ5OfEM2ISWf3n) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [true to true](https://open.spotify.com/album/2pQASrevvjkllTgYeAVSG2) | 3:02 | 2022-06-14 | 2022-08-05 |
+| [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-01-31 |  |
 | [Twerk](https://open.spotify.com/track/1t1aGqZkoJzfVGez7vxHxk) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Twerk](https://open.spotify.com/album/79XEt2UODb6oAWgh9sGmnI) | 2:28 | 2022-07-12 |  |
 | [U](https://open.spotify.com/track/729FKEauTfVhvHOspPcJUX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [U](https://open.spotify.com/album/3XBZh0UYt02nctSy4tsKU3) | 2:57 | 2022-02-17 | 2022-03-23 |
 | [Umbrella](https://open.spotify.com/track/7okiGeaZtMAjH5YnYY5CIf) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Umbrella](https://open.spotify.com/album/6G8DaKmaUuwZmOVOYUHP5C) | 4:32 | 2022-07-28 | 2022-10-26 |
@@ -413,7 +414,7 @@
 | [ものがたりをおしえて](https://open.spotify.com/track/08RR9LOhIGGHsAsavyiDMJ) | [Sally Cinnamon](https://open.spotify.com/artist/4gQ6x7HZ7CcuOZhahQWtRj) | [ものがたりをおしえて](https://open.spotify.com/album/6Ca0N8ZcwvoVU9tyVc6O4u) | 3:31 | 2022-10-25 | 2022-10-27 |
 | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/track/57RVe3PQDsOZHAIzVmwB3G) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/album/3vggBvyxFXRR6xCnkRxmRR) | 3:05 | 2022-02-17 | 2022-04-20 |
 | [ゆえに希望など](https://open.spotify.com/track/2RdHVZAtKMkX4TssYkJDpz) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [ゆえに希望など](https://open.spotify.com/album/7yqxtVnxifEe1D4r926rTG) | 4:03 | 2022-08-30 | 2022-09-01 |
-| [ゆらせ](https://open.spotify.com/track/4bwHrJGuzdGcVIzXZjGhqD) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [ゆらせ](https://open.spotify.com/album/14w99HaIjaPb7zFEsW2Ys9) | 4:27 | 2023-01-12 |  |
+| [ゆらせ](https://open.spotify.com/track/4bwHrJGuzdGcVIzXZjGhqD) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [ゆらせ](https://open.spotify.com/album/14w99HaIjaPb7zFEsW2Ys9) | 4:27 | 2023-01-12 | 2023-02-01 |
 | [よるおきてあさねむる](https://open.spotify.com/track/6DRaMkWwRgUzsFFPKR3uY3) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [よるおきてあさねむる](https://open.spotify.com/album/5h1PfgxKzIg1GJNcjiPS4w) | 4:00 | 2022-10-25 | 2023-01-13 |
 | [わからんベイベー](https://open.spotify.com/track/3cXhByoaM3MbcFdQmqO60m) | [ソウルベイベーズ](https://open.spotify.com/artist/5jM5C2nC9xsabSYXHylpw2) | [わからんベイベー](https://open.spotify.com/album/0hm2QrSkGzu1e29QHMMjxy) | 3:55 | 2022-03-08 | 2022-03-30 |
 | [わたしの生きる物語](https://open.spotify.com/track/06kv0bfU931FtGMRs9x1Ev) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [わたしの生きる物語](https://open.spotify.com/album/5xE4L1XJgmNEiCcKLZn4cr) | 7:08 | 2022-02-22 | 2022-03-30 |
@@ -599,6 +600,7 @@
 | [笑って透明人間](https://open.spotify.com/track/52d0HV5FhkjQxyWEuHFJ1D) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [光を投げていた](https://open.spotify.com/album/4r9IoFzX6ePXpmTJj5lh2B) | 3:16 | 2022-03-11 | 2022-06-22 |
 | [紫陽花](https://open.spotify.com/track/3dPVqEzUiJ6yXs573CHeWv) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [紫陽花](https://open.spotify.com/album/1u04N7C3ofQvRcYVikvS4b) | 3:56 | 2022-06-30 | 2022-07-27 |
 | [続・青春](https://open.spotify.com/track/1A22XgxDA79Z9oWgP3zpPs) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [続・青春](https://open.spotify.com/album/0QZj5cnYQtrLxTriIfFo7w) | 4:38 | 2022-05-10 | 2022-06-22 |
+| [緋寒桜](https://open.spotify.com/track/5sULK6Cv3JPYLNPhqvgtVh) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [緋寒桜](https://open.spotify.com/album/5eM2SDlq56qbYfuPTrgqsp) | 3:13 | 2023-01-31 |  |
 | [胸騒ぎ \- feat\. Chi\- from カメレオン・ライム・ウーピーパイ](https://open.spotify.com/track/7FHyKWcB49CJK1acgKMhit) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb), [Chi\-](https://open.spotify.com/artist/7xRcaUcszechS0LHtEbt9n), [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [?](https://open.spotify.com/album/4rmjxVcCCC6lD3MGjS8hfq) | 3:03 | 2022-06-28 | 2022-10-26 |
 | [舞台の上で](https://open.spotify.com/track/51SCBTWn7HbmBRPRHNB8Re) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA), [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [舞台の上で](https://open.spotify.com/album/4XYTZrIy61jFCIj0c4IoPB) | 3:38 | 2022-05-03 | 2022-08-05 |
 | [良い男](https://open.spotify.com/track/2g74SClqazB7zd4td7LRcR) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [良い男](https://open.spotify.com/album/56UZYxV2Hcl1wQS0spUrHw) | 3:46 | 2022-02-17 | 2022-03-23 |

@@ -4,7 +4,7 @@
 
 > The best in new punk rock music\. Cover: Sleaford Mods
 
-88 songs - 4 hr 27 min
+90 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [6L GTR](https://open.spotify.com/track/2mTppXqXhmlp08A8fwNSWm) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [Get Fucked](https://open.spotify.com/album/2TgXc0KeZDRjb9AsnSED7M) | 2:05 | 2022-12-02 |  |
 | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 2:21 | 2022-12-02 |  |
 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 | 2022-12-02 |  |
-| [All Time Low](https://open.spotify.com/track/2doVrBF6j5OVmMLBRUUlY1) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [All Time Low](https://open.spotify.com/album/3b7ouHo79oaBpEnrI2BHqx) | 2:36 | 2022-12-02 |  |
+| [All Time Low](https://open.spotify.com/track/2doVrBF6j5OVmMLBRUUlY1) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [All Time Low](https://open.spotify.com/album/3b7ouHo79oaBpEnrI2BHqx) | 2:36 | 2022-12-02 | 2023-02-01 |
 | [Always Lose](https://open.spotify.com/track/6mvZ1pGBRc4Q3KeXQJUGss) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Always Lose](https://open.spotify.com/album/5lh1VO9fp2wdxzW7DSV7YI) | 3:07 | 2022-12-02 |  |
 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 | 2022-12-02 |  |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-12-02 |  |
@@ -67,7 +67,7 @@
 | [Moto](https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [punkadonk](https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR) | 2:45 | 2022-12-02 |  |
 | [New England](https://open.spotify.com/track/5zbKXMod7hqor3gJH72enV) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Here’s What You Could Have Won](https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8) | 3:38 | 2022-12-02 |  |
 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 | 2022-12-02 | 2023-01-19 |
-| [No One to Judge Me](https://open.spotify.com/track/3caRPcZ7eOYhxvgIsiVEQe) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings \(Deluxe\)](https://open.spotify.com/album/01qHqKXqAp9103BTmj4J1A) | 2:41 | 2022-12-02 |  |
+| [No One to Judge Me](https://open.spotify.com/track/3caRPcZ7eOYhxvgIsiVEQe) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings \(Deluxe\)](https://open.spotify.com/album/01qHqKXqAp9103BTmj4J1A) | 2:41 | 2022-12-02 | 2023-02-01 |
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-12-02 |  |
 | [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 | 2022-12-02 |  |
 | [Paying The Price](https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Paying The Price](https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w) | 2:40 | 2022-12-02 |  |
@@ -76,6 +76,7 @@
 | [Reset My Password](https://open.spotify.com/track/7GipCwr5UKD9qtjr15UBMz) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Reset My Password](https://open.spotify.com/album/5dj8uEetIgU9k9GSTTyYdB) | 2:50 | 2022-12-02 |  |
 | [Rob the Supermarket](https://open.spotify.com/track/2fNNsux1O634IqSVMVzoMJ) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Rob the Supermarket](https://open.spotify.com/album/5v6y4D4NWc0j7teG6ZJO9h) | 2:14 | 2022-12-02 |  |
 | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/track/0g4Nl4tH0jef0wApjV5sfH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Deryck Whibley](https://open.spotify.com/artist/4qJK4cVUMM04auRU8oa4bf) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:19 | 2022-12-02 |  |
+| [SELF\-SABOTAGE](https://open.spotify.com/track/34KYsYoTRXMU0MBcfBvJha) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE \(MC4D Remix\)](https://open.spotify.com/album/48OpJKI9yOfcynQX2mpkN3) | 2:37 | 2023-01-18 |  |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE](https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf) | 2:37 | 2022-12-02 | 2023-01-30 |
 | [serotonin](https://open.spotify.com/track/7j1nFsNOimv0aj6CcLIsTj) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/3VuJ9cyJWBvjQ8TxbJGrge) | 3:03 | 2022-12-02 |  |
 | [Silence Is Golden](https://open.spotify.com/track/7m3Lu7PUKNDJ2HgvrAKME9) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 2:56 | 2022-12-02 |  |
@@ -87,6 +88,7 @@
 | [Taste the Money](https://open.spotify.com/track/44x9fOlJM1CNDIBpOOEJIq) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Taste the Money](https://open.spotify.com/album/3bwDKAW6IgigIg1cfUBMQX) | 2:35 | 2022-12-02 |  |
 | [Teenage Runaways](https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [The King and Queen of Gasoline](https://open.spotify.com/album/1a3S2I3J4LcmAoj5ttDaoP) | 2:59 | 2022-12-02 |  |
 | [The Delicate Nature](https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Laurie Vincent](https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV) | [The Delicate Nature](https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY) | 3:02 | 2022-12-02 |  |
+| [Theme New Bond Junior](https://open.spotify.com/track/3QSLPOHU1HivuqFIdgMrCT) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [Theme New Bond Junior](https://open.spotify.com/album/2umO2RvsX15NOzjeBluuEx) | 3:16 | 2023-01-18 |  |
 | [Tom in 03](https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Tom in 03](https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w) | 2:21 | 2023-01-18 |  |
 | [Totally Fine](https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:43 | 2022-12-02 |  |
 | [Troglodyte](https://open.spotify.com/track/57cpSE96L3Zz6LgIftPdC9) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Troglodyte](https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG) | 3:19 | 2022-12-02 |  |

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSgM16hVIBq6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSgM16hVIBq6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSgM16hVIBq6)
 
-### [Fiesta con Sabor](https://open.spotify.com/playlist/37i9dQZF1DWSgM16hVIBq6)
+### [SABOR](https://open.spotify.com/playlist/37i9dQZF1DWSgM16hVIBq6)
 
-> Hora de bailar con esta fiesta tropical\. Dance the night away with your favorite tropical tunes.
+> Tira los pasos prohibidos\. Dance the night away with your favorite tropical tunes.
 
-185 songs - 13 hr 14 min
+186 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Dile A Ella](https://open.spotify.com/track/45nyOQWvhjn9bfAoTIKCuJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:05 | 2022-02-05 |  |
 | [Dividimos \(Bachata Version\)](https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [Dividimos](https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX) | 4:40 | 2022-02-05 |  |
 | [El Baile del Beeper \(Version Mexico\)](https://open.spotify.com/track/2qBNmCtprsZoCfpE0dR8xR) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:49 | 2022-02-05 | 2022-10-26 |
-| [El Baile del Beeper \- Version Mexico](https://open.spotify.com/track/3LPRCFmqXUilyKIOT0EYDN) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/6FHozfvoQ11QmsvbulUNlo) | 4:49 | 2022-08-17 |  |
+| [El Baile del Beeper \- Version Mexico](https://open.spotify.com/track/3LPRCFmqXUilyKIOT0EYDN) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/6FHozfvoQ11QmsvbulUNlo) | 4:49 | 2022-08-17 | 2023-02-01 |
 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 | 2022-02-05 |  |
 | [El Baile del Sua Sua](https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [Vida](https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9) | 4:53 | 2022-02-05 |  |
 | [El Cantante](https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6) | 10:26 | 2022-02-05 |  |
@@ -151,6 +151,7 @@
 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 | 2022-02-05 | 2022-11-13 |
 | [Pepas \(Version Merengue\)](https://open.spotify.com/track/1ojTU4PABAOr5i3IaW7RhZ) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Miguel Moly](https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8) | [Pepas \(Version Merengue\)](https://open.spotify.com/album/6ZTrk7RDsxy5jfaItGProy) | 2:30 | 2022-02-05 | 2022-07-29 |
 | [Periódico De Ayer](https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:49 | 2022-02-05 |  |
+| [Procura](https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:31 | 2023-02-01 |  |
 | [Píntame](https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Pintame](https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB) | 4:19 | 2022-02-05 |  |
 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 | 2022-02-05 |  |
 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 | 2022-02-05 |  |

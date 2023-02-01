@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-181 songs - 8 hr 39 min
+182 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [The Happy Song](https://open.spotify.com/track/4Gff2OwBKosT5PXywhKY7y) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [The Happy Song](https://open.spotify.com/album/2YwBgrSHhQuPN9aXW6QpBA) | 2:37 | 2022-04-15 | 2022-07-29 |
 | [The Happy Song](https://open.spotify.com/track/6snoOAATGyud5oaIT9gwws) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [The Happy Song](https://open.spotify.com/album/4JmrIJbpHWHZxOJg4awGh4) | 2:37 | 2022-04-15 |  |
 | [The Kazoo Song](https://open.spotify.com/track/2uNIzuuNDm3oxPskZpMruK) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [You Could Draw the Album Art!](https://open.spotify.com/album/0K1YZBKZRNAPBuTeghnPeO) | 3:48 | 2022-04-15 |  |
+| [The Knowing \- From the Ani DiFranco Children's Book: The Knowing](https://open.spotify.com/track/72BkZqFQXtHrd1Ixd2J5kV) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [The Knowing \(From the Ani DiFranco Children's Book: The Knowing\)](https://open.spotify.com/album/5PVaE6TIUj8YbRns0b4m7T) | 5:11 | 2023-01-31 |  |
 | [The Leader in You](https://open.spotify.com/track/3B97oNjqSAiuI8jz3WFIzC) | [Esther Crow](https://open.spotify.com/artist/1ToMAIY060vU2Fi0MCq9ph), [Father Goose Music](https://open.spotify.com/artist/4QiBm9o4KgZFBypg4K6zDZ) | [The Leader in You](https://open.spotify.com/album/6CURB2I8LQ5XaBGsmUiPPn) | 3:19 | 2023-01-27 |  |
 | [The One & Only You](https://open.spotify.com/track/4Lo1eKuauvApkJWuFu0asM) | [The Juicebox Jukebox](https://open.spotify.com/artist/5E97AmvYFM4aGWCOtJkzYH) | [Now Hear This!](https://open.spotify.com/album/2cYNQhLqOi3bjGUqhfu34q) | 3:41 | 2022-04-15 |  |
 | [The Quilt](https://open.spotify.com/track/6ZAxA6ynOJJqspvuv0gsFv) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu), [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Be the Change](https://open.spotify.com/album/1i8Y0fVUR0UyUQAsxkmQ42) | 1:53 | 2022-04-15 |  |

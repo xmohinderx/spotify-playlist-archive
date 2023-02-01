@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-670 songs - 1 day 20 hr 39 min
+672 songs - 1 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [from the edge](https://open.spotify.com/track/1HXRps6gmF8yMZPsJ6n9Zk) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [from the edge](https://open.spotify.com/album/6k8gWO2UT7VTHRGULu5xp7) | 4:38 | 2022-06-07 | 2022-07-29 |
 | [from the edge](https://open.spotify.com/track/1acwOlcOCrr0AxdyMS8fEm) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [from the edge](https://open.spotify.com/album/6Momtl3Eyp2g40MQU0r0I8) | 4:38 | 2022-06-07 |  |
 | [From The Seeds](https://open.spotify.com/track/7rv0QQvLHZH8wvJIZ1gO3G) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [From The Seeds](https://open.spotify.com/album/0PQ1rfMi5f98NdWILp3NOH) | 3:28 | 2022-06-07 | 2022-07-04 |
+| [FROZEN MIDNIGHT](https://open.spotify.com/track/3vI81nyW6KM3aFHld1BX6K) | [佐久間貴生](https://open.spotify.com/artist/2xTubMhZT8kMqvVsMEV5Mp) | [FROZEN MIDNIGHT](https://open.spotify.com/album/2W2vsABoSxtStk4BnmHWVL) | 3:36 | 2023-01-07 |  |
 | [GIRI GIRI](https://open.spotify.com/track/5RtsmtLsEnwa96TEf56tJQ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [すぅ](https://open.spotify.com/artist/149u0vuCHOv84BU0PfhDXR) | [GIRI GIRI](https://open.spotify.com/album/25IInwsJmKOSgXib6cSYgN) | 4:18 | 2022-06-07 | 2022-10-04 |
 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 | 2022-06-07 |  |
 | [Glitter](https://open.spotify.com/track/4N7q20wGjD32efYY5r9G09) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Glitter](https://open.spotify.com/album/3lSsvZCA16bhwPUgoq7TT3) | 3:20 | 2022-08-11 | 2022-11-13 |
@@ -386,6 +387,7 @@
 | [きみのうた](https://open.spotify.com/track/2HJHRrQdNhU6c2gPh81t6a) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [Re:I](https://open.spotify.com/album/0Aod99RfnJXQXvKphxCNrb) | 6:10 | 2022-06-07 | 2022-07-10 |
 | [きらりらり](https://open.spotify.com/track/4GQjav2jvs9tmbC0KkYtCj) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [きらりらり](https://open.spotify.com/album/7iXTH7HUVN26FCK1RoBiG4) | 3:42 | 2022-10-04 | 2022-11-23 |
 | [きれいだ](https://open.spotify.com/track/7s01ZsNO2vtNuUlBjlo6cI) | [門脇更紗](https://open.spotify.com/artist/0smdS7QS5s0qwhfrXkZaSX) | [きれいだ](https://open.spotify.com/album/5lc6FfVNKMfxzOSdHg6vHJ) | 3:46 | 2022-06-07 | 2022-07-07 |
+| [くらえ!テレパシー](https://open.spotify.com/track/7Jj6eiasbU7LVPXqZKBaNf) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [くらえ!テレパシー](https://open.spotify.com/album/5QPurrlpbc5HWphTwfCG4i) | 2:56 | 2023-01-07 |  |
 | [ここで息をして](https://open.spotify.com/track/1P1PgGMrzIVMju7TOqMGBy) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [ここで息をして](https://open.spotify.com/album/645lnQYZ88qwKJpKnY6bDc) | 3:36 | 2022-06-07 | 2022-07-29 |
 | [ここで生きてる](https://open.spotify.com/track/2vIWfDgMhBpQX6KyEIFMhk) | [MARY](https://open.spotify.com/artist/08EO45FsrKqyDaVHocLjug), [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [ここで生きてる](https://open.spotify.com/album/7tPIq5kHy7oiJGwTFz1EYJ) | 3:22 | 2022-06-07 | 2022-07-28 |
 | [この夢が醒めるまで](https://open.spotify.com/track/7i6gJOOf0oDDYW9xOyVjmN) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yoshida Brothers](https://open.spotify.com/artist/1C08PKH51P2fcJMrPOFRwI) | [この夢が醒めるまで](https://open.spotify.com/album/34JbQD8aevlVqawJdBkzHb) | 4:13 | 2022-06-07 | 2022-07-23 |
@@ -551,8 +553,8 @@
 | [回夏](https://open.spotify.com/track/5IW6VmYrOkkn7o6L49AEUD) | [cadode](https://open.spotify.com/artist/67zlAHPEzkbMQrkdC8QwPr) | [回夏](https://open.spotify.com/album/76zhJ0X2tZPg36SYK9XHgI) | 3:34 | 2022-06-07 | 2022-07-29 |
 | [堕天](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 | 2022-08-11 | 2022-10-04 |
 | [境界線](https://open.spotify.com/track/48JYYEXKNZdXuDdZvkRvaQ) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [境界線](https://open.spotify.com/album/3jWfbgOoP63UgFKTSaQrsl) | 4:53 | 2022-06-07 |  |
-| [声?](https://open.spotify.com/track/00EAiVX99rZ4rlYFLItPcC) | [はてな](https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM) | [声?](https://open.spotify.com/album/6wbxrXya4hrgjELtSpgGaG) | 4:07 | 2022-06-07 |  |
-| [夏の雪](https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [夏の雪](https://open.spotify.com/album/2O7PwmRoBvdiC6o2VUN5tj) | 4:42 | 2022-11-22 |  |
+| [声?](https://open.spotify.com/track/00EAiVX99rZ4rlYFLItPcC) | [はてな](https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM) | [声?](https://open.spotify.com/album/6wbxrXya4hrgjELtSpgGaG) | 4:07 | 2022-06-07 | 2023-02-01 |
+| [夏の雪](https://open.spotify.com/track/4SJnBgbqNliUIfxigwQBcS) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [夏の雪](https://open.spotify.com/album/2O7PwmRoBvdiC6o2VUN5tj) | 4:42 | 2022-11-22 | 2023-02-01 |
 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 | 2022-06-07 |  |
 | [夜を越える足音](https://open.spotify.com/track/2qzyRmRuv0yEJIjkaAM4PJ) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [夜を越える足音](https://open.spotify.com/album/0eAda36lcD3khZ6HgsPlVL) | 3:29 | 2022-06-07 | 2022-07-29 |
 | [夢ならいいのに \- LUPIN THE THIRD JAM Remixed by YUC'e](https://open.spotify.com/track/3trDDFEgtDSKB0jKP1h4TA) | [LUPIN THE THIRD JAM CREW](https://open.spotify.com/artist/456hbu6d4Jcfdo1xWH5iJc), [YUC'e](https://open.spotify.com/artist/0jP8a2o9Mw5qYoUz1SnQ2A) | [夢ならいいのに \- LUPIN THE THIRD JAM Remixed by YUC'e](https://open.spotify.com/album/61F5JVKzCzupihtfq51T3k) | 3:57 | 2022-06-07 | 2022-07-23 |

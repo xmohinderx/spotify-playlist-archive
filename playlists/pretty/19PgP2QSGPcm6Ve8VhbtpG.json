@@ -1,29 +1,13 @@
 {
   "description": "The best of the 1980s from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more.",
-  "num_followers": 2458623,
+  "num_followers": 2458357,
   "original_name": "80s Hits | Top 100 Songs",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MjczOSw4M2NmMTM3NjdlYjg2MDI5N2YwMzZmN2Q3YTA3YjdkY2ZlY2FjMTg5",
+  "snapshot_id": "Mjc0MixjYWZlNWFlODlkZjUzNWJhMzA4ODk3NTgzZTgwNTJmM2M1ZDliMzgx",
   "tracks": [
-    {
-      "added_at": "2023-01-19 15:24:26",
-      "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293826,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
-    },
     {
       "added_at": "2023-01-19 15:24:26",
       "album": {
@@ -55,6 +39,38 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2023-01-19 15:24:26",
+      "album": {
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
+    },
+    {
+      "added_at": "2023-01-19 15:24:26",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 293826,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
     },
     {
       "added_at": "2023-01-19 15:24:26",
@@ -103,22 +119,6 @@
       "duration_ms": 243773,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
-    },
-    {
-      "added_at": "2023-01-19 15:24:26",
-      "album": {
-        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
-      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
     },
     {
       "added_at": "2023-01-19 15:44:31",
@@ -1121,7 +1121,7 @@
         }
       ],
       "duration_ms": 219906,
-      "name": "I Ran (So Far Away)",
+      "name": "I Ran (So Far Away) - Single Edit",
       "url": "https://open.spotify.com/track/2Rwux3fRY1xxl167muIo93"
     },
     {

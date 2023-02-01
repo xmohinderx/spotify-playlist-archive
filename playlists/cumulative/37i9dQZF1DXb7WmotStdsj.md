@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-133 songs - 10 hr 45 min
+134 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Célibataire Taajabni](https://open.spotify.com/track/5b1Ha5pzXLE5t6VjwJnbJz) | [Hbib Himoune](https://open.spotify.com/artist/3SMU7cRz5Li03TpmGncVg6) | [Célibataire Taajabni](https://open.spotify.com/album/73YRT6VgEfaPcS4mRoF2Er) | 5:03 | 2022-09-20 | 2022-12-01 |
 | [Denia keratni \- Va bene](https://open.spotify.com/track/4QpthEgd5SYqlYGPLoCPgU) | [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt) | [Denia Keratni](https://open.spotify.com/album/6LEiREHxVTyoMGiDWWogu0) | 6:39 | 2021-10-19 |  |
 | [Dertlek Jenah](https://open.spotify.com/track/5UhX23goXF4u3FpJcIJq7b) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS), [Tipou Bel Abbes](https://open.spotify.com/artist/5zphaZoZd6AoMtWhatdZJH) | [Dertlek Jenah](https://open.spotify.com/album/5DhQs6mOxSHrVGPrG4Gzxx) | 4:18 | 2022-09-20 |  |
-| [Dima Yesrali](https://open.spotify.com/track/4dnlVlHo17KfhKAcetdkPB) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Dima Yesrali](https://open.spotify.com/album/0LjnnpTnbeZqKwpElPPHKV) | 4:06 | 2021-10-19 |  |
+| [Dima Yesrali](https://open.spotify.com/track/4dnlVlHo17KfhKAcetdkPB) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Dima Yesrali](https://open.spotify.com/album/0LjnnpTnbeZqKwpElPPHKV) | 4:06 | 2021-10-19 | 2023-02-01 |
 | [Eddouh Alia](https://open.spotify.com/track/7MVxzkvw2pc56XIhfMQyT6) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Eddouh Alia](https://open.spotify.com/album/52YxT7QJoDzjXiJw2DulBh) | 4:06 | 2022-09-20 | 2022-12-01 |
 | [Edini B3ida](https://open.spotify.com/track/6DU9DquhwAQMQJ0Pkud1ea) | [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt), [Moh Casanova](https://open.spotify.com/artist/2Gp9AQhiBIp0LI25z2QMm3) | [Edini B3ida](https://open.spotify.com/album/5gxEFRpmHjoGxWvGd7AiBZ) | 3:56 | 2022-09-20 | 2022-10-26 |
 | [Effet De L'Amour](https://open.spotify.com/track/505Hd8gE3feZFRu2TM6I7V) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Effet De L'amour](https://open.spotify.com/album/46n8pHuXoxEm9OdeiYfxSX) | 5:14 | 2023-01-25 |  |
@@ -129,6 +129,7 @@
 | [Ya Galbi 39el Fiha](https://open.spotify.com/track/10T3NyeNu9aP1k89RUwWAp) | [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb), [Houari Ghazali](https://open.spotify.com/artist/2KXXuXgrY1X2RLez2UAVog) | [Ya Galbi 39el Fiha](https://open.spotify.com/album/1sIqXsmvaKG504gDsAkEHF) | 5:12 | 2023-01-28 |  |
 | [YA SAMRA](https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3) | [Cheb Yacin Tigre](https://open.spotify.com/artist/6wuzVpbUB3pwGMMFXWRhUM) | [YA SAMRA](https://open.spotify.com/album/1ISVnwls21aDdB7hZxeYiT) | 3:44 | 2021-10-19 | 2022-07-29 |
 | [Ya Samra Hobek welali jamra](https://open.spotify.com/track/442IWFKIrGrHTVjIrfc3YR) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Ya Samra Hobek welali jamra](https://open.spotify.com/album/2vtIO9E8hCsEOhOoty8OHL) | 3:44 | 2022-05-11 |  |
+| [Yekedbou w ynagrou \- Ysahbou w ydouro](https://open.spotify.com/track/3UYsJqg7fTmOzuxNj1P8wk) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Yekedbou w ynagrou \(Ysahbou w ydouro\)](https://open.spotify.com/album/4HFLzXyuagSkM4TBTGzye1) | 5:59 | 2023-01-30 |  |
 | [Zahri Win Wana Win](https://open.spotify.com/track/7JaAkijrRoUPIeJaLJbLoq) | [Abdou Goumbita](https://open.spotify.com/artist/2c5isiSrNIixIIqPQABwo9) | [Zahri Win Wana Win](https://open.spotify.com/album/7jKeS8lavzWlG7r9DPIGud) | 3:04 | 2022-09-20 | 2022-11-21 |
 | [Zidini 3ich9ane](https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Zidini 3ich9ane](https://open.spotify.com/album/2rzYUYgREivgNksfiK5CWT) | 4:38 | 2021-10-19 |  |
 | [الصغر ما يدوم](https://open.spotify.com/track/4uiZQeOtBPgqspq2eBjEIV) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [الصغر ما يدوم](https://open.spotify.com/album/6zrYBK8X2WIl77dOm7z3mM) | 4:45 | 2022-09-20 | 2022-11-03 |

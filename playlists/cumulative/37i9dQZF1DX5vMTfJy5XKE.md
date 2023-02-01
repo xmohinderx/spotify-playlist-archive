@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-366 songs - 19 hr 14 min
+368 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,8 +333,9 @@
 | [This Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/1CalzG9Lg4X5Y1njQPeQf8) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5iWUd0pLqgRWZpMULl71TN) | 3:08 | 2021-12-24 | 2022-11-12 |
 | [This Is Life \(Merry Christmas\) \[feat\. Daniel Rodriguez\]](https://open.spotify.com/track/42p92UlgLtANV5n3WuthH0) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Daniel Rodriguez](https://open.spotify.com/artist/57Wn64RH6FvI5gu9bdbXIp) | [This Is Life \(Merry Christmas\) \[feat\. Daniel Rodriguez\]](https://open.spotify.com/album/0KKT9451Zua4X0qRdjMqNU) | 2:56 | 2021-12-24 | 2022-07-28 |
 | [This is Life \(Merry Christmas\) feat\. Daniel Rodriguez](https://open.spotify.com/track/6lTGp4pU9BAC90y2boBHlC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Daniel Rodriguez](https://open.spotify.com/artist/57Wn64RH6FvI5gu9bdbXIp) | [This is Life \(Merry Christmas\) feat\. Daniel Rodriguez](https://open.spotify.com/album/43EEE2j8LTSfwkLAqBj2VR) | 2:56 | 2021-12-24 | 2022-09-28 |
+| [This Year](https://open.spotify.com/track/2UD9YSRuWLAJuCKP50dXaM) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [A Crazy Confetti Christmas](https://open.spotify.com/album/2FN4sRJ0ewbIkwzxbQvJQB) | 2:12 | 2022-12-02 |  |
 | [This Year](https://open.spotify.com/track/4qfKdJO2DNS7xPwQgy78ji) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [This Year](https://open.spotify.com/album/6TYFFAcE5IWeqVMrwxdhDd) | 3:14 | 2022-12-09 |  |
-| [This Year \(feat\. gnash\)](https://open.spotify.com/track/5Jve5mEHo2a4vSyLfpHYlN) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [This Year \(feat\. gnash\)](https://open.spotify.com/album/7yba1GFVRBGLyBZAnwDOoh) | 2:12 | 2022-12-02 |  |
+| [This Year \(feat\. gnash\)](https://open.spotify.com/track/5Jve5mEHo2a4vSyLfpHYlN) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [This Year \(feat\. gnash\)](https://open.spotify.com/album/7yba1GFVRBGLyBZAnwDOoh) | 2:12 | 2022-12-02 | 2023-02-01 |
 | [This Year For Christmas](https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [This Year For Christmas](https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo) | 1:52 | 2021-12-24 | 2022-09-28 |
 | [Tinsel In The River](https://open.spotify.com/track/73A3CJxM2cHSvqLsPzjvuv) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Tinsel In The River](https://open.spotify.com/album/1p9fZvlA7NCVyxHIsmvefM) | 2:49 | 2021-12-24 | 2022-09-28 |
 | [Tis The Season](https://open.spotify.com/track/1FyYqRWeCWiO5jfY2BiGvs) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Tis The Season](https://open.spotify.com/album/7yftpLeSwkbgPFVVJ2TgtV) | 2:45 | 2021-12-24 | 2022-09-15 |
@@ -343,7 +344,8 @@
 | [two christmases](https://open.spotify.com/track/4VwgQEJtPLh91KOSudzCtS) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [two christmases](https://open.spotify.com/album/364lYUcGHWq5Mk2h5NMHSM) | 2:22 | 2022-10-23 |  |
 | [Under the Mistletoe \(with Kendra Jae\)](https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:51 | 2022-11-19 |  |
 | [Underneath The Tree](https://open.spotify.com/track/1xfBmQkjurAYQMXEyPnDAA) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Underneath The Tree](https://open.spotify.com/album/3mIY6ZvlE41XkHusX8ypdg) | 3:19 | 2021-12-24 | 2022-07-29 |
-| [Very Merry Christmas](https://open.spotify.com/track/4W0AMs5hHgRXC8gNgWriDc) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Very Merry Christmas](https://open.spotify.com/album/6vSn9jm97EwAL2BBfAYt4D) | 2:28 | 2022-11-18 |  |
+| [Very Merry Christmas](https://open.spotify.com/track/2ohY4mWfX09o4B8zAn5Kub) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [A Crazy Confetti Christmas](https://open.spotify.com/album/2FN4sRJ0ewbIkwzxbQvJQB) | 2:28 | 2022-11-18 |  |
+| [Very Merry Christmas](https://open.spotify.com/track/4W0AMs5hHgRXC8gNgWriDc) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Very Merry Christmas](https://open.spotify.com/album/6vSn9jm97EwAL2BBfAYt4D) | 2:28 | 2022-11-18 | 2023-02-01 |
 | [Viva La Navidad](https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:37 | 2022-11-11 |  |
 | [Waiting On A Miracle](https://open.spotify.com/track/2P59qa8ZlfJVjzKDbq5YQH) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [Waiting On A Miracle](https://open.spotify.com/album/2azuAWPuD65l91vwJDZ0PC) | 2:23 | 2022-11-25 |  |
 | [Walking in The Air](https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Walking in The Air](https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51) | 3:59 | 2022-12-09 |  |

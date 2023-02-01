@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 40517,
+  "num_followers": 40686,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDg0OTEwOCwwMDAwMDAwMDRiZGZjYjA4NDgxMWRmMTEzMDRjNjk5ODJhZWRjMjE1",
+  "snapshot_id": "MTY3NDg0OTEwOCwwMDAwMDAwMDFkZWFlNDNlN2FhZmNlZDYxYjdjNDdkZDhhYWU1NTc3",
   "tracks": [
     {
       "added_at": "2023-01-27 19:51:48",
@@ -107,18 +107,22 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -171,22 +175,18 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 185038,
-      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "Sensaciones",
-        "url": "https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9"
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
       },
       "artists": [
         {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "duration_ms": 68733,
-      "name": "86.400",
-      "url": "https://open.spotify.com/track/3AncVybdw2UmiT8ulIGScN"
+      "duration_ms": 206611,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
+        "name": "Sensaciones",
+        "url": "https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
         }
       ],
-      "duration_ms": 206611,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
+      "duration_ms": 68733,
+      "name": "86.400",
+      "url": "https://open.spotify.com/track/3AncVybdw2UmiT8ulIGScN"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "Flecha",
-        "url": "https://open.spotify.com/album/6ppWzVBtrtH6Pfzkz1gx9V"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 233826,
-      "name": "Flecha",
-      "url": "https://open.spotify.com/track/6XtOM0xVBmhjX8mRkrWo9z"
-    },
-    {
-      "added_at": "2023-01-27 19:51:48",
-      "album": {
         "name": "Ojitos de Aceituna",
         "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
       },
@@ -555,18 +535,22 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "De todas las flores",
-        "url": "https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP"
+        "name": "Flecha",
+        "url": "https://open.spotify.com/album/6ppWzVBtrtH6Pfzkz1gx9V"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 322013,
-      "name": "De todas las flores",
-      "url": "https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS"
+      "duration_ms": 233826,
+      "name": "Flecha",
+      "url": "https://open.spotify.com/track/6XtOM0xVBmhjX8mRkrWo9z"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -607,6 +591,22 @@
       "duration_ms": 251760,
       "name": "Quer\u00eda Volverte a Ver",
       "url": "https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE"
+    },
+    {
+      "added_at": "2023-01-27 19:51:48",
+      "album": {
+        "name": "De todas las flores",
+        "url": "https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "De todas las flores",
+      "url": "https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "ULYSE",
-        "url": "https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Timidez (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n"
-    },
-    {
-      "added_at": "2023-01-27 19:51:48",
-      "album": {
         "name": "Si Volviera A Nacer",
         "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
@@ -895,6 +875,26 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
+        "name": "ULYSE",
+        "url": "https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Timidez (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n"
+    },
+    {
+      "added_at": "2023-01-27 19:51:48",
+      "album": {
         "name": "Lugares Imaginarios",
         "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "Dimittas",
-        "url": "https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Craft",
-          "url": "https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb"
-        }
-      ],
-      "duration_ms": 167023,
-      "name": "Sue\u0301ltate",
-      "url": "https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD"
-    },
-    {
-      "added_at": "2023-01-27 19:51:48",
-      "album": {
         "name": "Para Verte",
         "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "Caguamita Banquetera",
-        "url": "https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG"
+        "name": "Dimittas",
+        "url": "https://open.spotify.com/album/301lHhRg57m4Niqk7He8XJ"
       },
       "artists": [
         {
-          "name": "David de la Luz",
-          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+          "name": "Daniel Craft",
+          "url": "https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb"
         }
       ],
-      "duration_ms": 155651,
-      "name": "Caguamita Banquetera",
-      "url": "https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj"
+      "duration_ms": 167023,
+      "name": "Sue\u0301ltate",
+      "url": "https://open.spotify.com/track/7s0JfAkPxdB6BUzd7GEEiD"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -1027,6 +1011,22 @@
       "duration_ms": 183043,
       "name": "Querernos Bien",
       "url": "https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2"
+    },
+    {
+      "added_at": "2023-01-27 19:51:48",
+      "album": {
+        "name": "Caguamita Banquetera",
+        "url": "https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG"
+      },
+      "artists": [
+        {
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+        }
+      ],
+      "duration_ms": 155651,
+      "name": "Caguamita Banquetera",
+      "url": "https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
+        "name": "Autom\u00e1tico",
+        "url": "https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI"
+      },
+      "artists": [
+        {
+          "name": "Juan Solo",
+          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Autom\u00e1tico",
+      "url": "https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl"
+    },
+    {
+      "added_at": "2023-01-27 19:51:48",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
-        "name": "Autom\u00e1tico",
-        "url": "https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI"
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7"
       },
       "artists": [
         {
-          "name": "Juan Solo",
-          "url": "https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 186826,
-      "name": "Autom\u00e1tico",
-      "url": "https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl"
+      "duration_ms": 190006,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -1119,22 +1135,6 @@
       "duration_ms": 186883,
       "name": "A Mi Ritmo",
       "url": "https://open.spotify.com/track/51h83YT521kYxTLng0FyRv"
-    },
-    {
-      "added_at": "2023-01-27 19:51:48",
-      "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 190006,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-01-27 19:51:48",
       "album": {
+        "name": "AMOR MINIMAL",
+        "url": "https://open.spotify.com/album/0OACOxBHoNzyA36x7au0bo"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 207436,
+      "name": "AMOR MINIMAL",
+      "url": "https://open.spotify.com/track/3gydgoR0OGDNJNhkY0337b"
+    },
+    {
+      "added_at": "2023-01-27 19:51:48",
+      "album": {
         "name": "Ir por un Caf\u00e9",
         "url": "https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 200000,
       "name": "Ir por un Caf\u00e9",
       "url": "https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP"
-    },
-    {
-      "added_at": "2023-01-27 19:51:48",
-      "album": {
-        "name": "Una Canci\u00f3n Para Los Dos",
-        "url": "https://open.spotify.com/album/3m9KP8yiPs0em8Jndtn2i1"
-      },
-      "artists": [
-        {
-          "name": "Erich",
-          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
-        }
-      ],
-      "duration_ms": 153074,
-      "name": "Una Canci\u00f3n Para Los Dos",
-      "url": "https://open.spotify.com/track/7qr0qTJuOw83eg3CXQP2Xi"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -1243,6 +1243,22 @@
       "duration_ms": 263906,
       "name": "Para la Eternidad",
       "url": "https://open.spotify.com/track/7irtPPH6Jdb4n8dh2DRCFy"
+    },
+    {
+      "added_at": "2023-01-27 19:51:48",
+      "album": {
+        "name": "Una Canci\u00f3n Para Los Dos",
+        "url": "https://open.spotify.com/album/3m9KP8yiPs0em8Jndtn2i1"
+      },
+      "artists": [
+        {
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
+        }
+      ],
+      "duration_ms": 153074,
+      "name": "Una Canci\u00f3n Para Los Dos",
+      "url": "https://open.spotify.com/track/7qr0qTJuOw83eg3CXQP2Xi"
     },
     {
       "added_at": "2023-01-27 19:51:48",
@@ -1291,22 +1307,6 @@
       "duration_ms": 236013,
       "name": "La Del Campo De Fresas",
       "url": "https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG"
-    },
-    {
-      "added_at": "2023-01-27 19:51:48",
-      "album": {
-        "name": "En Lo Que Llega La Primavera",
-        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 251199,
-      "name": "Como una Flecha",
-      "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
     }
   ],
   "unique_name": "cursi",

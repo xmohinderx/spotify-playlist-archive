@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: YE\u0418DRY",
-  "num_followers": 748970,
+  "num_followers": 748957,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA4NzM1NCwwMDAwMDAwMDkyM2I3ODE3YmJlZjZlMTA3ZGYzOTUxOTE3MjY1Njlk",
+  "snapshot_id": "MTY3NDA4NzM1NCwwMDAwMDAwMGE0YTBkNmE4MzM0ZjYwYzljNjVkMGI1YWNjNGI3ZmZh",
   "tracks": [
     {
       "added_at": "2023-01-19 00:15:54",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "mix pa llorar en tu cuarto",
         "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 207400,
       "name": "Fuentes de Ortiz",
       "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 307151,
-      "name": "Nights",
-      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -259,6 +243,22 @@
       "duration_ms": 268717,
       "name": "Dandelions - slowed + reverb",
       "url": "https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 307151,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "NO HAY LEY",
-        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "NO HAY LEY",
-      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 150027,
       "name": "MALAMENTE - Cap.1: Augurio",
       "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "NO HAY LEY",
+        "url": "https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "NO HAY LEY",
+      "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 157647,
       "name": "PLAYA PRIVADA",
       "url": "https://open.spotify.com/track/2OF2V1JvNjOCOjhnIdfh3L"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 165320,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+        "name": "Ivory (Marfil)",
+        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 188520,
-      "name": "Want Want",
-      "url": "https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah"
+      "duration_ms": 168828,
+      "name": "Archetype",
+      "url": "https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Ivory (Marfil)",
-        "url": "https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 168828,
-      "name": "Archetype",
-      "url": "https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN"
+      "duration_ms": 188520,
+      "name": "Want Want",
+      "url": "https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -691,6 +691,26 @@
       "duration_ms": 240653,
       "name": "Will I See You Again?",
       "url": "https://open.spotify.com/track/0gzDu0smnvgwslqwOiQ8f1"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "Bad Life (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/0K02o2ZV5UCJbbCw67FtaY"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -791,26 +811,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Bad Life (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/0K02o2ZV5UCJbbCw67FtaY"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Cosas De La Vida",
         "url": "https://open.spotify.com/album/37PlSJaDNBVPHnsqhFqfK4"
       },
@@ -823,26 +823,6 @@
       "duration_ms": 164143,
       "name": "Cosas De La Vida",
       "url": "https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
-        "name": "Last One",
-        "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
-      },
-      "artists": [
-        {
-          "name": "Savannah R\u00e9",
-          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
-        },
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 181823,
-      "name": "Last One",
-      "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -867,6 +847,26 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
+        "name": "Last One",
+        "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        },
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 181823,
+      "name": "Last One",
+      "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
         "name": "Si nos vamos",
         "url": "https://open.spotify.com/album/4KtiEBfQhipRwX7jzaSdLJ"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 166750,
       "name": "Si nos vamos",
       "url": "https://open.spotify.com/track/1PssPMY2c6vBIdfipUMR3X"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
-        "name": "In the Essence",
-        "url": "https://open.spotify.com/album/04ftEPqjtbQNpRqsUYdu6R"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "In the Essence",
-      "url": "https://open.spotify.com/track/0MhxLAfnXrgKqL9V7VAaj4"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -931,6 +915,22 @@
       "duration_ms": 153732,
       "name": "Odio",
       "url": "https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "In the Essence",
+        "url": "https://open.spotify.com/album/04ftEPqjtbQNpRqsUYdu6R"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "In the Essence",
+      "url": "https://open.spotify.com/track/0MhxLAfnXrgKqL9V7VAaj4"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
-      },
-      "artists": [
-        {
-          "name": "Destiny Rogers",
-          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "EL SUR",
         "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
       },
@@ -1107,6 +1091,38 @@
       "duration_ms": 218803,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
+      },
+      "artists": [
+        {
+          "name": "Destiny Rogers",
+          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Frekes",
+        "url": "https://open.spotify.com/album/55NHIcm8F6nBjXnILMX6h8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "duration_ms": 202393,
+      "name": "Frekes",
+      "url": "https://open.spotify.com/track/1bmc5LVO2Bo2zWXQY9wV7A"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1159,22 +1175,6 @@
       "duration_ms": 242373,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
-        "name": "Frekes",
-        "url": "https://open.spotify.com/album/55NHIcm8F6nBjXnILMX6h8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Zuko",
-          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-        }
-      ],
-      "duration_ms": 202393,
-      "name": "Frekes",
-      "url": "https://open.spotify.com/track/1bmc5LVO2Bo2zWXQY9wV7A"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1279,22 +1279,22 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Fresh Water",
-        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
+        "name": "TEK",
+        "url": "https://open.spotify.com/album/56q5LmxtmHhdiPQ4w4EXJA"
       },
       "artists": [
         {
-          "name": "PAM\u00c9",
-          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+          "name": "DEVA",
+          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
         },
         {
-          "name": "Floyd Fuji",
-          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
         }
       ],
-      "duration_ms": 157010,
-      "name": "Fresh Water",
-      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
+      "duration_ms": 163809,
+      "name": "TEK",
+      "url": "https://open.spotify.com/track/1OmTOjoKCxury3uR767fQO"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1311,6 +1311,26 @@
       "duration_ms": 199280,
       "name": "DOLORES",
       "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Fresh Water",
+        "url": "https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH"
+      },
+      "artists": [
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        },
+        {
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+        }
+      ],
+      "duration_ms": 157010,
+      "name": "Fresh Water",
+      "url": "https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1339,26 +1359,6 @@
       "duration_ms": 196764,
       "name": "Los Gatos",
       "url": "https://open.spotify.com/track/4S7W08Iiv31ukWIwkXH1NS"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
-        "name": "TEK",
-        "url": "https://open.spotify.com/album/56q5LmxtmHhdiPQ4w4EXJA"
-      },
-      "artists": [
-        {
-          "name": "DEVA",
-          "url": "https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "TEK",
-      "url": "https://open.spotify.com/track/1OmTOjoKCxury3uR767fQO"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
+        "name": "Kat & Alex Side A",
+        "url": "https://open.spotify.com/album/0rkSr5p4PVGM4Vss9hrpzY"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "I Want It All - Spanglish Version",
+      "url": "https://open.spotify.com/track/53XHn6nINYUtSeZgRvx4uT"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
         "name": "La Cumbia Del Cucuy",
         "url": "https://open.spotify.com/album/5QjrzT90PTonA3ZdYGQTB1"
       },
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Kat & Alex Side A",
-        "url": "https://open.spotify.com/album/0rkSr5p4PVGM4Vss9hrpzY"
-      },
-      "artists": [
-        {
-          "name": "Kat & Alex",
-          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "I Want It All - Spanglish Version",
-      "url": "https://open.spotify.com/track/53XHn6nINYUtSeZgRvx4uT"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Last Spa on Earth",
         "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 185350,
       "name": "XO",
       "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/5i8Yd6aBBLXluRugSLTlhb"
+      },
+      "artists": [
+        {
+          "name": "Jaylon Ashaun",
+          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
+        }
+      ],
+      "duration_ms": 120106,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/25ivNqkoHQ3zv4LWRe1oef"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "DIME ALI",
-        "url": "https://open.spotify.com/album/441IjxVcMUJPFzW0o7phea"
-      },
-      "artists": [
-        {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
-        }
-      ],
-      "duration_ms": 161509,
-      "name": "DIME ALI",
-      "url": "https://open.spotify.com/track/4A2qmxbGbkNSeY5MLDyyft"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Trebol",
         "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
       },
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Focus",
-        "url": "https://open.spotify.com/album/5i8Yd6aBBLXluRugSLTlhb"
+        "name": "DIME ALI",
+        "url": "https://open.spotify.com/album/441IjxVcMUJPFzW0o7phea"
       },
       "artists": [
         {
-          "name": "Jaylon Ashaun",
-          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
         }
       ],
-      "duration_ms": 120106,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/25ivNqkoHQ3zv4LWRe1oef"
+      "duration_ms": 161509,
+      "name": "DIME ALI",
+      "url": "https://open.spotify.com/track/4A2qmxbGbkNSeY5MLDyyft"
     },
     {
       "added_at": "2023-01-19 00:15:54",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-01-19 00:15:54",
       "album": {
-        "name": "Chiki Bomb\u00f3n",
-        "url": "https://open.spotify.com/album/1WEGwNXItdSQ4FubJpfzMn"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 122768,
-      "name": "Chiki Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/0nfsrNIB814CthJad7fBth"
-    },
-    {
-      "added_at": "2023-01-19 00:15:54",
-      "album": {
         "name": "Apple",
         "url": "https://open.spotify.com/album/4E2SOsnj6v1tGlWOZGNbCK"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 204467,
       "name": "Apple",
       "url": "https://open.spotify.com/track/7CBlZqB7b1AcXksVCoiWZX"
+    },
+    {
+      "added_at": "2023-01-19 00:15:54",
+      "album": {
+        "name": "Chiki Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/1WEGwNXItdSQ4FubJpfzMn"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 122768,
+      "name": "Chiki Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/0nfsrNIB814CthJad7fBth"
     },
     {
       "added_at": "2023-01-19 00:15:54",

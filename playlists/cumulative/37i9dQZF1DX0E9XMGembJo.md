@@ -4,7 +4,7 @@
 
 > your daily dose of dopamine
 
-476 songs - 1 day 2 hr 10 min
+477 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,13 +387,14 @@
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2022-04-01 | 2022-04-19 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-12-29 | 2022-07-29 |
 | [Solar Power \- Spotify Singles](https://open.spotify.com/track/2JrkrX1MMmqpwfve5El6Re) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Spotify Singles](https://open.spotify.com/album/4HpaTUThM0f9DhH7XJRXzZ) | 2:53 | 2022-04-14 | 2022-07-29 |
-| [Some](https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Some](https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh) | 1:58 | 2022-03-25 |  |
+| [Some](https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Some](https://open.spotify.com/album/4POiurFeB5bDsF9yBwOxbh) | 1:58 | 2022-03-25 | 2023-02-01 |
 | [Someone To You](https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Empires On Fire](https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth) | 3:39 | 2022-03-25 | 2022-03-28 |
 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2022-04-01 | 2022-04-19 |
 | [Song From Hell](https://open.spotify.com/track/4uBl38yXhlcQoko7Hlgqnf) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Song From Hell](https://open.spotify.com/album/4Fwut2TN000rfci3Cyj7lL) | 3:03 | 2021-12-29 | 2022-07-29 |
 | [Sour Patch Kids](https://open.spotify.com/track/5DJNyvuMmZfsfvdTpMMmUq) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Lazy Fair](https://open.spotify.com/album/08IW6sUfN9fRYG8Xlgm4oC) | 4:12 | 2022-04-01 | 2022-04-21 |
 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 | 2021-12-29 | 2022-07-29 |
 | [Stay](https://open.spotify.com/track/7wGoRwE6MZnm9flIMKWPul) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Stay](https://open.spotify.com/album/6eRhTVavbbpeYhcSOjpJwr) | 3:13 | 2022-03-25 | 2022-04-18 |
+| [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2023-01-20 |  |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2022-04-01 | 2023-01-22 |
 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 | 2022-03-28 |  |
 | [Stolen Dance](https://open.spotify.com/track/2jiPHbFX5XM8TjaTfYJ0eo) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Sadnecessary](https://open.spotify.com/album/1CEBG1qVlHZr6v7eHAVF4W) | 5:13 | 2022-03-25 | 2022-04-21 |

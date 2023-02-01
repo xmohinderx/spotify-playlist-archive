@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-263 songs - 17 hr 22 min
+265 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-08-17 |  |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2022-06-29 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/0qii8PVr6wKDNVbRM1ak1E) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Can't Help Falling in Love](https://open.spotify.com/album/5vBVsRAD5ySVpuIB4cZ3WB) | 3:10 | 2022-06-29 | 2023-01-22 |
+| [Can't Help Loving That Man](https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Can't Help Loving That Man](https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U) | 4:29 | 2023-01-26 |  |
 | [Candlelight](https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 5:42 | 2022-06-29 |  |
 | [Candy](https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Candy](https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1) | 3:24 | 2023-01-12 |  |
 | [Catching Up With Time](https://open.spotify.com/track/1hLmsNcZK82o1sevUpqD9u) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 3:38 | 2022-06-29 |  |
@@ -187,6 +188,7 @@
 | [On A Clear Day](https://open.spotify.com/track/2rtTRNbX2fRQGsLBje9YHS) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [On A Clear Day](https://open.spotify.com/album/3hLEkeJRG2VTK3M7015jt0) | 2:37 | 2022-10-13 |  |
 | [On a Clear Day \(You Can See Forever\)](https://open.spotify.com/track/6zeTz2j5A9G6gEKi34ks05) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Long Ago \(and Far Away\)](https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr) | 3:25 | 2022-06-29 |  |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2022-06-29 |  |
+| [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-01-26 |  |
 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-23 |  |
 | [Pensativa](https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:47 | 2022-09-21 |  |
 | [Perception Through A Crystal Orb](https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Perception Through A Crystal Orb](https://open.spotify.com/album/0vrjE37V3hoBoEBFW1FP4m) | 3:10 | 2022-06-29 |  |
@@ -206,7 +208,7 @@
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/5fBpjh6BGlsKG8n328kcF4) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/2AFoG96YrQjDuCwIxJCGj1) | 4:26 | 2022-06-29 | 2022-11-27 |
 | [Snow Keeps Falling](https://open.spotify.com/track/2bNYgVK6yXzAuFD6uMWKsv) | [Ronald & the Fairies](https://open.spotify.com/artist/7EyQn2KSLStE6tXcdpDOXm) | [Snow Keeps Falling](https://open.spotify.com/album/1rKjHI0aRqFSIP6mUDAW38) | 2:31 | 2022-06-29 |  |
 | [Some Other Time](https://open.spotify.com/track/00XUUci0jcUyCtVgMk8AxB) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Some Other Time](https://open.spotify.com/album/6prqNwWmM73hFtseto8CmH) | 3:11 | 2022-06-29 |  |
-| [Sommarnattens Skeende](https://open.spotify.com/track/7gNdDvceGxqrxqdc1bDErq) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [Sommarnattens Skeende](https://open.spotify.com/album/6CilisEhyJTony3qpY89nK) | 3:32 | 2022-06-29 |  |
+| [Sommarnattens Skeende](https://open.spotify.com/track/7gNdDvceGxqrxqdc1bDErq) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [Sommarnattens Skeende](https://open.spotify.com/album/6CilisEhyJTony3qpY89nK) | 3:32 | 2022-06-29 | 2023-02-01 |
 | [Song of The Sirens](https://open.spotify.com/track/6SNXb4pUG3LjS2601AKT3G) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Song of The Sirens](https://open.spotify.com/album/4pBG3KdjOugx20kMiSGTmP) | 3:35 | 2022-06-29 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1Rx7TVIX8t9pZFJdLq0vvY) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 7:54 | 2022-06-29 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/2uAMOafxy5xI71sbAWLm9V) | 4:22 | 2022-06-29 |  |
@@ -245,7 +247,7 @@
 | [Twenty Somethings](https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Twenty Somethings](https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP) | 2:32 | 2022-12-08 |  |
 | [Varenne](https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Varenne](https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho) | 3:44 | 2022-08-12 |  |
 | [Very Early](https://open.spotify.com/track/2i6UvEb8X7i2oQTVHah3pV) | [Bleecker Jazz Duo](https://open.spotify.com/artist/1fjtfjgiQ6dp0HhJdULJbQ) | [Here's That Rainy Day](https://open.spotify.com/album/5v5UCmE3YVNgLbQs8WFNfs) | 3:27 | 2022-06-29 | 2022-12-04 |
-| [Vesper](https://open.spotify.com/track/3WEkHcJisp1XyPPNMWKAi0) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Vesper](https://open.spotify.com/album/3BxFj4YKomKREXrep93gIB) | 4:14 | 2022-06-29 |  |
+| [Vesper](https://open.spotify.com/track/3WEkHcJisp1XyPPNMWKAi0) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Vesper](https://open.spotify.com/album/3BxFj4YKomKREXrep93gIB) | 4:14 | 2022-06-29 | 2023-02-01 |
 | [Views Of Dawn](https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Views Of Dawn](https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM) | 4:53 | 2022-10-13 |  |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 |  |
 | [We're Almost At The End](https://open.spotify.com/track/6WMZ32iT8I5T2UUSQTdWf9) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Just a Thought](https://open.spotify.com/album/7ngLJAYrufQRkz9GHjvhto) | 2:08 | 2022-11-24 |  |

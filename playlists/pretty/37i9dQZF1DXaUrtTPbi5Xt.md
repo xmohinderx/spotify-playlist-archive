@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUrtTPbi5Xt.md) - [plain]
 
 > ¡Y así suena..\. Julión Álvarez Y Su Norteño Banda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,385 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,269 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

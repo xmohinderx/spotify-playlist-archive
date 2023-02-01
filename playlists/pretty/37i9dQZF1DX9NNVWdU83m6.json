@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 34543,
+  "num_followers": 34629,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMDJhZGY2M2QxMzRmZTM3YzM3OTY2NjZlOGQ0ZWRjMzc3",
+  "snapshot_id": "MTY3NDE5MDg2MCwwMDAwMDAwMGVkNDgxM2VhMjA3M2I4NGI5Mzk1MzMzMjUxNWE3MDdl",
   "tracks": [
     {
       "added_at": "2023-01-20 05:01:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
+        "name": "Apostrophe(')",
+        "url": "https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu"
+      },
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "duration_ms": 349786,
+      "name": "Apostrophe'",
+      "url": "https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
         "name": "Bundles (Remastered And Expanded Edition)",
         "url": "https://open.spotify.com/album/5gDIsxXtpCvh0E329Gw2aN"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 266535,
       "name": "Flowerbed",
       "url": "https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Apostrophe(')",
-        "url": "https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu"
-      },
-      "artists": [
-        {
-          "name": "Frank Zappa",
-          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
-        }
-      ],
-      "duration_ms": 349786,
-      "name": "Apostrophe'",
-      "url": "https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -309,20 +309,20 @@
       "url": "https://open.spotify.com/track/0tyiencXiHn4LBF4OnOPzu"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "In These Times",
-        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/4lihRwOl6BCy8VOZSdyPL8"
       },
       "artists": [
         {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+          "name": "NuHussel Orchestra",
+          "url": "https://open.spotify.com/artist/70XGkuNGNpVAw6vRuLqekN"
         }
       ],
-      "duration_ms": 267635,
-      "name": "The Knew Untitled",
-      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
+      "duration_ms": 302040,
+      "name": "Cptn Future",
+      "url": "https://open.spotify.com/track/5H3mx4ktZNnTsBmtx6UbS4"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -341,20 +341,20 @@
       "url": "https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/4lihRwOl6BCy8VOZSdyPL8"
+        "name": "In These Times",
+        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
       },
       "artists": [
         {
-          "name": "NuHussel Orchestra",
-          "url": "https://open.spotify.com/artist/70XGkuNGNpVAw6vRuLqekN"
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
         }
       ],
-      "duration_ms": 302040,
-      "name": "Cptn Future",
-      "url": "https://open.spotify.com/track/5H3mx4ktZNnTsBmtx6UbS4"
+      "duration_ms": 267635,
+      "name": "The Knew Untitled",
+      "url": "https://open.spotify.com/track/3kjH2aqlYR86fcWxLaVuyu"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -405,6 +405,22 @@
       "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
     },
     {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Krokofant III",
+        "url": "https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG"
+      },
+      "artists": [
+        {
+          "name": "Krokofant",
+          "url": "https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy"
+        }
+      ],
+      "duration_ms": 404960,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp"
+    },
+    {
       "added_at": "2021-09-03 04:01:00",
       "album": {
         "name": "move",
@@ -423,22 +439,6 @@
       "duration_ms": 268675,
       "name": "silhouette",
       "url": "https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Krokofant III",
-        "url": "https://open.spotify.com/album/4waMJQJvjXHPUiuYfRb0gG"
-      },
-      "artists": [
-        {
-          "name": "Krokofant",
-          "url": "https://open.spotify.com/artist/23A1NMMpoNpJkSlq4GwJUy"
-        }
-      ],
-      "duration_ms": 404960,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/2u6wg9Ag8Si5XdQGOkGgVp"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/7C2L5Lsrc3GvRS5n5lN2Mc"
     },
     {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "Never Ending",
-        "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
-    },
-    {
       "added_at": "2022-08-19 04:02:00",
       "album": {
         "name": "Caliber",
@@ -611,6 +595,22 @@
       "duration_ms": 193813,
       "name": "Caliber",
       "url": "https://open.spotify.com/track/2AEQnEI32p1t5wuRIANvWp"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Never Ending",
+        "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -661,6 +661,30 @@
       "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
     },
     {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Ultima",
+        "url": "https://open.spotify.com/album/20BlG8qWwhDJWBxnNJIrPZ"
+      },
+      "artists": [
+        {
+          "name": "Evan Marien",
+          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
+        },
+        {
+          "name": "Dana Hawkins",
+          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
+        },
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Ultima",
+      "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
+    },
+    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "The Line",
@@ -691,30 +715,6 @@
       "duration_ms": 332000,
       "name": "Novruz",
       "url": "https://open.spotify.com/track/1wt244JqwcNQG0rGtbBCGi"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Ultima",
-        "url": "https://open.spotify.com/album/20BlG8qWwhDJWBxnNJIrPZ"
-      },
-      "artists": [
-        {
-          "name": "Evan Marien",
-          "url": "https://open.spotify.com/artist/7j3WzD4hWEZ0CL4dDH9d6H"
-        },
-        {
-          "name": "Dana Hawkins",
-          "url": "https://open.spotify.com/artist/6ZWC49mHWN4xLxfNW63sJe"
-        },
-        {
-          "name": "Plini",
-          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Ultima",
-      "url": "https://open.spotify.com/track/4vy44P8oqIZohMWfRawUHO"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/1QjhEkt6IeNGqM9elDpXWG"
     },
     {
+      "added_at": "2021-01-29 05:01:00",
+      "album": {
+        "name": "Rubicon",
+        "url": "https://open.spotify.com/album/7ptRUDMLC7vPGkezegz0qR"
+      },
+      "artists": [
+        {
+          "name": "Lilly Legit",
+          "url": "https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO"
+        }
+      ],
+      "duration_ms": 181708,
+      "name": "Immersion",
+      "url": "https://open.spotify.com/track/5nv9ykXZiXsUyiNK5NNpAL"
+    },
+    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Revisiting the Film (feat. Morgan \u00c5gren)",
@@ -879,22 +895,6 @@
       "duration_ms": 305858,
       "name": "Truck Fump",
       "url": "https://open.spotify.com/track/68z5eTF7No9JRQHnsT7gic"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
-        "name": "The Inner Mounting Flame",
-        "url": "https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr"
-      },
-      "artists": [
-        {
-          "name": "Mahavishnu Orchestra",
-          "url": "https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO"
-        }
-      ],
-      "duration_ms": 387826,
-      "name": "The Noonward Race - Remastered",
-      "url": "https://open.spotify.com/track/4BWrLhJXXYAlVIHOLSPsmN"
     }
   ],
   "unique_name": "Prog Jazz",

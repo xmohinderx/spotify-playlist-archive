@@ -4,12 +4,12 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-211 songs - 11 hr 36 min
+213 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+](https://open.spotify.com/track/5FZNczPCUh5scxptzYLBTO) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 3:42 | 2022-05-03 | 2022-07-12 |
-| [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 | 2022-05-03 |  |
+| [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 | 2022-05-03 | 2023-02-01 |
 | [21](https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:27 | 2022-05-03 |  |
 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 | 2022-10-08 |  |
 | [2nd THOTS](https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:44 | 2022-07-08 |  |
@@ -43,6 +43,7 @@
 | [COLD VIEW](https://open.spotify.com/track/0czXUP9ndZayiozj8jH0X1) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [COLD VIEW](https://open.spotify.com/album/0yOD2vxIRCtL83xjS9bUZT) | 3:50 | 2022-05-03 | 2022-07-26 |
 | [Come \(feat\. Dbo\)](https://open.spotify.com/track/6FKIVwqfkELrhOtFh2ozVt) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [Fake Red](https://open.spotify.com/album/5Jm3aKAPJFPOeVyDSbhajf) | 3:56 | 2022-06-18 | 2022-06-20 |
 | [Come In](https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:02 | 2022-05-03 |  |
+| [COMFY](https://open.spotify.com/track/0PQzmvpqxnDlH82yj7wTh3) | [SEOA](https://open.spotify.com/artist/3jsk2LMEav6KI7pFwiU7tF), [SZN](https://open.spotify.com/artist/1MCqb5Gwah45385YUspsn5) | [COMFY](https://open.spotify.com/album/0F0KPsp7ru8WRgLIgaJO3S) | 3:45 | 2023-02-01 |  |
 | [Cool](https://open.spotify.com/track/4WOfGo7v2C0Wi6f5cJ5THt) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc) | [Born To Be Cool](https://open.spotify.com/album/5x7gSmfu5kKdJocii6Xdrg) | 3:36 | 2022-05-03 | 2022-07-28 |
 | [Cry For Love](https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:30 | 2022-05-03 |  |
 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 | 2022-06-09 |  |
@@ -86,7 +87,7 @@
 | [Gravity](https://open.spotify.com/track/6QyBEmvY2uQvorfZ2pmo95) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Gravity](https://open.spotify.com/album/2z8pYpESu09LMi9aDSk1fZ) | 3:12 | 2022-05-03 | 2022-07-29 |
 | [Grxxdy](https://open.spotify.com/track/1WAmQJRFZY6HPROxzuQnRb) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Bad Girlfriend \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/3XkngC33ucHUrYmzczTiLD) | 2:59 | 2022-07-08 | 2022-08-10 |
 | [Gunner](https://open.spotify.com/track/2s6mnu51NafM2OLVgdRhlF) | [Sasha](https://open.spotify.com/artist/6avsZQ2pnMpzZimJAn5dFN) | [Gunner](https://open.spotify.com/album/7bVEPchL7QCLHtcnqG8dwm) | 2:56 | 2022-05-03 | 2022-11-02 |
-| [Harujongil](https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:44 | 2022-07-08 |  |
+| [Harujongil](https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:44 | 2022-07-08 | 2023-02-01 |
 | [Harujongil](https://open.spotify.com/track/67TFGDlhk2GQ9ALDjqPWlE) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/6CFhQLoXy665joV93vkgU4) | 3:44 | 2022-05-03 | 2022-07-29 |
 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-05-03 | 2022-10-08 |
 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-22 | 2022-12-20 |
@@ -193,6 +194,7 @@
 | [Too Many](https://open.spotify.com/track/5LgzmmzIXRzmwEmCLYKamI) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv) | 3:07 | 2022-05-03 | 2022-07-29 |
 | [Too Many](https://open.spotify.com/track/7pgxBn7bwuMXjVL0R8agyQ) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:07 | 2022-07-08 |  |
 | [Turn Off Your Phone \(Feat\. ELO\) \- Remix](https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ELO](https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 | 2022-10-04 |  |
+| [Turn On \(Feat\. Jiselle\)](https://open.spotify.com/track/0lunvnQTUsz1DzLAaAhmXF) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:26 | 2023-01-19 |  |
 | [Under the starlight \(feat\. gayon1mo, Leff\)](https://open.spotify.com/track/4Q4HGuQn3hl9jmYCJXPX9H) | [WR](https://open.spotify.com/artist/0NJIG6q0zE2TxRjLBUBWaf), [gayon1mo](https://open.spotify.com/artist/1oZXmOiAhf8LDBooBpUyHY), [Leff](https://open.spotify.com/artist/43JfM0mbZHC2iw9SJYqqPy) | [2021 Works: 02](https://open.spotify.com/album/1ojKLnT0m56ID6fiCtxjlK) | 3:12 | 2022-05-03 | 2022-07-15 |
 | [Urban Girl](https://open.spotify.com/track/5SL40nsBv7xmbmO4SBIFtd) | [Horace](https://open.spotify.com/artist/3Gxy3MGYNEh4m4A2TlvEi5) | [To City](https://open.spotify.com/album/3svJwN8Efp7g9EfHuNG4WA) | 4:00 | 2022-05-03 | 2022-07-29 |
 | [VANESSA](https://open.spotify.com/track/4NvhecSbk6nWAZFKBIyJQv) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [FL1P](https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2) | 3:18 | 2022-05-03 | 2022-07-12 |

@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-840 songs - 1 day 23 hr 39 min
+841 songs - 1 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Dance The Night Away](https://open.spotify.com/track/5ilOXZ0vqTX69rjRubPivH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo) | 3:00 | 2021-11-17 | 2022-07-29 |
 | [Dancing In The Moonlight](https://open.spotify.com/track/5CNirIgKckyhPnocb96cN7) | [TOO](https://open.spotify.com/artist/3a0xHIHQPhhzgSOJzgB2Rz) | [Running TOOgether](https://open.spotify.com/album/21OdoBMLPTL7MymFTxe7oW) | 3:34 | 2022-03-24 | 2022-04-21 |
 | [Dancing King](https://open.spotify.com/track/4mapUx15LvqkxwJQcINhvH) | [Yoo Jae Seok](https://open.spotify.com/artist/4zmCovcjfUoYP3VilaMGxb), [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Dancing King](https://open.spotify.com/album/6nSYxDz9C4U2vDVQkZNWaW) | 4:04 | 2022-03-24 | 2022-04-21 |
-| [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-05-01 |  |
+| [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-05-01 | 2023-02-01 |
 | [DAYDREAM](https://open.spotify.com/track/3tOXDbhmpjSGxBFo2yp1eJ) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [DAYDREAM](https://open.spotify.com/album/1LXXwyhpjtD725nOVp1kIu) | 3:13 | 2022-03-24 | 2022-07-29 |
 | [Daydream](https://open.spotify.com/track/4RIp7vyL6IFTSsVB5iP8CZ) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 5th Mini Album \[SANCTUARY\]](https://open.spotify.com/album/14RDHnWprxc97Yuzxtm60I) | 3:10 | 2021-11-17 | 2022-04-21 |
 | [Daydream \(백일몽\)](https://open.spotify.com/track/4YAgH8s0JFfwikTNwe0aIk) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/1bJ8O4jIyqSdunqT9RWXc9) | 3:48 | 2022-01-03 | 2022-05-11 |
@@ -552,6 +552,7 @@
 | [Paeonia](https://open.spotify.com/track/1Unl2r6bKGsAV90WNNRJ2M) | [Busters](https://open.spotify.com/artist/094r0lsayLdunB6ymSbMKz) | [Paeonia](https://open.spotify.com/album/1mycYAWkyGUDIMWMDLUJq0) | 3:13 | 2022-02-03 | 2022-04-21 |
 | [Page 0](https://open.spotify.com/track/10X2ihhKwPyKzo89h4965O) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Page 0](https://open.spotify.com/album/1MX2MhEx1G8BCiYrlSomgg) | 3:07 | 2021-11-17 | 2022-07-29 |
 | [Paint Me Naked](https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Paint Me Naked \- SM STATION](https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6) | 3:00 | 2021-11-17 | 2022-08-13 |
+| [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 | 2023-01-26 |  |
 | [Panorama](https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [One\-reeler / Act IV](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) | 3:42 | 2021-11-17 |  |
 | [Parade](https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:02 | 2022-06-30 | 2022-07-26 |
 | [Parade](https://open.spotify.com/track/0u2RxRjpM4rMvojoNqZHH0) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [RescuE](https://open.spotify.com/album/32n91KG3YeLMLJ9e64EfXy) | 3:13 | 2021-11-17 | 2022-07-29 |
@@ -589,7 +590,7 @@
 | [Rain To Be](https://open.spotify.com/track/3JUy6uHdxEGf5cqk7IxDrE) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Planet Nine : Alter Ego](https://open.spotify.com/album/4vGyxBRf0DK6Jhq0DyL87O) | 3:15 | 2021-11-17 | 2022-07-25 |
 | [Rattled](https://open.spotify.com/track/3d1DFAqhpm4kFYf5F1ZYC1) | [Boys Republic](https://open.spotify.com/artist/0iLbcXKdKfMdqllxqSUhPn) | [Ending credit.](https://open.spotify.com/album/3qZCbWruUhyC3cejzsEPED) | 3:59 | 2022-03-24 | 2022-04-18 |
 | [Ready Or Not](https://open.spotify.com/track/0Sp0RwhaE0CdJE8ctmXk4U) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Ready Or Not](https://open.spotify.com/album/6uFRDoLaMdhTSDOOp5xW1z) | 3:20 | 2021-11-17 | 2022-05-11 |
-| [Ready to love](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:06 | 2021-11-17 | 2022-12-19 |
+| [Ready to love](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:06 | 2021-11-17 |  |
 | [REAL YOU](https://open.spotify.com/track/3ax3sc1Rn99YbjyKT0HALS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:07 | 2021-11-17 | 2022-04-20 |
 | [REALLY \- KR Ver.](https://open.spotify.com/track/7AWtaOSb7cgi16wJr3mkuf) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/4l87mak80qeOiZwXM5bRuM) | 3:17 | 2021-11-17 | 2022-07-27 |
 | [REALLY REALLY](https://open.spotify.com/track/02UNF1uo5f0UNgc1qx5XGt) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/5hmezEZaQ7D0ntBA9J76kb) | 3:23 | 2021-11-17 | 2022-07-28 |
@@ -685,7 +686,7 @@
 | [Stamp On It](https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Stamp On It \- The 1st Mini Album](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) | 3:52 | 2023-01-16 |  |
 | [Stay](https://open.spotify.com/track/3ndCsZfq8OVwwkz9mmZvUz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:24 | 2021-11-17 | 2022-07-29 |
 | [Stay as you are](https://open.spotify.com/track/5diQ6jKmWB1x6MzA9EYH2O) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [STAY AS YOU ARE](https://open.spotify.com/album/5gHodqrW4Hb5LfugxwWa6S) | 3:46 | 2021-11-17 | 2022-07-29 |
-| [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-07-08 |  |
+| [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 | 2022-07-08 | 2023-02-01 |
 | [Stay Tonight](https://open.spotify.com/track/3As0OA5B06BxLfADvYyG8L) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Stay Tonight](https://open.spotify.com/album/41rtmYpSvv0s6p4TJwTzrR) | 3:37 | 2021-11-17 | 2022-07-27 |
 | [Stay With Me](https://open.spotify.com/track/2YAoDoc9ZGTDubZvF9QQQh) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Rise Up](https://open.spotify.com/album/6KsaQ2qU53KdGFK8uWqUG2) | 3:40 | 2021-11-17 | 2022-07-29 |
 | [Stay With Me](https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Guardian \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg) | 3:12 | 2021-11-17 |  |

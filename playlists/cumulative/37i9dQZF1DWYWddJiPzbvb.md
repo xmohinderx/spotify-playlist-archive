@@ -4,7 +4,7 @@
 
 > Chilled songs that you are familiar with \- no surprises!
 
-354 songs - 22 hr 2 min
+355 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Ruin My Life](https://open.spotify.com/track/5Fyjxarrx6ZFrZ2DHte8Z5) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Ruin My Life](https://open.spotify.com/album/5r7uYbYvzpZXPkROIOylIh) | 3:10 | 2021-11-23 | 2022-07-29 |
 | [Russian Roulette](https://open.spotify.com/track/3rMsX63C0IZVnOT5LGYoTH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Rated R](https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2) | 3:47 | 2022-02-04 | 2022-11-13 |
 | [Same Love \(feat\. Mary Lambert\)](https://open.spotify.com/track/01uqI4H13Gsd8Lyl1EYd8H) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Mary Lambert](https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 5:18 | 2022-02-04 | 2022-11-13 |
-| [Same Old Love](https://open.spotify.com/track/1BZG99C7Co1r6QUC3zaS59) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:49 | 2022-05-30 |  |
+| [Same Old Love](https://open.spotify.com/track/1BZG99C7Co1r6QUC3zaS59) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:49 | 2022-05-30 | 2023-02-01 |
 | [Same Old Love](https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:49 | 2021-11-23 | 2022-07-29 |
 | [Saturday Nights](https://open.spotify.com/track/5kfNriitmkNE8mUbZ7gbq8) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2) | 3:30 | 2021-11-23 | 2022-05-28 |
 | [Saturday Nights](https://open.spotify.com/track/1fHRzxbts9A8J1ergDe7Kz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:31 | 2022-02-04 | 2022-07-29 |
@@ -330,6 +330,7 @@
 | [Wasn't Expecting That](https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Wasn't Expecting That](https://open.spotify.com/album/5XqxTXtO3W4bDntGmNBc9q) | 3:21 | 2021-11-23 | 2022-07-29 |
 | [Water Under the Bridge](https://open.spotify.com/track/4jL6WWKFDqCOPo2hC3VhSS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:00 | 2022-11-07 | 2022-11-13 |
 | [Water Under The Bridge](https://open.spotify.com/track/7xfzwPasShmaPL7gB7va3J) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:00 | 2022-05-30 | 2022-07-29 |
+| [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2023-01-30 |  |
 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/61iyAeMVUNu7vIVqedsBFB) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Feline \(Deluxe\)](https://open.spotify.com/album/0AbUYFSGVNegJoajijrRvM) | 3:56 | 2021-11-23 | 2022-07-29 |
 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x) | 3:37 | 2021-11-23 | 2022-07-29 |
 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:37 | 2022-05-30 |  |

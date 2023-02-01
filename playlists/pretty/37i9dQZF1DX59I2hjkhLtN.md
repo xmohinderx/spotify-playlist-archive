@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Lil Mapz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,794 likes - 105 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,806 likes - 105 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

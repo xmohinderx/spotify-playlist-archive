@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-288 songs - 15 hr 51 min
+289 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Don't Touch!](https://open.spotify.com/track/5Ra9YCYlPeW050TLtkkOZF) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Don't Touch!](https://open.spotify.com/album/5SQTz1po86w7yd86CeciGR) | 2:22 | 2021-07-26 | 2022-07-27 |
 | [DREAMS DIE](https://open.spotify.com/track/6BObUnW7Z8BFOB8gN4GWPj) | [Brendan Bennett](https://open.spotify.com/artist/0lpU3HUAjN8AdjApUJ2ykI) | [DREAMS DIE](https://open.spotify.com/album/7qSpfh9r3mENmyQfbJ9mSk) | 2:39 | 2021-07-26 | 2022-07-19 |
 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 | 2021-07-26 | 2022-07-31 |
+| [Ease Up](https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Ease Up](https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW) | 3:34 | 2023-01-20 |  |
 | [Fall In](https://open.spotify.com/track/76oTS246cR6Qnk9UznLk0K) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Fall In](https://open.spotify.com/album/14WXlgU3jPNSbkttpoWQsx) | 2:39 | 2022-09-09 | 2023-01-21 |
 | [Fallin' Apart](https://open.spotify.com/track/2qKmnm0cEXnvD82C6Sr2hs) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Fallin' Apart](https://open.spotify.com/album/7LK33wpZ5LmLwWkCMxDXdp) | 2:04 | 2021-07-26 | 2022-08-06 |
 | [fav flav \(with Duckwrth\)](https://open.spotify.com/track/5jKADCQFs1tvvk3s2Er3be) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [fav flav \(with Duckwrth\)](https://open.spotify.com/album/6FqXFMDYQfxOCoX8Ame8az) | 3:16 | 2021-10-08 | 2022-07-28 |
@@ -168,7 +169,7 @@
 | [No Fear No More \(Remix\)](https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [No Fear No More \(Remix\)](https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t) | 2:54 | 2021-07-26 | 2022-07-31 |
 | [NO WAY! \- Diamond Pistols Remix](https://open.spotify.com/track/7aWgGrMx5WOsrYZ1lS1tbR) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [NO WAY! \(Diamond Pistols Remix\)](https://open.spotify.com/album/7voGlCPPwlqQujBcBNhrCy) | 2:55 | 2021-12-07 | 2022-04-21 |
 | [Nobody Knows We Are Fun](https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [Nobody Knows We Are Fun](https://open.spotify.com/album/2OCnfYbcMDebH1TPworZVG) | 3:01 | 2021-07-26 | 2022-07-13 |
-| [Nothing More To Say \(with 6LACK & Donae’o\)](https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:53 | 2022-08-05 |  |
+| [Nothing More To Say \(with 6LACK & Donae’o\)](https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:53 | 2022-08-05 | 2023-02-01 |
 | [Nothing's Changed](https://open.spotify.com/track/3rjZ7w1ZCfCsHSRUAe6z3Q) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Nothing's Changed](https://open.spotify.com/album/4jW8tj4GeD08qgifbyLsNB) | 2:01 | 2022-03-25 | 2022-07-30 |
 | [OFF DAT](https://open.spotify.com/track/773jSfBc0MM5SBZG2jTLly) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [OFF DAT](https://open.spotify.com/album/1rsPGfVLiZqU4lNOTpgtod) | 2:34 | 2021-07-26 | 2022-04-19 |
 | [Off My Mind](https://open.spotify.com/track/3D5n8WhcnFkjRLWdjZfdKm) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Midas](https://open.spotify.com/album/5U9vYElfW7tAG6GPHg58B2) | 2:31 | 2021-10-08 | 2022-04-21 |

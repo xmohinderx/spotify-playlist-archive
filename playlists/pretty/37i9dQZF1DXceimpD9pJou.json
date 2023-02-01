@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto:  Omy Alka",
-  "num_followers": 116528,
+  "num_followers": 116677,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDgxNzkxMiwwMDAwMDAwMGRjNTdkMDBmNjY5MDc4Y2JiYTg0MzNkZDY3OGIyZjU3",
+  "snapshot_id": "MTY3NDgxNzkxMiwwMDAwMDAwMGQ0YjUxZTMxNTMzNTJhYzFiYTg4MmMzYjFmNGExZWE0",
   "tracks": [
     {
       "added_at": "2023-01-27 11:11:52",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
-        "name": "Veintidos",
-        "url": "https://open.spotify.com/album/0q0lOr8XvWYcAu6enCdiJT"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 183663,
-      "name": "Veintidos",
-      "url": "https://open.spotify.com/track/4h4HCyYQmcaB7sXR7IEIH9"
-    },
-    {
-      "added_at": "2023-01-27 11:11:52",
-      "album": {
         "name": "T\u00fa est\u00e1s aqu\u00ed",
         "url": "https://open.spotify.com/album/1SYkMNhcDMiamfK8hRKzZc"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 288374,
       "name": "T\u00fa est\u00e1s aqu\u00ed",
       "url": "https://open.spotify.com/track/5x2ctFVuKno0VyRvNwOz3u"
+    },
+    {
+      "added_at": "2023-01-27 11:11:52",
+      "album": {
+        "name": "Veintidos",
+        "url": "https://open.spotify.com/album/0q0lOr8XvWYcAu6enCdiJT"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 183663,
+      "name": "Veintidos",
+      "url": "https://open.spotify.com/track/4h4HCyYQmcaB7sXR7IEIH9"
     },
     {
       "added_at": "2023-01-27 11:11:52",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
-        "name": "Lo Veo",
-        "url": "https://open.spotify.com/album/4s9TBAg6YMgEeD5ZAwDEyd"
-      },
-      "artists": [
-        {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
-        }
-      ],
-      "duration_ms": 215712,
-      "name": "Lo Veo",
-      "url": "https://open.spotify.com/track/6quvUcIru3huNKGscwQVRD"
-    },
-    {
-      "added_at": "2023-01-27 11:11:52",
-      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/63n3Muw9lQISQScVsrx0i2"
       },
@@ -339,6 +323,58 @@
       "duration_ms": 180078,
       "name": "Testimonio",
       "url": "https://open.spotify.com/track/2JnHvsK86uRzgf8WE4HwKp"
+    },
+    {
+      "added_at": "2023-01-27 11:11:52",
+      "album": {
+        "name": "Lo Veo",
+        "url": "https://open.spotify.com/album/4s9TBAg6YMgEeD5ZAwDEyd"
+      },
+      "artists": [
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+        }
+      ],
+      "duration_ms": 215712,
+      "name": "Lo Veo",
+      "url": "https://open.spotify.com/track/6quvUcIru3huNKGscwQVRD"
+    },
+    {
+      "added_at": "2023-01-27 11:11:52",
+      "album": {
+        "name": "Canci\u00f3n de Amor",
+        "url": "https://open.spotify.com/album/3758cs8NsR5Jvz9uHPsMO1"
+      },
+      "artists": [
+        {
+          "name": "Full Life Music",
+          "url": "https://open.spotify.com/artist/5t7m02DMcbdLQVwg87Qnup"
+        },
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "duration_ms": 217541,
+      "name": "Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/21fZyhHx1Xtc0uWn6g29CX"
+    },
+    {
+      "added_at": "2023-01-27 11:11:52",
+      "album": {
+        "name": "No Existe",
+        "url": "https://open.spotify.com/album/49nTQuNx1Ofnm4Kg0vlSt6"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 204381,
+      "name": "No Existe",
+      "url": "https://open.spotify.com/track/2rNeTNpb0GhpCZWuXelW3h"
     },
     {
       "added_at": "2023-01-27 11:11:52",
@@ -379,22 +415,6 @@
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
-        "name": "No Existe",
-        "url": "https://open.spotify.com/album/49nTQuNx1Ofnm4Kg0vlSt6"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 204381,
-      "name": "No Existe",
-      "url": "https://open.spotify.com/track/2rNeTNpb0GhpCZWuXelW3h"
-    },
-    {
-      "added_at": "2023-01-27 11:11:52",
-      "album": {
         "name": "Darme",
         "url": "https://open.spotify.com/album/695um4H2Si43vzZWDwA4Fr"
       },
@@ -411,22 +431,22 @@
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
-        "name": "Canci\u00f3n de Amor",
-        "url": "https://open.spotify.com/album/3758cs8NsR5Jvz9uHPsMO1"
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/05FZ0LZ61tFIukXqYP5xnI"
       },
       "artists": [
         {
-          "name": "Full Life Music",
-          "url": "https://open.spotify.com/artist/5t7m02DMcbdLQVwg87Qnup"
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
         },
         {
-          "name": "Gilberto Daza",
-          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
         }
       ],
-      "duration_ms": 217541,
-      "name": "Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/21fZyhHx1Xtc0uWn6g29CX"
+      "duration_ms": 228645,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/6DzEwTbKaElx4VmDOlDlKh"
     },
     {
       "added_at": "2023-01-27 11:11:52",
@@ -463,22 +483,22 @@
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
-        "name": "Mi Camino",
-        "url": "https://open.spotify.com/album/05FZ0LZ61tFIukXqYP5xnI"
+        "name": "En el estudio con Rubinsky Rbk Vol.5",
+        "url": "https://open.spotify.com/album/1jeNcPWP7pfw12b1G2Yfyv"
       },
       "artists": [
         {
-          "name": "Fernando Ramos",
-          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+          "name": "D-One Music",
+          "url": "https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5"
         },
         {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
         }
       ],
-      "duration_ms": 228645,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/6DzEwTbKaElx4VmDOlDlKh"
+      "duration_ms": 173647,
+      "name": "En el estudio con Rubinsky Rbk Vol.5",
+      "url": "https://open.spotify.com/track/5J2bQFKMZbcy74Jm2jrIom"
     },
     {
       "added_at": "2023-01-27 11:11:52",
@@ -499,22 +519,22 @@
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
-        "name": "En el estudio con Rubinsky Rbk Vol.5",
-        "url": "https://open.spotify.com/album/1jeNcPWP7pfw12b1G2Yfyv"
+        "name": "Confesi\u00f3n",
+        "url": "https://open.spotify.com/album/2joym5tICWNDru7PqP4Zbs"
       },
       "artists": [
         {
-          "name": "D-One Music",
-          "url": "https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5"
+          "name": "Luz y Vida Music",
+          "url": "https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v"
         },
         {
-          "name": "Rubinsky Rbk",
-          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
         }
       ],
-      "duration_ms": 173647,
-      "name": "En el estudio con Rubinsky Rbk Vol.5",
-      "url": "https://open.spotify.com/track/5J2bQFKMZbcy74Jm2jrIom"
+      "duration_ms": 209269,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/4UZ1ZDZQcERimjHSJIuayR"
     },
     {
       "added_at": "2023-01-27 11:11:52",
@@ -595,42 +615,6 @@
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
-        "name": "Confesi\u00f3n",
-        "url": "https://open.spotify.com/album/2joym5tICWNDru7PqP4Zbs"
-      },
-      "artists": [
-        {
-          "name": "Luz y Vida Music",
-          "url": "https://open.spotify.com/artist/2TdGvh5R3eya83igIVC66v"
-        },
-        {
-          "name": "MR. Yeison",
-          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
-        }
-      ],
-      "duration_ms": 209269,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/4UZ1ZDZQcERimjHSJIuayR"
-    },
-    {
-      "added_at": "2023-01-27 11:11:52",
-      "album": {
-        "name": "Por Ah\u00ed Voy",
-        "url": "https://open.spotify.com/album/2gzu0FdOv72od3722LEOdE"
-      },
-      "artists": [
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 165681,
-      "name": "Por Ah\u00ed Voy",
-      "url": "https://open.spotify.com/track/4DFbu9vG3m3RW94ZdRuOY8"
-    },
-    {
-      "added_at": "2023-01-27 11:11:52",
-      "album": {
         "name": "Yo Estuve Ah\u00ed",
         "url": "https://open.spotify.com/album/0eprlNkzjreuIsZedYIX0q"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
+        "name": "Por Ah\u00ed Voy",
+        "url": "https://open.spotify.com/album/2gzu0FdOv72od3722LEOdE"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "duration_ms": 165681,
+      "name": "Por Ah\u00ed Voy",
+      "url": "https://open.spotify.com/track/4DFbu9vG3m3RW94ZdRuOY8"
+    },
+    {
+      "added_at": "2023-01-27 11:11:52",
+      "album": {
         "name": "Amor, Amor, Amor",
         "url": "https://open.spotify.com/album/46brTenNVzpBIXcJNTlQjk"
       },
@@ -683,46 +683,6 @@
       "duration_ms": 165000,
       "name": "Amor, Amor, Amor - En vivo",
       "url": "https://open.spotify.com/track/47GvCA8LGKu7oVyPRFpZ39"
-    },
-    {
-      "added_at": "2023-01-27 11:11:52",
-      "album": {
-        "name": "En el estudio con Manny Montes Vol. 4",
-        "url": "https://open.spotify.com/album/7HIGaVBJlUaRxYt8dyXVCP"
-      },
-      "artists": [
-        {
-          "name": "D-One Music",
-          "url": "https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5"
-        },
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "En el estudio con Manny Montes Vol. 4",
-      "url": "https://open.spotify.com/track/2k3zCJ36BmRBINkHV3gWf7"
-    },
-    {
-      "added_at": "2023-01-27 11:11:52",
-      "album": {
-        "name": "Prendio",
-        "url": "https://open.spotify.com/album/2hvgQGdaaADwSomkDxOLcD"
-      },
-      "artists": [
-        {
-          "name": "DOMINICO GONZALEZ",
-          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
-        },
-        {
-          "name": "Townix",
-          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
-        }
-      ],
-      "duration_ms": 162203,
-      "name": "Prendio",
-      "url": "https://open.spotify.com/track/0AFZ3q755SUhvquX6EVpnJ"
     },
     {
       "added_at": "2023-01-27 11:11:52",
@@ -779,34 +739,42 @@
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
-        "name": "Bendecio",
-        "url": "https://open.spotify.com/album/1QgOW4cdrMUBAMj61SkZpX"
+        "name": "En el estudio con Manny Montes Vol. 4",
+        "url": "https://open.spotify.com/album/7HIGaVBJlUaRxYt8dyXVCP"
       },
       "artists": [
         {
-          "name": "Soly",
-          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
+          "name": "D-One Music",
+          "url": "https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5"
+        },
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
         }
       ],
-      "duration_ms": 216470,
-      "name": "Bendecio",
-      "url": "https://open.spotify.com/track/68MYBsSoKi0XbkJ7EdMEO6"
+      "duration_ms": 193333,
+      "name": "En el estudio con Manny Montes Vol. 4",
+      "url": "https://open.spotify.com/track/2k3zCJ36BmRBINkHV3gWf7"
     },
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
-        "name": "Cerca de Ti",
-        "url": "https://open.spotify.com/album/7mzqmCmr7RdhjbopgCQg44"
+        "name": "Prendio",
+        "url": "https://open.spotify.com/album/2hvgQGdaaADwSomkDxOLcD"
       },
       "artists": [
         {
-          "name": "Addy Juarez",
-          "url": "https://open.spotify.com/artist/366Pt6OxF8zLQWeglvFxMS"
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        },
+        {
+          "name": "Townix",
+          "url": "https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2"
         }
       ],
-      "duration_ms": 331040,
-      "name": "Libertad Me Das",
-      "url": "https://open.spotify.com/track/3t9XwVma75xPCEU3SZOSY7"
+      "duration_ms": 162203,
+      "name": "Prendio",
+      "url": "https://open.spotify.com/track/0AFZ3q755SUhvquX6EVpnJ"
     },
     {
       "added_at": "2023-01-27 11:11:52",
@@ -823,6 +791,54 @@
       "duration_ms": 402283,
       "name": "MEDLEY CRISTIANO ANTIGUAS BONITAS",
       "url": "https://open.spotify.com/track/7oawrO84GmBxr0ZM0noX2W"
+    },
+    {
+      "added_at": "2023-01-27 11:11:52",
+      "album": {
+        "name": "Bendecio",
+        "url": "https://open.spotify.com/album/1QgOW4cdrMUBAMj61SkZpX"
+      },
+      "artists": [
+        {
+          "name": "Soly",
+          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
+        }
+      ],
+      "duration_ms": 216470,
+      "name": "Bendecio",
+      "url": "https://open.spotify.com/track/68MYBsSoKi0XbkJ7EdMEO6"
+    },
+    {
+      "added_at": "2023-01-27 11:11:52",
+      "album": {
+        "name": "M\u00e1s Que Suficiente (En Vivo)",
+        "url": "https://open.spotify.com/album/0qEshKTYaXtAACKK1KRon7"
+      },
+      "artists": [
+        {
+          "name": "Revoluci\u00f3n Total",
+          "url": "https://open.spotify.com/artist/5PVYGpWaupI69Tqby8MQg5"
+        }
+      ],
+      "duration_ms": 338077,
+      "name": "M\u00e1s Que Suficiente (En Vivo)",
+      "url": "https://open.spotify.com/track/3N6MtEFJudnxVCGFoRKicl"
+    },
+    {
+      "added_at": "2023-01-27 11:11:52",
+      "album": {
+        "name": "Cerca de Ti",
+        "url": "https://open.spotify.com/album/7mzqmCmr7RdhjbopgCQg44"
+      },
+      "artists": [
+        {
+          "name": "Addy Juarez",
+          "url": "https://open.spotify.com/artist/366Pt6OxF8zLQWeglvFxMS"
+        }
+      ],
+      "duration_ms": 331040,
+      "name": "Libertad Me Das",
+      "url": "https://open.spotify.com/track/3t9XwVma75xPCEU3SZOSY7"
     },
     {
       "added_at": "2023-01-27 11:11:52",
@@ -883,26 +899,6 @@
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
-        "name": "Una Canci\u00f3n para la Comuni\u00f3n",
-        "url": "https://open.spotify.com/album/3VOrfVCb5qd9ZRMBM3dBSk"
-      },
-      "artists": [
-        {
-          "name": "KDuran",
-          "url": "https://open.spotify.com/artist/7iXV6sobfDYQC7GDn294Cx"
-        },
-        {
-          "name": "Jonatan Narv\u00e1ez",
-          "url": "https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY"
-        }
-      ],
-      "duration_ms": 234811,
-      "name": "Una Canci\u00f3n para la Comuni\u00f3n",
-      "url": "https://open.spotify.com/track/4gXNHUdnGkdrm2RakoJvr4"
-    },
-    {
-      "added_at": "2023-01-27 11:11:52",
-      "album": {
         "name": "Sal y Vive",
         "url": "https://open.spotify.com/album/63BZaXHHoVRVlvbBjkRPKk"
       },
@@ -927,18 +923,22 @@
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
-        "name": "M\u00e1s Que Suficiente (En Vivo)",
-        "url": "https://open.spotify.com/album/0qEshKTYaXtAACKK1KRon7"
+        "name": "Una Canci\u00f3n para la Comuni\u00f3n",
+        "url": "https://open.spotify.com/album/3VOrfVCb5qd9ZRMBM3dBSk"
       },
       "artists": [
         {
-          "name": "Revoluci\u00f3n Total",
-          "url": "https://open.spotify.com/artist/5PVYGpWaupI69Tqby8MQg5"
+          "name": "KDuran",
+          "url": "https://open.spotify.com/artist/7iXV6sobfDYQC7GDn294Cx"
+        },
+        {
+          "name": "Jonatan Narv\u00e1ez",
+          "url": "https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY"
         }
       ],
-      "duration_ms": 338077,
-      "name": "M\u00e1s Que Suficiente (En Vivo)",
-      "url": "https://open.spotify.com/track/3N6MtEFJudnxVCGFoRKicl"
+      "duration_ms": 234811,
+      "name": "Una Canci\u00f3n para la Comuni\u00f3n",
+      "url": "https://open.spotify.com/track/4gXNHUdnGkdrm2RakoJvr4"
     },
     {
       "added_at": "2023-01-27 11:11:52",
@@ -955,26 +955,6 @@
       "duration_ms": 209234,
       "name": "Marcas",
       "url": "https://open.spotify.com/track/3LGZx3Hn3qI3uXq3p2AoIt"
-    },
-    {
-      "added_at": "2023-01-27 11:11:52",
-      "album": {
-        "name": "El Robo",
-        "url": "https://open.spotify.com/album/45NhbYt4QlTHqs5PApbYKK"
-      },
-      "artists": [
-        {
-          "name": "Creyente.7",
-          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
-        },
-        {
-          "name": "Disc\u00edpulo the blessed",
-          "url": "https://open.spotify.com/artist/1SHizpkWESQzIMJrTotQsD"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "El Robo",
-      "url": "https://open.spotify.com/track/54OKvi0G0EZF10lR1lRokv"
     },
     {
       "added_at": "2023-01-27 11:11:52",
@@ -999,6 +979,26 @@
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
+        "name": "El Robo",
+        "url": "https://open.spotify.com/album/45NhbYt4QlTHqs5PApbYKK"
+      },
+      "artists": [
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        },
+        {
+          "name": "Disc\u00edpulo the blessed",
+          "url": "https://open.spotify.com/artist/1SHizpkWESQzIMJrTotQsD"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "El Robo",
+      "url": "https://open.spotify.com/track/54OKvi0G0EZF10lR1lRokv"
+    },
+    {
+      "added_at": "2023-01-27 11:11:52",
+      "album": {
         "name": "Maranatha",
         "url": "https://open.spotify.com/album/2qTdqR3GAZHBIVMhzn6rxj"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 300857,
       "name": "Maranatha",
       "url": "https://open.spotify.com/track/58UzDiEKSShileIQVivnWB"
+    },
+    {
+      "added_at": "2023-01-27 11:11:52",
+      "album": {
+        "name": "Destiny Marko: En Vivo Desde NY (EP) [En vivo]",
+        "url": "https://open.spotify.com/album/0hICul0FjzInByKS3tfgNq"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "duration_ms": 165858,
+      "name": "Est\u00e1s T\u00fa - En vivo",
+      "url": "https://open.spotify.com/track/05o1mvmurSwjttmUU13taF"
     },
     {
       "added_at": "2023-01-27 11:11:52",
@@ -1047,38 +1063,6 @@
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
-        "name": "Destiny Marko: En Vivo Desde NY (EP) [En vivo]",
-        "url": "https://open.spotify.com/album/0hICul0FjzInByKS3tfgNq"
-      },
-      "artists": [
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        }
-      ],
-      "duration_ms": 165858,
-      "name": "Est\u00e1s T\u00fa - En vivo",
-      "url": "https://open.spotify.com/track/05o1mvmurSwjttmUU13taF"
-    },
-    {
-      "added_at": "2023-01-27 11:11:52",
-      "album": {
-        "name": "Vital",
-        "url": "https://open.spotify.com/album/1hNnHKX0Wc13SoBckomh5r"
-      },
-      "artists": [
-        {
-          "name": "Pr\u00e1ctiko",
-          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
-        }
-      ],
-      "duration_ms": 149374,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/1DUmxJkbPnMaCUHiechFwP"
-    },
-    {
-      "added_at": "2023-01-27 11:11:52",
-      "album": {
         "name": "1996",
         "url": "https://open.spotify.com/album/5avwxNfzwdkKtNeXH7PTXy"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 150612,
       "name": "Super Uncion",
       "url": "https://open.spotify.com/track/3WxWb2LO83P723Id42vCPw"
+    },
+    {
+      "added_at": "2023-01-27 11:11:52",
+      "album": {
+        "name": "Vital",
+        "url": "https://open.spotify.com/album/1hNnHKX0Wc13SoBckomh5r"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00e1ctiko",
+          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
+        }
+      ],
+      "duration_ms": 149374,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/1DUmxJkbPnMaCUHiechFwP"
     },
     {
       "added_at": "2023-01-27 11:11:52",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-01-27 11:11:52",
       "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/5avwxNfzwdkKtNeXH7PTXy"
+      },
+      "artists": [
+        {
+          "name": "Edgar Lira",
+          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+        }
+      ],
+      "duration_ms": 358665,
+      "name": "Hay una Esperanza",
+      "url": "https://open.spotify.com/track/2LNWh9sTwcwBARdnwBhUTl"
+    },
+    {
+      "added_at": "2023-01-27 11:11:52",
+      "album": {
         "name": "Clean (MelGod Remix)",
         "url": "https://open.spotify.com/album/5mjlH2GofDK1u5LHZpnVq1"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 173722,
       "name": "Clean - MelGod Remix",
       "url": "https://open.spotify.com/track/4SkmuxIZuD6In4RPOWUOpm"
-    },
-    {
-      "added_at": "2023-01-27 11:11:52",
-      "album": {
-        "name": "1996",
-        "url": "https://open.spotify.com/album/5avwxNfzwdkKtNeXH7PTXy"
-      },
-      "artists": [
-        {
-          "name": "Edgar Lira",
-          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
-        }
-      ],
-      "duration_ms": 358665,
-      "name": "Hay una Esperanza",
-      "url": "https://open.spotify.com/track/2LNWh9sTwcwBARdnwBhUTl"
     }
   ],
   "unique_name": "Novedades Cristianas",

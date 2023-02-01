@@ -4,7 +4,7 @@
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-189 songs - 11 hr 52 min
+190 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Isolate \(feat\. 고아람\)](https://open.spotify.com/track/7JrApI8n2Sj8XntY0QFJ0Q) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/04wW9UOryMrrky7OJlYzIG) | 3:12 | 2022-06-30 | 2022-07-28 |
 | [It’s a different thing to love her and make her happy \(feat\. jeebanoff\)](https://open.spotify.com/track/16b6NsiIrMo33mr5Q3oZuS) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [It’s a different thing to love her and make her happy \(feat\. jeebanoff\)](https://open.spotify.com/album/2kUvVgrFAkMf3Uc0VFdvWY) | 4:56 | 2022-07-22 |  |
 | [It’s a different thing to love her and make her happy 그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 \(feat\. jeebanoff\)](https://open.spotify.com/track/6evTmpmB0QwV7jOfw8VMdD) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [It’s a different thing to love her and make her happy 그녀를 사랑하는 것과 행복하게 해주는 것은 별개야 \(feat\. jeebanoff\)](https://open.spotify.com/album/3ta3XOJmAbXFDzMFEYn6QR) | 4:56 | 2022-05-03 | 2022-07-29 |
-| [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 | 2022-09-07 |  |
+| [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 | 2022-09-07 | 2023-02-01 |
 | [Let's Go \(feat\. DA:ON, Gunjae & H!\)](https://open.spotify.com/track/6mtNKbzf60GX22QiHfX4cE) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [DA:ON](https://open.spotify.com/artist/6vdOplmzMU7t1fGRRzTZcY), [Gunjae](https://open.spotify.com/artist/4i1Cf2H3jiYAaA8iJznkRt), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [SEOULVIBES, GROCERY](https://open.spotify.com/album/7H4ODTXkDsCzqraY5DExRX) | 2:51 | 2022-07-04 |  |
 | [Life's A Dance \(feat\. Eden Kim & MinhaHa\)](https://open.spotify.com/track/35hdFIKywKmuL1peTy2Cqj) | [psv:gun](https://open.spotify.com/artist/6nLtSzTBaODlpfv1oQr7v0), [Eden Kim](https://open.spotify.com/artist/20WxUEeITA6lD9lqKXqVFG), [MinhaHa](https://open.spotify.com/artist/2pUVhz2qP3Dp8IIVu7d754) | [Life's A Dance](https://open.spotify.com/album/49P0x4zl5Km4v0219ZLZtV) | 3:04 | 2022-05-03 | 2022-07-27 |
 | [Like \(With All Cotton\)](https://open.spotify.com/track/3rNTZX5k6G9fva1dcqGLdl) | [Seo Roi](https://open.spotify.com/artist/6rDzgRoPGfzQPDttkmUQUC), [ALL COTTON](https://open.spotify.com/artist/67RP39cIxeLpu8i8U4E9ji) | [Like \(With All Cotton\)](https://open.spotify.com/album/6cKjKNd9JQPpSJAqGo9sV6) | 2:51 | 2022-05-03 | 2022-07-23 |
@@ -97,6 +97,7 @@
 | [Lyricist](https://open.spotify.com/track/1eEHOnrNLP46aGKLb1LtMI) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Lyricist](https://open.spotify.com/album/6igUyuDlRCyjoTtPXui6bT) | 3:16 | 2022-07-22 |  |
 | [Lyricist](https://open.spotify.com/track/5MFROL7TXwkFAeDs6rphWX) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Lyricist](https://open.spotify.com/album/0EMhcFdM4qy85rwwqOttww) | 3:16 | 2022-05-03 | 2022-07-29 |
 | [Maudie](https://open.spotify.com/track/0fu1BE5X5HZsYrphbof5DS) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest](https://open.spotify.com/album/1WjSq9kkrkKU1on2PT18Wh) | 4:04 | 2022-09-07 | 2022-12-03 |
+| [Maudie](https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:04 | 2023-01-25 |  |
 | [Maudie](https://open.spotify.com/track/7qcdtKc7dflDG35ieESgo9) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest part.1](https://open.spotify.com/album/3LlQxI5sqj7SGKwWGKtbMA) | 4:04 | 2022-05-03 | 2022-07-29 |
 | [Missing you](https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:32 | 2022-05-03 |  |
 | [Modern Times](https://open.spotify.com/track/5fClGwV57GC2efm64bJ5Mm) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:25 | 2022-05-03 | 2022-09-09 |

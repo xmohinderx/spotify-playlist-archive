@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-230 songs - 9 hr 0 min
+231 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [ameagari](https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [ameagari](https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv) | 4:12 | 2022-04-15 | 2022-07-29 |
 | [another.wun](https://open.spotify.com/track/1RaKBL6CSERv4lzPRKgg56) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [another.wun](https://open.spotify.com/album/5H01iddYzVjiMY7CcMFpnS) | 1:45 | 2022-04-15 |  |
 | [another.wun](https://open.spotify.com/track/6auvpJaVDpfgtYnpNwqF2x) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [another.wun](https://open.spotify.com/album/2nsg6lRwaX0YxvpPlUOeX7) | 1:45 | 2022-04-15 | 2022-12-15 |
-| [Atlantic.Wav](https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0) | [Atlantic.Wav](https://open.spotify.com/album/2gzZTSiK4sGXGe2xyy6Kyk) | 2:17 | 2022-04-15 |  |
+| [Atlantic.Wav](https://open.spotify.com/track/6bMsqnrwBIF6sbeS9GV7uL) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0) | [Atlantic.Wav](https://open.spotify.com/album/2gzZTSiK4sGXGe2xyy6Kyk) | 2:17 | 2022-04-15 | 2023-02-01 |
+| [Autumn Chills](https://open.spotify.com/track/1Mg5n0Gvx8PphL8ZpJVKyT) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Autumn Chills](https://open.spotify.com/album/0LeD9H3MwdhpdQRdLtEPBE) | 1:54 | 2022-04-15 |  |
 | [Autumn Chills](https://open.spotify.com/track/1QeNanRwlzQT8gQ2RDsSqP) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Autumn Chills](https://open.spotify.com/album/6YwhevuTpiBj2f4ABjntyF) | 1:54 | 2022-04-15 | 2022-11-21 |
 | [Autumn Chills](https://open.spotify.com/track/75reExYuxnJtFw5HYdR4ZW) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Jazzterfield](https://open.spotify.com/album/5CkqnEDMBl32m3lkZWRsxe) | 1:54 | 2022-04-15 | 2022-07-29 |
 | [Away with the Fairies](https://open.spotify.com/track/6Yp6bCLd4IWur1yL2Xirrk) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw) | [Away with the Fairies](https://open.spotify.com/album/1zfbxCBx19QGZoGsiivrcA) | 2:46 | 2022-04-15 | 2022-07-24 |

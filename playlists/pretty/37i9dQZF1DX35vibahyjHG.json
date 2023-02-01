@@ -1,28 +1,32 @@
 {
-  "description": "Listen to women at full volume. Cover: <a href=\"https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW?si=P6oPExm4QMimoz-HpGDuhQ\"> Yemi Alade</a>",
-  "num_followers": 87264,
+  "description": "Listen to women at full volume. Cover: <a href=\"https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=wa2us3fCR725l3DlDD83sQ\"> Xenia Manasseh</a>",
+  "num_followers": 87293,
   "original_name": "EQUAL Africa ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjkwODYxNiwwMDAwMDAwMDIxMDQ5NDE3MzE5ZWM0MmQyNmM1Mzk2OTQ0YjgwNjJk",
+  "snapshot_id": "MTY3NTIwOTYwMCwwMDAwMDAwMDBhY2U3MzcwYTk4NzQ2YTIyYzBmYzg4YzhjZTdkOGYx",
   "tracks": [
     {
-      "added_at": "2023-01-05 08:50:16",
+      "added_at": "2023-02-01 00:00:00",
       "album": {
-        "name": "African Baddie",
-        "url": "https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413"
+        "name": "A Little Thing Called Love",
+        "url": "https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q"
       },
       "artists": [
         {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+          "name": "Hook",
+          "url": "https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Baddie",
-      "url": "https://open.spotify.com/track/2Zw2XPLkBPGGN9uZpZT2r0"
+      "duration_ms": 170062,
+      "name": "A Little Thing Called Love",
+      "url": "https://open.spotify.com/track/1pSMZXj5eSWvvEKwTydZEb"
     },
     {
       "added_at": "2023-01-05 08:50:16",
@@ -41,6 +45,70 @@
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
+      "added_at": "2023-02-01 00:00:00",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB"
+    },
+    {
+      "added_at": "2023-02-01 00:00:00",
+      "album": {
+        "name": "Been Thinking",
+        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187275,
+      "name": "Been Thinking",
+      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
+    },
+    {
+      "added_at": "2023-02-01 00:00:00",
+      "album": {
+        "name": "How To Kill A Man",
+        "url": "https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 174590,
+      "name": "How To Kill A Man",
+      "url": "https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb"
+    },
+    {
+      "added_at": "2023-02-01 00:00:00",
+      "album": {
+        "name": "What's Around The Corner",
+        "url": "https://open.spotify.com/album/1RpUrBuml8USoJNuUAbVrH"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "There's Too Much Of You",
+      "url": "https://open.spotify.com/track/7ox53QO10ykeeAkrFvmn3f"
+    },
+    {
       "added_at": "2022-11-04 00:00:00",
       "album": {
         "name": "For Broken Ears",
@@ -55,22 +123,6 @@
       "duration_ms": 247578,
       "name": "Free Mind",
       "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/7lkc6V0wruV3n2VO8nL71D"
-      },
-      "artists": [
-        {
-          "name": "Chrystel",
-          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
-        }
-      ],
-      "duration_ms": 166470,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/1DxQFCBRYmnL9P2SJfHCml"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -89,6 +141,30 @@
       "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
     },
     {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+        "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 204763,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+      "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
+    },
+    {
       "added_at": "2022-11-04 00:00:00",
       "album": {
         "name": "Baby Riddim",
@@ -103,6 +179,34 @@
       "duration_ms": 190677,
       "name": "Baby Riddim",
       "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Tanzania",
+        "url": "https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Tony Duardo",
+          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        },
+        {
+          "name": "BoiBizza",
+          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
+        }
+      ],
+      "duration_ms": 376078,
+      "name": "Tanzania",
+      "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
     },
     {
       "added_at": "2023-01-05 08:50:16",
@@ -159,6 +263,22 @@
     {
       "added_at": "2023-01-05 08:50:16",
       "album": {
+        "name": "African Baddie",
+        "url": "https://open.spotify.com/album/3Ljjgl5Yho8BUmMxBVC413"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Baddie",
+      "url": "https://open.spotify.com/track/2Zw2XPLkBPGGN9uZpZT2r0"
+    },
+    {
+      "added_at": "2023-01-05 08:50:16",
+      "album": {
         "name": "Notice",
         "url": "https://open.spotify.com/album/0oGDwRzADK0Dw6LEXUEcKw"
       },
@@ -171,30 +291,6 @@
       "duration_ms": 127200,
       "name": "Notice",
       "url": "https://open.spotify.com/track/1Xk47tjKaopJmQQqyJWz9T"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-        "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 204763,
-      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-      "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -305,6 +401,22 @@
       "url": "https://open.spotify.com/track/4CzjRsUOISdhNlpB09rIz6"
     },
     {
+      "added_at": "2023-02-01 00:00:00",
+      "album": {
+        "name": "Kold Szn",
+        "url": "https://open.spotify.com/album/5wpQuIHSrmQR5OkFSuDf9D"
+      },
+      "artists": [
+        {
+          "name": "Kold AF",
+          "url": "https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8"
+        }
+      ],
+      "duration_ms": 181348,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6"
+    },
+    {
       "added_at": "2022-11-04 00:00:00",
       "album": {
         "name": "Water & Garri",
@@ -339,30 +451,6 @@
       "duration_ms": 204000,
       "name": "Ex",
       "url": "https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Amagama",
-        "url": "https://open.spotify.com/album/0BGc6z2e1fCAEi2GAngKRm"
-      },
-      "artists": [
-        {
-          "name": "Nomfundo Moh",
-          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
-        },
-        {
-          "name": "De Mthuda",
-          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
-        },
-        {
-          "name": "Da Muziqal Chef",
-          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
-        }
-      ],
-      "duration_ms": 207950,
-      "name": "Kuhle",
-      "url": "https://open.spotify.com/track/2BgRlKT9nfis5OTSEcCais"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -483,6 +571,22 @@
       "duration_ms": 136270,
       "name": "Summertime With You",
       "url": "https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE"
+    },
+    {
+      "added_at": "2023-02-01 00:00:00",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/1aBTjgHgBbLIjkLjFsIShE"
+      },
+      "artists": [
+        {
+          "name": "Sophiegrophy",
+          "url": "https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6foox9Ac3UrBD6oJgWiZiL"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -641,6 +745,22 @@
       "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
+      "added_at": "2023-02-01 00:00:00",
+      "album": {
+        "name": "Calabash",
+        "url": "https://open.spotify.com/album/13lvpRxnYYnWZWgdnMVrRv"
+      },
+      "artists": [
+        {
+          "name": "Looking for Avala",
+          "url": "https://open.spotify.com/artist/0ze3oqXaudUaJP8HBRuJJ1"
+        }
+      ],
+      "duration_ms": 156846,
+      "name": "Calabash",
+      "url": "https://open.spotify.com/track/38fddB34U8mv6ID4jcvndR"
+    },
+    {
       "added_at": "2022-11-04 00:00:00",
       "album": {
         "name": "S\u00e1r\u00e9",
@@ -655,34 +775,6 @@
       "duration_ms": 154000,
       "name": "S\u00e1r\u00e9",
       "url": "https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "Tanzania",
-        "url": "https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN"
-      },
-      "artists": [
-        {
-          "name": "Uncle Waffles",
-          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
-        },
-        {
-          "name": "Tony Duardo",
-          "url": "https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z"
-        },
-        {
-          "name": "Sino Msolo",
-          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
-        },
-        {
-          "name": "BoiBizza",
-          "url": "https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR"
-        }
-      ],
-      "duration_ms": 376078,
-      "name": "Tanzania",
-      "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -783,22 +875,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Honey Doom",
-        "url": "https://open.spotify.com/album/3TvKmSxLeUCvQpNRgnVgN3"
-      },
-      "artists": [
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 169565,
-      "name": "Love Doc",
-      "url": "https://open.spotify.com/track/3bpkRl4IHT49fNn0GOqUfE"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "My Man",
         "url": "https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA"
       },
@@ -815,54 +891,6 @@
       "duration_ms": 218181,
       "name": "My Man",
       "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6bqDVBfkBUuMy56zc91rR6"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/1ODftV7ocihBwY9CJcCvD1"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Do You Care ?",
-        "url": "https://open.spotify.com/album/4c0QOiJf5G20AdYka2geO9"
-      },
-      "artists": [
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 203717,
-      "name": "Do You Care ?",
-      "url": "https://open.spotify.com/track/0Dbne8cZTmiWLWjubDZA5e"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "For Times We Lost",
-        "url": "https://open.spotify.com/album/3PAIF3G2cZ2hgopF1moQKI"
-      },
-      "artists": [
-        {
-          "name": "Cina Soul",
-          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/1rykDqcJdmTcr8xqpkbEnc"
     },
     {
       "added_at": "2022-11-04 00:00:00",
@@ -927,46 +955,6 @@
       "duration_ms": 201769,
       "name": "Wait",
       "url": "https://open.spotify.com/track/693fsnXiRNNGxqrX5bnWal"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Stairway To Heaven",
-        "url": "https://open.spotify.com/album/2gllP0wR0siE0NYM9U5Tjb"
-      },
-      "artists": [
-        {
-          "name": "SOLIS",
-          "url": "https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh"
-        },
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 203951,
-      "name": "Abeg (feat. Amindi)",
-      "url": "https://open.spotify.com/track/4rRhOCXEvlQeMMLXDDigAP"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Where You Dey Go",
-        "url": "https://open.spotify.com/album/29cX6p9D3Aw6GRbsoeOldR"
-      },
-      "artists": [
-        {
-          "name": "Busiswa",
-          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 193790,
-      "name": "Where You Dey Go (feat. Naira Marley)",
-      "url": "https://open.spotify.com/track/0Dxn6EaJKcjQuLg8gzviIH"
     }
   ],
   "unique_name": "EQUAL Africa ",

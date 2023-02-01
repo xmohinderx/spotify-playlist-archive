@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 58576,
+  "num_followers": 58731,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIxNzE0NiwwMDAwMDAwMDM3ZGI4NDc4YjZkMTJkYzgwMDRhODFiOTM4YmJlNDQy",
+  "snapshot_id": "MTY0MTIxNzE0NiwwMDAwMDAwMDQ1MmNkZGM2Zjg0YmEzNjBkNjgxNWZmNTgwMGI5NWU5",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 249191,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "First Steps",
         "url": "https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc"
       },
@@ -203,18 +187,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 201413,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
+      "duration_ms": 249191,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -235,18 +219,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 307151,
-      "name": "Nights",
-      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -299,22 +283,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 211851,
-      "name": "Sleep On The Floor",
-      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Puberty 2",
         "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
       },
@@ -327,6 +295,54 @@
       "duration_ms": 212183,
       "name": "Your Best American Girl",
       "url": "https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 307151,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 211851,
+      "name": "Sleep On The Floor",
+      "url": "https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -363,22 +379,6 @@
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -431,22 +431,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Bcos U Will Never B Free",
-        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "A Song About Being Sad",
-      "url": "https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+        "name": "Bcos U Will Never B Free",
+        "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 201785,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/5bodDpPolC3xlame0SVcDY"
+      "duration_ms": 136000,
+      "name": "A Song About Being Sad",
+      "url": "https://open.spotify.com/track/1phSI7mJzqlu2HE6gIwu7I"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -491,6 +475,22 @@
       "duration_ms": 237961,
       "name": "Marinade",
       "url": "https://open.spotify.com/track/4zCrOO8OAjpnmekfIxzTsl"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 201785,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/5bodDpPolC3xlame0SVcDY"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "How To Be A Human Being",
-        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 281406,
-      "name": "Life Itself",
-      "url": "https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Blossoms",
         "url": "https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 166791,
       "name": "Charlemagne",
       "url": "https://open.spotify.com/track/7H5WVBQdSnJ1zmu8JoD6pg"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "How To Be A Human Being",
+        "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 281406,
+      "name": "Life Itself",
+      "url": "https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -655,18 +655,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 225560,
-      "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+      "duration_ms": 245960,
+      "name": "Broken Bones",
+      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -687,34 +687,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Disappear Here",
-        "url": "https://open.spotify.com/album/2YXl7mV4d30fEbwpVQ7YBQ"
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
       "artists": [
         {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 187013,
-      "name": "Daft Pretty Boys",
-      "url": "https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 245960,
-      "name": "Broken Bones",
-      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
+      "duration_ms": 225560,
+      "name": "All We Ever Knew",
+      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -735,6 +719,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "Disappear Here",
+        "url": "https://open.spotify.com/album/2YXl7mV4d30fEbwpVQ7YBQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Daft Pretty Boys",
+      "url": "https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 224133,
       "name": "On Hold",
       "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 218600,
+      "name": "Hot Blood",
+      "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -803,22 +819,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 218600,
-      "name": "Hot Blood",
-      "url": "https://open.spotify.com/track/7d9sZF7jmepe2EYdETlNWK"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "How To Be A Human Being",
         "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
       },
@@ -835,6 +835,26 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "Lessons in Love",
+        "url": "https://open.spotify.com/album/17MS1oITaC8VbYmtpXplMV"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        },
+        {
+          "name": "GRADES",
+          "url": "https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY"
+        }
+      ],
+      "duration_ms": 232490,
+      "name": "If You Let Me",
+      "url": "https://open.spotify.com/track/6F428UUtHqMwxwOtDajrDZ"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "Home of the Strange",
         "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
       },
@@ -847,6 +867,38 @@
       "duration_ms": 197426,
       "name": "Silvertongue",
       "url": "https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 384438,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/1Rd5OVjqDAr5xC96MHt448"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Teens Of Denial",
+        "url": "https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 374653,
+      "name": "Drunk Drivers/Killer Whales",
+      "url": "https://open.spotify.com/track/75hwtYcghca6YKW4i6C6fP"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -871,18 +923,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Teens Of Denial",
-        "url": "https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP"
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
       "artists": [
         {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 374653,
-      "name": "Drunk Drivers/Killer Whales",
-      "url": "https://open.spotify.com/track/75hwtYcghca6YKW4i6C6fP"
+      "duration_ms": 200987,
+      "name": "Send Them Off!",
+      "url": "https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -903,38 +955,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "A Moon Shaped Pool",
-        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 384438,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/1Rd5OVjqDAr5xC96MHt448"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 200987,
-      "name": "Send Them Off!",
-      "url": "https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "A Mineral Love",
         "url": "https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 152333,
       "name": "Petals",
       "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "Lessons in Love",
-        "url": "https://open.spotify.com/album/17MS1oITaC8VbYmtpXplMV"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        },
-        {
-          "name": "GRADES",
-          "url": "https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY"
-        }
-      ],
-      "duration_ms": 232490,
-      "name": "If You Let Me",
-      "url": "https://open.spotify.com/track/6F428UUtHqMwxwOtDajrDZ"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Two Vines",
-        "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "High And Low",
-      "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 261773,
       "name": "California",
       "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Two Vines",
+        "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "High And Low",
+      "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/2sewj0rFvlr3aEM3bGy12n"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "Schmilco",
         "url": "https://open.spotify.com/album/1Wjheru5k9DMQduRIasAyL"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/6XpbhukKdSB6cnVPW7fgSR"
       },
       "artists": [
         {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 196946,
-      "name": "Twice",
-      "url": "https://open.spotify.com/track/2sewj0rFvlr3aEM3bGy12n"
+      "duration_ms": 171789,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1231,22 +1247,6 @@
       "duration_ms": 298026,
       "name": "GLOWED UP",
       "url": "https://open.spotify.com/track/4v20N4W83XDJORt7WCedII"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/6XpbhukKdSB6cnVPW7fgSR"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "Soundcheck",
-      "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "The Altar",
         "url": "https://open.spotify.com/album/2WzQeYsbrDq1UcVZmY8dVR"
       },
@@ -1345,26 +1329,6 @@
       "url": "https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS"
     },
     {
-      "added_at": "2022-01-03 13:24:59",
-      "album": {
-        "name": "The End Of Comedy",
-        "url": "https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        },
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN"
-    },
-    {
       "added_at": "2021-09-22 14:36:46",
       "album": {
         "name": "saintmotelevision",
@@ -1383,18 +1347,38 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 309013,
-      "name": "8 (circle)",
-      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
+      "duration_ms": 261560,
+      "name": "Soundcheck",
+      "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
+    },
+    {
+      "added_at": "2022-01-03 13:24:59",
+      "album": {
+        "name": "The End Of Comedy",
+        "url": "https://open.spotify.com/album/7sE5BL81qaw47AiiH9rV2H"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/77iRifbhkJGvGBBRNykUwN"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Berhana",
-        "url": "https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3"
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
       "artists": [
         {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 261102,
-      "name": "Grey Luh",
-      "url": "https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16"
+      "duration_ms": 309013,
+      "name": "8 (circle)",
+      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "Berhana",
+        "url": "https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 261102,
+      "name": "Grey Luh",
+      "url": "https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "Cardinal (Expanded Edition)",
         "url": "https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "22 (OVER S\u221e\u221eN)",
-      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Freetown Sound",
         "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 225747,
       "name": "Best to You",
       "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "22 (OVER S\u221e\u221eN)",
+      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
     },
     {
       "added_at": "2021-09-22 14:36:46",

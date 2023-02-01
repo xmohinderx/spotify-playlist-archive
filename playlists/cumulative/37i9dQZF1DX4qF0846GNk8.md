@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر!  <br/> الغلاف: حسن شاكوش و حمو بيكا
+> أجمد المهرجانات في مصر!  <br/> الغلاف: علي قدورة ونور التوت
 
-124 songs - 7 hr 42 min
+126 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,12 @@
 | [Salamat Ala Nas Amloly Ekhwat](https://open.spotify.com/track/6ZfkjaM4KONGaRkCLpHKfD) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [Salamat Ala Nas Amloly Ekhwat](https://open.spotify.com/album/3Ou7kxBQqBBdxQHMXLFGgL) | 4:34 | 2021-12-16 | 2022-07-29 |
 | [Tarsh](https://open.spotify.com/track/5iuZ87tYtYAfd4VkuzN4Zl) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Ordne](https://open.spotify.com/artist/6eEgtjJ64JAlgjqyBPzkqH) | [Tarsh](https://open.spotify.com/album/30watsIksrxiSzUcTLC1FE) | 2:43 | 2021-12-16 |  |
 | [Weyyak](https://open.spotify.com/track/1hCT1bsFmcuqi9HRP1ilf0) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [Weyyak](https://open.spotify.com/album/4Hy7xGPu9rQ3qSv6dWNrym) | 2:54 | 2021-12-16 | 2022-07-31 |
-| [إحلويتي](https://open.spotify.com/track/6jr1OcQ7lF6gyNVAupJ97z) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [إحلويتي](https://open.spotify.com/album/6zlU10l2gCp6QfdKKL49Sq) | 2:48 | 2022-10-27 |  |
+| [إحلويتي](https://open.spotify.com/track/6jr1OcQ7lF6gyNVAupJ97z) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [إحلويتي](https://open.spotify.com/album/6zlU10l2gCp6QfdKKL49Sq) | 2:48 | 2022-10-27 | 2023-02-01 |
 | [احلي واحدة](https://open.spotify.com/track/5zPoA6xtqHtm7nfVzNy7rf) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [احلي واحدة](https://open.spotify.com/album/2LdxWsXOsPVsknLFbXX2YH) | 3:03 | 2022-10-16 |  |
 | [احنا اللي مننا التراب بجد اشتكي](https://open.spotify.com/track/1EMaJKcQU0qjNyLEUQZIIg) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Mostafa Elgen](https://open.spotify.com/artist/6waWgmPILhG345nVwJfb4N) | [احنا اللي مننا التراب بجد اشتكي](https://open.spotify.com/album/6D9STyIeYzS4NuZrqTHuEX) | 5:24 | 2022-07-30 |  |
 | [اخرس عمك جالك](https://open.spotify.com/track/7xY05LQHDQJFxvZrEzStsY) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt) | [اخرس عمك جالك](https://open.spotify.com/album/6FaNLCBZEMml6pu9shmRPc) | 5:44 | 2022-02-01 | 2022-07-29 |
 | [ازاى تتساو بيا](https://open.spotify.com/track/191eHjlFxHTFTbYmmd1vJ4) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [ازاى تتساو بيا](https://open.spotify.com/album/6Nh5cETpD4ej0JSmgM9GUy) | 4:36 | 2023-01-03 |  |
-| [اسد](https://open.spotify.com/track/1L7aD7NY2girxihsDxw4Wj) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [اسد](https://open.spotify.com/album/3SSBYhKw3OuJkA53w9JvqA) | 4:00 | 2022-10-25 |  |
+| [اسد](https://open.spotify.com/track/1L7aD7NY2girxihsDxw4Wj) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [اسد](https://open.spotify.com/album/3SSBYhKw3OuJkA53w9JvqA) | 4:00 | 2022-10-25 | 2023-02-01 |
 | [البابا](https://open.spotify.com/track/7hYdamEgzysb2hiOUDXb66) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [البابا](https://open.spotify.com/album/2vQiKmLoDMDSdwzQkNWmnr) | 2:39 | 2023-01-12 |  |
 | [البابا \- وزير الحنيه من غير اوراق رسميه](https://open.spotify.com/track/6bTPrZSAH1kQczJ0Kg6Iyt) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [البابا](https://open.spotify.com/album/39jHOJiDcRTjDjHgGiiXz6) | 2:40 | 2023-01-12 | 2023-01-14 |
 | [البارتي ديرتي](https://open.spotify.com/track/0NAM1l5YnUEJvKqC8pZDF4) | [Abdo Sytra](https://open.spotify.com/artist/5MeN7kXMYIcFgmP1yZdKIz) | [البارتي ديرتي](https://open.spotify.com/album/3BOUO7WfdhslWwmxX8wZ8A) | 2:38 | 2021-12-16 | 2022-06-07 |
@@ -68,6 +68,7 @@
 | [ريموت التلفزيون](https://open.spotify.com/track/5pRjLuLXO60pawAqCspZWD) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA), [سامر المدني](https://open.spotify.com/artist/54C1fQ9Rt2FqXgr2hd0bxJ) | [ريموت التلفزيون](https://open.spotify.com/album/0aGaB56SqGQioDn1AvxDbR) | 2:28 | 2022-10-16 | 2022-11-15 |
 | [ريموت التلفيزيون \- امسكو وانا هعمل اعمى](https://open.spotify.com/track/7DUPgXQK4NvmRrPFlVhfx2) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [ريموت التلفيزيون \(امسكو وانا هعمل اعمى\)](https://open.spotify.com/album/4ayeNoazhIEgP5drJ1Dl5P) | 3:09 | 2022-07-19 |  |
 | [شارع الرجوله \( مساء الزفت ع العمر اللي بيعدي \)](https://open.spotify.com/track/7nN8eFZ4dgP19pUGZYEOJt) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky) | [شارع الرجوله \( مساء الزفت ع العمر اللي بيعدي \)](https://open.spotify.com/album/2Dl54ixdiIKlln84W2uIoY) | 3:37 | 2023-01-03 |  |
+| [شايفنى بس مش شايفك](https://open.spotify.com/track/7yZMTFgZKb1EFNKYSai1yS) | [مودي امين](https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI), [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [شايفنى بس مش شايفك](https://open.spotify.com/album/26Tm4L4U6efme9KK7TBFTR) | 3:47 | 2023-01-31 |  |
 | [شقطت منك حبيبتك ياعم](https://open.spotify.com/track/1BApx7glGPbKRZ4Tqomd2f) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t) | [شقطت منك حبيبتك ياعم](https://open.spotify.com/album/7qWys684xM31U3iRKfQKyl) | 6:02 | 2021-12-16 | 2022-06-10 |
 | [شيماء](https://open.spotify.com/track/4neYwcLQvLZ6kEdgF0cicX) | [يوسف سوسته](https://open.spotify.com/artist/5jpOJNLKX0WO5HD5Ku8FiD) | [شيماء](https://open.spotify.com/album/1iyn88en2SMsBTW6JEUMmf) | 2:04 | 2021-12-16 | 2022-07-20 |
 | [صاحبي من غبائه](https://open.spotify.com/track/3RLpfYSIQlW1YI6bIexpUy) | [Mody Amin](https://open.spotify.com/artist/65PQtmRWkjiL4TrRyLo2Gx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [صاحبي من غبائه](https://open.spotify.com/album/1K9oCdpNQGZfDGDvHzLEbb) | 4:09 | 2021-12-16 | 2022-02-17 |
@@ -100,6 +101,7 @@
 | [كله طار فالمطار](https://open.spotify.com/track/4Ie7oOIUQkXvh1fHBsSlOg) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Mohamed Chahine](https://open.spotify.com/artist/4d9QeHQF7jBlI2ijrgjZux) | [كله طار فالمطار](https://open.spotify.com/album/6Fao9AJIiam6uKwM7YtEcJ) | 3:44 | 2021-12-16 | 2022-02-02 |
 | [لعبة شيطان](https://open.spotify.com/track/7IyjPiblGU4K3drFcYJ8NF) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [حمادة الاسمر](https://open.spotify.com/artist/5LsL02cuu57lW7AOmvO3ps), [مودى امين](https://open.spotify.com/artist/7Ejmt0gVeRtQ5CLaTkd8bv) | [لعبة شيطان](https://open.spotify.com/album/3m5miPVgYM3zHo4gHOuLsf) | 3:55 | 2021-12-16 | 2022-10-25 |
 | [ماتحن اجن](https://open.spotify.com/track/42m5ObDoL7JoWfnO1tzQLg) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [ماتحن اجن](https://open.spotify.com/album/1FuyzSkOlkk8ykWsLd6zV5) | 6:02 | 2022-10-24 |  |
+| [مبقاش فى خير فى الناس](https://open.spotify.com/track/4GT37oFB2kTll36C5c8Ohl) | [Ali Adora](https://open.spotify.com/artist/1YBCglSx16gpk34ayxU5Dp), [Nour Eltot](https://open.spotify.com/artist/73XccIf98HDXk4ZeJNe6Hq) | [مبقاش فى خير فى الناس](https://open.spotify.com/album/1B8QQCVTYNFHmhIlu3SH8A) | 3:30 | 2023-01-31 |  |
 | [متغاظ عارفك يلا مننا متغاظ](https://open.spotify.com/track/0sRMA5RMTncLpfZ6Uk9Wi1) | [Mostafa el Degwy](https://open.spotify.com/artist/58Aady92Ax4EADOATwDJWC), [Mohamed Zizo](https://open.spotify.com/artist/3h9YTec0GeWBcIFCFJRDgG) | [متغاظ عارفك يلا مننا متغاظ](https://open.spotify.com/album/5SQGV3iWGYOKzxLNay9jad) | 2:48 | 2021-12-16 | 2022-02-02 |
 | [محدش يقولي يا خويا](https://open.spotify.com/track/5WMk2uxBimKwASfmSLW4v6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [محدش يقولي يا خويا](https://open.spotify.com/album/4mE3FVSR0PDqA7rodta9Sk) | 3:20 | 2022-02-16 | 2022-10-17 |
 | [مسا مني ليكوا](https://open.spotify.com/track/7qnR06N2Ekj9iBOQHiFqdq) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [مسا منى ليكوا](https://open.spotify.com/album/7xJews3EUUzYDq1Ycez0Kq) | 3:39 | 2023-01-12 |  |

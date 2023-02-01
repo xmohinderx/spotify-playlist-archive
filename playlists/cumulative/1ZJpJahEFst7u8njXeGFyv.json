@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190482,
+      "name": "20220302 - sarabande",
+      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
+    },
+    {
+      "album": {
         "name": "On DSCH",
         "url": "https://open.spotify.com/album/1DBfIrYJBo5skPBmx4wWKM"
       },
@@ -482,6 +500,28 @@
       "duration_ms": 171893,
       "name": "Ave verum corpus, K. 618",
       "url": "https://open.spotify.com/track/2n8RER1bE1xgIDstwnX0oh"
+    },
+    {
+      "album": {
+        "name": "Ave verum corpus, K.618 (arr. for piano by Franz Liszt)",
+        "url": "https://open.spotify.com/album/6hJpChw1IpyvRw8UVDzO09"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Ave verum corpus, K.618 (arr. for piano by Franz Liszt)",
+      "url": "https://open.spotify.com/track/65P5vqHd18YLG8AsaVGFjw"
     },
     {
       "album": {
@@ -1379,6 +1419,32 @@
     },
     {
       "album": {
+        "name": "II. Adagio",
+        "url": "https://open.spotify.com/album/68VoCUnYwGfSk5U60Jf7cF"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Martin Fr\u00f6st",
+          "url": "https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF"
+        },
+        {
+          "name": "Swedish Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/1mlMBjVFn5oeZLAXHIM5no"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411026,
+      "name": "II. Adagio",
+      "url": "https://open.spotify.com/track/5AjGHyx54NLmriCjj71qiR"
+    },
+    {
+      "album": {
         "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\"/II. Andante",
         "url": "https://open.spotify.com/album/5iXGMmM60Ypuu3d9wg8AvX"
       },
@@ -2006,7 +2072,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 202560,
       "name": "lumina",
       "url": "https://open.spotify.com/track/2chguT5MNB67ujORKGn8kz"
@@ -2927,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Portal (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/4Nr9D0dFIYDDVVnn9Db7Zt"
+      },
+      "artists": [
+        {
+          "name": "Wide Eyed",
+          "url": "https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211765,
+      "name": "Portal (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/44vE0HbBqrngFUIb0HvRJ4"
+    },
+    {
+      "album": {
         "name": "Prelude in B minor, BWV 855a (Arr. by Alexander Siloti)",
         "url": "https://open.spotify.com/album/1J2gEYm9QCKqxwpGl3xDtT"
       },
@@ -3370,6 +3454,24 @@
       "duration_ms": 175293,
       "name": "Spanish Romance",
       "url": "https://open.spotify.com/track/40pWXzf0b893V7qfuU8w88"
+    },
+    {
+      "album": {
+        "name": "St Andrews",
+        "url": "https://open.spotify.com/album/4KJNOoQMRmIgmRe2oQXvlk"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222048,
+      "name": "St Andrews",
+      "url": "https://open.spotify.com/track/1GqpfjiD1dOGBuOgVFXu6F"
     },
     {
       "album": {
@@ -4282,6 +4384,24 @@
       "duration_ms": 119426,
       "name": "Zdes' khorosho ('How Fair This Spot'), Op. 21, No. 7",
       "url": "https://open.spotify.com/track/0wZMPhztIsuwSjCo6OalWe"
+    },
+    {
+      "album": {
+        "name": "\u00c9l\u00e9gie",
+        "url": "https://open.spotify.com/album/3xV4YY0DnCwzArKvqI479e"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253201,
+      "name": "\u00c9l\u00e9gie",
+      "url": "https://open.spotify.com/track/4t9opZlYVkN78Rh29Pf0YQ"
     },
     {
       "album": {

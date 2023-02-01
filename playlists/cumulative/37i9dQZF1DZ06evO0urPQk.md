@@ -4,7 +4,7 @@
 
 > This is Nana Mizuki\. The essential tracks, all in one playlist.
 
-81 songs - 5 hr 44 min
+82 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [ETERNAL BLAZE](https://open.spotify.com/track/6FghEVkOL58IWEkRFqfKks) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [HYBRID UNIVERSE](https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk) | 5:07 | 2022-06-09 |  |
 | [Exterminate](https://open.spotify.com/track/335ebz0kyT8Y8uVQxFsKGM) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Exterminate](https://open.spotify.com/album/5eyRVLUSNzYmLwoX2rKZ1e) | 4:02 | 2022-08-14 | 2022-12-30 |
 | [Exterminate](https://open.spotify.com/track/22b3p38QWCoHEZI3PQ5RnK) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:05 | 2022-06-09 |  |
-| [FEARLESS HERO](https://open.spotify.com/track/6aSOAkhrHgGv4hzDhnIm50) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [BRIGHT STREAM](https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb) | 4:14 | 2022-06-09 | 2022-10-23 |
+| [FEARLESS HERO](https://open.spotify.com/track/6aSOAkhrHgGv4hzDhnIm50) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [BRIGHT STREAM](https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb) | 4:14 | 2022-06-09 |  |
 | [FINAL COMMANDER](https://open.spotify.com/track/4BmDMzDL8rpgMcCTHQCJEr) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [FINAL COMMANDER](https://open.spotify.com/album/79ZMg93RW0DUIG6flJDOJ1) | 4:22 | 2022-06-13 |  |
 | [FINAL COMMANDER \-Aufwachen Form\-](https://open.spotify.com/track/2eWyeChIRLpqtVTxsCQtnJ) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CANNONBALL RUNNING](https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8) | 5:05 | 2022-06-09 |  |
 | [FIRE SCREAM](https://open.spotify.com/track/1q4RbhcSDoeyrR2uly6yQt) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [FIRE SCREAM](https://open.spotify.com/album/7t9tYlGR5fuMfUZPMvesRH) | 3:45 | 2022-06-09 |  |
@@ -33,9 +33,10 @@
 | [Go Live!](https://open.spotify.com/track/6fPmnIyjD5Gq9G4IVJ8ThE) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:50 | 2022-07-21 | 2023-01-29 |
 | [Go Live!](https://open.spotify.com/track/7DtziIc0PbQqXEA2y0GpCR) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Go Live!](https://open.spotify.com/album/2ptmwRdo4fRDPOW1JbNHDv) | 3:50 | 2022-07-02 | 2022-07-22 |
 | [HOLY TALE](https://open.spotify.com/track/2mM3EpaWr850L0hsZ5enND) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:58 | 2022-08-10 |  |
-| [innocent starter](https://open.spotify.com/track/1HQC4xCEMH0VZUnj4xkVFu) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM](https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT) | 4:40 | 2022-06-09 |  |
+| [innocent starter](https://open.spotify.com/track/1HQC4xCEMH0VZUnj4xkVFu) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM](https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT) | 4:40 | 2022-06-09 | 2023-02-01 |
+| [innocent starter](https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [innocent starter](https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856) | 4:41 | 2023-01-31 |  |
 | [Invisible Heat](https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Destiny's Prelude](https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs) | 4:27 | 2022-06-09 |  |
-| [Justice to Believe](https://open.spotify.com/track/2VXquJgTo2SfzCYLgz5cOj) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Justice to Believe/アオイイロ](https://open.spotify.com/album/2gA0xxFZ1zlfcIS60xP5Av) | 5:02 | 2022-06-09 |  |
+| [Justice to Believe](https://open.spotify.com/track/2VXquJgTo2SfzCYLgz5cOj) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Justice to Believe/アオイイロ](https://open.spotify.com/album/2gA0xxFZ1zlfcIS60xP5Av) | 5:02 | 2022-06-09 | 2023-02-01 |
 | [Link or Chains](https://open.spotify.com/track/100h1Dh7OLkPvvojCBvspd) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:45 | 2022-07-23 | 2022-10-07 |
 | [MARIA&JOKER](https://open.spotify.com/track/5hiyfMUO0OYNyhTEMfNaAN) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ULTIMATE DIAMOND](https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL) | 4:11 | 2022-08-09 | 2022-09-02 |
 | [MASSIVE WONDERS](https://open.spotify.com/track/193WAoYb9MkQtsm25oOiAd) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:15 | 2022-06-09 | 2022-10-13 |

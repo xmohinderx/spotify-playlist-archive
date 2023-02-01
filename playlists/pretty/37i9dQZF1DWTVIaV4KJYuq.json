@@ -1,28 +1,28 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 663843,
+  "num_followers": 664103,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMDVmYmRhNWNjYTRhZDM4M2E2OTkxZWY2NDBkN2Q3ZTFj",
+  "snapshot_id": "MTY2ODE0MjgwMCwwMDAwMDAwMGE0YTY4ZDQ3MTU5NWFlNDFmYjVmZDg0YWRhMjFmZTYz",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
       "artists": [
         {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 173174,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
+      "duration_ms": 213671,
+      "name": "Heart Of Glass (Live from the iHeart Festival)",
+      "url": "https://open.spotify.com/track/5GK1GYXH16RdfmltogHhAk"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -43,18 +43,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
         }
       ],
-      "duration_ms": 213671,
-      "name": "Heart Of Glass (Live from the iHeart Festival)",
-      "url": "https://open.spotify.com/track/5GK1GYXH16RdfmltogHhAk"
+      "duration_ms": 173174,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 290767,
+      "name": "Zombie (Live from the NIVA Save Our Stages Festival)",
+      "url": "https://open.spotify.com/track/0olaaJrCBTMJJvqPdvNpsx"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "I Can Stand A Little Rain",
         "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 159640,
       "name": "You Are So Beautiful",
       "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Mr. Sandman",
-        "url": "https://open.spotify.com/album/4IRbrDOChZMRwzkiGQuJVn"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Mr. Sandman",
-      "url": "https://open.spotify.com/track/6sPpUfwcYBgW3kTXStNsVM"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Mr. Sandman",
+        "url": "https://open.spotify.com/album/4IRbrDOChZMRwzkiGQuJVn"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Mr. Sandman",
+      "url": "https://open.spotify.com/track/6sPpUfwcYBgW3kTXStNsVM"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 161680,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 290767,
-      "name": "Zombie (Live from the NIVA Save Our Stages Festival)",
-      "url": "https://open.spotify.com/track/0olaaJrCBTMJJvqPdvNpsx"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 312173,
-      "name": "With A Little Help From My Friends",
-      "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 168666,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 312173,
+      "name": "With A Little Help From My Friends",
+      "url": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        },
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Forever Young (From NBC's Parenthood)",
         "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
@@ -415,18 +395,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
         }
       ],
-      "duration_ms": 273506,
-      "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
+      "duration_ms": 199426,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -443,6 +427,22 @@
       "duration_ms": 166438,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/4unFohIcd9kN5SeeYrqtXk"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 273506,
+      "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "I Melt with You",
-        "url": "https://open.spotify.com/album/2LtZ92MK0h2C1zJofjUMaQ"
-      },
-      "artists": [
-        {
-          "name": "Daulton Hopkins",
-          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
-        }
-      ],
-      "duration_ms": 217344,
-      "name": "I Melt with You",
-      "url": "https://open.spotify.com/track/6uYFQyxZtCZih0aUfk1XdQ"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Here Comes the Sun",
         "url": "https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+        "name": "I Melt with You",
+        "url": "https://open.spotify.com/album/2LtZ92MK0h2C1zJofjUMaQ"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Daulton Hopkins",
+          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
         }
       ],
-      "duration_ms": 218052,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/1nuInrrZzg1joRPjIk8oyS"
+      "duration_ms": 217344,
+      "name": "I Melt with You",
+      "url": "https://open.spotify.com/track/6uYFQyxZtCZih0aUfk1XdQ"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -543,6 +527,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 218052,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/1nuInrrZzg1joRPjIk8oyS"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Love Goes: Live at Abbey Road Studios",
         "url": "https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37"
       },
@@ -555,38 +555,6 @@
       "duration_ms": 232128,
       "name": "Time After Time - Live At Abbey Road Studios",
       "url": "https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Enjoy The Silence",
-      "url": "https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
-        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
-      },
-      "artists": [
-        {
-          "name": "Joanna Wang",
-          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Wild World - Acoustic Version",
-      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -607,6 +575,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
+        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
+      },
+      "artists": [
+        {
+          "name": "Joanna Wang",
+          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Wild World - Acoustic Version",
+      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
       },
@@ -623,22 +607,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Brandy (You're a Fine Girl)",
-        "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
-      },
-      "artists": [
-        {
-          "name": "Catey Shaw",
-          "url": "https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI"
-        }
-      ],
-      "duration_ms": 208198,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Don't Worry Baby",
         "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
       },
@@ -651,6 +619,38 @@
       "duration_ms": 180468,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Enjoy The Silence",
+      "url": "https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Brandy (You're a Fine Girl)",
+        "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
+      },
+      "artists": [
+        {
+          "name": "Catey Shaw",
+          "url": "https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI"
+        }
+      ],
+      "duration_ms": 208198,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Elvis Now",
         "url": "https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 271573,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Sunday Night Sessions",
-        "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 284971,
-      "name": "Hotel California (Cover)",
-      "url": "https://open.spotify.com/track/5nS9WEWYnbQDBAe81SHhDP"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Between the Bars",
         "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Sunday Night Sessions",
+        "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 284971,
+      "name": "Hotel California (Cover)",
+      "url": "https://open.spotify.com/track/5nS9WEWYnbQDBAe81SHhDP"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "7\" Singles",
         "url": "https://open.spotify.com/album/46QQwFMdIzeLyBfIeQrqYp"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 206896,
       "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
       "url": "https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Recycled Recipes",
+        "url": "https://open.spotify.com/album/7xzscnekPsgqItXZXo0COb"
+      },
+      "artists": [
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "duration_ms": 160160,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/63vZ8WlRIufZiJMMnWUCZh"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -919,22 +935,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Recycled Recipes",
-        "url": "https://open.spotify.com/album/7xzscnekPsgqItXZXo0COb"
-      },
-      "artists": [
-        {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
-        }
-      ],
-      "duration_ms": 160160,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/63vZ8WlRIufZiJMMnWUCZh"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Gun Shy",
         "url": "https://open.spotify.com/album/49s4gydDx5gPMsr7a7qoh6"
       },
@@ -951,18 +951,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Sunday Night Sessions",
-        "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
+        "name": "Lennon Bermuda",
+        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
       },
       "artists": [
         {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+          "name": "Heather Nova",
+          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
         }
       ],
-      "duration_ms": 166868,
-      "name": "Heart of Gold (Cover)",
-      "url": "https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR"
+      "duration_ms": 143547,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Lennon Bermuda",
-        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
+        "name": "Wouldn't It Be Nice",
+        "url": "https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy"
       },
       "artists": [
         {
-          "name": "Heather Nova",
-          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
         }
       ],
-      "duration_ms": 143547,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
+      "duration_ms": 167125,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Wouldn't It Be Nice",
-        "url": "https://open.spotify.com/album/1PT5g9fRMIqfpwPzRkAmFy"
+        "name": "Sunday Night Sessions",
+        "url": "https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs"
       },
       "artists": [
         {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
         }
       ],
-      "duration_ms": 167125,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/0p9iW5SZgKuxF2Tnodh316"
+      "duration_ms": 166868,
+      "name": "Heart of Gold (Cover)",
+      "url": "https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 255675,
+      "name": "If It Makes You Happy",
+      "url": "https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR"
       },
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 255675,
-      "name": "If It Makes You Happy",
-      "url": "https://open.spotify.com/track/7ia7SaMGhr00G8EX5DMiFq"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "I Remember Everything",
-        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 156146,
-      "name": "I Remember Everything",
-      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Leave Me Breathless",
         "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 206586,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "I Remember Everything",
+        "url": "https://open.spotify.com/album/3ei2zsbxwzra1rMmokmYZM"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 156146,
+      "name": "I Remember Everything",
+      "url": "https://open.spotify.com/track/1J6OHcQjnrD0upP4skciHO"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Drain The Blood",
-        "url": "https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI"
-      },
-      "artists": [
-        {
-          "name": "The Rural Alberta Advantage",
-          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Eye Of The Tiger",
-      "url": "https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Transfiguration of Vincent",
         "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 300186,
       "name": "Let\u2019s Dance",
       "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Drain The Blood",
+        "url": "https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI"
+      },
+      "artists": [
+        {
+          "name": "The Rural Alberta Advantage",
+          "url": "https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Eye Of The Tiger",
+      "url": "https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "What's Going On - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 230813,
       "name": "Unchained Melody (feat. The Chapin Sisters)",
       "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "What's Going On - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "You'll Never Walk Alone",
-        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 118476,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "More Than a Woman",
         "url": "https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 224666,
       "name": "More Than a Woman",
       "url": "https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "You'll Never Walk Alone",
+        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 118476,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
     },
     {
       "added_at": "2022-09-30 04:00:00",

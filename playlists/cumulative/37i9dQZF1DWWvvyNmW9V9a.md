@@ -4,7 +4,7 @@
 
 > 💜 I just need this love spiral! 💜
 
-618 songs - 1 day 7 hr 51 min
+619 songs - 1 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,6 +597,7 @@
 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 | 2022-03-28 | 2022-04-20 |
 | [West Coast](https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:16 | 2022-09-14 | 2022-11-19 |
 | [what would you do?](https://open.spotify.com/track/4ewmHD3aRBmLyTsbGreNLw) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:46 | 2022-06-03 | 2022-09-03 |
+| [What You Need](https://open.spotify.com/track/0IvlCZFHDCgeHqZJHO7ghW) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [What You Need](https://open.spotify.com/album/2YWW63Kn9RPJehvYaXEUJV) | 3:16 | 2023-01-31 |  |
 | [When I R.I.P.](https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:54 | 2022-03-01 | 2022-06-09 |
 | [when she was mine](https://open.spotify.com/track/3BFOZt5LkXJsLRGUxh8Niv) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [when she was mine](https://open.spotify.com/album/10yFloJYBN139PsYz0TxZr) | 2:25 | 2022-09-30 | 2022-10-27 |
 | [When You Look At Me](https://open.spotify.com/track/0KGeOj6DJXfCMGkLYiz4fB) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [When You Look At Me](https://open.spotify.com/album/1UMiyaleD0o4UQnWTrNDMk) | 2:50 | 2022-02-18 | 2022-03-02 |

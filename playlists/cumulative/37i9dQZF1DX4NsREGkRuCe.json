@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166801,
+      "name": "Aboboyaa (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+    },
+    {
+      "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/1kT9IWwVHocHo28hAkHpeY"
       },
@@ -1030,7 +1052,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
@@ -3326,12 +3348,12 @@
           "url": "https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv"
         },
         {
-          "name": "Vader the Wildcard",
-          "url": "https://open.spotify.com/artist/2hqg3nrEdtdSTiMMllWO2w"
-        },
-        {
           "name": "Kaey",
           "url": "https://open.spotify.com/artist/5QxTvd1ydIesFmXZ7bv9ou"
+        },
+        {
+          "name": "Vader the Wildcard",
+          "url": "https://open.spotify.com/artist/2hqg3nrEdtdSTiMMllWO2w"
         }
       ],
       "date_added": "2023-01-27",

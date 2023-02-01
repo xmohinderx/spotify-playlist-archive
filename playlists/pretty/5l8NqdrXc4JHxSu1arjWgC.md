@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,924 likes - 665 songs - 1 day 20 hr 50 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 3,954 likes - 666 songs - 1 day 20 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -673,5 +673,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 663 | [Runaways \- 2001 Remaster](https://open.spotify.com/track/6Z4O4Ugbk9jpDrXyrpFG8g) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [English Settlement](https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM) | 4:34 |
 | 664 | [Keep On Dreamin'](https://open.spotify.com/track/39ANGjy2wj0FpdL9jn670l) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Sunshine](https://open.spotify.com/album/3sjAsmZhY1zywVwQcGQ8o7) | 4:26 |
 | 665 | [Third Stone From The Sun](https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol) | 6:34 |
+| 666 | [To the Moon](https://open.spotify.com/track/02WFT9dNg31Skl02dPT1ei) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [To the Moon](https://open.spotify.com/album/5T9fiTYrP7eZ6d47VR86Y8) | 2:50 |
 
-Snapshot ID: `MTY4OCwzNDc5NWEwNWY1YmJmMDk2YTY3YWJkYzkzZTgyMjA1MmUxYTQ0MDhk`
+Snapshot ID: `MTY4OSw2NGVhYjk5ZGYyYTAxYmZhZmE4MDUzOTFmZGNmNDQ3YjI5OGQ2NjNl`

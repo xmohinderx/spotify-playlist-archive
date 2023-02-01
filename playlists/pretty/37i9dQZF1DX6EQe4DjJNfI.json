@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Duquesa",
-  "num_followers": 157407,
+  "num_followers": 157485,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc4ODQ2MCwwMDAwMDAwMDg3NmZjYmJlMjUxYTlmZjI0OWVhZTNkMGJhNmRkYTRi",
+  "snapshot_id": "MTY3NDc4ODQ2MCwwMDAwMDAwMDA2NzJjYjJiZjI3NDY1NjdjZGUzOGU1Yjk2OThjMTk5",
   "tracks": [
     {
       "added_at": "2023-01-27 03:01:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Dif\u00edcil Lembrar, n\u00e9?",
-        "url": "https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 155452,
-      "name": "Dif\u00edcil Lembrar, n\u00e9?",
-      "url": "https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "Garota Nota 100",
         "url": "https://open.spotify.com/album/40x6HLtvlgqwUmp9O4mzKi"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 195285,
       "name": "Garota Nota 100",
       "url": "https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Dif\u00edcil Lembrar, n\u00e9?",
+        "url": "https://open.spotify.com/album/3cWgakSoHecbeSgiyB51kM"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 155452,
+      "name": "Dif\u00edcil Lembrar, n\u00e9?",
+      "url": "https://open.spotify.com/track/6mhwRdefbNqGiP2ZpMKY64"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -427,6 +427,38 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
+        "name": "Sinal",
+        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Sinal",
+      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Melly No Est\u00fadio Showlivre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5oOI1V71lvqBKzfQAyvkKK"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 183999,
+      "name": "Azul - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JmhvM1syXJaFfvgZJk2Nw"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
         "name": "Hip Hop Machine #13",
         "url": "https://open.spotify.com/album/6NHVEU2tX4VYNs6t9aFBkP"
       },
@@ -451,54 +483,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Melly No Est\u00fadio Showlivre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oOI1V71lvqBKzfQAyvkKK"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 183999,
-      "name": "Azul - Ao Vivo",
-      "url": "https://open.spotify.com/track/2JmhvM1syXJaFfvgZJk2Nw"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        }
-      ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
-        "name": "Sinal",
-        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "Sinal",
-      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "Nessa Vida",
         "url": "https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
         "name": "MENTIROSO",
         "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
       },
@@ -531,26 +531,6 @@
       "duration_ms": 167936,
       "name": "MENTIROSO",
       "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
-        "name": "Localiza\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/722X2OqhnEkVCk1kDP3IMl"
-      },
-      "artists": [
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Localiza\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5UeR1CuDo4rrSjK3RyD0nV"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -571,6 +551,26 @@
       "duration_ms": 197617,
       "name": "Ceder",
       "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Localiza\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/722X2OqhnEkVCk1kDP3IMl"
+      },
+      "artists": [
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Localiza\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5UeR1CuDo4rrSjK3RyD0nV"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -675,6 +675,26 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
+        "name": "Sinal de Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 150833,
+      "name": "Sinal de Fuma\u00e7a",
+      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 204937,
       "name": "Volta",
       "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
-        "name": "Sinal de Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Sinal de Fuma\u00e7a",
-      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "N\u00e3o Vou Negar",
-        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        },
-        {
-          "name": "papi",
-          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
-        }
-      ],
-      "duration_ms": 163937,
-      "name": "N\u00e3o Vou Negar",
-      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 156000,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "N\u00e3o Vou Negar",
+        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        },
+        {
+          "name": "papi",
+          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
+        }
+      ],
+      "duration_ms": 163937,
+      "name": "N\u00e3o Vou Negar",
+      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "Pontas Soltas",
         "url": "https://open.spotify.com/album/1WQgU6bnnSvV0KtkxHu2bQ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 192000,
       "name": "Pontas Soltas",
       "url": "https://open.spotify.com/track/7ESVKGM7Vql3SGqejbJ3DQ"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "N\u00e3o Quero Te Perder",
-        "url": "https://open.spotify.com/album/5ndAdf9telWSbdHoy8IYh0"
-      },
-      "artists": [
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "N\u00e3o Quero Te Perder",
-      "url": "https://open.spotify.com/track/5m2DgR3ZWv1GYwF9NPh4mP"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "Uma Chance Pra Ficar Tudo bem",
         "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 154290,
       "name": "Uma Chance",
       "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "N\u00e3o Quero Te Perder",
+        "url": "https://open.spotify.com/album/5ndAdf9telWSbdHoy8IYh0"
+      },
+      "artists": [
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "N\u00e3o Quero Te Perder",
+      "url": "https://open.spotify.com/track/5m2DgR3ZWv1GYwF9NPh4mP"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Roupa de Ontem",
-        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
-      },
-      "artists": [
-        {
-          "name": "Krupinsk",
-          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Roupa de Ontem",
-      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Roupa de Ontem",
+        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
+      },
+      "artists": [
+        {
+          "name": "Krupinsk",
+          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Roupa de Ontem",
+      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
     },
     {
       "added_at": "2023-01-27 03:01:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-01-27 03:01:00",
       "album": {
-        "name": "Mariah Nala no Studio F (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67"
-      },
-      "artists": [
-        {
-          "name": "Mariah Nala",
-          "url": "https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC"
-        }
-      ],
-      "duration_ms": 148869,
-      "name": "Sem Voc\u00ea (Ac\u00fastico no Studio F)",
-      "url": "https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt"
-    },
-    {
-      "added_at": "2023-01-27 03:01:00",
-      "album": {
         "name": "Melhor Ficar Sozinho",
         "url": "https://open.spotify.com/album/191sqhnSI1Mfp0h0Hg8sZC"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 160932,
       "name": "Melhor Ficar Sozinho",
       "url": "https://open.spotify.com/track/4vtzVyzc2pdw5vdg5nA5bn"
+    },
+    {
+      "added_at": "2023-01-27 03:01:00",
+      "album": {
+        "name": "Mariah Nala no Studio F (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67"
+      },
+      "artists": [
+        {
+          "name": "Mariah Nala",
+          "url": "https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC"
+        }
+      ],
+      "duration_ms": 148869,
+      "name": "Sem Voc\u00ea (Ac\u00fastico no Studio F)",
+      "url": "https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt"
     },
     {
       "added_at": "2023-01-27 03:01:00",

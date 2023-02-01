@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Kai Buizon, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,604 likes - 92 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,617 likes - 92 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,6 +99,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 89 | [Control](https://open.spotify.com/track/5fVSP48Mv7Uiqp98uH7sY4) | [Yung Masa](https://open.spotify.com/artist/20shpSfFnBGulON1Hmxt5M), [tome.](https://open.spotify.com/artist/3L80nqfTP0E4VHc3iIYxQW) | [Control](https://open.spotify.com/album/2ePyW4yNxnLhxKY7wj5MQy) | 3:15 |
 | 90 | [No Slowin' Down](https://open.spotify.com/track/0TRpR6iyPlaDvKnHhWqC8Y) | [Buhay Cali](https://open.spotify.com/artist/0PQSNKPMeRPp06IzUS2za4) | [No Slowin' Down](https://open.spotify.com/album/2bNMwK9YmQ00IIVF8qB7bo) | 2:21 |
 | 91 | [Sumamo](https://open.spotify.com/track/4TUecHiNPwviyUrqGLnpPL) | [46 Hope St.](https://open.spotify.com/artist/1hkrpcxUIsETHaAvosVAjm) | [Sumamo](https://open.spotify.com/album/7kHPTN7HPNolVHZ5yfF5kB) | 3:40 |
-| 92 | [King\-Ill Freestyle](https://open.spotify.com/track/4OmmlheoypfzMqEhkiaopJ) | [SLAY](https://open.spotify.com/artist/13MPBo5r9NlimN7vWZBnaF), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [AnZietyDepression](https://open.spotify.com/album/1ME0JcIEqEc7Vj6XmXhWSl) | 2:44 |
+| 92 | [King\-Ill Freestyle](https://open.spotify.com/track/4OmmlheoypfzMqEhkiaopJ) | [Slader](https://open.spotify.com/artist/0rvUGkKiWLmwZ2lXJqbc0S), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [AnZietyDepression](https://open.spotify.com/album/1ME0JcIEqEc7Vj6XmXhWSl) | 2:44 |
 
 Snapshot ID: `MTY3NDc0ODgwMCwwMDAwMDAwMDhiNTc2ZTI2MjdhODI3NDc3Y2NjZmUyZmQ5MmIzZjcw`

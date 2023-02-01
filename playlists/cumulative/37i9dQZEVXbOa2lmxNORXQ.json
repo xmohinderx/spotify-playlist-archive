@@ -5152,7 +5152,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 237750,
       "name": "JS4E",
       "url": "https://open.spotify.com/track/68e9XUS28xQRV9jghSx0NX"
@@ -7813,6 +7813,32 @@
     },
     {
       "album": {
+        "name": "Opciones",
+        "url": "https://open.spotify.com/album/3vLYU0OI84HKtizS6Ykau2"
+      },
+      "artists": [
+        {
+          "name": "Kalido",
+          "url": "https://open.spotify.com/artist/7rnBtbzDCg9rhtHV6GH77K"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "HIT$ MUSIC",
+          "url": "https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161653,
+      "name": "Opciones",
+      "url": "https://open.spotify.com/track/6vNhBzDn5yU2fu67YliSgw"
+    },
+    {
+      "album": {
         "name": "Otra Noche Sin Ti",
         "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
@@ -7952,7 +7978,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 151666,
       "name": "Pa' Que Retozen",
       "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
@@ -8578,7 +8604,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 250933,
       "name": "PRENDE OTRO",
       "url": "https://open.spotify.com/track/1PNNztcJlNIcThPBs9lKBi"
@@ -10034,7 +10060,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 234856,
       "name": "SUSANA (Remix)",
       "url": "https://open.spotify.com/track/15aQ8FSDgo0SCmhIXvdyWP"
@@ -10674,6 +10700,28 @@
       "duration_ms": 293106,
       "name": "Tu Eres Ajena",
       "url": "https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3"
+    },
+    {
+      "album": {
+        "name": "Tu Gato Bellaco (Remix)",
+        "url": "https://open.spotify.com/album/6JNQ7Gic3xnJI40wG6keLy"
+      },
+      "artists": [
+        {
+          "name": "Milo Mae",
+          "url": "https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP"
+        },
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Tu Gato Bellaco - Remix",
+      "url": "https://open.spotify.com/track/6eB74UiUNkI7JJBhhr3Y6C"
     },
     {
       "album": {

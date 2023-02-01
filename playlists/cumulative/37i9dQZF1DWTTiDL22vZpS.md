@@ -4,11 +4,12 @@
 
 > Funk\-inspired beats by latinos.
 
-57 songs - 3 hr 42 min
+59 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Acércame a Tu Piel](https://open.spotify.com/track/5scR0u1qUQbGHXLYUYOnPM) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Santiago Soul](https://open.spotify.com/album/5zqpTQJPeyShwHYWAUTpmE) | 4:08 | 2022-11-22 |  |
+| [Acércame a Tu Piel](https://open.spotify.com/track/5scR0u1qUQbGHXLYUYOnPM) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Santiago Soul](https://open.spotify.com/album/5zqpTQJPeyShwHYWAUTpmE) | 4:08 | 2022-11-22 | 2023-02-01 |
+| [Amanece \(feat\. Gil Cerezo\)](https://open.spotify.com/track/5xnq09bL61Y11b2rutlyF9) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Gil Cerezo](https://open.spotify.com/artist/0IriYFJ4bOlHotHiwweJdG) | [Amanece](https://open.spotify.com/album/17P39aFRw00nZ5bLqxmFKN) | 4:52 | 2023-01-27 |  |
 | [Asturión](https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ) | [Cocofunka](https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD) | [CAMALOVE](https://open.spotify.com/album/7jJijowxod92mie0y9XAj7) | 4:14 | 2022-11-22 |  |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2022-11-22 |  |
 | [Añejo](https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:35 | 2022-11-22 |  |
@@ -19,7 +20,7 @@
 | [Da Funk](https://open.spotify.com/track/3y5hMwMAne5VD8635DBpj0) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Da Funk](https://open.spotify.com/album/1RkDdrEwwERzb4bvTAYalH) | 2:36 | 2023-01-06 |  |
 | [Dejarte Ir](https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir](https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc) | 3:12 | 2022-11-22 |  |
 | [Despacio](https://open.spotify.com/track/2LWqH7TB7GY9Bvme8FF7Ac) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Chango](https://open.spotify.com/album/7AzXtthlLZjuqonhrl0Wwa) | 3:05 | 2022-11-22 |  |
-| [El Potaje](https://open.spotify.com/track/0DdyERdVfKbtLZyR87xBZo) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Orquesta Aragón](https://open.spotify.com/artist/2Asbl9eNGYQWvaNG9EJtUK), [Pancho Amat](https://open.spotify.com/artist/04mNWBG5bxWAtsMichq3mz), [Chucho Valdés](https://open.spotify.com/artist/3erQxCD42nKs50fpfdK4ve) | [El Potaje](https://open.spotify.com/album/3BEbtgQkUW0KhDgZkXgNmG) | 3:52 | 2022-11-22 |  |
+| [El Potaje](https://open.spotify.com/track/0DdyERdVfKbtLZyR87xBZo) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Orquesta Aragón](https://open.spotify.com/artist/2Asbl9eNGYQWvaNG9EJtUK), [Pancho Amat](https://open.spotify.com/artist/04mNWBG5bxWAtsMichq3mz), [Chucho Valdés](https://open.spotify.com/artist/3erQxCD42nKs50fpfdK4ve) | [El Potaje](https://open.spotify.com/album/3BEbtgQkUW0KhDgZkXgNmG) | 3:52 | 2022-11-22 | 2023-02-01 |
 | [Eso Que Me Das](https://open.spotify.com/track/3xOZWx6fJc65Z4R2Hrq06N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [JUAN PABLO VEGA](https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR) | 3:47 | 2022-11-22 |  |
 | [Estamos Locos](https://open.spotify.com/track/0xT6kz73bjqkEqeIAcbuok) | [ACHKIRIK](https://open.spotify.com/artist/1d2rmEbX9CJjWWSyUUKoVB) | [Estamos Locos](https://open.spotify.com/album/0pgeYwzfy6GOqzcRkKWykq) | 5:11 | 2022-11-22 | 2022-12-03 |
 | [Fuera de Lugar](https://open.spotify.com/track/2BWTYAiWbBGCJeKbQ6rpFA) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 3:16 | 2022-11-22 |  |
@@ -59,6 +60,7 @@
 | [Templos](https://open.spotify.com/track/08nCggIJ1q30XYxkktE2uT) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Templos](https://open.spotify.com/album/2l1mbUPYql0jTcByqFrqnu) | 4:43 | 2022-11-22 |  |
 | [Todos Lo Hacen](https://open.spotify.com/track/15YxQngUxvhImUXb9PxBb0) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 3:54 | 2022-11-22 |  |
 | [Trágame Tierra](https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:26 | 2022-11-22 |  |
+| [Turista](https://open.spotify.com/track/75CvJyaMNLIRXkrHQOVblP) | [Cazzeros](https://open.spotify.com/artist/5jzrYCX3klqShv1fnZNbVi) | [Turista](https://open.spotify.com/album/5hnEgpae3aS7ws5LE8zvVo) | 3:30 | 2023-01-27 |  |
 | [Tú](https://open.spotify.com/track/3ODOLzIiOCWiyRE1Wy9KLG) | [Orquesta Discotheque](https://open.spotify.com/artist/6U0G8Mkq8QEE2bJfbWPlGC), [Beto Montes](https://open.spotify.com/artist/4TKMEtRCcbQcVkARsD4beC) | [Música Moderna](https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm) | 3:57 | 2022-11-22 |  |
 | [Ultra\-Funk](https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [The New Sound of the Venezuelan Gozadera](https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh) | 3:38 | 2022-11-22 |  |
 | [Váyanse Todos A Mamá](https://open.spotify.com/track/5BeMNrGr9Wk3mDmf0DbQaA) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 4:59 | 2022-12-02 |  |

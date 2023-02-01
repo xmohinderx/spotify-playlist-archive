@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-291 songs - 17 hr 53 min
+292 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Afro Blue](https://open.spotify.com/track/6OV5AAEspMRkv7uVsNQiRk) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Afro Blue](https://open.spotify.com/album/6Pxk9yPJlLqh8vTYg68YTu) | 3:15 | 2021-01-29 | 2022-03-15 |
 | [Afro Cello \- Super Full Moon Rework](https://open.spotify.com/track/3emWk6XGO9oR9gycuMFR2l) | [Danny Keane](https://open.spotify.com/artist/69p51Y6qgS5HiaR7UNghuR) | [Afro Cello \(Super Full Moon Rework\)](https://open.spotify.com/album/0yzmOAltHidpBRohrbNzlF) | 4:08 | 2021-04-09 | 2023-01-16 |
 | [Agua de Jamaica](https://open.spotify.com/track/47D5TbuwXksmz6iUhA6Q4u) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Roberto Verástegui](https://open.spotify.com/artist/0EtZsbcbWVFSeqb6UWL0Wa) | [Agua de Jamaica](https://open.spotify.com/album/1IaFBwOJ5c8r25XO4W0SmS) | 6:17 | 2022-03-25 | 2022-07-29 |
-| [Alive](https://open.spotify.com/track/2ytUcMU7LhM9J38Ydh1QXs) | [Natty Rico](https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL), [Bruce Kirkwood](https://open.spotify.com/artist/7DEYcn5PNJZN26ElHcrIdg) | [Alive](https://open.spotify.com/album/1laf5dN62CLTu4CS5l75sL) | 3:13 | 2022-04-29 | 2023-01-20 |
+| [Alive](https://open.spotify.com/track/2ytUcMU7LhM9J38Ydh1QXs) | [Natty Rico](https://open.spotify.com/artist/4XjCsLo0E4017wblpE9BDL), [Bruce Kirkwood](https://open.spotify.com/artist/7DEYcn5PNJZN26ElHcrIdg) | [Alive](https://open.spotify.com/album/1laf5dN62CLTu4CS5l75sL) | 3:13 | 2022-04-29 |  |
 | [All Around \- Renegades Of Jazz Remix](https://open.spotify.com/track/0oHGooJ4QhVPM5WgW4cfJA) | [sUb\_modU](https://open.spotify.com/artist/3MOhyXjeW761VKMXRqmqH9), [Renegades Of Jazz](https://open.spotify.com/artist/4l0ICV3hSM0CArAK2aN5Ls) | [Gravity \(Renegades Of Jazz & V.B\. Kühl Remixes\)](https://open.spotify.com/album/6FS3N2KVn3LQvMrHGM39kw) | 5:12 | 2022-04-01 | 2022-07-29 |
 | [Altered Time](https://open.spotify.com/track/1swgntnR8aAPm23U1bBcM0) | [Knick](https://open.spotify.com/artist/4JeYrBePUtaLKFSWP1BqZX), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [Altered Time](https://open.spotify.com/album/3ewzyQrB4kCYON9KVE5eVN) | 2:10 | 2022-02-18 |  |
 | [Amaya's Voyage](https://open.spotify.com/track/40LzEKHhryOp9Ril5Ui4nZ) | [Byron the Aquarius](https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ) | [Amaya's Voyage](https://open.spotify.com/album/4w1mzzRvxSV482xL2FBQUH) | 5:42 | 2021-08-27 | 2022-07-14 |
@@ -63,7 +63,8 @@
 | [Come Out and Play](https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD) | [Umziky](https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB) | [Come Out and Play](https://open.spotify.com/album/58KCYV90rmJ8uGzHOoN44X) | 3:07 | 2021-07-30 |  |
 | [Come Running to Me](https://open.spotify.com/track/1RSVmoikDpX0PtpxNGXxyF) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Come Running to Me](https://open.spotify.com/album/0KvhdjcAqLo5WSQzazC8Q4) | 3:40 | 2022-01-21 | 2022-10-02 |
 | [Complete](https://open.spotify.com/track/66UyVneJHbPxJtyMo59ywk) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Everything Is Always a Process](https://open.spotify.com/album/29J7Z1vaQqGmfHzMYYyWdB) | 1:28 | 2021-01-29 | 2022-02-07 |
-| [Consolation Prizes](https://open.spotify.com/track/0YBiLolJXSN5mCum0nuBV2) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Flying Lotus Presents: Music From The Hit Game Show Ozzy's Dungeon \- Taken From V/H/S/99](https://open.spotify.com/album/79UUtoObvd4zUpHiewJrMA) | 2:13 | 2022-10-21 |  |
+| [Consolation Prizes](https://open.spotify.com/track/0YBiLolJXSN5mCum0nuBV2) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Flying Lotus Presents: Music From The Hit Game Show Ozzy's Dungeon \- Taken From V/H/S/99](https://open.spotify.com/album/79UUtoObvd4zUpHiewJrMA) | 2:13 | 2022-10-21 | 2023-02-01 |
+| [Consolation Prizes](https://open.spotify.com/track/6gYAzrvbcd9eoA5igOW8Qp) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Flying Lotus Presents: Music From The Hit Game Show Ozzy's Dungeon \- Taken From V/H/S/99](https://open.spotify.com/album/2jNAU7PqXjTG6suAmQX1GE) | 2:13 | 2022-10-21 |  |
 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 | 2021-02-26 |  |
 | [Count Yer Pace \(feat\. Kemani Anderson\)](https://open.spotify.com/track/2T0hcwsOrlt2lFiWoY0mpT) | [Werkha](https://open.spotify.com/artist/5Mxf4advIPTDdAYqbJZBS0), [Kemani Anderson](https://open.spotify.com/artist/1Ab3viBuyjYajaG82vcMID) | [All Werk Is Play](https://open.spotify.com/album/6B90X6Q8k7gL9EIwuRCgW6) | 4:36 | 2022-04-29 | 2022-07-29 |
 | [Crescent](https://open.spotify.com/track/58zFkROMyeq4o1OMIQQgsL) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Métropole Part II](https://open.spotify.com/album/5tjtkMg20jEuzuJrT27gBj) | 3:14 | 2021-01-29 | 2021-12-22 |
@@ -112,7 +113,7 @@
 | [Gigi’s Revenge](https://open.spotify.com/track/4RAEg1FjBjXwo0qykxrnF3) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y) | [Gemini with Mood Swings](https://open.spotify.com/album/0PqKxVkrzkNXAYv5qTFXG0) | 2:22 | 2022-09-23 | 2022-10-05 |
 | [Golden](https://open.spotify.com/track/31ARMQ42WOpH3vEObeEbQE) | [BlackLight](https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h) | [Golden](https://open.spotify.com/album/6HcBxM1cROud6gVZ5jXv49) | 7:46 | 2021-05-14 |  |
 | [Good Looking](https://open.spotify.com/track/2C4MJ87AqYq10L67Spy9NE) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Superbloom](https://open.spotify.com/album/5ubrkzGWOXlXEDa5mMGRIy) | 3:18 | 2021-01-29 | 2022-03-26 |
-| [Grapefruit](https://open.spotify.com/track/0IgwBPyQshHcC1sFRwn4Dx) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Grapefruit](https://open.spotify.com/album/7LbmIzoc3Tl8qu1bO8kdiu) | 2:16 | 2022-05-20 |  |
+| [Grapefruit](https://open.spotify.com/track/0IgwBPyQshHcC1sFRwn4Dx) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Grapefruit](https://open.spotify.com/album/7LbmIzoc3Tl8qu1bO8kdiu) | 2:16 | 2022-05-20 | 2023-02-01 |
 | [Grosch Joint](https://open.spotify.com/track/3nFRB56B7aU9inWIhNxOhl) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV), [Max Grosch](https://open.spotify.com/artist/0X1RP5ySRsivyk8hHu1P1i) | [Grosch Joint](https://open.spotify.com/album/3pBNiFTrKQROExoGLacKlm) | 5:53 | 2021-01-29 | 2022-03-26 |
 | [Half\-Bloom](https://open.spotify.com/track/2P8poZ6fgzniLuSYGt75og) | [Asta Hiroki](https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC) | [Half\-Bloom](https://open.spotify.com/album/4gh4Y9xuWEtmlr5yxlKkHN) | 4:27 | 2021-09-10 | 2022-11-21 |
 | [Half\-Bloom](https://open.spotify.com/track/6kt3SVY7gvF520bTmVpYdL) | [Asta Hiroki](https://open.spotify.com/artist/4281mk6YGbk8b8Tl5qg8vC) | [Half\-Bloom](https://open.spotify.com/album/4omp0GZlYPhNU00t9KP6z5) | 4:27 | 2021-09-10 |  |

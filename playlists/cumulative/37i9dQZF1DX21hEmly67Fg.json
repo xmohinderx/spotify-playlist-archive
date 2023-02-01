@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Clown",
+        "url": "https://open.spotify.com/album/2vVEFVUPxPeiok2a1JEXCo"
+      },
+      "artists": [
+        {
+          "name": "Ron Marks",
+          "url": "https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227750,
+      "name": "Clown",
+      "url": "https://open.spotify.com/track/5An9TSZ5KmfsCLwBxq1VRA"
+    },
+    {
+      "album": {
         "name": "Dance Monkey",
         "url": "https://open.spotify.com/album/49lYvjArPlTqsn4O10ti44"
       },
@@ -2368,6 +2386,24 @@
       "duration_ms": 260038,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/0SjRJvsh0ZccINwUQKsSxj"
+    },
+    {
+      "album": {
+        "name": "Titanium",
+        "url": "https://open.spotify.com/album/02eiU5EW1pa8QDg7mczqPk"
+      },
+      "artists": [
+        {
+          "name": "Chloe Welch",
+          "url": "https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154857,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/7HpOhVbSYn8BNAEiSdvTFv"
     },
     {
       "album": {

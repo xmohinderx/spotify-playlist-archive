@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1AHswQqsDNmu1xaE8KpBne">COBRAH</a>'s favorite tracks\. Updated regularly\. Curated by COBRAH\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-68 songs - 3 hr 35 min
+69 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Techno](https://open.spotify.com/track/2c3I3ew3iJ4xgiMQ7fA8Qf) | [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Techno](https://open.spotify.com/album/0mjxsK2Ha4QWEmPNhfZ0jk) | 3:45 | 2022-08-31 |  |
 | [THAT](https://open.spotify.com/track/6yGxfjVzv3u3b85FuUSJaN) | [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [JACKIE EXTREME](https://open.spotify.com/album/0Mn2OXVX6vGMWkqJWVoZuP) | 2:12 | 2022-08-31 |  |
 | [That's Hot](https://open.spotify.com/track/59rSJ0EPaqUFyGu0rpjrlF) | [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J) | [That's Hot](https://open.spotify.com/album/33Gn0WONvLLLwgdf1zH2LW) | 2:07 | 2022-08-31 | 2022-10-23 |
-| [That's Hot](https://open.spotify.com/track/1Cli0gQaSe0NVWEHAyOBIH) | [Ayesha Nicole Smith](https://open.spotify.com/artist/3rYlF5arfhYwRbxmNcicat) | [That's Hot](https://open.spotify.com/album/0qD5tOnKT5sfK0FlIuS7ke) | 2:07 | 2022-08-31 |  |
+| [That's Hot](https://open.spotify.com/track/1Cli0gQaSe0NVWEHAyOBIH) | [Ayesha Nicole Smith](https://open.spotify.com/artist/3rYlF5arfhYwRbxmNcicat) | [That's Hot](https://open.spotify.com/album/0qD5tOnKT5sfK0FlIuS7ke) | 2:07 | 2022-08-31 | 2023-02-01 |
+| [That's Hot](https://open.spotify.com/track/44D5QNNRr52gU8MBzfLMsc) | [lovfxsl](https://open.spotify.com/artist/3oWWv5DwX1tmoxVfE31LyX) | [That's Hot](https://open.spotify.com/album/6XO4jqE1A8NpscZrVbzViD) | 2:07 | 2022-08-31 |  |
 | [Tired and Sick](https://open.spotify.com/track/5fZ3sFURm6vOo5cwAFV1Y8) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Tired and Sick](https://open.spotify.com/album/01xv4kF5gPzZ9l7SgrSrE5) | 2:52 | 2022-08-31 |  |
 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 | 2022-08-31 |  |
 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 | 2022-08-31 |  |

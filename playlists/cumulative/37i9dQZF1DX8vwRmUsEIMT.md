@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Tom Grennan
 
-695 songs - 1 day 13 hr 35 min
+697 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Breathe](https://open.spotify.com/track/38H3WCklnDRSvNxTJMJtIB) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [It Wasn't Perfect, But We Tried](https://open.spotify.com/album/70N1mJFxBKb492iWoNEezl) | 3:30 | 2022-10-13 | 2022-11-11 |
 | [Brexit at Tiffany's](https://open.spotify.com/track/49BeIQzb05PWsS2YfSt87Q) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Brexit at Tiffany's](https://open.spotify.com/album/2vxRVqkq60c3ltJkt0JXkF) | 2:43 | 2022-08-11 | 2022-09-02 |
 | [Broken](https://open.spotify.com/track/0obfu9ZrPGt59RnD8Wiai2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/1GWWErA3u49ANQoGygvziN) | 3:24 | 2022-08-18 | 2022-09-02 |
-| [Broken](https://open.spotify.com/track/2USBjlAKDOSzgUq7OiDFqO) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 7:29 | 2022-12-12 |  |
+| [Broken](https://open.spotify.com/track/2USBjlAKDOSzgUq7OiDFqO) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 7:29 | 2022-12-12 | 2023-02-01 |
 | [Burning In My Arms \- Edit](https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Burning In My Arms \(Edit\)](https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B) | 3:31 | 2022-08-26 | 2022-09-21 |
 | [Cake](https://open.spotify.com/track/5vwODgisxnSPmnUoDKVjW4) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:47 | 2022-06-02 | 2022-06-25 |
 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 | 2022-10-13 | 2022-11-11 |
@@ -120,6 +120,7 @@
 | [Can You Afford To Lose Me?](https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 4:02 | 2022-10-28 | 2022-12-16 |
 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 | 2022-07-07 | 2022-08-17 |
 | [Can't Give You Up](https://open.spotify.com/track/6o5qFSBREXQPvSTJY353I2) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Can't Give You Up](https://open.spotify.com/album/0fZGtVLj6azebynm7MuYeB) | 5:17 | 2023-01-06 | 2023-01-20 |
+| [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 | 2023-01-31 |  |
 | [Candyfloss](https://open.spotify.com/track/5Sglaa4CqeCmpLLWFCvu3i) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/45lhLYfrPQZdCJ5kdgoKth) | 2:48 | 2022-05-26 | 2022-06-22 |
 | [Cannibal](https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome) | 4:00 | 2022-07-14 | 2022-08-03 |
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-06-24 | 2022-08-05 |
@@ -544,7 +545,7 @@
 | [Say My Name](https://open.spotify.com/track/3LIWMXIo6rPoo9Slcd1PaK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Say My Name](https://open.spotify.com/album/6ZN13CtDuZ3JAaTB8SFlZv) | 3:50 | 2022-10-28 | 2022-11-18 |
 | [Say No More](https://open.spotify.com/track/3FyrVjLHV3TbmhS6QEJPsJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Say No More](https://open.spotify.com/album/1E6TykuEqYxjkkAOPBzwUM) | 3:52 | 2022-09-08 | 2022-10-21 |
 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-05-26 | 2022-06-10 |
-| [See, I'm Sorry](https://open.spotify.com/track/5lnlFi4cQ2klADNUAXYXdl) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [See, I'm Sorry](https://open.spotify.com/album/5Q6mUe7IdvCTOXzRQ1uPM9) | 3:34 | 2023-01-06 |  |
+| [See, I'm Sorry](https://open.spotify.com/track/5lnlFi4cQ2klADNUAXYXdl) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [See, I'm Sorry](https://open.spotify.com/album/5Q6mUe7IdvCTOXzRQ1uPM9) | 3:34 | 2023-01-06 | 2023-02-01 |
 | [Selfish](https://open.spotify.com/track/7dy7fScRwbbmqateWfx5nN) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Selfish](https://open.spotify.com/album/59Bste0VOvfrBl5SlKuqo5) | 2:42 | 2022-06-30 | 2022-07-29 |
 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 | 2023-01-27 |  |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2022-11-11 | 2022-12-02 |
@@ -656,6 +657,7 @@
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-21 | 2022-09-02 |
 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 | 2022-08-11 | 2022-09-09 |
 | [Twinkle Twinkle Little Bitch](https://open.spotify.com/track/6zBqlhWjEhNyH4Z8eUDzMT) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Twinkle Twinkle Little Bitch](https://open.spotify.com/album/1ybrTFXVkVuSmFdS0twHzb) | 2:36 | 2022-06-24 | 2022-07-29 |
+| [UFO](https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [UFO](https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ) | 2:34 | 2023-01-31 |  |
 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 | 2022-11-11 | 2022-12-09 |
 | [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 | 2023-01-06 | 2023-01-20 |
 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 | 2022-09-29 | 2022-11-05 |

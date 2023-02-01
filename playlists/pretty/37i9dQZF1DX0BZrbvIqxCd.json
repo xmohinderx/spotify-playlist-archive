@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 521819,
+  "num_followers": 521871,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDBhNjZiNzk4MjYxNmViOTRhZGM2NWVjZjgzNTNhNTAz",
+  "snapshot_id": "MTY0Mzc1NTQxMSwwMDAwMDAwMDk4YmUzMDVhNGYyODExZWQ3NWZiNDZhZDVkYjdkOGZm",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -111,22 +111,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Dear Maria, Count Me In",
-      "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
@@ -143,18 +127,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 186480,
-      "name": "I'm Not Okay (I Promise)",
-      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
+      "duration_ms": 182826,
+      "name": "Dear Maria, Count Me In",
+      "url": "https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -191,34 +175,34 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "DECEMBERUNDERGROUND",
-        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
       "artists": [
         {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 206586,
-      "name": "Miss Murder",
-      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
+      "duration_ms": 110093,
+      "name": "Fell In Love With a Girl",
+      "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
     },
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+      "duration_ms": 186480,
+      "name": "I'm Not Okay (I Promise)",
+      "url": "https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -235,6 +219,22 @@
       "duration_ms": 229093,
       "name": "Sugar, We're Goin Down",
       "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -259,18 +259,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
       },
       "artists": [
         {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 110093,
-      "name": "Fell In Love With a Girl",
-      "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
+      "duration_ms": 206586,
+      "name": "Miss Murder",
+      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -403,6 +403,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 242280,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
       },
@@ -467,18 +483,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1"
+        "name": "Lights And Sounds",
+        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
         }
       ],
-      "duration_ms": 242280,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm"
+      "duration_ms": 208186,
+      "name": "Lights And Sounds",
+      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -499,22 +515,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Lights And Sounds",
-        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Lights And Sounds",
-      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Double Dare",
         "url": "https://open.spotify.com/album/1uh8SiLASOMowO5TWEYmbw"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 191544,
       "name": "Stupid for You",
       "url": "https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 306520,
+      "name": "Rose Tattoo",
+      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -579,22 +595,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "SIGNED and SEALED in BLOOD",
-        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 306520,
-      "name": "Rose Tattoo",
-      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "The Hell Song",
-      "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Off the Leash",
         "url": "https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 194453,
       "name": "Chip",
       "url": "https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Ghost in My Home",
-        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200189,
-      "name": "Ghost in My Home",
-      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Fight the Good Fight",
         "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 149466,
       "name": "I Wanna Be Sedated - 2002 Remaster",
       "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Ghost in My Home",
+        "url": "https://open.spotify.com/album/1gfShNUI5uB4qR2MRQJIGu"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 200189,
+      "name": "Ghost in My Home",
+      "url": "https://open.spotify.com/track/0bjwkqQ0lZSIes3IW7Aeq8"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Proper Dose",
-        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 146622,
-      "name": "Keep This Up",
-      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/1GCRpa2J7QPdwSRRWdKUNr"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 200228,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Proper Dose",
+        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 146622,
+      "name": "Keep This Up",
+      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -867,22 +867,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/175y3TsY3wVRZUmI34PyhD"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 199416,
-      "name": "She's Quiet",
-      "url": "https://open.spotify.com/track/4xlMOALTScnY5tU9VdcmGY"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/4TGgIBpUlNWUnVFIAx7P8w"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 231400,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/2DmNhvPUecofT7Zu7DJxS1"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/175y3TsY3wVRZUmI34PyhD"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 199416,
+      "name": "She's Quiet",
+      "url": "https://open.spotify.com/track/4xlMOALTScnY5tU9VdcmGY"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -967,22 +967,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "She's A God",
-        "url": "https://open.spotify.com/album/69MzaYbPgU7af0CPD5Ck1s"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 200330,
-      "name": "She's A God",
-      "url": "https://open.spotify.com/track/3rmVrevtGa5y7wieirt7rZ"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Father of All...",
         "url": "https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 151362,
       "name": "Father of All...",
       "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "She's A God",
+        "url": "https://open.spotify.com/album/69MzaYbPgU7af0CPD5Ck1s"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 200330,
+      "name": "She's A God",
+      "url": "https://open.spotify.com/track/3rmVrevtGa5y7wieirt7rZ"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Entertainment",
+        "url": "https://open.spotify.com/album/0DUGIaBZCKKPCqIBsRs9pV"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/6Donz2zn7kxsRyA7g5l158"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Blow in the Wind",
         "url": "https://open.spotify.com/album/23r629pCYWFwsYCFVoMp8m"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Entertainment",
-        "url": "https://open.spotify.com/album/0DUGIaBZCKKPCqIBsRs9pV"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/7B48nfbRi9Ar1ukAXx5UJD"
       },
       "artists": [
         {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
         }
       ],
-      "duration_ms": 200706,
-      "name": "Blonde",
-      "url": "https://open.spotify.com/track/6Donz2zn7kxsRyA7g5l158"
+      "duration_ms": 180082,
+      "name": "Drown In My Mind",
+      "url": "https://open.spotify.com/track/7w0gu9n8vp3sE0xZFCxcFu"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/7B48nfbRi9Ar1ukAXx5UJD"
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
       },
       "artists": [
         {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
         }
       ],
-      "duration_ms": 180082,
-      "name": "Drown In My Mind",
-      "url": "https://open.spotify.com/track/7w0gu9n8vp3sE0xZFCxcFu"
+      "duration_ms": 193280,
+      "name": "Me First",
+      "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1227,22 +1243,6 @@
       "duration_ms": 233453,
       "name": "Hate Me (Sometimes)",
       "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "Me First",
-      "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Get By",
+      "url": "https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
         "name": "Brain Invaders (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Composure",
-        "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Get By",
-      "url": "https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Degenerates",
         "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Great Heights & Nosedives",
-        "url": "https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx"
-      },
-      "artists": [
-        {
-          "name": "ROAM",
-          "url": "https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq"
-        }
-      ],
-      "duration_ms": 160831,
-      "name": "Playing Fiction",
-      "url": "https://open.spotify.com/track/2aG7MPedIAt6k66Q2BBaHT"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 191756,
       "name": "Dead and Gone",
       "url": "https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Great Heights & Nosedives",
+        "url": "https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx"
+      },
+      "artists": [
+        {
+          "name": "ROAM",
+          "url": "https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq"
+        }
+      ],
+      "duration_ms": 160831,
+      "name": "Playing Fiction",
+      "url": "https://open.spotify.com/track/2aG7MPedIAt6k66Q2BBaHT"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Retrograde",
-        "url": "https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Never Coming Home",
-      "url": "https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Composure",
         "url": "https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 185493,
       "name": "From The Outside",
       "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Retrograde",
+        "url": "https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Never Coming Home",
+      "url": "https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf"
     },
     {
       "added_at": "2020-11-20 21:27:18",

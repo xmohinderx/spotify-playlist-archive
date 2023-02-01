@@ -4,7 +4,7 @@
 
 > Underground dance and alternative that went on to define a new millennium.
 
-125 songs - 10 hr 26 min
+126 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Halcyon and On and On](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 | 2021-07-14 |  |
 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:44 | 2021-07-14 |  |
 | [Hell Is Round The Corner](https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:47 | 2021-07-14 |  |
-| [High Noon](https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Reconstructed : The Best Of DJ Shadow \(Deluxe Edition\)](https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN) | 3:58 | 2021-07-14 |  |
+| [High Noon](https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Reconstructed : The Best Of DJ Shadow \(Deluxe Edition\)](https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN) | 3:58 | 2021-07-14 | 2023-02-01 |
+| [High Noon](https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/0tE70YWZ0bNSEgOYl945l9) | 3:59 | 2021-07-14 |  |
 | [History Repeating \- Knee Length Mix](https://open.spotify.com/track/4CiWchFxrlhqLxrkNFzd3p) | [Propellerheads](https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp), [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Decksandrumsandrockandroll 20th anniversary](https://open.spotify.com/album/0FJ4Yv9u3PSc1Fg5KnBzNz) | 4:02 | 2021-07-14 | 2022-07-29 |
 | [History Repeating \- Knee Length Mix](https://open.spotify.com/track/56jlrdCvA7Ih13L9OMcfDS) | [Propellerheads](https://open.spotify.com/artist/3Z7thZHrtFvqp8OpPffPKp), [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Decksandrumsandrockandroll 20th anniversary](https://open.spotify.com/album/5xbDEJ9xCamw1OSOjaTdzV) | 4:02 | 2021-07-14 |  |
 | [Human Behaviour](https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:12 | 2021-07-14 |  |

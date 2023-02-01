@@ -4,7 +4,7 @@
 
 > Gorillaz make anti pop.
 
-1,249 songs - 2 day 12 hr 23 min
+1,251 songs - 2 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [A Bitch Curious \(feat\. Sam Truth\)](https://open.spotify.com/track/1e1HFMTEfxwdJh8cCQmtD4) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Fuck Your Expectations PT\. 1](https://open.spotify.com/album/5M25d4hSmTEN9WM1EtAsfv) | 4:04 | 2021-04-03 | 2021-10-12 |
 | [A Cosmic Yes](https://open.spotify.com/track/4yoi9XLOG48REmXtImAU5y) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [A Cosmic Yes](https://open.spotify.com/album/2oue0Dyi1nsDf3QAijrwtA) | 4:18 | 2022-03-03 | 2022-07-01 |
 | [A Song About the Sun](https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [A Song About the Sun](https://open.spotify.com/album/1MlZPyYBHyNV8dDOlK3pyw) | 3:30 | 2021-07-13 | 2021-07-31 |
-| [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 | 2021-10-15 |  |
+| [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 | 2021-10-15 | 2023-02-01 |
 | [Acting](https://open.spotify.com/track/2XHqdn6s7SnXTMFBcU1riH) | [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [Notice of Demolition](https://open.spotify.com/album/0DnOJf9x48SEbG96alqW83) | 1:40 | 2021-11-05 | 2021-12-22 |
 | [Afterglow](https://open.spotify.com/track/1HQ2HeB2U5DxCBobfVYGjJ) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Voyager](https://open.spotify.com/album/0KFTrQV0ZvnDiogu64B1MD) | 2:31 | 2021-07-17 | 2021-10-16 |
 | [AGAIN.](https://open.spotify.com/track/2knqxjt5zHq0So8l619O88) | [KDVSGOLIATH](https://open.spotify.com/artist/1fxSfIUHcYGuFkPY7kOCkQ) | [AGAIN.](https://open.spotify.com/album/0VEOmqs7veZkwAQwV88NgF) | 3:01 | 2022-05-27 | 2022-08-06 |
@@ -1038,6 +1038,7 @@
 | [Summer](https://open.spotify.com/track/39jo333JejX9EZ3zwwcdmS) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [Summer](https://open.spotify.com/album/0lLBjcVpeLXF4ZKpCxe1zt) | 2:15 | 2021-08-24 | 2021-10-12 |
 | [Summer's Gone](https://open.spotify.com/track/5quogPZVWEjwBJoiEwTcZR) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Casper Sage](https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr) | 3:21 | 2022-05-23 | 2022-11-10 |
 | [Summertime](https://open.spotify.com/track/7rNowXLbVGKAL7QuRrn4Ab) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [Summertime](https://open.spotify.com/album/57KFny8tva8t4EPbbSNXcp) | 4:15 | 2020-10-13\* | 2020-11-03 |
+| [Sundance Freestyle](https://open.spotify.com/track/0M4PHkYu3loA8rtjrHq5Ym) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Sundance Freestyle](https://open.spotify.com/album/1VLKy8mG3PRUw7RjPho6i6) | 1:50 | 2023-01-27 |  |
 | [Sundays](https://open.spotify.com/track/0troHdGkx1ORKsnR8Kehht) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Sundays](https://open.spotify.com/album/0q14hXSgBRBv33M3s8eGne) | 1:49 | 2022-12-09 | 2023-01-28 |
 | [SUNDOWN](https://open.spotify.com/track/0ipgd8PPFza3NNmN3Rn2uF) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 2:05 | 2020-10-13\* | 2020-11-03 |
 | [Sundress](https://open.spotify.com/track/5lMa1A2fWhT9YLI2Qee8RV) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Sundress](https://open.spotify.com/album/1hJZPCJvV6wj34IlmFQa0u) | 3:19 | 2021-10-09 | 2021-10-16 |
@@ -1155,6 +1156,7 @@
 | [Twin Flame](https://open.spotify.com/track/7yAzY2u4A5jrWiUqiNonNO) | [Tiny Jag](https://open.spotify.com/artist/1d6U0DfuaMs9tbHllXrsAJ) | [Twin Flame](https://open.spotify.com/album/2NMIM8fL4SrZVT59HLjul6) | 3:01 | 2020-10-13\* | 2021-02-13 |
 | [two door tiffany](https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [quinn](https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2) | 3:06 | 2022-07-22 | 2022-11-17 |
 | [Two Feet](https://open.spotify.com/track/7umNx2x8ve6JGZSZOUw9xU) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Two Feet](https://open.spotify.com/album/3rAPwGt6Fj8lFaWmGBZZJF) | 3:11 | 2020-10-13\* | 2021-05-03 |
+| [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 | 2023-01-30 |  |
 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 | 2021-05-25 | 2021-06-19 |
 | [UGLY \(Remix\)](https://open.spotify.com/track/5Yp6O30CNm4CHfSO7fjHii) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD), [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [UGLY \(Remix\)](https://open.spotify.com/album/0fiHQDjUcX5xUQr7GPATiP) | 3:21 | 2021-08-25 | 2021-10-14 |
 | [UGUDBRU \(feat\. Sam Truth\)](https://open.spotify.com/track/2UEsIWEHeNN5k7lJ6UZvzo) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [UGUDBRU \(feat\. Sam Truth\)](https://open.spotify.com/album/5WJAZ4TNEz0FhxWfRv4eQ4) | 4:55 | 2021-03-06 | 2021-10-14 |
@@ -1218,7 +1220,7 @@
 | [Wiggle](https://open.spotify.com/track/3xUoFmauSdcqntvnmc39XZ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/3C6id3ytbDm10twaf8c4BY) | 2:59 | 2020-10-13\* | 2021-01-23 |
 | [Wildfire](https://open.spotify.com/track/06U3tIapsJ0X6dZx5nhLtt) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT](https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H) | 3:21 | 2022-02-04 | 2022-03-01 |
 | [Wildfire](https://open.spotify.com/track/0RXa5w1g5ZOWuvLHfQp64O) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT](https://open.spotify.com/album/4WSUVKsNHoAOVtGsAd4875) | 3:21 | 2022-02-28 | 2022-05-10 |
-| [Wimbledon](https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Wimbledon](https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m) | 2:22 | 2022-12-20 |  |
+| [Wimbledon](https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Wimbledon](https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m) | 2:22 | 2022-12-20 | 2023-02-01 |
 | [Witchyman](https://open.spotify.com/track/0zWgZBHZfisqNN0m5pfYcJ) | [Cain Culto](https://open.spotify.com/artist/7IFepbBZvGSOYFzTk5Shub) | [Witchyman](https://open.spotify.com/album/2SRarbvBXirDR4XtnaWBmF) | 2:56 | 2021-11-05 | 2022-05-10 |
 | [World Is Fucked](https://open.spotify.com/track/2pbjwvnOZv7poZfeGlCieM) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [World Is Fucked](https://open.spotify.com/album/2gHg7XQzxKz4sdlBs2P1Lc) | 2:52 | 2021-04-03 | 2022-02-26 |
 | [World On Silent](https://open.spotify.com/track/47SHWAPqS1k6GZmgouEPCE) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [World On Silent](https://open.spotify.com/album/0wsXqAbx6bnRtaBaO3xm3w) | 3:15 | 2021-01-09 | 2021-02-20 |

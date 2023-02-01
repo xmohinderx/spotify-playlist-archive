@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 
 > Songs that show your dad love and appreciation
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,061 likes - 36 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,059 likes - 36 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 6 | [Drive \(For Daddy Gene\)](https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Drive](https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV) | 4:02 |
 | 7 | [Isn't She Lovely](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 6:34 |
 | 8 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 |
-| 9 | [Daddy Lessons](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 4:47 |
-| 10 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 |
+| 9 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 |
+| 10 | [Daddy Lessons](https://open.spotify.com/track/71OvX5NNLrmz7rpq1ANTQn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 4:47 |
 | 11 | [Unforgettable](https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 3:30 |
 | 12 | [Dance With My Father](https://open.spotify.com/track/7snmvZMLdGGk3l9PcvoYSM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:26 |
 | 13 | [I Loved Her First](https://open.spotify.com/track/0vZvEE9c2bmA6H8hVKxXEZ) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/2TkVvC9ETHw7y6KlpdHr8f) | 3:32 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 24 | [Just Fishin'](https://open.spotify.com/track/1ZxNwqYsJA41CKf2YEhmIK) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Proud To Be Here \(Deluxe Edition\)](https://open.spotify.com/album/0FXZIMW55PBOpCGPS5mW8R) | 3:30 |
 | 25 | [He Didn't Have to Be](https://open.spotify.com/track/1LONTBZZRxDVx4wEvdcCLd) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 4:42 |
 | 26 | [Dance Like Yo Daddy](https://open.spotify.com/track/6nIMEvZUmWXKp008VsZKDL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:03 |
-| 27 | [Father And Son](https://open.spotify.com/track/2nU1cyrG92p8h99g3Gykwz) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [The Very Best Of Cat Stevens](https://open.spotify.com/album/3ds29BDzL13tt6Xy9tuFal) | 3:40 |
-| 28 | [Not All Heroes Wear Capes](https://open.spotify.com/track/0b0a4nsj1ukHm5VPzCcCIM) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Not All Heroes Wear Capes](https://open.spotify.com/album/4r0pE9K65165ei9BT5Jn7Q) | 3:46 |
+| 27 | [Not All Heroes Wear Capes](https://open.spotify.com/track/0b0a4nsj1ukHm5VPzCcCIM) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Not All Heroes Wear Capes](https://open.spotify.com/album/4r0pE9K65165ei9BT5Jn7Q) | 3:46 |
+| 28 | [Father And Son](https://open.spotify.com/track/2nU1cyrG92p8h99g3Gykwz) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [The Very Best Of Cat Stevens](https://open.spotify.com/album/3ds29BDzL13tt6Xy9tuFal) | 3:40 |
 | 29 | [When She Grows Up](https://open.spotify.com/track/44Fg7XesYHN9RIpg6oggLk) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Never Regret](https://open.spotify.com/album/0iRTiQTZCcXvL4kd1lfk7X) | 3:50 |
 | 30 | [Babyfather](https://open.spotify.com/track/10kh9WpO4XlJWhJKfW4I7t) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 4:38 |
 | 31 | [The Best Day](https://open.spotify.com/track/5ApdBBa3MtTzpF0MbpB2NG) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Latest Greatest Straitest Hits](https://open.spotify.com/album/0FGwWbG9BkfohN3fi2Z7x7) | 3:24 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 35 | [Forever Young](https://open.spotify.com/track/1qli6fjEVdmMgssWy55eiZ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Greatest Hits Volume 3](https://open.spotify.com/album/3R4p0qCYhtK1YdPtvlDD7T) | 4:56 |
 | 36 | [Color Him Father](https://open.spotify.com/track/4qlk1U68B90hEi37NvCJRK) | [The Winstons](https://open.spotify.com/artist/1VePrTOSgCLcaBecBs7i2q) | [Color Him Father](https://open.spotify.com/album/5Ups4qqJu7BegTd8JoOU4M) | 3:10 |
 
-Snapshot ID: `MTY1NjAzMjI4MCwwMDAwMDAwMGFhOWVlMWJkNzU3N2YzZWIxZTQxNjQxYTk1NGNkYmE4`
+Snapshot ID: `MTY1NjAzMjI4MCwwMDAwMDAwMGZmMGM5ZDg5NGQ0NTdhOWQ5MTM3NDg1Y2M0NzYyMzkz`

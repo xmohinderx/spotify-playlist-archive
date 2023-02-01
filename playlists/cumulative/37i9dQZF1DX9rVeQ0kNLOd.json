@@ -208,7 +208,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 205143,
       "name": "Called by the Neon Light",
       "url": "https://open.spotify.com/track/3o0lvk0pXsqv9DV064ezEl"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 232567,
       "name": "cloud",
       "url": "https://open.spotify.com/track/6v08DvIdLDGOwKj1h71S4x"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-23",
+      "date_removed": null,
       "duration_ms": 195852,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/2yeVKV31JmQFH97Kok32xh"
@@ -990,7 +990,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 238857,
       "name": "Mirror ball (feat. \u9ad8\u6a4b\u98db\u5922)",
       "url": "https://open.spotify.com/track/2r6RvMnR8Ff2TNc1LdYNam"
@@ -1046,6 +1046,64 @@
       "duration_ms": 278181,
       "name": "my own life",
       "url": "https://open.spotify.com/track/0T5YzUfgtUKXeDHE7dz4LB"
+    },
+    {
+      "album": {
+        "name": "The Youth Night",
+        "url": "https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp"
+      },
+      "artists": [
+        {
+          "name": "chilldspot",
+          "url": "https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203846,
+      "name": "Neon wo Keshite",
+      "url": "https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg"
+    },
+    {
+      "album": {
+        "name": "\u5de1\u793c\u3059\u308b\u5b63\u8a9e",
+        "url": "https://open.spotify.com/album/1uxl2dnJ0nJdJV2q0Oeov0"
+      },
+      "artists": [
+        {
+          "name": "\u5e7d\u4f53\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u30ba",
+          "url": "https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Ollie(\u5de1\u793c\u3059\u308b\u5b63\u8a9e)",
+      "url": "https://open.spotify.com/track/1hSlcXbPexuJh7ibsOiMA8"
+    },
+    {
+      "album": {
+        "name": "\u55a7\u9a12\u5e7b\u60f3",
+        "url": "https://open.spotify.com/album/55jIuQAwbXmjlzMiQC7yQN"
+      },
+      "artists": [
+        {
+          "name": "Lil' Leise But Gold",
+          "url": "https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181836,
+      "name": "One",
+      "url": "https://open.spotify.com/track/7sT48E0PEPQy5cd4Nwfexs"
     },
     {
       "album": {
@@ -1162,7 +1220,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 230500,
       "name": "set me free",
       "url": "https://open.spotify.com/track/1RMNsdSWzCivT5Db9afYuM"
@@ -1260,7 +1318,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 242966,
       "name": "something",
       "url": "https://open.spotify.com/track/0rL3ksbcpreSl6lMDPMqZ3"
@@ -1663,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/1dHkwzvY4F4DXOznl8568M"
+      },
+      "artists": [
+        {
+          "name": "chelmico",
+          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229375,
+      "name": "\u305a\u308b\u3044\u306d",
+      "url": "https://open.spotify.com/track/0btLLjOMp8mQ1q1NA18XpU"
+    },
+    {
+      "album": {
         "name": "\u305d\u308c\u3067\u3082\u660e\u65e5\u306f",
         "url": "https://open.spotify.com/album/7gI4sTv01zQvKaJ8R48LPz"
       },
@@ -1699,6 +1775,28 @@
     },
     {
       "album": {
+        "name": "\u305f\u3081\u606f\u3068\u30b3\u30fc\u30d2\u30fc",
+        "url": "https://open.spotify.com/album/4CzTs9BMIvhJTKvqAJGyZD"
+      },
+      "artists": [
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2"
+        },
+        {
+          "name": "A SCHOOOOL",
+          "url": "https://open.spotify.com/artist/5OjUQ6Z5H0rWIuOEQNBQb4"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "\u305f\u3081\u606f\u3068\u30b3\u30fc\u30d2\u30fc",
+      "url": "https://open.spotify.com/track/48SAdZAFQGySWizWud8JxA"
+    },
+    {
+      "album": {
         "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
       },
@@ -1710,7 +1808,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 234213,
       "name": "\u307e\u305f\u305f\u304d",
       "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
@@ -1754,7 +1852,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 255789,
       "name": "\u3086\u3081\u306e\u306a\u304b",
       "url": "https://open.spotify.com/track/53znW6LyTXs7bWTPU7NJ4X"
@@ -1794,7 +1892,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 185344,
       "name": "\u30a4\u30bf\u30ba\u30e9\u306aKiss",
       "url": "https://open.spotify.com/track/2Ngw4fbjRDUemjt3y5ofPH"
@@ -1855,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "TIME LEAP",
+        "url": "https://open.spotify.com/album/1LSdYXveZ1weRohT3cAW9B"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232766,
+      "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/6VVdhvbvGJZdm8f2f6ZKYo"
+    },
+    {
+      "album": {
         "name": "\u30cd\u30aa\u30f3\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/5J32C1Lw9j23n0VO2YmycW"
       },
@@ -1870,7 +1986,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 232142,
       "name": "\u30cd\u30aa\u30f3\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/781vNvG3W7WiPogwzTXcXN"
@@ -2090,7 +2206,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 232356,
       "name": "\u82b1\u74f6",
       "url": "https://open.spotify.com/track/3sxcncyvcTJspkePuvs0k1"
@@ -2162,7 +2278,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-11",
+      "date_removed": null,
       "duration_ms": 198062,
       "name": "\u9b54\u6cd5\u306e\u30a2\u30c8",
       "url": "https://open.spotify.com/track/3VzlJc4jfKc1GWyP5LNU6n"

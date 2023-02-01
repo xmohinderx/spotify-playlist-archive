@@ -4,7 +4,7 @@
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-154 songs - 7 hr 42 min
+155 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Barstool Mountain](https://open.spotify.com/track/6kTddqCu2KqjggSNi7ZtNP) | [Moe Bandy](https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz) | [The Very Best Of...Volume 1](https://open.spotify.com/album/6dzuXj0vb9I2VD9QX2hCQI) | 2:49 | 2018-12-10 | 2022-07-26 |
 | [Before the Next Teardrop Falls](https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [The Freddy Fender Collection](https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp) | 2:38 | 2018-12-10 |  |
 | [Blanket On The Ground](https://open.spotify.com/track/7mTBUlWPquXPQzDg8yGLlJ) | [Billie Jo Spears](https://open.spotify.com/artist/3Xt0yrWeurmp48fodXqMWf) | [Country Greats](https://open.spotify.com/album/2m7xJ3oCOzUKMhHIaFsdwG) | 3:35 | 2018-12-10 |  |
-| [Bloody Mary Morning](https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Phases And Stages](https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP) | 2:48 | 2018-12-10 |  |
+| [Bloody Mary Morning](https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Phases And Stages](https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP) | 2:48 | 2018-12-10 | 2023-02-01 |
 | [Blue Eyes Crying In the Rain](https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Red Headed Stranger](https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM) | 2:18 | 2018-12-10 |  |
 | [Blue Skies](https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 3:33 | 2018-12-10 |  |
 | [By The Time I Get To Phoenix \- Remastered 2001](https://open.spotify.com/track/1tZKsxgKebVQX9s6oiojG9) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [By The Time I Get To Phoenix \(Remastered\)](https://open.spotify.com/album/29tTA46kurlOioRkjBqOMS) | 2:44 | 2022-07-25 |  |
@@ -80,6 +80,7 @@
 | [Linda On My Mind \- Single Version](https://open.spotify.com/track/02q9atOyzjCRfk2uUcfqxe) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Conway Twitty's Greatest Hits Volume II](https://open.spotify.com/album/3QM29gUyTJvl5KfWckjydn) | 2:42 | 2018-12-10 | 2022-07-29 |
 | [Lonely Women Make Good Lovers](https://open.spotify.com/track/5je7nvdte7odjJvs5iM1bS) | [Bob Luman](https://open.spotify.com/artist/7GHomDn4a8u8k0AlUTwBWQ) | [Greatest Hits](https://open.spotify.com/album/0HDwfB5n6VpcOFkY61uMLl) | 3:13 | 2018-12-10 | 2022-07-29 |
 | [Long Haired Country Boy](https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 4:00 | 2022-07-25 |  |
+| [Long Long Time](https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Silk Purse](https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G) | 4:23 | 2023-02-01 |  |
 | [Louisiana Woman, Mississippi Man](https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Louisiana Woman, Mississippi Man](https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS) | 2:31 | 2018-12-10 |  |
 | [Love In The Hot Afternoon](https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Love In The Hot Afternoon](https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77) | 3:19 | 2022-07-25 |  |
 | [Love In The Hot Afternoon](https://open.spotify.com/track/0DT0jbuh51K52Rn5sTqWeq) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Ultimate Collection: Gene Watson](https://open.spotify.com/album/7MX4FrybOtKHPp2k6YCMS4) | 3:21 | 2018-12-10 | 2022-07-29 |

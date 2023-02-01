@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from Hip\-Hop's hey day; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,093 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,300 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 21 | [A Little Soul](https://open.spotify.com/track/00t78SKl7PHj3KfQ54fenL) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Petestrumentals](https://open.spotify.com/album/3BXHZmPR0u5TBVlxcp4Tjk) | 5:41 |
 | 22 | [Travellin' Man \(Instrumental\)](https://open.spotify.com/track/5GVTLWtI6oJYYHeuxKjfPO) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day) | [Travellin' Man \(Remastered\)](https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34) | 5:16 |
 | 23 | [Hip 2 Da Game \- Instrumental](https://open.spotify.com/track/6Jw7ft5Rvh1IPRRfacqhCi) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The Awakening \[25th Anniversary \(Remaster\)\]](https://open.spotify.com/album/43t9Lys7dVlwBeQQ5Hmf1q) | 4:03 |
-| 24 | [Till the Sun Comes Up](https://open.spotify.com/track/35f01nZSdpR0KtTrupnwJf) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Selected Archive \(1996 \- 2002\) \- No\. 5](https://open.spotify.com/album/5NbcdKLDqdkgZyUgsxUnME) | 1:57 |
-| 25 | [Born 2 Live \- Instrumental](https://open.spotify.com/track/3rlNahb3xsXq83bBPT6bee) | [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [Word...Life \(Deluxe Edition\)](https://open.spotify.com/album/3UwGJNvu2bAzjxx25GlqA5) | 4:30 |
-| 26 | [Deeper \(You & Me\)](https://open.spotify.com/track/5RYaxKQYstksG8rNw8GPw9) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Deeper \(You & Me\)](https://open.spotify.com/album/55rAOu6q5xC3tqadSOUq0h) | 2:02 |
-| 27 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 |
-| 28 | [Relax](https://open.spotify.com/track/5e8wwhtHBs0WXmZTgRl4ub) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 4:01 |
-| 29 | [Coolin'](https://open.spotify.com/track/5rxier09NkNgBJyJWKTeuz) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Celebrity Shills](https://open.spotify.com/album/3zjAT49W7WVkm8AGQBsFTQ) | 2:10 |
-| 30 | [ATLiens \- Instrumental](https://open.spotify.com/track/5YvXuk6Jei13V71KSFQ0fs) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4PID9ExpAM3SuYCPlBseRv) | 3:41 |
+| 24 | [Stressed Out](https://open.spotify.com/track/5sL1Ho2hWRpTe67DK7sFqA) | [Kixnare](https://open.spotify.com/artist/5ZsUI5kxyhL9rBIjBrzocs) | [Class of 90's, Vol.1 \(INSTRUMENTALS\)](https://open.spotify.com/album/3ZZuql91VoWIn8HT0gmevA) | 4:27 |
+| 25 | [Till the Sun Comes Up](https://open.spotify.com/track/35f01nZSdpR0KtTrupnwJf) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Selected Archive \(1996 \- 2002\) \- No\. 5](https://open.spotify.com/album/5NbcdKLDqdkgZyUgsxUnME) | 1:57 |
+| 26 | [Born 2 Live \- Instrumental](https://open.spotify.com/track/3rlNahb3xsXq83bBPT6bee) | [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [Word...Life \(Deluxe Edition\)](https://open.spotify.com/album/3UwGJNvu2bAzjxx25GlqA5) | 4:30 |
+| 27 | [Deeper \(You & Me\)](https://open.spotify.com/track/5RYaxKQYstksG8rNw8GPw9) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Deeper \(You & Me\)](https://open.spotify.com/album/55rAOu6q5xC3tqadSOUq0h) | 2:02 |
+| 28 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 |
+| 29 | [Relax](https://open.spotify.com/track/5e8wwhtHBs0WXmZTgRl4ub) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 4:01 |
+| 30 | [Coolin'](https://open.spotify.com/track/5rxier09NkNgBJyJWKTeuz) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Celebrity Shills](https://open.spotify.com/album/3zjAT49W7WVkm8AGQBsFTQ) | 2:10 |
 | 31 | [N.Y.S.O.M\. \#20](https://open.spotify.com/track/4GgFRWzP9vAviZhWbd8ZFp) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Beats That Collected Dust Vol\. 2](https://open.spotify.com/album/6VDSvx3Z6cfz6GXkFBNYLX) | 3:33 |
 | 32 | [Fixed Emotions](https://open.spotify.com/track/7zqjFQqv1FEAv8nlEYLVoR) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [Fixed Emotions](https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu) | 2:38 |
 | 33 | [Passin' Me By \- Instrumental](https://open.spotify.com/track/2cbLkWOlNWvkkv4FnIKEbq) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde \(25th Anniversary Edition\)](https://open.spotify.com/album/2lcYWSZtcnNRXI7L1kNUke) | 5:02 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 64 | [For Da Love Of Da Game \- Instrumental](https://open.spotify.com/track/0ZEbf11WdOyaxdR9Ja73XX) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [The Magnificent EP /For Da Love Of Da Game](https://open.spotify.com/album/6kNgpWi0IZuOWC7p1IzwbZ) | 5:34 |
 | 65 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 |
 
-Snapshot ID: `MTY3MzYyMzYyMiwwMDAwMDAwMDMzNjQyOTE1MTgzNzEyY2RiZTc1MDAzZThjMWQ4NjRh`
+Snapshot ID: `MTY3NTIwMDE4NCwwMDAwMDAwMDY5ZTBlYTNlZTY1NTc1ZGFjN2Q2MDAwMTE2NDJkZGM0`

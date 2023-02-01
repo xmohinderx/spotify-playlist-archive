@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 137623,
+  "num_followers": 137965,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMDMwYzgwYWYwNTcwOGUyNGZkNGY2NmZjNmQ3YTQzNDUx",
+  "snapshot_id": "MTY1MzkxNTc0NCwwMDAwMDAwMDkwYWI5N2VlNTg2ODY2MGM0MzMxNDc0OWY4MGFmNGQ5",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Ultimate Jackie Wilson",
-        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Remember When",
         "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 160864,
       "name": "Will You Love Me Tomorrow",
       "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Ultimate Jackie Wilson",
+        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -379,6 +379,38 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "Save the Last Dance for Me",
+        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Save the Last Dance for Me",
+      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Mr. Soul",
+        "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "Nothing Can Change This Love",
+      "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -415,34 +447,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Mr. Soul",
-        "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "Nothing Can Change This Love",
-      "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Save the Last Dance for Me",
-        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
-      },
-      "artists": [
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
         {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+          "name": "Kim Weston",
+          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
         }
       ],
-      "duration_ms": 154960,
-      "name": "Save the Last Dance for Me",
-      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
+      "duration_ms": 177666,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -463,22 +483,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Kim Weston",
-          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 177666,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -515,22 +531,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Horizontal (Deluxe Version)",
         "url": "https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05"
       },
@@ -559,6 +559,26 @@
       "duration_ms": 128199,
       "name": "One Fine Day",
       "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "You're All I Need",
+        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Tammi Terrell",
+          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're All I Need To Get By",
+      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -627,22 +647,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "You're All I Need",
-        "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Tammi Terrell",
-          "url": "https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8"
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
         }
       ],
-      "duration_ms": 173866,
-      "name": "You're All I Need To Get By",
-      "url": "https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b"
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -683,18 +699,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+        "name": "How Sweet It Is To Be Loved By You",
+        "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
       },
       "artists": [
         {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+      "duration_ms": 177773,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -779,38 +795,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "How Sweet It Is To Be Loved By You",
-        "url": "https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "How Sweet It Is (To Be Loved By You)",
-      "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 168093,
-      "name": "Blue Velvet",
-      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "My Cherie",
         "url": "https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "All-Time Greatest Hits & More 1959-1965",
-        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
       "artists": [
         {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
         }
       ],
-      "duration_ms": 151560,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
+      "duration_ms": 168093,
+      "name": "Blue Velvet",
+      "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -875,6 +859,22 @@
       "duration_ms": 198600,
       "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra",
       "url": "https://open.spotify.com/track/2MRJ3Oqb5yAONPvQyoWnQ9"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "All-Time Greatest Hits & More 1959-1965",
+        "url": "https://open.spotify.com/album/4Pazwl8nUfQj49K6xyADQ7"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/4vBDAxKllafwCMDWD76atv"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Diana Ross & The Supremes Join The Temptations",
-        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
-        },
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "I'm Gonna Make You Love Me",
-      "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
@@ -1011,6 +991,26 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "Diana Ross & The Supremes Join The Temptations",
+        "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        },
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "I'm Gonna Make You Love Me",
+      "url": "https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "I Love How You Love Me",
         "url": "https://open.spotify.com/album/4gurJ6L9p3piSJutIH2E3z"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
-      },
-      "artists": [
-        {
-          "name": "Gary Puckett & The Union Gap",
-          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "Lady Willpower",
-      "url": "https://open.spotify.com/track/1wXUeV5w6MkRFwMZu060U9"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 141746,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
+      },
+      "artists": [
+        {
+          "name": "Gary Puckett & The Union Gap",
+          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "Lady Willpower",
+      "url": "https://open.spotify.com/track/1wXUeV5w6MkRFwMZu060U9"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Best of Sam & Dave",
-        "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "When Something Is Wrong with My Baby",
-      "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Hey Paula",
         "url": "https://open.spotify.com/album/2FF9i414vwTDa2sJWrhIqh"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 146944,
       "name": "Hey Paula",
       "url": "https://open.spotify.com/track/3kl9waNDdEv2BqDJBu9fuw"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Best of Sam & Dave",
+        "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "When Something Is Wrong with My Baby",
+      "url": "https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv"
     },
     {
       "added_at": "2022-05-30 13:02:24",

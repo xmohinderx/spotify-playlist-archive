@@ -2,7 +2,7 @@
 
 ### [The summer I turned indie](https://open.spotify.com/playlist/37i9dQZF1DX9cT3oxyoOVI)
 
-> romanticizing indie music in 2022
+> romanticizing indie music
 
 79 songs - 4 hr 13 min
 

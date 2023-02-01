@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Bharateeyudu",
+        "url": "https://open.spotify.com/album/5wbNqlJ4LukhEsQcqty9Po"
+      },
+      "artists": [
+        {
+          "name": "Swaranlata",
+          "url": "https://open.spotify.com/artist/4tbAszpshMTxXt5UvP7rU9"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351560,
+      "name": "Adireti",
+      "url": "https://open.spotify.com/track/5lsstDSoCsN8SRh5NxwGcK"
+    },
+    {
+      "album": {
         "name": "Gabbar Singh",
         "url": "https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr"
       },

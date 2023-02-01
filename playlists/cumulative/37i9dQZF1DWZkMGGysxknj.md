@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-250 songs - 14 hr 11 min
+251 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Juvenescence](https://open.spotify.com/track/73LVxUKfVeLqlQ9qqhTQ3h) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/233gqBTj1syIvhppH8NV7w) | 3:50 | 2021-07-16 | 2022-07-27 |
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/20VC8UqK5YUBDQZIozqdGV) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Songs of Dylan](https://open.spotify.com/album/0g3wrEeb4CHYrCf1mVM9xJ) | 2:38 | 2021-07-16 |  |
 | [Know How](https://open.spotify.com/track/4xqowxjJ03RWog4teL6oqG) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Riot On An Empty Street](https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c) | 3:58 | 2021-07-16 | 2023-01-28 |
+| [Know How](https://open.spotify.com/track/6yIyrlTO06MAWqzSAEfjMh) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:58 | 2021-07-16 |  |
 | [L\-O\-V\-E](https://open.spotify.com/track/7eOt72MSwPLRZw270GA8Z6) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [L\-O\-V\-E](https://open.spotify.com/album/6TOJcfXQLaer5H4KAhrJ3v) | 2:13 | 2021-07-16 |  |
 | [L.A Coliseum](https://open.spotify.com/track/22bndzPoPVfvHHuE3HM0Iv) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [L.A Coliseum](https://open.spotify.com/album/2Jjv3uvOBVcCauorURNgce) | 4:07 | 2021-07-16 | 2022-07-29 |
 | [La Marelle / Amarelinha](https://open.spotify.com/track/1oG2c7ESFQxoHlh1jqBfmM) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Rosemary Standley](https://open.spotify.com/artist/57v02RSRJzcY5WiYQ5yPCl), [Birds on a Wire](https://open.spotify.com/artist/3GKGEnbmQnaTNGJL6ZGryj) | [La Marelle / Amarelinha](https://open.spotify.com/album/1t4vYRP6ixdTgwqPPKcO3d) | 3:02 | 2021-07-16 | 2022-07-28 |
@@ -210,7 +211,7 @@
 | [Summertime](https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng) | [Gil Cohen](https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe) | [Summertime](https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A) | 3:47 | 2021-07-16 |  |
 | [Sunday Best \- Acoustic Version](https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Sunday Best \(Acoustic Version\)](https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu) | 2:30 | 2021-07-16 |  |
 | [Sunflower](https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Sunflower](https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw) | 3:01 | 2021-07-16 |  |
-| [Sweet but Psycho \- Acoustic](https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr) | [Parker Jenkins](https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI) | [Sweet but Psycho](https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e) | 3:08 | 2021-07-16 |  |
+| [Sweet but Psycho \- Acoustic](https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr) | [Parker Jenkins](https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI) | [Sweet but Psycho](https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e) | 3:08 | 2021-07-16 | 2023-02-01 |
 | [Take a Bow](https://open.spotify.com/track/36CEKFj615FPeNYyGWcmuI) | [Chimdrop](https://open.spotify.com/artist/0oXV2JEgqbIkieZf3f1GgZ) | [Take a Bow](https://open.spotify.com/album/3T1pXluHHXJluVmcHc4BWM) | 3:40 | 2021-07-16 | 2022-07-29 |
 | [Tattoo](https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP) | [Natalie 2V](https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x) | [Tattoo](https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr) | 2:56 | 2021-07-16 | 2023-01-19 |
 | [Tenderness](https://open.spotify.com/track/0l4C0NqebeMcpVJkduRuUK) | [Laura Gibson](https://open.spotify.com/artist/396L5wXlifF7nfSLhP3tTH) | [Tenderness](https://open.spotify.com/album/0QciEURoa6fZUkITRIUOQM) | 3:36 | 2021-07-16 | 2022-07-26 |

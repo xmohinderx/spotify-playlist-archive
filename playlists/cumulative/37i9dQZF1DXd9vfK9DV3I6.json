@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
+    },
+    {
+      "album": {
         "name": "Enta Omry Remix 2022",
         "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
       },
@@ -1286,6 +1304,32 @@
       "duration_ms": 285913,
       "name": "Escuro",
       "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
+    },
+    {
+      "album": {
+        "name": "Estrela Do Mar (Turu Anasi Remix)",
+        "url": "https://open.spotify.com/album/6L2JZKq0BcB8yLjADtq4Ms"
+      },
+      "artists": [
+        {
+          "name": "Perspectiv",
+          "url": "https://open.spotify.com/artist/6moLRtxxKjxIV7s71NSxt7"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "Turu Anasi",
+          "url": "https://open.spotify.com/artist/1HKyZXQv90cYQtoZQDya0d"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467008,
+      "name": "Estrela Do Mar - Turu Anasi Remix",
+      "url": "https://open.spotify.com/track/6pnEKbDzenW63MH86ckAsP"
     },
     {
       "album": {
@@ -1680,7 +1724,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 171428,
       "name": "Hold On To Me",
       "url": "https://open.spotify.com/track/6NvaEJ6IhUWTN5XIXSb89o"
@@ -3638,7 +3682,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 378000,
       "name": "Qalbi",
       "url": "https://open.spotify.com/track/56ZLXYDDmbxtNZ6L8BoPVX"

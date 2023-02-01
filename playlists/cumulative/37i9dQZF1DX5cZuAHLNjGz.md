@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi hits with AP Dhillon
 
-180 songs - 9 hr 33 min
+181 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Champagne](https://open.spotify.com/track/7fYE7BT9Na8XpALQwuhIwX) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:02 | 2022-05-29 |  |
 | [Chan Vekhya](https://open.spotify.com/track/246oVYRWuTz7rgAMdaQi6N) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Chan Vekhya](https://open.spotify.com/album/7c8AsG2LEvK2smAbiuO2o2) | 3:30 | 2022-05-29 |  |
 | [Chauffeur](https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Chauffeur](https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd) | 3:25 | 2022-05-29 | 2022-10-01 |
-| [Chauffeur JBEE Remix \(feat\. Tory Lanez\)](https://open.spotify.com/track/44g0ftxbp0OAgAXK28ltHj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Chauffeur JBEE Remix \(feat\. Tory Lanez\)](https://open.spotify.com/album/4mF6BF98nJlozyGZPLbfCk) | 3:25 | 2022-09-30 |  |
+| [Chauffeur JBEE Remix \(feat\. Tory Lanez\)](https://open.spotify.com/track/44g0ftxbp0OAgAXK28ltHj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Chauffeur JBEE Remix \(feat\. Tory Lanez\)](https://open.spotify.com/album/4mF6BF98nJlozyGZPLbfCk) | 3:25 | 2022-09-30 | 2023-02-01 |
 | [Chithiyaan](https://open.spotify.com/track/36T47GIlXspprLND3cJKqT) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Chithiyaan](https://open.spotify.com/album/5XDyPkPyOSt6ahOZ3CP1vi) | 3:18 | 2022-07-28 | 2022-11-26 |
 | [Chithiyaan](https://open.spotify.com/track/7HRvfjNicVkQnohrpOvjjL) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Chithiyaan](https://open.spotify.com/album/0q5ukWwsWsMiAX18I6D3zK) | 3:18 | 2022-05-29 | 2022-07-29 |
 | [Coka 2.0 \(From "Liger"\)](https://open.spotify.com/track/6TtNVOFQUbQDUbTQwdILH1) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Lijo George\-Dj Chetas](https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Coka 2.0 \(From "Liger"\)](https://open.spotify.com/album/4HHY31rL3PutmhdbuIhzmK) | 2:46 | 2022-08-12 | 2022-08-20 |
@@ -76,6 +76,7 @@
 | [Her](https://open.spotify.com/track/6biqkuWq069vByAEeGxZlr) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Her](https://open.spotify.com/album/17kCYpIx9cO6WEt3B7795R) | 2:34 | 2022-11-30 |  |
 | [Here & There](https://open.spotify.com/track/1TLNrPm7U8V8kRF17SlsAe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 4:05 | 2022-05-29 | 2022-07-29 |
 | [Here & There](https://open.spotify.com/track/3PwXLluXDnmTTaUiG5NXOW) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 4:05 | 2022-07-28 |  |
+| [Hood Famous](https://open.spotify.com/track/5iVYMQKl3OZi0ULxeKAkho) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Relentless](https://open.spotify.com/album/5RUFZa2yj47Co6rMWEJzwQ) | 2:56 | 2023-01-31 |  |
 | [Info](https://open.spotify.com/track/2txEM0LayfSv1AOB3M1Z8R) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Info](https://open.spotify.com/album/6VdOWF7fv6BBeR7ePttQ5M) | 3:20 | 2022-05-29 | 2022-11-09 |
 | [Insane](https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Insane](https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3) | 3:26 | 2022-05-29 |  |
 | [Into You](https://open.spotify.com/track/455OjhLhU9JCNYKKoUOFwr) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Into You](https://open.spotify.com/album/64vhuaHJxjSZrOwMUqGJ85) | 2:54 | 2022-05-29 |  |

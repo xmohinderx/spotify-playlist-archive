@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,584 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,722 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 88 | [eine nase](https://open.spotify.com/track/5VGReJtwl1BHxAZTPHOaPs) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx) | [eine nase](https://open.spotify.com/album/0gyKnJrFCu44TgmRwNpXPJ) | 2:24 |
 | 89 | [Bist du noch hier?](https://open.spotify.com/track/4wmDcVX8875ieUtLN8469N) | [Joshua47](https://open.spotify.com/artist/4Qc6lgBWj6kK0hqa0csMTY) | [Bist du noch hier?](https://open.spotify.com/album/6hJfz2ZnFaWSMSsyVkmg0O) | 2:19 |
 | 90 | [lonely bitch](https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [lonely bitch](https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze) | 2:55 |
-| 91 | [COOL KIDS](https://open.spotify.com/track/1YcG2ofHVH4B3HUQAayA4P) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [COOL KIDS](https://open.spotify.com/album/5HUtXyg0pthUtXDXHQjlBU) | 2:16 |
+| 91 | [COOL KIDS](https://open.spotify.com/track/633PW1W4gDU5uqCsbxmf6M) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [DIRTY SOUTH](https://open.spotify.com/album/4fxWfSWop2N2u5HTF4WNJf) | 2:16 |
 | 92 | [Geruch von Koks \(feat\. Paula Hartmann\)](https://open.spotify.com/track/3RC8VtoWlLcwYoZbz3zpBX) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Geruch von Koks \(feat\. Paula Hartmann\)](https://open.spotify.com/album/2irGlvjYWIG5mtVwlahBu3) | 3:35 |
 | 93 | [Baby Blizzard \- Babycor3 Version](https://open.spotify.com/track/0UGh6ZoRrcNsAHMzdBH7Ix) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Baby Blizzard \(Babycor3 Version\)](https://open.spotify.com/album/01ptxLzi6VNqLBUUuBdH1O) | 1:53 |
 | 94 | [Power Ranger](https://open.spotify.com/track/2HEPWGriMpXtjoXdWLXbzH) | [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Power Ranger](https://open.spotify.com/album/45JUiVN0SLNlC0EtwWM3Zd) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 100 | [The More I Bite](https://open.spotify.com/track/4cGQFb9fFfw3nmSNm3L2JE) | [Cheriimoya](https://open.spotify.com/artist/3RbuVoer2pZlqAXI73ElhX) | [The More I Bite](https://open.spotify.com/album/16O7AReSw4Lk6ytVghcVIt) | 2:18 |
 
-Snapshot ID: `MTY3NDc3NDAwMCwwMDAwMDAwMDAyN2E3ZDk4YzZjODdiM2FiZGRlOTBkOTc4MzVmZTNl`
+Snapshot ID: `MTY3NDc3NDAwMCwwMDAwMDAwMGEyODgyZTIzODIzYzU5YTRlMTM0Y2MwNTJiNDhkN2Y1`

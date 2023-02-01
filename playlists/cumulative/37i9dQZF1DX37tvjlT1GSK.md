@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Cuatro de Oro en portada.
 
-193 songs - 10 hr 21 min
+194 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [El Del Bullying](https://open.spotify.com/track/2exLtgn8Q3QZFXrMIzXHM8) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [El Del Bullying](https://open.spotify.com/album/6QDasIA7BuqFVNgIiKl50J) | 3:24 | 2022-09-23 | 2022-12-03 |
 | [El Dolido](https://open.spotify.com/track/1ZNxbZioh358Z04ECc3l53) | [Victor Eme](https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6) | [El Dolido](https://open.spotify.com/album/1uIJQImkY7FhTE28n9Arln) | 3:14 | 2022-02-22 | 2022-12-03 |
 | [El Final de Nuestra Historia](https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8) | 3:28 | 2022-01-17 |  |
-| [El JR 01](https://open.spotify.com/track/1x7nf9SeVawE0wEl6oayFV) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [El JR 01](https://open.spotify.com/album/7koU9S6HRSfj7kZh0a5hWT) | 4:02 | 2022-08-05 |  |
+| [El JR 01](https://open.spotify.com/track/1x7nf9SeVawE0wEl6oayFV) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [El JR 01](https://open.spotify.com/album/7koU9S6HRSfj7kZh0a5hWT) | 4:02 | 2022-08-05 | 2023-02-01 |
 | [EL KARMA](https://open.spotify.com/track/3bG4hVhR7fUF3Cn38nOEsf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [EL KARMA](https://open.spotify.com/album/7xiQoNQkpoMzZJuvdrewcf) | 2:51 | 2023-01-13 |  |
 | [El Mal Camino](https://open.spotify.com/track/0pnhsviUIvmLrtiVm2fyjR) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [El Mal Camino](https://open.spotify.com/album/4CjpZtBUmPkvA9crA2Sx38) | 3:58 | 2022-07-01 | 2023-01-14 |
 | [El Mismo Niño](https://open.spotify.com/track/4ZLllYUHDtQD6JIwgE5qsi) | [Luis Cuadras](https://open.spotify.com/artist/0POrsz8AIjHbmjxkhNSHiR) | [El Mismo Niño](https://open.spotify.com/album/0QJnofAJ92QtCrrunUJ7hK) | 2:33 | 2022-07-12 | 2022-07-19 |
@@ -84,6 +84,7 @@
 | [Este Sentimiento](https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Este Sentimiento](https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc) | 3:16 | 2023-01-13 |  |
 | [Estos Tragos Van Por Ti](https://open.spotify.com/track/5pvyq5JmDPhDJ9xIMKNuYK) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [A Mi Estilo \(Volumen 1\)](https://open.spotify.com/album/0xOkgJtEl52vrhnCfBDIKx) | 2:33 | 2022-07-01 | 2022-09-24 |
 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 | 2021-12-27 | 2023-01-21 |
+| [Falso](https://open.spotify.com/track/7FF8AgGRyOzjKQ4SpTVJ7D) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Falso](https://open.spotify.com/album/1QATRuRMTlIEzQi9VvRm5m) | 3:54 | 2023-01-27 |  |
 | [Falta de Química](https://open.spotify.com/track/3MuDbrQKyn0MzBlWjQyr4q) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Falta de Química](https://open.spotify.com/album/3MtbsSNUXZBC8WGGsdSIRS) | 3:42 | 2022-04-15 |  |
 | [Fayer](https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Fayer](https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB) | 3:04 | 2022-12-02 | 2023-01-10 |
 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 | 2023-01-13 |  |

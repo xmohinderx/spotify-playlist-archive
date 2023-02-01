@@ -4,7 +4,7 @@
 
 > Moody electronica for the night time hours
 
-86 songs - 6 hr 57 min
+87 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Inperspect](https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Inperspect](https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR) | 8:18 | 2022-12-01 |  |
 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 | 2022-12-01 |  |
 | [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 | 2022-12-01 |  |
-| [Is It Me](https://open.spotify.com/track/1rgievgwEh6siXmnPp5V93) | [Achingdrum](https://open.spotify.com/artist/4LeM3PKFS6wEtkDLNULq87), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Is It Me](https://open.spotify.com/album/7bdQzzdr4GwfMZIP5G6rKl) | 4:16 | 2022-12-01 |  |
+| [Is It Me](https://open.spotify.com/track/1rgievgwEh6siXmnPp5V93) | [Achingdrum](https://open.spotify.com/artist/4LeM3PKFS6wEtkDLNULq87), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Is It Me](https://open.spotify.com/album/7bdQzzdr4GwfMZIP5G6rKl) | 4:16 | 2022-12-01 | 2023-02-01 |
 | [Jump Code](https://open.spotify.com/track/1gqkiGnfEsDEIz0F7Gv8az) | [Reflex Blue](https://open.spotify.com/artist/3z2JEfNoPTDQbDgfBzplyn) | [FREE002](https://open.spotify.com/album/39dE1TNPTHZqcNnKvKN7AB) | 5:56 | 2022-12-16 | 2023-01-02 |
 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 | 2022-12-01 |  |
 | [Keep Shimmering](https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/1gNXxhIfHLXttmjKSC1TDV) | 4:23 | 2022-12-01 |  |
@@ -75,6 +75,7 @@
 | [Shapeless](https://open.spotify.com/track/2OFJN3S8i6aDPXXUgkSJME) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Caring EP](https://open.spotify.com/album/4dOfbULS4YEuZyy1ux3HIW) | 4:34 | 2022-12-01 |  |
 | [Signs](https://open.spotify.com/track/6j40S2A7LdyLH5JIIOb8Jy) | [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe) | [Signs](https://open.spotify.com/album/50zPVLRmcBmmJRYDPSZ15E) | 3:11 | 2022-12-01 |  |
 | [Sirens \(feat\. Caroline Polachek\) \[Sofia Kourtesis Remix\]](https://open.spotify.com/track/1KHY07C9hNsaQGvNRa7lK2) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces : The Remixes, Pt\. 2](https://open.spotify.com/album/40p5qaIMZREYF9S6vKzFf5) | 4:35 | 2022-12-01 | 2023-01-23 |
+| [Sleeping Beauty](https://open.spotify.com/track/0q8kog3tGJq2wA6K8IT6jC) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Sleeping Beauty](https://open.spotify.com/album/03sv8wkTRvQfB8rh7qLzaf) | 3:29 | 2023-01-26 |  |
 | [Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 8:12 | 2022-12-01 |  |
 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 | 2022-12-01 |  |
 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 | 2022-12-01 |  |

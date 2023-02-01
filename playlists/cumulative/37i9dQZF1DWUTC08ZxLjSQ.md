@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: ReqTeq , Artwork: Isu Kim
 
-117 songs - 6 hr 47 min
+120 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Caravan Flow](https://open.spotify.com/track/30Rtf40QgpCP1NAQTpmOJX) | [Soof](https://open.spotify.com/artist/2ubCUPUvkTug5bB3vRNrQo) | [Caravan Flow](https://open.spotify.com/album/39S4YTM2k91hwLIBVhIeSI) | 2:43 | 2022-09-20 | 2022-11-02 |
 | [Closer Than Close](https://open.spotify.com/track/5nvlMbwOQxMs2lTzXBqZpF) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Kingdom](https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd) | 4:35 | 2022-12-13 |  |
 | [Come Find Me](https://open.spotify.com/track/3Df0XGXVpGWCSm3uMmpqle) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC) | [Come Find Me](https://open.spotify.com/album/7jZ4pnFqXPXoTJapHRd1CV) | 2:01 | 2022-09-20 | 2022-10-12 |
+| [December](https://open.spotify.com/track/0JnCAByIOXF3pmduqQp9Xn) | [REMZI](https://open.spotify.com/artist/4gl3AHK8hqrCabEuPbj1LI) | [December](https://open.spotify.com/album/1m4dJoy1edgAZ1mxxUrDXi) | 4:12 | 2023-01-31 |  |
 | [Desert Tale](https://open.spotify.com/track/6TdpnCDgeya8E4t6Skc60K) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Desert Tale](https://open.spotify.com/album/4yuwchv1cn57wwMe8hqW7p) | 7:23 | 2022-09-20 | 2022-10-12 |
 | [Dog](https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D) | [Farrah Hanna](https://open.spotify.com/artist/2IbXHOUXZmrRTByaOaRn8Z) | [Dog](https://open.spotify.com/album/1mB8S3VcFKPk5fP5dMTeRg) | 2:51 | 2023-01-17 |  |
 | [El 3elba](https://open.spotify.com/track/3HMGWElTSffEE4MAZi8s9l) | [Ma\-Beyn](https://open.spotify.com/artist/56BacvMJfiNke5Sb6VOcQR), [Kamikazem](https://open.spotify.com/artist/0FAbIDfnnY3RRlj97zPj6h), [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [El 3elba](https://open.spotify.com/album/40rnzvnxdna70I5ENxUABY) | 3:29 | 2022-09-20 | 2022-11-09 |
@@ -56,17 +57,19 @@
 | [In the Music](https://open.spotify.com/track/5TQiZXRf45cJthdjbsmlYy) | [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa), [Shqzu](https://open.spotify.com/artist/1aIKyRiP9H0H2IQ0RaWjbk), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [In the Music](https://open.spotify.com/album/5IjEWqasrST65LtDSo0gEJ) | 2:50 | 2023-01-17 |  |
 | [Is She](https://open.spotify.com/track/6WNPUcjJTBF43YjS6A0EYg) | [Rama](https://open.spotify.com/artist/38XCa5T2vison2QekvDvWN) | [A 249 Experience Vol.2](https://open.spotify.com/album/5VCBKCYOGdb6DeghFDwehF) | 2:10 | 2022-09-27 | 2023-01-18 |
 | [Kalam Kteer](https://open.spotify.com/track/2MPhQqiPRsHJUVZqAW3xNi) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Kalam Kteer](https://open.spotify.com/album/7ticL8OnOkr0oJ9VdssO3a) | 2:52 | 2022-11-01 | 2023-01-18 |
+| [KALIMNI](https://open.spotify.com/track/09kxB0BiZpFdjCTavu1YSt) | [Omar Whosof](https://open.spotify.com/artist/3yT8ShXUgEHCcPm8zYKnDF), [Soufroud](https://open.spotify.com/artist/42vfCMrTqlboQmnADL4FEB) | [KALIMNI](https://open.spotify.com/album/04xQVq2R04Hwd7MshKExFA) | 3:15 | 2023-01-31 |  |
 | [Khayal](https://open.spotify.com/track/60LnIv9hAQulxVCSbPFQ6b) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Khayal](https://open.spotify.com/album/1oQtEMocdtaP1GBH7eVZbO) | 5:13 | 2022-10-25 |  |
 | [Khayal](https://open.spotify.com/track/7JujukqNH3ouQYr2JM9TIq) | [Zatara](https://open.spotify.com/artist/5WOif35LUAZ7VfSmpELcQF) | [Khayal](https://open.spotify.com/album/3JM7yXIZdI6CH5gNIezXtZ) | 3:52 | 2023-01-17 |  |
 | [Labne](https://open.spotify.com/track/08cYvT2vMUYghriRJIkzsc) | [TheSaif](https://open.spotify.com/artist/6wE2ow6Lhp2eO5t71wygwA) | [Labne](https://open.spotify.com/album/4ZMgscJJfOnbEqao16afO8) | 3:30 | 2022-12-13 | 2023-01-18 |
 | [Lili Twil](https://open.spotify.com/track/19ppkSHBDgKow8UxPPds3h) | [El Ayo](https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW) | [Lili Twil](https://open.spotify.com/album/3ck71v60wN64HTn3FDBHO4) | 2:40 | 2022-10-11 | 2023-01-18 |
 | [Lina](https://open.spotify.com/track/2ig3Y0b35whG1FrAVG27tv) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Lina](https://open.spotify.com/album/11CqECgUKAF3kZCsAPTMmo) | 2:15 | 2022-09-20 | 2022-10-05 |
-| [Little Dreamer](https://open.spotify.com/track/7IUBTqYDy0AaOcbQYjW2rR) | [Omar Whosof](https://open.spotify.com/artist/3yT8ShXUgEHCcPm8zYKnDF) | [Little Dreamer](https://open.spotify.com/album/4UaMU54cUQcdtfMXiFffDn) | 1:12 | 2023-01-24 |  |
+| [Little Dreamer](https://open.spotify.com/track/7IUBTqYDy0AaOcbQYjW2rR) | [Omar Whosof](https://open.spotify.com/artist/3yT8ShXUgEHCcPm8zYKnDF) | [Little Dreamer](https://open.spotify.com/album/4UaMU54cUQcdtfMXiFffDn) | 1:12 | 2023-01-24 | 2023-02-01 |
 | [Living Hell](https://open.spotify.com/track/15bKspAx2YSj1Ce0TdeVRH) | [Abra Salem](https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6) | [Living Hell](https://open.spotify.com/album/4gpNHmz52QOOfQzGvFGFNh) | 2:01 | 2022-09-20 | 2022-10-26 |
 | [LOGAN](https://open.spotify.com/track/3TFIDBWstsKUbXBGedJAWO) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:06 | 2022-09-20 | 2022-12-14 |
 | [Lola](https://open.spotify.com/track/7h3MyaF9PwcTRsoTugynP6) | [Albaitil Ashwai](https://open.spotify.com/artist/6Xb2llJHXVw4OBdXGcAfX7) | [Lola](https://open.spotify.com/album/3gjyvRAkNSf8u4eSBfCLmM) | 3:16 | 2023-01-17 |  |
 | [Lonely Night](https://open.spotify.com/track/6bQLBvEkp8GNL5tQrmBA5A) | [Dirty Backseat](https://open.spotify.com/artist/1Hk62j2Aypk6ykn1lgLPhf) | [Lonely Night](https://open.spotify.com/album/0qFSrdCbQowcEfJPnulGzF) | 4:10 | 2022-10-26 |  |
 | [Loom](https://open.spotify.com/track/1Q1PWZvKU0kvXZSc6B1LJW) | [Noul](https://open.spotify.com/artist/2eBVLC3ePF9HO0Ew4snCNq) | [Loom](https://open.spotify.com/album/0uNojfPWQ6REBGYSjWtBcp) | 5:55 | 2022-11-15 |  |
+| [LOW KEY](https://open.spotify.com/track/49c0DivBdrqqFrD6UIWTrZ) | [Koast](https://open.spotify.com/artist/5mp19VAuofzsBViN7LHKhH) | [LOW KEY](https://open.spotify.com/album/1hdMKomW6YdWdN6ZkXd0cV) | 3:08 | 2023-01-31 |  |
 | [Masquerading Crowd](https://open.spotify.com/track/0zaMCsXxqGXrz1quaVDBtP) | [Skeleton Crowd](https://open.spotify.com/artist/35q8gwzaxeJGQQImnaF0Fo) | [Molly Crapton](https://open.spotify.com/album/2FiCEJT0xGOZJn5s2I00KK) | 3:50 | 2022-09-20 | 2022-11-02 |
 | [MAYBE](https://open.spotify.com/track/3CvYWahCnpUZENXen3KuRm) | [Khaleeji Blonde](https://open.spotify.com/artist/7CQ4LU9FOCvhabssN8fbYt), [REDD Nine](https://open.spotify.com/artist/3RZ8kpxXH8uKpzQI6Rt1pt) | [MAYBE](https://open.spotify.com/album/6Pxc7DoXnVBuHvFBcBODPJ) | 3:03 | 2022-09-20 | 2023-01-18 |
 | [Mermaid datni l'darha](https://open.spotify.com/track/5DUguL7lB4cREG7LUjntlU) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [ODE.](https://open.spotify.com/album/0pZ3DLUZg5QWIFHTpRUmWM) | 3:16 | 2022-12-13 |  |

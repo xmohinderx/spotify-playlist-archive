@@ -1470,6 +1470,28 @@
     {
       "album": {
         "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/7mdhA3SaJpAwxthbw2mksg"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212378,
+      "name": "Gressholmen",
+      "url": "https://open.spotify.com/track/2wfnh9UNfZPrPKb3PWUOYl"
+    },
+    {
+      "album": {
+        "name": "Gressholmen",
         "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
       },
       "artists": [
@@ -3272,10 +3294,32 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 179533,
       "name": "Togsang",
       "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
+    },
+    {
+      "album": {
+        "name": "Tre Pakker Sigaretter",
+        "url": "https://open.spotify.com/album/7C4j0qTmR7bSpn2uebJmjj"
+      },
+      "artists": [
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193988,
+      "name": "Tre pakker sigaretter",
+      "url": "https://open.spotify.com/track/4IrUGDg2xUSyp5r2I5eJZv"
     },
     {
       "album": {
@@ -3414,7 +3458,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 244266,
       "name": "Under deg",
       "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"

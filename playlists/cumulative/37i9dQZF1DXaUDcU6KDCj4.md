@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Lowswimmer
 
-948 songs - 2 day 10 hr 31 min
+949 songs - 2 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,7 +617,8 @@
 | [Playing With My Emotions](https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 4:10 | 2022-07-01 | 2022-08-20 |
 | [Please Don't](https://open.spotify.com/track/2pdkCDCJicLTclo17fzRaC) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Please Don't](https://open.spotify.com/album/7qFESdr3gZpmemkDfZa1nU) | 4:15 | 2021-11-12 | 2022-02-05 |
 | [Please Don't Be Perfect](https://open.spotify.com/track/6V0fnKGp1j2dqJqnfXFuP6) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Please Don't Be Perfect](https://open.spotify.com/album/5mr70C7b6MNR3GlIArfRNK) | 3:47 | 2022-01-07 | 2022-03-12 |
-| [Portrait Of God](https://open.spotify.com/track/1AXajRuTLgUfMewgGfyEbf) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Portrait of God](https://open.spotify.com/album/5AhehkwxsQ5Cdp1ip4mkB9) | 3:39 | 2022-12-02 |  |
+| [Portrait Of God](https://open.spotify.com/track/1AXajRuTLgUfMewgGfyEbf) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Portrait of God](https://open.spotify.com/album/5AhehkwxsQ5Cdp1ip4mkB9) | 3:39 | 2022-12-02 | 2023-02-01 |
+| [Portrait Of God](https://open.spotify.com/track/4yDGaudAfnXNMIKmFCxhLD) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 3:39 | 2023-01-27 |  |
 | [Power \- From the Al Sharpton Documentary LOUDMOUTH](https://open.spotify.com/track/7thDDJkwC3ubFYK7x1q7I3) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Power \(From the Al Sharpton Documentary LOUDMOUTH\)](https://open.spotify.com/album/3NBUJAebIR6GVVQpyG6sK7) | 3:14 | 2022-12-02 |  |
 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 | 2022-10-21 | 2023-01-06 |
 | [Pressure In My Chest](https://open.spotify.com/track/7qxKB4hUyNV6e7VvkrWbFX) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Pressure In My Chest](https://open.spotify.com/album/7oYjK0eg9XXOFGzr7OenEh) | 4:49 | 2022-07-15 | 2022-08-20 |

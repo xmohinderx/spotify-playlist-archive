@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 860318,
+  "num_followers": 860506,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMDkzZjg2N2YxOWRmYjdmY2QxNzBhZTQ3ZTk5MjY3M2Fh",
+  "snapshot_id": "MTY3NDE5MDgwMCwwMDAwMDAwMGIxZTg3ZGViNmYzNWY2M2NhYmY0ZGNkMGZjM2U0MDc3",
   "tracks": [
     {
       "added_at": "2023-01-18 17:01:34",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Trouble Will Find Me",
         "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 248043,
       "name": "I Should Live in Salt",
       "url": "https://open.spotify.com/track/4kFmM894Q4sgHDl4pZalza"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Between the Country",
         "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
       },
@@ -735,22 +719,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        },
-        {
-          "name": "Julia Stone",
-          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 210725,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -771,6 +751,26 @@
       "duration_ms": 234383,
       "name": "I Lied (with Allison Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+        }
+      ],
+      "duration_ms": 210725,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "IOWA",
         "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+        "name": "That Spell",
+        "url": "https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
         }
       ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+      "duration_ms": 193333,
+      "name": "Take Back Thy Gift",
+      "url": "https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -887,22 +903,6 @@
       "duration_ms": 229800,
       "name": "Easy Rider",
       "url": "https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "That Spell",
-        "url": "https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Take Back Thy Gift",
-      "url": "https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
-      },
-      "artists": [
-        {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
-        }
-      ],
-      "duration_ms": 211509,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Song For Our Daughter",
         "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 247920,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
+      },
+      "artists": [
+        {
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+        }
+      ],
+      "duration_ms": 211509,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Ser De Ti",
+      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Song For The Thankful",
         "url": "https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM"
       },
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+        "name": "Nightflyer",
+        "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 207786,
-      "name": "Ser De Ti",
-      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Nightflyer",
-        "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Adeline",
         "url": "https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1"
       },
@@ -1295,42 +1295,6 @@
       "duration_ms": 188824,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Inwards & Onwards",
-        "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 138939,
-      "name": "How Come My Body",
-      "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Picture of You (feat. Hayden Calnin)",
-        "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        },
-        {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
-        }
-      ],
-      "duration_ms": 261523,
-      "name": "Picture of You",
-      "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1351,6 +1315,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Inwards & Onwards",
+        "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 138939,
+      "name": "How Come My Body",
+      "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/396OTSPq4V7Rxw6y8RmvGA"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 265387,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Picture of You (feat. Hayden Calnin)",
+        "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        },
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "duration_ms": 261523,
+      "name": "Picture of You",
+      "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1399,6 +1399,22 @@
       "duration_ms": 212546,
       "name": "I Think Of Angels",
       "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Cool Jam",
+      "url": "https://open.spotify.com/track/7uMh3fweKrgDOtnMoxp3O4"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1451,38 +1467,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Cool Jam",
-      "url": "https://open.spotify.com/track/7uMh3fweKrgDOtnMoxp3O4"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Heigh Ho",
-        "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
-      },
-      "artists": [
-        {
-          "name": "Blake Mills",
-          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
-        }
-      ],
-      "duration_ms": 319706,
-      "name": "Don't Tell Our Friends About Me",
-      "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/7m8l1V5XSWHN7QF6cDDYby"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 251733,
       "name": "America",
       "url": "https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Heigh Ho",
+        "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
+      },
+      "artists": [
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "duration_ms": 319706,
+      "name": "Don't Tell Our Friends About Me",
+      "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Standing in the Doorway",
-        "url": "https://open.spotify.com/album/4z9lypFKw9WE1udcEQpnxc"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 157828,
-      "name": "Standing in the Doorway",
-      "url": "https://open.spotify.com/track/5eTBKnncz8aOAytilhA4Ix"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "& I'm Fine Today",
         "url": "https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21"
       },
@@ -1567,6 +1551,74 @@
       "duration_ms": 183205,
       "name": "Jah Werx",
       "url": "https://open.spotify.com/track/0epaptkWK7BHkHJheQJtZ4"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Right on Time (In Harmony)",
+        "url": "https://open.spotify.com/album/3EZKuir6wvTtRNQPzKQC1I"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Right on Time - In Harmony",
+      "url": "https://open.spotify.com/track/07kMJNzJGnq8Vge6DBN9tA"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "World On The Ground",
+        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU"
+      },
+      "artists": [
+        {
+          "name": "Traveller",
+          "url": "https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l"
+        }
+      ],
+      "duration_ms": 192743,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Seventeen Again (feat. Novo Amor)",
+        "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
+      },
+      "artists": [
+        {
+          "name": "Charli Adams",
+          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
+        },
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Seventeen Again (feat. Novo Amor)",
+      "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1607,86 +1659,34 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "World On The Ground",
-        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+        "name": "Standing in the Doorway",
+        "url": "https://open.spotify.com/album/4z9lypFKw9WE1udcEQpnxc"
       },
       "artists": [
         {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
         }
       ],
-      "duration_ms": 239586,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug"
+      "duration_ms": 157828,
+      "name": "Standing in the Doorway",
+      "url": "https://open.spotify.com/track/5eTBKnncz8aOAytilhA4Ix"
     },
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Seventeen Again (feat. Novo Amor)",
-        "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
       "artists": [
         {
-          "name": "Charli Adams",
-          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
-        },
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
         }
       ],
-      "duration_ms": 204520,
-      "name": "Seventeen Again (feat. Novo Amor)",
-      "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Right on Time (In Harmony)",
-        "url": "https://open.spotify.com/album/3EZKuir6wvTtRNQPzKQC1I"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Right on Time - In Harmony",
-      "url": "https://open.spotify.com/track/07kMJNzJGnq8Vge6DBN9tA"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU"
-      },
-      "artists": [
-        {
-          "name": "Traveller",
-          "url": "https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l"
-        }
-      ],
-      "duration_ms": 192743,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "No Burden",
-        "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 175777,
-      "name": "...Familiar Place",
-      "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
+      "duration_ms": 290775,
+      "name": "Little Lover",
+      "url": "https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9"
     }
   ],
   "unique_name": "Chill Folk",

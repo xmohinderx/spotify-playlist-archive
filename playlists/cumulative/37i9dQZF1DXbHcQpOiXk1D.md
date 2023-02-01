@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Ezra Collective
 
-366 songs - 1 day 2 hr 47 min
+367 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Days Like This](https://open.spotify.com/track/5HHpKZFPMp2QzLMRiaT5sx) | [Safiyyah](https://open.spotify.com/artist/07UzVz5qBaR5ZQcaRCYeIu), [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU), [Nikhil Beats](https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR) | [Days Like This](https://open.spotify.com/album/130gHXGawD0GHuL0VnfAVh) | 3:38 | 2022-03-08 | 2023-01-15 |
 | [Did It Yesterday](https://open.spotify.com/track/1CB55jCLNOG1Ch11sttXJa) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Did It Yesterday](https://open.spotify.com/album/0m6WGHrwytB2bwuREPC7uR) | 3:08 | 2022-12-23 |  |
 | [Did It Yesterday](https://open.spotify.com/track/3qcDDIxV01o13XtN21BRHk) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Did It Yesterday](https://open.spotify.com/album/6qVwOxqFQMNawnwxpUzPEo) | 3:08 | 2022-03-31 | 2022-11-20 |
-| [Discover We Can Fly](https://open.spotify.com/track/5BEpmQY6P40WFDamYFeoUH) | [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Discover We Can Fly](https://open.spotify.com/album/45x8hmroklLHxA2jOi5KWT) | 3:42 | 2022-07-07 |  |
+| [Discover We Can Fly](https://open.spotify.com/track/5BEpmQY6P40WFDamYFeoUH) | [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Discover We Can Fly](https://open.spotify.com/album/45x8hmroklLHxA2jOi5KWT) | 3:42 | 2022-07-07 | 2023-02-01 |
 | [Distraction](https://open.spotify.com/track/1RYvG5NlbR0tXBZvdLLDDS) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Beginner's Mind](https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb) | 5:25 | 2021-12-17 | 2022-11-13 |
 | [DiVine Ascension](https://open.spotify.com/track/4nm2iwvavAyduOTOqiq8PF) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [DiVine Ascension](https://open.spotify.com/album/7BZEpa8960drwbbRbjo3jq) | 4:29 | 2022-01-21 | 2022-11-12 |
 | [Do you](https://open.spotify.com/track/6XZsh0Z4pxcsFM788tHtXf) | [Alicia Kruger](https://open.spotify.com/artist/7FAVT7XBhYQCOq6VkQGGzS) | [Do you](https://open.spotify.com/album/2GGsMAKD6l4F6HFLPFy6F7) | 3:36 | 2022-03-08 | 2022-04-21 |
@@ -188,6 +188,7 @@
 | [love + war \(ft\. Ophie\)](https://open.spotify.com/track/1w0RoKKuDAVUL8Xq5exKOk) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [love + war](https://open.spotify.com/album/3XWMDQNFu7M1QwSCLIkx7h) | 3:25 | 2022-10-12 | 2022-12-06 |
 | [Love In Outer Space \(feat\. Nao\)](https://open.spotify.com/track/0PiP7roaErZrFZwE91bHlG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 5:41 | 2022-11-04 | 2022-11-12 |
 | [Love In Outer Space \(feat\. Nao\)](https://open.spotify.com/track/5VhmL0AjrVrsOHqz5RqUZD) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Where I'm Meant To Be](https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux) | 5:41 | 2022-11-04 | 2022-11-05 |
+| [Love Theme For Leisure Trip](https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Love Theme For Leisure Trip](https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT) | 3:29 | 2023-01-27 |  |
 | [Love You](https://open.spotify.com/track/2P1RglIHxwOiuOyWL5gRko) | [Tom Ford](https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Love You](https://open.spotify.com/album/2HLXHeBsxJiCBCw8xzDjdQ) | 3:03 | 2022-02-18 | 2022-07-29 |
 | [Low Sun \- Live](https://open.spotify.com/track/5BDMUXvlEm9LCqvl38FHFN) | [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Low Sun \(Live\)](https://open.spotify.com/album/0l993bL6QX8RzqiA6UsjsB) | 4:02 | 2022-02-04 | 2022-07-29 |
 | [lucidly \(ft\. Ophie\)](https://open.spotify.com/track/3zpFSNm0QQ3F1MFjliSFwG) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [yield](https://open.spotify.com/album/4mKB6j98xCM5fpw123pY1p) | 2:23 | 2022-11-04 | 2022-12-22 |

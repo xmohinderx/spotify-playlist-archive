@@ -4,7 +4,7 @@
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-111 songs - 5 hr 4 min
+112 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Dark As A Dungeon](https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [Folk Songs Of The Hills](https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk) | 2:47 | 2022-07-24 |  |
 | [Deck Of Cards](https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 3:05 | 2021-05-07 |  |
 | [Deep In the Heart of Texas](https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:43 | 2021-05-07 |  |
-| [Divorce Me C.O.D.](https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Merle Travis Story](https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0) | 2:15 | 2021-05-07 |  |
+| [Divorce Me C.O.D.](https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Merle Travis Story](https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0) | 2:15 | 2021-05-07 | 2023-02-01 |
 | [Don't Fence Me In](https://open.spotify.com/track/1YGTVZDa0E8xmHNn6Rk40I) | [Roy Rogers](https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM) | [Ride Ranger Ride](https://open.spotify.com/album/1FE5Kl73wR7nljB7UxfVR7) | 2:52 | 2021-05-07 | 2022-07-29 |
 | [Don't Fence Me In](https://open.spotify.com/track/3FUL2VqnKPvpuRLvUQozn1) | [Roy Rogers](https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM) | [An Old Cowhand](https://open.spotify.com/album/5gjrYVvjgLLBfNIcsmBaR9) | 2:52 | 2022-07-24 | 2022-11-13 |
 | [Don't Fence Me In](https://open.spotify.com/track/5UsCMdER0Vrh4uFuef4kHA) | [Roy Rogers](https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM) | [Presenting Roy Rogers](https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm) | 2:52 | 2022-07-24 |  |
@@ -66,6 +66,7 @@
 | [Mule Train](https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Capitol Collectors Series](https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv) | 3:03 | 2021-05-07 |  |
 | [My Bucket's Got A Hole In It](https://open.spotify.com/track/6SntDyLZtmGZylgEXlJy6T) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Honky Tonkin \(Expanded Undubbed Edition\)](https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU) | 2:34 | 2022-07-24 | 2022-08-09 |
 | [My Bucket's Got A Hole In It \- Single Version](https://open.spotify.com/track/4RzShiHC8y6IWoHuywYGhl) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Best Of Hank Williams 20th Century Masters The Millennium Collection Volume 2](https://open.spotify.com/album/4YnyZb5jynQzX3X2JJ0AAh) | 2:31 | 2021-05-07 | 2022-07-29 |
+| [My Poncho Pony](https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 2:54 | 2023-01-02 |  |
 | [My Window Faces the South](https://open.spotify.com/track/4SAvq8Fem0hqUlkP0dxXQ1) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:08 | 2021-05-07 | 2022-07-29 |
 | [New San Antonio Rose](https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [The Essential Bob Wills And His Texas Playboys](https://open.spotify.com/album/0eGgfMqA31IfnO12jGmoXa) | 2:36 | 2021-05-07 |  |
 | [Nine Pound Hammer](https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [Folk Songs Of The Hills](https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk) | 2:39 | 2022-07-24 |  |

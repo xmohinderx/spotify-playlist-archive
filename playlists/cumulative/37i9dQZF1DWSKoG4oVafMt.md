@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Ammy Virk & Tania
 
-701 songs - 1 day 14 hr 5 min
+703 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Jattiye](https://open.spotify.com/track/3UxN9a4acByejDEgrrCNVT) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV), [Ritu Jass](https://open.spotify.com/artist/2FxBavpSzU5ZeSdeirCw7D) | [Jattiye](https://open.spotify.com/album/2k1AtVajNAci4hb6Omtqvs) | 2:43 | 2022-08-31 | 2022-09-03 |
 | [Jawab](https://open.spotify.com/track/3CEz56jBn8oUWU9kvQ8hAh) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [Jawab](https://open.spotify.com/album/3uDWcLtliW3y4zNy8mAwrT) | 2:21 | 2022-08-16 | 2022-09-01 |
 | [Jee Laange Yaara](https://open.spotify.com/track/4kBtLDq9dhDlKpmZWVDVqm) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Jaidev Kumar](https://open.spotify.com/artist/3jFf4UnboFrqsHZA8qBkH8), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Jee Laange Yaara](https://open.spotify.com/album/39RCzeBZYqvnjYnU3GQ6Kj) | 3:45 | 2022-12-23 |  |
+| [Jehri Ve](https://open.spotify.com/track/0iWn2eF6GSaZG9Ad8CIy1A) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jehri Ve \(From "Mitran Da Naa Chalda"\)](https://open.spotify.com/album/0nVcGbKyShr1jVpnHyG73H) | 3:43 | 2023-01-31 |  |
 | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/track/6UCOYYKgwCJpENkEFHjw50) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Jhaanjar \(From "Honeymoon"\)](https://open.spotify.com/album/0NpT6q3W06PVHcCnE5Ifyl) | 3:55 | 2022-09-30 |  |
 | [Jhalleya Dila](https://open.spotify.com/track/1hLZbQnKl3ElI3hS3gW21X) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Jhalleya Dila](https://open.spotify.com/album/2xn8lvOvu7wUIYqp1OIiQa) | 3:21 | 2022-01-12 | 2022-05-11 |
 | [Jhanjar](https://open.spotify.com/track/5HOzhBs1Oos4eAadzqmjhy) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:38 | 2022-08-04 |  |
@@ -372,6 +373,7 @@
 | [Magnet](https://open.spotify.com/track/3u506wwA1POn195LMh3NhV) | [JV](https://open.spotify.com/artist/5TkuHs1luRLiHRLtk7VQb0) | [Magnet](https://open.spotify.com/album/5tHjpTGRzsplKtqZ8H85mm) | 3:14 | 2022-04-04 | 2022-04-29 |
 | [Main Cheez Ki Haan](https://open.spotify.com/track/348XU796qHTpT9a0ZGP56J) | [Ammy Virk](https://open.spotify.com/artist/1YjvDuENxcoM8rUMee9ky1), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Oye Makhna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Dz88sSDuIomJiExDPmfQu) | 2:40 | 2022-11-07 | 2022-11-12 |
 | [Main Pyar Sunya Si](https://open.spotify.com/track/2PaH31nWoCiBQOmYwntGZn) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM) | [Main Pyar Sunya Si](https://open.spotify.com/album/1M6srDsBlZXWU2K5NTJFfD) | 3:35 | 2022-10-11 |  |
+| [Main Rab Taan Vekhya Nahi \(From "Gol Gappe"\)](https://open.spotify.com/track/20IPyDgOw3ApqLio0vN7u2) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF), [Raju Verma](https://open.spotify.com/artist/1Rqns15PQavDttGQ2x4PcH) | [Main Rab Taan Vekhya Nahi \(From "Gol Gappe"\)](https://open.spotify.com/album/6RuBIun0WqdfKb8u9s00yu) | 3:42 | 2023-01-31 |  |
 | [Main Tennu Yaad Aawanga](https://open.spotify.com/track/27fytR6av6Mv0Cjh3zLJzt) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [Main Tennu Yaad Aawanga](https://open.spotify.com/album/1r5FSNokqutefN32irtURi) | 3:19 | 2022-02-04 | 2022-02-12 |
 | [Main Tenu Apni](https://open.spotify.com/track/6a7iiQt9YRPCnkOEF74irL) | [Sarvpreet Singh](https://open.spotify.com/artist/2f5Sv3Cdh2t94Q2IoYaSJU) | [Main Tenu Apni](https://open.spotify.com/album/263kPOxJOKWdurtHCdsot1) | 4:16 | 2022-08-31 | 2022-09-23 |
 | [Main Tenu Pyar Kardi Ha](https://open.spotify.com/track/0WKqmLedTxkw4cJ8zPlWbU) | [Masha Ali](https://open.spotify.com/artist/3xPUYrDgDJb1lQ17YYwcfd) | [Main Tenu Pyar Kardi Ha](https://open.spotify.com/album/1xLwFb0JvRxet8723Rq434) | 3:25 | 2022-03-21 | 2022-04-06 |

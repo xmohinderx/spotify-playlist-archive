@@ -4,7 +4,7 @@
 
 > Form a circle and hold hands, it's time to Dabke! Cover: Mohammad Assaf.
 
-92 songs - 6 hr 39 min
+93 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Ghayrek Ma B Yehla](https://open.spotify.com/track/392SSLReIukwCPuM4ci0w8) | [Ali Al Deek](https://open.spotify.com/artist/4gJE3vuk92stqZIRWieUe8), [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3), [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [Ali Hits](https://open.spotify.com/album/1RL5PDCpMACLDpuIMTsXeI) | 6:16 | 2022-02-10 |  |
 | [Ghayrek Ma B Yehla](https://open.spotify.com/track/11WDYXvTT6PDTVmPuntoPq) | [Ali El Deek](https://open.spotify.com/artist/33qFtGCQ4HLTagGMaAOn5N), [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3), [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [Ali Hits](https://open.spotify.com/album/50NsorNvEUNpA8vsrncpOI) | 6:16 | 2021-08-25 | 2022-07-29 |
 | [Habat el Tout](https://open.spotify.com/track/4xq2EfT9fmC4NNMpqKs5fS) | [Wafeek Habib](https://open.spotify.com/artist/4t6ICYfqVNMn1B168kdzrY) | [Layali Beirut, Vol\. One](https://open.spotify.com/album/66GKsmNEe9QnzqblW0CTnH) | 5:10 | 2021-08-25 |  |
-| [Habib Hebbak](https://open.spotify.com/track/4XGlYQTcgEHD1WbMgipNWI) | [Majd Moussaly](https://open.spotify.com/artist/2qE29yka4xvCI58mYGLEDG) | [Layali Beirut, Vol\. III](https://open.spotify.com/album/5jGAjPoPiqsjuOvb0IBTmr) | 4:07 | 2021-08-25 |  |
+| [Habib Hebbak](https://open.spotify.com/track/4XGlYQTcgEHD1WbMgipNWI) | [Majd Moussaly](https://open.spotify.com/artist/2qE29yka4xvCI58mYGLEDG) | [Layali Beirut, Vol\. III](https://open.spotify.com/album/5jGAjPoPiqsjuOvb0IBTmr) | 4:07 | 2021-08-25 | 2023-02-01 |
 | [Hajar](https://open.spotify.com/track/5IzJpF3Y2FsVL1BuH7WUn6) | [Wafeek Habib](https://open.spotify.com/artist/4t6ICYfqVNMn1B168kdzrY) | [Hajar](https://open.spotify.com/album/2GDvWzv2KMO4ylGxXcVqfi) | 7:23 | 2021-08-25 | 2022-02-11 |
 | [Halali Ya Mali \- original](https://open.spotify.com/track/2SqOPpcVQbWYTZpTbWMYQw) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL), [Tamim Asadi](https://open.spotify.com/artist/3ESHX6bPM5q2x8McjsZEMG) | [Afrah](https://open.spotify.com/album/5COJbBMySaSZseXXFFq6mh) | 6:55 | 2021-08-25 | 2023-01-18 |
 | [Haremni](https://open.spotify.com/track/5g78UsbsNCCXTdBPcTEtGr) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Haremni](https://open.spotify.com/album/4phggOoR0RaxV9oM3pc9cg) | 3:57 | 2021-08-25 |  |
@@ -62,6 +62,7 @@
 | [Malyoun Bhebik Malyoun](https://open.spotify.com/track/1vBGLgXsG7jd7niTMSmdw9) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Malyoun Bhebik Malyoun](https://open.spotify.com/album/2OKOEoTkaYc1i2y5SUPXlI) | 4:18 | 2022-02-10 |  |
 | [Nezlat Al Dabka](https://open.spotify.com/track/4w8qgtRYJ24A9zfxlNTDff) | [Shafeq Kabaha](https://open.spotify.com/artist/7kCbfAb3BGS9B5IOlJgEjL) | [Shabiaat](https://open.spotify.com/album/74IdUVgHvz1uLSYAaui1lZ) | 10:08 | 2021-08-25 |  |
 | [Number One](https://open.spotify.com/track/4Id75p83qqiEqdtNbKLaA3) | [Roro Harb](https://open.spotify.com/artist/6elTvTRNhLBk1crtgxGGhb) | [Number One](https://open.spotify.com/album/0fSiO6OjlpMWhPH2BErMLB) | 3:22 | 2021-08-25 |  |
+| [Rodi Sha'ratek \(Feat\. Al\-Aksi\)](https://open.spotify.com/track/2LNL0NfXIOmjoLFDt2to5O) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Turathy \(Inward Expansion\)](https://open.spotify.com/album/3oGTIxUWhQDdop9nv8bylr) | 4:52 | 2022-02-10 |  |
 | [Sabrak Aalaya](https://open.spotify.com/track/0RtypOMII5yyzYnlao1XqI) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Samt](https://open.spotify.com/album/3AUNTtB1y7Pu6SpjJkOKTS) | 4:00 | 2021-08-25 | 2022-07-29 |
 | [Sabrak Aalaya](https://open.spotify.com/track/2ATBgD8HftsDNKzDZf56WI) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Samt](https://open.spotify.com/album/0o9QyQoKPSXnz8eiRtlhbS) | 4:00 | 2022-02-10 |  |
 | [Sawt Rbaba](https://open.spotify.com/track/7hcbFTKUuYu8HoRWowZE31) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Samt](https://open.spotify.com/album/3AUNTtB1y7Pu6SpjJkOKTS) | 5:17 | 2021-08-25 | 2022-07-29 |

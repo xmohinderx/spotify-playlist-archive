@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1969](https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Northern Skies](https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0) | 2:50 | 2022-02-18 |  |
+| [1969](https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Northern Skies](https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0) | 2:50 | 2022-02-18 | 2023-02-01 |
 | [1st Day](https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 2:21 | 2022-03-04 |  |
 | [5th Night](https://open.spotify.com/track/7vEkNIl8MnRzugwZyQtSQY) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 3:04 | 2022-09-21 | 2023-01-15 |
 | [92982.3](https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z) | 7:07 | 2021-10-06 |  |
@@ -293,6 +293,6 @@
 | [Yes! Come Parade With Us](https://open.spotify.com/track/298GDYfwfCREA9RCpnQmq8) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/5zajoik1fYvDE241lbpXxK) | 4:54 | 2021-10-06 | 2022-07-29 |
 | [You Were Always an Island](https://open.spotify.com/track/6e0Qx4lJaPmOUOVAOi9EWQ) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [You Were Always an Island](https://open.spotify.com/album/0uegy8HcbYlg5k3TgImGu7) | 5:54 | 2021-10-06 | 2022-07-29 |
 | [Zorza](https://open.spotify.com/track/1KRAvMxcvm62rAHUzs9n00) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/6c4KbagJQzxCyefFMUbRCi) | 5:36 | 2022-02-18 | 2022-10-18 |
-| [Zorza](https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/78jXl5IqUjWoX4uA5tN3o6) | 5:36 | 2022-02-18 | 2023-01-29 |
+| [Zorza](https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/78jXl5IqUjWoX4uA5tN3o6) | 5:36 | 2022-02-18 |  |
 
 \*This playlist was first scraped on 2022-01-25. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > hop in and take the long way.
 
-280 songs - 17 hr 35 min
+281 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Dance Around It](https://open.spotify.com/track/3ds7PIuFylIZm05cWKzq8o) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Dance Around It](https://open.spotify.com/album/3Ee65K1Z40p7NYMdZnH2bh) | 3:26 | 2022-03-22 | 2022-07-29 |
 | [Dance Around It \(feat\. Brandi Carlile & Sheryl Crow\)](https://open.spotify.com/track/1jxRF1uyBtNLaq2NL5ISro) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:26 | 2022-03-22 |  |
 | [Dancin' Around My Grave](https://open.spotify.com/track/15iM1wuREVujfuboVzZJSK) | [Andy Frasco & the U.N.](https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu), [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Doom Flamingo](https://open.spotify.com/artist/0b94jN9hNa6rBGfzOcZAMr) | [Dancin' Around My Grave](https://open.spotify.com/album/06H89MK9A5I2v7Baf2kFSF) | 2:59 | 2022-01-07 |  |
+| [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 | 2023-02-01 |  |
 | [Desperado](https://open.spotify.com/track/7AddFQXBCAmMPWcV2K9nmp) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [Easy Way](https://open.spotify.com/album/1baZsLfWdRMcdXqgko3Bo7) | 2:46 | 2021-10-08 | 2022-07-29 |
 | [Devil I Know](https://open.spotify.com/track/1WcNBLTw8rPnD5oRb5qEau) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Devil I Know](https://open.spotify.com/album/2KuRXu22f6A0orhnAPPuqD) | 3:32 | 2022-03-22 | 2022-04-18 |
 | [Devil I Know](https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:32 | 2022-03-22 |  |
@@ -167,7 +168,7 @@
 | [Neon Skyline](https://open.spotify.com/track/7H37kk96CEP7iOkihLUst0) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Neon Skyline](https://open.spotify.com/album/2Bw5SFzC3f5CqD5xGSTtRW) | 3:38 | 2021-10-08 | 2022-06-03 |
 | [Nervous](https://open.spotify.com/track/4j7tap1TMQj9Vz8B69eepL) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Nervous](https://open.spotify.com/album/5jpUfR7fKI0l3NVYDxfiTr) | 2:46 | 2021-10-08 | 2022-07-29 |
 | [Never Want to Be In Love](https://open.spotify.com/track/0KPNkGhDgIpS9wVFi7AiUP) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Never Want to Be In Love](https://open.spotify.com/album/6UJegFNaAiOqZBaTSBtEaQ) | 3:33 | 2022-03-22 | 2022-04-21 |
-| [New Love Cassette](https://open.spotify.com/track/4JaLWmdTChliUG88ks6Prm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/7t7tfXDhXiQpAV2uNfYWWG) | 3:26 | 2022-03-22 |  |
+| [New Love Cassette](https://open.spotify.com/track/4JaLWmdTChliUG88ks6Prm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/7t7tfXDhXiQpAV2uNfYWWG) | 3:26 | 2022-03-22 | 2023-02-01 |
 | [New Love Cassette](https://open.spotify.com/track/4SsWVvNKAHJP1T2bP6d2ut) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/0RedX0LZkGUFoRwFntAaI0) | 3:26 | 2021-10-08 | 2022-04-19 |
 | [New Moon](https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [The Unseen In Between](https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570) | 5:10 | 2022-03-22 | 2022-04-21 |
 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 | 2022-01-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 130414,
+  "num_followers": 130608,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDQ2NjlhZjBhZTNlZTU0YjI1N2NjM2Y5N2JkNWI4ZGM2",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDQzZDEzYWFjZGY4Y2UyMjE5ZjY2MWViZTlkYmVkNTgz",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/5jPPjNMIi1rD6BvQqxhJh5"
     },
     {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 381998,
+      "name": "Lyin' Eyes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
+    },
+    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "Certified Hits (Remastered)",
@@ -171,22 +187,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 381998,
-      "name": "Lyin' Eyes - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Garden Party",
         "url": "https://open.spotify.com/album/76BrDrAEcQhjvXehCVMpWv"
       },
@@ -203,6 +203,22 @@
       "duration_ms": 229800,
       "name": "Garden Party",
       "url": "https://open.spotify.com/track/7J5tyfg3OYVNR97KH66ovw"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
+      },
+      "artists": [
+        {
+          "name": "Pure Prairie League",
+          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+        }
+      ],
+      "duration_ms": 260933,
+      "name": "Amie",
+      "url": "https://open.spotify.com/track/1mqydO6xMtyTPa8yo1SdVr"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -237,20 +253,20 @@
       "url": "https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
+      "added_at": "2022-06-01 14:20:20",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf"
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
       "artists": [
         {
-          "name": "Pure Prairie League",
-          "url": "https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 260933,
-      "name": "Amie",
-      "url": "https://open.spotify.com/track/1mqydO6xMtyTPa8yo1SdVr"
+      "duration_ms": 250888,
+      "name": "Witchy Woman - 2013 Remaster",
+      "url": "https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -271,6 +287,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Almost Blue",
+        "url": "https://open.spotify.com/album/6Y234kkXewBp0CjanUQW3w"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "Good Year For The Roses",
+      "url": "https://open.spotify.com/track/4RZCoFsZHw9XvDZdv2jtkK"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Firefall",
         "url": "https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o"
       },
@@ -287,18 +319,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Almost Blue",
-        "url": "https://open.spotify.com/album/6Y234kkXewBp0CjanUQW3w"
+        "name": "You're Only Lonely",
+        "url": "https://open.spotify.com/album/1JoT6VQQ8H5CUtPLEYw7o0"
       },
       "artists": [
         {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+          "name": "JD Souther",
+          "url": "https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5"
         }
       ],
-      "duration_ms": 188920,
-      "name": "Good Year For The Roses",
-      "url": "https://open.spotify.com/track/4RZCoFsZHw9XvDZdv2jtkK"
+      "duration_ms": 228000,
+      "name": "You're Only Lonely",
+      "url": "https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf"
     },
     {
       "added_at": "2022-06-01 14:20:20",
@@ -312,25 +344,9 @@
           "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 250888,
-      "name": "Witchy Woman - 2013 Remaster",
-      "url": "https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "You're Only Lonely",
-        "url": "https://open.spotify.com/album/1JoT6VQQ8H5CUtPLEYw7o0"
-      },
-      "artists": [
-        {
-          "name": "JD Souther",
-          "url": "https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "You're Only Lonely",
-      "url": "https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf"
+      "duration_ms": 250456,
+      "name": "Train Leaves Here This Morning - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -379,22 +395,6 @@
       "duration_ms": 232400,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb"
-    },
-    {
-      "added_at": "2022-06-01 14:20:20",
-      "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 250456,
-      "name": "Train Leaves Here This Morning - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -511,6 +511,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Hotel California (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 304925,
+      "name": "New Kid in Town - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Sweetheart Of The Rodeo",
         "url": "https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 160466,
       "name": "One Hundred Years from Now",
       "url": "https://open.spotify.com/track/7FeLo6k5fhgXyGTPaK6VLi"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Hand Sown...Home Grown",
-        "url": "https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Silver Threads And Golden Needles",
-      "url": "https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -563,22 +563,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Hotel California (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/5NMAdQPrKw5nutWnGEzfpn"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 304925,
-      "name": "New Kid in Town - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3T0HWZFYwE5iPXTIHJ1MMS"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 169840,
       "name": "Morning Sky",
       "url": "https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Hand Sown...Home Grown",
+        "url": "https://open.spotify.com/album/3a7qArnirRgatBiSlc2k3W"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Silver Threads And Golden Needles",
+      "url": "https://open.spotify.com/track/4FLUda3tCvPWBCvUeyiivd"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -655,26 +655,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Magnetic South (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
-      },
-      "artists": [
-        {
-          "name": "Michael Nesmith",
-          "url": "https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2"
-        },
-        {
-          "name": "The First National Band",
-          "url": "https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Mama Nantucket",
-      "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "The Flying Burrito Brothers",
         "url": "https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1"
       },
@@ -687,22 +667,6 @@
       "duration_ms": 196800,
       "name": "White Line Fever",
       "url": "https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Ton-Ton Macoute!",
-        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jenkins",
-          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
-        }
-      ],
-      "duration_ms": 205093,
-      "name": "Down Along The Cove",
-      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -723,6 +687,42 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
+        "name": "Magnetic South (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
+      },
+      "artists": [
+        {
+          "name": "Michael Nesmith",
+          "url": "https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2"
+        },
+        {
+          "name": "The First National Band",
+          "url": "https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Mama Nantucket",
+      "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Ton-Ton Macoute!",
+        "url": "https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jenkins",
+          "url": "https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "Down Along The Cove",
+      "url": "https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
         "name": "Safe at Home",
         "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Slippin Away",
-        "url": "https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y"
-      },
-      "artists": [
-        {
-          "name": "Chris Hillman",
-          "url": "https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Step on Out",
-      "url": "https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE"
-    },
-    {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
         "name": "Commander Cody & His Lost Planet Airmen",
         "url": "https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 218493,
       "name": "Willin'",
       "url": "https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Slippin Away",
+        "url": "https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y"
+      },
+      "artists": [
+        {
+          "name": "Chris Hillman",
+          "url": "https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Step on Out",
+      "url": "https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE"
     },
     {
       "added_at": "2020-08-05 15:52:11",

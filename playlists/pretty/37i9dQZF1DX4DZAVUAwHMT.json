@@ -1,12 +1,12 @@
 {
   "description": "The UK's biggest rock playlist. Cover: Demob Happy",
-  "num_followers": 588888,
+  "num_followers": 588825,
   "original_name": "The Rock List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc3NzYwMCwwMDAwMDAwMDkzNmIzMzU0ZmFiMmU1M2U2ZTdiNDlhZmNmMGVjZTM5",
+  "snapshot_id": "MTY3NTEwMTA3NCwwMDAwMDAwMDFkMTQyNjk2NjRiZTZjZjRiODk3MTdkNTdlYjA0MGM0",
   "tracks": [
     {
       "added_at": "2023-01-27 00:00:00",
@@ -155,6 +155,22 @@
       "duration_ms": 269666,
       "name": "I EXIST",
       "url": "https://open.spotify.com/track/4jJ6h9LNJ36huNd2sjR73M"
+    },
+    {
+      "added_at": "2023-01-30 17:51:14",
+      "album": {
+        "name": "What's Rock And Roll?",
+        "url": "https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD"
+      },
+      "artists": [
+        {
+          "name": "The Reytons",
+          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "15 Minutes In The Algorithm",
+      "url": "https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs"
     },
     {
       "added_at": "2023-01-27 00:00:00",
@@ -467,22 +483,6 @@
       "duration_ms": 187010,
       "name": "Died in My Twenties",
       "url": "https://open.spotify.com/track/5jugjQMGL2QNFdxfl12o5G"
-    },
-    {
-      "added_at": "2023-01-27 00:00:00",
-      "album": {
-        "name": "Fading",
-        "url": "https://open.spotify.com/album/0yNfE1sA8oc97MG7DoVRnq"
-      },
-      "artists": [
-        {
-          "name": "The Reytons",
-          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
-        }
-      ],
-      "duration_ms": 186413,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/3PTwnUE0HTAvBnhiqFVi9Y"
     },
     {
       "added_at": "2023-01-27 00:00:00",

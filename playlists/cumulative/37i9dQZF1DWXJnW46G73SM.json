@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": " \u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u064a\u0648\u0645\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u0647\u0627\u0621 \u0633\u0644\u0637\u0627\u0646",
+  "description": " \u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u064a\u0648\u0645\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u062d\u0645\u062f \u0633\u0639\u064a\u062f",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -1638,6 +1638,24 @@
       "duration_ms": 142397,
       "name": "Falatet Meny",
       "url": "https://open.spotify.com/track/0MMxozXjLBkQFqOPuUEPwG"
+    },
+    {
+      "album": {
+        "name": "Fe Einy",
+        "url": "https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188225,
+      "name": "Fe Einy",
+      "url": "https://open.spotify.com/track/2TyixRw1j8Ojuh29akRROH"
     },
     {
       "album": {
@@ -3592,7 +3610,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 232000,
       "name": "Ostaz Doctor",
       "url": "https://open.spotify.com/track/1vXKM9vvvIvkNSZZh47AVi"

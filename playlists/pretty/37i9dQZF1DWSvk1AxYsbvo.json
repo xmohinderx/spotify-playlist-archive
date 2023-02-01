@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 6847,
+  "num_followers": 6857,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDYzMzc4OSwwMDAwMDAwMDY3MDJlYmJjMDEzNDEwYTE2ODJiMDJjYmViMzQzYmY0",
+  "snapshot_id": "MTY3NDYzMzc4OSwwMDAwMDAwMDhlYjhhZWNjNTE1NjdkODIwZGZiZjk4OTUzZTk0ZDIz",
   "tracks": [
     {
       "added_at": "2023-01-25 08:03:09",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "PLAYLIST (Original Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Like a Bird",
-      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
         "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 209866,
       "name": "Something Precious",
       "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
+        "name": "PLAYLIST (Original Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Like a Bird",
+      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "What Should I do",
-        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
       },
       "artists": [
         {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+          "name": "Acoustic Collabo",
+          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
         }
       ],
-      "duration_ms": 267893,
-      "name": "What Should I do",
-      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
+      "duration_ms": 224000,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -407,50 +407,18 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
+        "name": "What Should I do",
+        "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
       },
       "artists": [
         {
-          "name": "Acoustic Collabo",
-          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
-        "name": "Olive",
-        "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
-      },
-      "artists": [
-        {
-          "name": "Artinb",
-          "url": "https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Olive",
-      "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
-        "name": "When It's Cold",
-        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
-      },
-      "artists": [
-        {
-          "name": "Bily Acoustie",
-          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
-        }
-      ],
-      "duration_ms": 183824,
-      "name": "When It\u2019s Cold",
-      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+      "duration_ms": 267893,
+      "name": "What Should I do",
+      "url": "https://open.spotify.com/track/4ARhTCA10vYH49DceecURl"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -487,6 +455,38 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+      },
+      "artists": [
+        {
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+        }
+      ],
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
+        "name": "Olive",
+        "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
+      },
+      "artists": [
+        {
+          "name": "Artinb",
+          "url": "https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Olive",
+      "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
         "name": "sleepless nights (My Sweden Laundry #1)",
         "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "Seoul Check-in OST Part 8",
-        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Don't Ever Leave Me",
-      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
         "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
         "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
       },
@@ -531,22 +515,6 @@
       "duration_ms": 225080,
       "name": "Just You",
       "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
-      },
-      "artists": [
-        {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -571,6 +539,22 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
+        "name": "Seoul Check-in OST Part 8",
+        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
         "name": "let\u2019s play tug",
         "url": "https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 166196,
       "name": "let\u2019s play tug",
       "url": "https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -667,6 +667,38 @@
       "duration_ms": 135750,
       "name": "right now",
       "url": "https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
+      },
+      "artists": [
+        {
+          "name": "\uc870\uc740\uc138",
+          "url": "https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj"
+        }
+      ],
+      "duration_ms": 207998,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
+        "name": "My",
+        "url": "https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw"
+      },
+      "artists": [
+        {
+          "name": "Baek Sun",
+          "url": "https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O"
+        }
+      ],
+      "duration_ms": 166961,
+      "name": "My (Prod. Norwegian Wood)",
+      "url": "https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -759,22 +791,6 @@
     {
       "added_at": "2023-01-25 08:03:09",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 245870,
-      "name": "Something Special",
-      "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
         "name": "Night Swimming",
         "url": "https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5"
       },
@@ -787,6 +803,22 @@
       "duration_ms": 249272,
       "name": "Night Swimming",
       "url": "https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78"
+    },
+    {
+      "added_at": "2023-01-25 08:03:09",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 245870,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
     },
     {
       "added_at": "2023-01-25 08:03:09",
@@ -823,38 +855,6 @@
       "duration_ms": 205002,
       "name": "Leave like this",
       "url": "https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
-        "name": "Free Giveaway",
-        "url": "https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY"
-      },
-      "artists": [
-        {
-          "name": "Coffeeboy",
-          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
-        }
-      ],
-      "duration_ms": 211456,
-      "name": "Free Giveaway",
-      "url": "https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi"
-    },
-    {
-      "added_at": "2023-01-25 08:03:09",
-      "album": {
-        "name": "Mm Mm",
-        "url": "https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "Mm Mm - Acoustic Version",
-      "url": "https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",

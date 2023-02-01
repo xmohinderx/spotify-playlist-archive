@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 228243,
       "name": "A Rainy Friday In June",
       "url": "https://open.spotify.com/track/3UXy5gTZLOYb5AIFcwNd5m"
@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "CATCH THE RAINBOW",
+        "url": "https://open.spotify.com/album/5TfgfGhPhDk9XdyROheBp1"
+      },
+      "artists": [
+        {
+          "name": "Junk Fujiyama",
+          "url": "https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290718,
+      "name": "CATCH THE RAINBOW",
+      "url": "https://open.spotify.com/track/1Cwlmkh0KR2EmrazPKJScv"
+    },
+    {
+      "album": {
         "name": "Change My Life",
         "url": "https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG"
       },
@@ -830,7 +848,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-29",
+      "date_removed": null,
       "duration_ms": 208436,
       "name": "Christmas Is All Yours",
       "url": "https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ"
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 271000,
       "name": "hologram",
       "url": "https://open.spotify.com/track/4RPhDA0caf8PWbSOidnozh"
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 234453,
       "name": "IT'S GONNA BE ALL RIGHT",
       "url": "https://open.spotify.com/track/3yF0g3tjRNzSJQSApiaTIz"
@@ -2543,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "Love Me in the Night",
+        "url": "https://open.spotify.com/album/2aeNemF87eMQS0Ow7gFQkK"
+      },
+      "artists": [
+        {
+          "name": "Girls Back Teen",
+          "url": "https://open.spotify.com/artist/3oS9FQzXuX1OviySdt4Vrz"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Love Me in the Night",
+      "url": "https://open.spotify.com/track/0gOUA24O0POw1toZbcffgg"
+    },
+    {
+      "album": {
         "name": "Love U true",
         "url": "https://open.spotify.com/album/7aZJJn9XVacC1j0jVyU9GY"
       },
@@ -2616,7 +2652,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-18",
+      "date_removed": null,
       "duration_ms": 269569,
       "name": "MAGIC WAYS",
       "url": "https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g"
@@ -4112,7 +4148,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 198000,
       "name": "SOMETHING",
       "url": "https://open.spotify.com/track/0YUWGLoMy9Uc2W0HiBHtmp"
@@ -4612,7 +4648,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 233920,
       "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt"
@@ -7034,7 +7070,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 230800,
       "name": "\u5c0f\u9ea6\u8272\u306e\u30de\u30fc\u30e1\u30a4\u30c9",
       "url": "https://open.spotify.com/track/0ya4KBGKjtOas5XqGt97HU"
@@ -7502,6 +7538,46 @@
       "duration_ms": 300428,
       "name": "\u6f6e\u9a12(feat. \u5800\u8fbc\u6cf0\u884c)",
       "url": "https://open.spotify.com/track/2IG4w90GCE7P5w5Bu4kyY7"
+    },
+    {
+      "album": {
+        "name": "\u706f\u706b (feat. miida)",
+        "url": "https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "miida",
+          "url": "https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "\u706f\u706b (feat. miida)",
+      "url": "https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul"
+    },
+    {
+      "album": {
+        "name": "\u7159 EP",
+        "url": "https://open.spotify.com/album/6v2XkCRkxNbFsfITJcTKEA"
+      },
+      "artists": [
+        {
+          "name": "Benlou",
+          "url": "https://open.spotify.com/artist/4sECzRxkhQ0LmFaufbgbKj"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214813,
+      "name": "\u7159",
+      "url": "https://open.spotify.com/track/7DM37TLV1vS7DQLeVAvaa6"
     },
     {
       "album": {

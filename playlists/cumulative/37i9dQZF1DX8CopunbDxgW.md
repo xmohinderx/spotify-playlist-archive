@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Yaeji.
 
-683 songs - 1 day 20 hr 44 min
+684 songs - 1 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Deeper](https://open.spotify.com/track/6BUzs4g1OvThxUalMhL6b8) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Deeper](https://open.spotify.com/album/0u1EYKJoJFmrBziiziPjBH) | 3:49 | 2022-10-28 | 2022-12-10 |
 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 | 2022-11-18 | 2023-01-06 |
 | [Dhollandia](https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Dhollandia / Circles](https://open.spotify.com/album/5NadYxqel92ecOc1gd3PDr) | 6:18 | 2021-09-03 | 2022-07-28 |
+| [Differences](https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Differences](https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy) | 2:20 | 2023-01-27 |  |
 | [Dive](https://open.spotify.com/track/5jtoaV5EaF0lBJ6lHv29Gk) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Dive](https://open.spotify.com/album/0SxN5b4NiWiaBKpCbc01Ed) | 3:46 | 2022-05-06 | 2022-07-15 |
 | [Diversions](https://open.spotify.com/track/76mzQIXE9intMTM056dQvW) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Early Hours](https://open.spotify.com/album/2QTjE4fU8S5krkRDcjKtZj) | 4:53 | 2021-08-27 | 2022-02-09 |
 | [Domino](https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Domino](https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU) | 3:35 | 2022-06-10 | 2022-11-14 |
@@ -593,7 +594,7 @@
 | [The Destroyer](https://open.spotify.com/track/4Bdb6aNzVMvUlVKpufXG3T) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [The Destroyer](https://open.spotify.com/album/3HRVpNI7exOVCubVGPvjN9) | 3:12 | 2022-08-05 | 2022-09-10 |
 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 | 2022-09-17 | 2022-10-06 |
 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 | 2022-01-14 | 2022-04-18 |
-| [The Last Goodbye \(feat\. Bettye LaVette\) \- DJ Seinfeld Remix](https://open.spotify.com/track/4DmUdGg9eXpOb48eDjOi1p) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [The Last Goodbye Remixes N°.1](https://open.spotify.com/album/0vt9IqflcQqkTa6ExJoccQ) | 3:56 | 2022-10-05 |  |
+| [The Last Goodbye \(feat\. Bettye LaVette\) \- DJ Seinfeld Remix](https://open.spotify.com/track/4DmUdGg9eXpOb48eDjOi1p) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [The Last Goodbye Remixes N°.1](https://open.spotify.com/album/0vt9IqflcQqkTa6ExJoccQ) | 3:56 | 2022-10-05 | 2023-02-01 |
 | [The Light](https://open.spotify.com/track/6Cf2PaHhf7XaBCX87k2dal) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/0XNzjaUvXjnfL0O5PPHCgn) | 4:49 | 2022-03-18 | 2022-07-21 |
 | [The Medium](https://open.spotify.com/track/3LtlQb74pLqC5KsllxIXoV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:07 | 2022-09-17 | 2022-10-06 |
 | [The Other Lover \- Little Dragon Vocal Celebration Mix](https://open.spotify.com/track/45659OEpkUJgWppTLASMg4) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [New Me, Same Us Remix EP](https://open.spotify.com/album/6k1Dz3KDGr2XsWJ2qArace) | 6:19 | 2021-08-06 | 2022-07-28 |

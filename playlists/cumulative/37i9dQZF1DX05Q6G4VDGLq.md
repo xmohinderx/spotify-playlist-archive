@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-435 songs - 1 day 3 hr 3 min
+438 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Abisko](https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Abisko](https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp) | 2:48 | 2022-06-28 | 2022-10-08 |
 | [Absence](https://open.spotify.com/track/0q243837xX1qJmXuItLJHd) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Absence](https://open.spotify.com/album/13zi4vABi2RGi71sfTMLll) | 3:11 | 2022-06-28 | 2022-10-08 |
 | [Adrift](https://open.spotify.com/track/1bMvqBFGPYsNVRCxYFUkRu) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Adrift](https://open.spotify.com/album/1xbQp1I63p3105CriGuV6n) | 3:46 | 2022-12-30 |  |
-| [After Hours](https://open.spotify.com/track/3RoPN08vWMKxViEhdoqeuW) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [After Hours](https://open.spotify.com/album/3itxUrPWLTA7nUFpL3LiTS) | 3:32 | 2022-08-30 |  |
+| [After Hours](https://open.spotify.com/track/3RoPN08vWMKxViEhdoqeuW) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [After Hours](https://open.spotify.com/album/3itxUrPWLTA7nUFpL3LiTS) | 3:32 | 2022-08-30 | 2023-02-01 |
 | [After You've Gone](https://open.spotify.com/track/1nCak4c8NFMJosxYkDZY2t) | [Bleecker Jazz Duo](https://open.spotify.com/artist/1fjtfjgiQ6dp0HhJdULJbQ) | [Here's That Rainy Day](https://open.spotify.com/album/5v5UCmE3YVNgLbQs8WFNfs) | 3:19 | 2022-08-30 | 2022-10-08 |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-06-28 |  |
 | [Alfie](https://open.spotify.com/track/5YTYCMTxcvM29aTYRp99gm) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:37 | 2022-06-28 | 2022-10-08 |
@@ -228,6 +228,7 @@
 | [Last Time I Saw You](https://open.spotify.com/track/2Qyrr1fiYwV3bShAZqiivZ) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [Rue Saint\-Rustique](https://open.spotify.com/album/1IJrePjVbCWRK31hmKa3jB) | 3:55 | 2022-12-08 |  |
 | [Last Time We Kissed](https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 4:14 | 2022-12-08 |  |
 | [Laura](https://open.spotify.com/track/5c6uQOFSUzRGOiEVdDB6Zx) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Laura](https://open.spotify.com/album/53Vz2jcWzo7abWsSzjBWrj) | 4:04 | 2022-08-30 |  |
+| [Let's go uptown](https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let's go uptown](https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3) | 2:20 | 2023-01-26 |  |
 | [Litania](https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Litania](https://open.spotify.com/album/1h5ET74uSoTx5vr58suMeR) | 3:55 | 2022-06-28 | 2022-10-08 |
 | [Little Bell](https://open.spotify.com/track/1AQHHWxWaCZrMsqrdDTNng) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Little Bell](https://open.spotify.com/album/3Co6xU6tpBJqppc2TNis78) | 3:30 | 2022-10-07 |  |
 | [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-06-28 |  |
@@ -238,6 +239,7 @@
 | [Lonely Dreams](https://open.spotify.com/track/06spmhyDpCb9aWQapTZcxY) | [Andy Luma Trio](https://open.spotify.com/artist/3vnHJt1VixhKHJ0b8IhwIy) | [Lonely Dreams](https://open.spotify.com/album/2PtgmOMUnMDAYLQhsfLck5) | 3:37 | 2022-11-24 |  |
 | [Long Ago And Far Away](https://open.spotify.com/track/4E8iJLPtZiIHvquh0rf0f5) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Long Ago And Far Away](https://open.spotify.com/album/579pCXCY423zV2a3ReVko9) | 3:25 | 2022-10-27 |  |
 | [Look For The Silver Lining](https://open.spotify.com/track/7CIQyeJuQUrJu3W8CoqAmu) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Look For The Silver Lining](https://open.spotify.com/album/5LGEFIR73PAlPikZFndnyY) | 3:46 | 2022-06-28 |  |
+| [Looking Forward](https://open.spotify.com/track/1ImSQqQnC1UmJaKtT3GfEp) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Looking Forward](https://open.spotify.com/album/4SVRZswM92y7LDcGL8BqmH) | 3:11 | 2023-01-26 |  |
 | [Lost and Found](https://open.spotify.com/track/09YX8Z46RPayTuUF2Gmtiw) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Lost and Found](https://open.spotify.com/album/76v5tyzy1FuPR6XvYzXi3F) | 3:26 | 2022-06-28 | 2022-12-03 |
 | [Love by the Shore](https://open.spotify.com/track/3Eth4uBxjHksBSkAOf5SX4) | [Aurelius Markus Trio](https://open.spotify.com/artist/7GN5mWX88NsS7eNxAAOYrf) | [Love by the Shore](https://open.spotify.com/album/04xmsv425l9XJMIhNtKsM0) | 4:53 | 2022-06-28 | 2023-01-11 |
 | [Love Is a Many\-Splendored Thing](https://open.spotify.com/track/23G8P94lKwgXNAKH2z5VP8) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 2:43 | 2022-06-28 | 2022-10-08 |
@@ -393,6 +395,7 @@
 | [The Wind](https://open.spotify.com/track/3ssyhOkzW2tfNCiR7qihx4) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [The Wind](https://open.spotify.com/album/0Cy8DQQxtghkO1DrxydU4M) | 3:57 | 2022-06-28 |  |
 | [The Workers](https://open.spotify.com/track/1oXb2a7joQ4cre3t2W24hu) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [The Workers](https://open.spotify.com/album/3yW4cbRuICHZRsPCfHRSr0) | 3:26 | 2022-10-27 |  |
 | [Theme for Ruth](https://open.spotify.com/track/3Lufuxi6y1fGw3bPHhlx66) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Theme for Ruth](https://open.spotify.com/album/4ZzZNkzoKThNkQXL1ZeFdC) | 3:01 | 2022-06-28 | 2022-11-07 |
+| [There Goes My Heart](https://open.spotify.com/track/1LGN3DO6YD61pwb64gQtZx) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [There Goes My Heart](https://open.spotify.com/album/1xNAXGrLepkx1b0pgBFuvn) | 3:42 | 2023-01-26 |  |
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2022-06-28 |  |
 | [They Say It's Wonderful](https://open.spotify.com/track/59OJQEuRXWraNpbTqUeDVA) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [They Say It's Wonderful](https://open.spotify.com/album/0tFhwfBAFd6GL9Om8jLOPj) | 3:18 | 2022-06-28 | 2022-11-03 |
 | [This Autumn](https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [This Autumn](https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY) | 2:52 | 2022-12-01 |  |
@@ -402,7 +405,7 @@
 | [Time Remembered](https://open.spotify.com/track/2kuCedGQNreDSHNCmxJLwr) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Time Remembered](https://open.spotify.com/album/5dNksNJCyeqYrEaLzj25Xw) | 3:04 | 2022-06-28 | 2022-11-24 |
 | [Time To Ponder](https://open.spotify.com/track/4sM2NQDJUC9PRbswwfdFwT) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Time To Ponder](https://open.spotify.com/album/1xcd6r2pl7i1V55S6sEqRL) | 3:12 | 2022-08-30 |  |
 | [To the Moon and Back](https://open.spotify.com/track/2kpab8oAK2b4f6AcR076PA) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [To the Moon and Back](https://open.spotify.com/album/6kn3tGxawwwCILy9FvSjNQ) | 5:07 | 2022-06-28 | 2022-10-08 |
-| [Tomorrow](https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Tomorrow](https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M) | 4:29 | 2022-08-30 |  |
+| [Tomorrow](https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Tomorrow](https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M) | 4:29 | 2022-08-30 | 2023-02-01 |
 | [Tomorrow Is Here](https://open.spotify.com/track/1hTMVhmk468pih4N45bGAd) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Tomorrow Is Here](https://open.spotify.com/album/2Pvs4bsVvPE1fp6xRryR81) | 3:37 | 2022-09-07 | 2022-11-28 |
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-06-28 |  |
 | [Twenty Somethings](https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Twenty Somethings](https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP) | 2:32 | 2022-12-08 |  |
@@ -411,7 +414,7 @@
 | [Vesper](https://open.spotify.com/track/3WEkHcJisp1XyPPNMWKAi0) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Vesper](https://open.spotify.com/album/3BxFj4YKomKREXrep93gIB) | 4:14 | 2022-06-28 | 2022-10-08 |
 | [Views Of Dawn](https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Views Of Dawn](https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM) | 4:53 | 2022-10-13 |  |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 |  |
-| [W 52nd Street](https://open.spotify.com/track/37UFqtGPmHXElXarXjFtn5) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [W 52nd Street](https://open.spotify.com/album/6mURKCToOEmWlZkDeDduqU) | 3:43 | 2022-09-29 |  |
+| [W 52nd Street](https://open.spotify.com/track/37UFqtGPmHXElXarXjFtn5) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [W 52nd Street](https://open.spotify.com/album/6mURKCToOEmWlZkDeDduqU) | 3:43 | 2022-09-29 | 2023-02-01 |
 | [Walking on Clouds](https://open.spotify.com/track/6R1XRia3u8IRBaHs6LBBGr) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Walking On Clouds](https://open.spotify.com/album/6hH88gvmgvTtEIsLVdarSD) | 2:02 | 2022-06-28 | 2022-10-08 |
 | [Waltz For Ola](https://open.spotify.com/track/01Lv5YnZl96AjZju2KWu63) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:14 | 2022-11-17 |  |
 | [Waterfall](https://open.spotify.com/track/0Gyu7ttkfam04VeAgZEB3c) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Waterfall](https://open.spotify.com/album/4ce6IAUlzsEe7elxVkRZqc) | 2:32 | 2023-01-12 |  |

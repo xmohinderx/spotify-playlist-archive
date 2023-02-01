@@ -1,12 +1,12 @@
 {
   "description": "County's best like you've never heard before. Cover: Lainey Wilson",
-  "num_followers": 110508,
+  "num_followers": 110542,
   "original_name": "Spotify Singles: Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3NzEwMCwwMDAwMDAwMDVlNzFiNjZhNTQ1YTZlMDlhYTYxNDEyOGZkMTUxYTI4",
+  "snapshot_id": "MTY3MzQ3NzEwMCwwMDAwMDAwMGI3OWQxZGYyY2Y4MzhlNGE0MDQwMGY3ZTM0MGNkMjc2",
   "tracks": [
     {
       "added_at": "2023-01-11 22:45:00",
@@ -116,22 +116,6 @@
       "added_at": "2023-01-11 22:45:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 224987,
-      "name": "One Number Away - Recorded At Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
-    },
-    {
-      "added_at": "2023-01-11 22:45:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
       },
       "artists": [
@@ -143,6 +127,22 @@
       "duration_ms": 215281,
       "name": "Not Over You - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/5hS4YR5CkE6YF5sH0d9boA"
+    },
+    {
+      "added_at": "2023-01-11 22:45:00",
+      "album": {
+        "name": "Carrying Your Love With Me (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Carrying Your Love With Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
     },
     {
       "added_at": "2023-01-11 22:45:00",
@@ -164,37 +164,17 @@
       "added_at": "2023-01-11 22:45:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD"
+        "url": "https://open.spotify.com/album/2H18xXYbVopKYddC2VqoPJ"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        },
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 214655,
-      "name": "House Fire (feat. The Travelin' McCourys)",
-      "url": "https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc"
-    },
-    {
-      "added_at": "2023-01-11 22:45:00",
-      "album": {
-        "name": "Carrying Your Love With Me (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "Carrying Your Love With Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
+      "duration_ms": 224987,
+      "name": "One Number Away - Recorded At Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/0RmtUP9oQqhO3WFqB3KrM2"
     },
     {
       "added_at": "2023-01-11 22:45:00",
@@ -227,6 +207,26 @@
       "duration_ms": 228460,
       "name": "Delicate - Recorded at The Tracking Room Nashville",
       "url": "https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK"
+    },
+    {
+      "added_at": "2023-01-11 22:45:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        },
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 214655,
+      "name": "House Fire (feat. The Travelin' McCourys)",
+      "url": "https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc"
     },
     {
       "added_at": "2023-01-11 22:45:00",
@@ -380,6 +380,22 @@
       "added_at": "2023-01-11 22:45:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 199914,
+      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
+    },
+    {
+      "added_at": "2023-01-11 22:45:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25"
       },
       "artists": [
@@ -407,22 +423,6 @@
       "duration_ms": 317729,
       "name": "Smalltown Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
-    },
-    {
-      "added_at": "2023-01-11 22:45:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 199914,
-      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
     },
     {
       "added_at": "2023-01-11 22:45:00",
@@ -572,6 +572,22 @@
       "added_at": "2023-01-11 22:45:00",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 267802,
+      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
+    },
+    {
+      "added_at": "2023-01-11 22:45:00",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7nOgjBllSIbcsJN5CYSrwU"
       },
       "artists": [
@@ -587,22 +603,6 @@
       "duration_ms": 208949,
       "name": "Love Someone (feat. Sabina Ddumba) - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/2Em5ZsKqKHwGa2gM5JznZf"
-    },
-    {
-      "added_at": "2023-01-11 22:45:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 267802,
-      "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
     },
     {
       "added_at": "2023-01-11 22:45:00",
@@ -656,22 +656,6 @@
       "added_at": "2023-01-11 22:45:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 234873,
-      "name": "My Old Man - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6hJ7gAxu3QqYBfvaTV3ZOQ"
-    },
-    {
-      "added_at": "2023-01-11 22:45:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
       "artists": [
@@ -687,6 +671,22 @@
       "duration_ms": 207458,
       "name": "Everywhere I'm Goin' (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD"
+    },
+    {
+      "added_at": "2023-01-11 22:45:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 234873,
+      "name": "My Old Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6hJ7gAxu3QqYBfvaTV3ZOQ"
     },
     {
       "added_at": "2023-01-11 22:45:00",
@@ -740,22 +740,6 @@
       "added_at": "2023-01-11 22:45:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 202690,
-      "name": "Blue Tacoma",
-      "url": "https://open.spotify.com/track/4lUOnbLKhGz4ugezX8oUjl"
-    },
-    {
-      "added_at": "2023-01-11 22:45:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY"
       },
       "artists": [
@@ -771,6 +755,22 @@
       "duration_ms": 213800,
       "name": "Elvira (feat. The Oak Ridge Boys) - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/4XmLGH5lm3ofjbtZTI5dAm"
+    },
+    {
+      "added_at": "2023-01-11 22:45:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 202690,
+      "name": "Blue Tacoma",
+      "url": "https://open.spotify.com/track/4lUOnbLKhGz4ugezX8oUjl"
     },
     {
       "added_at": "2023-01-11 22:45:00",
@@ -840,22 +840,6 @@
       "added_at": "2023-01-11 22:45:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 158501,
-      "name": "Unforgettable - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L"
-    },
-    {
-      "added_at": "2023-01-11 22:45:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4zudMsniWNz0q2CKRI9Fuy"
       },
       "artists": [
@@ -872,17 +856,17 @@
       "added_at": "2023-01-11 22:45:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
+        "url": "https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 255553,
-      "name": "Better Place - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU"
+      "duration_ms": 158501,
+      "name": "Unforgettable - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/24VXXFM4abj8UwTNEIIL8L"
     },
     {
       "added_at": "2023-01-11 22:45:00",
@@ -899,6 +883,22 @@
       "duration_ms": 201332,
       "name": "Never Comin Down - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/3tucKgFqK4GbUCmQtHxnhA"
+    },
+    {
+      "added_at": "2023-01-11 22:45:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 255553,
+      "name": "Better Place - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU"
     },
     {
       "added_at": "2023-01-11 22:45:00",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2023-01-11 22:45:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
-      },
-      "artists": [
-        {
-          "name": "Michael Ray",
-          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
-        }
-      ],
-      "duration_ms": 184742,
-      "name": "Get to You - Recorded at Sound Stage Studios, Nashville",
-      "url": "https://open.spotify.com/track/5NwafdEg2onbbPGugB0ZRS"
-    },
-    {
-      "added_at": "2023-01-11 22:45:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/45zKHbhnFK7yWhr3PvCwlC"
-      },
-      "artists": [
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 259430,
-      "name": "What The Cowgirls Do - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5BjNw6Nehreg15LXEWD5Sl"
-    },
-    {
-      "added_at": "2023-01-11 22:45:00",
-      "album": {
         "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
         "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
@@ -1063,6 +1031,22 @@
       "duration_ms": 185331,
       "name": "Reasons (Recorded At Sound Stage Nashville)",
       "url": "https://open.spotify.com/track/0p0zVDWG6vS77NKDy9EiWL"
+    },
+    {
+      "added_at": "2023-01-11 22:45:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
+      },
+      "artists": [
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "duration_ms": 257787,
+      "name": "Liar Liar - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv"
     },
     {
       "added_at": "2023-01-11 22:45:00",
@@ -1084,17 +1068,33 @@
       "added_at": "2023-01-11 22:45:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU"
+        "url": "https://open.spotify.com/album/45zKHbhnFK7yWhr3PvCwlC"
       },
       "artists": [
         {
-          "name": "Aubrie Sellers",
-          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 257787,
-      "name": "Liar Liar - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv"
+      "duration_ms": 259430,
+      "name": "What The Cowgirls Do - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5BjNw6Nehreg15LXEWD5Sl"
+    },
+    {
+      "added_at": "2023-01-11 22:45:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65LZeGRGhl2SLlDeZN4OPi"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        }
+      ],
+      "duration_ms": 184742,
+      "name": "Get to You - Recorded at Sound Stage Studios, Nashville",
+      "url": "https://open.spotify.com/track/5NwafdEg2onbbPGugB0ZRS"
     },
     {
       "added_at": "2023-01-11 22:45:00",

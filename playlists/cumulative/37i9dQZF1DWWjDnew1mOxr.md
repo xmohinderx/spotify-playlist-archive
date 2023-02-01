@@ -4,10 +4,11 @@
 
 > Boss music for boss people\. Cover: The Reytons
 
-65 songs - 3 hr 40 min
+66 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [15 Minutes In The Algorithm](https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [What's Rock And Roll?](https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD) | 3:13 | 2023-01-30 |  |
 | [3AM](https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [3AM](https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx) | 3:31 | 2023-01-10 |  |
 | [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 | 2023-01-10 |  |
 | [Another Round](https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Another Round](https://open.spotify.com/album/7ksHqKW6Bcf6vAFMJ5mB1D) | 5:07 | 2023-01-10 |  |

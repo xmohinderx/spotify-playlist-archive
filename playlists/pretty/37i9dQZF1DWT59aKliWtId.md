@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. JOSEPH
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,779 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,826 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 10 | [Homesick](https://open.spotify.com/track/0jkzxxDG8z3Y5OmfNl1VM0) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:14 |
 | 11 | [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 |
 | 12 | [Superglue](https://open.spotify.com/track/5tTpyVtQuj1j8ZBnjn9WPC) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Superglue](https://open.spotify.com/album/39IcaBkeuTzJQcNJ5Hi9CM) | 4:10 |
-| 13 | [Portrait Of God](https://open.spotify.com/track/1AXajRuTLgUfMewgGfyEbf) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Portrait of God](https://open.spotify.com/album/5AhehkwxsQ5Cdp1ip4mkB9) | 3:39 |
+| 13 | [Portrait Of God](https://open.spotify.com/track/4yDGaudAfnXNMIKmFCxhLD) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 3:39 |
 | 14 | [Never Let You Go](https://open.spotify.com/track/25wOprRzafxZor9zdbuc9c) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Never Let You Go](https://open.spotify.com/album/3kyvKfJ8KzhvaNpsxFXsO1) | 3:38 |
 | 15 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
 | 16 | [Wretched](https://open.spotify.com/track/1wmx1Icz0XuAfyU8Dgio74) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 99 | [Pepper](https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 2:48 |
 | 100 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 |
 
-Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMGY1ODc3ZjJmZmI3ODZjNGY5Njc0NmY4ODRjMjM5Mjhj`
+Snapshot ID: `MTY3NDc5NTYwMCwwMDAwMDAwMGQ3ZDIyMzFmYzdmNWZiYzIxMmIxZDk3MTg2MWI3NmU4`

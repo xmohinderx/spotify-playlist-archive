@@ -4,7 +4,7 @@
 
 > Rise with a relaxing blend of folk and acoustic.
 
-195 songs - 11 hr 52 min
+196 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Better Way](https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Better Way](https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M) | 5:56 | 2021-05-10 | 2022-11-25 |
 | [Black Leaf](https://open.spotify.com/track/06jJfYw2P2psjtX6Psf8eS) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Beulah](https://open.spotify.com/album/30TiWcFsV6As1N6d6L8wJ0) | 2:59 | 2019-05-26\* | 2021-10-13 |
 | [Body](https://open.spotify.com/track/5zpO1gVyTFv4MeNCEKOEZt) | [Amy May Ellis](https://open.spotify.com/artist/5pOd5z4DlRc6Mw2nnBsad9) | [Where My Garden Lies](https://open.spotify.com/album/3VJREb6yVdwl3BvIoKD526) | 3:05 | 2020-05-12 | 2022-07-29 |
+| [Bones](https://open.spotify.com/track/31ynAStjeuhDNDeIpwVqu5) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT) | [Bones](https://open.spotify.com/album/2FwGZoHc1P6SIpIXgANPr3) | 2:39 | 2023-01-23 |  |
 | [Boys](https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 3:55 | 2019-06-19\* | 2022-11-13 |
 | [Bud](https://open.spotify.com/track/4aeUbM8kMPu3tWuHmS3f2P) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Bud](https://open.spotify.com/album/7fxD5VirGj4x57ujSOIkoS) | 3:35 | 2019-05-26\* | 2019-06-19 |
 | [By the River \- Mahogany Sessions](https://open.spotify.com/track/1B8VfDUVMJnUdonnGA5h1P) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah), [London Contemporary Voices](https://open.spotify.com/artist/4AP9UXcQ9PWrnHsR8vnwsE) | [What If / By The River \(Mahogany Sessions\)](https://open.spotify.com/album/6krYdlpN1lleR7wwVprxKI) | 6:12 | 2019-10-12 | 2022-06-27 |
@@ -194,7 +195,7 @@
 | [Where's My Love](https://open.spotify.com/track/3XRDrBtoCJAMDQJgSzJ9WT) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/79eTuxHrv8BNv6yPosXC9J) | 3:22 | 2019-06-19\* | 2020-05-12 |
 | [Where's My Love \- Acoustic](https://open.spotify.com/track/6lvGthAouA0KfQ29tz4XAt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Acoustic\)](https://open.spotify.com/album/2u0MG5q7xctOMwx2q9Tm4o) | 3:59 | 2019-05-26\* | 2019-06-19 |
 | [Wish List](https://open.spotify.com/track/1MOFKCK1YJ07K4dVvjJCKM) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Wish List](https://open.spotify.com/album/2M6WS4s6jJYoynq5hiCbsZ) | 3:32 | 2021-03-16 | 2022-07-29 |
-| [Wish List](https://open.spotify.com/track/3m0jiOJfxIqGGsRKMOA2uQ) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Wish List](https://open.spotify.com/album/2nXDsDQVIytX6oMVoZOhWN) | 3:32 | 2022-06-14 |  |
+| [Wish List](https://open.spotify.com/track/3m0jiOJfxIqGGsRKMOA2uQ) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Wish List](https://open.spotify.com/album/2nXDsDQVIytX6oMVoZOhWN) | 3:32 | 2022-06-14 | 2023-02-01 |
 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 | 2020-10-09 |  |
 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 | 2021-05-10 |  |
 | [Wonder](https://open.spotify.com/track/5CFTXIziYkuV7V9zf0GRLx) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Wonder](https://open.spotify.com/album/2a8lQTZXJhE4P2Jhh6Sqvk) | 2:07 | 2019-06-19\* | 2022-07-29 |

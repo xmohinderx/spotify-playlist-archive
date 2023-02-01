@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "All Too Much",
+        "url": "https://open.spotify.com/album/7tAT5guOQp2lRqr72cUoHK"
+      },
+      "artists": [
+        {
+          "name": "Lenno",
+          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
+        },
+        {
+          "name": "Olivera",
+          "url": "https://open.spotify.com/artist/0fVk67V2xShBzHdONLS6h3"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171021,
+      "name": "All Too Much",
+      "url": "https://open.spotify.com/track/2A9Vt5Mzf5kuqtkqikbsW9"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/1QaaPVFdfYPPCIt5xT3QHP"
       },
@@ -222,7 +244,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 298782,
       "name": "Are We Dreaming?",
       "url": "https://open.spotify.com/track/29TvVllfoDqdCOqMlze3Yz"
@@ -1154,7 +1176,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 192727,
       "name": "COLORS (James Landino Remix) - SACRA BEATS Singles",
       "url": "https://open.spotify.com/track/4LrV5WggXY45DE0esOTNwg"
@@ -3256,7 +3278,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 195483,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/4k02dP3j9AtSBIGUniUaVt"

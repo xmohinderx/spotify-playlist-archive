@@ -1,13 +1,201 @@
 {
   "description": "Texas music breaking waves. Cover, Beyonce",
-  "num_followers": 7001,
+  "num_followers": 7016,
   "original_name": "Ripple Effect: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDU0MTcyMywwMDAwMDAwMDExOTE3MGQ0OGZlZDFlNGJlNjhkZTJjM2ExZjFkNGQx",
+  "snapshot_id": "MTY3NTE0MTYyMiwwMDAwMDAwMDE1NTg1NTBkMTg4YzI0NDZhODUwMzQ5NDIyM2RmODA5",
   "tracks": [
+    {
+      "added_at": "2023-01-31 05:07:02",
+      "album": {
+        "name": "KRZY TRAIN (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/4O2XiThg74B4NEOOkwjt4k"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 230136,
+      "name": "KRZY TRAIN (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6z1wjotHhyP3gALKVbSc6p"
+    },
+    {
+      "added_at": "2023-01-31 05:07:02",
+      "album": {
+        "name": "Primetime",
+        "url": "https://open.spotify.com/album/4mc498S47KkQYsgXpK5HK5"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Primetime",
+      "url": "https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi"
+    },
+    {
+      "added_at": "2023-01-31 05:07:02",
+      "album": {
+        "name": "Peppermint Tea",
+        "url": "https://open.spotify.com/album/390kChxmDD7GIjAgvbHXfW"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 189412,
+      "name": "Peppermint Tea",
+      "url": "https://open.spotify.com/track/3MR4LAkDi5tY9mYl6QqzUZ"
+    },
+    {
+      "added_at": "2023-01-31 05:07:02",
+      "album": {
+        "name": "Line 'Em Up (feat. Rob49)",
+        "url": "https://open.spotify.com/album/4XA1kWhx65XYsQvRHIEWQ0"
+      },
+      "artists": [
+        {
+          "name": "Huncho Bookie",
+          "url": "https://open.spotify.com/artist/7tF1gR3pKTFaPUnHlXTwPq"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "duration_ms": 176385,
+      "name": "Line 'Em Up (feat. Rob49)",
+      "url": "https://open.spotify.com/track/3DkIGKjZBE1tTXEczu59Vd"
+    },
+    {
+      "added_at": "2023-01-31 05:07:02",
+      "album": {
+        "name": "Munyuns",
+        "url": "https://open.spotify.com/album/20w4xrCZHWye7TxBrnAzbu"
+      },
+      "artists": [
+        {
+          "name": "CioMadeTheTrack",
+          "url": "https://open.spotify.com/artist/2Fi6cye5tMccOIjKbMa1Vo"
+        },
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        }
+      ],
+      "duration_ms": 172388,
+      "name": "Munyuns",
+      "url": "https://open.spotify.com/track/4HbHIFaUzh9aXRRxb3ecwB"
+    },
+    {
+      "added_at": "2023-01-31 05:07:02",
+      "album": {
+        "name": "FOOLIE DEE",
+        "url": "https://open.spotify.com/album/59aTMnTgjtjlJXAaQhGtb1"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        }
+      ],
+      "duration_ms": 158746,
+      "name": "FOOLIE DEE",
+      "url": "https://open.spotify.com/track/4LtvMdH3cshOelgvk5Y8zB"
+    },
+    {
+      "added_at": "2023-01-31 05:07:02",
+      "album": {
+        "name": "Home Movies",
+        "url": "https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        },
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Home Movies",
+      "url": "https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY"
+    },
+    {
+      "added_at": "2023-01-31 05:07:02",
+      "album": {
+        "name": "WALK",
+        "url": "https://open.spotify.com/album/0FTZECay4KNTpSJ8141Eji"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 165972,
+      "name": "WALK",
+      "url": "https://open.spotify.com/track/2yxMDNWlGtsTes4Jbrddoi"
+    },
+    {
+      "added_at": "2023-01-31 05:07:02",
+      "album": {
+        "name": "Rodeo (feat. Big Jade)",
+        "url": "https://open.spotify.com/album/6fTIJkLucWKwW7BWpkmvIx"
+      },
+      "artists": [
+        {
+          "name": "Lah Pat",
+          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
+        },
+        {
+          "name": "Big Jade",
+          "url": "https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Rodeo (feat. Big Jade)",
+      "url": "https://open.spotify.com/track/6GXGPEIscxkDwSbn4GFACG"
+    },
+    {
+      "added_at": "2023-01-31 05:07:02",
+      "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/38dgV2LVNvLbXHBMDTDTu3"
+      },
+      "artists": [
+        {
+          "name": "Kirko Bangz",
+          "url": "https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ"
+        }
+      ],
+      "duration_ms": 245890,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/2GCdv6n5zVMStigQcmjp68"
+    },
     {
       "added_at": "2023-01-24 06:28:43",
       "album": {
@@ -195,42 +383,6 @@
     {
       "added_at": "2023-01-24 06:28:43",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
-    },
-    {
-      "added_at": "2023-01-24 06:28:43",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 146950,
-      "name": "Used (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/1TweDM3JC49LNeelLVg3yX"
-    },
-    {
-      "added_at": "2023-01-24 06:28:43",
-      "album": {
         "name": "Feel Like Tha Water",
         "url": "https://open.spotify.com/album/5gAxaj2asJ4n2GHiQGS3LW"
       },
@@ -287,26 +439,6 @@
     {
       "added_at": "2023-01-24 06:28:43",
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "Around Me (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/221qmpQeBNV87sUjQeUTVH"
-    },
-    {
-      "added_at": "2023-01-24 06:28:43",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/2y6sshCVKBtK83qpEJ9Ojl"
       },
@@ -319,22 +451,6 @@
       "duration_ms": 188630,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3voJ4ZcivxfFgUrEsbjnQN"
-    },
-    {
-      "added_at": "2023-01-24 06:28:43",
-      "album": {
-        "name": "Texas",
-        "url": "https://open.spotify.com/album/2JsQ8WWzDV4k0jLdKkHVzZ"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "Texas",
-      "url": "https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK"
     },
     {
       "added_at": "2023-01-24 06:28:43",
@@ -495,38 +611,6 @@
     {
       "added_at": "2023-01-24 06:28:43",
       "album": {
-        "name": "Purple Potion",
-        "url": "https://open.spotify.com/album/43OOwLWqf674oWgCA4LObL"
-      },
-      "artists": [
-        {
-          "name": "iayze",
-          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
-        }
-      ],
-      "duration_ms": 123486,
-      "name": "Purple Potion",
-      "url": "https://open.spotify.com/track/6vrU6AzhdPxhQGDCX9YNTF"
-    },
-    {
-      "added_at": "2023-01-24 06:28:43",
-      "album": {
-        "name": "I Still Pray",
-        "url": "https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p"
-      },
-      "artists": [
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 164040,
-      "name": "I Still Pray",
-      "url": "https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR"
-    },
-    {
-      "added_at": "2023-01-24 06:28:43",
-      "album": {
         "name": "I'm Not That Guy",
         "url": "https://open.spotify.com/album/6IBCUF2yXCg3COEKoivlNG"
       },
@@ -587,26 +671,6 @@
       "duration_ms": 161118,
       "name": "Come Outside",
       "url": "https://open.spotify.com/track/7GUfVFTW0A0tJsfXOHSo9R"
-    },
-    {
-      "added_at": "2023-01-24 06:28:43",
-      "album": {
-        "name": "Fundip",
-        "url": "https://open.spotify.com/album/6LQ5IiPPcLC8vK8Hv2QtwJ"
-      },
-      "artists": [
-        {
-          "name": "Beatdemons",
-          "url": "https://open.spotify.com/artist/0odYAXdxaNJS1PUEVp8aME"
-        },
-        {
-          "name": "Quin Nfn",
-          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
-        }
-      ],
-      "duration_ms": 198556,
-      "name": "Fundip",
-      "url": "https://open.spotify.com/track/39q0IGV13RaqsoUmBwJ902"
     },
     {
       "added_at": "2023-01-24 06:28:43",
@@ -803,22 +867,6 @@
     {
       "added_at": "2023-01-24 06:28:43",
       "album": {
-        "name": "Bagel Chips",
-        "url": "https://open.spotify.com/album/1tp4QwC2j5cXde1gURknpY"
-      },
-      "artists": [
-        {
-          "name": "TisaKorean",
-          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
-        }
-      ],
-      "duration_ms": 79170,
-      "name": "Bagel Chips",
-      "url": "https://open.spotify.com/track/6pXl2hwlITw1DrkRiLhCzB"
-    },
-    {
-      "added_at": "2023-01-24 06:28:43",
-      "album": {
         "name": "WAVE",
         "url": "https://open.spotify.com/album/7ySlZx8l59eRiX7WYOAofF"
       },
@@ -899,6 +947,22 @@
       "duration_ms": 127441,
       "name": "Not My N*gga",
       "url": "https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC"
+    },
+    {
+      "added_at": "2023-01-24 06:28:43",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2023-01-24 06:28:43",
@@ -1091,22 +1155,6 @@
       "duration_ms": 185182,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/5yHroDKvcyWhxK80rCcQEF"
-    },
-    {
-      "added_at": "2023-01-24 06:28:43",
-      "album": {
-        "name": "b l u r r",
-        "url": "https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 256202,
-      "name": "Feelings 4 You",
-      "url": "https://open.spotify.com/track/5Nv3jw733bI3B5tL1v05nM"
     }
   ],
   "unique_name": "Ripple Effect: Texas",

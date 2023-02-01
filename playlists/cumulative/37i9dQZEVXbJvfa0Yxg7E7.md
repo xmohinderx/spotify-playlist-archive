@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-949 songs - 2 day 1 hr 56 min
+950 songs - 2 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,7 +661,7 @@
 | [Ok Ok](https://open.spotify.com/track/4VYEnxm7lmtG5sEEbcmORB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-09-01 | 2021-09-05 |
 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-08-31 | 2021-09-01 |
 | [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 | 2022-03-12 | 2022-03-21 |
-| [Olav Olav](https://open.spotify.com/track/2NfhmhQIlkbzaLxuUoRoTG) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Olav Olav](https://open.spotify.com/album/41Hk60CjfpiMR5KinMDyIj) | 2:10 | 2023-01-16 |  |
+| [Olav Olav](https://open.spotify.com/track/2NfhmhQIlkbzaLxuUoRoTG) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Olav Olav](https://open.spotify.com/album/41Hk60CjfpiMR5KinMDyIj) | 2:10 | 2023-01-16 | 2023-02-01 |
 | [Oliver Twist](https://open.spotify.com/track/6mSzsSdu0CWIV70jEjWMhI) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Oliver Twist](https://open.spotify.com/album/6d8MlD2NJyzLtnRSprliO5) | 2:54 | 2021-06-09 | 2021-06-20 |
 | [Om du dro ifra mæ](https://open.spotify.com/track/6utV33OqCk2MxxRERcTUFY) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Om du dro ifra mæ](https://open.spotify.com/album/5TQvq8KWO6gkwBLBeeWozh) | 2:51 | 2021-10-12 | 2021-10-23 |
 | [OMG](https://open.spotify.com/track/1leQBt3X85aFCucHi4CEYt) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [OMG](https://open.spotify.com/album/7eawqlqbnsJrfyUQTJwYyf) | 2:48 | 2022-06-11 | 2023-01-05 |
@@ -773,6 +773,7 @@
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-09-12 | 2021-09-17 |
 | [Shivers](https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/531c37GGv5IvddCvBv3sWT) | 3:27 | 2021-09-17 | 2021-10-31 |
 | [Shotgun](https://open.spotify.com/track/01yhPS4Pn3chM0sc3gcs6B) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Shotgun](https://open.spotify.com/album/36kp4SVbHt0SqhAGpdFsK9) | 3:13 | 2022-01-03 | 2022-02-20 |
+| [Show Me](https://open.spotify.com/track/3VjEyvyWkd09eE6h1weCfn) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Show Me](https://open.spotify.com/album/6PF1U0TloActhbxnP4XXBb) | 3:10 | 2023-01-31 |  |
 | [SHUM](https://open.spotify.com/track/7mEDVrAHDnQJStDo8jKJJm) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [SHUM](https://open.spotify.com/album/4AQOhI7QMKq9vmHuzduPRk) | 2:52 | 2021-05-25 | 2021-06-01 |
 | [Shut Up](https://open.spotify.com/track/0oIeGuhmaT9nvA2bCG66Ft) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/3oTCD9IDNU5KLinnV9u7JF) | 2:12 | 2022-11-19 | 2022-11-22 |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-14 | 2022-05-16 |

@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-836 songs - 2 day 1 hr 41 min
+837 songs - 2 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Everywhere](https://open.spotify.com/track/4NAkSJTQ8yVHOrzCjNfp3I) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Everywhere](https://open.spotify.com/album/5v9oN5sH5EU1ps44izmjBk) | 2:18 | 2021-12-21 | 2022-07-29 |
 | [Everywhere](https://open.spotify.com/track/5qymfocDvwMdWHkYARj9zw) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Everywhere](https://open.spotify.com/album/2Q1zatNlXb0jN5cC4Vaprk) | 2:18 | 2022-07-08 |  |
 | [Eyes](https://open.spotify.com/track/3HQdwlovzULm18PjvlA5wz) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/1EYKQBjyYJr8zu9CHxgeI2) | 2:28 | 2022-03-24 | 2022-04-21 |
-| [Eyes on You](https://open.spotify.com/track/7JmAmtToAPb0utPIF2l0aT) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [What You See](https://open.spotify.com/album/6s6D18Om2CjshWlyfKy4bz) | 3:07 | 2021-12-21 |  |
+| [Eyes on You](https://open.spotify.com/track/7JmAmtToAPb0utPIF2l0aT) | [Ed Patrick](https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx) | [What You See](https://open.spotify.com/album/6s6D18Om2CjshWlyfKy4bz) | 3:07 | 2021-12-21 | 2023-02-01 |
 | [Faking It](https://open.spotify.com/track/0olEV0xHPcpVOPZfg4MSgR) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Faking It](https://open.spotify.com/album/6ExmGLrRgsMUl5p32oxPZU) | 2:47 | 2022-03-24 | 2022-04-06 |
 | [Fall On Me](https://open.spotify.com/track/2Z1EEkAFLRejrUPPi2dpQ2) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Fall On Me](https://open.spotify.com/album/3zCIizj9oqCf9Ly1k3aJ9w) | 3:23 | 2021-12-21 | 2022-04-09 |
 | [Falling](https://open.spotify.com/track/61nHXvLyOGn8L2o0zvs7pV) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Falling](https://open.spotify.com/album/62XlGj2t4MtdeCgTqnTqu1) | 4:11 | 2022-03-24 | 2022-07-01 |
@@ -317,6 +317,7 @@
 | [How Long Will I Love You](https://open.spotify.com/track/4vAnqYqm1DOo5IDVcxORX3) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [How Long Will I Love You](https://open.spotify.com/album/5oYzWPP2TO9JLGgCnmbdtm) | 2:24 | 2021-12-21 |  |
 | [How Would You Feel \(Paean\)](https://open.spotify.com/track/1lyNFzcCl9kXCof6GV32fV) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [How Would You Feel \(Paean\)](https://open.spotify.com/album/6m47Bv7lQlUWNZ5W6N4XjJ) | 4:40 | 2022-02-03 |  |
 | [Hush Hush Baby](https://open.spotify.com/track/67sfxK4pD41HJ4FQRkDYo1) | [Lxandra](https://open.spotify.com/artist/6kveFlWW2CZY1bfiX51UnW) | [Hush Hush Baby](https://open.spotify.com/album/4csCtS5KZsh6DyBFPchqiw) | 3:24 | 2022-03-24 | 2022-04-20 |
+| [I Always Do](https://open.spotify.com/track/3GQQKCf2Kiwj54CFPsy7m3) | [Jørgen Dahl Moe](https://open.spotify.com/artist/00Ph35PnLLQYLvMnhbizSJ) | [I Always Do](https://open.spotify.com/album/2aofiRGvcfnPgeKcdKRMzl) | 3:19 | 2023-01-27 |  |
 | [I Am Falling In Love](https://open.spotify.com/track/0VWE11LUDOc9Jo78vbpAxB) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/3j6KAqp9ztGIUSp7J2wHXZ) | 4:08 | 2021-12-21 | 2022-07-29 |
 | [I Am Falling in Love](https://open.spotify.com/track/6w0hYR4t6m3AYgCDh29t9K) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/3t31ldCb4oXOYSKXyGfaUA) | 4:08 | 2022-07-08 |  |
 | [I Believe in Us](https://open.spotify.com/track/59JtQ8mThUAnRGValaExhc) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Surround Me \- EP](https://open.spotify.com/album/3m61NACPLHynQ8JHZpPXd4) | 3:22 | 2022-07-08 |  |
@@ -482,7 +483,7 @@
 | [My Sweet Refuge](https://open.spotify.com/track/0PjNDvcERee30Gvr5OCCHz) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Quiet Man \(Deluxe Edition\)](https://open.spotify.com/album/0OtB923QBS47Dm0jyolDN4) | 4:41 | 2022-07-08 |  |
 | [My Sweet Refuge](https://open.spotify.com/track/5WSrFZDktb5vcAaIzA8yTM) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Quiet Man](https://open.spotify.com/album/21uBF2LXMqVlpKs8FI1Sb4) | 4:41 | 2021-12-21 | 2022-07-29 |
 | [Naked as We Came](https://open.spotify.com/track/1lUdXbhl6u6QMQZRTAhlWW) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/40bJA5hz3vopupCqHK7fJ3) | 2:32 | 2022-03-24 | 2022-04-21 |
-| [Needles & Pins](https://open.spotify.com/track/1mdTP7WLslCd9TuQMeK9lo) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Midnight Waves](https://open.spotify.com/album/6ZpIBoOCALDVIzJFFASZLP) | 3:50 | 2022-10-07 | 2023-01-17 |
+| [Needles & Pins](https://open.spotify.com/track/1mdTP7WLslCd9TuQMeK9lo) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Midnight Waves](https://open.spotify.com/album/6ZpIBoOCALDVIzJFFASZLP) | 3:50 | 2022-10-07 |  |
 | [Needles & Pins](https://open.spotify.com/track/6YsIOlnBb3JnF68QWAhWhe) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Midnight Waves](https://open.spotify.com/album/1enXA6aO8SpkOjkSEsTyeP) | 3:50 | 2022-02-24 | 2022-07-28 |
 | [Nervous](https://open.spotify.com/track/1bpAGufvAgqEIob4V1k7mP) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Bitter Pill \(Deluxe\)](https://open.spotify.com/album/5R6OQpNKov9PdX3dxbpxtp) | 3:36 | 2021-12-21 | 2022-07-29 |
 | [Never Change](https://open.spotify.com/track/4DBYy2nBww42YBH13NRquK) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 3:20 | 2023-01-20 |  |
@@ -639,7 +640,7 @@
 | [Sorrow](https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe) | 3:12 | 2022-05-13 |  |
 | [Sorry](https://open.spotify.com/track/6MXJdqTuSDXkG21JHWiGko) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Silhouettes](https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC) | 4:15 | 2022-03-24 |  |
 | [Sorry](https://open.spotify.com/track/4I31rrRGFCv9OB5ynrVoM8) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/4tvxP0caxdRMXVMca0t9uH) | 3:32 | 2022-03-24 | 2022-04-21 |
-| [Sorry Would Go A Long Way](https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sorry Would Go A Long Way](https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc) | 3:11 | 2021-12-21 |  |
+| [Sorry Would Go A Long Way](https://open.spotify.com/track/3BuahhfJclheHyXL9pVrmO) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sorry Would Go A Long Way](https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc) | 3:11 | 2021-12-21 | 2023-02-01 |
 | [Soul Mate](https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Soul Mate](https://open.spotify.com/album/3pFB2FG0kMs3MhfDfcjHRr) | 3:57 | 2021-12-21 | 2022-07-29 |
 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 | 2022-07-08 |  |
 | [South Dakota](https://open.spotify.com/track/2s3CzgeeA7NpLP87ZDbmC8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [South Dakota](https://open.spotify.com/album/7pXsFVBKdJdyLEXUJ3j3oV) | 3:11 | 2021-12-21 | 2022-04-27 |

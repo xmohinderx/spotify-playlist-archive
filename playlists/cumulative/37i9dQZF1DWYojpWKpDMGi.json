@@ -915,6 +915,28 @@
     },
     {
       "album": {
+        "name": "Wrong Turn",
+        "url": "https://open.spotify.com/album/6R53JypupsRdvmAjgN0fqQ"
+      },
+      "artists": [
+        {
+          "name": "Yung Sinn",
+          "url": "https://open.spotify.com/artist/6LAFFVSbnH98HCIvehSG6c"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198199,
+      "name": "Roll A opp",
+      "url": "https://open.spotify.com/track/0KaFKWa8WC39FE7EPJL6Ld"
+    },
+    {
+      "album": {
         "name": "SAVAGE MODE II",
         "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },

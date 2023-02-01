@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 227750,
       "name": "A Letter To Everyone Who's Hurt Me",
       "url": "https://open.spotify.com/track/5GVUjnTpU0IOwNzAIhSqRI"
@@ -2148,6 +2148,28 @@
       "duration_ms": 219395,
       "name": "Darling It's Over",
       "url": "https://open.spotify.com/track/3wEM3s8BMDpxX2D1dMSusQ"
+    },
+    {
+      "album": {
+        "name": "Dawns (feat. Maggie Rogers)",
+        "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290892,
+      "name": "Dawns (feat. Maggie Rogers)",
+      "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
     },
     {
       "album": {
@@ -8616,7 +8638,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 199395,
       "name": "Two Places at Once",
       "url": "https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5"
@@ -9306,7 +9328,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 195541,
       "name": "Won't Be Long Now",
       "url": "https://open.spotify.com/track/0S26xmqTGCMH6ptrbQ8Gyd"

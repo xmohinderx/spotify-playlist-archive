@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Argy
 
-371 songs - 1 day 5 hr 22 min
+372 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Clu \- Colorjaxx Remix](https://open.spotify.com/track/2UkJDXn3pnoeilLBdBqczV) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [ColorJaxx](https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm) | [Clu \(Colorjaxx Remix\)](https://open.spotify.com/album/1QH51wnvdSIgUTgLpE18mH) | 5:22 | 2022-08-18 | 2022-08-22 |
 | [Club Jesus](https://open.spotify.com/track/1kUyULtTbURwJ1D0mwQCbv) | [Sanoi](https://open.spotify.com/artist/2SBLKhyt0dAKZXEU80zWLh), [Beacon Bloom](https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc) | [Club Jesus](https://open.spotify.com/album/0r8wkVFxGEamipTwz2I718) | 3:43 | 2022-12-01 |  |
 | [CODA](https://open.spotify.com/track/1hrRNhEG0ES4OC5rBCU1F8) | [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS) | [CODA](https://open.spotify.com/album/6umHyT3BNbM0no1jnd98Fh) | 6:13 | 2022-12-27 | 2023-01-02 |
-| [Como](https://open.spotify.com/track/2jWqS0gbqMeDmEAxFLaftX) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Picture: Disfreq](https://open.spotify.com/album/1LhcWBDBfzQNsyP9M5lAuw) | 5:38 | 2023-01-26 |  |
+| [Como](https://open.spotify.com/track/2ajDXhl2wdbHhJUK0qaU8V) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Picture: Disfreq](https://open.spotify.com/album/07bPNT9oLiFi5EiC0p4sAO) | 5:38 | 2023-01-26 |  |
+| [Como](https://open.spotify.com/track/2jWqS0gbqMeDmEAxFLaftX) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Picture: Disfreq](https://open.spotify.com/album/1LhcWBDBfzQNsyP9M5lAuw) | 5:38 | 2023-01-26 | 2023-02-01 |
 | [Concorde](https://open.spotify.com/track/1QWj9NYh8ZcSugtyBhSIea) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Concorde](https://open.spotify.com/album/5tDbwaajccd1lTumbnB0kK) | 3:56 | 2023-01-19 |  |
 | [Conga Rock \- Anden Remix](https://open.spotify.com/track/58oCUhFQNhVBGrAamJw1OJ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [Toto Bona Lokua](https://open.spotify.com/artist/5y4XN2SJVH1eWbXhRS7lbK), [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF) | [Diplo Presents Higher Ground 3 Years LP](https://open.spotify.com/album/3DkN7i6PD5Ap8PnZWlCwWI) | 2:44 | 2022-12-27 | 2023-01-02 |
 | [Consciousness \- Eric Prydz Remix](https://open.spotify.com/track/1i5XRu1L0x7gIg9UGKqizL) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Consciousness \(Eric Prydz Remix\)](https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu) | 4:04 | 2022-08-18 |  |

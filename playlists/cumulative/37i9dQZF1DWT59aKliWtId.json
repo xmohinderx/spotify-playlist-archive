@@ -7542,10 +7542,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 219640,
       "name": "Portrait Of God",
       "url": "https://open.spotify.com/track/1AXajRuTLgUfMewgGfyEbf"
+    },
+    {
+      "album": {
+        "name": "Smalltown Stardust",
+        "url": "https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG"
+      },
+      "artists": [
+        {
+          "name": "King Tuff",
+          "url": "https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219640,
+      "name": "Portrait Of God",
+      "url": "https://open.spotify.com/track/4yDGaudAfnXNMIKmFCxhLD"
     },
     {
       "album": {

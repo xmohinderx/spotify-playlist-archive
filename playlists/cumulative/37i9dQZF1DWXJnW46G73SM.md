@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية اليوم🤩 الغلاف: بهاء سلطان
+> أحدث الأغاني المصرية اليوم🤩 الغلاف: محمد سعيد
 
-312 songs - 18 hr 12 min
+313 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Eshrit Sinin](https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Eshrit Sinin](https://open.spotify.com/album/6Sw1IoBzUkQllqXLAwdhNe) | 4:06 | 2022-02-01 | 2022-05-19 |
 | [EZZ AL ARAB \(Music from the FIFA World Cup Qatar 2022 Official Soundtrack\)](https://open.spotify.com/track/5OFdNtPy9sgIw7UMkKhpLn) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [EZZ AL ARAB \(Music from the FIFA World Cup Qatar 2022 Official Soundtrack\)](https://open.spotify.com/album/7IxVks2oX1JIfmX23Fp2Nh) | 3:33 | 2022-12-15 |  |
 | [Falatet Meny](https://open.spotify.com/track/0MMxozXjLBkQFqOPuUEPwG) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm), [Dina Elsherbiny](https://open.spotify.com/artist/6QYfR1A8MLd3ZsqRz6y2Kd) | [Falatet Meny](https://open.spotify.com/album/1agL1E9aXaPcwxDnI6oe5x) | 2:22 | 2021-12-23 | 2022-01-28 |
+| [Fe Einy](https://open.spotify.com/track/2TyixRw1j8Ojuh29akRROH) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Fe Einy](https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt) | 3:08 | 2023-01-31 |  |
 | [Fe Ghamdet Ein](https://open.spotify.com/track/235YSol46U2FzhLEXNgcTP) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Fe Ghamdet Ein](https://open.spotify.com/album/4DOOS738mtFoi5RPXirohC) | 3:25 | 2021-12-29 | 2022-03-12 |
 | [Fe Makan Ma](https://open.spotify.com/track/3nF4YhL8rIDjYKfPpnzTBS) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Makan Ma](https://open.spotify.com/album/2pGUBaoowc7BvZIye0pob7) | 3:51 | 2022-03-09 | 2022-07-07 |
 | [Fi 7eta Tanya](https://open.spotify.com/track/1Z2EZuhLqHvLXlhYs2McXy) | [Abdelbaset Hamooda](https://open.spotify.com/artist/2DPKmLpLRwOVg8u0ylBsyt) | [Fi 7eta Tanya](https://open.spotify.com/album/1iSgUh21DNUOm1BhnJxMiL) | 3:14 | 2022-01-23 | 2022-04-08 |
@@ -200,7 +201,7 @@
 | [Namet Nenna](https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Namet Nenna](https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3) | 3:21 | 2022-06-28 | 2022-09-26 |
 | [Nefsi Afou2](https://open.spotify.com/track/1OQSmaqaomwMpLHGk0YnGo) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ga7da](https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2) | 3:59 | 2022-11-10 | 2023-01-28 |
 | [Ohdoneny](https://open.spotify.com/track/0dSI3KmYL4md8TOy6cEApu) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [Ohdoneny](https://open.spotify.com/album/7FbStrkAcRbkEzz3LARKPi) | 3:21 | 2022-02-17 | 2022-06-03 |
-| [Ostaz Doctor](https://open.spotify.com/track/1vXKM9vvvIvkNSZZh47AVi) | [Ahmed Hassan](https://open.spotify.com/artist/0pE823Ul8G2Y3BHF5BJNGm) | [Ostaz Doctor](https://open.spotify.com/album/4M8oMek45kaquVYusG6C72) | 3:52 | 2022-11-17 |  |
+| [Ostaz Doctor](https://open.spotify.com/track/1vXKM9vvvIvkNSZZh47AVi) | [Ahmed Hassan](https://open.spotify.com/artist/0pE823Ul8G2Y3BHF5BJNGm) | [Ostaz Doctor](https://open.spotify.com/album/4M8oMek45kaquVYusG6C72) | 3:52 | 2022-11-17 | 2023-02-01 |
 | [Oul Allah](https://open.spotify.com/track/2bJQO2SegQFc8fOpFhizlc) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Oul Allah](https://open.spotify.com/album/5sOCIhikdDVOPNrVBibxcF) | 3:25 | 2022-07-14 | 2022-10-11 |
 | [Oulo Lelly Sab](https://open.spotify.com/track/7mMKakGmTepcWPiQd1TosA) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Oulo Lelly Sab](https://open.spotify.com/album/0ue1Fe0WglapZpWvcoMgZ5) | 3:16 | 2022-11-17 |  |
 | [Pablo Ewaa Tabelo](https://open.spotify.com/track/0knH4tZZ5skqSUjY3Ks6FY) | [Hassan El Raddad](https://open.spotify.com/artist/2gWQ4p1lY34EMOeHjbGS0t), [El Ordoni](https://open.spotify.com/artist/6jGepDFddofmnVlNnmSC4H) | [Pablo Ewaa Tabelo](https://open.spotify.com/album/5TJi6uxaLCPMCVMYau9300) | 2:46 | 2022-04-07 | 2022-07-21 |

@@ -4,10 +4,11 @@
 
 > Tune in, bliss out
 
-81 songs - 5 hr 14 min
+82 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Quiet Voice](https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [A Quiet Voice](https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt) | 4:42 | 2023-01-26 |  |
 | [Afterglow](https://open.spotify.com/track/4Ir2UxDlAm01qmv3eSZYlP) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Afterglow](https://open.spotify.com/album/1IsOH127OxGWcybr11hYKa) | 3:26 | 2022-12-01 |  |
 | [Amman](https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Amman](https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ) | 3:28 | 2022-12-01 |  |
 | [As It Was](https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [As It Was](https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl) | 3:10 | 2022-12-01 |  |
@@ -77,7 +78,7 @@
 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2022-12-01 |  |
 | [Tidal Waves](https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx) | [Isaak Young](https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo) | [Tidal Waves](https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772) | 3:10 | 2022-12-01 |  |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2022-12-01 |  |
-| [Tied to You](https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Tied to You](https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn) | 3:43 | 2022-12-01 |  |
+| [Tied to You](https://open.spotify.com/track/5Ocqb8QuiwSfqHHFE7cz4X) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Tied to You](https://open.spotify.com/album/2NYRONIjh6mVjU25O4V2bn) | 3:43 | 2022-12-01 | 2023-02-01 |
 | [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 | 2022-12-01 |  |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2022-12-01 | 2022-12-13 |
 | [Tulum](https://open.spotify.com/track/3pT9l5WdtJhCpEyxVgH2LT) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Tulum](https://open.spotify.com/album/4IxpGZORrGm6XfQW1TyMiG) | 3:45 | 2022-12-15 | 2023-01-28 |

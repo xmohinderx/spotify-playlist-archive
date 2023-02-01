@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "What's Rock And Roll?",
+        "url": "https://open.spotify.com/album/3ypJeqXuihGdO05YJ6PLeD"
+      },
+      "artists": [
+        {
+          "name": "The Reytons",
+          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193813,
+      "name": "15 Minutes In The Algorithm",
+      "url": "https://open.spotify.com/track/2FyRW5FCNTKZNoFGHOwHPs"
+    },
+    {
+      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
       },

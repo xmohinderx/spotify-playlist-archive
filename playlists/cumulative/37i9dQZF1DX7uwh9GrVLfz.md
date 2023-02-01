@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 春ねむり\(Haru Nemuri\)
 
-492 songs - 1 day 2 hr 51 min
+494 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Carry On](https://open.spotify.com/track/70gtaFoNImbXqKe3WKJdUV) | [Local Sound Style](https://open.spotify.com/artist/5pSklCda6nOLySukqnp886) | [All That Remains](https://open.spotify.com/album/6gWmIrKhTOmUbv5NLLnXp7) | 3:48 | 2022-05-19 | 2022-07-27 |
 | [CELEBRATION](https://open.spotify.com/track/1eHB8BTIR5OcrMb62Z1bkq) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CELEBRATION](https://open.spotify.com/album/5grADPBkuCUGm8U55EwOCY) | 3:58 | 2022-05-12 | 2022-07-28 |
 | [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 | 2022-05-12 |  |
-| [Chain Reaction](https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:23 | 2022-05-12 |  |
+| [Chain Reaction](https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:23 | 2022-05-12 | 2023-02-01 |
 | [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 | 2022-05-12 | 2022-11-13 |
 | [Chopped Grill Chicken](https://open.spotify.com/track/0KgDHXpxRbjpJVDzBbScCu) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Chopped Grill Chicken](https://open.spotify.com/album/5zXUaK0xAXkUJt6yqk2B5Y) | 1:46 | 2022-05-12 | 2022-07-25 |
 | [CLOSE MY EYES](https://open.spotify.com/track/107o82eC8ysPIwxKcp3pBZ) | [Upper](https://open.spotify.com/artist/69w8lpKIuZ07GiNtdL7SCm) | [NOT OVER YET](https://open.spotify.com/album/1Ffe5GprhhUzC8KWIUWoVt) | 3:44 | 2022-06-07 | 2022-06-26 |
@@ -132,6 +132,7 @@
 | [HOTARU NO HIKARI](https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF) | [Snail Ramp](https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx), [AIR](https://open.spotify.com/artist/1tY72Ioe4SGlALcoIDlCa1) | [GRAVITY](https://open.spotify.com/album/7AotoltMCQTbLyVq73371i) | 3:40 | 2022-05-12 |  |
 | [Hurdle Race](https://open.spotify.com/track/4IUjUIp4f2a54RNstS6qUX) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/18k6aVfVyInbeSQOzJiTQb) | 2:35 | 2022-05-12 | 2022-07-20 |
 | [I know](https://open.spotify.com/track/15fphhO291Ut1Uu3LpS6tY) | [SEPTALUCK](https://open.spotify.com/artist/5SzyFQjwKUq5jq3qeENnZo) | [I know](https://open.spotify.com/album/3NBx35slNN8loaFNeEInB8) | 3:44 | 2022-08-25 | 2022-09-15 |
+| [I Like You](https://open.spotify.com/track/1heOMysisFUHkzn76lMBgB) | [HONEST](https://open.spotify.com/artist/59iGba2GaoFVPVlnwy5J1G) | [HONEST](https://open.spotify.com/album/22DUKrSmkz2H86ew2lsVgJ) | 1:48 | 2023-01-31 |  |
 | [I Love You ja ai mai](https://open.spotify.com/track/7zApMvRtAq12Mk5x8rzFdm) | [音武者](https://open.spotify.com/artist/6sDl2vWL0zSjk9vqK6Ze9k) | [I Love You ja ai mai](https://open.spotify.com/album/0qHnl5doc0FCUvz2mSyePs) | 2:19 | 2022-07-07 | 2022-07-20 |
 | [I MADE YOU BLACK](https://open.spotify.com/track/13vBqDAqQBta8FF1oedWkd) | [S.M.N.](https://open.spotify.com/artist/1D6MlbV9yHTOrlmMNhtEc5) | [BAD HOP](https://open.spotify.com/album/1oud6zNyNjCKTF6lnyTMke) | 2:14 | 2022-05-17 | 2022-07-11 |
 | [I Want to Be Wrong](https://open.spotify.com/track/55kk1gFvPshLGQi9rW3si6) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [A Tribute To NO USE FOR A NAME](https://open.spotify.com/album/3RHnxCI12A7417md6Fsc5l) | 2:41 | 2022-06-21 | 2022-07-18 |
@@ -251,6 +252,7 @@
 | [SAKURA](https://open.spotify.com/track/7n7DT24H4RZGfMvyMC8Z2s) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R\(e\) BEST](https://open.spotify.com/album/3umPmPd8laHb83g0Wwrq8t) | 4:37 | 2022-06-14 | 2022-07-29 |
 | [Sapphire](https://open.spotify.com/track/3b2zbCDgqGcddzZpE7wJ1E) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Sapphire / Back in Action](https://open.spotify.com/album/4ukPyiibVLHwTY7oMTeliC) | 2:51 | 2022-05-12 | 2022-07-20 |
 | [Say to Me](https://open.spotify.com/track/4C7blDlsxEUJmTkBFv1bUR) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Say to Me](https://open.spotify.com/album/5wcMuNXeFRiaBongYrmhl0) | 5:35 | 2022-09-27 | 2022-12-04 |
+| [Saṃsāra](https://open.spotify.com/track/3ZzYexiaE8Py8cbpG4Y8Ft) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [HERO](https://open.spotify.com/album/72JpHj3i11LfEfRGtq25DI) | 3:20 | 2023-01-31 |  |
 | [SCAR](https://open.spotify.com/track/5OpXHN9hwW1V1YBiChGt7q) | [Baja](https://open.spotify.com/artist/5eNUcwvXeKJcLIrVJQhtp1) | [SCAR](https://open.spotify.com/album/5DvfInAZNzhoyxAOXV4OVT) | 2:45 | 2022-09-14 | 2022-11-02 |
 | [SCRAP AN OLD BRAIN](https://open.spotify.com/track/05NSGCH9lO8SP24FwyAsMc) | [GANZ HASE](https://open.spotify.com/artist/4ITNZW9R7fuSSpr5OqHs2E) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/6sYqB2z0ESuPjqEmpu1wJI) | 3:37 | 2022-06-02 | 2022-07-29 |
 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 | 2022-05-24 |  |
@@ -462,7 +464,7 @@
 | [明日に向かって](https://open.spotify.com/track/3nIrDTKCyQLpky1jbzoh2h) | [HUNGRY DAYS](https://open.spotify.com/artist/1y0fBZJkKJ7TurezM3cmtg) | [俺達がHUNGRY DAYS!!](https://open.spotify.com/album/3piDC5DWNoxLaTAxzfbsLI) | 4:34 | 2022-06-21 | 2022-06-27 |
 | [星の鍵](https://open.spotify.com/track/6MtEKrsu7jYCvPUhD8cyXi) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [星の鍵](https://open.spotify.com/album/3vHUCoExR3mnE5nd8xhCHx) | 3:06 | 2022-05-31 | 2022-06-01 |
 | [星空の下](https://open.spotify.com/track/5swBECvNHmwWzeL44sG8Um) | [BEAKS](https://open.spotify.com/artist/7MvlEi6P7KGe2SJCjuMQK2) | [はじめてのBEAKS](https://open.spotify.com/album/3D5S3aOQFaNdcazvTp7U2V) | 3:46 | 2022-05-17 | 2022-07-26 |
-| [星空の下で](https://open.spotify.com/track/6xmui4uiCwkOSCe1MhAB6v) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [CLUTCH](https://open.spotify.com/album/4KTyefWkOhRn4e4lNqJ7W7) | 3:39 | 2022-05-19 |  |
+| [星空の下で](https://open.spotify.com/track/6xmui4uiCwkOSCe1MhAB6v) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [CLUTCH](https://open.spotify.com/album/4KTyefWkOhRn4e4lNqJ7W7) | 3:39 | 2022-05-19 | 2023-02-01 |
 | [春](https://open.spotify.com/track/5Ln0DFBZQsmiG6OyOaxnZ8) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [春](https://open.spotify.com/album/2AWsKrlvdPptbEfCxz58Dv) | 3:45 | 2022-05-12 | 2022-07-25 |
 | [暁](https://open.spotify.com/track/7wEm2Nzba3uman9NGHDhN3) | [DATE ME GANE](https://open.spotify.com/artist/7nqsjIG9cAY7MV3So3kxYI) | [暁](https://open.spotify.com/album/5AmC8jw1hc9jqj5uOgL9gn) | 2:28 | 2022-05-19 | 2022-07-29 |
 | [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:41 | 2022-05-12 |  |

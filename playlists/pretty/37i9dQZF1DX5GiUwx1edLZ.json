@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 273550,
+  "num_followers": 273566,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY4MTQzOSwwMDAwMDAwMDFjNWI5ZWIwY2NjOWEzNzRiMjY3ZTFkZWU0MjBjNDU4",
+  "snapshot_id": "MTY3MjY4MTQzOSwwMDAwMDAwMDkyZTI3MGE2ZDE0OTAwNTU2MjU4Y2IyZTUyM2E3Y2Yx",
   "tracks": [
     {
       "added_at": "2023-01-02 17:43:59",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Rude (Acoustic)",
-        "url": "https://open.spotify.com/album/6mSh4sedBU4vvHLYPd2Seb"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 223854,
-      "name": "Rude (Acoustic)",
-      "url": "https://open.spotify.com/track/7IQ7Tk8D6fFAgl6aL7u5ia"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "Scared to Be Lonely (Acoustic Version)",
         "url": "https://open.spotify.com/album/6YGs9QbzBuoXWWeJ2rcSBY"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 257357,
       "name": "Scared to Be Lonely - Acoustic Version",
       "url": "https://open.spotify.com/track/29CjkGjZnDVdJsfbRoNOGJ"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "Rude (Acoustic)",
+        "url": "https://open.spotify.com/album/6mSh4sedBU4vvHLYPd2Seb"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 223854,
+      "name": "Rude (Acoustic)",
+      "url": "https://open.spotify.com/track/7IQ7Tk8D6fFAgl6aL7u5ia"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Change The World (Strings) (feat. Nicole Dash Jones)",
-        "url": "https://open.spotify.com/album/3NisgTcMSNtM3aaf484arV"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "Nicole Dash Jones",
-          "url": "https://open.spotify.com/artist/51MfiIxyL0VOdF9M95TV47"
-        }
-      ],
-      "duration_ms": 266413,
-      "name": "Change the World (feat. Nicole Dash Jones) - Strings In Motion Mix",
-      "url": "https://open.spotify.com/track/1C3arE9PgTbFPLp5n1c8PE"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "The Acoustics",
         "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
       },
@@ -367,6 +347,26 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Change The World (Strings) (feat. Nicole Dash Jones)",
+        "url": "https://open.spotify.com/album/3NisgTcMSNtM3aaf484arV"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "Nicole Dash Jones",
+          "url": "https://open.spotify.com/artist/51MfiIxyL0VOdF9M95TV47"
+        }
+      ],
+      "duration_ms": 266413,
+      "name": "Change the World (feat. Nicole Dash Jones) - Strings In Motion Mix",
+      "url": "https://open.spotify.com/track/1C3arE9PgTbFPLp5n1c8PE"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "I Miss You (feat. Julia Michaels) [Acoustic]",
         "url": "https://open.spotify.com/album/4oVuagXHRZZZIvhocptEaU"
       },
@@ -383,26 +383,6 @@
       "duration_ms": 216294,
       "name": "I Miss You (feat. Julia Michaels) - Acoustic",
       "url": "https://open.spotify.com/track/2HfKpWYPx4Os46z1K7yE4k"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Lullaby (Acoustic)",
-        "url": "https://open.spotify.com/album/2n5QPaAYKHP5JpYpwI7LqB"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 237923,
-      "name": "Lullaby - Acoustic",
-      "url": "https://open.spotify.com/track/4f5LDR4RWrboZT1YoSUfcy"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -463,6 +443,26 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Lullaby (Acoustic)",
+        "url": "https://open.spotify.com/album/2n5QPaAYKHP5JpYpwI7LqB"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 237923,
+      "name": "Lullaby - Acoustic",
+      "url": "https://open.spotify.com/track/4f5LDR4RWrboZT1YoSUfcy"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
         "url": "https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH"
       },
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "More Than You Know (Acoustic)",
+        "url": "https://open.spotify.com/album/2cY6LGdYABGZTlaaXGIoms"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        }
+      ],
+      "duration_ms": 183950,
+      "name": "More Than You Know - Acoustic",
+      "url": "https://open.spotify.com/track/1oinuryVDJnYyWoYic9zDI"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "All That Really Matters (Stripped Version)",
         "url": "https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 198568,
       "name": "All That Really Matters - Stripped Version",
       "url": "https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "More Than You Know (Acoustic)",
-        "url": "https://open.spotify.com/album/2cY6LGdYABGZTlaaXGIoms"
-      },
-      "artists": [
-        {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
-        }
-      ],
-      "duration_ms": 183950,
-      "name": "More Than You Know - Acoustic",
-      "url": "https://open.spotify.com/track/1oinuryVDJnYyWoYic9zDI"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "Wake Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Sun Comes Up (Acoustic)",
         "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 255582,
       "name": "Sun Comes Up - Acoustic",
       "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Lift Your Spirit",
-        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 225106,
-      "name": "Wake Me Up - Acoustic",
-      "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Regardless (Acoustic)",
+        "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 224053,
+      "name": "Regardless - Acoustic",
+      "url": "https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Better EP (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/6XTuLXNcNIzDaLzI6EwKXy"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 175990,
       "name": "Better Days (NEIKED x Mae Muller) - Acoustic",
       "url": "https://open.spotify.com/track/4cO0l1PwQKdgWRimyb0jaf"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Regardless (Acoustic)",
-        "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 224053,
-      "name": "Regardless - Acoustic",
-      "url": "https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Concrete Angel (acoustic)",
+        "url": "https://open.spotify.com/album/7H9nUeDUYFDUfBiZDDIpsp"
+      },
+      "artists": [
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        }
+      ],
+      "duration_ms": 265718,
+      "name": "Concrete Angel (acoustic)",
+      "url": "https://open.spotify.com/track/62sJECqRfQ6P7pkNwfnkaO"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 293946,
       "name": "Looking For Your Name",
       "url": "https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Concrete Angel (acoustic)",
-        "url": "https://open.spotify.com/album/7H9nUeDUYFDUfBiZDDIpsp"
-      },
-      "artists": [
-        {
-          "name": "Christina Novelli",
-          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
-        }
-      ],
-      "duration_ms": 265718,
-      "name": "Concrete Angel (acoustic)",
-      "url": "https://open.spotify.com/track/62sJECqRfQ6P7pkNwfnkaO"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -987,22 +987,18 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Safe With Me (with Audrey Mika) [Acoustic]",
-        "url": "https://open.spotify.com/album/1OTXmfSLAWBuAShzey4hJv"
+        "name": "Acoustic",
+        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         }
       ],
-      "duration_ms": 203258,
-      "name": "Safe With Me (with Audrey Mika) - Acoustic",
-      "url": "https://open.spotify.com/track/2O5pJf3YqnPEvWeeLELl7R"
+      "duration_ms": 288026,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Acoustic",
-        "url": "https://open.spotify.com/album/2w9QEpndpkUoQ2dglFHmY3"
+        "name": "Safe With Me (with Audrey Mika) [Acoustic]",
+        "url": "https://open.spotify.com/album/1OTXmfSLAWBuAShzey4hJv"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
         }
       ],
-      "duration_ms": 288026,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/072qkZtviQdaPDhfHPtnZi"
+      "duration_ms": 203258,
+      "name": "Safe With Me (with Audrey Mika) - Acoustic",
+      "url": "https://open.spotify.com/track/2O5pJf3YqnPEvWeeLELl7R"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "You Were Loved (with OneRepublic) [Acoustic]",
-        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 211967,
-      "name": "You Were Loved (with OneRepublic) - Acoustic",
-      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "Communion (Deluxe)",
         "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
       },
@@ -1243,6 +1223,26 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "You Were Loved (with OneRepublic) [Acoustic]",
+        "url": "https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 211967,
+      "name": "You Were Loved (with OneRepublic) - Acoustic",
+      "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "End Of The World (Acoustic Mix)",
         "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
       },
@@ -1275,30 +1275,6 @@
       "duration_ms": 172756,
       "name": "Old Friend - Live Acoustic",
       "url": "https://open.spotify.com/track/1b9eTPaaSnacG9EAblx8r5"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Feel Good (feat. Daya) [Acoustic]",
-        "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 239772,
-      "name": "Feel Good (feat. Daya) - Acoustic",
-      "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1347,6 +1323,30 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Feel Good (feat. Daya) [Acoustic]",
+        "url": "https://open.spotify.com/album/7yL2gbkjBGxRz2qt0jFARI"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 239772,
+      "name": "Feel Good (feat. Daya) - Acoustic",
+      "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Recognise (Remixes)",
         "url": "https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8"
       },
@@ -1363,26 +1363,6 @@
       "duration_ms": 169466,
       "name": "Recognise - Acoustic Version",
       "url": "https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Don't Forget My Love - Acoustic",
-      "url": "https://open.spotify.com/track/11A85UqLSvYdT8Lxba3nVL"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1411,22 +1391,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Sound Advice (Chapter One)",
-        "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
       "artists": [
         {
-          "name": "Ben Gold",
-          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Audrey Gallagher",
-          "url": "https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 193432,
-      "name": "There Will Be Angels - Acoustic Version",
-      "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
+      "duration_ms": 194594,
+      "name": "Don't Forget My Love - Acoustic",
+      "url": "https://open.spotify.com/track/11A85UqLSvYdT8Lxba3nVL"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1443,6 +1423,26 @@
       "duration_ms": 117506,
       "name": "Quieter Is Louder",
       "url": "https://open.spotify.com/track/5kayymwaZyTtdGilvwJQw5"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "Sound Advice (Chapter One)",
+        "url": "https://open.spotify.com/album/6m2CZMjj9W3KBn6DfTOp63"
+      },
+      "artists": [
+        {
+          "name": "Ben Gold",
+          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
+        },
+        {
+          "name": "Audrey Gallagher",
+          "url": "https://open.spotify.com/artist/0RC0nC8QI7l4NXAOqDsamQ"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "There Will Be Angels - Acoustic Version",
+      "url": "https://open.spotify.com/track/0xF8IIySZUL4lrh92UE3O7"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
+        "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Kyle Reynolds",
+          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
+        }
+      ],
+      "duration_ms": 205159,
+      "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
+      "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Paradise (The Acoustics)",
         "url": "https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK"
       },
@@ -1615,22 +1635,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Hear Me Say (Acoustic)",
-        "url": "https://open.spotify.com/album/3mZ3lgRGgKJ1osqqH39vH0"
+        "name": "Spectrum EP",
+        "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         },
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
         }
       ],
-      "duration_ms": 149525,
-      "name": "Hear Me Say - Acoustic",
-      "url": "https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY"
+      "duration_ms": 110440,
+      "name": "Spectrum - Acoustic Version",
+      "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1659,22 +1679,42 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Spectrum EP",
-        "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
+        "name": "Hear Me Say (Acoustic)",
+        "url": "https://open.spotify.com/album/3mZ3lgRGgKJ1osqqH39vH0"
       },
       "artists": [
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Matthew Koma",
-          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 110440,
-      "name": "Spectrum - Acoustic Version",
-      "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
+      "duration_ms": 149525,
+      "name": "Hear Me Say - Acoustic",
+      "url": "https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "I Wish (feat. Mabel) [Acoustic]",
+        "url": "https://open.spotify.com/album/3hXCQ1fYVFnVC2yGfwLouY"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "I Wish (feat. Mabel) - Acoustic",
+      "url": "https://open.spotify.com/track/1PBI1RLuIDmwwpOpm42qMg"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1703,62 +1743,6 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
-        "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Kyle Reynolds",
-          "url": "https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R"
-        }
-      ],
-      "duration_ms": 205159,
-      "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
-      "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Bloom EP",
-        "url": "https://open.spotify.com/album/7hPscs4y9QTLRIviW0Sr9S"
-      },
-      "artists": [
-        {
-          "name": "ATTLAS",
-          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
-        }
-      ],
-      "duration_ms": 154145,
-      "name": "Avenue Road",
-      "url": "https://open.spotify.com/track/0cBE7fP7Hu1c7jH8ptFIpk"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Watch the World",
-        "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
-      },
-      "artists": [
-        {
-          "name": "Markus Schulz",
-          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
-        },
-        {
-          "name": "Kyau & Albert",
-          "url": "https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc"
-        }
-      ],
-      "duration_ms": 201748,
-      "name": "Fears - Acoustic Version",
-      "url": "https://open.spotify.com/track/1yQ8FL5C0EUY3jGnEUzopj"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
         "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
         "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
       },
@@ -1783,6 +1767,26 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Watch the World",
+        "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        },
+        {
+          "name": "Kyau & Albert",
+          "url": "https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc"
+        }
+      ],
+      "duration_ms": 201748,
+      "name": "Fears - Acoustic Version",
+      "url": "https://open.spotify.com/track/1yQ8FL5C0EUY3jGnEUzopj"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/22fYYTeKGVhw2tRTUOr2lN"
       },
@@ -1803,22 +1807,34 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
-        "name": "I Wish (feat. Mabel) [Acoustic]",
-        "url": "https://open.spotify.com/album/3hXCQ1fYVFnVC2yGfwLouY"
+        "name": "Bloom EP",
+        "url": "https://open.spotify.com/album/7hPscs4y9QTLRIviW0Sr9S"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "ATTLAS",
+          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
         }
       ],
-      "duration_ms": 184000,
-      "name": "I Wish (feat. Mabel) - Acoustic",
-      "url": "https://open.spotify.com/track/1PBI1RLuIDmwwpOpm42qMg"
+      "duration_ms": 154145,
+      "name": "Avenue Road",
+      "url": "https://open.spotify.com/track/0cBE7fP7Hu1c7jH8ptFIpk"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1839,22 +1855,6 @@
       "duration_ms": 217043,
       "name": "Another Chance - Don Diablo Chill Mix",
       "url": "https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Long Time Coming",
-      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
     },
     {
       "added_at": "2023-01-02 17:43:59",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2023-01-02 17:43:59",
       "album": {
+        "name": "Melody (Acoustic)",
+        "url": "https://open.spotify.com/album/6PV59UYpjm3mws5eNArleY"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 169106,
+      "name": "Melody - Acoustic",
+      "url": "https://open.spotify.com/track/2wwGCTj4mdjeG0VbpUazrT"
+    },
+    {
+      "added_at": "2023-01-02 17:43:59",
+      "album": {
         "name": "Good Luck (Acoustic)",
         "url": "https://open.spotify.com/album/5YlinJKokEX5FIeQDCZ9wL"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 228095,
       "name": "Synchronize - Acoustic",
       "url": "https://open.spotify.com/track/5314v8WqYO67WQkrH8q7SX"
-    },
-    {
-      "added_at": "2023-01-02 17:43:59",
-      "album": {
-        "name": "Melody (Acoustic)",
-        "url": "https://open.spotify.com/album/6PV59UYpjm3mws5eNArleY"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 169106,
-      "name": "Melody - Acoustic",
-      "url": "https://open.spotify.com/track/2wwGCTj4mdjeG0VbpUazrT"
     }
   ],
   "unique_name": "mint Acoustic",

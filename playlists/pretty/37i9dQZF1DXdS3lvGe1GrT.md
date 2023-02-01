@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Dino Gala \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,835 likes - 81 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,095 likes - 81 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 35 | [For You to Keep](https://open.spotify.com/track/7i41bhXcHFm0UFBJYKBWR5) | [Ryan Gebhardt](https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA) | [For You to Keep](https://open.spotify.com/album/4JoUnppImVFmfa0lLB81M7) | 3:58 |
 | 36 | [Ella](https://open.spotify.com/track/2gaW5ipLhRzLkDJB9ATZNY) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Ella](https://open.spotify.com/album/07emV4JgFOz8ld0BgVakV1) | 3:07 |
 | 37 | [Dorian Gray](https://open.spotify.com/track/23Hv5mNDIyYDqk02vTGu0G) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Dorian Gray](https://open.spotify.com/album/0jKocMWiAQNEE6a2ZglBjs) | 3:37 |
-| 38 | [Captain's Flat](https://open.spotify.com/track/6VkUAqdvDL8EB6Xppana4Z) | [Hana Stretton](https://open.spotify.com/artist/26MsHzLvNrTnU4QOKd9nXO) | [Come Home](https://open.spotify.com/album/72ksYtkFBs0XrizhtInaLK) | 3:34 |
+| 38 | [Captain's Flat](https://open.spotify.com/track/5Aueq9Aii18prdITRbm8Zf) | [Hana Stretton](https://open.spotify.com/artist/26MsHzLvNrTnU4QOKd9nXO) | [Soon](https://open.spotify.com/album/1W36Jjr72SQIm10A30s6PO) | 3:34 |
 | 39 | [knees \(demo\)](https://open.spotify.com/track/4qGKYUIKNigV4NV84vfmVs) | [carego](https://open.spotify.com/artist/3kAQ9u4vBl2uVXWtUW41FR) | [knees \(demo\)](https://open.spotify.com/album/6bmQ5atYMKtF7I9lUdaeE6) | 2:56 |
 | 40 | [Prism](https://open.spotify.com/track/3PkcrqdZh7lSCPEay8gZWr) | [Joe Vann](https://open.spotify.com/artist/4sjzQ6LenQjUsRb6g0sHuq) | [Prism](https://open.spotify.com/album/723bD92J0413LmJSQC2Grk) | 3:49 |
 | 41 | [Twilight Of Youth](https://open.spotify.com/track/1L3Qo7G6xGeVbdAQFLS3FN) | [Ezra Glatt](https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek) | [Twilight Of Youth](https://open.spotify.com/album/32vLDudGS95nySNZnuVgRS) | 2:30 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 80 | [I Wouldn't Mind](https://open.spotify.com/track/2TwRFKnBx1EjNJ5vDRRvNC) | [Aaron Percy](https://open.spotify.com/artist/1OCGT4W29rXiHvDzMHkJyu) | [I Wouldn't Mind](https://open.spotify.com/album/59poBmSzdEHPoZT4Sk7oYt) | 2:27 |
 | 81 | [Moment in Time](https://open.spotify.com/track/32fIpfTQO2IGcts9W9dY7L) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8) | [Moment in Time](https://open.spotify.com/album/5Gc2yg1wQ5GyY4pSKIqgHR) | 3:46 |
 
-Snapshot ID: `MTY3NDY2NjAwMCwwMDAwMDAwMDQyZWY2YmI5M2RmODUwYzExNzg3N2FiN2QxYWM3YmQz`
+Snapshot ID: `MTY3NDY2NjAwMCwwMDAwMDAwMGY4M2JjY2QyODkwZmI2ODYyYmJjMzJkYmIwODVlZWQw`

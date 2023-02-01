@@ -4,7 +4,7 @@
 
 > New no wave, post\-punk, and anything else\. Cover: M\(h\)aol
 
-302 songs - 18 hr 50 min
+303 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Crass](https://open.spotify.com/track/1ltNqlKxSUM9abfYOdL0kA) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Grand National](https://open.spotify.com/album/5ZcDDiQ1rGGFMU4IBn0Zu2) | 2:53 | 2021-12-06 | 2022-07-25 |
 | [Creatures](https://open.spotify.com/track/3fSWvEVmsO5tzT2q8tWQEJ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Creatures](https://open.spotify.com/album/4JoWs1XHwoZ2LFRQOG7YeX) | 3:32 | 2021-12-06 | 2022-07-29 |
 | [Creatures](https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 3:32 | 2022-08-25 |  |
+| [Crossing Guard](https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Crossing Guard](https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn) | 4:44 | 2023-01-19 |  |
 | [Crow's Perch](https://open.spotify.com/track/5Jy5UwbZvQ7kHFOPXScnvE) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Crow's Perch](https://open.spotify.com/album/0B0Z0UFqsSCUBdM2nKgSVk) | 4:05 | 2021-12-06 | 2022-07-27 |
 | [Cruising](https://open.spotify.com/track/42FoHPbDOZM1qCCCKmEvf2) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Cruising](https://open.spotify.com/album/55fNVmdLsjVNTEE7TQcbGF) | 6:27 | 2021-12-06 | 2022-07-29 |
 | [Daily Routine](https://open.spotify.com/track/3w6YBy7b80Q5pjZKBmy3dP) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K) | [Daily Routine](https://open.spotify.com/album/7uzRTehZfg7fKNguCFrsZN) | 4:24 | 2021-12-06 | 2022-07-24 |
@@ -188,7 +189,7 @@
 | [Nets](https://open.spotify.com/track/5twkAEUTSnmrZZbtaHzGha) | [Sachet](https://open.spotify.com/artist/0XcjgHip29dWNM1vja2hDE) | [Nets](https://open.spotify.com/album/79Gw6DSpuBhmUiHZkFTMGC) | 2:42 | 2021-12-06 | 2022-06-01 |
 | [Never](https://open.spotify.com/track/5S20zPPPfh0gQYYYaQQJUB) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Never](https://open.spotify.com/album/2NpsLV2GA5adOaKHu80xGh) | 3:23 | 2021-12-06 | 2022-07-07 |
 | [Never Fight A Man With A Perm](https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Joy as an Act of Resistance.](https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt) | 3:48 | 2021-12-06 |  |
-| [New Beginning](https://open.spotify.com/track/5o0uaVSaJimlNKnvDdggX6) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [New Beginning](https://open.spotify.com/album/62yIxSvT6Yvl0uYKuuYBLw) | 3:59 | 2022-03-12 |  |
+| [New Beginning](https://open.spotify.com/track/5o0uaVSaJimlNKnvDdggX6) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [New Beginning](https://open.spotify.com/album/62yIxSvT6Yvl0uYKuuYBLw) | 3:59 | 2022-03-12 | 2023-02-01 |
 | [Nigel Hitter](https://open.spotify.com/track/5sV5xcygaRKdwL48GIvj1a) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Nigel Hitter](https://open.spotify.com/album/4J51jRBqnXfZSPGWf8YMbn) | 3:24 | 2021-12-06 | 2022-07-13 |
 | [Nigel Hitter](https://open.spotify.com/track/6Zvl7vyrM8U6fFJR9swMfX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 3:24 | 2022-06-16 | 2022-12-14 |
 | [Nine While Nine](https://open.spotify.com/track/1jzLF2qFDkfbqcUcH9zeYB) | [Kill Shelter](https://open.spotify.com/artist/1hl06hvbtecgkhML5iVf5B), [Antipole](https://open.spotify.com/artist/0XAhl52vBWh87XxU3urEjA) | [Nine While Nine](https://open.spotify.com/album/00PmG5z68JlTQ6VsJp20MI) | 5:04 | 2022-03-11 | 2022-04-16 |

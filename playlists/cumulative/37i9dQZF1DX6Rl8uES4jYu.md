@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-342 songs - 19 hr 24 min
+343 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [All Together Now](https://open.spotify.com/track/1BAG6lcuJip6wd0Kd9PRoY) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [Jamz](https://open.spotify.com/album/0iXMyDCLh5QNIvZV36cO8C) | 2:42 | 2021-07-16 | 2022-07-29 |
 | [All Yours](https://open.spotify.com/track/3YUeUS5imOjS9wqj0xhGYV) | [Jane Holiday](https://open.spotify.com/artist/05GeUxBiQ1aq6VYnODnPbD) | [All Yours](https://open.spotify.com/album/20ejRbhmfw3JUbXuCDeV4v) | 3:10 | 2020-11-13 | 2022-03-26 |
 | [Ally \- Headnodic Remix](https://open.spotify.com/track/4vNh0o3gb1QbmLKtiQvYFn) | [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo), [Raashan Ahmad](https://open.spotify.com/artist/7iljQVDzReF6FBa4cNMIAp), [Breathless](https://open.spotify.com/artist/20LeSCKi2mT9uFAdUwvyhK), [Headnodic](https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3) | [Ally \(Headnodic Remix\)](https://open.spotify.com/album/11xqMaOFDQzJEeWiC7KOdk) | 3:29 | 2021-09-21 | 2022-07-20 |
-| [AM Gold \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 | 2022-04-22 |  |
+| [AM Gold \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 | 2022-04-22 | 2023-02-01 |
 | [Apocalypse](https://open.spotify.com/track/0fot2fNSEn8R8HOwIPUMIR) | [Sonia Stein](https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y) | [Apocalypse](https://open.spotify.com/album/4QMZonIRFFJmhi2Ya0r3E5) | 3:25 | 2022-03-18 | 2022-04-17 |
 | [Artichoke](https://open.spotify.com/track/4KLdyKhs8sFlDdQPMAzWif) | [Mathien](https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Eitan Bernstein](https://open.spotify.com/artist/57c1G1JfgEHIWPSu8wED14) | [Artichoke](https://open.spotify.com/album/1DdT8ZkXpypodT0jxvIzSg) | 3:34 | 2022-03-18 | 2022-07-29 |
 | [Ashamed](https://open.spotify.com/track/1bZmbsNqOkfvGGAikytuW2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 3:24 | 2021-09-21 | 2022-10-13 |
@@ -239,6 +239,7 @@
 | [Power Station](https://open.spotify.com/track/1z7PHD8GeatMCzuBY3SUsB) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Power Station](https://open.spotify.com/album/4hGwNNlT72jpOJFWIatuEk) | 3:22 | 2022-04-08 | 2022-07-28 |
 | [Preach](https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Preach](https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW) | 3:28 | 2022-04-29 | 2022-11-20 |
 | [Preach](https://open.spotify.com/track/6FaTiIqd2hAKtEZfrsaVuz) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Preach](https://open.spotify.com/album/3yAkHqTGPYTUIsNvNoEsvI) | 3:28 | 2022-04-29 | 2023-01-30 |
+| [Preach](https://open.spotify.com/track/0yx0mGjfdB9ZpEJ3FI8oTu) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Sting](https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet) | 3:29 | 2022-04-29 |  |
 | [Princess Pouty](https://open.spotify.com/track/6lwFOodKFZd0ro8bcIxlWg) | [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI) | [Princess Pouty](https://open.spotify.com/album/30OuMUBR1zRI4cdHDhNo1z) | 3:42 | 2021-04-30 | 2022-04-21 |
 | [Puff Break \(Believe That\)](https://open.spotify.com/track/1mriXvvbHJLklHHg8dehug) | [Andy Frasco & the U.N.](https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu) | [Wash, Rinse, Repeat.](https://open.spotify.com/album/3OBj0oXIByaBqpj393VX1h) | 3:15 | 2022-04-08 |  |
 | [Raincheck](https://open.spotify.com/track/4uLayl2QxBKcnNE9A34rev) | [Jachary](https://open.spotify.com/artist/4HvoSSqs9JthDCVf8rTdeZ) | [Loops of Life](https://open.spotify.com/album/2HXeiE0ito0084fqhsWNqG) | 3:06 | 2020-11-13 | 2022-03-26 |

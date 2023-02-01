@@ -4,7 +4,7 @@
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2022
 
-145 songs - 8 hr 0 min
+146 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Não Me Vejo Sem Você \- Ao Vivo](https://open.spotify.com/track/6Bjodqpu1TWVoRFFQ5DtNa) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Não Me Vejo Sem Você \(Ao Vivo\)](https://open.spotify.com/album/2RpLX48rIBE57rNvXl8203) | 3:22 | 2022-11-30 |  |
 | [Não Vai Ter Fim \- Ao Vivo](https://open.spotify.com/track/4Iza3iQfmkWrY1dVEa51Sv) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9) | [Oi, Prazer BG! Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0ev4mqX85Oa3g2TnNYN4LO) | 3:07 | 2022-11-30 |  |
 | [O Mundo Dá Voltas](https://open.spotify.com/track/72Dd1GTMVp8EaJof85xICq) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [O Mundo Dá Voltas](https://open.spotify.com/album/6vsf2KnzQqYCk3ZooylJ7o) | 2:56 | 2022-11-30 |  |
-| [Outra Recaída](https://open.spotify.com/track/1x3RjL7XFhp6OSIotHEY5m) | [Binho Simões](https://open.spotify.com/artist/3YYITXjPoYKyWyssTc4X12), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Outra Recaída](https://open.spotify.com/album/4a1WCPiRn52bJCF5bx3UIf) | 2:44 | 2022-11-30 |  |
+| [Outra Recaída](https://open.spotify.com/track/1x3RjL7XFhp6OSIotHEY5m) | [Binho Simões](https://open.spotify.com/artist/3YYITXjPoYKyWyssTc4X12), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Outra Recaída](https://open.spotify.com/album/4a1WCPiRn52bJCF5bx3UIf) | 2:44 | 2022-11-30 | 2023-02-01 |
+| [Outra Recaída \- Ao Vivo](https://open.spotify.com/track/0BVPXJdlLfNXEeD2XR011j) | [Binho Simões](https://open.spotify.com/artist/3YYITXjPoYKyWyssTc4X12), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Outra Recaída \(Ao Vivo\)](https://open.spotify.com/album/5pAGER55JlYGYB252ewvNK) | 2:44 | 2022-11-30 |  |
 | [Pacote Completo \- Ao Vivo](https://open.spotify.com/track/24jcjW1en6iWOIRPysbbD3) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Close Friends \(Ao Vivo\)](https://open.spotify.com/album/0JDiWK0YzOeg45K86BLY8S) | 2:35 | 2022-11-30 |  |
 | [Pede Pra God \- Ao Vivo](https://open.spotify.com/track/0WLtJoVhlPPZ9zdFBgjWiI) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Pede Pra God \(Ao Vivo\)](https://open.spotify.com/album/2BKGmONs2ezQ8eYS8KJJn1) | 2:46 | 2022-11-30 |  |
 | [Pela Última Vez \- Ao Vivo](https://open.spotify.com/track/2oXJFYMQZKRU3CdWHV2fHN) | [Davizinho](https://open.spotify.com/artist/0leY58CMUMTPeBsj4wT74R) | [Pela Última Vez \(Ao Vivo\)](https://open.spotify.com/album/693gdgaYRDFttiYA3WHuue) | 3:15 | 2022-11-30 |  |

@@ -196,7 +196,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 168933,
       "name": "Bloody Mary Morning",
       "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
@@ -1322,6 +1322,24 @@
       "duration_ms": 240106,
       "name": "Long Haired Country Boy",
       "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
+    },
+    {
+      "album": {
+        "name": "Silk Purse",
+        "url": "https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263400,
+      "name": "Long Long Time",
+      "url": "https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1"
     },
     {
       "album": {

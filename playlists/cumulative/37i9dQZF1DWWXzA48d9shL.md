@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: Savage Ga$p
 
-372 songs - 14 hr 40 min
+373 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [NOTHING](https://open.spotify.com/track/4kc2vovUnrGOwWgGZFhsuU) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [NOTHING](https://open.spotify.com/album/3CygmOk16boufN92DA7xxR) | 2:12 | 2021-11-12 | 2022-04-20 |
 | [NOTHING IS FOREVER](https://open.spotify.com/track/4PQmQnDUxanb5NkYAToaQr) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [NOTHING IS FOREVER](https://open.spotify.com/album/74wHsULDsjbJQ7HSBjH49z) | 2:32 | 2023-01-27 |  |
 | [Now I'm Up To My Neck With Offers](https://open.spotify.com/track/1QSMyV4BAvNRwIpRzS8zWn) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XX: The Infinity Saga](https://open.spotify.com/album/26qaxSxlPcfjVDYKNxjLQn) | 2:47 | 2021-09-17 | 2022-05-17 |
+| [OCTOPUS.LADY](https://open.spotify.com/track/4vjj0bcIG5O3FA0C9cXNR8) | [Changeline](https://open.spotify.com/artist/6y4WxCw3Pu2MnjqSBtoxSJ) | [OCTOPUS.LADY](https://open.spotify.com/album/56JMyJsWVb1YLVldbau63p) | 2:36 | 2023-01-30 |  |
 | [Off the Leash](https://open.spotify.com/track/1JgQeigk5XdpxGLwgWCJlG) | [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe), [Burgos](https://open.spotify.com/artist/3chqU15yLP7B3XRQpILQY2), [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Off the Leash](https://open.spotify.com/album/6UkwTJMCVJuIqkHwJ7NTME) | 3:04 | 2022-02-25 | 2022-06-04 |
 | [Old Stoner](https://open.spotify.com/track/10xZI5SplnWztObwJ9B0FK) | [sadndead](https://open.spotify.com/artist/4I0zswWJ5RU1mmXmqSRCfN), [Freddie Dredd](https://open.spotify.com/artist/6LOXPXZicRM9thrCXusfAd) | [Old Stoner](https://open.spotify.com/album/6IP6F0ZwOmiwyVdoJrgclK) | 2:05 | 2022-03-22 | 2022-05-17 |
 | [On Da Lowkey](https://open.spotify.com/track/5wnEWLBWLaNMHmECukmTr3) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [Apoc Krysis](https://open.spotify.com/artist/5FWqTrWj74TUJLstHwCDQE) | [On Da Lowkey](https://open.spotify.com/album/4kMrmcLWU5cuOa0Sd6boI3) | 2:12 | 2021-09-17 | 2022-07-27 |

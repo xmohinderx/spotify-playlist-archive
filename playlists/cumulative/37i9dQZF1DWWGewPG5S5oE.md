@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。cover: H ZETTRIO
 
-107 songs - 8 hr 47 min
+108 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,11 +22,12 @@
 | [Blues for K](https://open.spotify.com/track/1VnOzW4zYaDifRPreUur35) | [Tsuyoshi Yamamoto](https://open.spotify.com/artist/4Le6xcHzz9CpoxAmXgtZP5) | [Blues For K](https://open.spotify.com/album/4xomV4Sw1aCp2SyEHNtALk) | 3:52 | 2023-01-24 |  |
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2022-12-06 | 2023-01-11 |
 | [Children of Peace](https://open.spotify.com/track/2lnYMX79vLI5cj2LrNlRUN) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 5:33 | 2022-09-27 | 2022-10-21 |
-| [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 | 2022-09-06 |  |
+| [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 | 2022-09-06 | 2023-02-01 |
 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 | 2022-09-06 | 2023-01-25 |
 | [DAN DA DAN \~Nikujiru Juicy\~](https://open.spotify.com/track/6bU0xA0rcv4BUhiCUeSpga) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [DAN DA DAN \~Nikujiru Juicy\~](https://open.spotify.com/album/1DRsv2J8yzJqte4iM47vP7) | 4:10 | 2022-09-06 | 2022-09-21 |
 | [Danny Boy](https://open.spotify.com/track/5V4DDq4TAn5UPrJBbKl5M2) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Danny Boy](https://open.spotify.com/album/5edIjcQxIfRjLDKplE8edG) | 2:52 | 2022-09-06 | 2022-09-15 |
 | [Death by Glamour \(with Jacob Koller\)](https://open.spotify.com/track/4YtvTTg4uE31kyFhCRC9Vw) | [瀬戸一王](https://open.spotify.com/artist/05QyI8tKAUSMa2H8WRI8v1), [Jacob Koller](https://open.spotify.com/artist/5WurrE6cmmCQDP151eki1o) | [PIANOTALE](https://open.spotify.com/album/0FtP1dhqgP2gS2hKkSAMnO) | 2:18 | 2022-10-25 | 2022-12-07 |
+| [Every Good Thing \~Four Seasons of SAKURA MACHI\~](https://open.spotify.com/track/0mlnxPCdytBO1j1dNu2im9) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Every Good Thing \~Four Seasons of SAKURA MACHI\~](https://open.spotify.com/album/6EszsICeJCFEO0liYghkBi) | 4:02 | 2023-01-31 |  |
 | [Everybody Loves The Sunshine](https://open.spotify.com/track/4F17fOFNxTHhNk6fXq46w6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Rising Son](https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd) | 9:25 | 2022-09-06 |  |
 | [Extra Freedom](https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 6:19 | 2022-09-06 |  |
 | [Flowing Rhyme](https://open.spotify.com/track/27R5CLTecHiNhM5BdghE1Z) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Flowing Rhyme](https://open.spotify.com/album/4gNAtde98C74XXWrJa5ntF) | 3:25 | 2022-10-18 | 2022-11-03 |

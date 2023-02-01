@@ -2,7 +2,7 @@
 
 ### [Tríos y Boleros Románticos](https://open.spotify.com/playlist/37i9dQZF1DX2QXdeI8K6lP)
 
-> Música que te hará suspirar como en aquellos años dorados\. En portada: Los Panchos
+> Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
 185 songs - 8 hr 57 min
 

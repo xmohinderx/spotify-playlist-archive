@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-275 songs - 14 hr 34 min
+277 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Control](https://open.spotify.com/track/73dizJioW3V6zacAOr1tg3) | [Paul Eckert](https://open.spotify.com/artist/1eoWfFa4fgWTTv212vn78R) | [Covers](https://open.spotify.com/album/3uuBQUwNStdBuJs2Xoidbs) | 4:01 | 2021-12-16 | 2023-01-13 |
 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 | 2021-12-16 | 2023-01-13 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2023-01-12 | 2023-01-19 |
+| [Decide](https://open.spotify.com/track/2ITf4FaTaw5iuAg0Xpa2m9) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Decide](https://open.spotify.com/album/3HB9p8Lo7VWuwfZdPXqVTD) | 2:38 | 2023-01-27 |  |
 | [Do It Again](https://open.spotify.com/track/2bXsC1eJ9UftAkhmYRuLmA) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW) | [Do It Again](https://open.spotify.com/album/2XuZiWSqq5CgMNjUQVWjkx) | 2:37 | 2023-01-12 | 2023-01-15 |
 | [Do You Mind](https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Do You Mind](https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI) | 2:20 | 2023-01-12 |  |
 | [Don't Go Changing](https://open.spotify.com/track/0dNN5wjTkbJnQkOnzh9WUH) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Don't Go Changing](https://open.spotify.com/album/0dJk7K8gB2utiR1cUtWrzF) | 3:09 | 2021-12-16 | 2023-01-13 |
@@ -94,7 +95,7 @@
 | [Hannah](https://open.spotify.com/track/2wbS2aC4mZwSiefjovwyh1) | [Neil Hollyn](https://open.spotify.com/artist/3xwOjGQV5Pblxa9thjh6w0) | [Hannah](https://open.spotify.com/album/60yMEN6xfAX0WpGNOBcaqX) | 3:16 | 2021-12-16 | 2022-01-21 |
 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 | 2023-01-12 |  |
 | [Hard 4 Me 2 Love You](https://open.spotify.com/track/4YF1ucCHnZHQFxeLxtPLpS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Hard 4 Me 2 Love You](https://open.spotify.com/album/1PtHdtq6JgoCxawh4fwZHl) | 3:50 | 2021-12-16 | 2023-01-13 |
-| [Heart Is On My Sleeve](https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Heart Is On My Sleeve](https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy) | 4:13 | 2023-01-12 |  |
+| [Heart Is On My Sleeve](https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Heart Is On My Sleeve](https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy) | 4:13 | 2023-01-12 | 2023-02-01 |
 | [Heart To Heart](https://open.spotify.com/track/4sZpxhh9oSkX4QynkJbI8E) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Heart To Heart](https://open.spotify.com/album/1Rw8TB9w9IbipBGhramigY) | 4:21 | 2022-05-18 | 2023-01-13 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-12-16 | 2022-03-26 |
 | [Heaven](https://open.spotify.com/track/7zzl5nLmPPkAwk2MRIUpa4) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Heaven](https://open.spotify.com/album/7zvlOXQgusNzrFMADWbz8G) | 2:49 | 2021-12-16 | 2022-01-28 |
@@ -148,6 +149,7 @@
 | [listen up \- Radio Edit](https://open.spotify.com/track/3cVhTgUF4R97T7LJqWLOYP) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [listen up \(Radio Edit\)](https://open.spotify.com/album/7oK78X0LqZqzVpU4N7Rvz9) | 1:48 | 2023-01-12 |  |
 | [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 | 2021-12-16 | 2023-01-13 |
 | [Long Night](https://open.spotify.com/track/1hKOMItgWXvcYmyhreFJng) | [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [Long Night](https://open.spotify.com/album/6ajJV3tPwlmQBJWjCAKZlv) | 3:01 | 2021-12-16 | 2023-01-13 |
+| [Look My Way](https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Look My Way](https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq) | 2:54 | 2023-01-27 |  |
 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 | 2023-01-12 |  |
 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2023-01-12 |  |
 | [Love Haze](https://open.spotify.com/track/3UPq5vcUDRgVRfghbNcqCR) | [JPL](https://open.spotify.com/artist/7u5SiDcWwtLRKN1RBcwW0G) | [Love Haze](https://open.spotify.com/album/679TkSsX2sIJIBAOIv52Ad) | 2:59 | 2021-12-16 | 2022-10-13 |
@@ -245,7 +247,7 @@
 | [this is how you fall in love](https://open.spotify.com/track/0742PcMPo2Akmo4vHC29VZ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [this is how you fall in love](https://open.spotify.com/album/5nAv0lNEyaR9IC0RR2UQiW) | 2:54 | 2021-12-16 | 2022-03-26 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2023-01-12 |  |
 | [Trust](https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Trust](https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS) | 2:45 | 2023-01-12 | 2023-01-28 |
-| [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 | 2023-01-12 |  |
+| [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 | 2023-01-12 | 2023-02-01 |
 | [U & I](https://open.spotify.com/track/1JHTlyUGL784BK241NROfl) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd) | 3:35 | 2022-07-22 | 2023-01-13 |
 | [U & I](https://open.spotify.com/track/1QK9f16uAepfVJazNT8atB) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/0FklfQfN28uc7RDBNMTQiz) | 3:35 | 2021-12-16 | 2022-07-29 |
 | [Uh Baby \- Sad Version](https://open.spotify.com/track/7nu2Wb4OPkH5ISWotOKSrb) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Uh Baby \(Sad Version\)](https://open.spotify.com/album/7AIChYb5phmJN3nOGFnjsT) | 2:43 | 2022-05-06 | 2023-01-13 |

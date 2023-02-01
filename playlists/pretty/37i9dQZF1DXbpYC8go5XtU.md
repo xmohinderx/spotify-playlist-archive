@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,892 likes - 146 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,015 likes - 146 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 7 | [Gratitude](https://open.spotify.com/track/4c2dCtOeRP65beV5AVvtNN) | [Foli](https://open.spotify.com/artist/2HdDpDCP2RQVHQhG5Kc09Q) | [Gratitude](https://open.spotify.com/album/2p6sMCS5Z627insj7jRDcH) | 2:11 |
 | 8 | [Celista](https://open.spotify.com/track/56pZYZqvW1LxTO2Zy2OI3j) | [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Shuswap Lake](https://open.spotify.com/album/4H1nqluuMY1dOHLPDXh1OE) | 2:41 |
 | 9 | [Song for Lungwort \(lobaria pulmonaria, a large epiphytic lichen\)](https://open.spotify.com/track/2AUuaoiqnTePBYG13D2Yjb) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Song for Lungwort \(lobaria pulmonaria, a large epiphytic lichen\)](https://open.spotify.com/album/2TgoRh8Ujg4qnvyhSHHhch) | 4:39 |
-| 10 | [\(Delightful Music Textures For Sleeping\)](https://open.spotify.com/track/3n0zXFGAE9WY3fVdVX4gX0) | [Medicine Music](https://open.spotify.com/artist/5t7xC9DNiemIbOpo1GP10J) | [TWILIGHT \(Delightful Music Textures For Sleeping\)](https://open.spotify.com/album/3PvNMCFPpwBhgCgKRk0IB2) | 1:11 |
+| 10 | [Twilight \(Delightful Music Textures For Sleeping\)](https://open.spotify.com/track/3n0zXFGAE9WY3fVdVX4gX0) | [Medicine Music](https://open.spotify.com/artist/5t7xC9DNiemIbOpo1GP10J) | [TWILIGHT \(Delightful Music Textures For Sleeping\)](https://open.spotify.com/album/3PvNMCFPpwBhgCgKRk0IB2) | 1:11 |
 | 11 | [Coast](https://open.spotify.com/track/2ZXZA0n1Bfo8H2Tg3KpqB8) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Coast](https://open.spotify.com/album/2cV90JgRQmnI8eAm5mGwr0) | 7:14 |
 | 12 | [Forest Hymn](https://open.spotify.com/track/4Q0W8BvXVmKjMM1kANzGbq) | [Retland](https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj) | [Migration](https://open.spotify.com/album/2xUyRkDGB0ViQVJtaVYVVO) | 3:46 |
 | 13 | [Into The Blue](https://open.spotify.com/track/3QYlpiYbm1tzXa0yKvKvo6) | [Low Altitude](https://open.spotify.com/artist/0e8l4k008v3EwUopLVq2hq) | [Waves](https://open.spotify.com/album/0LY7LfnH8SE6f1hOVwTKNf) | 3:54 |

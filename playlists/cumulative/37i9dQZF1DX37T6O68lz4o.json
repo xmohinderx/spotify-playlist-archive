@@ -570,7 +570,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 155428,
       "name": "Big Deal",
       "url": "https://open.spotify.com/track/1udgouQALm6D0kHXPzAfzQ"
@@ -1687,6 +1687,24 @@
     },
     {
       "album": {
+        "name": "Find Peace",
+        "url": "https://open.spotify.com/album/2z7NgbXAthMAeBxVhhDfkb"
+      },
+      "artists": [
+        {
+          "name": "Krew$",
+          "url": "https://open.spotify.com/artist/2Q2bnfCHdRZfz6jktiJODz"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112130,
+      "name": "Find Peace",
+      "url": "https://open.spotify.com/track/200WboHOBS14RFJIV0xQ89"
+    },
+    {
+      "album": {
         "name": "Fine WIne",
         "url": "https://open.spotify.com/album/7KjcU74UcOmuNN5CY9VPZ6"
       },
@@ -1728,6 +1746,24 @@
       "duration_ms": 131285,
       "name": "FINER THINGS",
       "url": "https://open.spotify.com/track/2ifGjIXn7elSfKdkyfiQCS"
+    },
+    {
+      "album": {
+        "name": "FIRST DAY OUT",
+        "url": "https://open.spotify.com/album/1odi2UMIAaKrnMECwkYn09"
+      },
+      "artists": [
+        {
+          "name": "Y Gizzle",
+          "url": "https://open.spotify.com/artist/2NrmxpPJ1YPMkidYYckQVT"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136823,
+      "name": "FIRST DAY OUT",
+      "url": "https://open.spotify.com/track/2rCH6Q7FE7H3yZatfRX1Y0"
     },
     {
       "album": {
@@ -1960,7 +1996,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 89195,
       "name": "FTC",
       "url": "https://open.spotify.com/track/49vS1cGhq1jMwqNQp3MtCj"
@@ -2235,6 +2271,28 @@
     },
     {
       "album": {
+        "name": "Angels Never Die",
+        "url": "https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN"
+      },
+      "artists": [
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        },
+        {
+          "name": "Dupes",
+          "url": "https://open.spotify.com/artist/2RiH41527l0B95HWgn1w9Q"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263969,
+      "name": "I Feel Like Aaliyah",
+      "url": "https://open.spotify.com/track/4sY978TTq8u9P1BoKbFDjZ"
+    },
+    {
+      "album": {
         "name": "To Whom Much is Given",
         "url": "https://open.spotify.com/album/7AkfjqxYvM68KZKLGYLPlh"
       },
@@ -2306,6 +2364,28 @@
       "duration_ms": 232907,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/4eTle2lZoO0A1har4Ut5KL"
+    },
+    {
+      "album": {
+        "name": "In The Hips",
+        "url": "https://open.spotify.com/album/09XetdTipuLTvTqMdn9rv3"
+      },
+      "artists": [
+        {
+          "name": "8 Zipp",
+          "url": "https://open.spotify.com/artist/77p4nWKhsjAqUXybLgycLZ"
+        },
+        {
+          "name": "$hayBand$",
+          "url": "https://open.spotify.com/artist/7jxxXzCLgiFE57KCjWw4H2"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120450,
+      "name": "In The Hips",
+      "url": "https://open.spotify.com/track/0uIkVcZel5rJMvQz0qJDLv"
     },
     {
       "album": {
@@ -2608,7 +2688,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 107636,
       "name": "Leave the Party",
       "url": "https://open.spotify.com/track/4tFF4rUola2OtZbesM6PFo"
@@ -4008,7 +4088,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 240000,
       "name": "ROXBURY XMAS",
       "url": "https://open.spotify.com/track/33azAH3MN2gbRWUHScsVGN"
@@ -4906,7 +4986,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 210933,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/6PGQMtYwFqt5VzVhRmPV9u"
@@ -5202,6 +5282,24 @@
       "duration_ms": 108133,
       "name": "Won't Work",
       "url": "https://open.spotify.com/track/4IBMVdxph7uAxwIZDiFHza"
+    },
+    {
+      "album": {
+        "name": "Wouldn't Get Far",
+        "url": "https://open.spotify.com/album/6ev0cYMZZs3N7GjsfvNW8S"
+      },
+      "artists": [
+        {
+          "name": "Lily Rayne",
+          "url": "https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157857,
+      "name": "Wouldn't Get Far",
+      "url": "https://open.spotify.com/track/2j3GupY7wtH9SWpOVdSMcd"
     },
     {
       "album": {

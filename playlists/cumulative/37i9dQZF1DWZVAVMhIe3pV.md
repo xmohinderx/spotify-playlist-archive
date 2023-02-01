@@ -4,13 +4,14 @@
 
 > Need to get your energy level up? This will help!
 
-336 songs - 21 hr 16 min
+337 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 | 2021-12-16 |  |
 | [99 Red Balloons](https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Stomping Ground](https://open.spotify.com/album/3T8jR4mkcdaLCsyaP8nQ1r) | 3:49 | 2021-12-16 | 2022-07-29 |
 | [A Warrior's Call](https://open.spotify.com/track/5mNbJIYaKkphf5WqwhXhva) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Beyond Hell / Above Heaven](https://open.spotify.com/album/2gBziT8McYGmC7Vzf4BsK9) | 4:23 | 2021-12-16 | 2022-06-30 |
+| [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2023-01-31 |  |
 | [Absolute Zero](https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [House of Gold & Bones, Part 1](https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn) | 3:49 | 2021-12-16 | 2022-07-29 |
 | [Alcohol](https://open.spotify.com/track/5B0cWUeFpYUGP50B7iGrHE) | [Lazy Queen](https://open.spotify.com/artist/1U9zqBUEcScanms647YanK) | [Alcohol](https://open.spotify.com/album/7njC1QirOre5gVQomwx1j9) | 3:41 | 2022-03-24 | 2022-04-28 |
 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 | 2021-12-16 |  |
@@ -305,7 +306,7 @@
 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 | 2021-12-16 |  |
 | [The Resistance](https://open.spotify.com/track/5O9Dz0h08LuBi0aVvDcylh) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:52 | 2021-12-16 | 2022-04-21 |
 | [The Wolf](https://open.spotify.com/track/2vWxcvNva9F5J7QzK2GrSb) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 3:41 | 2021-12-16 | 2022-04-29 |
-| [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 | 2021-12-16 |  |
+| [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:32 | 2021-12-16 | 2023-02-01 |
 | [This Time](https://open.spotify.com/track/0wyAVjPz2p0vdl0nZsus3q) | [Depswa](https://open.spotify.com/artist/0abGE6ExPPQzzPAZFROU3Y) | [Two Angels And A Dream](https://open.spotify.com/album/2jbVvKX7iuXOwumQH56bDt) | 2:57 | 2022-01-05 | 2022-07-06 |
 | [Throne](https://open.spotify.com/track/5tYqrn7cItYhDGDLHt8XuH) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit \(Track by Track Commentary\)](https://open.spotify.com/album/6XPW94L30lADaLwczUnLFh) | 3:10 | 2021-12-16 | 2022-04-30 |
 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 | 2022-03-31 |  |

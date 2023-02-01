@@ -1,12 +1,12 @@
 {
   "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico, con Grupo Frontera y Carin Leon. ",
-  "num_followers": 4800459,
+  "num_followers": 4805732,
   "original_name": "\u00c9xitos M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc1NjAwMCwwMDAwMDAwMGUyYWUwZTM3YjFiMTQwNzdmM2QwMDNlZGMzZjVkODY4",
+  "snapshot_id": "MTY3NTExNTUzOSwwMDAwMDAwMDc2MDc1ODU4OGI1M2JhMGUxZTE3OWRmZWNiMTVkYWMx",
   "tracks": [
     {
       "added_at": "2023-01-26 18:00:00",
@@ -203,6 +203,26 @@
       "duration_ms": 229064,
       "name": "Besos Moja2",
       "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
+    },
+    {
+      "added_at": "2023-01-30 21:52:19",
+      "album": {
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
     },
     {
       "added_at": "2023-01-26 18:00:00",
@@ -907,26 +927,6 @@
       "duration_ms": 160897,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
-    },
-    {
-      "added_at": "2023-01-26 18:00:00",
-      "album": {
-        "name": "El Chamaquito",
-        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
-        }
-      ],
-      "duration_ms": 139863,
-      "name": "El Chamaquito",
-      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
     }
   ],
   "unique_name": "\u00c9xitos M\u00e9xico",

@@ -4,7 +4,7 @@
 
 > Hip hop tracks to kick your workout up a notch
 
-72 songs - 3 hr 43 min
+73 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,12 +44,13 @@
 | [Khabib](https://open.spotify.com/track/194U52vElkbmFe8QTefrgw) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Khabib](https://open.spotify.com/album/3v6aq6iIqFXgAubGncj9Ce) | 3:21 | 2022-02-11 | 2023-01-20 |
 | [King of Parole](https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [King of Parole](https://open.spotify.com/album/3SxZ36WBWGwoDwXAAAS8Bk) | 3:16 | 2021-06-07 |  |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-04-14 |  |
-| [Last One Left \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6hUoVMWls2K9oYSNBFlYU6) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Two\-Face Bang 2](https://open.spotify.com/album/0CPeOS6Ykin4EelpJAZslh) | 3:15 | 2022-04-14 |  |
+| [Last One Left \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6hUoVMWls2K9oYSNBFlYU6) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Two\-Face Bang 2](https://open.spotify.com/album/0CPeOS6Ykin4EelpJAZslh) | 3:15 | 2022-04-14 | 2023-02-01 |
 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 | 2021-08-13 |  |
 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-04-07 |  |
 | [Lonely \(with Lil Wayne\)](https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Lonely \(with Lil Wayne\)](https://open.spotify.com/album/6PwnWA19E1JThqWMdRrj6l) | 2:34 | 2021-09-09 |  |
 | [Longtime \(feat\. Skepta\)](https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:59 | 2021-02-22 |  |
 | [Loyal \(feat\. NSG\)](https://open.spotify.com/track/5XDJOlzaw1FCsz75I6Vjuh) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 4:18 | 2021-09-17 |  |
+| [MOTOWN](https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MOTOWN \(feat\. BabyTron\)](https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm) | 2:44 | 2023-02-01 |  |
 | [Neck & Wrist \(feat\. JAY\-Z & Pharrell\)](https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Neck & Wrist](https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3) | 3:29 | 2022-04-07 |  |
 | [Nirvana](https://open.spotify.com/track/2AxdsjbrVCvKvZDMHnWJSP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Nirvana](https://open.spotify.com/album/3fYXcBH4CCJttLnvuqvM4N) | 2:24 | 2022-07-22 | 2022-08-30 |
 | [Nyash \(Current & Savings\)](https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Nyash \(Current & Savings\)](https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B) | 3:34 | 2022-10-13 |  |

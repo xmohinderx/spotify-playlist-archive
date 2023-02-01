@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZhCwBHDbutA33WuZDmYFP">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222 likes - 34 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 228 likes - 34 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 12 | [No Going Back](https://open.spotify.com/track/2vSgW76655sD8YdCqZ5bN7) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Antomage](https://open.spotify.com/artist/6xqmiKO95KxwEiz8BQQauZ), [Bromage](https://open.spotify.com/artist/1aAW5k56ulsXw0ZEm6PpOS) | [No Going Back](https://open.spotify.com/album/0vp0e4m0DeTnouFtrE64w3) | 2:40 |
 | 13 | [body in my bed](https://open.spotify.com/track/6fZv7ZDeC4pvtcbonRKqhN) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [new skin](https://open.spotify.com/album/79IXyvIKV3yo80B9fpLCux) | 3:23 |
 | 14 | [Lava](https://open.spotify.com/track/2hs2PHJuYNmFCi6bnVmHNK) | [Leu Leu Land](https://open.spotify.com/artist/6lH8TyRSfitGTanY5N4k2J) | [Lava](https://open.spotify.com/album/7MuUrgeqiiW3cH0rGO3yqE) | 2:40 |
-| 15 | [Feel So Good](https://open.spotify.com/track/5uyJh3z8NrvRNry7YSNqQp) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Feel So Good](https://open.spotify.com/album/4KTk2TRMNMp9JN2JeUWC2i) | 3:05 |
-| 16 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 |
+| 15 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 |
+| 16 | [Feel So Good](https://open.spotify.com/track/5uyJh3z8NrvRNry7YSNqQp) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Feel So Good](https://open.spotify.com/album/4KTk2TRMNMp9JN2JeUWC2i) | 3:05 |
 | 17 | [Moon \- Official Summerburst Anthem / 2016](https://open.spotify.com/track/5M4mJKwSHV5d8sTlrO4J8i) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Moon \(Official Summerburst Anthem / 2016\)](https://open.spotify.com/album/1kW9XcmMNIy4qwjncfViyX) | 3:30 |
 | 18 | [Boiling](https://open.spotify.com/track/05gFzegb6BktSf5irqDcyT) | [Klahr](https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD), [Galavant](https://open.spotify.com/artist/7CsSec3NzFx2UipwF1APhu), [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Boiling](https://open.spotify.com/album/3UF5pFIUg2oNNIkkekPEik) | 3:39 |
 | 19 | [Adios!](https://open.spotify.com/track/2B021Vp8zMjUFsVz26fkN0) | [High15](https://open.spotify.com/artist/1m7tgi2gXk1x4dxllqj53X) | [Adios!](https://open.spotify.com/album/7kGoSK4R4F5uPlacA5ZUQn) | 3:04 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 33 | [Avalanche](https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:08 |
 | 34 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 |
 
-Snapshot ID: `Mjc5MTcyOTYsMDAwMDAwMDA5ZGNjNDYwNDNlNDBjYzAyNzNkOWUxZGZmOGEyMDg4ZQ==`
+Snapshot ID: `Mjc5MjAxNzcsMDAwMDAwMDA1YzZhMDFjMDFkOGUzZjJkMDEwOThjZTZhNWY1YmZmNg==`

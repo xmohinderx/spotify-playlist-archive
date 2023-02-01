@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 37913,
+  "num_followers": 38058,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjkzMDczMiwwMDAwMDAwMGVkNTU2NDQ1MzdiMjdlNjU5MmJkNWVjMWIxZDhiMmMw",
+  "snapshot_id": "MTY3MjkzMDczMiwwMDAwMDAwMGU3MTFiZDU1MGMxMWJjOTM5ZGM0ZmM2OTlhYWMzMDBm",
   "tracks": [
     {
       "added_at": "2022-12-20 21:43:10",
@@ -545,24 +545,20 @@
       "url": "https://open.spotify.com/track/65RtPQhhs5tHO41skjySmV"
     },
     {
-      "added_at": "2022-09-16 04:53:10",
+      "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "traguito",
-        "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
+        "name": "Uno Dos Tres 1-2-3",
+        "url": "https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
         }
       ],
-      "duration_ms": 236200,
-      "name": "traguito",
-      "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
+      "duration_ms": 183293,
+      "name": "Fried Neck Bones And Some Home Fries",
+      "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
     },
     {
       "added_at": "2022-11-15 07:42:34",
@@ -599,22 +595,6 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Uno Dos Tres 1-2-3",
-        "url": "https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Fried Neck Bones And Some Home Fries",
-      "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
         "name": "A Swingin' Safari (Remastered)",
         "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 146133,
       "name": "Afrikaan Beat",
       "url": "https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp"
+    },
+    {
+      "added_at": "2022-09-16 04:53:10",
+      "album": {
+        "name": "traguito",
+        "url": "https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "traguito",
+      "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -659,22 +659,6 @@
       "duration_ms": 328773,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/43iNZgahOKELvSYR0G6Yj4"
-    },
-    {
-      "added_at": "2022-09-27 22:45:21",
-      "album": {
-        "name": "De todas las flores",
-        "url": "https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "De todas las flores",
-      "url": "https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -727,6 +711,22 @@
       "duration_ms": 238068,
       "name": "T\u00fa Ve",
       "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
+    },
+    {
+      "added_at": "2022-09-27 22:45:21",
+      "album": {
+        "name": "De todas las flores",
+        "url": "https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "De todas las flores",
+      "url": "https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/2vLgPIAJj1Z7fd69QoFxqK"
     },
     {
+      "added_at": "2022-04-23 18:00:53",
+      "album": {
+        "name": "Sur o No Sur",
+        "url": "https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Cumbiera Intelectual",
+      "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Cumbias Imaquinarias - EP",
@@ -843,22 +859,6 @@
       "duration_ms": 197000,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
-    },
-    {
-      "added_at": "2022-04-23 18:00:53",
-      "album": {
-        "name": "Sur o No Sur",
-        "url": "https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Cumbiera Intelectual",
-      "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Sonido Amazonico",
-      "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
-    },
-    {
       "added_at": "2022-04-23 18:00:53",
       "album": {
         "name": "The Nada",
@@ -947,6 +931,22 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Sonido Amazonico",
+      "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
         "name": "Perlas & Conchas",
         "url": "https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo"
       },
@@ -959,22 +959,6 @@
       "duration_ms": 294112,
       "name": "Agradezco",
       "url": "https://open.spotify.com/track/3H4FCuCyAVZVgGCkYSLEu3"
-    },
-    {
-      "added_at": "2022-03-30 19:53:15",
-      "album": {
-        "name": "Cantos revolucionarios de america latina",
-        "url": "https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k"
-      },
-      "artists": [
-        {
-          "name": "Soledad Bravo",
-          "url": "https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2"
-        }
-      ],
-      "duration_ms": 270160,
-      "name": "Hasta siempre",
-      "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -997,6 +981,22 @@
       "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
     },
     {
+      "added_at": "2022-03-30 19:53:15",
+      "album": {
+        "name": "Cantos revolucionarios de america latina",
+        "url": "https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k"
+      },
+      "artists": [
+        {
+          "name": "Soledad Bravo",
+          "url": "https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2"
+        }
+      ],
+      "duration_ms": 270160,
+      "name": "Hasta siempre",
+      "url": "https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Otros Colores",
@@ -1017,6 +1017,22 @@
       "url": "https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g"
     },
     {
+      "added_at": "2022-01-21 18:59:13",
+      "album": {
+        "name": "Instantes Decisivos Edici\u00f3n Deluxe",
+        "url": "https://open.spotify.com/album/1UhsU0waoToMeZcaG5W13w"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 166172,
+      "name": "Supersticioso",
+      "url": "https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Drama",
@@ -1031,26 +1047,6 @@
       "duration_ms": 213810,
       "name": "Mar\u00e9",
       "url": "https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d"
-    },
-    {
-      "added_at": "2022-03-30 02:01:15",
-      "album": {
-        "name": "Boleros Psicod\u00e9licos",
-        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "Mentiras Con Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     }
   ],
   "unique_name": "Caf\u00e9 Revoluci\u00f3n",

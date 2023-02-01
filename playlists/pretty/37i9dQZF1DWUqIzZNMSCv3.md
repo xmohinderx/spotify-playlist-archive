@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,666 likes - 57 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,431 likes - 57 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

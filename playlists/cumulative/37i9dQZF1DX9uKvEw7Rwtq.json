@@ -606,7 +606,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 234160,
       "name": "Elsewhere",
       "url": "https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J"
@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392374,
+      "name": "I Would Stare into the Sun with You Forever",
+      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
+    },
+    {
+      "album": {
         "name": "The Ever Shifting Fields",
         "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
       },
@@ -1068,7 +1086,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 181333,
       "name": "Ineffable",
       "url": "https://open.spotify.com/track/4k3g9XiOePysNVbn6FMTIX"
@@ -1660,6 +1678,24 @@
       "duration_ms": 227975,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
+    },
+    {
+      "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209115,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
     },
     {
       "album": {

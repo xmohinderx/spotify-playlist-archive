@@ -4,7 +4,7 @@
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 0 min
+54 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Buried a Lie](https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:59 | 2022-10-25 |  |
 | [Calling All Cars](https://open.spotify.com/track/4LtUNqSiFZzm70a7kM8hnc) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:23 | 2022-10-25 | 2023-01-24 |
 | [Calling All Cars](https://open.spotify.com/track/6fgsRsszz3omU60YckE5ah) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 3:23 | 2023-01-23 |  |
-| [Can't Be Saved](https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:07 | 2022-10-25 |  |
+| [Can't Be Saved](https://open.spotify.com/track/3R0S1d6GJ6hW2L9M43S9Kb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 3:07 | 2023-01-31 |  |
+| [Can't Be Saved](https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:07 | 2022-10-25 | 2023-02-01 |
 | [Death by Water](https://open.spotify.com/track/2AX46RVDdKW6WL7gHQSFzx) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:49 | 2022-10-25 |  |
 | [Double Cross](https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:25 | 2022-10-25 |  |
 | [Elevator to the Gallows](https://open.spotify.com/track/1bbRM6nUzzoO6vhfNx9h3n) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:44 | 2022-10-25 |  |
@@ -46,6 +47,7 @@
 | [One Eight Seven](https://open.spotify.com/track/0pclT1QQ4Pu7C1pZBpei0f) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:10 | 2022-10-25 |  |
 | [Rum Is for Drinking, Not for Burning](https://open.spotify.com/track/38bTAKxFVuAnnk8UMm0iwb) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:43 | 2022-10-25 |  |
 | [Saint Anthony](https://open.spotify.com/track/2cMosb3ON8fKZjpRi3eDpf) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:15 | 2022-10-25 |  |
+| [Shark Attack](https://open.spotify.com/track/1nPPVoNNkZVCaMFALQutMc) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 2:53 | 2023-01-31 |  |
 | [Sick or Sane \(Fifty for a Twenty\)](https://open.spotify.com/track/7uIDaASKT50rID0fzRitMz) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 2:45 | 2022-10-25 |  |
 | [Steven](https://open.spotify.com/track/5B06JHXewLwFQhBBOZuDCu) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:20 | 2022-10-25 |  |
 | [Still Searching](https://open.spotify.com/track/6sgdlnTL6tmIjhn0OqQmwP) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 4:18 | 2023-01-23 |  |

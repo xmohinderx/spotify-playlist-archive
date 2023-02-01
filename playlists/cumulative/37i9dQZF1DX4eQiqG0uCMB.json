@@ -816,6 +816,24 @@
     {
       "album": {
         "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166642,
+      "name": "emiliana",
+      "url": "https://open.spotify.com/track/6bW7YnPQQffit1iwule5Vv"
+    },
+    {
+      "album": {
+        "name": "Sad Romance",
         "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
       },
       "artists": [
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 207473,
       "name": "FYN",
       "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
@@ -1876,7 +1894,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 190621,
       "name": "Many Man - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
@@ -2556,12 +2574,12 @@
           "url": "https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv"
         },
         {
-          "name": "Vader the Wildcard",
-          "url": "https://open.spotify.com/artist/2hqg3nrEdtdSTiMMllWO2w"
-        },
-        {
           "name": "Kaey",
           "url": "https://open.spotify.com/artist/5QxTvd1ydIesFmXZ7bv9ou"
+        },
+        {
+          "name": "Vader the Wildcard",
+          "url": "https://open.spotify.com/artist/2hqg3nrEdtdSTiMMllWO2w"
         }
       ],
       "date_added": "2023-01-27",
@@ -3024,7 +3042,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 205191,
       "name": "Want You",
       "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"

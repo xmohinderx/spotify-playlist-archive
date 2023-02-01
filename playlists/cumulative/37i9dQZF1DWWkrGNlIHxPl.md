@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Saint Levant
 
-228 songs - 13 hr 6 min
+229 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Over](https://open.spotify.com/track/5dl66CllFRkUQbQ6YfuwjA) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [pre kai ro](https://open.spotify.com/artist/0oXFTo5u9yH1zht6gIt4wY) | [Over](https://open.spotify.com/album/2HC2roNcCmTEVSQM43XjCw) | 3:06 | 2021-12-16 | 2021-12-31 |
 | [Patience](https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3) | 2:50 | 2021-12-16 | 2022-02-23 |
 | [Persian Girl](https://open.spotify.com/track/00F00gtN0N4kqlD7HdIKm8) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [yef](https://open.spotify.com/artist/1O1ZcnRuYrvL3jfODzdPme) | [Persian Girl](https://open.spotify.com/album/0xrvQnt3aGmIBz1AQNPkQ9) | 3:29 | 2022-03-29 |  |
+| [POINT OF NO RETURN](https://open.spotify.com/track/4GgFF0xemAwyhyXDbTsXG1) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [POINT OF NO RETURN](https://open.spotify.com/album/1B0A3zeqNO0EsFr3zaQxRq) | 3:34 | 2023-01-31 |  |
 | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/track/7DwNsMz0MNNoHsKIZWjj73) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Que Sera Sera \(Law Nebka Sawa\)](https://open.spotify.com/album/2xj1LqRyLkOpB6xgiVHrIK) | 2:38 | 2022-10-08 |  |
 | [Rani Fi Mouchkila](https://open.spotify.com/track/36hv6TVKtt0O08Z4nV4xVK) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [Rani Fi Mouchkila](https://open.spotify.com/album/1ZsOEolN3qlSfG1ejFWpfK) | 4:27 | 2022-06-06 | 2022-06-24 |
 | [Real Lies \(feat\. CKay\)](https://open.spotify.com/track/0rl5IsgPdYePNorHS9OpnS) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Real Lies \(feat\. CKay\)](https://open.spotify.com/album/33QYFtxtg8mvCC68p9QPa5) | 3:38 | 2021-12-16 | 2022-11-20 |

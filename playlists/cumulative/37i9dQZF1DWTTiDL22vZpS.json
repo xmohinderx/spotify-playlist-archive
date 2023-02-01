@@ -16,10 +16,32 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 248832,
       "name": "Ac\u00e9rcame a Tu Piel",
       "url": "https://open.spotify.com/track/5scR0u1qUQbGHXLYUYOnPM"
+    },
+    {
+      "album": {
+        "name": "Amanece",
+        "url": "https://open.spotify.com/album/17P39aFRw00nZ5bLqxmFKN"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        },
+        {
+          "name": "Gil Cerezo",
+          "url": "https://open.spotify.com/artist/0IriYFJ4bOlHotHiwweJdG"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292546,
+      "name": "Amanece (feat. Gil Cerezo)",
+      "url": "https://open.spotify.com/track/5xnq09bL61Y11b2rutlyF9"
     },
     {
       "album": {
@@ -234,7 +256,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 232179,
       "name": "El Potaje",
       "url": "https://open.spotify.com/track/0DdyERdVfKbtLZyR87xBZo"
@@ -992,6 +1014,24 @@
       "duration_ms": 326040,
       "name": "Tr\u00e1game Tierra",
       "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
+    },
+    {
+      "album": {
+        "name": "Turista",
+        "url": "https://open.spotify.com/album/5hnEgpae3aS7ws5LE8zvVo"
+      },
+      "artists": [
+        {
+          "name": "Cazzeros",
+          "url": "https://open.spotify.com/artist/5jzrYCX3klqShv1fnZNbVi"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Turista",
+      "url": "https://open.spotify.com/track/75CvJyaMNLIRXkrHQOVblP"
     },
     {
       "album": {

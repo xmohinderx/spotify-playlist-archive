@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> 結集香港EQUAL女聲力量！\(cover: Anna hisbbuR\)
+> 結集香港EQUAL女聲力量！\(cover: 麗英\)
 
-222 songs - 14 hr 16 min
+223 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [怕黑](https://open.spotify.com/track/4jO2OsxutgsDsedqUs2sYL) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [Petit Fours](https://open.spotify.com/album/2Cs7d4bQgWBkdb3YZnOm2P) | 3:37 | 2022-08-02 | 2022-12-01 |
 | [恐懼蠶食心靈](https://open.spotify.com/track/5B5cFo2zP4DoPucjFLpiuj) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [恐懼蠶食心靈](https://open.spotify.com/album/0FrVK9qBrzzP1WRDRgGL1M) | 3:30 | 2022-11-30 |  |
 | [情緒勒索](https://open.spotify.com/track/41jjkuSFOuEygeQB0wlB4j) | [Elly艾妮](https://open.spotify.com/artist/1Qr8KvDLnY4wY8ndgYOu9S) | [情緒勒索](https://open.spotify.com/album/44Wh5ITHmLVnLQvd4ykw99) | 4:06 | 2022-02-02 | 2022-03-08 |
+| [惡作劇完成](https://open.spotify.com/track/3WDXsnzbshvwHfZcQDFD8z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [惡作劇完成](https://open.spotify.com/album/63JmXQrdYEUKJ2ANiT36L4) | 3:42 | 2023-01-31 |  |
 | [愛情是一種法國甜品](https://open.spotify.com/track/1K3oDw5cEqKnzmc6AWgSgO) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [初音](https://open.spotify.com/album/4fVFgdlOH9JZVH60Su5Dkw) | 3:59 | 2022-11-30 |  |
 | [愛無所畏](https://open.spotify.com/track/6O5uUbslvuPgrJdMkCvpEz) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [愛無所畏](https://open.spotify.com/album/4Tag19FbgclZkAmP77Gime) | 3:37 | 2022-11-30 |  |
 | [愛無餘地](https://open.spotify.com/track/3MKYCagH9tgU49gA2n9RHt) | [HANA](https://open.spotify.com/artist/3eMchOXfWkF7H7z3z8dGrf) | [愛無餘地](https://open.spotify.com/album/7yM0dkOQDxurthLBY5JNWr) | 4:07 | 2022-05-03 | 2022-08-03 |
@@ -169,7 +170,7 @@
 | [未境](https://open.spotify.com/track/5fu9mg9C2Mmq74WUDeiNhd) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [a room for](https://open.spotify.com/album/2U4W2veJdG34JS67moeC7N) | 3:06 | 2022-02-02 | 2022-03-08 |
 | [未見過世面的招積](https://open.spotify.com/track/6Eh74dmYzQtnMUy2LzSK59) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [未見過世面的招積](https://open.spotify.com/album/4zysPSvBmduEr2nnnVTBNK) | 3:12 | 2021-12-07 | 2022-01-05 |
 | [末日](https://open.spotify.com/track/1x591BetVMT2xOu0Oijxle) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [Cinema of Love](https://open.spotify.com/album/1XXS5wwMFifcaYijzfRXiu) | 3:59 | 2022-11-30 |  |
-| [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-03 | 2022-08-03 |
+| [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-03 |  |
 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-08-02 | 2022-12-01 |
 | [樹](https://open.spotify.com/track/2QYGFCVQTALeyYGNvKHn9T) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹](https://open.spotify.com/album/4RcQZBChNpUMXKcJmF5ErJ) | 3:55 | 2022-01-04 | 2022-12-01 |
 | [樹仔](https://open.spotify.com/track/67W3qb59EIvEW1PqkPL9h9) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹仔](https://open.spotify.com/album/3Ut8qXmLOY3YP7vL8cqsHQ) | 3:20 | 2022-11-30 |  |

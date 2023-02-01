@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 79889,
+  "num_followers": 80059,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM2NDY0MiwwMDAwMDAwMGZiMTk2MDNmOGEyODkyMDExMzYxNjJkMzIzMjQyYmY5",
+  "snapshot_id": "MTY3MzM2NDY0MiwwMDAwMDAwMDgwODZmMTE4ZDZkNjljZDY3Mjk3YWYxMGIxZDgyOGFk",
   "tracks": [
     {
       "added_at": "2023-01-10 15:30:42",
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-01-10 15:30:42",
       "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
+    },
+    {
+      "added_at": "2023-01-10 15:30:42",
+      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -171,22 +187,6 @@
     {
       "added_at": "2023-01-10 15:30:42",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
-    },
-    {
-      "added_at": "2023-01-10 15:30:42",
-      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 171333,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
-    },
-    {
-      "added_at": "2023-01-10 15:30:42",
-      "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 203269,
-      "name": "SUNSET WITH YOU",
-      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
     },
     {
       "added_at": "2023-01-10 15:30:42",
@@ -251,6 +235,54 @@
       "duration_ms": 159000,
       "name": "Blue mood",
       "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
+    },
+    {
+      "added_at": "2023-01-10 15:30:42",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "Empty Cup",
+      "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
+    },
+    {
+      "added_at": "2023-01-10 15:30:42",
+      "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 203269,
+      "name": "SUNSET WITH YOU",
+      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
+    },
+    {
+      "added_at": "2023-01-10 15:30:42",
+      "album": {
+        "name": "bath",
+        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 261705,
+      "name": "bath",
+      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
     },
     {
       "added_at": "2023-01-10 15:30:42",
@@ -299,38 +331,6 @@
       "duration_ms": 273453,
       "name": "Flower (Feat. Jay Park, Woo, GIRIBOY)",
       "url": "https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ"
-    },
-    {
-      "added_at": "2023-01-10 15:30:42",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "Empty Cup",
-      "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
-    },
-    {
-      "added_at": "2023-01-10 15:30:42",
-      "album": {
-        "name": "bath",
-        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 261705,
-      "name": "bath",
-      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
     },
     {
       "added_at": "2023-01-10 15:30:42",
@@ -395,6 +395,38 @@
     {
       "added_at": "2023-01-10 15:30:42",
       "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 119401,
+      "name": "but I'll wait for you",
+      "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
+    },
+    {
+      "added_at": "2023-01-10 15:30:42",
+      "album": {
+        "name": "idealism",
+        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "A Song Nobody Knows",
+      "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
+    },
+    {
+      "added_at": "2023-01-10 15:30:42",
+      "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
       },
@@ -415,22 +447,6 @@
     {
       "added_at": "2023-01-10 15:30:42",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 119401,
-      "name": "but I'll wait for you",
-      "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
-    },
-    {
-      "added_at": "2023-01-10 15:30:42",
-      "album": {
         "name": "11:59 (feat. Goopy)",
         "url": "https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 177680,
       "name": "11:59 (feat. Goopy)",
       "url": "https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq"
-    },
-    {
-      "added_at": "2023-01-10 15:30:42",
-      "album": {
-        "name": "idealism",
-        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "A Song Nobody Knows",
-      "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
     },
     {
       "added_at": "2023-01-10 15:30:42",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-01-10 15:30:42",
       "album": {
-        "name": "Little Women, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 229570,
-      "name": "LA VIE",
-      "url": "https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj"
-    },
-    {
-      "added_at": "2023-01-10 15:30:42",
-      "album": {
         "name": "Evergray",
         "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
       },
@@ -535,18 +519,18 @@
     {
       "added_at": "2023-01-10 15:30:42",
       "album": {
-        "name": "Space science",
-        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
+        "name": "Little Women, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6"
       },
       "artists": [
         {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 233170,
-      "name": "Space science",
-      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
+      "duration_ms": 229570,
+      "name": "LA VIE",
+      "url": "https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj"
     },
     {
       "added_at": "2023-01-10 15:30:42",
@@ -571,6 +555,38 @@
     {
       "added_at": "2023-01-10 15:30:42",
       "album": {
+        "name": "Space science",
+        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 233170,
+      "name": "Space science",
+      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
+    },
+    {
+      "added_at": "2023-01-10 15:30:42",
+      "album": {
+        "name": "Far From the Madding City",
+        "url": "https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 211997,
+      "name": "PIZZA",
+      "url": "https://open.spotify.com/track/6tHZSykaov7NellMyqqn2u"
+    },
+    {
+      "added_at": "2023-01-10 15:30:42",
+      "album": {
         "name": "Dry Flower",
         "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
       },
@@ -587,18 +603,18 @@
     {
       "added_at": "2023-01-10 15:30:42",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/6a1hq6e3NBDmSNQeVm2MbE"
       },
       "artists": [
         {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         }
       ],
-      "duration_ms": 223141,
-      "name": "Moon, 12:04am",
-      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
+      "duration_ms": 259000,
+      "name": "Please Love Me",
+      "url": "https://open.spotify.com/track/4SFNHcxBFUmhAWwVZUpx4n"
     },
     {
       "added_at": "2023-01-10 15:30:42",
@@ -623,34 +639,18 @@
     {
       "added_at": "2023-01-10 15:30:42",
       "album": {
-        "name": "Far From the Madding City",
-        "url": "https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy"
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
       },
       "artists": [
         {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 211997,
-      "name": "PIZZA",
-      "url": "https://open.spotify.com/track/6tHZSykaov7NellMyqqn2u"
-    },
-    {
-      "added_at": "2023-01-10 15:30:42",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/6a1hq6e3NBDmSNQeVm2MbE"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Please Love Me",
-      "url": "https://open.spotify.com/track/4SFNHcxBFUmhAWwVZUpx4n"
+      "duration_ms": 223141,
+      "name": "Moon, 12:04am",
+      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
     },
     {
       "added_at": "2023-01-10 15:30:42",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-10 15:30:42",
       "album": {
-        "name": "OFOSUN",
-        "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
-      },
-      "artists": [
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        }
-      ],
-      "duration_ms": 226499,
-      "name": "U",
-      "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
-    },
-    {
-      "added_at": "2023-01-10 15:30:42",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 227320,
       "name": "Free (I'm Gonna Be)",
       "url": "https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd"
+    },
+    {
+      "added_at": "2023-01-10 15:30:42",
+      "album": {
+        "name": "OFOSUN",
+        "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        }
+      ],
+      "duration_ms": 226499,
+      "name": "U",
+      "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
     },
     {
       "added_at": "2023-01-10 15:30:42",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-01-10 15:30:42",
       "album": {
-        "name": "EASY (feat. ELO)",
-        "url": "https://open.spotify.com/album/6VmihaadtXAGaCyAcq4H2Z"
-      },
-      "artists": [
-        {
-          "name": "Kass",
-          "url": "https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC"
-        },
-        {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "EASY (feat. ELO)",
-      "url": "https://open.spotify.com/track/0n8tAh3WhILRKralFmODWD"
-    },
-    {
-      "added_at": "2023-01-10 15:30:42",
-      "album": {
         "name": "Starlight No More",
         "url": "https://open.spotify.com/album/060gcufgjRhF72v78nCDI7"
       },
@@ -895,6 +875,22 @@
       "duration_ms": 197670,
       "name": "Starlight No More",
       "url": "https://open.spotify.com/track/0CSfu5jtIJAoSMn1Y6ktL3"
+    },
+    {
+      "added_at": "2023-01-10 15:30:42",
+      "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Black & White Film (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

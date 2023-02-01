@@ -4,7 +4,7 @@
 
 > For whatever activity you do that may need a punch of intensity!
 
-293 songs - 15 hr 29 min
+294 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [6 For 6](https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:28 | 2022-04-15 | 2022-04-21 |
 | [A Yo](https://open.spotify.com/track/7jLePOhkwslpzYSw5ZTCDG) | [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [TizzTrap](https://open.spotify.com/artist/2gkITzNx4kpWyX8Tf140HX), [BG](https://open.spotify.com/artist/331Xmbd0r2nu2TxnA4aQQR) | [A Yo](https://open.spotify.com/album/7H3XNmuhuX5HOpXpByYKRL) | 2:41 | 2022-04-15 | 2022-04-20 |
 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 | 2022-04-15 | 2022-04-17 |
+| [Active](https://open.spotify.com/track/4z5WcMruV9ABwG9pJE1GT2) | [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Inferno](https://open.spotify.com/album/40xx4FFeandutDmaK3qEqj) | 3:41 | 2023-01-31 |  |
 | [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 | 2021-12-20 |  |
 | [Airplane Mode \(feat\. NSG\)](https://open.spotify.com/track/4Dech2aFB9vMxRFF4rJAM1) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Crabs In A Bucket](https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15) | 3:57 | 2022-04-15 | 2022-04-21 |
 | [ALREADY](https://open.spotify.com/track/6tgEc2O1uFHcZDKPoo6PC8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:42 | 2022-04-15 | 2022-04-19 |
@@ -93,7 +94,7 @@
 | [Ego Death \(feat\. Kanye West, FKA twigs & Skrillex\)](https://open.spotify.com/track/4JB0EAT4BkLShTyTt50FmO) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Ego Death \(feat\. Kanye West, FKA twigs & Skrillex\)](https://open.spotify.com/album/6FPhDUfQUECZVD8vnobxjM) | 3:51 | 2022-04-15 | 2022-04-20 |
 | [Elementary](https://open.spotify.com/track/2eLnNboigfeEDPh5yoGpfa) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [Elementary](https://open.spotify.com/album/4dZNjwzzQY3w2uMsPHhBDI) | 2:41 | 2022-04-15 | 2022-04-16 |
 | [Emergency \(feat\. Gunna & Young Thug\)](https://open.spotify.com/track/4ZkQ2t966y0fmTW6TWNwR2) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Spiral: From The Book of Saw Soundtrack](https://open.spotify.com/album/5gTisM7GUr1idB1UL3Yva6) | 2:57 | 2022-01-26 | 2022-06-13 |
-| [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 | 2021-12-20 |  |
+| [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 | 2021-12-20 | 2023-02-01 |
 | [F.N](https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:44 | 2022-06-24 |  |
 | [F.N](https://open.spotify.com/track/0UPBidRYcgJ2mjZlk08V8x) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [F.N](https://open.spotify.com/album/6Wsv1spcNRL8SMOWie5cdA) | 3:44 | 2021-12-20 | 2022-05-17 |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 | 2021-12-20 |  |

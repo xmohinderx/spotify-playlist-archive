@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 111717,
+  "num_followers": 112001,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDY2MTA5NiwwMDAwMDAwMDA3M2U3YTkzYTY5ZTI5NDcyMjYxNmU1YzViOWVhMGE0",
+  "snapshot_id": "MTY3NDY2MTA5NiwwMDAwMDAwMDkwNWNlNDhhNjExNWRiZjFjZmUwNzdjZjJhOGI2NTBh",
   "tracks": [
     {
       "added_at": "2023-01-25 15:38:15",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2023-01-25 15:38:15",
+      "album": {
         "name": "Balling (feat. Songer, Mr Traumatik, Devilman & OneDa) [Edit]",
         "url": "https://open.spotify.com/album/775Vio9oXjiTAbh7Ad15ay"
       },
@@ -499,22 +519,18 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
-        "name": "Down Under (feat. Colin Hay)",
-        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
       },
       "artists": [
         {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Colin Hay",
-          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
         }
       ],
-      "duration_ms": 158774,
-      "name": "Down Under (feat. Colin Hay)",
-      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+      "duration_ms": 198620,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
     },
     {
       "added_at": "2023-01-25 15:38:15",
@@ -539,38 +555,6 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
-    },
-    {
-      "added_at": "2023-01-25 15:38:15",
-      "album": {
-        "name": "Tour",
-        "url": "https://open.spotify.com/album/1fPMAtqc8DOwCSLIVb98xv"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 289371,
-      "name": "Tour",
-      "url": "https://open.spotify.com/track/1Mze7crzF9BWo82DiAsmjj"
-    },
-    {
-      "added_at": "2023-01-25 15:38:15",
-      "album": {
         "name": "OUTSIDER",
         "url": "https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 136615,
       "name": "FOUND LOVE (feat. Carrie Baxter)",
       "url": "https://open.spotify.com/track/5Ndsdhx3jKxjQmHw7QkHmi"
+    },
+    {
+      "added_at": "2023-01-25 15:38:15",
+      "album": {
+        "name": "Tour",
+        "url": "https://open.spotify.com/album/1fPMAtqc8DOwCSLIVb98xv"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 289371,
+      "name": "Tour",
+      "url": "https://open.spotify.com/track/1Mze7crzF9BWo82DiAsmjj"
     },
     {
       "added_at": "2023-01-25 15:38:15",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/099tQXLTaW2A2pdLqX1dbL"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 247210,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/4nrcPumLm5ozA8qOEHcVm2"
-    },
-    {
-      "added_at": "2023-01-25 15:38:15",
-      "album": {
         "name": "Mesmerised",
         "url": "https://open.spotify.com/album/130KpuQV0nYnvmqcJupUIu"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 266400,
       "name": "Mesmerised",
       "url": "https://open.spotify.com/track/3VmzE0xZIiAmPdAxYHQMgP"
+    },
+    {
+      "added_at": "2023-01-25 15:38:15",
+      "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/099tQXLTaW2A2pdLqX1dbL"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 247210,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/4nrcPumLm5ozA8qOEHcVm2"
     },
     {
       "added_at": "2023-01-25 15:38:15",
@@ -723,6 +723,22 @@
       "duration_ms": 202691,
       "name": "All For You",
       "url": "https://open.spotify.com/track/3y1fEFFHFv79OYeCbzc774"
+    },
+    {
+      "added_at": "2023-01-25 15:38:15",
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 154650,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe"
     },
     {
       "added_at": "2023-01-25 15:38:15",
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 154650,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe"
-    },
-    {
-      "added_at": "2023-01-25 15:38:15",
-      "album": {
         "name": "Getting Started (Chase & Status Remix)",
         "url": "https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1"
       },
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
-        "name": "Their Law The Singles 1990 - 2005",
-        "url": "https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        },
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 307813,
-      "name": "Voodoo People - Pendulum Mix",
-      "url": "https://open.spotify.com/track/7C0PzxbsQx59DgGVRsquwJ"
-    },
-    {
-      "added_at": "2023-01-25 15:38:15",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/2Xh1gUIGFHqensYqIf96Cz"
       },
@@ -903,6 +883,22 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        }
+      ],
+      "duration_ms": 226916,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
+    },
+    {
+      "added_at": "2023-01-25 15:38:15",
+      "album": {
         "name": "Don't You Worry About Me",
         "url": "https://open.spotify.com/album/0he225d6QYERCPgyagltqw"
       },
@@ -915,6 +911,26 @@
       "duration_ms": 220173,
       "name": "Don't You Worry About Me",
       "url": "https://open.spotify.com/track/4cJgjjWMjf4nfLRuSr4hVl"
+    },
+    {
+      "added_at": "2023-01-25 15:38:15",
+      "album": {
+        "name": "Their Law The Singles 1990 - 2005",
+        "url": "https://open.spotify.com/album/0aZZ90ZakcGFzFiBMKHrCy"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        },
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 307813,
+      "name": "Voodoo People - Pendulum Mix",
+      "url": "https://open.spotify.com/track/7C0PzxbsQx59DgGVRsquwJ"
     },
     {
       "added_at": "2023-01-25 15:38:15",
@@ -939,22 +955,6 @@
       "duration_ms": 230400,
       "name": "Through It All - Hedex Remix",
       "url": "https://open.spotify.com/track/5ts712TiZXqdbbkef0mRrI"
-    },
-    {
-      "added_at": "2023-01-25 15:38:15",
-      "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
-      },
-      "artists": [
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
-        }
-      ],
-      "duration_ms": 226916,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
     },
     {
       "added_at": "2023-01-25 15:38:15",
@@ -1071,22 +1071,22 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF"
+        "name": "Stars On The Roof (feat. MoMo)",
+        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
         },
         {
-          "name": "Gracie Van Brunt",
-          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
         }
       ],
-      "duration_ms": 215268,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz"
+      "duration_ms": 242769,
+      "name": "Stars On The Roof (feat. MoMo)",
+      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
     },
     {
       "added_at": "2023-01-25 15:38:15",
@@ -1107,6 +1107,26 @@
       "duration_ms": 189849,
       "name": "Freak",
       "url": "https://open.spotify.com/track/1BKOmg5DzDud3mjDvsdGfQ"
+    },
+    {
+      "added_at": "2023-01-25 15:38:15",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "duration_ms": 215268,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz"
     },
     {
       "added_at": "2023-01-25 15:38:15",
@@ -1215,22 +1235,6 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
-        "name": "We'll Be Alright EP",
-        "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Daga Da",
-      "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
-    },
-    {
-      "added_at": "2023-01-25 15:38:15",
-      "album": {
         "name": "Figure It Out",
         "url": "https://open.spotify.com/album/1GbLtUextuxcVZbondHylL"
       },
@@ -1251,6 +1255,22 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
+        "name": "We'll Be Alright EP",
+        "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Daga Da",
+      "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
+    },
+    {
+      "added_at": "2023-01-25 15:38:15",
+      "album": {
         "name": "Remedies",
         "url": "https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh"
       },
@@ -1267,42 +1287,6 @@
       "duration_ms": 282758,
       "name": "Remedies",
       "url": "https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn"
-    },
-    {
-      "added_at": "2023-01-25 15:38:15",
-      "album": {
-        "name": "Know My Name",
-        "url": "https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Know My Name",
-      "url": "https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf"
-    },
-    {
-      "added_at": "2023-01-25 15:38:15",
-      "album": {
-        "name": "Stars On The Roof (feat. MoMo)",
-        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
-      },
-      "artists": [
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        },
-        {
-          "name": "MoMo",
-          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
-        }
-      ],
-      "duration_ms": 242769,
-      "name": "Stars On The Roof (feat. MoMo)",
-      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
     },
     {
       "added_at": "2023-01-25 15:38:15",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
+        "name": "Know My Name",
+        "url": "https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Know My Name",
+      "url": "https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf"
+    },
+    {
+      "added_at": "2023-01-25 15:38:15",
+      "album": {
         "name": "Selecta",
         "url": "https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF"
       },
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
-        "name": "SWAZZ",
-        "url": "https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ"
-      },
-      "artists": [
-        {
-          "name": "The Manor",
-          "url": "https://open.spotify.com/artist/2ZeAzgQtLfcPmMap31S0dZ"
-        }
-      ],
-      "duration_ms": 212286,
-      "name": "SWAZZ",
-      "url": "https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O"
-    },
-    {
-      "added_at": "2023-01-25 15:38:15",
-      "album": {
         "name": "Playing Games",
         "url": "https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 188160,
       "name": "Playing Games",
       "url": "https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6"
+    },
+    {
+      "added_at": "2023-01-25 15:38:15",
+      "album": {
+        "name": "SWAZZ",
+        "url": "https://open.spotify.com/album/5bWev71fkloo3FzHYlrDRQ"
+      },
+      "artists": [
+        {
+          "name": "The Manor",
+          "url": "https://open.spotify.com/artist/2ZeAzgQtLfcPmMap31S0dZ"
+        }
+      ],
+      "duration_ms": 212286,
+      "name": "SWAZZ",
+      "url": "https://open.spotify.com/track/243WbqMMhN5ZHrKRwTS84O"
     },
     {
       "added_at": "2023-01-25 15:38:15",
@@ -1443,22 +1443,22 @@
     {
       "added_at": "2023-01-25 15:38:15",
       "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/4xG9AXX6PJpzfVoqb5eqXh"
+        "name": "Feel So Free Mixtape",
+        "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
       },
       "artists": [
         {
-          "name": "DJ Zinc",
-          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
         },
         {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
         }
       ],
-      "duration_ms": 179310,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/1AtifUJiEqzf1lHxxSKVEz"
+      "duration_ms": 219687,
+      "name": "It's Just This Thing",
+      "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
     }
   ],
   "unique_name": "Proper Naughty ",

@@ -483,6 +483,24 @@
     },
     {
       "album": {
+        "name": "VITA",
+        "url": "https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306586,
+      "name": "VITA",
+      "url": "https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS"
+    },
+    {
+      "album": {
         "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
         "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
       },

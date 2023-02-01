@@ -1240,10 +1240,28 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 127555,
       "name": "That's Hot",
       "url": "https://open.spotify.com/track/1Cli0gQaSe0NVWEHAyOBIH"
+    },
+    {
+      "album": {
+        "name": "That's Hot",
+        "url": "https://open.spotify.com/album/6XO4jqE1A8NpscZrVbzViD"
+      },
+      "artists": [
+        {
+          "name": "lovfxsl",
+          "url": "https://open.spotify.com/artist/3oWWv5DwX1tmoxVfE31LyX"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127555,
+      "name": "That's Hot",
+      "url": "https://open.spotify.com/track/44D5QNNRr52gU8MBzfLMsc"
     },
     {
       "album": {

@@ -293,13 +293,17 @@
     },
     {
       "album": {
-        "name": "Funk \u00e9 N\u00f3is GR6 3.1 - Vol. 1",
+        "name": "Funk \u00e9 N\u00f3is GR6 3.1, Vol. 1",
         "url": "https://open.spotify.com/album/6pM2v9vda24Hils9lqCLeU"
       },
       "artists": [
         {
           "name": "Mc Kevin",
           "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         }
       ],
       "date_added": "2022-03-18",
@@ -578,6 +582,10 @@
         {
           "name": "MC Marks",
           "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         },
         {
           "name": "MC Ryan SP",

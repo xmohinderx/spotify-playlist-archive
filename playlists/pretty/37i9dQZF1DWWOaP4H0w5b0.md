@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 
 ### [Metal Essentials](https://open.spotify.com/playlist/37i9dQZF1DWWOaP4H0w5b0)
 
-> Want some metal? Better to start with the essentials\. Cover: Ozzy Osbourne
+> Want some metal? Better to start with the essentials\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,623,362 likes - 90 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,625,715 likes - 90 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOaP4H0w5b0.md) - [plain]
 | 89 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 |
 | 90 | [Detox](https://open.spotify.com/track/5UCZhWiEj8q5jid3zu8JKw) | [Strapping Young Lad](https://open.spotify.com/artist/457qPvtiBTIl6LR4dZiKZy) | [City](https://open.spotify.com/album/78Y2OaDAdvEqs3TRdCRdZc) | 5:37 |
 
-Snapshot ID: `MTY3NTAyNTk3NywwMDAwMDAwMDdmOWI0M2NhNWY0NzhmZTcyMzk2MWI4NjU4YzA3Zjk3`
+Snapshot ID: `MTY3NTA5NjI1NiwwMDAwMDAwMGVjYjVlZTEyZTQ3OWI2YmQ0NDJhNDUyOTgzZGU1OTQz`

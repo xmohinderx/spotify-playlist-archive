@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-552 songs - 2 day 0 hr 17 min
+553 songs - 2 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,10 +162,10 @@
 | [Elena's Sound\-World](https://open.spotify.com/track/7gpa2umN5eZhM40DOB3L0z) | [Sinoia Caves](https://open.spotify.com/artist/3PiClMYSnMYHCc2T11m9cd) | [Beyond The Black Rainbow \- Original Soundtrack](https://open.spotify.com/album/5cbwOeQ5ScNqV942hoet9P) | 5:10 | 2021-10-20 |  |
 | [Ella Estudia Astrologia](https://open.spotify.com/track/1npVjjSSarqKG0PPm1wa12) | [Pablo Neptuno](https://open.spotify.com/artist/3wcvDHkiKo11isqS7yvjyG) | [Los Días Serán Más Cortos](https://open.spotify.com/album/4TgXIydTP8MIuVVdQOnvUA) | 5:53 | 2021-10-20 | 2022-07-28 |
 | [Emergence](https://open.spotify.com/track/1n0ypsV4uj7w6YwHNlzBXO) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Emergence](https://open.spotify.com/album/78oEMg3hNpw6RWGZo8peoG) | 8:24 | 2021-10-20 | 2022-07-27 |
-| [Emergence](https://open.spotify.com/track/6cuv6wZ1LzmRqDw4VEbl5O) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Eyes of the Moon](https://open.spotify.com/album/6K0O3JLhYlVuoWYhTPmSRs) | 8:24 | 2021-10-20 |  |
+| [Emergence](https://open.spotify.com/track/6cuv6wZ1LzmRqDw4VEbl5O) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Eyes of the Moon](https://open.spotify.com/album/6K0O3JLhYlVuoWYhTPmSRs) | 8:24 | 2021-10-20 | 2023-02-01 |
 | [Emerging from the Depths](https://open.spotify.com/track/4tPSK7og1b48suaGv5I3wN) | [Microhm](https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN) | [Lost in Elastic Time](https://open.spotify.com/album/2yxorCaYTDEjcru4TEV1Rh) | 10:38 | 2021-10-20 | 2022-07-29 |
 | [Enchanted Dreams](https://open.spotify.com/track/1CYtN9f8AgIbQpCbzCnMRq) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Enchanted Dreams](https://open.spotify.com/album/0F4QtzeSMQlDquo7Gmp2B3) | 3:17 | 2021-10-20 | 2022-10-01 |
-| [Endless Filament](https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj) | [Fia Fiell](https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e) | [Endless Filament](https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl) | 15:37 | 2022-08-31 |  |
+| [Endless Filament](https://open.spotify.com/track/2ST4AaDsvY9D15iZSJuMXj) | [Fia Fiell](https://open.spotify.com/artist/4C8lEDj85NWxS4MNCpyp9e) | [Endless Filament](https://open.spotify.com/album/1pgBqtipj2AI0o07ugj5rl) | 15:37 | 2022-08-31 | 2023-02-01 |
 | [Episodes](https://open.spotify.com/track/2Yk3u2Hqr4VvUy7ERCwha4) | [Jacob Haage](https://open.spotify.com/artist/2gBDfxaTBWODAdv66Kgk3p), [Sarah Assbring](https://open.spotify.com/artist/5vbz6O5eYXa0dJ4SZvjka4) | [RIPTIDE](https://open.spotify.com/album/7lAip95eODxxCJOKeeQW1P) | 6:01 | 2021-10-20 | 2022-07-29 |
 | [Escalation : Part I](https://open.spotify.com/track/6UFcyZyiznyK5opjpJXG7n) | [L8ER](https://open.spotify.com/artist/0UQ7wrLnus9Ypwyt9174zS) | [Escalation : Part I](https://open.spotify.com/album/6MzbeU9ItSlG4BZbyF4ltD) | 3:19 | 2021-10-20 | 2022-05-20 |
 | [Escape Pod](https://open.spotify.com/track/2u5SDqMeGdaij0DT5nGrz5) | [тпсб](https://open.spotify.com/artist/3Az7iIfwbhNRg8nB6cep4k) | [Laika's Revenge](https://open.spotify.com/album/5C1ZuUWPiIohp86npG2tMD) | 9:11 | 2021-10-20 | 2022-04-21 |
@@ -308,7 +308,7 @@
 | [Memory Arc](https://open.spotify.com/track/0SDh7AAKlUSzzzXfuB1aVw) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 2:13 | 2021-10-20 |  |
 | [Memory Arc](https://open.spotify.com/track/74EnBZX68SMjd6rTylcpPe) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/4ciNhQuziH6TtbRbDaHicN) | 2:13 | 2021-10-20 | 2022-07-29 |
 | [Memory Training Gamma](https://open.spotify.com/track/7FqzKYClGACfIYBRvm3zWS) | [Isotopic Dreams](https://open.spotify.com/artist/7Bz1z7lm6ikWw8tECu67a8) | [Binaural Brainwaves Gamma](https://open.spotify.com/album/590xwIqVQdmbaiH59TDI9N) | 3:18 | 2021-10-20 |  |
-| [Meridian](https://open.spotify.com/track/3oJTvs1FLdka2ogLkXoQNb) | [Joanne Forman](https://open.spotify.com/artist/1KpISDZpqZArxpPqDxGR4S) | [Cave Vaults of the Moon](https://open.spotify.com/album/1VLJuqs7iwhsPvGZOyvB49) | 2:58 | 2021-10-20 | 2023-01-05 |
+| [Meridian](https://open.spotify.com/track/3oJTvs1FLdka2ogLkXoQNb) | [Joanne Forman](https://open.spotify.com/artist/1KpISDZpqZArxpPqDxGR4S) | [Cave Vaults of the Moon](https://open.spotify.com/album/1VLJuqs7iwhsPvGZOyvB49) | 2:58 | 2021-10-20 |  |
 | [Mexico \(una pirámide al revés\)](https://open.spotify.com/track/63J4sJXJ3FZAH6I5wlZVv8) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [S&S Presents: Dreams](https://open.spotify.com/album/6GSkekvuFxgPhTRNCYeADr) | 2:57 | 2021-10-20 | 2022-06-20 |
 | [Microtronics 20](https://open.spotify.com/track/7wj3TuI2wAzwHDWkp0bCVr) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/5P4pg6W3wwI04pstGDQJ8O) | 1:35 | 2022-03-18 |  |
 | [Milliseconds](https://open.spotify.com/track/6Yj3LX9pxXCIL4fZTAlYkU) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Milliseconds](https://open.spotify.com/album/4LhiM15EyjXVUUvMGPTWN0) | 2:57 | 2021-10-20 |  |
@@ -422,6 +422,7 @@
 | [Slow Loris Versus Poison Snail](https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj) | [David Toop](https://open.spotify.com/artist/3jFTMxWP6at3FioQqFGmjC), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Pink Noir](https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB) | 9:23 | 2021-10-20 | 2022-10-06 |
 | [Soft Gaiden](https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh) | [Brin](https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp) | [Homescreen Glow](https://open.spotify.com/album/7w6JZ6HjbBRDxAaCYOoeGr) | 5:26 | 2021-10-20 |  |
 | [Soft Gaiden](https://open.spotify.com/track/5TSBcSt79jSYwuZmBJDp4X) | [Brin](https://open.spotify.com/artist/0V7s0eS6etON5MepcZeHgp) | [Soft Gaiden / Featherdrift](https://open.spotify.com/album/4LkiJAIvbejVb6r2r8zdR4) | 5:26 | 2021-10-20 | 2022-07-28 |
+| [Solar](https://open.spotify.com/track/0OdWr4LIzlxr03y7R9AQas) | [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee) | [Maquishti](https://open.spotify.com/album/6RSCxwbIAA8Wyc86A0cigc) | 4:10 | 2021-10-20 |  |
 | [Solar](https://open.spotify.com/track/4Mgq8E9ehbpUFAFxiEcwss) | [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee) | [Solar](https://open.spotify.com/album/0qIMW1UNQKG34F9eXtr2uD) | 4:10 | 2021-10-20 | 2022-07-26 |
 | [Solar System](https://open.spotify.com/track/5bPirVpdc1Dc6S9sccjSBj) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Spheres \(Original Score\)](https://open.spotify.com/album/0FxvjAQQvYouHmDAjF3PnR) | 2:05 | 2021-10-20 | 2022-07-25 |
 | [Solar Witnesses](https://open.spotify.com/track/5YKNMbXHA0TaiAiOL8meI9) | [Jupiter Jax](https://open.spotify.com/artist/5EvzRLTfx4YJA71RPEHPmq) | [No Such Thing](https://open.spotify.com/album/66qp2ZAHZ7a6WY19rK2btp) | 1:34 | 2021-10-20 | 2022-07-29 |

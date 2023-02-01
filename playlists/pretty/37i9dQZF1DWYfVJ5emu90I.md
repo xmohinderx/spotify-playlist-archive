@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,496 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,583 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 22 | [ASOBI \(feat\. Candee & MonyHorse\) \- Remix](https://open.spotify.com/track/7C5OicvHguY1bVUF7lSuFq) | [YUTO](https://open.spotify.com/artist/0TAfkV5380gOIJjxMtU8dA), [DopeOnigiri](https://open.spotify.com/artist/3K2Hmv1k0CJjuSRk8NXluO), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR) | [ASOBI \(feat\. Candee & MonyHorse\) \[Remix\]](https://open.spotify.com/album/5d8OTVYyV8DMAXQyge7q45) | 3:16 |
 | 23 | [BARRACUDA](https://open.spotify.com/track/7awUc6wAMXQnaN2bZhVrcd) | [hamma](https://open.spotify.com/artist/7sz6bDQFBV3wCdidLrfev1) | [BARRACUDA](https://open.spotify.com/album/1Vnu5Ij2eHePf3DLHvHdjN) | 2:14 |
 | 24 | [TOKYO YEAH WE BŌSŌ](https://open.spotify.com/track/406d8xtLSYz8KRdh7ld6wb) | [BŌSŌ TOKYO](https://open.spotify.com/artist/437Iz7rlKR2lLuAH1hmbmt), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [TOKYO YEAH WE BŌSŌ](https://open.spotify.com/album/2fiPJXw8YvgLOoJf3nPFOf) | 2:07 |
-| 25 | [Unknown](https://open.spotify.com/track/2RlKUJEsr5AuYWsYRpNkEm) | [CC](https://open.spotify.com/artist/4nNZmOxO4aH9X4IbxDA4do), [Wisteror](https://open.spotify.com/artist/2q1j0ftQGCJzwsnFCh6LOV) | [Unknown](https://open.spotify.com/album/7aIa7HAKMEA7uq0Y33MV7D) | 1:48 |
+| 25 | [Unknown](https://open.spotify.com/track/2RlKUJEsr5AuYWsYRpNkEm) | [CC](https://open.spotify.com/artist/0WX1YKSwScnWDRAzleAkRZ), [Wisteror](https://open.spotify.com/artist/2q1j0ftQGCJzwsnFCh6LOV) | [Unknown](https://open.spotify.com/album/7aIa7HAKMEA7uq0Y33MV7D) | 1:48 |
 | 26 | [When i was young](https://open.spotify.com/track/4fIgIE4U8eeqz1l5qY3QYk) | [MFS](https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb) | [style](https://open.spotify.com/album/63yKg4HtqigLHwlMQsUYiA) | 2:38 |
 | 27 | [OKE](https://open.spotify.com/track/6Qah1RanKHrrv7iYoqjNKM) | [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [OKE](https://open.spotify.com/album/2yZNGTY9G1WABteaesNDRR) | 2:26 |
 | 28 | [SUSUME](https://open.spotify.com/track/5IMqWUA7WsgPpDkx7g21pZ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [MONIBUM](https://open.spotify.com/album/6AAt2CGe0l0eH4Z3cwZyc8) | 3:18 |

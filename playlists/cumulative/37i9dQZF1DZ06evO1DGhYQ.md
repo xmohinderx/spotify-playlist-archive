@@ -4,7 +4,7 @@
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-38 songs - 2 hr 34 min
+39 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,18 +29,19 @@
 | [MOONBEAMS SATELLITE](https://open.spotify.com/track/2Qz5Jj0U1poQ6uZwWyemeK) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [K.A.N.T.A](https://open.spotify.com/artist/1sb3bbYGpYX84TKUvdw2dO) | [LOST IN PARADISE](https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT) | 4:22 | 2022-12-23 |  |
 | [MUSIC WORLD](https://open.spotify.com/track/3h6S9MPRPtt58jWb6JuRrm) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 0:36 | 2023-01-26 |  |
 | [MVP](https://open.spotify.com/track/03BrG3ngOqlLF7Vj1hoOVA) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MVP](https://open.spotify.com/album/4YnNWdsYBVFFGfcgg69vzN) | 1:22 | 2022-12-31 | 2023-01-05 |
-| [MY FOOLISH STORY](https://open.spotify.com/track/23iNE27DugVD8N3LiLTdQF) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:54 | 2023-01-26 |  |
+| [MY FOOLISH STORY](https://open.spotify.com/track/23iNE27DugVD8N3LiLTdQF) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:54 | 2023-01-26 | 2023-02-01 |
 | [Never Change](https://open.spotify.com/track/5VsuLuRLv7JJ2Cx0bMQvAD) | [C.Melo 2000](https://open.spotify.com/artist/0yXdV5R98B2ro9g21c3KA0), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [New Flow 2](https://open.spotify.com/album/07CWE671HIEOJJWE3mmZb4) | 3:26 | 2022-12-23 |  |
 | [NEVER SAY GOODBYE](https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [NEVER SAY GOODBYE](https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3) | 4:50 | 2022-12-23 |  |
 | [NO HOME NO COUNTRY](https://open.spotify.com/track/711S16U7t5IfpIUaIzvcp8) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY), [IMANI](https://open.spotify.com/artist/76aSCaut5ONWWE5btB4Kj8) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 5:30 | 2023-01-26 | 2023-01-29 |
 | [No Tomorrow \(Give It Up\)](https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [No Tomorrow \(Give It Up\)](https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS) | 4:26 | 2022-12-23 |  |
 | [SHOW TIME](https://open.spotify.com/track/5eOOnFQHQdb5DpJvZRPS2l) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [SHOW TIME](https://open.spotify.com/album/24yJA2oiDwau8NsrcqH2lw) | 4:44 | 2022-12-23 |  |
+| [SPARKLE](https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:25 | 2023-01-31 |  |
 | [STAYING IN THE GROOVE](https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [STAYING IN THE GROOVE](https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q) | 4:50 | 2022-12-23 |  |
 | [TEENAGE CITY RIOT](https://open.spotify.com/track/3LT9TScu8L84wBZLHfpSwu) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 3:40 | 2022-12-23 |  |
 | [Temptations](https://open.spotify.com/track/2HyCSbrfRjy0smkJMol7Oy) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Temptations](https://open.spotify.com/album/6vR3bL2HLIKKWpukolyqbM) | 2:49 | 2022-12-23 |  |
 | [Tokyo Pharaoh](https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Tokyo Pharaoh](https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0) | 3:33 | 2022-12-23 |  |
 | [TRUE FICTION](https://open.spotify.com/track/1WSJOy4rfsuOiwQLrfAke7) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [ALI](https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ) | 4:57 | 2022-12-23 |  |
-| [Unbroken](https://open.spotify.com/track/4NhpxU9W1NtpKTjjvhPvCw) | [Dillin Hoox](https://open.spotify.com/artist/5MGKryqtJfI7dlfJMTBQM0), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Sir Jax](https://open.spotify.com/artist/0QhGyoIiXPdih6B4K6lKNC) | [Valhalla](https://open.spotify.com/album/2mtXhQ7aX1uL8BJIhwyIce) | 3:31 | 2023-01-23 |  |
+| [Unbroken](https://open.spotify.com/track/4NhpxU9W1NtpKTjjvhPvCw) | [Dillin Hoox](https://open.spotify.com/artist/5MGKryqtJfI7dlfJMTBQM0), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Sir Jax](https://open.spotify.com/artist/0QhGyoIiXPdih6B4K6lKNC) | [Valhalla](https://open.spotify.com/album/2mtXhQ7aX1uL8BJIhwyIce) | 3:31 | 2023-01-23 | 2023-02-01 |
 | [Vim](https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Vim](https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z) | 5:14 | 2022-12-23 |  |
 | [Whole Lotta Love](https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [木村昴](https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 4:06 | 2022-12-23 |  |
 | [Wild Side](https://open.spotify.com/track/2RSPQJ483jRL1KNtMuKqgh) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 2:38 | 2022-12-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 
 > bangers
 
-[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,141 likes - 245 songs - 15 hr 15 min
+[Carson Howard](https://open.spotify.com/user/21yj6grazxctqzqdtvfi7nkzy) - 6,140 likes - 245 songs - 15 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/25wn6E4IiaAaTH6HBnGJ8y.md) - [plain]
 | 59 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:43 |
 | 60 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
 | 61 | [Magic \- 2017 Remaster](https://open.spotify.com/track/0SAbkr0dS7WK3yJSjaZSZl) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:57 |
-| 62 | [I Ran \(So Far Away\)](https://open.spotify.com/track/2Rwux3fRY1xxl167muIo93) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Grand Theft Auto Vice City OST \(Greatest Hits\)](https://open.spotify.com/album/1A8LZSjPvRpcCJ3Jw4coZe) | 3:39 |
+| 62 | [I Ran \(So Far Away\) \- Single Edit](https://open.spotify.com/track/2Rwux3fRY1xxl167muIo93) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Grand Theft Auto Vice City OST \(Greatest Hits\)](https://open.spotify.com/album/1A8LZSjPvRpcCJ3Jw4coZe) | 3:39 |
 | 63 | [Stayin' Alive](https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Staying Alive \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ) | 1:32 |
 | 64 | [We Are Mirage](https://open.spotify.com/track/6mTnH6xSYwKohtsO9RFzcc) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Liberate \(Remixes\)](https://open.spotify.com/album/2TSM1k1XtJryf6eQGs4dgi) | 6:19 |
 | 65 | [Let My Love Open The Door](https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg) | [Pete Townshend](https://open.spotify.com/artist/24Wa5wIZIo1sPkzVGP0B5p) | [Empty Glass](https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h) | 2:44 |

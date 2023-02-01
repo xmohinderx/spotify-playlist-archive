@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-863 songs - 20 hr 10 min
+865 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [Nuage](https://open.spotify.com/track/7tPWJrIrQ8R3T9lI3EegZi) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soulful Treasures](https://open.spotify.com/album/59cxCCKChUXYJIIDUdxafC) | 1:04 | 2022-03-08 |  |
 | [Ominous](https://open.spotify.com/track/2wXoY3v0XTgKmW7IvCOEh4) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Abstract](https://open.spotify.com/album/6zXvhgdKBac71HBB0YFxgt) | 1:46 | 2022-01-12 |  |
 | [On The Clouds](https://open.spotify.com/track/5mZ8smlHoAlXlJqUN59nsf) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Drift](https://open.spotify.com/album/7rqa0u1lTDoT45FPqTYVfd) | 1:04 | 2022-01-12 |  |
+| [On The Ground](https://open.spotify.com/track/3sJlGcxcUl4u2iWtOrjcAo) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [On The Ground](https://open.spotify.com/album/2FuFwgWVBeopJnGHIPa8Dl) | 1:01 | 2023-01-30 |  |
 | [On The Long Way Home](https://open.spotify.com/track/09PqF9iISSO5f1DtekuZaP) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wanderings](https://open.spotify.com/album/6Rp1i8urV5DkTL1VCgG6Vp) | 1:02 | 2022-02-11 |  |
 | [On Water](https://open.spotify.com/track/1thDh9QTGa7E7Y2AaDxMlt) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Silent Serenity](https://open.spotify.com/album/38rdMbpYKjaOlNAhjI3JTQ) | 1:01 | 2022-05-13 |  |
 | [On Your Way There](https://open.spotify.com/track/2Bq4uaRdOk5jLry2WPsmYG) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Dream Space](https://open.spotify.com/album/5Syb7X9pjYZHqNPxbXO9yM) | 1:05 | 2022-02-03 |  |
@@ -606,6 +607,7 @@
 | [Resting At Last](https://open.spotify.com/track/4EBwcdWCh6Vsa6LBeHnstK) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Forest Walk](https://open.spotify.com/album/0Nk7maUYaBAgpyF1lUPoHH) | 1:02 | 2022-01-12 |  |
 | [Resting For Now](https://open.spotify.com/track/6ZcsnccOegO0qXmAgvmaEG) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Perspectives](https://open.spotify.com/album/3IrnM4TePjh3eadsqS6eq5) | 1:36 | 2022-01-20 |  |
 | [Resting Now](https://open.spotify.com/track/5wdWYC3ub7WgWNc69LC1WC) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Here](https://open.spotify.com/album/7iNn2dwf5X85GZidRJWUoU) | 1:06 | 2022-02-24 |  |
+| [Resting Today](https://open.spotify.com/track/1ZySCwaCSRErhb6CopWj1h) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Resting Today](https://open.spotify.com/album/54vk3Mj0vcoDGd0LlTF62c) | 1:02 | 2023-01-30 |  |
 | [Restored](https://open.spotify.com/track/1LVXqD78BVBoVrp6jv9uhY) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Slow Rising Hope](https://open.spotify.com/album/05bFtzLqr4sBPsxne7idU8) | 1:06 | 2022-01-16 |  |
 | [Restored Again](https://open.spotify.com/track/4FH9yaoG8rcLW0RTqqp2Fd) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Slow Rising Hope](https://open.spotify.com/album/05bFtzLqr4sBPsxne7idU8) | 1:06 | 2022-01-16 |  |
 | [Restored And Complete](https://open.spotify.com/track/56YqDwQdOtlsamPo9mbCcu) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Tenderness](https://open.spotify.com/album/5cqsHPHamgtgv6JUuuKW8j) | 1:02 | 2022-02-11 |  |

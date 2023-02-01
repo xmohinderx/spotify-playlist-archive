@@ -16293,6 +16293,24 @@
     },
     {
       "album": {
+        "name": "Trippy",
+        "url": "https://open.spotify.com/album/4m2Thl6ktgiZTkCxUpKpX5"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207680,
+      "name": "Trippy",
+      "url": "https://open.spotify.com/track/5VuH5mBWdaZi5oNzrFhigj"
+    },
+    {
+      "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,277 likes - 36 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,334 likes - 36 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 28 | [Yeah Boy](https://open.spotify.com/track/2WaOQWSv0D1tZNxyLvnGAI) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:14 |
 | 29 | [needy](https://open.spotify.com/track/1pF52VPPTgPeBzOjg3PyjH) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:11 |
 | 30 | [Music](https://open.spotify.com/track/6PCPxCkN8ClnHN1AESmSJg) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:23 |
-| 31 | [First Time Again](https://open.spotify.com/track/2aPIgCNuLT9TWUN9be2rpR) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [They Don't Know](https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6) | 3:24 |
+| 31 | [We Were Like](https://open.spotify.com/track/5wdwd46vdGxRsy6tBRCSAY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [We Were Like](https://open.spotify.com/album/0yJAsGozlILYqinG4rzjKc) | 3:00 |
 | 32 | [Xo](https://open.spotify.com/track/2sYJeORxYzEQItfa9VmiwZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 2:54 |
 | 33 | [the way i used to](https://open.spotify.com/track/7F3vjCKPlhvWKGl0h4p3lm) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:15 |
 | 34 | [Get over Yourself](https://open.spotify.com/track/0sr84SDJ9VN4EB7p2mWGur) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:20 |
-| 35 | [We Were Like](https://open.spotify.com/track/5wdwd46vdGxRsy6tBRCSAY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [We Were Like](https://open.spotify.com/album/0yJAsGozlILYqinG4rzjKc) | 3:00 |
+| 35 | [First Time Again](https://open.spotify.com/track/2aPIgCNuLT9TWUN9be2rpR) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [They Don't Know](https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6) | 3:24 |
 | 36 | [Stilettos](https://open.spotify.com/track/2q1VQXH254t7zGWpZOQU8x) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:26 |
 
-Snapshot ID: `Mjc5MTUzMTAsMDAwMDAwMDBmOTMwODg5NTdjZWFmZGI5NmViNWM4MjUxN2I1NWE2MA==`
+Snapshot ID: `Mjc5MTk3OTQsMDAwMDAwMDBkYzcwYTVjNGFlNDQxOTBmY2JlNmE4YThlYTIzZmI2OQ==`

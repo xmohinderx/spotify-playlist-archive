@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: Monkey Majik",
+  "description": "The biggest rock artists in Japan right now! Cover: Base Ball Bear",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 162880,
       "name": "All We Need Is Summer Day",
       "url": "https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 131680,
       "name": "Drain Water",
       "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 203320,
       "name": "Influencer",
       "url": "https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ"
@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-07",
+      "date_removed": null,
       "duration_ms": 191373,
       "name": "Mary",
       "url": "https://open.spotify.com/track/6yiqPUtoyygE7I9TJPX8zs"
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 230542,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5"
@@ -3480,7 +3480,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 220533,
       "name": "Running In The Dark - Image Song for Arknights mobile game",
       "url": "https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA"
@@ -3766,6 +3766,24 @@
       "duration_ms": 194784,
       "name": "September",
       "url": "https://open.spotify.com/track/4NAnGLls4LVlk1zOedIZV2"
+    },
+    {
+      "album": {
+        "name": "\u6d77\u306b\u306a\u308a\u305f\u3044 part.3",
+        "url": "https://open.spotify.com/album/7FhnLBi4ao88WF2guGYjXU"
+      },
+      "artists": [
+        {
+          "name": "Base Ball Bear",
+          "url": "https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210440,
+      "name": "SEVENTEEN",
+      "url": "https://open.spotify.com/track/0JJ1bCVoFAh9T5M0g80BzX"
     },
     {
       "album": {
@@ -4830,7 +4848,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 194695,
       "name": "Vandalize",
       "url": "https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt"
@@ -4884,7 +4902,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 195999,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/0ScnRmW5aehQSRTbHSBMS8"
@@ -6835,6 +6853,28 @@
     },
     {
       "album": {
+        "name": "\u5149",
+        "url": "https://open.spotify.com/album/5Vxac0LhubZos7i7672DSA"
+      },
+      "artists": [
+        {
+          "name": "TRI4TH",
+          "url": "https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia"
+        },
+        {
+          "name": "TOSHI-LOW",
+          "url": "https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188653,
+      "name": "\u5149",
+      "url": "https://open.spotify.com/track/7yuYVEQlfmZwI025JosmJx"
+    },
+    {
+      "album": {
         "name": "\u516b\u6708\u306f\u50d5\u306e\u540d\u524d",
         "url": "https://open.spotify.com/album/7i4Z0kxoGUN4Ol3sLVOZeU"
       },
@@ -7210,7 +7250,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 241133,
       "name": "\u5bcc\u58eb\u3055\u3093",
       "url": "https://open.spotify.com/track/1vjhbCjknwipYFlxm90yc6"
@@ -7766,7 +7806,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-02-01",
       "duration_ms": 191786,
       "name": "\u6cb9",
       "url": "https://open.spotify.com/track/1ldQWi4dvIiV8ostfEo8vS"

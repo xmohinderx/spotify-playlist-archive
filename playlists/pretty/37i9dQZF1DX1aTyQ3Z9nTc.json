@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 112984,
+  "num_followers": 113103,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGE4YzM5N2ZkZjU0YmJhNGVkYTBmMjQ2M2QzZWVlZDgz",
+  "snapshot_id": "MTY3NDc5NTYwMCwwMDAwMDAwMGI1ZjQwNDdjNzY5YjAzM2Q5NWU4OTBmMjY0N2QzNGM4",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -353,32 +353,24 @@
       "url": "https://open.spotify.com/track/0ITaSRuI0L1RNL7ZNYTTi7"
     },
     {
-      "added_at": "2022-07-29 04:11:59",
+      "added_at": "2022-08-12 04:16:30",
       "album": {
-        "name": "New To You (with Normani, Tinashe, & Offset)",
-        "url": "https://open.spotify.com/album/6EfbY42O3BlghXBwGDAnW9"
+        "name": "Picture in my mind",
+        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 302952,
-      "name": "New To You (with Normani, Tinashe, & Offset)",
-      "url": "https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp"
+      "duration_ms": 176930,
+      "name": "Picture in my mind",
+      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
     },
     {
       "added_at": "2022-10-28 04:39:09",
@@ -513,24 +505,48 @@
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
     },
     {
-      "added_at": "2022-08-12 04:16:30",
+      "added_at": "2022-07-29 04:11:59",
       "album": {
-        "name": "Picture in my mind",
-        "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
+        "name": "New To You (with Normani, Tinashe, & Offset)",
+        "url": "https://open.spotify.com/album/6EfbY42O3BlghXBwGDAnW9"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 302952,
+      "name": "New To You (with Normani, Tinashe, & Offset)",
+      "url": "https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "to hell with it",
+        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
       },
       "artists": [
         {
           "name": "PinkPantheress",
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 176930,
-      "name": "Picture in my mind",
-      "url": "https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1"
+      "duration_ms": 138268,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -629,42 +645,6 @@
       "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
     },
     {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "to hell with it",
-        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 138268,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Ungodly Hour",
@@ -699,6 +679,26 @@
       "duration_ms": 217013,
       "name": "Free Room (feat. Appleby)",
       "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -741,26 +741,6 @@
       "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
     },
     {
-      "added_at": "2022-08-05 04:16:42",
-      "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 232122,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
-    },
-    {
       "added_at": "2022-10-28 04:39:09",
       "album": {
         "name": "Rose Rouge",
@@ -801,6 +781,26 @@
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
     },
     {
+      "added_at": "2022-08-05 04:16:42",
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 232122,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
+    },
+    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Last Year Was Weird, Vol. 2",
@@ -815,6 +815,26 @@
       "duration_ms": 233537,
       "name": "24k",
       "url": "https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q"
+    },
+    {
+      "added_at": "2022-09-23 04:08:19",
+      "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 196965,
+      "name": "Bleu (better with time)",
+      "url": "https://open.spotify.com/track/7c584s9RZQzkJDoC08VDJB"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -881,6 +901,22 @@
       "url": "https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Ease Up",
+        "url": "https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Ease Up",
+      "url": "https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg"
+    },
+    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Recap (with VanJess & Channel Tres)",
@@ -907,46 +943,6 @@
     {
       "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 226720,
-      "name": "The Worst In Me",
-      "url": "https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo"
-    },
-    {
-      "added_at": "2022-09-23 04:08:19",
-      "album": {
-        "name": "Actual Life 3 (January 1 - September 9 2022)",
-        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 196965,
-      "name": "Bleu (better with time)",
-      "url": "https://open.spotify.com/track/7c584s9RZQzkJDoC08VDJB"
-    },
-    {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
         "name": "Wake Up, Get Down",
         "url": "https://open.spotify.com/album/5GHIjfV0FiuXa2cvqovHg6"
       },
@@ -969,28 +965,24 @@
       "url": "https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54"
     },
     {
-      "added_at": "2022-08-05 04:16:42",
+      "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "Funk Wav Bounces Vol. 2",
-        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 233974,
-      "name": "Nothing More To Say (with 6LACK & Donae\u2019o)",
-      "url": "https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy"
+      "duration_ms": 226720,
+      "name": "The Worst In Me",
+      "url": "https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo"
     }
   ],
   "unique_name": "Choice Edit",

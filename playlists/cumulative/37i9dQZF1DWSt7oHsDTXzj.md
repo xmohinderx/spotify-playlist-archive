@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-202 songs - 11 hr 8 min
+203 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Cross You Off My List](https://open.spotify.com/track/5aPV7kWtSzu3X6qA3xKaVH) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Little Drummer Girl / Cross You Off My List](https://open.spotify.com/album/5D05CoUigGp5fbNjlu3j6T) | 3:10 | 2021-11-12 | 2022-07-23 |
 | [Darlin' \(Christmas is Coming\)](https://open.spotify.com/track/1FOqaVsW6nRhBx2mM2ZlWT) | [Over the Rhine](https://open.spotify.com/artist/1z26dqCz3PySR4G7HWsn93) | [Snow Angels](https://open.spotify.com/album/7oSLVfLvqavTUiwiJFEvGO) | 3:35 | 2021-11-12 | 2022-07-20 |
 | [Day After Tomorrow](https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7) | 6:05 | 2021-12-03 |  |
+| [Did I Make You Cry on Christmas Day? \(Well, You Deserved it!\)](https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Did I Make You Cry on Christmas Day? \(Well, You Deserved it!\)](https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ) | 3:42 | 2022-12-23 |  |
 | [Don't Be Alone \(This Christmas\)](https://open.spotify.com/track/3Mry24wXzIDea8bYguQx0q) | [Sweet Baboo](https://open.spotify.com/artist/6cOAzWunacT10kthrJ4Oet) | [Don't Be Alone \(This Christmas\)](https://open.spotify.com/album/5PogCbbRrgXwdZsibYCd1o) | 3:34 | 2021-11-12 | 2022-07-14 |
 | [Driving Home For Christmas](https://open.spotify.com/track/0BvyQ2XjPvcPAzj9WieojA) | [Alice Jemima](https://open.spotify.com/artist/0mehCGPnogbq4Kw6FQZDxR) | [Driving Home For Christmas](https://open.spotify.com/album/4rc64XeZEuo7uf9lNWGuJP) | 3:38 | 2021-11-12 | 2022-06-29 |
 | [Driving Under Stars](https://open.spotify.com/track/0wwhVMPo09vXS4uGTgOS2d) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Driving Under Stars](https://open.spotify.com/album/3x0TYmUqWVg1g4I2Hdvra1) | 3:41 | 2021-11-12 | 2022-07-27 |
@@ -122,7 +123,7 @@
 | [LIFE ON EARTH \- with Preservation Hall Jazz Band](https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [LIFE ON EARTH \(with Preservation Hall Jazz Band\)](https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w) | 6:20 | 2022-12-23 |  |
 | [Linus n' Lucy \(Theme from Peanuts\)](https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Linus n' Lucy \(Theme from Peanuts\)](https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc) | 2:52 | 2021-12-03 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/1uIYa94i0ebCCDz4dlYPiN) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [lil drmr bb](https://open.spotify.com/album/5UAmTPmxuE5NWxxowhRtcf) | 3:14 | 2021-11-12 | 2022-07-29 |
-| [Little Saint Nick](https://open.spotify.com/track/1YgtNMaefny7I9KJPa577i) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Little Saint Nick](https://open.spotify.com/album/2GgkAxTD7WvusQFB3iEwBP) | 2:15 | 2021-11-12 |  |
+| [Little Saint Nick](https://open.spotify.com/track/1YgtNMaefny7I9KJPa577i) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Little Saint Nick](https://open.spotify.com/album/2GgkAxTD7WvusQFB3iEwBP) | 2:15 | 2021-11-12 | 2023-02-01 |
 | [Lonely Christmas](https://open.spotify.com/track/1tXPA83Z367gV2LKAhFFON) | [Now, Now](https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3) | [Lonely Christmas](https://open.spotify.com/album/37oKVipOX0GOHxfjAOaHf2) | 4:19 | 2021-11-12 | 2022-07-28 |
 | [Lonely Man of Winter](https://open.spotify.com/track/1OxRNKfrUtgaWoyLZye2ZA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Lonely Man of Winter](https://open.spotify.com/album/16KjliJcOiaG197Hzl9z3s) | 3:11 | 2021-11-12 |  |
 | [Lonely Man of Winter](https://open.spotify.com/track/3s1ajekHdEht2t8thsmFJT) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Lonely Man of Winter](https://open.spotify.com/album/6ih3mS49nmttFRS8A63X7L) | 3:11 | 2021-11-12 | 2022-07-29 |
